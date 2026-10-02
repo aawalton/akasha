@@ -187,10 +187,7 @@ export const overwhereITheDeserterCrew = {
       fact: "Osric dives under his cart at the first slug; Tobin looses at the nearest man once blades are out.",
       knowers: ["lore-disclosure/game-master"],
     },
-    {
-      fact: "A man Tobin hits turns on him.",
-      knowers: ["lore-disclosure/game-master"],
-    },
+    { fact: "A man Tobin hits turns on him.", knowers: ["lore-disclosure/game-master"] },
     {
       fact: "When Voss falls or three of the five are down, the rest whistle three times and break for the pit.",
       knowers: ["lore-disclosure/game-master"],
@@ -201,19 +198,39 @@ export const overwhereITheDeserterCrew = {
     },
     {
       fact: "Nala's first slug struck Voss in the head; bleeding, shield up, he charges her with axe high.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-i-nala",
+        "character-other/overwhere-i-harl-voss",
+      ],
     },
     {
       fact: "The crew's Drakewolf dragged Nala down on the road, jaws locked on her forearm.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-i-nala",
+        "character-other/overwhere-i-voss-drakewolf",
+      ],
     },
     {
       fact: "At her first slug two of the five raised crossbows and three drew blades and closed.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-i-nala",
+        "character-other/overwhere-i-quarry-crewman-one",
+        "character-other/overwhere-i-quarry-crewman-two",
+        "character-other/overwhere-i-quarry-crewman-three",
+        "character-other/overwhere-i-quarry-crewman-four",
+        "character-other/overwhere-i-quarry-crewman-five",
+      ],
     },
     {
       fact: "Osric dove under his cart at Nala's first slug.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-i-nala",
+        "lore/overwhere-i-osric-fenn",
+      ],
     },
     {
       fact: "Breaking the crew Drakewolf's jaw-hold on her arm is a hard act.",
@@ -230,6 +247,14 @@ export const overwhereITheDeserterCrew = {
     {
       fact: "The crew Drakewolf's skull wards 1 against a slug to its head.",
       knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Voss wears a steel cap; Nala's first slug cracked into it above his brow.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-i-nala",
+        "character-other/overwhere-i-harl-voss",
+      ],
     },
   ],
   secrets: "jsonl",
