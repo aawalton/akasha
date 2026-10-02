@@ -14,7 +14,7 @@ export const overwhereIii00064 = {
     "character-player/overwhere-iii-nala",
     "character-other/overwhere-iii-oswin-fairley",
   ],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action:
     "I hit it with a Current Lash and Cleansing Weave together, braided, as hard as I can manage",
   beats: [
@@ -42,7 +42,12 @@ export const overwhereIii00064 = {
     "place/overwhere-iii-fairley-farm",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/memory", "story-recorder/picture"],
+  recordedBy: [
+    "story-recorder/inventory",
+    "story-recorder/memory",
+    "story-recorder/picture",
+    "story-recorder/mechanics",
+  ],
   endsAt: "2026-10-06T08:40:00.000Z",
   coverAfter: "You twist a Current Lash and a Cleansing Weave into one braid",
 } as const satisfies StoryTurnPlayed
