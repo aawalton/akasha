@@ -12,5 +12,9 @@ export const overwhereITheDeserterCrew2 = {
       fact: "The burned crew Drakewolf runs on past the pit into the forest and does not come back today.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "In the pit Voss rallies the rest behind stone, crossbows on the lip, and waits.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
