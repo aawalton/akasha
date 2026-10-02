@@ -83,4 +83,5 @@ export const hollowmere0017EmergencyContact = {
     "character-other/hollowmere-lin",
     "character-other/hollowmere-kit",
   ],
+  reviewedBy: ["story-reviewer/style"],
 } as const satisfies StoryChapterWritten
