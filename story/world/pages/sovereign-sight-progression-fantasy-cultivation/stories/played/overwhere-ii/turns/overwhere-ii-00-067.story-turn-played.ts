@@ -10,7 +10,7 @@ export const overwhereIi00067 = {
   position: 67,
   prose: "txt",
   characters: ["character-player/overwhere-ii-nala"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/recorders",
   action:
     "I charge the voice with my spear, ready to Push an crossbow bolts coming for me and trusting to my reinforced skin and muscles, then use my tricks to get Cray through the chest with the spear, aiming for the heart and keeping him at a distance.",
   beats: [
@@ -41,6 +41,6 @@ export const overwhereIi00067 = {
     "lore/overwhere-ii-oswy-crake-2",
     "place/overwhere-ii-ashlin-farm",
   ],
-  reviewedBy: ["story-reviewer/continuity"],
+  reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
   endsAt: "2026-10-14T18:31:00.000Z",
 } as const satisfies StoryTurnPlayed
