@@ -129,4 +129,56 @@ export const hollowmere0001Thornfield14 = {
     "image/image-bddae35ea9323def",
     "image/image-7d159cd95d1e6912",
   ],
+  pictured: [
+    {
+      cover: "image/image-cb9410a4893a9db7",
+      character: "character-player/hollowmere-nala",
+      outfit: "naked",
+      setting: "Thornfield 14",
+    },
+    {
+      cover: "image/image-220f4f497e59334d",
+      character: "character-player/hollowmere-nala",
+      outfit: "long white cotton nightshirt",
+    },
+    {
+      cover: "image/image-c0dd8e15f886d933",
+      character: "character-player/hollowmere-nala",
+      outfit: "naked",
+      setting: "the corridor bathroom",
+    },
+    {
+      cover: "image/image-d76ee098554c5427",
+      character: "character-other/hollowmere-bea",
+      outfit: "huge knitted jumper over black leggings",
+      setting: "the Thornfield kitchen",
+    },
+    {
+      cover: "image/image-38bb58521049b61b",
+      character: "character-other/hollowmere-yusra",
+      outfit: "charcoal knit jumper with a brass warden's badge, grey wool trousers",
+    },
+    { cover: "image/image-ae8b5b24ada3fbee", setting: "the quad" },
+    {
+      cover: "image/image-b2e099c41984ee4e",
+      character: "character-player/hollowmere-nala",
+      outfit: "grey jumper and jeans",
+    },
+    {
+      cover: "image/image-0dd7b4db7b52d492",
+      character: "character-player/hollowmere-nala",
+      outfit: "white blouse under a black academic gown",
+    },
+    {
+      cover: "image/image-bddae35ea9323def",
+      character: "character-other/hollowmere-kit",
+      outfit: "high-necked black jumper under a black academic gown",
+      setting: "the Great Hall",
+    },
+    {
+      cover: "image/image-7d159cd95d1e6912",
+      character: "character-player/hollowmere-nala",
+      outfit: "long white cotton nightshirt",
+    },
+  ],
 } as const satisfies StoryChapterWritten
