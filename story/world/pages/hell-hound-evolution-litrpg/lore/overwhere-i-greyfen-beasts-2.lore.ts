@@ -160,5 +160,9 @@ export const overwhereIGreyfenBeasts2 = {
       fact: "A snapper dead in deep water sinks; a water working draws it up, slow and heavy, in a minute.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "A hurt Mire Snapper in deep water stays down and does not come back to the carcass that day.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
