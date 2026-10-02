@@ -4,10 +4,13 @@ export const overwhereI00095 = {
   id: "01a0fedf-e541-7886-ae78-96d9c41fe2d0",
   type: "page-type/story-turn-played",
   slug: "overwhere-i-00-095",
+  ownLength: 418,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-i"],
   position: 95,
-  stepStatus: "step-status/writer",
+  prose: "txt",
+  characters: ["character-player/overwhere-i-nala"],
+  stepStatus: "step-status/reviewers",
   action: "“I’ll take all three”",
   beats: [
     "\"I'll take all three,\" Nala says, and counts out 13 copper into the innkeeper's broad palm.",
@@ -22,6 +25,8 @@ export const overwhereI00095 = {
     'He eyes Nala, the bulging sack on her shoulder and the crossbow. "And yours, woman?"',
   ],
   lore: [
+    "lore/overwhere-i-nala",
+    "lore/overwhere-i-nala-2",
     "lore/overwhere-i-osric-fenn",
     "place/overwhere-i-greyback-and-east-road",
     "place/overwhere-i-wendlow",
