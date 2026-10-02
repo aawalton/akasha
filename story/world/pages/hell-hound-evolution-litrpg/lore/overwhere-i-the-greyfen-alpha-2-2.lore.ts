@@ -88,5 +88,9 @@ export const overwhereITheGreyfenAlpha22 = {
       fact: "Ghost-Eye's head in its cask of salt weighs about seventy pounds.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Ghost-Eye's head travels in a tarred cask, salt packed round it to the lid.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+    },
   ],
 } as const satisfies Lore

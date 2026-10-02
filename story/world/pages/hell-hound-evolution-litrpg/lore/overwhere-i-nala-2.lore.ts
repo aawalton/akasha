@@ -163,5 +163,9 @@ export const overwhereINala2 = {
       fact: "On day 6 Nala took a bed, supper and a hot bath at the Ford Inn, and slept behind a barred door.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
+    {
+      fact: "Fire bound with earth into one strength working let Nala shoulder Ghost-Eye's cask like washing.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+    },
   ],
 } as const satisfies Lore

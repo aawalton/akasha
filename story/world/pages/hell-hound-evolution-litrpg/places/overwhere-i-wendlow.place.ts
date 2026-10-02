@@ -154,7 +154,7 @@ export const overwhereIWendlow = {
     },
     {
       fact: "From the gate to Antler Hall up the high street is about ten minutes on foot.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
     {
       fact: "Antler Hall is a timbered hall hung with antlers and old bounty slips; a long counter runs its back.",
@@ -194,6 +194,10 @@ export const overwhereIWendlow = {
     },
     {
       fact: "Behind Antler Hall's counter stands a lean grey woman with scarred hands.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+    },
+    {
+      fact: "Wendlow's high street leans timber and plaster over the road and smells of bread, dung and river.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
   ],
