@@ -32,5 +32,9 @@ export const overwhereIiiCorruption2 = {
       fact: "Pulled in its sett, the fox wakes in pain and bolts out, straight at the nearest warm body.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Nala's first braided pull, down through the earth, drew the fox's blight one of about four.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+    },
   ],
 } as const satisfies Lore
