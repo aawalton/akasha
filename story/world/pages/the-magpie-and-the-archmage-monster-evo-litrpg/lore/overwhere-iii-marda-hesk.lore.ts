@@ -224,6 +224,10 @@ export const overwhereIiiMardaHesk = {
         "character-other/overwhere-iii-marda-hesk",
       ],
     },
+    {
+      fact: "Marda has heard Hild Wendle's leg and Edda Crane's hand are clean; she counts five blighted cured.",
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-marda-hesk"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
