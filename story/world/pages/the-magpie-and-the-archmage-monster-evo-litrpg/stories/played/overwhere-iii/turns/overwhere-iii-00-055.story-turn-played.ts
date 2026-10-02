@@ -4,7 +4,7 @@ export const overwhereIii00055 = {
   id: "01a0fd73-1a8b-7203-bb6c-17618a36bc0b",
   type: "page-type/story-turn-played",
   slug: "overwhere-iii-00-055",
-  ownLength: 179,
+  ownLength: 180,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iii"],
   position: 55,
@@ -14,7 +14,7 @@ export const overwhereIii00055 = {
     "character-other/overwhere-iii-marda-hesk",
     "character-other/overwhere-iii-bet-harrow",
   ],
-  stepStatus: "step-status/writer",
+  stepStatus: "step-status/recorders",
   action: "I work on the next blightstone while my mana lasts, then wind down for the night.",
   beats: [
     "Marda lifts the stag's second stone out with her tongs and sets it on the desk.",
