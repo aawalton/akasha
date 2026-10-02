@@ -63,5 +63,9 @@ export const overwhereITheDeserterCrew22 = {
       fact: "If she spotted the ambush, its bolts are seen ones; if not, both first bolts come unseen.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Crow wears a leather jack and hood that ward 1; a beam burns through it.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
