@@ -8,6 +8,11 @@
 {"propertySlug":"item-character","path":"story/world/pages/emberdeep/stories/written/emberdeep/items/emberdeep-rope.story-item.ts","id":"01a0fde6-9f8a-7504-92a5-76fa88d762f8"}
 {"propertySlug":"item-character","path":"story/world/pages/emberdeep/stories/written/emberdeep/items/emberdeep-tin-lamp.story-item.ts","id":"01a0fde6-9f8a-7dfc-8446-f37edaa2eb31"}
 {"propertySlug":"lore-about","path":"story/world/pages/emberdeep/lore/emberdeep-nala.lore.ts","id":"01a0fdc6-e78f-7abc-a06f-6829cc195f28"}
+{"propertySlug":"lore-knowers","path":"story/world/pages/emberdeep/lore/emberdeep-elowen.lore.ts","id":"01a0fdc6-e78e-71b8-8ff6-92b9fc83baac"}
 {"propertySlug":"lore-knowers","path":"story/world/pages/emberdeep/lore/emberdeep-nala.lore.ts","id":"01a0fdc6-e78f-7abc-a06f-6829cc195f28"}
+{"propertySlug":"lore-knowers","path":"story/world/pages/emberdeep/lore/emberdeep-world.lore.ts","id":"01a0fdc6-e790-7349-9172-c5bcc9cc558c"}
+{"propertySlug":"lore-knowers","path":"story/world/pages/emberdeep/lore/emberdeep-wren.lore.ts","id":"01a0fdc6-e790-71e7-94cf-6a7588fe17cb"}
 {"propertySlug":"lore-knowers","path":"story/world/pages/emberdeep/places/emberdeep-corbel-house.place.ts","id":"01a0fdc6-e790-720d-8514-3033f5d0b8d3"}
+{"propertySlug":"lore-knowers","path":"story/world/pages/emberdeep/places/emberdeep-guild-hall.place.ts","id":"01a0fdc6-e790-77be-8ff2-7957f1b0c4f4"}
+{"propertySlug":"lore-knowers","path":"story/world/pages/emberdeep/places/emberdeep-town.place.ts","id":"01a0fdc6-e790-723b-9972-a23f195ffd66"}
 {"propertySlug":"metric-of-character","path":"story/world/pages/emberdeep/stories/written/emberdeep/mechanics/metrics/purses/emberdeep-nala.metric-character-currency.ts","id":"01a0fde6-9f8a-7f0b-a8ae-89073795e3a7"}

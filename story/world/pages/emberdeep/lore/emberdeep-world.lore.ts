@@ -14,6 +14,7 @@ export const emberdeepWorld = {
         "lore-disclosure/game-master",
         "character-other/emberdeep-wren",
         "character-other/emberdeep-elowen",
+        "character-player/emberdeep-nala",
       ],
     },
     {
@@ -22,6 +23,7 @@ export const emberdeepWorld = {
         "lore-disclosure/game-master",
         "character-other/emberdeep-wren",
         "character-other/emberdeep-elowen",
+        "character-player/emberdeep-nala",
       ],
     },
     {
@@ -46,11 +48,17 @@ export const emberdeepWorld = {
         "lore-disclosure/game-master",
         "character-other/emberdeep-wren",
         "character-other/emberdeep-elowen",
+        "character-player/emberdeep-nala",
       ],
     },
     {
       fact: "A copper delver may go only to the first three levels, and only in a party of three or more.",
-      knowers: ["lore-disclosure/game-master", "character-other/emberdeep-wren"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/emberdeep-wren",
+        "character-player/emberdeep-nala",
+        "character-other/emberdeep-elowen",
+      ],
     },
     {
       fact: "Ember-stones carried up from the Deep give steady warmth and a soft orange light for months.",
@@ -58,6 +66,7 @@ export const emberdeepWorld = {
         "lore-disclosure/game-master",
         "character-other/emberdeep-wren",
         "character-other/emberdeep-elowen",
+        "character-player/emberdeep-nala",
       ],
     },
     {
@@ -66,6 +75,7 @@ export const emberdeepWorld = {
         "lore-disclosure/game-master",
         "character-other/emberdeep-wren",
         "character-other/emberdeep-elowen",
+        "character-player/emberdeep-nala",
       ],
     },
     {
@@ -114,6 +124,23 @@ export const emberdeepWorld = {
         "lore-disclosure/game-master",
         "character-other/emberdeep-wren",
         "character-other/emberdeep-elowen",
+        "character-player/emberdeep-nala",
+      ],
+    },
+    {
+      fact: "The Deep's passages shift from season to season, so a map of it is a guide and not a promise.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/emberdeep-nala",
+        "character-other/emberdeep-elowen",
+      ],
+    },
+    {
+      fact: "Pennies are copper, marks are silver and crowns are gold, and twelve pennies make a mark.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/emberdeep-nala",
+        "character-other/emberdeep-wren",
       ],
     },
   ],

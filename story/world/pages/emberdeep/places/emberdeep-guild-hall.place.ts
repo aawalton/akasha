@@ -14,6 +14,7 @@ export const emberdeepGuildHall = {
         "lore-disclosure/game-master",
         "character-other/emberdeep-wren",
         "character-other/emberdeep-elowen",
+        "character-player/emberdeep-nala",
       ],
     },
     {
@@ -30,23 +31,42 @@ export const emberdeepGuildHall = {
         "lore-disclosure/game-master",
         "character-other/emberdeep-wren",
         "character-other/emberdeep-elowen",
+        "character-player/emberdeep-nala",
       ],
     },
     {
       fact: "A registered delver is given a copper rank token, stamped with her name, on a leather cord.",
-      knowers: ["lore-disclosure/game-master", "character-other/emberdeep-wren"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/emberdeep-wren",
+        "character-player/emberdeep-nala",
+        "character-other/emberdeep-elowen",
+      ],
     },
     {
       fact: "A new delver hears the Rules of the Deep read aloud by a clerk before she may go down.",
-      knowers: ["lore-disclosure/game-master", "character-other/emberdeep-wren"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/emberdeep-wren",
+        "character-player/emberdeep-nala",
+        "character-other/emberdeep-elowen",
+      ],
     },
     {
       fact: "The party board chalks up every party wanting hands, and every delver looking for a party.",
-      knowers: ["lore-disclosure/game-master", "character-other/emberdeep-wren"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/emberdeep-wren",
+        "character-player/emberdeep-nala",
+      ],
     },
     {
       fact: "The guild sells a copy of the first level's map for two pennies.",
-      knowers: ["lore-disclosure/game-master", "character-other/emberdeep-wren"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/emberdeep-wren",
+        "character-player/emberdeep-nala",
+      ],
     },
   ],
 } as const satisfies Place

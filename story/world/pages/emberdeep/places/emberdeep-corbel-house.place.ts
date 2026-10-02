@@ -14,11 +14,19 @@ export const emberdeepCorbelHouse = {
     },
     {
       fact: "Corbel House is kept by a stout old widow who serves porridge at seven and takes rent on Restday.",
-      knowers: ["lore-disclosure/game-master", "character-other/emberdeep-wren"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/emberdeep-wren",
+        "character-player/emberdeep-nala",
+      ],
     },
     {
       fact: "Corbel House's top landing has two rooms, 7 and 8, facing each other, and a small shared washroom.",
-      knowers: ["lore-disclosure/game-master", "character-other/emberdeep-wren"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/emberdeep-wren",
+        "character-player/emberdeep-nala",
+      ],
     },
     {
       fact: "Room 7 is narrow: a bed, a washstand, a chest, a row of pegs and a window over the rooftops.",
@@ -26,11 +34,19 @@ export const emberdeepCorbelHouse = {
     },
     {
       fact: "Hot water at Corbel House is carried up in cans from the ember-stove in the kitchen.",
-      knowers: ["lore-disclosure/game-master", "character-other/emberdeep-wren"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/emberdeep-wren",
+        "character-player/emberdeep-nala",
+      ],
     },
     {
       fact: "Room 7 at Corbel House is paid to the end of the week.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/emberdeep-nala",
+        "character-other/emberdeep-wren",
+      ],
     },
   ],
 } as const satisfies Place

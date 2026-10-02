@@ -18,7 +18,11 @@ export const emberdeepWren = {
     },
     {
       fact: "Wren is sun-browned and freckled, with hazel eyes, a gap-toothed grin and short sandy hair.",
-      knowers: ["lore-disclosure/game-master", "character-other/emberdeep-wren"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/emberdeep-wren",
+        "character-player/emberdeep-nala",
+      ],
     },
     {
       fact: "Wren cuts her own hair with her knife, and it shows.",
@@ -30,7 +34,12 @@ export const emberdeepWren = {
     },
     {
       fact: "Wren lodges in room 8 at Corbel House, across the top landing from room 7.",
-      knowers: ["lore-disclosure/game-master", "character-other/emberdeep-wren"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/emberdeep-wren",
+        "character-player/emberdeep-nala",
+        "character-other/emberdeep-elowen",
+      ],
     },
     {
       fact: "Wren talks fast, laughs easily, shares what little she has, and is brave to the edge of stupid.",
@@ -46,11 +55,19 @@ export const emberdeepWren = {
     },
     {
       fact: "Wren has delved two years, holds iron rank, and can open most locks with a bent pin.",
-      knowers: ["lore-disclosure/game-master", "character-other/emberdeep-wren"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/emberdeep-wren",
+        "character-player/emberdeep-nala",
+      ],
     },
     {
       fact: "Wren's party broke up in the winter, and she has been looking for another since.",
-      knowers: ["lore-disclosure/game-master", "character-other/emberdeep-wren"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/emberdeep-wren",
+        "character-player/emberdeep-nala",
+      ],
     },
     {
       fact: "Wren likes girls, has had a few tumbles, and has never kept one long.",

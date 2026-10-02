@@ -18,7 +18,11 @@ export const emberdeepElowen = {
     },
     {
       fact: "Elowen has pale skin, wide green eyes and ash-brown hair cut straight at her shoulders.",
-      knowers: ["lore-disclosure/game-master", "character-other/emberdeep-elowen"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/emberdeep-elowen",
+        "character-player/emberdeep-nala",
+      ],
     },
     {
       fact: "Elowen has small round tits with pale pink nipples, and a soft tuft of brown hair over her cunt.",
@@ -26,7 +30,11 @@ export const emberdeepElowen = {
     },
     {
       fact: "Elowen can call a small light to her fingertips, and it is the only magic she has.",
-      knowers: ["lore-disclosure/game-master", "character-other/emberdeep-elowen"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/emberdeep-elowen",
+        "character-player/emberdeep-nala",
+      ],
     },
     {
       fact: "Elowen comes from Hollin Wood, two days down the valley, where her mother is the hedge-witch.",
@@ -34,7 +42,11 @@ export const emberdeepElowen = {
     },
     {
       fact: "Elowen reached Emberdeep last night, and registers at the guild hall the same morning as Nala.",
-      knowers: ["lore-disclosure/game-master", "character-other/emberdeep-elowen"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/emberdeep-elowen",
+        "character-player/emberdeep-nala",
+      ],
     },
     {
       fact: "Elowen is nervous, earnest and polite, apologises too often, and is braver than she believes.",
@@ -42,15 +54,31 @@ export const emberdeepElowen = {
     },
     {
       fact: "Elowen has the cheapest room at the Brass Kettle, under the eaves, paid for three nights.",
-      knowers: ["lore-disclosure/game-master", "character-other/emberdeep-elowen"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/emberdeep-elowen",
+        "character-player/emberdeep-nala",
+      ],
     },
     {
       fact: "Elowen knows herbs and simples from her mother, and carries a little pouch of them.",
-      knowers: ["lore-disclosure/game-master", "character-other/emberdeep-elowen"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/emberdeep-elowen",
+        "character-player/emberdeep-nala",
+      ],
     },
     {
       fact: "Elowen has never kissed anyone, and has only lately let herself think it would be a girl.",
       knowers: ["lore-disclosure/game-master", "character-other/emberdeep-elowen"],
+    },
+    {
+      fact: "Elowen Fairweather comes from Hollin Wood, where her mother is a hedge-witch.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/emberdeep-nala",
+        "character-other/emberdeep-elowen",
+      ],
     },
   ],
   secrets: "jsonl",

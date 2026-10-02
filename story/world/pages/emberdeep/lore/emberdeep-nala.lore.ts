@@ -72,6 +72,32 @@ export const emberdeepNala = {
       fact: "Nala knows no one in Emberdeep, and no one in Emberdeep knew her before today.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Nala is registered with the Delvers' Guild as Nala Marsh of Fennick, a copper delver.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/emberdeep-nala",
+        "character-other/emberdeep-elowen",
+        "character-other/emberdeep-wren",
+      ],
+    },
+    {
+      fact: "Nala, Wren and Elowen have agreed to make a party of three, and to talk it over tomorrow.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/emberdeep-nala",
+        "character-other/emberdeep-elowen",
+        "character-other/emberdeep-wren",
+      ],
+    },
+    {
+      fact: "After registering, the map and supper, Nala's purse holds three pennies.",
+      knowers: ["lore-disclosure/game-master", "character-player/emberdeep-nala"],
+    },
+    {
+      fact: "Nala likes looking at Wren and Elowen both, and doesn't want to stop.",
+      knowers: ["lore-disclosure/game-master", "character-player/emberdeep-nala"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore

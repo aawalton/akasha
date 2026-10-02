@@ -13,6 +13,7 @@ export const emberdeepTown = {
         "lore-disclosure/game-master",
         "character-other/emberdeep-wren",
         "character-other/emberdeep-elowen",
+        "character-player/emberdeep-nala",
       ],
     },
     {
@@ -21,6 +22,7 @@ export const emberdeepTown = {
         "lore-disclosure/game-master",
         "character-other/emberdeep-wren",
         "character-other/emberdeep-elowen",
+        "character-player/emberdeep-nala",
       ],
     },
     {
@@ -37,11 +39,25 @@ export const emberdeepTown = {
         "lore-disclosure/game-master",
         "character-other/emberdeep-wren",
         "character-other/emberdeep-elowen",
+        "character-player/emberdeep-nala",
       ],
     },
     {
       fact: "Ladder Lane climbs from Coppergate in long flights of stone steps, lined with rooming houses.",
-      knowers: ["lore-disclosure/game-master", "character-other/emberdeep-wren"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/emberdeep-wren",
+        "character-player/emberdeep-nala",
+      ],
+    },
+    {
+      fact: "A supper of stew, bread and small beer at the Brass Kettle costs four pennies.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/emberdeep-nala",
+        "character-other/emberdeep-wren",
+        "character-other/emberdeep-elowen",
+      ],
     },
   ],
 } as const satisfies Place
