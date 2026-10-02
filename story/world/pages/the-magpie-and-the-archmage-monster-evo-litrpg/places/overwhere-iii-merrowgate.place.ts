@@ -263,6 +263,10 @@ export const overwhereIiiMerrowgate = {
       fact: "The pens smell of dung and wet straw; drovers lean on the rails trading prices and road news.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
+    {
+      fact: "In Merrowgate a glimmerstone changes hands for about 25 copper, when anyone will part with one.",
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-marda-hesk"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place
