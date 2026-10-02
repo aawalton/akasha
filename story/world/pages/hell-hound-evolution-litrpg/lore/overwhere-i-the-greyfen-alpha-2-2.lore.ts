@@ -56,5 +56,9 @@ export const overwhereITheGreyfenAlpha22 = {
       fact: "Ghost-Eye's hide is torn past use by the scavengers.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Crossing, taking the head and roping it back, they are ready to haul home about 10:25 on day 4.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
