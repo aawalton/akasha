@@ -242,6 +242,10 @@ export const overwhereIOsricFenn = {
       fact: "Osric knows nothing of Voss's letter unless Nala shows it.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Salting and packing the head and ears in Voss's sack takes about a quarter hour.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
