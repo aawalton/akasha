@@ -201,7 +201,7 @@ export const overwhereIiReeveCorwinDray2 = {
     },
     {
       fact: "Dray calls Pip out of the hedge gruffly but not unkindly: a boy of thirteen does not hang.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Dray means to set Pip to work for Tam Oakes at the Ford, under watch, rather than in a cell.",
