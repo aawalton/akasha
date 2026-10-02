@@ -4,6 +4,7 @@ export const howToMagicAnthropologistInAnotherWorld0114Chapter104MuscleTrainingM
   id: "01a0eec8-148b-7dca-8a77-0fafc04b47a7",
   type: "page-type/story-chapter-read",
   slug: "how-to-magic-anthropologist-in-another-world-0114-chapter-104-muscle-training-montage",
+  ownProgress: 3217,
   position: 114,
   publishedAt: "2026-09-29",
   unit: "unit/words",

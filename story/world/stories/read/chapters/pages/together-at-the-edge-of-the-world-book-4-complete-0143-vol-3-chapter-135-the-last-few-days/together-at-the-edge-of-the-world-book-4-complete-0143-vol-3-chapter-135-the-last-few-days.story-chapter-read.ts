@@ -4,6 +4,7 @@ export const togetherAtTheEdgeOfTheWorldBook4Complete0143Vol3Chapter135TheLastFe
   id: "01a0f12a-cff1-7d91-a4b4-c393e9df4224",
   type: "page-type/story-chapter-read",
   slug: "together-at-the-edge-of-the-world-book-4-complete-0143-vol-3-chapter-135-the-last-few-days",
+  ownProgress: 2458,
   position: 143,
   publishedAt: "2026-01-27",
   unit: "unit/words",

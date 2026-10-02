@@ -4,6 +4,7 @@ export const togetherAtTheEdgeOfTheWorldBook4Complete0142Vol3Chapter134AgainstOr
   id: "01a0f12a-cff1-7e80-a036-9a20ce5a4c5b",
   type: "page-type/story-chapter-read",
   slug: "together-at-the-edge-of-the-world-book-4-complete-0142-vol-3-chapter-134-against-orders",
+  ownProgress: 2541,
   position: 142,
   publishedAt: "2026-01-26",
   unit: "unit/words",

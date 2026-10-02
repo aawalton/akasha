@@ -4,6 +4,7 @@ export const togetherAtTheEdgeOfTheWorldBook4Complete0145Vol3Chapter137TheSecret
   id: "01a0f12a-cff1-727a-801c-219417d6eff6",
   type: "page-type/story-chapter-read",
   slug: "together-at-the-edge-of-the-world-book-4-complete-0145-vol-3-chapter-137-the-secret-weapon",
+  ownProgress: 2622,
   position: 145,
   publishedAt: "2026-01-29",
   unit: "unit/words",

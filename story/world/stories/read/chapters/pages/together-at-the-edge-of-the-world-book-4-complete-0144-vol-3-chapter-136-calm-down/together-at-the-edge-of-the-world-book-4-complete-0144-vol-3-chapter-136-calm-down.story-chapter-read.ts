@@ -4,6 +4,7 @@ export const togetherAtTheEdgeOfTheWorldBook4Complete0144Vol3Chapter136CalmDown 
   id: "01a0f12a-cff1-7a18-9bb0-688a3e95d1ba",
   type: "page-type/story-chapter-read",
   slug: "together-at-the-edge-of-the-world-book-4-complete-0144-vol-3-chapter-136-calm-down",
+  ownProgress: 2207,
   position: 144,
   publishedAt: "2026-01-28",
   unit: "unit/words",

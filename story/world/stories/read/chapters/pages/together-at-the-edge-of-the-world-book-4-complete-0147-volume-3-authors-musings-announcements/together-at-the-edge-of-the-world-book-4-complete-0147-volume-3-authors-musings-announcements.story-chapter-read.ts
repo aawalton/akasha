@@ -4,6 +4,7 @@ export const togetherAtTheEdgeOfTheWorldBook4Complete0147Volume3AuthorsMusingsAn
   id: "01a0f12a-cff1-7066-a894-3f60b0e84616",
   type: "page-type/story-chapter-read",
   slug: "together-at-the-edge-of-the-world-book-4-complete-0147-volume-3-authors-musings-announcements",
+  ownProgress: 720,
   position: 147,
   publishedAt: "2026-01-29",
   unit: "unit/words",
