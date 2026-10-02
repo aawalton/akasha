@@ -70,7 +70,7 @@ export const overwhereIiGreyShaw = {
     },
     {
       fact: "Dray agrees the bottles go first to the freed captives, and the coin to those the ledger robbed.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Dray means Nala's third to be a third of the coin, on top of the five bars for Crake.",
