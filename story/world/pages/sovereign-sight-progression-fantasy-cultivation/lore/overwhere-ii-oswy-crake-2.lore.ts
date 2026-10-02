@@ -105,7 +105,7 @@ export const overwhereIiOswyCrake2 = {
     },
     {
       fact: "Crake keeps his chin tucked to his ring coat in a fight; the neck is a narrow mark.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "The venom chokes Nala's Locks within the minute; she has that long to use Undertow at all.",
