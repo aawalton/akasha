@@ -7,8 +7,16 @@ export const overwhereIii00075 = {
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iii"],
   position: 75,
-  stepStatus: "step-status/game-master",
+  stepStatus: "step-status/writer",
   action: "“Cleansed and merged into a glimmer. Can I give you the value in coin instead?”",
+  beats: [
+    '"Cleansed and merged into a glimmer. Can I give you the value in coin instead?"',
+    "Marda's hand stays out a moment. Then she lowers it and huffs through her nose.",
+    '"Keep your coin. I wanted them cracked, not back. What comes out of them is the healer\'s."',
+    'She writes a line in the ledger, slow. "Six seed stones and the wolf\'s. Since noon."',
+    "She sets down the pen. Her eyes go to Nala's hands, pink and raw across both palms.",
+    '"And what did that to your palms?"',
+  ],
   lore: ["lore/overwhere-iii-marda-hesk", "lore/overwhere-iii-marda-hesk-2"],
   endsAt: "2026-10-07T15:55:00.000Z",
 } as const satisfies StoryTurnPlayed
