@@ -208,7 +208,7 @@ export const otherwhereI0001ALibrarianForTheLibrary = {
     },
     {
       position: 40,
-      cover: "image/image-51129a5085fff707",
+      cover: "image/image-493c16eea37a0f56",
       coverAfter: "It's a pantry. Jars of honey line the shelves, and bins of",
     },
     {
