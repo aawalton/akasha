@@ -4,13 +4,14 @@ export const overwhereIi00078 = {
   id: "01a0fe41-539e-76bf-9fdd-32a5d01efc9e",
   type: "page-type/story-turn-played",
   slug: "overwhere-ii-00-078",
+  cover: "image/image-7466ad05e55cf063",
   ownLength: 221,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-ii"],
   position: 78,
   prose: "txt",
   characters: ["character-player/overwhere-ii-nala"],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action:
     "I take the needle dart out, then match with the rest on the way back, cycling my water to loosen it up again.",
   beats: [
@@ -38,6 +39,12 @@ export const overwhereIi00078 = {
     "place/overwhere-ii-ashlin-farm",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/memory", "story-recorder/mechanics"],
+  recordedBy: [
+    "story-recorder/inventory",
+    "story-recorder/memory",
+    "story-recorder/mechanics",
+    "story-recorder/picture",
+  ],
   endsAt: "2026-10-15T09:30:00.000Z",
+  coverAfter: "Undertow answers you full again, and the world's water comes back clear around you:",
 } as const satisfies StoryTurnPlayed
