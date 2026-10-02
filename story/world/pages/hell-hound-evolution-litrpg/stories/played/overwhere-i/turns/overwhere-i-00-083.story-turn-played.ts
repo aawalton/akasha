@@ -7,9 +7,22 @@ export const overwhereI00083 = {
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-i"],
   position: 83,
-  stepStatus: "step-status/game-master",
+  stepStatus: "step-status/writer",
   action:
     "30 yards is in range. I focus two separate beams of fire, one from each hand, and have then intersect at each target, focusing each man in turn until they drop.",
+  beats: [
+    "Prone on the rim, Nala lifts both hands and looses a fire beam from each at the nearest mound.",
+    "The beams meet on the bigger keeper's back; he burns through and drops behind the mound, dead.",
+    "At the first flash Voss snatches up the sack and runs east out of the fold, his shield on his back.",
+    "The other two spin and loose up at the rim; one bolt smacks into her left shoulder.",
+    "The second bolt hisses off the granite beside her head.",
+    "She crosses her beams on the second keeper as he cranks; they rake his side, and he staggers.",
+    "Blademan Three looses again; the bolt skims her forearm and buries itself in the needles.",
+    "Her third pair of beams meets on the keeper's chest, and he falls across his crossbow.",
+    "Blademan Three flings his crossbow away and kneels by the mound, hands high.",
+    '"I yield! Gods, I yield! Don\'t burn me!" he screams up at the rim.',
+    "Out past the fold's east lip, Voss's back and shield are vanishing into the pines with the sack.",
+  ],
   lore: [
     "lore/overwhere-i-starfall-legacy",
     "lore/overwhere-i-starfall-legacy-2",
