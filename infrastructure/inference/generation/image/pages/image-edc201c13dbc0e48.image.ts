@@ -4,6 +4,7 @@ export const imageEdc201c13dbc0e48 = {
   id: "01a0e836-9f32-7ea6-b9da-77fd2b8178f7",
   type: "page-type/image",
   slug: "image-edc201c13dbc0e48",
+  grade: "F",
   service: "zimage",
   operation: "generate",
   model: "beyond-reality-3",
