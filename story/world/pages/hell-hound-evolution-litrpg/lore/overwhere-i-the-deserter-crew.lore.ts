@@ -296,6 +296,10 @@ export const overwhereITheDeserterCrew = {
       fact: "If two of the blademen burn, the rest whistle three times and break for the pit, Voss with them.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Nala's fire burst set three blademen alight; they dropped their blades and ran.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
