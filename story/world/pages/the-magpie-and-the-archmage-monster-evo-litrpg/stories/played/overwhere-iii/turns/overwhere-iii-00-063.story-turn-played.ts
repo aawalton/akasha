@@ -4,10 +4,16 @@ export const overwhereIii00063 = {
   id: "01a0fddf-968d-75d9-8da1-630f8492e761",
   type: "page-type/story-turn-played",
   slug: "overwhere-iii-00-063",
+  ownLength: 177,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iii"],
   position: 63,
-  stepStatus: "step-status/writer",
+  prose: "txt",
+  characters: [
+    "character-player/overwhere-iii-nala",
+    "character-other/overwhere-iii-oswin-fairley",
+  ],
+  stepStatus: "step-status/reviewers",
   action:
     "I try to braid my cleansing weave and current weave together, threading the result down into the den where I can see the smear.",
   beats: [
