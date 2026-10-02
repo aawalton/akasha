@@ -108,6 +108,22 @@ export const overwhereIiSirEdricHale = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
+      fact: "Hearing Nala, Sir Edric tells her of the bowed root, the bottomless crack and the spreading cracks.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Sir Edric keeps the slow breath in the rock to himself, until he has told Lady Varrow.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Sir Edric means to ride for Varrow Keep at dawn tomorrow, to tell Lady Varrow himself.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Having heard Nala, Sir Edric asks her to Varrow Keep in Lady Varrow's name, to tell it there.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
       fact: "Dray wrote Sir Edric that Nala found a crag split open, with something pulling under it.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
