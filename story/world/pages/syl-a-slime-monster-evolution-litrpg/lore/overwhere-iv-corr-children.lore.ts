@@ -27,5 +27,13 @@ export const overwhereIvCorrChildren = {
       fact: "The pair sleep in the loft of the inn's stable in return for chores.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Lissy, finding someone eyes shut and still in the stable yard, will ask what game it is.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Lissy loves hide-and-seek, and hides well; Bram is always the one sent to find her.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
