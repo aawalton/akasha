@@ -84,5 +84,9 @@ export const overwhereITheGreyfenAlpha22 = {
         "lore/overwhere-i-rowan-coalby",
       ],
     },
+    {
+      fact: "Ghost-Eye's head in its cask of salt weighs about seventy pounds.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
