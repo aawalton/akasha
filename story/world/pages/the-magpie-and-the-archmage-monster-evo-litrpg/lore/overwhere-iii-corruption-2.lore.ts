@@ -78,7 +78,11 @@ export const overwhereIiiCorruption2 = {
     },
     {
       fact: "A small blightstone from a Level 5 beast cracks into three glimmer specks.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iii-nala",
+        "character-other/overwhere-iii-marda-hesk",
+      ],
     },
   ],
 } as const satisfies Lore
