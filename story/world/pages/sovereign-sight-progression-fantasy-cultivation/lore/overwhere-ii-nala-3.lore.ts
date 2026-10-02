@@ -126,7 +126,7 @@ export const overwhereIiNala3 = {
     },
     {
       fact: "Nala's hips refine hard, a deep grinding ache, from day eighteen into the next morning.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Refining her hips, Nala limps for a day, slow as an old woman.",
