@@ -48,7 +48,7 @@ export const otherwhereIii0002TheDeskDemon = {
     },
     {
       position: 22,
-      cover: "image/image-87ed7382d0a5c610",
+      cover: "image/image-bdc2295170a73022",
       coverAfter: "She doesn't step back. She looks at your face the way a",
     },
     {
