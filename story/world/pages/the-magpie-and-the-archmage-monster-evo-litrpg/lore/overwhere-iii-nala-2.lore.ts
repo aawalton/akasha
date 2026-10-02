@@ -277,5 +277,9 @@ export const overwhereIiiNala2 = {
       fact: "The third Mending Weave on the girl's lip bit back with an ache behind Nala's eyes.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
+    {
+      fact: "Two looped weaves into the stag's second stone on day seven left Nala's mana dry.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+    },
   ],
 } as const satisfies Lore
