@@ -164,5 +164,9 @@ export const overwhereIGreyfenBeasts2 = {
       fact: "A hurt Mire Snapper in deep water stays down and does not come back to the carcass that day.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Nala's spun bullets are slugs: against a snapper's shell they meet ward 3, not 4.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
