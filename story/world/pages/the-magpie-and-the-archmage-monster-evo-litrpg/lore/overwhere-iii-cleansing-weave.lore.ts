@@ -64,5 +64,9 @@ export const overwhereIiiCleansingWeave = {
       fact: "Closing a weave in a loop is fiddly; a first try may lose the loop and run plain.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "A Cleansing Weave closed in a loop turns its snap-back into the stone, not up the arm.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
