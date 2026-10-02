@@ -103,7 +103,7 @@ export const overwhereIiiMaudFerrow = {
     },
     {
       fact: "A third hard day of Maud's drill earns: [New skill acquired – Staff Fighting.]",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
     {
       fact: "Joining late, a drill counts as a hard day if she runs, hauls and bouts until the watch changes.",
