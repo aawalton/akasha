@@ -96,7 +96,11 @@ export const hollowmereBea = {
     },
     {
       fact: "Bea has kissed girls and boys both, likes girls best, and has never been in love.",
-      knowers: ["lore-disclosure/game-master", "character-other/hollowmere-bea"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/hollowmere-bea",
+        "character-player/hollowmere-nala",
+      ],
     },
     {
       fact: "Bea is from Bristol, the eldest of four, with two younger sisters and a brother of nine.",
@@ -122,6 +126,18 @@ export const hollowmereBea = {
         "character-other/hollowmere-bea",
         "character-player/hollowmere-nala",
         "character-other/hollowmere-yusra",
+      ],
+    },
+    {
+      fact: "Bea fell asleep mid-sentence on Nala's bed on Thursday night, her head on Nala's shoulder.",
+      knowers: ["lore-disclosure/game-master", "character-player/hollowmere-nala"],
+    },
+    {
+      fact: "By Thursday Bea's half-glim had become two-thirds of a glim, by her own estimate.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/hollowmere-bea",
+        "character-player/hollowmere-nala",
       ],
     },
   ],

@@ -108,6 +108,14 @@ export const hollowmereYusra = {
         "character-player/hollowmere-nala",
       ],
     },
+    {
+      fact: "Yusra told Nala a glim in four days from nothing is good, and that she is not one who takes a month.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/hollowmere-yusra",
+        "character-player/hollowmere-nala",
+      ],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore

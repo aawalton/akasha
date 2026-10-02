@@ -123,6 +123,38 @@ export const hollowmereKit = {
         "character-player/hollowmere-nala",
       ],
     },
+    {
+      fact: "Unwatched while every eye was on Nala, Kit cast a clean, steady glim in Thursday's practical.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/hollowmere-kit",
+        "character-player/hollowmere-nala",
+      ],
+    },
+    {
+      fact: "Kit told Nala she went first on purpose and thanked her, and both nearly laughed at the thanks.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/hollowmere-kit",
+        "character-player/hollowmere-nala",
+      ],
+    },
+    {
+      fact: "Kit sat by Nala in History and murmured deadpan jokes about the lecture until Nala shook.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/hollowmere-kit",
+        "character-player/hollowmere-nala",
+      ],
+    },
+    {
+      fact: "Kit's grandmother had the same History of Magic lecturer, who has had a date wrong for forty years.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/hollowmere-kit",
+        "character-player/hollowmere-nala",
+      ],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore

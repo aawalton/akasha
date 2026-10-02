@@ -111,6 +111,14 @@ export const hollowmereAmara = {
         "character-other/hollowmere-yusra",
       ],
     },
+    {
+      fact: "In History, Amara turned, saw Nala shaking with laughter beside Kit, and narrowed her eyes.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/hollowmere-amara",
+        "character-player/hollowmere-nala",
+      ],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore

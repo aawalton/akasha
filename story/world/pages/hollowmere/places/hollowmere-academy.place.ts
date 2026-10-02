@@ -224,7 +224,11 @@ export const hollowmereAcademy = {
     },
     {
       fact: "In late September the mere is about ten degrees, cold enough to take a swimmer's breath away.",
-      knowers: ["lore-disclosure/game-master", "character-other/hollowmere-shiv"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/hollowmere-shiv",
+        "character-player/hollowmere-nala",
+      ],
     },
   ],
 } as const satisfies Place

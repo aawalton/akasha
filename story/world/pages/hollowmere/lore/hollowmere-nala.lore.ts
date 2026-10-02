@@ -173,6 +173,67 @@ export const hollowmereNala = {
       fact: "Nala's Thursday: History of Magic at ten in the Long Room, and practical casting at two.",
       knowers: ["lore-disclosure/game-master", "character-player/hollowmere-nala"],
     },
+    {
+      fact: "On Thursday at dawn Nala swam in the mere with Shiv, jumping in hand in hand off Shiv's rock.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-shiv",
+        "character-other/hollowmere-bea",
+      ],
+    },
+    {
+      fact: "Nala cast her first glim in Thursday's practical: small and wavering, but it held ten seconds.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-kit",
+        "character-other/hollowmere-amara",
+        "character-other/hollowmere-priya",
+        "character-other/hollowmere-shiv",
+        "character-other/hollowmere-lin",
+        "character-other/hollowmere-bea",
+      ],
+    },
+    {
+      fact: "Nala stepped out of line to cast before Kit, turning every eye in the hall from Kit to herself.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-kit",
+        "character-other/hollowmere-amara",
+        "character-other/hollowmere-priya",
+        "character-other/hollowmere-shiv",
+        "character-other/hollowmere-lin",
+        "character-other/hollowmere-bea",
+      ],
+    },
+    {
+      fact: "Nala cast a steadier glim before the whole top floor at Thursday cocoa, and the kitchen cheered.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-bea",
+        "character-other/hollowmere-lin",
+        "character-other/hollowmere-yusra",
+      ],
+    },
+    {
+      fact: "Nala's headache after her first glim was much lighter than Tuesday's.",
+      knowers: ["lore-disclosure/game-master", "character-player/hollowmere-nala"],
+    },
+    {
+      fact: "Asked by Bea if she had ever been in love, Nala said it's complicated, and Bea let it be.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-bea",
+      ],
+    },
+    {
+      fact: "This world's history has the names of Alan's, Henry to Cromwell, but other dates and causes.",
+      knowers: ["lore-disclosure/game-master", "character-player/hollowmere-nala"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore

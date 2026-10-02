@@ -52,7 +52,13 @@ export const hollowmereThornfieldHouse = {
     },
     {
       fact: "On Thursday evenings the top-floor warden makes cocoa in the kitchen for all, a Thornfield custom.",
-      knowers: ["lore-disclosure/game-master", "character-other/hollowmere-yusra"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/hollowmere-yusra",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-bea",
+        "character-other/hollowmere-lin",
+      ],
     },
   ],
 } as const satisfies Place

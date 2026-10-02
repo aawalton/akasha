@@ -139,6 +139,14 @@ export const hollowmereShiv = {
         "character-player/hollowmere-nala",
       ],
     },
+    {
+      fact: "On the rock after their swim, Shiv saw Nala watching her bare shoulders, and stayed close.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/hollowmere-shiv",
+        "character-player/hollowmere-nala",
+      ],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
