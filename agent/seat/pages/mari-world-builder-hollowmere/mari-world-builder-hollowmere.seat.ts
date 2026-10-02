@@ -11,4 +11,5 @@ export const mariWorldBuilderHollowmere = {
   startMode: "seat-mode/interactive",
   onCall: true,
   registrationAccount: "model-account/aawalton",
+  claudeCodeSessionUuid: "57d4baca-845d-405a-905e-c4534993cc2a",
 } as const satisfies Seat
