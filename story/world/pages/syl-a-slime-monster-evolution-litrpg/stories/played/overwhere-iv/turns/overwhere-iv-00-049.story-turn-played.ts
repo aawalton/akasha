@@ -4,10 +4,13 @@ export const overwhereIv00049 = {
   id: "01a0fd30-71d7-7f90-898c-f3d803330fe6",
   type: "page-type/story-turn-played",
   slug: "overwhere-iv-00-049",
+  ownLength: 129,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iv"],
   position: 49,
-  stepStatus: "step-status/writer",
+  prose: "txt",
+  characters: ["character-player/overwhere-iv-nala"],
+  stepStatus: "step-status/reviewers",
   action: "“Definitely. Next one? Any will do.”",
   beats: [
     '"Definitely," Nala says. "Next one? Any will do."',
@@ -20,6 +23,10 @@ export const overwhereIv00049 = {
     'Nala looks up. Anwen is watching her over the mending. "Those last pages are mine," she says.',
     '"Five books left," she says. "Another, child, or will you rest your eyes?"',
   ],
-  lore: ["place/overwhere-iv-millbrook-shrine"],
+  lore: [
+    "lore/overwhere-iv-nala",
+    "lore/overwhere-iv-nala-2",
+    "place/overwhere-iv-millbrook-shrine",
+  ],
   endsAt: "2026-10-02T12:58:00.000Z",
 } as const satisfies StoryTurnPlayed
