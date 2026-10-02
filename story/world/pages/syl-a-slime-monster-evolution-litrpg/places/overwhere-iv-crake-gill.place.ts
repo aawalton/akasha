@@ -141,7 +141,7 @@ export const overwhereIvCrakeGill = {
     },
     {
       fact: "The wolf's weight on the practice spear has split the ash shaft a hand below the head.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
     },
     {
       fact: "A dead blade wolf's spine ridge keeps its edge; grabbed or rolled carelessly, it cuts.",
@@ -162,6 +162,10 @@ export const overwhereIvCrakeGill = {
     {
       fact: "From Crake Gill back to Millbrook is seven miles: about three hours, more under a load.",
       knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The practice spear's head stays buried in the dead blade wolf's chest.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
     },
   ],
 } as const satisfies Place

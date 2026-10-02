@@ -32,5 +32,9 @@ export const overwhereIvNala3 = {
       fact: "Rending the charging beast's throat raised Nala's Rift Rend to LV 5.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
     },
+    {
+      fact: "Nala's second rend, from the back, met her first and parted the LV 14 blade wolf's neck.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+    },
   ],
 } as const satisfies Lore
