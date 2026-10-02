@@ -4,7 +4,7 @@ export const overwhereI00073 = {
   id: "01a0fd6f-a437-726f-b109-d435e2555ada",
   type: "page-type/story-turn-played",
   slug: "overwhere-i-00-073",
-  ownLength: 127,
+  ownLength: 133,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-i"],
   position: 73,
@@ -18,7 +18,7 @@ export const overwhereI00073 = {
     "character-other/overwhere-i-quarry-crewman-four",
     "character-other/overwhere-i-quarry-crewman-five",
   ],
-  stepStatus: "step-status/writer",
+  stepStatus: "step-status/recorders",
   action:
     "Now that I can see him, I focus Earth and Fire on his helmet directly, and if he takes it off, I put a bullet in his brain.",
   beats: [
