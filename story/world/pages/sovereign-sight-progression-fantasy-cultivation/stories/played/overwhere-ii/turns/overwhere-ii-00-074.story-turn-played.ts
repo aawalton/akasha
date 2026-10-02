@@ -11,4 +11,5 @@ export const overwhereIi00074 = {
   action:
     "“Aren’t you and me the watch in this case? So we could decide what to do with it anyways. If the chained Talents need it, I don’t mind passing it to them, what’s it good for?”",
   lore: ["place/overwhere-ii-grey-shaw"],
+  endsAt: "2026-10-14T22:25:00.000Z",
 } as const satisfies StoryTurnPlayed
