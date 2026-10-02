@@ -1,0 +1,16 @@
+import type { Lore } from "akasha/story/lore/lore.page-type.types.ts"
+
+export const overwhereIiiNala22 = {
+  id: "01a0fdef-f54b-76bc-806f-e664c70c8437",
+  type: "page-type/lore",
+  slug: "overwhere-iii-nala-2-2",
+  title: "Nala, continued, continued",
+  world: "world/the-magpie-and-the-archmage-monster-evo-litrpg",
+  about: "character-player/overwhere-iii-nala",
+  facts: [
+    {
+      fact: "Pouring her whole well into the lash-pull left Nala shaky and dry by the sett.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+    },
+  ],
+} as const satisfies Lore
