@@ -7,9 +7,22 @@ export const overwhereIv00064 = {
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iv"],
   position: 64,
-  stepStatus: "step-status/game-master",
+  stepStatus: "step-status/writer",
   action:
     "I repeat the rend, from the back this time, again and again until the head is separated from the neck",
+  beats: [
+    "The jaws snap a hand's width short. Over its head Nala sees the nape of its neck, plain.",
+    "She fixes her eye there, at the back, and lays a black line down through it.",
+    "It meets the first cut from the front. Between them, the neck simply parts.",
+    "The great head drops into the heather. The body sags on the spear, then slumps over sideways.",
+    "<Blade Wolf LV 14 defeated. Experience gained.>",
+    "A blade wolf. Fourteen levels. Nala stands in the heather, breathing hard, and looks at it.",
+    "There's a crack of wood. The ash shaft has split, a hand below the spearhead.",
+    "She lets go. The broken spear stays in the carcass, its head buried in the chest.",
+    "Behind her ribs is a thin thread of warmth. Her head aches; her arms are lead.",
+    "The wind blows down the moor. The gill is still.",
+    "The body lies at her feet, pony-sized. Along its spine the ridge of fur still gleams like knives.",
+  ],
   lore: ["place/overwhere-iv-crake-gill"],
   endsAt: "2026-10-04T14:43:00.000Z",
 } as const satisfies StoryTurnPlayed
