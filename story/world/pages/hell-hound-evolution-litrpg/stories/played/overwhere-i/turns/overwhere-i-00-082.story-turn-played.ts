@@ -33,6 +33,9 @@ export const overwhereI00082 = {
     "By the hut door Harl Voss packs a sack, glancing again and again at the track.",
     "Their eyes stay on the track; she lies in the pines on the rim, her well half refilled.",
   ],
+  issues: [
+    '"a little fresh mana settles there" - lore: a level-up refills neither health nor mana',
+  ],
   lore: [
     "lore/overwhere-i-nala",
     "lore/overwhere-i-nala-2",
@@ -42,5 +45,6 @@ export const overwhereI00082 = {
     "lore/overwhere-i-the-deserter-crew-2-2",
     "lore/overwhere-i-the-system-2",
   ],
+  reviewedBy: ["story-reviewer/continuity"],
   endsAt: "2026-10-03T17:04:00.000Z",
 } as const satisfies StoryTurnPlayed
