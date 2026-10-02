@@ -156,5 +156,9 @@ export const overwhereIGreyfenBeasts2 = {
       fact: "At the first slug, the other snapper pulls in its head and slides at once for deep water.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "A snapper dead in deep water sinks; a water working draws it up, slow and heavy, in a minute.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
