@@ -146,5 +146,22 @@ export const overwhereINala2 = {
         "lore/overwhere-i-tobin-ashdown",
       ],
     },
+    {
+      fact: "Nala woke whole on day 7; her last bolt wounds had closed to tender pink seams.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+    },
+    {
+      fact: "On day 7 Nala's steady air push at the cart's back sped Osric's cart on to Wendlow.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-i-nala",
+        "lore/overwhere-i-osric-fenn",
+        "lore/overwhere-i-tobin-ashdown",
+      ],
+    },
+    {
+      fact: "On day 6 Nala took a bed, supper and a hot bath at the Ford Inn, and slept behind a barred door.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+    },
   ],
 } as const satisfies Lore

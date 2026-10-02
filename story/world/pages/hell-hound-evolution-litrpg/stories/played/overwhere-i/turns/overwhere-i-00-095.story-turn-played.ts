@@ -32,6 +32,6 @@ export const overwhereI00095 = {
     "place/overwhere-i-wendlow",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/inventory"],
+  recordedBy: ["story-recorder/inventory", "story-recorder/memory"],
   endsAt: "2026-10-05T11:30:00.000Z",
 } as const satisfies StoryTurnPlayed

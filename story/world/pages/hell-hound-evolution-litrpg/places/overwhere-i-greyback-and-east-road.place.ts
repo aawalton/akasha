@@ -278,11 +278,11 @@ export const overwhereIGreybackAndEastRoad = {
     },
     {
       fact: "The Ford Inn's tub takes a quarter hour to fill with kettle water; it comes with a cake of lye soap.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
     {
       fact: "The Ford Inn's beds are narrow straw ticks in small upstairs rooms, each with a door that bars.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
     {
       fact: "The night of day 6 at the Ford Inn passes quiet.",
@@ -290,11 +290,25 @@ export const overwhereIGreybackAndEastRoad = {
     },
     {
       fact: "Day 7's last twenty miles to Wendlow run through farmland and pass quiet.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-i-nala",
+        "lore/overwhere-i-osric-fenn",
+        "lore/overwhere-i-tobin-ashdown",
+      ],
     },
     {
       fact: "At supper the drover, Hob Tanner, tells all who'll listen that factor Ivo Tessaly sold him duds.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+    },
+    {
+      fact: "Leaving the Ford Inn at 6:00 on day 7, Osric's cart reaches Wendlow a little after 11:30.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-i-nala",
+        "lore/overwhere-i-osric-fenn",
+        "lore/overwhere-i-tobin-ashdown",
+      ],
     },
   ],
   secrets: "jsonl",

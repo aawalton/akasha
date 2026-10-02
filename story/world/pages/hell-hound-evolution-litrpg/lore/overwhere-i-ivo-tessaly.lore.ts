@@ -39,6 +39,10 @@ export const overwhereIIvoTessaly = {
       fact: "Ivo Tessaly's seal is on the letter Voss carried; Ivo wrote it.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "The drover Hob Tanner says Factor Ivo Tessaly sold him dark, empty crystals as full.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
