@@ -14,7 +14,7 @@ export const overwhereIii00050 = {
     "character-other/overwhere-iii-marda-hesk",
     "character-other/overwhere-iii-bet-harrow",
   ],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/recorders",
   action: "“Thanks!” I take the silver and get dinner and go to bed.",
   beats: [
     "\"Thanks!\" Nala picks up the silver. It's heavier than any coin she's held here.",
@@ -37,6 +37,6 @@ export const overwhereIii00050 = {
     "lore/overwhere-iii-nala-2",
     "place/overwhere-iii-crook-and-candle",
   ],
-  reviewedBy: ["story-reviewer/continuity"],
+  reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
   endsAt: "2026-10-04T07:00:00.000Z",
 } as const satisfies StoryTurnPlayed
