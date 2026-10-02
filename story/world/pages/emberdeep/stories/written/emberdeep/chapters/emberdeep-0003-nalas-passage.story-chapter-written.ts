@@ -1,16 +1,16 @@
 import type { StoryChapterWritten } from "akasha/story/world/stories/written/chapters/story-chapter-written.page-type.types.ts"
 
-export const emberdeep0003 = {
+export const emberdeep0003NalasPassage = {
   id: "01a0fe30-3a18-7155-8655-39e5b7c8d7ed",
   type: "page-type/story-chapter-written",
-  slug: "emberdeep-0003",
+  slug: "emberdeep-0003-nalas-passage",
   position: 3,
   unit: "unit/words",
-  title: "Chapter 3",
+  title: "Nala's Passage",
   story: "story-written/emberdeep",
-  ownLength: 0,
+  ownLength: 4065,
   prose: "txt",
-  stepStatus: "step-status/writer",
+  stepStatus: "step-status/reviewers",
   beats: [
     "It is Sixthday; Nala wakes stiff in every muscle from yesterday's sifting and climbing.",
     "At porridge the widow tells her rent for the week ahead is two marks, taken tomorrow morning.",
@@ -91,5 +91,10 @@ export const emberdeep0003 = {
     "place/emberdeep-corbel-house",
     "place/emberdeep-deep",
     "place/emberdeep-first-level",
+  ],
+  characters: [
+    "character-player/emberdeep-nala",
+    "character-other/emberdeep-wren",
+    "character-other/emberdeep-elowen",
   ],
 } as const satisfies StoryChapterWritten
