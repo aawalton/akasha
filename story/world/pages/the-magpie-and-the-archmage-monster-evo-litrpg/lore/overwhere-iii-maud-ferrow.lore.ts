@@ -105,5 +105,9 @@ export const overwhereIiiMaudFerrow = {
       fact: "A third hard day of Maud's drill earns: [New skill acquired – Staff Fighting.]",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Joining late, a drill counts as a hard day if she runs, hauls and bouts until the watch changes.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
