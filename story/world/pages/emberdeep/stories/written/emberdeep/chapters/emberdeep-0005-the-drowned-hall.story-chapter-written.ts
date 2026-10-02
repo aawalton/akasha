@@ -10,7 +10,7 @@ export const emberdeep0005TheDrownedHall = {
   story: "story-written/emberdeep",
   ownLength: 3916,
   prose: "txt",
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/game-master",
   beats: [
     "It is Firstday; Nala wakes with Elowen asleep on her arm, her arm numb, and stays still anyway.",
     "Elowen wakes, remembers the kiss, and goes pink, and then kisses Nala again, quickly.",
@@ -86,6 +86,7 @@ export const emberdeep0005TheDrownedHall = {
     "Nala falls asleep with Elowen against her, thinking of Wren's voice catching on the landing.",
     "A day in Emberdeep ends.",
   ],
+  issues: ['"It\'s three days down the valley" - Wren has never learned how far away Fennick is'],
   lore: [
     "lore/emberdeep-elowen",
     "lore/emberdeep-nala",
@@ -98,5 +99,5 @@ export const emberdeep0005TheDrownedHall = {
     "character-other/emberdeep-wren",
     "character-other/emberdeep-elowen",
   ],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
 } as const satisfies StoryChapterWritten
