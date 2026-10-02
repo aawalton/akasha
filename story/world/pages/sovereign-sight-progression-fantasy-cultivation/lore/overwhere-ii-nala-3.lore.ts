@@ -117,6 +117,14 @@ export const overwhereIiNala3 = {
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
+      fact: "On day seventeen's afternoon Nala's skull refines whole; the dull headache lasts till she sleeps.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "With her skull refined whole, Nala's thoughts feel steadier, the tide easier to hold.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
       fact: "Once her Locks open, the dream of the black stair returns in her last hour of sleep, louder.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
