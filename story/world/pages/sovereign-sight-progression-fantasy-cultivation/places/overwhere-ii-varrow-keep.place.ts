@@ -50,7 +50,7 @@ export const overwhereIiVarrowKeep = {
     },
     {
       fact: "The north stair room looks over the valley to the Whitecombs, and no one else sleeps on that stair.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "A free blade at the Keep eats in the hall with the Talented, at the second table.",
