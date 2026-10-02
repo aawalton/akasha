@@ -10,7 +10,7 @@ export const overwhereIii00077 = {
   position: 77,
   prose: "txt",
   characters: ["character-player/overwhere-iii-nala", "character-other/overwhere-iii-marda-hesk"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/recorders",
   action: "I try casting a mending weave on my palms.",
   beats: [
     "Nala turns her left palm up and draws a Mending Weave from her own well.",
@@ -29,6 +29,6 @@ export const overwhereIii00077 = {
     "lore/overwhere-iii-nala-2",
     "lore/overwhere-iii-nala-2-2",
   ],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
   endsAt: "2026-10-07T16:08:00.000Z",
 } as const satisfies StoryTurnPlayed
