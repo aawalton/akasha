@@ -53,7 +53,7 @@ export const overwhereI0006ThreeLurkersByNoon = {
     },
     {
       position: 34,
-      cover: "image/image-888036e1c969754e",
+      cover: "image/image-a24a71f3d4fe7ddb",
       coverAfter: "The water bulges and lifts, and one of Jory's wicker traps comes",
     },
     {
