@@ -4,7 +4,7 @@ export const theDatingGame00028 = {
   id: "01a0e54a-8931-72ce-8b6c-ed9767d33f2d",
   type: "page-type/story-turn-played",
   slug: "the-dating-game-00-028",
-  cover: "image/image-8516ec7f0104777f",
+  cover: "image/image-f206fe8bdac9104e",
   coverAfter: "The Provo City Cemetery opens ahead: old headstones in rows under tall",
   ownLength: 199,
   unit: "unit/words",
