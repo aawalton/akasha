@@ -91,5 +91,14 @@ export const hollowmereVillage = {
         "character-other/hollowmere-lin",
       ],
     },
+    {
+      fact: "On Friday nights the Drowned Bell holds a folk session, and half of Hollowmere crowds in.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/hollowmere-yusra",
+        "character-other/hollowmere-shiv",
+        "character-other/hollowmere-penhallow",
+      ],
+    },
   ],
 } as const satisfies Place

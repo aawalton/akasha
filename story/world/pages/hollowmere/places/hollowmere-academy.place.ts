@@ -230,5 +230,16 @@ export const hollowmereAcademy = {
         "character-player/hollowmere-nala",
       ],
     },
+    {
+      fact: "The academy gates lock at midnight, and the night porter lets latecomers in with a sigh.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/hollowmere-yusra",
+        "character-other/hollowmere-shiv",
+        "character-other/hollowmere-amara",
+        "character-other/hollowmere-kit",
+        "character-other/hollowmere-penhallow",
+      ],
+    },
   ],
 } as const satisfies Place

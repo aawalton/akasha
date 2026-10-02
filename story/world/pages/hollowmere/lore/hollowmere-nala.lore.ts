@@ -234,6 +234,10 @@ export const hollowmereNala = {
       fact: "This world's history has the names of Alan's, Henry to Cromwell, but other dates and causes.",
       knowers: ["lore-disclosure/game-master", "character-player/hollowmere-nala"],
     },
+    {
+      fact: "Nala's Friday: tutorial with Dr Penhallow at nine, Sigils at eleven, and the afternoon for study.",
+      knowers: ["lore-disclosure/game-master", "character-player/hollowmere-nala"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore

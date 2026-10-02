@@ -75,5 +75,9 @@ export const hollowmerePenhallow = {
         "character-other/hollowmere-lin",
       ],
     },
+    {
+      fact: "At the first Friday tutorial Dr Penhallow sets each first-year a short essay, due in a week.",
+      knowers: ["lore-disclosure/game-master", "character-other/hollowmere-penhallow"],
+    },
   ],
 } as const satisfies Lore
