@@ -278,7 +278,7 @@ export const overwhereITheDeserterCrew = {
     },
     {
       fact: "At the fire Osric's mule rears and starts to bolt down the road, cart, cask and all.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
     {
       fact: "With blades out, Tobin looses at the nearest blademan.",
