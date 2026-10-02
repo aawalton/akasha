@@ -4,10 +4,13 @@ export const overwhereI00067 = {
   id: "01a0fd20-7052-7a22-a86c-d84e27266528",
   type: "page-type/story-turn-played",
   slug: "overwhere-i-00-067",
+  ownLength: 232,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-i"],
   position: 67,
-  stepStatus: "step-status/writer",
+  prose: "txt",
+  characters: ["character-player/overwhere-i-nala", "character-other/overwhere-i-ghost-eye"],
+  stepStatus: "step-status/reviewers",
   action:
     "“Sure, I don’t care who comes. Let’s pack it now and we can go with Osric in the morning.”",
   beats: [
@@ -26,6 +29,8 @@ export const overwhereI00067 = {
     "lore/overwhere-i-fenwatch-2",
     "lore/overwhere-i-garrick-pell",
     "lore/overwhere-i-hessa-vane",
+    "lore/overwhere-i-nala",
+    "lore/overwhere-i-nala-2",
     "lore/overwhere-i-osric-fenn",
     "lore/overwhere-i-rowan-coalby",
     "lore/overwhere-i-tobin-ashdown",
