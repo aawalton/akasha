@@ -34,5 +34,6 @@ export const overwhereIi00083 = {
     "lore/overwhere-ii-sir-edric-hale",
     "place/overwhere-ii-whitecombs",
   ],
+  reviewedBy: ["story-reviewer/continuity"],
   endsAt: "2026-10-19T11:20:00.000Z",
 } as const satisfies StoryTurnPlayed
