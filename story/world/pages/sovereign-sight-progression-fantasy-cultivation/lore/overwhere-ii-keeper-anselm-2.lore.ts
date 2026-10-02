@@ -47,5 +47,33 @@ export const overwhereIiKeeperAnselm2 = {
       fact: "Anselm thinks the senior Keeper from Carrowmouth could guide Nala's Descent, if she waits.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Anselm is relieved Nala waits; the canticles praise one who answers the call only when ready.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Anselm asks Nala to tell him before she answers the call, so someone knows where she went.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Anselm's Tidesense feels Nala refining bone as a slow, deep tide, heavier than before.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "On day eleven the carrier brings Anselm the Keepers' reply to his letter about Nala.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The Keepers write that Senior Keeper Maud Ashby will come up the valley once the road dries.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The Keepers bid Anselm keep Nala near, and keep her from Descending until Keeper Ashby comes.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The Carrow road is expected dry enough for Keeper Ashby by the end of the month.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
