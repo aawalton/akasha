@@ -53,7 +53,7 @@ export const otherwhereVii0001ASackAndAHalf = {
     },
     {
       position: 9,
-      cover: "image/image-d4f742e4a2b6f28e",
+      cover: "image/image-1d2a50344c840c7b",
       coverAfter: "He is quiet for a long moment. His thumb runs along the",
     },
     {
