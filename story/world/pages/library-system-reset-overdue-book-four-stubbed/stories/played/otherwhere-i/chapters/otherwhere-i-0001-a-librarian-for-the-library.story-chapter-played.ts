@@ -153,7 +153,7 @@ export const otherwhereI0001ALibrarianForTheLibrary = {
     },
     {
       position: 29,
-      cover: "image/image-46f3680257bea5d2",
+      cover: "image/image-81cb5f88ff22b069",
       coverAfter: "Salt sprays up round it. It shrieks and bucks, shrinking and greying",
     },
     {
