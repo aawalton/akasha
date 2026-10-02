@@ -4,6 +4,7 @@ export const overwhereIii00068 = {
   id: "01a0fe4e-6eff-70e5-9871-25d00e534d02",
   type: "page-type/story-turn-played",
   slug: "overwhere-iii-00-068",
+  cover: "image/image-c2c86eb2df5714e6",
   ownLength: 200,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iii"],
@@ -16,7 +17,7 @@ export const overwhereIii00068 = {
     "character-other/overwhere-iii-maud-ferrow",
     "character-other/overwhere-iii-tam-rowe",
   ],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action:
     "I enjoy the oatcakes and ask Brannagh to spread the word that I’ll be healing in the morning only, other than emergencies. Then go to bed and check in in the morning before going to train with the guard.",
   beats: [
@@ -46,6 +47,12 @@ export const overwhereIii00068 = {
     "place/overwhere-iii-crook-and-candle",
   ],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/memory", "story-recorder/mechanics"],
+  recordedBy: [
+    "story-recorder/inventory",
+    "story-recorder/memory",
+    "story-recorder/mechanics",
+    "story-recorder/picture",
+  ],
   endsAt: "2026-10-07T10:30:00.000Z",
+  coverAfter: 'Maud looks you over. "Better. Tomorrow at the dawn bell, if you want it."',
 } as const satisfies StoryTurnPlayed
