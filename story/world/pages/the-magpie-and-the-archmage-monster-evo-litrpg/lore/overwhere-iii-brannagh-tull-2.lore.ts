@@ -303,7 +303,11 @@ export const overwhereIiiBrannaghTull2 = {
     },
     {
       fact: "At first light on day nine a cooper's boy off the slate waits, an old dog-bite scar on his cheek.",
-      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-brannagh-tull"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/overwhere-iii-brannagh-tull",
+        "character-player/overwhere-iii-nala",
+      ],
     },
   ],
 } as const satisfies Lore
