@@ -52,5 +52,9 @@ export const overwhereIiiBraidWeaving = {
       fact: "Two of her own weaves braid into one: a Current Lash braided with a pull strikes and draws at once.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "A braid of two weaves costs both weaves' mana.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
