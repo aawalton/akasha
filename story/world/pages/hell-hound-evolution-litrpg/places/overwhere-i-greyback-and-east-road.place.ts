@@ -288,6 +288,10 @@ export const overwhereIGreybackAndEastRoad = {
       fact: "The night of day 6 at the Ford Inn passes quiet.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Day 7's last twenty miles to Wendlow run through farmland and pass quiet.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place
