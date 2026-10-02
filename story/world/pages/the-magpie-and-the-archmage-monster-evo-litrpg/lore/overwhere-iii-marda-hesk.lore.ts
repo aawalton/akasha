@@ -292,6 +292,10 @@ export const overwhereIiiMardaHesk = {
       fact: "Marda took thirty hard years to reach Level 47; most Merrowgate folk stand under Level 15.",
       knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-marda-hesk"],
     },
+    {
+      fact: "Marda doesn't know how a trait climbs; hers came slow, and she never heard of one rising in days.",
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-marda-hesk"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
