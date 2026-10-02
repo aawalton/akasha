@@ -172,5 +172,29 @@ export const overwhereIiNala3 = {
       fact: "Nala refused to swear to House Varrow, but will help and stay if Lady Varrow helps her grow strong.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
+    {
+      fact: "With Undertow, Nala can refine her organs one at a time, but each fights the tide, being alive.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "An organ must be refined whole at one sitting of some hours; a lost hold leaves her sick a day.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Refining her lungs leaves Nala breathless; her gut, sick; her liver and kidneys, feverish.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Nala's heart refines last, only once every other organ is whole; it takes a whole day and night.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "With her anatomy, Nala's organs and heart would take some three weeks to refine whole.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Each organ refined whole eases Nala's Tribulation further, as each part before it did.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
