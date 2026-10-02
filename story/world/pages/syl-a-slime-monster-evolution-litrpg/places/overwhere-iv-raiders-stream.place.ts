@@ -60,5 +60,9 @@ export const overwhereIvRaidersStream = {
       fact: "The bowmen shoot at what they can see, out to sixty paces, but can't hit what's hidden.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "The two bowmen are LV 4 and LV 3, in rags; neither has a ward.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Place
