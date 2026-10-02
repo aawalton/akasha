@@ -168,7 +168,7 @@ export const otherwhereI0001ALibrarianForTheLibrary = {
     },
     {
       position: 32,
-      cover: "image/image-8e9ec81d2c22ad85",
+      cover: "image/image-41fb338ac29cbea2",
       coverAfter: '"And every book you put back on its right shelf gives me',
     },
     {
