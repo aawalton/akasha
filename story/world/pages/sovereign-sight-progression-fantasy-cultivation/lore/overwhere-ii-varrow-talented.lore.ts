@@ -1,0 +1,63 @@
+import type { Lore } from "akasha/story/lore/lore.page-type.types.ts"
+
+export const overwhereIiVarrowTalented = {
+  id: "01a0fefd-b045-7f0a-8c51-ffae931c538f",
+  type: "page-type/lore",
+  slug: "overwhere-ii-varrow-talented",
+  title: "The Talented of Varrow Keep",
+  world: "world/sovereign-sight-progression-fantasy-cultivation",
+  facts: [
+    {
+      fact: "Lady Varrow's four sworn Talented are Sir Edric Hale, Hawise Tull, Osric Penn and Corra Venn.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Hawise Tull, about thirty, lean and scarred, leads the Talented's training in the lower court.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Hawise's Talent is Quickstep, Minor, at First Depth: for a few breaths she moves twice as fast.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Hawise fights with two short blades, and speaks little, and that little blunt.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Osric Penn, twenty-four, is huge and loud, with a Talent called Heft, Minor, at the Surface.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Heft makes what Osric lifts or swings feel light to him; he fights with an iron-shod maul.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Corra Venn, nineteen, is small and sharp-eyed; her Talent is Spark, Minor, at the Surface.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Spark lets Corra snap stinging blue sparks from her fingertips, enough to numb a hand.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Training runs two hours from first light: wooden weapons first, then Talents, held light.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Lady Varrow's sparring rule: no Talent may harm what it cannot heal, nor draw on another's Water.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The Talented have heard Nala killed Crake; Osric wants to test her, Hawise to watch her first.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Corra is curious about Nala, and a little jealous of the Lady's notice.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Sir Edric seldom trains with the others; at his years he keeps to drills with Hawise alone.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+  ],
+} as const satisfies Lore
