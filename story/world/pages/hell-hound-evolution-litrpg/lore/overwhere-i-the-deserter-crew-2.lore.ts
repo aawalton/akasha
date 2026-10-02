@@ -236,7 +236,12 @@ export const overwhereITheDeserterCrew2 = {
     },
     {
       fact: "Blademen One and Two lie in the easternmost gallery, behind a heap of spoil.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-i-nala",
+        "character-other/overwhere-i-quarry-crewman-one",
+        "character-other/overwhere-i-quarry-crewman-two",
+      ],
     },
     {
       fact: "From the east rim by the back wall, 15 yards off and above, the easternmost gallery shows inside.",
@@ -244,7 +249,12 @@ export const overwhereITheDeserterCrew2 = {
     },
     {
       fact: "Blademan Two sits burned against the wall, sword on his knees; One lies beside him, moaning.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-i-nala",
+        "character-other/overwhere-i-quarry-crewman-one",
+        "character-other/overwhere-i-quarry-crewman-two",
+      ],
     },
     {
       fact: "Heard on the rim, Blademan Two calls out that they yield, and begs her not to burn them.",
