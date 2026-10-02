@@ -10,7 +10,7 @@ export const overwhereIi00082 = {
   position: 82,
   prose: "txt",
   characters: ["character-player/overwhere-ii-nala"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/game-master",
   action: "“Gladly, Sir.”",
   beats: [
     'Nala: "Gladly, Sir."',
@@ -33,12 +33,15 @@ export const overwhereIi00082 = {
     "He stands a long moment, very still. His jaw tightens.",
     'Sir Edric, without opening his eyes: "Tell me of the pull. What you feel, here, now."',
   ],
+  issues: [
+    '"up the valley to Callow Beck" - Callow Beck lies two hours south of the Ford, across the valley',
+  ],
   lore: [
     "lore/overwhere-ii-nala",
     "lore/overwhere-ii-nala-2",
     "lore/overwhere-ii-nala-3",
     "lore/overwhere-ii-sir-edric-hale",
   ],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
   endsAt: "2026-10-19T11:00:00.000Z",
 } as const satisfies StoryTurnPlayed
