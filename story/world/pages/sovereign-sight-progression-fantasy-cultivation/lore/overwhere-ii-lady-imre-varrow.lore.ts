@@ -157,7 +157,7 @@ export const overwhereIiLadyImreVarrow = {
     },
     {
       fact: "She advises Nala to refine her organs before Descending, as few have the time or Water to.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "She keeps a dried, Sea-touched Ghostflower Root, saved for her son Aurel, who never came home.",
