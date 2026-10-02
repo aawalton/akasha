@@ -87,6 +87,10 @@ export const overwhereIGreybackAndEastRoad = {
       fact: "The east road from Fenwatch to Wendlow runs about sixty miles.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "On foot the east road to Wendlow is also about three days, much as the cart.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place
