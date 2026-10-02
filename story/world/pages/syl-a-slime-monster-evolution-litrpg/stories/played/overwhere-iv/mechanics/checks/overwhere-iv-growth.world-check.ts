@@ -260,6 +260,25 @@ export const overwhereIvGrowth = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "Lacking Sense Casting, a deliberate try to lay a spell where she only feels is a use of it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Several tries in one scene count as one use of Sense Casting, not one each.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "Holding Sense Casting, a spell may fall anywhere her Spatial Sense holds, seen or not.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "At Sense Casting LV 1 a spell aimed by sense lands within a hand's width, not a finger's.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "Personal Rift comes with the Riftmancer class, and to no one without it.",
     },
     {
