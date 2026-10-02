@@ -293,6 +293,10 @@ export const overwhereIOsricFenn = {
         "lore/overwhere-i-osric-fenn",
       ],
     },
+    {
+      fact: "Osric stops an hour at noon to rest the mule, push or no push.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
