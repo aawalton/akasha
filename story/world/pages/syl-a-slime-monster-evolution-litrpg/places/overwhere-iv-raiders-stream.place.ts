@@ -68,5 +68,9 @@ export const overwhereIvRaidersStream = {
       fact: "The three at the fire are LV 5, 3 and 2; the LV 5 wears scraps of hide, a ward of 1.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "The sheep-watcher is LV 2, with a knife and no ward.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Place
