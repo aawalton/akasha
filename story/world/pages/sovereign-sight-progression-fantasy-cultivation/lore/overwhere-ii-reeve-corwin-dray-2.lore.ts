@@ -161,7 +161,7 @@ export const overwhereIiReeveCorwinDray2 = {
     },
     {
       fact: "Big Harl gets no clemency from Dray; he will hang, unless he too names something worth his neck.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Dray sends a rider to the Carrowmouth watch at first light with Wil's cellar, to free the captives.",
