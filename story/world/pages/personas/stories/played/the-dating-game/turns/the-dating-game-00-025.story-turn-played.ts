@@ -4,7 +4,7 @@ export const theDatingGame00025 = {
   id: "01a0e3e7-c589-7dab-b776-6cae83055c69",
   type: "page-type/story-turn-played",
   slug: "the-dating-game-00-025",
-  cover: "image/image-611406df1277af6a",
+  cover: "image/image-6240c2143e5e95f1",
   coverAfter: "She glances up at the sky over the rooftops, where the gold",
   ownLength: 159,
   unit: "unit/words",
