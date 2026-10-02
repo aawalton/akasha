@@ -10,7 +10,7 @@ export const overwhereIii00070 = {
   position: 70,
   prose: "txt",
   characters: ["character-player/overwhere-iii-nala", "character-other/overwhere-iii-marda-hesk"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/recorders",
   action:
     "“Could you help me understand a few things, Marda? How do I level up faster and what do skill rarities mean?”",
   beats: [
@@ -39,6 +39,6 @@ export const overwhereIii00070 = {
     "lore/overwhere-iii-the-system",
     "place/overwhere-iii-merrowgate-guild-post",
   ],
-  reviewedBy: ["story-reviewer/continuity"],
+  reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
   endsAt: "2026-10-07T11:30:00.000Z",
 } as const satisfies StoryTurnPlayed
