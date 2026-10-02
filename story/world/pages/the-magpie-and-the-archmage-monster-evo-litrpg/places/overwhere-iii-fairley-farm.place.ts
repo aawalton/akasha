@@ -34,7 +34,11 @@ export const overwhereIiiFairleyFarm = {
     },
     {
       fact: "The hen-house's wattle is torn open at one corner, the ground thick with feathers and blood.",
-      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-oswin-fairley"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/overwhere-iii-oswin-fairley",
+        "character-player/overwhere-iii-nala",
+      ],
     },
     {
       fact: "Behind the stubble a hazel copse grows on an old hedgebank, riddled with a disused badger sett.",
