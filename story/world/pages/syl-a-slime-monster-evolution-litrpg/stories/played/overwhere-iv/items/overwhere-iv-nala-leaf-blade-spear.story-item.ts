@@ -9,5 +9,5 @@ export const overwhereIvNalaLeafBladeSpear = {
   character: "character-player/overwhere-iv-nala",
   slot: "item-slot/main-hand",
   description:
-    "A dark grey leaf blade of hardened iron, bright-edged, on a seasoned ash shaft with an iron butt cap.",
+    "A dark grey leaf blade of hardened iron, bright-edged, with an iron crossbar behind it, on a seasoned ash shaft with an iron butt cap.",
 } as const satisfies StoryItem
