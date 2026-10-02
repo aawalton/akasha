@@ -36,5 +36,6 @@ export const overwhereIi00060 = {
     "She wakes in the dark of the cottage with her heart pounding, and the pull still in her chest.",
   ],
   lore: ["lore/overwhere-ii-nala", "lore/overwhere-ii-nala-2", "place/overwhere-ii-tarrant-smithy"],
+  reviewedBy: ["story-reviewer/style"],
   endsAt: "2026-10-06T23:30:00.000Z",
 } as const satisfies StoryTurnPlayed
