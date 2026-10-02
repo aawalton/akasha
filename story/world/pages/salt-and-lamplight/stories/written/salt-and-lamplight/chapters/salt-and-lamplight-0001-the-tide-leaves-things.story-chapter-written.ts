@@ -82,4 +82,5 @@ export const saltAndLamplight0001TheTideLeavesThings = {
     "character-other/salt-and-lamplight-morwenna",
   ],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
+  recordedBy: ["story-recorder/mechanics"],
 } as const satisfies StoryChapterWritten
