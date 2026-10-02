@@ -178,5 +178,9 @@ export const overwhereITheDeserterCrew22 = {
       fact: "The camp heard Five's scream from the bend; no one comes down the track to look.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Nala took Five's short sword at the bend.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+    },
   ],
 } as const satisfies Lore
