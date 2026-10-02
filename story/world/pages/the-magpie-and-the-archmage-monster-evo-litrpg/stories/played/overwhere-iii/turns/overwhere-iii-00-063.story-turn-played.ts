@@ -7,7 +7,16 @@ export const overwhereIii00063 = {
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iii"],
   position: 63,
-  stepStatus: "step-status/world-builder",
+  stepStatus: "step-status/game-master",
   action:
     "I try to braid my cleansing weave and current weave together, threading the result down into the den where I can see the smear.",
+  lore: [
+    "lore/overwhere-iii-braid-weaving",
+    "lore/overwhere-iii-cleansing-weave",
+    "lore/overwhere-iii-corruption-2",
+    "lore/overwhere-iii-nala",
+    "lore/overwhere-iii-nala-2",
+    "lore/overwhere-iii-oswin-fairley",
+    "place/overwhere-iii-fairley-farm",
+  ],
 } as const satisfies StoryTurnPlayed
