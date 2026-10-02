@@ -87,5 +87,37 @@ export const overwhereIiOswyCrake2 = {
       fact: "Nala's spear thrust lifted Crake off his feet and slammed him against a barn post.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
+    {
+      fact: "Crake's bare head is open to Undertow: a hard pull can yank it down and forward like a rope.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Undertow cannot touch the cold-iron head, but driving Nala's own arms it speeds her thrust.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "A cold-iron point driven hard into Crake's bare neck breaks his First Depth skin.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Speared through the neck, Crake dies in moments, and his reservoir spills out as cold brine.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Crake keeps his chin tucked to his ring coat in a fight; the neck is a narrow mark.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The venom chokes Nala's Locks within the minute; she has that long to use Undertow at all.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Locks choked, Nala's Water stays penned in her well: no Undertow, but her refined body holds.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "If Crake falls, Bet cries out to Wil from the lane, and Wil lowers his crossbow; Kit follows.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
