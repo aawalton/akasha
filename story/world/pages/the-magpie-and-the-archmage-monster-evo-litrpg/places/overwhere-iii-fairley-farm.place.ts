@@ -42,7 +42,11 @@ export const overwhereIiiFairleyFarm = {
     },
     {
       fact: "Behind the stubble a hazel copse grows on an old hedgebank, riddled with a disused badger sett.",
-      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-oswin-fairley"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/overwhere-iii-oswin-fairley",
+        "character-player/overwhere-iii-nala",
+      ],
     },
     {
       fact: "The blighted fox lairs in the badger sett in the hazel copse; the ground at its mouth is gray.",
