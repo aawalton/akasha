@@ -137,5 +137,9 @@ export const overwhereIiiBrannaghTull2 = {
       fact: "The girl is about nine; a fall on a stone step split her lip two years ago, and it knit crooked.",
       knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-brannagh-tull"],
     },
+    {
+      fact: "Day seven's morning brings no fresh hurt or blight to Brannagh's bench.",
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-brannagh-tull"],
+    },
   ],
 } as const satisfies Lore
