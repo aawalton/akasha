@@ -61,7 +61,7 @@ export const overwhereIiBetLoddon = {
     },
     {
       fact: "On the road Bet asks Nala, low, whether her brothers will hang.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
   ],
 } as const satisfies Lore
