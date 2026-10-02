@@ -35,5 +35,9 @@ export const overwhereIiPip = {
       fact: "Pip heard a carter at the Drowned Lantern tell Crake of Nala, a week before market day.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Once Pip believes Crake is dead, he cries hard, as a child does, then all at once goes quiet.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+    },
   ],
 } as const satisfies Lore
