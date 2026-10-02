@@ -10,7 +10,7 @@ export const hollowmere0005Five = {
   story: "story-written/hollowmere",
   ownLength: 5205,
   prose: "txt",
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/recorders",
   beats: [
     "Friday: you wake in grey light with Bea still asleep on your shoulder, drooling a little.",
     'She wakes, sees where she is, and goes scarlet; "Did I fall asleep mid-herring?" You nod.',
@@ -85,5 +85,5 @@ export const hollowmere0005Five = {
     "character-other/hollowmere-lin",
     "character-other/hollowmere-yusra",
   ],
-  reviewedBy: ["story-reviewer/continuity"],
+  reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
 } as const satisfies StoryChapterWritten
