@@ -10,7 +10,7 @@ export const overwhereIi00092 = {
   position: 92,
   prose: "txt",
   characters: ["character-player/overwhere-ii-nala"],
-  stepStatus: "step-status/game-master",
+  stepStatus: "step-status/writer",
   action: "“I’ll train with them in the mornings, refine after, until my refining is done.”",
   beats: [
     'Nala: "I\'ll train with them in the mornings, refine after, until my refining is done."',
@@ -27,7 +27,7 @@ export const overwhereIi00092 = {
     "In her last hour of sleep the black stair calls again, louder.",
     "First light, day 24. Frost on the lower court's flags, wooden weapons in a rack.",
     'Hawise: "Wooden weapons first. Then Talents, held light."',
-    "Hawise: \"The Lady's rule. No Talent harms what it can't heal. None draws on another's Water.\"",
+    'Hawise: "The Lady\'s rule. Harm only what your Talent can heal. Draw only on your own Water."',
     "Undertow is a draw. Against these three, it is barred.",
     "Corra sits on the well-curb, snapping tiny blue sparks between her fingertips.",
     "Osric takes a wooden maul from the rack and swings it one-handed, light as a switch.",
