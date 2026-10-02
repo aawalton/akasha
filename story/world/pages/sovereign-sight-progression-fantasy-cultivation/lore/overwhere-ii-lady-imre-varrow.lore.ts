@@ -77,7 +77,7 @@ export const overwhereIiLadyImreVarrow = {
     },
     {
       fact: "She has heard of folk the Sea touched losing their past, and does not call Nala's lost memory a lie.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Told Nala remembers nothing past a few weeks, she asks where Nala first woke, and who saw her first.",
