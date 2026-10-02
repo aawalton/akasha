@@ -10,4 +10,5 @@ export const overwhereI00075 = {
   stepStatus: "step-status/game-master",
   action: "I use my lens working to find the crossbowman in the trees, then snipe him out",
   lore: ["lore/overwhere-i-the-deserter-crew-2"],
+  endsAt: "2026-10-03T15:10:00.000Z",
 } as const satisfies StoryTurnPlayed
