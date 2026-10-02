@@ -117,7 +117,7 @@ export const overwhereIvTullFarm = {
     },
     {
       fact: "At the horn's blast both torches go out at once, and nothing comes across the meadow.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
     },
     {
       fact: "The two torch-bearers are goblin watchers; doused, they slip back into the Tangle.",
@@ -125,7 +125,7 @@ export const overwhereIvTullFarm = {
     },
     {
       fact: "At the horn Tull comes out with his cudgel, and Aldo, head bound, with a hayfork.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
     },
     {
       fact: "A horn carries about a mile on a still night; Hobb's, further off, does not hear it.",
@@ -133,7 +133,15 @@ export const overwhereIvTullFarm = {
     },
     {
       fact: "Nothing else stirs at Tull's the rest of that night.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+    },
+    {
+      fact: "Tull stood watch a while after the horn, then went in; Aldo dozed by the fold, hayfork on knees.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+    },
+    {
+      fact: "At dawn of day 8, Aldo asked Nala whether she would watch again that night.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
     },
   ],
 } as const satisfies Place
