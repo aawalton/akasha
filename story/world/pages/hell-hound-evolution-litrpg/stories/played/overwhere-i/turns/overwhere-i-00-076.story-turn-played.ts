@@ -10,7 +10,7 @@ export const overwhereI00076 = {
   position: 76,
   prose: "txt",
   characters: ["character-player/overwhere-i-nala"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/recorders",
   action:
     "I pull out the pale blue crystals and pull on them, to see if I can use them to refill my mana.",
   beats: [
@@ -29,6 +29,6 @@ export const overwhereI00076 = {
     "lore/overwhere-i-the-system-2",
     "lore/overwhere-i-the-western-march",
   ],
-  reviewedBy: ["story-reviewer/continuity"],
+  reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
   endsAt: "2026-10-03T15:11:00.000Z",
 } as const satisfies StoryTurnPlayed
