@@ -9,6 +9,7 @@ export const RevealedSheetSchema = z.object({
   attributes: z.record(z.string(), z.unknown()).optional(),
   resources: z.record(z.string(), z.unknown()).optional(),
   purse: z.record(z.string(), z.unknown()).optional(),
+  ledgers: z.record(z.string(), z.array(z.unknown())).optional(),
   skills: z.array(z.unknown()).optional(),
   traits: z.array(z.unknown()).optional(),
   legacies: z.array(z.unknown()).optional(),

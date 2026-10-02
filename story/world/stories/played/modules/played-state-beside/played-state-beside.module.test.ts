@@ -1,9 +1,9 @@
 import { expect, test } from "bun:test"
 import { GameStateSchema } from "akasha/story/engine/core/modules/state-schema/state-schema.module.code.ts"
 import { towerHealth } from "akasha/story/world/pages/personas/stories/played/the-tower/mechanics/metrics/resources/tower-health/tower-health.page-type.ts"
+import { revealedRows } from "akasha/story/world/stories/played/modules/played-sheet-rows/played-sheet-rows.module.code.ts"
 import {
   type Filed,
-  revealedRows,
   stateOf,
 } from "akasha/story/world/stories/played/modules/played-state-beside/played-state-beside.module.code.ts"
 
@@ -76,6 +76,13 @@ test("a level, attributes, traits, bonds, attunements and items filed are drawn 
 test("a purse filed is drawn on the sheet, and alone is still a state", () => {
   const state = stateOf({ ...NOTHING, purse: { Crowns: "4 crown" } }, 88, "Alan")
   expect(state?.revealed).toEqual({ name: "Alan", purse: { Crowns: "4 crown" } })
+  expect(GameStateSchema.safeParse(state).success).toBe(true)
+})
+
+test("a purse's ledger filed is drawn on the sheet beside the purse", () => {
+  const ledgers = { Crowns: [{ turn: 4, change: "+4 crown", total: "4 crown" }] }
+  const state = stateOf({ ...NOTHING, purse: { Crowns: "4 crown" }, ledgers }, 88, "Alan")
+  expect(state?.revealed).toEqual({ name: "Alan", purse: { Crowns: "4 crown" }, ledgers })
   expect(GameStateSchema.safeParse(state).success).toBe(true)
 })
 

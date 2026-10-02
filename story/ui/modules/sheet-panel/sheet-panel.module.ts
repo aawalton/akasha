@@ -74,6 +74,10 @@ export const sheetPanel = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A purse with a ledger opens that ledger when tapped, newest change first.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A panel drawing this sheet says whether it shows the stats and the bonds.",
     },
     {

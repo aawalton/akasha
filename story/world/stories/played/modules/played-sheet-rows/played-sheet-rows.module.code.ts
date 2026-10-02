@@ -181,6 +181,12 @@ function byOrder(one: Resource, other: Resource): number {
   return one.name.localeCompare(other.name)
 }
 
+const UNREVEALED_KEY = "unrevealed"
+
+export function revealedRows(rows: readonly QueryRow[]): readonly QueryRow[] {
+  return rows.filter((row) => row.values[UNREVEALED_KEY] !== true)
+}
+
 const REVEALED_AS_KEY = "revealedAs"
 
 export function wordsIn(row: QueryRow): string | null {

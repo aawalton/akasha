@@ -9,6 +9,7 @@
 {"propertySlug":"import","fileName":"store-questioning.module.code.ts","path":"story/world/stories/played/modules/played-asking/played-asking.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"store-questioning.module.code.ts","path":"story/world/stories/played/modules/played-asking/played-asking.module.test.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"store-questioning.module.code.ts","path":"story/world/stories/played/modules/played-pools/played-pools.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"store-questioning.module.code.ts","path":"story/world/stories/played/modules/played-purses/played-purses.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"store-questioning.module.code.ts","path":"story/world/stories/played/modules/played-sheet-rows/played-sheet-rows.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"store-questioning.module.code.ts","path":"story/world/stories/played/modules/played-state-beside/played-state-beside.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"store-questioning.module.code.ts","path":"story/world/stories/played/modules/purse-ledger/purse-ledger.module.code.ts","typed":true,"deferred":false}

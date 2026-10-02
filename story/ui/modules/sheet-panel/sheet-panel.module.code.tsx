@@ -13,7 +13,10 @@ import {
 } from "akasha/design/interface/primitive/modules/popover/popover.module.code.tsx"
 import { surfaceClass } from "akasha/design/interface/primitive/modules/surface-class/surface-class.module.code.ts"
 
-import type { ClientSheet } from "akasha/story/ui/modules/client-session/client-session.module.code.ts"
+import type {
+  ClientLedgerLine,
+  ClientSheet,
+} from "akasha/story/ui/modules/client-session/client-session.module.code.ts"
 import {
   useDerived,
   type Working,
@@ -98,6 +101,74 @@ function ScalarRows({
           <b className="min-w-0 break-words text-right font-bold text-accent">{shownOf(value)}</b>
         </div>
       ))}
+    </div>
+  )
+}
+
+const SPENT = "−"
+
+function LedgerLines({ name, lines }: { name: string; lines: readonly ClientLedgerLine[] }) {
+  return (
+    <PopoverContent
+      align="start"
+      className="flex max-h-[60vh] w-[min(22rem,90vw)] flex-col gap-1 overflow-y-auto font-mono text-[12px]"
+    >
+      <div className="text-[11px] text-accent uppercase tracking-wide">{name}</div>
+      {lines.map((line, i) => (
+        <div
+          key={`${String(line.turn)}-${String(i)}`}
+          className="flex flex-col gap-[1px] border-surface-3 border-b border-dotted py-[3px]"
+        >
+          <div className="flex items-baseline justify-between gap-3">
+            <span className="flex-none text-tertiary">Turn {line.turn}</span>
+            <span
+              className={`min-w-0 break-words text-right ${line.change.startsWith(SPENT) ? "text-secondary" : "text-accent"}`}
+            >
+              {line.change}
+            </span>
+          </div>
+          <div className="min-w-0 break-words text-right text-tertiary">{line.total}</div>
+        </div>
+      ))}
+    </PopoverContent>
+  )
+}
+
+function PurseRows({
+  purse,
+  ledgers,
+}: {
+  purse: Readonly<Record<string, number | string>>
+  ledgers: Readonly<Record<string, readonly ClientLedgerLine[]>> | undefined
+}) {
+  return (
+    <div className="flex flex-col gap-y-[7px] font-mono text-[12.5px]">
+      {Object.entries(purse).map(([name, value]) => {
+        const lines = ledgers?.[name] ?? []
+        const row = (
+          <>
+            <span className="flex-none text-tertiary">{name}</span>
+            <b className="min-w-0 break-words text-right font-bold text-accent">{shownOf(value)}</b>
+          </>
+        )
+        const rowClass =
+          "flex w-full items-baseline justify-between gap-2 border-surface-3 border-b border-dotted py-[2px]"
+        if (lines.length === 0) {
+          return (
+            <div key={name} className={rowClass}>
+              {row}
+            </div>
+          )
+        }
+        return (
+          <Popover key={name}>
+            <PopoverTrigger className={`${rowClass} text-left hover:text-accent`}>
+              {row}
+            </PopoverTrigger>
+            <LedgerLines name={name} lines={lines} />
+          </Popover>
+        )
+      })}
     </div>
   )
 }
@@ -261,7 +332,7 @@ function ItemsTab({ sheet }: { sheet: ClientSheet }) {
     <div className="flex flex-col gap-3">
       {purse !== undefined ? (
         <Section title="Purse">
-          <ScalarRows record={purse} single />
+          <PurseRows purse={purse} ledgers={sheet.ledgers} />
         </Section>
       ) : null}
       <Section title="Inventory">

@@ -61,6 +61,13 @@ const ClientEquipItemSchema = z.object({
 })
 type ClientEquipItem = z.infer<typeof ClientEquipItemSchema>
 
+const ClientLedgerLineSchema = z.object({
+  turn: z.number(),
+  change: z.string(),
+  total: z.string(),
+})
+export type ClientLedgerLine = z.infer<typeof ClientLedgerLineSchema>
+
 export const ClientSheetSchema = z.object({
   name: z.string().optional(),
   kind: z.string().optional(),
@@ -70,6 +77,7 @@ export const ClientSheetSchema = z.object({
   attributes: z.record(z.string(), z.union([z.number(), z.string()])).optional(),
   resources: z.record(z.string(), z.union([z.number(), z.string()])).optional(),
   purse: z.record(z.string(), z.union([z.number(), z.string()])).optional(),
+  ledgers: z.record(z.string(), z.array(ClientLedgerLineSchema)).optional(),
   skills: z.array(ClientSkillSchema).optional(),
   traits: z.array(ClientSkillSchema).optional(),
   legacies: z.array(ClientSkillSchema).optional(),
@@ -105,6 +113,21 @@ function numberRecord(value: unknown): Record<string, number> | undefined {
   const out: Record<string, number> = {}
   for (const [k, v] of Object.entries(rec)) {
     if (typeof v === "number") out[k] = v
+  }
+  return Object.keys(out).length > 0 ? out : undefined
+}
+
+function ledgerRecord(value: unknown): Record<string, ClientLedgerLine[]> | undefined {
+  const rec = asRecord(value)
+  if (rec === null) return undefined
+  const out: Record<string, ClientLedgerLine[]> = {}
+  for (const [name, lines] of Object.entries(rec)) {
+    if (!Array.isArray(lines)) continue
+    const held = lines.flatMap((line) => {
+      const parsed = ClientLedgerLineSchema.safeParse(line)
+      return parsed.success ? [parsed.data] : []
+    })
+    if (held.length > 0) out[name] = held
   }
   return Object.keys(out).length > 0 ? out : undefined
 }
@@ -196,6 +219,7 @@ function toClientSheet(revealed: unknown): ClientSheet | null {
     attributes: scalarRecord(rec["attributes"]),
     resources: scalarRecord(rec["resources"]),
     purse: scalarRecord(rec["purse"]),
+    ledgers: ledgerRecord(rec["ledgers"]),
     skills: projectedArray(rec["skills"], toClientSkill),
     traits: projectedArray(rec["traits"], toClientSkill),
     legacies: projectedArray(rec["legacies"], toClientSkill),

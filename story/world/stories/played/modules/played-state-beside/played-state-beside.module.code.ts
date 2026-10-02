@@ -13,14 +13,13 @@ import type { GameState } from "akasha/story/engine/core/modules/state-schema/st
 import { worldAttunement } from "akasha/story/world/mechanics/attunements/world-attunement.page-type.ts"
 import { worldClass } from "akasha/story/world/mechanics/classes/world-class.page-type.ts"
 import { worldCondition } from "akasha/story/world/mechanics/conditions/world-condition.page-type.ts"
-import { worldCurrency } from "akasha/story/world/mechanics/currencies/world-currency.page-type.ts"
 import {
   type Had,
   itemsOf,
 } from "akasha/story/world/mechanics/items/story-item/modules/character-items-beside/character-items-beside.module.code.ts"
 import { worldLegacy } from "akasha/story/world/mechanics/legacies/world-legacy.page-type.ts"
 import { metricCharacterAttribute } from "akasha/story/world/mechanics/metrics/metric-character/attribute/metric-character-attribute.page-type.ts"
-import { metricCharacterCurrency } from "akasha/story/world/mechanics/metrics/metric-character/currency/metric-character-currency.page-type.ts"
+
 import { metricCharacterResource } from "akasha/story/world/mechanics/metrics/metric-character/resource/metric-character-resource.page-type.ts"
 import { worldQuest } from "akasha/story/world/mechanics/quests/world-quest.page-type.ts"
 import { worldRelationship } from "akasha/story/world/mechanics/relationships/world-relationship.page-type.ts"
@@ -32,22 +31,22 @@ import {
   reportThrown,
 } from "akasha/story/world/stories/played/modules/played-asking/played-asking.module.code.ts"
 import { poolsIn } from "akasha/story/world/stories/played/modules/played-pools/played-pools.module.code.ts"
+import { readPurses } from "akasha/story/world/stories/played/modules/played-purses/played-purses.module.code.ts"
 import {
   attunementsIn,
   bondsIn,
   type Counted,
-  type Currency,
-  denominationsIn,
   heldIn,
   namedIn,
-  pursesIn,
   questsIn,
   resourcesIn,
+  revealedRows,
   type Skill,
   scoresIn,
   skillsIn,
   traitsIn,
 } from "akasha/story/world/stories/played/modules/played-sheet-rows/played-sheet-rows.module.code.ts"
+import type { LedgerLine } from "akasha/story/world/stories/played/modules/purse-ledger/purse-ledger.module.code.ts"
 import { useEffect, useState } from "react"
 
 const TYPE_KEY = "type"
@@ -95,6 +94,7 @@ export type Filed = {
   readonly attributes: Readonly<Record<string, number>>
   readonly resources?: Readonly<Record<string, string | number>>
   readonly purse?: Readonly<Record<string, string | number>>
+  readonly ledgers?: Readonly<Record<string, readonly LedgerLine[]>>
   readonly skills: readonly Skill[]
   readonly traits: readonly Skill[]
   readonly legacies: readonly Skill[]
@@ -155,10 +155,6 @@ const DISPLAY_ORDER_KEY = "displayOrder"
 
 const REVEALED_AS_KEY = "revealedAs"
 
-export function revealedRows(rows: readonly QueryRow[]): readonly QueryRow[] {
-  return rows.filter((row) => row.values[UNREVEALED_KEY] !== true)
-}
-
 function rowsOf(asked: Asked): readonly QueryRow[] {
   return asked.ok ? revealedRows(asked.answer.rows) : []
 }
@@ -207,54 +203,8 @@ async function askedHeld(type: string, key: string, character: string): Promise<
   )
 }
 
-const CURRENCY_KEY = "currency"
-
-const DENOMINATIONS_KEY = "denominations"
-
-async function currenciesOf(rows: readonly QueryRow[]): Promise<ReadonlyMap<string, Currency>> {
-  const slugs = namedIn(rows, [CURRENCY_KEY]).get(worldCurrency.slug) ?? []
-  const currencies = new Map<string, Currency>()
-  if (slugs.length === 0) return currencies
-  const asked = await askedLoudly({
-    "page-type": worldCurrency.slug,
-    where: { slug: { in: [...slugs] } },
-    keys: [SLUG_KEY, TITLE_KEY, DENOMINATIONS_KEY],
-  })
-  if (!asked.ok) return currencies
-  for (const row of asked.answer.rows) {
-    const slug = textIn(row.values[SLUG_KEY])
-    const title = textIn(row.values[TITLE_KEY])
-    if (slug === null || title === null) continue
-    currencies.set(`${worldCurrency.slug}/${slug}`, {
-      title,
-      denominations: denominationsIn(row.values[DENOMINATIONS_KEY]),
-    })
-  }
-  return currencies
-}
-
-async function readPurse(character: string): Promise<Readonly<Record<string, string | number>>> {
-  const rows = rowsOf(
-    await askedLoudly({
-      "page-type": metricCharacterCurrency.slug,
-      where: { character: { is: character } },
-      keys: [
-        CHARACTER_KEY,
-        VALUE_KEY,
-        SLUG_KEY,
-        TITLE_KEY,
-        CURRENCY_KEY,
-        DISPLAY_ORDER_KEY,
-        REVEALED_AS_KEY,
-        UNREVEALED_KEY,
-      ],
-    })
-  )
-  return pursesIn(rows, await currenciesOf(rows))
-}
-
 async function readFiled(character: string, turn: number): Promise<Filed> {
-  const purse = await readPurse(character)
+  const { purse, ledgers } = await readPurses(character, turn)
   const [resources, scores, holdings, quests, bonds, attunements, traits, had] = await Promise.all([
     askedLoudly({
       "page-type": metricCharacterResource.slug,
@@ -364,6 +314,7 @@ async function readFiled(character: string, turn: number): Promise<Filed> {
     attributes: scored.attributes,
     ...(Object.keys(held).length === 0 ? {} : { resources: held }),
     ...(Object.keys(purse).length === 0 ? {} : { purse }),
+    ...(Object.keys(ledgers).length === 0 ? {} : { ledgers }),
     skills: skillsIn(skillRows, titles, descriptions),
     traits: traitsIn(traitRows, titles, descriptions),
     legacies: heldIn(legacyRows, LEGACY_KEY, titles, descriptions),
@@ -396,12 +347,19 @@ function filedNothing(filed: Filed): boolean {
   )
 }
 
+function ledgersOf(
+  ledgers: Readonly<Record<string, readonly LedgerLine[]>>
+): Record<string, LedgerLine[]> {
+  return Object.fromEntries(Object.entries(ledgers).map(([name, lines]) => [name, [...lines]]))
+}
+
 function sheetOf(filed: Filed): RevealedSheet {
   return {
     ...(filed.level === undefined ? {} : { level: filed.level }),
     ...(Object.keys(filed.attributes).length === 0 ? {} : { attributes: { ...filed.attributes } }),
     ...(filed.resources === undefined ? {} : { resources: { ...filed.resources } }),
     ...(filed.purse === undefined ? {} : { purse: { ...filed.purse } }),
+    ...(filed.ledgers === undefined ? {} : { ledgers: ledgersOf(filed.ledgers) }),
     ...(filed.skills.length === 0 ? {} : { skills: [...filed.skills] }),
     ...(filed.traits.length === 0 ? {} : { traits: [...filed.traits] }),
     ...(filed.legacies.length === 0 ? {} : { legacies: [...filed.legacies] }),
