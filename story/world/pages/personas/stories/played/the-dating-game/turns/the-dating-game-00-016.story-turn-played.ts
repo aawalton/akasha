@@ -4,7 +4,7 @@ export const theDatingGame00016 = {
   id: "01a0e373-bce1-7ab6-883a-6d1ac35b4cf5",
   type: "page-type/story-turn-played",
   slug: "the-dating-game-00-016",
-  cover: "image/image-ce981f6a11346bfa",
+  cover: "image/image-84d0ecd6337688f4",
   coverAfter: "The trail has brought you out onto an overlook, and the canyon",
   ownLength: 301,
   unit: "unit/words",
