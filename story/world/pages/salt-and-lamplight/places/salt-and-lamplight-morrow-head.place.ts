@@ -58,7 +58,11 @@ export const saltAndLamplightMorrowHead = {
     },
     {
       fact: "A walled kitchen garden and a goat shed sit in the lee of the cottage.",
-      knowers: ["lore-disclosure/game-master", "character-other/salt-and-lamplight-morwenna"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/salt-and-lamplight-morwenna",
+        "character-player/salt-and-lamplight-nala",
+      ],
     },
     {
       fact: "Steep steps hewn into the rock lead down from the point to a small shingle cove.",
@@ -94,11 +98,27 @@ export const saltAndLamplightMorrowHead = {
     },
     {
       fact: "In a gale the keeper stays up in the lantern room all night, wiping salt from the glass.",
-      knowers: ["lore-disclosure/game-master", "character-other/salt-and-lamplight-morwenna"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/salt-and-lamplight-morwenna",
+        "character-player/salt-and-lamplight-nala",
+      ],
     },
     {
       fact: "A tin bath hangs on the cottage wall, and is filled before the hearth from the kettle and the pot.",
-      knowers: ["lore-disclosure/game-master", "character-other/salt-and-lamplight-morwenna"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/salt-and-lamplight-morwenna",
+        "character-player/salt-and-lamplight-nala",
+      ],
+    },
+    {
+      fact: "The lamp oil cans are kept in a lean-to at the foot of the lighthouse tower.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/salt-and-lamplight-nala",
+        "character-other/salt-and-lamplight-morwenna",
+      ],
     },
   ],
 } as const satisfies Place

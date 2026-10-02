@@ -40,6 +40,22 @@ export const saltAndLamplightWorld = {
       fact: "A northerly gale comes in on Nala's third day, the worst of the autumn so far.",
       knowers: ["lore-disclosure/game-master", "character-other/salt-and-lamplight-morwenna"],
     },
+    {
+      fact: "An old coast song tells of a boat on a black sea coming home to a woman's lamp in a window.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/salt-and-lamplight-nala",
+        "character-other/salt-and-lamplight-morwenna",
+      ],
+    },
+    {
+      fact: "A bad northerly gale struck the coast, the sea white to the horizon and the Teeth lost in spray.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/salt-and-lamplight-nala",
+        "character-other/salt-and-lamplight-morwenna",
+      ],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore

@@ -62,7 +62,11 @@ export const saltAndLamplightMorwenna = {
     },
     {
       fact: "Ysella died of a winter fever five years ago, and Morwenna has kept the light alone since.",
-      knowers: ["lore-disclosure/game-master", "character-other/salt-and-lamplight-morwenna"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/salt-and-lamplight-morwenna",
+        "character-player/salt-and-lamplight-nala",
+      ],
     },
     {
       fact: "Penmorrow thinks keepers a little strange, and Morwenna is respected there more than she is liked.",
@@ -186,7 +190,11 @@ export const saltAndLamplightMorwenna = {
     },
     {
       fact: "Morwenna sings old coast songs of her mother's under her breath while she works, and stops if heard.",
-      knowers: ["lore-disclosure/game-master", "character-other/salt-and-lamplight-morwenna"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/salt-and-lamplight-morwenna",
+        "character-player/salt-and-lamplight-nala",
+      ],
     },
     {
       fact: "Ysella lies in Penmorrow's chapel yard, and Morwenna has not been to her grave since the burying.",
@@ -194,6 +202,30 @@ export const saltAndLamplightMorwenna = {
         "lore-disclosure/game-master",
         "character-other/salt-and-lamplight-morwenna",
         "character-other/salt-and-lamplight-dilys",
+      ],
+    },
+    {
+      fact: "Gales terrified Morwenna as a girl, and her mother sat them out with her up the tower, singing.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/salt-and-lamplight-nala",
+        "character-other/salt-and-lamplight-morwenna",
+      ],
+    },
+    {
+      fact: "Morwenna sang Nala the whole boat song in the lantern room on the night of the gale.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/salt-and-lamplight-nala",
+        "character-other/salt-and-lamplight-morwenna",
+      ],
+    },
+    {
+      fact: "Morwenna won't have anyone come to harm on her light, and told Nala she can't abide being pitied.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/salt-and-lamplight-nala",
+        "character-other/salt-and-lamplight-morwenna",
       ],
     },
   ],

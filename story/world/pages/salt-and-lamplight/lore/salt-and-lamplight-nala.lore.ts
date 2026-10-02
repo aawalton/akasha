@@ -119,5 +119,25 @@ export const saltAndLamplightNala = {
         "character-other/salt-and-lamplight-dilys",
       ],
     },
+    {
+      fact: "Nala went out into the gale to bar the goat shed door, and was blown nearly over the edge.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/salt-and-lamplight-nala",
+        "character-other/salt-and-lamplight-morwenna",
+      ],
+    },
+    {
+      fact: "Nala wants Morwenna, an aching want she doesn't know what to do with from inside a woman's body.",
+      knowers: ["lore-disclosure/game-master", "character-player/salt-and-lamplight-nala"],
+    },
+    {
+      fact: "Nala fell asleep on Morwenna's shoulder in the lantern room in the gale, and Morwenna let her.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/salt-and-lamplight-nala",
+        "character-other/salt-and-lamplight-morwenna",
+      ],
+    },
   ],
 } as const satisfies Lore
