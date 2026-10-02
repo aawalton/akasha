@@ -196,5 +196,25 @@ export const overwhereIvIlsaCrane2 = {
         "character-other/overwhere-iv-ilsa-crane",
       ],
     },
+    {
+      fact: "On Nala's fifth morning a fresh notice reads: GOBLINS AT TULL'S. SIX SHEEP TAKEN. EARS PAID.",
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iv-ilsa-crane"],
+    },
+    {
+      fact: "The Tull job pays the goblin bounty, 5 silver for the horned leader, and 3 copper a sheep home.",
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iv-ilsa-crane"],
+    },
+    {
+      fact: "The Brookside Four left at dawn on a two-day wolf hunt deep in the Tangle, past calling back.",
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iv-ilsa-crane"],
+    },
+    {
+      fact: "Ilsa would give Nala the Tull job alone, bidding her turn back if the trail nears Grakk's camp.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Ilsa reads Tull's horned leader as a hobgoblin, and says so.",
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iv-ilsa-crane"],
+    },
   ],
 } as const satisfies Lore
