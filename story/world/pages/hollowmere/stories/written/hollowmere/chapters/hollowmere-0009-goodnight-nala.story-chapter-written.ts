@@ -5,7 +5,7 @@ export const hollowmere0009GoodnightNala = {
   type: "page-type/story-chapter-written",
   slug: "hollowmere-0009-goodnight-nala",
   cover: "image/image-1ae1d72d9abae353",
-  ownProgress: 1291,
+  ownProgress: 1450,
   position: 9,
   unit: "unit/words",
   title: "Goodnight, Nala",
