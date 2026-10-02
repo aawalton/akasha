@@ -43,7 +43,7 @@ export const otherwhereVii0001ASackAndAHalf = {
     },
     {
       position: 7,
-      cover: "image/image-3f50612852a53a21",
+      cover: "image/image-9bb6019ad9219054",
       coverAfter: "It is a split stick, pale where the bark has been shaved",
     },
     {
