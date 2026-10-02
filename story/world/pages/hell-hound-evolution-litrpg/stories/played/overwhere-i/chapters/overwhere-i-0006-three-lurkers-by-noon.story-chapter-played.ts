@@ -33,7 +33,7 @@ export const overwhereI0006ThreeLurkersByNoon = {
     },
     {
       position: 30,
-      cover: "image/image-3cd1c65c30e9382e",
+      cover: "image/image-513a678c7b320733",
       coverAfter: "Out in the channel, where the bubbles stopped, a thin thread of",
     },
     {
