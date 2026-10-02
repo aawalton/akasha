@@ -30,7 +30,7 @@ export const overwhereIiAshlinFarm = {
     },
     {
       fact: "From the beck gully a man can reach the barn's back wall without crossing open ground.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
   ],
 } as const satisfies Place
