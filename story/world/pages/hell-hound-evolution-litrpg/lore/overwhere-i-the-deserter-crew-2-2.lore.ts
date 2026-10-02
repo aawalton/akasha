@@ -59,5 +59,9 @@ export const overwhereITheDeserterCrew22 = {
       fact: "The ambush bend lies three miles from the knoll by the cart track: twelve minutes at the stride.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "If she spotted the ambush, its bolts are seen ones; if not, both first bolts come unseen.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
