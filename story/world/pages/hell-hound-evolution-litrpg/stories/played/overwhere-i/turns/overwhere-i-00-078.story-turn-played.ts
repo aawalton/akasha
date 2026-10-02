@@ -4,10 +4,17 @@ export const overwhereI00078 = {
   id: "01a0fdab-3196-7da1-a4fa-b26b501ef619",
   type: "page-type/story-turn-played",
   slug: "overwhere-i-00-078",
+  ownLength: 196,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-i"],
   position: 78,
-  stepStatus: "step-status/writer",
+  prose: "txt",
+  characters: [
+    "character-player/overwhere-i-nala",
+    "character-other/overwhere-i-quarry-crewman-one",
+    "character-other/overwhere-i-quarry-crewman-two",
+  ],
+  stepStatus: "step-status/reviewers",
   action:
     "I use my concentrated beam of fire to finish the two men, aiming for the heads, then quietly start tracking the four that got away",
   beats: [
@@ -23,6 +30,7 @@ export const overwhereI00078 = {
     "It is near twenty to four, the four men somewhere ahead, Crow among them, and their trail lost.",
   ],
   lore: [
+    "lore/overwhere-i-nala",
     "lore/overwhere-i-nala-2",
     "lore/overwhere-i-osric-fenn",
     "lore/overwhere-i-starfall-legacy",
