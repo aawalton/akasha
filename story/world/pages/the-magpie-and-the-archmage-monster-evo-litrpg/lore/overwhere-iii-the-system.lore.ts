@@ -222,7 +222,11 @@ export const overwhereIiiTheSystem = {
     },
     {
       fact: "Class advancement is a human's evolution, done at the Guild with a special stone, first at Level 10.",
-      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-marda-hesk"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/overwhere-iii-marda-hesk",
+        "character-player/overwhere-iii-nala",
+      ],
     },
     {
       fact: "Class advancement brings no new form, only new skills; the ten levels after it come easily.",
