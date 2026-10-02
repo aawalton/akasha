@@ -92,5 +92,9 @@ export const overwhereIStarfallLegacy2 = {
       fact: "Held 30 seconds, a heated patch bursts, flinging hot chips 3 yards; it costs 20 mana a half-minute.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Heating stone is a Weave use; holding it is easy, and a man within 3 yards of a burst is struck.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
