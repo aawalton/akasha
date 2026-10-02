@@ -39,7 +39,16 @@ export const overwhereITheDeserterCrew2 = {
     },
     {
       fact: "Heat on the open pit floor drives the crew back into the galleries, beyond 30 yards of the lip.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-i-nala",
+        "character-other/overwhere-i-harl-voss",
+        "character-other/overwhere-i-quarry-crewman-one",
+        "character-other/overwhere-i-quarry-crewman-two",
+        "character-other/overwhere-i-quarry-crewman-three",
+        "character-other/overwhere-i-quarry-crewman-four",
+        "character-other/overwhere-i-quarry-crewman-five",
+      ],
     },
     {
       fact: "Scrub and boulders give cover from the road to 25 yards of the pit's lip; the last 25 are open.",
@@ -51,11 +60,19 @@ export const overwhereITheDeserterCrew2 = {
     },
     {
       fact: "When stone first bursts in the pit, Voss shouts for parley from behind the stone.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-i-nala",
+        "character-other/overwhere-i-harl-voss",
+      ],
     },
     {
       fact: "Voss offers free road for Osric and all Fenwatch carts for good, and the toll silver he holds.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-i-nala",
+        "character-other/overwhere-i-harl-voss",
+      ],
     },
     {
       fact: "Voss holds about four gold in toll silver in the galleries.",

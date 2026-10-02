@@ -141,6 +141,14 @@ export const overwhereIGreybackAndEastRoad = {
       fact: "The quarry's bare stone does not burn; the pines at its rim catch only from open flame.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Nala's heat-working set a yard of the quarry pit floor glowing until it burst into hot chips.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-i-nala",
+        "character-other/overwhere-i-harl-voss",
+      ],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place
