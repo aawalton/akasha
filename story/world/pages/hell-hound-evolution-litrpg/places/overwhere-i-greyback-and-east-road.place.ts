@@ -157,6 +157,10 @@ export const overwhereIGreybackAndEastRoad = {
       fact: "A granite knoll rises above the pines 300 yards north of the quarry; the climb takes ten minutes.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "From the knoll an old cart track shows cutting north-east through the pines toward low hills.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place
