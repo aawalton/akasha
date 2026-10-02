@@ -119,6 +119,10 @@ export const overwhereIGarrickPell = {
       fact: "One sack of salt packs Ghost-Eye's head.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
+    {
+      fact: "Nala and Garrick packed Ghost-Eye's head in salt in about an hour on the evening of day 4.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
