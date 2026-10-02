@@ -11,4 +11,5 @@ export const overwhereIv00062 = {
   action:
     "I count that as progress for today, then quietly move around until I can get sight on the wolf and finish it.",
   lore: ["place/overwhere-iv-crake-gill"],
+  endsAt: "2026-10-04T14:40:00.000Z",
 } as const satisfies StoryTurnPlayed
