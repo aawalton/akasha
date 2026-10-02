@@ -47,5 +47,13 @@ export const overwhereIiSirEdricHale = {
       fact: "If Nala proves as strong as Dray wrote, Sir Edric carries Lady Varrow's welcome to Varrow Keep.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "On arriving, Sir Edric laid a bare hand flat on the Reeve's doorpost stone, eyes half shut.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+    },
+    {
+      fact: "On arriving at the Ford, Sir Edric asks Dray for Nala, and Dray calls her down from the lane.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+    },
   ],
 } as const satisfies Lore
