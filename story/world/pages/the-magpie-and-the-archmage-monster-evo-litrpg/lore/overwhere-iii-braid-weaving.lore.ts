@@ -50,7 +50,7 @@ export const overwhereIiiBraidWeaving = {
     },
     {
       fact: "Two of her own weaves braid into one: a Current Lash braided with a pull strikes and draws at once.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
     {
       fact: "A braid of two weaves costs both weaves' mana.",
