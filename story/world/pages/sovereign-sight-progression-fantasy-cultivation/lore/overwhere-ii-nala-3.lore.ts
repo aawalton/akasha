@@ -76,5 +76,9 @@ export const overwhereIiNala3 = {
       fact: "Until noon of day seventeen her Locks open stiff, and Undertow answers slow and weak.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Once her Locks open, the dream of the black stair returns in her last hour of sleep, louder.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
