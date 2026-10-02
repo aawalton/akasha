@@ -11,7 +11,7 @@ export const overwhereI00063 = {
   position: 63,
   prose: "txt",
   characters: ["character-player/overwhere-i-nala", "character-other/overwhere-i-ghost-eye"],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action: "I fire some bullets at the turtle heads until they die.",
   beats: [
     "From the marsh across the channel, the snappers on Ghost-Eye's body are about 35 yards off.",
@@ -36,6 +36,11 @@ export const overwhereI00063 = {
     "lore/overwhere-i-the-system-2",
   ],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/memory", "story-recorder/picture"],
+  recordedBy: [
+    "story-recorder/inventory",
+    "story-recorder/memory",
+    "story-recorder/picture",
+    "story-recorder/mechanics",
+  ],
   endsAt: "2026-10-02T10:02:00.000Z",
 } as const satisfies StoryTurnPlayed
