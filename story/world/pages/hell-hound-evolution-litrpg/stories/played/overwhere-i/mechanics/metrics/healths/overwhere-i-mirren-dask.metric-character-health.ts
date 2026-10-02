@@ -5,7 +5,7 @@ export const overwhereIMirrenDask = {
   type: "page-type/metric-character-health",
   slug: "overwhere-i-mirren-dask",
   character: "character-other/overwhere-i-mirren-dask",
-  value: 44,
+  value: 25,
   minValue: 0,
   maxValue: 44,
   displayOrder: 1,
