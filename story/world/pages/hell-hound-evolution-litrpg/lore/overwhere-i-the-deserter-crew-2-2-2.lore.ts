@@ -80,5 +80,9 @@ export const overwhereITheDeserterCrew222 = {
       fact: "The Drakewolf stands 10 yards off in the gallery mouth; a beam at it there is moderate.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "If it is still up after her first beams, the Drakewolf lunges, closing 10 yards in a second.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
