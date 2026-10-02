@@ -28,5 +28,9 @@ export const overwhereITheSystem2 = {
       fact: "The crew's Drakewolf slain brings Nala about a fifth of the way to her next level.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "The System opens no window for a drawn mana crystal; only the mana it gives shows.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
