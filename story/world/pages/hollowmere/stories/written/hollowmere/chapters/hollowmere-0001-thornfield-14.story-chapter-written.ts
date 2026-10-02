@@ -4,6 +4,8 @@ export const hollowmere0001Thornfield14 = {
   id: "01a0fd10-48e5-7ba5-86f5-dd3b87362612",
   type: "page-type/story-chapter-written",
   slug: "hollowmere-0001-thornfield-14",
+  completedAt: "2026-10-02T15:02:42.249Z",
+  ownProgress: 6979,
   position: 1,
   unit: "unit/words",
   title: "Thornfield 14",
