@@ -148,7 +148,7 @@ export const otherwhereI0001ALibrarianForTheLibrary = {
     },
     {
       position: 28,
-      cover: "image/image-e7f404a6c194a3b7",
+      cover: "image/image-99d6de748ede0b9e",
       coverAfter: "You fetch the chewed broom. Its bristles are bitten ragged down one",
     },
     {
