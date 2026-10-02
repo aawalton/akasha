@@ -4,10 +4,17 @@ export const overwhereI00080 = {
   id: "01a0fdc5-a997-7d91-8d85-5e4034ec9bd1",
   type: "page-type/story-turn-played",
   slug: "overwhere-i-00-080",
+  ownLength: 199,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-i"],
   position: 80,
-  stepStatus: "step-status/writer",
+  prose: "txt",
+  characters: [
+    "character-player/overwhere-i-nala",
+    "character-other/overwhere-i-mirren-dask",
+    "character-other/overwhere-i-quarry-crewman-five",
+  ],
+  stepStatus: "step-status/reviewers",
   action:
     "I start chasing them at full enhanced speed. When I get in crossbow range, I put on my air ward to deflect bolts. When I get in beam range, I use my fire beam again.",
   beats: [
@@ -25,6 +32,8 @@ export const overwhereI00080 = {
     "Both men work their crossbow cranks, winding for the next volley.",
   ],
   lore: [
+    "lore/overwhere-i-nala",
+    "lore/overwhere-i-nala-2",
     "lore/overwhere-i-starfall-legacy",
     "lore/overwhere-i-starfall-legacy-2",
     "lore/overwhere-i-the-deserter-crew-2",
