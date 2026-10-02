@@ -17,7 +17,7 @@ export const hollowmereDev = {
       ],
     },
     {
-      fact: "Dev trains as an accountant, rings Priya on Friday nights, and has no magic and no wish for any.",
+      fact: "Dev rings Priya on Friday nights, and has no magic and no wish for any.",
       knowers: [
         "lore-disclosure/game-master",
         "character-other/hollowmere-dev",
