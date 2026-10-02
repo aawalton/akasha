@@ -10,7 +10,7 @@ export const overwhereIv00056 = {
   position: 56,
   prose: "txt",
   characters: ["character-player/overwhere-iv-nala"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/game-master",
   action: "I go to Tobin to buy the best spear I can get.",
   beats: [
     "Tobin Ash's smithy sits on the square, its forge glowing, the air thick with coal smoke.",
@@ -27,11 +27,12 @@ export const overwhereIv00056 = {
     '"Day after tomorrow." He nods at the practice spear. "That one\'s blunt as a fence post."',
     '"Ten copper, and I\'ll put an edge and a point back on it while you wait."',
   ],
+  issues: ['"He grunts again, and says no more." - Plain Negation'],
   lore: [
     "lore/overwhere-iv-nala",
     "lore/overwhere-iv-nala-2",
     "place/overwhere-iv-millbrook-smithy",
   ],
-  reviewedBy: ["story-reviewer/continuity"],
+  reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
   endsAt: "2026-10-03T14:55:00.000Z",
 } as const satisfies StoryTurnPlayed
