@@ -59,5 +59,9 @@ export const overwhereIiVarrowTalented = {
       fact: "Sir Edric seldom trains with the others; at his years he keeps to drills with Hawise alone.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Osric Penn is huge and loud, and swings a wooden maul one-handed, light as a switch.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+    },
   ],
 } as const satisfies Lore
