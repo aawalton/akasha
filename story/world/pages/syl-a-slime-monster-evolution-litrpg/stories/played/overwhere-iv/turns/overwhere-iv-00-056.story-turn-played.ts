@@ -10,4 +10,5 @@ export const overwhereIv00056 = {
   stepStatus: "step-status/game-master",
   action: "I go to Tobin to buy the best spear I can get.",
   lore: ["place/overwhere-iv-millbrook-smithy"],
+  endsAt: "2026-10-03T14:55:00.000Z",
 } as const satisfies StoryTurnPlayed
