@@ -11,4 +11,5 @@ export const mariWriterHollowmere = {
   startMode: "seat-mode/interactive",
   onCall: true,
   registrationAccount: "model-account/aawalton",
+  claudeCodeSessionUuid: "451f3510-946b-4b21-a301-61215ea3e073",
 } as const satisfies Seat
