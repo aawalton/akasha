@@ -228,5 +228,9 @@ export const overwhereIStarfallLegacy2 = {
       fact: "Finding the mending weave opens no System window; it is a Weave use, not a new way or skill.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "The mending weave closes shallow wounds slowly, at a steady cost in mana.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+    },
   ],
 } as const satisfies Lore
