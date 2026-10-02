@@ -18,7 +18,7 @@ export const overwhereIiAshlinFarm = {
     },
     {
       fact: "A long, low stone farmhouse faces a stone barn across an open yard of trodden mud.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "The barn's hayloft door looks straight down on the yard and the end of the lane.",
