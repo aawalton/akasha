@@ -7,7 +7,16 @@ export const overwhereI00067 = {
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-i"],
   position: 67,
-  stepStatus: "step-status/world-builder",
+  stepStatus: "step-status/game-master",
   action:
     "“Sure, I don’t care who comes. Let’s pack it now and we can go with Osric in the morning.”",
+  lore: [
+    "lore/overwhere-i-fenwatch-2",
+    "lore/overwhere-i-garrick-pell",
+    "lore/overwhere-i-hessa-vane",
+    "lore/overwhere-i-osric-fenn",
+    "lore/overwhere-i-rowan-coalby",
+    "lore/overwhere-i-tobin-ashdown",
+    "place/overwhere-i-greyback-and-east-road",
+  ],
 } as const satisfies StoryTurnPlayed
