@@ -4,13 +4,14 @@ export const overwhereI00097 = {
   id: "01a0fefb-d535-78fc-9016-3f8a540c40b4",
   type: "page-type/story-turn-played",
   slug: "overwhere-i-00-097",
+  cover: "image/image-4f5103497a592c26",
   ownLength: 411,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-i"],
   position: 97,
   prose: "txt",
   characters: ["character-player/overwhere-i-nala", "character-other/overwhere-i-ghost-eye"],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action:
     "I go over and pick up Ghost-Eye’s head from the cart, using a working of fire and earth to increase my strength, then follow the directions up",
   beats: [
@@ -34,6 +35,12 @@ export const overwhereI00097 = {
     "place/overwhere-i-wendlow",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/mechanics", "story-recorder/memory"],
+  recordedBy: [
+    "story-recorder/inventory",
+    "story-recorder/mechanics",
+    "story-recorder/memory",
+    "story-recorder/picture",
+  ],
   endsAt: "2026-10-05T11:57:00.000Z",
+  coverAfter: "Her eyes go to the cask on your shoulder and stay there.",
 } as const satisfies StoryTurnPlayed
