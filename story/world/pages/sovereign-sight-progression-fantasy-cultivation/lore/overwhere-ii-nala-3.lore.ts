@@ -196,5 +196,9 @@ export const overwhereIiNala3 = {
       fact: "Each organ refined whole eases Nala's Tribulation further, as each part before it did.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Nala took Lady Varrow's lesser bond; Sir Edric witnessed it, naming her free blade of Varrow Keep.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+    },
   ],
 } as const satisfies Lore

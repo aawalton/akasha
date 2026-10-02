@@ -203,6 +203,10 @@ export const overwhereIiLadyImreVarrow = {
       fact: "For the lesser bond, Lady Varrow offers Nala guidance, her own and her house's.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
+    {
+      fact: "Frost glitters on Lady Varrow's knuckles; her hand's cold bites at a clasp, then fades.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
