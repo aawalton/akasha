@@ -11,4 +11,5 @@ export const overwhereI00091 = {
   action:
     "“Sure, got makes sense to preserve this head and the ears. I’ll take the salt for that.”",
   lore: ["lore/overwhere-i-osric-fenn"],
+  endsAt: "2026-10-04T00:55:00.000Z",
 } as const satisfies StoryTurnPlayed
