@@ -117,5 +117,9 @@ export const overwhereIiiCorruption2 = {
         "character-other/overwhere-iii-marda-hesk",
       ],
     },
+    {
+      fact: "A corrupted wolf killed the deer by the Wren Brook two nights ago; its blight is fresh.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
