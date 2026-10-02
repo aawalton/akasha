@@ -177,7 +177,7 @@ export const overwhereIiReeveCorwinDray2 = {
     },
     {
       fact: "Dray means to spend the night at Ashlin Farm and march his prisoners up the valley at dawn.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
   ],
 } as const satisfies Lore
