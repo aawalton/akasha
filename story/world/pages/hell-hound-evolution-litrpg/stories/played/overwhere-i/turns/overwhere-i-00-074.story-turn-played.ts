@@ -4,10 +4,21 @@ export const overwhereI00074 = {
   id: "01a0fd7b-8d41-7939-b418-8caab09bd0d2",
   type: "page-type/story-turn-played",
   slug: "overwhere-i-00-074",
+  ownLength: 207,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-i"],
   position: 74,
-  stepStatus: "step-status/writer",
+  prose: "txt",
+  characters: [
+    "character-player/overwhere-i-nala",
+    "character-other/overwhere-i-harl-voss",
+    "character-other/overwhere-i-quarry-crewman-one",
+    "character-other/overwhere-i-quarry-crewman-two",
+    "character-other/overwhere-i-quarry-crewman-three",
+    "character-other/overwhere-i-quarry-crewman-four",
+    "character-other/overwhere-i-quarry-crewman-five",
+  ],
+  stepStatus: "step-status/reviewers",
   action:
     "“Sure, we’ve paid your toll, so now you can pay mine. Your head should just about cover it.” I stay behind cover and keep firing careful aimed shots with the stone bullets, targeting faces and gaps in their armor.",
   beats: [
@@ -24,6 +35,10 @@ export const overwhereI00074 = {
     "Two more bolts thump into her boulders from the trees, with no line on her.",
     "Then the galleries fall silent; the only man in sight is the one fallen in the gallery mouth.",
   ],
-  lore: ["lore/overwhere-i-the-deserter-crew-2"],
+  lore: [
+    "lore/overwhere-i-nala",
+    "lore/overwhere-i-nala-2",
+    "lore/overwhere-i-the-deserter-crew-2",
+  ],
   endsAt: "2026-10-03T15:09:00.000Z",
 } as const satisfies StoryTurnPlayed
