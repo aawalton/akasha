@@ -254,5 +254,9 @@ export const overwhereITheDeserterCrew22 = {
       fact: "A beam at kneeling Blademan Three is easy.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Laden with the sack, Voss leaves deep prints east; his trail is easy by daylight, hard after dark.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
