@@ -56,5 +56,9 @@ export const overwhereITheDeserterCrew222 = {
       fact: "By night the burned crew Drakewolf is back at the quarry by the gallery dead; it fights for them.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Night does not slow her; a held flame lights the track, and no beast but the foxes troubles her.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
