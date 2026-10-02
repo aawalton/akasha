@@ -139,6 +139,10 @@ export const overwhereITheDeserterCrew = {
       fact: "A slug to a bare head does a man 30 harm; a helm wards 2 against it.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "The five at the roadblock are Levels 10, 12, 13, 14 and 16, with 30, 34, 36, 38 and 42 health.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
