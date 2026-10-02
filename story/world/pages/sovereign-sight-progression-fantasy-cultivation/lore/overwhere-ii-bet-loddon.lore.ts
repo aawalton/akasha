@@ -17,7 +17,7 @@ export const overwhereIiBetLoddon = {
     },
     {
       fact: "Bet is afraid of Crake, and more afraid of what he would do to her brothers if she failed.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Led to the Reeve by the arm, Bet goes white and tries to twist free, but Nala's grip holds.",
