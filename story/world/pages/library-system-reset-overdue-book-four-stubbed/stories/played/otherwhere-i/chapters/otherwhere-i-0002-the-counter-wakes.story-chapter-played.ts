@@ -38,7 +38,7 @@ export const otherwhereI0002TheCounterWakes = {
     },
     {
       position: 55,
-      cover: "image/image-cd0552a68d0fcd28",
+      cover: "image/image-81629dd25d6b58ab",
       coverAfter: "A pause, the kind he takes when his eyes flicker blue, and",
     },
     {
