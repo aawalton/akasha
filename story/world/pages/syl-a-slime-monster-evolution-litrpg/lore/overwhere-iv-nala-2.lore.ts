@@ -334,7 +334,7 @@ export const overwhereIvNala2 = {
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
     },
     {
-      fact: "Eyes shut, a rend has no spot for her eye to fix on, and won't form; nothing is spent.",
+      fact: "At Crake Gill, eyes shut, Nala's rend found no spot to fix on and didn't form; none was spent.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
     },
     {
