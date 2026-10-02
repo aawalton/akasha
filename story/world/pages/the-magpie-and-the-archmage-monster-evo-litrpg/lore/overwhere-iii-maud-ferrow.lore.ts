@@ -111,7 +111,7 @@ export const overwhereIiiMaudFerrow = {
     },
     {
       fact: "[Staff Fighting – At [Basic] level, guard, step aside and strike with a staff.]",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
     {
       fact: "On Nala's third drill Tam swept her feet from under her in the staff bout.",
