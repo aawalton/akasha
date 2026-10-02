@@ -53,7 +53,7 @@ export const otherwhereIii0002TheDeskDemon = {
     },
     {
       position: 23,
-      cover: "image/image-81841078d6df2a01",
+      cover: "image/image-7916b855e764efed",
       coverAfter: "She lifts one hand slightly, and lets it fall.",
     },
     {
