@@ -64,5 +64,9 @@ export const overwhereITheGreyfenAlpha22 = {
       fact: "On day 4 Rowan took Ghost-Eye's head off in about ten minutes and lashed it to his sled.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
+    {
+      fact: "Nothing dangerous showed while they took Ghost-Eye's head on day 4.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+    },
   ],
 } as const satisfies Lore
