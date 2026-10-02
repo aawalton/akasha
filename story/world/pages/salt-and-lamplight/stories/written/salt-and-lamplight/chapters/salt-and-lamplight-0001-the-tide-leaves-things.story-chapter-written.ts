@@ -1,16 +1,16 @@
 import type { StoryChapterWritten } from "akasha/story/world/stories/written/chapters/story-chapter-written.page-type.types.ts"
 
-export const saltAndLamplight0001 = {
+export const saltAndLamplight0001TheTideLeavesThings = {
   id: "01a0fd06-5aa1-745d-9492-8039e860ce0e",
   type: "page-type/story-chapter-written",
-  slug: "salt-and-lamplight-0001",
+  slug: "salt-and-lamplight-0001-the-tide-leaves-things",
   position: 1,
   unit: "unit/words",
-  title: "Chapter 1",
+  title: "The Tide Leaves Things",
   story: "story-written/salt-and-lamplight",
-  ownLength: 0,
+  ownLength: 2825,
   prose: "txt",
-  stepStatus: "step-status/writer",
+  stepStatus: "step-status/reviewers",
   beats: [
     "Nala wakes at dusk on cold wet shingle, barefoot, in a thin soaked linen shift and nothing else.",
     "Her last memory is Alan dozing over a book at his back window one evening.",
@@ -72,5 +72,9 @@ export const saltAndLamplight0001 = {
     "lore/salt-and-lamplight-world",
     "place/salt-and-lamplight-morrow-head",
     "place/salt-and-lamplight-penmorrow",
+  ],
+  characters: [
+    "character-player/salt-and-lamplight-nala",
+    "character-other/salt-and-lamplight-morwenna",
   ],
 } as const satisfies StoryChapterWritten
