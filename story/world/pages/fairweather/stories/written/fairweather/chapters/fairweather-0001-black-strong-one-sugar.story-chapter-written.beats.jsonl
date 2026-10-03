@@ -2,7 +2,7 @@
 {"beat":2,"event":"It is her Naming day; she lies under the sloped ceiling, too nervous and happy to stay in bed."}
 {"beat":3,"event":"She waters her plants on the sill, Mrs Pennywhistle, Sunny, Doris and Captain, wishing each luck."}
 {"beat":4,"event":"She washes at the basin, cold water on her bare small breasts, and laughs at the shock of it."}
-{"beat":5,"event":"She laces the cream halter up the front, buckles her belt, and pins her flower clip twice.","changes":[{"page":"story-item/fairweather-adventurers-outfit","note":"Elsie dresses in her adventurer's outfit","key":"slot","from":null,"to":"item-slot/body"},{"page":"story-item/fairweather-flower-clip","note":"Flower clip pinned in her hair","key":"slot","from":null,"to":"item-slot/head"}]}
+{"beat":5,"event":"She laces the cream halter up the front, buckles her belt, and pins her flower clip twice."}
 {"beat":6,"event":"Downstairs the baker, floury to the elbows, kisses both her cheeks and wishes her luck."}
 {"beat":7,"event":"Elsie tells the baker she hopes for a healer's class, like her mother's on the caravan roads."}
 {"beat":8,"event":"She walks the canals toward the lakeshore through the dawn mist, humming without knowing it.","at":"2026-06-01T05:15:00.000Z","place":"place/fairweather-lanternmere"}
@@ -11,15 +11,15 @@
 {"beat":11,"event":"She chats with the shaking boy ahead of her, learns his sister's name, and promises he'll be fine."}
 {"beat":12,"event":"The priestess calls names; windows open in the air, Baker, Bargeman, Scribe, and the hall claps."}
 {"beat":13,"event":"The priestess calls Elsie Fairweather, and she steps alone into the silver circle in the floor."}
-{"beat":14,"event":"The window opens above her, large enough for the whole hall to read: her name, and Enthraller.","changes":[{"page":"character-class/fairweather-elsie-enthraller","note":"Class revealed: Enthraller","key":"unrevealed","from":true,"to":false}]}
+{"beat":14,"event":"The window opens above her, large enough for the whole hall to read: her name, and Enthraller."}
 {"beat":15,"event":"The hall goes silent; somebody drops a hymn book, and the line behind her steps back as one."}
 {"beat":16,"event":"Elsie reads it twice and tells the priestess, \"Oh! That sounds like a lot of responsibility.\""}
-{"beat":17,"event":"Her own window opens when she wishes it: level 1, Captivate, Tether. No healer's anything.","changes":[{"page":"metric-character-level/fairweather-elsie","note":"Level 1 shown in Elsie's window","key":"unrevealed","from":true,"to":false},{"page":"metric-character-experience/fairweather-elsie","note":"Experience 0 / 100 shown in Elsie's window","key":"unrevealed","from":true,"to":false}]}
+{"beat":17,"event":"Her own window opens when she wishes it: level 1, Captivate, Tether. No healer's anything."}
 {"beat":18,"event":"The priestess, voice shaking, tells her she must go to the guild hall today; it is the law."}
 {"beat":19,"event":"Walking out, Elsie hears the whispers: Vesper Locke, the War of Strings. Her smile wobbles once."}
 {"beat":20,"event":"On the hall steps she hugs her satchel and decides the class will just have to be kind."}
 {"beat":21,"event":"At the guild hall on Brightwater Square, Elsie queues to register like everyone else.","at":"2026-06-01T10:30:00.000Z","place":"place/fairweather-guild-hall"}
-{"beat":22,"event":"She counts two silver lanterns onto the counter for the fee; the clerk writes her class and stops.","changes":[{"page":"metric-character-currency/fairweather-elsie","note":"Elsie's purse shown as she pays the guild fee","key":"unrevealed","from":true,"to":false},{"page":"metric-character-currency/fairweather-elsie","note":"Guild fee, two silver lanterns: 134 → 114 pips","key":"value","from":134,"to":114},{"page":"metric-character-currency/fairweather-elsie","note":"Purse after the guild fee: 114 pips","key":"history","append":{"turn":1,"value":114}}]}
+{"beat":22,"event":"The clerk asks two lanterns for the fee; Elsie pays, and the clerk's pen stops at her class."}
 {"beat":23,"event":"The clerk goes up the stairs at a near run; the hall's chatter dies, and adventurers stare."}
 {"beat":24,"event":"The guildmaster, a grey-haired swordswoman, comes down and asks to see Elsie's window."}
 {"beat":25,"event":"Elsie shows it gladly, and asks whether she has filled the form in wrong."}
@@ -29,13 +29,13 @@
 {"beat":29,"event":"Every skill Elsie uses, Cora will write in her black ledger and report; and she can sever any bond."}
 {"beat":30,"event":"Elsie takes both Cora's hands, thanks her for coming, and asks what she likes in her tea."}
 {"beat":31,"event":"Cora draws her hands back, colour high on her cheekbones, and says that is not relevant."}
-{"beat":32,"event":"The clerk stamps a copper rank tag with Elsie's name; Elsie kisses it and hangs it at her belt.","changes":[{"page":"story-item/fairweather-copper-rank-tag","note":"Copper rank tag hung at her belt","key":"slot","from":null,"to":"item-slot/waist"}]}
+{"beat":32,"event":"The clerk stamps a copper rank tag with Elsie's name; Elsie kisses it and hangs it at her belt."}
 {"beat":33,"event":"Elsie asks how one finds a party; Cora says the guild licenses a dungeon only to three or more."}
 {"beat":34,"event":"At the party board, every slate Elsie walks up to is wiped or turned away before she reaches it."}
 {"beat":35,"event":"One party leader tells her plainly that no party in Lanternmere will take an Enthraller."}
 {"beat":36,"event":"Elsie thanks her anyway, and Cora writes something down."}
 {"beat":37,"event":"In the board's bottom corner, the Leftovers, a copper-haired girl is chalking her own name.","at":"2026-06-01T12:30:00.000Z","arrive":["character-other/fairweather-tamsin"]}
-{"beat":38,"event":"Tamsin Reyes, freckled, axe Margery on her back, chalks Berserker, E-rank, hard enough to snap it."}
+{"beat":38,"event":"Tamsin Reyes, freckled, chalks Berserker, E-rank, and introduces her axe, Margery, before herself."}
 {"beat":39,"event":"Her knuckle wraps are bloody; the Copper Hounds dropped her this morning, after she broke an arm."}
 {"beat":40,"event":"Elsie kneels with her satchel, unwraps Tamsin's split knuckles, cleans them and binds them fresh."}
 {"beat":41,"event":"Tamsin, braced for a lecture, gets a hum instead, and Elsie's soft thumb stroking her wrist."}
@@ -85,10 +85,10 @@
 {"beat":85,"event":"In her rooms over the chandler's she opens her ledger and writes: Skills used: none."}
 {"beat":86,"event":"Below it she writes: asked how I take my tea. She looks at the line a long while, and leaves it."}
 {"beat":87,"event":"In the attic, Elsie tells Mrs Pennywhistle and Captain all about her day.","at":"2026-06-01T23:00:00.000Z","place":"place/fairweather-honeycomb","present":["character-player/fairweather-elsie"]}
-{"beat":88,"event":"She hangs her belt, rank tag and all, on the bedpost, then unlaces the halter and undresses.","changes":[{"page":"story-item/fairweather-copper-rank-tag","note":"Belt and rank tag hung on the bedpost","key":"slot","from":"item-slot/waist","to":null},{"page":"story-item/fairweather-adventurers-outfit","note":"Elsie undresses for bed","key":"slot","from":"item-slot/body","to":null}]}
+{"beat":88,"event":"She hangs her belt, rank tag and all, on the bedpost, then unlaces the halter and undresses."}
 {"beat":89,"event":"In her notebook: Tamsin, axe called Margery. Tilly, goggles. Cora: black, strong, one sugar."}
 {"beat":90,"event":"She writes to her mother: not a healer's class, but she has friends already, so please don't worry."}
 {"beat":91,"event":"She cries a little over the letter, then smiles, and signs it with a flower."}
-{"beat":92,"event":"She wishes her window open; under Bonds, where nothing stood this morning, are Tamsin and Tilly.","changes":[{"page":"world-relationship/fairweather-elsie-and-tamsin","note":"Bond: Tamsin 12 (joined party, knuckles bound, hug, hand held at supper)","make":{"title":"Elsie and Tamsin","world":"world/fairweather","characters":["character-player/fairweather-elsie","character-other/fairweather-tamsin"],"relationshipPoints":12}},{"page":"world-relationship/fairweather-elsie-and-tilly","note":"Bond: Tilly 10 (joined party, soot wiped, promise to tell her father)","make":{"title":"Elsie and Tilly","world":"world/fairweather","characters":["character-player/fairweather-elsie","character-other/fairweather-tilly"],"relationshipPoints":10}}]}
+{"beat":92,"event":"She wishes her window open; under Bonds, where nothing stood this morning, are Tamsin and Tilly."}
 {"beat":93,"event":"She doesn't know what the numbers mean; she touches each name and says goodnight to them."}
 {"beat":94,"event":"Elsie falls asleep with the window open over Thimble Canal, lantern light swaying on the ceiling."}
