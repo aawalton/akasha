@@ -4,13 +4,14 @@ export const hollowmere0019TestFriday = {
   id: "01a0ff28-9721-711d-a89c-00b1d0df0c56",
   type: "page-type/story-chapter-written",
   slug: "hollowmere-0019-test-friday",
+  cover: "image/image-37a3168280975228",
   position: 19,
   unit: "unit/words",
   title: "Test Friday",
   story: "story-written/hollowmere",
   ownLength: 3229,
   prose: "txt",
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   beats: [
     "Friday of week three: test day; you wake at five with your heart going, and go down to the water.",
     'The swimmers are out in a thin rain; Shiv takes one look at your face and says, "Buoy. Now."',
@@ -72,6 +73,7 @@ export const hollowmere0019TestFriday = {
     "lore/hollowmere-academy-2",
     "lore/hollowmere-amara",
     "lore/hollowmere-bea",
+    "lore/hollowmere-bea-2",
     "lore/hollowmere-kit",
     "lore/hollowmere-kit-2",
     "lore/hollowmere-lin",
@@ -97,5 +99,26 @@ export const hollowmere0019TestFriday = {
     "character-other/hollowmere-morwenna",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/mechanics", "story-recorder/inventory", "story-recorder/memory"],
+  recordedBy: [
+    "story-recorder/mechanics",
+    "story-recorder/inventory",
+    "story-recorder/memory",
+    "story-recorder/picture",
+  ],
+  scenes: ["image/image-360516fdf3346cac", "image/image-37a3168280975228"],
+  pictured: [
+    {
+      cover: "image/image-360516fdf3346cac",
+      coverAfter: "You can't lie there. You get up and pull on your swimsuit and your robe",
+      character: "character-player/hollowmere-nala",
+      outfit:
+        "cream fisherman's jumper over a dark blue towelling robe over a navy swimsuit, trainers",
+    },
+    {
+      cover: "image/image-37a3168280975228",
+      coverAfter: "You go in. The cold hits, and for once it's a relief: something simple,",
+      character: "character-player/hollowmere-nala",
+      outfit: "navy one-piece swimsuit",
+    },
+  ],
 } as const satisfies StoryChapterWritten
