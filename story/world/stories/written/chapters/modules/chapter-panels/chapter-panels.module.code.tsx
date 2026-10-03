@@ -3,7 +3,7 @@
 import { asNumber } from "akasha/code/type/narrowing/modules/as-number/as-number.module.code.ts"
 import { stringIn } from "akasha/code/type/narrowing/modules/string-in/string-in.module.code.ts"
 import { stringsIn } from "akasha/code/type/narrowing/modules/strings-in/strings-in.module.code.ts"
-import { asPage } from "akasha/page/core/modules/page-types/page-types.module.code.ts"
+import { asPage, type Page } from "akasha/page/core/modules/page-types/page-types.module.code.ts"
 import { addressIn, namedAs } from "akasha/page/modules/address/page-address.module.code.ts"
 import { toPageDataJSON } from "akasha/page/ui/component/modules/page-data-json/page-data-json.module.code.ts"
 import { useFileBody } from "akasha/page/ui/component/modules/page-reader-content/page-reader-content.module.code.tsx"
@@ -21,7 +21,11 @@ import {
 } from "akasha/story/engine/beat-state/modules/beat-records/beat-records.module.code.ts"
 import {
   BeatReadingProvider,
+  baseOf,
+  overlayOf,
+  presentAt,
   useBeatReading,
+  useBeatsFiles,
 } from "akasha/story/ui/modules/beat-reading/beat-reading.module.code.tsx"
 import type { ClientStoryTurn } from "akasha/story/ui/modules/client-story-session/client-story-session.module.code.ts"
 import type {
@@ -37,6 +41,7 @@ import { aside } from "akasha/story/ui/played-panel/panel-place/pages/aside.pane
 import { panelPlace } from "akasha/story/ui/played-panel/panel-place/panel-place.page-type.ts"
 import { characterPlayer } from "akasha/story/world/characters/character-player/character-player.page-type.ts"
 import { useFirstRead } from "akasha/story/world/stories/played/modules/action-bar/action-bar.module.code.tsx"
+import { NO_OVERLAY } from "akasha/story/world/stories/played/modules/beat-overlay/beat-overlay.module.code.ts"
 import { PlayedLayout } from "akasha/story/world/stories/played/modules/played-layout/played-layout.module.code.tsx"
 import { PlayedPanels } from "akasha/story/world/stories/played/modules/played-panels/played-panels.module.code.tsx"
 import {
@@ -67,7 +72,15 @@ const STORY_KEY = "story"
 
 const POSITION_KEY = "position"
 
+const PLAYER_INTENT = "playerIntent"
+
+const PROSE_ON_BEATS = "proseOnBeats"
+
 const ONE = 1
+
+const CLOSE_CHAPTERS = 4
+
+const NO_HREFS: readonly string[] = []
 
 function textIn(value: unknown): string {
   return stringIn(value) ?? ""
@@ -103,6 +116,27 @@ export function beatClockOf(beats: Beats, beat: number): string | null {
 function beatsHrefOf(pageTypeSlug: string, chapter: ChapterShown): string | null {
   if (!chapter.disclosed || chapter.slug === "") return null
   return `${FILE_AT}/${[pageTypeSlug, chapter.slug, BEATS].map(encodeURIComponent).join("/")}`
+}
+
+function earlierHrefsOf(
+  pageTypeSlug: PageTypeSlug,
+  rows: readonly Page[],
+  before: number
+): readonly string[] {
+  return rows
+    .filter(
+      (row) =>
+        typeof row[POSITION_KEY] === "number" &&
+        row[POSITION_KEY] < before &&
+        textIn(row[SLUG_KEY]) !== ""
+    )
+    .toSorted((one, other) => Number(other[POSITION_KEY]) - Number(one[POSITION_KEY]))
+    .slice(0, CLOSE_CHAPTERS)
+    .toReversed()
+    .map(
+      (row) =>
+        `${FILE_AT}/${[pageTypeSlug, textIn(row[SLUG_KEY]), BEATS].map(encodeURIComponent).join("/")}`
+    )
 }
 
 type ChapterShown = {
@@ -302,6 +336,36 @@ function StoryAside({
   const storyRow = stories.rows[0]
   const held = usePanelsHeld(stringsIn(storyRow?.panels))
   const shown = held ?? NO_PANELS
+  const on = storyRow?.[PROSE_ON_BEATS] === true
+
+  const chapterOptions = useMemo<UsePagesSupabaseOptions>(
+    () => ({
+      pageTypeSlug,
+      where: [{ key: STORY_KEY, eq: storyAddress }],
+      order: [{ by: POSITION_KEY, dir: "asc" }],
+      shape: namedShapeDescriptor(pageTypeSlug, {
+        by: "where",
+        key: STORY_KEY,
+        values: [storyAddress],
+      }),
+    }),
+    [pageTypeSlug, storyAddress]
+  )
+  const chapters = usePages(chapterOptions)
+  const reading = useBeatReading()
+  const hrefs = useMemo(
+    () =>
+      on && reading.reading
+        ? earlierHrefsOf(pageTypeSlug, chapters.rows, chapter.position ?? Number.POSITIVE_INFINITY)
+        : NO_HREFS,
+    [on, reading.reading, pageTypeSlug, chapters.rows, chapter.position]
+  )
+  const before = useBeatsFiles(hrefs)
+  const base = useMemo(() => baseOf(before), [before])
+  const overlay = useMemo(
+    () => overlayOf(reading.beats, reading.beat, base),
+    [reading.beats, reading.beat, base]
+  )
 
   const characterOptions = useMemo<UsePagesSupabaseOptions>(
     () => ({
@@ -320,8 +384,7 @@ function StoryAside({
   const playerSlug = textIn(characters.rows[0]?.slug)
   const player = playerSlug === "" ? "" : namedAs(characterPlayer.slug, playerSlug, null)
   const turn = chapter.disclosed ? (chapter.position ?? ONE) : null
-  const reading = useBeatReading()
-  const filed = usePlayedState(player, turn, reading.overlay)
+  const filed = usePlayedState(player, turn, on ? overlay : NO_OVERLAY)
   const characterName = textIn(characters.rows[0]?.title)
   const state = useMemo(() => {
     if (filed === null || turn === null) return null
@@ -329,10 +392,8 @@ function StoryAside({
   }, [filed, turn, characterName])
 
   const turns = useMemo(() => chapterTurnsOf(chapter), [chapter])
-  const beatsText = useFileBody(reading.reading ? null : beatsHrefOf(pageTypeSlug, chapter))
-  const clock = reading.reading
-    ? beatClockOf(reading.beats, reading.beat)
-    : chapterClockOf(beatsText)
+  const beatsText = useFileBody(on ? null : beatsHrefOf(pageTypeSlug, chapter))
+  const clock = on ? beatClockOf(reading.beats, reading.beat) : chapterClockOf(beatsText)
   const title = textIn(storyRow?.title)
   const envelope = useMemo(
     () => playedEnvelope({ title, turns, chapters: [], state }),
@@ -347,15 +408,16 @@ function StoryAside({
       turnCovers: chapterCoversOf(chapter),
       coversAreScenes: chapter.scenes.length > 0,
       player,
+      present: on ? presentAt(reading.beats, reading.beat) : undefined,
       storyAddress,
-      intent: textIn(storyRow?.playerIntent),
+      intent: textIn(storyRow?.[PLAYER_INTENT]),
       beats: undefined,
       earlier: 0,
       pastTurns: undefined,
       gameExternalId: undefined,
       submitPlayerAction: undefined,
     }),
-    [clock, turns, pageTypeSlug, chapter, player, storyAddress, storyRow?.playerIntent]
+    [clock, turns, pageTypeSlug, chapter, player, storyAddress, on, reading.beats, reading.beat]
   )
   const ready = held !== null && !stories.isLoading && !characters.isLoading
   useEffect(() => {

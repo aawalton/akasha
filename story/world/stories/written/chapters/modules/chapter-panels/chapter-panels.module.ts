@@ -19,6 +19,18 @@ export const chapterPanels = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A chapter's panels open on the values the chapters before it left.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A chapter's panels are handed who is there at the beat on screen.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Only the chapters close before a chapter are read for the values it opens on.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A chapter whose beats set no time hands its panels no clock.",
     },
     {

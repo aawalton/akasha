@@ -9,7 +9,7 @@
 {"propertySlug":"import","fileName":"beat-records.module.code.ts","path":"story/engine/beat-state/modules/beat-records/beat-records.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"beat-records.module.code.ts","path":"story/lore-disclosure/modules/lore-scrubbing/lore-scrubbing.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"beat-records.module.code.ts","path":"story/lore-disclosure/modules/lore-scrubbing/lore-scrubbing.module.test.ts","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"beat-records.module.code.ts","path":"story/ui/modules/beat-reading/beat-reading.module.code.tsx","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"beat-records.module.code.ts","path":"story/ui/modules/beat-reading/beat-reading.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"beat-records.module.code.ts","path":"story/ui/modules/beat-reading/beat-reading.module.test.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"beat-records.module.code.ts","path":"story/world/stories/written/chapters/modules/chapter-panels/chapter-panels.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"beat-records.module.code.ts","path":"story/world/stories/written/chapters/story-chapter-written.page-type.page-component.code.tsx","typed":true,"deferred":false}

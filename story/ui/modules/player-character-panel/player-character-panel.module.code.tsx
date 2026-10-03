@@ -125,6 +125,7 @@ type PlayerPanelProps = {
   readonly sheet: SheetShown | null
   readonly turns?: readonly ClientStoryTurn[] | undefined
   readonly turnsPageTypeSlug?: string | undefined
+  readonly present?: readonly string[] | undefined
 }
 
 export function PlayerCharacterPanel({
@@ -133,6 +134,7 @@ export function PlayerCharacterPanel({
   sheet,
   turns = NO_TURNS,
   turnsPageTypeSlug,
+  present,
 }: PlayerPanelProps) {
   const slug = playerSlugOf(player)
   const options = useMemo<UsePagesSupabaseOptions>(
@@ -159,6 +161,7 @@ export function PlayerCharacterPanel({
     <OtherCharacterCovers
       turns={turns}
       pageTypeSlug={turnsPageTypeSlug}
+      present={present}
       drawn={(others) => (
         <CharactersCard drawn={drawn} slug={slug} sheet={sheet} others={others} turn={turn} />
       )}

@@ -1,7 +1,15 @@
 "use client"
 
 import type { BeatChange } from "akasha/story/engine/beat-state/modules/beat-changes/beat-changes.module.code.ts"
-import type { Beats } from "akasha/story/engine/beat-state/modules/beat-records/beat-records.module.code.ts"
+import {
+  type Beats,
+  beatsIn,
+} from "akasha/story/engine/beat-state/modules/beat-records/beat-records.module.code.ts"
+import {
+  OPENING,
+  type Scene,
+  stepped,
+} from "akasha/story/engine/beat-state/modules/beat-replay/beat-replay.module.code.ts"
 import { ChapterProse } from "akasha/story/ui/modules/chapter-prose/chapter-prose.module.code.tsx"
 import {
   type InlineCover,
@@ -30,6 +38,12 @@ const ONE = 1
 const THRESHOLD = 0.35
 
 const NO_KEYS: readonly string[] = []
+
+const NO_BASE: ReadonlyMap<string, Readonly<Record<string, unknown>>> = new Map()
+
+const OPENING_CAST: Scene = { ...OPENING, place: "" }
+
+const NO_BEATS: readonly Beats[] = []
 
 const PARTED = "/"
 
@@ -93,20 +107,100 @@ function atBeat(page: Page, key: string, current: unknown, beat: number): unknow
   return value
 }
 
-export function overlayOf(beats: Beats, beat: number): BeatOverlay {
-  if (beats.changes.length === 0) return NO_OVERLAY
+export function baseOf(
+  each: readonly Beats[]
+): ReadonlyMap<string, Readonly<Record<string, unknown>>> {
+  const pages = new Map<string, Record<string, unknown>>()
+  for (const beats of each) {
+    for (const change of beats.changes) {
+      if (change.make !== undefined) {
+        pages.set(change.page, { ...change.make })
+        continue
+      }
+      if (change.key === undefined) continue
+      const held = pages.get(change.page) ?? {}
+      pages.set(change.page, held)
+      const now = held[change.key]
+      held[change.key] =
+        change.append === undefined
+          ? change.to
+          : [...(Array.isArray(now) ? now : []), change.append]
+    }
+  }
+  return pages
+}
+
+export function presentAt(beats: Beats, beat: number): readonly string[] {
+  let state = OPENING_CAST
+  for (const scene of beats.scenes) {
+    if (scene.beat > beat) break
+    const next = stepped(state, scene, `beat ${String(scene.beat)}`)
+    if ("refused" in next) break
+    state = next
+  }
+  return state.present
+}
+
+export function useBeatsFiles(hrefs: readonly string[]): readonly Beats[] {
+  const keyed = hrefs.join(" ")
+  const [held, setHeld] = useState<readonly Beats[]>(NO_BEATS)
+  useEffect(() => {
+    const wanted = keyed === "" ? [] : keyed.split(" ")
+    if (wanted.length === 0) {
+      setHeld(NO_BEATS)
+      return
+    }
+    let live = true
+    void (async () => {
+      const found = await Promise.all(
+        wanted.map(async (href): Promise<Beats | null> => {
+          try {
+            const answer = await fetch(href)
+            if (!answer.ok) return null
+            const read = beatsIn(await answer.text())
+            return "refused" in read ? null : read
+          } catch {
+            return null
+          }
+        })
+      )
+      if (live) setHeld(found.flatMap((one) => (one === null ? [] : [one])))
+    })()
+    return () => {
+      live = false
+    }
+  }, [keyed])
+  return held
+}
+
+export function overlayOf(
+  beats: Beats,
+  beat: number,
+  base: ReadonlyMap<string, Readonly<Record<string, unknown>>> = NO_BASE
+): BeatOverlay {
+  if (beats.changes.length === 0 && base.size === 0) return NO_OVERLAY
   const pages = pagesOf(beats)
   return {
-    knows: (page) => pages.has(page),
+    knows: (page) => pages.has(page) || base.has(page),
     shows: (page) => {
       const held = pages.get(page)
       return held === undefined || held.made === null || held.made <= beat
     },
-    keysOf: (page) => pages.get(page)?.keys ?? NO_KEYS,
+    keysOf: (page) => {
+      const mine = pages.get(page)?.keys ?? NO_KEYS
+      const theirs = base.get(page)
+      if (theirs === undefined) return mine
+      const all = [...mine]
+      for (const key of Object.keys(theirs)) if (!all.includes(key)) all.push(key)
+      return all
+    },
     valueOf: (page, key, current) => {
       const held = pages.get(page)
-      if (held === undefined) return current
-      return held.made === null ? atBeat(held, key, current, beat) : madeValue(held, key, beat)
+      if (held?.keys.includes(key) === true) {
+        return held.made === null ? atBeat(held, key, current, beat) : madeValue(held, key, beat)
+      }
+      const theirs = base.get(page)?.[key]
+      return theirs === undefined ? current : theirs
     },
   }
 }
@@ -127,7 +221,6 @@ export type BeatReading = {
   readonly beats: Beats
   readonly ready: boolean
   readonly beat: number
-  readonly overlay: BeatOverlay
   readonly register: (beat: number, at: HTMLElement | null) => void
 }
 
@@ -140,7 +233,6 @@ const Reading = createContext<BeatReading>({
   beats: { beats: [], scenes: [], changes: [], memory: [] },
   ready: true,
   beat: FIRST,
-  overlay: NO_OVERLAY,
   register: registering,
 })
 
@@ -180,10 +272,9 @@ export function BeatReadingProvider({
       window.removeEventListener("resize", read)
     }
   }, [])
-  const overlay = useMemo(() => overlayOf(beats, beat), [beats, beat])
   const value = useMemo<BeatReading>(
-    () => ({ reading: true, beats, ready, beat, overlay, register }),
-    [beats, ready, beat, overlay, register]
+    () => ({ reading: true, beats, ready, beat, register }),
+    [beats, ready, beat, register]
   )
   return <Reading.Provider value={value}>{children}</Reading.Provider>
 }

@@ -49,6 +49,11 @@ export const panelDrawing = {
     {
       decisionKind: "decision-kind/departure",
       statement:
+        "A panel is handed who is there at the beat the reader is on, where the beats are read.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
         "A panel is handed the story's own address and the player's intent as that story holds it.",
     },
     {

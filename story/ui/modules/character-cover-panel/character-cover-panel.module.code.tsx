@@ -126,17 +126,26 @@ type CoversDrawn = (covers: readonly CharacterCover[]) => ReactNode
 type OtherCoversProps = {
   readonly turns: readonly ClientStoryTurn[]
   readonly pageTypeSlug?: string | undefined
+  readonly present?: readonly string[] | undefined
   readonly drawn: CoversDrawn
 }
 
 export function OtherCharacterCovers({
   turns,
   pageTypeSlug = storyTurnPlayed.slug,
+  present,
   drawn,
 }: OtherCoversProps) {
+  if (present !== undefined) return <PresentCharacters present={present} drawn={drawn} />
   const turnId = latestTurnId(turns)
   if (turnId === null) return <>{drawn(NO_COVERS)}</>
   return <TurnCharacters turnId={turnId} pageTypeSlug={pageTypeSlug} drawn={drawn} />
+}
+
+function PresentCharacters({ present, drawn }: { present: readonly string[]; drawn: CoversDrawn }) {
+  const keyed = keyedOf(othersOf(charactersIn(present)))
+  if (keyed === "") return <>{drawn(NO_COVERS)}</>
+  return <TypeRows keyed={keyed} at={0} read={[]} drawn={drawn} />
 }
 
 function TurnCharacters({

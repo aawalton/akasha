@@ -1,8 +1,10 @@
 import { expect, test } from "bun:test"
 import type { Beats } from "akasha/story/engine/beat-state/modules/beat-records/beat-records.module.code.ts"
 import {
+  baseOf,
   coversOn,
   overlayOf,
+  presentAt,
 } from "akasha/story/ui/modules/beat-reading/beat-reading.module.code.tsx"
 import { NO_OVERLAY } from "akasha/story/world/stories/played/modules/beat-overlay/beat-overlay.module.code.ts"
 
@@ -54,6 +56,43 @@ test("covers sit on the beat each shows", () => {
   expect(coversOn(pictured, 2)).toEqual([
     { id: "2/1", number: 2, cover: "image/image-a", after: "Elsie takes" },
   ])
+})
+
+const ADP = "metric-character-stat/wren-adp"
+
+test("who is there follows each beat's arrivals and leavings", () => {
+  const cast: Beats = {
+    beats: ["a", "b", "c"],
+    scenes: [
+      { beat: 1, present: ["character-player/wren", "character-other/theron"] },
+      { beat: 2, arrive: ["character-other/brecca"] },
+      { beat: 3, leave: ["character-other/theron"] },
+    ],
+    changes: [],
+    memory: [],
+  }
+  expect(presentAt(cast, 0)).toEqual([])
+  expect(presentAt(cast, 1)).toEqual(["character-player/wren", "character-other/theron"])
+  expect(presentAt(cast, 2)).toEqual([
+    "character-player/wren",
+    "character-other/theron",
+    "character-other/brecca",
+  ])
+  expect(presentAt(cast, 3)).toEqual(["character-player/wren", "character-other/brecca"])
+})
+
+test("a key the chapter leaves alone is the value the chapters before it left", () => {
+  const before: Beats = {
+    beats: ["a"],
+    scenes: [],
+    changes: [{ beat: 1, page: ADP, key: "value", from: 11, to: 12, note: "up" }],
+    memory: [],
+  }
+  const overlay = overlayOf(BEATS, 0, baseOf([before]))
+  expect(overlay.knows(ADP)).toBe(true)
+  expect(overlay.keysOf(ADP)).toEqual(["value"])
+  expect(overlay.valueOf(ADP, "value", 17)).toBe(12)
+  expect(overlay.valueOf(XP, "value", 9999)).toBe(100)
 })
 
 test("beats changing nothing hand the pages over as they are", () => {
