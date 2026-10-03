@@ -17,7 +17,7 @@ export const overwhereIHobbsMillWeir = {
     },
     {
       fact: "Below the weir lies a deep, slow plunge pool about 50 yards across, dark and eddying.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
     {
       fact: "Hobb's mill wheel is still; miller Tam Hobb, stout and grey, keeps his door barred.",
