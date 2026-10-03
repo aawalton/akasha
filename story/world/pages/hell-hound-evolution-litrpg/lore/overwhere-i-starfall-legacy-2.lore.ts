@@ -268,5 +268,9 @@ export const overwhereIStarfallLegacy2 = {
       fact: "Twin strikes are two workings at 50 mana; meeting on one mark is a band harder, one act, one roll.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Twin strikes that land are two hits; a beast hurt by lightning is stunned about 2 seconds.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
