@@ -198,7 +198,7 @@ export const overwhereIiCallowBeck = {
     },
     {
       fact: "Nothing comes down to Callow Beck on the night of day twenty-seven; the bank holds till dawn.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Sleeping so near the slick, Nala dreams the black stair louder than ever, and wakes salt-damp.",
