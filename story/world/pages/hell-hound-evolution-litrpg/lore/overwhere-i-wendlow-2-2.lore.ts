@@ -110,7 +110,7 @@ export const overwhereIWendlow22 = {
     },
     {
       fact: "The taproom now knows the wyrm's killer is the same woman who ended Voss; some stare at Nala.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
     {
       fact: "Bell and Barrel supper on day 8 is eel stew, black bread and small beer.",
