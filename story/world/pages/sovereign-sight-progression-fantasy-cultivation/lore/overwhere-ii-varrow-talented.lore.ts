@@ -84,6 +84,26 @@ export const overwhereIiVarrowTalented = {
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
+      fact: "Hawise's Quickstep lasts three or four breaths, then she needs a dozen heartbeats before the next.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Before each Quickstep, Hawise drops her weight onto the balls of her feet, a tell few catch.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "At twice her speed, bad footing throws Hawise worse than it would a common fighter.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Hawise has never sparred a water Talent, and does not think of the ground as a weapon.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The Lady's rule leaves free the water in the court: frost, puddles, the well, the trough.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
       fact: "In Nala's first bout, her blunt spear touched Osric clean in the ribs; his maul caught her after.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
