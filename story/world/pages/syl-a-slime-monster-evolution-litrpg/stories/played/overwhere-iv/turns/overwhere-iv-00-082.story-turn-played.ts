@@ -11,4 +11,5 @@ export const overwhereIv00082 = {
   action:
     "“I can take at least two with my skill before they reach us. Who should I target? The hobs?”",
   lore: ["lore/overwhere-iv-brookside-four-2", "lore/overwhere-iv-the-tangle-2"],
+  endsAt: "2026-10-06T23:57:00.000Z",
 } as const satisfies StoryTurnPlayed
