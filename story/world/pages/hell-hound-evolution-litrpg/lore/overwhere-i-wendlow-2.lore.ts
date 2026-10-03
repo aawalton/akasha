@@ -220,5 +220,9 @@ export const overwhereIWendlow2 = {
       fact: "Wil Harrow is a broad, bald smith with a burn-scarred forearm; his forge fronts Anvil Lane.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Wendlow's regard for Nala stands at 2, since she ended Voss's crew, a threat on its road.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
