@@ -256,5 +256,9 @@ export const overwhereIStarfallLegacy2 = {
       fact: "Lightning is one of the Starfall elements; calling it is a Surge use, not a new way.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "A lightning strike is called down onto a mark within a held working's reach, for 25 mana.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
