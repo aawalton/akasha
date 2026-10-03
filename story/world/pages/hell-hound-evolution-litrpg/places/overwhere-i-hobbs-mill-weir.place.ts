@@ -55,5 +55,9 @@ export const overwhereIHobbsMillWeir = {
       fact: "By day the wyrm lies deep in the plunge pool, coiled under the half-sunk barge.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "On a sunny day the wyrm basks on the weir apron from about 11:00 to 14:00, half out of the water.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Place
