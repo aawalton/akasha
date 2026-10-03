@@ -6,10 +6,10 @@ export const rememberJenIsFasting = {
   slug: "remember-jen-is-fasting",
   title: "Remember Jen is fasting",
   toDoCategory: "love",
-  toDoDueDate: "2026-10-04",
+  toDoDueDate: "2026-11-01",
   priority: "p2",
   toDoRecurrence: "FREQ=MONTHLY;BYDAY=1SU",
   toDoSortOrder: 18,
   toDoValue: "value/love",
-  toDoLastCompletedAt: "2026-09-07T01:39:01.121Z",
+  toDoLastCompletedAt: "2026-10-03T14:42:57.655Z",
 } as const satisfies ToDo
