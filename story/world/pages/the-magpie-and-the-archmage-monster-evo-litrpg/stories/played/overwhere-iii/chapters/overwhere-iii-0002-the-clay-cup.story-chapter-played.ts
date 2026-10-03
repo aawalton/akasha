@@ -10,6 +10,7 @@ export const overwhereIii0002TheClayCup = {
   story: "story-played/overwhere-iii",
   ownLength: 3346,
   prose: "txt",
+  beats: "jsonl",
   turnCovers: [
     {
       position: 18,
