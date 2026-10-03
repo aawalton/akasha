@@ -21,7 +21,7 @@ export const overwhereIiWhitecombs2 = {
     },
     {
       fact: "After an hour's practice Nala parts a cupful in about a minute; any faster and the black slips back.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Parting the black is fine work; some three hours of it fray Nala's focus, as flurry pushes do.",
