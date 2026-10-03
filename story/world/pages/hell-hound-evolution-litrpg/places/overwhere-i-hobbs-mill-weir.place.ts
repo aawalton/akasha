@@ -95,5 +95,9 @@ export const overwhereIHobbsMillWeir = {
       fact: "Near 9:00 on day 8 the wyrm lies sunk under the barge, fed at dawn; nothing of it shows on top.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Spotting the sunk wyrm through the lens is hard; success shows a slow swirl by the barge's stern.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Place
