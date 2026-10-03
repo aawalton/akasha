@@ -92,5 +92,9 @@ export const overwhereIWendlow2 = {
       fact: "Grete knows Marta Dell of Sallow Hythe, and will send Ewan's token to her by the next west cart.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Grete breaks the letter's seal, reads it, and goes still: the seal is the guild counting-house's.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
