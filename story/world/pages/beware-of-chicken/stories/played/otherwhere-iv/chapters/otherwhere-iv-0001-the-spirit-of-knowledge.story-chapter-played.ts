@@ -10,6 +10,7 @@ export const otherwhereIv0001TheSpiritOfKnowledge = {
   story: "story-played/otherwhere-iv",
   ownLength: 5037,
   prose: "txt",
+  beats: "jsonl",
   turnCovers: [
     {
       position: 1,
