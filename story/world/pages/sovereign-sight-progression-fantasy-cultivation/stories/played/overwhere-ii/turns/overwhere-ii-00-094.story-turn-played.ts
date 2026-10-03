@@ -10,7 +10,7 @@ export const overwhereIi00094 = {
   position: 94,
   prose: "txt",
   characters: ["character-player/overwhere-ii-nala"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/recorders",
   action:
     "I fight defensively, like I did against Dray, waiting for the right moment to use my Talent in a surprising way to force an opening.",
   beats: [
@@ -36,6 +36,6 @@ export const overwhereIi00094 = {
     "lore/overwhere-ii-varrow-talented",
     "place/overwhere-ii-varrow-keep",
   ],
-  reviewedBy: ["story-reviewer/continuity"],
+  reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
   endsAt: "2026-10-22T07:05:00.000Z",
 } as const satisfies StoryTurnPlayed
