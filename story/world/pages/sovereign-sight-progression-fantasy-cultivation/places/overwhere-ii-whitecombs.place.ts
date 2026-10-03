@@ -213,7 +213,7 @@ export const overwhereIiWhitecombs = {
     },
     {
       fact: "At the pool's middle the water swells and eases slowly, in time with the crag's swells.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Near the doubled pool Nala's well leans toward it as hard as it once did at Hollow Tarn.",
