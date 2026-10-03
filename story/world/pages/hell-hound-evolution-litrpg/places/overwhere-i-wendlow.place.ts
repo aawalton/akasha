@@ -332,5 +332,9 @@ export const overwhereIWendlow = {
       fact: "Grete enters Nala Arthur on the roll and gives her a bronze antler badge that marks a rolled hunter.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "With Voss and Ghost-Eye down, the Board holds two open contracts, and Grete shows Nala both.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Place
