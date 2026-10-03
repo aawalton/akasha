@@ -6,5 +6,6 @@ export const emberdeepWren = {
   slug: "emberdeep-wren",
   title: "Wren",
   story: "story-written/emberdeep",
+  place: "place/emberdeep-corbel-house",
   cover: "image/image-a251c3c48d2d6847",
 } as const satisfies CharacterOther

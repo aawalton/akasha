@@ -6,4 +6,5 @@ export const emberdeepElowen = {
   slug: "emberdeep-elowen",
   title: "Elowen",
   story: "story-written/emberdeep",
+  place: "place/emberdeep-corbel-house",
 } as const satisfies CharacterOther
