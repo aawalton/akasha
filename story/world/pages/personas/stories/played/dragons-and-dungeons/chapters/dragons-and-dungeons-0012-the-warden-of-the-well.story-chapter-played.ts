@@ -10,4 +10,8 @@ export const dragonsAndDungeons0012TheWardenOfTheWell = {
   ownLength: 1240,
   unit: "unit/words",
   prose: "txt",
+  beats: "jsonl",
+  lastTurn: "dragons-and-dungeons-01-012",
+  lastTurnPosition: 12,
+  endsAt: "2026-09-29T21:00:00.000Z",
 } as const satisfies StoryChapterPlayed
