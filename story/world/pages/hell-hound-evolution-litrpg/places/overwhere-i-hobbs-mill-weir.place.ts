@@ -316,7 +316,7 @@ export const overwhereIHobbsMillWeir = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
-      fact: "Tam asks the barrow back by any west-bound barge; he means to grind again by afternoon.",
+      fact: "Tam asks the barrow back by any barge coming down from Wendlow; he means to grind by afternoon.",
       knowers: ["lore-disclosure/game-master"],
     },
     {
