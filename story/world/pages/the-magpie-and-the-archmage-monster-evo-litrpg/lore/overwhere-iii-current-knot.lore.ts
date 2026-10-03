@@ -34,7 +34,7 @@ export const overwhereIiiCurrentKnot = {
     },
     {
       fact: "Knotted currents fight her grip; holding the knot strains her, as a pull past the lending does.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
     {
       fact: "Spent currents come back thin; a second knot in the same spot within the hour is barely a pop.",
