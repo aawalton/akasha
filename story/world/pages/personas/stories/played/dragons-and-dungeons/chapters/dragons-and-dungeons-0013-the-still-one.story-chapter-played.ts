@@ -10,4 +10,8 @@ export const dragonsAndDungeons0013TheStillOne = {
   ownLength: 1062,
   unit: "unit/words",
   prose: "txt",
+  beats: "jsonl",
+  lastTurn: "dragons-and-dungeons-01-013",
+  lastTurnPosition: 13,
+  endsAt: "2026-09-29T21:15:00.000Z",
 } as const satisfies StoryChapterPlayed
