@@ -136,5 +136,9 @@ export const overwhereIiiMardaHesk2 = {
       fact: "Marda offers Nala the free room upstairs at the post, so she sleeps behind a door the watch passes.",
       knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-marda-hesk"],
     },
+    {
+      fact: "Marda means to name Nala in the Thornmere letter as a holy mage the Night Order has marked.",
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-marda-hesk"],
+    },
   ],
 } as const satisfies Lore
