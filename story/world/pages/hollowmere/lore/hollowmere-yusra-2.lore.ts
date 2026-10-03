@@ -17,5 +17,14 @@ export const hollowmereYusra2 = {
         "character-other/hollowmere-bea",
       ],
     },
+    {
+      fact: "Off duty at the Bell, Yusra held up nine fingers to Nala across the room; Nala nodded; Bea saw.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-yusra",
+        "character-other/hollowmere-bea",
+      ],
+    },
   ],
 } as const satisfies Lore

@@ -16,5 +16,26 @@ export const hollowmereLin2 = {
         "character-player/hollowmere-nala",
       ],
     },
+    {
+      fact: "Lin: her ward kept what you want till you're ready to say it. Penhallow gave her shortbread.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-penhallow",
+        "character-other/hollowmere-kit",
+        "character-other/hollowmere-amara",
+        "character-other/hollowmere-priya",
+        "character-other/hollowmere-shiv",
+        "character-other/hollowmere-lin",
+      ],
+    },
+    {
+      fact: "Lin has had no answer from her mother yet, and expects none for a week at least.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-lin",
+      ],
+    },
   ],
 } as const satisfies Lore

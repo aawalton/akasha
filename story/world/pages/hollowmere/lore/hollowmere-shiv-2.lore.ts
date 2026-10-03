@@ -18,5 +18,28 @@ export const hollowmereShiv2 = {
         "character-other/hollowmere-lin",
       ],
     },
+    {
+      fact: "Asked what her ward kept in, Shiv said only: Breath; Penhallow looked at her, and let it be.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-penhallow",
+        "character-other/hollowmere-kit",
+        "character-other/hollowmere-amara",
+        "character-other/hollowmere-priya",
+        "character-other/hollowmere-shiv",
+        "character-other/hollowmere-lin",
+      ],
+    },
+    {
+      fact: "Shiv will be on the bank at Bea's Saturday training, shouting rude things, in Irish.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-shiv",
+        "character-other/hollowmere-bea",
+        "character-other/hollowmere-priya",
+      ],
+    },
   ],
 } as const satisfies Lore

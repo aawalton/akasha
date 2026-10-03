@@ -116,5 +116,34 @@ export const hollowmereBea2 = {
         "character-player/hollowmere-nala",
       ],
     },
+    {
+      fact: "At the Bell Bea drank one half of cider, then lemonade for race training, and the table cheered.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-bea",
+        "character-other/hollowmere-lin",
+        "character-other/hollowmere-kit",
+        "character-other/hollowmere-priya",
+        "character-other/hollowmere-amara",
+        "character-other/hollowmere-shiv",
+      ],
+    },
+    {
+      fact: "Bea hides her blistered hands without thinking; Nala brought them out and kissed both palms.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-bea",
+      ],
+    },
+    {
+      fact: "The night before training Bea made love with Nala in 15, and called her: Good luck charm.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-bea",
+      ],
+    },
   ],
 } as const satisfies Lore

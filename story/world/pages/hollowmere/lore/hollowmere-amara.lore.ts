@@ -283,5 +283,18 @@ export const hollowmereAmara = {
         "character-other/hollowmere-priya",
       ],
     },
+    {
+      fact: "Asked what her ward kept in, Amara said: the flame's own shape, and added nothing.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-penhallow",
+        "character-other/hollowmere-kit",
+        "character-other/hollowmere-amara",
+        "character-other/hollowmere-priya",
+        "character-other/hollowmere-shiv",
+        "character-other/hollowmere-lin",
+      ],
+    },
   ],
 } as const satisfies Lore

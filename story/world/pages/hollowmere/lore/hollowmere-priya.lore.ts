@@ -226,5 +226,27 @@ export const hollowmerePriya = {
         "character-other/hollowmere-lin",
       ],
     },
+    {
+      fact: "Asked what her ward kept in, Priya said: the heat, obviously, and was held to one sentence.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-penhallow",
+        "character-other/hollowmere-kit",
+        "character-other/hollowmere-amara",
+        "character-other/hollowmere-priya",
+        "character-other/hollowmere-shiv",
+        "character-other/hollowmere-lin",
+      ],
+    },
+    {
+      fact: "At the Bell Priya and Amara sat pressed close, arguing happily about clockwork and law.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-priya",
+        "character-other/hollowmere-amara",
+      ],
+    },
   ],
 } as const satisfies Lore

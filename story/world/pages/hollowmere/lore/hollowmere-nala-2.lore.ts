@@ -335,5 +335,39 @@ export const hollowmereNala2 = {
         "character-other/hollowmere-lin",
       ],
     },
+    {
+      fact: "Nala's ward essay opens: A ward keeps in what is mending; Penhallow read it: Mending. We'll see.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-penhallow",
+      ],
+    },
+    {
+      fact: "Asked what her ward kept in, Nala said: what's mending; Penhallow said: Tuesday. Green ink.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-penhallow",
+        "character-other/hollowmere-kit",
+        "character-other/hollowmere-amara",
+        "character-other/hollowmere-priya",
+        "character-other/hollowmere-shiv",
+        "character-other/hollowmere-lin",
+      ],
+    },
+    {
+      fact: "Nala admitted she knows little of foci; Penhallow beamed: Good. Ask someone who makes them.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-penhallow",
+        "character-other/hollowmere-kit",
+        "character-other/hollowmere-amara",
+        "character-other/hollowmere-priya",
+        "character-other/hollowmere-shiv",
+        "character-other/hollowmere-lin",
+      ],
+    },
   ],
 } as const satisfies Lore

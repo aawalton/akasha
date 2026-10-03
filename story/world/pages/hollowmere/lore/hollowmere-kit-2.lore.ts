@@ -325,5 +325,50 @@ export const hollowmereKit2 = {
         "character-player/hollowmere-nala",
       ],
     },
+    {
+      fact: "Asked what her ward kept in, Kit said: A house; Penhallow nodded slowly, twice.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-penhallow",
+        "character-other/hollowmere-kit",
+        "character-other/hollowmere-amara",
+        "character-other/hollowmere-priya",
+        "character-other/hollowmere-shiv",
+        "character-other/hollowmere-lin",
+      ],
+    },
+    {
+      fact: "At the forge Kit is at home, easy and unguarded; she showed Nala her nibs, rings and a half blade.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-kit",
+      ],
+    },
+    {
+      fact: "Kit put the first ring she made in Nala's hand: It knows me. Nala felt something; Kit grinned.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-kit",
+      ],
+    },
+    {
+      fact: "Caught being watched at her anvil, Kit went red and kept working, then kissed Nala, quick and sooty.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-kit",
+      ],
+    },
+    {
+      fact: "Kit left a smudge of soot on Nala's chin, and neither of them wiped it off.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-kit",
+      ],
+    },
   ],
 } as const satisfies Lore
