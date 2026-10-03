@@ -344,5 +344,9 @@ export const overwhereIStarfallLegacy2 = {
       fact: "An earth-and-water weave worked into a wool tear felts its fibres shut in a stiff, ridged seam.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Felting wool costs 10 mana a minute; a hand-span tear takes about five minutes, with no roll.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
