@@ -228,5 +228,9 @@ export const overwhereIWendlow2 = {
       fact: "Glass Street to Anvil Lane is a five-minute walk; Anvil Lane down to the river stairs, ten.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Voss's well-kept arming sword is worth 200 copper; Wil is neither eager nor cool for it.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
