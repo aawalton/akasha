@@ -4,7 +4,7 @@ export const overwhereI00100 = {
   id: "01a0ff2a-d3fe-782d-b2c1-4ef28428194e",
   type: "page-type/story-turn-played",
   slug: "overwhere-i-00-100",
-  ownLength: 318,
+  ownLength: 319,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-i"],
   position: 100,
@@ -14,7 +14,7 @@ export const overwhereI00100 = {
     "character-other/overwhere-i-harl-voss",
     "character-other/overwhere-i-ghost-eye",
   ],
-  stepStatus: "step-status/writer",
+  stepStatus: "step-status/recorders",
   action: "“I’m Nala, Nala Arthur”",
   beats: [
     '"I\'m Nala. Nala Arthur," she says.',
