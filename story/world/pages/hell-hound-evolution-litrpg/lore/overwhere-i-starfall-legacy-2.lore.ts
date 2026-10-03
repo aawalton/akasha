@@ -284,5 +284,9 @@ export const overwhereIStarfallLegacy2 = {
       fact: "A lightning strike is a Surge blast for harm; no scale, hide or metal wards it.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Nala first called lightning on day 8: twin strikes from above onto the Weir Wyrm's skull.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+    },
   ],
 } as const satisfies Lore
