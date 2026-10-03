@@ -129,5 +129,9 @@ export const overwhereIiiCorruption2 = {
       fact: "Two pulls draw the deer's blight; it leaves a seed stone, and the frost round it clears.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "A Current Lash on a carcass only cuts dead flesh; a pull is what draws its blight.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
