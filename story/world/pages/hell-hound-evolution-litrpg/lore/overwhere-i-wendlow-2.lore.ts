@@ -134,7 +134,7 @@ export const overwhereIWendlow2 = {
     },
     {
       fact: "Ilse warns that a pearl set in a focus can never again be drawn on or sold to an alchemist.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
   ],
 } as const satisfies Lore
