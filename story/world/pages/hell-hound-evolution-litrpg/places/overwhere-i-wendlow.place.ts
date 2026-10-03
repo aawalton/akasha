@@ -288,5 +288,9 @@ export const overwhereIWendlow = {
       fact: "A rolled hunter answers to the Board for her kills, and must bring word of any monster she sees.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Grete offers the roll and waits for Nala's yes; she writes no one on it unasked.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Place
