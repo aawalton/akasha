@@ -56,7 +56,12 @@ export const fairweather0001BlackStrongOneSugar = {
     "story-reviewer/continuity",
     "story-reviewer/style",
   ],
-  recordedBy: ["story-recorder/inventory", "story-recorder/mechanics", "story-recorder/plan"],
+  recordedBy: [
+    "story-recorder/inventory",
+    "story-recorder/mechanics",
+    "story-recorder/plan",
+    "story-recorder/picture",
+  ],
   scenes: [
     "image/image-be916eb145fde6e6",
     "image/image-76cf4eaedeb67989",
@@ -112,7 +117,7 @@ export const fairweather0001BlackStrongOneSugar = {
     },
     {
       cover: "image/image-326c26c00ac2a178",
-      coverAfter: "The Wardens' door was on the far side of the hall",
+      coverAfter: "The charcoal door opened, and a young woman came out of it",
       character: "character-other/fairweather-cora",
       outfit: "charcoal coat buttoned to the throat, dark trousers, black boots",
     },

@@ -1,13 +1,13 @@
-{"beat":1,"event":"Before dawn the Honeycomb's ovens wake Elsie in her attic; the room smells of bread.","at":"2026-06-01T04:00:00.000Z","place":"place/fairweather-honeycomb","present":["character-player/fairweather-elsie"]}
+{"beat":1,"event":"Before dawn the Honeycomb's ovens wake Elsie in her attic; the room smells of bread.","at":"2026-06-01T04:00:00.000Z","place":"place/fairweather-honeycomb","present":["character-player/fairweather-elsie"],"pictured":[{"cover":"image/image-be916eb145fde6e6","coverAfter":"Elsie lay still in the dark and listened to them","setting":"the Honeycomb's attic"}]}
 {"beat":2,"event":"It is her Naming day; she lies under the sloped ceiling, too nervous and happy to stay in bed."}
 {"beat":3,"event":"She waters her plants on the sill, Mrs Pennywhistle, Sunny, Doris and Captain, wishing each luck."}
-{"beat":4,"event":"She washes at the basin, cold water on her bare small breasts, and laughs at the shock of it."}
-{"beat":5,"event":"She laces the cream halter up the front, buckles her belt, and pins her flower clip twice.","changes":[{"page":"story-item/fairweather-adventurers-outfit","note":"Elsie dresses: halter laced, skirt, belt buckled, gloves, boots on","key":"slot","from":null,"to":"item-slot/body"},{"page":"story-item/fairweather-flower-clip","note":"Flower clip pinned in her hair","key":"slot","from":null,"to":"item-slot/head"}]}
-{"beat":6,"event":"Downstairs the baker, floury to the elbows, kisses both her cheeks and wishes her luck."}
+{"beat":4,"event":"She washes at the basin, cold water on her bare small breasts, and laughs at the shock of it.","pictured":[{"cover":"image/image-76cf4eaedeb67989","coverAfter":"She pulled her nightshirt off over her head","character":"character-player/fairweather-elsie","outfit":"naked"}]}
+{"beat":5,"event":"She laces the cream halter up the front, buckles her belt, and pins her flower clip twice.","changes":[{"page":"story-item/fairweather-adventurers-outfit","note":"Elsie dresses: halter laced, skirt, belt buckled, gloves, boots on","key":"slot","from":null,"to":"item-slot/body"},{"page":"story-item/fairweather-flower-clip","note":"Flower clip pinned in her hair","key":"slot","from":null,"to":"item-slot/head"}],"pictured":[{"cover":"image/image-0604ce45d1ca4e98","coverAfter":"Then the outfit. She had laid it out on the chair","character":"character-player/fairweather-elsie","outfit":"cream laced halter, sage-green skirt, belt with pouches, fingerless gloves, boots"}]}
+{"beat":6,"event":"Downstairs the baker, floury to the elbows, kisses both her cheeks and wishes her luck.","pictured":[{"cover":"image/image-dcc9d2523c92dc27","coverAfter":"Downstairs the bakery was all heat and gold light","setting":"the Honeycomb's bakery"}]}
 {"beat":7,"event":"Elsie tells the baker she hopes for a healer's class, like her mother's on the caravan roads."}
-{"beat":8,"event":"She walks the canals toward the lakeshore through the dawn mist, humming without knowing it.","at":"2026-06-01T05:15:00.000Z","place":"place/fairweather-lanternmere"}
+{"beat":8,"event":"She walks the canals toward the lakeshore through the dawn mist, humming without knowing it.","at":"2026-06-01T05:15:00.000Z","place":"place/fairweather-lanternmere","pictured":[{"cover":"image/image-502c7880679df07e","coverAfter":"She ate it walking. Thimble Canal lay grey and still","setting":"Thimble Canal"}]}
 {"beat":9,"event":"Flower sellers set out buckets, lamplighters' boats douse the lanterns, and the Mere is silver."}
-{"beat":10,"event":"Hours early, she wanders the waking city, then joins the line at the white Hall of Naming.","at":"2026-06-01T08:30:00.000Z","place":"place/fairweather-hall-of-naming"}
+{"beat":10,"event":"Hours early, she wanders the waking city, then joins the line at the white Hall of Naming.","at":"2026-06-01T08:30:00.000Z","place":"place/fairweather-hall-of-naming","pictured":[{"cover":"image/image-9d76329cc208d276","coverAfter":"She was hours early. She had known she would be.","setting":"the Hall of Naming"}]}
 {"beat":11,"event":"She chats with the shaking boy ahead of her, learns his sister's name, and promises he'll be fine."}
 {"beat":12,"event":"The priestess calls names; windows open in the air, Baker, Bargeman, Scribe, and the hall claps."}
 {"beat":13,"event":"The priestess calls Elsie Fairweather, and she steps alone into the silver circle in the floor."}
@@ -18,13 +18,13 @@
 {"beat":18,"event":"The priestess, voice shaking, tells her she must go to the guild hall today; it is the law."}
 {"beat":19,"event":"Walking out, Elsie hears the whispers: Vesper Locke, the War of Strings. Her smile wobbles once."}
 {"beat":20,"event":"On the hall steps she hugs her satchel and decides the class will just have to be kind."}
-{"beat":21,"event":"At the guild hall on Brightwater Square, Elsie queues to register like everyone else.","at":"2026-06-01T10:30:00.000Z","place":"place/fairweather-guild-hall"}
+{"beat":21,"event":"At the guild hall on Brightwater Square, Elsie queues to register like everyone else.","at":"2026-06-01T10:30:00.000Z","place":"place/fairweather-guild-hall","pictured":[{"cover":"image/image-7004bea32bba0ca3","coverAfter":"The guild hall was easy to find.","setting":"the guild hall"}]}
 {"beat":22,"event":"The clerk asks two lanterns for the fee; Elsie pays, and the clerk's pen stops at her class.","changes":[{"page":"metric-character-currency/fairweather-elsie","note":"Elsie's purse shown as she pays the guild fee","key":"unrevealed","from":true,"to":false},{"page":"metric-character-currency/fairweather-elsie","note":"Guild registration fee, two lanterns: 134 → 114 pips","key":"value","from":134,"to":114},{"page":"metric-character-currency/fairweather-elsie","note":"Chapter 1 ends with 114 pips","key":"history","append":{"turn":1,"value":114}}]}
 {"beat":23,"event":"The clerk goes up the stairs at a near run; the hall's chatter dies, and adventurers stare."}
 {"beat":24,"event":"The guildmaster, a grey-haired swordswoman, comes down and asks to see Elsie's window."}
 {"beat":25,"event":"Elsie shows it gladly, and asks whether she has filled the form in wrong."}
 {"beat":26,"event":"The guildmaster registers her an F-rank Enthraller under the Strings Accord, and sends for a Warden."}
-{"beat":27,"event":"From behind the charcoal door the guildmaster calls Cora: Corisande Vane, tall, grey-eyed, stern.","arrive":["character-other/fairweather-cora"]}
+{"beat":27,"event":"From behind the charcoal door the guildmaster calls Cora: Corisande Vane, tall, grey-eyed, stern.","arrive":["character-other/fairweather-cora"],"pictured":[{"cover":"image/image-326c26c00ac2a178","coverAfter":"The charcoal door opened, and a young woman came out of it","character":"character-other/fairweather-cora","outfit":"charcoal coat buttoned to the throat, dark trousers, black boots"}]}
 {"beat":28,"event":"Cora sets out the Accord in a flat voice: no skill on anyone unwilling, unless it saves a life."}
 {"beat":29,"event":"Every skill Elsie uses, Cora will write in her black ledger and report; and she can sever any bond."}
 {"beat":30,"event":"Elsie takes both Cora's hands, thanks her for coming, and asks what she likes in her tea."}
@@ -35,7 +35,7 @@
 {"beat":35,"event":"One party leader tells her plainly that no party in Lanternmere will take an Enthraller."}
 {"beat":36,"event":"Elsie thanks her anyway, and Cora writes something down."}
 {"beat":37,"event":"In the board's bottom corner, the Leftovers, a copper-haired girl is chalking her own name.","at":"2026-06-01T12:30:00.000Z","arrive":["character-other/fairweather-tamsin"]}
-{"beat":38,"event":"Tamsin Reyes, freckled, chalks Berserker, E-rank, and introduces her axe, Margery, before herself."}
+{"beat":38,"event":"Tamsin Reyes, freckled, chalks Berserker, E-rank, and introduces her axe, Margery, before herself.","pictured":[{"cover":"image/image-587262603f732e05","coverAfter":"She was all copper. That was the first thing","character":"character-other/fairweather-tamsin","outfit":"sleeveless leather jerkin, knuckle wraps, dark trousers, boots, axe"}]}
 {"beat":39,"event":"Her knuckle wraps are bloody; the Copper Hounds dropped her this morning, after she broke an arm."}
 {"beat":40,"event":"Elsie kneels with her satchel, unwraps Tamsin's split knuckles, cleans them and binds them fresh."}
 {"beat":41,"event":"Tamsin, braced for a lecture, gets a hum instead, and Elsie's soft thumb stroking her wrist."}
@@ -46,7 +46,7 @@
 {"beat":46,"event":"Elsie asks Tamsin into her party; Tamsin laughs, then sees she means it, and says yes."}
 {"beat":47,"event":"Elsie hugs her hard, face in Tamsin's neck; Tamsin's arms hang a moment, then close around her."}
 {"beat":48,"event":"A pop and a puff of green smoke come from the far end of the corner, and a wail."}
-{"beat":49,"event":"A small blonde girl flaps at a fizzing vial, braids singed, goggles askew: Tilly Brandt.","arrive":["character-other/fairweather-tilly"]}
+{"beat":49,"event":"A small blonde girl flaps at a fizzing vial, braids singed, goggles askew: Tilly Brandt.","arrive":["character-other/fairweather-tilly"],"pictured":[{"cover":"image/image-209b8673727c1a30","coverAfter":"In the middle of the green smoke a small blonde girl","character":"character-other/fairweather-tilly","outfit":"cream blouse, scorched apron, belt of vials, brass goggles"}]}
 {"beat":50,"event":"Tilly apologises before anyone speaks: the College threw her out, her brews explode, she's sorry."}
 {"beat":51,"event":"Her slip on the board reads: Alchemist, F-rank, will clean up after myself, sorry in advance."}
 {"beat":52,"event":"Elsie wipes the soot from Tilly's cheek with her thumb, and Tilly stops talking mid-word."}
@@ -61,7 +61,7 @@
 {"beat":61,"event":"Tamsin takes down the moonbell notice; they will set out at dawn tomorrow."}
 {"beat":62,"event":"Elsie chalks three names and a flower on a slate; Tilly adds a crooked heart, then rubs it out."}
 {"beat":63,"event":"Cora writes in her ledger; Elsie asks what she wrote, and Cora closes it."}
-{"beat":64,"event":"In the evening the party crosses the canal to the Tipsy Heron, loud and cheap, Cora following.","at":"2026-06-01T18:30:00.000Z","place":"place/fairweather-lanternmere"}
+{"beat":64,"event":"In the evening the party crosses the canal to the Tipsy Heron, loud and cheap, Cora following.","at":"2026-06-01T18:30:00.000Z","place":"place/fairweather-lanternmere","pictured":[{"cover":"image/image-097619304503fefe","coverAfter":"In the evening the three of them crossed the canal","setting":"the Tipsy Heron"}]}
 {"beat":65,"event":"They each eat a tavern supper at four pips; Tamsin will not let Elsie pay for hers."}
 {"beat":66,"event":"Cora sits alone at the next table with a pot of black tea, and does not drink it."}
 {"beat":67,"event":"Tamsin tells the Copper Hounds story, loud and funny, until it stops being funny."}
@@ -80,9 +80,9 @@
 {"beat":80,"event":"At the Honeycomb's door Elsie asks again how Cora takes her tea.","at":"2026-06-01T22:15:00.000Z","place":"place/fairweather-honeycomb"}
 {"beat":81,"event":"After a long moment Cora says: black, strong, one sugar. Nobody has ever asked her."}
 {"beat":82,"event":"Elsie hugs her goodnight; Cora stands stiff in her arms, and her hand lifts, and falls."}
-{"beat":83,"event":"Cora walks home toward Wick Lane by way of Lantern Square.","leave":["character-other/fairweather-cora"]}
+{"beat":83,"event":"Cora walks home toward Wick Lane by way of Lantern Square.","leave":["character-other/fairweather-cora"],"pictured":[{"cover":"image/image-60b148f819e83bc2","coverAfter":"Cora walked home toward Wick Lane by way of Lantern Square.","setting":"Lantern Square"}]}
 {"beat":84,"event":"At the Memorial of Strings, Cora touches the bronze threads for her grandmother's family.","at":"2026-06-01T22:45:00.000Z","place":"place/fairweather-lanternmere","present":["character-other/fairweather-cora"]}
-{"beat":85,"event":"In her rooms over the chandler's she opens her ledger and writes: Skills used: none."}
+{"beat":85,"event":"In her rooms over the chandler's she opens her ledger and writes: Skills used: none.","pictured":[{"cover":"image/image-ab58bde034605e44","coverAfter":"Her rooms were two, over a chandler's on Wick Lane","setting":"Cora's rooms on Wick Lane"}]}
 {"beat":86,"event":"Below it she writes: asked how I take my tea. She looks at the line a long while, and leaves it."}
 {"beat":87,"event":"In the attic, Elsie tells Mrs Pennywhistle and Captain all about her day.","at":"2026-06-01T23:00:00.000Z","place":"place/fairweather-honeycomb","present":["character-player/fairweather-elsie"]}
 {"beat":88,"event":"She hangs her belt, rank tag and all, on the bedpost, then unlaces the halter and undresses.","changes":[{"page":"story-item/fairweather-copper-rank-tag","note":"Belt and rank tag hung on the bedpost","key":"slot","from":"item-slot/waist","to":null},{"page":"story-item/fairweather-adventurers-outfit","note":"Elsie unlaces the halter and undresses","key":"slot","from":"item-slot/body","to":null}]}
