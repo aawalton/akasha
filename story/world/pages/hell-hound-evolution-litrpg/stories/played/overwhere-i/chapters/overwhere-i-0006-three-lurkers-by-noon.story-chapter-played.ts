@@ -10,6 +10,7 @@ export const overwhereI0006ThreeLurkersByNoon = {
   story: "story-played/overwhere-i",
   ownLength: 2660,
   prose: "txt",
+  beats: "jsonl",
   turnCovers: [
     {
       position: 26,
