@@ -264,5 +264,9 @@ export const overwhereIWendlow = {
       fact: "Grete says only that her Analyze shows no name; she does not say ??? or what she makes of it.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Grete believed Nala's account of doing it alone.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+    },
   ],
 } as const satisfies Place
