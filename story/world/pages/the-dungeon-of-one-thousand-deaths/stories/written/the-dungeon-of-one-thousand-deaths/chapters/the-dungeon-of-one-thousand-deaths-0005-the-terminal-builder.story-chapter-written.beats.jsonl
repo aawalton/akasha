@@ -1,0 +1,73 @@
+{"beat":1,"event":"Sylas Renn stands at the threshold eleven minutes, counting, studying how the stone was cut.","place":"place/the-dungeon-of-one-thousand-deaths-the-opening","present":["character-other/the-dungeon-of-one-thousand-deaths-sylas-renn"]}
+{"beat":2,"event":"The walls show sustained pressure, not tool marks; he notes compression failure, not excavation."}
+{"beat":3,"event":"The Maw sets his Designation on him while he is still outside, like a hard hat settling."}
+{"beat":4,"event":"He is The Foundation, with the Gift Bedrock: he reinforces what he touches, from his own skeleton."}
+{"beat":5,"event":"Its Cost is Donation: calcium and collagen drawn from his load-bearing bones, never reversing."}
+{"beat":6,"event":"The Ledger reads Vitality 9, Resolve 31, Attunement 14, Fortune 18."}
+{"beat":7,"event":"An engineer of twenty-two years, he notes: calculate the remaining load before each use."}
+{"beat":8,"event":"He enters the Gullet.","place":"place/the-dungeon-of-one-thousand-deaths-the-gullet"}
+{"beat":9,"event":"A large man in improvised armour lies dead at the base of a subsidence crack in the floor."}
+{"beat":10,"event":"Sylas reads the crack: a void behind the wall collapsed and undermined the floor."}
+{"beat":11,"event":"The worn inscription above reads: Balric Denn, first to fall where stone gives way."}
+{"beat":12,"event":"He notes the deaths are recorded in the order they happened, and approves."}
+{"beat":13,"event":"Sixty meters on, a narrow limestone bridge spans a black gap; he tests it with his boot."}
+{"beat":14,"event":"Its inscription reads: Perrin Voss, first to cross the gap in darkness."}
+{"beat":15,"event":"On the far side he picks up a lantern someone left burning for the next entrant."}
+{"beat":16,"event":"Two hundred meters in, six military packs stand stacked with precision against the wall."}
+{"beat":17,"event":"A shield shows a crack mended badly with the wrong resin, and cracked again."}
+{"beat":18,"event":"He reads Bren Aldic's inscription: first to hold the line in the Gullet."}
+{"beat":19,"event":"Below it, scratched in a shaking hand: Dara Hess, first to navigate the Warrens blind."}
+{"beat":20,"event":"Where a fifth inscription should be, the wall is blank, and the absence feels intentional."}
+{"beat":21,"event":"At three hundred meters he reaches the gap: four meters across, the far floor a meter lower.","place":"place/the-dungeon-of-one-thousand-deaths-the-gap","present":["character-other/the-dungeon-of-one-thousand-deaths-sylas-renn"]}
+{"beat":22,"event":"He stands four minutes working out the shear at the anchors in basalt and limestone."}
+{"beat":23,"event":"He has no cables; he has his hands, and a Gift that presses permanence into stone."}
+{"beat":24,"event":"On the last page he sketches a three-voussoir arch: six uses of the Gift."}
+{"beat":25,"event":"He writes there is no retreat from structural failure, strikes it, and writes: Calculate load."}
+{"beat":26,"event":"He goes back to the rubble pile and begins selecting stones."}
+{"beat":27,"event":"For three hours he shapes voussoirs with a folding chisel, measuring by hand-span."}
+{"beat":28,"event":"He props the arch on military spikes and rope and uses the Gift on the first abutment."}
+{"beat":29,"event":"The stone resolves under his hands, and his left femur makes a sound like a settling house."}
+{"beat":30,"event":"He reinforces the right abutment, and the sound comes from deeper."}
+{"beat":31,"event":"He climbs into the arch, seats the keystone and presses it with both hands; the arch settles true."}
+{"beat":32,"event":"He presses the Gift into a small fracture in the near abutment: four uses."}
+{"beat":33,"event":"He tests it with half his weight, then all of it, then three jumps; the arch holds."}
+{"beat":34,"event":"He crosses. The Ledger: Attunement +4, four permanent structures, Donation debt moderate.","changes":[{"page":"metric-character-stat/the-dungeon-of-one-thousand-deaths-sylas-renn-attunement","key":"value","from":14,"to":18,"note":"Four Bedrock activations on the arch, Attunement +4"}]}
+{"beat":35,"event":"The arch is not beautiful; it is level and will not move, which is what he aimed for."}
+{"beat":36,"event":"He sets the lantern by the near abutment, burning for whoever comes next."}
+{"beat":37,"event":"The Warrens open ten ways at once, none of them labelled.","place":"place/the-dungeon-of-one-thousand-deaths-the-marrow-warrens"}
+{"beat":38,"event":"Just inside, a scribe's journal stands propped against the left wall."}
+{"beat":39,"event":"He reads its structural notes and junction maps, more accurate than he expected."}
+{"beat":40,"event":"It says the Mender lies in the south corridor near Junction 7, and the Warden went further."}
+{"beat":41,"event":"He sets the journal back where he found it."}
+{"beat":42,"event":"He notes the ceilings drop at the junctions, and a heat source lies to the north."}
+{"beat":43,"event":"He goes north. The Ledger: Depth 2, Resolve +1, now 32.","changes":[{"page":"metric-character-stat/the-dungeon-of-one-thousand-deaths-sylas-renn-resolve","key":"value","from":31,"to":32,"note":"Depth transition into the Warrens, Resolve +1"}]}
+{"beat":44,"event":"The Still Garden is cold and luminous, so quiet he can hear his heartbeat.","place":"place/the-dungeon-of-one-thousand-deaths-the-still-garden"}
+{"beat":45,"event":"The Ledger: Depth 3, Resolve +1, now 33.","changes":[{"page":"metric-character-stat/the-dungeon-of-one-thousand-deaths-sylas-renn-resolve","key":"value","from":32,"to":33,"note":"Depth transition into the Still Garden, Resolve +1"}]}
+{"beat":46,"event":"The crystals grow from seed points, spaced near the golden ratio and faceted in sixes."}
+{"beat":47,"event":"By the eastern wall lie a sword, a spear and a combat knife; he takes the knife."}
+{"beat":48,"event":"Eleven crystals measured, he becomes aware something else is in the room.","arrive":["character-other/the-dungeon-of-one-thousand-deaths-the-gorger"]}
+{"beat":49,"event":"He reads it as structural movement: changed air, changed light, two degrees colder."}
+{"beat":50,"event":"He stands still behind his ruler and measures its heat to find its size."}
+{"beat":51,"event":"It is thirty meters long, low and wide, of dense grey-white crystal that compresses light."}
+{"beat":52,"event":"His left leg has ground faintly since the bridge; running is not an option."}
+{"beat":53,"event":"He goes back to measuring, and the creature tracks him without advancing."}
+{"beat":54,"event":"He draws it from forty meters: crystal predator, built for ambush, long at rest. Patient."}
+{"beat":55,"event":"It is like old stone that has borne load for centuries: unhurried, there before and after him."}
+{"beat":56,"event":"He sets down his ruler, looks at it three seconds, thinks of the arch, and closes his journal."}
+{"beat":57,"event":"The creature moves all at once, like a building coming down."}
+{"beat":58,"event":"He is on the cold floor, the unused knife in his belt, his legs in structural failure."}
+{"beat":59,"event":"He puts his hand on the floor and thinks of the keystone under its load."}
+{"beat":60,"event":"He uses the Gift once more, reinforcing only the ground around him.","changes":[{"page":"metric-character-stat/the-dungeon-of-one-thousand-deaths-sylas-renn-attunement","key":"value","from":18,"to":19,"note":"A fifth Bedrock activation, Attunement +1, 19 at death"}]}
+{"beat":61,"event":"His left femur gives way completely; he is already on the ground."}
+{"beat":62,"event":"He thinks: I have built a thing that will outlast me. That is the definition of the work."}
+{"beat":63,"event":"He is not afraid, and he dies.","changes":[{"page":"metric-character-stat/the-dungeon-of-one-thousand-deaths-sylas-renn-vitality","key":"value","from":9,"to":0,"note":"Sylas dies of Donation debt and the creature, Vitality 9 to 0"}]}
+{"beat":64,"event":"The death report: Sylas Renn, the Foundation, Depth 3; Donation debt catastrophic."}
+{"beat":65,"event":"No Memory Crystal is harvested: no peak emotion registered, the entrant completed work."}
+{"beat":66,"event":"Outcome: Foundation complete, a permanent voussoir arch over the Gullet's gap."}
+{"beat":67,"event":"The Ledger records the creature's third kill and searches for a name."}
+{"beat":68,"event":"It waited neither to hide nor to calculate, but because it was not concerned."}
+{"beat":69,"event":"The Ledger names it The Patient: named after its third kill, Still Garden, Depth 3."}
+{"beat":70,"event":"Holder of the Still Garden for 342 years, it settles back among the crystals."}
+{"beat":71,"event":"The arch in the Gullet holds, and will hold a very long time."}
+{"beat":72,"event":"For the first time, the Maw sets an inscription on what an entrant built: the keystone."}
+{"beat":73,"event":"SYLAS RENN, first to build what remains; and beneath it, THE ARCH HOLDS."}
