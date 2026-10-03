@@ -211,5 +211,13 @@ export const overwhereIvBrooksideFour2 = {
         "lore/overwhere-iv-brookside-four",
       ],
     },
+    {
+      fact: "Dace holds that the hobgoblins' bounty is Nala's, her kills, and will say so to Ilsa.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Seeing two hobgoblins felled from forty paces, Merrit goes quiet and does not doubt her aloud again.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore

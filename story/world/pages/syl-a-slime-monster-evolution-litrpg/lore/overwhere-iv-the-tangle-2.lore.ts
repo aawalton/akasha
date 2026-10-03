@@ -292,5 +292,9 @@ export const overwhereIvTheTangle2 = {
       fact: "The fleeing goblins do not stop until Grakk's camp, and none comes back for the maul-bearer.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Lurching blind toward the bleating, the maul-bearer shows plain in the light of its fallen torches.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore

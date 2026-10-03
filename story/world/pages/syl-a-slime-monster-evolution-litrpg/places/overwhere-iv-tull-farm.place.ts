@@ -175,5 +175,13 @@ export const overwhereIvTullFarm = {
       fact: "The ford lies some thirty paces out from the trees, so some hundred and seventy from the fold.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "The flung torches gutter out in the dew-wet meadow; none of them catches the grass.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The spear hobgoblin lies where it fell in the meadow, its horn on a cord and its spear beside it.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Place
