@@ -108,6 +108,30 @@ export const overwhereIiMaudAshby = {
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
+      fact: "Maud lets Nala's dodge lie for tonight, with a look that says she will ask again.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "For the ring Maud would have Hob Tarrant forge cold iron stakes, each a forearm long.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Ringing the Callow pool's throat takes some thirty stakes; Hob can forge about ten a day.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Maud sees the trouble: the throat lies in the black, deeper than a man, and none may wade it.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Maud will write to Deepwatch tonight; Anselm's carrier takes it down on market day.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Maud wants to see the tidepool herself before she rides on to Varrow Keep.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
       fact: "Maud rode up the valley after Anselm's letters, to take Nala's measure for herself.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
