@@ -38,5 +38,6 @@ export const overwhereI00108 = {
     "lore/overwhere-i-wendlow-2",
     "place/overwhere-i-hobbs-mill-weir",
   ],
+  reviewedBy: ["story-reviewer/continuity"],
   endsAt: "2026-10-06T09:06:00.000Z",
 } as const satisfies StoryTurnPlayed
