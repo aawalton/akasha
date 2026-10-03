@@ -23,11 +23,13 @@ export const overwhereIii00091 = {
     "Under the roots, Nala can feel the blight still smoldering in it.",
   ],
   lore: [
+    "lore/overwhere-iii-cleansing-weave",
     "lore/overwhere-iii-corruption-2",
     "lore/overwhere-iii-nala",
     "lore/overwhere-iii-nala-2",
     "lore/overwhere-iii-nala-2-2",
     "place/overwhere-iii-merrowgate-guild-post",
   ],
+  reviewedBy: ["story-reviewer/continuity"],
   endsAt: "2026-10-09T11:45:00.000Z",
 } as const satisfies StoryTurnPlayed
