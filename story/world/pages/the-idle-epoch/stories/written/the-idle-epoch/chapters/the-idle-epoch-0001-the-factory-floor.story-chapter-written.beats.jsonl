@@ -1,0 +1,51 @@
+{"beat":1,"event":"Callum wakes on his cot in the warehouse to the hum of three constructs that ran all night.","at":"2025-12-06T12:00:00.000Z","place":"place/the-idle-epoch-warehouse","present":["character-player/the-idle-epoch-callum"]}
+{"beat":2,"event":"He greets Pip, the gold cursor familiar on his shoulder, which has never once answered."}
+{"beat":3,"event":"The overnight report: 8 hours 2 minutes on three threads, 1,247 Essence, a 2.04x yield multiplier."}
+{"beat":4,"event":"He logs 1,247 in his notebook under 1,198 and 1,142, and draws the curve bending upward."}
+{"beat":5,"event":"The Refinery is the bottleneck at 87.3%; he plans to batch its queue in the 2 AM spawn lull."}
+{"beat":6,"event":"He stands and looks over the warehouse, a stripped stamping plant sixty feet by a hundred."}
+{"beat":7,"event":"The Mk.IV Grinder by the east wall fights Level 8-10 mobs in the Rustbelt Flats through a relay."}
+{"beat":8,"event":"He checks its anchors: 45 Flux an hour, and a hairline crack in the relay crystal to replace."}
+{"beat":9,"event":"The Scrap Collector crawls the ruins to the north, stripping wire and metal for the Refinery."}
+{"beat":10,"event":"The Refinery in the middle of the floor turns scrap into Flux Capacitor parts and refined alloy."}
+{"beat":11,"event":"He activates Loop Sight: gold, green and blue threads spin between the three constructs."}
+{"beat":12,"event":"On the west workbench the Enhancement Construct sits sixty percent built, short of Bloom Crystal."}
+{"beat":13,"event":"He pictures the loop closing: upgrades fed back to every construct, output compounding."}
+{"beat":14,"event":"\"Eight Bloom Crystal fragments,\" he tells Pip. Pip blinks. The Exchange it is."}
+{"beat":15,"event":"He walks twenty minutes through the manufacturing corridor, the air smelling of Flux smoke.","at":"2025-12-06T13:30:00.000Z","place":"place/the-idle-epoch-foundry-district"}
+{"beat":16,"event":"Guild teams jog to the gate and gatherers haul carts; nobody looks at the thin man in coveralls."}
+{"beat":17,"event":"The Exchange opens up in the old Eastern Market, guild banners hung from its iron beams.","place":"place/the-idle-epoch-exchange"}
+{"beat":18,"event":"Traders cry Residuum at three hundred Gold a unit, pre-charged Flux cores, and potions."}
+{"beat":19,"event":"At the botanical stall a wiry vendor sizes him up and asks fifty Gold a fragment for Bloom Crystal."}
+{"beat":20,"event":"He has about 1,600 Gold, with 400 owed to the Barrier next week and 200 kept as a buffer."}
+{"beat":21,"event":"He offers forty, citing the thorn elementals' seventy-two-hour cycle; she settles on forty-five."}
+{"beat":22,"event":"He pays 360 Gold for eight fragments and winces at the balance.","changes":[{"page":"metric-character-currency/the-idle-epoch-callum","key":"value","from":1600,"to":1240,"note":"Eight Bloom Crystal fragments at 45 Gold each; prose puts him at roughly 1,600 before"}]}
+{"beat":23,"event":"The fragments sit warm and heavy in his satchel: enough to close the loop, if the math holds."}
+{"beat":24,"event":"Two Iron Vanguard men by a pillar talk of a Residuum surcharge on unaffiliated players.","arrive":["character-other/the-idle-epoch-henley"]}
+{"beat":25,"event":"Twenty percent on top, the armored one tells Henley: Morrison wants everyone in his guild."}
+{"beat":26,"event":"They move on; Callum, unaffiliated, works out 80 Gold more a week, delaying his construct.","leave":["character-other/the-idle-epoch-henley"]}
+{"beat":27,"event":"He files it as a constraint, but sees plainly that Drake Morrison is squeezing the unaffiliated."}
+{"beat":28,"event":"Near the north exit the Broker, whose real name nobody knows, moves through the crowd.","arrive":["character-other/the-idle-epoch-broker"]}
+{"beat":29,"event":"A vendor straightens, Vanguard members nod, and a guild leader steps out of the Broker's way."}
+{"beat":30,"event":"Everyone defers, from respect or dependency, Callum notes, and moves on.","leave":["character-other/the-idle-epoch-broker"]}
+{"beat":31,"event":"On the way home he passes the Grind Pits, walled arenas where active players spar.","at":"2025-12-06T15:00:00.000Z","place":"place/the-idle-epoch-grind-pits"}
+{"beat":32,"event":"A crowd rings the central arena, and the sound inside is fast and precise as a sewing machine."}
+{"beat":33,"event":"A wiry woman of about twenty with a one-handed sword faces three higher-level sparring partners.","arrive":["character-other/the-idle-epoch-mira"]}
+{"beat":34,"event":"She steps into the shieldbearer's charge: a Critical Hit for 412 damage."}
+{"beat":35,"event":"She slips the dual-wielder's cross-slash and cuts his forearm for 278 damage and a bleed."}
+{"beat":36,"event":"She cuts a Flux bolt out of the air, then ripostes the staff-wielder for a 589-damage crit."}
+{"beat":37,"event":"Eleven seconds, three opponents down. The crowd erupts; Callum runs numbers."}
+{"beat":38,"event":"PER in the fifties or sixties, a Duelist or Sword Saint, about 116 damage a second, he reckons."}
+{"beat":39,"event":"Extraordinary, he judges, and linear: her growth adds and never compounds. She has a ceiling."}
+{"beat":40,"event":"She takes the crowd's praise impatiently; he walks home and thinks of DPS curves, not of her.","leave":["character-other/the-idle-epoch-mira"]}
+{"beat":41,"event":"Back in the warehouse he sets the Bloom Crystal satchel beside the Enhancement Construct.","at":"2025-12-06T15:45:00.000Z","place":"place/the-idle-epoch-warehouse"}
+{"beat":42,"event":"A notification: the Grinder's combat pattern has reached 100 iterations."}
+{"beat":43,"event":"The reward is an Iteration Token, an upgrade for any of his three constructs."}
+{"beat":44,"event":"He applies it to the Grinder, first link in the chain: attack efficiency 94.2% to 97.2%."}
+{"beat":45,"event":"Three percent is a rounding error to anyone else; compounded over a hundred cycles it is not."}
+{"beat":46,"event":"He writes the new overnight projection, 1,284 Essence, and circles the 37 twice."}
+{"beat":47,"event":"He allows himself a small smile; Pip blinks once, slow and warm."}
+{"beat":48,"event":"He tells Pip the Enhancement Construct starts tomorrow, the loop closed by week's end, if it holds."}
+{"beat":49,"event":"Lying on the cot, he watches the three threads of light play over the corrugated ceiling."}
+{"beat":50,"event":"He thinks of the woman with the sword, of the surcharge, of the Substrate humming beneath it all."}
+{"beat":51,"event":"Nobody is watching yet. He lets the constructs hum him to sleep."}

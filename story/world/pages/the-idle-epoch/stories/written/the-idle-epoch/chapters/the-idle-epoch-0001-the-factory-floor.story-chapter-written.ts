@@ -10,4 +10,6 @@ export const theIdleEpoch0001TheFactoryFloor = {
   ownLength: 4388,
   unit: "unit/words",
   prose: "txt",
+  beats: "jsonl",
+  stepStatus: "step-status/player",
 } as const satisfies StoryChapterWritten
