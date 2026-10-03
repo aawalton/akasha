@@ -244,5 +244,13 @@ export const overwhereIvTheTangle2 = {
       fact: "Nala dodged the club by her close sense and fled; a second sling stone missed, cracking off an oak.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
     },
+    {
+      fact: "Rushing from the trees, the strike comes within forty paces of Tull's fold in under a minute.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The hobgoblins come on behind the goblins' torches, the maul-bearer bellowing them forward.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore

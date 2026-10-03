@@ -187,5 +187,17 @@ export const overwhereIvBrooksideFour2 = {
         "lore/overwhere-iv-brookside-four",
       ],
     },
+    {
+      fact: "Dace says take the hobgoblins: goblins whose big ones fall run, as every hand at the hall knows.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Wren picks out the two hobgoblins among the torches by their size, one with a maul, one a spear.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Merrit means to throw his first fireball into the torches as they splash across the ford.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
