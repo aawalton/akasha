@@ -78,5 +78,9 @@ export const overwhereIiiEddaCrane = {
         "character-other/overwhere-iii-brannagh-tull",
       ],
     },
+    {
+      fact: "Hearing the boom from her clearing, Edda Crane comes up the brook within half an hour to look.",
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-edda-crane"],
+    },
   ],
 } as const satisfies Lore
