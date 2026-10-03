@@ -119,5 +119,9 @@ export const overwhereIHobbsMillWeir = {
       fact: "A broad slick of crushed weed and mud runs up the weir apron from the pool.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
+    {
+      fact: "Around 9:00 on day 8 a bargeman at Hobb's landing spots Nala on the towpath and waves her down.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+    },
   ],
 } as const satisfies Place
