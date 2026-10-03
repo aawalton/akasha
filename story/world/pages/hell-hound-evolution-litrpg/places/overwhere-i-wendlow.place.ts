@@ -292,5 +292,9 @@ export const overwhereIWendlow = {
       fact: "Grete offers the roll and waits for Nala's yes; she writes no one on it unasked.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Grete keeps both heads to hang in the hall; the ears and tags go into the Board's chest.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Place
