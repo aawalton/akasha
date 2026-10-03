@@ -25,6 +25,7 @@
 {"propertySlug":"import","fileName":"seat.page-type.types.ts","path":"agent/seat/pages/mari-beat-editor-fairweather/mari-beat-editor-fairweather.seat.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"seat.page-type.types.ts","path":"agent/seat/pages/mari-game-master-fairweather/mari-game-master-fairweather.seat.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"seat.page-type.types.ts","path":"agent/seat/pages/mari-prose-editor-fairweather/mari-prose-editor-fairweather.seat.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"seat.page-type.types.ts","path":"agent/seat/pages/mari-story-recorder-fairweather-flex-3/mari-story-recorder-fairweather-flex-3.seat.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"seat.page-type.types.ts","path":"agent/seat/pages/mari-world-builder-fairweather/mari-world-builder-fairweather.seat.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"seat.page-type.types.ts","path":"agent/seat/pages/mari-writer-fairweather/mari-writer-fairweather.seat.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"seat.page-type.types.ts","path":"agent/seat/pages/mari/mari.seat.ts","typed":true,"deferred":false}
