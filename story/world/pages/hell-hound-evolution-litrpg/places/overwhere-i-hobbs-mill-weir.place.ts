@@ -149,7 +149,7 @@ export const overwhereIHobbsMillWeir = {
     },
     {
       fact: "Jory has seen the wyrm haul out on the weir stone near noon on sunny days, to lie in the sun.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
     {
       fact: "Jory says the two barge crews will add a gold between them if the wyrm dies, to get downriver.",
