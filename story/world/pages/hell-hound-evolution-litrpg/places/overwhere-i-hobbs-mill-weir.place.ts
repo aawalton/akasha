@@ -263,5 +263,9 @@ export const overwhereIHobbsMillWeir = {
       fact: "Nala's spikes rise before the wyrm, its stun just ending, can reach the water.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "If her spikes miss, the wyrm reaches the pool 2 seconds later and sinks to its lair, still alive.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Place
