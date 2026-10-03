@@ -191,5 +191,18 @@ export const hollowmerePenhallow = {
         "character-other/hollowmere-lin",
       ],
     },
+    {
+      fact: "Penhallow's week-five essay asks: what does a focus remember, and should it? Due Friday.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-penhallow",
+        "character-other/hollowmere-kit",
+        "character-other/hollowmere-amara",
+        "character-other/hollowmere-priya",
+        "character-other/hollowmere-shiv",
+        "character-other/hollowmere-lin",
+      ],
+    },
   ],
 } as const satisfies Lore
