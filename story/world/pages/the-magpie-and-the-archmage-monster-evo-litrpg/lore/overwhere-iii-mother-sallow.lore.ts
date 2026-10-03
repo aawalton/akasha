@@ -176,6 +176,10 @@ export const overwhereIiiMotherSallow = {
       fact: "Hurt and unmasked, she leaves Nala spent, prises up her hearthstone, and flees for the Hollow.",
       knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-mother-sallow"],
     },
+    {
+      fact: "Going, she says to the spent girl: 'The Lantern will hear of you, holy one.'",
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-mother-sallow"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
