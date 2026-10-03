@@ -311,5 +311,9 @@ export const overwhereIHobbsMillWeir = {
       fact: "The wyrm holds no crystal or pearl; Weir Wyrms grow none.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Jory and both crews come down to the apron, and Jory pays Nala the crews' gold at once.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Place
