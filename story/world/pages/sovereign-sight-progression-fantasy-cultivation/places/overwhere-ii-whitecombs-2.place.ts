@@ -25,7 +25,7 @@ export const overwhereIiWhitecombs2 = {
     },
     {
       fact: "Parting the black is fine work; some three hours of it fray Nala's focus, as flurry pushes do.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Beads parted from the pool run together into one; a thread of her tide holds the whole of it.",
