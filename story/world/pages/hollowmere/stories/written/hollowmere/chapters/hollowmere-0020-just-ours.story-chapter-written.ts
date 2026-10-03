@@ -10,7 +10,7 @@ export const hollowmere0020JustOurs = {
   story: "story-written/hollowmere",
   ownLength: 3593,
   prose: "txt",
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/game-master",
   beats: [
     "Saturday: you wake at half six in the narrow bed, Bea still curled at your back, her arm over you.",
     'Her alarm goes off across the corridor; she groans into your neck. "Rowing. Seven. Morwenna."',
@@ -79,6 +79,8 @@ export const hollowmere0020JustOurs = {
   issues: [
     '"Not one person noticed," she says - Nobody Acts',
     '"Not one person ever notices when I go quiet." - Nobody Acts',
+    '"scrambling out over you" - in ch.19 Nala lay to the wall with Bea behind, on the open side',
+    '"That morning. When my glim held." - Bea\'s glim on the rock came in the afternoon (ch.9)',
   ],
   lore: [
     "lore/hollowmere-academy-2",
@@ -104,5 +106,5 @@ export const hollowmere0020JustOurs = {
     "character-other/hollowmere-priya",
     "character-other/hollowmere-yusra",
   ],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
 } as const satisfies StoryChapterWritten
