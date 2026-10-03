@@ -50,7 +50,7 @@ export const turnReaching = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A chapter's move to player runs its story's chapter backlog rule.",
+      statement: "A chapter's move to player runs its story's word backlog rule.",
     },
     {
       decisionKind: "decision-kind/departure",

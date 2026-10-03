@@ -4,7 +4,7 @@ export const chapterReadBacklog = {
   id: "01a101a0-8e82-7cc9-bf4e-7c98a929e008",
   type: "page-type/module",
   slug: "chapter-read-backlog",
-  definition: "the chapter backlog rule run for the story of a chapter Alan has just read",
+  definition: "the word backlog rule run for the story of a chapter Alan has just read",
   code: "ts",
   test: "ts",
   decisions: [
@@ -14,7 +14,7 @@ export const chapterReadBacklog = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A chapter read runs its story's chapter backlog rule.",
+      statement: "A chapter read runs its story's word backlog rule.",
     },
     {
       decisionKind: "decision-kind/departure",
