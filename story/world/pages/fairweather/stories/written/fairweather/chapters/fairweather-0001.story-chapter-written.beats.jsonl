@@ -8,7 +8,7 @@
 {"beat":8,"event":"The girl ahead asks if she is nervous; Elsie says yes, and warms her cold hands.","at":"2026-06-01T09:00:00.000Z"}
 {"beat":9,"event":"Inside, a priestess calls the names; the first girl's window opens above her."}
 {"beat":10,"event":"Elsie hopes for simples; then her turn comes, and she steps into the circle.","at":"2026-06-01T10:00:00.000Z"}
-{"beat":11,"event":"It reads: Enthraller."}
+{"beat":11,"event":"It reads: Enthraller.","changes":[{"page":"character-class/fairweather-elsie-enthraller","note":"Class: Enthraller; the Naming window names it","key":"unrevealed","from":true,"to":false}]}
 {"beat":12,"event":"She reads it twice; the silence spreads outward and nobody in the hall moves."}
 {"beat":13,"event":"A woman in the gallery takes her child and leaves; the priestess calls no next name."}
 {"beat":14,"event":"Elsie says, Oh! that sounds like a lot of responsibility, and steps down."}
@@ -20,7 +20,7 @@
 {"beat":20,"event":"The guildmaster comes down, grey and sword-calloused, and takes Elsie up."}
 {"beat":21,"event":"She reads the Strings Accord: every skill reported, none on anyone unwilling."}
 {"beat":22,"event":"Told the watching is so nothing goes wrong, Elsie says she is glad of it."}
-{"beat":23,"event":"She counts the fee onto the desk; the clerk stamps a copper tag with an F."}
+{"beat":23,"event":"She counts the fee onto the desk; the clerk stamps a copper tag with an F.","changes":[{"page":"character-rank/fairweather-elsie-rank-f","note":"Rank: F; the clerk stamps her copper tag","key":"unrevealed","from":true,"to":false}]}
 {"beat":24,"event":"The guildmaster opens the charcoal door: a young woman stands with a black ledger.","arrive":["character-other/fairweather-cora"]}
 {"beat":25,"event":"Warden Corisande Vane, called Cora, will go with her and write down every skill."}
 {"beat":26,"event":"Cora will report each to the guildmaster; Elsie thanks her for coming."}
