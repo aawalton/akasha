@@ -14,7 +14,7 @@ export const overwhereI00101 = {
     "character-other/overwhere-i-harl-voss",
     "character-other/overwhere-i-ghost-eye",
   ],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/game-master",
   action: "“Yeah, put me down. I definitely see more killing things for money in my future.”",
   beats: [
     '"Yeah, put me down. I definitely see more killing things for money in my future," Nala says.',
@@ -33,6 +33,6 @@ export const overwhereI00101 = {
     "lore/overwhere-i-the-system-2",
     "place/overwhere-i-wendlow",
   ],
-  reviewedBy: ["story-reviewer/continuity"],
+  reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
   endsAt: "2026-10-05T12:35:00.000Z",
 } as const satisfies StoryTurnPlayed
