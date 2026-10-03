@@ -128,5 +128,9 @@ export const overwhereIWendlow2 = {
       fact: "A pearl rod stretches held workings to 60 yards, not the ring's 50, but must be held in one hand.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "A drake-pearl focus favours no element; it lengthens reach for all alike.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
