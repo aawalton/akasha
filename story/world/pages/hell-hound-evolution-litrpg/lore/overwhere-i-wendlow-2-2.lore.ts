@@ -65,7 +65,7 @@ export const overwhereIWendlow22 = {
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
     {
-      fact: "Grete asks Nala, 'What now, Nala Arthur?'",
+      fact: "Grete says the Board is bare till the rider brings fresh slips, and dips her pen in the ink.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
   ],
