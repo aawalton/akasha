@@ -42,7 +42,7 @@ export const overwhereIiiCurrentKnot = {
     },
     {
       fact: "Her first knot that bursts earns: [New skill acquired – Current Knot.]",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
     {
       fact: "[Current Knot – At [Basic] level, knot raw currents together until they burst.]",
