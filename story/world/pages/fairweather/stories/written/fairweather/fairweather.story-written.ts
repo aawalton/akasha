@@ -10,7 +10,7 @@ export const fairweather = {
   unit: "unit/words",
   chapterBreak: "A day in Lanternmere ends.",
   coordinatorAgent: "mari-game-master-fairweather",
-  editorSteps: true,
+  following: false,
   panels: [
     "played-panel/player-character",
     "played-panel/other-characters",
