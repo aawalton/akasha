@@ -12,5 +12,17 @@ export const hollowmereNala3 = {
       fact: "Nala called a thimble three feet across the bench, again and again, and her head stayed clear.",
       knowers: ["lore-disclosure/game-master", "character-player/hollowmere-nala"],
     },
+    {
+      fact: "Nala called a thimble the full six feet, twice; the third time her head ached, and she stopped.",
+      knowers: ["lore-disclosure/game-master", "character-player/hollowmere-nala"],
+    },
+    {
+      fact: "Nala's focus essay ends: It should remember, if what it remembers is someone being loved.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-kit",
+      ],
+    },
   ],
 } as const satisfies Lore

@@ -111,5 +111,13 @@ export const hollowmereYusra2 = {
         "character-other/hollowmere-yusra",
       ],
     },
+    {
+      fact: "Yusra guessed Nala spent the night with Lin, and said Good: she's been lonely, that one. Like me.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-yusra",
+      ],
+    },
   ],
 } as const satisfies Lore

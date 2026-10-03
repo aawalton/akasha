@@ -82,5 +82,15 @@ export const hollowmereShiv2 = {
         "character-other/hollowmere-penhallow",
       ],
     },
+    {
+      fact: "For Bea's race Shiv has written something rude in Irish on a bedsheet.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-shiv",
+        "character-other/hollowmere-bea",
+        "character-other/hollowmere-lin",
+      ],
+    },
   ],
 } as const satisfies Lore

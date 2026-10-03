@@ -272,5 +272,29 @@ export const hollowmereBea2 = {
         "character-other/hollowmere-bea",
       ],
     },
+    {
+      fact: "Told Lin was all right, lovely, Bea's whole face went soft: Good. Good.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-bea",
+      ],
+    },
+    {
+      fact: "Bea's spoon came the full six feet to her palm, gently; she stared at it, then cheered.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-bea",
+      ],
+    },
+    {
+      fact: "Two nights before the race Bea rowed in the dark with her hands till she slept, Nala holding her.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-bea",
+      ],
+    },
   ],
 } as const satisfies Lore

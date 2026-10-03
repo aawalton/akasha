@@ -63,5 +63,23 @@ export const hollowmereMorwenna = {
         "character-other/hollowmere-morwenna",
       ],
     },
+    {
+      fact: "Morwenna sat nude for life drawing; at Nala's drawing of her grin she laughed: Spot on.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-morwenna",
+        "character-other/hollowmere-lin",
+      ],
+    },
+    {
+      fact: "Two nights before the race Morwenna sent Bea word by Nala: sleep tonight. Nala gave it.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-morwenna",
+        "character-other/hollowmere-bea",
+      ],
+    },
   ],
 } as const satisfies Lore

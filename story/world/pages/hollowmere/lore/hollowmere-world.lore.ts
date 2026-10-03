@@ -197,5 +197,15 @@ export const hollowmereWorld = {
         "character-player/hollowmere-nala",
       ],
     },
+    {
+      fact: "In the Glass Winter glims guttered, kettle charms crawled, and menders cracked the cups they mended.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-lin",
+        "character-other/hollowmere-kit",
+        "character-other/hollowmere-amara",
+      ],
+    },
   ],
 } as const satisfies Lore

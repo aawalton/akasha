@@ -24,5 +24,21 @@ export const hollowmereKit3 = {
         "character-other/hollowmere-kit",
       ],
     },
+    {
+      fact: "Kit has booked the cinema for Friday at six; asked if it's still on, Nala said: Still on.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-kit",
+      ],
+    },
+    {
+      fact: "Kit read Nala's focus essay upside down, and squeezed her foot in place of speaking.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-kit",
+      ],
+    },
   ],
 } as const satisfies Lore

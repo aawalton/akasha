@@ -11,7 +11,7 @@ export const hollowmere0032Thursday = {
   story: "story-written/hollowmere",
   ownLength: 3007,
   prose: "txt",
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   beats: [
     "Thursday of week five: you wake in room 8, in Lin's narrow bed, grey light on the drawings.",
     "Lin is awake already, sitting up with her sketchbook on her knees, drawing you asleep.",
@@ -101,7 +101,12 @@ export const hollowmere0032Thursday = {
     "character-other/hollowmere-yusra",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/mechanics", "story-recorder/inventory", "story-recorder/picture"],
+  recordedBy: [
+    "story-recorder/mechanics",
+    "story-recorder/inventory",
+    "story-recorder/picture",
+    "story-recorder/memory",
+  ],
   scenes: ["image/image-e4fb32d7fcd13804"],
   pictured: [
     {

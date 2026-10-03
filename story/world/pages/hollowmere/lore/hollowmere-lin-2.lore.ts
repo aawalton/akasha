@@ -176,5 +176,25 @@ export const hollowmereLin2 = {
         "character-other/hollowmere-lin",
       ],
     },
+    {
+      fact: "The morning after, Lin drew Nala asleep in her bed, and wrote Thursday under it.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-lin",
+        "character-other/hollowmere-kit",
+      ],
+    },
+    {
+      fact: "Lin came down to breakfast pink, her long hair loose in daylight for once, and ate everything.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-lin",
+        "character-other/hollowmere-bea",
+        "character-other/hollowmere-priya",
+        "character-other/hollowmere-yusra",
+      ],
+    },
   ],
 } as const satisfies Lore
