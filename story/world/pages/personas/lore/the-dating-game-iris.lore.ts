@@ -7,5 +7,11 @@ export const theDatingGameIris = {
   title: "Iris",
   world: "world/personas",
   about: "persona/iris",
+  facts: [
+    {
+      fact: "Iris is the messenger goddess, and blue status windows sometimes flicker near her.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+  ],
   secrets: "jsonl",
 } as const satisfies Lore
