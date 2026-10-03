@@ -20,5 +20,9 @@ export const overwhereIWendlow22 = {
       fact: "No new contract is posted on day 8; Grete expects fresh slips with the tax rider on day 9.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "At the gate the watch knows her now; she pays her copper and is waved through with a grin.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
