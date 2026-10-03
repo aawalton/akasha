@@ -334,7 +334,7 @@ export const overwhereIWendlow = {
     },
     {
       fact: "With Voss and Ghost-Eye down, the Board holds two open contracts, and Grete shows Nala both.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
     {
       fact: "One contract: the margrave's reeve pays 8 gold for a true account of why Greyfen crystals went dark.",
