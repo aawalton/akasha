@@ -22,7 +22,7 @@ export const overwhereIWendlow2 = {
     },
     {
       fact: "For a focus Grete names Ilse Varrow, whose shop is the blue door on Glass Street.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
     {
       fact: "From Antler Hall, each of these lies within a quarter hour's walk.",
