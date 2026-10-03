@@ -48,6 +48,30 @@ export const fairweatherExplicitness = {
       statement: "Elsie means her touch innocently, and the girl she touches feels it charged.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "The prose is close third person on Elsie alone: what she sees, hears, feels and thinks.",
+    },
+    {
+      decisionKind: "decision-kind/absence",
+      statement: "The prose never enters another girl's head or follows a scene Elsie is not in.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A girl's wanting shows only as Elsie sees it: a blush, a stare, a pulse under her thumb, words.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "Elsie reads all of that wanting as friendship, and that misreading drives the story.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A reviewer records a line inside another girl's head, or a scene Elsie is not in, as an issue.",
+    },
+    {
       decisionKind: "decision-kind/absence",
       statement: "The prose never steps past the tension.",
     },
