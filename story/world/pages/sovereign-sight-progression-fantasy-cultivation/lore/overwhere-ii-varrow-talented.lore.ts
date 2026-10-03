@@ -180,7 +180,7 @@ export const overwhereIiVarrowTalented = {
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
-      fact: "Hawise holds the Lady's order to be seeing Callow mended, and stays at Nala's side till it is.",
+      fact: "The Lady bade Hawise see Callow mended; she stays at Nala's side till it is.",
       knowers: ["lore-disclosure/game-master"],
     },
     {
