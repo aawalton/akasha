@@ -229,7 +229,7 @@ export const overwhereIiWhitecombs = {
     },
     {
       fact: "Packing scree into the cwm's crack takes about an hour, with the trickle held back meanwhile.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Plugged, the crack stops the trickle; the gully below dries but for what lies behind Hawise's bank.",
