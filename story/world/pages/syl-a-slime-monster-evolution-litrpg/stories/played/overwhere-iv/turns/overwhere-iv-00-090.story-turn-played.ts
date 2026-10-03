@@ -10,7 +10,7 @@ export const overwhereIv00090 = {
   position: 90,
   prose: "txt",
   characters: ["character-player/overwhere-iv-nala", "character-other/overwhere-iv-ilsa-crane"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/recorders",
   action:
     "I quietly take the ears and cores, then work my way back to town and report in at the guild.",
   beats: [
@@ -33,6 +33,6 @@ export const overwhereIv00090 = {
     "lore/overwhere-iv-nala-2",
     "lore/overwhere-iv-nala-3",
   ],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
   endsAt: "2026-10-07T12:56:00.000Z",
 } as const satisfies StoryTurnPlayed
