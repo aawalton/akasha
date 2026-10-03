@@ -133,7 +133,7 @@ export const overwhereIHobbsMillWeir = {
     },
     {
       fact: "The bargeman is Jory Pell, master of the barge Wend Maid: lean, sun-browned, missing two fingers.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
     {
       fact: "Jory waved because a woman with a sword studying the weir looks like the Board's hunter at last.",
