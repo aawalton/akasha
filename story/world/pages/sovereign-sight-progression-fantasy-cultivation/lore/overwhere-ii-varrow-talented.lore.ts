@@ -133,7 +133,7 @@ export const overwhereIiVarrowTalented = {
     },
     {
       fact: "A spark runs along water: wet flags, a soaked shaft, or a tide of Water touching Corra.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "If Nala's push touches Corra as she sparks, the spark runs back up the tide and numbs Nala's hand.",
