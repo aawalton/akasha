@@ -1,1 +1,2 @@
 {"check":"world-check/overwhere-iv-action-check","reading":{"band":"standard","bonuses":[{"from":"Spatial Sense LV 5","by":1},{"from":"daylight, a known trail","by":1}]},"dice":{"said":"1d20","sides":20,"faces":[4]},"seed":"6b8a1f29e2a8cdd0084e48bdfa111ec3bb6eb34cd106f5e2d7bd667e8cfa7291","answered":{"succeeded":false,"outcome":"failure","total":6,"target":12,"margin":-6}}
+{"check":"world-check/overwhere-iv-time-passing","reading":{"from":"2026-10-07T09:55:00.000Z","minutes":55},"answered":{"endsAt":"2026-10-07T10:50:00.000Z","day":9,"light":"day"}}
