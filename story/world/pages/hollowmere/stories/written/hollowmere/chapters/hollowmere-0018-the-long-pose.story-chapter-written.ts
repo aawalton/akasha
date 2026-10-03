@@ -4,13 +4,14 @@ export const hollowmere0018TheLongPose = {
   id: "01a0ff1b-8a1a-7dd9-a125-8be00e602104",
   type: "page-type/story-chapter-written",
   slug: "hollowmere-0018-the-long-pose",
+  cover: "image/image-f754cadcf4e789c3",
   position: 18,
   unit: "unit/words",
   title: "The Long Pose",
   story: "story-written/hollowmere",
   ownLength: 3053,
   prose: "txt",
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   beats: [
     "Thursday: a hard clear frost; the mere smokes at dawn, and you and Shiv swim the buoy and back.",
     "Shiv asks about the bursar's forms; you tell her you put Bea's name down for emergencies.",
@@ -93,5 +94,24 @@ export const hollowmere0018TheLongPose = {
     "character-other/hollowmere-yusra",
   ],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
-  recordedBy: ["story-recorder/mechanics", "story-recorder/inventory", "story-recorder/memory"],
+  recordedBy: [
+    "story-recorder/mechanics",
+    "story-recorder/inventory",
+    "story-recorder/memory",
+    "story-recorder/picture",
+  ],
+  scenes: ["image/image-f754cadcf4e789c3", "image/image-bbb822a84ebf61d6"],
+  pictured: [
+    {
+      cover: "image/image-f754cadcf4e789c3",
+      coverAfter: "Jumper. Shirt. Skirt. Tights. The rest. You fold them on the chair behind",
+      character: "character-player/hollowmere-nala",
+      outfit: "dark blue robe",
+    },
+    {
+      cover: "image/image-bbb822a84ebf61d6",
+      coverAfter: "At the foot of the Thornfield stairs, in the dim of the hall, she stops.",
+      setting: "the foot of the Thornfield stairs",
+    },
+  ],
 } as const satisfies StoryChapterWritten
