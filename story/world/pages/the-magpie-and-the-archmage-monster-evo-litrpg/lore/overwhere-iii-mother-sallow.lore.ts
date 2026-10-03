@@ -136,6 +136,10 @@ export const overwhereIiiMotherSallow = {
       fact: "Brought to a third of her health, she breaks and flees for the Hollow, her wolves covering her.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Unhurt by Nala, she would have known her for a foe far beyond her; Nala struck first and so chose.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
