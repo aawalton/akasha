@@ -33,7 +33,7 @@ export const fairweather0001TheHallOfNaming = {
     "character-other/fairweather-tamsin",
     "character-other/fairweather-tilly",
   ],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/scene"],
   recordedBy: [
     "story-recorder/inventory",
     "story-recorder/plan",
