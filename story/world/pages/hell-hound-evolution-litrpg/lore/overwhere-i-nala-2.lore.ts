@@ -167,5 +167,21 @@ export const overwhereINala2 = {
       fact: "Fire bound with earth into one strength working let Nala shoulder Ghost-Eye's cask like washing.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
+    {
+      fact: "Nala told Grete Holm of the Greyfen Drakewolves, Ghost-Eye, and killing Harl Voss and his crew.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-i-nala",
+        "lore/overwhere-i-grete-holm",
+      ],
+    },
+    {
+      fact: "Nala laid Voss's salted head, eight right ears and nine levy tags on Grete's counter.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-i-nala",
+        "lore/overwhere-i-grete-holm",
+      ],
+    },
   ],
 } as const satisfies Lore

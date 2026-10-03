@@ -9,7 +9,11 @@ export const overwhereIGreteHolm = {
   facts: [
     {
       fact: "Grete Holm is board-master of the Hunters' Board at Antler Hall in Wendlow.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-i-nala",
+        "lore/overwhere-i-grete-holm",
+      ],
     },
     {
       fact: "Analyze shows her as Human - Level 38, the highest level in Wendlow.",
@@ -46,6 +50,14 @@ export const overwhereIGreteHolm = {
     {
       fact: "She would offer such a woman board work at once, and watch her closely.",
       knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Grete looked in Ghost-Eye's cask and grunted at its skull, scarred crest and empty left socket.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-i-nala",
+        "lore/overwhere-i-grete-holm",
+      ],
     },
   ],
   secrets: "jsonl",

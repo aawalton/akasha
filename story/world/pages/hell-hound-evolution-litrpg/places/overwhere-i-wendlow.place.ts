@@ -178,7 +178,11 @@ export const overwhereIWendlow = {
     },
     {
       fact: "Grete doubts a Level 10 alone took a Level 24 sergeant, and asks who else was in it.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-i-nala",
+        "lore/overwhere-i-grete-holm",
+      ],
     },
     {
       fact: "Grete has never seen Name ??? on a living soul; it makes her careful, not hostile.",
@@ -202,7 +206,11 @@ export const overwhereIWendlow = {
     },
     {
       fact: "Grete checks each tag against the Board's levy list and finds every one of Voss's crew there.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-i-nala",
+        "lore/overwhere-i-grete-holm",
+      ],
     },
     {
       fact: "Ghost-Eye's size, scarred crest and empty left socket satisfy Grete; she pays its 25 gold.",
@@ -226,7 +234,11 @@ export const overwhereIWendlow = {
     },
     {
       fact: "Grete Holm, Board-master, named herself to Nala and Analyzed her before counting the proof.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-i-nala",
+        "lore/overwhere-i-grete-holm",
+      ],
     },
     {
       fact: "Grete accepted Ghost-Eye's head as proof; the dicing hunters fell silent at Voss's face.",
