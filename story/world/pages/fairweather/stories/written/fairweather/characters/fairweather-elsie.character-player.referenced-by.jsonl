@@ -1,0 +1,17 @@
+{"propertySlug":"class-character","path":"story/world/pages/fairweather/stories/written/fairweather/mechanics/classes-held/fairweather-elsie-enthraller.character-class.ts","id":"01a102af-305c-7885-b97a-56082fe2b625"}
+{"propertySlug":"item-character","path":"story/world/pages/fairweather/stories/written/fairweather/items/fairweather-adventurers-outfit.story-item.ts","id":"01a102af-305c-76c7-afa8-d5a20aa37ad0"}
+{"propertySlug":"item-character","path":"story/world/pages/fairweather/stories/written/fairweather/items/fairweather-attic-key.story-item.ts","id":"01a102af-305c-7e34-8c9d-70cb77e2e06a"}
+{"propertySlug":"item-character","path":"story/world/pages/fairweather/stories/written/fairweather/items/fairweather-birthday-notebook.story-item.ts","id":"01a102af-305c-73d3-9b30-fb0c94e03532"}
+{"propertySlug":"item-character","path":"story/world/pages/fairweather/stories/written/fairweather/items/fairweather-flower-clip.story-item.ts","id":"01a102af-305c-72fb-9527-0fe81ec17a4f"}
+{"propertySlug":"item-character","path":"story/world/pages/fairweather/stories/written/fairweather/items/fairweather-healers-satchel.story-item.ts","id":"01a102af-305c-7762-ad10-b82efef89355"}
+{"propertySlug":"item-character","path":"story/world/pages/fairweather/stories/written/fairweather/items/fairweather-plant-crate.story-item.ts","id":"01a102af-305c-79cd-a0dc-1d2b62c75cd6"}
+{"propertySlug":"lore-about","path":"story/world/pages/fairweather/lore/fairweather-elsie.lore.ts","id":"01a102af-305b-75fd-9216-abb5a2e7bac6"}
+{"propertySlug":"lore-knowers","path":"story/world/pages/fairweather/lore/fairweather-elsie.lore.ts","id":"01a102af-305b-75fd-9216-abb5a2e7bac6"}
+{"propertySlug":"lore-knowers","path":"story/world/pages/fairweather/lore/fairweather-world.lore.ts","id":"01a102af-305b-7afc-9635-334e3585d3b1"}
+{"propertySlug":"lore-knowers","path":"story/world/pages/fairweather/places/fairweather-guild-hall.place.ts","id":"01a102af-305b-7db6-bb17-c8e7a115ede2"}
+{"propertySlug":"lore-knowers","path":"story/world/pages/fairweather/places/fairweather-hall-of-naming.place.ts","id":"01a102af-305b-796e-8e56-39b5d004a564"}
+{"propertySlug":"lore-knowers","path":"story/world/pages/fairweather/places/fairweather-honeycomb.place.ts","id":"01a102af-305c-7b0a-9506-c7b829b856a9"}
+{"propertySlug":"lore-knowers","path":"story/world/pages/fairweather/places/fairweather-lanternmere.place.ts","id":"01a102af-305c-7f6c-a6eb-97acd4d27bc7"}
+{"propertySlug":"metric-of-character","path":"story/world/pages/fairweather/stories/written/fairweather/mechanics/metrics/experiences/fairweather-elsie.metric-character-experience.ts","id":"01a102af-305c-7b9c-92e3-ca176b2f51e7"}
+{"propertySlug":"metric-of-character","path":"story/world/pages/fairweather/stories/written/fairweather/mechanics/metrics/levels/fairweather-elsie.metric-character-level.ts","id":"01a102af-305c-76ff-970c-b90bf54d4fe8"}
+{"propertySlug":"metric-of-character","path":"story/world/pages/fairweather/stories/written/fairweather/mechanics/metrics/purses/fairweather-elsie.metric-character-currency.ts","id":"01a102af-305c-7b0f-8e6f-386f3c68682f"}

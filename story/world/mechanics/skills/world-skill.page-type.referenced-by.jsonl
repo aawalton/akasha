@@ -21,9 +21,11 @@
 {"propertySlug":"import","fileName":"world-skill.page-type.types.ts","path":"story/world/pages/fairweather/stories/written/fairweather/mechanics/skills/fairweather-captivate.world-skill.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-skill.page-type.types.ts","path":"story/world/pages/fairweather/stories/written/fairweather/mechanics/skills/fairweather-claim.world-skill.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-skill.page-type.types.ts","path":"story/world/pages/fairweather/stories/written/fairweather/mechanics/skills/fairweather-devotion.world-skill.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"world-skill.page-type.types.ts","path":"story/world/pages/fairweather/stories/written/fairweather/mechanics/skills/fairweather-frenzy.world-skill.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-skill.page-type.types.ts","path":"story/world/pages/fairweather/stories/written/fairweather/mechanics/skills/fairweather-hold.world-skill.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-skill.page-type.types.ts","path":"story/world/pages/fairweather/stories/written/fairweather/mechanics/skills/fairweather-keep.world-skill.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-skill.page-type.types.ts","path":"story/world/pages/fairweather/stories/written/fairweather/mechanics/skills/fairweather-mark.world-skill.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"world-skill.page-type.types.ts","path":"story/world/pages/fairweather/stories/written/fairweather/mechanics/skills/fairweather-sever.world-skill.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-skill.page-type.types.ts","path":"story/world/pages/fairweather/stories/written/fairweather/mechanics/skills/fairweather-tether.world-skill.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-skill.page-type.types.ts","path":"story/world/pages/god-of-trash/mechanics/skills/otherwhere-vii-aura-hiding.world-skill.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-skill.page-type.types.ts","path":"story/world/pages/god-of-trash/mechanics/skills/otherwhere-vii-fireball.world-skill.ts","typed":true,"deferred":false}

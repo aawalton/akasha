@@ -2,4 +2,13 @@
 {"propertySlug":"assignment-slug","path":"agent/seat/pages/mari-world-builder-fairweather/mari-world-builder-fairweather.seat.ts","id":"01a102a0-aa46-7000-9f5a-cb3001cec17b"}
 {"propertySlug":"assignment-slug","path":"agent/seat/pages/mari-writer-fairweather/mari-writer-fairweather.seat.ts","id":"01a102a0-cf88-7000-bd67-99aed1e2d512"}
 {"propertySlug":"chapter-story","path":"story/world/pages/fairweather/stories/written/fairweather/chapters/fairweather-0001.story-chapter-written.ts","id":"01a102a0-254d-78bc-af8f-82a070b940ba"}
+{"propertySlug":"character-story","path":"story/world/pages/fairweather/stories/written/fairweather/characters/fairweather-cora.character-other.ts","id":"01a102af-305c-7258-b963-4ebe26f9f450"}
 {"propertySlug":"character-story","path":"story/world/pages/fairweather/stories/written/fairweather/characters/fairweather-elsie.character-player.ts","id":"01a10215-d2ad-7d12-8776-155b4e0428c6"}
+{"propertySlug":"character-story","path":"story/world/pages/fairweather/stories/written/fairweather/characters/fairweather-tamsin.character-other.ts","id":"01a102af-305c-7a0d-9887-8f32ce1a7ebf"}
+{"propertySlug":"character-story","path":"story/world/pages/fairweather/stories/written/fairweather/characters/fairweather-tilly.character-other.ts","id":"01a102af-305c-790c-985f-1516312ef716"}
+{"propertySlug":"item-story","path":"story/world/pages/fairweather/stories/written/fairweather/items/fairweather-adventurers-outfit.story-item.ts","id":"01a102af-305c-76c7-afa8-d5a20aa37ad0"}
+{"propertySlug":"item-story","path":"story/world/pages/fairweather/stories/written/fairweather/items/fairweather-attic-key.story-item.ts","id":"01a102af-305c-7e34-8c9d-70cb77e2e06a"}
+{"propertySlug":"item-story","path":"story/world/pages/fairweather/stories/written/fairweather/items/fairweather-birthday-notebook.story-item.ts","id":"01a102af-305c-73d3-9b30-fb0c94e03532"}
+{"propertySlug":"item-story","path":"story/world/pages/fairweather/stories/written/fairweather/items/fairweather-flower-clip.story-item.ts","id":"01a102af-305c-72fb-9527-0fe81ec17a4f"}
+{"propertySlug":"item-story","path":"story/world/pages/fairweather/stories/written/fairweather/items/fairweather-healers-satchel.story-item.ts","id":"01a102af-305c-7762-ad10-b82efef89355"}
+{"propertySlug":"item-story","path":"story/world/pages/fairweather/stories/written/fairweather/items/fairweather-plant-crate.story-item.ts","id":"01a102af-305c-79cd-a0dc-1d2b62c75cd6"}
