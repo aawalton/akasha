@@ -10,4 +10,5 @@ export const dateNightFreePlay0002TheKey = {
   ownLength: 1197,
   unit: "unit/words",
   prose: "txt",
+  beats: "jsonl",
 } as const satisfies StoryChapterWritten
