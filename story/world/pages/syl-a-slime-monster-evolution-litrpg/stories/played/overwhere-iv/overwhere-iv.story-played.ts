@@ -13,7 +13,6 @@ export const overwhereIv = {
   opensAt: "2026-09-29T00:00:00.000Z",
   panels: [
     "played-panel/otherwhere-the-library-player-character",
-    "played-panel/other-characters",
     "played-panel/scene-cover",
     "played-panel/time",
     "played-panel/story-so-far",

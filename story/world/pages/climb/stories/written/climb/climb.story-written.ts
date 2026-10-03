@@ -11,10 +11,5 @@ export const climb = {
   chapterBreak: "A floor's task is met and its stairs open.",
   coordinatorAgent: "mari-game-master-climb",
   following: true,
-  panels: [
-    "played-panel/player-character",
-    "played-panel/other-characters",
-    "played-panel/scene-cover",
-    "played-panel/quest-list",
-  ],
+  panels: ["played-panel/player-character", "played-panel/scene-cover", "played-panel/quest-list"],
 } as const satisfies StoryWritten

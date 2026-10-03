@@ -11,9 +11,5 @@ export const emberdeep = {
   chapterBreak: "A day in Emberdeep ends.",
   coordinatorAgent: "mari-game-master-emberdeep",
   following: true,
-  panels: [
-    "played-panel/player-character",
-    "played-panel/other-characters",
-    "played-panel/scene-cover",
-  ],
+  panels: ["played-panel/player-character", "played-panel/scene-cover"],
 } as const satisfies StoryWritten

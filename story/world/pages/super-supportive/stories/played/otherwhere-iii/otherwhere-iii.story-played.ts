@@ -12,7 +12,6 @@ export const otherwhereIii = {
   chapterBreak: "A stretch of Nala's new life comes to a turning point.",
   panels: [
     "played-panel/otherwhere-the-library-player-character",
-    "played-panel/other-characters",
     "played-panel/scene-cover",
     "played-panel/time",
     "played-panel/story-so-far",
