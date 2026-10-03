@@ -6,7 +6,7 @@ export const breakfast = {
   slug: "breakfast",
   title: "Breakfast",
   toDoCategory: "health",
-  toDoDueDate: "2026-10-02",
+  toDoDueDate: "2026-10-03",
   priority: "p2",
   toDoRecurrence: "FREQ=DAILY",
   toDoSortOrder: 40,

@@ -7,7 +7,7 @@ export const swapBathroomTowels = {
   title: "Swap bathroom towels",
   toDoCategory: "health",
   difficulty: "trivial",
-  toDoDueDate: "2026-10-02",
+  toDoDueDate: "2026-10-03",
   priority: "p3",
   toDoRecurrence: "FREQ=MONTHLY;BYDAY=4MO",
   toDoSortOrder: 29,
