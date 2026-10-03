@@ -253,7 +253,7 @@ export const overwhereIiWhitecombs = {
     },
     {
       fact: "With fine work Undertow can part the black from the water: a cupful takes Nala a few minutes.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Parted, the water left behind runs clear and faintly salt, and harms nothing that drinks it.",
