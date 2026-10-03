@@ -210,7 +210,7 @@ export const overwhereIWendlow2 = {
     },
     {
       fact: "Nala's two-pearl ring will be ready at Ilse's shop by the afternoon of day 11.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
     {
       fact: "Ilse sizes Nala's finger with a wire loop and gives her a stamped tin claim tag for the ring.",
