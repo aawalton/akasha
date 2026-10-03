@@ -51,5 +51,9 @@ export const overwhereIHobbsMillWeir = {
       fact: "Through the lens from the towpath bend, the weir's signs need no roll.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "By day the wyrm lies deep in the plunge pool, coiled under the half-sunk barge.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Place
