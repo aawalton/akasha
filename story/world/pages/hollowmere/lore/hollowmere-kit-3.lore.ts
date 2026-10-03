@@ -118,5 +118,31 @@ export const hollowmereKit3 = {
         "character-other/hollowmere-kit",
       ],
     },
+    {
+      fact: "At the Fell Cup Kit took off her Ashcombe scarf in front of Ashcombe, and shouted back: Thornfield!",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-kit",
+        "character-other/hollowmere-lin",
+        "character-other/hollowmere-shiv",
+      ],
+    },
+    {
+      fact: "Kit had never shouted in public before the Fell Cup; she says her mother would have her shot.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-kit",
+      ],
+    },
+    {
+      fact: "After the Fell Cup Kit bought a round at the Bell with money she'd been saving for something.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-kit",
+      ],
+    },
   ],
 } as const satisfies Lore

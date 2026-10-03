@@ -119,5 +119,46 @@ export const hollowmereYusra2 = {
         "character-other/hollowmere-yusra",
       ],
     },
+    {
+      fact: "Yusra shook Bea's hand after the race: Lindqvist. Good. Hugged, she stood stiff, then laughed.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-yusra",
+        "character-other/hollowmere-bea",
+      ],
+    },
+    {
+      fact: "On a fallen oak on the mere's far shore Yusra kissed Nala again, slow, longer than on the fell.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-yusra",
+      ],
+    },
+    {
+      fact: "Off shift Yusra now sleeps whole nights, for the first time since summer; she told Nala: Partly you.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-yusra",
+      ],
+    },
+    {
+      fact: "Yusra holds Nala's hand only out of the academy's sight; in sight of it she is her warden again.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-yusra",
+      ],
+    },
+    {
+      fact: "Shown Kit's ring, Yusra said: It knows you. Told tea is a ward, she laughed properly at last.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-yusra",
+      ],
+    },
   ],
 } as const satisfies Lore

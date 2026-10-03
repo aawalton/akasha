@@ -92,5 +92,14 @@ export const hollowmereShiv2 = {
         "character-other/hollowmere-lin",
       ],
     },
+    {
+      fact: "Shiv says her Fell Cup bedsheet reads Thornfield, Row, and something about Ashcombe's mothers.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-shiv",
+        "character-other/hollowmere-lin",
+      ],
+    },
   ],
 } as const satisfies Lore

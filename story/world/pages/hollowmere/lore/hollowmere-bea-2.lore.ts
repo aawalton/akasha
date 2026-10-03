@@ -312,5 +312,57 @@ export const hollowmereBea2 = {
         "character-other/hollowmere-bea",
       ],
     },
+    {
+      fact: "Bea rowed bow in the winning Fell Cup four; Morwenna handed her the cup: You heard them first.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-bea",
+        "character-other/hollowmere-morwenna",
+        "character-other/hollowmere-kit",
+        "character-other/hollowmere-lin",
+        "character-other/hollowmere-yusra",
+      ],
+    },
+    {
+      fact: "Bea heard Nala shouting her name all the way from the bend; on the jetty she kissed Nala before all.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-bea",
+        "character-other/hollowmere-kit",
+        "character-other/hollowmere-lin",
+      ],
+    },
+    {
+      fact: "Lin drew Bea holding up the Fell Cup in three quick lines, and tore out the page and gave it her.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-bea",
+        "character-other/hollowmere-lin",
+      ],
+    },
+    {
+      fact: "Lifted onto a table at the Bell for a speech, Bea shouted BEND and fell backwards into arms.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-bea",
+        "character-other/hollowmere-kit",
+        "character-other/hollowmere-lin",
+        "character-other/hollowmere-shiv",
+        "character-other/hollowmere-priya",
+        "character-other/hollowmere-amara",
+      ],
+    },
+    {
+      fact: "The night of the Fell Cup Bea and Nala made love on the rug in 15, and slept there under the cup.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-bea",
+      ],
+    },
   ],
 } as const satisfies Lore
