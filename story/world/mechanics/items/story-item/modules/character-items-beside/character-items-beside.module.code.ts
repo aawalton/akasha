@@ -1,4 +1,9 @@
 import { slugIn } from "akasha/page/modules/address/page-address.module.code.ts"
+import {
+  type BeatOverlay,
+  NO_OVERLAY,
+  overlaidRows,
+} from "akasha/story/world/stories/played/modules/beat-overlay/beat-overlay.module.code.ts"
 import { askedLoudly } from "akasha/story/world/stories/played/modules/played-asking/played-asking.module.code.ts"
 
 const ITEM_TYPE = "story-item"
@@ -91,20 +96,23 @@ async function slotNames(): Promise<Record<string, string>> {
   return asked.ok ? slotNamesIn(asked.answer.rows) : NO_SLOT_NAMES
 }
 
-async function hadBy(slug: string): Promise<Had | null> {
+async function hadBy(slug: string, overlay: BeatOverlay): Promise<Had | null> {
   const [asked, slots] = await Promise.all([
     askedLoudly({
       "page-type": ITEM_TYPE,
       where: { character: { "ends-with": `/${slug}` } },
-      keys: [CHARACTER_AT, TITLE_AT, SLOT_AT, DESCRIPTION_AT, QUANTITY_AT, UNREVEALED_AT],
+      keys: [SLUG_AT, CHARACTER_AT, TITLE_AT, SLOT_AT, DESCRIPTION_AT, QUANTITY_AT, UNREVEALED_AT],
     }),
     slotNames(),
   ])
   if (!asked.ok || asked.answer.rows.length === 0) return null
-  return hadIn(asked.answer.rows, slots)
+  return hadIn(overlaidRows(asked.answer.rows, ITEM_TYPE, overlay), slots)
 }
 
-export async function itemsOf(character: string): Promise<Had | null> {
+export async function itemsOf(
+  character: string,
+  overlay: BeatOverlay = NO_OVERLAY
+): Promise<Had | null> {
   const slug = slugIn(character)
-  return slug === null || slug === "" ? null : hadBy(slug)
+  return slug === null || slug === "" ? null : hadBy(slug, overlay)
 }

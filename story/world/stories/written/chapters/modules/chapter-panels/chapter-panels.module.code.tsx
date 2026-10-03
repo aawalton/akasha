@@ -14,7 +14,15 @@ import {
 } from "akasha/page/ui/supabase/modules/use-pages/use-pages.module.code.ts"
 import { namedShapeDescriptor } from "akasha/page/ui-store/collection/modules/shape-descriptor/shape-descriptor.module.code.ts"
 import type { PageTypeSlug } from "akasha/page/url/modules/page-type-slug/page-type-slug.module.code.ts"
-import { beatsIn } from "akasha/story/engine/beat-state/modules/beat-records/beat-records.module.code.ts"
+import {
+  type Beats,
+  beatsIn,
+  NO_BEATS,
+} from "akasha/story/engine/beat-state/modules/beat-records/beat-records.module.code.ts"
+import {
+  BeatReadingProvider,
+  useBeatReading,
+} from "akasha/story/ui/modules/beat-reading/beat-reading.module.code.tsx"
 import type { ClientStoryTurn } from "akasha/story/ui/modules/client-story-session/client-story-session.module.code.ts"
 import type {
   PanelRun,
@@ -81,6 +89,17 @@ export function chapterClockOf(beatsText: string | null): string | null {
   return at === undefined ? null : playedClockOf([asPage({ id: "", icon: null, endsAt: at })])
 }
 
+export function beatsOf(beatsText: string | null): Beats | null {
+  if (beatsText === null) return null
+  const read = beatsIn(beatsText)
+  return "refused" in read ? null : read
+}
+
+export function beatClockOf(beats: Beats, beat: number): string | null {
+  const at = beats.scenes.findLast((one) => one.beat <= beat && one.at !== undefined)?.at
+  return at === undefined ? null : playedClockOf([asPage({ id: "", icon: null, endsAt: at })])
+}
+
 function beatsHrefOf(pageTypeSlug: string, chapter: ChapterShown): string | null {
   if (!chapter.disclosed || chapter.slug === "") return null
   return `${FILE_AT}/${[pageTypeSlug, chapter.slug, BEATS].map(encodeURIComponent).join("/")}`
@@ -129,16 +148,26 @@ type ChapterPanelsProps = {
 
 export function ChapterPanels({ pageTypeSlug, id, children }: ChapterPanelsProps) {
   const [settled, onSettled] = useFirstRead()
+  const { page } = usePage({ pageTypeSlug, id })
+  const data = toPageDataJSON(page?.properties)
+  const href = beatsHrefOf(pageTypeSlug, chapterShownOf(id, data))
+  const beatsText = useFileBody(href)
+  const beats = beatsOf(beatsText)
+  const ready = href === null || beatsText !== null
   return (
-    <div className={settled ? undefined : UNSETTLED}>
-      <PlayedLayout
-        head={null}
-        panelsAbove={null}
-        runDrawn={<div className={PROSE_COLUMN}>{children}</div>}
-        underHeader
-        panelsAside={<ChapterAside pageTypeSlug={pageTypeSlug} id={id} onSettled={onSettled} />}
-      />
-    </div>
+    <BeatReadingProvider beats={beats ?? NO_BEATS} ready={ready}>
+      <div className={settled ? undefined : UNSETTLED}>
+        <PlayedLayout
+          head={null}
+          panelsAbove={null}
+          runDrawn={<div className={PROSE_COLUMN}>{children}</div>}
+          underHeader
+          panelsAside={
+            <ChapterAside pageTypeSlug={pageTypeSlug} id={id} data={data} onSettled={onSettled} />
+          }
+        />
+      </div>
+    </BeatReadingProvider>
   )
 }
 
@@ -221,13 +250,15 @@ function LatestChapterAside({
 function ChapterAside({
   pageTypeSlug,
   id,
+  data,
   onSettled,
-}: Omit<ChapterPanelsProps, "children"> & { readonly onSettled: () => void }) {
-  const { page } = usePage({ pageTypeSlug, id })
-  const data = toPageDataJSON(page?.properties)
+}: Omit<ChapterPanelsProps, "children"> & {
+  readonly data: Readonly<Record<string, unknown>>
+  readonly onSettled: () => void
+}) {
   const storyAddress = textIn(data.story)
   const story = addressIn(storyAddress)
-  if (page === null || story.kind !== "qualified" || story.slug === "") return null
+  if (story.kind !== "qualified" || story.slug === "") return null
   const chapter = chapterShownOf(id, data)
   return (
     <StoryAside
@@ -289,7 +320,8 @@ function StoryAside({
   const playerSlug = textIn(characters.rows[0]?.slug)
   const player = playerSlug === "" ? "" : namedAs(characterPlayer.slug, playerSlug, null)
   const turn = chapter.disclosed ? (chapter.position ?? ONE) : null
-  const filed = usePlayedState(player, turn)
+  const reading = useBeatReading()
+  const filed = usePlayedState(player, turn, reading.overlay)
   const characterName = textIn(characters.rows[0]?.title)
   const state = useMemo(() => {
     if (filed === null || turn === null) return null
@@ -297,7 +329,10 @@ function StoryAside({
   }, [filed, turn, characterName])
 
   const turns = useMemo(() => chapterTurnsOf(chapter), [chapter])
-  const clock = chapterClockOf(useFileBody(beatsHrefOf(pageTypeSlug, chapter)))
+  const beatsText = useFileBody(reading.reading ? null : beatsHrefOf(pageTypeSlug, chapter))
+  const clock = reading.reading
+    ? beatClockOf(reading.beats, reading.beat)
+    : chapterClockOf(beatsText)
   const title = textIn(storyRow?.title)
   const envelope = useMemo(
     () => playedEnvelope({ title, turns, chapters: [], state }),

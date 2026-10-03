@@ -3845,6 +3845,7 @@
 {"propertySlug":"decision-kind","path":"story/style/style-rule/style-rule.page-type.ts","id":"01a0de9c-aef3-72c2-8506-f0ac609c48ea"}
 {"propertySlug":"decision-kind","path":"story/turn/turn.page-type.ts","id":"01a0c9fc-87b4-75fb-b8af-e42e6f1986d0"}
 {"propertySlug":"decision-kind","path":"story/ui/modules/alert-notification/alert-notification.module.ts","id":"01a0628e-a5da-7ee0-a6fa-62cfbb59efac"}
+{"propertySlug":"decision-kind","path":"story/ui/modules/beat-reading/beat-reading.module.ts","id":"01a10390-5892-7cc8-9b5f-e692277bcaf4"}
 {"propertySlug":"decision-kind","path":"story/ui/modules/chapter-prose/chapter-prose.module.ts","id":"01a06327-e488-7a03-bb37-e36a0d56a4ec"}
 {"propertySlug":"decision-kind","path":"story/ui/modules/character-cover-panel/character-cover-panel.module.ts","id":"01a0de7e-118e-760a-aace-b82f91d94001"}
 {"propertySlug":"decision-kind","path":"story/ui/modules/cover-viewing/cover-viewing.module.ts","id":"01a0e85f-32b6-77c9-b863-bd97e3b7310f"}
@@ -4100,6 +4101,7 @@
 {"propertySlug":"decision-kind","path":"story/world/stories/played/modules/action-bar-sending/action-bar-sending.module.ts","id":"01a0d48a-8a47-745b-8d92-693cc1ecc076"}
 {"propertySlug":"decision-kind","path":"story/world/stories/played/modules/action-bar-state/action-bar-state.module.ts","id":"01a0d48a-0758-724f-85b2-9b2412f0754f"}
 {"propertySlug":"decision-kind","path":"story/world/stories/played/modules/action-bar/action-bar.module.ts","id":"01a0d48b-8f76-7e2b-9030-a05bc2c03057"}
+{"propertySlug":"decision-kind","path":"story/world/stories/played/modules/beat-overlay/beat-overlay.module.ts","id":"01a10390-5892-7717-b2a7-d5037a34ce46"}
 {"propertySlug":"decision-kind","path":"story/world/stories/played/modules/cover-rerolling/cover-rerolling.module.ts","id":"01a0e851-25d9-756c-ab3b-35fef0612b06"}
 {"propertySlug":"decision-kind","path":"story/world/stories/played/modules/played-asking/played-asking.module.ts","id":"01a0e86a-1d93-7fc7-8864-8aa95de2706c"}
 {"propertySlug":"decision-kind","path":"story/world/stories/played/modules/played-beside/played-beside.module.ts","id":"01a0a160-1d33-7b41-8c07-5f9a2e6b3d18"}

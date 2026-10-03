@@ -2,11 +2,12 @@
 
 import { stringIn } from "akasha/code/type/narrowing/modules/string-in/string-in.module.code.ts"
 import type { PageDrawingProps } from "akasha/page/ui/component/modules/page-detail-content/page-detail-content.module.code.tsx"
+import { PageReaderContent } from "akasha/page/ui/component/modules/page-reader-content/page-reader-content.module.code.tsx"
+import type { Beats } from "akasha/story/engine/beat-state/modules/beat-records/beat-records.module.code.ts"
 import {
-  PageReaderContent,
-  useFileBody,
-} from "akasha/page/ui/component/modules/page-reader-content/page-reader-content.module.code.tsx"
-import { beatsIn } from "akasha/story/engine/beat-state/modules/beat-records/beat-records.module.code.ts"
+  BeatProse,
+  useBeatReading,
+} from "akasha/story/ui/modules/beat-reading/beat-reading.module.code.tsx"
 import { ChapterProse } from "akasha/story/ui/modules/chapter-prose/chapter-prose.module.code.tsx"
 import type { InlineCover } from "akasha/story/ui/modules/inline-cover/inline-cover.module.code.tsx"
 import { storyAsker } from "akasha/story/ui/modules/scene-cover-panel/scene-cover-panel.module.code.tsx"
@@ -15,10 +16,6 @@ import type { SubmitPlayerAction } from "akasha/story/ui/modules/system-choice-c
 import { ChapterPanels } from "akasha/story/world/stories/written/chapters/modules/chapter-panels/chapter-panels.module.code.tsx"
 
 const ONE = 1
-
-const FILE_AT = "/api/page-file"
-
-const BEATS = "beats"
 
 const submitsNothing: SubmitPlayerAction = async () => ({
   ok: false,
@@ -31,14 +28,12 @@ function textIn(value: unknown): string | undefined {
 
 function writtenCoversOf(
   id: string,
-  beatsText: string,
+  beats: Beats,
   data: Readonly<Record<string, unknown>>
 ): readonly InlineCover[] {
-  const read = beatsIn(beatsText)
-  const pictured = "refused" in read ? [] : (read.pictured ?? [])
-  const listed: { readonly cover: string; readonly after?: string | undefined }[] = pictured.map(
-    (one) => ({ cover: one.cover, after: one.coverAfter })
-  )
+  const listed: { readonly cover: string; readonly after?: string | undefined }[] = (
+    beats.pictured ?? []
+  ).map((one) => ({ cover: one.cover, after: one.coverAfter }))
   if (listed.length === 0 && Array.isArray(data.scenes)) {
     for (const one of data.scenes) {
       const cover = textIn(one)
@@ -50,27 +45,31 @@ function writtenCoversOf(
 
 function WrittenProse({
   id,
-  pageTypeSlug,
   body,
   data,
 }: {
   id: string
-  pageTypeSlug: string
   body: string
   data: Readonly<Record<string, unknown>>
 }) {
-  const slug = textIn(data.slug)
-  const href =
-    slug === undefined
-      ? null
-      : `${FILE_AT}/${[pageTypeSlug, slug, BEATS].map(encodeURIComponent).join("/")}`
-  const beatsText = useFileBody(href)
-  if (href !== null && beatsText === null) return null
+  const { beats, ready } = useBeatReading()
+  if (!ready) return null
+  if (beats.prose !== undefined && beats.beats.length > 0) {
+    return (
+      <BeatProse
+        beats={beats}
+        muted={false}
+        asker={storyAsker(data.story)}
+        submitPlayerAction={submitsNothing}
+        signedOutNotice={null}
+      />
+    )
+  }
   return (
     <ChapterProse
       text={body}
       segments={proseSegmentsOf(body)}
-      covers={writtenCoversOf(id, beatsText ?? "", data)}
+      covers={writtenCoversOf(id, beats, data)}
       asker={storyAsker(data.story)}
       muted={false}
       submitPlayerAction={submitsNothing}
@@ -79,9 +78,9 @@ function WrittenProse({
   )
 }
 
-function proseFor(id: string, pageTypeSlug: string) {
+function proseFor(id: string) {
   return function drawProse(body: string, data: Readonly<Record<string, unknown>>) {
-    return <WrittenProse id={id} pageTypeSlug={pageTypeSlug} body={body} data={data} />
+    return <WrittenProse id={id} body={body} data={data} />
   }
 }
 
@@ -101,7 +100,7 @@ export function Drawing({
       readerNext={readerNext}
       storyHref={storyHref}
       onReadToEnd={onReadToEnd}
-      drawProse={proseFor(id, pageTypeSlug)}
+      drawProse={proseFor(id)}
       around={(column) => (
         <ChapterPanels pageTypeSlug={pageTypeSlug} id={id}>
           {column}

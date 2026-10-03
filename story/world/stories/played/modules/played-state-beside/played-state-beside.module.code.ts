@@ -28,6 +28,11 @@ import { worldSkill } from "akasha/story/world/mechanics/skills/world-skill.page
 import { worldSpecies } from "akasha/story/world/mechanics/species/world-species.page-type.ts"
 import { characterTrait } from "akasha/story/world/mechanics/traits/character-trait/character-trait.page-type.ts"
 import {
+  type BeatOverlay,
+  NO_OVERLAY,
+  overlaidRows,
+} from "akasha/story/world/stories/played/modules/beat-overlay/beat-overlay.module.code.ts"
+import {
   askedLoudly,
   reportThrown,
 } from "akasha/story/world/stories/played/modules/played-asking/played-asking.module.code.ts"
@@ -206,8 +211,12 @@ async function askedHeld(type: string, key: string, character: string): Promise<
   )
 }
 
-async function readFiled(character: string, turn: number): Promise<Filed> {
-  const { purse, ledgers } = await readPurses(character, turn)
+async function readFiled(
+  character: string,
+  turn: number,
+  overlay: BeatOverlay = NO_OVERLAY
+): Promise<Filed> {
+  const { purse, ledgers } = await readPurses(character, turn, overlay)
   const [resources, scores, holdings, quests, bonds, attunements, traits, had] = await Promise.all([
     askedLoudly({
       "page-type": metricCharacterResource.slug,
@@ -254,12 +263,12 @@ async function readFiled(character: string, turn: number): Promise<Filed> {
     askedLoudly({
       "page-type": worldRelationship.slug,
       where: { characters: { has: character } },
-      keys: [CHARACTERS_KEY, POINTS_KEY, UNREVEALED_KEY],
+      keys: [SLUG_KEY, CHARACTERS_KEY, POINTS_KEY, UNREVEALED_KEY],
     }),
     askedLoudly({
       "page-type": worldAttunement.slug,
       where: { character: { is: character } },
-      keys: [CHARACTER_KEY, ELEMENT_KEY, RANK_KEY, COUNTER_KEY, UNREVEALED_KEY],
+      keys: [SLUG_KEY, CHARACTER_KEY, ELEMENT_KEY, RANK_KEY, COUNTER_KEY, UNREVEALED_KEY],
     }),
     askedLoudly({
       "page-type": characterTrait.slug,
@@ -274,17 +283,19 @@ async function readFiled(character: string, turn: number): Promise<Filed> {
         UNREVEALED_KEY,
       ],
     }),
-    itemsOf(character),
+    itemsOf(character, overlay),
   ])
   const heldAsked = await Promise.all(
-    HELD_KINDS.map(async ([type, key]) => rowsOf(await askedHeld(type, key, character)))
+    HELD_KINDS.map(async ([type, key]) =>
+      overlaidRows(rowsOf(await askedHeld(type, key, character)), type, overlay)
+    )
   )
   const [speciesRows = [], classRows = [], conditionRows = [], legacyRows = [], rankRows = []] =
     heldAsked
-  const skillRows = rowsOf(holdings)
-  const bondRows = rowsOf(bonds)
-  const attunementRows = rowsOf(attunements)
-  const traitRows = rowsOf(traits)
+  const skillRows = overlaidRows(rowsOf(holdings), worldSkill.slug, overlay)
+  const bondRows = overlaidRows(rowsOf(bonds), worldRelationship.slug, overlay)
+  const attunementRows = overlaidRows(rowsOf(attunements), worldAttunement.slug, overlay)
+  const traitRows = overlaidRows(rowsOf(traits), characterTrait.slug, overlay)
   const { titles, descriptions } = await titlesOf(
     namedIn(
       [
@@ -309,9 +320,9 @@ async function readFiled(character: string, turn: number): Promise<Filed> {
   const calling = namesOf(classRows, CLASS_KEY)
   const rank = namesOf(rankRows, RANK_KEY)
   const status = namesOf(conditionRows, CONDITION_KEY)
-  const resourceRows = rowsOf(resources)
+  const resourceRows = overlaidRows(rowsOf(resources), metricCharacterResource.slug, overlay)
   const pools = poolsIn(resourceRows, turn)
-  const scored = scoresIn(rowsOf(scores))
+  const scored = scoresIn(overlaidRows(rowsOf(scores), metricCharacterAttribute.slug, overlay))
   const held = resourcesIn(resourceRows)
   return {
     pools: pools.pools,
@@ -328,7 +339,7 @@ async function readFiled(character: string, turn: number): Promise<Filed> {
     ...(calling === undefined ? {} : { calling }),
     ...(rank === undefined ? {} : { rank }),
     ...(status === undefined ? {} : { status }),
-    quests: questsIn(rowsOf(quests)),
+    quests: questsIn(overlaidRows(rowsOf(quests), worldQuest.slug, overlay)),
     bonds: bondsIn(bondRows, character, titles),
     attunements: attunementsIn(attunementRows, titles),
     had,
@@ -400,19 +411,22 @@ export function stateOf(filed: Filed, turn: number, name: string | undefined): G
   }
 }
 
-export function usePlayedState(character: string, turn: number | null): Filed | null {
+export function usePlayedState(
+  character: string,
+  turn: number | null,
+  overlay: BeatOverlay = NO_OVERLAY
+): Filed | null {
   const slug = slugIn(character) ?? ""
   const [filed, setFiled] = useState<Filed | null>(null)
 
   useEffect(() => {
-    setFiled(null)
     if (slug === "" || turn === null) {
       setFiled(NOTHING_FILED)
       return
     }
     let alive = true
     void (async () => {
-      const held = await readFiled(character, turn).catch((thrown: unknown) => {
+      const held = await readFiled(character, turn, overlay).catch((thrown: unknown) => {
         reportThrown(`reading the sheet of ${character}`, thrown)
         return NOTHING_FILED
       })
@@ -421,7 +435,7 @@ export function usePlayedState(character: string, turn: number | null): Filed | 
     return () => {
       alive = false
     }
-  }, [character, slug, turn])
+  }, [character, slug, turn, overlay])
 
   return filed
 }

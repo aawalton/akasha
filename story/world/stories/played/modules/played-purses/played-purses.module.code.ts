@@ -4,6 +4,11 @@ import { textIn } from "akasha/code/type/narrowing/modules/text-in/text-in.modul
 import type { QueryRow } from "akasha/page/query/modules/store-questioning/store-questioning.module.code.ts"
 import { worldCurrency } from "akasha/story/world/mechanics/currencies/world-currency.page-type.ts"
 import { metricCharacterCurrency } from "akasha/story/world/mechanics/metrics/metric-character/currency/metric-character-currency.page-type.ts"
+import {
+  type BeatOverlay,
+  NO_OVERLAY,
+  overlaidRows,
+} from "akasha/story/world/stories/played/modules/beat-overlay/beat-overlay.module.code.ts"
 import { askedLoudly } from "akasha/story/world/stories/played/modules/played-asking/played-asking.module.code.ts"
 import {
   type Currency,
@@ -64,7 +69,11 @@ async function currenciesOf(rows: readonly QueryRow[]): Promise<ReadonlyMap<stri
   return currencies
 }
 
-export async function readPurses(character: string, turn: number): Promise<Purses> {
+export async function readPurses(
+  character: string,
+  turn: number,
+  overlay: BeatOverlay = NO_OVERLAY
+): Promise<Purses> {
   const asked = await askedLoudly({
     "page-type": metricCharacterCurrency.slug,
     where: { character: { is: character } },
@@ -81,7 +90,11 @@ export async function readPurses(character: string, turn: number): Promise<Purse
     ],
     files: [HISTORY_KEY],
   })
-  const rows = asked.ok ? revealedRows(asked.answer.rows) : []
+  const rows = overlaidRows(
+    asked.ok ? revealedRows(asked.answer.rows) : [],
+    metricCharacterCurrency.slug,
+    overlay
+  )
   const currencies = await currenciesOf(rows)
   return { purse: pursesIn(rows, currencies), ledgers: ledgersIn(rows, currencies, turn) }
 }
