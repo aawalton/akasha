@@ -1,0 +1,96 @@
+{"beat":1,"event":"Orvyn Thel begins a field record for Lord Aldric Cray, Warden of the Eastern Reaches."}
+{"beat":2,"event":"He notes he advised against the assignment, so readers know its price was not counted first."}
+{"beat":3,"event":"The party: Captain Sera Vant, Scout Dara Hess, Corporal Bren Aldic, the scribe, and Mira Doss."}
+{"beat":4,"event":"They enter at second bell, in the morning."}
+{"beat":5,"event":"Entry 1: the opening is as reported, round and honey-coloured, the air smelling of copper.","at":"2029-04-05T10:14:00.000Z","place":"place/the-dungeon-of-one-thousand-deaths-the-opening","present":["character-other/the-dungeon-of-one-thousand-deaths-sera-vant","character-other/the-dungeon-of-one-thousand-deaths-dara-hess","character-other/the-dungeon-of-one-thousand-deaths-bren-aldic","character-other/the-dungeon-of-one-thousand-deaths-orvyn-thel","character-other/the-dungeon-of-one-thousand-deaths-mira-doss"]}
+{"beat":6,"event":"Captain Vant judges it defensible from above and indefensible from below."}
+{"beat":7,"event":"Hess finds it as on her entry three years before, but the moss has spread."}
+{"beat":8,"event":"Entry 2: at the first chamber the Asking comes: what do you want.","at":"2029-04-05T10:31:00.000Z","place":"place/the-dungeon-of-one-thousand-deaths-the-gullet"}
+{"beat":9,"event":"It finds the thing underneath, and all five answer at once."}
+{"beat":10,"event":"Orvyn finds he wants to understand, after nine years recording what he did not."}
+{"beat":11,"event":"Vant is the Warden: any weapon she trained with, but she perceives only threats."}
+{"beat":12,"event":"Hess is the Compass: the shortest path to the exit, but she can only move toward it."}
+{"beat":13,"event":"Aldic is the Bulwark: a barrier round all within three meters, and none for himself alone."}
+{"beat":14,"event":"Orvyn is the Scribe: he reads inscriptions and the Ledger, and bears their full grief."}
+{"beat":15,"event":"Doss is the Mender: she heals others, and each healing comes back to her as phantom pain."}
+{"beat":16,"event":"The Ledger gives the average party survival rate as 0%, from a sample of one."}
+{"beat":17,"event":"Entry 3: Vant can no longer see or hear her own people, only threats.","at":"2029-04-05T10:47:00.000Z"}
+{"beat":18,"event":"Hess is already walking toward the exit, which means deeper, and cannot stop.","leave":["character-other/the-dungeon-of-one-thousand-deaths-dara-hess"]}
+{"beat":19,"event":"Aldic keeps close to Doss and Orvyn, and his barrier shimmers around them."}
+{"beat":20,"event":"Orvyn reads the subtext of his own screen, and will not write it down."}
+{"beat":21,"event":"Entry 4: the garden, barley from stone, an old man fused into the floor, his face peaceful.","at":"2029-04-05T10:53:00.000Z","place":"place/the-dungeon-of-one-thousand-deaths-the-garden","arrive":["character-other/the-dungeon-of-one-thousand-deaths-tam","character-other/the-dungeon-of-one-thousand-deaths-edric-voss"]}
+{"beat":22,"event":"He transcribes the two inscriptions, the careful hand and the quick, sharp one."}
+{"beat":23,"event":"Reading them, he receives each writer's grief, fused with the knowing."}
+{"beat":24,"event":"He feels Maren as the farmer knew her, and a woman reaching for a name she lost."}
+{"beat":25,"event":"Aldic sits with the old dog, still alive in the barley, and feeds it from his rations."}
+{"beat":26,"event":"After three minutes the Corporal stands and checks the ropes for the gap."}
+{"beat":27,"event":"Orvyn finds he has described the barley twice, and records that too."}
+{"beat":28,"event":"Entry 5: a glassblower's tool roll lies open on an outcropping.","at":"2029-04-05T10:59:00.000Z"}
+{"beat":29,"event":"Doss, whose mother was a glassblower, knows the tools, and moves on without a word."}
+{"beat":30,"event":"Vant passes the body as a hazard and the wall without slowing; she cannot read it.","leave":["character-other/the-dungeon-of-one-thousand-deaths-sera-vant"]}
+{"beat":31,"event":"Entry 6: Orvyn records a third inscription: It was beautiful. All of it. Even this.","at":"2029-04-05T11:22:00.000Z"}
+{"beat":32,"event":"Reading it, he receives transcendence, for about four seconds."}
+{"beat":33,"event":"He sits on the floor, writes the word transcendence, and looks at it a long time."}
+{"beat":34,"event":"He tells Lord Aldric the tactical record is not the whole document."}
+{"beat":35,"event":"Entry 7: two hundred meters past the garden, a four-meter chasm cuts across the passage.","at":"2029-04-05T11:41:00.000Z","place":"place/the-dungeon-of-one-thousand-deaths-the-gap","present":["character-other/the-dungeon-of-one-thousand-deaths-bren-aldic","character-other/the-dungeon-of-one-thousand-deaths-orvyn-thel","character-other/the-dungeon-of-one-thousand-deaths-mira-doss"]}
+{"beat":36,"event":"Vant has crossed already, somehow; Hess crossed at a narrowing fifteen meters to the left."}
+{"beat":37,"event":"Aldic rigs ropes, tests the anchors, and crosses first to have someone to protect."}
+{"beat":38,"event":"Doss and Orvyn cross, and the ropes hold."}
+{"beat":39,"event":"Aldic crosses last; an anchor with a fault no one could see pulls free, and he falls."}
+{"beat":40,"event":"His barrier takes the fall while Orvyn is near, but he lands below, alone, on the wrong side."}
+{"beat":41,"event":"He calls up: go on, I am fine for now. Orvyn does not believe him, and goes on."}
+{"beat":42,"event":"The ropes stay anchored on both sides: not a bridge, but there."}
+{"beat":43,"event":"Entry 8: from above the gap Orvyn hears the scavengers below, clicking, no longer fleeing.","at":"2029-04-05T11:58:00.000Z"}
+{"beat":44,"event":"They smell stillness: a man alone whose shield needs an ally near."}
+{"beat":45,"event":"He closes the journal, opens it again, and writes that the scavengers are efficient."}
+{"beat":46,"event":"Entry 9: the Marrow Warrens, bone-white and dry, every sound back from five directions.","at":"2029-04-05T12:31:00.000Z","place":"place/the-dungeon-of-one-thousand-deaths-the-marrow-warrens","present":["character-other/the-dungeon-of-one-thousand-deaths-orvyn-thel","character-other/the-dungeon-of-one-thousand-deaths-mira-doss"]}
+{"beat":47,"event":"Hess's old account was right in broad strokes, wrong about the cold and the silence."}
+{"beat":48,"event":"They lost her at the first fork: she took the left, closer to the exit, and did not look back."}
+{"beat":49,"event":"Entry 10: Deep Reading shows the left passage runs through bone parasite territory.","at":"2029-04-05T12:44:00.000Z"}
+{"beat":50,"event":"Her steady prints turn irregular, then stop: she walked the perfect path and could not stop."}
+{"beat":51,"event":"Entry 11: Doss finds a wall with a human warmth in it: a place where something happened.","at":"2029-04-05T13:19:00.000Z"}
+{"beat":52,"event":"Orvyn presses his palm there and receives a woman's grief, the name gone, the love left."}
+{"beat":53,"event":"He writes: She was still looking for him. Even after the cost. Even without the name."}
+{"beat":54,"event":"Entry 12: a dense blue crystal forms near the wall; he records where, and will not take it.","at":"2029-04-05T13:22:00.000Z"}
+{"beat":55,"event":"Entry 13: he hears Vant somewhere ahead, giving orders to what she can perceive.","at":"2029-04-05T13:44:00.000Z"}
+{"beat":56,"event":"He calls her name twice, and she hears neither call."}
+{"beat":57,"event":"Entry 14: at a junction Doss takes the left toward the Captain, her hands failing from healing.","at":"2029-04-05T13:51:00.000Z","leave":["character-other/the-dungeon-of-one-thousand-deaths-mira-doss"]}
+{"beat":58,"event":"Orvyn takes the right, toward something the Ledger shows that he cannot explain."}
+{"beat":59,"event":"Entry 15: at its end is a small room, shaped on purpose, for someone who can read it.","at":"2029-04-05T14:09:00.000Z","place":"place/the-dungeon-of-one-thousand-deaths-the-pattern-room","present":["character-other/the-dungeon-of-one-thousand-deaths-orvyn-thel"]}
+{"beat":60,"event":"Its angles and its light say: three have died here, and they were not random."}
+{"beat":61,"event":"Growth from death, the tracing of the dead, the sight of faults: each death chosen for its trace."}
+{"beat":62,"event":"The dungeon is building something; he sees the roads, but not where they lead."}
+{"beat":63,"event":"His assessment: a machine with a purpose, and soldiers fed to it will teach it things."}
+{"beat":64,"event":"Entry 16: the Borrowed Grief of four readings has stacked inside him with no release.","at":"2029-04-05T14:33:00.000Z"}
+{"beat":65,"event":"He understands he described the barley twice because the farmer's grief needed it."}
+{"beat":66,"event":"Entry 17: from the Garden he hears weapons on a crystal body, then nothing.","at":"2029-04-05T14:51:00.000Z"}
+{"beat":67,"event":"He records Vant's last contact: status unknown, assume mission complete, hers."}
+{"beat":68,"event":"Entry 18: Doss has not answered since 15:18, and he records her the same way.","at":"2029-04-05T15:22:00.000Z"}
+{"beat":69,"event":"She healed fourteen times today, so that four others could go on."}
+{"beat":70,"event":"Entry 19: in a bone-white corridor he writes to whoever finds the journal.","at":"2029-04-05T15:44:00.000Z","place":"place/the-dungeon-of-one-thousand-deaths-the-marrow-warrens"}
+{"beat":71,"event":"He tells them the dungeon knows what it needs from each of them, and that he is sorry."}
+{"beat":72,"event":"Entry 20: the grief is very heavy; he is not afraid, only very tired.","at":"2029-04-05T16:03:00.000Z"}
+{"beat":73,"event":"His Resolve is near its limit: combat saturation."}
+{"beat":74,"event":"Entry 21: the ropes, the blue crystal, the pattern room, and the old dog who watches.","at":"2029-04-05T16:11:00.000Z"}
+{"beat":75,"event":"The mission was to understand, and he has understood: Entry 21 of 21."}
+{"beat":76,"event":"Unformatted and pressed hard: Tell Lord Aldric to send no more soldiers."}
+{"beat":77,"event":"Tell him I completed the assignment. I always complete the assignment."}
+{"beat":78,"event":"Death #4: Bren Aldic, the Bulwark, fallen at the gap and taken by scavengers while still.","place":"place/the-dungeon-of-one-thousand-deaths-the-gap","present":["character-other/the-dungeon-of-one-thousand-deaths-bren-aldic"]}
+{"beat":79,"event":"His inscription: I held the line. Bulwark #7, confirmed: died alone."}
+{"beat":80,"event":"Death #5: Dara Hess, the Compass, on her exit path through bone parasite territory.","place":"place/the-dungeon-of-one-thousand-deaths-the-marrow-warrens","present":["character-other/the-dungeon-of-one-thousand-deaths-dara-hess"]}
+{"beat":81,"event":"Her inscription: This is the right way. Her urgent trace joins the Warrens' grief echo."}
+{"beat":82,"event":"Death #6: Mira Doss, the Mender, crippled by fourteen healings' pain, then the parasites.","present":["character-other/the-dungeon-of-one-thousand-deaths-mira-doss"]}
+{"beat":83,"event":"Her inscription: Someone needed me here."}
+{"beat":84,"event":"Death #7: Sera Vant, the Warden, to the crystal predator, blind to the pool behind her.","place":"place/the-dungeon-of-one-thousand-deaths-the-still-garden","present":["character-other/the-dungeon-of-one-thousand-deaths-sera-vant","character-other/the-dungeon-of-one-thousand-deaths-the-gorger"]}
+{"beat":85,"event":"Her inscription: I saw fourteen threats. I missed one. The predator stands at 2 of 3 kills."}
+{"beat":86,"event":"Death #8: Orvyn Thel, the Scribe, his Resolve spent to 0 by borrowed grief; his heart stops.","at":"2029-04-05T16:32:00.000Z","place":"place/the-dungeon-of-one-thousand-deaths-the-marrow-warrens","present":["character-other/the-dungeon-of-one-thousand-deaths-orvyn-thel"]}
+{"beat":87,"event":"His journal is his inscription, and his hand now sums up the pattern room on its walls."}
+{"beat":88,"event":"The Ledger: party of five, survival 0%; coordinated entry does not bring coordinated survival."}
+{"beat":89,"event":"Deaths #4 to #8, and 992 remain. The Maw has read this note."}
+{"beat":90,"event":"The fifth tumbler turns, and the sixth, the seventh and the eighth."}
+{"beat":91,"event":"In the Warrens his journal lies open by his body, and the blue crystal holds three layers now."}
+{"beat":92,"event":"In the Still Garden the Captain's four weapons lie where she fell, and the predator learns.","place":"place/the-dungeon-of-one-thousand-deaths-the-still-garden","present":["character-other/the-dungeon-of-one-thousand-deaths-sera-vant","character-other/the-dungeon-of-one-thousand-deaths-the-gorger"]}
+{"beat":93,"event":"In the Gullet the ropes hang over the gap: the idea of a bridge, waiting."}
+{"beat":94,"event":"Tam, the barley past his shoulder now, waits for three who are not coming back."}
+{"beat":95,"event":"In a hall to the east a lord waits for a report that will not arrive."}
+{"beat":96,"event":"992 remain."}
