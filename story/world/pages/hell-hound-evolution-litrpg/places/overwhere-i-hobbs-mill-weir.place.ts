@@ -59,5 +59,9 @@ export const overwhereIHobbsMillWeir = {
       fact: "On a sunny day the wyrm basks on the weir apron from about 11:00 to 14:00, half out of the water.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "The wyrm hunts at dawn and dusk, striking at anything on the water or within 5 yards of the edge.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Place
