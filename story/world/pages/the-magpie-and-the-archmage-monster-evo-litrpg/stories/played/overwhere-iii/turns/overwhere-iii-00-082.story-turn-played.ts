@@ -11,4 +11,5 @@ export const overwhereIii00082 = {
   action:
     "I hit her with the braid at full power, without warning. Then again and again until the notification hits.",
   lore: ["lore/overwhere-iii-mother-sallow"],
+  endsAt: "2026-10-08T13:02:00.000Z",
 } as const satisfies StoryTurnPlayed
