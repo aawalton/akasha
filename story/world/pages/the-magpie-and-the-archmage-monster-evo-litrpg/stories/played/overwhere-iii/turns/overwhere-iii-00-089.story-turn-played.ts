@@ -15,7 +15,7 @@ export const overwhereIii00089 = {
     "character-other/overwhere-iii-brannagh-tull",
     "character-other/overwhere-iii-edda-crane",
   ],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action:
     "I sleep then decide to go hunting towards the blight. After facing those wolves, being weak is far more of a threat to me than going into danger. I stop by Brannagh’s first to check for patients to practice my mending weave on, then rest a while to refill my mana, the go out into the forest.",
   beats: [
@@ -44,7 +44,12 @@ export const overwhereIii00089 = {
     "lore/overwhere-iii-nala-2-2",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/memory", "story-recorder/picture"],
+  recordedBy: [
+    "story-recorder/inventory",
+    "story-recorder/memory",
+    "story-recorder/picture",
+    "story-recorder/mechanics",
+  ],
   endsAt: "2026-10-09T11:40:00.000Z",
   coverAfter: "They spread out low around you, one on each side and one ahead.",
 } as const satisfies StoryTurnPlayed
