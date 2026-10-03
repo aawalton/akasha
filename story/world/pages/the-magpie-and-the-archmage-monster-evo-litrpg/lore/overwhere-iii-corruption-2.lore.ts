@@ -229,5 +229,9 @@ export const overwhereIiiCorruption2 = {
       fact: "The boar killed whole leaves a blightstone that cracks into one glimmerstone.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Struck in its wallow, the blighted boar crashes out of the brambles and charges its striker.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
