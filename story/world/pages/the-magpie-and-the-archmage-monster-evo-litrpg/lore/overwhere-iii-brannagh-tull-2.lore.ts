@@ -365,5 +365,9 @@ export const overwhereIiiBrannaghTull2 = {
       fact: "At first light on day eleven a weaver off the slate waits, her hand scarred by a loom-oil fire.",
       knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-brannagh-tull"],
     },
+    {
+      fact: "The weaver's scar is six years old; she pays in a pair of new wool mittens for the healer.",
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-brannagh-tull"],
+    },
   ],
 } as const satisfies Lore
