@@ -257,7 +257,7 @@ export const overwhereIiGreymaws = {
     },
     {
       fact: "A chamber holding raw Sea-Water goes ice-cold, and tugs faintly toward the pool it came from.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "The tug is weak; the chamber stays put in a hand or a tied bag.",
