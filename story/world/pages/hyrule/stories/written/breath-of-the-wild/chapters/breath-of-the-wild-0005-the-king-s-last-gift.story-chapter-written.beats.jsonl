@@ -1,0 +1,83 @@
+{"beat":1,"event":"He wakes before dawn; the coals pulse, and the old man sits on his log, his hands still.","at":"2026-10-05T05:30:00.000Z"}
+{"beat":2,"event":"The mountain's cold is still in his bones, and the morning carries its own chill."}
+{"beat":3,"event":"Guardian Sword across his back, Slate at his hip, the broken hilt in his pack by the pot."}
+{"beat":4,"event":"\"The Temple,\" the old man says without turning. \"Follow the path east. You'll see it.\""}
+{"beat":5,"event":"The spire has been his bearing point since the first morning, rising above the treeline."}
+{"beat":6,"event":"Grass silver with dew, the green smell of morning: he can feel this is the last one.","at":"2026-10-05T06:00:00.000Z","place":"place/hyrule-great-plateau","present":["character-other/breath-of-the-wild-link"]}
+{"beat":7,"event":"The Temple of Time: rows of cracked dark columns, no roof, shafts of light sliding on stone.","at":"2026-10-05T06:30:00.000Z","place":"place/hyrule-temple-of-time"}
+{"beat":8,"event":"His stride slows to reverence; the echoes come back softened, as if the floor could hear."}
+{"beat":9,"event":"The Goddess Statue fills the apse: three times his height, eyes closed, cupped hands empty."}
+{"beat":10,"event":"Moss on her fingers, grass at her base; nobody has knelt here in a century."}
+{"beat":11,"event":"The Slate gives a low, resonant chime, and the four Spirit Orbs stir warm inside it."}
+{"beat":12,"event":"They lean toward the Statue as he nears, pulsing in unison on the screen."}
+{"beat":13,"event":"Her cupped hands begin to glow a warm gold."}
+{"beat":14,"event":"A vast, warm presence speaks: I can see the light of the Goddess in your eyes."}
+{"beat":15,"event":"Something sees him: not as hero, not as the boy from the shrine, but as worth addressing."}
+{"beat":16,"event":"Which do you desire? Two streams of light: a red heart, and a green spiral, turning."}
+{"beat":17,"event":"Three hearts have left him staggering at every blow; his hand moves to the heart."}
+{"beat":18,"event":"It is no bold choice, but a humbled one. He chooses to endure."}
+{"beat":19,"event":"The four orbs lift from the Slate in a slow spiral into her hands, and the gold flares.","changes":[{"page":"metric-character-currency/breath-of-the-wild-link","key":"value","from":4,"to":0,"note":"Four Spirit Orbs offered to the Goddess Statue"}]}
+{"beat":20,"event":"One point of warmth settles into his chest, a deepening, and his breath goes further."}
+{"beat":21,"event":"The Slate: Heart Container received. Hearts 3 to 4. Stamina: 1 wheel.","changes":[{"page":"metric-character-health/breath-of-the-wild-link","key":"maxValue","from":12,"to":16,"note":"Heart Container: hearts 3 to 4"},{"page":"metric-character-health/breath-of-the-wild-link","key":"value","from":12,"to":16,"note":"The new heart comes full: four hearts"}]}
+{"beat":22,"event":"The glow fades to stone, and the presence settles back into its patience: Go in peace."}
+{"beat":23,"event":"He lingers as the shafts of sun slide across the floor."}
+{"beat":24,"event":"At the eastern wall he climbs the broken inner stairs, with his hands where feet won't do."}
+{"beat":25,"event":"The stairs open on a gallery whose outer edge has broken away onto all of Hyrule."}
+{"beat":26,"event":"Gold and green fields, bright rivers, roads like pale threads, and the Castle's dark shroud."}
+{"beat":27,"event":"The old man sits on the gallery's edge, hood down for the first time, his white hair thin.","at":"2026-10-05T07:00:00.000Z","arrive":["character-other/breath-of-the-wild-rhoam"]}
+{"beat":28,"event":"\"You made the trade,\" he says, without turning."}
+{"beat":29,"event":"Link sits beside him on sun-warmed stone; from here the Statue looks smaller."}
+{"beat":30,"event":"The old man's hands tremble in his lap: \"I have something to tell you.\""}
+{"beat":31,"event":"\"This kingdom was called Hyrule. It still is, though precious little is left of the name.\""}
+{"beat":32,"event":"\"A hundred years ago it was whole: a castle, a court, and in the court, a king.\""}
+{"beat":33,"event":"Link sees the old man's shadow on the stone is wrong: taller, broader at the crown."}
+{"beat":34,"event":"He looks from the shadow to the old man and back, and the old man sees him looking."}
+{"beat":35,"event":"\"You see it,\" the old man says quietly, almost with relief, and exhales."}
+{"beat":36,"event":"The rough cloak thins to robes of state in deep blue and gold; the hood becomes a crown."}
+{"beat":37,"event":"His hands are no longer flesh; a pale gold ghost-light shines through them."}
+{"beat":38,"event":"\"I am King Rhoam Bosphoramus Hyrule.\""}
+{"beat":39,"event":"Link does not move; his hand has gone to the Slate, the one thing joining then to now."}
+{"beat":40,"event":"\"This kingdom had a champion, a knight chosen by the Goddess's own sword.\""}
+{"beat":41,"event":"\"A hundred years ago the Calamity returned: Ganon, a being of ancient malice.\""}
+{"beat":42,"event":"\"It corrupted our guardians.\" The machines on the Plateau were the fallen kingdom's own."}
+{"beat":43,"event":"\"The Divine Beasts, four great constructs, each piloted by a champion. Ganon took them all.\""}
+{"beat":44,"event":"\"The champions fell. The hero fell.\" The flatness in his voice is the only other road to weeping."}
+{"beat":45,"event":"\"The princess carried him to the Shrine where you woke, and then she sealed Ganon.\""}
+{"beat":46,"event":"Link's body turns toward the Castle on its own, an instinct below memory."}
+{"beat":47,"event":"\"She has held him alone for a hundred years. I could not help her. But you can.\""}
+{"beat":48,"event":"\"You are that hero, brought to the Shrine near death a hundred years ago, sleeping, healing.\""}
+{"beat":49,"event":"\"Your memories will return. In time. In pieces. The Slate may help.\""}
+{"beat":50,"event":"\"Free the Divine Beasts. Find the champions' spirits. Turn their power on the Calamity.\""}
+{"beat":51,"event":"\"Then go to the Castle. Save my daughter.\" The last three words are the father's."}
+{"beat":52,"event":"Silence. Link sits with the weight of it, reorganising everything he thought he knew."}
+{"beat":53,"event":"Four shrines, four monks, four orbs for one heart, and four nights by the fire with a king."}
+{"beat":54,"event":"He breathes, and the breath goes further than it used to. Four hearts now."}
+{"beat":55,"event":"\"I have one last thing for you.\" From his robes the king draws the folded paraglider."}
+{"beat":56,"event":"\"Not payment. A provision, from someone who cannot walk the road with you.\""}
+{"beat":57,"event":"Link takes it: worn smooth at the grips, dark with age, weighing almost nothing.","changes":[{"page":"story-item/breath-of-the-wild-paraglider","key":"character","from":"character-other/breath-of-the-wild-rhoam","to":"character-other/breath-of-the-wild-link","note":"King Rhoam gives Link the paraglider"}]}
+{"beat":58,"event":"The Slate: Paraglider acquired. Hold to deploy in freefall; stamina is spent in flight."}
+{"beat":59,"event":"\"Be careful. And eat something before you go. You're too thin.\""}
+{"beat":60,"event":"The ghost-light flickers, and the corner of his mouth almost makes a smile."}
+{"beat":61,"event":"He turns toward the Castle, as a man looks at a house he lived in once."}
+{"beat":62,"event":"Then King Rhoam begins to fade, gently, the way a fire burns down when nobody feeds it."}
+{"beat":63,"event":"His robes and crown dim, the morning shows through him, and what may be trust goes last."}
+{"beat":64,"event":"The light that was King Rhoam rises and joins the morning; the gallery is empty.","leave":["character-other/breath-of-the-wild-rhoam"]}
+{"beat":65,"event":"Link sits alone with the paraglider and the Slate, the kingdom below, the mission in his chest."}
+{"beat":66,"event":"He climbs down past the Goddess Statue and out through the broken entrance into morning.","at":"2026-10-05T08:00:00.000Z","place":"place/hyrule-great-plateau"}
+{"beat":67,"event":"The Plateau is quiet; the wind moves through the grass in its oldest habit."}
+{"beat":68,"event":"He walks to the edge, where the cliffs fall away hundreds of meters, sheer."}
+{"beat":69,"event":"The paraglider's frame unfolds in his hands, its joints clicking into place."}
+{"beat":70,"event":"He pauses, not from fear but from awareness: he is four days old."}
+{"beat":71,"event":"Below lies a fallen kingdom, and a castle where a princess has held a demon for a century."}
+{"beat":72,"event":"Warm wind rises from below; the twin peaks frame a pass south, toward someone named Impa."}
+{"beat":73,"event":"He raises the paraglider over his head, and the canvas catches the wind and pulls."}
+{"beat":74,"event":"He steps off the edge."}
+{"beat":75,"event":"The Plateau shrinks behind and above him as the canvas catches the rising air and holds."}
+{"beat":76,"event":"The stamina gauge at the Slate's edge flickers, draining steadily; his shoulders burn."}
+{"beat":77,"event":"Below him all of Hyrule: wild golden grass, rivers, forests, ruins, and roads going south."}
+{"beat":78,"event":"The air tastes alive, and beneath it, faint, a low pulse from the Castle: the Malice's heartbeat."}
+{"beat":79,"event":"His stamina drains, his grip tightens, and the ground comes up green and soft."}
+{"beat":80,"event":"His feet touch waist-high wild grass in the fields below; he stands in it and breathes.","at":"2026-10-05T08:10:00.000Z","place":"place/hyrule-field"}
+{"beat":81,"event":"Behind him the Plateau is a mesa against the morning sky; the road runs south to the twin peaks."}
+{"beat":82,"event":"The Slate pulses once: the map updates, the known world one step wider."}
+{"beat":83,"event":"The tutorial is over. The world has begun. He walks into the grass, the sun warm on his face."}
