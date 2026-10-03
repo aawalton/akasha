@@ -27,10 +27,12 @@ export const overwhereIii00090 = {
   ],
   lore: [
     "lore/overwhere-iii-braid-weaving",
+    "lore/overwhere-iii-cleansing-weave",
     "lore/overwhere-iii-corruption-2",
     "lore/overwhere-iii-nala",
     "lore/overwhere-iii-nala-2",
     "lore/overwhere-iii-nala-2-2",
   ],
+  reviewedBy: ["story-reviewer/continuity"],
   endsAt: "2026-10-09T11:43:00.000Z",
 } as const satisfies StoryTurnPlayed
