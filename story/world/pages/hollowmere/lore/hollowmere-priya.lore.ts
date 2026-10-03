@@ -206,5 +206,14 @@ export const hollowmerePriya = {
         "character-other/hollowmere-shiv",
       ],
     },
+    {
+      fact: "After Amara held her hand, Priya rang Dev for an hour, came back calm, and said she felt light.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/hollowmere-priya",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-bea",
+      ],
+    },
   ],
 } as const satisfies Lore

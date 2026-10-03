@@ -256,5 +256,14 @@ export const hollowmereKit2 = {
         "character-player/hollowmere-nala",
       ],
     },
+    {
+      fact: "Kit took a middle bench in Monday's practical, watched, and her ward held her flame dead still.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/hollowmere-kit",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-amara",
+      ],
+    },
   ],
 } as const satisfies Lore

@@ -359,7 +359,11 @@ export const hollowmereLin = {
     },
     {
       fact: "Lin's parents expect her home after one year to help run the restaurant, and she has not said no.",
-      knowers: ["lore-disclosure/game-master", "character-player/hollowmere-nala"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-lin",
+      ],
     },
     {
       fact: "Lin's mother writes each Monday in Cantonese, and this week asks if Lin has told the academy yet.",
@@ -367,6 +371,55 @@ export const hollowmereLin = {
         "lore-disclosure/game-master",
         "character-other/hollowmere-lin",
         "character-player/hollowmere-nala",
+      ],
+    },
+    {
+      fact: "Lin told Nala she wants to stay at Hollowmere: to draw, to finish, to be here, with Nala.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/hollowmere-lin",
+        "character-player/hollowmere-nala",
+      ],
+    },
+    {
+      fact: "Lin's father's back is bad and her sister works in London; Lin is the one meant to stay home.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/hollowmere-lin",
+        "character-player/hollowmere-nala",
+      ],
+    },
+    {
+      fact: "Lin showed Nala her nine life drawings of her; in the last, Nala looks straight out at Lin.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/hollowmere-lin",
+        "character-player/hollowmere-nala",
+      ],
+    },
+    {
+      fact: "Lin drew Nala nude on her window seat for an hour, and pinned it over her bed, in the centre.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/hollowmere-lin",
+        "character-player/hollowmere-nala",
+      ],
+    },
+    {
+      fact: "Lin kissed Nala, nude on the window seat, and said she wants to: soon, when she's not crying.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/hollowmere-lin",
+        "character-player/hollowmere-nala",
+      ],
+    },
+    {
+      fact: "Lin wrote her mother in pencil, I want to stay, and read it unsent to Nala and Bea in 15.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/hollowmere-lin",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-bea",
       ],
     },
   ],

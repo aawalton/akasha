@@ -275,5 +275,17 @@ export const hollowmereNala2 = {
         "character-other/hollowmere-shiv",
       ],
     },
+    {
+      fact: "Nala ran the shore with Bea twenty minutes at her pace; Bea whooped, and made her run the end again.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-bea",
+      ],
+    },
+    {
+      fact: "Nala's first ward went round her flame like a soap bubble, and held it through the draught.",
+      knowers: ["lore-disclosure/game-master", "character-player/hollowmere-nala"],
+    },
   ],
 } as const satisfies Lore

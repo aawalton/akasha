@@ -255,5 +255,24 @@ export const hollowmereAmara = {
         "character-other/hollowmere-amara",
       ],
     },
+    {
+      fact: "Seeing Kit's still ward, Amara saw why Kit hid at the end bench, and told her: That's brave.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/hollowmere-amara",
+        "character-other/hollowmere-kit",
+        "character-player/hollowmere-nala",
+      ],
+    },
+    {
+      fact: "Amara held Priya's hand under the bench at charmcraft, in the basement among the clockwork.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/hollowmere-amara",
+        "character-other/hollowmere-priya",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-bea",
+      ],
+    },
   ],
 } as const satisfies Lore
