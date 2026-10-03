@@ -52,6 +52,10 @@ export const overwhereIiiMotherSallow = {
       fact: "She is a real foe for Nala, beatable at Level 1 with Mana Weaver, but only by a hard fight.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "To a stranger at her clearing she plays the kind old charcoal-burner and offers nettle tea.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
