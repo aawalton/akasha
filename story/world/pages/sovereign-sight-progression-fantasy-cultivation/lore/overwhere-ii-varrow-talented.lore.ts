@@ -175,5 +175,9 @@ export const overwhereIiVarrowTalented = {
       fact: "In Nala's fourth bout, Corra's spark ran up her tide, numbed her hand, and Corra touched her ribs.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
+    {
+      fact: "At Callow Beck, Hawise draws her two steel short blades and leaves the call to Nala, the free blade.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+    },
   ],
 } as const satisfies Lore

@@ -185,7 +185,7 @@ export const overwhereIiLadyImreVarrow = {
     },
     {
       fact: "Lady Varrow sends Hawise with Nala on the first summons, and pays the bar when Nala returns.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "She asks to look at Nala through her glass from the Spires, and does not say what she hopes to see.",

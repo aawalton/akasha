@@ -128,5 +128,9 @@ export const overwhereIiCallowBeck = {
       fact: "Six Warped sheep roam the black slick, grey-scaled and coral-horned, heads low.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
+    {
+      fact: "Ebba has heard Nala is now the Lady's free blade, and greets her so through the shutter.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+    },
   ],
 } as const satisfies Place
