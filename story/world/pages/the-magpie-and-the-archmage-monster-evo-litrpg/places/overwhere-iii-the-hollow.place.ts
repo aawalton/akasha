@@ -20,7 +20,7 @@ export const overwhereIiiTheHollow = {
     },
     {
       fact: "A stone door carved with an old Guild seal closes it; the Guild sealed it a century ago.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-marda-hesk"],
     },
     {
       fact: "Merrowgate folk say the Hollow ran dry of monsters and was shut; few have seen it since.",
