@@ -10,7 +10,7 @@ export const overwhereIWendlow2 = {
   facts: [
     {
       fact: "For blades and bows Grete names Wil Harrow, smith on Anvil Lane, who buys fair.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
     {
       fact: "For pelts and monster parts Grete says the guild counting-house pays least, and Mother Sallow more.",
