@@ -58,7 +58,7 @@ export const overwhereIiVarrowKeep = {
     },
     {
       fact: "The lower court is flagged stone, frosted at dawn, with a water trough by the stable.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Rainwater lies in hollows of the worn flags around the lower court's well.",
