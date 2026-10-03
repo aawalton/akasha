@@ -288,5 +288,9 @@ export const overwhereIWendlow2 = {
       fact: "At the Bell and Barrel a hot bath costs 3 copper more than the silver for bed and supper.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Bram Cooley, big and red-faced, keeps the Bell and Barrel; his wife Nell runs the bathhouse.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
