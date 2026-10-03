@@ -10,7 +10,7 @@ export const overwhereIi00101 = {
   position: 101,
   prose: "txt",
   characters: ["character-player/overwhere-ii-nala"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/recorders",
   action:
     "“Get down with your boys, Hawise and I will handle this, but thank you for the suggestion. Hawise, can you build a bank while I hold back the black?”",
   beats: [
@@ -37,6 +37,6 @@ export const overwhereIi00101 = {
     "lore/overwhere-ii-nala-3",
     "place/overwhere-ii-callow-beck",
   ],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
   endsAt: "2026-10-25T18:30:00.000Z",
 } as const satisfies StoryTurnPlayed
