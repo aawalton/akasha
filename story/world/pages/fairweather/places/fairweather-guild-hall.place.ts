@@ -59,7 +59,7 @@ export const fairweatherGuildHall = {
       ],
     },
     {
-      fact: "The guildmaster is a retired A-rank swordswoman in her fifties, with an office up the stairs.",
+      fact: "The guildmaster is a retired A-rank swordswoman, Chinese, in her fifties, with an office upstairs.",
       knowers: [
         "lore-disclosure/game-master",
         "character-other/fairweather-cora",
