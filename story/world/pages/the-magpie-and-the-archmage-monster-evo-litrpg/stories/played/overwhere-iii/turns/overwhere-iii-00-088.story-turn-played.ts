@@ -10,4 +10,5 @@ export const overwhereIii00088 = {
   stepStatus: "step-status/game-master",
   action: "“Thanks, happy to save the coin.” I get dinner, then an early bed.",
   lore: ["place/overwhere-iii-merrowgate-guild-post"],
+  endsAt: "2026-10-09T06:00:00.000Z",
 } as const satisfies StoryTurnPlayed
