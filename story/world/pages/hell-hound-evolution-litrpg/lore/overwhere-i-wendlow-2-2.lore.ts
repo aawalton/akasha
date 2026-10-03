@@ -114,7 +114,7 @@ export const overwhereIWendlow22 = {
     },
     {
       fact: "Bell and Barrel supper on day 8 is eel stew, black bread and small beer.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
     {
       fact: "The rider brings two slips; the reeve's 8 gold for why Greyfen crystals went dark still stands too.",
