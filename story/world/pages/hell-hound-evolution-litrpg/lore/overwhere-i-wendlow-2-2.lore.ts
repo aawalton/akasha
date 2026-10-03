@@ -100,5 +100,9 @@ export const overwhereIWendlow22 = {
       fact: "With the Board's share comes a note: Magistrate Varne asks Nala Arthur to the Moot Hall at noon.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "At supper Nell Cooley eyes Nala's ragged cloak hem and offers to stitch it, 2 copper a tear.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
