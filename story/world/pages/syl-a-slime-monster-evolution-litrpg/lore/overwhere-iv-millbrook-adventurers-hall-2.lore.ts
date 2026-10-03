@@ -328,5 +328,53 @@ export const overwhereIvMillbrookAdventurersHall2 = {
       fact: "Ilsa scolds Nala for going a mile past the cleft alone, then writes the watchers in her ledger.",
       knowers: ["lore-disclosure/game-master", "character-other/overwhere-iv-ilsa-crane"],
     },
+    {
+      fact: "On day 9 Ilsa paid Nala a silver an ear and 8 copper a core for eight goblins past the cleft.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/overwhere-iv-ilsa-crane",
+        "character-player/overwhere-iv-nala",
+      ],
+    },
+    {
+      fact: "Ilsa told Nala the axes mean Grakk is walling his camp in, to stay and grow.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/overwhere-iv-ilsa-crane",
+        "character-player/overwhere-iv-nala",
+      ],
+    },
+    {
+      fact: "Ilsa told Nala she'll ask Aubrin for a band to clear the camp; Grakk's head is still 3 gold.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/overwhere-iv-ilsa-crane",
+        "character-player/overwhere-iv-nala",
+      ],
+    },
+    {
+      fact: "Ilsa scolded Nala for going a mile past the cleft alone, and wrote the watchers in her ledger.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/overwhere-iv-ilsa-crane",
+        "character-player/overwhere-iv-nala",
+      ],
+    },
+    {
+      fact: "At midday on day 9 the Four are abed after the night's watch; the hall holds only Ilsa.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/overwhere-iv-ilsa-crane",
+        "character-player/overwhere-iv-nala",
+      ],
+    },
+    {
+      fact: "The night-watch notice still stands on day 9; Tull's farm wants a watcher again tonight.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/overwhere-iv-ilsa-crane",
+        "character-player/overwhere-iv-nala",
+      ],
+    },
   ],
 } as const satisfies Lore
