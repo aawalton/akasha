@@ -110,7 +110,7 @@ export const overwhereIiiCleansingWeave = {
     },
     {
       fact: "Blight in a fresh carcass pulls out like a bite's and clots into a seed stone.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
   ],
 } as const satisfies Lore
