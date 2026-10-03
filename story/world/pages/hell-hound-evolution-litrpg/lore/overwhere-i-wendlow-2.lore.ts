@@ -340,5 +340,9 @@ export const overwhereIWendlow2 = {
       fact: "Grete hangs the wyrm's fangs on a nail beside Voss's head and wipes the wyrm off the Board.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Asked nothing, Grete says only that the letter went to the magistrate yesterday, and no more of it.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
