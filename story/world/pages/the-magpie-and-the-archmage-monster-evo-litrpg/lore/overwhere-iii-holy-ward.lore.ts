@@ -10,7 +10,7 @@ export const overwhereIiiHolyWard = {
   facts: [
     {
       fact: "Practicing at the shrine, the first new shape white-gold takes for her is a close ward.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
     {
       fact: "Finding a new weave in an afternoon's practice is a standard action check.",
