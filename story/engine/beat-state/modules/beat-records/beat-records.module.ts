@@ -36,5 +36,9 @@ export const beatRecords = {
       decisionKind: "decision-kind/departure",
       statement: "Writing a file back and reading it again gives the same beats.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Beats joined end to end are numbered on from the beats before them.",
+    },
   ],
 } as const satisfies Module

@@ -114,6 +114,31 @@ export function beatsIn(text: string): Beats | Refused {
   return pictured.length === 0 ? held : { ...held, pictured }
 }
 
+function moved<Held extends { readonly beat: number }>(
+  each: readonly Held[],
+  past: number
+): readonly Held[] {
+  return each.map((one) => ({ ...one, beat: one.beat + past }))
+}
+
+export function beatsJoined(each: readonly Beats[]): Beats {
+  const beats: string[] = []
+  const scenes: BeatScene[] = []
+  const changes: BeatChange[] = []
+  const memory: Memory[] = []
+  const pictured: Pictured[] = []
+  for (const one of each) {
+    const past = beats.length
+    beats.push(...one.beats)
+    scenes.push(...moved(one.scenes, past))
+    changes.push(...moved(one.changes, past))
+    memory.push(...moved(one.memory, past))
+    pictured.push(...moved(one.pictured ?? [], past))
+  }
+  const held = { beats, scenes, changes, memory }
+  return pictured.length === 0 ? held : { ...held, pictured }
+}
+
 function unbeaten(one: Entry): Entry {
   return Object.fromEntries(Object.entries(one).filter(([key]) => key !== BEAT))
 }

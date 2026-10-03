@@ -2,6 +2,7 @@ import { expect, test } from "bun:test"
 import {
   type Beats,
   beatsIn,
+  beatsJoined,
   beatsWritten,
 } from "akasha/story/engine/beat-state/modules/beat-records/beat-records.module.code.ts"
 
@@ -52,6 +53,19 @@ test("a picture sits on the line of the beat it shows, and reads back", () => {
 test("a part a beat has none of is left off its line", () => {
   const plain = { beats: ["A plain beat."], scenes: [], changes: [], memory: [] }
   expect(beatsWritten(plain)).toBe(`${JSON.stringify({ beat: 1, event: "A plain beat." })}\n`)
+})
+
+test("beats joined end to end are numbered on from the beats before them", () => {
+  const picture = { beat: 1, cover: "image/image-a", coverAfter: "Mara", setting: "the attic" }
+  const later: Beats = { ...HELD, pictured: [picture] }
+  const joined = beatsJoined([HELD, later])
+  expect(joined.beats).toEqual([...HELD.beats, ...HELD.beats])
+  expect(joined.scenes.map((one) => one.beat)).toEqual([1, 2, 3, 4])
+  expect(joined.changes.map((one) => one.beat)).toEqual([2, 4])
+  expect(joined.memory.map((one) => one.beat)).toEqual([1, 3])
+  expect(joined.pictured).toEqual([{ ...picture, beat: 3 }])
+  expect(beatsIn(beatsWritten(joined))).toEqual(joined)
+  expect(beatsJoined([HELD])).toEqual(HELD)
 })
 
 test("a line out of order, or a part shaped wrong, refuses the whole file", () => {
