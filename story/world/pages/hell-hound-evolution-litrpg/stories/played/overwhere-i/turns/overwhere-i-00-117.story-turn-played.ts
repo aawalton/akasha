@@ -7,7 +7,7 @@ export const overwhereI00117 = {
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-i"],
   position: 117,
-  stepStatus: "step-status/mechanics",
+  stepStatus: "step-status/writer",
   action:
     "I spend the time I have before I need to leave using the weave i found to finish mending my cloak and clothes, then go to see the magistrate.",
   beats: "jsonl",
@@ -20,6 +20,6 @@ export const overwhereI00117 = {
     "lore/overwhere-i-wendlow-3",
     "place/overwhere-i-wendlow",
   ],
-  recordedBy: ["story-recorder/mechanics", "story-recorder/inventory"],
+  recordedBy: ["story-recorder/mechanics", "story-recorder/inventory", "story-recorder/plan"],
   endsAt: "2026-10-07T12:15:00.000Z",
 } as const satisfies StoryTurnPlayed
