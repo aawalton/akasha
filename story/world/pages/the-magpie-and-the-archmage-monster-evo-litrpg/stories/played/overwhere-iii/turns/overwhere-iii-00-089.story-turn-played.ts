@@ -4,6 +4,7 @@ export const overwhereIii00089 = {
   id: "01a10184-cbb1-794d-895e-b1aada24122a",
   type: "page-type/story-turn-played",
   slug: "overwhere-iii-00-089",
+  cover: "image/image-e84c055128cbd290",
   ownLength: 202,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iii"],
@@ -43,6 +44,7 @@ export const overwhereIii00089 = {
     "lore/overwhere-iii-nala-2-2",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/memory"],
+  recordedBy: ["story-recorder/inventory", "story-recorder/memory", "story-recorder/picture"],
   endsAt: "2026-10-09T11:40:00.000Z",
+  coverAfter: "They spread out low around you, one on each side and one ahead.",
 } as const satisfies StoryTurnPlayed
