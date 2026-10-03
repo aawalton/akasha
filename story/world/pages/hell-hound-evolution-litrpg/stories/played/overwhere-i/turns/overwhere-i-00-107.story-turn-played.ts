@@ -10,7 +10,7 @@ export const overwhereI00107 = {
   position: 107,
   prose: "txt",
   characters: ["character-player/overwhere-i-nala"],
-  stepStatus: "step-status/game-master",
+  stepStatus: "step-status/writer",
   action:
     "“Deal! How do I find the bile sac?” After getting instructions I go to the inn for a bath, a meal, and an early bed.",
   beats: [
@@ -26,7 +26,8 @@ export const overwhereI00107 = {
     "The taproom talks of a lone woman hunter who ended Voss's crew. The talk flows past Nala's table.",
     "Two bargemen grumble that the Weir Wyrm took a bowman off a barge below Hobb's weir two days ago.",
     "Nala climbs to a clean room, shoots the bolt, and sleeps early and deep.",
-    "She wakes rested at first light on day eight, mouth dry, and swings her feet onto cold boards.",
+    "She wakes rested at first light on day eight, mouth dry.",
+    'Nell raps on the door. "Porridge and small beer downstairs, miss, while the pot\'s hot."',
   ],
   issues: ['"You swing your feet out onto the cold boards." - Leave It Open'],
   lore: ["lore/overwhere-i-nala", "lore/overwhere-i-nala-2", "lore/overwhere-i-wendlow-2"],
