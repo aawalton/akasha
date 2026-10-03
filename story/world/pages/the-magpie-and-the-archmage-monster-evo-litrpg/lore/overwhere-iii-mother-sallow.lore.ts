@@ -72,6 +72,10 @@ export const overwhereIiiMotherSallow = {
         "character-other/overwhere-iii-mother-sallow",
       ],
     },
+    {
+      fact: "Unwarned and trusting her charm, she has no shield up; a first strike lands on her unwarded.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
