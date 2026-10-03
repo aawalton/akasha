@@ -5,7 +5,7 @@ export const hollowmere0016WhoseWanting = {
   type: "page-type/story-chapter-written",
   slug: "hollowmere-0016-whose-wanting",
   cover: "image/image-b22c5fa022c5091b",
-  ownProgress: 2352,
+  ownProgress: 2541,
   position: 16,
   unit: "unit/words",
   title: "Whose Wanting?",
