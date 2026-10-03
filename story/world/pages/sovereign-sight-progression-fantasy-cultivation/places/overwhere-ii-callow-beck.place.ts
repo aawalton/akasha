@@ -134,7 +134,7 @@ export const overwhereIiCallowBeck = {
     },
     {
       fact: "The Warped ewes charge together like a flock, heads low, and scatter when one falls.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Scattered, the Warped ewes circle back to the slick, and charge again from it.",
