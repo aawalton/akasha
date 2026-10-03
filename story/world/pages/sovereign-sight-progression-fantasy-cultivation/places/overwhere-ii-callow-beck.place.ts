@@ -154,7 +154,7 @@ export const overwhereIiCallowBeck = {
     },
     {
       fact: "Pushing the slick is plain towing work, and wears Nala's mind no more than towing does.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Once Nala lets go, the slick creeps back down at its old few paces a day, unless something holds it.",
