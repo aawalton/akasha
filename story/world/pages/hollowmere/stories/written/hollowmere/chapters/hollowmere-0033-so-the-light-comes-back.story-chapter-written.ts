@@ -4,13 +4,14 @@ export const hollowmere0033SoTheLightComesBack = {
   id: "01a1021d-8de6-70cf-aff1-59834d42f60b",
   type: "page-type/story-chapter-written",
   slug: "hollowmere-0033-so-the-light-comes-back",
+  cover: "image/image-05a4c4ea4daceeff",
   position: 33,
   unit: "unit/words",
   title: "So the Light Comes Back",
   story: "story-written/hollowmere",
   ownLength: 3077,
   prose: "txt",
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   beats: [
     'Friday of week five: Bea is up before light, pacing 15 in her socks. "Tomorrow," she says.',
     "You catch her by the wrists and sit her on the bed and make her breathe out. She laughs, shaky.",
@@ -107,5 +108,23 @@ export const hollowmere0033SoTheLightComesBack = {
     "character-other/hollowmere-priya",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/mechanics", "story-recorder/inventory", "story-recorder/memory"],
+  recordedBy: [
+    "story-recorder/mechanics",
+    "story-recorder/inventory",
+    "story-recorder/memory",
+    "story-recorder/picture",
+  ],
+  scenes: ["image/image-05a4c4ea4daceeff", "image/image-1efe9846b155fee3"],
+  pictured: [
+    {
+      cover: "image/image-05a4c4ea4daceeff",
+      coverAfter: "Six tables. Candles in bottles, the wax running down them in thick",
+      setting: "Gianni's",
+    },
+    {
+      cover: "image/image-1efe9846b155fee3",
+      coverAfter: "The door is shut. The lamp over it lit. She stands on the",
+      setting: "Ashcombe's step",
+    },
+  ],
 } as const satisfies StoryChapterWritten
