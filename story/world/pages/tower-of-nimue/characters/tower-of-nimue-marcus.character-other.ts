@@ -7,4 +7,5 @@ export const towerOfNimueMarcus = {
   title: "Marcus",
   world: "world/tower-of-nimue",
   story: "story-written/tower-of-nimue",
+  place: "place/tower-of-nimue-st-brigids",
 } as const satisfies CharacterOther
