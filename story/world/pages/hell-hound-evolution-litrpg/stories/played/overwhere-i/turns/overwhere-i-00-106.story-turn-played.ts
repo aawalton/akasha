@@ -11,4 +11,5 @@ export const overwhereI00106 = {
   action:
     "“Great! I’ll be back.” Then I go to the other two stores to sell the sword, crossbow, and grubboar tusks.",
   lore: ["lore/overwhere-i-wendlow-2"],
+  endsAt: "2026-10-05T13:45:00.000Z",
 } as const satisfies StoryTurnPlayed
