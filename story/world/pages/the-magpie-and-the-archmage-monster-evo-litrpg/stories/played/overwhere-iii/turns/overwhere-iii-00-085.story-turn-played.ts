@@ -7,7 +7,8 @@ export const overwhereIii00085 = {
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iii"],
   position: 85,
-  stepStatus: "step-status/world-builder",
+  stepStatus: "step-status/game-master",
   action:
     "“Whose house was that and how long have you known them? There was a woman there who commanded the wolves, but she was corrupted. When I confronted her, her face changed.”",
+  lore: ["lore/overwhere-iii-edda-crane"],
 } as const satisfies StoryTurnPlayed
