@@ -260,5 +260,29 @@ export const overwhereIvMillbrookAdventurersHall2 = {
       fact: "Ilsa counts the strike broken as a major job, like a camp cleared, and writes Nala's silver letter.",
       knowers: ["lore-disclosure/game-master", "character-other/overwhere-iv-ilsa-crane"],
     },
+    {
+      fact: "On day 9 Ilsa paid Nala 10 silver for two hobgoblins, 3 for her watch and a gold for the strike.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iv-nala",
+        "character-other/overwhere-iv-ilsa-crane",
+      ],
+    },
+    {
+      fact: "Ilsa wrote Nala's silver letter on day 9, for Grakk's strike broken at Tull's.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iv-nala",
+        "character-other/overwhere-iv-ilsa-crane",
+      ],
+    },
+    {
+      fact: "Ilsa said the six goblins dead in the cleft fetch a silver an ear, if anyone goes back for them.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iv-nala",
+        "character-other/overwhere-iv-ilsa-crane",
+      ],
+    },
   ],
 } as const satisfies Lore
