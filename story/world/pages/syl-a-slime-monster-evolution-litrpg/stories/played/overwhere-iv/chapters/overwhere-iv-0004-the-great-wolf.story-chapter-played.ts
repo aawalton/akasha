@@ -10,6 +10,7 @@ export const overwhereIv0004TheGreatWolf = {
   story: "story-played/overwhere-iv",
   ownLength: 5844,
   prose: "txt",
+  beats: "jsonl",
   turnCovers: [
     {
       position: 39,
