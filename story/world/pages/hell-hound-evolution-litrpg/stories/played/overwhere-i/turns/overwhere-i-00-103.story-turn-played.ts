@@ -10,7 +10,7 @@ export const overwhereI00103 = {
   position: 103,
   prose: "txt",
   characters: ["character-player/overwhere-i-nala", "character-other/overwhere-i-ghost-eye"],
-  stepStatus: "step-status/game-master",
+  stepStatus: "step-status/writer",
   action:
     "“Great!” I hand over Ghost Eye’s ears to go with the head, as well as the crew ears and tags, the sallow hythe tin token, and the sealed letter, then go find Ilse for the focus.",
   beats: [
@@ -29,7 +29,7 @@ export const overwhereI00103 = {
     "Ilse Varrow is small and sharp, about fifty, ink on her fingers, spectacles on a cord.",
     "Nala sets the drake-pearl down; Ilse lifts her spectacles and peers at it.",
     '"A ring: three gold, three days, reach to fifty yards. A rod: four gold, four days, sixty yards."',
-    '"A rod fills one hand while you hold it. The pearl favours no element; it lengthens them all."',
+    '"A rod fills one hand while you hold it. The pearl treats every element alike, lengthens all."',
     '"Half before I start. Once it\'s set, it belongs to the focus for good, past drawing on or selling."',
     'Ilse holds out her palm for the pearl. "Ring or rod?"',
   ],
