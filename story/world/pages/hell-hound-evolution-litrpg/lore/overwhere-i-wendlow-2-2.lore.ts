@@ -16,5 +16,9 @@ export const overwhereIWendlow22 = {
       fact: "Ending the Weir Wyrm frees Wendlow's river trade; the town's regard for Nala rises to 4.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "No new contract is posted on day 8; Grete expects fresh slips with the tax rider on day 9.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
