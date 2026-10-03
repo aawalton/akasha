@@ -91,5 +91,9 @@ export const overwhereIHobbsMillWeir = {
       fact: "Day 8 dawns clear and warm, with a light west wind and the sun on the weir by mid-morning.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Near 9:00 on day 8 the wyrm lies sunk under the barge, fed at dawn; nothing of it shows on top.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Place
