@@ -1,0 +1,57 @@
+{"beat":1,"event":"Wren wakes on Day 28 to Brecca repointing the low retaining wall around the threshold stone.","at":"2026-08-28T05:45:00.000Z","place":"place/the-places-she-carries-varethen","present":["character-player/the-places-she-carries-wren","character-other/the-places-she-carries-brecca"]}
+{"beat":2,"event":"Brecca's hands pause longer on each joint now, practicing toward a standard from the ridge."}
+{"beat":3,"event":"She does not announce it or explain it. She works."}
+{"beat":4,"event":"At the dawn vibration the bond returns as the full three-node chord after two days of thread.","at":"2026-08-28T06:00:00.000Z"}
+{"beat":5,"event":"She rereads three pages of expedition survey notes written the night before."}
+{"beat":6,"event":"She starts a return expedition plan: structures, notation, junctions, the well, the ring."}
+{"beat":7,"event":"She stops, hearing her mother: without turning it into a project."}
+{"beat":8,"event":"The plan has no line for Theron's silence or Brecca's reverence or the taste of the water."}
+{"beat":9,"event":"The plan is necessary and insufficient; she closes the journal and sits with the stone."}
+{"beat":10,"event":"The morning passes in rhythm: Brecca between the retaining wall and the hall's west face.","at":"2026-08-28T09:00:00.000Z","leave":["character-other/the-places-she-carries-brecca"]}
+{"beat":11,"event":"At midday Wren finds Theron studying the terrain past the channel's south end.","at":"2026-08-28T12:00:00.000Z","arrive":["character-other/the-places-she-carries-theron"]}
+{"beat":12,"event":"'The gradient continues': a faint depression runs south toward the perimeter."}
+{"beat":13,"event":"'I want to clear what is already there. This is not maintenance. This is recovery.'"}
+{"beat":14,"event":"Wren tells him the southern drainage was a network. 'Yes. I know.'"}
+{"beat":15,"event":"One channel was one sentence; Theron is learning to read the paragraph. He starts clearing."}
+{"beat":16,"event":"At mid-afternoon Wren sits at the threshold stone, its signature resolving through Journeyman eyes.","at":"2026-08-28T15:00:00.000Z","leave":["character-other/the-places-she-carries-theron"]}
+{"beat":17,"event":"She lays Detail Notation on the east face; the mark sinks and merges with the signature."}
+{"beat":18,"event":"The twelve bands resolve into composition: iron-rich, silica-dense, calcite-threaded."}
+{"beat":19,"event":"The stone is a geological journal, each band a period of the formation's history."}
+{"beat":20,"event":"In the seventh, iron-richest band she feels the southern foundation's quality: intention."}
+{"beat":21,"event":"Someone once deepened that one band with a single touch, centuries ago."}
+{"beat":22,"event":"A discovery logs band 7's trace reinforcement: +55 XP, Surveying to 65.","changes":[{"page":"metric-character-experience/the-places-she-carries-wren","key":"value","from":1834,"to":1889,"note":"Discovery: threshold stone band 7 carries the southern reinforcement"}]}
+{"beat":23,"event":"'The thread connects': the tradition is older than the masons who dressed this stone."}
+{"beat":24,"event":"Not an answer, a thread, running between the places through stone and hands."}
+{"beat":25,"event":"Brecca finds her: 'You are doing the face again.' 'Discovery.'","arrive":["character-other/the-places-she-carries-brecca"]}
+{"beat":26,"event":"Wren explains plainly: twelve bands, one like the southern foundations. Someone touched it."}
+{"beat":27,"event":"Brecca lays her hand on the seventh band: 'Show me.'"}
+{"beat":28,"event":"Wren marks the band with Detail Notation; the surface shimmers faintly."}
+{"beat":29,"event":"'The stone is warmer there. Like someone held their hand here a very long time.'"}
+{"beat":30,"event":"'That is what I feel too,' Wren says."}
+{"beat":31,"event":"Brecca declares she will keep repointing all of it, where she meets the tradition."}
+{"beat":32,"event":"She goes back to the gathering hall; Wren watches her go.","leave":["character-other/the-places-she-carries-brecca"]}
+{"beat":33,"event":"At the evening fire Wren writes to her mother on her good paper.","at":"2026-08-28T19:30:00.000Z"}
+{"beat":34,"event":"Theron digs the drainage south in the tree line; Brecca has circled the whole hall in a day."}
+{"beat":35,"event":"The three-person fire is quieter; they wait for Hadley without saying so."}
+{"beat":36,"event":"She tells Dad the six-degree gradient works here."}
+{"beat":37,"event":"She writes of the ruined town south, and of Brecca, who does not know she is remarkable."}
+{"beat":38,"event":"'I should have sent a sentence. I am learning.' She writes of Theron, who just clears."}
+{"beat":39,"event":"She is trying not to make people a project; the rosemary still smells, fainter."}
+{"beat":40,"event":"She writes of stones made more than stone, and that she is learning to sit with questions."}
+{"beat":41,"event":"'Tell Dad: the map is bigger than he thinks. -- W.' She folds it into her journal for Hadley."}
+{"beat":42,"event":"Hadley arrives mid-morning on Day 29, alone, narrating the trail, carrying fresh supplies.","at":"2026-08-29T10:00:00.000Z","arrive":["character-other/the-places-she-carries-hadley"]}
+{"beat":43,"event":"'Maret is coming. Not today. She said three days. She has things to bring.'"}
+{"beat":44,"event":"Maret questioned him two hours: the stone, the pulse, the drainage, Brecca, Wren."}
+{"beat":45,"event":"Her message: 'I am bringing what she needs. She does not know she needs it yet.'"}
+{"beat":46,"event":"Told of the southern settlement, Maret went quiet and said: 'They found it.'"}
+{"beat":47,"event":"Hadley thinks she has been waiting a long time for someone to find it."}
+{"beat":48,"event":"Maret arrives Day 32, four days before the pulse. 'She is cutting it close.'"}
+{"beat":49,"event":"'She is cutting it exactly where she means to,' Hadley says."}
+{"beat":50,"event":"The evening fire is four again; Hadley cooks dried fish, foraged greens and salt.","at":"2026-08-29T19:00:00.000Z","arrive":["character-other/the-places-she-carries-brecca","character-other/the-places-she-carries-theron"]}
+{"beat":51,"event":"Wren gives Hadley the letter for her mother; he tucks it in his own journal unasked."}
+{"beat":52,"event":"Brecca found thumb-impressions pressed in a repeating sequence into the retaining wall's clay."}
+{"beat":53,"event":"'Like the niche. Hidden until you do the work.' 'Except this has someone's thumbs in it.'"}
+{"beat":54,"event":"Theron looks at his own hands: the mason was his grandmother's mother."}
+{"beat":55,"event":"The extended channel carries a thin trickle south; the settlement holds and grows."}
+{"beat":56,"event":"She journals 'Day 29. Eleven. Hadley returned. Maret coming Day 32.' Not the pulse, seven days off."}
+{"beat":57,"event":"The count climbs; to the south, through the limestone, the thread holds."}
