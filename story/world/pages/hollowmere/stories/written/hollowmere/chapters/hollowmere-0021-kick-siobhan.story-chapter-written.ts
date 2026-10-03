@@ -10,7 +10,7 @@ export const hollowmere0021KickSiobhan = {
   story: "story-written/hollowmere",
   ownLength: 2724,
   prose: "txt",
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/game-master",
   beats: [
     "Sunday: you wake before dawn in Bea's bed in 15, her bare arm over you, her face in your hair.",
     'You ease out from under her arm; she stirs. "Rock?" she mumbles. "Sunday. Go on. Shiv\'s waiting."',
@@ -66,6 +66,9 @@ export const hollowmere0021KickSiobhan = {
     "You fall asleep in 15 with Bea warm at your back and the Pogues still going round in your head.",
     "A day at Hollowmere ends.",
   ],
+  issues: [
+    '"she\'s in her swimsuit underneath" - Shiv swims naked off her rock, only a hoodie under the parka',
+  ],
   lore: [
     "lore/hollowmere-amara",
     "lore/hollowmere-bea",
@@ -87,5 +90,5 @@ export const hollowmere0021KickSiobhan = {
     "character-other/hollowmere-priya",
     "character-other/hollowmere-amara",
   ],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
 } as const satisfies StoryChapterWritten
