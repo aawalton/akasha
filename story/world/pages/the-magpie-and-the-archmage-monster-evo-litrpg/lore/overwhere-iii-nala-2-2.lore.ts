@@ -108,5 +108,9 @@ export const overwhereIiiNala22 = {
       fact: "Nala holds five glimmerstones in her Inventory: her three, the shrine-pressed one, the wolf's.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
+    {
+      fact: "Nala pocketed the deer's seed stone and followed the wolf up the Wren Brook, her braid ready.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+    },
   ],
 } as const satisfies Lore
