@@ -223,7 +223,7 @@ export const overwhereIiiCorruption2 = {
     },
     {
       fact: "By day the blighted boar lies up in a bramble wallow a furlong above the Wren Brook ford.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
     {
       fact: "The boar killed whole leaves a blightstone that cracks into one glimmerstone.",
