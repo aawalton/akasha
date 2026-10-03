@@ -105,7 +105,7 @@ export const overwhereIiMaudAshby = {
     },
     {
       fact: "Maud then asks Nala plainly where she came from, and where she first woke.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Maud rode up the valley after Anselm's letters, to take Nala's measure for herself.",
