@@ -4,6 +4,7 @@ export const overwhereIi00112 = {
   id: "01a101e5-37bf-759a-a0cd-39b78de752b8",
   type: "page-type/story-turn-played",
   slug: "overwhere-ii-00-112",
+  cover: "image/image-6ffd1997cbde8b39",
   ownLength: 298,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-ii"],
@@ -47,6 +48,7 @@ export const overwhereIi00112 = {
     "place/overwhere-ii-tarrant-smithy",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/memory"],
+  recordedBy: ["story-recorder/inventory", "story-recorder/memory", "story-recorder/picture"],
   endsAt: "2026-10-27T12:00:00.000Z",
+  coverAfter: "You kneel at the bank and begin to part the black, a cupful",
 } as const satisfies StoryTurnPlayed
