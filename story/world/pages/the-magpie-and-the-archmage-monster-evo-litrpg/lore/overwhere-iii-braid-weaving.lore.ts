@@ -72,5 +72,9 @@ export const overwhereIiiBraidWeaving = {
       fact: "Swept across several, the pull strand draws one pull's worth from each, not the pinned double.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "A sweeping braid costs both weaves' mana once, however many it strikes.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
