@@ -1,7 +1,7 @@
 {"beat":1,"event":"The middle stair climbs and turns, and somewhere on it the air grows cool and smells of wax."}
 {"beat":2,"event":"Near the top you find you are dressed: black evening clothes, fitted, and a mask over your eyes."}
 {"beat":3,"event":"A plain black half-mask; you pull at it and it will not come off, as if it grew there."}
-{"beat":4,"event":"You step out into candlelight; at that moment a woman steps out of the stair beside yours."}
+{"beat":4,"event":"You step out into candlelight; at that moment a woman steps out of the stair beside yours.","place":"place/climb-floor-2","present":["character-player/climb-alan","character-other/climb-mina"]}
 {"beat":5,"event":"The two stairways end side by side, and you stand in a ballroom together."}
 {"beat":6,"event":"Mirrored walls, gilt, deep red velvet; crystal chandeliers burning with real candles."}
 {"beat":7,"event":"The mirrors throw the candlelight back a hundredfold, and a hundred of you two look back."}
@@ -11,7 +11,7 @@
 {"beat":11,"event":"She wears a dark red silk halter gown, and a gold filigree half-mask over her eyes."}
 {"beat":12,"event":"She tries her mask with two fingers, precise, then harder; it will not move either."}
 {"beat":13,"event":"She says, composed and cool, that she supposes this is the next floor."}
-{"beat":14,"event":"She is Mina, a cellist with an orchestra in Vienna; she was packing her cello case after rehearsal.","pictured":[{"cover":"image/image-9d40b6ffd0d47327","coverAfter":"She's slender and willowy, her skin a smooth pale gold, her arms","character":"character-other/climb-mina","outfit":"dark red silk halter gown, gold filigree half-mask"}]}
+{"beat":14,"event":"She is Mina, a cellist with an orchestra in Vienna; she was packing her cello case after rehearsal.","memory":[{"page":"lore/climb-mina","fact":"Mina plays cello with an orchestra in Vienna.","learns":"character-player/climb-alan"}],"pictured":[{"cover":"image/image-9d40b6ffd0d47327","coverAfter":"She's slender and willowy, her skin a smooth pale gold, her arms","character":"character-other/climb-mina","outfit":"dark red silk halter gown, gold filigree half-mask"}]}
 {"beat":15,"event":"She woke on a floor of her own, a library, and met its task with two other women."}
 {"beat":16,"event":"You tell her about the bathhouse, and Clara and Ines; she listens with her head turned slightly."}
 {"beat":17,"event":"You notice she always turns her right side toward you when you speak."}
@@ -76,17 +76,17 @@
 {"beat":76,"event":"You come inside her, deep, pulse after pulse, and she lets go at the same moment."}
 {"beat":77,"event":"She comes in long rolling waves, crying out high and helpless, her wrists straining under your hand."}
 {"beat":78,"event":"Her cunt clenches and clenches on your cock, wave after wave, milking every pulse out of you."}
-{"beat":79,"event":"At the same instant the gilded doors behind the dais swing open, and the waltz stops."}
+{"beat":79,"event":"At the same instant the gilded doors behind the dais swing open, and the waltz stops.","changes":[{"page":"climb-floor/climb-floor-2","key":"status","from":"active","to":"complete","note":"Floor 2's task is met, and its gilded doors open"}]}
 {"beat":80,"event":"Her mask falls loose onto the velvet; yours drops from your face onto her chest.","pictured":[{"cover":"image/image-a8949fc4122a5997","coverAfter":"She comes in long rolling waves, crying out high and helpless, her","character":"character-other/climb-mina","outfit":"naked but for a gold filigree half-mask"}]}
 {"beat":81,"event":"For the first time you see her whole face: dark eyes wet, full mouth open, her fringe damp."}
 {"beat":82,"event":"You let go of her wrists; she does not move them for a long moment."}
 {"beat":83,"event":"She laughs, breathless, then puts her hand over her face, then takes it away and looks at you."}
-{"beat":84,"event":"She says, very quietly, that her left ear is going; it has been fading for a year."}
+{"beat":84,"event":"She says, very quietly, that her left ear is going; it has been fading for a year.","memory":[{"page":"lore/climb-mina","fact":"Mina's left ear has been fading for a year.","learns":"character-player/climb-alan"}]}
 {"beat":85,"event":"She says she has told nobody, not her orchestra, nobody; she does not know why she told you."}
 {"beat":86,"event":"You say nothing; she nods, as if that was the right thing to say."}
 {"beat":87,"event":"She dresses in the red silk again, ties the halter, and smooths her fringe in the mirror."}
 {"beat":88,"event":"Behind the gilded doors two stairways rise, side by side and then apart.","pictured":[{"cover":"image/image-1142a0f432536f35","coverAfter":"She gets up and dresses in the red silk again, ties the","character":"character-other/climb-mina","outfit":"naked"}]}
 {"beat":89,"event":"She stops at the dais and touches the cello's neck once, lightly, then lets it be."}
 {"beat":90,"event":"She kisses you, slow and precise, and tells you good luck in Korean, then in English."}
-{"beat":91,"event":"She takes the left stair without looking back, her back very straight."}
+{"beat":91,"event":"She takes the left stair without looking back, her back very straight.","leave":["character-other/climb-mina"]}
 {"beat":92,"event":"You dress again in the black evening clothes, take the right stair alone, and climb."}
