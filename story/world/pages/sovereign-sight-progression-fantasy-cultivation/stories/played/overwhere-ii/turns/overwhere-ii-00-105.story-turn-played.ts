@@ -11,4 +11,5 @@ export const overwhereIi00105 = {
   action:
     "“Keep watch while I try some experiments.” I take a small amount of the black water from the runoff as my target and try to separate the blackness from the water, pushing one and pulling the other.",
   lore: ["place/overwhere-ii-whitecombs"],
+  endsAt: "2026-10-26T11:20:00.000Z",
 } as const satisfies StoryTurnPlayed
