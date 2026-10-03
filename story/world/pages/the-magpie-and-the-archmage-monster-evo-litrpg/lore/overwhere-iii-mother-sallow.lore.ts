@@ -116,6 +116,10 @@ export const overwhereIiiMotherSallow = {
       fact: "Her blight bolt is a heavy blow; after three holy pulls land on her it falls to solid.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Her rot mist hangs over the clearing; inside it Nala's acts take two, as from pain.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
