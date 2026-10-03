@@ -94,4 +94,5 @@ export const hollowmere0022IWantToStay = {
     "character-other/hollowmere-dev",
     "character-other/hollowmere-penhallow",
   ],
+  reviewedBy: ["story-reviewer/style"],
 } as const satisfies StoryChapterWritten
