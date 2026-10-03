@@ -5,7 +5,7 @@ export const hollowmere0021KickSiobhan = {
   type: "page-type/story-chapter-written",
   slug: "hollowmere-0021-kick-siobhan",
   cover: "image/image-ae0c5e8ef44e6ba8",
-  ownProgress: 952,
+  ownProgress: 1066,
   position: 21,
   unit: "unit/words",
   title: "Kick, Siobhan",
