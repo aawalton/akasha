@@ -111,5 +111,9 @@ export const overwhereIHobbsMillWeir = {
       fact: "Hobb's mill wheel stays still all morning, the mill shut.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
+    {
+      fact: "Two barges lie moored idle at Hobb's landing, above the weir.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+    },
   ],
 } as const satisfies Place
