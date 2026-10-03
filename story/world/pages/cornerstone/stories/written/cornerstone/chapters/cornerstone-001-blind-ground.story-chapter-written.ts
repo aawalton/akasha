@@ -11,4 +11,5 @@ export const cornerstone001BlindGround = {
   unit: "unit/words",
   prose: "txt",
   beats: "jsonl",
+  stepStatus: "step-status/player",
 } as const satisfies StoryChapterWritten
