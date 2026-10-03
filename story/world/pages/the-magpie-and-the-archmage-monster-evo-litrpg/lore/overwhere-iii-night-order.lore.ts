@@ -10,7 +10,12 @@ export const overwhereIiiNightOrder = {
   facts: [
     {
       fact: "Rumor tells of a secret Order of the Night King, dark mages serving a hidden lord.",
-      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-marda-hesk"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/overwhere-iii-marda-hesk",
+        "character-player/overwhere-iii-nala",
+        "character-other/overwhere-iii-edda-crane",
+      ],
     },
     {
       fact: "Most Commons think the Night Order a tale; few say its name aloud.",
