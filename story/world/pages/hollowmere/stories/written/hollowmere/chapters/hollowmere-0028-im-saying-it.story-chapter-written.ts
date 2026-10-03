@@ -72,6 +72,11 @@ export const hollowmere0028ImSayingIt = {
     "You fall asleep face to face, her hand in yours between you, her breathing slow against your mouth.",
     "A day at Hollowmere ends.",
   ],
+  issues: [
+    '"on the rock in her wetsuit" - Shiv swims bare off her rock, and the prose has her bare',
+    '"Sunday roast in the Thornfield kitchen" - Sunday roast is in the Great Hall, as the prose says',
+    '"Monday, maybe" - on Friday Lin said her mother\'s answer would take a week at least',
+  ],
   lore: [
     "lore/hollowmere-amara",
     "lore/hollowmere-bea",
@@ -98,4 +103,5 @@ export const hollowmere0028ImSayingIt = {
     "character-other/hollowmere-amara",
     "character-other/hollowmere-yusra",
   ],
+  reviewedBy: ["story-reviewer/continuity"],
 } as const satisfies StoryChapterWritten
