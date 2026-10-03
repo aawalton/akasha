@@ -4,10 +4,13 @@ export const overwhereIi00102 = {
   id: "01a1016c-e30e-7273-b960-c36fb45dbdb9",
   type: "page-type/story-turn-played",
   slug: "overwhere-ii-00-102",
+  ownLength: 184,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-ii"],
   position: 102,
-  stepStatus: "step-status/writer",
+  prose: "txt",
+  characters: ["character-player/overwhere-ii-nala"],
+  stepStatus: "step-status/reviewers",
   action: "“Sleep now. Best to deal with the rest rested and with light.”",
   beats: [
     'Nala: "Sleep now. Best to deal with the rest rested, and with light."',
@@ -26,6 +29,11 @@ export const overwhereIi00102 = {
     'Hawise stands in the doorway, stretching. "Quiet night. Nothing came down."',
     'Hawise: "Up to that pool, or back to the Lady?"',
   ],
-  lore: ["place/overwhere-ii-callow-beck"],
+  lore: [
+    "lore/overwhere-ii-nala",
+    "lore/overwhere-ii-nala-2",
+    "lore/overwhere-ii-nala-3",
+    "place/overwhere-ii-callow-beck",
+  ],
   endsAt: "2026-10-26T06:30:00.000Z",
 } as const satisfies StoryTurnPlayed
