@@ -4,10 +4,13 @@ export const overwhereI00110 = {
   id: "01a10197-3c2a-7652-ad7d-3a727951f5fb",
   type: "page-type/story-turn-played",
   slug: "overwhere-i-00-110",
+  ownLength: 531,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-i"],
   position: 110,
-  stepStatus: "step-status/writer",
+  prose: "txt",
+  characters: ["character-player/overwhere-i-nala"],
+  stepStatus: "step-status/reviewers",
   action:
     "I go and hide myself 20 yards from where it suns, then wait for it to appear. When it settles, I focus on the electricity element I haven’t used much and do a dual summon above it, hitting it with a targeting double lightning strike in the head. Then I try my double fire eye beams and try to burn through its skull.",
   beats: [
@@ -27,6 +30,8 @@ export const overwhereI00110 = {
     "Through the glare, a long blur heaves on the stone and drags itself toward the water.",
   ],
   lore: [
+    "lore/overwhere-i-nala",
+    "lore/overwhere-i-nala-2",
     "lore/overwhere-i-starfall-legacy",
     "lore/overwhere-i-starfall-legacy-2",
     "place/overwhere-i-hobbs-mill-weir",
