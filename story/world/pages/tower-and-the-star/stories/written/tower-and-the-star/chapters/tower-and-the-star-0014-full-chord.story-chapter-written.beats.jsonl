@@ -1,0 +1,70 @@
+{"beat":1,"event":"The party rests in the plain, functional Transition Hall between Floor 11 and Floor 12.","at":"2000-01-05T12:30:00.000Z","place":"place/tower-and-the-star-floor-11-transition-hall","present":["character-other/tower-and-the-star-solenne","character-other/tower-and-the-star-dayo","character-other/tower-and-the-star-miriam","character-other/tower-and-the-star-vesper","character-other/tower-and-the-star-nadia"]}
+{"beat":2,"event":"Vesper claims the south corner and sets the Field Forge cycling."}
+{"beat":3,"event":"Nadia chalks a face on calcium deposits by the west wall and throws knives at it."}
+{"beat":4,"event":"Dayo sits against the east wall with the First Boss Coat off, cleaning its left shoulder guard."}
+{"beat":5,"event":"Nadia catches Dayo's eye, looks away, and keeps throwing."}
+{"beat":6,"event":"Solenne notes the guard's new eighth dent, from a Spore Anchor tendril slamming Dayo into a wall."}
+{"beat":7,"event":"Solenne avoids thinking about the Spore Anchor bonus objectives they narrowly missed."}
+{"beat":8,"event":"She rereads her Floor 11 notebook lines, including the six-tendril fight note."}
+{"beat":9,"event":"She holds back a fifth line about Miriam's MP costs until she knows what to do with it."}
+{"beat":10,"event":"Tomás is away, confirming the first two chambers of Floor 12."}
+{"beat":11,"event":"Miriam writes in her clinical notebook near the System terminal without sharing it."}
+{"beat":12,"event":"Footsteps approach from the lower corridor, the quadrant Tomás would cover."}
+{"beat":13,"event":"A mid-forties woman with a System Scholar pin and a notebook enters by the lower door.","arrive":["character-other/tower-and-the-star-vasic"]}
+{"beat":14,"event":"Arcane Analysis shows Dr. Petra Vasic, System Scholar, with no Harmony Aspect or Resonance."}
+{"beat":15,"event":"The Harmony Conductor stays silent around her."}
+{"beat":16,"event":"Vasic stops three meters from Solenne and sweeps the party with her eyes."}
+{"beat":17,"event":"Vasic introduces herself and asks if this is a reasonable time to talk."}
+{"beat":18,"event":"Nadia hits the chalk face between the eyes and says they are very approachable."}
+{"beat":19,"event":"Dayo puts on the First Boss Coat and stands just left of Solenne's elbow, watching Vasic."}
+{"beat":20,"event":"Vasic says she studies composite resonance perception and has questions for the party."}
+{"beat":21,"event":"Solenne feels the pull of finally having a name for what she perceives."}
+{"beat":22,"event":"Solenne agrees to answer."}
+{"beat":23,"event":"Vasic asks about Harmony activation rates per floor."}
+{"beat":24,"event":"Solenne notices Vasic writes around the numbers, as if confirming estimates."}
+{"beat":25,"event":"Vasic offers a RES range of fourteen to twenty-one, close but not quite right."}
+{"beat":26,"event":"Miriam puts down her pen and goes still, observing."}
+{"beat":27,"event":"Solenne asks where her records come from; Vasic cites other parties and public logs."}
+{"beat":28,"event":"Vasic says they are the highest-RES party at Floor 11 and won't say how many she tracks."}
+{"beat":29,"event":"Nadia stops throwing and leans on the west wall, arms folded, watching Vasic."}
+{"beat":30,"event":"Solenne answers three questions about composite perception before catching herself."}
+{"beat":31,"event":"Solenne scales back her fourth answer, holding back the Surge and Six of Six perception."}
+{"beat":32,"event":"Vasic asks if the perception ever gave new information; Solenne says yes, once."}
+{"beat":33,"event":"Vasic stops writing for the first time and looks up at Solenne."}
+{"beat":34,"event":"Miriam closes her clinical notebook, done taking inventory."}
+{"beat":35,"event":"Vasic asks about call-and-response coordination; Solenne says it develops like any skill."}
+{"beat":36,"event":"Vasic hands Solenne a once-folded paper she says gives context for something ahead."}
+{"beat":37,"event":"The paper is a System Reference Document: Floor 17, quadrant NW, alcove 7-B."}
+{"beat":38,"event":"Below the coordinates are columns of an unknown script Solenne cannot identify."}
+{"beat":39,"event":"Vasic says it marks a locked room no current key opens but the party may."}
+{"beat":40,"event":"Solenne sees the script differs from the sealed-space text Tomás copied."}
+{"beat":41,"event":"Asked where she got it, Vasic says only 'Research' and tells Solenne not to lose it."}
+{"beat":42,"event":"Vasic thanks them and leaves through the lower door as Dayo watches.","leave":["character-other/tower-and-the-star-vasic"]}
+{"beat":43,"event":"Tomás steps in through the upper door after forty minutes away.","arrive":["character-other/tower-and-the-star-tomas"]}
+{"beat":44,"event":"Tomás says they had company; Solenne explains and shows him the paper."}
+{"beat":45,"event":"Tomás studies the notation longer than the coordinates."}
+{"beat":46,"event":"Tomás says Vasic asked about composite perception before asking if Solenne had it."}
+{"beat":47,"event":"He concludes her questions were confirmation, not inquiry, and returns the paper."}
+{"beat":48,"event":"Vesper notes the bearing is very precise for someone claiming not to know what's there."}
+{"beat":49,"event":"Nadia joins the group and jokes they are being studied for a paper without peer review."}
+{"beat":50,"event":"Miriam says Vasic wrote around the answers and leaned in on the unanswered one."}
+{"beat":51,"event":"Solenne admits she scaled back; Miriam says Vasic noticed too."}
+{"beat":52,"event":"Miriam adds that Vasic never asked where they were going."}
+{"beat":53,"event":"Solenne turns the paper over; the back is blank."}
+{"beat":54,"event":"Nadia predicts Vasic will come back, since she never closed the loop."}
+{"beat":55,"event":"Nadia's Status Window chimes with a level-up."}
+{"beat":56,"event":"Nadia reaches level 10, gaining Jester Flourish."}
+{"beat":57,"event":"Miriam reaches level 10 with Mending Touch at its Tier I maximum."}
+{"beat":58,"event":"Nadia reads her Class Aptitude Assessment twice and seals off her reaction."}
+{"beat":59,"event":"Miriam notes she hit the Tier I ceiling and writes it down."}
+{"beat":60,"event":"Vesper congratulates both and keeps watching Nadia; Nadia answers with a flag-like smile."}
+{"beat":61,"event":"Dayo, still cleaning the dent, says they should move."}
+{"beat":62,"event":"Solenne folds the paper into her utility belt pocket beside the compass."}
+{"beat":63,"event":"Solenne reasons Vasic is studying them as the clearest or only example of something."}
+{"beat":64,"event":"Nadia says both seem bad; Solenne says both seem useful to Vasic."}
+{"beat":65,"event":"Solenne tells them Vasic once called the perception 'Full Chord.'"}
+{"beat":66,"event":"Dayo puts away the cloth, checks the shoulder guard, and says 'Let's go.'"}
+{"beat":67,"event":"Nadia pulls Dave Jr. from the chalk face and compares Vasic's study to theirs of the Tower."}
+{"beat":68,"event":"Nadia wraps on her green scarf and says the universe has very consistent taste."}
+{"beat":69,"event":"Tomás opens the upper door and Solenne goes through toward the Calcite Labyrinth.","changes":[{"page":"world-metric/tower-and-the-star-highest-floor-reached","key":"value","from":11,"to":12,"note":"The party reaches Floor 12"}]}
+{"beat":70,"event":"Solenne finds her pen already in her hand."}

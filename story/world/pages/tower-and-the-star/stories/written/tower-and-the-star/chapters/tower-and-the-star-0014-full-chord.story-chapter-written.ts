@@ -10,4 +10,6 @@ export const towerAndTheStar0014FullChord = {
   ownLength: 5518,
   unit: "unit/words",
   prose: "txt",
+  stepStatus: "step-status/player",
+  beats: "jsonl",
 } as const satisfies StoryChapterWritten
