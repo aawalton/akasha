@@ -1,16 +1,16 @@
 import type { StoryChapterWritten } from "akasha/story/world/stories/written/chapters/story-chapter-written.page-type.types.ts"
 
-export const hollowmere0027 = {
+export const hollowmere0027UpHere = {
   id: "01a101c1-c5c5-7d2f-ac9a-a604c7f65750",
   type: "page-type/story-chapter-written",
-  slug: "hollowmere-0027",
+  slug: "hollowmere-0027-up-here",
   position: 27,
   unit: "unit/words",
-  title: "Chapter 27",
+  title: "Up Here",
   story: "story-written/hollowmere",
-  ownLength: 0,
+  ownLength: 4191,
   prose: "txt",
-  stepStatus: "step-status/writer",
+  stepStatus: "step-status/reviewers",
   beats: [
     "Saturday of week four: Bea's alarm at six; she's out of bed before it stops, bouncing on her toes.",
     '"Good luck charm," she says, and kisses you, and throws your jumper at you. "Up. Bank. Shouting."',
@@ -75,5 +75,25 @@ export const hollowmere0027 = {
     "You fall asleep early in 15, Bea's arm over you, your legs still aching from the fell.",
     "A day at Hollowmere ends.",
   ],
-  lore: ["lore/hollowmere-world"],
+  lore: [
+    "lore/hollowmere-bea",
+    "lore/hollowmere-bea-2",
+    "lore/hollowmere-morwenna",
+    "lore/hollowmere-nala",
+    "lore/hollowmere-nala-2",
+    "lore/hollowmere-penhallow",
+    "lore/hollowmere-shiv",
+    "lore/hollowmere-shiv-2",
+    "lore/hollowmere-world",
+    "lore/hollowmere-yusra",
+    "lore/hollowmere-yusra-2",
+  ],
+  characters: [
+    "character-player/hollowmere-nala",
+    "character-other/hollowmere-bea",
+    "character-other/hollowmere-morwenna",
+    "character-other/hollowmere-shiv",
+    "character-other/hollowmere-yusra",
+    "character-other/hollowmere-penhallow",
+  ],
 } as const satisfies StoryChapterWritten
