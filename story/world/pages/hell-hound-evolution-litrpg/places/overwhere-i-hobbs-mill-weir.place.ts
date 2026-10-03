@@ -207,5 +207,9 @@ export const overwhereIHobbsMillWeir = {
       fact: "Lying still in hiding makes no footfall; waiting there needs no roll.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "If it feels her creep in, the wyrm hauls out late and wary; her first strike at it is a band harder.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Place
