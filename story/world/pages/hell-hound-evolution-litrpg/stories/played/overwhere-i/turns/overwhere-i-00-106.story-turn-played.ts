@@ -4,6 +4,7 @@ export const overwhereI00106 = {
   id: "01a0ff7f-4529-7530-841d-f4f91253eabb",
   type: "page-type/story-turn-played",
   slug: "overwhere-i-00-106",
+  cover: "image/image-e98aedf2f0c2f720",
   ownLength: 406,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-i"],
@@ -33,6 +34,7 @@ export const overwhereI00106 = {
   ],
   lore: ["lore/overwhere-i-nala", "lore/overwhere-i-nala-2", "lore/overwhere-i-wendlow-2"],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/memory"],
+  recordedBy: ["story-recorder/memory", "story-recorder/picture"],
   endsAt: "2026-10-05T13:45:00.000Z",
+  coverAfter: "Mother Sallow is stooped and old, wrapped in shawls, a clay pipe clamped",
 } as const satisfies StoryTurnPlayed
