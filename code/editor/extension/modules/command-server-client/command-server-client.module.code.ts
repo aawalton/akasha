@@ -15,6 +15,8 @@ const START_ANOTHER: ReadonlySet<string> = new Set([REFUSAL_LEASE, REFUSAL_GONE,
 
 const VOICE_KEPT = 4_000
 
+const PIPES_HELD: Readable[] = []
+
 export class CommandServerRefusal extends Error {
   readonly refusal: string
 
@@ -165,6 +167,7 @@ export function servingFrom(at: CommandServerAt): Serving {
         )
         return
       }
+      PIPES_HELD.push(protocol)
       const fresh: Session = {
         child,
         protocol,

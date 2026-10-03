@@ -95,5 +95,15 @@ export const commandServerClient = {
       decisionKind: "decision-kind/departure",
       statement: "The last four thousand characters a server wrote are kept.",
     },
+    {
+      decisionKind: "decision-kind/constraint",
+      statement:
+        "Under bun, a collected answer pipe closes its number again, which a newer server may hold.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "Every answer pipe a client opens is therefore held for as long as the process runs.",
+    },
   ],
 } as const satisfies Module
