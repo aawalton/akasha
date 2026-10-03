@@ -15,7 +15,7 @@ export const overwhereIii00086 = {
     "character-other/overwhere-iii-marda-hesk",
     "character-other/overwhere-iii-mother-sallow",
   ],
-  stepStatus: "step-status/game-master",
+  stepStatus: "step-status/writer",
   action: "“Let’s go there together, now.”",
   beats: [
     '"Let\'s go there together, now."',
@@ -29,7 +29,7 @@ export const overwhereIii00086 = {
     '"There\'s a rumor going round," she says at last. "The Night Order."',
     '"Mages who blight beasts on purpose. I took it for alehouse talk."',
     '"I\'ll tell the reeve and the watch tonight. A rider goes to Thornmere at dawn."',
-    '"Until Thornmere answers, nobody goes near that hut, or into the deep wood alone."',
+    '"Until Thornmere answers, you all keep clear of that hut, and out of the deep wood alone."',
     'She turns to Nala. "Where did she go?"',
   ],
   issues: ['"nobody goes near that hut" - Nobody Acts'],
