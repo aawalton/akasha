@@ -14,7 +14,7 @@ export const overwhereIii00084 = {
     "character-other/overwhere-iii-edda-crane",
     "character-other/overwhere-iii-mother-sallow",
   ],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/game-master",
   action:
     "“Corrupt wolves, I fought them off, but they hurt me bad, can you get me to the shrine? That’s my best chance to heal myself.”",
   beats: [
@@ -51,6 +51,6 @@ export const overwhereIii00084 = {
     "lore/overwhere-iii-nala-2",
     "lore/overwhere-iii-nala-2-2",
   ],
-  reviewedBy: ["story-reviewer/continuity"],
+  reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
   endsAt: "2026-10-08T16:35:00.000Z",
 } as const satisfies StoryTurnPlayed
