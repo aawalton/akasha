@@ -1,0 +1,64 @@
+{"beat":1,"event":"Mid-check of the loop's throughput, pen in hand, the last level comes quietly: 24 to 25.","at":"2026-01-03T14:30:00.000Z","place":"place/the-idle-epoch-warehouse","present":["character-player/the-idle-epoch-callum","character-other/the-idle-epoch-jin","character-other/the-idle-epoch-mira"],"changes":[{"page":"metric-character-level/the-idle-epoch-callum","key":"value","from":24,"to":25,"note":"Level 24 to 25: the Condense threshold"}]}
+{"beat":2,"event":"Twenty-five, circled forty-seven times in his notebook. Pip chimes, high and questioning."}
+{"beat":3,"event":"He allocates on autopilot: Intelligence 76, Wisdom 78, the highest they will be at this tier.","changes":[{"page":"metric-character-stat/the-idle-epoch-callum-intelligence","key":"value","from":74,"to":76,"note":"Level 25: prose says three points but shows Intelligence 76, +2"},{"page":"metric-character-stat/the-idle-epoch-callum-wisdom","key":"value","from":77,"to":78,"note":"Level 25: prose says two points but shows Wisdom 78, +1"}]}
+{"beat":4,"event":"CONDENSE AVAILABLE: 42 Prestige Shards, a permanent 1.5x, and the one WARNING the System gives."}
+{"beat":5,"event":"He presses DISMISS: not refusing, deferring. He wants a checklist first."}
+{"beat":6,"event":"He stacks two crates of pre-charged Flux Capacitors, forty-six in all: two weeks of running."}
+{"beat":7,"event":"In his notebook he drafts contingency scripts: if his HP falls, the constructs form a perimeter."}
+{"beat":8,"event":"Below Level 5: tighter range, nothing above Level 8, flee rather than fight."}
+{"beat":9,"event":"Three constructs take the scripts at once; the Enhancement Construct takes forty-five minutes."}
+{"beat":10,"event":"He walls its defence into a separate thread, so the feedback function keeps running."}
+{"beat":11,"event":"Jin has a monitoring protocol: alerts through Pixel, maintenance mode if three steps drop."}
+{"beat":12,"event":"He also taught Chunk to stand in front of a door. \"Rocks are good at blocking things.\""}
+{"beat":13,"event":"An hour of tuning thresholds gives them a loop that holds eighty percent without Callum."}
+{"beat":14,"event":"He sets his one recall scroll before Mira: it pulls everyone within three meters to the Exchange."}
+{"beat":15,"event":"At Level 1 he couldn't use it for twelve hours; she'll need it more. She tucks it in her belt."}
+{"beat":16,"event":"He walks her through the exits: the east loading door, the fire escape, a gap behind the Refinery."}
+{"beat":17,"event":"He opens his notebook to pages documenting every system, in case he is incapacitated."}
+{"beat":18,"event":"\"You're going to be Level 1 for a few hours,\" Mira says. \"Stop planning for disaster.\""}
+{"beat":19,"event":"Pip chimes low and steady, brighter than ever. \"You'll still be here after, right?\" A clear chime."}
+{"beat":20,"event":"In the dimming evening Mira takes the door, saber drawn; Jin sits at the readouts, Chunk behind him.","at":"2026-01-03T20:30:00.000Z"}
+{"beat":21,"event":"Zephyr circles near the ceiling and Pixel watches the perimeter. Callum stands at the centre."}
+{"beat":22,"event":"A last look at Level 25: Intelligence 76, Wisdom 78, Idle Yield 2.56x, Recursion 15 hidden."}
+{"beat":23,"event":"The math is right, he tells himself; it doesn't account for the hollow in his stomach."}
+{"beat":24,"event":"Vera said it feels like dying, and then like something else. He presses CONDENSE."}
+{"beat":25,"event":"His numbers fold inward; Intelligence collapses, and his compound loop blurs to soft shapes."}
+{"beat":26,"event":"His Strength leaves, his calluses feel withdrawn, and his HP burns down like a candle."}
+{"beat":27,"event":"Wisdom collapses, the 2.56x Idle Yield goes dark, and his construct threads dim to ghosts."}
+{"beat":28,"event":"His skills grey out one by one: Heal, Regeneration, Script Engine, Loop Analysis, Compile Familiar."}
+{"beat":29,"event":"Pip strobes and winks out, then returns: dimmer, a single pixel of light, but present."}
+{"beat":30,"event":"For three seconds he is nothing: Level 0, interface dark, a factory floor stripped to concrete."}
+{"beat":31,"event":"He hears Mira breathing at the door, the constructs humming, his own mortal heartbeat."}
+{"beat":32,"event":"CONDENSE COMPLETE: Level 1, 44 Prestige Shards, Tier 1, Tempered. Begin again.","changes":[{"page":"metric-character-level/the-idle-epoch-callum","key":"value","from":25,"to":1,"note":"Condense resets him to Level 1"},{"page":"metric-character-stat/the-idle-epoch-callum-intelligence","key":"value","from":76,"to":10,"note":"Condense resets Intelligence to 10"},{"page":"metric-character-stat/the-idle-epoch-callum-wisdom","key":"value","from":78,"to":10,"note":"Condense resets Wisdom to 10"},{"page":"metric-character-stat/the-idle-epoch-callum-prestige","key":"value","from":0,"to":1,"note":"First Condense: Prestige 1, Tempered"},{"page":"metric-character-currency/the-idle-epoch-callum-prestige-shards","key":"value","from":0,"to":44,"note":"Condense awards 44 Prestige Shards"}]}
+{"beat":33,"event":"Beside every gain rate a small, golden, permanent 1.5x glows like a promise."}
+{"beat":34,"event":"\"Did it work?\" Jin's voice cracks. Level 1: HP 151, Intelligence 10, Idle Yield 1.70x."}
+{"beat":35,"event":"\"It worked.\" A pack of Rustbelt Hounds could put him in the ground in seconds."}
+{"beat":36,"event":"Jin: eight Strength, less than he had on Day Two. \"Jin,\" says Mira: stop talking about it."}
+{"beat":37,"event":"All four constructs are stable at ninety-one percent; Level 2 in about forty minutes."}
+{"beat":38,"event":"\"Okay. I'm going to sit down now.\" He makes it to the cot. Barely."}
+{"beat":39,"event":"His body is underpowered: standing takes effort, and the concrete is cold through his coveralls."}
+{"beat":40,"event":"Pip is a dim point again, unable to report; asked if it's still with him, it flickers once."}
+{"beat":41,"event":"At thirty minutes Mira sets water by him: \"Your VIT is eight. You need water.\" She is right."}
+{"beat":42,"event":"Jin reports every fifteen minutes: the loop holds at 88%, with eleven days of capacitor reserve."}
+{"beat":43,"event":"At forty-three minutes: Level 2, with the golden 1.5x on the notice.","at":"2026-01-03T21:16:00.000Z"}
+{"beat":44,"event":"Three points to Intelligence, two to Wisdom; one skill point buys Regeneration back.","changes":[{"page":"metric-character-level/the-idle-epoch-callum","key":"value","from":1,"to":2,"note":"Level 1 to 2, forty-three minutes after the Condense"},{"page":"metric-character-stat/the-idle-epoch-callum-intelligence","key":"value","from":10,"to":13,"note":"Level 2: +3 Intelligence"},{"page":"metric-character-stat/the-idle-epoch-callum-wisdom","key":"value","from":10,"to":12,"note":"Level 2: +2 Wisdom"}]}
+{"beat":45,"event":"The world is denser after compression, as Vera said: standard definition turned to 4K."}
+{"beat":46,"event":"Level 3 an hour and twelve minutes later; Jin makes a small, involuntary sound.","at":"2026-01-03T22:28:00.000Z","changes":[{"page":"metric-character-level/the-idle-epoch-callum","key":"value","from":2,"to":3,"note":"Level 2 to 3, an hour and twelve minutes on"},{"page":"metric-character-stat/the-idle-epoch-callum-intelligence","key":"value","from":13,"to":16,"note":"Level 3: +3 Intelligence"},{"page":"metric-character-stat/the-idle-epoch-callum-wisdom","key":"value","from":12,"to":14,"note":"Level 3: +2 Wisdom"}]}
+{"beat":47,"event":"His first Level 3 took nine days; this one took under two hours, sitting on the floor."}
+{"beat":48,"event":"He buys back Heal, then does something rare: he stops calculating."}
+{"beat":49,"event":"Not power, he thinks: understanding. He writes that small, under the Level 3 allocation."}
+{"beat":50,"event":"By evening Mira has a chair covering the door and the fire escape; Jin sleeps at the monitors."}
+{"beat":51,"event":"Level 4 at 9:47 PM, six hours and fourteen minutes after the Condense.","at":"2026-01-04T02:47:00.000Z","changes":[{"page":"metric-character-level/the-idle-epoch-callum","key":"value","from":3,"to":4,"note":"Level 3 to 4 at 9:47 PM"},{"page":"metric-character-stat/the-idle-epoch-callum-intelligence","key":"value","from":16,"to":22,"note":"Level 4: prose says +3 but shows 22; the extra 3 is put here"},{"page":"metric-character-stat/the-idle-epoch-callum-wisdom","key":"value","from":14,"to":20,"note":"Level 4: prose says +2 but shows 20; the extra 4 is put here"}]}
+{"beat":52,"event":"Intelligence 22, Wisdom 20, Complexity 16, Idle Yield 1.90x: already past most active players."}
+{"beat":53,"event":"Script Engine 1 again, five lines; Thread Spinner 1 brings a second thread and three percent."}
+{"beat":54,"event":"Then a notice with no sender and no log entry: TEMPERED. Continue."}
+{"beat":55,"event":"It hangs exactly 4.7 seconds, as WHAT ARE YOU BUILDING? did."}
+{"beat":56,"event":"OBSERVED was neutral and the question probing; this reads like encouragement, or instruction."}
+{"beat":57,"event":"It vanishes unlogged, as if the Substrate had spoken off the record."}
+{"beat":58,"event":"He adds TEMPERED. CONTINUE. to his page of its words: four entries, twelve words in months."}
+{"beat":59,"event":"\"What is it?\" asks Mira. \"I think it said well done.\" She nods, and turns back to the door."}
+{"beat":60,"event":"Level 4, Prestige 1, HP 166, 44 shards unspent: the weakest person in his warehouse."}
+{"beat":61,"event":"The 1.5x glows gold in every gain rate: destruction, understood well enough, is compression."}
+{"beat":62,"event":"Mira guards the door, Jin dreams beside his summons, and Pip flickers on the pillow."}
+{"beat":63,"event":"The Substrate hums denser than it did this morning: TEMPERED. Continue."}
+{"beat":64,"event":"Callum sleeps. The constructs run. The second loop has begun."}
