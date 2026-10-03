@@ -74,7 +74,7 @@ export const overwhereIHobbsMillWeir2 = {
     },
     {
       fact: "Jory takes Dickon's belt with a bow of the head; he'll carry it to Dickon's mother at Brennock Ford.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
     {
       fact: "Jory tells Nala the Wend Maid owes her passage anywhere on the Wend, any time, free.",
