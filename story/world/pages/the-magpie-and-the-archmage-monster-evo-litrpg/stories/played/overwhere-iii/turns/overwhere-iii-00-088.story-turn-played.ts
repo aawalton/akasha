@@ -7,6 +7,7 @@ export const overwhereIii00088 = {
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iii"],
   position: 88,
-  stepStatus: "step-status/world-builder",
+  stepStatus: "step-status/game-master",
   action: "“Thanks, happy to save the coin.” I get dinner, then an early bed.",
+  lore: ["place/overwhere-iii-merrowgate-guild-post"],
 } as const satisfies StoryTurnPlayed
