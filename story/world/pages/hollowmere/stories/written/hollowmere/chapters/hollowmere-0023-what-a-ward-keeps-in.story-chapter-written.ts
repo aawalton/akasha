@@ -79,6 +79,7 @@ export const hollowmere0023WhatAWardKeepsIn = {
     '"goes off down the corridor, fast" - prose drops the beat\'s Kit going off to the forge',
   ],
   lore: [
+    "lore/hollowmere-academy-2",
     "lore/hollowmere-amara",
     "lore/hollowmere-bea",
     "lore/hollowmere-bea-2",
@@ -106,4 +107,5 @@ export const hollowmere0023WhatAWardKeepsIn = {
     "character-other/hollowmere-morwenna",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
+  recordedBy: ["story-recorder/mechanics"],
 } as const satisfies StoryChapterWritten
