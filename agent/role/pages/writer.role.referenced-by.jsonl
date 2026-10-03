@@ -5,3 +5,4 @@
 {"propertySlug":"import","fileName":"writer.role.ts","path":"story/world/stories/played/turns/modules/turn-advancing/turn-advancing.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"writer.role.ts","path":"story/world/stories/played/turns/modules/turn-seats/turn-seats.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"agent/role/role.page-type.ts","id":"01a053b2-2c20-7e34-9306-65f44016381a"}
+{"propertySlug":"role","path":"agent/seat/pages/mari-writer-fairweather/mari-writer-fairweather.seat.ts","id":"01a1036a-6bb5-7000-a1c6-ce8b78fc1e85"}
