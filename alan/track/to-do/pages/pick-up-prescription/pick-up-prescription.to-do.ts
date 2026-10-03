@@ -7,7 +7,7 @@ export const pickUpPrescription = {
   title: "Pick up prescription",
   toDoAnchoredFromCompletion: true,
   difficulty: "hard",
-  toDoDueDate: "2026-10-06",
+  toDoDueDate: "2026-10-08",
   priority: "p1",
   toDoRecurrence: "INTERVAL=30;FREQ=DAILY",
   toDoSortOrder: 33,
