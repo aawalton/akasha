@@ -322,6 +322,10 @@ export const overwhereIiiMerrowgateGuildPost = {
         "character-other/overwhere-iii-marda-hesk",
       ],
     },
+    {
+      fact: "The post pays the blightstone bounty, 1 silver, on a small blightstone, part-paled or not.",
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-marda-hesk"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place
