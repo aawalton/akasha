@@ -4,10 +4,13 @@ export const overwhereIii00091 = {
   id: "01a1019c-0268-7afb-98e3-13238ea83322",
   type: "page-type/story-turn-played",
   slug: "overwhere-iii-00-091",
+  ownLength: 97,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iii"],
   position: 91,
-  stepStatus: "step-status/writer",
+  prose: "txt",
+  characters: ["character-player/overwhere-iii-nala"],
+  stepStatus: "step-status/reviewers",
   action: "I hit them with another braid, focusing on the two larger ones",
   beats: [
     "[Cleansing Weave has advanced: Novice → Adept]",
@@ -19,6 +22,12 @@ export const overwhereIii00091 = {
     "The smallest jackalope shrieks once. It bolts for the stumps, limping, and dives under the roots.",
     "Under the roots, Nala can feel the blight still smoldering in it.",
   ],
-  lore: ["lore/overwhere-iii-corruption-2", "place/overwhere-iii-merrowgate-guild-post"],
+  lore: [
+    "lore/overwhere-iii-corruption-2",
+    "lore/overwhere-iii-nala",
+    "lore/overwhere-iii-nala-2",
+    "lore/overwhere-iii-nala-2-2",
+    "place/overwhere-iii-merrowgate-guild-post",
+  ],
   endsAt: "2026-10-09T11:45:00.000Z",
 } as const satisfies StoryTurnPlayed
