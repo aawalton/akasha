@@ -4,10 +4,13 @@ export const overwhereIv00083 = {
   id: "01a0ff59-4a05-7cf1-972a-611bf3ecdfe2",
   type: "page-type/story-turn-played",
   slug: "overwhere-iv-00-083",
+  ownLength: 201,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iv"],
   position: 83,
-  stepStatus: "step-status/writer",
+  prose: "txt",
+  characters: ["character-player/overwhere-iv-nala"],
+  stepStatus: "step-status/reviewers",
   action:
     "I wait until they are in range and then strike each of the hobs, aiming a slice directly across their eyes, to blind them even if it doesn’t kill outright.",
   beats: [
@@ -26,6 +29,11 @@ export const overwhereIv00083 = {
     "The blind maul-bearer stands alone in the dark meadow, roaring, swinging its maul at nothing.",
     "Then it lurches forward, toward the sound of Tull's sheep, toward the fold.",
   ],
-  lore: ["lore/overwhere-iv-the-tangle-2"],
+  lore: [
+    "lore/overwhere-iv-nala",
+    "lore/overwhere-iv-nala-2",
+    "lore/overwhere-iv-nala-3",
+    "lore/overwhere-iv-the-tangle-2",
+  ],
   endsAt: "2026-10-06T23:58:00.000Z",
 } as const satisfies StoryTurnPlayed
