@@ -10,4 +10,5 @@ export const overwhereIi00104 = {
   stepStatus: "step-status/game-master",
   action: "“One step at a time. Help me build a dam across the channel. Keep the run-off back.”",
   lore: ["place/overwhere-ii-whitecombs"],
+  endsAt: "2026-10-26T11:05:00.000Z",
 } as const satisfies StoryTurnPlayed
