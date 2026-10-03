@@ -480,6 +480,12 @@
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/syl-a-slime-monster-evolution-litrpg/places/overwhere-iv-vaelyssan-sea.place.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/syl-a-slime-monster-evolution-litrpg/places/overwhere-iv-volcano-isle.place.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/syl-a-slime-monster-evolution-litrpg/places/overwhere-iv-ygdrans-dungeon.place.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/the-beholder/places/the-beholder-backstage.place.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/the-beholder/places/the-beholder-city.place.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/the-beholder/places/the-beholder-glass-tower-atrium.place.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/the-beholder/places/the-beholder-mirror-studio.place.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/the-beholder/places/the-beholder-rigging-loft.place.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/the-beholder/places/the-beholder-stage-door.place.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/the-calamitous-bob-stubbed/places/otherwhere-xi-anelton.place.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/the-calamitous-bob-stubbed/places/otherwhere-xi-aristan.place.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/the-calamitous-bob-stubbed/places/otherwhere-xi-ashlar-farm.place.ts","typed":true,"deferred":false}
