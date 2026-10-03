@@ -145,6 +145,30 @@ export const overwhereIiCallowBeck = {
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
+      fact: "Pushed by Undertow, the slick feels heavier than plain water, cold, leaning downhill like a tide.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Nala's push can roll the whole slick back up the pasture into the gully mouth in about an hour.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Pushing the slick is plain towing work, and wears Nala's mind no more than towing does.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Once Nala lets go, the slick creeps back down at its old few paces a day, unless something holds it.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The gully mouth above the pasture is narrow; a bank of peat and stones there would hold the slick.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Higher up, the Callow pool still feeds the gully with a thin black trickle.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
       fact: "Six Warped sheep roam the black slick, grey-scaled and coral-horned, heads low.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
