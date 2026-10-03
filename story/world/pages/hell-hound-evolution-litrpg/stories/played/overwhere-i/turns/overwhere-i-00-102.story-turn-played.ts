@@ -4,6 +4,7 @@ export const overwhereI00102 = {
   id: "01a0ff47-0ee9-7f6e-9407-aa126ec2b010",
   type: "page-type/story-turn-played",
   slug: "overwhere-i-00-102",
+  cover: "image/image-de330c436b859de0",
   ownLength: 263,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-i"],
@@ -37,6 +38,7 @@ export const overwhereI00102 = {
     "place/overwhere-i-wendlow",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/memory"],
+  recordedBy: ["story-recorder/inventory", "story-recorder/memory", "story-recorder/picture"],
   endsAt: "2026-10-05T12:40:00.000Z",
+  coverAfter: "You dig into your pack and bring out the eye: a hard pearl",
 } as const satisfies StoryTurnPlayed
