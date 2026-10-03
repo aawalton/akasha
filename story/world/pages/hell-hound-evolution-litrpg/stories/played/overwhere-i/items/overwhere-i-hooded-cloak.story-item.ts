@@ -7,5 +7,6 @@ export const overwhereIHoodedCloak = {
   title: "Hooded Cloak",
   story: "story-played/overwhere-i",
   character: "character-player/overwhere-i-nala",
-  description: "A hooded cloak of heavy grey-green wool, fastened with a wooden toggle.",
+  description:
+    "A hooded cloak of heavy grey-green wool, fastened with a wooden toggle, its hem hanging ragged, chewed by brambles and rock.",
 } as const satisfies StoryItem

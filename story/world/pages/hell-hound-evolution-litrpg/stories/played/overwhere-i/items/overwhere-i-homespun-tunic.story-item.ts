@@ -7,5 +7,6 @@ export const overwhereIHomespunTunic = {
   title: "Homespun Tunic",
   story: "story-played/overwhere-i",
   character: "character-player/overwhere-i-nala",
-  description: "A long-sleeved tunic of undyed homespun wool, belted at the waist.",
+  description:
+    "A long-sleeved tunic of undyed homespun wool, belted at the waist. The bolt-torn rent at the left ribs is felted shut in a stiff, ridged seam a hand-span long, darker than the cloth and bordered with a scorched brown edge; the slit sleeve is felted whole the same way.",
 } as const satisfies StoryItem
