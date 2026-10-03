@@ -10,7 +10,7 @@ export const overwhereI00106 = {
   position: 106,
   prose: "txt",
   characters: ["character-player/overwhere-i-nala"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/game-master",
   action:
     "“Great! I’ll be back.” Then I go to the other two stores to sell the sword, crossbow, and grubboar tusks.",
   beats: [
@@ -27,7 +27,11 @@ export const overwhereI00106 = {
     'She taps her pipe at Nala\'s badge. "You after the Weir Wyrm, hunter?"',
     '"Bring me its bile sac within a day of the kill, and I\'ll pay two gold for it."',
   ],
+  issues: [
+    '"glances at Nala\'s antler badge" - she pocketed the badge in turn 103; never pinned it on',
+    '"taps her pipe at Nala\'s badge" - the badge is in her pocket since turn 103, not on show',
+  ],
   lore: ["lore/overwhere-i-nala", "lore/overwhere-i-nala-2", "lore/overwhere-i-wendlow-2"],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
   endsAt: "2026-10-05T13:45:00.000Z",
 } as const satisfies StoryTurnPlayed
