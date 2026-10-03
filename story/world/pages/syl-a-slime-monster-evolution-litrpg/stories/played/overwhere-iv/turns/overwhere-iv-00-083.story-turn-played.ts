@@ -10,7 +10,7 @@ export const overwhereIv00083 = {
   position: 83,
   prose: "txt",
   characters: ["character-player/overwhere-iv-nala"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/recorders",
   action:
     "I wait until they are in range and then strike each of the hobs, aiming a slice directly across their eyes, to blind them even if it doesn’t kill outright.",
   beats: [
@@ -35,6 +35,6 @@ export const overwhereIv00083 = {
     "lore/overwhere-iv-nala-3",
     "lore/overwhere-iv-the-tangle-2",
   ],
-  reviewedBy: ["story-reviewer/continuity"],
+  reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
   endsAt: "2026-10-06T23:58:00.000Z",
 } as const satisfies StoryTurnPlayed
