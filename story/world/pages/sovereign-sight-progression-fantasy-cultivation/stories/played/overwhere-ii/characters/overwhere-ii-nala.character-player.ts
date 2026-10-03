@@ -10,4 +10,5 @@ export const overwhereIiNala = {
     "a slim young woman of about twenty-five with pale fair skin, a light dusting of freckles across her nose and cheeks, clear blue-grey eyes, straight dark auburn brows, a small straight nose, soft full rose-pink lips, a heart-shaped face narrowing to a small chin, and long straight dark auburn-red hair worn loose with a side part",
   story: "story-played/overwhere-ii",
   person: "person/alan",
+  place: "place/overwhere-ii-callow-beck",
 } as const satisfies CharacterPlayer
