@@ -166,7 +166,7 @@ export const overwhereIiCallowBeck = {
     },
     {
       fact: "Higher up, the Callow pool still feeds the gully with a thin black trickle.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Ebba's cut peat is stacked dry by the longhouse wall, and the gully's floor is loose with stones.",
