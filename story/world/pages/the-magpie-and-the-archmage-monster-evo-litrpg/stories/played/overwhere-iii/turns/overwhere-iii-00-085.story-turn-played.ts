@@ -4,10 +4,18 @@ export const overwhereIii00085 = {
   id: "01a0ff74-0d99-76cb-b9ad-8e79768b93ad",
   type: "page-type/story-turn-played",
   slug: "overwhere-iii-00-085",
+  ownLength: 128,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iii"],
   position: 85,
-  stepStatus: "step-status/writer",
+  prose: "txt",
+  characters: [
+    "character-player/overwhere-iii-nala",
+    "character-other/overwhere-iii-edda-crane",
+    "character-other/overwhere-iii-mother-sallow",
+    "character-other/overwhere-iii-marda-hesk",
+  ],
+  stepStatus: "step-status/reviewers",
   action:
     "“Whose house was that and how long have you known them? There was a woman there who commanded the wolves, but she was corrupted. When I confronted her, her face changed.”",
   beats: [
@@ -22,6 +30,14 @@ export const overwhereIii00085 = {
     'She stares down the road toward the wood. "A false face. Gods."',
     '"I\'m telling Marda at the post myself," she says. "Tonight, before the bell."',
   ],
-  lore: ["lore/overwhere-iii-edda-crane"],
+  lore: [
+    "lore/overwhere-iii-edda-crane",
+    "lore/overwhere-iii-marda-hesk",
+    "lore/overwhere-iii-marda-hesk-2",
+    "lore/overwhere-iii-mother-sallow",
+    "lore/overwhere-iii-nala",
+    "lore/overwhere-iii-nala-2",
+    "lore/overwhere-iii-nala-2-2",
+  ],
   endsAt: "2026-10-08T16:40:00.000Z",
 } as const satisfies StoryTurnPlayed
