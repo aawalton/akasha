@@ -10,7 +10,7 @@ export const overwhereIi00099 = {
   position: 99,
   prose: "txt",
   characters: ["character-player/overwhere-ii-nala"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/recorders",
   action:
     "“I’m sorry about your sheep, Ebba. We’ll take care of them, then get down to the town until this is sorted.” At that, I charge the sheep with my spear using Push to extend my reach as I stab into their necks from farther than I should be able to, then Pull to help me retract the spear. Rinse and repear.",
   beats: [
@@ -39,6 +39,6 @@ export const overwhereIi00099 = {
     "lore/overwhere-ii-nala-3",
     "place/overwhere-ii-callow-beck",
   ],
-  reviewedBy: ["story-reviewer/continuity"],
+  reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
   endsAt: "2026-10-25T14:50:00.000Z",
 } as const satisfies StoryTurnPlayed
