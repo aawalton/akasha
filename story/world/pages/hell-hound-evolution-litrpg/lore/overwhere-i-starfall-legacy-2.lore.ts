@@ -260,5 +260,9 @@ export const overwhereIStarfallLegacy2 = {
       fact: "A lightning strike is called down onto a mark within a held working's reach, for 25 mana.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Until she has called it once, a lightning strike is a band harder, as eye beams were.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
