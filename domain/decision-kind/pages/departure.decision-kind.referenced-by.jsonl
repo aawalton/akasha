@@ -3797,6 +3797,7 @@
 {"propertySlug":"decision-kind","path":"story/chapter/step-status/step-status.page-type.ts","id":"01a0deac-97e0-7cd7-8396-354e0fe020ad"}
 {"propertySlug":"decision-kind","path":"story/engine/beat-state/beat-state.domain.ts","id":"01a10235-fdaa-7b5b-968e-b88481cce87f"}
 {"propertySlug":"decision-kind","path":"story/engine/beat-state/modules/beat-changes/beat-changes.module.ts","id":"01a1024c-c8c3-757f-8796-4aca742777e6"}
+{"propertySlug":"decision-kind","path":"story/engine/beat-state/modules/beat-memory/beat-memory.module.ts","id":"01a10289-87d7-7d12-a837-2bf21fcf6c11"}
 {"propertySlug":"decision-kind","path":"story/engine/beat-state/modules/beat-replay/beat-replay.module.ts","id":"01a10238-e959-79ba-9502-1029307633d5"}
 {"propertySlug":"decision-kind","path":"story/engine/core/modules/prose-windows/prose-windows.module.ts","id":"01a0d44e-912e-72bc-aaf4-6ffcdb4d5a15"}
 {"propertySlug":"decision-kind","path":"story/engine/core/modules/quest-schema/quest-schema.module.ts","id":"01a05b71-e544-7f7a-9dc9-b1677b4e1fc6"}

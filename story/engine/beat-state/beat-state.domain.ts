@@ -5,7 +5,7 @@ export const beatState = {
   type: "page-type/domain",
   slug: "beat-state",
   definition: "the state of a story worked out by replaying its beats in order",
-  parts: ["module/beat-replay", "module/beat-changes"],
+  parts: ["module/beat-replay", "module/beat-changes", "module/beat-memory"],
   decisions: [
     {
       decisionKind: "decision-kind/departure",
@@ -19,6 +19,18 @@ export const beatState = {
     {
       decisionKind: "decision-kind/departure",
       statement: "A story's beats are the only source of what is true in it now.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Lore the world builder writes is the world's setup, true before any beat.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A fact's knowers are a cache of the beats where each knower learned it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The reader is shown a fact in a beat of its own, apart from who learns it.",
     },
     {
       decisionKind: "decision-kind/departure",
