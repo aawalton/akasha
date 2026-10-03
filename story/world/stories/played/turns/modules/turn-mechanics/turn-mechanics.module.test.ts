@@ -4,6 +4,7 @@ import {
   recordedBy,
 } from "akasha/story/world/stories/played/turns/modules/turn-lifecycle/turn-lifecycle.module.test-fixtures.ts"
 import {
+  beatsRefused,
   type Mechanicked,
   mechanicked,
 } from "akasha/story/world/stories/played/turns/modules/turn-mechanics/turn-mechanics.module.code.ts"
@@ -98,4 +99,28 @@ test("a change past the last beat, or an issue past a hundred characters, is ref
   const long = { kind: "record", recorder: "mechanics", issues: ["x".repeat(101)] } as const
   const said = mechanicked(heldAt("mechanics", { beats: 1 }), long, STEPPED)
   expect("refused" in said ? said.refused : "").toContain("issue 1 runs to 101")
+})
+
+function beatsOf(count: number): string[] {
+  return Array.from({ length: count }, (_, at) => `beat ${at + 1}`)
+}
+
+test("a turn holds a hundred beats, a chapter a hundred, or two hundred with editor steps", () => {
+  const turn = heldAt("game-master")
+  expect(beatsRefused(beatsOf(100), turn)).toBeNull()
+  expect(beatsRefused(beatsOf(101), turn)).toContain(
+    "a turn holds at most 100 beats, and this makes 101"
+  )
+  const chapter = heldAt("game-master", { noun: "chapter" })
+  expect(beatsRefused(beatsOf(100), chapter)).toBeNull()
+  expect(beatsRefused(beatsOf(101), chapter)).toContain("a chapter holds at most 100 beats")
+  const edited = heldAt("game-master", { noun: "chapter", editorSteps: true })
+  expect(beatsRefused(beatsOf(145), edited)).toBeNull()
+  expect(beatsRefused(beatsOf(200), edited)).toBeNull()
+  expect(beatsRefused(beatsOf(201), edited)).toContain("a chapter holds at most 200 beats")
+})
+
+test("a beat runs past a hundred characters whatever the beats' cap is", () => {
+  const edited = heldAt("game-master", { noun: "chapter", editorSteps: true })
+  expect(beatsRefused(["x".repeat(101)], edited)).toContain("beat 1 runs to 101")
 })

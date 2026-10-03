@@ -236,3 +236,68 @@ test("a played turn's game master is not held to a chapter's length", async () =
   expect(answer.refusals).toEqual([])
   expect(into.folded.length).toBe(1)
 })
+
+const HUNDRED_FORTY_FIVE = join(ROOT, "hundred-forty-five-beats.txt")
+
+writeFileSync(HUNDRED_FORTY_FIVE, `${beatsOf(145).join("\n")}\n`)
+
+const TWO_HUNDRED_ONE = join(ROOT, "two-hundred-one-beats.txt")
+
+writeFileSync(TWO_HUNDRED_ONE, `${beatsOf(201).join("\n")}\n`)
+
+const HUNDRED_ONE = join(ROOT, "hundred-one-beats.txt")
+
+writeFileSync(HUNDRED_ONE, `${beatsOf(101).join("\n")}\n`)
+
+test("a chapter of a story with editor steps takes its game master's hundred and forty-five beats", async () => {
+  const into = seen()
+  const reach = { ...chapterReach(into), storyOf: editedStory }
+  const argv = [...CHAPTER_ARGV, "--beats-file", HUNDRED_FORTY_FIVE]
+  const answer = await storyTurnAdvance(
+    argv,
+    GIVEN,
+    async () => LANDED,
+    reach,
+    () => undefined
+  )
+  expect(answer.refusals).toEqual([])
+  expect(into.folded[0]?.values?.["stepStatus"]).toBe(`${stepStatus.slug}/${beatEditor.slug}`)
+})
+
+test("a chapter of a story with editor steps is refused two hundred and one beats", async () => {
+  const into = seen()
+  const reach = { ...chapterReach(into), storyOf: editedStory }
+  const argv = [...CHAPTER_ARGV, "--beats-file", TWO_HUNDRED_ONE]
+  const answer = await storyTurnAdvance(
+    argv,
+    GIVEN,
+    async () => LANDED,
+    reach,
+    () => undefined
+  )
+  expect(answer.refusals.join(" ")).toContain("at most 200")
+  expect(into.folded).toEqual([])
+})
+
+test("a chapter of a story stating no editor steps takes a hundred beats and refuses a hundred and one", async () => {
+  const into = seen()
+  const answer = await storyTurnAdvance(
+    [...CHAPTER_ARGV, "--beats-file", HUNDRED],
+    GIVEN,
+    async () => LANDED,
+    chapterReach(into),
+    () => undefined
+  )
+  expect(answer.refusals).toEqual([])
+  expect(into.folded.length).toBe(1)
+  const over = seen()
+  const refused = await storyTurnAdvance(
+    [...CHAPTER_ARGV, "--beats-file", HUNDRED_ONE],
+    GIVEN,
+    async () => LANDED,
+    chapterReach(over),
+    () => undefined
+  )
+  expect(refused.refusals.join(" ")).toContain("at most 100")
+  expect(over.folded).toEqual([])
+})
