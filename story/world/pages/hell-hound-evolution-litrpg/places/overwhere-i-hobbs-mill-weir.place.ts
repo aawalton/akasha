@@ -65,7 +65,7 @@ export const overwhereIHobbsMillWeir = {
     },
     {
       fact: "The Weir Wyrm is a grey-green serpent some 25 feet long, thick as a man's waist, fangs a hand long.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
     {
       fact: "The wyrm's back scales are a 2-point ward; its pale belly and throat have none.",
