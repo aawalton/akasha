@@ -10,6 +10,7 @@ export const otherwhereVii0001ASackAndAHalf = {
   story: "story-played/otherwhere-vii",
   ownLength: 4247,
   prose: "txt",
+  beats: "jsonl",
   turnCovers: [
     {
       position: 1,
