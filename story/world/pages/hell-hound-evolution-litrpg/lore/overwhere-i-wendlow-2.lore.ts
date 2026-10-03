@@ -332,5 +332,9 @@ export const overwhereIWendlow2 = {
       fact: "Grete counts an 80-pound wyrm head too big to carry; she pays the Weir Wyrm's bounty on its fangs.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "The Board's strongbox is empty since Nala's payout; for the wyrm Grete writes a 15-gold chit.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
