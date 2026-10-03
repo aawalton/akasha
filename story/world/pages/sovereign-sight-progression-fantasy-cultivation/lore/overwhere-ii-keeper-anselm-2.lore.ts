@@ -77,7 +77,7 @@ export const overwhereIiKeeperAnselm2 = {
     },
     {
       fact: "Senior Keeper Maud Ashby reaches Wendle Ford on day twenty-eight, and Anselm tells her Nala's news.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Keeper Ashby rides on up the valley, and reaches Varrow Keep before dusk on day twenty-nine.",
