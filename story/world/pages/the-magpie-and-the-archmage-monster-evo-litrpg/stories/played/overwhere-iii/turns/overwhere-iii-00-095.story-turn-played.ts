@@ -14,7 +14,7 @@ export const overwhereIii00095 = {
     "character-other/overwhere-iii-brannagh-tull",
     "character-other/overwhere-iii-tam-rowe",
   ],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/game-master",
   action:
     "“That will be useful.” I walk back to town, dinner and bed, then check in and heal any patients, training with the guard, lunch, then hunting for blighted beasts again.",
   beats: [
@@ -34,6 +34,9 @@ export const overwhereIii00095 = {
     "As she passes the south green on her way to the gate, Tam calls after her.",
     '"Woodcutter heard a blighted boar in the brambles above the Wren Brook ford. Big one."',
   ],
+  issues: [
+    '"Lunch at the Crook is three copper" - the Crook\'s noon plate cost Nala 2 copper on day seven',
+  ],
   lore: [
     "lore/overwhere-iii-brannagh-tull",
     "lore/overwhere-iii-brannagh-tull-2",
@@ -46,6 +49,6 @@ export const overwhereIii00095 = {
     "lore/overwhere-iii-nala-2-2",
     "place/overwhere-iii-wrenwood",
   ],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
   endsAt: "2026-10-10T13:00:00.000Z",
 } as const satisfies StoryTurnPlayed
