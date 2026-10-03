@@ -5,7 +5,7 @@ export const hollowmere0022IWantToStay = {
   type: "page-type/story-chapter-written",
   slug: "hollowmere-0022-i-want-to-stay",
   cover: "image/image-c20a2594c0f4881e",
-  ownProgress: 2127,
+  ownProgress: 2258,
   position: 22,
   unit: "unit/words",
   title: "I Want to Stay",
