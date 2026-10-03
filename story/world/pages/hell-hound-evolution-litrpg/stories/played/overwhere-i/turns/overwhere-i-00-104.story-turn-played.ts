@@ -10,7 +10,7 @@ export const overwhereI00104 = {
   position: 104,
   prose: "txt",
   characters: ["character-player/overwhere-i-nala"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/recorders",
   action:
     "“Lets do the ring, I like to keep my hands free. Anything we can do it make it stronger? I have gold to spare, say up to 50 gold investment? What options do you have for me?”",
   beats: [
@@ -28,6 +28,6 @@ export const overwhereI00104 = {
     'Ilse folds her inky hands on the counter. "So. Plain, second pearl, well-stone, or both?"',
   ],
   lore: ["lore/overwhere-i-nala", "lore/overwhere-i-nala-2", "lore/overwhere-i-wendlow-2"],
-  reviewedBy: ["story-reviewer/continuity"],
+  reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
   endsAt: "2026-10-05T13:10:00.000Z",
 } as const satisfies StoryTurnPlayed
