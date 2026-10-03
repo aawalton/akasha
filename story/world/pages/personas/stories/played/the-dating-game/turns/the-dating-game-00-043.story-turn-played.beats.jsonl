@@ -1,10 +1,11 @@
 {"beat":1,"event":"He sits down on the grass a little way from her and joins her stretches."}
 {"beat":2,"event":"She beams at him. \"Yes! Stretch buddy!\""}
-{"beat":3,"event":"She leads, calling each stretch out loud like a class: hamstrings, then hips, then calves."}
+{"beat":3,"event":"She leads, calling each stretch out loud like a class: hamstrings, then hips, then calves.","memory":[{"page":"lore/the-dating-game-aelwyn","fact":"Aelwyn leads her stretches aloud like a class: hamstrings, then hips, then calves.","shown":true},{"page":"lore/the-dating-game-aelwyn","fact":"Aelwyn leads her stretches aloud like a class: hamstrings, then hips, then calves.","learns":"character-player/the-dating-game-alan"}]}
 {"beat":4,"event":"Partway through the hamstrings she glances over at him, and her head tilts."}
-{"beat":5,"event":"\"Tiny note? Back flat, and reach from your hips, not your shoulders. Hinge!\""}
-{"beat":6,"event":"He tries it, and the stretch lands deeper in the backs of his legs."}
+{"beat":5,"event":"\"Tiny note? Back flat, and reach from your hips, not your shoulders. Hinge!\"","memory":[{"page":"lore/the-dating-game-aelwyn","fact":"Aelwyn coached Alan's hamstring stretch: back flat, hinge from the hips, not the shoulders.","shown":true},{"page":"lore/the-dating-game-aelwyn","fact":"Aelwyn coached Alan's hamstring stretch: back flat, hinge from the hips, not the shoulders.","learns":"character-player/the-dating-game-alan"},{"page":"lore/the-dating-game-aelwyn","fact":"Aelwyn coached Alan's hamstring stretch: back flat, hinge from the hips, not the shoulders.","learns":"character-other/the-dating-game-aelwyn"}]}
+{"beat":6,"event":"He tries it, and the stretch lands deeper in the backs of his legs.","changes":[{"page":"world-relationship/the-dating-game-aelwyn","key":"relationshipPoints","from":3,"to":4,"note":"Closeness scoring: validation 1 for joining her stretches and taking her note"}]}
 {"beat":7,"event":"\"THAT'S the hinge! Look at you. Natural.\""}
 {"beat":8,"event":"They stand for a quad stretch on one foot each; she holds hers steady as a fence post."}
 {"beat":9,"event":"Afterward she flops back in the grass with her arms flung out, squinting up through the pines."}
-{"beat":10,"event":"\"Oh, heads up. You're in today's video. It goes up tonight. You're gonna be internet famous.\""}
+{"beat":10,"event":"\"Oh, heads up. You're in today's video. It goes up tonight. You're gonna be internet famous.\"","at":"2026-09-27T10:37:00.000Z","memory":[{"page":"lore/the-dating-game-aelwyn","fact":"Alan is in Aelwyn's Sunday workout video, which she posts that same night.","shown":true},{"page":"lore/the-dating-game-aelwyn","fact":"Alan is in Aelwyn's Sunday workout video, which she posts that same night.","learns":"character-player/the-dating-game-alan"},{"page":"lore/the-dating-game-aelwyn","fact":"Alan is in Aelwyn's Sunday workout video, which she posts that same night.","learns":"character-other/the-dating-game-aelwyn"}]}
+
