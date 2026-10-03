@@ -82,7 +82,7 @@ export function rerollSettled(row: Row | undefined, cover: string): Settled {
   return { settled: true, refused: typeof refused === "string" && refused !== "" ? refused : null }
 }
 
-export type Rerolling = {
+type Rerolling = {
   readonly asking: string | null
   readonly refused: string | null
   readonly ask: (cover: string) => undefined
