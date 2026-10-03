@@ -10,4 +10,5 @@ export const dateNightTheReadingRoom0002WhatTheFortIsFor = {
   ownLength: 757,
   unit: "unit/words",
   prose: "txt",
+  beats: "jsonl",
 } as const satisfies StoryChapterWritten
