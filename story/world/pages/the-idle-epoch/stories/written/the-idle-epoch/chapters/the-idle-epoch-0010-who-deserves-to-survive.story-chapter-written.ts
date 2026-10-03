@@ -10,4 +10,6 @@ export const theIdleEpoch0010WhoDeservesToSurvive = {
   ownLength: 5563,
   unit: "unit/words",
   prose: "txt",
+  beats: "jsonl",
+  stepStatus: "step-status/player",
 } as const satisfies StoryChapterWritten

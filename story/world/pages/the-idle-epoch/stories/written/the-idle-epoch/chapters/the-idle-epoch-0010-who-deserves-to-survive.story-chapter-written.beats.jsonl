@@ -1,0 +1,69 @@
+{"beat":1,"event":"Pip chimes twice, a sharp staccato warning Callum has never heard before.","at":"2025-12-31T14:24:00.000Z","place":"place/the-idle-epoch-warehouse","present":["character-player/the-idle-epoch-callum","character-other/the-idle-epoch-jin","character-other/the-idle-epoch-mira"]}
+{"beat":2,"event":"Compound Growth is climbing back, 9.4%, 9.7%, the feedback tighter since the Script Engine upgrade."}
+{"beat":3,"event":"Pip's status: external approach, single entity, threat indeterminate. \"Jin. Wake up.\""}
+{"beat":4,"event":"Jin sits up from beside Chunk; Pixel chirps confirmation, and Jin brings Zephyr from standby."}
+{"beat":5,"event":"Loop Analysis finds one contact: no constructs, no squad, and a power reading of Level 40-plus."}
+{"beat":6,"event":"Mira is already at the loading door, hand on her hilt; her Danger Sense heard Pip's threat first."}
+{"beat":7,"event":"A tall man walks up the access road alone, grey at the temples, in scarred Commander plate."}
+{"beat":8,"event":"Insignia display off, no entourage, a greatsword across his back: Drake Morrison."}
+{"beat":9,"event":"\"He's alone.\" \"I noticed.\" \"That's either very good or very bad.\""}
+{"beat":10,"event":"Drake nods to Mira, fighter to fighter: he's here to talk to her builder, not to fight.","arrive":["character-other/the-idle-epoch-drake"]}
+{"beat":11,"event":"\"You brought a sword.\" \"I always bring a sword. So do you.\" She steps aside, not far."}
+{"beat":12,"event":"Drake walks the array without a word, and stands a long time watching the Enhancement Construct."}
+{"beat":13,"event":"His output doubled five times in two weeks, Drake says, flagged by Bray. \"And you're Level 20.\""}
+{"beat":14,"event":"\"Twenty-two.\" Two level-ups that morning, their points dumped into Intelligence and Wisdom.","changes":[{"page":"metric-character-level/the-idle-epoch-callum","key":"value","from":20,"to":22,"note":"Two level-ups the prose tells only in summary, that morning before Drake comes"},{"page":"metric-character-stat/the-idle-epoch-callum-intelligence","key":"value","from":66,"to":70,"note":"Levels 21 and 22: +2 each; prose gives no figure, so taken from Level 23's 72"},{"page":"metric-character-stat/the-idle-epoch-callum-wisdom","key":"value","from":69,"to":73,"note":"Levels 21 and 22: +2 each; prose gives no figure, so taken from Level 23's 75"}]}
+{"beat":15,"event":"Drake has been Level 42 for three weeks; the curve past forty is a cliff."}
+{"beat":16,"event":"Last Tuesday he killed a six-legged Fracture boss; it took forty minutes and three potions."}
+{"beat":17,"event":"An engineer with four constructs will out-earn him by doing nothing. \"Automation.\" \"Same thing.\""}
+{"beat":18,"event":"His people pulled the class registry: one Loopweaver in the world, and he's in Drake's zone."}
+{"beat":19,"event":"\"I'm not here because I'm angry. I'm here because I'm scared.\""}
+{"beat":20,"event":"Scared of the next surge, with the Barrier resting on someone who has never really fought."}
+{"beat":21,"event":"He has buried sixty-three people, forty-one in the first month, and keeps their names in a journal."}
+{"beat":22,"event":"If the machines crash, who fights? \"You? With your fifteen Strength?\" Callum says nothing."}
+{"beat":23,"event":"He offers a choice. One: join the Vanguard, protected, with forty percent of his output to it."}
+{"beat":24,"event":"Everyone's constrained, Drake says: by people who want you alive, or by a surge that doesn't care."}
+{"beat":25,"event":"Two: cease independent construct operations and contribute through official channels."}
+{"beat":26,"event":"He pays his Residuum, Callum says. The minimum, says Drake, of ten times what he could."}
+{"beat":27,"event":"Neither? Then Drake can't guarantee his zone access continues. Not a threat; a fact."}
+{"beat":28,"event":"Callum: Drake is hitting a wall while wave intensity rises five percent a month. Exponential."}
+{"beat":29,"event":"\"I'm not your enemy. I'm the only thing in this zone scaling fast enough to match what's coming.\""}
+{"beat":30,"event":"Something load-bearing in Drake cracks; he holds up hands mapped with burns and scars."}
+{"beat":31,"event":"Every scar is a monster that didn't reach the Barrier. Power not earned can't be trusted."}
+{"beat":32,"event":"\"It cares about throughput,\" Callum says. \"Then the Substrate is wrong,\" says Drake."}
+{"beat":33,"event":"It is belief built on graves: Marcus Morrison died on Day Three, holding a line at I-94."}
+{"beat":34,"event":"Mathematically wrong, Callum knows; but not morally wrong, and he has no answer to it."}
+{"beat":35,"event":"He lost seven coworkers on Day One, hiding nine hours in a hydraulic press. He knows the cost."}
+{"beat":36,"event":"Drake nods once: acknowledgment, not agreement. \"Think about it. You have a week.\""}
+{"beat":37,"event":"At the door: things that don't bleed don't fight hard enough when it matters. He goes.","leave":["character-other/the-idle-epoch-drake"]}
+{"beat":38,"event":"Mira doesn't relax until his footsteps pass beyond the reach of her Danger Sense."}
+{"beat":39,"event":"Jin: his scout read Drake like the sun through a pinhole. Strength 98, 1,338 HP, Callum says."}
+{"beat":40,"event":"Join, cease, or lose the zones: every option fails. There is a fourth: Condense."}
+{"beat":41,"event":"\"I'm going to Condense.\" His voice is flat; his hands are not steady, and Pip flickers fast."}
+{"beat":42,"event":"Level 1, Mira says: anything in this zone that kills a Level 20 kills him in one hit."}
+{"beat":43,"event":"\"That's why I need you. Both of you. While I'm weak.\""}
+{"beat":44,"event":"Jin balks; Callum has the curve: with 1.5x, nine days back to 25, then Condense again."}
+{"beat":45,"event":"\"Stop mathing and listen to me.\" Nine days where anyone can walk in and push, Mira says."}
+{"beat":46,"event":"\"Is it insane if the math works?\" \"Math doesn't stop a sword.\" \"No. That's what you're for.\""}
+{"beat":47,"event":"\"Okay,\" Mira says: the hard kind of trust. But a plan, fallbacks, and if he's off by a day..."}
+{"beat":48,"event":"She'll drag him to the Barrier by his collar. \"My math isn't wrong.\" \"It better not be.\""}
+{"beat":49,"event":"Jin, hands shaking: the first compound-prestige attempt in Detroit? \"Obviously I'm in.\""}
+{"beat":50,"event":"A sword saint and a sophomore with a calculator talisman: for a moment all that's left is gratitude."}
+{"beat":51,"event":"\"First,\" he says, \"we level.\""}
+{"beat":52,"event":"Three skill points take Compile Familiar to 3: a status display, and Pip runs one thread alone."}
+{"beat":53,"event":"\"Hey. You in there?\" Pip chimes, warm as a struck tuning fork. \"Good. We're going to need you.\""}
+{"beat":54,"event":"Thirty-one hours after the reset, Compound Growth is at 11.2%, and the push begins."}
+{"beat":55,"event":"A nineteen-line rewrite on Script Engine 5 gives the Sentinel eight percent more kill speed."}
+{"beat":56,"event":"Chunk and Zephyr fight beside the Sentinel in the Flats, clearing spawns forty percent faster."}
+{"beat":57,"event":"Mira runs the Overgrowth on foot twelve hours a day, front-loading the danger."}
+{"beat":58,"event":"Level up, 22 to 23: Intelligence 72, Wisdom 75, Willpower 39. He banks the skill points.","at":"2026-01-01T15:00:00.000Z","changes":[{"page":"metric-character-level/the-idle-epoch-callum","key":"value","from":22,"to":23,"note":"Level 22 to 23 during the forty-eight-hour push"},{"page":"metric-character-stat/the-idle-epoch-callum-intelligence","key":"value","from":70,"to":72,"note":"Level 23: +2 Intelligence"},{"page":"metric-character-stat/the-idle-epoch-callum-wisdom","key":"value","from":73,"to":75,"note":"Level 23: +2 Wisdom"}]}
+{"beat":59,"event":"Each level is a step closer to 25, and the choice that waits there."}
+{"beat":60,"event":"Fourteen hours later: 23 to 24. Intelligence 74, Wisdom 77; Compound Growth +27.8%.","at":"2026-01-02T05:00:00.000Z","present":["character-player/the-idle-epoch-callum"],"changes":[{"page":"metric-character-level/the-idle-epoch-callum","key":"value","from":23,"to":24,"note":"Level 23 to 24 fourteen hours later"},{"page":"metric-character-stat/the-idle-epoch-callum-intelligence","key":"value","from":72,"to":74,"note":"Level 24: +2 Intelligence"},{"page":"metric-character-stat/the-idle-epoch-callum-wisdom","key":"value","from":75,"to":77,"note":"Level 24: +2 Wisdom"}]}
+{"beat":61,"event":"About 14,200 Essence a day. HP 410, MP 1,007, Complexity 42, Idle Yield 2.54x."}
+{"beat":62,"event":"Numbers fit for a Level 40 mage, in a body that couldn't outrun a moderately annoyed dog."}
+{"beat":63,"event":"Condense threshold approaching: about 42 Prestige Shards, a projected 1.5x. This cannot be reversed."}
+{"beat":64,"event":"The Substrate never warns; here it does. He dismisses it and lies back."}
+{"beat":65,"event":"One more level, tomorrow or the day after. Then 410 HP becomes 151."}
+{"beat":66,"event":"But the multiplier, his mind whispers: nine days back to 25, and faster every cycle after."}
+{"beat":67,"event":"He thinks of Drake's scarred hands, Mira's \"Okay,\" and seven coworkers dying behind sheet metal."}
+{"beat":68,"event":"Pip's glow makes a small gold circle on the wall. \"One more level.\" Pip chimes, soft and sure."}
+{"beat":69,"event":"He doesn't sleep; he watches the numbers climb behind his eyelids. This time, everyone is watching."}
