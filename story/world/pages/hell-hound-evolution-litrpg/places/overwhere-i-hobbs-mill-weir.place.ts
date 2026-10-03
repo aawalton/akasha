@@ -29,7 +29,7 @@ export const overwhereIHobbsMillWeir = {
     },
     {
       fact: "A holed barge lies half-sunk against the pool's far west bank, its bow stove in.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
     {
       fact: "A broad slick of crushed weed and mud runs up the weir apron from the pool, where something basks.",
