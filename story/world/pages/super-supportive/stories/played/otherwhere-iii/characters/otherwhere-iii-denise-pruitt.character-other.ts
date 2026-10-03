@@ -7,5 +7,5 @@ export const otherwhereIiiDenisePruitt = {
   title: "Denise Pruitt",
   world: "world/super-supportive",
   story: "story-played/otherwhere-iii",
-  place: "place/otherwhere-iii-red-line-car",
+  place: "place/otherwhere-iii-uptown-memorial-er",
 } as const satisfies CharacterOther
