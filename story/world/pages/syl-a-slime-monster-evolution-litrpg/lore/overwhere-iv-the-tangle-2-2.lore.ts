@@ -140,5 +140,29 @@ export const overwhereIvTheTangle22 = {
       fact: "The hunters halt at the cleft, finding their six dead stripped of ears, and squabble there a while.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Leaving at first light, the hunters reach the watchers' rise by half past six, then track.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Tracking, the hunters reach the cleft about eight, and squabble over their dead till half past.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The hunters go single file on the trail, the scouts ahead, the hobgoblin in the middle with a maul.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The goblin hunters bear spears, knives and hatchets, but for the three slingers; none wears mail.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "By day a hunter sees one on open trail at sixty paces; one creeping in brush at twenty.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The hunters mutter as they go and are heard at forty paces; the scouts go silent.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
