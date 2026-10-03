@@ -10,7 +10,7 @@ export const overwhereI00115 = {
   position: 115,
   prose: "txt",
   characters: ["character-player/overwhere-i-nala"],
-  stepStatus: "step-status/game-master",
+  stepStatus: "step-status/writer",
   action:
     "I spend the afternoon testing weaves to see if I can get something to repair the tears in my clothes.",
   beats: [
@@ -22,8 +22,7 @@ export const overwhereI00115 = {
     "Earth with water, last: the wool fibres creep together and lock.",
     "The rent at the ribs felts shut in a stiff, ridged seam, a hand-span long, in about five minutes.",
     "She works the slit sleeve the same way; another ridge, stiff but whole.",
-    "The tunic pulls on stiff where the seams run, but it holds.",
-    "Late sun slants across Wendlow. Nala's throat is dry; supper smoke drifts from the Bell and Barrel.",
+    "Throat dry from the long afternoon, Nala pulls the tunic on and rolls her shoulders; the seams hold.",
   ],
   issues: [
     '"edges frayed and stiff with old blood" - she steam-cleaned her clothes earlier on day 8',
