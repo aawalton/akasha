@@ -114,7 +114,7 @@ export const overwhereIiCallowBeck = {
     },
     {
       fact: "Undertow moves the slick's black water like any water, and can drive it back up the gully.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Pulled into her, slick water sinks into Nala's well like the Sea's own, cold, and does no harm.",
@@ -186,6 +186,18 @@ export const overwhereIiCallowBeck = {
     },
     {
       fact: "Black water trickles from the slick's lower edge, a thin thread creeping to the longhouse.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+    },
+    {
+      fact: "Late on day twenty-seven, Nala has pushed the whole black slick back into the gully mouth.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+    },
+    {
+      fact: "Ebba will not have her grandsons on the mountain after dark.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+    },
+    {
+      fact: "Cleared of the slick, the high pasture lies grey with salt, steaming faintly, six carcasses on it.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
   ],
