@@ -1,0 +1,75 @@
+{"beat":1,"event":"The Floor 11 door opens and warm, sweet, wet air breathes out at the party.","at":"2000-01-04T12:00:00.000Z","place":"place/tower-and-the-star-floor-11-fungal-canopy","present":["character-other/tower-and-the-star-solenne","character-other/tower-and-the-star-dayo","character-other/tower-and-the-star-miriam","character-other/tower-and-the-star-vesper","character-other/tower-and-the-star-tomas","character-other/tower-and-the-star-nadia"],"changes":[{"page":"world-metric/tower-and-the-star-highest-floor-reached","key":"value","from":10,"to":11,"note":"The party reaches Floor 11"}]}
+{"beat":2,"event":"Solenne takes in a fungal forest lit pale blue, yellow and violet under a 40-meter ceiling."}
+{"beat":3,"event":"All six stand still while their senses recalibrate to the breathing biome."}
+{"beat":4,"event":"Nadia jokes that it smells like the Tower is trying."}
+{"beat":5,"event":"Tomás moves ten meters ahead on the soft, sound-deadening fungal floor."}
+{"beat":6,"event":"Tomás reports ceiling heights and sight lines and admits his noise-read is degraded."}
+{"beat":7,"event":"Solenne raises the Annotated Staff and activates Arcane Analysis."}
+{"beat":8,"event":"Analysis shows the three light colors are a floor mechanic: navigation, Mana warning, territory."}
+{"beat":9,"event":"Solenne spots six Sporeback Ramblers forty meters out between two trunk-columns."}
+{"beat":10,"event":"Analysis rates the Ramblers Adaptive Tier I with a shared sensory pool and a Spore Cloud DoT."}
+{"beat":11,"event":"Solenne realizes the cluster cannot be isolated; it acts as one distributed awareness."}
+{"beat":12,"event":"She sends the data through Harmony Conductor with her urgency to fill a gap layered in."}
+{"beat":13,"event":"Dayo reads the V-pattern and plans to hit the formation as a formation."}
+{"beat":14,"event":"Dayo asks Miriam for regen before contact and Vesper about the spore growth."}
+{"beat":15,"event":"Solenne explains the Spore Cloud DoT and that Nature's Veil can clear it; Miriam notes it."}
+{"beat":16,"event":"Nadia draws a Chaos Grenade and asks how smart the Ramblers are."}
+{"beat":17,"event":"Solenne says they are Tier I Adaptive and will adjust; Nadia says 'Cool cool cool.'"}
+{"beat":18,"event":"As the party approaches, the Ramblers invert their V and flank left and right."}
+{"beat":19,"event":"Dayo hits the center pair with Shield Rush, knocking the lead Rambler back."}
+{"beat":20,"event":"The second Rambler circles left into the dead ground to Tomás's left."}
+{"beat":21,"event":"The flanking Rambler slips through the gap and circles behind Dayo."}
+{"beat":22,"event":"The right-flanking Rambler pushes into the space between Miriam and Vesper."}
+{"beat":23,"event":"Dayo holds Iron Stance against the front pair, unaware of the Rambler behind her."}
+{"beat":24,"event":"The flanker detonates its spore cap on Dayo's left side, bypassing her armor."}
+{"beat":25,"event":"The System applies Spore Cloud to Dayo: 15 Nature damage per round until cleared."}
+{"beat":26,"event":"Dayo checks Miriam's position instead of asking if it is serious."}
+{"beat":27,"event":"Miriam crosses four meters to Dayo and puts a hand on her shoulder."}
+{"beat":28,"event":"Miriam's Nature's Veil clears the Spore Cloud from Dayo."}
+{"beat":29,"event":"Dayo's HP drops from 527 to 497 from the DoT before it is cleared."}
+{"beat":30,"event":"Tomás shoots three Ramblers through the joint under the spore cap."}
+{"beat":31,"event":"Nadia's Chaos Grenade rolls Slow on the rear pair; Dayo finishes the front pair."}
+{"beat":32,"event":"Vesper Quick Crafts a Paralysis compound that Solenne puts on an Arcane Bolt."}
+{"beat":33,"event":"The bolt locks the Rambler near Miriam; Nadia hits its underside with two knives."}
+{"beat":34,"event":"All six Ramblers die in two minutes and twelve seconds."}
+{"beat":35,"event":"Solenne notes Miriam spent 45 MP, far more than a Floor 7 fight."}
+{"beat":36,"event":"Miriam recalculates her reserves in her clinical notebook."}
+{"beat":37,"event":"Solenne writes in her personal notebook what went wrong: the dead ground left of Tomás."}
+{"beat":38,"event":"She writes: We need a new shape."}
+{"beat":39,"event":"Tomás comes down from his perch, reads the line, and says he knows the shape."}
+{"beat":40,"event":"Tomás shows a shape: his anchor eight meters left, Nadia's angle in, Miriam's corridor wider."}
+{"beat":41,"event":"The party spends fifteen minutes walking the new shape between the trunk-columns."}
+{"beat":42,"event":"Three hours into Floor 11, the new shape holds.","at":"2000-01-04T15:00:00.000Z"}
+{"beat":43,"event":"Tomás spots four Ramblers on patrol at thirty meters with Eagle Eye; the party deploys."}
+{"beat":44,"event":"A Rambler tries the old gap and meets Tomás's Precision Shot instead."}
+{"beat":45,"event":"Dayo finishes it with Shield Rush; the other three fall in forty seconds."}
+{"beat":46,"event":"Near the Chamber 4 wall, a large plated shape moves in the dense growth."}
+{"beat":47,"event":"Arcane Analysis reads a Level 13 Mycelid Shambler with ~420 HP and a 120+ slam."}
+{"beat":48,"event":"Solenne orders Dayo to kite it and Tomás to keep up sustained fire."}
+{"beat":49,"event":"Solenne sees Nadia lacks a grenade angle and is about to flag it."}
+{"beat":50,"event":"Tomás silently shifts three meters right to open a lane for Nadia."}
+{"beat":51,"event":"Dayo sidesteps the Shambler's overhead slam, which craters the floor."}
+{"beat":52,"event":"Dayo circles under Iron Stance while Tomás and Solenne hit the plate joints."}
+{"beat":53,"event":"Below 100 HP, Nadia's grenade rolls Burn and the Shambler's plates catch fire."}
+{"beat":54,"event":"Dayo cracks the central plates with a gauntlet strike and drops the Shambler."}
+{"beat":55,"event":"Vesper picks up the Mycelid Cap, notes it is Mana-absorbent, and stores it."}
+{"beat":56,"event":"The party pushes on, routing around violet Sporeback territory markers."}
+{"beat":57,"event":"Vesper silently checks consumable supply against the MP-spend rate."}
+{"beat":58,"event":"The party reaches a glowing rest alcove with a still pool at Chamber 4's north face.","place":"place/tower-and-the-star-floor-11-chamber-4-rest-node"}
+{"beat":59,"event":"Nadia calls it the most atmospheric place she has ever eaten trail rations; all laugh."}
+{"beat":60,"event":"They sit down and the rest node's ambient field begins its work."}
+{"beat":61,"event":"Miriam counts HP and MP; her own MP is 320 of 400."}
+{"beat":62,"event":"Miriam says she must recalculate her reserve margins and will have estimates tomorrow."}
+{"beat":63,"event":"Tomás leaves to scout the next chamber.","leave":["character-other/tower-and-the-star-tomas"]}
+{"beat":64,"event":"Tomás returns after four minutes: corridor runs northeast, no threats in range.","arrive":["character-other/tower-and-the-star-tomas"]}
+{"beat":65,"event":"Tomás sits and eats trail rations."}
+{"beat":66,"event":"Vesper deploys the Field Forge, getting a 30% rest node crafting bonus."}
+{"beat":67,"event":"Vesper crafts two Healing Potions and grenade components for Nadia."}
+{"beat":68,"event":"Vesper sets out the last casing and says 'Seven.'"}
+{"beat":69,"event":"Nadia loads the grenades into her bandolier and calls seven lucky."}
+{"beat":70,"event":"Dayo sits against the wall looking at the five tally marks on her bracer."}
+{"beat":71,"event":"Solenne opens her notebook to a clean page."}
+{"beat":72,"event":"She writes: Floor 11. Adaptive enemies. Shared sensory pools. New shapes required."}
+{"beat":73,"event":"She adds that Nadia was right about the smell."}
+{"beat":74,"event":"Solenne closes the notebook, then adds: The shape worked. Keep it."}
+{"beat":75,"event":"Solenne leans back against the fungal wall and lets the rest node work."}
