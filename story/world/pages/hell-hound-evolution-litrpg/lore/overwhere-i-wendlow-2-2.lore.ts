@@ -18,7 +18,7 @@ export const overwhereIWendlow22 = {
     },
     {
       fact: "No new contract is posted on day 8; Grete expects fresh slips with the tax rider on day 9.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
     {
       fact: "At the gate the watch knows her now; she pays her copper and is waved through with a grin.",
