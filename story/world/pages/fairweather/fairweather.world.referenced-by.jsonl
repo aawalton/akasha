@@ -12,6 +12,8 @@
 {"propertySlug":"world","path":"story/world/pages/fairweather/places/fairweather-lanternmere.place.ts","id":"01a102af-305c-7f6c-a6eb-97acd4d27bc7"}
 {"propertySlug":"world","path":"story/world/pages/fairweather/stories/written/fairweather/fairweather.story-written.ts","id":"01a10215-3699-7fef-ab58-970cff34ba37"}
 {"propertySlug":"world","path":"story/world/pages/fairweather/stories/written/fairweather/mechanics/classes-held/fairweather-elsie-enthraller.character-class.ts","id":"01a102af-305c-7885-b97a-56082fe2b625"}
+{"propertySlug":"world","path":"story/world/pages/fairweather/stories/written/fairweather/mechanics/classes-held/fairweather-tamsin-berserker.character-class.ts","id":"01a10364-ec0a-7fb9-9b21-b352ec9e9b9f"}
+{"propertySlug":"world","path":"story/world/pages/fairweather/stories/written/fairweather/mechanics/classes-held/fairweather-tilly-alchemist.character-class.ts","id":"01a10364-ec0b-7dde-84b0-9869e7693247"}
 {"propertySlug":"world","path":"story/world/pages/fairweather/stories/written/fairweather/mechanics/classes/fairweather-alchemist.world-class.ts","id":"01a102af-305c-7a80-9bc9-b67fa4b4bf5a"}
 {"propertySlug":"world","path":"story/world/pages/fairweather/stories/written/fairweather/mechanics/classes/fairweather-berserker.world-class.ts","id":"01a102af-305c-7daf-ad12-4e40e4706b3b"}
 {"propertySlug":"world","path":"story/world/pages/fairweather/stories/written/fairweather/mechanics/classes/fairweather-enthraller.world-class.ts","id":"01a10218-24b0-7c66-b4ba-54a68574e6cf"}
@@ -25,6 +27,9 @@
 {"propertySlug":"world","path":"story/world/pages/fairweather/stories/written/fairweather/mechanics/mechanics/fairweather-money.world-mechanic.ts","id":"01a102af-305c-70d4-adbe-417d08619eaa"}
 {"propertySlug":"world","path":"story/world/pages/fairweather/stories/written/fairweather/mechanics/mechanics/fairweather-progression.world-mechanic.ts","id":"01a10217-bc64-7a62-9cb1-61faa960faa2"}
 {"propertySlug":"world","path":"story/world/pages/fairweather/stories/written/fairweather/mechanics/mechanics/fairweather-system.world-mechanic.ts","id":"01a10217-60b3-725d-9145-89f9253d5959"}
+{"propertySlug":"world","path":"story/world/pages/fairweather/stories/written/fairweather/mechanics/ranks-held/fairweather-elsie-rank-f.character-rank.ts","id":"01a10364-ec0b-7f10-8ccf-ddb3cc5172a3"}
+{"propertySlug":"world","path":"story/world/pages/fairweather/stories/written/fairweather/mechanics/ranks-held/fairweather-tamsin-rank-e.character-rank.ts","id":"01a10364-ec0b-7a0b-a04e-2b199a76cf58"}
+{"propertySlug":"world","path":"story/world/pages/fairweather/stories/written/fairweather/mechanics/ranks-held/fairweather-tilly-rank-f.character-rank.ts","id":"01a10364-ec0b-794e-8d31-31d20fa35d3d"}
 {"propertySlug":"world","path":"story/world/pages/fairweather/stories/written/fairweather/mechanics/ranks/fairweather-rank-a.world-rank.ts","id":"01a1021c-f2f3-7bb7-9b89-8c7dbd4eca83"}
 {"propertySlug":"world","path":"story/world/pages/fairweather/stories/written/fairweather/mechanics/ranks/fairweather-rank-b.world-rank.ts","id":"01a1021c-a2bd-7ce9-8078-7f33b4660e02"}
 {"propertySlug":"world","path":"story/world/pages/fairweather/stories/written/fairweather/mechanics/ranks/fairweather-rank-c.world-rank.ts","id":"01a1021c-53f3-7876-a704-4858351176f1"}

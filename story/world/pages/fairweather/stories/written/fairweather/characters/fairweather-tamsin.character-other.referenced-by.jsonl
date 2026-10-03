@@ -1,5 +1,6 @@
 {"propertySlug":"characters","path":"story/world/pages/fairweather/stories/written/fairweather/chapters/fairweather-0001-black-strong-one-sugar.story-chapter-written.ts","id":"01a102a0-254d-78bc-af8f-82a070b940ba"}
 {"propertySlug":"characters","path":"story/world/pages/fairweather/stories/written/fairweather/mechanics/relationships/fairweather-elsie-tamsin.world-relationship.ts","id":"01a10321-4a85-7a65-973b-6efff5607ff2"}
+{"propertySlug":"class-character","path":"story/world/pages/fairweather/stories/written/fairweather/mechanics/classes-held/fairweather-tamsin-berserker.character-class.ts","id":"01a10364-ec0a-7fb9-9b21-b352ec9e9b9f"}
 {"propertySlug":"item-character","path":"story/world/pages/fairweather/stories/written/fairweather/items/fairweather-moonbell-notice.story-item.ts","id":"01a10326-1ad7-71de-ae00-932bb01e63ed"}
 {"propertySlug":"lore-about","path":"story/world/pages/fairweather/lore/fairweather-tamsin.lore.ts","id":"01a102af-305b-752b-8db1-4beab20b8a77"}
 {"propertySlug":"lore-knowers","path":"story/world/pages/fairweather/lore/fairweather-elsie.lore.ts","id":"01a102af-305b-75fd-9216-abb5a2e7bac6"}
@@ -10,6 +11,7 @@
 {"propertySlug":"lore-knowers","path":"story/world/pages/fairweather/places/fairweather-guild-hall.place.ts","id":"01a102af-305b-7db6-bb17-c8e7a115ede2"}
 {"propertySlug":"lore-knowers","path":"story/world/pages/fairweather/places/fairweather-hall-of-naming.place.ts","id":"01a102af-305b-796e-8e56-39b5d004a564"}
 {"propertySlug":"lore-knowers","path":"story/world/pages/fairweather/places/fairweather-lanternmere.place.ts","id":"01a102af-305c-7f6c-a6eb-97acd4d27bc7"}
+{"propertySlug":"rank-character","path":"story/world/pages/fairweather/stories/written/fairweather/mechanics/ranks-held/fairweather-tamsin-rank-e.character-rank.ts","id":"01a10364-ec0b-7a0b-a04e-2b199a76cf58"}
 {"propertySlug":"skill-character","path":"story/world/pages/fairweather/stories/written/fairweather/mechanics/skills-held/fairweather-tamsin-cleave.character-skill.ts","id":"01a10364-98f2-766e-80be-5852289cb143"}
 {"propertySlug":"skill-character","path":"story/world/pages/fairweather/stories/written/fairweather/mechanics/skills-held/fairweather-tamsin-endure.character-skill.ts","id":"01a10364-98f3-7ae3-be4c-c1bd997c5bbc"}
 {"propertySlug":"skill-character","path":"story/world/pages/fairweather/stories/written/fairweather/mechanics/skills-held/fairweather-tamsin-frenzy.character-skill.ts","id":"01a10364-98f3-7e5f-9fcf-cf94fe99ff03"}

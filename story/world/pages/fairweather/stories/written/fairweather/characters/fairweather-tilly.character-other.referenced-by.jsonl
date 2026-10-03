@@ -1,5 +1,6 @@
 {"propertySlug":"characters","path":"story/world/pages/fairweather/stories/written/fairweather/chapters/fairweather-0001-black-strong-one-sugar.story-chapter-written.ts","id":"01a102a0-254d-78bc-af8f-82a070b940ba"}
 {"propertySlug":"characters","path":"story/world/pages/fairweather/stories/written/fairweather/mechanics/relationships/fairweather-elsie-tilly.world-relationship.ts","id":"01a10321-4a85-748a-b3d0-6471dc34d87c"}
+{"propertySlug":"class-character","path":"story/world/pages/fairweather/stories/written/fairweather/mechanics/classes-held/fairweather-tilly-alchemist.character-class.ts","id":"01a10364-ec0b-7dde-84b0-9869e7693247"}
 {"propertySlug":"item-character","path":"story/world/pages/fairweather/stories/written/fairweather/items/fairweather-vial-belt.story-item.ts","id":"01a10326-1ad8-76d6-ae24-5d2703975212"}
 {"propertySlug":"lore-about","path":"story/world/pages/fairweather/lore/fairweather-tilly.lore.ts","id":"01a102af-305b-72c4-9abd-15bcc7901682"}
 {"propertySlug":"lore-knowers","path":"story/world/pages/fairweather/lore/fairweather-elsie.lore.ts","id":"01a102af-305b-75fd-9216-abb5a2e7bac6"}
@@ -10,5 +11,6 @@
 {"propertySlug":"lore-knowers","path":"story/world/pages/fairweather/places/fairweather-guild-hall.place.ts","id":"01a102af-305b-7db6-bb17-c8e7a115ede2"}
 {"propertySlug":"lore-knowers","path":"story/world/pages/fairweather/places/fairweather-hall-of-naming.place.ts","id":"01a102af-305b-796e-8e56-39b5d004a564"}
 {"propertySlug":"lore-knowers","path":"story/world/pages/fairweather/places/fairweather-lanternmere.place.ts","id":"01a102af-305c-7f6c-a6eb-97acd4d27bc7"}
+{"propertySlug":"rank-character","path":"story/world/pages/fairweather/stories/written/fairweather/mechanics/ranks-held/fairweather-tilly-rank-f.character-rank.ts","id":"01a10364-ec0b-794e-8d31-31d20fa35d3d"}
 {"propertySlug":"skill-character","path":"story/world/pages/fairweather/stories/written/fairweather/mechanics/skills-held/fairweather-tilly-brew.character-skill.ts","id":"01a10364-98f3-77e1-b6f1-1fcf033e8b41"}
 {"propertySlug":"skill-character","path":"story/world/pages/fairweather/stories/written/fairweather/mechanics/skills-held/fairweather-tilly-distil.character-skill.ts","id":"01a10364-98f3-7684-8c62-3c2f8defc3c4"}

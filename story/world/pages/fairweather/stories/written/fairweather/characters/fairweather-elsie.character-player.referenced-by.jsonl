@@ -24,5 +24,6 @@
 {"propertySlug":"metric-of-character","path":"story/world/pages/fairweather/stories/written/fairweather/mechanics/metrics/experiences/fairweather-elsie.metric-character-experience.ts","id":"01a102af-305c-7b9c-92e3-ca176b2f51e7"}
 {"propertySlug":"metric-of-character","path":"story/world/pages/fairweather/stories/written/fairweather/mechanics/metrics/levels/fairweather-elsie.metric-character-level.ts","id":"01a102af-305c-76ff-970c-b90bf54d4fe8"}
 {"propertySlug":"metric-of-character","path":"story/world/pages/fairweather/stories/written/fairweather/mechanics/metrics/purses/fairweather-elsie.metric-character-currency.ts","id":"01a102af-305c-7b0f-8e6f-386f3c68682f"}
+{"propertySlug":"rank-character","path":"story/world/pages/fairweather/stories/written/fairweather/mechanics/ranks-held/fairweather-elsie-rank-f.character-rank.ts","id":"01a10364-ec0b-7f10-8ccf-ddb3cc5172a3"}
 {"propertySlug":"skill-character","path":"story/world/pages/fairweather/stories/written/fairweather/mechanics/skills-held/fairweather-elsie-captivate.character-skill.ts","id":"01a10364-98f2-79e6-b20b-051ea6a8c90a"}
 {"propertySlug":"skill-character","path":"story/world/pages/fairweather/stories/written/fairweather/mechanics/skills-held/fairweather-elsie-tether.character-skill.ts","id":"01a10364-98f2-7d20-976b-d18a15a86647"}
