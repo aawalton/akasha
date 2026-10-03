@@ -4,6 +4,7 @@ export const overwhereIii00084 = {
   id: "01a0ff5d-8f53-7f44-baca-8e53104f53ec",
   type: "page-type/story-turn-played",
   slug: "overwhere-iii-00-084",
+  cover: "image/image-5a21b3aecbaa6508",
   ownLength: 293,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iii"],
@@ -14,7 +15,7 @@ export const overwhereIii00084 = {
     "character-other/overwhere-iii-edda-crane",
     "character-other/overwhere-iii-mother-sallow",
   ],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action:
     "“Corrupt wolves, I fought them off, but they hurt me bad, can you get me to the shrine? That’s my best chance to heal myself.”",
   beats: [
@@ -54,6 +55,13 @@ export const overwhereIii00084 = {
     "lore/overwhere-iii-nala-2-2",
   ],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/memory", "story-recorder/mechanics"],
+  recordedBy: [
+    "story-recorder/inventory",
+    "story-recorder/memory",
+    "story-recorder/mechanics",
+    "story-recorder/picture",
+  ],
   endsAt: "2026-10-08T16:35:00.000Z",
+  coverAfter:
+    "You sag against the stone. Your palms are raw again, but the cold is gone from your blood.",
 } as const satisfies StoryTurnPlayed
