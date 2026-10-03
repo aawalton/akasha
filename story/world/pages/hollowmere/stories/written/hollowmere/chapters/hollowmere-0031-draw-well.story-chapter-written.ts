@@ -4,13 +4,14 @@ export const hollowmere0031DrawWell = {
   id: "01a101fd-88bf-77d0-b795-8fa80381f4af",
   type: "page-type/story-chapter-written",
   slug: "hollowmere-0031-draw-well",
+  cover: "image/image-71f478324daf3ee6",
   position: 31,
   unit: "unit/words",
   title: "Draw Well",
   story: "story-written/hollowmere",
   ownLength: 3660,
   prose: "txt",
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   beats: [
     "Wednesday of week five: a hard bright frost; the quad white, the mere steaming in the low sun.",
     "Bea runs the shore and comes back pink, and eats porridge with her hand on your knee.",
@@ -92,5 +93,25 @@ export const hollowmere0031DrawWell = {
     "character-other/hollowmere-kit",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/mechanics", "story-recorder/memory"],
+  recordedBy: [
+    "story-recorder/inventory",
+    "story-recorder/mechanics",
+    "story-recorder/memory",
+    "story-recorder/picture",
+  ],
+  scenes: ["image/image-2a05961b75ff1a26", "image/image-71f478324daf3ee6"],
+  pictured: [
+    {
+      cover: "image/image-2a05961b75ff1a26",
+      coverAfter: "In her knickers, only that. With her arms crossed over her chest.",
+      character: "character-other/hollowmere-lin",
+      outfit: "white cotton knickers",
+    },
+    {
+      cover: "image/image-71f478324daf3ee6",
+      coverAfter: "Her small soft breasts. Her light brown nipples, hard in the cool of",
+      character: "character-other/hollowmere-lin",
+      outfit: "naked",
+    },
+  ],
 } as const satisfies StoryChapterWritten
