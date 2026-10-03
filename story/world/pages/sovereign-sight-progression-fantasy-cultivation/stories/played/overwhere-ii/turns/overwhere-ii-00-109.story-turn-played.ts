@@ -11,4 +11,5 @@ export const overwhereIi00109 = {
   action:
     "“Okay, I cleansed a few paces, but you can’t tell, it’s filling just as fast. Lets go see if this keeper gas any ideas.”",
   lore: ["lore/overwhere-ii-maud-ashby", "place/overwhere-ii-whitecombs-2"],
+  endsAt: "2026-10-26T20:58:00.000Z",
 } as const satisfies StoryTurnPlayed
