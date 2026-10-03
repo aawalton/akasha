@@ -124,5 +124,9 @@ export const overwhereIWendlow22 = {
       fact: "New slip: 18 gold for a Level 20 mantis-beast taking sheep and a shepherd on Coldbrook Downs.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Lowcross ferry lies half a day east of Wendlow; the Ferryman's bounty pays on him, alive or dead.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
