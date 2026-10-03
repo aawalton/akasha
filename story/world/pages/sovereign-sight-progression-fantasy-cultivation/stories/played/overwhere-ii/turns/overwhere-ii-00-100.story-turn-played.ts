@@ -10,7 +10,7 @@ export const overwhereIi00100 = {
   position: 100,
   prose: "txt",
   characters: ["character-player/overwhere-ii-nala"],
-  stepStatus: "step-status/game-master",
+  stepStatus: "step-status/writer",
   action: "I test my strength, Pushing against the blackness",
   beats: [
     "Nala walks to the slick's lower edge and plants the spear butt in the grass.",
@@ -22,7 +22,7 @@ export const overwhereIi00100 = {
     "It fights her every pace. Twice it surges back and she has to take the ground again.",
     "It's plain work, like towing, but slow. The sun slides west across the Whitecombs.",
     "Close to two hours on, the whole slick is heaped black in the narrow gully mouth.",
-    "The pasture below lies bare, grey with salt, steaming faintly.",
+    "The pasture below lies grey with salt, steaming faintly, the six carcasses still on it.",
     "Nala eases off, breathing deep through her refined lungs.",
     "At once the black water at the gully mouth leans down again. A finger's width. Then two.",
     "Ebba stands at the longhouse door with a bundle on her back, watching.",
