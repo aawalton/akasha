@@ -1,0 +1,71 @@
+{"beat":1,"event":"The party walks Floor 12's first passage: narrow, white calcite, low ceiling, slick floor.","at":"2000-01-05T13:30:00.000Z","place":"place/tower-and-the-star-floor-12-entry-passage","present":["character-other/tower-and-the-star-solenne","character-other/tower-and-the-star-dayo","character-other/tower-and-the-star-miriam","character-other/tower-and-the-star-vesper","character-other/tower-and-the-star-tomas","character-other/tower-and-the-star-nadia"]}
+{"beat":2,"event":"Solenne widens her stance on the polished floor; Tomás moves with a slight forward lean."}
+{"beat":3,"event":"Tomás stops at a glowing calcite formation and names it Crystal Resonance."}
+{"beat":4,"event":"Solenne's Arcane Analysis: a Resonance Node needing RES 15+ within 2m; 7 on the floor."}
+{"beat":5,"event":"The Analysis notes no party has ever activated all seven Nodes."}
+{"beat":6,"event":"Dayo steps within a meter; the Node hums awake and a cache seam appears in the floor."}
+{"beat":7,"event":"The System confirms Node 1 of 7 activated, cache 12m northeast."}
+{"beat":8,"event":"Dayo says 'One' and moves on."}
+{"beat":9,"event":"Tomás's entry Terrain Read maps three routes: northeast, southeast and middle."}
+{"beat":10,"event":"Solenne weighs the fast northeast route, the puzzle-heavy southeast, and the middle one."}
+{"beat":11,"event":"Nadia jokes that seventeen encounters sounds like a relaxing afternoon."}
+{"beat":12,"event":"Tomás picks the middle route; nobody argues and the party moves in.","place":"place/tower-and-the-star-floor-12-middle-passage"}
+{"beat":13,"event":"Twenty meters in, two patrolling Lattice Guardians start converging on the party."}
+{"beat":14,"event":"Arcane Analysis: Level 12-13, ~550 HP, Crystal Sweep, and Shatter damage back on crits."}
+{"beat":15,"event":"Solenne warns via the Conductor that physical crits take return damage."}
+{"beat":16,"event":"Dayo answers 'Controlled hits' and limits her strike weight."}
+{"beat":17,"event":"Tomás puts steady non-crit fire into the first Guardian's left shoulder joint."}
+{"beat":18,"event":"Nadia's Stumble throws the second Guardian into the wall, breaking its timing."}
+{"beat":19,"event":"Vesper Quick Crafts a Freeze compound; Solenne's Arcane Bolt slows the second Guardian."}
+{"beat":20,"event":"The Guardians fall after ninety seconds."}
+{"beat":21,"event":"Vesper collects the Calcite Fragments and notes their crystal-resonance inscriptions."}
+{"beat":22,"event":"Halfway along the passage, Solenne is struck by the Labyrinth's cold, prismatic beauty."}
+{"beat":23,"event":"She writes: Floor 12. Calcite Labyrinth. White. The crystal light goes sideways."}
+{"beat":24,"event":"Tomás, RES 13, pauses curiously by a second Node but does not step close."}
+{"beat":25,"event":"Solenne watches him not touch the Node and feels something she cannot categorize."}
+{"beat":26,"event":"Thirty meters on, Miriam activates the second Node in a side alcove."}
+{"beat":27,"event":"Miriam lingers, reads her clinical notebook, looks at the Node, and writes something."}
+{"beat":28,"event":"Miriam closes the notebook and joins the others at the cache."}
+{"beat":29,"event":"The party rests in a sheltered natural widening between two calcite formations.","at":"2000-01-05T15:00:00.000Z","place":"place/tower-and-the-star-floor-12-passage-alcove"}
+{"beat":30,"event":"Vesper sets up the Field Forge in the smaller half of the alcove."}
+{"beat":31,"event":"Nadia sits against the wall reading her Class Aptitude Assessment in her Status Window."}
+{"beat":32,"event":"Nadia notices Solenne watching, closes the Window and says she is checking a thing."}
+{"beat":33,"event":"Nadia says the phrase 'paying very close attention' is harder to dismiss than 'careless.'"}
+{"beat":34,"event":"Nadia asks to walk ahead alone for ten minutes, staying in Terrain Read range."}
+{"beat":35,"event":"Solenne agrees to ten minutes."}
+{"beat":36,"event":"Nadia walks up the passage and out of sight around the calcite curve.","leave":["character-other/tower-and-the-star-nadia"]}
+{"beat":37,"event":"Miriam opens her Status Window and reads for thirty seconds, clinical-faced."}
+{"beat":38,"event":"Miriam says 'Class evolution' and lists the Warden to Grove Keeper requirements."}
+{"beat":39,"event":"She notes a narrative condition: keep an ally alive through a should-be-fatal wound."}
+{"beat":40,"event":"Miriam says WIS 60 is 29 points away and not soon; RES 30 is closer."}
+{"beat":41,"event":"Solenne says it will happen; Miriam says she cannot know that."}
+{"beat":42,"event":"Solenne recalls reading her own Rare path: Level 50, stats, Six of Six with all six."}
+{"beat":43,"event":"Solenne admits she looked hers up too."}
+{"beat":44,"event":"Miriam notes the Harmonist path needs Six of Six, and Solenne is one RES short."}
+{"beat":45,"event":"Solenne says the answer is continuing; Miriam says 'All right' and writes."}
+{"beat":46,"event":"Vesper, listening while crafting, thinks over her own evolution's narrative condition."}
+{"beat":47,"event":"She thinks of an unfinished project for Nadia she has set aside for four floors."}
+{"beat":48,"event":"Vesper sets the last Freeze compound in the stack and prepares for the next push."}
+{"beat":49,"event":"Nadia returns after nine minutes, dusted white and settled.","arrive":["character-other/tower-and-the-star-nadia"]}
+{"beat":50,"event":"Nadia reports a wider chamber two hundred meters ahead with something moving in it."}
+{"beat":51,"event":"Nadia tells the ceiling she has been paying close attention a long time and nobody asked."}
+{"beat":52,"event":"Nobody responds; Dayo puts away her armor cloth, satisfied with the eighth dent."}
+{"beat":53,"event":"Dayo asks 'Ready?' and Nadia stands, saying 'Ready.'"}
+{"beat":54,"event":"The party reaches a forty-meter chamber of four huge, glowing calcite columns.","place":"place/tower-and-the-star-floor-12-column-chamber"}
+{"beat":55,"event":"Tomás uses Eagle Eye at the entrance and spots a Resonance Mimic posing as a Node."}
+{"beat":56,"event":"Arcane Analysis: Level 14, ~700 HP Elite that copies skills and has targeted Solenne."}
+{"beat":57,"event":"The Mimic is waiting for Solenne to be isolated; it drops a Rare Dissonance Crystal."}
+{"beat":58,"event":"Solenne warns it may copy Ley Conduit at 60% and turn it on her."}
+{"beat":59,"event":"Dayo says she will get between them."}
+{"beat":60,"event":"The Mimic copies Tomás's Precision Shot; Dayo takes the needle on her shoulder."}
+{"beat":61,"event":"It copies Nadia's Stumble, knocking Miriam two meters sideways; Miriam stays up."}
+{"beat":62,"event":"Solenne cuts Ley Conduit mid-activation to deny the Mimic the template."}
+{"beat":63,"event":"Vesper's Enhancement Inscription on Tomás's bow erodes the Mimic's magic defense."}
+{"beat":64,"event":"By Tomás's seventh shot the Mimic's HP is critical."}
+{"beat":65,"event":"Below 30% HP the Mimic copies Arcane Analysis and reads Solenne's own stats back."}
+{"beat":66,"event":"Solenne sees herself: RES 19, Six of Six conditions not met, one below activation."}
+{"beat":67,"event":"Nadia's Stumble slams the Mimic into a column and Dayo's gauntlet finishes it."}
+{"beat":68,"event":"Vesper takes the red-violet Dissonance Crystal, notes RES-protection potential, stores it."}
+{"beat":69,"event":"Solenne stares at where the Mimic hid, thinking about being one RES short."}
+{"beat":70,"event":"She opens her notebook just to hold it, then closes it."}
+{"beat":71,"event":"Solenne says 'Forward.'"}
