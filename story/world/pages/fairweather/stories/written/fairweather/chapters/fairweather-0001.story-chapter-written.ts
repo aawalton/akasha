@@ -10,7 +10,7 @@ export const fairweather0001 = {
   story: "story-written/fairweather",
   ownLength: 0,
   prose: "txt",
-  stepStatus: "step-status/mechanics",
+  stepStatus: "step-status/game-master",
   beats: [
     "Before dawn the Honeycomb's ovens wake Elsie in her attic; the room smells of bread.",
     "It is her Naming day; she lies under the sloped ceiling, too nervous and happy to stay in bed.",
@@ -142,6 +142,11 @@ export const fairweather0001 = {
     },
   ],
   beatChanges: "jsonl",
+  mechanicsIssues: [
+    "beat 8: dawn mist at 07:30, but beat 1 puts dawn just after 05:00, over two hours before",
+    "beat 9: lamplighters douse lanterns at 07:30, though dawn came just after 05:00 in beat 1",
+    "beat 93: lanterns go out one by one near midnight, but beat 9 has them burn until doused at dawn",
+  ],
   lore: [
     "lore/fairweather-cora",
     "lore/fairweather-elsie",
@@ -153,5 +158,5 @@ export const fairweather0001 = {
     "place/fairweather-honeycomb",
     "place/fairweather-lanternmere",
   ],
-  recordedBy: ["story-recorder/inventory", "story-recorder/mechanics"],
+  recordedBy: ["story-recorder/inventory", "story-recorder/mechanics", "story-recorder/plan"],
 } as const satisfies StoryChapterWritten
