@@ -22,20 +22,17 @@ export const turnReaching = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A notice of a story with editor steps reaches its editor seats as well.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A recorder's advance moves the edits its seat kept beside the turn's page.",
     },
     {
       decisionKind: "decision-kind/departure",
       statement: "Edits kept beside a turn outlive the seat that drafted them.",
     },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A seat is stopped by a process of its own session that no stopped seat carries.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "The stop names no agent, since the agent it would name is the one ending.",
-    },
+
     {
       decisionKind: "decision-kind/departure",
       statement: "A notice starts a game seat that never ran.",

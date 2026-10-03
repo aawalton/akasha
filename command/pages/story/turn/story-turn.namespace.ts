@@ -16,6 +16,7 @@ export const storyTurn = {
     "module/turn-prompting",
     "module/turn-reaching",
     "module/turn-starting",
+    "module/turn-stopping",
     "module/turn-ready-pushing",
     "module/turn-written",
     "command/story-turn-record",

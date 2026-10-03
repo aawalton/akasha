@@ -1,4 +1,3 @@
-import { spawn } from "node:child_process"
 import { existsSync, readFileSync } from "node:fs"
 import { basename, join } from "node:path"
 import { writeMessage } from "akasha/agent/message/modules/sending/agent-message-sending.module.code.ts"
@@ -44,6 +43,7 @@ import {
   readyNotified,
   readyTold,
 } from "akasha/command/pages/story/turn/modules/turn-ready-pushing/turn-ready-pushing.module.code.ts"
+import { stoppedApart } from "akasha/command/pages/story/turn/modules/turn-stopping/turn-stopping.module.code.ts"
 import { writtenIndexed } from "akasha/command/pages/story/turn/modules/turn-written/turn-written.module.code.ts"
 import { exclusively } from "akasha/file/modules/exclusive/exclusive.module.code.ts"
 import {
@@ -92,12 +92,6 @@ import {
   backlogKept,
 } from "akasha/story/world/stories/written/modules/nightly-chapter-writing/nightly-chapter-writing.module.code.ts"
 import { storyWritten } from "akasha/story/world/stories/written/story-written.page-type.ts"
-
-const CLI = "command/modules/cli/cli.module.code.ts"
-
-const STOPPING = ["seat", "supervisor", "stop", "--force"] as const
-
-const UNNAMED: readonly string[] = ["AGENT_ID", "CLAUDE_CODE_SESSION_ID"]
 
 const ANNOUNCE = "announce" as const
 
@@ -222,7 +216,8 @@ export async function noticesSent(
     return undefined
   }
   const cast = status === WRITER && toRead.length > 0 ? `\n\n${loreLine(toRead, noun)}` : ""
-  for (const to of noticedOf(master, game)) {
+  const editors = reach.storyOf(root, game)?.editorSteps === true
+  for (const to of noticedOf(master, game, editors)) {
     const said = noticeOf(turn, status, reach.changedLore(root, to), noun)
     const more = to === master ? toMaster : ""
     const why = await reach.notify(to, `${said}${cast}${more}`)
@@ -321,20 +316,6 @@ async function seatStarted(starting: Starting, done: string[]): Promise<string> 
     done
   )
   return started.name
-}
-
-function stoppedApart(root: string, seat: string): undefined {
-  const env = Object.fromEntries(
-    Object.entries(process.env).filter(([key]) => !UNNAMED.includes(key))
-  )
-  const child = spawn(process.execPath, [join(root, CLI), ...STOPPING, seat], {
-    cwd: root,
-    detached: true,
-    stdio: "ignore",
-    env,
-  })
-  child.unref()
-  return undefined
 }
 
 async function noticeSent(to: string, body: string): Promise<string | null> {
