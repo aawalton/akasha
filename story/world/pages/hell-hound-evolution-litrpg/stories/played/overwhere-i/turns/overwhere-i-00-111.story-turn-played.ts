@@ -10,7 +10,7 @@ export const overwhereI00111 = {
   position: 111,
   prose: "txt",
   characters: ["character-player/overwhere-i-nala"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/recorders",
   action:
     "I double channel earth, pulling the stone ledge into sharp spikes piercing into its soft flesh underneath, angled to keep it on the ledge, then fire again at the head",
   beats: [
@@ -29,6 +29,6 @@ export const overwhereI00111 = {
     "lore/overwhere-i-starfall-legacy-2",
     "place/overwhere-i-hobbs-mill-weir",
   ],
-  reviewedBy: ["story-reviewer/continuity"],
+  reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
   endsAt: "2026-10-06T11:37:00.000Z",
 } as const satisfies StoryTurnPlayed
