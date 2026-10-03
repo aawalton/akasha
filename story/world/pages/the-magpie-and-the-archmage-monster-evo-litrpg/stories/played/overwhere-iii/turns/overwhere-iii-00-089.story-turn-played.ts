@@ -7,7 +7,13 @@ export const overwhereIii00089 = {
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iii"],
   position: 89,
-  stepStatus: "step-status/world-builder",
+  stepStatus: "step-status/game-master",
   action:
     "I sleep then decide to go hunting towards the blight. After facing those wolves, being weak is far more of a threat to me than going into danger. I stop by Brannagh’s first to check for patients to practice my mending weave on, then rest a while to refill my mana, the go out into the forest.",
+  lore: [
+    "lore/overwhere-iii-brannagh-tull",
+    "lore/overwhere-iii-brannagh-tull-2",
+    "lore/overwhere-iii-corruption-2",
+    "lore/overwhere-iii-edda-crane",
+  ],
 } as const satisfies StoryTurnPlayed
