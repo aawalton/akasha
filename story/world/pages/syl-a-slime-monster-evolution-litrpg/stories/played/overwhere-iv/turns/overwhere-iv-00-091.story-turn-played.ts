@@ -4,6 +4,7 @@ export const overwhereIv00091 = {
   id: "01a101ba-9b39-7ecb-9d19-05bf49462210",
   type: "page-type/story-turn-played",
   slug: "overwhere-iv-00-091",
+  cover: "image/image-7035f618b2c421d4",
   ownLength: 228,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iv"],
@@ -40,6 +41,7 @@ export const overwhereIv00091 = {
     "lore/overwhere-iv-the-tangle-2-2",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/mechanics"],
+  recordedBy: ["story-recorder/inventory", "story-recorder/mechanics", "story-recorder/picture"],
   endsAt: "2026-10-07T17:10:00.000Z",
+  coverAfter: "You sit up and lay it out for them. Lure a full warband",
 } as const satisfies StoryTurnPlayed
