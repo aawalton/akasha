@@ -184,5 +184,9 @@ export const overwhereIWendlow3 = {
       fact: "The Moot Hall stands on the square, a grey stone hall with its door up a broad flight of steps.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Inside is one long room: a raised bench, the clerk's desk below it, and presses of tax rolls.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
