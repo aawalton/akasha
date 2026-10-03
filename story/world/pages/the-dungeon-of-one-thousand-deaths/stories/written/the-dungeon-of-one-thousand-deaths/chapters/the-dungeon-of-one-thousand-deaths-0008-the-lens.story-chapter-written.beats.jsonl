@@ -1,0 +1,79 @@
+{"beat":1,"event":"Aldous Vren, natural philosopher, has studied the dungeon from outside for fourteen months."}
+{"beat":2,"event":"He has copied the ledger-keeper's records, leaving the raw recent deaths alone."}
+{"beat":3,"event":"He has held forty-seven interviews and read every account, the contradictions too."}
+{"beat":4,"event":"He began thinking the dungeon an organism; now he thinks it a system of classification."}
+{"beat":5,"event":"It names what is most irreducibly a person, then has them die by that name: taxonomy."}
+{"beat":6,"event":"He has run out of ways to test it from outside."}
+{"beat":7,"event":"He packs notebook, charcoal, food, lantern and knife, and leaves his papers with his assistant."}
+{"beat":8,"event":"He reaches the camp when the fire is lowest; a young man sleeps near Fennick's empty side.","at":"2029-07-10T04:00:00.000Z","place":"place/the-dungeon-of-one-thousand-deaths-the-camp","present":["character-other/the-dungeon-of-one-thousand-deaths-aldous-vren"]}
+{"beat":9,"event":"The ledger-keeper, awake early, says: you told me you were here to observe."}
+{"beat":10,"event":"\"I was,\" Aldous says. \"Now I'm here to enter.\""}
+{"beat":11,"event":"The ledger-keeper writes: voluntary, non-Compelled, natural philosopher, research."}
+{"beat":12,"event":"He added that column three days ago, after Fennick Rall."}
+{"beat":13,"event":"Aldous rereads his notes for an hour and maps the camp in his margin."}
+{"beat":14,"event":"He looks at Petra's note on the blank cloth; he interviewed her seventeen days ago."}
+{"beat":15,"event":"He writes: P. entered and did not return. F.R. entered and did not return."}
+{"beat":16,"event":"At dawn he walks to the entrance and goes in.","at":"2029-07-10T05:00:00.000Z","place":"place/the-dungeon-of-one-thousand-deaths-the-gullet"}
+{"beat":17,"event":"He adds what no source mentioned: the light pulses irregularly, and the ribs point inward."}
+{"beat":18,"event":"He reads the registry against his records: Edric Voss, Death #1, calm, says a witness."}
+{"beat":19,"event":"He reads all ten inscriptions and stands before the blank gap."}
+{"beat":20,"event":"He knows the gap is Orvyn's: his record is the journal, not the wall."}
+{"beat":21,"event":"The gap precedes Sera's entry: the wall is ordered by precedence, not by date."}
+{"beat":22,"event":"Each inscription is a category: the dungeon records distinctions, not deaths."}
+{"beat":23,"event":"Confirmation does not move him as he expected, and he notes that too."}
+{"beat":24,"event":"By a side passage he crouches over Asha Trevane's glass bead without touching it."}
+{"beat":25,"event":"He notes: intentional deposit, undisturbed; the dungeon tolerates personal deposits."}
+{"beat":26,"event":"At the arch he finds Renn's dimensions accurate and the joints too tight for a finger.","place":"place/the-dungeon-of-one-thousand-deaths-the-gap"}
+{"beat":27,"event":"The keystone is in the dungeon's notation: Renn built it, and the dungeon chose to record it."}
+{"beat":28,"event":"The lantern burns at the abutment, its oil recently tended."}
+{"beat":29,"event":"He writes: the arch is meaningful to the dungeon; not a classification system. Revise."}
+{"beat":30,"event":"He crosses the arch. The Ledger: Depth 2, the Warrens, Resolve +1, now 22.","place":"place/the-dungeon-of-one-thousand-deaths-the-marrow-warrens","changes":[{"page":"metric-character-stat/the-dungeon-of-one-thousand-deaths-aldous-vren-resolve","key":"value","from":21,"to":22,"note":"Depth transition into the Warrens, Resolve +1"}]}
+{"beat":31,"event":"The Asking finds him at the first junction, and it is like becoming understanding."}
+{"beat":32,"event":"Fourteen months he studied it; it studies him back for about three seconds."}
+{"beat":33,"event":"The Ledger names him The Lens, with the Gift Comprehension: any system, understood at once."}
+{"beat":34,"event":"Its Cost is Friction: he has lost not-understanding, so danger cannot register as danger."}
+{"beat":35,"event":"The Ledger reads Vitality 8, Resolve 21, Attunement 18, Fortune 22."}
+{"beat":36,"event":"Second voluntary entrant: The Maw did not bring him here either."}
+{"beat":37,"event":"He writes: the dungeon has named the thing I have managed for thirty years."}
+{"beat":38,"event":"Either is relational: the dungeon knows Rall, and draws a line between them."}
+{"beat":39,"event":"Comprehension opens the Warrens to him as water's long argument with limestone."}
+{"beat":40,"event":"He takes down Orvyn Thel's journal and reads it as a field record, noting method and gaps."}
+{"beat":41,"event":"He writes that the last entry is a relay: the journal is infrastructure, not memoir."}
+{"beat":42,"event":"He sets it back at the same angle: a fixed point, like the arch and the bead."}
+{"beat":43,"event":"In the pattern room he understands Thel's repetitions as method, not failure.","place":"place/the-dungeon-of-one-thousand-deaths-the-pattern-room"}
+{"beat":44,"event":"He has worked this way thirty years and never seen it from outside."}
+{"beat":45,"event":"He stands there longer than anywhere else, writing nothing, and goes on."}
+{"beat":46,"event":"In the Still Garden Comprehension shows him the crystals' function and the engineered silence.","place":"place/the-dungeon-of-one-thousand-deaths-the-still-garden","present":["character-other/the-dungeon-of-one-thousand-deaths-aldous-vren","character-other/the-dungeon-of-one-thousand-deaths-the-gorger"]}
+{"beat":47,"event":"The Patient shows itself at the end of a row, so he will orient on it and then look away."}
+{"beat":48,"event":"He walks past it deliberately, keeping it in the corner of his eye."}
+{"beat":49,"event":"He understands it moves in the saccade, the gap no watching can close."}
+{"beat":50,"event":"At the third row a refraction he has no category for snags his attention for a moment."}
+{"beat":51,"event":"He feels the tracking shift, and keeps moving without looking at the crystal."}
+{"beat":52,"event":"He notes: attention-gap sensitivity sub-second. Do not look at anything."}
+{"beat":53,"event":"At the far wall Comprehension finds the passage to Depth 4, one the eye would miss."}
+{"beat":54,"event":"He looks at The Patient, and The Patient looks at him."}
+{"beat":55,"event":"The Ledger: Depth 3, Resolve +1, now 23.","changes":[{"page":"metric-character-stat/the-dungeon-of-one-thousand-deaths-aldous-vren-resolve","key":"value","from":22,"to":23,"note":"Depth transition into the Still Garden, Resolve +1"}]}
+{"beat":56,"event":"He goes through. The Ledger: Depth 4, the Crucible, Resolve +1, now 24: the first to reach it.","place":"place/the-dungeon-of-one-thousand-deaths-the-crucible","present":["character-other/the-dungeon-of-one-thousand-deaths-aldous-vren"],"changes":[{"page":"metric-character-stat/the-dungeon-of-one-thousand-deaths-aldous-vren-resolve","key":"value","from":23,"to":24,"note":"Depth transition into the Crucible, Resolve +1"}]}
+{"beat":57,"event":"Basalt veined with quartz, the floor twelve degrees warmer than the Garden above."}
+{"beat":58,"event":"Quartz stalactites hang in no pattern: the first room that will not yield its logic at once."}
+{"beat":59,"event":"Moving in, he sees it is a process, not a place: the quartz accumulates; it is making something."}
+{"beat":60,"event":"At the centre sits a creature, anchored in quartz grown round it over ages."}
+{"beat":61,"event":"It exhales a slow emanation he feels as pressure behind his eyes."}
+{"beat":62,"event":"He writes: not a predator; the emanation is the death mechanism; I am inside its radius."}
+{"beat":63,"event":"The discomfort began thirty meters back, unregistered, because the Cost took the fear."}
+{"beat":64,"event":"He notes: threshold exceeded; forty meters to retreat; eight to twelve minutes to incapacity."}
+{"beat":65,"event":"He looks up: the quartz scatters the lantern like mountain caves after a winter storm."}
+{"beat":66,"event":"He notes the light, the formation, the chemistry, and the rate of growth."}
+{"beat":67,"event":"He is still writing when the lantern goes out.","changes":[{"page":"metric-character-stat/the-dungeon-of-one-thousand-deaths-aldous-vren-vitality","key":"value","from":8,"to":0,"note":"Aldous dies of the Crucible creature's emanation, Vitality to 0"}]}
+{"beat":68,"event":"The death report: Aldous Vren, the Lens, Depth 4, the Crucible; emanation, accumulative."}
+{"beat":69,"event":"Attunement stays 18: Comprehension is effortless, and leaves no trace of effort."}
+{"beat":70,"event":"He knew the mechanism, threshold and window, and went on taking notes."}
+{"beat":71,"event":"His Memory Crystal is white: clarity without friction, understanding and feeling nothing."}
+{"beat":72,"event":"No Floor Mutation, but his notebook remains. Lens complete."}
+{"beat":73,"event":"The Maw sees a pattern: two voluntary entrants in sequence, for reasons all their own."}
+{"beat":74,"event":"It had known of Vren, and waited without Compelling him to see whether he would come."}
+{"beat":75,"event":"He came."}
+{"beat":76,"event":"It judges his hypothesis approximately correct, but incomplete."}
+{"beat":77,"event":"He was near the rest when he stopped to look at the light on the quartz."}
+{"beat":78,"event":"The tally turns: 988 remain."}
+{"beat":79,"event":"ALDOUS VREN — DEPTH 4 — FIRST TO COMPREHEND."}
