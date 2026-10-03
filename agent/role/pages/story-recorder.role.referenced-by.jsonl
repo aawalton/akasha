@@ -7,6 +7,5 @@
 {"propertySlug":"import","fileName":"story-recorder.role.ts","path":"story/lore-disclosure/modules/lore-withholding/lore-withholding.module.test-fixtures.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"story-recorder.role.ts","path":"story/world/stories/played/turns/modules/turn-lifecycle/turn-lifecycle.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"agent/role/role.page-type.ts","id":"01a053b2-2c20-7e34-9306-65f44016381a"}
-{"propertySlug":"role","path":"agent/seat/pages/iris-story-recorder-overwhere-iv-flex-3/iris-story-recorder-overwhere-iv-flex-3.seat.ts","id":"01a0ff60-4963-7000-a6ce-88c2e23dec4e"}
 {"propertySlug":"role","path":"agent/seat/pages/iris-story-recorder-overwhere-iv-flex-4/iris-story-recorder-overwhere-iv-flex-4.seat.ts","id":"01a0ff60-77b7-7000-8d0e-11ec25a55580"}
 {"propertySlug":"role","path":"agent/seat/pages/mari-story-recorder-hollowmere-flex-4/mari-story-recorder-hollowmere-flex-4.seat.ts","id":"01a0ff5d-43f9-7000-86d8-00af3adf0c33"}
