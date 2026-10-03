@@ -183,5 +183,13 @@ export const overwhereINala2 = {
         "lore/overwhere-i-grete-holm",
       ],
     },
+    {
+      fact: "Nala told Grete Holm she is Level 10 now, and owned she is mad for fighting so far above her.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-i-nala",
+        "lore/overwhere-i-grete-holm",
+      ],
+    },
   ],
 } as const satisfies Lore

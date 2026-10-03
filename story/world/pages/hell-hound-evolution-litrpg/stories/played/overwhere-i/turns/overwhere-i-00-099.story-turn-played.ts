@@ -11,7 +11,7 @@ export const overwhereI00099 = {
   position: 99,
   prose: "txt",
   characters: ["character-player/overwhere-i-nala", "character-other/overwhere-i-harl-voss"],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action:
     "“I’m level 10 now. I was 7 when I met Voss. 4 when I went after the wolves. I know, I’m mad and driving for an early grave, but I got the job done.” I tell her with a manic smile. “Didn’t know Voss was 24, but that explains why he took so much killing. He was harder to kill on his own than they entire wolf pack.”",
   beats: [
@@ -32,7 +32,12 @@ export const overwhereI00099 = {
   ],
   lore: ["lore/overwhere-i-nala", "lore/overwhere-i-nala-2", "place/overwhere-i-wendlow"],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/mechanics", "story-recorder/picture"],
+  recordedBy: [
+    "story-recorder/inventory",
+    "story-recorder/mechanics",
+    "story-recorder/picture",
+    "story-recorder/memory",
+  ],
   endsAt: "2026-10-05T12:20:00.000Z",
   coverAfter: "She stoops. Iron clanks under the counter, a key grinds in a lock,",
 } as const satisfies StoryTurnPlayed

@@ -246,7 +246,11 @@ export const overwhereIWendlow = {
     },
     {
       fact: "Grete gives one short laugh, says the march has a use for mad ones, and unlocks the strongbox.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-i-nala",
+        "lore/overwhere-i-grete-holm",
+      ],
     },
     {
       fact: "Grete believes her; climbing from Level 4 to 10 in days is what killing far above you does.",
@@ -254,7 +258,11 @@ export const overwhereIWendlow = {
     },
     {
       fact: "Grete asks what name to write on the receipt, since her Analyze shows none.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-i-nala",
+        "lore/overwhere-i-grete-holm",
+      ],
     },
     {
       fact: "Grete asks the name for the receipt, pays the 60 and the chit, then offers the roll, in that order.",

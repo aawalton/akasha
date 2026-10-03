@@ -25,7 +25,11 @@ export const overwhereITheDeserterCrew = {
     },
     {
       fact: "Harl Voss leads them, a former levy sergeant whom Analyze shows as Human - Level 24.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-i-nala",
+        "lore/overwhere-i-grete-holm",
+      ],
     },
     {
       fact: "Voss is big, grey-bearded and scar-lipped, and fights with a long-hafted axe and a round shield.",
