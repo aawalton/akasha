@@ -24,5 +24,9 @@ export const overwhereIWendlow22 = {
       fact: "At the gate the watch knows her now; she pays her copper and is waved through with a grin.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "The towpath back from Hobb's Mill passes quietly on day 8.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
