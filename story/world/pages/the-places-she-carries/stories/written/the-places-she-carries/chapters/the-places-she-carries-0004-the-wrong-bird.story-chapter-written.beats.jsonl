@@ -1,0 +1,69 @@
+{"beat":1,"event":"Wren wakes to the wrong bird: not the millwheel, but the basin's layered morning calls.","at":"2026-08-02T06:00:00.000Z","place":"place/the-places-she-carries-therons-camp","present":["character-player/the-places-she-carries-wren"]}
+{"beat":2,"event":"Green-gold light shimmers through the canopy gap above her tarp."}
+{"beat":3,"event":"Day 2, she thinks; the wrongness is something to learn, not to fight."}
+{"beat":4,"event":"She packs her bedroll the way her mother drilled her, and follows the smell of tea."}
+{"beat":5,"event":"Theron has rebuilt the fire from last night's coals; he pours her a cup without a word.","at":"2026-08-02T06:20:00.000Z","arrive":["character-other/the-places-she-carries-theron"]}
+{"beat":6,"event":"The insect chorus ended before the birds began: 'That means the night was dry.'"}
+{"beat":7,"event":"The basin thrush calls in threes when the weather is steady; in fours, check the sky."}
+{"beat":8,"event":"Wren says she will go south today, as far as feels sound."}
+{"beat":9,"event":"Theron names the fen a mile south, the Mudgrass, where paths change faster."}
+{"beat":10,"event":"He tells her to let Hadley come; Hadley knows the Mudgrass. He goes to his lean-to.","leave":["character-other/the-places-she-carries-theron"]}
+{"beat":11,"event":"Hadley appears from the ferns, already muddy, bound for mirewillow bark.","at":"2026-08-02T07:00:00.000Z","arrive":["character-other/the-places-she-carries-hadley"]}
+{"beat":12,"event":"He shows her a new ghost-elm root that spirals counter-clockwise."}
+{"beat":13,"event":"Wren asks to see the tree's roots in place tomorrow. 'Yes,' says Hadley."}
+{"beat":14,"event":"They walk south; the ghost elms grow older, and the oldest hum lowest.","place":"place/the-places-she-carries-transition-woodland"}
+{"beat":15,"event":"Hadley says Theron knows how but never why; Hadley needs the why."}
+{"beat":16,"event":"Wren offers to keep a list of things he cannot explain. 'The list is already long.'"}
+{"beat":17,"event":"Forty minutes south, [Wayfinder's Eye] shimmers on a ghost elm's root flare.","at":"2026-08-02T07:40:00.000Z"}
+{"beat":18,"event":"Fine moss threaded with silver lines follows the water's flow down the roots."}
+{"beat":19,"event":"Hadley names it silvervein moss, which Hesta sells in Millhaven for a salve."}
+{"beat":20,"event":"A discovery logs silvervein moss: +35 XP, and Herbalism activates.","changes":[{"page":"metric-character-experience/the-places-she-carries-wren","key":"value","from":260,"to":295,"note":"Discovery: silvervein moss, medicinal"}]}
+{"beat":21,"event":"She thinks of the blister her pack strap raised on her collarbone yesterday."}
+{"beat":22,"event":"She takes less than a quarter of the mat, Theron's formula, and wraps it in cloth."}
+{"beat":23,"event":"The fen arrives without warning; her boot sinks into mud.","at":"2026-08-02T08:30:00.000Z","place":"place/the-places-she-carries-mudgrass"}
+{"beat":24,"event":"Hadley crosses on the lighter ground: dark means water, light means root."}
+{"beat":25,"event":"Hummocks crowned with pale-stemmed plants rise between amber, tea-colored water."}
+{"beat":26,"event":"The Ashbrook runs here braided into channels over fine white gravel."}
+{"beat":27,"event":"The river makes her think of her father, who measures it every spring and autumn."}
+{"beat":28,"event":"The Shelf is fainter today but present, like the millwheel in her bones."}
+{"beat":29,"event":"She finds the letter in her journal: she forgot to give it to Hadley."}
+{"beat":30,"event":"Not guilt: the Thornwild arrived so loudly the letter slipped from her mind."}
+{"beat":31,"event":"She moves the letter to her shirt pocket and starts sketching the river."}
+{"beat":32,"event":"Upstream, Hadley strips mirewillow bark in long rolls, giving her space.","at":"2026-08-02T10:30:00.000Z"}
+{"beat":33,"event":"On her spirit lamp she heats river water in her tin cup to just below boiling."}
+{"beat":34,"event":"She steeps the moss two minutes, as Hesta's hands taught her."}
+{"beat":35,"event":"A thin cool gel clings to the cup; she presses it onto the blister."}
+{"beat":36,"event":"The irritation eases, small and precise, at the blister and nowhere else."}
+{"beat":37,"event":"Crafting record: crude Silvervein Salve, quality 38 of 100, +30 XP.","changes":[{"page":"metric-character-experience/the-places-she-carries-wren","key":"value","from":295,"to":325,"note":"Crafting: first Silvervein Salve, new recipe"}]}
+{"beat":38,"event":"ACHIEVEMENT UNLOCKED: First Creation, +1 DEX: 'You have begun.'","changes":[{"page":"metric-character-stat/the-places-she-carries-wren-dex","key":"value","from":9,"to":10,"note":"Achievement First Creation: +1 DEX (permanent)"}]}
+{"beat":39,"event":"She notes the gel should be thicker and steeped longer; her hands set the ceiling."}
+{"beat":40,"event":"She records the +1 DEX in her journal, as her father taught her."}
+{"beat":41,"event":"The compass pulls: a clear, directed lean south, not the Thornwild's deviation.","at":"2026-08-02T11:00:00.000Z"}
+{"beat":42,"event":"She has reached Level 3, and [Lay the Path] gains Compass Sensitivity.","changes":[{"page":"metric-character-level/the-places-she-carries-wren","key":"value","from":2,"to":3,"note":"Level 3 reached by the day's discoveries and the salve"}]}
+{"beat":43,"event":"Her father's compass now points to undiscovered features: SSW, about 200 meters."}
+{"beat":44,"event":"The System has made the tool for finding roads a tool for finding what is off them."}
+{"beat":45,"event":"She calls Hadley and shows him the needle's steady pull."}
+{"beat":46,"event":"SSW lies a deep pool Theron calls the Eye; he never goes there, and never says why."}
+{"beat":47,"event":"It is at the five-mile boundary, maybe just inside. 'Come with me,' she says."}
+{"beat":48,"event":"The mirewillow ends, the ground firms, and there is the pool.","at":"2026-08-02T11:20:00.000Z","place":"place/the-places-she-carries-wardens-eye"}
+{"beat":49,"event":"It is fifteen meters across, green-black, unrippled, ringed with shoulder-high reed-ferns."}
+{"beat":50,"event":"[Wayfinder's Eye] does not shimmer; it focuses, sustained and deep."}
+{"beat":51,"event":"The pool looks at her; she keeps the thought to herself."}
+{"beat":52,"event":"Hadley, quiet, asks what she feels. 'Nothing wrong. I think it's waiting.'"}
+{"beat":53,"event":"The needle stills: she has arrived. 'For someone to notice it properly.'"}
+{"beat":54,"event":"A discovery logs the Warden's Eye, bond potential medium: +60 XP.","changes":[{"page":"metric-character-experience/the-places-she-carries-wren","key":"value","from":325,"to":385,"note":"Discovery: the Warden's Eye, significant location"}]}
+{"beat":55,"event":"'This location has not been properly met.' 'Not today,' she says."}
+{"beat":56,"event":"She needs more time to understand it, and will come back."}
+{"beat":57,"event":"She sketches the pool, its plants, and the bearing from camp, and marks a question mark."}
+{"beat":58,"event":"Hadley tells her the Rimfolk gathered at this pool on the seventeenth day."}
+{"beat":59,"event":"His grandmother said the pool was where the forest was most itself."}
+{"beat":60,"event":"Wren links the seventeenth day to the Crying Forest's cycle, and turns for home."}
+{"beat":61,"event":"At the camp's edge, in the last amber light, she gives Hadley the letter.","at":"2026-08-02T18:30:00.000Z","place":"place/the-places-she-carries-therons-camp"}
+{"beat":62,"event":"He tucks it in his satchel: the twice-monthly run leaves in six days."}
+{"beat":63,"event":"'You forgot to give it this morning.' 'I did.'"}
+{"beat":64,"event":"She forgets things when she pays attention to other things."}
+{"beat":65,"event":"Theron watched her go south; Hadley thinks he is deciding: problem or talent."}
+{"beat":66,"event":"'It's both,' Wren says."}
+{"beat":67,"event":"Dinner in half an hour: Theron found young ghost-elm fungi this morning."}
+{"beat":68,"event":"She follows Hadley to the fire, the Shelf in her chest like a carried lamp."}
+{"beat":69,"event":"For now, she is home enough."}
