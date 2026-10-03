@@ -348,5 +348,9 @@ export const overwhereIWendlow = {
       fact: "Hobb's Mill weir lies two hours' walk down the Wend from Wendlow.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "The Weir Wyrm is a Level 18 river serpent; Grete knows no more of it than bargemen's tales.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Place
