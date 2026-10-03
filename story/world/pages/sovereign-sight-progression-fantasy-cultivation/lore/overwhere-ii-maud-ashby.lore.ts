@@ -121,7 +121,7 @@ export const overwhereIiMaudAshby = {
     },
     {
       fact: "Maud sees the trouble: the throat lies in the black, deeper than a man, and none may wade it.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Maud will write to Deepwatch tonight; Anselm's carrier takes it down on market day.",
