@@ -185,5 +185,9 @@ export const overwhereIiiCorruption2 = {
       fact: "A small blightstone from a Level 8 to 11 beast cracks into five glimmer specks.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "A kiln jackalope killed with two of five pulls drawn leaves a small blightstone two-fifths pale.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
