@@ -126,7 +126,7 @@ export const overwhereIiCallowBeck = {
     },
     {
       fact: "The dry ash shaft holds too little water for Undertow to throw; it barely stirs the cold-iron spear.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Undertow driving Nala's arms makes her thrust and recovery fast, but adds no reach to the spear.",
