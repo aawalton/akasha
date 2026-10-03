@@ -263,5 +263,14 @@ export const hollowmereAcademy2 = {
         "character-other/hollowmere-lin",
       ],
     },
+    {
+      fact: "Ashcombe's novice four has won the Fell Cup six years running; Thornfield last won it in 1987.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/hollowmere-bea",
+        "character-other/hollowmere-morwenna",
+        "character-other/hollowmere-kit",
+      ],
+    },
   ],
 } as const satisfies Lore
