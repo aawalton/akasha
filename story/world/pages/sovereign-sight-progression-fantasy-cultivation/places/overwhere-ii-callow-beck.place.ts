@@ -112,5 +112,17 @@ export const overwhereIiCallowBeck = {
       fact: "Near the slick Nala's well leans toward it, as at the Callow pool, but weaker.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Undertow moves the slick's black water like any water, and can drive it back up the gully.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Pulled into her, slick water sinks into Nala's well like the Sea's own, cold, and does no harm.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Each night after Nala takes in slick water, the stair dream comes louder.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Place
