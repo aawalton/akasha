@@ -11,4 +11,5 @@ export const overwhereIii00084 = {
   action:
     "“Corrupt wolves, I fought them off, but they hurt me bad, can you get me to the shrine? That’s my best chance to heal myself.”",
   lore: ["lore/overwhere-iii-current-feed", "lore/overwhere-iii-edda-crane"],
+  endsAt: "2026-10-08T16:35:00.000Z",
 } as const satisfies StoryTurnPlayed
