@@ -4,10 +4,17 @@ export const overwhereIii00093 = {
   id: "01a101b8-75b7-71e1-a171-abf4f9b51df2",
   type: "page-type/story-turn-played",
   slug: "overwhere-iii-00-093",
+  ownLength: 157,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iii"],
   position: 93,
-  stepStatus: "step-status/writer",
+  prose: "txt",
+  characters: [
+    "character-player/overwhere-iii-nala",
+    "character-other/overwhere-iii-marda-hesk",
+    "character-other/overwhere-iii-brannagh-tull",
+  ],
+  stepStatus: "step-status/reviewers",
   action:
     "“Jackalopes.” I go out to the shrine and use ambient weaves to cleanse the five blightstones.",
   beats: [
@@ -23,6 +30,15 @@ export const overwhereIii00093 = {
     "The fifth fights her, then gives, a speck rolling into her palm.",
     "Five small burns sting her hands. Her own well is untouched, and has filled a little.",
     "The clay cup is empty of seed stones. Six glimmer specks are hers now.",
+  ],
+  lore: [
+    "lore/overwhere-iii-brannagh-tull",
+    "lore/overwhere-iii-brannagh-tull-2",
+    "lore/overwhere-iii-marda-hesk",
+    "lore/overwhere-iii-marda-hesk-2",
+    "lore/overwhere-iii-nala",
+    "lore/overwhere-iii-nala-2",
+    "lore/overwhere-iii-nala-2-2",
   ],
   endsAt: "2026-10-09T14:45:00.000Z",
 } as const satisfies StoryTurnPlayed
