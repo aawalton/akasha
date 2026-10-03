@@ -4,8 +4,7 @@ export const nightlyChapterWriting = {
   id: "01a0e99c-93f3-767d-b0a3-36689dd14810",
   type: "page-type/module",
   slug: "nightly-chapter-writing",
-  definition:
-    "the next chapter of each followed written story below its backlog of unread chapters",
+  definition: "the next chapter of each followed written story within its backlog of unread words",
   code: "ts",
   test: "ts",
   decisions: [
@@ -24,7 +23,11 @@ export const nightlyChapterWriting = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A followed story with fewer published unread chapters than its backlog is due.",
+      statement: "A story's unread words are the words left in its published chapters not read.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A followed story with unread words at most its word backlog is due.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -32,7 +35,7 @@ export const nightlyChapterWriting = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A story stating no backlog has a backlog of one.",
+      statement: "A story stating no word backlog is due only with no word unread.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -60,7 +63,8 @@ export const nightlyChapterWriting = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A dry run says which stories would have a chapter started and starts none.",
+      statement:
+        "A dry run says which stories would have a chapter started, and why, starting none.",
     },
   ],
 } as const satisfies Module

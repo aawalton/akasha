@@ -23,7 +23,9 @@ const FOLLOWING = "following"
 
 const MASTER = "coordinatorAgent"
 
-const BACKLOG = "chapterBacklog"
+const BACKLOG = "wordBacklog"
+
+const REMAINING = "ownRemaining"
 
 const STORY = "story"
 
@@ -31,7 +33,7 @@ const STATUS = "stepStatus"
 
 const COMPLETED = "completedAt"
 
-const UNSTATED_BACKLOG = 1
+const UNSTATED_BACKLOG = 0
 
 const PARTED = "/"
 
@@ -43,16 +45,17 @@ export type Story = {
   readonly slug: string
   readonly following: boolean
   readonly master: string | null
-  readonly backlog: number | null
+  readonly wordBacklog: number | null
 }
 
 export type Chapter = {
   readonly slug: string
   readonly status: TurnStep | null
   readonly completed: boolean
+  readonly remaining: number
 }
 
-export type Due = { readonly due: true } | { readonly due: false; readonly why: string }
+export type Due = { readonly due: boolean; readonly why: string }
 
 export type BacklogKept = {
   readonly said: string
@@ -69,7 +72,7 @@ export function chaptersAsked(story: string): Query {
   return {
     pageTypeSlug: storyChapterWritten.slug,
     where: { [STORY]: { is: `${storyWritten.slug}${PARTED}${story}` } },
-    keys: [SLUG, STATUS, COMPLETED],
+    keys: [SLUG, STATUS, COMPLETED, REMAINING],
   }
 }
 
@@ -82,7 +85,7 @@ function storyIn(row: Row): readonly Story[] {
       slug,
       following: row[FOLLOWING] === true,
       master: textIn(row[MASTER]),
-      backlog: typeof backlog === "number" ? backlog : null,
+      wordBacklog: typeof backlog === "number" ? backlog : null,
     },
   ]
 }
@@ -90,7 +93,19 @@ function storyIn(row: Row): readonly Story[] {
 function chapterIn(row: Row): readonly Chapter[] {
   const slug = textIn(row[SLUG])
   if (slug === null) return []
-  return [{ slug, status: stepIn(row[STATUS]), completed: textIn(row[COMPLETED]) !== null }]
+  const left = row[REMAINING]
+  return [
+    {
+      slug,
+      status: stepIn(row[STATUS]),
+      completed: textIn(row[COMPLETED]) !== null,
+      remaining: typeof left === "number" ? Math.max(0, left) : 0,
+    },
+  ]
+}
+
+function unreadWordsOf(chapters: readonly Chapter[]): number {
+  return chapters.filter((one) => !one.completed).reduce((sum, one) => sum + one.remaining, 0)
 }
 
 export function dueFor(story: Story, chapters: readonly Chapter[]): Due {
@@ -100,12 +115,14 @@ export function dueFor(story: Story, chapters: readonly Chapter[]): Due {
   if (busy !== undefined) {
     return { due: false, why: `\`${busy.slug}\` is mid-step at ${String(busy.status)}` }
   }
-  const unread = chapters.filter((one) => !one.completed).map((one) => one.slug)
-  if (unread.length >= (story.backlog ?? UNSTATED_BACKLOG)) {
-    const said = `unread: ${unread.join(", ")}`
-    return { due: false, why: story.backlog === null ? said : `${said} (backlog ${story.backlog})` }
+  const words = unreadWordsOf(chapters)
+  const backlog = story.wordBacklog ?? UNSTATED_BACKLOG
+  if (words <= backlog) {
+    return { due: true, why: `${words} unread words, at most the word backlog of ${backlog}` }
   }
-  return { due: true }
+  const unread = chapters.filter((one) => !one.completed).map((one) => one.slug)
+  const over = `${words} unread words, over the word backlog of ${backlog}`
+  return { due: false, why: `${over}: ${unread.join(", ")}` }
 }
 
 function madeKept(story: string, made: ChapterMade): BacklogKept {
@@ -136,7 +153,7 @@ async function storyKept(
     return skipped(story.slug, `chapters unread: ${chapters.refused}`, true)
   const due = dueFor(story, chapters.rows.flatMap(chapterIn))
   if (!due.due) return skipped(story.slug, due.why, false)
-  if (dry) return { said: `${story.slug}\twould write`, failed: false, faults: [] }
+  if (dry) return { said: `${story.slug}\twould write\t${due.why}`, failed: false, faults: [] }
   return madeKept(story.slug, await making(story.slug))
 }
 

@@ -9,61 +9,60 @@ import {
   type Story,
 } from "akasha/story/world/stories/written/modules/nightly-chapter-writing/nightly-chapter-writing.module.code.ts"
 
-const FOLLOWED: Story = { slug: "tale", following: true, master: "gm-tale", backlog: null }
+const FOLLOWED: Story = { slug: "tale", following: true, master: "gm-tale", wordBacklog: null }
 
-const READ: Chapter = { slug: "tale-0001", status: "player", completed: true }
+const READ: Chapter = { slug: "tale-0001", status: "player", completed: true, remaining: 0 }
 
-function unreadOf(count: number): Chapter[] {
-  return Array.from(
-    { length: count },
-    (_, at): Chapter => ({
+const NOTHING_UNREAD = { due: true, why: "0 unread words, at most the word backlog of 0" }
+
+function unreadOf(...words: number[]): Chapter[] {
+  return words.map(
+    (remaining, at): Chapter => ({
       slug: `tale-000${at + 2}`,
       status: "player",
       completed: false,
+      remaining,
     })
   )
 }
 
-test("a story with fewer published unread chapters than its backlog is due", () => {
-  expect(dueFor({ ...FOLLOWED, backlog: 3 }, [READ, ...unreadOf(2)])).toEqual({ due: true })
-})
-
-test("a story with as many published unread chapters as its backlog is not due", () => {
-  expect(dueFor({ ...FOLLOWED, backlog: 2 }, [READ, ...unreadOf(2)])).toEqual({
-    due: false,
-    why: "unread: tale-0002, tale-0003 (backlog 2)",
+test("a story with fewer unread words than its word backlog is due", () => {
+  expect(dueFor({ ...FOLLOWED, wordBacklog: 10000 }, [READ, ...unreadOf(3000, 4000)])).toEqual({
+    due: true,
+    why: "7000 unread words, at most the word backlog of 10000",
   })
 })
 
-test("a story below its backlog with a chapter mid-step is not due", () => {
-  const busy: Chapter = { slug: "tale-0004", status: "writer", completed: false }
-  expect(dueFor({ ...FOLLOWED, backlog: 10 }, [READ, ...unreadOf(2), busy])).toEqual({
+test("a story with more unread words than its word backlog is not due", () => {
+  expect(dueFor({ ...FOLLOWED, wordBacklog: 5000 }, [READ, ...unreadOf(3000, 4000)])).toEqual({
+    due: false,
+    why: "7000 unread words, over the word backlog of 5000: tale-0002, tale-0003",
+  })
+})
+
+test("a story below its word backlog with a chapter mid-step is not due", () => {
+  const busy: Chapter = { slug: "tale-0004", status: "writer", completed: false, remaining: 0 }
+  expect(dueFor({ ...FOLLOWED, wordBacklog: 50000 }, [READ, ...unreadOf(10), busy])).toEqual({
     due: false,
     why: "`tale-0004` is mid-step at writer",
   })
 })
 
-test("a story stating no backlog is due only with every published chapter read", () => {
-  expect(dueFor(FOLLOWED, [READ, ...unreadOf(1)])).toEqual({
+test("a story stating no word backlog is due only with nothing unread", () => {
+  expect(dueFor(FOLLOWED, [READ, ...unreadOf(3000)])).toEqual({
     due: false,
-    why: "unread: tale-0002",
+    why: "3000 unread words, over the word backlog of 0: tale-0002",
   })
-  expect(dueFor({ ...FOLLOWED, backlog: 1 }, [READ])).toEqual({ due: true })
-})
-
-test("a followed story with every published chapter read is due", () => {
-  expect(dueFor(FOLLOWED, [READ])).toEqual({ due: true })
+  expect(dueFor(FOLLOWED, [READ])).toEqual(NOTHING_UNREAD)
 })
 
 test("a followed story with no chapter is due", () => {
-  expect(dueFor(FOLLOWED, [])).toEqual({ due: true })
+  expect(dueFor(FOLLOWED, [])).toEqual(NOTHING_UNREAD)
 })
 
 test("a legacy chapter stating no step status counts as published", () => {
-  expect(dueFor(FOLLOWED, [{ slug: "tale-0001", status: null, completed: false }])).toEqual({
-    due: false,
-    why: "unread: tale-0001",
-  })
+  const legacy: Chapter = { slug: "tale-0001", status: null, completed: false, remaining: 500 }
+  expect(dueFor(FOLLOWED, [legacy]).due).toBe(false)
 })
 
 test("a story not followed is not due", () => {
@@ -81,7 +80,7 @@ test("a story naming no coordinator agent is not due", () => {
 })
 
 test("a story with a chapter mid-step is not due", () => {
-  const busy: Chapter = { slug: "tale-0002", status: "writer", completed: false }
+  const busy: Chapter = { slug: "tale-0002", status: "writer", completed: false, remaining: 0 }
   expect(dueFor(FOLLOWED, [READ, busy])).toEqual({
     due: false,
     why: "`tale-0002` is mid-step at writer",
@@ -98,6 +97,7 @@ function asking(stories: readonly Record<string, unknown>[], chapters: readonly 
               slug: one.slug,
               stepStatus: one.status === null ? undefined : `step-status/${one.status}`,
               completedAt: one.completed ? "2026-09-28T00:00:00.000Z" : undefined,
+              ownRemaining: one.remaining,
             })),
             n: chapters.length,
           }
@@ -112,7 +112,7 @@ test("a dry run says a due story would be written and starts nothing", async () 
     made.push(story)
     return Promise.resolve({ kind: "refused", said: "never" })
   })
-  expect(said).toEqual(["tale\twould write"])
+  expect(said).toEqual([`tale\twould write\t${NOTHING_UNREAD.why}`])
   expect(made).toEqual([])
 })
 
@@ -136,15 +136,23 @@ test("a run starts the next chapter of a due story through the chapter-making mo
 })
 
 test("a story skipped is said with why", async () => {
-  const unread: Chapter = { ...READ, completed: false }
+  const unread: Chapter = { ...READ, completed: false, remaining: 40 }
   const said = await nightlyChapterWriting(false, asking([STORY_ROW], [unread]))
-  expect(said).toEqual(["tale\tskipped\tunread: tale-0001"])
+  expect(said).toEqual(["tale\tskipped\t40 unread words, over the word backlog of 0: tale-0001"])
 })
 
-test("one story below the backlog it states has its next chapter started", async () => {
+test("a partly read chapter counts only the words it has left, and never fewer than none", async () => {
+  const row = { ...STORY_ROW, wordBacklog: 1200 }
+  const partly = unreadOf(1200, -300)
+  const kept = await backlogKept("tale", true, asking([row], [READ, ...partly]))
+  expect(kept.said).toBe("tale\twould write\t1200 unread words, at most the word backlog of 1200")
+})
+
+test("one story at most at the word backlog it states has its next chapter started", async () => {
   const made: string[] = []
-  const row = { ...STORY_ROW, chapterBacklog: 3 }
-  const kept = await backlogKept("tale", false, asking([row], [READ, ...unreadOf(2)]), (story) => {
+  const row = { ...STORY_ROW, wordBacklog: 7000 }
+  const chapters = [READ, ...unreadOf(3000, 4000)]
+  const kept = await backlogKept("tale", false, asking([row], chapters), (story) => {
     made.push(story)
     return Promise.resolve({ kind: "made", slug: "tale-0004", at: "x", told: [], faults: ["f"] })
   })
