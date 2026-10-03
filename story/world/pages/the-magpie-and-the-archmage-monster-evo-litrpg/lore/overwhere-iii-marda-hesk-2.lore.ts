@@ -92,5 +92,9 @@ export const overwhereIiiMardaHesk2 = {
       fact: "Told of a false-faced blight woman with wolves, Marda names the Night Order rumor aloud, grim.",
       knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-marda-hesk"],
     },
+    {
+      fact: "Marda will send a rider to Thornmere at dawn and tell the reeve and the watch tonight.",
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-marda-hesk"],
+    },
   ],
 } as const satisfies Lore
