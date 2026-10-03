@@ -1,16 +1,16 @@
 import type { StoryChapterWritten } from "akasha/story/world/stories/written/chapters/story-chapter-written.page-type.types.ts"
 
-export const hollowmere0020 = {
+export const hollowmere0020JustOurs = {
   id: "01a0ff41-e419-7057-a92b-f78efb07d4af",
   type: "page-type/story-chapter-written",
-  slug: "hollowmere-0020",
+  slug: "hollowmere-0020-just-ours",
   position: 20,
   unit: "unit/words",
-  title: "Chapter 20",
+  title: "Just Ours",
   story: "story-written/hollowmere",
-  ownLength: 0,
+  ownLength: 3593,
   prose: "txt",
-  stepStatus: "step-status/writer",
+  stepStatus: "step-status/reviewers",
   beats: [
     "Saturday: you wake at half six in the narrow bed, Bea still curled at your back, her arm over you.",
     'Her alarm goes off across the corridor; she groans into your neck. "Rowing. Seven. Morwenna."',
@@ -76,5 +76,28 @@ export const hollowmere0020 = {
     "You fall asleep in 15 this time, Bea's arm over you, her warm bare body at your back.",
     "A day at Hollowmere ends.",
   ],
-  lore: ["lore/hollowmere-academy-2", "lore/hollowmere-bea", "lore/hollowmere-bea-2"],
+  lore: [
+    "lore/hollowmere-academy-2",
+    "lore/hollowmere-bea",
+    "lore/hollowmere-bea-2",
+    "lore/hollowmere-kit",
+    "lore/hollowmere-kit-2",
+    "lore/hollowmere-lin",
+    "lore/hollowmere-morwenna",
+    "lore/hollowmere-nala",
+    "lore/hollowmere-nala-2",
+    "lore/hollowmere-priya",
+    "lore/hollowmere-shiv",
+    "lore/hollowmere-yusra",
+  ],
+  characters: [
+    "character-player/hollowmere-nala",
+    "character-other/hollowmere-bea",
+    "character-other/hollowmere-shiv",
+    "character-other/hollowmere-morwenna",
+    "character-other/hollowmere-kit",
+    "character-other/hollowmere-lin",
+    "character-other/hollowmere-priya",
+    "character-other/hollowmere-yusra",
+  ],
 } as const satisfies StoryChapterWritten
