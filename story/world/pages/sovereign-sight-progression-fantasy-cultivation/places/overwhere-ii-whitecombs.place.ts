@@ -237,7 +237,7 @@ export const overwhereIiWhitecombs = {
     },
     {
       fact: "As the plug closes, the pool's swells quicken for a few breaths, then slow again.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Plugged, the pool rises a finger's width a day; it will reach the lip again in about a month.",
