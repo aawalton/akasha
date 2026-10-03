@@ -46,19 +46,35 @@ export const fairweatherElsie = {
       ],
     },
     {
-      fact: "Elsie holds hands, falls asleep on shoulders, and tells each girl she is her favourite person.",
+      fact: "Elsie reaches for those she loves, a hand or a shoulder, since she never had long with anyone.",
       knowers: ["lore-disclosure/game-master", "character-player/fairweather-elsie"],
     },
     {
-      fact: "Elsie cannot lie, cries easily, hums without knowing it, and is fiercely brave for a friend.",
+      fact: "Elsie cannot lie.",
       knowers: ["lore-disclosure/game-master", "character-player/fairweather-elsie"],
     },
     {
-      fact: "Elsie remembers tea orders, bad days and sisters' names, and turns up with soup.",
+      fact: "Elsie's eyes fill easily, at kindness as readily as at sorrow.",
       knowers: ["lore-disclosure/game-master", "character-player/fairweather-elsie"],
     },
     {
-      fact: "Elsie bakes when she is nervous, and keeps a notebook of everyone's birthdays and favourite things.",
+      fact: "Now and then Elsie hums without knowing it.",
+      knowers: ["lore-disclosure/game-master", "character-player/fairweather-elsie"],
+    },
+    {
+      fact: "Elsie is fiercely brave when a friend is threatened.",
+      knowers: ["lore-disclosure/game-master", "character-player/fairweather-elsie"],
+    },
+    {
+      fact: "Elsie notices what people need, and it comes back later: their tea, soup on a bad day.",
+      knowers: ["lore-disclosure/game-master", "character-player/fairweather-elsie"],
+    },
+    {
+      fact: "Elsie sometimes bakes when she is nervous.",
+      knowers: ["lore-disclosure/game-master", "character-player/fairweather-elsie"],
+    },
+    {
+      fact: "Elsie keeps a notebook of the birthdays and favourite things of people she loves.",
       knowers: ["lore-disclosure/game-master", "character-player/fairweather-elsie"],
     },
     {
@@ -100,6 +116,10 @@ export const fairweatherElsie = {
     {
       fact: "Elsie reads the ache of wanting someone near as friendship, and files every girl's love so.",
       knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Elsie lost every friend she made at the next crossroads, so a person who stays is a wonder to her.",
+      knowers: ["lore-disclosure/game-master", "character-player/fairweather-elsie"],
     },
     {
       fact: "Elsie's class is Enthraller, and she is level 1 with the skills Captivate and Tether.",
