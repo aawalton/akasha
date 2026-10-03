@@ -44,6 +44,10 @@ export const overwhereIiiMotherSallow = {
       fact: "Her strongest working lands crushing force; her mage's shield wards six.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "If cornered she flees for the Hollow and wakes its blighted guardian early.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
