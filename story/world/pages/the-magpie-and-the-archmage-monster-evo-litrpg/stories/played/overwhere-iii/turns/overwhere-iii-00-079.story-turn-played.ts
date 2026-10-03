@@ -4,6 +4,7 @@ export const overwhereIii00079 = {
   id: "01a0ff04-4a58-7ed9-b3bd-2b19b8f415c7",
   type: "page-type/story-turn-played",
   slug: "overwhere-iii-00-079",
+  cover: "image/image-9b19c0b9c9743c3e",
   ownLength: 282,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iii"],
@@ -17,7 +18,7 @@ export const overwhereIii00079 = {
     "character-other/overwhere-iii-tam-rowe",
     "character-other/overwhere-iii-edda-crane",
   ],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action:
     "“Okay, might just hunt my own then.” Dinner, bed, healing, training, then back to the Post for leads on where blighted beasts have been seem.",
   beats: [
@@ -60,6 +61,12 @@ export const overwhereIii00079 = {
     "place/overwhere-iii-wrenwood",
   ],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/memory", "story-recorder/mechanics"],
+  recordedBy: [
+    "story-recorder/inventory",
+    "story-recorder/memory",
+    "story-recorder/mechanics",
+    "story-recorder/picture",
+  ],
   endsAt: "2026-10-08T10:45:00.000Z",
+  coverAfter: "Then staff bouts with Tam. You slip his swing and rap his knuckles.",
 } as const satisfies StoryTurnPlayed
