@@ -233,7 +233,7 @@ export const overwhereIiWhitecombs = {
     },
     {
       fact: "Plugged, the crack stops the trickle; the gully below dries but for what lies behind Hawise's bank.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "As the plug closes, the pool's swells quicken for a few breaths, then slow again.",
