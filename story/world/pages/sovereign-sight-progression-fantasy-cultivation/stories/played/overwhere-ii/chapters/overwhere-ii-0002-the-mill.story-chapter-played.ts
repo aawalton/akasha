@@ -10,6 +10,7 @@ export const overwhereIi0002TheMill = {
   story: "story-played/overwhere-ii",
   ownLength: 3062,
   prose: "txt",
+  beats: "jsonl",
   turnCovers: [
     {
       position: 10,
