@@ -146,7 +146,7 @@ export const overwhereIiCallowBeck = {
     },
     {
       fact: "Pushed by Undertow, the slick feels heavier than plain water, cold, leaning downhill like a tide.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Nala's push can roll the whole slick back up the pasture into the gully mouth in close to two hours.",
