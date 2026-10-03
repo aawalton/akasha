@@ -4,10 +4,13 @@ export const overwhereI00102 = {
   id: "01a0ff47-0ee9-7f6e-9407-aa126ec2b010",
   type: "page-type/story-turn-played",
   slug: "overwhere-i-00-102",
+  ownLength: 256,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-i"],
   position: 102,
-  stepStatus: "step-status/writer",
+  prose: "txt",
+  characters: ["character-player/overwhere-i-nala", "character-other/overwhere-i-ghost-eye"],
+  stepStatus: "step-status/reviewers",
   action:
     "“Two hour walk is all? The Wyrm sounds like a nice warm up, I’ll take that tomorrow. For today, I’m looking for a nice place to stay as well as somewhere to sell miscellaneous loot from my adventures. Oh! And someone who can turn Ghost-Eye here into a proper casting focus.” I pull out the drakewolf eye. “Recommendations?”",
   beats: [
@@ -24,6 +27,11 @@ export const overwhereI00102 = {
     '"She\'s an alchemist by the river stairs, buys parts for her draughts."',
     "\"For a focus, Ilse Varrow. Blue door on Glass Street. All of it's a quarter hour's walk from here.\"",
   ],
-  lore: ["lore/overwhere-i-wendlow-2", "place/overwhere-i-wendlow"],
+  lore: [
+    "lore/overwhere-i-nala",
+    "lore/overwhere-i-nala-2",
+    "lore/overwhere-i-wendlow-2",
+    "place/overwhere-i-wendlow",
+  ],
   endsAt: "2026-10-05T12:40:00.000Z",
 } as const satisfies StoryTurnPlayed
