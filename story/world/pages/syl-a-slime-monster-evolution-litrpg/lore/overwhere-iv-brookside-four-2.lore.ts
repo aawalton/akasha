@@ -310,5 +310,21 @@ export const overwhereIvBrooksideFour2 = {
         "lore/overwhere-iv-brookside-four",
       ],
     },
+    {
+      fact: "Merrit chose Tull's sheep wall for the ambush, since goblins bunch up crossing the ford's water.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iv-nala",
+        "lore/overwhere-iv-brookside-four",
+      ],
+    },
+    {
+      fact: "Dace set the Four along the wall and bade Nala bring the goblins out to them, uncaught.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iv-nala",
+        "lore/overwhere-iv-brookside-four",
+      ],
+    },
   ],
 } as const satisfies Lore

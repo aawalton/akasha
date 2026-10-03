@@ -161,5 +161,9 @@ export const overwhereIvNala3 = {
         "character-other/overwhere-iv-ilsa-crane",
       ],
     },
+    {
+      fact: "On day 9's night Nala paid 2 copper for a pallet in the Brook and Barrel's common room.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+    },
   ],
 } as const satisfies Lore

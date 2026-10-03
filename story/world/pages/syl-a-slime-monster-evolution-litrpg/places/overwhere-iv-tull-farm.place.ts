@@ -173,7 +173,7 @@ export const overwhereIvTullFarm = {
     },
     {
       fact: "The ford lies some thirty paces out from the trees, so some hundred and seventy from the fold.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
     },
     {
       fact: "The flung torches gutter out in the dew-wet meadow; none of them catches the grass.",
@@ -213,7 +213,11 @@ export const overwhereIvTullFarm = {
     },
     {
       fact: "Tull's ford is knee-deep and some ten paces wide, with a drystone sheep wall along the meadow bank.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iv-nala",
+        "lore/overwhere-iv-brookside-four",
+      ],
     },
   ],
 } as const satisfies Place
