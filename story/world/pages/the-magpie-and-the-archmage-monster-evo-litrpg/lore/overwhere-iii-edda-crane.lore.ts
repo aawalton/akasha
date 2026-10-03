@@ -177,5 +177,14 @@ export const overwhereIiiEddaCrane = {
         "character-other/overwhere-iii-edda-crane",
       ],
     },
+    {
+      fact: "Edda walked up to the Post with Nala at gold light and told Marda plainly of Sallow.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/overwhere-iii-edda-crane",
+        "character-player/overwhere-iii-nala",
+        "character-other/overwhere-iii-marda-hesk",
+      ],
+    },
   ],
 } as const satisfies Lore
