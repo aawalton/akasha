@@ -173,5 +173,13 @@ export const overwhereIiiCorruption2 = {
       fact: "Jackalopes are quicker than a runner over a few strides; backing off bunches them as they close.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
+    {
+      fact: "Nala's sweeping braid cut all three kiln jackalopes; none fell, and blight still darkens each.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+    },
+    {
+      fact: "After that one sweep the smallest kiln jackalope can barely stand; the other two fight on.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+    },
   ],
 } as const satisfies Lore
