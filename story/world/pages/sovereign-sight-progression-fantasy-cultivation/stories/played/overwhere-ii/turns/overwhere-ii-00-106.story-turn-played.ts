@@ -10,7 +10,7 @@ export const overwhereIi00106 = {
   position: 106,
   prose: "txt",
   characters: ["character-player/overwhere-ii-nala"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/recorders",
   action:
     "I empty out my leather pouch into another bag and pull the bead into the pouch, to see if it will hold it.",
   beats: [
@@ -31,6 +31,6 @@ export const overwhereIi00106 = {
     "lore/overwhere-ii-nala-3",
     "place/overwhere-ii-whitecombs",
   ],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
   endsAt: "2026-10-26T11:23:00.000Z",
 } as const satisfies StoryTurnPlayed
