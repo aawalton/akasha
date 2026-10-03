@@ -10,7 +10,7 @@ export const overwhereI00110 = {
   position: 110,
   prose: "txt",
   characters: ["character-player/overwhere-i-nala"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/recorders",
   action:
     "I go and hide myself 20 yards from where it suns, then wait for it to appear. When it settles, I focus on the electricity element I haven’t used much and do a dual summon above it, hitting it with a targeting double lightning strike in the head. Then I try my double fire eye beams and try to burn through its skull.",
   beats: [
@@ -36,6 +36,6 @@ export const overwhereI00110 = {
     "lore/overwhere-i-starfall-legacy-2",
     "place/overwhere-i-hobbs-mill-weir",
   ],
-  reviewedBy: ["story-reviewer/continuity"],
+  reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
   endsAt: "2026-10-06T11:36:00.000Z",
 } as const satisfies StoryTurnPlayed
