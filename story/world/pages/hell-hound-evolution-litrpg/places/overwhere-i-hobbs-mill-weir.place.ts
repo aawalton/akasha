@@ -173,7 +173,7 @@ export const overwhereIHobbsMillWeir = {
     },
     {
       fact: "From the towpath bend down to Hobb's landing is a three-minute walk.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
     {
       fact: "Jory knows nothing of what the wyrm senses, nor of its lair; he guesses it lives in the pool.",
