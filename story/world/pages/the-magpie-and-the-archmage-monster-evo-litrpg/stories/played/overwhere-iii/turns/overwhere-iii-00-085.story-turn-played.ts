@@ -15,7 +15,7 @@ export const overwhereIii00085 = {
     "character-other/overwhere-iii-mother-sallow",
     "character-other/overwhere-iii-marda-hesk",
   ],
-  stepStatus: "step-status/writer",
+  stepStatus: "step-status/recorders",
   action:
     "“Whose house was that and how long have you known them? There was a woman there who commanded the wolves, but she was corrupted. When I confronted her, her face changed.”",
   beats: [
