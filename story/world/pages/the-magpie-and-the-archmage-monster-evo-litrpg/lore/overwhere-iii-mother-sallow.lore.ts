@@ -108,6 +108,10 @@ export const overwhereIiiMotherSallow = {
       fact: "She has 40 health; her shield, once up, wards six.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "A holy pull strand landing on her strikes as a heavy blow on top of the working's force.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
