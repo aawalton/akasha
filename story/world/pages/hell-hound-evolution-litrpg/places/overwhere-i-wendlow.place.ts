@@ -286,7 +286,7 @@ export const overwhereIWendlow = {
     },
     {
       fact: "A rolled hunter answers to the Board for her kills, and must bring word of any monster she sees.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
     {
       fact: "Grete offers the roll and waits for Nala's yes; she writes no one on it unasked.",
