@@ -1,0 +1,56 @@
+{"beat":1,"event":"Day 43: Wren walks the basin path south on limestone that has learned her gait.","at":"2026-09-12T08:00:00.000Z","place":"place/the-places-she-carries-basin-path","present":["character-player/the-places-she-carries-wren"]}
+{"beat":2,"event":"The Vael runs warm beneath her boots; the ground feels familiar."}
+{"beat":3,"event":"She passes the Eye's basin without stopping; the bond confirms it is still transmitting SSE.","at":"2026-09-12T08:40:00.000Z"}
+{"beat":4,"event":"The circuit is running; she is not its endpoint."}
+{"beat":5,"event":"Two hours out she steps over the corruption boundary into silence.","at":"2026-09-12T10:00:00.000Z"}
+{"beat":6,"event":"No Vael, no insects, no living bond-awareness: the limestone underfoot carries nothing."}
+{"beat":7,"event":"At midday Hearthstone appears: the great ghost-elm ring with its raised root ridges.","at":"2026-09-12T12:00:00.000Z","place":"place/the-places-she-carries-hearthstone"}
+{"beat":8,"event":"Drainage grid, autumn terraces, open clearing; the Greenwater runs lower, quieter."}
+{"beat":9,"event":"At the ring gap a resonance rises and meets the Vael in her like two tuned strings."}
+{"beat":10,"event":"The bedrock here carries the Vael at full strength, the same as at Varethen."}
+{"beat":11,"event":"She lays her palm on the ghost-elm gate post and opens Detail Notation."}
+{"beat":12,"event":"A discovery: the Vael does not attenuate; the formation is one resonant body. +67 XP, 2433.","changes":[{"page":"metric-character-experience/the-places-she-carries-wren","key":"value","from":2366,"to":2433,"note":"Discovery: Vael full-strength propagation at Hearthstone"}]}
+{"beat":13,"event":"She crosses the ring gap to the central foundation."}
+{"beat":14,"event":"Her seven Detail Notation marks from Day 27 are still in the stone."}
+{"beat":15,"event":"The first mark holds her Day 27 reading: dense, more present, Apprentice-level, no Vael."}
+{"beat":16,"event":"Read now at Journeyman with the Vael, the reinforcement radiates down into the bedrock."}
+{"beat":17,"event":"She lets the ten-minute Detail Notation run."}
+{"beat":18,"event":"At minute four the bedrock below responds, not to her but to the Eye's transmission."}
+{"beat":19,"event":"The signal goes deeper, past the builders' work, into something already there before them."}
+{"beat":20,"event":"Hearthstone is a relay, passing the Eye's signal toward a depth her bond cannot follow."}
+{"beat":21,"event":"A discovery confirms the signal relay at depth: +100 XP, 2533 / 2573.","changes":[{"page":"metric-character-experience/the-places-she-carries-wren","key":"value","from":2433,"to":2533,"note":"Discovery: Hearthstone signal relay confirmed"}]}
+{"beat":22,"event":"She sits a long time with her hand on the foundation, the Greenwater quiet on three sides."}
+{"beat":23,"event":"The builders did not build the one thing; they built over it, settling its nodes to take part."}
+{"beat":24,"event":"The corruption interrupted the human part, not what lies below."}
+{"beat":25,"event":"In the afternoon she reads the other six marks; the well is unchanged and clean.","at":"2026-09-12T14:00:00.000Z"}
+{"beat":26,"event":"The drainage grid has more autumn debris, but the limestone and watershed design are sound."}
+{"beat":27,"event":"Brecca's interlocking corner now shows pressed intention in its load-bearing stones."}
+{"beat":28,"event":"Theron's dry-stack retaining wall shows no subsidence in three hundred years."}
+{"beat":29,"event":"The worn market street has no reinforcement: walked on, not worked."}
+{"beat":30,"event":"The river gate posts were dressed to shed water: practical, not intentional."}
+{"beat":31,"event":"A discovery: the builders pressed the bones, not the skin. +40 XP, 2573 / 2573.","changes":[{"page":"metric-character-experience/the-places-she-carries-wren","key":"value","from":2533,"to":2573,"note":"Discovery: Detail Notation comparative reading, Hearthstone"}]}
+{"beat":32,"event":"LEVEL UP: Wren reaches Level 6, with 6 attribute points and a free skill point.","changes":[{"page":"metric-character-level/the-places-she-carries-wren","key":"value","from":5,"to":6,"note":"Level 6 reached on the Hearthstone comparative reading"}]}
+{"beat":33,"event":"Next threshold: 3200, 627 XP away."}
+{"beat":34,"event":"She renews five marks for thirty days and lets the river gate and market street expire."}
+{"beat":35,"event":"Eating dried fruit on the clearing's sheltered east side, a question comes: what are you waiting for?","at":"2026-09-12T16:30:00.000Z"}
+{"beat":36,"event":"On Day 27 she chose seeing without holding; she knows more now."}
+{"beat":37,"event":"Her Hearth Slot has been empty since the threshold stone opened it."}
+{"beat":38,"event":"The Hearth Slot is for home; the threshold stone is where she returns each morning."}
+{"beat":39,"event":"Hearthstone is not home, she tells herself clearly: it is a relay node."}
+{"beat":40,"event":"The question becomes what she will bring back; she has enough."}
+{"beat":41,"event":"She watches the Greenwater catch the afternoon light and resolves to return when she knows more."}
+{"beat":42,"event":"She sets out north; the return takes a day and a half.","at":"2026-09-12T17:00:00.000Z"}
+{"beat":43,"event":"The first night she camps in a limestone alcove three hours north of Hearthstone.","at":"2026-09-12T20:00:00.000Z","place":"place/the-places-she-carries-basin-path"}
+{"beat":44,"event":"Both observed intervals were 18 days: pulse two on Day 36, pulse three due Day 54."}
+{"beat":45,"event":"Two points are not a pattern; the third pulse will be the test."}
+{"beat":46,"event":"If it comes on Day 54 the drift is stable; if later, the drift is growing."}
+{"beat":47,"event":"A growing drift is something every settlement in the basin would need to know."}
+{"beat":48,"event":"She holds the question in the dark, with a surveyor's attention, not fear."}
+{"beat":49,"event":"On the morning of Day 45 she packs camp and walks north.","at":"2026-09-14T06:30:00.000Z"}
+{"beat":50,"event":"In late afternoon the settlement appears, the threshold stone felt before it is seen.","at":"2026-09-14T16:30:00.000Z","place":"place/the-places-she-carries-varethen","present":["character-player/the-places-she-carries-wren","character-other/the-places-she-carries-theron","character-other/the-places-she-carries-hadley","character-other/the-places-she-carries-brecca"]}
+{"beat":51,"event":"Theron looks up from the channel, Hadley lifts a hand, Brecca turns from the wall."}
+{"beat":52,"event":"She sets down her pack: 'The foundation is a relay. The builders did not make the system. They joined it.'"}
+{"beat":53,"event":"Theron is quiet, turning his trowel over."}
+{"beat":54,"event":"She explains the pulse test: nine days, and if Day 54 passes without it, the drift is growing."}
+{"beat":55,"event":"'I wanted to tell you before the pulse, so you know what to watch for.'"}
+{"beat":56,"event":"Hadley opens his journal to a new page: nine days to watch."}
