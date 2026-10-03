@@ -10,7 +10,7 @@ export const overwhereIii00091 = {
   position: 91,
   prose: "txt",
   characters: ["character-player/overwhere-iii-nala"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/recorders",
   action: "I hit them with another braid, focusing on the two larger ones",
   beats: [
     "[Cleansing Weave has advanced: Novice → Adept]",
@@ -30,6 +30,6 @@ export const overwhereIii00091 = {
     "lore/overwhere-iii-nala-2-2",
     "place/overwhere-iii-merrowgate-guild-post",
   ],
-  reviewedBy: ["story-reviewer/continuity"],
+  reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
   endsAt: "2026-10-09T11:45:00.000Z",
 } as const satisfies StoryTurnPlayed
