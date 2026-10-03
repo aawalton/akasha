@@ -102,7 +102,7 @@ export const overwhereIWendlow22 = {
     },
     {
       fact: "At supper Nell Cooley eyes Nala's ragged cloak hem and offers to stitch it, 2 copper a tear.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
     {
       fact: "That evening bargemen in the taproom toast the Weir Wyrm's death; the river is open again.",
