@@ -163,5 +163,9 @@ export const overwhereIHobbsMillWeir = {
       fact: "Jory says the holed barge is the Heron, stove in at dawn a week ago; her crew swam clear.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "The other barge, the Pike, carries wine; her crew of three watch from her deck and say nothing.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Place
