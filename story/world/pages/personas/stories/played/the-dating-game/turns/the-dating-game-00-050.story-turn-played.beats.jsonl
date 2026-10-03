@@ -1,7 +1,8 @@
-{"beat":1,"event":"He says, \"Sounds great. Bye, Aelwyn!\""}
+{"beat":1,"event":"He says, \"Sounds great. Bye, Aelwyn!\"","changes":[{"page":"world-relationship/the-dating-game-aelwyn","key":"relationshipPoints","from":17,"to":18,"note":"Closeness scoring: acknowledgment 1 for his goodbye"}]}
 {"beat":2,"event":"She waves over her shoulder, still crouched at the lock. \"Bye, stretch buddy!\""}
-{"beat":3,"event":"He walks home to Apple Avenue."}
+{"beat":3,"event":"He walks home to Apple Avenue.","at":"2026-09-27T12:15:00.000Z","place":"place/the-dating-game-apple-avenue","leave":["character-other/the-dating-game-aelwyn"]}
 {"beat":4,"event":"He makes himself lunch and eats it in the quiet of the house."}
-{"beat":5,"event":"Afterward he heads back out for a walk around the neighborhood."}
-{"beat":6,"event":"The street is Sunday-still: families walking home in church clothes, a sprinkler ticking on a lawn."}
-{"beat":7,"event":"Where the street crests, the whole valley opens out below, Utah Lake shining at its far edge."}
+{"beat":5,"event":"Afterward he heads back out for a walk around the neighborhood.","at":"2026-09-27T13:25:00.000Z"}
+{"beat":6,"event":"The street is Sunday-still: families walking home in church clothes, a sprinkler ticking on a lawn.","memory":[{"page":"place/the-dating-game-apple-avenue","fact":"Alan's neighborhood is quiet streets of brick houses, lawns and big old trees.","shown":true},{"page":"place/the-dating-game-apple-avenue","fact":"Alan's neighborhood is quiet streets of brick houses, lawns and big old trees.","learns":"character-player/the-dating-game-alan"},{"page":"place/the-dating-game-apple-avenue","fact":"On Sunday afternoons families in church clothes walk home along the streets near Apple.","shown":true},{"page":"place/the-dating-game-apple-avenue","fact":"On Sunday afternoons families in church clothes walk home along the streets near Apple.","learns":"character-player/the-dating-game-alan"}]}
+{"beat":7,"event":"Where the street crests, the whole valley opens out below, Utah Lake shining at its far edge.","at":"2026-09-27T13:35:00.000Z","memory":[{"page":"place/the-dating-game-apple-avenue","fact":"Where the streets near Apple crest, the whole valley opens below, Utah Lake at its far edge.","shown":true},{"page":"place/the-dating-game-apple-avenue","fact":"Where the streets near Apple crest, the whole valley opens below, Utah Lake at its far edge.","learns":"character-player/the-dating-game-alan"}]}
+

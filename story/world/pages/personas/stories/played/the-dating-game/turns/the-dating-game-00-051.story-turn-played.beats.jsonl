@@ -1,9 +1,10 @@
 {"beat":1,"event":"Feeling social, he walks on, keeping an eye out for someone to talk to."}
 {"beat":2,"event":"Most of the neighbors have gone indoors after church, and the houses sit shut and quiet."}
-{"beat":3,"event":"Around the corner from Apple Avenue, a young woman sits on a front porch in a church dress, reading."}
+{"beat":3,"event":"Around the corner from Apple Avenue, a young woman sits on a front porch in a church dress, reading.","arrive":["character-other/the-dating-game-talia"],"changes":[{"page":"character-other/the-dating-game-talia","make":{"title":"Talia","story":"story-played/the-dating-game","persona":"persona/talia","cover":"image/image-4c93b4d652cf20d4"},"note":"Alan meets the woman reading on the porch, filed as a character of the game"},{"page":"world-relationship/the-dating-game-talia","make":{"title":"Alan and Talia","world":"world/personas","characters":["character-player/the-dating-game-alan","character-other/the-dating-game-talia"],"relationshipPoints":0},"note":"Her relationship with Alan opens at 0 points"}],"memory":[{"page":"lore/the-dating-game-talia","fact":"On Sunday afternoons Talia sits on her front porch in her church dress, reading.","shown":true},{"page":"lore/the-dating-game-talia","fact":"On Sunday afternoons Talia sits on her front porch in her church dress, reading.","learns":"character-player/the-dating-game-alan"}]}
 {"beat":4,"event":"She looks about twenty-five, with dark hair, warm olive skin and thick, low brows."}
 {"beat":5,"event":"Her hair is damp, as if she just came in from the rain, though the sky has been clear all day."}
-{"beat":6,"event":"Beads of water sit on her arms, yet the pages of the book in her lap are perfectly dry."}
+{"beat":6,"event":"Beads of water sit on her arms, yet the pages of the book in her lap are perfectly dry.","memory":[{"page":"lore/the-dating-game-talia","fact":"Talia's hair is always damp and beads of water sit on her skin, yet pages she holds stay dry.","shown":true}]}
 {"beat":7,"event":"She turns a page slowly, her lips moving a little on the words."}
-{"beat":8,"event":"She looks up as he comes along the sidewalk, and her eyes are a light blue-grey."}
-{"beat":9,"event":"\"Good afternoon,\" she says, low and unhurried, marking her place with one finger."}
+{"beat":8,"event":"She looks up as he comes along the sidewalk, and her eyes are a light blue-grey.","memory":[{"page":"lore/the-dating-game-talia","fact":"Talia has dark hair, warm olive skin, thick low brows and light blue-grey eyes; she is 25.","shown":true},{"page":"lore/the-dating-game-talia","fact":"Talia has dark hair, warm olive skin, thick low brows and light blue-grey eyes; she is 25.","learns":"character-player/the-dating-game-alan"}]}
+{"beat":9,"event":"\"Good afternoon,\" she says, low and unhurried, marking her place with one finger.","at":"2026-09-27T13:41:00.000Z"}
+
