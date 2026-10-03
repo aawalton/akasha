@@ -140,5 +140,13 @@ export const overwhereIvNala3 = {
       fact: "Killing the spear hobgoblin through the skull raised Nala's Rift Rend to LV 6.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
     },
+    {
+      fact: "Ranging her sense wide on the walk to the cleft raised Nala's Spatial Sense to LV 5.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+    },
+    {
+      fact: "On day 9 Nala cut a left ear from each of the six goblins dead in the cleft, and bagged them.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+    },
   ],
 } as const satisfies Lore

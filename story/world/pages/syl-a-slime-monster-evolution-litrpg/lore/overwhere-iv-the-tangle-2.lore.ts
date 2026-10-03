@@ -319,11 +319,11 @@ export const overwhereIvTheTangle2 = {
     },
     {
       fact: "By day 9 crows and a fox have been at the dead in the cleft, but ears and cores are there to take.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
     },
     {
       fact: "The goblins left their dead in the cleft, with two slings, three clubs, short spears and knives.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
     },
     {
       fact: "By day the cleft is empty of goblins; Grakk's camp is two and a half miles further up the trail.",
