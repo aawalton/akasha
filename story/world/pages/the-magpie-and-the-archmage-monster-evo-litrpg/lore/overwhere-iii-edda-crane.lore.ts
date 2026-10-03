@@ -126,5 +126,9 @@ export const overwhereIiiEddaCrane = {
         "character-other/overwhere-iii-edda-crane",
       ],
     },
+    {
+      fact: "Edda has known Mother Sallow two winters, since she came to the empty hut by the brook.",
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-edda-crane"],
+    },
   ],
 } as const satisfies Lore
