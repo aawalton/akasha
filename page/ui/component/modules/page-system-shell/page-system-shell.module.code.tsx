@@ -42,6 +42,7 @@ interface PageSystemShellProps {
   views?: readonly ViewTabItem[]
   viewCallbacks?: ViewCallbacks
   currentViewData?: ViewDataJSON
+  framed?: boolean
   children: ReactNode
 }
 
@@ -57,6 +58,7 @@ export function PageSystemShell({
   views,
   viewCallbacks,
   currentViewData,
+  framed,
   children,
 }: PageSystemShellProps) {
   const useViewTabs = views != null && viewCallbacks != null
@@ -91,7 +93,9 @@ export function PageSystemShell({
             {typeof title === "string" ? <PageTitle>{title}</PageTitle> : title}
           </PageLayout.Header>
         )}
-        <PageLayout.Content>{emptyCard}</PageLayout.Content>
+        <PageLayout.Content className={framed === true ? "max-[583px]:px-0" : undefined}>
+          {emptyCard}
+        </PageLayout.Content>
       </PageLayout>
     )
   }
@@ -136,7 +140,9 @@ export function PageSystemShell({
           )
         )}
 
-        <PageLayout.Content>{showEmptyViewState ? emptyCard : children}</PageLayout.Content>
+        <PageLayout.Content className={framed === true ? "max-[583px]:px-0" : undefined}>
+          {showEmptyViewState ? emptyCard : children}
+        </PageLayout.Content>
       </Tabs>
     </PageLayout>
   )

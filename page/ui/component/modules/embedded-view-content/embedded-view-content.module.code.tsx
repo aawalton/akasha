@@ -22,10 +22,12 @@ export function EmbeddedViewContent({
   pageTypeSlug,
   id,
   relation,
+  framed,
 }: {
   pageTypeSlug: PageTypeSlug
   id: string
   relation: string
+  framed?: boolean
 }) {
   const { page } = usePage({ pageTypeSlug, id })
   const slug = toPageDataJSON(page?.properties).slug
@@ -68,6 +70,7 @@ export function EmbeddedViewContent({
       title={null}
       tabs={tabs}
       loading={loading}
+      framed={framed}
       storagePrefix={`embedded-view-${pageTypeSlug}`}
     >
       {view !== undefined && listedTypeId !== undefined && (

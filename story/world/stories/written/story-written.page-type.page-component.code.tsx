@@ -29,7 +29,7 @@ export function Drawing({ pageTypeSlug, id, nextUnreadHref }: PageDrawingProps) 
           storyPageTypeSlug={pageTypeSlug}
           storySlug={slug}
         >
-          <StoryChapters pageTypeSlug={pageTypeSlug} id={id} />
+          <StoryChapters pageTypeSlug={pageTypeSlug} id={id} framed />
         </StoryPanels>
       ) : (
         <StoryChapters pageTypeSlug={pageTypeSlug} id={id} />
