@@ -64,5 +64,21 @@ export const overwhereIiTarrantSmithy = {
       fact: "Hob says cold iron bites the Sea-twisted where plain iron only cuts, and bids her keep it oiled.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
+    {
+      fact: "Hob has cold iron in stock for some twenty forearm-long stakes; the rest needs old iron melted down.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Folk at the Ford would give old cold-iron nails and charms for the stakes, if the Reeve asks.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Hob starts the stakes at once on day twenty-nine; the first ten are ready by dusk.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Hob warns that stakes in a pool bed must be driven with a sledge, by someone standing over them.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Place
