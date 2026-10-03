@@ -11,7 +11,7 @@ export const overwhereIv00088 = {
   position: 88,
   prose: "txt",
   characters: ["character-player/overwhere-iv-nala"],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action:
     "I take the cores as well, then I sneak up the trail toward the smoke, watching with my senses",
   beats: [
@@ -32,7 +32,12 @@ export const overwhereIv00088 = {
     "lore/overwhere-iv-the-tangle-2-2",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/memory", "story-recorder/picture"],
+  recordedBy: [
+    "story-recorder/inventory",
+    "story-recorder/memory",
+    "story-recorder/picture",
+    "story-recorder/mechanics",
+  ],
   endsAt: "2026-10-07T10:50:00.000Z",
   coverAfter: "The other snatches a horn from its belt and lifts it to its lips",
 } as const satisfies StoryTurnPlayed
