@@ -125,7 +125,7 @@ export const overwhereIiVarrowTalented = {
     },
     {
       fact: "Corra spars with a wooden sword, weakest of the three with a blade; she relies on getting close.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Corra's spark leaps a hand's breadth from her fingertips, or runs through whatever she touches.",
