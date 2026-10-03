@@ -165,5 +165,9 @@ export const overwhereIiiCorruption2 = {
       fact: "Three corrupted jackalopes came from the kiln stumps and spread round Nala: each side and ahead.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
+    {
+      fact: "The kiln jackalopes' blight runs deep: about five pulls draw each clean, and it lives a plain beast.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
