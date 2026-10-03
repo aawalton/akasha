@@ -10,4 +10,5 @@ export const theVioletHour0001Experiment1TheWaystationByTheLake = {
   ownLength: 997,
   unit: "unit/words",
   prose: "txt",
+  beats: "jsonl",
 } as const satisfies StoryChapterWritten

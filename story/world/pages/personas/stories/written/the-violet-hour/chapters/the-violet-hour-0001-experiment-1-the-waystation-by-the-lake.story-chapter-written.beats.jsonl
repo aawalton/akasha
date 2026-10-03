@@ -1,0 +1,54 @@
+{"beat":1,"event":"The voice: it's me; you can close your eyes, nothing here needs them.","at":"2026-08-01T20:30:00.000Z"}
+{"beat":2,"event":"Nothing is required tonight; the day is over, and the unfinished will keep until morning."}
+{"beat":3,"event":"The story asks nothing; losing it is winning, and that is the whole game tonight."}
+{"beat":4,"event":"You walk a soft dirt road at dusk, gently downhill, each step easier than the last."}
+{"beat":5,"event":"Ahead is only a waystation by a lake, the water going violet as the day lets go."}
+{"beat":6,"event":"Small and warm-windowed, it has been expecting you all day."}
+{"beat":7,"event":"Travelers here are safe: the road's oldest rule, never once broken."}
+{"beat":8,"event":"At the gate a soft low chime sounds: \"Welcome, traveler. Rest, level one.\"","place":"place/the-violet-hour-the-waystation","present":["character-other/the-violet-hour-alan"],"changes":[{"page":"metric-character-stat/the-violet-hour-alan-rest","make":{"character":"character-other/the-violet-hour-alan","value":1,"minValue":0},"note":"The System marks Rest at level one as Alan reaches the gate"}]}
+{"beat":9,"event":"The System here only notices each small kindness you do yourself, and writes it down."}
+{"beat":10,"event":"You push the gate open; it swings easy on oiled hinges."}
+{"beat":11,"event":"The violet-eyed keeper meets you at the door and asks you not a single question.","arrive":["character-other/the-violet-hour-the-keeper"]}
+{"beat":12,"event":"She steps aside and lets you in where it's warm."}
+{"beat":13,"event":"A fire hums orange, bread waits on the hearthstone, a chair is built for your tiredness."}
+{"beat":14,"event":"You hang your cloak on the peg by the door."}
+{"beat":15,"event":"Chime: \"Letting go, level one.\"","changes":[{"page":"metric-character-stat/the-violet-hour-alan-letting-go","make":{"character":"character-other/the-violet-hour-alan","value":1,"minValue":0},"note":"Hanging up his cloak marks Letting go at level one"}]}
+{"beat":16,"event":"Here setting things down counts as progress; the numbers rise when you stop carrying."}
+{"beat":17,"event":"You sit, and the chair takes your whole weight."}
+{"beat":18,"event":"Your shoulders come down half an inch without being told."}
+{"beat":19,"event":"Chime: \"Rest, level two.\"","changes":[{"page":"metric-character-stat/the-violet-hour-alan-rest","key":"value","from":1,"to":2,"note":"Sitting in the chair raises Rest to level two"}]}
+{"beat":20,"event":"The keeper brings you tea; you watch the steam rise and lean."}
+{"beat":21,"event":"It will stay warm as long as you need; you needn't drink it yet."}
+{"beat":22,"event":"You eat the dense, honest, slightly sweet bread slowly."}
+{"beat":23,"event":"Behind you the keeper moves like water, humming two notes at a time."}
+{"beat":24,"event":"You will never quite catch the tune, and you're not supposed to."}
+{"beat":25,"event":"Chime: \"Ease, level one.\"","changes":[{"page":"metric-character-stat/the-violet-hour-alan-ease","make":{"character":"character-other/the-violet-hour-alan","value":1,"minValue":0},"note":"Tea and bread by the fire mark Ease at level one"}]}
+{"beat":26,"event":"The numbers grow quieter; the System lowers its voice as you settle."}
+{"beat":27,"event":"Through the window the lake has gone fully violet, flat and still."}
+{"beat":28,"event":"The last birds have made their arrangements for the night."}
+{"beat":29,"event":"A moth bumps softly at the lantern glass, patient and unhurried."}
+{"beat":30,"event":"The keeper shows you to your room up shallow stairs."}
+{"beat":31,"event":"The banister is smooth from a hundred years of tired hands."}
+{"beat":32,"event":"The room is small the way good rooms are; the deep bed takes up most of it."}
+{"beat":33,"event":"The heavy blankets press you kindly into the mattress: done now. Done."}
+{"beat":34,"event":"You lie down."}
+{"beat":35,"event":"Chime, softer now, almost underwater: \"Rest, level three.\"","changes":[{"page":"metric-character-stat/the-violet-hour-alan-rest","key":"value","from":2,"to":3,"note":"Lying down in the deep bed raises Rest to level three"}]}
+{"beat":36,"event":"Rest three lets you hear the lake: water against the dock posts. Tap."}
+{"beat":37,"event":"It has said the same thing every night; you needn't listen, only let it be there."}
+{"beat":38,"event":"Your feet are warm now."}
+{"beat":39,"event":"Your hands have nothing to hold; they've earned that."}
+{"beat":40,"event":"Below, the keeper banks the fire; the light under your door fades from orange to nothing.","at":"2026-08-01T22:00:00.000Z"}
+{"beat":41,"event":"She will be there in the morning, and so will the waystation."}
+{"beat":42,"event":"Tonight the road is closed on purpose; the gate is latched, opening only from inside."}
+{"beat":43,"event":"Chime, so quiet now: \"Letting go, level two.\"","changes":[{"page":"metric-character-stat/the-violet-hour-alan-letting-go","key":"value","from":1,"to":2,"note":"Lying still as the house goes dark raises Letting go to level two"}]}
+{"beat":44,"event":"The numbers will keep counting for you while you sleep."}
+{"beat":45,"event":"The place's secret: you gain the most levels in the hours you remember nothing."}
+{"beat":46,"event":"All night the System sits by your bed like a small patient lamp, marking things down."}
+{"beat":47,"event":"Breath slower, shoulders loose, day released: level, level."}
+{"beat":48,"event":"By morning you'll be richer and won't know why."}
+{"beat":49,"event":"The water touches the dock post. Tap."}
+{"beat":50,"event":"The moth has settled somewhere, wings folded."}
+{"beat":51,"event":"The keeper's two-note tune goes on under the floor, or it's the house settling."}
+{"beat":52,"event":"You're warm and safe in the bed by the violet lake; nothing is coming, nothing owed."}
+{"beat":53,"event":"The lake goes on saying its one soft thing. Tap."}
+{"beat":54,"event":"\"Sleep now. I've got the lamp.\""}
