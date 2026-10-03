@@ -62,4 +62,3 @@
 {"beat":62,"event":"Her fingers brush yours handing it over; she says, \"Room 1,\" and goes.","leave":["character-other/hollowmere-yusra"]}
 {"beat":63,"event":"In bed, Lin's page propped on the desk, you trace the sigil in the dark until your eyes close.","at":"2026-09-22T21:30:00.000Z","leave":["character-other/hollowmere-bea","character-other/hollowmere-lin"],"pictured":[{"cover":"image/image-0c64735213b65cea","coverAfter":"In bed, with the light off, you've propped Lin's page up against","character":"character-player/hollowmere-nala","outfit":"long white cotton nightshirt"}]}
 {"beat":64,"event":"You think of Kit's stricken face at the window, and decide it stays between you and her.","memory":[{"page":"lore/hollowmere-nala","fact":"Nala keeps what she saw of Kit through the Practice Hall window to herself, telling no one.","learns":"character-player/hollowmere-nala"}]}
-{"beat":65,"event":"A day at Hollowmere ends."}
