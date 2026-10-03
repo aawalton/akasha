@@ -236,5 +236,29 @@ export const overwhereIvMillbrookAdventurersHall2 = {
       fact: "On the night of day 8 Wren and Orla watch Hobb's, and the Ashby place goes unwatched.",
       knowers: ["lore-disclosure/game-master", "character-other/overwhere-iv-ilsa-crane"],
     },
+    {
+      fact: "Ilsa pays 5 silver for each of the two strike hobgoblins, to Nala, on their heads or ears.",
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iv-ilsa-crane"],
+    },
+    {
+      fact: "Ilsa pays Nala the 3 silver still owed for her watch at Tull's on the seventh night.",
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iv-ilsa-crane"],
+    },
+    {
+      fact: "For Grakk's strike broken and Tull's farm saved, Ilsa adds a gold to Nala from the hall's purse.",
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iv-ilsa-crane"],
+    },
+    {
+      fact: "The Four are paid their night's watch, 3 silver each, and Ilsa notes their stand at Tull's.",
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iv-ilsa-crane"],
+    },
+    {
+      fact: "The silver letter goes east with the morning carter; a silver tag comes back in some ten days.",
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iv-ilsa-crane"],
+    },
+    {
+      fact: "Ilsa counts the strike broken as a major job, like a camp cleared, and writes Nala's silver letter.",
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iv-ilsa-crane"],
+    },
   ],
 } as const satisfies Lore

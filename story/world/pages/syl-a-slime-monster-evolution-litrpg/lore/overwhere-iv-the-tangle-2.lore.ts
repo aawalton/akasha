@@ -304,5 +304,13 @@ export const overwhereIvTheTangle2 = {
         "lore/overwhere-iv-brookside-four",
       ],
     },
+    {
+      fact: "The six goblins dead in the cleft lie two miles in; their ears fetch 1 silver each at the hall.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "His strike broken and two hobgoblins lost, Grakk holds his camp and sends out no raid for a while.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
