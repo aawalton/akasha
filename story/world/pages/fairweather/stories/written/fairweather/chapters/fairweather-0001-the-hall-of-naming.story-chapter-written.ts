@@ -15,6 +15,7 @@ export const fairweather0001TheHallOfNaming = {
   beats: "jsonl",
   mechanicsIssues: "txt",
   mechanicsSentBack: true,
+  issues: "txt",
   lore: [
     "lore/fairweather-cora",
     "lore/fairweather-elsie",
@@ -32,6 +33,7 @@ export const fairweather0001TheHallOfNaming = {
     "character-other/fairweather-tamsin",
     "character-other/fairweather-tilly",
   ],
+  reviewedBy: ["story-reviewer/style"],
   recordedBy: [
     "story-recorder/inventory",
     "story-recorder/plan",
