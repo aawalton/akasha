@@ -6,5 +6,6 @@ export const hollowmereLin = {
   slug: "hollowmere-lin",
   title: "Lin",
   story: "story-written/hollowmere",
+  place: "place/hollowmere-village",
   cover: "image/image-367a6ad39cc5a626",
 } as const satisfies CharacterOther
