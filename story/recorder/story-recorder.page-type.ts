@@ -33,6 +33,10 @@ export const storyRecorder = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A story recorder runs at the step it names, after the prose where it names none.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "One fresh agent runs each story recorder on a turn.",
     },
     {

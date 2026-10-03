@@ -2,6 +2,7 @@ import { reviewer as reviewerRole } from "akasha/agent/role/pages/reviewer.role.
 import { storyRecorder as storyRecorderRole } from "akasha/agent/role/pages/story-recorder.role.ts"
 import { whyOf } from "akasha/command/modules/fault-saying/fault-saying.module.code.ts"
 import {
+  mechanicsPrompt,
   type Prompting,
   type Recorder,
   type Reviewer,
@@ -28,20 +29,26 @@ export type Context = {
   readonly prompting: Prompting
 }
 
-function recorderStarting(recorder: string, persona: string, at: Context): Starting | string {
+function recorderStarting(
+  recorder: string,
+  persona: string,
+  at: Context,
+  mechanics: boolean
+): Starting | string {
   const found = at.recorders.find((one) => one.slug === recorder)
   if (found === undefined) return `\`${recorder}\` is no story recorder page`
   const flex = flexOf(
     at.recorders.map((one) => one.slug),
     found.slug
   )
-  const prompt = recorderPrompt(at.prompting, found)
+  const prompt = (mechanics ? mechanicsPrompt : recorderPrompt)(at.prompting, found)
   return { persona, role: storyRecorderRole.slug, game: at.game, flex, prompt }
 }
 
 function startingOf(start: Start, persona: string, over: Context): Starting | string {
   const at = { ...over, prompting: { ...over.prompting, master: over.story?.master ?? null } }
-  if (start.kind === "recorder") return recorderStarting(start.recorder, persona, at)
+  if (start.kind === "recorder") return recorderStarting(start.recorder, persona, at, false)
+  if (start.kind === "mechanics") return recorderStarting(start.recorder, persona, at, true)
   const found = at.reviewers.find((one) => one.slug === start.reviewer)
   if (found === undefined) return `\`${start.reviewer}\` is no story reviewer page`
   const flex = flexOf(

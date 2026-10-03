@@ -18,7 +18,20 @@ export const turnAdvancing = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A game master's advance goes to writer.",
+      statement: "A game master's advance goes to mechanics, or to writer with no mechanics seat.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A game master's advance clears who recorded the turn, so every recorder runs again.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The writer's advance on a turn its mechanics never ran on goes to mechanics.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Only the recorders run after the prose are needed to finish a turn at recorders.",
     },
     {
       decisionKind: "decision-kind/departure",

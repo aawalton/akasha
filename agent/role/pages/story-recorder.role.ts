@@ -25,10 +25,11 @@ export const storyRecorder = {
       act: "Draft every edit, and land nothing yourself.",
       warrant: "A recorder landing alone shows the reader a page whose memories are half written.",
       aids: [
-        "Tell with `akasha story tell --draft`, and settle with `akasha story settle --draft`.",
+        "Tell with `akasha story tell --draft`.",
         "Your own advance lands your edits.",
         "Hand in your drafts with `akasha story turn advance --turn <turn> --recorder <your recorder slug>`.",
         "A render lands the image page it makes, and that page is no edit of yours.",
+        "At mechanics, draft nothing: hand in your changes at `--changes-file` and issues at `--issues-file`.",
       ],
     },
     {

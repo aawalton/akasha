@@ -28,6 +28,7 @@ import {
 import { slugOf } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 import {
   bareOf,
+  MECHANICS,
   RECORDERS,
   REVIEWERS,
   stepIn,
@@ -208,13 +209,13 @@ export function progressOf(value: Readonly<Record<string, unknown>>, kind: Kind)
   return { step, done }
 }
 
-function stepFor(kind: Kind): TurnStep {
-  return kind === "reviewer" ? REVIEWERS : RECORDERS
+function stepsFor(kind: Kind): readonly TurnStep[] {
+  return kind === "reviewer" ? [REVIEWERS] : [MECHANICS, RECORDERS]
 }
 
-function refusal(heard: Heard): string {
+function refusal(heard: Heard, step: TurnStep): string {
   return [
-    `${HOOK}: \`${heard.job.address}\` is still at ${stepFor(heard.job.kind)}, waiting on your advance as \`${heard.job.doer}\`.`,
+    `${HOOK}: \`${heard.job.address}\` is still at ${step}, waiting on your advance as \`${heard.job.doer}\`.`,
     "Do not end your turn in words. Keep making tool calls until this lands:",
     "",
     `  akasha story turn advance ${heard.job.line}`,
@@ -224,8 +225,8 @@ function refusal(heard: Heard): string {
 }
 
 export function answerOver(heard: Heard | null, progress: Progress | null): Answer {
-  if (heard === null || progress === null) return LET_THROUGH
-  if (progress.step !== stepFor(heard.job.kind)) return LET_THROUGH
+  if (heard === null || progress === null || progress.step === null) return LET_THROUGH
+  if (!stepsFor(heard.job.kind).includes(progress.step)) return LET_THROUGH
   if (progress.done.includes(heard.job.doer)) return LET_THROUGH
   if (heard.waiting) return LET_THROUGH
   if (heard.refusals >= MOST_REFUSALS) {
@@ -233,7 +234,7 @@ export function answerOver(heard: Heard | null, progress: Progress | null): Answ
       `${HOOK}: \`${heard.job.address}\` was refused ${heard.refusals} stops, so this one passes`
     )
   }
-  return refusing(refusal(heard))
+  return refusing(refusal(heard, progress.step))
 }
 
 const JUDGED_ROLES: readonly string[] = [reviewerRole.slug, recorderRole.slug]

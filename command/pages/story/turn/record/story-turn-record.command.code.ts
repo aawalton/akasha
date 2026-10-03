@@ -17,8 +17,8 @@ import {
   told,
 } from "akasha/command/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
-import { heldOf } from "akasha/command/pages/story/turn/advance/story-turn-advance.command.code.ts"
 import { storyTurnAdvance } from "akasha/command/pages/story/turn/advance/story-turn-advance.command.ts"
+import { heldOf } from "akasha/command/pages/story/turn/modules/turn-holding/turn-holding.module.code.ts"
 import {
   REACHED,
   type Reach,
@@ -31,6 +31,7 @@ import {
 import { storyTurnRecord as page } from "akasha/command/pages/story/turn/record/story-turn-record.command.ts"
 import {
   bareOf,
+  MECHANICS,
   PLAYER,
   RECORDERS,
   type Start,
@@ -122,7 +123,8 @@ async function heldOn(
       written: reach.writtenOn(given.root, turn),
     },
   }
-  const starts = recorders.map((one): Start => ({ kind: "recorder", recorder: one.slug }))
+  const running = recorders.filter((one) => one.step !== MECHANICS)
+  const starts = running.map((one): Start => ({ kind: "recorder", recorder: one.slug }))
   const after: Told = { report: [`${slug}\t${PLAYER}\t${RECORDERS}`], faults: [] }
   await seatsStarted(reach, at, starts, done, after)
   if (after.faults.length === 0) return told(after.report)

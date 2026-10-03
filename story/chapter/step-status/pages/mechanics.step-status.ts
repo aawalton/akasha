@@ -7,4 +7,22 @@ export const mechanics = {
   title: "Mechanics",
   definition:
     "the mechanics recorder's move, working out what each beat changes in numbers and items",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "One fresh agent runs for each story recorder whose step is mechanics.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Each hands in its changes and its issues, and drafts no edit.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A turn with issues goes back to game-master once every seat has handed in.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A turn with none goes to writer, or on past it where its prose is written.",
+    },
+  ],
 } as const satisfies StepStatus

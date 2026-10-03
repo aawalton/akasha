@@ -27,7 +27,7 @@ import {
   countedLines,
 } from "akasha/command/pages/story/modules/settle-asking/settle-asking.module.code.ts"
 import { outcomesAt } from "akasha/command/pages/story/settle/story-settle.command.code.ts"
-import { heldOf } from "akasha/command/pages/story/turn/advance/story-turn-advance.command.code.ts"
+import { heldOf } from "akasha/command/pages/story/turn/modules/turn-holding/turn-holding.module.code.ts"
 import {
   noticesSent,
   REWOUND,

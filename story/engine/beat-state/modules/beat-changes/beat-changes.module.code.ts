@@ -205,6 +205,13 @@ export function cachedOf(
   }))
 }
 
+export function mergedOf(
+  had: readonly BeatChange[],
+  more: readonly BeatChange[]
+): readonly BeatChange[] {
+  return [...had, ...more].toSorted((one, other) => one.beat - other.beat)
+}
+
 export function linesOf(changes: readonly BeatChange[]): string {
   return changes.map((one) => `${JSON.stringify(one)}\n`).join("")
 }

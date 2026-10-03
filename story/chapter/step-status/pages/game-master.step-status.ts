@@ -9,11 +9,16 @@ export const gameMaster = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "The game master advances every turn to writer.",
+      statement:
+        "The game master advances a turn to mechanics, or to writer with no mechanics seat.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A turn back from the reviewers has its beats mended here.",
+      statement: "A turn back from mechanics or the reviewers has its beats mended here.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The game master's advance starts the mechanics again from nothing.",
     },
   ],
 } as const satisfies StepStatus

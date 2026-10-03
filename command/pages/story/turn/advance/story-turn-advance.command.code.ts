@@ -5,7 +5,7 @@ import {
   type Landing,
   runMechanicalChange,
 } from "akasha/change/runner/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
-import { stringsIn } from "akasha/code/type/narrowing/modules/strings-in/strings-in.module.code.ts"
+
 import {
   answeredWith,
   answering,
@@ -20,6 +20,13 @@ import {
 import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
 import { repointed } from "akasha/command/modules/edits-repointing/edits-repointing.module.code.ts"
 import { lengthRefused } from "akasha/command/pages/story/turn/advance/modules/chapter-length/chapter-length.module.code.ts"
+import {
+  type Changing,
+  cacheNamed,
+  changesChecked,
+  changesHeld,
+  changesIndexed,
+} from "akasha/command/pages/story/turn/advance/modules/turn-changes/turn-changes.module.code.ts"
 import {
   type Crossing,
   crossedIndexed,
@@ -43,6 +50,7 @@ import {
   timeCheckIndexed,
   untimedRefused,
 } from "akasha/command/pages/story/turn/advance/modules/turn-timing/turn-timing.module.code.ts"
+import { heldOf } from "akasha/command/pages/story/turn/modules/turn-holding/turn-holding.module.code.ts"
 import { liftedFrom } from "akasha/command/pages/story/turn/modules/turn-keeping/turn-keeping.module.code.ts"
 import {
   noticesSent,
@@ -74,10 +82,10 @@ import {
 import {
   bareOf,
   type Caller,
-  CHAPTER,
   GAME_MASTER,
   type Held,
-  stepIn,
+  MECHANICS,
+  type Moved,
   type TurnStep,
   WORLD_BUILDER,
 } from "akasha/story/world/stories/played/turns/modules/turn-lifecycle/turn-lifecycle.module.code.ts"
@@ -85,23 +93,9 @@ import { storyTurnPlayed } from "akasha/story/world/stories/played/turns/story-t
 import { storyChapterWritten } from "akasha/story/world/stories/written/chapters/story-chapter-written.page-type.ts"
 import { storyWritten } from "akasha/story/world/stories/written/story-written.page-type.ts"
 
-const COLLECTIONS = "partOfCollections"
-
-const STATUS = "stepStatus"
-
-const LORE = "lore"
-
-const ISSUES = "issues"
-
-const REVIEWED_BY = "reviewedBy"
-
-const RECORDED_BY = "recordedBy"
-
 const PROSE = "prose"
 
-const STORY = "story"
-
-const OWN_LENGTH = "ownLength"
+const CHANGES = "beatChanges"
 
 const PARTED = "/"
 
@@ -134,27 +128,11 @@ function phaseTimed(root: string, ended: Ended, agentId: string | null): undefin
   return undefined
 }
 
-const WRITTEN_OPENING = `${storyWritten.slug}${PARTED}`
-
-const OPENINGS = [`${storyPlayed.slug}${PARTED}`, WRITTEN_OPENING]
-
-export function heldOf(turn: Turn): Held | { readonly refused: string } {
-  const of = turn.value[STORY]
-  const named = [...stringsIn(turn.value[COLLECTIONS]), ...(typeof of === "string" ? [of] : [])]
-  const story = named.find((one) => OPENINGS.some((opening) => one.startsWith(opening)))
-  if (story === undefined) return { refused: `\`${turn.at}\` is part of no played story` }
-  const status = stepIn(turn.value[STATUS])
-  if (status === null) return { refused: `\`${turn.at}\` states no step status` }
-  return {
-    game: bareOf(story),
-    ...(story.startsWith(WRITTEN_OPENING) ? { noun: CHAPTER } : {}),
-    status,
-    lore: stringsIn(turn.value[LORE]),
-    issues: stringsIn(turn.value[ISSUES]),
-    reviewedBy: stringsIn(turn.value[REVIEWED_BY]).map(bareOf),
-    recordedBy: stringsIn(turn.value[RECORDED_BY]).map(bareOf),
-    written: turn.value[PROSE] !== undefined && turn.value[OWN_LENGTH] !== 0,
-  }
+function bodiesOf(said: Moved): { readonly bodies?: { readonly [key: string]: string } } {
+  const bodies: { [key: string]: string } = {}
+  if (said.prose !== null) bodies[PROSE] = said.prose
+  if (said.changes !== null) bodies[CHANGES] = said.changes
+  return Object.keys(bodies).length === 0 ? {} : { bodies }
 }
 
 function stepAt(reach: Reach, root: string, read: Taken, slug: string): Turn | null {
@@ -181,6 +159,7 @@ type Reaching = Reach & {
   readonly admittedOf: Admitting
   readonly crossedOf: Crossing
   readonly scenesOf: Scening
+  readonly changing: Changing
 }
 
 function crossedOn(reach: Reaching, root: string, read: Taken, held: Held, turn: Turn): string {
@@ -239,18 +218,23 @@ async function heldOn(
 ): Promise<Answer> {
   const turn = stepAt(reach, given.root, read, slug)
   if (turn === null) return refused(unplaced(read), DATA)
-  const held = heldOf(turn)
-  if ("refused" in held) return refused(held.refused, DATA)
+  const stated = heldOf(turn)
+  if ("refused" in stated) return refused(stated.refused, DATA)
+  const held = { ...stated, changes: changesHeld(turn, (path) => reach.textIn(given.root, path)) }
   const seat = reach.seatOf(given.root, given.agentId)
   const caller: Caller = seat ?? { role: null, game: null }
   const reviewers = reach.reviewersIn(given.root)
   const recorders = reach.recordersIn(given.root)
   const slugs = reviewers.map((one) => one.slug)
   const recorded = recorders.map((one) => one.slug)
+  const mechanics = recorders.filter((one) => one.step === MECHANICS).map((one) => one.slug)
   const cast = reach.castOf(given.root, held.game)
   const admitted = reach.admittedOf(given.root)
-  const said = advanced(held, caller, read.handed, slugs, recorded, cast, admitted)
+  const said = advanced(held, caller, read.handed, slugs, recorded, cast, admitted, mechanics)
   if ("refused" in said) return refused(said.refused, DATA)
+  const reading = reach.changing(given.root)
+  const unchanged = changesChecked(reading, held, read.handed)
+  if (unchanged !== null) return refused(unchanged, DATA)
   const scened = scenedOf(reach.scenesOf, given.root, held, turn, read.handed)
   if ("refused" in scened) return refused(scened.refused, DATA)
   const timedTurn = { ...turn, value: { ...turn.value, ...scened.values } }
@@ -288,11 +272,14 @@ async function heldOn(
       ...titled,
       ...inPlay.values,
     },
-    ...(said.prose === null ? {} : { bodies: { prose: said.prose } }),
+    ...bodiesOf(said),
   }
   const folded = reach.fold(given.root, naming)
   if ("refused" in folded) return back([folded.refused])
-  const cached = cachedOf(reach.fold, given.root, scened)
+  const named = cacheNamed(reading, held, said.status)
+  if ("refused" in named) return back([named.refused])
+  const namings = [...scened.namings, ...named]
+  const cached = cachedOf(reach.fold, given.root, { values: {}, namings })
   if ("refused" in cached) return back([cached.refused])
   const renamed = renamedOf(read, slug, held.game)
   const renaming = renamed === null ? [] : [{ at: RENAME, given: { at: turn.at, to: renamed } }]
@@ -363,7 +350,8 @@ export async function storyTurnAdvance(
   casting: Casting = castIndexed,
   admitting: Admitting = admittedIndexed,
   crossing: Crossing = crossedIndexed,
-  scening: Scening = scenesIndexed
+  scening: Scening = scenesIndexed,
+  changing: Changing = changesIndexed
 ): Promise<Answer> {
   const reaching: Reaching = {
     ...reach,
@@ -372,6 +360,7 @@ export async function storyTurnAdvance(
     admittedOf: admitting,
     crossedOf: crossing,
     scenesOf: scening,
+    changing,
   }
   return await answering(
     async (done) => await advancedOn(done, argv, given, landing, reaching, timed)

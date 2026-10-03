@@ -84,9 +84,10 @@ export function advanced(
   reviewers: readonly string[],
   recorders: readonly string[] = RECORDING,
   cast: readonly Character[] = [],
-  admitted: Admitted = ADMITTED
+  admitted: Admitted = ADMITTED,
+  mechanics: readonly string[] = []
 ): Advanced {
-  return advancedOver(held, caller, handed, reviewers, recorders, cast, admitted)
+  return advancedOver(held, caller, handed, reviewers, recorders, cast, admitted, mechanics)
 }
 
 export function movedOf(said: Advanced): Moved {

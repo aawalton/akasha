@@ -5,5 +5,6 @@ export const mechanics = {
   type: "page-type/story-recorder",
   slug: "mechanics",
   name: "Mechanics",
+  step: "step-status/mechanics",
   instructions: "md",
 } as const satisfies StoryRecorder

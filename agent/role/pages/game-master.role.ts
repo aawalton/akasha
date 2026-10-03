@@ -45,9 +45,10 @@ export const gameMaster = {
     {
       directiveKind: "directive-kind/rule",
       name: "Mend The Beats",
-      act: "Answer each issue on a turn or chapter the reviewers send back by changing the beats.",
-      warrant: "It goes to the writer next, so an issue left unanswered reaches the prose.",
+      act: "Answer each issue the mechanics step or the reviewers send back by changing the beats.",
+      warrant: "It goes on to the writer, so an issue left unanswered reaches the prose.",
       aids: [
+        "The mechanics step's issues are the turn's `mechanicsIssues`; the reviewers' are its `issues`.",
         "Leave the beat as it is where the issue is wrong.",
         "An issue only about the prose leaves the beats as they are and goes on to the writer.",
         "Send an issue on a description to the world builder, and advance once it is landed.",
@@ -206,19 +207,14 @@ export const gameMaster = {
     },
     {
       directiveKind: "directive-kind/rule",
-      name: "Current Sheet",
-      act: "Write every number a turn changed onto the page keeping it, before you advance the turn.",
+      name: "Numbers To Mechanics",
+      act: "Write no number or item a turn changes onto a page; the mechanics step works each one out.",
       warrant:
-        "His sheet is drawn from those pages alone, so a number left unwritten shows him a stale sheet.",
+        "The mechanics step works every number out from the beats, so a number you also write counts twice.",
       aids: [
-        "Leave each number a check you did not settle changes, as growth does, to the mechanics recorder.",
-        "A counter two seats write counts one deed twice.",
-        "A metric a turn moved, even back, takes its end value and a history line of the turn and that value.",
-        "Write the new value with the `change-page-page-property` change, the number bare.",
-        "Add a history line with the `append-lines` change; a history is never written over.",
-        "A skill the turn advanced takes its new rank, level and demonstrations on its holding page.",
-        "Define no mechanic; ask the world builder for one the turn needs, and hold only what is defined.",
-        "A page for his character the prose has not shown him states `unrevealed: true` until it does.",
+        "A roll deciding whether an action succeeds is still yours to settle, since it shapes the beats.",
+        "Beat what happens; the mechanics step turns it into numbers and items.",
+        "Define no mechanic; ask the world builder for one the turn needs.",
       ],
     },
     {

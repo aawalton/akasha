@@ -5,5 +5,6 @@ export const inventory = {
   type: "page-type/story-recorder",
   slug: "inventory",
   name: "Inventory",
+  step: "step-status/mechanics",
   instructions: "md",
 } as const satisfies StoryRecorder

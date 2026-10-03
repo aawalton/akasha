@@ -16,6 +16,7 @@ export const storyTurnAdvance = {
     "module/turn-crossed",
     "module/chapter-length",
     "module/turn-scenes",
+    "module/turn-changes",
   ],
   decisions: [
     {
@@ -54,7 +55,19 @@ export const storyTurnAdvance = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A turn moving into recorders starts one fresh seat for each story recorder.",
+      statement: "A turn moving into recorders starts a fresh seat for each recorder run there.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A turn moving into mechanics starts a fresh seat for each recorder run there.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A mechanics seat's changes are checked against the pages before they land.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The move to player writes the turn's changes onto their pages in its landing.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -169,6 +182,7 @@ export const storyTurnAdvance = {
     { argument: "argument/prose-file" },
     { argument: "argument/character", repeats: true },
     { argument: "argument/recorder" },
+    { argument: "argument/changes-file" },
     { argument: "argument/title" },
   ],
 } as const satisfies Command

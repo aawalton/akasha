@@ -1,3 +1,4 @@
+import { changesFile } from "akasha/command/argument/pages/changes-file.argument.ts"
 import { issuesFile } from "akasha/command/argument/pages/issues-file.argument.ts"
 import { playedTurn } from "akasha/command/argument/pages/played-turn.argument.ts"
 import { recorder as recorderArgument } from "akasha/command/argument/pages/recorder.argument.ts"
@@ -9,6 +10,7 @@ export type Reviewer = {
   readonly name: string
   readonly at: string
   readonly instructionsAt: string
+  readonly step?: string | null
 }
 
 export type Recorder = {
@@ -16,6 +18,7 @@ export type Recorder = {
   readonly name: string
   readonly at: string
   readonly instructionsAt: string
+  readonly step?: string | null
 }
 
 export type Prompting = {
@@ -94,6 +97,23 @@ export function reviewerPrompt(asked: Prompting, reviewer: Reviewer): string {
     `${advancing(asked)} ${reviewerArgument.said} ${reviewer.slug} ${issuesFile.said} ${PATH}`,
     "",
     `Where you found no issue, leave out \`${issuesFile.said}\`. ${ENDING}`,
+    ...stuckSaid(asked.master),
+  ].join("\n")
+}
+
+export function mechanicsPrompt(asked: Prompting, recorder: Recorder): string {
+  const noun = asked.noun ?? "turn"
+  return [
+    `You are the ${recorder.name} story recorder at the mechanics step of ${asked.title}, working out what each beat of one ${noun} changes in numbers and items.`,
+    "",
+    `The ${noun} is \`${asked.turnAt}\`, its beats on it. Your instructions are \`${recorder.instructionsAt}\`, beside the story recorder page \`${recorder.at}\`.`,
+    ...writtenSaid(asked.written, noun),
+    "",
+    `Read your instructions, then the ${noun} and its beats, and do what the instructions say. Draft no edit: write your changes to a file, one json change to a line, and each beat that cannot work to an issues file, one issue to a line. Then advance the ${noun} once:`,
+    "",
+    `${advancing(asked)} ${recorderArgument.said} ${recorder.slug} ${changesFile.said} ${PATH} ${issuesFile.said} ${PATH}`,
+    "",
+    `Leave out \`${changesFile.said}\` where the beats change nothing, and \`${issuesFile.said}\` where every beat can work. ${ENDING}`,
     ...stuckSaid(asked.master),
   ].join("\n")
 }

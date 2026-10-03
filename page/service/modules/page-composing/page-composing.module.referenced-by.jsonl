@@ -32,6 +32,7 @@
 {"propertySlug":"import","fileName":"page-composing.module.code.ts","path":"command/pages/music/type-tracks/music-type-tracks.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-composing.module.code.ts","path":"command/pages/story/chapter-close/story-chapter-close.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-composing.module.code.ts","path":"command/pages/story/join-unread/story-join-unread.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"page-composing.module.code.ts","path":"command/pages/story/turn/advance/modules/turn-changes/turn-changes.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-composing.module.code.ts","path":"command/pages/story/turn/advance/modules/turn-scenes/turn-scenes.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-composing.module.code.ts","path":"command/pages/story/turn/advance/story-turn-advance.command.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-composing.module.code.ts","path":"command/pages/story/turn/advance/story-turn-advance.command.test-fixtures.ts","typed":true,"deferred":false}

@@ -54,6 +54,7 @@ import { addressIn } from "akasha/page/modules/address/page-address.module.code.
 import { besideAt } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
 import { valueAt } from "akasha/page/modules/value/page-value.module.code.ts"
 import {
+  slugAt,
   textAt,
   type Value,
 } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
@@ -249,6 +250,7 @@ function staffIndexed(root: string, type: string, kept: string): readonly Review
       {
         slug,
         name: textAt(one.value, NAME) ?? slug,
+        step: slugAt(one.value, "step"),
         at: one.path,
         instructionsAt: besideAt(one.path, kept, ending) ?? one.path,
       },

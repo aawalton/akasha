@@ -1,7 +1,11 @@
 import { expect, test } from "bun:test"
 import { memory } from "akasha/story/recorder/pages/memory.story-recorder.ts"
 import { continuity } from "akasha/story/reviewer/pages/continuity.story-reviewer.ts"
-import type { Caller } from "akasha/story/world/stories/played/turns/modules/turn-lifecycle/turn-lifecycle.module.code.ts"
+import type {
+  Caller,
+  Handed,
+  Held,
+} from "akasha/story/world/stories/played/turns/modules/turn-lifecycle/turn-lifecycle.module.code.ts"
 import {
   advanced,
   at,
@@ -275,4 +279,49 @@ test("prose naming a character of the story its advance leaves out is refused, t
     expect(said).toContain("character-other/ceri")
     expect(movedOf(advanced(held, WRITER, PROSE, TWO, undefined, cast)).status).toBe("reviewers")
   }
+})
+
+const STEPPED = ["mechanics", "inventory"]
+
+function stepping(held: Held, caller: Caller, handed: Handed) {
+  return advanced(
+    held,
+    caller,
+    handed,
+    TWO,
+    [...STEPPED, memory.slug, CAST],
+    [],
+    undefined,
+    STEPPED
+  )
+}
+
+test("the game master's beats go to mechanics, emptying its last run, and on to the writer", () => {
+  const gain = { beat: 1, page: "metric/xp", key: "value", from: 1, to: 2, note: "+1" }
+  const ran = heldAt("game-master", { recordedBy: STEPPED, changes: [gain] })
+  const said = movedOf(stepping(ran, MASTER, { kind: "beats", beats: ["a"] }))
+  expect([said.status, said.changes, said.values["recordedBy"]]).toEqual([
+    "mechanics",
+    "",
+    undefined,
+  ])
+  expect(said.starts).toEqual(STEPPED.map((recorder) => ({ kind: "mechanics", recorder })))
+  const held = heldAt("mechanics", { beats: 1, recordedBy: ["inventory"] })
+  const on = movedOf(stepping(held, RECORDER, { kind: "record", recorder: "mechanics" }))
+  expect(on.status).toBe("writer")
+})
+
+test("a turn written before its mechanics ran has them after its prose, then goes on", () => {
+  expect(movedOf(stepping(heldAt("writer"), WRITER, PROSE)).status).toBe("mechanics")
+  const held = heldAt("mechanics", { beats: 1, written: true, recordedBy: ["inventory"] })
+  const on = movedOf(stepping(held, RECORDER, { kind: "record", recorder: "mechanics" }))
+  expect(on.status).toBe("reviewers")
+})
+
+test("the after-prose recorders alone finish a turn, and only mechanics takes changes", () => {
+  const done = { recordedBy: [...STEPPED, CAST], reviewedBy: TWO, written: true }
+  const record = { kind: "record", recorder: memory.slug } as const
+  expect(movedOf(stepping(heldAt("recorders", done), RECORDER, record)).status).toBe("player")
+  const late = { ...record, changes: [{ beat: 1, page: "a/b", note: "x", make: {} }] }
+  expect(refusalOf(stepping(heldAt("recorders"), RECORDER, late))).toContain("at mechanics")
 })

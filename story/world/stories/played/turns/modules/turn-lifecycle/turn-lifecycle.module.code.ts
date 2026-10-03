@@ -6,6 +6,7 @@ import { reviewers as reviewersStatus } from "akasha/story/chapter/step-status/p
 import { worldBuilder } from "akasha/story/chapter/step-status/pages/world-builder.step-status.ts"
 import { writer } from "akasha/story/chapter/step-status/pages/writer.step-status.ts"
 import { stepStatus } from "akasha/story/chapter/step-status/step-status.page-type.ts"
+import type { BeatChange } from "akasha/story/engine/beat-state/modules/beat-changes/beat-changes.module.code.ts"
 import type { BeatScene } from "akasha/story/engine/beat-state/modules/beat-replay/beat-replay.module.code.ts"
 
 const TURN_STEPS = [
@@ -59,7 +60,12 @@ export type Handed =
     }
   | { readonly kind: "review"; readonly reviewer: string; readonly issues: readonly string[] }
   | { readonly kind: "prose"; readonly prose: string; readonly characters: readonly string[] }
-  | { readonly kind: "record"; readonly recorder: string }
+  | {
+      readonly kind: "record"
+      readonly recorder: string
+      readonly changes?: readonly BeatChange[]
+      readonly issues?: readonly string[]
+    }
 
 export type Noun = "turn" | "chapter"
 
@@ -76,6 +82,9 @@ export type Held = {
   readonly reviewedBy: readonly string[]
   readonly recordedBy: readonly string[]
   readonly written: boolean
+  readonly beats?: number
+  readonly mechanicsIssues?: readonly string[]
+  readonly changes?: readonly BeatChange[]
 }
 
 export type Caller = { readonly role: string | null; readonly game: string | null }
@@ -83,11 +92,13 @@ export type Caller = { readonly role: string | null; readonly game: string | nul
 export type Start =
   | { readonly kind: "reviewer"; readonly reviewer: string }
   | { readonly kind: "recorder"; readonly recorder: string }
+  | { readonly kind: "mechanics"; readonly recorder: string }
 
 export type Moved = {
   readonly status: TurnStep
   readonly values: Readonly<Record<string, unknown>>
   readonly prose: string | null
+  readonly changes: string | null
   readonly starts: readonly Start[]
   readonly stopsCaller: boolean
   readonly landsKept: boolean

@@ -14,6 +14,7 @@ export const storyTurnPlayed = {
     "module/turn-cast",
     "module/turn-lifecycle",
     "module/turn-lore-handed",
+    "module/turn-mechanics",
     "module/turn-making",
     "module/turn-notice",
     "module/turn-seats",

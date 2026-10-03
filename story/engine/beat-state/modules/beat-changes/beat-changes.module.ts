@@ -39,5 +39,9 @@ export const beatChanges = {
       decisionKind: "decision-kind/departure",
       statement: "Caching applies every change and checks no value it started from.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Two seats' changes merge in beat order, each seat's in the order it handed them.",
+    },
   ],
 } as const satisfies Module

@@ -19,6 +19,7 @@ import {
   GAME_MASTER,
   type Handed,
   type Held,
+  MECHANICS,
   type Moved,
   type Noun,
   PLAYER,
@@ -31,10 +32,11 @@ import {
   WRITER,
 } from "akasha/story/world/stories/played/turns/modules/turn-lifecycle/turn-lifecycle.module.code.ts"
 import { loreRefused } from "akasha/story/world/stories/played/turns/modules/turn-lore-handed/turn-lore-handed.module.code.ts"
-
-const MOST_LINES = 100
-
-const LONGEST_LINE = 100
+import {
+  linesRefused,
+  mechanicked,
+  type Recorded,
+} from "akasha/story/world/stories/played/turns/modules/turn-mechanics/turn-mechanics.module.code.ts"
 
 const STORY_REVIEWER = storyReviewer.slug
 
@@ -42,13 +44,15 @@ const STORY_RECORDER = storyRecorder.slug
 
 const PROSE_HELD = "txt"
 
+const CHANGES_HELD = "jsonl"
+
 const PARTED = "/"
 
 const BREAK = "\n"
 
 type Kind = Handed["kind"]
 
-const ROLE_OF: Readonly<Record<TurnStep, string | null>> = {
+const ROLE_OF: Readonly<{ [step in TurnStep]: string | null }> = {
   "world-builder": worldBuilderRole.slug,
   "game-master": gameMasterRole.slug,
   mechanics: storyRecorderRole.slug,
@@ -58,7 +62,7 @@ const ROLE_OF: Readonly<Record<TurnStep, string | null>> = {
   player: null,
 }
 
-const TAKES: Readonly<Record<TurnStep, Kind | null>> = {
+const TAKES: Readonly<{ [step in TurnStep]: Kind | null }> = {
   "world-builder": "lore",
   "game-master": "beats",
   mechanics: "record",
@@ -68,24 +72,27 @@ const TAKES: Readonly<Record<TurnStep, Kind | null>> = {
   player: null,
 }
 
-const SAID_AS: Readonly<Record<Kind, string>> = {
+const SAID_AS: Readonly<{ [kind in Kind]: string }> = {
   lore: "the lore pages it landed (`--lore`, or none)",
   beats: "the beats (`--beats-file`)",
   review: "one reviewer's issues (`--reviewer`, with `--issues-file` or none)",
   prose: "the prose (`--prose-file`, with `--character`)",
-  record: "one recorder's drafted edits (`--recorder`)",
+  record:
+    "one recorder's work (`--recorder`, with `--changes-file` and `--issues-file` at mechanics)",
 }
 
-function linesRefused(one: string, lines: readonly string[], noun: Noun): string | null {
-  const what = `${one}s`
-  if (lines.length > MOST_LINES) {
-    return `a ${noun} holds at most ${MOST_LINES} ${what}, and this makes ${lines.length}`
-  }
-  const long = lines.flatMap((line, at) =>
-    line.length > LONGEST_LINE ? [`${one} ${at + 1} runs to ${line.length}`] : []
-  )
-  if (long.length === 0) return null
-  return `each of a ${noun}'s ${what} is at most ${LONGEST_LINE} characters, and ${long.join(", ")}`
+type Staff = {
+  readonly reviewers: readonly string[]
+  readonly recorders: readonly string[]
+  readonly mechanics: readonly string[]
+}
+
+type Moving = {
+  readonly starts?: readonly Start[]
+  readonly stopsCaller?: boolean
+  readonly prose?: string | null
+  readonly changes?: string | null
+  readonly landsKept?: boolean
 }
 
 function unaddressed(what: string, addresses: readonly string[]): string | null {
@@ -117,14 +124,51 @@ function callerRefused(held: Held, caller: Caller): string | null {
 
 function moved(
   status: TurnStep,
-  values: Readonly<Record<string, unknown>>,
-  starts: readonly Start[] = [],
-  stopsCaller = false,
-  prose: string | null = null,
-  landsKept = false
+  values: Readonly<{ [key: string]: unknown }>,
+  moving: Moving = {}
 ): Moved {
-  const stated = { stepStatus: statusOf(status), ...values }
-  return { status, values: stated, prose, starts, stopsCaller, landsKept }
+  return {
+    status,
+    values: { stepStatus: statusOf(status), ...values },
+    prose: moving.prose ?? null,
+    changes: moving.changes ?? null,
+    starts: moving.starts ?? [],
+    stopsCaller: moving.stopsCaller ?? false,
+    landsKept: moving.landsKept ?? false,
+  }
+}
+
+function leftOf(all: readonly string[], done: readonly string[]): readonly string[] {
+  return all.filter((one) => !done.includes(one))
+}
+
+function toRecorders(
+  values: Readonly<{ [key: string]: unknown }>,
+  recorders: readonly string[],
+  moving: Moving
+): Moved {
+  if (recorders.length === 0) return moved(PLAYER, values, moving)
+  const starts = recorders.map((recorder): Start => ({ kind: "recorder", recorder }))
+  return moved(RECORDERS, values, { ...moving, starts })
+}
+
+function afterProse(
+  held: Held,
+  values: Readonly<{ [key: string]: unknown }>,
+  staff: Staff,
+  moving: Moving
+): Moved {
+  const mechanics = leftOf(staff.mechanics, held.recordedBy)
+  if (mechanics.length > 0) {
+    const starts = mechanics.map((recorder): Start => ({ kind: "mechanics", recorder }))
+    return moved(MECHANICS, values, { ...moving, starts })
+  }
+  const reviewing = leftOf(staff.reviewers, held.reviewedBy)
+  if (reviewing.length === 0) {
+    return toRecorders(values, leftOf(staff.recorders, held.recordedBy), moving)
+  }
+  const starts = reviewing.map((reviewer): Start => ({ kind: "reviewer", reviewer }))
+  return moved(REVIEWERS, values, { ...moving, starts })
 }
 
 function fromWorldBuilder(held: Held, lore: readonly string[], admitted: Admitted): Advanced {
@@ -137,33 +181,34 @@ function fromWorldBuilder(held: Held, lore: readonly string[], admitted: Admitte
 function fromGameMaster(
   held: Held,
   beats: readonly string[],
-  scenes: readonly BeatScene[]
+  scenes: readonly BeatScene[],
+  staff: Staff
 ): Advanced {
   if (beats.length === 0)
     return { refused: "a game master's advance hands in beats, and this has none" }
   const wrong = linesRefused("beat", beats, nounOf(held))
   if (wrong !== null) return { refused: wrong }
-  return moved(WRITER, { beats, beatScenes: scenes.length === 0 ? undefined : scenes })
-}
-
-function onward(
-  values: Readonly<Record<string, unknown>>,
-  recorders: readonly string[],
-  stopsCaller: boolean,
-  prose: string | null
-): Moved {
-  if (recorders.length === 0) return moved(PLAYER, values, [], stopsCaller, prose)
-  const starts = recorders.map((recorder): Start => ({ kind: "recorder", recorder }))
-  return moved(RECORDERS, values, starts, stopsCaller, prose)
+  const emptied = (held.changes ?? []).length > 0
+  const values = {
+    beats,
+    beatScenes: scenes.length === 0 ? undefined : scenes,
+    recordedBy: undefined,
+    mechanicsIssues: undefined,
+    ...(emptied ? { beatChanges: CHANGES_HELD } : {}),
+  }
+  const moving = emptied ? { changes: "" } : {}
+  if (staff.mechanics.length === 0) return moved(WRITER, values, moving)
+  const starts = staff.mechanics.map((recorder): Start => ({ kind: "mechanics", recorder }))
+  return moved(MECHANICS, values, { ...moving, starts })
 }
 
 function fromReviewer(
   held: Held,
   reviewer: string,
   found: readonly string[],
-  reviewers: readonly string[],
-  recorders: readonly string[]
+  staff: Staff
 ): Advanced {
+  const reviewers = staff.reviewers
   if (!reviewers.includes(reviewer)) {
     return {
       refused: `\`${reviewer}\` is no story reviewer, and the story reviewers are ${reviewers.join(", ")}`,
@@ -183,20 +228,20 @@ function fromReviewer(
     reviewedBy: reviewedBy.map((one) => `${STORY_REVIEWER}${PARTED}${one}`),
     ...(issues.length === 0 ? {} : { issues }),
   }
+  const stopping = { stopsCaller: true }
   if (!reviewers.every((one) => reviewedBy.includes(one))) {
-    return moved(REVIEWERS, values, [], true)
+    return moved(REVIEWERS, values, stopping)
   }
-  if (issues.length > 0) return moved(GAME_MASTER, values, [], true)
-  if (!held.written) return moved(WRITER, values, [], true)
-  return onward(values, recorders, true, null)
+  if (issues.length > 0) return moved(GAME_MASTER, values, stopping)
+  if (!held.written) return moved(WRITER, values, stopping)
+  return toRecorders(values, leftOf(staff.recorders, held.recordedBy), stopping)
 }
 
 function fromWriter(
   held: Held,
   prose: string,
   characters: readonly string[],
-  reviewers: readonly string[],
-  recorders: readonly string[],
+  staff: Staff,
   cast: readonly Character[],
   admitted: Admitted
 ): Advanced {
@@ -212,30 +257,46 @@ function fromWriter(
     ownLength: wordCount(prose),
     ...(kept.length === 0 ? {} : { characters: kept }),
   }
-  const left = reviewers.filter((one) => !held.reviewedBy.includes(one))
-  if (left.length === 0) return onward(values, recorders, false, written)
-  const starts = left.map((reviewer): Start => ({ kind: "reviewer", reviewer }))
-  return moved(REVIEWERS, values, starts, false, written)
+  return afterProse(held, values, staff, { prose: written })
 }
 
-function fromRecorder(held: Held, recorder: string, recorders: readonly string[]): Advanced {
-  if (!recorders.includes(recorder)) {
+function fromMechanics(held: Held, handed: Recorded, staff: Staff): Advanced {
+  const done = mechanicked(held, handed, staff.mechanics)
+  if ("refused" in done) return done
+  const moving = { stopsCaller: true, changes: done.changes }
+  if (done.next === "mechanics") return moved(MECHANICS, done.values, moving)
+  if (done.next === "game-master") return moved(GAME_MASTER, done.values, moving)
+  if (!held.written) return moved(WRITER, done.values, moving)
+  return afterProse({ ...held, recordedBy: done.recordedBy }, done.values, staff, moving)
+}
+
+function fromRecorder(held: Held, handed: Recorded, staff: Staff): Advanced {
+  const recorder = handed.recorder
+  const mechanics = held.status === MECHANICS
+  const allowed = mechanics ? staff.mechanics : [...staff.recorders, ...staff.mechanics]
+  const step = mechanics ? "at mechanics" : "at recorders"
+  if (!allowed.includes(recorder)) {
     return {
-      refused: `\`${recorder}\` is no story recorder, and the story recorders are ${recorders.join(", ")}`,
+      refused: `\`${recorder}\` is no story recorder ${step}, and those are ${allowed.join(", ")}`,
     }
   }
   const noun = nounOf(held)
   if (held.recordedBy.includes(recorder)) {
     return {
-      refused: `\`${recorder}\` has recorded this ${noun} already, and a ${noun} is recorded once`,
+      refused: `\`${recorder}\` has recorded this ${noun} already, and a ${noun} is recorded once a run`,
     }
+  }
+  if (mechanics) return fromMechanics(held, handed, staff)
+  if ((handed.changes ?? []).length > 0 || (handed.issues ?? []).length > 0) {
+    return { refused: "changes and issues are handed in at mechanics, and this is at recorders" }
   }
   const recordedBy = [...held.recordedBy, recorder]
   const values = { recordedBy: recordedBy.map((one) => `${STORY_RECORDER}${PARTED}${one}`) }
-  if (!recorders.every((one) => recordedBy.includes(one))) {
-    return moved(RECORDERS, values, [], true, null, true)
+  const landing = { stopsCaller: true, landsKept: true }
+  if (!staff.recorders.every((one) => recordedBy.includes(one))) {
+    return moved(RECORDERS, values, landing)
   }
-  return moved(PLAYER, values, [], true, null, true)
+  return moved(PLAYER, values, landing)
 }
 
 export function advanced(
@@ -245,7 +306,8 @@ export function advanced(
   reviewers: readonly string[],
   recorders: readonly string[],
   cast: readonly Character[],
-  admitted: Admitted
+  admitted: Admitted,
+  mechanics: readonly string[] = []
 ): Advanced {
   const refused = callerRefused(held, caller)
   if (refused !== null) return { refused }
@@ -258,11 +320,12 @@ export function advanced(
       refused: `at ${held.status} an advance hands in ${SAID_AS[takes]}, and this hands in ${SAID_AS[handed.kind]}`,
     }
   }
+  const staff = { reviewers, recorders: leftOf(recorders, mechanics), mechanics }
   if (handed.kind === "lore") return fromWorldBuilder(held, handed.lore, admitted)
-  if (handed.kind === "beats") return fromGameMaster(held, handed.beats, handed.scenes ?? [])
-  if (handed.kind === "review") {
-    return fromReviewer(held, handed.reviewer, handed.issues, reviewers, recorders)
+  if (handed.kind === "beats") {
+    return fromGameMaster(held, handed.beats, handed.scenes ?? [], staff)
   }
-  if (handed.kind === "record") return fromRecorder(held, handed.recorder, recorders)
-  return fromWriter(held, handed.prose, handed.characters, reviewers, recorders, cast, admitted)
+  if (handed.kind === "review") return fromReviewer(held, handed.reviewer, handed.issues, staff)
+  if (handed.kind === "record") return fromRecorder(held, handed, staff)
+  return fromWriter(held, handed.prose, handed.characters, staff, cast, admitted)
 }

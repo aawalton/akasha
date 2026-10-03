@@ -1,5 +1,6 @@
 import { takenFor } from "akasha/command/argument/modules/taking/argument-taking.module.code.ts"
 import { beatsFile } from "akasha/command/argument/pages/beats-file.argument.ts"
+import { changesFile } from "akasha/command/argument/pages/changes-file.argument.ts"
 import { character } from "akasha/command/argument/pages/character.argument.ts"
 import { issuesFile } from "akasha/command/argument/pages/issues-file.argument.ts"
 import { playedTurn } from "akasha/command/argument/pages/played-turn.argument.ts"
@@ -12,6 +13,7 @@ import { writtenChapter } from "akasha/command/argument/pages/written-chapter.ar
 import { heldAt } from "akasha/command/modules/filling/command-filling.module.code.ts"
 import { storyTurnAdvance as page } from "akasha/command/pages/story/turn/advance/story-turn-advance.command.ts"
 import { slugOf } from "akasha/page/naming/folding/modules/slug-of/slug-of.module.code.ts"
+import { changesIn } from "akasha/story/engine/beat-state/modules/beat-changes/beat-changes.module.code.ts"
 import { plannedIn } from "akasha/story/engine/beat-state/modules/beat-replay/beat-replay.module.code.ts"
 import {
   type Handed,
@@ -28,6 +30,7 @@ const NAMED = [
   proseFile,
   character,
   recorderArgument,
+  changesFile,
   titleArgument,
 ] as const
 
@@ -91,22 +94,38 @@ type Said = {
   readonly proseFile?: string | undefined
   readonly character: readonly string[]
   readonly recorder?: string | undefined
+  readonly changesFile?: string | undefined
 }
 
 function kindsIn(said: Said): readonly Handed["kind"][] {
   const kinds: Handed["kind"][] = []
+  const recording = said.recorder !== undefined || said.changesFile !== undefined
   if (said.turnLore.length > 0) kinds.push("lore")
   if (said.beatsFile !== undefined) kinds.push("beats")
-  if (said.reviewer !== undefined || said.issuesFile !== undefined) kinds.push("review")
+  if (said.reviewer !== undefined || (said.issuesFile !== undefined && !recording)) {
+    kinds.push("review")
+  }
   if (said.proseFile !== undefined || said.character.length > 0) kinds.push("prose")
-  if (said.recorder !== undefined) kinds.push("record")
+  if (recording) kinds.push("record")
   return kinds
 }
 
-function recordIn(said: Said): Handed | Refusal {
+function linesAt(root: string, flag: string, path: string | undefined) {
+  if (path === undefined) return { lines: [] }
+  const read = heldAt(root, flag, path)
+  return "refused" in read ? read : { lines: linesIn(read.text) }
+}
+
+function recordIn(root: string, said: Said): Handed | Refusal {
   const recorder = said.recorder?.trim() ?? ""
-  if (recorder !== "") return { kind: "record", recorder }
-  return { refused: [`\`${recorderArgument.said}\` names no story recorder`] }
+  if (recorder === "") return { refused: [`\`${recorderArgument.said}\` names no story recorder`] }
+  const changing = linesAt(root, changesFile.said, said.changesFile)
+  if ("refused" in changing) return changing
+  const issuing = linesAt(root, issuesFile.said, said.issuesFile)
+  if ("refused" in issuing) return issuing
+  const changes = changesIn(changing.lines, Number.MAX_SAFE_INTEGER)
+  if ("refused" in changes) return { refused: [changes.refused] }
+  return { kind: "record", recorder, changes, issues: issuing.lines }
 }
 
 function reviewIn(root: string, said: Said): Handed | Refusal {
@@ -146,7 +165,7 @@ function handedFrom(root: string, said: Said): Handed | Refusal {
   const kind = kinds[0] ?? "lore"
   if (kind === "lore") return { kind, lore: said.turnLore }
   if (kind === "review") return reviewIn(root, said)
-  if (kind === "record") return recordIn(said)
+  if (kind === "record") return recordIn(root, said)
   if (kind === "beats" && said.beatsFile !== undefined) {
     const read = heldAt(root, beatsFile.said, said.beatsFile)
     if ("refused" in read) return read

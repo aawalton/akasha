@@ -39,6 +39,11 @@ export const turnPrompting = {
     {
       decisionKind: "decision-kind/departure",
       statement:
+        "A mechanics seat's prompt says to hand in changes and issues as files, drafting none.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
         "A recorder's prompt names every page the game master already wrote the turn onto.",
     },
     {

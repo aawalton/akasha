@@ -1,0 +1,81 @@
+import type { Turn } from "akasha/command/pages/story/turn/modules/turn-reaching/turn-reaching.module.code.ts"
+import { listedAt } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
+import { exportedAs } from "akasha/page/modules/export-name/page-export-name.module.code.ts"
+import { besideAt } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
+import { valueAt } from "akasha/page/modules/value/page-value.module.code.ts"
+import { slugOf } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
+import type { Naming } from "akasha/page/service/modules/page-composing/page-composing.module.code.ts"
+import { beatChanges } from "akasha/story/chapter/properties/beat-changes.file-property.ts"
+import {
+  type BeatChange,
+  cachedOf,
+  changesIn,
+  changesRefused,
+  mergedOf,
+  type Reading,
+} from "akasha/story/engine/beat-state/modules/beat-changes/beat-changes.module.code.ts"
+import { typeOf } from "akasha/story/world/stories/played/turns/modules/turn-cast/turn-cast.module.code.ts"
+import {
+  type Handed,
+  type Held,
+  linesIn,
+  MECHANICS,
+  PLAYER,
+  type TurnStep,
+} from "akasha/story/world/stories/played/turns/modules/turn-lifecycle/turn-lifecycle.module.code.ts"
+
+const CHANGES = exportedAs(beatChanges.propertySlug)
+
+type Refused = { readonly refused: string }
+
+export type Changing = (root: string) => Reading
+
+export function changesHeld(turn: Turn, textOf: (path: string) => string): readonly BeatChange[] {
+  const ending = turn.value[CHANGES]
+  if (typeof ending !== "string") return []
+  const at = besideAt(turn.at, beatChanges.propertySlug, ending)
+  if (at === null) return []
+  try {
+    const read = changesIn(linesIn(textOf(at)), Number.MAX_SAFE_INTEGER)
+    return "refused" in read ? [] : read
+  } catch {
+    return []
+  }
+}
+
+export function changesIndexed(root: string): Reading {
+  const pathOf = (page: string) => listedAt(root, typeOf(page), slugOf(page))[0]?.path ?? null
+  return {
+    exists: (page) => pathOf(page) !== null,
+    valueOf: (page, key) => {
+      const at = pathOf(page)
+      return at === null ? undefined : valueAt(at, root)?.[key]
+    },
+  }
+}
+
+export function changesChecked(reading: Reading, held: Held, handed: Handed): string | null {
+  if (handed.kind !== "record" || held.status !== MECHANICS) return null
+  const more = handed.changes ?? []
+  if (more.length === 0) return null
+  return changesRefused(mergedOf(held.changes ?? [], more), reading)
+}
+
+export function cacheNamed(
+  reading: Reading,
+  held: Held,
+  status: TurnStep
+): readonly Naming[] | Refused {
+  const changes = held.changes ?? []
+  if (status !== PLAYER || changes.length === 0) return []
+  const cached = cachedOf(changes, reading)
+  if ("refused" in cached) return cached
+  return cached.map(
+    (one): Naming => ({
+      pageTypeSlug: typeOf(one.page),
+      slug: slugOf(one.page),
+      merge: !one.made,
+      values: one.values,
+    })
+  )
+}

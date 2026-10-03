@@ -2443,6 +2443,7 @@
 {"propertySlug":"decision-kind","path":"command/pages/story/tell/modules/tell-continuing/tell-continuing.module.ts","id":"01a0f379-63a6-7346-9559-d04cd3c9abec"}
 {"propertySlug":"decision-kind","path":"command/pages/story/tell/story-tell.command.ts","id":"01a0def0-8330-79a7-a268-bf9d923a71cc"}
 {"propertySlug":"decision-kind","path":"command/pages/story/turn/advance/modules/chapter-length/chapter-length.module.ts","id":"01a0febd-463f-7fd8-aa34-10bebf2fab5e"}
+{"propertySlug":"decision-kind","path":"command/pages/story/turn/advance/modules/turn-changes/turn-changes.module.ts","id":"01a10262-bbed-735d-a323-5c1e9b056260"}
 {"propertySlug":"decision-kind","path":"command/pages/story/turn/advance/modules/turn-crossed/turn-crossed.module.ts","id":"01a0f429-82b7-7843-80e6-20c2827c77b5"}
 {"propertySlug":"decision-kind","path":"command/pages/story/turn/advance/modules/turn-described/turn-described.module.ts","id":"01a0e96d-d288-76ac-94d2-21b8dd6a0ec1"}
 {"propertySlug":"decision-kind","path":"command/pages/story/turn/advance/modules/turn-handing/turn-handing.module.ts","id":"01a0e949-667e-7c20-a21e-7af61ed6ae8c"}
@@ -2453,6 +2454,7 @@
 {"propertySlug":"decision-kind","path":"command/pages/story/turn/kept/drop/story-turn-kept-drop.command.ts","id":"01a0ea39-db28-7124-a2ce-64c6a8ac070c"}
 {"propertySlug":"decision-kind","path":"command/pages/story/turn/kept/list/story-turn-kept-list.command.ts","id":"01a0ea39-db29-78af-a3aa-0999fd2a6dde"}
 {"propertySlug":"decision-kind","path":"command/pages/story/turn/modules/turn-commits/turn-commits.module.ts","id":"01a0eb3a-ee7b-7f63-b2b3-11c384af2550"}
+{"propertySlug":"decision-kind","path":"command/pages/story/turn/modules/turn-holding/turn-holding.module.ts","id":"01a10262-bbed-7358-b397-4bb8a771e1a0"}
 {"propertySlug":"decision-kind","path":"command/pages/story/turn/modules/turn-keeping/turn-keeping.module.ts","id":"01a0e3fa-914f-7ad2-99b7-5d6767c07638"}
 {"propertySlug":"decision-kind","path":"command/pages/story/turn/modules/turn-lore-gathered/turn-lore-gathered.module.ts","id":"01a0eae2-98f7-7a1b-b24e-978d3edace1e"}
 {"propertySlug":"decision-kind","path":"command/pages/story/turn/modules/turn-lore-in-play/turn-lore-in-play.module.ts","id":"01a0e96b-42b5-75aa-a0e0-23dc5a700c05"}
@@ -3786,6 +3788,7 @@
 {"propertySlug":"decision-kind","path":"story/chapter/properties/step-recorded-by.multi-relation-property.ts","id":"01a0e058-679f-70f6-baaf-b82f0c8a4690"}
 {"propertySlug":"decision-kind","path":"story/chapter/properties/step-reviewed-by.multi-relation-property.ts","id":"01a0deb0-cf67-7a1e-bb3d-6859e1f25fce"}
 {"propertySlug":"decision-kind","path":"story/chapter/step-status/pages/game-master.step-status.ts","id":"01a0dead-3b10-7234-922d-8dfc80845bcc"}
+{"propertySlug":"decision-kind","path":"story/chapter/step-status/pages/mechanics.step-status.ts","id":"01a1024d-9f93-7d0a-bcf2-c0e594dac5a1"}
 {"propertySlug":"decision-kind","path":"story/chapter/step-status/pages/player.step-status.ts","id":"01a0dead-3b11-793d-b1ad-794e91dbdfaf"}
 {"propertySlug":"decision-kind","path":"story/chapter/step-status/pages/recorders.step-status.ts","id":"01a0e057-cfa0-781d-ab55-d782157bb513"}
 {"propertySlug":"decision-kind","path":"story/chapter/step-status/pages/reviewers.step-status.ts","id":"01a0dead-3b11-722a-b69d-bd1417836650"}
@@ -4120,6 +4123,7 @@
 {"propertySlug":"decision-kind","path":"story/world/stories/played/turns/modules/turn-lifecycle/turn-lifecycle.module.ts","id":"01a0dec2-87a0-7072-b427-5155e34684b0"}
 {"propertySlug":"decision-kind","path":"story/world/stories/played/turns/modules/turn-lore-handed/turn-lore-handed.module.ts","id":"01a0f17a-cd74-7e4b-abcf-ece5c4c8f55f"}
 {"propertySlug":"decision-kind","path":"story/world/stories/played/turns/modules/turn-making/turn-making.module.ts","id":"01a0decc-a86e-79d7-b3b5-327c056ef9a5"}
+{"propertySlug":"decision-kind","path":"story/world/stories/played/turns/modules/turn-mechanics/turn-mechanics.module.ts","id":"01a10262-bbed-72e9-9b48-d878d344e3fe"}
 {"propertySlug":"decision-kind","path":"story/world/stories/played/turns/modules/turn-notice/turn-notice.module.ts","id":"01a0e3ab-3602-7b99-b42d-d5909d6fd17a"}
 {"propertySlug":"decision-kind","path":"story/world/stories/played/turns/modules/turn-seats/turn-seats.module.ts","id":"01a0e30b-7f83-7984-9180-2a2282b3cf3d"}
 {"propertySlug":"decision-kind","path":"story/world/stories/played/turns/properties/cover-after.text-property.ts","id":"01a0fd9f-af7d-7831-acab-f94772b0ab69"}

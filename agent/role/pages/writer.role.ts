@@ -112,6 +112,19 @@ export const writer = {
     },
     {
       directiveKind: "directive-kind/rule",
+      name: "Render The Changes",
+      act: "Render the changes each beat makes as the turn shows them, and name no number the changes lack.",
+      warrant:
+        "Every number is settled before you write, so a number you make up contradicts the sheet.",
+      aids: [
+        "The changes are the file beside the turn named by its `beatChanges`, one json line each.",
+        "Each change names its beat, and its `note` says what changed and to what.",
+        "The pages hold each number as it stood before the turn; the changes say where it ends.",
+        "A change the turn does not show stays off the page.",
+      ],
+    },
+    {
+      directiveKind: "directive-kind/rule",
       name: "Mute System",
       act: "Give the System no voice unless the game declares it has one.",
       warrant:

@@ -14,7 +14,12 @@ export const stepRecordedBy = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A turn is recorded once, so a recorder named here does not run on it again.",
+      statement:
+        "A recorder named here runs on the turn again only after the game master's advance.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The game master's advance clears this list, so every recorder runs on a rerun.",
     },
   ],
   types: "ts",

@@ -25,6 +25,10 @@ export const blockStopBeforeAdvance = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A recorder's job waits at mechanics or at recorders, a reviewer's at reviewers.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A stop is let through where the turn the job names is no page any longer.",
     },
     {
