@@ -172,5 +172,9 @@ export const overwhereIWendlow2 = {
       fact: "Ilse says no focus adds force to a working; a focus buys reach, or holds mana, nothing more.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "A focus lengthens held workings only; loosed beams, slugs and bullets fly no farther for it.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
