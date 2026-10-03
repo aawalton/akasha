@@ -9,8 +9,6 @@ export const theDatingGame = {
   unit: "unit/words",
   externalId: "the-dating-game",
   coordinatorAgent: "mari-game-master-the-dating-game",
-  playerIntent:
-    "He keeps to his routine: he eats when he is hungry, drinks when he is dry, and sleeps indoors at night.",
   panels: [
     "played-panel/player-character",
     "played-panel/scene-cover",
