@@ -8,9 +8,9 @@ export const hollowmere0018TheLongPose = {
   unit: "unit/words",
   title: "The Long Pose",
   story: "story-written/hollowmere",
-  ownLength: 3059,
+  ownLength: 3053,
   prose: "txt",
-  stepStatus: "step-status/writer",
+  stepStatus: "step-status/recorders",
   beats: [
     "Thursday: a hard clear frost; the mere smokes at dawn, and you and Shiv swim the buoy and back.",
     "Shiv asks about the bursar's forms; you tell her you put Bea's name down for emergencies.",
