@@ -4,10 +4,16 @@ export const overwhereIii00081 = {
   id: "01a0ff2d-62cf-7294-9c73-8ac16d5d0eee",
   type: "page-type/story-turn-played",
   slug: "overwhere-iii-00-081",
+  ownLength: 163,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iii"],
   position: 81,
-  stepStatus: "step-status/writer",
+  prose: "txt",
+  characters: [
+    "character-player/overwhere-iii-nala",
+    "character-other/overwhere-iii-mother-sallow",
+  ],
+  stepStatus: "step-status/reviewers",
   action: "I pocket the seed stone and follow the wolf, ready to hit it with my braid",
   beats: [
     "Nala pockets the seed stone and goes after the wolf, her braid ready.",
@@ -25,6 +31,9 @@ export const overwhereIii00081 = {
   lore: [
     "lore/overwhere-iii-corruption-2",
     "lore/overwhere-iii-mother-sallow",
+    "lore/overwhere-iii-nala",
+    "lore/overwhere-iii-nala-2",
+    "lore/overwhere-iii-nala-2-2",
     "place/overwhere-iii-wrenwood",
   ],
   endsAt: "2026-10-08T13:00:00.000Z",
