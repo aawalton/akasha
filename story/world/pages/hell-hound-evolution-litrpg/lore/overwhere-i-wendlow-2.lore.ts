@@ -306,7 +306,7 @@ export const overwhereIWendlow2 = {
     },
     {
       fact: "Nala's night at the Bell and Barrel passes quietly; she wakes rested about 6:00 on day 8.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
     {
       fact: "Mother Sallow warns that a burst bile sac is worthless, and its bile stings skin.",
