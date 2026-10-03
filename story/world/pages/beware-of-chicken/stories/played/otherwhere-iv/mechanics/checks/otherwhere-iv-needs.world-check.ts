@@ -13,7 +13,7 @@ export const otherwhereIvNeeds = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "Needs are settled with no dice, once a turn for each character going without, before telling it.",
+        "The game master settles needs with no dice before telling a turn, for each one going without.",
     },
     {
       decisionKind: "decision-kind/departure",
