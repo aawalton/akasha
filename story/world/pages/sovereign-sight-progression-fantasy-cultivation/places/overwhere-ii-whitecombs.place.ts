@@ -252,7 +252,7 @@ export const overwhereIiWhitecombs = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
-      fact: "With fine work Undertow can part the black from the water: a cupful takes Nala long minutes.",
+      fact: "With fine work Undertow can part the black from the water: a cupful takes Nala a few minutes.",
       knowers: ["lore-disclosure/game-master"],
     },
     {
