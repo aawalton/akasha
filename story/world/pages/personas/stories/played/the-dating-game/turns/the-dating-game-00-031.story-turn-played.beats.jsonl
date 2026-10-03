@@ -3,8 +3,9 @@
 {"beat":3,"event":"\"I mean, I can't complain about spending time in the dark with a kind and beautiful woman.\""}
 {"beat":4,"event":"Grace laughs, low and surprised, at \"already gone\"; the lantern sways with it."}
 {"beat":5,"event":"At \"kind and beautiful\" she doesn't look away or wave it off; she takes it, quietly."}
-{"beat":6,"event":"\"Thank you,\" she says, and means it plainly."}
+{"beat":6,"event":"\"Thank you,\" she says, and means it plainly.","changes":[{"page":"world-relationship/the-dating-game-grace","key":"relationshipPoints","from":12,"to":15,"note":"Closeness scoring: validation, acknowledgment and reassurance 1 each"}],"memory":[{"page":"lore/the-dating-game-alan","fact":"Alan told Grace she is kind and beautiful, and she thanked him, meaning it plainly.","shown":true},{"page":"lore/the-dating-game-alan","fact":"Alan told Grace she is kind and beautiful, and she thanked him, meaning it plainly.","learns":"character-player/the-dating-game-alan"},{"page":"lore/the-dating-game-alan","fact":"Alan told Grace she is kind and beautiful, and she thanked him, meaning it plainly.","learns":"character-other/the-dating-game-grace"}]}
 {"beat":7,"event":"\"Then I'll try to be good company for this batch, and the next few after it.\""}
 {"beat":8,"event":"Dusk is deepening over the cemetery; above the pines the evening star is out."}
 {"beat":9,"event":"She turns down the next row, holding the lantern low so its light lies across the path."}
-{"beat":10,"event":"She glances back over her shoulder. \"The next one's welcome to walk with me too.\""}
+{"beat":10,"event":"She glances back over her shoulder. \"The next one's welcome to walk with me too.\"","at":"2026-09-26T19:31:00.000Z","memory":[{"page":"lore/the-dating-game-alan","fact":"Grace offered to be good company for Alan's next few selves, and to walk with them too.","shown":true},{"page":"lore/the-dating-game-alan","fact":"Grace offered to be good company for Alan's next few selves, and to walk with them too.","learns":"character-player/the-dating-game-alan"}]}
+

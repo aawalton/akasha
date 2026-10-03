@@ -2,6 +2,7 @@
 {"beat":2,"event":"He falls in beside her down the row. \"So, what brings you here? It sounds like you do this often?\""}
 {"beat":3,"event":"\"Most evenings,\" Grace says. \"Around this hour.\""}
 {"beat":4,"event":"She walks a few steps in silence, the lantern light sliding over the names on the stones."}
-{"beat":5,"event":"\"I work nights. Hospice. I'm a companion; I sit with people at the end, through the night.\""}
+{"beat":5,"event":"\"I work nights. Hospice. I'm a companion; I sit with people at the end, through the night.\"","changes":[{"page":"world-relationship/the-dating-game-grace","key":"relationshipPoints","from":15,"to":17,"note":"Closeness scoring: acknowledgment and intimacy 1 each"}],"memory":[{"page":"lore/the-dating-game-grace","fact":"Grace works night shifts as a hospice companion, sitting vigil with the dying.","shown":true},{"page":"lore/the-dating-game-grace","fact":"Grace works night shifts as a hospice companion, sitting vigil with the dying.","learns":"character-player/the-dating-game-alan"}]}
 {"beat":6,"event":"She says it simply, the way someone else might say they drive a bus."}
-{"beat":7,"event":"\"This walk is how I get ready. It's quiet here, and a lantern fits right in.\""}
+{"beat":7,"event":"\"This walk is how I get ready. It's quiet here, and a lantern fits right in.\"","at":"2026-09-26T19:33:00.000Z","memory":[{"page":"lore/the-dating-game-grace","fact":"Grace walks the cemetery most evenings to get ready for her night shift.","shown":true},{"page":"lore/the-dating-game-grace","fact":"Grace walks the cemetery most evenings to get ready for her night shift.","learns":"character-player/the-dating-game-alan"}]}
+
