@@ -111,5 +111,9 @@ export const overwhereIiMaudAshby = {
       fact: "Maud rode up the valley after Anselm's letters, to take Nala's measure for herself.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
+    {
+      fact: "Maud warned Nala not to Descend before her heart is refined.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+    },
   ],
 } as const satisfies Lore
