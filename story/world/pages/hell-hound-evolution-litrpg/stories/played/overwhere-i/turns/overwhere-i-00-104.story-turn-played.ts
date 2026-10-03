@@ -7,7 +7,8 @@ export const overwhereI00104 = {
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-i"],
   position: 104,
-  stepStatus: "step-status/world-builder",
+  stepStatus: "step-status/game-master",
   action:
     "“Lets do the ring, I like to keep my hands free. Anything we can do it make it stronger? I have gold to spare, say up to 50 gold investment? What options do you have for me?”",
+  lore: ["lore/overwhere-i-wendlow-2"],
 } as const satisfies StoryTurnPlayed
