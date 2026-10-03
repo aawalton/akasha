@@ -132,5 +132,9 @@ export const overwhereIiiMardaHesk2 = {
       fact: "Marda has never heard of 'the Lantern'; it chills her that the woman named Nala holy.",
       knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-marda-hesk"],
     },
+    {
+      fact: "Marda offers Nala the free room upstairs at the post, so she sleeps behind a door the watch passes.",
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-marda-hesk"],
+    },
   ],
 } as const satisfies Lore
