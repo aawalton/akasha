@@ -1,4 +1,6 @@
 import { expect, test } from "bun:test"
+import { appendLines } from "akasha/change/mechanical/file-content/append-lines/append-lines.change-mechanical-file-content.ts"
+import { changeMechanicalFileContent } from "akasha/change/mechanical/file-content/change-mechanical-file-content.page-type.ts"
 import {
   beatsBodyOf,
   cacheNamed,
@@ -21,6 +23,31 @@ const GAIN = { beat: 1, page: XP, key: "value", from: 120, to: 160, note: "Elsie
 const READING: Reading = {
   exists: (page) => page === XP,
   valueOf: (page, key) => (page === XP && key === "value" ? 120 : undefined),
+  filed: () => null,
+}
+
+const HISTORY_AT = "stories/saga/mechanics/elsie-silver.metric-character-currency.history.jsonl"
+
+const FILED: Reading = {
+  exists: (page) => page === PURSE,
+  valueOf: (page, key) => (page === PURSE && key === "value" ? 134 : undefined),
+  filed: (page, key) =>
+    key !== "history"
+      ? null
+      : {
+          propertySlug: "history",
+          ending: "jsonl",
+          stated: false,
+          at: page === PURSE ? HISTORY_AT : null,
+        },
+}
+
+const LOGGED = {
+  beat: 22,
+  page: PURSE,
+  key: "history",
+  append: { turn: 1, value: 114 },
+  note: "Purse logged",
 }
 
 const TURN = {
@@ -104,14 +131,65 @@ test("a mechanics seat's changes are checked with the changes the turn holds alr
 test("the move to player names each page the changes leave, making a page filed new", () => {
   const made = { beat: 1, page: PURSE, make: { value: 5 }, note: "Elsie opens a purse" }
   const held = heldAt("recorders", { changes: [GAIN, made] })
-  expect(cacheNamed(READING, held, "player")).toEqual([
-    { pageTypeSlug: "metric-character", slug: "elsie-xp", merge: true, values: { value: 160 } },
-    {
-      pageTypeSlug: "metric-character-currency",
-      slug: "elsie-silver",
-      merge: false,
-      values: { value: 5 },
-    },
-  ])
-  expect(cacheNamed(READING, held, "recorders")).toEqual([])
+  expect(cacheNamed(READING, held, "player")).toEqual({
+    namings: [
+      { pageTypeSlug: "metric-character", slug: "elsie-xp", merge: true, values: { value: 160 } },
+      {
+        pageTypeSlug: "metric-character-currency",
+        slug: "elsie-silver",
+        merge: false,
+        values: { value: 5 },
+      },
+    ],
+    appends: [],
+  })
+  expect(cacheNamed(READING, held, "recorders")).toEqual({ namings: [], appends: [] })
+})
+
+test("a change appending to a key held in a file beside its page appends a line to that file", () => {
+  const spent = { beat: 22, page: PURSE, key: "value", from: 134, to: 114, note: "Elsie pays" }
+  const held = heldAt("recorders", { changes: [spent, LOGGED] })
+  expect(cacheNamed(FILED, held, "player")).toEqual({
+    namings: [
+      {
+        pageTypeSlug: "metric-character-currency",
+        slug: "elsie-silver",
+        merge: true,
+        values: { value: 114, history: "jsonl" },
+      },
+    ],
+    appends: [
+      {
+        at: `${changeMechanicalFileContent.slug}/${appendLines.slug}`,
+        given: { at: HISTORY_AT, content: '{"turn":1,"value":114}\n' },
+      },
+    ],
+  })
+  const handed = { kind: "record", recorder: "mechanics", changes: [LOGGED] } as const
+  expect(changesChecked(FILED, heldAt("mechanics"), handed)).toBeNull()
+  const set = { beat: 22, page: PURSE, key: "history", from: null, to: [], note: "Purse set" }
+  const setting = { ...handed, changes: [set] }
+  expect(changesChecked(FILED, heldAt("mechanics"), setting)).toContain("appends a line")
+})
+
+test("a page made with lines for a key held beside it is written with that file", () => {
+  const made = {
+    beat: 1,
+    page: "metric-character-currency/elsie-gold",
+    make: { value: 3, history: [{ turn: 1, value: 3 }] },
+    note: "Elsie opens a gold purse",
+  }
+  const held = heldAt("recorders", { changes: [made] })
+  expect(cacheNamed(FILED, held, "player")).toEqual({
+    namings: [
+      {
+        pageTypeSlug: "metric-character-currency",
+        slug: "elsie-gold",
+        merge: false,
+        values: { value: 3, history: "jsonl" },
+        bodies: { history: '{"turn":1,"value":3}\n' },
+      },
+    ],
+    appends: [],
+  })
 })

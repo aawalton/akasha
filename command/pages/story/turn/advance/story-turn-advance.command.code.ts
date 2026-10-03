@@ -274,12 +274,12 @@ async function heldOn(
   if ("refused" in folded) return back([folded.refused])
   const named = cacheNamed(reading, held, said.status)
   if ("refused" in named) return back([named.refused])
-  const namings = [...scened.namings, ...named]
+  const namings = [...scened.namings, ...named.namings]
   const cached = cachedOf(reach.fold, given.root, { values: {}, namings })
   if ("refused" in cached) return back([cached.refused])
   const renamed = renamedOf(read, slug, held.game)
   const renaming = renamed === null ? [] : [{ at: RENAME, given: { at: turn.at, to: renamed } }]
-  const asking = [...folded, ...cached, ...telling, ...renaming]
+  const asking = [...folded, ...cached, ...named.appends, ...telling, ...renaming]
   const now =
     renamed === null
       ? { slug, at: turn.at }

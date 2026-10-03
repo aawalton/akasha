@@ -42,6 +42,11 @@ export const turnChanges = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "A change's lines for a file beside a page are appended to that file, and the page names its ending.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A move writes its prose and its beats as files beside the turn.",
     },
   ],

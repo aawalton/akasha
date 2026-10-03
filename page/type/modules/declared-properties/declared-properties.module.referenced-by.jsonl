@@ -48,6 +48,7 @@
 {"propertySlug":"import","fileName":"declared-properties.module.code.ts","path":"command/modules/mechanic-defining/mechanic-defining.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"declared-properties.module.code.ts","path":"command/pages/music/import-artist/music-import-artist.command.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"declared-properties.module.code.ts","path":"command/pages/music/next/music-next.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"declared-properties.module.code.ts","path":"command/pages/story/modules/turn-changes/turn-changes.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"declared-properties.module.code.ts","path":"domain/context/warrant/change-taboo-terms/change-taboo-terms.context-warrant.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"declared-properties.module.code.ts","path":"domain/context/warrant/file-property-file/file-property-file.context-warrant.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"declared-properties.module.code.ts","path":"domain/context/warrant/file-property/file-property.context-warrant.code.ts","typed":false,"deferred":false}

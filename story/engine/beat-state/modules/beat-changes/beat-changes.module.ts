@@ -20,6 +20,11 @@ export const beatChanges = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "A change to a key held in a file beside its page appends lines to that file, and never sets it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A change from a value the page does not hold then is refused.",
     },
     {

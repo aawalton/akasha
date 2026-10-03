@@ -60,7 +60,11 @@ function storyOver(pages: typeof PAGES): Story {
     turns: [SECOND, FIRST],
     changesOf: (one) => CHANGES[one.slug] ?? [],
     memoryOf: (one) => MEMORY[one.slug] ?? [],
-    reading: { exists: (page) => page in pages, valueOf: (page, key) => pages[page]?.[key] },
+    reading: {
+      exists: (page) => page in pages,
+      valueOf: (page, key) => pages[page]?.[key],
+      filed: () => null,
+    },
   }
 }
 

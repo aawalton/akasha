@@ -11,15 +11,24 @@ export type BeatChange = {
   readonly make?: Readonly<Record<string, unknown>>
 }
 
+export type Filed = {
+  readonly propertySlug: string
+  readonly ending: string | null
+  readonly stated: boolean
+  readonly at: string | null
+}
+
 export type Reading = {
   readonly exists: (page: string) => boolean
   readonly valueOf: (page: string, key: string) => unknown
+  readonly filed: (page: string, key: string) => Filed | null
 }
 
 export type Cached = {
   readonly page: string
   readonly values: Readonly<Record<string, unknown>>
   readonly made: boolean
+  readonly lines?: Readonly<Record<string, readonly unknown[]>>
 }
 
 type Refused = { readonly refused: string }
@@ -126,6 +135,33 @@ function nowOf(held: Held, reading: Reading, page: string, key: string): unknown
   return reading.valueOf(page, key)
 }
 
+type Lines = Map<string, Map<string, unknown[]>>
+
+function besideRefused(filed: Filed, key: string, page: string, where: string): string | null {
+  if (filed.ending !== null) return null
+  return `${where} writes \`${key}\` of \`${page}\`, held in a file beside the page, and nothing names that file's ending`
+}
+
+function madeRefused(reading: Reading, change: BeatChange, where: string): string | null {
+  for (const [key, value] of Object.entries(change.make ?? {})) {
+    const filed = reading.filed(change.page, key)
+    if (filed === null) continue
+    if (!Array.isArray(value)) {
+      return `${where} makes \`${change.page}\` with \`${key}\`, held in a file beside the page, as no list of lines`
+    }
+    const unnamed = besideRefused(filed, key, change.page, where)
+    if (unnamed !== null) return unnamed
+  }
+  return null
+}
+
+function filedRefused(filed: Filed, change: BeatChange, key: string, where: string) {
+  if (change.append === undefined) {
+    return `${where} sets \`${key}\` of \`${change.page}\`, held in a file beside the page, and a change appends a line to that file rather than sets it`
+  }
+  return besideRefused(filed, key, change.page, where)
+}
+
 function stepRefused(
   held: Held,
   made: Set<string>,
@@ -136,10 +172,13 @@ function stepRefused(
 ): string | null {
   const known = made.has(change.page) || reading.exists(change.page)
   if (change.make !== undefined) {
-    return known ? `${where} makes \`${change.page}\`, and that page is there already` : null
+    if (known) return `${where} makes \`${change.page}\`, and that page is there already`
+    return madeRefused(reading, change, where)
   }
   if (!known) return `${where} changes \`${change.page}\`, and no page is that`
   const key = change.key ?? ""
+  const filed = reading.filed(change.page, key)
+  if (filed !== null) return filedRefused(filed, change, key, where)
   const now = nowOf(held, reading, change.page, key)
   if (change.append !== undefined) {
     return now === undefined || now === null || Array.isArray(now)
@@ -156,15 +195,38 @@ function stepRefused(
   return null
 }
 
-function stepped(held: Held, made: Set<string>, reading: Reading, change: BeatChange) {
+function linesOf(lines: Lines, page: string, key: string): unknown[] {
+  const keyed = lines.get(page) ?? new Map<string, unknown[]>()
+  lines.set(page, keyed)
+  const held = keyed.get(key) ?? []
+  keyed.set(key, held)
+  return held
+}
+
+type Over = {
+  readonly held: Held
+  readonly made: Set<string>
+  readonly lines: Lines
+}
+
+function stepped(over: Over, reading: Reading, change: BeatChange) {
+  const { held, made, lines } = over
   const values = held.get(change.page) ?? new Map<string, unknown>()
   held.set(change.page, values)
   if (change.make !== undefined) {
     made.add(change.page)
-    for (const [key, value] of Object.entries(change.make)) values.set(key, value)
+    for (const [key, value] of Object.entries(change.make)) {
+      if (reading.filed(change.page, key) !== null && Array.isArray(value)) {
+        linesOf(lines, change.page, key).push(...value)
+      } else values.set(key, value)
+    }
     return
   }
   const key = change.key ?? ""
+  if (reading.filed(change.page, key) !== null) {
+    linesOf(lines, change.page, key).push(change.append)
+    return
+  }
   if (change.append === undefined) {
     values.set(key, change.to)
     return
@@ -173,18 +235,19 @@ function stepped(held: Held, made: Set<string>, reading: Reading, change: BeatCh
   values.set(key, [...(Array.isArray(now) ? now : []), change.append])
 }
 
-type Over = { readonly held: Held; readonly made: ReadonlySet<string> } | Refused
-
-function heldOver(changes: readonly BeatChange[], reading: Reading, checking: boolean): Over {
-  const held: Held = new Map()
-  const made = new Set<string>()
+function heldOver(
+  changes: readonly BeatChange[],
+  reading: Reading,
+  checking: boolean
+): Over | Refused {
+  const over: Over = { held: new Map(), made: new Set<string>(), lines: new Map() }
   for (const [index, change] of changes.entries()) {
     const where = `change ${index + 1}, on beat ${change.beat},`
-    const wrong = stepRefused(held, made, reading, change, where, checking)
+    const wrong = stepRefused(over.held, over.made, reading, change, where, checking)
     if (wrong !== null) return { refused: wrong }
-    stepped(held, made, reading, change)
+    stepped(over, reading, change)
   }
-  return { held, made }
+  return over
 }
 
 export function changesRefused(changes: readonly BeatChange[], reading: Reading): string | null {
@@ -198,11 +261,15 @@ export function cachedOf(
 ): readonly Cached[] | Refused {
   const over = heldOver(changes, reading, false)
   if ("refused" in over) return over
-  return [...over.held.entries()].map(([page, values]) => ({
-    page,
-    values: Object.fromEntries(values),
-    made: over.made.has(page),
-  }))
+  return [...over.held.entries()].map(([page, values]) => {
+    const lines = over.lines.get(page)
+    return {
+      page,
+      values: Object.fromEntries(values),
+      made: over.made.has(page),
+      ...(lines === undefined ? {} : { lines: Object.fromEntries(lines) }),
+    }
+  })
 }
 
 export function mergedOf(

@@ -19,6 +19,7 @@ const PAGES: Readonly<Record<string, Readonly<Record<string, unknown>>>> = {
 const READING: Reading = {
   exists: (page) => page in PAGES,
   valueOf: (page, key) => PAGES[page]?.[key],
+  filed: () => null,
 }
 
 function changesOf(records: readonly Record<string, unknown>[], beats = 5): readonly BeatChange[] {
@@ -99,6 +100,35 @@ test("the cache is each page's values once the changes are applied, history appe
       made: false,
     },
   ])
+})
+
+test("a key held in a file beside its page is appended as lines, never set as a value", () => {
+  const filed: Reading = {
+    exists: READING.exists,
+    valueOf: (page, key) => (key === "history" ? "jsonl" : READING.valueOf(page, key)),
+    filed: (_page, key) =>
+      key === "history"
+        ? { propertySlug: "history", ending: "jsonl", stated: true, at: null }
+        : null,
+  }
+  const changes = changesOf([GAIN, LOGGED])
+  expect(changesRefused(changes, filed)).toBeNull()
+  expect(cachedOf(changes, filed)).toEqual([
+    {
+      page: XP,
+      values: { value: 160 },
+      made: false,
+      lines: { history: [{ turn: 4, value: 160 }] },
+    },
+  ])
+  const set = changesOf([{ ...LOGGED, append: undefined, from: "jsonl", to: "txt" }])
+  expect(changesRefused(set, filed)).toContain("held in a file beside the page")
+  const unnamed: Reading = {
+    ...filed,
+    filed: (_page, key) =>
+      key === "history" ? { propertySlug: "history", ending: null, stated: false, at: null } : null,
+  }
+  expect(changesRefused(changes, unnamed)).toContain("nothing names that file's ending")
 })
 
 test("the cache applies a change whose page moved on since, rather than refusing a finished turn", () => {
