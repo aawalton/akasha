@@ -4,13 +4,13 @@ export const overwhereI00103 = {
   id: "01a0ff56-f3d9-72e9-b77f-945d677cc2a6",
   type: "page-type/story-turn-played",
   slug: "overwhere-i-00-103",
-  ownLength: 474,
+  ownLength: 473,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-i"],
   position: 103,
   prose: "txt",
   characters: ["character-player/overwhere-i-nala", "character-other/overwhere-i-ghost-eye"],
-  stepStatus: "step-status/writer",
+  stepStatus: "step-status/recorders",
   action:
     "“Great!” I hand over Ghost Eye’s ears to go with the head, as well as the crew ears and tags, the sallow hythe tin token, and the sealed letter, then go find Ilse for the focus.",
   beats: [
