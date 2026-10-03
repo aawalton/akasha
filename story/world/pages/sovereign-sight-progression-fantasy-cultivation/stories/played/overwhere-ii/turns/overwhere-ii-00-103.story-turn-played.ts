@@ -10,4 +10,5 @@ export const overwhereIi00103 = {
   stepStatus: "step-status/game-master",
   action: "“Food and water, then up to the pool”",
   lore: ["place/overwhere-ii-whitecombs"],
+  endsAt: "2026-10-26T10:00:00.000Z",
 } as const satisfies StoryTurnPlayed
