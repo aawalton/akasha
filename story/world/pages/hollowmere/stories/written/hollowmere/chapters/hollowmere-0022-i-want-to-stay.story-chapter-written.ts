@@ -10,7 +10,7 @@ export const hollowmere0022IWantToStay = {
   story: "story-written/hollowmere",
   ownLength: 2996,
   prose: "txt",
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/recorders",
   beats: [
     "Monday of week four: you wake in 15 again, Bea already up and pulling on running tights.",
     '"Run," she says. "Monday. You\'ve gone soft on swimming." You run the shore with her, twenty minutes.',
@@ -94,5 +94,5 @@ export const hollowmere0022IWantToStay = {
     "character-other/hollowmere-dev",
     "character-other/hollowmere-penhallow",
   ],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
 } as const satisfies StoryChapterWritten
