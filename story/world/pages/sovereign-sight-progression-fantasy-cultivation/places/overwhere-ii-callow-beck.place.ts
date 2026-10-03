@@ -102,7 +102,7 @@ export const overwhereIiCallowBeck = {
     },
     {
       fact: "The beck runs black past the longhouse; Ebba's water is fouled but for one rain barrel.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "A Warped ewe is weaker than a Warped goat, and drops under Undertow's pull as fast.",
