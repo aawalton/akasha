@@ -10,7 +10,7 @@ export const hollowmere0031DrawWell = {
   story: "story-written/hollowmere",
   ownLength: 3565,
   prose: "txt",
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/game-master",
   beats: [
     "Wednesday of week five: a hard bright frost; the quad white, the mere steaming in the low sun.",
     "Bea runs the shore and comes back pink, and eats porridge with her hand on your knee.",
@@ -91,5 +91,5 @@ export const hollowmere0031DrawWell = {
     "character-other/hollowmere-bea",
     "character-other/hollowmere-kit",
   ],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
 } as const satisfies StoryChapterWritten
