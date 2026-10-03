@@ -66,7 +66,7 @@ export const overwhereIiTarrantSmithy = {
     },
     {
       fact: "Hob has cold iron in stock for some twenty forearm-long stakes; the rest needs old iron melted down.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Folk at the Ford would give old cold-iron nails and charms for the stakes, if the Reeve asks.",
