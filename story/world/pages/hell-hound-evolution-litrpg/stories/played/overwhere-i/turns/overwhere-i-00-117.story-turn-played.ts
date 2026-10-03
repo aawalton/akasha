@@ -26,7 +26,7 @@ export const overwhereI00117 = {
     "lore/overwhere-i-wendlow-3",
     "place/overwhere-i-wendlow",
   ],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/scene"],
   recordedBy: [
     "story-recorder/mechanics",
     "story-recorder/inventory",
