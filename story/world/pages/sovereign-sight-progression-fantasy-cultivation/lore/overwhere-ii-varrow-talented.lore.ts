@@ -101,7 +101,7 @@ export const overwhereIiVarrowTalented = {
     },
     {
       fact: "The Lady's rule leaves free the water in the court: frost, puddles, the well, the trough.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "In Nala's first bout, her blunt spear touched Osric clean in the ribs; his maul caught her after.",
