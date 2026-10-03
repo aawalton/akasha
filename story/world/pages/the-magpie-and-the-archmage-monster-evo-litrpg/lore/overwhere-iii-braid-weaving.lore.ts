@@ -70,7 +70,7 @@ export const overwhereIiiBraidWeaving = {
     },
     {
       fact: "Swept across several, the pull strand draws one pull's worth from each, not the pinned double.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
     {
       fact: "A sweeping braid costs both weaves' mana once, however many it strikes.",
