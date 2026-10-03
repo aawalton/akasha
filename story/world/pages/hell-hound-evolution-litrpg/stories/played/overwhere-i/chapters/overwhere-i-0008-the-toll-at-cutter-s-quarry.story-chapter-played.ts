@@ -10,6 +10,7 @@ export const overwhereI0008TheTollAtCutterSQuarry = {
   story: "story-played/overwhere-i",
   ownLength: 5649,
   prose: "txt",
+  beats: "jsonl",
   turnCovers: [
     {
       position: 53,
