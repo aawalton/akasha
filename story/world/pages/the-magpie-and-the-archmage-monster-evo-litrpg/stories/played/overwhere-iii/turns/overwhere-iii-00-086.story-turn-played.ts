@@ -4,6 +4,7 @@ export const overwhereIii00086 = {
   id: "01a0ff7d-9610-745a-b6c7-42894a38b02b",
   type: "page-type/story-turn-played",
   slug: "overwhere-iii-00-086",
+  cover: "image/image-7d2b9f8c2b4d548c",
   ownLength: 177,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iii"],
@@ -45,6 +46,7 @@ export const overwhereIii00086 = {
     "place/overwhere-iii-the-hollow",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/memory", "story-recorder/inventory"],
+  recordedBy: ["story-recorder/memory", "story-recorder/inventory", "story-recorder/picture"],
   endsAt: "2026-10-08T17:30:00.000Z",
+  coverAfter: 'She turns to you. "Where did she go?"',
 } as const satisfies StoryTurnPlayed
