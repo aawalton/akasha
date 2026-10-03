@@ -10,7 +10,7 @@ export const overwhereIv00094 = {
   position: 94,
   prose: "txt",
   characters: ["character-player/overwhere-iv-nala"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/game-master",
   action: "I turn and sprint for the ambush, weaving a bit to dodge slings",
   beats: [
     "Nala turns and sprints down the deer trail for the ford.",
@@ -25,6 +25,9 @@ export const overwhereIv00094 = {
     "Behind her the goblins pour out of the trees, a dozen of them, shrieking, straight for the ford.",
     "In their midst, the hobgoblin with the maul bellows and wades in first.",
   ],
+  issues: [
+    '"a dozen of them" - the hunters are eleven goblins, and the two scouts hang back at the treeline',
+  ],
   lore: [
     "lore/overwhere-iv-brookside-four-2",
     "lore/overwhere-iv-nala",
@@ -33,6 +36,6 @@ export const overwhereIv00094 = {
     "lore/overwhere-iv-the-tangle-2",
     "lore/overwhere-iv-the-tangle-2-2",
   ],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
   endsAt: "2026-10-08T09:05:00.000Z",
 } as const satisfies StoryTurnPlayed
