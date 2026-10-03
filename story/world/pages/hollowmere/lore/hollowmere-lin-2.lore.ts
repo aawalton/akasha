@@ -55,5 +55,35 @@ export const hollowmereLin2 = {
         "character-other/hollowmere-lin",
       ],
     },
+    {
+      fact: "Under Lin's ward essay, alpha minus, Penhallow asked: And when you are ready? Lin held it close.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-lin",
+        "character-other/hollowmere-penhallow",
+      ],
+    },
+    {
+      fact: "Lin told group F a drawing is a focus: it remembers the hand, and the one who sat.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-lin",
+        "character-other/hollowmere-penhallow",
+        "character-other/hollowmere-kit",
+        "character-other/hollowmere-amara",
+        "character-other/hollowmere-priya",
+        "character-other/hollowmere-shiv",
+      ],
+    },
+    {
+      fact: "Lin told Nala she's ready for the other thing, nearly; Nala said Soon, and Lin went pink.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-lin",
+      ],
+    },
   ],
 } as const satisfies Lore

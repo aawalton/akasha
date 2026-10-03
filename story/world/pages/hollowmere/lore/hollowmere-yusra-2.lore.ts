@@ -103,5 +103,13 @@ export const hollowmereYusra2 = {
         "character-other/hollowmere-bea",
       ],
     },
+    {
+      fact: "Yusra kissed Nala's cheek at the stair foot, warden or not, and will wait for her after the race.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-yusra",
+      ],
+    },
   ],
 } as const satisfies Lore

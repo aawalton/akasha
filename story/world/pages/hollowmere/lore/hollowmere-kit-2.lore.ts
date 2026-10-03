@@ -403,5 +403,22 @@ export const hollowmereKit2 = {
         "character-other/hollowmere-kit",
       ],
     },
+    {
+      fact: "Penhallow wrote Whose door? under Kit's ward essay, beta plus; Kit went quiet and thoughtful.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-kit",
+        "character-other/hollowmere-penhallow",
+      ],
+    },
+    {
+      fact: "Kit said Penhallow knows the door was Gran's; Nala said It's your door too, and Kit nodded.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-kit",
+      ],
+    },
   ],
 } as const satisfies Lore

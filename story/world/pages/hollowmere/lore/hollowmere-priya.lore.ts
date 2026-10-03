@@ -266,5 +266,14 @@ export const hollowmerePriya = {
         "character-other/hollowmere-amara",
       ],
     },
+    {
+      fact: "Priya's ward essay got a beta and: Is heat the only thing? Priya said Rude, and grinned.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-priya",
+        "character-other/hollowmere-penhallow",
+      ],
+    },
   ],
 } as const satisfies Lore

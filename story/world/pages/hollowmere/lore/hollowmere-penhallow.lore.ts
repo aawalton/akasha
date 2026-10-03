@@ -204,5 +204,31 @@ export const hollowmerePenhallow = {
         "character-other/hollowmere-lin",
       ],
     },
+    {
+      fact: "Penhallow laughed at Kit's just jewellery: Oh, I'm having that. Put it in, Ashworth.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-penhallow",
+        "character-other/hollowmere-kit",
+        "character-other/hollowmere-lin",
+        "character-other/hollowmere-amara",
+        "character-other/hollowmere-priya",
+        "character-other/hollowmere-shiv",
+      ],
+    },
+    {
+      fact: "Penhallow asked group F, since the body keeps the account: who pays for memory? Think by Friday.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-penhallow",
+        "character-other/hollowmere-kit",
+        "character-other/hollowmere-lin",
+        "character-other/hollowmere-amara",
+        "character-other/hollowmere-priya",
+        "character-other/hollowmere-shiv",
+      ],
+    },
   ],
 } as const satisfies Lore

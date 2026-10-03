@@ -305,5 +305,14 @@ export const hollowmereAmara = {
         "character-other/hollowmere-kit",
       ],
     },
+    {
+      fact: "Amara frowned at her ward essay's beta plus, then read Penhallow's question and laughed out loud.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-amara",
+        "character-other/hollowmere-penhallow",
+      ],
+    },
   ],
 } as const satisfies Lore

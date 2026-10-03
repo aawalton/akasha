@@ -54,5 +54,14 @@ export const hollowmereMorwenna = {
       fact: "Morwenna studies weather-working, and means to be licensed for it.",
       knowers: ["lore-disclosure/game-master", "character-other/hollowmere-morwenna"],
     },
+    {
+      fact: "Morwenna says Ashcombe always fades at the bend by the reeds; she told Bea: stroke rate up there.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-bea",
+        "character-other/hollowmere-morwenna",
+      ],
+    },
   ],
 } as const satisfies Lore

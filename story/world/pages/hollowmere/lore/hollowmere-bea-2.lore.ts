@@ -240,5 +240,29 @@ export const hollowmereBea2 = {
         "character-other/hollowmere-lin",
       ],
     },
+    {
+      fact: "Told Ashcombe's six-year run, Bea laughed helplessly; at Nala's So? she grinned: So we row.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-bea",
+      ],
+    },
+    {
+      fact: "Bea wrote BEND on her hand for the race, and under it, smaller: Nala.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-bea",
+      ],
+    },
+    {
+      fact: "Bea's calling charm brought her spoon gently; told Better, Lindqvist, she bowed to the room.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-bea",
+      ],
+    },
   ],
 } as const satisfies Lore

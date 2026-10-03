@@ -99,5 +99,5 @@ export const hollowmere0030OrIsItWhom = {
     "character-other/hollowmere-yusra",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/mechanics"],
+  recordedBy: ["story-recorder/inventory", "story-recorder/mechanics", "story-recorder/memory"],
 } as const satisfies StoryChapterWritten

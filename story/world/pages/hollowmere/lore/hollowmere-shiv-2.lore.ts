@@ -73,5 +73,14 @@ export const hollowmereShiv2 = {
         "character-player/hollowmere-nala",
       ],
     },
+    {
+      fact: "Shiv folded her ward essay into her pocket unread; Penhallow watched, and let her.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-shiv",
+        "character-other/hollowmere-penhallow",
+      ],
+    },
   ],
 } as const satisfies Lore

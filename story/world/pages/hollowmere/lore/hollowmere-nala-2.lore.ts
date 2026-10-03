@@ -381,5 +381,21 @@ export const hollowmereNala2 = {
       fact: "Nala can call a button and a thimble every time; by four her head ached, and she stopped.",
       knowers: ["lore-disclosure/game-master", "character-player/hollowmere-nala"],
     },
+    {
+      fact: "Under Nala's ward essay, alpha minus, Penhallow wrote: What are you mending, Nala? Or is it whom?",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-penhallow",
+      ],
+    },
+    {
+      fact: "Penhallow told Nala to bring her the answer to that one when she knows, and not before.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-penhallow",
+      ],
+    },
   ],
 } as const satisfies Lore

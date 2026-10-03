@@ -270,6 +270,7 @@ export const hollowmereAcademy2 = {
         "character-other/hollowmere-bea",
         "character-other/hollowmere-morwenna",
         "character-other/hollowmere-kit",
+        "character-player/hollowmere-nala",
       ],
     },
   ],
