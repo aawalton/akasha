@@ -10,4 +10,6 @@ export const theIdleEpoch0006TheLoopCloses = {
   ownLength: 6623,
   unit: "unit/words",
   prose: "txt",
+  beats: "jsonl",
+  stepStatus: "step-status/player",
 } as const satisfies StoryChapterWritten
