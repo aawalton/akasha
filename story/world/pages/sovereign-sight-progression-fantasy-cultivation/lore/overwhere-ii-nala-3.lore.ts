@@ -222,7 +222,7 @@ export const overwhereIiNala3 = {
     },
     {
       fact: "The numbness Corra's spark left in Nala's hand is gone within the hour.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "A night's sleep restores Nala's mind after an organ; she needs no rest day between organs.",
