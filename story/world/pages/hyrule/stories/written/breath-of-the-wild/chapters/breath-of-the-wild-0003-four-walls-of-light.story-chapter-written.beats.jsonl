@@ -1,0 +1,77 @@
+{"beat":1,"event":"At the first shrine he sets the Slate on its pedestal; the eye lights and a deep chime sounds.","at":"2026-10-03T07:00:00.000Z","place":"place/hyrule-oman-au-shrine","present":["character-other/breath-of-the-wild-link"]}
+{"beat":2,"event":"The ground splits on a shaft of blue-gold light, and a platform rises to meet him."}
+{"beat":3,"event":"He rides it slowly down between carved walls whose light flows like water in channels."}
+{"beat":4,"event":"The air has no temperature and no smell: nothing has lived or died or changed here."}
+{"beat":5,"event":"His footsteps echo back with a precision like attention. The shrine is listening."}
+{"beat":6,"event":"A tall pedestal glowing orange stands before a gate of humming blue light."}
+{"beat":7,"event":"He sets the Slate on it; vibration and warmth run up his arm, and the world gains a layer."}
+{"beat":8,"event":"The screen flashes: Sheikah Slate updated. Rune acquired: Magnesis.","changes":[{"page":"world-mechanic/breath-of-the-wild-magnesis","key":"unrevealed","from":true,"to":false,"note":"Link acquires the Magnesis rune in Oman Au Shrine"}]}
+{"beat":9,"event":"A dull iron plate on the floor glows pink, and he can feel its weight with a new sense."}
+{"beat":10,"event":"He raises his hand and the plate rises, wobbling, the pull real in his arms and core."}
+{"beat":11,"event":"He moves it left and sets it down, arm shaking, and the gate of light dissolves."}
+{"beat":12,"event":"Over a gap too wide to jump he lays a metal plate as a bridge, and crosses as it groans."}
+{"beat":13,"event":"He drags a heavy metal door aside on hidden tracks, his shoulders burning with ghost weight."}
+{"beat":14,"event":"He lifts a chest out of shallow water; inside lies a short, simply made traveler's sword.","changes":[{"page":"story-item/breath-of-the-wild-travelers-sword","key":"character","from":null,"to":"character-other/breath-of-the-wild-link","note":"Link takes the Traveler's Sword from the shrine's chest"}]}
+{"beat":15,"event":"His grip settles on it faster and surer than on the club: his hands know swords."}
+{"beat":16,"event":"He lifts a metal crate with the rune and drops it on a straw dummy, which bursts apart."}
+{"beat":17,"event":"The rune is not just a key. It is a weapon he can use without touching anything."}
+{"beat":18,"event":"On a raised platform sits an ancient robed figure, cross-legged, in a tall wrapped hat."}
+{"beat":19,"event":"Dried skin over old bones, posed in meditation, not collapse; a presence presses on his mind."}
+{"beat":20,"event":"Words without sound: your resourcefulness in this trial speaks to the promise of a hero."}
+{"beat":21,"event":"The figure glows gold from the hands upward and, gently, unmakes itself into light."}
+{"beat":22,"event":"A small warm sphere drifts to him and settles into the Slate."}
+{"beat":23,"event":"The Slate: Oman Au Shrine, Magnesis Trial. Spirit Orb acquired, 1/4.","changes":[{"page":"metric-character-currency/breath-of-the-wild-link","key":"value","from":0,"to":1,"note":"Spirit Orb from Oman Au Shrine: 1/4"}]}
+{"beat":24,"event":"The chamber is empty stone; this had been a person, patience distilled into a gift."}
+{"beat":25,"event":"Hero means nothing to him. He walks back through the rooms, and the lift carries him up."}
+{"beat":26,"event":"Afternoon cloud, wind and wildflowers come back at him; his breath shows in the cooling air.","at":"2026-10-03T12:30:00.000Z","place":"place/hyrule-great-plateau"}
+{"beat":27,"event":"The rune stays on: a rusted sword in the dirt, a far chest, hidden rivets all glow pink."}
+{"beat":28,"event":"He draws the rusty sword up out of the earth with the rune and into his hand.","changes":[{"page":"story-item/breath-of-the-wild-rusty-sword","key":"character","from":null,"to":"character-other/breath-of-the-wild-link","note":"Link pulls a rusty sword from the dirt with Magnesis"}]}
+{"beat":29,"event":"Four weapons at his belt now: axe, bone club, the new sword and the rusty one. None permanent."}
+{"beat":30,"event":"The afternoon Plateau is golden; a hawk circles on a thermal, and his body aches at it.","at":"2026-10-03T15:00:00.000Z"}
+{"beat":31,"event":"The first day's camp is empty and cold; by the branch's tree, two creatures root in the brush."}
+{"beat":32,"event":"He draws the new sword and moves between them with a control that surprises him."}
+{"beat":33,"event":"One swings its club; he steps inside the arc, strikes twice, and it dissolves into smoke."}
+{"beat":34,"event":"The other throws a rock; he sidesteps without thinking and puts it down with one strike."}
+{"beat":35,"event":"Prying a stone from a wall, the bone club splits along its grain and falls into the grass.","changes":[{"page":"story-item/breath-of-the-wild-boko-club","key":"character","from":"character-other/breath-of-the-wild-link","to":null,"note":"The Boko Club breaks prying a stone loose"},{"page":"story-item/breath-of-the-wild-boko-club","key":"place","from":null,"to":"place/hyrule-great-plateau","note":"Its broken pieces lie in the grass"}]}
+{"beat":36,"event":"Everything here has a shelf life. He is learning to stop being surprised by it."}
+{"beat":37,"event":"Between the two shrine glows he builds a fire and roasts an apple as the old man showed him.","at":"2026-10-03T16:00:00.000Z"}
+{"beat":38,"event":"He eats it slowly in the grass, and for a few minutes the Plateau is just a place to sit."}
+{"beat":39,"event":"Over the treeline the Abbey's dome sits like a stone, and his body remembers the beam."}
+{"beat":40,"event":"The second shrine is on the hill above the Abbey; he will have to walk past the machine."}
+{"beat":41,"event":"The apple core goes into the fire; he gathers his weapons and walks toward the glow."}
+{"beat":42,"event":"The second shrine is the same: pedestal, chime, descent into clean, scentless stillness.","at":"2026-10-03T16:30:00.000Z","place":"place/hyrule-ja-baij-shrine"}
+{"beat":43,"event":"This transfer is not a new sense but force: his hands feel heavy with potential."}
+{"beat":44,"event":"The Slate: rune acquired, Remote Bomb. Round or cube.","changes":[{"page":"world-mechanic/breath-of-the-wild-remote-bomb","key":"unrevealed","from":true,"to":false,"note":"Link acquires the Remote Bomb rune in Ja Baij Shrine"}]}
+{"beat":45,"event":"A melon-sized sphere of blue light forms in his palm, fizzing; set down, it rolls."}
+{"beat":46,"event":"He switches to a cube: the same weight and fizz, but it stays where he puts it."}
+{"beat":47,"event":"He sets a cube at a cracked wall, backs off ten paces, and blows the wall apart."}
+{"beat":48,"event":"He blasts the rubble off a balanced slab; it tips, and he rides it up."}
+{"beat":49,"event":"He rolls a round bomb beside a stone ball and blasts it across a gap onto a pressure plate."}
+{"beat":50,"event":"Then the final chamber opens, and the joy stops."}
+{"beat":51,"event":"A small, low machine on jointed legs rises, one clear blue eye, and draws a glowing blade."}
+{"beat":52,"event":"It attacks in patterns, two swings and a pause; he steps back twice and strikes."}
+{"beat":53,"event":"It swings again and he is late: the blade cuts deep into his forearm."}
+{"beat":54,"event":"The Slate chimes: damage received, hearts 2/3. A full heart gone from one hit.","changes":[{"page":"metric-character-health/breath-of-the-wild-link","key":"value","from":12,"to":8,"note":"The Guardian Scout's blade costs a full heart: hearts 2/3"}]}
+{"beat":55,"event":"The cut bleeds through his sleeve; the chamber smells of ozone and hot metal."}
+{"beat":56,"event":"His body engages fully; he steps inside the pause and strikes three times at the seams."}
+{"beat":57,"event":"He drops a round bomb, steps back, and sets it off as the machine walks over it."}
+{"beat":58,"event":"The blast throws it off its legs, and he strikes again and again until it stops trying."}
+{"beat":59,"event":"Its eye dims and its blade clatters free: blue-white Sheikah metal, the lightest he has held.","changes":[{"page":"story-item/breath-of-the-wild-guardian-sword","key":"character","from":null,"to":"character-other/breath-of-the-wild-link","note":"Link takes the Guardian Scout's sword"}]}
+{"beat":60,"event":"The first weapon that feels made for his hand, given as a reward. It will break, eventually."}
+{"beat":61,"event":"The second monk sits as the first did, in the same robes and hat, ready for the same ending."}
+{"beat":62,"event":"The same words, word for word: the promise of a hero."}
+{"beat":63,"event":"As the monk turns to light, his head inclines unbidden: not prayer, an acknowledgment."}
+{"beat":64,"event":"The Slate: Ja Baij Shrine, Bomb Trial. Spirit Orb acquired, 2/4.","changes":[{"page":"metric-character-currency/breath-of-the-wild-link","key":"value","from":1,"to":2,"note":"Spirit Orb from Ja Baij Shrine: 2/4"}]}
+{"beat":65,"event":"Two orbs, two people dissolved to give them: the first gifts he carries given wanting nothing."}
+{"beat":66,"event":"The old man said four; two more monks wait in shrines he has not found."}
+{"beat":67,"event":"The lift carries him up into a late-afternoon sky streaked with orange and pink.","at":"2026-10-03T18:30:00.000Z","place":"place/hyrule-great-plateau"}
+{"beat":68,"event":"The light is the colour of warm metal; birds call tentatively, as they always do near the Abbey."}
+{"beat":69,"event":"East, two or three hundred paces off, the machine sits with its eye dark, like a stone."}
+{"beat":70,"event":"He has a real sword now, twenty attack, and bombs, Magnesis, and two Spirit Orbs."}
+{"beat":71,"event":"Could he fight it? Stone never scratched it, and the sword would break in fifteen hits."}
+{"beat":72,"event":"Not yet. But two days ago it was terror, and now it is a problem he can measure."}
+{"beat":73,"event":"The monks waited ten thousand years. He can wait a few more days."}
+{"beat":74,"event":"He walks to the old man's campfire, where smoke rises against the darkening sky.","at":"2026-10-03T19:30:00.000Z","place":"place/hyrule-old-man-campfire","arrive":["character-other/breath-of-the-wild-rhoam"]}
+{"beat":75,"event":"The old man adds a log and hands him food without a word; the silence is comfortable now."}
+{"beat":76,"event":"Four shrines, evenly spaced, one guide, one sealed edge: a curriculum built for one student."}
+{"beat":77,"event":"Two down. Two to go."}

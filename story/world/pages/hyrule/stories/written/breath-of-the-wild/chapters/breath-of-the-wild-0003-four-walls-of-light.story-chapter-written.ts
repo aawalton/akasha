@@ -10,4 +10,10 @@ export const breathOfTheWild0003FourWallsOfLight = {
   ownLength: 4605,
   unit: "unit/words",
   prose: "txt",
+  stepStatus: "step-status/player",
+  beats: "jsonl",
+  characters: [
+    "character-other/breath-of-the-wild-link",
+    "character-other/breath-of-the-wild-rhoam",
+  ],
 } as const satisfies StoryChapterWritten
