@@ -226,7 +226,7 @@ export const overwhereIWendlow2 = {
     },
     {
       fact: "Glass Street to Anvil Lane is a five-minute walk; Anvil Lane down to the river stairs, ten.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
     {
       fact: "Voss's well-kept arming sword is worth 200 copper; Wil is neither eager nor cool for it.",
