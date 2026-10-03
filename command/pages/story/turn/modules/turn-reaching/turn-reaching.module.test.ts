@@ -197,3 +197,26 @@ test("lore about no page brings the pages about it, as a place does", () => {
 test("lore named about a whole world brings no other lore about that world", () => {
   expect(loreNamed(["lore/magic"], [], continuedOver())).toEqual([WORLD_LORE])
 })
+
+const INTENT = "He eats when he is hungry, and sleeps indoors."
+
+test("a move to game-master hands the game master the player's intent, and no other move does", async () => {
+  const into = seen()
+  const reach: Reach = {
+    ...pushingReach(into, []),
+    storyOf: () => ({ title: "The Saga", master: MASTER, intent: INTENT }),
+  }
+  const after: Told = { report: [], faults: [] }
+  await noticesSent(reach, ROOT, GAME, MASTER, AT, "game-master", after)
+  expect(into.notices[0]).toContain(INTENT)
+  expect(into.notices[1]).not.toContain(INTENT)
+  await noticesSent(reach, ROOT, GAME, MASTER, AT, "player", after)
+  expect(into.notices.at(-1)).not.toContain(INTENT)
+})
+
+test("a story whose player wrote no intent hands the game master nothing of one", async () => {
+  const into = seen()
+  const after: Told = { report: [], faults: [] }
+  await noticesSent(pushingReach(into, []), ROOT, GAME, MASTER, AT, "game-master", after)
+  expect(into.notices[0]).toBe(`${MASTER}: The turn \`${AT}\` is at game-master.`)
+})
