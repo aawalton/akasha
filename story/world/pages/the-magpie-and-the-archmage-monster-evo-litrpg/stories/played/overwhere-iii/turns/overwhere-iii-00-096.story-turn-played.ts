@@ -11,7 +11,7 @@ export const overwhereIii00096 = {
   position: 96,
   prose: "txt",
   characters: ["character-player/overwhere-iii-nala"],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action:
     "I hunt the board, when I get close, I cast my ward on myself first, then find the boar and hit it in the head with my braid until it dies",
   beats: [
@@ -43,7 +43,12 @@ export const overwhereIii00096 = {
     "lore/overwhere-iii-nala-2-2",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/picture", "story-recorder/memory"],
+  recordedBy: [
+    "story-recorder/inventory",
+    "story-recorder/picture",
+    "story-recorder/memory",
+    "story-recorder/mechanics",
+  ],
   endsAt: "2026-10-10T14:17:00.000Z",
   coverAfter: "It lowers its tusks at you and paws the frost.",
 } as const satisfies StoryTurnPlayed
