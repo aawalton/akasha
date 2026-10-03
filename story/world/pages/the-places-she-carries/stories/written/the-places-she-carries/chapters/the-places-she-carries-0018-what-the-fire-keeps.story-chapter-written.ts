@@ -10,4 +10,6 @@ export const thePlacesSheCarries0018WhatTheFireKeeps = {
   ownLength: 4751,
   unit: "unit/words",
   prose: "txt",
+  beats: "jsonl",
+  stepStatus: "step-status/player",
 } as const satisfies StoryChapterWritten
