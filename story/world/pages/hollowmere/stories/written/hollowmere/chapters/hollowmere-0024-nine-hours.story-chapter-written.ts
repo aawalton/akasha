@@ -96,4 +96,5 @@ export const hollowmere0024NineHours = {
     "character-other/hollowmere-amara",
     "character-other/hollowmere-penhallow",
   ],
+  reviewedBy: ["story-reviewer/style"],
 } as const satisfies StoryChapterWritten
