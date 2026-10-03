@@ -1,16 +1,16 @@
 import type { StoryChapterWritten } from "akasha/story/world/stories/written/chapters/story-chapter-written.page-type.types.ts"
 
-export const hollowmere0033 = {
+export const hollowmere0033SoTheLightComesBack = {
   id: "01a1021d-8de6-70cf-aff1-59834d42f60b",
   type: "page-type/story-chapter-written",
-  slug: "hollowmere-0033",
+  slug: "hollowmere-0033-so-the-light-comes-back",
   position: 33,
   unit: "unit/words",
-  title: "Chapter 33",
+  title: "So the Light Comes Back",
   story: "story-written/hollowmere",
-  ownLength: 0,
+  ownLength: 3060,
   prose: "txt",
-  stepStatus: "step-status/writer",
+  stepStatus: "step-status/reviewers",
   beats: [
     'Friday of week five: Bea is up before light, pacing 15 in her socks. "Tomorrow," she says.',
     "You catch her by the wrists and sit her on the bed and make her breathe out. She laughs, shaky.",
@@ -73,9 +73,31 @@ export const hollowmere0033 = {
     "A day at Hollowmere ends.",
   ],
   lore: [
+    "lore/hollowmere-amara",
+    "lore/hollowmere-bea",
+    "lore/hollowmere-bea-2",
     "lore/hollowmere-kit",
     "lore/hollowmere-kit-2",
     "lore/hollowmere-kit-3",
+    "lore/hollowmere-lin",
+    "lore/hollowmere-lin-2",
+    "lore/hollowmere-nala",
+    "lore/hollowmere-nala-2",
+    "lore/hollowmere-nala-3",
+    "lore/hollowmere-penhallow",
+    "lore/hollowmere-priya",
+    "lore/hollowmere-shiv",
+    "lore/hollowmere-shiv-2",
     "place/hollowmere-kendal",
+  ],
+  characters: [
+    "character-player/hollowmere-nala",
+    "character-other/hollowmere-bea",
+    "character-other/hollowmere-penhallow",
+    "character-other/hollowmere-kit",
+    "character-other/hollowmere-lin",
+    "character-other/hollowmere-shiv",
+    "character-other/hollowmere-amara",
+    "character-other/hollowmere-priya",
   ],
 } as const satisfies StoryChapterWritten
