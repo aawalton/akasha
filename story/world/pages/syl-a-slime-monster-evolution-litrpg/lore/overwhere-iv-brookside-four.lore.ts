@@ -299,5 +299,13 @@ export const overwhereIvBrooksideFour = {
         "lore/overwhere-iv-brookside-four",
       ],
     },
+    {
+      fact: "Merrit's fire burst against the front of the goblin rush on Tull's fold and scorched it.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iv-nala",
+        "lore/overwhere-iv-brookside-four",
+      ],
+    },
   ],
 } as const satisfies Lore

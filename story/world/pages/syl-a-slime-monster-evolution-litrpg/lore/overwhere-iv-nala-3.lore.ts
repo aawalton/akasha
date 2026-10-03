@@ -136,5 +136,9 @@ export const overwhereIvNala3 = {
         "lore/overwhere-iv-brookside-four",
       ],
     },
+    {
+      fact: "Killing the spear hobgoblin through the skull raised Nala's Rift Rend to LV 6.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+    },
   ],
 } as const satisfies Lore
