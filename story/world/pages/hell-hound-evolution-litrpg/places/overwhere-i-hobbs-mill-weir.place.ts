@@ -79,5 +79,9 @@ export const overwhereIHobbsMillWeir = {
       fact: "Fire loosed into water hisses out within a yard; a beam at the wyrm under water does nothing.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Badly hurt, the wyrm flees to its lair under the sunken barge and stays down an hour.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Place
