@@ -144,7 +144,11 @@ export const overwhereIiiEddaCrane = {
     },
     {
       fact: "Edda thought it odd that Sallow sold little charcoal yet never lacked coin.",
-      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-edda-crane"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/overwhere-iii-edda-crane",
+        "character-player/overwhere-iii-nala",
+      ],
     },
     {
       fact: "Edda first saw blighted stumps by her kilns the winter after Sallow came; she never put it together.",
