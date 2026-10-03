@@ -166,5 +166,13 @@ export const overwhereIiiEddaCrane = {
         "character-player/overwhere-iii-nala",
       ],
     },
+    {
+      fact: "Edda said, 'A false face. Gods.' and that she'd tell Marda at the post tonight, before the bell.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iii-nala",
+        "character-other/overwhere-iii-edda-crane",
+      ],
+    },
   ],
 } as const satisfies Lore
