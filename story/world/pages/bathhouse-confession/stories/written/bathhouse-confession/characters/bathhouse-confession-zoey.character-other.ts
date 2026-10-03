@@ -6,4 +6,5 @@ export const bathhouseConfessionZoey = {
   slug: "bathhouse-confession-zoey",
   title: "Zoey",
   story: "story-written/bathhouse-confession",
+  place: "place/bathhouse-confession-changing-room",
 } as const satisfies CharacterOther
