@@ -141,6 +141,11 @@ export const fairweather0001 = {
       present: ["character-player/fairweather-elsie"],
     },
   ],
+  beatChanges: "jsonl",
+  mechanicsIssues: [
+    "beat 6: the baker hands Elsie a honey bun, and no page defines it",
+    "beat 32: Elsie hangs a copper rank tag at her belt, and no page defines it",
+  ],
   lore: [
     "lore/fairweather-cora",
     "lore/fairweather-elsie",
@@ -152,4 +157,5 @@ export const fairweather0001 = {
     "place/fairweather-honeycomb",
     "place/fairweather-lanternmere",
   ],
+  recordedBy: ["story-recorder/inventory"],
 } as const satisfies StoryChapterWritten
