@@ -246,7 +246,7 @@ export const overwhereIWendlow2 = {
     },
     {
       fact: "Mother Sallow is a stooped old woman with a clay pipe, in a steamy cellar at the river stairs' foot.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
     {
       fact: "The old Grubboar tusk pair is worth 20 copper; Mother Sallow is eager, grinding tusk for draughts.",
