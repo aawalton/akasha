@@ -1,0 +1,69 @@
+{"beat":1,"event":"At 6 AM Callum's notebook page is running out of room: three columns, each taller than the last.","at":"2025-12-27T11:00:00.000Z","place":"place/the-idle-epoch-warehouse","present":["character-player/the-idle-epoch-callum","character-other/the-idle-epoch-jin","character-other/the-idle-epoch-mira"]}
+{"beat":2,"event":"Day 3, cycle 47: 5,127 Essence yesterday against 2,670 on Day 1, doubling in about 68 hours."}
+{"beat":3,"event":"Grinder 118.7%, Collector 112.4%, Refinery 109.8%; seven days out, about 20,500 a day."}
+{"beat":4,"event":"Three months of a flat line, and on the last page the line bends."}
+{"beat":5,"event":"Exponential growth from the inside feels like the world changed while you were sleeping."}
+{"beat":6,"event":"Pip pulses twice, quick and warm, a pattern he has seen more often since the loop closed."}
+{"beat":7,"event":"Pouring water into his thermos, a level-up locks his hands and the water splashes: 15 to 16.","at":"2025-12-27T11:15:00.000Z","changes":[{"page":"metric-character-level/the-idle-epoch-callum","key":"value","from":15,"to":16,"note":"Level 15 to 16 on the third morning of the closed loop"}]}
+{"beat":8,"event":"Thread Spinner synergy unlocks: his threads now share ten percent of their gains."}
+{"beat":9,"event":"A feedback loop inside a feedback loop. The math is getting recursive, and he loves it."}
+{"beat":10,"event":"Intelligence to 57, Wisdom to 60, and one point of Willpower to 31.","changes":[{"page":"metric-character-stat/the-idle-epoch-callum-intelligence","key":"value","from":55,"to":57,"note":"Level 16: +2 Intelligence"},{"page":"metric-character-stat/the-idle-epoch-callum-wisdom","key":"value","from":58,"to":60,"note":"Level 16: +2 Wisdom"}]}
+{"beat":11,"event":"He pours the water again, and does not spill it."}
+{"beat":12,"event":"Forty-three minutes later the second hits, harder, fracturing his vision: 16 to 17.","at":"2025-12-27T11:58:00.000Z","changes":[{"page":"metric-character-level/the-idle-epoch-callum","key":"value","from":16,"to":17,"note":"Level 16 to 17 forty-three minutes after the last"}]}
+{"beat":13,"event":"Intelligence to 59, Wisdom to 62, Willpower to 32: Complexity 34.5, Idle Yield 2.24x.","changes":[{"page":"metric-character-stat/the-idle-epoch-callum-intelligence","key":"value","from":57,"to":59,"note":"Level 17: +2 Intelligence"},{"page":"metric-character-stat/the-idle-epoch-callum-wisdom","key":"value","from":60,"to":62,"note":"Level 17: +2 Wisdom"}]}
+{"beat":14,"event":"Twelve to fifteen took weeks; fifteen to seventeen took three days. The curve is climbing."}
+{"beat":15,"event":"Of fourteen skill points, four raise Loop Analysis from 3 to 5: he can see others' automation."}
+{"beat":16,"event":"He can see the code behind other people's machines. The rest he holds back for now."}
+{"beat":17,"event":"Jin calls up from below the catwalk: did he level up twice? Pixel chirps on his shoulder."}
+{"beat":18,"event":"\"Level 17.\" \"In one morning. You were 15 yesterday.\" \"Three days ago.\""}
+{"beat":19,"event":"Jin scrambles up the ladder: synergy stacking with feedback. \"Your idle loop has recursion.\""}
+{"beat":20,"event":"Callum feels relief: someone else is walking across the bridge he built on paper."}
+{"beat":21,"event":"Jin pushes for Compile Familiar now; the timing matters, Callum says, and Jin lets it go."}
+{"beat":22,"event":"On her morning sweep through the Overgrowth, Mira kills a vine constrictor in two strokes.","at":"2025-12-27T13:00:00.000Z","place":"place/the-idle-epoch-overgrowth","present":["character-other/the-idle-epoch-mira"]}
+{"beat":23,"event":"Riposte, Level 15: a 627-damage crit. She barely registers it, but the next one feels different."}
+{"beat":24,"event":"Her cooldowns come back faster and her Dash readies a hair sooner. She stops to test it."}
+{"beat":25,"event":"Three constrictors inside the aura, three more thirty-one meters outside it, three back inside."}
+{"beat":26,"event":"Outside she is a breath slower; inside, about eight percent faster. Her body knows."}
+{"beat":27,"event":"She has never idled; since the first week she has called it surrender dressed as efficiency."}
+{"beat":28,"event":"But she is still fighting; the aura only fills the margins between her actions."}
+{"beat":29,"event":"She hates it a little, on principle; and for the first time in three months her XP curve moved."}
+{"beat":30,"event":"Her wall since Level 23 has a crack with Callum Voss's name on it. She walks back faster."}
+{"beat":31,"event":"Mid-morning at the Exchange Callum carries a crate of Flux Capacitors, Pip now on his collar.","at":"2025-12-27T15:00:00.000Z","place":"place/the-idle-epoch-exchange","present":["character-player/the-idle-epoch-callum"]}
+{"beat":32,"event":"Thirty-six hours of loop-enhanced Refinery output: more than the two weeks before combined."}
+{"beat":33,"event":"Grier, who buys capacitors in bulk, looks at the crate: double his usual run, and better.","arrive":["character-other/the-idle-epoch-grier"]}
+{"beat":34,"event":"Supply doesn't double in three days, Grier says. Every sale is a data point someone can map."}
+{"beat":35,"event":"Four hundred, Grier offers; four-fifty, Callum asks. They settle on four-twenty.","changes":[{"page":"metric-character-currency/the-idle-epoch-callum","key":"value","from":1847,"to":2267,"note":"Grier buys the crate of Flux Capacitors for 420 Gold"}]}
+{"beat":36,"event":"He turns to leave, and the Broker is standing behind him.","leave":["character-other/the-idle-epoch-grier"],"arrive":["character-other/the-idle-epoch-broker"]}
+{"beat":37,"event":"A long coat with too many pockets, Flux-lined gloves, a flat cap, and a face you forget at once."}
+{"beat":38,"event":"\"Good morning.\" Normally they open with something you need at a price you can barely pay. Not today."}
+{"beat":39,"event":"Callum waits in silence, and the Broker approves. \"I'm going to tell you something for free.\""}
+{"beat":40,"event":"The Vanguard has put a second scout team on the Foundry District: his output doubled in three days."}
+{"beat":41,"event":"\"Morrison eliminates variables.\" What's the price? \"I said it was free.\" Nothing is free."}
+{"beat":42,"event":"The cost is that he'll wonder why. \"I don't have a side, Mr. Voss. I have a portfolio.\""}
+{"beat":43,"event":"His trajectory is the most interesting line on their chart. The crowd swallows the Broker.","leave":["character-other/the-idle-epoch-broker"]}
+{"beat":44,"event":"Pip pulses against his neck, agitated: the first time it has reacted to another person."}
+{"beat":45,"event":"He may have days, not weeks. He walks home unhurried, already restructuring every plan."}
+{"beat":46,"event":"At sundown the three of them gather over his notebook spread across the warehouse floor.","at":"2025-12-27T22:00:00.000Z","place":"place/the-idle-epoch-warehouse","present":["character-player/the-idle-epoch-callum","character-other/the-idle-epoch-jin","character-other/the-idle-epoch-mira"]}
+{"beat":47,"event":"The Broker came uninvited with free intelligence: bait, or an investment in him, maybe both."}
+{"beat":48,"event":"\"You think like this all the time?\" \"It is efficient.\" \"That is not the same thing.\""}
+{"beat":49,"event":"Jin brings them back: what will the Vanguard do with two scout teams' worth of data?"}
+{"beat":50,"event":"Three options, Callum says: they watch and wait, they tax him harder, or they send enforcers."}
+{"beat":51,"event":"Mira's fourth: seek another guild's protection. A shield that comes with a leash, he says."}
+{"beat":52,"event":"In a guild he'd be an asset, not a person: a component. Mira's eyes narrow in recognition."}
+{"beat":53,"event":"\"We accelerate,\" he says: reach Level 25 and Condense before Morrison decides to act."}
+{"beat":54,"event":"After a Condense, a 1.5x multiplier would make shutting him down economically irrational."}
+{"beat":55,"event":"Shardfield runs twice daily, Mira guarding the constructs, everything funnelled into levels."}
+{"beat":56,"event":"His Loop Analysis graph: his exponential curve crosses Drake's threat line in eight days."}
+{"beat":57,"event":"\"Eight days. Level 25.\" \"Insane,\" says Mira. \"Aggressive,\" he corrects. \"I said what I said.\""}
+{"beat":58,"event":"Mira studies the graph like an opponent: \"I'm not the hiding type.\" She offers her hand."}
+{"beat":59,"event":"Jin's face runs from fear through grief to resolve: Chunk will need repairs at twice-daily runs."}
+{"beat":60,"event":"Callum will tune Chunk's self-repair through the Enhancement Construct: summons count as parts."}
+{"beat":61,"event":"\"That is not an insult.\" \"I didn't think it was.\" Tonight they rest; the loop doesn't sleep."}
+{"beat":62,"event":"Jin sleeps on the floor; Mira lies on her catwalk cot, awake and thinking."}
+{"beat":63,"event":"Loop Analysis 5 lays his loop bare: nested logic, shared gains, a function calling itself."}
+{"beat":64,"event":"Outward he sees neighbours' dim, simple threads, and two bright paired patrols circling him."}
+{"beat":65,"event":"Vanguard scouts, Level 25 at least, not bothering to hide. Eight days, maybe fewer."}
+{"beat":66,"event":"Cycle 51. He writes: Day 3, Level 17, about 5,100 Essence a day, Vanguard scouts confirmed."}
+{"beat":67,"event":"Let them watch. They are not hiding or slowing. The curve does not wait for permission to bend."}
+{"beat":68,"event":"Pip pulses two beats, three, almost a rhythm. \"Nine skill points,\" he murmurs. \"When it's right.\""}
+{"beat":69,"event":"The loop cycles while two scout teams circle a warehouse they can't understand. He sleeps."}

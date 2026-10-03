@@ -10,4 +10,6 @@ export const theIdleEpoch0007Exponential = {
   ownLength: 6346,
   unit: "unit/words",
   prose: "txt",
+  beats: "jsonl",
+  stepStatus: "step-status/player",
 } as const satisfies StoryChapterWritten
