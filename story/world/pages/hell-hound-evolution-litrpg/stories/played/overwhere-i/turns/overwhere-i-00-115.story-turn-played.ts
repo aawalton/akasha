@@ -4,13 +4,14 @@ export const overwhereI00115 = {
   id: "01a101da-fa5d-783b-8116-b529d8836500",
   type: "page-type/story-turn-played",
   slug: "overwhere-i-00-115",
+  cover: "image/image-1ea5b5271f221ac2",
   ownLength: 337,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-i"],
   position: 115,
   prose: "txt",
   characters: ["character-player/overwhere-i-nala"],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action:
     "I spend the afternoon testing weaves to see if I can get something to repair the tears in my clothes.",
   beats: [
@@ -39,6 +40,12 @@ export const overwhereI00115 = {
     "lore/overwhere-i-wendlow-2-2",
   ],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/memory", "story-recorder/mechanics"],
+  recordedBy: [
+    "story-recorder/inventory",
+    "story-recorder/memory",
+    "story-recorder/mechanics",
+    "story-recorder/picture",
+  ],
   endsAt: "2026-10-06T17:57:00.000Z",
+  coverAfter: "Your throat has gone dry as dust over the long afternoon. You pull",
 } as const satisfies StoryTurnPlayed
