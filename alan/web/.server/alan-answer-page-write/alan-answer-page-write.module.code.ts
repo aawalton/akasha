@@ -9,9 +9,9 @@ const ALANWALTON_WRITER = "alanwalton-web"
 
 async function backlogAfterReading(chapter: string): Promise<undefined> {
   const kept = await chapterReadBacklog(chapter)
-  if (kept.failed) console.error(`chapter backlog: ${kept.said}`)
-  else console.log(`chapter backlog: ${kept.said}`)
-  for (const one of kept.faults) console.error(`chapter backlog: ${one}`)
+  if (kept.failed) console.error(`word backlog: ${kept.said}`)
+  else console.log(`word backlog: ${kept.said}`)
+  for (const one of kept.faults) console.error(`word backlog: ${one}`)
   return undefined
 }
 

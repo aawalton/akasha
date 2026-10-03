@@ -9,7 +9,7 @@ export const alanAnswerPageWrite = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "A write reading a written chapter runs its story's chapter backlog rule.",
+      statement: "A write reading a written chapter runs its story's word backlog rule.",
     },
     {
       decisionKind: "decision-kind/departure",
