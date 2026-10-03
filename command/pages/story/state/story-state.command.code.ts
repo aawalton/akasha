@@ -121,7 +121,8 @@ export function stateLines(story: Story): readonly string[] {
   const turns = inOrder(story.turns)
   const lines = [...scenesSaid(story, turns, drift)]
   const last: Last = new Map()
-  for (const one of turns.filter((each) => stepIn(each.value[STATUS]) === PLAYER)) {
+  const published = (each: Paged) => each.closed === true || stepIn(each.value[STATUS]) === PLAYER
+  for (const one of turns.filter(published)) {
     changesSaid(story, one, last, drift)
     memorySaid(story, one, lines, drift)
   }

@@ -1,6 +1,7 @@
 import { expect, test } from "bun:test"
 import {
   cachedOf,
+  inOrder,
   type Knowing,
   type Paged,
   type Scened,
@@ -61,6 +62,24 @@ test("a turn's scenes replay on the story's earlier beats, caching its end time 
   expect(said.namings).toEqual([
     { pageTypeSlug: "character-player", slug: "mara", merge: true, values: { place: GATE } },
     { pageTypeSlug: "character-other", slug: "ceri", merge: true, values: { place: GATE } },
+  ])
+})
+
+test("a played story's chapters replay before every turn, whatever their own numbers", () => {
+  const chapter: Paged = {
+    ...EARLIER,
+    slug: "saga-0009-the-hall",
+    value: { position: 9 },
+    closed: true,
+  }
+  expect(inOrder([LATER, chapter]).map((one) => one.slug)).toEqual([chapter.slug, LATER.slug])
+  const scenes = scenesOf([
+    JSON.stringify({ event: "Mara walks out", at: "2026-01-01T10:00:00Z", place: GATE }),
+  ])
+  const said = settled(scenesSettled([chapter, LATER], TURN, ["x"], scenes, KNOWN, false))
+  expect(said.namings.map((one) => [one.slug, one.values])).toEqual([
+    ["mara", { place: GATE }],
+    ["ceri", { place: GATE }],
   ])
 })
 

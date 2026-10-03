@@ -25,6 +25,7 @@ import {
 } from "akasha/story/engine/beat-state/modules/beat-replay/beat-replay.module.code.ts"
 import { place } from "akasha/story/lore/place/place.page-type.ts"
 import { characterPlace } from "akasha/story/world/characters/properties/character-place.relation-property.ts"
+import { storyChapterPlayed } from "akasha/story/world/stories/played/chapters/story-chapter-played.page-type.ts"
 import { storyPlayed } from "akasha/story/world/stories/played/story-played.page-type.ts"
 import {
   admittedIndexed,
@@ -70,6 +71,7 @@ export type Paged = {
   readonly at?: string
   readonly value: Readonly<Record<string, unknown>>
   readonly beats?: Beats | Refused
+  readonly closed?: true
 }
 
 export type Scened = {
@@ -147,7 +149,11 @@ export function scenesSettled(
   if (unnamed !== null) return { refused: unnamed }
   const at = positionOf(turn.value)
   const before = playedIn(
-    inOrder(story.filter((one) => one.slug !== turn.slug && positionOf(one.value) < at))
+    inOrder(
+      story.filter(
+        (one) => one.slug !== turn.slug && (one.closed === true || positionOf(one.value) < at)
+      )
+    )
   )
   if ("refused" in before) return before
   const opening = replayed(OPENING, before)
@@ -194,9 +200,7 @@ export function cachedOf(fold: Folding, root: string, scened: Scened): readonly 
   return asking
 }
 
-export function storyIndexed(root: string, game: string, chapter: boolean): readonly Paged[] {
-  const type = chapter ? storyChapterWritten.slug : storyTurnPlayed.slug
-  const owner = `${chapter ? storyWritten.slug : storyPlayed.slug}${PARTED}${game}`
+function pagedOf(root: string, type: string, owner: string, closed: boolean): readonly Paged[] {
   return valuesOfType(root, type).flatMap((one): readonly Paged[] => {
     const of = one.value[STORY]
     const named = [...stringsIn(one.value[COLLECTIONS]), ...(typeof of === "string" ? [of] : [])]
@@ -204,12 +208,28 @@ export function storyIndexed(root: string, game: string, chapter: boolean): read
     if (!named.includes(owner) || slug === null) return []
     const textOf = (path: string) => readFileSync(join(root, path), TEXT)
     const beats = beatsHeld({ at: one.path, slug, value: one.value }, textOf)
-    return [{ slug, at: one.path, value: one.value, beats }]
+    return [{ slug, at: one.path, value: one.value, beats, ...(closed ? { closed } : {}) }]
   })
 }
 
+export function storyIndexed(root: string, game: string, chapter: boolean): readonly Paged[] {
+  if (chapter)
+    return pagedOf(root, storyChapterWritten.slug, `${storyWritten.slug}${PARTED}${game}`, false)
+  const owner = `${storyPlayed.slug}${PARTED}${game}`
+  return [
+    ...pagedOf(root, storyChapterPlayed.slug, owner, true),
+    ...pagedOf(root, storyTurnPlayed.slug, owner, false),
+  ]
+}
+
+function rankOf(one: Paged): number {
+  return one.closed === true ? 0 : 1
+}
+
 export function inOrder(story: readonly Paged[]): readonly Paged[] {
-  return story.toSorted((one, other) => positionOf(one.value) - positionOf(other.value))
+  return story.toSorted(
+    (one, other) => rankOf(one) - rankOf(other) || positionOf(one.value) - positionOf(other.value)
+  )
 }
 
 export function scenesIndexed(

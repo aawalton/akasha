@@ -14,6 +14,10 @@ export const turnScenes = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A played story's chapters come before its turns, in their own position order.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "Each earlier turn's beats and scenes are read from its own beats file.",
     },
     {

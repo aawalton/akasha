@@ -33,6 +33,14 @@ export const storyState = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A played story replays its chapters in order, then its turns.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A played chapter counts for numbers and knowers as a turn at player does.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A state reads each turn's beats, scenes, changes and memory from its beats file.",
     },
     {

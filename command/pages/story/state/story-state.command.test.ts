@@ -16,6 +16,8 @@ const MARA = "character-player/mara"
 
 const HALL = "place/a-hall"
 
+const GATE = "place/the-gate"
+
 const XP = "metric-character/mara-xp"
 
 const FACT = "The mere has no bottom."
@@ -74,6 +76,27 @@ test("the beats replayed name the clock, each place, each value and what the rea
     `place\t${MARA}\t${HALL}`,
     `shown\tsaga-00-002\tlore/the-mere\t${FACT}`,
     `value\t${XP}\tvalue\t30`,
+    "drift\tnone: the pages hold every value the beats reach",
+  ])
+})
+
+test("a played chapter replays before the turns and counts though it states no step status", () => {
+  const chapter: Paged = { ...FIRST, value: { position: 5, beats: "jsonl" }, closed: true }
+  const later = { beat: 1, at: "2026-01-01T10:00:00.000Z", place: GATE }
+  const turn: Paged = {
+    ...SECOND,
+    beats: { beats: ["b"], scenes: [later], changes: [], memory: [] },
+  }
+  const story: Story = {
+    ...storyOver({ ...PAGES, [MARA]: { place: GATE }, [XP]: { value: 10 } }),
+    turns: [turn, chapter],
+    changesOf: (one) => (one.closed === true ? (CHANGES[one.slug] ?? []) : []),
+  }
+  expect(stateLines(story)).toEqual([
+    "clock\t2026-01-01T10:00:00.000Z",
+    `place\t${MARA}\t${GATE}`,
+    `shown\tsaga-00-002\tlore/the-mere\t${FACT}`,
+    `value\t${XP}\tvalue\t10`,
     "drift\tnone: the pages hold every value the beats reach",
   ])
 })
