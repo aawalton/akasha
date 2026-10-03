@@ -28,5 +28,9 @@ export const overwhereIWendlow22 = {
       fact: "The towpath back from Hobb's Mill passes quietly on day 8.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
+    {
+      fact: "Grete asks Nala, 'What now, Nala Arthur?'",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+    },
   ],
 } as const satisfies Lore
