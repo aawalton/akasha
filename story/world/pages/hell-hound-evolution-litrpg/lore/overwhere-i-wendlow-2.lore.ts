@@ -276,5 +276,9 @@ export const overwhereIWendlow2 = {
       fact: "Cutting a bile sac free whole is a moderate act; a burst sac is worthless, and its bile stings skin.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Mother Sallow lends Nala a stoppered clay jar and a hank of waxed twine for the sac.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
