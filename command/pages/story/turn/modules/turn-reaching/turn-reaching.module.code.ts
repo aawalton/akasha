@@ -39,6 +39,7 @@ import {
   type Reviewer,
 } from "akasha/command/pages/story/turn/modules/turn-prompting/turn-prompting.module.code.ts"
 import {
+  backlogTold,
   type ReadyPushing,
   readyNotified,
   readyTold,
@@ -73,6 +74,7 @@ import { storyReviewer } from "akasha/story/reviewer/story-reviewer.page-type.ts
 import { storyPlayed } from "akasha/story/world/stories/played/story-played.page-type.ts"
 import {
   bareOf,
+  CHAPTER,
   type Noun,
   noticeOf,
   PLAYER,
@@ -84,6 +86,10 @@ import {
 import { noticedOf } from "akasha/story/world/stories/played/turns/modules/turn-seats/turn-seats.module.code.ts"
 import { storyTurnPlayed } from "akasha/story/world/stories/played/turns/story-turn-played.page-type.ts"
 import { storyChapterWritten } from "akasha/story/world/stories/written/chapters/story-chapter-written.page-type.ts"
+import {
+  type BacklogKept,
+  backlogKept,
+} from "akasha/story/world/stories/written/modules/nightly-chapter-writing/nightly-chapter-writing.module.code.ts"
 import { storyWritten } from "akasha/story/world/stories/written/story-written.page-type.ts"
 
 const CLI = "command/modules/cli/cli.module.code.ts"
@@ -168,6 +174,7 @@ export type Reach = {
   readonly changedLore: (root: string, seat: string) => readonly string[]
   readonly writtenOn: (root: string, turn: Turn) => readonly string[]
   readonly readyPushed: ReadyPushing
+  readonly backlogKept?: (story: string) => Promise<BacklogKept>
 }
 
 type Paged = {
@@ -200,6 +207,7 @@ export async function noticesSent(
   toMaster = ""
 ): Promise<undefined> {
   if (status === PLAYER) await readyTold(reach.readyPushed, root, game, turn, after.report, noun)
+  if (status === PLAYER && noun === CHAPTER) await backlogTold(reach.backlogKept, game, after)
   if (master === null) {
     after.faults.push(
       `\`${game}\` names no game master seat, so no seat was told the ${noun} moved`
@@ -364,6 +372,7 @@ export const REACHED: Reach = {
   changedLore: changedLoreOfSeat,
   writtenOn: writtenIndexed,
   readyPushed: readyNotified,
+  backlogKept: (story) => backlogKept(story),
 }
 
 function seatsStated(): readonly Seated[] {

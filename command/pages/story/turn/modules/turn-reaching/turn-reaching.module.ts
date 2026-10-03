@@ -50,6 +50,10 @@ export const turnReaching = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A chapter's move to player runs its story's chapter backlog rule.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A turn is held by a lock beside its page, which one process holds at a time.",
     },
     {

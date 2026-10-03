@@ -1,5 +1,6 @@
 import { expect, test } from "bun:test"
 import {
+  backlogTold,
   chapterNotice,
   chapterReadySaid,
   readyNotice,
@@ -104,4 +105,34 @@ test("a push that refuses or throws is reported and never thrown", async () => {
     report
   )
   expect(report).toEqual(["unpushed\tthe feed went unwritten", "unpushed\tthe feed went unread"])
+})
+
+test("a chapter started for the backlog is reported, and its notice faults are faults", async () => {
+  const after = { report: [] as string[], faults: [] as string[] }
+  const kept = { said: "climb\tstarted\tclimb-0004\tx", failed: false, faults: ["untold"] }
+  await backlogTold(async () => kept, "climb", after)
+  expect(after).toEqual({
+    report: ["backlog\tclimb\tstarted\tclimb-0004\tx"],
+    faults: ["the next chapter of `climb`: untold"],
+  })
+})
+
+test("a backlog chapter that fails or throws is a fault and never thrown", async () => {
+  const after = { report: [] as string[], faults: [] as string[] }
+  const failed = { said: "climb\tfailed\taway", failed: true, faults: [] }
+  await backlogTold(async () => failed, "climb", after)
+  await backlogTold(
+    async () => {
+      throw new Error("gone")
+    },
+    "climb",
+    after
+  )
+  expect(after).toEqual({
+    report: [],
+    faults: [
+      "the next chapter of `climb` was not started: climb\tfailed\taway",
+      "the next chapter of `climb` was not started: gone",
+    ],
+  })
 })

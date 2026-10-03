@@ -33,5 +33,9 @@ export const turnReadyPushing = {
       decisionKind: "decision-kind/departure",
       statement: "A push that fails or throws is named in the report and never thrown.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A next chapter that fails to start is a fault, so the advance still lands.",
+    },
   ],
 } as const satisfies Module

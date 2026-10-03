@@ -1,3 +1,5 @@
+{"propertySlug":"import","fileName":"nightly-chapter-writing.module.code.ts","path":"command/pages/story/turn/modules/turn-reaching/turn-reaching.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"nightly-chapter-writing.module.code.ts","path":"command/pages/story/turn/modules/turn-ready-pushing/turn-ready-pushing.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"nightly-chapter-writing.module.code.ts","path":"story/world/stories/written/modules/nightly-chapter-writing/nightly-chapter-writing.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"nightly-chapter-writing.module.code.ts","path":"story/world/stories/written/service-workstations/nightly-chapter-writing/nightly-chapter-writing.service-workstation.running.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"nightly-chapter-writing.module.code.ts","path":"story/world/stories/written/service-workstations/nightly-chapter-writing/nightly-chapter-writing.service-workstation.running.test.ts","typed":false,"deferred":true}

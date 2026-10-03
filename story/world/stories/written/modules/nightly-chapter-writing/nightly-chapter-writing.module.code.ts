@@ -23,11 +23,15 @@ const FOLLOWING = "following"
 
 const MASTER = "coordinatorAgent"
 
+const BACKLOG = "chapterBacklog"
+
 const STORY = "story"
 
 const STATUS = "stepStatus"
 
 const COMPLETED = "completedAt"
+
+const UNSTATED_BACKLOG = 1
 
 const PARTED = "/"
 
@@ -39,6 +43,7 @@ export type Story = {
   readonly slug: string
   readonly following: boolean
   readonly master: string | null
+  readonly backlog: number | null
 }
 
 export type Chapter = {
@@ -49,8 +54,15 @@ export type Chapter = {
 
 export type Due = { readonly due: true } | { readonly due: false; readonly why: string }
 
-export function storiesAsked(): Query {
-  return { pageTypeSlug: storyWritten.slug, keys: [SLUG, FOLLOWING, MASTER] }
+export type BacklogKept = {
+  readonly said: string
+  readonly failed: boolean
+  readonly faults: readonly string[]
+}
+
+export function storiesAsked(story?: string): Query {
+  const where = story === undefined ? {} : { where: { [SLUG]: { is: story } } }
+  return { pageTypeSlug: storyWritten.slug, ...where, keys: [SLUG, FOLLOWING, MASTER, BACKLOG] }
 }
 
 export function chaptersAsked(story: string): Query {
@@ -64,7 +76,15 @@ export function chaptersAsked(story: string): Query {
 function storyIn(row: Row): readonly Story[] {
   const slug = textIn(row[SLUG])
   if (slug === null) return []
-  return [{ slug, following: row[FOLLOWING] === true, master: textIn(row[MASTER]) }]
+  const backlog = row[BACKLOG]
+  return [
+    {
+      slug,
+      following: row[FOLLOWING] === true,
+      master: textIn(row[MASTER]),
+      backlog: typeof backlog === "number" ? backlog : null,
+    },
+  ]
 }
 
 function chapterIn(row: Row): readonly Chapter[] {
@@ -81,15 +101,56 @@ export function dueFor(story: Story, chapters: readonly Chapter[]): Due {
     return { due: false, why: `\`${busy.slug}\` is mid-step at ${String(busy.status)}` }
   }
   const unread = chapters.filter((one) => !one.completed).map((one) => one.slug)
-  if (unread.length > 0) return { due: false, why: `unread: ${unread.join(", ")}` }
+  if (unread.length >= (story.backlog ?? UNSTATED_BACKLOG)) {
+    const said = `unread: ${unread.join(", ")}`
+    return { due: false, why: story.backlog === null ? said : `${said} (backlog ${story.backlog})` }
+  }
   return { due: true }
 }
 
-function madeSaid(made: ChapterMade): string {
-  if (made.kind === "refused") return `refused\t${made.said}`
-  if (made.kind === "unread") return `failed\t${made.why}`
-  const faults = made.faults.map((one) => `\tfault\t${one}`)
-  return [`started\t${made.slug}\t${made.at}`, ...faults].join("\n")
+function madeKept(story: string, made: ChapterMade): BacklogKept {
+  if (made.kind === "refused") {
+    return { said: `${story}\trefused\t${made.said}`, failed: true, faults: [] }
+  }
+  if (made.kind === "unread")
+    return { said: `${story}\tfailed\t${made.why}`, failed: true, faults: [] }
+  return { said: `${story}\tstarted\t${made.slug}\t${made.at}`, failed: false, faults: made.faults }
+}
+
+function keptSaid(kept: BacklogKept): string {
+  return [kept.said, ...kept.faults.map((one) => `\tfault\t${one}`)].join("\n")
+}
+
+function skipped(story: string, why: string, failed: boolean): BacklogKept {
+  return { said: `${story}\tskipped\t${why}`, failed, faults: [] }
+}
+
+async function storyKept(
+  story: Story,
+  dry: boolean,
+  ask: Asking,
+  making: Making
+): Promise<BacklogKept> {
+  const chapters = await ask(chaptersAsked(story.slug))
+  if ("refused" in chapters)
+    return skipped(story.slug, `chapters unread: ${chapters.refused}`, true)
+  const due = dueFor(story, chapters.rows.flatMap(chapterIn))
+  if (!due.due) return skipped(story.slug, due.why, false)
+  if (dry) return { said: `${story.slug}\twould write`, failed: false, faults: [] }
+  return madeKept(story.slug, await making(story.slug))
+}
+
+export async function backlogKept(
+  story: string,
+  dry = false,
+  ask: Asking = (query) => askingFor(query),
+  making: Making = chapterMadeFor
+): Promise<BacklogKept> {
+  const stories = await ask(storiesAsked(story))
+  if ("refused" in stories) return skipped(story, `stories unread: ${stories.refused}`, true)
+  const found = stories.rows.flatMap(storyIn).find((one) => one.slug === story)
+  if (found === undefined) return skipped(story, "no written story is named so", true)
+  return await storyKept(found, dry, ask, making)
 }
 
 export async function nightlyChapterWriting(
@@ -101,15 +162,7 @@ export async function nightlyChapterWriting(
   if ("refused" in stories) return [`stories unread\t${stories.refused}`]
   const said: string[] = []
   for (const story of stories.rows.flatMap(storyIn)) {
-    const chapters = await ask(chaptersAsked(story.slug))
-    if ("refused" in chapters) {
-      said.push(`${story.slug}\tskipped\tchapters unread: ${chapters.refused}`)
-      continue
-    }
-    const due = dueFor(story, chapters.rows.flatMap(chapterIn))
-    if (!due.due) said.push(`${story.slug}\tskipped\t${due.why}`)
-    else if (dry) said.push(`${story.slug}\twould write`)
-    else said.push(`${story.slug}\t${madeSaid(await making(story.slug))}`)
+    said.push(keptSaid(await storyKept(story, dry, ask, making)))
   }
   return said
 }

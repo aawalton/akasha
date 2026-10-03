@@ -1,11 +1,17 @@
 import { afterAll, expect, test } from "bun:test"
 import { rmSync } from "node:fs"
+import { storyTurnAdvance } from "akasha/command/pages/story/turn/advance/story-turn-advance.command.code.ts"
 import {
   AT,
+  CHAPTER_ARGV,
   CHAPTER_AT,
+  chapterReach,
+  GIVEN,
+  LANDED,
   MASTER,
   pushingReach,
   ROOT,
+  seatOf,
   seen,
 } from "akasha/command/pages/story/turn/advance/story-turn-advance.command.test-fixtures.ts"
 import {
@@ -14,6 +20,7 @@ import {
 } from "akasha/command/pages/story/turn/modules/turn-lore-in-play/turn-lore-in-play.module.code.ts"
 import {
   noticesSent,
+  type Reach,
   type Told,
 } from "akasha/command/pages/story/turn/modules/turn-reaching/turn-reaching.module.code.ts"
 
@@ -34,6 +41,43 @@ test("a move to player pushes Alan for a written chapter as for a played turn, a
     `pushed\t${GAME}`,
   ])
   expect(after.faults).toEqual([])
+})
+
+test("only a chapter's move to player keeps its story's backlog", async () => {
+  const kept: string[] = []
+  const reach: Reach = {
+    ...pushingReach(seen(), []),
+    backlogKept: async (story) => {
+      kept.push(story)
+      return { said: `${story}\tskipped\tunread: x`, failed: false, faults: [] }
+    },
+  }
+  const after: Told = { report: [], faults: [] }
+  await noticesSent(reach, ROOT, GAME, MASTER, CHAPTER_AT, "player", after, [], "chapter")
+  await noticesSent(reach, ROOT, GAME, MASTER, AT, "player", after)
+  await noticesSent(reach, ROOT, GAME, MASTER, CHAPTER_AT, "recorders", after, [], "chapter")
+  expect(kept).toEqual([GAME])
+  expect(after.report).toContain(`backlog\t${GAME}\tskipped\tunread: x`)
+})
+
+test("an advance moving a chapter to player starts the next, and a failure is only a fault", async () => {
+  const kept: string[] = []
+  const seat = seatOf("story-recorder", "mari-story-recorder-the-saga-flex-1")
+  const argv = [...CHAPTER_ARGV, "--recorder", "memory"]
+  const keeping = (fails: boolean): Reach => ({
+    ...chapterReach(seen(), "recorders", seat, { recordedBy: ["story-recorder/cast"] }),
+    backlogKept: async (story) => {
+      kept.push(story)
+      return { said: `${story}\t${fails ? "failed" : "started"}`, failed: fails, faults: [] }
+    },
+  })
+  const started = await storyTurnAdvance(argv, GIVEN, async () => LANDED, keeping(false))
+  expect(started.refusals).toEqual([])
+  expect(started.report).toContain(`backlog\t${GAME}\tstarted`)
+  const failed = await storyTurnAdvance(argv, GIVEN, async () => LANDED, keeping(true))
+  expect(failed.report).toContain(`${GAME}-0002\trecorders\tplayer`)
+  expect(failed.refusals.join(" ")).toContain(`was not started: ${GAME}\tfailed`)
+  expect(kept).toEqual([GAME, GAME])
 })
 
 const GRACE = "character-other/grace"

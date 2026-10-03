@@ -18,6 +18,7 @@ import {
   TURN,
 } from "akasha/story/world/stories/played/turns/modules/turn-lifecycle/turn-lifecycle.module.code.ts"
 import { storyChapterWritten } from "akasha/story/world/stories/written/chapters/story-chapter-written.page-type.ts"
+import type { BacklogKept } from "akasha/story/world/stories/written/modules/nightly-chapter-writing/nightly-chapter-writing.module.code.ts"
 import { storyWritten } from "akasha/story/world/stories/written/story-written.page-type.ts"
 
 const TURN_READY = "turn-ready"
@@ -158,6 +159,26 @@ export async function readyTold(
     report.push(why === null ? `pushed\t${game}` : `unpushed\t${why}`)
   } catch (thrown) {
     report.push(`unpushed\t${whyOf(thrown)}`)
+  }
+  return undefined
+}
+
+type Saying = { readonly report: string[]; readonly faults: string[] }
+
+export async function backlogTold(
+  keep: ((story: string) => Promise<BacklogKept>) | undefined,
+  game: string,
+  after: Saying
+): Promise<undefined> {
+  if (keep === undefined) return undefined
+  const unstarted = `the next chapter of \`${game}\` was not started`
+  try {
+    const kept = await keep(game)
+    if (kept.failed) after.faults.push(`${unstarted}: ${kept.said}`)
+    else after.report.push(`backlog\t${kept.said}`)
+    for (const one of kept.faults) after.faults.push(`the next chapter of \`${game}\`: ${one}`)
+  } catch (thrown) {
+    after.faults.push(`${unstarted}: ${whyOf(thrown)}`)
   }
   return undefined
 }
