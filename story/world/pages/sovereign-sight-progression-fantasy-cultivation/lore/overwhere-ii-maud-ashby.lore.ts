@@ -45,7 +45,7 @@ export const overwhereIiMaudAshby = {
     },
     {
       fact: "Hearing of the Callow pool, Maud names it a tidepool newly opened, where the Horizon is distant.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Maud knows no tidepool was ever bailed dry; the Sea feeds it from beneath.",
