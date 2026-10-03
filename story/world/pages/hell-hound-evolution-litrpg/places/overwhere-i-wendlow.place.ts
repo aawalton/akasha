@@ -276,5 +276,9 @@ export const overwhereIWendlow = {
       fact: "Grete believed Nala's account of doing it alone.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
+    {
+      fact: "Grete writes 'Nala Arthur' on the receipt and on the 11-gold chit, and signs both.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Place
