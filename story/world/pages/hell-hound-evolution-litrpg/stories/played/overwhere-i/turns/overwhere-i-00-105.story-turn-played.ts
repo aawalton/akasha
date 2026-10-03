@@ -10,4 +10,5 @@ export const overwhereI00105 = {
   stepStatus: "step-status/game-master",
   action: "“Eh, just the second pearl for now, range should cover what I need most.”",
   lore: ["lore/overwhere-i-wendlow-2"],
+  endsAt: "2026-10-05T13:15:00.000Z",
 } as const satisfies StoryTurnPlayed
