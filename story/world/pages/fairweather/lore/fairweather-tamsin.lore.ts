@@ -13,11 +13,11 @@ export const fairweatherTamsin = {
       knowers: ["lore-disclosure/game-master", "character-other/fairweather-tamsin"],
     },
     {
-      fact: "Tamsin is slim and athletic, lean and toned, with narrow hips and small firm breasts.",
+      fact: "Tamsin is slim, lean and athletic, with an idol-pretty face, narrow hips and small firm breasts.",
       knowers: ["lore-disclosure/game-master", "character-other/fairweather-tamsin"],
     },
     {
-      fact: "Tamsin has fair skin heavy with sun freckles, bright green eyes and a crooked grin.",
+      fact: "Tamsin is Korean, with sun-kissed golden skin dusted with freckles, green eyes and a crooked grin.",
       knowers: [
         "lore-disclosure/game-master",
         "character-other/fairweather-tamsin",
