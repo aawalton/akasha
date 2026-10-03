@@ -1,0 +1,60 @@
+{"beat":1,"event":"On Day 11 Wren wakes to fewer insect voices: the long-count has changed register.","at":"2026-08-11T06:00:00.000Z","place":"place/the-places-she-carries-therons-camp","present":["character-player/the-places-she-carries-wren"]}
+{"beat":2,"event":"She counts the remaining voices and arrives at a number she knows: seven days."}
+{"beat":3,"event":"Maret left on Day 10, walking north: 'She'll tell me when she's ready.'"}
+{"beat":4,"event":"Theron is at the ruins, thumb on a mortar gap where a root and wall have settled.","at":"2026-08-11T06:30:00.000Z","place":"place/the-places-she-carries-varethen","arrive":["character-other/the-places-she-carries-theron"]}
+{"beat":5,"event":"She will survey the healer's house; the south window's light is best in the morning."}
+{"beat":6,"event":"Theron stays at his west-wall drainage work; she goes north-east alone.","leave":["character-other/the-places-she-carries-theron"]}
+{"beat":7,"event":"The healer's house threshold is worn smooth at the height of a mortar bowl.","at":"2026-08-11T07:00:00.000Z"}
+{"beat":8,"event":"The stone is warm at its surface with three centuries of south-window sun."}
+{"beat":9,"event":"She does not reach for a bond; she sits against the doorframe and draws the window."}
+{"beat":10,"event":"The window faces east of south, catching warm morning light: a healer's working light."}
+{"beat":11,"event":"She sketches storage niches in the back wall and a heat pattern in the south stonework."}
+{"beat":12,"event":"She writes: designed by someone who thought about how air moves."}
+{"beat":13,"event":"Theron finds her at midday: his grandmother spoke of a good healer here, a woman.","at":"2026-08-11T12:00:00.000Z","arrive":["character-other/the-places-she-carries-theron"]}
+{"beat":14,"event":"'She stood here every day.' 'For a long time.'"}
+{"beat":15,"event":"His first pulse, at fourteen, he notched a stick from thirty, lost it at ten, began again."}
+{"beat":16,"event":"'You can count or you can work. The counting doesn't change the number.' 'I know.'"}
+{"beat":17,"event":"He tells her the afternoon light comes from the east, and walks north to camp.","leave":["character-other/the-places-she-carries-theron"]}
+{"beat":18,"event":"She works at the threshold through the afternoon."}
+{"beat":19,"event":"The bond does not seat on Day 11, not by evening, not by lantern after dark.","at":"2026-08-11T20:00:00.000Z"}
+{"beat":20,"event":"At camp she writes: Day 11, 7 remain, and her notes on the healer's house.","at":"2026-08-11T21:30:00.000Z","place":"place/the-places-she-carries-therons-camp"}
+{"beat":21,"event":"The night's sounds are thinner: the forest is gathering, like a singer's breath."}
+{"beat":22,"event":"She dreams of stone worn smooth by use, warm and saying nothing."}
+{"beat":23,"event":"On Day 12, before the thrush, she goes alone south to the gap.","at":"2026-08-12T05:30:00.000Z","place":"place/the-places-she-carries-varethen"}
+{"beat":24,"event":"It is a fan-shaped absence: three dead ghost elms, the living ones leaning away."}
+{"beat":25,"event":"At the boundary her compass needle dips, toward the anchor, not the corruption."}
+{"beat":26,"event":"She notes: the corruption does not attract; it suppresses."}
+{"beat":27,"event":"She walks the arc clockwise, logging needle, warmth, sight, smell at each station."}
+{"beat":28,"event":"Three-quarters round, at the eastern edge, the threshold stone's warmth softens."}
+{"beat":29,"event":"Bark-shimmer is dimmer here; the gap reaches past the last dead tree."}
+{"beat":30,"event":"She sits and works the geometry: six degrees of spread now, five four days ago."}
+{"beat":31,"event":"By Day 18 the suppression field will reach the anchor's outer radius during the pulse.","at":"2026-08-12T07:00:00.000Z"}
+{"beat":32,"event":"[Dormant] wakes only at Known depth; she is at Glimpsed, with six days."}
+{"beat":33,"event":"She writes: anchor on boundary during pulse; Known depth; six days."}
+{"beat":34,"event":"That afternoon the healer's house receives her differently.","at":"2026-08-12T14:00:00.000Z"}
+{"beat":35,"event":"The room seems to know it is her, back from the gap."}
+{"beat":36,"event":"The healer built to be good now, and the good building accumulated into duration."}
+{"beat":37,"event":"[Lay the Path] opens, quiet and steady, a path long waiting."}
+{"beat":38,"event":"The bond travels from her palms to her breastbone and seats between the others."}
+{"beat":39,"event":"The threshold stone stirs like a sleeper turning toward a voice; the notch brightens."}
+{"beat":40,"event":"Three stones bearing one load: she feels the shape of what the cluster is for."}
+{"beat":41,"event":"[Kept]: the endurance of a structure built well, care calcified into mineral."}
+{"beat":42,"event":"BOND FORMED: East Secondary Structure, [Kept], cluster node 3; +1 RSV; +75 XP.","changes":[{"page":"metric-character-experience/the-places-she-carries-wren","key":"value","from":980,"to":1055,"note":"Sympathetic Bond formed: Varethen healer's house, cluster node 3"},{"page":"metric-character-stat/the-places-she-carries-wren-rsv","key":"value","from":8,"to":9,"note":"Glimpsed bond with [Kept]: +1 RSV"}]}
+{"beat":43,"event":"The first full-triad relay is enabled: the cluster can speak as one compound voice."}
+{"beat":44,"event":"Five bonds, ten connections; the network is more itself."}
+{"beat":45,"event":"She wonders what the cluster will say when the pulse comes, and goes back to camp.","at":"2026-08-12T17:00:00.000Z","place":"place/the-places-she-carries-therons-camp"}
+{"beat":46,"event":"At the third hour past midnight she wakes knowing she must go back to the gap.","at":"2026-08-13T03:00:00.000Z"}
+{"beat":47,"event":"She walks by the ghost elms' faint grey-green bark-shimmer.","place":"place/the-places-she-carries-varethen"}
+{"beat":48,"event":"At night the gap is a hole in the light, starker than any daylight survey showed."}
+{"beat":49,"event":"Her compass needle points south-southwest: it is finding the anchor, not north."}
+{"beat":50,"event":"At the boundary the [Dormant] warmth thins, as if the space is already occupied."}
+{"beat":51,"event":"She steps one pace in: the warmth compresses, the bond straining to hold."}
+{"beat":52,"event":"She steps back; the warmth spreads again, and she breathes."}
+{"beat":53,"event":"The field does not block the bond, it compresses it: worse than severing."}
+{"beat":54,"event":"During the pulse the anchor will strain; a cluster without its anchor is no cluster."}
+{"beat":55,"event":"By lantern she writes it down: suppression confirmed, compression not severance."}
+{"beat":56,"event":"An awake anchor holds differently: six days to reach Known depth at the stone."}
+{"beat":57,"event":"'I do not know if this is possible.' Then: 'I have not known if things were possible before.'"}
+{"beat":58,"event":"She closes the lantern; the ghost elms hold their light against the absence."}
+{"beat":59,"event":"Back at camp, Theron sleeping, she updates the margin column by firelight.","at":"2026-08-13T04:00:00.000Z","place":"place/the-places-she-carries-therons-camp"}
+{"beat":60,"event":"She writes 'Day 12.' The number in the margin says six."}
