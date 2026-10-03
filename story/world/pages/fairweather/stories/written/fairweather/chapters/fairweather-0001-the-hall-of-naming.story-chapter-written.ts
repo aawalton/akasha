@@ -5,7 +5,7 @@ export const fairweather0001TheHallOfNaming = {
   type: "page-type/story-chapter-written",
   slug: "fairweather-0001-the-hall-of-naming",
   cover: "image/image-26c7237373e2ba44",
-  ownProgress: 709,
+  ownProgress: 764,
   position: 1,
   unit: "unit/words",
   title: "The Hall of Naming",
