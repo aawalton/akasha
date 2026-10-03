@@ -215,5 +215,9 @@ export const overwhereIHobbsMillWeir = {
       fact: "On day 8 the wyrm hauls out to bask about 11:00 and settles within a few minutes.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "A strike at the settled, basking wyrm's head from 20 yards is easy before other bands.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Place
