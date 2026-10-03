@@ -72,6 +72,42 @@ export const overwhereIiMaudAshby = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
+      fact: "Sounding Nala, Maud feels her skin, muscle and bone refined whole, and her lungs, gut and liver.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Maud feels Nala's kidneys, the lesser organs and her heart still unrefined.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Maud has never sounded anyone refine so far in a month; Keepers take years over it.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Maud feels every one of Nala's tributaries open and carved, as if none was ever shut.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Sounding down into Nala's well, Maud finds no floor; it goes on, cold, like looking into the Sea.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Maud feels Nala's well straining downward, as a Talent's does when Descent is near.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Maud judges Nala must not Descend till her heart is refined, and that she will not wait long after.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Shaken by the floorless well, Maud draws her hand back and is quiet a long moment.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Maud then asks Nala plainly where she came from, and where she first woke.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
       fact: "Maud rode up the valley after Anselm's letters, to take Nala's measure for herself.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
