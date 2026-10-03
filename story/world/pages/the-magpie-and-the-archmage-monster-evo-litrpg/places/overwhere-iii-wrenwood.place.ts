@@ -254,7 +254,7 @@ export const overwhereIiiWrenwood = {
     },
     {
       fact: "The rotted deer lies on the Wren Brook's north bank, about three hundred paces below the ford.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
   ],
   secrets: "jsonl",
