@@ -5,7 +5,6 @@
 {"propertySlug":"import","fileName":"writer.role.ts","path":"story/world/stories/played/turns/modules/turn-advancing/turn-advancing.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"writer.role.ts","path":"story/world/stories/played/turns/modules/turn-seats/turn-seats.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"agent/role/role.page-type.ts","id":"01a053b2-2c20-7e34-9306-65f44016381a"}
-{"propertySlug":"role","path":"agent/seat/pages/iris-writer-otherwhere-iii/iris-writer-otherwhere-iii.seat.ts","id":"01a0e9d5-5dae-7000-a9e9-ddcdf35e7fc7"}
 {"propertySlug":"role","path":"agent/seat/pages/iris-writer-otherwhere-iv/iris-writer-otherwhere-iv.seat.ts","id":"01a0e9e2-9c1c-7000-83d8-5409fc0d90f2"}
 {"propertySlug":"role","path":"agent/seat/pages/iris-writer-otherwhere-ix/iris-writer-otherwhere-ix.seat.ts","id":"01a0ea22-4ea6-7000-ba58-ca59f60a63b3"}
 {"propertySlug":"role","path":"agent/seat/pages/iris-writer-otherwhere-vi/iris-writer-otherwhere-vi.seat.ts","id":"01a0ea20-4c10-7000-b95d-62a4f8e08899"}
