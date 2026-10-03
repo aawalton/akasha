@@ -57,7 +57,7 @@ export const overwhereIiiNala22 = {
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
     {
-      fact: "After feeding weaves from raw current at the shrine, Nala's palms are pink and raw.",
+      fact: "Feeding weaves from raw current at the shrine burns Nala's palms pink and raw.",
       knowers: [
         "lore-disclosure/game-master",
         "character-player/overwhere-iii-nala",
@@ -113,7 +113,7 @@ export const overwhereIiiNala22 = {
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
     {
-      fact: "On day ten the hut wolves bit Nala on calf, forearm and shoulder; blight is in all three bites.",
+      fact: "On day ten the hut wolves bit Nala four times, blighting every bite.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
     {
@@ -125,7 +125,7 @@ export const overwhereIiiNala22 = {
       ],
     },
     {
-      fact: "A fourth wolf bite on day ten left Nala with blight creeping in four bites.",
+      fact: "At the shrine Nala pulled the blight from all four bites with fed weaves and mended them shut.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
     {
