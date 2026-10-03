@@ -121,5 +121,9 @@ export const overwhereIiiCorruption2 = {
       fact: "A corrupted wolf killed the deer by the Wren Brook two nights ago; its blight is fresh.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "The deer is two days dead, its throat torn; blight still seeps in it and grays the frost around.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
