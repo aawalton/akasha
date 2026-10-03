@@ -4,10 +4,13 @@ export const overwhereIv00090 = {
   id: "01a101a8-f47e-7869-9357-a2ac09b2b98f",
   type: "page-type/story-turn-played",
   slug: "overwhere-iv-00-090",
+  ownLength: 190,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iv"],
   position: 90,
-  stepStatus: "step-status/writer",
+  prose: "txt",
+  characters: ["character-player/overwhere-iv-nala", "character-other/overwhere-iv-ilsa-crane"],
+  stepStatus: "step-status/reviewers",
   action:
     "I quietly take the ears and cores, then work my way back to town and report in at the guild.",
   beats: [
@@ -23,6 +26,12 @@ export const overwhereIv00090 = {
     '"A silver an ear, eight copper a core." Eight silver and a little heap of copper slide across.',
     'She nods at the board. "The night watch still stands. Tull\'s wants a watcher again tonight."',
   ],
-  lore: ["lore/overwhere-iv-millbrook-adventurers-hall-2"],
+  lore: [
+    "lore/overwhere-iv-ilsa-crane-2",
+    "lore/overwhere-iv-millbrook-adventurers-hall-2",
+    "lore/overwhere-iv-nala",
+    "lore/overwhere-iv-nala-2",
+    "lore/overwhere-iv-nala-3",
+  ],
   endsAt: "2026-10-07T12:56:00.000Z",
 } as const satisfies StoryTurnPlayed
