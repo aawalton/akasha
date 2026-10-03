@@ -1,0 +1,72 @@
+{"beat":1,"event":"At dawn on Day 26 Wren, Brecca and Theron leave Varethen south through the ghost-elm perimeter.","at":"2026-08-26T06:00:00.000Z","place":"place/the-places-she-carries-varethen","present":["character-player/the-places-she-carries-wren","character-other/the-places-she-carries-brecca","character-other/the-places-she-carries-theron"]}
+{"beat":2,"event":"Brecca carries her trowel, clay samples and a branch straightedge; Theron only his water skin."}
+{"beat":3,"event":"The dawn vibration comes as they cross the southern margin: for once she is walking away."}
+{"beat":4,"event":"The bond stretches without weakening; the cluster's chord compresses into a single note.","place":"place/the-places-she-carries-basin-path"}
+{"beat":5,"event":"For an hour they cross the oak-and-birch stretch; Wren says 'Slower' once to Brecca."}
+{"beat":6,"event":"Theron walks behind, unhurried, a man thirty years in the Thornwild."}
+{"beat":7,"event":"In the wild ghost-elm grove Brecca slows untold: 'These ones sound like they mean it.'","at":"2026-08-26T07:00:00.000Z"}
+{"beat":8,"event":"They climb the ridge; Theron stops twice to lay his hand on the limestone.","at":"2026-08-26T07:45:00.000Z"}
+{"beat":9,"event":"From the top the settlement shows in morning light: river, ghost-elm ring, dressed walls."}
+{"beat":10,"event":"Theron looks south and does not speak; Wren and Brecca wait."}
+{"beat":11,"event":"'My grandmother said it was gone. She said there was nothing left. She was wrong.'"}
+{"beat":12,"event":"They descend an hour into the river valley, the Greenwater's sound underlying everything."}
+{"beat":13,"event":"The ghost-elm ring looms: huge trees whose raised roots form a continuous boundary.","at":"2026-08-26T09:00:00.000Z","place":"place/the-places-she-carries-hearthstone"}
+{"beat":14,"event":"They step through a gap where a path once ran; the trees have kept it open."}
+{"beat":15,"event":"Inside stand dozens of structures, roots and branches through them, the walls still standing."}
+{"beat":16,"event":"[Wayfinder's Eye] shimmer saturates the whole site, too much for her to hold."}
+{"beat":17,"event":"Wren stands at the northern entrance, breathes, and does not try to count."}
+{"beat":18,"event":"Brecca presses both palms to a meter-thick wall and is silent thirty seconds."}
+{"beat":19,"event":"'This is not the same': sub-millimeter jointing, a stronger clay refined over generations."}
+{"beat":20,"event":"At a corner the stones are each cut to interlock: someone measured every stone first."}
+{"beat":21,"event":"Brecca counts twenty or thirty buildings and a central foundation fifteen meters a side."}
+{"beat":22,"event":"Theron stands in a worn street: the market street, river gate to gathering hall."}
+{"beat":23,"event":"He walks it as his grandmother told it: fish, herbs, stonework for sale."}
+{"beat":24,"event":"At a junction he points east: the well was on the high ground."}
+{"beat":25,"event":"They find the well: dressed limestone round a clear shaft, cool air rising.","at":"2026-08-26T10:00:00.000Z"}
+{"beat":26,"event":"A container on Brecca's rope comes up full; the water is clear, cold, and good."}
+{"beat":27,"event":"All three drink from water filtered through limestone bedrock for three centuries."}
+{"beat":28,"event":"A discovery logs the well: +42 XP; Surveying reaches 58, Journeyman tier.","changes":[{"page":"metric-character-experience/the-places-she-carries-wren","key":"value","from":1669,"to":1711,"note":"Discovery: Hearthstone well, limestone bedrock filtration"}]}
+{"beat":29,"event":"Journeyman unlocks Detail Notation: persistent survey marks for thirty days."}
+{"beat":30,"event":"For the first time her survey can be left behind for others to read."}
+{"beat":31,"event":"Her hand on the well's rim leaves a faint resonance mark."}
+{"beat":32,"event":"'What did you just do?' 'New skill. Surveying marks.' Brecca sees nothing."}
+{"beat":33,"event":"Squinting, Brecca sees the spot look cleaned, as on a dusty surface. 'Different data.'"}
+{"beat":34,"event":"In the afternoon Wren crouches at the central clearing's massive foundation blocks.","at":"2026-08-26T13:00:00.000Z"}
+{"beat":35,"event":"Her palms feel stone denser than stone: deepened, more of what it already was."}
+{"beat":36,"event":"The bond recognizes the shape of it like a word in a language she does not speak."}
+{"beat":37,"event":"A discovery logs intentional reinforcement in the central foundation: +75 XP.","changes":[{"page":"metric-character-experience/the-places-she-carries-wren","key":"value","from":1711,"to":1786,"note":"Discovery: Hearthstone central foundation, intentional reinforcement"}]}
+{"beat":38,"event":"The System says the stone remembers what it was asked to become."}
+{"beat":39,"event":"No Wayfinder or mason could do this; she sits with the mystery and does not solve it."}
+{"beat":40,"event":"At the clearing's east edge Brecca clears moss: 'There are channels under here.'","at":"2026-08-26T14:30:00.000Z"}
+{"beat":41,"event":"A grid of channels collects every drop and carries it to the garden terraces."}
+{"beat":42,"event":"'This is not one person's work. This is a tradition,' Brecca says."}
+{"beat":43,"event":"A discovery logs the integrated drainage network: +48 XP, Surveying to 63.","changes":[{"page":"metric-character-experience/the-places-she-carries-wren","key":"value","from":1786,"to":1834,"note":"Discovery: Hearthstone integrated drainage network"}]}
+{"beat":44,"event":"What Varethen did with one channel, this place did with a network."}
+{"beat":45,"event":"Wren calls Theron from the market street, where he has been counting his steps."}
+{"beat":46,"event":"'My grandmother's mother cleared a single channel. This is what they cleared before they left.'"}
+{"beat":47,"event":"His voice is steady; his hand on the stone is not."}
+{"beat":48,"event":"They camp in an intact structure open to the stars; Brecca builds the fire in its doorway.","at":"2026-08-26T20:00:00.000Z"}
+{"beat":49,"event":"The river's white noise fills the space the insects usually fill."}
+{"beat":50,"event":"Wren feels the Varethen cluster as one thin thread through the limestone, still holding."}
+{"beat":51,"event":"The bond does not need proximity; it needs the thread."}
+{"beat":52,"event":"Brecca asks if she still feels it. Four or five miles: like speech from far off."}
+{"beat":53,"event":"At the stone itself it is like someone sitting beside you, breathing."}
+{"beat":54,"event":"Theron: this place was built for hundreds, not fourteen families."}
+{"beat":55,"event":"Brecca estimates three hundred to five hundred people from the structures."}
+{"beat":56,"event":"Theron: they left, fourteen families built Varethen, then they left too."}
+{"beat":57,"event":"'The forest changed. And we left. And the walls held. The walls always hold.'"}
+{"beat":58,"event":"Brecca lays her hand on the wall beside her: 'Yes. They do.'"}
+{"beat":59,"event":"The fire burns down; the ghost-elm ring still glows, holding its ward."}
+{"beat":60,"event":"Day 27 breaks clear; Wren walks the settlement alone at dawn while the others sleep.","at":"2026-08-27T06:00:00.000Z","leave":["character-other/the-places-she-carries-brecca","character-other/the-places-she-carries-theron"]}
+{"beat":61,"event":"The shimmer is too dense to isolate; she stops trying to hold it and just walks."}
+{"beat":62,"event":"She finds held terraces, a house turned ghost-elm nursery, the worn river-gate stair."}
+{"beat":63,"event":"She bonds nothing: seeing without holding is a new discipline for her."}
+{"beat":64,"event":"She leaves Detail Notation on seven surfaces, the first survey here in three centuries."}
+{"beat":65,"event":"At midday the three of them leave north.","at":"2026-08-27T12:00:00.000Z","place":"place/the-places-she-carries-basin-path","arrive":["character-other/the-places-she-carries-brecca","character-other/the-places-she-carries-theron"]}
+{"beat":66,"event":"Wren touches the substrate twice; Brecca's fingers curl round absent stone."}
+{"beat":67,"event":"At the ridge top Theron looks back at the river valley for a long time."}
+{"beat":68,"event":"They do not talk about what they saw; the silence is full."}
+{"beat":69,"event":"In late afternoon the perimeter hums and the thread blooms back into the cluster's chord.","at":"2026-08-27T16:30:00.000Z","place":"place/the-places-she-carries-varethen"}
+{"beat":70,"event":"Nine days to the pulse; the southern settlement has no awakened anchor. She does not write it."}
+{"beat":71,"event":"Brecca carries fire stones, Theron is at the channel; Wren sits against the threshold stone.","at":"2026-08-27T18:00:00.000Z"}
+{"beat":72,"event":"She did not bond or claim the ruin, but she feels it south through the limestone, unbroken."}
