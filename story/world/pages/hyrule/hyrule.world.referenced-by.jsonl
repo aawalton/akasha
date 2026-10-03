@@ -13,3 +13,16 @@
 {"propertySlug":"world","path":"story/world/pages/hyrule/places/hyrule-shrine-of-resurrection.place.ts","id":"01a10330-06d7-715f-8242-d196bd538188"}
 {"propertySlug":"world","path":"story/world/pages/hyrule/places/hyrule-temple-of-time.place.ts","id":"01a10330-06d7-7230-b370-4ace040d5b09"}
 {"propertySlug":"world","path":"story/world/pages/hyrule/stories/written/breath-of-the-wild/breath-of-the-wild.story-written.ts","id":"01a06425-4433-7b40-bbb6-17c24f7a35ed"}
+{"propertySlug":"world","path":"story/world/pages/hyrule/stories/written/breath-of-the-wild/mechanics/currencies/breath-of-the-wild-spirit-orb.world-currency.ts","id":"01a10331-b561-7135-84de-7ea2c41c2744"}
+{"propertySlug":"world","path":"story/world/pages/hyrule/stories/written/breath-of-the-wild/mechanics/mechanics/breath-of-the-wild-cooking.world-mechanic.ts","id":"01a10331-b562-7dcd-a9ea-b3bf724b879b"}
+{"propertySlug":"world","path":"story/world/pages/hyrule/stories/written/breath-of-the-wild/mechanics/mechanics/breath-of-the-wild-cryonis.world-mechanic.ts","id":"01a10331-b562-78fa-980c-409a812cfbf5"}
+{"propertySlug":"world","path":"story/world/pages/hyrule/stories/written/breath-of-the-wild/mechanics/mechanics/breath-of-the-wild-hearts.world-mechanic.ts","id":"01a10331-b562-7ba7-bd3e-18438e2a2558"}
+{"propertySlug":"world","path":"story/world/pages/hyrule/stories/written/breath-of-the-wild/mechanics/mechanics/breath-of-the-wild-magnesis.world-mechanic.ts","id":"01a10331-b562-78c3-b148-5944ab2ea16b"}
+{"propertySlug":"world","path":"story/world/pages/hyrule/stories/written/breath-of-the-wild/mechanics/mechanics/breath-of-the-wild-remote-bomb.world-mechanic.ts","id":"01a10331-b562-777b-be79-2911c9a07aac"}
+{"propertySlug":"world","path":"story/world/pages/hyrule/stories/written/breath-of-the-wild/mechanics/mechanics/breath-of-the-wild-sheikah-slate.world-mechanic.ts","id":"01a10331-b562-75b0-b89e-24a4cea73a3d"}
+{"propertySlug":"world","path":"story/world/pages/hyrule/stories/written/breath-of-the-wild/mechanics/mechanics/breath-of-the-wild-shrines.world-mechanic.ts","id":"01a10331-b562-7928-8ce0-987fd52d0477"}
+{"propertySlug":"world","path":"story/world/pages/hyrule/stories/written/breath-of-the-wild/mechanics/mechanics/breath-of-the-wild-stasis.world-mechanic.ts","id":"01a10331-b562-7915-b18b-c7c7d376dced"}
+{"propertySlug":"world","path":"story/world/pages/hyrule/stories/written/breath-of-the-wild/mechanics/mechanics/breath-of-the-wild-time.world-mechanic.ts","id":"01a10331-b562-760f-8aa4-49cf6b934c25"}
+{"propertySlug":"world","path":"story/world/pages/hyrule/stories/written/breath-of-the-wild/mechanics/mechanics/breath-of-the-wild-weapon-wear.world-mechanic.ts","id":"01a10331-b562-70bb-b01c-3c2422217f2f"}
+{"propertySlug":"world","path":"story/world/pages/hyrule/stories/written/breath-of-the-wild/mechanics/recipes/breath-of-the-wild-spicy-meat-and-seafood-fry.world-recipe.ts","id":"01a10331-b562-71cb-901e-e8d3e2d10d72"}
+{"propertySlug":"world","path":"story/world/pages/hyrule/stories/written/breath-of-the-wild/mechanics/recipes/breath-of-the-wild-spicy-sauteed-peppers.world-recipe.ts","id":"01a10331-b562-743c-ac54-7e17a5de43c1"}
