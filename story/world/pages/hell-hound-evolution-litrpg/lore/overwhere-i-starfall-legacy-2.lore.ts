@@ -288,5 +288,9 @@ export const overwhereIStarfallLegacy2 = {
       fact: "Nala first called lightning on day 8: twin strikes from above onto the Weir Wyrm's skull.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
+    {
+      fact: "Struck by her lightning, the Weir Wyrm lay stunned a moment, unable to move.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+    },
   ],
 } as const satisfies Lore
