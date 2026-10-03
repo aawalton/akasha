@@ -1,0 +1,87 @@
+{"beat":1,"event":"Tova Fenn has delivered 847 children, and her hands remember each one's weight."}
+{"beat":2,"event":"At fifty-four, after thirty-one years, she counts: a midwife who does not count does not learn."}
+{"beat":3,"event":"843 breathed. Four did not, and four is the number she carries."}
+{"beat":4,"event":"The fourth, seven months ago, was her daughter's child, whom she delivered herself."}
+{"beat":5,"event":"She held it the first minute, as she holds every child, present and not alive."}
+{"beat":6,"event":"The unused swaddling cloth has been in her apron pocket ever since."}
+{"beat":7,"event":"A cloth merchant told her of a place that keeps what people feel at the end."}
+{"beat":8,"event":"The place held death; she held death. The correspondence was sufficient."}
+{"beat":9,"event":"No one pulled her: she passed her patients to Elenna and walked six days northeast."}
+{"beat":10,"event":"At the camp she knows a census book at once: she kept birth records like it for seventeen years.","place":"place/the-dungeon-of-one-thousand-deaths-the-camp","present":["character-other/the-dungeon-of-one-thousand-deaths-tova-fenn","character-other/the-dungeon-of-one-thousand-deaths-osren","character-other/the-dungeon-of-one-thousand-deaths-dalya"]}
+{"beat":11,"event":"\"You're a record-keeper.\" She sits uninvited. \"I'm going in tomorrow.\""}
+{"beat":12,"event":"\"How many. How deep. What killed them.\""}
+{"beat":13,"event":"Twenty deaths, four depths, three killers: the predator, the source, the Warrens."}
+{"beat":14,"event":"The source at Depth 4 radiates; two have reached it, the courier in about thirty-one minutes."}
+{"beat":15,"event":"Joints, then vision, then breathing: \"That's a fever pattern.\""}
+{"beat":16,"event":"Neither had medical training, so neither watched their own symptoms."}
+{"beat":17,"event":"\"The difference is the window\": between the first sign and the point of no return."}
+{"beat":18,"event":"\"Thirty-one minutes. That's a long labor.\""}
+{"beat":19,"event":"Dalya tells her the Warrens floor is dry bone, and the warmth begins at Depth 3."}
+{"beat":20,"event":"Osren cannot say whether the courier's joints failed on both sides, or how he breathed."}
+{"beat":21,"event":"She sleeps holding the folded cloth in her pocket, as every night for seven months."}
+{"beat":22,"event":"She enters the dungeon at dawn.","leave":["character-other/the-dungeon-of-one-thousand-deaths-tova-fenn"]}
+{"beat":23,"event":"The Gullet is alive the way a body is; her hands register its rhythm as a pulse.","place":"place/the-dungeon-of-one-thousand-deaths-the-gullet","present":["character-other/the-dungeon-of-one-thousand-deaths-tova-fenn"]}
+{"beat":24,"event":"She reads the twenty names like patient charts: two at Depth 4, none at Depth 5."}
+{"beat":25,"event":"The Ledger: Depth 2, the Marrow Warrens, Resolve +1, now 13.","place":"place/the-dungeon-of-one-thousand-deaths-the-marrow-warrens","changes":[{"page":"metric-character-stat/the-dungeon-of-one-thousand-deaths-tova-fenn-resolve","key":"value","from":12,"to":13,"note":"Depth transition into the Marrow Warrens, Resolve +1"}]}
+{"beat":26,"event":"The Ledger names her The Vigil, with the Gift Sustained Hold: what she holds does not change."}
+{"beat":27,"event":"Its Cost is Release: she cannot let go; only force or her own failing body breaks contact."}
+{"beat":28,"event":"The Ledger reads Vitality 18, Resolve 12, Attunement 7, Fortune 12."}
+{"beat":29,"event":"Voluntary: no pull, no bait. The Maw does not understand why she came."}
+{"beat":30,"event":"Letting go was the hardest part of her work; the Cost removes it."}
+{"beat":31,"event":"She moves through the shifting Warrens by feel, as through a difficult labor."}
+{"beat":32,"event":"The Still Garden is beautiful, and she does not stop.","place":"place/the-dungeon-of-one-thousand-deaths-the-still-garden","present":["character-other/the-dungeon-of-one-thousand-deaths-tova-fenn","character-other/the-dungeon-of-one-thousand-deaths-the-gorger"]}
+{"beat":33,"event":"She takes in the cracked creature, the fluid, the spear, plumb line, chisel and knife."}
+{"beat":34,"event":"This room does not need her; the creature is not her patient."}
+{"beat":35,"event":"The Ledger: Depth 3, Resolve +1, now 14.","changes":[{"page":"metric-character-stat/the-dungeon-of-one-thousand-deaths-tova-fenn-resolve","key":"value","from":13,"to":14,"note":"Depth transition into the Still Garden, Resolve +1"}]}
+{"beat":36,"event":"She walks the western edge thirty meters off; it watches her like a mother in a contraction."}
+{"beat":37,"event":"She gives it no sign, and walks through."}
+{"beat":38,"event":"The Ledger: Depth 4, the Crucible, Resolve +1, now 15.","place":"place/the-dungeon-of-one-thousand-deaths-the-crucible","present":["character-other/the-dungeon-of-one-thousand-deaths-tova-fenn","character-other/the-dungeon-of-one-thousand-deaths-the-crucible-emanator"],"changes":[{"page":"metric-character-stat/the-dungeon-of-one-thousand-deaths-tova-fenn-resolve","key":"value","from":14,"to":15,"note":"Depth transition into the Crucible, Resolve +1"}]}
+{"beat":39,"event":"Her forearms, calibrated against thermometers for thirty-one years, read twelve degrees warmer."}
+{"beat":40,"event":"Joints first, both hands, ninety seconds in: the fever pattern holds."}
+{"beat":41,"event":"She sees the two death sites, the warped notebook between them, the message tube."}
+{"beat":42,"event":"The Emanator at the centre is not threatening but old, radiating like a furnace."}
+{"beat":43,"event":"She walks toward it as toward a patient: I am here for you and not afraid."}
+{"beat":44,"event":"Four minutes: wrists stiffening, peripheral moving central, faster than fever."}
+{"beat":45,"event":"At sixty meters, where the courier arced away, she walks straight on."}
+{"beat":46,"event":"Six minutes: her field of vision narrows, as if the world were deciding what to keep."}
+{"beat":47,"event":"Forty meters: the quartz is beautiful; she notes it and does not stop."}
+{"beat":48,"event":"Nine minutes: breathing resists. This is the window, and she is past it, knowing."}
+{"beat":49,"event":"Thirty meters: the Emanator is ringed with quartz growth rings, alive like coral."}
+{"beat":50,"event":"Her Vitality of 18, the highest to reach this depth, will buy time, not enough."}
+{"beat":51,"event":"Fifteen meters: fingers will not extend, shoulders locked; the body closing in is hope."}
+{"beat":52,"event":"She reaches the Emanator, and her hands touch it, because her hands touch patients."}
+{"beat":53,"event":"Beneath the quartz is a deep, purposeful warmth, like a labouring abdomen."}
+{"beat":54,"event":"Sustained Hold activates, and for the first time in centuries the creature stops changing."}
+{"beat":55,"event":"It does not notice; it exists, and she holds it."}
+{"beat":56,"event":"Release is active: her hands will not leave it."}
+{"beat":57,"event":"She holds it as she held the four who did not breathe: being there is sometimes the job."}
+{"beat":58,"event":"The Hold freezes its state, not its output; the pressure goes on filling her."}
+{"beat":59,"event":"Nineteen minutes: breathing is a negotiation now."}
+{"beat":60,"event":"Twenty-two minutes: her knees are locked columns."}
+{"beat":61,"event":"She thinks of the cloth in her pocket: this is the last thing I will hold."}
+{"beat":62,"event":"That is not a tragedy. That is a job description."}
+{"beat":63,"event":"Twenty-six minutes: her fingers yield, as in the last stage of a long labor."}
+{"beat":64,"event":"She cannot feel her hands, only the warmth: still alive, the thing under your hands."}
+{"beat":65,"event":"The Cost and the choice are the same: a midwife holds the patient."}
+{"beat":66,"event":"Twenty-nine minutes: her sight is a coin-sized circle of quartz, rings and warmth."}
+{"beat":67,"event":"The Emanator is the opposite of the four: alive and not present. It will not remember."}
+{"beat":68,"event":"Thirty-one minutes: her knees fail, and she slides down into the quartz at its base."}
+{"beat":69,"event":"Her hands are still touching it. Final notation: warmth, both palms, ongoing."}
+{"beat":70,"event":"The last thing she feels is its weight, heavy with being, like 847 infants.","changes":[{"page":"metric-character-stat/the-dungeon-of-one-thousand-deaths-tova-fenn-vitality","key":"value","from":18,"to":0,"note":"Tova dies of the Crucible Emanator's emanation in contact with it, Vitality to 0"}]}
+{"beat":71,"event":"The death report: Tova Fenn, the Vigil, Depth 4; Sustained Hold, continuous, +3 at death.","changes":[{"page":"metric-character-stat/the-dungeon-of-one-thousand-deaths-tova-fenn-attunement","key":"value","from":7,"to":10,"note":"Sustained Hold is continuous: the flat +3 Attunement at death"}]}
+{"beat":72,"event":"Third Crucible death: at contact, Vitality 18 lasted as long as 14 did at sixty meters."}
+{"beat":73,"event":"The emanation cares how close you are and how long you stay."}
+{"beat":74,"event":"For fourteen minutes the Emanator's growth was paused: the first effect on it ever recorded."}
+{"beat":75,"event":"Her Memory Crystal is blue: grief, clean, professional, thirty-one years deep."}
+{"beat":76,"event":"Vigil's Rest: at its base the quartz stops growing and the emanation is absent."}
+{"beat":77,"event":"The Hold persists where her hands rest: the Gift outlasts the practitioner."}
+{"beat":78,"event":"The swaddling cloth, undamaged, is the Crucible's first artifact carried for someone else."}
+{"beat":79,"event":"The Maw has no category for what brought her: recognising a place that does her work."}
+{"beat":80,"event":"The Ledger records the crystal first, its second deviation in two entries."}
+{"beat":81,"event":"The Maw has never been compared to a midwife; it creates a category: Correspondent."}
+{"beat":82,"event":"The Gift is still working; the midwife is still holding."}
+{"beat":83,"event":"Osren writes her purpose as correspondence, crosses it out, and writes: stated as recognition.","place":"place/the-dungeon-of-one-thousand-deaths-the-camp","present":["character-other/the-dungeon-of-one-thousand-deaths-osren"]}
+{"beat":84,"event":"The glow was blue and lasted nine seconds, the longest he has recorded."}
+{"beat":85,"event":"He remembers her setting the cloth on his table, and taking it back. Not for the census."}
+{"beat":86,"event":"The fire still burns: 979 remain."}
+{"beat":87,"event":"TOVA FENN — DEPTH 4 — FIRST TO HOLD."}
