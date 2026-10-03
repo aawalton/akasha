@@ -1,0 +1,1 @@
+{"check":"world-check/overwhere-i-action-check","reading":{"band":"hard","bonuses":[{"from":"Attunement 90","by":4},{"from":"Starfall Weave level 5","by":2}]},"dice":{"said":"1d20","sides":20,"faces":[3]},"seed":"67b953768d9950ed24ba90a6025eae2f60fd8f100632aa809be8cb7ac69f6725","answered":{"succeeded":false,"outcome":"failure","total":9,"target":16,"margin":-7}}
