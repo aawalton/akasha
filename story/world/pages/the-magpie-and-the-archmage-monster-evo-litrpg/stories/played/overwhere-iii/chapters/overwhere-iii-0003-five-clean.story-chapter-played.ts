@@ -10,6 +10,7 @@ export const overwhereIii0003FiveClean = {
   story: "story-played/overwhere-iii",
   ownLength: 4016,
   prose: "txt",
+  beats: "jsonl",
   turnCovers: [
     {
       position: 34,
