@@ -39,6 +39,6 @@ export const overwhereIii00087 = {
     "place/overwhere-iii-the-hollow",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/inventory"],
+  recordedBy: ["story-recorder/inventory", "story-recorder/memory"],
   endsAt: "2026-10-08T17:40:00.000Z",
 } as const satisfies StoryTurnPlayed
