@@ -10,6 +10,8 @@ An issue is a beat that:
 - states a fact of the world the lore makes false, or a character acting against what is settled about them;
 - leaves a thread the story set up dropped without cause, or contradicts what an earlier turn settled.
 
+Check in one exhaustive pass: every beat against every one of these, in order, before you hand anything in, and hand in every issue that pass finds. Each run of yours costs the whole turn a trip back to the game master, so a later pass finding an issue that was there before is a miss. Where a mend moved a time, a place or who knows what, check every beat after it again.
+
 Write each issue as one line, at most 100 characters, naming the beat by number and what fails, as in: `beat 3: Ceri is at the gate, and she left for the mill in beat 1`. Hand the issues in with `--issues-file <path>` on your advance; the turn goes back to the game master to mend its beats. Hand in no file where every beat holds.
 
 Draft no edit, settle nothing and hand in no changes. Do not write the beats or the prose, and do not judge style, pacing or taste.
