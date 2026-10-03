@@ -7,9 +7,21 @@ export const overwhereIii00094 = {
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iii"],
   position: 94,
-  stepStatus: "step-status/game-master",
+  stepStatus: "step-status/writer",
   action:
     "I rest and recover my mana, while practicing with the currents, trying to come up with new spells",
+  beats: [
+    "Nala settles with her back to a shrine stone and lets her well refill.",
+    "She plays with the white-gold current, drawing it through her fingers into loose new shapes.",
+    "A spiral collapses; a strand sent wide frays. Each fed try leaves a small burn.",
+    "One shape keeps coming back: the current drawn close, lying over her own skin.",
+    "She tries to close it over her forearm. It slips, and stings her.",
+    "She tries again slower, feeding it from the current, and it settles over her like warm light.",
+    "A faint white-gold shimmer lies over her skin, and holds.",
+    "[New skill acquired – Holy Ward.]",
+    "Her well is full again. The shadows of the shrine stones are long; the sun is low over the wood.",
+    "[Holy Ward – At [Basic] level, weave white-gold close over yourself to turn blows and blight.]",
+  ],
   lore: ["lore/overwhere-iii-holy-ward"],
   endsAt: "2026-10-09T17:15:00.000Z",
 } as const satisfies StoryTurnPlayed
