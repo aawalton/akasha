@@ -130,7 +130,7 @@ export const overwhereIiCallowBeck = {
     },
     {
       fact: "Undertow driving Nala's arms makes her thrust and recovery fast, but adds no reach to the spear.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "The Warped ewes charge together like a flock, heads low, and scatter when one falls.",
