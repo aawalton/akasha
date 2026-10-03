@@ -1,0 +1,62 @@
+{"beat":1,"event":"After the insect chorus fades, Wren finds Maret at the fire's south side.","at":"2026-08-10T06:30:00.000Z","place":"place/the-places-she-carries-therons-camp","present":["character-player/the-places-she-carries-wren","character-other/the-places-she-carries-maret"]}
+{"beat":2,"event":"She has been waiting since Day 7 for the right shape of her question."}
+{"beat":3,"event":"'I need to ask you something.' 'About the pulse.' 'About bonded places during one.'"}
+{"beat":4,"event":"Maret will tell her: some from the oral record, some from watching, some from losing someone."}
+{"beat":5,"event":"The Rimfolk call it the holding: the cost of going deep without going carefully."}
+{"beat":6,"event":"A gatherer named Fell bonded a slow-water fen in the south for three months."}
+{"beat":7,"event":"She reached Familiar depth and chose to be at the fen when the Day 18 pulse came."}
+{"beat":8,"event":"The corruption wove through the open bond; Fell and the fen became one thing."}
+{"beat":9,"event":"Fell is not dead and not unhappy; she weeps with the forest when the pulse comes."}
+{"beat":10,"event":"'How long ago?' 'I was twenty-three.'"}
+{"beat":11,"event":"Wren has four bonds, two at Varethen where the ward is breached, one dormant."}
+{"beat":12,"event":"'So you are asking me if you should be elsewhere on Day 18.'"}
+{"beat":13,"event":"Fell was present, at Familiar, bond fully open; Wren is at Glimpsed in all four."}
+{"beat":14,"event":"'Everything could. The question is whether you go to ground or stay and pay attention.'"}
+{"beat":15,"event":"'Pay attention to what changes,' Maret says."}
+{"beat":16,"event":"Wren goes to the ghost-elm grove margin north of camp and listens.","at":"2026-08-10T08:00:00.000Z","place":"place/the-places-she-carries-transition-woodland","leave":["character-other/the-places-she-carries-maret"]}
+{"beat":17,"event":"The grove's hum has dropped in frequency, as if tuning for something."}
+{"beat":18,"event":"The trees are bracing, the way a joint locks before impact."}
+{"beat":19,"event":"Her compass sweep shows the shimmer packed close to the bark: the grove holds itself in."}
+{"beat":20,"event":"Observation logged: pre-pulse structural adjustment; Resonance Sensing +2."}
+{"beat":21,"event":"Passing the ruins, she sees Theron standing still in the central clearing.","at":"2026-08-10T08:45:00.000Z","place":"place/the-places-she-carries-varethen","arrive":["character-other/the-places-she-carries-theron"]}
+{"beat":22,"event":"She does not interrupt; he speaks names quietly into the air, in Rimfolk."}
+{"beat":23,"event":"He turns and sees her. 'You were at the grove.' 'They're bracing.'"}
+{"beat":24,"event":"Walking back, he knows Maret told her about the holding."}
+{"beat":25,"event":"'She doesn't give it often. That she gave it to you is also information.'"}
+{"beat":26,"event":"He judges the braced east slab could survive a winter: the beginning of an assessment."}
+{"beat":27,"event":"Wren files it as the first door, to come back to."}
+{"beat":28,"event":"Back at camp Maret is gone from the fire; Hadley probes roots in the fen margin.","at":"2026-08-10T09:30:00.000Z","place":"place/the-places-she-carries-therons-camp","arrive":["character-other/the-places-she-carries-hadley"]}
+{"beat":29,"event":"She asks Hadley what he does when the pulse comes."}
+{"beat":30,"event":"He goes upslope the night before to a clear ledge above the canopy, every cycle."}
+{"beat":31,"event":"'You're not going upslope.' 'No.' 'Okay.' He offers to stay below if she needs him."}
+{"beat":32,"event":"'Go upslope. You've been doing it that way for a reason.'"}
+{"beat":33,"event":"Upslope you feel the basin settle; it goes bird-quiet right before."}
+{"beat":34,"event":"After lunch, in the quiet camp, she takes out her mother's rosemary.","at":"2026-08-10T13:00:00.000Z","leave":["character-other/the-places-she-carries-theron","character-other/the-places-she-carries-hadley"]}
+{"beat":35,"event":"She opens it: her mother's kitchen, stone floor and cedar shelves."}
+{"beat":36,"event":"She sets it open on the stone; she wanted a scent from home, not steadying."}
+{"beat":37,"event":"Theron returns to the fire, sees the packet, and says nothing.","arrive":["character-other/the-places-she-carries-theron"]}
+{"beat":38,"event":"She wraps it loosely into her jacket pocket to smell while she works."}
+{"beat":39,"event":"She feels the network: the Shelf unchanged, and the Eye different."}
+{"beat":40,"event":"The Eye pulses through the bond like slow breathing: awake, watching something."}
+{"beat":41,"event":"The threshold stone's dormant warmth flickers, aware something approaches."}
+{"beat":42,"event":"Her palm on the ground feels a pre-tremor. It knows; all of it knows."}
+{"beat":43,"event":"She writes it down: the Eye watching south, stone pre-tremor, grove bracing."}
+{"beat":44,"event":"In the late afternoon she tells Theron she is going to the Eye, and goes alone.","at":"2026-08-10T16:00:00.000Z","place":"place/the-places-she-carries-transition-woodland","leave":["character-other/the-places-she-carries-theron"]}
+{"beat":45,"event":"The amber channels run faster; the water table is rising."}
+{"beat":46,"event":"The pool is still, its greenish-silver light pulsing at the center by day.","at":"2026-08-10T16:30:00.000Z","place":"place/the-places-she-carries-wardens-eye"}
+{"beat":47,"event":"Through [Reflective] she feels it attending far to the south-southeast."}
+{"beat":48,"event":"She reaches through the Glimpsed bond to hear what the Eye hears, and cannot."}
+{"beat":49,"event":"Glimpsed means the place knows you; it does not mean sharing what it knows."}
+{"beat":50,"event":"The threshold stone's warmth flickers once in the Eye's rhythm: a relay through her."}
+{"beat":51,"event":"The Eye gave what it could, its rhythm, passed to the stone."}
+{"beat":52,"event":"She writes: first cross-family signal, Elemental receiving Ecological."}
+{"beat":53,"event":"Known depth is where she would learn what a place knows; it needs more time."}
+{"beat":54,"event":"She will have to choose: give the Eye sustained attention rather than range out."}
+{"beat":55,"event":"'The Eye knows something about the pulse. I don't have the depth to ask it.'"}
+{"beat":56,"event":"She stays until the light changes, then walks back.","at":"2026-08-10T18:30:00.000Z"}
+{"beat":57,"event":"At camp the fire is going; Theron sits south, Hadley narrates root-tendon geometry.","at":"2026-08-10T19:15:00.000Z","place":"place/the-places-she-carries-therons-camp","arrive":["character-other/the-places-she-carries-theron","character-other/the-places-she-carries-hadley"]}
+{"beat":58,"event":"After dinner she lays nine palm-sized stones in a row at the camp's edge.","at":"2026-08-10T21:00:00.000Z","leave":["character-other/the-places-she-carries-theron","character-other/the-places-she-carries-hadley"]}
+{"beat":59,"event":"Nine stones, the count outside her head; from here they look like a sentence."}
+{"beat":60,"event":"She carries Fell's story as information, not fear: the Eye knows, she must go deeper."}
+{"beat":61,"event":"She recalls the name Rask, the solitary figure Theron warned her of on Day 1: the second door."}
+{"beat":62,"event":"'Fell made a choice. Her choice was not wrong.' She goes to sleep."}
