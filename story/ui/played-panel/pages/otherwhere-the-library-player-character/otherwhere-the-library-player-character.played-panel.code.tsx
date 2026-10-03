@@ -17,4 +17,6 @@ export const Panel = panelBy(PlayerCharacterPanel, ({ envelope, run }) => ({
       envelope.sheet?.status !== undefined,
     showsBonds: false,
   },
+  turns: run.turns,
+  turnsPageTypeSlug: run.turnsPageTypeSlug,
 }))

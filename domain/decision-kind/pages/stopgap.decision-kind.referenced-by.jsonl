@@ -59,6 +59,7 @@
 {"propertySlug":"decision-kind","path":"persona/properties/mobile-wallpaper.relation-property.ts","id":"01a0c61d-f8be-7dee-97dc-2a9bb1313d4f"}
 {"propertySlug":"decision-kind","path":"story/engine/beat-state/modules/beat-replay/beat-replay.module.ts","id":"01a10238-e959-79ba-9502-1029307633d5"}
 {"propertySlug":"decision-kind","path":"story/engine/core/modules/action-bar-message/action-bar-message.module.ts","id":"01a05b71-e542-79f6-8369-4b9b67355af8"}
+{"propertySlug":"decision-kind","path":"story/ui/played-panel/pages/other-characters/other-characters.played-panel.ts","id":"01a0e81f-b53a-7ac1-a0c7-8ad8ee82a3aa"}
 {"propertySlug":"decision-kind","path":"story/world/stories/played/turns/modules/turn-advancing/turn-advancing.module.ts","id":"01a1022f-b5dc-7b0c-91af-b84b4c92f314"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/combat/modules/data-encode-runtime/data-encode-runtime.module.ts","id":"01a06061-96a0-7c1f-a7ed-6104c85448b3"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/items/crafting-station/alchemy-station-declarations/alchemy-station-declarations.type-declaration.ts","id":"01a0620a-a167-700f-b76f-c3f7f43297aa"}

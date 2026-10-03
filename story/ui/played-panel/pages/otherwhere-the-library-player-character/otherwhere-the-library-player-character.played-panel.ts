@@ -4,7 +4,7 @@ export const otherwhereTheLibraryPlayerCharacter = {
   id: "01a0e81f-b53b-713a-a982-cd2e49fd35ad",
   type: "page-type/played-panel",
   slug: "otherwhere-the-library-player-character",
-  definition: "Otherwhere's player character: name, cover, then a sheet without bonds",
+  definition: "Otherwhere's player character with a sheet without bonds, then the other characters",
   code: "tsx",
   drawn: "js",
   place: "panel-place/aside",

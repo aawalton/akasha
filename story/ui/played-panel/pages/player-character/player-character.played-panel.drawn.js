@@ -11,4 +11,6 @@ export const Panel = panelBy(PlayerCharacterPanel, ({ run }) => ({
   player: run.player,
   showsCover: true,
   sheet: null,
+  turns: run.turns,
+  turnsPageTypeSlug: run.turnsPageTypeSlug,
 }))
