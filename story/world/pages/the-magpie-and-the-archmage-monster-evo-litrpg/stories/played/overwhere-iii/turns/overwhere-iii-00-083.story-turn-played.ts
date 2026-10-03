@@ -48,7 +48,7 @@ export const overwhereIii00083 = {
     "lore/overwhere-iii-mother-sallow",
     "lore/overwhere-iii-nala",
     "lore/overwhere-iii-nala-2",
-    "lore/overwhere-iii-nala-2-2",
+    "lore/overwhere-iii-nala-3",
   ],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
   recordedBy: [

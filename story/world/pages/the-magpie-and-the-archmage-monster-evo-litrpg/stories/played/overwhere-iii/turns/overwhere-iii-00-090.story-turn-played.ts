@@ -32,7 +32,7 @@ export const overwhereIii00090 = {
     "lore/overwhere-iii-corruption-2",
     "lore/overwhere-iii-nala",
     "lore/overwhere-iii-nala-2",
-    "lore/overwhere-iii-nala-2-2",
+    "lore/overwhere-iii-nala-3",
   ],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
   recordedBy: [

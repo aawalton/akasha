@@ -43,7 +43,7 @@ export const overwhereIii00074 = {
     "lore/overwhere-iii-marda-hesk-2",
     "lore/overwhere-iii-nala",
     "lore/overwhere-iii-nala-2",
-    "lore/overwhere-iii-nala-2-2",
+    "lore/overwhere-iii-nala-3",
     "place/overwhere-iii-merrowgate-guild-post",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],

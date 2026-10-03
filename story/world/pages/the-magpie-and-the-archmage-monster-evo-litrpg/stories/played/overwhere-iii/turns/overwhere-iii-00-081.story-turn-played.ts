@@ -35,7 +35,7 @@ export const overwhereIii00081 = {
     "lore/overwhere-iii-mother-sallow",
     "lore/overwhere-iii-nala",
     "lore/overwhere-iii-nala-2",
-    "lore/overwhere-iii-nala-2-2",
+    "lore/overwhere-iii-nala-3",
     "place/overwhere-iii-wrenwood",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],

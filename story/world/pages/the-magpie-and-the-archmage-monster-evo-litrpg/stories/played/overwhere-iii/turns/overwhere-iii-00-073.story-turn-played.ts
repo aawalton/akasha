@@ -40,7 +40,7 @@ export const overwhereIii00073 = {
     "lore/overwhere-iii-marda-hesk",
     "lore/overwhere-iii-nala",
     "lore/overwhere-iii-nala-2",
-    "lore/overwhere-iii-nala-2-2",
+    "lore/overwhere-iii-nala-3",
     "place/overwhere-iii-wrenwood-crossroads",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],

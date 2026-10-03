@@ -36,7 +36,7 @@ export const overwhereIii00067 = {
     "lore/overwhere-iii-mending-weave",
     "lore/overwhere-iii-nala",
     "lore/overwhere-iii-nala-2",
-    "lore/overwhere-iii-nala-2-2",
+    "lore/overwhere-iii-nala-3",
   ],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
   recordedBy: [

@@ -1,10 +1,10 @@
 import type { Lore } from "akasha/story/lore/lore.page-type.types.ts"
 
-export const overwhereIiiBrannaghTull22 = {
+export const overwhereIiiBrannaghTull3 = {
   id: "01a101d6-4a2d-73ae-9a41-34dd0ad7dcd5",
   type: "page-type/lore",
-  slug: "overwhere-iii-brannagh-tull-2-2",
-  title: "Brannagh Tull, continued, continued",
+  slug: "overwhere-iii-brannagh-tull-3",
+  title: "Brannagh Tull, continued",
   world: "world/the-magpie-and-the-archmage-monster-evo-litrpg",
   about: "character-other/overwhere-iii-brannagh-tull",
   facts: [

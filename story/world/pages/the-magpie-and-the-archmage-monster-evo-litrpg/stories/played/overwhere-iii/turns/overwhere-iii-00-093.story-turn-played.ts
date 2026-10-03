@@ -44,7 +44,7 @@ export const overwhereIii00093 = {
     "lore/overwhere-iii-marda-hesk-2",
     "lore/overwhere-iii-nala",
     "lore/overwhere-iii-nala-2",
-    "lore/overwhere-iii-nala-2-2",
+    "lore/overwhere-iii-nala-3",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
   recordedBy: [

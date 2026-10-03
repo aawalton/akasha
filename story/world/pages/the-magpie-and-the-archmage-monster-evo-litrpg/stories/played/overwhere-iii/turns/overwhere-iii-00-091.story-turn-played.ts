@@ -28,7 +28,7 @@ export const overwhereIii00091 = {
     "lore/overwhere-iii-corruption-2",
     "lore/overwhere-iii-nala",
     "lore/overwhere-iii-nala-2",
-    "lore/overwhere-iii-nala-2-2",
+    "lore/overwhere-iii-nala-3",
     "place/overwhere-iii-merrowgate-guild-post",
   ],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],

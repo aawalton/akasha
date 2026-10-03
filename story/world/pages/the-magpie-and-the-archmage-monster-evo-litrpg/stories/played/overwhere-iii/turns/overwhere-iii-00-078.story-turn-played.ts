@@ -35,7 +35,7 @@ export const overwhereIii00078 = {
     "lore/overwhere-iii-mending-weave",
     "lore/overwhere-iii-nala",
     "lore/overwhere-iii-nala-2",
-    "lore/overwhere-iii-nala-2-2",
+    "lore/overwhere-iii-nala-3",
     "place/overwhere-iii-crook-and-candle",
     "place/overwhere-iii-merrowgate",
     "place/overwhere-iii-merrowgate-guild-post",
