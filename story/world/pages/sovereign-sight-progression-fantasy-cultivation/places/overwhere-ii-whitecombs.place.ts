@@ -201,7 +201,7 @@ export const overwhereIiWhitecombs = {
     },
     {
       fact: "The day-twenty-six thunder cracked the Callow cwm's lip, and the pool spilled out through the crack.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "The crack in the cwm's lip is a yard wide; the pool's thin black trickle still runs out of it.",
