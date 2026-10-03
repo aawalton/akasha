@@ -190,7 +190,7 @@ export const overwhereIiCallowBeck = {
     },
     {
       fact: "Ebba left oatcakes, goat's cheese and peat for the hearth; the rain barrel's water is clean.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Hawise takes the first watch by the longhouse fire without being asked.",
