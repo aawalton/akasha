@@ -89,5 +89,14 @@ export const fairweatherExplicitness = {
       decisionKind: "decision-kind/departure",
       statement: "Every character in Fairweather is an adult.",
     },
+    {
+      decisionKind: "decision-kind/absence",
+      statement: "No scene image shows a bare breast, nipple or pussy.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A picture of a bare moment covers her with a towel or sheet, or turns or crops her.",
+    },
   ],
 } as const satisfies Domain
