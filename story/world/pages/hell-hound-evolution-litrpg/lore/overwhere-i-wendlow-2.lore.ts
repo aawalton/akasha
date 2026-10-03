@@ -302,7 +302,7 @@ export const overwhereIWendlow2 = {
     },
     {
       fact: "Bargemen in the taproom say the Weir Wyrm took a bowman off a barge below Hobb's weir two days ago.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
     {
       fact: "Nala's night at the Bell and Barrel passes quietly; she wakes rested about 6:00 on day 8.",
