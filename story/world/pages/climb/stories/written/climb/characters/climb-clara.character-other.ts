@@ -7,4 +7,5 @@ export const climbClara = {
   title: "Clara",
   story: "story-written/climb",
   cover: "image/image-4245fb8b8d3d84d1",
+  place: "place/climb-floor-1",
 } as const satisfies CharacterOther

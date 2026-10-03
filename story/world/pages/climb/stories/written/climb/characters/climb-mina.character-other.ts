@@ -7,4 +7,5 @@ export const climbMina = {
   title: "Mina",
   story: "story-written/climb",
   cover: "image/image-4c6b34f00de1d8e9",
+  place: "place/climb-floor-2",
 } as const satisfies CharacterOther
