@@ -33,7 +33,7 @@ export const overwhereIiMaudAshby = {
     },
     {
       fact: "On the night of day twenty-eight Maud lodges at the Threll shrine, on Anselm's cot, awake late.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Maud wants to take Nala's measure, keep her from Descending unguided, and teach her.",
