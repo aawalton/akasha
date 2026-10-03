@@ -300,5 +300,9 @@ export const overwhereIStarfallLegacy2 = {
       fact: "A stone spike is a Surge blast for harm, striking from below where a belly lies unwarded.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Twin spikes into one long body need not meet, so they are not a band harder.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
