@@ -280,5 +280,9 @@ export const overwhereIStarfallLegacy2 = {
       fact: "A lightning strike cracks like thunder; anyone within a mile hears it.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "A lightning strike is a Surge blast for harm; no scale, hide or metal wards it.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
