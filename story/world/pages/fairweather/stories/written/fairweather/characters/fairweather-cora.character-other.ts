@@ -6,5 +6,6 @@ export const fairweatherCora = {
   slug: "fairweather-cora",
   title: "Cora",
   story: "story-written/fairweather",
+  place: "place/fairweather-lanternmere",
   cover: "image/image-dad85fbf3d319232",
 } as const satisfies CharacterOther
