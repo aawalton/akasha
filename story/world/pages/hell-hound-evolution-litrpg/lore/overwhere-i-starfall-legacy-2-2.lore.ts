@@ -16,5 +16,9 @@ export const overwhereIStarfallLegacy22 = {
       fact: "Felting a hand-span wool tear shut takes Nala about five minutes.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
+    {
+      fact: "On wool, fire with air singes, air with water wets and fluffs, and fire with earth stiffens it.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+    },
   ],
 } as const satisfies Lore
