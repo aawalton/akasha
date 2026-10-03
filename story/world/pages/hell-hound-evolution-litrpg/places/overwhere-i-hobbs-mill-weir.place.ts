@@ -183,5 +183,9 @@ export const overwhereIHobbsMillWeir = {
       fact: "The Pike's crew of three watch Nala and Jory from their deck in silence.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
+    {
+      fact: "The wyrm basks on the weir apron's east third, by the mill, belly down with its head on the stone.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Place
