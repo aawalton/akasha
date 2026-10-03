@@ -14,4 +14,5 @@ export const overwhereIii00097 = {
     "place/overwhere-iii-merrowgate-guild-post",
     "place/overwhere-iii-wrenwood",
   ],
+  endsAt: "2026-10-10T14:19:00.000Z",
 } as const satisfies StoryTurnPlayed
