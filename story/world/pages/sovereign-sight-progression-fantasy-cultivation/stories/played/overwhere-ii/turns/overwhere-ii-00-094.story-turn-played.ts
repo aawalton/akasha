@@ -36,5 +36,6 @@ export const overwhereIi00094 = {
     "lore/overwhere-ii-varrow-talented",
     "place/overwhere-ii-varrow-keep",
   ],
+  reviewedBy: ["story-reviewer/continuity"],
   endsAt: "2026-10-22T07:05:00.000Z",
 } as const satisfies StoryTurnPlayed
