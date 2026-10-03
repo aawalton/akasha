@@ -98,7 +98,7 @@ export const overwhereIiiMotherSallow = {
     },
     {
       fact: "Her two corrupted wolves are Level 16 and Level 18; one has a torn ear.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-mother-sallow"],
     },
     {
       fact: "A holy pull tears at the blight in a blight mage's own well; it hurts her far worse than force.",
