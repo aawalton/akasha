@@ -29,8 +29,13 @@ export const overwhereI00098 = {
     "Then she looks back at Nala, slow and careful, her scarred hands flat on the counter.",
     '"Your level says ten. Harl Voss was twenty-four. Who else was in it with you?"',
   ],
-  lore: ["lore/overwhere-i-nala", "lore/overwhere-i-nala-2", "place/overwhere-i-wendlow"],
+  lore: [
+    "lore/overwhere-i-grete-holm",
+    "lore/overwhere-i-nala",
+    "lore/overwhere-i-nala-2",
+    "place/overwhere-i-wendlow",
+  ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/memory"],
+  recordedBy: ["story-recorder/inventory", "story-recorder/memory", "story-recorder/mechanics"],
   endsAt: "2026-10-05T12:17:00.000Z",
 } as const satisfies StoryTurnPlayed
