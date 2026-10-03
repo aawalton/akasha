@@ -10,6 +10,6 @@ export const hollowmere = {
   unit: "unit/words",
   chapterBreak: "A day at Hollowmere ends.",
   coordinatorAgent: "mari-game-master-hollowmere",
-  following: true,
+  following: false,
   panels: ["played-panel/player-character", "played-panel/scene-cover"],
 } as const satisfies StoryWritten
