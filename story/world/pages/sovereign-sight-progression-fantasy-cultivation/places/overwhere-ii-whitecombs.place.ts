@@ -277,7 +277,7 @@ export const overwhereIiWhitecombs = {
     },
     {
       fact: "Where the bead seeps through leather it leaves a grey, salt-stiff stain.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Touching Nala's skin, the bead soaks in and sinks into her well, cold, and does her no harm.",
