@@ -7,7 +7,8 @@ export const overwhereIii00082 = {
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iii"],
   position: 82,
-  stepStatus: "step-status/world-builder",
+  stepStatus: "step-status/game-master",
   action:
     "I hit her with the braid at full power, without warning. Then again and again until the notification hits.",
+  lore: ["lore/overwhere-iii-mother-sallow"],
 } as const satisfies StoryTurnPlayed
