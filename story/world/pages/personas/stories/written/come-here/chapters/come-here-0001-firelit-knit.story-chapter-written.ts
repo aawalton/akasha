@@ -10,4 +10,5 @@ export const comeHere0001FirelitKnit = {
   ownLength: 998,
   unit: "unit/words",
   prose: "txt",
+  beats: "jsonl",
 } as const satisfies StoryChapterWritten
