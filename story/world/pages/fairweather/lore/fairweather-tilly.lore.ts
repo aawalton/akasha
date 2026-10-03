@@ -13,11 +13,11 @@ export const fairweatherTilly = {
       knowers: ["lore-disclosure/game-master", "character-other/fairweather-tilly"],
     },
     {
-      fact: "Tilly is small, slender and petite, with narrow shoulders and a flat chest.",
+      fact: "Tilly is small and petite, with a sweet doll-like idol's face, narrow shoulders and a flat chest.",
       knowers: ["lore-disclosure/game-master", "character-other/fairweather-tilly"],
     },
     {
-      fact: "Tilly has fair skin with soot on one cheek, big bright blue eyes, and a quick, lopsided smile.",
+      fact: "Tilly is Japanese, fair-skinned with soot on one cheek, big bright blue eyes and a lopsided smile.",
       knowers: [
         "lore-disclosure/game-master",
         "character-other/fairweather-tilly",
