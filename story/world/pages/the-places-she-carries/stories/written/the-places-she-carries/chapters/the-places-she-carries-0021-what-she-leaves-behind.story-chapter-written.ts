@@ -10,4 +10,6 @@ export const thePlacesSheCarries0021WhatSheLeavesBehind = {
   ownLength: 3097,
   unit: "unit/words",
   prose: "txt",
+  beats: "jsonl",
+  stepStatus: "step-status/player",
 } as const satisfies StoryChapterWritten

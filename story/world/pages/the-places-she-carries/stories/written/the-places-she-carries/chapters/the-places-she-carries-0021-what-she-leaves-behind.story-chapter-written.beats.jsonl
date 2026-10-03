@@ -1,0 +1,60 @@
+{"beat":1,"event":"Day 38, before dawn: Hadley readies his pack with three days of provisions.","at":"2026-09-07T05:00:00.000Z","place":"place/the-places-she-carries-varethen","present":["character-player/the-places-she-carries-wren","character-other/the-places-she-carries-theron","character-other/the-places-she-carries-hadley","character-other/the-places-she-carries-maret","character-other/the-places-she-carries-brecca"]}
+{"beat":2,"event":"'I will be back by Day 40. Probably Day 39 if the ridgeline is clear.'"}
+{"beat":3,"event":"Wren hands him the letter; he tucks it into the waterproof pocket without looking."}
+{"beat":4,"event":"Hadley notes the ghost-elm shimmer now reaches twenty meters past its Day 32 line."}
+{"beat":5,"event":"'The Holding changed the range. Not just the settlement. The trees.'"}
+{"beat":6,"event":"'Count on the way.' 'I always count.' He gives the Rimfolk sign for 'I will be back.'"}
+{"beat":7,"event":"Hadley walks north through the ghost-elm perimeter; the settlement is four.","leave":["character-other/the-places-she-carries-hadley"]}
+{"beat":8,"event":"Brecca stands at the hall's north wall with her hands at her sides, not working.","at":"2026-09-07T06:00:00.000Z"}
+{"beat":9,"event":"Wren watches from the fire pit and does not go over."}
+{"beat":10,"event":"Brecca lays her palm on the wall, flinches, and pulls it back."}
+{"beat":11,"event":"'It is loud. Three hundred years of hands, all talking at once.'"}
+{"beat":12,"event":"Wren goes to her: 'What does it sound like?' 'Not sound. Weight.'"}
+{"beat":13,"event":"Her own work is a thin warm top layer, the healer's beneath, the builders heaviest of all."}
+{"beat":14,"event":"Wren says that is the [Foundation Stone] signature, felt as weight instead of vibration."}
+{"beat":15,"event":"'How long did it take you to stand it?' 'Thirty-six days.'"}
+{"beat":16,"event":"Brecca puts her hand back and holds, jaw set, without flinching."}
+{"beat":17,"event":"'Start with the top layer. Your work.' Brecca's shoulders loosen a degree."}
+{"beat":18,"event":"'I can feel my thumbprints in the joints.' 'That is [Pressed Intention].'"}
+{"beat":19,"event":"'It named it. It did not explain it. Show me what you see.'"}
+{"beat":20,"event":"Wren lays Detail Notation beside Brecca's hand: the intention layer is clearer than yesterday."}
+{"beat":21,"event":"Wren calls Brecca's signature fragile, then corrects herself: 'Young.'"}
+{"beat":22,"event":"Brecca feels Wren's mark as a window, giving the stone more vocabulary."}
+{"beat":23,"event":"The builders' layer is not heavy but certain: they never checked, they knew."}
+{"beat":24,"event":"'I have been listening for three weeks.' 'That is three weeks more than yesterday.'"}
+{"beat":25,"event":"Late morning Wren finds Theron waist-deep in the eastern channel.","at":"2026-09-07T10:30:00.000Z"}
+{"beat":26,"event":"The east branch runs thirty meters, turns south, and changes to older coursed rubble."}
+{"beat":27,"event":"It widens into a basin ending in a half-buried stone-lined cistern."}
+{"beat":28,"event":"The cap is a fitted dressed stone with a thumb-width hole lined by a stone collar."}
+{"beat":29,"event":"It stored rain from the settlement's drainage; his grandmother never mentioned a cistern."}
+{"beat":30,"event":"'Because this was in the gap.' Theron reads the collar's craft with his thumb."}
+{"beat":31,"event":"Dressed stone shows under the soil past the cistern: the channel goes on south."}
+{"beat":32,"event":"Wren reaches through the bond; the signal is faint at this distance."}
+{"beat":33,"event":"She pushes for detail and hits the limit of Journeyman Surveying: frosted glass."}
+{"beat":34,"event":"She stops pushing and stays with what she cannot read, listening to the frost."}
+{"beat":35,"event":"[Keen Survey] unlocks, waiting since Level 5 for her to need it."}
+{"beat":36,"event":"She activates it: water table four meters, three-layer limestone like the threshold stone."}
+{"beat":37,"event":"At the edge of its range she finds a second cistern south, in corrupted ground."}
+{"beat":38,"event":"A discovery logs the eastern water infrastructure: +64 XP, 2111 / 2573.","changes":[{"page":"metric-character-experience/the-places-she-carries-wren","key":"value","from":2047,"to":2111,"note":"Discovery: Varethen eastern water infrastructure"}]}
+{"beat":39,"event":"'There is a second cistern. South.' A hundred and fifty to two hundred meters."}
+{"beat":40,"event":"'We will need more than one degree.' 'Yes.'"}
+{"beat":41,"event":"'The next pulse is seventeen days.' 'Sixteen now.' Theron nods: a decision made."}
+{"beat":42,"event":"Brecca has stood two hours at the north wall, learning to hear her own work."}
+{"beat":43,"event":"In the afternoon Maret, packed and waiting, gathers them at the fire pit.","at":"2026-09-07T14:00:00.000Z"}
+{"beat":44,"event":"'The carried stone stays. My grandmother carried it sixty years so it could come home.'"}
+{"beat":45,"event":"She gives Theron her counting rod; she will cut a new one."}
+{"beat":46,"event":"To Brecca: 'When the walls teach you what you do not understand, walk north.'"}
+{"beat":47,"event":"Brecca nods without speaking."}
+{"beat":48,"event":"To Wren: the builders called this place not the Thornwild but the Vael."}
+{"beat":49,"event":"Vael means 'the place that sings': before the corruption, the land itself sang."}
+{"beat":50,"event":"Wren writes the word in her journal."}
+{"beat":51,"event":"Said at the threshold stone during dawn, the stone may answer differently. 'You will find out.'"}
+{"beat":52,"event":"Maret touches Theron's cheek for three seconds; he closes his eyes."}
+{"beat":53,"event":"Maret walks north without turning or waving, up the escarpment trail.","leave":["character-other/the-places-she-carries-maret"]}
+{"beat":54,"event":"Wren watches until she is a shape on the ridge, and then just the ridge."}
+{"beat":55,"event":"The evening fire is three; Theron sits in Maret's place, hand on her rod.","at":"2026-09-07T20:00:00.000Z"}
+{"beat":56,"event":"Brecca keeps her palms on the hall wall, no longer overwhelmed, practicing."}
+{"beat":57,"event":"Wren journals Hadley's departure, the shimmer's reach, Keen Survey, the cistern network."}
+{"beat":58,"event":"She writes of Maret's gifts: the rod, the name Vael, Brecca's instruction, the stone left."}
+{"beat":59,"event":"The drift is one day; sixteen days to the third pulse. 'Three tomorrow.'"}
+{"beat":60,"event":"The fire burns down; the stone sings in the dark and three people hold the settlement."}
