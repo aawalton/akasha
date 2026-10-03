@@ -14,7 +14,7 @@ export const overwhereIiiCurrentKnot = {
     },
     {
       fact: "Clashing colors knotted with no weave's shape fight each other and burst.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
     {
       fact: "The burst strikes as a crushing blow at the knot's heart, and heavy within five paces of it.",
