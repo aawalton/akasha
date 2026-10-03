@@ -208,5 +208,9 @@ export const overwhereIWendlow2 = {
       fact: "Nala's two-pearl ring costs 10 gold; Ilse takes 5 now and her drake-pearl, and 5 at hand-over.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Nala's two-pearl ring will be ready at Ilse's shop by the afternoon of day 11.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
