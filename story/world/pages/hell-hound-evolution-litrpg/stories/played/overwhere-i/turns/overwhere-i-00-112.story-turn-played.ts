@@ -10,7 +10,7 @@ export const overwhereI00112 = {
   position: 112,
   prose: "txt",
   characters: ["character-player/overwhere-i-nala"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/recorders",
   action:
     "I carefully go over to it, staying out of biting range, then use my spinning water disk to remove the head and carefully disect the beast for the bile sac, which I store in the jar",
   beats: [
@@ -35,6 +35,6 @@ export const overwhereI00112 = {
     "lore/overwhere-i-nala-2",
     "place/overwhere-i-hobbs-mill-weir",
   ],
-  reviewedBy: ["story-reviewer/continuity"],
+  reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
   endsAt: "2026-10-06T12:02:00.000Z",
 } as const satisfies StoryTurnPlayed
