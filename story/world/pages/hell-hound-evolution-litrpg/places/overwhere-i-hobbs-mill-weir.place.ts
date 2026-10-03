@@ -293,7 +293,7 @@ export const overwhereIHobbsMillWeir = {
     },
     {
       fact: "The wyrm's head weighs about 80 pounds, a heavy load to carry two hours without help.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
     {
       fact: "Opening the wyrm to reach its bile sac takes about twenty minutes of cutting.",
