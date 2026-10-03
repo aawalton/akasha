@@ -4,7 +4,6 @@
 {"propertySlug":"import","fileName":"world-builder.role.ts","path":"story/world/stories/played/turns/modules/turn-seats/turn-seats.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"agent/role/role.page-type.ts","id":"01a053b2-2c20-7e34-9306-65f44016381a"}
 {"propertySlug":"role","path":"agent/seat/pages/iris-world-builder-otherwhere-ix/iris-world-builder-otherwhere-ix.seat.ts","id":"01a0ea21-ca28-7000-a43b-9bc093d3b5f5"}
-{"propertySlug":"role","path":"agent/seat/pages/iris-world-builder-otherwhere-vii/iris-world-builder-otherwhere-vii.seat.ts","id":"01a0ea20-88a2-7000-b97d-171fea064363"}
 {"propertySlug":"role","path":"agent/seat/pages/iris-world-builder-otherwhere-viii/iris-world-builder-otherwhere-viii.seat.ts","id":"01a0ea21-15ce-7000-a743-2f5895424ba8"}
 {"propertySlug":"role","path":"agent/seat/pages/iris-world-builder-otherwhere-x/iris-world-builder-otherwhere-x.seat.ts","id":"01a0ea61-c13d-7000-a1d8-29e434aa243c"}
 {"propertySlug":"role","path":"agent/seat/pages/iris-world-builder-otherwhere-xi/iris-world-builder-otherwhere-xi.seat.ts","id":"01a0ea64-81ba-7000-84ca-88fc2575f736"}
