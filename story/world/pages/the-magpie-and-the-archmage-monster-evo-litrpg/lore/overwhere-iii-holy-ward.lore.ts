@@ -38,7 +38,7 @@ export const overwhereIiiHolyWard = {
     },
     {
       fact: "Her first Holy Ward that holds earns: [New skill acquired – Holy Ward.]",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
     {
       fact: "[Holy Ward – At [Basic] level, weave white-gold close over yourself to turn blows and blight.]",
