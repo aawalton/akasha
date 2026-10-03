@@ -244,5 +244,9 @@ export const overwhereIWendlow = {
       fact: "Grete accepted Ghost-Eye's head as proof; the dicing hunters fell silent at Voss's face.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
+    {
+      fact: "Grete gives one short laugh, says the march has a use for mad ones, and unlocks the strongbox.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Place
