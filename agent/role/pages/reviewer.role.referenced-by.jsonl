@@ -8,3 +8,4 @@
 {"propertySlug":"import","fileName":"reviewer.role.ts","path":"story/world/stories/played/turns/modules/turn-advancing/turn-advancing.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"agent/role/role.page-type.ts","id":"01a053b2-2c20-7e34-9306-65f44016381a"}
 {"propertySlug":"role","path":"agent/seat/pages/mari-reviewer-hollowmere-flex-1/mari-reviewer-hollowmere-flex-1.seat.ts","id":"01a10237-54f2-7000-9bf5-7d0138e883ec"}
+{"propertySlug":"role","path":"agent/seat/pages/mari-reviewer-hollowmere-flex-2/mari-reviewer-hollowmere-flex-2.seat.ts","id":"01a10237-7b29-7000-ab30-4eea18f4e7ba"}
