@@ -268,5 +268,9 @@ export const overwhereIiNala3 = {
       fact: "Nala wakes at Callow Beck on day twenty-eight parched, head pounding; she last drank at the Keep.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
+    {
+      fact: "On day twenty-eight Nala drinks from Ebba's rain barrel, and the pounding in her head eases.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+    },
   ],
 } as const satisfies Lore

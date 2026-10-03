@@ -227,6 +227,14 @@ export const overwhereIiWhitecombs = {
       fact: "Dead ravens lie about the cwm's rim, grey-scaled at the beak, as if they drank and fell.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
+    {
+      fact: "Loose scree lies heaped beside the crack in the Callow cwm's lower lip.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+    },
+    {
+      fact: "Seeing the doubled Callow pool, Hawise says it is not a pool but a mouth.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place
