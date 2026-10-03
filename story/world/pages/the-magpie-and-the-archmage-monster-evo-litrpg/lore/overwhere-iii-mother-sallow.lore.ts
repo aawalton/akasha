@@ -48,6 +48,10 @@ export const overwhereIiiMotherSallow = {
       fact: "If cornered she flees for the Hollow and wakes its blighted guardian early.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "She is a real foe for Nala, beatable at Level 1 with Mana Weaver, but only by a hard fight.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
