@@ -171,7 +171,7 @@ export const overwhereIiiCorruption2 = {
     },
     {
       fact: "Jackalopes are quicker than a runner over a few strides; backing off bunches them as they close.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
   ],
 } as const satisfies Lore
