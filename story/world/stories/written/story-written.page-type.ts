@@ -20,7 +20,6 @@ export const storyWritten = {
     "module/chapter-writing",
     "module/nightly-chapter-writing",
     "service-workstation/nightly-chapter-writing",
-    "number-property/chapter-backlog",
     "number-property/word-backlog",
   ],
   decisions: [
@@ -40,8 +39,5 @@ export const storyWritten = {
   ],
   types: "ts",
   schema: "jsonl",
-  properties: [
-    { pageProperty: "number-property/chapter-backlog", required: false, many: false },
-    { pageProperty: "number-property/word-backlog", required: false, many: false },
-  ],
+  properties: [{ pageProperty: "number-property/word-backlog", required: false, many: false }],
 } as const satisfies PageType

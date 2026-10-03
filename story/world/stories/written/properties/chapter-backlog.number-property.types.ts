@@ -1,1 +1,0 @@
-export type ChapterBacklog = number
