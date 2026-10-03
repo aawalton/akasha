@@ -1,1 +1,2 @@
 {"check":"world-check/overwhere-ii-time-passing","reading":{"from":"2026-10-26T11:28:00.000Z","minutes":370},"answered":{"endsAt":"2026-10-26T17:38:00.000Z","day":28,"light":"day"}}
+{"check":"world-check/overwhere-ii-growth","reading":{"character":"character-player/overwhere-ii-nala","gains":[{"kind":"depth","depth":"Surface","trials":17,"descended":false}]},"answered":{"grown":[{"kind":"depth","from":"Surface","to":"Surface","trialsNeeded":5,"reachAndDrawDoubled":false}]}}
