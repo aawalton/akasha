@@ -218,7 +218,7 @@ export const overwhereIWendlow = {
     },
     {
       fact: "The Board's strongbox holds 60 gold; Grete pays that and writes a chit for 11, good in two days.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
     {
       fact: "The chit is paid from the magistrate's purse when the tax rider comes, on day 9.",
