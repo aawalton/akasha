@@ -1,0 +1,59 @@
+{"beat":1,"event":"The party enters a Floor 7 chamber; Solenne finds the nest count is wrong.","at":"2000-01-01T17:00:00.000Z","place":"place/tower-and-the-star-floor-7-living-walls-chamber","present":["character-other/tower-and-the-star-solenne","character-other/tower-and-the-star-dayo","character-other/tower-and-the-star-miriam","character-other/tower-and-the-star-vesper","character-other/tower-and-the-star-tomas","character-other/tower-and-the-star-nadia"]}
+{"beat":2,"event":"Arcane Analysis shows four nests, not one: thirty-one Stoneback Crawlers."}
+{"beat":3,"event":"The nearest crawlers advance across the floor toward the party's entry point."}
+{"beat":4,"event":"Solenne starts reciting the full analysis too fast."}
+{"beat":5,"event":"Dayo cuts in with 'Sol' and asks how many are on the left."}
+{"beat":6,"event":"Solenne answers: eight on the left, coming through the lower root system."}
+{"beat":7,"event":"Dayo calls the plan: she takes the left cluster; regen, armor, six seconds."}
+{"beat":8,"event":"Dayo goes before Solenne finishes her plan; for eight seconds plan and fight diverge."}
+{"beat":9,"event":"The party finds its rhythm and the gap closes."}
+{"beat":10,"event":"Dayo hits the left cluster with Shield Rush, scattering three crawlers."}
+{"beat":11,"event":"Dayo plants with Iron Stance as the cluster's fixed point."}
+{"beat":12,"event":"Dayo catches a flanking crawler on her buckler and redirects it into the wall."}
+{"beat":13,"event":"Miriam's Nature's Veil regen settles on Dayo; Miriam watches the fight from 12 m back."}
+{"beat":14,"event":"Tomás fires from the west overhang, crippling a crawler; Dayo finishes it."}
+{"beat":15,"event":"Tomás drops a second crawler with another joint shot."}
+{"beat":16,"event":"Nadia's Chaos Grenade lands at the colony center and rolls Sleep on four of six."}
+{"beat":17,"event":"Four crawlers fall asleep, opening six seconds in the swarm's coordination."}
+{"beat":18,"event":"Nadia celebrates the Sleep four-of-six from the east wall, reaching for a knife."}
+{"beat":19,"event":"Solenne, steadier, feeds targeting data to the party through Harmony Conductor."}
+{"beat":20,"event":"Solenne calls for Vesper."}
+{"beat":21,"event":"Vesper Quick Crafts a Paralysis Touch gel strip in two and a half seconds."}
+{"beat":22,"event":"Vesper crosses to Dayo and slaps the strip onto Dayo's right gauntlet mid-swing."}
+{"beat":23,"event":"Dayo strikes the largest crawler with the paralysis gauntlet; it locks up and falls."}
+{"beat":24,"event":"Dayo calls 'Two' and finishes the last two awake crawlers on her side."}
+{"beat":25,"event":"Nadia crosses the chamber and knifes a crawler flanking toward Miriam."}
+{"beat":26,"event":"The sleepers wake and a messier second half follows, never in doubt."}
+{"beat":27,"event":"The fight ends; thirty-one crawlers lie dead in the chamber."}
+{"beat":28,"event":"Solenne leans on her staff; her morning chalk formula is smeared by her grip."}
+{"beat":29,"event":"The System reports Chamber 14 cleared and Floor 7 kill progress 94/96.","changes":[{"page":"world-metric/tower-and-the-star-floor-7-kills","key":"value","from":63,"to":94,"note":"Floor 7 kill progress 94 of 96"}]}
+{"beat":30,"event":"Solenne notes they are two kills short of the Skill Book bonus."}
+{"beat":31,"event":"Dayo tests her hit left shoulder; her HP sits at sixty-three percent."}
+{"beat":32,"event":"Miriam heals Dayo's shoulder with Mending Touch without asking."}
+{"beat":33,"event":"Vesper crouches by the colony queen's remains, examining its dropped Core."}
+{"beat":34,"event":"Tomás climbs down, checks his quiver, and gathers his fired arrows."}
+{"beat":35,"event":"Nadia picks up the queen's Core and names the queen Gertrude."}
+{"beat":36,"event":"Dayo laughs loudly at Nadia's bit."}
+{"beat":37,"event":"Vesper asks Nadia not to name the Core; Nadia insists on Gertrude."}
+{"beat":38,"event":"Miriam's mouth twitches as she keeps healing Dayo."}
+{"beat":39,"event":"Solenne weighs the party's condition against hunting two more crawlers."}
+{"beat":40,"event":"Solenne calls for the rest node and puts off the corridor sweep to tomorrow."}
+{"beat":41,"event":"Nobody argues; the party falls into its usual marching formation."}
+{"beat":42,"event":"Solenne notes that choosing their wellbeing came easier than it used to."}
+{"beat":43,"event":"Dayo scratches a tally mark inside her left bracer for Chamber 14."}
+{"beat":44,"event":"Nadia sees Dayo make the mark and says nothing."}
+{"beat":45,"event":"The party walks the warm root tunnel toward the rest node.","place":"place/tower-and-the-star-floor-7-rest-node-corridor"}
+{"beat":46,"event":"Tomás scouts ahead in silence."}
+{"beat":47,"event":"Solenne muses that she has no word yet for what the six of them are."}
+{"beat":48,"event":"As Tomás passes the north wall, Solenne's Resonance Map senses dissonance."}
+{"beat":49,"event":"Solenne senses a Mana-responsive, door-shaped space in the north wall."}
+{"beat":50,"event":"Tomás angles away from the wall, showing Solenne he sensed it too."}
+{"beat":51,"event":"Tomás does not report the anomaly, unlike everything else he reports."}
+{"beat":52,"event":"Solenne makes a mental note of the door and tells no one."}
+{"beat":53,"event":"The party reaches the amber-lit rest node entrance.","place":"place/tower-and-the-star-floor-7-rest-node"}
+{"beat":54,"event":"Tomás checks the interior and nods clear; the party files in."}
+{"beat":55,"event":"Dayo steps through and her shoulders drop as Iron Stance tension leaves."}
+{"beat":56,"event":"Nadia says something to Vesper, who almost laughs."}
+{"beat":57,"event":"Miriam touches Solenne's wrist as she passes in, last before her."}
+{"beat":58,"event":"Solenne steps through and the rest node seals behind her."}
+{"beat":59,"event":"Solenne thinks of tomorrow's sweep and wonders if the door can wait."}
