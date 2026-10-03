@@ -1,21 +1,21 @@
-{"beat":1,"event":"Nala holds the three sticks to the shrine lamp until their tips catch and glow red."}
+{"beat":1,"event":"Nala holds the three sticks to the shrine lamp until their tips catch and glow red.","at":"2026-09-28T19:05:00.000Z","place":"place/otherwhere-iv-three-stones-village","present":["character-player/otherwhere-iv-nala","character-other/otherwhere-iv-zhao-jun","character-other/otherwhere-iv-tie-bo","character-other/otherwhere-iv-granny-hua"]}
 {"beat":2,"event":"Thin grey smoke curls up from them, sweet and resinous."}
 {"beat":3,"event":"She speaks calmly and clearly, so the crowd can hear."}
 {"beat":4,"event":"\"Old Grandfather of the Three Stones.\""}
 {"beat":5,"event":"\"Your people respect the old ways and honor their ancestors as they have for many years.\""}
-{"beat":6,"event":"\"May they be safe and prosper, that they may continue to do so for many more.\""}
+{"beat":6,"event":"\"May they be safe and prosper, that they may continue to do so for many more.\"","memory":[{"page":"lore/otherwhere-iv-earth-god-shrine","fact":"At the dusk rite Nala asked Old Grandfather to keep his people, who honor the old ways, safe.","learns":"character-player/otherwhere-iv-nala"},{"page":"lore/otherwhere-iv-earth-god-shrine","fact":"At the dusk rite Nala asked Old Grandfather to keep his people, who honor the old ways, safe.","shown":true}]}
 {"beat":7,"event":"The smoke from the three sticks goes straight up in the still air, in three thin grey threads."}
 {"beat":8,"event":"A murmur runs through the crowd. Someone near the front says, \"Straight. Look. Straight up.\""}
 {"beat":9,"event":"An old man at the side presses his hands together and bows his head. Then a woman. Then more."}
-{"beat":10,"event":"Heads bow all through the crowd, a ripple of them, from the front to the back."}
+{"beat":10,"event":"Heads bow all through the crowd, a ripple of them, from the front to the back.","memory":[{"page":"lore/otherwhere-iv-earth-god-shrine","fact":"Nala's incense smoke rose straight up, and heads bowed all through the crowd at the rite.","learns":"character-player/otherwhere-iv-nala"},{"page":"lore/otherwhere-iv-earth-god-shrine","fact":"Nala's incense smoke rose straight up, and heads bowed all through the crowd at the rite.","shown":true}]}
 {"beat":11,"event":"Somebody's grandmother is wiping her eyes with her sleeve."}
 {"beat":12,"event":"The sharp-faced old woman has stopped watching Nala's feet and is frowning at the smoke instead."}
 {"beat":13,"event":"She looks at Nala's shadow once more, long and ordinary on the ground in the lamplight."}
-{"beat":14,"event":"Her mouth purses, and she says nothing, and she does not bow."}
+{"beat":14,"event":"Her mouth purses, and she says nothing, and she does not bow.","memory":[{"page":"lore/otherwhere-iv-earth-god-shrine","fact":"The sharp-faced old woman frowned at the smoke, eyed Nala's ordinary shadow, and did not bow.","learns":"character-player/otherwhere-iv-nala"},{"page":"lore/otherwhere-iv-earth-god-shrine","fact":"The sharp-faced old woman frowned at the smoke, eyed Nala's ordinary shadow, and did not bow.","shown":true}]}
 {"beat":15,"event":"Beside Nala, Gu lets out his breath, very quietly, like a man setting down a heavy load."}
 {"beat":16,"event":"The incense still burns in Nala's hand, the smoke still rising straight."}
 {"beat":17,"event":"The two big broad-faced young men at the front can't hold still any longer."}
-{"beat":18,"event":"\"Honored spirit!\" the bigger one calls out. \"I'm Fang Da! This is my brother, Fang Er!\""}
-{"beat":19,"event":"\"We heard about the beast in Zhao Jun's rice! When there's a hunt, take us! We're not afraid!\""}
+{"beat":18,"event":"\"Honored spirit!\" the bigger one calls out. \"I'm Fang Da! This is my brother, Fang Er!\"","memory":[{"page":"lore/otherwhere-iv-fang-brothers","fact":"The two loud Fang brothers are named Fang Da and Fang Er.","learns":"character-player/otherwhere-iv-nala"},{"page":"lore/otherwhere-iv-fang-brothers","fact":"The two loud Fang brothers are named Fang Da and Fang Er.","learns":"character-other/otherwhere-iv-zhao-jun"},{"page":"lore/otherwhere-iv-fang-brothers","fact":"The two loud Fang brothers are named Fang Da and Fang Er.","shown":true}]}
+{"beat":19,"event":"\"We heard about the beast in Zhao Jun's rice! When there's a hunt, take us! We're not afraid!\"","memory":[{"page":"lore/otherwhere-iv-earth-god-shrine","fact":"At the rite the broad-faced brothers Fang Da and Fang Er begged Nala to take them on any hunt.","learns":"character-player/otherwhere-iv-nala"},{"page":"lore/otherwhere-iv-earth-god-shrine","fact":"At the rite the broad-faced brothers Fang Da and Fang Er begged Nala to take them on any hunt.","shown":true}]}
 {"beat":20,"event":"\"We'll stick it like a pig!\" Fang Er shouts, and a few people laugh, and a few people hush him."}
-{"beat":21,"event":"At the back, the weathered man with the bow shifts his weight, and watches, and says nothing."}
+{"beat":21,"event":"At the back, the weathered man with the bow shifts his weight, and watches, and says nothing.","at":"2026-09-28T19:09:00.000Z"}
