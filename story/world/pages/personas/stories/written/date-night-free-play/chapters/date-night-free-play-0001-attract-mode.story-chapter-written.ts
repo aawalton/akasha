@@ -10,4 +10,5 @@ export const dateNightFreePlay0001AttractMode = {
   ownLength: 1322,
   unit: "unit/words",
   prose: "txt",
+  beats: "jsonl",
 } as const satisfies StoryChapterWritten
