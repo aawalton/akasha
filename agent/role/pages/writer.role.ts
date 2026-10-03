@@ -40,6 +40,7 @@ export const writer = {
         "A chapter opens a scene of its own, so nothing continues mid-sentence.",
         "Each beat takes 50 to 200 words of prose, whatever length the chapter before it had.",
         "Where the story states `editorSteps`, each beat takes 100 to 400 words for a prose editor to cut.",
+        "Aim near the top of that range: the editor cuts it, and words to spare cost the chapter nothing.",
         "Name the chapter with `--title` on the advance handing in its prose.",
       ],
     },
