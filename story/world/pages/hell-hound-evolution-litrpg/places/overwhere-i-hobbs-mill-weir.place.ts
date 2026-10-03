@@ -67,5 +67,9 @@ export const overwhereIHobbsMillWeir = {
       fact: "The Weir Wyrm is a grey-green serpent some 25 feet long, thick as a man's waist, fangs a hand long.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "The wyrm's back scales are a 2-point ward; its pale belly and throat have none.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Place
