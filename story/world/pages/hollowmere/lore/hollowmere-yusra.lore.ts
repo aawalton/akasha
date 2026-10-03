@@ -312,7 +312,7 @@ export const hollowmereYusra = {
       ],
     },
     {
-      fact: "Yusra's ex, Hana, is a junior doctor in Leeds; the text said she'd met someone on her rotation.",
+      fact: "Yusra's ex is a junior doctor in Leeds; the text said she'd met someone on her rotation.",
       knowers: [
         "lore-disclosure/game-master",
         "character-other/hollowmere-yusra",
