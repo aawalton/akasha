@@ -1,0 +1,65 @@
+{"beat":1,"event":"Vera Chen's lab smells of ozone and clean metal, wrong for the Foundry District.","at":"2025-12-28T13:47:00.000Z","place":"place/the-idle-epoch-vera-lab","present":["character-player/the-idle-epoch-callum","character-other/the-idle-epoch-vera"]}
+{"beat":2,"event":"Forty by sixty feet: hand-labelled Flux arrays, resonance detectors, a wall of threaded notes."}
+{"beat":3,"event":"Vera, silver-streaked bun and canvas apron, doesn't turn: \"You're early.\" \"It's 8:47.\""}
+{"beat":4,"event":"He has bought instruments here twice; today he needs a density probe for a drift in his feedback."}
+{"beat":5,"event":"Point-three percent a day: a self-reinforcing loop precise enough to see that, she notes."}
+{"beat":6,"event":"Seventy-two hours unbroken, he says; she unlocks a cabinet and takes out a probe he's never seen."}
+{"beat":7,"event":"A Rare Flux Density Probe, one of seven she has made: real-time density mapping within ten meters."}
+{"beat":8,"event":"Six hundred Gold. Left alone the drift costs four percent in a week; the math favours buying.","changes":[{"page":"metric-character-currency/the-idle-epoch-callum","key":"value","from":2267,"to":1667,"note":"Vera's Flux Density Probe for 600 Gold"}]}
+{"beat":9,"event":"It will fix his drift, she says; how many in the zone run compound loops? None that he knows."}
+{"beat":10,"event":"\"None,\" Vera repeats. \"I'd like to see it.\""}
+{"beat":11,"event":"The walk to his warehouse takes eight minutes; her satchel clinks with instruments.","at":"2025-12-28T14:00:00.000Z","place":"place/the-idle-epoch-warehouse"}
+{"beat":12,"event":"She stands in the middle of his array and looks, the way she once read collision data at Fermilab."}
+{"beat":13,"event":"She raises the Cartographer's Lens to her eye and activates Substrate Analysis."}
+{"beat":14,"event":"Thirty seconds of clinical calm; then her eyes tighten and her weight shifts forward."}
+{"beat":15,"event":"\"Walk me through the loop.\" Sentinel, Collector, Refinery, and the Enhancement Construct."}
+{"beat":16,"event":"It gives upgrades to whichever construct has the best marginal return, mostly the Sentinel."}
+{"beat":17,"event":"She asks again how long it has run unbroken: seventy-two hours, reinvesting without intervention."}
+{"beat":18,"event":"\"Your compound loop has a signature I've never seen in a player-built system.\""}
+{"beat":19,"event":"She sits on his one free folding chair: there is a stat the Substrate doesn't show most people."}
+{"beat":20,"event":"It measures how far your behaviour mirrors the Substrate's own processes. It is called Recursion."}
+{"beat":21,"event":"He looks: below everything in his interface, wavering at the edge of sight, is Recursion 15.","changes":[{"page":"metric-character-stat/the-idle-epoch-callum-recursion","key":"unrevealed","from":true,"to":false,"note":"Recursion 15 shows in his window once Vera tells him where to look"}]}
+{"beat":22,"event":"His gut drops: for months he has been measured by a metric he didn't know existed."}
+{"beat":23,"event":"Most people sit at zero to two, active fighters at zero; the highest she'd recorded was five."}
+{"beat":24,"event":"He is at fifteen: three times her previous high, alone at the far end of the curve."}
+{"beat":25,"event":"She has questions about why. \"So do I.\""}
+{"beat":26,"event":"He sits on his cot; she gives him space, like a doctor after a diagnosis."}
+{"beat":27,"event":"He is building systems the Substrate considers kin; it thrills and sickens him in equal measure."}
+{"beat":28,"event":"The stat keeps no history, she says; it climbs with sustained self-reinforcing behaviour."}
+{"beat":29,"event":"His class may amplify it, but she can't confirm it: he is a sample size of one."}
+{"beat":30,"event":"The air shimmers: level up, 17 to 18.","at":"2025-12-28T14:40:00.000Z","changes":[{"page":"metric-character-level/the-idle-epoch-callum","key":"value","from":17,"to":18,"note":"Level 17 to 18 while Vera watches"}]}
+{"beat":31,"event":"Intelligence to 61, Wisdom to 64, Willpower to 33: muscle memory now.","changes":[{"page":"metric-character-stat/the-idle-epoch-callum-intelligence","key":"value","from":59,"to":61,"note":"Level 18: +2 Intelligence"},{"page":"metric-character-stat/the-idle-epoch-callum-wisdom","key":"value","from":62,"to":64,"note":"Level 18: +2 Wisdom"}]}
+{"beat":32,"event":"His loop's acceleration has crossed a threshold, Vera says; he'll level faster than he can think."}
+{"beat":33,"event":"The Substrate runs on recursion, she says, and so does his loop: he runs its logic, not its code."}
+{"beat":34,"event":"He writes Recursion and 15 in his notebook and underlines both twice. Pip pulses, quick and warm."}
+{"beat":35,"event":"Twenty minutes later: level up, 18 to 19.","at":"2025-12-28T15:00:00.000Z","changes":[{"page":"metric-character-level/the-idle-epoch-callum","key":"value","from":18,"to":19,"note":"Level 18 to 19 twenty minutes after the last"}]}
+{"beat":36,"event":"Intelligence 63, Wisdom 66, Willpower 34; HP 373, MP 864, Idle Yield 2.32x.","changes":[{"page":"metric-character-stat/the-idle-epoch-callum-intelligence","key":"value","from":61,"to":63,"note":"Level 19: +2 Intelligence"},{"page":"metric-character-stat/the-idle-epoch-callum-wisdom","key":"value","from":64,"to":66,"note":"Level 19: +2 Wisdom"}]}
+{"beat":37,"event":"His Essence income is past eight thousand a day. \"You're accelerating.\" \"I know.\""}
+{"beat":38,"event":"The acceleration accelerates because Recursion compounds too, he guesses. \"Recursion is recursive.\""}
+{"beat":39,"event":"Elegant or concerning, she hasn't decided. She pours black tea from a dented thermos."}
+{"beat":40,"event":"She has three things to tell him, meant for several meetings; his score moved her timeline."}
+{"beat":41,"event":"First: she Condensed at Level 26. The Substrate doesn't erase your pattern; it compresses it."}
+{"beat":42,"event":"Every optimization and iteration is kept as an informational structure, folded denser."}
+{"beat":43,"event":"The multiplier isn't a reward; it is what a denser pattern naturally puts out."}
+{"beat":44,"event":"Condense is no power treadmill, he sees, but optimization applied to the player himself."}
+{"beat":45,"event":"\"You're not a player being reset. You're a process being optimized,\" Vera corrects."}
+{"beat":46,"event":"Second: the Fracture Zones are not accidents. They are stress tests."}
+{"beat":47,"event":"The Substrate is selecting for builders, whose systems scale; linear approaches fail first."}
+{"beat":48,"event":"Everyone else is fuel, she says. He rejects it: Mira, Jin and the people of the zone are people."}
+{"beat":49,"event":"But the Substrate's sorting may decide who survives."}
+{"beat":50,"event":"Third, packing her satchel: he is being watched, and not only by the Iron Vanguard."}
+{"beat":51,"event":"By the Substrate itself: he has had messages outside its usual vocabulary, hasn't he?"}
+{"beat":52,"event":"He thinks of the OBSERVED notices, and of WHAT ARE YOU BUILDING? in a ninety-six-hour session."}
+{"beat":53,"event":"He nods. Those are attention, Vera says: he has become a process it considers significant."}
+{"beat":54,"event":"\"Either very good or very dangerous, and I am not yet sure which.\" She leaves.","leave":["character-other/the-idle-epoch-vera"]}
+{"beat":55,"event":"He sits a long time. The Substrate cares about almost no one, and it cares about him."}
+{"beat":56,"event":"His window: Loopweaver 19, Prestige 0, fifteen unspent skill points, Recursion 15."}
+{"beat":57,"event":"With the probe he finds the feedback favouring the Sentinel, and corrects it in three minutes."}
+{"beat":58,"event":"Three percent more efficient, and it will compound."}
+{"beat":59,"event":"Under Recursion 15 he writes: Condense is compression; the Substrate is selecting for builders."}
+{"beat":60,"event":"In the margin, smaller: It's watching."}
+{"beat":61,"event":"Outside, a Vanguard patrol passes within two hundred meters of his Overgrowth constructs."}
+{"beat":62,"event":"It rewards automation because it is automation, and measures recursion because it is recursive."}
+{"beat":63,"event":"What are you building, he begins to understand, may mean: what are you becoming?"}
+{"beat":64,"event":"Pip flickers, warm and slow, like a cursor waiting for input."}
+{"beat":65,"event":"Four threads weave over his cot now, denser and more recursive. Something is watching the graphs."}
