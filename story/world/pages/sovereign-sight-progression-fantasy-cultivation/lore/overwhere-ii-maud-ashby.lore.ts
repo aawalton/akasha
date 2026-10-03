@@ -81,7 +81,7 @@ export const overwhereIiMaudAshby = {
     },
     {
       fact: "Maud has never sounded anyone refine so far in a month; Keepers take years over it.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Maud feels every one of Nala's tributaries open and carved, as if none was ever shut.",
