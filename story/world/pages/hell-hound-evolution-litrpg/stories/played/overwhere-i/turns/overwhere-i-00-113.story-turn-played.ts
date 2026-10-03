@@ -7,9 +7,21 @@ export const overwhereI00113 = {
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-i"],
   position: 113,
-  stepStatus: "step-status/game-master",
+  stepStatus: "step-status/writer",
   action:
     "“Eh, thanks, but they said the fangs would be enough. Just cut off the head to make sure it was dead.” I spin a blade again and cut the fangs and store those, then shift to water and fire and give myself a good steam cleaning to get off the bile and muck, then air and fire to dry myself off.",
+  beats: [
+    '"Eh, thanks, but they said the fangs would be enough," Nala tells Tam.',
+    '"Just cut off the head to make sure it was dead."',
+    "She spins up a water blade and works it around the jaw; both fangs come free clean and whole.",
+    "Each is a hand long, hooked and yellow-white. She wraps them and stows them in her pack.",
+    "She draws water and fire together into a gentle steam and plays it over her skin and clothes.",
+    "Bile, blood and river muck roll off her in a hot cloud; the sting in her forearms eases.",
+    "Then air and fire: a hot wind wraps her for three minutes and leaves her dry.",
+    'Tam Hobb snorts, half a laugh. "Handy trick. I\'ll be grinding by two, then."',
+    "The crews whistle and start back up the bank toward their barges.",
+    "Jory lingers, eyes on Dickon's belt in Nala's hand, and slowly holds out his own.",
+  ],
   lore: [
     "lore/overwhere-i-hobbs-mill-weir-2",
     "lore/overwhere-i-starfall-legacy",
