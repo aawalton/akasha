@@ -33,10 +33,8 @@ function addressesIn(row: QueryRow, type: string): readonly string[] {
   const slug = textIn(row.values[SLUG_KEY])
   if (slug === null || slug === "") return NO_ADDRESSES
   const own = textIn(row.values[TYPE_KEY])
-  const held = [`${type}${PARTED}${slug}`]
-  if (own !== null && own !== type) held.push(`${own}${PARTED}${slug}`)
-  held.push(slug)
-  return held
+  if (own === null || own === type) return [`${type}${PARTED}${slug}`]
+  return [`${type}${PARTED}${slug}`, `${own}${PARTED}${slug}`]
 }
 
 export function overlaidRow(row: QueryRow, type: string, overlay: BeatOverlay): QueryRow | null {

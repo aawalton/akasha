@@ -40,6 +40,17 @@ test("a row is found by the page type the row states, beneath the type asked for
   expect(overlaidRow(row, "metric-character-attribute", named)?.values["value"]).toBe(14)
 })
 
+test("a row of another type sharing a slug is left as the page holds it", () => {
+  const level: QueryRow = { values: { slug: "wren", type: "metric-character-level", value: 6 } }
+  const named: BeatOverlay = {
+    knows: (page) => page === "metric-character-experience/wren",
+    shows: () => true,
+    keysOf: () => ["value"],
+    valueOf: () => 2211,
+  }
+  expect(overlaidRow(level, "metric-character-resource", named)).toEqual(level)
+})
+
 test("no overlay leaves every row as the pages hold it", () => {
   expect(overlaidRow(ROW, "metric-character", NO_OVERLAY)).toEqual(ROW)
   expect(overlaidRows([ROW], "metric-character", NO_OVERLAY)).toEqual([ROW])

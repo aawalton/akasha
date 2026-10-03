@@ -41,16 +41,11 @@ type Page = {
 
 type Written = { made: number | null; changes: BeatChange[]; keys: string[] }
 
-function slugOfPath(page: string): string {
-  return page.slice(page.lastIndexOf(PARTED) + ONE)
-}
-
 function pagesOf(beats: Beats): ReadonlyMap<string, Page> {
   const pages = new Map<string, Written>()
   for (const change of beats.changes) {
     const held = pages.get(change.page) ?? { made: null, changes: [], keys: [] }
     pages.set(change.page, held)
-    pages.set(slugOfPath(change.page), held)
     held.changes.push(change)
     if (change.key !== undefined && !held.keys.includes(change.key)) held.keys.push(change.key)
     if (change.make !== undefined) {
