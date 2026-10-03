@@ -11,4 +11,5 @@ export const overwhereI00107 = {
   action:
     "“Deal! How do I find the bile sac?” After getting instructions I go to the inn for a bath, a meal, and an early bed.",
   lore: ["lore/overwhere-i-wendlow-2"],
+  endsAt: "2026-10-06T06:00:00.000Z",
 } as const satisfies StoryTurnPlayed
