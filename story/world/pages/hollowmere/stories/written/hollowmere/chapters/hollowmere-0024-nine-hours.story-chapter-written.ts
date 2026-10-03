@@ -8,9 +8,9 @@ export const hollowmere0024NineHours = {
   unit: "unit/words",
   title: "Nine Hours",
   story: "story-written/hollowmere",
-  ownLength: 4563,
+  ownLength: 4628,
   prose: "txt",
-  stepStatus: "step-status/writer",
+  stepStatus: "step-status/recorders",
   beats: [
     "Wednesday of week four: you wake at six, rested; you slept all night, the way you promised.",
     "Bea is a warm weight at your back, still asleep, her blistered hand open on your hip.",
