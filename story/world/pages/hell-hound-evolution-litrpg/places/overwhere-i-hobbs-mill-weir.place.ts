@@ -239,5 +239,9 @@ export const overwhereIHobbsMillWeir = {
       fact: "Once it has lost half its health or more, the wyrm counts as badly hurt and flees.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Creeping to the tail-race wall, Nala knocked a loose stone; a ring spread on the pool.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+    },
   ],
 } as const satisfies Place
