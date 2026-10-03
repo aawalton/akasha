@@ -160,7 +160,11 @@ export const overwhereIiiEddaCrane = {
     },
     {
       fact: "Hearing Sallow was a blighted woman with a false face, Edda means to tell Marda at the post herself.",
-      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-edda-crane"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/overwhere-iii-edda-crane",
+        "character-player/overwhere-iii-nala",
+      ],
     },
   ],
 } as const satisfies Lore
