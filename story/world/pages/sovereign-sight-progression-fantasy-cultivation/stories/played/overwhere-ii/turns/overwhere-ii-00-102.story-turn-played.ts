@@ -10,7 +10,7 @@ export const overwhereIi00102 = {
   position: 102,
   prose: "txt",
   characters: ["character-player/overwhere-ii-nala"],
-  stepStatus: "step-status/game-master",
+  stepStatus: "step-status/writer",
   action: "“Sleep now. Best to deal with the rest rested and with light.”",
   beats: [
     'Nala: "Sleep now. Best to deal with the rest rested, and with light."',
@@ -26,7 +26,7 @@ export const overwhereIi00102 = {
     "Outside, the bank across the gully mouth still holds. The black water leans against it.",
     "Six carcasses lie stiff on the grey pasture, frost on their scales.",
     "Above the gully, the thin cold trickle from the Callow pool still runs.",
-    'Hawise stands in the doorway, stretching. "Quiet night. Nothing came down."',
+    'Hawise stands in the doorway, stretching. "Quiet night. The mountain kept to itself."',
     'Hawise: "Up to that pool, or back to the Lady?"',
   ],
   issues: ['"Nothing came down." - Nobody Acts'],
