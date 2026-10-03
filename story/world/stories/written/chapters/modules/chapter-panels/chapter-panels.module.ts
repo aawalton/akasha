@@ -10,7 +10,12 @@ export const chapterPanels = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "A chapter's clock is the last time its beats set, as of the chapter's end.",
+      statement: "A chapter's clock is the last time its beats set up to the beat on screen.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A chapter's panels are drawn with the beats up to the beat on screen folded over its pages.",
     },
     {
       decisionKind: "decision-kind/departure",

@@ -3,7 +3,10 @@
 import type { BeatChange } from "akasha/story/engine/beat-state/modules/beat-changes/beat-changes.module.code.ts"
 import type { Beats } from "akasha/story/engine/beat-state/modules/beat-records/beat-records.module.code.ts"
 import { ChapterProse } from "akasha/story/ui/modules/chapter-prose/chapter-prose.module.code.tsx"
-import type { InlineCover } from "akasha/story/ui/modules/inline-cover/inline-cover.module.code.tsx"
+import {
+  type InlineCover,
+  InlineCoverFigure,
+} from "akasha/story/ui/modules/inline-cover/inline-cover.module.code.tsx"
 import type { RerollAsker } from "akasha/story/ui/modules/scene-cover-panel/scene-cover-panel.module.code.tsx"
 import { proseSegmentsOf } from "akasha/story/ui/modules/session-envelope/session-envelope.module.code.ts"
 import type { SubmitPlayerAction } from "akasha/story/ui/modules/system-choice-card/system-choice-card.module.code.tsx"
@@ -38,11 +41,16 @@ type Page = {
 
 type Written = { made: number | null; changes: BeatChange[]; keys: string[] }
 
+function slugOfPath(page: string): string {
+  return page.slice(page.lastIndexOf(PARTED) + ONE)
+}
+
 function pagesOf(beats: Beats): ReadonlyMap<string, Page> {
   const pages = new Map<string, Written>()
   for (const change of beats.changes) {
     const held = pages.get(change.page) ?? { made: null, changes: [], keys: [] }
     pages.set(change.page, held)
+    pages.set(slugOfPath(change.page), held)
     held.changes.push(change)
     if (change.key !== undefined && !held.keys.includes(change.key)) held.keys.push(change.key)
     if (change.make !== undefined) {
@@ -89,6 +97,7 @@ export function overlayOf(beats: Beats, beat: number): BeatOverlay {
   if (beats.changes.length === 0) return NO_OVERLAY
   const pages = pagesOf(beats)
   return {
+    knows: (page) => pages.has(page),
     shows: (page) => {
       const held = pages.get(page)
       return held === undefined || held.made === null || held.made <= beat
@@ -186,6 +195,7 @@ type BeatProseProps = {
   readonly gameExternalId?: string
   readonly submitPlayerAction: SubmitPlayerAction
   readonly signedOutNotice: ReactNode
+  readonly under?: readonly InlineCover[]
 }
 
 export function BeatProse({
@@ -195,6 +205,7 @@ export function BeatProse({
   gameExternalId,
   submitPlayerAction,
   signedOutNotice,
+  under,
 }: BeatProseProps) {
   const { register } = useBeatReading()
   return (
@@ -217,6 +228,9 @@ export function BeatProse({
           </div>
         )
       })}
+      {(under ?? []).map((one) => (
+        <InlineCoverFigure key={one.id} shown={one} asker={asker} />
+      ))}
     </>
   )
 }

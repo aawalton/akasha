@@ -26,21 +26,33 @@ function textIn(value: unknown): string | undefined {
   return stringIn(value) ?? undefined
 }
 
-function writtenCoversOf(
+function sceneCoversOf(
   id: string,
-  beats: Beats,
   data: Readonly<Record<string, unknown>>
 ): readonly InlineCover[] {
-  const listed: { readonly cover: string; readonly after?: string | undefined }[] = (
-    beats.pictured ?? []
-  ).map((one) => ({ cover: one.cover, after: one.coverAfter }))
-  if (listed.length === 0 && Array.isArray(data.scenes)) {
+  const listed: { readonly cover: string }[] = []
+  if (Array.isArray(data.scenes)) {
     for (const one of data.scenes) {
       const cover = textIn(one)
       if (cover !== undefined) listed.push({ cover })
     }
   }
   return listed.map((one, at) => ({ id: `${id}#${at + ONE}`, number: at + ONE, ...one }))
+}
+
+function writtenCoversOf(
+  id: string,
+  beats: Beats,
+  data: Readonly<Record<string, unknown>>
+): readonly InlineCover[] {
+  const pictured = beats.pictured ?? []
+  if (pictured.length === 0) return sceneCoversOf(id, data)
+  return pictured.map((one, at) => ({
+    id: `${id}#${at + ONE}`,
+    number: at + ONE,
+    cover: one.cover,
+    after: one.coverAfter,
+  }))
 }
 
 function WrittenProse({
@@ -55,6 +67,7 @@ function WrittenProse({
   const { beats, ready } = useBeatReading()
   if (!ready) return null
   if (beats.prose !== undefined && beats.beats.length > 0) {
+    const under = (beats.pictured ?? []).length > 0 ? [] : sceneCoversOf(id, data)
     return (
       <BeatProse
         beats={beats}
@@ -62,6 +75,7 @@ function WrittenProse({
         asker={storyAsker(data.story)}
         submitPlayerAction={submitsNothing}
         signedOutNotice={null}
+        under={under}
       />
     )
   }

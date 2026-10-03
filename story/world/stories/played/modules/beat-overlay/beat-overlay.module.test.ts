@@ -10,9 +10,11 @@ import {
 const ROW: QueryRow = { values: { slug: "elsie-xp", value: 160 } }
 
 function overlayOf(): BeatOverlay {
+  const mine = (page: string): boolean => page.endsWith("elsie-xp") || page.endsWith("elsie-purse")
   return {
-    shows: (page) => page !== "metric-character-currency/elsie-purse",
-    keysOf: (page) => (page === "metric-character/elsie-xp" ? ["value"] : []),
+    knows: mine,
+    shows: (page) => !page.endsWith("elsie-purse"),
+    keysOf: (page) => (page.endsWith("elsie-xp") ? ["value"] : []),
     valueOf: (_page, _key, current) => Number(current) - 40,
   }
 }
@@ -25,6 +27,17 @@ test("a row's changed keys are drawn as of the beat, and its other keys are left
 test("a page the beats have not made yet is drawn nowhere", () => {
   const purse: QueryRow = { values: { slug: "elsie-purse", value: 3 } }
   expect(overlaidRow(purse, "metric-character-currency", overlayOf())).toBeNull()
+})
+
+test("a row is found by the page type the row states, beneath the type asked for", () => {
+  const row: QueryRow = { values: { slug: "pearl", type: "the-beholder-allure", value: 15.6 } }
+  const named: BeatOverlay = {
+    knows: (page) => page === "the-beholder-allure/pearl",
+    shows: () => true,
+    keysOf: () => ["value"],
+    valueOf: () => 14,
+  }
+  expect(overlaidRow(row, "metric-character-attribute", named)?.values["value"]).toBe(14)
 })
 
 test("no overlay leaves every row as the pages hold it", () => {
