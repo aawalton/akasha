@@ -17,7 +17,7 @@ export const overwhereIiMaudAshby = {
     },
     {
       fact: "She wears Threll's orange robes with the sleeve bells tied silent for the road, and rides a mule.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Maud is warm and brisk, blunt in her questions, quick to laugh, and stiff from the road.",
