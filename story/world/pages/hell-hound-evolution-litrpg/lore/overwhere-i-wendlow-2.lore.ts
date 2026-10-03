@@ -94,7 +94,7 @@ export const overwhereIWendlow2 = {
     },
     {
       fact: "Grete breaks the letter's seal, reads it, and goes still: the seal is the guild counting-house's.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
     {
       fact: "Only the guild's factor uses the counting-house seal, and Grete knows it.",
