@@ -1,45 +1,45 @@
-{"beat":1,"event":"The middle stair climbs and turns, and somewhere on it the air grows cool and smells of wax."}
+{"beat":1,"event":"The middle stair climbs and turns, and somewhere on it the air grows cool and smells of wax.","at":"2026-10-01T04:40:00.000Z"}
 {"beat":2,"event":"Near the top you find you are dressed: black evening clothes, fitted, and a mask over your eyes."}
 {"beat":3,"event":"A plain black half-mask; you pull at it and it will not come off, as if it grew there."}
-{"beat":4,"event":"You step out into candlelight; at that moment a woman steps out of the stair beside yours.","place":"place/climb-floor-2","present":["character-player/climb-alan","character-other/climb-mina"]}
-{"beat":5,"event":"The two stairways end side by side, and you stand in a ballroom together."}
-{"beat":6,"event":"Mirrored walls, gilt, deep red velvet; crystal chandeliers burning with real candles."}
-{"beat":7,"event":"The mirrors throw the candlelight back a hundredfold, and a hundred of you two look back."}
-{"beat":8,"event":"A slow waltz plays from nowhere; on the musicians' dais the instruments sit unplayed.","pictured":[{"cover":"image/image-e670c71bba28b831","coverAfter":"It's all mirrors and gilt and deep red velvet. Crystal chandeliers hang","setting":"the ballroom"}]}
+{"beat":4,"event":"You step out into candlelight; at that moment a woman steps out of the stair beside yours.","at":"2026-10-01T04:50:00.000Z","place":"place/climb-floor-2","present":["character-player/climb-alan","character-other/climb-mina"]}
+{"beat":5,"event":"The two stairways end side by side, and you stand in a ballroom together.","memory":[{"page":"place/climb-floor-2","fact":"Alan and Mina step onto floor 2 at once, from two stairways ending side by side.","learns":"character-player/climb-alan"},{"page":"place/climb-floor-2","fact":"Alan and Mina step onto floor 2 at once, from two stairways ending side by side.","learns":"character-other/climb-mina"}]}
+{"beat":6,"event":"Mirrored walls, gilt, deep red velvet; crystal chandeliers burning with real candles.","memory":[{"page":"place/climb-floor-2","fact":"Floor 2 is a candlelit Venetian ballroom, all mirrored walls, gilt and deep red velvet.","learns":"character-player/climb-alan"},{"page":"place/climb-floor-2","fact":"Floor 2 is a candlelit Venetian ballroom, all mirrored walls, gilt and deep red velvet.","learns":"character-other/climb-mina"}]}
+{"beat":7,"event":"The mirrors throw the candlelight back a hundredfold, and a hundred of you two look back.","memory":[{"page":"place/climb-floor-2","fact":"Crystal chandeliers burn with real candles, and the mirrors throw their light back a hundredfold.","learns":"character-player/climb-alan"},{"page":"place/climb-floor-2","fact":"Crystal chandeliers burn with real candles, and the mirrors throw their light back a hundredfold.","learns":"character-other/climb-mina"}]}
+{"beat":8,"event":"A slow waltz plays from nowhere; on the musicians' dais the instruments sit unplayed.","memory":[{"page":"place/climb-floor-2","fact":"A slow waltz plays from nowhere, and the instruments on the musicians' dais sit unplayed.","learns":"character-player/climb-alan"},{"page":"place/climb-floor-2","fact":"A slow waltz plays from nowhere, and the instruments on the musicians' dais sit unplayed.","learns":"character-other/climb-mina"}],"pictured":[{"cover":"image/image-e670c71bba28b831","coverAfter":"It's all mirrors and gilt and deep red velvet. Crystal chandeliers hang","setting":"the ballroom"}]}
 {"beat":9,"event":"A cello rests against a gilt chair on the dais, and the woman's eyes go straight to it."}
-{"beat":10,"event":"She is slender and willowy, pale golden skin, long slender arms, a black bob with a blunt fringe."}
-{"beat":11,"event":"She wears a dark red silk halter gown, and a gold filigree half-mask over her eyes."}
+{"beat":10,"event":"She is slender and willowy, pale golden skin, long slender arms, a black bob with a blunt fringe.","memory":[{"page":"lore/climb-mina","fact":"Mina is slender and willowy, with smooth pale golden skin and long slender cellist's arms.","learns":"character-player/climb-alan"}]}
+{"beat":11,"event":"She wears a dark red silk halter gown, and a gold filigree half-mask over her eyes.","memory":[{"page":"place/climb-floor-2","fact":"Each climber arrives dressed: Alan in black evening clothes, Mina in a dark red silk halter gown.","learns":"character-player/climb-alan"},{"page":"place/climb-floor-2","fact":"Each climber arrives dressed: Alan in black evening clothes, Mina in a dark red silk halter gown.","learns":"character-other/climb-mina"},{"page":"place/climb-floor-2","fact":"Each climber wears a half-mask over the eyes: Alan's plain black, Mina's gold filigree.","learns":"character-player/climb-alan"},{"page":"place/climb-floor-2","fact":"Each climber wears a half-mask over the eyes: Alan's plain black, Mina's gold filigree.","learns":"character-other/climb-mina"}]}
 {"beat":12,"event":"She tries her mask with two fingers, precise, then harder; it will not move either."}
 {"beat":13,"event":"She says, composed and cool, that she supposes this is the next floor."}
-{"beat":14,"event":"She is Mina, a cellist with an orchestra in Vienna; she was packing her cello case after rehearsal.","memory":[{"page":"lore/climb-mina","fact":"Mina plays cello with an orchestra in Vienna.","learns":"character-player/climb-alan"}],"pictured":[{"cover":"image/image-9d40b6ffd0d47327","coverAfter":"She's slender and willowy, her skin a smooth pale gold, her arms","character":"character-other/climb-mina","outfit":"dark red silk halter gown, gold filigree half-mask"}]}
-{"beat":15,"event":"She woke on a floor of her own, a library, and met its task with two other women."}
+{"beat":14,"event":"She is Mina, a cellist with an orchestra in Vienna; she was packing her cello case after rehearsal.","memory":[{"page":"lore/climb-mina","fact":"Mina plays cello with an orchestra in Vienna.","learns":"character-player/climb-alan"},{"page":"lore/climb-mina","fact":"Mina's last memory before the tower is packing her cello case after a late rehearsal.","learns":"character-player/climb-alan"}],"pictured":[{"cover":"image/image-9d40b6ffd0d47327","coverAfter":"She's slender and willowy, her skin a smooth pale gold, her arms","character":"character-other/climb-mina","outfit":"dark red silk halter gown, gold filigree half-mask"}]}
+{"beat":15,"event":"She woke on a floor of her own, a library, and met its task with two other women.","memory":[{"page":"lore/climb-mina","fact":"Mina woke on a floor 1 of her own, a library, and met its task there with two other women.","learns":"character-player/climb-alan"}]}
 {"beat":16,"event":"You tell her about the bathhouse, and Clara and Ines; she listens with her head turned slightly."}
-{"beat":17,"event":"You notice she always turns her right side toward you when you speak."}
-{"beat":18,"event":"Red velvet chaises line the walls; a long table holds wine, fruit and candles."}
+{"beat":17,"event":"You notice she always turns her right side toward you when you speak.","memory":[{"page":"lore/climb-mina","fact":"Mina turns her right side toward whoever speaks to her.","learns":"character-player/climb-alan"}]}
+{"beat":18,"event":"Red velvet chaises line the walls; a long table holds wine, fruit and candles.","memory":[{"page":"place/climb-floor-2","fact":"Red velvet chaises line the walls, and a long table holds wine, fruit and candles.","learns":"character-player/climb-alan"},{"page":"place/climb-floor-2","fact":"Red velvet chaises line the walls, and a long table holds wine, fruit and candles.","learns":"character-other/climb-mina"}]}
 {"beat":19,"event":"Tall gilded doors stand shut behind the dais; Mina tries them, and they do not give."}
 {"beat":20,"event":"A gilt placard on an easel at the head of the ballroom."}
-{"beat":21,"event":"The placard: EVERY CLIMBER ON THIS FLOOR COMES AT ONCE."}
+{"beat":21,"event":"The placard: EVERY CLIMBER ON THIS FLOOR COMES AT ONCE.","changes":[{"page":"climb-floor/climb-floor-2","make":{"title":"Floor 2: The Masquerade","world":"world/climb","character":"character-player/climb-alan","objective":"EVERY CLIMBER ON THIS FLOOR COMES AT ONCE.","status":"active"},"note":"Floor 2 filed the moment its task is stated, active"}],"memory":[{"page":"place/climb-floor-2","fact":"A gilt placard on an easel at the head of the ballroom states the task.","learns":"character-player/climb-alan"},{"page":"place/climb-floor-2","fact":"A gilt placard on an easel at the head of the ballroom states the task.","learns":"character-other/climb-mina"},{"page":"place/climb-floor-2","fact":"Floor 2's task, on the placard: EVERY CLIMBER ON THIS FLOOR COMES AT ONCE.","learns":"character-player/climb-alan"},{"page":"place/climb-floor-2","fact":"Floor 2's task, on the placard: EVERY CLIMBER ON THIS FLOOR COMES AT ONCE.","learns":"character-other/climb-mina"}]}
 {"beat":22,"event":"Mina reads it twice; you watch her mouth tighten, then go perfectly still."}
-{"beat":23,"event":"She says, at once means together; the same moment, the two of us."}
+{"beat":23,"event":"She says, at once means together; the same moment, the two of us.","memory":[{"page":"place/climb-floor-2","fact":"Floor 2 holds two climbers: Alan and Mina.","learns":"character-player/climb-alan"},{"page":"place/climb-floor-2","fact":"Floor 2 holds two climbers: Alan and Mina.","learns":"character-other/climb-mina"}]}
 {"beat":24,"event":"She says, dry, that this is a duet, and duets are about counting."}
 {"beat":25,"event":"She says she wants out: her audition for principal cello is in three weeks."}
-{"beat":26,"event":"She has wanted that chair a long time; she says it lightly, as if it matters less than it does."}
-{"beat":27,"event":"She pours two glasses of wine at the long table and hands you one; her hand is steady."}
-{"beat":28,"event":"She says she hates being seen to try, and asks if you dance, since it is playing anyway."}
-{"beat":29,"event":"You waltz across the empty floor; she leads a little, then lets you lead."}
+{"beat":26,"event":"She has wanted that chair a long time; she says it lightly, as if it matters less than it does.","memory":[{"page":"lore/climb-mina","fact":"Mina wants out for her audition for principal cello in three weeks, a chair she has long wanted.","learns":"character-player/climb-alan"}]}
+{"beat":27,"event":"She pours two glasses of wine at the long table and hands you one; her hand is steady.","at":"2026-10-01T05:05:00.000Z"}
+{"beat":28,"event":"She says she hates being seen to try, and asks if you dance, since it is playing anyway.","memory":[{"page":"lore/climb-mina","fact":"Mina is reserved, precise and elegant, a perfectionist who hates being seen to try.","learns":"character-player/climb-alan"}]}
+{"beat":29,"event":"You waltz across the empty floor; she leads a little, then lets you lead.","at":"2026-10-01T05:10:00.000Z"}
 {"beat":30,"event":"In the mirrors two masked strangers turn and turn among the candles."}
 {"beat":31,"event":"Her body warms against yours through the silk; she has nothing on under the gown."}
 {"beat":32,"event":"She stops in the middle of the floor, tips her masked face up, and kisses you."}
 {"beat":33,"event":"The kiss is slow and very controlled, and then not controlled at all; she bites your lip."}
 {"beat":34,"event":"She says quietly in your ear that she wants to be taken apart, slowly; she will not be hurried.","pictured":[{"cover":"image/image-3bd2cbe6df8ae366","coverAfter":"In the mirrors two masked strangers turn and turn among the candles,","character":"character-other/climb-mina","outfit":"dark red silk halter gown, gold filigree half-mask"}]}
 {"beat":35,"event":"She says she can hold back her coming, as long as she has to; she says you will have to tell her."}
-{"beat":36,"event":"She draws you to a red velvet chaise against a mirrored wall, where the candles are thickest."}
+{"beat":36,"event":"She draws you to a red velvet chaise against a mirrored wall, where the candles are thickest.","at":"2026-10-01T05:20:00.000Z"}
 {"beat":37,"event":"You untie the halter at her neck; the silk falls to her waist."}
 {"beat":38,"event":"Small tits, dark nipples; she watches you look at them in the mirror behind you."}
 {"beat":39,"event":"You kiss her throat, her collarbones, then take a nipple in your mouth and suck it slow."}
 {"beat":40,"event":"She breathes in sharp and holds the back of your head there, then sends you to the other one.","pictured":[{"cover":"image/image-dc8b952d045cfcf4","coverAfter":"She takes your hand and draws you across the floor to a","character":"character-other/climb-mina","outfit":"topless, the red gown slipped to her waist, gold filigree half-mask"}]}
 {"beat":41,"event":"She pushes the gown down over her hips and steps out of it, naked but for the gold mask."}
-{"beat":42,"event":"A small neat tuft of black hair over her cunt; she sits back on the chaise and opens her knees."}
+{"beat":42,"event":"A small neat tuft of black hair over her cunt; she sits back on the chaise and opens her knees.","memory":[{"page":"lore/climb-mina","fact":"Mina has small tits with dark nipples, and a small neat tuft of black hair over her cunt.","learns":"character-player/climb-alan"}]}
 {"beat":43,"event":"She tells you exactly how: slowly, and she will tell you if you are doing it wrong."}
 {"beat":44,"event":"You kneel and kiss up the inside of her thigh; she is already wet."}
 {"beat":45,"event":"You lick her cunt in slow strokes, spreading her lips with your thumbs, tasting her."}
@@ -48,12 +48,12 @@
 {"beat":48,"event":"She says stop, sharp; you stop; she breathes, eyes shut, and holds it back."}
 {"beat":49,"event":"She says, not yet; it has to be both of us; if I go now it is wasted."}
 {"beat":50,"event":"You start again, slower; she lets you bring her close twice, and twice she holds it back."}
-{"beat":51,"event":"She is greedy now, her hips chasing your mouth, wet down her thighs onto the velvet."}
+{"beat":51,"event":"She is greedy now, her hips chasing your mouth, wet down her thighs onto the velvet.","memory":[{"page":"lore/climb-mina","fact":"Under her composure Mina is greedy in sex, and wants to be taken apart slowly.","learns":"character-player/climb-alan"}]}
 {"beat":52,"event":"She pulls you up by your lapels and gets your clothes open with long quick cellist's fingers."}
 {"beat":53,"event":"She frees your cock and strokes it, studying it with the same precision she gave the mask."}
 {"beat":54,"event":"She tells you to get undressed, all of it, and watches you do it in the mirror.","pictured":[{"cover":"image/image-cc5683deffc216bf","coverAfter":"She breathes. Her eyes are shut behind the mask, her head tipped","character":"character-other/climb-mina","outfit":"naked but for a gold filigree half-mask"}]}
 {"beat":55,"event":"You are both naked but for the masks; the waltz goes on, slow, from nowhere."}
-{"beat":56,"event":"She lies back on the chaise and pulls you down onto her, her knees wide."}
+{"beat":56,"event":"She lies back on the chaise and pulls you down onto her, her knees wide.","at":"2026-10-01T05:45:00.000Z"}
 {"beat":57,"event":"She takes your cock in her hand, rubs the head along her wet slit, and guides it into her cunt."}
 {"beat":58,"event":"You push into her slow, all the way; she is tight and hot, and she lets out one long breath."}
 {"beat":59,"event":"You fuck her slow, deep strokes, in time with the waltz; she says yes, like that, just like that."}
@@ -63,7 +63,7 @@
 {"beat":63,"event":"She tells you to slow; she wants to last; you slow almost to stopping."}
 {"beat":64,"event":"You ask what she wants; she hesitates, then holds out her wrists."}
 {"beat":65,"event":"She says, hold them down; only if you will; she says it as if it costs her."}
-{"beat":66,"event":"You pin her wrists above her head on the velvet with one hand, and she shudders all over."}
+{"beat":66,"event":"You pin her wrists above her head on the velvet with one hand, and she shudders all over.","memory":[{"page":"lore/climb-mina","fact":"Mina loves her wrists held down while she is fucked, and asks for it only once she trusts him.","learns":"character-player/climb-alan"}]}
 {"beat":67,"event":"Something lets go in her face under the mask; the composure is gone.","pictured":[{"cover":"image/image-93a0148ffec9ee99","coverAfter":"In the mirror over her head you see yourself fucking her: a","character":"character-other/climb-mina","outfit":"naked but for a gold filigree half-mask"}]}
 {"beat":68,"event":"You fuck her harder now, wrists pinned, her hips coming up to meet every stroke."}
 {"beat":69,"event":"She is wet and loud now, high helpless sounds, her cunt clenching on your cock and holding."}
@@ -74,19 +74,19 @@
 {"beat":74,"event":"She says, on the next one, and turns her right ear to your mouth to hear you breathe."}
 {"beat":75,"event":"On the downbeat she says now."}
 {"beat":76,"event":"You come inside her, deep, pulse after pulse, and she lets go at the same moment."}
-{"beat":77,"event":"She comes in long rolling waves, crying out high and helpless, her wrists straining under your hand."}
+{"beat":77,"event":"She comes in long rolling waves, crying out high and helpless, her wrists straining under your hand.","memory":[{"page":"lore/climb-mina","fact":"Mina comes in long rolling waves, crying out high and helpless, and can hold back her coming.","learns":"character-player/climb-alan"}]}
 {"beat":78,"event":"Her cunt clenches and clenches on your cock, wave after wave, milking every pulse out of you."}
-{"beat":79,"event":"At the same instant the gilded doors behind the dais swing open, and the waltz stops.","changes":[{"page":"climb-floor/climb-floor-2","key":"status","from":"active","to":"complete","note":"Floor 2's task is met, and its gilded doors open"}]}
-{"beat":80,"event":"Her mask falls loose onto the velvet; yours drops from your face onto her chest.","pictured":[{"cover":"image/image-a8949fc4122a5997","coverAfter":"She comes in long rolling waves, crying out high and helpless, her","character":"character-other/climb-mina","outfit":"naked but for a gold filigree half-mask"}]}
-{"beat":81,"event":"For the first time you see her whole face: dark eyes wet, full mouth open, her fringe damp."}
+{"beat":79,"event":"At the same instant the gilded doors behind the dais swing open, and the waltz stops.","at":"2026-10-01T06:10:00.000Z","changes":[{"page":"climb-floor/climb-floor-2","key":"status","from":"active","to":"complete","note":"Floor 2's task is met, and its gilded doors open"}]}
+{"beat":80,"event":"Her mask falls loose onto the velvet; yours drops from your face onto her chest.","memory":[{"page":"place/climb-floor-2","fact":"The masks will not come off, however they are pulled, until the doors up open.","learns":"character-player/climb-alan"},{"page":"place/climb-floor-2","fact":"The masks will not come off, however they are pulled, until the doors up open.","learns":"character-other/climb-mina"}],"pictured":[{"cover":"image/image-a8949fc4122a5997","coverAfter":"She comes in long rolling waves, crying out high and helpless, her","character":"character-other/climb-mina","outfit":"naked but for a gold filigree half-mask"}]}
+{"beat":81,"event":"For the first time you see her whole face: dark eyes wet, full mouth open, her fringe damp.","memory":[{"page":"lore/climb-mina","fact":"Mina has dark eyes, a full mouth, and glossy black hair in a chin-length bob with a blunt fringe.","learns":"character-player/climb-alan"}]}
 {"beat":82,"event":"You let go of her wrists; she does not move them for a long moment."}
 {"beat":83,"event":"She laughs, breathless, then puts her hand over her face, then takes it away and looks at you."}
 {"beat":84,"event":"She says, very quietly, that her left ear is going; it has been fading for a year.","memory":[{"page":"lore/climb-mina","fact":"Mina's left ear has been fading for a year.","learns":"character-player/climb-alan"}]}
-{"beat":85,"event":"She says she has told nobody, not her orchestra, nobody; she does not know why she told you."}
+{"beat":85,"event":"She says she has told nobody, not her orchestra, nobody; she does not know why she told you.","memory":[{"page":"lore/climb-mina","fact":"Mina has told nobody, not even her orchestra, that her left ear is going.","learns":"character-player/climb-alan"}]}
 {"beat":86,"event":"You say nothing; she nods, as if that was the right thing to say."}
 {"beat":87,"event":"She dresses in the red silk again, ties the halter, and smooths her fringe in the mirror."}
-{"beat":88,"event":"Behind the gilded doors two stairways rise, side by side and then apart.","pictured":[{"cover":"image/image-1142a0f432536f35","coverAfter":"She gets up and dresses in the red silk again, ties the","character":"character-other/climb-mina","outfit":"naked"}]}
+{"beat":88,"event":"Behind the gilded doors two stairways rise, side by side and then apart.","memory":[{"page":"place/climb-floor-2","fact":"Tall gilded doors behind the dais are shut, and the stairs up lie behind them.","learns":"character-player/climb-alan"},{"page":"place/climb-floor-2","fact":"Tall gilded doors behind the dais are shut, and the stairs up lie behind them.","learns":"character-other/climb-mina"},{"page":"place/climb-floor-2","fact":"Once the doors open the masks fall loose, and two stairways part Alan and Mina.","learns":"character-player/climb-alan"},{"page":"place/climb-floor-2","fact":"Once the doors open the masks fall loose, and two stairways part Alan and Mina.","learns":"character-other/climb-mina"}],"pictured":[{"cover":"image/image-1142a0f432536f35","coverAfter":"She gets up and dresses in the red silk again, ties the","character":"character-other/climb-mina","outfit":"naked"}]}
 {"beat":89,"event":"She stops at the dais and touches the cello's neck once, lightly, then lets it be."}
 {"beat":90,"event":"She kisses you, slow and precise, and tells you good luck in Korean, then in English."}
-{"beat":91,"event":"She takes the left stair without looking back, her back very straight.","leave":["character-other/climb-mina"]}
-{"beat":92,"event":"You dress again in the black evening clothes, take the right stair alone, and climb."}
+{"beat":91,"event":"She takes the left stair without looking back, her back very straight.","at":"2026-10-01T06:20:00.000Z","leave":["character-other/climb-mina"]}
+{"beat":92,"event":"You dress again in the black evening clothes, take the right stair alone, and climb.","at":"2026-10-01T06:25:00.000Z"}
