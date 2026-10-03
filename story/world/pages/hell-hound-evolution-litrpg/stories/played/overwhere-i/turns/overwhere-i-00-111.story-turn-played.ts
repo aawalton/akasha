@@ -7,7 +7,12 @@ export const overwhereI00111 = {
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-i"],
   position: 111,
-  stepStatus: "step-status/world-builder",
+  stepStatus: "step-status/game-master",
   action:
     "I double channel earth, pulling the stone ledge into sharp spikes piercing into its soft flesh underneath, angled to keep it on the ledge, then fire again at the head",
+  lore: [
+    "lore/overwhere-i-starfall-legacy",
+    "lore/overwhere-i-starfall-legacy-2",
+    "place/overwhere-i-hobbs-mill-weir",
+  ],
 } as const satisfies StoryTurnPlayed
