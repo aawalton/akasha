@@ -11,4 +11,5 @@ export const overwhereIii00094 = {
   action:
     "I rest and recover my mana, while practicing with the currents, trying to come up with new spells",
   lore: ["lore/overwhere-iii-holy-ward"],
+  endsAt: "2026-10-09T17:15:00.000Z",
 } as const satisfies StoryTurnPlayed
