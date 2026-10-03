@@ -283,5 +283,9 @@ export const overwhereIHobbsMillWeir = {
       fact: "Seeing the wyrm die, Jory Pell whoops from Hobb's landing.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
+    {
+      fact: "Nala's spikes passed a hand's breadth from the wyrm's bile sac; it lies whole under the liver.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Place
