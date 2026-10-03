@@ -60,6 +60,10 @@ export const overwhereIiiMotherSallow = {
       fact: "She trusts her charm fully and does not know any sight can see through it.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "To Nala's Mana Weaver sight, the old charcoal-burner's aura is a sick violet-black.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
