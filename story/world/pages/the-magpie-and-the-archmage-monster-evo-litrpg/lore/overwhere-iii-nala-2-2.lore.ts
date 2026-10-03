@@ -156,5 +156,9 @@ export const overwhereIiiNala22 = {
       fact: "On day 11 at the shrine Nala cracked her five seed stones with fed weaves, one by one, to specks.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
+    {
+      fact: "Nala's first try closing white-gold over her forearm slipped and stung her; slower, fed, it held.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+    },
   ],
 } as const satisfies Lore
