@@ -117,5 +117,9 @@ export const overwhereIiiCleansingWeave = {
       fact: "She can pull blight from her own wounds as from anyone's, at the same cost as any pull.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
+    {
+      fact: "Ten telling uses past Novice show: [Cleansing Weave has advanced: Novice → Adept]",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
