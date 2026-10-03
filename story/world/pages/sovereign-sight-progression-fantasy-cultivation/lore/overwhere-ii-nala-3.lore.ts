@@ -226,7 +226,7 @@ export const overwhereIiNala3 = {
     },
     {
       fact: "A night's sleep restores Nala's mind after an organ; she needs no rest day between organs.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Nala refines her gut whole on day twenty-five, sick and cramping for hours.",
