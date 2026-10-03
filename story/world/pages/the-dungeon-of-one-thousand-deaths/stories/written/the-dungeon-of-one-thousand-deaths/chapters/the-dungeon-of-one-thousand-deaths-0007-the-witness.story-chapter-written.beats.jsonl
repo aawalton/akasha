@@ -1,0 +1,73 @@
+{"beat":1,"event":"A fire has burned at this spot for ninety-four days, and Fennick Rall has sat beside most of it.","place":"place/the-dungeon-of-one-thousand-deaths-the-camp","present":["character-other/the-dungeon-of-one-thousand-deaths-fennick-rall"]}
+{"beat":2,"event":"He is sixty-three, and in three months he has not gone in."}
+{"beat":3,"event":"He rises before dawn in the grey hour, wakes no one, and says nothing.","at":"2029-07-07T04:30:00.000Z"}
+{"beat":4,"event":"He picks up his pack, walks to the entrance, and goes in."}
+{"beat":5,"event":"Three months before, his son Davin, a carter of twenty-six, went in without telling him."}
+{"beat":6,"event":"Davin entered on the morning Fennick later reckoned as Death #4."}
+{"beat":7,"event":"A man from the camp told him plainly fourteen days later; two days after, he started walking."}
+{"beat":8,"event":"He arrived when the count stood at six deaths, and sat down by the fire."}
+{"beat":9,"event":"He watched Sera Vant go in, then a scribe, then a man who studied the stone eleven minutes."}
+{"beat":10,"event":"He watched a young woman roll a glass bead by his fire the night before she entered."}
+{"beat":11,"event":"He spoke to none of them, and they did not need him to."}
+{"beat":12,"event":"He watched the camp form round the dungeon like scar tissue round a wound."}
+{"beat":13,"event":"He watched the ledger-keeper set up his table, and merchants come with rope and lanterns."}
+{"beat":14,"event":"Four days ago a pale young man came back out and drew an arch on the blank cloth."}
+{"beat":15,"event":"Under it he wrote: 300 meters in. Solid. Built by someone."}
+{"beat":16,"event":"For ninety-four days he watched everything, and did not go in."}
+{"beat":17,"event":"He steps through the entrance he has never been nearer than five meters to.","place":"place/the-dungeon-of-one-thousand-deaths-the-gullet"}
+{"beat":18,"event":"The warmth inside has a source; the ribbed corridor is no worse than mines he has known."}
+{"beat":19,"event":"He carries a lantern and three days' food, packed correctly."}
+{"beat":20,"event":"He reads the registry: Edric Voss, Maren Voss, Lira, Bren Aldic, Dara Hess, Mira Doss."}
+{"beat":21,"event":"Then a gap, smooth and clean, and he stands before it a long time."}
+{"beat":22,"event":"Past it, newer: Sera Vant, Sylas Renn on the keystone, Asha Trevane, first to arrive."}
+{"beat":23,"event":"He cannot know whether the blank is Davin's; he touches it, and the dungeon does not respond."}
+{"beat":24,"event":"Near the mouth of a side passage he picks up the warm amber-gold glass bead."}
+{"beat":25,"event":"He knows the young woman meant to leave it, and sets it back where it was."}
+{"beat":26,"event":"At three hundred meters he reaches the arch from the drawing.","place":"place/the-dungeon-of-one-thousand-deaths-the-gap"}
+{"beat":27,"event":"Four meters, three voussoirs, unadorned: courage and craft in equal measure."}
+{"beat":28,"event":"He reads the keystone, finds the lantern's oil half full and tended, and crosses."}
+{"beat":29,"event":"The Ledger: Depth 2, the Warrens, Resolve +1, now 30.","place":"place/the-dungeon-of-one-thousand-deaths-the-marrow-warrens","changes":[{"page":"metric-character-stat/the-dungeon-of-one-thousand-deaths-fennick-rall-resolve","key":"value","from":29,"to":30,"note":"Depth transition into the Warrens, Resolve +1"}]}
+{"beat":30,"event":"The Asking finds him at the first junction, like someone calling his name in a crowd."}
+{"beat":31,"event":"I want to find my son."}
+{"beat":32,"event":"The Ledger names him The Witness, with the Gift Testimony: perfect replay of all he saw since camp."}
+{"beat":33,"event":"Its Cost is Absence: while in Testimony he cannot perceive the present."}
+{"beat":34,"event":"The Ledger reads Vitality 14, Resolve 29, Attunement 11, Fortune 16."}
+{"beat":35,"event":"It notes him voluntary and non-Compelled: The Maw did not bring him here."}
+{"beat":36,"event":"He stands a long time with that last line."}
+{"beat":37,"event":"He sees he believed Davin was made to come, so the death was done to Davin, not by him."}
+{"beat":38,"event":"He goes north, where the heat rises, as the accounts said."}
+{"beat":39,"event":"He finds the scribe's journal against the left wall, sits by his lantern, and reads it."}
+{"beat":40,"event":"He reads it as the record of five who died one by one, and the man who wrote them down."}
+{"beat":41,"event":"The last entry: To whoever reads this."}
+{"beat":42,"event":"He props it back at the same angle; the next person will need it more."}
+{"beat":43,"event":"He uses Testimony for the first time, replaying Petra at camp describing the pattern room.","changes":[{"page":"metric-character-stat/the-dungeon-of-one-thousand-deaths-fennick-rall-attunement","key":"value","from":11,"to":12,"note":"First Testimony activation, Attunement +1"}]}
+{"beat":44,"event":"She went left at a junction and found walls covered in a fine script, repeated."}
+{"beat":45,"event":"He goes left and finds the pattern room, its walls covered in Orvyn's cramped script.","place":"place/the-dungeon-of-one-thousand-deaths-the-pattern-room"}
+{"beat":46,"event":"He knows a man who wrote down his people's deaths because it was all he knew to do."}
+{"beat":47,"event":"Recognition is not resolution, but it gives his ninety-four days a name."}
+{"beat":48,"event":"He enters the Still Garden; the creature is at the far end of a row, plain to see.","place":"place/the-dungeon-of-one-thousand-deaths-the-still-garden","present":["character-other/the-dungeon-of-one-thousand-deaths-fennick-rall","character-other/the-dungeon-of-one-thousand-deaths-the-gorger"]}
+{"beat":49,"event":"The Ledger: Depth 3, Resolve +1, now 31.","changes":[{"page":"metric-character-stat/the-dungeon-of-one-thousand-deaths-fennick-rall-resolve","key":"value","from":30,"to":31,"note":"Depth transition into the Still Garden, Resolve +1"}]}
+{"beat":50,"event":"He notes a sword and a spear by the eastern wall, and no knife."}
+{"beat":51,"event":"He and the creature watch each other, and neither moves."}
+{"beat":52,"event":"After a while he begins to look for Davin."}
+{"beat":53,"event":"He closes his eyes and replays the morning of Death #4.","changes":[{"page":"metric-character-stat/the-dungeon-of-one-thousand-deaths-fennick-rall-attunement","key":"value","from":12,"to":13,"note":"Second Testimony activation, Attunement +1"}]}
+{"beat":54,"event":"He was never there, so Testimony gives only the shape of the missing memory."}
+{"beat":55,"event":"He opens his eyes, his son's absence in his hands."}
+{"beat":56,"event":"He lets himself see the crystals are beautiful: someone grew beauty in the dark."}
+{"beat":57,"event":"The creature is no longer at the end of the row."}
+{"beat":58,"event":"He had been told it moves when you are not watching, and he had closed his eyes."}
+{"beat":59,"event":"He reaches for his pack, and the creature is simply there, and he is not.","changes":[{"page":"metric-character-stat/the-dungeon-of-one-thousand-deaths-fennick-rall-vitality","key":"value","from":14,"to":0,"note":"Fennick is killed by the Patient while in Testimony, Vitality to 0"}]}
+{"beat":60,"event":"The death report: Fennick Rall, the Witness, Depth 3, killed by the Patient in Testimony."}
+{"beat":61,"event":"His Memory Crystal is bronze: patience, waiting without knowing if it will come."}
+{"beat":62,"event":"No Floor Mutation; Witness complete."}
+{"beat":63,"event":"The first non-Compelled voluntary entrant: The Maw did not bring him here."}
+{"beat":64,"event":"The Ledger makes a new category: Voluntary Entrant, Non-Compelled."}
+{"beat":65,"event":"His desire was real, and pointed at what the dungeon could not give him."}
+{"beat":66,"event":"Davin is part of the dungeon as every death is, which is not the same as findable."}
+{"beat":67,"event":"Testimony showed him the absence of his son, and that was truthful."}
+{"beat":68,"event":"The Patient settles back among the crystals; four kills now, its name unchanged."}
+{"beat":69,"event":"At camp the ledger-keeper writes: Fennick Rall, entered this morning, not returned."}
+{"beat":70,"event":"In the margin: at camp about three months; knew the entrance better than most."}
+{"beat":71,"event":"On the blank cloth Petra has written: Rall helped me read the pattern. Thanks, F.R."}
+{"beat":72,"event":"The tally turns: 989 remain."}
+{"beat":73,"event":"FENNICK RALL — DEPTH 3 — FIRST TO CHOOSE."}
