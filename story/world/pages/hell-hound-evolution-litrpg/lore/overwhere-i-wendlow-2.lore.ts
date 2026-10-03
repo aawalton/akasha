@@ -202,7 +202,7 @@ export const overwhereIWendlow2 = {
     },
     {
       fact: "Ilse will not hurry a setting, and says a band's metal makes no difference to a focus.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
   ],
 } as const satisfies Lore
