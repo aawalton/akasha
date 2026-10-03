@@ -6,7 +6,7 @@ export const saltAndLamplight0002HerMothersDress = {
   slug: "salt-and-lamplight-0002-her-mothers-dress",
   cover: "image/image-a9468cb1dc383b4e",
   completedAt: "2026-10-02T15:29:36.379Z",
-  ownProgress: 1650,
+  ownProgress: 3308,
   position: 2,
   unit: "unit/words",
   title: "Her Mother's Dress",
