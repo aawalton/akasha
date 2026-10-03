@@ -1,16 +1,16 @@
 import type { StoryChapterWritten } from "akasha/story/world/stories/written/chapters/story-chapter-written.page-type.types.ts"
 
-export const hollowmere0031 = {
+export const hollowmere0031DrawWell = {
   id: "01a101fd-88bf-77d0-b795-8fa80381f4af",
   type: "page-type/story-chapter-written",
-  slug: "hollowmere-0031",
+  slug: "hollowmere-0031-draw-well",
   position: 31,
   unit: "unit/words",
-  title: "Chapter 31",
+  title: "Draw Well",
   story: "story-written/hollowmere",
-  ownLength: 0,
+  ownLength: 3565,
   prose: "txt",
-  stepStatus: "step-status/writer",
+  stepStatus: "step-status/reviewers",
   beats: [
     "Wednesday of week five: a hard bright frost; the quad white, the mere steaming in the low sun.",
     "Bea runs the shore and comes back pink, and eats porridge with her hand on your knee.",
@@ -72,5 +72,22 @@ export const hollowmere0031 = {
     "You sleep in room 8, her hair across your face, the candle burnt down to nothing on the desk.",
     "A day at Hollowmere ends.",
   ],
-  lore: ["lore/hollowmere-lin", "lore/hollowmere-lin-2"],
+  lore: [
+    "lore/hollowmere-bea",
+    "lore/hollowmere-bea-2",
+    "lore/hollowmere-kit",
+    "lore/hollowmere-kit-2",
+    "lore/hollowmere-kit-2-2",
+    "lore/hollowmere-lin",
+    "lore/hollowmere-lin-2",
+    "lore/hollowmere-nala",
+    "lore/hollowmere-nala-2",
+    "lore/hollowmere-nala-2-2",
+  ],
+  characters: [
+    "character-player/hollowmere-nala",
+    "character-other/hollowmere-lin",
+    "character-other/hollowmere-bea",
+    "character-other/hollowmere-kit",
+  ],
 } as const satisfies StoryChapterWritten
