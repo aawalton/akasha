@@ -4,10 +4,13 @@ export const overwhereI00104 = {
   id: "01a0ff66-7daf-7917-9526-e4aa566a4e0d",
   type: "page-type/story-turn-played",
   slug: "overwhere-i-00-104",
+  ownLength: 311,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-i"],
   position: 104,
-  stepStatus: "step-status/writer",
+  prose: "txt",
+  characters: ["character-player/overwhere-i-nala"],
+  stepStatus: "step-status/reviewers",
   action:
     "“Lets do the ring, I like to keep my hands free. Anything we can do it make it stronger? I have gold to spare, say up to 50 gold investment? What options do you have for me?”",
   beats: [
@@ -24,6 +27,6 @@ export const overwhereI00104 = {
     '"Band metal\'s all one to a focus. And I set at my own pace, whatever you pay."',
     'Ilse folds her inky hands on the counter. "So. Plain, second pearl, well-stone, or both?"',
   ],
-  lore: ["lore/overwhere-i-wendlow-2"],
+  lore: ["lore/overwhere-i-nala", "lore/overwhere-i-nala-2", "lore/overwhere-i-wendlow-2"],
   endsAt: "2026-10-05T13:10:00.000Z",
 } as const satisfies StoryTurnPlayed
