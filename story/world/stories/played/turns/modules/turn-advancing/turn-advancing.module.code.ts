@@ -42,6 +42,7 @@ import {
 } from "akasha/story/world/stories/played/turns/modules/turn-lifecycle/turn-lifecycle.module.code.ts"
 import { loreRefused } from "akasha/story/world/stories/played/turns/modules/turn-lore-handed/turn-lore-handed.module.code.ts"
 import {
+  beatsRefused,
   linesRefused,
   mechanicked,
   type Recorded,
@@ -240,7 +241,7 @@ function fromBeats(
 ): Advanced {
   const who = held.status === BEAT_EDITOR ? "beat editor" : "game master"
   if (beats.length === 0) return { refused: `a ${who}'s advance hands in beats, and this has none` }
-  const wrong = linesRefused("beat", beats, nounOf(held))
+  const wrong = beatsRefused(beats, held)
   if (wrong !== null) return { refused: wrong }
   const values = {
     beats: HELD_LINES,

@@ -45,5 +45,9 @@ export const turnMechanics = {
       decisionKind: "decision-kind/departure",
       statement: "A beat, an issue or a change note is at most 100 characters, a turn 100 of each.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A chapter holds at most 100 beats, or 200 where its story has editor steps.",
+    },
   ],
 } as const satisfies Module

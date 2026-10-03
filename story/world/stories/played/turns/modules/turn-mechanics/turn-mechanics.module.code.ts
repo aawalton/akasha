@@ -12,6 +12,8 @@ import {
 
 const MOST_LINES = 100
 
+const EDITED = 2
+
 const LONGEST_LINE = 100
 
 const PARTED = "/"
@@ -30,16 +32,29 @@ export type Mechanicked =
       readonly next: "mechanics" | "game-master" | "on"
     }
 
-export function linesRefused(one: string, lines: readonly string[], noun: Noun): string | null {
+function mostBeats(editorSteps: boolean | undefined): number {
+  return editorSteps === true ? MOST_LINES * EDITED : MOST_LINES
+}
+
+export function linesRefused(
+  one: string,
+  lines: readonly string[],
+  noun: Noun,
+  most: number = MOST_LINES
+): string | null {
   const what = `${one}s`
-  if (lines.length > MOST_LINES) {
-    return `a ${noun} holds at most ${MOST_LINES} ${what}, and this makes ${lines.length}`
+  if (lines.length > most) {
+    return `a ${noun} holds at most ${most} ${what}, and this makes ${lines.length}`
   }
   const long = lines.flatMap((line, at) =>
     line.length > LONGEST_LINE ? [`${one} ${at + 1} runs to ${line.length}`] : []
   )
   if (long.length === 0) return null
   return `each of a ${noun}'s ${what} is at most ${LONGEST_LINE} characters, and ${long.join(", ")}`
+}
+
+export function beatsRefused(beats: readonly string[], held: Held): string | null {
+  return linesRefused("beat", beats, held.noun ?? TURN, mostBeats(held.editorSteps))
 }
 
 export function mechanicked(
