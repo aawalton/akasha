@@ -4,6 +4,7 @@ export const overwhereIi00101 = {
   id: "01a0ff82-544d-7679-8537-50858892db22",
   type: "page-type/story-turn-played",
   slug: "overwhere-ii-00-101",
+  cover: "image/image-5476838f2f325b60",
   ownLength: 215,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-ii"],
@@ -38,6 +39,7 @@ export const overwhereIi00101 = {
     "place/overwhere-ii-callow-beck",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/memory"],
+  recordedBy: ["story-recorder/inventory", "story-recorder/memory", "story-recorder/picture"],
   endsAt: "2026-10-25T18:30:00.000Z",
+  coverAfter: "The black water leans against the bank. The bank holds.",
 } as const satisfies StoryTurnPlayed
