@@ -342,7 +342,7 @@ export const overwhereIStarfallLegacy2 = {
     },
     {
       fact: "An earth-and-water weave worked into a wool tear felts its fibres shut in a stiff, ridged seam.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
     {
       fact: "Felting wool costs 10 mana a minute; a hand-span tear takes about five minutes, with no roll.",
