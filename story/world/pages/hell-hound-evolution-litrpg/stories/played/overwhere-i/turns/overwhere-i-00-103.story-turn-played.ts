@@ -33,6 +33,8 @@ export const overwhereI00103 = {
     '"Half before I start. Once it\'s set, it belongs to the focus for good, past drawing on or selling."',
     'Ilse holds out her palm for the pearl. "Ring or rod?"',
   ],
+  issues: ['"The pearl favours no element" - Plain Negation'],
   lore: ["lore/overwhere-i-nala", "lore/overwhere-i-nala-2", "lore/overwhere-i-wendlow-2"],
+  reviewedBy: ["story-reviewer/style"],
   endsAt: "2026-10-05T13:05:00.000Z",
 } as const satisfies StoryTurnPlayed
