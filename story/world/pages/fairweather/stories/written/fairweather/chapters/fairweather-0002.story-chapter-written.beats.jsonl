@@ -1,4 +1,4 @@
-{"beat":1,"event":"The ovens wake Elsie at four; it is quest day, and she is up and dressed in a rush.","at":"2026-06-02T04:00:00.000Z","place":"place/fairweather-honeycomb","present":["character-player/fairweather-elsie"]}
+{"beat":1,"event":"The ovens wake Elsie at four; it is quest day, and she is up and dressed in a rush.","at":"2026-06-02T04:00:00.000Z","place":"place/fairweather-honeycomb","present":["character-player/fairweather-elsie"],"changes":[{"page":"story-item/fairweather-adventurers-outfit","note":"Elsie dresses in a rush: halter, skirt, belt, gloves, boots","key":"slot","from":null,"to":"item-slot/body"},{"page":"story-item/fairweather-copper-rank-tag","note":"Belt off the bedpost, rank tag and all, buckled on","key":"slot","from":null,"to":"item-slot/waist"}]}
 {"beat":2,"event":"She tells the plants she is off adventuring, and asks Captain to keep an eye on the others."}
 {"beat":3,"event":"She packs her satchel twice, fills her water flask, and runs down past the baker's floury wave."}
 {"beat":4,"event":"At the east gate in the dawn mist, Tamsin is already waiting, Margery on her back.","at":"2026-06-02T04:50:00.000Z","place":"place/fairweather-lanternmere","arrive":["character-other/fairweather-tamsin","character-other/fairweather-cora"]}
@@ -12,7 +12,7 @@
 {"beat":12,"event":"Elsie laughs until she has to hold the gatepost; then Tilly laughs, and at last Tamsin does too."}
 {"beat":13,"event":"Two steps back, Cora writes in her ledger, and the corner of her mouth moves, once."}
 {"beat":14,"event":"Elsie declares that a whole free day before the work is a gift, and they should spend it together."}
-{"beat":15,"event":"At a tea house on the canal, Elsie buys two pots of tea and two loaves, six pips, first.","at":"2026-06-02T05:30:00.000Z"}
+{"beat":15,"event":"At a tea house on the canal, Elsie buys two pots of tea and two loaves, six pips, first.","at":"2026-06-02T05:30:00.000Z","changes":[{"page":"metric-character-currency/fairweather-elsie","note":"Two pots of tea (4) and two loaves (2), six pips: 114 → 108 pips","key":"value","from":114,"to":108}]}
 {"beat":16,"event":"She pours a cup for Cora herself, black, strong, one sugar, and sets it in front of her unasked."}
 {"beat":17,"event":"Cora looks at the cup a long moment; then she drinks it, all of it, while it is hot."}
 {"beat":18,"event":"Elsie gets out her notebook for everyone's birthdays; Tilly has to count on her fingers for hers."}
@@ -43,7 +43,7 @@
 {"beat":43,"event":"Elsie asks twice if she is sure; Tamsin says she has been sure since the Leftovers."}
 {"beat":44,"event":"Cora, who heard every word, says flatly that the consent is noted, and writes it down."}
 {"beat":45,"event":"At the booth by the east gate, a guild clerk sells them a Glasswood licence for one lantern.","at":"2026-06-02T19:30:00.000Z","place":"place/fairweather-lanternmere"}
-{"beat":46,"event":"Elsie pays it, since Tamsin paid for supper; Tamsin grumbles and lets her."}
+{"beat":46,"event":"Elsie pays it, since Tamsin paid for supper; Tamsin grumbles and lets her.","changes":[{"page":"metric-character-currency/fairweather-elsie","note":"Glasswood licence, one lantern: 108 → 98 pips","key":"value","from":108,"to":98},{"page":"metric-character-currency/fairweather-elsie","note":"Chapter 2 ends with 98 pips","key":"history","append":{"turn":2,"value":98}},{"page":"story-item/fairweather-glasswood-licence","note":"Elsie pays for and keeps the party's Glasswood licence","make":{"title":"Glasswood Licence","story":"story-written/fairweather","character":"character-player/fairweather-elsie","description":"A stamped guild paper licensing the party of Elsie, Tamsin and Tilly into the Glasswood's edge for one day and night."}}]}
 {"beat":47,"event":"The clerk logs the party out and warns them: F-rank goes a mile in, to the white posts, no farther."}
 {"beat":48,"event":"They walk the cart track east through the meadows for an hour as the sun goes down."}
 {"beat":49,"event":"Tilly talks about moonbells the whole way; Tamsin walks close at Elsie's other side, saying little."}
@@ -54,7 +54,7 @@
 {"beat":54,"event":"They gather on their knees side by side, counting aloud; Tilly lays each one in her apron pocket."}
 {"beat":55,"event":"Kneeling, Elsie feels Tamsin watching her; when she looks up, Tamsin is looking at the moths."}
 {"beat":56,"event":"A thornhare, cornered in a hollow, bites Tilly's ankle; Tilly shrieks, and Elsie binds it."}
-{"beat":57,"event":"By moth-light they reach two dozen open moonbells, well short of the white posts."}
+{"beat":57,"event":"By moth-light they reach two dozen open moonbells, well short of the white posts.","changes":[{"page":"story-item/fairweather-moonbells","note":"Two dozen open moonbells gathered into Tilly's apron pocket","make":{"title":"Open Moonbells","story":"story-written/fairweather","character":"character-other/fairweather-tilly","quantity":24,"description":"Small blue bell-shaped flowers from the Glasswood's hollows, picked open, for the Mortar Lane apothecary."}}]}
 {"beat":58,"event":"Then eyes like lamps show in the trees: a pack of bramblewolves, lean and thorn-furred."}
 {"beat":59,"event":"Tamsin says, very low, that nobody runs. Tilly, on her bitten ankle, turns and runs."}
 {"beat":60,"event":"The wolves go for Tilly; Tamsin roars and goes red, Margery swinging, and the pack scatters."}
@@ -67,7 +67,7 @@
 {"beat":67,"event":"Elsie pours everything down it: Tamsin's name, Margery, the Leftovers, come back, come back."}
 {"beat":68,"event":"Down the line Elsie feels the red falter, and Margery stops a foot from her face."}
 {"beat":69,"event":"Tamsin's eyes clear; she sees Elsie, and Tilly behind her, and the axe's edge, and drops it."}
-{"beat":70,"event":"Two wolves circle back; Tilly hurls a vial, it bursts in green fire and a bang, and the pack flees."}
+{"beat":70,"event":"Two wolves circle back; Tilly hurls a vial, it bursts in green fire and a bang, and the pack flees.","changes":[{"page":"story-item/fairweather-vial-belt","note":"Tilly throws one bang vial at the wolves: three bang vials → two","key":"description","from":"A leather belt of loops and little pouches holding a dozen corked vials of Tilly's brews, three of them bang vials.","to":"A leather belt of loops and little pouches holding eleven corked vials of Tilly's brews, two of them bang vials."}]}
 {"beat":71,"event":"Tilly stares at her empty hand and says faintly that for once she meant it to explode."}
 {"beat":72,"event":"Through the Tether Elsie feels Tamsin hurting: a wolf's bite on her forearm she hasn't noticed yet."}
 {"beat":73,"event":"Elsie cleans and binds the bite by moth-light, then Tilly's ankle again; her hands shake only after."}
