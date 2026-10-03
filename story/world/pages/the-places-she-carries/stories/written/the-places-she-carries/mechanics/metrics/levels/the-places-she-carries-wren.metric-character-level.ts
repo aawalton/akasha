@@ -5,7 +5,7 @@ export const thePlacesSheCarriesWren = {
   type: "page-type/metric-character-level",
   slug: "the-places-she-carries-wren",
   character: "character-player/the-places-she-carries-wren",
-  value: 1,
+  value: 6,
   minValue: 1,
   unrevealed: false,
 } as const satisfies MetricCharacterLevel

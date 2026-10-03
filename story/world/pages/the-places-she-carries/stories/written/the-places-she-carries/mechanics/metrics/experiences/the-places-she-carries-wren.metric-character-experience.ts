@@ -6,7 +6,7 @@ export const thePlacesSheCarriesWren = {
   slug: "the-places-she-carries-wren",
   title: "Experience",
   character: "character-player/the-places-she-carries-wren",
-  value: 0,
+  value: 2628,
   minValue: 0,
   unrevealed: false,
 } as const satisfies MetricCharacterExperience

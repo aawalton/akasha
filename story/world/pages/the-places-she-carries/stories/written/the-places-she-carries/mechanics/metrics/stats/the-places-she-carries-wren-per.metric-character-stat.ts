@@ -6,6 +6,6 @@ export const thePlacesSheCarriesWrenPer = {
   slug: "the-places-she-carries-wren-per",
   title: "PER",
   character: "character-player/the-places-she-carries-wren",
-  value: 10,
+  value: 17,
   minValue: 0,
 } as const satisfies MetricCharacterStat
