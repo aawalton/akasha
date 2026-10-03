@@ -20,7 +20,7 @@ She ate it walking. Thimble Canal lay grey and still under a lid of mist, the wa
 
 The city woke around her in pieces. On the bridges the flower sellers were setting out their buckets, peonies and sweet peas and armfuls of something white and starry, water slopping onto the cobbles. Down on the canals the lamplighters' boats nosed along beneath the strings of paper lanterns, and a woman in each stern reached up with a long brass snuffer and put the night's lanterns out, one after another, little threads of smoke curling up into the mist. Then the canal opened out, and there was the Mere: wide and flat and silver all the way to the hills, so bright under the mist that Elsie stopped on the last bridge just to look at it.
 
-She was hours early. She had known she would be. So she wandered: past a tea house unstacking its chairs, past a bakery that was not as good as hers, she decided loyally, past a stall where a girl was building a pyramid of lemons and let Elsie set the top one on. She found the fish market by getting lost toward it. When the bells rang the half hour she came back along the shore, and the Hall of Naming stood waiting at the water's edge, white stone under a great glass dome gone pink with morning. A line of twenty-year-olds already ran down its steps. Elsie joined the end of it, her heart going like a sparrow's.
+She was hours early. She had known she would be. So she wandered: past a tea house unstacking its chairs, past a bakery that was not as good as hers, she decided loyally, past a stall where a girl was building a pyramid of lemons and let Elsie set the top one on. She found the fish market by getting lost toward it. When the bells rang the half hour she came back along the shore, and the Hall of Naming stood waiting at the water's edge, white stone under a great glass dome that flashed in the full morning sun. A line of twenty-year-olds already ran down its steps. Elsie joined the end of it, her heart going like a sparrow's.
 
 The boy in front of her was shaking. Not a little: his whole back trembled, and his hands kept going to his collar and away. "Hello," Elsie said, and when he jumped, "Sorry! I'm Elsie. Are you nervous? I'm so nervous I ate a whole heel of bread and couldn't tell you what it tasted like." He laughed, a startled crack of a laugh, and told her he was Pim, and that his sister Bettany had been Named last spring, a Weaver, very good at it, and the whole family expected him to be something too. "You'll be something," Elsie said. "Everyone's something. You'll be fine, I promise." She meant it so completely that his shoulders came down an inch.
 
@@ -49,7 +49,6 @@ Elsie wished her own window open, the way the priests on the roads had always sa
 │  Elsie Fairweather   │
 │  Enthraller          │
 │  Level 1             │
-│  Experience 0 / 100  │
 │  Skills              │
 │    Captivate         │
 │    Tether            │
@@ -70,7 +69,7 @@ Out on the steps the sun had burned through the mist, and the Mere was blue now 
 
 The guild hall was easy to find. It stood across the whole north side of Brightwater Square, a great timber hall with a green copper roof and its doors propped wide, noise pouring out of them: boots and laughter and somebody arguing about a split. Inside it smelled of leather and lamp oil and spilled ale. There was a counter with a sign above it that said Registration, and a short line in front of the counter, and Elsie joined the line like everyone else and waited her turn, reading the notices pinned to the pillar beside her.
 
-When she reached the counter she opened her purse and counted two silver lanterns out onto the wood, one, two, the way her mother had taught her to pay for things: so that both of you could see. The clerk was a young man with ink on his cuffs. He slid a form toward himself, asked her name and wrote it, asked her class without looking up, and began to write that. His pen stopped halfway through the word. It stayed stopped.
+When she reached the counter, the clerk, a young man with ink on his cuffs, told her without looking up that the fee was two lanterns. Elsie opened her purse and counted two silver lanterns out onto the wood, one, two, the way her mother had taught her to pay for things: so that both of you could see. The clerk swept them into a drawer and slid a form toward himself, asked her name and wrote it, asked her class without looking up, and began to write that. His pen stopped halfway through the word. It stayed stopped.
 
 He looked at her. He looked at what he had written. Then he put the pen down very carefully, said, "One moment, please," in a high voice, and went up the stairs at the back of the hall at something very close to a run. Behind Elsie the chatter of the hall faltered and died, table by table, as the word went round. When she turned, every adventurer in the room was looking at her: a man with a bow across his back, a woman in half-plate, three girls at a table with their cards forgotten in their hands. Elsie gave them a small wave.
 
@@ -78,9 +77,9 @@ The guildmaster came down the stairs a minute later, unhurried. She was a woman 
 
 "Oh, yes, of course." Elsie wished it open and turned it about so the guildmaster could read it, and held it there for her, helpfully. Then a worry struck her, and her face fell. "Did I fill the form in wrong? I can do it again. I wasn't sure if it wanted my mother's name as well, so I didn't put it, but I can."
 
-The guildmaster read the window to the bottom, and something moved at the corner of her mouth. "You filled it in right," she said. She drew the form toward her, took up the clerk's pen and finished the word Enthraller in a firm, square hand, and wrote beside it: F-rank. Registered under the Strings Accord. She signed it. Then she said, without raising her voice, "Fetch a Warden," and the clerk, who had come creeping back down behind her, went off again.
+The guildmaster read the window to the bottom, and something moved at the corner of her mouth. "You filled it in right," she said. She drew the form toward her, took up the clerk's pen and finished the word Enthraller in a firm, square hand, and wrote beside it: F-rank. Registered under the Strings Accord. She signed it. "She'll need a Warden," she said to the clerk, who had come creeping back down behind her, and then she turned toward the far side of the hall, where there was a plain door painted charcoal grey, and called across the whole silent room without seeming to raise her voice at all: "Cora!"
 
-The Wardens' door was on the far side of the hall, a plain door painted charcoal grey. It opened, and a young woman came out of it and across the floor toward them, and the hall made way for her. She was tall and willowy and very straight, with glossy black hair pulled back into a low bun so tight that not one strand had escaped it, and cool grey eyes under straight dark brows. Her charcoal coat was buttoned to the throat. On its collar was a silver pin, an open hand over a cut thread, and under her arm she carried a black leather ledger.
+The charcoal door opened, and a young woman came out of it and across the floor toward them, and the hall made way for her. She was tall and willowy and very straight, with glossy black hair pulled back into a low bun so tight that not one strand had escaped it, and cool grey eyes under straight dark brows. Her charcoal coat was buttoned to the throat. On its collar was a silver pin, an open hand over a cut thread, and under her arm she carried a black leather ledger.
 
 "Warden Vane," said the guildmaster. "Your Enthraller."
 
@@ -110,11 +109,11 @@ Elsie thought about that. "Thank you for telling me straight," she said, and mea
 
 Elsie went on along the board, because there was more board. Right down at the bottom of it, in the far corner, the slates were older and more chipped, and some had been scrubbed so often they were grey all over. Someone had chalked THE LEFTOVERS across the frame above them in big wobbling letters, and someone else had drawn a sad face beside it. In front of that corner a girl was crouched on her heels with a stub of chalk, writing her own name onto an empty slate.
 
-She was all copper. That was the first thing: a wild mass of copper curls, barely tied back, and fair skin so thick with sun freckles that her bare arms looked dusted with cinnamon. She wore a battered leather jerkin with no sleeves, and a great axe was strapped across her back, its head wrapped in sacking, with MARGERY burned into the haft. Tamsin Reyes, she wrote. Berserker. E-rank. She pressed so hard on the last word that the chalk snapped in half and skittered across the floor to Elsie's boots.
+She was all copper. That was the first thing: a wild mass of copper curls, barely tied back, and fair skin so thick with sun freckles that her bare arms looked dusted with cinnamon. She wore a battered leather jerkin with no sleeves, and a great axe was strapped across her back, its head wrapped in sacking. Tamsin Reyes, she wrote. Berserker. E-rank. She pressed so hard on the last word that the chalk snapped in half and skittered across the floor to Elsie's boots.
 
-Elsie picked it up. That was when she saw the girl's hands. The wraps around her knuckles were filthy, and soaked through red across the front, and the skin showing at the edges was split. "Oh," Elsie said. "Your hands." The girl looked up at her, green eyes in all those freckles, and gave a crooked, ugly little grin. "Copper Hounds dropped me this morning," she said. "I broke their shield-bearer's arm. So." She held out a hand for the chalk, and it was shaking.
+Elsie picked it up and held it out. The girl looked at her, and then jerked a thumb over her shoulder at the axe. "That's Margery," she said, as if Margery were the one being introduced. "And I'm Tamsin." That was when Elsie saw her hands. The wraps around her knuckles were filthy, and soaked through red across the front, and the skin showing at the edges was split. "Oh," Elsie said. "Your hands." The girl looked up at her, green eyes in all those freckles, and gave a crooked, ugly little grin. "Copper Hounds dropped me this morning," she said. "I broke their shield-bearer's arm. So." She took the chalk back, and her hand was shaking.
 
-Elsie knelt down on the boards in front of her and set her satchel in her lap. "May I?" she said, and didn't wait to be told no, only took the girl's right hand very gently and began to unwind the wrap. It stuck where the blood had dried, and she wet it from her water flask and eased it off a little at a time. Underneath, both knuckles were split to the meat. She cleaned them with a twist of clean linen and the stinging brown tincture from her satchel, and dabbed salve along each split, and bound them up fresh in a neat white figure of eight. Then she did the left.
+Elsie knelt down on the boards in front of her and set her satchel in her lap. "May I?" she said, and didn't wait to be told no, only took the girl's right hand very gently and began to unwind the wrap. It stuck where the blood had dried, and she unstoppered the bottle of stinging brown tincture from her satchel and dabbed it on until the cloth let go, and eased it off a little at a time. Underneath, both knuckles were split to the meat. She cleaned them with a pad torn from a roll of bandage and more of the tincture, and dabbed honey salve along each split, and bound them up fresh in a neat white figure of eight. Then she did the left.
 
 The girl had gone stiff the moment Elsie touched her, the way a person goes stiff waiting to be told off. Elsie could feel it all up her arm. But Elsie only hummed, the blue-mule song again, while she worked, and when she had tied off the last bandage she kept hold of the girl's wrist for a moment and stroked the soft inside of it with her thumb, slowly, back and forth, the way her mother did for a child who had been brave about a splinter. Under her thumb, the girl's pulse jumped and went fast.
 
@@ -130,9 +129,9 @@ The girl let out a breath that was almost a laugh.
 
 "Would you be in my party?" Elsie said.
 
-The girl did laugh then, a real one, loud and short, and looked round as if for whoever had put Elsie up to it. Then she looked at Elsie's face properly, and the laugh went out of her. She looked a long moment, and Elsie looked back, and did not take it back, because she meant it. "Yes," the girl said. She sounded surprised at herself. "Yes. All right. Tamsin. I'm Tamsin."
+The girl did laugh then, a real one, loud and short, and looked round as if for whoever had put Elsie up to it. Then she looked at Elsie's face properly, and the laugh went out of her. She looked a long moment, and Elsie looked back, and did not take it back, because she meant it. "Yes," Tamsin said. She sounded surprised at herself. "Yes. All right."
 
-"Elsie," said Elsie, and threw her arms around her neck. She hugged her hard, the way she hugged people, all of her at once, her face pressed into the warm side of Tamsin's neck where the copper curls tickled her nose and she smelled of leather and sweat and sun. Her breasts were crushed soft against Tamsin's jerkin. For a moment Tamsin's arms hung at her sides as if she had forgotten what they were for, and Elsie felt the breath stop in her chest. Then the arms came up, slowly, and closed around her, and held on.
+"I'm Elsie," said Elsie, and threw her arms around her neck. She hugged her hard, the way she hugged people, all of her at once, her face pressed into the warm side of Tamsin's neck where the copper curls tickled her nose and she smelled of leather and sweat and sun. Her breasts were crushed soft against Tamsin's jerkin. For a moment Tamsin's arms hung at her sides as if she had forgotten what they were for, and Elsie felt the breath stop in her chest. Then the arms came up, slowly, and closed around her, and held on.
 
 Pop.
 
@@ -174,7 +173,7 @@ Tamsin and Tilly looked at each other. It was a quick look, sidelong, and a litt
 
 The quest board ran the whole length of the hall, its notices pinned in rows by rank, and the three of them went to the F-rank end of it together. The Warden came too. She did not walk with them. She walked two steps behind, her ledger under her arm, and when they stopped she stopped, exactly two steps behind, as if she had measured it.
 
-Elsie read the F-rank notices aloud, because she liked reading things aloud. Rats in the cellar under the Crooked Kettle tea house, four lanterns. A lost goat, somewhere in the first floor of the Underbloom, three lanterns. "A goat," said Elsie, delighted. "In a dungeon? Poor thing." Moonbells gathered from the Glasswood's edge, for an apothecary, six lanterns.
+Elsie read the F-rank notices aloud, because she liked reading things aloud. Rats in the cellar under the Crooked Kettle tea house, four lanterns. A lost goat, somewhere in the first floor of the Underbloom, three lanterns. "A goat," said Elsie, delighted. "Lost! Poor thing." Moonbells gathered from the Glasswood's edge, for an apothecary, six lanterns.
 
 "Moonbells go into fever draughts," Tilly said at once. "You steep them cold, you never boil them, it kills the—sorry. They're for fevers."
 
@@ -224,7 +223,7 @@ The Warden stood very still under the lantern by the door. It was a long moment.
 
 "Black, strong, one sugar," Elsie repeated, to keep it. Then she stepped forward and hugged her goodnight, arms all the way round her, cheek against the buttons of her coat. The Warden stood stiff as a post in her arms. Elsie felt one of her hands lift from her side, felt it hover, felt it almost touch the small of her back. Then it fell again, and hung there.
 
-"Goodnight, Corisande," Elsie said into her coat, and went inside.
+"Goodnight, Cora," Elsie said into her coat, and went inside.
 
 *
 
@@ -240,9 +239,9 @@ She looked at the line a long while. It was not a skill. It was not a report. It
 
 *
 
-Up in the attic, Elsie lit her candle and sat cross-legged on the floor by the sill, and told Mrs Pennywhistle and Captain all about her day. She told them about Pim, and the window, and the hymn book. She told them about the guildmaster, who had nearly smiled, and Tamsin's poor hands, and Tilly's smoking braids, and the moonbells. "And I have a Warden," she told Captain, and stroked one of his leaves. "Her name's Corisande. She's very serious. I think she's lonely." Captain smelled of mint, and kept quiet, which was what Captain was good at.
+Up in the attic, Elsie lit her candle and sat cross-legged on the floor by the sill, and told Mrs Pennywhistle and Captain all about her day. She told them about Pim, and the window, and the hymn book. She told them about the guildmaster, who had nearly smiled, and Tamsin's poor hands, and Tilly's smoking braids, and the moonbells. "And I have a Warden," she told Captain, and stroked one of his leaves. "Her name's Cora. She's very serious. I think she's lonely." Captain smelled of mint, and kept quiet, which was what Captain was good at.
 
-Then she stood up by the round window and undressed for bed. Lantern light came up off the canal and through the glass and lay over her, gold and swaying. She pulled the bow at the top of her halter and unlaced it down the front, eyelet by eyelet, and slipped it off, and the warm night air touched her bare breasts, and her nipples drew up soft and pink in the swaying light. She unbuckled her belt, and the copper tag clinked. She stepped out of her skirt, and out of her boots, and stood naked in the lantern light a moment, stretching, the little rose-pink hair over her pussy gone gold in it, before she pulled her nightshirt on.
+Then she stood up by the round window and undressed for bed. Lantern light came up off the canal and through the glass and lay over her, gold and swaying. First she unbuckled her belt and hung it on the bedpost, pouches and copper tag and all, and the tag clinked against the wood and swung there. Then she pulled the bow at the top of her halter and unlaced it down the front, eyelet by eyelet, and slipped it off, and the warm night air touched her bare breasts, and her nipples drew up soft and pink in the swaying light. She stepped out of her skirt, and out of her boots, and stood naked in the lantern light a moment, stretching, the little rose-pink hair over her pussy gone gold in it, before she pulled her nightshirt on.
 
 She sat on the bed with her notebook on her knees, the one with everyone's birthdays and favourite things in it, and turned to a fresh page, and wrote. Tamsin, axe called Margery. Likes ale. Doesn't like being thanked. Tilly, goggles. Steep moonbells cold, never boil. Doesn't know her own birthday counts. She thought about it, and crossed that out, and wrote: Find out Tilly's birthday. Then, at the bottom, carefully, underlined: Cora: black, strong, one sugar.
 
@@ -256,12 +255,11 @@ She blew out the candle, and in the dark she wished her window open. It came at 
 │  Elsie Fairweather   │
 │  Enthraller          │
 │  Level 1             │
-│  Experience 0 / 100  │
 │  Skills              │
 │    Captivate         │
 │    Tether            │
 │  Bonds               │
-│    Tamsin       12   │
+│    Tamsin       15   │
 │    Tilly        10   │
 └──────────────────────┘
 
