@@ -71,5 +71,9 @@ export const overwhereIiMaudAshby = {
       fact: "Maud knows of no one who wades a tidepool unharmed; any who drink or bathe in it are Warped.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Maud rode up the valley after Anselm's letters, to take Nala's measure for herself.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+    },
   ],
 } as const satisfies Lore
