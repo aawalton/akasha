@@ -252,5 +252,9 @@ export const overwhereIWendlow2 = {
       fact: "The old Grubboar tusk pair is worth 20 copper; Mother Sallow is eager, grinding tusk for draughts.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Mother Sallow pays 200 copper for a Weir Wyrm's bile sac brought within a day of the kill.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
