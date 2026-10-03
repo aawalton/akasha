@@ -4,13 +4,13 @@ export const overwhereIii00096 = {
   id: "01a101e3-3ef6-7aba-ab99-ba6d5bc2a8f8",
   type: "page-type/story-turn-played",
   slug: "overwhere-iii-00-096",
-  ownLength: 258,
+  ownLength: 265,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iii"],
   position: 96,
   prose: "txt",
   characters: ["character-player/overwhere-iii-nala"],
-  stepStatus: "step-status/writer",
+  stepStatus: "step-status/recorders",
   action:
     "I hunt the board, when I get close, I cast my ward on myself first, then find the boar and hit it in the head with my braid until it dies",
   beats: [
