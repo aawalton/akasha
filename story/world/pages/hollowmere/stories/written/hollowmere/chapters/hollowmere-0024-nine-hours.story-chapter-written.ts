@@ -102,4 +102,5 @@ export const hollowmere0024NineHours = {
     "character-other/hollowmere-penhallow",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
+  recordedBy: ["story-recorder/mechanics"],
 } as const satisfies StoryChapterWritten
