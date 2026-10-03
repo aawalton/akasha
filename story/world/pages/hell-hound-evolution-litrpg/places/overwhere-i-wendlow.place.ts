@@ -346,7 +346,7 @@ export const overwhereIWendlow = {
     },
     {
       fact: "Hobb's Mill weir lies two hours' walk down the Wend from Wendlow.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
     {
       fact: "The Weir Wyrm is a Level 18 river serpent; Grete knows no more of it than bargemen's tales.",
