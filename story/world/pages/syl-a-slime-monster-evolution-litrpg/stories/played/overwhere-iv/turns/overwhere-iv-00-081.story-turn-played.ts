@@ -4,13 +4,14 @@ export const overwhereIv00081 = {
   id: "01a0ff3e-a930-7d04-b7d6-c6f0f1e3bde1",
   type: "page-type/story-turn-played",
   slug: "overwhere-iv-00-081",
+  cover: "image/image-974909f0ec2da82f",
   ownLength: 181,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iv"],
   position: 81,
   prose: "txt",
   characters: ["character-player/overwhere-iv-nala"],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action:
     "“I’m not at my best, but I can fight, especially if they delay long enough for me to get some mana back first.”",
   beats: [
@@ -34,6 +35,12 @@ export const overwhereIv00081 = {
     "lore/overwhere-iv-nala-3",
   ],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/memory", "story-recorder/mechanics"],
+  recordedBy: [
+    "story-recorder/inventory",
+    "story-recorder/memory",
+    "story-recorder/mechanics",
+    "story-recorder/picture",
+  ],
   endsAt: "2026-10-06T23:55:00.000Z",
+  coverAfter: "Among the trees at the Tangle's edge, torches flare up one after another.",
 } as const satisfies StoryTurnPlayed
