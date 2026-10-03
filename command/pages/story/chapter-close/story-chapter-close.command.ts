@@ -50,6 +50,15 @@ export const storyChapterClose = {
       decisionKind: "decision-kind/departure",
       statement: "A chapter keeps the end time of the last turn it takes as its own.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A chapter's beats are each turn's beats in order, numbered on from the turn before.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A turn whose beats file does not read refuses the whole run.",
+    },
   ],
   name: "chapter-close",
   arguments: [

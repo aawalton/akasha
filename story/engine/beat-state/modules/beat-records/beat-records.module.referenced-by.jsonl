@@ -1,5 +1,6 @@
 {"propertySlug":"import","fileName":"beat-records.module.code.ts","path":"change/mechanical/page-type/move/fold-beats-into-file/fold-beats-into-file.change-mechanical-page-type.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"beat-records.module.code.ts","path":"change/mechanical/page-type/move/fold-beats-into-file/fold-beats-into-file.change-mechanical-page-type.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"beat-records.module.code.ts","path":"command/pages/story/chapter-close/story-chapter-close.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"beat-records.module.code.ts","path":"command/pages/story/modules/turn-changes/turn-changes.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"beat-records.module.code.ts","path":"command/pages/story/modules/turn-changes/turn-changes.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"beat-records.module.code.ts","path":"command/pages/story/modules/turn-scenes/turn-scenes.module.code.ts","typed":false,"deferred":false}

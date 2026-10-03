@@ -1,6 +1,7 @@
 import { expect, test } from "bun:test"
 import {
   anchoredOf,
+  chapterBeatsOf,
   chapterSlugOf,
   endsAtOf,
   lastOpeningOf,
@@ -32,6 +33,34 @@ test("a chapter's slug says its place in its story and its title", () => {
 test("a chapter's prose is its turns in order, with no title, and keeps each window block", () => {
   const block = ":::level-up\nlevel: 5\n:::"
   expect(proseOf(["One.\n", `${block}\n\nTwo.\n`])).toBe(`One.\n\n${block}\n\nTwo.\n`)
+})
+
+test("a chapter's beats are each turn's beats in order, numbered on from the turn before", () => {
+  const xp = { page: "metric-character/mara-xp", key: "value", from: 1, to: 2, note: "+1 XP" }
+  const first = {
+    beats: ["Mara rises in the attic."],
+    scenes: [{ beat: 1, place: "place/attic" }],
+    changes: [],
+    memory: [],
+  }
+  const plain = { beats: [], scenes: [], changes: [], memory: [] }
+  const second = {
+    beats: ["Mara walks to the hall.", "She lights the lamp."],
+    scenes: [{ beat: 1, place: "place/hall" }],
+    changes: [{ beat: 2, ...xp }],
+    memory: [],
+  }
+  const lines = (chapterBeatsOf([first, plain, second]) ?? "").trim().split("\n")
+  expect(lines.map((one) => JSON.parse(one))).toEqual([
+    { beat: 1, event: "Mara rises in the attic.", place: "place/attic" },
+    { beat: 2, event: "Mara walks to the hall.", place: "place/hall" },
+    { beat: 3, event: "She lights the lamp.", changes: [xp] },
+  ])
+})
+
+test("a chapter whose turns have no beats has no beats file", () => {
+  expect(chapterBeatsOf([{ beats: [], scenes: [], changes: [], memory: [] }])).toBeNull()
+  expect(chapterBeatsOf([])).toBeNull()
 })
 
 test("a chapter takes the open turns through the one named, in order", () => {

@@ -21,6 +21,7 @@ import {
 } from "akasha/command/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
 import { storyChapterClose as page } from "akasha/command/pages/story/chapter-close/story-chapter-close.command.ts"
+import { beatsHeld } from "akasha/command/pages/story/modules/turn-scenes/turn-scenes.module.code.ts"
 import {
   listedAt,
   valuesOfType,
@@ -34,6 +35,12 @@ import {
   putting,
   taking,
 } from "akasha/page/service/modules/page-putting/page-putting.module.code.ts"
+import { beats as beatsFile } from "akasha/story/chapter/properties/beats.file-property.ts"
+import {
+  type Beats,
+  beatsJoined,
+  beatsWritten,
+} from "akasha/story/engine/beat-state/modules/beat-records/beat-records.module.code.ts"
 import { wordCount } from "akasha/story/engine/core/modules/word-count/word-count.module.code.ts"
 import { storyChapterPlayed } from "akasha/story/world/stories/played/chapters/story-chapter-played.page-type.ts"
 import { storyPlayed } from "akasha/story/world/stories/played/story-played.page-type.ts"
@@ -57,6 +64,8 @@ const COVER = "cover"
 const COVER_AFTER = "coverAfter"
 const ENDS_AT = "endsAt"
 const SLUG = "slug"
+const BEATS = beatsFile.propertySlug
+const BEATS_HELD = "jsonl"
 
 const A_NOT_SLUG = /[^a-z0-9]+/g
 const AN_EDGE_DASH = /^-|-$/g
@@ -72,6 +81,7 @@ type Turn = {
   readonly cover?: string
   readonly coverAfter?: string
   readonly endsAt?: string
+  readonly beats?: string
 }
 
 type TurnCover = {
@@ -163,6 +173,11 @@ export function endsAtOf(turns: readonly Turn[]): { readonly endsAt: string } | 
   return last?.endsAt === undefined ? null : { endsAt: last.endsAt }
 }
 
+export function chapterBeatsOf(each: readonly Beats[]): string | null {
+  const joined = beatsJoined(each)
+  return joined.beats.length === 0 ? null : beatsWritten(joined)
+}
+
 function storyOf(slug: string): string {
   const parted = slug.lastIndexOf(PARTED)
   return parted < 0 ? slug : slug.slice(parted + 1)
@@ -179,6 +194,7 @@ function turnsOf(root: string, named: string): readonly Turn[] {
     const cover = one.value[COVER]
     const coverAfter = one.value[COVER_AFTER]
     const endsAt = one.value[ENDS_AT]
+    const beats = one.value[BEATS]
     found.push({
       at: one.path,
       slug,
@@ -186,6 +202,7 @@ function turnsOf(root: string, named: string): readonly Turn[] {
       ...(typeof cover === "string" && cover !== "" ? { cover } : {}),
       ...(typeof coverAfter === "string" && coverAfter !== "" ? { coverAfter } : {}),
       ...(typeof endsAt === "string" && endsAt !== "" ? { endsAt } : {}),
+      ...(typeof beats === "string" && beats !== "" ? { beats } : {}),
     })
   }
   return found
@@ -209,6 +226,13 @@ function proseAt(root: string, at: string): string | null {
   return readFileSync(path, UTF8)
 }
 
+function beatsAt(root: string, one: Turn): Beats | { readonly refused: string } {
+  const value = one.beats === undefined ? {} : { [BEATS]: one.beats }
+  return beatsHeld({ at: one.at, slug: one.slug, value }, (path) =>
+    readFileSync(join(root, path), UTF8)
+  )
+}
+
 async function closed(
   done: string[],
   argv: readonly string[],
@@ -226,11 +250,16 @@ async function closed(
     return refused(`\`${slug}\` has no open turn numbered ${held.through}`, DATA)
   }
   const texts: string[] = []
+  const turnBeats: Beats[] = []
   for (const one of turns) {
     const text = proseAt(given.root, one.at)
     if (text === null) return refused(`\`${one.at}\` has no prose file beside it`, DATA)
     texts.push(text)
+    const read = beatsAt(given.root, one)
+    if ("refused" in read) return refused(read.refused, DATA)
+    turnBeats.push(read)
   }
+  const beats = chapterBeatsOf(turnBeats)
   const position = lastChapterOf(given.root, named) + 1
   const chapterSlug = chapterSlugOf(slug, position, held.title)
   const prose = proseOf(texts)
@@ -250,8 +279,9 @@ async function closed(
       ...(turnCovers.length === 0 ? {} : { turnCovers }),
       ...lastTurnOf(turns),
       ...endsAtOf(turns),
+      ...(beats === null ? {} : { [BEATS]: BEATS_HELD }),
     },
-    bodies: { prose },
+    bodies: { prose, ...(beats === null ? {} : { [BEATS]: beats }) },
   }
   const folded = foldedFor(given.root, [naming])
   if ("refused" in folded) return refused(folded.refused, DATA)
