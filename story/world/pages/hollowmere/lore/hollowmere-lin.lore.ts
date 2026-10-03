@@ -357,6 +357,17 @@ export const hollowmereLin = {
         "character-other/hollowmere-lin",
       ],
     },
+    {
+      fact: "Lin's parents expect her home after one year to help run the restaurant, and she has not said no.",
+      knowers: ["lore-disclosure/game-master", "character-player/hollowmere-nala"],
+    },
+    {
+      fact: "Lin's mother writes each Monday in Cantonese, and this week asks if Lin has told the academy yet.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/hollowmere-lin",
+        "character-player/hollowmere-nala",
+      ],
+    },
   ],
-  secrets: "jsonl",
 } as const satisfies Lore

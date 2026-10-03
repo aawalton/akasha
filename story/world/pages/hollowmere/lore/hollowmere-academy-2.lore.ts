@@ -179,6 +179,13 @@ export const hollowmereAcademy2 = {
         "lore-disclosure/game-master",
         "character-other/hollowmere-yusra",
         "character-other/hollowmere-penhallow",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-kit",
+        "character-other/hollowmere-bea",
+        "character-other/hollowmere-lin",
+        "character-other/hollowmere-amara",
+        "character-other/hollowmere-shiv",
+        "character-other/hollowmere-priya",
       ],
     },
     {
