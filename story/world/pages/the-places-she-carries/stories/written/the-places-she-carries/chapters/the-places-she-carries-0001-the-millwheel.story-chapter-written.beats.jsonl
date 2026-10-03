@@ -1,0 +1,55 @@
+{"beat":1,"event":"In her Millhaven bedroom, Wren stands packed and booted, listening to the millwheel.","at":"2026-08-01T06:50:00.000Z","place":"place/the-places-she-carries-millhaven","present":["character-player/the-places-she-carries-wren"]}
+{"beat":2,"event":"Her mother packed the pack; Wren has already pulled out a rope, a fire kit and a jar of onions."}
+{"beat":3,"event":"She keeps the oiled tarp and the bundle of dried rosemary, because it smells like home."}
+{"beat":4,"event":"Her childhood maps hang on the wall; she leaves her old field journal on the desk."}
+{"beat":5,"event":"She touches the spine of her father Callum's newest journal, one of eleven above her bed."}
+{"beat":6,"event":"Her mother says her name from below, and Wren answers that she is coming."}
+{"beat":7,"event":"She takes one last breath of the room and goes downstairs."}
+{"beat":8,"event":"The supply post is open, past seventh bell; wardens' route notes cover the board.","at":"2026-08-01T07:10:00.000Z","arrive":["character-other/the-places-she-carries-sera"]}
+{"beat":9,"event":"Wren reads the notes from across the room and knows every mile they describe."}
+{"beat":10,"event":"Sera stands behind the counter, pretending to sort requisition forms."}
+{"beat":11,"event":"Wren reports the onions and the second rope out; Sera saw both."}
+{"beat":12,"event":"Sera weighed the pack, and is glad Wren kept the tarp and the rosemary."}
+{"beat":13,"event":"Sera says Callum has been outside since fifth bell, checking Wren's compass."}
+{"beat":14,"event":"Sera comes around the counter and pulls Wren into a hard hug."}
+{"beat":15,"event":"Over her mother's shoulder Wren's eye catches on the counter's grain, and she pulls herself back."}
+{"beat":16,"event":"'Before winter,' Sera says: first frost, Wren walks home. Wren promises."}
+{"beat":17,"event":"Sera tells her of the ginger tea in the left pocket; Wren says she loves her."}
+{"beat":18,"event":"Sera sends her out to her father before he wears a hole in the compass."}
+{"beat":19,"event":"In the garden by the south wall, Callum Galley is holding the compass.","at":"2026-08-01T07:30:00.000Z","arrive":["character-other/the-places-she-carries-callum"],"leave":["character-other/the-places-she-carries-sera"]}
+{"beat":20,"event":"Beyond the fence the land slopes toward the escarpment, three miles south, and the basin's smell."}
+{"beat":21,"event":"He has recalibrated his second-best compass; it pulls a quarter-degree east near the limestone."}
+{"beat":22,"event":"He gives her bearings: his fifth journal's table, the Ashbrook Steps as the last fixed landmark."}
+{"beat":23,"event":"'Take the compass, Wren.' She takes it, warm and dented from his hands."}
+{"beat":24,"event":"He reads her pack's balance and tells her to repack it tonight, tarp higher."}
+{"beat":25,"event":"He adjusts her left shoulder strap, and his hand stays on her shoulder a moment longer."}
+{"beat":26,"event":"He warns of the Stair's fourth switchback and the overgrown waymarker at its base."}
+{"beat":27,"event":"'If a trail feels wrong, it's wrong. Trust my feet,' Wren finishes for him."}
+{"beat":28,"event":"He says she has her mother's stubbornness and his feet, and asks her to come home."}
+{"beat":29,"event":"'Before winter.' He kisses the top of her head and presses a hand against her pack."}
+{"beat":30,"event":"She walks south through Millhaven with the sun still low.","at":"2026-08-01T07:50:00.000Z","leave":["character-other/the-places-she-carries-callum"]}
+{"beat":31,"event":"Outside the Millstone Inn, Aldric Vane lifts a hand from his sweeping.","arrive":["character-other/the-places-she-carries-aldric"]}
+{"beat":32,"event":"She passes the mill, and the closed shutters of Hesta's herbary.","leave":["character-other/the-places-she-carries-aldric"]}
+{"beat":33,"event":"At the waymarker stone in the square she stops: 'PAST HERE, BRING LUNCH.'"}
+{"beat":34,"event":"She remembers her Naming Day six weeks ago in this square, at sixteen."}
+{"beat":35,"event":"The System manifested her class: Wayfinder, a class with no prior holders on record."}
+{"beat":36,"event":"It gave her [Lay the Path] and [Wayfinder's Eye], and showed her a Level 1 stat screen."}
+{"beat":37,"event":"The town stood silent; Regional Cartographer Edris Maren wrote not a single word."}
+{"beat":38,"event":"Her father's face held recognition, not of the class but of his daughter."}
+{"beat":39,"event":"The waymarker stone shimmers at its base; she notices it, files it, and walks on."}
+{"beat":40,"event":"She walks her father's track south through managed woodland of ash and oak.","at":"2026-08-01T08:15:00.000Z"}
+{"beat":41,"event":"The Thornwild's sweet exhalation rises on the updraft from the south."}
+{"beat":42,"event":"[Wayfinder's Eye] highlights a shelf fungus growing in a spiral; she notices and keeps going."}
+{"beat":43,"event":"A gap in the canopy shows the basin's green swell rising in haze."}
+{"beat":44,"event":"The last mile turns wild: hawthorn scrub, weathered waymarkers, heavier, warmer air.","at":"2026-08-01T09:30:00.000Z"}
+{"beat":45,"event":"A milky mist sits at the escarpment edge, hovering like a held breath."}
+{"beat":46,"event":"She reaches the Final Marker at mid-morning, carved by Callum with 'W.S.'","at":"2026-08-01T10:00:00.000Z"}
+{"beat":47,"event":"Beyond it the track dissolves into bare limestone and the ground stops at the edge."}
+{"beat":48,"event":"Through the mist the basin murmurs like an ocean heard from a hilltop."}
+{"beat":49,"event":"[Wayfinder's Eye] pulls far past its fifteen-meter range, and the whole Thornwild shimmers."}
+{"beat":50,"event":"She stands at the edge of the known world and thinks: I know."}
+{"beat":51,"event":"Twelve paces west she finds the first step of the Warden's Stair.","at":"2026-08-01T10:10:00.000Z","place":"place/the-places-she-carries-wardens-stair"}
+{"beat":52,"event":"She checks the compass; the needle swings south with its quarter-degree eastern pull."}
+{"beat":53,"event":"She puts her boot on the first step, and the millwheel's sound is gone."}
+{"beat":54,"event":"She takes the second step, and the third, down into the mist."}
+{"beat":55,"event":"The mist closes over the edge, Millhaven disappears, and Wren keeps walking."}

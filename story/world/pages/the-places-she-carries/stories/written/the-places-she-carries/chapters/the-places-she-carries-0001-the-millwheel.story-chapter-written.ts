@@ -10,4 +10,6 @@ export const thePlacesSheCarries0001TheMillwheel = {
   ownLength: 3811,
   unit: "unit/words",
   prose: "txt",
+  beats: "jsonl",
+  stepStatus: "step-status/player",
 } as const satisfies StoryChapterWritten
