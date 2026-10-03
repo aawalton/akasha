@@ -194,7 +194,7 @@ export const overwhereIWendlow2 = {
     },
     {
       fact: "Drawing a full well-stone gives back its 40 mana over half a minute, with no check.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
     {
       fact: "Ilse's half up front covers extras too; the rest is paid when the ring is handed over.",
