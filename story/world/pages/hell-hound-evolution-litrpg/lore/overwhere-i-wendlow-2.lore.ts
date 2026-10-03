@@ -216,5 +216,9 @@ export const overwhereIWendlow2 = {
       fact: "Ilse sizes Nala's finger with a wire loop and gives her a stamped tin claim tag for the ring.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
+    {
+      fact: "Wil Harrow is a broad, bald smith with a burn-scarred forearm; his forge fronts Anvil Lane.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
