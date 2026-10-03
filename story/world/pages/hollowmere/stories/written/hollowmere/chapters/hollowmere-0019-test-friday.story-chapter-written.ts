@@ -5,7 +5,7 @@ export const hollowmere0019TestFriday = {
   type: "page-type/story-chapter-written",
   slug: "hollowmere-0019-test-friday",
   cover: "image/image-37a3168280975228",
-  ownProgress: 2788,
+  ownProgress: 3094,
   position: 19,
   unit: "unit/words",
   title: "Test Friday",
