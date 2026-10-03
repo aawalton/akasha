@@ -10,7 +10,7 @@ export const overwhereI00113 = {
   position: 113,
   prose: "txt",
   characters: ["character-player/overwhere-i-nala"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/recorders",
   action:
     "“Eh, thanks, but they said the fangs would be enough. Just cut off the head to make sure it was dead.” I spin a blade again and cut the fangs and store those, then shift to water and fire and give myself a good steam cleaning to get off the bile and muck, then air and fire to dry myself off.",
   beats: [
@@ -34,6 +34,6 @@ export const overwhereI00113 = {
     "lore/overwhere-i-wendlow-2",
     "place/overwhere-i-hobbs-mill-weir",
   ],
-  reviewedBy: ["story-reviewer/continuity"],
+  reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
   endsAt: "2026-10-06T12:12:00.000Z",
 } as const satisfies StoryTurnPlayed
