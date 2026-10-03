@@ -6,4 +6,14 @@ export const alanAnswerPageWrite = {
   slug: "alan-answer-page-write",
   definition: "a page write taken from Alan's browser and carried to the store",
   code: "ts",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A write reading a written chapter runs its story's chapter backlog rule.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The answer to that write does not wait on the rule.",
+    },
+  ],
 } as const satisfies Module

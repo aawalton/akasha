@@ -32,6 +32,7 @@ export const storyChapterWritten = {
   parts: [
     "module/chapter-making",
     "module/chapter-panels",
+    "module/chapter-read-backlog",
     "multi-relation-property/scene-images",
     "record-property/chapter-pictured",
     "relation-property/pictured-character",

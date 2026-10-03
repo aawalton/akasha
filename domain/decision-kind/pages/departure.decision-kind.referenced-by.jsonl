@@ -1243,6 +1243,7 @@
 {"propertySlug":"decision-kind","path":"alan/value/value.page-type.ts","id":"01a06553-f65f-71f6-898f-df18f6561396"}
 {"propertySlug":"decision-kind","path":"alan/web/.server/action-bar-answering/action-bar-answering.module.ts","id":"01a0d487-4384-79e4-9941-54854ae13d0b"}
 {"propertySlug":"decision-kind","path":"alan/web/.server/alan-answer-ask/alan-answer-ask.module.ts","id":"01a0c6b7-6ab7-7d01-bf95-32d6769afbe8"}
+{"propertySlug":"decision-kind","path":"alan/web/.server/alan-answer-page-write/alan-answer-page-write.module.ts","id":"01a0655e-d399-7645-8aef-dc15eae745ee"}
 {"propertySlug":"decision-kind","path":"alan/web/.server/alan-route-guard/alan-route-guard.module.ts","id":"01a0c129-30bb-7f20-8811-37cb885fa99e"}
 {"propertySlug":"decision-kind","path":"alan/web/.server/alan-session-reader/alan-session-reader.module.ts","id":"01a0c119-72b0-74f5-b872-e3b9944a812a"}
 {"propertySlug":"decision-kind","path":"alan/web/.server/app-layout-loading/app-layout-loading.module.ts","id":"01a0655e-d39b-7415-b913-3146ff8bfa28"}
@@ -4132,6 +4133,7 @@
 {"propertySlug":"decision-kind","path":"story/world/stories/read/wandering-inn/modules/syncing/syncing.module.ts","id":"01a0686a-7a57-76d6-a2df-a5aa6fbe7d58"}
 {"propertySlug":"decision-kind","path":"story/world/stories/written/chapters/modules/chapter-making/chapter-making.module.ts","id":"01a0e96e-2932-7927-bb2d-8c23a95bf20f"}
 {"propertySlug":"decision-kind","path":"story/world/stories/written/chapters/modules/chapter-panels/chapter-panels.module.ts","id":"01a0e9a4-dccf-7135-965e-fa2e6d11f276"}
+{"propertySlug":"decision-kind","path":"story/world/stories/written/chapters/modules/chapter-read-backlog/chapter-read-backlog.module.ts","id":"01a101a0-8e82-7cc9-bf4e-7c98a929e008"}
 {"propertySlug":"decision-kind","path":"story/world/stories/written/chapters/properties/chapter-pictured.record-property.ts","id":"01a0fd84-f744-7edb-ab5b-96e3dba38ab5"}
 {"propertySlug":"decision-kind","path":"story/world/stories/written/chapters/properties/scene-images.multi-relation-property.ts","id":"01a0f989-7860-7eba-93de-3c93e9601896"}
 {"propertySlug":"decision-kind","path":"story/world/stories/written/chapters/story-chapter-written.page-type.ts","id":"01a06554-d8bd-712b-86b4-ade0001027ee"}
