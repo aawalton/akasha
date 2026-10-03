@@ -177,7 +177,7 @@ export const overwhereIiLadyImreVarrow = {
     },
     {
       fact: "On the morning of day twenty-seven a rider from Callow Beck brings Ebba Callow's word to the Keep.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Lady Varrow summons Nala that morning, her first summons: go to Callow Beck and hold it.",
