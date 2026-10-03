@@ -138,7 +138,7 @@ export const overwhereIWendlow22 = {
     },
     {
       fact: "New slip: 12 gold for Cal Ferrin, the Ferryman, a Level 16 outlaw robbing folk at Lowcross ferry.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
   ],
 } as const satisfies Lore
