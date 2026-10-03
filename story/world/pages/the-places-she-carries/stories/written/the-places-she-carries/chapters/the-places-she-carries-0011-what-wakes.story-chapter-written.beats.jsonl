@@ -1,0 +1,89 @@
+{"beat":1,"event":"Two days left: before dawn on Day 16 Wren sits with her palms flat on the threshold stone.","at":"2026-08-16T05:30:00.000Z","place":"place/the-places-she-carries-varethen","present":["character-player/the-places-she-carries-wren"]}
+{"beat":2,"event":"Since Familiar she has sat here every dawn, as the healer did, just to say hello."}
+{"beat":3,"event":"The thirty-second dawn vibration reaches her through her palms and then the bond.","at":"2026-08-16T06:00:00.000Z"}
+{"beat":4,"event":"She writes in the margin column: Day 16. Two remain."}
+{"beat":5,"event":"She finds a worn track from the healer's house past the hall to the threshold stone.","at":"2026-08-16T07:00:00.000Z"}
+{"beat":6,"event":"It is the healer's daily route, worn deepest at the gathering hall's entrance."}
+{"beat":7,"event":"Her palm on the compacted earth finds it holds warmth longer than the loose soil."}
+{"beat":8,"event":"The [Wayfinder's Eye] shimmer traces the whole path as one continuous feature."}
+{"beat":9,"event":"A discovery logs the healer's daily route, discovery 14: +43 XP.","changes":[{"page":"metric-character-experience/the-places-she-carries-wren","key":"value","from":1197,"to":1240,"note":"Discovery: healer's daily route worn into the settlement's ground"}]}
+{"beat":10,"event":"She spends the morning at the stone's northern face.","at":"2026-08-16T09:00:00.000Z"}
+{"beat":11,"event":"A pale vertical vein cuts the banding: a crack that sealed itself before anyone came."}
+{"beat":12,"event":"Tapped with a fingernail, the vein rings higher and brighter than the limestone."}
+{"beat":13,"event":"A discovery logs the healed fault, discovery 15: +46 XP.","changes":[{"page":"metric-character-experience/the-places-she-carries-wren","key":"value","from":1240,"to":1286,"note":"Discovery: threshold stone's self-sealed fault on the northern face"}]}
+{"beat":14,"event":"The fault runs to just below the handprint: geology and people on opposite faces."}
+{"beat":15,"event":"In early afternoon Theron comes from the west, tracing the settlement's drainage channel.","at":"2026-08-16T13:30:00.000Z","arrive":["character-other/the-places-she-carries-theron"]}
+{"beat":16,"event":"His father, born here, waded in it as a boy and called it the little river."}
+{"beat":17,"event":"His father never came back: 'He said there was nothing to come back to.'"}
+{"beat":18,"event":"Theron says the drainage still works: cleared of silt, the water would flow right."}
+{"beat":19,"event":"'It means the builders were good at drainage.' Theron laughs for the first time."}
+{"beat":20,"event":"'Yes. They were good at drainage.' He walks north toward camp.","leave":["character-other/the-places-she-carries-theron"]}
+{"beat":21,"event":"In the late afternoon she goes into the gap, and the bond compresses.","at":"2026-08-16T16:30:00.000Z"}
+{"beat":22,"event":"The ghost-elm hum is absent inside; a faint vibration runs in the ground from the south."}
+{"beat":23,"event":"Her hand on the dead tree finds it conducting the corruption's precursor tremor."}
+{"beat":24,"event":"A discovery logs the pre-pulse tremor, compression multiplier, discovery 16: +58 XP.","changes":[{"page":"metric-character-experience/the-places-she-carries-wren","key":"value","from":1286,"to":1344,"note":"Discovery in the gap: pre-pulse tremor, compression multiplier"}]}
+{"beat":25,"event":"She sits at the threshold stone and lets the bond recover from the compression.","at":"2026-08-16T18:00:00.000Z"}
+{"beat":26,"event":"Before dawn on Day 17 the stone's vibration stops after twelve seconds.","at":"2026-08-17T06:00:00.000Z"}
+{"beat":27,"event":"The precursor tremor now runs in the ground beneath the whole settlement."}
+{"beat":28,"event":"She writes: Day 17, one remains; this is compression from the stone's side."}
+{"beat":29,"event":"Mid-morning a low grey cloud ceiling moves in from the south.","at":"2026-08-17T10:00:00.000Z"}
+{"beat":30,"event":"At the northern face she feels the stone not singing, with no direct sun to drive it."}
+{"beat":31,"event":"For an hour she feels the steady frequency under all others: the stone's resting tone.","at":"2026-08-17T11:00:00.000Z"}
+{"beat":32,"event":"A discovery logs the resting tone, found only under cloud, discovery 17: +48 XP.","changes":[{"page":"metric-character-experience/the-places-she-carries-wren","key":"value","from":1344,"to":1392,"note":"Discovery: threshold stone's resting tone under cloud cover"}]}
+{"beat":33,"event":"She learns to tell the stone's own voice from the corruption's approaching one."}
+{"beat":34,"event":"At midday Theron sits beside her at the stone: 'The healer used to do this.'","at":"2026-08-17T12:00:00.000Z","arrive":["character-other/the-places-she-carries-theron"]}
+{"beat":35,"event":"His grandmother said the healer sat at the stone each morning, and thought it prayer."}
+{"beat":36,"event":"Wren says she is not praying or surveying or working. 'Being here,' Theron says."}
+{"beat":37,"event":"He says again that the healer used to do this, now as recognition."}
+{"beat":38,"event":"'Tomorrow is Day 18.' This pulse is different: the gap is larger, the precursor earlier."}
+{"beat":39,"event":"For the first time he will be at the settlement for a pulse. 'Thank you,' she says."}
+{"beat":40,"event":"He nods once and goes north.","leave":["character-other/the-places-she-carries-theron"]}
+{"beat":41,"event":"In the afternoon she enters the gap again; the precursor comes from south-southeast.","at":"2026-08-17T15:00:00.000Z"}
+{"beat":42,"event":"The ghost-elms brace, their shimmer pulled tight against the wood."}
+{"beat":43,"event":"Her hand on the dead tree: the precursor's vibration hums in her teeth and jaw."}
+{"beat":44,"event":"She feels the compression and the precursor as one thing: the corruption pressing in."}
+{"beat":45,"event":"The shimmer at the gap's edges is dimmer; the precursor is deepening the gap."}
+{"beat":46,"event":"She steps back across the ward boundary and breathes. One day."}
+{"beat":47,"event":"That night she lies awake in camp with the tremor under her bedroll.","at":"2026-08-17T22:00:00.000Z","place":"place/the-places-she-carries-therons-camp"}
+{"beat":48,"event":"Seventeen discoveries; Known at an anchor may need sixteen to twenty-four."}
+{"beat":49,"event":"She thinks of Fell at the fen, and of the healer at the stone each dawn."}
+{"beat":50,"event":"She does not try to sleep, and lets the not-sleeping be information."}
+{"beat":51,"event":"On Day 18 she is at the threshold stone before the sky shows light.","at":"2026-08-18T05:30:00.000Z","place":"place/the-places-she-carries-varethen"}
+{"beat":52,"event":"The dawn vibration does not come: the precursor has taken the stone's voice.","at":"2026-08-18T06:00:00.000Z"}
+{"beat":53,"event":"She holds the stone as it tries to sing and fails, and tries again."}
+{"beat":54,"event":"Under lower cloud on the pulse day she writes: dawn vibration absent. Zero."}
+{"beat":55,"event":"She works the grey morning without urgency.","at":"2026-08-18T08:00:00.000Z"}
+{"beat":56,"event":"A cupped oval on the western face holds fine parallel grooves: carved, not worn."}
+{"beat":57,"event":"Someone marked the stone before the settlement was ever built."}
+{"beat":58,"event":"A discovery logs the pre-settlement carving, discovery 18: +44 XP.","changes":[{"page":"metric-character-experience/the-places-she-carries-wren","key":"value","from":1392,"to":1436,"note":"Discovery: pre-settlement carving on the threshold stone's western face"}]}
+{"beat":59,"event":"Four faces have shown four histories, in the order the stone chose."}
+{"beat":60,"event":"Palm on the carving, holding the resting tone, she feels the bond deepen quietly."}
+{"beat":61,"event":"She knows the stone now, as the healer knew it, and the sleeper wakes."}
+{"beat":62,"event":"The warmth spreads from her sternum into a field she stands inside."}
+{"beat":63,"event":"The bond deepens to Known; [Dormant] resolves into [Enduring]: +2 ADP, +1 VIT.","changes":[{"page":"metric-character-stat/the-places-she-carries-wren-adp","key":"value","from":8,"to":10,"note":"[Enduring] Known-depth stat bonus, threshold stone"},{"page":"metric-character-stat/the-places-she-carries-wren-vit","key":"value","from":8,"to":9,"note":"[Enduring] Known-depth stat bonus, threshold stone"}]}
+{"beat":64,"event":"[Foundation Stone] is revealed and the triad chord sounds in full: +150 XP.","changes":[{"page":"metric-character-experience/the-places-she-carries-wren","key":"value","from":1436,"to":1586,"note":"Bond deepened: threshold stone, Familiar to Known"}]}
+{"beat":65,"event":"[Tended] and [Kept] brighten; the triad gains a bass note she feels in her feet."}
+{"beat":66,"event":"With the stone awake beneath her and the pulse approaching, she does not move. She holds."}
+{"beat":67,"event":"At midday the insects and ghost-elms fall silent and the pulse moves north underground.","at":"2026-08-18T12:00:00.000Z"}
+{"beat":68,"event":"All five bonds flex at once; all ten connections carry the pulse."}
+{"beat":69,"event":"Corruption tendrils thread through the gap into the settlement's margin."}
+{"beat":70,"event":"[Foundation Stone] flares through the substrate, and the tendrils stop."}
+{"beat":71,"event":"The stone fills the space the corruption needs, as the precursor once silenced the stone."}
+{"beat":72,"event":"The main wave pours through the dead tree as the ghost-elms brace."}
+{"beat":73,"event":"The triad passes the corruption through [Enduring], [Tended] and [Kept]; it exits as information."}
+{"beat":74,"event":"She understands the bond network is not protection but translation."}
+{"beat":75,"event":"The pressure is immense: she is sixteen and has been asked to contain the stone."}
+{"beat":76,"event":"The Holding's pull is right there, the edge where Fell and the fen became one."}
+{"beat":77,"event":"She holds herself: her name, the rosemary, her parents, Theron's laugh, Brecca."}
+{"beat":78,"event":"The stone, complete without her, gives the Holding nothing to close around."}
+{"beat":79,"event":"The pulse ebbs north; the dead tree stops conducting and the ghost-elm shimmer widens.","at":"2026-08-18T13:00:00.000Z"}
+{"beat":80,"event":"LEVEL UP: Wren reaches Level 5, with +3 free points and Apprentice Surveying.","changes":[{"page":"metric-character-level/the-places-she-carries-wren","key":"value","from":4,"to":5,"note":"Level up after the Day 18 pulse"},{"page":"metric-character-stat/the-places-she-carries-wren-per","key":"value","from":12,"to":13,"note":"Level 5 Wayfinder class bonus (ch12: PER 13 with the class bonus)"},{"page":"metric-character-stat/the-places-she-carries-wren-att","key":"value","from":13,"to":14,"note":"Level 5 Wayfinder class bonus"}]}
+{"beat":81,"event":"The stone sings a song wholly its own, arriving in her chest as: I am still here."}
+{"beat":82,"event":"The gap stopped at the signature's radius; for once a pulse did not widen it."}
+{"beat":83,"event":"She sat with a stone and paid attention for two weeks; that was all, and it was enough."}
+{"beat":84,"event":"After hours of sitting she stands on unsteady legs, bracing on the warm stone.","at":"2026-08-18T16:00:00.000Z"}
+{"beat":85,"event":"Theron stands at the drainage channel's edge, where he stood through the pulse.","arrive":["character-other/the-places-she-carries-theron"]}
+{"beat":86,"event":"'The gap didn't grow.' 'No.' He looks at the stone: 'Good drainage.'"}
+{"beat":87,"event":"They walk back to camp in the quiet after a held breath releases.","at":"2026-08-18T17:00:00.000Z","place":"place/the-places-she-carries-therons-camp"}
+{"beat":88,"event":"At the fire she writes: Day 18. The stone woke. The pulse came. The gap held.","at":"2026-08-18T19:30:00.000Z"}
+{"beat":89,"event":"She touches the rosemary in her jacket pocket; she is still here, too."}
