@@ -7,7 +7,8 @@ export const overwhereI00106 = {
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-i"],
   position: 106,
-  stepStatus: "step-status/world-builder",
+  stepStatus: "step-status/game-master",
   action:
     "“Great! I’ll be back.” Then I go to the other two stores to sell the sword, crossbow, and grubboar tusks.",
+  lore: ["lore/overwhere-i-wendlow-2"],
 } as const satisfies StoryTurnPlayed
