@@ -82,5 +82,13 @@ export const overwhereIiiEddaCrane = {
       fact: "Hearing the boom from her clearing, Edda Crane comes up the brook within half an hour to look.",
       knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-edda-crane"],
     },
+    {
+      fact: "Finding Nala spent in the hut clearing, Edda Crane said, 'Gods, girl. What boomed?'",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iii-nala",
+        "character-other/overwhere-iii-edda-crane",
+      ],
+    },
   ],
 } as const satisfies Lore
