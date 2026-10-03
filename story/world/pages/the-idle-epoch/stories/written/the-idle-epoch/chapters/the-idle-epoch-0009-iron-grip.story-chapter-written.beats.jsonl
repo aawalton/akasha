@@ -1,0 +1,65 @@
+{"beat":1,"event":"At dawn a gauntleted hand knocks three measured times on the warehouse's loading door.","at":"2025-12-30T12:15:00.000Z","place":"place/the-idle-epoch-warehouse","present":["character-player/the-idle-epoch-callum","character-other/the-idle-epoch-jin","character-other/the-idle-epoch-mira"]}
+{"beat":2,"event":"Callum has been up an hour: overnight Essence hit 8,600, up from 8,200 the day before."}
+{"beat":3,"event":"Mira, on perimeter patrol since 4 AM, reports four Vanguard heavies and a sergeant in full gear."}
+{"beat":4,"event":"He slides his field notebook under the cot's mattress, not because anything in it is illegal."}
+{"beat":5,"event":"Jin, who moved in two days ago over a leaking roof, surfaces from his hoodie and goes pale."}
+{"beat":6,"event":"Should he pull his summons from the Shardfield? Leave them running, Callum says; they hide nothing."}
+{"beat":7,"event":"\"We're a little bit hiding something,\" Jin says, very quietly. Callum opens the door."}
+{"beat":8,"event":"Sergeant Tomas Bray, in Guardian plate, about Level 35, with four soldiers of Level 25 or more.","arrive":["character-other/the-idle-epoch-bray"]}
+{"beat":9,"event":"He hands over Compact Security Directive 4-17: an inspection of all construct operations."}
+{"beat":10,"event":"The authority is a Resource Security Council likely a week old; four armed soldiers make it moot."}
+{"beat":11,"event":"Bray sweeps the room, and his jaw tightens at the Enhancement Construct's tight feedback spiral."}
+{"beat":12,"event":"Four constructs: combat, gathering, processing and feedback. \"Standard,\" Bray repeats."}
+{"beat":13,"event":"He knows Mira: \"Vasquez. Didn't expect to see you here.\" \"Morning, Sergeant.\""}
+{"beat":14,"event":"\"I'm standing in this warehouse. You can draw your own conclusions.\" Bray recalculates."}
+{"beat":15,"event":"For ninety minutes Bray asks precise, competent questions about Flux draw and thread timing."}
+{"beat":16,"event":"He lingers at the Enhancement Construct; Callum explains it simply and leaves out the growth curve."}
+{"beat":17,"event":"Quietly: \"You're generating more than a ten-man farming squad. The Commander noticed.\""}
+{"beat":18,"event":"Then officially: every loop must pause for a safety verification. About fourteen hours."}
+{"beat":19,"event":"His +31% Compound Growth will reset to zero: about forty-five hours of output lost."}
+{"beat":20,"event":"His face shows nothing. \"Understood. I'll initiate construct standby.\""}
+{"beat":21,"event":"Sentinel, Collector, Refinery, and last the Enhancement Construct, its spiral unwinding to dust."}
+{"beat":22,"event":"Compound loop suspended, no constructs active, +31% lost. The warehouse goes quiet."}
+{"beat":23,"event":"For two hours the squad catalogs everything; a crossbowman scans the Sentinel with a Vanguard tool."}
+{"beat":24,"event":"Jin sits rigid on his cot, Pixel curled at his ankle, answering in clipped, accurate sentences."}
+{"beat":25,"event":"Bray reads the new rule: unaffiliated construct operators must register and face quarterly audits."}
+{"beat":26,"event":"And pay a further ten percent Residuum contribution, on top of the existing surcharge."}
+{"beat":27,"event":"Refuse, and their constructs lose access to the Overgrowth and the Rustbelt Flats."}
+{"beat":28,"event":"Without those zones the loop starves. Drake Morrison understands systems."}
+{"beat":29,"event":"\"Thank you, Sergeant.\" Something like recognition moves behind Bray's eyes."}
+{"beat":30,"event":"Fourteen days to register; he'd recommend sooner. The door shuts like a period.","at":"2025-12-30T16:00:00.000Z","leave":["character-other/the-idle-epoch-bray"]}
+{"beat":31,"event":"Mira lets go of her pommel one finger at a time and paces: \"That was not an inspection.\""}
+{"beat":32,"event":"It's Drake's boot on his neck, asking him to say thank you: a shakedown with a Compact seal."}
+{"beat":33,"event":"Drake is scared of a Level 19 construct operator, she says, because his system scales."}
+{"beat":34,"event":"Drake once offered her protection too; with people like that there's always an \"or else.\""}
+{"beat":35,"event":"She sees his thumb dimple the form and his careful breathing: not cold, but disciplined."}
+{"beat":36,"event":"They won't take this from him, she thinks, and she stands between him and the door."}
+{"beat":37,"event":"Jin paces: thirty-one percent gone, and a ten percent tax on whatever they rebuild."}
+{"beat":38,"event":"\"This isn't fair. We built it legally, and they turned it off because it works too well.\""}
+{"beat":39,"event":"Systems work as their controllers say, Callum says: Drake isn't breaking rules, he's making them."}
+{"beat":40,"event":"He smooths the form flat, takes his notebook from under the mattress, and opens a fresh page."}
+{"beat":41,"event":"He writes the cost: fourteen hours down, Compound Growth from +31% to 0, about 45 hours lost."}
+{"beat":42,"event":"Night: dead constructs, the Essence Ley's hum, fifteen unspent skill points burning.","at":"2025-12-31T02:00:00.000Z"}
+{"beat":43,"event":"Constructs are hostages in known places; he needs something that lives inside the System itself."}
+{"beat":44,"event":"Two points raise Compile Familiar to 2: Pip sharpens, and chimes for the first time."}
+{"beat":45,"event":"\"Can you understand me?\" A low, steady chime: yes. A loneliness he'd stopped noticing loosens."}
+{"beat":46,"event":"Four points take Loop Analysis to 7: he can now see System processes and external monitoring."}
+{"beat":47,"event":"He finds a cold Vanguard scan thread left on his Grinder's anchor, still watching."}
+{"beat":48,"event":"Six points take Script Engine from 2 to 5: twenty lines, loops, functions, enemy detection."}
+{"beat":49,"event":"Twelve points spent, three left. He begins writing scripts in the System, not his notebook."}
+{"beat":50,"event":"The Grinder's new script adapts to enemy types, and moves off if a monitoring signature comes near."}
+{"beat":51,"event":"The Collector reroutes around restricted zones; the Enhancement Construct tunes itself."}
+{"beat":52,"event":"In the third hour, level up: 19 to 20, and a Loopweaver milestone adds one to every stat.","at":"2025-12-31T04:30:00.000Z","changes":[{"page":"metric-character-level/the-idle-epoch-callum","key":"value","from":19,"to":20,"note":"Level 19 to 20 while he writes scripts, a Loopweaver milestone"}]}
+{"beat":53,"event":"Intelligence 66, Wisdom 69, Idle Yield 2.40x: five levels from Condense, two weeks by projection.","changes":[{"page":"metric-character-stat/the-idle-epoch-callum-intelligence","key":"value","from":63,"to":66,"note":"Level 20: +2 Intelligence, +1 from the milestone"},{"page":"metric-character-stat/the-idle-epoch-callum-wisdom","key":"value","from":66,"to":69,"note":"Level 20: +2 Wisdom, +1 from the milestone"}]}
+{"beat":54,"event":"Around midnight Mira brings two tin cups of instant coffee so bad it is nearly a debuff.","at":"2025-12-31T05:00:00.000Z"}
+{"beat":55,"event":"\"You've got a plan.\" The beginning of one: no punching Bray, but Drake made uncomfortable."}
+{"beat":56,"event":"The constructs were always the weakness; the answer is smarter ones that expect interference."}
+{"beat":57,"event":"Pip chimes, and Mira blinks. Pip is a Substrate process, he says: no zone or catalog can touch it."}
+{"beat":58,"event":"She expected more reaction; the new scripts will recover faster than the first build did."}
+{"beat":59,"event":"Drake controls the zones, so he'll build something that needs none. Five more levels, then Condense."}
+{"beat":60,"event":"He'll register and pay; by the time it matters, the audits will track a Level 1 with a 1.5x."}
+{"beat":61,"event":"Mira laughs: let them build a file, then reset the equation. \"They can't reset the architecture.\""}
+{"beat":62,"event":"He writes his first real function: shift routes if watched, fall back, else stand by and log."}
+{"beat":63,"event":"He gives the restart: the Enhancement Construct stirs first, then the Refinery, the Grinder last."}
+{"beat":64,"event":"Compound Growth sits at 0%, and a single point of Essence ticks into his report."}
+{"beat":65,"event":"The Commander noticed. Good. He is just getting started."}
