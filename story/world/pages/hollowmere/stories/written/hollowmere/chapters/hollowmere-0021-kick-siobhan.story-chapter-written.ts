@@ -1,16 +1,16 @@
 import type { StoryChapterWritten } from "akasha/story/world/stories/written/chapters/story-chapter-written.page-type.types.ts"
 
-export const hollowmere0021 = {
+export const hollowmere0021KickSiobhan = {
   id: "01a0ff55-0300-7add-b674-5e2c0e03c433",
   type: "page-type/story-chapter-written",
-  slug: "hollowmere-0021",
+  slug: "hollowmere-0021-kick-siobhan",
   position: 21,
   unit: "unit/words",
-  title: "Chapter 21",
+  title: "Kick, Siobhan",
   story: "story-written/hollowmere",
-  ownLength: 0,
+  ownLength: 2724,
   prose: "txt",
-  stepStatus: "step-status/writer",
+  stepStatus: "step-status/reviewers",
   beats: [
     "Sunday: you wake before dawn in Bea's bed in 15, her bare arm over you, her face in your hair.",
     'You ease out from under her arm; she stirs. "Rock?" she mumbles. "Sunday. Go on. Shiv\'s waiting."',
@@ -66,5 +66,25 @@ export const hollowmere0021 = {
     "You fall asleep in 15 with Bea warm at your back and the Pogues still going round in your head.",
     "A day at Hollowmere ends.",
   ],
-  lore: ["lore/hollowmere-shiv"],
+  lore: [
+    "lore/hollowmere-amara",
+    "lore/hollowmere-bea",
+    "lore/hollowmere-bea-2",
+    "lore/hollowmere-kit",
+    "lore/hollowmere-kit-2",
+    "lore/hollowmere-lin",
+    "lore/hollowmere-nala",
+    "lore/hollowmere-nala-2",
+    "lore/hollowmere-priya",
+    "lore/hollowmere-shiv",
+  ],
+  characters: [
+    "character-player/hollowmere-nala",
+    "character-other/hollowmere-bea",
+    "character-other/hollowmere-shiv",
+    "character-other/hollowmere-kit",
+    "character-other/hollowmere-lin",
+    "character-other/hollowmere-priya",
+    "character-other/hollowmere-amara",
+  ],
 } as const satisfies StoryChapterWritten
