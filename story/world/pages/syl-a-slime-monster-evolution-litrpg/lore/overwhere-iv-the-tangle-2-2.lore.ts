@@ -20,5 +20,37 @@ export const overwhereIvTheTangle22 = {
       fact: "A breeze down the cleft by day carries a faint smell of woodsmoke from far up the trail.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
     },
+    {
+      fact: "Grakk's trail watchers are LV 4 and LV 5 goblins in a brush hide on a rise beside the trail.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The LV 5 watcher holds a horn to warn the camp; the LV 4 would run to it.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The watchers are bored by day, and talk low between them; they can be heard at forty paces.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The camp now holds some thirty-four goblins, one hobgoblin, and Grakk.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "A goblin's core is a pebble of dull green glass; the hall gives 8 copper apiece.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "By day the watchers see one on the open trail at sixty paces; one creeping in brush, at twenty.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Grakk is a boss of his kind; since the strike broke his camp is sullen, and he beat its bringer.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "In the stone ring, hide huts crowd round a fire pit; the trail climbs to it through thin oaks.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
