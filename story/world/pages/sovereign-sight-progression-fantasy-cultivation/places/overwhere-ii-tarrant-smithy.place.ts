@@ -78,7 +78,7 @@ export const overwhereIiTarrantSmithy = {
     },
     {
       fact: "Hob warns that stakes in a pool bed must be driven with a sledge, by someone standing over them.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
   ],
 } as const satisfies Place
