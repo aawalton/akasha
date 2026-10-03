@@ -20,7 +20,7 @@ export const characterCoverPanel = {
     },
     {
       decisionKind: "decision-kind/absence",
-      statement: "The player's character is not drawn here, but in the player-character panel.",
+      statement: "The player's character is not among these covers.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -28,7 +28,7 @@ export const characterCoverPanel = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A character is named above the cover by that character's title.",
+      statement: "A character is named by that character's title.",
     },
 
     {
@@ -37,12 +37,11 @@ export const characterCoverPanel = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "One character's cover is drawn at a time, opening on the first.",
+      statement: "The covers are handed to the panel drawing them rather than drawn here.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement:
-        "Where more than one character has a cover, arrows under it step to the one before or after.",
+      statement: "Where more than one character is shown, arrows step to the one before or after.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -62,10 +61,7 @@ export const characterCoverPanel = {
       decisionKind: "decision-kind/absence",
       statement: "No turn's cover is drawn here.",
     },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "No panel is drawn where no character drawn has a cover.",
-    },
+
     {
       decisionKind: "decision-kind/departure",
       statement:
@@ -78,10 +74,6 @@ export const characterCoverPanel = {
     {
       decisionKind: "decision-kind/departure",
       statement: "A cover is asked for at twice the width the panel draws it.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "Clicking a cover opens it whole over the page.",
     },
   ],
 } as const satisfies Module

@@ -1,7 +1,6 @@
 "use client"
 
 import { Button } from "akasha/design/interface/primitive/modules/button/button.module.code.tsx"
-import { SurfaceProvider } from "akasha/design/interface/primitive/modules/surface-provider/surface-provider.module.code.tsx"
 import type { Page } from "akasha/page/core/modules/page-types/page-types.module.code.ts"
 import { titledAs } from "akasha/page/core/modules/titled-as/titled-as.module.code.ts"
 import { addressIn } from "akasha/page/modules/address/page-address.module.code.ts"
@@ -16,13 +15,12 @@ import {
   type ShapeDescriptor,
 } from "akasha/page/ui-store/collection/modules/shape-descriptor/shape-descriptor.module.code.ts"
 import type { ClientStoryTurn } from "akasha/story/ui/modules/client-story-session/client-story-session.module.code.ts"
-import { ZoomableCover } from "akasha/story/ui/modules/cover-viewing/cover-viewing.module.code.tsx"
 import { characterOther } from "akasha/story/world/characters/character-other/character-other.page-type.ts"
 import { characterPlayer } from "akasha/story/world/characters/character-player/character-player.page-type.ts"
 import { characters } from "akasha/story/world/characters/properties/characters.multi-relation-property.ts"
 import { storyTurnPlayed } from "akasha/story/world/stories/played/turns/story-turn-played.page-type.ts"
 import { ChevronLeft, ChevronRight } from "lucide-react"
-import { type ReactNode, useMemo, useState } from "react"
+import { type ReactNode, useMemo } from "react"
 
 const ID_KEY = "id"
 
@@ -141,22 +139,6 @@ export function OtherCharacterCovers({
   return <TurnCharacters turnId={turnId} pageTypeSlug={pageTypeSlug} drawn={drawn} />
 }
 
-export function OtherCharactersPanel({
-  turns,
-  pageTypeSlug,
-}: {
-  readonly turns: readonly ClientStoryTurn[]
-  readonly pageTypeSlug?: string | undefined
-}) {
-  return (
-    <OtherCharacterCovers
-      turns={turns}
-      pageTypeSlug={pageTypeSlug}
-      drawn={(covers) => <Covers covers={covers} />}
-    />
-  )
-}
-
 function TurnCharacters({
   turnId,
   pageTypeSlug,
@@ -217,15 +199,6 @@ function TypeRowsRead({ keyed, at, read, drawn, slugKeyed }: Drawing & { slugKey
   )
   const rows = usePages(options).rows
   return <TypeRows keyed={keyed} at={at + 1} read={[...read, [pageTypeSlug, rows]]} drawn={drawn} />
-}
-
-function Figure({ one }: { one: CharacterCover }) {
-  return (
-    <figure className="flex flex-col gap-2">
-      <figcaption className="font-mono font-semibold text-primary text-sm">{one.name}</figcaption>
-      <ZoomableCover name={one.name} source={one.source} whole={one.whole} />
-    </figure>
-  )
 }
 
 type Slugged = { readonly slug: string }
@@ -295,18 +268,5 @@ export function CharacterSteps({ shown, at, onPicked }: CharacterStepsProps) {
       </span>
       {stepped(LATER)}
     </div>
-  )
-}
-
-function Covers({ covers }: { covers: readonly CharacterCover[] }) {
-  const [picked, setPicked] = useState<string | null>(null)
-  const at = characterShownAt(covers, picked)
-  const shown = covers[at]
-  if (shown === undefined) return null
-  return (
-    <SurfaceProvider level={1} className="flex flex-col gap-3 rounded-xl p-4 shadow-sm">
-      <Figure key={shown.slug} one={shown} />
-      <CharacterSteps shown={covers} at={at} onPicked={setPicked} />
-    </SurfaceProvider>
   )
 }
