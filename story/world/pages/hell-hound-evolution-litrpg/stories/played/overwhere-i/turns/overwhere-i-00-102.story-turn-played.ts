@@ -11,7 +11,7 @@ export const overwhereI00102 = {
   position: 102,
   prose: "txt",
   characters: ["character-player/overwhere-i-nala", "character-other/overwhere-i-ghost-eye"],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action:
     "“Two hour walk is all? The Wyrm sounds like a nice warm up, I’ll take that tomorrow. For today, I’m looking for a nice place to stay as well as somewhere to sell miscellaneous loot from my adventures. Oh! And someone who can turn Ghost-Eye here into a proper casting focus.” I pull out the drakewolf eye. “Recommendations?”",
   beats: [
@@ -38,7 +38,12 @@ export const overwhereI00102 = {
     "place/overwhere-i-wendlow",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/memory", "story-recorder/picture"],
+  recordedBy: [
+    "story-recorder/inventory",
+    "story-recorder/memory",
+    "story-recorder/picture",
+    "story-recorder/mechanics",
+  ],
   endsAt: "2026-10-05T12:40:00.000Z",
   coverAfter: "You dig into your pack and bring out the eye: a hard pearl",
 } as const satisfies StoryTurnPlayed
