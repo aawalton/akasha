@@ -4,10 +4,13 @@ export const overwhereI00108 = {
   id: "01a1017d-253b-7341-9ca3-e52a696c7ae2",
   type: "page-type/story-turn-played",
   slug: "overwhere-i-00-108",
+  ownLength: 465,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-i"],
   position: 108,
-  stepStatus: "step-status/writer",
+  prose: "txt",
+  characters: ["character-player/overwhere-i-nala"],
+  stepStatus: "step-status/reviewers",
   action:
     "I eat, then hike downstream to where the Wyrm is active. When I get close, I use my lenses to scout for signs of where it is.",
   beats: [
@@ -28,6 +31,9 @@ export const overwhereI00108 = {
     "Nala lets the lenses go. Down at Hobb's landing, a bargeman spots her and waves her down.",
   ],
   lore: [
+    "lore/overwhere-i-nala",
+    "lore/overwhere-i-nala-2",
+    "lore/overwhere-i-starfall-legacy",
     "lore/overwhere-i-starfall-legacy-2",
     "lore/overwhere-i-wendlow-2",
     "place/overwhere-i-hobbs-mill-weir",
