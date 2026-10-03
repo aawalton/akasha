@@ -10,7 +10,7 @@ export const hollowmere0024NineHours = {
   story: "story-written/hollowmere",
   ownLength: 4563,
   prose: "txt",
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/game-master",
   beats: [
     "Wednesday of week four: you wake at six, rested; you slept all night, the way you promised.",
     "Bea is a warm weight at your back, still asleep, her blistered hand open on your hip.",
@@ -73,6 +73,11 @@ export const hollowmere0024NineHours = {
     "You lie awake a little, thinking of a narrow bed in room 1, and hope she sleeps all night too.",
     "A day at Hollowmere ends.",
   ],
+  issues: [
+    '"her hair a wild red tangle" - Bea\'s hair is honey-blonde',
+    '"You sit in the lecture hall" - Nala\'s Wednesday morning is Sigils in the Drawing Room',
+    '"Up to the top floor, and along it" - room 1 is at the head of the stairs, not along the corridor',
+  ],
   lore: [
     "lore/hollowmere-amara",
     "lore/hollowmere-bea",
@@ -96,5 +101,5 @@ export const hollowmere0024NineHours = {
     "character-other/hollowmere-amara",
     "character-other/hollowmere-penhallow",
   ],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
 } as const satisfies StoryChapterWritten
