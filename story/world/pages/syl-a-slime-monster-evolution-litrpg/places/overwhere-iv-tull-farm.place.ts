@@ -155,5 +155,13 @@ export const overwhereIvTullFarm = {
       fact: "Merrit, jumpy on watch, shouts once at a sound in the trees before he throws fire at it.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "As Nala reached the Tangle's edge, a little flame bloomed in a raised hand in Tull's fold.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+    },
+    {
+      fact: "The flame in the raised hand in Tull's fold turned toward the trees where Nala stood.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+    },
   ],
 } as const satisfies Place

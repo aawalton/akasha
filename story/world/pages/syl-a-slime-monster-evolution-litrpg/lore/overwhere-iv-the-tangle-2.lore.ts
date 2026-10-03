@@ -138,7 +138,7 @@ export const overwhereIvTheTangle2 = {
     },
     {
       fact: "Tull's fold lantern shows from the Tangle's edge, across the last two hundred paces of meadow.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
     },
     {
       fact: "Nala's held line across the bank killed two climbers; then, rising, she was seen and ran.",
@@ -198,7 +198,7 @@ export const overwhereIvTheTangle2 = {
     },
     {
       fact: "From where Nala fell, Tull's ford lies some two miles down the deer trail.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
     },
     {
       fact: "Hurt and drained, Nala can keep a hard run on the trail for about a mile before she flags.",
@@ -239,6 +239,10 @@ export const overwhereIvTheTangle2 = {
     {
       fact: "At the edge they light torches, rush the ford, and go for the fold and the cottage thatch.",
       knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Nala dodged the club by her close sense and fled; a second sling stone missed, cracking off an oak.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
     },
   ],
 } as const satisfies Lore

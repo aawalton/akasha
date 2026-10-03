@@ -108,5 +108,9 @@ export const overwhereIvNala3 = {
       fact: "The sling stone between Nala's shoulders knocked her breath out and left her back burning.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
     },
+    {
+      fact: "Running the dark trail, Nala's sense lays it out a stride ahead, every root and rut.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+    },
   ],
 } as const satisfies Lore
