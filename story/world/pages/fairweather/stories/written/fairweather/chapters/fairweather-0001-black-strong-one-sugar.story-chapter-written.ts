@@ -16,6 +16,7 @@ export const fairweather0001BlackStrongOneSugar = {
   issues: [
     "beat 39: Elsie uses a water flask and a brown tincture; no page or change gives her either",
     "beat 88: the belt the rank tag hangs on comes off, but the tag stays in the waist slot",
+    '"glass dome gone pink with morning" - beat 10 is 08:30, hours past dawn; pink is sunrise light',
   ],
   lore: [
     "lore/fairweather-cora",
@@ -34,7 +35,7 @@ export const fairweather0001BlackStrongOneSugar = {
     "character-other/fairweather-tamsin",
     "character-other/fairweather-tilly",
   ],
-  reviewedBy: ["story-reviewer/holdings"],
+  reviewedBy: ["story-reviewer/holdings", "story-reviewer/scene"],
   recordedBy: [
     "story-recorder/inventory",
     "story-recorder/plan",
