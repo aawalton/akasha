@@ -1,8 +1,6 @@
 {"propertySlug":"assignment-slug","path":"agent/seat/pages/mari/mari.seat.ts","id":"01a0f94b-f18d-7000-bb44-281f39671025"}
 {"propertySlug":"assignment-slug","path":"agent/subagent/pages/mari-a8651520b15319df4/mari-a8651520b15319df4.subagent.ts","id":"01a103f1-4f37-74c7-aa1e-9d6087e66f74"}
-{"propertySlug":"assignment-slug","path":"agent/subagent/pages/mari-a8d89d6885b65d91b/mari-a8d89d6885b65d91b.subagent.ts","id":"01a103ed-05ca-7595-ad01-8d39929e896e"}
 {"propertySlug":"assignment-slug","path":"agent/subagent/pages/mari-aad0dad7b3e4e5f12/mari-aad0dad7b3e4e5f12.subagent.ts","id":"01a103f1-693c-7105-af29-b2a6242a3d54"}
-{"propertySlug":"assignment-slug","path":"agent/subagent/pages/mari-aafc68e22f0a637ee/mari-aafc68e22f0a637ee.subagent.ts","id":"01a103ec-f7c7-7d64-bcfe-ff099b9c270a"}
 {"propertySlug":"championed-domain","path":"persona/pages/mari/mari.persona.ts","id":"019ef06e-4e9f-7e1c-8225-bf9113a422ed"}
 {"propertySlug":"import","fileName":"arousal.domain.ts","path":"agent/hook/agent-hook/inference-hook/keep-alan-directives/keep-alan-directives.inference-hook.test.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"alan/self-care/self-care.domain.ts","id":"01a065a0-140a-779c-ab0a-02df7977f480"}
