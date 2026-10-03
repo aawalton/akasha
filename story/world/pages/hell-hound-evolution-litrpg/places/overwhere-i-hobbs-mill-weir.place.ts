@@ -41,7 +41,7 @@ export const overwhereIHobbsMillWeir = {
     },
     {
       fact: "A long shed skin, grey-green and ragged, hangs in the alders on the pool's west bank.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
     {
       fact: "From the towpath bend, 200 yards above the mill, the weir, pool and far bank all show.",
