@@ -74,7 +74,7 @@ export const overwhereIWendlow22 = {
     },
     {
       fact: "Nala's afternoon of day 8 in Wendlow passes without incident.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
   ],
 } as const satisfies Lore
