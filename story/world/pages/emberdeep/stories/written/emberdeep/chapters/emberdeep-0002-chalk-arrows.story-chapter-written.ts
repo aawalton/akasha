@@ -5,6 +5,7 @@ export const emberdeep0002ChalkArrows = {
   type: "page-type/story-chapter-written",
   slug: "emberdeep-0002-chalk-arrows",
   cover: "image/image-76fa37fb40cb2d87",
+  ownProgress: 52,
   position: 2,
   unit: "unit/words",
   title: "Chalk Arrows",
