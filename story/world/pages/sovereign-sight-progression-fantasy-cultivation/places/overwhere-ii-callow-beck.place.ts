@@ -124,5 +124,9 @@ export const overwhereIiCallowBeck = {
       fact: "Each night after Nala takes in slick water, the stair dream comes louder.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Six Warped sheep roam the black slick, grey-scaled and coral-horned, heads low.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+    },
   ],
 } as const satisfies Place
