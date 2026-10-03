@@ -28,6 +28,7 @@ export const overwhereIii00097 = {
   ],
   lore: [
     "lore/overwhere-iii-corruption-2",
+    "lore/overwhere-iii-current-knot",
     "lore/overwhere-iii-nala",
     "lore/overwhere-iii-nala-2",
     "lore/overwhere-iii-nala-2-2",
@@ -35,5 +36,6 @@ export const overwhereIii00097 = {
     "place/overwhere-iii-wrenwood",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
+  recordedBy: ["story-recorder/inventory"],
   endsAt: "2026-10-10T14:19:00.000Z",
 } as const satisfies StoryTurnPlayed
