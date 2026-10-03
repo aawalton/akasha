@@ -192,5 +192,9 @@ export const overwhereIWendlow2 = {
       fact: "A well-stone holds 40 mana; its wearer fills it from her own at 10 a minute, with no roll.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Drawing a full well-stone gives back its 40 mana over half a minute, with no check.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
