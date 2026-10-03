@@ -106,7 +106,7 @@ export const overwhereIWendlow2 = {
     },
     {
       fact: "The crew ears and tags already lie in the Board's chest from the payout; Grete pays nothing more.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
     {
       fact: "Grete gives no reward for the letter; she says it may be worth more to Nala unpaid.",
