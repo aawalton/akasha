@@ -10,6 +10,7 @@ export const overwhereI0001Starfall = {
   story: "story-played/overwhere-i",
   ownLength: 909,
   prose: "txt",
+  beats: "jsonl",
   turnCovers: [
     {
       position: 1,
