@@ -10,13 +10,13 @@ export const overwhereI00102 = {
   position: 102,
   prose: "txt",
   characters: ["character-player/overwhere-i-nala", "character-other/overwhere-i-ghost-eye"],
-  stepStatus: "step-status/game-master",
+  stepStatus: "step-status/writer",
   action:
     "“Two hour walk is all? The Wyrm sounds like a nice warm up, I’ll take that tomorrow. For today, I’m looking for a nice place to stay as well as somewhere to sell miscellaneous loot from my adventures. Oh! And someone who can turn Ghost-Eye here into a proper casting focus.” I pull out the drakewolf eye. “Recommendations?”",
   beats: [
     '"Two hour walk is all? The Wyrm sounds like a nice warm up. I\'ll take that tomorrow," Nala says.',
-    'Grete chalks "Nala Arthur" under the Weir Wyrm slip. "It stands till somebody kills it."',
-    '"Pays on the head, or the fangs if the head\'s too big to haul."',
+    'Grete takes the Wyrm slip off the counter, pins it to the board, and chalks "Nala Arthur" under it.',
+    '"Stands till it dies. Pays on the head, or the fangs if the head\'s too big to haul."',
     '"For today, I need a nice place to stay, and somewhere to sell loot from my adventures," Nala says.',
     '"Oh! And someone who can turn Ghost-Eye here into a proper casting focus. Recommendations?"',
     "She pulls out the drakewolf eye and sets it on the counter.",
