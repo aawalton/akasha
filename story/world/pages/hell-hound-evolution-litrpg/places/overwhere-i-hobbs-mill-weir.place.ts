@@ -199,5 +199,9 @@ export const overwhereIHobbsMillWeir = {
       fact: "The tail-race wall lies within 30 yards of the pool; walking in, her steps reach the wyrm below.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Creeping to the tail-race wall softly enough that the wyrm feels nothing is a moderate act.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Place
