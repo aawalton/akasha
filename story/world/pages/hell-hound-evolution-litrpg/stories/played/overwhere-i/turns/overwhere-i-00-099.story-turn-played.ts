@@ -4,10 +4,13 @@ export const overwhereI00099 = {
   id: "01a0ff15-38c5-7fe7-8500-861f1de05d6f",
   type: "page-type/story-turn-played",
   slug: "overwhere-i-00-099",
+  ownLength: 236,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-i"],
   position: 99,
-  stepStatus: "step-status/writer",
+  prose: "txt",
+  characters: ["character-player/overwhere-i-nala", "character-other/overwhere-i-harl-voss"],
+  stepStatus: "step-status/reviewers",
   action:
     "“I’m level 10 now. I was 7 when I met Voss. 4 when I went after the wolves. I know, I’m mad and driving for an early grave, but I got the job done.” I tell her with a manic smile. “Didn’t know Voss was 24, but that explains why he took so much killing. He was harder to kill on his own than they entire wolf pack.”",
   beats: [
@@ -21,6 +24,6 @@ export const overwhereI00099 = {
     '"I\'ll need a name for the receipt," she says, pen poised.',
     '"My Analyze shows none for you. What do I write?"',
   ],
-  lore: ["place/overwhere-i-wendlow"],
+  lore: ["lore/overwhere-i-nala", "lore/overwhere-i-nala-2", "place/overwhere-i-wendlow"],
   endsAt: "2026-10-05T12:20:00.000Z",
 } as const satisfies StoryTurnPlayed
