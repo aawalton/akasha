@@ -4,10 +4,13 @@ export const overwhereIii00080 = {
   id: "01a0ff17-d3fa-707b-b1c0-ac5d49005dc7",
   type: "page-type/story-turn-played",
   slug: "overwhere-iii-00-080",
+  ownLength: 224,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iii"],
   position: 80,
-  stepStatus: "step-status/writer",
+  prose: "txt",
+  characters: ["character-player/overwhere-iii-nala", "character-other/overwhere-iii-marda-hesk"],
+  stepStatus: "step-status/reviewers",
   action:
     "“Yeah, definitely the small one first, that’s the deer?” I follow the directions and hit it with my cleansing current lash braid as soon as I can reach it.",
   beats: [
@@ -30,6 +33,11 @@ export const overwhereIii00080 = {
   lore: [
     "lore/overwhere-iii-cleansing-weave",
     "lore/overwhere-iii-corruption-2",
+    "lore/overwhere-iii-marda-hesk",
+    "lore/overwhere-iii-marda-hesk-2",
+    "lore/overwhere-iii-nala",
+    "lore/overwhere-iii-nala-2",
+    "lore/overwhere-iii-nala-2-2",
     "place/overwhere-iii-wrenwood",
   ],
   endsAt: "2026-10-08T12:30:00.000Z",
