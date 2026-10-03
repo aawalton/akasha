@@ -82,5 +82,14 @@ export const hollowmereBea2 = {
         "character-other/hollowmere-bea",
       ],
     },
+    {
+      fact: "Told of Shiv's mam, Bea said she'd be kind to Shiv today; at roast she filled Shiv's plate unasked.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/hollowmere-bea",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-shiv",
+      ],
+    },
   ],
 } as const satisfies Lore

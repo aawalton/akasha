@@ -240,5 +240,21 @@ export const hollowmereKit2 = {
         "character-other/hollowmere-kit",
       ],
     },
+    {
+      fact: "Told Nala and Bea began last night, Kit said: Good, she's decent. All right? I find I am.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/hollowmere-kit",
+        "character-player/hollowmere-nala",
+      ],
+    },
+    {
+      fact: "Kit wrote Nala: Monday's practical, a middle bench. Watched. Ish. She kept Nala's reply: I know.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/hollowmere-kit",
+        "character-player/hollowmere-nala",
+      ],
+    },
   ],
 } as const satisfies Lore

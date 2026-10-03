@@ -340,10 +340,72 @@ export const hollowmereShiv = {
     },
     {
       fact: "Shiv's mother died last winter, and Shiv came to Hollowmere on the money she left.",
-      knowers: ["lore-disclosure/game-master", "character-player/hollowmere-nala"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-shiv",
+        "character-other/hollowmere-bea",
+      ],
     },
     {
       fact: "Shiv's mother swam the sea at Salthill every morning of her life, winter too, and taught Shiv there.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/hollowmere-shiv",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-bea",
+      ],
+    },
+    {
+      fact: "At four Shiv's mam threw her in off the Salthill steps and shouted: kick, Siobhan.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/hollowmere-shiv",
+        "character-player/hollowmere-nala",
+      ],
+    },
+    {
+      fact: "Shiv says every dawn swim off her rock is swimming with her mam; that's all it's ever been.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/hollowmere-shiv",
+        "character-player/hollowmere-nala",
+      ],
+    },
+    {
+      fact: "Shiv cried hard on the rock in Nala's arms, the first time in front of anyone since her mam died.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/hollowmere-shiv",
+        "character-player/hollowmere-nala",
+      ],
+    },
+    {
+      fact: "Shiv told Nala she wants her too, when it's right; she's in no hurry, with a whole year of Sundays.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/hollowmere-shiv",
+        "character-player/hollowmere-nala",
+      ],
+    },
+    {
+      fact: "The Pogues song Shiv plays every night was her mam's, sung doing the dishes every night.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/hollowmere-shiv",
+        "character-player/hollowmere-nala",
+      ],
+    },
+    {
+      fact: "Adrift on the mere, Shiv sang Nala one of her mam's Irish songs: she'd have liked you, she said.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/hollowmere-shiv",
+        "character-player/hollowmere-nala",
+      ],
+    },
+    {
+      fact: "Reading Nala's face, Shiv guessed Lindqvist, and said Bea's been mad for her since the first day.",
       knowers: [
         "lore-disclosure/game-master",
         "character-other/hollowmere-shiv",

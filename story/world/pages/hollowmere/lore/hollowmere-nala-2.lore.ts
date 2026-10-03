@@ -267,5 +267,13 @@ export const hollowmereNala2 = {
         "character-other/hollowmere-bea",
       ],
     },
+    {
+      fact: "Rowing Shiv back across the mere, Nala went in circles, and Shiv nearly laughed herself overboard.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-shiv",
+      ],
+    },
   ],
 } as const satisfies Lore
