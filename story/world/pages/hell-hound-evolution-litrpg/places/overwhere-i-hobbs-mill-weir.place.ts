@@ -251,5 +251,9 @@ export const overwhereIHobbsMillWeir = {
       fact: "At 11:36 on day 8 the burned, ruined wyrm drags itself toward the pool as its stun ends.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
+    {
+      fact: "A spike at the wyrm dragging itself over the apron, 20 yards off, is easy before other bands.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Place
