@@ -7,7 +7,12 @@ export const overwhereIv00080 = {
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iv"],
   position: 80,
-  stepStatus: "step-status/world-builder",
+  stepStatus: "step-status/game-master",
   action:
     "“It’s me, Nala!” I shout. As I get closer I warn them “Ran into a full warband, must have been at least 20 of them, 2 big hobs. I think I downed five, but they were pretty mad, chased me hard. Not sure if I lost them or if they’ll keep coming tonight. I’m low on mana, but I can still use a spear if they come this way.”",
+  lore: [
+    "lore/overwhere-iv-brookside-four-2",
+    "lore/overwhere-iv-the-tangle-2",
+    "place/overwhere-iv-tull-farm",
+  ],
 } as const satisfies StoryTurnPlayed
