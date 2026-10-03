@@ -98,7 +98,7 @@ export const overwhereIiCallowBeck = {
     },
     {
       fact: "A Warped ewe broke Ebba's grandson Wat's arm at dawn; the family is barred in the longhouse.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "The beck runs black past the longhouse; Ebba's water is fouled but for one rain barrel.",
