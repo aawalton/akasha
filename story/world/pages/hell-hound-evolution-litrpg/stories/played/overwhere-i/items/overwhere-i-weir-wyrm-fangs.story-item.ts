@@ -6,7 +6,7 @@ export const overwhereIWeirWyrmFangs = {
   slug: "overwhere-i-weir-wyrm-fangs",
   title: "Weir Wyrm's Fangs",
   story: "story-played/overwhere-i",
-  character: "character-player/overwhere-i-nala",
+  place: "place/overwhere-i-wendlow",
   description:
-    "The Weir Wyrm's two hooked, yellow-white fangs, each a hand long, wrapped in her pack.",
+    "The Weir Wyrm's two hooked, yellow-white fangs, each a hand long, hung on a nail at Antler Hall.",
 } as const satisfies StoryItem

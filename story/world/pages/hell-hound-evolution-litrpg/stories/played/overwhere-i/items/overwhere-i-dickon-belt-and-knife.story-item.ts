@@ -6,7 +6,7 @@ export const overwhereIDickonBeltAndKnife = {
   slug: "overwhere-i-dickon-belt-and-knife",
   title: "Dickon's Belt and Knife",
   story: "story-played/overwhere-i",
-  character: "character-player/overwhere-i-nala",
+  place: "place/overwhere-i-hobbs-mill-weir",
   description:
-    "A brass-buckled belt with a bowman's knife, taken from the Weir Wyrm's gut; Dickon's.",
+    "A brass-buckled belt with a bowman's knife, taken from the Weir Wyrm's gut; Dickon's. Nala gave it to Jory, who will carry it to Dickon's mother at Brennock Ford.",
 } as const satisfies StoryItem
