@@ -8,9 +8,9 @@ export const hollowmere0034Bend = {
   unit: "unit/words",
   title: "Bend",
   story: "story-written/hollowmere",
-  ownLength: 7388,
+  ownLength: 7392,
   prose: "txt",
-  stepStatus: "step-status/writer",
+  stepStatus: "step-status/recorders",
   beats: [
     "Saturday of week five: the Fell Cup. Bea is up at five, white-faced, and eats one dry toast.",
     'You make her breathe out, twice. She holds your ringed hand. "Jetty wall," she says. "Shouting."',
