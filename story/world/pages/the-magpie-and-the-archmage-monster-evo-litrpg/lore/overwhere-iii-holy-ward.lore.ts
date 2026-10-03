@@ -42,7 +42,7 @@ export const overwhereIiiHolyWard = {
     },
     {
       fact: "[Holy Ward – At [Basic] level, weave white-gold close over yourself to turn blows and blight.]",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
   ],
 } as const satisfies Lore
