@@ -5,7 +5,7 @@ export const hollowmere0018TheLongPose = {
   type: "page-type/story-chapter-written",
   slug: "hollowmere-0018-the-long-pose",
   cover: "image/image-f754cadcf4e789c3",
-  ownProgress: 345,
+  ownProgress: 365,
   position: 18,
   unit: "unit/words",
   title: "The Long Pose",
