@@ -10,7 +10,7 @@ export const overwhereIiiCurrentKnot = {
   facts: [
     {
       fact: "A Legend Mana Weaver can drag every raw current within reach into one knot at a chosen spot.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
     {
       fact: "Clashing colors knotted with no weave's shape fight each other and burst.",
@@ -26,7 +26,11 @@ export const overwhereIiiCurrentKnot = {
     },
     {
       fact: "A knot tied on a mage's shield tears the shield's weave apart as it bursts.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iii-nala",
+        "character-other/overwhere-iii-mother-sallow",
+      ],
     },
     {
       fact: "The burst blows any mist or working hung on the currents away with it.",

@@ -128,5 +128,9 @@ export const overwhereIiiNala22 = {
       fact: "A fourth wolf bite on day ten left Nala with blight creeping in four bites.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
+    {
+      fact: "Struck down on day ten, Nala lay spent half an hour before her well gave back a trickle.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+    },
   ],
 } as const satisfies Lore

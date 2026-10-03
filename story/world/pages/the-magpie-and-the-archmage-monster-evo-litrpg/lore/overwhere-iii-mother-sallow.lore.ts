@@ -200,6 +200,14 @@ export const overwhereIiiMotherSallow = {
         "character-other/overwhere-iii-mother-sallow",
       ],
     },
+    {
+      fact: "She struck Nala down with black force, then called off the wolves biting Nala's arm.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iii-nala",
+        "character-other/overwhere-iii-mother-sallow",
+      ],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
