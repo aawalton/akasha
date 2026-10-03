@@ -13,7 +13,7 @@ export const overwhereIii00081 = {
     "character-player/overwhere-iii-nala",
     "character-other/overwhere-iii-mother-sallow",
   ],
-  stepStatus: "step-status/writer",
+  stepStatus: "step-status/recorders",
   action: "I pocket the seed stone and follow the wolf, ready to hit it with my braid",
   beats: [
     "Nala pockets the seed stone and goes after the wolf, her braid ready.",
