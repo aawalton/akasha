@@ -9,6 +9,6 @@ export const fairweather = {
   premise: "md",
   genre: "cozy LitRPG slice of life and yuri romantic comedy, all tension and no sex",
   visualStyle: "fantasy photorealistic",
-  narrator: "Third person, past tense, close on Elsie.",
+  narrator: "Third person, past tense, close on Elsie alone.",
   imageSeed: 268401937,
 } as const satisfies StoryDesign
