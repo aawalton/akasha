@@ -181,5 +181,9 @@ export const overwhereIiiCorruption2 = {
       fact: "After that one sweep the smallest kiln jackalope can barely stand; the other two fight on.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
+    {
+      fact: "A small blightstone from a Level 8 to 11 beast cracks into five glimmer specks.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
