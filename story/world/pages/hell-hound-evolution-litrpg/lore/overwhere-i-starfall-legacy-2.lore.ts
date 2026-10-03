@@ -252,5 +252,9 @@ export const overwhereIStarfallLegacy2 = {
       fact: "Holding the two-lens spyglass costs 5 mana a minute; holding it still needs no roll.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Lightning is one of the Starfall elements; calling it is a Surge use, not a new way.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
