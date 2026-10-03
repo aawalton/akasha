@@ -7,5 +7,5 @@ export const overwhereIiiPipCarrow = {
   title: "Pip Carrow",
   world: "world/the-magpie-and-the-archmage-monster-evo-litrpg",
   story: "story-played/overwhere-iii",
-  place: "place/overwhere-iii-merrowgate",
+  place: "place/overwhere-iii-herb-shop",
 } as const satisfies CharacterOther

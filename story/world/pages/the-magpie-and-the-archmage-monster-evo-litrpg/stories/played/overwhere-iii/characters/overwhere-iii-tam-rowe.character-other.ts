@@ -7,4 +7,5 @@ export const overwhereIiiTamRowe = {
   title: "Tam Rowe",
   world: "world/the-magpie-and-the-archmage-monster-evo-litrpg",
   story: "story-played/overwhere-iii",
+  place: "place/overwhere-iii-merrowgate",
 } as const satisfies CharacterOther

@@ -7,5 +7,5 @@ export const overwhereIiiMardaHesk = {
   title: "Marda Hesk",
   world: "world/the-magpie-and-the-archmage-monster-evo-litrpg",
   story: "story-played/overwhere-iii",
-  place: "place/overwhere-iii-merrowgate",
+  place: "place/overwhere-iii-merrowgate-guild-post",
 } as const satisfies CharacterOther

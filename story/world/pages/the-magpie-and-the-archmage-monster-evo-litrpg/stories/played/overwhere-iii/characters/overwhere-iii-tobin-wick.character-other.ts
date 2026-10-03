@@ -7,4 +7,5 @@ export const overwhereIiiTobinWick = {
   title: "Tobin Wick",
   world: "world/the-magpie-and-the-archmage-monster-evo-litrpg",
   story: "story-played/overwhere-iii",
+  place: "place/overwhere-iii-crook-and-candle",
 } as const satisfies CharacterOther
