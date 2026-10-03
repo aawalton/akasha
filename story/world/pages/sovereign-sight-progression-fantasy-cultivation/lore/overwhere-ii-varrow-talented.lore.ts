@@ -179,5 +179,13 @@ export const overwhereIiVarrowTalented = {
       fact: "At Callow Beck, Hawise draws her two steel short blades and leaves the call to Nala, the free blade.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
+    {
+      fact: "Hawise holds the Lady's order to be seeing Callow mended, and stays at Nala's side till it is.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Hawise has no Talent for water; at the gully she hauls peat and stone, and keeps watch.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
