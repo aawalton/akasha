@@ -340,5 +340,9 @@ export const overwhereIWendlow = {
       fact: "One contract: the margrave's reeve pays 8 gold for a true account of why Greyfen crystals went dark.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "The other: 15 gold for the Weir Wyrm, a river serpent taking bargemen at Hobb's Mill weir downriver.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Place
