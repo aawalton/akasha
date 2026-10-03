@@ -1,16 +1,16 @@
 import type { StoryChapterWritten } from "akasha/story/world/stories/written/chapters/story-chapter-written.page-type.types.ts"
 
-export const hollowmere0018 = {
+export const hollowmere0018TheLongPose = {
   id: "01a0ff1b-8a1a-7dd9-a125-8be00e602104",
   type: "page-type/story-chapter-written",
-  slug: "hollowmere-0018",
+  slug: "hollowmere-0018-the-long-pose",
   position: 18,
   unit: "unit/words",
-  title: "Chapter 18",
+  title: "The Long Pose",
   story: "story-written/hollowmere",
-  ownLength: 0,
+  ownLength: 3059,
   prose: "txt",
-  stepStatus: "step-status/writer",
+  stepStatus: "step-status/reviewers",
   beats: [
     "Thursday: a hard clear frost; the mere smokes at dawn, and you and Shiv swim the buoy and back.",
     "Shiv asks about the bursar's forms; you tell her you put Bea's name down for emergencies.",
@@ -67,5 +67,23 @@ export const hollowmere0018 = {
     "You fall asleep warm all over, the phone in your hand, and Kit's handkerchief under your cheek.",
     "A day at Hollowmere ends.",
   ],
-  lore: ["lore/hollowmere-academy-2"],
+  lore: [
+    "lore/hollowmere-academy-2",
+    "lore/hollowmere-bea",
+    "lore/hollowmere-kit",
+    "lore/hollowmere-kit-2",
+    "lore/hollowmere-lin",
+    "lore/hollowmere-nala",
+    "lore/hollowmere-nala-2",
+    "lore/hollowmere-shiv",
+    "lore/hollowmere-yusra",
+  ],
+  characters: [
+    "character-player/hollowmere-nala",
+    "character-other/hollowmere-shiv",
+    "character-other/hollowmere-bea",
+    "character-other/hollowmere-kit",
+    "character-other/hollowmere-lin",
+    "character-other/hollowmere-yusra",
+  ],
 } as const satisfies StoryChapterWritten
