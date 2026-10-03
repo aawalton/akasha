@@ -124,6 +124,30 @@ export const overwhereIiVarrowTalented = {
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
+      fact: "Corra spars with a wooden sword, weakest of the three with a blade; she relies on getting close.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Corra's spark leaps a hand's breadth from her fingertips, or runs through whatever she touches.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "A spark runs along water: wet flags, a soaked shaft, or a tide of Water touching Corra.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "If Nala's push touches Corra as she sparks, the spark runs back up the tide and numbs Nala's hand.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Corra knows sparks run along water, and will wet the ground near Nala to use it if she can.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "After the Hawise bout, Nala's mind holds only a few more fine pushes before they start to slip.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
       fact: "In Nala's first bout, her blunt spear touched Osric clean in the ribs; his maul caught her after.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
