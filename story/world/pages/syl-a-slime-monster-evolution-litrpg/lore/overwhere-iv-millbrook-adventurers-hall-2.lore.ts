@@ -238,15 +238,30 @@ export const overwhereIvMillbrookAdventurersHall2 = {
     },
     {
       fact: "Ilsa pays 5 silver for each of the two strike hobgoblins, to Nala, on their heads or ears.",
-      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iv-ilsa-crane"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/overwhere-iv-ilsa-crane",
+        "character-player/overwhere-iv-nala",
+        "lore/overwhere-iv-brookside-four",
+      ],
     },
     {
       fact: "Ilsa pays Nala the 3 silver still owed for her watch at Tull's on the seventh night.",
-      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iv-ilsa-crane"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/overwhere-iv-ilsa-crane",
+        "character-player/overwhere-iv-nala",
+        "lore/overwhere-iv-brookside-four",
+      ],
     },
     {
       fact: "For Grakk's strike broken and Tull's farm saved, Ilsa adds a gold to Nala from the hall's purse.",
-      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iv-ilsa-crane"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/overwhere-iv-ilsa-crane",
+        "character-player/overwhere-iv-nala",
+        "lore/overwhere-iv-brookside-four",
+      ],
     },
     {
       fact: "The Four are paid their night's watch, 3 silver each, and Ilsa notes their stand at Tull's.",
@@ -254,11 +269,21 @@ export const overwhereIvMillbrookAdventurersHall2 = {
     },
     {
       fact: "The silver letter goes east with the morning carter; a silver tag comes back in some ten days.",
-      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iv-ilsa-crane"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/overwhere-iv-ilsa-crane",
+        "character-player/overwhere-iv-nala",
+        "lore/overwhere-iv-brookside-four",
+      ],
     },
     {
       fact: "Ilsa counts the strike broken as a major job, like a camp cleared, and writes Nala's silver letter.",
-      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iv-ilsa-crane"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/overwhere-iv-ilsa-crane",
+        "character-player/overwhere-iv-nala",
+        "lore/overwhere-iv-brookside-four",
+      ],
     },
     {
       fact: "On day 9 Ilsa paid Nala 10 silver for two hobgoblins, 3 for her watch and a gold for the strike.",
@@ -266,6 +291,7 @@ export const overwhereIvMillbrookAdventurersHall2 = {
         "lore-disclosure/game-master",
         "character-player/overwhere-iv-nala",
         "character-other/overwhere-iv-ilsa-crane",
+        "lore/overwhere-iv-brookside-four",
       ],
     },
     {
@@ -274,6 +300,7 @@ export const overwhereIvMillbrookAdventurersHall2 = {
         "lore-disclosure/game-master",
         "character-player/overwhere-iv-nala",
         "character-other/overwhere-iv-ilsa-crane",
+        "lore/overwhere-iv-brookside-four",
       ],
     },
     {
@@ -282,6 +309,7 @@ export const overwhereIvMillbrookAdventurersHall2 = {
         "lore-disclosure/game-master",
         "character-player/overwhere-iv-nala",
         "character-other/overwhere-iv-ilsa-crane",
+        "lore/overwhere-iv-brookside-four",
       ],
     },
   ],

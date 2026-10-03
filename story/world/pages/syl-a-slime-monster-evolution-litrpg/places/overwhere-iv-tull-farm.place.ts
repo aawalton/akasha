@@ -197,11 +197,15 @@ export const overwhereIvTullFarm = {
     },
     {
       fact: "Wren takes the hobgoblins' ears and cores; Dace hefts a head on each shoulder for Ilsa to see.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iv-nala",
+        "lore/overwhere-iv-brookside-four",
+      ],
     },
     {
       fact: "Aldo swears to all who'll listen that he saw the redhead kill two hobgoblins from the fold.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
     },
     {
       fact: "At dawn Tull gives Nala his late wife's grey wool cloak, and a place at his table when she comes.",

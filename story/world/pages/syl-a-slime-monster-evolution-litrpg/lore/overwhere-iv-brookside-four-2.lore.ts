@@ -235,5 +235,14 @@ export const overwhereIvBrooksideFour2 = {
         "lore/overwhere-iv-brookside-four",
       ],
     },
+    {
+      fact: "At first light of day 9 Nala and the Four walked the two hobgoblin heads into Millbrook's hall.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iv-nala",
+        "lore/overwhere-iv-brookside-four",
+        "character-other/overwhere-iv-ilsa-crane",
+      ],
+    },
   ],
 } as const satisfies Lore

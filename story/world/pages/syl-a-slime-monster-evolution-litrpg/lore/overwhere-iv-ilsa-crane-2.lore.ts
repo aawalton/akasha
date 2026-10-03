@@ -300,5 +300,14 @@ export const overwhereIvIlsaCrane2 = {
         "character-other/overwhere-iv-ilsa-crane",
       ],
     },
+    {
+      fact: "At one look into the sack of hobgoblin heads, Ilsa sat down slowly.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iv-nala",
+        "character-other/overwhere-iv-ilsa-crane",
+        "lore/overwhere-iv-brookside-four",
+      ],
+    },
   ],
 } as const satisfies Lore
