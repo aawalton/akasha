@@ -4,6 +4,7 @@ export const overwhereI00100 = {
   id: "01a0ff2a-d3fe-782d-b2c1-4ef28428194e",
   type: "page-type/story-turn-played",
   slug: "overwhere-i-00-100",
+  cover: "image/image-9291092950cda2fb",
   ownLength: 319,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-i"],
@@ -37,6 +38,7 @@ export const overwhereI00100 = {
     "place/overwhere-i-wendlow",
   ],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
-  recordedBy: ["story-recorder/mechanics", "story-recorder/inventory"],
+  recordedBy: ["story-recorder/mechanics", "story-recorder/inventory", "story-recorder/picture"],
   endsAt: "2026-10-05T12:30:00.000Z",
+  coverAfter: "She taps the ledger with one scarred finger.",
 } as const satisfies StoryTurnPlayed
