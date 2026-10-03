@@ -10,4 +10,5 @@ export const dateNightTheReadingRoom0001TheDumplingClause = {
   ownLength: 666,
   unit: "unit/words",
   prose: "txt",
+  beats: "jsonl",
 } as const satisfies StoryChapterWritten
