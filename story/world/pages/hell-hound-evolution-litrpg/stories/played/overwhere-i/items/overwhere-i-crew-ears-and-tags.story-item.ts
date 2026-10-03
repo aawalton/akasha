@@ -6,7 +6,7 @@ export const overwhereICrewEarsAndTags = {
   slug: "overwhere-i-crew-ears-and-tags",
   title: "Crew Ears and Levy Tags",
   story: "story-played/overwhere-i",
-  character: "character-player/overwhere-i-nala",
+  place: "place/overwhere-i-wendlow",
   description:
     "Eight right ears cut from Voss's dead crewmen, packed in coarse salt with Voss's head inside his sack, each kept with the stamped tin levy tag he wore, and Harl Voss's own tag on its cord.",
 } as const satisfies StoryItem

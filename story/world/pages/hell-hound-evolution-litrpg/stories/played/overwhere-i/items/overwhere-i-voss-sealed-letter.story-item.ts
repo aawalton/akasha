@@ -6,6 +6,7 @@ export const overwhereIVossSealedLetter = {
   slug: "overwhere-i-voss-sealed-letter",
   title: "Sealed Letter",
   story: "story-played/overwhere-i",
-  character: "character-player/overwhere-i-nala",
-  description: "A folded letter under an unbroken wax seal, taken from Harl Voss's jerkin.",
+  place: "place/overwhere-i-wendlow",
+  description:
+    "A folded letter taken from Harl Voss's jerkin, its guild counting-house seal broken by Grete, who keeps it for the magistrate.",
 } as const satisfies StoryItem
