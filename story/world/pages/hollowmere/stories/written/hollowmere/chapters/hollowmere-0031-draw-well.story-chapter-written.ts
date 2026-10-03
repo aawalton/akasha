@@ -72,6 +72,7 @@ export const hollowmere0031DrawWell = {
     "You sleep in room 8, her hair across your face, the candle burnt down to nothing on the desk.",
     "A day at Hollowmere ends.",
   ],
+  issues: ['"until she finds the place that makes you cry out" - Hollowmere Explicitness'],
   lore: [
     "lore/hollowmere-bea",
     "lore/hollowmere-bea-2",
@@ -90,4 +91,5 @@ export const hollowmere0031DrawWell = {
     "character-other/hollowmere-bea",
     "character-other/hollowmere-kit",
   ],
+  reviewedBy: ["story-reviewer/style"],
 } as const satisfies StoryChapterWritten
