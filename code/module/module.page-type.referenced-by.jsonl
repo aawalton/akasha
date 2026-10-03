@@ -2711,6 +2711,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"story/world/stories/played/modules/purse-ledger/purse-ledger.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"story/world/stories/played/modules/turn-undo-answering/turn-undo-answering.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"story/world/stories/played/modules/turn-undo-control/turn-undo-control.module.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"story/world/stories/played/turns/modules/turn-advancing/turn-advancing.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"story/world/stories/played/turns/modules/turn-cast/turn-cast.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"story/world/stories/played/turns/modules/turn-lifecycle/turn-lifecycle.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"story/world/stories/played/turns/modules/turn-lore-handed/turn-lore-handed.module.ts","typed":true,"deferred":false}

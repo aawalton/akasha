@@ -4106,6 +4106,7 @@
 {"propertySlug":"decision-kind","path":"story/world/stories/played/service-workstations/cover-rerolling/cover-rerolling.service-workstation.ts","id":"01a0e853-50d7-72fe-a224-748adb47cde2"}
 {"propertySlug":"decision-kind","path":"story/world/stories/played/service-workstations/turn-undo-answering/turn-undo-answering.service-workstation.ts","id":"01a0f1ca-3316-79ad-8946-c58f07e6f30e"}
 {"propertySlug":"decision-kind","path":"story/world/stories/played/story-played.page-type.ts","id":"01a06424-329c-7c08-a753-0e0520e2d22c"}
+{"propertySlug":"decision-kind","path":"story/world/stories/played/turns/modules/turn-advancing/turn-advancing.module.ts","id":"01a1022f-b5dc-7b0c-91af-b84b4c92f314"}
 {"propertySlug":"decision-kind","path":"story/world/stories/played/turns/modules/turn-cast/turn-cast.module.ts","id":"01a0ea6e-4e6c-7af1-9a9e-477f55abd52a"}
 {"propertySlug":"decision-kind","path":"story/world/stories/played/turns/modules/turn-lifecycle/turn-lifecycle.module.ts","id":"01a0dec2-87a0-7072-b427-5155e34684b0"}
 {"propertySlug":"decision-kind","path":"story/world/stories/played/turns/modules/turn-lore-handed/turn-lore-handed.module.ts","id":"01a0f17a-cd74-7e4b-abcf-ece5c4c8f55f"}

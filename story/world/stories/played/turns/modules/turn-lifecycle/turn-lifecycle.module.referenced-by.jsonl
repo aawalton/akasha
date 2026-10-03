@@ -28,7 +28,8 @@
 {"propertySlug":"import","fileName":"turn-lifecycle.module.code.ts","path":"story/world/stories/played/modules/played-rows/played-rows.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"turn-lifecycle.module.code.ts","path":"story/world/stories/played/modules/played-rows/played-rows.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"turn-lifecycle.module.code.ts","path":"story/world/stories/played/modules/turn-undo-answering/turn-undo-answering.module.code.ts","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"turn-lifecycle.module.code.ts","path":"story/world/stories/played/turns/modules/turn-lifecycle/turn-lifecycle.module.test-fixtures.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"turn-lifecycle.module.code.ts","path":"story/world/stories/played/turns/modules/turn-advancing/turn-advancing.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"turn-lifecycle.module.code.ts","path":"story/world/stories/played/turns/modules/turn-lifecycle/turn-lifecycle.module.test-fixtures.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"turn-lifecycle.module.code.ts","path":"story/world/stories/played/turns/modules/turn-lifecycle/turn-lifecycle.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"turn-lifecycle.module.code.ts","path":"story/world/stories/played/turns/modules/turn-making/turn-making.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"turn-lifecycle.module.code.ts","path":"story/world/stories/played/turns/modules/turn-notice/turn-notice.module.code.ts","typed":false,"deferred":false}
