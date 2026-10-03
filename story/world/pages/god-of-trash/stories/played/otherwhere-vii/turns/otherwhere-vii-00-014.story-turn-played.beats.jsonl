@@ -1,7 +1,7 @@
-{"beat":1,"event":"Nala asks Hild if there's anything she needs from her before morning."}
+{"beat":1,"event":"Nala asks Hild if there's anything she needs from her before morning.","changes":[{"page":"world-relationship/otherwhere-vii-hild","key":"relationshipPoints","from":3,"to":4,"note":"Nala offers Hild whatever she needs before morning (standing +1)"}]}
 {"beat":2,"event":"Hild looks her over once more, from the clogs up to the hands, and ticks it off on her fingers."}
 {"beat":3,"event":"\"Come fed. Come shod. Come with those hands greased and slept on, not raw.\""}
-{"beat":4,"event":"\"Bring nothing but yourself. I've a hooked knife and a rush basket, and I count both back at dusk.\""}
+{"beat":4,"event":"\"Bring nothing but yourself. I've a hooked knife and a rush basket, and I count both back at dusk.\"","memory":[{"page":"lore/otherwhere-vii-hild","fact":"Hild wants a picker to come fed, shod, with salved hands, and to bring nothing but herself.","learns":"character-player/otherwhere-vii-nala"},{"page":"lore/otherwhere-vii-hild","fact":"Hild lends her pickers a hooked knife and a flat rush basket, and counts both back at dusk.","learns":"character-player/otherwhere-vii-nala"}]}
 {"beat":5,"event":"She glances past Nala to Joan at the board, and her voice drops."}
-{"beat":6,"event":"\"One thing more, and it's for tonight. Joan's worn thin with four days of watching that child.\""}
-{"beat":7,"event":"\"Sit an hour with Bet tonight, so her mother can shut her eyes. I'll show you what to do.\""}
+{"beat":6,"event":"\"One thing more, and it's for tonight. Joan's worn thin with four days of watching that child.\"","memory":[{"page":"lore/otherwhere-vii-joan-reeve","fact":"Joan is worn thin from four days of watching over feverish Bet.","learns":"character-player/otherwhere-vii-nala"},{"page":"lore/otherwhere-vii-hild","fact":"Bet Reeve has been feverish four days; Hild steeps comfrey and yarrow and watches her at night.","learns":"character-player/otherwhere-vii-nala"}]}
+{"beat":7,"event":"\"Sit an hour with Bet tonight, so her mother can shut her eyes. I'll show you what to do.\"","memory":[{"page":"lore/otherwhere-vii-hild","fact":"Hild would ask one thing of Nala before morning: to sit an hour with Bet tonight so Joan sleeps.","learns":"character-player/otherwhere-vii-nala"}]}
