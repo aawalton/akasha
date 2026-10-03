@@ -1,15 +1,16 @@
 {"beat":1,"event":"Alan stops dead in his tracks and stares at her in shock."}
-{"beat":2,"event":"\"Wait a minute, you're not just named 'Echo', you are THE Echo, cursed by Hera!\""}
+{"beat":2,"event":"\"Wait a minute, you're not just named 'Echo', you are THE Echo, cursed by Hera!\"","memory":[{"page":"lore/the-dating-game-echo","fact":"She is the Echo of the old stories, whom Hera cursed.","shown":true},{"page":"lore/the-dating-game-echo","fact":"She is the Echo of the old stories, whom Hera cursed.","learns":"character-player/the-dating-game-alan"}]}
 {"beat":3,"event":"\"That's amazing! I always thought there was more to the stories than just stories.\""}
 {"beat":4,"event":"He grins at her, bouncing on his toes in excitement."}
 {"beat":5,"event":"\"That means you must be at least two thousand years old! No wonder I feel so comfortable with you.\""}
 {"beat":6,"event":"\"I have total aphantasia, which means I have no experiential memory at all,\""}
-{"beat":7,"event":"\"which makes me experience the world as if I'm ageless.\""}
+{"beat":7,"event":"\"which makes me experience the world as if I'm ageless.\"","memory":[{"page":"lore/the-dating-game-alan","fact":"Alan has total aphantasia and no experiential memory, so he feels ageless.","shown":true},{"page":"lore/the-dating-game-alan","fact":"Alan has total aphantasia and no experiential memory, so he feels ageless.","learns":"character-player/the-dating-game-alan"},{"page":"lore/the-dating-game-alan","fact":"Alan has total aphantasia and no experiential memory, so he feels ageless.","learns":"character-other/the-dating-game-echo"}]}
 {"beat":8,"event":"\"I've been like that since I was a kid, which made me a really weird kid,\""}
-{"beat":9,"event":"\"always much too old for my age.\""}
+{"beat":9,"event":"\"always much too old for my age.\"","memory":[{"page":"lore/the-dating-game-alan","fact":"As a kid Alan was a really weird kid, always much too old for his age.","shown":true},{"page":"lore/the-dating-game-alan","fact":"As a kid Alan was a really weird kid, always much too old for his age.","learns":"character-player/the-dating-game-alan"},{"page":"lore/the-dating-game-alan","fact":"As a kid Alan was a really weird kid, always much too old for his age.","learns":"character-other/the-dating-game-echo"}]}
 {"beat":10,"event":"At the word Hera, Echo had gone very still; now her eyes are wet."}
 {"beat":11,"event":"She nods once, then again, hard."}
-{"beat":12,"event":"\"Three thousand,\" she says, holding up three fingers, laughing through the wet."}
+{"beat":12,"event":"\"Three thousand,\" she says, holding up three fingers, laughing through the wet.","memory":[{"page":"lore/the-dating-game-echo","fact":"Echo is three thousand years old.","shown":true},{"page":"lore/the-dating-game-echo","fact":"Echo is three thousand years old.","learns":"character-player/the-dating-game-alan"}]}
 {"beat":13,"event":"Then softly, looking right at him, she gives back: \"Ageless.\""}
 {"beat":14,"event":"She taps her own chest and says with a crooked grin, \"Much too old for my age.\""}
-{"beat":15,"event":"She catches his hand and squeezes it, then holds on a moment longer than she needs to."}
+{"beat":15,"event":"She catches his hand and squeezes it, then holds on a moment longer than she needs to.","at":"2026-09-26T09:46:00.000Z","changes":[{"page":"world-relationship/the-dating-game-echo","key":"relationshipPoints","from":7,"to":10,"note":"Closeness scoring: validation, acknowledgment and intimacy 1 each"}]}
+

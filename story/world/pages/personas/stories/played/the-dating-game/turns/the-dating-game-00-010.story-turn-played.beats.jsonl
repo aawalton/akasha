@@ -1,11 +1,12 @@
-{"beat":1,"event":"Alan: \"Oh, I love Tolkien. Have you read CS Lewis?\""}
-{"beat":2,"event":"\"I don't like his fiction quite as much, but I've found his non-fiction deeply inspiring.\""}
+{"beat":1,"event":"Alan: \"Oh, I love Tolkien. Have you read CS Lewis?\"","memory":[{"page":"lore/the-dating-game-alan","fact":"Alan loves Tolkien.","shown":true},{"page":"lore/the-dating-game-alan","fact":"Alan loves Tolkien.","learns":"character-other/the-dating-game-echo"}]}
+{"beat":2,"event":"\"I don't like his fiction quite as much, but I've found his non-fiction deeply inspiring.\"","memory":[{"page":"lore/the-dating-game-alan","fact":"Alan finds C. S. Lewis's non-fiction deeply inspiring, and likes his fiction less.","shown":true},{"page":"lore/the-dating-game-alan","fact":"Alan finds C. S. Lewis's non-fiction deeply inspiring, and likes his fiction less.","learns":"character-other/the-dating-game-echo"}]}
 {"beat":3,"event":"\"I love the story of how The Lord of the Rings got written on a bet between the two of them.\""}
 {"beat":4,"event":"\"Modern fantasy really started in that Inklings club.\""}
-{"beat":5,"event":"\"These days I mostly read LitRPG, are you familiar with that at all?\""}
+{"beat":5,"event":"\"These days I mostly read LitRPG, are you familiar with that at all?\"","memory":[{"page":"lore/the-dating-game-alan","fact":"These days Alan mostly reads LitRPG.","shown":true},{"page":"lore/the-dating-game-alan","fact":"These days Alan mostly reads LitRPG.","learns":"character-other/the-dating-game-echo"}]}
 {"beat":6,"event":"At \"Lewis\" Echo nods fast, and at \"non-fiction\" she stops on the trail and turns to him."}
 {"beat":7,"event":"Her narrator's voice comes back, low and warm, giving him a line of Lewis's:"}
-{"beat":8,"event":"\"What! You too? I thought I was the only one.\""}
+{"beat":8,"event":"\"What! You too? I thought I was the only one.\"","memory":[{"page":"lore/the-dating-game-echo","fact":"Echo has read C. S. Lewis, and can quote him.","shown":true},{"page":"lore/the-dating-game-echo","fact":"Echo has read C. S. Lewis, and can quote him.","learns":"character-player/the-dating-game-alan"}]}
 {"beat":9,"event":"She holds his eyes as she says it, and plainly means it for the two of them."}
-{"beat":10,"event":"Then at \"LitRPG\" she grins wide and nods: she knows it well."}
-{"beat":11,"event":"She taps his chest once with a fingertip, and her grin turns sly."}
+{"beat":10,"event":"Then at \"LitRPG\" she grins wide and nods: she knows it well.","memory":[{"page":"lore/the-dating-game-echo","fact":"Echo knows LitRPG well.","shown":true},{"page":"lore/the-dating-game-echo","fact":"Echo knows LitRPG well.","learns":"character-player/the-dating-game-alan"}]}
+{"beat":11,"event":"She taps his chest once with a fingertip, and her grin turns sly.","at":"2026-09-26T09:50:00.000Z"}
+

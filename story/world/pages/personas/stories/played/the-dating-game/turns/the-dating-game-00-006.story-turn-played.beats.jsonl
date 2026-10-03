@@ -1,14 +1,15 @@
-{"beat":1,"event":"Alan: \"This side path will take us up to Kyhv Peak. It's a bit of a longer hike,\""}
-{"beat":2,"event":"\"about two and a half hours from canyon entrance to the top, but the views are great.\""}
+{"beat":1,"event":"Alan: \"This side path will take us up to Kyhv Peak. It's a bit of a longer hike,\"","memory":[{"page":"place/the-dating-game-rock-canyon","fact":"Past the pool, the side path crosses the creek and climbs a narrow trail to Kyhv Peak.","shown":true},{"page":"place/the-dating-game-rock-canyon","fact":"Past the pool, the side path crosses the creek and climbs a narrow trail to Kyhv Peak.","learns":"character-player/the-dating-game-alan"},{"page":"place/the-dating-game-rock-canyon","fact":"Past the pool, the side path crosses the creek and climbs a narrow trail to Kyhv Peak.","learns":"character-other/the-dating-game-echo"}]}
+{"beat":2,"event":"\"about two and a half hours from canyon entrance to the top, but the views are great.\"","memory":[{"page":"place/the-dating-game-rock-canyon","fact":"Kyhv Peak is about two and a half hours' hike from the canyon mouth, with wide views from the top.","shown":true},{"page":"place/the-dating-game-rock-canyon","fact":"Kyhv Peak is about two and a half hours' hike from the canyon mouth, with wide views from the top.","learns":"character-player/the-dating-game-alan"},{"page":"place/the-dating-game-rock-canyon","fact":"Kyhv Peak is about two and a half hours' hike from the canyon mouth, with wide views from the top.","learns":"character-other/the-dating-game-echo"}]}
 {"beat":3,"event":"\"It's a little harder on conversations though, since the trail is narrower,\""}
 {"beat":4,"event":"\"so I'm thinking let's stay on the main trail for now.\""}
 {"beat":5,"event":"\"The main trail also has the best drinking fountains, fresh cold mountain spring water.\""}
-{"beat":6,"event":"Echo looks down the side path, past the pool, to where it crosses the creek and climbs away."}
+{"beat":6,"event":"Echo looks down the side path, past the pool, to where it crosses the creek and climbs away.","memory":[{"page":"lore/the-dating-game-boulder-woman","fact":"At the trail split she looked down the side path, then back to Alan, eyebrows up.","shown":true},{"page":"lore/the-dating-game-boulder-woman","fact":"At the trail split she looked down the side path, then back to Alan, eyebrows up.","learns":"character-player/the-dating-game-alan"}]}
 {"beat":7,"event":"\"Kyhv Peak,\" she says, looking up toward it."}
 {"beat":8,"event":"Then she looks back at him, a glint in her eye: \"For now.\""}
 {"beat":9,"event":"She takes the main trail beside him, close at his shoulder again."}
 {"beat":10,"event":"The trail climbs into deeper, colder shade between the walls."}
-{"beat":11,"event":"A drinking fountain stands at the trailside, running cold mountain spring water."}
+{"beat":11,"event":"A drinking fountain stands at the trailside, running cold mountain spring water.","at":"2026-09-26T09:40:00.000Z","memory":[{"page":"place/the-dating-game-rock-canyon","fact":"The main trail passes drinking fountains that run cold mountain spring water.","shown":true},{"page":"place/the-dating-game-rock-canyon","fact":"The main trail passes drinking fountains that run cold mountain spring water.","learns":"character-player/the-dating-game-alan"},{"page":"place/the-dating-game-rock-canyon","fact":"The main trail passes drinking fountains that run cold mountain spring water.","learns":"character-other/the-dating-game-echo"}]}
 {"beat":12,"event":"Echo bends and drinks first, long and grateful, water beading on her freckled chin."}
 {"beat":13,"event":"She straightens, wets her fingertips under the spout, and flicks the cold drops at him."}
-{"beat":14,"event":"She grins and waits to see what he does."}
+{"beat":14,"event":"She grins and waits to see what he does.","at":"2026-09-26T09:41:00.000Z"}
+
