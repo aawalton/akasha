@@ -10,4 +10,6 @@ export const dragonsAndDungeons01009 = {
   unit: "unit/words",
   prose: "txt",
   stepStatus: "step-status/player",
+  beats: "jsonl",
+  endsAt: "2026-09-29T19:00:00.000Z",
 } as const satisfies StoryTurnPlayed
