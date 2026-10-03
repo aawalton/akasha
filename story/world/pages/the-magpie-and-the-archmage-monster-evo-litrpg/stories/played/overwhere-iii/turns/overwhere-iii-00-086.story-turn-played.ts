@@ -16,7 +16,7 @@ export const overwhereIii00086 = {
     "character-other/overwhere-iii-marda-hesk",
     "character-other/overwhere-iii-mother-sallow",
   ],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action: "“Let’s go there together, now.”",
   beats: [
     '"Let\'s go there together, now."',
@@ -46,7 +46,12 @@ export const overwhereIii00086 = {
     "place/overwhere-iii-the-hollow",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/memory", "story-recorder/inventory", "story-recorder/picture"],
+  recordedBy: [
+    "story-recorder/memory",
+    "story-recorder/inventory",
+    "story-recorder/picture",
+    "story-recorder/mechanics",
+  ],
   endsAt: "2026-10-08T17:30:00.000Z",
   coverAfter: 'She turns to you. "Where did she go?"',
 } as const satisfies StoryTurnPlayed
