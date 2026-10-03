@@ -137,7 +137,7 @@ export const overwhereIiiMotherSallow = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
-      fact: "Unhurt by Nala, she would have known her for a foe far beyond her; Nala struck first and so chose.",
+      fact: "The game never showed her as far beyond Nala, so no blow of hers takes Nala below 1 health.",
       knowers: ["lore-disclosure/game-master"],
     },
   ],
