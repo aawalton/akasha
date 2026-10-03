@@ -6,4 +6,5 @@ export const anthologyRyn = {
   slug: "anthology-ryn",
   title: "Ryn",
   story: "story-written/anthology",
+  place: "place/anthology-the-bedroom",
 } as const satisfies CharacterOther
