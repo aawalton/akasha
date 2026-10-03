@@ -31,6 +31,9 @@ export const overwhereIii00093 = {
     "Five small burns sting her hands. Her own well is untouched, and has filled a little.",
     "The clay cup is empty of seed stones. Six glimmer specks are hers now.",
   ],
+  issues: [
+    '"The clay cup is empty of seed stones, and six glimmer specks lie in your palm." - Leave It Open',
+  ],
   lore: [
     "lore/overwhere-iii-brannagh-tull",
     "lore/overwhere-iii-brannagh-tull-2",
@@ -40,5 +43,6 @@ export const overwhereIii00093 = {
     "lore/overwhere-iii-nala-2",
     "lore/overwhere-iii-nala-2-2",
   ],
+  reviewedBy: ["story-reviewer/style"],
   endsAt: "2026-10-09T14:45:00.000Z",
 } as const satisfies StoryTurnPlayed
