@@ -189,6 +189,22 @@ export const overwhereIiCallowBeck = {
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
+      fact: "Ebba left oatcakes, goat's cheese and peat for the hearth; the rain barrel's water is clean.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Hawise takes the first watch by the longhouse fire without being asked.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Nothing comes down to Callow Beck on the night of day twenty-seven; the bank holds till dawn.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Sleeping so near the slick, Nala dreams the black stair louder than ever, and wakes salt-damp.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
       fact: "Six Warped sheep roam the black slick, grey-scaled and coral-horned, heads low.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
