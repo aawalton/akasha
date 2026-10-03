@@ -36,7 +36,7 @@ export const worldBuilder = {
         "An action reaching nothing new advances with no lore.",
         "A written chapter has no action: land the lore the story's premise next reaches.",
         "Land a fact with the game master among its knowers, and every character who learned it.",
-        "A full lore page goes on in a `-2` page about the same target, titled `<title>, continued`.",
+        "A full lore page goes on in `-2`, then `-3`, about the same target, titled `<title>, continued`.",
         "Lore states no figure a check works out, such as harm; that figure is the check's alone.",
         "Advance with `akasha story turn advance`, one `--lore` for each page.",
         "Name a written chapter with `--chapter` in place of `--turn`.",
