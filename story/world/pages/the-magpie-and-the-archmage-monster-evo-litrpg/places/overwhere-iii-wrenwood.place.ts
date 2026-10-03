@@ -288,6 +288,10 @@ export const overwhereIiiWrenwood = {
       fact: "The black-matted wolf fur on the bramble by the charcoal hut clearing stinks of rot.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
+    {
+      fact: "Day 12 word at the south green: a woodcutter heard the blighted boar in brambles above the ford.",
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-tam-rowe"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place
