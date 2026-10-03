@@ -1,23 +1,23 @@
-{"beat":1,"event":"Sunday of week four: you wake stiff from the fell, your calves aching, Bea asleep across your legs."}
+{"beat":1,"event":"Sunday of week four: you wake stiff from the fell, your calves aching, Bea asleep across your legs.","at":"2026-10-18T06:00:00.000Z","place":"place/hollowmere-thornfield-house","present":["character-player/hollowmere-nala","character-other/hollowmere-bea"]}
 {"beat":2,"event":"You ease out from under her; she mumbles \"Rock. Go. Say hi to Shiv,\" and is asleep again."}
-{"beat":3,"event":"The shore path in a cold bright morning; the mere still and grey; mist lifting off the water."}
-{"beat":4,"event":"Shiv is already on the rock, stripping bare, her towel and flask on the stone. \"You came,\" she says."}
+{"beat":3,"event":"The shore path in a cold bright morning; the mere still and grey; mist lifting off the water.","at":"2026-10-18T06:30:00.000Z","place":"place/hollowmere-academy","leave":["character-other/hollowmere-bea"]}
+{"beat":4,"event":"Shiv is already on the rock, stripping bare, her towel and flask on the stone. \"You came,\" she says.","arrive":["character-other/hollowmere-shiv"]}
 {"beat":5,"event":"\"Rain or not,\" you say. \"It's not even raining.\" Shiv grins, and pulls her cap on, and dives."}
 {"beat":6,"event":"You sit on the rock with your knees up and her towel ready, and watch her swim out and back."}
 {"beat":7,"event":"Her arms go over and over, steady; she turns at the buoy, and shouts something to the sky."}
 {"beat":8,"event":"When she climbs out she's blue-lipped and laughing; you wrap the towel round her shoulders."}
 {"beat":9,"event":"She pours tea from the flask and gives you the first cup. Her hands shake with cold round hers."}
-{"beat":10,"event":"\"Kick, Siobhan,\" she says to the water, quietly, and then to you: \"Every Sunday. She'd like you.\""}
-{"beat":11,"event":"She asks about the fell. You tell her about the cairn, the tarn, and Yusra; Shiv whistles."}
-{"beat":12,"event":"\"The warden,\" Shiv says. \"God. Good for her. She's been a ghost since summer, that one.\""}
+{"beat":10,"event":"\"Kick, Siobhan,\" she says to the water, quietly, and then to you: \"Every Sunday. She'd like you.\"","memory":[{"page":"lore/hollowmere-shiv-2","fact":"On the rock Shiv said Kick, Siobhan to the water, and told Nala: Every Sunday. She'd like you.","learns":"character-player/hollowmere-nala"}]}
+{"beat":11,"event":"She asks about the fell. You tell her about the cairn, the tarn, and Yusra; Shiv whistles.","memory":[{"page":"lore/hollowmere-yusra-2","fact":"Yusra and Nala each put a stone on Harrow Fell's cairn, Nala's on top of Yusra's.","learns":"character-other/hollowmere-shiv"}]}
+{"beat":12,"event":"\"The warden,\" Shiv says. \"God. Good for her. She's been a ghost since summer, that one.\"","memory":[{"page":"lore/hollowmere-shiv-2","fact":"Told of Nala's fell walk, Shiv said Yusra's been a ghost since summer: Good for her.","learns":"character-player/hollowmere-nala"}]}
 {"beat":13,"event":"Then, lightly: \"There's a queue, Nala.\" You say Bea said that. Shiv laughs. \"Bea's right.\""}
 {"beat":14,"event":"She leans her wet head on your shoulder. \"I'm still in it,\" she says. \"The queue. When it's right.\""}
-{"beat":15,"event":"\"A whole year of Sundays,\" you say. Shiv smiles against your jumper. \"You remembered.\""}
+{"beat":15,"event":"\"A whole year of Sundays,\" you say. Shiv smiles against your jumper. \"You remembered.\"","memory":[{"page":"lore/hollowmere-shiv-2","fact":"Shiv told Nala there's a queue, and she's still in it, when it's right; Nala: a year of Sundays.","learns":"character-player/hollowmere-nala"},{"page":"lore/hollowmere-shiv-2","fact":"Shiv told Nala there's a queue, and she's still in it, when it's right; Nala: a year of Sundays.","learns":"character-other/hollowmere-shiv"}]}
 {"beat":16,"event":"You walk back along the shore with her arm through yours and her towel round her neck, dripping."}
-{"beat":17,"event":"Lunch: Sunday roast in the Great Hall; Priya drowns hers in gravy; Bea has thirds."}
+{"beat":17,"event":"Lunch: Sunday roast in the Great Hall; Priya drowns hers in gravy; Bea has thirds.","at":"2026-10-18T12:00:00.000Z","present":["character-player/hollowmere-nala","character-other/hollowmere-bea","character-other/hollowmere-shiv","character-other/hollowmere-priya","character-other/hollowmere-amara","character-other/hollowmere-lin","character-other/hollowmere-kit"],"memory":[{"page":"lore/hollowmere-priya","fact":"Priya drowned her Sunday roast in gravy; Amara told her: It's a sauce, Raman. Not a moat.","learns":"character-player/hollowmere-nala"},{"page":"lore/hollowmere-priya","fact":"Priya drowned her Sunday roast in gravy; Amara told her: It's a sauce, Raman. Not a moat.","learns":"character-other/hollowmere-priya"}]}
 {"beat":18,"event":"Bea fills Shiv's plate before her own again, unasked; Shiv kicks her ankle, fond."}
 {"beat":19,"event":"Lin's had no letter yet; not till the end of the week, she says, pushing her peas round her plate."}
-{"beat":20,"event":"Afternoon: everyone scatters to essays; you go up to 15 to start the focus question with Bea."}
+{"beat":20,"event":"Afternoon: everyone scatters to essays; you go up to 15 to start the focus question with Bea.","at":"2026-10-18T13:30:00.000Z","place":"place/hollowmere-thornfield-house","present":["character-player/hollowmere-nala","character-other/hollowmere-bea"]}
 {"beat":21,"event":"Bea's at her desk with a pile of coins and a notebook, counting, her lips moving, very quiet."}
 {"beat":22,"event":"She hears you come in and closes the notebook quickly, and puts the coins in a mug. Too quickly."}
 {"beat":23,"event":"You see it: the quiet. You sit on the end of her bed and wait. \"I'll always notice,\" you say."}
@@ -25,7 +25,7 @@
 {"beat":25,"event":"\"You're a menace,\" she says. Then she opens the notebook again, and shows you: columns of sums."}
 {"beat":26,"event":"\"My little brother,\" Bea says. \"The youngest. Nine. He's got a weak heart. Since he was born.\""}
 {"beat":27,"event":"\"There's appointments in Bristol, and the train fare for Mum, and things the NHS doesn't cover.\""}
-{"beat":28,"event":"\"So I send most of my bursary home. Every month. Mum doesn't ask. I just do it.\""}
+{"beat":28,"event":"\"So I send most of my bursary home. Every month. Mum doesn't ask. I just do it.\"","memory":[{"page":"lore/hollowmere-bea-2","fact":"Bea's youngest brother has a weak heart, and Bea sends home most of her bursary each month.","learns":"character-player/hollowmere-nala"}]}
 {"beat":29,"event":"You look round 15: the mugs, the charity shop jumpers, the one good pair of running shoes."}
 {"beat":30,"event":"\"That's why the café year,\" you say. Bea nods. \"Saving. And I still send most of it home.\""}
 {"beat":31,"event":"\"He's all right,\" she says quickly. \"Mostly. He's brave. He's braver than me by miles.\""}
@@ -33,27 +33,27 @@
 {"beat":33,"event":"\"He wants to know about the race,\" she says. \"I told him I'm at bow. He thinks bow means ribbon.\""}
 {"beat":34,"event":"You laugh; Bea laughs too, wet, and leans her forehead on your shoulder. \"I'm all right,\" she says."}
 {"beat":35,"event":"You say she doesn't have to be all right with you. Bea goes still, and then holds on very hard."}
-{"beat":36,"event":"\"Nobody knows here,\" she says into your neck. \"Not even Yusra. Just you.\" You hold her."}
-{"beat":37,"event":"At six she rings home from the porters' lodge phone, the way she does every Sunday."}
+{"beat":36,"event":"\"Nobody knows here,\" she says into your neck. \"Not even Yusra. Just you.\" You hold her.","memory":[{"page":"lore/hollowmere-bea-2","fact":"Nobody at Hollowmere knows of Bea's brother but Nala, not even Yusra.","learns":"character-player/hollowmere-nala"}]}
+{"beat":37,"event":"At six she rings home from the porters' lodge phone, the way she does every Sunday.","at":"2026-10-18T17:00:00.000Z","place":"place/hollowmere-academy"}
 {"beat":38,"event":"You walk down with her and sit on the bench outside the lodge in the cold while she rings."}
 {"beat":39,"event":"Through the window you see her laughing, talking fast, hand waving, the phone tucked in her neck."}
 {"beat":40,"event":"Her brother first, it looks like: she does a rowing action with one arm, and nearly drops the phone."}
 {"beat":41,"event":"Then her sisters, one after the other. Then she goes quieter, and turns to the wall: her mother."}
-{"beat":42,"event":"She talks to her mother last and longest, her shoulders softening, her head bent."}
+{"beat":42,"event":"She talks to her mother last and longest, her shoulders softening, her head bent.","memory":[{"page":"lore/hollowmere-bea-2","fact":"Bea rings home from the porters' lodge phone every Sunday at six, and talks to her mother last.","learns":"character-player/hollowmere-nala"}]}
 {"beat":43,"event":"When she comes out her eyes are wet but she's smiling. \"He's all right this week. He says go fast.\""}
 {"beat":44,"event":"You stand up and she walks straight into your arms, there by the lodge, and stays."}
-{"beat":45,"event":"\"Thank you for sitting,\" Bea says. \"I've always rung alone.\" You say she doesn't have to now."}
+{"beat":45,"event":"\"Thank you for sitting,\" Bea says. \"I've always rung alone.\" You say she doesn't have to now.","memory":[{"page":"lore/hollowmere-bea-2","fact":"Nala sat outside the lodge while Bea rang home; Bea had always rung alone before.","learns":"character-player/hollowmere-nala"},{"page":"lore/hollowmere-bea-2","fact":"Nala sat outside the lodge while Bea rang home; Bea had always rung alone before.","learns":"character-other/hollowmere-bea"}]}
 {"beat":46,"event":"Walking back across the quad in the dark she holds your hand and swings it, like a girl."}
-{"beat":47,"event":"In the kitchen Yusra is making tea; she looks at Bea's face, then you, and takes down two more mugs."}
-{"beat":48,"event":"She puts two mugs of tea in front of you both, sweet, and goes back up the stairs with hers."}
-{"beat":49,"event":"Bea stares after her. \"She made me tea,\" she says. \"Yusra Haddad made me tea.\" You smile."}
-{"beat":50,"event":"Evening in 15: you both write a page of the focus essay, side by side on the bed, knees touching."}
-{"beat":51,"event":"Bea writes about her brother's tin medal from the hospital, which he wears every day."}
+{"beat":47,"event":"In the kitchen Yusra is making tea; she looks at Bea's face, then you, and takes down two more mugs.","at":"2026-10-18T17:30:00.000Z","place":"place/hollowmere-thornfield-house","arrive":["character-other/hollowmere-yusra"]}
+{"beat":48,"event":"She puts two mugs of tea in front of you both, sweet, and goes back up the stairs with hers.","leave":["character-other/hollowmere-yusra"]}
+{"beat":49,"event":"Bea stares after her. \"She made me tea,\" she says. \"Yusra Haddad made me tea.\" You smile.","memory":[{"page":"lore/hollowmere-yusra-2","fact":"Seeing Bea's wet eyes, Yusra made her and Nala sweet tea unasked; Bea: Yusra Haddad made me tea.","learns":"character-player/hollowmere-nala"},{"page":"lore/hollowmere-yusra-2","fact":"Seeing Bea's wet eyes, Yusra made her and Nala sweet tea unasked; Bea: Yusra Haddad made me tea.","learns":"character-other/hollowmere-bea"}]}
+{"beat":50,"event":"Evening in 15: you both write a page of the focus essay, side by side on the bed, knees touching.","at":"2026-10-18T18:30:00.000Z"}
+{"beat":51,"event":"Bea writes about her brother's tin medal from the hospital, which he wears every day.","memory":[{"page":"lore/hollowmere-bea-2","fact":"Bea's brother wears his hospital tin medal, Brave Heart, every day, and thinks bow means ribbon.","learns":"character-player/hollowmere-nala"}]}
 {"beat":52,"event":"\"Does it remember him?\" she says. \"It should. He's earned it.\" She crosses it out, writes it again."}
-{"beat":53,"event":"At ten she puts the essays on the floor and turns the lamp low, and lies down facing you."}
+{"beat":53,"event":"At ten she puts the essays on the floor and turns the lamp low, and lies down facing you.","at":"2026-10-18T21:00:00.000Z"}
 {"beat":54,"event":"\"I love you, I think,\" Bea says, very quietly. \"That's what this is. I'm saying it. I love you.\""}
 {"beat":55,"event":"You look at her in the lamplight, her dimples, her wet lashes, her blistered hand on your cheek."}
 {"beat":56,"event":"You tell her you love her too; it comes out easy as breath, and true. Bea laughs and cries at once."}
 {"beat":57,"event":"She kisses you, and kisses you, and holds you so tight you squeak, and laughs at the squeak."}
-{"beat":58,"event":"You fall asleep face to face, her hand in yours between you, her breathing slow against your mouth."}
+{"beat":58,"event":"You fall asleep face to face, her hand in yours between you, her breathing slow against your mouth.","memory":[{"page":"lore/hollowmere-bea-2","fact":"Bea told Nala I love you; Nala said she loves her too, and they slept face to face in 15.","learns":"character-player/hollowmere-nala"},{"page":"lore/hollowmere-bea-2","fact":"Bea told Nala I love you; Nala said she loves her too, and they slept face to face in 15.","learns":"character-other/hollowmere-bea"}]}
 {"beat":59,"event":"A day at Hollowmere ends."}
