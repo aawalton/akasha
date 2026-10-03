@@ -85,7 +85,7 @@ export const overwhereIiMaudAshby = {
     },
     {
       fact: "Maud feels every one of Nala's tributaries open and carved, as if none was ever shut.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Sounding down into Nala's well, Maud finds no floor; it goes on, cold, like looking into the Sea.",
