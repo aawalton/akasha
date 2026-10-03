@@ -10,6 +10,7 @@ export const overwhereIi0007TheMendicant = {
   story: "story-played/overwhere-ii",
   ownLength: 4541,
   prose: "txt",
+  beats: "jsonl",
   turnCovers: [
     {
       position: 56,
