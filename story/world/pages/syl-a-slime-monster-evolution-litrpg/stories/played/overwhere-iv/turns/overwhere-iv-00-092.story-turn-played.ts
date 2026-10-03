@@ -10,7 +10,7 @@ export const overwhereIv00092 = {
   position: 92,
   prose: "txt",
   characters: ["character-player/overwhere-iv-nala"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/recorders",
   action:
     "“Leave that to me.” The next day, we go and find the right place for the ambush, then I move quietly toward the camp, senses wide so I see the goblins before they see me.",
   beats: [
@@ -35,6 +35,6 @@ export const overwhereIv00092 = {
     "lore/overwhere-iv-the-tangle-2-2",
     "place/overwhere-iv-tull-farm",
   ],
-  reviewedBy: ["story-reviewer/continuity"],
+  reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
   endsAt: "2026-10-08T08:45:00.000Z",
 } as const satisfies StoryTurnPlayed
