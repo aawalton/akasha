@@ -10,7 +10,7 @@ export const overwhereIi00102 = {
   position: 102,
   prose: "txt",
   characters: ["character-player/overwhere-ii-nala"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/game-master",
   action: "“Sleep now. Best to deal with the rest rested and with light.”",
   beats: [
     'Nala: "Sleep now. Best to deal with the rest rested, and with light."',
@@ -36,6 +36,6 @@ export const overwhereIi00102 = {
     "lore/overwhere-ii-nala-3",
     "place/overwhere-ii-callow-beck",
   ],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
   endsAt: "2026-10-26T06:30:00.000Z",
 } as const satisfies StoryTurnPlayed
