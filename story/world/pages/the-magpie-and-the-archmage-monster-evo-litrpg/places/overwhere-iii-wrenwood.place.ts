@@ -290,7 +290,11 @@ export const overwhereIiiWrenwood = {
     },
     {
       fact: "Day 12 word at the south green: a woodcutter heard the blighted boar in brambles above the ford.",
-      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-tam-rowe"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/overwhere-iii-tam-rowe",
+        "character-player/overwhere-iii-nala",
+      ],
     },
   ],
   secrets: "jsonl",
