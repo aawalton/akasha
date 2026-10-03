@@ -204,5 +204,9 @@ export const overwhereIWendlow2 = {
       fact: "Ilse will not hurry a setting, and says a band's metal makes no difference to a focus.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
+    {
+      fact: "Nala's two-pearl ring costs 10 gold; Ilse takes 5 now and her drake-pearl, and 5 at hand-over.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
