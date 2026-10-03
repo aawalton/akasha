@@ -593,6 +593,10 @@
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/the-calamitous-bob-stubbed/places/otherwhere-xi-winter-teeth.place.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/the-calamitous-bob-stubbed/places/otherwhere-xi-zazas.place.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/the-calamitous-bob-stubbed/places/otherwhere-xi-zesthanet.place.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/the-dungeon-of-one-thousand-deaths/places/the-dungeon-of-one-thousand-deaths-the-garden.place.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/the-dungeon-of-one-thousand-deaths/places/the-dungeon-of-one-thousand-deaths-the-gullet.place.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/the-dungeon-of-one-thousand-deaths/places/the-dungeon-of-one-thousand-deaths-the-opening.place.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/the-dungeon-of-one-thousand-deaths/places/the-dungeon-of-one-thousand-deaths-voss-farm.place.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/the-idle-epoch/places/the-idle-epoch-exchange.place.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/the-idle-epoch/places/the-idle-epoch-foundry-district.place.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/the-idle-epoch/places/the-idle-epoch-grind-pits.place.ts","typed":true,"deferred":false}
