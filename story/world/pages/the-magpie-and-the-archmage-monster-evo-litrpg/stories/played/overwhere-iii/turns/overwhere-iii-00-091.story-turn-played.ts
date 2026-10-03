@@ -9,4 +9,5 @@ export const overwhereIii00091 = {
   position: 91,
   stepStatus: "step-status/game-master",
   action: "I hit them with another braid, focusing on the two larger ones",
+  endsAt: "2026-10-09T11:45:00.000Z",
 } as const satisfies StoryTurnPlayed
