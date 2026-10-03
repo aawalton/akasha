@@ -10,7 +10,7 @@ export const overwhereIi00107 = {
   position: 107,
   prose: "txt",
   characters: ["character-player/overwhere-ii-nala"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/game-master",
   action: "I pull out one of the intact Greymaw chambers and see if that will hold it",
   beats: [
     "Nala takes out one of the whole greymaw chambers: a fist-sized knot of polished grey bone.",
@@ -25,12 +25,13 @@ export const overwhereIi00107 = {
     "Hawise climbs down off her boulder and looks at the grey knot in Nala's palm.",
     'Hawise: "Well. That holds it." She glances at the steaming pool. "What now, free blade?"',
   ],
+  issues: ['"the chamber cupped in her palm" - she set it on the stone and never picks it up'],
   lore: [
     "lore/overwhere-ii-greymaws",
     "lore/overwhere-ii-nala",
     "lore/overwhere-ii-nala-2",
     "lore/overwhere-ii-nala-3",
   ],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
   endsAt: "2026-10-26T11:28:00.000Z",
 } as const satisfies StoryTurnPlayed
