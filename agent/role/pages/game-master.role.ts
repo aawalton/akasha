@@ -41,6 +41,8 @@ export const gameMaster = {
         "The chapter break is never a beat; the last beat is the last event.",
         "Pick up what the chapters before it left open.",
         "A chapter has 50 to 100 beats, whatever length the chapter before it had.",
+        "Where the story states `editorSteps`, a chapter has 100 to 200 beats for a beat editor to cut.",
+        "A mend of beats the beat editor cut runs to at most 100 beats.",
       ],
     },
     {
