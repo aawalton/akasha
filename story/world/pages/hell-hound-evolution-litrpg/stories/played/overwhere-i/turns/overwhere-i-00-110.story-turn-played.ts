@@ -7,7 +7,12 @@ export const overwhereI00110 = {
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-i"],
   position: 110,
-  stepStatus: "step-status/world-builder",
+  stepStatus: "step-status/game-master",
   action:
     "I go and hide myself 20 yards from where it suns, then wait for it to appear. When it settles, I focus on the electricity element I haven’t used much and do a dual summon above it, hitting it with a targeting double lightning strike in the head. Then I try my double fire eye beams and try to burn through its skull.",
+  lore: [
+    "lore/overwhere-i-starfall-legacy",
+    "lore/overwhere-i-starfall-legacy-2",
+    "place/overwhere-i-hobbs-mill-weir",
+  ],
 } as const satisfies StoryTurnPlayed
