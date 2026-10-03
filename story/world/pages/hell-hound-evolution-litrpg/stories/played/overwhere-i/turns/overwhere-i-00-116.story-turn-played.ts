@@ -11,4 +11,5 @@ export const overwhereI00116 = {
   action:
     "Dinner and bed then back to the hunter’s guild to cash in my iou’s and check for new postings.",
   lore: ["lore/overwhere-i-wendlow-2", "lore/overwhere-i-wendlow-2-2"],
+  endsAt: "2026-10-07T10:35:00.000Z",
 } as const satisfies StoryTurnPlayed
