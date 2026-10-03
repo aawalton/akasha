@@ -431,5 +431,4 @@ export const hollowmereBea = {
       ],
     },
   ],
-  secrets: "jsonl",
 } as const satisfies Lore
