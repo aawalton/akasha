@@ -296,5 +296,9 @@ export const overwhereIStarfallLegacy2 = {
       fact: "Earth can thrust stone up as spikes within a held working's reach in about a second; a Surge use.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "A stone spike is a Surge blast for harm, striking from below where a belly lies unwarded.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
