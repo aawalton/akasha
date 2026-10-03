@@ -8,9 +8,9 @@ export const hollowmere0033SoTheLightComesBack = {
   unit: "unit/words",
   title: "So the Light Comes Back",
   story: "story-written/hollowmere",
-  ownLength: 3060,
+  ownLength: 3077,
   prose: "txt",
-  stepStatus: "step-status/writer",
+  stepStatus: "step-status/recorders",
   beats: [
     'Friday of week five: Bea is up before light, pacing 15 in her socks. "Tomorrow," she says.',
     "You catch her by the wrists and sit her on the bed and make her breathe out. She laughs, shaky.",
