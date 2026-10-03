@@ -53,7 +53,7 @@ export const overwhereIiMaudAshby = {
     },
     {
       fact: "Keeper records tell of new tidepools ringed with cold iron, which slows what rises to a trickle.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "The ring is cold iron sunk in the pool's bed round the throat where the black rises.",
