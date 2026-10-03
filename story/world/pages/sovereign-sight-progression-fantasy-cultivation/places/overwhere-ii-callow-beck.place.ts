@@ -142,7 +142,7 @@ export const overwhereIiCallowBeck = {
     },
     {
       fact: "Ebba will take Wat and the boys down to the Ford if the way past the slick is cleared.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Six Warped sheep roam the black slick, grey-scaled and coral-horned, heads low.",
