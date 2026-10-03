@@ -10,4 +10,8 @@ export const dragonsAndDungeons0005InterludeSessionZeroSEnd = {
   ownLength: 750,
   unit: "unit/words",
   prose: "txt",
+  beats: "jsonl",
+  lastTurn: "dragons-and-dungeons-00-005",
+  lastTurnPosition: 5,
+  endsAt: "2026-09-29T02:30:00.000Z",
 } as const satisfies StoryChapterPlayed
