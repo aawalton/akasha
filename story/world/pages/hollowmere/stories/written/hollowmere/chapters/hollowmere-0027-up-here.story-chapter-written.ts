@@ -10,7 +10,7 @@ export const hollowmere0027UpHere = {
   story: "story-written/hollowmere",
   ownLength: 4191,
   prose: "txt",
-  stepStatus: "step-status/game-master",
+  stepStatus: "step-status/writer",
   beats: [
     "Saturday of week four: Bea's alarm at six; she's out of bed before it stops, bouncing on her toes.",
     '"Good luck charm," she says, and kisses you, and throws your jumper at you. "Up. Bank. Shouting."',
@@ -56,7 +56,7 @@ export const hollowmere0027UpHere = {
     'Cheese sandwiches, two apples and a flask of sweet tea. "A ward," Yusra says. "Keeps it hot."',
     "You laugh so hard you spill your tea; she watches you laugh, and her whole face is soft.",
     "You eat looking at the tarn. Yusra sits close, her shoulder against yours, her hand in yours.",
-    '"I don\'t know what this is," she says. "I\'m three years above you. I\'ve been broken all summer."',
+    '"I don\'t know what this is," she says. "I\'m two years above you. I\'ve been broken all summer."',
     '"And you\'ve got Bea," she says. "I\'ve seen you two." You tell her the truth: Bea knows, and said go.',
     'Yusra is quiet a while. "Bea Lindqvist," she says. "Huh." Then, softer: "That\'s generous of her."',
     '"I can\'t promise anything," Yusra says. "I\'m still mending." You say: mending takes a while.',
