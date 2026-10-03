@@ -68,6 +68,7 @@
 {"propertySlug":"import","fileName":"seat.page-type.types.ts","path":"agent/seat/pages/mari-game-master-hollowmere/mari-game-master-hollowmere.seat.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"seat.page-type.types.ts","path":"agent/seat/pages/mari-game-master-salt-and-lamplight/mari-game-master-salt-and-lamplight.seat.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"seat.page-type.types.ts","path":"agent/seat/pages/mari-story-recorder-hollowmere-flex-1/mari-story-recorder-hollowmere-flex-1.seat.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"seat.page-type.types.ts","path":"agent/seat/pages/mari-story-recorder-hollowmere-flex-2/mari-story-recorder-hollowmere-flex-2.seat.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"seat.page-type.types.ts","path":"agent/seat/pages/mari-world-builder-climb/mari-world-builder-climb.seat.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"seat.page-type.types.ts","path":"agent/seat/pages/mari-world-builder-emberdeep/mari-world-builder-emberdeep.seat.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"seat.page-type.types.ts","path":"agent/seat/pages/mari-world-builder-harem-hotel/mari-world-builder-harem-hotel.seat.ts","typed":true,"deferred":false}
