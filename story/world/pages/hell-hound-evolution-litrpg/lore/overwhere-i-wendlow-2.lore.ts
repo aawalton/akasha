@@ -284,5 +284,9 @@ export const overwhereIWendlow2 = {
       fact: "From the river stairs, the Bell and Barrel on the square is a ten-minute walk.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "At the Bell and Barrel a hot bath costs 3 copper more than the silver for bed and supper.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
