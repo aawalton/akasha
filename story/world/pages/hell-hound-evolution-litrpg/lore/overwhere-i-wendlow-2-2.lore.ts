@@ -88,5 +88,9 @@ export const overwhereIWendlow22 = {
       fact: "Odile Varne wants to learn whether Nala read Voss's letter, and who else she has told of it.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Grete reads the magistrate's note, says only 'Mind your tongue up there,' and hands it over.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
