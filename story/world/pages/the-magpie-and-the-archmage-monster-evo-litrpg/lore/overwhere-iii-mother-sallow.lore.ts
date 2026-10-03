@@ -192,6 +192,14 @@ export const overwhereIiiMotherSallow = {
       fact: "The half-burned page shows a sketch of a sealed door under roots, and the words 'core fed: six'.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Nala saw her lift her hearthstone, take a stone and notes, and flee south over the brook.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iii-nala",
+        "character-other/overwhere-iii-mother-sallow",
+      ],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
