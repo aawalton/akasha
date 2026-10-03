@@ -7,7 +7,8 @@ export const overwhereI00112 = {
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-i"],
   position: 112,
-  stepStatus: "step-status/world-builder",
+  stepStatus: "step-status/game-master",
   action:
     "I carefully go over to it, staying out of biting range, then use my spinning water disk to remove the head and carefully disect the beast for the bile sac, which I store in the jar",
+  lore: ["place/overwhere-i-hobbs-mill-weir"],
 } as const satisfies StoryTurnPlayed
