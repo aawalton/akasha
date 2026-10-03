@@ -10,4 +10,8 @@ export const dragonsAndDungeons0004Chapter4TheNameInTheFire = {
   ownLength: 2061,
   unit: "unit/words",
   prose: "txt",
+  beats: "jsonl",
+  lastTurn: "dragons-and-dungeons-00-004",
+  lastTurnPosition: 4,
+  endsAt: "2026-09-29T02:30:00.000Z",
 } as const satisfies StoryChapterPlayed
