@@ -1,7 +1,7 @@
 {"beat":1,"event":"Elsie wakes in the attic room to bread-smell and lake mist on the round window.","at":"2026-06-01T05:20:00.000Z","place":"place/fairweather-honeycomb","present":["character-player/fairweather-elsie"]}
 {"beat":2,"event":"She greets her four potted plants by name, then washes at the cold basin."}
-{"beat":3,"event":"She laces her novice's cream halter, hands unsteady, and clips the flower above one ear."}
-{"beat":4,"event":"She counts her coins and packs the satchel: salve, bandages."}
+{"beat":3,"event":"She laces her novice's cream halter, hands unsteady, and clips the flower above one ear.","changes":[{"page":"story-item/fairweather-adventurers-outfit","note":"Elsie laces on the novice's outfit: now worn","key":"slot","from":null,"to":"item-slot/body"},{"page":"story-item/fairweather-flower-clip","note":"Flower clip set above her left ear: now worn","key":"slot","from":null,"to":"item-slot/head"}]}
+{"beat":4,"event":"She counts her coins and packs the satchel: salve, bandages.","changes":[{"page":"metric-character-currency/fairweather-elsie","note":"Elsie counts her coins on the bed: 13 lanterns, 4 pips","key":"unrevealed","from":true,"to":false}]}
 {"beat":5,"event":"Elsie eats a warm roll at the bakery, and the baker waves her out.","at":"2026-06-01T06:05:00.000Z","place":"place/fairweather-lanternmere","present":["character-player/fairweather-elsie"]}
 {"beat":6,"event":"She posts the letter at the corner shop; two women go by arm in arm."}
 {"beat":7,"event":"The Hall of Naming stands white above the lake, its glass dome full of morning.","at":"2026-06-01T08:40:00.000Z","place":"place/fairweather-hall-of-naming","present":["character-player/fairweather-elsie"]}
@@ -20,7 +20,7 @@
 {"beat":20,"event":"The guildmaster comes down, grey and sword-calloused, and takes Elsie up.","at":"2026-06-01T12:30:00.000Z"}
 {"beat":21,"event":"She reads the Strings Accord: every skill reported, none on anyone unwilling."}
 {"beat":22,"event":"Told the watching is so nothing goes wrong, Elsie says she is glad of it.","at":"2026-06-01T13:00:00.000Z"}
-{"beat":23,"event":"She counts the fee onto the desk; the clerk stamps a copper tag with an F.","at":"2026-06-01T13:10:00.000Z","changes":[{"page":"character-rank/fairweather-elsie-rank-f","note":"F-rank: the clerk stamps an F on her copper tag","key":"unrevealed","from":true,"to":false}]}
+{"beat":23,"event":"She counts the fee onto the desk; the clerk stamps a copper tag with an F.","at":"2026-06-01T13:10:00.000Z","changes":[{"page":"character-rank/fairweather-elsie-rank-f","note":"F-rank: the clerk stamps an F on her copper tag","key":"unrevealed","from":true,"to":false},{"page":"metric-character-currency/fairweather-elsie","note":"Guild fee of two silver lanterns paid: 134 → 114 pips","key":"value","from":134,"to":114},{"page":"metric-character-currency/fairweather-elsie","note":"Fee paid: Elsie ends the chapter with 114 pips","key":"history","append":{"turn":1,"value":114}}]}
 {"beat":24,"event":"In the main hall, the guildmaster opens a charcoal door: a young woman with a ledger.","arrive":["character-other/fairweather-cora"]}
 {"beat":25,"event":"Warden Corisande Vane, called Cora, will go with her and write down every skill.","at":"2026-06-01T13:20:00.000Z"}
 {"beat":26,"event":"Cora will report each to the guildmaster; Elsie thanks her for coming."}
