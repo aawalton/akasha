@@ -108,5 +108,9 @@ export const overwhereIWendlow22 = {
       fact: "That evening bargemen in the taproom toast the Weir Wyrm's death; the river is open again.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "The taproom now knows the wyrm's killer is the same woman who ended Voss; some stare at Nala.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
