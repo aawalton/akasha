@@ -301,7 +301,7 @@ export const overwhereIHobbsMillWeir = {
     },
     {
       fact: "The dead wyrm stinks of river mud and scorched flesh; flies gather on it within minutes.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
     {
       fact: "In the wyrm's gut lies a brass-buckled belt with a bowman's knife on it: Dickon's, Jory says.",
