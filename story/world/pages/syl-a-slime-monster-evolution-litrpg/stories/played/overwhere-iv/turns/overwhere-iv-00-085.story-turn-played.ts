@@ -10,7 +10,7 @@ export const overwhereIv00085 = {
   position: 85,
   prose: "txt",
   characters: ["character-player/overwhere-iv-nala", "character-other/overwhere-iv-ilsa-crane"],
-  stepStatus: "step-status/writer",
+  stepStatus: "step-status/recorders",
   action: "“Sure. Don’t mind some company after a night like that.”",
   beats: [
     '"Sure," Nala tells Dace. "Don\'t mind some company after a night like that."',
