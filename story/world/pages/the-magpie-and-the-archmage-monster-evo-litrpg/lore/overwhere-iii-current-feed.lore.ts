@@ -24,5 +24,9 @@ export const overwhereIiiCurrentFeed = {
       fact: "Her fifth fed weave shows: [Current Feed has advanced: Basic → Novice]",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
+    {
+      fact: "At the shrine a fed Mending Weave gives back more than its burn costs, so it nets her health.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
