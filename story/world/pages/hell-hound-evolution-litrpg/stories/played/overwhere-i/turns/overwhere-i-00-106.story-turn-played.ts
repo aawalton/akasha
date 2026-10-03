@@ -4,10 +4,13 @@ export const overwhereI00106 = {
   id: "01a0ff7f-4529-7530-841d-f4f91253eabb",
   type: "page-type/story-turn-played",
   slug: "overwhere-i-00-106",
+  ownLength: 377,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-i"],
   position: 106,
-  stepStatus: "step-status/writer",
+  prose: "txt",
+  characters: ["character-player/overwhere-i-nala"],
+  stepStatus: "step-status/reviewers",
   action:
     "“Great! I’ll be back.” Then I go to the other two stores to sell the sword, crossbow, and grubboar tusks.",
   beats: [
@@ -24,6 +27,6 @@ export const overwhereI00106 = {
     'She taps her pipe at Nala\'s badge. "You after the Weir Wyrm, hunter?"',
     '"Bring me its bile sac within a day of the kill, and I\'ll pay two gold for it."',
   ],
-  lore: ["lore/overwhere-i-wendlow-2"],
+  lore: ["lore/overwhere-i-nala", "lore/overwhere-i-nala-2", "lore/overwhere-i-wendlow-2"],
   endsAt: "2026-10-05T13:45:00.000Z",
 } as const satisfies StoryTurnPlayed
