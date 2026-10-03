@@ -148,6 +148,14 @@ export const overwhereIiiMotherSallow = {
       fact: "The game never showed her as far beyond Nala, so no blow of hers takes Nala below 1 health.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Two corrupted wolves came out of the lean-to at her whistle; one has a torn ear.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iii-nala",
+        "character-other/overwhere-iii-mother-sallow",
+      ],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
