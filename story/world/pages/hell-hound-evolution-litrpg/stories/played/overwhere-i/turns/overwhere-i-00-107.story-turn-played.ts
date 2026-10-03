@@ -4,13 +4,13 @@ export const overwhereI00107 = {
   id: "01a1016b-1171-7b77-935d-bcd612bb58f1",
   type: "page-type/story-turn-played",
   slug: "overwhere-i-00-107",
-  ownLength: 414,
+  ownLength: 424,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-i"],
   position: 107,
   prose: "txt",
   characters: ["character-player/overwhere-i-nala"],
-  stepStatus: "step-status/writer",
+  stepStatus: "step-status/recorders",
   action:
     "“Deal! How do I find the bile sac?” After getting instructions I go to the inn for a bath, a meal, and an early bed.",
   beats: [
