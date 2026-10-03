@@ -4,13 +4,14 @@ export const overwhereIv00082 = {
   id: "01a0ff49-1e90-7378-bbbc-7c0f74a932ff",
   type: "page-type/story-turn-played",
   slug: "overwhere-iv-00-082",
+  cover: "image/image-cea4dc903723e6f8",
   ownLength: 122,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iv"],
   position: 82,
   prose: "txt",
   characters: ["character-player/overwhere-iv-nala"],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action:
     "“I can take at least two with my skill before they reach us. Who should I target? The hobs?”",
   beats: [
@@ -33,6 +34,12 @@ export const overwhereIv00082 = {
     "place/overwhere-iv-tull-farm",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/memory", "story-recorder/mechanics"],
+  recordedBy: [
+    "story-recorder/inventory",
+    "story-recorder/memory",
+    "story-recorder/mechanics",
+    "story-recorder/picture",
+  ],
   endsAt: "2026-10-06T23:57:00.000Z",
+  coverAfter: "In the middle of them, two shapes stand a head taller than the rest.",
 } as const satisfies StoryTurnPlayed
