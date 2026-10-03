@@ -143,5 +143,9 @@ export const overwhereIHobbsMillWeir = {
       fact: "Jory says the wyrm rose under his bow at dusk two days ago and took his bowman Dickon off the deck.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Jory says Dickon's crossbow bolts skipped off the wyrm's back like hail off slate.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Place
