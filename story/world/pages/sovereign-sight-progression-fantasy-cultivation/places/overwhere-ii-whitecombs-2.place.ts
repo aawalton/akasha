@@ -55,5 +55,9 @@ export const overwhereIiWhitecombs2 = {
       fact: "At a Quickstep run, Hawise can reach the Ford from the Callow cwm in about two and a half hours.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Three hours' parting of the Callow pool's black fills a fair part of a whole greymaw chamber.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+    },
   ],
 } as const satisfies Place

@@ -83,5 +83,9 @@ export const overwhereIiKeeperAnselm2 = {
       fact: "Keeper Ashby rides on up the valley, and reaches Varrow Keep before dusk on day twenty-nine.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Senior Keeper Maud Ashby rode into Wendle Ford on day twenty-eight, asking after Nala.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+    },
   ],
 } as const satisfies Lore

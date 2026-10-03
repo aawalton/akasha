@@ -245,7 +245,7 @@ export const overwhereIiGreymaws = {
     },
     {
       fact: "All five greymaws Nala speared in the den and by the tarn have chambers cracked through.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Pushed with her tide, raw Sea-Water sinks into a whole greymaw chamber through the bone.",
@@ -273,7 +273,7 @@ export const overwhereIiGreymaws = {
     },
     {
       fact: "Dray keeps the five chambers for Nala, and hands them to a Keep rider who asks in her name.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "A cracked greymaw chamber leaks raw Sea-Water as it leaks any Water, through the crack.",
