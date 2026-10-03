@@ -1,0 +1,55 @@
+{"beat":1,"event":"After the dawn vibration on Day 22, Wren takes Brecca to the threshold stone.","at":"2026-08-22T07:00:00.000Z","place":"place/the-places-she-carries-varethen","present":["character-player/the-places-she-carries-wren","character-other/the-places-she-carries-brecca"]}
+{"beat":2,"event":"Brecca walks fast with clay still on her hands, through a signature she cannot feel."}
+{"beat":3,"event":"'This is it?' The stone sits two meters long, its twelve dark bands glowing in the light."}
+{"beat":4,"event":"Brecca puts her hand on it for three seconds: 'It is warm. Just warm rock.'"}
+{"beat":5,"event":"She reads it as a builder: good dressed faces, a broad chisel, sitting on its own weight."}
+{"beat":6,"event":"'The bond told you something about this rock that I cannot see.' 'Not told. Showed.'"}
+{"beat":7,"event":"'Show me what you see.' Wren leads her to the south face, to the base."}
+{"beat":8,"event":"Brecca's hands find the healer's handprint before Wren can describe it."}
+{"beat":9,"event":"She reads it: right-handed, facing southeast toward sunrise, small hands, strong thumbs."}
+{"beat":10,"event":"Wren never learned the healer was right-handed; she read the meaning, Brecca read the hand."}
+{"beat":11,"event":"'Thumb placement,' Brecca shrugs, and asks what the bond told Wren."}
+{"beat":12,"event":"'That someone paid attention to this stone a long time.' 'Same thing. Different data.'"}
+{"beat":13,"event":"Brecca holds her hand on the east face longer than Wren has seen her hold anything."}
+{"beat":14,"event":"'It is humming,' Brecca says, like water moving behind a wall. Wren goes very still."}
+{"beat":15,"event":"Brecca's hands feel the [Foundation Stone] vibration physically, without any bond."}
+{"beat":16,"event":"Wren says it has done that since Day 18, since the pulse."}
+{"beat":17,"event":"Brecca: it feels old, long happening and only now loud enough to notice."}
+{"beat":18,"event":"Wren does not correct her: 'That is exactly what it is.'"}
+{"beat":19,"event":"Rain comes in the afternoon from the northwest, the first in twenty-two days at Varethen.","at":"2026-08-22T14:00:00.000Z"}
+{"beat":20,"event":"From the hall's entrance Wren watches rainwater enter the cleared drainage channel and run south."}
+{"beat":21,"event":"Theron stands at the channel's south end in the rain, his face doing nothing.","arrive":["character-other/the-places-she-carries-theron"]}
+{"beat":22,"event":"Brecca, soaked from repointing the west face until the clay washed, comes beside him."}
+{"beat":23,"event":"'Good drainage,' she says. Theron's mouth almost smiles."}
+{"beat":24,"event":"They stand in the rain and watch the water run."}
+{"beat":25,"event":"At the hall, Brecca works a failed stone free of the east wall's second course.","at":"2026-08-22T15:30:00.000Z","leave":["character-other/the-places-she-carries-theron"]}
+{"beat":26,"event":"'There is a space behind it': a small carved shelf, ten centimeters wide, empty for centuries."}
+{"beat":27,"event":"Its chisel marks match the threshold stone's dressing; reachable only while repointing."}
+{"beat":28,"event":"Wren reads the design as a message: found only by those doing what the builders did."}
+{"beat":29,"event":"A discovery logs the hall's maintenance niche: +38 XP, Surveying to 54.","changes":[{"page":"metric-character-experience/the-places-she-carries-wren","key":"value","from":1586,"to":1624,"note":"Discovery: maintenance niche in the gathering hall's east wall"}]}
+{"beat":30,"event":"'You found that.' 'I found a hole in a wall. You did the notification thing.'"}
+{"beat":31,"event":"Brecca says Wren's face goes still when the System talks; Hadley told her."}
+{"beat":32,"event":"Wren files this, catches herself filing it, and thanks Brecca for the niche."}
+{"beat":33,"event":"Brecca will reset the stone with better clay and keep the niche reachable for whoever comes."}
+{"beat":34,"event":"In the last light Wren opens her mother's letter at the threshold stone, carried two days.","at":"2026-08-22T19:30:00.000Z","leave":["character-other/the-places-she-carries-brecca"]}
+{"beat":35,"event":"Behind her Brecca and Theron talk mortar at the fire and Hadley comments on the stew."}
+{"beat":36,"event":"The letter is in Sera's cramped hand, in the good ink."}
+{"beat":37,"event":"The garden is in; Callum fixed the south bed's drainage; Wren's rosemary cutting rooted."}
+{"beat":38,"event":"Callum heard the Thornwild is quieter this season and looked at a map an hour in silence."}
+{"beat":39,"event":"Sera hopes Wren lets people need her without turning it into a project."}
+{"beat":40,"event":"She has her father's eyes and compass, and will sit still long enough to be found."}
+{"beat":41,"event":"'Come home before first frost. Or send word. The rosemary is yours when you come back.'"}
+{"beat":42,"event":"Wren reads it three times; the third time the 'project' sentence is the one that matters."}
+{"beat":43,"event":"Her mother named from afar what Wren spent three days learning to see."}
+{"beat":44,"event":"Against the stone she thinks of the rosemary sprig she has carried since Day 1."}
+{"beat":45,"event":"Some places she carries in paper and scent, not bonds."}
+{"beat":46,"event":"She cannot write back; she folds the letter into her journal and sits as stars appear."}
+{"beat":47,"event":"Day 23 dawns clear; Brecca is already redoing rain-washed joints on the hall's west wall.","at":"2026-08-23T06:00:00.000Z","arrive":["character-other/the-places-she-carries-brecca"]}
+{"beat":48,"event":"'What was Thorngate like?' Wren asks, about a place through a person."}
+{"beat":49,"event":"'Small. Boring.' Its clay is redder and cracks; here the clay is softer, the stone better."}
+{"beat":50,"event":"Wren listens without filing, and asks, 'Do you miss it?'"}
+{"beat":51,"event":"Brecca's hands pause: she misses her mother's kiln, the tick of cooling clay."}
+{"beat":52,"event":"'I miss my mother's supply post. The way the door sounds when it closes,' Wren says."}
+{"beat":53,"event":"Brecca hears Wren say something about herself: 'That is the thing you miss. The door sound.'"}
+{"beat":54,"event":"They work in the morning light; the settlement is being tended for the first time in centuries."}
+{"beat":55,"event":"Wren journals 'Day 23. Five.' The count climbs; the settlement holds."}
