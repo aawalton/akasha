@@ -145,7 +145,7 @@ export const overwhereIiVarrowTalented = {
     },
     {
       fact: "After the Hawise bout, Nala's mind holds only a few more fine pushes before they start to slip.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "In Nala's first bout, her blunt spear touched Osric clean in the ribs; his maul caught her after.",
