@@ -8,5 +8,5 @@ export const fairweatherHealersSatchel = {
   story: "story-written/fairweather",
   character: "character-player/fairweather-elsie",
   description:
-    "A little leather satchel worn soft, holding rolled bandages, a splint, needle and thread, willow bark, honey salve and dried simples in twists of paper.",
+    "A little leather satchel worn soft, holding rolled bandages, a splint, needle and thread, willow bark, honey salve, a stoppered bottle of stinging brown tincture for cleaning wounds and dried simples in twists of paper.",
 } as const satisfies StoryItem
