@@ -8,4 +8,5 @@ export const anthology = {
   world: "world/personas",
   unit: "unit/words",
   prose: "txt",
+  panels: ["played-panel/player-intent"],
 } as const satisfies StoryWritten

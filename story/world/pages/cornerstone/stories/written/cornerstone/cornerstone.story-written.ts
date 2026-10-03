@@ -7,4 +7,5 @@ export const cornerstone = {
   title: "Cornerstone",
   world: "world/cornerstone",
   unit: "unit/words",
+  panels: ["played-panel/player-intent"],
 } as const satisfies StoryWritten

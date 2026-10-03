@@ -7,4 +7,5 @@ export const dateNightFreePlay = {
   title: "Date Night Free Play",
   world: "world/personas",
   unit: "unit/words",
+  panels: ["played-panel/player-intent"],
 } as const satisfies StoryWritten

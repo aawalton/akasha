@@ -16,5 +16,6 @@ export const otherwhereVi = {
     "played-panel/scene-cover",
     "played-panel/time",
     "played-panel/story-so-far",
+    "played-panel/player-intent",
   ],
 } as const satisfies StoryPlayed

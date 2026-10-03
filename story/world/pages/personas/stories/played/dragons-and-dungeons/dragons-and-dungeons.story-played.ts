@@ -10,6 +10,6 @@ export const dragonsAndDungeons = {
   externalId: "dragons-and-dungeons",
   coordinatorAgent: "aria-game-master-dragons-and-dungeons",
   chapterBreak: "A session at the table ends.",
-  panels: ["played-panel/time", "played-panel/story-so-far"],
+  panels: ["played-panel/time", "played-panel/story-so-far", "played-panel/player-intent"],
   prose: "txt",
 } as const satisfies StoryPlayed

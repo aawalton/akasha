@@ -7,4 +7,5 @@ export const bathhouseConfession = {
   title: "Bathhouse Confession",
   world: "world/bathhouse-confession",
   unit: "unit/words",
+  panels: ["played-panel/player-intent"],
 } as const satisfies StoryWritten

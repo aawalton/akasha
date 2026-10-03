@@ -9,5 +9,5 @@ export const thePlacesSheCarries = {
   unit: "unit/words",
   prose: "txt",
   proseOnBeats: true,
-  panels: ["played-panel/player-character"],
+  panels: ["played-panel/player-character", "played-panel/player-intent"],
 } as const satisfies StoryWritten

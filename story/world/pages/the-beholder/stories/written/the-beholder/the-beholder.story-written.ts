@@ -7,4 +7,5 @@ export const theBeholder = {
   title: "The Beholder",
   world: "world/the-beholder",
   unit: "unit/words",
+  panels: ["played-panel/player-intent"],
 } as const satisfies StoryWritten

@@ -8,4 +8,5 @@ export const towerOfNimue = {
   world: "world/tower-of-nimue",
   unit: "unit/words",
   prose: "txt",
+  panels: ["played-panel/player-intent"],
 } as const satisfies StoryWritten

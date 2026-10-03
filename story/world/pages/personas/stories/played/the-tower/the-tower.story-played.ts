@@ -15,5 +15,6 @@ export const theTower = {
     "played-panel/tower-hud",
     "played-panel/tower-player-character",
     "played-panel/story-so-far",
+    "played-panel/player-intent",
   ],
 } as const satisfies StoryPlayed

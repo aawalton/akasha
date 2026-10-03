@@ -7,4 +7,5 @@ export const breathOfTheWild = {
   title: "Breath of the Wild: The Chronicle of Hyrule",
   world: "world/hyrule",
   unit: "unit/words",
+  panels: ["played-panel/player-intent"],
 } as const satisfies StoryWritten

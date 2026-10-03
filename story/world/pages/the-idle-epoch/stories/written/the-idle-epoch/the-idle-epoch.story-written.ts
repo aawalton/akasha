@@ -8,4 +8,5 @@ export const theIdleEpoch = {
   world: "world/the-idle-epoch",
   unit: "unit/words",
   prose: "txt",
+  panels: ["played-panel/player-intent"],
 } as const satisfies StoryWritten
