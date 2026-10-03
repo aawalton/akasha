@@ -59,5 +59,10 @@ export const turnChanges = {
       decisionKind: "decision-kind/departure",
       statement: "A move writes its prose, its beats and its issue lists as files beside the turn.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A key a move hands over as undefined is cleared, so a file beside the turn holding it goes too.",
+    },
   ],
 } as const satisfies Module

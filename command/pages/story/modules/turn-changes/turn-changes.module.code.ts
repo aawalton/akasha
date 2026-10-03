@@ -96,6 +96,18 @@ export function bodiesOf(
   return Object.keys(bodies).length === 0 ? {} : { bodies }
 }
 
+type Values = Readonly<{ [key: string]: unknown }>
+
+export function clearedOf(
+  values: Values,
+  said: Moved
+): { readonly values: Values; readonly clears?: readonly string[] } {
+  const clears = Object.keys(said.values).filter((key) => said.values[key] === undefined)
+  if (clears.length === 0) return { values }
+  const kept = Object.entries(values).filter(([key]) => !clears.includes(key))
+  return { values: Object.fromEntries(kept), clears }
+}
+
 function linesBody(lines: readonly string[]): string {
   return lines.map((one) => `${one}${BREAK}`).join("")
 }

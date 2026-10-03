@@ -6,12 +6,14 @@ import {
   bodiesOf,
   cacheNamed,
   changesChecked,
+  clearedOf,
   placedAmong,
 } from "akasha/command/pages/story/modules/turn-changes/turn-changes.module.code.ts"
 import { beatsHeld } from "akasha/command/pages/story/modules/turn-scenes/turn-scenes.module.code.ts"
 import type { Reading } from "akasha/story/engine/beat-state/modules/beat-changes/beat-changes.module.code.ts"
 import { beatsWritten } from "akasha/story/engine/beat-state/modules/beat-records/beat-records.module.code.ts"
 import { worldRelationship } from "akasha/story/world/mechanics/relationships/world-relationship.page-type.ts"
+import { advanced } from "akasha/story/world/stories/played/turns/modules/turn-advancing/turn-advancing.module.code.ts"
 import type {
   Held,
   Moved,
@@ -127,6 +129,21 @@ test("a move's issue lists are written as files beside the turn, one issue to a 
     bodies: { issues: "beat 1: a fault\n", mechanicsIssues: "beat 2: no coin\n" },
   })
   expect(bodiesOf(movedOf({}), PLANNED)).toEqual({})
+})
+
+const MASTER = { role: "game-master", game: "saga" }
+
+const ADMITTED = { types: [], filed: () => false }
+
+test("a game master's first run on a chapter holding no mechanics issues clears them rather than handing over undefined", () => {
+  const held = heldAt("game-master", { noun: "chapter", written: true })
+  const handed = { kind: "beats", beats: ["Elsie trains."] } as const
+  const said = advanced(held, MASTER, handed, [], ["mechanics"], [], ADMITTED, ["mechanics"])
+  if ("refused" in said) throw new Error(said.refused)
+  const cleared = clearedOf({ ...said.values, title: "The Gate" }, said)
+  expect(cleared.clears).toEqual(["recordedBy", "mechanicsIssues"])
+  expect(Object.keys(cleared.values)).toEqual(["stepStatus", "beats", "ownLength", "title"])
+  expect(clearedOf({ title: "The Gate" }, movedOf({}))).toEqual({ values: { title: "The Gate" } })
 })
 
 test("a mechanics seat's changes are checked with the changes the turn holds already", () => {

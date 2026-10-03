@@ -25,6 +25,7 @@ import {
   cacheNamed,
   changesChecked,
   changesIndexed,
+  clearedOf,
   placingIndexed,
 } from "akasha/command/pages/story/modules/turn-changes/turn-changes.module.code.ts"
 import {
@@ -266,14 +267,17 @@ async function heldOn(
     slug,
     path: turn.at,
     merge: true,
-    values: {
-      ...lifted.values,
-      ...recast,
-      ...said.values,
-      ...scened.values,
-      ...titled,
-      ...inPlay.values,
-    },
+    ...clearedOf(
+      {
+        ...lifted.values,
+        ...recast,
+        ...said.values,
+        ...scened.values,
+        ...titled,
+        ...inPlay.values,
+      },
+      said
+    ),
     ...bodiesOf(said, beats),
   }
   const folded = reach.fold(given.root, naming)
