@@ -143,6 +143,9 @@ export const fairweather0001 = {
     },
   ],
   beatChanges: "jsonl",
+  mechanicsIssues: [
+    "beat 60: Elsie knows moonbells from her mother, and no lore fact says she ever learned them",
+  ],
   lore: [
     "lore/fairweather-cora",
     "lore/fairweather-elsie",
@@ -154,5 +157,5 @@ export const fairweather0001 = {
     "place/fairweather-honeycomb",
     "place/fairweather-lanternmere",
   ],
-  recordedBy: ["story-recorder/inventory"],
+  recordedBy: ["story-recorder/inventory", "story-recorder/plan"],
 } as const satisfies StoryChapterWritten
