@@ -132,5 +132,9 @@ export const overwhereIWendlow2 = {
       fact: "A drake-pearl focus favours no element; it lengthens reach for all alike.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Ilse warns that a pearl set in a focus can never again be drawn on or sold to an alchemist.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
