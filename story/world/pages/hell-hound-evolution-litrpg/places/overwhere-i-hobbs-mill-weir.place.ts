@@ -63,5 +63,9 @@ export const overwhereIHobbsMillWeir = {
       fact: "The wyrm hunts at dawn and dusk, striking at anything on the water or within 5 yards of the edge.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "The Weir Wyrm is a grey-green serpent some 25 feet long, thick as a man's waist, fangs a hand long.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Place
