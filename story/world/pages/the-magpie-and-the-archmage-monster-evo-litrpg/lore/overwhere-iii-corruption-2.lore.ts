@@ -131,7 +131,7 @@ export const overwhereIiiCorruption2 = {
     },
     {
       fact: "A Current Lash on a carcass only cuts dead flesh; a pull is what draws its blight.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
     {
       fact: "Wolf prints bigger than any Wrenwood wolf's circle the deer, go into the brook, and don't come out.",
