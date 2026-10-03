@@ -306,6 +306,10 @@ export const overwhereIiiMerrowgateGuildPost = {
       fact: "Day ten's night at the post passes quiet; the watch's boots pass the door each hour.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "The free room upstairs is narrow: a cot, two wool blankets, a peg, a shutter over the gate street.",
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-marda-hesk"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place
