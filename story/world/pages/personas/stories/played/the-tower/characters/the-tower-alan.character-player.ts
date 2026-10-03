@@ -7,4 +7,5 @@ export const theTowerAlan = {
   title: "Alan",
   story: "story-played/the-tower",
   person: "person/alan",
+  place: "place/the-tower-the-hosts-seat",
 } as const satisfies CharacterPlayer

@@ -6,5 +6,5 @@ export const theTowerPlinthGolem01 = {
   slug: "the-tower-plinth-golem-01",
   title: "Plinth Golem (the Warden)",
   story: "story-played/the-tower",
-  place: "place/the-tower-floor-03",
+  place: "place/the-tower-gallery-nave",
 } as const satisfies CharacterOther

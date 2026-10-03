@@ -6,5 +6,5 @@ export const theTowerGloomwardStalker01 = {
   slug: "the-tower-gloomward-stalker-01",
   title: "Gloomward Stalker",
   story: "story-played/the-tower",
-  place: "place/the-tower-floor-04",
+  place: "place/the-tower-shaft-base-flights",
 } as const satisfies CharacterOther

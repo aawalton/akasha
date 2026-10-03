@@ -6,5 +6,5 @@ export const theTowerCounterweightColossus01 = {
   slug: "the-tower-counterweight-colossus-01",
   title: "Counterweight Colossus (the Warden)",
   story: "story-played/the-tower",
-  place: "place/the-tower-floor-04",
+  place: "place/the-tower-shaft-headworks",
 } as const satisfies CharacterOther
