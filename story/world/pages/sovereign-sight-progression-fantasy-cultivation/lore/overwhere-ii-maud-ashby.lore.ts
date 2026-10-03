@@ -57,7 +57,7 @@ export const overwhereIiMaudAshby = {
     },
     {
       fact: "The ring is cold iron sunk in the pool's bed round the throat where the black rises.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Mending the Horizon itself is the Spires' work; Maud would send word to Deepwatch at once.",
