@@ -49,7 +49,7 @@ export const overwhereIiWhitecombs2 = {
     },
     {
       fact: "The longer Nala works the pool, the nearer her stair dream feels, like a sound just past hearing.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "At a Quickstep run, Hawise can reach the Ford from the Callow cwm in about two and a half hours.",
