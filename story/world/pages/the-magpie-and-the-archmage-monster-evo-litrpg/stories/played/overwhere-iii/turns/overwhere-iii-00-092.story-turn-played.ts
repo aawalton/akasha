@@ -4,6 +4,7 @@ export const overwhereIii00092 = {
   id: "01a101a8-25cb-739f-b3b8-34b4ac784ff1",
   type: "page-type/story-turn-played",
   slug: "overwhere-iii-00-092",
+  cover: "image/image-cc8dbc54b4987ced",
   ownLength: 133,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iii"],
@@ -34,6 +35,7 @@ export const overwhereIii00092 = {
     "place/overwhere-iii-merrowgate-guild-post",
   ],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/memory"],
+  recordedBy: ["story-recorder/inventory", "story-recorder/memory", "story-recorder/picture"],
   endsAt: "2026-10-09T13:45:00.000Z",
+  coverAfter: "She dips her pen to mark the ledger, then pauses.",
 } as const satisfies StoryTurnPlayed
