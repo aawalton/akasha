@@ -11,7 +11,7 @@ export const fairweather0001BlackStrongOneSugar = {
   story: "story-written/fairweather",
   ownLength: 8294,
   prose: "txt",
-  stepStatus: "step-status/game-master",
+  stepStatus: "step-status/mechanics",
   beats: "jsonl",
   issues: [
     "beat 39: Elsie uses a water flask and a brown tincture; no page or change gives her either",
@@ -54,13 +54,6 @@ export const fairweather0001BlackStrongOneSugar = {
     "story-reviewer/scene",
     "story-reviewer/continuity",
     "story-reviewer/style",
-  ],
-  recordedBy: [
-    "story-recorder/inventory",
-    "story-recorder/plan",
-    "story-recorder/mechanics",
-    "story-recorder/memory",
-    "story-recorder/picture",
   ],
   scenes: [
     "image/image-be916eb145fde6e6",
