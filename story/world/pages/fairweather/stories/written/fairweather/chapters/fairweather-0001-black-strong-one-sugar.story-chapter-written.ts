@@ -56,6 +56,7 @@ export const fairweather0001BlackStrongOneSugar = {
     "story-reviewer/continuity",
     "story-reviewer/style",
   ],
+  recordedBy: ["story-recorder/inventory"],
   scenes: [
     "image/image-be916eb145fde6e6",
     "image/image-76cf4eaedeb67989",

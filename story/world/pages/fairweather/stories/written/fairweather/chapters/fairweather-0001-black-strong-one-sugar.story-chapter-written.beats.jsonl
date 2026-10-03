@@ -2,7 +2,7 @@
 {"beat":2,"event":"It is her Naming day; she lies under the sloped ceiling, too nervous and happy to stay in bed."}
 {"beat":3,"event":"She waters her plants on the sill, Mrs Pennywhistle, Sunny, Doris and Captain, wishing each luck."}
 {"beat":4,"event":"She washes at the basin, cold water on her bare small breasts, and laughs at the shock of it."}
-{"beat":5,"event":"She laces the cream halter up the front, buckles her belt, and pins her flower clip twice."}
+{"beat":5,"event":"She laces the cream halter up the front, buckles her belt, and pins her flower clip twice.","changes":[{"page":"story-item/fairweather-adventurers-outfit","note":"Elsie dresses: halter laced, skirt, belt buckled, gloves, boots on","key":"slot","from":null,"to":"item-slot/body"},{"page":"story-item/fairweather-flower-clip","note":"Flower clip pinned in her hair","key":"slot","from":null,"to":"item-slot/head"}]}
 {"beat":6,"event":"Downstairs the baker, floury to the elbows, kisses both her cheeks and wishes her luck."}
 {"beat":7,"event":"Elsie tells the baker she hopes for a healer's class, like her mother's on the caravan roads."}
 {"beat":8,"event":"She walks the canals toward the lakeshore through the dawn mist, humming without knowing it.","at":"2026-06-01T05:15:00.000Z","place":"place/fairweather-lanternmere"}
@@ -19,7 +19,7 @@
 {"beat":19,"event":"Walking out, Elsie hears the whispers: Vesper Locke, the War of Strings. Her smile wobbles once."}
 {"beat":20,"event":"On the hall steps she hugs her satchel and decides the class will just have to be kind."}
 {"beat":21,"event":"At the guild hall on Brightwater Square, Elsie queues to register like everyone else.","at":"2026-06-01T10:30:00.000Z","place":"place/fairweather-guild-hall"}
-{"beat":22,"event":"The clerk asks two lanterns for the fee; Elsie pays, and the clerk's pen stops at her class."}
+{"beat":22,"event":"The clerk asks two lanterns for the fee; Elsie pays, and the clerk's pen stops at her class.","changes":[{"page":"metric-character-currency/fairweather-elsie","note":"Elsie's purse shown as she pays the guild fee","key":"unrevealed","from":true,"to":false},{"page":"metric-character-currency/fairweather-elsie","note":"Guild registration fee, two lanterns: 134 → 114 pips","key":"value","from":134,"to":114},{"page":"metric-character-currency/fairweather-elsie","note":"Chapter 1 ends with 114 pips","key":"history","append":{"turn":1,"value":114}}]}
 {"beat":23,"event":"The clerk goes up the stairs at a near run; the hall's chatter dies, and adventurers stare."}
 {"beat":24,"event":"The guildmaster, a grey-haired swordswoman, comes down and asks to see Elsie's window."}
 {"beat":25,"event":"Elsie shows it gladly, and asks whether she has filled the form in wrong."}
@@ -29,7 +29,7 @@
 {"beat":29,"event":"Every skill Elsie uses, Cora will write in her black ledger and report; and she can sever any bond."}
 {"beat":30,"event":"Elsie takes both Cora's hands, thanks her for coming, and asks what she likes in her tea."}
 {"beat":31,"event":"Cora draws her hands back, colour high on her cheekbones, and says that is not relevant."}
-{"beat":32,"event":"The clerk stamps a copper rank tag with Elsie's name; Elsie kisses it and hangs it at her belt."}
+{"beat":32,"event":"The clerk stamps a copper rank tag with Elsie's name; Elsie kisses it and hangs it at her belt.","changes":[{"page":"story-item/fairweather-copper-rank-tag","note":"Copper rank tag hung at her belt","key":"slot","from":null,"to":"item-slot/waist"}]}
 {"beat":33,"event":"Elsie asks how one finds a party; Cora says the guild licenses a dungeon only to three or more."}
 {"beat":34,"event":"At the party board, every slate Elsie walks up to is wiped or turned away before she reaches it."}
 {"beat":35,"event":"One party leader tells her plainly that no party in Lanternmere will take an Enthraller."}
@@ -85,7 +85,7 @@
 {"beat":85,"event":"In her rooms over the chandler's she opens her ledger and writes: Skills used: none."}
 {"beat":86,"event":"Below it she writes: asked how I take my tea. She looks at the line a long while, and leaves it."}
 {"beat":87,"event":"In the attic, Elsie tells Mrs Pennywhistle and Captain all about her day.","at":"2026-06-01T23:00:00.000Z","place":"place/fairweather-honeycomb","present":["character-player/fairweather-elsie"]}
-{"beat":88,"event":"She hangs her belt, rank tag and all, on the bedpost, then unlaces the halter and undresses."}
+{"beat":88,"event":"She hangs her belt, rank tag and all, on the bedpost, then unlaces the halter and undresses.","changes":[{"page":"story-item/fairweather-copper-rank-tag","note":"Belt and rank tag hung on the bedpost","key":"slot","from":"item-slot/waist","to":null},{"page":"story-item/fairweather-adventurers-outfit","note":"Elsie unlaces the halter and undresses","key":"slot","from":"item-slot/body","to":null}]}
 {"beat":89,"event":"In her notebook: Tamsin, axe called Margery. Tilly, goggles. Cora: black, strong, one sugar."}
 {"beat":90,"event":"She writes to her mother: not a healer's class, but she has friends already, so please don't worry."}
 {"beat":91,"event":"She cries a little over the letter, then smiles, and signs it with a flower."}
