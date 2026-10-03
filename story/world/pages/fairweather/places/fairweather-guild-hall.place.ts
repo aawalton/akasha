@@ -107,5 +107,9 @@ export const fairweatherGuildHall = {
         "character-other/fairweather-cora",
       ],
     },
+    {
+      fact: "An apothecary pays on delivery, and the guild pays out later.",
+      knowers: ["lore-disclosure/game-master", "character-other/fairweather-tamsin"],
+    },
   ],
 } as const satisfies Place
