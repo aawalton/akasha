@@ -98,6 +98,10 @@ export const fairweatherTilly = {
       fact: "Tilly Brandt is an Alchemist of F-rank.",
       knowers: ["lore-disclosure/game-master", "character-player/fairweather-elsie"],
     },
+    {
+      fact: "Tilly has never been inside a dungeon.",
+      knowers: ["lore-disclosure/game-master", "character-other/fairweather-tilly"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
