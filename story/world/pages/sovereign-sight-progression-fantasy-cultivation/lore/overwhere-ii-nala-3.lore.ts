@@ -225,6 +225,10 @@ export const overwhereIiNala3 = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
+      fact: "A night's sleep restores Nala's mind after an organ; she needs no rest day between organs.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
       fact: "Nala took Lady Varrow's lesser bond; Sir Edric witnessed it, naming her free blade of Varrow Keep.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
