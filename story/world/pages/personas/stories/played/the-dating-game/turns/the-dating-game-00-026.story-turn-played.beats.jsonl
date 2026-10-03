@@ -1,9 +1,10 @@
 {"beat":1,"event":"Alan: \"I love walking in the night. My sleep is a little irregular,\""}
-{"beat":2,"event":"\"so sometimes I'll be out at basically any hour, but the deep night is my favorite.\""}
-{"beat":3,"event":"\"Cool, quiet, calm. I find it soothing.\""}
-{"beat":4,"event":"Grace's gold eyes warm, and she tilts her head, really looking at him now."}
+{"beat":2,"event":"\"so sometimes I'll be out at basically any hour, but the deep night is my favorite.\"","memory":[{"page":"lore/the-dating-game-alan","fact":"Alan's sleep is irregular, so he is sometimes out walking at almost any hour.","shown":true},{"page":"lore/the-dating-game-alan","fact":"Alan's sleep is irregular, so he is sometimes out walking at almost any hour.","learns":"character-other/the-dating-game-grace"}]}
+{"beat":3,"event":"\"Cool, quiet, calm. I find it soothing.\"","memory":[{"page":"lore/the-dating-game-alan","fact":"Alan loves walking at night, deep night most of all; he finds it cool, quiet, calm, soothing.","shown":true},{"page":"lore/the-dating-game-alan","fact":"Alan loves walking at night, deep night most of all; he finds it cool, quiet, calm, soothing.","learns":"character-other/the-dating-game-grace"}]}
+{"beat":4,"event":"Grace's gold eyes warm, and she tilts her head, really looking at him now.","changes":[{"page":"world-relationship/the-dating-game-grace","key":"relationshipPoints","from":1,"to":3,"note":"Closeness scoring: validation and intimacy 1 each for sharing his love of night"}]}
 {"beat":5,"event":"\"Most people only put up with the dark,\" she says, low. \"You like it.\""}
 {"beat":6,"event":"\"Cool, quiet, calm,\" she repeats, slowly, as if tasting how well he put it."}
-{"beat":7,"event":"\"It's never frightened me either. It's where things get honest.\""}
+{"beat":7,"event":"\"It's never frightened me either. It's where things get honest.\"","memory":[{"page":"lore/the-dating-game-grace","fact":"The dark has never frightened Grace; to her it's where things get honest.","shown":true},{"page":"lore/the-dating-game-grace","fact":"The dark has never frightened Grace; to her it's where things get honest.","learns":"character-player/the-dating-game-alan"}]}
 {"beat":8,"event":"She turns the unlit lantern a quarter turn on the step, idly, her eyes still on him."}
-{"beat":9,"event":"\"So where do your feet take you, at that hour?\""}
+{"beat":9,"event":"\"So where do your feet take you, at that hour?\"","at":"2026-09-26T17:06:00.000Z"}
+

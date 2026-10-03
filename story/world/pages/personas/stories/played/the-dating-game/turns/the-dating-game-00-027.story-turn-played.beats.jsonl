@@ -1,10 +1,11 @@
-{"beat":1,"event":"Alan: \"Usually just around the neighborhood. Sometimes up the canyon, into the forest.\""}
-{"beat":2,"event":"\"I've watched the sun rise from the top of the mountain a few times.\""}
+{"beat":1,"event":"Alan: \"Usually just around the neighborhood. Sometimes up the canyon, into the forest.\"","memory":[{"page":"lore/the-dating-game-alan","fact":"Alan walks around his neighborhood, and sometimes up the canyon into the forest.","shown":true},{"page":"lore/the-dating-game-alan","fact":"Alan walks around his neighborhood, and sometimes up the canyon into the forest.","learns":"character-other/the-dating-game-grace"}]}
+{"beat":2,"event":"\"I've watched the sun rise from the top of the mountain a few times.\"","memory":[{"page":"lore/the-dating-game-alan","fact":"Alan has watched the sun rise from the top of the mountain a few times.","shown":true},{"page":"lore/the-dating-game-alan","fact":"Alan has watched the sun rise from the top of the mountain a few times.","learns":"character-other/the-dating-game-grace"}]}
 {"beat":3,"event":"At \"the top of the mountain\" Grace's smile deepens, slow."}
-{"beat":4,"event":"\"Then you've kept the whole night through, start to finish,\" she says. \"Not many do.\""}
+{"beat":4,"event":"\"Then you've kept the whole night through, start to finish,\" she says. \"Not many do.\"","changes":[{"page":"world-relationship/the-dating-game-grace","key":"relationshipPoints","from":3,"to":5,"note":"Closeness scoring: acknowledgment and intimacy 1 each"}]}
 {"beat":5,"event":"She looks up the street toward the dark mouth of the canyon, as if seeing him up there."}
-{"beat":6,"event":"The gold in the sky has gone to rose while they talked, and the first streetlight flickers on."}
+{"beat":6,"event":"The gold in the sky has gone to rose while they talked, and the first streetlight flickers on.","at":"2026-09-26T19:10:00.000Z"}
 {"beat":7,"event":"Grace glances at it, then rises from the step in one easy motion."}
 {"beat":8,"event":"She lifts the brass storm lantern by its handle and strikes a match; the wick catches."}
 {"beat":9,"event":"The lantern's small light comes up steady and warm between them."}
-{"beat":10,"event":"\"That's my hour starting,\" she says, the lantern swinging lightly from her hand."}
+{"beat":10,"event":"\"That's my hour starting,\" she says, the lantern swinging lightly from her hand.","at":"2026-09-26T19:15:00.000Z","memory":[{"page":"lore/the-dating-game-grace","fact":"At dusk Grace lights her brass storm lantern; she calls it her hour starting.","shown":true},{"page":"lore/the-dating-game-grace","fact":"At dusk Grace lights her brass storm lantern; she calls it her hour starting.","learns":"character-player/the-dating-game-alan"}]}
+
