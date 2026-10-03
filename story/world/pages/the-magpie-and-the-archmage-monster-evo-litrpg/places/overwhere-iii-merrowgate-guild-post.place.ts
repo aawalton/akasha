@@ -338,6 +338,10 @@ export const overwhereIiiMerrowgateGuildPost = {
         "character-other/overwhere-iii-marda-hesk",
       ],
     },
+    {
+      fact: "The boar job pays on the boar's tusks brought to the desk, blight or none.",
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-marda-hesk"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place
