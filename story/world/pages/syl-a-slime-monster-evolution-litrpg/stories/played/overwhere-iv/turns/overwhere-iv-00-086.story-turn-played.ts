@@ -4,6 +4,7 @@ export const overwhereIv00086 = {
   id: "01a10170-9a9a-7fa6-940b-f567a4ab283d",
   type: "page-type/story-turn-played",
   slug: "overwhere-iv-00-086",
+  cover: "image/image-98c7c6508f366c6f",
   ownLength: 143,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iv"],
@@ -15,7 +16,7 @@ export const overwhereIv00086 = {
     "character-other/overwhere-iv-rennick-hale",
     "character-other/overwhere-iv-brenna-holt",
   ],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action:
     "“I’ll get some sleep, then go scoring again.” Before going to sleep, I go and resign from the guard, thanking them and paying them for the gear, asking if I can keep what I had been using, then sleep and back out to the woods where I ambushed the goblins.",
   beats: [
@@ -41,6 +42,12 @@ export const overwhereIv00086 = {
     "place/overwhere-iv-millbrook-gatehouse",
   ],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/memory", "story-recorder/mechanics"],
+  recordedBy: [
+    "story-recorder/inventory",
+    "story-recorder/memory",
+    "story-recorder/mechanics",
+    "story-recorder/picture",
+  ],
   endsAt: "2026-10-07T07:40:00.000Z",
+  coverAfter: "He strikes your name from the watch roll with one clean line.",
 } as const satisfies StoryTurnPlayed
