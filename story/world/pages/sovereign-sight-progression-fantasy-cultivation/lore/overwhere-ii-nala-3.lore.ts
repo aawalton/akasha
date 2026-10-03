@@ -214,7 +214,7 @@ export const overwhereIiNala3 = {
     },
     {
       fact: "Nala's lungs take a whole afternoon to refine; each breath comes short and cold as sea air.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Refined, Nala's lungs draw deeper and slower, and she can hold her breath for minutes.",
