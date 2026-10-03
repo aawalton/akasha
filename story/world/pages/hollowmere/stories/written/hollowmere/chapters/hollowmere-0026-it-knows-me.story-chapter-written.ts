@@ -8,9 +8,9 @@ export const hollowmere0026ItKnowsMe = {
   unit: "unit/words",
   title: "It Knows Me",
   story: "story-written/hollowmere",
-  ownLength: 5079,
+  ownLength: 5080,
   prose: "txt",
-  stepStatus: "step-status/writer",
+  stepStatus: "step-status/recorders",
   beats: [
     "Friday of week four: a clear cold morning after the rain; the mere is flat and silver from 15.",
     "Bea is up first, doing press-ups on the rug in her vest, counting under her breath, very seriously.",
