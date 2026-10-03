@@ -104,6 +104,26 @@ export const overwhereIiVarrowTalented = {
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
+      fact: "Undertow's push on a sparring partner is a shove of Nala's own tide, and the Lady's rule allows it.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Undertow's pull on a person tugs at their Water; even a small one breaks the Lady's rule.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Pushing off puddle or trough water, Nala can shove herself half a step aside, faster than a stride.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "A small push lands on Hawise as a cold slap of tide; the first one jolts her, after that she braces.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Pushes timed with spearwork in a flurry wear Nala's mind fast, like fine work, not plain towing.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
       fact: "In Nala's first bout, her blunt spear touched Osric clean in the ribs; his maul caught her after.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
