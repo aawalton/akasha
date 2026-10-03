@@ -1,16 +1,16 @@
 import type { StoryChapterWritten } from "akasha/story/world/stories/written/chapters/story-chapter-written.page-type.types.ts"
 
-export const hollowmere0022 = {
+export const hollowmere0022IWantToStay = {
   id: "01a10175-3a58-7cea-a9f7-2d7df080d31d",
   type: "page-type/story-chapter-written",
-  slug: "hollowmere-0022",
+  slug: "hollowmere-0022-i-want-to-stay",
   position: 22,
   unit: "unit/words",
-  title: "Chapter 22",
+  title: "I Want to Stay",
   story: "story-written/hollowmere",
-  ownLength: 0,
+  ownLength: 2996,
   prose: "txt",
-  stepStatus: "step-status/writer",
+  stepStatus: "step-status/reviewers",
   beats: [
     "Monday of week four: you wake in 15 again, Bea already up and pulling on running tights.",
     '"Run," she says. "Monday. You\'ve gone soft on swimming." You run the shore with her, twenty minutes.',
@@ -70,5 +70,28 @@ export const hollowmere0022 = {
     "Lin sleeps in her own room; you sleep in 15, Bea warm at your back, charcoal still on your knee.",
     "A day at Hollowmere ends.",
   ],
-  lore: ["lore/hollowmere-academy-2", "lore/hollowmere-lin"],
+  lore: [
+    "lore/hollowmere-academy-2",
+    "lore/hollowmere-amara",
+    "lore/hollowmere-bea",
+    "lore/hollowmere-bea-2",
+    "lore/hollowmere-dev",
+    "lore/hollowmere-kit",
+    "lore/hollowmere-kit-2",
+    "lore/hollowmere-lin",
+    "lore/hollowmere-nala",
+    "lore/hollowmere-nala-2",
+    "lore/hollowmere-penhallow",
+    "lore/hollowmere-priya",
+  ],
+  characters: [
+    "character-player/hollowmere-nala",
+    "character-other/hollowmere-bea",
+    "character-other/hollowmere-lin",
+    "character-other/hollowmere-kit",
+    "character-other/hollowmere-amara",
+    "character-other/hollowmere-priya",
+    "character-other/hollowmere-dev",
+    "character-other/hollowmere-penhallow",
+  ],
 } as const satisfies StoryChapterWritten
