@@ -20,6 +20,10 @@ export const overwhereIiiMotherSallow = {
       fact: "She came to the Wrenwood two winters ago; townsfolk buy her charcoal and like her.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "By day her two corrupted wolves lie in a brush lean-to behind her hut, out of sight.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
