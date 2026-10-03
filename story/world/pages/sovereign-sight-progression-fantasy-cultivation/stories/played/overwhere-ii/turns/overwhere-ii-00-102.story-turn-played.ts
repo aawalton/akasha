@@ -4,6 +4,7 @@ export const overwhereIi00102 = {
   id: "01a1016c-e30e-7273-b960-c36fb45dbdb9",
   type: "page-type/story-turn-played",
   slug: "overwhere-ii-00-102",
+  cover: "image/image-794c2b23996b0c95",
   ownLength: 186,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-ii"],
@@ -37,6 +38,7 @@ export const overwhereIi00102 = {
     "place/overwhere-ii-callow-beck",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/memory"],
+  recordedBy: ["story-recorder/inventory", "story-recorder/memory", "story-recorder/picture"],
   endsAt: "2026-10-26T06:30:00.000Z",
+  coverAfter: "Your throat is cracked dry. Your head pounds, and your tongue feels thick.",
 } as const satisfies StoryTurnPlayed
