@@ -8,9 +8,9 @@ export const hollowmere0027UpHere = {
   unit: "unit/words",
   title: "Up Here",
   story: "story-written/hollowmere",
-  ownLength: 4191,
+  ownLength: 4205,
   prose: "txt",
-  stepStatus: "step-status/writer",
+  stepStatus: "step-status/recorders",
   beats: [
     "Saturday of week four: Bea's alarm at six; she's out of bed before it stops, bouncing on her toes.",
     '"Good luck charm," she says, and kisses you, and throws your jumper at you. "Up. Bank. Shouting."',
