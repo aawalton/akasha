@@ -98,7 +98,7 @@ export const overwhereIWendlow2 = {
     },
     {
       fact: "Only the guild's factor uses the counting-house seal, and Grete knows it.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
     {
       fact: "Grete pockets the letter, tells Nala to say nothing of it, and means to take it to the magistrate.",
