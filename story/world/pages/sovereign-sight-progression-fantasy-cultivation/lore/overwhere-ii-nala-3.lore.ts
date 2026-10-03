@@ -274,7 +274,7 @@ export const overwhereIiNala3 = {
     },
     {
       fact: "On day twenty-eight's night the stair dream comes nearest yet; Nala wakes before dawn.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Raw Sea-Water taken into Nala's well deepens its downward strain, as Descent nears.",
