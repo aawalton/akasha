@@ -167,5 +167,9 @@ export const overwhereIvTullFarm = {
       fact: "Roused by the news, Tull wets the cottage thatch from the well and sets buckets by the walls.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "As Nala came in hurt on day 8's night, Tull stepped out of his cottage, cudgel in hand.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+    },
   ],
 } as const satisfies Place

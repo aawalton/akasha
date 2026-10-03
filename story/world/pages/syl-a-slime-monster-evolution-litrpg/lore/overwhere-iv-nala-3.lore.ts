@@ -112,5 +112,13 @@ export const overwhereIvNala3 = {
       fact: "Running the dark trail, Nala's sense lays it out a stride ahead, every root and rut.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
     },
+    {
+      fact: "Nala came into Tull's fold hurt, blood soaking her side, low on mana but able to use a spear.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iv-nala",
+        "lore/overwhere-iv-brookside-four",
+      ],
+    },
   ],
 } as const satisfies Lore
