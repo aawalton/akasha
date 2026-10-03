@@ -148,5 +148,9 @@ export const overwhereIiiNala22 = {
       fact: "By day eleven's first light the wolf bites on Nala are only pink marks.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
+    {
+      fact: "Nala reached Level 3 killing two kiln jackalopes with a braid: [You've reached Level 3.]",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+    },
   ],
 } as const satisfies Lore
