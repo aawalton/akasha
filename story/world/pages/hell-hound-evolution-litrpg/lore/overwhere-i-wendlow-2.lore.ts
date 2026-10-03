@@ -24,5 +24,9 @@ export const overwhereIWendlow2 = {
       fact: "For a focus Grete names Ilse Varrow, whose shop is the blue door on Glass Street.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "From Antler Hall, each of these lies within a quarter hour's walk.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
