@@ -1,16 +1,16 @@
 import type { StoryChapterWritten } from "akasha/story/world/stories/written/chapters/story-chapter-written.page-type.types.ts"
 
-export const hollowmere0028 = {
+export const hollowmere0028ImSayingIt = {
   id: "01a101d6-494e-7a52-acca-1f6439939af1",
   type: "page-type/story-chapter-written",
-  slug: "hollowmere-0028",
+  slug: "hollowmere-0028-im-saying-it",
   position: 28,
   unit: "unit/words",
-  title: "Chapter 28",
+  title: "I'm Saying It",
   story: "story-written/hollowmere",
-  ownLength: 0,
+  ownLength: 3997,
   prose: "txt",
-  stepStatus: "step-status/writer",
+  stepStatus: "step-status/reviewers",
   beats: [
     "Sunday of week four: you wake stiff from the fell, your calves aching, Bea asleep across your legs.",
     'You ease out from under her; she mumbles "Rock. Go. Say hi to Shiv," and is asleep again.',
@@ -72,5 +72,30 @@ export const hollowmere0028 = {
     "You fall asleep face to face, her hand in yours between you, her breathing slow against your mouth.",
     "A day at Hollowmere ends.",
   ],
-  lore: ["lore/hollowmere-bea", "lore/hollowmere-bea-2"],
+  lore: [
+    "lore/hollowmere-amara",
+    "lore/hollowmere-bea",
+    "lore/hollowmere-bea-2",
+    "lore/hollowmere-kit",
+    "lore/hollowmere-kit-2",
+    "lore/hollowmere-lin",
+    "lore/hollowmere-lin-2",
+    "lore/hollowmere-nala",
+    "lore/hollowmere-nala-2",
+    "lore/hollowmere-priya",
+    "lore/hollowmere-shiv",
+    "lore/hollowmere-shiv-2",
+    "lore/hollowmere-yusra",
+    "lore/hollowmere-yusra-2",
+  ],
+  characters: [
+    "character-player/hollowmere-nala",
+    "character-other/hollowmere-bea",
+    "character-other/hollowmere-shiv",
+    "character-other/hollowmere-priya",
+    "character-other/hollowmere-lin",
+    "character-other/hollowmere-kit",
+    "character-other/hollowmere-amara",
+    "character-other/hollowmere-yusra",
+  ],
 } as const satisfies StoryChapterWritten
