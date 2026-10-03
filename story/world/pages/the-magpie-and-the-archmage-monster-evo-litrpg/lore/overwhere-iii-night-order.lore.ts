@@ -50,7 +50,7 @@ export const overwhereIiiNightOrder = {
     },
     {
       fact: "Some whisper that mages make monsters corrupt on purpose.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-marda-hesk"],
     },
     {
       fact: "Corrupted monsters leave blightstones, dark stones that rot the ground near them.",
