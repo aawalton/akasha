@@ -22,7 +22,7 @@ export const overwhereIiiCurrentKnot = {
     },
     {
       fact: "A knot costs none of her own mana; the currents are raw, not lent into a weave.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
     {
       fact: "A knot tied on a mage's shield tears the shield's weave apart as it bursts.",
