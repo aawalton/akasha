@@ -65,7 +65,7 @@ export const overwhereIiMaudAshby = {
     },
     {
       fact: "Maud holds raw Sea-Water a peril to carry: sealed, kept far from wells, stock and children.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Maud knows of no one who wades a tidepool unharmed; any who drink or bathe in it are Warped.",
