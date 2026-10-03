@@ -25,6 +25,8 @@ export const writer = {
         "A played story's prose is its turns before this one whose status is player.",
         "A written story's prose is its chapters before this one.",
         "Hold to every limit the mechanics in the story's folder set on a scene.",
+        "A character's sketch is understanding to write from, not a list to show.",
+        "A trait turns up only where the moment calls for it.",
       ],
     },
     {
