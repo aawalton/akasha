@@ -167,5 +167,21 @@ export const hollowmereAcademy2 = {
         "character-other/hollowmere-penhallow",
       ],
     },
+    {
+      fact: "In week four practical casting adds a ward: a faint shell drawn round a candle flame to still it.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/hollowmere-yusra",
+        "character-other/hollowmere-penhallow",
+      ],
+    },
+    {
+      fact: "The novice fours race each house's crew on the mere on week five's Saturday, the Fell Cup.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/hollowmere-bea",
+        "character-other/hollowmere-morwenna",
+      ],
+    },
   ],
 } as const satisfies Lore
