@@ -236,5 +236,9 @@ export const overwhereIWendlow2 = {
       fact: "Crow's crossbow is worth 300 copper; Wil is eager for it, saying its crank and lath are city work.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Wil sees the levy stamp on Voss's sword, then Nala's antler badge, and asks nothing more.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
