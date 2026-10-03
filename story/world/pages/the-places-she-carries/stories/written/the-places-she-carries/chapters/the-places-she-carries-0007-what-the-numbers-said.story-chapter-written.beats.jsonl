@@ -1,0 +1,70 @@
+{"beat":1,"event":"On Day 5 Wren wakes to the basin thrush calling in fours: check the sky.","at":"2026-08-05T05:45:00.000Z","place":"place/the-places-she-carries-therons-camp","present":["character-player/the-places-she-carries-wren"]}
+{"beat":2,"event":"A soft grey cloud ceiling has moved in; the air smells mineral, of the plateau."}
+{"beat":3,"event":"It is the high wind the Shelf relayed on Day 3, two days reaching the basin floor."}
+{"beat":4,"event":"Theron is at the rebuilt fire; they drink tea without speaking.","at":"2026-08-05T06:00:00.000Z","arrive":["character-other/the-places-she-carries-theron"]}
+{"beat":5,"event":"He looks north-east, toward the ruins: 'The east structure. Hadley's slab.'"}
+{"beat":6,"event":"A ghost elm grew its lateral roots to catch the slab when it fell, forty or fifty years ago."}
+{"beat":7,"event":"'We should see it properly.' 'Yes. After Maret.'"}
+{"beat":8,"event":"Hadley comes out for flatcakes with a full theory of root geometry in the ruins.","at":"2026-08-05T06:45:00.000Z","arrive":["character-other/the-places-she-carries-hadley"]}
+{"beat":9,"event":"Maret will arrive by midday; Hadley agrees not to narrate his root theory at her."}
+{"beat":10,"event":"In cloud-light the ruins flatten and look older; the shimmer is softer.","at":"2026-08-05T08:00:00.000Z","place":"place/the-places-she-carries-varethen","leave":["character-other/the-places-she-carries-theron"]}
+{"beat":11,"event":"At the east structure a fallen roof slab shelters a space two people long."}
+{"beat":12,"event":"Three ghost-elm roots brace it from below, root and stone worn to each other."}
+{"beat":13,"event":"Under the slab it is dry, the soil finer and warmer: seed storage, as Theron said."}
+{"beat":14,"event":"A discovery: the east structure still does what it was built to do. +45 XP.","changes":[{"page":"metric-character-experience/the-places-she-carries-wren","key":"value","from":860,"to":905,"note":"Discovery: east structure seed storage kept dry by ghost-elm roots"}]}
+{"beat":15,"event":"She finds Hadley standing very still at the prayer-notch in the north wall."}
+{"beat":16,"event":"A small pale plant grows in the dark cut: like a cave-pearl fern, a cave plant."}
+{"beat":17,"event":"'The Rimfolk builder left that cut for the land's memory, and the land used it.'"}
+{"beat":18,"event":"Hadley realizes he spent three seasons gathering in someone's home without knowing."}
+{"beat":19,"event":"'You pay attention, knowing someone else paid attention here first.' He starts to draw."}
+{"beat":20,"event":"She rests her hand on the warm wall beside the notch and closes her eyes."}
+{"beat":21,"event":"The notch holds intention layered through generations of tenants."}
+{"beat":22,"event":"[Lay the Path] opens a second time in this place, more specific."}
+{"beat":23,"event":"The bond seats as recognition: a place seen across generations, seen again."}
+{"beat":24,"event":"BOND FORMED: Prayer-Notch, Glimpsed, trait [Tended], cluster node 2; +75 XP.","changes":[{"page":"metric-character-experience/the-places-she-carries-wren","key":"value","from":905,"to":980,"note":"Sympathetic Bond formed: Varethen prayer-notch, cluster node 2"}]}
+{"beat":25,"event":"Four bonds make six connections; the network grows like a ghost-elm grove."}
+{"beat":26,"event":"Hadley is still drawing; she does not tell him."}
+{"beat":27,"event":"He leaves at first light tomorrow for Millhaven, back in four days; she will write a letter."}
+{"beat":28,"event":"At midday Maret steps out of the treeline from the east into the camp.","at":"2026-08-05T12:00:00.000Z","place":"place/the-places-she-carries-therons-camp","arrive":["character-other/the-places-she-carries-theron","character-other/the-places-she-carries-maret"]}
+{"beat":29,"event":"She is in her sixties, grey-white hair bound back, her face weathered in layers."}
+{"beat":30,"event":"She looks at Wren like someone filing, takes Theron's tea, and sits at the south stone."}
+{"beat":31,"event":"No one speaks; Theron stops Hadley with a look."}
+{"beat":32,"event":"Wren drinks her tea and lets the fire speak."}
+{"beat":33,"event":"After a long while: 'You hear them, don't you. The places.'"}
+{"beat":34,"event":"'They don't talk. They relay what they're feeling.' 'That's what she did.'"}
+{"beat":35,"event":"Maret tells of the Rootmother, who bonded places, and the places remembered her."}
+{"beat":36,"event":"Her grandmother's grandmother felt it at the pool on a seventeenth night, the last time."}
+{"beat":37,"event":"'And now you're here.' 'And now I'm here.'"}
+{"beat":38,"event":"Maret names the settlement: Varethen, the place that watches the road."}
+{"beat":39,"event":"'The road is gone. But Varethen is still there?' 'It's there.' 'Good.'"}
+{"beat":40,"event":"After dinner Wren writes a short letter by firelight: four places, all well.","at":"2026-08-05T20:00:00.000Z"}
+{"beat":41,"event":"She sets it by Hadley's pack and writes in her journal: Day 5, 13 remain."}
+{"beat":42,"event":"She wonders whether a place outlives its purpose, or its purpose sleeps in it."}
+{"beat":43,"event":"Hadley leaves at first light with both letters, before the thrush calls.","at":"2026-08-06T05:30:00.000Z","leave":["character-other/the-places-she-carries-hadley"]}
+{"beat":44,"event":"The camp is quieter; Maret sits at the fire with Theron, taking only the space she needs."}
+{"beat":45,"event":"Wren is at the east structure when Theron finds her.","at":"2026-08-06T09:00:00.000Z","place":"place/the-places-she-carries-varethen","leave":["character-other/the-places-she-carries-maret"]}
+{"beat":46,"event":"'My father built here.' He was born in Varethen; they left when he was three."}
+{"beat":47,"event":"His father never came back: nothing left to come back to. 'He was wrong.'"}
+{"beat":48,"event":"'He was wrong,' Theron agrees, and walks north toward camp.","leave":["character-other/the-places-she-carries-theron"]}
+{"beat":49,"event":"She stays; the threshold stone was warm the whole time his father stayed away."}
+{"beat":50,"event":"The sweetness is thinner here: the corruption cannot claim what is still occupied."}
+{"beat":51,"event":"She thinks: I am occupying it. Not possessing; a tenancy the stone knows."}
+{"beat":52,"event":"On the third day of Hadley's absence, Maret sits beside Wren at the camp's edge.","at":"2026-08-08T08:00:00.000Z","place":"place/the-places-she-carries-therons-camp","arrive":["character-other/the-places-she-carries-maret"]}
+{"beat":53,"event":"'Hadley will bring a name back from Millhaven.'"}
+{"beat":54,"event":"Someone young and restless has been asking about Wren at the supply post."}
+{"beat":55,"event":"Brecca Vane, Aldric's niece, from Thorngate six months ago, has not found her class."}
+{"beat":56,"event":"'She will come south. Names travel faster than feet.' Maret walks back to the fire.","leave":["character-other/the-places-she-carries-maret"]}
+{"beat":57,"event":"Wren feels the ghost of a feeling from a girl she has never met, forty miles away."}
+{"beat":58,"event":"Hadley returns on the fourth day, late afternoon, with two extra packs.","at":"2026-08-09T16:30:00.000Z","arrive":["character-other/the-places-she-carries-hadley"]}
+{"beat":59,"event":"He hands Wren a letter from her mother.","arrive":["character-other/the-places-she-carries-theron","character-other/the-places-she-carries-maret"]}
+{"beat":60,"event":"By the fire she reads Sera's cramped hand while Hadley recounts Millhaven's news.","at":"2026-08-09T20:00:00.000Z"}
+{"beat":61,"event":"Her father has reread her first letter four times and studies his old basin notes."}
+{"beat":62,"event":"Brecca has asked about her twice; she has the look of someone making a decision."}
+{"beat":63,"event":"'Come home before first frost. That was the promise.'"}
+{"beat":64,"event":"She counts: Day 9, nine days left in the cycle. She writes it in the margin."}
+{"beat":65,"event":"The falling numbers are a temporal map, like her father's river levels."}
+{"beat":66,"event":"Maret asks if she is afraid. 'I don't know its shape yet.'"}
+{"beat":67,"event":"'Fear without a shape is useful. It keeps you paying attention.'"}
+{"beat":68,"event":"Wren writes that down as a field note and closes the journal."}
+{"beat":69,"event":"She feels all four places through the network, six connections running in pairs."}
+{"beat":70,"event":"She sleeps with four places and a name, the forest's tremor closer to weeping.","at":"2026-08-09T22:00:00.000Z","leave":["character-other/the-places-she-carries-theron","character-other/the-places-she-carries-hadley","character-other/the-places-she-carries-maret"]}
