@@ -41,5 +41,9 @@ export const overwhereITheSystem2 = {
       fact: "Wounds dressed, health returns about 2 an hour awake and 5 an hour asleep.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Nala giving her name aloud does not change what Analyze shows; it still reads Name ???.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
