@@ -8,9 +8,9 @@ export const hollowmere0031DrawWell = {
   unit: "unit/words",
   title: "Draw Well",
   story: "story-written/hollowmere",
-  ownLength: 3565,
+  ownLength: 3660,
   prose: "txt",
-  stepStatus: "step-status/writer",
+  stepStatus: "step-status/recorders",
   beats: [
     "Wednesday of week five: a hard bright frost; the quad white, the mere steaming in the low sun.",
     "Bea runs the shore and comes back pink, and eats porridge with her hand on your knee.",
