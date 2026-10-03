@@ -10,6 +10,7 @@ export const otherwhereV0001FirstNightInFernHollow = {
   story: "story-played/otherwhere-v",
   ownLength: 2603,
   prose: "txt",
+  beats: "jsonl",
   turnCovers: [
     {
       position: 1,
