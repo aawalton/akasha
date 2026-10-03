@@ -194,7 +194,7 @@ export const overwhereIiCallowBeck = {
     },
     {
       fact: "Hawise takes the first watch by the longhouse fire without being asked.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Nothing comes down to Callow Beck on the night of day twenty-seven; the bank holds till dawn.",
