@@ -1,16 +1,16 @@
-{"beat":1,"event":"Nala takes an ash practice spear from the rack, its head capped in blunt leather."}
+{"beat":1,"event":"Nala takes an ash practice spear from the rack, its head capped in blunt leather.","at":"2026-10-22T06:25:00.000Z","place":"place/overwhere-ii-varrow-keep","present":["character-player/overwhere-ii-nala"]}
 {"beat":2,"event":"She sets her feet across from Osric, the spear's point level with his chest."}
-{"beat":3,"event":"Osric comes in roaring, the maul high, then crashing down overhead."}
+{"beat":3,"event":"Osric comes in roaring, the maul high, then crashing down overhead.","memory":[{"page":"lore/overwhere-ii-varrow-talented","fact":"Heft makes what Osric lifts or swings feel light to him; he fights with an iron-shod maul.","shown":true}]}
 {"beat":4,"event":"Nala gives ground and keeps the point in his face. He swats it aside and comes on."}
 {"beat":5,"event":"A sweeping blow, fast for its weight. She slips back, a hand's breadth ahead of it."}
-{"beat":6,"event":"After each sweep his left flank hangs open for a heartbeat."}
+{"beat":6,"event":"After each sweep his left flank hangs open for a heartbeat.","memory":[{"page":"lore/overwhere-ii-varrow-talented","fact":"Osric fights in overhead and sweeping blows, fast for their weight, and leaves his flank open after.","learns":"character-player/overwhere-ii-nala"},{"page":"lore/overwhere-ii-varrow-talented","fact":"Osric fights in overhead and sweeping blows, fast for their weight, and leaves his flank open after.","shown":true}]}
 {"beat":7,"event":"She waits for the next sweep, then steps in under it."}
-{"beat":8,"event":"Her blunt point drives hard into his ribs: a clean touch."}
-{"beat":9,"event":"The maul's tail end still catches her side as it comes round, a dull, heavy thud."}
-{"beat":10,"event":"Her refined ribs take it. The ache spreads, then settles to a bruise."}
+{"beat":8,"event":"Her blunt point drives hard into his ribs: a clean touch.","memory":[{"page":"lore/overwhere-ii-varrow-talented","fact":"In Nala's first bout, her blunt spear touched Osric clean in the ribs; his maul caught her after.","learns":"character-player/overwhere-ii-nala"},{"page":"lore/overwhere-ii-varrow-talented","fact":"In Nala's first bout, her blunt spear touched Osric clean in the ribs; his maul caught her after.","shown":true}]}
+{"beat":9,"event":"The maul's tail end still catches her side as it comes round, a dull, heavy thud.","changes":[{"page":"metric-character-health/overwhere-ii-nala","key":"value","from":35,"to":34,"note":"Osric's maul tail catches her side as it comes round"}]}
+{"beat":10,"event":"Her refined ribs take it. The ache spreads, then settles to a bruise.","memory":[{"page":"lore/overwhere-ii-nala-3","fact":"Nala's refined ribs took a glancing blow of Osric's wooden maul, leaving only a bruise.","learns":"character-player/overwhere-ii-nala"},{"page":"lore/overwhere-ii-nala-3","fact":"Nala's refined ribs took a glancing blow of Osric's wooden maul, leaving only a bruise.","shown":true}]}
 {"beat":11,"event":"Osric staggers back, rubbing his ribs, and laughs like a bell."}
 {"beat":12,"event":"Osric: \"Ha! She keeps you on the end of that stick like a boar.\""}
-{"beat":13,"event":"Hawise: \"Clean touch. He caught you after it. Against a blade, that's your liver.\""}
+{"beat":13,"event":"Hawise: \"Clean touch. He caught you after it. Against a blade, that's your liver.\"","memory":[{"page":"lore/overwhere-ii-varrow-talented","fact":"A practice bout ends at a clean touch to head or body, or when Hawise calls it.","learns":"character-player/overwhere-ii-nala"},{"page":"lore/overwhere-ii-varrow-talented","fact":"A practice bout ends at a clean touch to head or body, or when Hawise calls it.","shown":true}]}
 {"beat":14,"event":"Corra stops snapping sparks and watches Nala with narrowed eyes."}
-{"beat":15,"event":"Hawise takes two wooden short blades from the rack and steps into the court."}
+{"beat":15,"event":"Hawise takes two wooden short blades from the rack and steps into the court.","memory":[{"page":"lore/overwhere-ii-varrow-talented","fact":"Hawise fights with two short blades, and speaks little, and that little blunt.","learns":"character-player/overwhere-ii-nala"},{"page":"lore/overwhere-ii-varrow-talented","fact":"Hawise fights with two short blades, and speaks little, and that little blunt.","shown":true}]}
 {"beat":16,"event":"Hawise: \"My turn. Talents now, held light.\""}

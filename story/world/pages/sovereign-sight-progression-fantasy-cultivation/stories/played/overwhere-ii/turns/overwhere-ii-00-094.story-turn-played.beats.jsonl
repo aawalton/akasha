@@ -1,14 +1,14 @@
-{"beat":1,"event":"Nala sets the ash spear low and gives ground, as she did against Dray, waiting."}
+{"beat":1,"event":"Nala sets the ash spear low and gives ground, as she did against Dray, waiting.","at":"2026-10-22T06:40:00.000Z","place":"place/overwhere-ii-varrow-keep","present":["character-player/overwhere-ii-nala"]}
 {"beat":2,"event":"Hawise circles, blades loose, eyes on Nala's feet."}
-{"beat":3,"event":"Nala reaches out with her sense: frost on the flags, rain in the hollows, the trough, the well."}
+{"beat":3,"event":"Nala reaches out with her sense: frost on the flags, rain in the hollows, the trough, the well.","memory":[{"page":"lore/overwhere-ii-varrow-talented","fact":"The Lady's rule leaves free the water in the court: frost, puddles, the well, the trough.","learns":"character-player/overwhere-ii-nala"},{"page":"lore/overwhere-ii-varrow-talented","fact":"The Lady's rule leaves free the water in the court: frost, puddles, the well, the trough.","shown":true}]}
 {"beat":4,"event":"Hawise feints left, then right. Nala's point follows each, steady."}
-{"beat":5,"event":"Then Hawise blurs. Twice as fast as a woman can move."}
+{"beat":5,"event":"Then Hawise blurs. Twice as fast as a woman can move.","memory":[{"page":"lore/overwhere-ii-varrow-talented","fact":"For a few breaths Hawise can blur to twice the speed a common fighter moves.","learns":"character-player/overwhere-ii-nala"},{"page":"lore/overwhere-ii-varrow-talented","fact":"For a few breaths Hawise can blur to twice the speed a common fighter moves.","shown":true}]}
 {"beat":6,"event":"Nala's spear swings to meet her, a heartbeat late."}
 {"beat":7,"event":"One wooden blade knocks the shaft wide. The other is already under her guard."}
-{"beat":8,"event":"It drives into her ribs, on the bruise Osric left. A clean touch."}
-{"beat":9,"event":"Hawise steps back, and for a dozen heartbeats she moves like anyone else, breathing hard."}
+{"beat":8,"event":"It drives into her ribs, on the bruise Osric left. A clean touch.","changes":[{"page":"metric-character-health/overwhere-ii-nala","key":"value","from":34,"to":33,"note":"Hawise's blade under her guard, on the bruise Osric left"}],"memory":[{"page":"lore/overwhere-ii-varrow-talented","fact":"In Nala's second bout, Hawise blurred past her spear and touched her clean in the ribs.","learns":"character-player/overwhere-ii-nala"},{"page":"lore/overwhere-ii-varrow-talented","fact":"In Nala's second bout, Hawise blurred past her spear and touched her clean in the ribs.","shown":true}]}
+{"beat":9,"event":"Hawise steps back, and for a dozen heartbeats she moves like anyone else, breathing hard.","memory":[{"page":"lore/overwhere-ii-varrow-talented","fact":"Hawise's Quickstep lasts three or four breaths, then she needs a dozen heartbeats before the next.","learns":"character-player/overwhere-ii-nala"},{"page":"lore/overwhere-ii-varrow-talented","fact":"Hawise's Quickstep lasts three or four breaths, then she needs a dozen heartbeats before the next.","shown":true}]}
 {"beat":10,"event":"Hawise: \"You were waiting for a moment. I don't give one.\""}
-{"beat":11,"event":"Hawise: \"Three, four breaths fast. Then I'm slow a while. You saw that?\""}
+{"beat":11,"event":"Hawise: \"Three, four breaths fast. Then I'm slow a while. You saw that?\"","memory":[{"page":"lore/overwhere-ii-varrow-talented","fact":"Hawise's Talent is Quickstep, Minor, at First Depth: for a few breaths she moves twice as fast.","shown":true}]}
 {"beat":12,"event":"Osric whoops from the rack. Corra hides a smile behind her hand."}
 {"beat":13,"event":"Hawise taps her blades together and drops back into her stance."}
 {"beat":14,"event":"Hawise: \"Again.\""}

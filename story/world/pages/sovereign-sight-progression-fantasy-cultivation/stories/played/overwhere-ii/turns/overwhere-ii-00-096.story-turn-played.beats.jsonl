@@ -1,17 +1,17 @@
-{"beat":1,"event":"Corra takes a wooden sword from the rack and comes in low and close."}
+{"beat":1,"event":"Corra takes a wooden sword from the rack and comes in low and close.","at":"2026-10-22T07:00:00.000Z","place":"place/overwhere-ii-varrow-keep","present":["character-player/overwhere-ii-nala"]}
 {"beat":2,"event":"Nala meets her with the spear's point high, low, high, driving her back toward the well."}
-{"beat":3,"event":"Corra flicks a dipper of trough water across the flags between them. The stones go dark and wet."}
+{"beat":3,"event":"Corra flicks a dipper of trough water across the flags between them. The stones go dark and wet.","memory":[{"page":"lore/overwhere-ii-varrow-talented","fact":"Corra knows sparks run along water, and will wet the ground near Nala to use it if she can.","learns":"character-player/overwhere-ii-nala"},{"page":"lore/overwhere-ii-varrow-talented","fact":"Corra knows sparks run along water, and will wet the ground near Nala to use it if she can.","shown":true}]}
 {"beat":4,"event":"Nala shoves off the wet flags and slides half a step aside."}
-{"beat":5,"event":"A blue spark snaps along the wet stone after her and stings her heel."}
+{"beat":5,"event":"A blue spark snaps along the wet stone after her and stings her heel.","memory":[{"page":"lore/overwhere-ii-varrow-talented","fact":"A spark runs along water: wet flags, a soaked shaft, or a tide of Water touching Corra.","learns":"character-player/overwhere-ii-nala"},{"page":"lore/overwhere-ii-varrow-talented","fact":"A spark runs along water: wet flags, a soaked shaft, or a tide of Water touching Corra.","shown":true}]}
 {"beat":6,"event":"Nala's tide shoves at Corra's chest, a cold slap."}
 {"beat":7,"event":"Corra's fingers are sparking as it lands."}
-{"beat":8,"event":"The spark runs back up the tide like fire up a fuse, into Nala's palm."}
+{"beat":8,"event":"The spark runs back up the tide like fire up a fuse, into Nala's palm.","changes":[{"page":"overwhere-ii-reservoir/overwhere-ii-nala","key":"value","from":992,"to":986,"note":"Her pushes, and the spark's bite, spend her well"}],"memory":[{"page":"lore/overwhere-ii-varrow-talented","fact":"If Nala's push touches Corra as she sparks, the spark runs back up the tide and numbs Nala's hand.","learns":"character-player/overwhere-ii-nala"},{"page":"lore/overwhere-ii-varrow-talented","fact":"If Nala's push touches Corra as she sparks, the spark runs back up the tide and numbs Nala's hand.","shown":true},{"page":"lore/overwhere-ii-varrow-talented","fact":"Corra's spark leaps a hand's breadth from her fingertips, or runs through whatever she touches.","shown":true}]}
 {"beat":9,"event":"Her right hand goes numb to the wrist. The spear's shaft drops loose in her grip."}
-{"beat":10,"event":"Behind her eyes the tight ache throbs. Her next push slips and comes out a splash."}
+{"beat":10,"event":"Behind her eyes the tight ache throbs. Her next push slips and comes out a splash.","memory":[{"page":"lore/overwhere-ii-varrow-talented","fact":"After the Hawise bout, Nala's mind holds only a few more fine pushes before they start to slip.","learns":"character-player/overwhere-ii-nala"},{"page":"lore/overwhere-ii-varrow-talented","fact":"After the Hawise bout, Nala's mind holds only a few more fine pushes before they start to slip.","shown":true}]}
 {"beat":11,"event":"Corra darts in under the sagging point and raps her wooden blade against Nala's ribs."}
-{"beat":12,"event":"A clean touch, on the same bruise."}
+{"beat":12,"event":"A clean touch, on the same bruise.","changes":[{"page":"metric-character-health/overwhere-ii-nala","key":"value","from":33,"to":32,"note":"Corra's wooden blade raps the same bruise"}],"memory":[{"page":"lore/overwhere-ii-varrow-talented","fact":"In Nala's fourth bout, Corra's spark ran up her tide, numbed her hand, and Corra touched her ribs.","learns":"character-player/overwhere-ii-nala"},{"page":"lore/overwhere-ii-varrow-talented","fact":"In Nala's fourth bout, Corra's spark ran up her tide, numbed her hand, and Corra touched her ribs.","shown":true}]}
 {"beat":13,"event":"Corra steps back, grinning, sparks dancing on her knuckles."}
-{"beat":14,"event":"Corra: \"Water carries, free blade.\""}
+{"beat":14,"event":"Corra: \"Water carries, free blade.\"","memory":[{"page":"lore/overwhere-ii-varrow-talented","fact":"Corra spars with a wooden sword, weakest of the three with a blade; she relies on getting close.","learns":"character-player/overwhere-ii-nala"},{"page":"lore/overwhere-ii-varrow-talented","fact":"Corra spars with a wooden sword, weakest of the three with a blade; she relies on getting close.","shown":true}]}
 {"beat":15,"event":"Osric roars with laughter. Hawise's mouth twitches."}
 {"beat":16,"event":"Feeling creeps back into Nala's hand, pins and needles to the fingertips."}
 {"beat":17,"event":"Hawise: \"Your head's spent, and she knew your trick before you used it.\""}
