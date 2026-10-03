@@ -178,7 +178,7 @@ export const overwhereIiCallowBeck = {
     },
     {
       fact: "Holding the slick back while Hawise builds is plain work for Nala, steady as towing.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "The bank holds; with the pool's trickle behind it, the slick will top it in about three weeks.",
