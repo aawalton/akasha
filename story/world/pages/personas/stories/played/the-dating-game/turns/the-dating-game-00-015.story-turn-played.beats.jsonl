@@ -1,8 +1,9 @@
 {"beat":1,"event":"Alan: \"You think you could do it? I'd love a partner on this.\""}
 {"beat":2,"event":"\"Can you make a voice after reading the text without hearing it first?\""}
 {"beat":3,"event":"Echo's squint melts into a slow, pleased smile."}
-{"beat":4,"event":"\"I'd love a partner on this,\" she gives back, meaning it, though her eyes stay a touch careful."}
+{"beat":4,"event":"\"I'd love a partner on this,\" she gives back, meaning it, though her eyes stay a touch careful.","changes":[{"page":"world-relationship/the-dating-game-echo","key":"relationshipPoints","from":22,"to":24,"note":"Closeness scoring: acknowledgment and intimacy 1 each"}]}
 {"beat":5,"event":"She nods at the rest, sure of herself, as easy as a craftswoman asked if she can use her tools."}
-{"beat":6,"event":"\"Without hearing it first,\" she says, and taps her throat: yes."}
+{"beat":6,"event":"\"Without hearing it first,\" she says, and taps her throat: yes.","memory":[{"page":"lore/the-dating-game-echo","fact":"Echo can give a character a voice from the page alone, without hearing it first.","shown":true},{"page":"lore/the-dating-game-echo","fact":"Echo can give a character a voice from the page alone, without hearing it first.","learns":"character-player/the-dating-game-alan"}]}
 {"beat":7,"event":"She holds her open palm out to him, flat, and lifts her eyebrows."}
-{"beat":8,"event":"\"Reading the text,\" she says, her palm still open between them."}
+{"beat":8,"event":"\"Reading the text,\" she says, her palm still open between them.","at":"2026-09-26T09:59:00.000Z"}
+

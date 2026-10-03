@@ -1,17 +1,18 @@
 {"beat":1,"event":"Alan sits in the chair at the control desk."}
-{"beat":2,"event":"Alan: \"Okay, you tell me what to do, I'm yours for as long as you want me.\""}
+{"beat":2,"event":"Alan: \"Okay, you tell me what to do, I'm yours for as long as you want me.\"","memory":[{"page":"lore/the-dating-game-alan","fact":"Alan told Echo he's hers for as long as she wants him.","shown":true},{"page":"lore/the-dating-game-alan","fact":"Alan told Echo he's hers for as long as she wants him.","learns":"character-other/the-dating-game-echo"}]}
 {"beat":3,"event":"\"Otherwise, I'll gladly just listen.\""}
-{"beat":4,"event":"Through the glass Echo flushes at the first part and laughs, soundless."}
+{"beat":4,"event":"Through the glass Echo flushes at the first part and laughs, soundless.","changes":[{"page":"world-relationship/the-dating-game-echo","key":"relationshipPoints","from":29,"to":32,"note":"Closeness scoring: validation, acknowledgment and intimacy 1 each"}]}
 {"beat":5,"event":"\"Tell me what to do,\" she gives back, amused, and takes him at his word."}
 {"beat":6,"event":"She points him to the headphones on the desk, then mimes putting them on."}
 {"beat":7,"event":"She points to a red button on the desk; he presses it as told, and its light glows red."}
 {"beat":8,"event":"In the booth she looks down at the open book, and for the first time sees it properly."}
-{"beat":9,"event":"It is his one-of-a-kind edition, leather-bound, the gold leaf catching the booth light."}
+{"beat":9,"event":"It is his one-of-a-kind edition, leather-bound, the gold leaf catching the booth light.","memory":[{"page":"lore/the-dating-game-alan","fact":"Alan owns a one-of-a-kind Wandering Inn he made himself, leather-bound with gold leaf.","shown":true},{"page":"lore/the-dating-game-alan","fact":"Alan owns a one-of-a-kind Wandering Inn he made himself, leather-bound with gold leaf.","learns":"character-other/the-dating-game-echo"}]}
 {"beat":10,"event":"She runs a fingertip along the gold, then looks up at him through the glass, wonder plain."}
 {"beat":11,"event":"She smooths the first page again, leans to the microphone, and her narrator's voice fills his ears."}
-{"beat":12,"event":"\"The inn was dark and empty when the traveller arrived.\""}
+{"beat":12,"event":"\"The inn was dark and empty when the traveller arrived.\"","memory":[{"page":"lore/the-dating-game-alan","fact":"Echo has begun reading Alan's one-of-a-kind Wandering Inn aloud to him from the booth.","shown":true},{"page":"lore/the-dating-game-alan","fact":"Echo has begun reading Alan's one-of-a-kind Wandering Inn aloud to him from the booth.","learns":"character-player/the-dating-game-alan"}]}
 {"beat":13,"event":"She reads on through the hills and the mountains, unhurried, every word set in its place."}
 {"beat":14,"event":"When the young woman in the story calls out, her voice turns young, scared and breathless:"}
 {"beat":15,"event":"\"Hello? Is…is anyone…?\""}
 {"beat":16,"event":"A little further on, the same voice, small and plaintive: \"I just wanted to go to the bathroom.\""}
-{"beat":17,"event":"She holds her place with one finger and looks up at him through the glass."}
+{"beat":17,"event":"She holds her place with one finger and looks up at him through the glass.","at":"2026-09-26T12:00:00.000Z"}
+
