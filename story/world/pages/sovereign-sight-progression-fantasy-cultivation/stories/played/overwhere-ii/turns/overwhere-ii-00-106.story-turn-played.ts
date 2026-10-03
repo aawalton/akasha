@@ -7,7 +7,8 @@ export const overwhereIi00106 = {
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-ii"],
   position: 106,
-  stepStatus: "step-status/world-builder",
+  stepStatus: "step-status/game-master",
   action:
     "I empty out my leather pouch into another bag and pull the bead into the pouch, to see if it will hold it.",
+  lore: ["place/overwhere-ii-whitecombs"],
 } as const satisfies StoryTurnPlayed
