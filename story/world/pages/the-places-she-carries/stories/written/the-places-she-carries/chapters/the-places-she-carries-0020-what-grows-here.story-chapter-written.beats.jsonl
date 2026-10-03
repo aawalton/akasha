@@ -1,0 +1,55 @@
+{"beat":1,"event":"Day 37: the stone sings its full thirty-second dawn greeting again.","at":"2026-09-06T05:45:00.000Z","place":"place/the-places-she-carries-varethen","present":["character-player/the-places-she-carries-wren","character-other/the-places-she-carries-theron","character-other/the-places-she-carries-hadley","character-other/the-places-she-carries-maret","character-other/the-places-she-carries-brecca"]}
+{"beat":2,"event":"The bond network is at rest; the ghost-elms' shimmer reaches past its pre-pulse radius."}
+{"beat":3,"event":"She writes a three-page list of fourteen tasks, enough to fill eighteen days."}
+{"beat":4,"event":"Her mother's letter warns her not to turn being needed into a project; she closes the list."}
+{"beat":5,"event":"At breakfast Hadley says they have ten days of food, fourteen if he forages.","at":"2026-09-06T07:00:00.000Z"}
+{"beat":6,"event":"He plans a two-day ridgeline run to the basin cache; Theron says 'Not alone.'"}
+{"beat":7,"event":"Hadley has walked it alone thirty times; he will leave tomorrow after Maret's planting."}
+{"beat":8,"event":"Maret brought food for three days and has been here five."}
+{"beat":9,"event":"'Plant first. Eat later.' Her grandmother planted during a famine."}
+{"beat":10,"event":"'The ground does not wait for you to be comfortable.' Hadley yields and recalculates."}
+{"beat":11,"event":"At the gap Wren finds the retreated strip: neither grey corrupted soil nor healthy ground.","at":"2026-09-06T09:00:00.000Z"}
+{"beat":12,"event":"Palm on it, she feels the corruption gone but the soil leached, rootless, waiting."}
+{"beat":13,"event":"The strip lies unprotected between the old boundary and the new."}
+{"beat":14,"event":"She journals the strip, about three meters wide: 'The ground is not corrupt. It is empty.'"}
+{"beat":15,"event":"A discovery logs the corruption retreat zone as unclaimed ground: +58 XP, 1999 / 2573.","changes":[{"page":"metric-character-experience/the-places-she-carries-wren","key":"value","from":1941,"to":1999,"note":"Discovery: Varethen corruption retreat zone"}]}
+{"beat":16,"event":"She finds Theron standing still in the drainage channel's southern extension."}
+{"beat":17,"event":"In the newly cleared strip the channel bends east and meets another channel."}
+{"beat":18,"event":"A buried dressed-stone junction box splits the water; the east branch runs into corruption."}
+{"beat":19,"event":"His father cleared the main channel every spring and never came this far: it was in the gap."}
+{"beat":20,"event":"One more degree of retreat might clear the eastern channel entirely."}
+{"beat":21,"event":"His grandmother never mentioned a branch; maybe there was no point knowing of dead ground."}
+{"beat":22,"event":"'We will clear it. When the strip is stable. We will find where it goes.'"}
+{"beat":23,"event":"Brecca is on her fourth pass of the hall; the stone feels steadier, warm like hands.","at":"2026-09-06T11:00:00.000Z"}
+{"beat":24,"event":"At the north wall Brecca presses wet clay into a joint with her full weight."}
+{"beat":25,"event":"Wren asks to try something, and lays Detail Notation on Brecca's fresh joint."}
+{"beat":26,"event":"The mark sinks into a warm, intentional, non-geological signature."}
+{"beat":27,"event":"'You are not repointing. The stone is holding your attention, and keeping it.'"}
+{"beat":28,"event":"'I am pressing clay into joints.' 'Not like this. The stone is listening to you.'"}
+{"beat":29,"event":"Brecca looks at her clay-grey hands; the retaining wall settles around her joints."}
+{"beat":30,"event":"The System assigns Brecca the class [Stonekeeper], with no prior holders on record."}
+{"beat":31,"event":"Her abilities are [Stone Listening] and [Pressed Intention]; she starts at Level 1."}
+{"beat":32,"event":"Brecca reads it twice with shaking hands: 'Stonekeeper. Not Mason.'"}
+{"beat":33,"event":"'The System has never issued it before,' Wren says. 'Like Wayfinder.'"}
+{"beat":34,"event":"Brecca's envy since Millhaven rearranges into recognition."}
+{"beat":35,"event":"'You saw it before the System did.' 'You were listening.' 'I was.'"}
+{"beat":36,"event":"A discovery logs the Stonekeeper manifestation site: +48 XP, 2047 / 2573.","changes":[{"page":"metric-character-experience/the-places-she-carries-wren","key":"value","from":1999,"to":2047,"note":"Discovery: Stonekeeper manifestation site, gathering hall"}]}
+{"beat":37,"event":"Wren does not look at the notification."}
+{"beat":38,"event":"Maret chooses the western margin for the seedpods by pressing her hand to the earth.","at":"2026-09-06T14:00:00.000Z"}
+{"beat":39,"event":"'Why here?' Hadley asks. 'Because the ground said yes.'"}
+{"beat":40,"event":"They plant twelve: a thumb-width hollow, pod point-down, dust and silt, a palm pressed flat."}
+{"beat":41,"event":"Her grandmother's survivors were the ones she talked to. 'I talk to everything.'"}
+{"beat":42,"event":"Brecca plants three, holding each pod a beat longer, her new class settling in her hands."}
+{"beat":43,"event":"At the fire Wren writes a paragraph about Brecca's face, not the list.","at":"2026-09-06T20:00:00.000Z"}
+{"beat":44,"event":"Hadley has counted the chorus: thirty-two hours to return after pulse one, fourteen after two."}
+{"beat":45,"event":"This time the high voices nearest the ghost-elms came back first."}
+{"beat":46,"event":"The boundary insects came back third, not last: the boundary is healthier than the interior."}
+{"beat":47,"event":"'You should write that down.' Hadley smiles: 'I did.'"}
+{"beat":48,"event":"Hadley goes to his bedroll; Brecca sleeps against the hall wall.","at":"2026-09-06T21:30:00.000Z","leave":["character-other/the-places-she-carries-hadley","character-other/the-places-she-carries-brecca"]}
+{"beat":49,"event":"Maret counts notches by touch; Theron stands at the tree line looking south."}
+{"beat":50,"event":"Wren rereads her Day 28 letter to her mother: all people, not one number."}
+{"beat":51,"event":"She will give the letter to Hadley before his supply run."}
+{"beat":52,"event":"She journals the full dawn song, the strip waiting for someone to plant, the junction."}
+{"beat":53,"event":"She writes that Brecca is a Stonekeeper, and of the seedpods and Hadley's pattern."}
+{"beat":54,"event":"She writes that she closed the fourteen-item list: some things just need someone to show up."}
+{"beat":55,"event":"The chorus is full again. 'Two tomorrow.' She closes the journal without planning."}
