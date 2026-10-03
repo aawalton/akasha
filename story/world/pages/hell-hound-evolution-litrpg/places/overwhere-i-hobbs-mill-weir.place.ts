@@ -287,5 +287,9 @@ export const overwhereIHobbsMillWeir = {
       fact: "Nala's spikes passed a hand's breadth from the wyrm's bile sac; it lies whole under the liver.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "A fast water disc takes the dead wyrm's thick neck through in about a minute; an easy act.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Place
