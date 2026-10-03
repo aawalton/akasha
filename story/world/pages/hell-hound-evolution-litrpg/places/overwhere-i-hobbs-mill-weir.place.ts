@@ -71,5 +71,9 @@ export const overwhereIHobbsMillWeir = {
       fact: "The wyrm's back scales are a 2-point ward; its pale belly and throat have none.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "The wyrm sees poorly above water but feels footfalls on the bank within 30 yards of the pool.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Place
