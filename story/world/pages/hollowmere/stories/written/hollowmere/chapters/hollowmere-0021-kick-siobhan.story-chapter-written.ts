@@ -8,9 +8,9 @@ export const hollowmere0021KickSiobhan = {
   unit: "unit/words",
   title: "Kick, Siobhan",
   story: "story-written/hollowmere",
-  ownLength: 2724,
+  ownLength: 2735,
   prose: "txt",
-  stepStatus: "step-status/writer",
+  stepStatus: "step-status/recorders",
   beats: [
     "Sunday: you wake before dawn in Bea's bed in 15, her bare arm over you, her face in your hair.",
     'You ease out from under her arm; she stirs. "Rock?" she mumbles. "Sunday. Go on. Shiv\'s waiting."',
