@@ -235,5 +235,9 @@ export const overwhereIHobbsMillWeir = {
       fact: "A wyrm's strike at someone within 3 yards is a heavy bite; it lunges 3 yards in a heartbeat.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Once it has lost half its health or more, the wyrm counts as badly hurt and flees.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Place
