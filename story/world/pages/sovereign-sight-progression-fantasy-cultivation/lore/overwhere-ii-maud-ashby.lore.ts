@@ -29,7 +29,7 @@ export const overwhereIiMaudAshby = {
     },
     {
       fact: "Sounding also feels how far a body is refined, bone by bone and organ by organ.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "On the night of day twenty-eight Maud lodges at the Threll shrine, on Anselm's cot, awake late.",
