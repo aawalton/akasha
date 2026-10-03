@@ -1,0 +1,255 @@
+“First things first. You never got my full details.”
+
+Victoria Ramírez Méndez
+
+Level: 14. Progress to next level 13%
+
+Classes: Mage
+
+Path: Path of Mental Power
+
+Quirks: Immediacy Denied, Tier 3. Time Will Tell, Tier 2.
+
+Traits: Starved Growth (Temporary)
+
+Health: 150/150
+
+Stamina: 150/150
+
+Mana: 170/170
+
+Health regeneration: 1,4 health/hour
+
+Mana regeneration: 520 mana/hour
+
+Stamina regeneration: 28,5 stamina/hour
+
+Attributes:
+
+Strength: 13 (15)
+
+Agility: 12 (14)
+
+Dexterity: 9 (11)
+
+Fortitude: 13 (15)
+
+Perception: 11 (13)
+
+Mental Power: 15 (17)
+
+Mental Control: 15 (17)
+
+5 attribute points available
+
+I whistled. “Somebody’s been working out. And you’ve even got five free attribute points.”
+
+She grinned and flexed. “Perks of owning a gym, eh?”
+
+“So… Path of Mental Power… but you’re raising both Mental Power and Mental Control equally?”
+
+“Ahuevo. The way I see it, I can’t just end a fight in a second like Steve with his ninja attacks or you with those reflection things. I’ve gotta be built for the long run. Able to keep it going for a while, regenerate a lot of mana. But… that might change now.” She grinned.
+
+“All right then. Lay it on us. What do you have and what are the current good offers?”
+
+Tier 1:
+
+Selective Detriment
+
+Active Talent. Select an attribute and target area before activation. This talent, when activated, will affect a ten-meter circle around that area. Enemies within the circle will see said attributes temporarily reduced over time.
+
+Reduction: -1 to selected attribute/30 seconds. Maximum -10. More targets reduce the effect.
+
+Can be applied as a passive effect to trap an area for twice the mana.
+
+Cost: 25 mana.
+
+Duration: 5 minutes
+
+(Current total, improved by Time Will Tell quirk: -1,5 to selected attribute/15 seconds)
+
+5/5 points
+
+Tier 2:
+
+Web of Poison
+
+Active Talent. Trap an area. Once triggered, the 1-meter circle expands to a 30-meter wide web, poisoning all within.
+
+Damage: 3 damage/30 seconds. Poison damage is improved by +10% per point in Mental Power over 10. Twenty activations total.
+
+Cost: 25 mana
+
+Current total, improved by Time Will Tell quirk and Mental Power: 7,65 damage/15 seconds. Twenty activations total.
+
+5/5 points
+
+I whistled. “Yeah, I can see that working out nicely. Those two talents are costly, though. Currently, you’d be able to use, what, seven activations?”
+
+“Less, since my debuff costs double when I use it as a trap. I almost did run out during the fight.”
+
+Tier 3:
+
+Ramping up
+
+Passive Talent.
+
+This talent slowly improves your movement speed, gradually improving your chances of survival in and out of combat. Speed improved by 2% per point/minute and also aids your reaction speed. 5 increments maximum.
+
+(Current total, improved by Time Will Tell quirk: +12% speed/30 seconds. +60% speed maximum)
+
+Cost: 20 mana
+
+Duration: 5 minutes
+
+4/5 points
+
+“I love it!” Steve breathed. “You’ll top out at two and a half minutes and stay at maximum speed for the rest of it?”
+
+“Two minutes. The first tick is right away. It does start from scratch every time I activate it, which might be a pain.”
+
+I laughed. “Sure. Still. You’ll be able to run away from almost everything, and still have the mana to poison them on the way!”
+
+“And more.” Victoria beamed. “Tier 3 is where things start to get funny. Well. Not all of them. Some are just plain mierda. Also, the first offensive talent I was offered was a direct talent, that I can’t use. But the other two, apart from Ramping Up are… well, just check them out.”
+
+Tier 3:
+
+Transferal of Energy
+
+Active Talent. Converts your physical energy into mental. Every 10 seconds, converts 10 Stamina into 10 Mana.
+
+(Current total, improved by Time Will Tell quirk: Every 5 seconds, converts 15 Stamina into 15 Mana.)
+
+3 points to unlock
+
+“I’m not totally sold on this one. I’m in great shape, but my Stamina regeneration is kind of crap. It would give me an extra six uses of my talents or so, as long as I stand still-“
+
+“It’s perfect.” I breathed. “You can unlock Stamina Regeneration, and improve your regeneration rate. And we know how to get Higher Endurance that’ll let you refresh your Stamina in full once a day. All told, it’ll give you a much higher Mana and Stamina pool to play with.”
+
+Steve cleared his throat. “Erm. Isn’t that Higher Endurance pretty damn hard to unlock?”
+
+“Pfah. Victoria isn’t afraid of a little work… is she?”
+
+She met my eyes, steely eyes unwavering. A tiny smile played on her lip. “Try me, güero.”
+
+“Okay. Let’s hear the rest first though.” Steve cautioned. “We don’t want to regret our choices.”
+
+“Andale.” She cracked her knuckles. “I like working with you boys.”
+
+Tier 3:
+
+Virtuous Growth
+
+Passive Talent. As long as the caster uses this talent at least once a day, the effects of the talent will keep building, continuously improving the caster’s attributes over time. Not using the talent will reset the timer and the attributes. The talent grants +2 to a random attribute over the following increments: Second/Minute/hour/day/week/month/(once a quarter for the first year)/once every year.
+
+Cost: 100 mana
+
+(Current total, improved by Time Will Tell quirk: +3 to a random attribute for each increment.)
+
+5 points to unlock
+
+Softly, Steve intoned. “Change is the essential process of all existence. That… could lead to an incredible improvement in the long run.
+
+“Long as I remember to activate it, eh? And don’t die.” Victoria chuckled.
+
+“How are you with remembering to take your medicine?” I asked. “This is not a trick question.”
+
+She tapped her nose. “I have an excellent memory. Never missed an appointment at my gym.” She paused and grimaced. “So. What do you think?”
+
+“I… think that mana transfer talent will have to wait. This will give you a boost to your attributes of nine – and that’s just the first day.”
+
+Steve nodded. “Thirty over the first year? That’s insane! Go!”
+
+Moments later, she smiled and exhaled. “And now we wait to see… there we go! Agility, for the first one. Not bad. Not bad at all. And, just to keep things interesting, I’ll dump every single attribute point I have into Mental Power. My poison should have some serious punch from here on. Aaaand that’s all I got. Over to you, Steve-O.”
+
+Steve smiled. “I only earned a single level. Buuuut that level puts me at 25, which makes things interesting.”
+
+I drily added. “Especially because you’ve saved five talent points now, meaning you can max any new, fantastic talent.”
+
+“There is that.” He admitted with a warm chuckle. “Want to hear the options for my new talent tree?”
+
+“Andale, ya! Oh. Wait. That was my second tick from Virtuous Growth. Mental Power! God, I love this. Sorry. Get on with it, man!”
+
+Congratulations. You have beaten the odds and earned your first class evolution. Those who have gotten their first taste of true power know that slowing down means letting your enemies catch up to you. Seek. Discover. Survive. The struggle will be monumental. Yet, the rewards are worth it all.
+
+I frowned. “I’m… pretty sure that wasn’t what mine said. That was something about fighting and thriving.”
+
+“I guess it’s not that surprising, since the system does tailor a lot of details to each of us.” Steve said before continuing.
+
+Your pursuits have earned you the chance to select an additional talent tree. The options have been sorted, and suboptimal options minimized for you. Would you like to see the minimized options? Y/N
+
+“Not today, I think. I want to – hm.” Steve trailed off and stopped walking.
+
+“What?” I asked.
+
+“What?” Victoria pressed, as Steve didn’t react, staring at the horizon.
+
+Ever so slowly, a tear formed and dripped down his cheek. Hoarsely he said. “Sorry. Usually, I’d be discussing my selection, but… I – just listen.”
+
+Explorer
+
+The world is rife with wonder, and you intend to see it all. You have shown an affinity for discovery, for finding what is hidden and earning the power to survive what Ademia might throw at you. An explorer will focus on perception, on discovery, and the ability to avoid being tied down.
+
+Explorer Affinity unlocked.
+
++2 Perception, +2 Agility, +1 Fortitude
+
+Explorer Affinity unlocked. From here on out, you are more likely to unlock skills revolving around perception, discovery, survival, and movement for yourself.
+
+I walked over to pat him on the shoulder. “I get it, man. I get it. Some things, you need to discuss. Others, you just know.”
+
+He exhaled softly, then snapped out of his reverie. “Right. Right. That’s today’s personal Nirvana obtained. Let’s see which talents I got.”
+
+Tier 1:
+
+Bird’s Eye View
+
+Active Talent. Grants an immediate and extensive mental vision of the Explorer’s surroundings. Range scales with Perception. The level of detail improves for each point in the talent.
+
+Points 0/5
+
+Explorer’s Strength
+
+Passive Talent. All Explorers are gifted and strengthened by their travels. For some, this strength is literal. For every ten Ademian species the Explorer has successfully identified, effective retrospectively, the Explorer is granted +1 to a random attribute.
+
+5 points to unlock
+
+Unfettered
+
+Passive Talent. All Explorers learn how to survive and stay moving. This talent doubles down on that capability. Any talent, skill or attempt to halt, slow down or fix this Explorer in place will either fail to work or work at a major disadvantage.
+
+5 points to unlock
+
+“Well. That’s just fucking ridiculous.” I said.
+
+Victoria tried to speak twice before managing a hoarse, “Was Level 25 the same for you, Liam?”
+
+I considered the question, thinking back to the talents I’d been offered. Wildly increased learning speed, being able to mirror all sorts of emotions, or a boost that’d improve my attributes by a full fifty percent before my quirk was applied. “You know… yeah, it actually was. Though it feels like these are even wilder.”
+
+“Dios mio.” She shook her head in disbelief. “So, what are you feeling, Steve? Being the perfect scout, potentially endless boosts or… the perfect get-out-of-jail-card?”
+
+“I.” He scowled. “I’ll have to check up on something.” He paused, then started reading out loud.
+
+Tier 3 positive quirk:
+
+Sharing is Caring
+
+You may expand most buffs and talents to include those in your group at an ongoing cost of stamina.
+
+“Now, we’ve learned that this cost depends on the original cost. And if a buff or talent has no cost associated… it’ll be free. Meaning?” He raised an eyebrow, looking like he was barely able to contain the excitement within himself.
+
+“Meaning, you’d be able to pick that Identifying talent, and we’d all gain boosts. Forever. Yep. That’s the choice. No discussion.”
+
+Moments later, I felt the sensation kicking in. A subtle feeling of well-being, of solidity, of closing my eyes and watching the terrain come into focus just a tiny bit sharper. “It fucking worked! What’d we get?”
+
+“Just a second.” Steve’s eyes swivelled around, searching the horizon for something. He grunted and frowned, then sighed. “Okay. The talent is amazing, but it’s not a limitless cheat. I can’t just spend my day bird-watching and spot, say, an African and a European swallow. I don’t think those count for this talent.”
+
+“Fucking nerd.” Victoria said with a laugh.
+
+“Takes one to know one.” Steve beamed.
+
+“Do we know what counts, then?” I asked. “And what did we get?”
+
+He shrugged. “I don’t know if you’ve ever tried identifying smaller critters, birds or the like? They simply don’t show up to Identify. My guess is that it only takes when it comes to any species that levels – which I guess limits it to carnivores, thinking species and larger beasts. Then again, in this insane place, that doesn’t really cut it down by a lot. As to what we got? Apparently, I’ve identified above fifty different species, because we got five boosts. One to Dexterity, Fortitude and Perception, and a full two to Mental Control.”
+
+“Well, damn. The rest of today might be a rest day after all this mess. But starting tomorrow, we’ll all be on the look-out for new species to identify, so we can abuse the hell out of this power!”
