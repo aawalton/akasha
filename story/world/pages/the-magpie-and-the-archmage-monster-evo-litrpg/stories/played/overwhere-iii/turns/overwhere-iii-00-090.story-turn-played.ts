@@ -7,7 +7,8 @@ export const overwhereIii00090 = {
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iii"],
   position: 90,
-  stepStatus: "step-status/world-builder",
+  stepStatus: "step-status/game-master",
   action:
     "I run backwards to avoid being pincered and to bunch them up, then turn and hit them with a braided cleanse and lash across the three",
+  lore: ["lore/overwhere-iii-braid-weaving", "lore/overwhere-iii-corruption-2"],
 } as const satisfies StoryTurnPlayed
