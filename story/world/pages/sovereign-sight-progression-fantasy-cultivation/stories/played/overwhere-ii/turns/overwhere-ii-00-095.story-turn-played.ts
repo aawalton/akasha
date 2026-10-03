@@ -4,10 +4,13 @@ export const overwhereIi00095 = {
   id: "01a0ff2c-038b-71b8-be2b-59dc8595ee12",
   type: "page-type/story-turn-played",
   slug: "overwhere-ii-00-095",
+  ownLength: 224,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-ii"],
   position: 95,
-  stepStatus: "step-status/writer",
+  prose: "txt",
+  characters: ["character-player/overwhere-ii-nala"],
+  stepStatus: "step-status/reviewers",
   action:
     "This time I rush her, attacking in a flurry, using small pushes and pulls to move her or me just out of place to block",
   beats: [
@@ -30,6 +33,11 @@ export const overwhereIi00095 = {
     "Corra hops down from the well-curb, sparks crackling blue between her fingers.",
     'Corra: "My turn, free blade."',
   ],
-  lore: ["lore/overwhere-ii-varrow-talented"],
+  lore: [
+    "lore/overwhere-ii-nala",
+    "lore/overwhere-ii-nala-2",
+    "lore/overwhere-ii-nala-3",
+    "lore/overwhere-ii-varrow-talented",
+  ],
   endsAt: "2026-10-22T07:10:00.000Z",
 } as const satisfies StoryTurnPlayed
