@@ -10,5 +10,5 @@ export const fairweatherTillyAlchemist = {
     "A class that brews potions, salves and powders by pouring power into what it mixes.",
   character: "character-other/fairweather-tilly",
   class: "world-class/fairweather-alchemist",
-  unrevealed: false,
+  unrevealed: true,
 } as const satisfies CharacterClass

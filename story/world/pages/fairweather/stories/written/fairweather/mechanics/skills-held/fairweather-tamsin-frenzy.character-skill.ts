@@ -8,5 +8,5 @@ export const fairweatherTamsinFrenzy = {
   world: "world/fairweather",
   character: "character-other/fairweather-tamsin",
   skill: "world-skill/fairweather-frenzy",
-  unrevealed: false,
+  unrevealed: true,
 } as const satisfies CharacterSkill

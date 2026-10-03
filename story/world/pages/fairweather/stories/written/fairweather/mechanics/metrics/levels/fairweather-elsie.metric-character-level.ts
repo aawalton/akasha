@@ -7,5 +7,5 @@ export const fairweatherElsie = {
   character: "character-player/fairweather-elsie",
   value: 1,
   minValue: 1,
-  unrevealed: false,
+  unrevealed: true,
 } as const satisfies MetricCharacterLevel

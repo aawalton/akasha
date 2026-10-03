@@ -7,6 +7,5 @@ export const fairweatherFlowerClip = {
   title: "Flower Clip",
   story: "story-written/fairweather",
   character: "character-player/fairweather-elsie",
-  slot: "item-slot/head",
   description: "A small hair clip shaped like a pink-and-white flower.",
 } as const satisfies StoryItem

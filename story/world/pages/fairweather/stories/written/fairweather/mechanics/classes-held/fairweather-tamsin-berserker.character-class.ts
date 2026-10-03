@@ -9,5 +9,5 @@ export const fairweatherTamsinBerserker = {
   description: "A fighting class whose strength comes from rage.",
   character: "character-other/fairweather-tamsin",
   class: "world-class/fairweather-berserker",
-  unrevealed: false,
+  unrevealed: true,
 } as const satisfies CharacterClass

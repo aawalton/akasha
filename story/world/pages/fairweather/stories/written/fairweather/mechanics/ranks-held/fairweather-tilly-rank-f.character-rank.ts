@@ -9,5 +9,5 @@ export const fairweatherTillyRankF = {
   place: 1,
   character: "character-other/fairweather-tilly",
   rank: "world-rank/fairweather-rank-f",
-  unrevealed: false,
+  unrevealed: true,
 } as const satisfies CharacterRank
