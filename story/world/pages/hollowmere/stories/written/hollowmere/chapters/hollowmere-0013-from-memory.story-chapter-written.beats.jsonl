@@ -37,4 +37,3 @@
 {"beat":37,"event":"\"Lights out on this floor by midnight, ladies,\" she says; then, quieter, passing you: \"Nala.\"","leave":["character-other/hollowmere-yusra"],"memory":[{"page":"lore/hollowmere-yusra","fact":"Passing Nala in the crowded Thornfield kitchen, Yusra said her name quietly, only to her.","learns":"character-player/hollowmere-nala"},{"page":"lore/hollowmere-yusra","fact":"Passing Nala in the crowded Thornfield kitchen, Yusra said her name quietly, only to her.","learns":"character-other/hollowmere-yusra"}]}
 {"beat":38,"event":"Just your name, and gone; Bea squeezes your hand, quiet, and keeps holding it."}
 {"beat":39,"event":"In 14 you lie awake counting: Shiv, Bea, Kit, Lin; and a name said once in the kitchen doorway.","at":"2026-10-03T21:45:00.000Z","leave":["character-other/hollowmere-bea"]}
-{"beat":40,"event":"A day at Hollowmere ends."}
