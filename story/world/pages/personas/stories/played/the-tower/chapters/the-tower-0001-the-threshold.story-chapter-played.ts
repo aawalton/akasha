@@ -10,4 +10,5 @@ export const theTower0001TheThreshold = {
   ownLength: 1830,
   unit: "unit/words",
   prose: "txt",
+  beats: "jsonl",
 } as const satisfies StoryChapterPlayed
