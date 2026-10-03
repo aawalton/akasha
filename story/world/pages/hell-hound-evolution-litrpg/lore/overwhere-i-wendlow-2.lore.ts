@@ -242,7 +242,7 @@ export const overwhereIWendlow2 = {
     },
     {
       fact: "Wil says he takes plain soldier's short swords too, worth 60 copper each.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
     {
       fact: "Mother Sallow is a stooped old woman with a clay pipe, in a steamy cellar at the river stairs' foot.",
