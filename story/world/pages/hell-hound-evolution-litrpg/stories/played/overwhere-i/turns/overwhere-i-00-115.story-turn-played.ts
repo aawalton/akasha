@@ -10,7 +10,7 @@ export const overwhereI00115 = {
   position: 115,
   prose: "txt",
   characters: ["character-player/overwhere-i-nala"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/game-master",
   action:
     "I spend the afternoon testing weaves to see if I can get something to repair the tears in my clothes.",
   beats: [
@@ -27,6 +27,8 @@ export const overwhereI00115 = {
   ],
   issues: [
     '"edges frayed and stiff with old blood" - she steam-cleaned her clothes earlier on day 8',
+    '"The sun has slid low and gold across Wendlow\'s roofs while you worked." - Leave It Open',
+    '"Your throat is dry as dust, and from the square, supper smoke drifts up" - No Prompt',
   ],
   lore: [
     "lore/overwhere-i-nala",
@@ -37,6 +39,6 @@ export const overwhereI00115 = {
     "lore/overwhere-i-wendlow-2",
     "lore/overwhere-i-wendlow-2-2",
   ],
-  reviewedBy: ["story-reviewer/continuity"],
+  reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
   endsAt: "2026-10-06T17:57:00.000Z",
 } as const satisfies StoryTurnPlayed
