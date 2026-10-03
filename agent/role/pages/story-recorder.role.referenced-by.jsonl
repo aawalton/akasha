@@ -7,7 +7,6 @@
 {"propertySlug":"import","fileName":"story-recorder.role.ts","path":"story/lore-disclosure/modules/lore-withholding/lore-withholding.module.test-fixtures.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"story-recorder.role.ts","path":"story/world/stories/played/turns/modules/turn-lifecycle/turn-lifecycle.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"agent/role/role.page-type.ts","id":"01a053b2-2c20-7e34-9306-65f44016381a"}
-{"propertySlug":"role","path":"agent/seat/pages/iris-story-recorder-overwhere-i-flex-2/iris-story-recorder-overwhere-i-flex-2.seat.ts","id":"01a10190-597f-7000-95dc-8769805e03ca"}
 {"propertySlug":"role","path":"agent/seat/pages/iris-story-recorder-overwhere-i-flex-3/iris-story-recorder-overwhere-i-flex-3.seat.ts","id":"01a10190-81c7-7000-84b1-c32706bed16c"}
 {"propertySlug":"role","path":"agent/seat/pages/iris-story-recorder-overwhere-i-flex-4/iris-story-recorder-overwhere-i-flex-4.seat.ts","id":"01a10190-ad45-7000-a66b-8e239c784188"}
 {"propertySlug":"role","path":"agent/seat/pages/iris-story-recorder-overwhere-ii-flex-1/iris-story-recorder-overwhere-ii-flex-1.seat.ts","id":"01a10191-56af-7000-9c25-d38f363379d4"}
