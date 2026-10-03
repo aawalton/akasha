@@ -10,7 +10,7 @@ export const overwhereIii00096 = {
   position: 96,
   prose: "txt",
   characters: ["character-player/overwhere-iii-nala"],
-  stepStatus: "step-status/game-master",
+  stepStatus: "step-status/writer",
   action:
     "I hunt the board, when I get close, I cast my ward on myself first, then find the boar and hit it in the head with my braid until it dies",
   beats: [
@@ -25,8 +25,8 @@ export const overwhereIii00096 = {
     "The charge slams her off her feet. The ward takes the edge off it; the tusks never break skin.",
     "She rolls up, ribs aching, and sends the second braid. It lands on the skull again.",
     "The boar staggers, wheels, and slashes at her. She twists clear by a hand's width.",
-    "The third braid strikes. Black drains out of the boar's bristles along the pull strand.",
-    "The last of its blight comes away. Its eyes clear to a plain, wild brown.",
+    "Pinned by each lash, the boar gives up blight to each pull strand twice over, black pouring out.",
+    "With the third braid, the sixth draw, the last of its blight comes away. Its eyes clear to brown.",
     "Her well is down to the dregs, too low to pay for another braid.",
     "Ten paces off the boar stands blowing hard, blood running down its snout, a plain hill boar now.",
     "It lowers its tusks at her and paws the frost.",
