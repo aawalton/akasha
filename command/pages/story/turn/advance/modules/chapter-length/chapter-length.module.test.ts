@@ -56,6 +56,16 @@ test("a written chapter's beats under 50 or over 100 are refused with the count 
   expect(lengthRefused(beatsHanded(101), 0)).toContain("these number 101")
 })
 
+test("a beat restating the story's chapter break is refused, whatever its case or stops", () => {
+  const ending = "A day at Hollowmere ends."
+  const handed = { kind: "beats", beats: [...beatsOf(49), ending] } as const
+  expect(lengthRefused(handed, 0, ending)).toContain("beat 50 restates")
+  const said = { ...handed, beats: [...beatsOf(49), "and so a DAY at hollowmere ends"] }
+  expect(lengthRefused(said, 0, ending)).toContain("beat 50 restates")
+  expect(lengthRefused(beatsHanded(50), 0, ending)).toBeNull()
+  expect(lengthRefused(handed, 0)).toBeNull()
+})
+
 test("prose from 50 to 200 words for each beat is not refused", () => {
   expect(lengthRefused(proseHanded(100), 2)).toBeNull()
   expect(lengthRefused(proseHanded(400), 2)).toBeNull()
