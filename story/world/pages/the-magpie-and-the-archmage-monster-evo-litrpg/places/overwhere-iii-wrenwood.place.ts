@@ -276,6 +276,10 @@ export const overwhereIiiWrenwood = {
       fact: "The wolves' claw scrapes lead past the charcoal mound toward a brush lean-to behind the hut.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
+    {
+      fact: "A stooped old woman lives in the smoking charcoal hut by the Wren Brook.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place
