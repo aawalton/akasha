@@ -38,7 +38,11 @@ export const overwhereIiiMotherSallow = {
     },
     {
       fact: "She fights with blight bolts, a rot mist that saps strength, and two corrupted wolves at heel.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iii-nala",
+        "character-other/overwhere-iii-mother-sallow",
+      ],
     },
     {
       fact: "Her strongest working lands crushing force; her mage's shield wards six.",

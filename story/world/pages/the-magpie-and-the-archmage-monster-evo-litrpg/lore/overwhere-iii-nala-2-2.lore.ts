@@ -116,5 +116,13 @@ export const overwhereIiiNala22 = {
       fact: "On day ten the hut wolves bit Nala on calf, forearm and shoulder; blight is in all three bites.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
+    {
+      fact: "On day ten Nala struck the charcoal-burner unwarned; her third braid broke through her shield.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iii-nala",
+        "character-other/overwhere-iii-mother-sallow",
+      ],
+    },
   ],
 } as const satisfies Lore
