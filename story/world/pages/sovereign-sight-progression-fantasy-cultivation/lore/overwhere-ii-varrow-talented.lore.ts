@@ -141,7 +141,7 @@ export const overwhereIiVarrowTalented = {
     },
     {
       fact: "Corra knows sparks run along water, and will wet the ground near Nala to use it if she can.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "After the Hawise bout, Nala's mind holds only a few more fine pushes before they start to slip.",
