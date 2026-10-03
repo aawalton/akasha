@@ -11,4 +11,5 @@ export const overwhereIi00095 = {
   action:
     "This time I rush her, attacking in a flurry, using small pushes and pulls to move her or me just out of place to block",
   lore: ["lore/overwhere-ii-varrow-talented"],
+  endsAt: "2026-10-22T07:10:00.000Z",
 } as const satisfies StoryTurnPlayed
