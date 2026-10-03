@@ -10,7 +10,7 @@ export const hollowmere0028ImSayingIt = {
   story: "story-written/hollowmere",
   ownLength: 3997,
   prose: "txt",
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/game-master",
   beats: [
     "Sunday of week four: you wake stiff from the fell, your calves aching, Bea asleep across your legs.",
     'You ease out from under her; she mumbles "Rock. Go. Say hi to Shiv," and is asleep again.',
@@ -103,5 +103,5 @@ export const hollowmere0028ImSayingIt = {
     "character-other/hollowmere-amara",
     "character-other/hollowmere-yusra",
   ],
-  reviewedBy: ["story-reviewer/continuity"],
+  reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
 } as const satisfies StoryChapterWritten
