@@ -75,5 +75,9 @@ export const overwhereIHobbsMillWeir = {
       fact: "The wyrm sees poorly above water but feels footfalls on the bank within 30 yards of the pool.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Fire loosed into water hisses out within a yard; a beam at the wyrm under water does nothing.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Place
