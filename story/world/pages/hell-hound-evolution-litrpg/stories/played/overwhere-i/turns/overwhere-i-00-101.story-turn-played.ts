@@ -4,10 +4,17 @@ export const overwhereI00101 = {
   id: "01a0ff3b-55f4-72bb-b806-2eeaf4fa6f3c",
   type: "page-type/story-turn-played",
   slug: "overwhere-i-00-101",
+  ownLength: 228,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-i"],
   position: 101,
-  stepStatus: "step-status/writer",
+  prose: "txt",
+  characters: [
+    "character-player/overwhere-i-nala",
+    "character-other/overwhere-i-harl-voss",
+    "character-other/overwhere-i-ghost-eye",
+  ],
+  stepStatus: "step-status/reviewers",
   action: "“Yeah, put me down. I definitely see more killing things for money in my future.”",
   beats: [
     '"Yeah, put me down. I definitely see more killing things for money in my future," Nala says.',
@@ -19,6 +26,11 @@ export const overwhereI00101 = {
     "\"Two hours' walk down the Wend. Level 18, by the bargemen's tales; that's all anyone has of it.\"",
     'Grete taps the slips with a scarred finger. "First call\'s yours, Nala Arthur. Which one?"',
   ],
-  lore: ["lore/overwhere-i-the-system-2", "place/overwhere-i-wendlow"],
+  lore: [
+    "lore/overwhere-i-nala",
+    "lore/overwhere-i-nala-2",
+    "lore/overwhere-i-the-system-2",
+    "place/overwhere-i-wendlow",
+  ],
   endsAt: "2026-10-05T12:35:00.000Z",
 } as const satisfies StoryTurnPlayed
