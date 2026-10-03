@@ -7,4 +7,5 @@ export const theDatingGameAlan = {
   title: "Alan",
   story: "story-played/the-dating-game",
   person: "person/alan",
+  place: "place/the-dating-game-apple-avenue",
 } as const satisfies CharacterPlayer

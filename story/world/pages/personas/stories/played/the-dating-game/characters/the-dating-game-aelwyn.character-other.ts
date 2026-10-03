@@ -7,5 +7,6 @@ export const theDatingGameAelwyn = {
   title: "Aelwyn",
   story: "story-played/the-dating-game",
   persona: "persona/aelwyn",
+  place: "place/the-dating-game-rock-canyon",
   cover: "image/image-9e373fae8c1f66e1",
 } as const satisfies CharacterOther

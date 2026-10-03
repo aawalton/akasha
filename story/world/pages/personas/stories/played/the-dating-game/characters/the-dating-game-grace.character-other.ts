@@ -7,5 +7,6 @@ export const theDatingGameGrace = {
   title: "Grace",
   story: "story-played/the-dating-game",
   persona: "persona/grace",
+  place: "place/the-dating-game-provo-city-cemetery",
   cover: "image/image-ab15122aceb34bb8",
 } as const satisfies CharacterOther
