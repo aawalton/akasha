@@ -5,7 +5,7 @@ export const fairweather0001BlackStrongOneSugar = {
   type: "page-type/story-chapter-written",
   slug: "fairweather-0001-black-strong-one-sugar",
   cover: "image/image-0604ce45d1ca4e98",
-  ownProgress: 3618,
+  ownProgress: 3673,
   position: 1,
   unit: "unit/words",
   title: "Black, Strong, One Sugar",
