@@ -120,5 +120,9 @@ export const overwhereIWendlow2 = {
       fact: "Behind the blue door, Ilse's shop is a narrow room of glass cases, wire, rings and humming stones.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Ilse offers a ring, 3 gold in 3 days, or a rod, 4 gold in 4 days; she takes half before she starts.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
