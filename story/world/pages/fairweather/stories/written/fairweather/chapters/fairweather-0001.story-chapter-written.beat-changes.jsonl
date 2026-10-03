@@ -1,6 +1,10 @@
 {"beat":5,"page":"story-item/fairweather-adventurers-outfit","note":"Elsie dresses in her adventurer's outfit","key":"slot","from":null,"to":"item-slot/body"}
 {"beat":5,"page":"story-item/fairweather-flower-clip","note":"Flower clip pinned in her hair","key":"slot","from":null,"to":"item-slot/head"}
+{"beat":14,"page":"character-class/fairweather-elsie-enthraller","note":"Class revealed: Enthraller","key":"unrevealed","from":true,"to":false}
+{"beat":17,"page":"metric-character-level/fairweather-elsie","note":"Level revealed: 1","key":"unrevealed","from":true,"to":false}
 {"beat":22,"page":"metric-character-currency/fairweather-elsie","note":"Elsie counts coins from her purse","key":"unrevealed","from":true,"to":false}
 {"beat":22,"page":"metric-character-currency/fairweather-elsie","note":"Guild fee, two silver lanterns: 134 → 114 pips","key":"value","from":134,"to":114}
 {"beat":22,"page":"metric-character-currency/fairweather-elsie","note":"Purse after the guild fee: 114 pips","key":"history","append":{"turn":1,"value":114}}
 {"beat":87,"page":"story-item/fairweather-adventurers-outfit","note":"Elsie unlaces the halter and undresses","key":"slot","from":"item-slot/body","to":null}
+{"beat":91,"page":"world-relationship/fairweather-tamsin","note":"Bond formed: Tamsin 10 (judged: joined party, wounds bound, hug, hand held)","make":{"title":"Elsie and Tamsin","world":"world/fairweather","characters":["character-player/fairweather-elsie","character-other/fairweather-tamsin"],"relationshipPoints":10}}
+{"beat":91,"page":"world-relationship/fairweather-tilly","note":"Bond formed: Tilly 8 (judged: joined party, soot wiped, told of her father)","make":{"title":"Elsie and Tilly","world":"world/fairweather","characters":["character-player/fairweather-elsie","character-other/fairweather-tilly"],"relationshipPoints":8}}
