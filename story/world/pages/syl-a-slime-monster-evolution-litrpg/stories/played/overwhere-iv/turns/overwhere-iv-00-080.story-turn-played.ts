@@ -4,13 +4,14 @@ export const overwhereIv00080 = {
   id: "01a0ff1a-8b23-7f9e-bc97-2c0b962d27a8",
   type: "page-type/story-turn-played",
   slug: "overwhere-iv-00-080",
+  cover: "image/image-ec0073465b978dde",
   ownLength: 191,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iv"],
   position: 80,
   prose: "txt",
   characters: ["character-player/overwhere-iv-nala"],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action:
     "“It’s me, Nala!” I shout. As I get closer I warn them “Ran into a full warband, must have been at least 20 of them, 2 big hobs. I think I downed five, but they were pretty mad, chased me hard. Not sure if I lost them or if they’ll keep coming tonight. I’m low on mana, but I can still use a spear if they come this way.”",
   beats: [
@@ -36,6 +37,12 @@ export const overwhereIv00080 = {
     "place/overwhere-iv-tull-farm",
   ],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/memory", "story-recorder/mechanics"],
+  recordedBy: [
+    "story-recorder/inventory",
+    "story-recorder/memory",
+    "story-recorder/mechanics",
+    "story-recorder/picture",
+  ],
   endsAt: "2026-10-06T21:52:00.000Z",
+  coverAfter: "Dace looks at the blood soaking your side, then at you.",
 } as const satisfies StoryTurnPlayed
