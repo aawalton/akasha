@@ -4,10 +4,13 @@ export const overwhereIv00087 = {
   id: "01a10180-a29b-7ea3-aa9f-cbc6419c7347",
   type: "page-type/story-turn-played",
   slug: "overwhere-iv-00-087",
+  ownLength: 178,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iv"],
   position: 87,
-  stepStatus: "step-status/writer",
+  prose: "txt",
+  characters: ["character-player/overwhere-iv-nala"],
+  stepStatus: "step-status/reviewers",
   action:
     "I decide I’m feeling rested enough and work my way back to where I killed them goblins, keeping my senses wide for more.",
   beats: [
@@ -24,6 +27,10 @@ export const overwhereIv00087 = {
     "A breeze comes down the cleft, carrying a faint smell of woodsmoke from far up the trail.",
   ],
   lore: [
+    "lore/overwhere-iv-millbrook-adventurers-hall-2",
+    "lore/overwhere-iv-nala",
+    "lore/overwhere-iv-nala-2",
+    "lore/overwhere-iv-nala-3",
     "lore/overwhere-iv-the-tangle-2",
     "lore/overwhere-iv-the-tangle-2-2",
     "place/overwhere-iv-millbrook-adventurers-hall",
