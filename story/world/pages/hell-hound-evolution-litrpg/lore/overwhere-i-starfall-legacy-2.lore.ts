@@ -316,5 +316,9 @@ export const overwhereIStarfallLegacy2 = {
       fact: "A spike costs 20 mana; twin spikes are two workings at 40, one act, one roll, landing as two hits.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Eye-beam dazzle lasts about 2 seconds, through her next act only.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
