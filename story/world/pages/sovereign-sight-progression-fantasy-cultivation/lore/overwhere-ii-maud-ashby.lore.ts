@@ -113,7 +113,7 @@ export const overwhereIiMaudAshby = {
     },
     {
       fact: "For the ring Maud would have Hob Tarrant forge cold iron stakes, each a forearm long.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Ringing the Callow pool's throat takes some thirty stakes; Hob can forge about ten a day.",
