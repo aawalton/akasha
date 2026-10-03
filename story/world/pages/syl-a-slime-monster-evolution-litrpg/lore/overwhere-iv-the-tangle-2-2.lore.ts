@@ -52,5 +52,25 @@ export const overwhereIvTheTangle22 = {
       fact: "In the stone ring, hide huts crowd round a fire pit; the trail climbs to it through thin oaks.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "The LV 5 watcher has a short spear and the horn; the LV 4 a sling and a knife.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Their hide is behind a fallen trunk on the rise, a mile below the camp.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Alarmed, the LV 5 lifts his horn first, needing a breath to blow; a rend at once beats it.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The watcher's horn, blown, is heard at the camp; a dozen goblins come down within half an hour.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "A shriek does not carry the mile to camp; a watcher running there takes some ten minutes.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
