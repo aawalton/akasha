@@ -169,5 +169,9 @@ export const overwhereIiiCorruption2 = {
       fact: "The kiln jackalopes' blight runs deep: about five pulls draw each clean, and it lives a plain beast.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Jackalopes are quicker than a runner over a few strides; backing off bunches them as they close.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
