@@ -290,7 +290,7 @@ export const overwhereIWendlow2 = {
     },
     {
       fact: "Bram Cooley, big and red-faced, keeps the Bell and Barrel; his wife Nell runs the bathhouse.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
     {
       fact: "Bell and Barrel supper is mutton pie, greens and small beer; its rooms are clean and bolt shut.",
