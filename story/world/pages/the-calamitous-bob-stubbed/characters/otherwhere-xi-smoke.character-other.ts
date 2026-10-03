@@ -7,4 +7,5 @@ export const otherwhereXiSmoke = {
   title: "Smoke",
   world: "world/the-calamitous-bob-stubbed",
   story: "story-played/otherwhere-xi",
+  place: "place/otherwhere-xi-ashlar-farm",
 } as const satisfies CharacterOther
