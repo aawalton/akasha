@@ -13,7 +13,7 @@ export const overwhereIii00082 = {
     "character-player/overwhere-iii-nala",
     "character-other/overwhere-iii-mother-sallow",
   ],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/recorders",
   action:
     "I hit her with the braid at full power, without warning. Then again and again until the notification hits.",
   beats: [
@@ -40,6 +40,6 @@ export const overwhereIii00082 = {
     "lore/overwhere-iii-nala-2",
     "lore/overwhere-iii-nala-2-2",
   ],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
   endsAt: "2026-10-08T13:02:00.000Z",
 } as const satisfies StoryTurnPlayed
