@@ -120,5 +120,9 @@ export const fairweatherElsie = {
       fact: "Elsie has never once used her class to make anyone feel anything.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Elsie's mother taught her moonbells: blue night-blooming flowers she brewed into fever draughts.",
+      knowers: ["lore-disclosure/game-master", "character-player/fairweather-elsie"],
+    },
   ],
 } as const satisfies Lore
