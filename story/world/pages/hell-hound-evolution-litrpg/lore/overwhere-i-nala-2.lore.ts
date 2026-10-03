@@ -191,5 +191,13 @@ export const overwhereINala2 = {
         "lore/overwhere-i-grete-holm",
       ],
     },
+    {
+      fact: "Nala gave Grete Holm her name for the receipt as Nala Arthur.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-i-nala",
+        "lore/overwhere-i-grete-holm",
+      ],
+    },
   ],
 } as const satisfies Lore

@@ -15,7 +15,7 @@ export const overwhereI00100 = {
     "character-other/overwhere-i-harl-voss",
     "character-other/overwhere-i-ghost-eye",
   ],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action: "“I’m Nala, Nala Arthur”",
   beats: [
     '"I\'m Nala. Nala Arthur," she says.',
@@ -38,7 +38,12 @@ export const overwhereI00100 = {
     "place/overwhere-i-wendlow",
   ],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
-  recordedBy: ["story-recorder/mechanics", "story-recorder/inventory", "story-recorder/picture"],
+  recordedBy: [
+    "story-recorder/mechanics",
+    "story-recorder/inventory",
+    "story-recorder/picture",
+    "story-recorder/memory",
+  ],
   endsAt: "2026-10-05T12:30:00.000Z",
   coverAfter: "She taps the ledger with one scarred finger.",
 } as const satisfies StoryTurnPlayed

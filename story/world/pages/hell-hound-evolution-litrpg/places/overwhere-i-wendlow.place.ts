@@ -105,7 +105,11 @@ export const overwhereIWendlow = {
     },
     {
       fact: "Voss and eight crewmen in proof come to 46 gold at the Board; Ghost-Eye's head, 25 more.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-i-nala",
+        "lore/overwhere-i-grete-holm",
+      ],
     },
     {
       fact: "Wendlow's gates shut at sunset, about 19:00, and open again at dawn.",
@@ -218,15 +222,27 @@ export const overwhereIWendlow = {
     },
     {
       fact: "The Board's strongbox holds 60 gold; Grete pays that and writes a chit for 11, good in two days.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-i-nala",
+        "lore/overwhere-i-grete-holm",
+      ],
     },
     {
       fact: "The chit is paid from the magistrate's purse when the tax rider comes, on day 9.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-i-nala",
+        "lore/overwhere-i-grete-holm",
+      ],
     },
     {
       fact: "Hearing her tale, Grete offers to enter Nala on the hunters' roll, which brings Board contracts.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-i-nala",
+        "lore/overwhere-i-grete-holm",
+      ],
     },
     {
       fact: "The two dicing hunters fall silent at Voss's head; by evening the tale is all over Wendlow.",
@@ -278,15 +294,27 @@ export const overwhereIWendlow = {
     },
     {
       fact: "Grete writes 'Nala Arthur' on the receipt and on the 11-gold chit, and signs both.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-i-nala",
+        "lore/overwhere-i-grete-holm",
+      ],
     },
     {
       fact: "The hunters' roll costs nothing to join; a rolled hunter gets first call on Board contracts.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-i-nala",
+        "lore/overwhere-i-grete-holm",
+      ],
     },
     {
       fact: "A rolled hunter answers to the Board for her kills, and must bring word of any monster she sees.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-i-nala",
+        "lore/overwhere-i-grete-holm",
+      ],
     },
     {
       fact: "Grete offers the roll and waits for Nala's yes; she writes no one on it unasked.",
@@ -294,7 +322,11 @@ export const overwhereIWendlow = {
     },
     {
       fact: "Grete keeps both heads to hang in the hall; the ears and tags go into the Board's chest.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-i-nala",
+        "lore/overwhere-i-grete-holm",
+      ],
     },
   ],
 } as const satisfies Place
