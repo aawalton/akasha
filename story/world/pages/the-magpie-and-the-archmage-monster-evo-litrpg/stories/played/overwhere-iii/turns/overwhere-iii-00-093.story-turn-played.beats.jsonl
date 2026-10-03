@@ -1,13 +1,13 @@
-{"beat":1,"event":"\"Jackalopes,\" Nala tells Marda."}
-{"beat":2,"event":"Marda writes it in the ledger: \"Kiln jackalopes, three.\""}
-{"beat":3,"event":"Nala walks out the south gate and up the two miles to the shrine."}
+{"beat":1,"event":"\"Jackalopes,\" Nala tells Marda.","at":"2026-10-09T13:46:00Z","place":"place/overwhere-iii-merrowgate-guild-post","present":["character-player/overwhere-iii-nala","character-other/overwhere-iii-marda-hesk"]}
+{"beat":2,"event":"Marda writes it in the ledger: \"Kiln jackalopes, three.\"","changes":[{"page":"world-relationship/overwhere-iii-marda-hesk","key":"relationshipPoints","from":35,"to":36,"note":"Nala answers Marda plainly about the kiln jackalopes"}],"memory":[{"page":"lore/overwhere-iii-marda-hesk-2","fact":"Marda's ledger, day 11: 'Kiln jackalopes, three.'","shown":true},{"page":"lore/overwhere-iii-marda-hesk-2","fact":"Marda's ledger, day 11: 'Kiln jackalopes, three.'","learns":"character-player/overwhere-iii-nala"},{"page":"lore/overwhere-iii-marda-hesk-2","fact":"Marda's ledger, day 11: 'Kiln jackalopes, three.'","learns":"character-other/overwhere-iii-marda-hesk"}]}
+{"beat":3,"event":"Nala walks out the south gate and up the two miles to the shrine.","at":"2026-10-09T14:25:00Z","place":"place/overwhere-iii-wrenwood-crossroads","present":["character-player/overwhere-iii-nala"]}
 {"beat":4,"event":"White-gold current hums thick around the shrine stones as she sits beside them."}
 {"beat":5,"event":"She tips Brannagh's clay cup and sets the first seed stone on her palm."}
-{"beat":6,"event":"She draws the lent current into a Cleansing Weave; it burns her a little and costs her well nothing."}
+{"beat":6,"event":"She draws the lent current into a Cleansing Weave; it burns her a little and costs her well nothing.","changes":[{"page":"metric-character-health/overwhere-iii-nala","key":"value","from":33,"to":31,"note":"Feeding five weaves from raw current burns Nala's hands"}]}
 {"beat":7,"event":"The black knot splits cleanly. A glimmer speck glows where it was."}
 {"beat":8,"event":"The second stone is stubborn; she holds the weave a breath longer before it cracks."}
 {"beat":9,"event":"The third and fourth crack at a touch, one after the other."}
 {"beat":10,"event":"The fifth fights her, then gives, a speck rolling into her palm."}
-{"beat":11,"event":"Five small burns sting her hands. Her own well is untouched, and has filled a little."}
-{"beat":12,"event":"The clay cup is empty of seed stones."}
-{"beat":13,"event":"Six glimmer specks."}
+{"beat":11,"event":"Five small burns sting her hands. Her own well is untouched, and has filled a little.","changes":[{"page":"metric-character-mana/overwhere-iii-nala","key":"value","from":6,"to":8,"note":"Nala's own well fills a little as she sits at the shrine"}]}
+{"beat":12,"event":"The clay cup is empty of seed stones.","changes":[{"page":"overwhere-iii-blightstones/overwhere-iii-nala","key":"value","from":5,"to":0,"note":"Nala cracks all five seed stones from her clay cup to specks"},{"page":"overwhere-iii-trait-held/overwhere-iii-nala-mana-weaver","key":"uses","from":42,"to":44,"note":"The System's count reads 43 by now; two uses come with the five cracks"}],"memory":[{"page":"lore/overwhere-iii-nala-3","fact":"On day 11 at the shrine Nala cracked her five seed stones with fed weaves, one by one, to specks.","shown":true},{"page":"lore/overwhere-iii-nala-3","fact":"On day 11 at the shrine Nala cracked her five seed stones with fed weaves, one by one, to specks.","learns":"character-player/overwhere-iii-nala"}]}
+{"beat":13,"event":"Six glimmer specks.","at":"2026-10-09T14:45:00Z","changes":[{"page":"story-item/overwhere-iii-nala-glimmer-specks","key":"quantity","from":1,"to":6,"note":"Five new specks join the one Nala carried"}]}
