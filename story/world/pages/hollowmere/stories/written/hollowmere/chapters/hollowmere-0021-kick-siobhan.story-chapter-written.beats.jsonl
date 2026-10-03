@@ -1,53 +1,52 @@
-{"beat":1,"event":"Sunday: you wake before dawn in Bea's bed in 15, her bare arm over you, her face in your hair."}
+{"beat":1,"event":"Sunday: you wake before dawn in Bea's bed in 15, her bare arm over you, her face in your hair.","at":"2026-10-11T05:30:00.000Z","place":"place/hollowmere-thornfield-house","present":["character-player/hollowmere-nala","character-other/hollowmere-bea"]}
 {"beat":2,"event":"You ease out from under her arm; she stirs. \"Rock?\" she mumbles. \"Sunday. Go on. Shiv's waiting.\""}
-{"beat":3,"event":"You kiss her shoulder, find your clothes in the dark, and leave a note on her pillow: Back by ten."}
-{"beat":4,"event":"The rock in the grey light: Shiv is already there in her parka, sitting very still, looking out."}
+{"beat":3,"event":"You kiss her shoulder, find your clothes in the dark, and leave a note on her pillow: Back by ten.","leave":["character-other/hollowmere-bea"]}
+{"beat":4,"event":"The rock in the grey light: Shiv is already there in her parka, sitting very still, looking out.","at":"2026-10-11T06:00:00.000Z","place":"place/hollowmere-academy","arrive":["character-other/hollowmere-shiv"]}
 {"beat":5,"event":"She turns when your feet crunch on the shingle; she grins, but it comes slow this morning."}
 {"beat":6,"event":"\"Sunday,\" she says. \"No register. No whistle. Just us and the fells.\" You strip, shivering."}
 {"beat":7,"event":"You jump off the rock together, hand in hand, the way you did the first time, into the black water."}
 {"beat":8,"event":"The cold takes your breath; you come up breathing out; Shiv floats on her back, eyes on the sky."}
 {"beat":9,"event":"You swim out farther than the buoy would let you, just the two of you, and back to the rock."}
 {"beat":10,"event":"On the rock after, wrapped in the parka together, Shiv is quiet a long time; you let her be."}
-{"beat":11,"event":"\"My mam swam the sea at Salthill every morning of her life,\" Shiv says. \"Winter too. Every day.\""}
-{"beat":12,"event":"\"She taught me there. I was four. She threw me in off the steps and said: kick, Siobhan.\"","pictured":[{"cover":"image/image-ae0c5e8ef44e6ba8","coverAfter":"On the rock after, you sit wrapped in the parka together.","character":"character-other/hollowmere-shiv","outfit":"navy parka over bare skin, wet hair, bare legs"}]}
-{"beat":13,"event":"She laughs, and the laugh goes thin. \"She died last winter. January. I came here on what she left.\""}
+{"beat":11,"event":"\"My mam swam the sea at Salthill every morning of her life,\" Shiv says. \"Winter too. Every day.\"","memory":[{"page":"lore/hollowmere-shiv","fact":"Shiv's mother swam the sea at Salthill every morning of her life, winter too, and taught Shiv there.","learns":"character-player/hollowmere-nala"}]}
+{"beat":12,"event":"\"She taught me there. I was four. She threw me in off the steps and said: kick, Siobhan.\"","memory":[{"page":"lore/hollowmere-shiv","fact":"At four Shiv's mam threw her in off the Salthill steps and shouted: kick, Siobhan.","learns":"character-player/hollowmere-nala"}],"pictured":[{"cover":"image/image-ae0c5e8ef44e6ba8","coverAfter":"On the rock after, you sit wrapped in the parka together.","character":"character-other/hollowmere-shiv","outfit":"navy parka over bare skin, wet hair, bare legs"}]}
+{"beat":13,"event":"She laughs, and the laugh goes thin. \"She died last winter. January. I came here on what she left.\"","memory":[{"page":"lore/hollowmere-shiv","fact":"Shiv's mother died last winter, and Shiv came to Hollowmere on the money she left.","learns":"character-player/hollowmere-nala"}]}
 {"beat":14,"event":"You look at her; this is new to you. You put your hand over hers on the cold stone."}
-{"beat":15,"event":"\"Every dawn I go in,\" Shiv says, \"it's her. That's all it is. It's swimming with her.\""}
+{"beat":15,"event":"\"Every dawn I go in,\" Shiv says, \"it's her. That's all it is. It's swimming with her.\"","memory":[{"page":"lore/hollowmere-shiv","fact":"Shiv says every dawn swim off her rock is swimming with her mam; that's all it's ever been.","learns":"character-player/hollowmere-nala"}]}
 {"beat":16,"event":"\"The register,\" she says. \"Being counted. She never signed a thing in her life. She just went in.\""}
 {"beat":17,"event":"Shiv cries then, suddenly, hard, her face in her hands; the first time in front of anyone, she says."}
-{"beat":18,"event":"You hold her inside the parka, her wet hair against your cheek, while the light comes up pink."}
+{"beat":18,"event":"You hold her inside the parka, her wet hair against your cheek, while the light comes up pink.","memory":[{"page":"lore/hollowmere-shiv","fact":"Shiv cried hard on the rock in Nala's arms, the first time in front of anyone since her mam died.","learns":"character-player/hollowmere-nala"},{"page":"lore/hollowmere-shiv","fact":"Shiv cried hard on the rock in Nala's arms, the first time in front of anyone since her mam died.","learns":"character-other/hollowmere-shiv"}]}
 {"beat":19,"event":"When it passes she wipes her face on her sleeve. \"Christ. Sorry. You came for a swim.\""}
 {"beat":20,"event":"\"I came for you,\" you say. Shiv looks at you a long moment, and her crooked grin comes back."}
 {"beat":21,"event":"She studies your face. \"You've a look on you,\" she says. \"Lindqvist?\" You go pink. You nod."}
-{"beat":22,"event":"Shiv laughs, properly now. \"Good. About time. She's been mad for you since the first morning.\""}
+{"beat":22,"event":"Shiv laughs, properly now. \"Good. About time. She's been mad for you since the first morning.\"","memory":[{"page":"lore/hollowmere-shiv","fact":"Reading Nala's face, Shiv guessed Lindqvist, and said Bea's been mad for her since the first day.","learns":"character-player/hollowmere-nala"},{"page":"lore/hollowmere-shiv","fact":"Reading Nala's face, Shiv guessed Lindqvist, and said Bea's been mad for her since the first day.","learns":"character-other/hollowmere-shiv"}]}
 {"beat":23,"event":"\"And you?\" you ask. Shiv shrugs inside the parka. \"I want you too, Ashby. You know I do.\""}
-{"beat":24,"event":"\"When it's right,\" she says. \"I'm in no hurry. I've a whole year of Sundays.\" She kisses you, salt."}
-{"beat":25,"event":"You walk back up to Thornfield at nine; Bea is awake in 15 with tea, and she reads your face."}
-{"beat":26,"event":"\"Shiv's all right?\" You tell her a little; Bea goes quiet, then says she'll be kind to her today."}
-{"beat":27,"event":"The Sunday roast at one: the whole crowd at one table, Kit, Lin, Priya, Amara too, for once."}
-{"beat":28,"event":"Bea sits beside Shiv and fills her plate without asking, extra potatoes; Shiv lets her."}
+{"beat":24,"event":"\"When it's right,\" she says. \"I'm in no hurry. I've a whole year of Sundays.\" She kisses you, salt.","leave":["character-other/hollowmere-shiv"],"memory":[{"page":"lore/hollowmere-shiv","fact":"Shiv told Nala she wants her too, when it's right; she's in no hurry, with a whole year of Sundays.","learns":"character-player/hollowmere-nala"},{"page":"lore/hollowmere-shiv","fact":"Shiv told Nala she wants her too, when it's right; she's in no hurry, with a whole year of Sundays.","learns":"character-other/hollowmere-shiv"}]}
+{"beat":25,"event":"You walk back up to Thornfield at nine; Bea is awake in 15 with tea, and she reads your face.","at":"2026-10-11T08:00:00.000Z","place":"place/hollowmere-thornfield-house","arrive":["character-other/hollowmere-bea"]}
+{"beat":26,"event":"\"Shiv's all right?\" You tell her a little; Bea goes quiet, then says she'll be kind to her today.","memory":[{"page":"lore/hollowmere-shiv","fact":"Shiv's mother died last winter, and Shiv came to Hollowmere on the money she left.","learns":"character-other/hollowmere-bea"},{"page":"lore/hollowmere-shiv","fact":"Shiv's mother swam the sea at Salthill every morning of her life, winter too, and taught Shiv there.","learns":"character-other/hollowmere-bea"}]}
+{"beat":27,"event":"The Sunday roast at one: the whole crowd at one table, Kit, Lin, Priya, Amara too, for once.","at":"2026-10-11T12:00:00.000Z","place":"place/hollowmere-academy","present":["character-player/hollowmere-nala","character-other/hollowmere-bea","character-other/hollowmere-shiv","character-other/hollowmere-kit","character-other/hollowmere-lin","character-other/hollowmere-priya","character-other/hollowmere-amara"]}
+{"beat":28,"event":"Bea sits beside Shiv and fills her plate without asking, extra potatoes; Shiv lets her.","memory":[{"page":"lore/hollowmere-bea-2","fact":"Told of Shiv's mam, Bea said she'd be kind to Shiv today; at roast she filled Shiv's plate unasked.","learns":"character-player/hollowmere-nala"},{"page":"lore/hollowmere-bea-2","fact":"Told of Shiv's mam, Bea said she'd be kind to Shiv today; at roast she filled Shiv's plate unasked.","learns":"character-other/hollowmere-bea"},{"page":"lore/hollowmere-bea-2","fact":"Told of Shiv's mam, Bea said she'd be kind to Shiv today; at roast she filled Shiv's plate unasked.","learns":"character-other/hollowmere-shiv"}]}
 {"beat":29,"event":"Kit, opposite, sees Bea's hand rest on your knee under the table, and you see her see it."}
-{"beat":30,"event":"After the meal Kit falls into step with you in the cloister. \"Lindqvist,\" she says. Not a question."}
+{"beat":30,"event":"After the meal Kit falls into step with you in the cloister. \"Lindqvist,\" she says. Not a question.","present":["character-player/hollowmere-nala","character-other/hollowmere-kit"]}
 {"beat":31,"event":"You say yes, last night. Kit walks a few steps in silence, then: \"Good. She's decent. She said so.\""}
-{"beat":32,"event":"\"Are you all right?\" you ask. Kit considers it. \"Yes,\" she says, surprised. \"I find I am.\"","pictured":[{"cover":"image/image-a67a88e24a56e9de","coverAfter":"After the meal, Kit falls into step with you in the cloister.","setting":"the cloister"}]}
+{"beat":32,"event":"\"Are you all right?\" you ask. Kit considers it. \"Yes,\" she says, surprised. \"I find I am.\"","memory":[{"page":"lore/hollowmere-kit-2","fact":"Told Nala and Bea began last night, Kit said: Good, she's decent. All right? I find I am.","learns":"character-player/hollowmere-nala"},{"page":"lore/hollowmere-kit-2","fact":"Told Nala and Bea began last night, Kit said: Good, she's decent. All right? I find I am.","learns":"character-other/hollowmere-kit"}],"pictured":[{"cover":"image/image-a67a88e24a56e9de","coverAfter":"After the meal, Kit falls into step with you in the cloister.","setting":"the cloister"}]}
 {"beat":33,"event":"\"Library,\" Kit says. \"Tonight. Seven. You still owe me an hour of silence.\" Her ears are pink."}
-{"beat":34,"event":"Afternoon: the boathouse lends rowing boats on Sundays; Shiv wants to go out, and asks you."}
+{"beat":34,"event":"Afternoon: the boathouse lends rowing boats on Sundays; Shiv wants to go out, and asks you.","at":"2026-10-11T13:30:00.000Z","present":["character-player/hollowmere-nala","character-other/hollowmere-shiv"]}
 {"beat":35,"event":"Shiv rows; you sit in the stern; she takes you out to the middle of the mere and ships the oars."}
 {"beat":36,"event":"You drift. Shiv lies back in the bottom of the boat with her head on a lifejacket, eyes closed."}
 {"beat":37,"event":"She sings under her breath, one of her mam's songs, Irish, and you lie back too and listen."}
 {"beat":38,"event":"The boat turns slowly in the middle of the mere; the fells go round you, gold in the low sun."}
-{"beat":39,"event":"\"She'd have liked you,\" Shiv says, eyes still shut. \"She'd have said you're too thin. Feed you.\""}
-{"beat":40,"event":"You row back, badly, in circles; Shiv laughs at you so hard she nearly goes over the side."}
-{"beat":41,"event":"Seven: the library reading room, green lamps, the long oak table; Kit has moved her books for you."}
+{"beat":39,"event":"\"She'd have liked you,\" Shiv says, eyes still shut. \"She'd have said you're too thin. Feed you.\"","memory":[{"page":"lore/hollowmere-shiv","fact":"Adrift on the mere, Shiv sang Nala one of her mam's Irish songs: she'd have liked you, she said.","learns":"character-player/hollowmere-nala"},{"page":"lore/hollowmere-shiv","fact":"Adrift on the mere, Shiv sang Nala one of her mam's Irish songs: she'd have liked you, she said.","learns":"character-other/hollowmere-shiv"}]}
+{"beat":40,"event":"You row back, badly, in circles; Shiv laughs at you so hard she nearly goes over the side.","memory":[{"page":"lore/hollowmere-nala-2","fact":"Rowing Shiv back across the mere, Nala went in circles, and Shiv nearly laughed herself overboard.","learns":"character-player/hollowmere-nala"},{"page":"lore/hollowmere-nala-2","fact":"Rowing Shiv back across the mere, Nala went in circles, and Shiv nearly laughed herself overboard.","learns":"character-other/hollowmere-shiv"}]}
+{"beat":41,"event":"Seven: the library reading room, green lamps, the long oak table; Kit has moved her books for you.","at":"2026-10-11T18:00:00.000Z","present":["character-player/hollowmere-nala","character-other/hollowmere-kit"]}
 {"beat":42,"event":"You work an hour in silence beside her, your Sigils notes open; her foot rests against yours."}
-{"beat":43,"event":"At eight she writes on your page: Monday's practical. I'll take a middle bench. Watched. Ish."}
-{"beat":44,"event":"You write back: I know. She folds your note very small, and keeps it, and goes back to her book."}
-{"beat":45,"event":"At nine you walk with Shiv to the Drowned Bell; it's quiet on a Sunday, the fire low."}
+{"beat":43,"event":"At eight she writes on your page: Monday's practical. I'll take a middle bench. Watched. Ish.","at":"2026-10-11T19:00:00.000Z"}
+{"beat":44,"event":"You write back: I know. She folds your note very small, and keeps it, and goes back to her book.","memory":[{"page":"lore/hollowmere-kit-2","fact":"Kit wrote Nala: Monday's practical, a middle bench. Watched. Ish. She kept Nala's reply: I know.","learns":"character-player/hollowmere-nala"},{"page":"lore/hollowmere-kit-2","fact":"Kit wrote Nala: Monday's practical, a middle bench. Watched. Ish. She kept Nala's reply: I know.","learns":"character-other/hollowmere-kit"}]}
+{"beat":45,"event":"At nine you walk with Shiv to the Drowned Bell; it's quiet on a Sunday, the fire low.","at":"2026-10-11T20:00:00.000Z","place":"place/hollowmere-village","present":["character-player/hollowmere-nala","character-other/hollowmere-shiv"]}
 {"beat":46,"event":"Shiv puts a coin in the old jukebox and plays the one Pogues record, the way she does every night."}
-{"beat":47,"event":"\"Her song,\" Shiv says. \"She'd sing it doing the dishes. Every night.\" She sits, and listens."}
+{"beat":47,"event":"\"Her song,\" Shiv says. \"She'd sing it doing the dishes. Every night.\" She sits, and listens.","memory":[{"page":"lore/hollowmere-shiv","fact":"The Pogues song Shiv plays every night was her mam's, sung doing the dishes every night.","learns":"character-player/hollowmere-nala"}]}
 {"beat":48,"event":"You sit with her by the fire with half a cider each while it plays, and then once more."}
-{"beat":49,"event":"Walking home along the black shore, Shiv takes your hand and swings it. \"Next Sunday,\" she says."}
-{"beat":50,"event":"At Thornfield's door she kisses you goodnight, slow and salt, and goes off whistling the song."}
-{"beat":51,"event":"Upstairs, Bea's door is ajar, the lamp on; she lifts the covers, silent, smiling, and you get in."}
+{"beat":49,"event":"Walking home along the black shore, Shiv takes your hand and swings it. \"Next Sunday,\" she says.","place":"place/hollowmere-academy"}
+{"beat":50,"event":"At Thornfield's door she kisses you goodnight, slow and salt, and goes off whistling the song.","leave":["character-other/hollowmere-shiv"]}
+{"beat":51,"event":"Upstairs, Bea's door is ajar, the lamp on; she lifts the covers, silent, smiling, and you get in.","place":"place/hollowmere-thornfield-house","arrive":["character-other/hollowmere-bea"]}
 {"beat":52,"event":"You fall asleep in 15 with Bea warm at your back and the Pogues still going round in your head."}
-{"beat":53,"event":"A day at Hollowmere ends."}
