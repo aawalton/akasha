@@ -272,5 +272,17 @@ export const overwhereIiNala3 = {
       fact: "On day twenty-eight Nala drinks from Ebba's rain barrel, and the pounding in her head eases.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
+    {
+      fact: "On day twenty-eight's night the stair dream comes nearest yet; Nala wakes before dawn.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Raw Sea-Water taken into Nala's well deepens its downward strain, as Descent nears.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Taken in bulk, raw Sea-Water would bring Descent on Nala before her heart is refined.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
