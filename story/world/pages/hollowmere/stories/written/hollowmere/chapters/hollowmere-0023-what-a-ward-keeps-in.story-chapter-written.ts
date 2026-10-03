@@ -5,6 +5,8 @@ export const hollowmere0023WhatAWardKeepsIn = {
   type: "page-type/story-chapter-written",
   slug: "hollowmere-0023-what-a-ward-keeps-in",
   cover: "image/image-80463d6c33f872d1",
+  completedAt: "2026-10-03T12:29:24.938Z",
+  ownProgress: 3083,
   position: 23,
   unit: "unit/words",
   title: "What a Ward Keeps In",
