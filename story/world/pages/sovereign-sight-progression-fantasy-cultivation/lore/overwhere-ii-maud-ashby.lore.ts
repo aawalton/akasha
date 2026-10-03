@@ -117,7 +117,7 @@ export const overwhereIiMaudAshby = {
     },
     {
       fact: "Ringing the Callow pool's throat takes some thirty stakes; Hob can forge about ten a day.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Maud sees the trouble: the throat lies in the black, deeper than a man, and none may wade it.",
