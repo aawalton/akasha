@@ -326,7 +326,7 @@ export const overwhereIWendlow2 = {
     },
     {
       fact: "Bell and Barrel breakfast is porridge with honey and small beer, worth 2 copper.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
   ],
 } as const satisfies Lore
