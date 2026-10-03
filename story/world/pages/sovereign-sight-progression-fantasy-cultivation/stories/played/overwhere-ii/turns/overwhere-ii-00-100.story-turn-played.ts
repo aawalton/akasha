@@ -30,11 +30,15 @@ export const overwhereIi00100 = {
     "Ebba: \"But the sun's low, and I'll not have the boys on the mountain after dark.\"",
     'Hawise: "Bank it now, or get them down first? Your call."',
   ],
+  issues: [
+    '"The pasture below lies bare" - six unburned ewe carcasses still lie on the pasture from turn 99',
+  ],
   lore: [
     "lore/overwhere-ii-nala",
     "lore/overwhere-ii-nala-2",
     "lore/overwhere-ii-nala-3",
     "place/overwhere-ii-callow-beck",
   ],
+  reviewedBy: ["story-reviewer/continuity"],
   endsAt: "2026-10-25T16:50:00.000Z",
 } as const satisfies StoryTurnPlayed
