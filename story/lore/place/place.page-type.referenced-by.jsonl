@@ -7,6 +7,10 @@
 {"propertySlug":"import","fileName":"place.page-type.ts","path":"story/lore-disclosure/modules/lore-withholding/lore-withholding.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"place.page-type.ts","path":"story/world/pages/library-system-reset-overdue-book-four-stubbed/stories/played/otherwhere-i/mechanics/rooms/properties/otherwhere-i-room-exits.computed-property.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"place.page-type.ts","path":"story/world/stories/played/turns/modules/turn-lore-handed/turn-lore-handed.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/bathhouse-confession/places/bathhouse-confession-bath.place.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/bathhouse-confession/places/bathhouse-confession-changing-room.place.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/bathhouse-confession/places/bathhouse-confession-entryway.place.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/bathhouse-confession/places/bathhouse-confession-lane.place.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/beware-of-chicken/places/otherwhere-iv-ash-forest.place.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/beware-of-chicken/places/otherwhere-iv-azure-hills.place.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/beware-of-chicken/places/otherwhere-iv-crimson-crucible-city.place.ts","typed":true,"deferred":false}
