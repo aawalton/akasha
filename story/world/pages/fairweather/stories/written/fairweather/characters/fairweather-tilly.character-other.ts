@@ -6,7 +6,7 @@ export const fairweatherTilly = {
   slug: "fairweather-tilly",
   title: "Tilly",
   story: "story-written/fairweather",
-  place: "place/fairweather-glasswood",
+  place: "place/fairweather-guild-hall",
   cover: "image/image-18b50fdd9b3aa1db",
   coverDescription:
     "a gorgeous, small, petite young Japanese woman of twenty with a sweet J-pop idol's face: a small round doll-like face, big bright blue eyes, a tiny nose, soft pink lips, fair smooth skin with a smudge of soot on one cheek, and blonde hair with wispy bangs in two long braids with singed ends, brass goggles pushed up on her head",
