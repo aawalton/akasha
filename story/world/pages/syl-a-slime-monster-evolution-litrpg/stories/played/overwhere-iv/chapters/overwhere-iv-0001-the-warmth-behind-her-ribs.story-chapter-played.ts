@@ -10,6 +10,7 @@ export const overwhereIv0001TheWarmthBehindHerRibs = {
   story: "story-played/overwhere-iv",
   ownLength: 3838,
   prose: "txt",
+  beats: "jsonl",
   turnCovers: [
     {
       position: 1,
