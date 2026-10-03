@@ -6,6 +6,7 @@ export const storyEngine = {
   slug: "story-engine",
   definition: "the code that plays a story",
   parts: [
+    "domain/beat-state",
     "domain/narrative-story-turn-promotion",
     "domain/story-engine-core",
     "module/phase-timing",
