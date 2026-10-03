@@ -52,5 +52,9 @@ export const overwhereIiiCurrentKnot = {
       fact: "[Current Knot – At [Basic] level, knot raw currents together until they burst.]",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
+    {
+      fact: "A knot dragged onto a charging beast lags behind it, and can tear loose unburst.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+    },
   ],
 } as const satisfies Lore
