@@ -50,6 +50,7 @@ export const hollowmereYusra2 = {
         "character-player/hollowmere-nala",
         "character-other/hollowmere-yusra",
         "character-other/hollowmere-bea",
+        "character-other/hollowmere-shiv",
       ],
     },
     {
@@ -82,6 +83,15 @@ export const hollowmereYusra2 = {
         "lore-disclosure/game-master",
         "character-player/hollowmere-nala",
         "character-other/hollowmere-yusra",
+      ],
+    },
+    {
+      fact: "Seeing Bea's wet eyes, Yusra made her and Nala sweet tea unasked; Bea: Yusra Haddad made me tea.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/hollowmere-yusra",
+        "character-other/hollowmere-bea",
+        "character-player/hollowmere-nala",
       ],
     },
   ],

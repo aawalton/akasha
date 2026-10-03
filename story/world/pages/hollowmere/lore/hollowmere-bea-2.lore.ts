@@ -189,5 +189,37 @@ export const hollowmereBea2 = {
         "character-player/hollowmere-nala",
       ],
     },
+    {
+      fact: "Nobody at Hollowmere knows of Bea's brother but Nala, not even Yusra.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/hollowmere-bea",
+        "character-player/hollowmere-nala",
+      ],
+    },
+    {
+      fact: "Bea's brother wears his hospital tin medal, Brave Heart, every day, and thinks bow means ribbon.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/hollowmere-bea",
+        "character-player/hollowmere-nala",
+      ],
+    },
+    {
+      fact: "Nala sat outside the lodge while Bea rang home; Bea had always rung alone before.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/hollowmere-bea",
+        "character-player/hollowmere-nala",
+      ],
+    },
+    {
+      fact: "Bea told Nala I love you; Nala said she loves her too, and they slept face to face in 15.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/hollowmere-bea",
+        "character-player/hollowmere-nala",
+      ],
+    },
   ],
 } as const satisfies Lore

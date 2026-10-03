@@ -248,5 +248,14 @@ export const hollowmerePriya = {
         "character-other/hollowmere-amara",
       ],
     },
+    {
+      fact: "Priya drowned her Sunday roast in gravy; Amara told her: It's a sauce, Raman. Not a moat.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/hollowmere-priya",
+        "character-other/hollowmere-amara",
+        "character-player/hollowmere-nala",
+      ],
+    },
   ],
 } as const satisfies Lore

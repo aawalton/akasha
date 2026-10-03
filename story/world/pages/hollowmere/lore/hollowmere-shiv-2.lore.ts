@@ -49,5 +49,29 @@ export const hollowmereShiv2 = {
         "character-other/hollowmere-shiv",
       ],
     },
+    {
+      fact: "On the rock Shiv said Kick, Siobhan to the water, and told Nala: Every Sunday. She'd like you.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/hollowmere-shiv",
+        "character-player/hollowmere-nala",
+      ],
+    },
+    {
+      fact: "Told of Nala's fell walk, Shiv said Yusra's been a ghost since summer: Good for her.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/hollowmere-shiv",
+        "character-player/hollowmere-nala",
+      ],
+    },
+    {
+      fact: "Shiv told Nala there's a queue, and she's still in it, when it's right; Nala: a year of Sundays.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/hollowmere-shiv",
+        "character-player/hollowmere-nala",
+      ],
+    },
   ],
 } as const satisfies Lore
