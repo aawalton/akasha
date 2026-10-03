@@ -4,7 +4,7 @@ export const overwhereIii00086 = {
   id: "01a0ff7d-9610-745a-b6c7-42894a38b02b",
   type: "page-type/story-turn-played",
   slug: "overwhere-iii-00-086",
-  ownLength: 174,
+  ownLength: 177,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iii"],
   position: 86,
@@ -15,7 +15,7 @@ export const overwhereIii00086 = {
     "character-other/overwhere-iii-marda-hesk",
     "character-other/overwhere-iii-mother-sallow",
   ],
-  stepStatus: "step-status/writer",
+  stepStatus: "step-status/recorders",
   action: "“Let’s go there together, now.”",
   beats: [
     '"Let\'s go there together, now."',
