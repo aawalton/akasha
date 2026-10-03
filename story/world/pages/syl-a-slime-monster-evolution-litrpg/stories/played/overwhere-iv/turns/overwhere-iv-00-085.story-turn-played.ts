@@ -4,13 +4,14 @@ export const overwhereIv00085 = {
   id: "01a0ff77-ca4c-7d3b-b00d-6208f757f866",
   type: "page-type/story-turn-played",
   slug: "overwhere-iv-00-085",
+  cover: "image/image-cc5635fc58ac46a8",
   ownLength: 266,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iv"],
   position: 85,
   prose: "txt",
   characters: ["character-player/overwhere-iv-nala", "character-other/overwhere-iv-ilsa-crane"],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action: "“Sure. Don’t mind some company after a night like that.”",
   beats: [
     '"Sure," Nala tells Dace. "Don\'t mind some company after a night like that."',
@@ -32,6 +33,7 @@ export const overwhereIv00085 = {
   ],
   issues: ["\"once Tull's late wife's\" - What It Is"],
   lore: [
+    "lore/overwhere-iv-brookside-four-2",
     "lore/overwhere-iv-ilsa-crane-2",
     "lore/overwhere-iv-millbrook-adventurers-hall-2",
     "lore/overwhere-iv-nala",
@@ -42,6 +44,12 @@ export const overwhereIv00085 = {
     "place/overwhere-iv-tull-farm",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/mechanics", "story-recorder/memory"],
+  recordedBy: [
+    "story-recorder/inventory",
+    "story-recorder/mechanics",
+    "story-recorder/memory",
+    "story-recorder/picture",
+  ],
   endsAt: "2026-10-07T07:20:00.000Z",
+  coverAfter: "\"A strike broken is a major job, same as a camp cleared. That's your",
 } as const satisfies StoryTurnPlayed
