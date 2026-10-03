@@ -10,7 +10,7 @@ export const overwhereIi00098 = {
   position: 98,
   prose: "txt",
   characters: ["character-player/overwhere-ii-nala"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/recorders",
   action: "“Yes. I’m ready now.”",
   beats: [
     'Nala: "Yes. I\'m ready now."',
@@ -37,6 +37,6 @@ export const overwhereIi00098 = {
     "lore/overwhere-ii-nala-3",
     "place/overwhere-ii-callow-beck",
   ],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
   endsAt: "2026-10-25T14:30:00.000Z",
 } as const satisfies StoryTurnPlayed
