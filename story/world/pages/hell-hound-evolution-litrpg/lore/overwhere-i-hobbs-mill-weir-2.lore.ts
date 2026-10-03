@@ -52,5 +52,9 @@ export const overwhereIHobbsMillWeir2 = {
       fact: "The crews cheer the fangs, and the Pike's master says he'll tell every landing downriver of her.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Nala cut the wyrm's two fangs out whole: hooked, yellow-white, each a hand long.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+    },
   ],
 } as const satisfies Lore
