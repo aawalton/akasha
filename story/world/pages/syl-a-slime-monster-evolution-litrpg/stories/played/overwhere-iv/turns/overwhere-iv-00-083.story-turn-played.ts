@@ -7,7 +7,8 @@ export const overwhereIv00083 = {
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iv"],
   position: 83,
-  stepStatus: "step-status/world-builder",
+  stepStatus: "step-status/game-master",
   action:
     "I wait until they are in range and then strike each of the hobs, aiming a slice directly across their eyes, to blind them even if it doesn’t kill outright.",
+  lore: ["lore/overwhere-iv-the-tangle-2"],
 } as const satisfies StoryTurnPlayed
