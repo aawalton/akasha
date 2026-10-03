@@ -9,7 +9,7 @@ export const manageGuildSales = {
   esoCharacterId: "8796093022338107",
   character: "temper-account-character/erin-solstice",
   completionCard: "temper-completion-category/tasks-guild-sales",
-  dueDate: "2026-09-28",
+  dueDate: "2026-10-08",
   rruleRule: "FREQ=WEEKLY;BYDAY=MO",
   rruleAnchorFromCompletion: false,
   accountPage: "temper-account/alanarre",

@@ -11,7 +11,7 @@ export const antiquityLeadsMotifs = {
   esoCharacterId: "8796093022338107",
   scope: "character",
   priority: "p2",
-  dueDate: "2026-09-29",
+  dueDate: "2026-10-08",
   displayOrder: 0,
   completionCard: "temper-completion-category/account-antiquity-leads-motifs",
   lastCompletedAt: "2026-09-22T13:06:49.000Z",

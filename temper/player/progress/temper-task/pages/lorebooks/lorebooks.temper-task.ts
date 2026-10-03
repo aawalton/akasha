@@ -9,7 +9,7 @@ export const lorebooks = {
   displayOrder: 15,
   character: "temper-account-character/erin-solstice",
   completionCard: "temper-completion-category/characters-lore-library-character",
-  dueDate: "2026-09-28",
+  dueDate: "2026-10-08",
   rruleRule: "FREQ=DAILY",
   rruleAnchorFromCompletion: false,
   accountPage: "temper-account/alanarre",

@@ -9,7 +9,7 @@ export const storyZoneQuestSkillPoints = {
   character: "temper-account-character/maviola-el",
   completionCard: "temper-completion-category/characters-skill-points",
   completionItemPath: ["storyZoneQuests"],
-  dueDate: "2026-09-28",
+  dueDate: "2026-10-08",
   rruleRule: "FREQ=DAILY",
   rruleAnchorFromCompletion: false,
   accountPage: "temper-account/alanarre",

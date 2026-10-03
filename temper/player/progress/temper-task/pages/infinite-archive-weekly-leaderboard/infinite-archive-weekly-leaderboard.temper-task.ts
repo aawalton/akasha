@@ -8,7 +8,7 @@ export const infiniteArchiveWeeklyLeaderboard = {
   displayOrder: 14,
   esoCharacterId: "8796093022338107",
   character: "temper-account-character/erin-solstice",
-  dueDate: "2026-09-29",
+  dueDate: "2026-10-08",
   rruleRule: "FREQ=WEEKLY;BYDAY=TU",
   rruleAnchorFromCompletion: false,
   accountPage: "temper-account/alanarre",

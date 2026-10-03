@@ -7,7 +7,7 @@ export const craftingWrits = {
   title: "Crafting Writs",
   displayOrder: 1,
   completionCard: "temper-completion-category/characters-daily-writs",
-  dueDate: "2026-09-28",
+  dueDate: "2026-10-08",
   rruleRule: "FREQ=DAILY",
   rruleAnchorFromCompletion: false,
   accountPage: "temper-account/alanarre",

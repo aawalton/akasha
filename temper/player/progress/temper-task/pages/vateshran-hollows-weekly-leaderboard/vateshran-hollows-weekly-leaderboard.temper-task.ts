@@ -8,7 +8,7 @@ export const vateshranHollowsWeeklyLeaderboard = {
   displayOrder: 15,
   esoCharacterId: "8796093022338107",
   character: "temper-account-character/erin-solstice",
-  dueDate: "2026-10-04",
+  dueDate: "2026-10-08",
   rruleRule: "FREQ=WEEKLY;INTERVAL=2",
   rruleAnchorFromCompletion: false,
   accountPage: "temper-account/alanarre",

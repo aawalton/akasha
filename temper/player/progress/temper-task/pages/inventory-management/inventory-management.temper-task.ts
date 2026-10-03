@@ -7,7 +7,7 @@ export const inventoryManagement = {
   title: "Inventory Management",
   displayOrder: 13,
   completionCard: "temper-completion-category/tasks-inventory-management",
-  dueDate: "2026-10-03",
+  dueDate: "2026-10-08",
   rruleRule: "FREQ=WEEKLY;BYDAY=SA",
   rruleAnchorFromCompletion: false,
   accountPage: "temper-account/alanarre",
