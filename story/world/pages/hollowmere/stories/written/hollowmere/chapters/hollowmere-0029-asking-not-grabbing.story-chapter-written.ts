@@ -10,7 +10,7 @@ export const hollowmere0029AskingNotGrabbing = {
   story: "story-written/hollowmere",
   ownLength: 3964,
   prose: "txt",
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/recorders",
   beats: [
     "Monday of week five: you wake in 15 to Bea already looking at you, her chin on her fist, smiling.",
     '"Still true," she says. "I checked. First thing. I still love you." You laugh, and pull her down.',
@@ -93,5 +93,5 @@ export const hollowmere0029AskingNotGrabbing = {
     "character-other/hollowmere-amara",
     "character-other/hollowmere-morwenna",
   ],
-  reviewedBy: ["story-reviewer/continuity"],
+  reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
 } as const satisfies StoryChapterWritten
