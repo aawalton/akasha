@@ -297,7 +297,7 @@ export const overwhereIHobbsMillWeir = {
     },
     {
       fact: "Opening the wyrm to reach its bile sac takes about twenty minutes of cutting.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
     {
       fact: "The dead wyrm stinks of river mud and scorched flesh; flies gather on it within minutes.",
