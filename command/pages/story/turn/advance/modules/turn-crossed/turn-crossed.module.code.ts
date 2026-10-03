@@ -91,7 +91,7 @@ export function crossingsIn(outcomes: string): readonly string[] {
 
 export function crossedSaid(crossed: Crossed | null): string {
   if (crossed === null || crossed.crossings.length === 0) return ""
-  const opening = `The checks settled on \`${crossed.turn}\` crossed these; open a window for each its prose did not show:`
+  const opening = `The checks settled on \`${crossed.turn}\` crossed these, whether or not its prose showed them; open a window for any it did not:`
   return ["", "", opening, ...crossed.crossings].join("\n")
 }
 

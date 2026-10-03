@@ -95,6 +95,6 @@ test("a turn the world builder hands on tells the game master alone what the tur
 test("the crossings are said after the notice, naming the turn they were settled on", () => {
   const said = crossedSaid({ turn: "the-saga-00-002", crossings: ["- `growth`: rank from 2 to 3"] })
   expect(said).toBe(
-    "\n\nThe checks settled on `the-saga-00-002` crossed these; open a window for each its prose did not show:\n- `growth`: rank from 2 to 3"
+    "\n\nThe checks settled on `the-saga-00-002` crossed these, whether or not its prose showed them; open a window for any it did not:\n- `growth`: rank from 2 to 3"
   )
 })
