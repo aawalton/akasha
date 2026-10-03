@@ -217,7 +217,7 @@ export const overwhereIiWhitecombs = {
     },
     {
       fact: "Near the doubled pool Nala's well leans toward it as hard as it once did at Hollow Tarn.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Stones packed into the cwm's crack would stop the trickle; the loose scree beside it would serve.",
