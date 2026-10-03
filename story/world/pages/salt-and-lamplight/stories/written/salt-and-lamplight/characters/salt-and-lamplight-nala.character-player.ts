@@ -10,4 +10,5 @@ export const saltAndLamplightNala = {
     "a slim young woman of about twenty-five with pale fair skin, a light dusting of freckles across her nose and cheeks, clear blue-grey eyes, straight dark auburn brows, a small straight nose, soft full rose-pink lips, a heart-shaped face narrowing to a small chin, and long straight dark auburn-red hair worn loose with a side part",
   story: "story-written/salt-and-lamplight",
   person: "person/alan",
+  place: "place/salt-and-lamplight-morrow-head",
 } as const satisfies CharacterPlayer

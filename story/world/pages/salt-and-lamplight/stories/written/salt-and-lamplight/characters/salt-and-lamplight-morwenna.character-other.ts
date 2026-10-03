@@ -7,4 +7,5 @@ export const saltAndLamplightMorwenna = {
   title: "Morwenna",
   story: "story-written/salt-and-lamplight",
   cover: "image/image-f35c3e4a9e5d6eab",
+  place: "place/salt-and-lamplight-morrow-head",
 } as const satisfies CharacterOther
