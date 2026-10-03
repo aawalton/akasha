@@ -6,4 +6,5 @@ export const towerAndTheStarHex = {
   slug: "tower-and-the-star-hex",
   title: "Hex",
   story: "story-written/tower-and-the-star",
+  place: "place/tower-and-the-star-floor-19-transition-hall",
 } as const satisfies CharacterOther

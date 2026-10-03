@@ -6,4 +6,5 @@ export const towerAndTheStarBrennan = {
   slug: "tower-and-the-star-brennan",
   title: "Brennan Cole",
   story: "story-written/tower-and-the-star",
+  place: "place/tower-and-the-star-floor-19-transition-hall",
 } as const satisfies CharacterOther

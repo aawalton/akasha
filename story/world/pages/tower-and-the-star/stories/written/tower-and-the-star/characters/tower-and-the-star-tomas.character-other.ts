@@ -6,4 +6,5 @@ export const towerAndTheStarTomas = {
   slug: "tower-and-the-star-tomas",
   title: "Tomás",
   story: "story-written/tower-and-the-star",
+  place: "place/tower-and-the-star-floor-32-approach-rest-node",
 } as const satisfies CharacterOther
