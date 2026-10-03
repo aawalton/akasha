@@ -1,4 +1,5 @@
 import { gameMaster } from "akasha/story/chapter/step-status/pages/game-master.step-status.ts"
+import { mechanics } from "akasha/story/chapter/step-status/pages/mechanics.step-status.ts"
 import { player } from "akasha/story/chapter/step-status/pages/player.step-status.ts"
 import { recorders as recordersStatus } from "akasha/story/chapter/step-status/pages/recorders.step-status.ts"
 import { reviewers as reviewersStatus } from "akasha/story/chapter/step-status/pages/reviewers.step-status.ts"
@@ -10,6 +11,7 @@ import type { BeatScene } from "akasha/story/engine/beat-state/modules/beat-repl
 const TURN_STEPS = [
   worldBuilder.slug,
   gameMaster.slug,
+  mechanics.slug,
   writer.slug,
   reviewersStatus.slug,
   recordersStatus.slug,
@@ -21,6 +23,8 @@ export type TurnStep = (typeof TURN_STEPS)[number]
 export const WORLD_BUILDER: TurnStep = worldBuilder.slug
 
 export const GAME_MASTER: TurnStep = gameMaster.slug
+
+export const MECHANICS: TurnStep = mechanics.slug
 
 export const REVIEWERS: TurnStep = reviewersStatus.slug
 
@@ -106,6 +110,7 @@ export type Made =
 const WHO: Readonly<Record<TurnStep, string>> = {
   "world-builder": "the world builder",
   "game-master": "the game master",
+  mechanics: "the mechanics recorder",
   writer: "the writer",
   reviewers: "the reviewers",
   recorders: "the recorders",

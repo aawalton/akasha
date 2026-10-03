@@ -51,6 +51,7 @@ type Kind = Handed["kind"]
 const ROLE_OF: Readonly<Record<TurnStep, string | null>> = {
   "world-builder": worldBuilderRole.slug,
   "game-master": gameMasterRole.slug,
+  mechanics: storyRecorderRole.slug,
   writer: writerRole.slug,
   reviewers: reviewerRole.slug,
   recorders: storyRecorderRole.slug,
@@ -60,6 +61,7 @@ const ROLE_OF: Readonly<Record<TurnStep, string | null>> = {
 const TAKES: Readonly<Record<TurnStep, Kind | null>> = {
   "world-builder": "lore",
   "game-master": "beats",
+  mechanics: "record",
   writer: "prose",
   reviewers: "review",
   recorders: "record",
