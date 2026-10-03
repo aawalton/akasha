@@ -78,7 +78,7 @@ export const overwhereIHobbsMillWeir2 = {
     },
     {
       fact: "Jory tells Nala the Wend Maid owes her passage anywhere on the Wend, any time, free.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
   ],
 } as const satisfies Lore
