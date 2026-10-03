@@ -39,7 +39,12 @@ export const fairweather0001TheHallOfNaming = {
     "story-reviewer/holdings",
     "story-reviewer/continuity",
   ],
-  recordedBy: ["story-recorder/mechanics", "story-recorder/inventory", "story-recorder/plan"],
+  recordedBy: [
+    "story-recorder/mechanics",
+    "story-recorder/inventory",
+    "story-recorder/plan",
+    "story-recorder/picture",
+  ],
   scenes: [
     "image/image-8276a3e48e044643",
     "image/image-731ef03dc1d7f053",
