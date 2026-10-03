@@ -48,7 +48,7 @@ export const fairweather0001BlackStrongOneSugar = {
   ],
   scenes: [
     "image/image-be916eb145fde6e6",
-    "image/image-76cf4eaedeb67989",
+    "image/image-14f81a021f20abde",
     "image/image-0604ce45d1ca4e98",
     "image/image-dcc9d2523c92dc27",
     "image/image-502c7880679df07e",
