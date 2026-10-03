@@ -257,7 +257,7 @@ export const overwhereIiWhitecombs = {
     },
     {
       fact: "Parted, the water left behind runs clear and faintly salt, and harms nothing that drinks it.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Parted, the black draws together into a bead of dense, ice-cold Water that crawls toward the pool.",
