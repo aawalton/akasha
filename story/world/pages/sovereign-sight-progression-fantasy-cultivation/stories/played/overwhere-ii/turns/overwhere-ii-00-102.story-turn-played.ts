@@ -29,11 +29,13 @@ export const overwhereIi00102 = {
     'Hawise stands in the doorway, stretching. "Quiet night. Nothing came down."',
     'Hawise: "Up to that pool, or back to the Lady?"',
   ],
+  issues: ['"Nothing came down." - Nobody Acts'],
   lore: [
     "lore/overwhere-ii-nala",
     "lore/overwhere-ii-nala-2",
     "lore/overwhere-ii-nala-3",
     "place/overwhere-ii-callow-beck",
   ],
+  reviewedBy: ["story-reviewer/style"],
   endsAt: "2026-10-26T06:30:00.000Z",
 } as const satisfies StoryTurnPlayed
