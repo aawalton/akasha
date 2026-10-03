@@ -4,13 +4,14 @@ export const hollowmere0023WhatAWardKeepsIn = {
   id: "01a10180-cd22-7db4-ac44-25a10a57a323",
   type: "page-type/story-chapter-written",
   slug: "hollowmere-0023-what-a-ward-keeps-in",
+  cover: "image/image-80463d6c33f872d1",
   position: 23,
   unit: "unit/words",
   title: "What a Ward Keeps In",
   story: "story-written/hollowmere",
   ownLength: 3083,
   prose: "txt",
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   beats: [
     "Tuesday of week four: grey light; Bea is gone already, her side of the bed still warm.",
     "A note on your pillow in Bea's big hand: Outing. Back for lunch. Eat. B x",
@@ -107,5 +108,41 @@ export const hollowmere0023WhatAWardKeepsIn = {
     "character-other/hollowmere-morwenna",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/mechanics", "story-recorder/inventory", "story-recorder/memory"],
+  recordedBy: [
+    "story-recorder/mechanics",
+    "story-recorder/inventory",
+    "story-recorder/memory",
+    "story-recorder/picture",
+  ],
+  scenes: [
+    "image/image-481edd8957a06739",
+    "image/image-0c37f38953053586",
+    "image/image-80d5b65c285d64e4",
+    "image/image-80463d6c33f872d1",
+  ],
+  pictured: [
+    {
+      cover: "image/image-481edd8957a06739",
+      coverAfter: "You take your chair by the round window, between Kit and Lin.",
+      character: "character-other/hollowmere-amara",
+      outfit: "camel knit jumper, black tailored trousers, gold hoops and a gold watch",
+    },
+    {
+      cover: "image/image-0c37f38953053586",
+      coverAfter: "On the tower stairs afterwards, Kit falls into step beside you.",
+      setting: "the library tower stairs",
+    },
+    {
+      cover: "image/image-80d5b65c285d64e4",
+      coverAfter: "She's standing at the counter in a beautiful cream silk shirt, with the sleeves",
+      character: "character-other/hollowmere-amara",
+      outfit: "cream silk shirt with the sleeves rolled up, black tailored trousers, gold watch",
+    },
+    {
+      cover: "image/image-80463d6c33f872d1",
+      coverAfter: "She's in her coat, buttoned. Her brass badge at her collar. Her bag",
+      character: "character-other/hollowmere-yusra",
+      outfit: "dark wool coat buttoned up, brass warden's badge at the collar, bag on her arm",
+    },
+  ],
 } as const satisfies StoryChapterWritten
