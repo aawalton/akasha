@@ -149,6 +149,7 @@ export const writer = {
       aids: [
         "Narration names no number the window showed.",
         "The window never stands in for the scene.",
+        "In a story with a System, write each window as a `:::<kind>` block, as a played turn does.",
       ],
     },
     {
