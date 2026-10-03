@@ -97,7 +97,7 @@ export const overwhereIiVarrowTalented = {
     },
     {
       fact: "Hawise has never sparred a water Talent, and does not think of the ground as a weapon.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "The Lady's rule leaves free the water in the court: frost, puddles, the well, the trough.",
