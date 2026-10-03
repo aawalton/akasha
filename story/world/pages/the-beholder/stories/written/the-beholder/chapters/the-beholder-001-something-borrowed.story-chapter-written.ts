@@ -10,4 +10,5 @@ export const theBeholder001SomethingBorrowed = {
   ownLength: 2726,
   unit: "unit/words",
   prose: "txt",
+  beats: "jsonl",
 } as const satisfies StoryChapterWritten
