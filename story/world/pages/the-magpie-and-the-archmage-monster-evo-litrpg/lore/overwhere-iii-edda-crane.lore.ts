@@ -142,5 +142,9 @@ export const overwhereIiiEddaCrane = {
       fact: "Edda first saw blighted stumps by her kilns the winter after Sallow came; she never put it together.",
       knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-edda-crane"],
     },
+    {
+      fact: "Hearing Sallow was a blighted woman with a false face, Edda means to tell Marda at the post herself.",
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-edda-crane"],
+    },
   ],
 } as const satisfies Lore
