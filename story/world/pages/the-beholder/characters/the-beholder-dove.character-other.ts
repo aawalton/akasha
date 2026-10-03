@@ -7,4 +7,5 @@ export const theBeholderDove = {
   title: "Dove",
   world: "world/the-beholder",
   story: "story-written/the-beholder",
+  place: "place/the-beholder-rigging-loft",
 } as const satisfies CharacterOther

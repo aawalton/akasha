@@ -7,4 +7,5 @@ export const theBeholderColetteVane = {
   title: "Colette Vane",
   world: "world/the-beholder",
   story: "story-written/the-beholder",
+  place: "place/the-beholder-mirror-studio",
 } as const satisfies CharacterOther

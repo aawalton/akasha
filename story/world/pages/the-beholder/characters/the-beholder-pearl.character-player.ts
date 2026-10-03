@@ -8,4 +8,5 @@ export const theBeholderPearl = {
   world: "world/the-beholder",
   story: "story-written/the-beholder",
   person: "person/alan",
+  place: "place/the-beholder-rigging-loft",
 } as const satisfies CharacterPlayer

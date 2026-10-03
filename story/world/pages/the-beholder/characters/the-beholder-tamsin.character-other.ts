@@ -7,4 +7,5 @@ export const theBeholderTamsin = {
   title: "Tamsin",
   world: "world/the-beholder",
   story: "story-written/the-beholder",
+  place: "place/the-beholder-backstage",
 } as const satisfies CharacterOther
