@@ -133,7 +133,7 @@ export const overwhereIiMaudAshby = {
     },
     {
       fact: "On day twenty-nine Maud rides her mule to Callow Beck, then climbs on slowly with Anselm.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Maud reaches the gully mouth about noon, and the Callow cwm by late afternoon.",
