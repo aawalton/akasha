@@ -4,10 +4,13 @@ export const overwhereIv00089 = {
   id: "01a1019a-1b6f-7f2e-a400-3a3550c86369",
   type: "page-type/story-turn-played",
   slug: "overwhere-iv-00-089",
+  ownLength: 132,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iv"],
   position: 89,
-  stepStatus: "step-status/writer",
+  prose: "txt",
+  characters: ["character-player/overwhere-iv-nala"],
+  stepStatus: "step-status/reviewers",
   action: "I slice the horn blower, then the runner, heads off at the neck",
   beats: [
     "Nala fixes her eye on the horn-blower's neck and lays the line before its breath is drawn.",
@@ -21,6 +24,12 @@ export const overwhereIv00089 = {
     "From the rise the smoke is plain now, rising above the trees up the trail.",
     "And down from there, faint through the oaks, come axe-strokes: many of them, steady, one on another.",
   ],
-  lore: ["lore/overwhere-iv-the-tangle-2", "lore/overwhere-iv-the-tangle-2-2"],
+  lore: [
+    "lore/overwhere-iv-nala",
+    "lore/overwhere-iv-nala-2",
+    "lore/overwhere-iv-nala-3",
+    "lore/overwhere-iv-the-tangle-2",
+    "lore/overwhere-iv-the-tangle-2-2",
+  ],
   endsAt: "2026-10-07T10:51:00.000Z",
 } as const satisfies StoryTurnPlayed
