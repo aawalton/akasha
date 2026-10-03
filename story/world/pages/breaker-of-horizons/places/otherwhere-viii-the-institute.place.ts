@@ -388,6 +388,10 @@ export const otherwhereViiiTheInstitute = {
       fact: "The first apprentices, in grey canvas aprons, saw Nala at the master's bench and whispered.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-viii-nala"],
     },
+    {
+      fact: "Hallick watched a cardless stranger clear the gap in minutes, from the table and no lens.",
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-viii-hallick"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place
