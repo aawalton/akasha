@@ -11,4 +11,5 @@ export const overwhereIi00106 = {
   action:
     "I empty out my leather pouch into another bag and pull the bead into the pouch, to see if it will hold it.",
   lore: ["place/overwhere-ii-whitecombs"],
+  endsAt: "2026-10-26T11:23:00.000Z",
 } as const satisfies StoryTurnPlayed
