@@ -93,4 +93,5 @@ export const hollowmere0029AskingNotGrabbing = {
     "character-other/hollowmere-amara",
     "character-other/hollowmere-morwenna",
   ],
+  reviewedBy: ["story-reviewer/continuity"],
 } as const satisfies StoryChapterWritten
