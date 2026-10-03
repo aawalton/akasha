@@ -214,7 +214,7 @@ export const overwhereIWendlow2 = {
     },
     {
       fact: "Ilse sizes Nala's finger with a wire loop and gives her a stamped tin claim tag for the ring.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
   ],
 } as const satisfies Lore
