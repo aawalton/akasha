@@ -369,5 +369,13 @@ export const hollowmereNala2 = {
         "character-other/hollowmere-lin",
       ],
     },
+    {
+      fact: "Nala can't remember who walked with her before, only that the fells feel right underfoot.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-yusra",
+      ],
+    },
   ],
 } as const satisfies Lore

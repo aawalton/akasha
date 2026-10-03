@@ -26,5 +26,63 @@ export const hollowmereYusra2 = {
         "character-other/hollowmere-bea",
       ],
     },
+    {
+      fact: "As a girl Yusra walked the moors above Leeds with her dad on Sundays, squeaking in the snow.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-yusra",
+      ],
+    },
+    {
+      fact: "On Harrow Fell's top Yusra said Up here it's just me, and kissed Nala: over the line, she said.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-yusra",
+        "character-other/hollowmere-bea",
+      ],
+    },
+    {
+      fact: "Yusra and Nala each put a stone on Harrow Fell's cairn, Nala's on top of Yusra's.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-yusra",
+        "character-other/hollowmere-bea",
+      ],
+    },
+    {
+      fact: "At Hollin Tarn Yusra told Nala she can't promise anything; she's still mending.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-yusra",
+      ],
+    },
+    {
+      fact: "Told Bea knows and said go, Yusra said: Bea Lindqvist. Huh. That's generous of her.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-yusra",
+      ],
+    },
+    {
+      fact: "Yusra asked Nala to walk again next Saturday; Nala said after Bea's race, and Yusra agreed.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-yusra",
+      ],
+    },
+    {
+      fact: "On quiet infirmary nights the night porter brings Yusra a biscuit at three.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-yusra",
+      ],
+    },
   ],
 } as const satisfies Lore

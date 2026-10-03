@@ -145,5 +145,33 @@ export const hollowmereBea2 = {
         "character-other/hollowmere-bea",
       ],
     },
+    {
+      fact: "Bea's novice four ran clean on its second length of the mere at training; Morwenna whooped.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-bea",
+        "character-other/hollowmere-shiv",
+        "character-other/hollowmere-morwenna",
+      ],
+    },
+    {
+      fact: "After training Bea kissed Nala on the bank, wet from the water, in front of everyone.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-bea",
+        "character-other/hollowmere-shiv",
+        "character-other/hollowmere-morwenna",
+      ],
+    },
+    {
+      fact: "Told of Yusra's kiss, Bea said Good, she needed it; she minds a bit: You came back to 15.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-bea",
+      ],
+    },
   ],
 } as const satisfies Lore

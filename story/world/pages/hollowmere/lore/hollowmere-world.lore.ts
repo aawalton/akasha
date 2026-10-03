@@ -186,11 +186,16 @@ export const hollowmereWorld = {
         "lore-disclosure/game-master",
         "character-other/hollowmere-yusra",
         "character-other/hollowmere-shiv",
+        "character-player/hollowmere-nala",
       ],
     },
     {
       fact: "Below Harrow Fell's top lies Hollin Tarn, small and black, ringed with rushes and out of the wind.",
-      knowers: ["lore-disclosure/game-master", "character-other/hollowmere-yusra"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/hollowmere-yusra",
+        "character-player/hollowmere-nala",
+      ],
     },
   ],
 } as const satisfies Lore
