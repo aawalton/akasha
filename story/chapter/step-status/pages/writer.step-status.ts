@@ -17,10 +17,6 @@ export const writer = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A chapter of a story with editor steps goes to prose-editor.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
       statement:
         "A turn back from the reviewers has its prose rewritten here, answering its issues.",
     },
