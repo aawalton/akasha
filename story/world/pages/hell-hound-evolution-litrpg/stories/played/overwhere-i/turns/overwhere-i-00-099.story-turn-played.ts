@@ -4,6 +4,7 @@ export const overwhereI00099 = {
   id: "01a0ff15-38c5-7fe7-8500-861f1de05d6f",
   type: "page-type/story-turn-played",
   slug: "overwhere-i-00-099",
+  cover: "image/image-66b1c2637ca0558b",
   ownLength: 240,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-i"],
@@ -31,6 +32,7 @@ export const overwhereI00099 = {
   ],
   lore: ["lore/overwhere-i-nala", "lore/overwhere-i-nala-2", "place/overwhere-i-wendlow"],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/mechanics"],
+  recordedBy: ["story-recorder/inventory", "story-recorder/mechanics", "story-recorder/picture"],
   endsAt: "2026-10-05T12:20:00.000Z",
+  coverAfter: "She stoops. Iron clanks under the counter, a key grinds in a lock,",
 } as const satisfies StoryTurnPlayed
