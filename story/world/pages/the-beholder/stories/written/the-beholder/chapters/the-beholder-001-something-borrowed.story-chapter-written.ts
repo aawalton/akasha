@@ -11,4 +11,5 @@ export const theBeholder001SomethingBorrowed = {
   unit: "unit/words",
   prose: "txt",
   beats: "jsonl",
+  stepStatus: "step-status/player",
 } as const satisfies StoryChapterWritten
