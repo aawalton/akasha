@@ -72,5 +72,9 @@ export const overwhereIHobbsMillWeir2 = {
       fact: "Once Nala has the fangs, the barge crews whistle and head back up the bank to their barges.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
+    {
+      fact: "Jory takes Dickon's belt with a bow of the head; he'll carry it to Dickon's mother at Brennock Ford.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
