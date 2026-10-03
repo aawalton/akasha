@@ -215,5 +215,13 @@ export const overwhereINala2 = {
         "lore/overwhere-i-grete-holm",
       ],
     },
+    {
+      fact: "Nala gave Grete Holm Ewan Dell's tin token and Voss's sealed letter; she carries neither now.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-i-nala",
+        "lore/overwhere-i-grete-holm",
+      ],
+    },
   ],
 } as const satisfies Lore

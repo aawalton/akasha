@@ -86,31 +86,59 @@ export const overwhereIWendlow2 = {
     },
     {
       fact: "Grete takes Ghost-Eye's ears with the head; they add nothing to the bounty already paid.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-i-nala",
+        "lore/overwhere-i-grete-holm",
+      ],
     },
     {
       fact: "Grete knows Marta Dell of Sallow Hythe, and will send Ewan's token to her by the next west cart.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-i-nala",
+        "lore/overwhere-i-grete-holm",
+      ],
     },
     {
       fact: "Grete breaks the letter's seal, reads it, and goes still: the seal is the guild counting-house's.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-i-nala",
+        "lore/overwhere-i-grete-holm",
+      ],
     },
     {
       fact: "Only the guild's factor uses the counting-house seal, and Grete knows it.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-i-nala",
+        "lore/overwhere-i-grete-holm",
+      ],
     },
     {
       fact: "Grete pockets the letter, tells Nala to say nothing of it, and means to take it to the magistrate.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-i-nala",
+        "lore/overwhere-i-grete-holm",
+      ],
     },
     {
       fact: "The crew ears and tags already lie in the Board's chest from the payout; Grete pays nothing more.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-i-nala",
+        "lore/overwhere-i-grete-holm",
+      ],
     },
     {
       fact: "Grete gives no reward for the letter; she says it may be worth more to Nala unpaid.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-i-nala",
+        "lore/overwhere-i-grete-holm",
+      ],
     },
     {
       fact: "Ilse Varrow is a small, sharp woman of fifty with ink-stained fingers and spectacles on a cord.",

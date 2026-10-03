@@ -97,7 +97,7 @@ export const overwhereIWendlow = {
     },
     {
       fact: "Ilse Varrow sets a drake-pearl into a focus ring for three gold, taking three days.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
     {
       fact: "The Board pays a crewman's bounty on his right ear with his levy tag; Voss's 30 gold wants his head.",
