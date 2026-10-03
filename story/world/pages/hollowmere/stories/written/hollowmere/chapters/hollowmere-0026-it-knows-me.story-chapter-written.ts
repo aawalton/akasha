@@ -4,13 +4,14 @@ export const hollowmere0026ItKnowsMe = {
   id: "01a101b1-12ba-7361-b460-9ad956d5b980",
   type: "page-type/story-chapter-written",
   slug: "hollowmere-0026-it-knows-me",
+  cover: "image/image-6d23a36a37e25d74",
   position: 26,
   unit: "unit/words",
   title: "It Knows Me",
   story: "story-written/hollowmere",
   ownLength: 5080,
   prose: "txt",
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   beats: [
     "Friday of week four: a clear cold morning after the rain; the mere is flat and silver from 15.",
     "Bea is up first, doing press-ups on the rug in her vest, counting under her breath, very seriously.",
@@ -101,5 +102,34 @@ export const hollowmere0026ItKnowsMe = {
     "character-other/hollowmere-yusra",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/mechanics", "story-recorder/inventory", "story-recorder/memory"],
+  recordedBy: [
+    "story-recorder/mechanics",
+    "story-recorder/inventory",
+    "story-recorder/memory",
+    "story-recorder/picture",
+  ],
+  scenes: [
+    "image/image-a9c7c607040ce9d5",
+    "image/image-6f91605a6358db9e",
+    "image/image-6d23a36a37e25d74",
+  ],
+  pictured: [
+    {
+      cover: "image/image-a9c7c607040ce9d5",
+      coverAfter: "She's on the rug in the middle of the floor, in her vest",
+      character: "character-other/hollowmere-bea",
+      outfit: "vest and knickers",
+    },
+    {
+      cover: "image/image-6f91605a6358db9e",
+      coverAfter: "It's hot, and dim. After the bright cold outside it takes your eyes",
+      setting: "the forge",
+    },
+    {
+      cover: "image/image-6d23a36a37e25d74",
+      coverAfter: "She's in a leather apron, heavy and scarred, tied over her black jumper",
+      character: "character-other/hollowmere-kit",
+      outfit: "leather apron over a black jumper, sleeves rolled past the elbow, soot on her cheek",
+    },
+  ],
 } as const satisfies StoryChapterWritten
