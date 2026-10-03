@@ -200,5 +200,9 @@ export const overwhereIWendlow2 = {
       fact: "Ilse's half up front covers extras too; the rest is paid when the ring is handed over.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Ilse will not hurry a setting, and says a band's metal makes no difference to a focus.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
