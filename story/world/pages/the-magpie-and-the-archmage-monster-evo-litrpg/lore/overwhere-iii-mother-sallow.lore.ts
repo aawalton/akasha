@@ -200,6 +200,8 @@ export const overwhereIiiMotherSallow = {
         "lore-disclosure/game-master",
         "character-player/overwhere-iii-nala",
         "character-other/overwhere-iii-mother-sallow",
+        "character-other/overwhere-iii-marda-hesk",
+        "character-other/overwhere-iii-edda-crane",
       ],
     },
     {
