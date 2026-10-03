@@ -1,4 +1,5 @@
 import { isRecord } from "akasha/code/type/narrowing/modules/is-record/is-record.module.code.ts"
+import { listedAt } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import { addressIn } from "akasha/page/modules/address/page-address.module.code.ts"
 import { slugOf } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 import { worldCharacter } from "akasha/story/world/characters/world-character.page-type.ts"
@@ -56,10 +57,24 @@ function sayInstead(meant: readonly string[]): string {
 export type Casting = {
   readonly admitted: () => Admitted
   readonly cast: () => readonly Character[]
+  readonly slugged: (slug: string) => readonly string[]
 }
 
 export function castingIndexed(root: string, story: string): Casting {
-  return { admitted: () => admittedIndexed(root), cast: () => castIndexed(root, story) }
+  const admitted = (): Admitted => admittedIndexed(root)
+  return {
+    admitted,
+    cast: () => castIndexed(root, story),
+    slugged: (slug) =>
+      admitted().types.flatMap((type) =>
+        listedAt(root, type, slug).length > 0 ? [`${type}/${slug}`] : []
+      ),
+  }
+}
+
+function meantFor(said: string, cast: readonly Character[], casting: Casting): readonly string[] {
+  const meant = meantBy(said, cast)
+  return meant.length > 0 ? meant : casting.slugged(kebabOf(slugOf(said)))
 }
 
 function aliasRefused(said: string, cast: readonly Character[]): string | null {
@@ -68,9 +83,8 @@ function aliasRefused(said: string, cast: readonly Character[]): string | null {
   return `\`${said}\` is an alias of \`${alias}\`, and \`${CHARACTER}\` names a character one way; say \`${alias}\``
 }
 
-function besideRefused(said: string, cast: readonly Character[]): string | null {
-  const slug = slugOf(said)
-  const meant = cast.filter((one) => slugOf(one.address) === slug).map((one) => one.address)
+function besideRefused(said: string, casting: Casting): string | null {
+  const meant = casting.slugged(slugOf(said))
   if (meant.length === 0) return null
   return `\`${said}\` is a page beside a character rather than the character's own${sayInstead(meant)}`
 }
@@ -81,10 +95,9 @@ export function characterRefused(reading: unknown, casting: Casting): string | n
   if (typeof said !== "string") {
     return `\`${CHARACTER}\` names a page by its address, as \`${SHOWN}\`, and what was said is no text`
   }
-  const cast = casting.cast()
   const filed = filedAs(said, casting.admitted())
-  if (filed === "character") return aliasRefused(said, cast)
-  if (filed === "page") return besideRefused(said, cast)
+  if (filed === "character") return aliasRefused(said, casting.cast())
+  if (filed === "page") return besideRefused(said, casting)
   const why = `\`${said}\` names no page, and \`${CHARACTER}\` names one by its address, as \`${SHOWN}\` for a \`${worldCharacter.slug}\` or a type extending it`
-  return `${why}${sayInstead(meantBy(said, cast))}`
+  return `${why}${sayInstead(meantFor(said, casting.cast(), casting))}`
 }

@@ -22,14 +22,29 @@ const CAST: readonly Character[] = [
 
 const TOWN = "place/the-saga-wendle-ford"
 
-const FILED = new Set([NALA, ILSA, OLD_ILSA, TOWN, "world-relationship/the-saga-nala"])
+const WENNA = "world-character/the-saga-wenna-ashlar"
+
+const FILED = new Set([
+  NALA,
+  ILSA,
+  OLD_ILSA,
+  TOWN,
+  WENNA,
+  "world-relationship/the-saga-nala",
+  "world-relationship/the-saga-wenna-ashlar",
+])
 
 const ADMITTED: Admitted = {
   types: ["character-other", "character-player", "world-character"],
   filed: (address) => FILED.has(address),
 }
 
-const CASTING = { admitted: () => ADMITTED, cast: () => CAST }
+const CASTING = {
+  admitted: () => ADMITTED,
+  cast: () => CAST,
+  slugged: (slug: string) =>
+    ADMITTED.types.map((type) => `${type}/${slug}`).filter((one) => FILED.has(one)),
+}
 
 function refusedFor(character: unknown): string | null {
   return characterRefused({ character, gains: [] }, CASTING)
@@ -44,7 +59,22 @@ test("a reading naming no character is not judged", () => {
   const unread = (): never => {
     throw new Error("a reading naming no character reads no index")
   }
-  expect(characterRefused({ minutes: 30 }, { admitted: unread, cast: unread })).toBeNull()
+  const casting = { admitted: unread, cast: unread, slugged: unread }
+  expect(characterRefused({ minutes: 30 }, casting)).toBeNull()
+})
+
+test("a world's character outside the story's cast is taken by its page's address", () => {
+  expect(refusedFor(WENNA)).toBeNull()
+})
+
+test("a slug the cast lacks is pointed at the world's character page holding it", () => {
+  expect(refusedFor("the-saga-wenna-ashlar")).toContain(`say \`${WENNA}\``)
+})
+
+test("a relationship page whose character is the world's is pointed at that page", () => {
+  const refused = refusedFor("world-relationship/the-saga-wenna-ashlar") ?? ""
+  expect(refused).toContain("beside a character")
+  expect(refused).toContain(`say \`${WENNA}\``)
 })
 
 test("a place a check scores as a character is taken by its page's address", () => {

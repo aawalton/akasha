@@ -68,6 +68,8 @@ const CASTING: Casting = {
     filed: (address) => CAST.some((one) => one.address === address),
   }),
   cast: () => CAST,
+  slugged: (slug) =>
+    CAST.filter((one) => one.address.endsWith(`/${slug}`)).map((one) => one.address),
 }
 
 export function reachOver(turns: readonly Turn[], unmade = 0, step: TurnStep = "writer"): Reach {

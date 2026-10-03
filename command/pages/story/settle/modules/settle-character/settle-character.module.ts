@@ -24,6 +24,11 @@ export const settleCharacter = {
     {
       decisionKind: "decision-kind/departure",
       statement:
+        "Where no character of the story matches, a refusal names any character page of that slug.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
         "A page sharing a story character's slug, such as a relationship, is refused for that character's.",
     },
     {
