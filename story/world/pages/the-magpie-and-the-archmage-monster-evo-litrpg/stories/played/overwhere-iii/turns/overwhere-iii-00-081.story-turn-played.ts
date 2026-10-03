@@ -13,7 +13,7 @@ export const overwhereIii00081 = {
     "character-player/overwhere-iii-nala",
     "character-other/overwhere-iii-mother-sallow",
   ],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/game-master",
   action: "I pocket the seed stone and follow the wolf, ready to hit it with my braid",
   beats: [
     "Nala pockets the seed stone and goes after the wolf, her braid ready.",
@@ -37,6 +37,6 @@ export const overwhereIii00081 = {
     "lore/overwhere-iii-nala-2-2",
     "place/overwhere-iii-wrenwood",
   ],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
   endsAt: "2026-10-08T13:00:00.000Z",
 } as const satisfies StoryTurnPlayed
