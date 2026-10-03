@@ -10,7 +10,7 @@ export const overwhereIii00088 = {
   position: 88,
   prose: "txt",
   characters: ["character-player/overwhere-iii-nala", "character-other/overwhere-iii-marda-hesk"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/game-master",
   action: "“Thanks, happy to save the coin.” I get dinner, then an early bed.",
   beats: [
     '"Thanks, happy to save the coin."',
@@ -31,6 +31,6 @@ export const overwhereIii00088 = {
     "lore/overwhere-iii-nala-2-2",
     "place/overwhere-iii-merrowgate-guild-post",
   ],
-  reviewedBy: ["story-reviewer/continuity"],
+  reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
   endsAt: "2026-10-09T06:00:00.000Z",
 } as const satisfies StoryTurnPlayed
