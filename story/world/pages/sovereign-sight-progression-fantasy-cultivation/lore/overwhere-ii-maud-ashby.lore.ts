@@ -93,7 +93,7 @@ export const overwhereIiMaudAshby = {
     },
     {
       fact: "Maud feels Nala's well straining downward, as a Talent's does when Descent is near.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Maud judges Nala must not Descend till her heart is refined, and that she will not wait long after.",
