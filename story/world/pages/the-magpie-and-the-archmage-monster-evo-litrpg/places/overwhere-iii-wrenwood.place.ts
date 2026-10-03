@@ -268,6 +268,10 @@ export const overwhereIiiWrenwood = {
       fact: "Downstream and on the north bank there is no sign; the brook between is stony shallows.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "The wolves walked up the brook bed and left it on the shingle at the charcoal hut clearing.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place
