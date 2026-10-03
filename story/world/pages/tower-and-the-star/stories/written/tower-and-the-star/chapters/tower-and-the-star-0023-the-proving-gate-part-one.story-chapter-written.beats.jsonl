@@ -1,0 +1,59 @@
+{"beat":1,"event":"A plain white corridor leads from the salt flats to a single unmarked door: the Proving Gate.","at":"2000-01-10T17:00:00.000Z","place":"place/tower-and-the-star-floor-20-proving-gate-corridor","present":["character-other/tower-and-the-star-solenne","character-other/tower-and-the-star-dayo","character-other/tower-and-the-star-miriam","character-other/tower-and-the-star-vesper","character-other/tower-and-the-star-tomas","character-other/tower-and-the-star-nadia"]}
+{"beat":2,"event":"Solenne finds it nothing like the picture she had built."}
+{"beat":3,"event":"Tomás had flagged it only as \"terminal structure, uncertain classification.\""}
+{"beat":4,"event":"The party stops at the corridor's entrance."}
+{"beat":5,"event":"The Resonant Stalkers' signal vanishes as the party enters the corridor."}
+{"beat":6,"event":"Dayo looks at the door, holding weight she has not converted."}
+{"beat":7,"event":"Miriam asks what it does."}
+{"beat":8,"event":"Solenne shares the Proving Gate notice: private, simultaneous Bond Trials."}
+{"beat":9,"event":"Tomás notes \"simultaneously\" and models a party with no mutual support."}
+{"beat":10,"event":"Vesper points out that passive Harmony connection is not nothing."}
+{"beat":11,"event":"Solenne says she'll feel them all through the Conductor but can't act."}
+{"beat":12,"event":"Nadia, dulcimer case on her back, asks if it's one at a time."}
+{"beat":13,"event":"Solenne says all five go in at once; Tomás notes five, not six."}
+{"beat":14,"event":"Dayo says, \"Okay,\" and adjusts her tally bracer; Nadia echoes her."}
+{"beat":15,"event":"They walk through the door into a white antechamber with five doors.","at":"2000-01-10T17:05:00.000Z","place":"place/tower-and-the-star-floor-20-proving-gate-antechamber","present":["character-other/tower-and-the-star-solenne","character-other/tower-and-the-star-dayo","character-other/tower-and-the-star-miriam","character-other/tower-and-the-star-vesper","character-other/tower-and-the-star-tomas","character-other/tower-and-the-star-nadia"]}
+{"beat":16,"event":"Five doors open; Dayo, Miriam, Vesper, Tomás and Nadia each enter one, and they close.","leave":["character-other/tower-and-the-star-dayo","character-other/tower-and-the-star-miriam","character-other/tower-and-the-star-vesper","character-other/tower-and-the-star-tomas","character-other/tower-and-the-star-nadia"]}
+{"beat":17,"event":"Solenne sits against the wall and opens the Conductor to full bandwidth."}
+{"beat":18,"event":"She feels all five signals only as faint presence through stone."}
+{"beat":19,"event":"Dayo's signal holds weight without converting it."}
+{"beat":20,"event":"After four minutes Dayo's signal shifts to weight accepted."}
+{"beat":21,"event":"Dayo walks out of the left door, tally bracer in her hands.","at":"2000-01-10T17:20:00.000Z","arrive":["character-other/tower-and-the-star-dayo"]}
+{"beat":22,"event":"Solenne tells her fifteen minutes; Dayo sits against the opposite wall."}
+{"beat":23,"event":"Dayo's trial completes; she rises to Level 14 and gains Iron Will.","changes":[{"page":"world-metric/tower-and-the-star-resonance-events","key":"value","from":127,"to":130,"note":"Party Resonance Events reach 130 of 150"}]}
+{"beat":24,"event":"Dayo rereads Iron Will and works out how it changes Defiant Last Stand."}
+{"beat":25,"event":"Dayo asks if Nadia is still in; Solenne says yes."}
+{"beat":26,"event":"Solenne feels Miriam's Warmhearted signal sink to its lowest register."}
+{"beat":27,"event":"Miriam comes out at eighteen minutes, looking as if she has cried.","at":"2000-01-10T17:23:00.000Z","arrive":["character-other/tower-and-the-star-miriam"]}
+{"beat":28,"event":"Miriam sits near Dayo, and Dayo moves to sit beside her."}
+{"beat":29,"event":"Miriam opens her notebook, writes nothing, and closes it."}
+{"beat":30,"event":"Miriam asks Dayo for the Mana Vial; Dayo already has it out."}
+{"beat":31,"event":"Miriam's trial completes.","changes":[{"page":"world-metric/tower-and-the-star-resonance-events","key":"value","from":130,"to":133,"note":"Party Resonance Events reach 133 of 150"}]}
+{"beat":32,"event":"Miriam drinks the vial, hands it back and leans against the wall."}
+{"beat":33,"event":"Solenne feels Vesper's Artificer signal simplify to the Openhanded beneath."}
+{"beat":34,"event":"Vesper comes out after twelve minutes, looking at her hands.","arrive":["character-other/tower-and-the-star-vesper"]}
+{"beat":35,"event":"Vesper says the trial gave her nothing to make and she thought she would fail."}
+{"beat":36,"event":"Solenne says she didn't; Vesper sits and says she didn't need it."}
+{"beat":37,"event":"Vesper's trial completes.","changes":[{"page":"world-metric/tower-and-the-star-resonance-events","key":"value","from":133,"to":136,"note":"Party Resonance Events reach 136 of 150"}]}
+{"beat":38,"event":"Dayo calls twelve minutes fast; Vesper asks if it is."}
+{"beat":39,"event":"Dayo says it might just be what the trial needed."}
+{"beat":40,"event":"Solenne reads Tomás's signal reach a conclusion around minute eight and go still."}
+{"beat":41,"event":"Tomás comes out at twenty minutes and asks if Nadia is still in.","at":"2000-01-10T17:25:00.000Z","arrive":["character-other/tower-and-the-star-tomas"]}
+{"beat":42,"event":"Solenne says yes; Tomás exhales and sits against the wall."}
+{"beat":43,"event":"Tomás says he said something wrong in there: right thing, wrong moment."}
+{"beat":44,"event":"Vesper tells him the trial ended and he's here; he nods."}
+{"beat":45,"event":"Tomás's trial completes.","changes":[{"page":"world-metric/tower-and-the-star-resonance-events","key":"value","from":136,"to":139,"note":"Party Resonance Events reach 139 of 150"}]}
+{"beat":46,"event":"Four wait; the fifth door stays shut and Dayo watches it."}
+{"beat":47,"event":"Solenne reads Nadia's signal as open and present, and only receives it."}
+{"beat":48,"event":"Eleven minutes pass."}
+{"beat":49,"event":"The fifth door opens and Nadia walks out.","at":"2000-01-10T17:36:00.000Z","arrive":["character-other/tower-and-the-star-nadia"]}
+{"beat":50,"event":"Nadia looks at each of them in turn, Solenne last, without speaking."}
+{"beat":51,"event":"Solenne reads Nadia's Brightspirit signal as unchanged by the trial."}
+{"beat":52,"event":"Nadia asks if they're all done; Solenne says eleven minutes."}
+{"beat":53,"event":"Nadia's trial completes.","changes":[{"page":"world-metric/tower-and-the-star-resonance-events","key":"value","from":139,"to":142,"note":"Party Resonance Events reach 142 of 150"}]}
+{"beat":54,"event":"Nadia reads \"one forty-two\"; she and Solenne agree: eight to go."}
+{"beat":55,"event":"Something brief shifts in Nadia's signal as she looks at the others."}
+{"beat":56,"event":"Nadia sits between Tomás and the entry door: \"Okay. Eight more.\""}
+{"beat":57,"event":"The five trial doors are closed again; the System gives no next step."}
+{"beat":58,"event":"Dayo says they should eat; Miriam agrees."}
+{"beat":59,"event":"They eat."}
