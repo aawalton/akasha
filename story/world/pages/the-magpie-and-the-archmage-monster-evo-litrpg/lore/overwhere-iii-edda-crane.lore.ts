@@ -188,7 +188,7 @@ export const overwhereIiiEddaCrane = {
     },
     {
       fact: "The gray-furred things by Edda's kilns are three corrupted jackalopes nesting in blighted stumps.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
   ],
 } as const satisfies Lore
