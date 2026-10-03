@@ -235,5 +235,13 @@ export const overwhereINala2 = {
       fact: "Nala's water-and-fire steam washes her clean; an air-and-fire wind dries her in three minutes.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
+    {
+      fact: "Nala turned in the Weir Wyrm's fangs at Antler Hall; she carries Grete's signed 15-gold chit.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-i-nala",
+        "lore/overwhere-i-grete-holm",
+      ],
+    },
   ],
 } as const satisfies Lore

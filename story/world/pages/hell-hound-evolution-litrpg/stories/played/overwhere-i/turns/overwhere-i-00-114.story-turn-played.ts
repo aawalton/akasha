@@ -36,6 +36,6 @@ export const overwhereI00114 = {
     "lore/overwhere-i-wendlow-2-2",
   ],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
-  recordedBy: ["story-recorder/mechanics"],
+  recordedBy: ["story-recorder/mechanics", "story-recorder/memory"],
   endsAt: "2026-10-06T14:37:00.000Z",
 } as const satisfies StoryTurnPlayed
