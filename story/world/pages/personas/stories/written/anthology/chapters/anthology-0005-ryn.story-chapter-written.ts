@@ -10,4 +10,5 @@ export const anthology0005Ryn = {
   ownLength: 1558,
   unit: "unit/words",
   prose: "txt",
+  beats: "jsonl",
 } as const satisfies StoryChapterWritten
