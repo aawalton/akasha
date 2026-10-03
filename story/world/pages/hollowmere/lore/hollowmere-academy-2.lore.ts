@@ -115,5 +115,19 @@ export const hollowmereAcademy2 = {
         "character-player/hollowmere-nala",
       ],
     },
+    {
+      fact: "History's third week covers the colleges' founding; Hollowmere's founder was Margery Fell, in 1791.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/hollowmere-kit",
+        "character-other/hollowmere-amara",
+        "character-other/hollowmere-penhallow",
+        "character-other/hollowmere-yusra",
+      ],
+    },
+    {
+      fact: "This Thursday's life drawing model has dropped out, and the society is asking for a volunteer.",
+      knowers: ["lore-disclosure/game-master", "character-other/hollowmere-lin"],
+    },
   ],
 } as const satisfies Lore
