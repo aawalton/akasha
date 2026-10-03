@@ -264,5 +264,9 @@ export const overwhereIvBrooksideFour2 = {
       fact: "Dace won't leave the farms unwatched tonight; he'd lure tomorrow, if Ilsa finds others to watch.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Fed, the Four come to the hall about five on day 9, to take their watch posts from Ilsa.",
+      knowers: ["lore-disclosure/game-master", "lore/overwhere-iv-brookside-four"],
+    },
   ],
 } as const satisfies Lore

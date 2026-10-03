@@ -384,5 +384,21 @@ export const overwhereIvMillbrookAdventurersHall2 = {
         "character-player/overwhere-iv-nala",
       ],
     },
+    {
+      fact: "Ilsa lets a tagged hand doze on the hearth bench for free, till the night bell.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/overwhere-iv-ilsa-crane",
+        "character-player/overwhere-iv-nala",
+      ],
+    },
+    {
+      fact: "Asked, Ilsa can put Hobb's grown sons on the farm watch for one night, freeing the Four.",
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iv-ilsa-crane"],
+    },
+    {
+      fact: "Ilsa thinks a lure sound if fought at the forest edge, never in it; she pays ears as ever.",
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iv-ilsa-crane"],
+    },
   ],
 } as const satisfies Lore
