@@ -11,7 +11,7 @@ export const otherwhereX00006 = {
   partOfCollections: ["story-played/otherwhere-x"],
   position: 6,
   prose: "txt",
-  characters: ["character-player/otherwhere-x-nala", "world-character/otherwhere-x-aldous-crane"],
+  characters: ["character-player/otherwhere-x-nala", "character-other/otherwhere-x-aldous-crane"],
   stepStatus: "step-status/player",
   action:
     '"I take it the bell is to invite more to come and listen? While we wait, could you tell me more about your country? I love collecting stories, so I would learn yours as well if I may."',

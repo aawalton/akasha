@@ -17,7 +17,7 @@ export const otherwhereXTheWiderWorld = {
       knowers: [
         "lore-disclosure/game-master",
         "character-player/otherwhere-x-nala",
-        "world-character/otherwhere-x-aldous-crane",
+        "character-other/otherwhere-x-aldous-crane",
       ],
     },
     {
@@ -25,7 +25,7 @@ export const otherwhereXTheWiderWorld = {
       knowers: [
         "lore-disclosure/game-master",
         "character-player/otherwhere-x-nala",
-        "world-character/otherwhere-x-aldous-crane",
+        "character-other/otherwhere-x-aldous-crane",
       ],
     },
     {
@@ -37,7 +37,7 @@ export const otherwhereXTheWiderWorld = {
       knowers: [
         "lore-disclosure/game-master",
         "character-player/otherwhere-x-nala",
-        "world-character/otherwhere-x-aldous-crane",
+        "character-other/otherwhere-x-aldous-crane",
       ],
     },
     {
@@ -45,7 +45,7 @@ export const otherwhereXTheWiderWorld = {
       knowers: [
         "lore-disclosure/game-master",
         "character-player/otherwhere-x-nala",
-        "world-character/otherwhere-x-aldous-crane",
+        "character-other/otherwhere-x-aldous-crane",
       ],
     },
     {

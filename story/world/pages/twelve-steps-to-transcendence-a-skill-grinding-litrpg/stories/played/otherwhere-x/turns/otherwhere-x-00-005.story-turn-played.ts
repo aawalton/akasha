@@ -11,7 +11,7 @@ export const otherwhereX00005 = {
   partOfCollections: ["story-played/otherwhere-x"],
   position: 5,
   prose: "txt",
-  characters: ["character-player/otherwhere-x-nala", "world-character/otherwhere-x-aldous-crane"],
+  characters: ["character-player/otherwhere-x-nala", "character-other/otherwhere-x-aldous-crane"],
   stepStatus: "step-status/player",
   action:
     '"None of these. I am from a place so far away that there are no reeve\'s, no tallies, and the roads are made from liquid stone."',

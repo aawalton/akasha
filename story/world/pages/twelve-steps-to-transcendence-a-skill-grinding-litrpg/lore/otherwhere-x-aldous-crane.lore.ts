@@ -6,7 +6,7 @@ export const otherwhereXAldousCrane = {
   slug: "otherwhere-x-aldous-crane",
   title: "Aldous Crane",
   world: "world/twelve-steps-to-transcendence-a-skill-grinding-litrpg",
-  about: "world-character/otherwhere-x-aldous-crane",
+  about: "character-other/otherwhere-x-aldous-crane",
   facts: [
     {
       fact: "Harrow's reeve is Aldous Crane, fifty, lean and careful of speech, who wants no trouble.",
@@ -37,7 +37,7 @@ export const otherwhereXAldousCrane = {
       knowers: [
         "lore-disclosure/game-master",
         "character-player/otherwhere-x-nala",
-        "world-character/otherwhere-x-aldous-crane",
+        "character-other/otherwhere-x-aldous-crane",
       ],
     },
     {
@@ -45,7 +45,7 @@ export const otherwhereXAldousCrane = {
       knowers: [
         "lore-disclosure/game-master",
         "character-player/otherwhere-x-nala",
-        "world-character/otherwhere-x-aldous-crane",
+        "character-other/otherwhere-x-aldous-crane",
       ],
     },
     {
@@ -81,7 +81,7 @@ export const otherwhereXAldousCrane = {
       knowers: [
         "lore-disclosure/game-master",
         "character-player/otherwhere-x-nala",
-        "world-character/otherwhere-x-aldous-crane",
+        "character-other/otherwhere-x-aldous-crane",
       ],
     },
     {
@@ -89,7 +89,7 @@ export const otherwhereXAldousCrane = {
       knowers: [
         "lore-disclosure/game-master",
         "character-player/otherwhere-x-nala",
-        "world-character/otherwhere-x-aldous-crane",
+        "character-other/otherwhere-x-aldous-crane",
       ],
     },
     {
@@ -97,7 +97,7 @@ export const otherwhereXAldousCrane = {
       knowers: [
         "lore-disclosure/game-master",
         "character-player/otherwhere-x-nala",
-        "world-character/otherwhere-x-aldous-crane",
+        "character-other/otherwhere-x-aldous-crane",
       ],
     },
     {
@@ -105,7 +105,7 @@ export const otherwhereXAldousCrane = {
       knowers: [
         "lore-disclosure/game-master",
         "character-player/otherwhere-x-nala",
-        "world-character/otherwhere-x-aldous-crane",
+        "character-other/otherwhere-x-aldous-crane",
       ],
     },
     {
@@ -113,7 +113,7 @@ export const otherwhereXAldousCrane = {
       knowers: [
         "lore-disclosure/game-master",
         "character-player/otherwhere-x-nala",
-        "world-character/otherwhere-x-aldous-crane",
+        "character-other/otherwhere-x-aldous-crane",
       ],
     },
     {
@@ -121,7 +121,7 @@ export const otherwhereXAldousCrane = {
       knowers: [
         "lore-disclosure/game-master",
         "character-player/otherwhere-x-nala",
-        "world-character/otherwhere-x-aldous-crane",
+        "character-other/otherwhere-x-aldous-crane",
       ],
     },
     {
@@ -129,7 +129,7 @@ export const otherwhereXAldousCrane = {
       knowers: [
         "lore-disclosure/game-master",
         "character-player/otherwhere-x-nala",
-        "world-character/otherwhere-x-aldous-crane",
+        "character-other/otherwhere-x-aldous-crane",
       ],
     },
   ],

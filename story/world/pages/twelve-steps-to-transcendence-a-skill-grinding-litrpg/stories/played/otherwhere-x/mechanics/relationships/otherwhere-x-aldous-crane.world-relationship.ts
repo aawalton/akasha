@@ -7,6 +7,6 @@ export const otherwhereXAldousCrane = {
   title: "Nala and Aldous Crane",
   world: "world/twelve-steps-to-transcendence-a-skill-grinding-litrpg",
   description: "How far Harrow's reeve regards Nala.",
-  characters: ["character-player/otherwhere-x-nala", "world-character/otherwhere-x-aldous-crane"],
+  characters: ["character-player/otherwhere-x-nala", "character-other/otherwhere-x-aldous-crane"],
   relationshipPoints: 8,
 } as const satisfies WorldRelationship

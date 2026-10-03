@@ -13,7 +13,7 @@ export const otherwhereX00007 = {
   prose: "txt",
   characters: [
     "character-player/otherwhere-x-nala",
-    "world-character/otherwhere-x-aldous-crane",
+    "character-other/otherwhere-x-aldous-crane",
     "world-character/otherwhere-x-bess-crane",
     "world-character/otherwhere-x-martha-deane",
   ],
