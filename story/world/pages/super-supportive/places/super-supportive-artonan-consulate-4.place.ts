@@ -131,6 +131,10 @@ export const superSupportiveArtonanConsulate4 = {
       fact: "Gorgon's supervisor, a female Artonan, was penalized for 'consorting with a demon'.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Gorgon, an alien prisoner, sits chained to the lobby desk by glowing golden magical bindings.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iii-nala"],
+    },
   ],
   within: "place/otherwhere-iii-chicago",
   secrets: "jsonl",

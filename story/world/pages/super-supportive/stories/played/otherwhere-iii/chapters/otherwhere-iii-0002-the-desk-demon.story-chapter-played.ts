@@ -10,6 +10,7 @@ export const otherwhereIii0002TheDeskDemon = {
   story: "story-played/otherwhere-iii",
   ownLength: 3942,
   prose: "txt",
+  beats: "jsonl",
   turnCovers: [
     {
       position: 15,
