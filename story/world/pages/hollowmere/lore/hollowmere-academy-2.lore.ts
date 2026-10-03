@@ -34,7 +34,11 @@ export const hollowmereAcademy2 = {
     },
     {
       fact: "A student volunteers as life drawing's model each week, and sits clothed or nude as she chooses.",
-      knowers: ["lore-disclosure/game-master", "character-other/hollowmere-lin"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/hollowmere-lin",
+        "character-player/hollowmere-nala",
+      ],
     },
     {
       fact: "History of Magic's second week covers the old trials of cunning-women, which ended in 1736.",
@@ -123,11 +127,16 @@ export const hollowmereAcademy2 = {
         "character-other/hollowmere-amara",
         "character-other/hollowmere-penhallow",
         "character-other/hollowmere-yusra",
+        "character-player/hollowmere-nala",
       ],
     },
     {
       fact: "This Thursday's life drawing model has dropped out, and the society is asking for a volunteer.",
-      knowers: ["lore-disclosure/game-master", "character-other/hollowmere-lin"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/hollowmere-lin",
+        "character-player/hollowmere-nala",
+      ],
     },
   ],
 } as const satisfies Lore
