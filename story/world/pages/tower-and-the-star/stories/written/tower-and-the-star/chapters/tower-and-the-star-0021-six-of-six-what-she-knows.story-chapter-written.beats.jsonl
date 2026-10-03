@@ -1,0 +1,69 @@
+{"beat":1,"event":"Solenne lies awake in the Transition Hall from 3 AM, holding the new notification.","place":"place/tower-and-the-star-floor-19-transition-hall","present":["character-other/tower-and-the-star-solenne","character-other/tower-and-the-star-dayo","character-other/tower-and-the-star-miriam","character-other/tower-and-the-star-vesper","character-other/tower-and-the-star-tomas","character-other/tower-and-the-star-nadia"]}
+{"beat":2,"event":"The party sleeps around her; the Floor 20 door stands at the far end of the hall."}
+{"beat":3,"event":"The hall's light slowly brightens toward morning."}
+{"beat":4,"event":"Solenne sits up and runs her morning inventory: HP full, MP full."}
+{"beat":5,"event":"Solenne eats the last ration from the carry stack."}
+{"beat":6,"event":"She takes out her notebook and holds it in her lap without opening it."}
+{"beat":7,"event":"She watches the party instead of writing."}
+{"beat":8,"event":"Dayo wakes without announcing it."}
+{"beat":9,"event":"Dayo runs her morning armor check, buckle by buckle."}
+{"beat":10,"event":"Dayo goes to the supply cache for her ration."}
+{"beat":11,"event":"Miriam, Nadia and Vesper are still asleep around the hall."}
+{"beat":12,"event":"Dayo moves back toward her pack."}
+{"beat":13,"event":"Dayo stands where Miriam's path to the cache would pass close by her."}
+{"beat":14,"event":"Solenne recalls Dayo learning that positioning lesson the hard way on Floor 7."}
+{"beat":15,"event":"Solenne reads Dayo for one full Conductor read and looks away."}
+{"beat":16,"event":"Tomás comes back from scouting the floor entry before most are awake.","at":"2000-01-10T07:30:00.000Z"}
+{"beat":17,"event":"Tomás adds two lines to his preliminary notes without sitting down."}
+{"beat":18,"event":"Tomás announces the morning brief in twenty minutes."}
+{"beat":19,"event":"Tomás sits down and keeps writing."}
+{"beat":20,"event":"Nadia wakes up."}
+{"beat":21,"event":"Miriam makes her three-line morning entry in the clinical notebook."}
+{"beat":22,"event":"Vesper begins packing for Floor 20 entry."}
+{"beat":23,"event":"Nadia checks the dulcimer, now including the new strap's attachment points."}
+{"beat":24,"event":"Nadia does not play; she puts the dulcimer back and fastens the case."}
+{"beat":25,"event":"With everyone present, Tomás begins the brief on his notation surface.","at":"2000-01-10T07:50:00.000Z"}
+{"beat":26,"event":"Tomás describes Floor 20, the Crystal Salt Desert: salt flats, crystal spires, harsh light."}
+{"beat":27,"event":"Tomás names Saltback Predators as the main threat: surface ambush, crystalline hide."}
+{"beat":28,"event":"Tomás describes the Saltback tell: a quarter-second of the surface doing something wrong."}
+{"beat":29,"event":"Tomás pauses, deciding how to word the next thing."}
+{"beat":30,"event":"Nadia's finger sounds the dulcimer's lowest string; one faint note fades."}
+{"beat":31,"event":"Tomás reports Resonant Stalkers, Level 18-19, tracking bond-aura at 60 meters."}
+{"beat":32,"event":"Tomás says their density is above what the documentation suggests, and ends the brief."}
+{"beat":33,"event":"Solenne sees he has released what he held since last night, and does not ask."}
+{"beat":34,"event":"Vesper runs her supply cache inventory."}
+{"beat":35,"event":"Vesper reaches the in-progress section of her carry stack."}
+{"beat":36,"event":"Vesper sets an in-progress project in the upper-middle of the stack, not the bottom."}
+{"beat":37,"event":"Solenne counts four in-progress items moved into Vesper's visible range."}
+{"beat":38,"event":"Solenne looks away before Vesper looks up."}
+{"beat":39,"event":"Miriam sits against the wall with her clinical notebook open, not writing."}
+{"beat":40,"event":"Miriam rereads her Floor 19 margin note about asking for the Mana Vial."}
+{"beat":41,"event":"Solenne keeps her own notebook closed."}
+{"beat":42,"event":"Mid-morning, Brennan messages that he can share intel on Floor 20.","at":"2000-01-10T10:00:00.000Z"}
+{"beat":43,"event":"Brennan of Team Ironwall comes into the hall; Hex stays at the back with his party.","arrive":["character-other/tower-and-the-star-brennan","character-other/tower-and-the-star-hex"]}
+{"beat":44,"event":"Brennan says the party has changed since its formation trouble on Floor 13."}
+{"beat":45,"event":"Brennan warns of a formal Apex contact faction approach in two to three weeks."}
+{"beat":46,"event":"Solenne asks what the faction wants."}
+{"beat":47,"event":"Brennan says access and proof that Harmony mechanics can be reproduced."}
+{"beat":48,"event":"Solenne asks about Floor 20."}
+{"beat":49,"event":"Brennan has logged four Resonant Stalker encounters at 55-60 meters; they don't break off."}
+{"beat":50,"event":"Solenne thanks him."}
+{"beat":51,"event":"Brennan goes back to his party."}
+{"beat":52,"event":"Solenne stands weighing the Apex deadline against telling the party today."}
+{"beat":53,"event":"In an alcove, Vesper gets a message from Prita and replies she needs a few minutes."}
+{"beat":54,"event":"Solenne moves away to give Vesper space."}
+{"beat":55,"event":"Vesper sits in silent exchange, hands still, Workframe off."}
+{"beat":56,"event":"Prita asks how handing it over felt; Vesper answers, \"Different.\""}
+{"beat":57,"event":"Prita asks her to show where the words end; Vesper lets \"different\" stand."}
+{"beat":58,"event":"Vesper comes out with her carry stack complete and goes to her pre-floor check."}
+{"beat":59,"event":"Solenne does not ask; Vesper's Workframe stays quiet the rest of the morning."}
+{"beat":60,"event":"The party finishes preparing: armor done, notes stowed, dulcimer case on Nadia's back.","at":"2000-01-10T10:45:00.000Z"}
+{"beat":61,"event":"Solenne watches them all, still holding the notification: 109 of 150."}
+{"beat":62,"event":"Solenne pictures telling them at the rest floor and knows she decided long ago."}
+{"beat":63,"event":"The Tower's light reaches its full morning quality."}
+{"beat":64,"event":"Nadia tests the dulcimer case on her back for two steps, then walks on."}
+{"beat":65,"event":"Solenne picks up her pack and says, \"Okay. Let's go.\""}
+{"beat":66,"event":"The party walks toward the already-open door at the hall's end."}
+{"beat":67,"event":"They step onto Floor 20, the Crystal Salt Desert, bright crystal rising from salt flat.","at":"2000-01-10T11:00:00.000Z","place":"place/tower-and-the-star-floor-20-salt-flat","present":["character-other/tower-and-the-star-solenne","character-other/tower-and-the-star-dayo","character-other/tower-and-the-star-miriam","character-other/tower-and-the-star-vesper","character-other/tower-and-the-star-tomas","character-other/tower-and-the-star-nadia"],"changes":[{"page":"world-metric/tower-and-the-star-highest-floor-reached","key":"value","from":19,"to":20,"note":"The party reaches Floor 20"}]}
+{"beat":68,"event":"Tomás calls formation three and the party takes it."}
+{"beat":69,"event":"The door closes behind them."}
