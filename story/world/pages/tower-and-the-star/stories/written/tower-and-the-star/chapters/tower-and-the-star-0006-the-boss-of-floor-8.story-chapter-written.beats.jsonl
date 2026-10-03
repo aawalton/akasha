@@ -1,0 +1,70 @@
+{"beat":1,"event":"Solenne stands on the last dry platform before the Floor 8 boss chamber's underground lake.","at":"2000-01-03T09:00:00.000Z","place":"place/tower-and-the-star-floor-8-boss-chamber","present":["character-other/tower-and-the-star-solenne","character-other/tower-and-the-star-dayo","character-other/tower-and-the-star-miriam","character-other/tower-and-the-star-vesper","character-other/tower-and-the-star-tomas","character-other/tower-and-the-star-nadia"]}
+{"beat":2,"event":"Tomás, forty meters up in the stalactites, reports the platforms and the dorsal gap."}
+{"beat":3,"event":"He reports the boss forty meters down in the northeast quadrant, waiting."}
+{"beat":4,"event":"Dayo wears Vesper's armored wrap; the party readies for the fight."}
+{"beat":5,"event":"Solenne briefs the Tidebreaker's reactive armor: each damage type it takes, it resists."}
+{"beat":6,"event":"She names the three-second reset window: they will cycle damage types."}
+{"beat":7,"event":"Dayo will open with Iron Stance on the central platform; Solenne assigns the others."}
+{"beat":8,"event":"Solenne says go."}
+{"beat":9,"event":"Dayo Shield Rushes onto the central platform and plants in Iron Stance."}
+{"beat":10,"event":"The Tidebreaker breaches twelve meters off, four meters tall, plated, with a dorsal gap."}
+{"beat":11,"event":"Dayo tells it to come on, and it comes."}
+{"beat":12,"event":"Its sweeping strike cracks the limestone, but Iron Stance holds Dayo in place."}
+{"beat":13,"event":"Dayo's gauntlet strikes land, but the plates harden against impact by forty percent."}
+{"beat":14,"event":"Nadia's knife lands Stumble; Dayo Shield Rushes the stumbling creature."}
+{"beat":15,"event":"Tomás puts two Precision Shots into its lower seams; the armor angles for piercing."}
+{"beat":16,"event":"Solenne's Arcane Bolt lands full value and Arcane Mark triggers on the boss."}
+{"beat":17,"event":"The damage-type cycling works, and its HP drops cycle by cycle."}
+{"beat":18,"event":"The armor stacks two resistances at once: it is adapting to their pattern."}
+{"beat":19,"event":"Dayo's strike lands at half value; her HP drops from 427 to 361."}
+{"beat":20,"event":"Phase 2 at sixty percent: Solenne warns it is building a profile; Dayo says it reads them."}
+{"beat":21,"event":"Solenne looks to Nadia across the chamber."}
+{"beat":22,"event":"Nadia says plainly that it needs chaos, and they have chaos."}
+{"beat":23,"event":"Solenne sees it: random Chaos Grenade effects plus Arcane Mark leave nothing to learn."}
+{"beat":24,"event":"Solenne lays a fresh Mark and says now; Nadia throws as Solenne pushes the Mark."}
+{"beat":25,"event":"A golden notification: Harmony Skill Laughing Storm unlocked, Jester plus Arcanist."}
+{"beat":26,"event":"The grenade lands Fear, Slow and Blind on the Tidebreaker at once."}
+{"beat":27,"event":"Dayo's Shield Rush slides the debuffed boss three meters; its armor cannot adapt."}
+{"beat":28,"event":"Tomás puts two arrows into the exposed dorsal gap."}
+{"beat":29,"event":"Every hit rolls a second debuff; its HP falls to twenty-eight percent."}
+{"beat":30,"event":"Phase 3: the armor locks neutral and the boss turns to unrestrained aggression."}
+{"beat":31,"event":"Its lunging slam drops Dayo from 361 to 248 HP through Iron Stance."}
+{"beat":32,"event":"Miriam calls Vesper; further hits drive Dayo down to 152 HP."}
+{"beat":33,"event":"Miriam's Mending Touch heals, but the boss deals damage faster than she heals."}
+{"beat":34,"event":"Dayo's HP falls to 91; she declares Unbroken Line."}
+{"beat":35,"event":"Miriam and Dayo spend forty MP each; for thirty seconds Miriam's heals are instant."}
+{"beat":36,"event":"The boss ramps up, and Dayo's HP is pushed down despite the instant heals."}
+{"beat":37,"event":"At 107 HP, Defiant Last Stand fires: half damage, and she cannot fall below one."}
+{"beat":38,"event":"The boss rears for a two-fisted slam; Vesper's Reinforcement lands on Dayo first."}
+{"beat":39,"event":"The Reinforcement shatters absorbing the excess; Dayo stands at twelve HP."}
+{"beat":40,"event":"Miriam pours in tripled heals and Dayo stabilizes at 190."}
+{"beat":41,"event":"The Tidebreaker rears again; Tomás fires one arrow into the dorsal gap."}
+{"beat":42,"event":"The boss collapses off the platform into the black water, dead."}
+{"beat":43,"event":"Dayo sits down against a mineral deposit; Last Stand's end heal brings her to 275."}
+{"beat":44,"event":"The System awards 1,500 shared XP, a Rare Boss Core and a Deepwater Bracer.","changes":[{"page":"world-metric/tower-and-the-star-highest-floor-cleared","key":"value","from":7,"to":8,"note":"Floor 8 is cleared"}]}
+{"beat":45,"event":"Miriam walks to Dayo, kneels and heals her shoulder."}
+{"beat":46,"event":"Vesper lays the Core and the Deepwater Bracer beside Dayo: for you."}
+{"beat":47,"event":"Dayo puts the bracer on her right wrist without saying thank you."}
+{"beat":48,"event":"Nadia drops to the platform and calls it the scariest forty seconds of her life."}
+{"beat":49,"event":"Dayo laughs her big laugh."}
+{"beat":50,"event":"Solenne and Nadia confirm they both got the Laughing Storm notification."}
+{"beat":51,"event":"Nadia takes full credit for the name; the System heard her energy."}
+{"beat":52,"event":"Dayo levels up: Vanguard Level 11 to Level 12."}
+{"beat":53,"event":"Tomás levels up: Pathfinder Level 12 to Level 13."}
+{"beat":54,"event":"Tomás climbs down from the stalactites, having fired one arrow."}
+{"beat":55,"event":"Dayo says good shot; Tomás says good hold."}
+{"beat":56,"event":"The party rests in the Transition Hall above Floor 8.","at":"2000-01-03T10:30:00.000Z","place":"place/tower-and-the-star-floor-8-transition-hall"}
+{"beat":57,"event":"Vesper studies the Core; Miriam records the Last Stand numbers."}
+{"beat":58,"event":"Dayo scratches a new tally mark on her bracer: Floor 8."}
+{"beat":59,"event":"Team Ironwall enters the Hall, thirty minutes after the boss fell.","arrive":["character-other/tower-and-the-star-brennan","character-other/tower-and-the-star-prita","character-other/tower-and-the-star-hex"]}
+{"beat":60,"event":"Hex's left arm is field-dressed; Prita carries new binding material."}
+{"beat":61,"event":"Solenne tells Brennan the Floor 8 boss is down."}
+{"beat":62,"event":"Brennan takes in the uninjured party and the bracer: they cleared the Tidebreaker."}
+{"beat":63,"event":"He asks if the Jester and Arcanist activation was what it looked like."}
+{"beat":64,"event":"Solenne tells him it was a Harmony Skill."}
+{"beat":65,"event":"Brennan says Apex has sought active Harmony teams for four months and found none."}
+{"beat":66,"event":"He offers to arrange a conversation about resources and support."}
+{"beat":67,"event":"Solenne says she will think about it."}
+{"beat":68,"event":"Team Ironwall passes through the Hall and into the far corridor.","leave":["character-other/tower-and-the-star-brennan","character-other/tower-and-the-star-prita","character-other/tower-and-the-star-hex"]}
+{"beat":69,"event":"Nadia calls it a job offer or the start of a heist movie; nobody laughs."}
+{"beat":70,"event":"Solenne faces the door to Floor 9, the rest floor; it opens."}
