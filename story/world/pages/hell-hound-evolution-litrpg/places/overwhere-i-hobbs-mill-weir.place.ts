@@ -115,5 +115,9 @@ export const overwhereIHobbsMillWeir = {
       fact: "Two barges lie moored idle at Hobb's landing, above the weir.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
+    {
+      fact: "A broad slick of crushed weed and mud runs up the weir apron from the pool.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+    },
   ],
 } as const satisfies Place
