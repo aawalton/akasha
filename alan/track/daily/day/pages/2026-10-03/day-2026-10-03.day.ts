@@ -7,5 +7,13 @@ export const day20261003 = {
   title: "@date:2026-10-03",
   date: "2026-10-03",
   version: "3.0",
+  inboxTasks: 23,
+  inboxTasksClearedToday: false,
+  inboxTemperTasks: 16,
+  inboxTemperTasksClearedToday: false,
   lowestEmailInboxCount: 1,
+  inboxFindings: 0,
+  inboxFindingsClearedToday: true,
+  inboxGaps: 0,
+  inboxRefusals: 11949,
 } as const satisfies Day
