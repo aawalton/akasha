@@ -10,7 +10,7 @@ export const overwhereIv00091 = {
   position: 91,
   prose: "txt",
   characters: ["character-player/overwhere-iv-nala", "character-other/overwhere-iv-ilsa-crane"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/recorders",
   action:
     "“I’ll talk with the Four when they wake, if we can lure a full warband, we can start thinning the camp.” I go and take a nap, then pitch my idea.",
   beats: [
@@ -39,6 +39,6 @@ export const overwhereIv00091 = {
     "lore/overwhere-iv-the-tangle-2",
     "lore/overwhere-iv-the-tangle-2-2",
   ],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
   endsAt: "2026-10-07T17:10:00.000Z",
 } as const satisfies StoryTurnPlayed
