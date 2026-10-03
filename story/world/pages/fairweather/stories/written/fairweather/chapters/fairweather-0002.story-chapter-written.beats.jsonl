@@ -24,7 +24,7 @@
 {"beat":24,"event":"Tilly's hand finds Elsie's and grips it; she can't go in, and her eyes fill."}
 {"beat":25,"event":"Elsie says not today, then, and that's all right; they'll come back whenever Tilly is ready."}
 {"beat":26,"event":"Tamsin, gruff, puts a big hand on top of Tilly's head and steers her off down the street."}
-{"beat":27,"event":"Tilly holds Elsie's hand all the way down Gear Street, and doesn't let go at the corner either."}
+{"beat":27,"event":"Tilly holds Elsie's hand all the way down Gear Street, and doesn't let go at the corner either.","changes":[{"page":"world-relationship/fairweather-elsie-tilly","note":"Bond: Tilly 15 (judged: Elsie walks her to Gear Street; Tilly holds her hand)","key":"relationshipPoints","from":10,"to":15}]}
 {"beat":28,"event":"Tamsin says they should sleep before a night's work, and nobody wants to go home alone."}
 {"beat":29,"event":"They climb to Elsie's attic; the baker raises her brows at the crowd and says nothing.","at":"2026-06-02T09:00:00.000Z","place":"place/fairweather-honeycomb"}
 {"beat":30,"event":"Tamsin and Tilly meet Mrs Pennywhistle, Sunny, Doris and Captain; Tilly shakes Doris's leaf."}
@@ -33,14 +33,14 @@
 {"beat":33,"event":"Drowsy, Elsie lays her head on Tamsin's shoulder and keeps Tilly's hand in hers."}
 {"beat":34,"event":"Under her cheek Tamsin's heart pounds; Tamsin lies rigid, as if Elsie's breast on her arm burns."}
 {"beat":35,"event":"Through her lashes Elsie sees Tilly staring at her mouth, until Tilly shuts her eyes hard."}
-{"beat":36,"event":"Elsie thinks how lovely, friends so glad of her they can't sleep, and snuggles closer to both."}
+{"beat":36,"event":"Elsie thinks how lovely, friends so glad of her they can't sleep, and snuggles closer to both.","changes":[{"page":"world-relationship/fairweather-elsie-tamsin","note":"Bond: Tamsin 20 (judged: shared bed, Elsie's head on her shoulder)","key":"relationshipPoints","from":15,"to":20},{"page":"world-relationship/fairweather-elsie-tilly","note":"Bond: Tilly 20 (judged: shared bed, Elsie keeps her hand)","key":"relationshipPoints","from":15,"to":20}]}
 {"beat":37,"event":"In the chair by the round window Cora is watching the three of them, and doesn't look away."}
 {"beat":38,"event":"Elsie smiles at her sleepily; Cora opens the ledger and writes, and Elsie falls asleep."}
 {"beat":39,"event":"In the afternoon they wake in a tangle; Tilly finds her own braid in Elsie's mouth and squeaks.","at":"2026-06-02T15:30:00.000Z"}
 {"beat":40,"event":"At the window, low, Tamsin asks what Elsie's class could do, if Tamsin went red tonight."}
 {"beat":41,"event":"Elsie names her two skills, Captivate and Tether; she's never used either, and won't without a yes."}
 {"beat":42,"event":"Tamsin says yes to Tether, now, in advance: if she goes red and turns on them, Elsie has her yes."}
-{"beat":43,"event":"Elsie asks twice if she is sure; Tamsin says she has been sure since the Leftovers."}
+{"beat":43,"event":"Elsie asks twice if she is sure; Tamsin says she has been sure since the Leftovers.","changes":[{"page":"world-relationship/fairweather-elsie-tamsin","note":"Bond: Tamsin 25 (judged: gives her yes to Tether, sure since the Leftovers)","key":"relationshipPoints","from":20,"to":25}]}
 {"beat":44,"event":"Cora, who heard every word, says flatly that the consent is noted, and writes it down."}
 {"beat":45,"event":"At the booth by the east gate, a guild clerk sells them a Glasswood licence for one lantern.","at":"2026-06-02T19:30:00.000Z","place":"place/fairweather-lanternmere"}
 {"beat":46,"event":"Elsie pays it, since Tamsin paid for supper; Tamsin grumbles and lets her.","changes":[{"page":"metric-character-currency/fairweather-elsie","note":"Glasswood licence, one lantern: 108 → 98 pips","key":"value","from":108,"to":98},{"page":"metric-character-currency/fairweather-elsie","note":"Chapter 2 ends with 98 pips","key":"history","append":{"turn":2,"value":98}},{"page":"story-item/fairweather-glasswood-licence","note":"Elsie pays for and keeps the party's Glasswood licence","make":{"title":"Glasswood Licence","story":"story-written/fairweather","character":"character-player/fairweather-elsie","description":"A stamped guild paper licensing the party of Elsie, Tamsin and Tilly into the Glasswood's edge for one day and night."}}]}
@@ -57,23 +57,23 @@
 {"beat":57,"event":"By moth-light they reach two dozen open moonbells, well short of the white posts.","changes":[{"page":"story-item/fairweather-moonbells","note":"Two dozen open moonbells gathered into Tilly's apron pocket","make":{"title":"Open Moonbells","story":"story-written/fairweather","character":"character-other/fairweather-tilly","quantity":24,"description":"Small blue bell-shaped flowers from the Glasswood's hollows, picked open, for the Mortar Lane apothecary."}}]}
 {"beat":58,"event":"Then eyes like lamps show in the trees: a pack of bramblewolves, lean and thorn-furred."}
 {"beat":59,"event":"Tamsin says, very low, that nobody runs. Tilly, on her bitten ankle, turns and runs."}
-{"beat":60,"event":"The wolves go for Tilly; Tamsin roars and goes red, Margery swinging, and the pack scatters."}
+{"beat":60,"event":"The wolves go for Tilly; Tamsin roars and goes red, Margery swinging, and the pack scatters.","changes":[{"page":"metric-character-experience/fairweather-tamsin","note":"Tamsin uses Frenzy: +20 XP (0 → 20 of 1800)","key":"value","from":0,"to":20}]}
 {"beat":61,"event":"In the Frenzy Tamsin does not stop; she wheels on the nearest shape, Tilly fallen in the roots."}
-{"beat":62,"event":"Elsie throws herself between them, arms wide, and Tamsin's face has no one in it at all."}
+{"beat":62,"event":"Elsie throws herself between them, arms wide, and Tamsin's face has no one in it at all.","changes":[{"page":"world-relationship/fairweather-elsie-tilly","note":"Bond: Tilly 25 (judged: Elsie throws herself between Tamsin and fallen Tilly)","key":"relationshipPoints","from":20,"to":25}]}
 {"beat":63,"event":"From the corner of her eye Elsie sees Cora's hand raised to Sever, held there, not used yet."}
-{"beat":64,"event":"Elsie remembers Tamsin's yes, reaches for the class as she'd reach for a hand, and Tethers her."}
+{"beat":64,"event":"Elsie remembers Tamsin's yes, reaches for the class as she'd reach for a hand, and Tethers her.","changes":[{"page":"metric-character-experience/fairweather-elsie","note":"Elsie uses Tether for the first time: +20 XP (0 → 20 of 100)","key":"value","from":0,"to":20}]}
 {"beat":65,"event":"Her window opens: Enthraller, level 1, skills Captivate and Tether, bonds Tamsin and Tilly."}
 {"beat":66,"event":"Tether wakes, a warm line running both ways; Elsie knows in it that Tamsin can break it at will."}
 {"beat":67,"event":"Elsie pours everything down it: Tamsin's name, Margery, the Leftovers, come back, come back."}
 {"beat":68,"event":"Down the line Elsie feels the red falter, and Margery stops a foot from her face."}
-{"beat":69,"event":"Tamsin's eyes clear; she sees Elsie, and Tilly behind her, and the axe's edge, and drops it."}
-{"beat":70,"event":"Two wolves circle back; Tilly hurls a vial, it bursts in green fire and a bang, and the pack flees.","changes":[{"page":"story-item/fairweather-vial-belt","note":"Tilly throws one bang vial at the wolves: three bang vials → two","key":"description","from":"A leather belt of loops and little pouches holding a dozen corked vials of Tilly's brews, three of them bang vials.","to":"A leather belt of loops and little pouches holding eleven corked vials of Tilly's brews, two of them bang vials."}]}
+{"beat":69,"event":"Tamsin's eyes clear; she sees Elsie, and Tilly behind her, and the axe's edge, and drops it.","changes":[{"page":"world-relationship/fairweather-elsie-tamsin","note":"Bond: Tamsin 30 (judged: Elsie's Tether brings her back out of the red)","key":"relationshipPoints","from":25,"to":30}]}
+{"beat":70,"event":"Two wolves circle back; Tilly hurls a vial, it bursts in green fire and a bang, and the pack flees.","changes":[{"page":"story-item/fairweather-vial-belt","note":"Tilly throws one bang vial at the wolves: three bang vials → two","key":"description","from":"A leather belt of loops and little pouches holding a dozen corked vials of Tilly's brews, three of them bang vials.","to":"A leather belt of loops and little pouches holding eleven corked vials of Tilly's brews, two of them bang vials."},{"page":"metric-character-experience/fairweather-elsie","note":"Bramblewolf pack driven off: Elsie +20 XP (20 → 40 of 100)","key":"value","from":20,"to":40},{"page":"metric-character-experience/fairweather-tamsin","note":"Bramblewolf pack driven off: Tamsin +20 XP (20 → 40 of 1800)","key":"value","from":20,"to":40},{"page":"metric-character-experience/fairweather-tilly","note":"Bramblewolf pack driven off by Tilly's vial: Tilly +20 XP (0 → 20 of 150)","key":"value","from":0,"to":20}]}
 {"beat":71,"event":"Tilly stares at her empty hand and says faintly that for once she meant it to explode."}
 {"beat":72,"event":"Through the Tether Elsie feels Tamsin hurting: a wolf's bite on her forearm she hasn't noticed yet."}
 {"beat":73,"event":"Elsie cleans and binds the bite by moth-light, then Tilly's ankle again; her hands shake only after."}
 {"beat":74,"event":"Tamsin sits in the roots and sobs that nobody has ever reached her inside the red before."}
 {"beat":75,"event":"Elsie holds her, Tamsin's face against her breasts, and tells her she can break the Tether any time."}
-{"beat":76,"event":"Tamsin says into her that she doesn't want to break it, not ever."}
+{"beat":76,"event":"Tamsin says into her that she doesn't want to break it, not ever.","changes":[{"page":"world-relationship/fairweather-elsie-tamsin","note":"Bond: Tamsin 35 (judged: she never wants to break the Tether)","key":"relationshipPoints","from":30,"to":35}]}
 {"beat":77,"event":"Cora lowers her hand; she has severed nothing, and her pen will not stay still on the page."}
 {"beat":78,"event":"Elsie asks what she wrote; Cora reads it out: Tether, with consent, to end a Frenzy. Not severed."}
 {"beat":79,"event":"They limp to the empty ranger's hut at the wood's edge, the moonbells safe in Tilly's apron.","at":"2026-06-02T23:15:00.000Z"}
@@ -83,8 +83,8 @@
 {"beat":83,"event":"Elsie whispers goodnight, I love you both; neither answers, and she feels them both go still."}
 {"beat":84,"event":"Through the Tether comes something warm and aching from Tamsin; Elsie takes it for tiredness."}
 {"beat":85,"event":"Tamsin's breath is quick on her nape; Elsie thinks she must be cold, and pulls her arm tighter."}
-{"beat":86,"event":"Tilly whispers, is it real, or the class? Half asleep, Elsie says it's real, she really loves them."}
+{"beat":86,"event":"Tilly whispers, is it real, or the class? Half asleep, Elsie says it's real, she really loves them.","changes":[{"page":"world-relationship/fairweather-elsie-tilly","note":"Bond: Tilly 30 (judged: Elsie tells her the love is real, not the class)","key":"relationshipPoints","from":25,"to":30}]}
 {"beat":87,"event":"Tilly goes quiet, her cheek hot on Elsie's breast, and Elsie worries she has a little fever."}
 {"beat":88,"event":"In the open doorway Cora sits awake against the chiming trees, keeping watch."}
 {"beat":89,"event":"Cora looks back once; Elsie smiles at her, and Cora looks quickly out at the dark again."}
-{"beat":90,"event":"Elsie falls asleep to the glass trees chiming, as the moonbells in the hollows close at midnight."}
+{"beat":90,"event":"Elsie falls asleep to the glass trees chiming, as the moonbells in the hollows close at midnight.","changes":[{"page":"metric-character-experience/fairweather-elsie","note":"Elsie's XP logged: 40","key":"history","append":{"turn":2,"value":40}},{"page":"metric-character-experience/fairweather-tamsin","note":"Tamsin's XP logged: 40","key":"history","append":{"turn":2,"value":40}},{"page":"metric-character-experience/fairweather-tilly","note":"Tilly's XP logged: 20","key":"history","append":{"turn":2,"value":20}}]}
