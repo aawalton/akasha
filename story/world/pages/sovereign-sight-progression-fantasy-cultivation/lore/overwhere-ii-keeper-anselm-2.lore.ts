@@ -80,7 +80,7 @@ export const overwhereIiKeeperAnselm2 = {
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
-      fact: "Keeper Ashby rides on up the valley, and reaches Varrow Keep before dusk on day twenty-nine.",
+      fact: "Keeper Ashby rides on up the valley to Varrow Keep once she has seen the Callow tidepool.",
       knowers: ["lore-disclosure/game-master"],
     },
     {
