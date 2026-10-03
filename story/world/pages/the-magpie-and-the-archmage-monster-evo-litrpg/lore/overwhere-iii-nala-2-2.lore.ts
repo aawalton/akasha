@@ -126,11 +126,23 @@ export const overwhereIiiNala22 = {
     },
     {
       fact: "At the shrine Nala pulled the blight from all four bites with fed weaves and mended them shut.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iii-nala",
+        "character-other/overwhere-iii-edda-crane",
+      ],
     },
     {
       fact: "Struck down on day ten, Nala lay spent half an hour before her well gave back a trickle.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+    },
+    {
+      fact: "Nala told Edda corrupt wolves had hurt her badly, and asked to be taken to the shrine to heal.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iii-nala",
+        "character-other/overwhere-iii-edda-crane",
+      ],
     },
   ],
 } as const satisfies Lore

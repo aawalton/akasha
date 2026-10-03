@@ -34,6 +34,7 @@ export const overwhereIiiCleansingWeave = {
         "lore-disclosure/game-master",
         "character-player/overwhere-iii-nala",
         "character-other/overwhere-iii-brannagh-tull",
+        "character-other/overwhere-iii-edda-crane",
       ],
     },
     {
