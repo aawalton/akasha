@@ -178,7 +178,11 @@ export const overwhereIiiMotherSallow = {
     },
     {
       fact: "Going, she says to the spent girl: 'The Lantern will hear of you, holy one.'",
-      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-mother-sallow"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/overwhere-iii-mother-sallow",
+        "character-player/overwhere-iii-nala",
+      ],
     },
     {
       fact: "She takes her seal-stone and notes, but her haste leaves one half-burned page in the hearth.",
