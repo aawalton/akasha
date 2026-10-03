@@ -136,5 +136,9 @@ export const overwhereIWendlow22 = {
       fact: "Coldbrook Downs lie a day's walk north of Wendlow; the mantis bounty pays on its head or forelimbs.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "New slip: 12 gold for Cal Ferrin, the Ferryman, a Level 16 outlaw robbing folk at Lowcross ferry.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
