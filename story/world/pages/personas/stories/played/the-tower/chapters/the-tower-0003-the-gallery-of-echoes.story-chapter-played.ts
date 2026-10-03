@@ -10,4 +10,5 @@ export const theTower0003TheGalleryOfEchoes = {
   ownLength: 9516,
   unit: "unit/words",
   prose: "txt",
+  beats: "jsonl",
 } as const satisfies StoryChapterPlayed
