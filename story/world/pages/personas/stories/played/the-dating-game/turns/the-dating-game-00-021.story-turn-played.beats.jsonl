@@ -1,8 +1,9 @@
-{"beat":1,"event":"While he is on campus, Alan goes halfway down the hill to the quiet trail beside the stream."}
+{"beat":1,"event":"While he is on campus, Alan goes halfway down the hill to the quiet trail beside the stream.","at":"2026-09-26T12:15:00.000Z","place":"place/the-dating-game-byu-stream-trail","memory":[{"page":"place/the-dating-game-byu-stream-trail","fact":"A quiet trail runs beside a stream that circles BYU campus, halfway down the hill.","shown":true},{"page":"place/the-dating-game-byu-stream-trail","fact":"A quiet trail runs beside a stream that circles BYU campus, halfway down the hill.","learns":"character-player/the-dating-game-alan"}]}
 {"beat":2,"event":"The stream circles the campus, and the trail runs along it in the shade."}
-{"beat":3,"event":"Willows lean over the water, and the maples along the bank are just starting to turn."}
-{"beat":4,"event":"On a Saturday afternoon the trail is nearly empty; he has it almost to himself."}
+{"beat":3,"event":"Willows lean over the water, and the maples along the bank are just starting to turn.","memory":[{"page":"place/the-dating-game-byu-stream-trail","fact":"Willows and maples shade the stream trail, the maples just starting to turn.","shown":true},{"page":"place/the-dating-game-byu-stream-trail","fact":"Willows and maples shade the stream trail, the maples just starting to turn.","learns":"character-player/the-dating-game-alan"}]}
+{"beat":4,"event":"On a Saturday afternoon the trail is nearly empty; he has it almost to himself.","memory":[{"page":"place/the-dating-game-byu-stream-trail","fact":"On a Saturday afternoon the stream trail is nearly empty.","shown":true},{"page":"place/the-dating-game-byu-stream-trail","fact":"On a Saturday afternoon the stream trail is nearly empty.","learns":"character-player/the-dating-game-alan"}]}
 {"beat":5,"event":"He walks slowly, in no hurry, the stream talking low beside him."}
 {"beat":6,"event":"The light comes through the leaves in patches, warm on the path, cool in the shade."}
 {"beat":7,"event":"After the canyon's cold walls and the booth's hush, the easy quiet here is its own kind of rest."}
-{"beat":8,"event":"Ahead, the trail follows the stream on around the hill."}
+{"beat":8,"event":"Ahead, the trail follows the stream on around the hill.","at":"2026-09-26T12:25:00.000Z"}
+

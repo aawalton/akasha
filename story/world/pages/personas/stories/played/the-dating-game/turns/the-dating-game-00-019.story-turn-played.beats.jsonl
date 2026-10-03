@@ -2,11 +2,12 @@
 {"beat":2,"event":"\"and I'm not even exaggerating to make a point.\""}
 {"beat":3,"event":"\"I mean, you've had way longer to practice than anyone else, and I'm sure your curse\""}
 {"beat":4,"event":"\"made it so you had to practice whether you wanted to or not, which sucks.\""}
-{"beat":5,"event":"\"But what a blessing for your narrative skills. I could listen to you all day.\""}
-{"beat":6,"event":"In the booth Echo goes pink to the ears and ducks her head, grinning."}
+{"beat":5,"event":"\"But what a blessing for your narrative skills. I could listen to you all day.\"","memory":[{"page":"lore/the-dating-game-echo","fact":"Alan called Echo's narration the best he has ever heard, and said he could listen to her all day.","shown":true},{"page":"lore/the-dating-game-echo","fact":"Alan called Echo's narration the best he has ever heard, and said he could listen to her all day.","learns":"character-other/the-dating-game-echo"}]}
+{"beat":6,"event":"In the booth Echo goes pink to the ears and ducks her head, grinning.","changes":[{"page":"world-relationship/the-dating-game-echo","key":"relationshipPoints","from":32,"to":36,"note":"Closeness scoring: validation, acknowledgment, reassurance and intimacy 1 each"}]}
 {"beat":7,"event":"At \"your curse\" something flickers across her face, quick, then she lets it go."}
-{"beat":8,"event":"\"A blessing,\" she gives back, turning the word over, and chooses it."}
+{"beat":8,"event":"\"A blessing,\" she gives back, turning the word over, and chooses it.","memory":[{"page":"lore/the-dating-game-echo","fact":"Echo took up Alan's word for her curse: a blessing, for her narration.","shown":true},{"page":"lore/the-dating-game-echo","fact":"Echo took up Alan's word for her curse: a blessing, for her narration.","learns":"character-player/the-dating-game-alan"}]}
 {"beat":9,"event":"She sets the book down open, comes out of the booth, and bumps his shoulder with hers."}
 {"beat":10,"event":"\"I could listen to you all day,\" she gives back, teasing, eyes bright."}
 {"beat":11,"event":"She taps the book, then points at the calendar pinned by the control desk, at next Saturday."}
-{"beat":12,"event":"\"Next Saturday,\" she says, in her announcer's voice, and lifts her eyebrows, pleased with the plan."}
+{"beat":12,"event":"\"Next Saturday,\" she says, in her announcer's voice, and lifts her eyebrows, pleased with the plan.","at":"2026-09-26T12:02:00.000Z","memory":[{"page":"lore/the-dating-game-echo","fact":"Echo proposed meeting Alan again next Saturday, tapping the book she reads to him.","shown":true},{"page":"lore/the-dating-game-echo","fact":"Echo proposed meeting Alan again next Saturday, tapping the book she reads to him.","learns":"character-player/the-dating-game-alan"}]}
+

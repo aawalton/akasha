@@ -1,7 +1,8 @@
 {"beat":1,"event":"Alan reaches out to shake her hand, smiling hugely: \"It's a date! I'll see you Saturday!\""}
-{"beat":2,"event":"Echo takes his hand and shakes it, and holds it a moment past the shake."}
-{"beat":3,"event":"\"It's a date,\" she gives back, and lets the word date sit there on purpose."}
-{"beat":4,"event":"She lets go, and he turns to leave."}
+{"beat":2,"event":"Echo takes his hand and shakes it, and holds it a moment past the shake.","changes":[{"page":"world-relationship/the-dating-game-echo","key":"relationshipPoints","from":36,"to":39,"note":"Closeness scoring: acknowledgment, reassurance and intimacy 1 each"}]}
+{"beat":3,"event":"\"It's a date,\" she gives back, and lets the word date sit there on purpose.","changes":[{"page":"world-appointment/the-dating-game-echo-recording","make":{"title":"Recording The Wandering Inn with Echo","world":"world/personas","characters":["character-player/the-dating-game-alan","character-other/the-dating-game-echo"],"appointmentAt":"2026-10-03T11:00:00.000Z","appointmentPlace":"The BYUradio booth in the BYU Broadcasting Building"},"note":"Next Saturday's recording date with Echo is set for 11 AM on October 3"}],"memory":[{"page":"lore/the-dating-game-echo","fact":"Alan and Echo agreed that their meeting next Saturday is a date.","shown":true},{"page":"lore/the-dating-game-echo","fact":"Alan and Echo agreed that their meeting next Saturday is a date.","learns":"character-player/the-dating-game-alan"},{"page":"lore/the-dating-game-echo","fact":"Alan and Echo agreed that their meeting next Saturday is a date.","learns":"character-other/the-dating-game-echo"}]}
+{"beat":4,"event":"She lets go, and he turns to leave.","leave":["character-other/the-dating-game-echo"]}
 {"beat":5,"event":"He goes back down the quiet hall toward the door."}
 {"beat":6,"event":"Behind him, faint through the hush of the empty building, her voice comes after him: \"Saturday.\""}
-{"beat":7,"event":"Outside, the lot is still mostly bare and the afternoon sun lies warm across campus."}
+{"beat":7,"event":"Outside, the lot is still mostly bare and the afternoon sun lies warm across campus.","at":"2026-09-26T12:04:00.000Z"}
+
