@@ -185,7 +185,7 @@ export const overwhereIHobbsMillWeir = {
     },
     {
       fact: "The wyrm basks on the weir apron's east third, by the mill, belly down with its head on the stone.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
     {
       fact: "Basking, the wyrm's head shows only its scaled top, which has the back's 2-point ward.",
