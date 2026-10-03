@@ -269,7 +269,7 @@ export const overwhereIiWhitecombs = {
     },
     {
       fact: "To Nala's well, the black Water feels like the water of her stair dream.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Loose scree lies heaped beside the crack in the Callow cwm's lower lip.",
