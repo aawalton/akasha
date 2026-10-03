@@ -37,10 +37,12 @@ export const overwhereIi00108 = {
   ],
   lore: [
     "lore/overwhere-ii-greymaws",
+    "lore/overwhere-ii-keeper-anselm-2",
     "lore/overwhere-ii-nala",
     "lore/overwhere-ii-nala-2",
     "lore/overwhere-ii-nala-3",
     "place/overwhere-ii-whitecombs-2",
   ],
+  reviewedBy: ["story-reviewer/continuity"],
   endsAt: "2026-10-26T17:38:00.000Z",
 } as const satisfies StoryTurnPlayed
