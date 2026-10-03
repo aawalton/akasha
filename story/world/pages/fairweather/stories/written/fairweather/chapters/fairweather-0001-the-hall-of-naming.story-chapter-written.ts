@@ -11,7 +11,7 @@ export const fairweather0001TheHallOfNaming = {
   story: "story-written/fairweather",
   ownLength: 3032,
   prose: "txt",
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/game-master",
   beats: "jsonl",
   mechanicsIssues: "txt",
   mechanicsSentBack: true,
@@ -33,7 +33,12 @@ export const fairweather0001TheHallOfNaming = {
     "character-other/fairweather-tamsin",
     "character-other/fairweather-tilly",
   ],
-  reviewedBy: ["story-reviewer/style", "story-reviewer/scene", "story-reviewer/holdings"],
+  reviewedBy: [
+    "story-reviewer/style",
+    "story-reviewer/scene",
+    "story-reviewer/holdings",
+    "story-reviewer/continuity",
+  ],
   recordedBy: [
     "story-recorder/inventory",
     "story-recorder/plan",
