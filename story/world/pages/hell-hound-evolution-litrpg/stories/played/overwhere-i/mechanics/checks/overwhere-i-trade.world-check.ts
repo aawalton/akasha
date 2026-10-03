@@ -60,7 +60,7 @@ export const overwhereITrade = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        'The reading is `{"character":"...","deals":[{"what":"...","side":"buying","base":10,...}]}`.',
+        'The reading is `{"character":"character-player/overwhere-i-nala","deals":[{"side":"buying",...}]}`.',
     },
     {
       decisionKind: "decision-kind/departure",

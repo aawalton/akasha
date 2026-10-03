@@ -43,7 +43,7 @@ export const otherwhereXiLanguage = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        'The reading is `{"character":"...","tongues":[{"tongue":"old-imperial","fluency":0,"days":1}]}`.',
+        'The reading is `{"character":"character-player/otherwhere-xi-nala","tongues":[{"days":1,...}]}`.',
     },
     {
       decisionKind: "decision-kind/absence",

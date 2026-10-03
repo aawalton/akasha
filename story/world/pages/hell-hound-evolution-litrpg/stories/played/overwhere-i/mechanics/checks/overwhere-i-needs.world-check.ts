@@ -89,7 +89,7 @@ export const overwhereINeeds = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        'The reading is `{"character":"...","sinceDrink":2,"sinceMeal":4,"awake":1,"coldHours":0}`.',
+        'The reading is `{"character":"character-player/overwhere-i-nala","sinceDrink":2,"sinceMeal":4,...}`.',
     },
     {
       decisionKind: "decision-kind/departure",

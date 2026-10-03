@@ -54,7 +54,8 @@ export const otherwhereViStanding = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A reading's character is the slug of that relationship page.",
+      statement:
+        "A reading's character is the character page's address, whose slug its relationship page shares.",
     },
     {
       decisionKind: "decision-kind/departure",

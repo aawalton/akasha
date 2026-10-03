@@ -73,7 +73,7 @@ export const otherwhereXiNotice = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        'The reading is `{"character":"...","gods":[{"god":"maradoc","value":40,"deeds":[...]}]}`.',
+        'The reading is `{"character":"character-player/otherwhere-xi-nala","gods":[{"god":"maradoc",...}]}`.',
     },
     {
       decisionKind: "decision-kind/absence",

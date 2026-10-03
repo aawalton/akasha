@@ -71,7 +71,7 @@ export const overwhereINotice = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        'The reading is `{"character":"...","circles":[{"circle":"village","value":0,"deeds":[...]}]}`.',
+        'The reading is `{"character":"character-player/overwhere-i-nala","circles":[{"value":0,...}]}`.',
     },
     {
       decisionKind: "decision-kind/departure",

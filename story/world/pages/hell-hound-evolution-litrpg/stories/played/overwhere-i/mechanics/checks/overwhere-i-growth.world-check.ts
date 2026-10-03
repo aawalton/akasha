@@ -115,7 +115,7 @@ export const overwhereIGrowth = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        'The reading is `{"character":"...","gains":[{"kind":"level","level":1,"marks":0,"foeLevel":3}]}`.',
+        'The reading is `{"character":"character-player/overwhere-i-nala","gains":[{"kind":"level",...}]}`.',
     },
     {
       decisionKind: "decision-kind/departure",

@@ -174,7 +174,8 @@ export const otherwhereXiGrowth = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: 'The reading is `{"character":"...","gains":[{"kind":"stat",...}]}`.',
+      statement:
+        'The reading is `{"character":"character-player/otherwhere-xi-nala","gains":[{"kind":"stat",...}]}`.',
     },
     {
       decisionKind: "decision-kind/departure",

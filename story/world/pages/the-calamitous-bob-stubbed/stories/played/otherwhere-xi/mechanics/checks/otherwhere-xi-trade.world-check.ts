@@ -50,7 +50,7 @@ export const otherwhereXiTrade = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        'The reading is `{"character":"...","deals":[{"what":"...","side":"buying","price":10,...}]}`.',
+        'The reading is `{"character":"character-player/otherwhere-xi-nala","deals":[{"price":10,...}]}`.',
     },
     {
       decisionKind: "decision-kind/absence",

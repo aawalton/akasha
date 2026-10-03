@@ -326,7 +326,7 @@ export const overwhereIvGrowth = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        'The reading is `{"character":"...","gains":[{"kind":"experience","track":"race",...}]}`.',
+        'The reading is `{"character":"character-player/overwhere-iv-nala","gains":[{"track":"race",...}]}`.',
     },
     {
       decisionKind: "decision-kind/departure",

@@ -72,7 +72,7 @@ export const otherwhereXiManaFlow = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        'The reading is `{"character":"...","mana":9,"attunement":3.2,"focus":17,"castings":[...]}`.',
+        'The reading is `{"character":"character-player/otherwhere-xi-nala","mana":9,"focus":17,...}`.',
     },
     {
       decisionKind: "decision-kind/absence",
