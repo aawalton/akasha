@@ -309,5 +309,21 @@ export const overwhereIvMillbrookGatehouse = {
       fact: "The gate guard who sees a blade wolf's head carried in will have it round the gatehouse by dusk.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "The blunted practice spear goes back to stores; Hale crosses Nala off the watch roll with thanks.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Holt shakes Nala's hand at her leaving and says the gate yard is hers to drill in any dawn.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "A recruit's wage is 5 silver a week; Hale pays one who leaves after a full week what it earned.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Told of the strike broken at Tull's, Hale lets Nala keep her boots, tunic and jerkin, for no coin.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Place
