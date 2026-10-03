@@ -184,5 +184,9 @@ export const overwhereIiiMardaHesk2 = {
         "character-other/overwhere-iii-marda-hesk",
       ],
     },
+    {
+      fact: "Marda counts the Wren Brook ford as wood's edge, outside her ban; the brook path above it is not.",
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-marda-hesk"],
+    },
   ],
 } as const satisfies Lore
