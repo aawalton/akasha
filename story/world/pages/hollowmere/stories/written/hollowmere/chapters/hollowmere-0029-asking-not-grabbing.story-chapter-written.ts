@@ -4,13 +4,14 @@ export const hollowmere0029AskingNotGrabbing = {
   id: "01a101e6-0c7e-70a7-be40-c0a70023915e",
   type: "page-type/story-chapter-written",
   slug: "hollowmere-0029-asking-not-grabbing",
+  cover: "image/image-9bb6afb44012e873",
   position: 29,
   unit: "unit/words",
   title: "Asking, Not Grabbing",
   story: "story-written/hollowmere",
   ownLength: 3964,
   prose: "txt",
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   beats: [
     "Monday of week five: you wake in 15 to Bea already looking at you, her chin on her fist, smiling.",
     '"Still true," she says. "I checked. First thing. I still love you." You laugh, and pull her down.',
@@ -94,5 +95,19 @@ export const hollowmere0029AskingNotGrabbing = {
     "character-other/hollowmere-morwenna",
   ],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/mechanics", "story-recorder/memory"],
+  recordedBy: [
+    "story-recorder/inventory",
+    "story-recorder/mechanics",
+    "story-recorder/memory",
+    "story-recorder/picture",
+  ],
+  scenes: ["image/image-9bb6afb44012e873"],
+  pictured: [
+    {
+      cover: "image/image-9bb6afb44012e873",
+      coverAfter: "In a clean shirt. You notice it, and so does everyone: a crisp",
+      character: "character-other/hollowmere-priya",
+      outfit: "crisp white blouse under a red corduroy pinafore, hair brushed and pinned up",
+    },
+  ],
 } as const satisfies StoryChapterWritten
