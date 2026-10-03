@@ -348,5 +348,9 @@ export const overwhereIStarfallLegacy2 = {
       fact: "Felting wool costs 10 mana a minute; a hand-span tear takes about five minutes, with no roll.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Finding the felting weave by trial takes about two hours, needs no roll, and is a Weave use.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
