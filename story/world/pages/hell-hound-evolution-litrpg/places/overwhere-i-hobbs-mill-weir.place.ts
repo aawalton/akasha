@@ -145,7 +145,7 @@ export const overwhereIHobbsMillWeir = {
     },
     {
       fact: "Jory says Dickon's crossbow bolts skipped off the wyrm's back like hail off slate.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
     {
       fact: "Jory has seen the wyrm haul out on the weir stone near noon on sunny days, to lie in the sun.",
