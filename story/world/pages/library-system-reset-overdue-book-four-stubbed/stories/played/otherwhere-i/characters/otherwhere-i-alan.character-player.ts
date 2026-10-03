@@ -7,5 +7,6 @@ export const otherwhereIAlan = {
   title: "Nala",
   story: "story-played/otherwhere-i",
   person: "person/alan",
+  place: "place/otherwhere-i-check-in-counter",
   cover: "image/image-17f59c7233925455",
 } as const satisfies CharacterPlayer
