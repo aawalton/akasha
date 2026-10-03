@@ -87,5 +87,9 @@ export const overwhereIHobbsMillWeir = {
       fact: "The wyrm swims 10 yards a second; on land it slides 3 a second, never past 20 yards from water.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Day 8 dawns clear and warm, with a light west wind and the sun on the weir by mid-morning.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Place
