@@ -11,7 +11,7 @@ export const overwhereIvNalaSpatialSense = {
   character: "character-player/overwhere-iv-nala",
   skill: "world-skill/overwhere-iv-spatial-sense",
   level: 5,
-  uses: 1,
+  uses: 2,
   reachPaces: 11,
   manaCost: 1,
   durationMinutes: 1,
