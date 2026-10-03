@@ -14,7 +14,7 @@ export const overwhereIii00082 = {
     "character-player/overwhere-iii-nala",
     "character-other/overwhere-iii-mother-sallow",
   ],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action:
     "I hit her with the braid at full power, without warning. Then again and again until the notification hits.",
   beats: [
@@ -42,7 +42,12 @@ export const overwhereIii00082 = {
     "lore/overwhere-iii-nala-2-2",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/memory", "story-recorder/picture"],
+  recordedBy: [
+    "story-recorder/inventory",
+    "story-recorder/memory",
+    "story-recorder/picture",
+    "story-recorder/mechanics",
+  ],
   endsAt: "2026-10-08T13:02:00.000Z",
   coverAfter:
     "Her old face slides away. Beneath it she is forty, hard-jawed, with black-ringed eyes.",
