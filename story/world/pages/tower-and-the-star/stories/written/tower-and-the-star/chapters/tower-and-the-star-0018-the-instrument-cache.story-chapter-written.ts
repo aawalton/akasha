@@ -10,4 +10,6 @@ export const towerAndTheStar0018TheInstrumentCache = {
   ownLength: 3615,
   unit: "unit/words",
   prose: "txt",
+  stepStatus: "step-status/player",
+  beats: "jsonl",
 } as const satisfies StoryChapterWritten

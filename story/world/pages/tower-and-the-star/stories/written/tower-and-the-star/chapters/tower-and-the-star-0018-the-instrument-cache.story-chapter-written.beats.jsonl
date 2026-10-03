@@ -1,0 +1,69 @@
+{"beat":1,"event":"The Ascent Gate from Floor 17 sets the party down in a narrow wet-stone corridor.","at":"2000-01-08T08:00:00.000Z","place":"place/tower-and-the-star-floor-18-entry-corridor","present":["character-other/tower-and-the-star-solenne","character-other/tower-and-the-star-dayo","character-other/tower-and-the-star-miriam","character-other/tower-and-the-star-vesper","character-other/tower-and-the-star-tomas","character-other/tower-and-the-star-nadia"],"changes":[{"page":"world-metric/tower-and-the-star-highest-floor-reached","key":"value","from":17,"to":18,"note":"The party reaches Floor 18"}]}
+{"beat":2,"event":"Solenne hears water running under the floor."}
+{"beat":3,"event":"Terrain Read shows deep channels running parallel to the main path."}
+{"beat":4,"event":"Tomás names Floor 18 and says the channels run its length, branching every forty meters."}
+{"beat":5,"event":"Dayo asks him to say the channels are too narrow for anything that matters; he can't."}
+{"beat":6,"event":"Miriam briefly touches the Warden's Grove Focus."}
+{"beat":7,"event":"Solenne notes anything could come out of the channels at any point."}
+{"beat":8,"event":"Tomás says they can't keep full perimeter coverage."}
+{"beat":9,"event":"Dayo says move fast and tight with Miriam in center; Miriam objects, Dayo insists."}
+{"beat":10,"event":"Miriam lets it go, and the party moves."}
+{"beat":11,"event":"Nadia has said nothing since the Gate; she operates precisely but at a different angle."}
+{"beat":12,"event":"Solenne notices and makes the next call instead of noting it."}
+{"beat":13,"event":"Solenne orders standard interval and asks Tomás to listen to the channels."}
+{"beat":14,"event":"Tomás says he is already running it."}
+{"beat":15,"event":"At forty meters a Deepscale Lurker bursts from the left channel toward Miriam.","place":"place/tower-and-the-star-floor-18-wet-stone-corridors"}
+{"beat":16,"event":"Dayo Shield Rushes between the Lurker and Miriam, taking the hit on her shoulder."}
+{"beat":17,"event":"Vesper opens a vial."}
+{"beat":18,"event":"Nadia silently sets a trap in the channel mouth."}
+{"beat":19,"event":"A second Lurker hits the trap at full speed thirty seconds later."}
+{"beat":20,"event":"Nadia places a second trap in the right-hand channel."}
+{"beat":21,"event":"Solenne notes Nadia read the channel timing from the first emergence."}
+{"beat":22,"event":"Dayo downs the first Lurker in forty seconds; Miriam heals her with Mending Touch."}
+{"beat":23,"event":"The System awards 180 XP and two Deepscale Hides."}
+{"beat":24,"event":"Tomás predicts two more channels before the node, emergence biased left."}
+{"beat":25,"event":"Nadia asks when he started hearing the sound; he says thirty seconds in."}
+{"beat":26,"event":"Nadia says she heard it at entry; Tomás makes a notation."}
+{"beat":27,"event":"At the ninety-meter mark two Lurkers emerge from the left channel."}
+{"beat":28,"event":"One Lurker gets past Dayo's left side, heading for Miriam."}
+{"beat":29,"event":"Miriam casts full Mending Touch on Dayo to draw the second Lurker's aggro onto herself."}
+{"beat":30,"event":"Dayo catches the second Lurker with a full Shield Rush."}
+{"beat":31,"event":"Both Lurkers go down in two minutes flat."}
+{"beat":32,"event":"Through the Conductor, Solenne reads Miriam's Warmhearted signal a degree dimmer."}
+{"beat":33,"event":"Solenne quietly reduces Miriam's coverage corner by fifteen degrees."}
+{"beat":34,"event":"Solenne writes 'ceiling' in the margin of the floor notes and closes the notebook."}
+{"beat":35,"event":"The System awards 340 XP, loot, and a Non-System Item, Not Catalogued."}
+{"beat":36,"event":"The loot display points to a natural alcove where the channels end."}
+{"beat":37,"event":"Nadia stands at the alcove's edge and says someone left this here."}
+{"beat":38,"event":"A human-made waterproof case sits in the alcove."}
+{"beat":39,"event":"Solenne opens the case and finds an old eight-string travel dulcimer, intact."}
+{"beat":40,"event":"Vesper says someone carried this to Floor 18 and left it."}
+{"beat":41,"event":"Tomás, without touching it, says it works."}
+{"beat":42,"event":"Nadia looks at the dulcimer with an unguarded face."}
+{"beat":43,"event":"Dayo asks if she knows how to play; Nadia says she used to and stopped."}
+{"beat":44,"event":"Vesper hands the dulcimer to Nadia, who takes it."}
+{"beat":45,"event":"The party sets up camp in a wide, drier rest node at the floor's end.","at":"2000-01-08T19:00:00.000Z","place":"place/tower-and-the-star-floor-18-rest-node"}
+{"beat":46,"event":"Dayo does gear maintenance, Tomás notes, Vesper inscribes, Miriam opens her notebook."}
+{"beat":47,"event":"Solenne writes the encounter notes and closes them."}
+{"beat":48,"event":"Nadia sits with the dulcimer across her lap."}
+{"beat":49,"event":"Nadia tightens and tunes the two slack strings; Vesper glances up."}
+{"beat":50,"event":"Nadia plays a first tentative note."}
+{"beat":51,"event":"Solenne's Harmony Conductor senses pressure at the edge of her perception."}
+{"beat":52,"event":"Solenne's RES rises from 19 to 20 and party Resonance Events reach 102/150.","changes":[{"page":"world-metric/tower-and-the-star-resonance-events","key":"value","from":99,"to":102,"note":"Party Resonance Events reach 102 of 150"}]}
+{"beat":53,"event":"Solenne hears all six Aspects at once in a four-second Full Chord Event."}
+{"beat":54,"event":"In the chord, Nadia's Brightspirit carries something much older underneath."}
+{"beat":55,"event":"The Conductor settles; Nadia keeps playing, not performing."}
+{"beat":56,"event":"Solenne checks her status window, Level 25, Class Proving, 102/150, and closes it."}
+{"beat":57,"event":"Solenne understands the wait is for all six to be ready at once, and won't force it."}
+{"beat":58,"event":"Dayo's hands stop on her gear; she sets the armor piece down."}
+{"beat":59,"event":"Miriam's notebook is open but she is not writing."}
+{"beat":60,"event":"Vesper stops mid-motion in the Workframe, looking at the wall."}
+{"beat":61,"event":"Tomás stops writing and looks at the middle distance."}
+{"beat":62,"event":"Nadia plays on; the stone and water under the floor carry the sound."}
+{"beat":63,"event":"Solenne watches Miriam close her notebook and Tomás set down his pen."}
+{"beat":64,"event":"Tomás takes Vasic's coordinates paper from his pack and sets it beside Solenne."}
+{"beat":65,"event":"Tomás returns to his spot without a word and picks up his pen."}
+{"beat":66,"event":"Solenne reads his three ranked cross-references on the second script in the margin."}
+{"beat":67,"event":"She refolds the paper and puts it back in her utility belt's inner pocket."}
+{"beat":68,"event":"Solenne sits with the paper, the chord, and Nadia's words, leaving them unanswered."}
+{"beat":69,"event":"The rest node shows full recovery in progress at 102/150 as the music goes on."}
