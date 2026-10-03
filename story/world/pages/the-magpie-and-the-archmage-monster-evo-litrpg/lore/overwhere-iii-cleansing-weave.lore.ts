@@ -113,7 +113,7 @@ export const overwhereIiiCleansingWeave = {
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
     {
-      fact: "She can pull blight from her own wounds as from anyone's; each pull costs its mana and its ache.",
+      fact: "She can pull blight from her own wounds as from anyone's, at the same cost as any pull.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
   ],
