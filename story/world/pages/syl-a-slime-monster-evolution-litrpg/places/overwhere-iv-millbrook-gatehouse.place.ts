@@ -319,19 +319,51 @@ export const overwhereIvMillbrookGatehouse = {
     },
     {
       fact: "A recruit's wage is 5 silver a week; Hale pays one who leaves after a full week what it earned.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iv-nala",
+        "character-other/overwhere-iv-rennick-hale",
+      ],
     },
     {
       fact: "Told of the strike broken at Tull's, Hale lets Nala keep her boots, tunic and jerkin, for no coin.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iv-nala",
+        "character-other/overwhere-iv-rennick-hale",
+      ],
     },
     {
       fact: "Leaving the watch, Nala kept her boots, tunic and jerkin, and Hale paid her a full week's 5 silver.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iv-nala",
+        "character-other/overwhere-iv-rennick-hale",
+      ],
     },
     {
       fact: "Hale told Nala the bunks are for the watch, and she'd want a bed elsewhere now.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iv-nala",
+        "character-other/overwhere-iv-rennick-hale",
+      ],
+    },
+    {
+      fact: "Hale struck Nala's name from the watch roll with one clean line.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iv-nala",
+        "character-other/overwhere-iv-rennick-hale",
+      ],
+    },
+    {
+      fact: "Holt told Nala the gate yard is open to her at dawn to drill, any day.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iv-nala",
+        "character-other/overwhere-iv-brenna-holt",
+      ],
     },
   ],
 } as const satisfies Place
