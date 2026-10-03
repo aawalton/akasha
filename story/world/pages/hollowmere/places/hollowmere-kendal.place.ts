@@ -78,5 +78,9 @@ export const hollowmereKendal = {
         "character-player/hollowmere-nala",
       ],
     },
+    {
+      fact: "Down an alley off Kendal's high street, Gianni's serves pasta by candles in bottles until nine.",
+      knowers: ["lore-disclosure/game-master", "character-other/hollowmere-kit"],
+    },
   ],
 } as const satisfies Place

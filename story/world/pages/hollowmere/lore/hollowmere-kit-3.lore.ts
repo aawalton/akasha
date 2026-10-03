@@ -40,5 +40,9 @@ export const hollowmereKit3 = {
         "character-other/hollowmere-kit",
       ],
     },
+    {
+      fact: "The focus Kit is making at the forge is a silver ring for Nala, a turned-in hook worked round it.",
+      knowers: ["lore-disclosure/game-master", "character-other/hollowmere-kit"],
+    },
   ],
 } as const satisfies Lore
