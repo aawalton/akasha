@@ -221,7 +221,7 @@ export const overwhereIiWhitecombs = {
     },
     {
       fact: "Stones packed into the cwm's crack would stop the trickle; the loose scree beside it would serve.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Dead ravens lie about the cwm's rim, grey-scaled at the beak, as if they drank and fell.",
@@ -253,6 +253,14 @@ export const overwhereIiWhitecombs = {
     },
     {
       fact: "Seeing the doubled Callow pool, Hawise says it is not a pool but a mouth.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+    },
+    {
+      fact: "On day twenty-eight Nala and Hawise packed the Callow cwm's crack with scree; the plug holds.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+    },
+    {
+      fact: "As the crack closed, Nala's well lurched toward the Callow pool with each quickened swell.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
   ],
