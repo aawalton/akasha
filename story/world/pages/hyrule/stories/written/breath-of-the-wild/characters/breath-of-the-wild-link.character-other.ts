@@ -6,4 +6,5 @@ export const breathOfTheWildLink = {
   slug: "breath-of-the-wild-link",
   title: "Link",
   story: "story-written/breath-of-the-wild",
+  place: "place/hyrule-field",
 } as const satisfies CharacterOther

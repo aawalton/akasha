@@ -6,4 +6,5 @@ export const breathOfTheWildRhoam = {
   slug: "breath-of-the-wild-rhoam",
   title: "King Rhoam",
   story: "story-written/breath-of-the-wild",
+  place: "place/hyrule-temple-of-time",
 } as const satisfies CharacterOther
