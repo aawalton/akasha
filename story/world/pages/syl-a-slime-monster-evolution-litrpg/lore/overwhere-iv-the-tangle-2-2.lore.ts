@@ -176,5 +176,9 @@ export const overwhereIvTheTangle22 = {
       fact: "Beyond those two she heard many goblins muttering up the trail, and one heavy tread.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
     },
+    {
+      fact: "In the still air of day 10's morning, the hunters' muttering carries some hundred paces.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
