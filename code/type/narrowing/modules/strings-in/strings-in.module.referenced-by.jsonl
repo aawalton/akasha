@@ -2,6 +2,7 @@
 {"propertySlug":"import","fileName":"strings-in.module.code.ts","path":"alan/web/.server/page-detail-loading/page-detail-loading.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"strings-in.module.code.ts","path":"change/runner/modules/change-loading/change-loading.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"strings-in.module.code.ts","path":"command/pages/story/turn/advance/modules/chapter-length/chapter-length.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"strings-in.module.code.ts","path":"command/pages/story/turn/advance/modules/turn-scenes/turn-scenes.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"strings-in.module.code.ts","path":"command/pages/story/turn/advance/story-turn-advance.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"strings-in.module.code.ts","path":"command/pages/story/turn/modules/turn-lore-gathered/turn-lore-gathered.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"strings-in.module.code.ts","path":"domain/context/warrant/change-taboo-terms/change-taboo-terms.context-warrant.code.ts","typed":false,"deferred":false}

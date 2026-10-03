@@ -3,6 +3,7 @@ import { reviewer as reviewerRole } from "akasha/agent/role/pages/reviewer.role.
 import { storyRecorder as storyRecorderRole } from "akasha/agent/role/pages/story-recorder.role.ts"
 import { worldBuilder as worldBuilderRole } from "akasha/agent/role/pages/world-builder.role.ts"
 import { writer as writerRole } from "akasha/agent/role/pages/writer.role.ts"
+import type { BeatScene } from "akasha/story/engine/beat-state/modules/beat-replay/beat-replay.module.code.ts"
 import { wordCount } from "akasha/story/engine/core/modules/word-count/word-count.module.code.ts"
 import { storyRecorder } from "akasha/story/recorder/story-recorder.page-type.ts"
 import { storyReviewer } from "akasha/story/reviewer/story-reviewer.page-type.ts"
@@ -131,12 +132,16 @@ function fromWorldBuilder(held: Held, lore: readonly string[], admitted: Admitte
   return moved(GAME_MASTER, kept.length === 0 ? {} : { lore: kept })
 }
 
-function fromGameMaster(held: Held, beats: readonly string[]): Advanced {
+function fromGameMaster(
+  held: Held,
+  beats: readonly string[],
+  scenes: readonly BeatScene[]
+): Advanced {
   if (beats.length === 0)
     return { refused: "a game master's advance hands in beats, and this has none" }
   const wrong = linesRefused("beat", beats, nounOf(held))
   if (wrong !== null) return { refused: wrong }
-  return moved(WRITER, { beats })
+  return moved(WRITER, { beats, beatScenes: scenes.length === 0 ? undefined : scenes })
 }
 
 function onward(
@@ -252,7 +257,7 @@ export function advanced(
     }
   }
   if (handed.kind === "lore") return fromWorldBuilder(held, handed.lore, admitted)
-  if (handed.kind === "beats") return fromGameMaster(held, handed.beats)
+  if (handed.kind === "beats") return fromGameMaster(held, handed.beats, handed.scenes ?? [])
   if (handed.kind === "review") {
     return fromReviewer(held, handed.reviewer, handed.issues, reviewers, recorders)
   }

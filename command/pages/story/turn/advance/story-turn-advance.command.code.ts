@@ -34,6 +34,12 @@ import {
   titledOf,
 } from "akasha/command/pages/story/turn/advance/modules/turn-handing/turn-handing.module.code.ts"
 import {
+  cachedOf,
+  type Scening,
+  scenedOf,
+  scenesIndexed,
+} from "akasha/command/pages/story/turn/advance/modules/turn-scenes/turn-scenes.module.code.ts"
+import {
   timeCheckIndexed,
   untimedRefused,
 } from "akasha/command/pages/story/turn/advance/modules/turn-timing/turn-timing.module.code.ts"
@@ -174,6 +180,7 @@ type Reaching = Reach & {
   readonly castOf: Casting
   readonly admittedOf: Admitting
   readonly crossedOf: Crossing
+  readonly scenesOf: Scening
 }
 
 function crossedOn(reach: Reaching, root: string, read: Taken, held: Held, turn: Turn): string {
@@ -244,7 +251,10 @@ async function heldOn(
   const admitted = reach.admittedOf(given.root)
   const said = advanced(held, caller, read.handed, slugs, recorded, cast, admitted)
   if ("refused" in said) return refused(said.refused, DATA)
-  const untimed = untimedOn(reach, given.root, read, held, turn)
+  const scened = scenedOf(reach.scenesOf, given.root, held, turn, read.handed)
+  if ("refused" in scened) return refused(scened.refused, DATA)
+  const timedTurn = { ...turn, value: { ...turn.value, ...scened.values } }
+  const untimed = untimedOn(reach, given.root, read, held, timedTurn)
   if (untimed !== null) return refused(untimed, DATA)
   const unsized = unsizedOn(read, turn)
   if (unsized !== null) return refused(unsized, DATA)
@@ -270,14 +280,23 @@ async function heldOn(
     slug,
     path: turn.at,
     merge: true,
-    values: { ...lifted.values, ...recast, ...said.values, ...titled, ...inPlay.values },
+    values: {
+      ...lifted.values,
+      ...recast,
+      ...said.values,
+      ...scened.values,
+      ...titled,
+      ...inPlay.values,
+    },
     ...(said.prose === null ? {} : { bodies: { prose: said.prose } }),
   }
   const folded = reach.fold(given.root, naming)
   if ("refused" in folded) return back([folded.refused])
+  const cached = cachedOf(reach.fold, given.root, scened)
+  if ("refused" in cached) return back([cached.refused])
   const renamed = renamedOf(read, slug, held.game)
   const renaming = renamed === null ? [] : [{ at: RENAME, given: { at: turn.at, to: renamed } }]
-  const asking = [...folded, ...renaming]
+  const asking = [...folded, ...cached, ...renaming]
   const now =
     renamed === null
       ? { slug, at: turn.at }
@@ -343,7 +362,8 @@ export async function storyTurnAdvance(
   timing: Timing = timeCheckIndexed,
   casting: Casting = castIndexed,
   admitting: Admitting = admittedIndexed,
-  crossing: Crossing = crossedIndexed
+  crossing: Crossing = crossedIndexed,
+  scening: Scening = scenesIndexed
 ): Promise<Answer> {
   const reaching: Reaching = {
     ...reach,
@@ -351,6 +371,7 @@ export async function storyTurnAdvance(
     castOf: casting,
     admittedOf: admitting,
     crossedOf: crossing,
+    scenesOf: scening,
   }
   return await answering(
     async (done) => await advancedOn(done, argv, given, landing, reaching, timed)

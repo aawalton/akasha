@@ -12,6 +12,7 @@ import { writtenChapter } from "akasha/command/argument/pages/written-chapter.ar
 import { heldAt } from "akasha/command/modules/filling/command-filling.module.code.ts"
 import { storyTurnAdvance as page } from "akasha/command/pages/story/turn/advance/story-turn-advance.command.ts"
 import { slugOf } from "akasha/page/naming/folding/modules/slug-of/slug-of.module.code.ts"
+import { plannedIn } from "akasha/story/engine/beat-state/modules/beat-replay/beat-replay.module.code.ts"
 import {
   type Handed,
   linesIn,
@@ -148,7 +149,9 @@ function handedFrom(root: string, said: Said): Handed | Refusal {
   if (kind === "record") return recordIn(said)
   if (kind === "beats" && said.beatsFile !== undefined) {
     const read = heldAt(root, beatsFile.said, said.beatsFile)
-    return "refused" in read ? read : { kind, beats: linesIn(read.text) }
+    if ("refused" in read) return read
+    const planned = plannedIn(linesIn(read.text))
+    return "refused" in planned ? { refused: [planned.refused] } : { kind, ...planned }
   }
   if (said.proseFile === undefined) {
     return {

@@ -14,6 +14,10 @@ export const turnHanding = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A beats file holds one beat to a line, each a plain line or a json record.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A title is handed in only with a written chapter's prose, and always with it.",
     },
     {

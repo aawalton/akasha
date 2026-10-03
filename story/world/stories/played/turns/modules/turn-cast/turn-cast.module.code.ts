@@ -61,11 +61,11 @@ export type Admitted = {
   readonly filed: (address: string) => boolean
 }
 
-function typeOf(address: string): string {
+export function typeOf(address: string): string {
   return address.slice(0, address.indexOf(PARTED))
 }
 
-function typesUnder(root: string, top: string): readonly string[] {
+export function typesUnder(root: string, top: string): readonly string[] {
   const above = new Map<string, readonly string[]>()
   for (const one of valuesOfType(root, PAGE_TYPE)) {
     const slug = textAt(one.value, SLUG)

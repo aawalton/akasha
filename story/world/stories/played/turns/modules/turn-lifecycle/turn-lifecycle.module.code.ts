@@ -5,6 +5,7 @@ import { reviewers as reviewersStatus } from "akasha/story/chapter/step-status/p
 import { worldBuilder } from "akasha/story/chapter/step-status/pages/world-builder.step-status.ts"
 import { writer } from "akasha/story/chapter/step-status/pages/writer.step-status.ts"
 import { stepStatus } from "akasha/story/chapter/step-status/step-status.page-type.ts"
+import type { BeatScene } from "akasha/story/engine/beat-state/modules/beat-replay/beat-replay.module.code.ts"
 
 const TURN_STEPS = [
   worldBuilder.slug,
@@ -47,7 +48,11 @@ const LAST_NUMBER = /^(.*?)(\d+)$/
 
 export type Handed =
   | { readonly kind: "lore"; readonly lore: readonly string[] }
-  | { readonly kind: "beats"; readonly beats: readonly string[] }
+  | {
+      readonly kind: "beats"
+      readonly beats: readonly string[]
+      readonly scenes?: readonly BeatScene[]
+    }
   | { readonly kind: "review"; readonly reviewer: string; readonly issues: readonly string[] }
   | { readonly kind: "prose"; readonly prose: string; readonly characters: readonly string[] }
   | { readonly kind: "record"; readonly recorder: string }

@@ -15,6 +15,7 @@ export const storyTurnAdvance = {
     "module/turn-timing",
     "module/turn-crossed",
     "module/chapter-length",
+    "module/turn-scenes",
   ],
   decisions: [
     {
@@ -38,6 +39,10 @@ export const storyTurnAdvance = {
       decisionKind: "decision-kind/departure",
       statement:
         "A turn moving tells the game's game master, world builder and writer seats of it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A game master's scenes land with the end time and places they cache.",
     },
     {
       decisionKind: "decision-kind/departure",
