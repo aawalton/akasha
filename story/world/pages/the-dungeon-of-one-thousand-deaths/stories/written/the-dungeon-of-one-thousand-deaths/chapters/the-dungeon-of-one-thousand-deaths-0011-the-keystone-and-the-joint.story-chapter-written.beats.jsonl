@@ -1,0 +1,96 @@
+{"beat":1,"event":"The arch is the reason Torrin Ash comes back."}
+{"beat":2,"event":"Six months ago the pull returned, the one he felt eight years before and left in the Warrens."}
+{"beat":3,"event":"At a bridge repair on the eastern road, a traveler mentioned an arch built inside the dungeon."}
+{"beat":4,"event":"Torrin asked three questions: what stone, what load, what span-to-rise ratio. No answers."}
+{"beat":5,"event":"The pull found him the next morning."}
+{"beat":6,"event":"He finished the bridge in four months, then checked thirty years of his structures. All held."}
+{"beat":7,"event":"He packs his plumb line, his first tool, with three days' food and a lantern."}
+{"beat":8,"event":"Ren, his apprentice of three years, is waiting at the gate: you're going back.","place":"place/the-dungeon-of-one-thousand-deaths-torrin-ashs-gate","present":["character-other/the-dungeon-of-one-thousand-deaths-torrin-ash","character-other/the-dungeon-of-one-thousand-deaths-ren-dallish"]}
+{"beat":9,"event":"Ren is twenty-two, with good hands and a cloth-wrapped jointing chisel at the belt."}
+{"beat":10,"event":"\"I'm coming.\" \"You are not.\" \"You'll need someone to check your measurements.\""}
+{"beat":11,"event":"Ren falls into step without arguing, which is how Ren wins arguments."}
+{"beat":12,"event":"They walk north together.","place":"place/the-dungeon-of-one-thousand-deaths-the-north-road"}
+{"beat":13,"event":"The camp has become a settlement since his first visit, its ledger grown thick.","place":"place/the-dungeon-of-one-thousand-deaths-the-camp"}
+{"beat":14,"event":"The ledger-keeper knows him: Ash, the third entrant who came back out."}
+{"beat":15,"event":"He reads the old entry: mason, forty-three, reached Depth 2, retreated; purpose, curiosity."}
+{"beat":16,"event":"\"Ren Dallish. Apprentice. I'm with him.\""}
+{"beat":17,"event":"\"He's voluntary,\" Torrin says. \"I'm not.\" It is the first time he has said it plainly."}
+{"beat":18,"event":"The ledger-keeper writes Compelled, re-entry, underlined: the first to come back."}
+{"beat":19,"event":"Torrin reads the cloth: the arch sketch drawn by a good eye, the notes, and the dyer."}
+{"beat":20,"event":"In the morning the Gullet is warmer than he remembers, brighter and narrower.","place":"place/the-dungeon-of-one-thousand-deaths-the-gullet"}
+{"beat":21,"event":"Ren touches the walls and finds the grain runs inward, as Torrin found eight years ago."}
+{"beat":22,"event":"Eight years ago the wall held three inscriptions; now it holds fourteen."}
+{"beat":23,"event":"He touches the blank gap and feels potential: a surface held for its purpose."}
+{"beat":24,"event":"SYLAS RENN, see arch: the dungeon's cross-reference, like a note on a plan."}
+{"beat":25,"event":"\"First to leave a mark,\" Ren reads aloud. \"What mark?\" Torrin does not answer."}
+{"beat":26,"event":"Twenty meters from the arch he stops, and Ren is quiet for once.","place":"place/the-dungeon-of-one-thousand-deaths-the-gap"}
+{"beat":27,"event":"The arch is not beautiful but true, its abutments keyed into the basalt."}
+{"beat":28,"event":"On the near abutment he finds dark fine marks: a structural reading of the stone."}
+{"beat":29,"event":"\"Someone touched this stone and left a reading of it,\" he tells Ren."}
+{"beat":30,"event":"The reinforcement goes deeper than pressure, as if the stone were convinced."}
+{"beat":31,"event":"He reads THE ARCH HOLDS and says, \"Yes. It does,\" and crosses."}
+{"beat":32,"event":"A hundred meters past the arch the Asking finds them both, like a settling house.","place":"place/the-dungeon-of-one-thousand-deaths-the-gullet"}
+{"beat":33,"event":"Eight years ago he fled it before a Designation could settle; this time it has waited."}
+{"beat":34,"event":"The Ledger names him The Keystone: he sees the one point that holds any enclosed space."}
+{"beat":35,"event":"His Cost is Bearing: in any space he has read, he becomes the critical point."}
+{"beat":36,"event":"His Ledger reads Vitality 16, Resolve 22, Attunement 14, Fortune 19: the first re-entry."}
+{"beat":37,"event":"Read at forty-three, he is fifty-one; like Maret Dunn, he walked away and came back."}
+{"beat":38,"event":"Ren stands very still, shown something accurate and deciding whether to look."}
+{"beat":39,"event":"The Ledger names Ren The Joint, with the Gift True Fit: any two surfaces made one."}
+{"beat":40,"event":"Ren's Cost is Unfitting: every join made loosens a join in Ren's own body."}
+{"beat":41,"event":"Ren's Ledger reads Vitality 18, Resolve 15, Attunement 8, Fortune 16."}
+{"beat":42,"event":"Voluntary: the first to come for a companion; the Maw files it without a class."}
+{"beat":43,"event":"\"Unfitting.\" \"Yes.\" \"My joints.\" \"Yes.\" Their Gifts fit; their Costs will break them."}
+{"beat":44,"event":"The Ledger: Depth 2, the Warrens; Resolve +1 each, Torrin 23, Ren 16.","place":"place/the-dungeon-of-one-thousand-deaths-the-marrow-warrens","changes":[{"page":"metric-character-stat/the-dungeon-of-one-thousand-deaths-torrin-ash-resolve","key":"value","from":22,"to":23,"note":"Depth transition into the Warrens, Resolve +1"},{"page":"metric-character-stat/the-dungeon-of-one-thousand-deaths-ren-dallish-resolve","key":"value","from":15,"to":16,"note":"Depth transition into the Warrens, Resolve +1"}]}
+{"beat":45,"event":"With Crown Weight the Warrens resolve: he feels the critical point of every passage.","changes":[{"page":"metric-character-stat/the-dungeon-of-one-thousand-deaths-torrin-ash-attunement","key":"value","from":14,"to":15,"note":"Crown Weight structural read of the Warrens, Attunement +1"}]}
+{"beat":46,"event":"\"This way,\" he says, north, and tells Ren the Gift gives him the rest."}
+{"beat":47,"event":"He takes down the scribe's journal, read eight years ago, and respects its hand."}
+{"beat":48,"event":"The cover bears the same dark marks: weak spine, thin corner, a hairline of stress."}
+{"beat":49,"event":"\"She marked this too,\" he says: the dyer; the binding will fail in two or three years."}
+{"beat":50,"event":"He puts it back without mending it; that is not what he is here for."}
+{"beat":51,"event":"At the Still Garden's threshold Crown Weight shows the crystals bearing the ceiling.","place":"place/the-dungeon-of-one-thousand-deaths-the-still-garden","present":["character-other/the-dungeon-of-one-thousand-deaths-torrin-ash","character-other/the-dungeon-of-one-thousand-deaths-ren-dallish","character-other/the-dungeon-of-one-thousand-deaths-the-gorger"],"changes":[{"page":"metric-character-stat/the-dungeon-of-one-thousand-deaths-torrin-ash-attunement","key":"value","from":15,"to":16,"note":"Crown Weight structural read of the Still Garden, Attunement +1"}]}
+{"beat":52,"event":"At the centre of its web sits The Patient, like a keystone in an inverted arch."}
+{"beat":53,"event":"The Ledger: Depth 3; Resolve +1 each, Torrin 24, Ren 17.","changes":[{"page":"metric-character-stat/the-dungeon-of-one-thousand-deaths-torrin-ash-resolve","key":"value","from":23,"to":24,"note":"Depth transition into the Still Garden, Resolve +1"},{"page":"metric-character-stat/the-dungeon-of-one-thousand-deaths-ren-dallish-resolve","key":"value","from":16,"to":17,"note":"Depth transition into the Still Garden, Resolve +1"}]}
+{"beat":54,"event":"Ren sees the garden and its light, and for the first time says nothing."}
+{"beat":55,"event":"\"Stay here.\" \"No.\" \"That is not a request.\" Ren stays, and Torrin walks forward."}
+{"beat":56,"event":"He reads Essany's marks on a crystal: a demolition manual in a dyer's hand."}
+{"beat":57,"event":"He follows the marked solid paths across the floor without thinking."}
+{"beat":58,"event":"He takes the marked spear: failing, but good for one strike, maybe two."}
+{"beat":59,"event":"On The Patient's shell spreads a handprint of marks from the left flank."}
+{"beat":60,"event":"He reads them like a plan: the flank seam, the nerve node, the hollow dorsal dome."}
+{"beat":61,"event":"Three weaknesses; one loose-headed spear; one plumb line."}
+{"beat":62,"event":"He looks back at Ren, holding the chisel with the face of wanting to use it."}
+{"beat":63,"event":"\"Stay there.\" He winds the plumb line round his fist and aims for the seam."}
+{"beat":64,"event":"The brass weight strikes exactly on the marked seam, and the shell cracks.","changes":[{"page":"metric-character-stat/the-dungeon-of-one-thousand-deaths-torrin-ash-attunement","key":"value","from":16,"to":17,"note":"Crown Weight targeting of the flank seam, Attunement +1"}]}
+{"beat":65,"event":"A clean report: for the first time in 342 years the shell is no longer one piece."}
+{"beat":66,"event":"The Patient moves asymmetrically, compensating for damage it has never known."}
+{"beat":67,"event":"The strike throws him four meters, and his ribs go."}
+{"beat":68,"event":"Bearing engages: he is load-bearing now, and he is not going to leave."}
+{"beat":69,"event":"\"Ren. Go.\" Ren does not go."}
+{"beat":70,"event":"The second strike takes his spine; he sees the crack running through the dyer's marks."}
+{"beat":71,"event":"The crack is permanent, made by two people who never met: a dyer and a mason who came back."}
+{"beat":72,"event":"\"Go. Now. Before—\" The Patient settles onto him.","changes":[{"page":"metric-character-stat/the-dungeon-of-one-thousand-deaths-torrin-ash-vitality","key":"value","from":16,"to":0,"note":"Torrin is crushed by The Patient, Vitality 16 to 0"}]}
+{"beat":73,"event":"Ren watches him die for eleven seconds that will be the rest of Ren's life."}
+{"beat":74,"event":"The Patient settles back, its crack and its asymmetry plain to see."}
+{"beat":75,"event":"Ren walks to Torrin, unwrapping the chisel, kneels, and takes up the plumb line."}
+{"beat":76,"event":"True Fit shows every surface wanting to join, and Ren's left knee and right wrist loosen."}
+{"beat":77,"event":"Ren walks to The Patient, which looks hurt, and sets the chisel in the crack."}
+{"beat":78,"event":"True Fit tries to join metal to crystal; the surfaces refuse, wrongly fitted.","changes":[{"page":"metric-character-stat/the-dungeon-of-one-thousand-deaths-ren-dallish-attunement","key":"value","from":8,"to":9,"note":"One True Fit activation, chisel to crack, Attunement +1"}]}
+{"beat":79,"event":"A join in Ren's left knee loosens; Ren pulls the chisel free and strikes the crack."}
+{"beat":80,"event":"The blow widens the seam by a fraction, small but permanent."}
+{"beat":81,"event":"The Patient rearranges itself, and Ren is in the space it rearranges into."}
+{"beat":82,"event":"On the floor beside Torrin, chisel in hand: I came for him, and that is the whole thing."}
+{"beat":83,"event":"Ren looks at Torrin, not at The Patient, and dies.","changes":[{"page":"metric-character-stat/the-dungeon-of-one-thousand-deaths-ren-dallish-vitality","key":"value","from":18,"to":0,"note":"Ren is killed by The Patient 34 seconds after Torrin, Vitality to 0"}]}
+{"beat":84,"event":"Torrin's report: the Keystone; Crown Weight three times, Bearing running continuously."}
+{"beat":85,"event":"The first physical damage to The Patient: a crack opened by a mason with a dyer's intelligence."}
+{"beat":86,"event":"No crystal for Torrin: his last act was outward, telling Ren to flee. He was load-bearing."}
+{"beat":87,"event":"Ren's report: the Joint, dead thirty-four seconds after his companion."}
+{"beat":88,"event":"Ren's crystal is teal: loyalty, split without precedent across Vitality and Resolve."}
+{"beat":89,"event":"Mapped, cracked, widened: three deaths' damage to the shell, cumulative."}
+{"beat":90,"event":"The chisel and the plumb line stay at the death site as personal artifacts."}
+{"beat":91,"event":"The Maw re-Compelled Torrin with the arch, and had not anticipated Ren."}
+{"beat":92,"event":"It understands Compulsion and voluntary arrival, and not loyalty; the Maw is a place."}
+{"beat":93,"event":"The Patient's kill count is seven; the Reflection allows a thought: the creature is losing."}
+{"beat":94,"event":"The ledger-keeper writes Torrin Ash, re-entry, and Ren Dallish: entered together. first pair."}
+{"beat":95,"event":"The fire still burns; the tally turns twice: 984 remain."}
+{"beat":96,"event":"TORRIN ASH — FIRST TO RETURN. REN DALLISH — FIRST TO FOLLOW."}
