@@ -25,7 +25,7 @@ export const overwhereIiMaudAshby = {
     },
     {
       fact: "Her Talent is Sounding, Minor, at Second Depth: a hand on someone feels their well's shape.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Sounding also feels how far a body is refined, bone by bone and organ by organ.",
