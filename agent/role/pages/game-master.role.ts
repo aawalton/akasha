@@ -41,9 +41,6 @@ export const gameMaster = {
         "The chapter break is never a beat; the last beat is the last event.",
         "Pick up what the chapters before it left open.",
         "A chapter has 50 to 100 beats, whatever length the chapter before it had.",
-        "Where the story states `editorSteps`, a chapter has 100 to 200 beats to a beat editor's cut.",
-        "Aim near the top of that range: the editor cuts it, and beats to spare cost the chapter nothing.",
-        "A mend of beats the beat editor cut runs to at most 100 beats.",
       ],
     },
     {
@@ -56,6 +53,8 @@ export const gameMaster = {
         "Answer every issue before you advance: mechanics sends a turn back once, then lets it go.",
         "After each mend, check the beats after it for what it moved: times, places, who knows what.",
         "Leave the beat as it is where the issue is wrong.",
+        "A page back for repair is mended, never beaten again.",
+        "A mended beat keeps the numbers and memories the recorders settled on it.",
         "An issue only about the prose leaves the beats as they are and goes on to the writer.",
         "Send an issue on a description to the world builder, and advance once it is landed.",
       ],

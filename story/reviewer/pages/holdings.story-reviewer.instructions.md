@@ -12,4 +12,6 @@ An issue is any of these:
 
 Record each issue on the turn, at most 100 characters, naming the beat and what is wrong, as in: `beat 4: 40 XP, and a grade 2 foe gives 20`.
 
+Where a turn comes back to you, it comes back mended: read the beats, the prose and the changes as they are now, and raise again only what still holds.
+
 Record nothing where you find no issue. Do not rewrite the beats or the prose, and do not judge style, pacing or taste.

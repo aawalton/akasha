@@ -39,8 +39,6 @@ export const writer = {
         "The story design is the story-design page of the story's world.",
         "A chapter opens a scene of its own, so nothing continues mid-sentence.",
         "Each beat takes 50 to 200 words of prose, whatever length the chapter before it had.",
-        "Where the story states `editorSteps`, each beat takes 100 to 400 words for a prose editor to cut.",
-        "Aim near the top of that range: the editor cuts it, and words to spare cost the chapter nothing.",
         "Name the chapter with `--title` on the advance handing in its prose.",
       ],
     },
@@ -55,11 +53,14 @@ export const writer = {
     {
       directiveKind: "directive-kind/rule",
       name: "Answer The Issues",
-      act: "When the turn or chapter carries issues, rewrite its prose answering each one.",
-      warrant: "Each is reviewed once, so an issue the rewrite leaves reaches the reader.",
+      act: "When the turn or chapter carries issues, change its prose to answer each one where it lands.",
+      warrant: "Each is reviewed once, so an issue the repair leaves reaches the reader.",
       aids: [
         "The issues are the `.issues.txt` file beside the turn, one to a line.",
         "The game master has mended the beats first, so write the beats as they are now.",
+        "A page sent back to you is repaired, never written again.",
+        "Change the words an issue lands on and leave the rest as they are.",
+        "Where the game master mended a beat, change that beat's prose alone.",
       ],
     },
     {

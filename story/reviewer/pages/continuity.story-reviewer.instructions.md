@@ -14,4 +14,6 @@ Check the turn's pictures, its `cover`, `scenes` and `pictured`, only for showin
 
 Record each issue on the turn, at most 100 characters, quoting the words or naming the memory line it faults, then what those contradict, as in: `"Mara draws her sword" - her sword broke in the last turn`.
 
+Where a turn comes back to you, it comes back mended: read the beats, the prose and what its recorders recorded as they are now, and raise again only what still holds.
+
 Record nothing where you find no issue. Do not rewrite the beats or the prose, and do not judge style, pacing or taste.

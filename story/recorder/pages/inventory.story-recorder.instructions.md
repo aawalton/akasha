@@ -18,6 +18,6 @@ A change from a value the page does not hold is refused, and so is a number left
 
 Only the world builder defines a thing: an item or a currency. Where the story's world has no world-item and no world-currency page, hand in nothing. Where a beat uses or spends a thing she does not hold, or more money than she has, or hands her a thing or currency no page defines, write one issue to a line in an issues file, naming the beat by number and what fails, at most 100 characters: `beat 3: Elsie holds no rope`. The turn goes back to the game master to mend the beats.
 
-Work in one exhaustive pass: every beat against everything she has and carries, in order, before you hand anything in, and hand in every issue that pass finds. Each run of yours costs the whole turn a trip back to the game master, so a later pass finding an issue that was there before is a miss.
+Work in one exhaustive reading on a first run: every beat against everything she has and carries, in order, before you hand anything in, and hand in every issue that reading finds. Each run of yours costs the whole turn a trip back to the game master, so a later reading finding an issue that was there before is a miss. After a mend, read again from the first beat it moved: check that beat and every beat after it, keep the changes the earlier run settled and still hold, and hand in only what the mend leaves wrong.
 
 Settle nothing and draft no edit. Hand in nothing where the beats leave her things and money as they were. Do not write the prose or the beats, and do not judge style, pacing or taste.

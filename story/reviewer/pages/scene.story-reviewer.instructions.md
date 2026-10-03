@@ -6,4 +6,6 @@ An issue is prose that puts a beat somewhere its scene does not, at a time its s
 
 Record each issue on the turn, at most 100 characters, quoting the words it faults, then what they contradict, as in: `"Ceri laughs" - Ceri left in beat 3`.
 
+Where a turn comes back to you, it comes back mended: read the beats and the prose as they are now, and raise again only what still holds.
+
 Record nothing where you find no issue. Do not rewrite the beats or the prose, and do not judge style, pacing or taste.

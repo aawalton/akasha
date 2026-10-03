@@ -12,4 +12,6 @@ Write one json line to a memory file for each of these, naming the beat it happe
 
 Hand the file in with your advance, adding `--memory-file <path>`. The memory is checked against the lore as you hand it in, and a fact named on no page is refused; the knowers grow only once the turn reaches its player. Tell nothing yourself.
 
+Where the prose came back repaired, read again from the first beat the repair changed: check that beat and every beat after it, keep the memory the earlier run settled where the prose still shows it, and record what the repair added.
+
 Hand in no file where the turn settles nothing new and no character learned anything. Do not rewrite the prose, and do not judge style, pacing or taste.
