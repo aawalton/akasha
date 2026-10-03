@@ -149,11 +149,27 @@ export const overwhereIiiMaudFerrow = {
     },
     {
       fact: "Day ten's drill runs dawn bell to the watch change near half past ten, as before.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iii-nala",
+        "character-other/overwhere-iii-maud-ferrow",
+      ],
     },
     {
       fact: "On day ten Nala slipped Tam's swing and rapped his knuckles in the staff bout.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iii-nala",
+        "character-other/overwhere-iii-tam-rowe",
+      ],
+    },
+    {
+      fact: "Nala came late to day ten's drill; Maud jerked her chin at the line, and Nala fell in.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iii-nala",
+        "character-other/overwhere-iii-maud-ferrow",
+      ],
     },
   ],
 } as const satisfies Lore
