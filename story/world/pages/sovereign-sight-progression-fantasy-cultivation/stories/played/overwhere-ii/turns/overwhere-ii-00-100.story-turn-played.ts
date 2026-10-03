@@ -11,7 +11,7 @@ export const overwhereIi00100 = {
   position: 100,
   prose: "txt",
   characters: ["character-player/overwhere-ii-nala"],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action: "I test my strength, Pushing against the blackness",
   beats: [
     "Nala walks to the slick's lower edge and plants the spear butt in the grass.",
@@ -41,7 +41,12 @@ export const overwhereIi00100 = {
     "place/overwhere-ii-callow-beck",
   ],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/memory", "story-recorder/picture"],
+  recordedBy: [
+    "story-recorder/inventory",
+    "story-recorder/memory",
+    "story-recorder/picture",
+    "story-recorder/mechanics",
+  ],
   endsAt: "2026-10-25T16:50:00.000Z",
   coverAfter: "At once the black water at the gully mouth leans down again.",
 } as const satisfies StoryTurnPlayed
