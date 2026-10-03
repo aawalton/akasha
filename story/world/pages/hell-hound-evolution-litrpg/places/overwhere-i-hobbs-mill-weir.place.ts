@@ -219,5 +219,9 @@ export const overwhereIHobbsMillWeir = {
       fact: "A strike at the settled, basking wyrm's head from 20 yards is easy before other bands.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "The Weir Wyrm is Level 18, with 80 health.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Place
