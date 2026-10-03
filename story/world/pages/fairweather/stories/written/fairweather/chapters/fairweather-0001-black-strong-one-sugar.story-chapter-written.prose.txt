@@ -32,10 +32,10 @@ Her name sounded strange in the priestess's mouth, too big for the hall. Elsie g
 
 The air above her brightened. A window opened there, wider than any before it, and the plain letters filled it:
 
-┌──────────────────────┐
-│  Elsie Fairweather   │
-│  Enthraller          │
-└──────────────────────┘
+:::status-assessment
+name: Elsie Fairweather
+note: Class: Enthraller
+:::
 
 The hall went silent. Not quiet, the way it had gone quiet for each name before hers: silent, as if every person on every bench had stopped breathing at once. Somewhere near the back a hymn book slid off a lap and hit the marble with a slap that echoed up into the dome. And behind her, in the line of waiting twenty-year-olds, Elsie heard boots scuff, every pair together, as the whole line stepped back from her as one.
 
@@ -45,15 +45,11 @@ The priestess made a sound that was not quite a word.
 
 Elsie wished her own window open, the way the priests on the roads had always said you could once you were Named, and it came at once, small and close in front of her face, for her alone:
 
-┌──────────────────────┐
-│  Elsie Fairweather   │
-│  Enthraller          │
-│  Level 1             │
-│  Skills              │
-│    Captivate         │
-│    Tether            │
-│  Bonds               │
-└──────────────────────┘
+:::status-assessment
+name: Elsie Fairweather
+level: 1
+note: Class: Enthraller; Skills: Captivate, Tether; Bonds: none
+:::
 
 She read it to the bottom. Not a healer's anything, anywhere in it.
 
@@ -251,17 +247,11 @@ She cried a little over the letter. Not much; only enough that she had to hold t
 
 She blew out the candle, and in the dark she wished her window open. It came at once, small and close and pale in front of her face:
 
-┌──────────────────────┐
-│  Elsie Fairweather   │
-│  Enthraller          │
-│  Level 1             │
-│  Skills              │
-│    Captivate         │
-│    Tether            │
-│  Bonds               │
-│    Tamsin       15   │
-│    Tilly        10   │
-└──────────────────────┘
+:::status-assessment
+name: Elsie Fairweather
+level: 1
+note: Class: Enthraller; Skills: Captivate, Tether; Bonds: Tamsin 15, Tilly 10
+:::
 
 This morning the space under Bonds had been empty. Now there were two names in it.
 
