@@ -2,6 +2,7 @@
 {"propertySlug":"import","fileName":"general-purpose.subagent-kind.ts","path":"agent/subagent/modules/compose-subagent/compose-subagent.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"agent/subagent/kind/subagent-kind.page-type.ts","id":"01a06838-7a9d-7394-97ff-d069ea588410"}
 {"propertySlug":"subagent-kind","path":"agent/subagent/pages/awen-a307cc2ca477a7318/awen-a307cc2ca477a7318.subagent.ts","id":"01a10326-b2ee-7f6a-8dc8-70072c8bf300"}
+{"propertySlug":"subagent-kind","path":"agent/subagent/pages/mari-a0c8390a47d836252/mari-a0c8390a47d836252.subagent.ts","id":"01a1032a-fac1-7fe0-98fb-4862a465677e"}
 {"propertySlug":"subagent-kind","path":"agent/subagent/pages/mari-a533aa7c94a978acc/mari-a533aa7c94a978acc.subagent.ts","id":"01a1032a-eced-73ce-a767-923be579e304"}
 {"propertySlug":"subagent-kind","path":"agent/subagent/pages/mari-a82f3c5fd8a892316/mari-a82f3c5fd8a892316.subagent.ts","id":"01a1032a-c428-7b2a-9784-611be2467fe6"}
 {"propertySlug":"subagent-kind","path":"agent/subagent/pages/mari-aa3d6591b4bebb561/mari-aa3d6591b4bebb561.subagent.ts","id":"01a1032a-d121-7a0f-845c-e484746c032e"}
