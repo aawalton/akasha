@@ -134,5 +134,9 @@ export const overwhereIiiEddaCrane = {
       fact: "Sallow said she kept two big dogs against the wolves, and never let anyone near the lean-to.",
       knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-edda-crane"],
     },
+    {
+      fact: "Edda thought it odd that Sallow sold little charcoal yet never lacked coin.",
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-edda-crane"],
+    },
   ],
 } as const satisfies Lore
