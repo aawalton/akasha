@@ -181,7 +181,7 @@ export const overwhereIiLadyImreVarrow = {
     },
     {
       fact: "Lady Varrow summons Nala that morning, her first summons: go to Callow Beck and hold it.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Lady Varrow sends Hawise with Nala on the first summons, and pays the bar when Nala returns.",
