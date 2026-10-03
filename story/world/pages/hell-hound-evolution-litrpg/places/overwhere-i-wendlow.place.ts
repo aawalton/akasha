@@ -328,5 +328,9 @@ export const overwhereIWendlow = {
         "lore/overwhere-i-grete-holm",
       ],
     },
+    {
+      fact: "Grete enters Nala Arthur on the roll and gives her a bronze antler badge that marks a rolled hunter.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Place
