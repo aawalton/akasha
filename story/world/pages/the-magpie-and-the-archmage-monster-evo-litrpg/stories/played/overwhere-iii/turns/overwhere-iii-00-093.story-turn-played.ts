@@ -14,7 +14,7 @@ export const overwhereIii00093 = {
     "character-other/overwhere-iii-marda-hesk",
     "character-other/overwhere-iii-brannagh-tull",
   ],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/game-master",
   action:
     "“Jackalopes.” I go out to the shrine and use ambient weaves to cleanse the five blightstones.",
   beats: [
@@ -33,6 +33,7 @@ export const overwhereIii00093 = {
   ],
   issues: [
     '"The clay cup is empty of seed stones, and six glimmer specks lie in your palm." - Leave It Open',
+    '"your well stays full" - braids spent her own mana in turns 89-92; it later "has filled a little"',
   ],
   lore: [
     "lore/overwhere-iii-brannagh-tull",
@@ -43,6 +44,6 @@ export const overwhereIii00093 = {
     "lore/overwhere-iii-nala-2",
     "lore/overwhere-iii-nala-2-2",
   ],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
   endsAt: "2026-10-09T14:45:00.000Z",
 } as const satisfies StoryTurnPlayed
