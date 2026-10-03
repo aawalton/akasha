@@ -249,7 +249,7 @@ export const overwhereIiGreymaws = {
     },
     {
       fact: "Pushed with her tide, raw Sea-Water sinks into a whole greymaw chamber through the bone.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "A whole greymaw chamber holds raw Sea-Water fast; nothing seeps back out.",
