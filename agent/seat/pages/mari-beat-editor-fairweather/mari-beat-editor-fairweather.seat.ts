@@ -9,6 +9,6 @@ export const mariBeatEditorFairweather = {
   role: "role/beat-editor",
   person: "person/alan",
   startMode: "seat-mode/interactive",
-  onCall: false,
+  onCall: true,
   registrationAccount: "model-account/aawalton",
 } as const satisfies Seat
