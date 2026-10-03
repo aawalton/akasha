@@ -104,6 +104,13 @@ function StatusAssessmentCard({ assessment }: { assessment: StatusAssessment }) 
           <ReadoutGrid record={assessment.pools} />
         </div>
       ) : null}
+      {assessment.descriptors?.map((descriptor, index) => (
+        <CardField
+          key={`${descriptor.label}-${index}`}
+          label={descriptor.label}
+          value={descriptor.value}
+        />
+      ))}
     </WindowFrame>
   )
 }

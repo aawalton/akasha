@@ -92,6 +92,22 @@ describe("windowOf", () => {
       type: "status-assessment",
       assessment: { name: "None", level: 1 },
     })
+    expect(
+      windowOf({
+        kind: "status-assessment",
+        name: "Elsie Fairweather",
+        note: "Class: Enthraller; Bonds: Tamsin 15",
+      })
+    ).toEqual({
+      type: "status-assessment",
+      assessment: {
+        name: "Elsie Fairweather",
+        descriptors: [
+          { label: "Class", value: "Enthraller" },
+          { label: "Bonds", value: "Tamsin 15" },
+        ],
+      },
+    })
   })
 
   test("a window of no kind a card takes, or fields no card takes, draws nothing", () => {

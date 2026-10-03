@@ -33,6 +33,7 @@ const StatusAssessmentSchema = z
     class: z.string().optional(),
     attributes: z.record(z.string(), z.number()).optional(),
     pools: z.record(z.string(), z.number()).optional(),
+    descriptors: z.array(ItemAwardDescriptorSchema).optional(),
   })
   .strict()
 export type StatusAssessment = z.infer<typeof StatusAssessmentSchema>

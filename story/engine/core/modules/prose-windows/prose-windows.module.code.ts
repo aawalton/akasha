@@ -108,7 +108,14 @@ function drawnOf({ kind, name = "", note, rung, level }: WrittenWindow): unknown
     case "quest-complete":
       return { type: kind, quest: { title: name, objective: note ?? "" } }
     case "status-assessment":
-      return { type: kind, assessment: level === undefined ? { name } : { name, level } }
+      return {
+        type: kind,
+        assessment: {
+          name,
+          ...(level === undefined ? {} : { level }),
+          ...(note === undefined ? {} : { descriptors: describedIn(note) }),
+        },
+      }
     default: {
       const key = NAMED_BY.get(kind)
       return key === undefined ? { type: kind } : { type: kind, [key]: name }
