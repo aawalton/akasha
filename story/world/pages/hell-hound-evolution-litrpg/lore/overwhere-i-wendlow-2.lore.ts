@@ -188,5 +188,9 @@ export const overwhereIWendlow2 = {
       fact: "Ilse can set a well-stone in the band for 20 gold; it adds three days to the ring.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "A well-stone holds 40 mana; its wearer fills it from her own at 10 a minute, with no roll.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
