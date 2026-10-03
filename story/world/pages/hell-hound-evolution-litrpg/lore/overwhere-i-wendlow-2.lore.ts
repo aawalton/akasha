@@ -114,7 +114,7 @@ export const overwhereIWendlow2 = {
     },
     {
       fact: "Ilse Varrow is a small, sharp woman of fifty with ink-stained fingers and spectacles on a cord.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
     {
       fact: "Behind the blue door, Ilse's shop is a narrow room of glass cases, wire, rings and humming stones.",
