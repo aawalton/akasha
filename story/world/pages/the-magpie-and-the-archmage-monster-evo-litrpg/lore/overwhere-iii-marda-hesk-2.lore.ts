@@ -115,5 +115,14 @@ export const overwhereIiiMardaHesk2 = {
         "character-other/overwhere-iii-edda-crane",
       ],
     },
+    {
+      fact: "Marda asked Nala of the false-faced woman, 'Where did she go?'",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iii-nala",
+        "character-other/overwhere-iii-marda-hesk",
+        "character-other/overwhere-iii-edda-crane",
+      ],
+    },
   ],
 } as const satisfies Lore
