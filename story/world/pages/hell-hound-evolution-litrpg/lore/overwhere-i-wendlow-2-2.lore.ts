@@ -10,7 +10,7 @@ export const overwhereIWendlow22 = {
   facts: [
     {
       fact: "The wyrm's 15-gold chit is paid with the other from the magistrate's purse when the tax rider comes.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
     {
       fact: "Ending the Weir Wyrm frees Wendlow's river trade; the town's regard for Nala rises to 4.",
