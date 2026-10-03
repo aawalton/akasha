@@ -10,6 +10,7 @@ export const otherwhereIi0001TheBlackShore = {
   story: "story-played/otherwhere-ii",
   ownLength: 4407,
   prose: "txt",
+  beats: "jsonl",
   turnCovers: [
     {
       position: 1,
