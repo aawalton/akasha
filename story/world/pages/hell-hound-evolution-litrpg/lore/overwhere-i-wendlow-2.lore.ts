@@ -16,5 +16,9 @@ export const overwhereIWendlow2 = {
       fact: "For pelts and monster parts Grete says the guild counting-house pays least, and Mother Sallow more.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Mother Sallow is an alchemist by the river stairs; she buys monster parts for her draughts.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
