@@ -1,5 +1,7 @@
 {"beat":5,"page":"story-item/fairweather-adventurers-outfit","note":"Elsie dresses in her adventurer's outfit","key":"slot","from":null,"to":"item-slot/body"}
 {"beat":5,"page":"story-item/fairweather-flower-clip","note":"Flower clip pinned in her hair","key":"slot","from":null,"to":"item-slot/head"}
+{"beat":14,"page":"character-class/fairweather-elsie-enthraller","note":"Class: Enthraller","key":"unrevealed","from":true,"to":false}
+{"beat":17,"page":"metric-character-level/fairweather-elsie","note":"Level 1","key":"unrevealed","from":true,"to":false}
 {"beat":22,"page":"metric-character-currency/fairweather-elsie","note":"Her purse is shown paying the guild fee","key":"unrevealed","from":true,"to":false}
 {"beat":22,"page":"metric-character-currency/fairweather-elsie","note":"Guild fee, two silver lanterns: 134 → 114 pips","key":"value","from":134,"to":114}
 {"beat":22,"page":"metric-character-currency/fairweather-elsie","note":"Paid the guild registration fee","key":"history","append":{"turn":1,"value":114}}
@@ -8,3 +10,5 @@
 {"beat":65,"page":"metric-character-currency/fairweather-elsie","note":"Paid for her supper at the Tipsy Heron","key":"history","append":{"turn":1,"value":110}}
 {"beat":88,"page":"story-item/fairweather-copper-rank-tag","note":"Belt and tag come off as she undresses","key":"slot","from":"item-slot/waist","to":null}
 {"beat":88,"page":"story-item/fairweather-adventurers-outfit","note":"She unlaces the halter and undresses","key":"slot","from":"item-slot/body","to":null}
+{"beat":92,"page":"world-relationship/fairweather-elsie-and-tamsin","note":"Bond: Tamsin 14 (judged: bound her hands, hug, held her hand through the Hounds story)","make":{"title":"Elsie and Tamsin","world":"world/fairweather","characters":["character-player/fairweather-elsie","character-other/fairweather-tamsin"],"relationshipPoints":14}}
+{"beat":92,"page":"world-relationship/fairweather-elsie-and-tilly","note":"Bond: Tilly 10 (judged: soot wiped, asked to join, father secret shared)","make":{"title":"Elsie and Tilly","world":"world/fairweather","characters":["character-player/fairweather-elsie","character-other/fairweather-tilly"],"relationshipPoints":10}}
