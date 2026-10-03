@@ -259,5 +259,9 @@ export const overwhereIHobbsMillWeir = {
       fact: "Dying in the pool, the wyrm sinks under the barge; a water grip draws its body out, an easy act.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Nala's spikes rise before the wyrm, its stun just ending, can reach the water.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Place
