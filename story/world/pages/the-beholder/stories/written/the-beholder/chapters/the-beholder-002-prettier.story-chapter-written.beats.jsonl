@@ -1,5 +1,5 @@
-{"beat":1,"event":"The card confirms: Allure acquired from Colette Vane, plus 10%, 14.0 to 15.6.","at":"2026-02-10T22:45:00.000Z","changes":[{"page":"the-beholder-allure/the-beholder-pearl","key":"value","from":14,"to":15.6,"note":"Pearl takes Colette's Allure: 10% of Colette's 16.0 added to her own 14.0"}]}
-{"beat":2,"event":"Pearl's sheet now reads Allure 15.6; the System states it flatly and never gloats."}
+{"beat":1,"event":"The card confirms: Allure acquired from Colette Vane, plus 10%, 14.0 to 15.6.","at":"2026-02-10T22:45:00.000Z","changes":[{"page":"the-beholder-allure/the-beholder-pearl","key":"value","from":14,"to":15.6,"note":"Pearl takes Colette's Allure: 10% of Colette's 16.0 added to her own 14.0"}],"memory":[{"page":"lore/the-first-harvest","fact":"Pearl took Her Beauty, a +10% slice of Colette's Allure 16, raising Pearl's Allure 14 to 15.6.","shown":true},{"page":"lore/the-first-harvest","fact":"Pearl passed over Colette's Celerity and Acuity.","shown":true}]}
+{"beat":2,"event":"Pearl's sheet now reads Allure 15.6; the System states it flatly and never gloats.","memory":[{"page":"lore/the-onset-the-system","fact":"The System states facts and reports values, nothing more.","shown":true},{"page":"lore/the-onset-the-system","fact":"All the taste, delight and cruelty in an appraisal is Pearl's; the System's readout is bare.","shown":true}]}
 {"beat":3,"event":"The card hangs frost-bright in the corner of her eye for hours after Colette."}
 {"beat":4,"event":"Since Tuesday, three people have walked into a door, a lamppost and a fountain, staring at her.","at":"2026-02-13T12:00:00.000Z","place":"place/the-beholder-city","present":["character-player/the-beholder-pearl"]}
 {"beat":5,"event":"The whole room tilts toward her now, like a field of flowers when the sun moves."}
@@ -31,7 +31,7 @@
 {"beat":31,"event":"Beside her strength, Pearl, Celerity 11.0, feels like a clever housecat."}
 {"beat":32,"event":"There is no net or wire; Dove falls laughing and catches herself at the last breath."}
 {"beat":33,"event":"Pearl wants the empty socket where Dove's fear should be, to wear as her own."}
-{"beat":34,"event":"At the back with a glass of gold going warm, Pearl feels the hum start behind her eyes."}
+{"beat":34,"event":"At the back with a glass of gold going warm, Pearl feels the hum start behind her eyes.","memory":[{"page":"lore/the-onset-the-system","fact":"When Pearl fixes on a richly beautiful or notable person, her appetite, the hum, rises.","shown":true}]}
 {"beat":35,"event":"The hum is her appetite waking, and over Dove it sings richer than anything since Lettie."}
 {"beat":36,"event":"She wants Dove before she has decided to, and knows by that that it is love."}
 {"beat":37,"event":"With fifteen-point-six she doesn't chase; she stands in the kindest light and waits."}
