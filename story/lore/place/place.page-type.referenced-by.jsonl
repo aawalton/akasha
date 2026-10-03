@@ -636,6 +636,16 @@
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/the-magpie-and-the-archmage-monster-evo-litrpg/places/overwhere-iii-volcanic-island.place.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/the-magpie-and-the-archmage-monster-evo-litrpg/places/overwhere-iii-wrenwood-crossroads.place.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/the-magpie-and-the-archmage-monster-evo-litrpg/places/overwhere-iii-wrenwood.place.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/the-places-she-carries/places/the-places-she-carries-basin-path.place.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/the-places-she-carries/places/the-places-she-carries-hearthstone.place.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/the-places-she-carries/places/the-places-she-carries-millhaven.place.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/the-places-she-carries/places/the-places-she-carries-mudgrass.place.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/the-places-she-carries/places/the-places-she-carries-therons-camp.place.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/the-places-she-carries/places/the-places-she-carries-transition-woodland.place.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/the-places-she-carries/places/the-places-she-carries-varethen.place.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/the-places-she-carries/places/the-places-she-carries-wardens-eye.place.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/the-places-she-carries/places/the-places-she-carries-wardens-shelf.place.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/the-places-she-carries/places/the-places-she-carries-wardens-stair.place.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/tower-of-nimue/places/tower-of-nimue-floor-1-the-charnel-den.place.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/tower-of-nimue/places/tower-of-nimue-st-brigids.place.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/tower-of-nimue/places/tower-of-nimue-the-dead-city.place.ts","typed":true,"deferred":false}
