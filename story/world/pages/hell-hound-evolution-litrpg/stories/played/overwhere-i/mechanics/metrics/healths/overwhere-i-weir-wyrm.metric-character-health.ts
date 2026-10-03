@@ -5,7 +5,7 @@ export const overwhereIWeirWyrm = {
   type: "page-type/metric-character-health",
   slug: "overwhere-i-weir-wyrm",
   character: "character-other/overwhere-i-weir-wyrm",
-  value: 2,
+  value: 0,
   minValue: 0,
   maxValue: 80,
   displayOrder: 1,
