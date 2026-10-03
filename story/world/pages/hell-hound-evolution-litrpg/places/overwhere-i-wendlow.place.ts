@@ -284,5 +284,9 @@ export const overwhereIWendlow = {
       fact: "The hunters' roll costs nothing to join; a rolled hunter gets first call on Board contracts.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "A rolled hunter answers to the Board for her kills, and must bring word of any monster she sees.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Place
