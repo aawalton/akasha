@@ -4,10 +4,13 @@ export const overwhereIii00096 = {
   id: "01a101e3-3ef6-7aba-ab99-ba6d5bc2a8f8",
   type: "page-type/story-turn-played",
   slug: "overwhere-iii-00-096",
+  ownLength: 258,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iii"],
   position: 96,
-  stepStatus: "step-status/writer",
+  prose: "txt",
+  characters: ["character-player/overwhere-iii-nala"],
+  stepStatus: "step-status/reviewers",
   action:
     "I hunt the board, when I get close, I cast my ward on myself first, then find the boar and hit it in the head with my braid until it dies",
   beats: [
@@ -28,6 +31,11 @@ export const overwhereIii00096 = {
     "Ten paces off the boar stands blowing hard, blood running down its snout, a plain hill boar now.",
     "It lowers its tusks at her and paws the frost.",
   ],
-  lore: ["lore/overwhere-iii-corruption-2"],
+  lore: [
+    "lore/overwhere-iii-corruption-2",
+    "lore/overwhere-iii-nala",
+    "lore/overwhere-iii-nala-2",
+    "lore/overwhere-iii-nala-2-2",
+  ],
   endsAt: "2026-10-10T14:17:00.000Z",
 } as const satisfies StoryTurnPlayed
