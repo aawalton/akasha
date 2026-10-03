@@ -231,5 +231,9 @@ export const overwhereIHobbsMillWeir = {
       fact: "Basking half in the water, the wyrm reaches the deep pool 2 seconds after it turns to flee.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "A wyrm's strike at someone within 3 yards is a heavy bite; it lunges 3 yards in a heartbeat.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Place
