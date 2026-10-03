@@ -195,5 +195,9 @@ export const overwhereIHobbsMillWeir = {
       fact: "Lying flat behind the mill's chest-high tail-race wall, 20 yards from the basking spot, hides her.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "The tail-race wall lies within 30 yards of the pool; walking in, her steps reach the wyrm below.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Place
