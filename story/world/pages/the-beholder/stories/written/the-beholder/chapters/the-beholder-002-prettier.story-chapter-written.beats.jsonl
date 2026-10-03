@@ -1,0 +1,57 @@
+{"beat":1,"event":"The card confirms: Allure acquired from Colette Vane, plus 10%, 14.0 to 15.6.","at":"2026-02-10T22:45:00.000Z","changes":[{"page":"the-beholder-allure/the-beholder-pearl","key":"value","from":14,"to":15.6,"note":"Pearl takes Colette's Allure: 10% of Colette's 16.0 added to her own 14.0"}]}
+{"beat":2,"event":"Pearl's sheet now reads Allure 15.6; the System states it flatly and never gloats."}
+{"beat":3,"event":"The card hangs frost-bright in the corner of her eye for hours after Colette."}
+{"beat":4,"event":"Since Tuesday, three people have walked into a door, a lamppost and a fountain, staring at her.","at":"2026-02-13T12:00:00.000Z","place":"place/the-beholder-city","present":["character-player/the-beholder-pearl"]}
+{"beat":5,"event":"The whole room tilts toward her now, like a field of flowers when the sun moves."}
+{"beat":6,"event":"A barista forgets her order halfway through and has to ask again, pink to the ears."}
+{"beat":7,"event":"A woman on the tram looks at her the way you look at weather coming in."}
+{"beat":8,"event":"In a dark shop window she sees the improved her, and thinks: thanks, Lettie."}
+{"beat":9,"event":"She calls Colette Lettie now, a name Colette never let anyone use."}
+{"beat":10,"event":"Pearl reckons them square: Colette got to stop, and she gets to keep going."}
+{"beat":11,"event":"She tells the reader, still here despite her warning, that she knew she liked them."}
+{"beat":12,"event":"The death is ruled a fall: a clumsy girl alone after hours, landing on something sharp."}
+{"beat":13,"event":"The sweet wardrobe girl who found her and wept sits at the top of every list."}
+{"beat":14,"event":"A kind detective's suspicion slides off her face; fifteen-point-six is the finest alibi."}
+{"beat":15,"event":"She says she'd have done anything for Lettie, and he apologises for troubling her."}
+{"beat":16,"event":"For a week flowers brown by the stage door, beside a laminated photo of Colette mid-leap.","at":"2026-02-17T18:00:00.000Z","place":"place/the-beholder-stage-door"}
+{"beat":17,"event":"Wearing a piece of the dead girl among the mourners, Pearl drinks their grief like sun."}
+{"beat":18,"event":"Mr. Aldous finds her by the flowers.","arrive":["character-other/the-beholder-mr-aldous"]}
+{"beat":19,"event":"He says she shouldn't be back here with the mops and the misery."}
+{"beat":20,"event":"He looks at her as they all do now: last month too sweet to be prey, now simply too pretty."}
+{"beat":21,"event":"He invites her up on Saturday, when he's having people: she'll brighten the place."}
+{"beat":22,"event":"She touches his sleeve, and he forgets the sentence he was building, giving like wet paper."}
+{"beat":23,"event":"On Saturday his \"up\" is the top of a glass tower, the whole city glittering below.","at":"2026-02-21T20:00:00.000Z","place":"place/the-beholder-glass-tower-atrium"}
+{"beat":24,"event":"His guests have never carried their own anything; the champagne glows low warm gold."}
+{"beat":25,"event":"Women lacquered to a shine, and a string quartet nobody listens to."}
+{"beat":26,"event":"Pearl moves through it glowing, gathering glances like windfall apples in her skirt."}
+{"beat":27,"event":"The lights drop and the ceiling opens.","at":"2026-02-21T21:30:00.000Z"}
+{"beat":28,"event":"A woman comes down two red silks out of the dark, forty feet into the cleared centre.","arrive":["character-other/the-beholder-dove"]}
+{"beat":29,"event":"Her name is Dove; she wears almost nothing, because the body is the costume."}
+{"beat":30,"event":"She climbs the air, drops, and catches herself on one arm, held level forty feet up."}
+{"beat":31,"event":"Beside her strength, Pearl, Celerity 11.0, feels like a clever housecat."}
+{"beat":32,"event":"There is no net or wire; Dove falls laughing and catches herself at the last breath."}
+{"beat":33,"event":"Pearl wants the empty socket where Dove's fear should be, to wear as her own."}
+{"beat":34,"event":"At the back with a glass of gold going warm, Pearl feels the hum start behind her eyes."}
+{"beat":35,"event":"The hum is her appetite waking, and over Dove it sings richer than anything since Lettie."}
+{"beat":36,"event":"She wants Dove before she has decided to, and knows by that that it is love."}
+{"beat":37,"event":"With fifteen-point-six she doesn't chase; she stands in the kindest light and waits."}
+{"beat":38,"event":"Robed, Dove passes through the crowd and finds her way to the one unimpressed face."}
+{"beat":39,"event":"\"You're not impressed,\" Dove says, delighted, her pulse still fluttering from the drop."}
+{"beat":40,"event":"Up close Dove's beauty is colder and cleaner, a notch under Pearl's, and she wants it anyway."}
+{"beat":41,"event":"Pearl says she's completely impressed and won't embarrass them both by saying so; Dove laughs."}
+{"beat":42,"event":"Pearl touches her arm, feels the dense humming muscle, and holds it one beat past friendly."}
+{"beat":43,"event":"As the party goes loose and loud, Dove invites her up to the rigging loft, where nobody bothers.","at":"2026-02-21T23:30:00.000Z"}
+{"beat":44,"event":"On the steel catwalk above the atrium, the city burning gold beyond the glass, they are alone.","at":"2026-02-21T23:40:00.000Z","place":"place/the-beholder-rigging-loft","present":["character-player/the-beholder-pearl","character-other/the-beholder-dove"]}
+{"beat":45,"event":"Dove leans on the rail and tells how on the silks the fear leaves you a piece at a time."}
+{"beat":46,"event":"Pearl feels calm and certain, a craftswoman with the right tool already in her hand."}
+{"beat":47,"event":"Dove leans to point at something below, and her weight sits in exactly the wrong place."}
+{"beat":48,"event":"Pearl helps her over the rail, the way she helps everyone."}
+{"beat":49,"event":"Dove does not laugh as she falls; the part of her with no fear finally finds some.","leave":["character-other/the-beholder-dove"]}
+{"beat":50,"event":"The click: the loupe swings down, and Dove lies bent wrong on the gold-lit marble far below."}
+{"beat":51,"event":"Dove becomes a rack of beautiful things, one of them Pearl's to take."}
+{"beat":52,"event":"Leaning where Dove leaned, Pearl reads the readout with slow, greedy pleasure."}
+{"beat":53,"event":"Appraisal of Dove, unpowered; Pearl: Might 8, Vit 9, Cel 11, Acu 12, Will 10, Allure 15.6."}
+{"beat":54,"event":"Offered: Might 16.0 (8.0 to 9.6), Allure 15.0 (15.6 to 17.1), Will 14.0 (10.0 to 11.4)."}
+{"beat":55,"event":"The card says: select one, one only."}
+{"beat":56,"event":"She decides Dove's flowers will be white, and that she will stand in them later."}
+{"beat":57,"event":"First, up in the gold and the quiet, she has a choice to make, and means to enjoy every second."}
