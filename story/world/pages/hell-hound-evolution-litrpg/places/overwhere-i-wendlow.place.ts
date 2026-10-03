@@ -350,7 +350,7 @@ export const overwhereIWendlow = {
     },
     {
       fact: "The Weir Wyrm is a Level 18 river serpent; Grete knows no more of it than bargemen's tales.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
     {
       fact: "Grete writes Nala's name in the roll ledger beside the date and her level.",
