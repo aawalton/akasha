@@ -1,0 +1,64 @@
+{"beat":1,"event":"Wren spends three days writing her reply to Sorrel.","at":"2026-09-25T08:00:00.000Z","place":"place/the-places-she-carries-varethen","present":["character-player/the-places-she-carries-wren","character-other/the-places-she-carries-theron","character-other/the-places-she-carries-hadley","character-other/the-places-she-carries-brecca"]}
+{"beat":2,"event":"She keeps out what is not hers to include: the dual signal, the corruption's shallowness, Brecca's insight."}
+{"beat":3,"event":"She writes the intervals plainly: 18, 36, 55, Pulse 4 at Day 75 if the rate holds."}
+{"beat":4,"event":"She asks Sorrel to bring interval records and to come when convenient, for two weeks."}
+{"beat":5,"event":"She seals it and gives it to Hadley for the next supply cache run.","at":"2026-09-27T07:00:00.000Z"}
+{"beat":6,"event":"Hadley sets off with the letter.","leave":["character-other/the-places-she-carries-hadley"]}
+{"beat":7,"event":"With the pulse twenty days off, she has her longest clear interval since arriving."}
+{"beat":8,"event":"She surveys the retreated strip every other morning; the gap is six degrees by Day 58.","at":"2026-09-27T08:00:00.000Z"}
+{"beat":9,"event":"Each degree exposes about three meters of limestone, pale and smelling of water and calcite."}
+{"beat":10,"event":"The corruption rinses out: first the chemistry, then the texture, finally the substrate signal."}
+{"beat":11,"event":"On Day 60 [Keen Survey] returns a clean trace of dressed limestone heading east-northwest.","at":"2026-09-29T08:00:00.000Z"}
+{"beat":12,"event":"Three channels or three branches of one system: not water table, construction."}
+{"beat":13,"event":"She maps what the survey gives her and marks the gaps clearly."}
+{"beat":14,"event":"On Day 61 Theron clears the T-junction's eastern branch.","at":"2026-09-30T08:00:00.000Z"}
+{"beat":15,"event":"Two meters in, he swaps trowel for hands: the next surface is what he has been looking for."}
+{"beat":16,"event":"Wren watches from the channel margin."}
+{"beat":17,"event":"At the end of the morning the terminal structure's first block emerges.","at":"2026-09-30T11:30:00.000Z"}
+{"beat":18,"event":"It is lighter, denser limestone set at a different angle: a meeting point."}
+{"beat":19,"event":"Its face holds a precise circular recess about eight centimeters across: a mark."}
+{"beat":20,"event":"'It is the same geometry as the carved depression on the threshold stone's west face.'"}
+{"beat":21,"event":"She looks twenty meters to the stone; she once took that depression for weathering."}
+{"beat":22,"event":"'Write it down.' He already has his notebook out."}
+{"beat":23,"event":"The gap reaches seven degrees by Day 63.","at":"2026-10-02T08:00:00.000Z"}
+{"beat":24,"event":"Day 64: at the retreated strip with Detail Notation, the Eye's transmission sharpens.","at":"2026-10-03T09:00:00.000Z"}
+{"beat":25,"event":"For about four seconds she senses its depth: below the construction layer."}
+{"beat":26,"event":"Then the resolution drops back and the clarity is gone."}
+{"beat":27,"event":"She stands between the terminal block, the Eye to the north and the unreleased south."}
+{"beat":28,"event":"She journals: the relay terminus is below builder level, possibly pre-corruption."}
+{"beat":29,"event":"Day 68: Hadley returns from the cache run with three species he cannot identify.","at":"2026-10-07T15:00:00.000Z","arrive":["character-other/the-places-she-carries-hadley"]}
+{"beat":30,"event":"The small dark limestone-walkers are back: eleven on two square meters of new stone."}
+{"beat":31,"event":"They gather at the active boundary and thin once it moves on."}
+{"beat":32,"event":"'The substrate signal clearing,' Wren says. 'Can you test that?'"}
+{"beat":33,"event":"With [Keen Survey] and Detail Notation she reads mid-range signal: stone recovering its frequency."}
+{"beat":34,"event":"'I can't tell you what they're eating. But they're on the recovery frequency.'"}
+{"beat":35,"event":"Hadley writes it down, keeping observation and explanation apart."}
+{"beat":36,"event":"On the morning of Day 69 Sorrel walks in behind Hadley.","at":"2026-10-08T07:00:00.000Z","arrive":["character-other/the-places-she-carries-sorrel"]}
+{"beat":37,"event":"Wren expected someone older; Sorrel is about her age, with a careful stillness."}
+{"beat":38,"event":"Sorrel looks at the threshold stone before looking at anyone."}
+{"beat":39,"event":"'You're Wren.' 'And you're Sorrel.'"}
+{"beat":40,"event":"Sorrel stands at the east face without touching it, studying the carved depression."}
+{"beat":41,"event":"'How long has this been here?' 'Since before the settlement. The stone itself is older.'"}
+{"beat":42,"event":"Sorrel reads the site with full attention and no expression."}
+{"beat":43,"event":"'Where is the corruption boundary?' 'I'll show you after breakfast.'"}
+{"beat":44,"event":"Sorrel eats standing at the fire pit, reading the gap.","at":"2026-10-08T07:30:00.000Z"}
+{"beat":45,"event":"Three questions: Detail Notation's reach, how signal degrades, the Vael's depth."}
+{"beat":46,"event":"From the escarpment the pulse is a frequency shift, not a wave front, but the timing matches."}
+{"beat":47,"event":"Sorrel's interval notebook begins at Day 18 and matches Wren's count."}
+{"beat":48,"event":"The original cycle was seventeen days; deceleration began before either arrived."}
+{"beat":49,"event":"'Your grief hypothesis. I've been watching something that makes me uncertain.' 'Tell me.'"}
+{"beat":50,"event":"Wren tells it all in the order it happened: dual signal, the Vael, the four-second window."}
+{"beat":51,"event":"Sorrel asks whether the Vael is prior to the corruption; Wren cannot yet tell."}
+{"beat":52,"event":"'If it's prior, the corruption isn't responding to absence. It's responding to presence.'"}
+{"beat":53,"event":"Wren: then the pulse slows because the presence it responds to is changing."}
+{"beat":54,"event":"Sorrel: or the corruption responds to something it doesn't understand, and the cycle is its adjustment rate."}
+{"beat":55,"event":"For the first time since Day 39, Wren is not approaching it alone."}
+{"beat":56,"event":"An observation cross-validates both counts and updates Sorrel's hypothesis: +55 XP.","changes":[{"page":"metric-character-experience/the-places-she-carries-wren","key":"value","from":2573,"to":2628,"note":"Observation: Sorrel cross-site data validation and synthesis"}]}
+{"beat":57,"event":"Sorrel spends the afternoon at the channel with Theron, sketching the terminal block.","at":"2026-10-08T14:00:00.000Z"}
+{"beat":58,"event":"That evening Wren sits at the threshold stone, palm on the east face, the Vael beneath.","at":"2026-10-08T20:00:00.000Z"}
+{"beat":59,"event":"The precursor's compression sits above it; the Vael runs through both unchanged."}
+{"beat":60,"event":"Sorrel writes by firelight three meters away; the circular depression drew their recognition."}
+{"beat":61,"event":"Wren does not ask yet; there will be time."}
+{"beat":62,"event":"The pulse is six days off, as is the marks' expiry; she holds it all as one field."}
+{"beat":63,"event":"She journals: Sorrel arrived; the corruption is not responding to absence."}
+{"beat":64,"event":"The ghost-elms' shimmer carries further south than the morning she arrived."}
