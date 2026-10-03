@@ -1,10 +1,11 @@
-{"beat":1,"event":"He says, \"Hi there! I'm Alan. Isn't this a great place to get some exercise and fresh air?\""}
-{"beat":2,"event":"\"The BEST place,\" she says, beaming. \"Travelers, say hi to Alan!\""}
+{"beat":1,"event":"He says, \"Hi there! I'm Alan. Isn't this a great place to get some exercise and fresh air?\"","memory":[{"page":"lore/the-dating-game-alan","fact":"Alan told Aelwyn his name.","shown":true},{"page":"lore/the-dating-game-alan","fact":"Alan told Aelwyn his name.","learns":"character-other/the-dating-game-aelwyn"}]}
+{"beat":2,"event":"\"The BEST place,\" she says, beaming. \"Travelers, say hi to Alan!\"","changes":[{"page":"world-relationship/the-dating-game-aelwyn","key":"relationshipPoints","from":0,"to":2,"note":"Closeness scoring: validation and acknowledgment 1 each"}]}
 {"beat":3,"event":"She gives the camera a wave on his behalf, then turns it back to herself."}
 {"beat":4,"event":"\"Real trees, real dirt, real air. That's the quest. Hydrate, heroes! See you next time!\""}
 {"beat":5,"event":"She taps the screen to stop recording and lets out a happy breath."}
-{"beat":6,"event":"\"Sorry, sorry, I totally ambushed you. I'm Aelwyn.\""}
-{"beat":7,"event":"\"Most people turn back down by the creek. You came all the way up here. Respect.\""}
-{"beat":8,"event":"She tips her head at his shirt. \"Is that from a faire? It's legit. The laces and everything.\""}
+{"beat":6,"event":"\"Sorry, sorry, I totally ambushed you. I'm Aelwyn.\"","memory":[{"page":"lore/the-dating-game-aelwyn","fact":"Her name is Aelwyn.","shown":true},{"page":"lore/the-dating-game-aelwyn","fact":"Her name is Aelwyn.","learns":"character-player/the-dating-game-alan"}]}
+{"beat":7,"event":"\"Most people turn back down by the creek. You came all the way up here. Respect.\"","memory":[{"page":"place/the-dating-game-rock-canyon","fact":"Most hikers turn back down by the creek, short of the pine clearing high up Rock Canyon.","shown":true},{"page":"place/the-dating-game-rock-canyon","fact":"Most hikers turn back down by the creek, short of the pine clearing high up Rock Canyon.","learns":"character-player/the-dating-game-alan"}]}
+{"beat":8,"event":"She tips her head at his shirt. \"Is that from a faire? It's legit. The laces and everything.\"","memory":[{"page":"lore/the-dating-game-alan","fact":"Aelwyn noticed Alan's laced shirt and asked if it was from a faire.","shown":true},{"page":"lore/the-dating-game-alan","fact":"Aelwyn noticed Alan's laced shirt and asked if it was from a faire.","learns":"character-player/the-dating-game-alan"},{"page":"lore/the-dating-game-alan","fact":"Aelwyn noticed Alan's laced shirt and asked if it was from a faire.","learns":"character-other/the-dating-game-aelwyn"}]}
 {"beat":9,"event":"She tucks a loose strand of hair behind one long pointed ear, not seeming to think about it."}
-{"beat":10,"event":"She starts folding the tripod. \"I'm doing my cooldown up the trail a ways before I head down.\""}
+{"beat":10,"event":"She starts folding the tripod. \"I'm doing my cooldown up the trail a ways before I head down.\"","at":"2026-09-27T10:12:00.000Z","memory":[{"page":"lore/the-dating-game-aelwyn","fact":"After her Sunday workout Aelwyn cools down up the trail a ways before heading down.","shown":true},{"page":"lore/the-dating-game-aelwyn","fact":"After her Sunday workout Aelwyn cools down up the trail a ways before heading down.","learns":"character-player/the-dating-game-alan"}]}
+

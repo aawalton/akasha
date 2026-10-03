@@ -1,16 +1,17 @@
-{"beat":1,"event":"Alan: \"Good night, Grace.\""}
-{"beat":2,"event":"She smiles back over her shoulder and turns toward the far gate."}
+{"beat":1,"event":"Alan: \"Good night, Grace.\"","changes":[{"page":"world-relationship/the-dating-game-grace","key":"relationshipPoints","from":29,"to":30,"note":"Closeness scoring: acknowledgment 1 for his good night"}]}
+{"beat":2,"event":"She smiles back over her shoulder and turns toward the far gate.","memory":[{"page":"place/the-dating-game-provo-city-cemetery","fact":"The cemetery has a far gate, across the rows of stones.","shown":true},{"page":"place/the-dating-game-provo-city-cemetery","fact":"The cemetery has a far gate, across the rows of stones.","learns":"character-player/the-dating-game-alan"}]}
 {"beat":3,"event":"He watches her lantern move off between the dark rows of stones, small and gold under the pines."}
-{"beat":4,"event":"It passes through the gate and out of sight, and the cemetery is left to the evening."}
-{"beat":5,"event":"He walks home up the hill, the air cooling, the streetlights on along Apple Avenue."}
+{"beat":4,"event":"It passes through the gate and out of sight, and the cemetery is left to the evening.","leave":["character-other/the-dating-game-grace"]}
+{"beat":5,"event":"He walks home up the hill, the air cooling, the streetlights on along Apple Avenue.","at":"2026-09-26T19:55:00.000Z","place":"place/the-dating-game-apple-avenue"}
 {"beat":6,"event":"His house is quiet: one mug in the drying rack, one coat on the hook."}
 {"beat":7,"event":"He kicks off the dusty Ecco slip-ons by the door, as he did last night."}
 {"beat":8,"event":"He goes to bed, and the long day lets go of him; sleep comes easily."}
-{"beat":9,"event":"Somewhere deep in the night, he dreams."}
+{"beat":9,"event":"Somewhere deep in the night, he dreams.","at":"2026-09-27T03:00:00.000Z"}
 {"beat":10,"event":"In the dream it is morning, high up Rock Canyon, where the walls give way to pine forest."}
-{"beat":11,"event":"Sun slants through the tall pines into a small clearing beside the trail."}
+{"beat":11,"event":"Sun slants through the tall pines into a small clearing beside the trail.","memory":[{"page":"place/the-dating-game-rock-canyon","fact":"High up Rock Canyon the walls give way to pine forest, with a small clearing beside the trail.","shown":true},{"page":"place/the-dating-game-rock-canyon","fact":"High up Rock Canyon the walls give way to pine forest, with a small clearing beside the trail.","learns":"character-player/the-dating-game-alan"}]}
 {"beat":12,"event":"A young woman is in the clearing, mid-workout, moving as if the day simply has moving in it."}
 {"beat":13,"event":"Her hair is long and loose, auburn-chestnut, red only where the light gets at it."}
-{"beat":14,"event":"Freckles cross her nose; her eyes are a vivid green; long pointed ears show through her hair."}
-{"beat":15,"event":"A phone on a small tripod stands on a stump, and she talks to it brightly, hands going."}
-{"beat":16,"event":"Between one word and the next she glances past the phone, straight at him, and her face lights."}
+{"beat":14,"event":"Freckles cross her nose; her eyes are a vivid green; long pointed ears show through her hair.","memory":[{"page":"lore/the-dating-game-aelwyn","fact":"Aelwyn has long loose auburn-chestnut hair, freckles across her nose and vivid green eyes.","shown":true},{"page":"lore/the-dating-game-aelwyn","fact":"Aelwyn has long loose auburn-chestnut hair, freckles across her nose and vivid green eyes.","learns":"character-player/the-dating-game-alan"},{"page":"lore/the-dating-game-aelwyn","fact":"Aelwyn has long pointed ears.","shown":true},{"page":"lore/the-dating-game-aelwyn","fact":"Aelwyn has long pointed ears.","learns":"character-player/the-dating-game-alan"}]}
+{"beat":15,"event":"A phone on a small tripod stands on a stump, and she talks to it brightly, hands going.","memory":[{"page":"lore/the-dating-game-aelwyn","fact":"She works out talking brightly to a phone set on a small tripod on a stump.","shown":true},{"page":"lore/the-dating-game-aelwyn","fact":"She works out talking brightly to a phone set on a small tripod on a stump.","learns":"character-player/the-dating-game-alan"}]}
+{"beat":16,"event":"Between one word and the next she glances past the phone, straight at him, and her face lights.","at":"2026-09-27T03:10:00.000Z"}
+

@@ -1,13 +1,14 @@
-{"beat":1,"event":"He wakes Sunday morning and dresses in slacks and the adventurer shirt he wears to ren faires."}
-{"beat":2,"event":"He walks to the Rock Canyon trailhead and starts up between the high rock walls."}
+{"beat":1,"event":"He wakes Sunday morning and dresses in slacks and the adventurer shirt he wears to ren faires.","at":"2026-09-27T08:30:00.000Z","memory":[{"page":"lore/the-dating-game-alan","fact":"Alan has an adventurer shirt he wears to ren faires.","shown":true},{"page":"lore/the-dating-game-alan","fact":"Alan has an adventurer shirt he wears to ren faires.","learns":"character-player/the-dating-game-alan"}]}
+{"beat":2,"event":"He walks to the Rock Canyon trailhead and starts up between the high rock walls.","at":"2026-09-27T09:15:00.000Z","place":"place/the-dating-game-rock-canyon"}
 {"beat":3,"event":"The trail climbs steady and rocky, and the canyon is cool and quiet this early."}
 {"beat":4,"event":"Higher up, the walls give way to pine forest, the way they did in the dream."}
-{"beat":5,"event":"A little after ten he hears a bright voice ahead, talking to someone he can't see."}
+{"beat":5,"event":"A little after ten he hears a bright voice ahead, talking to someone he can't see.","at":"2026-09-27T10:05:00.000Z"}
 {"beat":6,"event":"A small clearing opens beside the trail, sun slanting through the tall pines, just as he dreamed it."}
-{"beat":7,"event":"She is there: long loose auburn-chestnut hair, freckles, vivid green eyes, long pointed ears."}
-{"beat":8,"event":"She is mid-lunge, talking brightly to a phone on a small tripod on a stump, hands going."}
-{"beat":9,"event":"\"And that's the whole secret, travelers. You move because the day has moving in it!\""}
+{"beat":7,"event":"She is there: long loose auburn-chestnut hair, freckles, vivid green eyes, long pointed ears.","arrive":["character-other/the-dating-game-aelwyn"],"changes":[{"page":"character-other/the-dating-game-aelwyn","make":{"title":"Aelwyn","story":"story-played/the-dating-game","persona":"persona/aelwyn","cover":"image/image-9e373fae8c1f66e1"},"note":"Alan meets the woman from his dream, filed as a character of the game"},{"page":"world-relationship/the-dating-game-aelwyn","make":{"title":"Alan and Aelwyn","world":"world/personas","characters":["character-player/the-dating-game-alan","character-other/the-dating-game-aelwyn"],"relationshipPoints":0},"note":"Her relationship with Alan opens at 0 points"}]}
+{"beat":8,"event":"She is mid-lunge, talking brightly to a phone on a small tripod on a stump, hands going.","memory":[{"page":"lore/the-dating-game-aelwyn","fact":"On Sunday mornings Aelwyn works out in the pine clearing high up Rock Canyon.","shown":true}]}
+{"beat":9,"event":"\"And that's the whole secret, travelers. You move because the day has moving in it!\"","memory":[{"page":"lore/the-dating-game-aelwyn","fact":"Aelwyn records her workouts on her phone, talking to viewers she calls travelers.","shown":true},{"page":"lore/the-dating-game-aelwyn","fact":"Aelwyn records her workouts on her phone, talking to viewers she calls travelers.","learns":"character-player/the-dating-game-alan"}]}
 {"beat":10,"event":"Between one word and the next she glances past the phone, straight at him, and her face lights."}
 {"beat":11,"event":"Her eyes go to his shirt, and her grin gets wider."}
 {"beat":12,"event":"To the phone: \"Okay, WAIT. A fellow adventurer just walked into frame. This is so on-brand!\""}
-{"beat":13,"event":"She lifts the phone off the tripod and turns it around on him, still recording."}
+{"beat":13,"event":"She lifts the phone off the tripod and turns it around on him, still recording.","at":"2026-09-27T10:10:00.000Z","memory":[{"page":"lore/the-dating-game-aelwyn","fact":"Aelwyn called Alan a fellow adventurer and turned her phone on him, still recording.","shown":true},{"page":"lore/the-dating-game-aelwyn","fact":"Aelwyn called Alan a fellow adventurer and turned her phone on him, still recording.","learns":"character-player/the-dating-game-alan"},{"page":"lore/the-dating-game-aelwyn","fact":"Aelwyn called Alan a fellow adventurer and turned her phone on him, still recording.","learns":"character-other/the-dating-game-aelwyn"}]}
+
