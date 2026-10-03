@@ -7,4 +7,5 @@ export const cornerstoneTheWakingStoneTheCore = {
   title: "The Waking Stone",
   story: "story-written/cornerstone",
   person: "person/alan",
+  place: "place/cornerstone-the-founding-camp-the-bound-ground",
 } as const satisfies CharacterPlayer

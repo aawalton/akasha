@@ -6,4 +6,5 @@ export const cornerstoneTheFirstBuried = {
   slug: "cornerstone-the-first-buried",
   title: "The First Buried",
   story: "story-written/cornerstone",
+  place: "place/cornerstone-the-founding-camp-the-bound-ground",
 } as const satisfies CharacterOther

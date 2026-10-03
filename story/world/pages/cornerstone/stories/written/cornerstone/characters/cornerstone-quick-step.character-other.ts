@@ -6,4 +6,5 @@ export const cornerstoneQuickStep = {
   slug: "cornerstone-quick-step",
   title: "Quick-Step",
   story: "story-written/cornerstone",
+  place: "place/cornerstone-the-founding-camp-the-bound-ground",
 } as const satisfies CharacterOther
