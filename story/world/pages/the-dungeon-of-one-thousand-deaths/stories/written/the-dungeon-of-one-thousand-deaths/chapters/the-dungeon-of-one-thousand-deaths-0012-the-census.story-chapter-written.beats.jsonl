@@ -1,0 +1,61 @@
+{"beat":1,"event":"Osren counts the pages left in his census book by feel: forty-three.","place":"place/the-dungeon-of-one-thousand-deaths-the-camp","present":["character-other/the-dungeon-of-one-thousand-deaths-osren"]}
+{"beat":2,"event":"At a page per death, the book will be full before the dungeon is."}
+{"beat":3,"event":"It is a census volume of vellum and oiled calfskin, carried from the capital."}
+{"beat":4,"event":"A proper new one means a letter to the capital, and the question of who would answer."}
+{"beat":5,"event":"The regional authority stopped asking for reports six weeks after sending him."}
+{"beat":6,"event":"He sent three; one was acknowledged, one was not, and one may never have arrived."}
+{"beat":7,"event":"He stopped the reports, not the counting: the counting is the part that matters."}
+{"beat":8,"event":"In the morning he tends the fire, which has opinions about how much wood is right.","at":"2029-08-05T06:00:00.000Z"}
+{"beat":9,"event":"He adds two pieces of dry oak and sets the kettle over the heat."}
+{"beat":10,"event":"The camp is oriented toward the entrance forty meters off, like a body round a wound."}
+{"beat":11,"event":"The air from the entrance is always warmer: the dungeon is generating heat."}
+{"beat":12,"event":"He makes tea and opens the book."}
+{"beat":13,"event":"It began with four columns; Outcome once had two values, then a third: returned, partial."}
+{"beat":14,"event":"Now it has thirteen, each added for a data point he did not anticipate."}
+{"beat":15,"event":"Voluntary or compelled, depth reached, re-entry, companion, crystal observed."}
+{"beat":16,"event":"He records the glows from the entrance, four to eleven seconds, and asks no one."}
+{"beat":17,"event":"Torrin Ash and Ren Dallish, side by side, underlined: entered together. first pair."}
+{"beat":18,"event":"He closes the book and drinks his tea."}
+{"beat":19,"event":"At mid-morning Dalya arrives with her mule and the standard inventory.","at":"2029-08-05T10:00:00.000Z","arrive":["character-other/the-dungeon-of-one-thousand-deaths-dalya"]}
+{"beat":20,"event":"Five months on the supply route, she is the longest-tenured merchant at the camp."}
+{"beat":21,"event":"She sells good rope at an honest markup for a customer base that diminishes by increments."}
+{"beat":22,"event":"\"How many this week?\" \"Two. Together.\""}
+{"beat":23,"event":"A mason and his apprentice; the mason had been here before."}
+{"beat":24,"event":"\"Did they buy rope?\" \"No.\" \"Nobody buys rope anymore.\""}
+{"beat":25,"event":"The early ones prepared; the recent ones come and go in."}
+{"beat":26,"event":"Osren's preparation column says the same, from a different data set: convergence."}
+{"beat":27,"event":"In the early afternoon a woman arrives, facing away from the entrance: not an entrant.","at":"2029-08-05T13:30:00.000Z"}
+{"beat":28,"event":"About fifty and dusty from three days of road, she is looking for someone."}
+{"beat":29,"event":"\"Mira Doss.\" He remembers, and reads it from the book anyway."}
+{"beat":30,"event":"Entered with a military party of five, four months ago; she counts the days as he does."}
+{"beat":31,"event":"The outcome column says did not return, five times in a row."}
+{"beat":32,"event":"\"She was my sister.\" He writes it in the margin: family contact, sister."}
+{"beat":33,"event":"She sits by the fire a long time and does not ask how Mira died; he could not say."}
+{"beat":34,"event":"\"Is there anything of hers?\" \"No. Nothing comes back.\""}
+{"beat":35,"event":"She leaves before dark, on the road south."}
+{"beat":36,"event":"He draws a small line beneath Mira Doss's entry: the first mark in the book that is not data."}
+{"beat":37,"event":"At dusk a young woman arrives and stands looking at the entrance: Compelled.","at":"2029-08-05T20:00:00.000Z","arrive":["character-other/the-dungeon-of-one-thousand-deaths-vella-harsk"]}
+{"beat":38,"event":"He waits; the Compelled come to him when the body is ready. She comes in twenty minutes."}
+{"beat":39,"event":"\"Vella Harsk.\" She has dark eyes, short hair, and calloused hands."}
+{"beat":40,"event":"\"I make roof tiles. Three days ago I stopped being able to see the colour of the clay.\""}
+{"beat":41,"event":"The third Compelled craftsperson, after the dyer and the mason; he waits for a fourth."}
+{"beat":42,"event":"\"Voluntary?\" She takes the question seriously. \"I don't think so.\""}
+{"beat":43,"event":"He writes: Compelled, self-reported."}
+{"beat":44,"event":"At last light she walks into the entrance and is gone into the dark.","at":"2029-08-05T20:30:00.000Z","leave":["character-other/the-dungeon-of-one-thousand-deaths-vella-harsk"]}
+{"beat":45,"event":"Vella Harsk walks into the Gullet, past the reach of the camp's light.","place":"place/the-dungeon-of-one-thousand-deaths-the-gullet","present":["character-other/the-dungeon-of-one-thousand-deaths-vella-harsk"]}
+{"beat":46,"event":"Osren sits by the fire, which in four months he has never let go out.","place":"place/the-dungeon-of-one-thousand-deaths-the-camp","present":["character-other/the-dungeon-of-one-thousand-deaths-osren","character-other/the-dungeon-of-one-thousand-deaths-dalya"]}
+{"beat":47,"event":"A fire at the entrance to a place where people die should not go out."}
+{"beat":48,"event":"Forty minutes after she entered, a two-second vibration comes from the entrance.","at":"2029-08-05T21:10:00.000Z"}
+{"beat":49,"event":"He records it under ambient observations: no light observed."}
+{"beat":50,"event":"No light means no crystal, or a crystal too deep, or a death too fast; he does not speculate."}
+{"beat":51,"event":"After another hour he writes in her outcome column: Did not return.","at":"2029-08-05T22:10:00.000Z"}
+{"beat":52,"event":"Death seventeen. He counts the pages left: forty-two."}
+{"beat":53,"event":"The book is a census, not a memorial; he believes this accurately, but not completely."}
+{"beat":54,"event":"He adds wood; the entrance is fully dark now."}
+{"beat":55,"event":"Dalya has gone back to wherever she goes between supply runs.","leave":["character-other/the-dungeon-of-one-thousand-deaths-dalya"]}
+{"beat":56,"event":"He sits with the book in his lap and does not open it."}
+{"beat":57,"event":"Sent to count the dead, his counting has become the closest thing they have to remembrance."}
+{"beat":58,"event":"He cannot stop them entering or save them; he can write their names."}
+{"beat":59,"event":"He does not know what will happen when the book is full, or his reasons for staying tip."}
+{"beat":60,"event":"The fire needs tending, the book needs pages, and someone has to count."}
+{"beat":61,"event":"The night is quiet and the fire burns: 983 remain."}
