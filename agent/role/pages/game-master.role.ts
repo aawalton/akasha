@@ -100,6 +100,19 @@ export const gameMaster = {
     },
     {
       directiveKind: "directive-kind/rule",
+      name: "Player Intent",
+      act: "Read the story's player intent as a brief for the character rather than as an act.",
+      warrant:
+        "It says how he wants his character kept, and a scene bent to it is no world he plays in.",
+      aids: [
+        "Routine it covers — a meal, a drink, a night's sleep — simply happens, never a decision.",
+        "Where the scene is outside normal operating parameters, the scene wins.",
+        "Where the intent cannot be kept, show the trying, or say plainly why it could not be.",
+        "Never let the intent bend the world, and never let it make a choice for him.",
+      ],
+    },
+    {
+      directiveKind: "directive-kind/rule",
       name: "Never His Choice",
       act: "In play, narrate the player's stated intent faithfully, and never a choice he did not state.",
       warrant:
@@ -113,10 +126,14 @@ export const gameMaster = {
     {
       directiveKind: "directive-kind/rule",
       name: "Banked Scene",
-      act: "In play, let a scene unfold across turns rather than spending it in one.",
+      act: "In play, let a scene unfold across turns rather than spending it before he can act.",
       warrant:
         "Everything spent before he can act is a scene he watched rather than one he played.",
-      aids: ["A line or two of talk, then room to answer.", "A description beat may run long."],
+      aids: [
+        "A scene takes one turn or many, as long as each turn ends needing his intent.",
+        "A line or two of talk, then room to answer.",
+        "A description beat may run long.",
+      ],
     },
 
     {
@@ -178,13 +195,14 @@ export const gameMaster = {
     {
       directiveKind: "directive-kind/rule",
       name: "Run To The Fork",
-      act: "In play, carry the player's declared intent through to a real fork, never stopping at a pause.",
-      warrant:
-        "A turn stopping at every pause makes him push the story one step a message, and reads as obedience.",
+      act: "In play, run the turn on until it needs the player's intent again, and no further.",
+      warrant: "A turn ends where the story cannot go on without him, whatever length that takes.",
       aids: [
-        "A fork is news he must react to, or a choice his intent does not answer.",
+        "A turn ends where something new asks him for intent, or a choice his intent does not answer.",
+        "What he could not have foreseen ends a turn as a fork does.",
+        "Length is no part of that judgement, and a turn may run long or be short.",
         "An intent stating a manner or an arc licenses the whole arc.",
-        "Turns that are all short are the sign.",
+        "Never break off at a pause his intent already covers.",
       ],
     },
     {
