@@ -171,5 +171,9 @@ export const overwhereIvTullFarm = {
       fact: "As Nala came in hurt on day 8's night, Tull stepped out of his cottage, cudgel in hand.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
     },
+    {
+      fact: "The ford lies some thirty paces out from the trees, so some hundred and seventy from the fold.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Place

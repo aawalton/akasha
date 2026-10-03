@@ -252,5 +252,17 @@ export const overwhereIvTheTangle2 = {
       fact: "The hobgoblins come on behind the goblins' torches, the maul-bearer bellowing them forward.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "At the ford the hobgoblins are some hundred and seventy paces from the fold, a few behind the front.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "From the ford the rush gets within forty paces of the fold in some forty breaths, to it in fifty.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The strike's torches surged into Tull's ford, the two hobgoblins a head taller amid them.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+    },
   ],
 } as const satisfies Lore
