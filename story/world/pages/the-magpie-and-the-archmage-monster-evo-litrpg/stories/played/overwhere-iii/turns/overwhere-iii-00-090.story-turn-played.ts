@@ -4,10 +4,13 @@ export const overwhereIii00090 = {
   id: "01a10191-815c-72ec-8d13-a0fab76fda92",
   type: "page-type/story-turn-played",
   slug: "overwhere-iii-00-090",
+  ownLength: 150,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iii"],
   position: 90,
-  stepStatus: "step-status/writer",
+  prose: "txt",
+  characters: ["character-player/overwhere-iii-nala"],
+  stepStatus: "step-status/reviewers",
   action:
     "I run backwards to avoid being pincered and to bunch them up, then turn and hit them with a braided cleanse and lash across the three",
   beats: [
@@ -22,6 +25,12 @@ export const overwhereIii00090 = {
     "The biggest butts at her hip. She twists aside, and it skids past through the frost.",
     "All three wheel around, panting, blight still dark in them. The smallest can barely stand.",
   ],
-  lore: ["lore/overwhere-iii-braid-weaving", "lore/overwhere-iii-corruption-2"],
+  lore: [
+    "lore/overwhere-iii-braid-weaving",
+    "lore/overwhere-iii-corruption-2",
+    "lore/overwhere-iii-nala",
+    "lore/overwhere-iii-nala-2",
+    "lore/overwhere-iii-nala-2-2",
+  ],
   endsAt: "2026-10-09T11:43:00.000Z",
 } as const satisfies StoryTurnPlayed
