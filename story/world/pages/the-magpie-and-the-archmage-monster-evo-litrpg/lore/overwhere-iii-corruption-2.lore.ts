@@ -219,7 +219,7 @@ export const overwhereIiiCorruption2 = {
     },
     {
       fact: "The boar's blight runs deep: about six pulls draw it clean, and it lives a plain hill boar.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
     {
       fact: "By day the blighted boar lies up in a bramble wallow a furlong above the Wren Brook ford.",
