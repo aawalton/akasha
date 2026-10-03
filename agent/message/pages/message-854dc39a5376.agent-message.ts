@@ -1,0 +1,11 @@
+import type { AgentMessage } from "akasha/agent/message/agent-message.page-type.types.ts"
+
+export const message854dc39a5376 = {
+  id: "01a0ff68-1e08-7000-9d01-854dc39a5376",
+  type: "page-type/agent-message",
+  slug: "message-854dc39a5376",
+  to: "seat/iris-writer-overwhere-iv",
+  from: "story-step",
+  warrant: "announce",
+  body: "The turn `story/world/pages/syl-a-slime-monster-evolution-litrpg/stories/played/overwhere-iv/turns/overwhere-iv-00-084.story-turn-played.ts` is at game-master.\n",
+} as const satisfies AgentMessage
