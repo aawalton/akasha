@@ -303,6 +303,21 @@ export const hollowmereYusra = {
         "character-other/hollowmere-yusra",
       ],
     },
+    {
+      fact: "Yusra's girlfriend of two years ended it over the summer by text, and Yusra has told no one.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-yusra",
+      ],
+    },
+    {
+      fact: "Yusra's ex, Hana, is a junior doctor in Leeds; the text said she'd met someone on her rotation.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/hollowmere-yusra",
+        "character-player/hollowmere-nala",
+      ],
+    },
   ],
-  secrets: "jsonl",
 } as const satisfies Lore
