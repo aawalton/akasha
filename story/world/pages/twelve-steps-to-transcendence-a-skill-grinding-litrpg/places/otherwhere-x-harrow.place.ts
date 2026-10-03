@@ -226,7 +226,7 @@ export const otherwhereXHarrow = {
       knowers: [
         "lore-disclosure/game-master",
         "character-player/otherwhere-x-nala",
-        "world-character/otherwhere-x-martha-deane",
+        "character-other/otherwhere-x-martha-deane",
         "character-other/otherwhere-x-aldous-crane",
       ],
     },

@@ -33,7 +33,7 @@ export const otherwhereXTheSheaf = {
       knowers: [
         "lore-disclosure/game-master",
         "character-player/otherwhere-x-nala",
-        "world-character/otherwhere-x-martha-deane",
+        "character-other/otherwhere-x-martha-deane",
       ],
     },
     {
@@ -57,7 +57,7 @@ export const otherwhereXTheSheaf = {
       knowers: [
         "lore-disclosure/game-master",
         "character-player/otherwhere-x-nala",
-        "world-character/otherwhere-x-martha-deane",
+        "character-other/otherwhere-x-martha-deane",
       ],
     },
     {
@@ -69,7 +69,7 @@ export const otherwhereXTheSheaf = {
       knowers: [
         "lore-disclosure/game-master",
         "character-player/otherwhere-x-nala",
-        "world-character/otherwhere-x-martha-deane",
+        "character-other/otherwhere-x-martha-deane",
         "character-other/otherwhere-x-aldous-crane",
       ],
     },
@@ -82,7 +82,7 @@ export const otherwhereXTheSheaf = {
       knowers: [
         "lore-disclosure/game-master",
         "character-player/otherwhere-x-nala",
-        "world-character/otherwhere-x-martha-deane",
+        "character-other/otherwhere-x-martha-deane",
         "character-other/otherwhere-x-aldous-crane",
       ],
     },
@@ -91,7 +91,7 @@ export const otherwhereXTheSheaf = {
       knowers: [
         "lore-disclosure/game-master",
         "character-player/otherwhere-x-nala",
-        "world-character/otherwhere-x-martha-deane",
+        "character-other/otherwhere-x-martha-deane",
         "character-other/otherwhere-x-aldous-crane",
       ],
     },

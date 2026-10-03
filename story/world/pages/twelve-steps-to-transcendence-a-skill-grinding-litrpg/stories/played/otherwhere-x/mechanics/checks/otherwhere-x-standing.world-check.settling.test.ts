@@ -1,7 +1,7 @@
 import { expect, test } from "bun:test"
 import { worldCharacter } from "akasha/story/world/characters/world-character.page-type.ts"
 import { worldRelationship } from "akasha/story/world/mechanics/relationships/world-relationship.page-type.ts"
-import { otherwhereXMarthaDeane } from "akasha/story/world/pages/twelve-steps-to-transcendence-a-skill-grinding-litrpg/characters/otherwhere-x-martha-deane.world-character.ts"
+import { otherwhereXMarthaDeane } from "akasha/story/world/pages/twelve-steps-to-transcendence-a-skill-grinding-litrpg/characters/otherwhere-x-martha-deane.character-other.ts"
 import {
   added,
   settled,

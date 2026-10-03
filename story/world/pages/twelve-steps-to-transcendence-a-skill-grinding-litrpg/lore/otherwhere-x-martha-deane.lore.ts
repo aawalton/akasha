@@ -6,14 +6,14 @@ export const otherwhereXMarthaDeane = {
   slug: "otherwhere-x-martha-deane",
   title: "Martha Deane",
   world: "world/twelve-steps-to-transcendence-a-skill-grinding-litrpg",
-  about: "world-character/otherwhere-x-martha-deane",
+  about: "character-other/otherwhere-x-martha-deane",
   facts: [
     {
       fact: "Martha Deane, a brisk widow, keeps the Sheaf, Harrow's alehouse on the green.",
       knowers: [
         "lore-disclosure/game-master",
         "character-player/otherwhere-x-nala",
-        "world-character/otherwhere-x-martha-deane",
+        "character-other/otherwhere-x-martha-deane",
       ],
     },
     {
@@ -77,7 +77,7 @@ export const otherwhereXMarthaDeane = {
       knowers: [
         "lore-disclosure/game-master",
         "character-player/otherwhere-x-nala",
-        "world-character/otherwhere-x-martha-deane",
+        "character-other/otherwhere-x-martha-deane",
         "character-other/otherwhere-x-aldous-crane",
       ],
     },
