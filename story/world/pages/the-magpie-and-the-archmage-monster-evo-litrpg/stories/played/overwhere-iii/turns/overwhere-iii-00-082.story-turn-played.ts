@@ -4,10 +4,16 @@ export const overwhereIii00082 = {
   id: "01a0ff3d-5aec-77f2-8650-c9fea194496d",
   type: "page-type/story-turn-played",
   slug: "overwhere-iii-00-082",
+  ownLength: 246,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iii"],
   position: 82,
-  stepStatus: "step-status/writer",
+  prose: "txt",
+  characters: [
+    "character-player/overwhere-iii-nala",
+    "character-other/overwhere-iii-mother-sallow",
+  ],
+  stepStatus: "step-status/reviewers",
   action:
     "I hit her with the braid at full power, without warning. Then again and again until the notification hits.",
   beats: [
@@ -28,6 +34,11 @@ export const overwhereIii00082 = {
     "Nala reaches for her well. One spark is left, not enough for another braid.",
     "The woman presses a hand to her chest and steadies. The wolves circle low between them.",
   ],
-  lore: ["lore/overwhere-iii-mother-sallow"],
+  lore: [
+    "lore/overwhere-iii-mother-sallow",
+    "lore/overwhere-iii-nala",
+    "lore/overwhere-iii-nala-2",
+    "lore/overwhere-iii-nala-2-2",
+  ],
   endsAt: "2026-10-08T13:02:00.000Z",
 } as const satisfies StoryTurnPlayed
