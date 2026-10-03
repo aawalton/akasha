@@ -1,4 +1,5 @@
 import type { BeatChanges } from "akasha/story/chapter/properties/beat-changes.file-property.types.ts"
+import type { BeatMemory } from "akasha/story/chapter/properties/beat-memory.file-property.types.ts"
 import type { BeatScenes } from "akasha/story/chapter/properties/beat-scenes.record-property.types.ts"
 import type { StepBeats } from "akasha/story/chapter/properties/step-beats.text-property.types.ts"
 import type { StepIssues } from "akasha/story/chapter/properties/step-issues.text-property.types.ts"
@@ -22,6 +23,7 @@ export type StoryTurnPlayed = Turn & {
   beats?: StepBeats
   beatScenes?: BeatScenes
   beatChanges?: BeatChanges
+  beatMemory?: BeatMemory
   mechanicsIssues?: StepMechanicsIssues
   issues?: StepIssues
   lore?: StepLore

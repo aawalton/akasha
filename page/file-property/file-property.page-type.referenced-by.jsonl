@@ -112,6 +112,7 @@
 {"propertySlug":"import","fileName":"file-property.page-type.types.ts","path":"persona/properties/portrait.file-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"file-property.page-type.types.ts","path":"persona/review-session/properties/review-session-notes.file-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"file-property.page-type.types.ts","path":"story/chapter/properties/beat-changes.file-property.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"file-property.page-type.types.ts","path":"story/chapter/properties/beat-memory.file-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"file-property.page-type.types.ts","path":"story/lore/properties/lore-secrets.file-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"file-property.page-type.types.ts","path":"story/properties/phase-timings.file-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"file-property.page-type.types.ts","path":"story/recorder/properties/story-recorder-instructions.file-property.ts","typed":true,"deferred":false}

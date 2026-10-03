@@ -8,6 +8,7 @@
 {"pageTypeSlug":"file-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"audit-refusals","propertySlug":"audit-refusals","fileName":null,"folderName":null,"generated":true}
 {"pageTypeSlug":"file-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"authority-certificate","propertySlug":"authority-certificate","fileName":"ca.crt","folderName":null,"generated":true}
 {"pageTypeSlug":"file-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"beat-changes","propertySlug":"beat-changes","fileName":null,"folderName":null}
+{"pageTypeSlug":"file-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"beat-memory","propertySlug":"beat-memory","fileName":null,"folderName":null}
 {"pageTypeSlug":"file-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"bindings","propertySlug":"bindings","fileName":"Bindings.xml","folderName":null}
 {"pageTypeSlug":"file-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"biome-config","propertySlug":"biome-config","fileName":"biome.json","folderName":null,"toolResolvesPaths":true}
 {"pageTypeSlug":"file-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"bites","propertySlug":"bites","fileName":null,"folderName":null}
