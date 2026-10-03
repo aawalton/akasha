@@ -90,5 +90,9 @@ export const overwhereIiiEddaCrane = {
         "character-other/overwhere-iii-edda-crane",
       ],
     },
+    {
+      fact: "Edda keeps a two-wheeled charcoal barrow at her clearing, a quarter mile off by the south road.",
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-edda-crane"],
+    },
   ],
 } as const satisfies Lore
