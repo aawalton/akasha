@@ -12,7 +12,7 @@
 {"beat":12,"event":"Elsie laughs until she has to hold the gatepost; then Tilly laughs, and at last Tamsin does too."}
 {"beat":13,"event":"Two steps back, Cora writes in her ledger, and the corner of her mouth moves, once."}
 {"beat":14,"event":"Elsie declares that a whole free day before the work is a gift, and they should spend it together."}
-{"beat":15,"event":"At a tea house on the canal, Elsie buys two pots of tea and two loaves, six pips, first.","at":"2026-06-02T05:30:00.000Z"}
+{"beat":15,"event":"At a tea house on the canal, Elsie buys two pots of tea and two loaves, six pips, first.","at":"2026-06-02T05:30:00.000Z","changes":[{"page":"metric-character-currency/fairweather-elsie","note":"Two pots of tea (4 pips) and two loaves (2 pips): 114 → 108 pips","key":"value","from":114,"to":108}]}
 {"beat":16,"event":"She pours a cup for Cora herself, black, strong, one sugar, and sets it in front of her unasked."}
 {"beat":17,"event":"Cora looks at the cup a long moment; then she drinks it, all of it, while it is hot."}
 {"beat":18,"event":"Elsie gets out her notebook for everyone's birthdays; Tilly has to count on her fingers for hers."}
@@ -43,7 +43,7 @@
 {"beat":43,"event":"Elsie asks twice if she is sure; Tamsin says she has been sure since the Leftovers."}
 {"beat":44,"event":"Cora, who heard every word, says flatly that the consent is noted, and writes it down."}
 {"beat":45,"event":"At the booth by the east gate, a guild clerk sells them a Glasswood licence for one lantern.","at":"2026-06-02T19:30:00.000Z","place":"place/fairweather-lanternmere"}
-{"beat":46,"event":"Elsie pays it, since Tamsin paid for supper; Tamsin grumbles and lets her."}
+{"beat":46,"event":"Elsie pays it, since Tamsin paid for supper; Tamsin grumbles and lets her.","changes":[{"page":"metric-character-currency/fairweather-elsie","note":"Glasswood licence, one lantern (10 pips): 108 → 98 pips","key":"value","from":108,"to":98},{"page":"metric-character-currency/fairweather-elsie","note":"Elsie ends chapter 2 with 98 pips","key":"history","append":{"turn":2,"value":98}}]}
 {"beat":47,"event":"The clerk logs the party out and warns them: F-rank goes a mile in, to the white posts, no farther."}
 {"beat":48,"event":"They walk the cart track east through the meadows for an hour as the sun goes down."}
 {"beat":49,"event":"Tilly talks about moonbells the whole way; Tamsin walks close at Elsie's other side, saying little."}
