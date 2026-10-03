@@ -48,5 +48,9 @@ export const overwhereIHobbsMillWeir2 = {
       fact: "Jory eyes Dickon's belt in her hand and asks for it, to take to Dickon's mother at Brennock Ford.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "The crews cheer the fangs, and the Pike's master says he'll tell every landing downriver of her.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
