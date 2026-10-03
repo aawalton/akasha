@@ -291,5 +291,9 @@ export const overwhereIHobbsMillWeir = {
       fact: "A fast water disc takes the dead wyrm's thick neck through in about a minute; an easy act.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "The wyrm's head weighs about 80 pounds, a heavy load to carry two hours without help.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Place
