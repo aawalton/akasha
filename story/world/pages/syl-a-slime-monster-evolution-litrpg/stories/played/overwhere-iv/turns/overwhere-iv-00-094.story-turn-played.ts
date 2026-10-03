@@ -11,7 +11,7 @@ export const overwhereIv00094 = {
   position: 94,
   prose: "txt",
   characters: ["character-player/overwhere-iv-nala"],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action: "I turn and sprint for the ambush, weaving a bit to dodge slings",
   beats: [
     "Nala turns and sprints down the deer trail for the ford.",
@@ -38,7 +38,12 @@ export const overwhereIv00094 = {
     "lore/overwhere-iv-the-tangle-2-2",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/memory", "story-recorder/picture"],
+  recordedBy: [
+    "story-recorder/inventory",
+    "story-recorder/memory",
+    "story-recorder/picture",
+    "story-recorder/mechanics",
+  ],
   endsAt: "2026-10-08T09:05:00.000Z",
   coverAfter: "You burst out of the Tangle into the morning light and splash into the ford,",
 } as const satisfies StoryTurnPlayed
