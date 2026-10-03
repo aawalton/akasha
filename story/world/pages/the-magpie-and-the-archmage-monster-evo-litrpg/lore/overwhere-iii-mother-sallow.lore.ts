@@ -76,6 +76,10 @@ export const overwhereIiiMotherSallow = {
       fact: "Unwarned and trusting her charm, she has no shield up; a first strike lands on her unwarded.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Each holy pull that lands drains her blight; her blight workings weaken as it goes.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
