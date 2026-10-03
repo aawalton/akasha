@@ -147,7 +147,7 @@ export const overwhereIiiCorruption2 = {
     },
     {
       fact: "A corrupted jackalope's antler glow is black; its butt is a solid blow, its bite blighted.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
     {
       fact: "Each blighted stump by Edda's kilns holds blight like a wound; one pull draws it into a seed stone.",
