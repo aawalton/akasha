@@ -88,5 +88,13 @@ export const overwhereIvTheTangle22 = {
       fact: "At a stick's crack under Nala's boot, the smaller watcher ran for camp; the other raised a horn.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
     },
+    {
+      fact: "As the horn falls, the fleeing LV 4 is some twenty-eight paces off, in plain sight up the trail.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Some forty paces on, the trail bends behind yews; past there the runner is out of sight.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
