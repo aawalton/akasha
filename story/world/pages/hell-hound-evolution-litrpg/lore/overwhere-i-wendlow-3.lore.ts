@@ -180,5 +180,9 @@ export const overwhereIWendlow3 = {
       fact: "On day 8 Bram Cooley took 8 copper for Nala's eel-stew supper and bed together.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
+    {
+      fact: "The Moot Hall stands on the square, a grey stone hall with its door up a broad flight of steps.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
