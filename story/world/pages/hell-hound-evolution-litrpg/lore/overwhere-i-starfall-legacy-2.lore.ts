@@ -320,5 +320,9 @@ export const overwhereIStarfallLegacy2 = {
       fact: "Eye-beam dazzle lasts about 2 seconds, through her next act only.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Nala can thrust a stone surface up into spikes within her reach, in about a second.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+    },
   ],
 } as const satisfies Lore
