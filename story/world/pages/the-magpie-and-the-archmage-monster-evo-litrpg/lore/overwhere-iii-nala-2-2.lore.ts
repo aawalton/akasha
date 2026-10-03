@@ -160,5 +160,13 @@ export const overwhereIiiNala22 = {
       fact: "Nala's first try closing white-gold over her forearm slipped and stung her; slower, fed, it held.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
+    {
+      fact: "At the day-12 drill on the south green Nala dropped Tam Rowe for once; he lay laughing.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iii-nala",
+        "character-other/overwhere-iii-tam-rowe",
+      ],
+    },
   ],
 } as const satisfies Lore
