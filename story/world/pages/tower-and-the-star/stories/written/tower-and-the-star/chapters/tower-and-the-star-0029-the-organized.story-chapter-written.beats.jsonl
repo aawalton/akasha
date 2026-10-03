@@ -1,0 +1,53 @@
+{"beat":1,"event":"The party leaves the Floor 21 rest node before the Tower's morning shift.","at":"2000-01-13T06:00:00.000Z","place":"place/tower-and-the-star-floor-21-rest-node","present":["character-other/tower-and-the-star-solenne","character-other/tower-and-the-star-dayo","character-other/tower-and-the-star-miriam","character-other/tower-and-the-star-vesper","character-other/tower-and-the-star-tomas","character-other/tower-and-the-star-nadia"]}
+{"beat":2,"event":"Dayo signals formation three; Tomás goes out with Eagle Eye at full reach."}
+{"beat":3,"event":"Solenne carries the Architect document, its legible parts read three times."}
+{"beat":4,"event":"Its untranslatable sections are in a different writing system entirely."}
+{"beat":5,"event":"Floor 22 opens wider than Floor 21, with a longer reverberation.","at":"2000-01-13T07:00:00.000Z","place":"place/tower-and-the-star-floor-22-corridors","changes":[{"page":"world-metric/tower-and-the-star-highest-floor-reached","key":"value","from":21,"to":22,"note":"The party reaches Floor 22"}]}
+{"beat":6,"event":"Two Hollow Wardens in the first section; the formation brings them down."}
+{"beat":7,"event":"Vesper examines a Warden's joint: the same construction as Floors 20 and 21."}
+{"beat":8,"event":"Same as every floor, she says, rechecked against her catalog."}
+{"beat":9,"event":"Miriam says the Builder built the Wardens; Vesper says or the same documentation."}
+{"beat":10,"event":"Dayo says something built this place to challenge them and to let them through."}
+{"beat":11,"event":"Nobody answers; the formation moves on."}
+{"beat":12,"event":"At the second rest pause, Solenne says she wants to read them something."}
+{"beat":13,"event":"She reads: six bearers, each one Aspect in full, the Harmony architecture's maximum."}
+{"beat":14,"event":"The six Aspects map to six functions for Composite operation at the Summit."}
+{"beat":15,"event":"It is not a test of capability; it is a mechanism for becoming."}
+{"beat":16,"event":"Solenne realises the pre-System stone frequency has been doing something all along."}
+{"beat":17,"event":"Tomás repeats it: a mechanism for becoming, not a test."}
+{"beat":18,"event":"Miriam says the Proving Gate trials were specific to each bearer."}
+{"beat":19,"event":"Nadia says the notice board foretold what the Tower was going to make happen."}
+{"beat":20,"event":"Dayo says they were always going to become this."}
+{"beat":21,"event":"Solenne says the document only says the mechanism maximizes the probability."}
+{"beat":22,"event":"Dayo says it doesn't change the choices: they still made them."}
+{"beat":23,"event":"Dayo walks back into formation, still answering to herself."}
+{"beat":24,"event":"Tomás warns of large presences ahead, stationary, already arranged."}
+{"beat":25,"event":"Solenne's Conductor reads signals she has no catalog entry for."}
+{"beat":26,"event":"Seven Greybacks stand in a loose arc at the far side of the widening.","place":"place/tower-and-the-star-floor-22-greyback-widening"}
+{"beat":27,"event":"Arcane Analysis reads The Organized: non-hostile unless provoked, no level."}
+{"beat":28,"event":"Dayo stops the formation at the entrance; the two groups regard each other."}
+{"beat":29,"event":"The central Greyback turns its head toward a cache by the wall near Nadia."}
+{"beat":30,"event":"The cache holds odd stone fragments, a spent Core and folded material."}
+{"beat":31,"event":"Solenne's Conductor reads the Greyback as present, watching them a long while."}
+{"beat":32,"event":"Nadia says it wants them to look at the cache."}
+{"beat":33,"event":"Tomás says wants is a large word; Nadia says it's the right one anyway."}
+{"beat":34,"event":"Tomás walks to the cache unarmed and crouches to examine it without touching."}
+{"beat":35,"event":"He says the fragments are cut joint sections: they've been watching them fight."}
+{"beat":36,"event":"The Greyback makes a structured sound; the other six shift in confirmation."}
+{"beat":37,"event":"Nadia says they know the joint section; they've been studying the same thing."}
+{"beat":38,"event":"Vesper says they've been here the whole time."}
+{"beat":39,"event":"Tomás documents the cache; the party passes through taking nothing."}
+{"beat":40,"event":"The Greybacks do not follow, still watching the corridor entrance."}
+{"beat":41,"event":"At the Floor 22 rest node, Dayo asks if Vasic said how many reached the Summit.","at":"2000-01-13T18:00:00.000Z","place":"place/tower-and-the-star-floor-22-rest-node"}
+{"beat":42,"event":"Solenne says no; Dayo says Vasic would know."}
+{"beat":43,"event":"Tomás says the System is under two years old and nobody's confirmed above Floor 70."}
+{"beat":44,"event":"Dayo wants Vasic's record: there may have been earlier attempts."}
+{"beat":45,"event":"Miriam writes in her clinical notebook without stopping; Nadia watches her hand."}
+{"beat":46,"event":"Solenne says they will ask Vasic the next time she finds them."}
+{"beat":47,"event":"Tomás says she will; she's been finding them since Floor 11."}
+{"beat":48,"event":"Dayo reads the floor completion: eight floors to the Section 30 boundary."}
+{"beat":49,"event":"Eight floors before they must decide on the Floor 21 Composite lock."}
+{"beat":50,"event":"Dayo says they'd better keep moving."}
+{"beat":51,"event":"Nadia opens her skill window again and accepts it."}
+{"beat":52,"event":"She acquires Clear Note, Tier II Brightspirit, and says nothing."}
+{"beat":53,"event":"Solenne runs the Conductor on all six and begins a new catalog entry."}
