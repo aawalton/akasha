@@ -17,7 +17,7 @@ export const overwhereIiWhitecombs2 = {
     },
     {
       fact: "The Callow pool's middle lies beyond Undertow's reach from the shore.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "After an hour's practice Nala parts a cupful in about a minute; any faster and the black slips back.",
