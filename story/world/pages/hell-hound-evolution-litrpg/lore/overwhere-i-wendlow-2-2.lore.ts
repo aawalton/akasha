@@ -9,6 +9,22 @@ export const overwhereIWendlow22 = {
   about: "place/overwhere-i-wendlow",
   facts: [
     {
+      fact: "Grete counts an 80-pound wyrm head too big to carry; she pays the Weir Wyrm's bounty on its fangs.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+    },
+    {
+      fact: "Grete hangs the wyrm's fangs on a nail beside Voss's head and wipes the wyrm off the Board.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+    },
+    {
+      fact: "Asked nothing, Grete says only that the letter went to the magistrate yesterday, and no more of it.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+    },
+    {
+      fact: "The walk back from Hobb's Mill brings Nala to Wendlow's gate a little before 14:30.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+    },
+    {
       fact: "The wyrm's 15-gold chit is paid with the other from the magistrate's purse when the tax rider comes.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },

@@ -328,25 +328,10 @@ export const overwhereIWendlow2 = {
       fact: "Bell and Barrel breakfast is porridge with honey and small beer, worth 2 copper.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
-    {
-      fact: "Grete counts an 80-pound wyrm head too big to carry; she pays the Weir Wyrm's bounty on its fangs.",
-      knowers: ["lore-disclosure/game-master"],
-    },
+
     {
       fact: "The Board's strongbox is empty since Nala's payout; for the wyrm Grete writes a 15-gold chit.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
-    },
-    {
-      fact: "Grete hangs the wyrm's fangs on a nail beside Voss's head and wipes the wyrm off the Board.",
-      knowers: ["lore-disclosure/game-master"],
-    },
-    {
-      fact: "Asked nothing, Grete says only that the letter went to the magistrate yesterday, and no more of it.",
-      knowers: ["lore-disclosure/game-master"],
-    },
-    {
-      fact: "The walk back from Hobb's Mill brings Nala to Wendlow's gate a little before 14:30.",
-      knowers: ["lore-disclosure/game-master"],
     },
   ],
 } as const satisfies Lore
