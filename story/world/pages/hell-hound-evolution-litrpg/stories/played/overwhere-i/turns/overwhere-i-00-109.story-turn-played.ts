@@ -10,7 +10,7 @@ export const overwhereI00109 = {
   position: 109,
   prose: "txt",
   characters: ["character-player/overwhere-i-nala"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/recorders",
   action: "I go over to hear what he has to say",
   beats: [
     "Nala walks three minutes down the towpath to Hobb's landing.",
@@ -28,6 +28,6 @@ export const overwhereI00109 = {
     "Jory squints up at the sun climbing over the weir. \"Today's sunny enough, I'd say.\"",
   ],
   lore: ["lore/overwhere-i-nala", "lore/overwhere-i-nala-2", "place/overwhere-i-hobbs-mill-weir"],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
   endsAt: "2026-10-06T09:16:00.000Z",
 } as const satisfies StoryTurnPlayed
