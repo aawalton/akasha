@@ -250,7 +250,7 @@ export const overwhereIiCallowBeck = {
     },
     {
       fact: "Above that pool the gully's bed is crusted grey salt, with a few barrels of black in its hollows.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "The gully's grey crust is dead salt and harms nothing; rain will wash it faintly down the beck.",
