@@ -217,5 +217,9 @@ export const overwhereIiiCorruption2 = {
       fact: "The boar's charge is a heavy blow and its tusk-slash a solid one; a tusk wound lays blight.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "The boar's blight runs deep: about six pulls draw it clean, and it lives a plain hill boar.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
