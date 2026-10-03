@@ -1,60 +1,59 @@
-{"beat":1,"event":"Wednesday of week four: you wake at six, rested; you slept all night, the way you promised."}
+{"beat":1,"event":"Wednesday of week four: you wake at six, rested; you slept all night, the way you promised.","at":"2026-10-14T05:00:00.000Z","place":"place/hollowmere-thornfield-house","present":["character-player/hollowmere-nala","character-other/hollowmere-bea"],"memory":[{"page":"lore/hollowmere-nala-2","fact":"Nala slept the whole night through on Wednesday of week four, as she promised Yusra.","learns":"character-player/hollowmere-nala"}]}
 {"beat":2,"event":"Bea is a warm weight at your back, still asleep, her blistered hand open on your hip."}
 {"beat":3,"event":"You slide out, pull on a jumper and socks, and go down to the Thornfield kitchen in the half-dark.","pictured":[{"cover":"image/image-9a9363e53f926714","coverAfter":"You slide out from under the covers. The floor is cold. You find a jumper","character":"character-player/hollowmere-nala","outfit":"Bea's enormous jumper over a long white cotton nightshirt, thick socks"}]}
-{"beat":4,"event":"You put the kettle on, and bread under the grill, and the window over the sink goes slowly grey."}
-{"beat":5,"event":"At quarter past six the back door opens: Yusra, in from the infirmary, her coat damp with mist."}
+{"beat":4,"event":"You put the kettle on, and bread under the grill, and the window over the sink goes slowly grey.","at":"2026-10-14T05:10:00.000Z","present":["character-player/hollowmere-nala"]}
+{"beat":5,"event":"At quarter past six the back door opens: Yusra, in from the infirmary, her coat damp with mist.","at":"2026-10-14T05:15:00.000Z","arrive":["character-other/hollowmere-yusra"]}
 {"beat":6,"event":"She has your flask in her hand. She stops in the doorway when she sees you, and stands there."}
-{"beat":7,"event":"\"You're up,\" she says. \"I slept,\" you say. \"All night. I said I would.\" Yusra almost smiles."}
-{"beat":8,"event":"She puts the flask on the table. \"It was still warm at two,\" she says. \"Thank you, Nala.\""}
+{"beat":7,"event":"\"You're up,\" she says. \"I slept,\" you say. \"All night. I said I would.\" Yusra almost smiles.","memory":[{"page":"lore/hollowmere-nala-2","fact":"Nala slept the whole night through on Wednesday of week four, as she promised Yusra.","learns":"character-other/hollowmere-yusra"}]}
+{"beat":8,"event":"She puts the flask on the table. \"It was still warm at two,\" she says. \"Thank you, Nala.\"","memory":[{"page":"lore/hollowmere-yusra","fact":"Yusra returned Nala's flask at dawn: still warm at two, she said, and thanked her by name.","learns":"character-player/hollowmere-nala"},{"page":"lore/hollowmere-yusra","fact":"Yusra returned Nala's flask at dawn: still warm at two, she said, and thanked her by name.","learns":"character-other/hollowmere-yusra"}]}
 {"beat":9,"event":"She looks grey with tiredness, her eyes rimmed red, her hair coming loose from its knot."}
 {"beat":10,"event":"You make her tea, sweet, and butter the toast, and put it in front of her; she sits, and lets you."}
 {"beat":11,"event":"She eats one slice slowly. The kitchen is quiet but for the clock and the kettle cooling."}
 {"beat":12,"event":"You sit across from her, and wait, and then you ask it: \"What does the work keep in?\""}
 {"beat":13,"event":"Yusra puts her cup down very carefully, as if it might break, and looks at it for a long time."}
 {"beat":14,"event":"\"I had a girlfriend,\" she says. \"Two years. Since my first year here. She's a doctor in Leeds.\""}
-{"beat":15,"event":"\"Junior doctor. We did the long distance thing. Trains on weekends. Letters. Phone on Sundays.\""}
-{"beat":16,"event":"\"In August she sent me a text.\" Yusra's voice stays level. \"She'd met someone. On her rotation.\""}
-{"beat":17,"event":"\"A text,\" you say. Yusra nods. \"Four lines. Two years, four lines. I've still got it. I read it.\""}
-{"beat":18,"event":"\"I haven't told anyone,\" she says. \"Not my mum. Not my dad. Not anyone here. You're the first.\""}
+{"beat":15,"event":"\"Junior doctor. We did the long distance thing. Trains on weekends. Letters. Phone on Sundays.\"","memory":[{"page":"lore/hollowmere-yusra","fact":"Yusra and her ex were together two years, from her first year: trains, letters, Sunday calls.","learns":"character-player/hollowmere-nala"}]}
+{"beat":16,"event":"\"In August she sent me a text.\" Yusra's voice stays level. \"She'd met someone. On her rotation.\"","memory":[{"page":"lore/hollowmere-yusra","fact":"Yusra's ex is a junior doctor in Leeds; the text said she'd met someone on her rotation.","learns":"character-player/hollowmere-nala"}]}
+{"beat":17,"event":"\"A text,\" you say. Yusra nods. \"Four lines. Two years, four lines. I've still got it. I read it.\"","memory":[{"page":"lore/hollowmere-yusra","fact":"Yusra still has the four-line text that ended it, and reads it most nights.","learns":"character-player/hollowmere-nala"}]}
+{"beat":18,"event":"\"I haven't told anyone,\" she says. \"Not my mum. Not my dad. Not anyone here. You're the first.\"","memory":[{"page":"lore/hollowmere-yusra","fact":"Yusra's girlfriend of two years ended it over the summer by text, and Yusra has told no one.","learns":"character-player/hollowmere-nala"},{"page":"lore/hollowmere-yusra","fact":"Yusra told Nala of her breakup first: not her mum, her dad, or anyone at Hollowmere.","learns":"character-player/hollowmere-nala"},{"page":"lore/hollowmere-yusra","fact":"Yusra told Nala of her breakup first: not her mum, her dad, or anyone at Hollowmere.","learns":"character-other/hollowmere-yusra"}]}
 {"beat":19,"event":"You reach across the table and take her hand, the one with the thin pink line across the palm."}
 {"beat":20,"event":"She lets you. Her fingers are cold from the walk; you hold them in both of yours till they warm."}
 {"beat":21,"event":"\"I can't sleep,\" she says. \"I lie there and I'm doing sums. Two years. What I missed. What I was.\""}
-{"beat":22,"event":"\"So I work. The infirmary. The library. Nobody asks a warden how she is.\" She stops. \"You did.\""}
+{"beat":22,"event":"\"So I work. The infirmary. The library. Nobody asks a warden how she is.\" She stops. \"You did.\"","memory":[{"page":"lore/hollowmere-yusra","fact":"Yusra lies awake doing sums over the two years, so she works every shift going instead.","learns":"character-player/hollowmere-nala"}]}
 {"beat":23,"event":"You say she's allowed to be sad; you say two years is a lot to have taken off you by text."}
 {"beat":24,"event":"One tear runs down her face; she lets it, which is somehow worse, and wipes it with her wrist."}
-{"beat":25,"event":"\"Pressure,\" you say softly, squeezing her hand. Yusra laughs, wet and surprised. \"Good,\" she says."}
+{"beat":25,"event":"\"Pressure,\" you say softly, squeezing her hand. Yusra laughs, wet and surprised. \"Good,\" she says.","memory":[{"page":"lore/hollowmere-yusra","fact":"Told she's allowed to be sad, Yusra let one tear fall; Nala said Pressure, Yusra laughed: Good.","learns":"character-player/hollowmere-nala"},{"page":"lore/hollowmere-yusra","fact":"Told she's allowed to be sad, Yusra let one tear fall; Nala said Pressure, Yusra laughed: Good.","learns":"character-other/hollowmere-yusra"}]}
 {"beat":26,"event":"She finishes the toast. Then she says, \"I need to sleep,\" and stays sitting, and looks at you."}
-{"beat":27,"event":"You walk her up the quiet stairs to the top floor, to room 1 at the head of them."}
+{"beat":27,"event":"You walk her up the quiet stairs to the top floor, to room 1 at the head of them.","at":"2026-10-14T05:50:00.000Z"}
 {"beat":28,"event":"Her room is neat as a ward: a narrow bed, a desk of books, a jug and a glass, a lamp.","pictured":[{"cover":"image/image-54ed4a9fa4c53dd1","coverAfter":"Her room is neat as a ward.","setting":"room 1"}]}
 {"beat":29,"event":"She sits on the bed in her clothes and takes off her shoes, slowly, like it's hard work."}
 {"beat":30,"event":"\"Will you sit,\" she says. \"Just till I'm off. That's all.\" You sit on the chair by the bed."}
 {"beat":31,"event":"She lies down on top of the blankets; you take the folded throw from the foot and cover her."}
 {"beat":32,"event":"Her hand comes out from under it and finds yours, on the edge of the bed, and holds on."}
 {"beat":33,"event":"\"Lines,\" she says, eyes closed. \"I know,\" you say. \"I'm just sitting here.\" Her thumb moves once."}
-{"beat":34,"event":"Her breathing slows. It takes ten minutes. Her hand goes loose in yours, and she's asleep."}
+{"beat":34,"event":"Her breathing slows. It takes ten minutes. Her hand goes loose in yours, and she's asleep.","memory":[{"page":"lore/hollowmere-yusra","fact":"Nala walked Yusra up to room 1 and held her hand by the bed until she fell asleep.","learns":"character-player/hollowmere-nala"},{"page":"lore/hollowmere-yusra","fact":"Nala walked Yusra up to room 1 and held her hand by the bed until she fell asleep.","learns":"character-other/hollowmere-yusra"}]}
 {"beat":35,"event":"You sit a while longer, watching her sleep, her face smooth and young without its guard on."}
-{"beat":36,"event":"Then you lay her hand down on the blanket, and draw the curtain, and close her door very quietly."}
-{"beat":37,"event":"Bea is up when you get back to 15, pulling on her tights. \"Where've you been?\" she asks."}
+{"beat":36,"event":"Then you lay her hand down on the blanket, and draw the curtain, and close her door very quietly.","leave":["character-other/hollowmere-yusra"]}
+{"beat":37,"event":"Bea is up when you get back to 15, pulling on her tights. \"Where've you been?\" she asks.","at":"2026-10-14T06:20:00.000Z","arrive":["character-other/hollowmere-bea"]}
 {"beat":38,"event":"You say Yusra came in off nights and you made her toast. Bea looks at your face a moment."}
 {"beat":39,"event":"\"Is she all right?\" Bea asks. You say she will be, and that it's hers to tell. Bea nods."}
-{"beat":40,"event":"She kisses you, quick and warm. \"You're a good egg, Nala,\" she says, and goes off to row."}
-{"beat":41,"event":"Morning: Sigils in the Drawing Room; you copy the wrong sigil twice, and Lin corrects it."}
-{"beat":42,"event":"At lunch Kit sits down by you with a library book on wards; she's found an essay she likes."}
+{"beat":40,"event":"She kisses you, quick and warm. \"You're a good egg, Nala,\" she says, and goes off to row.","leave":["character-other/hollowmere-bea"],"memory":[{"page":"lore/hollowmere-nala-2","fact":"Nala told Bea she made Yusra toast, and the rest is Yusra's to tell; Bea: you're a good egg.","learns":"character-player/hollowmere-nala"},{"page":"lore/hollowmere-nala-2","fact":"Nala told Bea she made Yusra toast, and the rest is Yusra's to tell; Bea: you're a good egg.","learns":"character-other/hollowmere-bea"}]}
+{"beat":41,"event":"Morning: Sigils in the Drawing Room; you copy the wrong sigil twice, and Lin corrects it.","at":"2026-10-14T09:00:00.000Z","place":"place/hollowmere-academy","present":["character-player/hollowmere-nala","character-other/hollowmere-lin"],"memory":[{"page":"lore/hollowmere-nala-2","fact":"Thinking of Yusra, Nala drew the wrong sigil twice in Sigils; Lin corrected it and didn't ask.","learns":"character-player/hollowmere-nala"},{"page":"lore/hollowmere-nala-2","fact":"Thinking of Yusra, Nala drew the wrong sigil twice in Sigils; Lin corrected it and didn't ask.","learns":"character-other/hollowmere-lin"}]}
+{"beat":42,"event":"At lunch Kit sits down by you with a library book on wards; she's found an essay she likes.","at":"2026-10-14T11:30:00.000Z","present":["character-player/hollowmere-nala","character-other/hollowmere-kit"],"memory":[{"page":"lore/hollowmere-kit-2","fact":"Kit found an essay in Wards and Their Making: a ward is a promise to the thing inside it.","learns":"character-player/hollowmere-nala"},{"page":"lore/hollowmere-kit-2","fact":"Kit found an essay in Wards and Their Making: a ward is a promise to the thing inside it.","learns":"character-other/hollowmere-kit"}]}
 {"beat":43,"event":"\"Grandmother says Penhallow wants what happened to you,\" Kit says. \"So what happened to you?\""}
 {"beat":44,"event":"You think about room 1, and a cold hand warming. \"Something,\" you say. \"I'm still writing it.\""}
-{"beat":45,"event":"Afternoon in the library: you write the essay properly, three pages, in one long go."}
+{"beat":45,"event":"Afternoon in the library: you write the essay properly, three pages, in one long go.","at":"2026-10-14T13:00:00.000Z","present":["character-player/hollowmere-nala"]}
 {"beat":46,"event":"You write about a bandage, and a shell round a flame, and the hurt kept in while it mends."}
 {"beat":47,"event":"You keep Yusra's name out of it, though she's in every line."}
-{"beat":48,"event":"Lin reads it over your shoulder when you're done and says, \"Oh,\" and goes back to her drawing."}
-{"beat":49,"event":"At six you check room 1 on the way past; the door is shut, the curtain still drawn. Sleeping."}
-{"beat":50,"event":"Dinner in the kitchen: Bea back from the boathouse, Priya and Amara cooking side by side again."}
-{"beat":51,"event":"At half past seven Yusra comes down the stairs, hair washed, in a soft grey jumper, rested."}
+{"beat":48,"event":"Lin reads it over your shoulder when you're done and says, \"Oh,\" and goes back to her drawing.","arrive":["character-other/hollowmere-lin"],"memory":[{"page":"lore/hollowmere-nala-2","fact":"Nala wrote her ward essay in one go: a bandage, a flame's shell, a hand round a hand; Lin: Oh.","learns":"character-player/hollowmere-nala"},{"page":"lore/hollowmere-nala-2","fact":"Nala wrote her ward essay in one go: a bandage, a flame's shell, a hand round a hand; Lin: Oh.","learns":"character-other/hollowmere-lin"}]}
+{"beat":49,"event":"At six you check room 1 on the way past; the door is shut, the curtain still drawn. Sleeping.","at":"2026-10-14T17:00:00.000Z","place":"place/hollowmere-thornfield-house","present":["character-player/hollowmere-nala"]}
+{"beat":50,"event":"Dinner in the kitchen: Bea back from the boathouse, Priya and Amara cooking side by side again.","at":"2026-10-14T18:00:00.000Z","present":["character-player/hollowmere-nala","character-other/hollowmere-bea","character-other/hollowmere-lin","character-other/hollowmere-priya","character-other/hollowmere-amara"]}
+{"beat":51,"event":"At half past seven Yusra comes down the stairs, hair washed, in a soft grey jumper, rested.","at":"2026-10-14T18:30:00.000Z","arrive":["character-other/hollowmere-yusra"]}
 {"beat":52,"event":"She stands in the doorway and finds you across the kitchen. \"Nine hours,\" she says, only to you."}
 {"beat":53,"event":"\"Nine,\" you say. She nods, and takes a plate of dal from Priya, and sits down beside you.","pictured":[{"cover":"image/image-8509d30cde6185da","coverAfter":"Her hair is washed. It's down, still damp at the ends, long and black","character":"character-other/hollowmere-yusra","outfit":"soft loose grey jumper with the sleeves down over her hands, hair washed and down"}]}
-{"beat":54,"event":"Her shoulder rests against yours through dinner; when Bea passes the bread, Yusra passes it on."}
-{"beat":55,"event":"After, she goes up first. At the turn of the stairs she looks back at you, and holds your eyes."}
-{"beat":56,"event":"In 15 Bea's already in bed, rubbing cream into her blisters, a towel under her hands."}
+{"beat":54,"event":"Her shoulder rests against yours through dinner; when Bea passes the bread, Yusra passes it on.","memory":[{"page":"lore/hollowmere-yusra","fact":"Yusra slept nine hours, told Nala so at dinner, and sat with her shoulder against Nala's.","learns":"character-player/hollowmere-nala"},{"page":"lore/hollowmere-yusra","fact":"Yusra slept nine hours, told Nala so at dinner, and sat with her shoulder against Nala's.","learns":"character-other/hollowmere-yusra"}]}
+{"beat":55,"event":"After, she goes up first. At the turn of the stairs she looks back at you, and holds your eyes.","leave":["character-other/hollowmere-yusra"]}
+{"beat":56,"event":"In 15 Bea's already in bed, rubbing cream into her blisters, a towel under her hands.","at":"2026-10-14T20:30:00.000Z","present":["character-player/hollowmere-nala","character-other/hollowmere-bea"]}
 {"beat":57,"event":"You get in beside her; she puts her chin on your shoulder and says, \"You look happy. And sad.\""}
 {"beat":58,"event":"You say both. Bea kisses your cheek and says that's allowed, and turns the lamp down."}
 {"beat":59,"event":"You lie awake a little, thinking of a narrow bed in room 1, and hope she sleeps all night too."}
-{"beat":60,"event":"A day at Hollowmere ends."}
