@@ -60,7 +60,13 @@ export const hollowmereAcademy2 = {
     },
     {
       fact: "Novice rowing trains at seven on Saturday mornings, in coxed fours out of the boathouse.",
-      knowers: ["lore-disclosure/game-master", "character-other/hollowmere-bea"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/hollowmere-bea",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-shiv",
+        "character-other/hollowmere-morwenna",
+      ],
     },
     {
       fact: "In a gale the boathouse stays shut, the swimmers are stood down, and the quad paths flood.",
@@ -181,6 +187,11 @@ export const hollowmereAcademy2 = {
         "lore-disclosure/game-master",
         "character-other/hollowmere-bea",
         "character-other/hollowmere-morwenna",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-shiv",
+        "character-other/hollowmere-kit",
+        "character-other/hollowmere-priya",
+        "character-other/hollowmere-lin",
       ],
     },
   ],

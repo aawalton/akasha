@@ -33,10 +33,6 @@ export const hollowmereNala = {
       knowers: ["lore-disclosure/game-master", "character-player/hollowmere-nala"],
     },
     {
-      fact: "Nala has small soft tits with pale pink nipples, and a tuft of dark red hair over her cunt.",
-      knowers: ["lore-disclosure/game-master", "character-player/hollowmere-nala"],
-    },
-    {
       fact: "Nala's body is lighter, smaller and softer than Alan's, and every sense in it is new to her.",
       knowers: ["lore-disclosure/game-master", "character-player/hollowmere-nala"],
     },

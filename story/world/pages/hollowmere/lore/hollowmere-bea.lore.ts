@@ -43,7 +43,11 @@ export const hollowmereBea = {
     },
     {
       fact: "Bea has small pert tits with pale pink nipples, and keeps her cunt shaved bare.",
-      knowers: ["lore-disclosure/game-master", "character-other/hollowmere-bea"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/hollowmere-bea",
+        "character-player/hollowmere-nala",
+      ],
     },
     {
       fact: "Bea lives in oversized jumpers and leggings, and owns more mugs than plates.",
@@ -425,10 +429,6 @@ export const hollowmereBea = {
         "character-player/hollowmere-nala",
         "character-other/hollowmere-bea",
       ],
-    },
-    {
-      fact: "Under her noise Bea is lonely, and wants one person who would notice if she went quiet.",
-      knowers: ["lore-disclosure/game-master", "character-player/hollowmere-nala"],
     },
   ],
   secrets: "jsonl",

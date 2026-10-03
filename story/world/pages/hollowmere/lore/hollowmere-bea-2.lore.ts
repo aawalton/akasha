@@ -16,5 +16,71 @@ export const hollowmereBea2 = {
         "character-other/hollowmere-bea",
       ],
     },
+    {
+      fact: "Under her noise Bea is lonely, and wants one person who would notice if she went quiet.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-bea",
+      ],
+    },
+    {
+      fact: "Morwenna named Bea's novice four Thornfield's crew for the Fell Cup; Bea glowed: a proper race.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-bea",
+        "character-other/hollowmere-shiv",
+        "character-other/hollowmere-morwenna",
+      ],
+    },
+    {
+      fact: "At sixteen Bea went quiet for a whole week, and her busy house rolled on round her, unnoticing.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-bea",
+      ],
+    },
+    {
+      fact: "Nala saw Bea go quiet in the kitchen and came; told I'll always notice, Bea cried, not sad.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-bea",
+      ],
+    },
+    {
+      fact: "Bea told Nala she wants her, knowing of the others: not instead of them, just ours. Nala said yes.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-bea",
+      ],
+    },
+    {
+      fact: "Bea and Nala made love in Bea's bed in 15, twice, and fell asleep there together.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-bea",
+      ],
+    },
+    {
+      fact: "Lying with Nala, Bea said she's never been in love, and thinks this might be what it is.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-bea",
+      ],
+    },
+    {
+      fact: "Photos of Bea's two sisters and her small brother are pinned round the mirror in her room, 15.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-bea",
+      ],
+    },
   ],
 } as const satisfies Lore

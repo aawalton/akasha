@@ -126,6 +126,7 @@ export const hollowmereNala2 = {
         "character-other/hollowmere-penhallow",
         "character-other/hollowmere-kit",
         "character-other/hollowmere-shiv",
+        "character-other/hollowmere-bea",
       ],
     },
     {
@@ -240,6 +241,30 @@ export const hollowmereNala2 = {
         "lore-disclosure/game-master",
         "character-player/hollowmere-nala",
         "character-other/hollowmere-shiv",
+      ],
+    },
+    {
+      fact: "Nala has small soft tits with pale pink nipples, and a tuft of dark red hair over her cunt.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-bea",
+      ],
+    },
+    {
+      fact: "Shiv caught Nala at the swimmers in Bea's jumper, inside out, and said: you're gone, Ashby.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-shiv",
+      ],
+    },
+    {
+      fact: "Nala told Bea her answer to Penhallow's Whose wanting? now: Mine. And yours.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-bea",
       ],
     },
   ],

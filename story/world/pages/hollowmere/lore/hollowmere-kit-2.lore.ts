@@ -232,5 +232,13 @@ export const hollowmereKit2 = {
         "character-other/hollowmere-bea",
       ],
     },
+    {
+      fact: "At brunch Kit asked Bea dry rowing questions on purpose, to watch Bea light up answering.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-kit",
+      ],
+    },
   ],
 } as const satisfies Lore
