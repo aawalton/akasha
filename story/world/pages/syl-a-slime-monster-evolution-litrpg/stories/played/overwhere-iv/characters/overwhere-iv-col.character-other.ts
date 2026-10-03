@@ -7,4 +7,5 @@ export const overwhereIvCol = {
   title: "Old Col",
   world: "world/syl-a-slime-monster-evolution-litrpg",
   story: "story-played/overwhere-iv",
+  place: "place/overwhere-iv-reeves-pasture",
 } as const satisfies CharacterOther

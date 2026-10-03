@@ -7,4 +7,5 @@ export const overwhereIvMartaHesk = {
   title: "Marta Hesk",
   world: "world/syl-a-slime-monster-evolution-litrpg",
   story: "story-played/overwhere-iv",
+  place: "place/overwhere-iv-brook-and-barrel",
 } as const satisfies CharacterOther

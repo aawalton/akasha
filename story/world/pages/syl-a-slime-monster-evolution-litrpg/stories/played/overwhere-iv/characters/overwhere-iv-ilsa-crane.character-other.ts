@@ -7,4 +7,5 @@ export const overwhereIvIlsaCrane = {
   title: "Ilsa Crane",
   world: "world/syl-a-slime-monster-evolution-litrpg",
   story: "story-played/overwhere-iv",
+  place: "place/overwhere-iv-millbrook-adventurers-hall",
 } as const satisfies CharacterOther
