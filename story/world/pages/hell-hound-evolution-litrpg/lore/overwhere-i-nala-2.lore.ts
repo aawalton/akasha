@@ -245,7 +245,7 @@ export const overwhereINala2 = {
     },
     {
       fact: "Nala's wool tunic has a bolt-torn rent at the left ribs and a slit sleeve; her cloak hem is ragged.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
   ],
 } as const satisfies Lore
