@@ -272,5 +272,9 @@ export const overwhereIStarfallLegacy2 = {
       fact: "Twin strikes that land are two hits; a beast hurt by lightning is stunned about 2 seconds.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "A stunned beast can neither strike nor flee; its stun ends at once if lightning hurts it again.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
