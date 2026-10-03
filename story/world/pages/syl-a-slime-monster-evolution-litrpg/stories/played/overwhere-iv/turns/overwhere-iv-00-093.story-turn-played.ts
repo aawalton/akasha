@@ -10,7 +10,7 @@ export const overwhereIv00093 = {
   position: 93,
   prose: "txt",
   characters: ["character-player/overwhere-iv-nala"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/recorders",
   action:
     "I sneak out to where the goblins are, stab one through the neck with my spear, then turn and run to the ambush site.",
   beats: [
@@ -30,6 +30,6 @@ export const overwhereIv00093 = {
     "lore/overwhere-iv-the-tangle-2-2",
     "place/overwhere-iv-tull-farm",
   ],
-  reviewedBy: ["story-reviewer/continuity"],
+  reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
   endsAt: "2026-10-08T08:47:00.000Z",
 } as const satisfies StoryTurnPlayed
