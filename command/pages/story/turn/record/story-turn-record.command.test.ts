@@ -3,6 +3,7 @@ import type { Given } from "akasha/command/modules/calling/calling.module.code.t
 import {
   AT,
   landingInto,
+  REVIEWED,
   reachOver,
   type Seen,
   SLUG,
@@ -45,7 +46,7 @@ test("a turn at player no recorder ran on moves to recorders and starts a seat f
       slug: SLUG,
       path: AT,
       merge: true,
-      values: { stepStatus: statusOf(RECORDERS) },
+      values: { stepStatus: statusOf(RECORDERS), reviewedBy: REVIEWED },
     },
   ])
   expect(into.steps).toEqual(["read", `hold ${AT}`, "read", "read", "land", `free ${AT}`])

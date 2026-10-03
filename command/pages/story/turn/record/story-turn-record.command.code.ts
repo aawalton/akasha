@@ -29,6 +29,7 @@ import {
   seatsStarted,
 } from "akasha/command/pages/story/turn/modules/turn-starting/turn-starting.module.code.ts"
 import { storyTurnRecord as page } from "akasha/command/pages/story/turn/record/story-turn-record.command.ts"
+import { storyReviewer } from "akasha/story/reviewer/story-reviewer.page-type.ts"
 import {
   bareOf,
   MECHANICS,
@@ -52,6 +53,10 @@ function advancingAs(calledAs: string): string {
 
 function recorderStep(calledAs: string, slug: string): string {
   return `a story recorder hands in its step with \`${advancingAs(calledAs)} ${playedTurn.said} ${storyTurnPlayed.slug}${PARTED}${slug} ${recorderArgument.said} <recorder>\``
+}
+
+function published(reach: Reach, root: string): readonly string[] {
+  return reach.reviewersIn(root).map((one) => `${storyReviewer.slug}${PARTED}${one.slug}`)
 }
 
 async function heldOn(
@@ -97,7 +102,7 @@ async function heldOn(
     slug,
     path: turn.at,
     merge: true,
-    values: { stepStatus: statusOf(RECORDERS) },
+    values: { stepStatus: statusOf(RECORDERS), reviewedBy: published(reach, given.root) },
   })
   if ("refused" in asking) return refused(asking.refused, DATA)
   const by = { agentId: given.agentId, writer: given.writer, done }

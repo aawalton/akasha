@@ -37,6 +37,10 @@ export const storyTurnRecord = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A recording counts the published turn as reviewed, so no review reopens it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A recording holds its turn from reading it to landing, as an advance does.",
     },
     {
