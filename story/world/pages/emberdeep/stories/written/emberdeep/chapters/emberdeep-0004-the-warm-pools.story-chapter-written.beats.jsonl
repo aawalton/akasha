@@ -66,4 +66,3 @@
 {"beat":66,"event":"Nala lies awake a while, holding Elowen, and thinks of Wren's eyes on her in the Pools."}
 {"beat":67,"event":"She wants them both, and she knows it, and it frightens her less than she expects.","memory":[{"page":"lore/emberdeep-nala","fact":"Nala knows she wants both Elowen and Wren, and it frightens her less than she expected.","shown":true},{"page":"lore/emberdeep-nala","fact":"Nala knows she wants both Elowen and Wren, and it frightens her less than she expected.","learns":"character-player/emberdeep-nala"}]}
 {"beat":68,"event":"She falls asleep with Elowen in her arms and an empty purse on the peg."}
-{"beat":69,"event":"A day in Emberdeep ends."}
