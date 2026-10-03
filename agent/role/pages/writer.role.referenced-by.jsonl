@@ -6,7 +6,6 @@
 {"propertySlug":"import","fileName":"writer.role.ts","path":"story/world/stories/played/turns/modules/turn-seats/turn-seats.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"agent/role/role.page-type.ts","id":"01a053b2-2c20-7e34-9306-65f44016381a"}
 {"propertySlug":"role","path":"agent/seat/pages/iris-writer-otherwhere-ix/iris-writer-otherwhere-ix.seat.ts","id":"01a0ea22-4ea6-7000-ba58-ca59f60a63b3"}
-{"propertySlug":"role","path":"agent/seat/pages/iris-writer-otherwhere-viii/iris-writer-otherwhere-viii.seat.ts","id":"01a0ea21-7756-7000-8d81-408d39d4903f"}
 {"propertySlug":"role","path":"agent/seat/pages/iris-writer-otherwhere-x/iris-writer-otherwhere-x.seat.ts","id":"01a0ea62-0368-7000-b593-281966d92536"}
 {"propertySlug":"role","path":"agent/seat/pages/iris-writer-otherwhere-xi/iris-writer-otherwhere-xi.seat.ts","id":"01a0ea64-afce-7000-b5e9-8dd0f5111b09"}
 {"propertySlug":"role","path":"agent/seat/pages/mari-writer-fairweather/mari-writer-fairweather.seat.ts","id":"01a102a0-cf88-7000-bd67-99aed1e2d512"}
