@@ -1,0 +1,100 @@
+{"beat":1,"event":"Elsie wakes to the smell of bread from four o'clock, and lies still, humming last night's tune.","at":"2026-06-02T05:30:00.000Z","place":"place/fairweather-honeycomb","present":["character-player/fairweather-elsie"]}
+{"beat":2,"event":"She sits up and writes to her mother: a Berserker, an Alchemist, and a Warden who watches her.","at":"2026-06-02T05:40:00.000Z"}
+{"beat":3,"event":"She waters the four plants one by one and tells them the party goes out at dusk for moonbells.","at":"2026-06-02T05:50:00.000Z"}
+{"beat":4,"event":"She laces the cream halter, clips the flower above one ear, and checks the salve and bandages.","at":"2026-06-02T06:10:00.000Z"}
+{"beat":5,"event":"Downstairs the baker gives her a warm roll and asks about the Naming; Elsie says Enthraller.","at":"2026-06-02T06:25:00.000Z"}
+{"beat":6,"event":"The baker is quiet a moment, and then puts a second roll in her hand and tells her to eat.","at":"2026-06-02T06:35:00.000Z"}
+{"beat":7,"event":"At the flower market she buys a pair of thick gloves and a canvas bag that will hold plants.","at":"2026-06-02T06:50:00.000Z","place":"place/fairweather-lanternmere","present":["character-player/fairweather-elsie"]}
+{"beat":8,"event":"At a chandler's stall she buys a lantern and a flask of oil and a coil of thin rope.","at":"2026-06-02T07:05:00.000Z"}
+{"beat":9,"event":"She buys bread and cheese and apples for four and a paper twist of salt.","at":"2026-06-02T07:20:00.000Z"}
+{"beat":10,"event":"On Mortar Lane the apothecary's shop is shut, with the moonbell notice pasted in the window.","at":"2026-06-02T07:40:00.000Z"}
+{"beat":11,"event":"The apothecary comes down and tells her the delivery is wanted by morning, not by noon.","at":"2026-06-02T07:50:00.000Z"}
+{"beat":12,"event":"Elsie says she has never been inside a dungeon, and the apothecary says come back alive then.","at":"2026-06-02T07:55:00.000Z"}
+{"beat":13,"event":"The party board is busy, and the last slate still carries the three chalked names.","at":"2026-06-02T08:30:00.000Z","place":"place/fairweather-guild-hall","present":["character-player/fairweather-elsie"]}
+{"beat":14,"event":"Somebody has rubbed out and written the names on the Leftovers' slates twice already.","at":"2026-06-02T08:40:00.000Z"}
+{"beat":15,"event":"Tamsin is not at the hall yet, so Elsie reads the F-rank notices again, all the way down.","at":"2026-06-02T08:50:00.000Z"}
+{"beat":16,"event":"Pickle Row smells of sulphur; Tilly's landlady points her up two flights and shuts her door.","at":"2026-06-02T09:20:00.000Z","place":"place/fairweather-lanternmere","present":["character-player/fairweather-elsie"]}
+{"beat":17,"event":"Tilly's room is one bench of bubbling glass, a bed she has not made, and no floor to see.","at":"2026-06-02T09:30:00.000Z","arrive":["character-other/fairweather-tilly"]}
+{"beat":18,"event":"Tilly says she has been up since four, and has made three of everything, and none of it works.","at":"2026-06-02T09:35:00.000Z"}
+{"beat":19,"event":"Elsie asks what the three things are; Tilly names a stink bomb, a burn salve and a fizz.","at":"2026-06-02T09:45:00.000Z"}
+{"beat":20,"event":"Elsie says the salve is the one she wants for the Glasswood, and Tilly goes red to the ears.","at":"2026-06-02T09:50:00.000Z"}
+{"beat":21,"event":"Tilly packs the salve and four vials and a coiled fuse she says is for noise and not for them.","at":"2026-06-02T10:00:00.000Z"}
+{"beat":22,"event":"Elsie asks about the College; Tilly talks fast for a while and then stops in the middle.","at":"2026-06-02T10:10:00.000Z"}
+{"beat":23,"event":"Elsie says her mother was thrown out of nothing, being a caravan healer, and Tilly laughs.","at":"2026-06-02T10:15:00.000Z"}
+{"beat":24,"event":"They walk out together; Tilly wears the apron and says the goggles are for the glass.","at":"2026-06-02T10:25:00.000Z"}
+{"beat":25,"event":"Tilly reads the board's small print and finds the line about the white posts and the mile.","at":"2026-06-02T10:50:00.000Z","place":"place/fairweather-guild-hall","present":["character-player/fairweather-elsie","character-other/fairweather-tilly"]}
+{"beat":26,"event":"The docks smell of tar; Tamsin's lodging house has a door that does not shut behind them.","at":"2026-06-02T11:30:00.000Z","place":"place/fairweather-lanternmere","present":["character-player/fairweather-elsie","character-other/fairweather-tilly"]}
+{"beat":27,"event":"Tamsin comes down with her hair wet and Margery over her shoulder, and stops on the step.","at":"2026-06-02T11:35:00.000Z","arrive":["character-other/fairweather-tamsin"]}
+{"beat":28,"event":"Elsie holds out the bread she bought; Tamsin takes it and says she was going to eat anyway.","at":"2026-06-02T11:40:00.000Z"}
+{"beat":29,"event":"They sit on the quay; Tamsin eats the whole loaf and gives the crust to a barge cat.","at":"2026-06-02T11:50:00.000Z"}
+{"beat":30,"event":"Elsie asks about the Frenzy; Tamsin says it comes on when her blood is up and she blacks out.","at":"2026-06-02T12:00:00.000Z"}
+{"beat":31,"event":"Tamsin says what she does inside it is not hers, and the parties are right to drop her.","at":"2026-06-02T12:05:00.000Z"}
+{"beat":32,"event":"Elsie asks what to do if it comes; Tamsin says do not run, and do not stand in front of her.","at":"2026-06-02T12:10:00.000Z"}
+{"beat":33,"event":"Elsie asks what helps; Tamsin says nothing has ever been tried, and nothing would.","at":"2026-06-02T12:15:00.000Z"}
+{"beat":34,"event":"Elsie says she has never used her class on anyone and does not know whether it would help.","at":"2026-06-02T12:20:00.000Z"}
+{"beat":35,"event":"Tamsin looks at her a long moment and says, we will see about that.","at":"2026-06-02T12:25:00.000Z"}
+{"beat":36,"event":"Cora is waiting at the guild hall with the ledger under her arm and no greeting for either.","at":"2026-06-02T13:00:00.000Z","place":"place/fairweather-guild-hall","present":["character-player/fairweather-elsie","character-other/fairweather-tilly","character-other/fairweather-tamsin"],"arrive":["character-other/fairweather-cora"]}
+{"beat":37,"event":"Cora says she will walk the Glasswood's edge with them and log the party in and out.","at":"2026-06-02T13:05:00.000Z"}
+{"beat":38,"event":"Elsie asks whether Cora has been to the edge; Cora says on Wardens' patrols, and knows it.","at":"2026-06-02T13:10:00.000Z"}
+{"beat":39,"event":"Elsie asks what grows in the hollows; Cora says moonbells, and glass, and thornhares.","at":"2026-06-02T13:15:00.000Z"}
+{"beat":40,"event":"Elsie asks about the wolves; Cora says on summer nights a pack hunts the edge of the wood.","at":"2026-06-02T13:20:00.000Z"}
+{"beat":41,"event":"Cora says they fear fire and noise and go for whoever runs, and writes none of it down.","at":"2026-06-02T13:25:00.000Z"}
+{"beat":42,"event":"Elsie asks what Cora will write; Cora says she has not decided, and opens the door for her.","at":"2026-06-02T13:30:00.000Z"}
+{"beat":43,"event":"Elsie asks what the guild does about a first skill; Cora says it is reported, not punished.","at":"2026-06-02T13:35:00.000Z"}
+{"beat":44,"event":"Cora says the Accord is not there to catch her, whatever she thinks Wardens are for.","at":"2026-06-02T13:40:00.000Z"}
+{"beat":45,"event":"Elsie says she is glad Cora is coming; Cora says that is not the part of it she is in.","at":"2026-06-02T13:45:00.000Z"}
+{"beat":46,"event":"Elsie fills the satchel at the attic: the salve, the bandages, bread, the lantern and the rope.","at":"2026-06-02T14:30:00.000Z","place":"place/fairweather-honeycomb","present":["character-player/fairweather-elsie"]}
+{"beat":47,"event":"She clips the flower straight, and puts the apothecary's coin in the pocket she can reach.","at":"2026-06-02T14:35:00.000Z"}
+{"beat":48,"event":"She rests on the bed with the round window open, listening to the boats on the canal.","at":"2026-06-02T16:00:00.000Z"}
+{"beat":49,"event":"She dozes, and wakes with last night's hum already going, and cannot stop it.","at":"2026-06-02T16:20:00.000Z"}
+{"beat":50,"event":"At the hall the four of them check over what each is bringing, on the long table.","at":"2026-06-02T17:00:00.000Z","place":"place/fairweather-guild-hall","present":["character-player/fairweather-elsie","character-other/fairweather-cora","character-other/fairweather-tamsin","character-other/fairweather-tilly"]}
+{"beat":51,"event":"Tilly shows the fuses, Tamsin a tinderbox, Cora nothing, and Elsie the rope and the lantern.","at":"2026-06-02T17:10:00.000Z"}
+{"beat":52,"event":"Tamsin says the clerk's booth closes at dark, so they go an hour before it, as she said.","at":"2026-06-02T17:20:00.000Z"}
+{"beat":53,"event":"Tilly asks what the white posts mean; Tamsin says they are as far as F-rank may go.","at":"2026-06-02T17:25:00.000Z"}
+{"beat":54,"event":"Elsie asks to hold Margery; Tamsin lends her the axe and watches her hands the whole time.","at":"2026-06-02T17:30:00.000Z"}
+{"beat":55,"event":"Elsie gives it back and says it is heavier than she looks; Tamsin says everything is.","at":"2026-06-02T17:35:00.000Z"}
+{"beat":56,"event":"They cross the south canal bridge to the east gate as the lamplighters start their round.","at":"2026-06-02T18:30:00.000Z","place":"place/fairweather-lanternmere","present":["character-player/fairweather-elsie","character-other/fairweather-cora","character-other/fairweather-tamsin","character-other/fairweather-tilly"]}
+{"beat":57,"event":"The clerk's booth at the gate is lit, and he takes their names and their copper tags.","at":"2026-06-02T18:35:00.000Z"}
+{"beat":58,"event":"Cora gives the names; the clerk writes the party into the book and sells them a licence.","at":"2026-06-02T18:40:00.000Z"}
+{"beat":59,"event":"The clerk says F-rank goes a mile in and no farther, and the white posts are the line.","at":"2026-06-02T18:45:00.000Z"}
+{"beat":60,"event":"Outside the gate the cart track runs east between meadows, with marsh birds calling.","at":"2026-06-02T18:50:00.000Z"}
+{"beat":61,"event":"The four of them walk east with the lantern, and the city light drops away behind them.","at":"2026-06-02T18:55:00.000Z"}
+{"beat":62,"event":"Tamsin says she has been out here a dozen times, and past the white posts twice.","at":"2026-06-02T19:05:00.000Z"}
+{"beat":63,"event":"Tilly asks what the twice was like; Tamsin says it was quick, both times.","at":"2026-06-02T19:10:00.000Z"}
+{"beat":64,"event":"Elsie asks what lies past the posts; Tamsin says more wood, and nobody to tell her no.","at":"2026-06-02T19:15:00.000Z"}
+{"beat":65,"event":"The glass trees begin at the first hollow, and knock together overhead in the wind.","at":"2026-06-02T19:20:00.000Z"}
+{"beat":66,"event":"At the wood's edge the chiming goes through her teeth, and Elsie laughs out loud.","at":"2026-06-02T19:30:00.000Z","place":"place/fairweather-glasswood","present":["character-player/fairweather-elsie","character-other/fairweather-cora","character-other/fairweather-tamsin","character-other/fairweather-tilly"]}
+{"beat":67,"event":"Elsie tells them the hour, and the moonbells lie shut and blue among the tree roots.","at":"2026-06-02T19:35:00.000Z"}
+{"beat":68,"event":"They spread along the edge with the lantern low and their gloves on, and wait for dusk.","at":"2026-06-02T19:40:00.000Z"}
+{"beat":69,"event":"Dusk comes and the bells open all together, and the hollow fills with a pale blue light.","at":"2026-06-02T19:55:00.000Z"}
+{"beat":70,"event":"Elsie picks with two fingers and the stems come clean; Tilly picks and drops the first one.","at":"2026-06-02T20:10:00.000Z"}
+{"beat":71,"event":"Tamsin gathers with the axe out of the way and her back to the wood, watching the trees.","at":"2026-06-02T20:20:00.000Z"}
+{"beat":72,"event":"Cora stands where she can see the hollow and the wood both, and writes the hour down.","at":"2026-06-02T20:30:00.000Z"}
+{"beat":73,"event":"The satchel takes the bells by handfuls, and Elsie keeps the lantern up and the talk light.","at":"2026-06-02T20:45:00.000Z"}
+{"beat":74,"event":"Tilly asks whether these are the right blue; Elsie says the blue ones are the ones at dusk.","at":"2026-06-02T21:00:00.000Z"}
+{"beat":75,"event":"By full dark the edge hollows are picked, and the satchel is heavier than it looks.","at":"2026-06-02T21:15:00.000Z"}
+{"beat":76,"event":"Tamsin says one hollow more and they are done; the fourth lies back under the trees.","at":"2026-06-02T21:25:00.000Z"}
+{"beat":77,"event":"They go in single file, and the glass underfoot grinds like sugar the whole way in.","at":"2026-06-02T21:35:00.000Z"}
+{"beat":78,"event":"The first wolf comes out of the trees without a sound, lamp-eyed, and the pack after it.","at":"2026-06-02T21:45:00.000Z"}
+{"beat":79,"event":"Tilly drops her basket; the lantern goes over and guttering, and the wood goes dark.","at":"2026-06-02T21:47:00.000Z"}
+{"beat":80,"event":"Tamsin tells them to stand still and swings; the pack circles wide and one goes for Tilly.","at":"2026-06-02T21:50:00.000Z"}
+{"beat":81,"event":"Tamsin's axe takes it across the shoulder, and the others come at her out of the trees.","at":"2026-06-02T21:52:00.000Z"}
+{"beat":82,"event":"Elsie sees Tamsin's face change, and knows what is coming and has no word for it.","at":"2026-06-02T21:54:00.000Z"}
+{"beat":83,"event":"Tamsin turns on the hollow, and the axe comes round with the whole length of her arms.","at":"2026-06-02T21:56:00.000Z"}
+{"beat":84,"event":"Cora pulls Tilly out of the swing; the axe bites the glass trunk and the tree rings.","at":"2026-06-02T21:58:00.000Z"}
+{"beat":85,"event":"Tamsin is gone into it: she does not know them, and the pack is between her and them.","at":"2026-06-02T22:00:00.000Z"}
+{"beat":86,"event":"Tamsin shouts for the fuses; Tilly throws two, and the bramblewolves flinch back.","at":"2026-06-02T22:02:00.000Z"}
+{"beat":87,"event":"Elsie walks toward Tamsin with the lantern and puts her hand flat on Tamsin's jaw.","at":"2026-06-02T22:04:00.000Z"}
+{"beat":88,"event":"Elsie says her name and says she is here; a window opens above them and reads: Captivate.","at":"2026-06-02T22:05:00.000Z"}
+{"beat":89,"event":"Tamsin's eyes come back to her, the axe drops, and Tamsin shakes like a struck bell.","at":"2026-06-02T22:06:00.000Z"}
+{"beat":90,"event":"The pack breaks at the noise and the light and the two of them standing still in it.","at":"2026-06-02T22:08:00.000Z"}
+{"beat":91,"event":"Cora takes up the axe, Tilly counts the party twice, and Elsie does not let go of her.","at":"2026-06-02T22:10:00.000Z"}
+{"beat":92,"event":"In the ranger's hut the lantern is lit and Tilly wraps the cut on Tamsin's arm.","at":"2026-06-02T22:30:00.000Z"}
+{"beat":93,"event":"Tamsin will not look at anybody and says she is sorry, and the hut stays quiet.","at":"2026-06-02T22:40:00.000Z"}
+{"beat":94,"event":"Elsie says the wolves are gone and the bells are in the satchel and they are all here.","at":"2026-06-02T22:45:00.000Z"}
+{"beat":95,"event":"Cora opens the black ledger on the hut table and writes in it, in her small exact hand.","at":"2026-06-02T22:50:00.000Z"}
+{"beat":96,"event":"Elsie asks what she wrote; Cora says what the Accord asks for, and nothing but that.","at":"2026-06-02T22:55:00.000Z"}
+{"beat":97,"event":"They come back through the east gate and the clerk writes the party out of his book.","at":"2026-06-02T23:20:00.000Z","place":"place/fairweather-lanternmere"}
+{"beat":98,"event":"The canals are lit end to end; Tamsin carries the satchel and Tilly sleeps on her feet.","at":"2026-06-02T23:25:00.000Z"}
+{"beat":99,"event":"At the apothecary's door on Mortar Lane they hand over the bells, and are paid on the step.","at":"2026-06-02T23:40:00.000Z"}
+{"beat":100,"event":"Elsie walks home under the lanterns, her hands still smelling of the blue flowers.","at":"2026-06-02T23:55:00.000Z","present":["character-player/fairweather-elsie"]}
