@@ -10,7 +10,7 @@ export const overwhereI00108 = {
   position: 108,
   prose: "txt",
   characters: ["character-player/overwhere-i-nala"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/recorders",
   action:
     "I eat, then hike downstream to where the Wyrm is active. When I get close, I use my lenses to scout for signs of where it is.",
   beats: [
@@ -38,6 +38,6 @@ export const overwhereI00108 = {
     "lore/overwhere-i-wendlow-2",
     "place/overwhere-i-hobbs-mill-weir",
   ],
-  reviewedBy: ["story-reviewer/continuity"],
+  reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
   endsAt: "2026-10-06T09:06:00.000Z",
 } as const satisfies StoryTurnPlayed
