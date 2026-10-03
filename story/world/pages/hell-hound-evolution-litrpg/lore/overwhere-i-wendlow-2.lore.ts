@@ -224,5 +224,9 @@ export const overwhereIWendlow2 = {
       fact: "Wendlow's regard for Nala stands at 2, since she ended Voss's crew, a threat on its road.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Glass Street to Anvil Lane is a five-minute walk; Anvil Lane down to the river stairs, ten.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
