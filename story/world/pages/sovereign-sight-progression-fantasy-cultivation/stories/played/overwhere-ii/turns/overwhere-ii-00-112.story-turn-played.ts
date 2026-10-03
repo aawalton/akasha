@@ -11,7 +11,7 @@ export const overwhereIi00112 = {
   position: 112,
   prose: "txt",
   characters: ["character-player/overwhere-ii-nala"],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action:
     "“Then we have a plan for the morning.” I sleep, talk to Dray, Hawise, and Tob about the Tide Pool and what needs to be done, then go back up and work on cleansing the lower pool and the channel, so the upper pool is all that we need to manage.",
   beats: [
@@ -48,7 +48,12 @@ export const overwhereIi00112 = {
     "place/overwhere-ii-tarrant-smithy",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/memory", "story-recorder/picture"],
+  recordedBy: [
+    "story-recorder/inventory",
+    "story-recorder/memory",
+    "story-recorder/picture",
+    "story-recorder/mechanics",
+  ],
   endsAt: "2026-10-27T12:00:00.000Z",
   coverAfter: "You kneel at the bank and begin to part the black, a cupful",
 } as const satisfies StoryTurnPlayed
