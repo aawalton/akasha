@@ -240,5 +240,9 @@ export const overwhereIWendlow2 = {
       fact: "Wil sees the levy stamp on Voss's sword, then Nala's antler badge, and asks nothing more.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Wil says he takes plain soldier's short swords too, worth 60 copper each.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
