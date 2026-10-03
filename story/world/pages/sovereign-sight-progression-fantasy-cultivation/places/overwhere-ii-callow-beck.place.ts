@@ -152,5 +152,17 @@ export const overwhereIiCallowBeck = {
       fact: "Ebba has heard Nala is now the Lady's free blade, and greets her so through the shutter.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
+    {
+      fact: "Nala and Hawise killed all six Warped ewes at Callow Beck, untouched; Nala took four.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+    },
+    {
+      fact: "Ebba packs to go down to town, and bids Nala burn the six ewes on the midden with peat.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+    },
+    {
+      fact: "Black water trickles from the slick's lower edge, a thin thread creeping to the longhouse.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+    },
   ],
 } as const satisfies Place
