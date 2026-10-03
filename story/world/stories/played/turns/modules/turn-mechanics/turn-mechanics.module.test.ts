@@ -64,7 +64,7 @@ test("issues from any seat send the turn back once every seat has handed in", ()
   expect(last.changes).toBeNull()
 })
 
-test("a turn mechanics sent back once goes on to its writer, carrying its issues forward", () => {
+test("a run that already sent the turn back goes on rather than back again", () => {
   const issues = ["beat 2 spends no draught"]
   const held = heldAt("mechanics", {
     beats: 2,
@@ -76,6 +76,34 @@ test("a turn mechanics sent back once goes on to its writer, carrying its issues
   expect(again.next).toBe("on")
   expect([again.values["mechanicsIssues"], again.issues]).toEqual(["txt", null])
   expect(again.values["mechanicsSentBack"]).toBeUndefined()
+})
+
+test("a run's first hand-in drops the send-back the run before left", () => {
+  const ran = heldAt("mechanics", { beats: 1, mechanicsSentBack: true })
+  const first = doneOf(mechanicked(ran, { kind: "record", recorder: "inventory" }, STEPPED))
+  expect([first.next, Object.keys(first.values)]).toEqual([
+    "mechanics",
+    ["recordedBy", "mechanicsSentBack"],
+  ])
+  const issued = {
+    kind: "record",
+    recorder: "mechanics",
+    issues: ["beat 1 spends no draught"],
+  } as const
+  const held = heldAt("mechanics", { beats: 1, recordedBy: first.recordedBy })
+  const back = doneOf(mechanicked(held, issued, STEPPED))
+  expect([back.next, back.values["mechanicsSentBack"]]).toEqual(["game-master", true])
+})
+
+test("a one-seat run sends back though the run before left a send-back", () => {
+  const held = heldAt("mechanics", { beats: 1, mechanicsSentBack: true })
+  const issued = {
+    kind: "record",
+    recorder: "mechanics",
+    issues: ["beat 1 spends no draught"],
+  } as const
+  const back = doneOf(mechanicked(held, issued, ["mechanics"]))
+  expect([back.next, back.values["mechanicsSentBack"]]).toEqual(["game-master", true])
 })
 
 test("a rerun holds no change from the run before, so its changes are the whole of them", () => {

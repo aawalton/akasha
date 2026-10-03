@@ -81,9 +81,12 @@ export function mechanicked(
   if (long !== null) return { refused: long }
   const recordedBy = [...held.recordedBy, handed.recorder]
   const all = mechanics.every((one) => recordedBy.includes(one))
-  const back = all && issues.length > 0 && held.mechanicsSentBack !== true
+  const firstOfRun = held.recordedBy.length === 0
+  const sentBack = held.mechanicsSentBack === true && !firstOfRun
+  const back = all && issues.length > 0 && !sentBack
   const values = {
     recordedBy: recordedBy.map((one) => `${storyRecorder.slug}${PARTED}${one}`),
+    ...(firstOfRun ? { mechanicsSentBack: undefined } : {}),
     ...(issues.length === 0 ? {} : { mechanicsIssues: ISSUES_HELD }),
     ...(back ? { mechanicsSentBack: true } : {}),
   }

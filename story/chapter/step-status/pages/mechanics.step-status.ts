@@ -22,16 +22,16 @@ export const mechanics = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "Mechanics sends a turn back at most once; a turn already sent back goes on.",
+      statement: "Mechanics sends a turn back at most once in a run over its seats.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A turn with none goes to writer, or past it where it has prose.",
     },
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "A turn with none, or sent back before, goes to writer, or past it where it has prose.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "Issues found after that send-back stay on the turn for its writer and reviewers.",
+        "A run the game master's beats begin sends the turn back again where it finds an issue.",
     },
   ],
 } as const satisfies StepStatus

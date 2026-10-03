@@ -98,12 +98,12 @@ export const storyTurnPlayed = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A turn goes back from mechanics to game-master at most once.",
+      statement: "A turn goes back from mechanics to game-master at most once in each run.",
     },
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "Mechanics and the reviewers each send a turn back at most once, apart from each other.",
+        "The reviewers send a turn back at most once, and mechanics once in each run of its seats.",
     },
     {
       decisionKind: "decision-kind/departure",

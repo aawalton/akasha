@@ -50,7 +50,7 @@ export const gameMaster = {
       warrant: "It goes on to the writer, so an issue left unanswered reaches the prose.",
       aids: [
         "Issues are files beside the turn: `.mechanics-issues.txt` and the reviewers' `.issues.txt`.",
-        "Answer every issue before you advance: mechanics sends a turn back once, then lets it go.",
+        "Answer every issue before you advance: a run still finding one sends it back again.",
         "After each mend, check the beats after it for what it moved: times, places, who knows what.",
         "Leave the beat as it is where the issue is wrong.",
         "A page back for repair is mended, never beaten again.",
