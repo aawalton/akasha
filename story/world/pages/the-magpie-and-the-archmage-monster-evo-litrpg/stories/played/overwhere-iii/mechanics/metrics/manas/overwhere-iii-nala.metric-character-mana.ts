@@ -10,5 +10,5 @@ export const overwhereIiiNala = {
   maxValue: 12,
   history: "jsonl",
   displayOrder: 2,
-  revealedAs: "Three-quarters full; refilling since the morning bench",
+  revealedAs: "Three-quarters full; one braided lash-pull spent on the deer",
 } as const satisfies MetricCharacterMana
