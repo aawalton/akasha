@@ -30,7 +30,7 @@ export const overwhereIWendlow2 = {
     },
     {
       fact: "Grete knows the eye at once as a drake-pearl, and says an alchemist pays about four gold for one.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
     {
       fact: "Taking a contract, Grete chalks the hunter's name under it; the Weir Wyrm's has no deadline.",
