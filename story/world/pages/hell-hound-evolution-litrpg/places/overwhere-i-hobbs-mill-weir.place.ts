@@ -45,7 +45,7 @@ export const overwhereIHobbsMillWeir = {
     },
     {
       fact: "From the towpath bend, 200 yards above the mill, the weir, pool and far bank all show.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
     {
       fact: "Through the lens from the towpath bend, the weir's signs need no roll.",
