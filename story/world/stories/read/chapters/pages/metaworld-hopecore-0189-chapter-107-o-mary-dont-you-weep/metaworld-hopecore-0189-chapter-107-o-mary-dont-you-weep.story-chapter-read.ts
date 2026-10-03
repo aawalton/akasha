@@ -4,6 +4,7 @@ export const metaworldHopecore0189Chapter107OMaryDontYouWeep = {
   id: "01a0fcee-85ea-7125-bfe7-cbb478b430fc",
   type: "page-type/story-chapter-read",
   slug: "metaworld-hopecore-0189-chapter-107-o-mary-dont-you-weep",
+  ownProgress: 2645,
   position: 189,
   publishedAt: "2026-10-02",
   unit: "unit/words",
