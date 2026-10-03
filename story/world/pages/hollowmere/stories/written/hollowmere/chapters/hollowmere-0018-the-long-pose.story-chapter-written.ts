@@ -93,4 +93,5 @@ export const hollowmere0018TheLongPose = {
     "character-other/hollowmere-yusra",
   ],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
+  recordedBy: ["story-recorder/mechanics"],
 } as const satisfies StoryChapterWritten
