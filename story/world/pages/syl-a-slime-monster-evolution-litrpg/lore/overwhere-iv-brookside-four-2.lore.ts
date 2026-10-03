@@ -219,5 +219,13 @@ export const overwhereIvBrooksideFour2 = {
       fact: "Seeing two hobgoblins felled from forty paces, Merrit goes quiet and does not doubt her aloud again.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: 'Merrit muttered, "Five, she said. Alone." after the last hobgoblin fell.',
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+    },
+    {
+      fact: "Dace asked Nala to walk in with the Four at dawn, so Ilsa can see the two hobgoblins.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+    },
   ],
 } as const satisfies Lore

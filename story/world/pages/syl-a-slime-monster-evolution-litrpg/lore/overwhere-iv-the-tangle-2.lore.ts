@@ -296,5 +296,9 @@ export const overwhereIvTheTangle2 = {
       fact: "Lurching blind toward the bleating, the maul-bearer shows plain in the light of its fallen torches.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Nala's last rend, run low across shoulder and chest, killed the blind maul hobgoblin in the meadow.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+    },
   ],
 } as const satisfies Lore

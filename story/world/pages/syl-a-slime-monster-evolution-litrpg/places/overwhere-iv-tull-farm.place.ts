@@ -183,5 +183,9 @@ export const overwhereIvTullFarm = {
       fact: "The spear hobgoblin lies where it fell in the meadow, its horn on a cord and its spear beside it.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "With the strike broken, Tull gripped Nala's hand hard and said nothing.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+    },
   ],
 } as const satisfies Place
