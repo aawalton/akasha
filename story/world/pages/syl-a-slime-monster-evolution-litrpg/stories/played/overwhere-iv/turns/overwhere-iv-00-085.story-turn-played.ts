@@ -42,6 +42,6 @@ export const overwhereIv00085 = {
     "place/overwhere-iv-tull-farm",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/inventory"],
+  recordedBy: ["story-recorder/inventory", "story-recorder/mechanics"],
   endsAt: "2026-10-07T07:20:00.000Z",
 } as const satisfies StoryTurnPlayed
