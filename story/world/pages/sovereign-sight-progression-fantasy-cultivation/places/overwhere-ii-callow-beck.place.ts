@@ -82,7 +82,7 @@ export const overwhereIiCallowBeck = {
     },
     {
       fact: "At a Talented's run, the Keep to Callow Beck is some five hours: west, then south.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "The spill came down the beck's gully; a black, salt-crusted slick now covers the high pasture.",
