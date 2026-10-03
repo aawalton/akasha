@@ -1,16 +1,16 @@
 import type { StoryChapterWritten } from "akasha/story/world/stories/written/chapters/story-chapter-written.page-type.types.ts"
 
-export const hollowmere0025 = {
+export const hollowmere0025BeforeICanThink = {
   id: "01a101a3-30e7-7df3-9955-fe2fe15e2f44",
   type: "page-type/story-chapter-written",
-  slug: "hollowmere-0025",
+  slug: "hollowmere-0025-before-i-can-think",
   position: 25,
   unit: "unit/words",
-  title: "Chapter 25",
+  title: "Before I Can Think",
   story: "story-written/hollowmere",
-  ownLength: 0,
+  ownLength: 4524,
   prose: "txt",
-  stepStatus: "step-status/writer",
+  stepStatus: "step-status/reviewers",
   beats: [
     "Thursday of week four: rain on the window of 15, and Bea asleep with her face in your neck.",
     "You lie still and listen; Bea wakes, groans at the rain, and pulls the blanket over both heads.",
@@ -71,5 +71,28 @@ export const hollowmere0025 = {
     "Bea puts her book down and pulls you in; you fall asleep with her heart going under your ear.",
     "A day at Hollowmere ends.",
   ],
-  lore: ["lore/hollowmere-academy-2"],
+  lore: [
+    "lore/hollowmere-academy-2",
+    "lore/hollowmere-amara",
+    "lore/hollowmere-bea",
+    "lore/hollowmere-bea-2",
+    "lore/hollowmere-kit",
+    "lore/hollowmere-kit-2",
+    "lore/hollowmere-lin",
+    "lore/hollowmere-nala",
+    "lore/hollowmere-nala-2",
+    "lore/hollowmere-priya",
+    "lore/hollowmere-shiv",
+    "lore/hollowmere-yusra",
+  ],
+  characters: [
+    "character-player/hollowmere-nala",
+    "character-other/hollowmere-bea",
+    "character-other/hollowmere-yusra",
+    "character-other/hollowmere-kit",
+    "character-other/hollowmere-lin",
+    "character-other/hollowmere-amara",
+    "character-other/hollowmere-priya",
+    "character-other/hollowmere-shiv",
+  ],
 } as const satisfies StoryChapterWritten
