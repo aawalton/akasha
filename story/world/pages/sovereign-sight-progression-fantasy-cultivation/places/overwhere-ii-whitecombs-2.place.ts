@@ -13,7 +13,7 @@ export const overwhereIiWhitecombs2 = {
     },
     {
       fact: "The black rises thickest at the pool's middle, where the swells start, and thins toward the shore.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "The Callow pool's middle lies beyond Undertow's reach from the shore.",
