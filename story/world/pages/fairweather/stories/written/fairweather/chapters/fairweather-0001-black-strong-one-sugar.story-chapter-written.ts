@@ -10,7 +10,7 @@ export const fairweather0001BlackStrongOneSugar = {
   unit: "unit/words",
   title: "Black, Strong, One Sugar",
   story: "story-written/fairweather",
-  ownLength: 8396,
+  ownLength: 8370,
   prose: "txt",
   stepStatus: "step-status/player",
   beats: "jsonl",
