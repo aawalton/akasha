@@ -101,7 +101,7 @@ export const overwhereIvBrooksideFour2 = {
     },
     {
       fact: "Hearing of a warband of twenty and two hobgoblins, Dace believes Nala at once and takes charge.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
     },
     {
       fact: "Dace sends Aldo on Tull's cob to Hobb's, to fetch Wren and Orla; the ride takes a quarter hour.",
@@ -118,6 +118,18 @@ export const overwhereIvBrooksideFour2 = {
     {
       fact: "Orla can close Nala's gash and ease her back once she reaches Tull's fold.",
       knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "At Tull's ford Nala warned Dace and Merrit of a warband of twenty, two hobgoblins, five downed.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+    },
+    {
+      fact: "Merrit said he doubted she downed five alone, but readied his fire all the same.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+    },
+    {
+      fact: "Dace sent Aldo on Tull's cob for Wren and Orla, then asked Nala if she could stand a fight.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
     },
   ],
 } as const satisfies Lore
