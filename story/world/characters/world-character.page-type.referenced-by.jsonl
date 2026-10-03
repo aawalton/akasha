@@ -2355,6 +2355,7 @@
 {"propertySlug":"target-page-type","path":"story/world/mechanics/classes/character-class/properties/class-character.relation-property.ts","id":"01a0f396-8662-7682-b73b-57c171e66c56"}
 {"propertySlug":"target-page-type","path":"story/world/mechanics/items/story-item/properties/item-character.relation-property.ts","id":"01a0ca42-28bb-7be1-bce7-8ad4a3e0e4ef"}
 {"propertySlug":"target-page-type","path":"story/world/mechanics/metrics/metric-character/properties/metric-of-character.relation-property.ts","id":"01a0ca08-086e-72a3-99d9-49b538d216cd"}
+{"propertySlug":"target-page-type","path":"story/world/mechanics/skills/character-skill/properties/skill-character.relation-property.ts","id":"01a10362-0c7c-788b-bb3f-831bbc7563e6"}
 {"propertySlug":"target-page-type","path":"story/world/mechanics/species/character-species/properties/species-character.relation-property.ts","id":"01a0f20b-f5ff-726c-b2fe-a4a185a7af9c"}
 {"propertySlug":"target-page-type","path":"story/world/mechanics/traits/character-trait/properties/trait-character.relation-property.ts","id":"01a0ca5d-b332-7057-9c07-e79aaa1dd975"}
 {"propertySlug":"target-page-type","path":"story/world/pages/breaker-of-horizons/stories/played/otherwhere-viii/mechanics/arts/properties/otherwhere-viii-art-character.relation-property.ts","id":"01a0ea48-9303-7b86-9896-88966f71a8f2"}

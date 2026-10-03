@@ -8,6 +8,7 @@ export const worldSkill = {
   pluralSlug: "skills",
   extends: ["page-type/world-mechanic"],
   parts: [
+    "page-type/character-skill",
     "page-type/tower-skill",
     "page-type/otherwhere-i-skill",
     "page-type/otherwhere-v-utility-skill",

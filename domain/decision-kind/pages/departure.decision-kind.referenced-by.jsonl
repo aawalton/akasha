@@ -3927,6 +3927,7 @@
 {"propertySlug":"decision-kind","path":"story/world/mechanics/properties/unrevealed.boolean-property.ts","id":"01a0f133-5906-7039-b410-e2fe14be3d2b"}
 {"propertySlug":"decision-kind","path":"story/world/mechanics/ranks/world-rank.page-type.ts","id":"01a0dedc-02c6-7d54-befb-802e0962a76b"}
 {"propertySlug":"decision-kind","path":"story/world/mechanics/relationships/properties/world-relationship-level.computed-property.ts","id":"01a0de40-70c2-7965-8757-30658bc2f9ba"}
+{"propertySlug":"decision-kind","path":"story/world/mechanics/skills/character-skill/character-skill.page-type.ts","id":"01a10362-0c7c-73f8-a241-d557905e128b"}
 {"propertySlug":"decision-kind","path":"story/world/mechanics/species/character-species/character-species.page-type.ts","id":"01a0f20b-f5fe-7225-9dc6-e532a26f95d1"}
 {"propertySlug":"decision-kind","path":"story/world/mechanics/world-mechanic.page-type.ts","id":"01a06558-a991-7f75-b03b-962c2df9e390"}
 {"propertySlug":"decision-kind","path":"story/world/named-events/named-event.page-type.ts","id":"01a0658b-9f41-7cc1-93d8-f47f7aa3b771"}

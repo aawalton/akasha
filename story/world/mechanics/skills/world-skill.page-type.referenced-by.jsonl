@@ -1,3 +1,4 @@
+{"propertySlug":"extends-type","path":"story/world/mechanics/skills/character-skill/character-skill.page-type.ts","id":"01a10362-0c7c-73f8-a241-d557905e128b"}
 {"propertySlug":"extends-type","path":"story/world/pages/breaker-of-horizons/stories/played/otherwhere-viii/mechanics/arts/otherwhere-viii-art.page-type.ts","id":"01a0ea48-9302-7d58-9a10-d6e9e750c5d8"}
 {"propertySlug":"extends-type","path":"story/world/pages/ends-of-magic/stories/played/otherwhere-v/mechanics/utility-skills/otherwhere-v-utility-skill.page-type.ts","id":"01a0ea01-5719-755d-94fd-72e8bfea55a6"}
 {"propertySlug":"extends-type","path":"story/world/pages/god-of-trash/stories/played/otherwhere-vii/mechanics/techniques/otherwhere-vii-technique.page-type.ts","id":"01a0ea42-574f-7ae4-a171-8beea7d4ce9a"}
@@ -14,6 +15,7 @@
 {"propertySlug":"import","fileName":"world-skill.page-type.ts","path":"command/modules/mechanic-defining/mechanic-defining.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"world-skill.page-type.ts","path":"story/world/stories/played/modules/played-sheet-rows/played-sheet-rows.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"world-skill.page-type.ts","path":"story/world/stories/played/modules/played-state-beside/played-state-beside.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"world-skill.page-type.types.ts","path":"story/world/mechanics/skills/character-skill/character-skill.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-skill.page-type.types.ts","path":"story/world/pages/breaker-of-horizons/stories/played/otherwhere-viii/mechanics/arts/otherwhere-viii-art.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-skill.page-type.types.ts","path":"story/world/pages/ends-of-magic/stories/played/otherwhere-v/mechanics/utility-skills/otherwhere-v-utility-skill.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-skill.page-type.types.ts","path":"story/world/pages/fairweather/stories/written/fairweather/mechanics/skills/fairweather-belong.world-skill.ts","typed":true,"deferred":false}
@@ -4706,6 +4708,7 @@
 {"propertySlug":"import","fileName":"world-skill.page-type.types.ts","path":"story/world/pages/twelve-steps-to-transcendence-a-skill-grinding-litrpg/stories/played/otherwhere-x/mechanics/skills/otherwhere-x-skill.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-skill.page-type.types.ts","path":"story/world/pages/wolf-girl-evolution-tails-teeth-and-too-much-food/stories/played/otherwhere-vi/mechanics/skills/otherwhere-vi-skill.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"story/world/mechanics/world-mechanic.page-type.ts","id":"01a06558-a991-7f75-b03b-962c2df9e390"}
+{"propertySlug":"target-page-type","path":"story/world/mechanics/skills/character-skill/properties/held-skill.relation-property.ts","id":"01a10362-0c7c-7e04-9df8-e6bff42d988e"}
 {"propertySlug":"target-page-type","path":"story/world/pages/breaker-of-horizons/stories/played/otherwhere-viii/mechanics/arts/properties/otherwhere-viii-art-skill.relation-property.ts","id":"01a0ea48-9303-748e-a7e4-a1ee1b4ab9f3"}
 {"propertySlug":"target-page-type","path":"story/world/pages/god-of-trash/stories/played/otherwhere-vii/mechanics/techniques/properties/otherwhere-vii-technique-skill.relation-property.ts","id":"01a0ea42-5750-7b6a-b202-2e2bf40eda5f"}
 {"propertySlug":"target-page-type","path":"story/world/pages/hell-hound-evolution-litrpg/stories/played/overwhere-i/mechanics/skills/properties/overwhere-i-skill-skill.relation-property.ts","id":"01a0ed15-c07b-7e05-b5f8-de23d3d02429"}
