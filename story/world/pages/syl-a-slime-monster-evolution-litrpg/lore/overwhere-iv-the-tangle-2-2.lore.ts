@@ -72,5 +72,21 @@ export const overwhereIvTheTangle22 = {
       fact: "A shriek does not carry the mile to camp; a watcher running there takes some ten minutes.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Nala cut six cores from the goblin dead in the cleft and bagged them with their ears.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+    },
+    {
+      fact: "Past the cleft the deer trail climbs on through oak and yew, toward a smell of smoke.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+    },
+    {
+      fact: "A mile and more past the cleft, two goblin watchers hide behind a fallen trunk by the trail.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+    },
+    {
+      fact: "At a stick's crack under Nala's boot, the smaller watcher ran for camp; the other raised a horn.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+    },
   ],
 } as const satisfies Lore
