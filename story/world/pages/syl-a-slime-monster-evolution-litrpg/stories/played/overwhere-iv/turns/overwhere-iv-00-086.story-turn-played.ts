@@ -7,7 +7,8 @@ export const overwhereIv00086 = {
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iv"],
   position: 86,
-  stepStatus: "step-status/world-builder",
+  stepStatus: "step-status/game-master",
   action:
     "“I’ll get some sleep, then go scoring again.” Before going to sleep, I go and resign from the guard, thanking them and paying them for the gear, asking if I can keep what I had been using, then sleep and back out to the woods where I ambushed the goblins.",
+  lore: ["lore/overwhere-iv-the-tangle-2", "place/overwhere-iv-millbrook-gatehouse"],
 } as const satisfies StoryTurnPlayed
