@@ -10,6 +10,7 @@ export const otherwhereI0002TheCounterWakes = {
   story: "story-played/otherwhere-i",
   ownLength: 1861,
   prose: "txt",
+  beats: "jsonl",
   turnCovers: [
     {
       position: 50,
