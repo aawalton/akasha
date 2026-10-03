@@ -40,5 +40,9 @@ export const overwhereIHobbsMillWeir2 = {
       fact: "Jory says the crews will roll the wyrm's carcass and head into the pool once she is done with it.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Tam Hobb shrugs off the refused barrow and offers Nala a loaf and a cup of ale for the road.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
