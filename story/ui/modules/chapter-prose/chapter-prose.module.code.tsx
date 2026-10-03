@@ -8,6 +8,7 @@ import {
   type Placed,
   placedAfter,
 } from "akasha/story/ui/modules/inline-cover/inline-cover.module.code.tsx"
+import type { RerollAsker } from "akasha/story/ui/modules/scene-cover-panel/scene-cover-panel.module.code.tsx"
 import {
   SystemCard,
   UnavailableSystemCard,
@@ -31,14 +32,14 @@ function blocksOf(text: string): readonly string[] {
 
 type Drawing = {
   readonly placed: Placed<InlineCover>
-  readonly gameExternalId?: string | undefined
+  readonly asker?: RerollAsker | undefined
 }
 
 function CoversAfter({ covers, drawing }: { covers: readonly InlineCover[]; drawing: Drawing }) {
   return (
     <>
       {covers.map((one) => (
-        <InlineCoverFigure key={one.id} shown={one} gameExternalId={drawing.gameExternalId} />
+        <InlineCoverFigure key={one.id} shown={one} asker={drawing.asker} />
       ))}
     </>
   )
@@ -143,6 +144,7 @@ export function ChapterProse({
   text,
   segments,
   covers,
+  asker,
   muted,
   gameExternalId,
   submitPlayerAction,
@@ -151,6 +153,7 @@ export function ChapterProse({
   text: string
   segments?: readonly ClientProseSegment[]
   covers?: readonly InlineCover[]
+  asker?: RerollAsker | undefined
   muted: boolean
   gameExternalId?: string
   submitPlayerAction: SubmitPlayerAction
@@ -163,7 +166,7 @@ export function ChapterProse({
   const starts = startsOf(blocks)
   const drawing: Drawing = {
     placed: placedAfter(blocks.flat(), covers ?? NO_COVERS),
-    gameExternalId,
+    asker,
   }
   return (
     <section className="flex flex-col gap-3">

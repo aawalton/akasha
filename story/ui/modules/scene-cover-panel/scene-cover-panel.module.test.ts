@@ -4,6 +4,7 @@ import {
   keyStep,
   pagedAt,
   pickedFor,
+  playedAsker,
   rerollAsked,
   rerollSettled,
   steppedTo,
@@ -52,9 +53,22 @@ test("the turns paged through are every turn handed with a cover, drawn at twice
 })
 
 test("a reroll asks the story it is played in to draw the cover shown again", () => {
-  expect(rerollAsked("game-1", "image/image-a")).toEqual({
+  const asker = playedAsker("game-1")
+  expect(asker).toBeDefined()
+  if (asker === undefined) return
+  expect(rerollAsked(asker, "image/image-a")).toEqual({
     pageTypeSlug: "story-played",
     where: [{ key: "externalId", eq: "game-1" }],
+    set: { coverReroll: "image/image-a" },
+  })
+  expect(playedAsker(undefined)).toBeUndefined()
+})
+
+test("a reroll asks a written story by its slug", () => {
+  const asker = { pageTypeSlug: "story-written", key: "slug", value: "fairweather" }
+  expect(rerollAsked(asker, "image/image-a")).toEqual({
+    pageTypeSlug: "story-written",
+    where: [{ key: "slug", eq: "fairweather" }],
     set: { coverReroll: "image/image-a" },
   })
 })

@@ -49,7 +49,7 @@ export const inlineCover = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "A cover in a game being played carries the button asking for it to be drawn again.",
+        "A cover whose story is handed carries the button asking that story to draw it again.",
     },
   ],
 } as const satisfies Module

@@ -5,6 +5,7 @@ import { coverSource } from "akasha/page/ui/component/modules/page-cover/page-co
 import { COVER_WIDTH_ASKED } from "akasha/story/ui/modules/character-cover-panel/character-cover-panel.module.code.tsx"
 import { CoverDialog } from "akasha/story/ui/modules/cover-viewing/cover-viewing.module.code.tsx"
 import {
+  type RerollAsker,
   RerollButton,
   useReroll,
 } from "akasha/story/ui/modules/scene-cover-panel/scene-cover-panel.module.code.tsx"
@@ -78,18 +79,18 @@ export const FRAME = {
 
 type InlineCoverProps = {
   readonly shown: InlineCover
-  readonly gameExternalId?: string | undefined
+  readonly asker?: RerollAsker | undefined
 }
 
-export function InlineCoverFigure({ shown, gameExternalId }: InlineCoverProps) {
+export function InlineCoverFigure({ shown, asker }: InlineCoverProps) {
   const [viewing, setViewing] = useState(false)
-  const rerolling = useReroll(gameExternalId)
+  const rerolling = useReroll(asker)
   const source = coverSource(shown.cover, COVER_WIDTH_ASKED)
   const whole = coverSource(shown.cover)
   if (source === null || whole === null) return null
   const name = `Turn ${shown.number}`
   const reroll =
-    gameExternalId === undefined ? null : <RerollButton rerolling={rerolling} cover={shown.cover} />
+    asker === undefined ? null : <RerollButton rerolling={rerolling} cover={shown.cover} />
   return (
     <figure className="flex flex-col items-center gap-2 py-2">
       <CoverDialog open={viewing} onOpenChange={setViewing} name={name} whole={whole}>

@@ -4,6 +4,7 @@ import { ChapterProse } from "akasha/story/ui/modules/chapter-prose/chapter-pros
 import { coversOf } from "akasha/story/ui/modules/inline-cover/inline-cover.module.code.tsx"
 import { NarrativeLog } from "akasha/story/ui/modules/narrative-log/narrative-log.module.code.tsx"
 import { NewestDivider } from "akasha/story/ui/modules/newest-divider/newest-divider.module.code.tsx"
+import { playedAsker } from "akasha/story/ui/modules/scene-cover-panel/scene-cover-panel.module.code.tsx"
 import {
   type ProseRenderOptions,
   projectProseRows,
@@ -26,6 +27,7 @@ export function PlayedChannel({
   submitPlayerAction,
 }: PanelRun) {
   const submit = submitPlayerAction ?? refusePlayerAction
+  const asker = playedAsker(gameExternalId)
   const rows = useMemo(() => {
     const options: ProseRenderOptions = pastTurns === undefined ? {} : { pastTurns }
     return projectProseRows(turns, options)
@@ -55,6 +57,7 @@ export function PlayedChannel({
             text={row.turn.text}
             segments={row.turn.segments}
             covers={coversOf(turnCovers, row.turn.id)}
+            asker={asker}
             muted={row.muted}
             gameExternalId={gameExternalId}
             submitPlayerAction={submit}

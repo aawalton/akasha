@@ -64,10 +64,22 @@ export function turnCoversOf(turnCovers: readonly PlayedTurnCover[]): readonly T
   return held
 }
 
-export function rerollAsked(gameExternalId: string, cover: string) {
+export type RerollAsker = {
+  readonly pageTypeSlug: string
+  readonly key: string
+  readonly value: string
+}
+
+export function playedAsker(gameExternalId: string | undefined): RerollAsker | undefined {
+  return gameExternalId === undefined
+    ? undefined
+    : { pageTypeSlug: STORY, key: EXTERNAL_ID, value: gameExternalId }
+}
+
+export function rerollAsked(asker: RerollAsker, cover: string) {
   return {
-    pageTypeSlug: STORY,
-    where: [{ key: EXTERNAL_ID, eq: gameExternalId }],
+    pageTypeSlug: asker.pageTypeSlug,
+    where: [{ key: asker.key, eq: asker.value }],
     set: { [ASKED]: cover },
   }
 }
@@ -88,16 +100,19 @@ type Rerolling = {
   readonly ask: (cover: string) => undefined
 }
 
-export function useReroll(gameExternalId: string | undefined): Rerolling {
+export function useReroll(asker: RerollAsker | undefined): Rerolling {
   const [asking, setAsking] = useState<string | null>(null)
   const [refused, setRefused] = useState<string | null>(null)
+  const pageTypeSlug = asker?.pageTypeSlug
+  const key = asker?.key
+  const value = asker?.value
   useEffect(() => {
-    if (asking === null || gameExternalId === undefined) return
+    if (asking === null || pageTypeSlug === undefined || key === undefined) return
     const started = Date.now()
     const timer = setInterval(() => {
       void askingFor({
-        pageTypeSlug: STORY,
-        where: { [EXTERNAL_ID]: { is: gameExternalId } },
+        pageTypeSlug,
+        where: { [key]: { is: value } },
         keys: [ASKED, REFUSED],
       }).then((answered) => {
         if ("refused" in answered) return
@@ -112,12 +127,12 @@ export function useReroll(gameExternalId: string | undefined): Rerolling {
       })
     }, POLL_MS)
     return () => clearInterval(timer)
-  }, [asking, gameExternalId])
+  }, [asking, pageTypeSlug, key, value])
   const ask = (cover: string): undefined => {
-    if (asking !== null || gameExternalId === undefined) return
+    if (asking !== null || asker === undefined) return
     setRefused(null)
     setAsking(cover)
-    overServer("patchPage", rerollAsked(gameExternalId, cover)).catch(() => {
+    overServer("patchPage", rerollAsked(asker, cover)).catch(() => {
       setRefused(UNSENT)
       setAsking(null)
     })
@@ -223,7 +238,7 @@ export function SceneCoverPanel({ turns, turnCovers, areScenes, gameExternalId }
   const turnId = latestTurnId(turns)
   const [paged, setPaged] = useState<Paged | null>(null)
   const [viewing, setViewing] = useState(false)
-  const rerolling = useReroll(gameExternalId)
+  const rerolling = useReroll(playedAsker(gameExternalId))
   const stepping = useRef<(step: Step) => void>(() => undefined)
   useEffect(() => {
     if (!viewing) return

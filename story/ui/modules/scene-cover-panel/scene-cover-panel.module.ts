@@ -68,7 +68,7 @@ export const sceneCoverPanel = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The ask is written to the story played as its signed-in writer.",
+      statement: "The ask is written to the story the picture is of, as its signed-in writer.",
     },
     {
       decisionKind: "decision-kind/departure",
