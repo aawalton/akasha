@@ -118,4 +118,5 @@ export const hollowmere0034Bend = {
     "character-other/hollowmere-amara",
     "character-other/hollowmere-yusra",
   ],
+  reviewedBy: ["story-reviewer/style"],
 } as const satisfies StoryChapterWritten
