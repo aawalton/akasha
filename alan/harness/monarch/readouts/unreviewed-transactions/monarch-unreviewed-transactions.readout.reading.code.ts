@@ -66,10 +66,16 @@ export async function fetchRingCountsFromMonarch(
     signal: AbortSignal.timeout(10_000),
   })
 
-  if (!response.ok) {
+  if (response.status === 401 || response.status === 403) {
     throw new Error(
       `Monarch answered ${response.status} for the ring counts. A session cookie expires ` +
         "and only Alan at a browser can produce another, so this is most likely a dead credential."
+    )
+  }
+  if (!response.ok) {
+    throw new Error(
+      `Monarch answered ${response.status} for the ring counts, a fault on Monarch's side ` +
+        "rather than a refused credential."
     )
   }
 
