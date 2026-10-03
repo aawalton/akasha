@@ -5,7 +5,7 @@ export const hollowmere0025BeforeICanThink = {
   type: "page-type/story-chapter-written",
   slug: "hollowmere-0025-before-i-can-think",
   cover: "image/image-0d42e619df88ef4b",
-  ownProgress: 4325,
+  ownProgress: 4347,
   position: 25,
   unit: "unit/words",
   title: "Before I Can Think",
