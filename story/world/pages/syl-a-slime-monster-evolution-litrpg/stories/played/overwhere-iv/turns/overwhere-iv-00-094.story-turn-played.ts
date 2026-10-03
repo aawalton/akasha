@@ -4,6 +4,7 @@ export const overwhereIv00094 = {
   id: "01a101f1-cf1a-7749-994c-1244d4c854e2",
   type: "page-type/story-turn-played",
   slug: "overwhere-iv-00-094",
+  cover: "image/image-9665aa865bc9a5fe",
   ownLength: 154,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iv"],
@@ -37,6 +38,7 @@ export const overwhereIv00094 = {
     "lore/overwhere-iv-the-tangle-2-2",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/memory"],
+  recordedBy: ["story-recorder/inventory", "story-recorder/memory", "story-recorder/picture"],
   endsAt: "2026-10-08T09:05:00.000Z",
+  coverAfter: "You burst out of the Tangle into the morning light and splash into the ford,",
 } as const satisfies StoryTurnPlayed
