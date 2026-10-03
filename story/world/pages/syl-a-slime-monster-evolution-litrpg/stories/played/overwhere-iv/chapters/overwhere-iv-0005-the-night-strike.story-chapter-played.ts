@@ -10,6 +10,7 @@ export const overwhereIv0005TheNightStrike = {
   story: "story-played/overwhere-iv",
   ownLength: 3593,
   prose: "txt",
+  beats: "jsonl",
   turnCovers: [
     {
       position: 66,
