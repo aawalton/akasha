@@ -156,6 +156,14 @@ export const overwhereIiiMotherSallow = {
         "character-other/overwhere-iii-mother-sallow",
       ],
     },
+    {
+      fact: "Her eyes, unmasked, are ringed in black.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iii-nala",
+        "character-other/overwhere-iii-mother-sallow",
+      ],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
