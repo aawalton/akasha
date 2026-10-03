@@ -61,6 +61,14 @@ export const overwhereIvHarm = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A rend laid clean through the head, across the eyes or above, is vital too.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A foe a rend lays across the eyes and lives is blinded until healed.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement:
         "A Rift Rend laid along her own weapon and landed at a cost shears the weapon too.",
     },
