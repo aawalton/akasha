@@ -15,7 +15,7 @@ export const overwhereIii00087 = {
     "character-other/overwhere-iii-edda-crane",
     "character-other/overwhere-iii-mother-sallow",
   ],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/recorders",
   action: "“I don’t know for sure.” I tell her what K saw and heard.",
   beats: [
     '"I don\'t know for sure."',
@@ -38,6 +38,6 @@ export const overwhereIii00087 = {
     "lore/overwhere-iii-nala-2-2",
     "place/overwhere-iii-the-hollow",
   ],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
   endsAt: "2026-10-08T17:40:00.000Z",
 } as const satisfies StoryTurnPlayed
