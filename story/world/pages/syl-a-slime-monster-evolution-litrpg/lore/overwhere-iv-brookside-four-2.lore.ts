@@ -189,7 +189,11 @@ export const overwhereIvBrooksideFour2 = {
     },
     {
       fact: "Dace says take the hobgoblins: goblins whose big ones fall run, as every hand at the hall knows.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iv-nala",
+        "lore/overwhere-iv-brookside-four",
+      ],
     },
     {
       fact: "Wren picks out the two hobgoblins among the torches by their size, one with a maul, one a spear.",
@@ -201,7 +205,11 @@ export const overwhereIvBrooksideFour2 = {
     },
     {
       fact: "Dace put Merrit on the ford, Wren on the cottage roof, Orla behind him, Tull and Aldo at the gate.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iv-nala",
+        "lore/overwhere-iv-brookside-four",
+      ],
     },
   ],
 } as const satisfies Lore
