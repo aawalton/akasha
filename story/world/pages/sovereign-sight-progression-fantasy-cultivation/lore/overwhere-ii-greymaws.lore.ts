@@ -261,7 +261,7 @@ export const overwhereIiGreymaws = {
     },
     {
       fact: "The tug is weak; the chamber stays put in a hand or a tied bag.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "The black bead fills only a sliver of a greymaw chamber, which could hold far more.",
