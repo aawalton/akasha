@@ -78,7 +78,7 @@ const PROSE_ON_BEATS = "proseOnBeats"
 
 const ONE = 1
 
-const CLOSE_CHAPTERS = 4
+const CLOSE_CHAPTERS = 12
 
 const NO_HREFS: readonly string[] = []
 
