@@ -105,7 +105,7 @@ export const overwhereIWendlow = {
     },
     {
       fact: "Voss and eight crewmen in proof come to 46 gold at the Board; Ghost-Eye's head, 25 more.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
     {
       fact: "Wendlow's gates shut at sunset, about 19:00, and open again at dawn.",
