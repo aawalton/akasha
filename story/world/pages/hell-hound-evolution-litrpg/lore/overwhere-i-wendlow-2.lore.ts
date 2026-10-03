@@ -268,5 +268,9 @@ export const overwhereIWendlow2 = {
       fact: "Mother Sallow says a wyrm's bile sac is a green, fist-sized bag under the liver, behind the heart.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Mother Sallow says to tie off the sac's duct with twine, cut it free whole, and stopper it in a jar.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
