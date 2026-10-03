@@ -68,5 +68,9 @@ export const overwhereIiiMendingWeave = {
       fact: "Her fifth telling use past Basic shows: [Mending Weave has advanced: Basic → Novice]",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
+    {
+      fact: "Ten telling uses past Novice show: [Mending Weave has advanced: Novice → Adept]",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
