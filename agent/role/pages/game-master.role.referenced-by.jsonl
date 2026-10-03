@@ -7,4 +7,5 @@
 {"propertySlug":"import","fileName":"game-master.role.ts","path":"story/world/stories/played/turns/modules/turn-advancing/turn-advancing.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"game-master.role.ts","path":"story/world/stories/played/turns/modules/turn-seats/turn-seats.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"agent/role/role.page-type.ts","id":"01a053b2-2c20-7e34-9306-65f44016381a"}
+{"propertySlug":"role","path":"agent/seat/pages/mari-game-master-fairweather/mari-game-master-fairweather.seat.ts","id":"01a1036a-2084-7000-a807-45afc17a18fd"}
 {"propertySlug":"role","path":"persona/pages/aria/aria.persona.ts","id":"019ef03a-4924-7a7b-9ee2-e34556947658"}
