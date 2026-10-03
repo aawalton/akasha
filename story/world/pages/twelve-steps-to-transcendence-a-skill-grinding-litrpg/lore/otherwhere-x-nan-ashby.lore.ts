@@ -6,7 +6,7 @@ export const otherwhereXNanAshby = {
   slug: "otherwhere-x-nan-ashby",
   title: "Old Nan Ashby",
   world: "world/twelve-steps-to-transcendence-a-skill-grinding-litrpg",
-  about: "world-character/otherwhere-x-nan-ashby",
+  about: "character-other/otherwhere-x-nan-ashby",
   facts: [
     {
       fact: "Old Nan Ashby, Harrow's herbwife, is near blind, sharp of mind, and tends every hurt.",
