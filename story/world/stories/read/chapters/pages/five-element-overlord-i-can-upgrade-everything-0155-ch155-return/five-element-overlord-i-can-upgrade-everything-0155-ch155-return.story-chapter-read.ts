@@ -4,6 +4,7 @@ export const fiveElementOverlordICanUpgradeEverything0155Ch155Return = {
   id: "01a0fedc-47fb-7370-bd91-a9303590cfb5",
   type: "page-type/story-chapter-read",
   slug: "five-element-overlord-i-can-upgrade-everything-0155-ch155-return",
+  ownProgress: 1798,
   position: 155,
   publishedAt: "2026-10-02",
   unit: "unit/words",

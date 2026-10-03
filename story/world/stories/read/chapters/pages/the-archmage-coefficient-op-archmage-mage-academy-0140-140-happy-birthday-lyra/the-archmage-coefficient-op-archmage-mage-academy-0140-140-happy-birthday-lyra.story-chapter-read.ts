@@ -4,6 +4,7 @@ export const theArchmageCoefficientOpArchmageMageAcademy0140140HappyBirthdayLyra
   id: "01a0fea9-554b-7951-80eb-6a61425ed05f",
   type: "page-type/story-chapter-read",
   slug: "the-archmage-coefficient-op-archmage-mage-academy-0140-140-happy-birthday-lyra",
+  ownProgress: 3285,
   position: 140,
   publishedAt: "2026-10-02",
   unit: "unit/words",

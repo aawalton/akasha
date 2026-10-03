@@ -4,6 +4,7 @@ export const rebornAsADemonicTree0100Chapter625ADemonicDate = {
   id: "01a0fea9-554a-7fd2-9ae6-4c2072628c43",
   type: "page-type/story-chapter-read",
   slug: "reborn-as-a-demonic-tree-0100-chapter-625-a-demonic-date",
+  ownProgress: 2994,
   position: 100,
   publishedAt: "2026-10-02",
   unit: "unit/words",

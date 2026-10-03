@@ -4,6 +4,7 @@ export const heWhoFightsWithMonsters0019Chapter1027APlaceWithinTheCosmicOrder = 
   id: "01a0fedc-47fb-7940-8495-33a0e5140132",
   type: "page-type/story-chapter-read",
   slug: "he-who-fights-with-monsters-0019-chapter-1027-a-place-within-the-cosmic-order",
+  ownProgress: 3213,
   position: 19,
   publishedAt: "2026-10-02",
   unit: "unit/words",
