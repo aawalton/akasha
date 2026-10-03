@@ -10,7 +10,7 @@ export const hollowmere0018TheLongPose = {
   story: "story-written/hollowmere",
   ownLength: 3059,
   prose: "txt",
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/game-master",
   beats: [
     "Thursday: a hard clear frost; the mere smokes at dawn, and you and Shiv swim the buoy and back.",
     "Shiv asks about the bursar's forms; you tell her you put Bea's name down for emergencies.",
@@ -69,6 +69,9 @@ export const hollowmere0018TheLongPose = {
   ],
   issues: [
     '"hurries away down the corridor to room 8" - room 8 is a floor up; Lin is at the stair foot',
+    '"Your small soft tits, with their pale pink nipples" - Hollowmere Explicitness',
+    '"the dark red tuft over your cunt, the same deep red" - Hollowmere Explicitness',
+    'beat "small soft tits ... the dark red tuft over your cunt" - Hollowmere Explicitness',
   ],
   lore: [
     "lore/hollowmere-academy-2",
@@ -89,5 +92,5 @@ export const hollowmere0018TheLongPose = {
     "character-other/hollowmere-lin",
     "character-other/hollowmere-yusra",
   ],
-  reviewedBy: ["story-reviewer/continuity"],
+  reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
 } as const satisfies StoryChapterWritten
