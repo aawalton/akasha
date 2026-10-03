@@ -148,5 +148,9 @@ export const overwhereIvNala3 = {
       fact: "On day 9 Nala cut a left ear from each of the six goblins dead in the cleft, and bagged them.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
     },
+    {
+      fact: "On day 9 Nala took an ear and core from each of eight goblin watchers, leaving the horn hidden.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+    },
   ],
 } as const satisfies Lore
