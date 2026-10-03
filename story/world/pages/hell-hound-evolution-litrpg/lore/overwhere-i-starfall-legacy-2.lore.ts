@@ -304,5 +304,9 @@ export const overwhereIStarfallLegacy2 = {
       fact: "Twin spikes into one long body need not meet, so they are not a band harder.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "A beast run through by stone spikes is pinned on them and cannot flee while it lives.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
