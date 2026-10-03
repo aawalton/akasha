@@ -4,6 +4,7 @@ export const sylASlimeMonsterEvolutionLitrpg0062Chapter434RecklessSlime = {
   id: "01a0fb71-a1d5-7f67-879d-d03297ae63d5",
   type: "page-type/story-chapter-read",
   slug: "syl-a-slime-monster-evolution-litrpg-0062-chapter-434-reckless-slime",
+  ownProgress: 2642,
   position: 62,
   publishedAt: "2026-10-02",
   unit: "unit/words",

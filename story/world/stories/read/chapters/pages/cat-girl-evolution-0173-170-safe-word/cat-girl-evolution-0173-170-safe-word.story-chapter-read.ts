@@ -4,6 +4,7 @@ export const catGirlEvolution0173170SafeWord = {
   id: "01a0fcb7-93d6-7a4f-953f-bedc72c6028b",
   type: "page-type/story-chapter-read",
   slug: "cat-girl-evolution-0173-170-safe-word",
+  ownProgress: 2230,
   position: 173,
   publishedAt: "2026-10-02",
   unit: "unit/words",
