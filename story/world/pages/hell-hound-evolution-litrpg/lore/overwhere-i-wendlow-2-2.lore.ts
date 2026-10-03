@@ -96,5 +96,9 @@ export const overwhereIWendlow22 = {
       fact: "By 10:30 on day 9 the Board's share reaches Antler Hall; Grete pays both of Nala's chits, 26 gold.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "With the Board's share comes a note: Magistrate Varne asks Nala Arthur to the Moot Hall at noon.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
