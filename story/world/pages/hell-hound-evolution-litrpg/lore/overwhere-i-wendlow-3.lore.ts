@@ -188,5 +188,9 @@ export const overwhereIWendlow3 = {
       fact: "Inside is one long room: a raised bench, the clerk's desk below it, and presses of tax rolls.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Two watchmen keep the Moot Hall's door, and let a hunter in with her sword.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
