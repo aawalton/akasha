@@ -6,4 +6,5 @@ export const theIdleEpochMira = {
   slug: "the-idle-epoch-mira",
   title: "Mira Vasquez",
   story: "story-written/the-idle-epoch",
+  place: "place/the-idle-epoch-warehouse",
 } as const satisfies CharacterOther

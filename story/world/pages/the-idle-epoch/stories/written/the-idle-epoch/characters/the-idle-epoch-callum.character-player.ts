@@ -6,5 +6,6 @@ export const theIdleEpochCallum = {
   slug: "the-idle-epoch-callum",
   title: "Callum Voss",
   story: "story-written/the-idle-epoch",
+  place: "place/the-idle-epoch-warehouse",
   person: "person/alan",
 } as const satisfies CharacterPlayer
