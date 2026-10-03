@@ -110,7 +110,7 @@ export const overwhereIiCallowBeck = {
     },
     {
       fact: "Near the slick Nala's well leans toward it, as at the Callow pool, but weaker.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Undertow moves the slick's black water like any water, and can drive it back up the gully.",
