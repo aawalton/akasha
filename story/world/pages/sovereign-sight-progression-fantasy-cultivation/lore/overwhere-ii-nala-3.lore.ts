@@ -260,5 +260,9 @@ export const overwhereIiNala3 = {
       fact: "After her push-timed flurry against Hawise, a thin, tight ache sits behind Nala's eyes.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
+    {
+      fact: "On days twenty-five and twenty-six Nala drills spear and spars mornings with Osric, Hawise, Corra.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+    },
   ],
 } as const satisfies Lore

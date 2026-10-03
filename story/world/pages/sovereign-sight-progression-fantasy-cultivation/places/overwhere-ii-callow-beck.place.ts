@@ -72,5 +72,9 @@ export const overwhereIiCallowBeck = {
       fact: "Ebba burned Bramble and Sorrel on the Callow Beck midden with peat on day three.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
+    {
+      fact: "Ebba's word on day twenty-seven: something spilled off the mountain at night; her sheep are changed.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+    },
   ],
 } as const satisfies Place

@@ -219,6 +219,10 @@ export const overwhereIiLadyImreVarrow = {
       fact: "Frost glitters on Lady Varrow's knuckles; her hand's cold bites at a clasp, then fades.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
+    {
+      fact: "Lady Varrow sends Hawise with Nala to Callow Beck on her first summons.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
