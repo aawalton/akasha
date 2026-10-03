@@ -13,7 +13,8 @@ export const otherwhereViiNeeds = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "Needs are settled once a turn for each character they weigh on, with no dice.",
+      statement:
+        "The game master settles needs with no dice, once a turn for each character, before telling it.",
     },
     {
       decisionKind: "decision-kind/departure",
