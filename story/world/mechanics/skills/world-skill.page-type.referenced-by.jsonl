@@ -16,6 +16,7 @@
 {"propertySlug":"import","fileName":"world-skill.page-type.ts","path":"story/world/stories/played/modules/played-state-beside/played-state-beside.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"world-skill.page-type.types.ts","path":"story/world/pages/breaker-of-horizons/stories/played/otherwhere-viii/mechanics/arts/otherwhere-viii-art.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-skill.page-type.types.ts","path":"story/world/pages/ends-of-magic/stories/played/otherwhere-v/mechanics/utility-skills/otherwhere-v-utility-skill.page-type.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"world-skill.page-type.types.ts","path":"story/world/pages/fairweather/stories/written/fairweather/mechanics/skills/fairweather-belong.world-skill.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-skill.page-type.types.ts","path":"story/world/pages/fairweather/stories/written/fairweather/mechanics/skills/fairweather-captivate.world-skill.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-skill.page-type.types.ts","path":"story/world/pages/fairweather/stories/written/fairweather/mechanics/skills/fairweather-claim.world-skill.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-skill.page-type.types.ts","path":"story/world/pages/fairweather/stories/written/fairweather/mechanics/skills/fairweather-hold.world-skill.ts","typed":true,"deferred":false}
