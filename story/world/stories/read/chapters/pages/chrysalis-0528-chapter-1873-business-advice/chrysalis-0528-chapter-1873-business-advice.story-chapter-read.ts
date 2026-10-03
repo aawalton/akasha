@@ -4,6 +4,7 @@ export const chrysalis0528Chapter1873BusinessAdvice = {
   id: "01a0f537-6e76-7648-9355-83ea6ed28583",
   type: "page-type/story-chapter-read",
   slug: "chrysalis-0528-chapter-1873-business-advice",
+  ownProgress: 1092,
   position: 528,
   publishedAt: "2026-10-01",
   unit: "unit/words",
