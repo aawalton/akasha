@@ -209,5 +209,15 @@ export const hollowmereAcademy2 = {
         "character-player/hollowmere-nala",
       ],
     },
+    {
+      fact: "History's fourth week covers the Healers Act of 1858, which first licensed healers by examination.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/hollowmere-kit",
+        "character-other/hollowmere-amara",
+        "character-other/hollowmere-penhallow",
+        "character-other/hollowmere-yusra",
+      ],
+    },
   ],
 } as const satisfies Lore
