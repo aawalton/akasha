@@ -45,5 +45,9 @@ export const overwhereITheSystem2 = {
       fact: "Nala giving her name aloud does not change what Analyze shows; it still reads Name ???.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Joining the hunters' roll is a Board record only; the System opens no window for it.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
