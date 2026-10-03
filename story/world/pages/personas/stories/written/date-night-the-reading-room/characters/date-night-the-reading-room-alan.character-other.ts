@@ -6,4 +6,5 @@ export const dateNightTheReadingRoomAlan = {
   slug: "date-night-the-reading-room-alan",
   title: "Alan",
   story: "story-written/date-night-the-reading-room",
+  place: "place/date-night-the-reading-room-the-reading-room",
 } as const satisfies CharacterOther
