@@ -4,13 +4,14 @@ export const overwhereIv00083 = {
   id: "01a0ff59-4a05-7cf1-972a-611bf3ecdfe2",
   type: "page-type/story-turn-played",
   slug: "overwhere-iv-00-083",
+  cover: "image/image-28a35bb0bffbfcdc",
   ownLength: 201,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iv"],
   position: 83,
   prose: "txt",
   characters: ["character-player/overwhere-iv-nala"],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action:
     "I wait until they are in range and then strike each of the hobs, aiming a slice directly across their eyes, to blind them even if it doesn’t kill outright.",
   beats: [
@@ -30,12 +31,19 @@ export const overwhereIv00083 = {
     "Then it lurches forward, toward the sound of Tull's sheep, toward the fold.",
   ],
   lore: [
+    "lore/overwhere-iv-brookside-four",
     "lore/overwhere-iv-nala",
     "lore/overwhere-iv-nala-2",
     "lore/overwhere-iv-nala-3",
     "lore/overwhere-iv-the-tangle-2",
   ],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/mechanics", "story-recorder/memory"],
+  recordedBy: [
+    "story-recorder/inventory",
+    "story-recorder/mechanics",
+    "story-recorder/memory",
+    "story-recorder/picture",
+  ],
   endsAt: "2026-10-06T23:58:00.000Z",
+  coverAfter: "Then it lurches forward, toward the sound of Tull's sheep. Toward the fold.",
 } as const satisfies StoryTurnPlayed
