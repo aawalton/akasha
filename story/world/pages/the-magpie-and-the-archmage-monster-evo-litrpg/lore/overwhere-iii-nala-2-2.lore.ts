@@ -124,5 +124,9 @@ export const overwhereIiiNala22 = {
         "character-other/overwhere-iii-mother-sallow",
       ],
     },
+    {
+      fact: "A fourth wolf bite on day ten left Nala with blight creeping in four bites.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+    },
   ],
 } as const satisfies Lore
