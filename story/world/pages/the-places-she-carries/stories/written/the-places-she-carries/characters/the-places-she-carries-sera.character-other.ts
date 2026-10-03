@@ -6,4 +6,5 @@ export const thePlacesSheCarriesSera = {
   slug: "the-places-she-carries-sera",
   title: "Sera",
   story: "story-written/the-places-she-carries",
+  place: "place/the-places-she-carries-millhaven",
 } as const satisfies CharacterOther
