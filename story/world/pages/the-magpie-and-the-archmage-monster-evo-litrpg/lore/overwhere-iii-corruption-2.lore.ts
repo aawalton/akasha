@@ -153,5 +153,9 @@ export const overwhereIiiCorruption2 = {
       fact: "Each blighted stump by Edda's kilns holds blight like a wound; one pull draws it into a seed stone.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "About a dozen blighted stumps crowd Edda's kilns.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
