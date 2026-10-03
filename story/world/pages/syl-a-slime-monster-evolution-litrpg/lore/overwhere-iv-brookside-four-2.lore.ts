@@ -326,5 +326,9 @@ export const overwhereIvBrooksideFour2 = {
         "lore/overwhere-iv-brookside-four",
       ],
     },
+    {
+      fact: "At the ford Dace means Merrit to fire into goblins bunched midstream, then all rise from the wall.",
+      knowers: ["lore-disclosure/game-master", "lore/overwhere-iv-brookside-four"],
+    },
   ],
 } as const satisfies Lore
