@@ -28,5 +28,6 @@ export const overwhereI00104 = {
     'Ilse folds her inky hands on the counter. "So. Plain, second pearl, well-stone, or both?"',
   ],
   lore: ["lore/overwhere-i-nala", "lore/overwhere-i-nala-2", "lore/overwhere-i-wendlow-2"],
+  reviewedBy: ["story-reviewer/continuity"],
   endsAt: "2026-10-05T13:10:00.000Z",
 } as const satisfies StoryTurnPlayed
