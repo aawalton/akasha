@@ -24,5 +24,13 @@ export const overwhereIiiBrannaghTull22 = {
         "character-player/overwhere-iii-nala",
       ],
     },
+    {
+      fact: "Three Mending Weaves smoothed the drover's old forearm burn on day twelve; the first dragged.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iii-nala",
+        "character-other/overwhere-iii-brannagh-tull",
+      ],
+    },
   ],
 } as const satisfies Lore
