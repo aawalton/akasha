@@ -4,13 +4,14 @@ export const hollowmere0034Bend = {
   id: "01a10230-5b25-78f1-b0bd-2828075bc234",
   type: "page-type/story-chapter-written",
   slug: "hollowmere-0034-bend",
+  cover: "image/image-6fb1192dcac66520",
   position: 34,
   unit: "unit/words",
   title: "Bend",
   story: "story-written/hollowmere",
   ownLength: 7392,
   prose: "txt",
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   beats: [
     "Saturday of week five: the Fell Cup. Bea is up at five, white-faced, and eats one dry toast.",
     'You make her breathe out, twice. She holds your ringed hand. "Jetty wall," she says. "Shouting."',
@@ -125,5 +126,42 @@ export const hollowmere0034Bend = {
     "character-other/hollowmere-yusra",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/mechanics", "story-recorder/memory"],
+  recordedBy: [
+    "story-recorder/inventory",
+    "story-recorder/mechanics",
+    "story-recorder/memory",
+    "story-recorder/picture",
+  ],
+  scenes: [
+    "image/image-6fb1192dcac66520",
+    "image/image-396ecc7300476f44",
+    "image/image-639924c0eda8d596",
+    "image/image-0f12a1a6e5bb58f1",
+  ],
+  pictured: [
+    {
+      cover: "image/image-6fb1192dcac66520",
+      coverAfter: "You hear her before you're properly awake: the creak of the boards in 15,",
+      character: "character-other/hollowmere-bea",
+      outfit:
+        "green Thornfield rowing sweatshirt over a white vest, black leggings, hair scraped back",
+    },
+    {
+      cover: "image/image-396ecc7300476f44",
+      coverAfter: "Lin has her sketchbook on her arm, drawing Kit's red ear. Priya and Amara",
+      character: "character-other/hollowmere-priya",
+      outfit: "bright yellow bobble hat and a winter coat",
+    },
+    {
+      cover: "image/image-639924c0eda8d596",
+      coverAfter: "On the far shore, where the path comes out of the alders, there's an old",
+      setting: "the fallen oak on the far shore",
+    },
+    {
+      cover: "image/image-0f12a1a6e5bb58f1",
+      coverAfter: "Shiv is on the bench by the jukebox with her bedsheet round her shoulders",
+      character: "character-other/hollowmere-shiv",
+      outfit: "green-painted bedsheet worn as a cloak over a grey hoodie",
+    },
+  ],
 } as const satisfies StoryChapterWritten
