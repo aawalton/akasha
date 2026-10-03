@@ -171,5 +171,9 @@ export const overwhereIHobbsMillWeir = {
       fact: "Tam Hobb answers knocks only through his barred door, and will not come out while the wyrm lives.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "From the towpath bend down to Hobb's landing is a three-minute walk.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Place
