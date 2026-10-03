@@ -10,4 +10,5 @@ export const anthology0002Aelwyn = {
   ownLength: 4633,
   unit: "unit/words",
   prose: "txt",
+  beats: "jsonl",
 } as const satisfies StoryChapterWritten
