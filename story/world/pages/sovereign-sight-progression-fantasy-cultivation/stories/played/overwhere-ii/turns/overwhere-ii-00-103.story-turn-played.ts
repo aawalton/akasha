@@ -4,10 +4,13 @@ export const overwhereIi00103 = {
   id: "01a10178-e37f-75ee-8af5-caefff0e50e3",
   type: "page-type/story-turn-played",
   slug: "overwhere-ii-00-103",
+  ownLength: 193,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-ii"],
   position: 103,
-  stepStatus: "step-status/writer",
+  prose: "txt",
+  characters: ["character-player/overwhere-ii-nala"],
+  stepStatus: "step-status/reviewers",
   action: "“Food and water, then up to the pool”",
   beats: [
     'Nala: "Food and water, then up to the pool."',
@@ -25,6 +28,11 @@ export const overwhereIi00103 = {
     "Hawise stops well back from the water. \"That's not a pool. That's a mouth.\"",
     "Through her heels Nala feels the crag's deep tug swell with the water, and ease with it.",
   ],
-  lore: ["place/overwhere-ii-whitecombs"],
+  lore: [
+    "lore/overwhere-ii-nala",
+    "lore/overwhere-ii-nala-2",
+    "lore/overwhere-ii-nala-3",
+    "place/overwhere-ii-whitecombs",
+  ],
   endsAt: "2026-10-26T10:00:00.000Z",
 } as const satisfies StoryTurnPlayed
