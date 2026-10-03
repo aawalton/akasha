@@ -302,6 +302,10 @@ export const overwhereIiiMerrowgateGuildPost = {
         "character-player/overwhere-iii-nala",
       ],
     },
+    {
+      fact: "Day ten's night at the post passes quiet; the watch's boots pass the door each hour.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place
