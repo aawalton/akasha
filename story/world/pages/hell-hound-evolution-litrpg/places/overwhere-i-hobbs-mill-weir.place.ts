@@ -157,7 +157,7 @@ export const overwhereIHobbsMillWeir = {
     },
     {
       fact: "Jory warns her off the pool's edge: the wyrm took a miller's dog from the bank a week back.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
     {
       fact: "Jory says the holed barge is the Heron, stove in at dawn a week ago; her crew swam clear.",
