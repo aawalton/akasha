@@ -184,5 +184,9 @@ export const overwhereIWendlow2 = {
       fact: "Ilse's second pearl costs 7 gold, setting included, and adds a day to the ring.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Ilse can set a well-stone in the band for 20 gold; it adds three days to the ring.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
