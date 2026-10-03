@@ -1,0 +1,74 @@
+{"beat":1,"event":"A caravan camps two miles from the entrance; over seven days five of its people go in.","place":"place/the-dungeon-of-one-thousand-deaths-the-camp","present":["character-other/the-dungeon-of-one-thousand-deaths-osren"]}
+{"beat":2,"event":"Osren starts a new page; it will be full before the week is done."}
+{"beat":3,"event":"Bren Olat, a carter, said at the caravan fire he would go and look at the dungeon."}
+{"beat":4,"event":"He reads the wall: the deepest anyone has gone is Depth 4. I could do that.","arrive":["character-other/the-dungeon-of-one-thousand-deaths-bren-olat"]}
+{"beat":5,"event":"Osren tries to brief him; he hears three sentences of it."}
+{"beat":6,"event":"He goes in thinking it's just a cave, sure of himself after twenty years of moving loads.","place":"place/the-dungeon-of-one-thousand-deaths-the-gullet","present":["character-other/the-dungeon-of-one-thousand-deaths-bren-olat"]}
+{"beat":7,"event":"The Ledger: Depth 2, the Marrow Warrens, Resolve +1, now 14.","place":"place/the-dungeon-of-one-thousand-deaths-the-marrow-warrens","changes":[{"page":"metric-character-stat/the-dungeon-of-one-thousand-deaths-bren-olat-resolve","key":"value","from":13,"to":14,"note":"Depth transition into the Warrens, Resolve +1, now 14"}]}
+{"beat":8,"event":"The Ledger names him The Drive, with the Gift Momentum: things that can be moved, move."}
+{"beat":9,"event":"Its Cost is Direction: he cannot stop between junctions once he has chosen."}
+{"beat":10,"event":"The Ledger reads Vitality 19, Resolve 14, Attunement 6, Fortune 10; he believes he dared himself."}
+{"beat":11,"event":"At seven junctions he takes what looks like the main corridor; the Warrens are not a city."}
+{"beat":12,"event":"At the eighth he chooses wrong, and Momentum carries him into a sealing dead end."}
+{"beat":13,"event":"Eleven minutes from entry, the parasites; he shouts back at the junction, angry at himself.","changes":[{"page":"metric-character-stat/the-dungeon-of-one-thousand-deaths-bren-olat-vitality","key":"value","from":19,"to":0,"note":"Bren Olat dies to the bone parasites, Vitality to 0"}]}
+{"beat":14,"event":"No crystal: the sound was outward. The fastest death in the Warrens on record."}
+{"beat":15,"event":"Solla Dray, a factor's clerk, notes Bren Olat entering at the 6th hour, unreturned at the 7th.","place":"place/the-dungeon-of-one-thousand-deaths-the-camp","present":["character-other/the-dungeon-of-one-thousand-deaths-osren","character-other/the-dungeon-of-one-thousand-deaths-solla-dray"]}
+{"beat":16,"event":"At the 8th hour she enters to verify what she was told of the wall's notation.","place":"place/the-dungeon-of-one-thousand-deaths-the-gullet","present":["character-other/the-dungeon-of-one-thousand-deaths-solla-dray"]}
+{"beat":17,"event":"The Ledger: Depth 2, Resolve +1, now 22.","place":"place/the-dungeon-of-one-thousand-deaths-the-marrow-warrens","changes":[{"page":"metric-character-stat/the-dungeon-of-one-thousand-deaths-solla-dray-resolve","key":"value","from":21,"to":22,"note":"Depth transition into the Warrens, Resolve +1, now 22"}]}
+{"beat":18,"event":"The Ledger names her The Record, with True Notation: what she writes there is true; the passage holds."}
+{"beat":19,"event":"Its Cost is The Open Hand: she cannot fight; her hands are for writing."}
+{"beat":20,"event":"The Ledger reads Vitality 12, Resolve 22, Attunement 8, Fortune 15."}
+{"beat":21,"event":"She writes her position as the passages shift, and goes further than any of the wave."}
+{"beat":22,"event":"At passage 23 she reads a surveyor's charcoal: made by someone who knew what they were doing."}
+{"beat":23,"event":"While she writes, passage 23 seals: her Gift held the junction she stood in, not the passage."}
+{"beat":24,"event":"She writes: Passage 23 sealed. Dead end. Bone parasites."}
+{"beat":25,"event":"She keeps writing; the parasites reach her hands last.","changes":[{"page":"metric-character-stat/the-dungeon-of-one-thousand-deaths-solla-dray-vitality","key":"value","from":12,"to":0,"note":"Solla Dray dies to the bone parasites at passage 23, Vitality to 0"}]}
+{"beat":26,"event":"Her notebook is open in her apron pocket at the last entry; her crystal is grey: duty."}
+{"beat":27,"event":"Ines Maret states no purpose; she asks whether the census goes back further than the book.","place":"place/the-dungeon-of-one-thousand-deaths-the-camp","present":["character-other/the-dungeon-of-one-thousand-deaths-osren","character-other/the-dungeon-of-one-thousand-deaths-ines-maret"]}
+{"beat":28,"event":"It began with Death #1; her brother went in seven years ago at twenty-one, unrecorded."}
+{"beat":29,"event":"She goes in, looking not for him but for the place that took him.","place":"place/the-dungeon-of-one-thousand-deaths-the-gullet","present":["character-other/the-dungeon-of-one-thousand-deaths-ines-maret"]}
+{"beat":30,"event":"The Ledger: Depth 2, Resolve +1, now 17.","place":"place/the-dungeon-of-one-thousand-deaths-the-marrow-warrens","changes":[{"page":"metric-character-stat/the-dungeon-of-one-thousand-deaths-ines-maret-resolve","key":"value","from":16,"to":17,"note":"Depth transition into the Warrens, Resolve +1, now 17"}]}
+{"beat":31,"event":"The Ledger names her The Search, with the Gift Echo: the last voice spoken in any space."}
+{"beat":32,"event":"Its Cost is Displacement: past and present sound are equally present."}
+{"beat":33,"event":"The Ledger reads Vitality 14, Resolve 17, Attunement 11, Fortune 13."}
+{"beat":34,"event":"At the first junction she hears a man's voice, months old: not her brother's."}
+{"beat":35,"event":"Junction after junction, a woman counting, a sharp breath; she listens for one voice."}
+{"beat":36,"event":"After thirty-seven minutes she reaches a dead end at passage 31, deeper than the others."}
+{"beat":37,"event":"The voice there is her own, seven minutes younger, still going the right way."}
+{"beat":38,"event":"The bone parasites find her while she listens.","changes":[{"page":"metric-character-stat/the-dungeon-of-one-thousand-deaths-ines-maret-vitality","key":"value","from":14,"to":0,"note":"Ines Maret dies to the bone parasites at passage 31, Vitality to 0"}]}
+{"beat":39,"event":"Her crystal is blue: grief for the expecting that remained despite not expecting."}
+{"beat":40,"event":"Cade, eleven, heard the adults say the dungeon tells you what you are."}
+{"beat":41,"event":"In mid-afternoon he reads the wall, lips moving; Osren stands: \"You can't go in.\"","place":"place/the-dungeon-of-one-thousand-deaths-the-opening","present":["character-other/the-dungeon-of-one-thousand-deaths-cade","character-other/the-dungeon-of-one-thousand-deaths-osren"]}
+{"beat":42,"event":"\"The wall doesn't say anything about that.\" \"The wall doesn't say everything.\""}
+{"beat":43,"event":"While Osren weighs barring the way, Cade goes in.","place":"place/the-dungeon-of-one-thousand-deaths-the-gullet","present":["character-other/the-dungeon-of-one-thousand-deaths-cade"]}
+{"beat":44,"event":"The Ledger: Depth 2, Resolve +1, now 9.","place":"place/the-dungeon-of-one-thousand-deaths-the-marrow-warrens","changes":[{"page":"metric-character-stat/the-dungeon-of-one-thousand-deaths-cade-resolve","key":"value","from":8,"to":9,"note":"Depth transition into the Warrens, Resolve +1, now 9"}]}
+{"beat":45,"event":"The Ledger names him The Question, with the Gift Asking: one question, answered honestly."}
+{"beat":46,"event":"Vitality 8, Resolve 9, Attunement 3, Fortune 12; voluntary. The Maw makes a category: First."}
+{"beat":47,"event":"He asks the dungeon: What am I? The dungeon answers."}
+{"beat":48,"event":"The answer takes four minutes; he sits three more, then turns back toward the Gullet."}
+{"beat":49,"event":"The Warrens have shifted: three wrong turns, and the fourth is a dead end."}
+{"beat":50,"event":"The parasites are there; with Vitality 8 he has no time to be afraid.","changes":[{"page":"metric-character-stat/the-dungeon-of-one-thousand-deaths-cade-vitality","key":"value","from":8,"to":0,"note":"Cade dies to the bone parasites, Vitality 8 to 0"}]}
+{"beat":51,"event":"His crystal is white: whatever the dungeon told him was true, and enough."}
+{"beat":52,"event":"The Maw cannot report its answer, and will keep asking whether honest was sufficient."}
+{"beat":53,"event":"Devash Kor, a priest of thirty-one years, comes to perform the rites for endings."}
+{"beat":54,"event":"At dawn of the seventh day he speaks the twenty-two names he knows in the Gullet, for forty minutes.","place":"place/the-dungeon-of-one-thousand-deaths-the-gullet","present":["character-other/the-dungeon-of-one-thousand-deaths-devash-kor"]}
+{"beat":55,"event":"The Ledger: Depth 2, Resolve +1, now 21.","place":"place/the-dungeon-of-one-thousand-deaths-the-marrow-warrens","changes":[{"page":"metric-character-stat/the-dungeon-of-one-thousand-deaths-devash-kor-resolve","key":"value","from":20,"to":21,"note":"Depth transition into the Warrens, Resolve +1, now 21"}]}
+{"beat":56,"event":"The Ledger names him The Office, with Last Rites: names spoken where they died are received."}
+{"beat":57,"event":"Its Cost is The Weight of Names: each costs him something the Ledger does not track."}
+{"beat":58,"event":"The Ledger reads Vitality 13, Resolve 21, Attunement 10, Fortune 16."}
+{"beat":59,"event":"He speaks no names on the way, saving them for the places they apply."}
+{"beat":60,"event":"At passage 23 he speaks Lessa Orvane's name, and the Ledger writes: acknowledged."}
+{"beat":61,"event":"He speaks Maren Voss, Maret Dunn, and the Scribe's name from the wall."}
+{"beat":62,"event":"Then the week's four: Bren Olat, Solla Dray, Ines Maret, Cade."}
+{"beat":63,"event":"The parasites emerge mid-name; he finishes the name first."}
+{"beat":64,"event":"He has never spoken his own name in a rite; that is for someone else.","changes":[{"page":"metric-character-stat/the-dungeon-of-one-thousand-deaths-devash-kor-vitality","key":"value","from":13,"to":0,"note":"Devash Kor dies to the bone parasites, Vitality to 0"}]}
+{"beat":65,"event":"His crystal is gold, love of the work; nine names are now received."}
+{"beat":66,"event":"The Ledger notes: five in seven days, a proximity, not a group."}
+{"beat":67,"event":"The dungeon made the route that brought the caravan: causation too far off to recognise."}
+{"beat":68,"event":"At camp Osren opens a new page with the count written at the top.","place":"place/the-dungeon-of-one-thousand-deaths-the-camp","present":["character-other/the-dungeon-of-one-thousand-deaths-osren"]}
+{"beat":69,"event":"He needs a third effects box; twenty-eight names, the five newest still warm."}
+{"beat":70,"event":"He thinks of Cade: I should have stopped him. He would have gone regardless."}
+{"beat":71,"event":"He writes: child, Cade, white crystal, fourteen seconds. The wall doesn't say everything."}
+{"beat":72,"event":"972 remain."}
+{"beat":73,"event":"BREN OLAT — FIRST THROUGH. SOLLA DRAY — LAST RECORD. INES MARET — STILL SEARCHING."}
+{"beat":74,"event":"CADE — THE ANSWER. DEVASH KOR — NAMES RECEIVED."}
