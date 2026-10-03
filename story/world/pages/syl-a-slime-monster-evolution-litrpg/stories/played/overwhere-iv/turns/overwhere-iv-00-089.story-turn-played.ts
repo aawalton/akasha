@@ -10,7 +10,7 @@ export const overwhereIv00089 = {
   position: 89,
   prose: "txt",
   characters: ["character-player/overwhere-iv-nala"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/recorders",
   action: "I slice the horn blower, then the runner, heads off at the neck",
   beats: [
     "Nala fixes her eye on the horn-blower's neck and lays the line before its breath is drawn.",
@@ -31,6 +31,6 @@ export const overwhereIv00089 = {
     "lore/overwhere-iv-the-tangle-2",
     "lore/overwhere-iv-the-tangle-2-2",
   ],
-  reviewedBy: ["story-reviewer/continuity"],
+  reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
   endsAt: "2026-10-07T10:51:00.000Z",
 } as const satisfies StoryTurnPlayed
