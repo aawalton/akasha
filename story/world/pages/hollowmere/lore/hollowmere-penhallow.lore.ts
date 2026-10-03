@@ -164,5 +164,18 @@ export const hollowmerePenhallow = {
         "character-other/hollowmere-shiv",
       ],
     },
+    {
+      fact: "Penhallow's week-four essay asks: what does a ward keep out, and what does it keep in? Due Friday.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-penhallow",
+        "character-other/hollowmere-kit",
+        "character-other/hollowmere-amara",
+        "character-other/hollowmere-priya",
+        "character-other/hollowmere-shiv",
+        "character-other/hollowmere-lin",
+      ],
+    },
   ],
 } as const satisfies Lore

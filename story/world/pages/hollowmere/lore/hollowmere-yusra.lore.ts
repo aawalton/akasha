@@ -255,6 +255,10 @@ export const hollowmereYusra = {
         "character-other/hollowmere-yusra",
       ],
     },
+    {
+      fact: "Yusra has not slept a whole night since, and hides it under work.",
+      knowers: ["lore-disclosure/game-master", "character-player/hollowmere-nala"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
