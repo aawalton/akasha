@@ -4,6 +4,7 @@ export const overwhereIv00079 = {
   id: "01a0ff0a-ed06-7393-a8a7-aedff64ad485",
   type: "page-type/story-turn-played",
   slug: "overwhere-iv-00-079",
+  cover: "image/image-5e635ce4aeeb09b6",
   ownLength: 158,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iv"],
@@ -32,6 +33,7 @@ export const overwhereIv00079 = {
     "place/overwhere-iv-tull-farm",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/memory"],
+  recordedBy: ["story-recorder/inventory", "story-recorder/memory", "story-recorder/picture"],
   endsAt: "2026-10-06T21:47:00.000Z",
+  coverAfter: "In the fold, a little flame blooms in a raised hand, and turns",
 } as const satisfies StoryTurnPlayed
