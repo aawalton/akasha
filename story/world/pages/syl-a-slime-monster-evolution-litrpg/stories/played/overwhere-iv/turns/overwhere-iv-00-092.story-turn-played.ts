@@ -7,7 +7,12 @@ export const overwhereIv00092 = {
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iv"],
   position: 92,
-  stepStatus: "step-status/world-builder",
+  stepStatus: "step-status/game-master",
   action:
     "“Leave that to me.” The next day, we go and find the right place for the ambush, then I move quietly toward the camp, senses wide so I see the goblins before they see me.",
+  lore: [
+    "lore/overwhere-iv-the-tangle-2",
+    "lore/overwhere-iv-the-tangle-2-2",
+    "place/overwhere-iv-tull-farm",
+  ],
 } as const satisfies StoryTurnPlayed
