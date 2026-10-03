@@ -12,5 +12,9 @@ export const overwhereIHobbsMillWeir2 = {
       fact: "Nala found the wyrm's bile sac whole, but her blade slipped cutting it free; it burst, worthless.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
+    {
+      fact: "The burst wyrm bile stung Nala's wrists and forearms like nettles.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+    },
   ],
 } as const satisfies Lore
