@@ -57,6 +57,14 @@ export const overwhereIiVarrowKeep = {
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
+      fact: "The lower court is flagged stone, frosted at dawn, with a water trough by the stable.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Rainwater lies in hollows of the worn flags around the lower court's well.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
       fact: "The Keep's well is in its lower court, deep and cold, fed from the crag's spring.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
