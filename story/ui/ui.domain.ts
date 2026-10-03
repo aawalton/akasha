@@ -36,6 +36,7 @@ export const ui = {
     "module/story-chapters",
     "module/character-cover-panel",
     "module/player-character-panel",
+    "module/player-intent-panel",
     "module/scene-cover-panel",
     "module/inline-cover",
     "module/cover-viewing",

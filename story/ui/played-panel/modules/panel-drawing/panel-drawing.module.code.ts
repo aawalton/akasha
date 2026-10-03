@@ -26,6 +26,8 @@ export type PanelRun = {
   readonly turnCovers: readonly PlayedTurnCover[]
   readonly coversAreScenes?: boolean | undefined
   readonly player: string
+  readonly storyAddress: string
+  readonly intent: string
   readonly beats: readonly ClientBeat[] | null | undefined
   readonly earlier: number
   readonly pastTurns: ChapterProsePastTurns | undefined

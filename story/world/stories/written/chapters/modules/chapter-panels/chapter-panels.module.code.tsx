@@ -347,13 +347,15 @@ function StoryAside({
       turnCovers: chapterCoversOf(chapter),
       coversAreScenes: chapter.scenes.length > 0,
       player,
+      storyAddress,
+      intent: textIn(storyRow?.playerIntent),
       beats: undefined,
       earlier: 0,
       pastTurns: undefined,
       gameExternalId: undefined,
       submitPlayerAction: undefined,
     }),
-    [clock, turns, pageTypeSlug, chapter, player]
+    [clock, turns, pageTypeSlug, chapter, player, storyAddress, storyRow?.playerIntent]
   )
   const ready = held !== null && !stories.isLoading && !characters.isLoading
   useEffect(() => {

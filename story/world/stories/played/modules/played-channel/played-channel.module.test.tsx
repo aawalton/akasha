@@ -22,6 +22,8 @@ const runOf = (turns: readonly ClientStoryTurn[]): PanelRun => ({
   turns,
   turnCovers: [],
   player: "",
+  storyAddress: "story-played/a-story",
+  intent: "",
   beats: undefined,
   earlier: 0,
   pastTurns: undefined,

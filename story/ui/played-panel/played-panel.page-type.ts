@@ -24,6 +24,7 @@ export const playedPanel = {
     "played-panel/time",
     "played-panel/tower-player-character",
     "played-panel/player-character",
+    "played-panel/player-intent",
     "played-panel/otherwhere-the-library-player-character",
     "played-panel/other-characters",
     "played-panel/otherwhere-the-library-map",

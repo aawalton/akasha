@@ -318,13 +318,26 @@ function PlayedStory({
       turns: envelope.chapterProse ?? [],
       turnCovers,
       player,
+      storyAddress,
+      intent: textIn(data.playerIntent),
       beats: undefined,
       earlier: tail.earlier,
       pastTurns: undefined,
       gameExternalId: externalId,
       submitPlayerAction: coordinatorAgent === undefined ? undefined : sendAction,
     }),
-    [clock, upcoming, envelope, turnCovers, player, tail, externalId, coordinatorAgent]
+    [
+      clock,
+      upcoming,
+      envelope,
+      turnCovers,
+      player,
+      storyAddress,
+      data.playerIntent,
+      tail,
+      externalId,
+      coordinatorAgent,
+    ]
   )
 
   if (chapters.isLoading || turns.isLoading) return null
