@@ -18,7 +18,11 @@ export const overwhereIiiBrannaghTull22 = {
     },
     {
       fact: "The drover pays Brannagh's 10 copper and leaves a twist of salt beef on the counter for the healer.",
-      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-brannagh-tull"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/overwhere-iii-brannagh-tull",
+        "character-player/overwhere-iii-nala",
+      ],
     },
   ],
 } as const satisfies Lore
