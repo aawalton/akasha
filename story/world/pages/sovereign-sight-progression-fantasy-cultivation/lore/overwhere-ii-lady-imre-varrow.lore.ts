@@ -176,6 +176,18 @@ export const overwhereIiLadyImreVarrow = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
+      fact: "On the morning of day twenty-seven a rider from Callow Beck brings Ebba Callow's word to the Keep.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Lady Varrow summons Nala that morning, her first summons: go to Callow Beck and hold it.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Lady Varrow sends Hawise with Nala on the first summons, and pays the bar when Nala returns.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
       fact: "She asks to look at Nala through her glass from the Spires, and does not say what she hopes to see.",
       knowers: ["lore-disclosure/game-master"],
     },
