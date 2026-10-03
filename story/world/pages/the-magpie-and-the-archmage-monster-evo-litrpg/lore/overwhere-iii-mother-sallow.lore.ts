@@ -36,6 +36,10 @@ export const overwhereIiiMotherSallow = {
       fact: "She is forty, not sixty; an illusion charm on a bone ring ages her face and hides her aura.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "She fights with blight bolts, a rot mist that saps strength, and two corrupted wolves at heel.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
