@@ -9,7 +9,7 @@ export const overwhereIHobbsMillWeir = {
   facts: [
     {
       fact: "A flat towpath runs the Wend's east bank from Wendlow to Hobb's Mill, under willows.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
     {
       fact: "Hobb's weir is a slanting stone apron 60 yards across the Wend; the mill sits at its east end.",
