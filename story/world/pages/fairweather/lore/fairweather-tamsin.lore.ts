@@ -94,6 +94,10 @@ export const fairweatherTamsin = {
       fact: "Tamsin has a bunk at a lodging house by the docks.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Tamsin has been to the Glasswood's edge a dozen times, and past the white posts twice.",
+      knowers: ["lore-disclosure/game-master", "character-other/fairweather-tamsin"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
