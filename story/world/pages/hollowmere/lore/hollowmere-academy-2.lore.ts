@@ -285,5 +285,24 @@ export const hollowmereAcademy2 = {
         "character-other/hollowmere-lin",
       ],
     },
+    {
+      fact: "The Fell Cup starts at ten off the boathouse to a dropped flag; the cup itself is old dented pewter.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/hollowmere-bea",
+        "character-other/hollowmere-morwenna",
+        "character-player/hollowmere-nala",
+      ],
+    },
+    {
+      fact: "For the Fell Cup half the academy lines the shore path, and the village crowds the jetty wall.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/hollowmere-bea",
+        "character-other/hollowmere-morwenna",
+        "character-other/hollowmere-yusra",
+        "character-other/hollowmere-shiv",
+      ],
+    },
   ],
 } as const satisfies Lore
