@@ -10,7 +10,7 @@ export const overwhereIii00097 = {
   position: 97,
   prose: "txt",
   characters: ["character-player/overwhere-iii-nala"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/game-master",
   action: "I pull a knot of currents onto its head to finish it off",
   beats: [
     "Nala reaches for every raw current within reach and drags them toward the boar's head.",
@@ -22,7 +22,10 @@ export const overwhereIii00097 = {
     "The boar's momentum carries it past. It skids, wheels round in the brambles, and faces her again.",
     "It stands five paces off, snorting blood, tusks low.",
   ],
-  issues: ['"It stands five paces off, snorting blood, tusks low." - No Prompt'],
+  issues: [
+    '"It stands five paces off, snorting blood, tusks low." - No Prompt',
+    '"Brook-blue, earth-brown and frost-white" - currents above the ford are blue, green and yellow',
+  ],
   lore: [
     "lore/overwhere-iii-corruption-2",
     "lore/overwhere-iii-nala",
@@ -31,6 +34,6 @@ export const overwhereIii00097 = {
     "place/overwhere-iii-merrowgate-guild-post",
     "place/overwhere-iii-wrenwood",
   ],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
   endsAt: "2026-10-10T14:19:00.000Z",
 } as const satisfies StoryTurnPlayed
