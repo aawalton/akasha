@@ -10,7 +10,7 @@ export const overwhereIi00104 = {
   position: 104,
   prose: "txt",
   characters: ["character-player/overwhere-ii-nala"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/recorders",
   action: "“One step at a time. Help me build a dam across the channel. Keep the run-off back.”",
   beats: [
     'Nala: "One step at a time. Help me build a dam across the channel. Keep the run-off back."',
@@ -33,6 +33,6 @@ export const overwhereIi00104 = {
     "lore/overwhere-ii-nala-3",
     "place/overwhere-ii-whitecombs",
   ],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
   endsAt: "2026-10-26T11:05:00.000Z",
 } as const satisfies StoryTurnPlayed
