@@ -13,7 +13,7 @@ export const overwhereIiMaudAshby = {
     },
     {
       fact: "Maud is small and stout, silver hair cropped short, weathered face, sharp blue eyes.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "She wears Threll's orange robes with the sleeve bells tied silent for the road, and rides a mule.",
