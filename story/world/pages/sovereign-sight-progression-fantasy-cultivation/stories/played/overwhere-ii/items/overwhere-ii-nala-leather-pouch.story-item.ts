@@ -7,5 +7,6 @@ export const overwhereIiNalaLeatherPouch = {
   title: "Leather Pouch",
   story: "story-played/overwhere-ii",
   character: "character-player/overwhere-ii-nala",
-  description: "A small drawstring pouch of soft brown leather, big enough for a handful of coin.",
+  description:
+    "A small drawstring pouch of soft brown leather, big enough for a handful of coin, stained grey and salt-stiff in one spot.",
 } as const satisfies StoryItem
