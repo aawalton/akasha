@@ -4,10 +4,13 @@ export const overwhereI00107 = {
   id: "01a1016b-1171-7b77-935d-bcd612bb58f1",
   type: "page-type/story-turn-played",
   slug: "overwhere-i-00-107",
+  ownLength: 414,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-i"],
   position: 107,
-  stepStatus: "step-status/writer",
+  prose: "txt",
+  characters: ["character-player/overwhere-i-nala"],
+  stepStatus: "step-status/reviewers",
   action:
     "“Deal! How do I find the bile sac?” After getting instructions I go to the inn for a bath, a meal, and an early bed.",
   beats: [
@@ -25,6 +28,6 @@ export const overwhereI00107 = {
     "Nala climbs to a clean room, shoots the bolt, and sleeps early and deep.",
     "She wakes rested at first light on day eight, mouth dry, and swings her feet onto cold boards.",
   ],
-  lore: ["lore/overwhere-i-wendlow-2"],
+  lore: ["lore/overwhere-i-nala", "lore/overwhere-i-nala-2", "lore/overwhere-i-wendlow-2"],
   endsAt: "2026-10-06T06:00:00.000Z",
 } as const satisfies StoryTurnPlayed
