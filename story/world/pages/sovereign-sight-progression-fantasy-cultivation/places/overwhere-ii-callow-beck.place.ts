@@ -138,7 +138,7 @@ export const overwhereIiCallowBeck = {
     },
     {
       fact: "Scattered, the Warped ewes circle back to the slick, and charge again from it.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Ebba will take Wat and the boys down to the Ford if the way past the slick is cleared.",
