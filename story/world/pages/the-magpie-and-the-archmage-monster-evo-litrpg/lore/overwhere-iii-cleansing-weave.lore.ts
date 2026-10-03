@@ -112,5 +112,9 @@ export const overwhereIiiCleansingWeave = {
       fact: "Blight in a fresh carcass pulls out like a bite's and clots into a seed stone.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
+    {
+      fact: "She can pull blight from her own wounds as from anyone's; each pull costs its mana and its ache.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
