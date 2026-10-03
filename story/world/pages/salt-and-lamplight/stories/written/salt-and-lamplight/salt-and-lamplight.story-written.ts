@@ -10,6 +10,6 @@ export const saltAndLamplight = {
   unit: "unit/words",
   chapterBreak: "A day ends, or something between Nala and the keeper turns.",
   coordinatorAgent: "mari-game-master-salt-and-lamplight",
-  following: true,
+  following: false,
   panels: ["played-panel/player-character", "played-panel/scene-cover"],
 } as const satisfies StoryWritten
