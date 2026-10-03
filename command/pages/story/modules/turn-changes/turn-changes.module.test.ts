@@ -5,6 +5,7 @@ import {
   beatsBodyOf,
   cacheNamed,
   changesChecked,
+  placedAmong,
 } from "akasha/command/pages/story/modules/turn-changes/turn-changes.module.code.ts"
 import { beatsHeld } from "akasha/command/pages/story/modules/turn-scenes/turn-scenes.module.code.ts"
 import type { Reading } from "akasha/story/engine/beat-state/modules/beat-changes/beat-changes.module.code.ts"
@@ -170,6 +171,42 @@ test("a change appending to a key held in a file beside its page appends a line 
   const set = { beat: 22, page: PURSE, key: "history", from: null, to: [], note: "Purse set" }
   const setting = { ...handed, changes: [set] }
   expect(changesChecked(FILED, heldAt("mechanics"), setting)).toContain("appends a line")
+})
+
+const FAIRWEATHER = "story/world/pages/fairweather/stories/written/fairweather"
+
+const OTHERWHERE = "story/world/pages/god-of-trash/stories/played/otherwhere-vii"
+
+const STORIES = [FAIRWEATHER, OTHERWHERE]
+
+test("a page a change makes sits where pages of its kind sit under the story, never the generic folder", () => {
+  const bond = "world-relationship/fairweather-elsie-tamsin"
+  const elsewhere = [
+    `${OTHERWHERE}/mechanics/relationships/otherwhere-vii-ennis.world-relationship.ts`,
+    `${OTHERWHERE}/mechanics/relationships/otherwhere-vii-hild.world-relationship.ts`,
+    "story/world/mechanics/relationships/pages/stray/stray.world-relationship.ts",
+  ]
+  expect(placedAmong(bond, elsewhere, STORIES, FAIRWEATHER)).toBe(
+    `${FAIRWEATHER}/mechanics/relationships/fairweather-elsie-tamsin.world-relationship.ts`
+  )
+  const own = [...elsewhere, `${FAIRWEATHER}/bonds/fairweather-elsie-cora.world-relationship.ts`]
+  expect(placedAmong(bond, own, STORIES, FAIRWEATHER)).toBe(
+    `${FAIRWEATHER}/bonds/fairweather-elsie-tamsin.world-relationship.ts`
+  )
+  const foldered = [`${OTHERWHERE}/quests/q-one/q-one.story-quest.ts`]
+  expect(placedAmong("story-quest/fw-hunt", foldered, STORIES, FAIRWEATHER)).toBe(
+    `${FAIRWEATHER}/quests/fw-hunt/fw-hunt.story-quest.ts`
+  )
+  expect(placedAmong("story-quest/fw-hunt", [], STORIES, FAIRWEATHER)).toBe(
+    `${FAIRWEATHER}/story-quest/fw-hunt.story-quest.ts`
+  )
+})
+
+test("the move to player names the place a made page lands at", () => {
+  const made = { beat: 1, page: PURSE, make: { value: 5 }, note: "Elsie opens a purse" }
+  const held = heldAt("recorders", { changes: [made] })
+  const placed = cacheNamed(READING, held, "player", () => "stories/saga/purses/elsie.ts")
+  expect("namings" in placed && placed.namings[0]?.path).toBe("stories/saga/purses/elsie.ts")
 })
 
 test("a page made with lines for a key held beside it is written with that file", () => {

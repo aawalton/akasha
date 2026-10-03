@@ -6,7 +6,10 @@ import {
   ENTRY_PROPERTY,
   filePropertiesAt,
 } from "akasha/page/index/modules/entries/index-entries.module.code.ts"
-import { listedAt } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
+import {
+  everyOfType,
+  listedAt,
+} from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import { exportedAs } from "akasha/page/modules/export-name/page-export-name.module.code.ts"
 import { besideAt } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
 import { valueAt } from "akasha/page/modules/value/page-value.module.code.ts"
@@ -33,6 +36,7 @@ import {
   type Beats,
   beatsWritten,
 } from "akasha/story/engine/beat-state/modules/beat-records/beat-records.module.code.ts"
+import { storyPlayed } from "akasha/story/world/stories/played/story-played.page-type.ts"
 import { typeOf } from "akasha/story/world/stories/played/turns/modules/turn-cast/turn-cast.module.code.ts"
 import {
   type Handed,
@@ -42,6 +46,7 @@ import {
   PLAYER,
   type TurnStep,
 } from "akasha/story/world/stories/played/turns/modules/turn-lifecycle/turn-lifecycle.module.code.ts"
+import { storyWritten } from "akasha/story/world/stories/written/story-written.page-type.ts"
 
 const BEATS = exportedAs(beatsFile.propertySlug)
 
@@ -129,6 +134,79 @@ export function changesChecked(reading: Reading, held: Held, handed: Handed): st
   return changesRefused(mergedOf(held.changes ?? [], more), reading)
 }
 
+export type Placing = (page: string) => string | null
+
+const PARTED = "/"
+
+type Kept = { readonly folder: string; readonly own: boolean }
+
+function keptAt(path: string, type: string): Kept {
+  const parted = path.split(PARTED)
+  const name = parted.pop() ?? ""
+  const slug = name.slice(0, -`.${type}.ts`.length)
+  const own = parted.at(-1) === slug
+  if (own) parted.pop()
+  return { folder: parted.join(PARTED), own }
+}
+
+function mostOf(kept: readonly Kept[]): Kept | null {
+  const counted = new Map<string, { readonly kept: Kept; count: number }>()
+  for (const one of kept) {
+    const key = `${one.folder}${PARTED}${one.own}`
+    const held = counted.get(key) ?? { kept: one, count: 0 }
+    held.count += 1
+    counted.set(key, held)
+  }
+  const sorted = [...counted.values()].toSorted((one, other) => other.count - one.count)
+  return sorted[0]?.kept ?? null
+}
+
+function underOf(path: string, folders: readonly string[]): string | null {
+  const held = folders.filter((one) => path.startsWith(`${one}${PARTED}`))
+  return held.toSorted((one, other) => other.length - one.length)[0] ?? null
+}
+
+export function placedAmong(
+  page: string,
+  paths: readonly string[],
+  stories: readonly string[],
+  story: string
+): string {
+  const type = typeOf(page)
+  const slug = slugOf(page)
+  const kept = paths.map((one) => keptAt(one, type))
+  const own = mostOf(kept.filter((one) => underOf(`${one.folder}${PARTED}`, [story]) !== null))
+  const elsewhere = mostOf(
+    kept.flatMap((one): Kept[] => {
+      const under = underOf(`${one.folder}${PARTED}`, stories)
+      if (under === null) return []
+      return [{ folder: `${story}${one.folder.slice(under.length)}`, own: one.own }]
+    })
+  )
+  const found = own ?? elsewhere ?? { folder: `${story}${PARTED}${type}`, own: false }
+  const folder = found.own ? `${found.folder}${PARTED}${slug}` : found.folder
+  return `${folder}${PARTED}${slug}.${type}.ts`
+}
+
+const STORIES = [storyPlayed.slug, storyWritten.slug]
+
+function folderOf(path: string): string {
+  return path.slice(0, path.lastIndexOf(PARTED))
+}
+
+export function placingIndexed(root: string, game: string, chapter: boolean): Placing {
+  const owner = listedAt(root, chapter ? storyWritten.slug : storyPlayed.slug, game)[0]
+  if (owner === undefined) return () => null
+  const story = folderOf(owner.path)
+  return (page) => {
+    const stories = STORIES.flatMap((type) => everyOfType(root, type)).map((one) =>
+      folderOf(one.path)
+    )
+    const paths = everyOfType(root, typeOf(page)).map((one) => one.path)
+    return placedAmong(page, paths, stories, story)
+  }
+}
+
 export type Cache = {
   readonly namings: readonly Naming[]
   readonly appends: readonly Asking[]
@@ -138,7 +216,8 @@ function contentOf(lines: readonly unknown[]): string {
   return lines.map((one) => `${JSON.stringify(one)}${BREAK}`).join("")
 }
 
-function cacheOf(reading: Reading, one: Cached, appends: Asking[]): Naming {
+function cacheOf(reading: Reading, placing: Placing, one: Cached, appends: Asking[]): Naming {
+  const path = one.made ? placing(one.page) : null
   const values: Record<string, unknown> = { ...one.values }
   const bodies: Record<string, string> = {}
   for (const [key, lines] of Object.entries(one.lines ?? {})) {
@@ -155,15 +234,21 @@ function cacheOf(reading: Reading, one: Cached, appends: Asking[]): Naming {
     merge: !one.made,
     values,
     ...(Object.keys(bodies).length === 0 ? {} : { bodies }),
+    ...(path === null ? {} : { path }),
   }
 }
 
-export function cacheNamed(reading: Reading, held: Held, status: TurnStep): Cache | Refused {
+export function cacheNamed(
+  reading: Reading,
+  held: Held,
+  status: TurnStep,
+  placing: Placing = () => null
+): Cache | Refused {
   const changes = held.changes ?? []
   if (status !== PLAYER || changes.length === 0) return { namings: [], appends: [] }
   const cached = cachedOf(changes, reading)
   if ("refused" in cached) return cached
   const appends: Asking[] = []
-  const namings = cached.map((one) => cacheOf(reading, one, appends))
+  const namings = cached.map((one) => cacheOf(reading, placing, one, appends))
   return { namings, appends }
 }

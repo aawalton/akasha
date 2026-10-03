@@ -47,6 +47,16 @@ export const turnChanges = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "A page a change makes sits under its story where that story's pages of its kind sit.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "Where the story has none of that kind, it sits where other stories keep that kind under theirs.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A move writes its prose and its beats as files beside the turn.",
     },
   ],

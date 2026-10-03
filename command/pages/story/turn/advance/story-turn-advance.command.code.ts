@@ -25,6 +25,7 @@ import {
   cacheNamed,
   changesChecked,
   changesIndexed,
+  placingIndexed,
 } from "akasha/command/pages/story/modules/turn-changes/turn-changes.module.code.ts"
 import {
   beatsHeld,
@@ -277,7 +278,8 @@ async function heldOn(
   }
   const folded = reach.fold(given.root, naming)
   if ("refused" in folded) return back([folded.refused])
-  const named = cacheNamed(reading, held, said.status)
+  const placing = placingIndexed(given.root, held.game, read.chapter)
+  const named = cacheNamed(reading, held, said.status, placing)
   if ("refused" in named) return back([named.refused])
   const namings = [...scened.namings, ...named.namings]
   const cached = cachedOf(reach.fold, given.root, { values: {}, namings })
