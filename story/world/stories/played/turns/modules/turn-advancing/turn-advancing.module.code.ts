@@ -43,7 +43,7 @@ import {
 import { loreRefused } from "akasha/story/world/stories/played/turns/modules/turn-lore-handed/turn-lore-handed.module.code.ts"
 import {
   beatsRefused,
-  linesRefused,
+  issuesRefused,
   mechanicked,
   type Recorded,
 } from "akasha/story/world/stories/played/turns/modules/turn-mechanics/turn-mechanics.module.code.ts"
@@ -276,7 +276,7 @@ function fromReviewer(
     }
   }
   const issues = [...held.issues, ...found]
-  const wrong = linesRefused("issue", issues, noun)
+  const wrong = issuesRefused(issues, noun)
   if (wrong !== null) return { refused: wrong }
   const reviewedBy = [...held.reviewedBy, reviewer]
   const values = {

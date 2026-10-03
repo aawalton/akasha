@@ -38,11 +38,11 @@ function mostLines(noun: Noun, editorSteps: boolean | undefined = undefined): nu
   return editorSteps === true ? MOST_LINES * EDITED : MOST_LINES
 }
 
-export function linesRefused(
+function linesRefused(
   one: string,
   lines: readonly string[],
   noun: Noun,
-  most: number | null = null
+  most: number | null
 ): string | null {
   const what = `${one}s`
   if (most !== null && lines.length > most) {
@@ -53,6 +53,10 @@ export function linesRefused(
   )
   if (long.length === 0) return null
   return `each of a ${noun}'s ${what} is at most ${LONGEST_LINE} characters, and ${long.join(", ")}`
+}
+
+export function issuesRefused(issues: readonly string[], noun: Noun): string | null {
+  return linesRefused("issue", issues, noun, mostLines(noun))
 }
 
 export function beatsRefused(beats: readonly string[], held: Held): string | null {
@@ -73,7 +77,7 @@ export function mechanicked(
     return { refused: `a change names beat ${far.beat}, and the ${noun} has ${beats} beats` }
   }
   const issues = [...(held.mechanicsIssues ?? []), ...(handed.issues ?? [])]
-  const long = linesRefused("issue", issues, noun, mostLines(noun))
+  const long = issuesRefused(issues, noun)
   if (long !== null) return { refused: long }
   const recordedBy = [...held.recordedBy, handed.recorder]
   const all = mechanics.every((one) => recordedBy.includes(one))
