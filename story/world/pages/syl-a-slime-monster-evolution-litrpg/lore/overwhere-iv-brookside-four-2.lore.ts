@@ -117,11 +117,19 @@ export const overwhereIvBrooksideFour2 = {
     },
     {
       fact: "Wren and Orla, fetched from Hobb's, reach Tull's fold within the hour, before the strike comes.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iv-nala",
+        "lore/overwhere-iv-brookside-four",
+      ],
     },
     {
       fact: "Orla can close Nala's gash and ease her back once she reaches Tull's fold.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iv-nala",
+        "lore/overwhere-iv-brookside-four",
+      ],
     },
     {
       fact: "At Tull's ford Nala warned Dace and Merrit of a warband of twenty, two hobgoblins, five downed.",
@@ -149,7 +157,11 @@ export const overwhereIvBrooksideFour2 = {
     },
     {
       fact: "Dace bids Nala rest by the fold wall; he'll rouse her when Wren and Orla come or at the first torch.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iv-nala",
+        "lore/overwhere-iv-brookside-four",
+      ],
     },
     {
       fact: "Dace means to hold the fold's gate himself, with Merrit's fire to meet the torches at the ford.",
@@ -161,11 +173,19 @@ export const overwhereIvBrooksideFour2 = {
     },
     {
       fact: "Wren and Orla came to Tull's fold with Aldo; Orla closed Nala's gash and eased her back.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iv-nala",
+        "lore/overwhere-iv-brookside-four",
+      ],
     },
     {
       fact: "Near midnight Wren spotted a dozen and more torches flare at the Tangle's edge across the ford.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iv-nala",
+        "lore/overwhere-iv-brookside-four",
+      ],
     },
   ],
 } as const satisfies Lore

@@ -120,5 +120,13 @@ export const overwhereIvNala3 = {
         "lore/overwhere-iv-brookside-four",
       ],
     },
+    {
+      fact: "Nala told Dace she can fight, though not at her best, and better with some mana back.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iv-nala",
+        "lore/overwhere-iv-brookside-four",
+      ],
+    },
   ],
 } as const satisfies Lore
