@@ -110,5 +110,13 @@ export const overwhereIiiEddaCrane = {
       fact: "Edda knows the hut's keeper as Mother Sallow, a soft-spoken neighbor; she'll ask where she's gone.",
       knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-edda-crane"],
     },
+    {
+      fact: "At the shrine Edda asked, 'Sallow's door stood open, and her hearthstone up. Where's she gone?'",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iii-nala",
+        "character-other/overwhere-iii-edda-crane",
+      ],
+    },
   ],
 } as const satisfies Lore
