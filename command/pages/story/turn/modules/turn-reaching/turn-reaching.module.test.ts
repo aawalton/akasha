@@ -23,6 +23,8 @@ import {
   type Reach,
   type Told,
 } from "akasha/command/pages/story/turn/modules/turn-reaching/turn-reaching.module.code.ts"
+import { memory } from "akasha/story/recorder/pages/memory.story-recorder.ts"
+import { storyRecorder } from "akasha/story/recorder/story-recorder.page-type.ts"
 
 afterAll(() => rmSync(ROOT, { recursive: true, force: true }))
 
@@ -62,10 +64,15 @@ test("only a chapter's move to player keeps its story's backlog", async () => {
 
 test("an advance moving a chapter to player starts the next, and a failure is only a fault", async () => {
   const kept: string[] = []
-  const seat = seatOf("story-recorder", "mari-story-recorder-the-saga-flex-1")
-  const argv = [...CHAPTER_ARGV, "--recorder", "memory"]
+  const seat = seatOf("reviewer", "mari-reviewer-the-saga-flex-1")
+  const argv = [...CHAPTER_ARGV, "--reviewer", "continuity"]
+  const done = {
+    recordedBy: [`${storyRecorder.slug}/${memory.slug}`, "story-recorder/cast"],
+    reviewedBy: ["story-reviewer/voice"],
+    prose: "txt",
+  }
   const keeping = (fails: boolean): Reach => ({
-    ...chapterReach(seen(), "recorders", seat, { recordedBy: ["story-recorder/cast"] }),
+    ...chapterReach(seen(), "reviewers", seat, done),
     backlogKept: async (story) => {
       kept.push(story)
       return { said: `${story}\t${fails ? "failed" : "started"}`, failed: fails, faults: [] }
@@ -75,7 +82,7 @@ test("an advance moving a chapter to player starts the next, and a failure is on
   expect(started.refusals).toEqual([])
   expect(started.report).toContain(`backlog\t${GAME}\tstarted`)
   const failed = await storyTurnAdvance(argv, GIVEN, async () => LANDED, keeping(true))
-  expect(failed.report).toContain(`${GAME}-0002\trecorders\tplayer`)
+  expect(failed.report).toContain(`${GAME}-0002\treviewers\tplayer`)
   expect(failed.refusals.join(" ")).toContain(`was not started: ${GAME}\tfailed`)
   expect(kept).toEqual([GAME, GAME])
 })
