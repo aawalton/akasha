@@ -203,5 +203,9 @@ export const overwhereIHobbsMillWeir = {
       fact: "Creeping to the tail-race wall softly enough that the wyrm feels nothing is a moderate act.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Lying still in hiding makes no footfall; waiting there needs no roll.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Place
