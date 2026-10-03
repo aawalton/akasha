@@ -7,6 +7,6 @@ export const overwhereIiiNalaGlimmerSpecks = {
   title: "Glimmer Specks",
   story: "story-played/overwhere-iii",
   character: "character-player/overwhere-iii-nala",
-  quantity: 1,
+  quantity: 6,
   description: "Crumbs of pale, faintly glowing stone, each a tenth of a glimmerstone.",
 } as const satisfies StoryItem
