@@ -1,0 +1,65 @@
+{"beat":1,"event":"The Ashcrown emerges from the boss chamber's thermal vents on a three-pulse cycle.","at":"2000-01-09T16:00:00.000Z","place":"place/tower-and-the-star-floor-19-boss-chamber","present":["character-other/tower-and-the-star-solenne","character-other/tower-and-the-star-dayo","character-other/tower-and-the-star-miriam","character-other/tower-and-the-star-vesper","character-other/tower-and-the-star-tomas","character-other/tower-and-the-star-nadia"]}
+{"beat":2,"event":"Tomás, who mapped the cycle on approach, calls the third pulse as the window."}
+{"beat":3,"event":"Solenne's Conductor read finds every Aspect at its working register."}
+{"beat":4,"event":"Nadia is in position with Pattern Break ready."}
+{"beat":5,"event":"On the first pulse Dayo holds the line in full anchor posture, absorbing the impact."}
+{"beat":6,"event":"On the second pulse Vesper's barriers close the Ashcrown's escape angle; Miriam holds MP."}
+{"beat":7,"event":"On the third pulse Nadia's Pattern Break fractures the Ashcrown's coherence lattice."}
+{"beat":8,"event":"Dayo moves into the gap and works the Ashcrown down in forty seconds."}
+{"beat":9,"event":"The Ashcrown dissolves; the System awards 1,875 XP each after a 4m 28s fight."}
+{"beat":10,"event":"The vents cycle down and the System logs the floor's completion.","changes":[{"page":"world-metric/tower-and-the-star-highest-floor-cleared","key":"value","from":13,"to":19,"note":"Floor 19 is cleared; the floors between were passed off the page"}]}
+{"beat":11,"event":"Dayo gives Nadia a direct, brief look and Nadia looks back."}
+{"beat":12,"event":"The loot notification arrives and they continue."}
+{"beat":13,"event":"The party settles in the Transition Hall above Floor 19; nobody goes to the Floor 20 Gate.","at":"2000-01-09T18:00:00.000Z","place":"place/tower-and-the-star-floor-19-transition-hall"}
+{"beat":14,"event":"Tomás spreads his full Floor 19 map and writes up the formal record."}
+{"beat":15,"event":"Vesper runs her supply cache inventory, sorting her pack in three sections."}
+{"beat":16,"event":"Dayo distributes rations."}
+{"beat":17,"event":"Miriam assesses the party and makes three entries in her clinical notebook."}
+{"beat":18,"event":"Miriam adds a margin note about the aggro-draw technique from encounter two."}
+{"beat":19,"event":"Nadia checks the dulcimer's strings and case, then puts it away without playing."}
+{"beat":20,"event":"Solenne reads Brightspirit still in the fourth kind of quiet, not rebuilding the performance."}
+{"beat":21,"event":"Solenne writes: 'Floor 20 door at hall's end. Not tonight.'"}
+{"beat":22,"event":"Solenne eats and checks her stats: RES 20, Harmonize Rank 2."}
+{"beat":23,"event":"Solenne notices Vesper running thinking-mode Workframe inscriptions in a corner."}
+{"beat":24,"event":"Miriam finishes her assessment, eats, and watches Vesper's inscriptions."}
+{"beat":25,"event":"The hall dims and Dayo, Tomás, and Nadia go to sleep.","at":"2000-01-09T22:00:00.000Z"}
+{"beat":26,"event":"Solenne settles, half-asleep, the Conductor still running."}
+{"beat":27,"event":"Miriam tells Vesper she did the Mana Vial tonight without being asked."}
+{"beat":28,"event":"Vesper says she knew Nadia needed it."}
+{"beat":29,"event":"Miriam says Vesper knew what she needed first, and asks: 'Who tracks yours?'"}
+{"beat":30,"event":"Vesper says she tracks whether a project is done and worked."}
+{"beat":31,"event":"Miriam says that's not the same thing, and doesn't push."}
+{"beat":32,"event":"Vesper says projects are how she knows she's useful, and useful is closest to secure."}
+{"beat":33,"event":"Miriam says nothing to manage it and stays."}
+{"beat":34,"event":"Vesper says Miriam does the same thing; Miriam says 'I know.'"}
+{"beat":35,"event":"Solenne falls asleep hearing the register of the conversation."}
+{"beat":36,"event":"Solenne wakes in the dark hall to a notification; Miriam and Vesper are asleep.","at":"2000-01-10T03:00:00.000Z"}
+{"beat":37,"event":"Sanctuary Weave unlocks for Miriam and Vesper, with +7 Resonance Events: 109/150.","changes":[{"page":"world-metric/tower-and-the-star-resonance-events","key":"value","from":102,"to":109,"note":"Party Resonance Events reach 109 of 150"}]}
+{"beat":38,"event":"A second notification says all Six of Six prerequisites are met."}
+{"beat":39,"event":"Solenne reads it twice and sits up."}
+{"beat":40,"event":"She looks at the Floor 20 gate at the far end of the hall."}
+{"beat":41,"event":"She looks over her sleeping party; Tomás has added three notes in the night."}
+{"beat":42,"event":"Solenne realizes the party did something without her managing it."}
+{"beat":43,"event":"She plans to tell them at Floor 20's rest floor."}
+{"beat":44,"event":"Solenne puts the notification in the accessible queue and lies back down."}
+{"beat":45,"event":"Solenne sleeps."}
+{"beat":46,"event":"Solenne wakes to find Tomás gone ahead to scout the floor entry.","at":"2000-01-10T07:00:00.000Z","leave":["character-other/tower-and-the-star-tomas"]}
+{"beat":47,"event":"Solenne finds full HP and MP and eats."}
+{"beat":48,"event":"Solenne notes Sanctuary Weave, Six of Six, and 'Tell them at the rest floor.'"}
+{"beat":49,"event":"Vesper goes through her finished projects and sets one item aside."}
+{"beat":50,"event":"Nadia checks the dulcimer's strings in the morning light."}
+{"beat":51,"event":"Vesper crosses the hall and holds out a dulcimer carrying strap made for the instrument."}
+{"beat":52,"event":"Solenne gathers Vesper has been working on the strap since Floor 18."}
+{"beat":53,"event":"Nadia takes the strap and studies its attachment points and carrying angle."}
+{"beat":54,"event":"Nadia says 'Thank you' to Vesper, without a joke after it."}
+{"beat":55,"event":"Vesper receives the thanks without deflecting, then returns to the supply cache."}
+{"beat":56,"event":"Dayo, at her armor, quietly takes it in."}
+{"beat":57,"event":"Tomás comes back from the floor entry.","arrive":["character-other/tower-and-the-star-tomas"]}
+{"beat":58,"event":"Tomás adds one note and says the entry geometry differs from Floors 13 through 18."}
+{"beat":59,"event":"Tomás does not say what he noticed, and Solenne does not ask."}
+{"beat":60,"event":"Miriam closes her clinical notebook, her morning assessment done."}
+{"beat":61,"event":"Nadia attaches the strap to the dulcimer case and adjusts it twice."}
+{"beat":62,"event":"Nadia slings the case across her back and tests it with three steps."}
+{"beat":63,"event":"Solenne says: 'Okay. Let's go.'"}
+{"beat":64,"event":"The party walks to Floor 20's door; the System shows full recovery and 109/150."}
+{"beat":65,"event":"The door opens."}
