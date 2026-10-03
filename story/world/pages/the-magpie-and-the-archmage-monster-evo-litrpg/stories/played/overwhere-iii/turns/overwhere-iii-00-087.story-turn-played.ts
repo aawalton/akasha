@@ -10,4 +10,5 @@ export const overwhereIii00087 = {
   stepStatus: "step-status/game-master",
   action: "“I don’t know for sure.” I tell her what K saw and heard.",
   lore: ["lore/overwhere-iii-marda-hesk", "lore/overwhere-iii-marda-hesk-2"],
+  endsAt: "2026-10-08T17:40:00.000Z",
 } as const satisfies StoryTurnPlayed
