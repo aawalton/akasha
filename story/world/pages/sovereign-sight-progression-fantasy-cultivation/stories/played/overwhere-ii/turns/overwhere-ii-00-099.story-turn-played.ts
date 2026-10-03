@@ -11,4 +11,5 @@ export const overwhereIi00099 = {
   action:
     "“I’m sorry about your sheep, Ebba. We’ll take care of them, then get down to the town until this is sorted.” At that, I charge the sheep with my spear using Push to extend my reach as I stab into their necks from farther than I should be able to, then Pull to help me retract the spear. Rinse and repear.",
   lore: ["place/overwhere-ii-callow-beck"],
+  endsAt: "2026-10-25T14:50:00.000Z",
 } as const satisfies StoryTurnPlayed
