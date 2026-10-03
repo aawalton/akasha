@@ -10,7 +10,7 @@ export const overwhereIv00080 = {
   position: 80,
   prose: "txt",
   characters: ["character-player/overwhere-iv-nala"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/recorders",
   action:
     "“It’s me, Nala!” I shout. As I get closer I warn them “Ran into a full warband, must have been at least 20 of them, 2 big hobs. I think I downed five, but they were pretty mad, chased me hard. Not sure if I lost them or if they’ll keep coming tonight. I’m low on mana, but I can still use a spear if they come this way.”",
   beats: [
@@ -35,6 +35,6 @@ export const overwhereIv00080 = {
     "lore/overwhere-iv-the-tangle-2",
     "place/overwhere-iv-tull-farm",
   ],
-  reviewedBy: ["story-reviewer/continuity"],
+  reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
   endsAt: "2026-10-06T21:52:00.000Z",
 } as const satisfies StoryTurnPlayed
