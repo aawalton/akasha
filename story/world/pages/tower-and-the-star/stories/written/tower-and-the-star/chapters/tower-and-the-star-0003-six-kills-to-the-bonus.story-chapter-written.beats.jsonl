@@ -1,0 +1,61 @@
+{"beat":1,"event":"Dayo finds the last two crawlers isolated in a root alcove at a side corridor's end.","at":"2000-01-02T08:00:00.000Z","place":"place/tower-and-the-star-floor-7-side-corridor","present":["character-other/tower-and-the-star-solenne","character-other/tower-and-the-star-dayo","character-other/tower-and-the-star-miriam","character-other/tower-and-the-star-vesper","character-other/tower-and-the-star-tomas","character-other/tower-and-the-star-nadia"]}
+{"beat":2,"event":"Dayo Shield Rushes the first crawler into the fungal wall."}
+{"beat":3,"event":"Dayo catches the flanking second on her buckler and punches through its carapace."}
+{"beat":4,"event":"Nadia calls it the most anticlimactic victory of their careers."}
+{"beat":5,"event":"The System shows Floor 7 full clear, 96/96, bonus All Secrets Found complete.","changes":[{"page":"world-metric/tower-and-the-star-floor-7-kills","key":"value","from":94,"to":96,"note":"Floor 7 kill progress 96 of 96"}]}
+{"beat":6,"event":"Solenne says the bonus room trigger should be a structural change in the corridor."}
+{"beat":7,"event":"Nadia translates: the wall does something weird; Solenne agrees."}
+{"beat":8,"event":"Tomás waits forty meters down the corridor, head angled at the south wall."}
+{"beat":9,"event":"The south wall silently folds open on a hidden room."}
+{"beat":10,"event":"The party enters a small crystal-lit room with three cache alcoves and one more.","place":"place/tower-and-the-star-floor-7-hidden-cache-room"}
+{"beat":11,"event":"Vesper goes in first and starts inventorying aloud."}
+{"beat":12,"event":"First alcove: tower-crystal fragments, binding compound, an unknown dark fiber."}
+{"beat":13,"event":"Second alcove: a large pre-graded Tier II reward Core."}
+{"beat":14,"event":"Third alcove: two healing potions, a Mana Vial and a Skill Book."}
+{"beat":15,"event":"Vesper lifts out the Skill Book: Combat Perception, Tier I passive."}
+{"beat":16,"event":"Vesper says she doesn't need it and gives it to Dayo."}
+{"beat":17,"event":"Dayo takes the Skill Book; it dissolves into her forearm."}
+{"beat":18,"event":"Dayo says 'Huh': she can feel where everyone is; Nadia asks good or bad; 'Good huh'."}
+{"beat":19,"event":"Solenne records the inventory in her notebook."}
+{"beat":20,"event":"Solenne notices Tomás crouched at the fourth, empty alcove."}
+{"beat":21,"event":"Tomás says there was a trap here."}
+{"beat":22,"event":"Tomás says the pressure-plate trap was sprung and reset."}
+{"beat":23,"event":"Vesper notes the System resets traps on floor resets, and stops inventorying."}
+{"beat":24,"event":"Tomás says it was manually reset to look unsprung, from memory."}
+{"beat":25,"event":"Solenne says someone was here."}
+{"beat":26,"event":"Tomás estimates a stealthy solo or pair, 36 to 48 hours ahead of them."}
+{"beat":27,"event":"Tomás keeps his further opinions to himself."}
+{"beat":28,"event":"Solenne tries to connect the Quest, the doors and the climber; the threads won't converge."}
+{"beat":29,"event":"Solenne freezes, pen stopped mid-sentence, with no next step."}
+{"beat":30,"event":"Miriam senses the shift and chooses to wait, since someone else is moving."}
+{"beat":31,"event":"Dayo crosses the room and stands close beside Solenne without words or touch."}
+{"beat":32,"event":"Nadia reads the room and turns to the crystal alcoves."}
+{"beat":33,"event":"Nadia names the first alcove Gary."}
+{"beat":34,"event":"Nadia names the second Gary's Ambitious Cousin who got into cryptocurrency."}
+{"beat":35,"event":"Nadia stalls on the third: it might not be Gary's fault."}
+{"beat":36,"event":"Vesper asks why his name is Gary; Nadia says all alcoves are Gary."}
+{"beat":37,"event":"Dayo laughs, cracking the stillness."}
+{"beat":38,"event":"Solenne's pen moves again; she is back."}
+{"beat":39,"event":"Solenne notes the unknown climber, underlining 'question for later' twice."}
+{"beat":40,"event":"Miriam catalogs the remaining cache materials."}
+{"beat":41,"event":"Solenne says they should move; the exit gate should be active."}
+{"beat":42,"event":"The party enters the amber, black-stone Transition Hall.","at":"2000-01-02T09:00:00.000Z","place":"place/tower-and-the-star-floor-7-transition-hall"}
+{"beat":43,"event":"A System terminal floats on the hall's left wall."}
+{"beat":44,"event":"The Floor 7 clear notification arrives: 96/96, no deaths, 10,728 XP.","changes":[{"page":"world-metric/tower-and-the-star-highest-floor-cleared","key":"value","from":6,"to":7,"note":"Floor 7 is cleared"}]}
+{"beat":45,"event":"XP settles into all six Status Windows."}
+{"beat":46,"event":"Miriam levels up from Warden 8 to 9; Mending Touch rises to level 9."}
+{"beat":47,"event":"A green glow settles into Miriam's hands; she flexes them."}
+{"beat":48,"event":"Solenne announces Miriam's nine and the stat gains."}
+{"beat":49,"event":"Dayo jokes Miriam can now heal her harder; Miriam says she heals adequately."}
+{"beat":50,"event":"Dayo says with more enthusiasm; Miriam's mouth twitches and she closes her window."}
+{"beat":51,"event":"Nadia checks her XP bar, still not nine; Solenne says she's closer."}
+{"beat":52,"event":"Tomás says Dayo is closest to twelve; 'I pay attention.'"}
+{"beat":53,"event":"The party settles into their usual places in the Hall."}
+{"beat":54,"event":"Solenne stands at the center and decides not to hold the Quest alone."}
+{"beat":55,"event":"Solenne says she needs to tell them something; the Hall goes quiet."}
+{"beat":56,"event":"Solenne tells them of the gold-bordered personal Quest from the rest node."}
+{"beat":57,"event":"Solenne reads the Quest text aloud."}
+{"beat":58,"event":"Solenne admits she has no plan for the doors, the Quest or the climber."}
+{"beat":59,"event":"Dayo says 'Okay'; Solenne says 'Okay' back."}
+{"beat":60,"event":"Solenne thinks of the Compact's Floor 8 scout report: flooded, aquatic."}
+{"beat":61,"event":"Solenne puts the notebook away and says 'Whenever you're ready.'"}
