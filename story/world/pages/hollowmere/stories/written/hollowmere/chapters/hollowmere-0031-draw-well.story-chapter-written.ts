@@ -92,4 +92,5 @@ export const hollowmere0031DrawWell = {
     "character-other/hollowmere-kit",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
+  recordedBy: ["story-recorder/inventory"],
 } as const satisfies StoryChapterWritten
