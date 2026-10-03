@@ -62,7 +62,7 @@ export const overwhereIiVarrowKeep = {
     },
     {
       fact: "Rainwater lies in hollows of the worn flags around the lower court's well.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "The Keep's well is in its lower court, deep and cold, fed from the crag's spring.",
