@@ -89,7 +89,7 @@ export const overwhereIiMaudAshby = {
     },
     {
       fact: "Sounding down into Nala's well, Maud finds no floor; it goes on, cold, like looking into the Sea.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Maud feels Nala's well straining downward, as a Talent's does when Descent is near.",
