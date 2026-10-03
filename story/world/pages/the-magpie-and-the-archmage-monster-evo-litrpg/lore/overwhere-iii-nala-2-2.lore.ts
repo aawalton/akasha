@@ -112,5 +112,9 @@ export const overwhereIiiNala22 = {
       fact: "Nala pocketed the deer's seed stone and followed the wolf up the Wren Brook, her braid ready.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
+    {
+      fact: "On day ten the hut wolves bit Nala on calf, forearm and shoulder; blight is in all three bites.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+    },
   ],
 } as const satisfies Lore
