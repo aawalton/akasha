@@ -157,5 +157,9 @@ export const overwhereIiiCorruption2 = {
       fact: "About a dozen blighted stumps crowd Edda's kilns.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "The kiln jackalopes have 24, 27 and 33 health, fur warding nothing; each leaves a small blightstone.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
