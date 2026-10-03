@@ -4,6 +4,7 @@ export const bunnyGirlEvolution0041229WereGoingOnAnAdventure = {
   id: "01a10097-dfa5-75df-8d12-141505bdf1d1",
   type: "page-type/story-chapter-read",
   slug: "bunny-girl-evolution-0041-229-were-going-on-an-adventure",
+  ownProgress: 3674,
   position: 41,
   publishedAt: "2026-10-03",
   unit: "unit/words",
