@@ -10,7 +10,7 @@ export const hollowmere0026ItKnowsMe = {
   story: "story-written/hollowmere",
   ownLength: 5079,
   prose: "txt",
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/game-master",
   beats: [
     "Friday of week four: a clear cold morning after the rain; the mere is flat and silver from 15.",
     "Bea is up first, doing press-ups on the rug in her vest, counting under her breath, very seriously.",
@@ -69,6 +69,9 @@ export const hollowmere0026ItKnowsMe = {
     "You fall asleep tangled with her, your hand on her back, the mere silver at the window.",
     "A day at Hollowmere ends.",
   ],
+  issues: [
+    '"You clean-copied it last night ... while Bea read" - in ch25 she talked, then fell asleep',
+  ],
   lore: [
     "lore/hollowmere-amara",
     "lore/hollowmere-bea",
@@ -97,5 +100,5 @@ export const hollowmere0026ItKnowsMe = {
     "character-other/hollowmere-lin",
     "character-other/hollowmere-yusra",
   ],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
 } as const satisfies StoryChapterWritten
