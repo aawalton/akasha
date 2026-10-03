@@ -128,7 +128,11 @@ export const overwhereIiiEddaCrane = {
     },
     {
       fact: "Edda has known Mother Sallow two winters, since she came to the empty hut by the brook.",
-      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-edda-crane"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/overwhere-iii-edda-crane",
+        "character-player/overwhere-iii-nala",
+      ],
     },
     {
       fact: "Sallow said she kept two big dogs against the wolves, and never let anyone near the lean-to.",
