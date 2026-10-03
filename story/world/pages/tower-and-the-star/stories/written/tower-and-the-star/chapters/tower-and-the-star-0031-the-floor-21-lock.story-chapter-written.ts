@@ -10,4 +10,6 @@ export const towerAndTheStar0031TheFloor21Lock = {
   ownLength: 3026,
   unit: "unit/words",
   prose: "txt",
+  stepStatus: "step-status/player",
+  beats: "jsonl",
 } as const satisfies StoryChapterWritten
