@@ -174,7 +174,7 @@ export const overwhereIiNala3 = {
     },
     {
       fact: "With Undertow, Nala can refine her organs one at a time, but each fights the tide, being alive.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "An organ must be refined whole at one sitting of some hours; a lost hold leaves her sick a day.",
