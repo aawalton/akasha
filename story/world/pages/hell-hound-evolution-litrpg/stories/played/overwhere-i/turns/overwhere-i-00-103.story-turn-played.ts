@@ -10,7 +10,7 @@ export const overwhereI00103 = {
   position: 103,
   prose: "txt",
   characters: ["character-player/overwhere-i-nala", "character-other/overwhere-i-ghost-eye"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/game-master",
   action:
     "“Great!” I hand over Ghost Eye’s ears to go with the head, as well as the crew ears and tags, the sallow hythe tin token, and the sealed letter, then go find Ilse for the focus.",
   beats: [
@@ -35,6 +35,6 @@ export const overwhereI00103 = {
   ],
   issues: ['"The pearl favours no element" - Plain Negation'],
   lore: ["lore/overwhere-i-nala", "lore/overwhere-i-nala-2", "lore/overwhere-i-wendlow-2"],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
   endsAt: "2026-10-05T13:05:00.000Z",
 } as const satisfies StoryTurnPlayed
