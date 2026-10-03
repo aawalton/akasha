@@ -8,4 +8,6 @@ export const thePlacesSheCarries = {
   world: "world/the-places-she-carries",
   unit: "unit/words",
   prose: "txt",
+  proseOnBeats: true,
+  panels: ["played-panel/player-character"],
 } as const satisfies StoryWritten
