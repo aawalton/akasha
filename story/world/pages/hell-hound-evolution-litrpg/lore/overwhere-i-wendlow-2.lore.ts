@@ -12,5 +12,9 @@ export const overwhereIWendlow2 = {
       fact: "For blades and bows Grete names Wil Harrow, smith on Anvil Lane, who buys fair.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "For pelts and monster parts Grete says the guild counting-house pays least, and Mother Sallow more.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
