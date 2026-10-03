@@ -46,4 +46,3 @@
 {"beat":46,"event":"She pulls you down beside her and holds you a minute, her chin on your head. \"I'm glad. Mostly.\"","memory":[{"page":"lore/hollowmere-bea","fact":"Bea sent Nala off in the soft green jumper, waited up, and said she was glad of the kiss. Mostly.","learns":"character-player/hollowmere-nala"},{"page":"lore/hollowmere-bea","fact":"Bea sent Nala off in the soft green jumper, waited up, and said she was glad of the kiss. Mostly.","learns":"character-other/hollowmere-bea"}]}
 {"beat":47,"event":"\"Mostly's honest,\" you say. Bea kisses your forehead and sends you to bed."}
 {"beat":48,"event":"You fall asleep in 14 with two different mouths remembered and the green jumper still on.","at":"2026-10-02T22:50:00.000Z","leave":["character-other/hollowmere-bea"]}
-{"beat":49,"event":"A day at Hollowmere ends."}
