@@ -328,5 +328,9 @@ export const overwhereIStarfallLegacy2 = {
       fact: "Eye beams leave Nala dazzled by afterglow for a couple of seconds.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
+    {
+      fact: "A gentle steam weave played over her own skin and clothes cleans them without scalding; no roll.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
