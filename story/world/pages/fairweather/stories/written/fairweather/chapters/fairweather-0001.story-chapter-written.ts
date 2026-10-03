@@ -10,7 +10,7 @@ export const fairweather0001 = {
   story: "story-written/fairweather",
   ownLength: 0,
   prose: "txt",
-  stepStatus: "step-status/mechanics",
+  stepStatus: "step-status/writer",
   beats: [
     "Before dawn the Honeycomb's ovens wake Elsie in her attic; the room smells of bread.",
     "It is her Naming day; she lies under the sloped ceiling, too nervous and happy to stay in bed.",
@@ -154,5 +154,5 @@ export const fairweather0001 = {
     "place/fairweather-honeycomb",
     "place/fairweather-lanternmere",
   ],
-  recordedBy: ["story-recorder/inventory", "story-recorder/plan"],
+  recordedBy: ["story-recorder/inventory", "story-recorder/plan", "story-recorder/mechanics"],
 } as const satisfies StoryChapterWritten
