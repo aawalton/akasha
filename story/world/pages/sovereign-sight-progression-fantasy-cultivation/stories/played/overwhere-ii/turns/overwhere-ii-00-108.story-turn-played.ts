@@ -11,4 +11,5 @@ export const overwhereIi00108 = {
   action:
     "“Go down to the village, there should be more chambers from the wolves I killed there, bring back any you can find. I’ll focus on clearing the water, and we’ll see if it helps.” Then I focus on the pool",
   lore: ["lore/overwhere-ii-greymaws", "place/overwhere-ii-whitecombs-2"],
+  endsAt: "2026-10-26T17:38:00.000Z",
 } as const satisfies StoryTurnPlayed
