@@ -8,7 +8,6 @@ export const thePlacesSheCarries0023WhatTheLandRemembers = {
   story: "story-written/the-places-she-carries",
   position: 23,
   ownLength: 2523,
-  ownProgress: 2200,
   unit: "unit/words",
   prose: "txt",
   beats: "jsonl",
