@@ -36,5 +36,9 @@ export const overwhereIHobbsMillWeir2 = {
       fact: "Steam washes the wyrm bile off Nala's arms, and the nettle sting fades within the hour.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Jory says the crews will roll the wyrm's carcass and head into the pool once she is done with it.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
