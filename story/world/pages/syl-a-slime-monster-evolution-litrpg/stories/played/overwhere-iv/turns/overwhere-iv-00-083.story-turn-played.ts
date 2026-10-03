@@ -11,4 +11,5 @@ export const overwhereIv00083 = {
   action:
     "I wait until they are in range and then strike each of the hobs, aiming a slice directly across their eyes, to blind them even if it doesn’t kill outright.",
   lore: ["lore/overwhere-iv-the-tangle-2"],
+  endsAt: "2026-10-06T23:58:00.000Z",
 } as const satisfies StoryTurnPlayed
