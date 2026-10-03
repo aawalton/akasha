@@ -14,5 +14,6 @@ export const fairweather = {
     "played-panel/player-character",
     "played-panel/other-characters",
     "played-panel/scene-cover",
+    "played-panel/time",
   ],
 } as const satisfies StoryWritten
