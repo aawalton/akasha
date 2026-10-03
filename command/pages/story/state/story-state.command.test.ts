@@ -108,6 +108,23 @@ test("a page holding a value the beats do not leave is named, as is a learner wh
   expect(lines.some((one) => one.includes("learned it in saga-00-002 and is no knower"))).toBe(true)
 })
 
+test("a fact shown that its page's facts do not hold word for word is named", () => {
+  const misquoted = { ...PAGES, "lore/the-mere": { facts: [{ fact: "The mere is deep." }] } }
+  expect(stateLines(storyOver(misquoted))).toContain(
+    `drift\tlore/the-mere\t${FACT}\tshown in saga-00-002 and is no fact of its page`
+  )
+})
+
+test("a fact established that is no fact of its page is named, and one that is passes", () => {
+  const established: Memory = { beat: 1, page: "lore/the-mere", fact: FACT, establishes: true }
+  const story = { ...storyOver(PAGES), memoryOf: () => [established] }
+  expect(stateLines(story)).toContain("drift\tnone: the pages hold every value the beats reach")
+  const missing = { ...story, reading: storyOver({ ...PAGES, "lore/the-mere": {} }).reading }
+  expect(stateLines(missing)).toContain(
+    `drift\tlore/the-mere\t${FACT}\testablished in saga-00-001 and is no fact of its page`
+  )
+})
+
 test("a turn whose beats file does not read is named rather than replayed as nothing", () => {
   const broken: Paged = { ...FIRST, beats: { refused: "the beats file beside `x` is broken" } }
   const story = { ...storyOver(PAGES), turns: [broken, SECOND] }

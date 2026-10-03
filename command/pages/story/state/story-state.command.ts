@@ -19,6 +19,11 @@ export const storyState = {
     {
       decisionKind: "decision-kind/departure",
       statement:
+        "A fact shown or established that its page's facts do not hold word for word is named.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
         "A state names each cached value its page holds otherwise than the beats leave it.",
     },
     {

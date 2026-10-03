@@ -55,15 +55,19 @@ export type Story = {
   readonly reading: Reading
 }
 
-function knows(reading: Reading, memory: Memory): boolean {
+function factOf(reading: Reading, memory: Memory): object | undefined {
   const facts = reading.valueOf(memory.page, FACTS)
-  if (!Array.isArray(facts)) return false
-  return facts.some((one) => {
-    if (typeof one !== "object" || one === null || Reflect.get(one, FACT) !== memory.fact)
-      return false
-    const knowers: unknown = Reflect.get(one, KNOWERS)
-    return Array.isArray(knowers) && knowers.includes(memory.learns)
-  })
+  if (!Array.isArray(facts)) return undefined
+  return facts.find(
+    (one): one is object =>
+      typeof one === "object" && one !== null && Reflect.get(one, FACT) === memory.fact
+  )
+}
+
+function knows(reading: Reading, memory: Memory): boolean {
+  const held = factOf(reading, memory)
+  const knowers: unknown = held === undefined ? undefined : Reflect.get(held, KNOWERS)
+  return Array.isArray(knowers) && knowers.includes(memory.learns)
 }
 
 function scenesSaid(story: Story, turns: readonly Paged[], drift: string[]): readonly string[] {
@@ -106,6 +110,10 @@ function memorySaid(story: Story, one: Paged, lines: string[], drift: string[]):
     const fact = `${memory.page}${PARTED}${memory.fact}`
     if (memory.shown === true || memory.establishes === true) {
       lines.push(`shown${PARTED}${one.slug}${PARTED}${fact}`)
+      if (factOf(story.reading, memory) === undefined) {
+        const act = memory.shown === true ? "shown" : "established"
+        drift.push(`drift${PARTED}${fact}${PARTED}${act} in ${one.slug} and is no fact of its page`)
+      }
     }
     if (memory.learns !== undefined && !knows(story.reading, memory)) {
       drift.push(
