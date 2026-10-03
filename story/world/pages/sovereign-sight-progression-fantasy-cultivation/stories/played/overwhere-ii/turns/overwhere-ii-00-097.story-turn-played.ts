@@ -10,7 +10,7 @@ export const overwhereIi00097 = {
   position: 97,
   prose: "txt",
   characters: ["character-player/overwhere-ii-nala"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/recorders",
   action: "“Done for today, need to focus on refining my organs.”",
   beats: [
     'Nala: "Done for today. I need to focus on refining my organs."',
@@ -46,6 +46,6 @@ export const overwhereIi00097 = {
     "lore/overwhere-ii-nala-3",
     "place/overwhere-ii-whitecombs",
   ],
-  reviewedBy: ["story-reviewer/continuity"],
+  reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
   endsAt: "2026-10-25T09:00:00.000Z",
 } as const satisfies StoryTurnPlayed
