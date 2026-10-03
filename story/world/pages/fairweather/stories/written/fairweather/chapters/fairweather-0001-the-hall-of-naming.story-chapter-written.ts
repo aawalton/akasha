@@ -31,5 +31,10 @@ export const fairweather0001TheHallOfNaming = {
     "character-other/fairweather-tamsin",
     "character-other/fairweather-tilly",
   ],
-  recordedBy: ["story-recorder/inventory", "story-recorder/plan", "story-recorder/mechanics"],
+  recordedBy: [
+    "story-recorder/inventory",
+    "story-recorder/plan",
+    "story-recorder/mechanics",
+    "story-recorder/memory",
+  ],
 } as const satisfies StoryChapterWritten
