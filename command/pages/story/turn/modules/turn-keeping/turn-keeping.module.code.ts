@@ -22,6 +22,7 @@ import { valueIn } from "akasha/page/modules/value/page-value.module.code.ts"
 import type { Value } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 import { bareOf } from "akasha/story/world/stories/played/turns/modules/turn-lifecycle/turn-lifecycle.module.code.ts"
 import { storyTurnPlayed } from "akasha/story/world/stories/played/turns/story-turn-played.page-type.ts"
+import { storyChapterWritten } from "akasha/story/world/stories/written/chapters/story-chapter-written.page-type.ts"
 
 export type Kept = readonly FileChange[] | { readonly refused: string }
 
@@ -132,8 +133,11 @@ export function fittedBeside(root: string, turn: string): Fitting | { readonly r
   return found.fitting ?? { rows: left.rows, fits: [], landed: 0 }
 }
 
+const KEEPING_TYPES = [storyTurnPlayed.slug, storyChapterWritten.slug]
+
 export function turnAtOf(root: string, named: string): string | null {
-  return listedAt(root, storyTurnPlayed.slug, bareOf(named))[0]?.path ?? null
+  const slug = bareOf(named)
+  return KEEPING_TYPES.flatMap((type) => listedAt(root, type, slug))[0]?.path ?? null
 }
 
 export function turnSlugOf(turn: string): string {

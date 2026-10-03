@@ -10,6 +10,10 @@ export const turnKeeping = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
+      statement: "A written chapter keeps edits beside it as a played turn does.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "Edits given back leave the turn and are kept beside the caller's page again.",
     },
     {
