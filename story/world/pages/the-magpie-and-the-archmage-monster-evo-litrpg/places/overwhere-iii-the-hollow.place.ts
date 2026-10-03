@@ -16,7 +16,7 @@ export const overwhereIiiTheHollow = {
   facts: [
     {
       fact: "The Hollow is a dungeon mouth under the roots of the Mother Beech, the Wrenwood's oldest tree.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-marda-hesk"],
     },
     {
       fact: "A stone door carved with an old Guild seal closes it; the Guild sealed it a century ago.",
