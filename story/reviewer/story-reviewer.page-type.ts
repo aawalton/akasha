@@ -4,7 +4,8 @@ export const storyReviewer = {
   id: "01a0deb0-2f42-79ab-8969-52d0e5afcb0c",
   type: "page-type/page-type",
   slug: "story-reviewer",
-  definition: "a check run over the beats and prose of every played turn and written chapter",
+  definition:
+    "a check run over the beats, prose and recorded data of every turn and written chapter",
   spellings: [
     { partOfSpeech: "part-of-speech/noun", spelling: "story reviewer" },
     { partOfSpeech: "part-of-speech/noun", spelling: "story reviewers" },
@@ -32,6 +33,15 @@ export const storyReviewer = {
     {
       decisionKind: "decision-kind/departure",
       statement: "A story reviewer records what it finds as the turn's issues.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "Each story reviewer checks one area: scene, holdings, narrative and lore, or style.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A story reviewer runs after the recorders, so it checks what they recorded too.",
     },
   ],
   types: "ts",

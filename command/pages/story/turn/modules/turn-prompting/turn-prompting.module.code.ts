@@ -83,6 +83,10 @@ function advancing(asked: Prompting): string {
   return `${asked.calledAs} ${said} ${asked.address}`
 }
 
+export function recordedLine(noun: string): string {
+  return `What the steps before you recorded of the ${noun} is on it: each beat's time, place and who is there in \`beatScenes\`, the numbers and items each beat changes in the \`beatChanges\` file beside it, who learns which fact and what the reader is shown in the \`beatMemory\` file beside it, and its pictures at \`cover\`, \`scenes\` and \`pictured\`. Numbers and knowers reach their pages only as the ${noun} reaches its player, so read this ${noun}'s part in those files rather than on the pages.`
+}
+
 export function reviewerPrompt(asked: Prompting, reviewer: Reviewer): string {
   const noun = asked.noun ?? "turn"
   return [
@@ -91,6 +95,8 @@ export function reviewerPrompt(asked: Prompting, reviewer: Reviewer): string {
     `The ${noun} is \`${asked.turnAt}\`, with its prose beside it. Your instructions are \`${reviewer.instructionsAt}\`, beside the story reviewer page \`${reviewer.at}\`.`,
     ...loreSaid(asked.lore, noun),
     ...describedSaid(asked.described),
+    "",
+    recordedLine(noun),
     "",
     `Read your instructions, then the ${noun} and its prose, and do what the instructions say. When you are done, write the issues you found to a file, one issue to a line, and advance the ${noun} once:`,
     "",

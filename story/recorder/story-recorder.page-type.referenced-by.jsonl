@@ -9,5 +9,6 @@
 {"propertySlug":"import","fileName":"story-recorder.page-type.types.ts","path":"story/recorder/pages/mechanics.story-recorder.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"story-recorder.page-type.types.ts","path":"story/recorder/pages/memory.story-recorder.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"story-recorder.page-type.types.ts","path":"story/recorder/pages/picture.story-recorder.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"story-recorder.page-type.types.ts","path":"story/recorder/pages/plan.story-recorder.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"story/story.page-type.ts","id":"01a0c987-3949-7828-8fcb-e11a6dec2d37"}
 {"propertySlug":"target-page-type","path":"story/chapter/properties/step-recorded-by.multi-relation-property.ts","id":"01a0e058-679f-70f6-baaf-b82f0c8a4690"}

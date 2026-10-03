@@ -5,6 +5,8 @@
 {"propertySlug":"import","fileName":"story-reviewer.page-type.ts","path":"story/world/stories/played/turns/modules/turn-advancing/turn-advancing.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"story-reviewer.page-type.ts","path":"story/world/stories/played/turns/modules/turn-lifecycle/turn-lifecycle.module.test-fixtures.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"story-reviewer.page-type.types.ts","path":"story/reviewer/pages/continuity.story-reviewer.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"story-reviewer.page-type.types.ts","path":"story/reviewer/pages/holdings.story-reviewer.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"story-reviewer.page-type.types.ts","path":"story/reviewer/pages/scene.story-reviewer.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"story-reviewer.page-type.types.ts","path":"story/reviewer/pages/style.story-reviewer.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"story/story.page-type.ts","id":"01a0c987-3949-7828-8fcb-e11a6dec2d37"}
 {"propertySlug":"target-page-type","path":"story/chapter/properties/step-reviewed-by.multi-relation-property.ts","id":"01a0deb0-cf67-7a1e-bb3d-6859e1f25fce"}

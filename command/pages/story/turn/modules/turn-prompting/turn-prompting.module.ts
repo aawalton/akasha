@@ -13,7 +13,8 @@ export const turnPrompting = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A reviewer's prompt sends the reviewer to the turn's beats and its prose.",
+      statement:
+        "A reviewer's prompt sends the reviewer to the turn's beats, prose and recorded data.",
     },
     {
       decisionKind: "decision-kind/departure",
