@@ -28,11 +28,21 @@ export const tellContinuing = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A continuation's slug is the page's slug with the next free count from 2.",
+      statement: "A continuation's slug is its first page's slug with the next free count from 2.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A continuation's title is the page's title, continued.",
+      statement:
+        "A continuation named is continued from its first page, so no slug takes two counts.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A slug ending in a count continues the slug before it where both have one target.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A continuation's title is its first page's title, continued once.",
     },
     {
       decisionKind: "decision-kind/departure",

@@ -119,6 +119,35 @@ test("a page of the next slug about another target is passed over", () => {
   expect(added.at).toBe(THIRD_AT)
 })
 
+test("a full continuation named itself opens its first page's next count, titled once", () => {
+  const second = { ...GROVE, title: "Grove, continued" }
+  const pages = { ...PAGES, "lore/grove-2": { path: SECOND_AT, value: second } }
+  const added = addedIn(
+    askedFor(tellOf("lore/grove-2", "It rains."), readingOver(pages, [AT, SECOND_AT]))
+  )
+  expect(added.at).toBe(THIRD_AT)
+  expect(added.body).toContain('slug: "grove-3"')
+  expect(added.body).toContain('title: "Grove, continued"')
+})
+
+test("a continuation titled continued more than once still opens one titled continued once", () => {
+  const second = { ...GROVE, title: "Grove, continued, continued" }
+  const pages = { ...PAGES, "lore/grove-2": { path: SECOND_AT, value: second } }
+  const added = addedIn(
+    askedFor(tellOf("lore/grove-2", "It rains."), readingOver(pages, [AT, SECOND_AT]))
+  )
+  expect(added.body).toContain('title: "Grove, continued"')
+})
+
+test("a page whose slug ends in a count but heads no family continues from its own slug", () => {
+  const route = { title: "Route 66", world: WORLD, about: HER }
+  const at = `${LORE_AT}/route-66.lore.ts`
+  const pages = { ...PAGES, "lore/route-66": { path: at, value: route } }
+  const added = addedIn(askedFor(tellOf("lore/route-66", "It rains."), readingOver(pages, [at])))
+  expect(added.at).toBe(`${LORE_AT}/route-66-2.lore.ts`)
+  expect(added.body).toContain('title: "Route 66, continued"')
+})
+
 test("a full place continues on a lore page about that place, in its world's lore folder", () => {
   const pages = {
     ...PAGES,

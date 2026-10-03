@@ -46,6 +46,10 @@ const FIRST = 2
 
 const CONTINUED = ", continued"
 
+const CONTINUED_TAIL = new RegExp(`(?:${CONTINUED})+$`)
+
+const COUNTED = /^(.+)-(\d+)$/
+
 const TYPES = `akasha/story/${lore.slug}/${lore.slug}.page-type.types.ts`
 
 const BYTES = new TextEncoder()
@@ -117,6 +121,27 @@ function targetOf(named: string, value: Value | null): string {
   return (value === null ? null : textAt(value, loreAbout.propertySlug)) ?? named
 }
 
+function headsFamily(look: Continuing, stem: string, target: string): boolean {
+  const about = addressIn(target)
+  if (about.kind === QUALIFIED && about.slug === stem) return true
+  const at = look.listedAt(lore.slug, stem)[0]?.path
+  return at !== undefined && targetOf(`${lore.slug}/${stem}`, look.valueAt(at)) === target
+}
+
+export function baseOf(look: Continuing, slug: string, target: string): string {
+  let base = slug
+  for (let parted = COUNTED.exec(base); parted !== null; parted = COUNTED.exec(base)) {
+    const [, stem = "", count = ""] = parted
+    if (Number(count) < FIRST || !headsFamily(look, stem, target)) return base
+    base = stem
+  }
+  return base
+}
+
+export function continuationTitle(titled: string): string {
+  return `${titled.replace(CONTINUED_TAIL, "")}${CONTINUED}`
+}
+
 function familyOf(look: Continuing, slug: string, target: string): Family {
   const held: string[] = []
   let count = FIRST
@@ -165,7 +190,8 @@ export function continued(
   if (address.kind !== QUALIFIED || at === null) return `\`${named}\` names no lore page here`
   const value = look.valueAt(at)
   const target = targetOf(named, value)
-  const family = familyOf(look, address.slug, target)
+  const base = baseOf(look, address.slug, target)
+  const family = familyOf(look, base, target)
   const newest = family.held.at(-1)
   if (newest !== undefined) {
     const there = tellingAt(newest)
@@ -175,7 +201,9 @@ export function continued(
   const said = value === null ? null : textAt(value, world.propertySlug)
   const worldAt = said === null ? null : pathOf(look, said)
   if (said === null || worldAt === null) return `\`${at}\` names no world to continue its lore in`
-  const titled = `${(value === null ? null : textAt(value, title.propertySlug)) ?? address.slug}${CONTINUED}`
+  const titled = continuationTitle(
+    (value === null ? null : textAt(value, title.propertySlug)) ?? base
+  )
   const path = join(dirname(worldAt), lore.pluralSlug, `${family.next}.${lore.slug}.${HELD}`)
   const opened = { slug: family.next, titled, world: said, target, told }
   return [{ at: ADD_FILE, given: { at: path, body: look.shaped(path, continuationBody(opened)) } }]
