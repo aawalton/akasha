@@ -1,0 +1,51 @@
+{"beat":1,"event":"On Floor 27 the Tower's morning register arrives early or stronger.","at":"2000-01-18T06:30:00.000Z","place":"place/tower-and-the-star-floor-27-corridors","present":["character-other/tower-and-the-star-solenne","character-other/tower-and-the-star-dayo","character-other/tower-and-the-star-miriam","character-other/tower-and-the-star-vesper","character-other/tower-and-the-star-tomas","character-other/tower-and-the-star-nadia"],"changes":[{"page":"world-metric/tower-and-the-star-highest-floor-reached","key":"value","from":22,"to":27,"note":"The party reaches Floor 27"}]}
+{"beat":2,"event":"Eight days have passed since the Floor 22 rest node: eight floors, encounters on seven."}
+{"beat":3,"event":"They sleep at rest nodes; the climb has compressed into one held rhythm."}
+{"beat":4,"event":"The Greybacks appeared on Floors 24 and 26, watching from corridor widenings."}
+{"beat":5,"event":"On Floor 26 Nadia stood still without touching her dulcimer: not the same thing."}
+{"beat":6,"event":"Solenne feels the Greybacks ahead on Floor 27, moving toward Section 30 too."}
+{"beat":7,"event":"On Floor 29, Vesper stops at the first corridor junction, Workframe at full reach.","at":"2000-01-20T09:00:00.000Z","place":"place/tower-and-the-star-floor-29-corridor-junction","changes":[{"page":"world-metric/tower-and-the-star-highest-floor-reached","key":"value","from":27,"to":29,"note":"The party reaches Floor 29"}]}
+{"beat":8,"event":"She says the construction signature changes here, like a threshold marker."}
+{"beat":9,"event":"Tomás points out a small carved marking below the junction in the unknown script."}
+{"beat":10,"event":"The marking is carved in columns, in the stone's darker band."}
+{"beat":11,"event":"He matches it to his index: four characters, three known, one new."}
+{"beat":12,"event":"He adds the new character to the index with care."}
+{"beat":13,"event":"Miriam says the Builder marked the section boundary before the System existed."}
+{"beat":14,"event":"Dayo says it has been there on every floor; now they have a comparison point."}
+{"beat":15,"event":"Tomás says with three sources he can try seven of this marking's nine characters."}
+{"beat":16,"event":"Dayo says after Floor 30; Tomás agrees and closes his notation surface."}
+{"beat":17,"event":"They reach the Floor 30 transition in the Tower's late-afternoon register.","at":"2000-01-21T16:00:00.000Z","place":"place/tower-and-the-star-floor-30-transition-zone","changes":[{"page":"world-metric/tower-and-the-star-highest-floor-reached","key":"value","from":29,"to":30,"note":"The party reaches Floor 30"}]}
+{"beat":18,"event":"The corridor broadens and the ceiling rises to a System clearing point."}
+{"beat":19,"event":"An active terminal shows floor completion at ninety-eight percent."}
+{"beat":20,"event":"Vesper reads harder materials ahead: Section 31 was built for heavier use."}
+{"beat":21,"event":"Dayo asks about Section Clear; Tomás runs the System query."}
+{"beat":22,"event":"Section Clear, Floors 11-30: 8,400 XP; Six of Six cooldown reset.","changes":[{"page":"world-metric/tower-and-the-star-highest-floor-cleared","key":"value","from":20,"to":30,"note":"Floor 30 is cleared; the floors between were passed off the page"}]}
+{"beat":23,"event":"A second notice: six vectors advanced; the Tower has been waiting for them."}
+{"beat":24,"event":"Dayo reads it twice: that's new."}
+{"beat":25,"event":"Tomás says it is not System language: this is from the Tower."}
+{"beat":26,"event":"Nadia says this is the escalating revelatory pressure at each section boundary."}
+{"beat":27,"event":"Vesper says it talks to them; Solenne says it confirms."}
+{"beat":28,"event":"Solenne says the six vectors are what the Proving Gate tested: the Tower tracks them."}
+{"beat":29,"event":"The notice clears; Composite Activation is available again."}
+{"beat":30,"event":"Miriam writes fast in her notebook, then tears out the page."}
+{"beat":31,"event":"She folds it twice and holds it out to Dayo."}
+{"beat":32,"event":"Dayo takes the page, opens it and reads it twice."}
+{"beat":33,"event":"Dayo asks how long she's been writing it."}
+{"beat":34,"event":"Miriam says since the Ash Plain; it changed when the Tower began telling them things."}
+{"beat":35,"event":"Dayo says you didn't tell me; Miriam says she didn't need to know until now."}
+{"beat":36,"event":"Dayo pockets the page and says they must decide on the Floor 21 lock."}
+{"beat":37,"event":"The Section 11-30 cooldown reset reopens the Floor 21 door; Cassia's offer stands."}
+{"beat":38,"event":"Going back means nine floors down to the Floor 21 door and the Floor 17 node."}
+{"beat":39,"event":"Tomás says the Floor 21 lock may hold more Architect script data."}
+{"beat":40,"event":"Dayo says or items they need ahead: the same problem from the other side."}
+{"beat":41,"event":"Nadia says the Greybacks went through at Floor 29 and are not backtracking."}
+{"beat":42,"event":"Dayo asks Tomás how much Floor 21 data would raise his odds of reading the script."}
+{"beat":43,"event":"Tomás says substantially: Repository Nodes hold more notation."}
+{"beat":44,"event":"Dayo decides: back to the Floor 21 lock, Floor 17 if needed, then up again."}
+{"beat":45,"event":"She gives Tomás two days; he is already noting it."}
+{"beat":46,"event":"Solenne feels the Greybacks beyond the Section 30 threshold, facing forward."}
+{"beat":47,"event":"Seven of them, in a configuration she has no notation for."}
+{"beat":48,"event":"She files the Greyback configuration under deliberate."}
+{"beat":49,"event":"Solenne turns and follows the party back toward Floor 29 in the evening register.","at":"2000-01-21T19:00:00.000Z","place":"place/tower-and-the-star-floor-29-corridor-junction"}
+{"beat":50,"event":"The Tower's stone carries the six Aspect frequencies and the carved threshold mark."}
+{"beat":51,"event":"She runs the Conductor on all six and files it under the work."}
