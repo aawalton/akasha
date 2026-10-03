@@ -3,6 +3,7 @@ import type { Writing } from "akasha/page/service/modules/page-calling/page-call
 import {
   answered,
   askedIn,
+  beatsRepointed,
   type Drawing,
   drawingOf,
   holdsStory,
@@ -11,6 +12,7 @@ import {
   refusalSaid,
   repointed,
   rerollOf,
+  writtenRepointed,
 } from "akasha/story/world/stories/played/modules/cover-rerolling/cover-rerolling.module.code.ts"
 
 const STORY = "story/world/pages/w/stories/played/s/s.story-played.ts"
@@ -58,7 +60,8 @@ type Faked = {
 
 function faked(
   rows: Readonly<Record<string, readonly Row[]>>,
-  over: Partial<Rerolling> = {}
+  over: Partial<Rerolling> = {},
+  files: Readonly<Record<string, string>> = {}
 ): Faked {
   const drawn: Drawing[] = []
   const written: Writing[] = []
@@ -68,6 +71,7 @@ function faked(
     image: () => MADE,
     head: () => HEAD,
     rows: (pageTypeSlug) => rows[pageTypeSlug] ?? [],
+    file: (path) => files[path] ?? null,
     draw: (drawing) => {
       drawn.push(drawing)
       return Promise.resolve(NEW_SLUG)
@@ -172,7 +176,7 @@ test("a turn of another story naming the same cover is left alone", async () => 
   const held = faked({ "story-turn-played": [elsewhere] })
   await rerollOf(STORY, held.effects)
   expect(held.drawn).toEqual([])
-  expect(held.answers[0]).toContain("No turn")
+  expect(held.answers[0]).toContain("Nothing in this story")
 })
 
 test("a render that fails is refused in words, and nothing is written", async () => {
@@ -209,5 +213,89 @@ test("a refusal names what went wrong, and a closed service is said plainly", ()
 
 test("the watch follows a story's uncommitted values and nothing else", () => {
   expect(holdsStory("/a/s/s.story-played.uncommitted.ts")).toBe(true)
+  expect(holdsStory("/a/s/s.story-written.uncommitted.ts")).toBe(true)
   expect(holdsStory("/a/s/s.story-played.ts")).toBe(false)
+  expect(holdsStory("/a/s/s.story-written.ts")).toBe(false)
+})
+
+const WRITTEN = "story/world/pages/w/stories/written/s/s.story-written.ts"
+
+const CHAPTERS = "story/world/pages/w/stories/written/s/chapters"
+
+const BEATS_AT = `${CHAPTERS}/c-1.story-chapter-written.beats.jsonl`
+
+const FIRST_BEAT = '{"beat":1,"event":"She comes in."}'
+
+const BEAT_LINES = [
+  FIRST_BEAT,
+  `{"beat":2,"event":"She sits.","pictured":[{"cover":"${OLD}","coverAfter":"She sits"},{"cover":"image/image-b","coverAfter":"Later"}]}`,
+  "",
+]
+
+function writtenChapter(slug: string, values: Readonly<Record<string, unknown>>): Row {
+  return { path: `${CHAPTERS}/${slug}.story-chapter-written.ts`, value: { slug, ...values } }
+}
+
+test("a beat's picture naming the old image names the new one, and every other line is kept as it was", () => {
+  const moved = beatsRepointed(BEAT_LINES.join("\n"), OLD, "image/image-new")
+  expect(moved).toBe(
+    [
+      FIRST_BEAT,
+      '{"beat":2,"event":"She sits.","pictured":[{"cover":"image/image-new","coverAfter":"She sits"},{"cover":"image/image-b","coverAfter":"Later"}]}',
+      "",
+    ].join("\n")
+  )
+  expect(beatsRepointed(FIRST_BEAT, OLD, "image/image-new")).toBeNull()
+})
+
+test("a written chapter naming the old image as its cover or a scene names the new one", () => {
+  const held = writtenRepointed(
+    [
+      writtenChapter("c-1", { cover: OLD, scenes: ["image/image-a", OLD], beats: "jsonl" }),
+      writtenChapter("c-2", { cover: "image/image-a", scenes: ["image/image-a"] }),
+    ],
+    (path) => (path === BEATS_AT ? BEAT_LINES.join("\n") : null),
+    OLD,
+    "image/image-new"
+  )
+  expect(held.pages).toEqual([
+    {
+      pageTypeSlug: "story-chapter-written",
+      slug: "c-1",
+      values: { cover: "image/image-new", scenes: ["image/image-a", "image/image-new"] },
+      merge: true,
+    },
+  ])
+  expect(held.puts.map((one) => one.path)).toEqual([BEATS_AT])
+  expect(held.puts[0]?.content).toContain('"cover":"image/image-new","coverAfter":"She sits"')
+})
+
+test("a written story's reroll rewrites the beats file and the chapter, and grades the old picture F", async () => {
+  const held = faked(
+    { "story-chapter-written": [writtenChapter("c-1", { scenes: [OLD], beats: "jsonl" })] },
+    {},
+    { [BEATS_AT]: BEAT_LINES.join("\n") }
+  )
+  expect(await rerollOf(WRITTEN, held.effects)).toBe(true)
+  expect(held.drawn).toEqual([DRAWN])
+  expect(held.written[0]?.puts?.map((one) => one.path)).toEqual([BEATS_AT])
+  expect(held.written[0]?.pages).toEqual([
+    {
+      pageTypeSlug: "story-chapter-written",
+      slug: "c-1",
+      values: { scenes: ["image/image-new"] },
+      merge: true,
+    },
+    { pageTypeSlug: "image", slug: "image-old", values: { grade: "F" }, merge: true },
+  ])
+  expect(held.answers).toEqual([null])
+})
+
+test("a written story whose chapters no longer show the picture is refused and nothing is drawn", async () => {
+  const held = faked({
+    "story-chapter-written": [writtenChapter("c-1", { scenes: ["image/image-a"] })],
+  })
+  await rerollOf(WRITTEN, held.effects)
+  expect(held.drawn).toEqual([])
+  expect(held.answers[0]).toContain("Nothing in this story")
 })

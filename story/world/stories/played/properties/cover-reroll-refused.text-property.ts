@@ -5,7 +5,7 @@ export const coverRerollRefused = {
   type: "page-type/text-property",
   slug: "cover-reroll-refused",
   propertySlug: "cover-reroll-refused",
-  definition: "why the last turn cover a story's player asked to have drawn again was not drawn",
+  definition: "why the last picture a story's reader asked to have drawn again was not drawn",
   maxLength: 2000,
   nameFormat: null,
   decisions: [

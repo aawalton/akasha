@@ -1,3 +1,4 @@
+import { readFileSync } from "node:fs"
 import { dirname, join } from "node:path"
 import { headOf } from "akasha/git/modules/head-commit/head-commit.module.code.ts"
 import {
@@ -34,13 +35,29 @@ import {
   type Writing,
   writingFor,
 } from "akasha/page/service/modules/page-calling/page-calling.module.code.ts"
-import type { Naming } from "akasha/page/service/modules/page-composing/page-composing.module.code.ts"
+import type {
+  Naming,
+  Put,
+} from "akasha/page/service/modules/page-composing/page-composing.module.code.ts"
+import { recordIn } from "akasha/story/engine/beat-state/modules/beat-changes/beat-changes.module.code.ts"
 
 const STORY = "story-played"
 
 const TURN = "story-turn-played"
 
 const CHAPTER = "story-chapter-played"
+
+const WRITTEN = "story-written"
+
+const WRITTEN_CHAPTER = "story-chapter-written"
+
+const SCENES = "scenes"
+
+const PICTURED = "pictured"
+
+const BEATS = "beats"
+
+const PAGE_ENDS = /\.ts$/
 
 const IMAGE = "image"
 
@@ -57,6 +74,10 @@ const TURN_COVERS = "turnCovers"
 const PAGE_TAIL = `.${STORY}.ts`
 
 const BESIDE_TAIL = `.${STORY}.uncommitted.ts`
+
+const WRITTEN_PAGE_TAIL = `.${WRITTEN}.ts`
+
+const WRITTEN_BESIDE_TAIL = `.${WRITTEN}.uncommitted.ts`
 
 const REJECTED = "F"
 
@@ -153,18 +174,62 @@ export function repointed(
   return named
 }
 
-export function rerollWriting(
-  named: readonly Naming[],
+export type Held = { readonly pages: readonly Naming[]; readonly puts: readonly Put[] }
+
+export function beatsRepointed(text: string, from: string, to: string): string | null {
+  let moved = false
+  const lines = text.split("\n").map((line) => {
+    if (!line.includes(from)) return line
+    const held = recordIn(line)
+    if (held === null) return line
+    const listed = held[PICTURED]
+    if (!Array.isArray(listed)) return line
+    const pictured = listed.map((entry) => coverEntryIn(entry, from, to))
+    if (pictured.every((entry, at) => entry === listed[at])) return line
+    moved = true
+    return JSON.stringify({ ...held, [PICTURED]: pictured })
+  })
+  return moved ? lines.join("\n") : null
+}
+
+export function writtenRepointed(
+  chapters: readonly Row[],
+  beatsOf: (path: string) => string | null,
   from: string,
-  to: string,
-  read: string
-): Writing {
+  to: string
+): Held {
+  const pages: Naming[] = []
+  const puts: Put[] = []
+  for (const one of chapters) {
+    const slug = textAt(one.value, "slug")
+    if (slug === null) continue
+    const values: Value = {}
+    if (one.value[COVER] === from) values[COVER] = to
+    const scenes = one.value[SCENES]
+    if (Array.isArray(scenes) && scenes.includes(from)) {
+      values[SCENES] = scenes.map((scene: unknown) => (scene === from ? to : scene))
+    }
+    if (Object.keys(values).length > 0) {
+      pages.push({ pageTypeSlug: WRITTEN_CHAPTER, slug, values, merge: true })
+    }
+    const ending = textAt(one.value, BEATS)
+    if (ending === null) continue
+    const path = one.path.replace(PAGE_ENDS, `.${BEATS}.${ending}`)
+    const text = beatsOf(path)
+    const content = text === null ? null : beatsRepointed(text, from, to)
+    if (content !== null) puts.push({ path, content })
+  }
+  return { pages, puts }
+}
+
+export function rerollWriting(held: Held, from: string, to: string, read: string): Writing {
   return {
     writer: WRITER,
-    message: `the turn cover ${from} is drawn again as ${to}, and ${from} is graded F`,
+    message: `the picture ${from} is drawn again as ${to}, and ${from} is graded F`,
     read,
+    ...(held.puts.length === 0 ? {} : { puts: held.puts }),
     pages: [
-      ...named,
+      ...held.pages,
       {
         pageTypeSlug: IMAGE,
         slug: from.slice(IMAGE_OPENS.length),
@@ -202,26 +267,27 @@ export type Rerolling = {
   readonly image: (address: string) => Value | null
   readonly head: () => string
   readonly rows: (pageTypeSlug: string) => readonly Row[]
+  readonly file: (path: string) => string | null
   readonly draw: (drawing: Drawing) => Promise<string>
   readonly write: (writing: Writing) => Promise<string | null>
   readonly answer: (story: string, refused: string | null) => undefined
 }
 
-function holdersIn(folder: string, effects: Rerolling, from: string, to: string) {
-  return repointed(
-    within(folder, effects.rows(TURN)),
-    within(folder, effects.rows(CHAPTER)),
-    from,
-    to
-  )
+function holdersIn(story: string, effects: Rerolling, from: string, to: string): Held {
+  const folder = dirname(story)
+  if (story.endsWith(WRITTEN_PAGE_TAIL)) {
+    return writtenRepointed(within(folder, effects.rows(WRITTEN_CHAPTER)), effects.file, from, to)
+  }
+  const turns = within(folder, effects.rows(TURN))
+  return { pages: repointed(turns, within(folder, effects.rows(CHAPTER)), from, to), puts: [] }
 }
 
 async function redrawn(story: string, asked: string, effects: Rerolling): Promise<string | null> {
   const drawing = drawingOf(effects.image(asked))
   if ("refused" in drawing) return drawing.refused
-  const folder = dirname(story)
-  if (holdersIn(folder, effects, asked, asked).length === 0) {
-    return "No turn of this story has that picture as its cover any more."
+  const held = holdersIn(story, effects, asked, asked)
+  if (held.pages.length === 0 && held.puts.length === 0) {
+    return "Nothing in this story shows that picture any more."
   }
   let drawn: string
   try {
@@ -231,8 +297,9 @@ async function redrawn(story: string, asked: string, effects: Rerolling): Promis
   }
   if (drawn === asked) return "The picture came out the same as before, so nothing changed."
   const read = effects.head()
-  const named = holdersIn(folder, effects, asked, drawn)
-  return await effects.write(rerollWriting(named, asked, drawn, read))
+  return await effects.write(
+    rerollWriting(holdersIn(story, effects, asked, drawn), asked, drawn, read)
+  )
 }
 
 export async function rerollOf(story: string, effects: Rerolling): Promise<boolean> {
@@ -299,6 +366,13 @@ function rerollingAt(root: string): Rerolling {
     },
     head: () => headOf(root),
     rows: (pageTypeSlug) => valuesOfType(root, pageTypeSlug),
+    file: (path) => {
+      try {
+        return readFileSync(join(root, path), "utf8")
+      } catch {
+        return null
+      }
+    },
     draw: drawnAs,
     write: writtenBy,
     answer: (story, refused) => {
@@ -314,13 +388,19 @@ export function storiesIn(root: string): readonly string[] {
     .filter((path) => path.endsWith(PAGE_TAIL))
 }
 
+export function writtenIn(root: string): readonly string[] {
+  return everyOfType(root, WRITTEN)
+    .map((one) => one.path)
+    .filter((path) => path.endsWith(WRITTEN_PAGE_TAIL))
+}
+
 export function holdsStory(at: string): boolean {
-  return at.endsWith(BESIDE_TAIL)
+  return at.endsWith(BESIDE_TAIL) || at.endsWith(WRITTEN_BESIDE_TAIL)
 }
 
 export function watchCoverRerolls(whenQuiet?: () => Promise<undefined>): () => undefined {
   const root = akashaRoot()
-  const stories = storiesIn(root)
+  const stories = [...storiesIn(root), ...writtenIn(root)]
   const effects = rerollingAt(root)
   const busy = new Set<string>()
   let lane: Promise<unknown> = Promise.resolve()

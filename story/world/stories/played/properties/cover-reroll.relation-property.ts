@@ -5,12 +5,16 @@ export const coverReroll = {
   type: "page-type/relation-property",
   slug: "cover-reroll",
   propertySlug: "cover-reroll",
-  definition: "the turn cover of a story played that its player asked to have drawn again",
+  definition: "the picture of a story that its reader asked to have drawn again",
   targetPageType: "page-type/image",
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "A story holds one cover asked to be drawn again at a time.",
+      statement: "A story holds one picture asked to be drawn again at a time.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A story played and a story written each hold this ask.",
     },
     {
       decisionKind: "decision-kind/departure",

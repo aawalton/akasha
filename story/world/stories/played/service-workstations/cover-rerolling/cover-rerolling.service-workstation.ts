@@ -4,7 +4,7 @@ export const coverRerolling = {
   id: "01a0e853-50d7-72fe-a224-748adb47cde2",
   type: "page-type/service-workstation",
   slug: "cover-rerolling",
-  definition: "the service drawing again the turn covers players ask to have drawn again",
+  definition: "the service drawing again the story pictures readers ask to have drawn again",
   enabled: true,
   needsSecrets: false,
   systemd: {

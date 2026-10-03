@@ -39,5 +39,19 @@ export const storyWritten = {
   ],
   types: "ts",
   schema: "jsonl",
-  properties: [{ pageProperty: "number-property/word-backlog", required: false, many: false }],
+  properties: [
+    { pageProperty: "number-property/word-backlog", required: false, many: false },
+    {
+      pageProperty: "relation-property/cover-reroll",
+      required: false,
+      many: false,
+      uncommitted: true,
+    },
+    {
+      pageProperty: "text-property/cover-reroll-refused",
+      required: false,
+      many: false,
+      uncommitted: true,
+    },
+  ],
 } as const satisfies PageType

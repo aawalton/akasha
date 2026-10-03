@@ -4,7 +4,7 @@ export const coverRerolling = {
   id: "01a0e851-25d9-756c-ab3b-35fef0612b06",
   type: "page-type/module",
   slug: "cover-rerolling",
-  definition: "a turn cover its player asked for drawn again from its own prompt at a new seed",
+  definition: "a story picture its reader asked for drawn again from its own prompt at a new seed",
   code: "ts",
   test: "ts",
   decisions: [
@@ -25,6 +25,15 @@ export const coverRerolling = {
       decisionKind: "decision-kind/departure",
       statement:
         "Every turn and chapter of the story naming the old cover names the new one, in one commit.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A written story's chapters name the new picture as cover, as scene and on each beat picturing it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A beats file is rewritten only on the lines picturing the old picture.",
     },
     {
       decisionKind: "decision-kind/departure",
