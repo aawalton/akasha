@@ -210,7 +210,7 @@ export const overwhereIiNala3 = {
     },
     {
       fact: "After a morning's sparring, a meal and an hour's rest steady Nala's mind enough for one organ.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Nala's lungs take a whole afternoon to refine; each breath comes short and cold as sea air.",
