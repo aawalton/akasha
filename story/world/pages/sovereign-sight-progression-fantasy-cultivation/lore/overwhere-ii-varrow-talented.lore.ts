@@ -37,7 +37,7 @@ export const overwhereIiVarrowTalented = {
     },
     {
       fact: "Spark lets Corra snap stinging blue sparks from her fingertips, enough to numb a hand.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Training runs two hours from first light: wooden weapons first, then Talents, held light.",
@@ -169,6 +169,10 @@ export const overwhereIiVarrowTalented = {
     },
     {
       fact: "After Hawise's bout, Corra hopped down from the well-curb, sparks crackling, to spar Nala next.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+    },
+    {
+      fact: "In Nala's fourth bout, Corra's spark ran up her tide, numbed her hand, and Corra touched her ribs.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
   ],
