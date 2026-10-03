@@ -70,7 +70,7 @@ export const overwhereIWendlow22 = {
     },
     {
       fact: "Nell Cooley at the Bell and Barrel mends torn clothes with needle and thread, 2 copper a tear.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
     {
       fact: "Nala's afternoon of day 8 in Wendlow passes without incident.",
@@ -82,7 +82,11 @@ export const overwhereIWendlow22 = {
     },
     {
       fact: "The tax rider rides in about 10:00 on day 9 with four guards and the magistrate's purse.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-i-nala",
+        "lore/overwhere-i-grete-holm",
+      ],
     },
     {
       fact: "Odile Varne wants to learn whether Nala read Voss's letter, and who else she has told of it.",
@@ -90,15 +94,27 @@ export const overwhereIWendlow22 = {
     },
     {
       fact: "Grete reads the magistrate's note, says only 'Mind your tongue up there,' and hands it over.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-i-nala",
+        "lore/overwhere-i-grete-holm",
+      ],
     },
     {
       fact: "By 10:30 on day 9 the Board's share reaches Antler Hall; Grete pays both of Nala's chits, 26 gold.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-i-nala",
+        "lore/overwhere-i-grete-holm",
+      ],
     },
     {
       fact: "With the Board's share comes a note: Magistrate Varne asks Nala Arthur to the Moot Hall at noon.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-i-nala",
+        "lore/overwhere-i-grete-holm",
+      ],
     },
     {
       fact: "At supper Nell Cooley eyes Nala's ragged cloak hem and offers to stitch it, 2 copper a tear.",
@@ -118,15 +134,27 @@ export const overwhereIWendlow22 = {
     },
     {
       fact: "The rider brings two slips; the reeve's 8 gold for why Greyfen crystals went dark still stands too.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-i-nala",
+        "lore/overwhere-i-grete-holm",
+      ],
     },
     {
       fact: "New slip: 18 gold for a Level 20 mantis-beast taking sheep and a shepherd on Coldbrook Downs.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-i-nala",
+        "lore/overwhere-i-grete-holm",
+      ],
     },
     {
       fact: "Lowcross ferry lies half a day east of Wendlow; the Ferryman's bounty pays on him, alive or dead.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-i-nala",
+        "lore/overwhere-i-grete-holm",
+      ],
     },
     {
       fact: "Breakfast on day 9 is the Bell and Barrel's porridge with honey and small beer.",
@@ -134,10 +162,22 @@ export const overwhereIWendlow22 = {
     },
     {
       fact: "Coldbrook Downs lie a day's walk north of Wendlow; the mantis bounty pays on its head or forelimbs.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-i-nala",
+        "lore/overwhere-i-grete-holm",
+      ],
     },
     {
       fact: "New slip: 12 gold for Cal Ferrin, the Ferryman, a Level 16 outlaw robbing folk at Lowcross ferry.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-i-nala",
+        "lore/overwhere-i-grete-holm",
+      ],
+    },
+    {
+      fact: "On day 8 Bram Cooley took 8 copper for Nala's eel-stew supper and bed together.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
   ],
