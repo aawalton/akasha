@@ -150,7 +150,7 @@ export const overwhereIiCallowBeck = {
     },
     {
       fact: "Nala's push can roll the whole slick back up the pasture into the gully mouth in close to two hours.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Pushing the slick is plain towing work, and wears Nala's mind no more than towing does.",
