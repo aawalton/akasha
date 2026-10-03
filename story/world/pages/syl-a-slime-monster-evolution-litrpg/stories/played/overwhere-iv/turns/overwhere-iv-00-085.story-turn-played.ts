@@ -10,7 +10,7 @@ export const overwhereIv00085 = {
   position: 85,
   prose: "txt",
   characters: ["character-player/overwhere-iv-nala", "character-other/overwhere-iv-ilsa-crane"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/game-master",
   action: "“Sure. Don’t mind some company after a night like that.”",
   beats: [
     '"Sure," Nala tells Dace. "Don\'t mind some company after a night like that."',
@@ -30,6 +30,7 @@ export const overwhereIv00085 = {
     '"It goes east with the morning carter. Your tag comes back in about ten days."',
     'She looks up. "Six more dead in the cleft? Their ears are a silver each, if anyone fetches them."',
   ],
+  issues: ["\"once Tull's late wife's\" - What It Is"],
   lore: [
     "lore/overwhere-iv-ilsa-crane-2",
     "lore/overwhere-iv-millbrook-adventurers-hall-2",
@@ -40,6 +41,6 @@ export const overwhereIv00085 = {
     "place/overwhere-iv-the-tangle",
     "place/overwhere-iv-tull-farm",
   ],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
   endsAt: "2026-10-07T07:20:00.000Z",
 } as const satisfies StoryTurnPlayed
