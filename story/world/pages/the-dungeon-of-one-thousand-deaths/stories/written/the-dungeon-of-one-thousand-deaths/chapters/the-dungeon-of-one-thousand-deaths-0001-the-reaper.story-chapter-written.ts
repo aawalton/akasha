@@ -10,4 +10,6 @@ export const theDungeonOfOneThousandDeaths0001TheReaper = {
   ownLength: 5477,
   unit: "unit/words",
   prose: "txt",
+  beats: "jsonl",
+  stepStatus: "step-status/player",
 } as const satisfies StoryChapterWritten
