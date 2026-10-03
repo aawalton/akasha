@@ -267,5 +267,17 @@ export const overwhereIiReeveCorwinDray2 = {
       fact: "Dray holds the prisoners in his house's cellar, with a watchman at its hatch day and night.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
+    {
+      fact: "Told of the tidepool, Dray bids Hob forge the stakes at once, and asks the Ford for old iron.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Dray pays Hob from the valley purse and will ask Lady Varrow to make it good.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Dray sends Rob Reed to the Keep with word of the tidepool and of Maud; two Pells carry stakes up.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
