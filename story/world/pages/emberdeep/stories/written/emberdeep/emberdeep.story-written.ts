@@ -10,6 +10,6 @@ export const emberdeep = {
   unit: "unit/words",
   chapterBreak: "A day in Emberdeep ends.",
   coordinatorAgent: "mari-game-master-emberdeep",
-  following: true,
+  following: false,
   panels: ["played-panel/player-character", "played-panel/scene-cover"],
 } as const satisfies StoryWritten
