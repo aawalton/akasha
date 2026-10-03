@@ -10,7 +10,7 @@ export const overwhereI00114 = {
   position: 114,
   prose: "txt",
   characters: ["character-player/overwhere-i-nala", "character-other/overwhere-i-harl-voss"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/game-master",
   action: "I hand it over, then travel back to town and turn in the fangs for the bounty",
   beats: [
     "Nala hands Dickon's belt to Jory.",
@@ -27,6 +27,7 @@ export const overwhereI00114 = {
     '"That letter went to the magistrate yesterday," she adds, low. "That\'s all I\'ll say of it."',
     '"Board\'s bare till the rider brings fresh slips tomorrow," Grete says. "What now, Nala Arthur?"',
   ],
+  issues: ['"What now, Nala Arthur?" - No Prompt'],
   lore: [
     "lore/overwhere-i-hobbs-mill-weir-2",
     "lore/overwhere-i-nala",
@@ -34,6 +35,6 @@ export const overwhereI00114 = {
     "lore/overwhere-i-wendlow-2",
     "lore/overwhere-i-wendlow-2-2",
   ],
-  reviewedBy: ["story-reviewer/continuity"],
+  reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
   endsAt: "2026-10-06T14:37:00.000Z",
 } as const satisfies StoryTurnPlayed
