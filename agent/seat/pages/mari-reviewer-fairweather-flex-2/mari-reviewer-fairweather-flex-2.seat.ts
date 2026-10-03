@@ -11,4 +11,5 @@ export const mariReviewerFairweatherFlex2 = {
   startMode: "seat-mode/headless",
   onCall: false,
   registrationAccount: "model-account/aawalton",
+  claudeCodeSessionUuid: "312b483a-cefb-401f-a4b6-94d8c1bd9f4e",
 } as const satisfies Seat
