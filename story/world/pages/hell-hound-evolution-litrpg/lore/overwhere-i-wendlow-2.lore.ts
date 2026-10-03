@@ -102,7 +102,7 @@ export const overwhereIWendlow2 = {
     },
     {
       fact: "Grete pockets the letter, tells Nala to say nothing of it, and means to take it to the magistrate.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
     {
       fact: "The crew ears and tags already lie in the Board's chest from the payout; Grete pays nothing more.",
