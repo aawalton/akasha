@@ -15,4 +15,5 @@ export const overwhereIv00091 = {
     "lore/overwhere-iv-the-tangle-2",
     "lore/overwhere-iv-the-tangle-2-2",
   ],
+  endsAt: "2026-10-07T17:10:00.000Z",
 } as const satisfies StoryTurnPlayed
