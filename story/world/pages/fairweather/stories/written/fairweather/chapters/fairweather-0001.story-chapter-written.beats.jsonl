@@ -1,50 +1,52 @@
 {"beat":1,"event":"Elsie wakes in the attic room to bread-smell and lake mist on the round window.","at":"2026-06-01T05:20:00.000Z","place":"place/fairweather-honeycomb","present":["character-player/fairweather-elsie"]}
 {"beat":2,"event":"She greets her four potted plants by name, then washes at the cold basin."}
-{"beat":3,"event":"She laces her novice's cream halter, hands unsteady, and clips the flower above one ear.","changes":[{"page":"story-item/fairweather-adventurers-outfit","note":"Elsie laces the novice's outfit on: worn at the body","key":"slot","from":null,"to":"item-slot/body"},{"page":"story-item/fairweather-flower-clip","note":"Flower clip put on above one ear","key":"slot","from":null,"to":"item-slot/head"}]}
-{"beat":4,"event":"She seals the week's letter, counts her coins, and packs the satchel: salve, bandages.","changes":[{"page":"metric-character-currency/fairweather-elsie","note":"Elsie counts her coins: her purse is shown","key":"unrevealed","from":true,"to":false}]}
+{"beat":3,"event":"She laces her novice's cream halter, hands unsteady, and clips the flower above one ear."}
+{"beat":4,"event":"She seals the week's letter, counts her coins, and packs the satchel: salve, bandages."}
 {"beat":5,"event":"Elsie eats a warm roll at the bakery, and the baker waves her out.","at":"2026-06-01T06:05:00.000Z","place":"place/fairweather-lanternmere","present":["character-player/fairweather-elsie"]}
 {"beat":6,"event":"She posts the letter at the corner shop; two women go by arm in arm."}
 {"beat":7,"event":"The Hall of Naming stands white above the lake, its glass dome full of morning.","at":"2026-06-01T08:40:00.000Z","place":"place/fairweather-hall-of-naming","present":["character-player/fairweather-elsie"]}
 {"beat":8,"event":"The girl ahead asks if she is nervous; Elsie says yes, and warms her cold hands.","at":"2026-06-01T09:00:00.000Z"}
 {"beat":9,"event":"Inside, a priestess calls the names; the first girl's window opens above her."}
 {"beat":10,"event":"Elsie hopes for simples; then her turn comes, and she steps into the circle.","at":"2026-06-01T10:00:00.000Z"}
-{"beat":11,"event":"It reads: Enthraller.","changes":[{"page":"character-class/fairweather-elsie-enthraller","note":"Class: Enthraller; the Naming window names it","key":"unrevealed","from":true,"to":false}]}
+{"beat":11,"event":"It reads: Enthraller."}
 {"beat":12,"event":"She reads it twice; the silence spreads outward and nobody in the hall moves."}
-{"beat":13,"event":"A woman in the gallery takes her child and leaves; the priestess calls no next name."}
+{"beat":13,"event":"A woman in the gallery rises and walks out; the priestess calls no next name."}
 {"beat":14,"event":"Elsie says, Oh! that sounds like a lot of responsibility, and steps down."}
 {"beat":15,"event":"The hall does not clap; outside, the others from the line look at her and away."}
 {"beat":16,"event":"She walks down from the hall alone, and the city is warm and ordinary around her.","at":"2026-06-01T11:10:00.000Z","place":"place/fairweather-lanternmere","present":["character-player/fairweather-elsie"]}
 {"beat":17,"event":"The guild hall is timber and noise, its green copper roof across Brightwater Square.","at":"2026-06-01T11:40:00.000Z","place":"place/fairweather-guild-hall","present":["character-player/fairweather-elsie"]}
 {"beat":18,"event":"In the registration line, the clerk takes her name and asks her class."}
 {"beat":19,"event":"She says Enthraller; the clerk's pen stops, and he goes up the stairs."}
-{"beat":20,"event":"The guildmaster comes down, grey and sword-calloused, and takes Elsie up."}
+{"beat":20,"event":"The guildmaster comes down, grey and sword-calloused, and takes Elsie up.","at":"2026-06-01T12:30:00.000Z"}
 {"beat":21,"event":"She reads the Strings Accord: every skill reported, none on anyone unwilling."}
-{"beat":22,"event":"Told the watching is so nothing goes wrong, Elsie says she is glad of it."}
-{"beat":23,"event":"She counts the fee onto the desk; the clerk stamps a copper tag with an F.","changes":[{"page":"character-rank/fairweather-elsie-rank-f","note":"Rank: F; the clerk stamps her copper tag","key":"unrevealed","from":true,"to":false},{"page":"metric-character-currency/fairweather-elsie","note":"Guild registration fee, two lanterns: 134 -> 114 pips","key":"value","from":134,"to":114},{"page":"metric-character-currency/fairweather-elsie","note":"Guild registration fee, two lanterns: purse 114 pips","key":"history","append":{"turn":1,"value":114}}]}
+{"beat":22,"event":"Told the watching is so nothing goes wrong, Elsie says she is glad of it.","at":"2026-06-01T13:00:00.000Z"}
+{"beat":23,"event":"She counts the fee onto the desk; the clerk stamps a copper tag with an F.","at":"2026-06-01T13:10:00.000Z"}
 {"beat":24,"event":"The guildmaster opens the charcoal door: a young woman stands with a black ledger.","arrive":["character-other/fairweather-cora"]}
-{"beat":25,"event":"Warden Corisande Vane, called Cora, will go with her and write down every skill."}
+{"beat":25,"event":"Warden Corisande Vane, called Cora, will go with her and write down every skill.","at":"2026-06-01T13:20:00.000Z"}
 {"beat":26,"event":"Cora will report each to the guildmaster; Elsie thanks her for coming."}
 {"beat":27,"event":"Cora does not answer; Elsie asks what she likes in her tea."}
 {"beat":28,"event":"Cora says: black and strong, one sugar; Elsie says she will remember it."}
-{"beat":29,"event":"Back in the hall, Elsie reads the F-rank notices, then finds the party board."}
+{"beat":29,"event":"Back in the hall, Elsie reads the F-rank notices, then finds the party board.","at":"2026-06-01T14:00:00.000Z"}
 {"beat":30,"event":"Parties look each other over and nobody looks at her; the slates she asks are full."}
 {"beat":31,"event":"The fourth slate is turned to the wall; the cast-offs' slates stand at the corner."}
-{"beat":32,"event":"A woman with a great axe strapped across her back is arguing at one of them.","arrive":["character-other/fairweather-tamsin"]}
+{"beat":32,"event":"A woman with a great axe strapped across her back is arguing at one of them.","at":"2026-06-01T14:30:00.000Z","arrive":["character-other/fairweather-tamsin"]}
 {"beat":33,"event":"She offers Elsie the half of her slate she has not used; the axe is Margery."}
 {"beat":34,"event":"The Copper Hounds dropped Tamsin this morning, over the shield-bearer's arm."}
 {"beat":35,"event":"Elsie's hand goes flat on Tamsin's wrist; Tamsin goes still, and her ears are red."}
 {"beat":36,"event":"Elsie asks whether the arm is mending; Tamsin stares, and says probably."}
-{"beat":37,"event":"A small woman in brass goggles, Ottilie Brandt called Tilly, comes out talking fast.","arrive":["character-other/fairweather-tilly"]}
+{"beat":37,"event":"A small woman in brass goggles, Ottilie Brandt called Tilly, comes out talking fast.","at":"2026-06-01T15:00:00.000Z","arrive":["character-other/fairweather-tilly"]}
 {"beat":38,"event":"Thrown out of the Alchemists' College, she answers what she brews with three warnings."}
 {"beat":39,"event":"Tilly goes red to the ears when Elsie smiles, and drops her chalk twice."}
-{"beat":40,"event":"Tamsin's guild notice: six lanterns for the apothecary, moonbells at the Glasswood."}
+{"beat":40,"event":"Tamsin's guild notice: six lanterns for the apothecary, moonbells at the Glasswood.","at":"2026-06-01T15:30:00.000Z"}
 {"beat":41,"event":"Elsie says the three could take it; Tamsin asks if she has been in a dungeon."}
-{"beat":42,"event":"Elsie chalks three names on the last slate; Tilly writes hers under, then Tamsin."}
+{"beat":42,"event":"Elsie chalks three names on the last slate; Tilly writes hers under, then Tamsin.","at":"2026-06-01T16:00:00.000Z"}
 {"beat":43,"event":"Tilly asks her class; Elsie says Enthraller and does not look away."}
 {"beat":44,"event":"Tamsin says, so you can make me do anything; Elsie says that is not how hers works."}
-{"beat":45,"event":"Tilly asks about bonds; Cora watches the wrist, the chalk, the red ears, and writes nothing."}
-{"beat":46,"event":"The lamplighters' boats move along the canal, and the lanterns come on one by one.","at":"2026-06-01T19:40:00.000Z"}
-{"beat":47,"event":"Elsie thinks the three of them are going to be friends, and is glad enough to hum."}
-{"beat":48,"event":"Cora opens the black ledger, writes nothing, and puts it back under her coat."}
-{"beat":49,"event":"Asked what she will write, Cora says she has not decided."}
-{"beat":50,"event":"Elsie says she will try to give her something good to write."}
+{"beat":45,"event":"Tilly asks about bonds; Cora watches the wrist, the chalk, the red ears, and writes nothing.","at":"2026-06-01T17:00:00.000Z"}
+{"beat":46,"event":"Somebody brings bread and a jug, and the four of them eat standing at the board.","at":"2026-06-01T17:30:00.000Z"}
+{"beat":47,"event":"Tamsin says moonbells open at dusk, so they will go out at dusk tomorrow.","at":"2026-06-01T18:00:00.000Z"}
+{"beat":48,"event":"Elsie thinks the three of them are going to be friends, and is glad enough to hum.","at":"2026-06-01T18:30:00.000Z"}
+{"beat":49,"event":"The lamplighters' boats move along the canal, and the lanterns come on one by one.","at":"2026-06-01T19:40:00.000Z"}
+{"beat":50,"event":"Cora opens the black ledger, writes nothing, and puts it back under her coat."}
+{"beat":51,"event":"Asked what she will write, Cora says she has not decided."}
+{"beat":52,"event":"Elsie says she will try to give her something good to write."}
