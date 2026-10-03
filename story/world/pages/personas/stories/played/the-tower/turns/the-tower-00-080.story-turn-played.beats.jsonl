@@ -1,0 +1,6 @@
+{"beat":1,"event":"He unlashes the core and lets the maul lie: what he wants is inside the iron."}
+{"beat":2,"event":"Cradling the drum to his chest, he turns his whole body with it, matching its turning force."}
+{"beat":3,"event":"This time it is there: he catches hold of a vast wound stillness coiled in the metal."}
+{"beat":4,"event":"Force Affinity.","changes":[{"page":"tower-attunement/the-tower-alan-force","make":{"character":"character-player/the-tower-alan","element":"tower-element/the-tower-force","rank":"tower-attunement-rank/the-tower-affinity","counter":1},"note":"Force affinity wakes as he grips the drum's stored force"}]}
+{"beat":5,"event":"He pulls it in to keep, and it sluices straight through him; he keeps not a drop.","changes":[{"page":"tower-mana/the-tower-alan","key":"value","from":90,"to":82,"note":"Reaching for and drawing the foreign force"}]}
+{"beat":6,"event":"The backlash spins him three staggering steps: he is the wrong vessel, and must bind it outside.","changes":[{"page":"tower-stamina/the-tower-alan","key":"value","from":66,"to":54,"note":"The spinning and the backlash"}]}

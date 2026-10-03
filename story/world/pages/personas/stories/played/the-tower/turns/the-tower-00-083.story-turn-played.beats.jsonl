@@ -1,0 +1,9 @@
+{"beat":1,"event":"Spinning, he steps down off the threshold into the cold and goes forward, all in.","place":"place/the-tower-the-deep-den"}
+{"beat":2,"event":"The gold goes threadbare over wet, real stone, and the slope pulls him forward and down."}
+{"beat":3,"event":"Warm, glad presences pass through his wheel unburnt; the pull to sit runs strongest one way."}
+{"beat":4,"event":"He follows the lie downhill to where it is made; a gracious voice says sit, you've earned it.","place":"place/the-tower-the-hosts-seat"}
+{"beat":5,"event":"He pours the core's last coal and his own deep well into one shaped, burning circle.","changes":[{"page":"tower-mana/the-tower-alan","key":"value","from":110,"to":65,"note":"The hottest and most careful fire he has ever released"},{"page":"tower-stamina/the-tower-alan","key":"value","from":60,"to":44,"note":"The long spinning descent and the great turn"}]}
+{"beat":6,"event":"His fire passes through voice after voice, then lands and stays on one: real flesh.","arrive":["character-other/the-tower-the-host-01"]}
+{"beat":7,"event":"Every warm thread runs back to the thing at the table's head, and he brings the wheel down."}
+{"beat":8,"event":"The gold tears off the walls and the voices die: what is left is cold wet stone and old bone.","memory":[{"page":"place/the-tower-the-deep-den","fact":"The Deep Den is the Host's cold stone predation-chamber, bare of any glamour.","shown":true},{"page":"place/the-tower-the-deep-den","fact":"The Deep Den is the Host's cold stone predation-chamber, bare of any glamour.","learns":"character-player/the-tower-alan"}]}
+{"beat":9,"event":"The cracked thing does not fall: something lean, quick and cold gets up out of it and comes.","arrive":["character-other/the-tower-the-host-trueform-02"]}
