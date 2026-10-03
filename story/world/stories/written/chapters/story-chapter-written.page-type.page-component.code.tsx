@@ -9,6 +9,7 @@ import {
 import { beatsIn } from "akasha/story/engine/beat-state/modules/beat-records/beat-records.module.code.ts"
 import { ChapterProse } from "akasha/story/ui/modules/chapter-prose/chapter-prose.module.code.tsx"
 import type { InlineCover } from "akasha/story/ui/modules/inline-cover/inline-cover.module.code.tsx"
+import { proseSegmentsOf } from "akasha/story/ui/modules/session-envelope/session-envelope.module.code.ts"
 import type { SubmitPlayerAction } from "akasha/story/ui/modules/system-choice-card/system-choice-card.module.code.tsx"
 import { ChapterPanels } from "akasha/story/world/stories/written/chapters/modules/chapter-panels/chapter-panels.module.code.tsx"
 
@@ -67,6 +68,7 @@ function WrittenProse({
   return (
     <ChapterProse
       text={body}
+      segments={proseSegmentsOf(body)}
       covers={writtenCoversOf(id, beatsText ?? "", data)}
       muted={false}
       submitPlayerAction={submitsNothing}
