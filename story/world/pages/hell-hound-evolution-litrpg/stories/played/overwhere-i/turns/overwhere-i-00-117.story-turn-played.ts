@@ -4,6 +4,7 @@ export const overwhereI00117 = {
   id: "01a103cb-b45d-7ab4-b34b-04e1c4afef2b",
   type: "page-type/story-turn-played",
   slug: "overwhere-i-00-117",
+  cover: "image/image-a76a144d0a30081e",
   ownLength: 481,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-i"],
@@ -25,6 +26,12 @@ export const overwhereI00117 = {
     "lore/overwhere-i-wendlow-3",
     "place/overwhere-i-wendlow",
   ],
-  recordedBy: ["story-recorder/mechanics", "story-recorder/inventory", "story-recorder/plan"],
+  recordedBy: [
+    "story-recorder/mechanics",
+    "story-recorder/inventory",
+    "story-recorder/plan",
+    "story-recorder/picture",
+  ],
   endsAt: "2026-10-07T12:15:00.000Z",
+  coverAfter: "Odile Varne, Magistrate of Wendlow, looks you over from boots to hood",
 } as const satisfies StoryTurnPlayed
