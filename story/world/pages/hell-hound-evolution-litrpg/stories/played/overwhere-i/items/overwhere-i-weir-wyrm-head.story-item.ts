@@ -6,7 +6,7 @@ export const overwhereIWeirWyrmHead = {
   slug: "overwhere-i-weir-wyrm-head",
   title: "Weir Wyrm's Head",
   story: "story-played/overwhere-i",
-  character: "character-player/overwhere-i-nala",
+  place: "place/overwhere-i-hobbs-mill-weir",
   description:
     "The Weir Wyrm's scorched, grey-green head, about 80 pounds, with fangs a hand long.",
 } as const satisfies StoryItem
