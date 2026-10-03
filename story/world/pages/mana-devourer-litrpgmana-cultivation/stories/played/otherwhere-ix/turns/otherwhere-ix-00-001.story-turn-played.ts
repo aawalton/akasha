@@ -11,6 +11,7 @@ export const otherwhereIx00001 = {
   ownLength: 450,
   unit: "unit/words",
   prose: "txt",
+  beats: "jsonl",
   characters: ["character-player/otherwhere-ix-nala"],
   stepStatus: "step-status/player",
   lore: ["lore/otherwhere-ix-nala", "place/otherwhere-ix-glassgrass-flats"],
