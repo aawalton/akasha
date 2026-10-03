@@ -4,10 +4,13 @@ export const overwhereIv00082 = {
   id: "01a0ff49-1e90-7378-bbbc-7c0f74a932ff",
   type: "page-type/story-turn-played",
   slug: "overwhere-iv-00-082",
+  ownLength: 121,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iv"],
   position: 82,
-  stepStatus: "step-status/writer",
+  prose: "txt",
+  characters: ["character-player/overwhere-iv-nala"],
+  stepStatus: "step-status/reviewers",
   action:
     "“I can take at least two with my skill before they reach us. Who should I target? The hobs?”",
   beats: [
@@ -20,6 +23,12 @@ export const overwhereIv00082 = {
     "They pour down to the ford, a river of fire on the black water.",
     "In the middle of them, two shapes stand a head taller than the rest: one with a maul, one a spear.",
   ],
-  lore: ["lore/overwhere-iv-brookside-four-2", "lore/overwhere-iv-the-tangle-2"],
+  lore: [
+    "lore/overwhere-iv-brookside-four-2",
+    "lore/overwhere-iv-nala",
+    "lore/overwhere-iv-nala-2",
+    "lore/overwhere-iv-nala-3",
+    "lore/overwhere-iv-the-tangle-2",
+  ],
   endsAt: "2026-10-06T23:57:00.000Z",
 } as const satisfies StoryTurnPlayed
