@@ -10,7 +10,7 @@ export const overwhereIv00094 = {
   position: 94,
   prose: "txt",
   characters: ["character-player/overwhere-iv-nala"],
-  stepStatus: "step-status/game-master",
+  stepStatus: "step-status/writer",
   action: "I turn and sprint for the ambush, weaving a bit to dodge slings",
   beats: [
     "Nala turns and sprints down the deer trail for the ford.",
@@ -22,8 +22,8 @@ export const overwhereIv00094 = {
     "She bursts out of the Tangle into the morning light and splashes into the ford, knee-deep.",
     "Across the water, behind the drystone wall, Dace's shield rises. Merrit's hand is already glowing.",
     "She scrambles up the bank and over the wall.",
-    "Behind her the goblins pour out of the trees, a dozen of them, shrieking, straight for the ford.",
-    "In their midst, the hobgoblin with the maul bellows and wades in first.",
+    "Behind her nine goblins pour out of the trees, shrieking, straight for the ford.",
+    "The hobgoblin with the maul shoulders to the front, bellowing, and wades in first.",
   ],
   issues: [
     '"a dozen of them" - the hunters are eleven goblins, and the two scouts hang back at the treeline',
