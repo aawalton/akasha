@@ -10,6 +10,7 @@ export const overwhereIi0001Undertow = {
   story: "story-played/overwhere-ii",
   ownLength: 3034,
   prose: "txt",
+  beats: "jsonl",
   turnCovers: [
     {
       position: 1,
