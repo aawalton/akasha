@@ -11,4 +11,5 @@ export const overwhereI00104 = {
   action:
     "“Lets do the ring, I like to keep my hands free. Anything we can do it make it stronger? I have gold to spare, say up to 50 gold investment? What options do you have for me?”",
   lore: ["lore/overwhere-i-wendlow-2"],
+  endsAt: "2026-10-05T13:10:00.000Z",
 } as const satisfies StoryTurnPlayed
