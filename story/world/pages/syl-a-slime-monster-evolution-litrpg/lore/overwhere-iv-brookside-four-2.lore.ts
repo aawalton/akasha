@@ -302,5 +302,13 @@ export const overwhereIvBrooksideFour2 = {
         "character-other/overwhere-iv-ilsa-crane",
       ],
     },
+    {
+      fact: "At dawn of day 10 Nala and the Four set an ambush at the sheep wall by Tull's ford.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iv-nala",
+        "lore/overwhere-iv-brookside-four",
+      ],
+    },
   ],
 } as const satisfies Lore

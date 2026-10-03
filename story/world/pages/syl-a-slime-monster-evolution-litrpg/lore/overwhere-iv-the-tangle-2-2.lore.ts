@@ -164,5 +164,17 @@ export const overwhereIvTheTangle22 = {
       fact: "The hunters mutter as they go and are heard at forty paces; the scouts go silent.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "On day 10 Nala crept alone up the deer trail, off it in the brush, her sense spread in pulses.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+    },
+    {
+      fact: "Near 08:45, some 1.7 miles in, her sense found two silent goblins coming down, forty paces ahead.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+    },
+    {
+      fact: "Beyond those two she heard many goblins muttering up the trail, and one heavy tread.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+    },
   ],
 } as const satisfies Lore
