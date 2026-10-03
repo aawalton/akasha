@@ -4,7 +4,7 @@ export const overwhereIii00095 = {
   id: "01a101d3-88b7-79ff-b68a-c1ae0246aa91",
   type: "page-type/story-turn-played",
   slug: "overwhere-iii-00-095",
-  ownLength: 238,
+  ownLength: 240,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iii"],
   position: 95,
@@ -14,7 +14,7 @@ export const overwhereIii00095 = {
     "character-other/overwhere-iii-brannagh-tull",
     "character-other/overwhere-iii-tam-rowe",
   ],
-  stepStatus: "step-status/writer",
+  stepStatus: "step-status/recorders",
   action:
     "“That will be useful.” I walk back to town, dinner and bed, then check in and heal any patients, training with the guard, lunch, then hunting for blighted beasts again.",
   beats: [
