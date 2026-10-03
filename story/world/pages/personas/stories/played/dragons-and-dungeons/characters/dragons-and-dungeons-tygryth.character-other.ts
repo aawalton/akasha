@@ -6,4 +6,5 @@ export const dragonsAndDungeonsTygryth = {
   slug: "dragons-and-dungeons-tygryth",
   title: "Tygryth",
   story: "story-played/dragons-and-dungeons",
+  place: "place/dragons-and-dungeons-the-well",
 } as const satisfies CharacterOther

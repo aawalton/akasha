@@ -7,4 +7,5 @@ export const dragonsAndDungeonsAlan = {
   title: "Alan",
   story: "story-played/dragons-and-dungeons",
   person: "person/alan",
+  place: "place/dragons-and-dungeons-caer-arianrhod",
 } as const satisfies CharacterPlayer
