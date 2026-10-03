@@ -280,5 +280,9 @@ export const overwhereIWendlow2 = {
       fact: "Mother Sallow lends Nala a stoppered clay jar and a hank of waxed twine for the sac.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "From the river stairs, the Bell and Barrel on the square is a ten-minute walk.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
