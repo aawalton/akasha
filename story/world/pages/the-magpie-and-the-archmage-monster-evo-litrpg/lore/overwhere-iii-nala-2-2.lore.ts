@@ -144,5 +144,9 @@ export const overwhereIiiNala22 = {
         "character-other/overwhere-iii-edda-crane",
       ],
     },
+    {
+      fact: "By day eleven's first light the wolf bites on Nala are only pink marks.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+    },
   ],
 } as const satisfies Lore
