@@ -7,7 +7,8 @@ export const overwhereI00099 = {
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-i"],
   position: 99,
-  stepStatus: "step-status/world-builder",
+  stepStatus: "step-status/game-master",
   action:
     "“I’m level 10 now. I was 7 when I met Voss. 4 when I went after the wolves. I know, I’m mad and driving for an early grave, but I got the job done.” I tell her with a manic smile. “Didn’t know Voss was 24, but that explains why he took so much killing. He was harder to kill on his own than they entire wolf pack.”",
+  lore: ["place/overwhere-i-wendlow"],
 } as const satisfies StoryTurnPlayed
