@@ -7,4 +7,5 @@ export const superSupportiveGorgon = {
   title: "Gorgon",
   world: "world/super-supportive",
   story: "story-read/super-supportive",
+  place: "place/super-supportive-artonan-consulate-4",
 } as const satisfies CharacterOther
