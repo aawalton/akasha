@@ -7,7 +7,8 @@ export const overwhereIii00096 = {
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iii"],
   position: 96,
-  stepStatus: "step-status/world-builder",
+  stepStatus: "step-status/game-master",
   action:
     "I hunt the board, when I get close, I cast my ward on myself first, then find the boar and hit it in the head with my braid until it dies",
+  lore: ["lore/overwhere-iii-corruption-2"],
 } as const satisfies StoryTurnPlayed
