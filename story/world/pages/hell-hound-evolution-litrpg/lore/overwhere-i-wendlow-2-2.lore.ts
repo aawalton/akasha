@@ -120,5 +120,9 @@ export const overwhereIWendlow22 = {
       fact: "The rider brings two slips; the reeve's 8 gold for why Greyfen crystals went dark still stands too.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "New slip: 18 gold for a Level 20 mantis-beast taking sheep and a shepherd on Coldbrook Downs.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
