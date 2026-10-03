@@ -123,5 +123,13 @@ export const overwhereIHobbsMillWeir = {
       fact: "Around 9:00 on day 8 a bargeman at Hobb's landing spots Nala on the towpath and waves her down.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
+    {
+      fact: "Hobb's mill is stone below and timber above, squat at the weir's east end.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+    },
+    {
+      fact: "The idle barge crews at Hobb's landing sit on deck, keeping well away from the rails.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+    },
   ],
 } as const satisfies Place
