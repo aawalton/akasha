@@ -4,10 +4,13 @@ export const overwhereIi00099 = {
   id: "01a0ff64-2924-73af-a294-73d3b1351e1a",
   type: "page-type/story-turn-played",
   slug: "overwhere-ii-00-099",
+  ownLength: 238,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-ii"],
   position: 99,
-  stepStatus: "step-status/writer",
+  prose: "txt",
+  characters: ["character-player/overwhere-ii-nala"],
+  stepStatus: "step-status/reviewers",
   action:
     "“I’m sorry about your sheep, Ebba. We’ll take care of them, then get down to the town until this is sorted.” At that, I charge the sheep with my spear using Push to extend my reach as I stab into their necks from farther than I should be able to, then Pull to help me retract the spear. Rinse and repear.",
   beats: [
@@ -30,6 +33,11 @@ export const overwhereIi00099 = {
     "A thin black thread is creeping down the grass toward the longhouse.",
     "Hawise follows Nala's eyes. \"The Lady said hold it. That's still moving.\"",
   ],
-  lore: ["place/overwhere-ii-callow-beck"],
+  lore: [
+    "lore/overwhere-ii-nala",
+    "lore/overwhere-ii-nala-2",
+    "lore/overwhere-ii-nala-3",
+    "place/overwhere-ii-callow-beck",
+  ],
   endsAt: "2026-10-25T14:50:00.000Z",
 } as const satisfies StoryTurnPlayed
