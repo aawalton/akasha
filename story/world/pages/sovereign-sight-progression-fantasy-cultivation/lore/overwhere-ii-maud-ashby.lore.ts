@@ -77,7 +77,7 @@ export const overwhereIiMaudAshby = {
     },
     {
       fact: "Maud feels Nala's kidneys, the lesser organs and her heart still unrefined.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Maud has never sounded anyone refine so far in a month; Keepers take years over it.",
