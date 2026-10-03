@@ -10,7 +10,7 @@ export const hollowmere0019TestFriday = {
   story: "story-written/hollowmere",
   ownLength: 3229,
   prose: "txt",
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/recorders",
   beats: [
     "Friday of week three: test day; you wake at five with your heart going, and go down to the water.",
     'The swimmers are out in a thin rain; Shiv takes one look at your face and says, "Buoy. Now."',
@@ -96,5 +96,5 @@ export const hollowmere0019TestFriday = {
     "character-other/hollowmere-yusra",
     "character-other/hollowmere-morwenna",
   ],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
 } as const satisfies StoryChapterWritten
