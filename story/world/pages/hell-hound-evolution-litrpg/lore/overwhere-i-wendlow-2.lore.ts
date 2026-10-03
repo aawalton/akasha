@@ -264,5 +264,9 @@ export const overwhereIWendlow2 = {
       fact: "Mother Sallow says old grubboar tusks grind finest.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
+    {
+      fact: "Mother Sallow says a wyrm's bile sac is a green, fist-sized bag under the liver, behind the heart.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
