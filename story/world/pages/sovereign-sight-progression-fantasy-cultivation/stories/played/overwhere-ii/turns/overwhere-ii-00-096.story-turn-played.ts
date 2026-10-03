@@ -10,7 +10,7 @@ export const overwhereIi00096 = {
   position: 96,
   prose: "txt",
   characters: ["character-player/overwhere-ii-nala"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/recorders",
   action: "Same strategy",
   beats: [
     "Corra takes a wooden sword from the rack and comes in low and close.",
@@ -38,6 +38,6 @@ export const overwhereIi00096 = {
     "lore/overwhere-ii-nala-3",
     "lore/overwhere-ii-varrow-talented",
   ],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
   endsAt: "2026-10-22T07:15:00.000Z",
 } as const satisfies StoryTurnPlayed
