@@ -1,6 +1,7 @@
 {"propertySlug":"import","fileName":"client-session.module.code.ts","path":"story/ui/modules/client-envelope/client-envelope.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"client-session.module.code.ts","path":"story/ui/modules/hud-panel/hud-panel.module.code.tsx","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"client-session.module.code.ts","path":"story/ui/modules/narrative-log/narrative-log.module.code.tsx","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"client-session.module.code.ts","path":"story/ui/modules/player-character-panel/player-character-panel.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"client-session.module.code.ts","path":"story/ui/modules/pool-bars/pool-bars.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"client-session.module.code.ts","path":"story/ui/modules/quest-card/quest-card.module.code.tsx","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"client-session.module.code.ts","path":"story/ui/modules/quest-projection/quest-projection.module.code.ts","typed":true,"deferred":false}

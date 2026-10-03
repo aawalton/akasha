@@ -58,7 +58,19 @@ export const playerCharacterPanel = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The sheet's tabs are drawn only while the player's character is shown.",
+      statement: "Each character shown has the sheet's tabs drawn for its own pages.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Another character's sheet is read as of the latest turn handed in.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A panel drawing no sheet for the player draws none for the others either.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Another character's caption carries that character's level where it is shown.",
     },
     {
       decisionKind: "decision-kind/departure",

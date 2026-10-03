@@ -7,8 +7,10 @@ import {
 } from "akasha/story/ui/modules/character-cover-panel/character-cover-panel.module.code.tsx"
 import {
   charactersShownOf,
+  otherSheetOf,
   playerDrawnOf,
   playerSlugOf,
+  turnNumberOf,
 } from "akasha/story/ui/modules/player-character-panel/player-character-panel.module.code.tsx"
 import { characterOther } from "akasha/story/world/characters/character-other/character-other.page-type.ts"
 import { characterPlayer } from "akasha/story/world/characters/character-player/character-player.page-type.ts"
@@ -74,4 +76,56 @@ test("the player is left out where neither a cover nor a revealed sheet draws th
     "a",
   ])
   expect(charactersShownOf(drawn, "nala", true, []).map((one) => one.slug)).toEqual(["nala"])
+})
+
+test("the others' sheets are read as of the latest turn handed in", () => {
+  expect(turnNumberOf([])).toBeNull()
+  expect(turnNumberOf([{ id: "a", title: "One", text: "", turnNumber: 1 }])).toBe(1)
+  expect(
+    turnNumberOf([
+      { id: "a", title: "One", text: "", turnNumber: 1 },
+      { id: "b", title: "Two", text: "", turnNumber: 2 },
+    ])
+  ).toBe(2)
+})
+
+const NOTHING_FILED = {
+  pools: {},
+  delta: {},
+  attributes: {},
+  skills: [],
+  traits: [],
+  legacies: [],
+  quests: [],
+  bonds: [],
+  attunements: [],
+  had: null,
+}
+
+test("another character's sheet is its class, rank, level, skills and items, under its name", () => {
+  const sheet = otherSheetOf(
+    {
+      ...NOTHING_FILED,
+      level: 8,
+      calling: "Berserker",
+      rank: "E",
+      skills: [{ name: "Frenzy" }],
+      had: { worn: {}, carried: [{ name: "Margery" }] },
+    },
+    1,
+    "Tamsin"
+  )
+  expect(sheet).toEqual({
+    name: "Tamsin",
+    level: 8,
+    class: "Berserker",
+    rank: "E",
+    skills: [{ name: "Frenzy" }],
+    items: [{ name: "Margery" }],
+  })
+})
+
+test("another character whose pages hold nothing, or are not read yet, has no sheet", () => {
+  expect(otherSheetOf(null, 1, "Tilly")).toBeNull()
+  expect(otherSheetOf(NOTHING_FILED, 1, "Tilly")).toBeNull()
 })

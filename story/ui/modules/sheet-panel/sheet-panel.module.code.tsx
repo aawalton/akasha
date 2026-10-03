@@ -371,6 +371,17 @@ function ItemsTab({ sheet }: { sheet: ClientSheet }) {
   )
 }
 
+export function statsShownIn(sheet: ClientSheet | null | undefined): boolean {
+  return (
+    sheet?.attributes !== undefined ||
+    sheet?.resources !== undefined ||
+    sheet?.kind !== undefined ||
+    sheet?.class !== undefined ||
+    sheet?.rank !== undefined ||
+    sheet?.status !== undefined
+  )
+}
+
 export type SheetShown = {
   readonly sheet: ClientSheet | null
   readonly game?: string | undefined

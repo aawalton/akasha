@@ -1,6 +1,7 @@
 {"propertySlug":"import","fileName":"character-other.page-type.ts","path":"command/pages/story/tell/story-tell.command.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"character-other.page-type.ts","path":"story/ui/modules/character-cover-panel/character-cover-panel.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"character-other.page-type.ts","path":"story/ui/modules/character-cover-panel/character-cover-panel.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"character-other.page-type.ts","path":"story/ui/modules/player-character-panel/player-character-panel.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"character-other.page-type.ts","path":"story/ui/modules/player-character-panel/player-character-panel.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"character-other.page-type.ts","path":"story/world/pages/god-of-trash/stories/played/otherwhere-vii/mechanics/checks/otherwhere-vii-standing.world-check.settling.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"character-other.page-type.ts","path":"story/world/pages/personas/stories/played/the-dating-game/mechanics/checks/the-dating-game-closeness-scoring.world-check.settling.test.ts","typed":false,"deferred":false}

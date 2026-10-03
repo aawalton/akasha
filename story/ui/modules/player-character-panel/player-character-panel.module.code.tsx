@@ -3,7 +3,7 @@
 import { SurfaceProvider } from "akasha/design/interface/primitive/modules/surface-provider/surface-provider.module.code.tsx"
 import type { Page } from "akasha/page/core/modules/page-types/page-types.module.code.ts"
 import { titledAs } from "akasha/page/core/modules/titled-as/titled-as.module.code.ts"
-import { addressIn } from "akasha/page/modules/address/page-address.module.code.ts"
+import { addressIn, namedAs } from "akasha/page/modules/address/page-address.module.code.ts"
 import { cover } from "akasha/page/properties/cover.relation-property.ts"
 import { coverSource } from "akasha/page/ui/component/modules/page-cover/page-cover.module.code.tsx"
 import {
@@ -18,14 +18,25 @@ import {
   characterShownAt,
   OtherCharacterCovers,
 } from "akasha/story/ui/modules/character-cover-panel/character-cover-panel.module.code.tsx"
+import {
+  type ClientSheet,
+  projectClientSheet,
+} from "akasha/story/ui/modules/client-session/client-session.module.code.ts"
 import type { ClientStoryTurn } from "akasha/story/ui/modules/client-story-session/client-story-session.module.code.ts"
 import { ZoomableCover } from "akasha/story/ui/modules/cover-viewing/cover-viewing.module.code.tsx"
 import {
   type SheetShown,
   SheetTabs,
+  statsShownIn,
 } from "akasha/story/ui/modules/sheet-panel/sheet-panel.module.code.tsx"
+import { characterOther } from "akasha/story/world/characters/character-other/character-other.page-type.ts"
 import { characterPlayer } from "akasha/story/world/characters/character-player/character-player.page-type.ts"
-import { useMemo, useState } from "react"
+import {
+  type Filed,
+  stateOf,
+  usePlayedState,
+} from "akasha/story/world/stories/played/modules/played-state-beside/played-state-beside.module.code.ts"
+import { type ReactNode, useMemo, useState } from "react"
 
 const SLUG_KEY = "slug"
 
@@ -92,6 +103,20 @@ export function charactersShownOf(
   return [{ ...drawn, slug, isPlayer: true }, ...theirs]
 }
 
+export function turnNumberOf(turns: readonly ClientStoryTurn[]): number | null {
+  return turns.at(-1)?.turnNumber ?? null
+}
+
+export function otherSheetOf(
+  filed: Filed | null,
+  turn: number,
+  name: string | null
+): ClientSheet | null {
+  if (filed === null) return null
+  const state = stateOf(filed, turn, name ?? undefined)
+  return state === null ? null : projectClientSheet(state)
+}
+
 const NO_TURNS: readonly ClientStoryTurn[] = []
 
 type PlayerPanelProps = {
@@ -129,11 +154,14 @@ export function PlayerCharacterPanel({
     showsCover,
     sheet
   )
+  const turn = turnNumberOf(turns)
   return (
     <OtherCharacterCovers
       turns={turns}
       pageTypeSlug={turnsPageTypeSlug}
-      drawn={(others) => <CharactersCard drawn={drawn} slug={slug} sheet={sheet} others={others} />}
+      drawn={(others) => (
+        <CharactersCard drawn={drawn} slug={slug} sheet={sheet} others={others} turn={turn} />
+      )}
     />
   )
 }
@@ -143,15 +171,60 @@ type CharactersCardProps = {
   readonly slug: string
   readonly sheet: SheetShown | null
   readonly others: readonly CharacterCover[]
+  readonly turn: number | null
 }
 
-function CharactersCard({ drawn, slug, sheet, others }: CharactersCardProps) {
+function CharactersCard({ drawn, slug, sheet, others, turn }: CharactersCardProps) {
   const [picked, setPicked] = useState<string | null>(null)
-  const revealed = sheet?.sheet ?? null
-  const characters = charactersShownOf(drawn, slug, revealed !== null, others)
+  const characters = charactersShownOf(drawn, slug, (sheet?.sheet ?? null) !== null, others)
   const at = characterShownAt(characters, picked)
   const shown = characters[at]
   if (shown === undefined) return null
+  const steps = <CharacterSteps shown={characters} at={at} onPicked={setPicked} />
+  if (shown.isPlayer || sheet === null || turn === null) {
+    return <CharacterCard shown={shown} steps={steps} sheet={shown.isPlayer ? sheet : null} />
+  }
+  return (
+    <OtherCharacterCard key={shown.slug} shown={shown} steps={steps} sheet={sheet} turn={turn} />
+  )
+}
+
+type OtherCharacterCardProps = {
+  readonly shown: CharacterShown
+  readonly steps: ReactNode
+  readonly sheet: SheetShown
+  readonly turn: number
+}
+
+function OtherCharacterCard({ shown, steps, sheet, turn }: OtherCharacterCardProps) {
+  const filed = usePlayedState(namedAs(characterOther.slug, shown.slug, null), turn)
+  const theirs = useMemo(() => otherSheetOf(filed, turn, shown.name), [filed, turn, shown.name])
+  return (
+    <CharacterCard
+      shown={{ ...shown, level: theirs?.level ?? null }}
+      steps={steps}
+      sheet={
+        theirs === null
+          ? null
+          : {
+              sheet: theirs,
+              game: sheet.game,
+              showsStats: statsShownIn(theirs),
+              showsBonds: sheet.showsBonds,
+            }
+      }
+    />
+  )
+}
+
+type CharacterCardProps = {
+  readonly shown: CharacterShown
+  readonly steps: ReactNode
+  readonly sheet: SheetShown | null
+}
+
+function CharacterCard({ shown, steps, sheet }: CharacterCardProps) {
+  const revealed = sheet?.sheet ?? null
   return (
     <SurfaceProvider level={1} className={CARD}>
       {shown.name === null && shown.level === null ? null : (
@@ -172,8 +245,8 @@ function CharactersCard({ drawn, slug, sheet, others }: CharactersCardProps) {
           whole={shown.whole}
         />
       )}
-      <CharacterSteps shown={characters} at={at} onPicked={setPicked} />
-      {!shown.isPlayer || sheet === null || revealed === null ? null : (
+      {steps}
+      {sheet === null || revealed === null ? null : (
         <SheetTabs
           sheet={revealed}
           game={sheet.game}
