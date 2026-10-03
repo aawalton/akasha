@@ -21,6 +21,7 @@ export const storyWritten = {
     "module/nightly-chapter-writing",
     "service-workstation/nightly-chapter-writing",
     "number-property/word-backlog",
+    "boolean-property/editor-steps",
   ],
   decisions: [
     {
@@ -53,5 +54,6 @@ export const storyWritten = {
       many: false,
       uncommitted: true,
     },
+    { pageProperty: "boolean-property/editor-steps", required: false, many: false },
   ],
 } as const satisfies PageType
