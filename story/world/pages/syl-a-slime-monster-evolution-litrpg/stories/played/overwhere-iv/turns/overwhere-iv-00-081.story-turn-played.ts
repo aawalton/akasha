@@ -10,7 +10,7 @@ export const overwhereIv00081 = {
   position: 81,
   prose: "txt",
   characters: ["character-player/overwhere-iv-nala"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/recorders",
   action:
     "“I’m not at my best, but I can fight, especially if they delay long enough for me to get some mana back first.”",
   beats: [
@@ -33,6 +33,6 @@ export const overwhereIv00081 = {
     "lore/overwhere-iv-nala-2",
     "lore/overwhere-iv-nala-3",
   ],
-  reviewedBy: ["story-reviewer/continuity"],
+  reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
   endsAt: "2026-10-06T23:55:00.000Z",
 } as const satisfies StoryTurnPlayed
