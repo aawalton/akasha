@@ -217,8 +217,40 @@ export const overwhereIvTheTangle22 = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
-      fact: "Reaching the treeline last, the hobgoblin halts there, wary of open ground, and bellows its band on.",
+      fact: "At the treeline the hobgoblin shoulders to the front, roaring, and wades first into the ford.",
       knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The hunters' hobgoblin is LV 9, in a hide jerkin, with an iron-banded maul.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "As the band hits the water, the scouts hang back at the treeline, shrieking, not yet in the open.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The three slingers stop on the near bank, some forty paces from the wall, to loose over the water.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Running for the ford, Nala took a sling stone high on her left shoulder.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+    },
+    {
+      fact: "Nala crossed Tull's ford and got over the sheep wall to the Four, the hunters pouring out behind.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iv-nala",
+        "lore/overwhere-iv-brookside-four",
+      ],
+    },
+    {
+      fact: "A hobgoblin with a maul burst from the trees roaring and waded first into the ford.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iv-nala",
+        "lore/overwhere-iv-brookside-four",
+      ],
     },
   ],
 } as const satisfies Lore
