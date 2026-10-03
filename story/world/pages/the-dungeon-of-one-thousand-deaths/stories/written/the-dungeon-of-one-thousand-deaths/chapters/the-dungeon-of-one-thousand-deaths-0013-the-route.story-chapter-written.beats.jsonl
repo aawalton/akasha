@@ -1,0 +1,82 @@
+{"beat":1,"event":"Haig Brenn has walked for twenty-six years, and has not yet told this walk from any other."}
+{"beat":2,"event":"The pull came like a delivery: a place you are needed, north, go."}
+{"beat":3,"event":"He packs as always: three days' food, water skin, good boots, the leather message tube."}
+{"beat":4,"event":"The tube is empty; he carries an empty container to a destination on no route he knows."}
+{"beat":5,"event":"A courier's work is completion, not contents; why is for people who sit still."}
+{"beat":6,"event":"The pull came on a Tuesday, mid-route between market towns ninety miles apart."}
+{"beat":7,"event":"It waited; he delivered the legal packet, collected his fee, and turned north."}
+{"beat":8,"event":"The camp is a relay station like a thousand others: a fire, a record-keeper, provisions.","place":"place/the-dungeon-of-one-thousand-deaths-the-camp","present":["character-other/the-dungeon-of-one-thousand-deaths-haig-brenn","character-other/the-dungeon-of-one-thousand-deaths-osren"]}
+{"beat":9,"event":"\"Haig Brenn.\" \"Purpose?\" \"Delivery.\" \"To whom?\" \"I don't know yet.\""}
+{"beat":10,"event":"The ledger-keeper writes it down without commentary, which Haig appreciates."}
+{"beat":11,"event":"He eats, drinks, checks his boots, and goes in.","leave":["character-other/the-dungeon-of-one-thousand-deaths-haig-brenn"]}
+{"beat":12,"event":"The Gullet is a corridor; he has walked worse.","place":"place/the-dungeon-of-one-thousand-deaths-the-gullet","present":["character-other/the-dungeon-of-one-thousand-deaths-haig-brenn"]}
+{"beat":13,"event":"He reads the seventeen inscriptions like notices at a relay station: information, not meaning."}
+{"beat":14,"event":"At sixty meters the Asking comes like a delivery confirmation: the address is live."}
+{"beat":15,"event":"I am carrying something to its destination. I do not know what. I do not need to."}
+{"beat":16,"event":"The Ledger names him The Route, with the Gift Dead Reckoning: the path ahead, known and certain."}
+{"beat":17,"event":"Its Cost is No Return: rooms he has left close behind him. Forward only."}
+{"beat":18,"event":"The Ledger reads Vitality 14, Resolve 16, Attunement 7, Fortune 15."}
+{"beat":19,"event":"Compelled at ninety miles: the Maw did not amplify a desire; it redirected a habit."}
+{"beat":20,"event":"In twenty-six years he has never reversed a delivery; the Cost formalises a decision made."}
+{"beat":21,"event":"The Ledger: Depth 2, the Warrens, Resolve +1, now 17.","place":"place/the-dungeon-of-one-thousand-deaths-the-marrow-warrens","changes":[{"page":"metric-character-stat/the-dungeon-of-one-thousand-deaths-haig-brenn-resolve","key":"value","from":16,"to":17,"note":"Depth transition into the Warrens, Resolve +1"}]}
+{"beat":22,"event":"Dead Reckoning resolves every junction; he takes the north passage without deliberation."}
+{"beat":23,"event":"The south passage ceases to exist behind him; the air there goes still."}
+{"beat":24,"event":"He passes the journal without reading it, and the glass bead without seeing it."}
+{"beat":25,"event":"He crosses the Warrens in eleven minutes, faster than Aldous Vren's twenty.","changes":[{"page":"metric-character-stat/the-dungeon-of-one-thousand-deaths-haig-brenn-attunement","key":"value","from":7,"to":8,"note":"Dead Reckoning through the Warrens, Attunement +1"}]}
+{"beat":26,"event":"The Ledger: Depth 3, the Still Garden, Resolve +1, now 18.","place":"place/the-dungeon-of-one-thousand-deaths-the-still-garden","present":["character-other/the-dungeon-of-one-thousand-deaths-haig-brenn","character-other/the-dungeon-of-one-thousand-deaths-the-gorger"],"changes":[{"page":"metric-character-stat/the-dungeon-of-one-thousand-deaths-haig-brenn-resolve","key":"value","from":17,"to":18,"note":"Depth transition into the Still Garden, Resolve +1"}]}
+{"beat":27,"event":"Dead Reckoning shows the creature in the third row, its range about twenty-five meters."}
+{"beat":28,"event":"The way runs along the western wall, never nearer than thirty meters: four minutes."}
+{"beat":29,"event":"He turns west and does not look at the centre of the room."}
+{"beat":30,"event":"The crystals damp all sound, the way insulation damps heat."}
+{"beat":31,"event":"The creature tracks him and cannot reach him at this distance and pace."}
+{"beat":32,"event":"He walks; the creature watches; neither changes course."}
+{"beat":33,"event":"He sees the marks on its shell and the crack along its flank: three entrants' worth of damage."}
+{"beat":34,"event":"It is information for someone, not his delivery."}
+{"beat":35,"event":"At the northeast wall the plain-seeming passage is there, and he steps through.","changes":[{"page":"metric-character-stat/the-dungeon-of-one-thousand-deaths-haig-brenn-attunement","key":"value","from":8,"to":9,"note":"Dead Reckoning bypass of the Still Garden, Attunement +1"}]}
+{"beat":36,"event":"No Return: the Gullet and the Warrens are closed to him, and the Still Garden is closing."}
+{"beat":37,"event":"The Ledger: Depth 4, the Crucible, Resolve +1, now 19.","place":"place/the-dungeon-of-one-thousand-deaths-the-crucible","present":["character-other/the-dungeon-of-one-thousand-deaths-haig-brenn","character-other/the-dungeon-of-one-thousand-deaths-the-crucible-emanator"],"changes":[{"page":"metric-character-stat/the-dungeon-of-one-thousand-deaths-haig-brenn-resolve","key":"value","from":18,"to":19,"note":"Depth transition into the Crucible, Resolve +1"}]}
+{"beat":38,"event":"The Crucible is warm from the earth: uncomfortable, sustainable."}
+{"beat":39,"event":"Quartz stalactites hang beyond the lantern's reach, deposited by some slow ongoing work."}
+{"beat":40,"event":"Dead Reckoning maps it: an oval two hundred meters long, a sessile creature at its centre.","changes":[{"page":"metric-character-stat/the-dungeon-of-one-thousand-deaths-haig-brenn-attunement","key":"value","from":9,"to":10,"note":"Dead Reckoning mapping of the Crucible, Attunement +1"}]}
+{"beat":41,"event":"Its emanation grows the quartz; he already feels it as warmth behind his eyes."}
+{"beat":42,"event":"The way to Depth 5 is in the southeast wall, 170 meters off, passing within sixty of it."}
+{"beat":43,"event":"Eight minutes at walking pace; tolerance hard to say. He has walked worse odds. He walks."}
+{"beat":44,"event":"No Return: the Still Garden is closed. The exit is ahead."}
+{"beat":45,"event":"Thirty meters in, by a basalt column, lies an open notebook, its pages curled with heat."}
+{"beat":46,"event":"He picks it up and holds it to his chest, as his hands know how to hold other people's words."}
+{"beat":47,"event":"The first page is a researcher's preamble; he understands the intent, not the method."}
+{"beat":48,"event":"The last: The Crucible is making something. The emanation is the mechanism."}
+{"beat":49,"event":"He feels the pressure now, everywhere, like a long route's third day: you are being used up."}
+{"beat":50,"event":"Fatigue is a gradient, not a wall; he keeps walking."}
+{"beat":51,"event":"At sixty meters he passes the creature, anchored, being, like a hot spring."}
+{"beat":52,"event":"The pressure grows behind his eyes, like altitude; his legs and hands are steady."}
+{"beat":53,"event":"A hundred and ten meters to go; he walked the Lenn Pass in winter with frostbitten fingers."}
+{"beat":54,"event":"The pressure spreads to his ribs, his joints, the base of his spine; it only adds."}
+{"beat":55,"event":"Ninety meters, eighty; the quartz thickens near the source, the light more broken."}
+{"beat":56,"event":"Seventy; his joints loosen, as on the fourth day of the Karresh desert route."}
+{"beat":57,"event":"The body says no; he walks through the no, as he always has."}
+{"beat":58,"event":"Sixty; the notebook warms against his chest, its paper changing under the cover."}
+{"beat":59,"event":"He considers setting it down for two steps, and does not."}
+{"beat":60,"event":"Fifty, forty; the pressure is in his eyes now, and the light dims."}
+{"beat":61,"event":"Thirty meters; he can still see the exit, a darker rectangle in the southeast wall."}
+{"beat":62,"event":"His left knee fails twenty-two meters from the passage to Depth 5."}
+{"beat":63,"event":"The notebook slides open beside him: The emanation is the mechanism."}
+{"beat":64,"event":"He pushes up; his arms and right knee hold, his left knee does not."}
+{"beat":65,"event":"He crawls three meters: for the first time in twenty-six years, a route left unfinished."}
+{"beat":66,"event":"Nineteen meters from the passage, the body ends its argument."}
+{"beat":67,"event":"He settles onto the warm basalt and is, for the first time in twenty-six years, still.","changes":[{"page":"metric-character-stat/the-dungeon-of-one-thousand-deaths-haig-brenn-vitality","key":"value","from":14,"to":0,"note":"Haig dies of the Crucible Emanator's emanation, Vitality 14 to 0"}]}
+{"beat":68,"event":"The quartz scatters the light above him; his sight went seven seconds before the rest."}
+{"beat":69,"event":"The death report: Haig Brenn, the Route, Depth 4, the Crucible; about thirty-one minutes."}
+{"beat":70,"event":"The second Crucible death; his body bought four minutes more than Vren's, and not enough."}
+{"beat":71,"event":"No crystal: unconscious collapse came before death."}
+{"beat":72,"event":"Vren's notebook lies three meters behind him, moved for the first time; the Maw notes it."}
+{"beat":73,"event":"His empty message tube stays on his shoulder, its strap worn by twenty-six years."}
+{"beat":74,"event":"The Floor Mutation, Courier's Rest: a crystal film forms on the basalt where he lies."}
+{"beat":75,"event":"Route incomplete: between compulsion and continuation, the difference is philosophical."}
+{"beat":76,"event":"Vren knew too much to run; Brenn knew too little to stop. Neither reached Depth 5."}
+{"beat":77,"event":"The Reflection observes: the Crucible tests something other than strength."}
+{"beat":78,"event":"The threshold is mathematical, not heroic."}
+{"beat":79,"event":"The Emanator sits at the centre, unaware of the deaths, and the room keeps growing."}
+{"beat":80,"event":"At camp the ledger-keeper waits for morning before writing Did not return."}
+{"beat":81,"event":"The fire still burns, and the tally turns: 982 remain."}
+{"beat":82,"event":"HAIG BRENN — DEPTH 4 — FIRST TO CARRY WHAT HE FOUND."}
