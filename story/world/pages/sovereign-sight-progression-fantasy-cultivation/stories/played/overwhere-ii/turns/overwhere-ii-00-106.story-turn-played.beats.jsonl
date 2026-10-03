@@ -1,10 +1,10 @@
-{"beat":1,"event":"Nala tips her coin out of the leather pouch into her other bag."}
-{"beat":2,"event":"She holds the empty pouch open by the bead and draws it in with a thread of her tide."}
+{"beat":1,"event":"Nala tips her coin out of the leather pouch into her other bag.","at":"2026-10-26T11:20:00.000Z","place":"place/overwhere-ii-whitecombs","present":["character-player/overwhere-ii-nala"]}
+{"beat":2,"event":"She holds the empty pouch open by the bead and draws it in with a thread of her tide.","memory":[{"page":"place/overwhere-ii-whitecombs","fact":"Held by Undertow, the bead stays put as long as Nala keeps a thread of her tide on it.","shown":true}]}
 {"beat":3,"event":"The bead slides over the lip and drops inside, heavy for its size."}
 {"beat":4,"event":"She lets go of it and pulls the drawstring tight."}
 {"beat":5,"event":"For a few breaths, the pouch is still."}
 {"beat":6,"event":"Then a dark spot blooms on the leather's outside, and spreads."}
-{"beat":7,"event":"The bead seeps out through the leather and gathers again on the outside, glistening."}
-{"beat":8,"event":"Where it came through, the leather is stained grey and stiff with salt."}
-{"beat":9,"event":"The bead drops from the pouch onto the stone, and begins to crawl toward the pool again."}
-{"beat":10,"event":"Hawise watches it from her boulder, frowning. \"Leather won't do it, then.\""}
+{"beat":7,"event":"The bead seeps out through the leather and gathers again on the outside, glistening.","memory":[{"page":"place/overwhere-ii-whitecombs","fact":"In a leather pouch the bead seeps through in a few breaths, and beads again on the outside.","learns":"character-player/overwhere-ii-nala"},{"page":"place/overwhere-ii-whitecombs","fact":"In a leather pouch the bead seeps through in a few breaths, and beads again on the outside.","shown":true}]}
+{"beat":8,"event":"Where it came through, the leather is stained grey and stiff with salt.","changes":[{"page":"story-item/overwhere-ii-nala-leather-pouch","key":"description","from":"A small drawstring pouch of soft brown leather, big enough for a handful of coin.","to":"A small drawstring pouch of soft brown leather, big enough for a handful of coin, stained grey and salt-stiff in one spot.","note":"The bead seeps through the leather and leaves a grey, salt-stiff stain"}],"memory":[{"page":"place/overwhere-ii-whitecombs","fact":"Where the bead seeps through leather it leaves a grey, salt-stiff stain.","learns":"character-player/overwhere-ii-nala"},{"page":"place/overwhere-ii-whitecombs","fact":"Where the bead seeps through leather it leaves a grey, salt-stiff stain.","shown":true}]}
+{"beat":9,"event":"The bead drops from the pouch onto the stone, and begins to crawl toward the pool again.","at":"2026-10-26T11:22:00.000Z"}
+{"beat":10,"event":"Hawise watches it from her boulder, frowning. \"Leather won't do it, then.\"","memory":[{"page":"place/overwhere-ii-whitecombs","fact":"A bead of black Water seeps through cloth and leather; only cold iron would hold it still.","shown":true}]}

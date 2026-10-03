@@ -1,15 +1,15 @@
-{"beat":1,"event":"Nala: \"Sleep now. Best to deal with the rest rested, and with light.\""}
+{"beat":1,"event":"Nala: \"Sleep now. Best to deal with the rest rested, and with light.\"","at":"2026-10-25T18:35:00.000Z","place":"place/overwhere-ii-callow-beck","present":["character-player/overwhere-ii-nala"]}
 {"beat":2,"event":"Hawise nods. \"I'll take first watch.\""}
-{"beat":3,"event":"In the longhouse Ebba has left oatcakes and goat's cheese on the board, and peat by the hearth."}
-{"beat":4,"event":"The rain barrel by the door holds the only clean water on the farm."}
-{"beat":5,"event":"Hawise builds up the fire and sits by it, blades across her knees."}
-{"beat":6,"event":"Nala lies down on a pallet by the wall. Sleep takes her fast."}
-{"beat":7,"event":"Through the night the black stair calls, louder than it ever has."}
-{"beat":8,"event":"She wakes in grey light, salt-damp, her shirt clinging cold to her back."}
-{"beat":9,"event":"Her throat is cracked dry. Her head pounds, and her tongue feels thick."}
+{"beat":3,"event":"In the longhouse Ebba has left oatcakes and goat's cheese on the board, and peat by the hearth.","memory":[{"page":"place/overwhere-ii-callow-beck","fact":"Ebba left oatcakes, goat's cheese and peat for the hearth; the rain barrel's water is clean.","learns":"character-player/overwhere-ii-nala"},{"page":"place/overwhere-ii-callow-beck","fact":"Ebba left oatcakes, goat's cheese and peat for the hearth; the rain barrel's water is clean.","shown":true}]}
+{"beat":4,"event":"The rain barrel by the door holds the only clean water on the farm.","memory":[{"page":"place/overwhere-ii-callow-beck","fact":"The beck runs black past the longhouse; Ebba's water is fouled but for one rain barrel.","learns":"character-player/overwhere-ii-nala"},{"page":"place/overwhere-ii-callow-beck","fact":"The beck runs black past the longhouse; Ebba's water is fouled but for one rain barrel.","shown":true}]}
+{"beat":5,"event":"Hawise builds up the fire and sits by it, blades across her knees.","memory":[{"page":"place/overwhere-ii-callow-beck","fact":"Hawise takes the first watch by the longhouse fire without being asked.","learns":"character-player/overwhere-ii-nala"},{"page":"place/overwhere-ii-callow-beck","fact":"Hawise takes the first watch by the longhouse fire without being asked.","shown":true}]}
+{"beat":6,"event":"Nala lies down on a pallet by the wall. Sleep takes her fast.","at":"2026-10-25T19:00:00.000Z"}
+{"beat":7,"event":"Through the night the black stair calls, louder than it ever has.","memory":[{"page":"place/overwhere-ii-callow-beck","fact":"Sleeping so near the slick, Nala dreams the black stair louder than ever, and wakes salt-damp.","learns":"character-player/overwhere-ii-nala"},{"page":"place/overwhere-ii-callow-beck","fact":"Sleeping so near the slick, Nala dreams the black stair louder than ever, and wakes salt-damp.","shown":true}]}
+{"beat":8,"event":"She wakes in grey light, salt-damp, her shirt clinging cold to her back.","at":"2026-10-26T06:20:00.000Z","changes":[{"page":"metric-character-health/overwhere-ii-nala","key":"value","from":31,"to":8,"note":"A night dry at Callow Beck, her last drink a day gone"}]}
+{"beat":9,"event":"Her throat is cracked dry. Her head pounds, and her tongue feels thick.","memory":[{"page":"place/overwhere-ii-callow-beck","fact":"Each night after Nala takes in slick water, the stair dream comes louder.","shown":true}]}
 {"beat":10,"event":"Her last drink was at the Keep, a day ago."}
-{"beat":11,"event":"Outside, the bank across the gully mouth still holds. The black water leans against it."}
+{"beat":11,"event":"Outside, the bank across the gully mouth still holds. The black water leans against it.","memory":[{"page":"place/overwhere-ii-callow-beck","fact":"Nothing comes down to Callow Beck on the night of day twenty-seven; the bank holds till dawn.","learns":"character-player/overwhere-ii-nala"},{"page":"place/overwhere-ii-callow-beck","fact":"Nothing comes down to Callow Beck on the night of day twenty-seven; the bank holds till dawn.","shown":true}]}
 {"beat":12,"event":"Six carcasses lie stiff on the grey pasture, frost on their scales."}
-{"beat":13,"event":"Above the gully, the thin cold trickle from the Callow pool still runs."}
+{"beat":13,"event":"Above the gully, the thin cold trickle from the Callow pool still runs.","memory":[{"page":"place/overwhere-ii-callow-beck","fact":"Higher up, the Callow pool still feeds the gully with a thin black trickle.","learns":"character-player/overwhere-ii-nala"},{"page":"place/overwhere-ii-callow-beck","fact":"Higher up, the Callow pool still feeds the gully with a thin black trickle.","shown":true}]}
 {"beat":14,"event":"Hawise stands in the doorway, stretching. \"Quiet night. The mountain kept to itself.\""}
 {"beat":15,"event":"Hawise: \"Up to that pool, or back to the Lady?\""}

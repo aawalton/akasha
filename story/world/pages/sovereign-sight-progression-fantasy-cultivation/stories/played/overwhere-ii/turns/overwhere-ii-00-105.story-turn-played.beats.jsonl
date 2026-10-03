@@ -1,14 +1,14 @@
-{"beat":1,"event":"Nala: \"Keep watch while I try some experiments.\""}
+{"beat":1,"event":"Nala: \"Keep watch while I try some experiments.\"","at":"2026-10-26T11:06:00.000Z","place":"place/overwhere-ii-whitecombs","present":["character-player/overwhere-ii-nala"]}
 {"beat":2,"event":"Hawise climbs onto a boulder above the pool and settles there, blades across her knees."}
-{"beat":3,"event":"Below the plug, a cupful of black run-off still lies in a hollow of the rock."}
+{"beat":3,"event":"Below the plug, a cupful of black run-off still lies in a hollow of the rock.","memory":[{"page":"place/overwhere-ii-whitecombs","fact":"The black is raw Sea-Water risen through the pool, held in plain water like silt; it is what Warps.","shown":true}]}
 {"beat":4,"event":"Nala kneels beside it and reaches in with her tide."}
-{"beat":5,"event":"Fine work. She pushes at the water and pulls at the black, both at once."}
+{"beat":5,"event":"Fine work. She pushes at the water and pulls at the black, both at once.","changes":[{"page":"overwhere-ii-reservoir/overwhere-ii-nala","key":"value","from":1000,"to":998,"note":"Fine work parting the black from the water"}],"memory":[{"page":"place/overwhere-ii-whitecombs","fact":"With fine work Undertow can part the black from the water: a cupful takes Nala a few minutes.","learns":"character-player/overwhere-ii-nala"},{"page":"place/overwhere-ii-whitecombs","fact":"With fine work Undertow can part the black from the water: a cupful takes Nala a few minutes.","shown":true}]}
 {"beat":6,"event":"For a breath they cling together like silt in a flood."}
 {"beat":7,"event":"Then something gives. The black slides out of the water like a thread from cloth."}
-{"beat":8,"event":"It comes faster than she dared hope. In a few minutes the hollow holds clear water."}
+{"beat":8,"event":"It comes faster than she dared hope. In a few minutes the hollow holds clear water.","at":"2026-10-26T11:15:00.000Z","memory":[{"page":"place/overwhere-ii-whitecombs","fact":"Parted, the water left behind runs clear and faintly salt, and harms nothing that drinks it.","learns":"character-player/overwhere-ii-nala"},{"page":"place/overwhere-ii-whitecombs","fact":"Parted, the water left behind runs clear and faintly salt, and harms nothing that drinks it.","shown":true}]}
 {"beat":9,"event":"Clear, faintly salt, and clean to her sense."}
-{"beat":10,"event":"The black has drawn together on the stone beside it: a single bead, dense and ice-cold."}
+{"beat":10,"event":"The black has drawn together on the stone beside it: a single bead, dense and ice-cold.","memory":[{"page":"place/overwhere-ii-whitecombs","fact":"Parted, the black draws together into a bead of dense, ice-cold Water that crawls toward the pool.","learns":"character-player/overwhere-ii-nala"},{"page":"place/overwhere-ii-whitecombs","fact":"Parted, the black draws together into a bead of dense, ice-cold Water that crawls toward the pool.","shown":true}]}
 {"beat":11,"event":"It feels like Water. Raw Water, heavier than her own."}
-{"beat":12,"event":"To her well it feels like the water of the black stair in her dream."}
+{"beat":12,"event":"To her well it feels like the water of the black stair in her dream.","memory":[{"page":"place/overwhere-ii-whitecombs","fact":"To Nala's well, the black Water feels like the water of her stair dream.","learns":"character-player/overwhere-ii-nala"},{"page":"place/overwhere-ii-whitecombs","fact":"To Nala's well, the black Water feels like the water of her stair dream.","shown":true}]}
 {"beat":13,"event":"The bead stirs. Slowly, it begins to crawl across the stone, toward the pool."}
 {"beat":14,"event":"Hawise leans forward on her boulder. \"That thing's moving.\""}
