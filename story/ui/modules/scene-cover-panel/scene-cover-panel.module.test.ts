@@ -8,8 +8,11 @@ import {
   rerollAsked,
   rerollSettled,
   steppedTo,
+  storyAsker,
   turnCoversOf,
 } from "akasha/story/ui/modules/scene-cover-panel/scene-cover-panel.module.code.tsx"
+
+const STORY_SLUG = "a-story-told"
 
 function source(image: string): string {
   return `${whole(image)}?w=${COVER_WIDTH_ASKED}`
@@ -64,11 +67,15 @@ test("a reroll asks the story it is played in to draw the cover shown again", ()
   expect(playedAsker(undefined)).toBeUndefined()
 })
 
-test("a reroll asks a written story by its slug", () => {
-  const asker = { pageTypeSlug: "story-written", key: "slug", value: "fairweather" }
+test("a chapter's reroll asks the story it names, by that story's slug", () => {
+  const asker = storyAsker(`story-written/${STORY_SLUG}`)
+  expect(asker).toEqual({ pageTypeSlug: "story-written", key: "slug", value: STORY_SLUG })
+  expect(storyAsker(STORY_SLUG)).toBeUndefined()
+  expect(storyAsker(undefined)).toBeUndefined()
+  if (asker === undefined) return
   expect(rerollAsked(asker, "image/image-a")).toEqual({
     pageTypeSlug: "story-written",
-    where: [{ key: "slug", eq: "fairweather" }],
+    where: [{ key: "slug", eq: STORY_SLUG }],
     set: { coverReroll: "image/image-a" },
   })
 })

@@ -3,6 +3,7 @@
 import { Button } from "akasha/design/interface/primitive/modules/button/button.module.code.tsx"
 import { SurfaceProvider } from "akasha/design/interface/primitive/modules/surface-provider/surface-provider.module.code.tsx"
 import { overServer } from "akasha/page/access/modules/over-server/over-server.module.code.ts"
+import { addressIn } from "akasha/page/modules/address/page-address.module.code.ts"
 import type { Row } from "akasha/page/service/modules/page-asking/page-asking.module.code.ts"
 import { askingFor } from "akasha/page/service/modules/page-calling/page-calling.module.code.ts"
 import {
@@ -31,6 +32,8 @@ const ONE = 1
 const STORY = "story-played"
 
 const EXTERNAL_ID = "externalId"
+
+const SLUG = "slug"
 
 const ASKED = "coverReroll"
 
@@ -74,6 +77,14 @@ export function playedAsker(gameExternalId: string | undefined): RerollAsker | u
   return gameExternalId === undefined
     ? undefined
     : { pageTypeSlug: STORY, key: EXTERNAL_ID, value: gameExternalId }
+}
+
+export function storyAsker(story: unknown): RerollAsker | undefined {
+  if (typeof story !== "string") return undefined
+  const address = addressIn(story)
+  return address.kind === "qualified" && address.slug !== ""
+    ? { pageTypeSlug: address.pageTypeSlug, key: SLUG, value: address.slug }
+    : undefined
 }
 
 export function rerollAsked(asker: RerollAsker, cover: string) {
