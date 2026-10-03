@@ -1,16 +1,16 @@
 import type { StoryChapterWritten } from "akasha/story/world/stories/written/chapters/story-chapter-written.page-type.types.ts"
 
-export const fairweather0001 = {
+export const fairweather0001BlackStrongOneSugar = {
   id: "01a102a0-254d-78bc-af8f-82a070b940ba",
   type: "page-type/story-chapter-written",
-  slug: "fairweather-0001",
+  slug: "fairweather-0001-black-strong-one-sugar",
   position: 1,
   unit: "unit/words",
-  title: "Chapter 1",
+  title: "Black, Strong, One Sugar",
   story: "story-written/fairweather",
-  ownLength: 0,
+  ownLength: 8294,
   prose: "txt",
-  stepStatus: "step-status/writer",
+  stepStatus: "step-status/recorders",
   beats: [
     "Before dawn the Honeycomb's ovens wake Elsie in her attic; the room smells of bread.",
     "It is her Naming day; she lies under the sloped ceiling, too nervous and happy to stay in bed.",
@@ -153,6 +153,12 @@ export const fairweather0001 = {
     "place/fairweather-hall-of-naming",
     "place/fairweather-honeycomb",
     "place/fairweather-lanternmere",
+  ],
+  characters: [
+    "character-player/fairweather-elsie",
+    "character-other/fairweather-cora",
+    "character-other/fairweather-tamsin",
+    "character-other/fairweather-tilly",
   ],
   recordedBy: ["story-recorder/inventory", "story-recorder/plan", "story-recorder/mechanics"],
 } as const satisfies StoryChapterWritten
