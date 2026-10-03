@@ -227,5 +227,9 @@ export const overwhereIHobbsMillWeir = {
       fact: "Hurt but under half its health lost, the wyrm slides at whatever hurt it, if it sees it.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Basking half in the water, the wyrm reaches the deep pool 2 seconds after it turns to flee.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Place
