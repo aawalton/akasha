@@ -13,7 +13,7 @@ export const overwhereIHobbsMillWeir = {
     },
     {
       fact: "Hobb's weir is a slanting stone apron 60 yards across the Wend; the mill sits at its east end.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
     {
       fact: "Below the weir lies a deep, slow plunge pool about 50 yards across, dark and eddying.",
