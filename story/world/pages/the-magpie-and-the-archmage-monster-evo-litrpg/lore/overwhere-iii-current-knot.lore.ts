@@ -30,7 +30,7 @@ export const overwhereIiiCurrentKnot = {
     },
     {
       fact: "The burst blows any mist or working hung on the currents away with it.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
     {
       fact: "Knotted currents fight her grip; holding the knot strains her, as a pull past the lending does.",
