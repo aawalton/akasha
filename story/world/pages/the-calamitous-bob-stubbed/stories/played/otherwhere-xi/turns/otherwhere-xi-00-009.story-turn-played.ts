@@ -11,7 +11,7 @@ export const otherwhereXi00009 = {
   partOfCollections: ["story-played/otherwhere-xi"],
   position: 9,
   prose: "txt",
-  characters: ["character-player/otherwhere-xi-nala", "world-character/otherwhere-xi-wenna-ashlar"],
+  characters: ["character-player/otherwhere-xi-nala", "character-other/otherwhere-xi-wenna-ashlar"],
   stepStatus: "step-status/player",
   action: "I watch carefully, learn, and work as I can.",
   beats: "jsonl",

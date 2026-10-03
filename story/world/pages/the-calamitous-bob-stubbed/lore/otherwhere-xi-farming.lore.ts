@@ -164,7 +164,7 @@ export const otherwhereXiFarming = {
       fact: "A turned lamb must be pushed back and its legs brought forward by a hand inside the ewe.",
       knowers: [
         "lore-disclosure/game-master",
-        "world-character/otherwhere-xi-wenna-ashlar",
+        "character-other/otherwhere-xi-wenna-ashlar",
         "character-player/otherwhere-xi-nala",
       ],
     },
@@ -186,7 +186,7 @@ export const otherwhereXiFarming = {
     },
     {
       fact: "A lamb whose ewe dies can be fostered on a ewe that lost hers, wrapped in the dead lamb's skin.",
-      knowers: ["lore-disclosure/game-master", "world-character/otherwhere-xi-wenna-ashlar"],
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-xi-wenna-ashlar"],
     },
   ],
 } as const satisfies Lore

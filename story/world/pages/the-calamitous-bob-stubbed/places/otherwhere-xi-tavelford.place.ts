@@ -194,7 +194,7 @@ export const otherwhereXiTavelford = {
       fact: "In Tavelford, a helper who saves a ewe at a hard lambing is owed a place at the table.",
       knowers: [
         "lore-disclosure/game-master",
-        "world-character/otherwhere-xi-wenna-ashlar",
+        "character-other/otherwhere-xi-wenna-ashlar",
         "character-player/otherwhere-xi-nala",
       ],
     },

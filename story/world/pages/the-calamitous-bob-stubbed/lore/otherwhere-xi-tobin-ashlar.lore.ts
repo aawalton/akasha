@@ -158,7 +158,7 @@ export const otherwhereXiTobinAshlar = {
         "lore-disclosure/game-master",
         "character-player/otherwhere-xi-nala",
         "character-other/otherwhere-xi-tobin-ashlar",
-        "world-character/otherwhere-xi-wenna-ashlar",
+        "character-other/otherwhere-xi-wenna-ashlar",
       ],
     },
     {
@@ -182,7 +182,7 @@ export const otherwhereXiTobinAshlar = {
       knowers: [
         "lore-disclosure/game-master",
         "character-player/otherwhere-xi-nala",
-        "world-character/otherwhere-xi-wenna-ashlar",
+        "character-other/otherwhere-xi-wenna-ashlar",
         "character-other/otherwhere-xi-tobin-ashlar",
       ],
     },
@@ -192,7 +192,7 @@ export const otherwhereXiTobinAshlar = {
         "lore-disclosure/game-master",
         "character-other/otherwhere-xi-tobin-ashlar",
         "character-player/otherwhere-xi-nala",
-        "world-character/otherwhere-xi-wenna-ashlar",
+        "character-other/otherwhere-xi-wenna-ashlar",
       ],
     },
   ],

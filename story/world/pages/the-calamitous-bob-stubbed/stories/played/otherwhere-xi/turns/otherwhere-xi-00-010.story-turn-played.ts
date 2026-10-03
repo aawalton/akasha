@@ -11,7 +11,7 @@ export const otherwhereXi00010 = {
   partOfCollections: ["story-played/otherwhere-xi"],
   position: 10,
   prose: "txt",
-  characters: ["character-player/otherwhere-xi-nala", "world-character/otherwhere-xi-wenna-ashlar"],
+  characters: ["character-player/otherwhere-xi-nala", "character-other/otherwhere-xi-wenna-ashlar"],
   stepStatus: "step-status/player",
   action:
     "I do my best to follow instructions and save the lamb and the ewe, praying in my heart for a healer path as a sign for why I was brought to this land.",

@@ -6,6 +6,6 @@ export const otherwhereXiWennaAshlar = {
   slug: "otherwhere-xi-wenna-ashlar",
   title: "Nala and Wenna",
   world: "world/the-calamitous-bob-stubbed",
-  characters: ["character-player/otherwhere-xi-nala", "world-character/otherwhere-xi-wenna-ashlar"],
+  characters: ["character-player/otherwhere-xi-nala", "character-other/otherwhere-xi-wenna-ashlar"],
   relationshipPoints: 10,
 } as const satisfies WorldRelationship

@@ -36,7 +36,7 @@ export const otherwhereXiAshlarFarm = {
         "lore-disclosure/game-master",
         "character-player/otherwhere-xi-nala",
         "character-other/otherwhere-xi-tobin-ashlar",
-        "world-character/otherwhere-xi-wenna-ashlar",
+        "character-other/otherwhere-xi-wenna-ashlar",
       ],
     },
     {
@@ -61,7 +61,7 @@ export const otherwhereXiAshlarFarm = {
         "lore-disclosure/game-master",
         "character-player/otherwhere-xi-nala",
         "character-other/otherwhere-xi-tobin-ashlar",
-        "world-character/otherwhere-xi-wenna-ashlar",
+        "character-other/otherwhere-xi-wenna-ashlar",
       ],
     },
     {
@@ -70,7 +70,7 @@ export const otherwhereXiAshlarFarm = {
         "lore-disclosure/game-master",
         "character-player/otherwhere-xi-nala",
         "character-other/otherwhere-xi-tobin-ashlar",
-        "world-character/otherwhere-xi-wenna-ashlar",
+        "character-other/otherwhere-xi-wenna-ashlar",
       ],
     },
     {
@@ -114,7 +114,7 @@ export const otherwhereXiAshlarFarm = {
       knowers: [
         "lore-disclosure/game-master",
         "character-player/otherwhere-xi-nala",
-        "world-character/otherwhere-xi-wenna-ashlar",
+        "character-other/otherwhere-xi-wenna-ashlar",
       ],
     },
     {
@@ -122,7 +122,7 @@ export const otherwhereXiAshlarFarm = {
       knowers: [
         "lore-disclosure/game-master",
         "character-player/otherwhere-xi-nala",
-        "world-character/otherwhere-xi-wenna-ashlar",
+        "character-other/otherwhere-xi-wenna-ashlar",
       ],
     },
     {
@@ -130,7 +130,7 @@ export const otherwhereXiAshlarFarm = {
       knowers: [
         "lore-disclosure/game-master",
         "character-player/otherwhere-xi-nala",
-        "world-character/otherwhere-xi-wenna-ashlar",
+        "character-other/otherwhere-xi-wenna-ashlar",
       ],
     },
     {
@@ -143,7 +143,7 @@ export const otherwhereXiAshlarFarm = {
     },
     {
       fact: "The Ashlar lambing runs about four weeks more, to the new moon after the spring quarter-day.",
-      knowers: ["lore-disclosure/game-master", "world-character/otherwhere-xi-wenna-ashlar"],
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-xi-wenna-ashlar"],
     },
     {
       fact: "Ashlar meals: barley porridge at dawn, bread and hard cheese at noon, lentil stew at dusk.",
@@ -155,7 +155,7 @@ export const otherwhereXiAshlarFarm = {
         "lore-disclosure/game-master",
         "character-player/otherwhere-xi-nala",
         "character-other/otherwhere-xi-tobin-ashlar",
-        "world-character/otherwhere-xi-wenna-ashlar",
+        "character-other/otherwhere-xi-wenna-ashlar",
       ],
     },
     {
@@ -179,7 +179,7 @@ export const otherwhereXiAshlarFarm = {
       knowers: [
         "lore-disclosure/game-master",
         "character-player/otherwhere-xi-nala",
-        "world-character/otherwhere-xi-wenna-ashlar",
+        "character-other/otherwhere-xi-wenna-ashlar",
       ],
     },
     {
