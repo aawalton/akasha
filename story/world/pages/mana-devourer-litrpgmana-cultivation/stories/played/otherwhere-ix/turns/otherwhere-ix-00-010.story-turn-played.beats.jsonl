@@ -1,25 +1,25 @@
 {"beat":1,"event":"Nala keeps her weight on its throat and does not ease off."}
 {"beat":2,"event":"The whistle through the torn throat comes slower, then catches, then stops."}
-{"beat":3,"event":"A last shiver runs down its body under her arms, and it is still."}
+{"beat":3,"event":"A last shiver runs down its body under her arms, and it is still.","changes":[{"page":"metric-character-health/otherwhere-ix-young-shardback","key":"value","from":60,"to":0,"note":"Held down on its torn throat, the young shardback dies"}]}
 {"beat":4,"event":"She holds on a while longer, until she is sure. It does not come round."}
-{"beat":5,"event":"[Level up! You have sixteen unspent stat points.]"}
-{"beat":6,"event":"[Level up! You have 24 unspent stat points.]"}
+{"beat":5,"event":"[Level up! You have sixteen unspent stat points.]","changes":[{"page":"metric-character-level/otherwhere-ix-nala","key":"value","from":2,"to":3,"note":"The kill gives a level"},{"page":"otherwhere-ix-stat-points/otherwhere-ix-nala","key":"value","from":8,"to":16,"note":"Eight more stat points: sixteen unspent"}]}
+{"beat":6,"event":"[Level up! You have 24 unspent stat points.]","changes":[{"page":"metric-character-level/otherwhere-ix-nala","key":"value","from":3,"to":4,"note":"The kill gives a second level"},{"page":"otherwhere-ix-stat-points/otherwhere-ix-nala","key":"value","from":16,"to":24,"note":"Eight more stat points: 24 unspent"}]}
 {"beat":7,"event":"\"System? Status?\" she says, and then the rest of it comes out in a rush."}
 {"beat":8,"event":"\"Now would be a great time for a level up or some kind of regeneration talent.\""}
 {"beat":9,"event":"\"I feel like I've gotten a raw deal here.\""}
 {"beat":10,"event":"\"If I die now, I'll be complaining to Death about whoever brought me here.\""}
-{"beat":11,"event":"No talent comes, and nothing in her eases; the pain in her leg and arms stays exactly as it was."}
-{"beat":12,"event":"A column of blue boxes opens in front of her."}
+{"beat":11,"event":"No talent comes, and nothing in her eases; the pain in her leg and arms stays exactly as it was.","memory":[{"page":"lore/otherwhere-ix-nala","fact":"Levelling heals nothing, and the system grants no talent or healing for being asked.","learns":"character-player/otherwhere-ix-nala"},{"page":"lore/otherwhere-ix-nala","fact":"Levelling heals nothing, and the system grants no talent or healing for being asked.","shown":true}]}
+{"beat":12,"event":"A column of blue boxes opens in front of her.","memory":[{"page":"lore/otherwhere-ix-nala","fact":"Asked for Status aloud or in thought, the system shows her status screen at once.","shown":true},{"page":"lore/otherwhere-ix-status","fact":"A status screen lists Name, Class, Health, Mana, then six attribute lines.","learns":"character-player/otherwhere-ix-nala"},{"page":"lore/otherwhere-ix-status","fact":"A status screen lists Name, Class, Health, Mana, then six attribute lines.","shown":true}]}
 {"beat":13,"event":"[Name: Nala]"}
-{"beat":14,"event":"[Class: Otherworlder (Earth) (Tier: Novice 4)]"}
+{"beat":14,"event":"[Class: Otherworlder (Earth) (Tier: Novice 4)]","memory":[{"page":"lore/otherwhere-ix-nala","fact":"After the kill Nala's status reads Class: Otherworlder (Earth) (Tier: Novice 4).","learns":"character-player/otherwhere-ix-nala"},{"page":"lore/otherwhere-ix-nala","fact":"After the kill Nala's status reads Class: Otherworlder (Earth) (Tier: Novice 4).","shown":true}]}
 {"beat":15,"event":"[Health: 44/170]"}
 {"beat":16,"event":"[Mana: 344/344]"}
 {"beat":17,"event":"[Strength: 8]"}
 {"beat":18,"event":"[Agility: 12]"}
 {"beat":19,"event":"[Arcana: 8]"}
 {"beat":20,"event":"[Constitution: 12]"}
-{"beat":21,"event":"[Spirit: 16]"}
-{"beat":22,"event":"[???: 0]"}
-{"beat":23,"event":"The last line is greyed out, dimmer than the rest."}
+{"beat":21,"event":"[Spirit: 16]","memory":[{"page":"lore/otherwhere-ix-status","fact":"The attribute lines run Strength, Agility, Arcana, Constitution, Spirit, then a sixth.","learns":"character-player/otherwhere-ix-nala"},{"page":"lore/otherwhere-ix-status","fact":"The attribute lines run Strength, Agility, Arcana, Constitution, Spirit, then a sixth.","shown":true}]}
+{"beat":22,"event":"[???: 0]","memory":[{"page":"lore/otherwhere-ix-status","fact":"Where the sixth attribute is locked, its line reads \"[???: 0]\".","shown":true}]}
+{"beat":23,"event":"The last line is greyed out, dimmer than the rest.","memory":[{"page":"lore/otherwhere-ix-nala","fact":"Her status lists Strength, Agility, Arcana, Constitution, Spirit, and a greyed [???: 0].","learns":"character-player/otherwhere-ix-nala"},{"page":"lore/otherwhere-ix-nala","fact":"Her status lists Strength, Agility, Arcana, Constitution, Spirit, and a greyed [???: 0].","shown":true}]}
 {"beat":24,"event":"Under her, the dead beast's blood is soaking into the tights at her knees."}
-{"beat":25,"event":"Her own calf is still bleeding into the glassgrass, slow and steady."}
+{"beat":25,"event":"Her own calf is still bleeding into the glassgrass, slow and steady.","at":"2026-09-28T15:43:00.000Z"}

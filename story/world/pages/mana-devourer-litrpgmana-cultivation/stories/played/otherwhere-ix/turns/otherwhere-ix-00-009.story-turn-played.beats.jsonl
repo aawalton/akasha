@@ -1,11 +1,11 @@
 {"beat":1,"event":"Nala throws both forearms across the beast's bare throat and drops all her weight onto them."}
-{"beat":2,"event":"The shards still in her arms drive deeper as she presses, and she presses anyway."}
-{"beat":3,"event":"Her forearm catches the glass stub and rams it down into the throat to its full length."}
-{"beat":4,"event":"Something inside gives with a wet pop, and the beast's breath turns to a gurgling rattle."}
-{"beat":5,"event":"Its jaws spring open, and it lets go of her calf to heave for air."}
+{"beat":2,"event":"The shards still in her arms drive deeper as she presses, and she presses anyway.","memory":[{"page":"lore/otherwhere-ix-shardback","fact":"Quill shards in an arm pressed hard against anything drive deeper into that arm.","learns":"character-player/otherwhere-ix-nala"},{"page":"lore/otherwhere-ix-shardback","fact":"Quill shards in an arm pressed hard against anything drive deeper into that arm.","shown":true}]}
+{"beat":3,"event":"Her forearm catches the glass stub and rams it down into the throat to its full length.","memory":[{"page":"lore/otherwhere-ix-shardback","fact":"A quill stub in a shardback's throat, driven deeper, can open its windpipe.","learns":"character-player/otherwhere-ix-nala"},{"page":"lore/otherwhere-ix-shardback","fact":"A quill stub in a shardback's throat, driven deeper, can open its windpipe.","shown":true}]}
+{"beat":4,"event":"Something inside gives with a wet pop, and the beast's breath turns to a gurgling rattle.","changes":[{"page":"metric-character-health/otherwhere-ix-young-shardback","key":"value","from":84,"to":60,"note":"The stub rammed full length opens its windpipe: 24"}]}
+{"beat":5,"event":"Its jaws spring open, and it lets go of her calf to heave for air.","memory":[{"page":"lore/otherwhere-ix-shardback","fact":"A stab that opens a shardback's windpipe chokes it on its own blood, and it lets go its bite.","learns":"character-player/otherwhere-ix-nala"},{"page":"lore/otherwhere-ix-shardback","fact":"A stab that opens a shardback's windpipe chokes it on its own blood, and it lets go its bite.","shown":true}]}
 {"beat":6,"event":"It thrashes under her, claws raking the glassgrass, but it cannot get its head round to her."}
 {"beat":7,"event":"Blood bubbles from the wound around the stub with every heave it makes."}
 {"beat":8,"event":"She stays down on it, her whole weight on her arms, and does not let up."}
 {"beat":9,"event":"The heaving slows. The kicking slows."}
-{"beat":10,"event":"Within the minute it shudders once and goes limp beneath her."}
-{"beat":11,"event":"Its eyes are half shut, and a thin wet whistle still comes and goes through the torn throat."}
+{"beat":10,"event":"Within the minute it shudders once and goes limp beneath her.","changes":[{"page":"metric-character-level/otherwhere-ix-nala","key":"value","from":1,"to":2,"note":"Overcoming the young shardback as it goes limp gives her a level"},{"page":"otherwhere-ix-stat-points/otherwhere-ix-nala","key":"value","from":0,"to":8,"note":"That level's eight stat points, unannounced until the kill"}],"memory":[{"page":"lore/otherwhere-ix-shardback","fact":"Held shut, a young shardback's throat fails it in about a minute, and it goes limp.","learns":"character-player/otherwhere-ix-nala"},{"page":"lore/otherwhere-ix-shardback","fact":"Held shut, a young shardback's throat fails it in about a minute, and it goes limp.","shown":true}]}
+{"beat":11,"event":"Its eyes are half shut, and a thin wet whistle still comes and goes through the torn throat.","at":"2026-09-28T15:41:00.000Z"}
