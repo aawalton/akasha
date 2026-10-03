@@ -147,5 +147,17 @@ export const overwhereIvBrooksideFour2 = {
         "lore/overwhere-iv-brookside-four",
       ],
     },
+    {
+      fact: "Dace bids Nala rest by the fold wall; he'll rouse her when Wren and Orla come or at the first torch.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Dace means to hold the fold's gate himself, with Merrit's fire to meet the torches at the ford.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Merrit has fire enough for several fireballs tonight, and means Nala to see them.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
