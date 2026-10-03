@@ -15,7 +15,7 @@ export const overwhereIii00085 = {
     "character-other/overwhere-iii-mother-sallow",
     "character-other/overwhere-iii-marda-hesk",
   ],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/game-master",
   action:
     "“Whose house was that and how long have you known them? There was a woman there who commanded the wolves, but she was corrupted. When I confronted her, her face changed.”",
   beats: [
@@ -30,6 +30,9 @@ export const overwhereIii00085 = {
     'She stares down the road toward the wood. "A false face. Gods."',
     '"I\'m telling Marda at the post myself," she says. "Tonight, before the bell."',
   ],
+  issues: [
+    '"Edda goes very still in her barrow." - turn 84 prose has her beside her barrow; this prose says by',
+  ],
   lore: [
     "lore/overwhere-iii-edda-crane",
     "lore/overwhere-iii-marda-hesk",
@@ -39,6 +42,6 @@ export const overwhereIii00085 = {
     "lore/overwhere-iii-nala-2",
     "lore/overwhere-iii-nala-2-2",
   ],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
   endsAt: "2026-10-08T16:40:00.000Z",
 } as const satisfies StoryTurnPlayed
