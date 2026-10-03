@@ -1,0 +1,55 @@
+{"beat":1,"event":"Solenne steps from the exit portal into a Transition Hall lit a warmer amber.","at":"2000-01-04T11:35:00.000Z","place":"place/tower-and-the-star-floor-10-transition-hall","present":["character-other/tower-and-the-star-solenne","character-other/tower-and-the-star-dayo","character-other/tower-and-the-star-miriam","character-other/tower-and-the-star-vesper","character-other/tower-and-the-star-tomas","character-other/tower-and-the-star-nadia"]}
+{"beat":2,"event":"The Hall is the usual size, but its silence feels full."}
+{"beat":3,"event":"Tomás steps through, studies the light, and says the Tower knows they passed something."}
+{"beat":4,"event":"The six stand in the light without discussion."}
+{"beat":5,"event":"They clean up slowly after the fight."}
+{"beat":6,"event":"Miriam tends the party with Mending Touch, starting with Dayo."}
+{"beat":7,"event":"Dayo sits still for it and does not say she is fine."}
+{"beat":8,"event":"Vesper inventories the unused Anchor Vials: six hours before they crystallize."}
+{"beat":9,"event":"The First Boss Coat materializes in the inventory display."}
+{"beat":10,"event":"Vesper turns it once and hands it to Dayo: this goes to you."}
+{"beat":11,"event":"Dayo equips the Coat; her max HP rises to 497 and base RES to 18."}
+{"beat":12,"event":"Dayo pockets her hand and does not add a tally mark yet."}
+{"beat":13,"event":"The Class Selection prompt waits at a System terminal in the Hall's center."}
+{"beat":14,"event":"Dayo goes first and places her hand on the terminal."}
+{"beat":15,"event":"The System confirms Adaeze Okonkwo as Vanguard (Advanced).","changes":[{"page":"character-class/tower-and-the-star-dayo-vanguard","key":"title","from":"Vanguard","to":"Vanguard (Advanced)","note":"Class Selection confirms Dayo as Vanguard at the Advanced tier"}]}
+{"beat":16,"event":"Solenne feels the Steadfast echo through the Conductor as weight."}
+{"beat":17,"event":"Dayo steps back, hand in her pocket, expression unchanged."}
+{"beat":18,"event":"Miriam goes second, placing both hands on the interface."}
+{"beat":19,"event":"The System confirms Miriam Osei-Bonsu as Warden (Advanced).","changes":[{"page":"character-class/tower-and-the-star-miriam-warden","key":"title","from":"Warden","to":"Warden (Advanced)","note":"Class Selection confirms Miriam as Warden at the Advanced tier"}]}
+{"beat":20,"event":"The Warmhearted echo is a sustained warmth; Miriam nods and steps back."}
+{"beat":21,"event":"Vesper goes third, hands hovering a moment before contact."}
+{"beat":22,"event":"The System confirms Vesper Castillo-Huang as Artificer (Advanced).","changes":[{"page":"character-class/tower-and-the-star-vesper-artificer","key":"title","from":"Artificer","to":"Artificer (Advanced)","note":"Class Selection confirms Vesper as Artificer at the Advanced tier"}]}
+{"beat":23,"event":"The Openhanded echo is outward motion; relief briefly crosses Vesper's face."}
+{"beat":24,"event":"Tomás goes fourth and selects without pause."}
+{"beat":25,"event":"The System confirms Tomás Reyes-Whitehorse as Pathfinder (Advanced).","changes":[{"page":"character-class/tower-and-the-star-tomas-pathfinder","key":"title","from":"Pathfinder","to":"Pathfinder (Advanced)","note":"Class Selection confirms Tomás as Pathfinder at the Advanced tier"}]}
+{"beat":26,"event":"The Clearvoiced echo is clarity; Tomás steps back."}
+{"beat":27,"event":"Nadia goes fifth and makes a wry face at the terminal."}
+{"beat":28,"event":"The System confirms Nadia Volkov-Baptiste as Jester (Advanced).","changes":[{"page":"character-class/tower-and-the-star-nadia-jester","key":"title","from":"Jester","to":"Jester (Advanced)","note":"Class Selection confirms Nadia as Jester at the Advanced tier"}]}
+{"beat":29,"event":"The Brightspirit echo is disruption and warmth together."}
+{"beat":30,"event":"Nadia makes a silent joke to the terminal, then turns away quieter."}
+{"beat":31,"event":"Nadia levels up from 8 to 9."}
+{"beat":32,"event":"Vesper levels up from 10 to 11."}
+{"beat":33,"event":"Solenne goes last and places her hand on the warm terminal."}
+{"beat":34,"event":"The System confirms her Arcanist (Advanced) and makes Harmony Conductor formal.","changes":[{"page":"character-class/tower-and-the-star-solenne-arcanist","key":"title","from":"Arcanist","to":"Arcanist (Advanced)","note":"Class Selection confirms Solenne as Arcanist at the Advanced tier"}]}
+{"beat":35,"event":"Her own echo is all six Aspects at once, held together by the Trueweave."}
+{"beat":36,"event":"At RES 19 Solenne feels the full Composite one point away, then steps back."}
+{"beat":37,"event":"Within two minutes all six are sitting on the Hall's floor."}
+{"beat":38,"event":"Solenne looks at each of them sitting in the amber light."}
+{"beat":39,"event":"Solenne lays her staff across her knees and looks at designed and Almost."}
+{"beat":40,"event":"Solenne tells them about the sealed spaces on Floors 5, 6 and 8."}
+{"beat":41,"event":"She says the six Aspects were written into the Tower before Day Zero."}
+{"beat":42,"event":"She says the Tower was designed for them, or people exactly like them."}
+{"beat":43,"event":"She tells them of the Surge's chord and being one RES from the threshold."}
+{"beat":44,"event":"Tomás listens with quiet relief at no longer carrying it alone."}
+{"beat":45,"event":"Nobody interrupts; when she finishes, the Hall is quiet."}
+{"beat":46,"event":"Dayo runs her thumb over the four tally marks on her bracer."}
+{"beat":47,"event":"Dayo scratches a fifth mark, larger than the others, and explains nothing."}
+{"beat":48,"event":"Nadia breaks the silence: six specific idiots in Chicago treating this like homework."}
+{"beat":49,"event":"Nadia says she wants it noted the universe has extremely good taste."}
+{"beat":50,"event":"Solenne laughs for real, the full, surprised laugh."}
+{"beat":51,"event":"Miriam closes her clinical notebook."}
+{"beat":52,"event":"Vesper watches Nadia wear the bandolier she made, and lets herself see it."}
+{"beat":53,"event":"Tomás says the door is still there."}
+{"beat":54,"event":"Dayo stands up and says, \"Yeah. It is.\""}
+{"beat":55,"event":"The terminal dims to standby; the six face Floor 11's door, ready."}
