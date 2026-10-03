@@ -305,7 +305,7 @@ export const overwhereIHobbsMillWeir = {
     },
     {
       fact: "In the wyrm's gut lies a brass-buckled belt with a bowman's knife on it: Dickon's, Jory says.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
     {
       fact: "The wyrm holds no crystal or pearl; Weir Wyrms grow none.",
