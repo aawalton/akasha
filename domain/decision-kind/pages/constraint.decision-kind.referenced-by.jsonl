@@ -440,6 +440,7 @@
 {"propertySlug":"decision-kind","path":"story/world/stories/played/service-workstations/cover-rerolling/cover-rerolling.service-workstation.ts","id":"01a0e853-50d7-72fe-a224-748adb47cde2"}
 {"propertySlug":"decision-kind","path":"story/world/stories/played/service-workstations/turn-undo-answering/turn-undo-answering.service-workstation.ts","id":"01a0f1ca-3316-79ad-8946-c58f07e6f30e"}
 {"propertySlug":"decision-kind","path":"story/world/stories/played/turns/modules/turn-cast/turn-cast.module.ts","id":"01a0ea6e-4e6c-7af1-9a9e-477f55abd52a"}
+{"propertySlug":"decision-kind","path":"story/world/stories/written/chapters/modules/chapter-panels/chapter-panels.module.ts","id":"01a0e9a4-dccf-7135-965e-fa2e6d11f276"}
 {"propertySlug":"decision-kind","path":"temper/addon/build/deploy-check/modules/addon-banned-symbols/addon-banned-symbols.module.ts","id":"01a06365-e827-7002-bfdd-914c6a139782"}
 {"propertySlug":"decision-kind","path":"temper/addon/build/deploy-check/modules/addon-dependency-cycle/addon-dependency-cycle.module.ts","id":"01a06297-7f6a-7306-9a6f-acca84ccb4b8"}
 {"propertySlug":"decision-kind","path":"temper/addon/build/deploy-check/modules/addon-dependency-floor/addon-dependency-floor.module.ts","id":"01a06297-7f6a-7664-ac3d-ea7ecf537e2f"}

@@ -6,7 +6,25 @@ export const chapterPanels = {
   slug: "chapter-panels",
   definition: "the panels a written chapter's story names, drawn beside the chapter's prose",
   code: "tsx",
+  test: "ts",
   decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A chapter's clock is the last time its beats set, as of the chapter's end.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A chapter whose beats set no time hands its panels no clock.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A chapter's panels read each character's pages as of that chapter's position.",
+    },
+    {
+      decisionKind: "decision-kind/constraint",
+      statement:
+        "Only purses and resources keep a history, so every other value read is the latest.",
+    },
     {
       decisionKind: "decision-kind/departure",
       statement: "A chapter is drawn with the panels its story names, as a play screen is.",

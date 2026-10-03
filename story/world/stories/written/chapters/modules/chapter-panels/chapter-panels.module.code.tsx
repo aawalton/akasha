@@ -3,8 +3,10 @@
 import { asNumber } from "akasha/code/type/narrowing/modules/as-number/as-number.module.code.ts"
 import { stringIn } from "akasha/code/type/narrowing/modules/string-in/string-in.module.code.ts"
 import { stringsIn } from "akasha/code/type/narrowing/modules/strings-in/strings-in.module.code.ts"
+import { asPage } from "akasha/page/core/modules/page-types/page-types.module.code.ts"
 import { addressIn, namedAs } from "akasha/page/modules/address/page-address.module.code.ts"
 import { toPageDataJSON } from "akasha/page/ui/component/modules/page-data-json/page-data-json.module.code.ts"
+import { useFileBody } from "akasha/page/ui/component/modules/page-reader-content/page-reader-content.module.code.tsx"
 import { usePage } from "akasha/page/ui/supabase/modules/use-page/use-page.module.code.ts"
 import {
   type UsePagesSupabaseOptions,
@@ -12,6 +14,7 @@ import {
 } from "akasha/page/ui/supabase/modules/use-pages/use-pages.module.code.ts"
 import { namedShapeDescriptor } from "akasha/page/ui-store/collection/modules/shape-descriptor/shape-descriptor.module.code.ts"
 import type { PageTypeSlug } from "akasha/page/url/modules/page-type-slug/page-type-slug.module.code.ts"
+import { beatsIn } from "akasha/story/engine/beat-state/modules/beat-records/beat-records.module.code.ts"
 import type { ClientStoryTurn } from "akasha/story/ui/modules/client-story-session/client-story-session.module.code.ts"
 import type {
   PanelRun,
@@ -28,7 +31,10 @@ import { characterPlayer } from "akasha/story/world/characters/character-player/
 import { useFirstRead } from "akasha/story/world/stories/played/modules/action-bar/action-bar.module.code.tsx"
 import { PlayedLayout } from "akasha/story/world/stories/played/modules/played-layout/played-layout.module.code.tsx"
 import { PlayedPanels } from "akasha/story/world/stories/played/modules/played-panels/played-panels.module.code.tsx"
-import { playedEnvelope } from "akasha/story/world/stories/played/modules/played-rows/played-rows.module.code.ts"
+import {
+  playedClockOf,
+  playedEnvelope,
+} from "akasha/story/world/stories/played/modules/played-rows/played-rows.module.code.ts"
 import {
   stateOf,
   usePlayedState,
@@ -63,8 +69,26 @@ function chapterDisclosed(stepStatus: unknown): boolean {
   return (stepIn(stepStatus) ?? PLAYER) === PLAYER
 }
 
+const FILE_AT = "/api/page-file"
+
+const BEATS = "beats"
+
+export function chapterClockOf(beatsText: string | null): string | null {
+  if (beatsText === null) return null
+  const read = beatsIn(beatsText)
+  if ("refused" in read) return null
+  const at = read.scenes.findLast((one) => one.at !== undefined)?.at
+  return at === undefined ? null : playedClockOf([asPage({ id: "", icon: null, endsAt: at })])
+}
+
+function beatsHrefOf(pageTypeSlug: string, chapter: ChapterShown): string | null {
+  if (!chapter.disclosed || chapter.slug === "") return null
+  return `${FILE_AT}/${[pageTypeSlug, chapter.slug, BEATS].map(encodeURIComponent).join("/")}`
+}
+
 type ChapterShown = {
   readonly id: string
+  readonly slug: string
   readonly title: string
   readonly position: number | null
   readonly cover: string
@@ -121,6 +145,7 @@ export function ChapterPanels({ pageTypeSlug, id, children }: ChapterPanelsProps
 function chapterShownOf(id: string, data: Readonly<Record<string, unknown>>): ChapterShown {
   return {
     id,
+    slug: textIn(data.slug),
     title: textIn(data.title),
     position: asNumber(data.position),
     cover: textIn(data.cover),
@@ -272,6 +297,7 @@ function StoryAside({
   }, [filed, turn, characterName])
 
   const turns = useMemo(() => chapterTurnsOf(chapter), [chapter])
+  const clock = chapterClockOf(useFileBody(beatsHrefOf(pageTypeSlug, chapter)))
   const title = textIn(storyRow?.title)
   const envelope = useMemo(
     () => playedEnvelope({ title, turns, chapters: [], state }),
@@ -279,7 +305,7 @@ function StoryAside({
   )
   const run = useMemo<PanelRun>(
     () => ({
-      clock: null,
+      clock,
       upcoming: [],
       turns,
       turnsPageTypeSlug: pageTypeSlug,
@@ -292,7 +318,7 @@ function StoryAside({
       gameExternalId: undefined,
       submitPlayerAction: undefined,
     }),
-    [turns, pageTypeSlug, chapter, player]
+    [clock, turns, pageTypeSlug, chapter, player]
   )
   const ready = held !== null && !stories.isLoading && !characters.isLoading
   useEffect(() => {

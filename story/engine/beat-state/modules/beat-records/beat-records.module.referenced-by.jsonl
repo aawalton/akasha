@@ -9,5 +9,6 @@
 {"propertySlug":"import","fileName":"beat-records.module.code.ts","path":"story/engine/beat-state/modules/beat-records/beat-records.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"beat-records.module.code.ts","path":"story/lore-disclosure/modules/lore-scrubbing/lore-scrubbing.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"beat-records.module.code.ts","path":"story/lore-disclosure/modules/lore-scrubbing/lore-scrubbing.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"beat-records.module.code.ts","path":"story/world/stories/written/chapters/modules/chapter-panels/chapter-panels.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"beat-records.module.code.ts","path":"story/world/stories/written/chapters/story-chapter-written.page-type.page-component.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"story/engine/beat-state/beat-state.domain.ts","id":"01a10235-fdaa-7b5b-968e-b88481cce87f"}
