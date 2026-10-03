@@ -244,5 +244,9 @@ export const overwhereIWendlow2 = {
       fact: "Wil says he takes plain soldier's short swords too, worth 60 copper each.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Mother Sallow is a stooped old woman with a clay pipe, in a steamy cellar at the river stairs' foot.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
