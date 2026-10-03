@@ -82,7 +82,11 @@ export const overwhereIiiMotherSallow = {
     },
     {
       fact: "The first holy strike cracks her bone-ring charm; her true face, forty and hard, shows through.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iii-nala",
+        "character-other/overwhere-iii-mother-sallow",
+      ],
     },
     {
       fact: "Struck, she raises her shield, whistles up her wolves, and answers with blight bolts and rot mist.",
