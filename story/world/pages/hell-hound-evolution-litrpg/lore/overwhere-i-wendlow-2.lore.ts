@@ -300,5 +300,9 @@ export const overwhereIWendlow2 = {
       fact: "By evening the taproom talks of a lone woman hunter who ended Voss's crew; none know her by sight.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Bargemen in the taproom say the Weir Wyrm took a bowman off a barge below Hobb's weir two days ago.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
