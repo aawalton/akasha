@@ -1,0 +1,54 @@
+{"beat":1,"event":"Day 41: Wren leaves before Theron finishes his morning tea.","at":"2026-09-10T06:30:00.000Z","place":"place/the-places-she-carries-varethen","present":["character-player/the-places-she-carries-wren","character-other/the-places-she-carries-theron","character-other/the-places-she-carries-hadley","character-other/the-places-she-carries-brecca"]}
+{"beat":2,"event":"She tells no one, unsure herself; she turns south at the ghost-elm perimeter.","leave":["character-other/the-places-she-carries-theron","character-other/the-places-she-carries-hadley","character-other/the-places-she-carries-brecca"]}
+{"beat":3,"event":"The basin path descends through limestone outcrops, curving south-southeast.","at":"2026-09-10T06:40:00.000Z","place":"place/the-places-she-carries-basin-path"}
+{"beat":4,"event":"She feels the bedrock's geology now as background awareness, like wind direction."}
+{"beat":5,"event":"Walking the limestone seam feels like following a thread she already holds."}
+{"beat":6,"event":"After forty minutes the Eye's basin appears, smaller than she remembered.","at":"2026-09-10T07:20:00.000Z","place":"place/the-places-she-carries-wardens-eye"}
+{"beat":7,"event":"Thirty meters across, greenish-silver, its cool shimmer reflects without absorbing."}
+{"beat":8,"event":"At Glimpsed depth she cannot read its attention, only its steady SSE pull."}
+{"beat":9,"event":"She sits at the north edge; a thermal mist rises, and a strange bird calls twice from the south."}
+{"beat":10,"event":"Palms on the rim, she feels the Vael rise strongly, the basin a natural acoustic chamber."}
+{"beat":11,"event":"She realizes the Eye faced SSE long before the Vael was named. What was it watching first?"}
+{"beat":12,"event":"She can feel the Eye's attention but not hear its content."}
+{"beat":13,"event":"She holds Detail Notation open for its ten-minute resolution."}
+{"beat":14,"event":"Four minutes in, she finds one thread of the Vael running SSE, too straight to be chance."}
+{"beat":15,"event":"The Eye is not receiving a signal from the south. It is sending one."}
+{"beat":16,"event":"Beneath the pool the resonance is gathered like light through a lens and sent under the corruption."}
+{"beat":17,"event":"A discovery logs the Eye as transmitter, not receiver: +75 XP, 2366 / 2573.","changes":[{"page":"metric-character-experience/the-places-she-carries-wren","key":"value","from":2291,"to":2366,"note":"Discovery: Warden's Eye transmits SSE, not only receives"}]}
+{"beat":18,"event":"SSE lies two kilometers of corruption, the deep basin, and somewhere in that arc, Hearthstone."}
+{"beat":19,"event":"The Eye has been sending toward Hearthstone or beyond since before anyone noticed."}
+{"beat":20,"event":"The Reciprocal bond thrums; she understands the Eye has been working all along."}
+{"beat":21,"event":"She stays another hour, not reading, just sitting."}
+{"beat":22,"event":"Back at Varethen she finds Hadley at the retreated strip with his journal.","at":"2026-09-10T10:30:00.000Z","place":"place/the-places-she-carries-varethen","present":["character-player/the-places-she-carries-wren","character-other/the-places-she-carries-hadley"]}
+{"beat":23,"event":"'Thrips. First in the basin. The mycorrhizal recovery is further along than it shows.'"}
+{"beat":24,"event":"Hadley has tracked species counts since the second pulse, dates against counts."}
+{"beat":25,"event":"The counts climb in waves after each pulse: the ecology tracks the Holding's expansion."}
+{"beat":26,"event":"'You are surveying.' 'I am counting. The pattern is the thing worth knowing.'"}
+{"beat":27,"event":"The thrips touches the corrupted side, turns back at once, and follows the edge."}
+{"beat":28,"event":"Wren asks who S. is. 'Sorrel. Lorekeeper in Thorngate.'"}
+{"beat":29,"event":"Sorrel has studied the corruption from the escarpment fifteen years and never entered the basin."}
+{"beat":30,"event":"Hadley has had two careful letters from Sorrel about insect distribution."}
+{"beat":31,"event":"Sorrel holds the corruption-as-grief hypothesis: the land contracting around something lost."}
+{"beat":32,"event":"Wren thinks of the Eye's transmission: something sent toward what cannot answer."}
+{"beat":33,"event":"'Then the Vael naming is a signal. A response.' 'That is what Sorrel would say.'"}
+{"beat":34,"event":"A reply from Sorrel could reach the basin cache within two weeks."}
+{"beat":35,"event":"The pulse is thirteen days off; the marks expire four days after. 'I need to decide about Hearthstone.'"}
+{"beat":36,"event":"Hadley lays out both fears: something changing while she is away, and the data lost if she never goes."}
+{"beat":37,"event":"'The pulse will happen whether you are present or not. The marks' data will not exist if they fade.'"}
+{"beat":38,"event":"'You sound like Maret.' 'Some of her probably transferred.'"}
+{"beat":39,"event":"He says she fears the settlement needs her in a way that feels good to be needed."}
+{"beat":40,"event":"'That is accurate.' 'I know.' He admits the same reluctance to stop watching his insects."}
+{"beat":41,"event":"Late afternoon Theron measures the channel's end with the counting rod.","at":"2026-09-10T16:00:00.000Z","arrive":["character-other/the-places-she-carries-theron"]}
+{"beat":42,"event":"The channel narrows three finger-widths: the builders tapered it on purpose."}
+{"beat":43,"event":"A taper speeds water at the terminus; something past the corruption needed fast water."}
+{"beat":44,"event":"Another meter of retreat and he can see the next block. 'What did you find at the basin?'"}
+{"beat":45,"event":"'You have the look of a channel that has found its grade.'"}
+{"beat":46,"event":"She tells him of the Eye's SSE transmission toward Hearthstone or beyond."}
+{"beat":47,"event":"'The channel, the Eye, the stone's reinforcement all point south.'"}
+{"beat":48,"event":"'The builders did not build separate things. They built one thing, in pieces.'"}
+{"beat":49,"event":"By firelight Wren journals the Eye's transmission and Hadley's species counts.","at":"2026-09-10T20:00:00.000Z"}
+{"beat":50,"event":"She records Sorrel, Thorngate Lorekeeper, and the corruption-as-grief hypothesis."}
+{"beat":51,"event":"She decides: Hearthstone, Days 43 to 45, before the pulse, if Theron and Brecca agree."}
+{"beat":52,"event":"She notes Theron's insight: one thing in pieces, interrupted by the corruption."}
+{"beat":53,"event":"Thirteen days to the third pulse."}
+{"beat":54,"event":"She sits by the fire until the others go inside; the Eye sends its message south."}
