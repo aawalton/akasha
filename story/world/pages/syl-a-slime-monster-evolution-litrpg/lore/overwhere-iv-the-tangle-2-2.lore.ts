@@ -116,5 +116,9 @@ export const overwhereIvTheTangle22 = {
       fact: "Nala's rends beheaded both trail watchers: the LV 5 before he could blow, the LV 4 as he ran.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
     },
+    {
+      fact: "At dusk the watchers' relief finds them headless; at first light Grakk sends a dozen down to hunt.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore

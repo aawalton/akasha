@@ -244,5 +244,25 @@ export const overwhereIvBrooksideFour2 = {
         "character-other/overwhere-iv-ilsa-crane",
       ],
     },
+    {
+      fact: "On day 9 the Four wake about four in the afternoon and eat at the Brook and Barrel before the watch.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Dace is keen on a lure: thinning Grakk's camp before Aubrin's band comes keeps the work local.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Wren is in at once; Orla goes where Dace goes; Merrit wants it fought at a ford, with his fire.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Dace would split ears evenly among all who go, as ever, but leave Grakk's head to whoever fells him.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Dace won't leave the farms unwatched tonight; he'd lure tomorrow, if Ilsa finds others to watch.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
