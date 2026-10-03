@@ -4,6 +4,7 @@ export const overwhereIii00096 = {
   id: "01a101e3-3ef6-7aba-ab99-ba6d5bc2a8f8",
   type: "page-type/story-turn-played",
   slug: "overwhere-iii-00-096",
+  cover: "image/image-6dbe112f43757922",
   ownLength: 265,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iii"],
@@ -42,6 +43,7 @@ export const overwhereIii00096 = {
     "lore/overwhere-iii-nala-2-2",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/inventory"],
+  recordedBy: ["story-recorder/inventory", "story-recorder/picture"],
   endsAt: "2026-10-10T14:17:00.000Z",
+  coverAfter: "It lowers its tusks at you and paws the frost.",
 } as const satisfies StoryTurnPlayed
