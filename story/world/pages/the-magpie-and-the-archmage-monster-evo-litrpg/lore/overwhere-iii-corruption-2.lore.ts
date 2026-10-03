@@ -245,5 +245,9 @@ export const overwhereIiiCorruption2 = {
       fact: "A beast drawn clean of blight before it dies leaves no blightstone.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "The hill boar's charge carried it past Nala; it wheeled and stands five paces off, bleeding.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+    },
   ],
 } as const satisfies Lore
