@@ -379,7 +379,11 @@ export const overwhereIiiBrannaghTull2 = {
     },
     {
       fact: "Brannagh still keeps the shepherd's hill cheese on her counter for the healer.",
-      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-brannagh-tull"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/overwhere-iii-brannagh-tull",
+        "character-player/overwhere-iii-nala",
+      ],
     },
     {
       fact: "Three Mending Weaves smoothed the weaver's loom-oil scar on day eleven; the third dragged.",
