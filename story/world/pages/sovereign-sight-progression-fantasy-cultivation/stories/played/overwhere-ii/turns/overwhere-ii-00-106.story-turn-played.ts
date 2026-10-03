@@ -31,5 +31,6 @@ export const overwhereIi00106 = {
     "lore/overwhere-ii-nala-3",
     "place/overwhere-ii-whitecombs",
   ],
+  reviewedBy: ["story-reviewer/style"],
   endsAt: "2026-10-26T11:23:00.000Z",
 } as const satisfies StoryTurnPlayed
