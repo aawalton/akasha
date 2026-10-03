@@ -6,4 +6,5 @@ export const theVioletHourAmy = {
   slug: "the-violet-hour-amy",
   title: "Amy",
   story: "story-written/the-violet-hour",
+  place: "place/the-violet-hour-amys-table",
 } as const satisfies CharacterOther

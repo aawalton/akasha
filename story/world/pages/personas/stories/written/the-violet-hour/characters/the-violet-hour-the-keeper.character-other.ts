@@ -6,4 +6,5 @@ export const theVioletHourTheKeeper = {
   slug: "the-violet-hour-the-keeper",
   title: "The Keeper",
   story: "story-written/the-violet-hour",
+  place: "place/the-violet-hour-the-waystation",
 } as const satisfies CharacterOther
