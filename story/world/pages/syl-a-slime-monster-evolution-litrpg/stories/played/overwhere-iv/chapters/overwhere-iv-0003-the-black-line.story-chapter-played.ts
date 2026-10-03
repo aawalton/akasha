@@ -10,6 +10,7 @@ export const overwhereIv0003TheBlackLine = {
   story: "story-played/overwhere-iv",
   ownLength: 4455,
   prose: "txt",
+  beats: "jsonl",
   turnCovers: [
     {
       position: 22,
