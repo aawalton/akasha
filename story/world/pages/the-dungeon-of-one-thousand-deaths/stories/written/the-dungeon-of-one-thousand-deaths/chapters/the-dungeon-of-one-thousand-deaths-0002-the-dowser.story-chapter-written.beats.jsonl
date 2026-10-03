@@ -1,0 +1,82 @@
+{"beat":1,"event":"Maren does not sleep; she sits at the table by his empty chair, the water jug in her hands.","place":"place/the-dungeon-of-one-thousand-deaths-voss-farm","present":["character-other/the-dungeon-of-one-thousand-deaths-maren"]}
+{"beat":2,"event":"At first grey light she walks out of the door toward the ridge.","at":"2026-04-04T05:15:00.000Z"}
+{"beat":3,"event":"Tam, Edric's old liver-spotted hound, is waiting at the door, pointed at the ridge, and goes with her.","arrive":["character-other/the-dungeon-of-one-thousand-deaths-tam"]}
+{"beat":4,"event":"They cross the east field; the seed bag still hangs on the fence post, and she does not stop."}
+{"beat":5,"event":"The opening is the same, but the silence below is now a presence, breathing.","place":"place/the-dungeon-of-one-thousand-deaths-the-opening"}
+{"beat":6,"event":"Tam noses the stone edge, and a thin, continuous whine starts in his chest."}
+{"beat":7,"event":"She has only the water jug; this is no expedition, she is going to find her husband."}
+{"beat":8,"event":"\"Edric,\" she calls, and the sound goes down and does not come back."}
+{"beat":9,"event":"She goes in.","at":"2026-04-04T05:30:00.000Z","place":"place/the-dungeon-of-one-thousand-deaths-the-gullet"}
+{"beat":10,"event":"She follows his boot prints on the wet stone, the left heel worn on the outside edge."}
+{"beat":11,"event":"Tam goes ahead, nose down, around the still pool and through the narrow press."}
+{"beat":12,"event":"She squeezes through behind him, the water jug held above her head."}
+{"beat":13,"event":"Moving with the blind speed of panic, she reaches the first chamber in half his time."}
+{"beat":14,"event":"Tam is already across the chamber, keening at the passage that goes deeper."}
+{"beat":15,"event":"The pressure behind her sternum asks: what do you want."}
+{"beat":16,"event":"\"I want to find him,\" she says aloud, and the answer is pulled from her like a splinter."}
+{"beat":17,"event":"The Ledger names her The Dowser, with the Gift Resonance: touch a surface, feel who touched it.","at":"2026-04-04T05:44:00.000Z"}
+{"beat":18,"event":"Her Cost is Fading: each use of Resonance erases a memory of the one she seeks."}
+{"beat":19,"event":"The Ledger reads Vitality 26, Resolve 38, Attunement 8, Fortune 11; she is Dowser #1."}
+{"beat":20,"event":"As a courtesy, it tells her the one she seeks died fourteen hours ago."}
+{"beat":21,"event":"She reads every word, and she already knew."}
+{"beat":22,"event":"She presses her palm to the wall and feels Edric there, marvelling at the stone."}
+{"beat":23,"event":"The memory of the morning vanishes: his face in the doorway, his words, gone."}
+{"beat":24,"event":"She follows his trail by touch, each touch giving her Edric and taking her Edric."}
+{"beat":25,"event":"At the junction she feels him choose the center, and loses last Tuesday, his hands on the plow."}
+{"beat":26,"event":"In the narrow passage she feels his heart quicken, and loses the argument about the east fence."}
+{"beat":27,"event":"At the red chamber's mouth she feels his fear and his wonder, and loses their anniversary."}
+{"beat":28,"event":"She smells barley, fresh earth and green growth: the smell of home.","place":"place/the-dungeon-of-one-thousand-deaths-the-garden","present":["character-other/the-dungeon-of-one-thousand-deaths-maren","character-other/the-dungeon-of-one-thousand-deaths-tam","character-other/the-dungeon-of-one-thousand-deaths-edric-voss"]}
+{"beat":29,"event":"Tam is already there, lying in the barley with his grey muzzle on a dead man's fused hand."}
+{"beat":30,"event":"Pale many-legged scavengers feeding on the body and the barley scatter at her approach."}
+{"beat":31,"event":"They circle at the edge of the amber light, waiting for her to leave."}
+{"beat":32,"event":"She crosses the barley and kneels by Edric, rooted into the floor, his face peaceful."}
+{"beat":33,"event":"The mattock's ash handle has grown a finger-thick branch with three pale leaves."}
+{"beat":34,"event":"She touches his face: cool, not cold, preserved."}
+{"beat":35,"event":"She presses her palm to his chest and feels his last moments, all of them Maren."}
+{"beat":36,"event":"She loses their wedding: the borrowed dress, his hands shaking on the ring."}
+{"beat":37,"event":"She reads the inscription in his hand and cannot remember what the water means."}
+{"beat":38,"event":"She weeps without sound, Tam pressed against her leg."}
+{"beat":39,"event":"Her hand finds the gold crystal, warm and plum-sized, near where his heart had been."}
+{"beat":40,"event":"She presses it to her forehead and stands in the morning doorway, seeing herself through his eyes."}
+{"beat":41,"event":"She hears \"Bring water\" as love, and \"It is not far\" with his calm certainty of her."}
+{"beat":42,"event":"The crystal shatters, and she has the morning back, from the other side."}
+{"beat":43,"event":"The Ledger: the first Memory Crystal consumed in the Maw, Gold, Fortune 11 to 13.","changes":[{"page":"metric-character-stat/the-dungeon-of-one-thousand-deaths-maren-fortune","key":"value","from":11,"to":13,"note":"Gold crystal of Edric Voss consumed, Fortune +2"}]}
+{"beat":44,"event":"The Fading, still active, takes the crystal's memory after ten seconds."}
+{"beat":45,"event":"She will not go back to the empty chair; she goes deeper."}
+{"beat":46,"event":"Tam stays by Edric's body, his muzzle on the fused hand, and does not follow.","leave":["character-other/the-dungeon-of-one-thousand-deaths-maren"]}
+{"beat":47,"event":"One step the walls are amber and wet; the next they are bone-white, dry and odourless.","place":"place/the-dungeon-of-one-thousand-deaths-the-marrow-warrens","present":["character-other/the-dungeon-of-one-thousand-deaths-maren"]}
+{"beat":48,"event":"The Ledger: Depth 2, The Marrow Warrens; hazards, labyrinth disorientation and bone parasites."}
+{"beat":49,"event":"Resolve +1 for the Depth transition; the one she tracks never reached this far.","changes":[{"page":"metric-character-stat/the-dungeon-of-one-thousand-deaths-maren-resolve","key":"value","from":38,"to":39,"note":"Depth transition into the Marrow Warrens, Resolve +1"}]}
+{"beat":50,"event":"She presses the white wall and feels nothing: Edric never walked here."}
+{"beat":51,"event":"The corridors branch, identical, lit from no source and casting no shadows."}
+{"beat":52,"event":"She touches the walls for contact, losing the shape of his hands and the sound of his voice."}
+{"beat":53,"event":"She calls his name, and the bone corridors throw it back fractured into noise."}
+{"beat":54,"event":"She is lost within minutes."}
+{"beat":55,"event":"She could have gone back at the Warrens' edge, but she is Maren, who acts."}
+{"beat":56,"event":"She runs, turning corners she has turned before, calling a name losing its face."}
+{"beat":57,"event":"The Fading cascades on its own into her childhood: her mother's kitchen, a horse she loved."}
+{"beat":58,"event":"At a four-way junction she presses the wall and waits for an impression that does not come."}
+{"beat":59,"event":"She understands she has forgotten what she is looking for; the name is gone."}
+{"beat":60,"event":"She slides down a wall to the floor, knees drawn up, trying to remember a name."}
+{"beat":61,"event":"She still feels the love, sourceless and fading, and holds it like water in cupped hands."}
+{"beat":62,"event":"A bone parasite comes from the dead end behind her, pale as the walls and eyeless."}
+{"beat":63,"event":"It has been coming for three minutes; she is looking at her own hands."}
+{"beat":64,"event":"Its bone digits sever the tendons in her ankles."}
+{"beat":65,"event":"She falls sideways and says the name worn smooth in her mouth: \"Edric.\""}
+{"beat":66,"event":"The echo comes back wrong, and she does not recognise it."}
+{"beat":67,"event":"The Fading takes the last of it, even the knowing that she has lost something."}
+{"beat":68,"event":"She dies quietly in the bone-white corridor.","at":"2026-04-04T06:21:00.000Z","changes":[{"page":"metric-character-stat/the-dungeon-of-one-thousand-deaths-maren-vitality","key":"value","from":26,"to":0,"note":"Maren dies of the Fading and a bone parasite, Vitality to 0"}]}
+{"beat":69,"event":"Words press out of a bone-white dead end: Someone was here. I think I loved them."}
+{"beat":70,"event":"It is the second Death Inscription, one floor below the first."}
+{"beat":71,"event":"The death report: Dowser #1, Depth 2, 51 minutes, the Fading, then a bone parasite.","changes":[{"page":"metric-character-stat/the-dungeon-of-one-thousand-deaths-maren-attunement","key":"value","from":8,"to":14,"note":"The death report gives Attunement 14, +6 from seven uses of her Gift"}]}
+{"beat":72,"event":"About thirty years of memory erased; she kept a love for someone she could not name."}
+{"beat":73,"event":"The harvest: an inscription, a blue Memory Crystal, a Resonance echo, her Gift to the Maw."}
+{"beat":74,"event":"The Ledger counts her death #2, with 998 remaining."}
+{"beat":75,"event":"A blue crystal of grief forms: a woman in a white corridor trying to remember a face."}
+{"beat":76,"event":"Above, in the garden, Tam lies by Edric's body, the barley pressing against his flanks.","place":"place/the-dungeon-of-one-thousand-deaths-the-garden","present":["character-other/the-dungeon-of-one-thousand-deaths-tam","character-other/the-dungeon-of-one-thousand-deaths-edric-voss"]}
+{"beat":77,"event":"He does not leave, and his breathing slows to the dungeon's: six beats a minute, then five."}
+{"beat":78,"event":"The barley grows over the old dog until he is part of the garden."}
+{"beat":79,"event":"The Ledger does not record him, but the first year's entrants remember the dog."}
+{"beat":80,"event":"The second tumbler of the Lock turns: a wife, killed by her search, below her husband."}
+{"beat":81,"event":"In the Warrens the bone walls shift and close over her body.","place":"place/the-dungeon-of-one-thousand-deaths-the-marrow-warrens","present":["character-other/the-dungeon-of-one-thousand-deaths-maren"]}
+{"beat":82,"event":"Death #2; 998 remain."}
