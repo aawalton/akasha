@@ -1,0 +1,59 @@
+{"beat":1,"event":"On Day 19 Wren wakes in camp to the threshold stone's signature humming in the ground.","at":"2026-08-19T05:15:00.000Z","place":"place/the-places-she-carries-therons-camp","present":["character-player/the-places-she-carries-wren"]}
+{"beat":2,"event":"The insect chorus is still silent; the ghost-elms hum looser, unclenched after the pulse."}
+{"beat":3,"event":"Forty meters south, [Foundation Stone] runs as a low vibration in the base of her spine."}
+{"beat":4,"event":"She dresses and goes south to the stone.","at":"2026-08-19T05:30:00.000Z","place":"place/the-places-she-carries-varethen"}
+{"beat":5,"event":"The thirty-second dawn vibration comes back, full and uninterrupted.","at":"2026-08-19T06:00:00.000Z"}
+{"beat":6,"event":"The stone says hello, and she had not known how much she needed to hear it."}
+{"beat":7,"event":"The cloud broke overnight; the healer's south window faces the dawn as it was built to."}
+{"beat":8,"event":"Her margin column counts down from Day 4 to Day 18 and zero, where it became a hinge."}
+{"beat":9,"event":"Below the zero she writes 'Day 19. One.', a count from what happened, not toward it."}
+{"beat":10,"event":"Walking the perimeter, she feels the signature as a heartbeat in every foundation.","at":"2026-08-19T06:30:00.000Z"}
+{"beat":11,"event":"The ghost-elm shimmer is greener; the ward reaches a few centimeters further than before."}
+{"beat":12,"event":"She lets the settlement settle around her and does not reach for discoveries."}
+{"beat":13,"event":"She finds Theron in the drainage channel, clearing silt with a flat stone as a trowel.","at":"2026-08-19T07:30:00.000Z","arrive":["character-other/the-places-she-carries-theron"]}
+{"beat":14,"event":"He has worked since dawn; under the silt the lining is intact. 'Water will move.'"}
+{"beat":15,"event":"A lining stone warms under her thumb with the [Foundation Stone] signature."}
+{"beat":16,"event":"'You didn't ask. You just started.' 'Yes,' Theron says, and goes back to clearing."}
+{"beat":17,"event":"She sees she paid little attention to the person beside her for eighteen days; she files it."}
+{"beat":18,"event":"'Can I help?' 'You can survey. Tell me if the gradient changes at the south bend.'"}
+{"beat":19,"event":"The six-degree gradient holds the whole length; she tells him, and he nods."}
+{"beat":20,"event":"They work in parallel for an hour in companionable silence."}
+{"beat":21,"event":"She sees the settlement gaining new daily acts of care, layered on the healer's old ones."}
+{"beat":22,"event":"The thought of the Hearth slot sits at the edge of her awareness, unfollowed."}
+{"beat":23,"event":"After midday she goes to the gap: the same size, its settlement edge now a sharp line.","at":"2026-08-19T13:00:00.000Z","leave":["character-other/the-places-she-carries-theron"]}
+{"beat":24,"event":"Her hand on the dead tree feels nothing; the gap neither grows nor shrinks."}
+{"beat":25,"event":"She writes: 'The gap is not a wound anymore. It is a scar.' She lets it stand."}
+{"beat":26,"event":"In the afternoon she sits against the stone to spend her three Level 5 points.","at":"2026-08-19T15:00:00.000Z"}
+{"beat":27,"event":"PER is thirteen with the class bonus: seeing is what she does."}
+{"beat":28,"event":"ATT is fourteen, her highest: the capacity to hold a connection open."}
+{"beat":29,"event":"EMP is eleven with [Tended]; she thinks of Theron, Maret, Hadley and Brecca."}
+{"beat":30,"event":"She puts +1 into PER, because she is a Wayfinder and seeing is what she does.","changes":[{"page":"metric-character-stat/the-places-she-carries-wren-per","key":"value","from":13,"to":14,"note":"Level 5 free point allocated to PER"}]}
+{"beat":31,"event":"She puts +1 into EMP, because the next thing that matters is people.","changes":[{"page":"metric-character-stat/the-places-she-carries-wren-emp","key":"value","from":11,"to":12,"note":"Level 5 free point allocated to EMP"}]}
+{"beat":32,"event":"She puts +1 into ADP, the stat the stone gave her: endurance is a thing you are.","changes":[{"page":"metric-character-stat/the-places-she-carries-wren-adp","key":"value","from":10,"to":11,"note":"Level 5 free point allocated to ADP"}]}
+{"beat":33,"event":"She notices she put nothing into ATT: she needs what makes connection worth having."}
+{"beat":34,"event":"Theron comes back to the fire in late afternoon, mud on his forearms, satisfied.","at":"2026-08-19T17:00:00.000Z","place":"place/the-places-she-carries-therons-camp","arrive":["character-other/the-places-she-carries-theron"]}
+{"beat":35,"event":"'The south bend is clear. Water will flow to the tree line.' 'Good drainage,' she says."}
+{"beat":36,"event":"Fourteen families lived here; they built the drainage first, before walls or hall."}
+{"beat":37,"event":"Then the forest changed, they left, silt filled the channel, and the walls held anyway."}
+{"beat":38,"event":"'And now you're clearing the silt.' 'I'm clearing the silt,' he agrees."}
+{"beat":39,"event":"She does not ask if he is staying; they drink tea in the evening light.","at":"2026-08-19T19:00:00.000Z"}
+{"beat":40,"event":"Journaling, she notices she treated his work as landscape, not conversation.","at":"2026-08-19T20:30:00.000Z"}
+{"beat":41,"event":"She logs the day's notes and adds: 'Theron is clearing the little river.'"}
+{"beat":42,"event":"In her bedroll she hears the insect chorus returning in ones and twos.","at":"2026-08-19T22:00:00.000Z"}
+{"beat":43,"event":"The ten links rest; the stone's signature is the steadiest signal among them."}
+{"beat":44,"event":"The Eye still watches south-southeast, toward Hearthstone, where she has never been."}
+{"beat":45,"event":"She reckons Hadley, gone since Day 15, back by Day 21 or 22, Brecca perhaps behind him."}
+{"beat":46,"event":"She sees 'the count says five' may have been unkind: she sent Brecca a stat screen."}
+{"beat":47,"event":"She keeps the thought she does not like. Day 19. One."}
+{"beat":48,"event":"On Day 20, mid-morning, she is at the threshold stone when she hears Hadley coming.","at":"2026-08-20T10:00:00.000Z","place":"place/the-places-she-carries-varethen","present":["character-player/the-places-she-carries-wren"]}
+{"beat":49,"event":"Hadley comes into the clearing, mud-booted, talking to himself, carrying two packs.","arrive":["character-other/the-places-she-carries-hadley"]}
+{"beat":50,"event":"'Mail.' He hands her a letter from her mother; she tucks it unread into her journal."}
+{"beat":51,"event":"Aldric sends regards; her father sends nothing, thinking too hard to write it down."}
+{"beat":52,"event":"'And Brecca Vane sends a question.' She got the message and said: 'Five what?'"}
+{"beat":53,"event":"Brecca was half-packed at Aldric's counter when he left; he did not advise her."}
+{"beat":54,"event":"'If she left the morning after I did, she'll be here tomorrow. Day after at the latest.'"}
+{"beat":55,"event":"Wren is used to not knowing things about places, not about people."}
+{"beat":56,"event":"'What should I have said?' 'I found something important and I want to show it to you.'"}
+{"beat":57,"event":"'You're good at places, Wren. People are a different survey.' He is right."}
+{"beat":58,"event":"She writes 'Day 20. Two.' and that people are a different survey."}
+{"beat":59,"event":"Hand on the humming stone, she thinks of what she meant and what she said; the count climbs."}
