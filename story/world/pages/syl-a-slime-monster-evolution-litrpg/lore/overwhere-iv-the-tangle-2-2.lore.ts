@@ -120,5 +120,25 @@ export const overwhereIvTheTangle22 = {
       fact: "At dusk the watchers' relief finds them headless; at first light Grakk sends a dozen down to hunt.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Grakk's hunters on day 10: the hobgoblin and eleven goblins LV 3 to 6, three with slings.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The hunters track Nala's trail from the rise down toward the cleft, slowly, about a mile an hour.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Two goblin scouts go some fifty paces ahead of the hunters; the hobgoblin walks in the middle.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "By day the hunters keep to the trees; they'll leave cover only to chase someone they've seen.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The hunters halt at the cleft, finding their six dead stripped of ears, and squabble there a while.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore

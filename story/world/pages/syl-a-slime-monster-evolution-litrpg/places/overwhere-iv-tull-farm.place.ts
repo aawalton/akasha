@@ -211,5 +211,9 @@ export const overwhereIvTullFarm = {
       fact: "At dawn Tull gives Nala his late wife's grey wool cloak, and a place at his table when she comes.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
     },
+    {
+      fact: "Tull's ford is knee-deep and some ten paces wide, with a drystone sheep wall along the meadow bank.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Place
