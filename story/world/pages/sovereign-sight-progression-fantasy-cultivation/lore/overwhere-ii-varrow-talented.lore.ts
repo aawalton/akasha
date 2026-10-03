@@ -117,7 +117,7 @@ export const overwhereIiVarrowTalented = {
     },
     {
       fact: "A small push lands on Hawise as a cold slap of tide; the first one jolts her, after that she braces.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Pushes timed with spearwork in a flurry wear Nala's mind fast, like fine work, not plain towing.",
