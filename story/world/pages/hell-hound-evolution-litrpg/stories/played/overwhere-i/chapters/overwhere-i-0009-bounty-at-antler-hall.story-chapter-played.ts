@@ -10,6 +10,7 @@ export const overwhereI0009BountyAtAntlerHall = {
   story: "story-played/overwhere-i",
   ownLength: 4640,
   prose: "txt",
+  beats: "jsonl",
   turnCovers: [
     {
       position: 86,
