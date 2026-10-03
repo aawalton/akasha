@@ -7,7 +7,12 @@ export const overwhereIii00080 = {
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iii"],
   position: 80,
-  stepStatus: "step-status/world-builder",
+  stepStatus: "step-status/game-master",
   action:
     "“Yeah, definitely the small one first, that’s the deer?” I follow the directions and hit it with my cleansing current lash braid as soon as I can reach it.",
+  lore: [
+    "lore/overwhere-iii-cleansing-weave",
+    "lore/overwhere-iii-corruption-2",
+    "place/overwhere-iii-wrenwood",
+  ],
 } as const satisfies StoryTurnPlayed
