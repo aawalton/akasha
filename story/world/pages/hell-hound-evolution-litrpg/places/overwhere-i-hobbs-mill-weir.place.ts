@@ -99,5 +99,9 @@ export const overwhereIHobbsMillWeir = {
       fact: "Spotting the sunk wyrm through the lens is hard; success shows a slow swirl by the barge's stern.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "A strong spotting result also shows a long grey-green coil turning under the barge's stern.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Place
