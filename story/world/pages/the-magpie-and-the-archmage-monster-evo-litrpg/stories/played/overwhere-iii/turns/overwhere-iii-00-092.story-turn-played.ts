@@ -4,10 +4,13 @@ export const overwhereIii00092 = {
   id: "01a101a8-25cb-739f-b3b8-34b4ac784ff1",
   type: "page-type/story-turn-played",
   slug: "overwhere-iii-00-092",
+  ownLength: 133,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iii"],
   position: 92,
-  stepStatus: "step-status/writer",
+  prose: "txt",
+  characters: ["character-player/overwhere-iii-nala", "character-other/overwhere-iii-marda-hesk"],
+  stepStatus: "step-status/reviewers",
   action:
     "I thread my braided lash down into the burrow to finish it off, then reach in and pull it out, collecting the blightstones, then return to the Post for the bounties.",
   beats: [
@@ -21,6 +24,14 @@ export const overwhereIii00092 = {
     '"Silver apiece," she says, and counts three silver into Nala\'s hand.',
     'She dips her pen to mark the ledger, then pauses. "Where\'d these come from?"',
   ],
-  lore: ["lore/overwhere-iii-corruption-2", "place/overwhere-iii-merrowgate-guild-post"],
+  lore: [
+    "lore/overwhere-iii-corruption-2",
+    "lore/overwhere-iii-marda-hesk",
+    "lore/overwhere-iii-marda-hesk-2",
+    "lore/overwhere-iii-nala",
+    "lore/overwhere-iii-nala-2",
+    "lore/overwhere-iii-nala-2-2",
+    "place/overwhere-iii-merrowgate-guild-post",
+  ],
   endsAt: "2026-10-09T13:45:00.000Z",
 } as const satisfies StoryTurnPlayed
