@@ -22,6 +22,7 @@ export const overwhereIii00097 = {
     "The boar's momentum carries it past. It skids, wheels round in the brambles, and faces her again.",
     "It stands five paces off, snorting blood, tusks low.",
   ],
+  issues: ['"It stands five paces off, snorting blood, tusks low." - No Prompt'],
   lore: [
     "lore/overwhere-iii-corruption-2",
     "lore/overwhere-iii-nala",
@@ -30,5 +31,6 @@ export const overwhereIii00097 = {
     "place/overwhere-iii-merrowgate-guild-post",
     "place/overwhere-iii-wrenwood",
   ],
+  reviewedBy: ["story-reviewer/style"],
   endsAt: "2026-10-10T14:19:00.000Z",
 } as const satisfies StoryTurnPlayed
