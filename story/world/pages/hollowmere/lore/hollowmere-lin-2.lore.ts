@@ -91,6 +91,7 @@ export const hollowmereLin2 = {
         "lore-disclosure/game-master",
         "character-other/hollowmere-lin",
         "character-player/hollowmere-nala",
+        "character-other/hollowmere-bea",
       ],
     },
     {
@@ -99,6 +100,80 @@ export const hollowmereLin2 = {
         "lore-disclosure/game-master",
         "character-other/hollowmere-lin",
         "character-player/hollowmere-nala",
+        "character-other/hollowmere-bea",
+      ],
+    },
+    {
+      fact: "Lin undressed for Nala by lamplight and let her look, as she once looked at Nala.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-lin",
+      ],
+    },
+    {
+      fact: "Lin's father read her letter in silence, then cooked all night; her mother says that's how he thinks",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-lin",
+      ],
+    },
+    {
+      fact: "Lin's mother had never told her she was proud, not once, and never on paper.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-lin",
+      ],
+    },
+    {
+      fact: "Lin pinned her mother's letter on her wall beside her drawing of Nala, in the middle of everything.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-lin",
+      ],
+    },
+    {
+      fact: "In Sigils the tutor held up Lin's calling sigil to the Drawing Room: This is a sigil.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-lin",
+      ],
+    },
+    {
+      fact: "Lin learned to draw as a child, drawing her father's hands at work in the restaurant kitchen.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-lin",
+      ],
+    },
+    {
+      fact: "Lin's sister is older than her; their mother does the restaurant's accounts after closing.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-lin",
+      ],
+    },
+    {
+      fact: "At the village jetty Lin, no longer crying, asked Nala to come to her that night; Nala said yes.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-lin",
+        "character-other/hollowmere-bea",
+      ],
+    },
+    {
+      fact: "Lin made love with Nala in room 8, her first time with anyone, and Nala slept the night there.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-lin",
       ],
     },
   ],

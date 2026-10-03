@@ -16,5 +16,13 @@ export const hollowmereKit3 = {
         "character-other/hollowmere-kit",
       ],
     },
+    {
+      fact: "Told that Lin's mother had written back, Kit said Good, and meant it.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-kit",
+      ],
+    },
   ],
 } as const satisfies Lore

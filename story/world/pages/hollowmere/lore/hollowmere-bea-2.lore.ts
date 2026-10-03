@@ -264,5 +264,13 @@ export const hollowmereBea2 = {
         "character-other/hollowmere-bea",
       ],
     },
+    {
+      fact: "Bea sent Nala to Lin: be gentle with her, then come back and tell me she's all right.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-bea",
+      ],
+    },
   ],
 } as const satisfies Lore
