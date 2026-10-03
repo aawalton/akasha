@@ -8,6 +8,5 @@
 {"propertySlug":"import","fileName":"reviewer.role.ts","path":"story/world/stories/played/turns/modules/turn-advancing/turn-advancing.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"agent/role/role.page-type.ts","id":"01a053b2-2c20-7e34-9306-65f44016381a"}
 {"propertySlug":"role","path":"agent/seat/pages/mari-reviewer-fairweather-flex-1/mari-reviewer-fairweather-flex-1.seat.ts","id":"01a102d7-21c0-7000-ae9e-930ee1a9c907"}
-{"propertySlug":"role","path":"agent/seat/pages/mari-reviewer-fairweather-flex-2/mari-reviewer-fairweather-flex-2.seat.ts","id":"01a102d7-4d57-7000-9022-d08de4136eeb"}
 {"propertySlug":"role","path":"agent/seat/pages/mari-reviewer-fairweather-flex-3/mari-reviewer-fairweather-flex-3.seat.ts","id":"01a102d7-762d-7000-8697-c96fdd9e9c2a"}
 {"propertySlug":"role","path":"agent/seat/pages/mari-reviewer-fairweather-flex-4/mari-reviewer-fairweather-flex-4.seat.ts","id":"01a102d7-9e63-7000-9059-59b4659af769"}
