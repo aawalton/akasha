@@ -1,0 +1,82 @@
+{"beat":1,"event":"The word at the camp is that the creature at Depth 3 is bleeding; Orla Vess writes seeping.","place":"place/the-dungeon-of-one-thousand-deaths-the-camp","present":["character-other/the-dungeon-of-one-thousand-deaths-orla-vess","character-other/the-dungeon-of-one-thousand-deaths-osren"]}
+{"beat":2,"event":"Her notes: luminescent fluid, continuous, left flank wound, a delayed strike since Death #20."}
+{"beat":3,"event":"Two days at the camp, she asks Osren what the entrants did to the creature, in order."}
+{"beat":4,"event":"Three times through it: Brand, Keystone, Joint, Cull. Four tools, four years."}
+{"beat":5,"event":"She has done this work before: reading accumulated damage to find the way through it."}
+{"beat":6,"event":"She once found and finished a cave predator lamed by a farmer's trap."}
+{"beat":7,"event":"\"The knife. Where is it now?\" On the floor near the creature, Osren says."}
+{"beat":8,"event":"The fluid loss is steady, and the wound has been visible from thirty meters for two deaths."}
+{"beat":9,"event":"\"So it's not closing.\" \"No. It's not closing.\""}
+{"beat":10,"event":"It is 342 years old and has never been wounded: it does not know how to heal."}
+{"beat":11,"event":"A second effects crate has been started beside the first."}
+{"beat":12,"event":"\"You'll be number twenty-three.\" \"Death number twenty-three. I'm aware.\""}
+{"beat":13,"event":"She enters at dawn, with full light and hours enough to do the job correctly.","leave":["character-other/the-dungeon-of-one-thousand-deaths-osren"],"place":"place/the-dungeon-of-one-thousand-deaths-the-gullet"}
+{"beat":14,"event":"The Gullet registers her like a room registering a door; she moves through without sentiment."}
+{"beat":15,"event":"The Ledger: Depth 2, the Marrow Warrens, Resolve +1, now 19.","place":"place/the-dungeon-of-one-thousand-deaths-the-marrow-warrens","changes":[{"page":"metric-character-stat/the-dungeon-of-one-thousand-deaths-orla-vess-resolve","key":"value","from":18,"to":19,"note":"Depth transition into the Marrow Warrens, Resolve +1"}]}
+{"beat":16,"event":"The Ledger names her The Finish, with the Gift Finishing Blow: one strike that completes weakness."}
+{"beat":17,"event":"Its Cost is The Long Approach: she cannot rush or run; the work has a pace."}
+{"beat":18,"event":"The Ledger reads Vitality 16, Resolve 19, Attunement 14, Fortune 11."}
+{"beat":19,"event":"Compelled: She believes she chose. She is not wrong."}
+{"beat":20,"event":"Gift and Cost are two sides of her method: correctly, or not at all."}
+{"beat":21,"event":"She follows the surveyor's charcoal and the pressed signs as waypoints, not texts."}
+{"beat":22,"event":"The Ledger: Depth 3, the Still Garden, Resolve +1, now 20.","place":"place/the-dungeon-of-one-thousand-deaths-the-still-garden","present":["character-other/the-dungeon-of-one-thousand-deaths-orla-vess","character-other/the-dungeon-of-one-thousand-deaths-the-gorger"],"changes":[{"page":"metric-character-stat/the-dungeon-of-one-thousand-deaths-orla-vess-resolve","key":"value","from":19,"to":20,"note":"Depth transition into the Still Garden, Resolve +1"}]}
+{"beat":23,"event":"She stops at the threshold to assess, not from fear."}
+{"beat":24,"event":"The Patient stands asymmetric, loading its strong side like a building settling on a lost support."}
+{"beat":25,"event":"From fifty meters she sees the crack, the dried residue, and the seeping penetration."}
+{"beat":26,"event":"The Patient is looking at her; its caution means she has a window, not a wide one."}
+{"beat":27,"event":"She angles in, staying just outside twenty-five meters, reading as she walks."}
+{"beat":28,"event":"Its hesitation is longer than reported: every bypassing entrant taught it waiting is safe."}
+{"beat":29,"event":"She is going to teach it something else."}
+{"beat":30,"event":"At thirty meters she reads the damage: blow, widening, penetration, a reactive wound."}
+{"beat":31,"event":"The tissue at the wound is biological, and there its central process lies nearest the surface."}
+{"beat":32,"event":"She understands the path: not the shell, the wound."}
+{"beat":33,"event":"The Long Approach holds her to her working pace toward a 342-year-old predator."}
+{"beat":34,"event":"Twenty-eight meters: its weight shifts forward, and the strike does not come."}
+{"beat":35,"event":"Twenty-six: she can read the Brand's note: if three, try left center seam first."}
+{"beat":36,"event":"At twenty-five The Patient steps sideways, turning its wounded flank away: guarding."}
+{"beat":37,"event":"She adjusts her line to keep the penetration point in view."}
+{"beat":38,"event":"Twenty-three: the spear, the plumb line, the chisel, and Dorric's knife six meters off."}
+{"beat":39,"event":"She is closer than Dorric was."}
+{"beat":40,"event":"At twenty-two meters she activates Finishing Blow.","changes":[{"page":"metric-character-stat/the-dungeon-of-one-thousand-deaths-orla-vess-attunement","key":"value","from":14,"to":15,"note":"One Finishing Blow activation, Attunement +1"}]}
+{"beat":41,"event":"It shows the path: through the wound, past where the knife went, angled from below."}
+{"beat":42,"event":"Nineteen, eighteen: it moves, and she adjusts only as fast as her pace allows."}
+{"beat":43,"event":"At fifteen meters it begins a lunge and aborts it seven meters from her."}
+{"beat":44,"event":"She walks the last seven meters at her pace while it makes a low grinding resonance."}
+{"beat":45,"event":"She reaches the wound and picks up Dorric's knife without breaking pace."}
+{"beat":46,"event":"One hand at the wound's upper margin, Finishing Blow completes its reading."}
+{"beat":47,"event":"She drives the knife in sixteen degrees off the first line, toward the tissue at the base."}
+{"beat":48,"event":"The grinding grows louder, and the seep becomes a flow."}
+{"beat":49,"event":"The creature lurches away three steps, its cracked flank failing: twelve meters in two seconds."}
+{"beat":50,"event":"The knife has pulled free and lies on the floor between them."}
+{"beat":51,"event":"It is alive: the path is open, but the damage is not yet sufficient."}
+{"beat":52,"event":"She walks back toward the wound site at her pace."}
+{"beat":53,"event":"It recovers faster than she can close: it has retreated from pain, not from her."}
+{"beat":54,"event":"Its weight recentres; it is not dying, it is deciding."}
+{"beat":55,"event":"She keeps walking: the pace is the work."}
+{"beat":56,"event":"It turns to face her, fluid running down its left flank, the crack wider where she struck."}
+{"beat":57,"event":"It stands between her and the wound, and its hesitation is ending."}
+{"beat":58,"event":"It strikes with full commitment across twelve meters."}
+{"beat":59,"event":"She was walking toward it at the only pace she has; she had not done it wrong."}
+{"beat":60,"event":"She dies standing.","changes":[{"page":"metric-character-stat/the-dungeon-of-one-thousand-deaths-orla-vess-vitality","key":"value","from":16,"to":0,"note":"Orla is killed by The Patient, Vitality 16 to 0"}]}
+{"beat":61,"event":"The death report: Orla Vess, the Finish, Depth 3; the Gift complete, the work not."}
+{"beat":62,"event":"The pace was correct, and the pace was insufficient: both true."}
+{"beat":63,"event":"Kill nine: the first time The Patient has killed someone who hurt it."}
+{"beat":64,"event":"The wound is worse: fluid loss about forty percent higher; the knife back on the floor."}
+{"beat":65,"event":"Five in sequence now: mapped, cracked, widened, penetrated, deepened."}
+{"beat":66,"event":"The fifth instrument was a knife someone else left: she used what was already there."}
+{"beat":67,"event":"Her Memory Crystal is red, the second red: The Patient has its own crystal family."}
+{"beat":68,"event":"Compelled; voluntary entrants stand at six of twenty-three."}
+{"beat":69,"event":"A new category: Consequent. She came for the wound Dorric left."}
+{"beat":70,"event":"Each death changes what the next has reason to do: the chain designed itself."}
+{"beat":71,"event":"A successful action without a successful outcome: the Ledger names it Complete, not Finished."}
+{"beat":72,"event":"The format is now: whatever matters most, first. Here, the damage."}
+{"beat":73,"event":"Through the Reflection the Maw finds a feeling it cannot name."}
+{"beat":74,"event":"Five entrants, five tools, each building on the last, none intending to."}
+{"beat":75,"event":"The Maw built the system; the entrants built the sequence."}
+{"beat":76,"event":"The Patient lives, its core intact; nine kills, one wound, deepened five times."}
+{"beat":77,"event":"The Maw does not know whether a wound like this can kill a creature that old."}
+{"beat":78,"event":"Spear, plumb line, chisel, knife: the Garden is accumulating."}
+{"beat":79,"event":"Osren records the glow: red, six seconds, the second red. Purpose: to finish the job.","place":"place/the-dungeon-of-one-thousand-deaths-the-camp","present":["character-other/the-dungeon-of-one-thousand-deaths-osren"]}
+{"beat":80,"event":"One crystal into the second effects box; it is a third full."}
+{"beat":81,"event":"Twenty-three names on the wall; the newest still settling: ORLA VESS — FIVE COMPLETE."}
+{"beat":82,"event":"He closes the book as morning begins: 977 remain."}
