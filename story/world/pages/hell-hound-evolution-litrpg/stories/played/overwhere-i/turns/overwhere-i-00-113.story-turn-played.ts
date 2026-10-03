@@ -35,6 +35,6 @@ export const overwhereI00113 = {
     "place/overwhere-i-hobbs-mill-weir",
   ],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/memory"],
+  recordedBy: ["story-recorder/inventory", "story-recorder/memory", "story-recorder/mechanics"],
   endsAt: "2026-10-06T12:12:00.000Z",
 } as const satisfies StoryTurnPlayed
