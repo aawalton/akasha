@@ -1,13 +1,13 @@
-{"beat":1,"event":"Nala walks three minutes down the towpath to Hobb's landing."}
-{"beat":2,"event":"The bargeman meets her at the plank: lean, sun-browned, two fingers gone from his left hand."}
-{"beat":3,"event":"\"Jory Pell, master of the Wend Maid. You'll be the Board's hunter, at last, with that sword.\""}
-{"beat":4,"event":"On the other barge, the Pike, a crew of three watch from the deck in silence."}
-{"beat":5,"event":"\"It rose under my bow at dusk two days back and took my bowman Dickon clean off the deck.\""}
-{"beat":6,"event":"\"His bolts skipped off its back like hail off slate.\""}
+{"beat":1,"event":"Nala walks three minutes down the towpath to Hobb's landing.","at":"2026-10-06T09:09:00.000Z","place":"place/overwhere-i-hobbs-mill-weir","present":["character-player/overwhere-i-nala"],"memory":[{"page":"place/overwhere-i-hobbs-mill-weir","fact":"From the towpath bend down to Hobb's landing is a three-minute walk.","learns":"character-player/overwhere-i-nala"}]}
+{"beat":2,"event":"The bargeman meets her at the plank: lean, sun-browned, two fingers gone from his left hand.","memory":[{"page":"place/overwhere-i-hobbs-mill-weir","fact":"The bargeman is Jory Pell, master of the barge Wend Maid: lean, sun-browned, missing two fingers.","learns":"character-player/overwhere-i-nala"}]}
+{"beat":3,"event":"\"Jory Pell, master of the Wend Maid. You'll be the Board's hunter, at last, with that sword.\"","memory":[{"page":"place/overwhere-i-hobbs-mill-weir","fact":"Jory waved because a woman with a sword studying the weir looks like the Board's hunter at last.","learns":"character-player/overwhere-i-nala"}]}
+{"beat":4,"event":"On the other barge, the Pike, a crew of three watch from the deck in silence.","memory":[{"page":"place/overwhere-i-hobbs-mill-weir","fact":"The Pike's crew of three watch Nala and Jory from their deck in silence.","learns":"character-player/overwhere-i-nala"}]}
+{"beat":5,"event":"\"It rose under my bow at dusk two days back and took my bowman Dickon clean off the deck.\"","memory":[{"page":"place/overwhere-i-hobbs-mill-weir","fact":"Jory says the wyrm rose under his bow at dusk two days ago and took his bowman Dickon off the deck.","learns":"character-player/overwhere-i-nala"}]}
+{"beat":6,"event":"\"His bolts skipped off its back like hail off slate.\"","memory":[{"page":"place/overwhere-i-hobbs-mill-weir","fact":"Jory says Dickon's crossbow bolts skipped off the wyrm's back like hail off slate.","learns":"character-player/overwhere-i-nala"}]}
 {"beat":7,"event":"He jerks his chin at the stove-in hulk across the pool. \"The Heron. Stove in at dawn a week ago.\""}
-{"beat":8,"event":"\"Her crew swam clear. Lucky.\""}
-{"beat":9,"event":"\"Near noon on sunny days it hauls out on the weir stone to lie in the sun. I've watched it.\""}
-{"beat":10,"event":"\"Keep off the pool's edge, mind. It took the miller's dog off the bank a week back.\""}
-{"beat":11,"event":"\"Where it lives, I'd guess the pool. Past that, it's anyone's guess.\""}
-{"beat":12,"event":"\"Both crews will add a gold between us if it dies. We need to get downriver.\""}
-{"beat":13,"event":"Jory squints up at the sun climbing over the weir. \"Today's sunny enough, I'd say.\""}
+{"beat":8,"event":"\"Her crew swam clear. Lucky.\"","memory":[{"page":"place/overwhere-i-hobbs-mill-weir","fact":"Jory says the holed barge is the Heron, stove in at dawn a week ago; her crew swam clear.","learns":"character-player/overwhere-i-nala"}]}
+{"beat":9,"event":"\"Near noon on sunny days it hauls out on the weir stone to lie in the sun. I've watched it.\"","memory":[{"page":"place/overwhere-i-hobbs-mill-weir","fact":"Jory has seen the wyrm haul out on the weir stone near noon on sunny days, to lie in the sun.","learns":"character-player/overwhere-i-nala"},{"page":"place/overwhere-i-hobbs-mill-weir","fact":"On a sunny day the wyrm basks on the weir apron from about 11:00 to 14:00, half out of the water.","shown":true}]}
+{"beat":10,"event":"\"Keep off the pool's edge, mind. It took the miller's dog off the bank a week back.\"","memory":[{"page":"place/overwhere-i-hobbs-mill-weir","fact":"Jory warns her off the pool's edge: the wyrm took a miller's dog from the bank a week back.","learns":"character-player/overwhere-i-nala"}]}
+{"beat":11,"event":"\"Where it lives, I'd guess the pool. Past that, it's anyone's guess.\"","memory":[{"page":"place/overwhere-i-hobbs-mill-weir","fact":"Jory knows nothing of what the wyrm senses, nor of its lair; he guesses it lives in the pool.","learns":"character-player/overwhere-i-nala"}]}
+{"beat":12,"event":"\"Both crews will add a gold between us if it dies. We need to get downriver.\"","changes":[{"page":"metric-character-mana/overwhere-i-nala","key":"value","from":348,"to":360,"note":"Her mana returns while she talks with Jory"}],"memory":[{"page":"place/overwhere-i-hobbs-mill-weir","fact":"Jory says the two barge crews will add a gold between them if the wyrm dies, to get downriver.","learns":"character-player/overwhere-i-nala"}]}
+{"beat":13,"event":"Jory squints up at the sun climbing over the weir. \"Today's sunny enough, I'd say.\"","at":"2026-10-06T09:16:00.000Z"}
