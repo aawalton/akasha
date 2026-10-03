@@ -10,7 +10,7 @@ export const overwhereIv00082 = {
   position: 82,
   prose: "txt",
   characters: ["character-player/overwhere-iv-nala"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/game-master",
   action:
     "“I can take at least two with my skill before they reach us. Who should I target? The hobs?”",
   beats: [
@@ -32,6 +32,6 @@ export const overwhereIv00082 = {
     "lore/overwhere-iv-the-tangle-2",
     "place/overwhere-iv-tull-farm",
   ],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
   endsAt: "2026-10-06T23:57:00.000Z",
 } as const satisfies StoryTurnPlayed
