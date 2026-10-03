@@ -38,5 +38,6 @@ export const overwhereIii00081 = {
     "place/overwhere-iii-wrenwood",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
+  recordedBy: ["story-recorder/inventory"],
   endsAt: "2026-10-08T13:00:00.000Z",
 } as const satisfies StoryTurnPlayed
