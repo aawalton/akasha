@@ -4,10 +4,17 @@ export const overwhereI00100 = {
   id: "01a0ff2a-d3fe-782d-b2c1-4ef28428194e",
   type: "page-type/story-turn-played",
   slug: "overwhere-i-00-100",
+  ownLength: 318,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-i"],
   position: 100,
-  stepStatus: "step-status/writer",
+  prose: "txt",
+  characters: [
+    "character-player/overwhere-i-nala",
+    "character-other/overwhere-i-harl-voss",
+    "character-other/overwhere-i-ghost-eye",
+  ],
+  stepStatus: "step-status/reviewers",
   action: "“I’m Nala, Nala Arthur”",
   beats: [
     '"I\'m Nala. Nala Arthur," she says.',
@@ -22,6 +29,11 @@ export const overwhereI00100 = {
     '"First call on Board contracts. You\'d answer to the Board for your kills,"',
     '"and bring word of any monster you see. Want your name on it, Nala Arthur?"',
   ],
-  lore: ["lore/overwhere-i-the-system-2", "place/overwhere-i-wendlow"],
+  lore: [
+    "lore/overwhere-i-nala",
+    "lore/overwhere-i-nala-2",
+    "lore/overwhere-i-the-system-2",
+    "place/overwhere-i-wendlow",
+  ],
   endsAt: "2026-10-05T12:30:00.000Z",
 } as const satisfies StoryTurnPlayed
