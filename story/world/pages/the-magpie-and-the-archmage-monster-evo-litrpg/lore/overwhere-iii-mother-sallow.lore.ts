@@ -132,6 +132,10 @@ export const overwhereIiiMotherSallow = {
       fact: "Her corrupted wolves have 48 and 54 health, their hide warding two.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Brought to a third of her health, she breaks and flees for the Hollow, her wolves covering her.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
