@@ -3,7 +3,7 @@ import {
   cacheNamed,
   changesChecked,
   changesHeld,
-} from "akasha/command/pages/story/turn/advance/modules/turn-changes/turn-changes.module.code.ts"
+} from "akasha/command/pages/story/modules/turn-changes/turn-changes.module.code.ts"
 import type { Reading } from "akasha/story/engine/beat-state/modules/beat-changes/beat-changes.module.code.ts"
 import type { Held } from "akasha/story/world/stories/played/turns/modules/turn-lifecycle/turn-lifecycle.module.code.ts"
 

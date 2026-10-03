@@ -1,8 +1,7 @@
 import type { Asking } from "akasha/change/runner/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
 import { stringsIn } from "akasha/code/type/narrowing/modules/strings-in/strings-in.module.code.ts"
-
+import type { Turn } from "akasha/command/pages/story/modules/turn-scenes/turn-scenes.module.code.ts"
 import { askedFor, type Reading } from "akasha/command/pages/story/tell/story-tell.command.code.ts"
-import type { Turn } from "akasha/command/pages/story/turn/modules/turn-reaching/turn-reaching.module.code.ts"
 import { addressIn } from "akasha/page/modules/address/page-address.module.code.ts"
 import { exportedAs } from "akasha/page/modules/export-name/page-export-name.module.code.ts"
 import { besideAt } from "akasha/page/modules/file-name/page-file-name.module.code.ts"

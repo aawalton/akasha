@@ -15,9 +15,6 @@ export const storyTurnAdvance = {
     "module/turn-timing",
     "module/turn-crossed",
     "module/chapter-length",
-    "module/turn-scenes",
-    "module/turn-changes",
-    "module/turn-memory",
   ],
   decisions: [
     {

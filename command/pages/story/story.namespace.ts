@@ -11,9 +11,13 @@ export const story = {
     "command/story-chapter-close",
     "command/story-chapter-write",
     "command/story-settle",
+    "command/story-state",
     "namespace/story-turn",
     "command/story-tell",
     "module/settle-asking",
+    "module/turn-scenes",
+    "module/turn-changes",
+    "module/turn-memory",
   ],
   name: "story",
 } as const satisfies Namespace

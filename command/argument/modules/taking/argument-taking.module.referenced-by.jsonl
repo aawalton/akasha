@@ -216,6 +216,7 @@
 {"propertySlug":"import","fileName":"argument-taking.module.code.ts","path":"command/pages/story/character-file/story-character-file.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"argument-taking.module.code.ts","path":"command/pages/story/join-unread/story-join-unread.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"argument-taking.module.code.ts","path":"command/pages/story/settle/modules/settle-taking/settle-taking.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"argument-taking.module.code.ts","path":"command/pages/story/state/story-state.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"argument-taking.module.code.ts","path":"command/pages/story/tell/story-tell.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"argument-taking.module.code.ts","path":"command/pages/story/turn/advance/modules/turn-handing/turn-handing.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"argument-taking.module.code.ts","path":"command/pages/story/turn/cancel/story-turn-cancel.command.code.ts","typed":false,"deferred":false}

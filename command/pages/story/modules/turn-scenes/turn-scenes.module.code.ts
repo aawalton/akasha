@@ -1,6 +1,6 @@
 import type { Asking } from "akasha/change/runner/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
 import { stringsIn } from "akasha/code/type/narrowing/modules/strings-in/strings-in.module.code.ts"
-import type { Turn } from "akasha/command/pages/story/turn/modules/turn-reaching/turn-reaching.module.code.ts"
+
 import {
   listedAt,
   valuesOfType,
@@ -54,7 +54,17 @@ const SLUG = "slug"
 
 const PARTED = "/"
 
-export type Paged = { readonly slug: string; readonly value: Readonly<Record<string, unknown>> }
+export type Turn = {
+  readonly at: string
+  readonly slug: string
+  readonly value: Readonly<Record<string, unknown>>
+}
+
+export type Paged = {
+  readonly slug: string
+  readonly at?: string
+  readonly value: Readonly<Record<string, unknown>>
+}
 
 export type Scened = {
   readonly values: Readonly<Record<string, unknown>>
@@ -81,7 +91,7 @@ function positionOf(value: Readonly<Record<string, unknown>>): number {
   return typeof at === "number" ? at : 0
 }
 
-function playedOf(one: Paged): Played {
+export function playedOf(one: Paged): Played {
   const ends = one.value[ENDS_AT]
   return {
     turn: one.slug,
@@ -102,10 +112,9 @@ export function scenesSettled(
   const unnamed = unnamedIn(scenes, knowing.character, knowing.place)
   if (unnamed !== null) return { refused: unnamed }
   const at = positionOf(turn.value)
-  const before = story
-    .filter((one) => one.slug !== turn.slug && positionOf(one.value) < at)
-    .toSorted((one, other) => positionOf(one.value) - positionOf(other.value))
-    .map(playedOf)
+  const before = inOrder(
+    story.filter((one) => one.slug !== turn.slug && positionOf(one.value) < at)
+  ).map(playedOf)
   const opening = replayed(OPENING, before)
   if ("refused" in opening) {
     return { refused: `the story's beats before this one do not replay: ${opening.refused}` }
@@ -150,16 +159,20 @@ export function cachedOf(fold: Folding, root: string, scened: Scened): readonly 
   return asking
 }
 
-function storyIndexed(root: string, held: Held): readonly Paged[] {
-  const chapter = held.noun === CHAPTER
+export function storyIndexed(root: string, game: string, chapter: boolean): readonly Paged[] {
   const type = chapter ? storyChapterWritten.slug : storyTurnPlayed.slug
-  const owner = `${chapter ? storyWritten.slug : storyPlayed.slug}${PARTED}${held.game}`
+  const owner = `${chapter ? storyWritten.slug : storyPlayed.slug}${PARTED}${game}`
   return valuesOfType(root, type).flatMap((one): readonly Paged[] => {
     const of = one.value[STORY]
     const named = [...stringsIn(one.value[COLLECTIONS]), ...(typeof of === "string" ? [of] : [])]
     const slug = textAt(one.value, SLUG)
-    return named.includes(owner) && slug !== null ? [{ slug, value: one.value }] : []
+    if (!named.includes(owner) || slug === null) return []
+    return [{ slug, at: one.path, value: one.value }]
   })
+}
+
+export function inOrder(story: readonly Paged[]): readonly Paged[] {
+  return story.toSorted((one, other) => positionOf(one.value) - positionOf(other.value))
 }
 
 export function scenesIndexed(
@@ -178,5 +191,6 @@ export function scenesIndexed(
       listedAt(root, typeOf(address), slugOf(address)).length > 0,
   }
   const chapter = held.noun === CHAPTER
-  return scenesSettled(storyIndexed(root, held), turn, beats, scenes, knowing, chapter)
+  const story = storyIndexed(root, held.game, chapter)
+  return scenesSettled(story, turn, beats, scenes, knowing, chapter)
 }

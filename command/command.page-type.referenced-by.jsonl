@@ -207,6 +207,7 @@
 {"propertySlug":"import","fileName":"command.page-type.types.ts","path":"command/pages/story/character-file/story-character-file.command.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"command.page-type.types.ts","path":"command/pages/story/join-unread/story-join-unread.command.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"command.page-type.types.ts","path":"command/pages/story/settle/story-settle.command.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"command.page-type.types.ts","path":"command/pages/story/state/story-state.command.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"command.page-type.types.ts","path":"command/pages/story/tell/story-tell.command.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"command.page-type.types.ts","path":"command/pages/story/turn/advance/story-turn-advance.command.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"command.page-type.types.ts","path":"command/pages/story/turn/cancel/story-turn-cancel.command.ts","typed":true,"deferred":false}

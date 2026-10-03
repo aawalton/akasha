@@ -6,7 +6,7 @@ import {
   type Scened,
   scenedOf,
   scenesSettled,
-} from "akasha/command/pages/story/turn/advance/modules/turn-scenes/turn-scenes.module.code.ts"
+} from "akasha/command/pages/story/modules/turn-scenes/turn-scenes.module.code.ts"
 import {
   type BeatScene,
   plannedIn,

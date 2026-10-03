@@ -19,8 +19,6 @@ import {
 } from "akasha/command/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
 import { repointed } from "akasha/command/modules/edits-repointing/edits-repointing.module.code.ts"
-import { rootReading } from "akasha/command/pages/story/tell/story-tell.command.code.ts"
-import { lengthRefused } from "akasha/command/pages/story/turn/advance/modules/chapter-length/chapter-length.module.code.ts"
 import {
   bodiesOf,
   type Changing,
@@ -28,7 +26,19 @@ import {
   changesChecked,
   changesHeld,
   changesIndexed,
-} from "akasha/command/pages/story/turn/advance/modules/turn-changes/turn-changes.module.code.ts"
+} from "akasha/command/pages/story/modules/turn-changes/turn-changes.module.code.ts"
+import {
+  memoryHeld,
+  memorySettled,
+} from "akasha/command/pages/story/modules/turn-memory/turn-memory.module.code.ts"
+import {
+  cachedOf,
+  type Scening,
+  scenedOf,
+  scenesIndexed,
+} from "akasha/command/pages/story/modules/turn-scenes/turn-scenes.module.code.ts"
+import { rootReading } from "akasha/command/pages/story/tell/story-tell.command.code.ts"
+import { lengthRefused } from "akasha/command/pages/story/turn/advance/modules/chapter-length/chapter-length.module.code.ts"
 import {
   type Crossing,
   crossedIndexed,
@@ -42,16 +52,6 @@ import {
   taken,
   titledOf,
 } from "akasha/command/pages/story/turn/advance/modules/turn-handing/turn-handing.module.code.ts"
-import {
-  memoryHeld,
-  memorySettled,
-} from "akasha/command/pages/story/turn/advance/modules/turn-memory/turn-memory.module.code.ts"
-import {
-  cachedOf,
-  type Scening,
-  scenedOf,
-  scenesIndexed,
-} from "akasha/command/pages/story/turn/advance/modules/turn-scenes/turn-scenes.module.code.ts"
 import {
   timeCheckIndexed,
   untimedRefused,

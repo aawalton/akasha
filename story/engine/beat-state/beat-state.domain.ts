@@ -50,7 +50,20 @@ export const beatState = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A story's state before its first turn is a beat of its own, its opening.",
+      statement: "A story's opening is its pages as they stood before its first beat-sourced turn.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "Each number a beat changes names the value it started from, so it needs no opening.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A plain beat is a beat that changes nothing, and stays a beat.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The story state command replays the beats and names where the pages drifted.",
     },
     {
       decisionKind: "decision-kind/departure",

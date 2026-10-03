@@ -111,10 +111,10 @@
 {"propertySlug":"import","fileName":"page-address.module.code.ts","path":"command/pages/request/deny/request-deny.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-address.module.code.ts","path":"command/pages/seat/supervisor/restart/seat-supervisor-restart.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-address.module.code.ts","path":"command/pages/story/modules/settle-asking/settle-asking.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"page-address.module.code.ts","path":"command/pages/story/modules/turn-memory/turn-memory.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-address.module.code.ts","path":"command/pages/story/settle/modules/settle-character/settle-character.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-address.module.code.ts","path":"command/pages/story/tell/modules/tell-continuing/tell-continuing.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-address.module.code.ts","path":"command/pages/story/tell/story-tell.command.code.ts","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"page-address.module.code.ts","path":"command/pages/story/turn/advance/modules/turn-memory/turn-memory.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-address.module.code.ts","path":"command/pages/story/turn/modules/turn-lore-gathered/turn-lore-gathered.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-address.module.code.ts","path":"command/pages/story/turn/modules/turn-lore-in-play/turn-lore-in-play.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-address.module.code.ts","path":"command/pages/story/turn/modules/turn-reaching/turn-reaching.module.code.ts","typed":false,"deferred":false}
