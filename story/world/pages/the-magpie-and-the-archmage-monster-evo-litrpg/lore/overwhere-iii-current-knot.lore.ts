@@ -26,7 +26,7 @@ export const overwhereIiiCurrentKnot = {
     },
     {
       fact: "A knot tied on a mage's shield tears the shield's weave apart as it bursts.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
     {
       fact: "The burst blows any mist or working hung on the currents away with it.",
