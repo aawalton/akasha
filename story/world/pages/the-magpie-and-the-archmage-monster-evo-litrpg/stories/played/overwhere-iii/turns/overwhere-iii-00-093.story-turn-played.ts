@@ -10,4 +10,5 @@ export const overwhereIii00093 = {
   stepStatus: "step-status/game-master",
   action:
     "“Jackalopes.” I go out to the shrine and use ambient weaves to cleanse the five blightstones.",
+  endsAt: "2026-10-09T14:45:00.000Z",
 } as const satisfies StoryTurnPlayed
