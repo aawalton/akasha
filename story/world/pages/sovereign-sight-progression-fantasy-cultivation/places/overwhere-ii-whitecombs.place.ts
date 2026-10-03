@@ -248,6 +248,30 @@ export const overwhereIiWhitecombs = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
+      fact: "The black is raw Sea-Water risen through the pool, held in plain water like silt; it is what Warps.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "With fine work Undertow can part the black from the water: a cupful takes Nala long minutes.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Parted, the water left behind runs clear and faintly salt, and harms nothing that drinks it.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Parted, the black draws together into a bead of dense, ice-cold Water that crawls toward the pool.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "A bead of black Water seeps through cloth and leather; only cold iron would hold it still.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "To Nala's well, the black Water feels like the water of her stair dream.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
       fact: "Loose scree lies heaped beside the crack in the Callow cwm's lower lip.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
