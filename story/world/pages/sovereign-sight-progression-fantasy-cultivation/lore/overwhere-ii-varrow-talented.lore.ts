@@ -89,7 +89,7 @@ export const overwhereIiVarrowTalented = {
     },
     {
       fact: "Before each Quickstep, Hawise drops her weight onto the balls of her feet, a tell few catch.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "At twice her speed, bad footing throws Hawise worse than it would a common fighter.",
