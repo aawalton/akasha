@@ -267,5 +267,17 @@ export const overwhereIiGreymaws = {
       fact: "The black bead fills only a sliver of a greymaw chamber, which could hold far more.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
+    {
+      fact: "Dray's men carted the last five greymaws down; their chambers sit in a crate in Dray's storeroom.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Dray keeps the five chambers for Nala, and hands them to a Keep rider who asks in her name.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "A cracked greymaw chamber leaks raw Sea-Water as it leaks any Water, through the crack.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
