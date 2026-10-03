@@ -225,5 +225,9 @@ export const overwhereIiiCorruption2 = {
       fact: "By day the blighted boar lies up in a bramble wallow a furlong above the Wren Brook ford.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "The boar killed whole leaves a blightstone that cracks into one glimmerstone.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
