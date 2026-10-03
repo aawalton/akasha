@@ -72,5 +72,9 @@ export const overwhereIWendlow22 = {
       fact: "Nell Cooley at the Bell and Barrel mends torn clothes with needle and thread, 2 copper a tear.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Nala's afternoon of day 8 in Wendlow passes without incident.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
