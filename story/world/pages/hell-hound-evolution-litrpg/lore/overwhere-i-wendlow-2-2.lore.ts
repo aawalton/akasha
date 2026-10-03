@@ -82,7 +82,7 @@ export const overwhereIWendlow22 = {
     },
     {
       fact: "The tax rider rides in about 10:00 on day 9 with four guards and the magistrate's purse.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
     {
       fact: "Odile Varne wants to learn whether Nala read Voss's letter, and who else she has told of it.",
