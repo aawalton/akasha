@@ -276,5 +276,9 @@ export const overwhereIStarfallLegacy2 = {
       fact: "A stunned beast can neither strike nor flee; its stun ends at once if lightning hurts it again.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "A lightning strike cracks like thunder; anyone within a mile hears it.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
