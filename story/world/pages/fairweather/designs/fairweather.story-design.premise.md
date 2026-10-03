@@ -36,7 +36,7 @@ Its skills have names that read either way, cold or warm:
 
 Elsie starts at level 1 with Captivate and Tether; the rest come as she levels. In her hands the skills work in ways no one has seen. Captivate never compels: it makes someone feel seen. A Tether or a Claim is a pact the bound one can break at will, that pours strength into the bound rather than out of her, and no one has ever broken one. She can feel when someone bound to her is hurting. She is not deluded about the class: she finds the names awful, and uses the skills the way they seem to want to be used. The world argues over whether she found a hidden path, or whether every Enthraller before her used it wrong.
 
-Each girl privately wonders whether what she feels for Elsie is real or the class, and slowly learns that Elsie has never once used it to make anyone feel anything. The class may grow strong, because it feeds on devotion, and the girls around her are falling for her.
+Each girl wonders, and sooner or later asks Elsie, whether what she feels for her is real or the class, and slowly learns that Elsie has never once used it to make anyone feel anything. The class may grow strong, because it feeds on devotion, and the girls around her are falling for her.
 
 ## The first day
 
