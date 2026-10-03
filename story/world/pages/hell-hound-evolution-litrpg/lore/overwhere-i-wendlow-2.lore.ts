@@ -36,5 +36,9 @@ export const overwhereIWendlow2 = {
       fact: "Taking a contract, Grete chalks the hunter's name under it; the Weir Wyrm's has no deadline.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "The Weir Wyrm's bounty pays on its head, or on its fangs if the head is too big to carry.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
