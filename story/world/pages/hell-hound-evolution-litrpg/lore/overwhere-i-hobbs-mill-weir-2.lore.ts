@@ -44,5 +44,9 @@ export const overwhereIHobbsMillWeir2 = {
       fact: "Tam Hobb shrugs off the refused barrow and offers Nala a loaf and a cup of ale for the road.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Jory eyes Dickon's belt in her hand and asks for it, to take to Dickon's mother at Brennock Ford.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
