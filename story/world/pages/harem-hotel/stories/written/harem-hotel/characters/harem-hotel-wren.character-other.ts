@@ -7,4 +7,5 @@ export const haremHotelWren = {
   title: "Wren",
   story: "story-written/harem-hotel",
   cover: "image/image-8d48fd8483055a61",
+  place: "place/harem-hotel-floor-4",
 } as const satisfies CharacterOther

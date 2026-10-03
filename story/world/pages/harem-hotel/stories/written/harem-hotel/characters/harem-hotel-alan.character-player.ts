@@ -7,4 +7,5 @@ export const haremHotelAlan = {
   title: "Alan",
   story: "story-written/harem-hotel",
   person: "person/alan",
+  place: "place/harem-hotel-floor-4",
 } as const satisfies CharacterPlayer
