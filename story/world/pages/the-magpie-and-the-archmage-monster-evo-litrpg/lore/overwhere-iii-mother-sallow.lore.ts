@@ -56,6 +56,10 @@ export const overwhereIiiMotherSallow = {
       fact: "To a stranger at her clearing she plays the kind old charcoal-burner and offers nettle tea.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "She trusts her charm fully and does not know any sight can see through it.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
