@@ -22,7 +22,7 @@ export const overwhereIvTheTangle22 = {
     },
     {
       fact: "Grakk's trail watchers are LV 4 and LV 5 goblins in a brush hide on a rise beside the trail.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
     },
     {
       fact: "The LV 5 watcher holds a horn to warn the camp; the LV 4 would run to it.",
@@ -62,7 +62,7 @@ export const overwhereIvTheTangle22 = {
     },
     {
       fact: "Alarmed, the LV 5 lifts his horn first, needing a breath to blow; a rend at once beats it.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
     },
     {
       fact: "The watcher's horn, blown, is heard at the camp; a dozen goblins come down within half an hour.",
@@ -110,6 +110,10 @@ export const overwhereIvTheTangle22 = {
     },
     {
       fact: "In the hide lie a water gourd, a gnawed hare bone, and the watcher's horn of yellowed bone.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+    },
+    {
+      fact: "Nala's rends beheaded both trail watchers: the LV 5 before he could blow, the LV 4 as he ran.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
     },
   ],
