@@ -112,5 +112,9 @@ export const overwhereIWendlow2 = {
       fact: "Grete gives no reward for the letter; she says it may be worth more to Nala unpaid.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Ilse Varrow is a small, sharp woman of fifty with ink-stained fingers and spectacles on a cord.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
