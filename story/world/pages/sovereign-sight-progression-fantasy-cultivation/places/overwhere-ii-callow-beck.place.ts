@@ -90,7 +90,7 @@ export const overwhereIiCallowBeck = {
     },
     {
       fact: "The black slick still seeps and spreads a few paces a day toward the longhouse.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Six ewes that drank from the slick are Warped: grey-scaled, coral-horned, savage, and loose.",
