@@ -8,5 +8,5 @@ export const overwhereIiNalaSeaWaterChamber = {
   story: "story-played/overwhere-ii",
   character: "character-player/overwhere-ii-nala",
   description:
-    "A fist-sized knot of polished grey bone, ice-cold, holding a bead of black Sea-Water. It tugs faintly toward the pool it came from.",
+    "A fist-sized knot of polished grey bone, ice-cold, a fair part filled with black Sea-Water. It tugs faintly toward the pool it came from.",
 } as const satisfies StoryItem
