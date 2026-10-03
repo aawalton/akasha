@@ -10,4 +10,5 @@ export const cornerstone001BlindGround = {
   ownLength: 4805,
   unit: "unit/words",
   prose: "txt",
+  beats: "jsonl",
 } as const satisfies StoryChapterWritten
