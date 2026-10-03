@@ -213,5 +213,9 @@ export const overwhereIiiCorruption2 = {
       fact: "The blighted boar is Level 14 with 45 health; its bristled hide wards 2.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "The boar's charge is a heavy blow and its tusk-slash a solid one; a tusk wound lays blight.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
