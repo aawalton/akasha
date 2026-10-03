@@ -32,5 +32,9 @@ export const overwhereIHobbsMillWeir2 = {
       fact: "Two fangs, each a hand long and about a pound, come from the wyrm's jaw with a water blade; easy.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Steam washes the wyrm bile off Nala's arms, and the nettle sting fades within the hour.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
