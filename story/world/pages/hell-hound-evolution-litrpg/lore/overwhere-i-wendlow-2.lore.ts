@@ -336,5 +336,9 @@ export const overwhereIWendlow2 = {
       fact: "The Board's strongbox is empty since Nala's payout; for the wyrm Grete writes a 15-gold chit.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Grete hangs the wyrm's fangs on a nail beside Voss's head and wipes the wyrm off the Board.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
