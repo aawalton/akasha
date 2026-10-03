@@ -1,5 +1,6 @@
 {"propertySlug":"import","fileName":"style-rule.page-type.types.ts","path":"story/style/style-rule/pages/leave-it-open.style-rule.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"style-rule.page-type.types.ts","path":"story/style/style-rule/pages/no-prompt.style-rule.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"style-rule.page-type.types.ts","path":"story/style/style-rule/pages/no-sign-off.style-rule.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"style-rule.page-type.types.ts","path":"story/style/style-rule/pages/nobody-acts.style-rule.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"style-rule.page-type.types.ts","path":"story/style/style-rule/pages/plain-negation.style-rule.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"story/style/story-style.domain.ts","id":"01a0de9c-aef2-79e3-b38c-0f71af71d905"}
