@@ -4,6 +4,7 @@ export const overwhereIv00084 = {
   id: "01a0ff67-6b11-7966-84f9-bcfaccd771c9",
   type: "page-type/story-turn-played",
   slug: "overwhere-iv-00-084",
+  cover: "image/image-ad01b5338a3e6847",
   ownLength: 161,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iv"],
@@ -35,6 +36,8 @@ export const overwhereIv00084 = {
     "place/overwhere-iv-tull-farm",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/memory"],
+  recordedBy: ["story-recorder/inventory", "story-recorder/memory", "story-recorder/picture"],
   endsAt: "2026-10-07T00:01:00.000Z",
+  coverAfter:
+    "The meadow is quiet. Far off across the ford, the last shrieks fade into the Tangle.",
 } as const satisfies StoryTurnPlayed
