@@ -1,0 +1,79 @@
+{"beat":1,"event":"Wren tells Theron before breakfast, throwing away the speech she rehearsed.","at":"2026-08-04T06:15:00.000Z","place":"place/the-places-she-carries-therons-camp","present":["character-player/the-places-she-carries-wren","character-other/the-places-she-carries-theron"]}
+{"beat":2,"event":"She sees his scarred hands on his cup and his glance south-east."}
+{"beat":3,"event":"She tells him: Rimfolk stonework with guild marks, a settlement, ruins."}
+{"beat":4,"event":"His hands go still: something very old touched for the first time."}
+{"beat":5,"event":"She admits she kept it overnight and says she is sorry."}
+{"beat":6,"event":"His grandmother said there were buildings in the basin; three generations never looked."}
+{"beat":7,"event":"'You kept it one night because you wanted it yours before it was mine.' 'Yes.'"}
+{"beat":8,"event":"His grandmother said the first hour of knowing is sweetest; the showing is better."}
+{"beat":9,"event":"He takes his gathering knife and coat. 'Show me.'"}
+{"beat":10,"event":"Hadley comes out already laced, notebook in hand, ready to sketch guild marks.","arrive":["character-other/the-places-she-carries-hadley"]}
+{"beat":11,"event":"Wren leads south-east by [Trail Memory]; the sweetness is deeper today.","at":"2026-08-04T07:00:00.000Z","place":"place/the-places-she-carries-transition-woodland"}
+{"beat":12,"event":"The network hums with the Shelf's warming stone and the Eye's still surface."}
+{"beat":13,"event":"Theron walks ahead in silence, toward what he spent a lifetime not walking toward."}
+{"beat":14,"event":"They cross the grove's corruption boundary; Theron knows it by feel."}
+{"beat":15,"event":"Wren's foot finds the first stone. 'Here.'","at":"2026-08-04T07:45:00.000Z","place":"place/the-places-she-carries-varethen"}
+{"beat":16,"event":"In daylight the ruins are larger: a ring of foundations around a central hall."}
+{"beat":17,"event":"Behind the ring, stone-walled garden terraces climb a rise."}
+{"beat":18,"event":"The bond-potentials are a chorus now; one deep, clean pull beats at the center."}
+{"beat":19,"event":"'The well,' Theron says: the well at the center, the houses in a ring."}
+{"beat":20,"event":"He crouches at a wall and traces a guild mark. 'This is a Wynn mark.'"}
+{"beat":21,"event":"Hadley's breath catches: his family's mark. The next is Blackroot."}
+{"beat":22,"event":"At the hall Theron reads Osk, Brenn, Ashvale, Holt, then rests his palm on the stone."}
+{"beat":23,"event":"Wren does not map; she watches him, and staying still is the hardest thing she has done."}
+{"beat":24,"event":"Hadley holds his notebook unwritten: 'My grandmother said we came from the south.'"}
+{"beat":25,"event":"Theron walks the settlement alone for twenty minutes while they wait at its edge."}
+{"beat":26,"event":"Wren feels fifteen or more potentials; the hall is loudest, the well cleanest."}
+{"beat":27,"event":"She realizes his south-east glance has always pointed here."}
+{"beat":28,"event":"He returns with a small carved stone from the hall's fire-blackened hearth.","at":"2026-08-04T08:15:00.000Z"}
+{"beat":29,"event":"'Survey it. My grandmother would have wanted it mapped.' 'We'll survey together.'"}
+{"beat":30,"event":"'The well first. The well is the heart.'"}
+{"beat":31,"event":"The limestone well is clear, its water three meters down, bright and still.","at":"2026-08-04T08:30:00.000Z"}
+{"beat":32,"event":"The water comes from below the corruption's reach; the well remembered what the forest forgot."}
+{"beat":33,"event":"Wren touches the warm rim, and does not bond it: understanding matters more than speed."}
+{"beat":34,"event":"A discovery logs the central well, bond potential high: +45 XP.","changes":[{"page":"metric-character-experience/the-places-she-carries-wren","key":"value","from":730,"to":775,"note":"Discovery: Varethen central well, high bond potential"}]}
+{"beat":35,"event":"For three hours they survey: Theron leads from memory, Hadley sketches, six marks confirmed."}
+{"beat":36,"event":"They find the doorway his grandmother described, worn smooth on one side."}
+{"beat":37,"event":"The terrace soil is fine and dark with centuries of cultivation.","at":"2026-08-04T09:30:00.000Z"}
+{"beat":38,"event":"Theron names the Roothold: the great settlement in the deep basin that the corruption took."}
+{"beat":39,"event":"This settlement is a daughter community, built the Roothold's way."}
+{"beat":40,"event":"A discovery logs the garden terraces in the Roothold tradition: +35 XP.","changes":[{"page":"metric-character-experience/the-places-she-carries-wren","key":"value","from":775,"to":810,"note":"Discovery: Varethen garden terraces, Roothold tradition"}]}
+{"beat":41,"event":"At the hall's entrance the threshold stone under her boot radiates warmth.","at":"2026-08-04T10:45:00.000Z"}
+{"beat":42,"event":"She has stood on it forty minutes, and it has been receiving her attention."}
+{"beat":43,"event":"[Lay the Path] opens; this time she did not reach, the bond came to her."}
+{"beat":44,"event":"The stone's welcome is worn into it by every foot that entered the hall."}
+{"beat":45,"event":"The bond seats below the others, a foundation, like roots of her own."}
+{"beat":46,"event":"BOND FORMED: Varethen Threshold Stone, [Dormant], Cluster Anchor; Slot 2 unlocks; +50 XP.","changes":[{"page":"metric-character-experience/the-places-she-carries-wren","key":"value","from":810,"to":860,"note":"Sympathetic Bond formed: Varethen threshold stone, cluster anchor"}]}
+{"beat":47,"event":"Shelf is shelter, Eye is clarity, the threshold stone is patience."}
+{"beat":48,"event":"At the north-east edge she finds ghost elms planted in a deliberate arc.","at":"2026-08-04T11:15:00.000Z"}
+{"beat":49,"event":"'Theron, these trees were planted.' 'Yes.' The resonance was used as a ward."}
+{"beat":50,"event":"Seventy meters along, one ghost elm is dead: a gap in the ward."}
+{"beat":51,"event":"Corruption seeps through the gap; the buildings inside it feel damaged."}
+{"beat":52,"event":"The Shelf flinches in her chest and the Eye dims: her places are afraid."}
+{"beat":53,"event":"She steps back inside the ward until the bonds ease and her hands stop shaking."}
+{"beat":54,"event":"At the well, between two pen strokes, she reaches Level 4.","at":"2026-08-04T11:45:00.000Z","changes":[{"page":"metric-character-level/the-places-she-carries-wren","key":"value","from":3,"to":4,"note":"Level 4 reached during the Varethen survey"},{"page":"metric-character-stat/the-places-she-carries-wren-per","key":"value","from":11,"to":12,"note":"Level 4 class grant: +1 PER"},{"page":"metric-character-stat/the-places-she-carries-wren-att","key":"value","from":12,"to":13,"note":"Level 4 class grant: +1 ATT"}]}
+{"beat":55,"event":"Compass Sensitivity tier 2: the needle reads bond strength, and drags at corruption."}
+{"beat":56,"event":"She sweeps the compass: the settlement is clean; the drag sits at the gap's bearing."}
+{"beat":57,"event":"She is learning to read the land's health through her father's tool."}
+{"beat":58,"event":"They eat at the well: Theron's cold flatcakes, Hadley's berries and root cake.","at":"2026-08-04T12:15:00.000Z"}
+{"beat":59,"event":"Theron names the scattered families: Wynn in Millhaven, Osk at the escarpment, his aunt Maret."}
+{"beat":60,"event":"Hadley's Millhaven run is in four days; Wren asks him to carry word to Maret."}
+{"beat":61,"event":"'This isn't mine to keep,' Wren tells Theron. 'It was never mine.'"}
+{"beat":62,"event":"Theron nods once: 'Tell her the well is clean. Tell her Theron says come.'"}
+{"beat":63,"event":"They walk back in the late afternoon; the compass reads pulls and absences.","at":"2026-08-04T16:30:00.000Z","place":"place/the-places-she-carries-transition-woodland"}
+{"beat":64,"event":"A hundred meters from camp Wren stops: 'The stream. It moved.'","at":"2026-08-04T17:00:00.000Z","place":"place/the-places-she-carries-therons-camp"}
+{"beat":65,"event":"The deadfall is gone; the stream is wider, tidied, six feet closer to her camp."}
+{"beat":66,"event":"Hadley finds the bank firm: this soil does not shift overnight."}
+{"beat":67,"event":"The water smells faintly sweet; the compass needle flutters, undecided."}
+{"beat":68,"event":"A garbled notification: the water was directed to her. 'Please stay.'"}
+{"beat":69,"event":"She pulls her hand from the water: the corruption has noticed her."}
+{"beat":70,"event":"It rearranged the stream to impress her: the corruption is courting her."}
+{"beat":71,"event":"'Your face is doing a thing.' She says something is speaking through the System."}
+{"beat":72,"event":"Theron, hand on his knife, asks what it said. 'Please stay.'"}
+{"beat":73,"event":"His grandmother said: if the forest starts wanting you, walk the other way."}
+{"beat":74,"event":"The Thornwild is mapping her back."}
+{"beat":75,"event":"She sleeps badly, the stream running close and sweet in the dark.","at":"2026-08-04T22:00:00.000Z","leave":["character-other/the-places-she-carries-theron","character-other/the-places-she-carries-hadley"]}
+{"beat":76,"event":"She feels the Shelf steady, the Eye watchful, the ruins waiting north-east."}
+{"beat":77,"event":"The corruption doesn't want to hurt her; it wants to be her only bond."}
+{"beat":78,"event":"She does not drink from the stream; she sleeps with the compass in her hand."}
+{"beat":79,"event":"The Crying Forest is fourteen days from its next event; she is counting."}
