@@ -74,7 +74,7 @@ export const overwhereIiiBraidWeaving = {
     },
     {
       fact: "A sweeping braid costs both weaves' mana once, however many it strikes.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
   ],
 } as const satisfies Lore
