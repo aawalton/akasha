@@ -10,7 +10,7 @@ export const fairweather0001 = {
   story: "story-written/fairweather",
   ownLength: 0,
   prose: "txt",
-  stepStatus: "step-status/game-master",
+  stepStatus: "step-status/mechanics",
   beats: [
     "Before dawn the Honeycomb's ovens wake Elsie in her attic; the room smells of bread.",
     "It is her Naming day; she lies under the sloped ceiling, too nervous and happy to stay in bed.",
@@ -21,7 +21,7 @@ export const fairweather0001 = {
     "Elsie tells the baker she hopes for a healer's class, like her mother's on the caravan roads.",
     "She walks the canals toward the lakeshore through the dawn mist, humming without knowing it.",
     "Flower sellers set out buckets, lamplighters' boats douse the lanterns, and the Mere is silver.",
-    "At the white Hall of Naming, Elsie joins a line of nervous twenty-year-olds under the dome.",
+    "Hours early, she wanders the waking city, then joins the line at the white Hall of Naming.",
     "She chats with the shaking boy ahead of her, learns his sister's name, and promises he'll be fine.",
     "The priestess calls names; windows open in the air, Baker, Bargeman, Scribe, and the hall claps.",
     "The priestess calls Elsie Fairweather, and she steps alone into the silver circle in the floor.",
@@ -104,16 +104,16 @@ export const fairweather0001 = {
     "She cries a little over the letter, then smiles, and signs it with a flower.",
     "She wishes her window open; under Bonds, where nothing stood this morning, are Tamsin and Tilly.",
     "She doesn't know what the numbers mean; she touches each name and says goodnight to them.",
-    "Elsie falls asleep with the window open over Thimble Canal as the lanterns go out one by one.",
+    "Elsie falls asleep with the window open over Thimble Canal, lantern light swaying on the ceiling.",
   ],
   beatScenes: [
     {
       beat: 1,
-      at: "2026-06-01T05:00:00.000Z",
+      at: "2026-06-01T04:00:00.000Z",
       place: "place/fairweather-honeycomb",
       present: ["character-player/fairweather-elsie"],
     },
-    { beat: 8, at: "2026-06-01T07:30:00.000Z", place: "place/fairweather-lanternmere" },
+    { beat: 8, at: "2026-06-01T05:15:00.000Z", place: "place/fairweather-lanternmere" },
     { beat: 10, at: "2026-06-01T08:30:00.000Z", place: "place/fairweather-hall-of-naming" },
     { beat: 21, at: "2026-06-01T10:30:00.000Z", place: "place/fairweather-guild-hall" },
     { beat: 27, arrive: ["character-other/fairweather-cora"] },
@@ -142,11 +142,6 @@ export const fairweather0001 = {
     },
   ],
   beatChanges: "jsonl",
-  mechanicsIssues: [
-    "beat 8: dawn mist at 07:30, but beat 1 puts dawn just after 05:00, over two hours before",
-    "beat 9: lamplighters douse lanterns at 07:30, though dawn came just after 05:00 in beat 1",
-    "beat 93: lanterns go out one by one near midnight, but beat 9 has them burn until doused at dawn",
-  ],
   lore: [
     "lore/fairweather-cora",
     "lore/fairweather-elsie",
@@ -158,5 +153,4 @@ export const fairweather0001 = {
     "place/fairweather-honeycomb",
     "place/fairweather-lanternmere",
   ],
-  recordedBy: ["story-recorder/inventory", "story-recorder/mechanics", "story-recorder/plan"],
 } as const satisfies StoryChapterWritten
