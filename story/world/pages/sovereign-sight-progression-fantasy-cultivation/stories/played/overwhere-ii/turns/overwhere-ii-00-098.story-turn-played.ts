@@ -4,10 +4,13 @@ export const overwhereIi00098 = {
   id: "01a0ff58-0855-70e4-800f-d3bd395a03bb",
   type: "page-type/story-turn-played",
   slug: "overwhere-ii-00-098",
+  ownLength: 223,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-ii"],
   position: 98,
-  stepStatus: "step-status/writer",
+  prose: "txt",
+  characters: ["character-player/overwhere-ii-nala"],
+  stepStatus: "step-status/reviewers",
   action: "“Yes. I’m ready now.”",
   beats: [
     'Nala: "Yes. I\'m ready now."',
@@ -28,6 +31,11 @@ export const overwhereIi00098 = {
     "It paws the ground, and the other five lift their heads too.",
     'Hawise draws her two short blades, real steel now. "Your call, free blade."',
   ],
-  lore: ["place/overwhere-ii-callow-beck"],
+  lore: [
+    "lore/overwhere-ii-nala",
+    "lore/overwhere-ii-nala-2",
+    "lore/overwhere-ii-nala-3",
+    "place/overwhere-ii-callow-beck",
+  ],
   endsAt: "2026-10-25T14:30:00.000Z",
 } as const satisfies StoryTurnPlayed
