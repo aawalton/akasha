@@ -22,6 +22,7 @@ export const overwhereIii00088 = {
     "Below, the Post's door bangs. Hooves clatter off toward the east gate and the Thornmere road.",
     "The rider for Thornmere is away.",
   ],
+  issues: ['"A cot, a blanket, a shuttered window" - the free room holds two wool blankets'],
   lore: [
     "lore/overwhere-iii-marda-hesk",
     "lore/overwhere-iii-marda-hesk-2",
@@ -30,5 +31,6 @@ export const overwhereIii00088 = {
     "lore/overwhere-iii-nala-2-2",
     "place/overwhere-iii-merrowgate-guild-post",
   ],
+  reviewedBy: ["story-reviewer/continuity"],
   endsAt: "2026-10-09T06:00:00.000Z",
 } as const satisfies StoryTurnPlayed
