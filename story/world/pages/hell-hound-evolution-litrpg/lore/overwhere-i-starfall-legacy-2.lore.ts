@@ -292,5 +292,9 @@ export const overwhereIStarfallLegacy2 = {
       fact: "Struck by her lightning, the Weir Wyrm lay stunned a moment, unable to move.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
+    {
+      fact: "Earth can thrust stone up as spikes within a held working's reach in about a second; a Surge use.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
