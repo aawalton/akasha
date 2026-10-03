@@ -10,5 +10,5 @@ export const overwhereIiiNalaCleansingWeave = {
     "A thread of holy current drawn through blight, unpicking it strand by strand with a slow white-gold light.",
   character: "character-player/overwhere-iii-nala",
   skill: "world-skill/overwhere-iii-cleansing-weave",
-  level: 2,
+  level: 3,
 } as const satisfies OverwhereIiiSkill
