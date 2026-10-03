@@ -38,14 +38,19 @@ export const overwhereIii00084 = {
     "Edda has watched all of it from her barrow, arms folded.",
     '"Sallow\'s door stood open, and her hearthstone up," she says. "Where\'s she gone?"',
   ],
+  issues: [
+    '"Each one aches cold up her arm" - at Legend lent current carries a pull\'s cold off, no arm ache',
+  ],
   lore: [
     "lore/overwhere-iii-cleansing-weave",
     "lore/overwhere-iii-current-feed",
     "lore/overwhere-iii-edda-crane",
+    "lore/overwhere-iii-mending-weave",
     "lore/overwhere-iii-mother-sallow",
     "lore/overwhere-iii-nala",
     "lore/overwhere-iii-nala-2",
     "lore/overwhere-iii-nala-2-2",
   ],
+  reviewedBy: ["story-reviewer/continuity"],
   endsAt: "2026-10-08T16:35:00.000Z",
 } as const satisfies StoryTurnPlayed
