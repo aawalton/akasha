@@ -57,6 +57,7 @@
 {"propertySlug":"decision-kind","path":"person/person.page-type.ts","id":"01a053e0-6cf7-7062-90af-db1def200572"}
 {"propertySlug":"decision-kind","path":"persona/craft-day/properties/green-day.number-property.ts","id":"01a0655b-4a9b-7008-9a0b-56117a559064"}
 {"propertySlug":"decision-kind","path":"persona/properties/mobile-wallpaper.relation-property.ts","id":"01a0c61d-f8be-7dee-97dc-2a9bb1313d4f"}
+{"propertySlug":"decision-kind","path":"story/engine/beat-state/modules/beat-replay/beat-replay.module.ts","id":"01a10238-e959-79ba-9502-1029307633d5"}
 {"propertySlug":"decision-kind","path":"story/engine/core/modules/action-bar-message/action-bar-message.module.ts","id":"01a05b71-e542-79f6-8369-4b9b67355af8"}
 {"propertySlug":"decision-kind","path":"story/world/stories/played/turns/modules/turn-advancing/turn-advancing.module.ts","id":"01a1022f-b5dc-7b0c-91af-b84b4c92f314"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/combat/modules/data-encode-runtime/data-encode-runtime.module.ts","id":"01a06061-96a0-7c1f-a7ed-6104c85448b3"}
