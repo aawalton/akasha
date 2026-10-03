@@ -5,7 +5,7 @@ export const hollowmere0024NineHours = {
   type: "page-type/story-chapter-written",
   slug: "hollowmere-0024-nine-hours",
   cover: "image/image-8509d30cde6185da",
-  ownProgress: 1391,
+  ownProgress: 1472,
   position: 24,
   unit: "unit/words",
   title: "Nine Hours",
