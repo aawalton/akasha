@@ -10,6 +10,7 @@ export const overwhereIii0004TheFoxAtTheSett = {
   story: "story-played/overwhere-iii",
   ownLength: 2780,
   prose: "txt",
+  beats: "jsonl",
   turnCovers: [
     {
       position: 51,
