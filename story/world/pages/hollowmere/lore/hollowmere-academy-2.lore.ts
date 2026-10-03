@@ -217,6 +217,8 @@ export const hollowmereAcademy2 = {
         "character-other/hollowmere-amara",
         "character-other/hollowmere-penhallow",
         "character-other/hollowmere-yusra",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-lin",
       ],
     },
   ],

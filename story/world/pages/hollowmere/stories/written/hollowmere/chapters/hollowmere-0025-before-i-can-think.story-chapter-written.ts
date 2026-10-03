@@ -11,7 +11,7 @@ export const hollowmere0025BeforeICanThink = {
   story: "story-written/hollowmere",
   ownLength: 4541,
   prose: "txt",
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   beats: [
     "Thursday of week four: rain on the window of 15, and Bea asleep with her face in your neck.",
     "You lie still and listen; Bea wakes, groans at the rain, and pulls the blanket over both heads.",
@@ -98,7 +98,12 @@ export const hollowmere0025BeforeICanThink = {
     "character-other/hollowmere-shiv",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/mechanics", "story-recorder/picture"],
+  recordedBy: [
+    "story-recorder/inventory",
+    "story-recorder/mechanics",
+    "story-recorder/picture",
+    "story-recorder/memory",
+  ],
   scenes: ["image/image-0d42e619df88ef4b"],
   pictured: [
     {

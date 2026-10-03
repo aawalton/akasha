@@ -108,5 +108,13 @@ export const hollowmereBea2 = {
         "character-other/hollowmere-morwenna",
       ],
     },
+    {
+      fact: "Told Yusra asked Nala to walk, Bea said she's lonely, go, but watch me row first; Nala promised.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/hollowmere-bea",
+        "character-player/hollowmere-nala",
+      ],
+    },
   ],
 } as const satisfies Lore

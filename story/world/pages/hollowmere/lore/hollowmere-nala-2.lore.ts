@@ -327,5 +327,13 @@ export const hollowmereNala2 = {
         "character-other/hollowmere-lin",
       ],
     },
+    {
+      fact: "Nala drew at life drawing for the first time; her third drawing had a shoulder nearly right.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-lin",
+      ],
+    },
   ],
 } as const satisfies Lore

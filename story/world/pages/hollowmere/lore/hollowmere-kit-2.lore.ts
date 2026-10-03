@@ -285,5 +285,45 @@ export const hollowmereKit2 = {
         "character-player/hollowmere-nala",
       ],
     },
+    {
+      fact: "Kit's grandmother told her stories of the old unlicensed healers, from her own grandmother.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/hollowmere-kit",
+        "character-player/hollowmere-nala",
+      ],
+    },
+    {
+      fact: "Kit said 1858 made the colleges prove things: after, it was what you could do; she likes after.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/hollowmere-kit",
+        "character-player/hollowmere-nala",
+      ],
+    },
+    {
+      fact: "Kit read Nala's ward essay in the Snug and said, with no edge at all: That's really good.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/hollowmere-kit",
+        "character-player/hollowmere-nala",
+      ],
+    },
+    {
+      fact: "Kit's essay is on the warded door of her grandmother's house; Nala called it her best yet.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/hollowmere-kit",
+        "character-player/hollowmere-nala",
+      ],
+    },
+    {
+      fact: "Nala kissed Kit softly by the Snug fire; Kit kissed back, laughed, and said: Rain.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/hollowmere-kit",
+        "character-player/hollowmere-nala",
+      ],
+    },
   ],
 } as const satisfies Lore

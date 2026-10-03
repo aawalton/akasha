@@ -158,5 +158,27 @@ export const hollowmereWorld = {
         "character-other/hollowmere-bea",
       ],
     },
+    {
+      fact: "Before 1858 anyone could set up as a healer, unlicensed, and many people died of it.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-kit",
+        "character-other/hollowmere-lin",
+        "character-other/hollowmere-amara",
+        "character-other/hollowmere-yusra",
+      ],
+    },
+    {
+      fact: "The colleges set the first healers' examination together, and argued; they set it still.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-kit",
+        "character-other/hollowmere-lin",
+        "character-other/hollowmere-amara",
+        "character-other/hollowmere-yusra",
+      ],
+    },
   ],
 } as const satisfies Lore

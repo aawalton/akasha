@@ -383,5 +383,37 @@ export const hollowmereYusra = {
         "character-player/hollowmere-nala",
       ],
     },
+    {
+      fact: "At breakfast Yusra said Slept again, low, only to Nala, as she passed.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/hollowmere-yusra",
+        "character-player/hollowmere-nala",
+      ],
+    },
+    {
+      fact: "Told of the Healers Act, Yusra said: That's mine, the exam I'm working for; then I'm licensed.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/hollowmere-yusra",
+        "character-player/hollowmere-nala",
+      ],
+    },
+    {
+      fact: "Yusra told Nala You remember everything; Nala said So do you, and Yusra's face went soft.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/hollowmere-yusra",
+        "character-player/hollowmere-nala",
+      ],
+    },
+    {
+      fact: "Given sweet tea again, Yusra said You'll spoil me; Nala said Good; her fingers rested on Nala's.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/hollowmere-yusra",
+        "character-player/hollowmere-nala",
+      ],
+    },
   ],
 } as const satisfies Lore
