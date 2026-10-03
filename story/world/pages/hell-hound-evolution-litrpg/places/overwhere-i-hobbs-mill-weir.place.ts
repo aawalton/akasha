@@ -295,5 +295,9 @@ export const overwhereIHobbsMillWeir = {
       fact: "The wyrm's head weighs about 80 pounds, a heavy load to carry two hours without help.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Opening the wyrm to reach its bile sac takes about twenty minutes of cutting.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Place
