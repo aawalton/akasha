@@ -7,6 +7,7 @@ export const overwhereIi00107 = {
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-ii"],
   position: 107,
-  stepStatus: "step-status/world-builder",
+  stepStatus: "step-status/game-master",
   action: "I pull out one of the intact Greymaw chambers and see if that will hold it",
+  lore: ["lore/overwhere-ii-greymaws"],
 } as const satisfies StoryTurnPlayed
