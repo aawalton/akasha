@@ -10,7 +10,7 @@ export const overwhereIi00112 = {
   position: 112,
   prose: "txt",
   characters: ["character-player/overwhere-ii-nala"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/recorders",
   action:
     "“Then we have a plan for the morning.” I sleep, talk to Dray, Hawise, and Tob about the Tide Pool and what needs to be done, then go back up and work on cleansing the lower pool and the channel, so the upper pool is all that we need to manage.",
   beats: [
@@ -46,6 +46,6 @@ export const overwhereIi00112 = {
     "place/overwhere-ii-callow-beck",
     "place/overwhere-ii-tarrant-smithy",
   ],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
   endsAt: "2026-10-27T12:00:00.000Z",
 } as const satisfies StoryTurnPlayed
