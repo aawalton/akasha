@@ -10,4 +10,6 @@ export const towerAndTheStar0005HarmonizeFirstAttempt = {
   ownLength: 5424,
   unit: "unit/words",
   prose: "txt",
+  stepStatus: "step-status/player",
+  beats: "jsonl",
 } as const satisfies StoryChapterWritten
