@@ -189,7 +189,7 @@ export const overwhereIiWhitecombs = {
     },
     {
       fact: "Near midnight on day twenty-six the Whitecombs thunder again, felt as a shudder through the Keep.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "That night the Callow pool spills its cwm, and the black water runs a mile down toward Callow Beck.",
