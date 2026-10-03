@@ -67,6 +67,9 @@ export const hollowmere0018TheLongPose = {
     "You fall asleep warm all over, the phone in your hand, and Kit's handkerchief under your cheek.",
     "A day at Hollowmere ends.",
   ],
+  issues: [
+    '"hurries away down the corridor to room 8" - room 8 is a floor up; Lin is at the stair foot',
+  ],
   lore: [
     "lore/hollowmere-academy-2",
     "lore/hollowmere-bea",
@@ -86,4 +89,5 @@ export const hollowmere0018TheLongPose = {
     "character-other/hollowmere-lin",
     "character-other/hollowmere-yusra",
   ],
+  reviewedBy: ["story-reviewer/continuity"],
 } as const satisfies StoryChapterWritten
