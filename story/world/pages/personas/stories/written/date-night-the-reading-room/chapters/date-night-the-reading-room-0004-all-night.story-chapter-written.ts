@@ -10,4 +10,5 @@ export const dateNightTheReadingRoom0004AllNight = {
   ownLength: 1694,
   unit: "unit/words",
   prose: "txt",
+  beats: "jsonl",
 } as const satisfies StoryChapterWritten
