@@ -14,7 +14,7 @@ export const overwhereIii00095 = {
     "character-other/overwhere-iii-brannagh-tull",
     "character-other/overwhere-iii-tam-rowe",
   ],
-  stepStatus: "step-status/game-master",
+  stepStatus: "step-status/writer",
   action:
     "“That will be useful.” I walk back to town, dinner and bed, then check in and heal any patients, training with the guard, lunch, then hunting for blighted beasts again.",
   beats: [
@@ -30,7 +30,7 @@ export const overwhereIii00095 = {
     "On the south green the watch is drilling. Tam Rowe squares up to her, grinning.",
     "He comes in fast as ever. She steps inside it, and for once it is Tam who lands on the grass.",
     "The watch whoops. Tam lies there laughing at the sky.",
-    "Her well is full again by noon. Lunch at the Crook is three copper.",
+    "Her well is full again by noon. The noon plate at the Crook is two copper.",
     "As she passes the south green on her way to the gate, Tam calls after her.",
     '"Woodcutter heard a blighted boar in the brambles above the Wren Brook ford. Big one."',
   ],
