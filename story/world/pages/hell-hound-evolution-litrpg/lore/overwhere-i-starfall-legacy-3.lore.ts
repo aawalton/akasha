@@ -20,5 +20,9 @@ export const overwhereIStarfallLegacy3 = {
       fact: "On wool, fire with air singes, air with water wets and fluffs, and fire with earth stiffens it.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
+    {
+      fact: "Alan's Earth-made clothes answer no Starfall weave; the grey shirt and black tights take no mend.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
