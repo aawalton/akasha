@@ -145,6 +145,7 @@ export const fairweather0001 = {
   mechanicsIssues: [
     "beat 6: the baker hands Elsie a honey bun, and no page defines it",
     "beat 32: Elsie hangs a copper rank tag at her belt, and no page defines it",
+    "beat 63: dusk at 18:30, but lore says early summer, when dusk falls far later",
   ],
   lore: [
     "lore/fairweather-cora",
@@ -157,5 +158,5 @@ export const fairweather0001 = {
     "place/fairweather-honeycomb",
     "place/fairweather-lanternmere",
   ],
-  recordedBy: ["story-recorder/inventory"],
+  recordedBy: ["story-recorder/inventory", "story-recorder/plan"],
 } as const satisfies StoryChapterWritten
