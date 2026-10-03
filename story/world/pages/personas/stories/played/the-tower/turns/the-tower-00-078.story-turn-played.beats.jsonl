@@ -1,0 +1,6 @@
+{"beat":1,"event":"He goes down the stair to the warden's bare platform: cold, honest, safe stone.","place":"place/the-tower-shaft-headworks"}
+{"beat":2,"event":"He lets the maul down, and himself after it, and sleeps."}
+{"beat":3,"event":"Dreaming the welcome, he glimpses in a bright surface the thing the host is painted over."}
+{"beat":4,"event":"He wakes whole: mended, rested, his focus full to the brim.","changes":[{"page":"tower-health/the-tower-alan","key":"value","from":79,"to":124,"note":"Sleep on safe stone mends him"},{"page":"tower-mana/the-tower-alan","key":"value","from":31,"to":120,"note":"His focus fills to the brim of his deeper will"},{"page":"tower-stamina/the-tower-alan","key":"value","from":56,"to":76,"note":"Sleep lifts the tiredness"}]}
+{"beat":5,"event":"The maul's core rides nearly cold: a made thing does not heal, it must be fed heat."}
+{"beat":6,"event":"Far above, he feels the haven resettle and re-warm itself while he slept."}

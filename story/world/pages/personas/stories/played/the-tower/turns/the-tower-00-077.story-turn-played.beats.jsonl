@@ -1,0 +1,6 @@
+{"beat":1,"event":"He gives ground on purpose, backing toward the narrow neck to the cleared hall."}
+{"beat":2,"event":"To follow him they must give up the flank and funnel into the one throat of stone."}
+{"beat":3,"event":"He pours the heaviest wave he can raise down the lane; it bites both, and they reel.","changes":[{"page":"tower-mana/the-tower-alan","key":"value","from":71,"to":31,"note":"The heaviest wave he can raise on what is left"}]}
+{"beat":4,"event":"He turns and runs; the trailing one lunges through the flames and rakes his back.","changes":[{"page":"tower-health/the-tower-alan","key":"value","from":124,"to":79,"note":"A deep raking blow from behind as he flees"},{"page":"tower-stamina/the-tower-alan","key":"value","from":68,"to":56,"note":"The fighting retreat and the run"}]}
+{"beat":5,"event":"Across the dead hall he throws himself onto the threshold-stone, and the wrongness ends.","place":"place/the-tower-haven-threshold","present":["character-player/the-tower-alan"]}
+{"beat":6,"event":"Bleeding and burned low, he is out: the haven shut at his front, the way down open behind."}

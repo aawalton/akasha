@@ -1,0 +1,6 @@
+{"beat":1,"event":"Eyes shut against the gold, he stands and steps across the threshold."}
+{"beat":2,"event":"By his ember-sense the false host is only a cold hollow, and he walks past it."}
+{"beat":3,"event":"Deeper in, a wrong, oily prickle rises: a hunter sliding toward the blind man.","place":"place/the-tower-hall-of-welcome","arrive":["character-other/the-tower-the-welcomer-01"]}
+{"beat":4,"event":"As it gathers to spring, he looses the burst he held, through the maul and along the chain.","changes":[{"page":"tower-mana/the-tower-alan","key":"value","from":96,"to":71,"note":"A measured burst through the maul, his own focus with the core's"}]}
+{"beat":5,"event":"The presence flares, recoils, and goes out like a pinched candle.","leave":["character-other/the-tower-the-welcomer-01"],"memory":[{"page":"lore/the-tower-the-welcomer-01","fact":"The Welcomer that hunted the Hall of Welcome is dead, snuffed out by fire.","shown":true}]}
+{"beat":6,"event":"The maul rides cooler and the hall goes quiet; the floor runs on into a deeper dark."}
