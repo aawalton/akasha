@@ -10,7 +10,7 @@ export const hollowmere0023WhatAWardKeepsIn = {
   story: "story-written/hollowmere",
   ownLength: 3083,
   prose: "txt",
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/game-master",
   beats: [
     "Tuesday of week four: grey light; Bea is gone already, her side of the bed still warm.",
     "A note on your pillow in Bea's big hand: Outing. Back for lunch. Eat. B x",
@@ -74,6 +74,10 @@ export const hollowmere0023WhatAWardKeepsIn = {
     "You cross it out, and write: A ward keeps in what is mending. You leave that one, and sleep.",
     "A day at Hollowmere ends.",
   ],
+  issues: [
+    '"Amara Okafor. To me." - Amara\'s surname is Osei, as the prose and lore say',
+    '"goes off down the corridor, fast" - prose drops the beat\'s Kit going off to the forge',
+  ],
   lore: [
     "lore/hollowmere-amara",
     "lore/hollowmere-bea",
@@ -101,5 +105,5 @@ export const hollowmere0023WhatAWardKeepsIn = {
     "character-other/hollowmere-yusra",
     "character-other/hollowmere-morwenna",
   ],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
 } as const satisfies StoryChapterWritten
