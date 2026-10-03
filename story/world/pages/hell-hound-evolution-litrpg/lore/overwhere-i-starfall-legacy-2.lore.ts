@@ -324,5 +324,9 @@ export const overwhereIStarfallLegacy2 = {
       fact: "Nala can thrust a stone surface up into spikes within her reach, in about a second.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
+    {
+      fact: "Eye beams leave Nala dazzled by afterglow for a couple of seconds.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+    },
   ],
 } as const satisfies Lore
