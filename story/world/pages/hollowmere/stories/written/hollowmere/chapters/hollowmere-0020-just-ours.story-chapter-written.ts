@@ -8,9 +8,9 @@ export const hollowmere0020JustOurs = {
   unit: "unit/words",
   title: "Just Ours",
   story: "story-written/hollowmere",
-  ownLength: 3593,
+  ownLength: 3607,
   prose: "txt",
-  stepStatus: "step-status/writer",
+  stepStatus: "step-status/recorders",
   beats: [
     "Saturday: you wake at half six in the narrow bed, Bea still curled at your back, her arm over you.",
     'Her alarm goes off across the corridor; she groans into your neck. "Rowing. Seven. Morwenna."',
