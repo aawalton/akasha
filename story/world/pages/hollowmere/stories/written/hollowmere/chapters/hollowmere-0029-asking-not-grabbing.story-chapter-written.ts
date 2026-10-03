@@ -1,16 +1,16 @@
 import type { StoryChapterWritten } from "akasha/story/world/stories/written/chapters/story-chapter-written.page-type.types.ts"
 
-export const hollowmere0029 = {
+export const hollowmere0029AskingNotGrabbing = {
   id: "01a101e6-0c7e-70a7-be40-c0a70023915e",
   type: "page-type/story-chapter-written",
-  slug: "hollowmere-0029",
+  slug: "hollowmere-0029-asking-not-grabbing",
   position: 29,
   unit: "unit/words",
-  title: "Chapter 29",
+  title: "Asking, Not Grabbing",
   story: "story-written/hollowmere",
-  ownLength: 0,
+  ownLength: 3964,
   prose: "txt",
-  stepStatus: "step-status/writer",
+  stepStatus: "step-status/reviewers",
   beats: [
     "Monday of week five: you wake in 15 to Bea already looking at you, her chin on her fist, smiling.",
     '"Still true," she says. "I checked. First thing. I still love you." You laugh, and pull her down.',
@@ -67,5 +67,30 @@ export const hollowmere0029 = {
     "You lie in the lamplight with her weight on you, your head still faintly aching, happy all through.",
     "A day at Hollowmere ends.",
   ],
-  lore: ["lore/hollowmere-academy-2"],
+  lore: [
+    "lore/hollowmere-academy-2",
+    "lore/hollowmere-amara",
+    "lore/hollowmere-bea",
+    "lore/hollowmere-bea-2",
+    "lore/hollowmere-kit",
+    "lore/hollowmere-kit-2",
+    "lore/hollowmere-lin",
+    "lore/hollowmere-lin-2",
+    "lore/hollowmere-morwenna",
+    "lore/hollowmere-nala",
+    "lore/hollowmere-nala-2",
+    "lore/hollowmere-priya",
+    "lore/hollowmere-yusra",
+    "lore/hollowmere-yusra-2",
+  ],
+  characters: [
+    "character-player/hollowmere-nala",
+    "character-other/hollowmere-bea",
+    "character-other/hollowmere-priya",
+    "character-other/hollowmere-lin",
+    "character-other/hollowmere-yusra",
+    "character-other/hollowmere-kit",
+    "character-other/hollowmere-amara",
+    "character-other/hollowmere-morwenna",
+  ],
 } as const satisfies StoryChapterWritten
