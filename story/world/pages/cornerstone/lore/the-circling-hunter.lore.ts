@@ -7,5 +7,67 @@ export const theCirclingHunter = {
   title: "The Circling Hunter",
   world: "world/cornerstone",
   about: "world-character/cornerstone-the-circling-hunter",
+  facts: [
+    {
+      fact: "The Circling Hunter is a predator that threatens the founding camp.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The hunter came on the night after the camp's first burial, the second or third day.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The hunter is unnamed and unseen, known to the core only by tread.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The hunter comes out of the nothing beyond the core's edge and crosses onto the bound ground.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The hunter's tread is padding, deliberate and heavy, four-footed and low.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The hunter sets each foot down with the care that the careless never have.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The hunter does not blunder; it circles, slowly, along the inside of the rim.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The hunter keeps to the dark beyond the camp's banked warmth.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The hunter tests the edge of the sleeping ring, measuring it, choosing.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The sleeping settlers never stir; they are blind to the hunter.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The core felt the hunter, and was less blind to it than the settlers.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The core strains uselessly to wake the settlers.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Checked by some caution of its own, not by the core, the hunter pads back off the rim and is gone.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The settlers will never know they were hunted.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Through the hunter the core feels its central agony.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+  ],
   secrets: "jsonl",
 } as const satisfies Lore
