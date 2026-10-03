@@ -22,7 +22,33 @@ export const hollowmereNala3 = {
         "lore-disclosure/game-master",
         "character-player/hollowmere-nala",
         "character-other/hollowmere-kit",
+        "character-other/hollowmere-penhallow",
       ],
+    },
+    {
+      fact: "Nala wears Kit's silver ring focus on the third finger of her right hand.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-kit",
+        "character-other/hollowmere-bea",
+      ],
+    },
+    {
+      fact: "Kit's ring warmed on Nala's finger at once, warmer than silver should, as if it knew her.",
+      knowers: ["lore-disclosure/game-master", "character-player/hollowmere-nala"],
+    },
+    {
+      fact: "Reading Nala's last line, Penhallow said: Someone being loved. Hm. Her eyes smiled: Tuesday.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-penhallow",
+      ],
+    },
+    {
+      fact: "Nala practised calling a pen, a button and a thimble six feet in the library; the pen was hardest.",
+      knowers: ["lore-disclosure/game-master", "character-player/hollowmere-nala"],
     },
   ],
 } as const satisfies Lore

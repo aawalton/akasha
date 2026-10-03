@@ -80,7 +80,19 @@ export const hollowmereKendal = {
     },
     {
       fact: "Down an alley off Kendal's high street, Gianni's serves pasta by candles in bottles until nine.",
-      knowers: ["lore-disclosure/game-master", "character-other/hollowmere-kit"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/hollowmere-kit",
+        "character-player/hollowmere-nala",
+      ],
+    },
+    {
+      fact: "Gianni, who runs Gianni's in Kendal, is small, loud and Italian, and calls Kit signorina.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-kit",
+      ],
     },
   ],
 } as const satisfies Place

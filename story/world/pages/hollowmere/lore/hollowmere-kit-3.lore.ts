@@ -42,7 +42,81 @@ export const hollowmereKit3 = {
     },
     {
       fact: "The focus Kit is making at the forge is a silver ring for Nala, a turned-in hook worked round it.",
-      knowers: ["lore-disclosure/game-master", "character-other/hollowmere-kit"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/hollowmere-kit",
+        "character-player/hollowmere-nala",
+      ],
+    },
+    {
+      fact: "At Gianni's in Kendal Kit gave Nala the ring, a focus: It's to remember. I want it to remember me.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-kit",
+      ],
+    },
+    {
+      fact: "Kit took the ring's turned-in hook from Lin's line, So the light comes back to you; she asked Lin.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-kit",
+      ],
+    },
+    {
+      fact: "Kit sized Nala's ring from Lin's drawing of Nala asleep, her hand open on the pillow.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-kit",
+      ],
+    },
+    {
+      fact: "Asked what her focus remembers, Kit told Penhallow: Whoever it's for; she was given shortbread.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-kit",
+        "character-other/hollowmere-penhallow",
+        "character-other/hollowmere-lin",
+        "character-other/hollowmere-shiv",
+        "character-other/hollowmere-amara",
+        "character-other/hollowmere-priya",
+      ],
+    },
+    {
+      fact: "Kit skipped Friday's Sigils for the forge, straight from tutorial; Amara saw her go: Mysterious.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-kit",
+        "character-other/hollowmere-amara",
+      ],
+    },
+    {
+      fact: "Kit took Nala to Kendal's Friday film and Gianni's, and kissed her the whole bus ride home.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-kit",
+      ],
+    },
+    {
+      fact: "Kit will be on the bank at the Fell Cup, shouting for Thornfield in front of all of Ashcombe.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-kit",
+      ],
+    },
+    {
+      fact: "At Ashcombe's step Kit said she'd ask Nala up, but not before Bea's race; Nala said: Soon. After.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-kit",
+      ],
     },
   ],
 } as const satisfies Lore

@@ -296,5 +296,21 @@ export const hollowmereBea2 = {
         "character-other/hollowmere-bea",
       ],
     },
+    {
+      fact: "The day before the race Bea paced 15 at dawn; Nala made her breathe out: It works on me too.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-bea",
+      ],
+    },
+    {
+      fact: "Bea felt Kit's ring on Nala's hand in the dark, held it to her heart, and said: It's lovely.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-bea",
+      ],
+    },
   ],
 } as const satisfies Lore
