@@ -272,5 +272,9 @@ export const overwhereIWendlow2 = {
       fact: "Mother Sallow says to tie off the sac's duct with twine, cut it free whole, and stopper it in a jar.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Cutting a bile sac free whole is a moderate act; a burst sac is worthless, and its bile stings skin.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
