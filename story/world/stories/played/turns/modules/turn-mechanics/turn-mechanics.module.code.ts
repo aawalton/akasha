@@ -4,6 +4,7 @@ import {
 } from "akasha/story/engine/beat-state/modules/beat-changes/beat-changes.module.code.ts"
 import { storyRecorder } from "akasha/story/recorder/story-recorder.page-type.ts"
 import {
+  CHAPTER,
   type Handed,
   type Held,
   type Noun,
@@ -32,7 +33,8 @@ export type Mechanicked =
       readonly next: "mechanics" | "game-master" | "on"
     }
 
-function mostBeats(editorSteps: boolean | undefined): number {
+function mostLines(noun: Noun, editorSteps: boolean | undefined = undefined): number | null {
+  if (noun !== CHAPTER) return null
   return editorSteps === true ? MOST_LINES * EDITED : MOST_LINES
 }
 
@@ -40,10 +42,10 @@ export function linesRefused(
   one: string,
   lines: readonly string[],
   noun: Noun,
-  most: number = MOST_LINES
+  most: number | null = null
 ): string | null {
   const what = `${one}s`
-  if (lines.length > most) {
+  if (most !== null && lines.length > most) {
     return `a ${noun} holds at most ${most} ${what}, and this makes ${lines.length}`
   }
   const long = lines.flatMap((line, at) =>
@@ -54,7 +56,8 @@ export function linesRefused(
 }
 
 export function beatsRefused(beats: readonly string[], held: Held): string | null {
-  return linesRefused("beat", beats, held.noun ?? TURN, mostBeats(held.editorSteps))
+  const noun = held.noun ?? TURN
+  return linesRefused("beat", beats, noun, mostLines(noun, held.editorSteps))
 }
 
 export function mechanicked(
@@ -70,7 +73,7 @@ export function mechanicked(
     return { refused: `a change names beat ${far.beat}, and the ${noun} has ${beats} beats` }
   }
   const issues = [...(held.mechanicsIssues ?? []), ...(handed.issues ?? [])]
-  const long = linesRefused("issue", issues, noun)
+  const long = linesRefused("issue", issues, noun, mostLines(noun))
   if (long !== null) return { refused: long }
   const recordedBy = [...held.recordedBy, handed.recorder]
   const all = mechanics.every((one) => recordedBy.includes(one))

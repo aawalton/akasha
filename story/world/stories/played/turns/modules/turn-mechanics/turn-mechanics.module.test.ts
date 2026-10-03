@@ -105,12 +105,10 @@ function beatsOf(count: number): string[] {
   return Array.from({ length: count }, (_, at) => `beat ${at + 1}`)
 }
 
-test("a turn holds a hundred beats, a chapter a hundred, or two hundred with editor steps", () => {
+test("a played turn holds however many beats the story needs, and a chapter a hundred", () => {
   const turn = heldAt("game-master")
-  expect(beatsRefused(beatsOf(100), turn)).toBeNull()
-  expect(beatsRefused(beatsOf(101), turn)).toContain(
-    "a turn holds at most 100 beats, and this makes 101"
-  )
+  expect(beatsRefused(beatsOf(101), turn)).toBeNull()
+  expect(beatsRefused(beatsOf(400), turn)).toBeNull()
   const chapter = heldAt("game-master", { noun: "chapter" })
   expect(beatsRefused(beatsOf(100), chapter)).toBeNull()
   expect(beatsRefused(beatsOf(101), chapter)).toContain("a chapter holds at most 100 beats")
@@ -123,4 +121,16 @@ test("a turn holds a hundred beats, a chapter a hundred, or two hundred with edi
 test("a beat runs past a hundred characters whatever the beats' cap is", () => {
   const edited = heldAt("game-master", { noun: "chapter", editorSteps: true })
   expect(beatsRefused(["x".repeat(101)], edited)).toContain("beat 1 runs to 101")
+  expect(beatsRefused(["x".repeat(101)], heldAt("game-master"))).toContain("beat 1 runs to 101")
+})
+
+test("a played turn holds however many issues its mechanics finds, and a chapter a hundred", () => {
+  const many = Array.from({ length: 101 }, (_, at) => `beat ${at + 1} fails`)
+  const handed = { kind: "record", recorder: "mechanics", issues: many } as const
+  const turn = mechanicked(heldAt("mechanics", { beats: 101 }), handed, STEPPED)
+  expect("refused" in turn).toBe(false)
+  const chapter = mechanicked(heldAt("mechanics", { beats: 101, noun: "chapter" }), handed, STEPPED)
+  expect("refused" in chapter ? chapter.refused : "").toContain(
+    "a chapter holds at most 100 issues"
+  )
 })
