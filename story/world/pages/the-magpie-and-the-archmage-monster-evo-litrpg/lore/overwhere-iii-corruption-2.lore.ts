@@ -125,5 +125,9 @@ export const overwhereIiiCorruption2 = {
       fact: "The deer is two days dead, its throat torn; blight still seeps in it and grays the frost around.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Two pulls draw the deer's blight; it leaves a seed stone, and the frost round it clears.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
