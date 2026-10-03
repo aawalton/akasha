@@ -7,7 +7,8 @@ export const overwhereI00107 = {
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-i"],
   position: 107,
-  stepStatus: "step-status/world-builder",
+  stepStatus: "step-status/game-master",
   action:
     "“Deal! How do I find the bile sac?” After getting instructions I go to the inn for a bath, a meal, and an early bed.",
+  lore: ["lore/overwhere-i-wendlow-2"],
 } as const satisfies StoryTurnPlayed
