@@ -11,14 +11,21 @@ import {
   usePages,
 } from "akasha/page/ui/supabase/modules/use-pages/use-pages.module.code.ts"
 import { namedShapeDescriptor } from "akasha/page/ui-store/collection/modules/shape-descriptor/shape-descriptor.module.code.ts"
-import { COVER_WIDTH_ASKED } from "akasha/story/ui/modules/character-cover-panel/character-cover-panel.module.code.tsx"
+import {
+  type CharacterCover,
+  CharacterSteps,
+  COVER_WIDTH_ASKED,
+  characterShownAt,
+  OtherCharacterCovers,
+} from "akasha/story/ui/modules/character-cover-panel/character-cover-panel.module.code.tsx"
+import type { ClientStoryTurn } from "akasha/story/ui/modules/client-story-session/client-story-session.module.code.ts"
 import { ZoomableCover } from "akasha/story/ui/modules/cover-viewing/cover-viewing.module.code.tsx"
 import {
   type SheetShown,
   SheetTabs,
 } from "akasha/story/ui/modules/sheet-panel/sheet-panel.module.code.tsx"
 import { characterPlayer } from "akasha/story/world/characters/character-player/character-player.page-type.ts"
-import { useMemo } from "react"
+import { useMemo, useState } from "react"
 
 const SLUG_KEY = "slug"
 
@@ -62,13 +69,46 @@ export function playerDrawnOf(
   }
 }
 
+type CharacterShown = PlayerDrawn & {
+  readonly slug: string
+  readonly isPlayer: boolean
+}
+
+export function charactersShownOf(
+  drawn: PlayerDrawn,
+  slug: string,
+  revealed: boolean,
+  others: readonly CharacterCover[]
+): readonly CharacterShown[] {
+  const theirs = others.map((one) => ({
+    slug: one.slug,
+    name: one.name,
+    level: null,
+    cover: one.source,
+    whole: one.whole,
+    isPlayer: false,
+  }))
+  if (drawn.cover === null && !revealed) return theirs
+  return [{ ...drawn, slug, isPlayer: true }, ...theirs]
+}
+
+const NO_TURNS: readonly ClientStoryTurn[] = []
+
 type PlayerPanelProps = {
   readonly player: string
   readonly showsCover: boolean
   readonly sheet: SheetShown | null
+  readonly turns?: readonly ClientStoryTurn[] | undefined
+  readonly turnsPageTypeSlug?: string | undefined
 }
 
-export function PlayerCharacterPanel({ player, showsCover, sheet }: PlayerPanelProps) {
+export function PlayerCharacterPanel({
+  player,
+  showsCover,
+  sheet,
+  turns = NO_TURNS,
+  turnsPageTypeSlug,
+}: PlayerPanelProps) {
   const slug = playerSlugOf(player)
   const options = useMemo<UsePagesSupabaseOptions>(
     () => ({
@@ -89,28 +129,51 @@ export function PlayerCharacterPanel({ player, showsCover, sheet }: PlayerPanelP
     showsCover,
     sheet
   )
+  return (
+    <OtherCharacterCovers
+      turns={turns}
+      pageTypeSlug={turnsPageTypeSlug}
+      drawn={(others) => <CharactersCard drawn={drawn} slug={slug} sheet={sheet} others={others} />}
+    />
+  )
+}
+
+type CharactersCardProps = {
+  readonly drawn: PlayerDrawn
+  readonly slug: string
+  readonly sheet: SheetShown | null
+  readonly others: readonly CharacterCover[]
+}
+
+function CharactersCard({ drawn, slug, sheet, others }: CharactersCardProps) {
+  const [picked, setPicked] = useState<string | null>(null)
   const revealed = sheet?.sheet ?? null
-  if (drawn.cover === null && revealed === null) return null
+  const characters = charactersShownOf(drawn, slug, revealed !== null, others)
+  const at = characterShownAt(characters, picked)
+  const shown = characters[at]
+  if (shown === undefined) return null
   return (
     <SurfaceProvider level={1} className={CARD}>
-      {drawn.name === null && drawn.level === null ? null : (
+      {shown.name === null && shown.level === null ? null : (
         <div className="flex items-baseline justify-between gap-3 font-mono">
           <span className="min-w-0 break-words font-semibold text-primary text-sm">
-            {drawn.name}
+            {shown.name}
           </span>
-          {drawn.level === null ? null : (
-            <span className="flex-none font-semibold text-secondary text-sm">Lv {drawn.level}</span>
+          {shown.level === null ? null : (
+            <span className="flex-none font-semibold text-secondary text-sm">Lv {shown.level}</span>
           )}
         </div>
       )}
-      {drawn.cover === null || drawn.whole === null ? null : (
+      {shown.cover === null || shown.whole === null ? null : (
         <ZoomableCover
-          name={drawn.name ?? "Your character"}
-          source={drawn.cover}
-          whole={drawn.whole}
+          key={shown.slug}
+          name={shown.name ?? "Your character"}
+          source={shown.cover}
+          whole={shown.whole}
         />
       )}
-      {sheet === null || revealed === null ? null : (
+      <CharacterSteps shown={characters} at={at} onPicked={setPicked} />
+      {!shown.isPlayer || sheet === null || revealed === null ? null : (
         <SheetTabs
           sheet={revealed}
           game={sheet.game}

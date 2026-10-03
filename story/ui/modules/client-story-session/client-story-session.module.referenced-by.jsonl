@@ -2,6 +2,7 @@
 {"propertySlug":"import","fileName":"client-story-session.module.code.ts","path":"story/ui/modules/character-cover-panel/character-cover-panel.module.code.tsx","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"client-story-session.module.code.ts","path":"story/ui/modules/client-envelope/client-envelope.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"client-story-session.module.code.ts","path":"story/ui/modules/client-session/client-session.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"client-story-session.module.code.ts","path":"story/ui/modules/player-character-panel/player-character-panel.module.code.tsx","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"client-story-session.module.code.ts","path":"story/ui/modules/scene-cover-panel/scene-cover-panel.module.code.tsx","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"client-story-session.module.code.ts","path":"story/ui/modules/session-envelope/session-envelope.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"client-story-session.module.code.ts","path":"story/ui/modules/story-prose-dividers/story-prose-dividers.module.code.ts","typed":true,"deferred":false}

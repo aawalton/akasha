@@ -121,19 +121,51 @@ export function othersOf(named: readonly Character[]): readonly Character[] {
   return named.filter((one) => one.pageTypeSlug === characterOther.slug)
 }
 
-export function OtherCharactersPanel({
+const NO_COVERS: readonly CharacterCover[] = []
+
+type CoversDrawn = (covers: readonly CharacterCover[]) => ReactNode
+
+type OtherCoversProps = {
+  readonly turns: readonly ClientStoryTurn[]
+  readonly pageTypeSlug?: string | undefined
+  readonly drawn: CoversDrawn
+}
+
+export function OtherCharacterCovers({
   turns,
   pageTypeSlug = storyTurnPlayed.slug,
+  drawn,
+}: OtherCoversProps) {
+  const turnId = latestTurnId(turns)
+  if (turnId === null) return <>{drawn(NO_COVERS)}</>
+  return <TurnCharacters turnId={turnId} pageTypeSlug={pageTypeSlug} drawn={drawn} />
+}
+
+export function OtherCharactersPanel({
+  turns,
+  pageTypeSlug,
 }: {
   readonly turns: readonly ClientStoryTurn[]
   readonly pageTypeSlug?: string | undefined
 }) {
-  const turnId = latestTurnId(turns)
-  if (turnId === null) return null
-  return <TurnCharacters turnId={turnId} pageTypeSlug={pageTypeSlug} />
+  return (
+    <OtherCharacterCovers
+      turns={turns}
+      pageTypeSlug={pageTypeSlug}
+      drawn={(covers) => <Covers covers={covers} />}
+    />
+  )
 }
 
-function TurnCharacters({ turnId, pageTypeSlug }: { turnId: string; pageTypeSlug: string }) {
+function TurnCharacters({
+  turnId,
+  pageTypeSlug,
+  drawn,
+}: {
+  turnId: string
+  pageTypeSlug: string
+  drawn: CoversDrawn
+}) {
   const turnOptions = useMemo<UsePagesSupabaseOptions>(
     () => ({
       pageTypeSlug,
@@ -146,8 +178,8 @@ function TurnCharacters({ turnId, pageTypeSlug }: { turnId: string; pageTypeSlug
   const rows = usePages(turnOptions).rows
   const turn = rows.find((row) => row[ID_KEY] === turnId)
   const keyed = keyedOf(othersOf(charactersIn(turn?.[characters.propertySlug])))
-  if (keyed === "") return null
-  return <TypeRows keyed={keyed} at={0} read={[]} />
+  if (keyed === "") return <>{drawn(NO_COVERS)}</>
+  return <TypeRows keyed={keyed} at={0} read={[]} drawn={drawn} />
 }
 
 type Read = readonly (readonly [string, readonly Page[]])[]
@@ -156,19 +188,24 @@ type Drawing = {
   readonly keyed: string
   readonly at: number
   readonly read: Read
+  readonly drawn: CoversDrawn
 }
 
-function TypeRows({ keyed, at, read }: Drawing) {
+function TypeRows({ keyed, at, read, drawn }: Drawing) {
   const pageTypeSlug = CHARACTER_TYPES[at]
-  if (pageTypeSlug === undefined) return <Covers keyed={keyed} read={read} />
+  if (pageTypeSlug === undefined) {
+    return <>{drawn(characterCoversOf(namedOf(keyed), new Map(read)))}</>
+  }
   const slugs = slugsOf(namedOf(keyed), pageTypeSlug)
   if (slugs.length === 0) {
-    return <TypeRows keyed={keyed} at={at + 1} read={read} />
+    return <TypeRows keyed={keyed} at={at + 1} read={read} drawn={drawn} />
   }
-  return <TypeRowsRead keyed={keyed} at={at} read={read} slugKeyed={slugs.join(" ")} />
+  return (
+    <TypeRowsRead keyed={keyed} at={at} read={read} drawn={drawn} slugKeyed={slugs.join(" ")} />
+  )
 }
 
-function TypeRowsRead({ keyed, at, read, slugKeyed }: Drawing & { slugKeyed: string }) {
+function TypeRowsRead({ keyed, at, read, drawn, slugKeyed }: Drawing & { slugKeyed: string }) {
   const pageTypeSlug = CHARACTER_TYPES[at] ?? ""
   const options = useMemo<UsePagesSupabaseOptions>(
     () => ({
@@ -179,7 +216,7 @@ function TypeRowsRead({ keyed, at, read, slugKeyed }: Drawing & { slugKeyed: str
     [pageTypeSlug, slugKeyed]
   )
   const rows = usePages(options).rows
-  return <TypeRows keyed={keyed} at={at + 1} read={[...read, [pageTypeSlug, rows]]} />
+  return <TypeRows keyed={keyed} at={at + 1} read={[...read, [pageTypeSlug, rows]]} drawn={drawn} />
 }
 
 function Figure({ one }: { one: CharacterCover }) {
@@ -191,18 +228,20 @@ function Figure({ one }: { one: CharacterCover }) {
   )
 }
 
-export function characterShownAt(covers: readonly CharacterCover[], picked: string | null): number {
+type Slugged = { readonly slug: string }
+
+export function characterShownAt(covers: readonly Slugged[], picked: string | null): number {
   const at = picked === null ? -1 : covers.findIndex((one) => one.slug === picked)
   return at === -1 ? 0 : at
 }
 
 type CharacterStep = "earlier" | "later"
 
-export function characterSteppedTo(
-  covers: readonly CharacterCover[],
+export function characterSteppedTo<Shown extends Slugged>(
+  covers: readonly Shown[],
   at: number,
   step: CharacterStep
-): CharacterCover | undefined {
+): Shown | undefined {
   return covers[step === "earlier" ? at - ONE : at + ONE]
 }
 
@@ -224,14 +263,16 @@ const LATER: CharacterStepButton = {
   icon: <ChevronRight aria-hidden />,
 }
 
-function Covers({ keyed, read }: { keyed: string; read: Read }) {
-  const [picked, setPicked] = useState<string | null>(null)
-  const covers = characterCoversOf(namedOf(keyed), new Map(read))
-  const at = characterShownAt(covers, picked)
-  const shown = covers[at]
-  if (shown === undefined) return null
+type CharacterStepsProps = {
+  readonly shown: readonly Slugged[]
+  readonly at: number
+  readonly onPicked: (slug: string) => void
+}
+
+export function CharacterSteps({ shown, at, onPicked }: CharacterStepsProps) {
+  if (shown.length <= ONE) return null
   const stepped = ({ step, label, icon }: CharacterStepButton) => {
-    const to = characterSteppedTo(covers, at, step)
+    const to = characterSteppedTo(shown, at, step)
     return (
       <Button
         variant="secondary"
@@ -239,7 +280,7 @@ function Covers({ keyed, read }: { keyed: string; read: Read }) {
         aria-label={label}
         disabled={to === undefined}
         onClick={() => {
-          if (to !== undefined) setPicked(to.slug)
+          if (to !== undefined) onPicked(to.slug)
         }}
       >
         {icon}
@@ -247,17 +288,25 @@ function Covers({ keyed, read }: { keyed: string; read: Read }) {
     )
   }
   return (
+    <div className="flex items-center justify-between">
+      {stepped(EARLIER)}
+      <span className="font-mono text-[12px] text-secondary">
+        {at + ONE} of {shown.length}
+      </span>
+      {stepped(LATER)}
+    </div>
+  )
+}
+
+function Covers({ covers }: { covers: readonly CharacterCover[] }) {
+  const [picked, setPicked] = useState<string | null>(null)
+  const at = characterShownAt(covers, picked)
+  const shown = covers[at]
+  if (shown === undefined) return null
+  return (
     <SurfaceProvider level={1} className="flex flex-col gap-3 rounded-xl p-4 shadow-sm">
       <Figure key={shown.slug} one={shown} />
-      {covers.length > ONE ? (
-        <div className="flex items-center justify-between">
-          {stepped(EARLIER)}
-          <span className="font-mono text-[12px] text-secondary">
-            {at + ONE} of {covers.length}
-          </span>
-          {stepped(LATER)}
-        </div>
-      ) : null}
+      <CharacterSteps shown={covers} at={at} onPicked={setPicked} />
     </SurfaceProvider>
   )
 }

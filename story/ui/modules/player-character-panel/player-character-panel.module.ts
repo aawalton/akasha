@@ -4,7 +4,7 @@ export const playerCharacterPanel = {
   id: "01a0e817-d6c0-7d98-bdd1-fc786451c663",
   type: "page-type/module",
   slug: "player-character-panel",
-  definition: "the frame every game draws its player's character in: name, then cover, then sheet",
+  definition: "the card every game draws its characters in, the player's first with its sheet",
   code: "tsx",
   test: "ts",
   decisions: [
@@ -38,11 +38,31 @@ export const playerCharacterPanel = {
     },
     {
       decisionKind: "decision-kind/absence",
-      statement: "No card is drawn where there is neither a cover nor a revealed sheet.",
+      statement: "No card is drawn where no character has a cover and no sheet is revealed.",
     },
     {
       decisionKind: "decision-kind/departure",
       statement: "Clicking the cover opens it whole over the page.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The latest turn's other characters follow the player's, in the turn's order.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The card opens on the player's character.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The arrows under the cover step from one character to the next.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The sheet's tabs are drawn only while the player's character is shown.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A panel handed no turns draws the player's character alone.",
     },
   ],
 } as const satisfies Module
