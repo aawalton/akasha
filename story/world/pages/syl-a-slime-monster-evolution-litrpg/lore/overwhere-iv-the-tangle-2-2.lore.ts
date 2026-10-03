@@ -180,5 +180,21 @@ export const overwhereIvTheTangle22 = {
       fact: "In the still air of day 10's morning, the hunters' muttering carries some hundred paces.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "A scout killed, the other shrieks; the hobgoblin roars and the whole file gives chase.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Chasing, goblins run as fast as a woman but string out over a mile; the hobgoblin runs at the rear.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "A running slinger stops to loose only when the quarry is in plain sight within forty paces.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Hot on a chase, the hunters follow their quarry out of the trees and into the ford.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore

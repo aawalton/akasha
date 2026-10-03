@@ -219,5 +219,9 @@ export const overwhereIvTullFarm = {
         "lore/overwhere-iv-brookside-four",
       ],
     },
+    {
+      fact: "Folk crouched behind the sheep wall by Tull's ford cannot be seen from the treeline.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Place
