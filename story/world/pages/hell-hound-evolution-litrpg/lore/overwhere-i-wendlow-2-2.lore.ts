@@ -80,5 +80,9 @@ export const overwhereIWendlow22 = {
       fact: "Nala's night of day 8 at the Bell and Barrel passes quietly; she wakes rested about 6:00 on day 9.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "The tax rider rides in about 10:00 on day 9 with four guards and the magistrate's purse.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
