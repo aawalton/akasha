@@ -6,6 +6,6 @@ export const marcus = {
   slug: "marcus",
   title: "Marcus",
   world: "world/tower-of-nimue",
-  about: "world-character/tower-of-nimue-marcus",
+  about: "character-other/tower-of-nimue-marcus",
   secrets: "jsonl",
 } as const satisfies Lore

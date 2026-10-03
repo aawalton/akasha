@@ -4,6 +4,6 @@ export const towerOfNimueNimue = {
   id: "01a0dee9-e7ba-78c7-885d-00b1295722bc",
   type: "page-type/tower-of-nimue-ins",
   slug: "tower-of-nimue-nimue",
-  character: "world-character/tower-of-nimue-nimue",
+  character: "character-other/tower-of-nimue-nimue",
   value: 11,
 } as const satisfies TowerOfNimueIns
