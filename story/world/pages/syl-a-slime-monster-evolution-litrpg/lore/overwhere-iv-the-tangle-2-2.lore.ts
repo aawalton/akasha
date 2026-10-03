@@ -196,5 +196,25 @@ export const overwhereIvTheTangle22 = {
       fact: "Hot on a chase, the hunters follow their quarry out of the trees and into the ford.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Alone, the scouts keep their distance, shrieking where she is, and close only once the file is up.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Creeping on the scouts, Nala crunched leaves at twenty paces; the nearer saw her and shrieked.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+    },
+    {
+      fact: "The nearer scout skipped back out of reach; the other took up the shriek and hid behind a trunk.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+    },
+    {
+      fact: "At the shrieks, a roar went up some ninety paces off, and the file came charging down at her.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+    },
+    {
+      fact: "The hunters' scouts are their sharpest: a LV 6 and a LV 5, each with a knife and a short spear.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
