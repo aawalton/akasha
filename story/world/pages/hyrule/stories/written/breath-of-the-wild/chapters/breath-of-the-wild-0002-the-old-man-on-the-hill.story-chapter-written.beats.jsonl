@@ -1,0 +1,75 @@
+{"beat":1,"event":"He wakes to birdsong; the fire is embers, still warm, the Slate against his chest.","at":"2026-10-02T06:30:00.000Z"}
+{"beat":2,"event":"His stomach speaks first: a sharp, insistent hunger that narrows the world to food."}
+{"beat":3,"event":"He sits up. The old man is gone, though someone added a log to the fire not long ago.","leave":["character-other/breath-of-the-wild-rhoam"]}
+{"beat":4,"event":"He goes looking for food; dew turns the morning hillside into a field of small fires.","at":"2026-10-02T07:00:00.000Z","place":"place/hyrule-great-plateau"}
+{"beat":5,"event":"He shakes an apple tree and three apples fall; he eats one and pockets the others."}
+{"beat":6,"event":"He pulls pale-capped mushrooms from a log; the Slate hums and flashes a name he does not know."}
+{"beat":7,"event":"A green, long-legged insect lands on his arm; he catches it, cupped, and pockets it."}
+{"beat":8,"event":"At the treeline an axe sits buried in a stump; his grip settles on its handle.","changes":[{"page":"story-item/breath-of-the-wild-woodcutters-axe","key":"character","from":null,"to":"character-other/breath-of-the-wild-link","note":"Link takes the axe left buried in a stump"}]}
+{"beat":9,"event":"He slides it through his belt beside the bone club: two weapons, neither built for fighting."}
+{"beat":10,"event":"Smoke leads him down to a log cabin by a stand of trees, its chimney trailing grey.","at":"2026-10-02T08:00:00.000Z","place":"place/hyrule-old-man-cabin"}
+{"beat":11,"event":"Every log in the woodpile is cut to one length and stacked flush: a man making things perfect."}
+{"beat":12,"event":"Inside, the old man looks up from a diary in a precise hand: \"Ah. You found me.\"","arrive":["character-other/breath-of-the-wild-rhoam"]}
+{"beat":13,"event":"One room: bed, table, dried herbs; outside, an iron cooking pot hangs over prepared coals."}
+{"beat":14,"event":"\"You're hungry. Sit. I have ingredients, but no one to cook for.\""}
+{"beat":15,"event":"Link had already dropped an apple, a mushroom and the insect into the hot pot."}
+{"beat":16,"event":"It made a grey, rock-hard lump; the Slate gave a flat, short chime and no notice."}
+{"beat":17,"event":"He gnaws a piece loose; the Slate shows a full heart restored, but he is still hungry.","changes":[{"page":"metric-character-health/breath-of-the-wild-link","key":"value","from":8,"to":12,"note":"Dubious food restores a full heart: hearts back to 3/3"}]}
+{"beat":18,"event":"The old man looks at the pot, then at Link: \"There is a recipe in my diary.\""}
+{"beat":19,"event":"Link can read little of the careful, formal hand; one entry lists meat, fish and pepper."}
+{"beat":20,"event":"The old man lays out raw meat, a silver bass and three red peppers on a flat stone."}
+{"beat":21,"event":"\"The trick is knowing what goes together. That is the only magic I know.\""}
+{"beat":22,"event":"Link reaches for the pot; the old man raises a hand: \"Not yet. Watch first.\""}
+{"beat":23,"event":"The meat hisses on hot iron, then the fish, then the split peppers."}
+{"beat":24,"event":"Lid on: \"Patience. The most important ingredient. People rush. Fire doesn't.\""}
+{"beat":25,"event":"They wait as the smell builds in layers: meat, then pepper heat, then sweet fish beneath."}
+{"beat":26,"event":"The lid lifts on a golden dish; the Slate chimes: Spicy Meat and Seafood Fry, 4 hearts."}
+{"beat":27,"event":"Link eats with his bare hands, too hot, and empties the pot in three handfuls."}
+{"beat":28,"event":"The old man's portion sits untouched; he pushes it over: \"I don't eat much these days.\""}
+{"beat":29,"event":"Link eats slower now; it is the first meal he has shared with anyone, and it matters."}
+{"beat":30,"event":"\"You eat as though you're never sure when the next meal is coming.\""}
+{"beat":31,"event":"From a chest by the bed the old man brings a dark blue quilted doublet."}
+{"beat":32,"event":"\"The mountain to the north gets cold. Cold enough to kill, if you're not prepared.\""}
+{"beat":33,"event":"Link pulls the doublet on over his shirt; it is warm in his hands, and it fits.","changes":[{"page":"story-item/breath-of-the-wild-warm-doublet","key":"character","from":null,"to":"character-other/breath-of-the-wild-link","note":"The old man gives Link the warm doublet"}]}
+{"beat":34,"event":"\"I had it made some time ago. For a traveller I was expecting.\""}
+{"beat":35,"event":"He thinks better of what he meant to say: \"The mountain can wait. See other places first.\""}
+{"beat":36,"event":"The Temple of Time stands in the Plateau's centre like a broken hand reaching for the sky.","at":"2026-10-02T11:00:00.000Z","place":"place/hyrule-temple-of-time","present":["character-other/breath-of-the-wild-link"]}
+{"beat":37,"event":"He crosses knee-high grass and wildflowers and enters under a worn arch twice his height."}
+{"beat":38,"event":"A long pillared nave: grass between flagstones, ivy on columns, light through the broken roof."}
+{"beat":39,"event":"At the far end stands a pale stone statue of a robed woman, her hands folded in prayer."}
+{"beat":40,"event":"He knows nothing of prayer, but he stands straighter, shoulders settled, chin up."}
+{"beat":41,"event":"The Slate pulses near her; held up, it shows a dimmed prompt, locked."}
+{"beat":42,"event":"He traces words in an old script at her base, understands none, and stays a long time."}
+{"beat":43,"event":"\"She has been here longer than the Temple,\" says the old man at the entrance.","arrive":["character-other/breath-of-the-wild-rhoam"]}
+{"beat":44,"event":"He looks at her, raw, a man looking at someone he failed: \"Longer than most things.\""}
+{"beat":45,"event":"His hands, folded behind him as if before crowds, clench white, then relax."}
+{"beat":46,"event":"His face closes: \"There are ruins to the east. Useful things, maybe. Be careful.\""}
+{"beat":47,"event":"East past the temple, through birches lit green and gold, the Eastern Abbey's ruins appear.","at":"2026-10-02T13:30:00.000Z","place":"place/hyrule-eastern-abbey","present":["character-other/breath-of-the-wild-link"]}
+{"beat":48,"event":"Roofless walls, pillars, a courtyard choked with rubble and ivy; he enters, club in hand."}
+{"beat":49,"event":"A corroded metal dome lies half-buried, one jointed leg sunk in stone, a black eye on top."}
+{"beat":50,"event":"It looks dead, a fossil long past any purpose. He reaches toward it."}
+{"beat":51,"event":"The eye ignites a wrong pink-red; the head swivels, precise, and finds him."}
+{"beat":52,"event":"Every bird stops singing; a whir builds, and a targeting tone: tik, tik, tik."}
+{"beat":53,"event":"A red line runs from the eye to his chest, a warm point tracking him as he breathes."}
+{"beat":54,"event":"The Slate shudders a warning against his hip, and the tone speeds up."}
+{"beat":55,"event":"He throws himself behind a wall as a blue-white beam blasts it apart, stone and heat on his back."}
+{"beat":56,"event":"He runs flat out across the courtyard like an animal; the tone follows, faster."}
+{"beat":57,"event":"He dives behind a pillar; the beam cracks it, and he lies flat waiting for the third shot."}
+{"beat":58,"event":"It never comes: he is past the arc of the half-buried machine, whose head still watches."}
+{"beat":59,"event":"The birds come back one voice at a time; he sits against the stone, hands shaking."}
+{"beat":60,"event":"His fingers are locked on the club: four attack, twelve hits, a stick against that dome."}
+{"beat":61,"event":"The Plateau is no sanctuary; its walls keep him and the machine in, together."}
+{"beat":62,"event":"At the campfire by the temple the old man looks up, sees Link's face, and understands.","at":"2026-10-02T18:00:00.000Z","place":"place/hyrule-old-man-campfire","arrive":["character-other/breath-of-the-wild-rhoam"]}
+{"beat":63,"event":"He asks nothing; he makes room, and sets the morning's leftovers in a leaf within reach."}
+{"beat":64,"event":"Link eats and barely tastes it; the beam has burned a line through his afternoon."}
+{"beat":65,"event":"The old man sets a waterskin beside him and turns one log a quarter-turn."}
+{"beat":66,"event":"\"Those machines cannot be reasoned with. They can barely be fought, not as you are now.\""}
+{"beat":67,"event":"\"But the shrines hold tools made to match them. Four shrines, four trials.\""}
+{"beat":68,"event":"He shows the paraglider again: bring what is in all four shrines, and it is Link's."}
+{"beat":69,"event":"Link looks east at a shrine's amber glow pulsing in the dark, and nods once."}
+{"beat":70,"event":"Something shifts in the old man's face: gratitude, maybe, or grief."}
+{"beat":71,"event":"The fire burns low and Link sleeps with the bone club across his lap.","at":"2026-10-02T21:30:00.000Z"}
+{"beat":72,"event":"The old man sits formal and upright, as on a throne, and watches him sleep."}
+{"beat":73,"event":"He adds a log, precisely. He has waited a hundred years; he can wait one more night."}
+{"beat":74,"event":"Grey, cool morning: the old man is already tending the fire, already watching.","at":"2026-10-03T06:30:00.000Z"}
+{"beat":75,"event":"Link takes up the bone club, checks the Slate on his hip, and walks toward the shrine."}
