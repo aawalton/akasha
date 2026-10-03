@@ -10,6 +10,7 @@ export const overwhereI0004TusksForTheReeve = {
   story: "story-played/overwhere-i",
   ownLength: 768,
   prose: "txt",
+  beats: "jsonl",
   turnCovers: [
     {
       position: 21,
