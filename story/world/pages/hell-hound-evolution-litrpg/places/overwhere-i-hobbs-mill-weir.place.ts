@@ -243,5 +243,9 @@ export const overwhereIHobbsMillWeir = {
       fact: "Creeping to the tail-race wall, Nala knocked a loose stone; a ring spread on the pool.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
+    {
+      fact: "On day 8 the Weir Wyrm hauled out late and wary, about 11:30.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+    },
   ],
 } as const satisfies Place
