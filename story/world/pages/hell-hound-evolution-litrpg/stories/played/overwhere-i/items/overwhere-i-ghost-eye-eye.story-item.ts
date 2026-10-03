@@ -6,7 +6,7 @@ export const overwhereIGhostEyeEye = {
   slug: "overwhere-i-ghost-eye-eye",
   title: "Ghost-Eye's Eye",
   story: "story-played/overwhere-i",
-  character: "character-player/overwhere-i-nala",
+  place: "place/overwhere-i-wendlow",
   description:
-    "A hard pearl of clouded crystal, once the milky left eye of the Greyfen's Drakewolf alpha.",
+    "A hard pearl of clouded crystal, once the milky left eye of the Greyfen's Drakewolf alpha, boxed by Ilse Varrow to set in Nala's two-pearl ring.",
 } as const satisfies StoryItem
