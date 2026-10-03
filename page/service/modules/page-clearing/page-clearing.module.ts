@@ -22,7 +22,13 @@ export const pageClearing = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A key held in a file is refused as cleared, since the file would stay.",
+      statement:
+        "A key held as rows or in a file of its own name is refused as cleared, since the file would stay.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A key held in a file beside the page may be cleared, since that file goes with it.",
     },
     {
       decisionKind: "decision-kind/departure",

@@ -260,6 +260,7 @@ export const ROOT: string = indexedRepo({
       rounds: "jsonl",
     },
   ]),
+  [A_PORTRAIT_AT]: "# held\n",
   [THING_TYPES_AT]: "export type Thing = Record<string, unknown>\n",
   [HELD_THING_AT]: HELD_THING_BODY,
   [HELD_NOTED_AT]: HELD_NOTED_BODY,

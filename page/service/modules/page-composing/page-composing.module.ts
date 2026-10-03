@@ -291,6 +291,10 @@ export const pageComposing = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A key cleared that is held in a file beside the page takes that file away.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement:
         "A page a caller states `fresh` for is handed on naming its page type, its slug and its path.",
     },

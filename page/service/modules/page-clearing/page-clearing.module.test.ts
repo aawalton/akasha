@@ -1,9 +1,12 @@
 import { afterAll, expect, test } from "bun:test"
 import { scratch } from "akasha/page/index/test-fixtures/fixture-world/fixture-world.test-fixture.code.ts"
+import type { Folded } from "akasha/page/service/modules/page-composing/page-composing.module.code.ts"
 import {
   A_CRATE,
   A_HELD_FIGURE,
   A_HELD_THING,
+  A_NEW_FIGURE,
+  A_PORTRAIT_AT,
   bodyIn,
   composing,
   HELD_THING_BODY,
@@ -42,11 +45,28 @@ test("a key kept beside the page is refused as cleared", () => {
   expect(refusalIn(said)).toContain("kept beside the page")
 })
 
-test("a key held in a file is refused as cleared", () => {
-  const portrait = composing({ ...A_HELD_FIGURE, values: {}, clears: ["portrait"] })
-  expect(refusalIn(portrait)).toContain("held in a file")
+function removesIn(said: Folded): readonly string[] {
+  return "removes" in said ? said.removes : []
+}
+
+test("a key held in a file beside the page is cleared with that file", () => {
+  const said = composing({ ...A_HELD_FIGURE, values: {}, clears: ["portrait"] })
+  expect(refusalIn(said)).toBe("")
+  expect(keysIn(said)).not.toContain("portrait")
+  expect(removesIn(said)).toEqual([A_PORTRAIT_AT])
+})
+
+test("a key held in a file beside a page holding no such file is cleared taking nothing away", () => {
+  const said = composing({ ...A_NEW_FIGURE, merge: true, clears: ["portrait"] })
+  expect(refusalIn(said)).toBe("")
+  expect(removesIn(said)).toEqual([])
+})
+
+test("a key held as rows or in a file of its own name is refused as cleared", () => {
   const rounds = composing({ ...A_HELD_FIGURE, values: {}, clears: ["rounds"] })
-  expect(refusalIn(rounds)).toContain("held in a file")
+  expect(refusalIn(rounds)).toContain("held in a file as rows")
+  const manifest = composing({ ...A_CRATE, values: {}, merge: true, clears: ["manifest"] })
+  expect(refusalIn(manifest)).toContain("held in a file named `package.json`")
 })
 
 test("an optional key handed null or undefined is left off the page it was on", () => {

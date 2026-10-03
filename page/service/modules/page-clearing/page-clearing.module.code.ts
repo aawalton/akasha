@@ -1,3 +1,4 @@
+import { ENTRY_PROPERTY } from "akasha/page/index/modules/entries/index-entries.module.code.ts"
 import type { Carried } from "akasha/page/type/modules/declared-properties/declared-properties.module.code.ts"
 
 type Clearing = {
@@ -23,8 +24,13 @@ export function clearRefused(
     if (one.uncommitted) {
       return `${clears}, and \`${key}\` is kept beside the page, where clearing it reaches nothing`
     }
-    if (filedBy?.get(one.propertySlug) !== undefined) {
-      return `${clears}, and \`${key}\` is held in a file, which clearing it would leave behind`
+    const named = filedBy?.get(one.propertySlug)
+    if (named === undefined) continue
+    if (one.pageTypeSlug === ENTRY_PROPERTY) {
+      return `${clears}, and \`${key}\` is held in a file as rows, which clearing it would leave behind`
+    }
+    if (named !== null) {
+      return `${clears}, and \`${key}\` is held in a file named \`${named}\`, which clearing it would leave behind`
     }
   }
   return null

@@ -89,6 +89,13 @@ function bodyRefused(
   return null
 }
 
+function besideHeld(root: string, at: string, one: Carried, was: Value | null): string | null {
+  const ending = was?.[one.key]
+  if (typeof ending !== "string") return null
+  const beside = besideAt(at, one.propertySlug, ending)
+  return beside !== null && existsSync(join(root, beside)) ? beside : null
+}
+
 export type Naming = {
   readonly pageTypeSlug: string
   readonly slug: string
@@ -260,7 +267,11 @@ export function composedFor(root: string, named: Naming, source?: Source): Compo
   if (unclear !== null) return { refused: unclear }
   const clears = new Set(named.clears ?? [])
   for (const one of carried) {
-    if (clears.has(one.key)) continue
+    if (clears.has(one.key)) {
+      const gone = filedBy?.get(one.propertySlug) === null ? besideHeld(root, at, one, was) : null
+      if (gone !== null) removes.push(gone)
+      continue
+    }
     const stated = one.key in named.values
     const bodied = one.key in bodies
     if (!stated && !bodied && !(one.key in already)) continue
