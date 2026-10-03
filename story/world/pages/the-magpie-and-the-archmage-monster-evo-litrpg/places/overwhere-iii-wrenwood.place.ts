@@ -62,7 +62,7 @@ export const overwhereIiiWrenwood = {
     },
     {
       fact: "Charcoal-burners work clearings along the south road; one hut by the Wren Brook still smokes.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
     {
       fact: "Cal Fenn, a young hunter, went into the deep wood at midwinter and has not come back.",
