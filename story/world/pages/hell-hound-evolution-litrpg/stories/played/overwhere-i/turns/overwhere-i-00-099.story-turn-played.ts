@@ -7,9 +7,20 @@ export const overwhereI00099 = {
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-i"],
   position: 99,
-  stepStatus: "step-status/game-master",
+  stepStatus: "step-status/writer",
   action:
     "“I’m level 10 now. I was 7 when I met Voss. 4 when I went after the wolves. I know, I’m mad and driving for an early grave, but I got the job done.” I tell her with a manic smile. “Didn’t know Voss was 24, but that explains why he took so much killing. He was harder to kill on his own than they entire wolf pack.”",
+  beats: [
+    '"I\'m level 10 now. I was 7 when I met Voss. 4 when I went after the wolves," Nala says.',
+    '"I know, I\'m mad and driving for an early grave, but I got the job done," she adds, grinning wild.',
+    '"Didn\'t know Voss was 24, but that explains why he took so much killing."',
+    '"He was harder to kill on his own than the entire wolf pack."',
+    'Grete gives one short laugh. "The march has a use for mad ones. Gods know it\'s short of them."',
+    "Four to ten in a handful of days: she nods, as if that is just what killing far above you does.",
+    "She stoops, unlocks an iron strongbox under the counter, and pulls a ledger toward her.",
+    '"I\'ll need a name for the receipt," she says, pen poised.',
+    '"My Analyze shows none for you. What do I write?"',
+  ],
   lore: ["place/overwhere-i-wendlow"],
   endsAt: "2026-10-05T12:20:00.000Z",
 } as const satisfies StoryTurnPlayed
