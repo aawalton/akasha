@@ -4,10 +4,13 @@ export const overwhereI00116 = {
   id: "01a101ee-a8d4-7565-8250-1ef1c82b32c4",
   type: "page-type/story-turn-played",
   slug: "overwhere-i-00-116",
+  ownLength: 429,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-i"],
   position: 116,
-  stepStatus: "step-status/writer",
+  prose: "txt",
+  characters: ["character-player/overwhere-i-nala"],
+  stepStatus: "step-status/reviewers",
   action:
     "Dinner and bed then back to the hunter’s guild to cash in my iou’s and check for new postings.",
   beats: [
@@ -29,6 +32,11 @@ export const overwhereI00116 = {
     "Grete unfolds a note that came with the purse, reads it, and holds it out to Nala.",
     '"Magistrate Varne asks Nala Arthur to the Moot Hall at noon. Mind your tongue up there."',
   ],
-  lore: ["lore/overwhere-i-wendlow-2", "lore/overwhere-i-wendlow-2-2"],
+  lore: [
+    "lore/overwhere-i-nala",
+    "lore/overwhere-i-nala-2",
+    "lore/overwhere-i-wendlow-2",
+    "lore/overwhere-i-wendlow-2-2",
+  ],
   endsAt: "2026-10-07T10:35:00.000Z",
 } as const satisfies StoryTurnPlayed
