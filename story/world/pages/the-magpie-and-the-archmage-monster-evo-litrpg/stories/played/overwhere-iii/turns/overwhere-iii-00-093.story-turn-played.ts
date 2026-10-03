@@ -14,7 +14,7 @@ export const overwhereIii00093 = {
     "character-other/overwhere-iii-marda-hesk",
     "character-other/overwhere-iii-brannagh-tull",
   ],
-  stepStatus: "step-status/game-master",
+  stepStatus: "step-status/writer",
   action:
     "“Jackalopes.” I go out to the shrine and use ambient weaves to cleanse the five blightstones.",
   beats: [
@@ -23,13 +23,14 @@ export const overwhereIii00093 = {
     "Nala walks out the south gate and up the two miles to the shrine.",
     "White-gold current hums thick around the shrine stones as she sits beside them.",
     "She tips Brannagh's clay cup and sets the first seed stone on her palm.",
-    "She draws the lent current into a Cleansing Weave; it burns her a little, and her well stays full.",
+    "She draws the lent current into a Cleansing Weave; it burns her a little and costs her well nothing.",
     "The black knot splits cleanly. A glimmer speck glows where it was.",
     "The second stone is stubborn; she holds the weave a breath longer before it cracks.",
     "The third and fourth crack at a touch, one after the other.",
     "The fifth fights her, then gives, a speck rolling into her palm.",
     "Five small burns sting her hands. Her own well is untouched, and has filled a little.",
-    "The clay cup is empty of seed stones. Six glimmer specks are hers now.",
+    "The clay cup is empty of seed stones.",
+    "Six glimmer specks.",
   ],
   issues: [
     '"The clay cup is empty of seed stones, and six glimmer specks lie in your palm." - Leave It Open',
