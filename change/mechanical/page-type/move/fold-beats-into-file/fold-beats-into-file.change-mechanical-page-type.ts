@@ -7,7 +7,8 @@ export const foldBeatsIntoFile = {
   changeMode: "change-mode/change-mode-move",
   changeTargetType: "change-target-type/page-type",
   changeTargetSubtype: "change-target-subtype/page-type-page-property",
-  definition: "a turn's inline beats, scenes, changes and memory folded into its one beats file",
+  definition:
+    "a turn's inline beats, scenes, changes, memory and issues folded into files beside it",
   takesAtMost: true,
   code: "ts",
   test: "ts",
@@ -47,6 +48,18 @@ export const foldBeatsIntoFile = {
     {
       decisionKind: "decision-kind/departure",
       statement: "A picture whose quote the prose lacks goes onto the last beat.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A page's inline issue lists go into text files beside it, one issue to a line.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The page then states each list's key as its file, and an empty list just goes.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A page with beats and issues both left to fold folds its beats first.",
     },
     {
       decisionKind: "decision-kind/departure",

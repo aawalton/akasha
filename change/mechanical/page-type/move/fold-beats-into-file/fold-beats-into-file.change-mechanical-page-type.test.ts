@@ -157,6 +157,37 @@ test("a page's pictures go onto the beats they show, found by their quote in the
   expect(bodies.get(ONE_AT) ?? "").not.toContain("pictured")
 })
 
+const ISSUED_PAGE = `export const one = {
+  type: "page-type/${TYPE}",
+  slug: "one",
+  beats: "jsonl",
+  mechanicsIssues: [],
+  issues: ["beat 1: a fault", "beat 2: another"],
+  position: 1,
+} as const
+`
+
+const ISSUED = {
+  slug: "one",
+  beats: "jsonl",
+  mechanicsIssues: [],
+  issues: ["beat 1: a fault", "beat 2: another"],
+}
+
+test("a page's issues go into a file beside it, one to a line, and an empty list just goes", () => {
+  const world = worldFor(ISSUED, { [ONE_AT]: ISSUED_PAGE })
+
+  const said = foldBeatsIntoFile(world, { pageType: TYPE })
+
+  expect(said.refused).toBeNull()
+  const bodies = bodiesIn(said, world.base)
+  expect(bodies.get(`${BASE}.issues.txt`)).toBe("beat 1: a fault\nbeat 2: another\n")
+  const page = bodies.get(ONE_AT) ?? ""
+  expect(page).toContain(`beats: "jsonl",\n  issues: "txt",\n  position: 1,`)
+  expect(page).not.toContain("mechanicsIssues")
+  expect(bodies.has(`${BASE}.mechanics-issues.txt`)).toBe(false)
+})
+
 test("a count handed in bounds how many pages are folded", () => {
   const said = foldBeatsIntoFile(worldFor(FOLDING), { pageType: TYPE, atMost: 0 })
 

@@ -174,6 +174,67 @@ export function foldedAt(world: World, path: string, value: Value): readonly Fil
   return [...edits, ...adding, ...gone]
 }
 
+const ISSUE_FILES: Readonly<Record<string, string>> = {
+  issues: "issues",
+  mechanicsIssues: "mechanics-issues",
+}
+
+const ISSUES_HELD = "txt"
+
+type Source = ReturnType<typeof parsedAs>
+
+type Owner = NonNullable<ReturnType<typeof literalIn>>
+
+function issueSplice(
+  text: string,
+  source: Source,
+  owner: Owner,
+  key: string,
+  filed: boolean
+): Splice | null {
+  const held = owner.properties[placeOf(owner, key)]
+  if (held === undefined) return null
+  if (filed) {
+    return { from: held.getStart(source), to: held.getEnd(), put: `${key}: "${ISSUES_HELD}"` }
+  }
+  const spots = splicesIn(text, source, owner, [{ written: "dropped", key }])
+  return typeof spots === "string" ? null : (spots[0] ?? null)
+}
+
+export function issuesFoldedAt(
+  world: World,
+  path: string,
+  value: Value
+): readonly FileChange[] | string {
+  const inline = Object.keys(ISSUE_FILES).filter((key) => Array.isArray(value[key]))
+  if (inline.length === 0) return []
+  const text = world.textOf(path)
+  if (text === null) return `\`${path}\` could not be read`
+  const source = parsedAs(path, text)
+  const owner = literalIn(source)
+  if (owner === null) return `\`${path}\` exports no object`
+  const spots: Splice[] = []
+  const adding: FileChange[] = []
+  for (const key of inline) {
+    const held = value[key]
+    const lines = Array.isArray(held) ? held.filter((one) => typeof one === "string") : []
+    const file = besideAt(path, ISSUE_FILES[key] ?? key, ISSUES_HELD)
+    const filed = lines.length > 0 && file !== null
+    const spot = issueSplice(text, source, owner, key, filed)
+    if (spot !== null) spots.push(spot)
+    if (filed) adding.push({ kind: "add", path: file, content: `${lines.join("\n")}\n` })
+  }
+  return [...splicedIn(path, text, spots), ...adding]
+}
+
+function bothFoldedAt(world: World, path: string, value: Value): readonly FileChange[] | string {
+  const beats = foldedAt(world, path, value)
+  if (typeof beats === "string") return beats
+  if (beats.length === 0) return issuesFoldedAt(world, path, value)
+  if (Object.keys(ISSUE_FILES).every((key) => !Array.isArray(value[key]))) return beats
+  return `\`${path}\` holds beats and issues both left to fold, so run the change again after`
+}
+
 export function foldBeatsIntoFile(world: World, given: Asked): Said {
   if (world.index.propertiesIfNamed(given.pageType) === null) {
     return refusing(`\`${given.pageType}\` names no page type`)
@@ -184,7 +245,7 @@ export function foldBeatsIntoFile(world: World, given: Asked): Said {
   for (const kind of world.index.kindsUnder(given.pageType)) {
     for (const [path, value] of world.index.valuesByPath(kind)) {
       if (atMost !== null && folded >= atMost) return stating(edits)
-      const made = foldedAt(world, path, value)
+      const made = bothFoldedAt(world, path, value)
       if (typeof made === "string") return refusing(made)
       if (made.length === 0) continue
       folded += 1
