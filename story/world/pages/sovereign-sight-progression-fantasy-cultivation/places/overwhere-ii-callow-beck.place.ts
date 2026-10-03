@@ -258,7 +258,7 @@ export const overwhereIiCallowBeck = {
     },
     {
       fact: "Parting the gully pool a cupful at a time would take Nala weeks of fine work.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Pulled into Nala, the gully's black soaks into her well fast, a barrel's worth in a few minutes.",
