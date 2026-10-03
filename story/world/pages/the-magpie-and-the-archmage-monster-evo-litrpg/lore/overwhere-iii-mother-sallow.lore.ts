@@ -32,6 +32,10 @@ export const overwhereIiiMotherSallow = {
       fact: "Her true mana aura is a sick violet-black; Mana Weaver would show it through the charm.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "She is forty, not sixty; an illusion charm on a bone ring ages her face and hides her aura.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
