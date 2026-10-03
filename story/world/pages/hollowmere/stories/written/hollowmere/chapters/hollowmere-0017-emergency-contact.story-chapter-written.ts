@@ -5,7 +5,7 @@ export const hollowmere0017EmergencyContact = {
   type: "page-type/story-chapter-written",
   slug: "hollowmere-0017-emergency-contact",
   cover: "image/image-6fc4a56dc7904e91",
-  ownProgress: 80,
+  ownProgress: 174,
   position: 17,
   unit: "unit/words",
   title: "Emergency Contact",
