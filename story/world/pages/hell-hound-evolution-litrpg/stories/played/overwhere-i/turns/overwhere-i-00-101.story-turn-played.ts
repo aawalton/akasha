@@ -4,6 +4,7 @@ export const overwhereI00101 = {
   id: "01a0ff3b-55f4-72bb-b806-2eeaf4fa6f3c",
   type: "page-type/story-turn-played",
   slug: "overwhere-i-00-101",
+  cover: "image/image-888c57f1e6beb2e3",
   ownLength: 228,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-i"],
@@ -14,7 +15,7 @@ export const overwhereI00101 = {
     "character-other/overwhere-i-harl-voss",
     "character-other/overwhere-i-ghost-eye",
   ],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action: "“Yeah, put me down. I definitely see more killing things for money in my future.”",
   beats: [
     '"Yeah, put me down. I definitely see more killing things for money in my future," Nala says.',
@@ -34,6 +35,12 @@ export const overwhereI00101 = {
     "place/overwhere-i-wendlow",
   ],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/mechanics", "story-recorder/memory"],
+  recordedBy: [
+    "story-recorder/inventory",
+    "story-recorder/mechanics",
+    "story-recorder/memory",
+    "story-recorder/picture",
+  ],
   endsAt: "2026-10-05T12:35:00.000Z",
+  coverAfter: "Grete taps the slips with a scarred finger.",
 } as const satisfies StoryTurnPlayed
