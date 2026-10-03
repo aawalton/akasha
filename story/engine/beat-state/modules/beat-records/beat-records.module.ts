@@ -22,6 +22,10 @@ export const beatRecords = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A written chapter's pictures are a list on the line of the beat each shows.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A part a beat has none of is left off its line.",
     },
     {

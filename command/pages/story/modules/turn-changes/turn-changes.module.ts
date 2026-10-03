@@ -22,6 +22,10 @@ export const turnChanges = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A written chapter's pictures sit in its beats file, so its page stays small.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "The game master's move writes the beats afresh, with no step's part after it.",
     },
     {

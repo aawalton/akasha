@@ -8,6 +8,10 @@ import {
   memoryIn,
 } from "akasha/story/engine/beat-state/modules/beat-memory/beat-memory.module.code.ts"
 import {
+  type Pictured,
+  picturedIn,
+} from "akasha/story/engine/beat-state/modules/beat-pictures/beat-pictures.module.code.ts"
+import {
   type BeatScene,
   sceneOf,
 } from "akasha/story/engine/beat-state/modules/beat-replay/beat-replay.module.code.ts"
@@ -17,6 +21,7 @@ export type Beats = {
   readonly scenes: readonly BeatScene[]
   readonly changes: readonly BeatChange[]
   readonly memory: readonly Memory[]
+  readonly pictured?: readonly Pictured[]
 }
 
 type Refused = { readonly refused: string }
@@ -31,9 +36,11 @@ const CHANGES = "changes"
 
 const MEMORY = "memory"
 
+const PICTURED = "pictured"
+
 const SCENE_KEYS: readonly string[] = ["at", "place", "present", "arrive", "leave"]
 
-const KNOWN: readonly string[] = [BEAT, EVENT, ...SCENE_KEYS, CHANGES, MEMORY]
+const KNOWN: readonly string[] = [BEAT, EVENT, ...SCENE_KEYS, CHANGES, MEMORY, PICTURED]
 
 const LINES = /\r?\n/
 
@@ -58,6 +65,7 @@ type Read = {
   readonly scenes: BeatScene[]
   readonly changes: string[]
   readonly memory: string[]
+  readonly pictured: string[]
 }
 
 function lineRead(read: Read, line: string, beat: number): string | null {
@@ -76,10 +84,13 @@ function lineRead(read: Read, line: string, beat: number): string | null {
   if (typeof changes === "string") return changes
   const memory = entriesUnder(beat, held[MEMORY])
   if (typeof memory === "string") return memory
+  const pictured = entriesUnder(beat, held[PICTURED])
+  if (typeof pictured === "string") return pictured
   read.beats.push(event.trim())
   if (Object.keys(scene).length > 1) read.scenes.push(scene)
   read.changes.push(...changes)
   read.memory.push(...memory)
+  read.pictured.push(...pictured)
   return null
 }
 
@@ -88,7 +99,7 @@ export function beatsIn(text: string): Beats | Refused {
     .split(LINES)
     .map((one) => one.trim())
     .filter((one) => one !== "")
-  const read: Read = { beats: [], scenes: [], changes: [], memory: [] }
+  const read: Read = { beats: [], scenes: [], changes: [], memory: [], pictured: [] }
   for (const [index, line] of lines.entries()) {
     const wrong = lineRead(read, line, index + 1)
     if (wrong !== null) return { refused: wrong }
@@ -97,7 +108,10 @@ export function beatsIn(text: string): Beats | Refused {
   if ("refused" in changes) return changes
   const memory = memoryIn(read.memory, read.beats.length)
   if ("refused" in memory) return memory
-  return { beats: read.beats, scenes: read.scenes, changes, memory }
+  const pictured = picturedIn(read.pictured, read.beats.length)
+  if ("refused" in pictured) return pictured
+  const held = { beats: read.beats, scenes: read.scenes, changes, memory }
+  return pictured.length === 0 ? held : { ...held, pictured }
 }
 
 function unbeaten(one: Entry): Entry {
@@ -111,12 +125,14 @@ export function beatsWritten(held: Beats): string {
       const scene = held.scenes.find((one) => one.beat === beat)
       const changes = held.changes.filter((one) => one.beat === beat).map(unbeaten)
       const memory = held.memory.filter((one) => one.beat === beat).map(unbeaten)
+      const pictured = (held.pictured ?? []).filter((one) => one.beat === beat).map(unbeaten)
       const record = {
         [BEAT]: beat,
         [EVENT]: event,
         ...(scene === undefined ? {} : unbeaten(scene)),
         ...(changes.length === 0 ? {} : { [CHANGES]: changes }),
         ...(memory.length === 0 ? {} : { [MEMORY]: memory }),
+        ...(pictured.length === 0 ? {} : { [PICTURED]: pictured }),
       }
       return `${JSON.stringify(record)}\n`
     })

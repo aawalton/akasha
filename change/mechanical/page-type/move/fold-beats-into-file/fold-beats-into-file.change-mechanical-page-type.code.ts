@@ -4,6 +4,7 @@ import {
   type Said,
   type Splice,
   splicedIn,
+  splicedTo,
   stating,
 } from "akasha/change/modules/answer/change-answer.module.code.ts"
 import { literalIn } from "akasha/change/modules/page-literal/page-literal.module.code.ts"
@@ -17,7 +18,14 @@ import { parsedAs } from "akasha/code/reading/modules/code-source/code-source.mo
 import { besideAt } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
 import { changesIn } from "akasha/story/engine/beat-state/modules/beat-changes/beat-changes.module.code.ts"
 import { memoryIn } from "akasha/story/engine/beat-state/modules/beat-memory/beat-memory.module.code.ts"
-import { beatsWritten } from "akasha/story/engine/beat-state/modules/beat-records/beat-records.module.code.ts"
+import {
+  type Pictured,
+  picturedIn,
+} from "akasha/story/engine/beat-state/modules/beat-pictures/beat-pictures.module.code.ts"
+import {
+  beatsIn,
+  beatsWritten,
+} from "akasha/story/engine/beat-state/modules/beat-records/beat-records.module.code.ts"
 import { scenesIn } from "akasha/story/engine/beat-state/modules/beat-replay/beat-replay.module.code.ts"
 
 export type Asked = {
@@ -45,7 +53,53 @@ const MOST = Number.MAX_SAFE_INTEGER
 
 const LINES = /\r?\n/
 
+const PICTURED = "pictured"
+
+const PROSE = "prose"
+
 const FOLDED = [SCENES, CHANGES, MEMORY]
+
+const DROPPED = [...FOLDED, PICTURED]
+
+function beatOf(prose: string, after: unknown, beats: number): number {
+  const quote = typeof after === "string" ? after.trim() : ""
+  const found = quote === "" ? -1 : prose.indexOf(quote)
+  if (found < 0 || prose.length === 0) return beats
+  return Math.min(beats, Math.floor((found / prose.length) * beats) + 1)
+}
+
+function picturesOf(
+  world: World,
+  path: string,
+  value: Value,
+  beats: number
+): readonly Pictured[] | string {
+  const held = value[PICTURED]
+  if (!Array.isArray(held) || held.length === 0 || beats === 0) return []
+  const ending = value[PROSE]
+  const at = typeof ending === "string" ? besideAt(path, PROSE, ending) : null
+  const prose = at === null ? "" : (world.textOf(at) ?? "")
+  const lines = held.map((one) => {
+    const entry = typeof one === "object" && one !== null ? (one as Value) : {}
+    return JSON.stringify({ ...entry, beat: beatOf(prose, entry["coverAfter"], beats) })
+  })
+  const read = picturedIn(lines, beats)
+  return "refused" in read ? `\`${path}\`: ${read.refused}` : read
+}
+
+function picturedFolded(world: World, path: string, value: Value) {
+  const file = besideAt(path, BEATS, HELD)
+  const text = file === null ? null : world.textOf(file)
+  if (file === null || text === null) return `\`${path}\` states \`${BEATS}\`, and no file reads`
+  const read = beatsIn(text)
+  if ("refused" in read) return `\`${path}\`: ${read.refused}`
+  const pictured = picturesOf(world, path, value, read.beats.length)
+  if (typeof pictured === "string") return pictured
+  const edits = pageEdits(world, path, false, false)
+  if (typeof edits === "string") return edits
+  const body = beatsWritten({ ...read, pictured: [...(read.pictured ?? []), ...pictured] })
+  return [...edits, ...splicedIn(file, text, [splicedTo(text, body)])]
+}
 
 type Beside = { readonly at: string; readonly lines: readonly string[] } | null
 
@@ -69,7 +123,7 @@ function pageEdits(world: World, path: string, inline: boolean, filed: boolean) 
   const source = parsedAs(path, text)
   const owner = literalIn(source)
   if (owner === null) return `\`${path}\` exports no object`
-  const dropped = [...FOLDED, ...(inline && !filed ? [BEATS] : [])]
+  const dropped = [...DROPPED, ...(inline && !filed ? [BEATS] : [])]
   const written: Written[] = dropped.map((key) => ({ written: "dropped", key }))
   const spots = splicesIn(text, source, owner, written)
   if (typeof spots === "string") return `\`${path}\` is refused, and ${spots}`
@@ -90,8 +144,10 @@ function besidesOf(world: World, path: string, value: Value): readonly [Beside, 
 export function foldedAt(world: World, path: string, value: Value): readonly FileChange[] | string {
   const beats = value[BEATS]
   const inline = Array.isArray(beats)
-  if (!inline && FOLDED.every((key) => value[key] === undefined)) return []
+  const picturing = value[PICTURED] !== undefined
+  if (!inline && !picturing && FOLDED.every((key) => value[key] === undefined)) return []
   if (!inline && beats !== undefined) {
+    if (FOLDED.every((key) => value[key] === undefined)) return picturedFolded(world, path, value)
     return `\`${path}\` states \`${BEATS}\` as a file already and holds a key left to fold`
   }
   const besides = besidesOf(world, path, value)
@@ -107,7 +163,9 @@ export function foldedAt(world: World, path: string, value: Value): readonly Fil
   if (typeof edits === "string") return edits
   const file = besideAt(path, BEATS, HELD)
   const scenes = scenesIn(value[SCENES])
-  const body = beatsWritten({ beats: events, scenes, changes, memory })
+  const pictured = picturesOf(world, path, value, events.length)
+  if (typeof pictured === "string") return pictured
+  const body = beatsWritten({ beats: events, scenes, changes, memory, pictured })
   const adding: FileChange[] =
     filed && file !== null ? [{ kind: "add", path: file, content: body }] : []
   const gone = [changed, remembered].flatMap((one): FileChange[] =>

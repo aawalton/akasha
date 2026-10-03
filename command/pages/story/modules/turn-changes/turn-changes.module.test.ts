@@ -83,6 +83,14 @@ test("each step replaces only its own part of the beats, and the game master sta
   expect(beatsBodyOf(held, movedOf({}))).toBeNull()
 })
 
+test("a picture recorder's pictures land on their beats and later moves keep them", () => {
+  const shown = { beat: 1, cover: "image/image-a", coverAfter: "Elsie trains", setting: "the yard" }
+  const pictured = beatsBodyOf(PLANNED, movedOf({ pictured: [shown] }))
+  expect(pictured).toBe(beatsWritten({ ...PLANNED, pictured: [shown] }))
+  const kept = beatsBodyOf({ ...PLANNED, pictured: [shown] }, movedOf({ memory: [LEARNS] }))
+  expect(kept).toBe(beatsWritten({ ...PLANNED, memory: [LEARNS], pictured: [shown] }))
+})
+
 test("a mechanics seat's changes are checked with the changes the turn holds already", () => {
   const held = heldAt("mechanics", { changes: [GAIN] })
   const again = { ...GAIN, beat: 2, note: "Elsie gains 40 XP again" }

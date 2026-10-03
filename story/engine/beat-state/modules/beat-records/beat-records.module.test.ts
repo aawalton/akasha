@@ -39,6 +39,16 @@ test("writing a file back and reading it again gives the same beats", () => {
   expect(beatsIn(beatsWritten(HELD))).toEqual(HELD)
 })
 
+test("a picture sits on the line of the beat it shows, and reads back", () => {
+  const picture = { beat: 2, cover: "image/image-a", coverAfter: "She walks", setting: "the hall" }
+  const pictured = { ...HELD, pictured: [picture] }
+  const line = JSON.parse(beatsWritten(pictured).split("\n")[1] ?? "")
+  expect(line.pictured).toEqual([
+    { cover: "image/image-a", coverAfter: "She walks", setting: "the hall" },
+  ])
+  expect(beatsIn(beatsWritten(pictured))).toEqual(pictured)
+})
+
 test("a part a beat has none of is left off its line", () => {
   const plain = { beats: ["A plain beat."], scenes: [], changes: [], memory: [] }
   expect(beatsWritten(plain)).toBe(`${JSON.stringify({ beat: 1, event: "A plain beat." })}\n`)

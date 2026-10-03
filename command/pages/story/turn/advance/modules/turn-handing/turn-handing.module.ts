@@ -18,6 +18,10 @@ export const turnHanding = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A pictures file holds one picture to a line, each naming the beat it shows.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A title is handed in only with a written chapter's prose, and always with it.",
     },
     {

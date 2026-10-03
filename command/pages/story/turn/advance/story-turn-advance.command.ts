@@ -78,6 +78,10 @@ export const storyTurnAdvance = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A picture recorder's advance sets a chapter's pictures on the beats they show.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A recorder's advance moves the edits it drafted beside the turn before it lands.",
     },
     {
@@ -191,6 +195,7 @@ export const storyTurnAdvance = {
     { argument: "argument/recorder" },
     { argument: "argument/changes-file" },
     { argument: "argument/memory-file" },
+    { argument: "argument/pictured-file" },
     { argument: "argument/title" },
   ],
 } as const satisfies Command

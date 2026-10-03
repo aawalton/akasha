@@ -34,9 +34,11 @@ export type Changing = (root: string) => Reading
 
 export function beatsBodyOf(held: Beats, said: Moved): string | null {
   if (said.planned !== null) return beatsWritten({ ...said.planned, changes: [], memory: [] })
-  if (said.changes === null && said.memory === null) return null
+  const pictured = said.pictured ?? null
+  if (said.changes === null && said.memory === null && pictured === null) return null
   const changes = said.changes ?? held.changes
-  return beatsWritten({ ...held, changes, memory: said.memory ?? held.memory })
+  const memory = said.memory ?? held.memory
+  return beatsWritten({ ...held, changes, memory, pictured: pictured ?? held.pictured ?? [] })
 }
 
 export function bodiesOf(

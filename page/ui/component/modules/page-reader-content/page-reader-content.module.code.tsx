@@ -44,7 +44,7 @@ const FILE_PROPERTY = "file-property"
 
 const READER_COLUMN = "mx-auto w-full max-w-[68ch]! px-6"
 
-function useFileBody(href: string | null): string | null {
+export function useFileBody(href: string | null): string | null {
   const [held, setHeld] = useState<{ href: string; text: string } | null>(null)
   useEffect(() => {
     if (href === null) return

@@ -8,6 +8,7 @@ import { writer } from "akasha/story/chapter/step-status/pages/writer.step-statu
 import { stepStatus } from "akasha/story/chapter/step-status/step-status.page-type.ts"
 import type { BeatChange } from "akasha/story/engine/beat-state/modules/beat-changes/beat-changes.module.code.ts"
 import type { Memory } from "akasha/story/engine/beat-state/modules/beat-memory/beat-memory.module.code.ts"
+import type { Pictured } from "akasha/story/engine/beat-state/modules/beat-pictures/beat-pictures.module.code.ts"
 import type {
   BeatScene,
   Planned,
@@ -70,6 +71,7 @@ export type Handed =
       readonly changes?: readonly BeatChange[]
       readonly issues?: readonly string[]
       readonly memory?: readonly Memory[]
+      readonly pictured?: readonly Pictured[]
     }
 
 export type Noun = "turn" | "chapter"
@@ -108,6 +110,7 @@ export type Moved = {
   readonly planned: Planned | null
   readonly changes: readonly BeatChange[] | null
   readonly memory: readonly Memory[] | null
+  readonly pictured?: readonly Pictured[] | null
   readonly starts: readonly Start[]
   readonly stopsCaller: boolean
   readonly landsKept: boolean

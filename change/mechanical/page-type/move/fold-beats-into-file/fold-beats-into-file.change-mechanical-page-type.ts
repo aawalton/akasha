@@ -42,6 +42,14 @@ export const foldBeatsIntoFile = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A page's pictures go onto beats, each where its quote falls in the prose.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A picture whose quote the prose lacks goes onto the last beat.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A page holding none of those keys is passed over rather than refused.",
     },
     {

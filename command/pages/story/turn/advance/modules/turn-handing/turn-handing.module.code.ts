@@ -4,6 +4,7 @@ import { changesFile } from "akasha/command/argument/pages/changes-file.argument
 import { character } from "akasha/command/argument/pages/character.argument.ts"
 import { issuesFile } from "akasha/command/argument/pages/issues-file.argument.ts"
 import { memoryFile } from "akasha/command/argument/pages/memory-file.argument.ts"
+import { picturedFile } from "akasha/command/argument/pages/pictured-file.argument.ts"
 import { playedTurn } from "akasha/command/argument/pages/played-turn.argument.ts"
 import { proseFile } from "akasha/command/argument/pages/prose-file.argument.ts"
 import { recorder as recorderArgument } from "akasha/command/argument/pages/recorder.argument.ts"
@@ -16,6 +17,7 @@ import { storyTurnAdvance as page } from "akasha/command/pages/story/turn/advanc
 import { slugOf } from "akasha/page/naming/folding/modules/slug-of/slug-of.module.code.ts"
 import { changesIn } from "akasha/story/engine/beat-state/modules/beat-changes/beat-changes.module.code.ts"
 import { memoryIn } from "akasha/story/engine/beat-state/modules/beat-memory/beat-memory.module.code.ts"
+import { picturedIn } from "akasha/story/engine/beat-state/modules/beat-pictures/beat-pictures.module.code.ts"
 import { plannedIn } from "akasha/story/engine/beat-state/modules/beat-replay/beat-replay.module.code.ts"
 import {
   type Handed,
@@ -34,6 +36,7 @@ const NAMED = [
   recorderArgument,
   changesFile,
   memoryFile,
+  picturedFile,
   titleArgument,
 ] as const
 
@@ -99,11 +102,12 @@ type Said = {
   readonly recorder?: string | undefined
   readonly changesFile?: string | undefined
   readonly memoryFile?: string | undefined
+  readonly picturedFile?: string | undefined
 }
 
 function kindsIn(said: Said): readonly Handed["kind"][] {
   const kinds: Handed["kind"][] = []
-  const recording = [said.recorder, said.changesFile, said.memoryFile].some(
+  const recording = [said.recorder, said.changesFile, said.memoryFile, said.picturedFile].some(
     (one) => one !== undefined
   )
   if (said.turnLore.length > 0) kinds.push("lore")
@@ -135,7 +139,11 @@ function recordIn(root: string, said: Said): Handed | Refusal {
   if ("refused" in changes) return { refused: [changes.refused] }
   const memory = memoryIn(remembering.lines, Number.MAX_SAFE_INTEGER)
   if ("refused" in memory) return { refused: [memory.refused] }
-  return { kind: "record", recorder, changes, issues: issuing.lines, memory }
+  const picturing = linesAt(root, picturedFile.said, said.picturedFile)
+  if ("refused" in picturing) return picturing
+  const pictured = picturedIn(picturing.lines, Number.MAX_SAFE_INTEGER)
+  if ("refused" in pictured) return { refused: [pictured.refused] }
+  return { kind: "record", recorder, changes, issues: issuing.lines, memory, pictured }
 }
 
 function reviewIn(root: string, said: Said): Handed | Refusal {
