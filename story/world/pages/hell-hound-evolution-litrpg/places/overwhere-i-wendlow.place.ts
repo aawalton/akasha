@@ -342,7 +342,7 @@ export const overwhereIWendlow = {
     },
     {
       fact: "The other: 15 gold for the Weir Wyrm, a river serpent taking bargemen at Hobb's Mill weir downriver.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
     {
       fact: "Hobb's Mill weir lies two hours' walk down the Wend from Wendlow.",
