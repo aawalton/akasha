@@ -7,9 +7,10 @@ export const overwhereI00117 = {
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-i"],
   position: 117,
-  stepStatus: "step-status/game-master",
+  stepStatus: "step-status/mechanics",
   action:
     "I spend the time I have before I need to leave using the weave i found to finish mending my cloak and clothes, then go to see the magistrate.",
+  beats: "jsonl",
   lore: [
     "lore/overwhere-i-odile-varne",
     "lore/overwhere-i-starfall-legacy",
