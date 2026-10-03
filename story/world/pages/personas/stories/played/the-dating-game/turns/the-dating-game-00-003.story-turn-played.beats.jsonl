@@ -3,13 +3,14 @@
 {"beat":3,"event":"She listens with her head tilted, the way she was listening to the walls."}
 {"beat":4,"event":"Her smile widens as he talks."}
 {"beat":5,"event":"\"Company,\" she says, turning the word over like she likes the weight of it."}
-{"beat":6,"event":"Then, warmer: \"I'd love.\""}
+{"beat":6,"event":"Then, warmer: \"I'd love.\"","memory":[{"page":"lore/the-dating-game-boulder-woman","fact":"She answered Alan's offer of company with \"Company,\" then \"I'd love.\"","shown":true},{"page":"lore/the-dating-game-boulder-woman","fact":"She answered Alan's offer of company with \"Company,\" then \"I'd love.\"","learns":"character-player/the-dating-game-alan"},{"page":"lore/the-dating-game-boulder-woman","fact":"She speaks only in words others have said, any she ever heard, leaning toward the newest.","shown":true}]}
 {"beat":7,"event":"She swings her legs over the edge of the boulder and slides down the rock."}
 {"beat":8,"event":"She lands light in the pale dust beside the creek, a few feet from him."}
-{"beat":9,"event":"Up close the freckles run down her neck under the jacket collar."}
+{"beat":9,"event":"Up close the freckles run down her neck under the jacket collar.","memory":[{"page":"lore/the-dating-game-boulder-woman","fact":"Her freckles run down her neck and under her jacket collar.","shown":true},{"page":"lore/the-dating-game-boulder-woman","fact":"Her freckles run down her neck and under her jacket collar.","learns":"character-player/the-dating-game-alan"}]}
 {"beat":10,"event":"The headphones sit silent at her collarbones."}
 {"beat":11,"event":"She nods up the trail, where the canyon bends deeper between the walls."}
-{"beat":12,"event":"\"On the hike,\" she says, and it is half a question, half an invitation."}
-{"beat":13,"event":"They start up together, gravel crunching, the creek talking low beside them."}
+{"beat":12,"event":"\"On the hike,\" she says, and it is half a question, half an invitation.","memory":[{"page":"lore/the-dating-game-boulder-woman","fact":"Every word she said after Alan called up to her was one of his.","shown":true},{"page":"lore/the-dating-game-boulder-woman","fact":"Every word she said after Alan called up to her was one of his.","learns":"character-player/the-dating-game-alan"},{"page":"lore/the-dating-game-boulder-woman","fact":"She understands everything said to her and answers with the words she gives back.","shown":true}]}
+{"beat":13,"event":"They start up together, gravel crunching, the creek talking low beside them.","memory":[{"page":"lore/the-dating-game-boulder-woman","fact":"She slid down off the boulder and started up the canyon trail with Alan.","shown":true},{"page":"lore/the-dating-game-boulder-woman","fact":"She slid down off the boulder and started up the canyon trail with Alan.","learns":"character-player/the-dating-game-alan"}]}
 {"beat":14,"event":"The climbers' voices fall away behind the bend."}
-{"beat":15,"event":"She walks close at his shoulder and keeps glancing at him, bright-eyed."}
+{"beat":15,"event":"She walks close at his shoulder and keeps glancing at him, bright-eyed.","at":"2026-09-26T09:27:00.000Z","memory":[{"page":"lore/the-dating-game-boulder-woman","fact":"She walks closer at Alan's shoulder than a stranger usually walks.","shown":true},{"page":"lore/the-dating-game-boulder-woman","fact":"She walks closer at Alan's shoulder than a stranger usually walks.","learns":"character-player/the-dating-game-alan"}]}
+

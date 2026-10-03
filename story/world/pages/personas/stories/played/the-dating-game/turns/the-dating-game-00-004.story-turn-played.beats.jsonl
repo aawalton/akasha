@@ -1,10 +1,11 @@
 {"beat":1,"event":"Walking on up the canyon, Alan bumps his shoulder gently into hers."}
-{"beat":2,"event":"She glances at him, surprised, then laughs without a sound, just breath and a bright look."}
+{"beat":2,"event":"She glances at him, surprised, then laughs without a sound, just breath and a bright look.","memory":[{"page":"lore/the-dating-game-boulder-woman","fact":"She laughs without any sound, just a breath let out and a bright look.","shown":true},{"page":"lore/the-dating-game-boulder-woman","fact":"She laughs without any sound, just a breath let out and a bright look.","learns":"character-player/the-dating-game-alan"}]}
 {"beat":3,"event":"A few steps on she bumps him back, a little harder, eyes on the trail as if innocent."}
-{"beat":4,"event":"He keeps it up now and then, and she answers each bump in kind."}
-{"beat":5,"event":"Then he says: \"I'm Alan, what's your name?\""}
-{"beat":6,"event":"\"Alan,\" she says, trying it slowly, as if tasting it."}
-{"beat":7,"event":"She touches two fingers to her own chest."}
-{"beat":8,"event":"\"Echo,\" she says."}
+{"beat":4,"event":"He keeps it up now and then, and she answers each bump in kind.","changes":[{"page":"world-relationship/the-dating-game-echo","key":"relationshipPoints","from":0,"to":1,"note":"Closeness scoring: emotional intimacy 1 for the shoulder bumps"}],"memory":[{"page":"lore/the-dating-game-boulder-woman","fact":"She answers each shoulder bump from Alan with one of her own.","shown":true},{"page":"lore/the-dating-game-boulder-woman","fact":"She answers each shoulder bump from Alan with one of her own.","learns":"character-player/the-dating-game-alan"}]}
+{"beat":5,"event":"Then he says: \"I'm Alan, what's your name?\"","memory":[{"page":"lore/the-dating-game-alan","fact":"Alan told the woman from the boulder his name.","shown":true},{"page":"lore/the-dating-game-alan","fact":"Alan told the woman from the boulder his name.","learns":"character-other/the-dating-game-echo"}]}
+{"beat":6,"event":"\"Alan,\" she says, trying it slowly, as if tasting it.","memory":[{"page":"lore/the-dating-game-boulder-woman","fact":"She said \"Alan\" back slowly, as if tasting it.","shown":true},{"page":"lore/the-dating-game-boulder-woman","fact":"She said \"Alan\" back slowly, as if tasting it.","learns":"character-player/the-dating-game-alan"}]}
+{"beat":7,"event":"She touches two fingers to her own chest.","memory":[{"page":"lore/the-dating-game-boulder-woman","fact":"Asked her name, she touched her chest, and the walls gave back \"name\" late and faint.","shown":true},{"page":"lore/the-dating-game-boulder-woman","fact":"Asked her name, she touched her chest, and the walls gave back \"name\" late and faint.","learns":"character-player/the-dating-game-alan"}]}
+{"beat":8,"event":"\"Echo,\" she says.","memory":[{"page":"lore/the-dating-game-boulder-woman","fact":"Her name is Echo.","shown":true},{"page":"lore/the-dating-game-boulder-woman","fact":"Her name is Echo.","learns":"character-player/the-dating-game-alan"}]}
 {"beat":9,"event":"It is the first word she has given him since he called up to her that was not his."}
-{"beat":10,"event":"The walls give the word back once, faint, from up the canyon."}
+{"beat":10,"event":"The walls give the word back once, faint, from up the canyon.","at":"2026-09-26T09:32:00.000Z","memory":[{"page":"lore/the-dating-game-boulder-woman","fact":"She pointed up the canyon where the echo came from, then touched her chest again and smiled.","shown":true},{"page":"lore/the-dating-game-boulder-woman","fact":"She pointed up the canyon where the echo came from, then touched her chest again and smiled.","learns":"character-player/the-dating-game-alan"}]}
+
