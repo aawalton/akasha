@@ -1,8 +1,9 @@
 {"beat":1,"event":"Alan: \"Nothing ever close or far. It just is.\""}
 {"beat":2,"event":"\"Almost like standing outside of time and looking at it from the side,\""}
-{"beat":3,"event":"\"other than this one moment I'm experiencing now.\""}
+{"beat":3,"event":"\"other than this one moment I'm experiencing now.\"","memory":[{"page":"lore/the-dating-game-alan","fact":"Alan feels he looks at time from outside, from the side, all but the present moment.","shown":true},{"page":"lore/the-dating-game-alan","fact":"Alan feels he looks at time from outside, from the side, all but the present moment.","learns":"character-other/the-dating-game-grace"}]}
 {"beat":4,"event":"Grace stops beneath a tall pine, and the lantern light pools gold around their feet."}
 {"beat":5,"event":"\"From the side,\" she repeats softly. \"That sounds peaceful, some of the time. And lonely, some.\""}
-{"beat":6,"event":"\"Then this one moment's the one that counts,\" she says. \"I'm glad I'm in it.\""}
-{"beat":7,"event":"She glances at the watch on her wrist, and a small regret crosses her face."}
-{"beat":8,"event":"\"I'm due at a bedside at eight. I'll have to go soon.\""}
+{"beat":6,"event":"\"Then this one moment's the one that counts,\" she says. \"I'm glad I'm in it.\"","changes":[{"page":"world-relationship/the-dating-game-grace","key":"relationshipPoints","from":24,"to":26,"note":"Closeness scoring: acknowledgment and intimacy 1 each"}],"memory":[{"page":"lore/the-dating-game-grace","fact":"Grace told Alan she's glad to be in this moment with him.","shown":true},{"page":"lore/the-dating-game-grace","fact":"Grace told Alan she's glad to be in this moment with him.","learns":"character-player/the-dating-game-alan"}]}
+{"beat":7,"event":"She glances at the watch on her wrist, and a small regret crosses her face.","memory":[{"page":"lore/the-dating-game-grace","fact":"Grace wears a watch on her wrist.","shown":true},{"page":"lore/the-dating-game-grace","fact":"Grace wears a watch on her wrist.","learns":"character-player/the-dating-game-alan"}]}
+{"beat":8,"event":"\"I'm due at a bedside at eight. I'll have to go soon.\"","at":"2026-09-26T19:42:00.000Z","memory":[{"page":"lore/the-dating-game-grace","fact":"Grace told Alan she is due at a bedside at eight, so she must leave soon.","shown":true},{"page":"lore/the-dating-game-grace","fact":"Grace told Alan she is due at a bedside at eight, so she must leave soon.","learns":"character-player/the-dating-game-alan"}]}
+

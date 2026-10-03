@@ -1,13 +1,14 @@
-{"beat":1,"event":"Alan: \"Well, my father died young, 57. He was divorced by the end.\""}
-{"beat":2,"event":"\"I'm the oldest of his kids and was the only one fully grown at the time,\""}
+{"beat":1,"event":"Alan: \"Well, my father died young, 57. He was divorced by the end.\"","memory":[{"page":"lore/the-dating-game-alan","fact":"Alan's father died young, at 57, divorced by the end.","shown":true},{"page":"lore/the-dating-game-alan","fact":"Alan's father died young, at 57, divorced by the end.","learns":"character-other/the-dating-game-grace"}]}
+{"beat":2,"event":"\"I'm the oldest of his kids and was the only one fully grown at the time,\"","memory":[{"page":"lore/the-dating-game-alan","fact":"Alan is the oldest of his father's kids, the only one fully grown when his father died.","shown":true},{"page":"lore/the-dating-game-alan","fact":"Alan is the oldest of his father's kids, the only one fully grown when his father died.","learns":"character-other/the-dating-game-grace"}]}
 {"beat":3,"event":"\"so a lot of the weight fell on me, which was hard.\""}
-{"beat":4,"event":"\"I think the finances and paperwork hurt me more than the loss.\""}
+{"beat":4,"event":"\"I think the finances and paperwork hurt me more than the loss.\"","memory":[{"page":"lore/the-dating-game-alan","fact":"When his father died the weight fell on Alan; the finances and paperwork hurt more than the loss.","shown":true},{"page":"lore/the-dating-game-alan","fact":"When his father died the weight fell on Alan; the finances and paperwork hurt more than the loss.","learns":"character-other/the-dating-game-grace"}]}
 {"beat":5,"event":"\"I…don't seem to form emotional attachments the same way most people do.\""}
-{"beat":6,"event":"\"It's hard to feel attached when I can't remember feelings.\""}
+{"beat":6,"event":"\"It's hard to feel attached when I can't remember feelings.\"","memory":[{"page":"lore/the-dating-game-alan","fact":"Alan doesn't form emotional attachments the way most people do; he can't remember feelings.","shown":true},{"page":"lore/the-dating-game-alan","fact":"Alan doesn't form emotional attachments the way most people do; he can't remember feelings.","learns":"character-other/the-dating-game-grace"}]}
 {"beat":7,"event":"\"I think about him now and then, but the past when he was here\""}
-{"beat":8,"event":"\"and the past when he was gone are equally incomprehensible to me.\""}
-{"beat":9,"event":"Grace listens all the way through, walking slowly beside him, the lantern low."}
+{"beat":8,"event":"\"and the past when he was gone are equally incomprehensible to me.\"","memory":[{"page":"lore/the-dating-game-alan","fact":"To Alan, the past with his father and the past without him are equally incomprehensible.","shown":true},{"page":"lore/the-dating-game-alan","fact":"To Alan, the past with his father and the past without him are equally incomprehensible.","learns":"character-other/the-dating-game-grace"}]}
+{"beat":9,"event":"Grace listens all the way through, walking slowly beside him, the lantern low.","changes":[{"page":"world-relationship/the-dating-game-grace","key":"relationshipPoints","from":20,"to":21,"note":"Closeness scoring: emotional intimacy 1 for sharing his father's death"}]}
 {"beat":10,"event":"There is no judgment anywhere in her face, only close attention."}
 {"beat":11,"event":"\"The one who carries the paperwork is grieving too,\" she says. \"It just comes out as forms.\""}
 {"beat":12,"event":"\"I've sat with a lot of families. There's no one right way for it to land.\""}
-{"beat":13,"event":"\"Fifty-seven is young. And you were the one left holding it. That was a lot to be handed.\""}
+{"beat":13,"event":"\"Fifty-seven is young. And you were the one left holding it. That was a lot to be handed.\"","at":"2026-09-26T19:36:00.000Z"}
+

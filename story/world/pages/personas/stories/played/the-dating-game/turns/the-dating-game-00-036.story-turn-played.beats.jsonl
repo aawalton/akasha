@@ -1,9 +1,10 @@
-{"beat":1,"event":"Alan: \"Not at the very end. The room was small and his kids were there.\""}
-{"beat":2,"event":"\"I saw him about a week before though.\""}
+{"beat":1,"event":"Alan: \"Not at the very end. The room was small and his kids were there.\"","memory":[{"page":"lore/the-dating-game-alan","fact":"Alan wasn't at his grandfather's death; the room was small and the old man's kids were there.","shown":true},{"page":"lore/the-dating-game-alan","fact":"Alan wasn't at his grandfather's death; the room was small and the old man's kids were there.","learns":"character-other/the-dating-game-grace"}]}
+{"beat":2,"event":"\"I saw him about a week before though.\"","memory":[{"page":"lore/the-dating-game-alan","fact":"Alan saw his grandfather about a week before he died.","shown":true},{"page":"lore/the-dating-game-alan","fact":"Alan saw his grandfather about a week before he died.","learns":"character-other/the-dating-game-grace"}]}
 {"beat":3,"event":"\"I guess most would consider a few weeks ago to be recent.\""}
-{"beat":4,"event":"\"It feels no different than forty years ago or forty seconds ago to me.\""}
+{"beat":4,"event":"\"It feels no different than forty years ago or forty seconds ago to me.\"","memory":[{"page":"lore/the-dating-game-alan","fact":"To Alan, a few weeks ago feels no different than forty years or forty seconds ago.","shown":true},{"page":"lore/the-dating-game-alan","fact":"To Alan, a few weeks ago feels no different than forty years or forty seconds ago.","learns":"character-other/the-dating-game-grace"}]}
 {"beat":5,"event":"Grace nods slowly at the small room. \"That's how it should be, his kids around him.\""}
-{"beat":6,"event":"\"And a week before counts. They know who came. I've watched it, over and over.\""}
+{"beat":6,"event":"\"And a week before counts. They know who came. I've watched it, over and over.\"","memory":[{"page":"lore/the-dating-game-grace","fact":"Grace has watched, over and over, that the dying know who came to see them.","shown":true},{"page":"lore/the-dating-game-grace","fact":"Grace has watched, over and over, that the dying know who came to see them.","learns":"character-player/the-dating-game-alan"}]}
 {"beat":7,"event":"At \"forty years or forty seconds\" she looks at him a long moment, taking it in, not arguing it."}
-{"beat":8,"event":"\"Then I'll stop calling it close,\" she says gently. \"It's just when it is, for you.\""}
-{"beat":9,"event":"The corner of her red mouth lifts. \"Nothing's ever far away, for you. I think I like that.\""}
+{"beat":8,"event":"\"Then I'll stop calling it close,\" she says gently. \"It's just when it is, for you.\"","changes":[{"page":"world-relationship/the-dating-game-grace","key":"relationshipPoints","from":22,"to":24,"note":"Closeness scoring: acknowledgment and intimacy 1 each"}]}
+{"beat":9,"event":"The corner of her red mouth lifts. \"Nothing's ever far away, for you. I think I like that.\"","at":"2026-09-26T19:40:00.000Z"}
+

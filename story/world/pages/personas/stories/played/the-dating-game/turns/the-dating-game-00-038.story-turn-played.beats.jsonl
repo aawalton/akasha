@@ -1,5 +1,6 @@
 {"beat":1,"event":"Alan: \"Mind if I join you again another night?\""}
 {"beat":2,"event":"Grace's smile comes slow and warm, all the way up into her gold eyes."}
-{"beat":3,"event":"\"I'd like that,\" she says. \"Most evenings, about this hour. You know which step is mine.\""}
+{"beat":3,"event":"\"I'd like that,\" she says. \"Most evenings, about this hour. You know which step is mine.\"","changes":[{"page":"world-relationship/the-dating-game-grace","key":"relationshipPoints","from":26,"to":29,"note":"Closeness scoring: acknowledgment, reassurance and intimacy 1 each"}],"memory":[{"page":"lore/the-dating-game-grace","fact":"Grace told Alan she'd like him to join her again another night.","shown":true},{"page":"lore/the-dating-game-grace","fact":"Grace told Alan she'd like him to join her again another night.","learns":"character-player/the-dating-game-alan"}]}
 {"beat":4,"event":"She lifts the lantern a little in farewell, its light warm across them both."}
-{"beat":5,"event":"\"Good night, Alan. Take care of this one for me.\""}
+{"beat":5,"event":"\"Good night, Alan. Take care of this one for me.\"","at":"2026-09-26T19:44:00.000Z"}
+
