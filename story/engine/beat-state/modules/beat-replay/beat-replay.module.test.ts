@@ -4,6 +4,7 @@ import {
   plannedIn,
   replayed,
   type Scene,
+  scenesIn,
   unnamedIn,
 } from "akasha/story/engine/beat-state/modules/beat-replay/beat-replay.module.code.ts"
 
@@ -63,7 +64,7 @@ test("replaying a story's turns in order moves its clock, its place and who is t
     JSON.stringify({ event: "c", at: "2026-01-01T10:00:00Z", leave: [CERI], place: GATE }),
   ])
   expect(stateOf(replayed(OPENING, [first, second]))).toEqual({
-    at: "2026-01-01T10:00:00Z",
+    at: "2026-01-01T10:00:00.000Z",
     place: GATE,
     present: [MARA],
     placeOf: { [MARA]: GATE, [CERI]: HALL },
@@ -97,6 +98,20 @@ test("a turn stating no time keeps the time its end states, until its beats stat
   const back = turnOf("t2", [JSON.stringify({ event: "b", at: "2026-01-01T08:00:00Z" })])
   expect(stateOf(replayed(OPENING, [untimed])).at).toBe("2026-01-01T09:00:00Z")
   expect(refusalOf(replayed(OPENING, [untimed, back]))).toContain("never runs back")
+})
+
+test("a record's time is kept as an instant, and a time that is none is refused", () => {
+  const said = plannedIn([JSON.stringify({ event: "a", at: "2026-01-01T10:00:00+01:00" })])
+  expect(said).toEqual({ beats: ["a"], scenes: [{ beat: 1, at: "2026-01-01T09:00:00.000Z" }] })
+  expect(plannedIn([JSON.stringify({ event: "a", at: "teatime" })])).toEqual({
+    refused: "beat 1 states its time as `teatime`, which is no time",
+  })
+})
+
+test("scenes kept on a turn read back as they were handed in, and a stray record is passed over", () => {
+  const kept = [{ beat: 2, at: "2026-01-01T09:00:00.000Z", place: HALL }, { place: GATE }, "x"]
+  expect(scenesIn(kept)).toEqual([{ beat: 2, at: "2026-01-01T09:00:00.000Z", place: HALL }])
+  expect(scenesIn(undefined)).toEqual([])
 })
 
 test("a place or character no page is, is named by its beat", () => {

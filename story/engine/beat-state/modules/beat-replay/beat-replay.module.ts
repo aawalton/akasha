@@ -23,6 +23,10 @@ export const beatReplay = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A beat's time is kept as an instant, whatever form the record stated it in.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement:
         "Everyone there is at the beat's place, and someone leaving stays where last seen.",
     },

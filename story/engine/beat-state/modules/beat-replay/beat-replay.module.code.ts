@@ -130,7 +130,20 @@ function sceneOf(beat: number, held: Readonly<Record<string, unknown>>): BeatSce
     if (value === null) return `beat ${beat} states \`${key}\` as no list of addresses`
     scene[key] = value
   }
-  return scene as BeatScene
+  if (typeof scene["at"] !== "string") return scene as BeatScene
+  const at = instantOf(scene["at"])
+  if (at === null) return `beat ${beat} states its time as \`${scene["at"]}\`, which is no time`
+  return { ...scene, at: new Date(at).toISOString() } as BeatScene
+}
+
+export function scenesIn(value: unknown): readonly BeatScene[] {
+  if (!Array.isArray(value)) return []
+  return value.flatMap((one): readonly BeatScene[] => {
+    if (typeof one !== "object" || one === null) return []
+    const held = one as Readonly<Record<string, unknown>>
+    const scene = typeof held["beat"] === "number" ? sceneOf(held["beat"], held) : null
+    return scene === null || typeof scene === "string" ? [] : [scene]
+  })
 }
 
 function recordIn(line: string, beat: number): Readonly<Record<string, unknown>> | string {
