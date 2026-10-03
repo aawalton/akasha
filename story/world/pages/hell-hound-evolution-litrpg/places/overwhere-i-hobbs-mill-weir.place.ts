@@ -255,5 +255,9 @@ export const overwhereIHobbsMillWeir = {
       fact: "A spike at the wyrm dragging itself over the apron, 20 yards off, is easy before other bands.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Dying in the pool, the wyrm sinks under the barge; a water grip draws its body out, an easy act.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Place
