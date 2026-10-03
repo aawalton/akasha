@@ -76,6 +76,10 @@ export const hollowmere0020JustOurs = {
     "You fall asleep in 15 this time, Bea's arm over you, her warm bare body at your back.",
     "A day at Hollowmere ends.",
   ],
+  issues: [
+    '"Not one person noticed," she says - Nobody Acts',
+    '"Not one person ever notices when I go quiet." - Nobody Acts',
+  ],
   lore: [
     "lore/hollowmere-academy-2",
     "lore/hollowmere-bea",
@@ -100,4 +104,5 @@ export const hollowmere0020JustOurs = {
     "character-other/hollowmere-priya",
     "character-other/hollowmere-yusra",
   ],
+  reviewedBy: ["story-reviewer/style"],
 } as const satisfies StoryChapterWritten
