@@ -86,7 +86,7 @@ export const overwhereIiCallowBeck = {
     },
     {
       fact: "The spill came down the beck's gully; a black, salt-crusted slick now covers the high pasture.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "The black slick still seeps and spreads a few paces a day toward the longhouse.",
