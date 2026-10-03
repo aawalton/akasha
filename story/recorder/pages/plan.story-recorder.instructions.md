@@ -6,7 +6,7 @@ An issue is a beat that:
 
 - happens at a time that cannot follow the beat before, or lets far too little or too much time pass for what it holds;
 - puts a character somewhere they cannot be, or has a character act in a scene they are not in;
-- has a character know or act on a fact no memory line says that character learned, or names to the reader a secret no memory line has shown;
+- has a character know or act on a fact a lore page holds, where that page names the character no knower and no memory line says the character learned it; or names to the reader a secret no memory line has shown. What a character knows from before the story, and what no lore page holds, is no issue;
 - states a fact of the world the lore makes false, or a character acting against what is settled about them;
 - leaves a thread the story set up dropped without cause, or contradicts what an earlier turn settled.
 
