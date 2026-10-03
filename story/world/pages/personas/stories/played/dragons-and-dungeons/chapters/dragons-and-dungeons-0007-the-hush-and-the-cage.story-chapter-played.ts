@@ -10,4 +10,8 @@ export const dragonsAndDungeons0007TheHushAndTheCage = {
   ownLength: 2881,
   unit: "unit/words",
   prose: "txt",
+  beats: "jsonl",
+  lastTurn: "dragons-and-dungeons-01-007",
+  lastTurnPosition: 7,
+  endsAt: "2026-09-29T12:15:00.000Z",
 } as const satisfies StoryChapterPlayed
