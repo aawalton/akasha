@@ -217,6 +217,12 @@ export function noticeOf(
   )
 }
 
+export function intentLine(intent: string | null | undefined): string {
+  const held = intent?.trim() ?? ""
+  if (held === "") return ""
+  return `\n\nThe player's intent for his character, as his story holds it now:\n\n${held}`
+}
+
 export function slugAfter(slug: string): string | null {
   const found = LAST_NUMBER.exec(slug)
   if (found === null) return null

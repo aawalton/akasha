@@ -31,5 +31,10 @@ export const turnLifecycle = {
       decisionKind: "decision-kind/departure",
       statement: "A notice names no lore page withheld from its seat.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A notice moving a turn to game-master names the player's intent for the character.",
+    },
   ],
 } as const satisfies Module

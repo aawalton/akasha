@@ -76,6 +76,8 @@ import { storyPlayed } from "akasha/story/world/stories/played/story-played.page
 import {
   bareOf,
   CHAPTER,
+  GAME_MASTER,
+  intentLine,
   type Noun,
   noticeOf,
   PLAYER,
@@ -109,6 +111,8 @@ const EDITOR_STEPS = "editorSteps"
 
 const PROSE_ON_BEATS = "proseOnBeats"
 
+const INTENT = "playerIntent"
+
 const NAME = "name"
 
 const SLUG = "slug"
@@ -136,6 +140,7 @@ export type Story = {
   readonly master: string | null
   readonly editorSteps?: boolean
   readonly proseOnBeats?: boolean
+  readonly intent?: string | null
 }
 
 export type Starting = {
@@ -219,10 +224,12 @@ export async function noticesSent(
     return undefined
   }
   const cast = status === WRITER && toRead.length > 0 ? `\n\n${loreLine(toRead, noun)}` : ""
-  const editors = reach.storyOf(root, game)?.editorSteps === true
+  const story = reach.storyOf(root, game)
+  const editors = story?.editorSteps === true
+  const intent = status === GAME_MASTER ? intentLine(story?.intent) : ""
   for (const to of noticedOf(master, game, editors)) {
     const said = noticeOf(turn, status, reach.changedLore(root, to), noun)
-    const more = to === master ? toMaster : ""
+    const more = to === master ? `${toMaster}${intent}` : ""
     const why = await reach.notify(to, `${said}${cast}${more}`)
     if (why === null) after.report.push(`told\t${to}`)
     else after.faults.push(`\`${to}\` was not told the ${noun} moved: ${why}`)
@@ -288,6 +295,7 @@ function storyIndexed(root: string, game: string): Story | null {
     master: textAt(value, MASTER),
     editorSteps: value[EDITOR_STEPS] === true,
     proseOnBeats: value[PROSE_ON_BEATS] === true,
+    intent: textAt(value, INTENT),
   }
 }
 
