@@ -1,0 +1,72 @@
+{"beat":1,"event":"There is no threshold: beyond the stair's waymarker, trees simply begin.","at":"2026-08-01T13:00:00.000Z","place":"place/the-places-she-carries-transition-woodland","present":["character-player/the-places-she-carries-wren"]}
+{"beat":2,"event":"The compass still swings five degrees; Wren walks south by the angle of the light."}
+{"beat":3,"event":"The transition woodland is a real forest: shaggy oaks, tall ash, and trees she does not know."}
+{"beat":4,"event":"Ghost elms: silver-green bark, smooth as polished stone, ghostly white in shade."}
+{"beat":5,"event":"She touches one; the cool bark hums below hearing, up through her wrist."}
+{"beat":6,"event":"Six inches higher the hum changes: the tree is a chord, not a single note."}
+{"beat":7,"event":"A discovery identifies the ghost elm and its acoustic bark: +40 XP, Identification activates.","changes":[{"page":"metric-character-experience/the-places-she-carries-wren","key":"value","from":120,"to":160,"note":"Discovery: ghost elm identified, acoustic bark"}]}
+{"beat":8,"event":"She sketches the trunk and writes: ask the Rimfolk if they know why the bark hums."}
+{"beat":9,"event":"The forest thickens southward: waist-high ferns, two-toned shrubs, spiraling vines."}
+{"beat":10,"event":"The air grows warmer and thick with scent; the unnamed sweetness is stronger down here."}
+{"beat":11,"event":"The three-note bird calls closer; something small rustles in the ferns and goes still."}
+{"beat":12,"event":"Her road-warden's boots sink into the spongy leaf layer of a floor no one maintains."}
+{"beat":13,"event":"[Wayfinder's Eye] hums: moss stories, scored heartwood, and tiny white flowers.","at":"2026-08-01T14:30:00.000Z"}
+{"beat":14,"event":"The cream flowers grow only where a ghost-elm root meets an oak root."}
+{"beat":15,"event":"A discovery logs the unregistered boundary bloom: +45 XP; Environmental Reading activates.","changes":[{"page":"metric-character-experience/the-places-she-carries-wren","key":"value","from":160,"to":205,"note":"Discovery: boundary bloom at ghost-elm and oak root contact"}]}
+{"beat":16,"event":"She notes that the System tells what a thing is apart from how it relates."}
+{"beat":17,"event":"She needs water, food, and a camp before the light fails under the canopy."}
+{"beat":18,"event":"She hears chopping, and a young man's voice talking without pause about roots.","at":"2026-08-01T15:00:00.000Z"}
+{"beat":19,"event":"A lower voice says, 'Someone on the track. Stay.' Wren walks in openly."}
+{"beat":20,"event":"She steps through ferns into a clearing: three lean-tos, a fire pit, drying racks.","place":"place/the-places-she-carries-therons-camp","arrive":["character-other/the-places-she-carries-theron","character-other/the-places-she-carries-hadley"]}
+{"beat":21,"event":"A compact, forest-worn man in his fifties holds a gathering knife and weighs her."}
+{"beat":22,"event":"Beside him a restless young man holds a dug root, dirty to the wrists."}
+{"beat":23,"event":"The young man says nobody uses the Warden's Stair; the older man silences him: 'Hadley.'"}
+{"beat":24,"event":"'Theron Blackroot. Rimfolk. This is my camp.' Hadley Wynn gathers for him, and talks."}
+{"beat":25,"event":"Wren gives her name; Theron says he knows who she is."}
+{"beat":26,"event":"Neither speaks; Hadley breaks after twelve seconds: 'You're the Wayfinder.'"}
+{"beat":27,"event":"Theron asks how she managed the fourth switchback. 'Carefully,' she says."}
+{"beat":28,"event":"He sits her on a flat stone and tells her that her left strap is torquing her spine."}
+{"beat":29,"event":"He brings her cold limestone water that tastes like Millhaven's wells."}
+{"beat":30,"event":"'I'm going to tell you to go back. And you're not going to go.' 'No.'"}
+{"beat":31,"event":"Theron says nothing written about the Thornwild stays accurate more than a season."}
+{"beat":32,"event":"He knows Callum; three generations of his family have gathered the first five miles."}
+{"beat":33,"event":"He tells of Deel, a Level 23 Ranger, who went twelve miles in and lost two days."}
+{"beat":34,"event":"Below five miles is the deep forest the Rimfolk call the Crying Forest; it weeps."}
+{"beat":35,"event":"He tells her, sixteen and without combat skills, to go back."}
+{"beat":36,"event":"Wren says she hears him, and will learn the first five miles first."}
+{"beat":37,"event":"'I'm planning to pay attention. And to ask you things, if you'll let me.'"}
+{"beat":38,"event":"Theron tells Hadley to show her the spring and the sound ground east of the ridge."}
+{"beat":39,"event":"'You'll eat with us tonight. I have questions.'"}
+{"beat":40,"event":"Hadley leads her east along the ridge, talking about water, seeps and his father.","at":"2026-08-01T15:30:00.000Z","leave":["character-other/the-places-she-carries-theron"]}
+{"beat":41,"event":"Hadley, a Level 7 Gatherer, asks what being a Wayfinder actually does."}
+{"beat":42,"event":"At the seep she says the System gives her noticing a weight, and she carries places."}
+{"beat":43,"event":"She tells him of the Warden's Shelf, like a second heartbeat in her chest."}
+{"beat":44,"event":"Hadley, silent five whole seconds: 'That's not a tool. That's a relationship.'"}
+{"beat":45,"event":"He asks to show her a root he has been trying to understand."}
+{"beat":46,"event":"At a sapling he shows ghost-elm laterals spiraling clockwise, straightening below 18 inches.","at":"2026-08-01T16:00:00.000Z"}
+{"beat":47,"event":"Wren links the spiral to the bark's resonance: the roots are drilling for something."}
+{"beat":48,"event":"[Wayfinder's Eye] shows the soil darker and finer where the spiral roots have turned."}
+{"beat":49,"event":"Hadley thinks the root grinds the soil; Wren says, 'Or feeds it.'"}
+{"beat":50,"event":"A multi-factor discovery on root and soil: +55 XP, Environmental Reading rises.","changes":[{"page":"metric-character-experience/the-places-she-carries-wren","key":"value","from":205,"to":260,"note":"Discovery: spiral roots alter the soil, multi-factor"}]}
+{"beat":51,"event":"She tells Hadley the System gives her hypotheses; it thinks out loud. He grins wide."}
+{"beat":52,"event":"They return to camp as the green light cools toward twilight.","at":"2026-08-01T18:30:00.000Z","arrive":["character-other/the-places-she-carries-theron"]}
+{"beat":53,"event":"She pitches her tarp east of the ridge; Hadley brings ferns, naming each armful."}
+{"beat":54,"event":"Theron builds the fire; ghost-elm won't burn, Hadley says, its hum puts the flame out."}
+{"beat":55,"event":"Wren asks what heat without flame would do to the resonance; no one has ever tried."}
+{"beat":56,"event":"Theron cooks dried meat, a root and Thornwild sage; the sage clears the head.","at":"2026-08-01T19:00:00.000Z"}
+{"beat":57,"event":"Wren can already smell the sweetness; Theron says her class makes her sensitive."}
+{"beat":58,"event":"The Rimfolk gauge depth by the sweet smell: stronger means deeper than planned."}
+{"beat":59,"event":"They eat in silence as the insect chorus begins in the south."}
+{"beat":60,"event":"Theron asks what she hears. She hears the Shelf, and the camp noticing her noticing."}
+{"beat":61,"event":"Theron tells of the Crying Forest's weeping: every seventeen days, and then sameness."}
+{"beat":62,"event":"He asks her, if she hears the weeping deeper in, to come back. She says she understands."}
+{"beat":63,"event":"She may camp as long as she likes; Hadley trades to Millhaven twice a month and carries letters."}
+{"beat":64,"event":"Wren realizes she has not thought of home for hours; she will write tonight."}
+{"beat":65,"event":"Theron washes his bowl at the spring and goes into his lean-to without a word.","leave":["character-other/the-places-she-carries-theron"]}
+{"beat":66,"event":"Under her tarp east of the ridge, she listens to the forest's night chorus.","at":"2026-08-01T21:30:00.000Z","leave":["character-other/the-places-she-carries-hadley"]}
+{"beat":67,"event":"The Shelf is fainter but steady, and the woodland's awareness presses gently around her."}
+{"beat":68,"event":"By starlight she writes: Day 1 in the basin; the ghost elms hum, the roots spiral."}
+{"beat":69,"event":"She notes Theron's Crying Forest and its seventeen-day cycle."}
+{"beat":70,"event":"She writes to Mum and Dad: down the stair, safe, fed, and home before winter."}
+{"beat":71,"event":"She folds the letter into her journal and lies back between two hums."}
+{"beat":72,"event":"She sleeps; the Thornwild breathes, and nothing disturbs her."}
