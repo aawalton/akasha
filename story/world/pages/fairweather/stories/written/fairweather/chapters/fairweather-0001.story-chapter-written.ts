@@ -10,7 +10,7 @@ export const fairweather0001 = {
   story: "story-written/fairweather",
   ownLength: 0,
   prose: "txt",
-  stepStatus: "step-status/game-master",
+  stepStatus: "step-status/mechanics",
   beats: [
     "Before dawn the Honeycomb's ovens wake Elsie in her attic; the room smells of bread.",
     "It is her Naming day; she lies under the sloped ceiling, too nervous and happy to stay in bed.",
@@ -71,7 +71,7 @@ export const fairweather0001 = {
     "Tamsin and Tilly glance at each other, as if checking which of them she meant.",
     "At the quest board the three read the F-rank notices, Cora two steps behind.",
     "Cellar rats, four lanterns; a lost goat in the Underbloom, three; moonbells from the Glasswood, six.",
-    "Tilly knows moonbells for fever draughts, Elsie knows them from her mother, Tamsin wants the six.",
+    "Tilly explains moonbells go into fever draughts; Elsie lights up at that, and Tamsin wants the six.",
     "Tamsin takes down the moonbell notice; they will set out at dawn tomorrow.",
     "Elsie chalks three names and a flower on a slate; Tilly adds a crooked heart, then rubs it out.",
     "Cora writes in her ledger; Elsie asks what she wrote, and Cora closes it.",
@@ -143,9 +143,6 @@ export const fairweather0001 = {
     },
   ],
   beatChanges: "jsonl",
-  mechanicsIssues: [
-    "beat 60: Elsie knows moonbells from her mother, and no lore fact says she ever learned them",
-  ],
   lore: [
     "lore/fairweather-cora",
     "lore/fairweather-elsie",
@@ -157,5 +154,4 @@ export const fairweather0001 = {
     "place/fairweather-honeycomb",
     "place/fairweather-lanternmere",
   ],
-  recordedBy: ["story-recorder/inventory", "story-recorder/plan", "story-recorder/mechanics"],
 } as const satisfies StoryChapterWritten
