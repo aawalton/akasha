@@ -11,7 +11,7 @@ export const overwhereIvNalaRiftRend = {
   character: "character-player/overwhere-iv-nala",
   skill: "world-skill/overwhere-iv-rift-rend",
   level: 6,
-  uses: 2,
+  uses: 3,
   reachPaces: 40,
   manaCost: 7,
   durationMinutes: 0,
