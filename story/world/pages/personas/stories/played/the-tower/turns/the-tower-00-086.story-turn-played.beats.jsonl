@@ -1,0 +1,6 @@
+{"beat":1,"event":"He gets up and turns back to the den, the dead maul on his back and the lantern at his belt."}
+{"beat":2,"event":"He works the strip between the stair and the drop: slimed packs, boots, picked bones."}
+{"beat":3,"event":"A double handful of sound metal comes out of the rot, and he folds it away as forge-stock.","changes":[{"page":"story-item/the-tower-reclaimed-den-metal","make":{"title":"Reclaimed den-metal (forge-stock)","story":"story-played/the-tower","character":"character-player/the-tower-alan","description":"A double handful of fire-cleaned scrap: belt-buckles, a pitted eating-knife, nails, an iron clasp."},"note":"Scavenged from the den's midden"}]}
+{"beat":4,"event":"He pushes heat through the lantern-flame into the fouled heap and burns it clean.","memory":[{"page":"place/the-tower-floor-05","fact":"The False Haven is dark but for fire brought into it.","shown":true},{"page":"place/the-tower-floor-05","fact":"The False Haven is dark but for fire brought into it.","learns":"character-player/the-tower-alan"}]}
+{"beat":5,"event":"The smoke thins: the drop lies open and sheer, and all he came back for is on its far side."}
+{"beat":6,"event":"Across it his ember-sense snags a faint live warmth, banked low in the dark past the drop."}

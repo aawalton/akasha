@@ -1,0 +1,6 @@
+{"beat":1,"event":"He lays the maul head-down in the hottest coals of the burning midden, his pack beside it.","changes":[{"page":"tower-mana/the-tower-alan","key":"value","from":120,"to":110,"note":"His own heat keeps the midden fire hot enough to feed the maul"}]}
+{"beat":2,"event":"With only the lantern and the snapped blade, he walks back eight steps from the edge."}
+{"beat":3,"event":"He runs four bad strides on wet stone and throws himself off the lip."}
+{"beat":4,"event":"The far edge slams his chest; he hangs half over the black, then hauls himself onto stone.","changes":[{"page":"tower-health/the-tower-alan","key":"value","from":124,"to":121,"note":"His chest slams down on the far edge"},{"page":"tower-stamina/the-tower-alan","key":"value","from":76,"to":53,"note":"Everything in his legs spent on the leap and the haul"}]}
+{"beat":5,"event":"Behind him across the seam, his fire burns small with the maul standing in it like a brand."}
+{"beat":6,"event":"Past the seat's wreck something low shifts with a heavy, dragging scrape, and goes still.","arrive":["character-other/the-tower-the-welcomers-pair-01"]}

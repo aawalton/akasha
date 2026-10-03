@@ -9,5 +9,6 @@ export const theTower00087 = {
   unit: "unit/words",
   publishedAt: "2026-07-18T07:05:13.340Z",
   prose: "txt",
+  beats: "jsonl",
   stepStatus: "step-status/player",
 } as const satisfies StoryTurnPlayed
