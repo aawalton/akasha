@@ -102,5 +102,9 @@ export const overwhereIiiEddaCrane = {
       fact: "Barrowing someone from the hut clearing to the crossroads shrine takes Edda about two hours.",
       knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-edda-crane"],
     },
+    {
+      fact: "Edda knows the hut's keeper as Mother Sallow, a soft-spoken neighbor; she'll ask where she's gone.",
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-edda-crane"],
+    },
   ],
 } as const satisfies Lore
