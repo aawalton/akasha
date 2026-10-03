@@ -9,6 +9,7 @@ export const worldRank = {
   extends: ["page-type/world-mechanic"],
   parts: [
     "number-property/world-rank-place",
+    "page-type/character-rank",
     "page-type/cornerstone-depth",
     "page-type/cornerstone-wakefulness-tier",
     "page-type/the-beholder-tier",

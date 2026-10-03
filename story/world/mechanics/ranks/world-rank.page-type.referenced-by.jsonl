@@ -1,9 +1,11 @@
 {"propertySlug":"extends-type","path":"story/world/mechanics/attunements/ranks/attunement-rank.page-type.ts","id":"01a0ca71-1736-7505-9546-ec713abf469a"}
+{"propertySlug":"extends-type","path":"story/world/mechanics/ranks/character-rank/character-rank.page-type.ts","id":"01a10362-78a2-7494-92b0-5b5472ced524"}
 {"propertySlug":"extends-type","path":"story/world/pages/cornerstone/mechanics/ranks/depth/cornerstone-depth.page-type.ts","id":"01a0dee6-492c-728a-b2ed-cf137b64fbd8"}
 {"propertySlug":"extends-type","path":"story/world/pages/cornerstone/mechanics/ranks/wakefulness-tier/cornerstone-wakefulness-tier.page-type.ts","id":"01a0dee6-492e-7912-9c50-5b25d4ebb420"}
 {"propertySlug":"extends-type","path":"story/world/pages/personas/stories/played/the-tower/mechanics/skills/ranks/tower-skill-rank.page-type.ts","id":"01a0de18-0b70-730f-a089-da22794b99f8"}
 {"propertySlug":"extends-type","path":"story/world/pages/the-beholder/mechanics/ranks/tier/the-beholder-tier.page-type.ts","id":"01a0deed-aa86-70a1-94ba-361ba920f093"}
 {"propertySlug":"import","fileName":"world-rank.page-type.types.ts","path":"story/world/mechanics/attunements/ranks/attunement-rank.page-type.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"world-rank.page-type.types.ts","path":"story/world/mechanics/ranks/character-rank/character-rank.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-rank.page-type.types.ts","path":"story/world/pages/beware-of-chicken/stories/played/otherwhere-iv/mechanics/ranks/otherwhere-iv-earth-realm.world-rank.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-rank.page-type.types.ts","path":"story/world/pages/beware-of-chicken/stories/played/otherwhere-iv/mechanics/ranks/otherwhere-iv-imperial-realm.world-rank.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-rank.page-type.types.ts","path":"story/world/pages/beware-of-chicken/stories/played/otherwhere-iv/mechanics/ranks/otherwhere-iv-initiates-realm.world-rank.ts","typed":true,"deferred":false}
@@ -49,4 +51,5 @@
 {"propertySlug":"import","fileName":"world-rank.page-type.types.ts","path":"story/world/pages/twelve-steps-to-transcendence-a-skill-grinding-litrpg/mechanics/ranks/otherwhere-x-rare.world-rank.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-rank.page-type.types.ts","path":"story/world/pages/twelve-steps-to-transcendence-a-skill-grinding-litrpg/mechanics/ranks/otherwhere-x-uncommon.world-rank.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"story/world/mechanics/world-mechanic.page-type.ts","id":"01a06558-a991-7f75-b03b-962c2df9e390"}
+{"propertySlug":"target-page-type","path":"story/world/mechanics/ranks/character-rank/properties/held-rank.relation-property.ts","id":"01a10362-78a2-70ae-8add-8029ccf1cde9"}
 {"propertySlug":"target-page-type","path":"story/world/pages/twelve-steps-to-transcendence-a-skill-grinding-litrpg/stories/played/otherwhere-x/mechanics/skills/properties/otherwhere-x-skill-rarity.relation-property.ts","id":"01a0ea7c-4061-7e4e-93c3-f3e87aa13672"}

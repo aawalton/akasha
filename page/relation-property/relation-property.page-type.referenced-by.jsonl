@@ -178,6 +178,8 @@
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"story/world/mechanics/metrics/metric-character/currency/properties/purse-currency.relation-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"story/world/mechanics/metrics/metric-character/properties/metric-of-character.relation-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"story/world/mechanics/metrics/metric-item/properties/metric-of-item.relation-property.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"story/world/mechanics/ranks/character-rank/properties/held-rank.relation-property.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"story/world/mechanics/ranks/character-rank/properties/rank-character.relation-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"story/world/mechanics/skills/character-skill/properties/held-skill.relation-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"story/world/mechanics/skills/character-skill/properties/skill-character.relation-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"story/world/mechanics/species/character-species/properties/held-species.relation-property.ts","typed":true,"deferred":false}
