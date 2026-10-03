@@ -47,5 +47,6 @@ export const overwhereIi00112 = {
     "place/overwhere-ii-tarrant-smithy",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
+  recordedBy: ["story-recorder/inventory"],
   endsAt: "2026-10-27T12:00:00.000Z",
 } as const satisfies StoryTurnPlayed
