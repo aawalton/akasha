@@ -5,7 +5,7 @@ export const hollowmere0020JustOurs = {
   type: "page-type/story-chapter-written",
   slug: "hollowmere-0020-just-ours",
   cover: "image/image-53fc2ca8ee6a2c19",
-  ownProgress: 1564,
+  ownProgress: 2009,
   position: 20,
   unit: "unit/words",
   title: "Just Ours",
