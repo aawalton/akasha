@@ -243,5 +243,9 @@ export const overwhereINala2 = {
         "lore/overwhere-i-grete-holm",
       ],
     },
+    {
+      fact: "Nala's wool tunic has a bolt-torn rent at the left ribs and a slit sleeve; her cloak hem is ragged.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
