@@ -95,4 +95,5 @@ export const hollowmere0022IWantToStay = {
     "character-other/hollowmere-penhallow",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
+  recordedBy: ["story-recorder/inventory"],
 } as const satisfies StoryChapterWritten
