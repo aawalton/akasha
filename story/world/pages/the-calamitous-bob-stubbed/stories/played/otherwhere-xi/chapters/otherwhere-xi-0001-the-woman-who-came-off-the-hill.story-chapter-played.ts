@@ -10,6 +10,7 @@ export const otherwhereXi0001TheWomanWhoCameOffTheHill = {
   story: "story-played/otherwhere-xi",
   ownLength: 2541,
   prose: "txt",
+  beats: "jsonl",
   turnCovers: [
     {
       position: 1,
