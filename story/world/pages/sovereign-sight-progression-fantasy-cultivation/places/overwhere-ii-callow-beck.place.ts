@@ -220,5 +220,9 @@ export const overwhereIiCallowBeck = {
       fact: "Cleared of the slick, the high pasture lies grey with salt, steaming faintly, six carcasses on it.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
+    {
+      fact: "By dusk the bank across the gully mouth holds the black slick back.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+    },
   ],
 } as const satisfies Place
