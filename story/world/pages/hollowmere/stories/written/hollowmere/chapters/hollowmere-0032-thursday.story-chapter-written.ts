@@ -10,7 +10,7 @@ export const hollowmere0032Thursday = {
   story: "story-written/hollowmere",
   ownLength: 3007,
   prose: "txt",
-  stepStatus: "step-status/writer",
+  stepStatus: "step-status/recorders",
   beats: [
     "Thursday of week five: you wake in room 8, in Lin's narrow bed, grey light on the drawings.",
     "Lin is awake already, sitting up with her sketchbook on her knees, drawing you asleep.",
