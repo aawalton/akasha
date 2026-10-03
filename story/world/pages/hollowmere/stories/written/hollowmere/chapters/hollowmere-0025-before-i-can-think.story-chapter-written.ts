@@ -4,6 +4,7 @@ export const hollowmere0025BeforeICanThink = {
   id: "01a101a3-30e7-7df3-9955-fe2fe15e2f44",
   type: "page-type/story-chapter-written",
   slug: "hollowmere-0025-before-i-can-think",
+  cover: "image/image-0d42e619df88ef4b",
   position: 25,
   unit: "unit/words",
   title: "Before I Can Think",
@@ -97,5 +98,13 @@ export const hollowmere0025BeforeICanThink = {
     "character-other/hollowmere-shiv",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/mechanics"],
+  recordedBy: ["story-recorder/inventory", "story-recorder/mechanics", "story-recorder/picture"],
+  scenes: ["image/image-0d42e619df88ef4b"],
+  pictured: [
+    {
+      cover: "image/image-0d42e619df88ef4b",
+      coverAfter: "The post box is by the porters' lodge.",
+      setting: "the post box by the porters' lodge",
+    },
+  ],
 } as const satisfies StoryChapterWritten
