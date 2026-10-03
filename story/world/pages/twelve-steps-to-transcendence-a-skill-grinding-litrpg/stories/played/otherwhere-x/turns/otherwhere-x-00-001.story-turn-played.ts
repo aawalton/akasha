@@ -13,6 +13,7 @@ export const otherwhereX00001 = {
   prose: "txt",
   characters: ["character-player/otherwhere-x-nala"],
   stepStatus: "step-status/player",
+  beats: "jsonl",
   lore: ["lore/otherwhere-x-nala", "place/otherwhere-x-harrow-mile"],
   recordedBy: ["story-recorder/mechanics", "story-recorder/memory", "story-recorder/picture"],
 } as const satisfies StoryTurnPlayed
