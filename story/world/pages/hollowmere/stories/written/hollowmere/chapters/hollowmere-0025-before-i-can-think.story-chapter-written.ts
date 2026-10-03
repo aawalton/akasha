@@ -10,7 +10,7 @@ export const hollowmere0025BeforeICanThink = {
   story: "story-written/hollowmere",
   ownLength: 4524,
   prose: "txt",
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/game-master",
   beats: [
     "Thursday of week four: rain on the window of 15, and Bea asleep with her face in your neck.",
     "You lie still and listen; Bea wakes, groans at the rain, and pulls the blanket over both heads.",
@@ -71,6 +71,7 @@ export const hollowmere0025BeforeICanThink = {
     "Bea puts her book down and pulls you in; you fall asleep with her heart going under your ear.",
     "A day at Hollowmere ends.",
   ],
+  issues: ['"My grandmother remembers them" - she studied here 40 years ago, long after 1858'],
   lore: [
     "lore/hollowmere-academy-2",
     "lore/hollowmere-amara",
@@ -95,5 +96,5 @@ export const hollowmere0025BeforeICanThink = {
     "character-other/hollowmere-priya",
     "character-other/hollowmere-shiv",
   ],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
 } as const satisfies StoryChapterWritten
