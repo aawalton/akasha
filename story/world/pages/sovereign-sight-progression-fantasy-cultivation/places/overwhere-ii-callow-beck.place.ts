@@ -162,7 +162,7 @@ export const overwhereIiCallowBeck = {
     },
     {
       fact: "The gully mouth above the pasture is narrow; a bank of peat and stones there would hold the slick.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Higher up, the Callow pool still feeds the gully with a thin black trickle.",
