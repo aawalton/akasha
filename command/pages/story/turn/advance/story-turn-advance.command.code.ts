@@ -226,7 +226,8 @@ async function heldOn(
   const { changes, memory } = beats
   const story = reach.storyOf(given.root, stated.game)
   const edited = read.chapter && story?.editorSteps === true ? { editorSteps: true } : {}
-  const held = { ...stated, beats: beats.beats.length, changes, memory, ...edited }
+  const switched = read.chapter && story?.proseOnBeats === true ? { proseOnBeats: true } : {}
+  const held = { ...stated, beats: beats.beats.length, changes, memory, ...edited, ...switched }
   const seat = reach.seatOf(given.root, given.agentId)
   const caller: Caller = seat ?? { role: null, game: null }
   const reviewers = reach.reviewersIn(given.root)

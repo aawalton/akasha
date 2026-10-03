@@ -107,6 +107,35 @@ test("`--title` is refused on a turn and on a chapter step other than the writer
   expect(taken(["--chapter", CHAPTER, "--title", "A"], CALLED, ROOT)).toEqual(refusal)
 })
 
+function beatsProseAt(): string {
+  const at = join(scratch.rootFor("turn-handing-beats-"), "prose.jsonl")
+  const told = [
+    { beat: 1, prose: "Wren smiles." },
+    { beat: 2, prose: "The door opens." },
+  ]
+  writeFileSync(at, `${told.map((one) => JSON.stringify(one)).join("\n")}\n`)
+  return at
+}
+
+test("a prose file naming a beat to a line is each beat's prose, collected into the prose", () => {
+  expect(
+    taken(["--chapter", CHAPTER, "--prose-file", beatsProseAt(), "--title", "A"], CALLED, ROOT)
+  ).toEqual({
+    turn: CHAPTER,
+    chapter: true,
+    handed: {
+      kind: "prose",
+      prose: "Wren smiles.\n\nThe door opens.\n",
+      characters: [],
+      beatProse: [
+        { beat: 1, prose: "Wren smiles." },
+        { beat: 2, prose: "The door opens." },
+      ],
+    },
+    title: "A",
+  })
+})
+
 test("a titled chapter's slug keeps the story and number and spells the title after them", () => {
   expect(numberedOf("harem-hotel-0001-the-key", "harem-hotel")).toBe("harem-hotel-0001")
   expect(titledOf("harem-hotel-0001", "harem-hotel", "Experiment 2 — Natalie's Table")).toBe(

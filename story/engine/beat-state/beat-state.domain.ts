@@ -10,6 +10,7 @@ export const beatState = {
     "module/beat-changes",
     "module/beat-memory",
     "module/beat-pictures",
+    "module/beat-prose",
     "module/beat-records",
   ],
   decisions: [

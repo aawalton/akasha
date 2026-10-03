@@ -15,7 +15,8 @@ export const beats = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A beat's line holds its scene, changes, memory and pictures beside its event.",
+      statement:
+        "A beat's line holds its prose, scene, changes, memory and pictures beside its event.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -25,6 +26,14 @@ export const beats = {
       decisionKind: "decision-kind/departure",
       statement:
         "The mechanics step replaces each beat's changes, and a recorder each beat's memory.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A writer and a prose editor replace each beat's prose, naming every beat.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A chapter's prose file is its beats' prose end to end, a cache of the beats.",
     },
     {
       decisionKind: "decision-kind/departure",

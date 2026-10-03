@@ -44,6 +44,7 @@ export const proseEditor = {
       warrant: "Nothing else moves a chapter on, so one left unadvanced stalls the story.",
       aids: [
         "Hand the prose in with `--prose-file`, and the chapter's title with `--title`.",
+        "Where the story states `proseOnBeats`, that file is one json line to a beat.",
         "Name no `--character` and the writer's list remains; name some and they replace it.",
         "The advance refuses more than half the words the writer handed in.",
         "A notice naming any step but prose-editor asks nothing of you.",

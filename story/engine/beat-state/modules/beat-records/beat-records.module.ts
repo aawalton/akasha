@@ -26,6 +26,15 @@ export const beatRecords = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "A writer's or a prose editor's part of a beat is a string of prose on that beat's line.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A beats file carries prose on every line of it or on none of them.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A part a beat has none of is left off its line.",
     },
     {

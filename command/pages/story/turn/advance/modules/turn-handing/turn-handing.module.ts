@@ -18,6 +18,14 @@ export const turnHanding = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A prose file holds the prose itself.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A prose file naming a beat to a line is each beat's prose.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A pictures file holds one picture to a line, each naming the beat it shows.",
     },
     {

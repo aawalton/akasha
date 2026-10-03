@@ -68,6 +68,7 @@ export const writer = {
       warrant: "Nothing else moves a turn or chapter on, so one left unadvanced stalls the story.",
       aids: [
         "Hand the prose in as a file with `--prose-file`.",
+        "Where the story states `proseOnBeats`, that file is one json line to a beat.",
         "Name a written chapter with `--chapter` in place of `--turn`.",
         "A notice naming any step but writer asks nothing of you.",
       ],

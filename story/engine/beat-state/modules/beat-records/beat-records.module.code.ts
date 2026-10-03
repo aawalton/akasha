@@ -12,6 +12,10 @@ import {
   picturedIn,
 } from "akasha/story/engine/beat-state/modules/beat-pictures/beat-pictures.module.code.ts"
 import {
+  type BeatProse,
+  proseRefused,
+} from "akasha/story/engine/beat-state/modules/beat-prose/beat-prose.module.code.ts"
+import {
   type BeatScene,
   sceneOf,
 } from "akasha/story/engine/beat-state/modules/beat-replay/beat-replay.module.code.ts"
@@ -22,6 +26,7 @@ export type Beats = {
   readonly changes: readonly BeatChange[]
   readonly memory: readonly Memory[]
   readonly pictured?: readonly Pictured[]
+  readonly prose?: readonly BeatProse[]
 }
 
 type Refused = { readonly refused: string }
@@ -38,9 +43,11 @@ const MEMORY = "memory"
 
 const PICTURED = "pictured"
 
+const PROSE = "prose"
+
 const SCENE_KEYS: readonly string[] = ["at", "place", "present", "arrive", "leave"]
 
-const KNOWN: readonly string[] = [BEAT, EVENT, ...SCENE_KEYS, CHANGES, MEMORY, PICTURED]
+const KNOWN: readonly string[] = [BEAT, EVENT, ...SCENE_KEYS, CHANGES, MEMORY, PICTURED, PROSE]
 
 const LINES = /\r?\n/
 
@@ -66,6 +73,7 @@ type Read = {
   readonly changes: string[]
   readonly memory: string[]
   readonly pictured: string[]
+  readonly prose: BeatProse[]
 }
 
 function lineRead(read: Read, line: string, beat: number): string | null {
@@ -78,6 +86,10 @@ function lineRead(read: Read, line: string, beat: number): string | null {
   if (held[BEAT] !== beat) return `line ${beat} names beat ${String(held[BEAT])}, out of order`
   const event = held[EVENT]
   if (typeof event !== "string" || event.trim() === "") return `beat ${beat} states no \`event\``
+  const told = held[PROSE]
+  if (told !== undefined && (typeof told !== "string" || told.trim() === "")) {
+    return `beat ${beat} states \`prose\` as no prose`
+  }
   const scene = sceneOf(beat, held)
   if (typeof scene === "string") return scene
   const changes = entriesUnder(beat, held[CHANGES])
@@ -87,6 +99,7 @@ function lineRead(read: Read, line: string, beat: number): string | null {
   const pictured = entriesUnder(beat, held[PICTURED])
   if (typeof pictured === "string") return pictured
   read.beats.push(event.trim())
+  if (typeof told === "string") read.prose.push({ beat, prose: told.trim() })
   if (Object.keys(scene).length > 1) read.scenes.push(scene)
   read.changes.push(...changes)
   read.memory.push(...memory)
@@ -99,7 +112,7 @@ export function beatsIn(text: string): Beats | Refused {
     .split(LINES)
     .map((one) => one.trim())
     .filter((one) => one !== "")
-  const read: Read = { beats: [], scenes: [], changes: [], memory: [], pictured: [] }
+  const read: Read = { beats: [], scenes: [], changes: [], memory: [], pictured: [], prose: [] }
   for (const [index, line] of lines.entries()) {
     const wrong = lineRead(read, line, index + 1)
     if (wrong !== null) return { refused: wrong }
@@ -110,8 +123,11 @@ export function beatsIn(text: string): Beats | Refused {
   if ("refused" in memory) return memory
   const pictured = picturedIn(read.pictured, read.beats.length)
   if ("refused" in pictured) return pictured
+  const told = read.prose.length === 0 ? null : proseRefused(read.prose, read.beats.length)
+  if (told !== null) return { refused: told }
   const held = { beats: read.beats, scenes: read.scenes, changes, memory }
-  return pictured.length === 0 ? held : { ...held, pictured }
+  const drawn = pictured.length === 0 ? held : { ...held, pictured }
+  return read.prose.length === 0 ? drawn : { ...drawn, prose: read.prose }
 }
 
 function moved<Held extends { readonly beat: number }>(
@@ -127,6 +143,7 @@ export function beatsJoined(each: readonly Beats[]): Beats {
   const changes: BeatChange[] = []
   const memory: Memory[] = []
   const pictured: Pictured[] = []
+  const prose: BeatProse[] = []
   for (const one of each) {
     const past = beats.length
     beats.push(...one.beats)
@@ -134,9 +151,11 @@ export function beatsJoined(each: readonly Beats[]): Beats {
     changes.push(...moved(one.changes, past))
     memory.push(...moved(one.memory, past))
     pictured.push(...moved(one.pictured ?? [], past))
+    prose.push(...moved(one.prose ?? [], past))
   }
   const held = { beats, scenes, changes, memory }
-  return pictured.length === 0 ? held : { ...held, pictured }
+  const drawn = pictured.length === 0 ? held : { ...held, pictured }
+  return prose.length === 0 ? drawn : { ...drawn, prose }
 }
 
 function unbeaten(one: Entry): Entry {
@@ -151,9 +170,11 @@ export function beatsWritten(held: Beats): string {
       const changes = held.changes.filter((one) => one.beat === beat).map(unbeaten)
       const memory = held.memory.filter((one) => one.beat === beat).map(unbeaten)
       const pictured = (held.pictured ?? []).filter((one) => one.beat === beat).map(unbeaten)
+      const told = held.prose?.find((one) => one.beat === beat)?.prose
       const record = {
         [BEAT]: beat,
         [EVENT]: event,
+        ...(told === undefined ? {} : { [PROSE]: told }),
         ...(scene === undefined ? {} : unbeaten(scene)),
         ...(changes.length === 0 ? {} : { [CHANGES]: changes }),
         ...(memory.length === 0 ? {} : { [MEMORY]: memory }),

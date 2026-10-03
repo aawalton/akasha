@@ -55,6 +55,27 @@ test("a part a beat has none of is left off its line", () => {
   expect(beatsWritten(plain)).toBe(`${JSON.stringify({ beat: 1, event: "A plain beat." })}\n`)
 })
 
+test("a beat's prose rides on the line of the beat it tells", () => {
+  const told: Beats = {
+    ...HELD,
+    prose: [
+      { beat: 1, prose: "Mara wakes in the attic." },
+      { beat: 2, prose: "She goes down to the hall." },
+    ],
+  }
+  const line = JSON.parse(beatsWritten(told).split("\n")[0] ?? "")
+  expect(line.prose).toBe("Mara wakes in the attic.")
+  expect(beatsIn(beatsWritten(told))).toEqual(told)
+})
+
+test("prose on some beats and not others refuses the whole file", () => {
+  const first = JSON.stringify({ beat: 1, event: "One.", prose: "One told." })
+  const second = JSON.stringify({ beat: 2, event: "Two." })
+  expect(beatsIn(`${first}\n${second}\n`)).toEqual({
+    refused: "2 beats and prose for 1 of them, and every beat takes its own prose",
+  })
+})
+
 test("beats joined end to end are numbered on from the beats before them", () => {
   const picture = { beat: 1, cover: "image/image-a", coverAfter: "Mara", setting: "the attic" }
   const later: Beats = { ...HELD, pictured: [picture] }

@@ -70,6 +70,7 @@ function movedOf(more: Partial<Moved>): Moved {
     status: "mechanics",
     values: {},
     prose: null,
+    proseRecords: null,
     planned: null,
     changes: null,
     memory: null,
@@ -121,6 +122,20 @@ test("a picture recorder's pictures land on their beats and later moves keep the
   expect(pictured).toBe(beatsWritten({ ...PLANNED, pictured: [shown] }))
   const kept = beatsBodyOf({ ...PLANNED, pictured: [shown] }, movedOf({ memory: [LEARNS] }))
   expect(kept).toBe(beatsWritten({ ...PLANNED, memory: [LEARNS], pictured: [shown] }))
+})
+
+test("prose handed in for each beat is written onto the beats, and the prose file rebuilt", () => {
+  const told = [
+    { beat: 1, prose: "Elsie trains." },
+    { beat: 2, prose: "Elsie rests." },
+  ]
+  const said = movedOf({ prose: "Elsie trains.\n\nElsie rests.\n", proseRecords: told })
+  expect(bodiesOf(said, PLANNED)).toEqual({
+    bodies: {
+      prose: "Elsie trains.\n\nElsie rests.\n",
+      beats: beatsWritten({ ...PLANNED, prose: told }),
+    },
+  })
 })
 
 test("a move's issue lists are written as files beside the turn, one issue to a line", () => {

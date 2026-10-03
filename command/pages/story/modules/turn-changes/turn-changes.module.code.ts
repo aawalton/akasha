@@ -85,7 +85,10 @@ export function bodiesOf(
 ): { readonly bodies?: { readonly [key: string]: string } } {
   const bodies: { [key: string]: string } = {}
   if (said.prose !== null) bodies[PROSE] = said.prose
-  const beats = beatsBodyOf(held, said)
+  const beats =
+    said.proseRecords === null
+      ? beatsBodyOf(held, said)
+      : beatsWritten({ ...held, prose: said.proseRecords })
   if (beats !== null) bodies[BEATS] = beats
   for (const [key, lines] of [
     [ISSUES, said.issues],

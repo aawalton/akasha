@@ -8,6 +8,7 @@ import { writer as writerRole } from "akasha/agent/role/pages/writer.role.ts"
 import type { BeatChange } from "akasha/story/engine/beat-state/modules/beat-changes/beat-changes.module.code.ts"
 import type { Memory } from "akasha/story/engine/beat-state/modules/beat-memory/beat-memory.module.code.ts"
 import type { Pictured } from "akasha/story/engine/beat-state/modules/beat-pictures/beat-pictures.module.code.ts"
+import type { BeatProse } from "akasha/story/engine/beat-state/modules/beat-prose/beat-prose.module.code.ts"
 import type {
   BeatScene,
   Planned,
@@ -105,6 +106,7 @@ type Moving = {
   readonly starts?: readonly Start[]
   readonly stopsCaller?: boolean
   readonly prose?: string | null
+  readonly proseRecords?: readonly BeatProse[] | null
   readonly planned?: Planned | null
   readonly changes?: readonly BeatChange[] | null
   readonly memory?: readonly Memory[] | null
@@ -144,6 +146,7 @@ function moved(
     status,
     values: { stepStatus: statusOf(status), ...values },
     prose: moving.prose ?? null,
+    proseRecords: moving.proseRecords ?? null,
     planned: moving.planned ?? null,
     changes: moving.changes ?? null,
     memory: moving.memory ?? null,
@@ -297,7 +300,7 @@ function fromProse(
 ): Advanced {
   const taken = proseTaken(held, handed.prose, handed.characters, cast, admitted)
   if ("refused" in taken) return taken
-  const moving = { prose: taken.prose }
+  const moving = { prose: taken.prose, proseRecords: handed.beatProse ?? null }
   const editor = editorAfter(held)
   if (editor !== null) return moved(editor, taken.values, moving)
   return afterProse(held, taken.values, staff, moving)
@@ -369,6 +372,12 @@ export function advanced(
   if (handed.kind !== takes) {
     return {
       refused: `at ${held.status} an advance hands in ${SAID_AS[takes]}, and this hands in ${SAID_AS[handed.kind]}`,
+    }
+  }
+  if (handed.kind === "prose" && handed.beatProse !== undefined && held.proseOnBeats !== true) {
+    return {
+      refused:
+        "this story keeps each chapter's prose in the file beside the chapter, so a writer hands in the prose itself",
     }
   }
   const staff = { reviewers, recorders: leftOf(recorders, mechanics), mechanics }

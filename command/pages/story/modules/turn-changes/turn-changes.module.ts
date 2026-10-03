@@ -62,6 +62,11 @@ export const turnChanges = {
     {
       decisionKind: "decision-kind/departure",
       statement:
+        "Prose handed in for each beat is written onto the beats, and the prose file is rebuilt.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
         "A key a move hands over as undefined is cleared, so a file beside the turn holding it goes too.",
     },
   ],

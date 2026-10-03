@@ -107,6 +107,8 @@ const TITLE = "title"
 
 const EDITOR_STEPS = "editorSteps"
 
+const PROSE_ON_BEATS = "proseOnBeats"
+
 const NAME = "name"
 
 const SLUG = "slug"
@@ -133,6 +135,7 @@ export type Story = {
   readonly title: string
   readonly master: string | null
   readonly editorSteps?: boolean
+  readonly proseOnBeats?: boolean
 }
 
 export type Starting = {
@@ -284,6 +287,7 @@ function storyIndexed(root: string, game: string): Story | null {
     title: textAt(value, TITLE) ?? game,
     master: textAt(value, MASTER),
     editorSteps: value[EDITOR_STEPS] === true,
+    proseOnBeats: value[PROSE_ON_BEATS] === true,
   }
 }
 

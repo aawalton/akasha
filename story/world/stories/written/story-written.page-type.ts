@@ -22,6 +22,7 @@ export const storyWritten = {
     "service-workstation/nightly-chapter-writing",
     "number-property/word-backlog",
     "boolean-property/editor-steps",
+    "boolean-property/prose-on-beats",
   ],
   decisions: [
     {
@@ -55,5 +56,6 @@ export const storyWritten = {
       uncommitted: true,
     },
     { pageProperty: "boolean-property/editor-steps", required: false, many: false },
+    { pageProperty: "boolean-property/prose-on-beats", required: false, many: false },
   ],
 } as const satisfies PageType

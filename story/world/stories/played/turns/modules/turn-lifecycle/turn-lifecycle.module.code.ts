@@ -11,6 +11,7 @@ import { stepStatus } from "akasha/story/chapter/step-status/step-status.page-ty
 import type { BeatChange } from "akasha/story/engine/beat-state/modules/beat-changes/beat-changes.module.code.ts"
 import type { Memory } from "akasha/story/engine/beat-state/modules/beat-memory/beat-memory.module.code.ts"
 import type { Pictured } from "akasha/story/engine/beat-state/modules/beat-pictures/beat-pictures.module.code.ts"
+import type { BeatProse } from "akasha/story/engine/beat-state/modules/beat-prose/beat-prose.module.code.ts"
 import type {
   BeatScene,
   Planned,
@@ -72,7 +73,12 @@ export type Handed =
       readonly scenes?: readonly BeatScene[]
     }
   | { readonly kind: "review"; readonly reviewer: string; readonly issues: readonly string[] }
-  | { readonly kind: "prose"; readonly prose: string; readonly characters: readonly string[] }
+  | {
+      readonly kind: "prose"
+      readonly prose: string
+      readonly characters: readonly string[]
+      readonly beatProse?: readonly BeatProse[]
+    }
   | {
       readonly kind: "record"
       readonly recorder: string
@@ -99,6 +105,7 @@ export type Held = {
   readonly written: boolean
   readonly beats?: number
   readonly editorSteps?: boolean
+  readonly proseOnBeats?: boolean
   readonly mechanicsIssues?: readonly string[]
   readonly mechanicsSentBack?: boolean
   readonly changes?: readonly BeatChange[]
@@ -116,6 +123,7 @@ export type Moved = {
   readonly status: TurnStep
   readonly values: Readonly<Record<string, unknown>>
   readonly prose: string | null
+  readonly proseRecords: readonly BeatProse[] | null
   readonly planned: Planned | null
   readonly changes: readonly BeatChange[] | null
   readonly memory: readonly Memory[] | null

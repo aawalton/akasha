@@ -18,6 +18,10 @@ import { slugOf } from "akasha/page/naming/folding/modules/slug-of/slug-of.modul
 import { changesIn } from "akasha/story/engine/beat-state/modules/beat-changes/beat-changes.module.code.ts"
 import { memoryIn } from "akasha/story/engine/beat-state/modules/beat-memory/beat-memory.module.code.ts"
 import { picturedIn } from "akasha/story/engine/beat-state/modules/beat-pictures/beat-pictures.module.code.ts"
+import {
+  proseIn,
+  proseWritten,
+} from "akasha/story/engine/beat-state/modules/beat-prose/beat-prose.module.code.ts"
 import { plannedIn } from "akasha/story/engine/beat-state/modules/beat-replay/beat-replay.module.code.ts"
 import {
   type Handed,
@@ -198,7 +202,17 @@ function handedFrom(root: string, said: Said): Handed | Refusal {
     }
   }
   const read = heldAt(root, proseFile.said, said.proseFile)
-  return "refused" in read ? read : { kind: "prose", prose: read.text, characters: said.character }
+  if ("refused" in read) return read
+  const beatProse = proseIn(linesIn(read.text), Number.MAX_SAFE_INTEGER)
+  if ("refused" in beatProse) {
+    return { kind: "prose", prose: read.text, characters: said.character }
+  }
+  return {
+    kind: "prose",
+    prose: proseWritten(beatProse),
+    characters: said.character,
+    beatProse,
+  }
 }
 
 export function taken(argv: readonly string[], calledAs: string, root: string): Taken | Refusal {
