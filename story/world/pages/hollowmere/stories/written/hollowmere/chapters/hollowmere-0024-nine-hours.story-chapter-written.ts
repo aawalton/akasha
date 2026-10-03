@@ -1,16 +1,16 @@
 import type { StoryChapterWritten } from "akasha/story/world/stories/written/chapters/story-chapter-written.page-type.types.ts"
 
-export const hollowmere0024 = {
+export const hollowmere0024NineHours = {
   id: "01a10192-5ade-7e67-814e-ecbd5d9a5e1c",
   type: "page-type/story-chapter-written",
-  slug: "hollowmere-0024",
+  slug: "hollowmere-0024-nine-hours",
   position: 24,
   unit: "unit/words",
-  title: "Chapter 24",
+  title: "Nine Hours",
   story: "story-written/hollowmere",
-  ownLength: 0,
+  ownLength: 4563,
   prose: "txt",
-  stepStatus: "step-status/writer",
+  stepStatus: "step-status/reviewers",
   beats: [
     "Wednesday of week four: you wake at six, rested; you slept all night, the way you promised.",
     "Bea is a warm weight at your back, still asleep, her blistered hand open on your hip.",
@@ -73,5 +73,27 @@ export const hollowmere0024 = {
     "You lie awake a little, thinking of a narrow bed in room 1, and hope she sleeps all night too.",
     "A day at Hollowmere ends.",
   ],
-  lore: ["lore/hollowmere-yusra"],
+  lore: [
+    "lore/hollowmere-amara",
+    "lore/hollowmere-bea",
+    "lore/hollowmere-bea-2",
+    "lore/hollowmere-kit",
+    "lore/hollowmere-kit-2",
+    "lore/hollowmere-lin",
+    "lore/hollowmere-nala",
+    "lore/hollowmere-nala-2",
+    "lore/hollowmere-penhallow",
+    "lore/hollowmere-priya",
+    "lore/hollowmere-yusra",
+  ],
+  characters: [
+    "character-player/hollowmere-nala",
+    "character-other/hollowmere-yusra",
+    "character-other/hollowmere-bea",
+    "character-other/hollowmere-lin",
+    "character-other/hollowmere-kit",
+    "character-other/hollowmere-priya",
+    "character-other/hollowmere-amara",
+    "character-other/hollowmere-penhallow",
+  ],
 } as const satisfies StoryChapterWritten
