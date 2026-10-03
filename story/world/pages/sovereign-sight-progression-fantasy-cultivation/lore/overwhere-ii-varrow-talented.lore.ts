@@ -107,5 +107,13 @@ export const overwhereIiVarrowTalented = {
       fact: "In Nala's first bout, her blunt spear touched Osric clean in the ribs; his maul caught her after.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
+    {
+      fact: "For a few breaths Hawise can blur to twice the speed a common fighter moves.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+    },
+    {
+      fact: "In Nala's second bout, Hawise blurred past her spear and touched her clean in the ribs.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+    },
   ],
 } as const satisfies Lore
