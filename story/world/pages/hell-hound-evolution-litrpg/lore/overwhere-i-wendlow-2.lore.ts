@@ -212,5 +212,9 @@ export const overwhereIWendlow2 = {
       fact: "Nala's two-pearl ring will be ready at Ilse's shop by the afternoon of day 11.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Ilse sizes Nala's finger with a wire loop and gives her a stamped tin claim tag for the ring.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
