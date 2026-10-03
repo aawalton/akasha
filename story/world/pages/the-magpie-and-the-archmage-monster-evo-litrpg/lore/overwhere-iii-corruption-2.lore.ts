@@ -201,5 +201,9 @@ export const overwhereIiiCorruption2 = {
       fact: "The last kiln jackalope hides limping under the stump roots, its blight still smoldering.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
+    {
+      fact: "The last kiln jackalope lies curled an arm's length down its burrow; a hand can reach it.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
