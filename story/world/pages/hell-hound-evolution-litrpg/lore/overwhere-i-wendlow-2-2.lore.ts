@@ -116,5 +116,9 @@ export const overwhereIWendlow22 = {
       fact: "Bell and Barrel supper on day 8 is eel stew, black bread and small beer.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "The rider brings two slips; the reeve's 8 gold for why Greyfen crystals went dark still stands too.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
