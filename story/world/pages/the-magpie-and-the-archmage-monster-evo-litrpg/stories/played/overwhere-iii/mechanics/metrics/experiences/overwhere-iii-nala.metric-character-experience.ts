@@ -7,7 +7,7 @@ export const overwhereIiiNala = {
   character: "character-player/overwhere-iii-nala",
   value: 100,
   minValue: 0,
-  maxValue: 200,
+  maxValue: 300,
   history: "jsonl",
   displayOrder: 3,
   unrevealed: true,
