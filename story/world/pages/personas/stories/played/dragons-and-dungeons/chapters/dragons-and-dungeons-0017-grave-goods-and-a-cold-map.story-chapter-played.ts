@@ -10,4 +10,8 @@ export const dragonsAndDungeons0017GraveGoodsAndAColdMap = {
   ownLength: 900,
   unit: "unit/words",
   prose: "txt",
+  beats: "jsonl",
+  lastTurn: "dragons-and-dungeons-02-017",
+  lastTurnPosition: 17,
+  endsAt: "2026-09-30T07:00:00.000Z",
 } as const satisfies StoryChapterPlayed
