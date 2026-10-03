@@ -10,7 +10,7 @@ export const hollowmere0023WhatAWardKeepsIn = {
   story: "story-written/hollowmere",
   ownLength: 3083,
   prose: "txt",
-  stepStatus: "step-status/game-master",
+  stepStatus: "step-status/writer",
   beats: [
     "Tuesday of week four: grey light; Bea is gone already, her side of the bed still warm.",
     "A note on your pillow in Bea's big hand: Outing. Back for lunch. Eat. B x",
@@ -29,7 +29,7 @@ export const hollowmere0023WhatAWardKeepsIn = {
     'Penhallow\'s eyebrows go up over her glasses. "Go on." You say: "Too tight a ward starves it."',
     'She looks at you a long moment, then pushes the tin an inch your way. "Put that in the essay."',
     "On the tower stairs Kit falls into step beside you, quiet, her bag strap twisted in her fist.",
-    '"Amara said brave," Kit says. "Amara Okafor. To me." She shakes her head. "I keep hearing it."',
+    '"Amara said brave," Kit says. "Amara Osei. To me." She shakes her head. "I keep hearing it."',
     "You say it was brave. Kit says it didn't feel brave; it felt like being sick, and then it was done.",
     "At the foot of the stairs she bumps your shoulder with hers, quickly, and goes off to the forge.",
     "Lunch: Bea comes in from the boathouse red-cheeked, with two new blisters, and eats three plates.",
