@@ -1,0 +1,60 @@
+{"beat":1,"event":"Solenne steps through the door onto a vast black-stone floor dotted with pillars.","at":"2000-01-04T11:15:00.000Z","place":"place/tower-and-the-star-floor-10-ironjaw-chamber","present":["character-other/tower-and-the-star-solenne","character-other/tower-and-the-star-dayo","character-other/tower-and-the-star-miriam","character-other/tower-and-the-star-vesper","character-other/tower-and-the-star-tomas","character-other/tower-and-the-star-nadia"],"changes":[{"page":"world-metric/tower-and-the-star-highest-floor-reached","key":"value","from":9,"to":10,"note":"The party reaches Floor 10"}]}
+{"beat":2,"event":"The System announces the Floor 10 Major Boss: Ironjaw Sentinel, Lv25, three phases."}
+{"beat":3,"event":"Nadia says, \"Well. It's here,\" and for once gives the thing no name."}
+{"beat":4,"event":"Solenne calls Tomás, who runs Terrain Read for twenty seconds."}
+{"beat":5,"event":"Tomás reports thirty-four geometric pillars and the Sentinel waiting at the far end."}
+{"beat":6,"event":"The pillar map appears in everyone's Status Window via the Harmony Conductor."}
+{"beat":7,"event":"Solenne senses the Sentinel's armor and mana through Arcane Analysis."}
+{"beat":8,"event":"Dayo's bracer shows four tally marks; she has not added a fifth."}
+{"beat":9,"event":"Solenne gives positions and roles in thirty seconds; the party listens."}
+{"beat":10,"event":"Dayo walks across the thirty-meter aggro line."}
+{"beat":11,"event":"The forty-meter Ironjaw Sentinel strides forward from the far wall."}
+{"beat":12,"event":"Dayo plants in Iron Stance, buckler up, drawing its threat."}
+{"beat":13,"event":"Arcane Analysis shows 35% physical, 40% magic reduction and three weak points."}
+{"beat":14,"event":"Dayo takes the first jaw strike on her buckler; the Gambit reflects damage."}
+{"beat":15,"event":"A second low strike lands on her gauntlet; secondary hits drop Dayo to 397 HP."}
+{"beat":16,"event":"Tomás puts arrows into the left then right shoulder joints from forty-five meters."}
+{"beat":17,"event":"Miriam's Nature's Veil and Mending Touch keep Dayo regenerating."}
+{"beat":18,"event":"Solenne calls Stumble; Nadia staggers the Sentinel's right ankle."}
+{"beat":19,"event":"Dayo Shield Rushes the staggered leg, breaking its footing for two seconds."}
+{"beat":20,"event":"Solenne calls the window and Nadia throws the last Null Compound at its chest."}
+{"beat":21,"event":"The Sentinel's magic armor collapses for eight seconds."}
+{"beat":22,"event":"Solenne channels Ley Conduit, doubling her INT to 56 through the enhanced staff."}
+{"beat":23,"event":"Solenne fires three full-power Arcane Bolts into the exposed chest."}
+{"beat":24,"event":"About three thousand HP go in eight seconds; Solenne's hands shake after."}
+{"beat":25,"event":"Four minutes in, Phase 1 settles into a working rhythm; the boss is near 70% HP."}
+{"beat":26,"event":"In the rhythm Solenne decides the party deserve the truth now, not after Floor 10."}
+{"beat":27,"event":"Solenne reaches beneath the Conductor's tactical feed for its connection."}
+{"beat":28,"event":"Solenne sends six words to all: the Tower was designed for us."}
+{"beat":29,"event":"The channel goes quiet for half a second."}
+{"beat":30,"event":"Dayo says, \"Yeah,\" and catches the next jaw strike."}
+{"beat":31,"event":"Miriam, mid-cast, answers with a fractionally warmer Mending Touch on Dayo."}
+{"beat":32,"event":"Party Record logs Harmonize's first communication use, no precedent."}
+{"beat":33,"event":"Solenne lets the note sit; the boss is at 68% and Phase 2 is coming."}
+{"beat":34,"event":"Tomás glances over from his pillar with visible relief."}
+{"beat":35,"event":"Solenne turns back to the Sentinel and fires."}
+{"beat":36,"event":"At 60% HP the Sentinel freezes mid-attack and studies them all."}
+{"beat":37,"event":"The Sentinel charges a pillar and pivots off it, reversing direction in a second."}
+{"beat":38,"event":"Unable to plant against shifting angles, Dayo drops Iron Stance."}
+{"beat":39,"event":"Dayo runs to cut off its approach at the second pillar, reading it like a pitch."}
+{"beat":40,"event":"Solenne calls Sleep; Nadia's Chaos Grenade puts the Sentinel to sleep mid-charge."}
+{"beat":41,"event":"The sleeping Sentinel slides into a pillar base and lies still."}
+{"beat":42,"event":"Nadia readies a second grenade."}
+{"beat":43,"event":"Solenne tells Tomás to hold, but he takes a clean jaw-base shot."}
+{"beat":44,"event":"The arrow breaks the Sleep four seconds early; the Sentinel rises, eyes on Dayo."}
+{"beat":45,"event":"Nadia's second grenade lands Slow for eight seconds."}
+{"beat":46,"event":"Dayo, unrooted, uses the pillars as geometry to deflect its charges."}
+{"beat":47,"event":"Her lateral Shield Rush forces the Sentinel into a narrow pillar cluster."}
+{"beat":48,"event":"The Sentinel crashes through a column and staggers."}
+{"beat":49,"event":"Dayo punches its jaw joint; its charge goes wide."}
+{"beat":50,"event":"Tomás puts two arrows into the right shoulder joint."}
+{"beat":51,"event":"Solenne watches Dayo play the whole fight like a pitch through the Conductor."}
+{"beat":52,"event":"Nadia runs flanking patterns, using Burst Speed after each Stumble."}
+{"beat":53,"event":"Tomás repositions pillar to pillar; Miriam's heals keep Dayo's HP climbing."}
+{"beat":54,"event":"Vesper watches the Gambit and Dayo's movement with brief satisfaction."}
+{"beat":55,"event":"Slow ends; Dayo cuts the surge off at the fourth pillar and it stumbles."}
+{"beat":56,"event":"Nadia says, \"Okay good.\""}
+{"beat":57,"event":"The Sentinel's HP crosses thirty percent."}
+{"beat":58,"event":"Phase 3: the Sentinel locks still and weighs each of the six."}
+{"beat":59,"event":"The System shows Phase 3: target acquired."}
+{"beat":60,"event":"The target indicator appears over Miriam's head."}
