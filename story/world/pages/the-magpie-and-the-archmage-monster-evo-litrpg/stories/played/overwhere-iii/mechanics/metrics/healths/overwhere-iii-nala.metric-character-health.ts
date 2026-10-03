@@ -5,10 +5,10 @@ export const overwhereIiiNala = {
   type: "page-type/metric-character-health",
   slug: "overwhere-iii-nala",
   character: "character-player/overwhere-iii-nala",
-  value: 31,
+  value: 22,
   minValue: 0,
   maxValue: 36,
   history: "jsonl",
   displayOrder: 1,
-  revealedAs: "Bruised; the boar's charge came through the ward",
+  revealedAs: "Battered; a failed knot and a second charge",
 } as const satisfies MetricCharacterHealth
