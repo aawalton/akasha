@@ -15,7 +15,7 @@ export const overwhereIv00086 = {
     "character-other/overwhere-iv-rennick-hale",
     "character-other/overwhere-iv-brenna-holt",
   ],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/recorders",
   action:
     "“I’ll get some sleep, then go scoring again.” Before going to sleep, I go and resign from the guard, thanking them and paying them for the gear, asking if I can keep what I had been using, then sleep and back out to the woods where I ambushed the goblins.",
   beats: [
@@ -40,6 +40,6 @@ export const overwhereIv00086 = {
     "place/overwhere-iv-millbrook",
     "place/overwhere-iv-millbrook-gatehouse",
   ],
-  reviewedBy: ["story-reviewer/continuity"],
+  reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
   endsAt: "2026-10-07T07:40:00.000Z",
 } as const satisfies StoryTurnPlayed
