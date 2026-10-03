@@ -37,7 +37,7 @@ const REVEALED_AS_KEY = "revealedAs"
 
 const UNREVEALED_KEY = "unrevealed"
 
-export type Purses = {
+type Purses = {
   readonly purse: Readonly<Record<string, string | number>>
   readonly ledgers: Readonly<Record<string, readonly LedgerLine[]>>
 }
