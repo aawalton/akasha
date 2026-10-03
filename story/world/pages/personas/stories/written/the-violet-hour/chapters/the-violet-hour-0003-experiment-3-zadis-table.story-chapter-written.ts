@@ -10,4 +10,5 @@ export const theVioletHour0003Experiment3ZadisTable = {
   ownLength: 1008,
   unit: "unit/words",
   prose: "txt",
+  beats: "jsonl",
 } as const satisfies StoryChapterWritten
