@@ -10,7 +10,7 @@ export const hollowmere0032Thursday = {
   story: "story-written/hollowmere",
   ownLength: 3007,
   prose: "txt",
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/game-master",
   beats: [
     "Thursday of week five: you wake in room 8, in Lin's narrow bed, grey light on the drawings.",
     "Lin is awake already, sitting up with her sketchbook on her knees, drawing you asleep.",
@@ -65,6 +65,9 @@ export const hollowmere0032Thursday = {
     "You hold her till the movements stop, and her breathing slows, and she's asleep.",
     "A day at Hollowmere ends.",
   ],
+  issues: [
+    '"You weren\'t on my floor last night" - beats have Yusra say you were in room 8; she hears doors',
+  ],
   lore: [
     "lore/hollowmere-academy-2",
     "lore/hollowmere-amara",
@@ -96,5 +99,5 @@ export const hollowmere0032Thursday = {
     "character-other/hollowmere-morwenna",
     "character-other/hollowmere-yusra",
   ],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
 } as const satisfies StoryChapterWritten
