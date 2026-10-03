@@ -10,6 +10,7 @@ export const overwhereIv0002WrittenSoft = {
   story: "story-played/overwhere-iv",
   ownLength: 3382,
   prose: "txt",
+  beats: "jsonl",
   turnCovers: [
     {
       position: 11,
