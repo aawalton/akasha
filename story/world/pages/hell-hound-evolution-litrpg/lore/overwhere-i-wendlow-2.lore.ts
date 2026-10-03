@@ -180,5 +180,9 @@ export const overwhereIWendlow2 = {
       fact: "Ilse has a drake-pearl of her own; set beside Nala's in the ring, two pearls reach 70 yards.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Ilse's second pearl costs 7 gold, setting included, and adds a day to the ring.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
