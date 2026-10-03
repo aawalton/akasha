@@ -132,5 +132,9 @@ export const overwhereIWendlow22 = {
       fact: "Breakfast on day 9 is the Bell and Barrel's porridge with honey and small beer.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Coldbrook Downs lie a day's walk north of Wendlow; the mantis bounty pays on its head or forelimbs.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
