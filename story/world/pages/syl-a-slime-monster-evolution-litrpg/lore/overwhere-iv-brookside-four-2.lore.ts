@@ -159,5 +159,13 @@ export const overwhereIvBrooksideFour2 = {
       fact: "Merrit has fire enough for several fireballs tonight, and means Nala to see them.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Wren and Orla came to Tull's fold with Aldo; Orla closed Nala's gash and eased her back.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+    },
+    {
+      fact: "Near midnight Wren spotted a dozen and more torches flare at the Tangle's edge across the ford.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+    },
   ],
 } as const satisfies Lore
