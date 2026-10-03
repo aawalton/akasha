@@ -209,7 +209,7 @@ export const overwhereIiWhitecombs = {
     },
     {
       fact: "Since the spill the Callow pool has doubled, sixty paces across, its black water steaming.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "At the pool's middle the water swells and eases slowly, in time with the crag's swells.",
