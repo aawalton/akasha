@@ -84,5 +84,9 @@ export const overwhereIWendlow2 = {
       fact: "Grete says nothing of Ivo Tessaly by name; of the guild she says only that it pays least.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Grete takes Ghost-Eye's ears with the head; they add nothing to the bounty already paid.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
