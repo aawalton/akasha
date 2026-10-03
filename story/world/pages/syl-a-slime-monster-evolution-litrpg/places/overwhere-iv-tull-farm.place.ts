@@ -187,5 +187,25 @@ export const overwhereIvTullFarm = {
       fact: "With the strike broken, Tull gripped Nala's hand hard and said nothing.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
     },
+    {
+      fact: "Only the two hobgoblins died at Tull's; their heads, ears and cores are there for the taking.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "A hobgoblin's core sits behind its breastbone, bigger than a goblin's; the hall gives 3 silver each.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Wren takes the hobgoblins' ears and cores; Dace hefts a head on each shoulder for Ilsa to see.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Aldo swears to all who'll listen that he saw the redhead kill two hobgoblins from the fold.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "At dawn Tull gives Nala his late wife's grey wool cloak, and a place at his table when she comes.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Place
