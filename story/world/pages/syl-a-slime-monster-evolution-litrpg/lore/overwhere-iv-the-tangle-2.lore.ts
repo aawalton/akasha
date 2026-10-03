@@ -264,5 +264,13 @@ export const overwhereIvTheTangle2 = {
       fact: "The strike's torches surged into Tull's ford, the two hobgoblins a head taller amid them.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
     },
+    {
+      fact: "By their own torches the running hobgoblins' heads show plain from the fold, bobbing as they run.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "If the maul-bearer falls, the spear hobgoblin horns retreat and the band goes back with him.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
