@@ -10,7 +10,7 @@ export const overwhereI00114 = {
   position: 114,
   prose: "txt",
   characters: ["character-player/overwhere-i-nala", "character-other/overwhere-i-harl-voss"],
-  stepStatus: "step-status/game-master",
+  stepStatus: "step-status/writer",
   action: "I hand it over, then travel back to town and turn in the fangs for the bounty",
   beats: [
     "Nala hands Dickon's belt to Jory.",
@@ -25,7 +25,7 @@ export const overwhereI00114 = {
     '"Paid with the other when the tax rider comes tomorrow." She signs it and slides it over.',
     "She hangs the fangs on a nail beside Voss's head and wipes the Weir Wyrm off the Board.",
     '"That letter went to the magistrate yesterday," she adds, low. "That\'s all I\'ll say of it."',
-    '"Board\'s bare till the rider brings fresh slips tomorrow," Grete says. "What now, Nala Arthur?"',
+    '"Board\'s bare till the rider brings fresh slips tomorrow," Grete says, and dips her pen in the ink.',
   ],
   issues: ['"What now, Nala Arthur?" - No Prompt'],
   lore: [
