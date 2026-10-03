@@ -4,13 +4,13 @@ export const overwhereI00115 = {
   id: "01a101da-fa5d-783b-8116-b529d8836500",
   type: "page-type/story-turn-played",
   slug: "overwhere-i-00-115",
-  ownLength: 374,
+  ownLength: 337,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-i"],
   position: 115,
   prose: "txt",
   characters: ["character-player/overwhere-i-nala"],
-  stepStatus: "step-status/writer",
+  stepStatus: "step-status/recorders",
   action:
     "I spend the afternoon testing weaves to see if I can get something to repair the tears in my clothes.",
   beats: [
