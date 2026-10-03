@@ -40,6 +40,10 @@ export const overwhereIiiMotherSallow = {
       fact: "She fights with blight bolts, a rot mist that saps strength, and two corrupted wolves at heel.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Her strongest working lands crushing force; her mage's shield wards six.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
