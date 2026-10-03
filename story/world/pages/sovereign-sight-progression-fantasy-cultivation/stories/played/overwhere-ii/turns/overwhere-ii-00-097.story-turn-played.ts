@@ -10,4 +10,5 @@ export const overwhereIi00097 = {
   stepStatus: "step-status/game-master",
   action: "“Done for today, need to focus on refining my organs.”",
   lore: ["lore/overwhere-ii-nala", "lore/overwhere-ii-nala-2", "lore/overwhere-ii-nala-3"],
+  endsAt: "2026-10-25T09:00:00.000Z",
 } as const satisfies StoryTurnPlayed
