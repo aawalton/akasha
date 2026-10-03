@@ -20,5 +20,6 @@ export const overwhereI00117 = {
     "lore/overwhere-i-wendlow-3",
     "place/overwhere-i-wendlow",
   ],
+  recordedBy: ["story-recorder/mechanics"],
   endsAt: "2026-10-07T12:15:00.000Z",
 } as const satisfies StoryTurnPlayed

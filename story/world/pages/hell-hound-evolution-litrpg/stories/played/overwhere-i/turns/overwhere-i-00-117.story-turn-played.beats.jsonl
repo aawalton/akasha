@@ -7,7 +7,7 @@
 {"beat":7,"event":"The wet pull settles behind her breastbone; the chewed strands creep together and lock."}
 {"beat":8,"event":"The tear shuts in a stiff, dark ridge, like the ones along her tunic."}
 {"beat":9,"event":"She works along to the second place and the third, unhurried, her hand moving down the hem."}
-{"beat":10,"event":"The last ravel felts shut; the cloak's hem hangs whole again, ridged and darker than the cloth.","at":"2026-10-07T11:15:00.000Z"}
+{"beat":10,"event":"The last ravel felts shut; the cloak's hem hangs whole again, ridged and darker than the cloth.","at":"2026-10-07T11:15:00.000Z","changes":[{"page":"metric-character-mana/overwhere-i-nala","note":"The felting weave held 20 minutes spends 200 mana, 10 a minute","key":"value","from":360,"to":160}]}
 {"beat":11,"event":"She shakes the cloak out and looks over the rest of her clothes."}
 {"beat":12,"event":"The leggings are sound, and the grey shirt and black tights from Earth take no weave at all."}
 {"beat":13,"event":"Her boots are leather and want no mending; Nala pulls the cloak on and rolls her shoulders."}
@@ -25,4 +25,4 @@
 {"beat":25,"event":"\"Grete Holm sent me this the day it came off the quarry road,\" Varne says, \"with no word.\""}
 {"beat":26,"event":"\"The seal on it is the merchants' counting-house's, and Harl Voss kept no such company.\""}
 {"beat":27,"event":"She opens the sheet flat with two inked fingers and leaves it lying between them."}
-{"beat":28,"event":"\"So,\" says Odile Varne, \"who else has read what is written here?\"","at":"2026-10-07T12:15:00.000Z"}
+{"beat":28,"event":"\"So,\" says Odile Varne, \"who else has read what is written here?\"","at":"2026-10-07T12:15:00.000Z","changes":[{"page":"metric-character-mana/overwhere-i-nala","note":"The walk to the Moot Hall and the wait give back 180 mana, 3 a minute","key":"value","from":160,"to":340},{"page":"metric-character-mana/overwhere-i-nala","note":"Mana 340 when the magistrate asks who has read the sheet","key":"history","append":{"turn":117,"value":340}}]}
