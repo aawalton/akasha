@@ -279,5 +279,9 @@ export const overwhereIHobbsMillWeir = {
       fact: "The dead wyrm hangs pinned on the spikes on the apron's east third, its tail a yard from the water.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
+    {
+      fact: "Seeing the wyrm die, Jory Pell whoops from Hobb's landing.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+    },
   ],
 } as const satisfies Place
