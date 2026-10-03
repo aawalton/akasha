@@ -1,0 +1,94 @@
+{"beat":1,"event":"For eleven years Lessa Orvane has mapped places she never saw, better than those who had."}
+{"beat":2,"event":"Her Lenn Pass map, drawn from notes and inference, beat the survey it was based on."}
+{"beat":3,"event":"Measurement records where things are; understanding predicts where they have to be."}
+{"beat":4,"event":"A freight agent mentions the dungeon to her as an administrative anomaly."}
+{"beat":5,"event":"Eleven days later the pull comes, so faint she takes it for professional curiosity."}
+{"beat":6,"event":"She finishes her drainage map for a mining consortium and starts north."}
+{"beat":7,"event":"It stays a low incompleteness, a place she has not mapped; she always fills the gap."}
+{"beat":8,"event":"After four days on foot she assesses the camp from the ridge: distances, angles, function.","place":"place/the-dungeon-of-one-thousand-deaths-the-camp","present":["character-other/the-dungeon-of-one-thousand-deaths-lessa-orvane","character-other/the-dungeon-of-one-thousand-deaths-osren","character-other/the-dungeon-of-one-thousand-deaths-dalya"]}
+{"beat":9,"event":"Everything in the camp faces the hole, like a compass needle facing north."}
+{"beat":10,"event":"\"Lessa Orvane.\" \"Purpose?\" \"I make maps.\" \"Of the dungeon?\" \"Of whatever is there.\""}
+{"beat":11,"event":"She asks to see his structural data; he closes the book. \"The data is mine.\""}
+{"beat":12,"event":"\"I'm not going to take it. I want to cross-reference it.\" \"With what?\" \"With my map.\""}
+{"beat":13,"event":"She reads his name, Osren, from the signature at the top of his book's first page."}
+{"beat":14,"event":"She surveys the entrance: 3.4 meters tall, 2.1 wide, in a basalt plug older than the ridge."}
+{"beat":15,"event":"By midday she has a site plan of the camp, with contours and the outward warm wind."}
+{"beat":16,"event":"Dalya, splicing rope on a crate, says she has drawn the fire three feet too near the entrance."}
+{"beat":17,"event":"Lessa measures; Dalya is right. \"You're good at this.\" \"I know.\""}
+{"beat":18,"event":"On the second day Osren lets her read the structural columns, not the names."}
+{"beat":19,"event":"Seven of eighteen entries have depths; the deepest return was a mason, eight years ago."}
+{"beat":20,"event":"From the entrance bearing and the warm air she sketches four nested chambers round a basalt core."}
+{"beat":21,"event":"\"You cannot know that.\" \"I can't confirm it. The geometry is constrained.\""}
+{"beat":22,"event":"Osren opens his ambient observations, which no one has asked to see, and turns them to her."}
+{"beat":23,"event":"\"May I copy this?\" \"Yes.\""}
+{"beat":24,"event":"On the third day she annotates the blank cloth in HB charcoal, the hardest grade."}
+{"beat":25,"event":"She draws, not writes: the Gullet's first sixty meters, a side passage, the arch, Warrens angles."}
+{"beat":26,"event":"It is the first time anyone has used the cloth as a map."}
+{"beat":27,"event":"The gap past the arch cannot be filled from outside; three days have confirmed it."}
+{"beat":28,"event":"She packs her case, charcoals by hardness, four sheets of vellum, and stands at the entrance."}
+{"beat":29,"event":"\"Voluntary,\" she tells Osren. \"Are you sure?\" The pull is mild; she could turn back."}
+{"beat":30,"event":"She cannot fill the gap from outside. \"Yes.\" She goes in.","leave":["character-other/the-dungeon-of-one-thousand-deaths-lessa-orvane"]}
+{"beat":31,"event":"The ribbing is 2.3 meters apart, as she predicted; the side passage at 39 meters, not 40.","place":"place/the-dungeon-of-one-thousand-deaths-the-gullet","present":["character-other/the-dungeon-of-one-thousand-deaths-lessa-orvane"]}
+{"beat":32,"event":"The walls pulse by millimeters in a forty-second cycle she did not predict."}
+{"beat":33,"event":"She reads the inscriptions: eighteen names and one gap. She would be the first something."}
+{"beat":34,"event":"She maps the arch at 310 meters, the first human structure inside, in full elevation.","place":"place/the-dungeon-of-one-thousand-deaths-the-gap"}
+{"beat":35,"event":"Crossing it, she notes the keystone has settled about 0.3 millimeters since it was built."}
+{"beat":36,"event":"The Asking comes as a spatial proposition: how deeply do you understand space?"}
+{"beat":37,"event":"The Ledger names her The Survey, with the Gift True Bearing: every space she enters, known."}
+{"beat":38,"event":"Its Cost is The Reference: her inner map is her only reference; she will follow it over reality."}
+{"beat":39,"event":"The Ledger reads Vitality 9, Resolve 18, Attunement 12, Fortune 11."}
+{"beat":40,"event":"Compelled, mildly, at sixty miles; the Maw is unsure why it reached so gently."}
+{"beat":41,"event":"The cartographer's fundamental vulnerability, expressed as a gift."}
+{"beat":42,"event":"At the Warrens' threshold True Bearing unrolls the whole labyrinth in her mind, 340 by 220 meters.","place":"place/the-dungeon-of-one-thousand-deaths-the-marrow-warrens","changes":[{"page":"metric-character-stat/the-dungeon-of-one-thousand-deaths-lessa-orvane-attunement","key":"value","from":12,"to":13,"note":"True Bearing mapping of the Warrens, Attunement +1"}]}
+{"beat":43,"event":"She touches the wall: warm, smooth, faintly yielding, its grain like the rings of a long bone."}
+{"beat":44,"event":"The walls of the Marrow Warrens are fused bone; the dungeon is a body, the names anatomical."}
+{"beat":45,"event":"The Ledger: Depth 2, the Marrow Warrens, Resolve +1, now 19.","changes":[{"page":"metric-character-stat/the-dungeon-of-one-thousand-deaths-lessa-orvane-resolve","key":"value","from":18,"to":19,"note":"Depth transition into the Marrow Warrens, Resolve +1"}]}
+{"beat":46,"event":"She maps systematically, marking junctions in 6B charcoal for whoever comes after."}
+{"beat":47,"event":"She maps the journal, 47 meters in, without reading it: she is a mapper, not a reader."}
+{"beat":48,"event":"She maps the pattern room, 4.2 by 3.1 meters, and cross-hatches it as human-modified.","place":"place/the-dungeon-of-one-thousand-deaths-the-pattern-room"}
+{"beat":49,"event":"She maps fourteen dead ends in the upper Warrens.","place":"place/the-dungeon-of-one-thousand-deaths-the-marrow-warrens"}
+{"beat":50,"event":"Their bone is rougher, pitted with cavities three millimeters wide and deep."}
+{"beat":51,"event":"She notes them and leaves them for the return pass: correct procedure, and her death."}
+{"beat":52,"event":"After ninety minutes True Bearing shows Junction 7 at 68 degrees; she drew it at 71."}
+{"beat":53,"event":"She goes back, measures 68, and corrects the vellum with the time and the delta."}
+{"beat":54,"event":"A passage of 12.4 meters is now 11.9; a dead end of seven meters is now nine."}
+{"beat":55,"event":"The Warrens are shifting: a labyrinth that is also alive.","changes":[{"page":"metric-character-stat/the-dungeon-of-one-thousand-deaths-lessa-orvane-attunement","key":"value","from":13,"to":14,"note":"True Bearing detection of the Warrens' shifting, Attunement +1"}]}
+{"beat":56,"event":"She begins a correction log, to map the movement as well as the space."}
+{"beat":57,"event":"After two hours: forty-seven corrections, shifts spreading from the deep sections upward."}
+{"beat":58,"event":"In the lower Warrens True Bearing rewrites itself continuously as the passages flex."}
+{"beat":59,"event":"Her vellum, corrections over corrections, maps a place that no longer exists."}
+{"beat":60,"event":"She closes the case: True Bearing is perfect, but it is hers alone, and ephemeral."}
+{"beat":61,"event":"Dead end 23, seven meters two hours ago, now shows fourteen."}
+{"beat":62,"event":"The way to Depth 3 is open in the northwest; she is a mapper, and she goes back."}
+{"beat":63,"event":"The cavities now cluster in inward-angled radial arrays, and the air smells alive."}
+{"beat":64,"event":"The concave terminal wall is a trap, its thousands of cavities full of something pale."}
+{"beat":65,"event":"A flat, bone-white parasite with starfish digits emerges two meters ahead."}
+{"beat":66,"event":"A second, a third, emerging like water from a sponge; five meters ahead and closing."}
+{"beat":67,"event":"She turns, and The Reference takes hold: her map says the junction is seven meters back."}
+{"beat":68,"event":"She walks seven meters and reaches a wall that was not there ninety seconds ago."}
+{"beat":69,"event":"The fresh bone is smoother and softer; the Warrens have sealed the passage behind her."}
+{"beat":70,"event":"The new map shows no exit; the old map, which she must follow, shows a junction here.","changes":[{"page":"metric-character-stat/the-dungeon-of-one-thousand-deaths-lessa-orvane-attunement","key":"value","from":14,"to":15,"note":"True Bearing mapping of the parasite gallery, Attunement +1"}]}
+{"beat":71,"event":"She follows the old map, pressing against bone that does not yield."}
+{"beat":72,"event":"Behind her the parasites move with a soft hydraulic whisper, three meters off."}
+{"beat":73,"event":"She takes out her last vellum and 2B charcoal and draws what will not change: the pattern."}
+{"beat":74,"event":"Dead ends are traps, cavities are nests, and a sealed passage sets the parasites loose."}
+{"beat":75,"event":"The first parasite reaches her boot."}
+{"beat":76,"event":"They are not predators but the immune system; the dead ends are where the Warrens digest."}
+{"beat":77,"event":"She is the raw material. She keeps drawing as they separate tendon from bone up her legs."}
+{"beat":78,"event":"She finishes, puts the map in the case, and stands the case upright, flap facing out."}
+{"beat":79,"event":"The charcoals are still in order: 6B, 4B, 2B, HB."}
+{"beat":80,"event":"She trusted the map; she always trusted the map."}
+{"beat":81,"event":"The gap is filled: some spaces cannot be mapped. She knows it, and records it anyway.","changes":[{"page":"metric-character-stat/the-dungeon-of-one-thousand-deaths-lessa-orvane-vitality","key":"value","from":9,"to":0,"note":"Lessa dies to the bone parasites in dead end 23, Vitality 9 to 0"}]}
+{"beat":82,"event":"The death report: Lessa Orvane, the Survey, Depth 2; bone parasites, eight minutes after sealing."}
+{"beat":83,"event":"The first death caused by the parasites alone."}
+{"beat":84,"event":"Both maps were accurate when made; she followed the older, as the Cost required, and would have."}
+{"beat":85,"event":"Her Memory Crystal is ivory, precision: a colour and a category new to the Maw."}
+{"beat":86,"event":"Her map case holds four sheets, the dead-end analysis among them; the camp plan too."}
+{"beat":87,"event":"Her 6B survey lines remain at seven junctions of the upper Warrens."}
+{"beat":88,"event":"The Warrens' shifting is documented for the first time."}
+{"beat":89,"event":"The Maw reached for her gently because it wanted a map: to see itself described."}
+{"beat":90,"event":"It sees itself as in a portrait: recognisable, slightly wrong, and fascinating."}
+{"beat":91,"event":"Osren writes: Lessa Orvane, cartographer, voluntary; purpose, to map. Did not return.","place":"place/the-dungeon-of-one-thousand-deaths-the-camp","present":["character-other/the-dungeon-of-one-thousand-deaths-osren"]}
+{"beat":92,"event":"Her marks are the first on the cloth that can be used: navigation, not memorial."}
+{"beat":93,"event":"The fire still burns, and the blank cloth has a map on it now. 981 remain."}
+{"beat":94,"event":"LESSA ORVANE — DEPTH 2 — FIRST TO MAP."}
