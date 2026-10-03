@@ -10,7 +10,7 @@ export const overwhereI00105 = {
   position: 105,
   prose: "txt",
   characters: ["character-player/overwhere-i-nala"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/recorders",
   action: "“Eh, just the second pearl for now, range should cover what I need most.”",
   beats: [
     '"Eh, just the second pearl for now. Range should cover what I need most," Nala says.',
@@ -22,6 +22,6 @@ export const overwhereI00105 = {
     '"Afternoon of day eleven. Bring the tag and the other five, and the ring\'s yours."',
   ],
   lore: ["lore/overwhere-i-nala", "lore/overwhere-i-nala-2", "lore/overwhere-i-wendlow-2"],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
   endsAt: "2026-10-05T13:15:00.000Z",
 } as const satisfies StoryTurnPlayed
