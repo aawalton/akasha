@@ -131,5 +131,9 @@ export const overwhereIHobbsMillWeir = {
       fact: "The idle barge crews at Hobb's landing sit on deck, keeping well away from the rails.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
+    {
+      fact: "The bargeman is Jory Pell, master of the barge Wend Maid: lean, sun-browned, missing two fingers.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Place
