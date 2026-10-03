@@ -273,5 +273,15 @@ export const hollowmereAcademy2 = {
         "character-player/hollowmere-nala",
       ],
     },
+    {
+      fact: "History's fifth week covers the Glass Winter of 1816, when spells across the north came out thin.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/hollowmere-kit",
+        "character-other/hollowmere-amara",
+        "character-other/hollowmere-penhallow",
+        "character-other/hollowmere-yusra",
+      ],
+    },
   ],
 } as const satisfies Lore
