@@ -15,10 +15,7 @@ export const theDatingGame00038 = {
   stepStatus: "step-status/player",
   action: "“Mind if I join you again another night?”",
   beats: "jsonl",
-  issues: [
-    '"Its small gold light moves off between the dark rows of stones" - Leave It Open',
-    '"She touches his arm lightly in goodbye" - at level 1 touch goes no further than a greeting',
-  ],
+  issues: "txt",
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
   recordedBy: ["story-recorder/memory", "story-recorder/picture", "story-recorder/mechanics"],
   endsAt: "2026-09-26T19:44:00.000Z",

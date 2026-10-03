@@ -15,10 +15,7 @@ export const otherwhereViii00012 = {
   stepStatus: "step-status/player",
   action: "I follow the Master back down and get to work.",
   beats: "jsonl",
-  issues: [
-    '"The grinding wheels along the east wall are still quiet" - last chapter ended with a wheel turning',
-    '"at six long benches, four to a bench" - the workshop has twelve apprentices this term, not 24',
-  ],
+  issues: "txt",
   lore: [
     "lore/otherwhere-viii-nala",
     "place/otherwhere-viii-the-workshop",

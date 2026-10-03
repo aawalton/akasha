@@ -15,9 +15,7 @@ export const otherwhereX00002 = {
   stepStatus: "step-status/player",
   action: "I walk towards the wood smoke, since that seems closer, to see who I can find.",
   beats: "jsonl",
-  issues: [
-    '"edges half a step back toward the village, switch raised" - Hob fears nothing, per Harrow lore',
-  ],
+  issues: "txt",
   lore: [
     "place/otherwhere-x-harrow",
     "place/otherwhere-x-harrow-mile",

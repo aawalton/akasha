@@ -13,7 +13,7 @@ export const hollowmere0031DrawWell = {
   prose: "txt",
   stepStatus: "step-status/player",
   beats: "jsonl",
-  issues: ['"until she finds the place that makes you cry out" - Hollowmere Explicitness'],
+  issues: "txt",
   lore: [
     "lore/hollowmere-bea",
     "lore/hollowmere-bea-2",

@@ -16,7 +16,7 @@ export const otherwhereIx00004 = {
   action:
     "As it gets close, I jump up into the air as high as I can, then try to land on top of it with all of my weight.",
   beats: "jsonl",
-  issues: ['"The words hang there, calm and patient" - No Prompt'],
+  issues: "txt",
   lore: ["lore/otherwhere-ix-shardback", "lore/otherwhere-ix-nala"],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
   recordedBy: ["story-recorder/mechanics", "story-recorder/memory", "story-recorder/picture"],

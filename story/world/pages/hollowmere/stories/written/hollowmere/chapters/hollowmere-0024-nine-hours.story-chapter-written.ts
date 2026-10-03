@@ -15,11 +15,7 @@ export const hollowmere0024NineHours = {
   prose: "txt",
   stepStatus: "step-status/player",
   beats: "jsonl",
-  issues: [
-    '"her hair a wild red tangle" - Bea\'s hair is honey-blonde',
-    '"You sit in the lecture hall" - Nala\'s Wednesday morning is Sigils in the Drawing Room',
-    '"Up to the top floor, and along it" - room 1 is at the head of the stairs, not along the corridor',
-  ],
+  issues: "txt",
   lore: [
     "lore/hollowmere-amara",
     "lore/hollowmere-bea",

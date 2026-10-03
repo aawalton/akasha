@@ -16,7 +16,7 @@ export const theDatingGame00027 = {
   action:
     "“Usually just around the neighborhood. Sometime up the canyon, into the forest. I’ve watched the sun rise from the top of the mountain a few times.”",
   beats: "jsonl",
-  issues: ['"her gold eyes rest on you a moment, unhurried" - No Prompt'],
+  issues: "txt",
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
   recordedBy: ["story-recorder/picture", "story-recorder/mechanics", "story-recorder/memory"],
   endsAt: "2026-09-26T19:15:00.000Z",

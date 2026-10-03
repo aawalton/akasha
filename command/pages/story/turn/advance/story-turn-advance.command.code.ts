@@ -215,9 +215,9 @@ async function heldOn(
 ): Promise<Answer> {
   const turn = stepAt(reach, given.root, read, slug)
   if (turn === null) return refused(unplaced(read), DATA)
-  const stated = heldOf(turn)
-  if ("refused" in stated) return refused(stated.refused, DATA)
   const textOf = (path: string) => reach.textIn(given.root, path)
+  const stated = heldOf(turn, textOf)
+  if ("refused" in stated) return refused(stated.refused, DATA)
   const beats = beatsHeld(turn, textOf)
   if ("refused" in beats) return refused(beats.refused, DATA)
   const { changes, memory } = beats

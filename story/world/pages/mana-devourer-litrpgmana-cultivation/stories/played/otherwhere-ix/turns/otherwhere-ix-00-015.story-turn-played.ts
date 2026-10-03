@@ -16,9 +16,7 @@ export const otherwhereIx00015 = {
   action:
     "I take it to the ground and wrestle it back, trying to get at its belly with the blades.",
   beats: "jsonl",
-  issues: [
-    '"the last quill still clamped" - she pulled five spine quills and only one has snapped',
-  ],
+  issues: "txt",
   lore: ["lore/otherwhere-ix-nala", "lore/otherwhere-ix-shardback"],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
   recordedBy: ["story-recorder/mechanics", "story-recorder/memory", "story-recorder/picture"],

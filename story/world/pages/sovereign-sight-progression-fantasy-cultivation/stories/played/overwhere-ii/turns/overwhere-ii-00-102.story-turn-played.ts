@@ -14,7 +14,7 @@ export const overwhereIi00102 = {
   stepStatus: "step-status/player",
   action: "“Sleep now. Best to deal with the rest rested and with light.”",
   beats: "jsonl",
-  issues: ['"Nothing came down." - Nobody Acts'],
+  issues: "txt",
   lore: [
     "lore/overwhere-ii-nala",
     "lore/overwhere-ii-nala-2",

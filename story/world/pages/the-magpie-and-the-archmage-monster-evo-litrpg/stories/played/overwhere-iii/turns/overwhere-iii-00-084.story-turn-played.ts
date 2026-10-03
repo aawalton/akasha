@@ -19,9 +19,7 @@ export const overwhereIii00084 = {
   action:
     "“Corrupt wolves, I fought them off, but they hurt me bad, can you get me to the shrine? That’s my best chance to heal myself.”",
   beats: "jsonl",
-  issues: [
-    '"Each one aches cold up her arm" - at Legend lent current carries a pull\'s cold off, no arm ache',
-  ],
+  issues: "txt",
   lore: [
     "lore/overwhere-iii-cleansing-weave",
     "lore/overwhere-iii-current-feed",

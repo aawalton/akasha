@@ -15,11 +15,7 @@ export const hollowmere0028ImSayingIt = {
   prose: "txt",
   stepStatus: "step-status/player",
   beats: "jsonl",
-  issues: [
-    '"on the rock in her wetsuit" - Shiv swims bare off her rock, and the prose has her bare',
-    '"Sunday roast in the Thornfield kitchen" - Sunday roast is in the Great Hall, as the prose says',
-    '"Monday, maybe" - on Friday Lin said her mother\'s answer would take a week at least',
-  ],
+  issues: "txt",
   lore: [
     "lore/hollowmere-amara",
     "lore/hollowmere-bea",

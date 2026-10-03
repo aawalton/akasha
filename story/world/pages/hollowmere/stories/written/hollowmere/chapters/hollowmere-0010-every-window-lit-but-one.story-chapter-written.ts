@@ -15,11 +15,7 @@ export const hollowmere0010EveryWindowLitButOne = {
   prose: "txt",
   stepStatus: "step-status/player",
   beats: "jsonl",
-  issues: [
-    '"astonished at herself, all at once, waiting to see what you\'ll do" - No Prompt',
-    '"you had a nosebleed. In practical." - Bea shares Nala\'s practical, so saw the nosebleed',
-    "\"She's heard about the nosebleed too\" - Lin shares Nala's practical, so saw the nosebleed",
-  ],
+  issues: "txt",
   lore: [
     "lore/hollowmere-academy-2",
     "lore/hollowmere-bea",

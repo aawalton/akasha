@@ -15,9 +15,7 @@ export const otherwhereIx00011 = {
   stepStatus: "step-status/player",
   action: '"Okay, I put all 24 stat points into Consitutation."',
   beats: "jsonl",
-  issues: [
-    '"The sun stands low in the west, and the heat has gone out of the air" - 15:45, hours before dusk',
-  ],
+  issues: "txt",
   lore: [
     "lore/otherwhere-ix-beast-cores",
     "lore/otherwhere-ix-nala",

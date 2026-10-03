@@ -16,9 +16,7 @@ export const theDatingGame00032 = {
   action:
     "I chuckle softly. “Thanks, I’ll gladly take you up on that. So, what brings you here? It sounds like you do this often?”",
   beats: "jsonl",
-  issues: [
-    '"The lantern swings low between you, and the gravel of the path crunches" - Leave It Open',
-  ],
+  issues: "txt",
   lore: ["lore/the-dating-game-grace"],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
   recordedBy: ["story-recorder/picture", "story-recorder/mechanics", "story-recorder/memory"],

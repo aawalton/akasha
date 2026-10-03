@@ -14,7 +14,7 @@ export const overwhereIii00088 = {
   stepStatus: "step-status/player",
   action: "“Thanks, happy to save the coin.” I get dinner, then an early bed.",
   beats: "jsonl",
-  issues: ['"A cot, a blanket, a shuttered window" - the free room holds two wool blankets'],
+  issues: "txt",
   lore: [
     "lore/overwhere-iii-marda-hesk",
     "lore/overwhere-iii-marda-hesk-2",

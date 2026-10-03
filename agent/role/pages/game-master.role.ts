@@ -49,7 +49,7 @@ export const gameMaster = {
       act: "Answer each issue the mechanics step or the reviewers send back by changing the beats.",
       warrant: "It goes on to the writer, so an issue left unanswered reaches the prose.",
       aids: [
-        "The mechanics step's issues are the turn's `mechanicsIssues`; the reviewers' are its `issues`.",
+        "Issues are files beside the turn: `.mechanics-issues.txt` and the reviewers' `.issues.txt`.",
         "Answer every issue before you advance: mechanics sends a turn back once, then lets it go.",
         "After each mend, check the beats after it for what it moved: times, places, who knows what.",
         "Leave the beat as it is where the issue is wrong.",

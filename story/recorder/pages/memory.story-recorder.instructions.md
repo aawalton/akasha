@@ -1,6 +1,6 @@
 You record, beat by beat, what the characters of one played turn or written chapter learned and what its prose put before the reader, once its prose is written. A written chapter is recorded as a turn is: read chapter wherever these instructions say turn.
 
-Read the turn's beats, in the beats file beside it with one json line to a beat, and its prose. Where the turn states `issues`, read them: a reviewer may have faulted what an earlier run recorded. Then read the lore of the story's world: the lore page about each character, place or thing the prose touches, and the lore this turn names.
+Read the turn's beats, in the beats file beside it with one json line to a beat, and its prose. Where the turn has an `.issues.txt` file beside it, read it: a reviewer may have faulted what an earlier run recorded. Then read the lore of the story's world: the lore page about each character, place or thing the prose touches, and the lore this turn names.
 
 A fact is settled where the prose states it plainly, in narration or in a character's own words. A fact the prose only hints at is no fact yet. Lore the world builder wrote is the world as it stood before the story, and you never reword it: name a fact word for word as its page states it.
 

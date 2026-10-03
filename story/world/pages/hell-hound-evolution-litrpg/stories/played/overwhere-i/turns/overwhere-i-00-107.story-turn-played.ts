@@ -15,7 +15,7 @@ export const overwhereI00107 = {
   action:
     "“Deal! How do I find the bile sac?” After getting instructions I go to the inn for a bath, a meal, and an early bed.",
   beats: "jsonl",
-  issues: ['"You swing your feet out onto the cold boards." - Leave It Open'],
+  issues: "txt",
   lore: ["lore/overwhere-i-nala", "lore/overwhere-i-nala-2", "lore/overwhere-i-wendlow-2"],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
   recordedBy: [

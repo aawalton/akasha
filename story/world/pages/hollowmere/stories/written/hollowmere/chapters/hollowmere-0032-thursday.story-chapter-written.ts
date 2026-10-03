@@ -13,9 +13,7 @@ export const hollowmere0032Thursday = {
   prose: "txt",
   stepStatus: "step-status/player",
   beats: "jsonl",
-  issues: [
-    '"You weren\'t on my floor last night" - beats have Yusra say you were in room 8; she hears doors',
-  ],
+  issues: "txt",
   lore: [
     "lore/hollowmere-academy-2",
     "lore/hollowmere-amara",

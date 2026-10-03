@@ -1,10 +1,14 @@
 import { stringsIn } from "akasha/code/type/narrowing/modules/strings-in/strings-in.module.code.ts"
 import type { Turn } from "akasha/command/pages/story/turn/modules/turn-reaching/turn-reaching.module.code.ts"
+import { besideAt } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
+import { issues as issuesFile } from "akasha/story/chapter/properties/issues.file-property.ts"
+import { mechanicsIssues as mechanicsIssuesFile } from "akasha/story/chapter/properties/mechanics-issues.file-property.ts"
 import { storyPlayed } from "akasha/story/world/stories/played/story-played.page-type.ts"
 import {
   bareOf,
   CHAPTER,
   type Held,
+  linesIn,
   stepIn,
 } from "akasha/story/world/stories/played/turns/modules/turn-lifecycle/turn-lifecycle.module.code.ts"
 import { storyWritten } from "akasha/story/world/stories/written/story-written.page-type.ts"
@@ -37,7 +41,20 @@ const WRITTEN_OPENING = `${storyWritten.slug}${PARTED}`
 
 const OPENINGS = [`${storyPlayed.slug}${PARTED}`, WRITTEN_OPENING]
 
-export function heldOf(turn: Turn): Held | { readonly refused: string } {
+type TextOf = (path: string) => string
+
+function linesBeside(turn: Turn, key: string, propertySlug: string, textOf: TextOf) {
+  const ending = turn.value[key]
+  const at = typeof ending === "string" ? besideAt(turn.at, propertySlug, ending) : null
+  if (at === null) return []
+  try {
+    return linesIn(textOf(at))
+  } catch {
+    return []
+  }
+}
+
+export function heldOf(turn: Turn, textOf: TextOf = () => ""): Held | { readonly refused: string } {
   const of = turn.value[STORY]
   const named = [...stringsIn(turn.value[COLLECTIONS]), ...(typeof of === "string" ? [of] : [])]
   const story = named.find((one) => OPENINGS.some((opening) => one.startsWith(opening)))
@@ -49,12 +66,11 @@ export function heldOf(turn: Turn): Held | { readonly refused: string } {
     ...(story.startsWith(WRITTEN_OPENING) ? { noun: CHAPTER } : {}),
     status,
     lore: stringsIn(turn.value[LORE]),
-    issues: stringsIn(turn.value[ISSUES]),
+    issues: linesBeside(turn, ISSUES, issuesFile.propertySlug, textOf),
     reviewedBy: stringsIn(turn.value[REVIEWED_BY]).map(bareOf),
     recordedBy: stringsIn(turn.value[RECORDED_BY]).map(bareOf),
     written: turn.value[PROSE] !== undefined && turn.value[OWN_LENGTH] !== 0,
-
-    mechanicsIssues: stringsIn(turn.value[MECHANICS_ISSUES]),
+    mechanicsIssues: linesBeside(turn, MECHANICS_ISSUES, mechanicsIssuesFile.propertySlug, textOf),
     mechanicsSentBack: turn.value[MECHANICS_SENT_BACK] === true,
   }
 }

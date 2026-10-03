@@ -21,9 +21,7 @@ export const otherwhereX00007 = {
   action:
     "\"I truly don't know. Some magic brought me hear beyond my understanding. I'm hoping learning more about your world will help me understand. What is the name of the kingdom? Who is the king? What is said of magic and monsters in the world at large?\"",
   beats: "jsonl",
-  issues: [
-    '"The room goes quiet enough to hear the fire, and every face at the trestles turns" - No Prompt',
-  ],
+  issues: "txt",
   lore: [
     "lore/otherwhere-x-aldous-crane",
     "lore/otherwhere-x-aubrey-kell",

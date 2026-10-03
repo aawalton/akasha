@@ -20,7 +20,7 @@ export const otherwhereVi00017 = {
   stepStatus: "step-status/player",
   action: "I go inside to eat.",
   beats: "jsonl",
-  issues: ['"you\'ve told us none of yours" - Plain Negation'],
+  issues: "txt",
   lore: [
     "lore/otherwhere-vi-customs",
     "lore/otherwhere-vi-nala",

@@ -21,9 +21,7 @@ export const otherwhereVi00013 = {
   action:
     '"I\'m Nala, I\'m from very far away and not entirely sure how I got here, or where even "here" is. Could you help me get oriented?"',
   beats: "jsonl",
-  issues: [
-    '"a day up the stream to the fells" - the Weald is some four days across, its middle north of here',
-  ],
+  issues: "txt",
   lore: [
     "lore/otherwhere-vi-customs",
     "lore/otherwhere-vi-nala",

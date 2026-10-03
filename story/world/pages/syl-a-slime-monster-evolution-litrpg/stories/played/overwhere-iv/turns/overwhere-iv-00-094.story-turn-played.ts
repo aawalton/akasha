@@ -14,9 +14,7 @@ export const overwhereIv00094 = {
   stepStatus: "step-status/player",
   action: "I turn and sprint for the ambush, weaving a bit to dodge slings",
   beats: "jsonl",
-  issues: [
-    '"a dozen of them" - the hunters are eleven goblins, and the two scouts hang back at the treeline',
-  ],
+  issues: "txt",
   lore: [
     "lore/overwhere-iv-brookside-four-2",
     "lore/overwhere-iv-nala",

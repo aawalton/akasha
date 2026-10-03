@@ -15,12 +15,7 @@ export const hollowmere0018TheLongPose = {
   prose: "txt",
   stepStatus: "step-status/player",
   beats: "jsonl",
-  issues: [
-    '"hurries away down the corridor to room 8" - room 8 is a floor up; Lin is at the stair foot',
-    '"Your small soft tits, with their pale pink nipples" - Hollowmere Explicitness',
-    '"the dark red tuft over your cunt, the same deep red" - Hollowmere Explicitness',
-    'beat "small soft tits ... the dark red tuft over your cunt" - Hollowmere Explicitness',
-  ],
+  issues: "txt",
   lore: [
     "lore/hollowmere-academy-2",
     "lore/hollowmere-bea",

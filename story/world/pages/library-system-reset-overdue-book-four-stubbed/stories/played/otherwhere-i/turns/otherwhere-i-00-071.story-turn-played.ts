@@ -16,9 +16,7 @@ export const otherwhereI00071 = {
   action:
     "**No book that will let me cast a spell to read a book? I'm a speed reader (4000 WPM), so I can read fast, but I'm sure magic could make that faster.** I got and collect the two books and sit down to read them.",
   beats: "jsonl",
-  issues: [
-    '"It hasn\'t taken" - Links set Counter Keeping to read now; grasped whole, a book grants its power',
-  ],
+  issues: "txt",
   lore: [
     "lore/otherwhere-i-universe",
     "lore/otherwhere-i-peoples",

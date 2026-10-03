@@ -15,9 +15,7 @@ export const overwhereI00102 = {
   action:
     "“Two hour walk is all? The Wyrm sounds like a nice warm up, I’ll take that tomorrow. For today, I’m looking for a nice place to stay as well as somewhere to sell miscellaneous loot from my adventures. Oh! And someone who can turn Ghost-Eye here into a proper casting focus.” I pull out the drakewolf eye. “Recommendations?”",
   beats: "jsonl",
-  issues: [
-    '"where the Weir Wyrm slip is pinned" - Grete laid that slip flat on the counter last turn',
-  ],
+  issues: "txt",
   lore: [
     "lore/overwhere-i-nala",
     "lore/overwhere-i-nala-2",

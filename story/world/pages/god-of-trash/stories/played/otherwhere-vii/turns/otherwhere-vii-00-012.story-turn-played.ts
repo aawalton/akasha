@@ -20,9 +20,7 @@ export const otherwhereVii00012 = {
   action:
     "\"From far enough away you haven't heard the name, and no one's who still walks this earth.\"",
   beats: "jsonl",
-  issues: [
-    '"a child dies of this fever here most autumns" - the fever takes a child only some years',
-  ],
+  issues: "txt",
   lore: [
     "lore/otherwhere-vii-hild",
     "lore/otherwhere-vii-joan-reeve",

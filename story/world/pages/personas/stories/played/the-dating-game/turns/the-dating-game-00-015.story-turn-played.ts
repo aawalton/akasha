@@ -16,7 +16,7 @@ export const theDatingGame00015 = {
   action:
     '"You think you could do it? I\'d love a partner on this. Can you make a voice after reading the text without hearing it first?"',
   beats: "jsonl",
-  issues: ['"the way a narrator holds out a hand for the script" - No Prompt'],
+  issues: "txt",
   lore: ["lore/the-dating-game-echo"],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
   recordedBy: ["story-recorder/mechanics", "story-recorder/memory"],

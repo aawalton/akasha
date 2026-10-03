@@ -15,9 +15,7 @@ export const overwhereIii00073 = {
   action:
     "“Yeah, I’ll rest before going out again and work on the rest.” I walk out to the shrine and then practice using the gold currents directly to cleanse the blightstones, instead of my own mana.",
   beats: "jsonl",
-  issues: [
-    '"The raw current scorches your palms" - a slip at feeding from current costs only the try',
-  ],
+  issues: "txt",
   lore: [
     "lore/overwhere-iii-braid-weaving",
     "lore/overwhere-iii-cleansing-weave",

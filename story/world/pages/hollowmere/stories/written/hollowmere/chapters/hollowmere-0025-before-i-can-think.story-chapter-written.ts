@@ -15,7 +15,7 @@ export const hollowmere0025BeforeICanThink = {
   prose: "txt",
   stepStatus: "step-status/player",
   beats: "jsonl",
-  issues: ['"My grandmother remembers them" - she studied here 40 years ago, long after 1858'],
+  issues: "txt",
   lore: [
     "lore/hollowmere-academy-2",
     "lore/hollowmere-amara",

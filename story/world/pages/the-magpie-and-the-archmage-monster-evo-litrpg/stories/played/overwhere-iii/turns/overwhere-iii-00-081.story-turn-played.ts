@@ -17,7 +17,7 @@ export const overwhereIii00081 = {
   stepStatus: "step-status/player",
   action: "I pocket the seed stone and follow the wolf, ready to hit it with my braid",
   beats: "jsonl",
-  issues: ['"The banks there hold no sign." - Plain Negation'],
+  issues: "txt",
   lore: [
     "lore/overwhere-iii-corruption-2",
     "lore/overwhere-iii-mother-sallow",

@@ -13,12 +13,7 @@ export const hollowmere0034Bend = {
   prose: "txt",
   stepStatus: "step-status/player",
   beats: "jsonl",
-  issues: [
-    '"ringing it like a madwoman" - the beat makes the shopkeeper a man ringing his bell',
-    "\"I haven't done that since the spring\" - Yusra hasn't slept a whole night since the summer",
-    '"Three nights now. In a row." - Yusra works the infirmary night shift on Thursdays, ten till six',
-    '"Her palm, the night before last" - Bea showed Nala BEND on her palm on Tuesday, not Thursday',
-  ],
+  issues: "txt",
   lore: [
     "lore/hollowmere-academy-2",
     "lore/hollowmere-amara",

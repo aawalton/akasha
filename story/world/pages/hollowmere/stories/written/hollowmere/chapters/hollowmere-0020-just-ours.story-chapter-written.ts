@@ -15,12 +15,7 @@ export const hollowmere0020JustOurs = {
   prose: "txt",
   stepStatus: "step-status/player",
   beats: "jsonl",
-  issues: [
-    '"Not one person noticed," she says - Nobody Acts',
-    '"Not one person ever notices when I go quiet." - Nobody Acts',
-    '"scrambling out over you" - in ch.19 Nala lay to the wall with Bea behind, on the open side',
-    '"That morning. When my glim held." - Bea\'s glim on the rock came in the afternoon (ch.9)',
-  ],
+  issues: "txt",
   lore: [
     "lore/hollowmere-academy-2",
     "lore/hollowmere-bea",

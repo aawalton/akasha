@@ -15,11 +15,7 @@ export const overwhereIii00074 = {
   action:
     "I merge them into a glimmerstone and keep going until I’ve finished cleansing the remainder.",
   beats: "jsonl",
-  issues: [
-    '"[Current Feed has advanced: Basic → Novice]" - her fifth fed weave came in turn 73, not now',
-    '"lifts the lead box onto the counter" - the post has a desk, no counter; the box sits under the desk',
-    '"Mind telling me how you crack them that fast?" - Nala never told or showed Marda the seeds cracked',
-  ],
+  issues: "txt",
   lore: [
     "lore/overwhere-iii-cleansing-weave",
     "lore/overwhere-iii-corruption-2",

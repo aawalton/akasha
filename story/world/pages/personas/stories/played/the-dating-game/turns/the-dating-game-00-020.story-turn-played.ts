@@ -16,7 +16,7 @@ export const theDatingGame00020 = {
   action:
     "I reach out to shake her hand with a huge smile \"It's a date! I'll see you Saturday!\", then turn to leave.",
   beats: "jsonl",
-  issues: ['"Rock Canyon opens dark between the mountains, where the day began" - Leave It Open'],
+  issues: "txt",
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
   recordedBy: ["story-recorder/picture", "story-recorder/mechanics", "story-recorder/memory"],
   endsAt: "2026-09-26T12:04:00.000Z",

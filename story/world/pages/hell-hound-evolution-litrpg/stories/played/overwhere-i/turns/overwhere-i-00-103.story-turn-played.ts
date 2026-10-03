@@ -15,7 +15,7 @@ export const overwhereI00103 = {
   action:
     "“Great!” I hand over Ghost Eye’s ears to go with the head, as well as the crew ears and tags, the sallow hythe tin token, and the sealed letter, then go find Ilse for the focus.",
   beats: "jsonl",
-  issues: ['"The pearl favours no element" - Plain Negation'],
+  issues: "txt",
   lore: [
     "lore/overwhere-i-nala",
     "lore/overwhere-i-nala-2",

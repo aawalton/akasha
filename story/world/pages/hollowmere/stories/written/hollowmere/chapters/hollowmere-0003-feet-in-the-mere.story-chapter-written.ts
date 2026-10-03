@@ -15,13 +15,7 @@ export const hollowmere0003FeetInTheMere = {
   prose: "txt",
   stepStatus: "step-status/player",
   beats: "jsonl",
-  issues: [
-    '"You\'ve been here a week," Bea says - Bea never learned Shiv came a week early',
-    "\"For the first time since the Welcome Dinner\" - Kit's eyes fixed on Nala's at the window last night",
-    '"Your small tits bounce too, under the jumper" - Hollowmere Explicitness',
-    '"warm on your small tits, running off your nipples" - Hollowmere Explicitness',
-    '"through the tuft of red hair over your cunt" - Hollowmere Explicitness',
-  ],
+  issues: "txt",
   lore: [
     "lore/hollowmere-amara",
     "lore/hollowmere-bea",

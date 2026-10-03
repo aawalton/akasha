@@ -16,9 +16,7 @@ export const theDatingGame00034 = {
   action:
     "“Well, my father died young, 57. He was divorced by the end. I’m the oldest of his kids and was the only one of fully grown at the time, so a lot of the weight fell on me, which was hard. I think the finances and paperwork hurt me more than the loss. I…don’t seem to form emotional attachments the same way most people do. It’s hard to feel attached when I can’t remember feelings. I think about him now and then, but the past when he was here and the past when he was gone are equally incomprehensible to me.”",
   beats: "jsonl",
-  issues: [
-    '"You come to the cemetery\'s far gate, where the path meets the street" - Leave It Open',
-  ],
+  issues: "txt",
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
   recordedBy: ["story-recorder/mechanics", "story-recorder/picture", "story-recorder/memory"],
   endsAt: "2026-09-26T19:36:00.000Z",

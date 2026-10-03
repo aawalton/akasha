@@ -62,6 +62,11 @@ export const turnAdvancing = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "A reviewer's issues are merged with the turn's and written to the file beside it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "The reviewer completing the set moves the turn on.",
     },
     {

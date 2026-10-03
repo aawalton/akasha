@@ -14,10 +14,7 @@ export const overwhereIi00092 = {
   stepStatus: "step-status/player",
   action: "“I’ll train with them in the mornings, refine after, until my refining is done.”",
   beats: "jsonl",
-  issues: [
-    '"No Talent harms what it can\'t heal" - Nobody Acts',
-    '"None draws on another\'s Water" - Nobody Acts',
-  ],
+  issues: "txt",
   lore: [
     "lore/overwhere-ii-nala",
     "lore/overwhere-ii-nala-2",

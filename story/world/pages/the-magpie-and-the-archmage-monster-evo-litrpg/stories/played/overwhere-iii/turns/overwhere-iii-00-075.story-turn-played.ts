@@ -14,9 +14,7 @@ export const overwhereIii00075 = {
   stepStatus: "step-status/player",
   action: "“Cleansed and merged into a glimmer. Can I give you the value in coin instead?”",
   beats: "jsonl",
-  issues: [
-    '"I wanted them cracked, not back" - in 73 Marda said "Bring those back" and in 74 asked for them',
-  ],
+  issues: "txt",
   lore: [
     "lore/overwhere-iii-marda-hesk",
     "lore/overwhere-iii-marda-hesk-2",

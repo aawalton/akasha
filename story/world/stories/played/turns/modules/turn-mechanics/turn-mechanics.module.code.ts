@@ -16,6 +16,8 @@ const LONGEST_LINE = 100
 
 const PARTED = "/"
 
+const ISSUES_HELD = "txt"
+
 export type Recorded = Extract<Handed, { readonly kind: "record" }>
 
 export type Mechanicked =
@@ -23,6 +25,7 @@ export type Mechanicked =
   | {
       readonly values: Readonly<{ [key: string]: unknown }>
       readonly changes: readonly BeatChange[] | null
+      readonly issues: readonly string[] | null
       readonly recordedBy: readonly string[]
       readonly next: "mechanics" | "game-master" | "on"
     }
@@ -59,10 +62,11 @@ export function mechanicked(
   const back = all && issues.length > 0 && held.mechanicsSentBack !== true
   const values = {
     recordedBy: recordedBy.map((one) => `${storyRecorder.slug}${PARTED}${one}`),
-    ...(issues.length === 0 ? {} : { mechanicsIssues: issues }),
+    ...(issues.length === 0 ? {} : { mechanicsIssues: ISSUES_HELD }),
     ...(back ? { mechanicsSentBack: true } : {}),
   }
   const body = changes.length === 0 ? null : mergedOf(held.changes ?? [], changes)
+  const issued = (handed.issues ?? []).length === 0 ? null : issues
   const next = !all ? "mechanics" : back ? "game-master" : "on"
-  return { values, changes: body, recordedBy, next }
+  return { values, changes: body, issues: issued, recordedBy, next }
 }

@@ -16,9 +16,7 @@ export const theDatingGame00029 = {
   action:
     "“No, I like the quiet here too. I have a hard time feeling like death is real though. The past, the present, and the future all blur together for me.”",
   beats: "jsonl",
-  issues: [
-    '"[Grace, Closeness Level 1: ...]" - her closeness level is hidden, never shown in a window',
-  ],
+  issues: "txt",
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
   recordedBy: ["story-recorder/picture", "story-recorder/memory", "story-recorder/mechanics"],
   endsAt: "2026-09-26T19:27:00.000Z",

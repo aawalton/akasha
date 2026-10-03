@@ -24,6 +24,8 @@ import {
   propertiesIfNamed,
 } from "akasha/page/type/modules/declared-properties/declared-properties.module.code.ts"
 import { beats as beatsFile } from "akasha/story/chapter/properties/beats.file-property.ts"
+import { issues as issuesFile } from "akasha/story/chapter/properties/issues.file-property.ts"
+import { mechanicsIssues as mechanicsIssuesFile } from "akasha/story/chapter/properties/mechanics-issues.file-property.ts"
 import {
   type Cached,
   cachedOf,
@@ -51,6 +53,10 @@ import { storyWritten } from "akasha/story/world/stories/written/story-written.p
 const BEATS = exportedAs(beatsFile.propertySlug)
 
 const PROSE = "prose"
+
+const ISSUES = exportedAs(issuesFile.propertySlug)
+
+const MECHANICS_ISSUES = exportedAs(mechanicsIssuesFile.propertySlug)
 
 const EXTENSIONS = "extensions"
 
@@ -81,7 +87,17 @@ export function bodiesOf(
   if (said.prose !== null) bodies[PROSE] = said.prose
   const beats = beatsBodyOf(held, said)
   if (beats !== null) bodies[BEATS] = beats
+  for (const [key, lines] of [
+    [ISSUES, said.issues],
+    [MECHANICS_ISSUES, said.mechanicsIssues],
+  ] as const) {
+    if (lines !== null && lines !== undefined) bodies[key] = linesBody(lines)
+  }
   return Object.keys(bodies).length === 0 ? {} : { bodies }
+}
+
+function linesBody(lines: readonly string[]): string {
+  return lines.map((one) => `${one}${BREAK}`).join("")
 }
 
 function endingOf(root: string, one: Carried): string | null {

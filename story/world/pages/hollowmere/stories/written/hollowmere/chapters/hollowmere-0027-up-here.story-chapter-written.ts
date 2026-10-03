@@ -15,7 +15,7 @@ export const hollowmere0027UpHere = {
   prose: "txt",
   stepStatus: "step-status/player",
   beats: "jsonl",
-  issues: ['"I\'m three years above you" - Yusra is a third-year and Nala a first-year: two years'],
+  issues: "txt",
   lore: [
     "lore/hollowmere-bea",
     "lore/hollowmere-bea-2",

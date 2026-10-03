@@ -3,6 +3,7 @@ import { appendLines } from "akasha/change/mechanical/file-content/append-lines/
 import { changeMechanicalFileContent } from "akasha/change/mechanical/file-content/change-mechanical-file-content.page-type.ts"
 import {
   beatsBodyOf,
+  bodiesOf,
   cacheNamed,
   changesChecked,
   placedAmong,
@@ -10,6 +11,7 @@ import {
 import { beatsHeld } from "akasha/command/pages/story/modules/turn-scenes/turn-scenes.module.code.ts"
 import type { Reading } from "akasha/story/engine/beat-state/modules/beat-changes/beat-changes.module.code.ts"
 import { beatsWritten } from "akasha/story/engine/beat-state/modules/beat-records/beat-records.module.code.ts"
+import { worldRelationship } from "akasha/story/world/mechanics/relationships/world-relationship.page-type.ts"
 import type {
   Held,
   Moved,
@@ -119,6 +121,14 @@ test("a picture recorder's pictures land on their beats and later moves keep the
   expect(kept).toBe(beatsWritten({ ...PLANNED, memory: [LEARNS], pictured: [shown] }))
 })
 
+test("a move's issue lists are written as files beside the turn, one issue to a line", () => {
+  const said = movedOf({ issues: ["beat 1: a fault"], mechanicsIssues: ["beat 2: no coin"] })
+  expect(bodiesOf(said, PLANNED)).toEqual({
+    bodies: { issues: "beat 1: a fault\n", mechanicsIssues: "beat 2: no coin\n" },
+  })
+  expect(bodiesOf(movedOf({}), PLANNED)).toEqual({})
+})
+
 test("a mechanics seat's changes are checked with the changes the turn holds already", () => {
   const held = heldAt("mechanics", { changes: [GAIN] })
   const again = { ...GAIN, beat: 2, note: "Elsie gains 40 XP again" }
@@ -179,8 +189,10 @@ const OTHERWHERE = "story/world/pages/god-of-trash/stories/played/otherwhere-vii
 
 const STORIES = [FAIRWEATHER, OTHERWHERE]
 
+const BOND = worldRelationship.slug
+
 test("a page a change makes sits where pages of its kind sit under the story, never the generic folder", () => {
-  const bond = "world-relationship/fairweather-elsie-tamsin"
+  const bond = `${BOND}/fairweather-elsie-tamsin`
   const elsewhere = [
     `${OTHERWHERE}/mechanics/relationships/otherwhere-vii-ennis.world-relationship.ts`,
     `${OTHERWHERE}/mechanics/relationships/otherwhere-vii-hild.world-relationship.ts`,

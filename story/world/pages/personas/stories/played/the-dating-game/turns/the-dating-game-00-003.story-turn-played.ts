@@ -16,9 +16,7 @@ export const theDatingGame00003 = {
   action:
     '"Hi there! Would you be interested in some company? I\'d love someone to chat with on the hike."',
   beats: "jsonl",
-  issues: [
-    '"Every word she has said so far was one of his" - her first word, "Take," was the climber\'s',
-  ],
+  issues: "txt",
   lore: ["lore/the-dating-game-boulder-woman"],
   reviewedBy: ["story-reviewer/continuity"],
   recordedBy: ["story-recorder/memory"],

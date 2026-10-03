@@ -14,7 +14,7 @@ export const overwhereIv00085 = {
   stepStatus: "step-status/player",
   action: "“Sure. Don’t mind some company after a night like that.”",
   beats: "jsonl",
-  issues: ["\"once Tull's late wife's\" - What It Is"],
+  issues: "txt",
   lore: [
     "lore/overwhere-iv-brookside-four-2",
     "lore/overwhere-iv-ilsa-crane-2",

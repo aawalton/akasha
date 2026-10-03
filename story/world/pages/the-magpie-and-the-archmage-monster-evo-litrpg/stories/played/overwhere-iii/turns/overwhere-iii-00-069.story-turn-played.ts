@@ -15,10 +15,7 @@ export const overwhereIii00069 = {
   action:
     "I go back to the post and work on cleansing blightstones, experimenting with ways to do it more efficiently",
   beats: "jsonl",
-  issues: [
-    '"In the lead box, the six seed stones sit in their corner." - Leave It Open',
-    '"the six seed stones sit in their corner" - No Prompt',
-  ],
+  issues: "txt",
   lore: [
     "lore/overwhere-iii-braid-weaving",
     "lore/overwhere-iii-cleansing-weave",

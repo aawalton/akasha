@@ -14,10 +14,7 @@ export const emberdeep0002ChalkArrows = {
   prose: "txt",
   stepStatus: "step-status/player",
   beats: "jsonl",
-  issues: [
-    '"falling asleep, that waking up still here might be the worst" - ch1: slept on the Deep, not home',
-    '"Nobody says what happens after the third" - Nobody Acts',
-  ],
+  issues: "txt",
   lore: [
     "lore/emberdeep-elowen",
     "lore/emberdeep-nala",

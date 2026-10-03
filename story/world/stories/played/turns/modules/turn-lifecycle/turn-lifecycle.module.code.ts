@@ -111,6 +111,8 @@ export type Moved = {
   readonly changes: readonly BeatChange[] | null
   readonly memory: readonly Memory[] | null
   readonly pictured?: readonly Pictured[] | null
+  readonly issues?: readonly string[] | null
+  readonly mechanicsIssues?: readonly string[] | null
   readonly starts: readonly Start[]
   readonly stopsCaller: boolean
   readonly landsKept: boolean

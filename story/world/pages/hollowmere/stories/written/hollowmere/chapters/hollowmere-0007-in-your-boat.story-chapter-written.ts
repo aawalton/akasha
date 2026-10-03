@@ -15,7 +15,7 @@ export const hollowmere0007InYourBoat = {
   prose: "txt",
   stepStatus: "step-status/player",
   beats: "jsonl",
-  issues: ['"Bea makes three teas without asking anyone; Bea bumps" - doubles the beat before it'],
+  issues: "txt",
   lore: [
     "lore/hollowmere-amara",
     "lore/hollowmere-bea",

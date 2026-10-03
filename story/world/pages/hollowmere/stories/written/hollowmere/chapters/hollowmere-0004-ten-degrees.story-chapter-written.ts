@@ -15,11 +15,7 @@ export const hollowmere0004TenDegrees = {
   prose: "txt",
   stepStatus: "step-status/player",
   beats: "jsonl",
-  issues: [
-    '"her small tits tight-nippled, the sandy tuft over her cunt" - Hollowmere Explicitness',
-    '"between her small tits. You watch it go." - Hollowmere Explicitness',
-    '"Thornfield custom. Since forever." - Bea is not among those who know the Thursday cocoa custom',
-  ],
+  issues: "txt",
   lore: [
     "lore/hollowmere-amara",
     "lore/hollowmere-bea",

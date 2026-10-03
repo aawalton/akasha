@@ -20,11 +20,7 @@ export const otherwhereXi00011 = {
   stepStatus: "step-status/player",
   action: "“I might as well for now, it’s good to be needed somewhere.”",
   beats: "jsonl",
-  issues: [
-    '"Across the mat, Tobin has stopped chewing." - No Prompt',
-    '"It isn\'t quite a question." - No Prompt',
-    '"Across the mat, Tobin has stopped chewing." - Leave It Open',
-  ],
+  issues: "txt",
   lore: [
     "lore/otherwhere-xi-nala",
     "lore/otherwhere-xi-smoke",

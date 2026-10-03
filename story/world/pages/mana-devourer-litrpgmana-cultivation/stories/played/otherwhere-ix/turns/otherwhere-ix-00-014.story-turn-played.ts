@@ -16,7 +16,7 @@ export const otherwhereIx00014 = {
   action:
     "I hold a quill in each hand and crouch low to the ground, keeping an eye on both the beast approaching on the ground and the one in the sky. If one comes close, I'll aim to stab into the belly or eyes depending on what is accessible.",
   beats: "jsonl",
-  issues: ['"Its throat is right there below you... Bare, and pale, and unquilled." - No Prompt'],
+  issues: "txt",
   lore: [
     "lore/otherwhere-ix-carrion-hawk",
     "lore/otherwhere-ix-nala",

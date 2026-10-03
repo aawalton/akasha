@@ -15,7 +15,7 @@ export const hollowmere0002InNotOut = {
   prose: "txt",
   stepStatus: "step-status/player",
   beats: "jsonl",
-  issues: ['"I haven\'t seen you since breakfast" - Bea waved at you in the Practice Hall at two'],
+  issues: "txt",
   lore: [
     "lore/hollowmere-amara",
     "lore/hollowmere-bea",

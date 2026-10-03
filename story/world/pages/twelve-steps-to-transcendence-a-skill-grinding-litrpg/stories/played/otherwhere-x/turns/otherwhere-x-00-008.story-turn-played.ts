@@ -20,10 +20,7 @@ export const otherwhereX00008 = {
   action:
     'I choose to sing "O Danny Boy", since I don\'t know if they will understand the words, but the emotions can still come through the music. After that I sing "Homeward Bound"',
   beats: "jsonl",
-  issues: [
-    '"nobody here has pipes, or the word" - Harrow folk understand every word Nala sings',
-    '"the room has no such word" - Harrow folk understand every word Nala sings, per the Sheaf',
-  ],
+  issues: "txt",
   lore: [
     "lore/otherwhere-x-aldous-crane",
     "lore/otherwhere-x-language",

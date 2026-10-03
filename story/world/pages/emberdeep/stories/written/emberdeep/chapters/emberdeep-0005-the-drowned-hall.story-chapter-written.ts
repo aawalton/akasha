@@ -13,7 +13,7 @@ export const emberdeep0005TheDrownedHall = {
   prose: "txt",
   stepStatus: "step-status/player",
   beats: "jsonl",
-  issues: ['"It\'s three days down the valley" - Wren has never learned how far away Fennick is'],
+  issues: "txt",
   lore: [
     "lore/emberdeep-elowen",
     "lore/emberdeep-nala",

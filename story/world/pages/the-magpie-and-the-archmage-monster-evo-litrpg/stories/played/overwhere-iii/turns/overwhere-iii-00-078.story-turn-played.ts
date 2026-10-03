@@ -15,10 +15,7 @@ export const overwhereIii00078 = {
   action:
     "“I didn’t either, good to know. Could I buy glimmershards? How much do they run? I’m one short of appraise.”",
   beats: "jsonl",
-  issues: [
-    '"Five glimmerstones. Enough for Appraise." - No Prompt',
-    '"Town price is about twenty-five copper" - a glimmerstone sells for 20 copper in a town',
-  ],
+  issues: "txt",
   lore: [
     "lore/overwhere-iii-marda-hesk",
     "lore/overwhere-iii-marda-hesk-2",

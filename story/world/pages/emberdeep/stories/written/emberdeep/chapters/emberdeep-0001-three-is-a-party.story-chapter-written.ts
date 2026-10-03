@@ -14,14 +14,7 @@ export const emberdeep0001ThreeIsAParty = {
   prose: "txt",
   stepStatus: "step-status/player",
   beats: "jsonl",
-  issues: [
-    '"No chimney anywhere smokes" - Nobody Acts',
-    '"She remembers nothing of this Nala\'s life" - Plain Negation',
-    '"finds nothing in the room that answers" - Plain Negation',
-    '"writes Nala Marsh of Fennick in a ledger and asks nothing else" - Plain Negation',
-    '"Your small soft tits sit high on your chest" - Emberdeep Explicitness',
-    '"look at this body properly for the first time: small soft tits" - Emberdeep Explicitness',
-  ],
+  issues: "txt",
   lore: [
     "lore/emberdeep-elowen",
     "lore/emberdeep-nala",

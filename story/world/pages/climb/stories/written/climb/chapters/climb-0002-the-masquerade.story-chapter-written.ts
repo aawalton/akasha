@@ -25,9 +25,7 @@ export const climb0002TheMasquerade = {
   prose: "txt",
   stepStatus: "step-status/player",
   beats: "jsonl",
-  issues: [
-    '"your evening clothes still on" - he undressed fully on the chaise and no beat dresses him',
-  ],
+  issues: "txt",
   lore: ["lore/climb-clara", "lore/climb-ines", "lore/climb-mina", "place/climb-floor-2"],
   characters: [
     "character-player/climb-alan",

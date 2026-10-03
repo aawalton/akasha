@@ -20,10 +20,7 @@ export const otherwhereVii00013 = {
   action:
     "\"I'm not sure I'll stay forever, but for now I would be grateful for a place to be safe, and glad to contribute what I can.\"",
   beats: "jsonl",
-  issues: [
-    '"She stands in the doorway with the afternoon sun behind her." - Leave It Open',
-    '"She stands in the doorway with the afternoon sun behind her." - No Prompt',
-  ],
+  issues: "txt",
   lore: [
     "lore/otherwhere-vii-hild",
     "lore/otherwhere-vii-joan-reeve",

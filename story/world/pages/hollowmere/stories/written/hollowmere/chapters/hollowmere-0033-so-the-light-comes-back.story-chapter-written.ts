@@ -13,12 +13,7 @@ export const hollowmere0033SoTheLightComesBack = {
   prose: "txt",
   stepStatus: "step-status/player",
   beats: "jsonl",
-  issues: [
-    '"Practical at two" - Nala\'s Friday is tutorial at nine, Sigils at eleven, afternoon for study',
-    '"Kit\'s bench is empty at practical" - prose moves her absence to Sigils, against its beat',
-    '"Since the tutorial" - the beat has Amara say Kit\'s been at the forge since lunch',
-    "\"At nine, Gianni's rush begins\" - Gianni's serves only until nine, so no rush starts then",
-  ],
+  issues: "txt",
   lore: [
     "lore/hollowmere-amara",
     "lore/hollowmere-bea",

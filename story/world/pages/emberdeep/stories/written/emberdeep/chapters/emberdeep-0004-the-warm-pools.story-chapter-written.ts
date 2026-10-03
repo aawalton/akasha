@@ -13,11 +13,7 @@ export const emberdeep0004TheWarmPools = {
   prose: "txt",
   stepStatus: "step-status/player",
   beats: "jsonl",
-  issues: [
-    '"a dark soft shadow between her thighs" - Emberdeep Explicitness',
-    '"your belly, between your legs" - Emberdeep Explicitness',
-    '"Twelve copper pennies, the whole of yesterday" - only eight were earned Sixthday; four were older',
-  ],
+  issues: "txt",
   lore: [
     "lore/emberdeep-elowen",
     "lore/emberdeep-nala",

@@ -15,10 +15,7 @@ export const saltAndLamplight0001TheTideLeavesThings = {
   prose: "txt",
   stepStatus: "step-status/player",
   beats: "jsonl",
-  issues: [
-    '"The wet linen hides nothing" - Plain Negation',
-    '"Only softness, and a cleft" - Salt and Lamplight Explicitness',
-  ],
+  issues: "txt",
   lore: [
     "lore/salt-and-lamplight-morwenna",
     "lore/salt-and-lamplight-nala",

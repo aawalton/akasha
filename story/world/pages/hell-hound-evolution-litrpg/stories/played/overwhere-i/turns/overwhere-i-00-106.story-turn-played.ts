@@ -15,10 +15,7 @@ export const overwhereI00106 = {
   action:
     "“Great! I’ll be back.” Then I go to the other two stores to sell the sword, crossbow, and grubboar tusks.",
   beats: "jsonl",
-  issues: [
-    '"glances at Nala\'s antler badge" - she pocketed the badge in turn 103; never pinned it on',
-    '"taps her pipe at Nala\'s badge" - the badge is in her pocket since turn 103, not on show',
-  ],
+  issues: "txt",
   lore: ["lore/overwhere-i-nala", "lore/overwhere-i-nala-2", "lore/overwhere-i-wendlow-2"],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
   recordedBy: [

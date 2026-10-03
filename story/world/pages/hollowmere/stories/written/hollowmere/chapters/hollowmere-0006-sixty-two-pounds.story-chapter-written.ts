@@ -15,9 +15,7 @@ export const hollowmere0006SixtyTwoPounds = {
   prose: "txt",
   stepStatus: "step-status/player",
   beats: "jsonl",
-  issues: [
-    '"A twenty, two tens, a five... another twenty" - sums to £65 plus coins, not sixty-two pounds',
-  ],
+  issues: "txt",
   lore: [
     "lore/hollowmere-amara",
     "lore/hollowmere-bea",

@@ -16,9 +16,7 @@ export const theDatingGame00031 = {
   action:
     "“Already gone”, I say with a sad smile. “But this has been a good batch at least. I mean, I can’t complain about spending time in the dark with a kind and beautiful woman.”",
   beats: "jsonl",
-  issues: [
-    '"Full dark has come down over the cemetery now" - 030 ends 7:29 PM, minutes past sunset',
-  ],
+  issues: "txt",
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
   recordedBy: ["story-recorder/picture", "story-recorder/mechanics", "story-recorder/memory"],
   endsAt: "2026-09-26T19:31:00.000Z",

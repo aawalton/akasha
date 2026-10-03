@@ -14,7 +14,7 @@ export const overwhereI00114 = {
   stepStatus: "step-status/player",
   action: "I hand it over, then travel back to town and turn in the fangs for the bounty",
   beats: "jsonl",
-  issues: ['"What now, Nala Arthur?" - No Prompt'],
+  issues: "txt",
   lore: [
     "lore/overwhere-i-hobbs-mill-weir-2",
     "lore/overwhere-i-nala",

@@ -15,9 +15,7 @@ export const hollowmere0013FromMemory = {
   prose: "txt",
   stepStatus: "step-status/player",
   beats: "jsonl",
-  issues: [
-    '"beside you ... is a blonde bun" - at the Welcome Dinner Bea sat at another table across the hall',
-  ],
+  issues: "txt",
   lore: [
     "lore/hollowmere-academy-2",
     "lore/hollowmere-amara",

@@ -19,10 +19,7 @@ export const overwhereIii00093 = {
   action:
     "“Jackalopes.” I go out to the shrine and use ambient weaves to cleanse the five blightstones.",
   beats: "jsonl",
-  issues: [
-    '"The clay cup is empty of seed stones, and six glimmer specks lie in your palm." - Leave It Open',
-    '"your well stays full" - braids spent her own mana in turns 89-92; it later "has filled a little"',
-  ],
+  issues: "txt",
   lore: [
     "lore/overwhere-iii-brannagh-tull",
     "lore/overwhere-iii-brannagh-tull-2",

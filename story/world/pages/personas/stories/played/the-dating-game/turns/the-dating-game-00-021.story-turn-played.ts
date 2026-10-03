@@ -16,10 +16,7 @@ export const theDatingGame00021 = {
   action:
     "While I’m on campus, I decide to take a leisurely walk on the quiet trail next to the stream circling campus, halfway down the hill",
   beats: "jsonl",
-  issues: [
-    '"A side path climbs back up ..., and another drops away downhill, toward home." - No Prompt',
-    '"another drops away downhill, toward home" - home is uphill of campus (turns 2, 17)',
-  ],
+  issues: "txt",
   lore: ["place/the-dating-game-byu-stream-trail"],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
   recordedBy: ["story-recorder/memory", "story-recorder/picture", "story-recorder/mechanics"],

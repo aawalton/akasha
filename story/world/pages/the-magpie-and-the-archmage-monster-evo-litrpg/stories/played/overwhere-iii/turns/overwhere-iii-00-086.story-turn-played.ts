@@ -19,7 +19,7 @@ export const overwhereIii00086 = {
   stepStatus: "step-status/player",
   action: "“Let’s go there together, now.”",
   beats: "jsonl",
-  issues: ['"nobody goes near that hut" - Nobody Acts'],
+  issues: "txt",
   lore: [
     "lore/overwhere-iii-edda-crane",
     "lore/overwhere-iii-marda-hesk",

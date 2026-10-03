@@ -16,9 +16,7 @@ export const theDatingGame00004 = {
   action:
     "I like that she's walking close, and I bump my shoulder gently into hers from time to time. \"I'm Alan, what's your name?\"",
   beats: "jsonl",
-  issues: [
-    '"Echo," she says - she speaks only words given back to her, and no one has said "Echo"',
-  ],
+  issues: "txt",
   lore: ["lore/the-dating-game-boulder-woman"],
   reviewedBy: ["story-reviewer/continuity"],
   recordedBy: ["story-recorder/memory"],

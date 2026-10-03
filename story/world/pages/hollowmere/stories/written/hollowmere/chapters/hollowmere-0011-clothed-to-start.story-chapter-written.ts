@@ -15,11 +15,7 @@ export const hollowmere0011ClothedToStart = {
   prose: "txt",
   stepStatus: "step-status/player",
   beats: "jsonl",
-  issues: [
-    '"Last time it went faintly warm... and that was all" - Tuesday\'s stone went hot and she bled',
-    '"It\'s Thursday. Ten till six." - Nala was told only Tuesdays and Thursdays, never the hours',
-    '"a voice like a creaking gate" - the History lecturer\'s voice is like a dry leaf (chapter 4)',
-  ],
+  issues: "txt",
   lore: [
     "lore/hollowmere-academy-2",
     "lore/hollowmere-amara",

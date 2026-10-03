@@ -14,11 +14,7 @@ export const haremHotel0003TheMasquerade = {
   prose: "txt",
   stepStatus: "step-status/player",
   beats: "jsonl",
-  issues: [
-    '"The waltz plays on. Beyond the open mirrored doors, the stairs wait." - Leave It Open',
-    '"Beyond the open mirrored doors, the stairs wait." - No Prompt',
-    '"her hand is pressed between her thighs through the gold silk" - Harem Hotel Explicitness',
-  ],
+  issues: "txt",
   lore: [
     "lore/harem-hotel-odile",
     "lore/harem-hotel-tamsin",

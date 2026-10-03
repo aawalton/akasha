@@ -19,7 +19,7 @@ export const otherwhereIv00017 = {
   stepStatus: "step-status/player",
   action: "I do as instructed.",
   beats: "jsonl",
-  issues: ['"snaps off one leafy stalk" - she asks the visitor to pull the mugwort stalk'],
+  issues: "txt",
   lore: [
     "lore/otherwhere-iv-fang-brothers",
     "lore/otherwhere-iv-granny-hua",

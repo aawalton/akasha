@@ -16,7 +16,7 @@ export const theDatingGame00016 = {
   action:
     "\"Amazing! What a gift you have! We'll have to go back to my place for the books. I mean, we could read a digital version, but I think you'll enjoy my physical copies quite a bit more.\" I look out from the overlook we reached over the valley, with the fall colors scattered among the trees. \"This is a good place to turn around anyways, would you be comfortable coming back to my place? I even have a spare room we could turn into a recording studio, but you'll need to guide me through what we need. Money isn't an issue.\" I bounce up and down again on my toes, excited to get started. \"I've been dreaming of this for ages, I can't tell you how excited I am, and not just for the excuse to spend more time with you...\"",
   beats: "jsonl",
-  issues: ['"She turns to start back down the trail beside you" - Leave It Open'],
+  issues: "txt",
   lore: ["place/the-dating-game-rock-canyon", "lore/the-dating-game-alan"],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
   recordedBy: ["story-recorder/mechanics", "story-recorder/memory"],

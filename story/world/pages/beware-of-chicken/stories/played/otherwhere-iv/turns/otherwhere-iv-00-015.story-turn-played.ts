@@ -20,12 +20,7 @@ export const otherwhereIv00015 = {
   action:
     '"Yes, it sounds like poison is the best options to improve our chances. We could poison the heads of the spears as well as the stakes. I will come and I will pray for your success."',
   beats: "jsonl",
-  issues: [
-    '"kills the village dogs and nothing else" - Plain Negation',
-    '"it costs us nothing to try" - Plain Negation',
-    '"If it does nothing, it does nothing" - Plain Negation',
-    '"at the end of the channel" - her house is the last in the village\'s west lane',
-  ],
+  issues: "txt",
   lore: [
     "lore/otherwhere-iv-boar-hunt",
     "lore/otherwhere-iv-granny-hua",

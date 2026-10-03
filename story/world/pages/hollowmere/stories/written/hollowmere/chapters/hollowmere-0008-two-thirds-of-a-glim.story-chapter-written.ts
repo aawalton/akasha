@@ -15,9 +15,7 @@ export const hollowmere0008TwoThirdsOfAGlim = {
   prose: "txt",
   stepStatus: "step-status/player",
   beats: "jsonl",
-  issues: [
-    '"go to the benches with Amara, Kit and Lin" - group F\'s only glims were Osei, Ashworth, Ashby',
-  ],
+  issues: "txt",
   lore: [
     "lore/hollowmere-amara",
     "lore/hollowmere-bea",

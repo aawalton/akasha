@@ -50,7 +50,8 @@ test("issues from any seat send the turn back once every seat has handed in", ()
   } as const
   const first = doneOf(mechanicked(heldAt("mechanics", { beats: 2 }), issued, STEPPED))
   expect(first.next).toBe("mechanics")
-  expect(first.values["mechanicsIssues"]).toEqual(["beat 2 spends no draught"])
+  expect(first.values["mechanicsIssues"]).toBe("txt")
+  expect(first.issues).toEqual(["beat 2 spends no draught"])
   const held = heldAt("mechanics", {
     beats: 2,
     recordedBy: ["inventory"],
@@ -72,7 +73,7 @@ test("a turn mechanics sent back once goes on to its writer, carrying its issues
   })
   const again = doneOf(mechanicked(held, { kind: "record", recorder: "mechanics" }, STEPPED))
   expect(again.next).toBe("on")
-  expect(again.values["mechanicsIssues"]).toEqual(issues)
+  expect([again.values["mechanicsIssues"], again.issues]).toEqual(["txt", null])
   expect(again.values["mechanicsSentBack"]).toBeUndefined()
 })
 

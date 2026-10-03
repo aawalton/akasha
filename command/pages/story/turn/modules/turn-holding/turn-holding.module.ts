@@ -15,5 +15,13 @@ export const turnHolding = {
       decisionKind: "decision-kind/departure",
       statement: "A page stating no step status is refused.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A turn's reviewer and mechanics issues are read from the files beside it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "An issues file that is not there reads as no issue.",
+    },
   ],
 } as const satisfies Module

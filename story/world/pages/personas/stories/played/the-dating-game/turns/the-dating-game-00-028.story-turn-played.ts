@@ -15,7 +15,7 @@ export const theDatingGame00028 = {
   stepStatus: "step-status/player",
   action: "“So, what’s with the lantern? Mind if I follow along for a bit?”",
   beats: "jsonl",
-  issues: ['"So nobody has to walk in it without a light." - Nobody Acts'],
+  issues: "txt",
   lore: ["lore/the-dating-game-grace", "place/the-dating-game-provo-city-cemetery"],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
   recordedBy: ["story-recorder/picture", "story-recorder/memory", "story-recorder/mechanics"],

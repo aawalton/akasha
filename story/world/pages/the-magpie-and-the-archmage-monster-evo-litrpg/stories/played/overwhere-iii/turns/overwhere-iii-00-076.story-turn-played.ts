@@ -14,9 +14,7 @@ export const overwhereIii00076 = {
   stepStatus: "step-status/player",
   action: "“I’m not sure”, I hold them out. “I feel like they’ll heal fine though.",
   beats: "jsonl",
-  issues: [
-    '"Outside, the afternoon light lies long and gold across the post\'s step." - Leave It Open',
-  ],
+  issues: "txt",
   lore: [
     "lore/overwhere-iii-marda-hesk",
     "lore/overwhere-iii-marda-hesk-2",

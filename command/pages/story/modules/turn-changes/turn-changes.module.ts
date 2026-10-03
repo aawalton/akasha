@@ -57,7 +57,7 @@ export const turnChanges = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A move writes its prose and its beats as files beside the turn.",
+      statement: "A move writes its prose, its beats and its issue lists as files beside the turn.",
     },
   ],
 } as const satisfies Module

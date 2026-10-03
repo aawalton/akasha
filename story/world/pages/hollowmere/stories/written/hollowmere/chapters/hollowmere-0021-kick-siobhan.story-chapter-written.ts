@@ -15,9 +15,7 @@ export const hollowmere0021KickSiobhan = {
   prose: "txt",
   stepStatus: "step-status/player",
   beats: "jsonl",
-  issues: [
-    '"she\'s in her swimsuit underneath" - Shiv swims naked off her rock, only a hoodie under the parka',
-  ],
+  issues: "txt",
   lore: [
     "lore/hollowmere-amara",
     "lore/hollowmere-bea",

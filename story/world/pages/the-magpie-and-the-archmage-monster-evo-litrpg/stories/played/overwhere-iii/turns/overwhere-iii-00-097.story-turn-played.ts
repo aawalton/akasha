@@ -14,10 +14,7 @@ export const overwhereIii00097 = {
   stepStatus: "step-status/player",
   action: "I pull a knot of currents onto its head to finish it off",
   beats: "jsonl",
-  issues: [
-    '"It stands five paces off, snorting blood, tusks low." - No Prompt',
-    '"Brook-blue, earth-brown and frost-white" - currents above the ford are blue, green and yellow',
-  ],
+  issues: "txt",
   lore: [
     "lore/overwhere-iii-corruption-2",
     "lore/overwhere-iii-current-knot",

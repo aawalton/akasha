@@ -16,7 +16,7 @@ export const theDatingGame00007 = {
   action:
     "I laugh and splash her back playfully from the fountain. The cool water feels great with the exertion of the hike. As we start walking again, I turn to her and ask \"So, I know this might be sensitive, but I noticed you mostly repeat things I've said. Why is that? No judgment, I'm autistic myself and that's not uncommon for autistic kids, so it's not unfamiliar for me.\"",
   beats: "jsonl",
-  issues: ['"Then to you." - prose leaves out the beat where she watches whether he understands'],
+  issues: "txt",
   lore: ["lore/the-dating-game-echo"],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
   recordedBy: ["story-recorder/memory"],

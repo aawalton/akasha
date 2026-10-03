@@ -16,7 +16,7 @@ export const theDatingGame00025 = {
   action:
     "“Hi there!” I walk over toward her. “I don’t think I’ve seen you here before. I’m Alan, I live just down the street there on Apple” I gesture back the way I came. “Nice to meet you!”",
   beats: "jsonl",
-  issues: ['"and the move leaves room on the step beside her" - No Prompt'],
+  issues: "txt",
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
   recordedBy: ["story-recorder/picture", "story-recorder/mechanics", "story-recorder/memory"],
   endsAt: "2026-09-26T17:05:00.000Z",

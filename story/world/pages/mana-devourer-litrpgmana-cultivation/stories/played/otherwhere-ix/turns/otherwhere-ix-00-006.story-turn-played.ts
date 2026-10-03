@@ -16,9 +16,7 @@ export const otherwhereIx00006 = {
   action:
     "I wrap my thighs around its neck and squeeze with all my strength, working to crush its windpipe.",
   beats: "jsonl",
-  issues: [
-    '"It lets go of her calf." - a locked shardback lets go only for failing breath or a snout blow',
-  ],
+  issues: "txt",
   lore: ["lore/otherwhere-ix-shardback"],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
   recordedBy: ["story-recorder/memory", "story-recorder/mechanics", "story-recorder/picture"],

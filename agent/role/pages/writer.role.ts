@@ -53,7 +53,10 @@ export const writer = {
       name: "Answer The Issues",
       act: "When the turn or chapter carries issues, rewrite its prose answering each one.",
       warrant: "Each is reviewed once, so an issue the rewrite leaves reaches the reader.",
-      aids: ["The game master has mended the beats first, so write the beats as they are now."],
+      aids: [
+        "The issues are the `.issues.txt` file beside the turn, one to a line.",
+        "The game master has mended the beats first, so write the beats as they are now.",
+      ],
     },
     {
       directiveKind: "directive-kind/rule",
@@ -121,7 +124,7 @@ export const writer = {
         "Each change names its beat, and its `note` says what changed and to what.",
         "The pages hold each number as it stood before the turn; the changes say where it ends.",
         "A change the turn does not show stays off the page.",
-        "Any `mechanicsIssues` on the turn are faults left unmended; read them first.",
+        "A `.mechanics-issues.txt` file beside the turn holds faults left unmended; read it first.",
         "Write a faulted beat so it shows no number or item its issue says cannot hold.",
       ],
     },

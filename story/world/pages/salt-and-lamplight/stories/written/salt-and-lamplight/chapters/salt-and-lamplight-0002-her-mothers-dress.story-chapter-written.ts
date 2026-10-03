@@ -15,11 +15,7 @@ export const saltAndLamplight0002HerMothersDress = {
   prose: "txt",
   stepStatus: "step-status/player",
   beats: "jsonl",
-  issues: [
-    '"her boots ringing on the iron stair" - the tower stair has stone treads earlier in the chapter',
-    '"neither of you moves to close it or to widen it" - Nobody Acts',
-    '"You fall asleep to the sound, on your second night as Nala." - Leave It Open',
-  ],
+  issues: "txt",
   lore: [
     "lore/salt-and-lamplight-agnes",
     "lore/salt-and-lamplight-dilys",

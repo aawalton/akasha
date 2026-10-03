@@ -22,9 +22,7 @@ export const overwhereIii00079 = {
   action:
     "“Okay, might just hunt my own then.” Dinner, bed, healing, training, then back to the Post for leads on where blighted beasts have been seem.",
   beats: "jsonl",
-  issues: [
-    '"She reaches the yard late" - Maud drills the watch on the south green, as turn 68 has it',
-  ],
+  issues: "txt",
   lore: [
     "lore/overwhere-iii-brannagh-tull",
     "lore/overwhere-iii-brannagh-tull-2",

@@ -16,9 +16,7 @@ export const otherwhereX00006 = {
   action:
     '"I take it the bell is to invite more to come and listen? While we wait, could you tell me more about your country? I love collecting stories, so I would learn yours as well if I may."',
   beats: "jsonl",
-  issues: [
-    '"The door stands open beside him, and the warmth of the room spills out" - Leave It Open',
-  ],
+  issues: "txt",
   lore: ["place/otherwhere-x-sulon", "lore/otherwhere-x-aldous-crane"],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
   recordedBy: ["story-recorder/mechanics", "story-recorder/memory", "story-recorder/picture"],

@@ -20,9 +20,7 @@ export const overwhereIii00085 = {
   action:
     "“Whose house was that and how long have you known them? There was a woman there who commanded the wolves, but she was corrupted. When I confronted her, her face changed.”",
   beats: "jsonl",
-  issues: [
-    '"Edda goes very still in her barrow." - turn 84 prose has her beside her barrow; this prose says by',
-  ],
+  issues: "txt",
   lore: [
     "lore/overwhere-iii-edda-crane",
     "lore/overwhere-iii-marda-hesk",

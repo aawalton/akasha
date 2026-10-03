@@ -15,10 +15,7 @@ export const overwhereIii00096 = {
   action:
     "I hunt the board, when I get close, I cast my ward on myself first, then find the boar and hit it in the head with my braid until it dies",
   beats: "jsonl",
-  issues: [
-    '"The last of its blight comes away" - the boar takes about six pulls to draw clean, not three',
-    '"a plain hill boar now" - three pulls cannot clear a boar whose blight takes about six',
-  ],
+  issues: "txt",
   lore: [
     "lore/overwhere-iii-corruption-2",
     "lore/overwhere-iii-nala",

@@ -15,10 +15,7 @@ export const hollowmere0023WhatAWardKeepsIn = {
   prose: "txt",
   stepStatus: "step-status/player",
   beats: "jsonl",
-  issues: [
-    '"Amara Okafor. To me." - Amara\'s surname is Osei, as the prose and lore say',
-    '"goes off down the corridor, fast" - prose drops the beat\'s Kit going off to the forge',
-  ],
+  issues: "txt",
   lore: [
     "lore/hollowmere-academy-2",
     "lore/hollowmere-amara",

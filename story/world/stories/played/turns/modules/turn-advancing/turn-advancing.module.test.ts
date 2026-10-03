@@ -69,17 +69,16 @@ test("the game master's mended beats after review go to the writer too", () => {
   expect([said.starts, said.values["ownLength"]]).toEqual([[], 0])
 })
 
-test("a reviewer that is not the last adds itself and its issues and leaves the turn with the reviewers", () => {
+test("a reviewer not the last adds itself and its issues, leaving the turn with the reviewers", () => {
   const found = { kind: "review", reviewer: VOICE, issues: ['"opens" - it was locked'] } as const
   const said = movedOf(advanced(heldAt("reviewers"), REVIEWER, found, TWO))
   expect(said.status).toBe("reviewers")
   expect(said.values).toEqual({
     stepStatus: at("reviewers"),
     reviewedBy: [by(VOICE)],
-    issues: ['"opens" - it was locked'],
+    issues: "txt",
   })
-  expect(said.starts).toEqual([])
-  expect(said.stopsCaller).toBe(true)
+  expect([said.starts, said.stopsCaller, said.issues]).toEqual([[], true, found.issues])
 })
 
 test("the last reviewer sends a turn with issues back to the game master", () => {
@@ -90,9 +89,9 @@ test("the last reviewer sends a turn with issues back to the game master", () =>
   expect(said.values).toEqual({
     stepStatus: at("game-master"),
     reviewedBy: [by(VOICE), by(continuity.slug)],
-    issues: ["an earlier fault"],
+    issues: "txt",
   })
-  expect(said.stopsCaller).toBe(true)
+  expect([said.issues, said.stopsCaller]).toEqual([null, true])
 })
 
 test("a clean review of a turn its recorders never ran on starts them", () => {

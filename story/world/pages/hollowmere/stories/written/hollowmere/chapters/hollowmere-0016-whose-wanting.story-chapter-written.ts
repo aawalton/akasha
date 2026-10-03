@@ -15,10 +15,7 @@ export const hollowmere0016WhoseWanting = {
   prose: "txt",
   stepStatus: "step-status/player",
   beats: "jsonl",
-  issues: [
-    '"Tell no one," Amara says. - Plain Negation',
-    '"Yusra is at the infirmary until six" - Nala was told only Tuesdays and Thursdays, never the hours',
-  ],
+  issues: "txt",
   lore: [
     "lore/hollowmere-academy-2",
     "lore/hollowmere-amara",

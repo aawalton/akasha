@@ -15,9 +15,7 @@ export const hollowmere0026ItKnowsMe = {
   prose: "txt",
   stepStatus: "step-status/player",
   beats: "jsonl",
-  issues: [
-    '"You clean-copied it last night ... while Bea read" - in ch25 she talked, then fell asleep',
-  ],
+  issues: "txt",
   lore: [
     "lore/hollowmere-amara",
     "lore/hollowmere-bea",

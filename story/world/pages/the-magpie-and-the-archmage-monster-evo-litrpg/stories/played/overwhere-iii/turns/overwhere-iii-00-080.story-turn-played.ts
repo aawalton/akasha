@@ -15,7 +15,7 @@ export const overwhereIii00080 = {
   action:
     "“Yeah, definitely the small one first, that’s the deer?” I follow the directions and hit it with my cleansing current lash braid as soon as I can reach it.",
   beats: "jsonl",
-  issues: ['"It comes in one long draw" - lore says two pulls draw the deer\'s blight'],
+  issues: "txt",
   lore: [
     "lore/overwhere-iii-cleansing-weave",
     "lore/overwhere-iii-corruption-2",

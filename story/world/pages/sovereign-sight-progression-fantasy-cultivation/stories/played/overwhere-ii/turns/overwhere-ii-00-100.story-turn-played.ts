@@ -14,9 +14,7 @@ export const overwhereIi00100 = {
   stepStatus: "step-status/player",
   action: "I test my strength, Pushing against the blackness",
   beats: "jsonl",
-  issues: [
-    '"The pasture below lies bare" - six unburned ewe carcasses still lie on the pasture from turn 99',
-  ],
+  issues: "txt",
   lore: [
     "lore/overwhere-ii-nala",
     "lore/overwhere-ii-nala-2",

@@ -15,11 +15,7 @@ export const overwhereI00115 = {
   action:
     "I spend the afternoon testing weaves to see if I can get something to repair the tears in my clothes.",
   beats: "jsonl",
-  issues: [
-    '"edges frayed and stiff with old blood" - she steam-cleaned her clothes earlier on day 8',
-    '"The sun has slid low and gold across Wendlow\'s roofs while you worked." - Leave It Open',
-    '"Your throat is dry as dust, and from the square, supper smoke drifts up" - No Prompt',
-  ],
+  issues: "txt",
   lore: [
     "lore/overwhere-i-nala",
     "lore/overwhere-i-nala-2",

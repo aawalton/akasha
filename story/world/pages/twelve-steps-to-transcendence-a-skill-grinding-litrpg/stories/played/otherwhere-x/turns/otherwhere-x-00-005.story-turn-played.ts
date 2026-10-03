@@ -16,10 +16,7 @@ export const otherwhereX00005 = {
   action:
     '"None of these. I am from a place so far away that there are no reeve\'s, no tallies, and the roads are made from liquid stone."',
   beats: "jsonl",
-  issues: [
-    '"steps down onto the doorstone" - Aldous settles hard things indoors, not before the green',
-    '"Will you go quiet to the Sheaf and wait for the patrol?" - No Prompt',
-  ],
+  issues: "txt",
   lore: ["lore/otherwhere-x-aldous-crane", "place/otherwhere-x-harrow"],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
   recordedBy: ["story-recorder/memory", "story-recorder/picture", "story-recorder/mechanics"],

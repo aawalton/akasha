@@ -16,11 +16,7 @@ export const otherwhereIx00002 = {
   action:
     '"Hello?" I say confidently, then I stand up tall and put my arms on my hips to make me look bigger. "Can you understand me?"',
   beats: "jsonl",
-  issues: [
-    '"Your hands are empty." - No Prompt',
-    '"The nearest of the black-barked trees stands alone, some thirty paces away." - No Prompt',
-    '"Far off to the east, the dark line lies along the edge of the world." - Leave It Open',
-  ],
+  issues: "txt",
   lore: ["lore/otherwhere-ix-shardback", "place/otherwhere-ix-glassgrass-flats"],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
   recordedBy: ["story-recorder/mechanics", "story-recorder/memory", "story-recorder/picture"],

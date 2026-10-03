@@ -101,6 +101,8 @@ type Moving = {
   readonly changes?: readonly BeatChange[] | null
   readonly memory?: readonly Memory[] | null
   readonly pictured?: readonly Pictured[] | null
+  readonly issues?: readonly string[] | null
+  readonly mechanicsIssues?: readonly string[] | null
   readonly landsKept?: boolean
 }
 
@@ -144,6 +146,8 @@ function moved(
     changes: moving.changes ?? null,
     memory: moving.memory ?? null,
     pictured: moving.pictured ?? null,
+    issues: moving.issues ?? null,
+    mechanicsIssues: moving.mechanicsIssues ?? null,
     starts: moving.starts ?? [],
     stopsCaller: moving.stopsCaller ?? false,
     landsKept: moving.landsKept ?? false,
@@ -269,9 +273,9 @@ function fromReviewer(
   const reviewedBy = [...held.reviewedBy, reviewer]
   const values = {
     reviewedBy: reviewedBy.map((one) => `${STORY_REVIEWER}${PARTED}${one}`),
-    ...(issues.length === 0 ? {} : { issues }),
+    ...(issues.length === 0 ? {} : { issues: PROSE_HELD }),
   }
-  const stopping = { stopsCaller: true }
+  const stopping = { stopsCaller: true, issues: found.length === 0 ? null : issues }
   if (!reviewers.every((one) => reviewedBy.includes(one))) {
     return moved(REVIEWERS, values, stopping)
   }
@@ -306,7 +310,7 @@ function fromWriter(
 function fromMechanics(held: Held, handed: Recorded, staff: Staff): Advanced {
   const done = mechanicked(held, handed, staff.mechanics)
   if ("refused" in done) return done
-  const moving = { stopsCaller: true, changes: done.changes }
+  const moving = { stopsCaller: true, changes: done.changes, mechanicsIssues: done.issues }
   if (done.next === "mechanics") return moved(MECHANICS, done.values, moving)
   if (done.next === "game-master") return moved(GAME_MASTER, done.values, moving)
   if (!held.written) return moved(WRITER, done.values, moving)

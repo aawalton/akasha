@@ -15,9 +15,7 @@ export const hollowmere0009GoodnightNala = {
   prose: "txt",
   stepStatus: "step-status/player",
   beats: "jsonl",
-  issues: [
-    '"the girl in Penhallow\'s study writing down your one line" - Dr Penhallow, 58, wrote it',
-  ],
+  issues: "txt",
   lore: [
     "lore/hollowmere-amara",
     "lore/hollowmere-bea",

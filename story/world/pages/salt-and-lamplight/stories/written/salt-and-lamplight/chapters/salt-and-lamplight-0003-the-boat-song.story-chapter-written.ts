@@ -13,9 +13,7 @@ export const saltAndLamplight0003TheBoatSong = {
   prose: "txt",
   stepStatus: "step-status/player",
   beats: "jsonl",
-  issues: [
-    '"You stand at the cottage window" - Morwenna swung every cottage shutter closed that morning',
-  ],
+  issues: "txt",
   lore: [
     "lore/salt-and-lamplight-morwenna",
     "lore/salt-and-lamplight-nala",

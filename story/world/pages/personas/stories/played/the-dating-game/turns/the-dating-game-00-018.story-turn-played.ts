@@ -16,10 +16,7 @@ export const theDatingGame00018 = {
   action:
     "I sit in the chair. \"Okay, you tell me what to do, I'm yours for as long as you want me. Otherwise, I'll gladly just listen.\"",
   beats: "jsonl",
-  issues: [
-    '"holds up one finger. Press it once." - No Prompt',
-    '"She turns to the first page" - she already set it open and smoothed the first page flat',
-  ],
+  issues: "txt",
   lore: ["lore/the-dating-game-alan"],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
   recordedBy: ["story-recorder/mechanics", "story-recorder/memory"],

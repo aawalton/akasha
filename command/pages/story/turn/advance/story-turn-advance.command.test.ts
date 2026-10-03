@@ -123,8 +123,9 @@ test("a reviewer that is not the last lands its issues, tells nobody and stops i
   expect(into.folded[0]?.values).toEqual({
     stepStatus: `${stepStatus.slug}/reviewers`,
     reviewedBy: ["story-reviewer/voice"],
-    issues: ['"opens" - it was locked'],
+    issues: "txt",
   })
+  expect(into.folded[0]?.bodies).toEqual({ issues: '"opens" - it was locked\n' })
   expect(into.notices).toEqual([])
   expect(into.stops).toEqual([reviewer])
 })
@@ -194,11 +195,7 @@ test("with no story recorder the writer's prose on a reviewed turn goes to the p
 
 test("the writer's rewrite skips the reviewers, moving the turn to the recorders with one fresh seat for each", async () => {
   const into = seen()
-  const reviewed = {
-    reviewedBy: REVIEWED,
-    issues: ['"opens" - it was locked'],
-    prose: "txt",
-  }
+  const reviewed = { reviewedBy: REVIEWED, prose: "txt" }
   const answer = await advancedBy(
     WRITTEN,
     reachOver(turnAt("writer", reviewed), seatOf("writer", WRITER), into),

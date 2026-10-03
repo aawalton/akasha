@@ -35,6 +35,10 @@ export const turnMechanics = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A seat's issues are merged with the turn's and written to the file beside it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A change past the turn's last beat is refused.",
     },
     {

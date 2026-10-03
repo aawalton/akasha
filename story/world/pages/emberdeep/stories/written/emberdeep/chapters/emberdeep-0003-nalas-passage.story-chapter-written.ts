@@ -13,7 +13,7 @@ export const emberdeep0003NalasPassage = {
   prose: "txt",
   stepStatus: "step-status/player",
   beats: "jsonl",
-  issues: ['"turns and looks up at you, and waits" - No Prompt'],
+  issues: "txt",
   lore: [
     "lore/emberdeep-elowen",
     "lore/emberdeep-nala",

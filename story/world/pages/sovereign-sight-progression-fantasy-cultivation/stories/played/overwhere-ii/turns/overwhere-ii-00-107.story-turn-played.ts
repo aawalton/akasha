@@ -14,7 +14,7 @@ export const overwhereIi00107 = {
   stepStatus: "step-status/player",
   action: "I pull out one of the intact Greymaw chambers and see if that will hold it",
   beats: "jsonl",
-  issues: ['"the chamber cupped in her palm" - she set it on the stone and never picks it up'],
+  issues: "txt",
   lore: [
     "lore/overwhere-ii-greymaws",
     "lore/overwhere-ii-nala",

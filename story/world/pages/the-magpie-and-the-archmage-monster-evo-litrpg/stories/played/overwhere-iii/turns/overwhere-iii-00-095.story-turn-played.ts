@@ -19,9 +19,7 @@ export const overwhereIii00095 = {
   action:
     "“That will be useful.” I walk back to town, dinner and bed, then check in and heal any patients, training with the guard, lunch, then hunting for blighted beasts again.",
   beats: "jsonl",
-  issues: [
-    '"Lunch at the Crook is three copper" - the Crook\'s noon plate cost Nala 2 copper on day seven',
-  ],
+  issues: "txt",
   lore: [
     "lore/overwhere-iii-brannagh-tull",
     "lore/overwhere-iii-brannagh-tull-2",

@@ -15,9 +15,7 @@ export const hollowmere0017EmergencyContact = {
   prose: "txt",
   stepStatus: "step-status/player",
   beats: "jsonl",
-  issues: [
-    '"Whose wanting," Shiv repeats - only Kit saw or was told Penhallow\'s question; Shiv never learned it',
-  ],
+  issues: "txt",
   lore: [
     "lore/hollowmere-academy-2",
     "lore/hollowmere-bea",

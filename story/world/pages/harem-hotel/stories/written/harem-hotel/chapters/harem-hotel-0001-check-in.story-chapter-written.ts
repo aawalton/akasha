@@ -15,10 +15,7 @@ export const haremHotel0001CheckIn = {
   prose: "txt",
   stepStatus: "step-status/player",
   beats: "jsonl",
-  issues: [
-    '"and start to climb toward the next floor" - Leave It Open',
-    '"she draws your coat off you, down your arms" - the coat is still buttoned; nobody unbuttons it',
-  ],
+  issues: "txt",
   lore: ["place/harem-hotel-floor-1"],
   characters: [
     "character-player/harem-hotel-alan",
