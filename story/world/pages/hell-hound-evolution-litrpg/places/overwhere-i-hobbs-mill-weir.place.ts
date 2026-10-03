@@ -211,5 +211,9 @@ export const overwhereIHobbsMillWeir = {
       fact: "If it feels her creep in, the wyrm hauls out late and wary; her first strike at it is a band harder.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "On day 8 the wyrm hauls out to bask about 11:00 and settles within a few minutes.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Place
