@@ -4,6 +4,6 @@ export const theBeholderPearl = {
   id: "01a0deec-efb4-77da-b701-35a15513b46b",
   type: "page-type/the-beholder-vitality",
   slug: "the-beholder-pearl",
-  character: "world-character/the-beholder-pearl",
+  character: "character-player/the-beholder-pearl",
   value: 9,
 } as const satisfies TheBeholderVitality

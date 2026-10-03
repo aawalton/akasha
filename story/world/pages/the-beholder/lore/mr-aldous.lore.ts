@@ -6,6 +6,6 @@ export const mrAldous = {
   slug: "mr-aldous",
   title: "Mr. Aldous",
   world: "world/the-beholder",
-  about: "world-character/the-beholder-mr-aldous",
+  about: "character-other/the-beholder-mr-aldous",
   secrets: "jsonl",
 } as const satisfies Lore

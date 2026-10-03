@@ -6,6 +6,6 @@ export const tamsin = {
   slug: "tamsin",
   title: "Tamsin",
   world: "world/the-beholder",
-  about: "world-character/the-beholder-tamsin",
+  about: "character-other/the-beholder-tamsin",
   secrets: "jsonl",
 } as const satisfies Lore

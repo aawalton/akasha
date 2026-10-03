@@ -1,8 +1,9 @@
 {"propertySlug":"lore-about","path":"story/world/pages/the-beholder/lore/the-onset-the-system.lore.ts","id":"01a0ddf8-63fd-757b-a758-3b66e31afe44"}
-{"propertySlug":"world","path":"story/world/pages/the-beholder/characters/the-beholder-colette-vane.world-character.ts","id":"01a0dec2-4dfb-701a-a798-0a05591de0af"}
-{"propertySlug":"world","path":"story/world/pages/the-beholder/characters/the-beholder-mr-aldous.world-character.ts","id":"01a0dec2-4dfc-7eba-b04b-50e0cf1852dd"}
-{"propertySlug":"world","path":"story/world/pages/the-beholder/characters/the-beholder-pearl.world-character.ts","id":"01a0dec2-4dfc-7a83-a6cc-7f15690be980"}
-{"propertySlug":"world","path":"story/world/pages/the-beholder/characters/the-beholder-tamsin.world-character.ts","id":"01a0dec2-4dfc-7be7-bcef-227332e836ce"}
+{"propertySlug":"world","path":"story/world/pages/the-beholder/characters/the-beholder-colette-vane.character-other.ts","id":"01a0dec2-4dfb-701a-a798-0a05591de0af"}
+{"propertySlug":"world","path":"story/world/pages/the-beholder/characters/the-beholder-dove.character-other.ts","id":"01a1032e-72a0-7688-a5dc-3c3e5d8bef18"}
+{"propertySlug":"world","path":"story/world/pages/the-beholder/characters/the-beholder-mr-aldous.character-other.ts","id":"01a0dec2-4dfc-7eba-b04b-50e0cf1852dd"}
+{"propertySlug":"world","path":"story/world/pages/the-beholder/characters/the-beholder-pearl.character-player.ts","id":"01a0dec2-4dfc-7a83-a6cc-7f15690be980"}
+{"propertySlug":"world","path":"story/world/pages/the-beholder/characters/the-beholder-tamsin.character-other.ts","id":"01a0dec2-4dfc-7be7-bcef-227332e836ce"}
 {"propertySlug":"world","path":"story/world/pages/the-beholder/decisions/decision-ch1-first-harvest.story-decision.ts","id":"01a0657d-bb96-70d2-8ff0-62287fefc2ec"}
 {"propertySlug":"world","path":"story/world/pages/the-beholder/designs/the-beholder.story-design.ts","id":"01a0657d-bb8d-761c-af48-1d61b81985b6"}
 {"propertySlug":"world","path":"story/world/pages/the-beholder/lore/colette-vane.lore.ts","id":"01a0ddf8-63fc-7743-afaf-b7f56d2f6b72"}
