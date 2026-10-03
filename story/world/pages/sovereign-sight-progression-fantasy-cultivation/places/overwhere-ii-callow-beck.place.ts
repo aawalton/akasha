@@ -158,7 +158,7 @@ export const overwhereIiCallowBeck = {
     },
     {
       fact: "Once Nala lets go, the slick creeps back down at its old few paces a day, unless something holds it.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "The gully mouth above the pasture is narrow; a bank of peat and stones there would hold the slick.",
