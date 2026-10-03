@@ -7,4 +7,5 @@ export const otherwhereIvGrannyHua = {
   title: "Granny Hua",
   world: "world/beware-of-chicken",
   story: "story-played/otherwhere-iv",
+  place: "place/otherwhere-iv-three-stones-village",
 } as const satisfies CharacterOther
