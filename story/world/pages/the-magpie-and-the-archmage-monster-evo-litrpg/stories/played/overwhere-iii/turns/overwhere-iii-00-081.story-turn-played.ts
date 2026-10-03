@@ -28,6 +28,7 @@ export const overwhereIii00081 = {
     '"Lost, love?" Her voice is soft and kind. "There\'s nettle tea on, if you\'re cold."',
     "Nala's sight shows her more. Around the old woman hangs an aura of sick violet-black.",
   ],
+  issues: ['"The banks there hold no sign." - Plain Negation'],
   lore: [
     "lore/overwhere-iii-corruption-2",
     "lore/overwhere-iii-mother-sallow",
@@ -36,5 +37,6 @@ export const overwhereIii00081 = {
     "lore/overwhere-iii-nala-2-2",
     "place/overwhere-iii-wrenwood",
   ],
+  reviewedBy: ["story-reviewer/style"],
   endsAt: "2026-10-08T13:00:00.000Z",
 } as const satisfies StoryTurnPlayed
