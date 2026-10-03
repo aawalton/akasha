@@ -98,4 +98,5 @@ export const hollowmere0030OrIsItWhom = {
     "character-other/hollowmere-morwenna",
     "character-other/hollowmere-yusra",
   ],
+  reviewedBy: ["story-reviewer/style"],
 } as const satisfies StoryChapterWritten
