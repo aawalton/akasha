@@ -113,7 +113,7 @@ export const overwhereIiVarrowTalented = {
     },
     {
       fact: "Pushing off puddle or trough water, Nala can shove herself half a step aside, faster than a stride.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "A small push lands on Hawise as a cold slap of tide; the first one jolts her, after that she braces.",
