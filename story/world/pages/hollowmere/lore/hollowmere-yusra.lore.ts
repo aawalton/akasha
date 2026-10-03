@@ -256,8 +256,12 @@ export const hollowmereYusra = {
       ],
     },
     {
-      fact: "Yusra has not slept a whole night since, and hides it under work.",
-      knowers: ["lore-disclosure/game-master", "character-player/hollowmere-nala"],
+      fact: "Yusra has not slept a whole night since the summer, and hides it under work.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-yusra",
+      ],
     },
   ],
   secrets: "jsonl",
