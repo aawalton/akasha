@@ -1,0 +1,58 @@
+{"beat":1,"event":"The six sit around a fire-bowl in the Transition Hall after the Proving Gate.","at":"2000-01-10T19:00:00.000Z","place":"place/tower-and-the-star-floor-20-transition-hall","present":["character-other/tower-and-the-star-solenne","character-other/tower-and-the-star-dayo","character-other/tower-and-the-star-miriam","character-other/tower-and-the-star-vesper","character-other/tower-and-the-star-tomas","character-other/tower-and-the-star-nadia"]}
+{"beat":2,"event":"Solenne runs the Conductor low and finds the party at a register with no catalog entry."}
+{"beat":3,"event":"Dayo rests against the wall, her weight held without being placed anywhere."}
+{"beat":4,"event":"Miriam's notebook is closed; Vesper has nothing to make and sits with that."}
+{"beat":5,"event":"Tomás keeps the Floor 21 notes in his pocket; Nadia's dulcimer case is set beside her."}
+{"beat":6,"event":"Fifteen minutes in, Nadia opens her Level 11 skill window, reads, and closes it."}
+{"beat":7,"event":"Nadia says the Tower's pulse; Solenne says she noticed it differently."}
+{"beat":8,"event":"Nadia says it's still different since the trial chamber."}
+{"beat":9,"event":"Solenne says it was always that way; Nadia hears it clean now."}
+{"beat":10,"event":"Nadia asks if that is what Solenne hears all the time."}
+{"beat":11,"event":"Solenne hears it through six people at once: dense, not loud."}
+{"beat":12,"event":"Nadia nods and rests her hand on the dulcimer case without opening it."}
+{"beat":13,"event":"An observation about Nadia's not-playing arrives in Solenne complete."}
+{"beat":14,"event":"Solenne says Nadia has practiced not playing longer than she's not played."}
+{"beat":15,"event":"Two years at least, she says: the not-playing was a skill she practiced."}
+{"beat":16,"event":"Nadia stares, then her Brightspirit signal rings like a struck bell."}
+{"beat":17,"event":"Nadia laughs for real, caught off-guard by an accurate description of herself."}
+{"beat":18,"event":"Solenne laughs too: accuracy about people is sometimes funny."}
+{"beat":19,"event":"Resonance Event: Laughing Storm pair complete, +5, party total 150 of 150.","changes":[{"page":"world-metric/tower-and-the-star-resonance-events","key":"value","from":145,"to":150,"note":"Party Resonance Events reach 150 of 150"}]}
+{"beat":20,"event":"Skill unlocked: Six of Six, undocumented, waiting for them specifically."}
+{"beat":21,"event":"A second notice to Solenne alone: you are the instrument; hold all six and release."}
+{"beat":22,"event":"The others read the party notice, each in their own way."}
+{"beat":23,"event":"Dayo asks what it does; Solenne says she doesn't know yet."}
+{"beat":24,"event":"Tomás says the Tower will recognize the moment: it reads the situation."}
+{"beat":25,"event":"Miriam says: good."}
+{"beat":26,"event":"Nadia asks if this is what Solenne meant: all of them at once. Solenne thinks so."}
+{"beat":27,"event":"Nadia takes the dulcimer out and holds it across her knees."}
+{"beat":28,"event":"She does not play; she puts it back, fastens the case, and shoulders it. Okay."}
+{"beat":29,"event":"A stranger who has watched seven minutes announces herself: Cassia Renard.","arrive":["character-other/tower-and-the-star-cassia"]}
+{"beat":30,"event":"Solenne had felt her arrive four minutes before and said nothing."}
+{"beat":31,"event":"Cassia says she works with Apex Syndicate, watching them since Floor 11."}
+{"beat":32,"event":"She tracked them through public records and System logs."}
+{"beat":33,"event":"Nadia asks what she looks for; rare Harmony parties: theirs is the first six-Aspect one."}
+{"beat":34,"event":"Miriam asks how many she missed; Cassia says probably none at this depth."}
+{"beat":35,"event":"Dayo asks what she wants."}
+{"beat":36,"event":"Access to the mechanics: how the Conductor reads composite resonance."}
+{"beat":37,"event":"Cassia lays down a Floors 21-35 schematic and a resource package."}
+{"beat":38,"event":"Solenne sets Vasic's paper on the floor between them."}
+{"beat":39,"event":"Cassia pauses three seconds and asks where they got it."}
+{"beat":40,"event":"Solenne says Floor 14's rest floor, from Dr. Petra Vasic."}
+{"beat":41,"event":"Tomás names the coordinates: Floor 17, quadrant NW, alcove 7-B; they've been past it."}
+{"beat":42,"event":"Cassia says they have a way to access it; Solenne says yes."}
+{"beat":43,"event":"Cassia recognizes the new skill as Six of Six."}
+{"beat":44,"event":"Apex modelled it three years; she was in the minority that thought it real."}
+{"beat":45,"event":"Nadia says she was right; Cassia, unguarded for once, says yes, she was."}
+{"beat":46,"event":"Cassia studies the paper's unknown script and admits she doesn't know the Node's contents."}
+{"beat":47,"event":"She asks only for a standing agreement to work with Apex on the Conductor."}
+{"beat":48,"event":"Tomás asks what Apex offers: updated maps, the package, a corridor to Floor 17."}
+{"beat":49,"event":"Solenne looks at the party and says yes."}
+{"beat":50,"event":"Cassia hands back Vasic's paper for when they go back, and leaves.","leave":["character-other/tower-and-the-star-cassia"]}
+{"beat":51,"event":"Tomás reads the new schematic; Vesper assesses the resource package."}
+{"beat":52,"event":"Miriam writes in her notebook's main text for the first time since the Gate."}
+{"beat":53,"event":"Dayo looks at the plain white door to Floor 21."}
+{"beat":54,"event":"Tomás folds the schematic: same formation, open passage at entry."}
+{"beat":55,"event":"Nadia shoulders the dulcimer; she will open the skill window again eventually."}
+{"beat":56,"event":"Solenne files the six of them under: this, and picks up her pack."}
+{"beat":57,"event":"Dayo studies the door's seam, then opens it on clean, even light."}
+{"beat":58,"event":"Tomás calls formation three, and they walk through.","place":"place/tower-and-the-star-floor-21-corridors","changes":[{"page":"world-metric/tower-and-the-star-highest-floor-reached","key":"value","from":20,"to":21,"note":"The party reaches Floor 21"}]}
