@@ -92,5 +92,9 @@ export const overwhereIWendlow22 = {
       fact: "Grete reads the magistrate's note, says only 'Mind your tongue up there,' and hands it over.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "By 10:30 on day 9 the Board's share reaches Antler Hall; Grete pays both of Nala's chits, 26 gold.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
