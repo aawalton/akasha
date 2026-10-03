@@ -11,4 +11,5 @@ export const mariStoryRecorderFairweatherFlex3 = {
   startMode: "seat-mode/headless",
   onCall: false,
   registrationAccount: "model-account/aawalton",
+  claudeCodeSessionUuid: "86b368d9-18ad-4243-8c24-838c26bcb45a",
 } as const satisfies Seat
