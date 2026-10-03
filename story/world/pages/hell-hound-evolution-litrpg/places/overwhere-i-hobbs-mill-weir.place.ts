@@ -175,5 +175,9 @@ export const overwhereIHobbsMillWeir = {
       fact: "From the towpath bend down to Hobb's landing is a three-minute walk.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Jory knows nothing of what the wyrm senses, nor of its lair; he guesses it lives in the pool.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Place
