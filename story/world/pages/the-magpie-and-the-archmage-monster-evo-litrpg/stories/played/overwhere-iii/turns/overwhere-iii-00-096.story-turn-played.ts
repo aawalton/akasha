@@ -43,7 +43,7 @@ export const overwhereIii00096 = {
     "lore/overwhere-iii-nala-2-2",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/picture"],
+  recordedBy: ["story-recorder/inventory", "story-recorder/picture", "story-recorder/memory"],
   endsAt: "2026-10-10T14:17:00.000Z",
   coverAfter: "It lowers its tusks at you and paws the frost.",
 } as const satisfies StoryTurnPlayed

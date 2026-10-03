@@ -233,5 +233,13 @@ export const overwhereIiiCorruption2 = {
       fact: "Struck in its wallow, the blighted boar crashes out of the brambles and charges its striker.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
+    {
+      fact: "Drawn clean, the hill boar stands bleeding ten paces from Nala, tusks lowered, pawing the frost.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+    },
+    {
+      fact: "Pinned by a lash, the blighted boar gave up blight twice over to each pull strand of Nala's braid.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+    },
   ],
 } as const satisfies Lore
