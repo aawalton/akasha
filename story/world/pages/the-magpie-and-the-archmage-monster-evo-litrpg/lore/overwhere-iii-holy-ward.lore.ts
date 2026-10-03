@@ -18,7 +18,7 @@ export const overwhereIiiHolyWard = {
     },
     {
       fact: "A Holy Ward lies over her skin as a faint white-gold shimmer.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
     {
       fact: "A Holy Ward costs 3 mana, or is fed free from white-gold current near the shrine.",
