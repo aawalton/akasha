@@ -266,7 +266,7 @@ export const overwhereIWendlow2 = {
     },
     {
       fact: "Mother Sallow says a wyrm's bile sac is a green, fist-sized bag under the liver, behind the heart.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
     {
       fact: "Mother Sallow says to tie off the sac's duct with twine, cut it free whole, and stopper it in a jar.",
