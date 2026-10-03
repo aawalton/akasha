@@ -180,5 +180,17 @@ export const hollowmereWorld = {
         "character-other/hollowmere-yusra",
       ],
     },
+    {
+      fact: "Harrow Fell rises behind the academy; a path from the back gate reaches its cairned top in 2 hours.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/hollowmere-yusra",
+        "character-other/hollowmere-shiv",
+      ],
+    },
+    {
+      fact: "Below Harrow Fell's top lies Hollin Tarn, small and black, ringed with rushes and out of the wind.",
+      knowers: ["lore-disclosure/game-master", "character-other/hollowmere-yusra"],
+    },
   ],
 } as const satisfies Lore
