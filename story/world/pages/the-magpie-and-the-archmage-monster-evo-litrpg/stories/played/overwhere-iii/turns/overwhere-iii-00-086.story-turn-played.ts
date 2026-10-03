@@ -32,6 +32,7 @@ export const overwhereIii00086 = {
     '"Until Thornmere answers, nobody goes near that hut, or into the deep wood alone."',
     'She turns to Nala. "Where did she go?"',
   ],
+  issues: ['"nobody goes near that hut" - Nobody Acts'],
   lore: [
     "lore/overwhere-iii-edda-crane",
     "lore/overwhere-iii-marda-hesk",
@@ -43,5 +44,6 @@ export const overwhereIii00086 = {
     "lore/overwhere-iii-night-order",
     "place/overwhere-iii-the-hollow",
   ],
+  reviewedBy: ["story-reviewer/style"],
   endsAt: "2026-10-08T17:30:00.000Z",
 } as const satisfies StoryTurnPlayed
