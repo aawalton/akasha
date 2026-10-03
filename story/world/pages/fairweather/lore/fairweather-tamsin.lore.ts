@@ -17,7 +17,7 @@ export const fairweatherTamsin = {
       knowers: ["lore-disclosure/game-master", "character-other/fairweather-tamsin"],
     },
     {
-      fact: "Tamsin is Korean, with sun-kissed golden skin dusted with freckles, green eyes and a crooked grin.",
+      fact: "Tamsin has sun-kissed golden skin dusted with freckles, almond-shaped green eyes and a crooked grin.",
       knowers: [
         "lore-disclosure/game-master",
         "character-other/fairweather-tamsin",

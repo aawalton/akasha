@@ -17,7 +17,7 @@ export const fairweatherCora = {
       knowers: ["lore-disclosure/game-master", "character-other/fairweather-cora"],
     },
     {
-      fact: "Cora is Japanese, with porcelain skin, cool grey eyes, straight dark brows and an unsmiling mouth.",
+      fact: "Cora has porcelain skin, cool grey eyes, straight dark brows and an unsmiling mouth.",
       knowers: [
         "lore-disclosure/game-master",
         "character-other/fairweather-cora",

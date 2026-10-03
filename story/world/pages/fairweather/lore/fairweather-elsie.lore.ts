@@ -9,11 +9,11 @@ export const fairweatherElsie = {
   about: "character-player/fairweather-elsie",
   facts: [
     {
-      fact: "Elsie Fairweather is twenty, newly come of age, and gorgeous, with a K-pop idol's face.",
+      fact: "Elsie Fairweather is twenty, newly come of age, and gorgeous, with a sweet, idol-pretty face.",
       knowers: ["lore-disclosure/game-master", "character-player/fairweather-elsie"],
     },
     {
-      fact: "Elsie is Korean, slim and slight, with a small V-line face and pale skin that blushes easily.",
+      fact: "Elsie is slim and slight, with a small V-line face, pointed chin and pale skin that blushes easily.",
       knowers: ["lore-disclosure/game-master", "character-player/fairweather-elsie"],
     },
     {

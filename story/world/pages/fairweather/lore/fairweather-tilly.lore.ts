@@ -17,7 +17,7 @@ export const fairweatherTilly = {
       knowers: ["lore-disclosure/game-master", "character-other/fairweather-tilly"],
     },
     {
-      fact: "Tilly is Japanese, fair-skinned with soot on one cheek, big bright blue eyes and a lopsided smile.",
+      fact: "Tilly has a round face, fair skin with soot on one cheek, big bright blue eyes and a lopsided smile.",
       knowers: [
         "lore-disclosure/game-master",
         "character-other/fairweather-tilly",
