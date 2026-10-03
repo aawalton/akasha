@@ -161,5 +161,9 @@ export const overwhereIiiCorruption2 = {
       fact: "The kiln jackalopes have 24, 27 and 33 health, fur warding nothing; each leaves a small blightstone.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Three corrupted jackalopes came from the kiln stumps and spread round Nala: each side and ahead.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+    },
   ],
 } as const satisfies Lore
