@@ -7,4 +7,5 @@ export const otherwhereXBessCrane = {
   title: "Bess Crane",
   world: "world/twelve-steps-to-transcendence-a-skill-grinding-litrpg",
   story: "story-played/otherwhere-x",
+  place: "place/otherwhere-x-harrow-green",
 } as const satisfies CharacterOther
