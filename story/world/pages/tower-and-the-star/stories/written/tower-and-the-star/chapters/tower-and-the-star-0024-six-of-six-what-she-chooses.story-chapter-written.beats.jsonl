@@ -1,0 +1,54 @@
+{"beat":1,"event":"After the meal, Solenne still half-waits on the six signals in the Conductor.","at":"2000-01-10T17:50:00.000Z","place":"place/tower-and-the-star-floor-20-proving-gate-antechamber","present":["character-other/tower-and-the-star-solenne","character-other/tower-and-the-star-dayo","character-other/tower-and-the-star-miriam","character-other/tower-and-the-star-vesper","character-other/tower-and-the-star-tomas","character-other/tower-and-the-star-nadia"]}
+{"beat":2,"event":"She knows the Gate has been completed."}
+{"beat":3,"event":"They gather their packs; Nadia puts on the dulcimer case."}
+{"beat":4,"event":"The entry door opens for them and Solenne steps through first."}
+{"beat":5,"event":"A sixth door now stands in the antechamber's far wall."}
+{"beat":6,"event":"Solenne stops; the party stops behind her."}
+{"beat":7,"event":"The System announces that one trial remains."}
+{"beat":8,"event":"Tomás says that wasn't in the first notification; Solenne agrees."}
+{"beat":9,"event":"Solenne reads the six signals, each changed by the trials."}
+{"beat":10,"event":"Nadia looks at the door, then at each of them, Solenne last."}
+{"beat":11,"event":"Nadia sets the dulcimer case at Solenne's feet: \"Hold this.\""}
+{"beat":12,"event":"Nadia walks through the sixth door.","leave":["character-other/tower-and-the-star-nadia"]}
+{"beat":13,"event":"Nadia stands in an empty white room whose air feels attentive.","at":"2000-01-10T17:52:00.000Z","place":"place/tower-and-the-star-floor-20-sixth-trial-room","present":["character-other/tower-and-the-star-nadia"]}
+{"beat":14,"event":"She waits in the center for the evaluation to begin; nothing happens."}
+{"beat":15,"event":"She recalls being evaluated since age seven and her skill at performed presence."}
+{"beat":16,"event":"She fills the room with practiced presence; the air does not change."}
+{"beat":17,"event":"She sits against the wall in a contained, inward presence; no change."}
+{"beat":18,"event":"She stands in the center in open receptivity; no change."}
+{"beat":19,"event":"She reviews what the trial asked of each of the other four."}
+{"beat":20,"event":"She infers the Trial tests each Aspect in its hardest mode."}
+{"beat":21,"event":"She catches herself analyzing in order to perform, and stops."}
+{"beat":22,"event":"She sits in the center of the room and looks at the wall, about eight minutes in.","at":"2000-01-10T18:00:00.000Z"}
+{"beat":23,"event":"She considers using Pattern Break on the Trial's pattern."}
+{"beat":24,"event":"She sees that would be a performance of non-performance; she is in a loop."}
+{"beat":25,"event":"She stays in the loop, honestly not knowing what to do, and breathes."}
+{"beat":26,"event":"She thinks about Dayo holding the tally bracer and asking if Nadia was still in."}
+{"beat":27,"event":"She thinks about Miriam asking for the Mana Vial."}
+{"beat":28,"event":"She thinks about Vesper's turned-over hands and \"I didn't need it.\""}
+{"beat":29,"event":"She thinks about Tomás's exhale and his unexplained mistake."}
+{"beat":30,"event":"She thinks about Solenne on the floor, receiving them all and holding the case."}
+{"beat":31,"event":"The room's attention changes texture."}
+{"beat":32,"event":"She notices the change and lets the awareness be, without chasing it."}
+{"beat":33,"event":"A hum builds in her chest and resolves into a short phrase."}
+{"beat":34,"event":"She hums it, not for the room, and stops when it stops."}
+{"beat":35,"event":"She sits in a very large silence and does not fill it."}
+{"beat":36,"event":"Her trial completes: Genuinely Present, minimum threshold met, at 23:17.","at":"2000-01-10T18:15:00.000Z","changes":[{"page":"world-metric/tower-and-the-star-resonance-events","key":"value","from":142,"to":145,"note":"Party Resonance Events reach 145 of 150"}]}
+{"beat":37,"event":"Nadia rises to Level 12; Chaos Grenade rises to level 7."}
+{"beat":38,"event":"The notice also declares Floor 20 cleared, with party XP and a section bonus.","changes":[{"page":"world-metric/tower-and-the-star-highest-floor-cleared","key":"value","from":19,"to":20,"note":"Floor 20 is cleared"}]}
+{"beat":39,"event":"Nadia reads it twice and finds the minimum threshold funny."}
+{"beat":40,"event":"She stands on stiff legs, picks up her pack and walks to the door."}
+{"beat":41,"event":"In the antechamber, Dayo, Miriam and Vesper wait; Tomás holds Floor 21 advance notes.","place":"place/tower-and-the-star-floor-20-proving-gate-antechamber","present":["character-other/tower-and-the-star-solenne","character-other/tower-and-the-star-dayo","character-other/tower-and-the-star-miriam","character-other/tower-and-the-star-vesper","character-other/tower-and-the-star-tomas"]}
+{"beat":42,"event":"Solenne stands with the dulcimer case at her feet."}
+{"beat":43,"event":"Nadia walks out.","arrive":["character-other/tower-and-the-star-nadia"]}
+{"beat":44,"event":"Nadia says it took her a minute; Solenne says twenty-three minutes seventeen."}
+{"beat":45,"event":"Nadia says, \"Yeah.\""}
+{"beat":46,"event":"Solenne feels a held weight set down and finds it quietly funny."}
+{"beat":47,"event":"The System opens the Proving Gate and grants +1 RES to the whole party."}
+{"beat":48,"event":"All the trial doors open together onto a lit Transition Hall with a fire-bowl."}
+{"beat":49,"event":"Nadia picks up the dulcimer case and settles it on her back."}
+{"beat":50,"event":"Nadia feels the Tower's Mana pulse differently and files it."}
+{"beat":51,"event":"Tomás asks if they're ready; Dayo and Vesper say yeah."}
+{"beat":52,"event":"Miriam, notebook closed, looks forward; Solenne says yes; Nadia says yeah."}
+{"beat":53,"event":"They walk into the Transition Hall; the fire-bowl is lit and Floor 21's door waits.","place":"place/tower-and-the-star-floor-20-transition-hall","present":["character-other/tower-and-the-star-solenne","character-other/tower-and-the-star-dayo","character-other/tower-and-the-star-miriam","character-other/tower-and-the-star-vesper","character-other/tower-and-the-star-tomas","character-other/tower-and-the-star-nadia"]}
+{"beat":54,"event":"They sit down."}
