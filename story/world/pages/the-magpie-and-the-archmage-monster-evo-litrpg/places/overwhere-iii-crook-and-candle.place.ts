@@ -152,6 +152,10 @@ export const overwhereIiiCrookAndCandle = {
         "character-player/overwhere-iii-nala",
       ],
     },
+    {
+      fact: "Day ten's supper at the Crook and Candle is stew and bread, 3 copper.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place
