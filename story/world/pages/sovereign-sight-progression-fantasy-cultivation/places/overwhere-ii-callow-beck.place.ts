@@ -125,6 +125,26 @@ export const overwhereIiCallowBeck = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
+      fact: "The dry ash shaft holds too little water for Undertow to throw; it barely stirs the cold-iron spear.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Undertow driving Nala's arms makes her thrust and recovery fast, but adds no reach to the spear.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The Warped ewes charge together like a flock, heads low, and scatter when one falls.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Scattered, the Warped ewes circle back to the slick, and charge again from it.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Ebba will take Wat and the boys down to the Ford if the way past the slick is cleared.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
       fact: "Six Warped sheep roam the black slick, grey-scaled and coral-horned, heads low.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
