@@ -1,0 +1,76 @@
+{"beat":1,"event":"For four months Lira has dreamed of a colour between amber, gold and the white of molten glass."}
+{"beat":2,"event":"She has failed to mix it in the furnace, but knows in her body that the colour is real."}
+{"beat":3,"event":"In the early afternoon she crosses the ridge and stops at the sight of the opening.","place":"place/the-dungeon-of-one-thousand-deaths-the-opening","present":["character-other/the-dungeon-of-one-thousand-deaths-lira"]}
+{"beat":4,"event":"From within comes a warmer, shifting light, not the moss-green glow she was told to expect."}
+{"beat":5,"event":"The rising air feels to her like a working kiln, a space where something is being made."}
+{"beat":6,"event":"She lays her leather roll open at the lip: the pontil, the jacks, the tweezers with the worn grip."}
+{"beat":7,"event":"She touches each tool, inventory and ritual both, and goes in."}
+{"beat":8,"event":"In the first chamber the pressure in her chest asks: what do you want.","place":"place/the-dungeon-of-one-thousand-deaths-the-gullet"}
+{"beat":9,"event":"\"I want to see it,\" she says: the colour."}
+{"beat":10,"event":"The Maw, a fisherman that showed her the right bait, feels the hook set."}
+{"beat":11,"event":"The Ledger names her The Glazier, with the Gift Molten Sight: she sees fault lines in anything."}
+{"beat":12,"event":"Her Cost is Fragile Hands: each use fractures the bones of her hands, and they do not heal there."}
+{"beat":13,"event":"The Ledger reads Vitality 14, Resolve 22, Attunement 19, Fortune 15; she is Glazier #1."}
+{"beat":14,"event":"It notes that her desire was amplified, not invented."}
+{"beat":15,"event":"She reads its last three lines three times, and feels admiration for the symmetry."}
+{"beat":16,"event":"She flexes her fingers, takes up her roll, and goes deeper."}
+{"beat":17,"event":"She reads the Gullet as she would a kiln: where heat pools and where the stresses gather."}
+{"beat":18,"event":"She activates Molten Sight, and the chamber's fault lines glow: a map of every force it bore."}
+{"beat":19,"event":"Hairline fractures glow across her right knuckles and the bones of her left palm."}
+{"beat":20,"event":"She finds barley growing from stone, lit from below by the amber light.","place":"place/the-dungeon-of-one-thousand-deaths-the-garden","present":["character-other/the-dungeon-of-one-thousand-deaths-lira","character-other/the-dungeon-of-one-thousand-deaths-tam","character-other/the-dungeon-of-one-thousand-deaths-edric-voss"]}
+{"beat":21,"event":"Through Molten Sight she sees the roots following fault lines, given a map by someone's Gift."}
+{"beat":22,"event":"Beside the roots she finds a human form fused into the floor."}
+{"beat":23,"event":"She reads the two inscriptions: a man's careful hand, and a woman's quick, sharp one."}
+{"beat":24,"event":"She sets her roll by the sprouted mattock handle: the dungeon kept them both, and left the love."}
+{"beat":25,"event":"She takes up her roll and goes deeper.","leave":["character-other/the-dungeon-of-one-thousand-deaths-lira"]}
+{"beat":26,"event":"The old dog, the barley grown past his flanks now, watches her go without judgment."}
+{"beat":27,"event":"The Marrow Warrens feel to her like glass that has given up all its heat.","place":"place/the-dungeon-of-one-thousand-deaths-the-marrow-warrens","present":["character-other/the-dungeon-of-one-thousand-deaths-lira"]}
+{"beat":28,"event":"She uses Molten Sight sparingly; the fractures have spread to her middle finger bones."}
+{"beat":29,"event":"The Ledger: Depth 2, one death on it, survival 0%, and Resolve +1.","changes":[{"page":"metric-character-stat/the-dungeon-of-one-thousand-deaths-lira-resolve","key":"value","from":22,"to":23,"note":"Depth transition into the Marrow Warrens, Resolve +1"}]}
+{"beat":30,"event":"It detects one prior entrant, deceased, and a near-permanent grief echo."}
+{"beat":31,"event":"The Warrens' fault lines are recent, pressed into the walls by someone walking in emotion."}
+{"beat":32,"event":"She presses her palm to a wall near a dead end, and the stone holds a warmth of grief."}
+{"beat":33,"event":"She keeps her palm on the bone a long time; the fractures spread to her wrist."}
+{"beat":34,"event":"A dense blue crystal is forming near the dead end; it is not hers, and she does not touch it."}
+{"beat":35,"event":"She goes deeper."}
+{"beat":36,"event":"The way to the third level narrows, the walls sweating something gold-red, the heat climbing."}
+{"beat":37,"event":"Molten Sight spreads the fractures to her base knuckles and the junctions of her palms."}
+{"beat":38,"event":"She calculates six or seven careful uses left before her hands fail."}
+{"beat":39,"event":"The Ledger: Depth 3, The Still Garden; spore-flowers, dissolution pools, the Gorger.","place":"place/the-dungeon-of-one-thousand-deaths-the-still-garden"}
+{"beat":40,"event":"Resolve +1; no prior entrant has reached this Depth, and she is the first.","changes":[{"page":"metric-character-stat/the-dungeon-of-one-thousand-deaths-lira-resolve","key":"value","from":23,"to":24,"note":"Depth transition into the Still Garden, Resolve +1"}]}
+{"beat":41,"event":"Crystal-barked petrified trees branch into a phosphorescent sky the colour she has sought."}
+{"beat":42,"event":"She stands in the entrance and cannot move for the size of the arrival."}
+{"beat":43,"event":"Molten Sight on the trees spreads the fractures into her finger webbing: a first ghost of pain."}
+{"beat":44,"event":"The trees are the most complex fault-maps she has ever seen."}
+{"beat":45,"event":"She lays her roll on a sound outcropping and plans fracture-glass with her hands."}
+{"beat":46,"event":"She knows something unmet lives here, and is more interested in the light."}
+{"beat":47,"event":"She nearly steps into a crystal dissolution pool, and pulls back."}
+{"beat":48,"event":"She sees the huge fault in the shelf over the pool, and does not step on it."}
+{"beat":49,"event":"Reading the airflow in the crystal faults, she threads a path through the spore-clouds."}
+{"beat":50,"event":"Her hands hurt now; the fractures have reached her palms."}
+{"beat":51,"event":"She finds the Gorger by sound: a displacement of air, a shift in the refracted light.","arrive":["character-other/the-dungeon-of-one-thousand-deaths-the-gorger"]}
+{"beat":52,"event":"It is made of crystal, regrown into something with appetite and territory."}
+{"beat":53,"event":"Molten Sight shows its fault lines blazing like sunrise; she is the first ever to see them."}
+{"beat":54,"event":"Three fault lines meet at its chest and left shoulder: one precise blow would split it."}
+{"beat":55,"event":"She raises her right hand."}
+{"beat":56,"event":"She has used the Gift six times, and the bones of her palm are spent."}
+{"beat":57,"event":"She knows she cannot land the strike."}
+{"beat":58,"event":"She came to see the colour and has seen it; the strike is only finishing the sentence."}
+{"beat":59,"event":"Committing to the motion, she watches her own fractures spread to fragmentation."}
+{"beat":60,"event":"She swings anyway."}
+{"beat":61,"event":"Her hand shatters on contact, and the Gorger registers the blow as a thrown pebble."}
+{"beat":62,"event":"She falls sideways, looking at the threshold colour above: I made it here. It was real."}
+{"beat":63,"event":"The Gorger kills her, and the Garden is quiet.","changes":[{"page":"metric-character-stat/the-dungeon-of-one-thousand-deaths-lira-vitality","key":"value","from":14,"to":0,"note":"Lira dies to the Gorger after her hand shatters, Vitality to 0"}]}
+{"beat":64,"event":"Words form on a crystal near her: It was beautiful. All of it. Even this."}
+{"beat":65,"event":"The death report: Lira, family name unknown, Glazier #1, Depth 3, 3 hours 14 minutes.","changes":[{"page":"metric-character-stat/the-dungeon-of-one-thousand-deaths-lira-attunement","key":"value","from":19,"to":25,"note":"The death report gives Attunement 25, +6 from six uses of her Gift"}]}
+{"beat":66,"event":"Cause: hand fragmentation from her Gift's cost, then the crystal apex predator."}
+{"beat":67,"event":"The Ledger notes she found the Gorger's weakness and could not exploit it."}
+{"beat":68,"event":"The harvest: an inscription, a white crystal, crystals that show their faults, her sight to the Maw."}
+{"beat":69,"event":"The crystal predator's kills stand at one of the three that would earn it a name."}
+{"beat":70,"event":"The Ledger counts her death #3, with 997 remaining."}
+{"beat":71,"event":"A white crystal of transcendence forms by her shattered hand, holding the threshold colour."}
+{"beat":72,"event":"The third tumbler turns."}
+{"beat":73,"event":"The Gorger moves on through the trees, unaware it was seen."}
+{"beat":74,"event":"Crystals near her now show their fractures, mapping a safe path later entrants will follow."}
+{"beat":75,"event":"Her open leather roll lies on the outcropping until the Garden slowly takes it in."}
+{"beat":76,"event":"Death #3; 997 remain."}

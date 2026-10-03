@@ -10,4 +10,6 @@ export const theDungeonOfOneThousandDeaths0003LiraFirstCompelled = {
   ownLength: 3917,
   unit: "unit/words",
   prose: "txt",
+  beats: "jsonl",
+  stepStatus: "step-status/player",
 } as const satisfies StoryChapterWritten
