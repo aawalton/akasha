@@ -127,7 +127,7 @@ export const overwhereIiiCorruption2 = {
     },
     {
       fact: "Two pulls draw the deer's blight; it leaves a seed stone, and the frost round it clears.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
     {
       fact: "A Current Lash on a carcass only cuts dead flesh; a pull is what draws its blight.",
