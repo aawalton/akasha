@@ -23,12 +23,15 @@ export const overwhereIv00082 = {
     "They pour down to the ford, a river of fire on the black water.",
     "In the middle of them, two shapes stand a head taller than the rest: one with a maul, one a spear.",
   ],
+  issues: ['"Nothing gets at the sheep." - Nobody Acts'],
   lore: [
     "lore/overwhere-iv-brookside-four-2",
     "lore/overwhere-iv-nala",
     "lore/overwhere-iv-nala-2",
     "lore/overwhere-iv-nala-3",
     "lore/overwhere-iv-the-tangle-2",
+    "place/overwhere-iv-tull-farm",
   ],
+  reviewedBy: ["story-reviewer/style"],
   endsAt: "2026-10-06T23:57:00.000Z",
 } as const satisfies StoryTurnPlayed
