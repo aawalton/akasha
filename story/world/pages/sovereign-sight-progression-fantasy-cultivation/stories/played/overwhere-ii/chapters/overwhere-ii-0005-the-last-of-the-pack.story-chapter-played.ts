@@ -10,6 +10,7 @@ export const overwhereIi0005TheLastOfThePack = {
   story: "story-played/overwhere-ii",
   ownLength: 1249,
   prose: "txt",
+  beats: "jsonl",
   turnCovers: [
     {
       position: 38,
