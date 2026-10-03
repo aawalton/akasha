@@ -53,6 +53,7 @@
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/climb/places/climb-floor-1.place.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/climb/places/climb-floor-2.place.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/cornerstone/places/cornerstone-the-founding-camp-the-bound-ground.place.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/emberdeep/places/emberdeep-brass-kettle.place.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/emberdeep/places/emberdeep-corbel-house.place.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/emberdeep/places/emberdeep-deep.place.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/emberdeep/places/emberdeep-fennick.place.ts","typed":true,"deferred":false}
@@ -60,6 +61,7 @@
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/emberdeep/places/emberdeep-guild-hall.place.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/emberdeep/places/emberdeep-second-level.place.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/emberdeep/places/emberdeep-town.place.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/emberdeep/places/emberdeep-warm-pools.place.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/ends-of-magic/places/otherwhere-v-agmon.place.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/ends-of-magic/places/otherwhere-v-ancestor-shrine.place.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/ends-of-magic/places/otherwhere-v-ardglass.place.ts","typed":true,"deferred":false}

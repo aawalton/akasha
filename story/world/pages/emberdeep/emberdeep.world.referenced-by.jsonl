@@ -5,6 +5,7 @@
 {"propertySlug":"world","path":"story/world/pages/emberdeep/lore/emberdeep-world.lore.ts","id":"01a0fdc6-e790-7349-9172-c5bcc9cc558c"}
 {"propertySlug":"world","path":"story/world/pages/emberdeep/lore/emberdeep-wren.lore.ts","id":"01a0fdc6-e790-71e7-94cf-6a7588fe17cb"}
 {"propertySlug":"world","path":"story/world/pages/emberdeep/mechanics/currencies/emberdeep-coin.world-currency.ts","id":"01a0fde6-9f88-77f8-9827-35fa13eb9534"}
+{"propertySlug":"world","path":"story/world/pages/emberdeep/places/emberdeep-brass-kettle.place.ts","id":"01a10330-247f-7bab-9664-6ba6b8ca482e"}
 {"propertySlug":"world","path":"story/world/pages/emberdeep/places/emberdeep-corbel-house.place.ts","id":"01a0fdc6-e790-720d-8514-3033f5d0b8d3"}
 {"propertySlug":"world","path":"story/world/pages/emberdeep/places/emberdeep-deep.place.ts","id":"01a0fdf5-b2d6-7ced-b3a6-55c78c922084"}
 {"propertySlug":"world","path":"story/world/pages/emberdeep/places/emberdeep-fennick.place.ts","id":"01a0fe85-d750-7c5c-88d8-51a3393cc00e"}
@@ -12,6 +13,7 @@
 {"propertySlug":"world","path":"story/world/pages/emberdeep/places/emberdeep-guild-hall.place.ts","id":"01a0fdc6-e790-77be-8ff2-7957f1b0c4f4"}
 {"propertySlug":"world","path":"story/world/pages/emberdeep/places/emberdeep-second-level.place.ts","id":"01a0fe85-d751-7838-b3a5-452d1601bfa6"}
 {"propertySlug":"world","path":"story/world/pages/emberdeep/places/emberdeep-town.place.ts","id":"01a0fdc6-e790-723b-9972-a23f195ffd66"}
+{"propertySlug":"world","path":"story/world/pages/emberdeep/places/emberdeep-warm-pools.place.ts","id":"01a10330-2480-737b-8b0e-7a6e887d02f3"}
 {"propertySlug":"world","path":"story/world/pages/emberdeep/stories/written/emberdeep/emberdeep.story-written.ts","id":"01a0fdaf-81ba-7d03-98ee-74723576d327"}
 {"propertySlug":"world","path":"story/world/pages/emberdeep/stories/written/emberdeep/mechanics/mechanics/emberdeep-cast.world-mechanic.ts","id":"01a0fdaf-81ba-7dcc-8d2b-ee03de6602f3"}
 {"propertySlug":"world","path":"story/world/pages/emberdeep/stories/written/emberdeep/mechanics/mechanics/emberdeep-family.world-mechanic.ts","id":"01a0fdaf-81bb-7b66-90d4-6cdf64f1a9a6"}
