@@ -179,6 +179,10 @@ export const overwhereIiOswyCrake = {
       fact: "Crake robbed Lady Varrow's road for a year, and took three Talented off it.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
+    {
+      fact: "Crake has three Talented captives chained in a cellar in Carrowmouth's Salt Lanes.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
