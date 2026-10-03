@@ -4,13 +4,14 @@ export const hollowmere0027UpHere = {
   id: "01a101c1-c5c5-7d2f-ac9a-a604c7f65750",
   type: "page-type/story-chapter-written",
   slug: "hollowmere-0027-up-here",
+  cover: "image/image-589e809c281cce99",
   position: 27,
   unit: "unit/words",
   title: "Up Here",
   story: "story-written/hollowmere",
   ownLength: 4205,
   prose: "txt",
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   beats: [
     "Saturday of week four: Bea's alarm at six; she's out of bed before it stops, bouncing on her toes.",
     '"Good luck charm," she says, and kisses you, and throws your jumper at you. "Up. Bank. Shouting."',
@@ -98,5 +99,68 @@ export const hollowmere0027UpHere = {
     "character-other/hollowmere-penhallow",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/mechanics", "story-recorder/memory"],
+  recordedBy: [
+    "story-recorder/inventory",
+    "story-recorder/mechanics",
+    "story-recorder/memory",
+    "story-recorder/picture",
+  ],
+  scenes: [
+    "image/image-2b6d90f368b3fe4f",
+    "image/image-ae704063062dde05",
+    "image/image-33979248cf9b23b8",
+    "image/image-589e809c281cce99",
+    "image/image-08469514f726f3f4",
+    "image/image-f0c0541abe2b9ab5",
+    "image/image-5d212c7becf28ad0",
+    "image/image-3f83f1d305c75f0d",
+  ],
+  pictured: [
+    {
+      cover: "image/image-2b6d90f368b3fe4f",
+      coverAfter:
+        "Every blade of grass is stiff with it, silver-white and crunching under your boots",
+      character: "character-player/hollowmere-nala",
+      outfit: "dark coat over Bea's big cream cable-knit jumper, gloves, jeans and boots",
+    },
+    {
+      cover: "image/image-ae704063062dde05",
+      coverAfter: "She's at the oar nearest the bow. You find her at once. She's in a Thornfield",
+      character: "character-other/hollowmere-bea",
+      outfit: "Thornfield rowing vest and leggings, hair scraped back in a tight knot",
+    },
+    {
+      cover: "image/image-33979248cf9b23b8",
+      coverAfter: "She comes down the path at a slouching amble, with her hands in her parka",
+      character: "character-other/hollowmere-shiv",
+      outfit: "navy parka over a grey hoodie, bright orange bobble hat",
+    },
+    {
+      cover: "image/image-589e809c281cce99",
+      coverAfter: "She's standing on the step in boots and a dark wool coat, belted, with",
+      character: "character-other/hollowmere-yusra",
+      outfit:
+        "dark wool coat belted, rucksack, old walking boots, hair in one long plait, no badge",
+    },
+    {
+      cover: "image/image-08469514f726f3f4",
+      coverAfter: "It's in the wall behind Thornfield's garden, an old wooden gate, stiff on its",
+      setting: "the back gate",
+    },
+    {
+      cover: "image/image-f0c0541abe2b9ab5",
+      coverAfter: "Halfway up, there's a stile in a stone wall.",
+      setting: "the stile on Harrow Fell",
+    },
+    {
+      cover: "image/image-5d212c7becf28ad0",
+      coverAfter: "A heap of them, taller than you, built up by every walker who ever",
+      setting: "the cairn on top of Harrow Fell",
+    },
+    {
+      cover: "image/image-3f83f1d305c75f0d",
+      coverAfter: "Hollin Tarn. Small, and black, and perfectly still, lying in a hollow below the",
+      setting: "Hollin Tarn",
+    },
+  ],
 } as const satisfies StoryChapterWritten
