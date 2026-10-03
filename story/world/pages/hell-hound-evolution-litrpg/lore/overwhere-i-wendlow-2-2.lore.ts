@@ -118,7 +118,7 @@ export const overwhereIWendlow22 = {
     },
     {
       fact: "The rider brings two slips; the reeve's 8 gold for why Greyfen crystals went dark still stands too.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
     {
       fact: "New slip: 18 gold for a Level 20 mantis-beast taking sheep and a shepherd on Coldbrook Downs.",
