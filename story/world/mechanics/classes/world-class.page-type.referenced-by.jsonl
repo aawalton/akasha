@@ -1,6 +1,7 @@
 {"propertySlug":"extends-type","path":"story/world/mechanics/classes/character-class/character-class.page-type.ts","id":"01a0f396-8661-74fc-abf1-0f1036a82e77"}
 {"propertySlug":"import","fileName":"world-class.page-type.ts","path":"story/world/stories/played/modules/played-state-beside/played-state-beside.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"world-class.page-type.types.ts","path":"story/world/mechanics/classes/character-class/character-class.page-type.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"world-class.page-type.types.ts","path":"story/world/pages/fairweather/stories/written/fairweather/mechanics/classes/fairweather-enthraller.world-class.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-class.page-type.types.ts","path":"story/world/pages/labyrinth-of-the-mad-god/stories/played/otherwhere-ii/mechanics/classes/otherwhere-ii-survivor.world-class.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-class.page-type.types.ts","path":"story/world/pages/super-supportive/mechanics/classes/super-supportive-adjuster.world-class.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-class.page-type.types.ts","path":"story/world/pages/super-supportive/mechanics/classes/super-supportive-agility-brute.world-class.ts","typed":true,"deferred":false}
