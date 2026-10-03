@@ -88,5 +88,9 @@ export const overwhereIWendlow2 = {
       fact: "Grete takes Ghost-Eye's ears with the head; they add nothing to the bounty already paid.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Grete knows Marta Dell of Sallow Hythe, and will send Ewan's token to her by the next west cart.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
