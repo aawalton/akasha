@@ -15,6 +15,7 @@ export const changeAgentPageType = {
     "change-agent/change-property-on-page-type",
     "change-agent/copy-entry-key-on-every-page",
     "change-agent/copy-property-on-every-page",
+    "change-agent/fold-beats-into-file",
     "change-agent/move-property-on-every-page",
     "change-agent/qualify-relation-by-key-on-every-page",
     "change-agent/qualify-relation-on-every-page",

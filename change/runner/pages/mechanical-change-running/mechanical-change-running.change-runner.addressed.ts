@@ -122,6 +122,9 @@ export type Changes = {
   "change-mechanical-page-type/copy-property-on-every-page": Parameters<
     typeof import("akasha/change/mechanical/page-type/add/copy-property-on-every-page/copy-property-on-every-page.change-mechanical-page-type.code.ts")["runChange"]
   >[1]
+  "change-mechanical-page-type/fold-beats-into-file": Parameters<
+    typeof import("akasha/change/mechanical/page-type/move/fold-beats-into-file/fold-beats-into-file.change-mechanical-page-type.code.ts")["runChange"]
+  >[1]
   "change-mechanical-page-type/move-property-on-every-page": Parameters<
     typeof import("akasha/change/mechanical/page-type/move/move-property-on-every-page/move-property-on-every-page.change-mechanical-page-type.code.ts")["runChange"]
   >[1]

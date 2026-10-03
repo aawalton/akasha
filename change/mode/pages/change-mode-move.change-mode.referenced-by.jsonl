@@ -7,6 +7,7 @@
 {"propertySlug":"change-mode","path":"change/agent/file/move-pages/move-pages.change-agent.ts","id":"01a08863-b526-72fb-a4c4-99b6a097debc"}
 {"propertySlug":"change-mode","path":"change/agent/folder/move-folder/move-folder.change-agent.ts","id":"01a07c54-a9b0-797b-add8-8e9d734c5213"}
 {"propertySlug":"change-mode","path":"change/agent/folder/nest-modules/nest-modules.change-agent.ts","id":"01a095f8-a367-726d-98cb-052fe5052d45"}
+{"propertySlug":"change-mode","path":"change/agent/page-type/fold-beats-into-file/fold-beats-into-file.change-agent.ts","id":"01a102fb-d05d-7ed1-9a3a-76580c6c21dd"}
 {"propertySlug":"change-mode","path":"change/agent/page-type/move-property-on-every-page/move-property-on-every-page.change-agent.ts","id":"01a0836c-9d39-76b7-bd18-59bab3a21e92"}
 {"propertySlug":"change-mode","path":"change/agent/page-type/sort-property-values-on-every-page/sort-property-values-on-every-page.change-agent.ts","id":"01a095a8-fcf7-7a63-8a11-80ee5c1a3025"}
 {"propertySlug":"change-mode","path":"change/mechanical/file-content/move/move-code-export/move-code-export.change-mechanical.ts","id":"01a08799-4f75-7fb6-bcf9-3392494a57da"}
@@ -19,6 +20,7 @@
 {"propertySlug":"change-mode","path":"change/mechanical/file/move/move-file/move-file.change-mechanical-file.ts","id":"01a07883-67ed-7849-b6e5-e499695cac46"}
 {"propertySlug":"change-mode","path":"change/mechanical/file/move/move-files/move-files.change-mechanical.ts","id":"01a09230-ff9c-7e79-9c45-3d0b77f13b11"}
 {"propertySlug":"change-mode","path":"change/mechanical/folder/move-folder/move-folder.change-mechanical-folder.ts","id":"01a0822c-5d57-7992-b533-fe3d7028ce8c"}
+{"propertySlug":"change-mode","path":"change/mechanical/page-type/move/fold-beats-into-file/fold-beats-into-file.change-mechanical-page-type.ts","id":"01a102fb-d05e-78aa-8aa8-07a2a634de46"}
 {"propertySlug":"change-mode","path":"change/mechanical/page-type/move/move-property-on-every-page/move-property-on-every-page.change-mechanical-page-type.ts","id":"01a09c74-8e12-7590-82f3-e8a4719b2770"}
 {"propertySlug":"change-mode","path":"change/mechanical/page-type/move/sort-property-values-on-every-page/sort-property-values-on-every-page.change-mechanical-page-type.ts","id":"01a095ce-4e42-7067-8c69-add95e48ed0b"}
 {"propertySlug":"parts","path":"change/mode/change-mode.page-type.ts","id":"01a07c24-30e1-7802-88da-aa05d0b289dd"}

@@ -6,6 +6,7 @@ export const changeMechanicalPageTypeMove = {
   slug: "change-mechanical-page-type-move",
   definition: "a mechanical change that moves values on every page of a page type",
   parts: [
+    "change-mechanical-page-type/fold-beats-into-file",
     "change-mechanical-page-type/move-property-on-every-page",
     "change-mechanical-page-type/sort-property-values-on-every-page",
   ],

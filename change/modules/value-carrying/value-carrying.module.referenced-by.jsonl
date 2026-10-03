@@ -8,6 +8,7 @@
 {"propertySlug":"import","fileName":"value-carrying.module.code.ts","path":"change/agent/page-property/rename-page-property-property-slug/rename-page-property-property-slug.change-agent.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"value-carrying.module.code.ts","path":"change/agent/page-type/copy-entry-key-on-every-page/copy-entry-key-on-every-page.change-agent.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"value-carrying.module.code.ts","path":"change/agent/page-type/copy-property-on-every-page/copy-property-on-every-page.change-agent.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"value-carrying.module.code.ts","path":"change/agent/page-type/fold-beats-into-file/fold-beats-into-file.change-agent.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"value-carrying.module.code.ts","path":"change/agent/page-type/move-property-on-every-page/move-property-on-every-page.change-agent.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"value-carrying.module.code.ts","path":"change/agent/page-type/move-property-on-every-page/move-property-on-every-page.change-agent.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"value-carrying.module.code.ts","path":"change/agent/page-type/qualify-relation-by-key-on-every-page/qualify-relation-by-key-on-every-page.change-agent.code.ts","typed":false,"deferred":false}

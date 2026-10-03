@@ -21,6 +21,7 @@
 {"propertySlug":"import","fileName":"code-source.module.code.ts","path":"change/mechanical/page-type/change/change-property-on-page-type/change-property-on-page-type.change-mechanical-page-type.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"code-source.module.code.ts","path":"change/mechanical/page-type/change/qualify-relation-on-every-page/qualify-relation-on-every-page.change-mechanical-page-type.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"code-source.module.code.ts","path":"change/mechanical/page-type/change/unquote-text-on-every-page/unquote-text-on-every-page.change-mechanical-page-type.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"code-source.module.code.ts","path":"change/mechanical/page-type/move/fold-beats-into-file/fold-beats-into-file.change-mechanical-page-type.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"code-source.module.code.ts","path":"change/mechanical/page-type/move/sort-property-values-on-every-page/sort-property-values-on-every-page.change-mechanical-page-type.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"code-source.module.code.ts","path":"change/mechanical/page-type/rename-page-type/rename-page-type.change-mechanical-page-type.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"code-source.module.code.ts","path":"change/mechanical/page/rename/rename-pages/rename-pages.change-mechanical.code.ts","typed":false,"deferred":false}

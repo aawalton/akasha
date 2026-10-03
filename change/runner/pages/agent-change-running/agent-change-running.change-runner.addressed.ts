@@ -83,6 +83,9 @@ export type Changes = {
   "change-agent/drop-declaration-imports": Parameters<
     typeof import("akasha/change/agent/file-content/drop-declaration-imports/drop-declaration-imports.change-agent.code.ts")["runChange"]
   >[1]
+  "change-agent/fold-beats-into-file": Parameters<
+    typeof import("akasha/change/agent/page-type/fold-beats-into-file/fold-beats-into-file.change-agent.code.ts")["runChange"]
+  >[1]
   "change-agent/gather-merging-declarations": Parameters<
     typeof import("akasha/change/agent/file-content/gather-merging-declarations/gather-merging-declarations.change-agent.code.ts")["runChange"]
   >[1]

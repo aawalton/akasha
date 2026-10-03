@@ -83,6 +83,9 @@ export type Changes = {
   "change-agent/drop-declaration-imports": Parameters<
     typeof import("akasha/change/agent/file-content/drop-declaration-imports/drop-declaration-imports.change-agent.code.ts")["runChange"]
   >[1]
+  "change-agent/fold-beats-into-file": Parameters<
+    typeof import("akasha/change/agent/page-type/fold-beats-into-file/fold-beats-into-file.change-agent.code.ts")["runChange"]
+  >[1]
   "change-agent/gather-merging-declarations": Parameters<
     typeof import("akasha/change/agent/file-content/gather-merging-declarations/gather-merging-declarations.change-agent.code.ts")["runChange"]
   >[1]
@@ -310,6 +313,9 @@ export type Changes = {
   >[1]
   "change-mechanical-page-type/copy-property-on-every-page": Parameters<
     typeof import("akasha/change/mechanical/page-type/add/copy-property-on-every-page/copy-property-on-every-page.change-mechanical-page-type.code.ts")["runChange"]
+  >[1]
+  "change-mechanical-page-type/fold-beats-into-file": Parameters<
+    typeof import("akasha/change/mechanical/page-type/move/fold-beats-into-file/fold-beats-into-file.change-mechanical-page-type.code.ts")["runChange"]
   >[1]
   "change-mechanical-page-type/move-property-on-every-page": Parameters<
     typeof import("akasha/change/mechanical/page-type/move/move-property-on-every-page/move-property-on-every-page.change-mechanical-page-type.code.ts")["runChange"]
