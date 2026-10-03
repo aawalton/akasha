@@ -4,10 +4,13 @@ export const overwhereI00112 = {
   id: "01a101b5-d11d-71ec-9d1d-1955223a7049",
   type: "page-type/story-turn-played",
   slug: "overwhere-i-00-112",
+  ownLength: 482,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-i"],
   position: 112,
-  stepStatus: "step-status/writer",
+  prose: "txt",
+  characters: ["character-player/overwhere-i-nala"],
+  stepStatus: "step-status/reviewers",
   action:
     "I carefully go over to it, staying out of biting range, then use my spinning water disk to remove the head and carefully disect the beast for the bile sac, which I store in the jar",
   beats: [
@@ -26,6 +29,11 @@ export const overwhereI00112 = {
     'Tam Hobb, stout and grey, eyes the head. "Eighty pound if it\'s an ounce. A long haul to town."',
     '"Take my mill barrow. Send it back on any barge coming down; I mean to grind by afternoon."',
   ],
-  lore: ["place/overwhere-i-hobbs-mill-weir"],
+  lore: [
+    "lore/overwhere-i-hobbs-mill-weir-2",
+    "lore/overwhere-i-nala",
+    "lore/overwhere-i-nala-2",
+    "place/overwhere-i-hobbs-mill-weir",
+  ],
   endsAt: "2026-10-06T12:02:00.000Z",
 } as const satisfies StoryTurnPlayed
