@@ -340,5 +340,9 @@ export const overwhereIStarfallLegacy2 = {
       fact: "No Starfall weave mends linen or leather; plant fibre and hide answer to no element.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "An earth-and-water weave worked into a wool tear felts its fibres shut in a stiff, ridged seam.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
