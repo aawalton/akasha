@@ -1,0 +1,8 @@
+{"beat":1,"event":"He comes out into a long, low, golden room, firelit and warm, a table laid with steaming food.","place":"place/the-tower-haven-threshold","present":["character-player/the-tower-alan"]}
+{"beat":2,"event":"A tall hooded host rises at the table's head, hands open: come in, sit, eat, you're safe here."}
+{"beat":3,"event":"He sets the drum and the chain down at the threshold, and does not step across."}
+{"beat":4,"event":"The hearth throws no heat, and nothing in the gold casts a true shadow but him and his maul."}
+{"beat":5,"event":"The host's welcome loops; the pale shapes under the table are bones; a pull urges him to sit."}
+{"beat":6,"event":"The warmth runs back past the hearth, richer and kinder the deeper it reaches."}
+{"beat":7,"event":"On the threshold-stone he pours all three unspent points into his Will.","changes":[{"page":"tower-attribute-point/the-tower-alan","key":"value","from":3,"to":0,"note":"All three points spent on Will"},{"page":"tower-will/the-tower-alan","key":"value","from":17,"to":20,"note":"He sets three points into Will"},{"page":"tower-mana/the-tower-alan","key":"value","from":89,"to":95,"note":"His focus deepens with his will"}]}
+{"beat":8,"event":"His will sets hard; the pull breaks on it, a pressure he chooses to refuse."}
