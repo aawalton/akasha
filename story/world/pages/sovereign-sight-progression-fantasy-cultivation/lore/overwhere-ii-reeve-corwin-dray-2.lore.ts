@@ -277,7 +277,7 @@ export const overwhereIiReeveCorwinDray2 = {
     },
     {
       fact: "Dray sends Rob Reed to the Keep with word of the tidepool and of Maud; two Pells carry stakes up.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
   ],
 } as const satisfies Lore
