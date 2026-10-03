@@ -14,7 +14,7 @@ export const otherwhereX00007 = {
   characters: [
     "character-player/otherwhere-x-nala",
     "character-other/otherwhere-x-aldous-crane",
-    "world-character/otherwhere-x-bess-crane",
+    "character-other/otherwhere-x-bess-crane",
     "world-character/otherwhere-x-martha-deane",
   ],
   stepStatus: "step-status/player",

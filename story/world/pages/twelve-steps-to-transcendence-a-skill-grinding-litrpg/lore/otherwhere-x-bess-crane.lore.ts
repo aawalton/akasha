@@ -6,7 +6,7 @@ export const otherwhereXBessCrane = {
   slug: "otherwhere-x-bess-crane",
   title: "Bess Crane",
   world: "world/twelve-steps-to-transcendence-a-skill-grinding-litrpg",
-  about: "world-character/otherwhere-x-bess-crane",
+  about: "character-other/otherwhere-x-bess-crane",
   facts: [
     {
       fact: "Hob's mother is Bess Crane, Aldous's wife: stout, quick-tempered and quicker to feed people.",
@@ -21,7 +21,7 @@ export const otherwhereXBessCrane = {
       knowers: [
         "lore-disclosure/game-master",
         "character-player/otherwhere-x-nala",
-        "world-character/otherwhere-x-bess-crane",
+        "character-other/otherwhere-x-bess-crane",
       ],
     },
     {
