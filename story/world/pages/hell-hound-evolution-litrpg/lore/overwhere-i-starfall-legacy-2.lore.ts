@@ -264,5 +264,9 @@ export const overwhereIStarfallLegacy2 = {
       fact: "Until she has called it once, a lightning strike is a band harder, as eye beams were.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Twin strikes are two workings at 50 mana; meeting on one mark is a band harder, one act, one roll.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
