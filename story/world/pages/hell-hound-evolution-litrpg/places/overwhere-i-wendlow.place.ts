@@ -252,5 +252,9 @@ export const overwhereIWendlow = {
       fact: "Grete believes her; climbing from Level 4 to 10 in days is what killing far above you does.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Grete asks what name to write on the receipt, since her Analyze shows none.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Place
