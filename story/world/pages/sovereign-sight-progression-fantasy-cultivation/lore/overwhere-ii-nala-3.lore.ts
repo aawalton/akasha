@@ -209,6 +209,22 @@ export const overwhereIiNala3 = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
+      fact: "After a morning's sparring, a meal and an hour's rest steady Nala's mind enough for one organ.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Nala's lungs take a whole afternoon to refine; each breath comes short and cold as sea air.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Refined, Nala's lungs draw deeper and slower, and she can hold her breath for minutes.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The numbness Corra's spark left in Nala's hand is gone within the hour.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
       fact: "Nala took Lady Varrow's lesser bond; Sir Edric witnessed it, naming her free blade of Varrow Keep.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
