@@ -10,7 +10,7 @@ export const overwhereIv00087 = {
   position: 87,
   prose: "txt",
   characters: ["character-player/overwhere-iv-nala"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/recorders",
   action:
     "I decide I’m feeling rested enough and work my way back to where I killed them goblins, keeping my senses wide for more.",
   beats: [
@@ -35,6 +35,6 @@ export const overwhereIv00087 = {
     "lore/overwhere-iv-the-tangle-2-2",
     "place/overwhere-iv-millbrook-adventurers-hall",
   ],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
   endsAt: "2026-10-07T09:55:00.000Z",
 } as const satisfies StoryTurnPlayed
