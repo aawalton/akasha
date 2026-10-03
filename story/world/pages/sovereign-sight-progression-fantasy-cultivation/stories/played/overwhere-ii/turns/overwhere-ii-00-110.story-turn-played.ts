@@ -11,7 +11,7 @@ export const overwhereIi00110 = {
   position: 110,
   prose: "txt",
   characters: ["character-player/overwhere-ii-nala"],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action: "“Yes.” I hold out my hand.",
   beats: [
     'Nala: "Yes." She holds out her hand.',
@@ -38,7 +38,12 @@ export const overwhereIi00110 = {
     "lore/overwhere-ii-nala-3",
   ],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/memory", "story-recorder/picture"],
+  recordedBy: [
+    "story-recorder/inventory",
+    "story-recorder/memory",
+    "story-recorder/picture",
+    "story-recorder/mechanics",
+  ],
   endsAt: "2026-10-26T21:08:00.000Z",
   coverAfter: "She studies your face with sharp blue eyes, the laughter gone out of them.",
 } as const satisfies StoryTurnPlayed

@@ -10,5 +10,5 @@ export const overwhereIiNala = {
   maxValue: 1000,
   history: "jsonl",
   displayOrder: 2,
-  revealedAs: "Brimming; spilled in the night as cold salt sweat",
+  revealedAs: "Brimming; a well with no floor, straining downward",
 } as const satisfies OverwhereIiReservoir
