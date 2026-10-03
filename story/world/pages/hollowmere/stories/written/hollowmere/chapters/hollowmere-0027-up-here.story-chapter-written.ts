@@ -10,7 +10,7 @@ export const hollowmere0027UpHere = {
   story: "story-written/hollowmere",
   ownLength: 4191,
   prose: "txt",
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/game-master",
   beats: [
     "Saturday of week four: Bea's alarm at six; she's out of bed before it stops, bouncing on her toes.",
     '"Good luck charm," she says, and kisses you, and throws your jumper at you. "Up. Bank. Shouting."',
@@ -75,6 +75,7 @@ export const hollowmere0027UpHere = {
     "You fall asleep early in 15, Bea's arm over you, your legs still aching from the fell.",
     "A day at Hollowmere ends.",
   ],
+  issues: ['"I\'m three years above you" - Yusra is a third-year and Nala a first-year: two years'],
   lore: [
     "lore/hollowmere-bea",
     "lore/hollowmere-bea-2",
@@ -96,5 +97,5 @@ export const hollowmere0027UpHere = {
     "character-other/hollowmere-yusra",
     "character-other/hollowmere-penhallow",
   ],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
 } as const satisfies StoryChapterWritten
