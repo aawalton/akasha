@@ -1,0 +1,91 @@
+{"beat":1,"event":"On a Tuesday, stirring indigo at the north vat, Essany Cord sees the colour has gone wrong.","place":"place/the-dungeon-of-one-thousand-deaths-essany-cords-workshop","present":["character-other/the-dungeon-of-one-thousand-deaths-essany-cord"]}
+{"beat":2,"event":"Not the pigment: the blue is less present, pulled back from its own surface."}
+{"beat":3,"event":"The yellow-grey wall has withdrawn the same way, a description of itself."}
+{"beat":4,"event":"Three days later her physician tells her about the lungs: six weeks, eight if she rests."}
+{"beat":5,"event":"She mixes her best indigo ever, to learn whether the wrongness is in the pigment or her eyes."}
+{"beat":6,"event":"It is in her eyes."}
+{"beat":7,"event":"A fabric merchant brings the rumour: a hole in a ridge a hundred miles north that kills."}
+{"beat":8,"event":"A carter's apprentice adds that people go in and do not come out, and the place keeps a ledger."}
+{"beat":9,"event":"Six days after the physician, the pull comes on a Thursday: your death can mean something else."}
+{"beat":10,"event":"She packs that afternoon and leaves her sister Maret a note."}
+{"beat":11,"event":"It says: I am going north. It is not the lungs. I will not be long."}
+{"beat":12,"event":"She walks the forty-seven miles north in three days, as far as her lungs allow.","place":"place/the-dungeon-of-one-thousand-deaths-the-north-road"}
+{"beat":13,"event":"The camp is a settlement becoming itself: a tended fire, a ledger, a cloth, dear rope.","place":"place/the-dungeon-of-one-thousand-deaths-the-camp"}
+{"beat":14,"event":"She sits by the fire; fire does not retreat from its own surface. Fire commits."}
+{"beat":15,"event":"\"Essany Cord,\" she says, before the ledger-keeper asks."}
+{"beat":16,"event":"Asked if she is voluntary, she says yes, unsure it is accurate."}
+{"beat":17,"event":"He does not ask about the cough."}
+{"beat":18,"event":"Her purpose: to die in about five weeks, somewhere that is not a bed."}
+{"beat":19,"event":"She goes in the next morning.","place":"place/the-dungeon-of-one-thousand-deaths-the-gullet"}
+{"beat":20,"event":"The Gullet is red-brown, ochre at the ribs, umber between, against a blue-green glow."}
+{"beat":21,"event":"Two colours argue and are both right; this colour is not retreating."}
+{"beat":22,"event":"She coughs, and keeps walking."}
+{"beat":23,"event":"She reads the inscriptions and pauses at LIRA — FIRST COMPELLED, thinking of the pull."}
+{"beat":24,"event":"She touches the blank gap: absence has its own colour, like gesso."}
+{"beat":25,"event":"Twelve names and one gap, through Maret Dunn; she will be the fourteenth."}
+{"beat":26,"event":"The dungeon is building a vocabulary of what people do when they come here to die."}
+{"beat":27,"event":"She wonders what her word will be, and her cough echoes back folded like a dye bath."}
+{"beat":28,"event":"Sixty meters on, where the blue-green glow saturates, the Asking comes like a dye taking."}
+{"beat":29,"event":"I want to die on my terms: not to live, but to pick."}
+{"beat":30,"event":"The Ledger names her The Brand, with the Gift Indelible Mark: touched surfaces show their flaws."}
+{"beat":31,"event":"Its Cost is Reciprocity: each surface she marks marks her back with her own weaknesses."}
+{"beat":32,"event":"The Ledger reads Vitality 6, Resolve 13, Attunement 9, Fortune 11."}
+{"beat":33,"event":"Compelled from 47 miles: The entrant believes she chose. The Maw notes this without correction."}
+{"beat":34,"event":"A good dye feels like the fabric's own colour; she decides it does not matter."}
+{"beat":35,"event":"She picks up the glass bead; its green thread is verdigris, a colour you wait for."}
+{"beat":36,"event":"She sets it back and turns it slightly, to show she has seen it, the green still out."}
+{"beat":37,"event":"The arch is the cleanest stonework she has seen outside a cathedral.","place":"place/the-dungeon-of-one-thousand-deaths-the-gap"}
+{"beat":38,"event":"This man built something that outlasts him; her colours always fade."}
+{"beat":39,"event":"Stepping off, she touches the far abutment, and dark fine marks show it almost flawless.","changes":[{"page":"metric-character-stat/the-dungeon-of-one-thousand-deaths-essany-cord-attunement","key":"value","from":9,"to":10,"note":"First Indelible Mark, on the arch abutment, Attunement +1"}]}
+{"beat":40,"event":"A mark appears on her right hand: thinning tendon, overworked joint, early calcium loss."}
+{"beat":41,"event":"The Ledger: Depth 2, the Warrens, Resolve +1, now 14.","place":"place/the-dungeon-of-one-thousand-deaths-the-marrow-warrens","changes":[{"page":"metric-character-stat/the-dungeon-of-one-thousand-deaths-essany-cord-resolve","key":"value","from":13,"to":14,"note":"Depth transition into the Warrens, Resolve +1"}]}
+{"beat":42,"event":"The Warrens open like cloth unrolled too fast, cool and wet, tasting of limestone."}
+{"beat":43,"event":"She counts six full breaths before the catch now; at the camp it was eight."}
+{"beat":44,"event":"She chooses north, following the blue mineral traces deeper."}
+{"beat":45,"event":"She reads the journal's first and last pages: To whoever reads this."}
+{"beat":46,"event":"She touches the cover, and marks show its weak spine, thin corner, and stressed front.","changes":[{"page":"metric-character-stat/the-dungeon-of-one-thousand-deaths-essany-cord-attunement","key":"value","from":10,"to":11,"note":"Second Indelible Mark, on the journal cover, Attunement +1"}]}
+{"beat":47,"event":"A mark on her left forearm maps her thinning veins like rivers."}
+{"beat":48,"event":"She puts the journal back and goes north."}
+{"beat":49,"event":"The Still Garden is the most beautiful place she has ever been.","place":"place/the-dungeon-of-one-thousand-deaths-the-still-garden","present":["character-other/the-dungeon-of-one-thousand-deaths-essany-cord","character-other/the-dungeon-of-one-thousand-deaths-the-gorger"]}
+{"beat":50,"event":"The crystals break the light into violets, blues and golds she never managed in pigment."}
+{"beat":51,"event":"The Ledger: Depth 3, Resolve +1, now 15.","changes":[{"page":"metric-character-stat/the-dungeon-of-one-thousand-deaths-essany-cord-resolve","key":"value","from":14,"to":15,"note":"Depth transition into the Still Garden, Resolve +1"}]}
+{"beat":52,"event":"By the eastern wall she lifts the spear, too heavy, but something that pushes back."}
+{"beat":53,"event":"She marks its shaft: an uneven grain, a deep knot, a head binding gone loose.","changes":[{"page":"metric-character-stat/the-dungeon-of-one-thousand-deaths-essany-cord-attunement","key":"value","from":11,"to":12,"note":"Third Indelible Mark, on the spear shaft, Attunement +1"}]}
+{"beat":54,"event":"A deeper mark on her right shoulder shows weakening ribs and lung grown to the chest wall."}
+{"beat":55,"event":"The Brand's honest count: four weeks, perhaps; the disease is ahead of schedule."}
+{"beat":56,"event":"She puts the spear back: she does not expect to survive the fight, only to mark it."}
+{"beat":57,"event":"At the far end of the third row lies The Patient, showing itself honestly."}
+{"beat":58,"event":"She does not try to keep it in the corner of her eye; she looks straight at it."}
+{"beat":59,"event":"She walks toward it as the crystals grow taller and closer."}
+{"beat":60,"event":"She touches a crystal growth in passing, and marks show its layers and fracture angles.","changes":[{"page":"metric-character-stat/the-dungeon-of-one-thousand-deaths-essany-cord-attunement","key":"value","from":12,"to":13,"note":"Fourth Indelible Mark, on a crystal growth, Attunement +1"}]}
+{"beat":61,"event":"A mark above her left breast maps how her lung will fail."}
+{"beat":62,"event":"The Patient repositions: three rows closer, fifteen meters, turned to face her."}
+{"beat":63,"event":"She is not trying to beat its mechanism, only to reach it before it reaches her."}
+{"beat":64,"event":"She touches the floor, and marks show the solid paths and the voids beneath the crystals.","changes":[{"page":"metric-character-stat/the-dungeon-of-one-thousand-deaths-essany-cord-attunement","key":"value","from":13,"to":14,"note":"Fifth Indelible Mark, on the floor paths, Attunement +1"}]}
+{"beat":65,"event":"A fifth mark, on her left hip: her pelvis losing density fastest."}
+{"beat":66,"event":"She walks the solid path; The Patient is ten meters away."}
+{"beat":67,"event":"Close up its shell has layers like built-up pigment, one that makes the eye slide away."}
+{"beat":68,"event":"She does not let her eye slide away."}
+{"beat":69,"event":"She takes one more step and touches The Patient's flank.","changes":[{"page":"metric-character-stat/the-dungeon-of-one-thousand-deaths-essany-cord-attunement","key":"value","from":14,"to":15,"note":"Sixth Indelible Mark, on The Patient's shell, Attunement +1"}]}
+{"beat":70,"event":"The Gift burns out of her palm in thick dark strokes across its shell, finding every flaw."}
+{"beat":71,"event":"A seam on the left flank where two growth layers never fused."}
+{"beat":72,"event":"A nerve node at its anchor that coordinates its moves in the saccade gap."}
+{"beat":73,"event":"A dorsal dome perfect outside and hollow within, one hard blow from cracking."}
+{"beat":74,"event":"The marks are permanent; anyone who comes after will see where The Patient can be hurt."}
+{"beat":75,"event":"The Patient strikes with all the force of its long stillness, and she is on the floor."}
+{"beat":76,"event":"The last reciprocal mark spreads down her back: every way Essany Cord was breaking."}
+{"beat":77,"event":"Looking at the crystals, she thinks: the violet, red held at the base. I see how it works."}
+{"beat":78,"event":"She dies looking at the colour, not at The Patient.","changes":[{"page":"metric-character-stat/the-dungeon-of-one-thousand-deaths-essany-cord-vitality","key":"value","from":6,"to":0,"note":"Essany is killed by The Patient, Vitality 6 to 0"}]}
+{"beat":79,"event":"The death report: Essany Cord, the Brand, Depth 3; six marks given, six received."}
+{"beat":80,"event":"She is the first to touch The Patient and live long enough for a Gift to act: 1.3 seconds."}
+{"beat":81,"event":"No Memory Crystal: her last state was seeing, not feeling."}
+{"beat":82,"event":"The Floor Mutation: The Patient's shell, its first outside modification in 342 years."}
+{"beat":83,"event":"Brand complete, Compelled at 47 miles; whether she chose is not the Ledger's to say."}
+{"beat":84,"event":"The Ledger finds it wrote, for the first time, of its own choice not to correct."}
+{"beat":85,"event":"This is the Mirror's Reflection, absorbed: the Maw now watches itself."}
+{"beat":86,"event":"The Patient settles, unable to see its marks but feeling that something has changed."}
+{"beat":87,"event":"Its kill count is five, and the fifth is the first to have marked it."}
+{"beat":88,"event":"At camp the ledger-keeper writes Essany Cord, and leaves the voluntary column blank."}
+{"beat":89,"event":"A passer-by has written on the cloth: the dyer went in coughing. she was already dead."}
+{"beat":90,"event":"The fire still burns, and the tally turns: 986 remain."}
+{"beat":91,"event":"ESSANY CORD — DEPTH 3 — FIRST TO LEAVE A MARK."}
