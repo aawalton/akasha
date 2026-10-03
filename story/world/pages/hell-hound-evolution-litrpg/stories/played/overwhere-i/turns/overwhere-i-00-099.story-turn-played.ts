@@ -10,7 +10,7 @@ export const overwhereI00099 = {
   position: 99,
   prose: "txt",
   characters: ["character-player/overwhere-i-nala", "character-other/overwhere-i-harl-voss"],
-  stepStatus: "step-status/game-master",
+  stepStatus: "step-status/writer",
   action:
     "“I’m level 10 now. I was 7 when I met Voss. 4 when I went after the wolves. I know, I’m mad and driving for an early grave, but I got the job done.” I tell her with a manic smile. “Didn’t know Voss was 24, but that explains why he took so much killing. He was harder to kill on his own than they entire wolf pack.”",
   beats: [
@@ -22,7 +22,7 @@ export const overwhereI00099 = {
     "Four to ten in a handful of days: she nods, as if that is just what killing far above you does.",
     "She stoops, unlocks an iron strongbox under the counter, and pulls a ledger toward her.",
     '"I\'ll need a name for the receipt," she says, pen poised.',
-    '"My Analyze shows none for you. What do I write?"',
+    '"My Analyze comes up blank where a name should sit. What do I write?"',
   ],
   issues: [
     '"4 when I went after the wolves" - Nala reached Level 5 on day 2, before the day-3 wolf hunt',
