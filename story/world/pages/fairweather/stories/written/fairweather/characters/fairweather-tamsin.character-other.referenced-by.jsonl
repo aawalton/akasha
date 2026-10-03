@@ -10,3 +10,6 @@
 {"propertySlug":"lore-knowers","path":"story/world/pages/fairweather/places/fairweather-guild-hall.place.ts","id":"01a102af-305b-7db6-bb17-c8e7a115ede2"}
 {"propertySlug":"lore-knowers","path":"story/world/pages/fairweather/places/fairweather-hall-of-naming.place.ts","id":"01a102af-305b-796e-8e56-39b5d004a564"}
 {"propertySlug":"lore-knowers","path":"story/world/pages/fairweather/places/fairweather-lanternmere.place.ts","id":"01a102af-305c-7f6c-a6eb-97acd4d27bc7"}
+{"propertySlug":"skill-character","path":"story/world/pages/fairweather/stories/written/fairweather/mechanics/skills-held/fairweather-tamsin-cleave.character-skill.ts","id":"01a10364-98f2-766e-80be-5852289cb143"}
+{"propertySlug":"skill-character","path":"story/world/pages/fairweather/stories/written/fairweather/mechanics/skills-held/fairweather-tamsin-endure.character-skill.ts","id":"01a10364-98f3-7ae3-be4c-c1bd997c5bbc"}
+{"propertySlug":"skill-character","path":"story/world/pages/fairweather/stories/written/fairweather/mechanics/skills-held/fairweather-tamsin-frenzy.character-skill.ts","id":"01a10364-98f3-7e5f-9fcf-cf94fe99ff03"}
