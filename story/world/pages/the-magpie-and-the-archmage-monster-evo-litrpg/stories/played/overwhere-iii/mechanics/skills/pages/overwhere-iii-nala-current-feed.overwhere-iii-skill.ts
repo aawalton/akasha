@@ -9,5 +9,5 @@ export const overwhereIiiNalaCurrentFeed = {
   description: "Feeding a holy weave from white-gold current in place of one's own mana.",
   character: "character-player/overwhere-iii-nala",
   skill: "world-skill/overwhere-iii-current-feed",
-  level: 2,
+  level: 3,
 } as const satisfies OverwhereIiiSkill
