@@ -1,4 +1,4 @@
-{"beat":1,"event":"The earth opens on the ridge on the third day of planting; Edric Voss hears it in the east field.","at":"2026-04-03T10:00:00.000Z","place":"place/the-dungeon-of-one-thousand-deaths-voss-farm","present":["character-other/the-dungeon-of-one-thousand-deaths-edric-voss"]}
+{"beat":1,"event":"The earth opens on the ridge on the third day of planting; Edric Voss hears it in the east field.","at":"2026-04-03T14:00:00.000Z","place":"place/the-dungeon-of-one-thousand-deaths-voss-farm","present":["character-other/the-dungeon-of-one-thousand-deaths-edric-voss"]}
 {"beat":2,"event":"His mare sidesteps and the crows lift from the fence line in one black sheet."}
 {"beat":3,"event":"He looks toward the ridge and thinks: that is my land."}
 {"beat":4,"event":"He leaves the seed bag on the fence post and goes back to the house for his mattock."}
@@ -10,7 +10,7 @@
 {"beat":10,"event":"The crows keep away, and a beetle turns back a hand's width from the stone edge."}
 {"beat":11,"event":"Below, pale green moss-light clings to wet ribbed walls, and the air smells of copper."}
 {"beat":12,"event":"Edric goes in because it is his land, with his mattock and the seed in his pocket."}
-{"beat":13,"event":"Five steps in, the passage swallows the daylight.","at":"2026-04-03T10:30:00.000Z","place":"place/the-dungeon-of-one-thousand-deaths-the-gullet"}
+{"beat":13,"event":"Five steps in, the passage swallows the daylight.","at":"2026-04-03T14:30:00.000Z","place":"place/the-dungeon-of-one-thousand-deaths-the-gullet"}
 {"beat":14,"event":"The ribbed walls breathe around him, six slow breaths a minute, like a sleeping animal."}
 {"beat":15,"event":"He counts his steps; at step eighty-seven he steps around a still, iridescent pool."}
 {"beat":16,"event":"At step one hundred and forty the walls press close and he shuffles through sideways."}
@@ -62,7 +62,7 @@
 {"beat":62,"event":"\"It is growing,\" he says, to no one."}
 {"beat":63,"event":"The roots reach his chest, and his breathing slows into the chamber's own."}
 {"beat":64,"event":"His fingers root into the stone, and green follows where they merge."}
-{"beat":65,"event":"The barley is six inches tall when he stops breathing.","at":"2026-04-03T11:44:00.000Z","changes":[{"page":"metric-character-stat/the-dungeon-of-one-thousand-deaths-edric-voss-vitality","key":"value","from":34,"to":0,"note":"Edric dies Rooted, root integration taking his Vitality to 0"}]}
+{"beat":65,"event":"The barley is six inches tall when he stops breathing.","at":"2026-04-03T15:44:00.000Z","changes":[{"page":"metric-character-stat/the-dungeon-of-one-thousand-deaths-edric-voss-vitality","key":"value","from":34,"to":0,"note":"Edric dies Rooted, root integration taking his Vitality to 0"}]}
 {"beat":66,"event":"His body settles into the floor, fused below the waist, ringed by a perfect circle of barley."}
 {"beat":67,"event":"The ash handle of his dropped mattock sprouts a single pale leaf."}
 {"beat":68,"event":"Words press out of the wall in his hand: Tell Maren I should have brought the water."}
