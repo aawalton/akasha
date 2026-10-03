@@ -10,6 +10,7 @@ export const otherwhereVi0001NightSurvivedBarely = {
   story: "story-played/otherwhere-vi",
   ownLength: 4144,
   prose: "txt",
+  beats: "jsonl",
   turnCovers: [
     {
       position: 1,
