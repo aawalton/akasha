@@ -6,4 +6,5 @@ export const otherwhereViiJoanReeve = {
   slug: "otherwhere-vii-joan-reeve",
   title: "Joan Reeve",
   story: "story-played/otherwhere-vii",
+  place: "place/otherwhere-vii-ashford",
 } as const satisfies CharacterOther
