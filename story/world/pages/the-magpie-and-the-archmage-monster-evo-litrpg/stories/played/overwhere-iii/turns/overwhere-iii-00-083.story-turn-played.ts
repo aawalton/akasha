@@ -14,7 +14,7 @@ export const overwhereIii00083 = {
     "character-other/overwhere-iii-mother-sallow",
     "character-other/overwhere-iii-edda-crane",
   ],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/recorders",
   action:
     "I use my my legendary Mana Weaver trait to pull ALL the natural weaves in the area into a tight knot right where the woman is, not trying to make a clean weave, instead trying to make the conflict on purpose to trigger a desperate explosion or chain reaction.",
   beats: [
@@ -49,6 +49,6 @@ export const overwhereIii00083 = {
     "lore/overwhere-iii-nala-2",
     "lore/overwhere-iii-nala-2-2",
   ],
-  reviewedBy: ["story-reviewer/continuity"],
+  reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
   endsAt: "2026-10-08T13:35:00.000Z",
 } as const satisfies StoryTurnPlayed
