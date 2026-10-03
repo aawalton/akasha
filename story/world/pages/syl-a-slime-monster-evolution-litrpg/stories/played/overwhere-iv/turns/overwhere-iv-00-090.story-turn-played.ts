@@ -11,4 +11,5 @@ export const overwhereIv00090 = {
   action:
     "I quietly take the ears and cores, then work my way back to town and report in at the guild.",
   lore: ["lore/overwhere-iv-millbrook-adventurers-hall-2"],
+  endsAt: "2026-10-07T12:56:00.000Z",
 } as const satisfies StoryTurnPlayed
