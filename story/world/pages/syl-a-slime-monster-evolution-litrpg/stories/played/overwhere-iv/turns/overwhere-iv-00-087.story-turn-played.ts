@@ -35,5 +35,6 @@ export const overwhereIv00087 = {
     "lore/overwhere-iv-the-tangle-2-2",
     "place/overwhere-iv-millbrook-adventurers-hall",
   ],
+  reviewedBy: ["story-reviewer/style"],
   endsAt: "2026-10-07T09:55:00.000Z",
 } as const satisfies StoryTurnPlayed
