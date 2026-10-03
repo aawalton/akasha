@@ -7,7 +7,8 @@ export const overwhereIii00084 = {
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iii"],
   position: 84,
-  stepStatus: "step-status/world-builder",
+  stepStatus: "step-status/game-master",
   action:
     "“Corrupt wolves, I fought them off, but they hurt me bad, can you get me to the shrine? That’s my best chance to heal myself.”",
+  lore: ["lore/overwhere-iii-current-feed", "lore/overwhere-iii-edda-crane"],
 } as const satisfies StoryTurnPlayed
