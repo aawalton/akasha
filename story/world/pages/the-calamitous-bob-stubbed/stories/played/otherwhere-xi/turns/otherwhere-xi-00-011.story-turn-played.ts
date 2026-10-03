@@ -14,7 +14,7 @@ export const otherwhereXi00011 = {
   characters: [
     "character-player/otherwhere-xi-nala",
     "world-character/otherwhere-xi-wenna-ashlar",
-    "world-character/otherwhere-xi-tobin-ashlar",
+    "character-other/otherwhere-xi-tobin-ashlar",
     "character-other/otherwhere-xi-smoke",
   ],
   stepStatus: "step-status/player",

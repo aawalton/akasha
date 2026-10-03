@@ -20,7 +20,7 @@ export const otherwhereXiAshlarFarm = {
   facts: [
     {
       fact: "The Ashlar farm is the first house on the hill road, a quarter hour above Tavelford.",
-      knowers: ["lore-disclosure/game-master", "world-character/otherwhere-xi-tobin-ashlar"],
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-xi-tobin-ashlar"],
     },
     {
       fact: "The house is low fieldstone dug half into the slope, flat-roofed, with a blue-painted door.",
@@ -35,7 +35,7 @@ export const otherwhereXiAshlarFarm = {
       knowers: [
         "lore-disclosure/game-master",
         "character-player/otherwhere-xi-nala",
-        "world-character/otherwhere-xi-tobin-ashlar",
+        "character-other/otherwhere-xi-tobin-ashlar",
         "world-character/otherwhere-xi-wenna-ashlar",
       ],
     },
@@ -60,7 +60,7 @@ export const otherwhereXiAshlarFarm = {
       knowers: [
         "lore-disclosure/game-master",
         "character-player/otherwhere-xi-nala",
-        "world-character/otherwhere-xi-tobin-ashlar",
+        "character-other/otherwhere-xi-tobin-ashlar",
         "world-character/otherwhere-xi-wenna-ashlar",
       ],
     },
@@ -69,7 +69,7 @@ export const otherwhereXiAshlarFarm = {
       knowers: [
         "lore-disclosure/game-master",
         "character-player/otherwhere-xi-nala",
-        "world-character/otherwhere-xi-tobin-ashlar",
+        "character-other/otherwhere-xi-tobin-ashlar",
         "world-character/otherwhere-xi-wenna-ashlar",
       ],
     },
@@ -78,7 +78,7 @@ export const otherwhereXiAshlarFarm = {
       knowers: [
         "lore-disclosure/game-master",
         "character-player/otherwhere-xi-nala",
-        "world-character/otherwhere-xi-tobin-ashlar",
+        "character-other/otherwhere-xi-tobin-ashlar",
       ],
     },
     {
@@ -154,7 +154,7 @@ export const otherwhereXiAshlarFarm = {
       knowers: [
         "lore-disclosure/game-master",
         "character-player/otherwhere-xi-nala",
-        "world-character/otherwhere-xi-tobin-ashlar",
+        "character-other/otherwhere-xi-tobin-ashlar",
         "world-character/otherwhere-xi-wenna-ashlar",
       ],
     },
@@ -187,7 +187,7 @@ export const otherwhereXiAshlarFarm = {
       knowers: [
         "lore-disclosure/game-master",
         "character-player/otherwhere-xi-nala",
-        "world-character/otherwhere-xi-tobin-ashlar",
+        "character-other/otherwhere-xi-tobin-ashlar",
       ],
     },
     {

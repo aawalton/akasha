@@ -6,7 +6,7 @@ export const otherwhereXiTobinAshlar = {
   slug: "otherwhere-xi-tobin-ashlar",
   title: "Tobin Ashlar",
   world: "world/the-calamitous-bob-stubbed",
-  about: "world-character/otherwhere-xi-tobin-ashlar",
+  about: "character-other/otherwhere-xi-tobin-ashlar",
   facts: [
     {
       fact: "Tobin Ashlar is fifteen, gangly and sunburnt, with a mop of black curls and a chipped tooth.",
@@ -81,7 +81,7 @@ export const otherwhereXiTobinAshlar = {
       knowers: [
         "lore-disclosure/game-master",
         "character-player/otherwhere-xi-nala",
-        "world-character/otherwhere-xi-tobin-ashlar",
+        "character-other/otherwhere-xi-tobin-ashlar",
       ],
     },
     {
@@ -89,7 +89,7 @@ export const otherwhereXiTobinAshlar = {
       knowers: [
         "lore-disclosure/game-master",
         "character-player/otherwhere-xi-nala",
-        "world-character/otherwhere-xi-tobin-ashlar",
+        "character-other/otherwhere-xi-tobin-ashlar",
       ],
     },
     {
@@ -97,7 +97,7 @@ export const otherwhereXiTobinAshlar = {
       knowers: [
         "lore-disclosure/game-master",
         "character-player/otherwhere-xi-nala",
-        "world-character/otherwhere-xi-tobin-ashlar",
+        "character-other/otherwhere-xi-tobin-ashlar",
       ],
     },
     {
@@ -109,7 +109,7 @@ export const otherwhereXiTobinAshlar = {
       knowers: [
         "lore-disclosure/game-master",
         "character-player/otherwhere-xi-nala",
-        "world-character/otherwhere-xi-tobin-ashlar",
+        "character-other/otherwhere-xi-tobin-ashlar",
       ],
     },
     {
@@ -117,7 +117,7 @@ export const otherwhereXiTobinAshlar = {
       knowers: [
         "lore-disclosure/game-master",
         "character-player/otherwhere-xi-nala",
-        "world-character/otherwhere-xi-tobin-ashlar",
+        "character-other/otherwhere-xi-tobin-ashlar",
       ],
     },
     {
@@ -125,7 +125,7 @@ export const otherwhereXiTobinAshlar = {
       knowers: [
         "lore-disclosure/game-master",
         "character-player/otherwhere-xi-nala",
-        "world-character/otherwhere-xi-tobin-ashlar",
+        "character-other/otherwhere-xi-tobin-ashlar",
       ],
     },
     {
@@ -133,7 +133,7 @@ export const otherwhereXiTobinAshlar = {
       knowers: [
         "lore-disclosure/game-master",
         "character-player/otherwhere-xi-nala",
-        "world-character/otherwhere-xi-tobin-ashlar",
+        "character-other/otherwhere-xi-tobin-ashlar",
       ],
     },
     {
@@ -141,7 +141,7 @@ export const otherwhereXiTobinAshlar = {
       knowers: [
         "lore-disclosure/game-master",
         "character-player/otherwhere-xi-nala",
-        "world-character/otherwhere-xi-tobin-ashlar",
+        "character-other/otherwhere-xi-tobin-ashlar",
       ],
     },
     {
@@ -149,7 +149,7 @@ export const otherwhereXiTobinAshlar = {
       knowers: [
         "lore-disclosure/game-master",
         "character-player/otherwhere-xi-nala",
-        "world-character/otherwhere-xi-tobin-ashlar",
+        "character-other/otherwhere-xi-tobin-ashlar",
       ],
     },
     {
@@ -157,7 +157,7 @@ export const otherwhereXiTobinAshlar = {
       knowers: [
         "lore-disclosure/game-master",
         "character-player/otherwhere-xi-nala",
-        "world-character/otherwhere-xi-tobin-ashlar",
+        "character-other/otherwhere-xi-tobin-ashlar",
         "world-character/otherwhere-xi-wenna-ashlar",
       ],
     },
@@ -166,7 +166,7 @@ export const otherwhereXiTobinAshlar = {
       knowers: [
         "lore-disclosure/game-master",
         "character-player/otherwhere-xi-nala",
-        "world-character/otherwhere-xi-tobin-ashlar",
+        "character-other/otherwhere-xi-tobin-ashlar",
       ],
     },
     {
@@ -174,7 +174,7 @@ export const otherwhereXiTobinAshlar = {
       knowers: [
         "lore-disclosure/game-master",
         "character-player/otherwhere-xi-nala",
-        "world-character/otherwhere-xi-tobin-ashlar",
+        "character-other/otherwhere-xi-tobin-ashlar",
       ],
     },
     {
@@ -183,14 +183,14 @@ export const otherwhereXiTobinAshlar = {
         "lore-disclosure/game-master",
         "character-player/otherwhere-xi-nala",
         "world-character/otherwhere-xi-wenna-ashlar",
-        "world-character/otherwhere-xi-tobin-ashlar",
+        "character-other/otherwhere-xi-tobin-ashlar",
       ],
     },
     {
       fact: "Tobin knows Nala saved the turned lamb, and says he knew she was something the moment he saw her.",
       knowers: [
         "lore-disclosure/game-master",
-        "world-character/otherwhere-xi-tobin-ashlar",
+        "character-other/otherwhere-xi-tobin-ashlar",
         "character-player/otherwhere-xi-nala",
         "world-character/otherwhere-xi-wenna-ashlar",
       ],

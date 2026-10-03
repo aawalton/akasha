@@ -163,7 +163,7 @@ export const otherwhereXiTavelford = {
       knowers: [
         "lore-disclosure/game-master",
         "character-player/otherwhere-xi-nala",
-        "world-character/otherwhere-xi-tobin-ashlar",
+        "character-other/otherwhere-xi-tobin-ashlar",
       ],
     },
     {
@@ -171,7 +171,7 @@ export const otherwhereXiTavelford = {
       knowers: [
         "lore-disclosure/game-master",
         "character-player/otherwhere-xi-nala",
-        "world-character/otherwhere-xi-tobin-ashlar",
+        "character-other/otherwhere-xi-tobin-ashlar",
       ],
     },
     {
