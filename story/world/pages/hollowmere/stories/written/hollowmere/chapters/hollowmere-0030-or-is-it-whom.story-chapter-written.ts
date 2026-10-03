@@ -10,7 +10,7 @@ export const hollowmere0030OrIsItWhom = {
   story: "story-written/hollowmere",
   ownLength: 2903,
   prose: "txt",
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/recorders",
   beats: [
     "Tuesday of week five: rain again, soft and steady; Bea's alarm, Bea's groan, Bea's cold feet.",
     "She skips the run in the rain, and does press-ups on the rug instead, and you count them for her.",
@@ -98,5 +98,5 @@ export const hollowmere0030OrIsItWhom = {
     "character-other/hollowmere-morwenna",
     "character-other/hollowmere-yusra",
   ],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
 } as const satisfies StoryChapterWritten
