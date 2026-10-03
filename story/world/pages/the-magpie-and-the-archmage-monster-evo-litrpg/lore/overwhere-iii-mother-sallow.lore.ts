@@ -168,6 +168,10 @@ export const overwhereIiiMotherSallow = {
         "character-other/overwhere-iii-mother-sallow",
       ],
     },
+    {
+      fact: "The knot's burst boomed down the brook; she knows the noise will bring folk from the south road.",
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-mother-sallow"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
