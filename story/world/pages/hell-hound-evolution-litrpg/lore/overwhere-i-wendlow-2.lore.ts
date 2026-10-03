@@ -344,5 +344,9 @@ export const overwhereIWendlow2 = {
       fact: "Asked nothing, Grete says only that the letter went to the magistrate yesterday, and no more of it.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "The walk back from Hobb's Mill brings Nala to Wendlow's gate a little before 14:30.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
