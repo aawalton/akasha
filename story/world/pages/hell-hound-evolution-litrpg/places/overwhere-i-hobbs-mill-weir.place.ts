@@ -313,7 +313,7 @@ export const overwhereIHobbsMillWeir = {
     },
     {
       fact: "Jory and both crews come down to the apron, and Jory pays Nala the crews' gold at once.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
     {
       fact: "Tam asks the barrow back by any barge coming down from Wendlow; he means to grind by afternoon.",
