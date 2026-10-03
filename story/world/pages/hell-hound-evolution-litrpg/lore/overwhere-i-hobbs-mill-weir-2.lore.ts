@@ -20,5 +20,13 @@ export const overwhereIHobbsMillWeir2 = {
       fact: "A fast water disc took the dead wyrm's neck through in about a minute.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
+    {
+      fact: "Miller Tam Hobb is a stout, grey man in a flour-dusted apron.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+    },
+    {
+      fact: "The Weir Wyrm's bile sac is a green bag the size of a fist, lying under its liver.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+    },
   ],
 } as const satisfies Lore
