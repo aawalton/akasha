@@ -80,6 +80,10 @@ export const overwhereIiiMotherSallow = {
       fact: "Each holy pull that lands drains her blight; her blight workings weaken as it goes.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "The first holy strike cracks her bone-ring charm; her true face, forty and hard, shows through.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
