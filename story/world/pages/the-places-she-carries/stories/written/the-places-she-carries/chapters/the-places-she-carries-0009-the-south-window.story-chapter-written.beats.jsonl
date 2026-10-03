@@ -57,4 +57,4 @@
 {"beat":57,"event":"'I do not know if this is possible.' Then: 'I have not known if things were possible before.'"}
 {"beat":58,"event":"She closes the lantern; the ghost elms hold their light against the absence."}
 {"beat":59,"event":"Back at camp, Theron sleeping, she updates the margin column by firelight.","at":"2026-08-13T04:00:00.000Z","place":"place/the-places-she-carries-therons-camp"}
-{"beat":60,"event":"She writes 'Day 12.' The number in the margin says six."}
+{"beat":60,"event":"She writes 'Day 12.' The number in the margin says six.","changes":[{"page":"metric-character-experience/the-places-she-carries-wren","key":"value","from":1055,"to":982,"note":"Reconciled: later printed totals imply 73 less XP than the early gains sum to"}]}
