@@ -250,23 +250,57 @@ export const overwhereIvBrooksideFour2 = {
     },
     {
       fact: "Dace is keen on a lure: thinning Grakk's camp before Aubrin's band comes keeps the work local.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iv-nala",
+        "lore/overwhere-iv-brookside-four",
+        "character-other/overwhere-iv-ilsa-crane",
+      ],
     },
     {
       fact: "Wren is in at once; Orla goes where Dace goes; Merrit wants it fought at a ford, with his fire.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iv-nala",
+        "lore/overwhere-iv-brookside-four",
+        "character-other/overwhere-iv-ilsa-crane",
+      ],
     },
     {
       fact: "Dace would split ears evenly among all who go, as ever, but leave Grakk's head to whoever fells him.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iv-nala",
+        "lore/overwhere-iv-brookside-four",
+        "character-other/overwhere-iv-ilsa-crane",
+      ],
     },
     {
       fact: "Dace won't leave the farms unwatched tonight; he'd lure tomorrow, if Ilsa finds others to watch.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iv-nala",
+        "lore/overwhere-iv-brookside-four",
+        "character-other/overwhere-iv-ilsa-crane",
+      ],
     },
     {
       fact: "Fed, the Four come to the hall about five on day 9, to take their watch posts from Ilsa.",
-      knowers: ["lore-disclosure/game-master", "lore/overwhere-iv-brookside-four"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "lore/overwhere-iv-brookside-four",
+        "character-player/overwhere-iv-nala",
+        "character-other/overwhere-iv-ilsa-crane",
+      ],
+    },
+    {
+      fact: "Dace calls the lure Nala's plan, set for day 10, and asked her how to draw the warband out.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iv-nala",
+        "lore/overwhere-iv-brookside-four",
+        "character-other/overwhere-iv-ilsa-crane",
+      ],
     },
   ],
 } as const satisfies Lore

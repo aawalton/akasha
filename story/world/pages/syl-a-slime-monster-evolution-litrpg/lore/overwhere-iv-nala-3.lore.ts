@@ -152,5 +152,14 @@ export const overwhereIvNala3 = {
       fact: "On day 9 Nala took an ear and core from each of eight goblin watchers, leaving the horn hidden.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
     },
+    {
+      fact: "On day 9 Nala pitched the Four a lure: draw a full warband out of Grakk's camp and thin it.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iv-nala",
+        "lore/overwhere-iv-brookside-four",
+        "character-other/overwhere-iv-ilsa-crane",
+      ],
+    },
   ],
 } as const satisfies Lore

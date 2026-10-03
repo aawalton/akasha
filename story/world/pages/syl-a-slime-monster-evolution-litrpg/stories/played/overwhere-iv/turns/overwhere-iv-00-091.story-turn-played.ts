@@ -11,7 +11,7 @@ export const overwhereIv00091 = {
   position: 91,
   prose: "txt",
   characters: ["character-player/overwhere-iv-nala", "character-other/overwhere-iv-ilsa-crane"],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action:
     "“I’ll talk with the Four when they wake, if we can lure a full warband, we can start thinning the camp.” I go and take a nap, then pitch my idea.",
   beats: [
@@ -41,7 +41,12 @@ export const overwhereIv00091 = {
     "lore/overwhere-iv-the-tangle-2-2",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/mechanics", "story-recorder/picture"],
+  recordedBy: [
+    "story-recorder/inventory",
+    "story-recorder/mechanics",
+    "story-recorder/picture",
+    "story-recorder/memory",
+  ],
   endsAt: "2026-10-07T17:10:00.000Z",
   coverAfter: "You sit up and lay it out for them. Lure a full warband",
 } as const satisfies StoryTurnPlayed
