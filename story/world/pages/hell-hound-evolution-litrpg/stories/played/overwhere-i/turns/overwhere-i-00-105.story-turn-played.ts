@@ -22,5 +22,6 @@ export const overwhereI00105 = {
     '"Afternoon of day eleven. Bring the tag and the other five, and the ring\'s yours."',
   ],
   lore: ["lore/overwhere-i-nala", "lore/overwhere-i-nala-2", "lore/overwhere-i-wendlow-2"],
+  reviewedBy: ["story-reviewer/style"],
   endsAt: "2026-10-05T13:15:00.000Z",
 } as const satisfies StoryTurnPlayed
