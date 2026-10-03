@@ -10,4 +10,6 @@ export const towerAndTheStar0028TheSameHand = {
   ownLength: 3637,
   unit: "unit/words",
   prose: "txt",
+  stepStatus: "step-status/player",
+  beats: "jsonl",
 } as const satisfies StoryChapterWritten

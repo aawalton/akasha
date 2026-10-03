@@ -1,0 +1,59 @@
+{"beat":1,"event":"The party enters a deeper Floor 21 section where three Hollow Wardens wait.","at":"2000-01-12T14:00:00.000Z","place":"place/tower-and-the-star-floor-21-deep-corridors","present":["character-other/tower-and-the-star-solenne","character-other/tower-and-the-star-dayo","character-other/tower-and-the-star-miriam","character-other/tower-and-the-star-vesper","character-other/tower-and-the-star-tomas","character-other/tower-and-the-star-nadia"]}
+{"beat":2,"event":"The stone's frequency here reads older, more settled."}
+{"beat":3,"event":"Tomás calls the variables: three-Warden cluster, one east branch, traps at seven and nine."}
+{"beat":4,"event":"Vesper spots the first trap at ten meters and points without breaking stride."}
+{"beat":5,"event":"Mid-fight, a Warden pushes toward the trap at section nine."}
+{"beat":6,"event":"Dayo calls hold nine; the Warden stands in dead space while Solenne and Nadia hit it."}
+{"beat":7,"event":"The cluster clears in eight minutes."}
+{"beat":8,"event":"Dayo adapts to the low ceiling of the east branch without waiting for Tomás."}
+{"beat":9,"event":"Eight more minutes, and the lone Warden collapses into the floor."}
+{"beat":10,"event":"Vesper lays her palm on the Warden's broken joint for seven seconds, then the shoulder."}
+{"beat":11,"event":"She says its load distribution is the same as the wall's: the same design logic."}
+{"beat":12,"event":"Tomás records it; Nadia's hand rests on her dulcimer case."}
+{"beat":13,"event":"Miriam says intentional; Vesper says the same builder, or the same documentation."}
+{"beat":14,"event":"They mark the section nine trap, walk around it and go on."}
+{"beat":15,"event":"They reach the rest node at section eleven; the floor reads forty-seven percent done.","at":"2000-01-12T15:00:00.000Z","place":"place/tower-and-the-star-floor-21-rest-node"}
+{"beat":16,"event":"Nadia sits with her dulcimer case unopened, thumb along its edge."}
+{"beat":17,"event":"Miriam writes in her notebook's main text; Vesper studies the ceiling's joints."}
+{"beat":18,"event":"Tomás sits with his notation surface and corrected map open, not yet writing."}
+{"beat":19,"event":"Solenne finds the locked door at the floor's far east end, a seam in the wall."}
+{"beat":20,"event":"It bears the six-Aspect Composite symbol, with the Section 11-30 cooldown active."}
+{"beat":21,"event":"They used their Composite Activation on Floor 17, so they cannot open it."}
+{"beat":22,"event":"Solenne says she can't open it."}
+{"beat":23,"event":"Dayo asks about the Floor 30 boundary; Tomás says the section resets there."}
+{"beat":24,"event":"Nine floors to the boundary; nobody says the calculation aloud."}
+{"beat":25,"event":"A mid-forties woman with a physical notebook steps into the amber light.","arrive":["character-other/tower-and-the-star-vasic"]}
+{"beat":26,"event":"Solenne's Conductor reads Dr. Petra Vasic carrying something long held."}
+{"beat":27,"event":"Vasic says they're past the Composite lock; Solenne says they can't open it."}
+{"beat":28,"event":"Vasic says she knows: they activated the Floor 17 Repository Node three floors ago."}
+{"beat":29,"event":"Dayo asks how; Vasic says the System logs it, for anyone who knows how to look."}
+{"beat":30,"event":"Vasic knows of Cartographer's Truth today and the Brightspirit question."}
+{"beat":31,"event":"Tomás notes she said on Floor 11 she had questions; she's been answering them."}
+{"beat":32,"event":"Vasic says she needs to tell them something."}
+{"beat":33,"event":"She is a System Scholar, and part of a nameless group calling itself the Architects."}
+{"beat":34,"event":"Miriam says before; Vasic confirms: they knew something was coming before the System."}
+{"beat":35,"event":"Vasic lays an older folded document on the terminal shelf."}
+{"beat":36,"event":"They knew the six-Aspect model and that the Tower was built expecting such a party."}
+{"beat":37,"event":"Solenne holds all six signals: the party is receiving it."}
+{"beat":38,"event":"Vesper asks if her people built the Tower; Vasic says no, they are researchers."}
+{"beat":39,"event":"The builders had the same or older documentation; Solenne names the six frequencies."}
+{"beat":40,"event":"Solenne says Cartographer's Truth went deeper than the floor map."}
+{"beat":41,"event":"Vasic notes the first confirmed direct perception of the frequencies."}
+{"beat":42,"event":"She says the Composite doors are invitations, built for a six-Aspect party."}
+{"beat":43,"event":"The Summit outcome needs a six-Aspect Full Chord; Dayo asks what outcome."}
+{"beat":44,"event":"Vasic doesn't know: the documents give only an untranslated symbol for it."}
+{"beat":45,"event":"Tomás asks to see the paper and studies it a long time."}
+{"beat":46,"event":"He says its margin script matches the Floor 15 notice board entry."}
+{"beat":47,"event":"He tells Vasic the entry described them, with modern English marginalia."}
+{"beat":48,"event":"Vasic writes thirty seconds: the Architects have forty-seven entries none can read."}
+{"beat":49,"event":"Tomás says it described things that hadn't happened yet when he read it."}
+{"beat":50,"event":"Vasic says three years of study, and she didn't know it would be this specific."}
+{"beat":51,"event":"Dayo asks what she wants; Vasic says only to know what they find, recorded accurately."}
+{"beat":52,"event":"She says the Architects aren't Apex: the Summit matters past this city."}
+{"beat":53,"event":"Vasic calls the Floor 11 paper a gift and a test; they used it, and she knows."}
+{"beat":54,"event":"Miriam asks if the builders were human; Vasic says they don't know."}
+{"beat":55,"event":"Vasic leaves them the translated document and goes back into the corridor.","leave":["character-other/tower-and-the-star-vasic"]}
+{"beat":56,"event":"After a long quiet, Nadia says: the Summit."}
+{"beat":57,"event":"Tomás cross-references the paper with his notation: a gift and a test."}
+{"beat":58,"event":"Dayo says they will decide on the door with more information. Not tonight."}
+{"beat":59,"event":"Solenne runs the Conductor on all six and on the far-east door: filed under later."}
