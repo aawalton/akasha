@@ -4,13 +4,14 @@ export const hollowmere0022IWantToStay = {
   id: "01a10175-3a58-7cea-a9f7-2d7df080d31d",
   type: "page-type/story-chapter-written",
   slug: "hollowmere-0022-i-want-to-stay",
+  cover: "image/image-c20a2594c0f4881e",
   position: 22,
   unit: "unit/words",
   title: "I Want to Stay",
   story: "story-written/hollowmere",
   ownLength: 2996,
   prose: "txt",
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   beats: [
     "Monday of week four: you wake in 15 again, Bea already up and pulling on running tights.",
     '"Run," she says. "Monday. You\'ve gone soft on swimming." You run the shore with her, twenty minutes.',
@@ -95,5 +96,24 @@ export const hollowmere0022IWantToStay = {
     "character-other/hollowmere-penhallow",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/mechanics", "story-recorder/memory"],
+  recordedBy: [
+    "story-recorder/inventory",
+    "story-recorder/mechanics",
+    "story-recorder/memory",
+    "story-recorder/picture",
+  ],
+  scenes: ["image/image-0afd679144bdd529", "image/image-c20a2594c0f4881e"],
+  pictured: [
+    {
+      cover: "image/image-0afd679144bdd529",
+      coverAfter: "The light is grey at the edges of Bea's thick curtains.",
+      character: "character-other/hollowmere-bea",
+      outfit: "white cotton vest and black running tights",
+    },
+    {
+      cover: "image/image-c20a2594c0f4881e",
+      coverAfter: "The pigeonholes in the hall outside the Great Hall are stuffed:",
+      setting: "the pigeonholes outside the Great Hall",
+    },
+  ],
 } as const satisfies StoryChapterWritten
