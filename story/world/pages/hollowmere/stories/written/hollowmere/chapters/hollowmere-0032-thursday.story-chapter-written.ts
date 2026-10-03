@@ -10,7 +10,7 @@ export const hollowmere0032Thursday = {
   story: "story-written/hollowmere",
   ownLength: 3007,
   prose: "txt",
-  stepStatus: "step-status/game-master",
+  stepStatus: "step-status/writer",
   beats: [
     "Thursday of week five: you wake in room 8, in Lin's narrow bed, grey light on the drawings.",
     "Lin is awake already, sitting up with her sketchbook on her knees, drawing you asleep.",
@@ -53,7 +53,7 @@ export const hollowmere0032Thursday = {
     "Half past nine: you fill the flask; Yusra's on tonight, ten till six, the way she is Thursdays.",
     "She comes down at quarter to ten; she sees you at the foot of the stairs and her face eases.",
     '"Every time," she says, before you can. You hand her the flask. She holds your fingers on it.',
-    '"You were in room 8 last night," Yusra says, low. "I\'m the warden. I hear doors."',
+    "Yusra says, low: \"You were in room 8 last night. Lin's room. I'm the warden. I hear doors.\"",
     'You go still. Yusra\'s mouth twitches. "Good," she says. "She\'s been lonely, that one. Like me."',
     '"Saturday," she says. "After the race. Front door." She touches your cheek once, and goes.',
     "In 15 Bea is lying on her back on the rug, staring at the ceiling, her hands on her stomach.",
