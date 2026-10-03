@@ -7,7 +7,7 @@ export const laundryPutAway = {
   title: "Laundry - Put Away",
   toDoCategory: "health",
   difficulty: "hard",
-  toDoDueDate: "2026-10-03",
+  toDoDueDate: "2026-10-08",
   priority: "p3",
   toDoRecurrence: "FREQ=MONTHLY;BYDAY=2MO,4MO",
   toDoSortOrder: 52,
