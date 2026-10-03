@@ -1,0 +1,71 @@
+{"beat":1,"event":"The party enters Floor 8's limestone caves; Dayo senses the water is wrong.","at":"2000-01-02T09:30:00.000Z","place":"place/tower-and-the-star-floor-8-entry-corridor","present":["character-other/tower-and-the-star-solenne","character-other/tower-and-the-star-dayo","character-other/tower-and-the-star-miriam","character-other/tower-and-the-star-vesper","character-other/tower-and-the-star-tomas","character-other/tower-and-the-star-nadia"],"changes":[{"page":"world-metric/tower-and-the-star-highest-floor-reached","key":"value","from":7,"to":8,"note":"The party reaches Floor 8"}]}
+{"beat":2,"event":"Dry corridor gives way to a film of water at the second junction."}
+{"beat":3,"event":"Tomás scouts thirty meters ahead, reporting on the party channel."}
+{"beat":4,"event":"Tomás reports a split: flooded left Compact route, unmapped new right branch."}
+{"beat":5,"event":"Tomás reads thirty meters of submerged corridor before the first chamber."}
+{"beat":6,"event":"Dayo sees the Compact's three-week-old route map doesn't match the floor."}
+{"beat":7,"event":"Thirty percent of the planned route is fully underwater."}
+{"beat":8,"event":"Solenne asks Tomás his Eagle Eye range on the submerged section."}
+{"beat":9,"event":"Tomás says twenty meters on the surface, eight submerged; no ambush detection beyond."}
+{"beat":10,"event":"Dayo calculates twenty-two meters of blind swimming."}
+{"beat":11,"event":"Dayo runs through who in the party can handle the swim."}
+{"beat":12,"event":"Dayo judges herself a strong swimmer, even in composite plate."}
+{"beat":13,"event":"Dayo senses Tomás already has an alternative ready."}
+{"beat":14,"event":"Dayo rates Nadia able, Vesper uncertain, Miriam probable, Solenne resentful."}
+{"beat":15,"event":"Dayo starts moving to test the route with her body."}
+{"beat":16,"event":"Dayo steps into the cold flooded section at the corridor split.","place":"place/tower-and-the-star-floor-8-corridor-split"}
+{"beat":17,"event":"Dayo wades five meters in, water at her thighs."}
+{"beat":18,"event":"Solenne says 'Dayo, hold' in her worried register."}
+{"beat":19,"event":"Dayo chooses not to push on; she stops and turns."}
+{"beat":20,"event":"A hook strikes from below the water through Dayo's left bracer gap and pulls."}
+{"beat":21,"event":"The hidden creature drags Dayo sideways toward the deep water."}
+{"beat":22,"event":"A second hook hits Dayo's left shoulder; a Sillfin Hunter grapples from below."}
+{"beat":23,"event":"Dayo loses 158 HP, down to sixty-three percent."}
+{"beat":24,"event":"Dayo, losing footing on silt, grabs the hook buried in her forearm."}
+{"beat":25,"event":"Dayo fires Shield Rush backward, ripping the Hunter half out of the water."}
+{"beat":26,"event":"The Sillfin Hunter is revealed: gray-green, four hooked forelimbs, a float-bladder."}
+{"beat":27,"event":"The Hunter hits the corridor floor and the party closes in."}
+{"beat":28,"event":"Miriam's Thorned Ground erupts and pins the Hunter; it shrieks."}
+{"beat":29,"event":"Tomás, on a formation above, puts two arrows through its float-bladder."}
+{"beat":30,"event":"Dayo drives her gauntlet through the Hunter's skull."}
+{"beat":31,"event":"Nobody speaks for eight seconds."}
+{"beat":32,"event":"Dayo stands bleeding in the shallows, her left arm impaired by four lacerations."}
+{"beat":33,"event":"Dayo resolves to raise the bracer gap with Vesper later."}
+{"beat":34,"event":"Solenne says flatly that Dayo's HP is at sixty-three percent."}
+{"beat":35,"event":"Dayo hears Solenne's fear and can't handle being worried for."}
+{"beat":36,"event":"Dayo answers 'Copy'."}
+{"beat":37,"event":"Tomás drops from the formation with a dry alternative route."}
+{"beat":38,"event":"Tomás's mapped high route through the upper caves appears on the overlay."}
+{"beat":39,"event":"Dayo adopts the route without argument."}
+{"beat":40,"event":"Dayo reflects that waiting ten seconds would have revealed the Hunter."}
+{"beat":41,"event":"Dayo files her error: wrong, not catastrophic, won't repeat."}
+{"beat":42,"event":"Dayo scratches a Floor 8 mark into her left bracer with her off-hand."}
+{"beat":43,"event":"Nadia comes to Dayo's side: 'I've done worse.'"}
+{"beat":44,"event":"Nadia jokes about swimming in Lake Michigan in March."}
+{"beat":45,"event":"Dayo gives a short rough laugh that jostles her shoulder."}
+{"beat":46,"event":"Dayo asks 'March?'; Nadia explains a dare at seventeen."}
+{"beat":47,"event":"Nadia mentions Carla's Honda Civic-sized Lake Michigan catfish."}
+{"beat":48,"event":"The party climbs a narrow dry passage through the upper limestone.","place":"place/tower-and-the-star-floor-8-dry-route"}
+{"beat":49,"event":"Tomás leads, sweeping ahead with Eagle Eye."}
+{"beat":50,"event":"The party reaches a limestone rest alcove lit by Cavelight Moths.","at":"2000-01-02T09:50:00.000Z","place":"place/tower-and-the-star-floor-8-rest-alcove"}
+{"beat":51,"event":"The moths pulse brighter as the party enters."}
+{"beat":52,"event":"Dayo sits against the wall and holds still."}
+{"beat":53,"event":"Vesper hands Dayo a healing potion and sets an antidote beside her."}
+{"beat":54,"event":"Vesper says Sillfin toxin is mild but better treated early."}
+{"beat":55,"event":"Dayo drinks the potion and regains 150 HP, then takes the antidote."}
+{"beat":56,"event":"Miriam kneels beside Dayo and places her hands on her forearm."}
+{"beat":57,"event":"Miriam's level 9 Mending Touch restores 142 HP; the lacerations begin to close."}
+{"beat":58,"event":"Dayo watches Miriam heal forearm then shoulder, fully present."}
+{"beat":59,"event":"Dayo asks if Empathic Sense picked up anything from the hooks."}
+{"beat":60,"event":"Miriam dryly says being hooked from below water is extremely unpleasant."}
+{"beat":61,"event":"Dayo says that tracks; Miriam's mouth twitches."}
+{"beat":62,"event":"Dayo lets the healing work and does not say she is fine."}
+{"beat":63,"event":"The party follows the dry route upward another two hundred meters.","place":"place/tower-and-the-star-floor-8-dry-route"}
+{"beat":64,"event":"Tomás stops forty meters ahead at a widening, still for six seconds."}
+{"beat":65,"event":"Solenne calls Tomás's name on the party channel."}
+{"beat":66,"event":"Tomás reports a larger, brighter chamber sixty meters ahead off the route."}
+{"beat":67,"event":"Tomás adds he hears a sound, not monster or cave noise."}
+{"beat":68,"event":"Dayo's Combat Perception maps the party's positions."}
+{"beat":69,"event":"Dayo asks what kind of sound; Tomás answers 'Organized.'"}
+{"beat":70,"event":"The moths flash and shadows down the corridor seem to move deliberately."}
+{"beat":71,"event":"Dayo touches her bracer tally marks without adding one, and waits."}
