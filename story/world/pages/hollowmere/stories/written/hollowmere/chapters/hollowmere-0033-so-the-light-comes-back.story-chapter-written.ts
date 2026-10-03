@@ -100,4 +100,5 @@ export const hollowmere0033SoTheLightComesBack = {
     "character-other/hollowmere-amara",
     "character-other/hollowmere-priya",
   ],
+  reviewedBy: ["story-reviewer/style"],
 } as const satisfies StoryChapterWritten
