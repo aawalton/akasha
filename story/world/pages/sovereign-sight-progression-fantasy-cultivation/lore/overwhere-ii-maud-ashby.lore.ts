@@ -73,7 +73,7 @@ export const overwhereIiMaudAshby = {
     },
     {
       fact: "Sounding Nala, Maud feels her skin, muscle and bone refined whole, and her lungs, gut and liver.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Maud feels Nala's kidneys, the lesser organs and her heart still unrefined.",
