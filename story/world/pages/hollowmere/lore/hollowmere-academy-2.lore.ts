@@ -201,5 +201,13 @@ export const hollowmereAcademy2 = {
         "character-other/hollowmere-lin",
       ],
     },
+    {
+      fact: "The forge behind the east range is where students work metal foci: rings, nibs, small blades.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/hollowmere-kit",
+        "character-player/hollowmere-nala",
+      ],
+    },
   ],
 } as const satisfies Lore

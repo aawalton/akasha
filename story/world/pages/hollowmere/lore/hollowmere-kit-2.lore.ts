@@ -265,5 +265,9 @@ export const hollowmereKit2 = {
         "character-other/hollowmere-amara",
       ],
     },
+    {
+      fact: "Kit spends Tuesday late mornings at the forge, working a focus she has shown no one yet.",
+      knowers: ["lore-disclosure/game-master", "character-other/hollowmere-kit"],
+    },
   ],
 } as const satisfies Lore
