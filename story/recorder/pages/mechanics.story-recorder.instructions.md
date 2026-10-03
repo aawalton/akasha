@@ -19,4 +19,6 @@ What a character has and carries, items and money alike, is the inventory record
 
 Only the world builder defines a mechanic. Where a beat reaches a mechanic no page defines, or a number makes a beat impossible, such as a level-up the beats did not account for or a cost the character cannot pay, write one issue to a line in an issues file, naming the beat by number and what fails, at most 100 characters: `beat 4: Elsie has 2 mana and the spell costs 5`. The turn goes back to the game master to mend the beats.
 
+Work in one exhaustive pass: every beat against every mechanic you own, in order, before you hand anything in, and hand in every issue that pass finds. Each run of yours costs the whole turn a trip back to the game master, so a later pass finding an issue that was there before is a miss.
+
 Hand in nothing where the beats change no number and every beat can work. Do not write the prose or the beats, and do not judge style, pacing or taste.

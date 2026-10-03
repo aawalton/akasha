@@ -49,6 +49,8 @@ export const gameMaster = {
       warrant: "It goes on to the writer, so an issue left unanswered reaches the prose.",
       aids: [
         "The mechanics step's issues are the turn's `mechanicsIssues`; the reviewers' are its `issues`.",
+        "Answer every issue on the list before you advance; one left over sends the turn back.",
+        "After each mend, check the beats after it for what it moved: times, places, who knows what.",
         "Leave the beat as it is where the issue is wrong.",
         "An issue only about the prose leaves the beats as they are and goes on to the writer.",
         "Send an issue on a description to the world builder, and advance once it is landed.",
