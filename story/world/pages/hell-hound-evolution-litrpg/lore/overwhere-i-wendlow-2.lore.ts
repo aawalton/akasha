@@ -28,5 +28,9 @@ export const overwhereIWendlow2 = {
       fact: "From Antler Hall, each of these lies within a quarter hour's walk.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Grete knows the eye at once as a drake-pearl, and says an alchemist pays about four gold for one.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
