@@ -338,6 +338,17 @@ export const hollowmereShiv = {
         "character-other/hollowmere-shiv",
       ],
     },
+    {
+      fact: "Shiv's mother died last winter, and Shiv came to Hollowmere on the money she left.",
+      knowers: ["lore-disclosure/game-master", "character-player/hollowmere-nala"],
+    },
+    {
+      fact: "Shiv's mother swam the sea at Salthill every morning of her life, winter too, and taught Shiv there.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/hollowmere-shiv",
+        "character-player/hollowmere-nala",
+      ],
+    },
   ],
-  secrets: "jsonl",
 } as const satisfies Lore
