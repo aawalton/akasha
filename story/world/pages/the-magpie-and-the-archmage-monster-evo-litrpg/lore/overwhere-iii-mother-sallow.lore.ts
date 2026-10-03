@@ -102,7 +102,7 @@ export const overwhereIiiMotherSallow = {
     },
     {
       fact: "A holy pull tears at the blight in a blight mage's own well; it hurts her far worse than force.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
     {
       fact: "She carries a ritual knife and the bone ring; at her death her hoard of 40 glimmerstones drops.",
