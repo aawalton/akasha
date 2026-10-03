@@ -354,7 +354,7 @@ export const overwhereIWendlow = {
     },
     {
       fact: "Grete writes Nala's name in the roll ledger beside the date and her level.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
   ],
 } as const satisfies Place
