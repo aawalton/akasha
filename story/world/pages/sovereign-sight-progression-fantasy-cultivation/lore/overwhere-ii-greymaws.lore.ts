@@ -247,5 +247,25 @@ export const overwhereIiGreymaws = {
       fact: "All five greymaws Nala speared in the den and by the tarn have chambers cracked through.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Pushed with her tide, raw Sea-Water sinks into a whole greymaw chamber through the bone.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "A whole greymaw chamber holds raw Sea-Water fast; nothing seeps back out.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "A chamber holding raw Sea-Water goes ice-cold, and tugs faintly toward the pool it came from.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The tug is weak; the chamber stays put in a hand or a tied bag.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The black bead fills only a sliver of a greymaw chamber, which could hold far more.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
