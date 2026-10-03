@@ -8,7 +8,7 @@ export const shareSavings4300 = {
   definition: "money the family has, sitting in a savings account",
   monarchId: "148836208373274803",
   accountDisplayName: "Share Savings (...4300)",
-  currentBalance: 18043.93,
+  currentBalance: 18044.67,
   accountType: "depository",
   asset: true,
   accountActive: true,
