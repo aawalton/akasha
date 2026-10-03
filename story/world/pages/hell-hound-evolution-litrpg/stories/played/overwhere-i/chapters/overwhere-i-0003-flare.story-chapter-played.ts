@@ -11,6 +11,7 @@ export const overwhereI0003Flare = {
   story: "story-played/overwhere-i",
   ownLength: 1844,
   prose: "txt",
+  beats: "jsonl",
   turnCovers: [
     {
       position: 15,
