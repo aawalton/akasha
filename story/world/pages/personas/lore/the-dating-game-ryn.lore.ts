@@ -7,5 +7,11 @@ export const theDatingGameRyn = {
   title: "Ryn",
   world: "world/personas",
   about: "persona/ryn",
+  facts: [
+    {
+      fact: "Ryn has butterfly wings, gold and violet, which she never folds away.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+  ],
   secrets: "jsonl",
 } as const satisfies Lore
