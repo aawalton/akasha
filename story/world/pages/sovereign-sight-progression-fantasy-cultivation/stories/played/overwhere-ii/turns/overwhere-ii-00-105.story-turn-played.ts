@@ -7,7 +7,8 @@ export const overwhereIi00105 = {
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-ii"],
   position: 105,
-  stepStatus: "step-status/world-builder",
+  stepStatus: "step-status/game-master",
   action:
     "“Keep watch while I try some experiments.” I take a small amount of the black water from the runoff as my target and try to separate the blackness from the water, pushing one and pulling the other.",
+  lore: ["place/overwhere-ii-whitecombs"],
 } as const satisfies StoryTurnPlayed
