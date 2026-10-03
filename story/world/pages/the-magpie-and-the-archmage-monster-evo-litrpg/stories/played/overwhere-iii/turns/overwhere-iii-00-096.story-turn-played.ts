@@ -10,7 +10,7 @@ export const overwhereIii00096 = {
   position: 96,
   prose: "txt",
   characters: ["character-player/overwhere-iii-nala"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/game-master",
   action:
     "I hunt the board, when I get close, I cast my ward on myself first, then find the boar and hit it in the head with my braid until it dies",
   beats: [
@@ -31,12 +31,16 @@ export const overwhereIii00096 = {
     "Ten paces off the boar stands blowing hard, blood running down its snout, a plain hill boar now.",
     "It lowers its tusks at her and paws the frost.",
   ],
+  issues: [
+    '"The last of its blight comes away" - the boar takes about six pulls to draw clean, not three',
+    '"a plain hill boar now" - three pulls cannot clear a boar whose blight takes about six',
+  ],
   lore: [
     "lore/overwhere-iii-corruption-2",
     "lore/overwhere-iii-nala",
     "lore/overwhere-iii-nala-2",
     "lore/overwhere-iii-nala-2-2",
   ],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
   endsAt: "2026-10-10T14:17:00.000Z",
 } as const satisfies StoryTurnPlayed
