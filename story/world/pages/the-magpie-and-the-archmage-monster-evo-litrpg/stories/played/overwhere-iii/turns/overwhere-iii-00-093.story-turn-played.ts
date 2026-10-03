@@ -7,7 +7,7 @@ export const overwhereIii00093 = {
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iii"],
   position: 93,
-  stepStatus: "step-status/world-builder",
+  stepStatus: "step-status/game-master",
   action:
     "“Jackalopes.” I go out to the shrine and use ambient weaves to cleanse the five blightstones.",
 } as const satisfies StoryTurnPlayed
