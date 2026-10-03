@@ -1,5 +1,8 @@
 import { expect, test } from "bun:test"
-import { needsSettled } from "akasha/story/world/mechanics/modules/needs-weighing/needs-weighing.module.code.ts"
+import {
+  harmOver,
+  needsSettled,
+} from "akasha/story/world/mechanics/modules/needs-weighing/needs-weighing.module.code.ts"
 
 test("few hours of each need weigh nothing", () => {
   expect(needsSettled({ character: "nala", sinceDrink: 1, sinceMeal: 1, awake: 1 })).toEqual({
@@ -16,6 +19,14 @@ test("thirty hours without water is dying and does harm", () => {
   expect(
     needsSettled({ character: "nala", sinceDrink: 30, sinceMeal: 4, awake: 4 })
   ).toHaveProperty("answered.thirst", { weight: 30, stage: "dying", bonus: -4, harmPerHour: 3 })
+})
+
+test("a dry stretch crossing into dying takes each hour at its own stage", () => {
+  expect(harmOver("thirst", 23.5, 12)).toBe(6.5 + 5.5 * 3)
+})
+
+test("a dry stretch short of failing takes nothing", () => {
+  expect(harmOver("thirst", 10, 9)).toBe(0)
 })
 
 test("wet cold counts twice", () => {

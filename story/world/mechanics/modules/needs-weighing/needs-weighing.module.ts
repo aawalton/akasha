@@ -24,6 +24,10 @@ export const needsWeighing = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A stretch of hours takes each hour's harm at the stage that hour falls in.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement:
         "Every check weighing needs this way imports this rule rather than stating it again.",
     },

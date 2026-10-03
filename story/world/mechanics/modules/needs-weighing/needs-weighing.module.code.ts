@@ -65,6 +65,19 @@ function felt(need: Need, weight: number): Felt {
   }
 }
 
+export function harmOver(need: Need, from: number, hours: number): number {
+  const stages: readonly Stage[] = STAGES[need]
+  let start = 0
+  let harm = 0
+  for (const one of stages) {
+    const low = Math.max(from, start)
+    const high = Math.min(from + hours, one.under)
+    if (high > low) harm += (high - low) * one.harmPerHour
+    start = one.under
+  }
+  return harm
+}
+
 export function needsSettled(reading: unknown): Settled {
   const held = NEEDS.safeParse(reading)
   if (!held.success) return { refused: `needs read so: ${z.prettifyError(held.error)}` }

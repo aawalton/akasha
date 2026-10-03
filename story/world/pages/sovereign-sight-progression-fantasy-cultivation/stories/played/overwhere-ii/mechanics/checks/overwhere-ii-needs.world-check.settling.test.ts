@@ -18,6 +18,25 @@ test("a day without food leaves her hungry", () => {
   )
 })
 
+test("a night without water past thirty hours takes each hour's vigour at its own stage", () => {
+  expect(
+    settled({ character: NALA, sinceDrink: 23.5, sinceMeal: 23.5, awake: 11.5, dryHours: 12 })
+  ).toHaveProperty("answered.vigourLost", 23)
+})
+
+test("part of a failing hour costs a whole vigour", () => {
+  expect(
+    settled({ character: NALA, sinceDrink: 20, sinceMeal: 1, awake: 1, dryHours: 1.5 })
+  ).toHaveProperty("answered.vigourLost", 2)
+})
+
+test("a reading naming no dry hours takes no vigour", () => {
+  expect(settled({ character: NALA, sinceDrink: 25, sinceMeal: 1, awake: 1 })).toHaveProperty(
+    "answered.vigourLost",
+    0
+  )
+})
+
 test("a reading naming no character is refused", () => {
   expect(settled({ character: " ", sinceDrink: 1, sinceMeal: 1, awake: 1 })).toHaveProperty(
     "refused"

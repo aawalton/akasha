@@ -91,6 +91,11 @@ export const overwhereIiNeeds = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "A reading's dry hours take each hour's vigour at the thirst stage it falls in, rounded up.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "Bare feet on stony lanes sting but, on her toughened soles, never cut.",
     },
     {
