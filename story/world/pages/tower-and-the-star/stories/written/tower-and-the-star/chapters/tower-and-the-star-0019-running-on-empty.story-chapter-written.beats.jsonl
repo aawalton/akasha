@@ -1,0 +1,71 @@
+{"beat":1,"event":"The party comes through the Gate onto Floor 19, the air thick with ash.","at":"2000-01-09T08:00:00.000Z","place":"place/tower-and-the-star-floor-19-ash-plain","present":["character-other/tower-and-the-star-solenne","character-other/tower-and-the-star-dayo","character-other/tower-and-the-star-miriam","character-other/tower-and-the-star-vesper","character-other/tower-and-the-star-tomas","character-other/tower-and-the-star-nadia"],"changes":[{"page":"world-metric/tower-and-the-star-highest-floor-reached","key":"value","from":18,"to":19,"note":"The party reaches Floor 19"}]}
+{"beat":2,"event":"The System flags a Sustained Environmental Drain: recovery coefficient 0.65."}
+{"beat":3,"event":"Solenne reads the drain notation and writes it down."}
+{"beat":4,"event":"Tomás reads the Ash Plain: deep ash and irregularly pulsing thermal fissures."}
+{"beat":5,"event":"Tomás chalks notation in the ash and says he needs two encounter sets to model the vents."}
+{"beat":6,"event":"Tomás says: 'This is what I have.'"}
+{"beat":7,"event":"Dayo puts Miriam and Nadia in the protected quadrant."}
+{"beat":8,"event":"Nadia checks her Pattern Break readout; her Brightspirit signal reads clean."}
+{"beat":9,"event":"In the first encounter, three Ashborn Drifters come out of the thermal corridors."}
+{"beat":10,"event":"Tomás calls 'left' and Dayo is already there."}
+{"beat":11,"event":"Vesper, her attacks useless on fire-immune Drifters, constrains angles with barriers."}
+{"beat":12,"event":"Nadia's Pattern Break pulls the flanking Drifter for four seconds."}
+{"beat":13,"event":"Dayo clears the primary two in forty seconds; Tomás and Vesper close on the third."}
+{"beat":14,"event":"Tomás updates his vent data with three new points."}
+{"beat":15,"event":"Nadia says 'Good'; her signal reads at full register."}
+{"beat":16,"event":"In the second encounter a vent shift turns a safe angle into a spawn point."}
+{"beat":17,"event":"A fourth Drifter arrives from an unmodeled vector; Dayo moves to contain it."}
+{"beat":18,"event":"Miriam takes a partial hit from the third Drifter."}
+{"beat":19,"event":"Miriam casts full Mending Touch on the unhurt Dayo, drawing a Drifter's aggro."}
+{"beat":20,"event":"Miriam's armor takes two more partial hits before Dayo clears the redirected Drifter."}
+{"beat":21,"event":"The encounter ends in fifty-five seconds."}
+{"beat":22,"event":"Solenne reads Miriam's Warmhearted signal a degree cooler."}
+{"beat":23,"event":"Solenne shifts coverage fifteen degrees, overlapping Miriam's area with Nadia's."}
+{"beat":24,"event":"Solenne writes 'Ceiling' in the notebook margin and closes it."}
+{"beat":25,"event":"Nadia checks her Pattern Break cooldown; her MP is at 71 percent."}
+{"beat":26,"event":"Nadia says 'Good' again, in a slightly thinner voice."}
+{"beat":27,"event":"In the third encounter Tomás flags both vectors early; it ends in forty seconds."}
+{"beat":28,"event":"Miriam takes an MP inventory with her clinical notebook open."}
+{"beat":29,"event":"Solenne makes a smaller secondary formation adjustment in her head."}
+{"beat":30,"event":"Nadia says nothing after the encounter; her performance layer has stopped."}
+{"beat":31,"event":"Before the fourth encounter Solenne reads Nadia's signal at its lowest since Floor 11."}
+{"beat":32,"event":"Solenne weighs narrowing Nadia's Pattern Break window, knowing Nadia would notice."}
+{"beat":33,"event":"Tomás tells her he knows what she is calculating, and says nothing else."}
+{"beat":34,"event":"Solenne neither confirms nor denies; the encounter opens."}
+{"beat":35,"event":"A Drifter comes from the predicted vector, one degree off the predicted angle."}
+{"beat":36,"event":"The variance puts it 0.4 seconds outside Nadia's Pattern Break window."}
+{"beat":37,"event":"Miriam steps between the Drifter and Tomás and redirects it."}
+{"beat":38,"event":"The redirection throws Tomás into the wall at 62/362 HP, Near-Downed."}
+{"beat":39,"event":"Vesper's geometry closes on the Drifter and Dayo clears it in four seconds."}
+{"beat":40,"event":"Tomás sits up in the ash and checks his own status."}
+{"beat":41,"event":"The System resolves Near-Downed status and marks combat complete."}
+{"beat":42,"event":"Nadia stands very still, looking at where Tomás landed, her performance layer down."}
+{"beat":43,"event":"Solenne's status display notes a 0.4-second defensive response delay."}
+{"beat":44,"event":"Tomás is on his feet within two minutes and keeps up the floor notation."}
+{"beat":45,"event":"The System marks the rest node eighteen minutes away."}
+{"beat":46,"event":"On the walk, Dayo runs a practical debrief, naming the variance as a data point."}
+{"beat":47,"event":"Tomás adds two vent observations; Vesper confirms she can replicate her adaptation."}
+{"beat":48,"event":"Nadia walks in formation and says nothing."}
+{"beat":49,"event":"The party reaches the rest node, where the recovery coefficient is back to 1.0.","at":"2000-01-09T13:00:00.000Z","place":"place/tower-and-the-star-floor-19-rest-node"}
+{"beat":50,"event":"Nadia sits against the wall where the walk ended, not in her usual corner."}
+{"beat":51,"event":"Tomás settles at the adjacent angle and works on his notation."}
+{"beat":52,"event":"The debrief ends and the next encounter set is discussed."}
+{"beat":53,"event":"The rest node shows Nadia MP 86/408, Miriam 97/420, Tomás HP recovering to 285/362."}
+{"beat":54,"event":"Miriam crosses the rest node and sits an arm's length from Nadia, not asking anything."}
+{"beat":55,"event":"A long time passes with both looking at the ash floor."}
+{"beat":56,"event":"Nadia says Miriam came across and she didn't see her; she was at 0.4 seconds."}
+{"beat":57,"event":"Nadia says she knew Miriam would be there, fast enough every time."}
+{"beat":58,"event":"Nadia says that's not the same as knowing she would be."}
+{"beat":59,"event":"Miriam says nothing and stays."}
+{"beat":60,"event":"Across the node, Solenne reads Nadia's Brightspirit open, not fractured."}
+{"beat":61,"event":"Solenne thinks of writing '0.4 seconds' but doesn't."}
+{"beat":62,"event":"Solenne thinks over 102 events, RES 20, and the chord."}
+{"beat":63,"event":"Solenne concludes the chord is ready and the party is not."}
+{"beat":64,"event":"Solenne opens the notebook, writes nothing, and deliberately closes it."}
+{"beat":65,"event":"Solenne puts the notebook in her pack."}
+{"beat":66,"event":"Vesper fetches a modified Mana Vial and sets it within Miriam's reach without a word."}
+{"beat":67,"event":"Vesper returns to her Workframe inscription."}
+{"beat":68,"event":"Dayo checks the shoulder armor that took the Floor 18 Lurker hit; Tomás updates his model."}
+{"beat":69,"event":"After a while Miriam picks up the vial and drinks it without looking at Vesper."}
+{"beat":70,"event":"Nadia's Brightspirit signal strengthens slightly."}
+{"beat":71,"event":"The rest node keeps recovering them; Nadia and Miriam sit on, neither moving."}

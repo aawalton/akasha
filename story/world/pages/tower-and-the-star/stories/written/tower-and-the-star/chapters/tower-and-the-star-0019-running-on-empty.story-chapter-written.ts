@@ -10,4 +10,6 @@ export const towerAndTheStar0019RunningOnEmpty = {
   ownLength: 3949,
   unit: "unit/words",
   prose: "txt",
+  stepStatus: "step-status/player",
+  beats: "jsonl",
 } as const satisfies StoryChapterWritten
