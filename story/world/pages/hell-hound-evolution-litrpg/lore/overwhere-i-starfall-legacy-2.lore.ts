@@ -336,5 +336,9 @@ export const overwhereIStarfallLegacy2 = {
       fact: "A steam clean or a hot-wind dry costs 10 mana a minute; each takes about three minutes.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "No Starfall weave mends linen or leather; plant fibre and hide answer to no element.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
