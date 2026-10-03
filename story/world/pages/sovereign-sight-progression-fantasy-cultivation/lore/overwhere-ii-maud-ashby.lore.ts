@@ -101,7 +101,7 @@ export const overwhereIiMaudAshby = {
     },
     {
       fact: "Shaken by the floorless well, Maud draws her hand back and is quiet a long moment.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Maud then asks Nala plainly where she came from, and where she first woke.",
