@@ -53,7 +53,7 @@ export const overwhereIiVarrowTalented = {
     },
     {
       fact: "Corra is curious about Nala, and a little jealous of the Lady's notice.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Sir Edric seldom trains with the others; at his years he keeps to drills with Hawise alone.",
