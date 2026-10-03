@@ -208,6 +208,14 @@ export const overwhereIiiMotherSallow = {
         "character-other/overwhere-iii-mother-sallow",
       ],
     },
+    {
+      fact: "Sallow commanded the wolves and was corrupted; when Nala confronted her, her face changed.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iii-nala",
+        "character-other/overwhere-iii-edda-crane",
+      ],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
