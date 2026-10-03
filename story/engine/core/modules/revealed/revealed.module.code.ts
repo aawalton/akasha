@@ -5,6 +5,7 @@ export const RevealedSheetSchema = z.object({
   kind: z.string().optional(),
   level: z.number().optional(),
   class: z.string().optional(),
+  rank: z.string().optional(),
   status: z.string().optional(),
   attributes: z.record(z.string(), z.unknown()).optional(),
   resources: z.record(z.string(), z.unknown()).optional(),

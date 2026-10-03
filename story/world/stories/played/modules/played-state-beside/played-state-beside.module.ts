@@ -48,7 +48,7 @@ export const playedStateBeside = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "The species, class, conditions and legacies drawn are the pages naming the character.",
+        "The species, class, rank, conditions and legacies drawn are the pages naming the character.",
     },
     {
       decisionKind: "decision-kind/departure",

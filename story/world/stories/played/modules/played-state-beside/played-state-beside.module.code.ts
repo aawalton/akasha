@@ -22,6 +22,7 @@ import { metricCharacterAttribute } from "akasha/story/world/mechanics/metrics/m
 
 import { metricCharacterResource } from "akasha/story/world/mechanics/metrics/metric-character/resource/metric-character-resource.page-type.ts"
 import { worldQuest } from "akasha/story/world/mechanics/quests/world-quest.page-type.ts"
+import { worldRank } from "akasha/story/world/mechanics/ranks/world-rank.page-type.ts"
 import { worldRelationship } from "akasha/story/world/mechanics/relationships/world-relationship.page-type.ts"
 import { worldSkill } from "akasha/story/world/mechanics/skills/world-skill.page-type.ts"
 import { worldSpecies } from "akasha/story/world/mechanics/species/world-species.page-type.ts"
@@ -100,6 +101,7 @@ export type Filed = {
   readonly legacies: readonly Skill[]
   readonly species?: string
   readonly calling?: string
+  readonly rank?: string
   readonly status?: string
   readonly quests: readonly Quest[]
   readonly bonds: readonly Counted[]
@@ -174,6 +176,7 @@ const HELD_KINDS: readonly (readonly [string, string])[] = [
   [worldClass.slug, CLASS_KEY],
   [worldCondition.slug, CONDITION_KEY],
   [worldLegacy.slug, LEGACY_KEY],
+  [worldRank.slug, RANK_KEY],
 ]
 
 const RANKED = new Set([LEGACY_KEY])
@@ -276,7 +279,8 @@ async function readFiled(character: string, turn: number): Promise<Filed> {
   const heldAsked = await Promise.all(
     HELD_KINDS.map(async ([type, key]) => rowsOf(await askedHeld(type, key, character)))
   )
-  const [speciesRows = [], classRows = [], conditionRows = [], legacyRows = []] = heldAsked
+  const [speciesRows = [], classRows = [], conditionRows = [], legacyRows = [], rankRows = []] =
+    heldAsked
   const skillRows = rowsOf(holdings)
   const bondRows = rowsOf(bonds)
   const attunementRows = rowsOf(attunements)
@@ -292,6 +296,7 @@ async function readFiled(character: string, turn: number): Promise<Filed> {
         ...classRows,
         ...conditionRows,
         ...legacyRows,
+        ...rankRows,
       ],
       [SKILL_KEY, RANK_KEY, CHARACTERS_KEY, ELEMENT_KEY, TRAIT_KEY, ...HELD_KINDS.map(([, k]) => k)]
     )
@@ -302,6 +307,7 @@ async function readFiled(character: string, turn: number): Promise<Filed> {
   }
   const species = namesOf(speciesRows, SPECIES_KEY)
   const calling = namesOf(classRows, CLASS_KEY)
+  const rank = namesOf(rankRows, RANK_KEY)
   const status = namesOf(conditionRows, CONDITION_KEY)
   const resourceRows = rowsOf(resources)
   const pools = poolsIn(resourceRows, turn)
@@ -320,6 +326,7 @@ async function readFiled(character: string, turn: number): Promise<Filed> {
     legacies: heldIn(legacyRows, LEGACY_KEY, titles, descriptions),
     ...(species === undefined ? {} : { species }),
     ...(calling === undefined ? {} : { calling }),
+    ...(rank === undefined ? {} : { rank }),
     ...(status === undefined ? {} : { status }),
     quests: questsIn(rowsOf(quests)),
     bonds: bondsIn(bondRows, character, titles),
@@ -339,6 +346,7 @@ function filedNothing(filed: Filed): boolean {
     filed.legacies.length === 0 &&
     filed.species === undefined &&
     filed.calling === undefined &&
+    filed.rank === undefined &&
     filed.status === undefined &&
     filed.quests.length === 0 &&
     filed.bonds.length === 0 &&
@@ -365,6 +373,7 @@ function sheetOf(filed: Filed): RevealedSheet {
     ...(filed.legacies.length === 0 ? {} : { legacies: [...filed.legacies] }),
     ...(filed.species === undefined ? {} : { kind: filed.species }),
     ...(filed.calling === undefined ? {} : { class: filed.calling }),
+    ...(filed.rank === undefined ? {} : { rank: filed.rank }),
     ...(filed.status === undefined ? {} : { status: filed.status }),
     ...(filed.bonds.length === 0 ? {} : { bonds: [...filed.bonds] }),
     ...(filed.attunements.length === 0 ? {} : { affinities: [...filed.attunements] }),

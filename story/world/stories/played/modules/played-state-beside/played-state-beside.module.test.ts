@@ -107,3 +107,13 @@ test("a species, class, status and legacies filed are drawn on the sheet", () =>
   })
   expect(GameStateSchema.safeParse(state).success).toBe(true)
 })
+
+test("a rank filed is drawn on the sheet beside the class, and alone is still a state", () => {
+  const state = stateOf({ ...NOTHING, calling: "Berserker", rank: "E" }, 1, "Tamsin")
+  expect(state?.revealed).toEqual({ name: "Tamsin", class: "Berserker", rank: "E" })
+  expect(stateOf({ ...NOTHING, rank: "F" }, 1, "Tilly")?.revealed).toEqual({
+    name: "Tilly",
+    rank: "F",
+  })
+  expect(GameStateSchema.safeParse(state).success).toBe(true)
+})

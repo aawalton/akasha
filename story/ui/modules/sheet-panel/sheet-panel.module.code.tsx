@@ -214,6 +214,7 @@ function StatsTab({
   const profile: Record<string, string> = {
     ...(sheet.kind != null ? { Species: sheet.kind } : {}),
     ...(sheet.class != null ? { Class: sheet.class } : {}),
+    ...(sheet.rank != null ? { Rank: sheet.rank } : {}),
     ...(sheet.status != null ? { Status: sheet.status } : {}),
   }
   return (

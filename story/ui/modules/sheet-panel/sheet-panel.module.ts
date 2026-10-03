@@ -47,7 +47,8 @@ export const sheetPanel = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The stats tab opens on the character's species, class and status, where shown.",
+      statement:
+        "The stats tab opens on the character's species, class, rank and status, where shown.",
     },
     {
       decisionKind: "decision-kind/departure",
