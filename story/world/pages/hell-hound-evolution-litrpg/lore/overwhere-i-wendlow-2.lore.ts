@@ -20,5 +20,9 @@ export const overwhereIWendlow2 = {
       fact: "Mother Sallow is an alchemist by the river stairs; she buys monster parts for her draughts.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "For a focus Grete names Ilse Varrow, whose shop is the blue door on Glass Street.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
