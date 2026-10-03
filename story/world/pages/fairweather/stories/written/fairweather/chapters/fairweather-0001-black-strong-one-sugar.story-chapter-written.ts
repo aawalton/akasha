@@ -11,7 +11,7 @@ export const fairweather0001BlackStrongOneSugar = {
   story: "story-written/fairweather",
   ownLength: 8370,
   prose: "txt",
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   beats: "jsonl",
   mechanicsSentBack: true,
   issues: [
@@ -61,6 +61,7 @@ export const fairweather0001BlackStrongOneSugar = {
     "story-recorder/mechanics",
     "story-recorder/plan",
     "story-recorder/picture",
+    "story-recorder/memory",
   ],
   scenes: [
     "image/image-be916eb145fde6e6",

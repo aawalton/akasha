@@ -38,7 +38,12 @@ export const fairweatherElsie = {
     },
     {
       fact: "Elsie says I love you to her friends freely, out loud, and means it every time.",
-      knowers: ["lore-disclosure/game-master", "character-player/fairweather-elsie"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-tamsin",
+        "character-other/fairweather-tilly",
+      ],
     },
     {
       fact: "Elsie holds hands, falls asleep on shoulders, and tells each girl she is her favourite person.",
@@ -98,7 +103,7 @@ export const fairweatherElsie = {
     },
     {
       fact: "Elsie's class is Enthraller, and she is level 1 with the skills Captivate and Tether.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/fairweather-elsie"],
     },
     {
       fact: "In Elsie's hands Captivate never compels: it makes the one it touches feel seen.",
@@ -118,11 +123,33 @@ export const fairweatherElsie = {
     },
     {
       fact: "Elsie has never once used her class to make anyone feel anything.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-cora",
+        "character-other/fairweather-tamsin",
+        "character-other/fairweather-tilly",
+      ],
     },
     {
       fact: "Elsie's mother taught her moonbells: blue night-blooming flowers she brewed into fever draughts.",
-      knowers: ["lore-disclosure/game-master", "character-player/fairweather-elsie"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-tilly",
+        "character-other/fairweather-tamsin",
+        "character-other/fairweather-cora",
+      ],
+    },
+    {
+      fact: "Elsie Fairweather's class is Enthraller.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-cora",
+        "character-other/fairweather-tamsin",
+        "character-other/fairweather-tilly",
+      ],
     },
   ],
 } as const satisfies Lore

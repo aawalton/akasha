@@ -9,5 +9,5 @@ export const fairweatherElsieEnthraller = {
   description: "A class that draws its power from bonds, from what people feel toward the caster.",
   character: "character-player/fairweather-elsie",
   class: "world-class/fairweather-enthraller",
-  unrevealed: true,
+  unrevealed: false,
 } as const satisfies CharacterClass

@@ -18,11 +18,19 @@ export const fairweatherTilly = {
     },
     {
       fact: "Tilly has fair skin with soot on one cheek, big bright blue eyes, and a quick, lopsided smile.",
-      knowers: ["lore-disclosure/game-master", "character-other/fairweather-tilly"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/fairweather-tilly",
+        "character-player/fairweather-elsie",
+      ],
     },
     {
       fact: "Tilly's blonde hair is in two long braids with singed ends, brass goggles pushed up on her head.",
-      knowers: ["lore-disclosure/game-master", "character-other/fairweather-tilly"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/fairweather-tilly",
+        "character-player/fairweather-elsie",
+      ],
     },
     {
       fact: "Tilly has tiny breasts with pale pink nipples, and a wisp of blonde hair over her pussy.",
@@ -30,11 +38,19 @@ export const fairweatherTilly = {
     },
     {
       fact: "Tilly wears a cream blouse with rolled sleeves, a too-big scorched apron and a belt of corked vials.",
-      knowers: ["lore-disclosure/game-master", "character-other/fairweather-tilly"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/fairweather-tilly",
+        "character-player/fairweather-elsie",
+      ],
     },
     {
       fact: "Tilly talks fast, faster when nervous, and apologises before anything has gone wrong.",
-      knowers: ["lore-disclosure/game-master", "character-other/fairweather-tilly"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/fairweather-tilly",
+        "character-player/fairweather-elsie",
+      ],
     },
     {
       fact: "Tilly is a genius at alchemy and sure she is a disaster.",
@@ -46,7 +62,11 @@ export const fairweatherTilly = {
     },
     {
       fact: "The Alchemists' College threw Tilly out last week, after her brew blew out its east lab windows.",
-      knowers: ["lore-disclosure/game-master", "character-other/fairweather-tilly"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/fairweather-tilly",
+        "character-player/fairweather-elsie",
+      ],
     },
     {
       fact: "Tilly registered with the guild three days ago, and no party has taken her.",
@@ -54,15 +74,29 @@ export const fairweatherTilly = {
     },
     {
       fact: "Tilly's father is a clockmaker on Gear Street who thinks she is still at the College.",
-      knowers: ["lore-disclosure/game-master", "character-other/fairweather-tilly"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/fairweather-tilly",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-tamsin",
+      ],
     },
     {
       fact: "Tilly lodges in a boarding house on Pickle Row, in a room that smells of sulphur.",
-      knowers: ["lore-disclosure/game-master", "character-other/fairweather-tilly"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/fairweather-tilly",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-tamsin",
+      ],
     },
     {
       fact: "Tilly has never been sure whether she likes girls or just likes them very much.",
       knowers: ["lore-disclosure/game-master", "character-other/fairweather-tilly"],
+    },
+    {
+      fact: "Tilly Brandt is an Alchemist of F-rank.",
+      knowers: ["lore-disclosure/game-master", "character-player/fairweather-elsie"],
     },
   ],
   secrets: "jsonl",

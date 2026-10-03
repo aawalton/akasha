@@ -1,4 +1,6 @@
 {"propertySlug":"characters","path":"story/world/pages/fairweather/stories/written/fairweather/chapters/fairweather-0001-black-strong-one-sugar.story-chapter-written.ts","id":"01a102a0-254d-78bc-af8f-82a070b940ba"}
+{"propertySlug":"characters","path":"story/world/pages/fairweather/stories/written/fairweather/mechanics/relationships/fairweather-elsie-tamsin.world-relationship.ts","id":"01a10321-4a85-7a65-973b-6efff5607ff2"}
+{"propertySlug":"characters","path":"story/world/pages/fairweather/stories/written/fairweather/mechanics/relationships/fairweather-elsie-tilly.world-relationship.ts","id":"01a10321-4a85-748a-b3d0-6471dc34d87c"}
 {"propertySlug":"class-character","path":"story/world/pages/fairweather/stories/written/fairweather/mechanics/classes-held/fairweather-elsie-enthraller.character-class.ts","id":"01a102af-305c-7885-b97a-56082fe2b625"}
 {"propertySlug":"item-character","path":"story/world/pages/fairweather/stories/written/fairweather/items/fairweather-adventurers-outfit.story-item.ts","id":"01a102af-305c-76c7-afa8-d5a20aa37ad0"}
 {"propertySlug":"item-character","path":"story/world/pages/fairweather/stories/written/fairweather/items/fairweather-attic-key.story-item.ts","id":"01a102af-305c-7e34-8c9d-70cb77e2e06a"}
@@ -9,7 +11,10 @@
 {"propertySlug":"item-character","path":"story/world/pages/fairweather/stories/written/fairweather/items/fairweather-plant-crate.story-item.ts","id":"01a102af-305c-79cd-a0dc-1d2b62c75cd6"}
 {"propertySlug":"item-character","path":"story/world/pages/fairweather/stories/written/fairweather/items/fairweather-water-flask.story-item.ts","id":"01a10305-5084-74ec-92a1-5c5c7f604caf"}
 {"propertySlug":"lore-about","path":"story/world/pages/fairweather/lore/fairweather-elsie.lore.ts","id":"01a102af-305b-75fd-9216-abb5a2e7bac6"}
+{"propertySlug":"lore-knowers","path":"story/world/pages/fairweather/lore/fairweather-cora.lore.ts","id":"01a102af-305a-761e-b912-30f9bb675f2d"}
 {"propertySlug":"lore-knowers","path":"story/world/pages/fairweather/lore/fairweather-elsie.lore.ts","id":"01a102af-305b-75fd-9216-abb5a2e7bac6"}
+{"propertySlug":"lore-knowers","path":"story/world/pages/fairweather/lore/fairweather-tamsin.lore.ts","id":"01a102af-305b-752b-8db1-4beab20b8a77"}
+{"propertySlug":"lore-knowers","path":"story/world/pages/fairweather/lore/fairweather-tilly.lore.ts","id":"01a102af-305b-72c4-9abd-15bcc7901682"}
 {"propertySlug":"lore-knowers","path":"story/world/pages/fairweather/lore/fairweather-world.lore.ts","id":"01a102af-305b-7afc-9635-334e3585d3b1"}
 {"propertySlug":"lore-knowers","path":"story/world/pages/fairweather/places/fairweather-guild-hall.place.ts","id":"01a102af-305b-7db6-bb17-c8e7a115ede2"}
 {"propertySlug":"lore-knowers","path":"story/world/pages/fairweather/places/fairweather-hall-of-naming.place.ts","id":"01a102af-305b-796e-8e56-39b5d004a564"}

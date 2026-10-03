@@ -70,6 +70,8 @@ export const fairweatherLanternmere = {
         "lore-disclosure/game-master",
         "character-other/fairweather-tamsin",
         "character-other/fairweather-tilly",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-cora",
       ],
     },
     {
@@ -79,6 +81,7 @@ export const fairweatherLanternmere = {
         "character-other/fairweather-cora",
         "character-other/fairweather-tamsin",
         "character-other/fairweather-tilly",
+        "character-player/fairweather-elsie",
       ],
     },
     {
@@ -87,6 +90,19 @@ export const fairweatherLanternmere = {
         "lore-disclosure/game-master",
         "character-player/fairweather-elsie",
         "character-other/fairweather-cora",
+        "character-other/fairweather-tamsin",
+        "character-other/fairweather-tilly",
+      ],
+    },
+    {
+      fact: "The Glasswood lies out past Lanternmere's east gate.",
+      knowers: ["lore-disclosure/game-master", "character-player/fairweather-elsie"],
+    },
+    {
+      fact: "At the Tipsy Heron a supper of stew and bread costs four pips.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/fairweather-elsie",
         "character-other/fairweather-tamsin",
         "character-other/fairweather-tilly",
       ],

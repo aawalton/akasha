@@ -18,11 +18,19 @@ export const fairweatherTamsin = {
     },
     {
       fact: "Tamsin has fair skin heavy with sun freckles, bright green eyes and a crooked grin.",
-      knowers: ["lore-disclosure/game-master", "character-other/fairweather-tamsin"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/fairweather-tamsin",
+        "character-player/fairweather-elsie",
+      ],
     },
     {
       fact: "Tamsin's hair is a wild mass of copper curls, barely tied back.",
-      knowers: ["lore-disclosure/game-master", "character-other/fairweather-tamsin"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/fairweather-tamsin",
+        "character-player/fairweather-elsie",
+      ],
     },
     {
       fact: "Tamsin has small firm freckled breasts with rosy nipples, and copper curls over her pussy.",
@@ -34,7 +42,11 @@ export const fairweatherTamsin = {
     },
     {
       fact: "Tamsin fights with a great axe she calls Margery.",
-      knowers: ["lore-disclosure/game-master", "character-other/fairweather-tamsin"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/fairweather-tamsin",
+        "character-player/fairweather-elsie",
+      ],
     },
     {
       fact: "Tamsin is loud, tough and quick to laugh, and ashamed to the bone.",
@@ -46,7 +58,11 @@ export const fairweatherTamsin = {
     },
     {
       fact: "In her Frenzy Tamsin blacks out and cannot tell friend from foe until it burns out.",
-      knowers: ["lore-disclosure/game-master", "character-other/fairweather-tamsin"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/fairweather-tamsin",
+        "character-player/fairweather-elsie",
+      ],
     },
     {
       fact: "Three parties have dropped Tamsin after she hurt a teammate in her Frenzy.",
@@ -54,7 +70,13 @@ export const fairweatherTamsin = {
     },
     {
       fact: "This morning the Copper Hounds dropped Tamsin, after she broke their shield-bearer's arm.",
-      knowers: ["lore-disclosure/game-master", "character-other/fairweather-tamsin"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/fairweather-tamsin",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-tilly",
+        "character-other/fairweather-cora",
+      ],
     },
     {
       fact: "Tamsin grew up on a canal barge, and her mother still runs it on the Long Cut.",
@@ -63,6 +85,14 @@ export const fairweatherTamsin = {
     {
       fact: "Tamsin likes girls and says so loudly; she has kissed plenty and loved none.",
       knowers: ["lore-disclosure/game-master", "character-other/fairweather-tamsin"],
+    },
+    {
+      fact: "Tamsin Reyes is a Berserker of E-rank.",
+      knowers: ["lore-disclosure/game-master", "character-player/fairweather-elsie"],
+    },
+    {
+      fact: "Tamsin has a bunk at a lodging house by the docks.",
+      knowers: ["lore-disclosure/game-master"],
     },
   ],
   secrets: "jsonl",

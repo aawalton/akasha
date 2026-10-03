@@ -55,6 +55,7 @@ export const fairweatherWorld = {
         "character-other/fairweather-cora",
         "character-other/fairweather-tamsin",
         "character-other/fairweather-tilly",
+        "character-player/fairweather-elsie",
       ],
     },
     {
@@ -93,15 +94,24 @@ export const fairweatherWorld = {
         "character-other/fairweather-cora",
         "character-other/fairweather-tamsin",
         "character-other/fairweather-tilly",
+        "character-player/fairweather-elsie",
       ],
     },
     {
       fact: "An Enthraller's Warden writes down every skill she uses and reports it to the guildmaster.",
-      knowers: ["lore-disclosure/game-master", "character-other/fairweather-cora"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/fairweather-cora",
+        "character-player/fairweather-elsie",
+      ],
     },
     {
       fact: "Under the Accord an Enthraller may use a skill on no one who has not agreed, unless it saves a life.",
-      knowers: ["lore-disclosure/game-master", "character-other/fairweather-cora"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/fairweather-cora",
+        "character-player/fairweather-elsie",
+      ],
     },
     {
       fact: "A Warden may sever any bond an Enthraller makes, and the guild may order every one severed.",
@@ -154,6 +164,10 @@ export const fairweatherWorld = {
         "character-other/fairweather-tamsin",
         "character-other/fairweather-tilly",
       ],
+    },
+    {
+      fact: "Lanternmere still whispers of Vesper Locke and the War of Strings at the word Enthraller.",
+      knowers: ["lore-disclosure/game-master", "character-player/fairweather-elsie"],
     },
   ],
   secrets: "jsonl",

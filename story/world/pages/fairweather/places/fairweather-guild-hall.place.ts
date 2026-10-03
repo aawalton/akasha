@@ -25,6 +25,7 @@ export const fairweatherGuildHall = {
         "character-other/fairweather-cora",
         "character-other/fairweather-tamsin",
         "character-other/fairweather-tilly",
+        "character-player/fairweather-elsie",
       ],
     },
     {
@@ -34,6 +35,7 @@ export const fairweatherGuildHall = {
         "character-other/fairweather-cora",
         "character-other/fairweather-tamsin",
         "character-other/fairweather-tilly",
+        "character-player/fairweather-elsie",
       ],
     },
     {
@@ -43,6 +45,7 @@ export const fairweatherGuildHall = {
         "character-other/fairweather-cora",
         "character-other/fairweather-tamsin",
         "character-other/fairweather-tilly",
+        "character-player/fairweather-elsie",
       ],
     },
     {
@@ -52,6 +55,7 @@ export const fairweatherGuildHall = {
         "character-other/fairweather-cora",
         "character-other/fairweather-tamsin",
         "character-other/fairweather-tilly",
+        "character-player/fairweather-elsie",
       ],
     },
     {
@@ -61,6 +65,7 @@ export const fairweatherGuildHall = {
         "character-other/fairweather-cora",
         "character-other/fairweather-tamsin",
         "character-other/fairweather-tilly",
+        "character-player/fairweather-elsie",
       ],
     },
     {
@@ -69,6 +74,7 @@ export const fairweatherGuildHall = {
         "lore-disclosure/game-master",
         "character-other/fairweather-cora",
         "character-other/fairweather-tamsin",
+        "character-player/fairweather-elsie",
       ],
     },
     {
@@ -77,6 +83,8 @@ export const fairweatherGuildHall = {
         "lore-disclosure/game-master",
         "character-other/fairweather-tamsin",
         "character-other/fairweather-tilly",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-cora",
       ],
     },
     {
@@ -85,6 +93,8 @@ export const fairweatherGuildHall = {
         "lore-disclosure/game-master",
         "character-other/fairweather-tamsin",
         "character-other/fairweather-tilly",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-cora",
       ],
     },
     {
@@ -93,6 +103,8 @@ export const fairweatherGuildHall = {
         "lore-disclosure/game-master",
         "character-other/fairweather-tamsin",
         "character-other/fairweather-tilly",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-cora",
       ],
     },
   ],

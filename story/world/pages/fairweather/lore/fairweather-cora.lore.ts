@@ -18,11 +18,19 @@ export const fairweatherCora = {
     },
     {
       fact: "Cora has fair skin, cool grey eyes, straight dark brows, and a mouth that rarely smiles.",
-      knowers: ["lore-disclosure/game-master", "character-other/fairweather-cora"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/fairweather-cora",
+        "character-player/fairweather-elsie",
+      ],
     },
     {
       fact: "Cora's glossy black hair is pulled into a severe low bun, never a strand loose.",
-      knowers: ["lore-disclosure/game-master", "character-other/fairweather-cora"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/fairweather-cora",
+        "character-player/fairweather-elsie",
+      ],
     },
     {
       fact: "Cora has small high breasts with pale pink nipples, and a neat dark triangle over her pussy.",
@@ -34,7 +42,11 @@ export const fairweatherCora = {
     },
     {
       fact: "Cora carries a black leather ledger and writes everything down in a small, exact hand.",
-      knowers: ["lore-disclosure/game-master", "character-other/fairweather-cora"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/fairweather-cora",
+        "character-player/fairweather-elsie",
+      ],
     },
     {
       fact: "Cora is stern, exact and by the book, and believes rules are what keep people safe.",
@@ -62,11 +74,23 @@ export const fairweatherCora = {
     },
     {
       fact: "Cora drinks her tea black and strong with one sugar, and nobody has ever asked how she takes it.",
-      knowers: ["lore-disclosure/game-master", "character-other/fairweather-cora"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/fairweather-cora",
+        "character-player/fairweather-elsie",
+      ],
     },
     {
       fact: "Cora has wanted girls, quietly, and has never let herself have one.",
       knowers: ["lore-disclosure/game-master", "character-other/fairweather-cora"],
+    },
+    {
+      fact: "The Warden Corisande Vane is called Cora.",
+      knowers: ["lore-disclosure/game-master", "character-player/fairweather-elsie"],
+    },
+    {
+      fact: "Cora's grandmother lights five candles nightly in a window above a corner shop on Lantern Square.",
+      knowers: ["lore-disclosure/game-master"],
     },
   ],
   secrets: "jsonl",
