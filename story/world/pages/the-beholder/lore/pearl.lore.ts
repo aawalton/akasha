@@ -7,5 +7,20 @@ export const pearl = {
   title: "Pearl",
   world: "world/the-beholder",
   about: "character-player/the-beholder-pearl",
+  facts: [
+    { fact: "Pearl is obsessed with beauty.", knowers: ["lore-disclosure/game-master"] },
+    {
+      fact: "Pearl thinks about beautiful things the way other people pray.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Pearl experiences beautiful things with worshipful, helpless hunger.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Pearl's work is the dress kit, the threaded needle, and hem and strap repairs on the fly.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+  ],
   secrets: "jsonl",
 } as const satisfies Lore
