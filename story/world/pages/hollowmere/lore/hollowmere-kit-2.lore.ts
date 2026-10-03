@@ -277,5 +277,13 @@ export const hollowmereKit2 = {
         "character-other/hollowmere-kit",
       ],
     },
+    {
+      fact: "Kit found an essay in Wards and Their Making: a ward is a promise to the thing inside it.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/hollowmere-kit",
+        "character-player/hollowmere-nala",
+      ],
+    },
   ],
 } as const satisfies Lore

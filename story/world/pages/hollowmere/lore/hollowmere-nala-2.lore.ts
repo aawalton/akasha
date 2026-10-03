@@ -295,5 +295,37 @@ export const hollowmereNala2 = {
         "character-other/hollowmere-bea",
       ],
     },
+    {
+      fact: "Nala slept the whole night through on Wednesday of week four, as she promised Yusra.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-yusra",
+      ],
+    },
+    {
+      fact: "Nala wrote her ward essay in one go: a bandage, a flame's shell, a hand round a hand; Lin: Oh.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-lin",
+      ],
+    },
+    {
+      fact: "Nala told Bea she made Yusra toast, and the rest is Yusra's to tell; Bea: you're a good egg.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-bea",
+      ],
+    },
+    {
+      fact: "Thinking of Yusra, Nala drew the wrong sigil twice in Sigils; Lin corrected it and didn't ask.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-lin",
+      ],
+    },
   ],
 } as const satisfies Lore

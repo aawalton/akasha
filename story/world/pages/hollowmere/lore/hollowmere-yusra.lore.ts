@@ -319,5 +319,69 @@ export const hollowmereYusra = {
         "character-player/hollowmere-nala",
       ],
     },
+    {
+      fact: "Yusra and her ex were together two years, from her first year: trains, letters, Sunday calls.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/hollowmere-yusra",
+        "character-player/hollowmere-nala",
+      ],
+    },
+    {
+      fact: "Yusra still has the four-line text that ended it, and reads it most nights.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/hollowmere-yusra",
+        "character-player/hollowmere-nala",
+      ],
+    },
+    {
+      fact: "Yusra told Nala of her breakup first: not her mum, her dad, or anyone at Hollowmere.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/hollowmere-yusra",
+        "character-player/hollowmere-nala",
+      ],
+    },
+    {
+      fact: "Yusra lies awake doing sums over the two years, so she works every shift going instead.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/hollowmere-yusra",
+        "character-player/hollowmere-nala",
+      ],
+    },
+    {
+      fact: "Yusra returned Nala's flask at dawn: still warm at two, she said, and thanked her by name.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/hollowmere-yusra",
+        "character-player/hollowmere-nala",
+      ],
+    },
+    {
+      fact: "Told she's allowed to be sad, Yusra let one tear fall; Nala said Pressure, Yusra laughed: Good.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/hollowmere-yusra",
+        "character-player/hollowmere-nala",
+      ],
+    },
+    {
+      fact: "Nala walked Yusra up to room 1 and held her hand by the bed until she fell asleep.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/hollowmere-yusra",
+        "character-player/hollowmere-nala",
+      ],
+    },
+    {
+      fact: "Yusra slept nine hours, told Nala so at dinner, and sat with her shoulder against Nala's.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/hollowmere-yusra",
+        "character-player/hollowmere-nala",
+      ],
+    },
   ],
 } as const satisfies Lore
