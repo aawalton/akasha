@@ -37,7 +37,7 @@ export const overwhereIiWhitecombs2 = {
     },
     {
       fact: "An afternoon's parting clears a patch of shore water a few paces wide, beside a sixty-pace pool.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Each swell brings fresh black up from the middle; a cleared patch clouds again within the hour.",
