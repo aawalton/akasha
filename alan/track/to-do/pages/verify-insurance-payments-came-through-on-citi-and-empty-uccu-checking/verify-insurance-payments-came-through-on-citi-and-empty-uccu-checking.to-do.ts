@@ -6,7 +6,7 @@ export const verifyInsurancePaymentsCameThroughOnCitiAndEmptyUccuChecking = {
   slug: "verify-insurance-payments-came-through-on-citi-and-empty-uccu-checking",
   title: "Verify insurance payments came through on Citi and empty UCCU checking",
   toDoCategory: "wealth",
-  toDoDueDate: "2026-10-03",
+  toDoDueDate: "2026-10-08",
   priority: "p3",
   toDoSortOrder: 58,
   toDoValue: "value/wealth",
