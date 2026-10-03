@@ -11,4 +11,5 @@ export const overwhereIi00111 = {
   action:
     "“Don’t know for sure. Here. But that’s a mystery for another day.” I tell her about the pool.",
   lore: ["lore/overwhere-ii-maud-ashby"],
+  endsAt: "2026-10-26T21:38:00.000Z",
 } as const satisfies StoryTurnPlayed
