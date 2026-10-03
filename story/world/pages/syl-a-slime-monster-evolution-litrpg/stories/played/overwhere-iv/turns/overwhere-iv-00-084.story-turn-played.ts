@@ -11,7 +11,7 @@ export const overwhereIv00084 = {
   position: 84,
   prose: "txt",
   characters: ["character-player/overwhere-iv-nala", "character-other/overwhere-iv-ilsa-crane"],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action: "I do another slice at the mail bearer’s neck, then another if needed to put it down.",
   beats: [
     "Nala spreads her sense into the dark meadow and finds it: a huge shape, lurching, maul swinging.",
@@ -36,7 +36,12 @@ export const overwhereIv00084 = {
     "place/overwhere-iv-tull-farm",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/memory", "story-recorder/picture"],
+  recordedBy: [
+    "story-recorder/inventory",
+    "story-recorder/memory",
+    "story-recorder/picture",
+    "story-recorder/mechanics",
+  ],
   endsAt: "2026-10-07T00:01:00.000Z",
   coverAfter:
     "The meadow is quiet. Far off across the ford, the last shrieks fade into the Tangle.",
