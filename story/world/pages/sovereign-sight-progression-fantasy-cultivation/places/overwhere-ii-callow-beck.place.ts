@@ -240,5 +240,37 @@ export const overwhereIiCallowBeck = {
       fact: "By dusk the bank across the gully mouth holds the black slick back.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
+    {
+      fact: "With the cwm's crack plugged, nothing new feeds the gully; the black below it is all there is.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Behind the bank the black lies in a knee-deep pool forty paces up the gully, some forty barrels.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Above that pool the gully's bed is crusted grey salt, with a few barrels of black in its hollows.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The gully's grey crust is dead salt and harms nothing; rain will wash it faintly down the beck.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Parting the gully pool a cupful at a time would take Nala weeks of fine work.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Pulled into Nala, the gully's black soaks into her well fast, a barrel's worth in a few minutes.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Undertow can tow the gully's black uphill over the cwm's lip into the pool; most of a day's work.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Forty barrels poured back into the Callow pool raise it less than a single day's rise.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Place
