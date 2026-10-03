@@ -121,7 +121,7 @@ export const overwhereIiVarrowTalented = {
     },
     {
       fact: "Pushes timed with spearwork in a flurry wear Nala's mind fast, like fine work, not plain towing.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "In Nala's first bout, her blunt spear touched Osric clean in the ribs; his maul caught her after.",
