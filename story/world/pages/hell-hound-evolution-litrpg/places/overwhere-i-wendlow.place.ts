@@ -222,7 +222,7 @@ export const overwhereIWendlow = {
     },
     {
       fact: "The chit is paid from the magistrate's purse when the tax rider comes, on day 9.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
     {
       fact: "Hearing her tale, Grete offers to enter Nala on the hunters' roll, which brings Board contracts.",
