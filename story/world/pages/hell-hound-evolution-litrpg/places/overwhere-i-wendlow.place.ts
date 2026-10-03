@@ -280,5 +280,9 @@ export const overwhereIWendlow = {
       fact: "Grete writes 'Nala Arthur' on the receipt and on the 11-gold chit, and signs both.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "The hunters' roll costs nothing to join; a rolled hunter gets first call on Board contracts.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Place
