@@ -1,5 +1,6 @@
 import {
   type Answer,
+  type BodyOf,
   type FileChange,
   gathered,
   refusing,
@@ -27,7 +28,9 @@ import {
 } from "akasha/command/modules/change-kind-running/change-kind-running.module.code.ts"
 import {
   bodyFaults,
+  type Judges,
   judgesOver,
+  overLongAfter,
 } from "akasha/command/modules/draft-length/draft-length.module.code.ts"
 import { landingFrom } from "akasha/command/modules/edits-landing/edits-landing.module.code.ts"
 import { whyOf } from "akasha/command/modules/fault-saying/fault-saying.module.code.ts"
@@ -88,6 +91,16 @@ export async function keptFolded(
   return folded.refused === null ? gathered([keeping, folded]) : folded
 }
 
+export function landingFaults(
+  bodyOf: BodyOf,
+  edits: readonly FileChange[],
+  kept: readonly FileChange[],
+  judges: Judges
+): readonly string[] {
+  if (kept.length === 0) return bodyFaults(bodyOf, edits, edits, judges)
+  return overLongAfter(bodyOf, edits, edits, judges.letOff)
+}
+
 async function judgingFor(kept: readonly FileChange[], root: string): Promise<Judging | string> {
   if (kept.length === 0) return NO_GATE
   const built = await gateBuilt(root)
@@ -115,10 +128,7 @@ export async function runMechanicalChange(
   const world = ledgerAt(root, bodyOf, runAt)
   const said = await phased("compose", () => keptFolded(world, kept, asked))
   if (said.refused !== null) return { refusals: [said.refused], code: DATA }
-  const faults =
-    kept.length === 0
-      ? bodyFaults(bodyOf, said.edits, said.edits, judgesOver(root, world.index))
-      : []
+  const faults = landingFaults(bodyOf, said.edits, kept, judgesOver(root, world.index))
   if (faults.length > 0) return { refusals: [...faults], code: DATA }
   if (said.edits.length === 0) {
     return {

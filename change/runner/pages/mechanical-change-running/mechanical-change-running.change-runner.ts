@@ -99,6 +99,11 @@ export const mechanicalChangeRunning = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "A landing carrying kept edits is refused where a body it leaves passes its ceiling.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A kept edit whose file moved since that edit's read refuses the landing.",
     },
     {

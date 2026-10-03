@@ -12,6 +12,7 @@ import {
   type Asking,
   foldedOver,
   keptFolded,
+  landingFaults,
   runMechanicalChange,
 } from "akasha/change/runner/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
 import { EXIT } from "akasha/code/error/errors-core/modules/exit-code/exit-code.module.code.ts"
@@ -128,6 +129,18 @@ test("a kept edit that will not land refuses the whole landing and runs no chang
   expect(ran).toEqual([])
   const landed = await runMechanicalChange("/nowhere", [ADDING], "held", { kept: [stale] })
   expect("refusals" in landed && landed.code).toBe(EXIT.DATA)
+})
+
+test("a landing carrying kept edits is refused where a body it leaves passes its byte ceiling", () => {
+  const big = { kind: "add", path: "big.ts", content: `${"x".repeat(15_001)}\n` } as const
+  const small = { kind: "add", path: "small.ts", content: "small\n" } as const
+  const judges = { letOff: () => false, judge: () => [] }
+  const faults = landingFaults(() => null, [small, big], [big], judges)
+  expect(faults.join("\n")).toContain(
+    "`big.ts` would be 15,002 bytes, over the 15,000 byte ceiling"
+  )
+  expect(landingFaults(() => null, [small], [small], judges)).toEqual([])
+  expect(landingFaults(() => null, [big], [big], { ...judges, letOff: () => true })).toEqual([])
 })
 
 test("every change stating no edit gathers to no edit and refuses nothing", async () => {
