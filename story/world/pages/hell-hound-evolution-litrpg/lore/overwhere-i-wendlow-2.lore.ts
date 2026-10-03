@@ -124,5 +124,9 @@ export const overwhereIWendlow2 = {
       fact: "Ilse offers a ring, 3 gold in 3 days, or a rod, 4 gold in 4 days; she takes half before she starts.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "A pearl rod stretches held workings to 60 yards, not the ring's 50, but must be held in one hand.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
