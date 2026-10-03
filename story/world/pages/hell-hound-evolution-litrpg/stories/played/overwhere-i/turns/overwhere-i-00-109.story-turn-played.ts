@@ -4,10 +4,13 @@ export const overwhereI00109 = {
   id: "01a1018b-3634-7b9d-92a4-816cda8fd7dc",
   type: "page-type/story-turn-played",
   slug: "overwhere-i-00-109",
+  ownLength: 280,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-i"],
   position: 109,
-  stepStatus: "step-status/writer",
+  prose: "txt",
+  characters: ["character-player/overwhere-i-nala"],
+  stepStatus: "step-status/reviewers",
   action: "I go over to hear what he has to say",
   beats: [
     "Nala walks three minutes down the towpath to Hobb's landing.",
@@ -24,6 +27,6 @@ export const overwhereI00109 = {
     '"Both crews will add a gold between us if it dies. We need to get downriver."',
     "Jory squints up at the sun climbing over the weir. \"Today's sunny enough, I'd say.\"",
   ],
-  lore: ["place/overwhere-i-hobbs-mill-weir"],
+  lore: ["lore/overwhere-i-nala", "lore/overwhere-i-nala-2", "place/overwhere-i-hobbs-mill-weir"],
   endsAt: "2026-10-06T09:16:00.000Z",
 } as const satisfies StoryTurnPlayed
