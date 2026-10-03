@@ -34,7 +34,7 @@ export const overwhereI00114 = {
     "lore/overwhere-i-nala",
     "lore/overwhere-i-nala-2",
     "lore/overwhere-i-wendlow-2",
-    "lore/overwhere-i-wendlow-2-2",
+    "lore/overwhere-i-wendlow-3",
   ],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
   recordedBy: [

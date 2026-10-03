@@ -35,9 +35,9 @@ export const overwhereI00115 = {
     "lore/overwhere-i-nala-2",
     "lore/overwhere-i-starfall-legacy",
     "lore/overwhere-i-starfall-legacy-2",
-    "lore/overwhere-i-starfall-legacy-2-2",
+    "lore/overwhere-i-starfall-legacy-3",
     "lore/overwhere-i-wendlow-2",
-    "lore/overwhere-i-wendlow-2-2",
+    "lore/overwhere-i-wendlow-3",
   ],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
   recordedBy: [

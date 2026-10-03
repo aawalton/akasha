@@ -1,10 +1,10 @@
 import type { Lore } from "akasha/story/lore/lore.page-type.types.ts"
 
-export const overwhereITheGreyfenAlpha22 = {
+export const overwhereITheGreyfenAlpha3 = {
   id: "01a0f7d8-c03f-7d9e-9d09-99901ab611ee",
   type: "page-type/lore",
-  slug: "overwhere-i-the-greyfen-alpha-2-2",
-  title: "Ghost-Eye, the Greyfen Alpha, continued, continued",
+  slug: "overwhere-i-the-greyfen-alpha-3",
+  title: "Ghost-Eye, the Greyfen Alpha, continued",
   world: "world/hell-hound-evolution-litrpg",
   about: "lore/overwhere-i-the-greyfen-alpha",
   facts: [
