@@ -18,7 +18,7 @@ export const overwhereIWendlow2 = {
     },
     {
       fact: "Mother Sallow is an alchemist by the river stairs; she buys monster parts for her draughts.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
     {
       fact: "For a focus Grete names Ilse Varrow, whose shop is the blue door on Glass Street.",
