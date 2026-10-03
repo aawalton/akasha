@@ -9,7 +9,7 @@ export const fairweatherHoneycomb = {
   within: "place/fairweather-lanternmere",
   facts: [
     {
-      fact: "The Honeycomb is a bakery on Thimble Canal, kept by a widowed baker in her sixties.",
+      fact: "The Honeycomb is a bakery on Thimble Canal, kept by a widowed Korean baker in her sixties.",
       knowers: ["lore-disclosure/game-master", "character-player/fairweather-elsie"],
     },
     {
