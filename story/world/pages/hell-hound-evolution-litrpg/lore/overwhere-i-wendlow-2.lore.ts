@@ -176,5 +176,9 @@ export const overwhereIWendlow2 = {
       fact: "A focus lengthens held workings only; loosed beams, slugs and bullets fly no farther for it.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Ilse has a drake-pearl of her own; set beside Nala's in the ring, two pearls reach 70 yards.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
