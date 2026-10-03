@@ -11,4 +11,5 @@ export const towerOfNimue001TheFirstHour = {
   unit: "unit/words",
   prose: "txt",
   beats: "jsonl",
+  stepStatus: "step-status/player",
 } as const satisfies StoryChapterWritten
