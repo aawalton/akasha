@@ -1,12 +1,12 @@
 {"beat":1,"event":"\"Well, you might want to hurry up then, Firrelia!\" Nala grunts through her teeth."}
 {"beat":2,"event":"The blue words give no answer; they thin and fade out of the air."}
 {"beat":3,"event":"She throws herself forward from the ground, over the beast, arms reaching for its neck."}
-{"beat":4,"event":"The instant her body touches its back, the flat quills spring up all at once."}
-{"beat":5,"event":"Glass drives into her forearms and the insides of her arms, a spray of small, bright cuts."}
+{"beat":4,"event":"The instant her body touches its back, the flat quills spring up all at once.","memory":[{"page":"lore/otherwhere-ix-shardback","fact":"A rushing shardback lays its quills flat to run; they bristle up the instant its back is touched.","learns":"character-player/otherwhere-ix-nala"},{"page":"lore/otherwhere-ix-shardback","fact":"A rushing shardback lays its quills flat to run; they bristle up the instant its back is touched.","shown":true}]}
+{"beat":5,"event":"Glass drives into her forearms and the insides of her arms, a spray of small, bright cuts.","changes":[{"page":"metric-character-health/otherwhere-ix-nala","key":"value","from":122,"to":98,"note":"Quill shards drive into her arms as the bite grinds on: 24"}]}
 {"beat":6,"event":"She gets her arms round it anyway, but its neck is short and thick, and quilled at the nape."}
-{"beat":7,"event":"Her grip will not close; there is nothing like a neck there to squeeze, only muscle and glass."}
-{"beat":8,"event":"The beast twists under her, and every twist snaps off more shards into her skin."}
+{"beat":7,"event":"Her grip will not close; there is nothing like a neck there to squeeze, only muscle and glass.","memory":[{"page":"lore/otherwhere-ix-shardback","fact":"A shardback's neck is short and thick, quilled at the nape, with nothing there to grip or squeeze.","learns":"character-player/otherwhere-ix-nala"},{"page":"lore/otherwhere-ix-shardback","fact":"A shardback's neck is short and thick, quilled at the nape, with nothing there to grip or squeeze.","shown":true}]}
+{"beat":8,"event":"The beast twists under her, and every twist snaps off more shards into her skin.","memory":[{"page":"lore/otherwhere-ix-shardback","fact":"Arms locked round a shardback's back or nape take quill shards with every twist it makes.","learns":"character-player/otherwhere-ix-nala"},{"page":"lore/otherwhere-ix-shardback","fact":"Arms locked round a shardback's back or nape take quill shards with every twist it makes.","shown":true}]}
 {"beat":9,"event":"Its jaws stay locked on her calf the whole time, grinding."}
 {"beat":10,"event":"Her hands slide down its front as it heaves, over skin that is suddenly soft and bare."}
-{"beat":11,"event":"Its throat and belly have no quills at all, and its jaw sits just above her fingers."}
-{"beat":12,"event":"Her arms are running with blood, her grip is slipping, and it is still hanging on."}
+{"beat":11,"event":"Its throat and belly have no quills at all, and its jaw sits just above her fingers.","memory":[{"page":"lore/otherwhere-ix-shardback","fact":"A shardback's throat and belly are soft, bare skin with no quills at all.","learns":"character-player/otherwhere-ix-nala"},{"page":"lore/otherwhere-ix-shardback","fact":"A shardback's throat and belly are soft, bare skin with no quills at all.","shown":true}]}
+{"beat":12,"event":"Her arms are running with blood, her grip is slipping, and it is still hanging on.","at":"2026-09-28T15:36:00.000Z"}
