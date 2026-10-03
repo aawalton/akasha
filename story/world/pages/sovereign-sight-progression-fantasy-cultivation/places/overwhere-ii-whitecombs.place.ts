@@ -261,7 +261,7 @@ export const overwhereIiWhitecombs = {
     },
     {
       fact: "Parted, the black draws together into a bead of dense, ice-cold Water that crawls toward the pool.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "A bead of black Water seeps through cloth and leather; only cold iron would hold it still.",
