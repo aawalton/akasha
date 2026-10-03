@@ -129,7 +129,7 @@ export const overwhereIiMaudAshby = {
     },
     {
       fact: "Maud wants to see the tidepool herself before she rides on to Varrow Keep.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Maud rode up the valley after Anselm's letters, to take Nala's measure for herself.",
