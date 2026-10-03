@@ -393,5 +393,9 @@ export const overwhereIiiBrannaghTull2 = {
         "character-other/overwhere-iii-brannagh-tull",
       ],
     },
+    {
+      fact: "At first light on day twelve the drover with the old forearm burn waits on the bench at last.",
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-brannagh-tull"],
+    },
   ],
 } as const satisfies Lore
