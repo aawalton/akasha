@@ -1,0 +1,85 @@
+{"beat":1,"event":"Dorric Kael has killed 412 animals; the 413th sits in a crystal garden at the bottom of a hole."}
+{"beat":2,"event":"He began counting at fourteen, when his father handed him a skinning knife and left the tent."}
+{"beat":3,"event":"Deer, then forty-seven boar and a scar, eighteen wolves, then the plains cats."}
+{"beat":4,"event":"At forty-one the count is his resume and his confession."}
+{"beat":5,"event":"The pull comes between contracts, over eggs and a map of a cat taking livestock."}
+{"beat":6,"event":"It points northeast at something that needs killing: not the hunt, only the last part."}
+{"beat":7,"event":"He finishes his eggs, pays, and walks northeast."}
+{"beat":8,"event":"He reads the ridge from the south on the way in: sight lines, wind, a basalt intrusion."}
+{"beat":9,"event":"On the fourth afternoon he walks into the camp and asks: \"What is it?\"","place":"place/the-dungeon-of-one-thousand-deaths-the-camp","present":["character-other/the-dungeon-of-one-thousand-deaths-dorric-kael","character-other/the-dungeon-of-one-thousand-deaths-osren","character-other/the-dungeon-of-one-thousand-deaths-dalya"]}
+{"beat":10,"event":"\"Nothing. I'm here because something needs killing.\""}
+{"beat":11,"event":"Osren: a creature at Depth 3 called The Patient, which has killed eight, seven confirmed."}
+{"beat":12,"event":"For forty minutes Osren briefs him, and Dorric does not interrupt."}
+{"beat":13,"event":"Crystal-shelled and sessile, it strikes by rearrangement, within about twenty-five meters."}
+{"beat":14,"event":"It is damaged: mapped by a dyer, cracked by a mason, widened by his companion."}
+{"beat":15,"event":"\"What's in the crack?\" No one has described what lies beneath the shell."}
+{"beat":16,"event":"He asks about the spear, the bypass at thirty meters, the chisel and the plumb line."}
+{"beat":17,"event":"\"I'm going in the morning.\" \"Most entrants go in immediately.\" \"I'm not most entrants.\""}
+{"beat":18,"event":"Dalya tells him the floor through Depth 2 and the poor light for fine detail in the Garden."}
+{"beat":19,"event":"Osren cannot say whether the creature moves between kills: no one has lived to see it."}
+{"beat":20,"event":"He sharpens his killing knife: seven narrow inches, made for the gap between ribs."}
+{"beat":21,"event":"He thinks of the gap between ribs, and of the crack in a crystal shell."}
+{"beat":22,"event":"He wakes before dawn, eats, and sharpens the knife again so his hands know the work."}
+{"beat":23,"event":"At first light he enters the dungeon.","leave":["character-other/the-dungeon-of-one-thousand-deaths-dorric-kael"]}
+{"beat":24,"event":"He walks the Gullet at an approach pace, neither fast nor slow.","place":"place/the-dungeon-of-one-thousand-deaths-the-gullet","present":["character-other/the-dungeon-of-one-thousand-deaths-dorric-kael"]}
+{"beat":25,"event":"He reads the nineteen names like game trails: Depth 3, Still Garden, eight times."}
+{"beat":26,"event":"A territorial predator in a fixed territory: easiest to kill, hardest to approach."}
+{"beat":27,"event":"The Ledger: Depth 2, the Warrens, Resolve +1, now 10.","place":"place/the-dungeon-of-one-thousand-deaths-the-marrow-warrens","changes":[{"page":"metric-character-stat/the-dungeon-of-one-thousand-deaths-dorric-kael-resolve","key":"value","from":9,"to":10,"note":"Depth transition into the Warrens, Resolve +1"}]}
+{"beat":28,"event":"The Ledger names him The Cull, with the Gift Culling Strike: one strike with perfect force."}
+{"beat":29,"event":"Each later strike on the same target is weaker: the Cull is for kills, not fights."}
+{"beat":30,"event":"Its Cost is Certainty: he will believe the target dead whatever the evidence."}
+{"beat":31,"event":"The Ledger reads Vitality 16, Resolve 9, Attunement 8, Fortune 14."}
+{"beat":32,"event":"Compelled by prey-drive: he has killed 412, and the Maw extended the count."}
+{"beat":33,"event":"One perfect strike and the certainty it worked: one tool, seen from two sides."}
+{"beat":34,"event":"The Warrens shift around him; he keeps his direction, as in reed marshes that close behind."}
+{"beat":35,"event":"The Still Garden opens like a clearing, cold and bright as a winter field.","place":"place/the-dungeon-of-one-thousand-deaths-the-still-garden","present":["character-other/the-dungeon-of-one-thousand-deaths-dorric-kael","character-other/the-dungeon-of-one-thousand-deaths-the-gorger"]}
+{"beat":36,"event":"The Ledger: Depth 3, Resolve +1, now 11.","changes":[{"page":"metric-character-stat/the-dungeon-of-one-thousand-deaths-dorric-kael-resolve","key":"value","from":10,"to":11,"note":"Depth transition into the Still Garden, Resolve +1"}]}
+{"beat":37,"event":"He looks, as at every kill site: the crystals in rows, the light brightest at their bases."}
+{"beat":38,"event":"The Patient lies in the third row, still as predators that let prey come to them."}
+{"beat":39,"event":"He sees the marks, the crack, and its weight settled toward the crack."}
+{"beat":40,"event":"He weighs the spear, eight meters from it, and the western bypass at thirty."}
+{"beat":41,"event":"The crack is the access; the kill point lies beneath it."}
+{"beat":42,"event":"He flanks along the western wall; The Patient tracks him without moving."}
+{"beat":43,"event":"At thirty-two meters he stops and maps the gaps, sight lines and shadows."}
+{"beat":44,"event":"He draws the knife: the crack needs entering, not striking."}
+{"beat":45,"event":"He moves through the crystals as through reed marshes, delaying recognition."}
+{"beat":46,"event":"At twenty-five meters its attention sharpens: it has located him."}
+{"beat":47,"event":"At eighteen he sees inside the crack: crystal growth rings, and something darker at the centre."}
+{"beat":48,"event":"At fifteen it still has not struck: it has learned that what comes near might hurt it."}
+{"beat":49,"event":"The Patient is afraid."}
+{"beat":50,"event":"He raises the knife, and Culling Strike activates."}
+{"beat":51,"event":"He drives the knife into the crack, and the blade finds the dark thing and cuts it.","changes":[{"page":"metric-character-stat/the-dungeon-of-one-thousand-deaths-dorric-kael-attunement","key":"value","from":8,"to":9,"note":"One Culling Strike activation, Attunement +1"}]}
+{"beat":52,"event":"The Patient screams: a frequency that rings through every crystal and makes the light pulse."}
+{"beat":53,"event":"It lurches at him asymmetrically, in pain, and he rolls left as the mass passes."}
+{"beat":54,"event":"The blade is wet with a clear, faintly luminous fluid; the kill point is open."}
+{"beat":55,"event":"The Cost is in his hands: they are certain the creature is dead."}
+{"beat":56,"event":"It is turning, slower, the crack wider, alive."}
+{"beat":57,"event":"His second strike lands at half the force, one inch where the first went three."}
+{"beat":58,"event":"The Patient strikes his right shoulder; he shatters a crystal and the shoulder dislocates."}
+{"beat":59,"event":"He rises with the knife in his left hand, and the certainty grows louder."}
+{"beat":60,"event":"His third strike, at a quarter force, skips off the crack's edge: the Gift is done."}
+{"beat":61,"event":"Three meters from it, with a knife that cannot cut, he knows he has failed."}
+{"beat":62,"event":"The Patient strikes, and he is on the floor beside the broken crystal."}
+{"beat":63,"event":"From the floor he sees the cut inside the crack, real and not healing."}
+{"beat":64,"event":"Four hundred and thirteen. No: four hundred and twelve, and one I wounded."}
+{"beat":65,"event":"The Patient settles onto him, heavier and less controlled than before: it wants the threat to stop."}
+{"beat":66,"event":"The fluid drips warm onto his chest from the crack above him."}
+{"beat":67,"event":"Four hundred and twelve, and one I cut. He sees the crack, and dies.","changes":[{"page":"metric-character-stat/the-dungeon-of-one-thousand-deaths-dorric-kael-vitality","key":"value","from":16,"to":0,"note":"Dorric is crushed by The Patient, Vitality 16 to 0"}]}
+{"beat":68,"event":"The death report: Dorric Kael, the Cull, Depth 3; one true activation of the Gift."}
+{"beat":69,"event":"He believed the target dead at his own death; the Cost did not disengage."}
+{"beat":70,"event":"The first weapon to reach beneath the shell: the core incised, and not healing."}
+{"beat":71,"event":"Mapped, cracked, widened, penetrated: four entrants, four tools, directional."}
+{"beat":72,"event":"His Memory Crystal is red: force, professional and clean."}
+{"beat":73,"event":"His knife lies by the plumb line and the chisel: the Garden's third personal artifact."}
+{"beat":74,"event":"The Ledger records the damage before the death: for once the damage matters more."}
+{"beat":75,"event":"The Maw wounded its own creature by giving a hunter exactly what he was."}
+{"beat":76,"event":"Map, crack, widen, penetrate: the deaths have the shape of a project the Maw did not design."}
+{"beat":77,"event":"Its meaning needs a category the Maw lacks: hope, or fear."}
+{"beat":78,"event":"The Patient settles, fluid seeping from its core for the first time in 342 years."}
+{"beat":79,"event":"Its kill count is eight, and its wound count one: the ratio is changing."}
+{"beat":80,"event":"Osren writes: Dorric Kael, hunter, Compelled; purpose, to kill the creature. Did not return.","place":"place/the-dungeon-of-one-thousand-deaths-the-camp","present":["character-other/the-dungeon-of-one-thousand-deaths-osren"]}
+{"beat":81,"event":"The crystal glow from the entrance was red and lasted seven seconds: the first red."}
+{"beat":82,"event":"He puts Dorric's knife sheath in the effects box under the table; it is getting full."}
+{"beat":83,"event":"Dorric's hunting notes are on the cloth: clean, specific, usable."}
+{"beat":84,"event":"The fire still burns: 980 remain."}
+{"beat":85,"event":"DORRIC KAEL — DEPTH 3 — FIRST TO CUT."}
