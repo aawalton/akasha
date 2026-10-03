@@ -9,6 +9,14 @@ export const overwhereIiiBrannaghTull22 = {
   about: "character-other/overwhere-iii-brannagh-tull",
   facts: [
     {
+      fact: "At first light on day twelve the drover with the old forearm burn waits on the bench at last.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/overwhere-iii-brannagh-tull",
+        "character-player/overwhere-iii-nala",
+      ],
+    },
+    {
       fact: "The drover pays Brannagh's 10 copper and leaves a twist of salt beef on the counter for the healer.",
       knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-brannagh-tull"],
     },
