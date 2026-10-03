@@ -38,6 +38,14 @@ export const recipientResolverRegistry = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A story with editor steps has a beat editor and a prose editor seat as well.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "An editor seat is started by that notice alone.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement:
         "A game seat named for its persona, role and game carries what it starts as where it never ran.",
     },
