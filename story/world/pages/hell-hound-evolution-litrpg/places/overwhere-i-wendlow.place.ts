@@ -256,5 +256,9 @@ export const overwhereIWendlow = {
       fact: "Grete asks what name to write on the receipt, since her Analyze shows none.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Grete asks the name for the receipt, pays the 60 and the chit, then offers the roll, in that order.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Place
