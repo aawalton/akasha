@@ -10,4 +10,5 @@ export const towerOfNimue002TheOpenEye = {
   ownLength: 4504,
   unit: "unit/words",
   prose: "txt",
+  beats: "jsonl",
 } as const satisfies StoryChapterWritten
