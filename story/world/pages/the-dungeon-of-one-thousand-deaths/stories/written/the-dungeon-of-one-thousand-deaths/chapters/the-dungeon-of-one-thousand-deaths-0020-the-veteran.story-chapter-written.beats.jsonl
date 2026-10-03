@@ -1,0 +1,76 @@
+{"beat":1,"event":"Cael Vorn has carried this for seven years: an unfinished thing at the back of every other."}
+{"beat":2,"event":"Seven years ago, at twenty-nine and over-confident, he first entered the dungeon."}
+{"beat":3,"event":"The Gullet impressed him; he had not expected that."}
+{"beat":4,"event":"In the Warrens the passages shifted, and he heard something moving in the wall."}
+{"beat":5,"event":"He turned back, meaning to return better prepared, and did not."}
+{"beat":6,"event":"For seven years he built the preparation: rope, chalk, every account of the place."}
+{"beat":7,"event":"He followed every report, but did not account for the damage sequence."}
+{"beat":8,"event":"The camp is a settlement now: three effects boxes, a Guild man with forms, a chalk scoreboard.","place":"place/the-dungeon-of-one-thousand-deaths-the-camp","present":["character-other/the-dungeon-of-one-thousand-deaths-cael-vorn","character-other/the-dungeon-of-one-thousand-deaths-osren"]}
+{"beat":9,"event":"Osren, heavier now, looks up: \"Cael Vorn. Second entry.\" \"You remembered.\" \"I keep records.\""}
+{"beat":10,"event":"Cael knows the creature is wounded: five entrants, fluid loss up forty percent."}
+{"beat":11,"event":"It hesitates before striking; he knows the Finish still died."}
+{"beat":12,"event":"She died for lack of speed, Osren says; it has passed several encounters without a kill."}
+{"beat":13,"event":"The western bypass at thirty meters: Tova Fenn and Senne Vareth used it without incident."}
+{"beat":14,"event":"\"Are you planning to use it?\" \"I'll assess it when I get there.\""}
+{"beat":15,"event":"The bypass is for people who don't know the creature; he has learned it for seven years."}
+{"beat":16,"event":"Osren writes something he does not share."}
+{"beat":17,"event":"\"The inscription wall?\" \"Twenty-eight names. It had four when you left.\""}
+{"beat":18,"event":"He stands before the twenty-eight names longer than he planned.","place":"place/the-dungeon-of-one-thousand-deaths-the-gullet","present":["character-other/the-dungeon-of-one-thousand-deaths-cael-vorn"]}
+{"beat":19,"event":"The early ones are still there: Edric Voss, Maren Voss, Lira, the military four."}
+{"beat":20,"event":"The last five cluster at the bottom, cut within days, the newest barely settled."}
+{"beat":21,"event":"Twenty-four lives became cuts in stone while he was still preparing to come back."}
+{"beat":22,"event":"He reads the wall fully, without rushing, and goes in."}
+{"beat":23,"event":"The Ledger: Depth 2, the Marrow Warrens, Resolve +1, now 16.","place":"place/the-dungeon-of-one-thousand-deaths-the-marrow-warrens","changes":[{"page":"metric-character-stat/the-dungeon-of-one-thousand-deaths-cael-vorn-resolve","key":"value","from":15,"to":16,"note":"Depth transition into the Marrow Warrens, Resolve +1"}]}
+{"beat":24,"event":"The Ledger names him The Veteran, with the Gift Prior Run: double strength where he has been."}
+{"beat":25,"event":"In spaces new to him his abilities are suppressed until he has earned the ground."}
+{"beat":26,"event":"The Ledger reads Vitality 17, Resolve 16, Attunement 11, Fortune 13."}
+{"beat":27,"event":"Compelled: the Maw extended the season; he believes the timing was his. He is not wrong."}
+{"beat":28,"event":"In the Gullet the Gift sharpens what he knows; his body remembers the floor and the turns."}
+{"beat":29,"event":"He finds Sylas's bridge where he remembers a gap he lowered himself into by rope.","place":"place/the-dungeon-of-one-thousand-deaths-the-gap"}
+{"beat":30,"event":"The arch's growth rings say fifteen years or more: it is older than his absence."}
+{"beat":31,"event":"The dungeon went on without him. He crosses, notes it in his field book, and moves on."}
+{"beat":32,"event":"At the first junction of the Warrens Prior Run confirms his memory.","place":"place/the-dungeon-of-one-thousand-deaths-the-marrow-warrens"}
+{"beat":33,"event":"A surveyor's 6B notation marks the left fork: the system he would have used."}
+{"beat":34,"event":"Four junctions in forty minutes through the stable upper Warrens."}
+{"beat":35,"event":"Then the passages shift."}
+{"beat":36,"event":"In geometry he has never walked, the Gift turns to suppression; his instincts go quiet."}
+{"beat":37,"event":"The week's traffic has worn the charcoal; he finds two identifiers and one directional mark."}
+{"beat":38,"event":"He is slower than expected, and precise about why: a feature he had not modelled."}
+{"beat":39,"event":"The Ledger: Depth 3, the Still Garden, Resolve +1, now 17.","place":"place/the-dungeon-of-one-thousand-deaths-the-still-garden","present":["character-other/the-dungeon-of-one-thousand-deaths-cael-vorn","character-other/the-dungeon-of-one-thousand-deaths-the-gorger"],"changes":[{"page":"metric-character-stat/the-dungeon-of-one-thousand-deaths-cael-vorn-resolve","key":"value","from":16,"to":17,"note":"Depth transition into the Still Garden, Resolve +1"}]}
+{"beat":40,"event":"He has never been here; he has read more accounts of it than of anywhere else."}
+{"beat":41,"event":"Suppressed, he reads the space as himself: carefully, fully, without rushing."}
+{"beat":42,"event":"The Patient's size changes the category; the numbers were right and conveyed nothing."}
+{"beat":43,"event":"From sixty meters he sees the crack, the penetration, the fluid still seeping."}
+{"beat":44,"event":"He notes the knife on the floor, the plumb line, the chisel, the spear, the clear bypass."}
+{"beat":45,"event":"The creature sees him and turns, its cracked flank held back."}
+{"beat":46,"event":"He does not take the bypass: he has come to see what the creature is now."}
+{"beat":47,"event":"He walks toward it; at sixty and fifty meters the hesitation holds."}
+{"beat":48,"event":"At forty meters he sees it: the hesitation is not caution. The creature is waiting."}
+{"beat":49,"event":"Tova taught it to let the harmless pass, Senne to tolerate a reader, Orla to retreat and return."}
+{"beat":50,"event":"It is assessing whether he is a threat."}
+{"beat":51,"event":"He stops at thirty meters: his information is good."}
+{"beat":52,"event":"It has learned from twenty-three people what no account can tell him."}
+{"beat":53,"event":"He takes two steps toward it, and the creature does not hesitate."}
+{"beat":54,"event":"It strikes from twenty-eight meters with full commitment."}
+{"beat":55,"event":"He turns to narrow the impact; it throws him twelve meters into the eastern wall."}
+{"beat":56,"event":"Left shoulder dislocated, two ribs at least; he is breathing, clear, conscious."}
+{"beat":57,"event":"It watches him from fifteen meters: the creature the accounts were building toward."}
+{"beat":58,"event":"It moves toward him, and he cannot stand fast enough."}
+{"beat":59,"event":"Prior Run activates: he has earned the ground, and sees the whole Garden's geometry."}
+{"beat":60,"event":"The geometry is exact about what twelve meters at its speed means."}
+{"beat":61,"event":"Seven years of good information, and insufficient: the accounts came from the dead."}
+{"beat":62,"event":"The creature reaches him.","changes":[{"page":"metric-character-stat/the-dungeon-of-one-thousand-deaths-cael-vorn-vitality","key":"value","from":17,"to":0,"note":"Cael Vorn is killed by The Patient, Vitality 17 to 0"}]}
+{"beat":63,"event":"The death report: Cael Vorn, the Veteran, Depth 3; Prior Run continuous, +3 at death.","changes":[{"page":"metric-character-stat/the-dungeon-of-one-thousand-deaths-cael-vorn-attunement","key":"value","from":11,"to":14,"note":"Prior Run is continuous: the flat +3 Attunement at death"}]}
+{"beat":64,"event":"He understood the Still Garden as clearly as any space, too late."}
+{"beat":65,"event":"Kill ten: no delay; the hesitation does not apply to those who come with intent."}
+{"beat":66,"event":"His Memory Crystal is silver: certainty; the timing and preparation were right, the creature changed."}
+{"beat":67,"event":"The first person the Ledger has known twice: four names when he left, twenty-eight when he returned."}
+{"beat":68,"event":"The Ledger records he left, returned and died, but not what the seven years were."}
+{"beat":69,"event":"The accounts are accurate when written, and not when read."}
+{"beat":70,"event":"The Ledger itself describes the dungeon as it was, not as it is."}
+{"beat":71,"event":"The Patient now reads intent: those who pass through, it lets pass; those who come for it, it kills."}
+{"beat":72,"event":"The dead are educating my creature, the Maw writes; it cannot judge whether that helps."}
+{"beat":73,"event":"Osren records a silver glow, eight seconds, the first silver.","place":"place/the-dungeon-of-one-thousand-deaths-the-camp","present":["character-other/the-dungeon-of-one-thousand-deaths-osren"]}
+{"beat":74,"event":"First visit: turned back, unprepared. This visit: now prepared. Outcome: insufficient."}
+{"beat":75,"event":"Twenty-nine names; the newest still settling: CAEL VORN — DEPTH 3 — FIRST TO RETURN."}
+{"beat":76,"event":"He closes the book in flat midday light: 971 remain."}

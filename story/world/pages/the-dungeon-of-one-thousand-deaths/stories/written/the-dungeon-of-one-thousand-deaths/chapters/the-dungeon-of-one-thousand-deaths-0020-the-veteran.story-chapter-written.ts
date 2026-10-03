@@ -10,4 +10,6 @@ export const theDungeonOfOneThousandDeaths0020TheVeteran = {
   ownLength: 4527,
   unit: "unit/words",
   prose: "txt",
+  beats: "jsonl",
+  stepStatus: "step-status/player",
 } as const satisfies StoryChapterWritten
