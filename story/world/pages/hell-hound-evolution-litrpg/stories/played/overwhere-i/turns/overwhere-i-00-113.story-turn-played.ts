@@ -4,10 +4,13 @@ export const overwhereI00113 = {
   id: "01a101c3-880d-72af-9bde-9aee7f81df24",
   type: "page-type/story-turn-played",
   slug: "overwhere-i-00-113",
+  ownLength: 304,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-i"],
   position: 113,
-  stepStatus: "step-status/writer",
+  prose: "txt",
+  characters: ["character-player/overwhere-i-nala"],
+  stepStatus: "step-status/reviewers",
   action:
     "“Eh, thanks, but they said the fangs would be enough. Just cut off the head to make sure it was dead.” I spin a blade again and cut the fangs and store those, then shift to water and fire and give myself a good steam cleaning to get off the bile and muck, then air and fire to dry myself off.",
   beats: [
@@ -24,6 +27,8 @@ export const overwhereI00113 = {
   ],
   lore: [
     "lore/overwhere-i-hobbs-mill-weir-2",
+    "lore/overwhere-i-nala",
+    "lore/overwhere-i-nala-2",
     "lore/overwhere-i-starfall-legacy",
     "lore/overwhere-i-starfall-legacy-2",
     "lore/overwhere-i-wendlow-2",
