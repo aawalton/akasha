@@ -2,6 +2,7 @@
 {"propertySlug":"import","fileName":"player.step-status.ts","path":"alan/collection/properties/parts-progress-in-words.computed-property.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"player.step-status.ts","path":"story/properties/story-color.computed-property.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"player.step-status.ts","path":"story/world/stories/played/turns/modules/turn-lifecycle/turn-lifecycle.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"step-status","path":"story/world/pages/bathhouse-confession/stories/written/bathhouse-confession/chapters/bathhouse-confession-0001-where-the-steam-settles.story-chapter-written.ts","id":"01a06599-c37e-7573-85f6-e7faf0bb4ff1"}
 {"propertySlug":"step-status","path":"story/world/pages/beware-of-chicken/stories/played/otherwhere-iv/turns/otherwhere-iv-00-011.story-turn-played.ts","id":"01a0ea93-53e7-7b10-bc82-f8c34fd26d6b"}
 {"propertySlug":"step-status","path":"story/world/pages/beware-of-chicken/stories/played/otherwhere-iv/turns/otherwhere-iv-00-012.story-turn-played.ts","id":"01a0eaa4-0862-7a0e-b803-b8ca07e1e46f"}
 {"propertySlug":"step-status","path":"story/world/pages/beware-of-chicken/stories/played/otherwhere-iv/turns/otherwhere-iv-00-013.story-turn-played.ts","id":"01a0eab4-4d11-764e-8033-b9e831344637"}

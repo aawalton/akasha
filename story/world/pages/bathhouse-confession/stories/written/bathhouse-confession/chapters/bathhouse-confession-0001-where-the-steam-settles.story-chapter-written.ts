@@ -11,4 +11,6 @@ export const bathhouseConfession0001WhereTheSteamSettles = {
   ownLength: 4408,
   unit: "unit/words",
   prose: "txt",
+  stepStatus: "step-status/player",
+  beats: "jsonl",
 } as const satisfies StoryChapterWritten
