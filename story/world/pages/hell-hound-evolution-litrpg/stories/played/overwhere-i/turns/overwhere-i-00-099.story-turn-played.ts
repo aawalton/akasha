@@ -10,7 +10,7 @@ export const overwhereI00099 = {
   position: 99,
   prose: "txt",
   characters: ["character-player/overwhere-i-nala", "character-other/overwhere-i-harl-voss"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/game-master",
   action:
     "“I’m level 10 now. I was 7 when I met Voss. 4 when I went after the wolves. I know, I’m mad and driving for an early grave, but I got the job done.” I tell her with a manic smile. “Didn’t know Voss was 24, but that explains why he took so much killing. He was harder to kill on his own than they entire wolf pack.”",
   beats: [
@@ -27,8 +27,9 @@ export const overwhereI00099 = {
   issues: [
     '"4 when I went after the wolves" - Nala reached Level 5 on day 2, before the day-3 wolf hunt',
     '"I was 7 when I met Voss" - Nala reached Level 8 at the pine island on day 4, before the quarry',
+    '"My Analyze shows none for you." - Plain Negation',
   ],
   lore: ["lore/overwhere-i-nala", "lore/overwhere-i-nala-2", "place/overwhere-i-wendlow"],
-  reviewedBy: ["story-reviewer/continuity"],
+  reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
   endsAt: "2026-10-05T12:20:00.000Z",
 } as const satisfies StoryTurnPlayed
