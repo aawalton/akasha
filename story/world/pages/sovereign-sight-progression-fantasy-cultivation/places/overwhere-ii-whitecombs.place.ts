@@ -273,7 +273,7 @@ export const overwhereIiWhitecombs = {
     },
     {
       fact: "In a leather pouch the bead seeps through in a few breaths, and beads again on the outside.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Where the bead seeps through leather it leaves a grey, salt-stiff stain.",
