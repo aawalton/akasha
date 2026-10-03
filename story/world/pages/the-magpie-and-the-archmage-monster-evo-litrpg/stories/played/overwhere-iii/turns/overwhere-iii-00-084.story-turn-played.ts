@@ -4,10 +4,17 @@ export const overwhereIii00084 = {
   id: "01a0ff5d-8f53-7f44-baca-8e53104f53ec",
   type: "page-type/story-turn-played",
   slug: "overwhere-iii-00-084",
+  ownLength: 285,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iii"],
   position: 84,
-  stepStatus: "step-status/writer",
+  prose: "txt",
+  characters: [
+    "character-player/overwhere-iii-nala",
+    "character-other/overwhere-iii-edda-crane",
+    "character-other/overwhere-iii-mother-sallow",
+  ],
+  stepStatus: "step-status/reviewers",
   action:
     "“Corrupt wolves, I fought them off, but they hurt me bad, can you get me to the shrine? That’s my best chance to heal myself.”",
   beats: [
@@ -31,6 +38,14 @@ export const overwhereIii00084 = {
     "Edda has watched all of it from her barrow, arms folded.",
     '"Sallow\'s door stood open, and her hearthstone up," she says. "Where\'s she gone?"',
   ],
-  lore: ["lore/overwhere-iii-current-feed", "lore/overwhere-iii-edda-crane"],
+  lore: [
+    "lore/overwhere-iii-cleansing-weave",
+    "lore/overwhere-iii-current-feed",
+    "lore/overwhere-iii-edda-crane",
+    "lore/overwhere-iii-mother-sallow",
+    "lore/overwhere-iii-nala",
+    "lore/overwhere-iii-nala-2",
+    "lore/overwhere-iii-nala-2-2",
+  ],
   endsAt: "2026-10-08T16:35:00.000Z",
 } as const satisfies StoryTurnPlayed
