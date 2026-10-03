@@ -11,4 +11,5 @@ export const overwhereIii00096 = {
   action:
     "I hunt the board, when I get close, I cast my ward on myself first, then find the boar and hit it in the head with my braid until it dies",
   lore: ["lore/overwhere-iii-corruption-2"],
+  endsAt: "2026-10-10T14:17:00.000Z",
 } as const satisfies StoryTurnPlayed
