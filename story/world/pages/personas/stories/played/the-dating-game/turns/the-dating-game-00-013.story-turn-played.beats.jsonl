@@ -1,13 +1,14 @@
-{"beat":1,"event":"Alan: \"Really? I've read the first six books there, but I can't understand why they're so popular.\""}
+{"beat":1,"event":"Alan: \"Really? I've read the first six books there, but I can't understand why they're so popular.\"","memory":[{"page":"lore/the-dating-game-alan","fact":"Alan read the first six Dungeon Crawler Carl books and can't see why they're so popular.","shown":true},{"page":"lore/the-dating-game-alan","fact":"Alan read the first six Dungeon Crawler Carl books and can't see why they're so popular.","learns":"character-other/the-dating-game-echo"}]}
 {"beat":2,"event":"\"What do you like about it?\""}
 {"beat":3,"event":"\"I've gotta go with The Wandering Inn. I mean, 16 million words\""}
-{"beat":4,"event":"\"and it still is constantly surprising me, nothing else I've read even comes close.\""}
+{"beat":4,"event":"\"and it still is constantly surprising me, nothing else I've read even comes close.\"","changes":[{"page":"world-relationship/the-dating-game-echo","key":"relationshipPoints","from":20,"to":22,"note":"Closeness scoring: acknowledgment and intimacy 1 each"}],"memory":[{"page":"lore/the-dating-game-alan","fact":"Alan's favorite LitRPG is The Wandering Inn: 16 million words, and still constantly surprising.","shown":true},{"page":"lore/the-dating-game-alan","fact":"Alan's favorite LitRPG is The Wandering Inn: 16 million words, and still constantly surprising.","learns":"character-other/the-dating-game-echo"}]}
 {"beat":5,"event":"Echo laughs, soundless, at his puzzlement over Carl, and doesn't look the least offended."}
-{"beat":6,"event":"She touches her fingertips to her throat, and gives him her answer in two words: \"The voices.\""}
+{"beat":6,"event":"She touches her fingertips to her throat, and gives him her answer in two words: \"The voices.\"","memory":[{"page":"lore/the-dating-game-echo","fact":"What Echo loves about Dungeon Crawler Carl is the voices.","shown":true},{"page":"lore/the-dating-game-echo","fact":"What Echo loves about Dungeon Crawler Carl is the voices.","learns":"character-player/the-dating-game-alan"}]}
 {"beat":7,"event":"Then she shows him, running through a handful in a breath each, all different."}
-{"beat":8,"event":"A gravel-throated dwarf, a haughty purr of a cat, a bright chirpy game announcer."}
+{"beat":8,"event":"A gravel-throated dwarf, a haughty purr of a cat, a bright chirpy game announcer.","memory":[{"page":"lore/the-dating-game-echo","fact":"Echo can do many distinct voices, from a gravel-throated dwarf to a chirpy game announcer.","shown":true},{"page":"lore/the-dating-game-echo","fact":"Echo can do many distinct voices, from a gravel-throated dwarf to a chirpy game announcer.","learns":"character-player/the-dating-game-alan"}]}
 {"beat":9,"event":"Each is so distinct it's as if other people have stepped onto the trail and gone again."}
 {"beat":10,"event":"She drops back into her own warm voice, grinning, a narrator's pleasure plain on her."}
 {"beat":11,"event":"At \"16 million words\" her eyes go wide, and she gives the number back, awed: \"16 million words.\""}
 {"beat":12,"event":"She blows out a breath and laughs, as if weighing how long that would take to read aloud."}
-{"beat":13,"event":"Then she looks sidelong at him: \"Constantly surprising,\" she says, and it isn't about the book."}
+{"beat":13,"event":"Then she looks sidelong at him: \"Constantly surprising,\" she says, and it isn't about the book.","at":"2026-09-26T09:56:00.000Z"}
+

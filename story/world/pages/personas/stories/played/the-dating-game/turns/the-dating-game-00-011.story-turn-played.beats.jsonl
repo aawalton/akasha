@@ -1,9 +1,10 @@
 {"beat":1,"event":"Alan: \"Oh! Another LitRPG enthusiast! I'm so excited I could kiss you right now. I mean...\""}
 {"beat":2,"event":"He stops on the trail and turns to face her."}
-{"beat":3,"event":"\"Could I? Kiss you right now? I know we just met today, but I really like you.\""}
+{"beat":3,"event":"\"Could I? Kiss you right now? I know we just met today, but I really like you.\"","memory":[{"page":"lore/the-dating-game-alan","fact":"Alan really likes Echo, and told her so.","shown":true},{"page":"lore/the-dating-game-alan","fact":"Alan really likes Echo, and told her so.","learns":"character-other/the-dating-game-echo"}]}
 {"beat":4,"event":"Echo goes still, and color climbs up her freckled throat into her cheeks."}
 {"beat":5,"event":"She searches his face for a long moment, not pulling her hand from his."}
 {"beat":6,"event":"Then she smiles and slowly shakes her head, gentle, not a door closing."}
-{"beat":7,"event":"\"We just met today,\" she gives back, soft, almost apologetic."}
-{"beat":8,"event":"She squeezes his hand hard, and her eyes stay on his."}
-{"beat":9,"event":"\"But I really like you.\""}
+{"beat":7,"event":"\"We just met today,\" she gives back, soft, almost apologetic.","memory":[{"page":"lore/the-dating-game-echo","fact":"Alan asked to kiss Echo the day they met, and she gently declined.","shown":true},{"page":"lore/the-dating-game-echo","fact":"Alan asked to kiss Echo the day they met, and she gently declined.","learns":"character-player/the-dating-game-alan"},{"page":"lore/the-dating-game-echo","fact":"Alan asked to kiss Echo the day they met, and she gently declined.","learns":"character-other/the-dating-game-echo"}]}
+{"beat":8,"event":"She squeezes his hand hard, and her eyes stay on his.","changes":[{"page":"world-relationship/the-dating-game-echo","key":"relationshipPoints","from":13,"to":16,"note":"Closeness scoring: validation, acknowledgment and intimacy 1 each"}]}
+{"beat":9,"event":"\"But I really like you.\"","at":"2026-09-26T09:51:00.000Z","memory":[{"page":"lore/the-dating-game-echo","fact":"Echo really likes Alan, and told him so.","shown":true},{"page":"lore/the-dating-game-echo","fact":"Echo really likes Alan, and told him so.","learns":"character-player/the-dating-game-alan"}]}
+

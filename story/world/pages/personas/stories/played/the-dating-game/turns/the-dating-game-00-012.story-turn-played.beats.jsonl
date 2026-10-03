@@ -1,13 +1,14 @@
 {"beat":1,"event":"Alan: \"Okay, I'm glad you have good boundaries.\""}
 {"beat":2,"event":"\"With the aphantasia I have no sense of time, which makes it hard for me to tell\""}
-{"beat":3,"event":"\"when the timing is right, but I'm happy to let you set the pace. I really do like you.\""}
+{"beat":3,"event":"\"when the timing is right, but I'm happy to let you set the pace. I really do like you.\"","memory":[{"page":"lore/the-dating-game-alan","fact":"Alan's aphantasia leaves him no sense of time, so he finds it hard to tell when timing is right.","shown":true},{"page":"lore/the-dating-game-alan","fact":"Alan's aphantasia leaves him no sense of time, so he finds it hard to tell when timing is right.","learns":"character-other/the-dating-game-echo"}]}
 {"beat":4,"event":"\"So, you read LitRPG? What's one of your favorite series?\""}
 {"beat":5,"event":"Echo listens, and something in her shoulders eases."}
-{"beat":6,"event":"\"Set the pace,\" she gives back, quiet and grateful, and nods once."}
-{"beat":7,"event":"The trail narrows where a slab of quartzite juts across it."}
+{"beat":6,"event":"\"Set the pace,\" she gives back, quiet and grateful, and nods once.","changes":[{"page":"world-relationship/the-dating-game-echo","key":"relationshipPoints","from":16,"to":20,"note":"Closeness scoring: validation, acknowledgment, reassurance and intimacy 1 each"}],"memory":[{"page":"lore/the-dating-game-alan","fact":"Alan asked Echo to set the pace between them, and she agreed.","shown":true},{"page":"lore/the-dating-game-alan","fact":"Alan asked Echo to set the pace between them, and she agreed.","learns":"character-player/the-dating-game-alan"},{"page":"lore/the-dating-game-alan","fact":"Alan asked Echo to set the pace between them, and she agreed.","learns":"character-other/the-dating-game-echo"}]}
+{"beat":7,"event":"The trail narrows where a slab of quartzite juts across it.","memory":[{"page":"place/the-dating-game-rock-canyon","fact":"Further up the trail, a knee-high slab of pink-and-grey quartzite juts across it.","shown":true},{"page":"place/the-dating-game-rock-canyon","fact":"Further up the trail, a knee-high slab of pink-and-grey quartzite juts across it.","learns":"character-player/the-dating-game-alan"},{"page":"place/the-dating-game-rock-canyon","fact":"Further up the trail, a knee-high slab of pink-and-grey quartzite juts across it.","learns":"character-other/the-dating-game-echo"}]}
 {"beat":8,"event":"She slips her hand free to steady herself on the rock as she steps over."}
 {"beat":9,"event":"On the far side she doesn't take his hand again, but she waits for him and walks close."}
 {"beat":10,"event":"At \"favorite series\" she brightens, and her announcer voice comes back, rich and dramatic:"}
-{"beat":11,"event":"\"Dungeon Crawler Carl.\""}
+{"beat":11,"event":"\"Dungeon Crawler Carl.\"","memory":[{"page":"lore/the-dating-game-echo","fact":"Echo's favorite LitRPG series is Dungeon Crawler Carl.","shown":true},{"page":"lore/the-dating-game-echo","fact":"Echo's favorite LitRPG series is Dungeon Crawler Carl.","learns":"character-player/the-dating-game-alan"}]}
 {"beat":12,"event":"She grins, plainly proud of the choice."}
-{"beat":13,"event":"Then she turns his own question back on him, head tilted: \"What's one of your favorite series?\""}
+{"beat":13,"event":"Then she turns his own question back on him, head tilted: \"What's one of your favorite series?\"","at":"2026-09-26T09:54:00.000Z"}
+
