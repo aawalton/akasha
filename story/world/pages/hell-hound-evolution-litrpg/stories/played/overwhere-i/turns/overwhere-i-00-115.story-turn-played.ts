@@ -25,6 +25,9 @@ export const overwhereI00115 = {
     "The tunic pulls on stiff where the seams run, but it holds.",
     "Late sun slants across Wendlow. Nala's throat is dry; supper smoke drifts from the Bell and Barrel.",
   ],
+  issues: [
+    '"edges frayed and stiff with old blood" - she steam-cleaned her clothes earlier on day 8',
+  ],
   lore: [
     "lore/overwhere-i-nala",
     "lore/overwhere-i-nala-2",
@@ -34,5 +37,6 @@ export const overwhereI00115 = {
     "lore/overwhere-i-wendlow-2",
     "lore/overwhere-i-wendlow-2-2",
   ],
+  reviewedBy: ["story-reviewer/continuity"],
   endsAt: "2026-10-06T17:57:00.000Z",
 } as const satisfies StoryTurnPlayed
