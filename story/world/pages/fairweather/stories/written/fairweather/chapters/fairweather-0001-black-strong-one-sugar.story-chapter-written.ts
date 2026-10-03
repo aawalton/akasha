@@ -11,12 +11,13 @@ export const fairweather0001BlackStrongOneSugar = {
   story: "story-written/fairweather",
   ownLength: 0,
   prose: "txt",
-  stepStatus: "step-status/mechanics",
+  stepStatus: "step-status/game-master",
   beats: "jsonl",
   mechanicsIssues: [
     "beat 22: Elsie counts out the two-lantern fee, but she knows no fee and no beat has her told it",
     "beat 89: Elsie writes Tamsin's axe is Margery, but no beat has Tamsin name the axe to her",
   ],
+  mechanicsSentBack: true,
   issues: [
     "beat 39: Elsie uses a water flask and a brown tincture; no page or change gives her either",
     "beat 88: the belt the rank tag hangs on comes off, but the tag stays in the waist slot",
@@ -59,7 +60,7 @@ export const fairweather0001BlackStrongOneSugar = {
     "story-reviewer/continuity",
     "story-reviewer/style",
   ],
-  recordedBy: ["story-recorder/inventory", "story-recorder/plan"],
+  recordedBy: ["story-recorder/inventory", "story-recorder/plan", "story-recorder/mechanics"],
   scenes: [
     "image/image-be916eb145fde6e6",
     "image/image-76cf4eaedeb67989",
