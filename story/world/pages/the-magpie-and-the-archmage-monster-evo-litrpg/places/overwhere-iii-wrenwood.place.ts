@@ -264,6 +264,10 @@ export const overwhereIiiWrenwood = {
       fact: "On the shingle no print holds; a sharp eye finds wet claw scrapes and black-matted fur on a bramble.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Downstream and on the north bank there is no sign; the brook between is stony shallows.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place
