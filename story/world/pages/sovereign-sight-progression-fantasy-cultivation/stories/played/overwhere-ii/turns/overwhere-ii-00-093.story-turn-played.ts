@@ -37,6 +37,6 @@ export const overwhereIi00093 = {
     "lore/overwhere-ii-varrow-talented",
   ],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
-  recordedBy: ["story-recorder/inventory"],
+  recordedBy: ["story-recorder/inventory", "story-recorder/memory"],
   endsAt: "2026-10-22T07:00:00.000Z",
 } as const satisfies StoryTurnPlayed

@@ -220,5 +220,9 @@ export const overwhereIiNala3 = {
       fact: "Undertow is a draw, so the Lady's sparring rule bars Nala from using it against the Talented.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
+    {
+      fact: "Nala's refined ribs took a glancing blow of Osric's wooden maul, leaving only a bruise.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+    },
   ],
 } as const satisfies Lore
