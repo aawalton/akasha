@@ -1,0 +1,11 @@
+import type { WorldMechanic } from "akasha/story/world/mechanics/world-mechanic.page-type.types.ts"
+
+export const fairweatherCast = {
+  id: "01a10216-8733-7200-9816-a7a43a2ff56b",
+  type: "page-type/world-mechanic",
+  slug: "fairweather-cast",
+  title: "Cast",
+  world: "world/fairweather",
+  description:
+    "Elsie Fairweather is the player character: about twenty, a gorgeous, slim young Korean woman with short rose-pink hair and rose-pink eyes, her face as her character's `coverDescription` says and her look as her cover shows. The girls of Lanternmere are adventurers, guild folk and young women of the city, adults in their twenties, never personas: every one gorgeous, feminine and slim, never heavy, large-chested or older, each with her own home, family, class, wants and troubles. Other townsfolk are adults of any age, and no man is ever a love interest. The premise names the first girls, the watcher Cora among them; the world builder makes each her own, invents the rest, decides when each enters, and starts with the girls Elsie meets on her first day. Each named character has a character-other at `story/world/pages/fairweather/stories/written/fairweather/characters/fairweather-<name>.character-other.ts`, with `story: \"story-written/fairweather\"` and `title` her name, and a lore page at `story/world/pages/fairweather/lore/fairweather-<name>.lore.ts` in `world/fairweather` holding her look, nature, class and life as facts. Elsie's own lore, `fairweather-elsie.lore.ts` there, holds her look as her cover shows it, her nature, her class and level, and the life she remembers, and the world builder lands it before chapter 1. The world builder lands each other character's page and lore before the chapter she first appears in, with a portrait as her `cover`: render her alone, head to thigh, in the story design's visual style, as her lore's look describes her, as the picture recorder renders a turn but 832 wide and 1216 tall. The renderer draws women busty, so the prompt states her slim build and small chest, and the world builder renders again until it matches before setting `cover`. Renders queue on their own, so never wait for the GPU to go quiet. The memory story recorder tells each character each fact the prose shows her.",
+} as const satisfies WorldMechanic
