@@ -10,7 +10,7 @@ export const hollowmere0034Bend = {
   story: "story-written/hollowmere",
   ownLength: 7388,
   prose: "txt",
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/game-master",
   beats: [
     "Saturday of week five: the Fell Cup. Bea is up at five, white-faced, and eats one dry toast.",
     'You make her breathe out, twice. She holds your ringed hand. "Jetty wall," she says. "Shouting."',
@@ -87,6 +87,12 @@ export const hollowmere0034Bend = {
     "You carry the blanket down to the rug and sleep there, tangled, her hand on your ringed hand.",
     "A day at Hollowmere ends.",
   ],
+  issues: [
+    '"ringing it like a madwoman" - the beat makes the shopkeeper a man ringing his bell',
+    "\"I haven't done that since the spring\" - Yusra hasn't slept a whole night since the summer",
+    '"Three nights now. In a row." - Yusra works the infirmary night shift on Thursdays, ten till six',
+    '"Her palm, the night before last" - Bea showed Nala BEND on her palm on Tuesday, not Thursday',
+  ],
   lore: [
     "lore/hollowmere-academy-2",
     "lore/hollowmere-amara",
@@ -118,5 +124,5 @@ export const hollowmere0034Bend = {
     "character-other/hollowmere-amara",
     "character-other/hollowmere-yusra",
   ],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
 } as const satisfies StoryChapterWritten
