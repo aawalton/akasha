@@ -141,5 +141,9 @@ export const overwhereIiiCorruption2 = {
       fact: "A seed stone from a beast's bite keeps a faint dark thread to that beast for some days.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "The kiln jackalopes are Level 8, 9 and 11; blight makes them bold, and they hunt as a pack.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
