@@ -7,5 +7,7 @@ export const fairweatherTamsin = {
   title: "Tamsin",
   story: "story-written/fairweather",
   place: "place/fairweather-lanternmere",
-  cover: "image/image-05df1e626829edbb",
+  cover: "image/image-d34454b4584b976c",
+  coverDescription:
+    "a gorgeous, slim, athletic young Korean woman of twenty-one with a K-pop idol's pretty face: a small V-line face, almond-shaped eyes of bright green, a small nose, full lips in a crooked teasing grin, warm sun-kissed golden skin dusted with light freckles across her nose and cheeks, and a wild mass of long copper-red curls, barely tied back",
 } as const satisfies CharacterOther
