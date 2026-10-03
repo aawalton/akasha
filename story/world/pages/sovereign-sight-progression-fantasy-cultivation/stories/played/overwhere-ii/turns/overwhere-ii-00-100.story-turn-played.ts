@@ -10,7 +10,7 @@ export const overwhereIi00100 = {
   position: 100,
   prose: "txt",
   characters: ["character-player/overwhere-ii-nala"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/game-master",
   action: "I test my strength, Pushing against the blackness",
   beats: [
     "Nala walks to the slick's lower edge and plants the spear butt in the grass.",
@@ -39,6 +39,6 @@ export const overwhereIi00100 = {
     "lore/overwhere-ii-nala-3",
     "place/overwhere-ii-callow-beck",
   ],
-  reviewedBy: ["story-reviewer/continuity"],
+  reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
   endsAt: "2026-10-25T16:50:00.000Z",
 } as const satisfies StoryTurnPlayed
