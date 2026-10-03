@@ -24,6 +24,11 @@ export const overwhereI00099 = {
     '"I\'ll need a name for the receipt," she says, pen poised.',
     '"My Analyze shows none for you. What do I write?"',
   ],
+  issues: [
+    '"4 when I went after the wolves" - Nala reached Level 5 on day 2, before the day-3 wolf hunt',
+    '"I was 7 when I met Voss" - Nala reached Level 8 at the pine island on day 4, before the quarry',
+  ],
   lore: ["lore/overwhere-i-nala", "lore/overwhere-i-nala-2", "place/overwhere-i-wendlow"],
+  reviewedBy: ["story-reviewer/continuity"],
   endsAt: "2026-10-05T12:20:00.000Z",
 } as const satisfies StoryTurnPlayed
