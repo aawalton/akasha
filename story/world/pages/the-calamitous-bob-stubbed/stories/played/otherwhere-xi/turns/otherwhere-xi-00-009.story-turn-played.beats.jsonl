@@ -1,20 +1,20 @@
-{"beat":1,"event":"Nala watches Wenna's hands, and does what she can."}
-{"beat":2,"event":"\"Her head,\" Wenna says without looking up. \"Kneel. Hold it in your lap. Talk to her.\""}
+{"beat":1,"event":"Nala watches Wenna's hands, and does what she can.","at":"2026-09-28T08:50:00.000Z"}
+{"beat":2,"event":"\"Her head,\" Wenna says without looking up. \"Kneel. Hold it in your lap. Talk to her.\"","memory":[{"page":"lore/otherwhere-xi-wenna-ashlar","fact":"For a hard lambing Wenna wants a helper to hold the ewe's head, then fetch tallow and water.","learns":"character-player/otherwhere-xi-nala"}]}
 {"beat":3,"event":"Nala kneels in the straw and takes the ewe's head. It is heavy, hot, and trembling."}
-{"beat":4,"event":"The ewe's eye rolls up at her, white-rimmed. Nala talks low, nonsense, and the trembling eases."}
-{"beat":5,"event":"\"Tallow. The crock on the shelf inside the door. And water from the cistern. Go.\""}
-{"beat":6,"event":"Nala runs, the robe's hem catching at her feet; the crock is where Wenna said."}
+{"beat":4,"event":"The ewe's eye rolls up at her, white-rimmed. Nala talks low, nonsense, and the trembling eases.","changes":[{"page":"world-relationship/otherwhere-xi-wenna-ashlar","key":"relationshipPoints","from":2,"to":4,"note":"Nala does as Wenna bids, and watches to learn (standing +2)"}],"memory":[{"page":"lore/otherwhere-xi-nala","fact":"Nala held the down ewe's head in her lap and calmed her by talking low.","learns":"character-player/otherwhere-xi-nala"},{"page":"lore/otherwhere-xi-nala","fact":"Nala held the down ewe's head in her lap and calmed her by talking low.","learns":"world-character/otherwhere-xi-wenna-ashlar"}]}
+{"beat":5,"event":"\"Tallow. The crock on the shelf inside the door. And water from the cistern. Go.\"","memory":[{"page":"place/otherwhere-xi-ashlar-farm","fact":"A crock of tallow sits on the shelf inside the Ashlar farmhouse door.","learns":"character-player/otherwhere-xi-nala"}]}
+{"beat":6,"event":"Nala runs, the robe's hem catching at her feet; the crock is where Wenna said.","at":"2026-09-28T08:52:00.000Z"}
 {"beat":7,"event":"She hauls a bucket from the cistern, water slopping cold down the red robe."}
-{"beat":8,"event":"Her mouth is dry; the water in the bucket smells of stone and snowmelt."}
-{"beat":9,"event":"Back in the pen, Wenna greases her hand and forearm to the elbow and goes in."}
+{"beat":8,"event":"Her mouth is dry; the water in the bucket smells of stone and snowmelt.","memory":[{"page":"place/otherwhere-xi-ashlar-farm","fact":"The Ashlar cistern water smells of stone and snowmelt.","learns":"character-player/otherwhere-xi-nala"}]}
+{"beat":9,"event":"Back in the pen, Wenna greases her hand and forearm to the elbow and goes in.","at":"2026-09-28T08:56:00.000Z"}
 {"beat":10,"event":"Nala holds the head again. Wenna's jaw sets; her whole arm strains, and she grunts."}
-{"beat":11,"event":"Long minutes. The ewe heaves and cries. Wenna swears under her breath, and pulls her arm out."}
-{"beat":12,"event":"She sits back on her heels, breathing hard, and looks at her hand: big, cracked, bleeding a little."}
-{"beat":13,"event":"\"Leg's back. I can feel it. I can't get round it. My hand's too big for her.\""}
-{"beat":14,"event":"Pell has crept to the hurdles. \"That's how the other two went, Mam.\""}
+{"beat":11,"event":"Long minutes. The ewe heaves and cries. Wenna swears under her breath, and pulls her arm out.","at":"2026-09-28T09:05:00.000Z"}
+{"beat":12,"event":"She sits back on her heels, breathing hard, and looks at her hand: big, cracked, bleeding a little.","memory":[{"page":"lore/otherwhere-xi-wenna-ashlar","fact":"Wenna's hands are cracked and her grip like a man's from forty ewes a season.","shown":true}]}
+{"beat":13,"event":"\"Leg's back. I can feel it. I can't get round it. My hand's too big for her.\"","memory":[{"page":"lore/otherwhere-xi-wenna-ashlar","fact":"Wenna's big, cracked hands struggle inside a small ewe; slim hands turn a lamb more easily.","learns":"character-player/otherwhere-xi-nala"}]}
+{"beat":14,"event":"Pell has crept to the hurdles. \"That's how the other two went, Mam.\"","memory":[{"page":"lore/otherwhere-xi-wenna-ashlar","fact":"Wenna has lost two ewes before to turned lambs.","learns":"character-player/otherwhere-xi-nala"},{"page":"lore/otherwhere-xi-wenna-ashlar","fact":"Wenna has lost two ewes this spring to turned lambs, and cannot spare a third.","shown":true}]}
 {"beat":15,"event":"\"I know what I lost.\" Wenna doesn't take her eyes off the ewe."}
 {"beat":16,"event":"Then she looks at Nala's hands, holding the ewe's head. Small. Pale. Narrow at the wrist."}
-{"beat":17,"event":"\"Your hands,\" she says. \"They're small enough.\""}
+{"beat":17,"event":"\"Your hands,\" she says. \"They're small enough.\"","at":"2026-09-28T09:08:00.000Z","memory":[{"page":"lore/otherwhere-xi-wenna-ashlar","fact":"Wenna asked Nala to turn the down ewe's lamb, as Nala's small hands fit where hers cannot.","learns":"character-player/otherwhere-xi-nala"}]}
 {"beat":18,"event":"\"Grease to the elbow. In slow, between her pushes. Find the leg, cup the hoof, bring it forward.\""}
 {"beat":19,"event":"\"I'll talk you through it. I'll hold her.\" She holds out the tallow crock."}
 {"beat":20,"event":"The ewe heaves again, and cries."}
