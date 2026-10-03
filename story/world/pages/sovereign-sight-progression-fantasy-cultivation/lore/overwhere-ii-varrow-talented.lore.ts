@@ -135,5 +135,17 @@ export const overwhereIiVarrowTalented = {
       fact: "In Nala's second bout, Hawise blurred past her spear and touched her clean in the ribs.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
+    {
+      fact: "In Nala's third bout, a puddle slicked under Hawise's foot and Nala's spear touched her breastbone.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+    },
+    {
+      fact: 'After losing to Nala, Hawise said she had never fought the ground before, and nodded: "Good."',
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+    },
+    {
+      fact: "After Hawise's bout, Corra hopped down from the well-curb, sparks crackling, to spar Nala next.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+    },
   ],
 } as const satisfies Lore
