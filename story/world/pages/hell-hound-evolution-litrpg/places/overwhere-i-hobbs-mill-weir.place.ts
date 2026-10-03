@@ -37,7 +37,7 @@ export const overwhereIHobbsMillWeir = {
     },
     {
       fact: "Fish bones, a snapped oar and a torn boot lie strewn on the dry top of the weir apron.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
     {
       fact: "A long shed skin, grey-green and ragged, hangs in the alders on the pool's west bank.",
