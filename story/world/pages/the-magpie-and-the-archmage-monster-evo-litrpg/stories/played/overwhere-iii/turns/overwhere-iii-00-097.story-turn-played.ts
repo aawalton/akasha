@@ -13,16 +13,7 @@ export const overwhereIii00097 = {
   characters: ["character-player/overwhere-iii-nala"],
   stepStatus: "step-status/player",
   action: "I pull a knot of currents onto its head to finish it off",
-  beats: [
-    "Nala reaches for every raw current within reach and drags them toward the boar's head.",
-    "Blue, green and yellow grind together, fighting her grip, and the strain bites.",
-    "The boar breaks into its charge, and the knot slides with it, half a stride behind.",
-    "The currents tear loose from her grip and scatter, unburst.",
-    "The boar hits her full on. She goes down hard in the frost, the ward flaring as it takes the blow.",
-    "Her ribs throb. The ward's shimmer is still on her skin.",
-    "The boar's momentum carries it past. It skids, wheels round in the brambles, and faces her again.",
-    "Five paces off, the boar snorts blood into the frost.",
-  ],
+  beats: "jsonl",
   issues: [
     '"It stands five paces off, snorting blood, tusks low." - No Prompt',
     '"Brook-blue, earth-brown and frost-white" - currents above the ford are blue, green and yellow',

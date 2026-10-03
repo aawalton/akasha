@@ -62,9 +62,9 @@
 {"propertySlug":"import","fileName":"page-value.module.code.ts","path":"command/pages/request/modules/reaching/request-reaching.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-value.module.code.ts","path":"command/pages/seat/supervisor/stop/seat-supervisor-stop.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-value.module.code.ts","path":"command/pages/story/modules/turn-changes/turn-changes.module.code.ts","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"page-value.module.code.ts","path":"command/pages/story/modules/turn-memory/turn-memory.module.code.ts","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"page-value.module.code.ts","path":"command/pages/story/modules/turn-memory/turn-memory.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-value.module.code.ts","path":"command/pages/story/turn/advance/modules/turn-described/turn-described.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"page-value.module.code.ts","path":"command/pages/story/turn/advance/modules/turn-memory/turn-memory.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"page-value.module.code.ts","path":"command/pages/story/turn/advance/modules/turn-memory/turn-memory.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-value.module.code.ts","path":"command/pages/story/turn/cancel/story-turn-cancel.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-value.module.code.ts","path":"command/pages/story/turn/modules/turn-keeping/turn-keeping.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-value.module.code.ts","path":"command/pages/story/turn/modules/turn-lore-gathered/turn-lore-gathered.module.code.ts","typed":false,"deferred":false}

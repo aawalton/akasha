@@ -40,9 +40,6 @@
 {"propertySlug":"import","fileName":"multi-relation-property.page-type.types.ts","path":"persona/craft-day/properties/personas-crafted.multi-relation-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"multi-relation-property.page-type.types.ts","path":"persona/properties/cover-images.multi-relation-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"multi-relation-property.page-type.types.ts","path":"persona/properties/wallpaper-images.multi-relation-property.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"multi-relation-property.page-type.types.ts","path":"story/chapter/properties/beat-scene-arrive.multi-relation-property.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"multi-relation-property.page-type.types.ts","path":"story/chapter/properties/beat-scene-leave.multi-relation-property.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"multi-relation-property.page-type.types.ts","path":"story/chapter/properties/beat-scene-present.multi-relation-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"multi-relation-property.page-type.types.ts","path":"story/chapter/properties/step-lore.multi-relation-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"multi-relation-property.page-type.types.ts","path":"story/chapter/properties/step-recorded-by.multi-relation-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"multi-relation-property.page-type.types.ts","path":"story/chapter/properties/step-reviewed-by.multi-relation-property.ts","typed":true,"deferred":false}

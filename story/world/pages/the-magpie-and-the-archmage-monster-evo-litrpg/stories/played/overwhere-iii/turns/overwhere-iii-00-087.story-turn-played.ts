@@ -18,17 +18,7 @@ export const overwhereIii00087 = {
   ],
   stepStatus: "step-status/player",
   action: "“I don’t know for sure.” I tell her what K saw and heard.",
-  beats: [
-    '"I don\'t know for sure."',
-    "Nala tells her what she saw from the ground. The woman prying up her hearthstone.",
-    "A stone and a sheaf of notes stuffed into her shawl. Then south, over the brook, into the deep wood.",
-    'And what she said going: "The Lantern will hear of you, holy one."',
-    "Marda's pen hangs still over the ledger.",
-    '"South," she says. "A day south, under the Mother Beech, there\'s the Hollow. Guild-sealed."',
-    '"The Lantern, I\'ve never heard of." She looks at Nala. "But she named you holy. I don\'t like that."',
-    'She dips her pen and writes. "You go in the Thornmere letter. A holy mage they\'ve marked."',
-    'Then she jerks her chin at the stair. "There\'s a room upstairs, free. The watch passes that door."',
-  ],
+  beats: "jsonl",
   lore: [
     "lore/overwhere-iii-edda-crane",
     "lore/overwhere-iii-marda-hesk",

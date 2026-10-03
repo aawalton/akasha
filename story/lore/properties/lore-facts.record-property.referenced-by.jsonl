@@ -1,6 +1,6 @@
-{"propertySlug":"import","fileName":"lore-facts.record-property.ts","path":"command/pages/story/modules/turn-memory/turn-memory.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"lore-facts.record-property.ts","path":"command/pages/story/tell/modules/tell-continuing/tell-continuing.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"lore-facts.record-property.ts","path":"command/pages/story/tell/story-tell.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"lore-facts.record-property.ts","path":"command/pages/story/turn/advance/modules/turn-memory/turn-memory.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"lore-facts.record-property.ts","path":"story/lore-disclosure/modules/lore-scrubbing/lore-scrubbing.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"lore-facts.record-property.ts","path":"story/lore-disclosure/modules/lore-scrubbing/lore-scrubbing.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"lore-facts.record-property.ts","path":"story/lore-disclosure/modules/lore-withholding/lore-withholding.module.code.ts","typed":false,"deferred":false}

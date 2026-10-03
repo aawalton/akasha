@@ -13,14 +13,7 @@ export const overwhereIii00075 = {
   characters: ["character-player/overwhere-iii-nala", "character-other/overwhere-iii-marda-hesk"],
   stepStatus: "step-status/player",
   action: "“Cleansed and merged into a glimmer. Can I give you the value in coin instead?”",
-  beats: [
-    '"Cleansed and merged into a glimmer. Can I give you the value in coin instead?"',
-    "Marda's hand stays out a moment. Then she lowers it and huffs through her nose.",
-    '"Keep your coin. I asked for them back to see them done. What comes out of them is the healer\'s."',
-    'She writes a line in the ledger, slow. "Six seed stones and the wolf\'s. Since noon."',
-    "She sets down the pen. Her eyes go to Nala's hands, pink and raw across both palms.",
-    '"And what did that to your palms?"',
-  ],
+  beats: "jsonl",
   issues: [
     '"I wanted them cracked, not back" - in 73 Marda said "Bring those back" and in 74 asked for them',
   ],

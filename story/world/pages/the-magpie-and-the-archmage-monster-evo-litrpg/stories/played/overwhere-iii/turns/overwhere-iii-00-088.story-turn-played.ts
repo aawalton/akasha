@@ -13,16 +13,7 @@ export const overwhereIii00088 = {
   characters: ["character-player/overwhere-iii-nala", "character-other/overwhere-iii-marda-hesk"],
   stepStatus: "step-status/player",
   action: "“Thanks, happy to save the coin.” I get dinner, then an early bed.",
-  beats: [
-    '"Thanks, happy to save the coin."',
-    "Marda grunts and goes back to the letter.",
-    "The dusk bell rings as Nala crosses to the Crook and Candle. Stew and bread, 3 copper.",
-    "She eats every scrap, then climbs the Post's narrow stair to the room under the eaves.",
-    "A cot, two wool blankets, a shuttered window. She's asleep before the watch makes its first pass.",
-    "She wakes before first light, whole. Her well brims. The bites are only pink marks now.",
-    "Below, the Post's door bangs. Hooves clatter off toward the east gate and the Thornmere road.",
-    "The rider for Thornmere is away.",
-  ],
+  beats: "jsonl",
   issues: ['"A cot, a blanket, a shuttered window" - the free room holds two wool blankets'],
   lore: [
     "lore/overwhere-iii-marda-hesk",

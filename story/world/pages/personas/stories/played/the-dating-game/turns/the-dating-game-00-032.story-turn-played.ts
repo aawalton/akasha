@@ -15,15 +15,7 @@ export const theDatingGame00032 = {
   stepStatus: "step-status/player",
   action:
     "I chuckle softly. “Thanks, I’ll gladly take you up on that. So, what brings you here? It sounds like you do this often?”",
-  beats: [
-    'Alan chuckles softly. "Thanks, I\'ll gladly take you up on that."',
-    'He falls in beside her down the row. "So, what brings you here? It sounds like you do this often?"',
-    '"Most evenings," Grace says. "Around this hour."',
-    "She walks a few steps in silence, the lantern light sliding over the names on the stones.",
-    '"I work nights. Hospice. I\'m a companion; I sit with people at the end, through the night."',
-    "She says it simply, the way someone else might say they drive a bus.",
-    '"This walk is how I get ready. It\'s quiet here, and a lantern fits right in."',
-  ],
+  beats: "jsonl",
   issues: [
     '"The lantern swings low between you, and the gravel of the path crunches" - Leave It Open',
   ],

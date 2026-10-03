@@ -84,7 +84,7 @@ function advancing(asked: Prompting): string {
 }
 
 export function recordedLine(noun: string): string {
-  return `What the steps before you recorded of the ${noun} is on it: each beat's time, place and who is there in \`beatScenes\`, the numbers and items each beat changes in the \`beatChanges\` file beside it, who learns which fact and what the reader is shown in the \`beatMemory\` file beside it, and its pictures at \`cover\`, \`scenes\` and \`pictured\`. Numbers and knowers reach their pages only as the ${noun} reaches its player, so read this ${noun}'s part in those files rather than on the pages. Any \`mechanicsIssues\` on it are what the mechanics step still found once it had sent the ${noun} back the one time it may: check each against the beats and the prose, and raise as your own issue each one that still stands and your instructions cover.`
+  return `What the steps before you recorded of the ${noun} is in its beats file, the \`.beats.jsonl\` file beside it, one json line to a beat: its \`event\`, its time, place and who is there, the numbers and items it changes under \`changes\`, and who learns which fact and what the reader is shown under \`memory\`. Its pictures are on the ${noun} at \`cover\`, \`scenes\` and \`pictured\`. Numbers and knowers reach their pages only as the ${noun} reaches its player, so read this ${noun}'s part in those files rather than on the pages. Any \`mechanicsIssues\` on it are what the mechanics step still found once it had sent the ${noun} back the one time it may: check each against the beats and the prose, and raise as your own issue each one that still stands and your instructions cover.`
 }
 
 export function reviewerPrompt(asked: Prompting, reviewer: Reviewer): string {
@@ -112,7 +112,7 @@ export function mechanicsPrompt(asked: Prompting, recorder: Recorder): string {
   return [
     `You are the ${recorder.name} story recorder at the mechanics step of ${asked.title}, working out what each beat of one ${noun} changes in numbers and items.`,
     "",
-    `The ${noun} is \`${asked.turnAt}\`, its beats on it. Your instructions are \`${recorder.instructionsAt}\`, beside the story recorder page \`${recorder.at}\`.`,
+    `The ${noun} is \`${asked.turnAt}\`, its beats in the \`.beats.jsonl\` file beside it. Your instructions are \`${recorder.instructionsAt}\`, beside the story recorder page \`${recorder.at}\`.`,
     ...writtenSaid(asked.written, noun),
     "",
     `Read your instructions, then the ${noun} and its beats, and do what the instructions say. Draft no edit: write your changes to a file, one json change to a line, and each beat that cannot work to an issues file, one issue to a line. Then advance the ${noun} once:`,

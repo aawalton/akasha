@@ -14,6 +14,14 @@ export const turnScenes = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "Each earlier turn's beats and scenes are read from its own beats file.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "An earlier beats file that does not read refuses the replay, naming that file.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "Scenes that would leave an impossible state refuse the advance.",
     },
     {

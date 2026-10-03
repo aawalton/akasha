@@ -24,14 +24,10 @@ import {
   type Changing,
   cacheNamed,
   changesChecked,
-  changesHeld,
   changesIndexed,
 } from "akasha/command/pages/story/modules/turn-changes/turn-changes.module.code.ts"
 import {
-  memoryHeld,
-  memorySettled,
-} from "akasha/command/pages/story/modules/turn-memory/turn-memory.module.code.ts"
-import {
+  beatsHeld,
   cachedOf,
   type Scening,
   scenedOf,
@@ -52,6 +48,7 @@ import {
   taken,
   titledOf,
 } from "akasha/command/pages/story/turn/advance/modules/turn-handing/turn-handing.module.code.ts"
+import { memorySettled } from "akasha/command/pages/story/turn/advance/modules/turn-memory/turn-memory.module.code.ts"
 import {
   timeCheckIndexed,
   untimedRefused,
@@ -166,8 +163,8 @@ function untimedOn(reach: Reaching, root: string, read: Taken, held: Held, turn:
   return untimedRefused(reach.timeCheckOf(root, held.game), held.game, turn.slug, turn.value)
 }
 
-function unsizedOn(read: Taken, turn: Turn): string | null {
-  return read.chapter ? lengthRefused(read.handed, turn.value) : null
+function unsizedOn(read: Taken, beats: number): string | null {
+  return read.chapter ? lengthRefused(read.handed, beats) : null
 }
 
 async function noticesOver(
@@ -215,7 +212,10 @@ async function heldOn(
   const stated = heldOf(turn)
   if ("refused" in stated) return refused(stated.refused, DATA)
   const textOf = (path: string) => reach.textIn(given.root, path)
-  const held = { ...stated, changes: changesHeld(turn, textOf), memory: memoryHeld(turn, textOf) }
+  const beats = beatsHeld(turn, textOf)
+  if ("refused" in beats) return refused(beats.refused, DATA)
+  const { changes, memory } = beats
+  const held = { ...stated, beats: beats.beats.length, changes, memory }
   const seat = reach.seatOf(given.root, given.agentId)
   const caller: Caller = seat ?? { role: null, game: null }
   const reviewers = reach.reviewersIn(given.root)
@@ -237,7 +237,7 @@ async function heldOn(
   const timedTurn = { ...turn, value: { ...turn.value, ...scened.values } }
   const untimed = untimedOn(reach, given.root, read, held, timedTurn)
   if (untimed !== null) return refused(untimed, DATA)
-  const unsized = unsizedOn(read, turn)
+  const unsized = unsizedOn(read, held.beats)
   if (unsized !== null) return refused(unsized, DATA)
   const recording = read.handed.kind === "record"
   const moved = recording ? reach.keep(given.root, given.agentId, turn.at) : []
@@ -268,7 +268,7 @@ async function heldOn(
       ...titled,
       ...inPlay.values,
     },
-    ...bodiesOf(said),
+    ...bodiesOf(said, beats),
   }
   const folded = reach.fold(given.root, naming)
   if ("refused" in folded) return back([folded.refused])

@@ -55,7 +55,6 @@
 {"propertySlug":"import","fileName":"instant-property.page-type.types.ts","path":"person/sms-consent/properties/sms-consent-submitted-at.instant-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"instant-property.page-type.types.ts","path":"persona/properties/last-messaged-at.instant-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"instant-property.page-type.types.ts","path":"product/kofi/contributor/properties/contribution-point-at.instant-property.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"instant-property.page-type.types.ts","path":"story/chapter/properties/beat-scene-at.instant-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"instant-property.page-type.types.ts","path":"story/world/mechanics/appointments/properties/appointment-at.instant-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"instant-property.page-type.types.ts","path":"story/world/stories/played/chapters/properties/chapter-ends-at.instant-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"instant-property.page-type.types.ts","path":"story/world/stories/played/properties/story-opens-at.instant-property.ts","typed":true,"deferred":false}

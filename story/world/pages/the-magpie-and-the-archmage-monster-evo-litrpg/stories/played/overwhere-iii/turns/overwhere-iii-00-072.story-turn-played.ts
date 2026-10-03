@@ -14,18 +14,7 @@ export const overwhereIii00072 = {
   stepStatus: "step-status/player",
   action:
     "“Oh! Inventory sounds useful!” I pull open the skill shop and buy it. “Done! Any other basics I might have missed?”",
-  beats: [
-    '"Oh! Inventory sounds useful!" Nala calls up the skill shop. A blue window opens before her.',
-    "Skills: Spark 3, Mana Bolt 5, Appraise 5, Gust 6, Minor Ward 8, Mend 10, Purify 15.",
-    "Traits: Inventory 3.",
-    "She picks Inventory. Three glimmerstones fade from her pack.",
-    "[New trait acquired – Inventory.]",
-    "[Inventory – At [Basic] level, keep a knapsack's worth in a pocket bound to you.]",
-    '"Done!" she says. "Any other basics I might have missed?"',
-    'Marda snorts. "Appraise, from that same shop."',
-    '"A staff of your own. The cooper by the market sells plain ash ones, fifteen copper."',
-    '"And never go out with your well dry." She eyes Nala. "Which you are."',
-  ],
+  beats: "jsonl",
   lore: [
     "lore/overwhere-iii-marda-hesk",
     "lore/overwhere-iii-nala",

@@ -3,7 +3,8 @@ import { mkdirSync, rmSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
 import { scratchWorld } from "akasha/file/system/modules/scratching/scratching.module.code.ts"
 import { valueAlsoFiled } from "akasha/page/index/test-fixtures/filing/index-filing.test-fixture.code.ts"
-import { stepBeats } from "akasha/story/chapter/properties/step-beats.text-property.ts"
+import { beats as beatsFile } from "akasha/story/chapter/properties/beats.file-property.ts"
+import { beatsWritten } from "akasha/story/engine/beat-state/modules/beat-records/beat-records.module.code.ts"
 import { lore } from "akasha/story/lore/lore.page-type.ts"
 import { loreFact } from "akasha/story/lore/properties/lore-fact.text-property.ts"
 import { loreFacts } from "akasha/story/lore/properties/lore-facts.record-property.ts"
@@ -65,6 +66,12 @@ function sealedWorld(): string {
   mkdirSync(dirname(at), { recursive: true })
   writeFileSync(at, BODY)
   return root
+}
+
+function beatsBeside(root: string, at: string, beats: readonly string[]): undefined {
+  const file = join(root, at.replace(/\.ts$/, ".beats.jsonl"))
+  mkdirSync(dirname(file), { recursive: true })
+  writeFileSync(file, beatsWritten({ beats, scenes: [], changes: [], memory: [] }))
 }
 
 function scrubberOf(root: string): Scrubber {
@@ -194,11 +201,12 @@ function playedWorld(): string {
         type: `page-type/${storyTurnPlayed.slug}`,
         slug: "held-00-001",
         [turnAction.propertySlug]: ACTION,
-        [stepBeats.propertySlug]: [QUOTING, OWN],
+        [beatsFile.propertySlug]: "jsonl",
         [prose.propertySlug]: "txt",
       },
     },
   ])
+  beatsBeside(root, PLAYED_AT, [QUOTING, OWN])
   const written = join(root, PLAYED_AT.replace(/\.ts$/, ".prose.txt"))
   mkdirSync(dirname(written), { recursive: true })
   writeFileSync(written, `${PROSE}\n`)
@@ -244,11 +252,12 @@ function writtenWorld(): string {
         id: "01a0d600-0000-7000-8000-00000000000c",
         type: `page-type/${storyChapterWritten.slug}`,
         slug: "held-0001",
-        [stepBeats.propertySlug]: [CHAPTER_BEAT],
+        [beatsFile.propertySlug]: "jsonl",
         [prose.propertySlug]: "txt",
       },
     },
   ])
+  beatsBeside(root, CHAPTER_AT, [CHAPTER_BEAT])
   const written = join(root, CHAPTER_AT.replace(/\.ts$/, ".prose.txt"))
   mkdirSync(dirname(written), { recursive: true })
   writeFileSync(written, `${CHAPTER_PROSE}\n`)

@@ -21,8 +21,6 @@ const REVIEWED_BY = "reviewedBy"
 
 const RECORDED_BY = "recordedBy"
 
-const BEATS = "beats"
-
 const MECHANICS_ISSUES = "mechanicsIssues"
 
 const MECHANICS_SENT_BACK = "mechanicsSentBack"
@@ -55,7 +53,7 @@ export function heldOf(turn: Turn): Held | { readonly refused: string } {
     reviewedBy: stringsIn(turn.value[REVIEWED_BY]).map(bareOf),
     recordedBy: stringsIn(turn.value[RECORDED_BY]).map(bareOf),
     written: turn.value[PROSE] !== undefined && turn.value[OWN_LENGTH] !== 0,
-    beats: stringsIn(turn.value[BEATS]).length,
+
     mechanicsIssues: stringsIn(turn.value[MECHANICS_ISSUES]),
     mechanicsSentBack: turn.value[MECHANICS_SENT_BACK] === true,
   }

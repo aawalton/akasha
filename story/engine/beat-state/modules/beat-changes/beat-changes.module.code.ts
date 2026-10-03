@@ -211,7 +211,3 @@ export function mergedOf(
 ): readonly BeatChange[] {
   return [...had, ...more].toSorted((one, other) => one.beat - other.beat)
 }
-
-export function linesOf(changes: readonly BeatChange[]): string {
-  return changes.map((one) => `${JSON.stringify(one)}\n`).join("")
-}

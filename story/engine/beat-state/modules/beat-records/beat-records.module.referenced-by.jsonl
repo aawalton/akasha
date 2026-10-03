@@ -1,4 +1,11 @@
 {"propertySlug":"import","fileName":"beat-records.module.code.ts","path":"change/mechanical/page-type/move/fold-beats-into-file/fold-beats-into-file.change-mechanical-page-type.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"beat-records.module.code.ts","path":"change/mechanical/page-type/move/fold-beats-into-file/fold-beats-into-file.change-mechanical-page-type.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"beat-records.module.code.ts","path":"command/pages/story/modules/turn-changes/turn-changes.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"beat-records.module.code.ts","path":"command/pages/story/modules/turn-changes/turn-changes.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"beat-records.module.code.ts","path":"command/pages/story/modules/turn-scenes/turn-scenes.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"beat-records.module.code.ts","path":"command/pages/story/turn/advance/modules/chapter-length/chapter-length.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"beat-records.module.code.ts","path":"command/pages/story/turn/advance/story-turn-advance.command.test-fixtures.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"beat-records.module.code.ts","path":"story/engine/beat-state/modules/beat-records/beat-records.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"beat-records.module.code.ts","path":"story/lore-disclosure/modules/lore-scrubbing/lore-scrubbing.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"beat-records.module.code.ts","path":"story/lore-disclosure/modules/lore-scrubbing/lore-scrubbing.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"story/engine/beat-state/beat-state.domain.ts","id":"01a10235-fdaa-7b5b-968e-b88481cce87f"}

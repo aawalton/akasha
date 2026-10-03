@@ -27,7 +27,7 @@ export const turnMechanics = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A reviewers' send-back reruns mechanics but gives mechanics no second send-back.",
+      statement: "A reviewers' send-back reruns mechanics, which sends back only if it never has.",
     },
     {
       decisionKind: "decision-kind/departure",

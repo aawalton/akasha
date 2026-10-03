@@ -13,13 +13,7 @@ export const overwhereIii00076 = {
   characters: ["character-player/overwhere-iii-nala", "character-other/overwhere-iii-marda-hesk"],
   stepStatus: "step-status/player",
   action: "“I’m not sure”, I hold them out. “I feel like they’ll heal fine though.",
-  beats: [
-    '"I\'m not sure." Nala holds her hands out, palms up. "I feel like they\'ll heal fine though."',
-    "Marda takes one wrist and turns the palm to the window light. Her grip is dry and careful.",
-    "The skin is pink and tight, like a scald off a hot pan, but nowhere blistered or broken.",
-    '"Hm." She lets go. "Burned clean, at least."',
-    'She looks at Nala a moment longer, then picks up her pen. "Suit yourself."',
-  ],
+  beats: "jsonl",
   issues: [
     '"Outside, the afternoon light lies long and gold across the post\'s step." - Leave It Open',
   ],

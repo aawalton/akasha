@@ -2,7 +2,6 @@ import { expect, test } from "bun:test"
 import {
   type Memory,
   memoryIn,
-  memoryLines,
   shownOf,
 } from "akasha/story/engine/beat-state/modules/beat-memory/beat-memory.module.code.ts"
 
@@ -39,9 +38,6 @@ test("a memory naming two acts, none, a stray key or a beat past the turn is ref
   })
 })
 
-test("what the reader was shown is every shown or established fact, and lines read back", () => {
-  const memory = [SHOWN, NEW, LEARNS]
-  expect(shownOf(memory)).toEqual([SHOWN, NEW])
-  const lines = memoryLines(memory).trim().split("\n")
-  expect(memoryIn(lines, 3)).toEqual(memory)
+test("what the reader was shown is every shown or established fact", () => {
+  expect(shownOf([SHOWN, NEW, LEARNS])).toEqual([SHOWN, NEW])
 })

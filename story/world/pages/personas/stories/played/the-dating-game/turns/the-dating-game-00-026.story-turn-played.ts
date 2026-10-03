@@ -15,17 +15,7 @@ export const theDatingGame00026 = {
   stepStatus: "step-status/player",
   action:
     "“I love walking in the night. My sleep is a little irregular, so sometimes I’ll be out at basically any hour, but the deep night is my favorite. Cool, quiet, calm. I find it soothing.”",
-  beats: [
-    'Alan: "I love walking in the night. My sleep is a little irregular,"',
-    '"so sometimes I\'ll be out at basically any hour, but the deep night is my favorite."',
-    '"Cool, quiet, calm. I find it soothing."',
-    "Grace's gold eyes warm, and she tilts her head, really looking at him now.",
-    '"Most people only put up with the dark," she says, low. "You like it."',
-    '"Cool, quiet, calm," she repeats, slowly, as if tasting how well he put it.',
-    "\"It's never frightened me either. It's where things get honest.\"",
-    "She turns the unlit lantern a quarter turn on the step, idly, her eyes still on him.",
-    '"So where do your feet take you, at that hour?"',
-  ],
+  beats: "jsonl",
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
   recordedBy: ["story-recorder/picture", "story-recorder/mechanics", "story-recorder/memory"],
   endsAt: "2026-09-26T17:06:00.000Z",

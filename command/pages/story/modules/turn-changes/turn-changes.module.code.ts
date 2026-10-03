@@ -1,34 +1,30 @@
-import type { Turn } from "akasha/command/pages/story/modules/turn-scenes/turn-scenes.module.code.ts"
 import { listedAt } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import { exportedAs } from "akasha/page/modules/export-name/page-export-name.module.code.ts"
-import { besideAt } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
 import { valueAt } from "akasha/page/modules/value/page-value.module.code.ts"
 import { slugOf } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 import type { Naming } from "akasha/page/service/modules/page-composing/page-composing.module.code.ts"
-import { beatChanges } from "akasha/story/chapter/properties/beat-changes.file-property.ts"
-import { beatMemory } from "akasha/story/chapter/properties/beat-memory.file-property.ts"
+import { beats as beatsFile } from "akasha/story/chapter/properties/beats.file-property.ts"
 import {
-  type BeatChange,
   cachedOf,
-  changesIn,
   changesRefused,
   mergedOf,
   type Reading,
 } from "akasha/story/engine/beat-state/modules/beat-changes/beat-changes.module.code.ts"
+import {
+  type Beats,
+  beatsWritten,
+} from "akasha/story/engine/beat-state/modules/beat-records/beat-records.module.code.ts"
 import { typeOf } from "akasha/story/world/stories/played/turns/modules/turn-cast/turn-cast.module.code.ts"
 import {
   type Handed,
   type Held,
-  linesIn,
   MECHANICS,
   type Moved,
   PLAYER,
   type TurnStep,
 } from "akasha/story/world/stories/played/turns/modules/turn-lifecycle/turn-lifecycle.module.code.ts"
 
-const CHANGES = exportedAs(beatChanges.propertySlug)
-
-const MEMORY = exportedAs(beatMemory.propertySlug)
+const BEATS = exportedAs(beatsFile.propertySlug)
 
 const PROSE = "prose"
 
@@ -36,24 +32,21 @@ type Refused = { readonly refused: string }
 
 export type Changing = (root: string) => Reading
 
-export function changesHeld(turn: Turn, textOf: (path: string) => string): readonly BeatChange[] {
-  const ending = turn.value[CHANGES]
-  if (typeof ending !== "string") return []
-  const at = besideAt(turn.at, beatChanges.propertySlug, ending)
-  if (at === null) return []
-  try {
-    const read = changesIn(linesIn(textOf(at)), Number.MAX_SAFE_INTEGER)
-    return "refused" in read ? [] : read
-  } catch {
-    return []
-  }
+export function beatsBodyOf(held: Beats, said: Moved): string | null {
+  if (said.planned !== null) return beatsWritten({ ...said.planned, changes: [], memory: [] })
+  if (said.changes === null && said.memory === null) return null
+  const changes = said.changes ?? held.changes
+  return beatsWritten({ ...held, changes, memory: said.memory ?? held.memory })
 }
 
-export function bodiesOf(said: Moved): { readonly bodies?: { readonly [key: string]: string } } {
+export function bodiesOf(
+  said: Moved,
+  held: Beats
+): { readonly bodies?: { readonly [key: string]: string } } {
   const bodies: { [key: string]: string } = {}
   if (said.prose !== null) bodies[PROSE] = said.prose
-  if (said.changes !== null) bodies[CHANGES] = said.changes
-  if (said.memory !== null) bodies[MEMORY] = said.memory
+  const beats = beatsBodyOf(held, said)
+  if (beats !== null) bodies[BEATS] = beats
   return Object.keys(bodies).length === 0 ? {} : { bodies }
 }
 

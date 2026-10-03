@@ -14,17 +14,7 @@ export const overwhereI00115 = {
   stepStatus: "step-status/player",
   action:
     "I spend the afternoon testing weaves to see if I can get something to repair the tears in my clothes.",
-  beats: [
-    "Nala finds a quiet spot and lays out her wool tunic: a bolt-torn rent at the ribs, a slit sleeve.",
-    "Her cloak hem hangs ragged too.",
-    "She starts with the pairs she knows. Fire scorches a brown edge onto the rent; she snuffs it fast.",
-    "Air frays the threads looser. Water alone only soaks the cloth.",
-    "She tries pair after pair through the warm afternoon, and the tunic takes each one badly.",
-    "Earth with water, last: the wool fibres creep together and lock.",
-    "The rent at the ribs felts shut in a stiff, ridged seam, a hand-span long, in about five minutes.",
-    "She works the slit sleeve the same way; another ridge, stiff but whole.",
-    "Throat dry from the long afternoon, Nala pulls the tunic on and rolls her shoulders; the seams hold.",
-  ],
+  beats: "jsonl",
   issues: [
     '"edges frayed and stiff with old blood" - she steam-cleaned her clothes earlier on day 8',
     '"The sun has slid low and gold across Wendlow\'s roofs while you worked." - Leave It Open',

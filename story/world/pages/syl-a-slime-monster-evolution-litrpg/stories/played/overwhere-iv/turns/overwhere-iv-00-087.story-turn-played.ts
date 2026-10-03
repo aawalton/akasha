@@ -14,19 +14,7 @@ export const overwhereIv00087 = {
   stepStatus: "step-status/player",
   action:
     "I decide I’m feeling rested enough and work my way back to where I killed them goblins, keeping my senses wide for more.",
-  beats: [
-    "Nala decides she's rested enough. She walks out the gate and down to Tull's ford in the morning sun.",
-    "Into the Tangle by the deer trail. Every little while she lets her sense spread wide and listens.",
-    "Birds. A squirrel. Leaves stirring. Nothing bigger moves within forty paces, again and again.",
-    "The reaching comes easier each time, and wider at rest, until it settles in her like breath.",
-    "<Proficiency gained. [Spatial Sense LV 4] improved to [Spatial Sense LV 5].>",
-    "Two hours in, the cleft opens ahead, bramble-walled. A fox bolts from the trail and is gone.",
-    "The dead lie where they fell: two scouts at the bank's foot, two climbers on it, two on the trail.",
-    "Crows and the fox have been at them. The ears are there, and the cores under the breastbones.",
-    "Slings, clubs, short spears and knives lie scattered in the leaf litter.",
-    "She cuts a left ear from each of the six and bags them.",
-    "A breeze comes down the cleft, carrying a faint smell of woodsmoke from far up the trail.",
-  ],
+  beats: "jsonl",
   lore: [
     "lore/overwhere-iv-millbrook-adventurers-hall-2",
     "lore/overwhere-iv-nala",

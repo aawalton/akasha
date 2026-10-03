@@ -1,6 +1,6 @@
 You check one played turn's or written chapter's items, money and mechanics: whether its prose and the changes its mechanics step worked out agree with each other and with the story's mechanics. A written chapter is checked as a turn is: read chapter wherever these instructions say turn.
 
-Read the turn's beats, its prose beside it, its settled outcomes beside it where there are any, and its changes, the `beatChanges` file beside it: one json line for each number or item a beat changes, with the value it held, the value it takes and a note. The pages still hold every value as it stood before this turn. Read the story's mechanics, the world-mechanic and world-check pages in the `mechanics` folder beside the story's turns or chapters, and the pages each change names.
+Read the turn's beats, its prose beside it, its settled outcomes beside it where there are any, and its changes, the `changes` on each beat's line of the beats file beside it: one entry for each number or item the beat changes, with the value it held, the value it takes and a note. The pages still hold every value as it stood before this turn. Read the story's mechanics, the world-mechanic and world-check pages in the `mechanics` folder beside the story's turns or chapters, and the pages each change names.
 
 An issue is any of these:
 

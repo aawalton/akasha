@@ -14,22 +14,7 @@ export const overwhereIi00094 = {
   stepStatus: "step-status/player",
   action:
     "I fight defensively, like I did against Dray, waiting for the right moment to use my Talent in a surprising way to force an opening.",
-  beats: [
-    "Nala sets the ash spear low and gives ground, as she did against Dray, waiting.",
-    "Hawise circles, blades loose, eyes on Nala's feet.",
-    "Nala reaches out with her sense: frost on the flags, rain in the hollows, the trough, the well.",
-    "Hawise feints left, then right. Nala's point follows each, steady.",
-    "Then Hawise blurs. Twice as fast as a woman can move.",
-    "Nala's spear swings to meet her, a heartbeat late.",
-    "One wooden blade knocks the shaft wide. The other is already under her guard.",
-    "It drives into her ribs, on the bruise Osric left. A clean touch.",
-    "Hawise steps back, and for a dozen heartbeats she moves like anyone else, breathing hard.",
-    'Hawise: "You were waiting for a moment. I don\'t give one."',
-    'Hawise: "Three, four breaths fast. Then I\'m slow a while. You saw that?"',
-    "Osric whoops from the rack. Corra hides a smile behind her hand.",
-    "Hawise taps her blades together and drops back into her stance.",
-    'Hawise: "Again."',
-  ],
+  beats: "jsonl",
   lore: [
     "lore/overwhere-ii-nala",
     "lore/overwhere-ii-nala-2",

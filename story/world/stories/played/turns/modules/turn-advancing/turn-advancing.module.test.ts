@@ -56,7 +56,8 @@ test("the game master's beats go to the writer, starting no seat and stopping no
   const beats = ["Mara opens the gate", "The hall is dark"]
   const said = movedOf(advanced(heldAt("game-master"), MASTER, { kind: "beats", beats }, TWO))
   expect(said.status).toBe("writer")
-  expect(said.values).toEqual({ stepStatus: at("writer"), beats })
+  expect(said.values).toEqual({ stepStatus: at("writer"), beats: "jsonl" })
+  expect(said.planned).toEqual({ beats, scenes: [] })
   expect(said.starts).toEqual([])
   expect(said.stopsCaller).toBe(false)
 })
@@ -287,9 +288,10 @@ test("the game master's beats go to mechanics, emptying its last run, and on to 
   const said = movedOf(stepping(ran, MASTER, { kind: "beats", beats: ["a"] }))
   expect([said.status, said.changes, said.values["recordedBy"]]).toEqual([
     "mechanics",
-    "",
+    null,
     undefined,
   ])
+  expect(said.planned).toEqual({ beats: ["a"], scenes: [] })
   expect(said.starts).toEqual(STEPPED.map((recorder) => ({ kind: "mechanics", recorder })))
   const held = heldAt("mechanics", { beats: 1, recordedBy: ["inventory"] })
   const on = movedOf(stepping(held, RECORDER, { kind: "record", recorder: "mechanics" }))
@@ -308,13 +310,13 @@ const LEARNS = { beat: 1, page: "lore/a", fact: "It is deep.", learns: "characte
 test("memory is kept beside the turn at recorders, refused at mechanics, emptied by a rerun", () => {
   const record = { kind: "record", recorder: memory.slug, memory: [LEARNS] } as const
   const said = movedOf(stepping(heldAt("recorders", { beats: 1 }), RECORDER, record))
-  expect(said.memory).toBe(`${JSON.stringify(LEARNS)}\n`)
+  expect(said.memory).toEqual([LEARNS])
   const early = { ...record, recorder: "mechanics" }
   expect(refusalOf(stepping(heldAt("mechanics"), RECORDER, early))).toContain("at recorders")
   const rerun = movedOf(
     stepping(heldAt("game-master", { memory: [LEARNS] }), MASTER, { kind: "beats", beats: ["a"] })
   )
-  expect(rerun.memory).toBe("")
+  expect([rerun.memory, rerun.planned]).toEqual([null, { beats: ["a"], scenes: [] }])
 })
 
 test("the after-prose recorders alone finish a turn, and only mechanics takes changes", () => {

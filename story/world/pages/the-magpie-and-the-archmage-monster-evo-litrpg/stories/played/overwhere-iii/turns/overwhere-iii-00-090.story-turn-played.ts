@@ -14,18 +14,7 @@ export const overwhereIii00090 = {
   stepStatus: "step-status/player",
   action:
     "I run backwards to avoid being pincered and to bunch them up, then turn and hit them with a braided cleanse and lash across the three",
-  beats: [
-    "Nala backs away fast, up the road, step after quick step.",
-    "The jackalopes outrun her in a few strides. Closing, they bunch together, shoulder to shoulder.",
-    "She turns and braids cleanse and lash together, then sweeps the braid across all three.",
-    "The lash cuts each one. The pull strand bites into all three at once.",
-    "Blight jerks up out of each of them, a single pull's worth, and the current carries the cold away.",
-    "The smallest tumbles, kicking. The other two stagger, shrieking, fur smoking where the lash cut.",
-    "They come at her anyway. The first lunges with its black-glowing antlers. She sidesteps it.",
-    "The second snaps at her calf. She skips back, and its teeth close on air.",
-    "The biggest butts at her hip. She twists aside, and it skids past through the frost.",
-    "All three wheel around, panting, blight still dark in them. The smallest can barely stand.",
-  ],
+  beats: "jsonl",
   lore: [
     "lore/overwhere-iii-braid-weaving",
     "lore/overwhere-iii-cleansing-weave",

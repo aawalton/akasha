@@ -14,17 +14,7 @@ export const overwhereIii00092 = {
   stepStatus: "step-status/player",
   action:
     "I thread my braided lash down into the burrow to finish it off, then reach in and pull it out, collecting the blightstones, then return to the Post for the bounties.",
-  beats: [
-    "Nala kneels at the stumps and threads her braid down between the roots, toward the blight.",
-    "The lash finds the jackalope in the dark. The pull strand bites. Under the roots, it goes still.",
-    "She reaches into the burrow and drags it out by the hind legs. A small blightstone lies under it.",
-    "She collects all three small blightstones and walks back up the south road toward town.",
-    "Her well fills a little on the way.",
-    "At the Post, Marda looks up from the ledger as Nala lays the three stones on the desk.",
-    "Marda turns them over one by one. Each is part-pale. Her brows go up.",
-    '"Silver apiece," she says, and counts three silver into Nala\'s hand.',
-    'She dips her pen to mark the ledger, then pauses. "Where\'d these come from?"',
-  ],
+  beats: "jsonl",
   lore: [
     "lore/overwhere-iii-corruption-2",
     "lore/overwhere-iii-marda-hesk",

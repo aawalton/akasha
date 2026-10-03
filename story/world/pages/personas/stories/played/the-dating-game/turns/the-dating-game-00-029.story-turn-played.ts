@@ -15,17 +15,7 @@ export const theDatingGame00029 = {
   stepStatus: "step-status/player",
   action:
     "“No, I like the quiet here too. I have a hard time feeling like death is real though. The past, the present, and the future all blur together for me.”",
-  beats: [
-    'Alan: "No, I like the quiet here too. I have a hard time feeling like death is real though."',
-    '"The past, the present, and the future all blur together for me."',
-    "Grace slows beside an old headstone, its carved name worn soft by weather.",
-    "She lets the lantern light rest on it a moment, then looks at him, grave and curious at once.",
-    '"It\'s real," she says gently. "I\'ve never once found it otherwise."',
-    "There is no sharpness in it, only certainty, the way someone states the weather.",
-    "Then the corner of her red mouth lifts. \"But I'm glad it doesn't sit heavy on you.\"",
-    "She walks on between the rows, lantern low, keeping her pace to his.",
-    '"All blurred together," she says, turning it over. "What\'s that like, from the inside?"',
-  ],
+  beats: "jsonl",
   issues: [
     '"[Grace, Closeness Level 1: ...]" - her closeness level is hidden, never shown in a window',
   ],

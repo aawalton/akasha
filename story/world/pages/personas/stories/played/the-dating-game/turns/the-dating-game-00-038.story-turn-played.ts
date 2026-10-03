@@ -14,13 +14,7 @@ export const theDatingGame00038 = {
   characters: ["character-other/the-dating-game-grace", "character-player/the-dating-game-alan"],
   stepStatus: "step-status/player",
   action: "“Mind if I join you again another night?”",
-  beats: [
-    'Alan: "Mind if I join you again another night?"',
-    "Grace's smile comes slow and warm, all the way up into her gold eyes.",
-    '"I\'d like that," she says. "Most evenings, about this hour. You know which step is mine."',
-    "She lifts the lantern a little in farewell, its light warm across them both.",
-    '"Good night, Alan. Take care of this one for me."',
-  ],
+  beats: "jsonl",
   issues: [
     '"Its small gold light moves off between the dark rows of stones" - Leave It Open',
     '"She touches his arm lightly in goodbye" - at level 1 touch goes no further than a greeting',

@@ -14,20 +14,7 @@ export const overwhereI00106 = {
   stepStatus: "step-status/player",
   action:
     "“Great! I’ll be back.” Then I go to the other two stores to sell the sword, crossbow, and grubboar tusks.",
-  beats: [
-    '"Great! I\'ll be back," Nala tells Ilse, and walks five minutes to Anvil Lane.',
-    "Wil Harrow's forge fronts the lane: a broad, bald smith with a burn-scarred forearm.",
-    "Nala lays Voss's sword and Crow's crossbow on his bench; her antler badge slips out with them.",
-    'Wil works the crossbow\'s crank and runs a thumb along the lath. "City work, this. I want it."',
-    "He turns the sword, finds the levy stamp, eyes the antler badge, and lets the question lie.",
-    '"Three gold six for the bow. Two gold two for the blade." He counts it out on the bench.',
-    "\"Plain soldier's short swords I take too, sixty copper apiece, if you've any about you.\"",
-    "Nala walks ten minutes down to the river stairs and a steamy cellar at their foot.",
-    "Mother Sallow is stooped and old, a clay pipe in her teeth among the bubbling pots.",
-    'She snatches up the grubboar tusks. "Old ones grind finest." She pays two silver four.',
-    "She squints at Nala's blade and boots. \"You've a hunter's look. After the Weir Wyrm?\"",
-    '"Bring me its bile sac within a day of the kill, and I\'ll pay two gold for it."',
-  ],
+  beats: "jsonl",
   issues: [
     '"glances at Nala\'s antler badge" - she pocketed the badge in turn 103; never pinned it on',
     '"taps her pipe at Nala\'s badge" - the badge is in her pocket since turn 103, not on show',

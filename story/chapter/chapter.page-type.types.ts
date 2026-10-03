@@ -1,11 +1,8 @@
 import type { Collection } from "akasha/alan/collection/collection.page-type.types.ts"
 import type { OwnLength } from "akasha/alan/collection/properties/own-length.number-property.types.ts"
 import type { Title } from "akasha/page/properties/title.text-property.types.ts"
-import type { BeatChanges } from "akasha/story/chapter/properties/beat-changes.file-property.types.ts"
-import type { BeatMemory } from "akasha/story/chapter/properties/beat-memory.file-property.types.ts"
-import type { BeatScenes } from "akasha/story/chapter/properties/beat-scenes.record-property.types.ts"
+import type { Beats } from "akasha/story/chapter/properties/beats.file-property.types.ts"
 import type { ChapterStory } from "akasha/story/chapter/properties/chapter-story.relation-property.types.ts"
-import type { StepBeats } from "akasha/story/chapter/properties/step-beats.text-property.types.ts"
 import type { StepIssues } from "akasha/story/chapter/properties/step-issues.text-property.types.ts"
 import type { StepLore } from "akasha/story/chapter/properties/step-lore.multi-relation-property.types.ts"
 import type { StepMechanicsIssues } from "akasha/story/chapter/properties/step-mechanics-issues.text-property.types.ts"
@@ -22,10 +19,7 @@ export type Chapter = Collection & {
   ownLength: OwnLength
   prose: Prose
   stepStatus?: StepStatus
-  beats?: StepBeats
-  beatScenes?: BeatScenes
-  beatChanges?: BeatChanges
-  beatMemory?: BeatMemory
+  beats?: Beats
   mechanicsIssues?: StepMechanicsIssues
   mechanicsSentBack?: StepMechanicsSentBack
   issues?: StepIssues

@@ -166,11 +166,6 @@
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"persona/properties/cover-images.multi-relation-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"persona/properties/wallpaper-images.multi-relation-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"product/kofi/feature-request/properties/feature-request-boosts.record-property.types.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"page-property.page-type.ts","path":"story/chapter/properties/beat-scene-arrive.multi-relation-property.types.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"page-property.page-type.ts","path":"story/chapter/properties/beat-scene-leave.multi-relation-property.types.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"page-property.page-type.ts","path":"story/chapter/properties/beat-scene-present.multi-relation-property.types.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"page-property.page-type.ts","path":"story/chapter/properties/beat-scenes.record-property.types.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"page-property.page-type.ts","path":"story/chapter/properties/step-beats.text-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"story/chapter/properties/step-issues.text-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"story/chapter/properties/step-lore.multi-relation-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"story/chapter/properties/step-mechanics-issues.text-property.types.ts","typed":true,"deferred":false}

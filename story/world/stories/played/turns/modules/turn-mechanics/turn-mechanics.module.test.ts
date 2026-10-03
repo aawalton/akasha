@@ -21,8 +21,6 @@ const GAIN = {
 
 const LATER = { ...GAIN, beat: 2, from: 2, to: 3 }
 
-const LINE = `${JSON.stringify(GAIN)}\n`
-
 function doneOf(said: Mechanicked) {
   if ("refused" in said) throw new Error(said.refused)
   return said
@@ -32,8 +30,8 @@ test("a seat that is not the last adds its changes and keeps the turn at mechani
   const handed = { kind: "record", recorder: "inventory", changes: [GAIN] } as const
   const said = doneOf(mechanicked(heldAt("mechanics", { beats: 2 }), handed, STEPPED))
   expect(said.next).toBe("mechanics")
-  expect(said.values).toEqual({ recordedBy: [recordedBy("inventory")], beatChanges: "jsonl" })
-  expect(said.changes).toBe(LINE)
+  expect(said.values).toEqual({ recordedBy: [recordedBy("inventory")] })
+  expect(said.changes).toEqual([GAIN])
 })
 
 test("every seat's changes merge in beat order", () => {
@@ -41,7 +39,7 @@ test("every seat's changes merge in beat order", () => {
   const handed = { kind: "record", recorder: "mechanics", changes: [GAIN] } as const
   const said = doneOf(mechanicked(held, handed, STEPPED))
   expect(said.next).toBe("on")
-  expect(said.changes).toBe(`${LINE}${JSON.stringify(LATER)}\n`)
+  expect(said.changes).toEqual([GAIN, LATER])
 })
 
 test("issues from any seat send the turn back once every seat has handed in", () => {
@@ -88,7 +86,7 @@ test("a rerun holds no change from the run before, so its changes are the whole 
     },
     STEPPED
   )
-  expect(doneOf(again).changes).toBe(LINE)
+  expect(doneOf(again).changes).toEqual([GAIN])
 })
 
 test("a change past the last beat, or an issue past a hundred characters, is refused", () => {

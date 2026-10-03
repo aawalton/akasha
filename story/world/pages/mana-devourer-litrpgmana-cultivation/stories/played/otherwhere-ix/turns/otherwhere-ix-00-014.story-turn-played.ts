@@ -15,22 +15,7 @@ export const otherwhereIx00014 = {
   stepStatus: "step-status/player",
   action:
     "I hold a quill in each hand and crouch low to the ground, keeping an eye on both the beast approaching on the ground and the one in the sky. If one comes close, I'll aim to stab into the belly or eyes depending on what is accessible.",
-  beats: [
-    "Nala takes a spine quill in each hand, holding each by its blunt root, and crouches low.",
-    "She keeps her eyes moving between the grass to the south and the bird overhead.",
-    "The bird is broad-winged, its pale wing edges glittering; it only circles, high and patient.",
-    "The beast comes out of the grass at the far side of the kill and stops, snout lifted.",
-    "It is thigh-high, heavy through the shoulders, its back a thick mat of pale quills.",
-    "It looks at the carcass, then at her, crouched low and bleeding beside it.",
-    "It does not rattle. It does not circle. It puts its head down and comes straight at her.",
-    "She drives the right-hand quill at its face as it reaches her.",
-    "Its eyes are small, sunk deep under a ridge of short brow quills, and she cannot find them.",
-    "The quill glances off the hard brow and snaps in her fist.",
-    "The jaws close on her other ankle, the good one, and bite down hard.",
-    "It hangs on and twists, and it is heavier than the first; it drags her half off balance.",
-    "One foot torn at the calf and the other held in its jaws, she has nothing left to stand on.",
-    "It wrenches again, harder, and she feels herself start to go over.",
-  ],
+  beats: "jsonl",
   issues: ['"Its throat is right there below you... Bare, and pale, and unquilled." - No Prompt'],
   lore: [
     "lore/otherwhere-ix-carrion-hawk",

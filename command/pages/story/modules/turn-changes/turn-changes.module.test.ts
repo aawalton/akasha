@@ -1,11 +1,16 @@
 import { expect, test } from "bun:test"
 import {
+  beatsBodyOf,
   cacheNamed,
   changesChecked,
-  changesHeld,
 } from "akasha/command/pages/story/modules/turn-changes/turn-changes.module.code.ts"
+import { beatsHeld } from "akasha/command/pages/story/modules/turn-scenes/turn-scenes.module.code.ts"
 import type { Reading } from "akasha/story/engine/beat-state/modules/beat-changes/beat-changes.module.code.ts"
-import type { Held } from "akasha/story/world/stories/played/turns/modules/turn-lifecycle/turn-lifecycle.module.code.ts"
+import { beatsWritten } from "akasha/story/engine/beat-state/modules/beat-records/beat-records.module.code.ts"
+import type {
+  Held,
+  Moved,
+} from "akasha/story/world/stories/played/turns/modules/turn-lifecycle/turn-lifecycle.module.code.ts"
 
 const XP = "metric-character/elsie-xp"
 
@@ -21,7 +26,26 @@ const READING: Reading = {
 const TURN = {
   at: "stories/saga/turns/saga-00-002.story-turn-played.ts",
   slug: "saga-00-002",
-  value: { beatChanges: "jsonl" },
+  value: { beats: "jsonl" },
+}
+
+const PLANNED = { beats: ["Elsie trains.", "Elsie rests."], scenes: [], changes: [], memory: [] }
+
+const LEARNS = { beat: 2, page: "lore/elsie", fact: "Elsie is tired", learns: "character/elsie" }
+
+function movedOf(more: Partial<Moved>): Moved {
+  return {
+    status: "mechanics",
+    values: {},
+    prose: null,
+    planned: null,
+    changes: null,
+    memory: null,
+    starts: [],
+    stopsCaller: false,
+    landsKept: false,
+    ...more,
+  }
 }
 
 function heldAt(status: Held["status"], more: Partial<Held> = {}): Held {
@@ -37,15 +61,26 @@ function heldAt(status: Held["status"], more: Partial<Held> = {}): Held {
   }
 }
 
-test("a turn's changes are read from the file beside it, and a turn naming none holds none", () => {
+test("a turn's beats are read from the one file beside it, and a turn naming none holds none", () => {
   const read: string[] = []
+  const held = { ...PLANNED, changes: [GAIN] }
   const textOf = (path: string) => {
     read.push(path)
-    return `${JSON.stringify(GAIN)}\n`
+    return beatsWritten(held)
   }
-  expect(changesHeld(TURN, textOf)).toEqual([GAIN])
-  expect(read).toEqual(["stories/saga/turns/saga-00-002.story-turn-played.beat-changes.jsonl"])
-  expect(changesHeld({ ...TURN, value: {} }, textOf)).toEqual([])
+  expect(beatsHeld(TURN, textOf)).toEqual(held)
+  expect(read).toEqual(["stories/saga/turns/saga-00-002.story-turn-played.beats.jsonl"])
+  expect(beatsHeld({ ...TURN, value: {} }, textOf)).toEqual({ ...PLANNED, beats: [] })
+  expect("refused" in beatsHeld(TURN, () => "not json\n")).toBe(true)
+})
+
+test("each step replaces only its own part of the beats, and the game master starts them again", () => {
+  const held = { ...PLANNED, changes: [GAIN] }
+  const remembered = beatsBodyOf(held, movedOf({ memory: [LEARNS] }))
+  expect(remembered).toBe(beatsWritten({ ...held, memory: [LEARNS] }))
+  const planned = { beats: ["Elsie sleeps."], scenes: [] }
+  expect(beatsBodyOf(held, movedOf({ planned }))).toBe(beatsWritten({ ...PLANNED, ...planned }))
+  expect(beatsBodyOf(held, movedOf({}))).toBeNull()
 })
 
 test("a mechanics seat's changes are checked with the changes the turn holds already", () => {

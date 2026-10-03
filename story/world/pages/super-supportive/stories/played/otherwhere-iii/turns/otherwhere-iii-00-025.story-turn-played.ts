@@ -19,19 +19,7 @@ export const otherwhereIii00025 = {
   stepStatus: "step-status/player",
   action:
     "“I will exercise my right. I would request Esh-erdi as my trusted witness. He should be on Earth soon to celebrate his inesvul if he isn’t here already. As I am new to this world, he is the only one I would trust.”",
-  beats: [
-    'Nala says, "I will exercise my right. I would request Esh-erdi as my trusted witness."',
-    '"He should be on Earth soon for his inesvul, if he isn\'t here already."',
-    "\"I'm new to this world. He's the only one I would trust.\"",
-    "Onn-desveth's face goes very still. At the desk the golden ropes flicker once.",
-    '"Esh-erdi," she says. "A Knight of the Mother Planet. You name him as if you know him."',
-    '"I know him only by his name and his rank. He has never heard of you."',
-    '"And he is not on Earth. He is off-world, far past what this consulate can easily reach."',
-    '"I cannot summon a knight. I could only send him a message, and wait."',
-    '"A message would carry your secret past me, to places I cannot follow it."',
-    '"That is the very thing this contract is meant to prevent." She folds her long hands.',
-    '"Name him, and we wait, and your secret travels. Or name someone else, here, in this city."',
-  ],
+  beats: "jsonl",
   lore: [
     "lore/otherwhere-iii-nala",
     "lore/otherwhere-iii-onn-desveth",

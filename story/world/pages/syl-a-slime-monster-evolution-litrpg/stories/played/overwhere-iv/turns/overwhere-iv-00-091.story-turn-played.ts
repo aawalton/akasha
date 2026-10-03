@@ -14,22 +14,7 @@ export const overwhereIv00091 = {
   stepStatus: "step-status/player",
   action:
     "“I’ll talk with the Four when they wake, if we can lure a full warband, we can start thinning the camp.” I go and take a nap, then pitch my idea.",
-  beats: [
-    '"I\'ll talk with the Four when they wake," Nala tells Ilsa.',
-    '"If we can lure a full warband out, we can start thinning the camp."',
-    'Ilsa grunts and nods at the hearth bench. "Doze there if you like. Free till the night bell."',
-    "Nala stretches out on the bench by the low fire and sleeps hard through the afternoon.",
-    "She wakes to boots and voices. The warmth behind her ribs is full. The Four come in, fed, near five.",
-    "She sits up and lays it out for them: lure a full warband out of Grakk's camp and thin it.",
-    "Dace's eyes light. \"Before Aubrin's band comes, and the work goes to strangers. I like it.\"",
-    '"Not tonight, though. The farms need watching. Tomorrow, if Ilsa finds others for the watch."',
-    '"Ears split even among all who go. Grakk\'s head goes to whoever drops him."',
-    '"I\'m in," Wren says at once. Orla looks to Dace, and nods when he does.',
-    'Merrit folds his arms. "At a ford. Where they bunch in the water, and I\'ve room for fire."',
-    "Ilsa looks up from her ledger. \"At the forest's edge, never in it. Then I'll pay ears as ever.\"",
-    '"Hobb\'s grown sons can sit the farm watch one night, if that frees the lot of you."',
-    'Dace turns to Nala. "Tomorrow, then. It\'s your plan. How do we draw them out?"',
-  ],
+  beats: "jsonl",
   lore: [
     "lore/overwhere-iv-brookside-four-2",
     "lore/overwhere-iv-ilsa-crane-2",

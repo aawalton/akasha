@@ -1,21 +1,26 @@
+import { readFileSync } from "node:fs"
+import { join } from "node:path"
 import type { Asking } from "akasha/change/runner/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
 import { stringsIn } from "akasha/code/type/narrowing/modules/strings-in/strings-in.module.code.ts"
-
 import {
   listedAt,
   valuesOfType,
 } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import { exportedAs } from "akasha/page/modules/export-name/page-export-name.module.code.ts"
+import { besideAt } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
 import { slugOf, textAt } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 import type { Naming } from "akasha/page/service/modules/page-composing/page-composing.module.code.ts"
-import { beatScenes } from "akasha/story/chapter/properties/beat-scenes.record-property.ts"
-import { stepBeats } from "akasha/story/chapter/properties/step-beats.text-property.ts"
+import { beats as beatsFile } from "akasha/story/chapter/properties/beats.file-property.ts"
+import {
+  type Beats,
+  beatsIn,
+  NO_BEATS,
+} from "akasha/story/engine/beat-state/modules/beat-records/beat-records.module.code.ts"
 import {
   type BeatScene,
   OPENING,
   type Played,
   replayed,
-  scenesIn,
   unnamedIn,
 } from "akasha/story/engine/beat-state/modules/beat-replay/beat-replay.module.code.ts"
 import { place } from "akasha/story/lore/place/place.page-type.ts"
@@ -36,9 +41,9 @@ import { storyTurnPlayed } from "akasha/story/world/stories/played/turns/story-t
 import { storyChapterWritten } from "akasha/story/world/stories/written/chapters/story-chapter-written.page-type.ts"
 import { storyWritten } from "akasha/story/world/stories/written/story-written.page-type.ts"
 
-const BEATS = exportedAs(stepBeats.propertySlug)
+const BEATS = exportedAs(beatsFile.propertySlug)
 
-const SCENES = exportedAs(beatScenes.propertySlug)
+const TEXT = "utf8"
 
 const ENDS_AT = exportedAs(turnEndsAt.propertySlug)
 
@@ -64,6 +69,7 @@ export type Paged = {
   readonly slug: string
   readonly at?: string
   readonly value: Readonly<Record<string, unknown>>
+  readonly beats?: Beats | Refused
 }
 
 export type Scened = {
@@ -91,14 +97,42 @@ function positionOf(value: Readonly<Record<string, unknown>>): number {
   return typeof at === "number" ? at : 0
 }
 
-export function playedOf(one: Paged): Played {
+export function beatsHeld(turn: Turn, textOf: (path: string) => string): Beats | Refused {
+  const ending = turn.value[BEATS]
+  if (typeof ending !== "string") return NO_BEATS
+  const at = besideAt(turn.at, beatsFile.propertySlug, ending)
+  if (at === null) return NO_BEATS
+  let text: string
+  try {
+    text = textOf(at)
+  } catch {
+    return NO_BEATS
+  }
+  const read = beatsIn(text)
+  if (!("refused" in read)) return read
+  return { refused: `the beats file beside \`${turn.at}\` does not read: ${read.refused}` }
+}
+
+export function playedOf(one: Paged): Played | Refused {
+  const held = one.beats ?? NO_BEATS
+  if ("refused" in held) return held
   const ends = one.value[ENDS_AT]
   return {
     turn: one.slug,
-    beats: stringsIn(one.value[BEATS]),
-    scenes: scenesIn(one.value[SCENES]),
+    beats: held.beats,
+    scenes: held.scenes,
     endsAt: typeof ends === "string" ? ends : null,
   }
+}
+
+export function playedIn(story: readonly Paged[]): readonly Played[] | Refused {
+  const played: Played[] = []
+  for (const one of story) {
+    const said = playedOf(one)
+    if ("refused" in said) return said
+    played.push(said)
+  }
+  return played
 }
 
 export function scenesSettled(
@@ -112,9 +146,10 @@ export function scenesSettled(
   const unnamed = unnamedIn(scenes, knowing.character, knowing.place)
   if (unnamed !== null) return { refused: unnamed }
   const at = positionOf(turn.value)
-  const before = inOrder(
-    story.filter((one) => one.slug !== turn.slug && positionOf(one.value) < at)
-  ).map(playedOf)
+  const before = playedIn(
+    inOrder(story.filter((one) => one.slug !== turn.slug && positionOf(one.value) < at))
+  )
+  if ("refused" in before) return before
   const opening = replayed(OPENING, before)
   if ("refused" in opening) {
     return { refused: `the story's beats before this one do not replay: ${opening.refused}` }
@@ -167,7 +202,9 @@ export function storyIndexed(root: string, game: string, chapter: boolean): read
     const named = [...stringsIn(one.value[COLLECTIONS]), ...(typeof of === "string" ? [of] : [])]
     const slug = textAt(one.value, SLUG)
     if (!named.includes(owner) || slug === null) return []
-    return [{ slug, at: one.path, value: one.value }]
+    const textOf = (path: string) => readFileSync(join(root, path), TEXT)
+    const beats = beatsHeld({ at: one.path, slug, value: one.value }, textOf)
+    return [{ slug, at: one.path, value: one.value, beats }]
   })
 }
 

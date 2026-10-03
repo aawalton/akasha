@@ -33,6 +33,14 @@ export const storyState = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A state reads each turn's beats, scenes, changes and memory from its beats file.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A beats file that does not read is named, rather than replayed as no beats.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A state writes nothing.",
     },
   ],

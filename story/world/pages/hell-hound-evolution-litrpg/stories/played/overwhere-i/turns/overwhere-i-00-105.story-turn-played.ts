@@ -13,15 +13,7 @@ export const overwhereI00105 = {
   characters: ["character-player/overwhere-i-nala"],
   stepStatus: "step-status/player",
   action: "“Eh, just the second pearl for now, range should cover what I need most.”",
-  beats: [
-    '"Eh, just the second pearl for now. Range should cover what I need most," Nala says.',
-    'Ilse nods. "Ten gold all told. Five now, with your pearl, and five when I hand it over."',
-    "Nala counts five gold onto the counter and sets the drake-pearl beside it.",
-    "Ilse sweeps both into a felt-lined box and snaps the lid.",
-    "She loops a twist of wire around Nala's finger, pinches it to size, and tags it.",
-    "From a drawer she takes a stamped tin claim tag and presses it into Nala's palm.",
-    '"Afternoon of day eleven. Bring the tag and the other five, and the ring\'s yours."',
-  ],
+  beats: "jsonl",
   lore: ["lore/overwhere-i-nala", "lore/overwhere-i-nala-2", "lore/overwhere-i-wendlow-2"],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
   recordedBy: [

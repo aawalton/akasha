@@ -2364,9 +2364,6 @@
 {"propertySlug":"import","fileName":"world-character.page-type.types.ts","path":"story/world/pages/twelve-steps-to-transcendence-a-skill-grinding-litrpg/characters/otherwhere-x-vane-branch-boy.world-character.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-character.page-type.types.ts","path":"story/world/pages/twelve-steps-to-transcendence-a-skill-grinding-litrpg/characters/otherwhere-x-worldcarver.world-character.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"story/world/world.page-type.ts","id":"01a063ce-6216-7000-8f40-f471a7c21987"}
-{"propertySlug":"target-page-type","path":"story/chapter/properties/beat-scene-arrive.multi-relation-property.ts","id":"01a1023a-d04a-725d-95cd-fe96a9fc5507"}
-{"propertySlug":"target-page-type","path":"story/chapter/properties/beat-scene-leave.multi-relation-property.ts","id":"01a1023a-d04b-7a05-90db-33983a52fc43"}
-{"propertySlug":"target-page-type","path":"story/chapter/properties/beat-scene-present.multi-relation-property.ts","id":"01a1023a-d04c-75d9-b6fb-37a82d9c84fd"}
 {"propertySlug":"target-page-type","path":"story/world/characters/properties/alias-of.relation-property.ts","id":"01a0b718-64c3-7c6a-abd0-02f96fe6b3b9"}
 {"propertySlug":"target-page-type","path":"story/world/characters/properties/characters.multi-relation-property.ts","id":"01a0de40-70c2-72d8-976d-f94658f84984"}
 {"propertySlug":"target-page-type","path":"story/world/characters/properties/merged-into.relation-property.ts","id":"01a0b751-74f6-7516-a911-7d58d348079b"}

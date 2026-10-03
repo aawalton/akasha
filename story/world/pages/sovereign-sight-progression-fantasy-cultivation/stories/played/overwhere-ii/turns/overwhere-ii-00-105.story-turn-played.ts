@@ -14,22 +14,7 @@ export const overwhereIi00105 = {
   stepStatus: "step-status/player",
   action:
     "“Keep watch while I try some experiments.” I take a small amount of the black water from the runoff as my target and try to separate the blackness from the water, pushing one and pulling the other.",
-  beats: [
-    'Nala: "Keep watch while I try some experiments."',
-    "Hawise climbs onto a boulder above the pool and settles there, blades across her knees.",
-    "Below the plug, a cupful of black run-off still lies in a hollow of the rock.",
-    "Nala kneels beside it and reaches in with her tide.",
-    "Fine work. She pushes at the water and pulls at the black, both at once.",
-    "For a breath they cling together like silt in a flood.",
-    "Then something gives. The black slides out of the water like a thread from cloth.",
-    "It comes faster than she dared hope. In a few minutes the hollow holds clear water.",
-    "Clear, faintly salt, and clean to her sense.",
-    "The black has drawn together on the stone beside it: a single bead, dense and ice-cold.",
-    "It feels like Water. Raw Water, heavier than her own.",
-    "To her well it feels like the water of the black stair in her dream.",
-    "The bead stirs. Slowly, it begins to crawl across the stone, toward the pool.",
-    'Hawise leans forward on her boulder. "That thing\'s moving."',
-  ],
+  beats: "jsonl",
   lore: [
     "lore/overwhere-ii-nala",
     "lore/overwhere-ii-nala-2",

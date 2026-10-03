@@ -23,6 +23,7 @@ import {
   MARA_LORE,
   MASTER,
   MOVED,
+  PLANNED_BODY,
   REVIEWED,
   ROOT,
   racing,
@@ -50,8 +51,9 @@ test("the game master's beats land on the turn and tell the writer the lore to r
   expect(answer.refusals).toEqual([])
   expect(into.folded[0]?.values).toEqual({
     stepStatus: `${stepStatus.slug}/writer`,
-    beats: ["Mara opens the gate", "The hall is dark"],
+    beats: "jsonl",
   })
+  expect(into.folded[0]?.bodies).toEqual({ beats: PLANNED_BODY })
   expect(into.folded[0]?.path).toBe(AT)
   expect(into.folded[0]?.merge).toBe(true)
   expect(into.starts).toEqual([])

@@ -153,7 +153,6 @@
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"product/kofi/feature-request/properties/feature-request-booster.relation-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"product/kofi/feature-request/properties/feature-request-product.relation-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"product/kofi/feature-request/properties/feature-request-proposer.relation-property.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"story/chapter/properties/beat-scene-place.relation-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"story/chapter/properties/chapter-story.relation-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"story/chapter/properties/step-status.relation-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"story/lore/place/properties/place-exit-to.relation-property.ts","typed":true,"deferred":false}

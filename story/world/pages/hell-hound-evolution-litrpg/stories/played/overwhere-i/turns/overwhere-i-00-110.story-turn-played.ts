@@ -14,22 +14,7 @@ export const overwhereI00110 = {
   stepStatus: "step-status/player",
   action:
     "I go and hide myself 20 yards from where it suns, then wait for it to appear. When it settles, I focus on the electricity element I haven’t used much and do a dual summon above it, hitting it with a targeting double lightning strike in the head. Then I try my double fire eye beams and try to burn through its skull.",
-  beats: [
-    "Nala picks her spot: the mill's chest-high tail-race wall, twenty yards from the weir's east third.",
-    "She creeps toward it along the bank, and a loose stone turns under her boot with a thud.",
-    "A ring spreads once across the pool. Nala reaches the wall and lies flat behind it.",
-    "She waits. Eleven comes and goes, and the sun beats on the stone with nothing on it.",
-    "Near half past eleven the water by the weir humps and parts, slow and careful.",
-    "The Wyrm hauls out onto the apron: grey-green, some twenty-five feet, thick as a man's waist.",
-    "It lies belly-down with its head on the stone, the scaled crown up, and keeps one eye on the bank.",
-    "Nala reaches for lightning, an element she has barely touched, and calls two strikes over it.",
-    "Both bolts crack down on the Wyrm's skull at once, thunder slamming off the mill wall.",
-    "The Wyrm jerks and goes rigid, twitching on the stone, stunned.",
-    "Nala looses twin fire beams from her eyes into its crown, and they bite through the scales.",
-    "Smoke and the stink of scorched flesh roll off the apron; the head sags, burned and torn.",
-    "White afterglow swims across Nala's sight as the beams die.",
-    "Through the glare, a long blur heaves on the stone and drags itself toward the water.",
-  ],
+  beats: "jsonl",
   lore: [
     "lore/overwhere-i-nala",
     "lore/overwhere-i-nala-2",

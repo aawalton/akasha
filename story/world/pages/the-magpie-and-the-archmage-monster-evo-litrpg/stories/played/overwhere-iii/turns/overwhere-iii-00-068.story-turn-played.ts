@@ -20,21 +20,7 @@ export const overwhereIii00068 = {
   stepStatus: "step-status/player",
   action:
     "I enjoy the oatcakes and ask Brannagh to spread the word that I’ll be healing in the morning only, other than emergencies. Then go to bed and check in in the morning before going to train with the guard.",
-  beats: [
-    "Nala takes the oatcakes with thanks. They're hot, buttery, and gone in a few bites.",
-    "She asks Brannagh to spread the word: she'll heal mornings only, except for emergencies.",
-    'Brannagh nods. "Mornings, and any hour for blood or blight. I\'ll tell them."',
-    "Nala walks to the Crook and Candle, pays Bet eight copper for the bed, and sleeps like a stone.",
-    "At first light she's back on Brannagh's lane, her well full. One boy waits on the bench.",
-    "He's a cooper's boy off the slate, an old dog-bite scar puckered across his cheek.",
-    "The first Mending Weave sinks in deep. The second and third smooth the cheek flat.",
-    "He grins, feels his face, and runs off down the lane without a word.",
-    "Nala walks to the south green. The watch is already drilling: Maud, Tam Rowe and five more.",
-    "Maud jerks her chin. Nala takes a staff from the rack and falls in late.",
-    "She runs, hauls, and bouts. Her staff work comes easier now. She blocks Tam twice running.",
-    "When the watch changes near half past ten, she's sweating, sore, and still on her feet.",
-    'Maud looks her over. "Better. Tomorrow at the dawn bell, if you want it."',
-  ],
+  beats: "jsonl",
   lore: [
     "lore/overwhere-iii-bet-harrow",
     "lore/overwhere-iii-brannagh-tull",

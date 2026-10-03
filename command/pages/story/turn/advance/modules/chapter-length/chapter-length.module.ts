@@ -18,6 +18,10 @@ export const chapterLength = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A chapter's beats are counted from its beats file, as the advance reads it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "The chapter before sets no length, and a refusal says so.",
     },
   ],

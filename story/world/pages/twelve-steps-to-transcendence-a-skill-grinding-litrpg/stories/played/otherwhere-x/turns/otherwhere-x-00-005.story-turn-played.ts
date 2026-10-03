@@ -15,20 +15,7 @@ export const otherwhereX00005 = {
   stepStatus: "step-status/player",
   action:
     '"None of these. I am from a place so far away that there are no reeve\'s, no tallies, and the roads are made from liquid stone."',
-  beats: [
-    "Nala says: none of these; she's from a place so far off there are no reeves, no tallies.",
-    '"And the roads are made from liquid stone."',
-    'Hob\'s mouth drops open. "Liquid stone! Like porridge? Do the carts sink? Is it hot?"',
-    "He fires question after question; Aldous lets him run on, watching Nala's face the while.",
-    "Across the green, folk are drifting out of doorways to stand and watch the reeve's step.",
-    "Bess comes up behind Aldous with the loaf, tears off a heel and pushes it into Nala's hands.",
-    "Aldous looks past Nala at the watchers, then back at her.",
-    '"Hob, in." The boy goes, protesting. Aldous swings the door wide and stands aside.',
-    "\"Come in off the step, mistress. What's to say next isn't for the green.\"",
-    "Past him, one warm room: a hearth, a board laid for supper, an iron-bound chest in the corner.",
-    "Beside the door the dusk bell starts to ring on its post, slow and heavy, calling folk in.",
-    "Aldous waits, one hand on the door, the bell ringing over their heads and the green watching.",
-  ],
+  beats: "jsonl",
   issues: [
     '"steps down onto the doorstone" - Aldous settles hard things indoors, not before the green',
     '"Will you go quiet to the Sheaf and wait for the patrol?" - No Prompt',

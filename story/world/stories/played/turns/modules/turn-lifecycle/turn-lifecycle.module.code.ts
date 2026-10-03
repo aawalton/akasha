@@ -8,7 +8,10 @@ import { writer } from "akasha/story/chapter/step-status/pages/writer.step-statu
 import { stepStatus } from "akasha/story/chapter/step-status/step-status.page-type.ts"
 import type { BeatChange } from "akasha/story/engine/beat-state/modules/beat-changes/beat-changes.module.code.ts"
 import type { Memory } from "akasha/story/engine/beat-state/modules/beat-memory/beat-memory.module.code.ts"
-import type { BeatScene } from "akasha/story/engine/beat-state/modules/beat-replay/beat-replay.module.code.ts"
+import type {
+  BeatScene,
+  Planned,
+} from "akasha/story/engine/beat-state/modules/beat-replay/beat-replay.module.code.ts"
 
 const TURN_STEPS = [
   worldBuilder.slug,
@@ -102,8 +105,9 @@ export type Moved = {
   readonly status: TurnStep
   readonly values: Readonly<Record<string, unknown>>
   readonly prose: string | null
-  readonly changes: string | null
-  readonly memory: string | null
+  readonly planned: Planned | null
+  readonly changes: readonly BeatChange[] | null
+  readonly memory: readonly Memory[] | null
   readonly starts: readonly Start[]
   readonly stopsCaller: boolean
   readonly landsKept: boolean

@@ -34,10 +34,7 @@ export const storyTurnPlayed = {
     },
     { pageProperty: "relation-property/step-status", required: true, many: false },
     { pageProperty: "text-property/turn-action", required: false, many: false },
-    { pageProperty: "text-property/step-beats", required: false, many: true, maxCount: 100 },
-    { pageProperty: "record-property/beat-scenes", required: false, many: true, maxCount: 100 },
-    { pageProperty: "file-property/beat-changes", required: false, many: false },
-    { pageProperty: "file-property/beat-memory", required: false, many: false },
+    { pageProperty: "file-property/beats", required: false, many: false },
     {
       pageProperty: "text-property/step-mechanics-issues",
       required: false,

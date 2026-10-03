@@ -18,22 +18,7 @@ export const overwhereIii00089 = {
   stepStatus: "step-status/player",
   action:
     "I sleep then decide to go hunting towards the blight. After facing those wolves, being weak is far more of a threat to me than going into danger. I stop by Brannagh’s first to check for patients to practice my mending weave on, then rest a while to refill my mana, the go out into the forest.",
-  beats: [
-    "At first light Nala goes down to Brannagh's.",
-    "A weaver off the slate waits on the bench. A six-year-old scar from a loom-oil fire twists her hand.",
-    "Nala lays her palm over it and weaves a Mending. The shiny ridge softens.",
-    "A second weave, and the twist eases. The third drags, and a dull throb wakes behind Nala's eyes.",
-    "But it holds. The scar lies flat and pale. The weaver opens and closes her hand, slowly.",
-    'She sets a new pair of wool mittens on the counter, "for the healer," and goes.',
-    "On the counter beside them still sits the shepherd's wedge of hill cheese.",
-    "Nala settles in the corner to rest while her well refills. Three hours, and it brims.",
-    "She goes out the south gate, past the crossroads shrine, down the south road toward the wood.",
-    "After an hour under the beeches, the frost along the road starts to go gray.",
-    "Edda's kilns sit in a clearing by the road. Around them stand a dozen blighted stumps.",
-    "Something moves in the stumps. Gray fur, matted black.",
-    "Three jackalopes slip out from the roots, their antlers glowing black.",
-    "They spread out low around her, one on each side and one ahead.",
-  ],
+  beats: "jsonl",
   lore: [
     "lore/overwhere-iii-brannagh-tull",
     "lore/overwhere-iii-brannagh-tull-2",

@@ -1,5 +1,5 @@
 import {
-  linesOf,
+  type BeatChange,
   mergedOf,
 } from "akasha/story/engine/beat-state/modules/beat-changes/beat-changes.module.code.ts"
 import { storyRecorder } from "akasha/story/recorder/story-recorder.page-type.ts"
@@ -14,8 +14,6 @@ const MOST_LINES = 100
 
 const LONGEST_LINE = 100
 
-const CHANGES_HELD = "jsonl"
-
 const PARTED = "/"
 
 export type Recorded = Extract<Handed, { readonly kind: "record" }>
@@ -24,7 +22,7 @@ export type Mechanicked =
   | { readonly refused: string }
   | {
       readonly values: Readonly<{ [key: string]: unknown }>
-      readonly changes: string | null
+      readonly changes: readonly BeatChange[] | null
       readonly recordedBy: readonly string[]
       readonly next: "mechanics" | "game-master" | "on"
     }
@@ -61,11 +59,10 @@ export function mechanicked(
   const back = all && issues.length > 0 && held.mechanicsSentBack !== true
   const values = {
     recordedBy: recordedBy.map((one) => `${storyRecorder.slug}${PARTED}${one}`),
-    ...(changes.length === 0 ? {} : { beatChanges: CHANGES_HELD }),
     ...(issues.length === 0 ? {} : { mechanicsIssues: issues }),
     ...(back ? { mechanicsSentBack: true } : {}),
   }
-  const body = changes.length === 0 ? null : linesOf(mergedOf(held.changes ?? [], changes))
+  const body = changes.length === 0 ? null : mergedOf(held.changes ?? [], changes)
   const next = !all ? "mechanics" : back ? "game-master" : "on"
   return { values, changes: body, recordedBy, next }
 }

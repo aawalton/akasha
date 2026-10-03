@@ -14,20 +14,7 @@ export const overwhereI00102 = {
   stepStatus: "step-status/player",
   action:
     "“Two hour walk is all? The Wyrm sounds like a nice warm up, I’ll take that tomorrow. For today, I’m looking for a nice place to stay as well as somewhere to sell miscellaneous loot from my adventures. Oh! And someone who can turn Ghost-Eye here into a proper casting focus.” I pull out the drakewolf eye. “Recommendations?”",
-  beats: [
-    '"Two hour walk is all? The Wyrm sounds like a nice warm up. I\'ll take that tomorrow," Nala says.',
-    'Grete takes the Wyrm slip off the counter, pins it to the board, and chalks "Nala Arthur" under it.',
-    '"Stands till it dies. Pays on the head, or the fangs if the head\'s too big to haul."',
-    '"For today, I need a nice place to stay, and somewhere to sell loot from my adventures," Nala says.',
-    '"Oh! And someone who can turn Ghost-Eye here into a proper casting focus. Recommendations?"',
-    "She pulls out the drakewolf eye and sets it on the counter.",
-    'Grete knows it at once. "Drake-pearl. An alchemist pays about four gold for one of those."',
-    '"Bell and Barrel by the square. Clean, a silver for bed and supper, and a bathhouse."',
-    '"Blades and bows go to Wil Harrow, smith on Anvil Lane. He buys fair."',
-    '"Pelts and monster parts: the guild counting-house pays least. Mother Sallow pays more."',
-    '"She\'s an alchemist by the river stairs, buys parts for her draughts."',
-    "\"For a focus, Ilse Varrow. Blue door on Glass Street. All of it's a quarter hour's walk from here.\"",
-  ],
+  beats: "jsonl",
   issues: [
     '"where the Weir Wyrm slip is pinned" - Grete laid that slip flat on the counter last turn',
   ],

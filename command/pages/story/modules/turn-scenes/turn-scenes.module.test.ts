@@ -30,16 +30,19 @@ function scenesOf(lines: readonly string[]): readonly BeatScene[] {
 
 const EARLIER: Paged = {
   slug: "saga-00-001",
-  value: {
-    position: 1,
+  value: { position: 1, beats: "jsonl" },
+  beats: {
     beats: ["Mara reaches the hall"],
-    beatScenes: [{ beat: 1, at: "2026-01-01T09:00:00.000Z", place: HALL, present: [MARA, CERI] }],
+    scenes: [{ beat: 1, at: "2026-01-01T09:00:00.000Z", place: HALL, present: [MARA, CERI] }],
+    changes: [],
+    memory: [],
   },
 }
 
 const LATER: Paged = {
   slug: "saga-00-003",
-  value: { position: 3, beats: ["Mara sleeps"], endsAt: "2026-01-09T09:00:00.000Z" },
+  value: { position: 3, beats: "jsonl", endsAt: "2026-01-09T09:00:00.000Z" },
+  beats: { beats: ["Mara sleeps"], scenes: [], changes: [], memory: [] },
 }
 
 const TURN = { at: "saga-00-002.story-turn-played.ts", slug: "saga-00-002", value: { position: 2 } }
@@ -111,6 +114,12 @@ test("a clock running back past the story's earlier beats is refused", () => {
   const scenes = scenesOf([JSON.stringify({ event: "a", at: "2025-12-31T10:00:00Z" })])
   const said = scenesSettled([EARLIER], TURN, ["x"], scenes, KNOWN, false)
   expect("refused" in said ? said.refused : "").toContain("never runs back")
+})
+
+test("an earlier turn whose beats file does not read refuses the replay, naming that file", () => {
+  const broken: Paged = { ...EARLIER, beats: { refused: "the beats file beside `x` is broken" } }
+  const said = scenesSettled([broken], TURN, ["x"], [], KNOWN, false)
+  expect("refused" in said ? said.refused : "").toContain("the beats file beside `x`")
 })
 
 test("a place no page is, is refused before anything replays", () => {

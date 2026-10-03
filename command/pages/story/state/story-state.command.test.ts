@@ -22,17 +22,19 @@ const FACT = "The mere has no bottom."
 
 const FIRST: Paged = {
   slug: "saga-00-001",
-  value: {
-    position: 1,
-    stepStatus: statusOf(PLAYER),
+  value: { position: 1, stepStatus: statusOf(PLAYER), beats: "jsonl" },
+  beats: {
     beats: ["a"],
-    beatScenes: [{ beat: 1, at: "2026-01-01T09:00:00.000Z", place: HALL, present: [MARA] }],
+    scenes: [{ beat: 1, at: "2026-01-01T09:00:00.000Z", place: HALL, present: [MARA] }],
+    changes: [],
+    memory: [],
   },
 }
 
 const SECOND: Paged = {
   slug: "saga-00-002",
-  value: { position: 2, stepStatus: statusOf(PLAYER), beats: ["b"] },
+  value: { position: 2, stepStatus: statusOf(PLAYER), beats: "jsonl" },
+  beats: { beats: ["b"], scenes: [], changes: [], memory: [] },
 }
 
 const CHANGES: Readonly<Record<string, readonly BeatChange[]>> = {
@@ -77,6 +79,12 @@ test("a page holding a value the beats do not leave is named, as is a learner wh
   const lines = stateLines(storyOver(drifted))
   expect(lines).toContain(`drift\t${XP}\tvalue\t30\t25`)
   expect(lines.some((one) => one.includes("learned it in saga-00-002 and is no knower"))).toBe(true)
+})
+
+test("a turn whose beats file does not read is named rather than replayed as nothing", () => {
+  const broken: Paged = { ...FIRST, beats: { refused: "the beats file beside `x` is broken" } }
+  const story = { ...storyOver(PAGES), turns: [broken, SECOND] }
+  expect(stateLines(story)[0]).toBe("refused\tscenes\tthe beats file beside `x` is broken")
 })
 
 test("a value changed between two turns by no beat is named as changed outside the beats", () => {

@@ -19,18 +19,7 @@ export const overwhereIii00085 = {
   stepStatus: "step-status/player",
   action:
     "“Whose house was that and how long have you known them? There was a woman there who commanded the wolves, but she was corrupted. When I confronted her, her face changed.”",
-  beats: [
-    '"Whose house was that, and how long have you known them?"',
-    '"There was a woman there who commanded the wolves, but she was corrupted."',
-    '"When I confronted her, her face changed."',
-    "Beside her barrow, Edda goes very still.",
-    '"Mother Sallow\'s. Two winters. She came to the empty hut by the brook and took up burning."',
-    '"Said she kept two big dogs against the wolves. Never let a soul near that lean-to."',
-    '"Sold little charcoal, and never lacked coin. I thought that odd." Her jaw works.',
-    '"The winter after she came, I found the first blighted stumps by my kilns. Never put it together."',
-    'She stares down the road toward the wood. "A false face. Gods."',
-    '"I\'m telling Marda at the post myself," she says. "Tonight, before the bell."',
-  ],
+  beats: "jsonl",
   issues: [
     '"Edda goes very still in her barrow." - turn 84 prose has her beside her barrow; this prose says by',
   ],

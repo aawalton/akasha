@@ -14,22 +14,7 @@ export const overwhereIii00074 = {
   stepStatus: "step-status/player",
   action:
     "I merge them into a glimmerstone and keep going until I’ve finished cleansing the remainder.",
-  beats: [
-    "At the shrine Nala cups the ten specks in her bare palm and presses them together.",
-    "They warm, then run into each other, and one clean glimmerstone sits in her hand.",
-    "She lays her palm over Marda's last dark seed stone and feeds the weave from the current.",
-    "The current bites hard into her raw palms. But it holds, and the stone cracks into one speck.",
-    "[Cleansing Weave has advanced: Basic → Novice]",
-    "[Current Feed has advanced: Basic → Novice]",
-    "She walks the two miles back, through the south gate, to the Post. Its door still stands open.",
-    "Marda looks up from the ledger. She lifts the lead box from under the desk and sets it on top.",
-    "The wolf's second stone lies inside, pale gray now, with only a dark core left.",
-    "Nala braids a loop around it from her own well. It closes on the first try.",
-    "The core goes white. The stone cracks with a clean ring into one whole glimmerstone.",
-    'Marda pushes it across the desk. "Yours. As I said."',
-    'She shuts the empty lead box. "That\'s the last of what I was holding."',
-    'Marda holds out her hand, palm up. "And my six seed stones?"',
-  ],
+  beats: "jsonl",
   issues: [
     '"[Current Feed has advanced: Basic → Novice]" - her fifth fed weave came in turn 73, not now',
     '"lifts the lead box onto the counter" - the post has a desk, no counter; the box sits under the desk',

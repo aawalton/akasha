@@ -14,19 +14,7 @@ export const overwhereIii00069 = {
   stepStatus: "step-status/player",
   action:
     "I go back to the post and work on cleansing blightstones, experimenting with ways to do it more efficiently",
-  beats: [
-    "Nala walks down to the Post. Marda sets out the wolf's second stone and the little fox stone.",
-    "Nala studies the wolf's stone. A loop holds the snap-back. A braid rides a current for nothing.",
-    "What if she loops the weave, then braids the loop onto a lent current?",
-    "She tries it. The braid wobbles around the closed loop, then catches and runs smooth.",
-    "The current drives the loop in deep. Two thick veins tear out at once.",
-    "The wolf's stone pales twice as far as a plain weave would. It's mostly pale now, close to done.",
-    'Marda grunts, watching. "That\'s new."',
-    "Nala turns to the fox stone. She loops and braids again, easy this time.",
-    "The last scrap of blight tears free. The little stone cracks into three bright specks.",
-    'Marda sweeps them across the desk to her. "Yours. Ten of those make a glimmerstone."',
-    "Nala's well is empty again. Marda locks the wolf's stone away. \"Near done, that one.\"",
-  ],
+  beats: "jsonl",
   issues: [
     '"In the lead box, the six seed stones sit in their corner." - Leave It Open',
     '"the six seed stones sit in their corner" - No Prompt',

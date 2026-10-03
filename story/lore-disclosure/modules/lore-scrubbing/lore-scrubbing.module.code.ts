@@ -9,7 +9,8 @@ import {
   textAt,
   type Value,
 } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
-import { stepBeats } from "akasha/story/chapter/properties/step-beats.text-property.ts"
+import { beats as beatsFile } from "akasha/story/chapter/properties/beats.file-property.ts"
+import { beatsIn } from "akasha/story/engine/beat-state/modules/beat-records/beat-records.module.code.ts"
 import { lore } from "akasha/story/lore/lore.page-type.ts"
 import { place } from "akasha/story/lore/place/place.page-type.ts"
 import { loreFact } from "akasha/story/lore/properties/lore-fact.text-property.ts"
@@ -115,6 +116,14 @@ function proseOf(root: string, path: string, value: Value): string | null {
   return at === null ? null : readFileSync(join(root, at), "utf8")
 }
 
+function beatsOf(root: string, path: string, value: Value): readonly string[] {
+  const held = textAt(value, beatsFile.propertySlug)
+  const at = held === null ? null : besideAt(path, beatsFile.propertySlug, held)
+  if (at === null) return []
+  const read = beatsIn(bodyAt(join(root, at)))
+  return "refused" in read ? [] : read.beats
+}
+
 function playedIn(root: string): readonly string[] {
   const found: string[] = []
   for (const kind of [storyTurnPlayed.slug, storyChapterWritten.slug]) {
@@ -123,9 +132,7 @@ function playedIn(root: string): readonly string[] {
       if (typeof action === "string") found.push(action)
       const written = proseOf(root, path, value)
       if (written !== null) found.push(written)
-      const beats = value[stepBeats.propertySlug]
-      if (!Array.isArray(beats)) continue
-      for (const one of beats) if (typeof one === "string") found.push(one)
+      found.push(...beatsOf(root, path, value))
     }
   }
   return found

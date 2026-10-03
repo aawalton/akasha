@@ -15,17 +15,7 @@ export const theDatingGame00011 = {
   stepStatus: "step-status/player",
   action:
     '"Oh! Another LitRPG enthusiast! I\'m so excited I could kiss you right now. I mean..." I stop and turn to face her "Could I? Kiss you right now? I know we just met today, but I really like you."',
-  beats: [
-    'Alan: "Oh! Another LitRPG enthusiast! I\'m so excited I could kiss you right now. I mean..."',
-    "He stops on the trail and turns to face her.",
-    '"Could I? Kiss you right now? I know we just met today, but I really like you."',
-    "Echo goes still, and color climbs up her freckled throat into her cheeks.",
-    "She searches his face for a long moment, not pulling her hand from his.",
-    "Then she smiles and slowly shakes her head, gentle, not a door closing.",
-    '"We just met today," she gives back, soft, almost apologetic.',
-    "She squeezes his hand hard, and her eyes stay on his.",
-    '"But I really like you."',
-  ],
+  beats: "jsonl",
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
   recordedBy: ["story-recorder/mechanics", "story-recorder/memory"],
   endsAt: "2026-09-26T09:51:00.000Z",

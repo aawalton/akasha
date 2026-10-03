@@ -1,5 +1,3 @@
-import { readFileSync } from "node:fs"
-import { join } from "node:path"
 import { jsonEqual } from "akasha/code/type/narrowing/modules/json-equal/json-equal.module.code.ts"
 import { takenFor } from "akasha/command/argument/modules/taking/argument-taking.module.code.ts"
 import { story as storyArgument } from "akasha/command/argument/pages/story.argument.ts"
@@ -10,15 +8,11 @@ import {
 } from "akasha/command/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
 import { mistaking } from "akasha/command/modules/refusing/refusing.module.code.ts"
-import {
-  changesHeld,
-  changesIndexed,
-} from "akasha/command/pages/story/modules/turn-changes/turn-changes.module.code.ts"
-import { memoryHeld } from "akasha/command/pages/story/modules/turn-memory/turn-memory.module.code.ts"
+import { changesIndexed } from "akasha/command/pages/story/modules/turn-changes/turn-changes.module.code.ts"
 import {
   inOrder,
   type Paged,
-  playedOf,
+  playedIn,
   storyIndexed,
 } from "akasha/command/pages/story/modules/turn-scenes/turn-scenes.module.code.ts"
 import { storyState as page } from "akasha/command/pages/story/state/story-state.command.ts"
@@ -52,8 +46,6 @@ const KNOWERS = "knowers"
 
 const STATUS = "stepStatus"
 
-const UTF8 = "utf8"
-
 const PARTED = "\t"
 
 export type Story = {
@@ -75,7 +67,9 @@ function knows(reading: Reading, memory: Memory): boolean {
 }
 
 function scenesSaid(story: Story, turns: readonly Paged[], drift: string[]): readonly string[] {
-  const end = replayed(OPENING, turns.map(playedOf))
+  const played = playedIn(turns)
+  if ("refused" in played) return [`refused${PARTED}scenes${PARTED}${played.refused}`]
+  const end = replayed(OPENING, played)
   if ("refused" in end) return [`refused${PARTED}scenes${PARTED}${end.refused}`]
   const lines = end.at === null ? [] : [`clock${PARTED}${end.at}`]
   for (const [character, place] of Object.entries(end.placeOf)) {
@@ -152,13 +146,13 @@ export function storyState(argv: readonly string[], given: Given): Answer {
   if (!chapter && listedAt(given.root, storyPlayed.slug, game).length === 0) {
     return refused(`\`${game}\` names no played or written story here`, DATA)
   }
-  const textOf = (path: string) => readFileSync(join(given.root, path), UTF8)
-  const turnOf = (one: Paged) => ({ at: one.at ?? "", slug: one.slug, value: one.value })
+  const heldOf = (one: Paged) =>
+    one.beats === undefined || "refused" in one.beats ? null : one.beats
   return told(
     stateLines({
       turns: storyIndexed(given.root, game, chapter),
-      changesOf: (one) => changesHeld(turnOf(one), textOf),
-      memoryOf: (one) => memoryHeld(turnOf(one), textOf),
+      changesOf: (one) => heldOf(one)?.changes ?? [],
+      memoryOf: (one) => heldOf(one)?.memory ?? [],
       reading: changesIndexed(given.root),
     })
   )

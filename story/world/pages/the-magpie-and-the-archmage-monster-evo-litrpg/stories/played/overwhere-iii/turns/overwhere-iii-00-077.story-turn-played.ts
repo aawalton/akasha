@@ -13,15 +13,7 @@ export const overwhereIii00077 = {
   characters: ["character-player/overwhere-iii-nala", "character-other/overwhere-iii-marda-hesk"],
   stepStatus: "step-status/player",
   action: "I try casting a mending weave on my palms.",
-  beats: [
-    "Nala turns her left palm up and draws a Mending Weave from her own well.",
-    "The thread knits into the pink skin. The tightness eases, and the palm goes smooth and pale.",
-    "She turns up the right palm and weaves again. This one drags, and a dull throb wakes in her temples.",
-    "But it holds. The second palm smooths over like the first. Both hands are whole again.",
-    "Her well is down to a quarter.",
-    "Across the desk, Marda's pen has stopped.",
-    '"Huh," Marda says. "Didn\'t know you could do that on yourself."',
-  ],
+  beats: "jsonl",
   lore: [
     "lore/overwhere-iii-marda-hesk",
     "lore/overwhere-iii-marda-hesk-2",

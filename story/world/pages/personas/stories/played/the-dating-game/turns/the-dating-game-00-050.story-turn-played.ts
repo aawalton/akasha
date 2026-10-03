@@ -15,15 +15,7 @@ export const theDatingGame00050 = {
   stepStatus: "step-status/player",
   action:
     '"Sounds great. Bye Aelwyn!" I walk back home and get myself some lunch, then go for a walk around my neighborhood again.',
-  beats: [
-    'He says, "Sounds great. Bye, Aelwyn!"',
-    'She waves over her shoulder, still crouched at the lock. "Bye, stretch buddy!"',
-    "He walks home to Apple Avenue.",
-    "He makes himself lunch and eats it in the quiet of the house.",
-    "Afterward he heads back out for a walk around the neighborhood.",
-    "The street is Sunday-still: families walking home in church clothes, a sprinkler ticking on a lawn.",
-    "Where the street crests, the whole valley opens out below, Utah Lake shining at its far edge.",
-  ],
+  beats: "jsonl",
   lore: ["place/the-dating-game-apple-avenue"],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
   recordedBy: ["story-recorder/memory", "story-recorder/mechanics", "story-recorder/picture"],

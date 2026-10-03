@@ -1376,7 +1376,6 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"command/pages/request/modules/reaching/request-reaching.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"command/pages/story/modules/settle-asking/settle-asking.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"command/pages/story/modules/turn-changes/turn-changes.module.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"command/pages/story/modules/turn-memory/turn-memory.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"command/pages/story/modules/turn-scenes/turn-scenes.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"command/pages/story/settle/modules/settle-character/settle-character.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"command/pages/story/settle/modules/settle-seeding/settle-seeding.module.ts","typed":true,"deferred":false}
@@ -1386,6 +1385,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"command/pages/story/turn/advance/modules/turn-crossed/turn-crossed.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"command/pages/story/turn/advance/modules/turn-described/turn-described.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"command/pages/story/turn/advance/modules/turn-handing/turn-handing.module.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"command/pages/story/turn/advance/modules/turn-memory/turn-memory.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"command/pages/story/turn/advance/modules/turn-timing/turn-timing.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"command/pages/story/turn/modules/turn-commits/turn-commits.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"command/pages/story/turn/modules/turn-holding/turn-holding.module.ts","typed":true,"deferred":false}

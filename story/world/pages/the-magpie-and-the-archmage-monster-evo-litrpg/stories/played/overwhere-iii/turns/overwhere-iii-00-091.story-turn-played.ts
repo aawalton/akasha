@@ -13,16 +13,7 @@ export const overwhereIii00091 = {
   characters: ["character-player/overwhere-iii-nala"],
   stepStatus: "step-status/player",
   action: "I hit them with another braid, focusing on the two larger ones",
-  beats: [
-    "[Cleansing Weave has advanced: Novice → Adept]",
-    "Nala braids again, and this time she aims the sweep at the two bigger jackalopes.",
-    "The lash takes both of them across the chest. The pull strand bites into each and draws.",
-    "The two drop in the frost and lie still. Their black antler-glow gutters out.",
-    "[You've reached Level 3.]",
-    "Where each one fell lies a small blightstone, two-fifths pale.",
-    "The smallest jackalope shrieks once. It bolts for the stumps, limping, and dives under the roots.",
-    "Under the roots, Nala can feel the blight still smoldering in it.",
-  ],
+  beats: "jsonl",
   lore: [
     "lore/overwhere-iii-cleansing-weave",
     "lore/overwhere-iii-corruption-2",

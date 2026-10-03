@@ -3,8 +3,12 @@ import { reviewer as reviewerRole } from "akasha/agent/role/pages/reviewer.role.
 import { storyRecorder as storyRecorderRole } from "akasha/agent/role/pages/story-recorder.role.ts"
 import { worldBuilder as worldBuilderRole } from "akasha/agent/role/pages/world-builder.role.ts"
 import { writer as writerRole } from "akasha/agent/role/pages/writer.role.ts"
-import { memoryLines } from "akasha/story/engine/beat-state/modules/beat-memory/beat-memory.module.code.ts"
-import type { BeatScene } from "akasha/story/engine/beat-state/modules/beat-replay/beat-replay.module.code.ts"
+import type { BeatChange } from "akasha/story/engine/beat-state/modules/beat-changes/beat-changes.module.code.ts"
+import type { Memory } from "akasha/story/engine/beat-state/modules/beat-memory/beat-memory.module.code.ts"
+import type {
+  BeatScene,
+  Planned,
+} from "akasha/story/engine/beat-state/modules/beat-replay/beat-replay.module.code.ts"
 import { wordCount } from "akasha/story/engine/core/modules/word-count/word-count.module.code.ts"
 import { storyRecorder } from "akasha/story/recorder/story-recorder.page-type.ts"
 import { storyReviewer } from "akasha/story/reviewer/story-reviewer.page-type.ts"
@@ -92,8 +96,9 @@ type Moving = {
   readonly starts?: readonly Start[]
   readonly stopsCaller?: boolean
   readonly prose?: string | null
-  readonly changes?: string | null
-  readonly memory?: string | null
+  readonly planned?: Planned | null
+  readonly changes?: readonly BeatChange[] | null
+  readonly memory?: readonly Memory[] | null
   readonly landsKept?: boolean
 }
 
@@ -133,6 +138,7 @@ function moved(
     status,
     values: { stepStatus: statusOf(status), ...values },
     prose: moving.prose ?? null,
+    planned: moving.planned ?? null,
     changes: moving.changes ?? null,
     memory: moving.memory ?? null,
     starts: moving.starts ?? [],
@@ -183,13 +189,11 @@ function toReviewers(
   return moved(REVIEWERS, values, { ...moving, starts })
 }
 
-type Remembered =
-  | { readonly refused: string }
-  | { readonly values: Readonly<{ [key: string]: unknown }>; readonly memory: string | null }
+type Remembered = { readonly refused: string } | { readonly memory: readonly Memory[] | null }
 
 function remembered(held: Held, handed: Recorded): Remembered {
   const memory = handed.memory ?? []
-  if (memory.length === 0) return { values: {}, memory: null }
+  if (memory.length === 0) return { memory: null }
   const beats = held.beats ?? Number.POSITIVE_INFINITY
   const far = memory.find((one) => one.beat > beats)
   if (far !== undefined) {
@@ -197,8 +201,9 @@ function remembered(held: Held, handed: Recorded): Remembered {
       refused: `a memory names beat ${far.beat}, and the ${nounOf(held)} has ${beats} beats`,
     }
   }
-  const merged = [...(held.memory ?? []), ...memory].toSorted((one, other) => one.beat - other.beat)
-  return { values: { beatMemory: HELD_LINES }, memory: memoryLines(merged) }
+  return {
+    memory: [...(held.memory ?? []), ...memory].toSorted((one, other) => one.beat - other.beat),
+  }
 }
 
 function fromWorldBuilder(held: Held, lore: readonly string[], admitted: Admitted): Advanced {
@@ -218,17 +223,8 @@ function fromGameMaster(
     return { refused: "a game master's advance hands in beats, and this has none" }
   const wrong = linesRefused("beat", beats, nounOf(held))
   if (wrong !== null) return { refused: wrong }
-  const emptied = (held.changes ?? []).length > 0
-  const forgot = (held.memory ?? []).length > 0
-  const values = {
-    beats,
-    beatScenes: scenes.length === 0 ? undefined : scenes,
-    recordedBy: undefined,
-    mechanicsIssues: undefined,
-    ...(emptied ? { beatChanges: HELD_LINES } : {}),
-    ...(forgot ? { beatMemory: HELD_LINES } : {}),
-  }
-  const moving = { ...(emptied ? { changes: "" } : {}), ...(forgot ? { memory: "" } : {}) }
+  const values = { beats: HELD_LINES, recordedBy: undefined, mechanicsIssues: undefined }
+  const moving = { planned: { beats, scenes } }
   if (staff.mechanics.length === 0) return moved(WRITER, values, moving)
   const starts = staff.mechanics.map((recorder): Start => ({ kind: "mechanics", recorder }))
   return moved(MECHANICS, values, { ...moving, starts })
@@ -328,10 +324,7 @@ function fromRecorder(held: Held, handed: Recorded, staff: Staff): Advanced {
   const memory = remembered(held, handed)
   if ("refused" in memory) return memory
   const recordedBy = [...held.recordedBy, recorder]
-  const values = {
-    recordedBy: recordedBy.map((one) => `${STORY_RECORDER}${PARTED}${one}`),
-    ...memory.values,
-  }
+  const values = { recordedBy: recordedBy.map((one) => `${STORY_RECORDER}${PARTED}${one}`) }
   const landing = { stopsCaller: true, landsKept: true, memory: memory.memory }
   if (!staff.recorders.every((one) => recordedBy.includes(one))) {
     return moved(RECORDERS, values, landing)

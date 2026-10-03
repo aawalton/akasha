@@ -21,6 +21,7 @@ import type {
 } from "akasha/command/pages/story/turn/modules/turn-reaching/turn-reaching.module.code.ts"
 import type { Naming } from "akasha/page/service/modules/page-composing/page-composing.module.code.ts"
 import { stepStatus } from "akasha/story/chapter/step-status/step-status.page-type.ts"
+import { beatsWritten } from "akasha/story/engine/beat-state/modules/beat-records/beat-records.module.code.ts"
 import { continuity } from "akasha/story/reviewer/pages/continuity.story-reviewer.ts"
 import { storyReviewer } from "akasha/story/reviewer/story-reviewer.page-type.ts"
 import type { TurnStep } from "akasha/story/world/stories/played/turns/modules/turn-lifecycle/turn-lifecycle.module.code.ts"
@@ -311,6 +312,13 @@ export const GIVEN: Given = {
 }
 
 writeFileSync(join(ROOT, "beats.txt"), "Mara opens the gate\n\nThe hall is dark\n")
+
+export const PLANNED_BODY = beatsWritten({
+  beats: ["Mara opens the gate", "The hall is dark"],
+  scenes: [],
+  changes: [],
+  memory: [],
+})
 writeFileSync(join(ROOT, "issues.txt"), '"opens" - it was locked\n')
 writeFileSync(join(ROOT, "prose.txt"), "Mara opens the gate.\n")
 

@@ -17,7 +17,6 @@ export const story = {
     "module/settle-asking",
     "module/turn-scenes",
     "module/turn-changes",
-    "module/turn-memory",
   ],
   name: "story",
 } as const satisfies Namespace
