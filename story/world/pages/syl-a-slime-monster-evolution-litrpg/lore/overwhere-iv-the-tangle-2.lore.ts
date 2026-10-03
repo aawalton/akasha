@@ -272,5 +272,25 @@ export const overwhereIvTheTangle2 = {
       fact: "If the maul-bearer falls, the spear hobgoblin horns retreat and the band goes back with him.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Nala's rend killed the spear hobgoblin through the skull, and laid the maul-bearer's eyes open.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+    },
+    {
+      fact: "The strike broke at Tull's, flung down its torches and fled back over the ford into the Tangle.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+    },
+    {
+      fact: "Left alone and blind in the meadow, the maul hobgoblin roars, swings, and lurches toward the fold.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+    },
+    {
+      fact: "The blind maul-bearer swings at sound; a quiet foe coming from aside is hard for it to meet.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The fleeing goblins do not stop until Grakk's camp, and none comes back for the maul-bearer.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
