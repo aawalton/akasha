@@ -1,0 +1,66 @@
+{"beat":1,"event":"Seven years ago, thirty-four days from home, Maret Dunn felt the pull."}
+{"beat":2,"event":"It was a conviction about geography: she should be somewhere else, decided by someone else."}
+{"beat":3,"event":"For three weeks she worked on, getting good at not attending to it."}
+{"beat":4,"event":"On the twenty-third day she said no, aloud, to herself, in a city where she knew no one."}
+{"beat":5,"event":"The pull faded within a week; she went home and told no one."}
+{"beat":6,"event":"For years she turned it over: what had it decided she was?"}
+{"beat":7,"event":"By the sixth year she had nearly made peace with not knowing."}
+{"beat":8,"event":"In the seventh year she heard about the dungeon."}
+{"beat":9,"event":"She reaches the camp on a morning of low cloud, with two days' food, a lantern and a knife.","place":"place/the-dungeon-of-one-thousand-deaths-the-camp","present":["character-other/the-dungeon-of-one-thousand-deaths-maret-dunn"]}
+{"beat":10,"event":"On the blank cloth she reads the arch sketch and Petra's note to F.R."}
+{"beat":11,"event":"A precise annotation reads: second voluntary entrant, both male, both parent-adjacent."}
+{"beat":12,"event":"She is a woman, neither parent nor grieving one; she writes nothing on the cloth."}
+{"beat":13,"event":"The ledger-keeper asks if she is voluntary: the Compelled ones don't stop for the cloth."}
+{"beat":14,"event":"He takes her name and asks her purpose."}
+{"beat":15,"event":"The true answer is to learn what the dungeon thought she was; she says: curiosity."}
+{"beat":16,"event":"She checks her lantern and walks to the entrance without waiting."}
+{"beat":17,"event":"The Gullet is warmer than outside, not colder; the dark is a quality, not a volume.","place":"place/the-dungeon-of-one-thousand-deaths-the-gullet"}
+{"beat":18,"event":"She reads the inscription wall as a list of names she does not know, in a place they matter."}
+{"beat":19,"event":"She looks at the blank gap, then at FENNICK RALL — FIRST TO CHOOSE."}
+{"beat":20,"event":"She chose not to come seven years ago, and chooses to come now."}
+{"beat":21,"event":"She picks up the warm glass bead and holds it without claiming it."}
+{"beat":22,"event":"She sets it back turned slightly, the green thread facing out to catch the light."}
+{"beat":23,"event":"At three hundred meters she stands under the arch, made by someone who knew how.","place":"place/the-dungeon-of-one-thousand-deaths-the-gap"}
+{"beat":24,"event":"She reads FIRST TO BUILD WHAT REMAINS and THE ARCH HOLDS, and crosses."}
+{"beat":25,"event":"The Ledger: Depth 2, the Warrens, Resolve +1, now 19.","place":"place/the-dungeon-of-one-thousand-deaths-the-marrow-warrens","changes":[{"page":"metric-character-stat/the-dungeon-of-one-thousand-deaths-maret-dunn-resolve","key":"value","from":18,"to":19,"note":"Depth transition into the Warrens, Resolve +1"}]}
+{"beat":26,"event":"The Asking finds her at the first junction: the right key, for a door she no longer lives behind."}
+{"beat":27,"event":"The Designation settles and does not quite fit, like a coat at forty cut for thirty-three."}
+{"beat":28,"event":"The Ledger names her The Mirror, with the Gift Reflection: the dungeon shows her itself."}
+{"beat":29,"event":"Its Cost is Interior: she has no self to return to after reflecting."}
+{"beat":30,"event":"The Ledger reads Vitality 11, Resolve 18, Attunement 15, Fortune 17."}
+{"beat":31,"event":"It says the Maw read her seven years ago and held the reading: not wrong, not current."}
+{"beat":32,"event":"Now she knows: the pull was the dungeon trying to deliver this, and it waited."}
+{"beat":33,"event":"She thinks: yes, exactly; it worked from an old picture of her."}
+{"beat":34,"event":"Reflection opens the Warrens to her as a logic, confirming each choice before she makes it."}
+{"beat":35,"event":"The Gift removes the interval of not-knowing she prized as most herself."}
+{"beat":36,"event":"She takes down the journal and reads it without context, ending: To whoever reads this."}
+{"beat":37,"event":"She sees it as a fixed point, a relay, and puts it back at the same angle."}
+{"beat":38,"event":"The part of her that would answer Orvyn's last entry is not available: the Cost, named."}
+{"beat":39,"event":"She finds this accurate rather than distressing."}
+{"beat":40,"event":"In the pattern room she understands its method before she crosses the threshold.","place":"place/the-dungeon-of-one-thousand-deaths-the-pattern-room"}
+{"beat":41,"event":"She would have liked to feel the kinship of method; she understands it and does not have it."}
+{"beat":42,"event":"You are not inside what you see."}
+{"beat":43,"event":"At the passage to the Still Garden the Gift shows her the creature that moves in saccades.","place":"place/the-dungeon-of-one-thousand-deaths-the-marrow-warrens"}
+{"beat":44,"event":"She knows she will not survive it, and turns back without drama or grief."}
+{"beat":45,"event":"She came for the Designation and has it; this is a door not hers to walk through."}
+{"beat":46,"event":"She makes for a deeper passage in the Warrens."}
+{"beat":47,"event":"In a northern extension no one has returned from, she sees a half-hidden pressure trigger."}
+{"beat":48,"event":"The Gift gives her its mechanism, its margin, and where to step."}
+{"beat":49,"event":"She takes one step on the safe path."}
+{"beat":50,"event":"With the next she sets her foot three inches right of where she meant: too near the trigger."}
+{"beat":51,"event":"She knew the safe path, saw it clearly, and did not walk it."}
+{"beat":52,"event":"Before the ceiling comes down she has time to think: so that's what it is.","changes":[{"page":"metric-character-stat/the-dungeon-of-one-thousand-deaths-maret-dunn-vitality","key":"value","from":11,"to":0,"note":"Maret dies under the collapsing ceiling, Vitality 11 to 0"}]}
+{"beat":53,"event":"The death report: Maret Dunn, the Mirror, Depth 2; structural collapse by pressure trigger."}
+{"beat":54,"event":"Attunement stays 15: a zero-effort Gift, as ruled for The Lens."}
+{"beat":55,"event":"She knew the trigger and the safe path and did not take it; the Maw does not call it error."}
+{"beat":56,"event":"No Memory Crystal: what she felt was recognition, and recognition does not crystallize."}
+{"beat":57,"event":"The Maw notes the bead repositioned by an entrant, green thread out: the first time."}
+{"beat":58,"event":"Mirror complete: read at twenty-seven, arrived at thirty-four; accurate, not the same."}
+{"beat":59,"event":"Three voluntary entrants now: grief, curiosity, and the residue of a road not taken."}
+{"beat":60,"event":"The Compelled are the dungeon's choosing; the voluntary are choosing the dungeon."}
+{"beat":61,"event":"This is a new thing, and the Maw records it without assessment."}
+{"beat":62,"event":"She found her answer three inches right of the safe path, in recognition, not loss."}
+{"beat":63,"event":"At camp the ledger-keeper writes voluntary in the new column: three entries in a month."}
+{"beat":64,"event":"He looks at the three entries, then at the entrance, and keeps looking."}
+{"beat":65,"event":"The tally turns: 987 remain."}
+{"beat":66,"event":"MARET DUNN — DEPTH 2 — FIRST TO REFUSE AND RETURN."}
