@@ -112,6 +112,10 @@ export const overwhereIiiMotherSallow = {
       fact: "A holy pull strand landing on her strikes as a heavy blow on top of the working's force.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Her blight bolt is a heavy blow; after three holy pulls land on her it falls to solid.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
