@@ -1,0 +1,75 @@
+{"beat":1,"event":"Wren wakes in the dark because the compass is pulling SSW, insistent.","at":"2026-08-03T04:30:00.000Z","place":"place/the-places-she-carries-therons-camp","present":["character-player/the-places-she-carries-wren"]}
+{"beat":2,"event":"The Shelf is there too, cold with the small-hours chill of exposed limestone."}
+{"beat":3,"event":"Day 3. The insect chorus still runs: dry, and earlier than the thrush."}
+{"beat":4,"event":"She laces her boots in the dark and takes only compass, journal, tin cup and sage."}
+{"beat":5,"event":"She does not wake Theron; she is afraid she would obey his question."}
+{"beat":6,"event":"She goes, by the landmarks she sketched yesterday."}
+{"beat":7,"event":"At night the whole upper basin holds the ghost-elm hum like a chord.","at":"2026-08-03T04:45:00.000Z","place":"place/the-places-she-carries-transition-woodland"}
+{"beat":8,"event":"She crosses the fen margin in the dark on the root-firm ground Hadley taught her."}
+{"beat":9,"event":"The Shelf brightens in her chest as she nears the Eye: bonds sense bond-potentials."}
+{"beat":10,"event":"At night the Warden's Eye is a mirror, showing stars she cannot see overhead.","at":"2026-08-03T05:15:00.000Z","place":"place/the-places-she-carries-wardens-eye"}
+{"beat":11,"event":"[Wayfinder's Eye] focuses deeper than yesterday, as if the pool has been waiting."}
+{"beat":12,"event":"She puts her bare feet in the water; it registers as attention, not temperature."}
+{"beat":13,"event":"She sets her palms in the water and reaches with her Sympathetic extension."}
+{"beat":14,"event":"The pool reaches back: two threads of attention wind together like fingers."}
+{"beat":15,"event":"She trembles: palm to palm through glass, two living things recognizing each other."}
+{"beat":16,"event":"The bond seals; light from the depths pulses three times and settles to a glow."}
+{"beat":17,"event":"She feels the Eye in her: clarity and depth, beside the Shelf's cool stone."}
+{"beat":18,"event":"SYMPATHETIC BOND FORMED: Warden's Eye, Glimpsed, [Reflective], Reciprocal, +50 XP.","changes":[{"page":"metric-character-experience/the-places-she-carries-wren","key":"value","from":385,"to":435,"note":"Sympathetic Bond formed: Warden's Eye, Reciprocal"}]}
+{"beat":19,"event":"Reciprocal bonds form when a place takes part; she reads the word three times."}
+{"beat":20,"event":"She understands the pool has been paying attention for a very long time."}
+{"beat":21,"event":"Dawn softens the mirror; she feels the Eye's night-watch ease into dawn-patience.","at":"2026-08-03T06:00:00.000Z"}
+{"beat":22,"event":"Places have rhythms, she files, as people have moods."}
+{"beat":23,"event":"She walks back to camp in early light carrying two places in her chest.","at":"2026-08-03T06:45:00.000Z","place":"place/the-places-she-carries-therons-camp"}
+{"beat":24,"event":"Theron is at the fire, looking south-east; he looks at her damp boots.","arrive":["character-other/the-places-she-carries-theron"]}
+{"beat":25,"event":"'The fen.' 'The pool.' 'You bonded it.' 'It bonded me back.'"}
+{"beat":26,"event":"His grandmother told of the Eye choosing; it had not done so in her lifetime."}
+{"beat":27,"event":"Through EMP 10 Wren feels what he does not say: the Rimfolk scattered after the pool."}
+{"beat":28,"event":"She says she left before dawn and should have told him. 'You should have.'"}
+{"beat":29,"event":"She followed every landmark; she felt the pool was waiting."}
+{"beat":30,"event":"'My grandmother would have liked you,' Theron says, and tends the fire."}
+{"beat":31,"event":"Hadley comes out at the smell of flatcakes, soil fresh on his hands.","at":"2026-08-03T07:15:00.000Z","arrive":["character-other/the-places-she-carries-hadley"]}
+{"beat":32,"event":"'Your face is doing a thing.' She tells him she bonded the Warden's Eye."}
+{"beat":33,"event":"The compass woke her, she explains; it pulled hard enough to feel in her sleep."}
+{"beat":34,"event":"'Reciprocal,' she says, and Hadley is struck silent for three full seconds."}
+{"beat":35,"event":"He asks her to show him what seeing with two places looks like."}
+{"beat":36,"event":"After breakfast they go south to the mid-canopy for silvervein moss.","at":"2026-08-03T08:00:00.000Z","place":"place/the-places-she-carries-transition-woodland","leave":["character-other/the-places-she-carries-theron"]}
+{"beat":37,"event":"The second bond is not a doubling but a deepening: the Shelf grounds, the Eye sharpens."}
+{"beat":38,"event":"At a cluster of three ghost elms she feels their hums overlap into one resonance."}
+{"beat":39,"event":"Hadley presses his palm beside hers and feels a tingling."}
+{"beat":40,"event":"The air smells of ozone and old wood; the grove's edges blur with vibration."}
+{"beat":41,"event":"The trees are responding to something underground, and not dying: resisting."}
+{"beat":42,"event":"At the grove's edge a band of held-empty soil: the corruption cannot cross the resonance."}
+{"beat":43,"event":"Hadley finds finer soil inside; in three seasons he has never seen this."}
+{"beat":44,"event":"'I think the Thornwild isn't just sick. I think it's fighting back.'"}
+{"beat":45,"event":"A discovery: ghost-elm groves are the Thornwild's immune response, +65 XP.","changes":[{"page":"metric-character-experience/the-places-she-carries-wren","key":"value","from":435,"to":500,"note":"Discovery: ghost-elm resonance network resists corruption"}]}
+{"beat":46,"event":"She shows him moss grown toward the other trees and a root that turned back."}
+{"beat":47,"event":"Hadley takes real notes, murmuring 'yes, yes' at every point."}
+{"beat":48,"event":"Walking back north, the Shelf brightens in her chest.","at":"2026-08-03T10:30:00.000Z"}
+{"beat":49,"event":"Through the Eye she feels the Shelf: its stone cooling, a cold high wind bending the rowan."}
+{"beat":50,"event":"'I'm in two places at once,' she whispers; the bonds talk through her."}
+{"beat":51,"event":"BOND NETWORK DETECTED: two nodes, Nascent, +80 XP for a first network.","changes":[{"page":"metric-character-experience/the-places-she-carries-wren","key":"value","from":500,"to":580,"note":"First: bond network formed between Shelf and Eye"}]}
+{"beat":52,"event":"Connections grow geometrically; a Wayfinder weaves places together."}
+{"beat":53,"event":"She sits down against a ghost elm, the hum in her spine."}
+{"beat":54,"event":"North-east of the grove the compass erupts with dozens of competing pulls.","at":"2026-08-03T11:15:00.000Z"}
+{"beat":55,"event":"She staggers; Hadley catches her arm. 'Bond-potentials. Too many. All at once.'"}
+{"beat":56,"event":"In ten breaths she learns to hear them apart; all point north-east, close."}
+{"beat":57,"event":"Hadley wants to go back, then closes his notebook: 'All right. Show me.'"}
+{"beat":58,"event":"They push through thorny young growth into a stretch of disrupted canopy."}
+{"beat":59,"event":"Her foot hits a straight line in the earth: cut stone, a mason's groove.","at":"2026-08-03T11:45:00.000Z","place":"place/the-places-she-carries-varethen"}
+{"beat":60,"event":"It turns a perfect right angle: a wall corner, a building."}
+{"beat":61,"event":"Hadley knows it: Rimfolk stonework, with a Rimfolk guild mark."}
+{"beat":62,"event":"She feels a whole settlement under the green, still here."}
+{"beat":63,"event":"The worked stone is warm, as if remembering the hands that shaped it."}
+{"beat":64,"event":"The compass settles from cacophony into one coherent, waiting hum."}
+{"beat":65,"event":"SIGNIFICANT DISCOVERY: unnamed settlement ruins, 15+ bond-potentials, +150 XP.","changes":[{"page":"metric-character-experience/the-places-she-carries-wren","key":"value","from":580,"to":730,"note":"Discovery: settlement ruins (+120) and first cluster detection (+30)"}]}
+{"beat":66,"event":"Surveying activates; the System recommends a systematic survey."}
+{"beat":67,"event":"That evening Wren tells Theron of the bond network, wonder in her voice.","at":"2026-08-03T19:00:00.000Z","place":"place/the-places-she-carries-therons-camp","arrive":["character-other/the-places-she-carries-theron"]}
+{"beat":68,"event":"Of the groves he says his father knew they were healthier, and never why."}
+{"beat":69,"event":"She keeps the ruins to herself for one night; she will tell him in the morning."}
+{"beat":70,"event":"In her bedroll she feels the two bonds like a heart with two chambers.","at":"2026-08-03T22:00:00.000Z","leave":["character-other/the-places-she-carries-theron","character-other/the-places-she-carries-hadley"]}
+{"beat":71,"event":"Beyond them, north-east, the ruins hum faintly, dreaming under green."}
+{"beat":72,"event":"Every trunk seems to exhale at once, a sound at the edge of hearing like weeping."}
+{"beat":73,"event":"The Crying Forest's next event is fifteen days away."}
+{"beat":74,"event":"The forest isn't grieving, she thinks; it is remembering."}
+{"beat":75,"event":"She sleeps carrying three places: stone, water, and one she has not yet touched."}
