@@ -248,5 +248,9 @@ export const overwhereIStarfallLegacy2 = {
       fact: "Holding fire-strength for a ten-minute walk needs no roll.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Holding the two-lens spyglass costs 5 mana a minute; holding it still needs no roll.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
