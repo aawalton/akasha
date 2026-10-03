@@ -10,6 +10,8 @@ export const hollowmere = {
   unit: "unit/words",
   chapterBreak: "A day at Hollowmere ends.",
   coordinatorAgent: "mari-game-master-hollowmere",
+  playerIntent:
+    "She eats when she is hungry, drinks when she is dry, sleeps indoors, and keeps her own clothes mended.",
   following: false,
   panels: [
     "played-panel/player-character",
