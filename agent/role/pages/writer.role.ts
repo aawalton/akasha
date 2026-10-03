@@ -121,6 +121,8 @@ export const writer = {
         "Each change names its beat, and its `note` says what changed and to what.",
         "The pages hold each number as it stood before the turn; the changes say where it ends.",
         "A change the turn does not show stays off the page.",
+        "Any `mechanicsIssues` on the turn are faults left unmended; read them first.",
+        "Write a faulted beat so it shows no number or item its issue says cannot hold.",
       ],
     },
     {

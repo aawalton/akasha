@@ -25,6 +25,8 @@ const BEATS = "beats"
 
 const MECHANICS_ISSUES = "mechanicsIssues"
 
+const MECHANICS_SENT_BACK = "mechanicsSentBack"
+
 const PROSE = "prose"
 
 const STORY = "story"
@@ -55,5 +57,6 @@ export function heldOf(turn: Turn): Held | { readonly refused: string } {
     written: turn.value[PROSE] !== undefined && turn.value[OWN_LENGTH] !== 0,
     beats: stringsIn(turn.value[BEATS]).length,
     mechanicsIssues: stringsIn(turn.value[MECHANICS_ISSUES]),
+    mechanicsSentBack: turn.value[MECHANICS_SENT_BACK] === true,
   }
 }

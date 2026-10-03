@@ -3788,6 +3788,7 @@
 {"propertySlug":"decision-kind","path":"story/chapter/properties/step-beats.text-property.ts","id":"01a0deae-97fe-7657-b0f2-2555162caa0d"}
 {"propertySlug":"decision-kind","path":"story/chapter/properties/step-issues.text-property.ts","id":"01a0deae-dc22-73b5-85a8-01a1ce5215d7"}
 {"propertySlug":"decision-kind","path":"story/chapter/properties/step-mechanics-issues.text-property.ts","id":"01a10256-8b7b-7c91-8267-12c18a468096"}
+{"propertySlug":"decision-kind","path":"story/chapter/properties/step-mechanics-sent-back.boolean-property.ts","id":"01a102f0-b0b7-7955-a531-3a7b1480b8a8"}
 {"propertySlug":"decision-kind","path":"story/chapter/properties/step-recorded-by.multi-relation-property.ts","id":"01a0e058-679f-70f6-baaf-b82f0c8a4690"}
 {"propertySlug":"decision-kind","path":"story/chapter/properties/step-reviewed-by.multi-relation-property.ts","id":"01a0deb0-cf67-7a1e-bb3d-6859e1f25fce"}
 {"propertySlug":"decision-kind","path":"story/chapter/step-status/pages/game-master.step-status.ts","id":"01a0dead-3b10-7234-922d-8dfc80845bcc"}

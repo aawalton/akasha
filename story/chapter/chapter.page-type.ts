@@ -27,6 +27,7 @@ export const chapter = {
     "multi-relation-property/beat-scene-leave",
     "file-property/beat-changes",
     "text-property/step-mechanics-issues",
+    "boolean-property/step-mechanics-sent-back",
     "file-property/beat-memory",
   ],
   properties: [
@@ -44,6 +45,11 @@ export const chapter = {
       required: false,
       many: true,
       maxCount: 100,
+    },
+    {
+      pageProperty: "boolean-property/step-mechanics-sent-back",
+      required: false,
+      many: false,
     },
     { pageProperty: "text-property/step-issues", required: false, many: true, maxCount: 100 },
     {

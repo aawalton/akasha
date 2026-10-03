@@ -60,7 +60,22 @@ test("issues from any seat send the turn back once every seat has handed in", ()
   })
   const last = doneOf(mechanicked(held, { kind: "record", recorder: "mechanics" }, STEPPED))
   expect(last.next).toBe("game-master")
+  expect(last.values["mechanicsSentBack"]).toBe(true)
   expect(last.changes).toBeNull()
+})
+
+test("a turn mechanics sent back once goes on to its writer, carrying its issues forward", () => {
+  const issues = ["beat 2 spends no draught"]
+  const held = heldAt("mechanics", {
+    beats: 2,
+    recordedBy: ["inventory"],
+    mechanicsIssues: issues,
+    mechanicsSentBack: true,
+  })
+  const again = doneOf(mechanicked(held, { kind: "record", recorder: "mechanics" }, STEPPED))
+  expect(again.next).toBe("on")
+  expect(again.values["mechanicsIssues"]).toEqual(issues)
+  expect(again.values["mechanicsSentBack"]).toBeUndefined()
 })
 
 test("a rerun holds no change from the run before, so its changes are the whole of them", () => {

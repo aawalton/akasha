@@ -44,6 +44,11 @@ export const storyTurnPlayed = {
       many: true,
       maxCount: 100,
     },
+    {
+      pageProperty: "boolean-property/step-mechanics-sent-back",
+      required: false,
+      many: false,
+    },
     { pageProperty: "text-property/step-issues", required: false, many: true, maxCount: 100 },
     {
       pageProperty: "multi-relation-property/step-lore",
@@ -96,6 +101,15 @@ export const storyTurnPlayed = {
     {
       decisionKind: "decision-kind/departure",
       statement: "A turn has one round of review.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A turn goes back from mechanics to game-master at most once.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "Mechanics and the reviewers each send a turn back at most once, apart from each other.",
     },
     {
       decisionKind: "decision-kind/departure",

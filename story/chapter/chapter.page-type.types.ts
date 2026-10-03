@@ -9,6 +9,7 @@ import type { StepBeats } from "akasha/story/chapter/properties/step-beats.text-
 import type { StepIssues } from "akasha/story/chapter/properties/step-issues.text-property.types.ts"
 import type { StepLore } from "akasha/story/chapter/properties/step-lore.multi-relation-property.types.ts"
 import type { StepMechanicsIssues } from "akasha/story/chapter/properties/step-mechanics-issues.text-property.types.ts"
+import type { StepMechanicsSentBack } from "akasha/story/chapter/properties/step-mechanics-sent-back.boolean-property.types.ts"
 import type { StepRecordedBy } from "akasha/story/chapter/properties/step-recorded-by.multi-relation-property.types.ts"
 import type { StepReviewedBy } from "akasha/story/chapter/properties/step-reviewed-by.multi-relation-property.types.ts"
 import type { StepStatus } from "akasha/story/chapter/properties/step-status.relation-property.types.ts"
@@ -26,6 +27,7 @@ export type Chapter = Collection & {
   beatChanges?: BeatChanges
   beatMemory?: BeatMemory
   mechanicsIssues?: StepMechanicsIssues
+  mechanicsSentBack?: StepMechanicsSentBack
   issues?: StepIssues
   lore?: StepLore
   characters?: Characters

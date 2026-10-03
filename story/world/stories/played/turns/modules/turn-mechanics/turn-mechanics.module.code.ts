@@ -57,13 +57,15 @@ export function mechanicked(
   const long = linesRefused("issue", issues, noun)
   if (long !== null) return { refused: long }
   const recordedBy = [...held.recordedBy, handed.recorder]
+  const all = mechanics.every((one) => recordedBy.includes(one))
+  const back = all && issues.length > 0 && held.mechanicsSentBack !== true
   const values = {
     recordedBy: recordedBy.map((one) => `${storyRecorder.slug}${PARTED}${one}`),
     ...(changes.length === 0 ? {} : { beatChanges: CHANGES_HELD }),
     ...(issues.length === 0 ? {} : { mechanicsIssues: issues }),
+    ...(back ? { mechanicsSentBack: true } : {}),
   }
   const body = changes.length === 0 ? null : linesOf(mergedOf(held.changes ?? [], changes))
-  const all = mechanics.every((one) => recordedBy.includes(one))
-  const next = !all ? "mechanics" : issues.length > 0 ? "game-master" : "on"
+  const next = !all ? "mechanics" : back ? "game-master" : "on"
   return { values, changes: body, recordedBy, next }
 }

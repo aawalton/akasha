@@ -18,6 +18,10 @@ export const turnPrompting = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A reviewer's prompt has it check each mechanics issue left on the turn.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A reviewer's prompt names the lore in play on the turn.",
     },
     {
