@@ -74,7 +74,21 @@ export const gameMaster = {
       aids: [
         "Hand the beats in as a file, one beat per line, with `--beats-file`.",
         "Name a written chapter with `--chapter` in place of `--turn`.",
-        "Where your story has a time-passing check, settle it first, so the turn states its `endsAt`.",
+        "Where your beats state no time and your story has a time-passing check, settle it first.",
+      ],
+    },
+    {
+      directiveKind: "directive-kind/rule",
+      name: "Scenes In The Beats",
+      act: "State on each beat the time, the place and who arrives or leaves, wherever the beat changes them.",
+      warrant:
+        "The clock and where everyone is are worked out from the beats alone, so a move left out is lost.",
+      aids: [
+        'A beat that changes them is a json line: `{"event":"…","at":"…","place":"place/…","arrive":[…]}`.',
+        "Add `leave` for who goes, and `present` to state everyone there, whole, when a scene opens.",
+        "State only what changed; a plain line is a beat changing none of them.",
+        "Name each place and character by its page's address.",
+        "A refused advance names the beat that leaves an impossible state; mend that beat.",
       ],
     },
     {
