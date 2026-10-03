@@ -308,7 +308,11 @@ export const overwhereIiiMerrowgateGuildPost = {
     },
     {
       fact: "The free room upstairs is narrow: a cot, two wool blankets, a peg, a shutter over the gate street.",
-      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-marda-hesk"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/overwhere-iii-marda-hesk",
+        "character-player/overwhere-iii-nala",
+      ],
     },
   ],
   secrets: "jsonl",
