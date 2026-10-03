@@ -246,7 +246,7 @@ export const overwhereIiCallowBeck = {
     },
     {
       fact: "Behind the bank the black lies in a knee-deep pool forty paces up the gully, some forty barrels.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Above that pool the gully's bed is crusted grey salt, with a few barrels of black in its hollows.",
