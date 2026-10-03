@@ -12,9 +12,14 @@ export const storyRecorder = {
   ],
   pluralSlug: "story-recorders",
   extends: ["page-type/page"],
-  parts: ["text-property/story-recorder-name", "file-property/story-recorder-instructions"],
+  parts: [
+    "text-property/story-recorder-name",
+    "file-property/story-recorder-instructions",
+    "relation-property/story-recorder-step",
+  ],
   properties: [
     { pageProperty: "text-property/story-recorder-name", required: true, many: false },
+    { pageProperty: "relation-property/story-recorder-step", required: false, many: false },
     {
       pageProperty: "file-property/story-recorder-instructions",
       required: true,

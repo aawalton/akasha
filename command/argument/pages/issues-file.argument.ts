@@ -5,7 +5,7 @@ export const issuesFile = {
   type: "page-type/argument",
   slug: "issues-file",
   said: "--issues-file",
-  takes: "the file a reviewer's issues are read from, one issue to a line",
+  takes: "the file a reviewer's or a mechanics recorder's issues are read from, one to a line",
   value: "path",
   placeholder: "path",
 } as const satisfies Argument

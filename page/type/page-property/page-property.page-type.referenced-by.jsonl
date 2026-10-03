@@ -173,6 +173,7 @@
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"story/chapter/properties/step-beats.text-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"story/chapter/properties/step-issues.text-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"story/chapter/properties/step-lore.multi-relation-property.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"page-property.page-type.ts","path":"story/chapter/properties/step-mechanics-issues.text-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"story/chapter/properties/step-recorded-by.multi-relation-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"story/chapter/properties/step-reviewed-by.multi-relation-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"story/lore/place/properties/place-exits.record-property.types.ts","typed":true,"deferred":false}
