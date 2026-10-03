@@ -96,5 +96,21 @@ export const overwhereIvTheTangle22 = {
       fact: "Some forty paces on, the trail bends behind yews; past there the runner is out of sight.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "From the watchers' rise the woodsmoke is plain, and faint axe-strokes carry down from up the trail.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+    },
+    {
+      fact: "Since the strike broke, Grakk has the camp felling oaks to stake a wall round the stone ring.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Her sense, spread wide, finds nothing living near but birds; the trail ahead lies empty.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+    },
+    {
+      fact: "In the hide lie a water gourd, a gnawed hare bone, and the watcher's horn of yellowed bone.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+    },
   ],
 } as const satisfies Lore
