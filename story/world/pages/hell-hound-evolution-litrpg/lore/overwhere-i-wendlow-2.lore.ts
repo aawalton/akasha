@@ -232,5 +232,9 @@ export const overwhereIWendlow2 = {
       fact: "Voss's well-kept arming sword is worth 200 copper; Wil is neither eager nor cool for it.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Crow's crossbow is worth 300 copper; Wil is eager for it, saying its crank and lath are city work.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
