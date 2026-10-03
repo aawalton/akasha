@@ -101,4 +101,5 @@ export const hollowmere0023WhatAWardKeepsIn = {
     "character-other/hollowmere-yusra",
     "character-other/hollowmere-morwenna",
   ],
+  reviewedBy: ["story-reviewer/style"],
 } as const satisfies StoryChapterWritten
