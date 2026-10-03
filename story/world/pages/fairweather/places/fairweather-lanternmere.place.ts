@@ -107,5 +107,9 @@ export const fairweatherLanternmere = {
         "character-other/fairweather-tilly",
       ],
     },
+    {
+      fact: "Moonbells open all together at dusk, and are shut again by midnight.",
+      knowers: ["lore-disclosure/game-master", "character-player/fairweather-elsie"],
+    },
   ],
 } as const satisfies Place
