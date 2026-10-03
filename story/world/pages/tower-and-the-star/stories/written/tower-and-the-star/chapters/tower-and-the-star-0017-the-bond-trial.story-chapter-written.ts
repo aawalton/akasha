@@ -10,4 +10,6 @@ export const towerAndTheStar0017TheBondTrial = {
   ownLength: 3576,
   unit: "unit/words",
   prose: "txt",
+  stepStatus: "step-status/player",
+  beats: "jsonl",
 } as const satisfies StoryChapterWritten

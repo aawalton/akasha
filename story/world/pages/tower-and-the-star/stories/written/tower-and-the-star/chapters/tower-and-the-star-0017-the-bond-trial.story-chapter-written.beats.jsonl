@@ -1,0 +1,78 @@
+{"beat":1,"event":"The Floor 17 Ascent Gate deposits the party in a hexagonal chamber with six corridors.","at":"2000-01-07T08:00:00.000Z","place":"place/tower-and-the-star-floor-17-hexagonal-chamber","present":["character-other/tower-and-the-star-solenne","character-other/tower-and-the-star-dayo","character-other/tower-and-the-star-miriam","character-other/tower-and-the-star-vesper","character-other/tower-and-the-star-tomas","character-other/tower-and-the-star-nadia"],"changes":[{"page":"world-metric/tower-and-the-star-highest-floor-reached","key":"value","from":15,"to":17,"note":"The party reaches Floor 17"}]}
+{"beat":2,"event":"Solenne runs Arcane Analysis on the sourceless light and gets nothing back."}
+{"beat":3,"event":"Tomás runs his fingers along the wall and says the stone is carved, not formed."}
+{"beat":4,"event":"Tomás notes the cut marks are not recent."}
+{"beat":5,"event":"Solenne's Terrain Read receives the whole floor map: three paired and six solo chambers."}
+{"beat":6,"event":"She finds the corridor to her left keyed to her own Resonance frequency."}
+{"beat":7,"event":"Each party member stands slightly closer to one corridor than the others."}
+{"beat":8,"event":"The System announces a Bond Trial and assigns three pairs by RES-frequency, with 60 seconds."}
+{"beat":9,"event":"Dayo checks her vambrace latch and the First Boss Coat's shoulder seam."}
+{"beat":10,"event":"Miriam looks at her MP bar on her Status Window."}
+{"beat":11,"event":"Vesper opens her material cache and closes it."}
+{"beat":12,"event":"Tomás reads all six corridor openings and nods once at his own."}
+{"beat":13,"event":"Solenne opens her notebook, looks at a blank page for four seconds, and closes it."}
+{"beat":14,"event":"Nadia looks at each of them in turn, holding longest on Solenne."}
+{"beat":15,"event":"The sixty seconds end and the corridors seal."}
+{"beat":16,"event":"Solenne and Nadia stand in a small, warm-lit paired chamber.","place":"place/tower-and-the-star-floor-17-corridor-1-chamber","present":["character-other/tower-and-the-star-solenne","character-other/tower-and-the-star-nadia"]}
+{"beat":17,"event":"Solenne's Annotated Staff's inscriptions sit dark and inactive."}
+{"beat":18,"event":"The System suspends Nadia's voice for the Unmediated Contact trial."}
+{"beat":19,"event":"Nadia tries to speak and no sound comes out."}
+{"beat":20,"event":"Nadia closes her mouth, looks at the ceiling, then at Solenne."}
+{"beat":21,"event":"Through the Conductor, Solenne feels Nadia's Brightspirit signal clean, without the performance."}
+{"beat":22,"event":"Solenne recalls telling Miriam on Floor 8 that Nadia was doing fine."}
+{"beat":23,"event":"Solenne crosses about four meters of the twelve-meter room toward Nadia."}
+{"beat":24,"event":"Solenne says she has been running the math on Nadia, naming the Floor 12 pool and Floor 13 traps."}
+{"beat":25,"event":"Solenne sets her Staff against the wall."}
+{"beat":26,"event":"Solenne says she won't ask if Nadia is okay but sees the gap behind her answer."}
+{"beat":27,"event":"Nadia briefly puts one hand against her sternum."}
+{"beat":28,"event":"Nadia points at the Staff and raises an eyebrow in question."}
+{"beat":29,"event":"Solenne says no, she just didn't need it."}
+{"beat":30,"event":"The quality of the silence in the room shifts."}
+{"beat":31,"event":"Harmonize upgrades to Rank 2 during the sustained deep-channel contact."}
+{"beat":32,"event":"Nadia sees the notification and files it."}
+{"beat":33,"event":"The two stand in silence without filling it."}
+{"beat":34,"event":"The System marks the Corridor 1 trial complete, awarding +2 Resonance Events each."}
+{"beat":35,"event":"Through the Conductor, Solenne feels Dayo actively holding restraint in Corridor 2."}
+{"beat":36,"event":"She feels Miriam's Warmhearted signal go thin, then change quality."}
+{"beat":37,"event":"She feels Vesper's signal go quiet and receptive in Corridor 3."}
+{"beat":38,"event":"She feels Tomás's Clearvoiced signal briefly at higher amplitude than in sixteen floors."}
+{"beat":39,"event":"The corridors unseal and Solenne is back in the hexagonal chamber.","place":"place/tower-and-the-star-floor-17-hexagonal-chamber","present":["character-other/tower-and-the-star-solenne"]}
+{"beat":40,"event":"Dayo and Miriam come out of Corridor 2, Miriam holding Dayo's hand.","arrive":["character-other/tower-and-the-star-dayo","character-other/tower-and-the-star-miriam"]}
+{"beat":41,"event":"Dayo scratches a tally mark inside her wrist; Miriam sees it and does not ask."}
+{"beat":42,"event":"Vesper and Tomás come out of Corridor 3; Vesper carries a new palm-sized object.","arrive":["character-other/tower-and-the-star-vesper","character-other/tower-and-the-star-tomas"]}
+{"beat":43,"event":"Tomás looks at his floor notes, giving Vesper space."}
+{"beat":44,"event":"Nadia comes out last, quiet, the performance not yet back on.","arrive":["character-other/tower-and-the-star-nadia"]}
+{"beat":45,"event":"Nadia looks at each of them briefly and says nothing; nobody debriefs."}
+{"beat":46,"event":"Miriam lets go of Dayo's hand."}
+{"beat":47,"event":"Vesper says the coordinates put it northwest, and they follow."}
+{"beat":48,"event":"The party enters the Chamber of Passage; Solenne stands in its northwest alcove.","place":"place/tower-and-the-star-floor-17-chamber-of-passage"}
+{"beat":49,"event":"Solenne reads a handleless, seamless stone door."}
+{"beat":50,"event":"She recognizes the notation over the door as the same script as Vasic's paper, and files it."}
+{"beat":51,"event":"The System shows Repository Node 17-NW-7B: access restricted, Six Aspects composite activation."}
+{"beat":52,"event":"Tomás says it requires all six of them simultaneously."}
+{"beat":53,"event":"Nadia asks: 'Is that us?'"}
+{"beat":54,"event":"Solenne is certain the answer is yes but does not say so."}
+{"beat":55,"event":"Solenne thinks the door will open when she reaches RES 20, one point away."}
+{"beat":56,"event":"She closes the notebook she had opened without deciding to."}
+{"beat":57,"event":"The System marks the Floor 17 trial complete: party Resonance Events at 99/150.","changes":[{"page":"world-metric/tower-and-the-star-resonance-events","key":"value","from":87,"to":99,"note":"Party Resonance Events reach 99 of 150"}]}
+{"beat":58,"event":"Dayo reaches Level 13 and the party gets 1,500 XP as a puzzle completion bonus."}
+{"beat":59,"event":"Tomás checks his individual count, then looks at Vesper."}
+{"beat":60,"event":"Solenne does the math: 51 left, 18 from the Proving Gate trial, 33 more over fourteen floors."}
+{"beat":61,"event":"Solenne puts the notebook in her pack."}
+{"beat":62,"event":"The System offers private solo trials for all six as they walk back to the corridors."}
+{"beat":63,"event":"Back in the hexagonal chamber, Dayo takes her solo trial first.","at":"2000-01-07T09:00:00.000Z","place":"place/tower-and-the-star-floor-17-hexagonal-chamber","leave":["character-other/tower-and-the-star-dayo"]}
+{"beat":64,"event":"Dayo returns after fifteen minutes and sits against the wall, breathing.","arrive":["character-other/tower-and-the-star-dayo"]}
+{"beat":65,"event":"Miriam goes second.","leave":["character-other/tower-and-the-star-miriam"]}
+{"beat":66,"event":"Miriam returns after eighteen minutes, writing in her clinical notebook margin.","arrive":["character-other/tower-and-the-star-miriam"]}
+{"beat":67,"event":"Miriam asks Dayo directly for a Mana Vial, and Dayo hands it over."}
+{"beat":68,"event":"Vesper goes third.","leave":["character-other/tower-and-the-star-vesper"]}
+{"beat":69,"event":"Vesper returns after twelve minutes and puts the palm-sized object in her cache.","arrive":["character-other/tower-and-the-star-vesper"]}
+{"beat":70,"event":"Tomás goes fourth.","leave":["character-other/tower-and-the-star-tomas"]}
+{"beat":71,"event":"Tomás returns after twenty minutes and sits quietly with a mistake.","arrive":["character-other/tower-and-the-star-tomas"]}
+{"beat":72,"event":"Tomás asks: 'Is Nadia next?'"}
+{"beat":73,"event":"Solenne says: 'If she wants to be.'"}
+{"beat":74,"event":"Nadia, sitting apart with her knees drawn up, hears and stands."}
+{"beat":75,"event":"Nadia looks at each of them, holding longest on Solenne."}
+{"beat":76,"event":"Solenne almost speaks, then holds the look and lets Nadia have it."}
+{"beat":77,"event":"Nadia walks into her corridor and steps into the solo chamber; the door closes.","at":"2000-01-07T10:10:00.000Z","leave":["character-other/tower-and-the-star-nadia"]}
+{"beat":78,"event":"The five wait in the hexagonal chamber; Solenne does not open the notebook."}
