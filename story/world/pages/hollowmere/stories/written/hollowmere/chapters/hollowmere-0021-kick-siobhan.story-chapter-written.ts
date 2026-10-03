@@ -4,13 +4,14 @@ export const hollowmere0021KickSiobhan = {
   id: "01a0ff55-0300-7add-b674-5e2c0e03c433",
   type: "page-type/story-chapter-written",
   slug: "hollowmere-0021-kick-siobhan",
+  cover: "image/image-ae0c5e8ef44e6ba8",
   position: 21,
   unit: "unit/words",
   title: "Kick, Siobhan",
   story: "story-written/hollowmere",
   ownLength: 2735,
   prose: "txt",
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   beats: [
     "Sunday: you wake before dawn in Bea's bed in 15, her bare arm over you, her face in your hair.",
     'You ease out from under her arm; she stirs. "Rock?" she mumbles. "Sunday. Go on. Shiv\'s waiting."',
@@ -91,5 +92,24 @@ export const hollowmere0021KickSiobhan = {
     "character-other/hollowmere-amara",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/mechanics", "story-recorder/memory"],
+  recordedBy: [
+    "story-recorder/inventory",
+    "story-recorder/mechanics",
+    "story-recorder/memory",
+    "story-recorder/picture",
+  ],
+  scenes: ["image/image-ae0c5e8ef44e6ba8", "image/image-a67a88e24a56e9de"],
+  pictured: [
+    {
+      cover: "image/image-ae0c5e8ef44e6ba8",
+      coverAfter: "On the rock after, you sit wrapped in the parka together.",
+      character: "character-other/hollowmere-shiv",
+      outfit: "navy parka over bare skin, wet hair, bare legs",
+    },
+    {
+      cover: "image/image-a67a88e24a56e9de",
+      coverAfter: "After the meal, Kit falls into step with you in the cloister.",
+      setting: "the cloister",
+    },
+  ],
 } as const satisfies StoryChapterWritten
