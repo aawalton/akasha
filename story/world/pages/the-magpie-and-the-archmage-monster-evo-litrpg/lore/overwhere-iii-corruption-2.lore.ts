@@ -203,7 +203,7 @@ export const overwhereIiiCorruption2 = {
     },
     {
       fact: "The last kiln jackalope lies curled an arm's length down its burrow; a hand can reach it.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
   ],
 } as const satisfies Lore
