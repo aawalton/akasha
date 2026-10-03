@@ -158,6 +158,7 @@ export const overwhereIiiEddaCrane = {
         "lore-disclosure/game-master",
         "character-other/overwhere-iii-edda-crane",
         "character-player/overwhere-iii-nala",
+        "character-other/overwhere-iii-marda-hesk",
       ],
     },
     {
