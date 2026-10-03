@@ -27,6 +27,11 @@ export const turnAdvancing = {
     {
       decisionKind: "decision-kind/departure",
       statement:
+        "A game master's mend of a written turn zeroes its length, so the writer runs again.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
         "A game master's advance clears who recorded the turn, so every recorder runs again.",
     },
     {

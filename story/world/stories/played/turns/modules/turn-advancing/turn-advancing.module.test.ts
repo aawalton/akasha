@@ -66,7 +66,7 @@ test("the game master's mended beats after review go to the writer too", () => {
   const held = heldAt("game-master", { reviewedBy: TWO, issues: ["a fault"], written: true })
   const said = movedOf(advanced(held, MASTER, { kind: "beats", beats: ["mended"] }, TWO))
   expect(said.status).toBe("writer")
-  expect(said.starts).toEqual([])
+  expect([said.starts, said.values["ownLength"]]).toEqual([[], 0])
 })
 
 test("a reviewer that is not the last adds itself and its issues and leaves the turn with the reviewers", () => {

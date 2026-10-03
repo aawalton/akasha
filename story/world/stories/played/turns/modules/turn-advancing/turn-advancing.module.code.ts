@@ -223,7 +223,12 @@ function fromGameMaster(
     return { refused: "a game master's advance hands in beats, and this has none" }
   const wrong = linesRefused("beat", beats, nounOf(held))
   if (wrong !== null) return { refused: wrong }
-  const values = { beats: HELD_LINES, recordedBy: undefined, mechanicsIssues: undefined }
+  const values = {
+    beats: HELD_LINES,
+    recordedBy: undefined,
+    mechanicsIssues: undefined,
+    ...(held.written ? { ownLength: 0 } : {}),
+  }
   const moving = { planned: { beats, scenes } }
   if (staff.mechanics.length === 0) return moved(WRITER, values, moving)
   const starts = staff.mechanics.map((recorder): Start => ({ kind: "mechanics", recorder }))
