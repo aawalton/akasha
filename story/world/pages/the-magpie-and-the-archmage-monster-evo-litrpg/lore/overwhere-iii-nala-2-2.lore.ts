@@ -152,5 +152,9 @@ export const overwhereIiiNala22 = {
       fact: "Nala reached Level 3 killing two kiln jackalopes with a braid: [You've reached Level 3.]",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
+    {
+      fact: "On day 11 at the shrine Nala cracked her five seed stones with fed weaves, one by one, to specks.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+    },
   ],
 } as const satisfies Lore
