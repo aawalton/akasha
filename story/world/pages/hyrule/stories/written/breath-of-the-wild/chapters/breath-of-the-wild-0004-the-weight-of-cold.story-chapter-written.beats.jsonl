@@ -1,0 +1,73 @@
+{"beat":1,"event":"He leaves the old man's fire before dawn; the old man is asleep, or pretending to be.","at":"2026-10-04T05:30:00.000Z"}
+{"beat":2,"event":"The fire was tended in the night. It is always tended."}
+{"beat":3,"event":"Link eats an apple in the dark, checks the Slate, and walks north toward the mountain."}
+{"beat":4,"event":"Halfway up the northern slope the air changes in a line, and a chill presses on his face.","at":"2026-10-04T07:00:00.000Z","place":"place/hyrule-mount-hylia","present":["character-other/breath-of-the-wild-link"]}
+{"beat":5,"event":"His breath clouds; grass gives way to frost, frost to rock, rock to ankle-deep snow."}
+{"beat":6,"event":"His fingers stiffen, his jaw clenches, and numbness climbs from his toes."}
+{"beat":7,"event":"The Slate's hearts dim by a quarter, warmth drained by the air itself.","changes":[{"page":"metric-character-health/breath-of-the-wild-link","key":"value","from":8,"to":7,"note":"The mountain's cold drains a quarter-heart"}]}
+{"beat":8,"event":"He pulls the old man's doublet from his pack and on, and the cold is held back, narrowly."}
+{"beat":9,"event":"In the lee of a rock shelf he cooks the last three spicy peppers over a fire."}
+{"beat":10,"event":"The Slate: Spicy Sauteed Peppers, hearts +3, cold resistance level 1 for 6:30.","changes":[{"page":"metric-character-health/breath-of-the-wild-link","key":"value","from":7,"to":12,"note":"Spicy Sauteed Peppers, +3 hearts: back to his full 3"}]}
+{"beat":11,"event":"Doublet outside, peppers inside: he stamps out the fire and climbs on."}
+{"beat":12,"event":"Crunch, sink, pull, step: his calves burn, and the thin cold air works his lungs."}
+{"beat":13,"event":"A mountain wind drives snow sideways; he climbs toward the amber shrine glow above."}
+{"beat":14,"event":"The shrine is half-buried in a drift; he brushes the pedestal clear and sets the Slate.","at":"2026-10-04T09:00:00.000Z","place":"place/hyrule-keh-namut-shrine"}
+{"beat":15,"event":"Inside it is warm and humid, with water running in carved channels and basins."}
+{"beat":16,"event":"This transfer feels like structure: water surfaces are no longer just wet, but potential."}
+{"beat":17,"event":"The Slate: rune acquired, Cryonis. Create a pillar of ice from a water surface.","changes":[{"page":"world-mechanic/breath-of-the-wild-cryonis","key":"unrevealed","from":true,"to":false,"note":"Link acquires the Cryonis rune in Keh Namut Shrine"}]}
+{"beat":18,"event":"He aims at a pool, and a clean rectangular pillar of ice cracks up out of the water."}
+{"beat":19,"event":"He climbs it and stands on top, and the ice holds him the way stone does."}
+{"beat":20,"event":"The cold that drained him outside is now his building material."}
+{"beat":21,"event":"He crosses a water gap on three pillars; a fourth makes the first crack and slide away."}
+{"beat":22,"event":"He raises a pillar under a half-sunk gate and ducks beneath it on its column of ice."}
+{"beat":23,"event":"A pillar in a channel stops the flow, the gears halt, and the platform settles for him."}
+{"beat":24,"event":"The third monk waits; he walks to it knowing what will come."}
+{"beat":25,"event":"The words arrive, the same as before: the promise of a hero."}
+{"beat":26,"event":"He watches the face become light until the platform is empty, and does not look away."}
+{"beat":27,"event":"The Slate: Keh Namut Shrine, Cryonis Trial. Spirit Orb acquired, 3/4.","changes":[{"page":"metric-character-currency/breath-of-the-wild-link","key":"value","from":2,"to":3,"note":"Spirit Orb from Keh Namut Shrine: 3/4"}]}
+{"beat":28,"event":"The mountain's cold crashes back as he rises, and the pepper warmth in his chest is fading.","at":"2026-10-04T10:30:00.000Z","place":"place/hyrule-mount-hylia"}
+{"beat":29,"event":"The southern face is thigh-deep in drifts; his legs burn, and his stamina feels finite."}
+{"beat":30,"event":"The cold loosens as he descends: snow to frost to dew, and birds call past the treeline."}
+{"beat":31,"event":"The lowland is warm; he opens the doublet's collar, and his clenched body lets go.","at":"2026-10-04T12:00:00.000Z","place":"place/hyrule-great-plateau"}
+{"beat":32,"event":"In a pine stand by a stream, two red-skinned creatures grunt over a pile of mushrooms."}
+{"beat":33,"event":"He pulls a metal shield off their weapon rack with Magnesis, and its clatter confuses them."}
+{"beat":34,"event":"He draws the Traveler's Sword, and the fight among them is brief, clean and efficient."}
+{"beat":35,"event":"A bow of wood and cord hangs from a post; he tests its draw, and his body knows bows."}
+{"beat":36,"event":"He slings it beside the Guardian Sword and takes a quiver of ten or twelve arrows.","changes":[{"page":"story-item/breath-of-the-wild-travelers-bow","key":"character","from":null,"to":"character-other/breath-of-the-wild-link","note":"Link takes the Traveler's Bow and a quiver from the camp"}]}
+{"beat":37,"event":"The second creature throws a rock; he closes, and the Traveler's Sword rings thin and wrong."}
+{"beat":38,"event":"A hairline crack runs up the blade from the tang; it has been forming for days."}
+{"beat":39,"event":"He sheathes it carefully and draws the Guardian Sword: twenty attack against its five."}
+{"beat":40,"event":"The fourth shrine sits on a bluff at the Plateau's western edge, warm and green.","at":"2026-10-04T13:30:00.000Z","place":"place/hyrule-owa-daim-shrine"}
+{"beat":41,"event":"Slate on pedestal, chime, descent, trial, monk: the pattern has become liturgy."}
+{"beat":42,"event":"The strangest transfer yet: things gain yellow-shimmering edges, things that can be paused."}
+{"beat":43,"event":"The Slate: rune acquired, Stasis. Freeze an object in time.","changes":[{"page":"world-mechanic/breath-of-the-wild-stasis","key":"unrevealed","from":true,"to":false,"note":"Link acquires the Stasis rune in Owa Daim Shrine"}]}
+{"beat":44,"event":"A boulder rolls at him down a track; he points the Slate, and it stops dead, glowing yellow."}
+{"beat":45,"event":"He walks past; three seconds later it rolls on, unaware of the gap in its time."}
+{"beat":46,"event":"He wonders how long his own gap was, in the basin, in the blue water."}
+{"beat":47,"event":"He freezes a metal cube on a seesaw and strikes it five times, its arrow going yellow to red."}
+{"beat":48,"event":"Released, the cube flies into the far wall, and the seesaw throws him up to the next ledge."}
+{"beat":49,"event":"He freezes a cycling platform at its apex and sprints across in three seconds."}
+{"beat":50,"event":"No machine in the last chamber, only the monk; before it he pauses and lets the silence hold."}
+{"beat":51,"event":"The words, a fourth time; now he hears beneath them: I waited for you."}
+{"beat":52,"event":"The monk dissolves. The Slate: Owa Daim Shrine, Stasis Trial. Spirit Orb acquired, 4/4.","changes":[{"page":"metric-character-currency/breath-of-the-wild-link","key":"value","from":3,"to":4,"note":"Spirit Orb from Owa Daim Shrine: 4/4"}]}
+{"beat":53,"event":"Four gifts, four people who spent ten thousand years preparing to end. He carries them all."}
+{"beat":54,"event":"On the path to the summit he tries Stasis on a lone creature: nothing. Only objects.","at":"2026-10-04T14:30:00.000Z","place":"place/hyrule-mount-hylia"}
+{"beat":55,"event":"Prying a wedged stone from the path, the Traveler's Sword snaps clean along its crack."}
+{"beat":56,"event":"He turns the hilt over, its leather worn to his hand, and tucks it in his belt anyway."}
+{"beat":57,"event":"Even the things he trusts have a shelf life. He draws the Guardian Sword and climbs."}
+{"beat":58,"event":"Mount Hylia's peak is a narrow, wind-scoured ridge, and the cold cuts through to the bone.","at":"2026-10-04T16:00:00.000Z"}
+{"beat":59,"event":"His legs shake, his fingers are numb, his face raw; standing in the wind is work."}
+{"beat":60,"event":"Below: the fire mountain, the dark castle, twin peaks over a river valley, lakes in the light."}
+{"beat":61,"event":"He can name things now: the temple, the abbey, the cabin's smoke, four dimmed shrines."}
+{"beat":62,"event":"The Plateau looks small, a garden outgrown in four days, and its edge is a door now."}
+{"beat":63,"event":"Beyond it, everything. He stands until the wind makes his eyes water, then descends."}
+{"beat":64,"event":"The old man's fire is burning, and he stands beside it, tense, as Link comes through the grass.","at":"2026-10-04T19:00:00.000Z","place":"place/hyrule-old-man-campfire","arrive":["character-other/breath-of-the-wild-rhoam"]}
+{"beat":65,"event":"\"You have what I asked for.\" His voice is steady, but the steadiness is work."}
+{"beat":66,"event":"Link stops at the firelight with four orbs, four runes, and a useless hilt in his belt."}
+{"beat":67,"event":"\"Come to the Temple of Time at dawn. We'll make the trade.\""}
+{"beat":68,"event":"He turns a log a quarter-turn, as always, and his fingers tremble slightly."}
+{"beat":69,"event":"Link sits as the warmth finds the summit's cold in his bones, and eats what the old man made."}
+{"beat":70,"event":"Four nights by this fire; it feels like a life, the only one he has."}
+{"beat":71,"event":"Tomorrow the trade, the paraglider, and the world beyond the edge."}
+{"beat":72,"event":"The old man's back is to him, hooded, firelit: a century of patience, allowed to end."}
+{"beat":73,"event":"Link closes his eyes. The fire cracks. The stars turn. Tomorrow."}
