@@ -145,5 +145,9 @@ export const overwhereIiiCorruption2 = {
       fact: "The kiln jackalopes are Level 8, 9 and 11; blight makes them bold, and they hunt as a pack.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "A corrupted jackalope's antler glow is black; its butt is a solid blow, its bite blighted.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
