@@ -10,4 +10,5 @@ export const overwhereIi00098 = {
   stepStatus: "step-status/game-master",
   action: "“Yes. I’m ready now.”",
   lore: ["place/overwhere-ii-callow-beck"],
+  endsAt: "2026-10-25T14:30:00.000Z",
 } as const satisfies StoryTurnPlayed
