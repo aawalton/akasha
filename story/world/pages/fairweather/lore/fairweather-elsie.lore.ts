@@ -173,7 +173,11 @@ export const fairweatherElsie = {
     },
     {
       fact: "Elsie has never been inside a dungeon.",
-      knowers: ["lore-disclosure/game-master", "character-player/fairweather-elsie"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-tamsin",
+      ],
     },
   ],
 } as const satisfies Lore

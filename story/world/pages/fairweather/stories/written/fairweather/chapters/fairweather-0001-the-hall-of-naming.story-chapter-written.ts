@@ -11,7 +11,7 @@ export const fairweather0001TheHallOfNaming = {
   story: "story-written/fairweather",
   ownLength: 3131,
   prose: "txt",
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   beats: "jsonl",
   mechanicsIssues: "txt",
   mechanicsSentBack: true,
@@ -44,6 +44,7 @@ export const fairweather0001TheHallOfNaming = {
     "story-recorder/inventory",
     "story-recorder/plan",
     "story-recorder/picture",
+    "story-recorder/memory",
   ],
   scenes: [
     "image/image-8276a3e48e044643",

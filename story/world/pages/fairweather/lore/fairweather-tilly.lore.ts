@@ -66,11 +66,17 @@ export const fairweatherTilly = {
         "lore-disclosure/game-master",
         "character-other/fairweather-tilly",
         "character-player/fairweather-elsie",
+        "character-other/fairweather-tamsin",
       ],
     },
     {
       fact: "Tilly registered with the guild three days ago, and no party has taken her.",
-      knowers: ["lore-disclosure/game-master", "character-other/fairweather-tilly"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/fairweather-tilly",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-tamsin",
+      ],
     },
     {
       fact: "Tilly's father is a clockmaker on Gear Street who thinks she is still at the College.",
@@ -96,7 +102,11 @@ export const fairweatherTilly = {
     },
     {
       fact: "Tilly Brandt is an Alchemist of F-rank.",
-      knowers: ["lore-disclosure/game-master", "character-player/fairweather-elsie"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-tamsin",
+      ],
     },
     {
       fact: "Tilly has never been inside a dungeon.",
