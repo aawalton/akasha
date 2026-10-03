@@ -10,7 +10,7 @@ export const hollowmere0023WhatAWardKeepsIn = {
   story: "story-written/hollowmere",
   ownLength: 3083,
   prose: "txt",
-  stepStatus: "step-status/writer",
+  stepStatus: "step-status/recorders",
   beats: [
     "Tuesday of week four: grey light; Bea is gone already, her side of the bed still warm.",
     "A note on your pillow in Bea's big hand: Outing. Back for lunch. Eat. B x",
