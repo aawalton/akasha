@@ -312,5 +312,21 @@ export const overwhereIvMillbrookAdventurersHall2 = {
         "lore/overwhere-iv-brookside-four",
       ],
     },
+    {
+      fact: "For goblins slain past the cleft Ilsa pays as for any: a silver an ear, 8 copper a core.",
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iv-ilsa-crane"],
+    },
+    {
+      fact: "Told of many axes near the camp, Ilsa reckons Grakk is walling it in, meaning to stay and grow.",
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iv-ilsa-crane"],
+    },
+    {
+      fact: "Ilsa writes to Aubrin that night for a band to clear Grakk's camp before any wall stands.",
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iv-ilsa-crane"],
+    },
+    {
+      fact: "Ilsa scolds Nala for going a mile past the cleft alone, then writes the watchers in her ledger.",
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iv-ilsa-crane"],
+    },
   ],
 } as const satisfies Lore
