@@ -8,9 +8,9 @@ export const hollowmere0025BeforeICanThink = {
   unit: "unit/words",
   title: "Before I Can Think",
   story: "story-written/hollowmere",
-  ownLength: 4524,
+  ownLength: 4541,
   prose: "txt",
-  stepStatus: "step-status/writer",
+  stepStatus: "step-status/recorders",
   beats: [
     "Thursday of week four: rain on the window of 15, and Bea asleep with her face in your neck.",
     "You lie still and listen; Bea wakes, groans at the rain, and pulls the blanket over both heads.",
