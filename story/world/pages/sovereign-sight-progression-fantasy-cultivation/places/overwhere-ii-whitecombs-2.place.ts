@@ -56,6 +56,14 @@ export const overwhereIiWhitecombs2 = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
+      fact: "Leaving the cwm at sunset, Nala and Hawise reach the Ford in some three hours, the last by dark.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Wading the Callow pool, Nala's skin would soak up the black unharmed, but her stair dream would roar",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
       fact: "Three hours' parting of the Callow pool's black fills a fair part of a whole greymaw chamber.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
