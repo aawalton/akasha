@@ -1,0 +1,70 @@
+{"beat":1,"event":"The Mk.V Sentinel opens its Flux eyes, and a fourth construct slot lights in Callum's interface.","at":"2025-12-13T14:00:00.000Z","place":"place/the-idle-epoch-warehouse","present":["character-player/the-idle-epoch-callum"]}
+{"beat":2,"event":"A meter tall on suspension-strut legs, with an engine-block torso: ugly, and his best work."}
+{"beat":3,"event":"Diagnostics: combat, slot 4 of 4, Overgrowth Level 10-15, 55 Flux an hour, five lines loaded."}
+{"beat":4,"event":"Two days went into those lines: basic loop, heavy strike under 50%, retreat at 30% integrity."}
+{"beat":5,"event":"\"Not elegant. But functional,\" he says aloud, and Pip flickers."}
+{"beat":6,"event":"The Sentinel tags him as no threat and scans the warehouse with jerky turns of its head."}
+{"beat":7,"event":"He slots its last Flux Capacitor and says \"Go\"; it walks south toward the Overgrowth."}
+{"beat":8,"event":"At the Overgrowth boundary he watches the Sentinel through Loop Sight, notebook open.","at":"2025-12-13T15:00:00.000Z","place":"place/the-idle-epoch-overgrowth"}
+{"beat":9,"event":"Four minutes in, two vine constrictors, Level 10 and 11, coil at an oak; the Sentinel engages."}
+{"beat":10,"event":"It sidesteps clumsily and hits for about 15 a strike; a kill takes some forty seconds."}
+{"beat":11,"event":"A constrictor cracks its caliper arm to 94% integrity; it keeps swinging and kills it."}
+{"beat":12,"event":"The second takes thirty-eight seconds, integrity 87%. Not elegant. Functional."}
+{"beat":13,"event":"He logs the kills: about 24 Essence, scrap relay nominal, the heavy-strike branch untested."}
+{"beat":14,"event":"At two or three kills a cycle, he works out 847 Essence a day from the Sentinel alone."}
+{"beat":15,"event":"His daily projection jumps from about 1,555 to 2,402 Essence, up 54.5%."}
+{"beat":16,"event":"Level 13 in 1.2 days, 14 in 3.7, 15 in 7.1. Something warm and quiet moves in his chest."}
+{"beat":17,"event":"He leans on a broken wall watching the Sentinel's iron bar flash in the haze. \"Yeah. I know.\""}
+{"beat":18,"event":"Fourteen hours on, at 3:17 AM on his warehouse cot, the level-up arrives: 12 to 13.","at":"2025-12-14T08:17:00.000Z","place":"place/the-idle-epoch-warehouse","changes":[{"page":"metric-character-level/the-idle-epoch-callum","key":"value","from":12,"to":13,"note":"Level 12 to 13 as the Mk.V's kills push him over the threshold"}]}
+{"beat":19,"event":"Warmth floods him; his vision sharpens, and a three-day headache vanishes."}
+{"beat":20,"event":"Level 11 to 12 took nine days; the Mk.V cut 12 to 13 to under a day and a half."}
+{"beat":21,"event":"He puts two points in Intelligence, to 51, and two in Wisdom, to 54.","changes":[{"page":"metric-character-stat/the-idle-epoch-callum-intelligence","key":"value","from":49,"to":51,"note":"Level 13: +2 Intelligence"},{"page":"metric-character-stat/the-idle-epoch-callum-wisdom","key":"value","from":52,"to":54,"note":"Level 13: +2 Wisdom"}]}
+{"beat":22,"event":"One point into Willpower, to 29, lifts his session duration from 9.6 to 9.8 hours."}
+{"beat":23,"event":"His window: Loopweaver Level 13, Prestige 0, Script Complexity 30.5, Idle Yield 2.08x."}
+{"beat":24,"event":"He holds five skill points; Script Engine 2 costs four and fifteen Chrono Dust. Not yet."}
+{"beat":25,"event":"Still splitting resources at 3:22 AM, he tells himself sleep is a valid optimization."}
+{"beat":26,"event":"The loop runs: Sentinel in the Overgrowth, Grinder in the Flats, Collector and Refinery at work."}
+{"beat":27,"event":"Late that afternoon he walks out to check a 2.3% overnight dip in the Sentinel's efficiency.","at":"2025-12-14T21:00:00.000Z","place":"place/the-idle-epoch-overgrowth"}
+{"beat":28,"event":"Skirting the patrol edge, he hears fast metal on flesh and the coughing snarl of spore wolves."}
+{"beat":29,"event":"His Level 3 Danger Sense tingles: violence within fifty meters. He creeps closer to assess."}
+{"beat":30,"event":"From a clearing's edge he sees six spore wolves, Level 11 to 14, attacking in pack formation."}
+{"beat":31,"event":"At their centre, killing them, is the Sword Saint from the Grind Pits.","arrive":["character-other/the-idle-epoch-mira"]}
+{"beat":32,"event":"Blood streaks her left arm; she fights like someone fencing since nine, now killing monsters."}
+{"beat":33,"event":"Riposte opens a wolf from jaw to shoulder; Dash carries her between two flankers."}
+{"beat":34,"event":"Her Read Opponent stacks climb to six in his Loop Sight: an eighteen percent damage bonus."}
+{"beat":35,"event":"The sixth wolf hits her from behind; her HP drops to 80%, then 74% as its spores tick."}
+{"beat":36,"event":"He reckons she wins at about 60% HP, but the flanker will strike again, and might crit."}
+{"beat":37,"event":"Redirecting the Sentinel will cost ninety seconds and about 16 Essence. It doesn't matter."}
+{"beat":38,"event":"Without deciding, he drags the Mk.V's patrol marker onto the sixth wolf."}
+{"beat":39,"event":"The Sentinel crashes out of the undergrowth like a filing cabinet thrown down a staircase."}
+{"beat":40,"event":"The wolf turns on it and dodges easily; the construct only has to keep it busy."}
+{"beat":41,"event":"In eight seconds the Sword Saint kills the rest of the pack with Riposte, Dash and Deathmark."}
+{"beat":42,"event":"She kills the sixth wolf with one clean thrust through its skull."}
+{"beat":43,"event":"The clearing goes still; the Sentinel finds no target and trundles back to its patrol."}
+{"beat":44,"event":"She looks past the construct to Callum, standing in full view with his notebook."}
+{"beat":45,"event":"She walks over, saber in hand, blood on her forearm, and asks if the construct is his."}
+{"beat":46,"event":"\"It fights like a drunk toddler.\" It killed the wolf, he says; it occupied it, she says."}
+{"beat":47,"event":"It bought her eight seconds, he says; she looks at him properly and reads his level: 13."}
+{"beat":48,"event":"\"The construct runs the patrol. I optimize the construct,\" he explains."}
+{"beat":49,"event":"She has never seen his class icon. \"Loopweaver,\" he says; she has never heard of it."}
+{"beat":50,"event":"\"I'm Mira. Vasquez,\" she offers, handle first. \"Callum Voss.\" \"The guy in the warehouse.\""}
+{"beat":51,"event":"People talk, she says, about the weirdo in the Foundry District running constructs all night."}
+{"beat":52,"event":"Then she frowns at her hands: her attack speed and cooldowns have shifted. \"What are you doing?\""}
+{"beat":53,"event":"His Optimization Aura shows faint new text: proximity resonance, bleed radius 3m, effect unknown."}
+{"beat":54,"event":"\"I don't know,\" he says: the most honest thing he has said in months."}
+{"beat":55,"event":"\"You have an aura.\" It is supposed to be self-only, he says. \"Well, it's not.\""}
+{"beat":56,"event":"She asks if he has ever stood near another player with it running. \"No. I have not.\""}
+{"beat":57,"event":"Her speed is up two or three percent, cooldowns shorter, from someone eleven levels below her."}
+{"beat":58,"event":"At his \"I agree\" she laughs, sharp and surprised, and her face goes younger for half a second."}
+{"beat":59,"event":"Why send the construct? \"It seemed correct.\" He talks like a System notification, she says."}
+{"beat":60,"event":"\"I'm going to come back,\" Mira says; she has questions about his constructs and his aura."}
+{"beat":61,"event":"It fights like a drunk toddler, she says, but it showed up when it mattered. Then she is gone.","leave":["character-other/the-idle-epoch-mira"]}
+{"beat":62,"event":"His heart is racing; the aura's self-only label, he notes, may be only a threshold."}
+{"beat":63,"event":"He writes four questions, and underlines three times whether the Substrate has known."}
+{"beat":64,"event":"Walking back forty minutes, he catches himself evaluating Mira like a subroutine.","at":"2025-12-14T22:00:00.000Z","place":"place/the-idle-epoch-foundry-district"}
+{"beat":65,"event":"The night air is cold, and for the first time in a long while he does not want to be invisible."}
+{"beat":66,"event":"She said she would come back. It fits no spreadsheet, and it warms his chest."}
+{"beat":67,"event":"He tells Pip she will have questions he can't answer, and worse, ones he can."}
+{"beat":68,"event":"In the warehouse all four slots run, and Essence comes in at the new rate.","place":"place/the-idle-epoch-warehouse"}
+{"beat":69,"event":"The Enhancement Construct still sits at 75%, waiting for Bloom Crystal he can't afford yet."}
+{"beat":70,"event":"For the first time in four months he falls asleep thinking of something other than the curve."}
