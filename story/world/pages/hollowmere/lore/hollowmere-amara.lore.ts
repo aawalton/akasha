@@ -234,5 +234,26 @@ export const hollowmereAmara = {
         "character-other/hollowmere-amara",
       ],
     },
+    {
+      fact: "Amara passed the Friday test with a perfect glim and a stone that steamed in the hall's cold air.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-kit",
+        "character-other/hollowmere-bea",
+        "character-other/hollowmere-amara",
+        "character-other/hollowmere-priya",
+        "character-other/hollowmere-lin",
+        "character-other/hollowmere-shiv",
+      ],
+    },
+    {
+      fact: "After the test Amara sat outside to cry and couldn't be bothered; she leaned on Nala, and laughed.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-amara",
+      ],
+    },
   ],
 } as const satisfies Lore

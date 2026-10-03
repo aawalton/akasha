@@ -336,6 +336,27 @@ export const hollowmereLin = {
         "character-other/hollowmere-lin",
       ],
     },
+    {
+      fact: "Lin passed the Friday test, her glim soft, round and lustrous, like a pearl.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-kit",
+        "character-other/hollowmere-bea",
+        "character-other/hollowmere-amara",
+        "character-other/hollowmere-priya",
+        "character-other/hollowmere-lin",
+        "character-other/hollowmere-shiv",
+      ],
+    },
+    {
+      fact: "At the Bell Lin sat at Nala's feet drawing the fiddlers, her head leaning on Nala's knee.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-lin",
+      ],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore

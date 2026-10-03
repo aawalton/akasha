@@ -317,6 +317,27 @@ export const hollowmereShiv = {
         "character-other/hollowmere-shiv",
       ],
     },
+    {
+      fact: "Shiv told Nala the test is a glim and a warm stone, done a hundred times: stop being a gom.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-shiv",
+      ],
+    },
+    {
+      fact: "Shiv passed the Friday test, casting her glim with an enormous yawn.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-kit",
+        "character-other/hollowmere-bea",
+        "character-other/hollowmere-amara",
+        "character-other/hollowmere-priya",
+        "character-other/hollowmere-lin",
+        "character-other/hollowmere-shiv",
+      ],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore

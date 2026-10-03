@@ -200,5 +200,47 @@ export const hollowmereNala2 = {
         "character-other/hollowmere-lin",
       ],
     },
+    {
+      fact: "On test day Shiv breathed with Nala at the buoy, out and out, until her hands stopped shaking.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-shiv",
+      ],
+    },
+    {
+      fact: "Asked Whose wanting? on Friday, Nala said: Mine. It's mine now. I'm the one who wants.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-penhallow",
+        "character-other/hollowmere-kit",
+        "character-other/hollowmere-amara",
+        "character-other/hollowmere-priya",
+        "character-other/hollowmere-lin",
+        "character-other/hollowmere-shiv",
+      ],
+    },
+    {
+      fact: "Nala passed the Friday test first: a steady glim held a long count, a stone bathwater-warm.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-kit",
+        "character-other/hollowmere-bea",
+        "character-other/hollowmere-amara",
+        "character-other/hollowmere-priya",
+        "character-other/hollowmere-lin",
+        "character-other/hollowmere-shiv",
+      ],
+    },
+    {
+      fact: "Nala never danced a reel in either life; Shiv dragged her into one, and she laughed till she ached.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-shiv",
+      ],
+    },
   ],
 } as const satisfies Lore

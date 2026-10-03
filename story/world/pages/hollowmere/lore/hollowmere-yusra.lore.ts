@@ -247,6 +247,14 @@ export const hollowmereYusra = {
         "character-other/hollowmere-bea",
       ],
     },
+    {
+      fact: "At the Bell Yusra asked Nala Passed?; Nala said Passed; Yusra said Told you, and held her eyes.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-yusra",
+      ],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore

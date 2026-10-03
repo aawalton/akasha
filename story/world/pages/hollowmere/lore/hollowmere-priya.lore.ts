@@ -193,5 +193,18 @@ export const hollowmerePriya = {
         "character-other/hollowmere-penhallow",
       ],
     },
+    {
+      fact: "Priya passed the Friday test.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-kit",
+        "character-other/hollowmere-bea",
+        "character-other/hollowmere-amara",
+        "character-other/hollowmere-priya",
+        "character-other/hollowmere-lin",
+        "character-other/hollowmere-shiv",
+      ],
+    },
   ],
 } as const satisfies Lore

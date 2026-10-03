@@ -138,5 +138,31 @@ export const hollowmerePenhallow = {
         "character-player/hollowmere-nala",
       ],
     },
+    {
+      fact: "Penhallow said Yes, good, to Nala's answer, and pushed the shortbread tin all the way across to her.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-penhallow",
+        "character-other/hollowmere-kit",
+        "character-other/hollowmere-amara",
+        "character-other/hollowmere-priya",
+        "character-other/hollowmere-lin",
+        "character-other/hollowmere-shiv",
+      ],
+    },
+    {
+      fact: "At her own first test, nearly forty years ago, Penhallow set her eyebrows on fire; she passed.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-penhallow",
+        "character-other/hollowmere-kit",
+        "character-other/hollowmere-amara",
+        "character-other/hollowmere-priya",
+        "character-other/hollowmere-lin",
+        "character-other/hollowmere-shiv",
+      ],
+    },
   ],
 } as const satisfies Lore

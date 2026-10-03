@@ -194,5 +194,43 @@ export const hollowmereKit2 = {
         "character-other/hollowmere-kit",
       ],
     },
+    {
+      fact: "At test-day breakfast Kit gripped Nala's hand hard under the table, then ate one dry toast triangle.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-kit",
+      ],
+    },
+    {
+      fact: "At the test Kit froze at the hook, breathed out with Nala, Bea, Lin and Shiv, and passed.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-kit",
+        "character-other/hollowmere-bea",
+        "character-other/hollowmere-amara",
+        "character-other/hollowmere-priya",
+        "character-other/hollowmere-lin",
+        "character-other/hollowmere-shiv",
+      ],
+    },
+    {
+      fact: "At the Drowned Bell Kit told Nala I passed, and kissed her in front of the whole pub, scarlet.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-kit",
+      ],
+    },
+    {
+      fact: "At the gates Kit kissed Nala on the mouth, then kissed Bea's cheek, and Bea stood astonished.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-kit",
+        "character-other/hollowmere-bea",
+      ],
+    },
   ],
 } as const satisfies Lore
