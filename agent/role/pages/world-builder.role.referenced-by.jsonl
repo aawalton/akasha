@@ -3,5 +3,4 @@
 {"propertySlug":"import","fileName":"world-builder.role.ts","path":"story/world/stories/played/turns/modules/turn-advancing/turn-advancing.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"world-builder.role.ts","path":"story/world/stories/played/turns/modules/turn-seats/turn-seats.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"agent/role/role.page-type.ts","id":"01a053b2-2c20-7e34-9306-65f44016381a"}
-{"propertySlug":"role","path":"agent/seat/pages/iris-world-builder-otherwhere-xi/iris-world-builder-otherwhere-xi.seat.ts","id":"01a0ea64-81ba-7000-84ca-88fc2575f736"}
 {"propertySlug":"role","path":"agent/seat/pages/mari-world-builder-fairweather/mari-world-builder-fairweather.seat.ts","id":"01a102a0-aa46-7000-9f5a-cb3001cec17b"}
