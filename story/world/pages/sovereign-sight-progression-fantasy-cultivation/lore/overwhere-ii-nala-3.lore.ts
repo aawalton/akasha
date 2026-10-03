@@ -218,7 +218,7 @@ export const overwhereIiNala3 = {
     },
     {
       fact: "Refined, Nala's lungs draw deeper and slower, and she can hold her breath for minutes.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "The numbness Corra's spark left in Nala's hand is gone within the hour.",
