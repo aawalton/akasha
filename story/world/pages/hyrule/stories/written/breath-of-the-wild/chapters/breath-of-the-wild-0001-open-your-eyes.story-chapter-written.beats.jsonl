@@ -1,0 +1,75 @@
+{"beat":1,"event":"Before light or cold, a woman's voice, thin with distance, repeats: Open your eyes.","at":"2026-10-01T07:00:00.000Z","place":"place/hyrule-shrine-of-resurrection","present":["character-other/breath-of-the-wild-link"]}
+{"beat":2,"event":"Wake up, Link. The name lands somewhere inside him and fits, though he does not know why."}
+{"beat":3,"event":"Water runs off him as he lies on curved stone; his fingers move, and his lungs draw stale air."}
+{"beat":4,"event":"His eyes open on a blue ceiling of carved patterns, glowing and pulsing slowly."}
+{"beat":5,"event":"His body takes stock of itself: heartbeat, lungs, a dry mouth. He swallows."}
+{"beat":6,"event":"He sits up, heavy, as the last luminous blue water drains from the basin under him."}
+{"beat":7,"event":"He stares a long time at his calloused hands, the only proof he existed before now."}
+{"beat":8,"event":"The small oval chamber holds two chests banded with orange light and a pedestal by a sealed door."}
+{"beat":9,"event":"He swings his legs over the basin's edge, and his knees nearly buckle as he stands."}
+{"beat":10,"event":"His hands know the chests' latches: inside are a faded pale blue shirt and trousers.","changes":[{"page":"story-item/breath-of-the-wild-old-shirt","key":"character","from":null,"to":"character-other/breath-of-the-wild-link","note":"Link takes the old shirt from the first chest"},{"page":"story-item/breath-of-the-wild-well-worn-trousers","key":"character","from":null,"to":"character-other/breath-of-the-wild-link","note":"Link takes the trousers from the second chest"}]}
+{"beat":11,"event":"He dresses in the blue light, fumbling the fastenings; both fit, both are thin, and he is not warm."}
+{"beat":12,"event":"On the pedestal lies a smooth dark rectangle that fits his palm exactly, warm and humming.","changes":[{"page":"story-item/breath-of-the-wild-sheikah-slate","key":"character","from":null,"to":"character-other/breath-of-the-wild-link","note":"Link lifts the Sheikah Slate from its pedestal"}]}
+{"beat":13,"event":"A two-note chime; the screen lights with an eye, then text: Sheikah Slate activated."}
+{"beat":14,"event":"The Slate shows hearts 3/3, one stamina wheel, four locked rune slots and no map.","changes":[{"page":"metric-character-health/breath-of-the-wild-link","key":"maxValue","from":null,"to":12,"note":"The Slate shows Link's hearts at 3/3: twelve quarter-hearts at most"},{"page":"metric-character-health/breath-of-the-wild-link","key":"value","from":null,"to":12,"note":"Hearts 3/3 at waking"},{"page":"metric-character-stamina/breath-of-the-wild-link","key":"value","from":null,"to":1,"note":"Stamina: 1 wheel"}]}
+{"beat":15,"event":"Hearts, stamina, runes mean nothing to him; he touches his chest and feels the beat there."}
+{"beat":16,"event":"The sealed door grinds open on a blue-lit corridor, with a thin line of daylight at its end."}
+{"beat":17,"event":"He walks barefoot up the warming corridor, the Slate fastened at his hip, humming."}
+{"beat":18,"event":"The corridor ends at a cliff: he steps from carved stone onto warm, thick, living grass.","at":"2026-10-01T07:30:00.000Z","place":"place/hyrule-great-plateau"}
+{"beat":19,"event":"Wind hits him under an enormous sky, and the drop makes him step back."}
+{"beat":20,"event":"Below: green fields, forests, ruins half-swallowed by grass, and a temple with a broken spire."}
+{"beat":21,"event":"Far to the northeast a mountain burns with a dull orange glow, as it always has."}
+{"beat":22,"event":"Straight ahead stands a castle, coiled in slow purple-black tendrils."}
+{"beat":23,"event":"He stares at it, his heart beating fast, from fear or recognition or both."}
+{"beat":24,"event":"The air smells of pine, river mud, sulfur and distance; his breath shows in the cold morning."}
+{"beat":25,"event":"A small brown bird darts past his cheek; he flinches, arms half-raised, and feels foolish."}
+{"beat":26,"event":"The Slate chimes and shows a map: one pulsing blip, his own, on a place with no name."}
+{"beat":27,"event":"By the temple below, smoke rises from a campfire, and a small dark figure stands beside it."}
+{"beat":28,"event":"He looks back at the castle and its coiling darkness, then starts down the hill."}
+{"beat":29,"event":"The world is loud with sounds he cannot name; only on the third call does he place birdsong.","at":"2026-10-01T08:30:00.000Z"}
+{"beat":30,"event":"Hungry, he pulls a red apple from a gnarled tree and bites before he wonders if it is safe."}
+{"beat":31,"event":"He eats three apples standing under the tree, juice on his chin, then walks on."}
+{"beat":32,"event":"Near the hill's foot he picks up a fallen branch, and his grip settles on it like a weapon's.","changes":[{"page":"story-item/breath-of-the-wild-tree-branch","key":"character","from":null,"to":"character-other/breath-of-the-wild-link","note":"Link picks up a fallen tree branch"}]}
+{"beat":33,"event":"The branch is light and dry and will not last. He does not know how he knows that."}
+{"beat":34,"event":"A greasy, charred smell, then grunts and high barks: neither human sounds nor animal ones.","at":"2026-10-01T10:00:00.000Z"}
+{"beat":35,"event":"He drops into a silent crouch in the grass, the branch held close, without deciding to."}
+{"beat":36,"event":"Through the grass: a crude camp round a fire, a rack of meat, apples, and a sleeping platform.","place":"place/hyrule-bokoblin-camp"}
+{"beat":37,"event":"Two squat, clay-skinned creatures sit at the fire, one with a bone club; a third sleeps."}
+{"beat":38,"event":"He counts three, reads fifteen paces of open ground, and knows he should go around."}
+{"beat":39,"event":"The club-creature sees him and barks; the second turns, and the sleeper rolls to its feet."}
+{"beat":40,"event":"He closes in four strides, turns aside from a swing at his ribs, and drives the branch home."}
+{"beat":41,"event":"He strikes again and again, footwork precise, breath controlled; his body has done this before."}
+{"beat":42,"event":"On the fourth swing the branch cracks in two, and half of it spins away into the dirt."}
+{"beat":43,"event":"Empty-handed, he drops under the next swing and seizes a fallen creature's bone club.","changes":[{"page":"story-item/breath-of-the-wild-boko-club","key":"character","from":null,"to":"character-other/breath-of-the-wild-link","note":"Link takes up a fallen bokoblin's bone club"}]}
+{"beat":44,"event":"He puts down the slow sleeper first, then the fire-tender, then the first one, behind him."}
+{"beat":45,"event":"Silence, then the fire; his pulse hammers, and his scraped, bleeding hands shake."}
+{"beat":46,"event":"The Slate chimes: damage received, four quarter-hearts lost; one heart line is shorter.","changes":[{"page":"metric-character-health/breath-of-the-wild-link","key":"value","from":12,"to":8,"note":"Damage received in the camp fight: four quarter-hearts lost"}]}
+{"beat":47,"event":"The creatures come apart into dark smoke, leaving their weapons and acrid scraps of hide."}
+{"beat":48,"event":"He takes their bow and quiver of stone-tipped arrows, an apple per pocket, and pale mushrooms.","changes":[{"page":"story-item/breath-of-the-wild-boko-bow","key":"character","from":null,"to":"character-other/breath-of-the-wild-link","note":"Link takes the bokoblins' bow and quiver"}]}
+{"beat":49,"event":"His legs give; he sits by their fire, eats their apples, and turns the bone club over."}
+{"beat":50,"event":"He looks a long while at the broken branch lying in two pieces."}
+{"beat":51,"event":"Farther down by the broken temple, a hooded old man in a dark cloak watches a fire.","at":"2026-10-01T18:00:00.000Z","place":"place/hyrule-old-man-campfire","arrive":["character-other/breath-of-the-wild-rhoam"]}
+{"beat":52,"event":"He looks up, sharp and patient-eyed: \"Well. You're awake.\""}
+{"beat":53,"event":"Link stops at the firelight, scraped and barefoot, club in hand; the old man nods."}
+{"beat":54,"event":"\"Sit. You look like you've had a difficult introduction to the Plateau.\""}
+{"beat":55,"event":"Link sits. The fire's warmth is the best thing yet, because someone built it before he came."}
+{"beat":56,"event":"The old man turns an apple over the flames: \"Cooking. Heat and patience.\""}
+{"beat":57,"event":"Link eats the baked apple in four bites; the old man watches, caught between amusement and grief."}
+{"beat":58,"event":"\"You eat like you haven't in a while,\" the old man says quietly."}
+{"beat":59,"event":"He tosses a second apple underhand; Link catches it one-handed without looking."}
+{"beat":60,"event":"The Plateau has been sealed some time, he says, and Link came from the cave on the ridge."}
+{"beat":61,"event":"Link says nothing; language sits behind his sternum, heavy and unformed."}
+{"beat":62,"event":"He points east to an amber glow: one of four shrines on the Plateau, each with a trial."}
+{"beat":63,"event":"Bring me what you find in them, he says, and I will give you something to leave by."}
+{"beat":64,"event":"He shows a folded paraglider: the only way off the Plateau is to fly or to fall.","changes":[{"page":"story-item/breath-of-the-wild-paraglider","key":"character","from":null,"to":"character-other/breath-of-the-wild-rhoam","note":"The old man shows the paraglider he keeps in his cloak"}]}
+{"beat":65,"event":"\"In the morning, perhaps.\" The night is cold, and Link is not especially prepared."}
+{"beat":66,"event":"An owl calls behind the temple; for a moment his face is very old and very tired."}
+{"beat":67,"event":"\"Rest. The world will still be here in the morning.\""}
+{"beat":68,"event":"Night falls; the old man sits wrapped in his cloak across the fire, perhaps asleep.","at":"2026-10-01T21:00:00.000Z"}
+{"beat":69,"event":"Link holds the Slate in his lap; its eye glows, steady and patient, watching him."}
+{"beat":70,"event":"He turns the longer half of the broken branch over, then lays it in the fire."}
+{"beat":71,"event":"He feeds in the second piece, and it burns faster than the first.","changes":[{"page":"story-item/breath-of-the-wild-tree-branch","key":"character","from":"character-other/breath-of-the-wild-link","to":null,"note":"The broken branch's two halves burn in the fire"}]}
+{"beat":72,"event":"Better weapons will break too, he knows; the stars are out in patterns he does not know."}
+{"beat":73,"event":"He cannot see the castle in the dark, but he feels it, a weight on the horizon."}
+{"beat":74,"event":"Cold, alive and alone, he hears the voice again, faintly: someone present at a distance."}
+{"beat":75,"event":"Someone believes he will get up tomorrow. He closes his eyes."}
