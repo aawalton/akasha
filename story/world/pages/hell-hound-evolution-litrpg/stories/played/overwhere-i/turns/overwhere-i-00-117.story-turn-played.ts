@@ -7,7 +7,16 @@ export const overwhereI00117 = {
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-i"],
   position: 117,
-  stepStatus: "step-status/world-builder",
+  stepStatus: "step-status/game-master",
   action:
     "I spend the time I have before I need to leave using the weave i found to finish mending my cloak and clothes, then go to see the magistrate.",
+  lore: [
+    "lore/overwhere-i-odile-varne",
+    "lore/overwhere-i-starfall-legacy",
+    "lore/overwhere-i-starfall-legacy-2",
+    "lore/overwhere-i-starfall-legacy-3",
+    "lore/overwhere-i-wendlow-2",
+    "lore/overwhere-i-wendlow-3",
+    "place/overwhere-i-wendlow",
+  ],
 } as const satisfies StoryTurnPlayed
