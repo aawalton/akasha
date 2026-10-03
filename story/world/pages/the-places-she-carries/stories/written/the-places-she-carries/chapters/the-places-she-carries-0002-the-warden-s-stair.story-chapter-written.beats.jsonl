@@ -1,0 +1,54 @@
+{"beat":1,"event":"At the fourth switchback the stone's voice turns to grit under Wren's boots.","at":"2026-08-01T10:30:00.000Z","place":"place/the-places-she-carries-wardens-stair","present":["character-player/the-places-she-carries-wren"]}
+{"beat":2,"event":"One step is cracked and the next is gone, sheared away into the mist."}
+{"beat":3,"event":"She stretches across the gap; the pack pulls her back, then her boot catches and holds."}
+{"beat":4,"event":"She stands still against the cliff until the world stops being able to drop her."}
+{"beat":5,"event":"Suspended in white mist, she takes the step ahead."}
+{"beat":6,"event":"The stair was carved by someone who followed the limestone's grain; she counts the steps."}
+{"beat":7,"event":"At the sixth switchback the mist thins and the basin appears in fragments below.","at":"2026-08-01T10:45:00.000Z"}
+{"beat":8,"event":"She hears a bird she does not know: three rising notes and a falling trill."}
+{"beat":9,"event":"[Wayfinder's Eye] notes moss on the northwest faces, white bell-flowers, worn bands in the steps."}
+{"beat":10,"event":"At step eighty-nine a two-meter stretch of cliff face shimmers.","at":"2026-08-01T10:55:00.000Z"}
+{"beat":11,"event":"She presses her palms to it: the stone is warm and rings below hearing."}
+{"beat":12,"event":"A discovery logs the cliff's sub-audible resonance: +35 XP and an Insight Token.","changes":[{"page":"metric-character-experience/the-places-she-carries-wren","key":"value","from":0,"to":35,"note":"Discovery: sub-audible resonance in the escarpment face"}]}
+{"beat":13,"event":"At the ninth switchback she almost walks past the Warden's Shelf.","at":"2026-08-01T11:05:00.000Z","place":"place/the-places-she-carries-wardens-shelf"}
+{"beat":14,"event":"The overhang is three meters deep and eight wide, flat-floored, cupped like a hand."}
+{"beat":15,"event":"A rowan grows from a crack at its left edge, where no rowan should grow."}
+{"beat":16,"event":"She steps onto the shelf and the cliff's sounds recede behind her."}
+{"beat":17,"event":"The overhang gathers the canopy's slow thirty-second breath: the Thornwild is breathing."}
+{"beat":18,"event":"[Wayfinder's Eye] is not pulsing but singing; every surface on the shelf glows with attention."}
+{"beat":19,"event":"Wren's legs fold and she sits, knees up, and thinks: oh, you're something."}
+{"beat":20,"event":"She watches the rowan's leaves turn on the thermal columns and learns their pattern."}
+{"beat":21,"event":"She reads the ceiling moss as a map of the stone: +35 XP and an Insight Token.","changes":[{"page":"metric-character-experience/the-places-she-carries-wren","key":"value","from":35,"to":70,"note":"Discovery: moss on the overhang maps the stone's porosity"}]}
+{"beat":22,"event":"She listens to the forest's breath, ten thousand things breathing at nearly the same time."}
+{"beat":23,"event":"A warmth spreads behind her breastbone, like being watched with kindness."}
+{"beat":24,"event":"RESONANCE DETECTED: a Sympathetic Bond may be possible; activate [Lay the Path]."}
+{"beat":25,"event":"She wants the bond the way one wants to open a letter addressed to them."}
+{"beat":26,"event":"She breathes in rowan, wet stone and moss, breathes out, and activates [Lay the Path].","at":"2026-08-01T11:15:00.000Z"}
+{"beat":27,"event":"She does not dissolve; she sits with the stone, and the stone sits with her back."}
+{"beat":28,"event":"She feels the limestone's age as a density pressing into her palms."}
+{"beat":29,"event":"She feels the rowan's roots in conversation with the stone over a century."}
+{"beat":30,"event":"She hears the breath through the whole curved overhang, down to the bedrock's hum."}
+{"beat":31,"event":"The hour passes uncounted; an insect walks the length of her finger."}
+{"beat":32,"event":"SYMPATHETIC BOND FORMED: Warden's Shelf, Glimpsed, trait [Sheltered], Slot 1 filled, +50 XP.","at":"2026-08-01T12:15:00.000Z","changes":[{"page":"metric-character-experience/the-places-she-carries-wren","key":"value","from":70,"to":120,"note":"Sympathetic Bond formed: Warden's Shelf, Glimpsed"}]}
+{"beat":33,"event":"She opens her eyes: nothing has changed, and everything has."}
+{"beat":34,"event":"She stands and feels the shelf in her chest, a second, quieter heartbeat."}
+{"beat":35,"event":"Eyes closed, she finds its echo: this ledge, this overhang, this rowan."}
+{"beat":36,"event":"ACHIEVEMENT UNLOCKED: First Step, +1 Attunement: 'You have begun.'","changes":[{"page":"metric-character-stat/the-places-she-carries-wren-att","key":"value","from":10,"to":11,"note":"Achievement First Step: +1 Attunement (permanent)"}]}
+{"beat":37,"event":"LEVEL UP: Wayfinder Level 2, with +1 Perception, +1 Attunement and three free points.","changes":[{"page":"metric-character-level/the-places-she-carries-wren","key":"value","from":1,"to":2,"note":"Level 2 reached at the Warden's Shelf bond"},{"page":"metric-character-stat/the-places-she-carries-wren-per","key":"value","from":10,"to":11,"note":"Level 2 class grant: +1 Perception"},{"page":"metric-character-stat/the-places-she-carries-wren-att","key":"value","from":11,"to":12,"note":"Level 2 class grant: +1 Attunement"}]}
+{"beat":38,"event":"She puts one point each into Endurance, Pathsense and Dexterity, trusting her body.","changes":[{"page":"metric-character-stat/the-places-she-carries-wren-end","key":"value","from":8,"to":9,"note":"Level 2 free point placed in Endurance"},{"page":"metric-character-stat/the-places-she-carries-wren-pth","key":"value","from":9,"to":10,"note":"Level 2 free point placed in Pathsense"},{"page":"metric-character-stat/the-places-she-carries-wren-dex","key":"value","from":8,"to":9,"note":"Level 2 free point placed in Dexterity"}]}
+{"beat":39,"event":"Her Level 2 sheet reads PER 11, ATT 12, END 9, PTH 10, DEX 9."}
+{"beat":40,"event":"Below the shelf the stair is steeper, and the mist lies behind her.","at":"2026-08-01T12:25:00.000Z","place":"place/the-places-she-carries-wardens-stair"}
+{"beat":41,"event":"The stone darkens and streaks with iron; water threads across the steps."}
+{"beat":42,"event":"Her road-warden's boots grip wet stone only adequately; she will need better ones."}
+{"beat":43,"event":"At step one hundred and sixty the canopy closes over the stair."}
+{"beat":44,"event":"The smell hits her: leaf mold, crushed fern, and the sweetness she cannot name."}
+{"beat":45,"event":"The three-note bird calls closer, unseen above the green ceiling."}
+{"beat":46,"event":"At step two hundred and thirty-one the Shelf's echo shifts from sensation toward memory."}
+{"beat":47,"event":"The stair ends, and she stands on the basin floor for the first time.","at":"2026-08-01T12:45:00.000Z","place":"place/the-places-she-carries-transition-woodland"}
+{"beat":48,"event":"She finds the overgrown waymarker her father described, its seal under lichen."}
+{"beat":49,"event":"She touches it: warm stone, forgotten twelve years, between built and natural."}
+{"beat":50,"event":"The Thornwild rises in every direction in green-gold noon dimness."}
+{"beat":51,"event":"The air is warm and humid, warmer than any autumn day on the plateau."}
+{"beat":52,"event":"Her compass needle will not settle; it swings between two points five degrees apart."}
+{"beat":53,"event":"The Thornwild does not want to be mapped, but the Shelf is a fixed point in her chest."}
+{"beat":54,"event":"She closes the compass, shoulders her pack and walks into the Thornwild."}
