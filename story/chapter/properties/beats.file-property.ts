@@ -15,7 +15,7 @@ export const beats = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A beat's line holds its scene, its changes and its memory beside its event.",
+      statement: "A beat's line holds its scene, changes, memory and pictures beside its event.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -25,6 +25,10 @@ export const beats = {
       decisionKind: "decision-kind/departure",
       statement:
         "The mechanics step replaces each beat's changes, and a recorder each beat's memory.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The picture recorder replaces the chapter's pictures whole, each on its beat.",
     },
     {
       decisionKind: "decision-kind/departure",
