@@ -10,6 +10,7 @@ export const otherwhereIii0001BarefootAtBelmont = {
   story: "story-played/otherwhere-iii",
   ownLength: 5408,
   prose: "txt",
+  beats: "jsonl",
   turnCovers: [
     {
       position: 1,

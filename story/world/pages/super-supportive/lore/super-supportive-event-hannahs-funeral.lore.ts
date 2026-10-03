@@ -6,5 +6,11 @@ export const superSupportiveEventHannahsFuneral = {
   slug: "super-supportive-event-hannahs-funeral",
   title: "Hannah Elber's funeral",
   world: "world/super-supportive",
+  facts: [
+    {
+      fact: "The funeral is held on Anesidora Island.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iii-nala"],
+    },
+  ],
   secrets: "jsonl",
 } as const satisfies Lore

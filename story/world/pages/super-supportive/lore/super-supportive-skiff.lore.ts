@@ -7,5 +7,11 @@ export const superSupportiveSkiff = {
   title: "Skiff",
   world: "world/super-supportive",
   about: "character-other/super-supportive-skiff",
+  facts: [
+    {
+      fact: "The villain he drowned ended up in intensive care, and Skiff looked strained on TV.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iii-nala"],
+    },
+  ],
   secrets: "jsonl",
 } as const satisfies Lore

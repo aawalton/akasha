@@ -7,5 +7,11 @@ export const superSupportiveAnesidoraCompassionFund = {
   title: "Anesidora Compassion Fund",
   world: "world/super-supportive",
   about: "world-organization/super-supportive-anesidora-compassion-fund",
+  facts: [
+    {
+      fact: "The fund helps people injured in superhuman incidents.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iii-nala"],
+    },
+  ],
   secrets: "jsonl",
 } as const satisfies Lore
