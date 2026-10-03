@@ -83,5 +83,9 @@ export const overwhereIHobbsMillWeir = {
       fact: "Badly hurt, the wyrm flees to its lair under the sunken barge and stays down an hour.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "The wyrm swims 10 yards a second; on land it slides 3 a second, never past 20 yards from water.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Place
