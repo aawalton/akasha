@@ -10,6 +10,7 @@ export const otherwhereI0001ALibrarianForTheLibrary = {
   story: "story-played/otherwhere-i",
   ownLength: 10630,
   prose: "txt",
+  beats: "jsonl",
   turnCovers: [
     {
       position: 1,
