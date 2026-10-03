@@ -13,11 +13,11 @@ export const fairweatherCora = {
       knowers: ["lore-disclosure/game-master", "character-other/fairweather-cora"],
     },
     {
-      fact: "Cora is tall and slim, willowy, with narrow shoulders and small high breasts.",
+      fact: "Cora is tall and willowy, with a fine-boned idol's face, narrow shoulders and small high breasts.",
       knowers: ["lore-disclosure/game-master", "character-other/fairweather-cora"],
     },
     {
-      fact: "Cora has fair skin, cool grey eyes, straight dark brows, and a mouth that rarely smiles.",
+      fact: "Cora is Japanese, with porcelain skin, cool grey eyes, straight dark brows and an unsmiling mouth.",
       knowers: [
         "lore-disclosure/game-master",
         "character-other/fairweather-cora",
