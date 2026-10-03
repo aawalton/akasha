@@ -168,5 +168,13 @@ export const overwhereIiiMardaHesk2 = {
         "character-other/overwhere-iii-marda-hesk",
       ],
     },
+    {
+      fact: "Seeing Nala's three part-pale blightstones, Marda's brows rose; she asked 'Where'd these come from?'",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iii-nala",
+        "character-other/overwhere-iii-marda-hesk",
+      ],
+    },
   ],
 } as const satisfies Lore
