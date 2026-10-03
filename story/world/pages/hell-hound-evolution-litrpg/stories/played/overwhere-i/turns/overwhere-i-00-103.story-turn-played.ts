@@ -7,7 +7,8 @@ export const overwhereI00103 = {
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-i"],
   position: 103,
-  stepStatus: "step-status/world-builder",
+  stepStatus: "step-status/game-master",
   action:
     "“Great!” I hand over Ghost Eye’s ears to go with the head, as well as the crew ears and tags, the sallow hythe tin token, and the sealed letter, then go find Ilse for the focus.",
+  lore: ["lore/overwhere-i-wendlow-2"],
 } as const satisfies StoryTurnPlayed
