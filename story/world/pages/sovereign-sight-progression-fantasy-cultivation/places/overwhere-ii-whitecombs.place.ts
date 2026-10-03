@@ -199,6 +199,34 @@ export const overwhereIiWhitecombs = {
       fact: "Below the spilled pool, Ebba's sheep are found Warped by morning, grey-scaled and savage.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "The day-twenty-six thunder cracked the Callow cwm's lip, and the pool spilled out through the crack.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The crack in the cwm's lip is a yard wide; the pool's thin black trickle still runs out of it.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Since the spill the Callow pool has doubled, sixty paces across, its black water steaming.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "At the pool's middle the water swells and eases slowly, in time with the crag's swells.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Near the doubled pool Nala's well leans toward it as hard as it once did at Hollow Tarn.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Stones packed into the cwm's crack would stop the trickle; the loose scree beside it would serve.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Dead ravens lie about the cwm's rim, grey-scaled at the beak, as if they drank and fell.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place
