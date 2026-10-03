@@ -330,31 +330,59 @@ export const overwhereIWendlow = {
     },
     {
       fact: "Grete enters Nala Arthur on the roll and gives her a bronze antler badge that marks a rolled hunter.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-i-nala",
+        "lore/overwhere-i-grete-holm",
+      ],
     },
     {
       fact: "With Voss and Ghost-Eye down, the Board holds two open contracts, and Grete shows Nala both.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-i-nala",
+        "lore/overwhere-i-grete-holm",
+      ],
     },
     {
       fact: "One contract: the margrave's reeve pays 8 gold for a true account of why Greyfen crystals went dark.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-i-nala",
+        "lore/overwhere-i-grete-holm",
+      ],
     },
     {
       fact: "The other: 15 gold for the Weir Wyrm, a river serpent taking bargemen at Hobb's Mill weir downriver.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-i-nala",
+        "lore/overwhere-i-grete-holm",
+      ],
     },
     {
       fact: "Hobb's Mill weir lies two hours' walk down the Wend from Wendlow.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-i-nala",
+        "lore/overwhere-i-grete-holm",
+      ],
     },
     {
       fact: "The Weir Wyrm is a Level 18 river serpent; Grete knows no more of it than bargemen's tales.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-i-nala",
+        "lore/overwhere-i-grete-holm",
+      ],
     },
     {
       fact: "Grete writes Nala's name in the roll ledger beside the date and her level.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-i-nala",
+        "lore/overwhere-i-grete-holm",
+      ],
     },
   ],
 } as const satisfies Place

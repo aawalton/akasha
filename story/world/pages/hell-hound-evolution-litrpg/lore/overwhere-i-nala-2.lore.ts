@@ -199,5 +199,13 @@ export const overwhereINala2 = {
         "lore/overwhere-i-grete-holm",
       ],
     },
+    {
+      fact: "Nala told Grete Holm to put her on the hunters' roll; she means to kill more things for money.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-i-nala",
+        "lore/overwhere-i-grete-holm",
+      ],
+    },
   ],
 } as const satisfies Lore
