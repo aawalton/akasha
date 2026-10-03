@@ -1,0 +1,68 @@
+{"beat":1,"event":"Before dawn on Day 24, Wren's palms on the threshold stone feel its hum lean south-southeast.","at":"2026-08-24T05:45:00.000Z","place":"place/the-places-she-carries-varethen","present":["character-player/the-places-she-carries-wren"]}
+{"beat":2,"event":"The thirty-second dawn vibration comes and fades; the directional emphasis remains."}
+{"beat":3,"event":"It is the bearing the compass found on Day 19 and the Eye has watched since Day 6."}
+{"beat":4,"event":"She journals: 'Day 24. Six. Stone signature directional, SSE. Going to look.'"}
+{"beat":5,"event":"At the fire she tells the others: something south-southeast, and the stone pointed.","at":"2026-08-24T07:00:00.000Z","arrive":["character-other/the-places-she-carries-theron","character-other/the-places-she-carries-hadley","character-other/the-places-she-carries-brecca"]}
+{"beat":6,"event":"'Hearthstone,' Theron says: a bigger settlement where the Greenwater bends round limestone."}
+{"beat":7,"event":"His grandmother called it the ruin on the ridge; the ridge is three or four hours south."}
+{"beat":8,"event":"Brecca freezes mid-tear: twenty-four days here and Wren has not looked south."}
+{"beat":9,"event":"'I was looking at the stone.' 'For twenty-four days.' 'The stone was doing things.'"}
+{"beat":10,"event":"'So you are going south. Today.' 'Today,' Wren says, deciding as she says it."}
+{"beat":11,"event":"Theron will stay: 'Someone should be here.'"}
+{"beat":12,"event":"Hadley, rolling his bedroll, will make the Millhaven run for supplies and to tell Maret."}
+{"beat":13,"event":"Wren, who had not thought of Maret Osk in days, says: 'Invite her. Tell her about the stone.'"}
+{"beat":14,"event":"Hadley leaves north for the two-day walk to Millhaven.","leave":["character-other/the-places-she-carries-hadley"]}
+{"beat":15,"event":"Brecca, trowel in hand, announces she is coming: she wants to see what is out there."}
+{"beat":16,"event":"Wren thinks of going alone, then of her mother's letter: 'Bring water. Wear heavy boots.'"}
+{"beat":17,"event":"At mid-morning Wren and Brecca leave south through the ghost-elm perimeter.","at":"2026-08-24T10:00:00.000Z","place":"place/the-places-she-carries-basin-path","leave":["character-other/the-places-she-carries-theron"]}
+{"beat":18,"event":"South of the ring the forest is older and denser, perhaps unwalked for three centuries."}
+{"beat":19,"event":"Outside the perimeter the compass's south-southeast pull resolves clearer."}
+{"beat":20,"event":"Wren crouches, palm to earth, and feels the [Foundation Stone] signature running south in the rock."}
+{"beat":21,"event":"Brecca presses her hand down too: like a floor when someone walks in the room below."}
+{"beat":22,"event":"'Okay,' Brecca says. 'That is new.' They walk."}
+{"beat":23,"event":"After a mile the ghost-elms vanish into dense old oak and birch."}
+{"beat":24,"event":"Brecca walks fast but sure-footed; Wren tells her 'Slower' twice."}
+{"beat":25,"event":"'You walk like you are counting something.' Wren counts steps, grades, trees, deviations."}
+{"beat":26,"event":"Brecca asks what the trees look like to her. 'Trees.' Brecca laughs, scattering a bird."}
+{"beat":27,"event":"'Not everything has to be connected to a stone to be interesting.' Wren has no answer."}
+{"beat":28,"event":"Ghost-elms return, singles then clusters, till the light turns grey-green.","at":"2026-08-24T12:00:00.000Z"}
+{"beat":29,"event":"These are larger and irregular, layering many harmonics; Wren stops: 'Listen.'"}
+{"beat":30,"event":"Brecca hears it: 'It hums. Different from the ones at the settlement.'"}
+{"beat":31,"event":"Wren's hand on a trunk: these are wild, resonating before anyone planted a ward."}
+{"beat":32,"event":"Palm to the roots, she feels stone and tree signals interleaved, running south."}
+{"beat":33,"event":"A discovery logs the wild ghost-elm grove: +45 XP, Surveying to 57.","changes":[{"page":"metric-character-experience/the-places-she-carries-wren","key":"value","from":1624,"to":1669,"note":"Discovery: wild ghost-elm grove, harmonics interleaved with the limestone"}]}
+{"beat":34,"event":"'I could have told you that.' 'It knew I noticed.' 'Same thing. Different data.'"}
+{"beat":35,"event":"They walk on through the grove, and Wren notices its beauty without filing it."}
+{"beat":36,"event":"The limestone surfaces in a ridge; the ghost-elms stop at its base and they climb.","at":"2026-08-24T13:30:00.000Z"}
+{"beat":37,"event":"Brecca's palms on the rock: same stone, same chisel tradition; someone dressed this face."}
+{"beat":38,"event":"They reach the bare, wind-scoured crest in mid-afternoon.","at":"2026-08-24T14:30:00.000Z"}
+{"beat":39,"event":"South, the Greenwater curves round a limestone shelf ringed by large ghost-elms."}
+{"beat":40,"event":"Through the canopy she sees walls, rooflines grown through, a clearing at the center."}
+{"beat":41,"event":"It is a settlement built for hundreds where Varethen was built for dozens."}
+{"beat":42,"event":"The compass now points straight south, a strong pull: this place has something to show her."}
+{"beat":43,"event":"'A settlement. Bigger than Varethen.' Not today: it is two hours each way."}
+{"beat":44,"event":"'Everything is a survey.' 'Some things are a survey because they should be.'"}
+{"beat":45,"event":"The same stone thread runs under the ridge: Varethen was not alone, it was part of something."}
+{"beat":46,"event":"Wren reasons the tradition came from somewhere bigger than fourteen families."}
+{"beat":47,"event":"Brecca reads the distant walls: thick, tighter coursing. 'That is not a village. That is a town.'"}
+{"beat":48,"event":"Wren sits, palms on the warm ridge rock, feeling the old thread between the two places."}
+{"beat":49,"event":"They sit an hour; Wren surveys from the vantage while Brecca, for once, is quiet."}
+{"beat":50,"event":"'Theron should see this. He will lose his mind. He pours tea slower.'"}
+{"beat":51,"event":"Wren laughs: in three days Brecca reads Theron better than she did in three weeks."}
+{"beat":52,"event":"'We should go.' Brecca wants to see it up close; Wren wants Theron and two days of supplies.","at":"2026-08-24T15:30:00.000Z"}
+{"beat":53,"event":"They turn north; the pull sits behind her now, saying you saw it, now come back."}
+{"beat":54,"event":"The threshold stone's signature grows with each step; she thinks the word home."}
+{"beat":55,"event":"They pass back through the perimeter's ward-line hum and the bond network settles around her.","at":"2026-08-24T18:30:00.000Z","place":"place/the-places-she-carries-varethen"}
+{"beat":56,"event":"At dusk Theron looks up from the drainage channel and sees their faces.","at":"2026-08-24T19:00:00.000Z","arrive":["character-other/the-places-she-carries-theron"]}
+{"beat":57,"event":"'A settlement. South. On the river. On the same limestone.' Theron stands and looks south."}
+{"beat":58,"event":"Brecca says a hundred meters across at least, thick walls, dressed stone throughout."}
+{"beat":59,"event":"Theron sits at the fire and pours his tea slowly; Wren and Brecca exchange a look."}
+{"beat":60,"event":"His grandmother said the families came from the south, from somewhere long empty."}
+{"beat":61,"event":"Wren plans two days there and back once Hadley returns; Theron is coming. 'All of us.'"}
+{"beat":62,"event":"After the fire Wren sits at the threshold stone; its hum is omnidirectional again.","at":"2026-08-24T22:00:00.000Z","leave":["character-other/the-places-she-carries-theron","character-other/the-places-she-carries-brecca"]}
+{"beat":63,"event":"She journals the scouting: a settlement larger than Varethen, same formation. 'Varethen was not alone.'"}
+{"beat":64,"event":"She writes: 'Twelve days to the next pulse. The stone held last time. Will it hold again?'"}
+{"beat":65,"event":"She leaves the question unanswered; one data point is not a pattern."}
+{"beat":66,"event":"At dawn on Day 25 she writes 'Day 25. Seven.' with the vibration in her palms.","at":"2026-08-25T06:00:00.000Z"}
+{"beat":67,"event":"Brecca is at the west wall, Theron at the channel, Hadley on the trail north."}
+{"beat":68,"event":"The compass points south; the world is bigger than she knew, and she is going to see it."}
