@@ -14,7 +14,7 @@ export const overwhereI00101 = {
     "character-other/overwhere-i-harl-voss",
     "character-other/overwhere-i-ghost-eye",
   ],
-  stepStatus: "step-status/writer",
+  stepStatus: "step-status/recorders",
   action: "“Yeah, put me down. I definitely see more killing things for money in my future.”",
   beats: [
     '"Yeah, put me down. I definitely see more killing things for money in my future," Nala says.',
