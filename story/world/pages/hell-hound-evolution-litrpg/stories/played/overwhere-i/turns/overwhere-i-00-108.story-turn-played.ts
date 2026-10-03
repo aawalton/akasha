@@ -11,4 +11,5 @@ export const overwhereI00108 = {
   action:
     "I eat, then hike downstream to where the Wyrm is active. When I get close, I use my lenses to scout for signs of where it is.",
   lore: ["lore/overwhere-i-wendlow-2", "place/overwhere-i-hobbs-mill-weir"],
+  endsAt: "2026-10-06T09:06:00.000Z",
 } as const satisfies StoryTurnPlayed
