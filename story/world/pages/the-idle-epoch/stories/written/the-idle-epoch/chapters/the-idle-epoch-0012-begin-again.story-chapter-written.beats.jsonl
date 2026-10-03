@@ -1,0 +1,69 @@
+{"beat":1,"event":"The numbers climbed while Callum slept; he wakes to the same hum, the same light, the same cot.","at":"2026-01-06T12:00:00.000Z","place":"place/the-idle-epoch-warehouse","present":["character-player/the-idle-epoch-callum","character-other/the-idle-epoch-jin","character-other/the-idle-epoch-mira"]}
+{"beat":2,"event":"\"Morning, Pip.\" At Compile Familiar 3, Pip has hints of wings, and chimes a two-tone answer."}
+{"beat":3,"event":"Overnight: 7h48m at Tempered 1.5x; the Sentinel's 112 kills earn 2,847 XP and 489 Gold.","changes":[{"page":"metric-character-currency/the-idle-epoch-callum","key":"value","from":1667,"to":2156,"note":"The overnight report's 489 Gold earned"}]}
+{"beat":4,"event":"Total 6,847 Essence at 96.8% compound efficiency, a 2.30x session multiplier."}
+{"beat":5,"event":"Day 1 after the Condense: 4,218. Day 2: 5,912. Day 3: 6,847. The slope isn't steepening; it leaps."}
+{"beat":6,"event":"He reached Level 8 by the end of Day 3; the first time, Level 8 took him two weeks."}
+{"beat":7,"event":"Three days ago a Level 3 Rustbelt Hound could have killed him. He sits still and lets it land."}
+{"beat":8,"event":"Coffee heats on a burner Mira brought: anyone who survives a Condense deserves caffeine."}
+{"beat":9,"event":"His status: Prestige 1, Intelligence 40, Wisdom 40, Recursion 16 at the hidden floor.","changes":[{"page":"metric-character-level/the-idle-epoch-callum","key":"value","from":4,"to":7,"note":"Levels 5 to 7 come off the page over Days 1-3; the window says 8, but 7 to 8 lands at 4:17 PM"},{"page":"metric-character-stat/the-idle-epoch-callum-intelligence","key":"value","from":22,"to":37,"note":"Levels 5 to 7 off the page; 37 is the figure the 4:17 PM level-up starts from"},{"page":"metric-character-stat/the-idle-epoch-callum-wisdom","key":"value","from":20,"to":38,"note":"Levels 5 to 7 off the page; 38 is the figure the 4:17 PM level-up starts from"},{"page":"metric-character-stat/the-idle-epoch-callum-recursion","key":"value","from":15,"to":16,"note":"Recursion ticks from 15 to 16 over the 72 hours after the Condense"}]}
+{"beat":10,"event":"Script Complexity 25 at Level 8; last time, 29 at Level 12 had felt like a breakthrough."}
+{"beat":11,"event":"The compressed pattern runs tighter: his interface answers faster, his threads with less noise."}
+{"beat":12,"event":"Day 1 he bought back Regeneration; Day 2, Efficient Killer, Auto-Target, Auto-Loot, Script Engine."}
+{"beat":13,"event":"Eleven skill points spent, thirteen left. He opens the gold-bordered prestige menu."}
+{"beat":14,"event":"Two days ago he bought Veteran's Wisdom, +10% XP, for 10 shards, and Idle Mastery for 20.","changes":[{"page":"metric-character-currency/the-idle-epoch-callum-prestige-shards","key":"value","from":44,"to":14,"note":"Veteran's Wisdom (10) and Idle Mastery (20), bought two days before; 14 left"}]}
+{"beat":15,"event":"Fourteen shards are saved; 1.5x with Veteran's Wisdom makes an effective 1.65x."}
+{"beat":16,"event":"Level 25 again in nine or ten days; the first time took four months."}
+{"beat":17,"event":"He writes it: time compression ratio about 12x. One loop at a time."}
+{"beat":18,"event":"By mid-morning the warehouse is warm with people: Jin among three System windows and two notebooks."}
+{"beat":19,"event":"Chunk sits paused in a corner for maintenance; Pixel dozes by Jin's elbow."}
+{"beat":20,"event":"Back from dawn patrol, Mira sharpens by the east door: \"Your metal crab freaks out the raccoons.\""}
+{"beat":21,"event":"Callum rebuilds his scripts from memory, and it is fast: the architecture is all in his head."}
+{"beat":22,"event":"Sentinel Combat Script v2.0, three lines, runs three percent tighter than his old Level 1 scripts."}
+{"beat":23,"event":"\"We're basically a guild,\" Jin says: a base, a resource chain, a leader who talks to a cursor."}
+{"beat":24,"event":"\"We're not a guild,\" Mira says. Callum: \"We're a compound loop with human components.\""}
+{"beat":25,"event":"A protein bar hits him in the side of the head. Jin threw it; Mira threw the last one yesterday."}
+{"beat":26,"event":"Something loosens in his chest. We're a team, he thinks, and doesn't say it; Pip chimes."}
+{"beat":27,"event":"He eats the stale bar. If they were a guild, he says, the name would be short and efficient."}
+{"beat":28,"event":"\"The Loop.\" Too vague. \"Compound Interest.\" Mira snorts. \"Idle Hands.\" \"That's a threat.\""}
+{"beat":29,"event":"Chunk hit Level 16 overnight in the Shardfield; inside Callum's zones, summons earn 40% more."}
+{"beat":30,"event":"He'll give Chunk's Ground Slam the north spawn cluster. \"See? Guild,\" says Jin."}
+{"beat":31,"event":"\"Team,\" Mira says, choosing it. She stood at the door through the Condense: no transaction."}
+{"beat":32,"event":"\"Team,\" Callum agrees."}
+{"beat":33,"event":"Midweek and mid-morning, the Exchange is quiet, the air tasting of approaching rain.","at":"2026-01-06T15:30:00.000Z","place":"place/the-idle-epoch-exchange","present":["character-player/the-idle-epoch-callum"]}
+{"beat":34,"event":"At Level 8 he is genuinely vulnerable: anyone above Level 12 could drop him in a straight fight."}
+{"beat":35,"event":"At the Broker's stall a blank-faced Level 14 Analyst clerk asks three Flux Capacitors for a read."}
+{"beat":36,"event":"He pays, and reads the sealed data slate against a beam where no one can see it."}
+{"beat":37,"event":"Drake heard of the Condense within hours, and his reaction was confusion. \"Voluntarily?\""}
+{"beat":38,"event":"No new directives, the surcharge unchanged; Drake's patrols pass the Foundry District more often."}
+{"beat":39,"event":"The Broker's own line: the Vanguard is recalibrating. You have bought time, but not peace."}
+{"beat":40,"event":"Drake has no category for choosing weakness; a confused Drake is more dangerous than an angry one."}
+{"beat":41,"event":"Callum wipes the slate and walks home. Time, not peace."}
+{"beat":42,"event":"Home before noon, he finds Jin running the Shardfield remotely through his summoning link.","at":"2026-01-06T16:45:00.000Z","place":"place/the-idle-epoch-warehouse","present":["character-player/the-idle-epoch-callum","character-other/the-idle-epoch-jin","character-other/the-idle-epoch-mira"]}
+{"beat":43,"event":"At noon Mira leaves on a three-hour patrol she designed herself, watching for scouts and scavengers.","at":"2026-01-06T17:00:00.000Z","leave":["character-other/the-idle-epoch-mira"]}
+{"beat":44,"event":"Jin keeps a paper spreadsheet of Chunk's behaviour evolving across deployments: emergence, he says."}
+{"beat":45,"event":"Callum calls it process optimization through iteration: the same thing in two languages."}
+{"beat":46,"event":"By three he has rewritten the Sentinel's script twice and cut eleven minutes off the Refinery's day.","at":"2026-01-06T20:00:00.000Z"}
+{"beat":47,"event":"Fractional gains at 1.65x: tasks that took whole afternoons now finish in an hour."}
+{"beat":48,"event":"At 4:17 PM: level up, 7 to 8.","at":"2026-01-06T21:17:00.000Z","changes":[{"page":"metric-character-level/the-idle-epoch-callum","key":"value","from":7,"to":8,"note":"Level 7 to 8 at 4:17 PM on Day 3"}]}
+{"beat":49,"event":"Three to Intelligence, 37 to 40; two to Wisdom, 38 to 40. Sixteen skill points banked for Level 10.","changes":[{"page":"metric-character-stat/the-idle-epoch-callum-intelligence","key":"value","from":37,"to":40,"note":"Level 8: +3 Intelligence"},{"page":"metric-character-stat/the-idle-epoch-callum-wisdom","key":"value","from":38,"to":40,"note":"Level 8: +2 Wisdom"}]}
+{"beat":50,"event":"The patience of certainty, not of endurance: every cycle makes the next one faster."}
+{"beat":51,"event":"He extrapolates: Level 10 by Day 5, 15 by Day 7, 20 by Day 8 or 9, 25 by Day 10."}
+{"beat":52,"event":"Then a second Condense, a multiplier on a multiplier. The first loop is complete."}
+{"beat":53,"event":"Around seven Jin falls asleep at his worktable, face on Chunk's data, Pixel glowing at his wrist.","at":"2026-01-07T00:00:00.000Z"}
+{"beat":54,"event":"Mira sits on the pallet by the east door she claimed three nights ago, her whetstone idle.","arrive":["character-other/the-idle-epoch-mira"]}
+{"beat":55,"event":"Two curves on one page: four months to Level 25, and three days to Level 8, far steeper."}
+{"beat":56,"event":"A dotted line runs on past 25. He writes: FIRST LOOP COMPLETE. BEGIN SECOND."}
+{"beat":57,"event":"The Sentinel draws 45 Flux an hour; Collector and Refinery cycle; three threads weave in the dark."}
+{"beat":58,"event":"Pip's pulse matches his heartbeat now; he doesn't know when that began. He files it."}
+{"beat":59,"event":"\"What's the number?\" Mira asks. \"Nine days. Maybe ten. To Level 25 again.\""}
+{"beat":60,"event":"\"And then you Condense again.\" \"And then I Condense again.\""}
+{"beat":61,"event":"\"The first time, you were scared.\" \"Terrified.\" \"And this time?\" \"Less terrified. More certain.\""}
+{"beat":62,"event":"\"Good,\" she says, and sharpens again; then, quieter: \"We'll be ready.\""}
+{"beat":63,"event":"Outside the Fracture rumbles and the windows rattle; the Barrier flickers, and holds."}
+{"beat":64,"event":"Somewhere in the city Drake Morrison is recalibrating, unsure for once which measure is right."}
+{"beat":65,"event":"The Substrate cares only for throughput, and the throughput is accelerating."}
+{"beat":66,"event":"The 72-hour report: 18,442 Essence at 1.5x, 847 kills, 96.8%, Recursion 15 to 16. Continue."}
+{"beat":67,"event":"Continue: the Substrate's word, and now his. What is he building? Not yet known. It is enough."}
+{"beat":68,"event":"He turns off the workbench light; Jin breathes, Mira sharpens, the threads weave in the dark."}
+{"beat":69,"event":"The same cot, the same springs. First loop complete; begin second. The constructs hum him to sleep."}
