@@ -5,10 +5,10 @@ export const overwhereIvNala = {
   type: "page-type/metric-character-mana",
   slug: "overwhere-iv-nala",
   character: "character-player/overwhere-iv-nala",
-  value: 30,
+  value: 74,
   minValue: 0,
   maxValue: 74,
   history: "jsonl",
   displayOrder: 2,
-  revealedAs: "The warmth behind your ribs: about two-fifths full.",
+  revealedAs: "The warmth behind your ribs: full again after the nap.",
 } as const satisfies MetricCharacterMana
