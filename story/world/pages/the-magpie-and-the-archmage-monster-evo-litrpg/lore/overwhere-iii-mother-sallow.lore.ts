@@ -126,7 +126,7 @@ export const overwhereIiiMotherSallow = {
     },
     {
       fact: "Her rot mist hangs over the clearing; inside it Nala's acts take two, as from pain.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
     {
       fact: "Her crushing working is a crushing blow; she spends it once, when first brought under half health.",
