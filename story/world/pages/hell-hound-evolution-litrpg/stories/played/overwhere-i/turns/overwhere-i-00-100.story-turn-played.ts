@@ -14,7 +14,7 @@ export const overwhereI00100 = {
     "character-other/overwhere-i-harl-voss",
     "character-other/overwhere-i-ghost-eye",
   ],
-  stepStatus: "step-status/game-master",
+  stepStatus: "step-status/writer",
   action: "“I’m Nala, Nala Arthur”",
   beats: [
     '"I\'m Nala. Nala Arthur," she says.',
@@ -25,7 +25,7 @@ export const overwhereI00100 = {
     '"Good in two days. The tax rider brings the magistrate\'s purse on the ninth; bring this back then."',
     'She lifts both heads. "These hang in the hall. Ears and tags go in the Board\'s chest."',
     "By the hearth the two hunters sit with their dice forgotten in their fists, watching the gold.",
-    "Grete leans on the counter. \"There's a hunters' roll. Costs nothing. Rolled hunters get first call.\"",
+    "Grete leans on the counter. \"There's a hunters' roll, free to join. Rolled hunters get first call.\"",
     '"First call on Board contracts. You\'d answer to the Board for your kills,"',
     '"and bring word of any monster you see. Want your name on it, Nala Arthur?"',
   ],
