@@ -24,6 +24,10 @@ export const overwhereIiiMotherSallow = {
       fact: "By day her two corrupted wolves lie in a brush lean-to behind her hut, out of sight.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Mother Sallow is Isolde Varne, a Blight Mage of Level 42 of the Order of the Night King.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
