@@ -1,0 +1,85 @@
+{"beat":1,"event":"Floor 20's crystal spires give off a low, continuous ringing tone.","place":"place/tower-and-the-star-floor-20-salt-flat","present":["character-other/tower-and-the-star-solenne","character-other/tower-and-the-star-dayo","character-other/tower-and-the-star-miriam","character-other/tower-and-the-star-vesper","character-other/tower-and-the-star-tomas","character-other/tower-and-the-star-nadia"]}
+{"beat":2,"event":"Solenne feels the tone in the Conductor; the crystal amplifies some Aspect signals."}
+{"beat":3,"event":"The party advances in formation three, Dayo on point and Solenne at the back."}
+{"beat":4,"event":"The flat alternates packed and loose salt between crystal formations of many heights."}
+{"beat":5,"event":"Tomás edges forward on the right flank."}
+{"beat":6,"event":"Solenne realizes mirrored crystal faces make false-depth corridors."}
+{"beat":7,"event":"She keeps this and the Stalker density to herself."}
+{"beat":8,"event":"A Saltback Predator bursts out of the packed flat twenty feet ahead."}
+{"beat":9,"event":"Dayo takes the impact on full armor and holds."}
+{"beat":10,"event":"Nadia hunts for the seam between the Saltback's crystal plates."}
+{"beat":11,"event":"Vesper raises a minimal two-faced barrier to close its retreat."}
+{"beat":12,"event":"Miriam holds her MP."}
+{"beat":13,"event":"Tomás angles to cut off the real exit behind the false-depth corridor."}
+{"beat":14,"event":"Nadia lands Pattern Break in the seam on the right neck plate."}
+{"beat":15,"event":"Dayo moves into the falter and the Saltback dies in twenty-two seconds."}
+{"beat":16,"event":"Vesper crouches and extracts two crystal plates from the body."}
+{"beat":17,"event":"Nadia says it looks different when it's not trying to kill you; Vesper agrees."}
+{"beat":18,"event":"The party moves through two corridors on the packed flat."}
+{"beat":19,"event":"Tomás stops the party with a raised fist."}
+{"beat":20,"event":"Solenne reads a short shadow: the corridor is a reflection, twelve feet, not twenty."}
+{"beat":21,"event":"Tomás shifts his weight back; Dayo steps between him and the passage end."}
+{"beat":22,"event":"A second Saltback bursts from eight feet and hits Dayo hard."}
+{"beat":23,"event":"Vesper raises flank geometry while Nadia hunts the seam at a new angle."}
+{"beat":24,"event":"Miriam lays a hand on Dayo's shoulder for a targeted micro-repair."}
+{"beat":25,"event":"Nadia finds the seam and the Saltback dies at twenty-eight seconds."}
+{"beat":26,"event":"Vesper extracts two more plates."}
+{"beat":27,"event":"Tomás says the corridors will keep doing that; Dayo says she knows."}
+{"beat":28,"event":"Dayo checks the next corridor's shadow geometry herself."}
+{"beat":29,"event":"Solenne spots six Resonant Stalkers spread across the open flat at 60 meters."}
+{"beat":30,"event":"The Stalkers pace arcs at 60 meters without closing."}
+{"beat":31,"event":"The Conductor picks up a faint, attentive frequency from them."}
+{"beat":32,"event":"Solenne says they're holding at 60, six, not closing; Tomás says, \"Yet.\""}
+{"beat":33,"event":"The party sights the rest node: a hollow of three crystal spires fused at the top."}
+{"beat":34,"event":"The party files one by one through the narrow entrance into the hollow.","at":"2000-01-10T13:00:00.000Z","place":"place/tower-and-the-star-floor-20-rest-node"}
+{"beat":35,"event":"Inside are vaulted crystal walls, supply refresh, recovery access and a fire-bowl."}
+{"beat":36,"event":"Dayo looks at the fire-bowl with brief, unguarded pleasure."}
+{"beat":37,"event":"Solenne says they're stopping for a meal; nobody argues."}
+{"beat":38,"event":"By the smokeless fire, Miriam watches the flame and Tomás eats with his screen dark."}
+{"beat":39,"event":"Nadia checks the strap, sets the case aside and listens to the floor's tone."}
+{"beat":40,"event":"Vesper turns a Saltback plate in the firelight; Dayo lies on her back, armor off."}
+{"beat":41,"event":"Solenne says she needs to tell them something."}
+{"beat":42,"event":"She says she woke three days ago in the Transition Hall to a new notification."}
+{"beat":43,"event":"She shares the Six of Six notification with the whole party."}
+{"beat":44,"event":"Dayo asks, \"When?\""}
+{"beat":45,"event":"Solenne says they're 41 events short and her own pair hasn't happened yet."}
+{"beat":46,"event":"Tomás names the Repository Node on Floor 17."}
+{"beat":47,"event":"Miriam studies it clinically and calls it slightly ridiculous."}
+{"beat":48,"event":"Nadia asks what it sounds like."}
+{"beat":49,"event":"Solenne guesses all of them at once; Nadia agrees and goes back to eating."}
+{"beat":50,"event":"Vesper says she was making the strap insert when the notification went out."}
+{"beat":51,"event":"Vesper says she didn't know the strap was connected to anything."}
+{"beat":52,"event":"Miriam says, \"I know.\""}
+{"beat":53,"event":"Vesper turns the Saltback plate once and sets it down within reach."}
+{"beat":54,"event":"Solenne tells them about the Apex contact faction approach in two to three weeks."}
+{"beat":55,"event":"She gives Tomás Vasic's paper with the Repository Node coordinates."}
+{"beat":56,"event":"Solenne says she wanted to tell them on the right floor; Dayo says this was it."}
+{"beat":57,"event":"Nadia watches the fire, quiet and open."}
+{"beat":58,"event":"The System logs a group-disclosure resonance event: +18.","changes":[{"page":"world-metric/tower-and-the-star-resonance-events","key":"value","from":109,"to":127,"note":"Party Resonance Events reach 127 of 150"}]}
+{"beat":59,"event":"Nadia notes they're twenty-three away and says to go deal with what's pacing outside."}
+{"beat":60,"event":"Leaving the hollow, Tomás notes the Stalkers have closed to 55 meters.","at":"2000-01-10T14:00:00.000Z","place":"place/tower-and-the-star-floor-20-salt-flat"}
+{"beat":61,"event":"Dayo shifts two steps left in formation three without being told."}
+{"beat":62,"event":"Tomás calls formation three and says they aren't at 60; Dayo says she knows."}
+{"beat":63,"event":"The Stalkers pace along with the party at 55 meters."}
+{"beat":64,"event":"After 200 meters of flat the Stalkers close to 50; Tomás notes it."}
+{"beat":65,"event":"A third Saltback comes from a flagged false-depth corridor and dies in eighteen seconds."}
+{"beat":66,"event":"While Vesper extracts plates, the Stalkers close to 45 meters."}
+{"beat":67,"event":"Nadia says they closed during combat; Tomás says they used the engagement window."}
+{"beat":68,"event":"Dayo says, \"Then we fight them.\""}
+{"beat":69,"event":"Solenne orders a tight formation, everyone inside 8 meters of center.","at":"2000-01-10T14:45:00.000Z"}
+{"beat":70,"event":"Solenne calls Miriam; Miriam looks at Vesper, who says, \"I know.\""}
+{"beat":71,"event":"The party compresses: Dayo in front, Vesper and Miriam center, Solenne behind."}
+{"beat":72,"event":"Miriam and Vesper activate the Sanctuary Weave for the first time."}
+{"beat":73,"event":"The six Stalkers close from 45 meters to contact."}
+{"beat":74,"event":"Three Stalkers go for Dayo; the other three take the flanks."}
+{"beat":75,"event":"Dayo loses forty HP in the first minute, holding in place."}
+{"beat":76,"event":"Miriam heals at full output; the Weave's amplification keeps the rates barely even."}
+{"beat":77,"event":"At two minutes, Tomás shifts and Nadia lands Pattern Break from a new angle."}
+{"beat":78,"event":"The last Stalker falls at four minutes and eleven seconds."}
+{"beat":79,"event":"The party is drained: Nadia 71 MP, Miriam 89, Dayo 214 HP."}
+{"beat":80,"event":"Nadia reaches Level 11; Dayo is 94% of the way to Level 14."}
+{"beat":81,"event":"Nadia says, \"Huh\"; Vesper says, \"Level 11\"; Nadia repeats it."}
+{"beat":82,"event":"Dayo reads her display with a slight warmth and says nothing."}
+{"beat":83,"event":"Miriam runs her three-line assessment and adds a margin note."}
+{"beat":84,"event":"Solenne holds an unnamed hypothesis about her own pending pair."}
+{"beat":85,"event":"Solenne picks up her pack: rest node first, then they keep going."}
