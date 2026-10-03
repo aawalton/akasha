@@ -177,7 +177,7 @@ export const overwhereIHobbsMillWeir = {
     },
     {
       fact: "Jory knows nothing of what the wyrm senses, nor of its lair; he guesses it lives in the pool.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
   ],
 } as const satisfies Place
