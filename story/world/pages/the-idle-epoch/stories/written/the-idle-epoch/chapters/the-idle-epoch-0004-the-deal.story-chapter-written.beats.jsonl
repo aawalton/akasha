@@ -1,0 +1,68 @@
+{"beat":1,"event":"Someone knocks on the warehouse door, and Callum does not receive visitors.","at":"2025-12-16T19:00:00.000Z","place":"place/the-idle-epoch-warehouse","present":["character-player/the-idle-epoch-callum"]}
+{"beat":2,"event":"He sets down his soldering wand; all three threads run steady, and Danger Sense shows no threat."}
+{"beat":3,"event":"Three sharp raps again, from someone used to doors opening the first time."}
+{"beat":4,"event":"He crosses past the Refinery, the cot, and the Enhancement Construct at 75%, and opens the door."}
+{"beat":5,"event":"Mira Vasquez stands in the gray afternoon light with her arms crossed.","arrive":["character-other/the-idle-epoch-mira"]}
+{"beat":6,"event":"Five-seven and lean, in worn leather armor, her saber's cord grip worn smooth with use."}
+{"beat":7,"event":"\"You're hard to find.\" \"I'm not hiding.\" Not in the doorway, she says; he steps aside."}
+{"beat":8,"event":"She circles the Refinery without touching it and stops at the Grinder's relay."}
+{"beat":9,"event":"She asked around the Exchange: everyone knows him as the quiet one who never haggles right."}
+{"beat":10,"event":"He paid forty-five Gold a fragment last week, she says; the market rate was forty-two."}
+{"beat":11,"event":"At the workbench she asks what the Enhancement Construct does."}
+{"beat":12,"event":"It feeds the Refinery's output back into the others as upgrades, he says, so the chain compounds."}
+{"beat":13,"event":"\"It makes them feed each other,\" Mira says. \"That's not how anyone thinks about this.\""}
+{"beat":14,"event":"She asks about Pip. \"Compiled Familiar. His name is Pip.\" It doesn't talk."}
+{"beat":15,"event":"Pacing, she lays out her problem: Level 23 Sword Saint, half a level a week on eight hours a day."}
+{"beat":16,"event":"He supplies the numbers: 4,363 XP to Level 25, about 620 XP a day at her kill rate."}
+{"beat":17,"event":"He worked it out from one fight. \"I calculate everything. It's what I do.\""}
+{"beat":18,"event":"Active play doesn't scale, she says; Summoners and Aura Knights idle past her while they sleep."}
+{"beat":19,"event":"Near him two days ago her interface felt a tailwind: faster attacks, shorter cooldowns."}
+{"beat":20,"event":"The aura is bleeding into nearby players, he admits, and he doesn't fully understand why."}
+{"beat":21,"event":"She wants sustained access to the effect, a baseline to build a training rhythm around."}
+{"beat":22,"event":"In return she'll protect his operation: sweeps twice a day, the warehouse as her base."}
+{"beat":23,"event":"And when he can, he'll help with her Condense, a reset her class can't survive alone."}
+{"beat":24,"event":"He can't solve it yet; she isn't asking for a solution today, only the commitment."}
+{"beat":25,"event":"The calculation says yes; beneath it, she is a person who chose to trust him first."}
+{"beat":26,"event":"\"Deal.\" Her handshake is callused and sure."}
+{"beat":27,"event":"She'll run the first sweep this evening and needs somewhere to sleep; he has one cot."}
+{"beat":28,"event":"\"I'll get another one.\" She'll be back in two hours with her gear."}
+{"beat":29,"event":"At the door: his constructs fight like drunk toddlers, but the operation is something else.","leave":["character-other/the-idle-epoch-mira"]}
+{"beat":30,"event":"\"That just happened,\" he tells Pip."}
+{"beat":31,"event":"Late in the afternoon he carries forty-seven Flux Capacitor components into the Exchange.","at":"2025-12-16T20:00:00.000Z","place":"place/the-idle-epoch-exchange"}
+{"beat":32,"event":"His usual buyer is Harlow, a construct-smith who supplies mid-tier workshops.","arrive":["character-other/the-idle-epoch-harlow"]}
+{"beat":33,"event":"Harlow counts forty-seven, cleaner than the Guild processors' work. \"You heard about the tax?\""}
+{"beat":34,"event":"The Vanguard pushed it through the Compact council this morning: unaffiliated owe fifteen percent."}
+{"beat":35,"event":"It was five percent; enforcers are already posting rate cards at the gate stations."}
+{"beat":36,"event":"He works it out: the Enhancement Construct slips from five days away to twelve."}
+{"beat":37,"event":"He asks 705 for the batch; Harlow, apologetic, must withhold the tax at the point of sale."}
+{"beat":38,"event":"Net 600 Gold, 105 lost to a political decision. His balance reads 1,847.","changes":[{"page":"metric-character-currency/the-idle-epoch-callum","key":"value","from":1240,"to":1847,"note":"Sale nets 600 Gold; 1,847 stated, so 7 Gold of income came in unstated since chapter 1"}]}
+{"beat":39,"event":"Turning away, he nearly walks into two Vanguard enforcers posting the new rate card.","leave":["character-other/the-idle-epoch-harlow"]}
+{"beat":40,"event":"Unaffiliated traders protest; an enforcer answers with polite finality and a sword behind it."}
+{"beat":41,"event":"A potion seller shutters early; a gatherer he knows from the north ruins recounts his coins."}
+{"beat":42,"event":"He files it: Drake Morrison is costing him compound interest, and doesn't know he exists."}
+{"beat":43,"event":"He walks home through streets that feel slightly narrower than they did that morning."}
+{"beat":44,"event":"Two hours after she left, Mira returns with a canvas duffel and her saber.","at":"2025-12-16T21:30:00.000Z","place":"place/the-idle-epoch-warehouse","arrive":["character-other/the-idle-epoch-mira"]}
+{"beat":45,"event":"Bedroll, spare clothes, whetstone, ration bars, rope, and a water-damaged fencing manual."}
+{"beat":46,"event":"She asks where the second cot is. \"Floor's fine.\" She wants the deployment zones."}
+{"beat":47,"event":"He maps Loop Sight in his notebook: Sentinel on the Overgrowth edge, Collector north, Grinder east."}
+{"beat":48,"event":"Blind spots: a forty-minute gap to the southwest, and a weak thirty-meter relay stretch."}
+{"beat":49,"event":"She'll sweep those morning and evening; anything she can't handle, she falls back here."}
+{"beat":50,"event":"\"You rehearsed that.\" His plans had a blank slot for a combat person. \"You're a weird guy.\""}
+{"beat":51,"event":"With her covering the gaps, the Sentinel can retreat at 20% instead of 30%: about 8% more kills."}
+{"beat":52,"event":"He catches himself valuing her as output. She is a person. Both things can be true."}
+{"beat":53,"event":"Evening: on her bedroll Mira sharpens the Fracture-Tooth Saber, shk, shk, shk.","at":"2025-12-17T00:00:00.000Z"}
+{"beat":54,"event":"He has stared at his notebook for twenty minutes; she says he hasn't blinked convincingly."}
+{"beat":55,"event":"She tosses him a ration bar; it bounces off his palm and he snatches it off the cot."}
+{"beat":56,"event":"They eat in silence. Does he talk to Pip? \"It doesn't talk back.\" \"That tracks.\""}
+{"beat":57,"event":"The silence turns shaped: two people who have agreed to share a space."}
+{"beat":58,"event":"She asks how bad the tax is: twelve days to the construct, and about forty Gold a week lost."}
+{"beat":59,"event":"Barrier costs haven't changed in two months, he says; this is revenue extraction."}
+{"beat":60,"event":"Drake offered her a Vanguard spot three months ago, and she turned him down: she takes no orders."}
+{"beat":61,"event":"Can he sell more? He's at full Refinery throughput; the bottleneck is materials."}
+{"beat":62,"event":"She offers to clear a Tier 2 salvage corridor south of the Foundry District for his Collector."}
+{"beat":63,"event":"Better scrap lifts components from 15 Gold to about 19; twelve days becomes eight."}
+{"beat":64,"event":"\"Still not five.\" \"No. But eight is better than twelve.\" She'll clear it on tomorrow's sweep."}
+{"beat":65,"event":"She settles against the wall; a new thread has entered the loop, in a colour he can't name."}
+{"beat":66,"event":"Enhancement Construct: eight days. Sweeps: twice daily. Aura: unmeasured. Partnership: initiated."}
+{"beat":67,"event":"He listens to her breathing slow into sleep beside the constructs' endless loops."}
+{"beat":68,"event":"The curve is still bending, and he is no longer the only one watching it."}
