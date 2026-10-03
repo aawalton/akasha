@@ -169,6 +169,26 @@ export const overwhereIiCallowBeck = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
+      fact: "Ebba's cut peat is stacked dry by the longhouse wall, and the gully's floor is loose with stones.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Working in bursts, Hawise banks peat and stones waist-high across the gully mouth by dusk.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Holding the slick back while Hawise builds is plain work for Nala, steady as towing.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The bank holds; with the pool's trickle behind it, the slick will top it in about three weeks.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Ebba and the boys walk down toward the Ford at once, and are off the mountain before dusk.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
       fact: "Six Warped sheep roam the black slick, grey-scaled and coral-horned, heads low.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
