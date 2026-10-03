@@ -10,7 +10,7 @@ export const overwhereIii00080 = {
   position: 80,
   prose: "txt",
   characters: ["character-player/overwhere-iii-nala", "character-other/overwhere-iii-marda-hesk"],
-  stepStatus: "step-status/game-master",
+  stepStatus: "step-status/writer",
   action:
     "“Yeah, definitely the small one first, that’s the deer?” I follow the directions and hit it with my cleansing current lash braid as soon as I can reach it.",
   beats: [
@@ -24,7 +24,7 @@ export const overwhereIii00080 = {
     "The blight still seeps in it. She feels it before she reaches the bank.",
     "As soon as it's in reach, she braids a pull strand into a Current Lash and strikes.",
     "The lash only cuts dead flesh. But the pull strand bites deep and draws the blight up out of it.",
-    "It comes in one long draw, like a bite's. The current carries the cold away from her arm.",
+    "The braid pulls twice at once, two draws like a bite's. The current carries the cold off her arm.",
     "The blight clots on the bank into a dark seed stone. Around it, the gray frost turns white again.",
     "She picks up the seed stone.",
     "Then she sees the prints. Wolf prints circle the deer, bigger than any Wrenwood wolf's.",
