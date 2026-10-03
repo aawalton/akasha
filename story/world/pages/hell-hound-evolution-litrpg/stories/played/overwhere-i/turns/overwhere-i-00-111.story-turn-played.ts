@@ -29,5 +29,6 @@ export const overwhereI00111 = {
     "lore/overwhere-i-starfall-legacy-2",
     "place/overwhere-i-hobbs-mill-weir",
   ],
+  reviewedBy: ["story-reviewer/continuity"],
   endsAt: "2026-10-06T11:37:00.000Z",
 } as const satisfies StoryTurnPlayed
