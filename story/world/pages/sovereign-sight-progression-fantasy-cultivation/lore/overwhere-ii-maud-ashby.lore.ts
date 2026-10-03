@@ -109,7 +109,7 @@ export const overwhereIiMaudAshby = {
     },
     {
       fact: "Maud lets Nala's dodge lie for tonight, with a look that says she will ask again.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "For the ring Maud would have Hob Tarrant forge cold iron stakes, each a forearm long.",
