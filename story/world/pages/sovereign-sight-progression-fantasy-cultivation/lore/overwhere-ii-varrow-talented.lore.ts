@@ -85,7 +85,7 @@ export const overwhereIiVarrowTalented = {
     },
     {
       fact: "Hawise's Quickstep lasts three or four breaths, then she needs a dozen heartbeats before the next.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Before each Quickstep, Hawise drops her weight onto the balls of her feet, a tell few catch.",
