@@ -207,5 +207,13 @@ export const overwhereINala2 = {
         "lore/overwhere-i-grete-holm",
       ],
     },
+    {
+      fact: "Nala took the Weir Wyrm contract to hunt tomorrow; Grete chalked Nala Arthur under its slip.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-i-nala",
+        "lore/overwhere-i-grete-holm",
+      ],
+    },
   ],
 } as const satisfies Lore
