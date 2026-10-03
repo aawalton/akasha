@@ -14,7 +14,7 @@ export const overwhereIii00084 = {
     "character-other/overwhere-iii-edda-crane",
     "character-other/overwhere-iii-mother-sallow",
   ],
-  stepStatus: "step-status/game-master",
+  stepStatus: "step-status/writer",
   action:
     "“Corrupt wolves, I fought them off, but they hurt me bad, can you get me to the shrine? That’s my best chance to heal myself.”",
   beats: [
@@ -31,9 +31,11 @@ export const overwhereIii00084 = {
     "Edda tips her out against it. The warmth soaks into her back and eases the worst of the ache.",
     "Nala feeds a Mending Weave from the white-gold. It burns her palms, but her strength steadies.",
     "A second one. Then she turns the current on her own bites.",
-    "Four pulls, one for each bite. Each one aches cold up her arm, and each drags out the blight.",
-    "Four dark seed stones clot on the grass beside her. She's shaking by the last one.",
+    "Four pulls, one for each bite. The current carries each one's cold away as it drags the blight out.",
+    "Four dark seed stones clot on the grass beside her.",
     "Then four Mendings to close the bites. Two drag, but all four hold. The skin knits pink and whole.",
+    "[Current Feed has advanced: Novice → Adept]",
+    "[Mending Weave has advanced: Novice → Adept]",
     "She sags against the stone. Her palms are raw again, but the cold is gone from her blood.",
     "Edda has watched all of it from her barrow, arms folded.",
     '"Sallow\'s door stood open, and her hearthstone up," she says. "Where\'s she gone?"',
