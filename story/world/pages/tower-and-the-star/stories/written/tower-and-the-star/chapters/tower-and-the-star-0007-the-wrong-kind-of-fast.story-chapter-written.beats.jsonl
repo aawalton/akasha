@@ -1,0 +1,60 @@
+{"beat":1,"event":"Three hours into Floor 9, the party walks the Deep Root Labyrinth in formation.","at":"2000-01-03T14:00:00.000Z","place":"place/tower-and-the-star-floor-9-deep-root-labyrinth","present":["character-other/tower-and-the-star-solenne","character-other/tower-and-the-star-dayo","character-other/tower-and-the-star-miriam","character-other/tower-and-the-star-vesper","character-other/tower-and-the-star-tomas","character-other/tower-and-the-star-nadia"],"changes":[{"page":"world-metric/tower-and-the-star-highest-floor-reached","key":"value","from":8,"to":9,"note":"The party reaches Floor 9"}]}
+{"beat":2,"event":"Vesper tells Miriam the giant roots bear the ceiling's load."}
+{"beat":3,"event":"Nadia begs her not to cut three; the observation had knife energy. Dayo laughs."}
+{"beat":4,"event":"Solenne notes the moment feels right, and wary of it."}
+{"beat":5,"event":"Tomás reports heat signatures: twenty small contacts around one large one."}
+{"beat":6,"event":"Solenne reads it as an Elite: a Stoneback variant colony around a queen."}
+{"beat":7,"event":"Tomás adds that the root network above the chamber is climbable."}
+{"beat":8,"event":"Dayo says she can take the overhead and pin them between two fronts."}
+{"beat":9,"event":"Solenne says wait, they need to plan the timing; Dayo is already climbing.","leave":["character-other/tower-and-the-star-dayo"]}
+{"beat":10,"event":"Solenne orders the ground approach, now."}
+{"beat":11,"event":"Dayo tops the root climb at thirty meters above the colony chamber.","place":"place/tower-and-the-star-floor-9-crystalback-queen-chamber","present":["character-other/tower-and-the-star-dayo"]}
+{"beat":12,"event":"She sees two dozen crystalline drones in rings around the Crystalback Queen."}
+{"beat":13,"event":"The Queen's eye cluster finds her; Dayo has six seconds."}
+{"beat":14,"event":"Dayo uses Anchor deliberately and feels where all five are: too far away."}
+{"beat":15,"event":"The first drone reaches her; Shield Rush knocks it off the roots."}
+{"beat":16,"event":"Dayo plants Iron Stance on a junction of three roots."}
+{"beat":17,"event":"She blocks one drone and cracks another's carapace with her gauntlet."}
+{"beat":18,"event":"Miriam's Mending Touch reaches her from thirty-five meters, weakened but there."}
+{"beat":19,"event":"Drones close from three sides; a bite drops Dayo to 382 HP."}
+{"beat":20,"event":"A flanking drone bites her leg: 341 HP; another distant heal brings 363."}
+{"beat":21,"event":"More drones climb; Dayo counts Shield Rush cooldowns and MP as she fights."}
+{"beat":22,"event":"Vesper's armored wrap holds against a drone's mandible on her left forearm."}
+{"beat":23,"event":"Dayo's HP falls to forty-seven: Defiant Last Stand activates, its one charge."}
+{"beat":24,"event":"Halved hits; Dayo manages the drone angles like a defensive line."}
+{"beat":25,"event":"Below, Solenne channels Ley Conduit and blasts the ground corridor clear blind."}
+{"beat":26,"event":"Dayo has knocked seven drones off; the rest must cross dead zones."}
+{"beat":27,"event":"Arcane force shatters a root-wall barrier and the party closes in."}
+{"beat":28,"event":"Tomás runs into the chamber firing, pinning drones on the floor.","arrive":["character-other/tower-and-the-star-tomas"]}
+{"beat":29,"event":"Nadia follows, reading the drones' pincer on Dayo's junction.","arrive":["character-other/tower-and-the-star-nadia"]}
+{"beat":30,"event":"Nadia's Pattern Break scrambles the swarm; three drones collide."}
+{"beat":31,"event":"Solenne enters and reads Dayo at 56 of 467 HP.","arrive":["character-other/tower-and-the-star-solenne","character-other/tower-and-the-star-miriam","character-other/tower-and-the-star-vesper"]}
+{"beat":32,"event":"Vesper throws a Reinforcement thirty meters up onto Dayo's shoulder plate."}
+{"beat":33,"event":"Last Stand expires as the Queen herself charges up the roots."}
+{"beat":34,"event":"Tomás puts three Precision Shots into the Queen's eye cluster; one finds flesh."}
+{"beat":35,"event":"Solenne's Ley Conduit Arcane Bolt cracks the Queen's underside."}
+{"beat":36,"event":"Miriam's Thorned Ground holds her legs; Nadia's knife lands Stumble."}
+{"beat":37,"event":"Dayo fires her sixth and last Shield Rush into the Queen's broken eye cluster."}
+{"beat":38,"event":"The Queen falls; the four remaining drones scatter into the roots."}
+{"beat":39,"event":"Dayo stands on the junction at thirty-seven HP, eight percent."}
+{"beat":40,"event":"Elite defeated: Crystalback Queen; 350 XP, three Crystalback Plates, a Toxin Filter Bracelet."}
+{"beat":41,"event":"Dayo climbs down slowly and stands before the party. Nobody speaks."}
+{"beat":42,"event":"Her Last Stand charge, needed for the Floor 10 Ironjaw Sentinel, is spent."}
+{"beat":43,"event":"Miriam says Dayo knew she couldn't reliably reach her from that range."}
+{"beat":44,"event":"Dayo says she knew Miriam would try."}
+{"beat":45,"event":"Miriam says that is not the same as knowing she could."}
+{"beat":46,"event":"Miriam says Dayo treats her healing as a net beneath whatever fall she chooses."}
+{"beat":47,"event":"Mostly fine, she says, is not the word for a forty-five-second solo hold."}
+{"beat":48,"event":"Tomás sets his bow on the ground; Nadia stays still; Vesper counts resources."}
+{"beat":49,"event":"Solenne does not say I told you to wait."}
+{"beat":50,"event":"Dayo does not argue or explain. She sits down beside the Queen's body."}
+{"beat":51,"event":"The System records Anchor's intentional use at full party range."}
+{"beat":52,"event":"Miriam kneels and heals Dayo up close, from 37 to 179 HP."}
+{"beat":53,"event":"Nature's Veil follows; Miriam checks the forearm under the wrap."}
+{"beat":54,"event":"Dayo sits still for the healing; ten minutes bring her to 327 HP."}
+{"beat":55,"event":"Vesper sets the Toxin Filter Bracelet near Dayo without speaking."}
+{"beat":56,"event":"Nadia cleans a knife across from them and makes no joke."}
+{"beat":57,"event":"Tomás reslings his bow and scans the corridor ahead with Eagle Eye."}
+{"beat":58,"event":"Solenne holds her pen over her notebook and does not write."}
+{"beat":59,"event":"Dayo scratches a shallow new tally on her bracer: Floor 9."}
+{"beat":60,"event":"Dayo stays seated, and the party waits with her."}
