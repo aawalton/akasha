@@ -267,5 +267,9 @@ export const overwhereIHobbsMillWeir = {
       fact: "If her spikes miss, the wyrm reaches the pool 2 seconds later and sinks to its lair, still alive.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Badly hurt and dazed, the wyrm only tries to reach the water; it makes no strike at Nala.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Place
