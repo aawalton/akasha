@@ -60,7 +60,7 @@ export const overwhereIiWhitecombs2 = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
-      fact: "Wading the Callow pool, Nala's skin would soak up the black unharmed, but her stair dream would roar",
+      fact: "In the Callow pool Nala's skin would soak up the black unharmed, but her stair dream would roar.",
       knowers: ["lore-disclosure/game-master"],
     },
     {
