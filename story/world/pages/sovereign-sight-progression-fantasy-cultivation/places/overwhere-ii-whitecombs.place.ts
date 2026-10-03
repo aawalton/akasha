@@ -187,6 +187,18 @@ export const overwhereIiWhitecombs = {
       fact: "Undertow reaching down toward the crag's pull finds no bottom, only more water, deeper.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Near midnight on day twenty-six the Whitecombs thunder again, felt as a shudder through the Keep.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "That night the Callow pool spills its cwm, and the black water runs a mile down toward Callow Beck.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Below the spilled pool, Ebba's sheep are found Warped by morning, grey-scaled and savage.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place
