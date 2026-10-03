@@ -42,7 +42,7 @@ export const overwhereIWendlow2 = {
     },
     {
       fact: "Grete names the Bell and Barrel by the square: clean, a silver for bed and supper, a bathhouse.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
     {
       fact: "Grete says nothing of Ivo Tessaly by name; of the guild she says only that it pays least.",
