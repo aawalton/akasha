@@ -91,4 +91,5 @@ export const hollowmere0021KickSiobhan = {
     "character-other/hollowmere-amara",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
+  recordedBy: ["story-recorder/inventory"],
 } as const satisfies StoryChapterWritten
