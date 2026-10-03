@@ -4,6 +4,7 @@ import { HudPanel } from "akasha/story/ui/modules/hud-panel/hud-panel.module.cod
 import { PlayerCharacterPanel } from "akasha/story/ui/modules/player-character-panel/player-character-panel.module.code.tsx"
 import { QuestsPanel } from "akasha/story/ui/modules/quests-panel/quests-panel.module.code.tsx"
 import { SceneCoverPanel } from "akasha/story/ui/modules/scene-cover-panel/scene-cover-panel.module.code.tsx"
+import { statsShownIn } from "akasha/story/ui/modules/sheet-panel/sheet-panel.module.code.tsx"
 
 import { StorySoFar } from "akasha/story/ui/modules/story-so-far/story-so-far.module.code.tsx"
 import { TimePanel } from "akasha/story/ui/modules/time-panel/time-panel.module.code.tsx"
@@ -36,6 +37,7 @@ const OFFERED: Readonly<Record<string, Readonly<Record<string, unknown>>>> = {
   "akasha/story/ui/modules/scene-cover-panel/scene-cover-panel.module.code.tsx": {
     SceneCoverPanel,
   },
+  "akasha/story/ui/modules/sheet-panel/sheet-panel.module.code.tsx": { statsShownIn },
 
   "akasha/story/ui/modules/story-so-far/story-so-far.module.code.tsx": { StorySoFar },
   "akasha/story/ui/modules/time-panel/time-panel.module.code.tsx": { TimePanel },
