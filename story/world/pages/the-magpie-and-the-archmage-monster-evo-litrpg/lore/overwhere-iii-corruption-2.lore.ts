@@ -189,5 +189,9 @@ export const overwhereIiiCorruption2 = {
       fact: "A kiln jackalope killed with two of five pulls drawn leaves a small blightstone two-fifths pale.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "With its pack dead, the last kiln jackalope bolts for the stumps and its burrow under them.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
