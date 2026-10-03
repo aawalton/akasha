@@ -87,4 +87,5 @@ export const hollowmere0021KickSiobhan = {
     "character-other/hollowmere-priya",
     "character-other/hollowmere-amara",
   ],
+  reviewedBy: ["story-reviewer/style"],
 } as const satisfies StoryChapterWritten
