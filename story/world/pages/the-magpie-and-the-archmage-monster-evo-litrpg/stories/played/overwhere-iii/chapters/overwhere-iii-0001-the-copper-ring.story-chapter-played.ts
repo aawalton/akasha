@@ -10,6 +10,7 @@ export const overwhereIii0001TheCopperRing = {
   story: "story-played/overwhere-iii",
   ownLength: 4505,
   prose: "txt",
+  beats: "jsonl",
   turnCovers: [
     {
       position: 1,
