@@ -11,7 +11,7 @@ export const overwhereIi00105 = {
   position: 105,
   prose: "txt",
   characters: ["character-player/overwhere-ii-nala"],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action:
     "“Keep watch while I try some experiments.” I take a small amount of the black water from the runoff as my target and try to separate the blackness from the water, pushing one and pulling the other.",
   beats: [
@@ -37,7 +37,12 @@ export const overwhereIi00105 = {
     "place/overwhere-ii-whitecombs",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/memory", "story-recorder/picture"],
+  recordedBy: [
+    "story-recorder/inventory",
+    "story-recorder/memory",
+    "story-recorder/picture",
+    "story-recorder/mechanics",
+  ],
   endsAt: "2026-10-26T11:20:00.000Z",
   coverAfter: "The bead stirs. Slowly, it begins to crawl across the stone, toward the pool.",
 } as const satisfies StoryTurnPlayed
