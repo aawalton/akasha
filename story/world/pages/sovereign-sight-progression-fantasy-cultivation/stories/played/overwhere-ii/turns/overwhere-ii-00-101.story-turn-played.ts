@@ -4,10 +4,13 @@ export const overwhereIi00101 = {
   id: "01a0ff82-544d-7679-8537-50858892db22",
   type: "page-type/story-turn-played",
   slug: "overwhere-ii-00-101",
+  ownLength: 215,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-ii"],
   position: 101,
-  stepStatus: "step-status/writer",
+  prose: "txt",
+  characters: ["character-player/overwhere-ii-nala"],
+  stepStatus: "step-status/reviewers",
   action:
     "“Get down with your boys, Hawise and I will handle this, but thank you for the suggestion. Hawise, can you build a bank while I hold back the black?”",
   beats: [
@@ -28,6 +31,11 @@ export const overwhereIi00101 = {
     "Hawise: \"Gate's barred at dusk. We won't make the Keep tonight.\"",
     'Hawise: "Sleep in the longhouse, and back at first light? Or up to that pool first?"',
   ],
-  lore: ["place/overwhere-ii-callow-beck"],
+  lore: [
+    "lore/overwhere-ii-nala",
+    "lore/overwhere-ii-nala-2",
+    "lore/overwhere-ii-nala-3",
+    "place/overwhere-ii-callow-beck",
+  ],
   endsAt: "2026-10-25T18:30:00.000Z",
 } as const satisfies StoryTurnPlayed
