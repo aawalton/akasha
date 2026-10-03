@@ -41,7 +41,7 @@ export const overwhereIiWhitecombs2 = {
     },
     {
       fact: "Each swell brings fresh black up from the middle; a cleared patch clouds again within the hour.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Cupful by cupful, clearing the Callow pool would take Nala years, and the swells refill it faster.",
