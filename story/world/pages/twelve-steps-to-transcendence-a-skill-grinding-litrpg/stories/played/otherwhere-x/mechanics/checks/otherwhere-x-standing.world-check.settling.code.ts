@@ -1,3 +1,4 @@
+import { slugOf } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 import { worldRelationship } from "akasha/story/world/mechanics/relationships/world-relationship.page-type.ts"
 import { z } from "zod"
 
@@ -80,7 +81,7 @@ export function added(reading: unknown, answered: unknown): readonly Added[] {
   if (!held.success || moved.change === 0) return []
   return [
     {
-      page: `${worldRelationship.slug}/${held.data.character}`,
+      page: `${worldRelationship.slug}/${slugOf(held.data.character)}`,
       key: "relationshipPoints",
       by: moved.change,
     },

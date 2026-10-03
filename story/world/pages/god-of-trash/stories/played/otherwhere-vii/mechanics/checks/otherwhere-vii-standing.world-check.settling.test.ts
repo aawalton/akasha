@@ -1,4 +1,5 @@
 import { expect, test } from "bun:test"
+import { characterOther } from "akasha/story/world/characters/character-other/character-other.page-type.ts"
 import { worldRelationship } from "akasha/story/world/mechanics/relationships/world-relationship.page-type.ts"
 import {
   added,
@@ -7,7 +8,7 @@ import {
 import { otherwhereViiEnnis } from "akasha/story/world/pages/god-of-trash/stories/played/otherwhere-vii/mechanics/relationships/otherwhere-vii-ennis.world-relationship.ts"
 
 const WITH_ENNIS = {
-  character: "otherwhere-vii-ennis",
+  character: `${characterOther.slug}/${otherwhereViiEnnis.slug}`,
   kept: 1,
   heard: 2,
   shared: 0,
@@ -41,6 +42,12 @@ test("the change is added to the relationship page's points", () => {
       by: 3,
     },
   ])
+})
+
+test("a line from before naming the slug alone adds to the same page", () => {
+  const bare = { ...WITH_ENNIS, character: otherwhereViiEnnis.slug }
+  const page = `${worldRelationship.slug}/${otherwhereViiEnnis.slug}`
+  expect(added(bare, { earned: 3, lost: 0, change: 3 })[0]?.page).toBe(page)
 })
 
 test("a turn that moved nothing adds nothing", () => {

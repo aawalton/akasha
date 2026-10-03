@@ -1,4 +1,5 @@
 import { expect, test } from "bun:test"
+import { worldCharacter } from "akasha/story/world/characters/world-character.page-type.ts"
 import { worldRelationship } from "akasha/story/world/mechanics/relationships/world-relationship.page-type.ts"
 import { otherwhereXMarthaDeane } from "akasha/story/world/pages/twelve-steps-to-transcendence-a-skill-grinding-litrpg/characters/otherwhere-x-martha-deane.world-character.ts"
 import {
@@ -6,7 +7,7 @@ import {
   settled,
 } from "akasha/story/world/pages/twelve-steps-to-transcendence-a-skill-grinding-litrpg/stories/played/otherwhere-x/mechanics/checks/otherwhere-x-standing.world-check.settling.code.ts"
 
-const MARTHA = { character: otherwhereXMarthaDeane.slug }
+const MARTHA = { character: `${worldCharacter.slug}/${otherwhereXMarthaDeane.slug}` }
 
 const NOTHING = { word: 0, respect: 0, aid: 0, fairness: 0, honesty: 0, wrongs: 0 }
 

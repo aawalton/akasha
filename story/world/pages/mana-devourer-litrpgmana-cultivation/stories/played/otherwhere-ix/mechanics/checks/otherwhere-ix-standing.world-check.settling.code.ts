@@ -1,3 +1,4 @@
+import { slugOf } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 import { z } from "zod"
 
 const WHAT_EARNS_REGARD = ["word", "respect", "aid", "fairness"] as const
@@ -52,7 +53,7 @@ export function added(reading: unknown, answered: unknown): readonly Added[] {
   if (!held.success || regard.change === 0) return []
   return [
     {
-      page: `world-relationship/${held.data.character}`,
+      page: `world-relationship/${slugOf(held.data.character)}`,
       key: "relationshipPoints",
       by: regard.change,
     },

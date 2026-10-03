@@ -1,4 +1,6 @@
 import { expect, test } from "bun:test"
+import { characterPlayer } from "akasha/story/world/characters/character-player/character-player.page-type.ts"
+import { otherwhereXNala as her } from "akasha/story/world/pages/twelve-steps-to-transcendence-a-skill-grinding-litrpg/stories/played/otherwhere-x/characters/otherwhere-x-nala.character-player.ts"
 import {
   added,
   settled,
@@ -6,7 +8,7 @@ import {
 import { otherwhereXSuspicion } from "akasha/story/world/pages/twelve-steps-to-transcendence-a-skill-grinding-litrpg/stories/played/otherwhere-x/mechanics/metrics/attributes/suspicion/otherwhere-x-suspicion.page-type.ts"
 import { otherwhereXNala } from "akasha/story/world/pages/twelve-steps-to-transcendence-a-skill-grinding-litrpg/stories/played/otherwhere-x/mechanics/metrics/attributes/suspicion/pages/otherwhere-x-nala.otherwhere-x-suspicion.ts"
 
-const NALA = { character: "otherwhere-x-nala" }
+const NALA = { character: `${characterPlayer.slug}/${her.slug}` }
 
 test("a barefoot stranger with no token and no home is questioned", () => {
   expect(

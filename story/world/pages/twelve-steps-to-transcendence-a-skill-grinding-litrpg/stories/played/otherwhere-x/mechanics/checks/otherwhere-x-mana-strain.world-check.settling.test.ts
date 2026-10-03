@@ -1,4 +1,5 @@
 import { expect, test } from "bun:test"
+import { characterPlayer } from "akasha/story/world/characters/character-player/character-player.page-type.ts"
 import { metricCharacterMana } from "akasha/story/world/mechanics/metrics/metric-character/resource/mana/metric-character-mana.page-type.ts"
 import { otherwhereXNala } from "akasha/story/world/pages/twelve-steps-to-transcendence-a-skill-grinding-litrpg/stories/played/otherwhere-x/characters/otherwhere-x-nala.character-player.ts"
 import {
@@ -7,7 +8,7 @@ import {
   settled,
 } from "akasha/story/world/pages/twelve-steps-to-transcendence-a-skill-grinding-litrpg/stories/played/otherwhere-x/mechanics/checks/otherwhere-x-mana-strain.world-check.settling.code.ts"
 
-const NALA = { character: otherwhereXNala.slug, tier: 1 }
+const NALA = { character: `${characterPlayer.slug}/${otherwhereXNala.slug}`, tier: 1 }
 
 test("a Tier 1 all on the mana path holds four times the base", () => {
   expect(maxManaOf(1, 100)).toBe(80)

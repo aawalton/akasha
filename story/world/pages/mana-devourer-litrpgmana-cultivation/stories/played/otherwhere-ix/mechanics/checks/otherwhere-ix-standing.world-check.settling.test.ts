@@ -1,4 +1,5 @@
 import { expect, test } from "bun:test"
+import { worldCharacter } from "akasha/story/world/characters/world-character.page-type.ts"
 import { worldRelationship } from "akasha/story/world/mechanics/relationships/world-relationship.page-type.ts"
 import { otherwhereIxBessaHobb } from "akasha/story/world/pages/mana-devourer-litrpgmana-cultivation/characters/otherwhere-ix-bessa-hobb.world-character.ts"
 import {
@@ -6,7 +7,7 @@ import {
   settled,
 } from "akasha/story/world/pages/mana-devourer-litrpgmana-cultivation/stories/played/otherwhere-ix/mechanics/checks/otherwhere-ix-standing.world-check.settling.code.ts"
 
-const BESSA = otherwhereIxBessaHobb.slug
+const BESSA = `${worldCharacter.slug}/${otherwhereIxBessaHobb.slug}`
 
 test("marks add up, each giving its grounds", () => {
   expect(
@@ -76,7 +77,7 @@ test("a change adds its points to the relationship page", () => {
   }
   expect(added(reading, { earned: 2, lost: 0, change: 2 })).toEqual([
     {
-      page: `${worldRelationship.slug}/${BESSA}`,
+      page: `${worldRelationship.slug}/${otherwhereIxBessaHobb.slug}`,
       key: "relationshipPoints",
       by: 2,
     },

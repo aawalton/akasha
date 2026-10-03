@@ -1,3 +1,4 @@
+import { slugOf } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 import { metricCharacterMana } from "akasha/story/world/mechanics/metrics/metric-character/resource/mana/metric-character-mana.page-type.ts"
 import { z } from "zod"
 
@@ -70,5 +71,6 @@ export function added(reading: unknown, answered: unknown): readonly Added[] {
   if (!held.success) return []
   const change = drawn.mana - held.data.mana
   if (change === 0) return []
-  return [{ page: `${metricCharacterMana.slug}/${held.data.character}`, key: "value", by: change }]
+  const page = `${metricCharacterMana.slug}/${slugOf(held.data.character)}`
+  return [{ page, key: "value", by: change }]
 }

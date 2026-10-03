@@ -1,4 +1,5 @@
 import { expect, test } from "bun:test"
+import { characterPlayer } from "akasha/story/world/characters/character-player/character-player.page-type.ts"
 import { metricCharacterExperience } from "akasha/story/world/mechanics/metrics/metric-character/resource/experience/metric-character-experience.page-type.ts"
 import {
   added,
@@ -7,7 +8,11 @@ import {
 } from "akasha/story/world/pages/twelve-steps-to-transcendence-a-skill-grinding-litrpg/stories/played/otherwhere-x/mechanics/checks/otherwhere-x-growth.world-check.settling.code.ts"
 import { otherwhereXNala } from "akasha/story/world/pages/twelve-steps-to-transcendence-a-skill-grinding-litrpg/stories/played/otherwhere-x/mechanics/metrics/experiences/otherwhere-x-nala.metric-character-experience.ts"
 
-const NALA = { character: "otherwhere-x-nala", essence: 0, cycling: false }
+const NALA = {
+  character: `${characterPlayer.slug}/${otherwhereXNala.slug}`,
+  essence: 0,
+  cycling: false,
+}
 
 const READING = { ability: "speed reading", held: { level: 1, rarity: "common" } }
 

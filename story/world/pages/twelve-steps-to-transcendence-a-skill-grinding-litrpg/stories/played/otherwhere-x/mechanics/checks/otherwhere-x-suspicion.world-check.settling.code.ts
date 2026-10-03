@@ -1,3 +1,4 @@
+import { slugOf } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 import { otherwhereXSuspicion } from "akasha/story/world/pages/twelve-steps-to-transcendence-a-skill-grinding-litrpg/stories/played/otherwhere-x/mechanics/metrics/attributes/suspicion/otherwhere-x-suspicion.page-type.ts"
 import { z } from "zod"
 
@@ -106,7 +107,7 @@ export function added(reading: unknown, answered: unknown): readonly Added[] {
   if (!held.success || looked.change === 0) return []
   return [
     {
-      page: `${otherwhereXSuspicion.slug}/${held.data.character}`,
+      page: `${otherwhereXSuspicion.slug}/${slugOf(held.data.character)}`,
       key: "value",
       by: looked.change,
     },

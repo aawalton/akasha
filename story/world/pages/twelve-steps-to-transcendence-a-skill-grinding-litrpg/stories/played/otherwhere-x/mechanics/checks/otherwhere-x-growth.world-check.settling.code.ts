@@ -1,3 +1,4 @@
+import { slugOf } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 import { metricCharacterExperience } from "akasha/story/world/mechanics/metrics/metric-character/resource/experience/metric-character-experience.page-type.ts"
 import { z } from "zod"
 
@@ -197,7 +198,7 @@ export function added(reading: unknown, answered: unknown): readonly Added[] {
   if (!held.success || turned.essenceGained === 0) return []
   return [
     {
-      page: `${metricCharacterExperience.slug}/${held.data.character}`,
+      page: `${metricCharacterExperience.slug}/${slugOf(held.data.character)}`,
       key: "value",
       by: turned.essenceGained,
     },
