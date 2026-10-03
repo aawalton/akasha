@@ -95,4 +95,5 @@ export const hollowmere0025BeforeICanThink = {
     "character-other/hollowmere-priya",
     "character-other/hollowmere-shiv",
   ],
+  reviewedBy: ["story-reviewer/style"],
 } as const satisfies StoryChapterWritten
