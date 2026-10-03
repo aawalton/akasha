@@ -13,6 +13,10 @@ export const fairweather0001BlackStrongOneSugar = {
   prose: "txt",
   stepStatus: "step-status/reviewers",
   beats: "jsonl",
+  issues: [
+    "beat 39: Elsie uses a water flask and a brown tincture; no page or change gives her either",
+    "beat 88: the belt the rank tag hangs on comes off, but the tag stays in the waist slot",
+  ],
   lore: [
     "lore/fairweather-cora",
     "lore/fairweather-elsie",
@@ -30,6 +34,7 @@ export const fairweather0001BlackStrongOneSugar = {
     "character-other/fairweather-tamsin",
     "character-other/fairweather-tilly",
   ],
+  reviewedBy: ["story-reviewer/holdings"],
   recordedBy: [
     "story-recorder/inventory",
     "story-recorder/plan",
