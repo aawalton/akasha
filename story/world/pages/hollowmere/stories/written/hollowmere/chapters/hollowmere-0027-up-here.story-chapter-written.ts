@@ -5,7 +5,7 @@ export const hollowmere0027UpHere = {
   type: "page-type/story-chapter-written",
   slug: "hollowmere-0027-up-here",
   cover: "image/image-589e809c281cce99",
-  ownProgress: 1570,
+  ownProgress: 1732,
   position: 27,
   unit: "unit/words",
   title: "Up Here",
