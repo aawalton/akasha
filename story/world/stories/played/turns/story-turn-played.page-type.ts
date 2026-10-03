@@ -12,11 +12,13 @@ export const storyTurnPlayed = {
     "file-property/outcomes",
     "module/turn-advancing",
     "module/turn-cast",
+    "module/turn-editing",
     "module/turn-lifecycle",
     "module/turn-lore-handed",
     "module/turn-mechanics",
     "module/turn-making",
     "module/turn-notice",
+    "module/turn-prose",
     "module/turn-seats",
 
     "text-property/turn-action",

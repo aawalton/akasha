@@ -111,6 +111,8 @@ const MASTER = "coordinatorAgent"
 
 const TITLE = "title"
 
+const EDITOR_STEPS = "editorSteps"
+
 const NAME = "name"
 
 const SLUG = "slug"
@@ -133,7 +135,11 @@ export type Seated = {
   readonly game: string | null
 }
 
-export type Story = { readonly title: string; readonly master: string | null }
+export type Story = {
+  readonly title: string
+  readonly master: string | null
+  readonly editorSteps?: boolean
+}
 
 export type Starting = {
   readonly persona: string
@@ -279,7 +285,11 @@ function storyIndexed(root: string, game: string): Story | null {
   )[0]
   if (listed === undefined) return null
   const value = valueAt(listed.path, root) ?? {}
-  return { title: textAt(value, TITLE) ?? game, master: textAt(value, MASTER) }
+  return {
+    title: textAt(value, TITLE) ?? game,
+    master: textAt(value, MASTER),
+    editorSteps: value[EDITOR_STEPS] === true,
+  }
 }
 
 function heldAlready(at: string, content: string): boolean {

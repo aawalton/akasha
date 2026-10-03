@@ -146,11 +146,16 @@ export const storyTurnAdvance = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A written chapter's beats number 50 to 100.",
+      statement: "A written chapter's beats number 50 to 100, or 100 to 200 with editor steps.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A written chapter's prose runs 50 to 200 words for each of its beats.",
+      statement:
+        "A written chapter's prose runs 50 to 200 words a beat, or 100 to 400 with editor steps.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "An editor's advance is refused past half of what its step was handed.",
     },
     {
       decisionKind: "decision-kind/departure",

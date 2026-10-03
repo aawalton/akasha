@@ -22,6 +22,10 @@ export const turnAdvancing = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A step an editor follows goes to that editor, and the editor's advance goes on.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A game master's advance empties the turn's changes and memory for a fresh run.",
     },
     {

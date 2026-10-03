@@ -1,4 +1,6 @@
+import { beatEditor as beatEditorRole } from "akasha/agent/role/pages/beat-editor.role.ts"
 import { gameMaster as gameMasterRole } from "akasha/agent/role/pages/game-master.role.ts"
+import { proseEditor as proseEditorRole } from "akasha/agent/role/pages/prose-editor.role.ts"
 import { reviewer as reviewerRole } from "akasha/agent/role/pages/reviewer.role.ts"
 import { storyRecorder as storyRecorderRole } from "akasha/agent/role/pages/story-recorder.role.ts"
 import { worldBuilder as worldBuilderRole } from "akasha/agent/role/pages/world-builder.role.ts"
@@ -10,16 +12,16 @@ import type {
   BeatScene,
   Planned,
 } from "akasha/story/engine/beat-state/modules/beat-replay/beat-replay.module.code.ts"
-import { wordCount } from "akasha/story/engine/core/modules/word-count/word-count.module.code.ts"
 import { storyRecorder } from "akasha/story/recorder/story-recorder.page-type.ts"
 import { storyReviewer } from "akasha/story/reviewer/story-reviewer.page-type.ts"
-import {
-  type Admitted,
-  type Character,
-  listedRefused,
+import type {
+  Admitted,
+  Character,
 } from "akasha/story/world/stories/played/turns/modules/turn-cast/turn-cast.module.code.ts"
+import { editorAfter } from "akasha/story/world/stories/played/turns/modules/turn-editing/turn-editing.module.code.ts"
 import {
   type Advanced,
+  BEAT_EDITOR,
   type Caller,
   CHAPTER,
   GAME_MASTER,
@@ -43,6 +45,10 @@ import {
   mechanicked,
   type Recorded,
 } from "akasha/story/world/stories/played/turns/modules/turn-mechanics/turn-mechanics.module.code.ts"
+import {
+  proseTaken,
+  unaddressed,
+} from "akasha/story/world/stories/played/turns/modules/turn-prose/turn-prose.module.code.ts"
 
 const STORY_REVIEWER = storyReviewer.slug
 
@@ -54,15 +60,15 @@ const HELD_LINES = "jsonl"
 
 const PARTED = "/"
 
-const BREAK = "\n"
-
 type Kind = Handed["kind"]
 
 const ROLE_OF: Readonly<{ [step in TurnStep]: string | null }> = {
   "world-builder": worldBuilderRole.slug,
   "game-master": gameMasterRole.slug,
+  "beat-editor": beatEditorRole.slug,
   mechanics: storyRecorderRole.slug,
   writer: writerRole.slug,
+  "prose-editor": proseEditorRole.slug,
   reviewers: reviewerRole.slug,
   recorders: storyRecorderRole.slug,
   player: null,
@@ -71,8 +77,10 @@ const ROLE_OF: Readonly<{ [step in TurnStep]: string | null }> = {
 const TAKES: Readonly<{ [step in TurnStep]: Kind | null }> = {
   "world-builder": "lore",
   "game-master": "beats",
+  "beat-editor": "beats",
   mechanics: "record",
   writer: "prose",
+  "prose-editor": "prose",
   reviewers: "review",
   recorders: "record",
   player: null,
@@ -104,12 +112,6 @@ type Moving = {
   readonly issues?: readonly string[] | null
   readonly mechanicsIssues?: readonly string[] | null
   readonly landsKept?: boolean
-}
-
-function unaddressed(what: string, addresses: readonly string[]): string | null {
-  const bare = addresses.find((one) => !one.includes(PARTED))
-  if (bare === undefined) return null
-  return `a ${what} is named by its address, its type and its slug, and \`${bare}\` names no type`
 }
 
 function nounOf(held: Held): Noun {
@@ -227,14 +229,14 @@ function fromWorldBuilder(held: Held, lore: readonly string[], admitted: Admitte
   return moved(GAME_MASTER, kept.length === 0 ? {} : { lore: kept })
 }
 
-function fromGameMaster(
+function fromBeats(
   held: Held,
   beats: readonly string[],
   scenes: readonly BeatScene[],
   staff: Staff
 ): Advanced {
-  if (beats.length === 0)
-    return { refused: "a game master's advance hands in beats, and this has none" }
+  const who = held.status === BEAT_EDITOR ? "beat editor" : "game master"
+  if (beats.length === 0) return { refused: `a ${who}'s advance hands in beats, and this has none` }
   const wrong = linesRefused("beat", beats, nounOf(held))
   if (wrong !== null) return { refused: wrong }
   const values = {
@@ -244,6 +246,8 @@ function fromGameMaster(
     ...(held.written ? { ownLength: 0 } : {}),
   }
   const moving = { planned: { beats, scenes } }
+  const editor = editorAfter(held)
+  if (editor !== null) return moved(editor, values, moving)
   if (staff.mechanics.length === 0) return moved(WRITER, values, moving)
   const starts = staff.mechanics.map((recorder): Start => ({ kind: "mechanics", recorder }))
   return moved(MECHANICS, values, { ...moving, starts })
@@ -284,27 +288,19 @@ function fromReviewer(
   return toRecorders(values, leftOf(staff.recorders, held.recordedBy), stopping)
 }
 
-function fromWriter(
+function fromProse(
   held: Held,
-  prose: string,
-  characters: readonly string[],
+  handed: Extract<Handed, { kind: "prose" }>,
   staff: Staff,
   cast: readonly Character[],
   admitted: Admitted
 ): Advanced {
-  if (prose.trim() === "")
-    return { refused: "a writer's advance hands in prose, and this has none" }
-  const wrong =
-    unaddressed("character", characters) ?? listedRefused(prose, characters, cast, admitted)
-  if (wrong !== null) return { refused: wrong }
-  const kept = [...new Set(characters)]
-  const written = prose.endsWith(BREAK) ? prose : `${prose}${BREAK}`
-  const values = {
-    prose: PROSE_HELD,
-    ownLength: wordCount(prose),
-    ...(kept.length === 0 ? {} : { characters: kept }),
-  }
-  return afterProse(held, values, staff, { prose: written })
+  const taken = proseTaken(held, handed.prose, handed.characters, cast, admitted)
+  if ("refused" in taken) return taken
+  const moving = { prose: taken.prose }
+  const editor = editorAfter(held)
+  if (editor !== null) return moved(editor, taken.values, moving)
+  return afterProse(held, taken.values, staff, moving)
 }
 
 function fromMechanics(held: Held, handed: Recorded, staff: Staff): Advanced {
@@ -377,10 +373,8 @@ export function advanced(
   }
   const staff = { reviewers, recorders: leftOf(recorders, mechanics), mechanics }
   if (handed.kind === "lore") return fromWorldBuilder(held, handed.lore, admitted)
-  if (handed.kind === "beats") {
-    return fromGameMaster(held, handed.beats, handed.scenes ?? [], staff)
-  }
+  if (handed.kind === "beats") return fromBeats(held, handed.beats, handed.scenes ?? [], staff)
   if (handed.kind === "review") return fromReviewer(held, handed.reviewer, handed.issues, staff)
   if (handed.kind === "record") return fromRecorder(held, handed, staff)
-  return fromWriter(held, handed.prose, handed.characters, staff, cast, admitted)
+  return fromProse(held, handed, staff, cast, admitted)
 }
