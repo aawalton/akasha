@@ -1,1 +1,2 @@
 {"check":"world-check/overwhere-i-time-passing","reading":{"from":"2026-10-06T12:12:00.000Z","minutes":145},"answered":{"endsAt":"2026-10-06T14:37:00.000Z","day":8,"light":"day"}}
+{"check":"world-check/overwhere-i-trade","reading":{"character":"character-player/overwhere-i-nala","deals":[{"what":"Wendlow gate toll","side":"buying","base":1,"regard":4,"want":"steady","bargain":"none","offered":1}]},"answered":{"dealt":[{"what":"Wendlow gate toll","price":1,"coins":{"gold":0,"silver":0,"copper":1},"agreed":true}]}}
