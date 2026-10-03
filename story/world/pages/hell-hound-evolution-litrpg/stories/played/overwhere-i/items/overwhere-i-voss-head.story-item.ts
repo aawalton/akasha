@@ -6,7 +6,7 @@ export const overwhereIVossHead = {
   slug: "overwhere-i-voss-head",
   title: "Harl Voss's Head",
   story: "story-played/overwhere-i",
-  character: "character-player/overwhere-i-nala",
+  place: "place/overwhere-i-wendlow",
   description:
     "The head of Harl Voss, the deserter captain, packed in coarse salt inside his own sack with the eight crew ears, good to keep three weeks.",
 } as const satisfies StoryItem
