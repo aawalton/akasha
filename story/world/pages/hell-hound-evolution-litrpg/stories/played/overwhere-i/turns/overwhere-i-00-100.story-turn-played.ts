@@ -14,7 +14,7 @@ export const overwhereI00100 = {
     "character-other/overwhere-i-harl-voss",
     "character-other/overwhere-i-ghost-eye",
   ],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/game-master",
   action: "“I’m Nala, Nala Arthur”",
   beats: [
     '"I\'m Nala. Nala Arthur," she says.',
@@ -29,12 +29,13 @@ export const overwhereI00100 = {
     '"First call on Board contracts. You\'d answer to the Board for your kills,"',
     '"and bring word of any monster you see. Want your name on it, Nala Arthur?"',
   ],
+  issues: ['"Costs nothing." - Plain Negation'],
   lore: [
     "lore/overwhere-i-nala",
     "lore/overwhere-i-nala-2",
     "lore/overwhere-i-the-system-2",
     "place/overwhere-i-wendlow",
   ],
-  reviewedBy: ["story-reviewer/continuity"],
+  reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
   endsAt: "2026-10-05T12:30:00.000Z",
 } as const satisfies StoryTurnPlayed
