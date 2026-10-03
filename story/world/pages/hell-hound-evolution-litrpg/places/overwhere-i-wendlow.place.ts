@@ -248,5 +248,9 @@ export const overwhereIWendlow = {
       fact: "Grete gives one short laugh, says the march has a use for mad ones, and unlocks the strongbox.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Grete believes her; climbing from Level 4 to 10 in days is what killing far above you does.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Place
