@@ -5,7 +5,7 @@ export const hollowmere0026ItKnowsMe = {
   type: "page-type/story-chapter-written",
   slug: "hollowmere-0026-it-knows-me",
   cover: "image/image-6d23a36a37e25d74",
-  ownProgress: 2863,
+  ownProgress: 3495,
   position: 26,
   unit: "unit/words",
   title: "It Knows Me",
