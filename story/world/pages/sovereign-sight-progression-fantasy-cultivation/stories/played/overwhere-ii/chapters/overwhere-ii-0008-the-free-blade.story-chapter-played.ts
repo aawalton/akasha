@@ -10,6 +10,7 @@ export const overwhereIi0008TheFreeBlade = {
   story: "story-played/overwhere-ii",
   ownLength: 4610,
   prose: "txt",
+  beats: "jsonl",
   turnCovers: [
     {
       position: 72,
