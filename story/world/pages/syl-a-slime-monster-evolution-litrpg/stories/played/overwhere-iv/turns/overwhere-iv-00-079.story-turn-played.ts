@@ -11,7 +11,7 @@ export const overwhereIv00079 = {
   position: 79,
   prose: "txt",
   characters: ["character-player/overwhere-iv-nala"],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action: "I dodge out of the way and run again for the farm.",
   beats: [
     "Nala feels the club coming in her close sense and throws herself aside.",
@@ -33,7 +33,12 @@ export const overwhereIv00079 = {
     "place/overwhere-iv-tull-farm",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/memory", "story-recorder/picture"],
+  recordedBy: [
+    "story-recorder/inventory",
+    "story-recorder/memory",
+    "story-recorder/picture",
+    "story-recorder/mechanics",
+  ],
   endsAt: "2026-10-06T21:47:00.000Z",
   coverAfter: "In the fold, a little flame blooms in a raised hand, and turns",
 } as const satisfies StoryTurnPlayed
