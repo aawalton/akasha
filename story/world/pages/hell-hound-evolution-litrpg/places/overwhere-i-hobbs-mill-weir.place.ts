@@ -103,5 +103,9 @@ export const overwhereIHobbsMillWeir = {
       fact: "A strong spotting result also shows a long grey-green coil turning under the barge's stern.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "A sensing ripple sent through the pool finds the wyrm with no roll, but the wyrm feels it and stirs.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Place
