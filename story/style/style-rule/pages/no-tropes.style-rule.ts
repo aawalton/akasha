@@ -10,6 +10,8 @@ export const noTropes = {
     "A trope reads as feeling the first time and as a formula after, so it costs the scene its truth.",
   aids: [
     "Never write that no one has ever done this for her, or that she is the first to.",
+    "Never give a character, or the narration, an overly dramatic extreme: never, always, the most.",
+    "A superlative a real person would not say aloud in this moment is an extreme.",
     "Show the feeling through what she does or says here, in words only she would use.",
   ],
   examples: [
