@@ -37,6 +37,6 @@ export const overwhereIi00102 = {
     "place/overwhere-ii-callow-beck",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/inventory"],
+  recordedBy: ["story-recorder/inventory", "story-recorder/memory"],
   endsAt: "2026-10-26T06:30:00.000Z",
 } as const satisfies StoryTurnPlayed
