@@ -296,5 +296,9 @@ export const overwhereIWendlow2 = {
       fact: "Bell and Barrel supper is mutton pie, greens and small beer; its rooms are clean and bolt shut.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "By evening the taproom talks of a lone woman hunter who ended Voss's crew; none know her by sight.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
