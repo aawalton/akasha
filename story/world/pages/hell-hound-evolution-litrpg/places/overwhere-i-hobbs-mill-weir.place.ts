@@ -303,5 +303,9 @@ export const overwhereIHobbsMillWeir = {
       fact: "The dead wyrm stinks of river mud and scorched flesh; flies gather on it within minutes.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "In the wyrm's gut lies a brass-buckled belt with a bowman's knife on it: Dickon's, Jory says.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Place
