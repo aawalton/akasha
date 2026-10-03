@@ -241,5 +241,9 @@ export const overwhereIiiCorruption2 = {
       fact: "Pinned by a lash, the blighted boar gave up blight twice over to each pull strand of Nala's braid.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
+    {
+      fact: "A beast drawn clean of blight before it dies leaves no blightstone.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
