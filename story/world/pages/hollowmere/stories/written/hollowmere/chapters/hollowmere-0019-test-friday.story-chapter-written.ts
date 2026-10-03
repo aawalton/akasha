@@ -96,4 +96,5 @@ export const hollowmere0019TestFriday = {
     "character-other/hollowmere-yusra",
     "character-other/hollowmere-morwenna",
   ],
+  reviewedBy: ["story-reviewer/style"],
 } as const satisfies StoryChapterWritten
