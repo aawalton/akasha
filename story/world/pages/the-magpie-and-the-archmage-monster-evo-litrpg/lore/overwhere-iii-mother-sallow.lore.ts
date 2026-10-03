@@ -104,6 +104,10 @@ export const overwhereIiiMotherSallow = {
       fact: "Her ritual knife is bone-handled, its blade black; it is what she makes corrupted beasts with.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "She has 40 health; her shield, once up, wards six.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
