@@ -92,6 +92,10 @@ export const overwhereIiiMotherSallow = {
       fact: "Her two corrupted wolves are Level 16 and Level 18; one has a torn ear.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "A holy pull tears at the blight in a blight mage's own well; it hurts her far worse than force.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
