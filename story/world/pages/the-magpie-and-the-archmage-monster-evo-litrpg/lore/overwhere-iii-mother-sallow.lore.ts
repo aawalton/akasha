@@ -14,7 +14,7 @@ export const overwhereIiiMotherSallow = {
     },
     {
       fact: "She looks sixty, stooped and soot-grimed, with a kind soft voice and a gray shawl.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
     {
       fact: "She came to the Wrenwood two winters ago; townsfolk buy her charcoal and like her.",
