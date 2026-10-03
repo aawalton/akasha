@@ -10,7 +10,7 @@ export const theDatingGame = {
   externalId: "the-dating-game",
   coordinatorAgent: "mari-game-master-the-dating-game",
   playerIntent:
-    "Cass keeps to her routine: she eats when she is hungry, drinks when she is dry, and sleeps indoors at night.",
+    "He keeps to his routine: he eats when he is hungry, drinks when he is dry, and sleeps indoors at night.",
   panels: [
     "played-panel/player-character",
     "played-panel/scene-cover",
