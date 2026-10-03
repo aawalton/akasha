@@ -47,7 +47,7 @@ export type Held = {
   readonly written: readonly Row[]
 }
 
-export type Queue = { readonly queue_running?: unknown; readonly queue_pending?: unknown }
+type Queue = { readonly queue_running?: unknown; readonly queue_pending?: unknown }
 
 export function landscape(image: Value | null): boolean {
   if (image === null) return false
@@ -99,11 +99,7 @@ export function redrawingOf(
   return { ...drawing, seed: typeof own === "number" && Number.isInteger(own) ? own : seed() }
 }
 
-export function writtenRepointed(
-  written: readonly Row[],
-  from: string,
-  to: string
-): readonly Naming[] {
+function writtenRepointed(written: readonly Row[], from: string, to: string): readonly Naming[] {
   const named: Naming[] = []
   for (const one of written) {
     const slug = one.value["slug"]
@@ -188,7 +184,7 @@ function newestFirst(root: string, rows: readonly Row[]): readonly Row[] {
   return [...rows].sort((a, b) => when(b.path) - when(a.path))
 }
 
-export function heldAt(root: string): Held {
+function heldAt(root: string): Held {
   return {
     turns: newestFirst(root, valuesOfType(root, TURN)),
     played: newestFirst(root, valuesOfType(root, PLAYED)),
@@ -196,7 +192,7 @@ export function heldAt(root: string): Held {
   }
 }
 
-export async function gpuQuiet(): Promise<boolean> {
+async function gpuQuiet(): Promise<boolean> {
   try {
     const answer = await fetch(`${baseOf()}/queue`)
     if (!queueQuiet((await answer.json()) as Queue)) return false
