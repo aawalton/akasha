@@ -143,6 +143,7 @@ export const fairweather0001BlackStrongOneSugar = {
     },
   ],
   beatChanges: "jsonl",
+  beatMemory: "jsonl",
   lore: [
     "lore/fairweather-cora",
     "lore/fairweather-elsie",
@@ -160,5 +161,10 @@ export const fairweather0001BlackStrongOneSugar = {
     "character-other/fairweather-tamsin",
     "character-other/fairweather-tilly",
   ],
-  recordedBy: ["story-recorder/inventory", "story-recorder/plan", "story-recorder/mechanics"],
+  recordedBy: [
+    "story-recorder/inventory",
+    "story-recorder/plan",
+    "story-recorder/mechanics",
+    "story-recorder/memory",
+  ],
 } as const satisfies StoryChapterWritten
