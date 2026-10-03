@@ -272,6 +272,22 @@ export const overwhereIiWhitecombs = {
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
+      fact: "In a leather pouch the bead seeps through in a few breaths, and beads again on the outside.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Where the bead seeps through leather it leaves a grey, salt-stiff stain.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Touching Nala's skin, the bead soaks in and sinks into her well, cold, and does her no harm.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Held by Undertow, the bead stays put as long as Nala keeps a thread of her tide on it.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
       fact: "Loose scree lies heaped beside the crack in the Callow cwm's lower lip.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
