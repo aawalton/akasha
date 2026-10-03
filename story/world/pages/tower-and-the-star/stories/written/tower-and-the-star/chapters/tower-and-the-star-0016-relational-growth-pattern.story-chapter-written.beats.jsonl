@@ -1,0 +1,81 @@
+{"beat":1,"event":"The Floor 12-13 Ascent Gate drops the party onto an open plain under an iron-colored sky.","at":"2000-01-06T08:00:00.000Z","place":"place/tower-and-the-star-floor-13-ashfield","present":["character-other/tower-and-the-star-solenne","character-other/tower-and-the-star-dayo","character-other/tower-and-the-star-miriam","character-other/tower-and-the-star-vesper","character-other/tower-and-the-star-tomas","character-other/tower-and-the-star-nadia"],"changes":[{"page":"world-metric/tower-and-the-star-highest-floor-reached","key":"value","from":12,"to":13,"note":"The party reaches Floor 13"}]}
+{"beat":2,"event":"Solenne's Resonance Map shows no topography and no choke points."}
+{"beat":3,"event":"Dayo says 'Open field'; Solenne agrees their Calcite formation won't translate."}
+{"beat":4,"event":"Tomás takes a thirty-centimeter ridge and warns something will get past the outside edge."}
+{"beat":5,"event":"Nadia says something is going to try."}
+{"beat":6,"event":"The party spends six minutes planning a flatter, curved formation from Solenne's sketch."}
+{"beat":7,"event":"Four Stoneback Ramblers spread wide to avoid the bracket."}
+{"beat":8,"event":"Nadia's pre-placed Pressure Trap catches the outermost flanking Rambler."}
+{"beat":9,"event":"The fight ends in four minutes, with Dayo taking hits the old shape left exposed."}
+{"beat":10,"event":"Dayo calls the new shape 'Different,' acknowledging it was worth the six minutes."}
+{"beat":11,"event":"A Level 14 Elite Stoneback Rambler with 840 HP charges alone from the northeast."}
+{"beat":12,"event":"Tomás says 'Forty meters. I have the angle,' and Solenne lets him take it."}
+{"beat":13,"event":"Tomás's first shot drives the Elite sideways; the second drops it to 23% HP."}
+{"beat":14,"event":"Dayo steps four meters forward on instinct, then stops when it's unnecessary."}
+{"beat":15,"event":"The Elite stays down; Tomás collects an Elite Rambler Core."}
+{"beat":16,"event":"Tomás calls the kill 'Efficient'; Dayo watches the Core go into his pack."}
+{"beat":17,"event":"Solenne keeps notes that now read like a translation of the floor."}
+{"beat":18,"event":"In the floor's second third, six Crestfangs burst up from hollow ground below."}
+{"beat":19,"event":"The lead Crestfang bursts out under Miriam and catches her shin; she steps back."}
+{"beat":20,"event":"Dayo pivots and pulls three Crestfangs; Vesper opens a vial; Tomás takes a fallback spot."}
+{"beat":21,"event":"Nadia goes very still, the quiet Solenne first saw on Floor 9."}
+{"beat":22,"event":"Nadia places three traps in eleven seconds, one on the predicted flank."}
+{"beat":23,"event":"Three Crestfangs are immobilized in a four-second window."}
+{"beat":24,"event":"The fight ends with no one downed."}
+{"beat":25,"event":"Dayo says the second Crestfang would have had her in the old formation."}
+{"beat":26,"event":"Nadia files the trap setup silently."}
+{"beat":27,"event":"Miriam quietly Mending Touches her own shin and covers it before anyone looks."}
+{"beat":28,"event":"Solenne notes Miriam's injury in the margin as a fact."}
+{"beat":29,"event":"Floor 13 is cleared in four hours twelve minutes and the Threshold takes them.","at":"2000-01-06T12:15:00.000Z","changes":[{"page":"world-metric/tower-and-the-star-highest-floor-cleared","key":"value","from":10,"to":13,"note":"Floor 13 is cleared; the floors between were passed off the page"}]}
+{"beat":30,"event":"The party arrives on Floor 14, a rest floor with deep-water-colored walls.","place":"place/tower-and-the-star-floor-14-rest-node","changes":[{"page":"world-metric/tower-and-the-star-highest-floor-reached","key":"value","from":13,"to":14,"note":"The party reaches Floor 14"}]}
+{"beat":31,"event":"Solenne notes the forge station, a notice board with an old grocery list, and rations."}
+{"beat":32,"event":"The party sets up camp; Dayo starts gear maintenance and Tomás reads next-floor documents."}
+{"beat":33,"event":"Miriam reviews Nadia's observation notebook; Nadia has already read the notice board."}
+{"beat":34,"event":"Vesper goes to the forge station and works for forty minutes in silence."}
+{"beat":35,"event":"Vesper says she needs Miriam for an item she has carried since Floor 9.","at":"2000-01-06T13:30:00.000Z"}
+{"beat":36,"event":"Vesper says the Warden's Grove Focus needs Miriam's live resonance for the attunement."}
+{"beat":37,"event":"Miriam crosses the camp; Solenne edges closer and Nadia pretends to sort rations."}
+{"beat":38,"event":"Over twenty-two minutes Vesper inscribes Calcite Fragments while Miriam holds the item."}
+{"beat":39,"event":"The System registers the Warden's Grove Focus as Rare with a Relational Growth Pattern."}
+{"beat":40,"event":"Miriam reads it twice; Vesper says she has never had that classification before."}
+{"beat":41,"event":"Miriam asks if anyone has; Vesper says she doesn't know."}
+{"beat":42,"event":"Miriam thanks Vesper plainly; Vesper puts the tools away."}
+{"beat":43,"event":"Nadia eats a ration in silence."}
+{"beat":44,"event":"The Floor 15 Ascent Gate opens into a small rest node where Team Ironwall is waiting.","at":"2000-01-06T18:00:00.000Z","place":"place/tower-and-the-star-floor-15-rest-node","present":["character-other/tower-and-the-star-solenne","character-other/tower-and-the-star-dayo","character-other/tower-and-the-star-miriam","character-other/tower-and-the-star-vesper","character-other/tower-and-the-star-tomas","character-other/tower-and-the-star-nadia","character-other/tower-and-the-star-brennan","character-other/tower-and-the-star-prita","character-other/tower-and-the-star-hex","character-other/tower-and-the-star-reyes"],"changes":[{"page":"world-metric/tower-and-the-star-highest-floor-reached","key":"value","from":14,"to":15,"note":"The party reaches Floor 15"}]}
+{"beat":45,"event":"Solenne's Arcane Analysis reads Brennan, Prita, Hex and a new Level 18 Strategist."}
+{"beat":46,"event":"Hex's Aspect reads as partially opaque; the Strategist notices the scan."}
+{"beat":47,"event":"Brennan raises a hand and says floors are getting longer; Dayo says they do that."}
+{"beat":48,"event":"Dayo holds a watchful, not-quite-social stance."}
+{"beat":49,"event":"Brennan introduces Reyes, three floors on the team, who can see two moves ahead."}
+{"beat":50,"event":"Reyes looks at Nadia with quiet recognition, then at Solenne, then at Tomás's map."}
+{"beat":51,"event":"Dayo catalogs Reyes's attention without comment."}
+{"beat":52,"event":"Brennan confirms they were at the Floor 8 rest and watched the Calcite run from behind."}
+{"beat":53,"event":"The two teams eat; Tomás and Hex discuss floor-mapping methods."}
+{"beat":54,"event":"Miriam checks her Grove Focus twice."}
+{"beat":55,"event":"Brennan says the Apex Board meets in two weeks and the contact faction has the votes."}
+{"beat":56,"event":"He explains the faction is in observation mode and wants to see them above Floor 15."}
+{"beat":57,"event":"Brennan warns that in two weeks Apex will send someone subtler."}
+{"beat":58,"event":"Dayo goes still and asks if they're sending observers."}
+{"beat":59,"event":"Brennan says Apex has watched since Floor 8 and he is not Apex himself."}
+{"beat":60,"event":"Solenne links this to Vasic's paper and thanks him."}
+{"beat":61,"event":"Ten minutes later, Reyes sits near Nadia with a Floor 16 scouting document."}
+{"beat":62,"event":"Reyes says Nadia knew the Crestfang ground approach before it happened on Floor 13."}
+{"beat":63,"event":"He notes her third trap went in four seconds before the Pack committed."}
+{"beat":64,"event":"Nadia calls it pattern recognition; Reyes returns to his document."}
+{"beat":65,"event":"Reyes says Dr. Vasic asked his circle about Brightspirit and Clearvoiced six weeks ago."}
+{"beat":66,"event":"Tomás's pen stops as he overhears."}
+{"beat":67,"event":"Nadia says Vasic talked to them on Floor 11; Reyes says he knows."}
+{"beat":68,"event":"Reyes says the Architects and Apex contact faction watch the same range, then leaves."}
+{"beat":69,"event":"Solenne writes that the overlap between factions is the information."}
+{"beat":70,"event":"Prita sits across from Vesper at a sorting table."}
+{"beat":71,"event":"Prita says she has made two relational items, the second by not thinking about the item."}
+{"beat":72,"event":"Prita says Vesper already knows where the Focus is going; Vesper denies designing for it."}
+{"beat":73,"event":"Tomás sits near Vesper as she works in the Workframe."}
+{"beat":74,"event":"Tomás tells Vesper she makes things that know where they're going before she does."}
+{"beat":75,"event":"Vesper's hands still for four seconds, then resume without a word."}
+{"beat":76,"event":"The parties sleep; Solenne lies on her bedroll with the notebook on her chest.","at":"2000-01-07T00:00:00.000Z"}
+{"beat":77,"event":"Solenne thinks over Vasic's questions, the two factions, and the Focus notification."}
+{"beat":78,"event":"She hears Dayo doing gear maintenance across the camp."}
+{"beat":79,"event":"Solenne writes: Relational growth pattern. Two so far (Prita). What else is scaling."}
+{"beat":80,"event":"She thinks over the Sanctum Warden documentation, with six hours left until morning."}
+{"beat":81,"event":"Solenne packs the notebook as Vesper keeps working in the Workframe."}

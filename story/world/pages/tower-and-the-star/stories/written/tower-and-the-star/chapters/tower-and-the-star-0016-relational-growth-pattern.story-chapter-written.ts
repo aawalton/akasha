@@ -10,4 +10,6 @@ export const towerAndTheStar0016RelationalGrowthPattern = {
   ownLength: 4252,
   unit: "unit/words",
   prose: "txt",
+  stepStatus: "step-status/player",
+  beats: "jsonl",
 } as const satisfies StoryChapterWritten
