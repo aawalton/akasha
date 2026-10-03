@@ -124,5 +124,9 @@ export const overwhereIiiMardaHesk2 = {
         "character-other/overwhere-iii-edda-crane",
       ],
     },
+    {
+      fact: "Hearing the woman fled south into the deep wood, Marda thinks of the sealed Hollow a day south.",
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-marda-hesk"],
+    },
   ],
 } as const satisfies Lore
