@@ -231,7 +231,7 @@ export const overwhereIiiCorruption2 = {
     },
     {
       fact: "Struck in its wallow, the blighted boar crashes out of the brambles and charges its striker.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
   ],
 } as const satisfies Lore
