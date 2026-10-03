@@ -98,4 +98,5 @@ export const hollowmere0027UpHere = {
     "character-other/hollowmere-penhallow",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
+  recordedBy: ["story-recorder/inventory"],
 } as const satisfies StoryChapterWritten
