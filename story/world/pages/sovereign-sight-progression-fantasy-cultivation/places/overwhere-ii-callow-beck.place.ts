@@ -76,5 +76,41 @@ export const overwhereIiCallowBeck = {
       fact: "Ebba's word on day twenty-seven: something spilled off the mountain at night; her sheep are changed.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
+    {
+      fact: "Besides her goats, Ebba keeps a dozen ewes, folded in the high pasture above the longhouse.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "At a Talented's run, the Keep to Callow Beck is some five hours: west, then south.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The spill came down the beck's gully; a black, salt-crusted slick now covers the high pasture.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The black slick still seeps and spreads a few paces a day toward the longhouse.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Six ewes that drank from the slick are Warped: grey-scaled, coral-horned, savage, and loose.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "A Warped ewe broke Ebba's grandson Wat's arm at dawn; the family is barred in the longhouse.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The beck runs black past the longhouse; Ebba's water is fouled but for one rain barrel.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "A Warped ewe is weaker than a Warped goat, and drops under Undertow's pull as fast.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Near the slick Nala's well leans toward it, as at the Callow pool, but weaker.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Place
