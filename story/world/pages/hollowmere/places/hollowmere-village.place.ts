@@ -106,5 +106,13 @@ export const hollowmereVillage = {
         "character-other/hollowmere-kit",
       ],
     },
+    {
+      fact: "On test Fridays the Drowned Bell's landlady rings the ship's bell over the bar for the first-years.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/hollowmere-yusra",
+        "character-other/hollowmere-shiv",
+      ],
+    },
   ],
 } as const satisfies Place

@@ -147,5 +147,25 @@ export const hollowmereAcademy2 = {
         "character-other/hollowmere-yusra",
       ],
     },
+    {
+      fact: "The demonstrator judges the Friday test alone at a table, and says pass, or again next week.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-bea",
+        "character-other/hollowmere-kit",
+        "character-other/hollowmere-amara",
+        "character-other/hollowmere-lin",
+        "character-other/hollowmere-yusra",
+      ],
+    },
+    {
+      fact: "A first-year who fails the Friday test resits it the next Friday, in private, and no mark is kept.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/hollowmere-yusra",
+        "character-other/hollowmere-penhallow",
+      ],
+    },
   ],
 } as const satisfies Lore
