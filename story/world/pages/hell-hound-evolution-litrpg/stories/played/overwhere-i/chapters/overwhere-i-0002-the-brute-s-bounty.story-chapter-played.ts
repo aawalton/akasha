@@ -10,6 +10,7 @@ export const overwhereI0002TheBruteSBounty = {
   story: "story-played/overwhere-i",
   ownLength: 2959,
   prose: "txt",
+  beats: "jsonl",
   turnCovers: [
     {
       position: 4,
