@@ -34,7 +34,10 @@ import {
   scenesIndexed,
 } from "akasha/command/pages/story/modules/turn-scenes/turn-scenes.module.code.ts"
 import { rootReading } from "akasha/command/pages/story/tell/story-tell.command.code.ts"
-import { lengthRefused } from "akasha/command/pages/story/turn/advance/modules/chapter-length/chapter-length.module.code.ts"
+import {
+  breakIndexed,
+  lengthRefused,
+} from "akasha/command/pages/story/turn/advance/modules/chapter-length/chapter-length.module.code.ts"
 import {
   type Crossing,
   crossedIndexed,
@@ -163,8 +166,10 @@ function untimedOn(reach: Reaching, root: string, read: Taken, held: Held, turn:
   return untimedRefused(reach.timeCheckOf(root, held.game), held.game, turn.slug, turn.value)
 }
 
-function unsizedOn(read: Taken, beats: number): string | null {
-  return read.chapter ? lengthRefused(read.handed, beats) : null
+function unsizedOn(read: Taken, beats: number, root: string, game: string): string | null {
+  if (!read.chapter) return null
+  const chapterBreak = read.handed.kind === "beats" ? breakIndexed(root, game) : null
+  return lengthRefused(read.handed, beats, chapterBreak)
 }
 
 async function noticesOver(
@@ -237,7 +242,7 @@ async function heldOn(
   const timedTurn = { ...turn, value: { ...turn.value, ...scened.values } }
   const untimed = untimedOn(reach, given.root, read, held, timedTurn)
   if (untimed !== null) return refused(untimed, DATA)
-  const unsized = unsizedOn(read, held.beats)
+  const unsized = unsizedOn(read, held.beats, given.root, held.game)
   if (unsized !== null) return refused(unsized, DATA)
   const recording = read.handed.kind === "record"
   const moved = recording ? reach.keep(given.root, given.agentId, turn.at) : []

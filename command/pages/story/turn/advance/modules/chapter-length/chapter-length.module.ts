@@ -24,5 +24,9 @@ export const chapterLength = {
       decisionKind: "decision-kind/departure",
       statement: "The chapter before sets no length, and a refusal says so.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A beat restating the story's chapter break is refused; the break is no beat.",
+    },
   ],
 } as const satisfies Module
