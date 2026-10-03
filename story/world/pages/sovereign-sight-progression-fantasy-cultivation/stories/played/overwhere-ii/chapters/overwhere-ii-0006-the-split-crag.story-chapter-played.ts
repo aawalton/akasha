@@ -10,6 +10,7 @@ export const overwhereIi0006TheSplitCrag = {
   story: "story-played/overwhere-ii",
   ownLength: 3948,
   prose: "txt",
+  beats: "jsonl",
   turnCovers: [
     {
       position: 42,
