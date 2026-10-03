@@ -8,7 +8,7 @@
 {"beat":8,"event":"The girl ahead asks if she is nervous; Elsie says yes, and warms her cold hands.","at":"2026-06-01T09:00:00.000Z"}
 {"beat":9,"event":"Inside, a priestess calls the names; the first girl's window opens above her."}
 {"beat":10,"event":"Elsie hopes for simples; then her turn comes, and she steps into the circle.","at":"2026-06-01T10:00:00.000Z"}
-{"beat":11,"event":"It reads: Enthraller."}
+{"beat":11,"event":"It reads: Enthraller.","changes":[{"page":"character-class/fairweather-elsie-enthraller","note":"Class: Enthraller, read in the Hall's window","key":"unrevealed","from":true,"to":false}]}
 {"beat":12,"event":"She reads it twice; the silence spreads outward and nobody in the hall moves."}
 {"beat":13,"event":"A woman in the gallery rises and walks out; the priestess calls no next name."}
 {"beat":14,"event":"Elsie says, Oh! that sounds like a lot of responsibility, and steps down."}
@@ -20,7 +20,7 @@
 {"beat":20,"event":"The guildmaster comes down, grey and sword-calloused, and takes Elsie up.","at":"2026-06-01T12:30:00.000Z"}
 {"beat":21,"event":"She reads the Strings Accord: every skill reported, none on anyone unwilling."}
 {"beat":22,"event":"Told the watching is so nothing goes wrong, Elsie says she is glad of it.","at":"2026-06-01T13:00:00.000Z"}
-{"beat":23,"event":"She counts the fee onto the desk; the clerk stamps a copper tag with an F.","at":"2026-06-01T13:10:00.000Z","changes":[{"page":"metric-character-currency/fairweather-elsie","note":"Guild registration fee, two lanterns: 134 → 114 pips","key":"value","from":134,"to":114},{"page":"metric-character-currency/fairweather-elsie","note":"Purse logged at 114 pips after the guild fee","key":"history","append":{"turn":1,"value":114}}]}
+{"beat":23,"event":"She counts the fee onto the desk; the clerk stamps a copper tag with an F.","at":"2026-06-01T13:10:00.000Z","changes":[{"page":"metric-character-currency/fairweather-elsie","note":"Guild registration fee, two lanterns: 134 → 114 pips","key":"value","from":134,"to":114},{"page":"metric-character-currency/fairweather-elsie","note":"Purse logged at 114 pips after the guild fee","key":"history","append":{"turn":1,"value":114}},{"page":"character-rank/fairweather-elsie-rank-f","note":"F-rank: the clerk stamps an F on her copper tag","key":"unrevealed","from":true,"to":false}]}
 {"beat":24,"event":"The guildmaster opens the charcoal door: a young woman stands with a black ledger.","arrive":["character-other/fairweather-cora"]}
 {"beat":25,"event":"Warden Corisande Vane, called Cora, will go with her and write down every skill.","at":"2026-06-01T13:20:00.000Z"}
 {"beat":26,"event":"Cora will report each to the guildmaster; Elsie thanks her for coming."}
@@ -42,7 +42,7 @@
 {"beat":42,"event":"Elsie chalks three names on the last slate; Tilly writes hers under, then Tamsin.","at":"2026-06-01T16:00:00.000Z"}
 {"beat":43,"event":"Tilly asks her class; Elsie says Enthraller and does not look away."}
 {"beat":44,"event":"Tamsin says, so you can make me do anything; Elsie says that is not how hers works."}
-{"beat":45,"event":"Tilly asks about bonds; Cora watches the wrist, the chalk, the red ears, and writes nothing.","at":"2026-06-01T17:00:00.000Z"}
+{"beat":45,"event":"Tilly asks about bonds; Cora watches the wrist, the chalk, the red ears, and writes nothing.","at":"2026-06-01T17:00:00.000Z","changes":[{"page":"world-relationship/fairweather-elsie-tamsin","note":"Bond: Tamsin 15 (the wrist, the arm, the slate)","make":{"title":"Elsie and Tamsin","world":"world/fairweather","characters":["character-player/fairweather-elsie","character-other/fairweather-tamsin"],"relationshipPoints":15}},{"page":"world-relationship/fairweather-elsie-tilly","note":"Bond: Tilly 10 (her red ears, the chalk)","make":{"title":"Elsie and Tilly","world":"world/fairweather","characters":["character-player/fairweather-elsie","character-other/fairweather-tilly"],"relationshipPoints":10}}]}
 {"beat":46,"event":"Somebody brings bread and a jug, and the four of them eat standing at the board.","at":"2026-06-01T17:30:00.000Z"}
 {"beat":47,"event":"Tamsin says moonbells open at dusk, so they will go out at dusk tomorrow.","at":"2026-06-01T18:00:00.000Z"}
 {"beat":48,"event":"Elsie thinks the three of them are going to be friends, and is glad enough to hum.","at":"2026-06-01T18:30:00.000Z"}
