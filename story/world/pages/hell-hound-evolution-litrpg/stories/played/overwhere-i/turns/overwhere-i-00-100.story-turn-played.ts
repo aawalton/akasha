@@ -10,4 +10,5 @@ export const overwhereI00100 = {
   stepStatus: "step-status/game-master",
   action: "“I’m Nala, Nala Arthur”",
   lore: ["lore/overwhere-i-the-system-2", "place/overwhere-i-wendlow"],
+  endsAt: "2026-10-05T12:30:00.000Z",
 } as const satisfies StoryTurnPlayed
