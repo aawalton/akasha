@@ -167,5 +167,9 @@ export const overwhereIHobbsMillWeir = {
       fact: "The other barge, the Pike, carries wine; her crew of three watch from her deck and say nothing.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Tam Hobb answers knocks only through his barred door, and will not come out while the wyrm lives.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Place
