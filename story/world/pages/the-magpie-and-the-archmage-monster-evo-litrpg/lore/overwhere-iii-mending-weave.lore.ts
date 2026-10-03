@@ -70,7 +70,7 @@ export const overwhereIiiMendingWeave = {
     },
     {
       fact: "Ten telling uses past Novice show: [Mending Weave has advanced: Novice → Adept]",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
   ],
 } as const satisfies Lore
