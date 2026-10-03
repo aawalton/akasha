@@ -4,6 +4,7 @@ export const hollowmere0032Thursday = {
   id: "01a1020c-4924-7a59-8fda-32db58853556",
   type: "page-type/story-chapter-written",
   slug: "hollowmere-0032-thursday",
+  cover: "image/image-e4fb32d7fcd13804",
   position: 32,
   unit: "unit/words",
   title: "Thursday",
@@ -100,5 +101,14 @@ export const hollowmere0032Thursday = {
     "character-other/hollowmere-yusra",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/mechanics", "story-recorder/inventory"],
+  recordedBy: ["story-recorder/mechanics", "story-recorder/inventory", "story-recorder/picture"],
+  scenes: ["image/image-e4fb32d7fcd13804"],
+  pictured: [
+    {
+      cover: "image/image-e4fb32d7fcd13804",
+      coverAfter: "And sits down nude on the stool, as calm as on the jetty.",
+      character: "character-other/hollowmere-morwenna",
+      outfit: "naked",
+    },
+  ],
 } as const satisfies StoryChapterWritten
