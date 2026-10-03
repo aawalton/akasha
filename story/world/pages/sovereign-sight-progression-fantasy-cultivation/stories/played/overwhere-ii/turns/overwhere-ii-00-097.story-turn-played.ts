@@ -11,7 +11,7 @@ export const overwhereIi00097 = {
   position: 97,
   prose: "txt",
   characters: ["character-player/overwhere-ii-nala"],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action: "“Done for today, need to focus on refining my organs.”",
   beats: [
     'Nala: "Done for today. I need to focus on refining my organs."',
@@ -49,7 +49,12 @@ export const overwhereIi00097 = {
     "place/overwhere-ii-whitecombs",
   ],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/memory", "story-recorder/picture"],
+  recordedBy: [
+    "story-recorder/inventory",
+    "story-recorder/memory",
+    "story-recorder/picture",
+    "story-recorder/mechanics",
+  ],
   endsAt: "2026-10-25T09:00:00.000Z",
   coverAfter: "Go to Callow Beck and hold it. Hawise goes with you.",
 } as const satisfies StoryTurnPlayed
