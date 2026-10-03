@@ -221,5 +221,22 @@ export const hollowmereAcademy2 = {
         "character-other/hollowmere-lin",
       ],
     },
+    {
+      fact: "The Fell Cup runs half a mile from the boathouse to the village jetty; five novice fours, one race.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/hollowmere-bea",
+        "character-other/hollowmere-morwenna",
+        "character-player/hollowmere-nala",
+      ],
+    },
+    {
+      fact: "In week five practical casting adds the calling charm: a small thing drawn to the hand from a bench.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/hollowmere-yusra",
+        "character-other/hollowmere-penhallow",
+      ],
+    },
   ],
 } as const satisfies Lore
