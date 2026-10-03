@@ -4,10 +4,13 @@ export const overwhereIi00100 = {
   id: "01a0ff76-dc11-76bb-aa76-1a58d2192e01",
   type: "page-type/story-turn-played",
   slug: "overwhere-ii-00-100",
+  ownLength: 225,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-ii"],
   position: 100,
-  stepStatus: "step-status/writer",
+  prose: "txt",
+  characters: ["character-player/overwhere-ii-nala"],
+  stepStatus: "step-status/reviewers",
   action: "I test my strength, Pushing against the blackness",
   beats: [
     "Nala walks to the slick's lower edge and plants the spear butt in the grass.",
@@ -27,6 +30,11 @@ export const overwhereIi00100 = {
     "Ebba: \"But the sun's low, and I'll not have the boys on the mountain after dark.\"",
     'Hawise: "Bank it now, or get them down first? Your call."',
   ],
-  lore: ["place/overwhere-ii-callow-beck"],
+  lore: [
+    "lore/overwhere-ii-nala",
+    "lore/overwhere-ii-nala-2",
+    "lore/overwhere-ii-nala-3",
+    "place/overwhere-ii-callow-beck",
+  ],
   endsAt: "2026-10-25T16:50:00.000Z",
 } as const satisfies StoryTurnPlayed
