@@ -10,7 +10,7 @@ export const overwhereIi00108 = {
   position: 108,
   prose: "txt",
   characters: ["character-player/overwhere-ii-nala"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/recorders",
   action:
     "“Go down to the village, there should be more chambers from the wolves I killed there, bring back any you can find. I’ll focus on clearing the water, and we’ll see if it helps.” Then I focus on the pool",
   beats: [
@@ -43,6 +43,6 @@ export const overwhereIi00108 = {
     "lore/overwhere-ii-nala-3",
     "place/overwhere-ii-whitecombs-2",
   ],
-  reviewedBy: ["story-reviewer/continuity"],
+  reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
   endsAt: "2026-10-26T17:38:00.000Z",
 } as const satisfies StoryTurnPlayed
