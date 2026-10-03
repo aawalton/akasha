@@ -160,5 +160,13 @@ export const overwhereIiiMardaHesk2 = {
         "character-other/overwhere-iii-edda-crane",
       ],
     },
+    {
+      fact: "Marda's rider left for Thornmere at dawn on day eleven, out the east gate.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iii-nala",
+        "character-other/overwhere-iii-marda-hesk",
+      ],
+    },
   ],
 } as const satisfies Lore
