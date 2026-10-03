@@ -8,9 +8,9 @@ export const hollowmere0028ImSayingIt = {
   unit: "unit/words",
   title: "I'm Saying It",
   story: "story-written/hollowmere",
-  ownLength: 3997,
+  ownLength: 4008,
   prose: "txt",
-  stepStatus: "step-status/writer",
+  stepStatus: "step-status/recorders",
   beats: [
     "Sunday of week four: you wake stiff from the fell, your calves aching, Bea asleep across your legs.",
     'You ease out from under her; she mumbles "Rock. Go. Say hi to Shiv," and is asleep again.',
