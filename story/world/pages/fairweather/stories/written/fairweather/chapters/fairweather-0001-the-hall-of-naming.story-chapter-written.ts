@@ -9,11 +9,10 @@ export const fairweather0001TheHallOfNaming = {
   unit: "unit/words",
   title: "The Hall of Naming",
   story: "story-written/fairweather",
-  ownLength: 3032,
+  ownLength: 0,
   prose: "txt",
-  stepStatus: "step-status/game-master",
+  stepStatus: "step-status/mechanics",
   beats: "jsonl",
-  mechanicsIssues: "txt",
   mechanicsSentBack: true,
   issues: "txt",
   lore: [
@@ -38,13 +37,6 @@ export const fairweather0001TheHallOfNaming = {
     "story-reviewer/scene",
     "story-reviewer/holdings",
     "story-reviewer/continuity",
-  ],
-  recordedBy: [
-    "story-recorder/inventory",
-    "story-recorder/plan",
-    "story-recorder/mechanics",
-    "story-recorder/memory",
-    "story-recorder/picture",
   ],
   scenes: [
     "image/image-8276a3e48e044643",
