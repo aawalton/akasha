@@ -11,4 +11,5 @@ export const overwhereIv00081 = {
   action:
     "“I’m not at my best, but I can fight, especially if they delay long enough for me to get some mana back first.”",
   lore: ["lore/overwhere-iv-brookside-four-2"],
+  endsAt: "2026-10-06T23:55:00.000Z",
 } as const satisfies StoryTurnPlayed
