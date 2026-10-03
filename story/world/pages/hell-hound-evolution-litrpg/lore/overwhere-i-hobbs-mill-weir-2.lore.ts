@@ -60,5 +60,17 @@ export const overwhereIHobbsMillWeir2 = {
       fact: "Nala left the Weir Wyrm's head on the weir apron with its carcass.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
+    {
+      fact: "Seeing Nala steam herself clean, Tam Hobb calls it a handy trick and says he'll be grinding by two.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+    },
+    {
+      fact: "Jory lingers, eyes on Dickon's belt in Nala's hand, and slowly holds out his own hand.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+    },
+    {
+      fact: "Once Nala has the fangs, the barge crews whistle and head back up the bank to their barges.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+    },
   ],
 } as const satisfies Lore

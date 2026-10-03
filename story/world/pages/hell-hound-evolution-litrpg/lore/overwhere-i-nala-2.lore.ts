@@ -227,5 +227,13 @@ export const overwhereINala2 = {
       fact: "Nala sold Voss's sword and Crow's crossbow to Wil Harrow, and the grubboar tusks to Mother Sallow.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
+    {
+      fact: "Nala wrapped the Weir Wyrm's two fangs in a scrap of cloth and carries them in her pack.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+    },
+    {
+      fact: "Nala's water-and-fire steam washes her clean; an air-and-fire wind dries her in three minutes.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+    },
   ],
 } as const satisfies Lore
