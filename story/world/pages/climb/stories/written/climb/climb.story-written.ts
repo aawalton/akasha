@@ -10,6 +10,6 @@ export const climb = {
   unit: "unit/words",
   chapterBreak: "A floor's task is met and its stairs open.",
   coordinatorAgent: "mari-game-master-climb",
-  following: true,
+  following: false,
   panels: ["played-panel/player-character", "played-panel/scene-cover", "played-panel/quest-list"],
 } as const satisfies StoryWritten
