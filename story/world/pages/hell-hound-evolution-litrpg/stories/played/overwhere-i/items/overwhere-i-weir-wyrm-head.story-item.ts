@@ -8,5 +8,5 @@ export const overwhereIWeirWyrmHead = {
   story: "story-played/overwhere-i",
   place: "place/overwhere-i-hobbs-mill-weir",
   description:
-    "The Weir Wyrm's scorched, grey-green head, about 80 pounds, with fangs a hand long.",
+    "The Weir Wyrm's scorched, grey-green head, about 80 pounds, its two fangs taken from the jaw.",
 } as const satisfies StoryItem
