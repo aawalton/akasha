@@ -61,7 +61,7 @@ export const overwhereIiMaudAshby = {
     },
     {
       fact: "Mending the Horizon itself is the Spires' work; Maud would send word to Deepwatch at once.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Maud holds raw Sea-Water a peril to carry: sealed, kept far from wells, stock and children.",
