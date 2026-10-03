@@ -96,5 +96,9 @@ export const overwhereIiiMardaHesk2 = {
       fact: "Marda will send a rider to Thornmere at dawn and tell the reeve and the watch tonight.",
       knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-marda-hesk"],
     },
+    {
+      fact: "Marda forbids anyone the Wren Brook hut or the deep wood alone until Thornmere answers.",
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-marda-hesk"],
+    },
   ],
 } as const satisfies Lore
