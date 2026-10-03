@@ -108,5 +108,9 @@ export const overwhereIiiCleansingWeave = {
       fact: "Her fifth telling use past Basic shows: [Cleansing Weave has advanced: Basic → Novice]",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
+    {
+      fact: "Blight in a fresh carcass pulls out like a bite's and clots into a seed stone.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
