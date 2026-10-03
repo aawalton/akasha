@@ -93,7 +93,7 @@ export const overwhereIiVarrowTalented = {
     },
     {
       fact: "At twice her speed, bad footing throws Hawise worse than it would a common fighter.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Hawise has never sparred a water Talent, and does not think of the ground as a weapon.",
