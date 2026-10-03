@@ -30,5 +30,10 @@ export const fairweather0002NotSevered = {
     "character-other/fairweather-tilly",
     "character-other/fairweather-cora",
   ],
-  recordedBy: ["story-recorder/inventory", "story-recorder/mechanics", "story-recorder/plan"],
+  recordedBy: [
+    "story-recorder/inventory",
+    "story-recorder/mechanics",
+    "story-recorder/plan",
+    "story-recorder/memory",
+  ],
 } as const satisfies StoryChapterWritten
