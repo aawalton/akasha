@@ -209,5 +209,9 @@ export const overwhereIiiCorruption2 = {
       fact: "Nala's braid killed the last kiln jackalope in its burrow; a small blightstone lay under it.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
+    {
+      fact: "The blighted boar is Level 14 with 45 health; its bristled hide wards 2.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
