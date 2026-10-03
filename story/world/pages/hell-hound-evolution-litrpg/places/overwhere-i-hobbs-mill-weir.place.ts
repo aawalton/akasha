@@ -191,5 +191,9 @@ export const overwhereIHobbsMillWeir = {
       fact: "Basking, the wyrm's head shows only its scaled top, which has the back's 2-point ward.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Lying flat behind the mill's chest-high tail-race wall, 20 yards from the basking spot, hides her.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Place
