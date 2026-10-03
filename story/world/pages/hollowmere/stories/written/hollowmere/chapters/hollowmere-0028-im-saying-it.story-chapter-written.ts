@@ -4,13 +4,14 @@ export const hollowmere0028ImSayingIt = {
   id: "01a101d6-494e-7a52-acca-1f6439939af1",
   type: "page-type/story-chapter-written",
   slug: "hollowmere-0028-im-saying-it",
+  cover: "image/image-15e230e8bf1cfed2",
   position: 28,
   unit: "unit/words",
   title: "I'm Saying It",
   story: "story-written/hollowmere",
   ownLength: 4008,
   prose: "txt",
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   beats: [
     "Sunday of week four: you wake stiff from the fell, your calves aching, Bea asleep across your legs.",
     'You ease out from under her; she mumbles "Rock. Go. Say hi to Shiv," and is asleep again.',
@@ -104,5 +105,11 @@ export const hollowmere0028ImSayingIt = {
     "character-other/hollowmere-yusra",
   ],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/mechanics", "story-recorder/memory"],
+  recordedBy: [
+    "story-recorder/inventory",
+    "story-recorder/mechanics",
+    "story-recorder/memory",
+    "story-recorder/picture",
+  ],
+  scenes: ["image/image-15e230e8bf1cfed2"],
 } as const satisfies StoryChapterWritten
