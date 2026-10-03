@@ -28,5 +28,6 @@ export const overwhereI00106 = {
     '"Bring me its bile sac within a day of the kill, and I\'ll pay two gold for it."',
   ],
   lore: ["lore/overwhere-i-nala", "lore/overwhere-i-nala-2", "lore/overwhere-i-wendlow-2"],
+  reviewedBy: ["story-reviewer/style"],
   endsAt: "2026-10-05T13:45:00.000Z",
 } as const satisfies StoryTurnPlayed
