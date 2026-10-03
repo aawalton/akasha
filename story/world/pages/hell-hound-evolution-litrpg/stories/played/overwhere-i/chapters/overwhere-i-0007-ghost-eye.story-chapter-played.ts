@@ -10,6 +10,7 @@ export const overwhereI0007GhostEye = {
   story: "story-played/overwhere-i",
   ownLength: 2556,
   prose: "txt",
+  beats: "jsonl",
   turnCovers: [
     {
       position: 42,
