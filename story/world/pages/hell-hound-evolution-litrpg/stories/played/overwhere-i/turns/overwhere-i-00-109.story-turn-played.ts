@@ -28,5 +28,6 @@ export const overwhereI00109 = {
     "Jory squints up at the sun climbing over the weir. \"Today's sunny enough, I'd say.\"",
   ],
   lore: ["lore/overwhere-i-nala", "lore/overwhere-i-nala-2", "place/overwhere-i-hobbs-mill-weir"],
+  reviewedBy: ["story-reviewer/style"],
   endsAt: "2026-10-06T09:16:00.000Z",
 } as const satisfies StoryTurnPlayed
