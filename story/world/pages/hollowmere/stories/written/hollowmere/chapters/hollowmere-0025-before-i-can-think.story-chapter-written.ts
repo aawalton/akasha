@@ -10,7 +10,7 @@ export const hollowmere0025BeforeICanThink = {
   story: "story-written/hollowmere",
   ownLength: 4524,
   prose: "txt",
-  stepStatus: "step-status/game-master",
+  stepStatus: "step-status/writer",
   beats: [
     "Thursday of week four: rain on the window of 15, and Bea asleep with her face in your neck.",
     "You lie still and listen; Bea wakes, groans at the rain, and pulls the blanket over both heads.",
@@ -20,7 +20,7 @@ export const hollowmere0025BeforeICanThink = {
     "Morning: History of Magic in the lecture hall; the lecturer chalks a date on the board: 1858.",
     "The Healers Act, she says: the year a healer first had to pass an examination to be licensed.",
     "Before it, anyone with a warm hand and a story could set up as a healer; many people died of it.",
-    "Kit writes down every word; her grandmother remembers the old unlicensed ones, she whispers.",
+    "Kit writes down every word; her grandmother told her stories of the old unlicensed ones.",
     "Amara asks who set the first examination; the lecturer says the colleges, together, and argued.",
     "You think of Yusra in the library at midnight with four books open. You write the date down twice.",
     "After, in the corridor, Kit says the Act was the first time the colleges had to prove anything.",
