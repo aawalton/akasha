@@ -1,0 +1,62 @@
+{"beat":1,"event":"Tomás walks rear guard through a rain-scented root corridor, bow unstrung.","at":"2000-01-04T10:00:00.000Z","place":"place/tower-and-the-star-floor-9-boss-approach-corridor","present":["character-other/tower-and-the-star-solenne","character-other/tower-and-the-star-dayo","character-other/tower-and-the-star-miriam","character-other/tower-and-the-star-vesper","character-other/tower-and-the-star-tomas","character-other/tower-and-the-star-nadia"]}
+{"beat":2,"event":"Tomás notes Dayo's posture has turned to discipline since her rest on the platform."}
+{"beat":3,"event":"Tomás watches Miriam reading the whole party with Empathic Sense."}
+{"beat":4,"event":"Tomás activates Terrain Read and maps a vaulted chamber with three elevated positions."}
+{"beat":5,"event":"Terrain Read shows a twenty-meter boss embedded in the rear wall's root network."}
+{"beat":6,"event":"Tomás reports the boss chamber fifty meters ahead; the party stops."}
+{"beat":7,"event":"Solenne's look holds his a beat too long; both know what it carries."}
+{"beat":8,"event":"Solenne asks for layout; Tomás describes the chamber and the boss's root reach."}
+{"beat":9,"event":"Tomás assigns positions, taking the highest, Position 3, for himself."}
+{"beat":10,"event":"Dayo considers the layout and nods without arguing."}
+{"beat":11,"event":"Dayo crosses the threshold and the Thornweave Sentinel tears free of the rear wall.","place":"place/tower-and-the-star-floor-9-boss-chamber"}
+{"beat":12,"event":"Tomás perches on the root arch at Position 3, forty meters up."}
+{"beat":13,"event":"Dayo in Iron Stance blocks two tendril strikes; Miriam's heal lands at once."}
+{"beat":14,"event":"Solenne's Arcane Analysis finds a hidden mana node in the trunk's upper third."}
+{"beat":15,"event":"Arcane Analysis Lv7 shows the boss's AI behavior, shared via Harmony Conductor."}
+{"beat":16,"event":"Tomás nocks an arrow but holds his draw through Phase 1."}
+{"beat":17,"event":"Tomás wonders if the Tower built the elevated positions for a Pathfinder."}
+{"beat":18,"event":"Dayo holds center, pausing to read the space before each Shield Rush."}
+{"beat":19,"event":"Nadia throws one of Vesper's Null Compounds at a weaving tendril cluster."}
+{"beat":20,"event":"The Null Compound strips the cluster's magic armor for eight seconds."}
+{"beat":21,"event":"Nadia calls the window."}
+{"beat":22,"event":"Boosted by Vesper's Inscription, Solenne's Arcane Bolt severs three tendrils."}
+{"beat":23,"event":"Tomás waits twelve minutes on the arch, holding his draw."}
+{"beat":24,"event":"From above he watches Miriam healing steadily from Position 1."}
+{"beat":25,"event":"He watches Vesper cycle inscriptions and consumables from Position 2."}
+{"beat":26,"event":"He watches Dayo reflect damage with the Sentinel Gambit, positioned, not reckless."}
+{"beat":27,"event":"He sees Solenne leading through the Conductor while carrying a hidden weight."}
+{"beat":28,"event":"Solenne glances up at Position 3 in a lull; the look is not tactical."}
+{"beat":29,"event":"Tomás thinks on the six Aspects being written into the Tower before Day Zero."}
+{"beat":30,"event":"Tomás honors Solenne's request to wait, unsure it is right."}
+{"beat":31,"event":"Phase 2: the Sentinel draws its roots inward, shrinking the space by forty percent."}
+{"beat":32,"event":"Dayo's Shield Rush keeps a corridor open to Miriam."}
+{"beat":33,"event":"Nadia asks Tomás to confirm a tendril anchor on the left wall."}
+{"beat":34,"event":"Tomás confirms the Rootwhip trap anchor ties into the Sentinel's root network."}
+{"beat":35,"event":"Nadia disarms the trap and turns its tension against the compression."}
+{"beat":36,"event":"The System awards Nadia the Environmental Repurpose achievement, +100 XP."}
+{"beat":37,"event":"Nadia's second Null Compound strips the trunk's armor; one is saved for Floor 10."}
+{"beat":38,"event":"Solenne calls the node exposed and feeds Tomás coordinates via the Conductor."}
+{"beat":39,"event":"Tomás draws his heavy bow and looses a Precision Shot."}
+{"beat":40,"event":"The arrow hits the mana node; the Sentinel's Phase 3 enrage stalls thirty seconds."}
+{"beat":41,"event":"Dayo Shield Rushes the trunk's base, destabilizing its root anchors."}
+{"beat":42,"event":"Miriam's Thorned Ground pins the base tendrils, stopping regrowth."}
+{"beat":43,"event":"Solenne channels Ley Conduit into an Arcane Bolt on the exposed node."}
+{"beat":44,"event":"Nadia's thrown knife lands Stumble on the Sentinel's sensory cluster."}
+{"beat":45,"event":"Dayo lands the final Shield Rush and the Sentinel's trunk cracks and falls."}
+{"beat":46,"event":"The chamber shakes, the fungi flare and dim, and silence follows."}
+{"beat":47,"event":"Floor 9 boss defeated: 800 party XP, Rootwood Core and Root-Walker Greaves.","changes":[{"page":"world-metric/tower-and-the-star-highest-floor-cleared","key":"value","from":8,"to":9,"note":"Floor 9 is cleared"}]}
+{"beat":48,"event":"Tomás climbs down and equips the Root-Walker Greaves; his steps go silent."}
+{"beat":49,"event":"Miriam examines the Rootwood Core and feels it is Warden-attuned."}
+{"beat":50,"event":"Miriam hands the Core to Vesper without discussion."}
+{"beat":51,"event":"The All Secrets Found notice arrives for the cache Tomás found earlier."}
+{"beat":52,"event":"The reward is a Burst Speed Skill Book, eligible for Nadia."}
+{"beat":53,"event":"Nadia absorbs the Skill Book and says it will be ridiculous."}
+{"beat":54,"event":"Nadia tells Tomás she will be the party's fastest for three seconds."}
+{"beat":55,"event":"Tomás works out they'd be exactly equal at 33 AGI and keeps it to himself."}
+{"beat":56,"event":"Party Record confirms Dayo's Anchor as a full-party passive tracking five."}
+{"beat":57,"event":"The six stand in the amber Transition Hall before Floor 10's dark door.","at":"2000-01-04T11:00:00.000Z","place":"place/tower-and-the-star-floor-9-transition-hall"}
+{"beat":58,"event":"Each stands with their gear; Solenne's staff bears the word designed."}
+{"beat":59,"event":"Nadia looks at the door and says one more door."}
+{"beat":60,"event":"No one answers; six Resonance Shards are warm."}
+{"beat":61,"event":"Tomás doubts the silence he and Solenne keep but holds it."}
+{"beat":62,"event":"All six wait at the door with the weight of what Tomás knows."}
