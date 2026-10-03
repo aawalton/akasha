@@ -332,5 +332,9 @@ export const overwhereIStarfallLegacy2 = {
       fact: "A gentle steam weave played over her own skin and clothes cleans them without scalding; no roll.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "A steam clean or a hot-wind dry costs 10 mana a minute; each takes about three minutes.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
