@@ -28,5 +28,9 @@ export const overwhereIHobbsMillWeir2 = {
       fact: "The Weir Wyrm's bile sac is a green bag the size of a fist, lying under its liver.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
+    {
+      fact: "Two fangs, each a hand long and about a pound, come from the wyrm's jaw with a water blade; easy.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
