@@ -193,5 +193,13 @@ export const overwhereIiiCorruption2 = {
       fact: "With its pack dead, the last kiln jackalope bolts for the stumps and its burrow under them.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
+    {
+      fact: "Two small blightstones, two-fifths pale, lie in the frost where the bigger kiln jackalopes fell.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+    },
+    {
+      fact: "The last kiln jackalope hides limping under the stump roots, its blight still smoldering.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+    },
   ],
 } as const satisfies Lore
