@@ -184,6 +184,10 @@ export const overwhereIiiMotherSallow = {
       fact: "She takes her seal-stone and notes, but her haste leaves one half-burned page in the hearth.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "The half-burned page shows a sketch of a sealed door under roots, and the words 'core fed: six'.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
