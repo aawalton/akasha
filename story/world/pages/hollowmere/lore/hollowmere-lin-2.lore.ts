@@ -85,5 +85,21 @@ export const hollowmereLin2 = {
         "character-other/hollowmere-lin",
       ],
     },
+    {
+      fact: "Lin's mother wrote back: her father read the letter twice, and they will talk properly at Christmas.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/hollowmere-lin",
+        "character-player/hollowmere-nala",
+      ],
+    },
+    {
+      fact: "At the end of her mother's reply, in Cantonese, is one line: Draw well. We are proud.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/hollowmere-lin",
+        "character-player/hollowmere-nala",
+      ],
+    },
   ],
 } as const satisfies Lore
