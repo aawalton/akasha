@@ -4,6 +4,7 @@ export const overwhereI00098 = {
   id: "01a0ff08-6610-7452-a7d9-71a525968fb0",
   type: "page-type/story-turn-played",
   slug: "overwhere-i-00-098",
+  cover: "image/image-100b400ca1bbb17a",
   ownLength: 438,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-i"],
@@ -14,7 +15,7 @@ export const overwhereI00098 = {
     "character-other/overwhere-i-harl-voss",
     "character-other/overwhere-i-ghost-eye",
   ],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action:
     "I sit and tell her about the wolves and the bandits, presenting the ears, the tags, and the heads as proof.",
   beats: [
@@ -36,6 +37,12 @@ export const overwhereI00098 = {
     "place/overwhere-i-wendlow",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/memory", "story-recorder/mechanics"],
+  recordedBy: [
+    "story-recorder/inventory",
+    "story-recorder/memory",
+    "story-recorder/mechanics",
+    "story-recorder/picture",
+  ],
   endsAt: "2026-10-05T12:17:00.000Z",
+  coverAfter: "She puts the lid back. She goes behind the counter again and looks at you,",
 } as const satisfies StoryTurnPlayed
