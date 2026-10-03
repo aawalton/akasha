@@ -1,10 +1,10 @@
 import type { Lore } from "akasha/story/lore/lore.page-type.types.ts"
 
-export const overwhereIvTheTangle22 = {
+export const overwhereIvTheTangle3 = {
   id: "01a10181-07a7-7895-9922-43996f006fc2",
   type: "page-type/lore",
-  slug: "overwhere-iv-the-tangle-2-2",
-  title: "The Tangle, continued, continued",
+  slug: "overwhere-iv-the-tangle-3",
+  title: "The Tangle, continued",
   world: "world/syl-a-slime-monster-evolution-litrpg",
   about: "place/overwhere-iv-the-tangle",
   facts: [

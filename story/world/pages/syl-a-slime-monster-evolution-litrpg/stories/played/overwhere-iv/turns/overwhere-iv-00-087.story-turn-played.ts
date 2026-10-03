@@ -33,7 +33,7 @@ export const overwhereIv00087 = {
     "lore/overwhere-iv-nala-2",
     "lore/overwhere-iv-nala-3",
     "lore/overwhere-iv-the-tangle-2",
-    "lore/overwhere-iv-the-tangle-2-2",
+    "lore/overwhere-iv-the-tangle-3",
     "place/overwhere-iv-millbrook-adventurers-hall",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
