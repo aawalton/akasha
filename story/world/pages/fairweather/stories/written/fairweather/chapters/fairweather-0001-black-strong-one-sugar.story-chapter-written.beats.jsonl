@@ -11,10 +11,10 @@
 {"beat":11,"event":"She chats with the shaking boy ahead of her, learns his sister's name, and promises he'll be fine."}
 {"beat":12,"event":"The priestess calls names; windows open in the air, Baker, Bargeman, Scribe, and the hall claps."}
 {"beat":13,"event":"The priestess calls Elsie Fairweather, and she steps alone into the silver circle in the floor."}
-{"beat":14,"event":"The window opens above her, large enough for the whole hall to read: her name, and Enthraller."}
+{"beat":14,"event":"The window opens above her, large enough for the whole hall to read: her name, and Enthraller.","changes":[{"page":"character-class/fairweather-elsie-enthraller","note":"Class: Enthraller, shown to the whole Hall of Naming","key":"unrevealed","from":true,"to":false}]}
 {"beat":15,"event":"The hall goes silent; somebody drops a hymn book, and the line behind her steps back as one."}
 {"beat":16,"event":"Elsie reads it twice and tells the priestess, \"Oh! That sounds like a lot of responsibility.\""}
-{"beat":17,"event":"Her own window opens when she wishes it: level 1, Captivate, Tether. No healer's anything."}
+{"beat":17,"event":"Her own window opens when she wishes it: level 1, Captivate, Tether. No healer's anything.","changes":[{"page":"metric-character-level/fairweather-elsie","note":"Elsie's window: Level 1","key":"unrevealed","from":true,"to":false}]}
 {"beat":18,"event":"The priestess, voice shaking, tells her she must go to the guild hall today; it is the law."}
 {"beat":19,"event":"Walking out, Elsie hears the whispers: Vesper Locke, the War of Strings. Her smile wobbles once."}
 {"beat":20,"event":"On the hall steps she hugs her satchel and decides the class will just have to be kind."}
@@ -89,6 +89,6 @@
 {"beat":89,"event":"In her notebook: Tamsin, axe called Margery. Tilly, goggles. Cora: black, strong, one sugar."}
 {"beat":90,"event":"She writes to her mother: not a healer's class, but she has friends already, so please don't worry."}
 {"beat":91,"event":"She cries a little over the letter, then smiles, and signs it with a flower."}
-{"beat":92,"event":"She wishes her window open; under Bonds, where nothing stood this morning, are Tamsin and Tilly."}
+{"beat":92,"event":"She wishes her window open; under Bonds, where nothing stood this morning, are Tamsin and Tilly.","changes":[{"page":"world-relationship/fairweather-elsie-tamsin","note":"New bond: Tamsin 15 (judged: tended hands, party, hug, held hand at supper)","make":{"title":"Elsie and Tamsin","world":"world/fairweather","characters":["character-player/fairweather-elsie","character-other/fairweather-tamsin"],"relationshipPoints":15}},{"page":"world-relationship/fairweather-elsie-tilly","note":"New bond: Tilly 10 (judged: soot wiped, party, promise about her father)","make":{"title":"Elsie and Tilly","world":"world/fairweather","characters":["character-player/fairweather-elsie","character-other/fairweather-tilly"],"relationshipPoints":10}}]}
 {"beat":93,"event":"She doesn't know what the numbers mean; she touches each name and says goodnight to them."}
 {"beat":94,"event":"Elsie falls asleep with the window open over Thimble Canal, lantern light swaying on the ceiling."}
