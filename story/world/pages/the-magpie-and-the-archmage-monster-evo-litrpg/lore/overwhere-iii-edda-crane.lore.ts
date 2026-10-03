@@ -94,5 +94,9 @@ export const overwhereIiiEddaCrane = {
       fact: "Edda keeps a two-wheeled charcoal barrow at her clearing, a quarter mile off by the south road.",
       knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-edda-crane"],
     },
+    {
+      fact: "Too small to carry a grown girl, Edda fetches her barrow and wheels her down the south road.",
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-edda-crane"],
+    },
   ],
 } as const satisfies Lore
