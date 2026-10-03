@@ -29,7 +29,7 @@ export const overwhereIiWhitecombs2 = {
     },
     {
       fact: "Beads parted from the pool run together into one; a thread of her tide holds the whole of it.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "A whole greymaw chamber holds the black parted from about a barrel of pool water.",
