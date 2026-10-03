@@ -15,7 +15,7 @@ export const overwhereIii00086 = {
     "character-other/overwhere-iii-marda-hesk",
     "character-other/overwhere-iii-mother-sallow",
   ],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/game-master",
   action: "“Let’s go there together, now.”",
   beats: [
     '"Let\'s go there together, now."',
@@ -44,6 +44,6 @@ export const overwhereIii00086 = {
     "lore/overwhere-iii-night-order",
     "place/overwhere-iii-the-hollow",
   ],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
   endsAt: "2026-10-08T17:30:00.000Z",
 } as const satisfies StoryTurnPlayed
