@@ -6,7 +6,7 @@ export const otherwhereXHobCrane = {
   slug: "otherwhere-x-hob-crane",
   title: "Hob Crane",
   world: "world/twelve-steps-to-transcendence-a-skill-grinding-litrpg",
-  about: "world-character/otherwhere-x-hob-crane",
+  about: "character-other/otherwhere-x-hob-crane",
   facts: [
     {
       fact: "Aldous's son Hob, ten, herds the village geese, talks without stopping and fears nothing.",
