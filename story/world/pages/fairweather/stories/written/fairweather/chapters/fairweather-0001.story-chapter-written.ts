@@ -142,6 +142,10 @@ export const fairweather0001 = {
     },
   ],
   beatChanges: "jsonl",
+  mechanicsIssues: [
+    "beat 44: Tamsin knows Elsie's class, but no beat since she arrived in 37 shows her learning it",
+    "beat 71: Tilly wondered if the class moved her, but no beat shows her learning Elsie's class",
+  ],
   lore: [
     "lore/fairweather-cora",
     "lore/fairweather-elsie",
@@ -153,5 +157,5 @@ export const fairweather0001 = {
     "place/fairweather-honeycomb",
     "place/fairweather-lanternmere",
   ],
-  recordedBy: ["story-recorder/inventory"],
+  recordedBy: ["story-recorder/inventory", "story-recorder/plan"],
 } as const satisfies StoryChapterWritten
