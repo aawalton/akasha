@@ -273,7 +273,7 @@ export const overwhereIStarfallLegacy2 = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
-      fact: "A stunned beast can neither strike nor flee; its stun ends at once if lightning hurts it again.",
+      fact: "A stunned beast can neither strike nor flee; lightning landing again does not lengthen the stun.",
       knowers: ["lore-disclosure/game-master"],
     },
     {
