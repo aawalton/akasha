@@ -26,11 +26,13 @@ export const overwhereI00101 = {
     "\"Two hours' walk down the Wend. Level 18, by the bargemen's tales; that's all anyone has of it.\"",
     'Grete taps the slips with a scarred finger. "First call\'s yours, Nala Arthur. Which one?"',
   ],
+  issues: ['"from Antler Hall" - What It Is'],
   lore: [
     "lore/overwhere-i-nala",
     "lore/overwhere-i-nala-2",
     "lore/overwhere-i-the-system-2",
     "place/overwhere-i-wendlow",
   ],
+  reviewedBy: ["story-reviewer/continuity"],
   endsAt: "2026-10-05T12:35:00.000Z",
 } as const satisfies StoryTurnPlayed
