@@ -11,4 +11,5 @@ export const overwhereIi00094 = {
   action:
     "I fight defensively, like I did against Dray, waiting for the right moment to use my Talent in a surprising way to force an opening.",
   lore: ["lore/overwhere-ii-varrow-talented", "place/overwhere-ii-varrow-keep"],
+  endsAt: "2026-10-22T07:05:00.000Z",
 } as const satisfies StoryTurnPlayed
