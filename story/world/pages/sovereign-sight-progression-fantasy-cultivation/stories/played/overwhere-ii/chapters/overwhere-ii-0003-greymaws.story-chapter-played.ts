@@ -10,6 +10,7 @@ export const overwhereIi0003Greymaws = {
   story: "story-played/overwhere-ii",
   ownLength: 2339,
   prose: "txt",
+  beats: "jsonl",
   turnCovers: [
     {
       position: 19,
