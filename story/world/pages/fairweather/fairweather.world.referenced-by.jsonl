@@ -35,10 +35,14 @@
 {"propertySlug":"world","path":"story/world/pages/fairweather/stories/written/fairweather/mechanics/relationships/fairweather-elsie-tamsin.world-relationship.ts","id":"01a10321-4a85-7a65-973b-6efff5607ff2"}
 {"propertySlug":"world","path":"story/world/pages/fairweather/stories/written/fairweather/mechanics/relationships/fairweather-elsie-tilly.world-relationship.ts","id":"01a10321-4a85-748a-b3d0-6471dc34d87c"}
 {"propertySlug":"world","path":"story/world/pages/fairweather/stories/written/fairweather/mechanics/skills/fairweather-belong.world-skill.ts","id":"01a1021a-2799-750b-9798-7685c21ff43b"}
+{"propertySlug":"world","path":"story/world/pages/fairweather/stories/written/fairweather/mechanics/skills/fairweather-brew.world-skill.ts","id":"01a10363-fe42-73e7-912d-1cb12bbcd064"}
 {"propertySlug":"world","path":"story/world/pages/fairweather/stories/written/fairweather/mechanics/skills/fairweather-call.world-skill.ts","id":"01a1021a-bf13-7bcb-aeb6-5667a5d348ff"}
 {"propertySlug":"world","path":"story/world/pages/fairweather/stories/written/fairweather/mechanics/skills/fairweather-captivate.world-skill.ts","id":"01a10218-8a63-771f-8524-6d25b57b59b6"}
 {"propertySlug":"world","path":"story/world/pages/fairweather/stories/written/fairweather/mechanics/skills/fairweather-claim.world-skill.ts","id":"01a10219-9aae-7ae3-89ca-90a3db69c6cc"}
+{"propertySlug":"world","path":"story/world/pages/fairweather/stories/written/fairweather/mechanics/skills/fairweather-cleave.world-skill.ts","id":"01a10363-fe42-7ac7-a1cf-7198e41c63ae"}
 {"propertySlug":"world","path":"story/world/pages/fairweather/stories/written/fairweather/mechanics/skills/fairweather-devotion.world-skill.ts","id":"01a1021b-0e9d-74c5-b4f4-9c034c3f08ad"}
+{"propertySlug":"world","path":"story/world/pages/fairweather/stories/written/fairweather/mechanics/skills/fairweather-distil.world-skill.ts","id":"01a10363-fe43-7ef9-938f-34285a9c408d"}
+{"propertySlug":"world","path":"story/world/pages/fairweather/stories/written/fairweather/mechanics/skills/fairweather-endure.world-skill.ts","id":"01a10363-fe43-723a-add8-3eb25e7d9cd1"}
 {"propertySlug":"world","path":"story/world/pages/fairweather/stories/written/fairweather/mechanics/skills/fairweather-frenzy.world-skill.ts","id":"01a102af-305c-7fb5-a1c2-6ec05c22166d"}
 {"propertySlug":"world","path":"story/world/pages/fairweather/stories/written/fairweather/mechanics/skills/fairweather-hold.world-skill.ts","id":"01a10218-e04a-7472-9977-710555456f98"}
 {"propertySlug":"world","path":"story/world/pages/fairweather/stories/written/fairweather/mechanics/skills/fairweather-keep.world-skill.ts","id":"01a10219-3a23-7a98-9a5c-4bb210ad0bcc"}
