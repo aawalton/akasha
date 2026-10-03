@@ -191,7 +191,7 @@ export const overwhereIiiCorruption2 = {
     },
     {
       fact: "With its pack dead, the last kiln jackalope bolts for the stumps and its burrow under them.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
   ],
 } as const satisfies Lore
