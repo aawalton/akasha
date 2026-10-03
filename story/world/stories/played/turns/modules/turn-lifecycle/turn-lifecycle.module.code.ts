@@ -7,6 +7,7 @@ import { worldBuilder } from "akasha/story/chapter/step-status/pages/world-build
 import { writer } from "akasha/story/chapter/step-status/pages/writer.step-status.ts"
 import { stepStatus } from "akasha/story/chapter/step-status/step-status.page-type.ts"
 import type { BeatChange } from "akasha/story/engine/beat-state/modules/beat-changes/beat-changes.module.code.ts"
+import type { Memory } from "akasha/story/engine/beat-state/modules/beat-memory/beat-memory.module.code.ts"
 import type { BeatScene } from "akasha/story/engine/beat-state/modules/beat-replay/beat-replay.module.code.ts"
 
 const TURN_STEPS = [
@@ -65,6 +66,7 @@ export type Handed =
       readonly recorder: string
       readonly changes?: readonly BeatChange[]
       readonly issues?: readonly string[]
+      readonly memory?: readonly Memory[]
     }
 
 export type Noun = "turn" | "chapter"
@@ -85,6 +87,7 @@ export type Held = {
   readonly beats?: number
   readonly mechanicsIssues?: readonly string[]
   readonly changes?: readonly BeatChange[]
+  readonly memory?: readonly Memory[]
 }
 
 export type Caller = { readonly role: string | null; readonly game: string | null }
@@ -99,6 +102,7 @@ export type Moved = {
   readonly values: Readonly<Record<string, unknown>>
   readonly prose: string | null
   readonly changes: string | null
+  readonly memory: string | null
   readonly starts: readonly Start[]
   readonly stopsCaller: boolean
   readonly landsKept: boolean

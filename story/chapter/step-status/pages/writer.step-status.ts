@@ -13,7 +13,7 @@ export const writer = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The writer records the prose and advances a turn not yet reviewed to reviewers.",
+      statement: "The writer records the prose and advances the turn to recorders.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -22,11 +22,7 @@ export const writer = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The writer advances a reviewed turn to recorders.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A turn with no story recorder advances to player where it would go to recorders.",
+      statement: "A turn with no story recorder goes on to reviewers, or to player once reviewed.",
     },
   ],
 } as const satisfies StepStatus

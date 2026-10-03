@@ -19,8 +19,10 @@ import {
 } from "akasha/command/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
 import { repointed } from "akasha/command/modules/edits-repointing/edits-repointing.module.code.ts"
+import { rootReading } from "akasha/command/pages/story/tell/story-tell.command.code.ts"
 import { lengthRefused } from "akasha/command/pages/story/turn/advance/modules/chapter-length/chapter-length.module.code.ts"
 import {
+  bodiesOf,
   type Changing,
   cacheNamed,
   changesChecked,
@@ -40,6 +42,10 @@ import {
   taken,
   titledOf,
 } from "akasha/command/pages/story/turn/advance/modules/turn-handing/turn-handing.module.code.ts"
+import {
+  memoryHeld,
+  memorySettled,
+} from "akasha/command/pages/story/turn/advance/modules/turn-memory/turn-memory.module.code.ts"
 import {
   cachedOf,
   type Scening,
@@ -85,17 +91,12 @@ import {
   GAME_MASTER,
   type Held,
   MECHANICS,
-  type Moved,
   type TurnStep,
   WORLD_BUILDER,
 } from "akasha/story/world/stories/played/turns/modules/turn-lifecycle/turn-lifecycle.module.code.ts"
 import { storyTurnPlayed } from "akasha/story/world/stories/played/turns/story-turn-played.page-type.ts"
 import { storyChapterWritten } from "akasha/story/world/stories/written/chapters/story-chapter-written.page-type.ts"
 import { storyWritten } from "akasha/story/world/stories/written/story-written.page-type.ts"
-
-const PROSE = "prose"
-
-const CHANGES = "beatChanges"
 
 const PARTED = "/"
 
@@ -126,13 +127,6 @@ function phaseTimed(root: string, ended: Ended, agentId: string | null): undefin
     return undefined
   }
   return undefined
-}
-
-function bodiesOf(said: Moved): { readonly bodies?: { readonly [key: string]: string } } {
-  const bodies: { [key: string]: string } = {}
-  if (said.prose !== null) bodies[PROSE] = said.prose
-  if (said.changes !== null) bodies[CHANGES] = said.changes
-  return Object.keys(bodies).length === 0 ? {} : { bodies }
 }
 
 function stepAt(reach: Reach, root: string, read: Taken, slug: string): Turn | null {
@@ -220,7 +214,8 @@ async function heldOn(
   if (turn === null) return refused(unplaced(read), DATA)
   const stated = heldOf(turn)
   if ("refused" in stated) return refused(stated.refused, DATA)
-  const held = { ...stated, changes: changesHeld(turn, (path) => reach.textIn(given.root, path)) }
+  const textOf = (path: string) => reach.textIn(given.root, path)
+  const held = { ...stated, changes: changesHeld(turn, textOf), memory: memoryHeld(turn, textOf) }
   const seat = reach.seatOf(given.root, given.agentId)
   const caller: Caller = seat ?? { role: null, game: null }
   const reviewers = reach.reviewersIn(given.root)
@@ -235,6 +230,8 @@ async function heldOn(
   const reading = reach.changing(given.root)
   const unchanged = changesChecked(reading, held, read.handed)
   if (unchanged !== null) return refused(unchanged, DATA)
+  const telling = memorySettled(rootReading(given.root), held, read.handed, said.status)
+  if ("refused" in telling) return refused(telling.refused, DATA)
   const scened = scenedOf(reach.scenesOf, given.root, held, turn, read.handed)
   if ("refused" in scened) return refused(scened.refused, DATA)
   const timedTurn = { ...turn, value: { ...turn.value, ...scened.values } }
@@ -255,7 +252,6 @@ async function heldOn(
   const lifted = liftedFrom(turn, kept, () => reach.textIn(given.root, turn.at))
   if ("refused" in lifted) return back([lifted.refused])
   const own = kept.filter((one) => !lifted.rest.includes(one))
-  const textOf = (path: string) => reach.textIn(given.root, path)
   const recast = read.handed.kind === "prose" ? {} : castKept(turn, cast, textOf, admitted)
   const inPlay = reach.loreGathered(given.root, turn, { ...recast, ...said.values })
   const titled = read.title === undefined ? {} : { [TITLE]: read.title }
@@ -283,7 +279,7 @@ async function heldOn(
   if ("refused" in cached) return back([cached.refused])
   const renamed = renamedOf(read, slug, held.game)
   const renaming = renamed === null ? [] : [{ at: RENAME, given: { at: turn.at, to: renamed } }]
-  const asking = [...folded, ...cached, ...renaming]
+  const asking = [...folded, ...cached, ...telling, ...renaming]
   const now =
     renamed === null
       ? { slug, at: turn.at }

@@ -94,22 +94,11 @@ test("the last reviewer sends a turn with issues back to the game master", () =>
   expect(said.stopsCaller).toBe(true)
 })
 
-test("the last reviewer sends a written turn with no issues on to the recorders, starting each", () => {
+test("a clean review of a turn its recorders never ran on starts them", () => {
   const held = heldAt("reviewers", { reviewedBy: [VOICE], written: true })
   const found = { kind: "review", reviewer: continuity.slug, issues: [] } as const
   const said = movedOf(advanced(held, REVIEWER, found, TWO))
-  expect(said.status).toBe("recorders")
-  expect(said.values).toEqual({
-    stepStatus: at("recorders"),
-    reviewedBy: [by(VOICE), by(continuity.slug)],
-  })
-  expect(said.prose).toBeNull()
-  expect(said.starts).toEqual([
-    { kind: "recorder", recorder: memory.slug },
-    { kind: "recorder", recorder: CAST },
-  ])
-  expect(said.stopsCaller).toBe(true)
-  expect(said.landsKept).toBe(false)
+  expect([said.status, said.starts.length, said.stopsCaller]).toEqual(["recorders", 2, true])
 })
 
 test("with no story recorder the last clean reviewer sends the turn to the player", () => {
@@ -140,8 +129,8 @@ test("a reviewer no page names is refused", () => {
   expect(refusalOf(advanced(heldAt("reviewers"), REVIEWER, found, TWO))).toContain("taste")
 })
 
-test("the writer's first prose moves the turn to the reviewers, starting one seat for each", () => {
-  const said = movedOf(advanced(heldAt("writer"), WRITER, PROSE, TWO))
+test("with no recorder to run, the writer's prose moves the turn to the reviewers", () => {
+  const said = movedOf(advanced(heldAt("writer"), WRITER, PROSE, TWO, []))
   expect(said.status).toBe("reviewers")
   expect(said.prose).toBe("Mara opens the gate.\n")
   expect(said.values).toEqual({
@@ -158,16 +147,10 @@ test("the writer's first prose moves the turn to the reviewers, starting one sea
   expect(said.landsKept).toBe(false)
 })
 
-test("the writer's prose on a reviewed turn skips the reviewers for the recorders", () => {
-  const held = heldAt("writer", { reviewedBy: TWO, issues: ["a fault"], written: true })
-  const said = movedOf(advanced(held, WRITER, PROSE, TWO))
+test("the writer's prose goes to the recorders, starting one seat for each", () => {
+  const said = movedOf(advanced(heldAt("writer"), WRITER, PROSE, TWO))
   expect(said.status).toBe("recorders")
-  expect(said.prose).toBe("Mara opens the gate.\n")
-  expect(said.starts).toEqual([
-    { kind: "recorder", recorder: memory.slug },
-    { kind: "recorder", recorder: CAST },
-  ])
-  expect(said.stopsCaller).toBe(false)
+  expect(said.starts.map((one) => one.kind)).toEqual(["recorder", "recorder"])
 })
 
 test("with no story reviewer the writer's prose goes to the recorders, or to the player with none", () => {
@@ -179,19 +162,13 @@ test("with no story reviewer the writer's prose goes to the recorders, or to the
   expect(said.landsKept).toBe(false)
 })
 
-test("a turn with issues goes game master, writer, then recorders, and is reviewed once", () => {
-  const found = { kind: "review", reviewer: continuity.slug, issues: ["a fault"] } as const
+test("a mended turn goes writer, recorders, then player, reviewed once", () => {
   const reviewed = { reviewedBy: TWO, issues: ["a fault"], written: true }
-  const back = movedOf(
-    advanced(heldAt("reviewers", { ...reviewed, reviewedBy: [VOICE] }), REVIEWER, found, TWO)
-  )
-  expect(back.status).toBe("game-master")
-  const beats = { kind: "beats", beats: ["mended"] } as const
-  const mended = movedOf(advanced(heldAt(back.status, reviewed), MASTER, beats, TWO))
-  expect(mended.status).toBe("writer")
-  const rewritten = movedOf(advanced(heldAt(mended.status, reviewed), WRITER, PROSE, TWO))
+  const rewritten = movedOf(advanced(heldAt("writer", reviewed), WRITER, PROSE, TWO))
   expect(rewritten.status).toBe("recorders")
-  expect(rewritten.starts.map((one) => one.kind)).toEqual(["recorder", "recorder"])
+  const done = heldAt("recorders", { ...reviewed, recordedBy: [CAST] })
+  const on = movedOf(advanced(done, RECORDER, { kind: "record", recorder: memory.slug }, TWO))
+  expect(on.status).toBe("player")
 })
 
 test("a recorder that is not the last names itself, keeps the turn with the recorders and lands its own edits", () => {
@@ -205,8 +182,16 @@ test("a recorder that is not the last names itself, keeps the turn with the reco
   expect(said.landsKept).toBe(true)
 })
 
-test("the last recorder moves the turn to the player, landing its own edits", () => {
-  const held = heldAt("recorders", { recordedBy: [CAST] })
+test("the last recorder sends an unreviewed turn to the reviewers, starting each", () => {
+  const held = heldAt("recorders", { recordedBy: [CAST], written: true })
+  const said = movedOf(advanced(held, RECORDER, { kind: "record", recorder: memory.slug }, TWO))
+  expect(said.status).toBe("reviewers")
+  expect(said.starts.map((one) => one.kind)).toEqual(["reviewer", "reviewer"])
+  expect(said.landsKept).toBe(true)
+})
+
+test("the last recorder of a reviewed turn moves it to the player, landing its own edits", () => {
+  const held = heldAt("recorders", { recordedBy: [CAST], reviewedBy: TWO })
   const said = movedOf(advanced(held, RECORDER, { kind: "record", recorder: memory.slug }, TWO))
   expect(said.status).toBe("player")
   expect(said.values).toEqual({
@@ -277,7 +262,7 @@ test("prose naming a character of the story its advance leaves out is refused, t
   for (const held of [heldAt("writer"), chapter]) {
     const said = refusalOf(advanced(held, WRITER, named, TWO, undefined, cast))
     expect(said).toContain("character-other/ceri")
-    expect(movedOf(advanced(held, WRITER, PROSE, TWO, undefined, cast)).status).toBe("reviewers")
+    expect(movedOf(advanced(held, WRITER, PROSE, TWO, undefined, cast)).status).toBe("recorders")
   }
 })
 
@@ -315,7 +300,21 @@ test("a turn written before its mechanics ran has them after its prose, then goe
   expect(movedOf(stepping(heldAt("writer"), WRITER, PROSE)).status).toBe("mechanics")
   const held = heldAt("mechanics", { beats: 1, written: true, recordedBy: ["inventory"] })
   const on = movedOf(stepping(held, RECORDER, { kind: "record", recorder: "mechanics" }))
-  expect(on.status).toBe("reviewers")
+  expect(on.status).toBe("recorders")
+})
+
+const LEARNS = { beat: 1, page: "lore/a", fact: "It is deep.", learns: "character-player/mara" }
+
+test("memory is kept beside the turn at recorders, refused at mechanics, emptied by a rerun", () => {
+  const record = { kind: "record", recorder: memory.slug, memory: [LEARNS] } as const
+  const said = movedOf(stepping(heldAt("recorders", { beats: 1 }), RECORDER, record))
+  expect(said.memory).toBe(`${JSON.stringify(LEARNS)}\n`)
+  const early = { ...record, recorder: "mechanics" }
+  expect(refusalOf(stepping(heldAt("mechanics"), RECORDER, early))).toContain("at recorders")
+  const rerun = movedOf(
+    stepping(heldAt("game-master", { memory: [LEARNS] }), MASTER, { kind: "beats", beats: ["a"] })
+  )
+  expect(rerun.memory).toBe("")
 })
 
 test("the after-prose recorders alone finish a turn, and only mechanics takes changes", () => {

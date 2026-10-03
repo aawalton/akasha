@@ -6,6 +6,7 @@ import { valueAt } from "akasha/page/modules/value/page-value.module.code.ts"
 import { slugOf } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 import type { Naming } from "akasha/page/service/modules/page-composing/page-composing.module.code.ts"
 import { beatChanges } from "akasha/story/chapter/properties/beat-changes.file-property.ts"
+import { beatMemory } from "akasha/story/chapter/properties/beat-memory.file-property.ts"
 import {
   type BeatChange,
   cachedOf,
@@ -20,11 +21,16 @@ import {
   type Held,
   linesIn,
   MECHANICS,
+  type Moved,
   PLAYER,
   type TurnStep,
 } from "akasha/story/world/stories/played/turns/modules/turn-lifecycle/turn-lifecycle.module.code.ts"
 
 const CHANGES = exportedAs(beatChanges.propertySlug)
+
+const MEMORY = exportedAs(beatMemory.propertySlug)
+
+const PROSE = "prose"
 
 type Refused = { readonly refused: string }
 
@@ -41,6 +47,14 @@ export function changesHeld(turn: Turn, textOf: (path: string) => string): reado
   } catch {
     return []
   }
+}
+
+export function bodiesOf(said: Moved): { readonly bodies?: { readonly [key: string]: string } } {
+  const bodies: { [key: string]: string } = {}
+  if (said.prose !== null) bodies[PROSE] = said.prose
+  if (said.changes !== null) bodies[CHANGES] = said.changes
+  if (said.memory !== null) bodies[MEMORY] = said.memory
+  return Object.keys(bodies).length === 0 ? {} : { bodies }
 }
 
 export function changesIndexed(root: string): Reading {

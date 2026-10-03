@@ -22,8 +22,16 @@ export const turnAdvancing = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A game master's advance empties the turn's changes and memory for a fresh run.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement:
         "A game master's advance clears who recorded the turn, so every recorder runs again.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "After the prose a turn goes to recorders, then to reviewers, then to player.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -35,11 +43,13 @@ export const turnAdvancing = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The writer's advance goes to reviewers while any story reviewer has not run.",
+      statement:
+        "The recorder completing the set moves the turn to reviewers, or to player once reviewed.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The writer's advance on a reviewed turn goes to recorders.",
+      statement:
+        "A memory recorder's memory is merged in beat order with the turn's memory so far.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -51,15 +61,16 @@ export const turnAdvancing = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A turn the last reviewer finds no issue in goes to recorders.",
+      statement:
+        "A turn is reviewed once, so a rerun after its review goes on to player unreviewed.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A clean review of a turn its recorders never ran on sends it to recorders.",
     },
     {
       decisionKind: "decision-kind/stopgap",
       statement: "A reviewed turn with no prose yet goes to writer rather than recorders.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A move to recorders goes to player where no story recorder is.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -68,10 +79,6 @@ export const turnAdvancing = {
     {
       decisionKind: "decision-kind/departure",
       statement: "The writer's seat outlives its advance, as the game master's does.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "The recorder completing the set moves the turn to player.",
     },
     {
       decisionKind: "decision-kind/departure",

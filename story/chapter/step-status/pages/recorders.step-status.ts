@@ -5,11 +5,11 @@ export const recorders = {
   type: "page-type/step-status",
   slug: "recorders",
   title: "Recorders",
-  definition: "the recorders' move, writing into pages what a turn's prose changed",
+  definition: "the recorders' move, recording what a turn's prose settled, before its review",
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "One fresh agent runs for each story recorder page.",
+      statement: "One fresh agent runs for each story recorder whose step is recorders.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -17,11 +17,15 @@ export const recorders = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The last recorder to finish advances the turn to player.",
+      statement: "The memory recorder hands in its memory as a file, and drafts no telling.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "Every recorder's edits land with the move to player, in one commit.",
+      statement: "The last recorder advances the turn to reviewers, or to player once reviewed.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Each recorder's drafted edits land with its own advance.",
     },
     {
       decisionKind: "decision-kind/departure",

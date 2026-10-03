@@ -5,7 +5,7 @@ export const reviewers = {
   type: "page-type/step-status",
   slug: "reviewers",
   title: "Reviewers",
-  definition: "the reviewers' move, checking a turn's beats and prose",
+  definition: "the reviewers' move, checking a turn's beats, prose and what was recorded of it",
   decisions: [
     {
       decisionKind: "decision-kind/departure",
@@ -25,8 +25,7 @@ export const reviewers = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement:
-        "A turn with no issues advances to recorders, or to player with no story recorder.",
+      statement: "A turn with no issues advances to player, its recorders having run.",
     },
   ],
 } as const satisfies StepStatus

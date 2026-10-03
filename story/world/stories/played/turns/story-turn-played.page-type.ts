@@ -82,16 +82,16 @@ export const storyTurnPlayed = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "A turn moves through world-builder, game-master, writer, reviewers, recorders and player.",
+        "A turn moves through world-builder, game-master, mechanics, writer, recorders, reviewers, player.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The reviewers check a turn's beats and its prose together.",
+      statement: "The reviewers check a turn's beats, its prose and what was recorded of it.",
     },
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "A turn the reviewers find issues in goes back to game-master, then writer, then recorders.",
+        "A turn the reviewers find issues in runs again from game-master, through every step after it.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -107,7 +107,7 @@ export const storyTurnPlayed = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A turn reaches player only once every recorder's edits have landed.",
+      statement: "A turn's changes and memory reach their pages in its move to player.",
     },
     {
       decisionKind: "decision-kind/departure",

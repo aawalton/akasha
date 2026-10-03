@@ -124,7 +124,7 @@ function shapedUnder(root: string): (path: string, text: string) => string {
     new TextDecoder().decode(formattedBody(root, path, new TextEncoder().encode(text)).body)
 }
 
-function rootReading(root: string): Reading {
+export function rootReading(root: string): Reading {
   return {
     listedAt: (pageTypeSlug, slug) => listedAt(root, pageTypeSlug, slug),
     valueAt: (path) => valueByPath(root, path),

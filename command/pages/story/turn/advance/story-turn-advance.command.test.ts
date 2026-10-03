@@ -144,7 +144,7 @@ test("the writer's first prose lands beside the turn and starts one fresh seat f
   const into = seen()
   const answer = await advancedBy(
     WRITTEN,
-    reachOver(turnAt("writer"), seatOf("writer", WRITER), into)
+    reachOver(turnAt("writer"), seatOf("writer", WRITER), into, [])
   )
   expect(answer.refusals).toEqual([])
   expect(into.folded[0]?.values).toEqual({
@@ -243,7 +243,7 @@ test("each recorder lands only its own edits, so nothing kept waits for a later 
 
 test("the last recorder lands its drafted edits with the move to player in one landing", async () => {
   const into = seen()
-  const turn = turnAt("recorders", { recordedBy: ["story-recorder/cast"] })
+  const turn = turnAt("recorders", { recordedBy: ["story-recorder/cast"], reviewedBy: REVIEWED })
   const answer = await advancedBy(
     ["--recorder", "memory"],
     reachOver(turn, seatOf("story-recorder", RECORDER_SEAT), into),
@@ -264,7 +264,7 @@ test("the last recorder lands its drafted edits with the move to player in one l
 
 test("a recorder's kept edit to the turn's own page is folded into the move to player", async () => {
   const into = seen()
-  const turn = turnAt("recorders", { recordedBy: ["story-recorder/cast"] })
+  const turn = turnAt("recorders", { recordedBy: ["story-recorder/cast"], reviewedBy: REVIEWED })
   const reach = {
     ...reachOver(turn, seatOf("story-recorder", RECORDER_SEAT), into),
     kept: () => [...DRAFTED, ENDED],
@@ -351,7 +351,7 @@ test("a titled chapter is renamed after its title", async () => {
   expect(into.folded[0]?.values["title"]).toBe("The Gate")
   expect(given).toEqual([{ at: CHAPTER_AT, to: "the-saga-0002-the-gate" }])
   expect(answer.report).toContain(`renamed\t${renamed}`)
-  expect(into.notices[0]).toContain(`The chapter \`${renamed}\` is at reviewers.`)
+  expect(into.notices[0]).toContain(`The chapter \`${renamed}\` is at recorders.`)
   expect(runs).toEqual(["the-saga-0002"])
 })
 

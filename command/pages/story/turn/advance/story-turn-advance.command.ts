@@ -17,6 +17,7 @@ export const storyTurnAdvance = {
     "module/chapter-length",
     "module/turn-scenes",
     "module/turn-changes",
+    "module/turn-memory",
   ],
   decisions: [
     {
@@ -68,6 +69,14 @@ export const storyTurnAdvance = {
     {
       decisionKind: "decision-kind/departure",
       statement: "The move to player writes the turn's changes onto their pages in its landing.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A memory recorder's memory is checked against the lore before it lands.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The move to player tells the lore the turn's memory in its landing.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -183,6 +192,7 @@ export const storyTurnAdvance = {
     { argument: "argument/character", repeats: true },
     { argument: "argument/recorder" },
     { argument: "argument/changes-file" },
+    { argument: "argument/memory-file" },
     { argument: "argument/title" },
   ],
 } as const satisfies Command

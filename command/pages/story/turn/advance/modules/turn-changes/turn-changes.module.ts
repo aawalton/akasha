@@ -24,5 +24,9 @@ export const turnChanges = {
       decisionKind: "decision-kind/departure",
       statement: "The move to player writes every change onto its page, in the one landing.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A move writes its prose, its changes and its memory as files beside the turn.",
+    },
   ],
 } as const satisfies Module

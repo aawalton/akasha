@@ -67,7 +67,7 @@ export const storyChapterWritten = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "A chapter moves as a turn does: world-builder, game-master, writer, reviewers, recorders, player.",
+        "A chapter moves as a turn does, from world-builder through mechanics, recorders and reviewers.",
     },
     {
       decisionKind: "decision-kind/departure",

@@ -59,6 +59,7 @@
 {"propertySlug":"import","fileName":"page-export-name.module.code.ts","path":"command/pages/story/modules/settle-asking/settle-asking.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-export-name.module.code.ts","path":"command/pages/story/tell/modules/tell-continuing/tell-continuing.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-export-name.module.code.ts","path":"command/pages/story/turn/advance/modules/turn-changes/turn-changes.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"page-export-name.module.code.ts","path":"command/pages/story/turn/advance/modules/turn-memory/turn-memory.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-export-name.module.code.ts","path":"command/pages/story/turn/advance/modules/turn-scenes/turn-scenes.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-export-name.module.code.ts","path":"command/pages/story/turn/advance/modules/turn-timing/turn-timing.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-export-name.module.code.ts","path":"command/pages/temper/catalog/import-lore-books/modules/lore-book-planning/lore-book-planning.module.code.ts","typed":false,"deferred":false}

@@ -2447,6 +2447,7 @@
 {"propertySlug":"decision-kind","path":"command/pages/story/turn/advance/modules/turn-crossed/turn-crossed.module.ts","id":"01a0f429-82b7-7843-80e6-20c2827c77b5"}
 {"propertySlug":"decision-kind","path":"command/pages/story/turn/advance/modules/turn-described/turn-described.module.ts","id":"01a0e96d-d288-76ac-94d2-21b8dd6a0ec1"}
 {"propertySlug":"decision-kind","path":"command/pages/story/turn/advance/modules/turn-handing/turn-handing.module.ts","id":"01a0e949-667e-7c20-a21e-7af61ed6ae8c"}
+{"propertySlug":"decision-kind","path":"command/pages/story/turn/advance/modules/turn-memory/turn-memory.module.ts","id":"01a10292-b21c-717d-b28a-458f7ec0db75"}
 {"propertySlug":"decision-kind","path":"command/pages/story/turn/advance/modules/turn-scenes/turn-scenes.module.ts","id":"01a10246-d64b-738f-a057-bb7eb2c39ee2"}
 {"propertySlug":"decision-kind","path":"command/pages/story/turn/advance/modules/turn-timing/turn-timing.module.ts","id":"01a0ea0c-6c1c-73f4-8e1a-d0369ea6ecd3"}
 {"propertySlug":"decision-kind","path":"command/pages/story/turn/advance/story-turn-advance.command.ts","id":"01a0deca-7611-72a6-9435-385ed7dedb72"}
