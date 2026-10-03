@@ -35,5 +35,6 @@ export const overwhereI00100 = {
     "lore/overwhere-i-the-system-2",
     "place/overwhere-i-wendlow",
   ],
+  reviewedBy: ["story-reviewer/continuity"],
   endsAt: "2026-10-05T12:30:00.000Z",
 } as const satisfies StoryTurnPlayed
