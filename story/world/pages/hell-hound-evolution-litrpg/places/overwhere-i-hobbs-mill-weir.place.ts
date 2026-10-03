@@ -275,5 +275,9 @@ export const overwhereIHobbsMillWeir = {
       fact: "At 11:37 on day 8 Nala's stone spikes ran the Weir Wyrm through, belly to back, and killed it.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
+    {
+      fact: "The dead wyrm hangs pinned on the spikes on the apron's east third, its tail a yard from the water.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+    },
   ],
 } as const satisfies Place
