@@ -223,5 +223,9 @@ export const overwhereINala2 = {
         "lore/overwhere-i-grete-holm",
       ],
     },
+    {
+      fact: "Nala sold Voss's sword and Crow's crossbow to Wil Harrow, and the grubboar tusks to Mother Sallow.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+    },
   ],
 } as const satisfies Lore

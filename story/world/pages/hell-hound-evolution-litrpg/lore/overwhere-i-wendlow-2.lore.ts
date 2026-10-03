@@ -256,5 +256,13 @@ export const overwhereIWendlow2 = {
       fact: "Mother Sallow pays 200 copper for a Weir Wyrm's bile sac brought within a day of the kill.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
+    {
+      fact: "Wil calls Crow's crossbow city work, judging its crank and lath, and wants it.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+    },
+    {
+      fact: "Mother Sallow says old grubboar tusks grind finest.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+    },
   ],
 } as const satisfies Lore
