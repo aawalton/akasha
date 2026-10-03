@@ -269,7 +269,7 @@ export const overwhereIiReeveCorwinDray2 = {
     },
     {
       fact: "Told of the tidepool, Dray bids Hob forge the stakes at once, and asks the Ford for old iron.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Dray pays Hob from the valley purse and will ask Lady Varrow to make it good.",
