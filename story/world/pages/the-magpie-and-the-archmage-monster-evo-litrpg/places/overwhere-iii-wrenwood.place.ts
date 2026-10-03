@@ -262,7 +262,7 @@ export const overwhereIiiWrenwood = {
     },
     {
       fact: "On the shingle no print holds; a sharp eye finds wet claw scrapes and black-matted fur on a bramble.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
     {
       fact: "Downstream and on the north bank there is no sign; the brook between is stony shallows.",
