@@ -341,5 +341,9 @@ export const overwhereIvMillbrookAdventurersHall = {
       fact: "By evening the hall talks of the watch recruit who cut a goblin in two at twenty-five paces.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "The hall pays its goblin bounty per goblin: one left ear each, so no goblin is paid twice.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Place

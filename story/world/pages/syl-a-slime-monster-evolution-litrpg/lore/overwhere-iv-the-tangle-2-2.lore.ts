@@ -12,5 +12,9 @@ export const overwhereIvTheTangle22 = {
       fact: "A fox at the cleft's dead bolts from anyone coming; nothing else living is near by day.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "On a breeze down the cleft comes faint woodsmoke from Grakk's camp fires, two and a half miles on.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
