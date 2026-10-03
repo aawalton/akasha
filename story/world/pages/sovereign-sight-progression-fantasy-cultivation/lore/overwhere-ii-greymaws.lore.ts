@@ -253,7 +253,7 @@ export const overwhereIiGreymaws = {
     },
     {
       fact: "A whole greymaw chamber holds raw Sea-Water fast; nothing seeps back out.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "A chamber holding raw Sea-Water goes ice-cold, and tugs faintly toward the pool it came from.",
