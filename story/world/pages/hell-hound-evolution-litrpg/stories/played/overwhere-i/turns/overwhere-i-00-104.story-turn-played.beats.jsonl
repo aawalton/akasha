@@ -1,12 +1,12 @@
-{"beat":1,"event":"\"Let's do the ring. I like to keep my hands free,\" Nala says."}
+{"beat":1,"event":"\"Let's do the ring. I like to keep my hands free,\" Nala says.","at":"2026-10-05T13:06:00.000Z"}
 {"beat":2,"event":"\"Anything we can do to make it stronger? I've gold to spare, up to fifty. What options do you have?\""}
-{"beat":3,"event":"Ilse settles her spectacles. \"Plain ring, I'll have it set by the afternoon of day ten.\""}
-{"beat":4,"event":"\"The honest part first: a focus buys reach, or holds mana. The force is all yours to bring.\""}
-{"beat":5,"event":"\"Reach counts for held workings. Loosed beams, slugs and bullets fly as far as they ever did.\""}
-{"beat":6,"event":"She lifts a second pearl from a case. \"Mine. Beside yours, two pearls reach seventy yards.\""}
-{"beat":7,"event":"\"Seven gold, setting included, and a day more on the ring.\""}
-{"beat":8,"event":"A tray holds a dull grey stone. \"A well-stone. Twenty gold, three days more. Holds forty mana.\""}
-{"beat":9,"event":"\"Fill it from your own, ten a minute, easy. Draw on it, and the forty is back in half a minute.\""}
-{"beat":10,"event":"\"Half up front covers the extras too; the rest when I hand the ring over.\""}
-{"beat":11,"event":"\"Band metal's all one to a focus. And I set at my own pace, whatever you pay.\""}
-{"beat":12,"event":"Ilse folds her inky hands on the counter. \"So. Plain, second pearl, well-stone, or both?\""}
+{"beat":3,"event":"Ilse settles her spectacles. \"Plain ring, I'll have it set by the afternoon of day ten.\"","memory":[{"page":"lore/overwhere-i-wendlow-2","fact":"Ilse can have the plain ring set by the afternoon of day 10.","learns":"character-player/overwhere-i-nala"}]}
+{"beat":4,"event":"\"The honest part first: a focus buys reach, or holds mana. The force is all yours to bring.\"","memory":[{"page":"lore/overwhere-i-wendlow-2","fact":"Ilse says no focus adds force to a working; a focus buys reach, or holds mana, nothing more.","learns":"character-player/overwhere-i-nala"}]}
+{"beat":5,"event":"\"Reach counts for held workings. Loosed beams, slugs and bullets fly as far as they ever did.\"","memory":[{"page":"lore/overwhere-i-wendlow-2","fact":"A focus lengthens held workings only; loosed beams, slugs and bullets fly no farther for it.","learns":"character-player/overwhere-i-nala"}]}
+{"beat":6,"event":"She lifts a second pearl from a case. \"Mine. Beside yours, two pearls reach seventy yards.\"","at":"2026-10-05T13:08:00.000Z","memory":[{"page":"lore/overwhere-i-wendlow-2","fact":"Ilse has a drake-pearl of her own; set beside Nala's in the ring, two pearls reach 70 yards.","learns":"character-player/overwhere-i-nala"}]}
+{"beat":7,"event":"\"Seven gold, setting included, and a day more on the ring.\"","memory":[{"page":"lore/overwhere-i-wendlow-2","fact":"Ilse's second pearl costs 7 gold, setting included, and adds a day to the ring.","learns":"character-player/overwhere-i-nala"}]}
+{"beat":8,"event":"A tray holds a dull grey stone. \"A well-stone. Twenty gold, three days more. Holds forty mana.\"","memory":[{"page":"lore/overwhere-i-wendlow-2","fact":"Ilse can set a well-stone in the band for 20 gold; it adds three days to the ring.","learns":"character-player/overwhere-i-nala"}]}
+{"beat":9,"event":"\"Fill it from your own, ten a minute, easy. Draw on it, and the forty is back in half a minute.\"","memory":[{"page":"lore/overwhere-i-wendlow-2","fact":"A well-stone holds 40 mana; its wearer fills it from her own at 10 a minute, with no roll.","learns":"character-player/overwhere-i-nala"},{"page":"lore/overwhere-i-wendlow-2","fact":"Drawing a full well-stone gives back its 40 mana over half a minute, with no check.","learns":"character-player/overwhere-i-nala"}]}
+{"beat":10,"event":"\"Half up front covers the extras too; the rest when I hand the ring over.\"","memory":[{"page":"lore/overwhere-i-wendlow-2","fact":"Ilse's half up front covers extras too; the rest is paid when the ring is handed over.","learns":"character-player/overwhere-i-nala"}]}
+{"beat":11,"event":"\"Band metal's all one to a focus. And I set at my own pace, whatever you pay.\"","memory":[{"page":"lore/overwhere-i-wendlow-2","fact":"Ilse will not hurry a setting, and says a band's metal makes no difference to a focus.","learns":"character-player/overwhere-i-nala"}]}
+{"beat":12,"event":"Ilse folds her inky hands on the counter. \"So. Plain, second pearl, well-stone, or both?\"","at":"2026-10-05T13:10:00.000Z"}

@@ -1,7 +1,7 @@
-{"beat":1,"event":"\"Eh, just the second pearl for now. Range should cover what I need most,\" Nala says."}
-{"beat":2,"event":"Ilse nods. \"Ten gold all told. Five now, with your pearl, and five when I hand it over.\""}
-{"beat":3,"event":"Nala counts five gold onto the counter and sets the drake-pearl beside it."}
+{"beat":1,"event":"\"Eh, just the second pearl for now. Range should cover what I need most,\" Nala says.","at":"2026-10-05T13:11:00.000Z"}
+{"beat":2,"event":"Ilse nods. \"Ten gold all told. Five now, with your pearl, and five when I hand it over.\"","memory":[{"page":"lore/overwhere-i-wendlow-2","fact":"Nala's two-pearl ring costs 10 gold; Ilse takes 5 now and her drake-pearl, and 5 at hand-over.","learns":"character-player/overwhere-i-nala"}]}
+{"beat":3,"event":"Nala counts five gold onto the counter and sets the drake-pearl beside it.","at":"2026-10-05T13:12:00.000Z","changes":[{"page":"metric-character-currency/overwhere-i-nala","key":"value","from":6824,"to":6324,"note":"Nala pays Ilse five gold, half the two-pearl ring's price"},{"page":"story-item/overwhere-i-ghost-eye-eye","key":"character","from":"character-player/overwhere-i-nala","to":null,"note":"Nala hands Ghost-Eye's drake-pearl to Ilse for the ring"},{"page":"story-item/overwhere-i-ghost-eye-eye","key":"place","from":null,"to":"place/overwhere-i-wendlow","note":"The pearl stays at Ilse's shop on Glass Street to be set"}]}
 {"beat":4,"event":"Ilse sweeps both into a felt-lined box and snaps the lid."}
-{"beat":5,"event":"She loops a twist of wire around Nala's finger, pinches it to size, and tags it."}
-{"beat":6,"event":"From a drawer she takes a stamped tin claim tag and presses it into Nala's palm."}
-{"beat":7,"event":"\"Afternoon of day eleven. Bring the tag and the other five, and the ring's yours.\""}
+{"beat":5,"event":"She loops a twist of wire around Nala's finger, pinches it to size, and tags it.","memory":[{"page":"lore/overwhere-i-wendlow-2","fact":"Ilse sizes Nala's finger with a wire loop and gives her a stamped tin claim tag for the ring.","learns":"character-player/overwhere-i-nala"}]}
+{"beat":6,"event":"From a drawer she takes a stamped tin claim tag and presses it into Nala's palm.","changes":[{"page":"story-item/overwhere-i-ilse-claim-tag","key":"character","from":null,"to":"character-player/overwhere-i-nala","note":"Ilse gives Nala a stamped tin claim tag for her ring"}]}
+{"beat":7,"event":"\"Afternoon of day eleven. Bring the tag and the other five, and the ring's yours.\"","at":"2026-10-05T13:15:00.000Z","memory":[{"page":"lore/overwhere-i-wendlow-2","fact":"Nala's two-pearl ring will be ready at Ilse's shop by the afternoon of day 11.","learns":"character-player/overwhere-i-nala"}]}
