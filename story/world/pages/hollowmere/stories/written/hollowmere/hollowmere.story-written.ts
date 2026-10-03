@@ -11,7 +11,6 @@ export const hollowmere = {
   chapterBreak: "A day at Hollowmere ends.",
   coordinatorAgent: "mari-game-master-hollowmere",
   following: true,
-  wordBacklog: 50000,
   panels: [
     "played-panel/player-character",
     "played-panel/other-characters",
