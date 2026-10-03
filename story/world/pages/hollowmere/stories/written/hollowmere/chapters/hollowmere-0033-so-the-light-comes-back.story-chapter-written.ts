@@ -10,7 +10,7 @@ export const hollowmere0033SoTheLightComesBack = {
   story: "story-written/hollowmere",
   ownLength: 3060,
   prose: "txt",
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/game-master",
   beats: [
     'Friday of week five: Bea is up before light, pacing 15 in her socks. "Tomorrow," she says.',
     "You catch her by the wrists and sit her on the bed and make her breathe out. She laughs, shaky.",
@@ -72,6 +72,12 @@ export const hollowmere0033SoTheLightComesBack = {
     "You lie awake a little, turning the ring, warm as a hand, until Bea's breathing takes you under.",
     "A day at Hollowmere ends.",
   ],
+  issues: [
+    '"Practical at two" - Nala\'s Friday is tutorial at nine, Sigils at eleven, afternoon for study',
+    '"Kit\'s bench is empty at practical" - prose moves her absence to Sigils, against its beat',
+    '"Since the tutorial" - the beat has Amara say Kit\'s been at the forge since lunch',
+    "\"At nine, Gianni's rush begins\" - Gianni's serves only until nine, so no rush starts then",
+  ],
   lore: [
     "lore/hollowmere-amara",
     "lore/hollowmere-bea",
@@ -100,5 +106,5 @@ export const hollowmere0033SoTheLightComesBack = {
     "character-other/hollowmere-amara",
     "character-other/hollowmere-priya",
   ],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
 } as const satisfies StoryChapterWritten
