@@ -186,7 +186,7 @@ export const overwhereIiCallowBeck = {
     },
     {
       fact: "Ebba and the boys walk down toward the Ford at once, and are off the mountain before dusk.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Six Warped sheep roam the black slick, grey-scaled and coral-horned, heads low.",
