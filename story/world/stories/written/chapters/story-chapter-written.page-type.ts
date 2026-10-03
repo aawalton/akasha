@@ -61,6 +61,15 @@ export const storyChapterWritten = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "A chapter of a story stating editor steps waits on an editor after each of two steps.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A beat-editor follows the game master, and a prose-editor the writer.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A chapter at player is published.",
     },
     {
