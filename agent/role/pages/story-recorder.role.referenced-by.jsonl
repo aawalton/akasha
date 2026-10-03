@@ -7,7 +7,6 @@
 {"propertySlug":"import","fileName":"story-recorder.role.ts","path":"story/lore-disclosure/modules/lore-withholding/lore-withholding.module.test-fixtures.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"story-recorder.role.ts","path":"story/world/stories/played/turns/modules/turn-lifecycle/turn-lifecycle.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"agent/role/role.page-type.ts","id":"01a053b2-2c20-7e34-9306-65f44016381a"}
-{"propertySlug":"role","path":"agent/seat/pages/mari-story-recorder-hollowmere-flex-1/mari-story-recorder-hollowmere-flex-1.seat.ts","id":"01a10205-2063-7000-a0fe-9f2e765794ff"}
 {"propertySlug":"role","path":"agent/seat/pages/mari-story-recorder-hollowmere-flex-2/mari-story-recorder-hollowmere-flex-2.seat.ts","id":"01a10205-5651-7000-9a86-ec55169e0cbc"}
 {"propertySlug":"role","path":"agent/seat/pages/mari-story-recorder-hollowmere-flex-3/mari-story-recorder-hollowmere-flex-3.seat.ts","id":"01a10205-a7d0-7000-9093-b7930b6b4596"}
 {"propertySlug":"role","path":"agent/seat/pages/mari-story-recorder-hollowmere-flex-4/mari-story-recorder-hollowmere-flex-4.seat.ts","id":"01a10206-0480-7000-907a-90fd0563d1a8"}
