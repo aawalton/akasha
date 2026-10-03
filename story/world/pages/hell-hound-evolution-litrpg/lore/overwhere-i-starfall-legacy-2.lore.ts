@@ -308,5 +308,9 @@ export const overwhereIStarfallLegacy2 = {
       fact: "A beast run through by stone spikes is pinned on them and cannot flee while it lives.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Spikes are aimed by sight, so dazzled by eye beams she finds them a band harder.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
