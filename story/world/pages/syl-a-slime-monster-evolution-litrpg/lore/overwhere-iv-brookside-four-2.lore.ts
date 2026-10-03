@@ -221,11 +221,19 @@ export const overwhereIvBrooksideFour2 = {
     },
     {
       fact: 'Merrit muttered, "Five, she said. Alone." after the last hobgoblin fell.',
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iv-nala",
+        "lore/overwhere-iv-brookside-four",
+      ],
     },
     {
       fact: "Dace asked Nala to walk in with the Four at dawn, so Ilsa can see the two hobgoblins.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iv-nala",
+        "lore/overwhere-iv-brookside-four",
+      ],
     },
   ],
 } as const satisfies Lore
