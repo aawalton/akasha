@@ -1,0 +1,75 @@
+{"beat":1,"event":"A door of warm wood with an iron handle, light through the crack at the bottom."}
+{"beat":2,"event":"She has stood before it so long the glass bead has marked her palm: eight weeks, three hundred miles."}
+{"beat":3,"event":"She thinks of you, who always knew what to say about the last moment before a thing."}
+{"beat":4,"event":"She sets the bead on the floor and opens the door."}
+{"beat":5,"event":"Eight weeks before, she leaves the city at dawn without telling you, a glass bead in her coat."}
+{"beat":6,"event":"She made the amber-gold bead with the green centre the night before, while you talked."}
+{"beat":7,"event":"For eight weeks the door has filled her dreams, warm, and she wakes missing it more than you."}
+{"beat":8,"event":"In Brenwick she stays two nights at the inn you both know.","place":"place/the-dungeon-of-one-thousand-deaths-brenwick","present":["character-other/the-dungeon-of-one-thousand-deaths-asha-trevane"]}
+{"beat":9,"event":"The Compulsion does not hurry her: the door is not going anywhere."}
+{"beat":10,"event":"At the inn she meets Ossel, who makes no secret of where he is going or why.","arrive":["character-other/the-dungeon-of-one-thousand-deaths-ossel"]}
+{"beat":11,"event":"They do not travel together; each of the Compelled walks toward something private."}
+{"beat":12,"event":"She watches him eat his supper as you would have, with curiosity, and goes to bed."}
+{"beat":13,"event":"Near the dungeon a woman at a crossroads sells protection charms of cord and river clay.","place":"place/the-dungeon-of-one-thousand-deaths-the-north-road","present":["character-other/the-dungeon-of-one-thousand-deaths-asha-trevane"]}
+{"beat":14,"event":"A man with a ledger charges two copper to record names; he has done it for forty deaths."}
+{"beat":15,"event":"She does not pay him; it seems beside the point."}
+{"beat":16,"event":"For two days a young woman with a household bag walks the road ahead of her."}
+{"beat":17,"event":"On the second afternoon the woman stops, listens, and turns back, released."}
+{"beat":18,"event":"She passes Asha with a returned face, and Asha keeps walking north."}
+{"beat":19,"event":"At the camp by the entrance, a careful map on oiled cloth is nailed to a post.","place":"place/the-dungeon-of-one-thousand-deaths-the-camp"}
+{"beat":20,"event":"It ends at the first junction: accurate to my knowledge, which is limited."}
+{"beat":21,"event":"Some thirty people wait there; an older man by the fire has chosen to be there."}
+{"beat":22,"event":"Someone always keeps the fire burning, though no one is its keeper."}
+{"beat":23,"event":"Lanterns sell at twice the city price, a boy sells water, a woman writes letters for a fee."}
+{"beat":24,"event":"By the fire she rolls the bead between her fingers one last time."}
+{"beat":25,"event":"The people at the fire give her the look for someone walking toward what they accept."}
+{"beat":26,"event":"She goes in.","place":"place/the-dungeon-of-one-thousand-deaths-the-gullet"}
+{"beat":27,"event":"The corridor is ribbed and warm, smelling of minerals and something living."}
+{"beat":28,"event":"She steps around a man dead in a subsidence crack."}
+{"beat":29,"event":"She reads the Maw's registry: Edric Voss, first to enter; Maren Voss; Lira, first compelled."}
+{"beat":30,"event":"Then Bren Aldic, Dara Hess and Mira Doss, and a smooth blank where the next should be."}
+{"beat":31,"event":"She puts her hand on the blank stone, and the dungeon does not respond."}
+{"beat":32,"event":"In a recess at the second junction she finds a glassblower's tool roll, and unties it."}
+{"beat":33,"event":"A swatch cloth holds colour tests: amber, gold, and something between them that is neither."}
+{"beat":34,"event":"She knows that colour: it lives in the temperature, and only for a moment."}
+{"beat":35,"event":"She rolls the kit up, ties it, and puts it back, taking nothing."}
+{"beat":36,"event":"She crosses the arch at three hundred meters and reads its keystone.","place":"place/the-dungeon-of-one-thousand-deaths-the-gap"}
+{"beat":37,"event":"THE ARCH HOLDS. She takes up the lantern burning at the abutment and carries it."}
+{"beat":38,"event":"She feels the warmth has a direction: the dungeon is attending to her."}
+{"beat":39,"event":"In the first chamber of the Warrens the Asking comes as recognition, a formality.","place":"place/the-dungeon-of-one-thousand-deaths-the-marrow-warrens"}
+{"beat":40,"event":"The Ledger names her The Guest, with the Gift Welcome: creatures leave her be, hazards slow."}
+{"beat":41,"event":"Its Cost is Arrival: each activation brings her closer; the dungeon is delivering her."}
+{"beat":42,"event":"The Ledger reads Vitality 18, Resolve 20, Attunement 12, Fortune 22."}
+{"beat":43,"event":"Resonance came before entry: the most welcome guest, for whom the door was always open."}
+{"beat":44,"event":"She reads it methodically and without alarm: guidance she cannot refuse."}
+{"beat":45,"event":"The corridor seems to breathe out, and the light brightens just enough to be useful."}
+{"beat":46,"event":"She understands the door was always a place she was taken to, not one she went to."}
+{"beat":47,"event":"Welcome guides her north, as Sylas went, then east at a junction into an unused passage.","changes":[{"page":"metric-character-stat/the-dungeon-of-one-thousand-deaths-asha-trevane-attunement","key":"value","from":12,"to":13,"note":"Welcome activation at the Warrens junction, Attunement +1"}]}
+{"beat":48,"event":"Forty meters, perfectly straight, smooth and level: a passage prepared for her.","place":"place/the-dungeon-of-one-thousand-deaths-the-prepared-passage","changes":[{"page":"metric-character-stat/the-dungeon-of-one-thousand-deaths-asha-trevane-attunement","key":"value","from":13,"to":14,"note":"Welcome activation in the prepared passage, Attunement +1"}]}
+{"beat":49,"event":"At its end is the door, exactly as in her dreams."}
+{"beat":50,"event":"She stands before it long enough for the bead to mark her palm, thinking of you."}
+{"beat":51,"event":"She cannot find what you would have said; here, at the door, she cannot find you."}
+{"beat":52,"event":"She thinks the Welcome is finishing itself, removing the last thing that might pull her back."}
+{"beat":53,"event":"She sets the bead on the floor: the last thing she made."}
+{"beat":54,"event":"She opens the door."}
+{"beat":55,"event":"The room behind it is empty, still and warm: empty without any lack."}
+{"beat":56,"event":"The wanting stops, the way a sound stops."}
+{"beat":57,"event":"She waits for it to come back, and it does not."}
+{"beat":58,"event":"She steps in; the door does not close, and she does not turn around."}
+{"beat":59,"event":"She sits down on the warm stone floor."}
+{"beat":60,"event":"You would have said: so this is what you came for."}
+{"beat":61,"event":"She thinks: this is exactly what it promised."}
+{"beat":62,"event":"She does not try to leave, and does not want to. She stays."}
+{"beat":63,"event":"After 11 hours 43 minutes in the room, Asha Trevane dies of stasis, without distress.","changes":[{"page":"metric-character-stat/the-dungeon-of-one-thousand-deaths-asha-trevane-vitality","key":"value","from":18,"to":0,"note":"Asha dies of stasis in the prepared room, Vitality 18 to 0"}]}
+{"beat":64,"event":"The death report: the Guest, Depth 1, the Gullet's prepared passage."}
+{"beat":65,"event":"Her Memory Crystal is amber: belonging, being exactly where one is supposed to be."}
+{"beat":66,"event":"The Floor Mutation: the prepared passage, its door permanent and closed, its light present."}
+{"beat":67,"event":"Guest complete: Compelled from three hundred miles, and delivery complete."}
+{"beat":68,"event":"The Ledger watched her fifty-six days, from 312 miles; Lira was drawn from forty."}
+{"beat":69,"event":"Death #10: Asha Trevane, the Guest, no resistance."}
+{"beat":70,"event":"Light still shows under the closed door; the Ledger has no data on whether it lasts."}
+{"beat":71,"event":"The glass bead lies near the passage entrance, still warm, and the Maw leaves it be."}
+{"beat":72,"event":"THE ARCH HOLDS, says the keystone, to no one in particular."}
+{"beat":73,"event":"The camp holds thirty-two now; beside the mended map hangs a blank cloth and charcoal."}
+{"beat":74,"event":"The fire is still burning, and the tally turns: 990 remain."}
+{"beat":75,"event":"ASHA TREVANE — DEPTH 1 — FIRST TO ARRIVE."}
