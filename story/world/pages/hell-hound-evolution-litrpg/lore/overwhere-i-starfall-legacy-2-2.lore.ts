@@ -9,6 +9,10 @@ export const overwhereIStarfallLegacy22 = {
   about: "overwhere-i-legacy/overwhere-i-starfall-legacy",
   facts: [
     {
+      fact: "Trying weaves on cloth, fire scorches it, air frays it, and water alone only wets it.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+    },
+    {
       fact: "Felting a hand-span wool tear shut takes Nala about five minutes.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },

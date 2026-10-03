@@ -352,9 +352,5 @@ export const overwhereIStarfallLegacy2 = {
       fact: "Finding the felting weave by trial takes about two hours, needs no roll, and is a Weave use.",
       knowers: ["lore-disclosure/game-master"],
     },
-    {
-      fact: "Trying weaves on cloth, fire scorches it, air frays it, and water alone only wets it.",
-      knowers: ["lore-disclosure/game-master"],
-    },
   ],
 } as const satisfies Lore
