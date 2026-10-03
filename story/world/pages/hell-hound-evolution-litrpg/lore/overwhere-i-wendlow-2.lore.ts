@@ -40,5 +40,9 @@ export const overwhereIWendlow2 = {
       fact: "The Weir Wyrm's bounty pays on its head, or on its fangs if the head is too big to carry.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Grete names the Bell and Barrel by the square: clean, a silver for bed and supper, a bathhouse.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
