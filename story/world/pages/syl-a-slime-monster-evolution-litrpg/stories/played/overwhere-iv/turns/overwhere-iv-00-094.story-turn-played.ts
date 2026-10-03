@@ -37,6 +37,6 @@ export const overwhereIv00094 = {
     "lore/overwhere-iv-the-tangle-2-2",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/inventory"],
+  recordedBy: ["story-recorder/inventory", "story-recorder/memory"],
   endsAt: "2026-10-08T09:05:00.000Z",
 } as const satisfies StoryTurnPlayed

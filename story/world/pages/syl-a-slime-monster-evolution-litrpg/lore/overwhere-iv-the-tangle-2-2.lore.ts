@@ -194,7 +194,11 @@ export const overwhereIvTheTangle22 = {
     },
     {
       fact: "Hot on a chase, the hunters follow their quarry out of the trees and into the ford.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iv-nala",
+        "lore/overwhere-iv-brookside-four",
+      ],
     },
     {
       fact: "Alone, the scouts keep their distance, shrieking where she is, and close only once the file is up.",
@@ -218,7 +222,11 @@ export const overwhereIvTheTangle22 = {
     },
     {
       fact: "At the treeline the hobgoblin shoulders to the front, roaring, and wades first into the ford.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iv-nala",
+        "lore/overwhere-iv-brookside-four",
+      ],
     },
     {
       fact: "The hunters' hobgoblin is LV 9, in a hide jerkin, with an iron-banded maul.",
@@ -246,6 +254,14 @@ export const overwhereIvTheTangle22 = {
     },
     {
       fact: "A hobgoblin with a maul burst from the trees roaring and waded first into the ford.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iv-nala",
+        "lore/overwhere-iv-brookside-four",
+      ],
+    },
+    {
+      fact: "Nine goblins poured out of the Tangle after Nala, shrieking, straight for Tull's ford.",
       knowers: [
         "lore-disclosure/game-master",
         "character-player/overwhere-iv-nala",
