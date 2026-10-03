@@ -49,7 +49,7 @@ export const overwhereIiMaudAshby = {
     },
     {
       fact: "Maud knows no tidepool was ever bailed dry; the Sea feeds it from beneath.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Keeper records tell of new tidepools ringed with cold iron, which slows what rises to a trickle.",
