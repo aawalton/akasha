@@ -11,7 +11,7 @@ export const overwhereI00106 = {
   position: 106,
   prose: "txt",
   characters: ["character-player/overwhere-i-nala"],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action:
     "“Great! I’ll be back.” Then I go to the other two stores to sell the sword, crossbow, and grubboar tusks.",
   beats: [
@@ -34,7 +34,12 @@ export const overwhereI00106 = {
   ],
   lore: ["lore/overwhere-i-nala", "lore/overwhere-i-nala-2", "lore/overwhere-i-wendlow-2"],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/memory", "story-recorder/picture", "story-recorder/mechanics"],
+  recordedBy: [
+    "story-recorder/memory",
+    "story-recorder/picture",
+    "story-recorder/mechanics",
+    "story-recorder/inventory",
+  ],
   endsAt: "2026-10-05T13:45:00.000Z",
   coverAfter: "Mother Sallow is stooped and old, wrapped in shawls, a clay pipe clamped",
 } as const satisfies StoryTurnPlayed
