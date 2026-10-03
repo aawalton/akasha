@@ -10,4 +10,5 @@ export const theTower0002TheCistern = {
   ownLength: 10968,
   unit: "unit/words",
   prose: "txt",
+  beats: "jsonl",
 } as const satisfies StoryChapterPlayed
