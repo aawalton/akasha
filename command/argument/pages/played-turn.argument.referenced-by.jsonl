@@ -7,7 +7,7 @@
 {"propertySlug":"argument","path":"command/pages/story/turn/rewind/story-turn-rewind.command.ts","id":"01a0def9-1803-7531-bfb1-9a23ccb84b63"}
 {"propertySlug":"argument","path":"command/pages/story/turn/take-back/story-turn-take-back.command.ts","id":"01a0e7ea-d96e-773f-a163-c8112382cb14"}
 {"propertySlug":"import","fileName":"played-turn.argument.ts","path":"agent/hook/agent-hook/block-stop-before-advance/block-stop-before-advance.agent-hook.code.ts","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"played-turn.argument.ts","path":"command/pages/story/settle/story-settle.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"played-turn.argument.ts","path":"command/pages/story/settle/modules/settle-taking/settle-taking.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"played-turn.argument.ts","path":"command/pages/story/turn/advance/modules/turn-handing/turn-handing.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"played-turn.argument.ts","path":"command/pages/story/turn/advance/modules/turn-timing/turn-timing.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"played-turn.argument.ts","path":"command/pages/story/turn/cancel/story-turn-cancel.command.code.ts","typed":false,"deferred":false}

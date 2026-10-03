@@ -2,12 +2,14 @@ import { mkdirSync, mkdtempSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import type { Asking } from "akasha/change/runner/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
 import type { Given } from "akasha/command/modules/calling/calling.module.code.ts"
+import type { Casting } from "akasha/command/pages/story/settle/modules/settle-character/settle-character.module.code.ts"
 import {
   type Reach,
   type Roll,
   storySettle,
   type Turn,
 } from "akasha/command/pages/story/settle/story-settle.command.code.ts"
+import type { Character } from "akasha/story/world/stories/played/turns/modules/turn-cast/turn-cast.module.code.ts"
 import type { TurnStep } from "akasha/story/world/stories/played/turns/modules/turn-lifecycle/turn-lifecycle.module.code.ts"
 
 export const CALLED = "akasha story settle"
@@ -47,12 +49,26 @@ writeFileSync(
 
 writeFileSync(
   join(ROOT, "checks", "scoring.code.ts"),
-  'export function settled() {\n  return { answered: { change: 3 } }\n}\nexport function added(reading, answered) {\n  return [{ page: `world-relationship/${reading.character}`, key: "relationshipPoints", by: answered.change }]\n}\n'
+  'export function settled() {\n  return { answered: { change: 3 } }\n}\nexport function added(reading, answered) {\n  const slug = reading.character.slice(reading.character.lastIndexOf("/") + 1)\n  return [{ page: `world-relationship/${slug}`, key: "relationshipPoints", by: answered.change }]\n}\n'
 )
 
 export const HER_AT = "pages/her.world-relationship.ts"
 
 const KEPT_AT = "pages/kept.world-relationship.ts"
+
+const CAST: readonly Character[] = ["her", "another", "kept", "nobody"].map((slug) => ({
+  address: `character-other/${slug}`,
+  title: slug,
+  aliasOf: null,
+}))
+
+const CASTING: Casting = {
+  admitted: () => ({
+    types: ["character-other", "character-player", "world-character"],
+    filed: (address) => CAST.some((one) => one.address === address),
+  }),
+  cast: () => CAST,
+}
 
 export function reachOver(turns: readonly Turn[], unmade = 0, step: TurnStep = "writer"): Reach {
   return {
@@ -62,6 +78,7 @@ export function reachOver(turns: readonly Turn[], unmade = 0, step: TurnStep = "
     keptPageAt: (_root, _agentId, page) => (page === "world-relationship/kept" ? KEPT_AT : null),
     unmadeOf: () => unmade,
     stepOf: () => step,
+    castingOf: () => CASTING,
   }
 }
 

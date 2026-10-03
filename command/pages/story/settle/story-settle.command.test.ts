@@ -3,12 +3,12 @@ import { createHash } from "node:crypto"
 import { mkdirSync, rmSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import { settledBefore } from "akasha/command/pages/story/modules/settle-asking/settle-asking.module.code.ts"
+import { taken } from "akasha/command/pages/story/settle/modules/settle-taking/settle-taking.module.code.ts"
 import {
   outcomesAt,
   type Roll,
   storySettle,
   type Turn,
-  taken,
 } from "akasha/command/pages/story/settle/story-settle.command.code.ts"
 import {
   type Appended,
@@ -170,7 +170,8 @@ test("a check answering endsAt states that instant on the turn it settles on", a
 })
 
 function scoringArgv(whose: string): readonly string[] {
-  return ["--story", "the-saga", "--check", "scoring", "--reading", `{"character":"${whose}"}`]
+  const reading = `{"character":"character-other/${whose}"}`
+  return ["--story", "the-saga", "--check", "scoring", "--reading", reading]
 }
 
 test("what a check's answer adds is added to its page in the same landing", async () => {
@@ -239,6 +240,19 @@ test("a check that rolls nothing settles once on a turn for each character", asy
   rmSync(join(ROOT, at))
 })
 
+test("a character named any way but its page's address is refused, naming the page", async () => {
+  const at = outcomesAt(LATEST.at) ?? "no outcomes"
+  const was = { check: "world-check/diceless", reading: JSON.parse(HERS), answered: {} }
+  writeFileSync(join(ROOT, at), `${JSON.stringify(was)}\n`)
+  const bare = await answeredBy(
+    scoredArgv('{"asked":"a leap","character":"her"}'),
+    reachOver([LATEST])
+  )
+  rmSync(join(ROOT, at))
+  expect(bare.appended).toEqual([])
+  expect(bare.answer.refusals.join("\n")).toContain("say `character-other/her`")
+})
+
 test("a roll with dice is never refused as settled before", () => {
   const roll: Roll = {
     check: "world-check/answering",
@@ -279,7 +293,7 @@ test("a line replacing another takes back what the earlier line added", async ()
   const at = outcomesAt(LATEST.at) ?? "no outcomes"
   const was = {
     check: "world-check/scoring",
-    reading: { character: "her" },
+    reading: { character: "character-other/her" },
     answered: { change: 1 },
   }
   writeFileSync(join(ROOT, at), `${JSON.stringify(was)}\n`)

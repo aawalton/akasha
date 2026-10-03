@@ -8,7 +8,7 @@ export const storySettle = {
   code: "ts",
   test: "ts",
   testFixtures: "ts",
-  parts: ["module/settle-seeding"],
+  parts: ["module/settle-seeding", "module/settle-character", "module/settle-taking"],
   decisions: [
     {
       decisionKind: "decision-kind/departure",
@@ -77,6 +77,11 @@ export const storySettle = {
       decisionKind: "decision-kind/departure",
       statement:
         "A check that rolls nothing settles once on a turn for each `character` its readings name.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A reading's `character` that names no page by its one address is refused and appends nothing.",
     },
     {
       decisionKind: "decision-kind/departure",
