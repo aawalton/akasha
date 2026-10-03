@@ -135,7 +135,7 @@ export const overwhereIiiCorruption2 = {
     },
     {
       fact: "Wolf prints bigger than any Wrenwood wolf's circle the deer, go into the brook, and don't come out.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
   ],
 } as const satisfies Lore
