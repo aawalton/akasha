@@ -10,7 +10,7 @@ export const overwhereIii00080 = {
   position: 80,
   prose: "txt",
   characters: ["character-player/overwhere-iii-nala", "character-other/overwhere-iii-marda-hesk"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/game-master",
   action:
     "“Yeah, definitely the small one first, that’s the deer?” I follow the directions and hit it with my cleansing current lash braid as soon as I can reach it.",
   beats: [
@@ -30,6 +30,7 @@ export const overwhereIii00080 = {
     "Then she sees the prints. Wolf prints circle the deer, bigger than any Wrenwood wolf's.",
     "They lead down the bank and into the brook. On neither bank, up or down, do they come out.",
   ],
+  issues: ['"It comes in one long draw" - lore says two pulls draw the deer\'s blight'],
   lore: [
     "lore/overwhere-iii-cleansing-weave",
     "lore/overwhere-iii-corruption-2",
@@ -40,6 +41,6 @@ export const overwhereIii00080 = {
     "lore/overwhere-iii-nala-2-2",
     "place/overwhere-iii-wrenwood",
   ],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
   endsAt: "2026-10-08T12:30:00.000Z",
 } as const satisfies StoryTurnPlayed
