@@ -103,7 +103,12 @@ export const overwhereIiiMardaHesk2 = {
     },
     {
       fact: "Marda forbids anyone the Wren Brook hut or the deep wood alone until Thornmere answers.",
-      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-marda-hesk"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/overwhere-iii-marda-hesk",
+        "character-player/overwhere-iii-nala",
+        "character-other/overwhere-iii-edda-crane",
+      ],
     },
   ],
 } as const satisfies Lore
