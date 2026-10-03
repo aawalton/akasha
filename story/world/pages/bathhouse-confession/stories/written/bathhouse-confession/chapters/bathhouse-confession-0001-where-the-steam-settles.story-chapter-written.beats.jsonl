@@ -1,6 +1,6 @@
-{"beat":1,"event":"The car lets the three of them off in the dark, at the end of a lane too narrow for it.","place":"place/bathhouse-confession-lane","present":["character-other/bathhouse-confession-rumi","character-other/bathhouse-confession-mira","character-other/bathhouse-confession-zoey"]}
+{"beat":1,"event":"The car lets the three of them off in the dark, at the end of a lane too narrow for it.","at":"2026-10-02T21:00:00.000Z","place":"place/bathhouse-confession-lane","present":["character-other/bathhouse-confession-rumi","character-other/bathhouse-confession-mira","character-other/bathhouse-confession-zoey"]}
 {"beat":2,"event":"They walk up through cedar and wet stone toward a single paper lantern over a door."}
-{"beat":3,"event":"A woman lets them in, presses the key into Rumi's palm, bows and goes back down the lane.","place":"place/bathhouse-confession-entryway"}
+{"beat":3,"event":"A woman lets them in, presses the key into Rumi's palm, bows and goes back down the lane.","at":"2026-10-02T21:05:00.000Z","place":"place/bathhouse-confession-entryway"}
 {"beat":4,"event":"No staff, no cameras, no fans at a barricade, no manager texting tomorrow's schedule."}
 {"beat":5,"event":"Rumi stands holding the key, in a quiet so total it has texture."}
 {"beat":6,"event":"For the first time in maybe three years, nobody in the world knows exactly where she is."}
@@ -9,7 +9,7 @@
 {"beat":9,"event":"Mira is smiling and has set her bag down to stay; Rumi's shoulders come loose a notch."}
 {"beat":10,"event":"With these two alone, Rumi doesn't have to be the leader."}
 {"beat":11,"event":"Rumi says, \"Come on. The water's supposed to be the whole point.\""}
-{"beat":12,"event":"The changing room is small, warm and lined in pale wood.","place":"place/bathhouse-confession-changing-room"}
+{"beat":12,"event":"The changing room is small, warm and lined in pale wood.","at":"2026-10-02T21:15:00.000Z","place":"place/bathhouse-confession-changing-room"}
 {"beat":13,"event":"They have undressed before each other a thousand times, but always in a rush."}
 {"beat":14,"event":"Now there is no countdown and no call time, only a quiet room and a long night."}
 {"beat":15,"event":"Zoey goes first, unselfconscious, folding her clothes into a neat square on the bench."}
@@ -25,7 +25,7 @@
 {"beat":25,"event":"Zoey says they're like the patterns on a moth's back, the kind you can't look away from."}
 {"beat":26,"event":"Rumi nearly cries; she wraps a towel round herself and says, \"Water.\""}
 {"beat":27,"event":"She leads them out, all her covering left behind on the bench."}
-{"beat":28,"event":"The bath is a long low room of dark stone, lit gold, with steam standing in the air.","place":"place/bathhouse-confession-bath"}
+{"beat":28,"event":"The bath is a long low room of dark stone, lit gold, with steam standing in the air.","at":"2026-10-02T21:30:00.000Z","place":"place/bathhouse-confession-bath"}
 {"beat":29,"event":"The drifting steam turns the three of them from sharp to watercolor and back."}
 {"beat":30,"event":"They go into the big sunken soaking pool, hissing at the heat, then surrendering to it."}
 {"beat":31,"event":"The water takes the weight out of Rumi; her marks go under, and she no longer minds."}
@@ -40,7 +40,7 @@
 {"beat":40,"event":"Zoey caught her looking at Mira, and then Rumi caught Zoey catching her."}
 {"beat":41,"event":"The steam thins at the wrong moment; there's nowhere to look that isn't one of the others."}
 {"beat":42,"event":"Mira, eyes closed, says the energy just changed and she won't be the only one not informed."}
-{"beat":43,"event":"At Rumi's suggestion they move to the wash stations: low stools, hand-showers, wooden buckets."}
+{"beat":43,"event":"At Rumi's suggestion they move to the wash stations: low stools, hand-showers, wooden buckets.","at":"2026-10-02T22:00:00.000Z"}
 {"beat":44,"event":"Zoey picks up the little bottle and says, \"Rumi, turn around.\""}
 {"beat":45,"event":"Zoey works soap into Rumi's hair, slow and thorough, and Rumi's eyes close."}
 {"beat":46,"event":"Zoey's fingers trace one of the marks across Rumi's shoulder blade, following its shape."}
@@ -52,7 +52,7 @@
 {"beat":52,"event":"Zoey settles close, her knee against Rumi's, and says softly, \"There she is.\""}
 {"beat":53,"event":"\"Shut up,\" Mira says, with no force; then, almost lost under the water: \"Thank you.\""}
 {"beat":54,"event":"Nobody is washing anyone now; they sit at the edge of the thing, waiting for one to say it."}
-{"beat":55,"event":"Zoey says she'll say it, because the other two would circle it until the water goes cold."}
+{"beat":55,"event":"Zoey says she'll say it, because the other two would circle it until the water goes cold.","at":"2026-10-02T22:20:00.000Z"}
 {"beat":56,"event":"Zoey says she is in love with both of them, the real kind, carried so long she stopped noticing."}
 {"beat":57,"event":"She's sure she isn't the only one, and she's tired of all three pretending not to see."}
 {"beat":58,"event":"The silence is the most frightening of Rumi's life, and then it opens instead of breaking."}
@@ -67,7 +67,7 @@
 {"beat":67,"event":"Zoey, the bravest, gives the first kiss to Rumi, tentative and then sure."}
 {"beat":68,"event":"Mira goes still beside them; Rumi turns and kisses her too, at once, on purpose."}
 {"beat":69,"event":"Then Zoey and Mira kiss, and a hand always reaches back so none of them is left watching."}
-{"beat":70,"event":"They move near the pool, where the stone is heated underneath and the steam comes up thick."}
+{"beat":70,"event":"They move near the pool, where the stone is heated underneath and the steam comes up thick.","at":"2026-10-02T22:40:00.000Z"}
 {"beat":71,"event":"It is clumsy in places, three not two; they laugh at stray elbows and whisper \"here, like this.\""}
 {"beat":72,"event":"They keep asking with looks and pauses, and waiting for yes, and nobody performs."}
 {"beat":73,"event":"They go to Mira first, laying her back on the warm stone."}
@@ -86,14 +86,14 @@
 {"beat":86,"event":"Wholly seen and found wanted, Rumi comes saying both their names, and they say hers."}
 {"beat":87,"event":"Done taking turns, they come back together, each with her hands on both the others."}
 {"beat":88,"event":"It crests through all three at once, or near enough, and they hold each other up, laughing."}
-{"beat":89,"event":"After, they lie tangled in the shallow end of the pool, the water up to their chests."}
+{"beat":89,"event":"After, they lie tangled in the shallow end of the pool, the water up to their chests.","at":"2026-10-03T00:00:00.000Z"}
 {"beat":90,"event":"Rumi's head is on Mira's shoulder, Zoey tucked into both; Rumi loses track of where she ends."}
-{"beat":91,"event":"The steam thins as the night goes on; a single high window shows a square of true night."}
+{"beat":91,"event":"The steam thins as the night goes on; a single high window shows a square of true night.","at":"2026-10-03T00:20:00.000Z"}
 {"beat":92,"event":"Nobody reaches for a joke, not even Mira; the quiet doesn't need filling anymore."}
 {"beat":93,"event":"Mira keeps waiting to feel weird about this, and doesn't. \"Me either,\" Zoey murmurs."}
 {"beat":94,"event":"Rumi thinks she might not put the long sleeves and high collar back on tonight, maybe ever."}
 {"beat":95,"event":"Into Mira's throat she says she didn't think she could be looked at, held still, in the light."}
 {"beat":96,"event":"Zoey's arm tightens: \"And?\" Rumi: \"And you didn't flinch.\""}
 {"beat":97,"event":"\"No,\" Zoey says simply. \"Why would we.\""}
-{"beat":98,"event":"When the water cools they get out and wrap each other in towels, with absurd care."}
-{"beat":99,"event":"They pad back to the warm wooden room: not a leader and her two, just three.","place":"place/bathhouse-confession-changing-room"}
+{"beat":98,"event":"When the water cools they get out and wrap each other in towels, with absurd care.","at":"2026-10-03T01:00:00.000Z"}
+{"beat":99,"event":"They pad back to the warm wooden room: not a leader and her two, just three.","at":"2026-10-03T01:10:00.000Z","place":"place/bathhouse-confession-changing-room"}
