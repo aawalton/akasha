@@ -11,4 +11,5 @@ export const overwhereIv00087 = {
   action:
     "I decide I’m feeling rested enough and work my way back to where I killed them goblins, keeping my senses wide for more.",
   lore: ["lore/overwhere-iv-the-tangle-2", "lore/overwhere-iv-the-tangle-2-2"],
+  endsAt: "2026-10-07T09:55:00.000Z",
 } as const satisfies StoryTurnPlayed
