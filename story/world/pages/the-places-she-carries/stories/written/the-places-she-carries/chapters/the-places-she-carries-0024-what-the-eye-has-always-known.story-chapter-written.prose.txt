@@ -42,7 +42,7 @@ The ten minutes ended. The resolution faded.
 
 Wren sat at the pool's edge with the understanding settling in her.
 
-` + '```' + `stat-screen
+```stat-screen
 -------------------------------------------------------------
   DISCOVERY
   Warden's Eye -- Transmission, Not Reception
@@ -71,7 +71,7 @@ Wren sat at the pool's edge with the understanding settling in her.
   Surveying: 80 (Journeyman)
 
 -------------------------------------------------------------
-` + '```' + `
+```
 
 She did not know what was to the south-southeast. Corrupted ground for at least two kilometers. Beyond that, the Thornwild's deeper basin, the ancient stands of ghost-elms that the corruption had silenced, and — Wren traced the direction in her memory of the basin's geography — somewhere in that arc, Hearthstone.
 

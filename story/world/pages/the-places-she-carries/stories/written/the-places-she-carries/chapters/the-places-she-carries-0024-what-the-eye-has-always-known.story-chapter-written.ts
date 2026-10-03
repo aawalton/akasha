@@ -7,7 +7,7 @@ export const thePlacesSheCarries0024WhatTheEyeHasAlwaysKnown = {
   title: "What the Eye Has Always Known",
   story: "story-written/the-places-she-carries",
   position: 24,
-  ownLength: 2730,
+  ownLength: 2722,
   unit: "unit/words",
   prose: "txt",
   beats: "jsonl",
