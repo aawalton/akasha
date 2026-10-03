@@ -15,7 +15,7 @@ export const otherwhereXi00011 = {
     "character-player/otherwhere-xi-nala",
     "world-character/otherwhere-xi-wenna-ashlar",
     "world-character/otherwhere-xi-tobin-ashlar",
-    "world-character/otherwhere-xi-smoke",
+    "character-other/otherwhere-xi-smoke",
   ],
   stepStatus: "step-status/player",
   action: "“I might as well for now, it’s good to be needed somewhere.”",

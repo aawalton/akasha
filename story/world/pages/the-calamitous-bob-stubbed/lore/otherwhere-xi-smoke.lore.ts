@@ -6,7 +6,7 @@ export const otherwhereXiSmoke = {
   slug: "otherwhere-xi-smoke",
   title: "Smoke",
   world: "world/the-calamitous-bob-stubbed",
-  about: "world-character/otherwhere-xi-smoke",
+  about: "character-other/otherwhere-xi-smoke",
   facts: [
     {
       fact: "Smoke is Tobin Ashlar's sheepdog, a shaggy gray bitch of about five years.",
@@ -58,7 +58,7 @@ export const otherwhereXiSmoke = {
         "lore-disclosure/game-master",
         "character-player/otherwhere-xi-nala",
         "world-character/otherwhere-xi-tobin-ashlar",
-        "world-character/otherwhere-xi-smoke",
+        "character-other/otherwhere-xi-smoke",
       ],
     },
   ],
