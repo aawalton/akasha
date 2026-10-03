@@ -10,6 +10,7 @@ export const otherwhereViii0001TheGap = {
   story: "story-played/otherwhere-viii",
   ownLength: 4307,
   prose: "txt",
+  beats: "jsonl",
   turnCovers: [
     {
       position: 1,
