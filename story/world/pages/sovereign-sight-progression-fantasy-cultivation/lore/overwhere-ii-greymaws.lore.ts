@@ -269,7 +269,7 @@ export const overwhereIiGreymaws = {
     },
     {
       fact: "Dray's men carted the last five greymaws down; their chambers sit in a crate in Dray's storeroom.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Dray keeps the five chambers for Nala, and hands them to a Keep rider who asks in her name.",
