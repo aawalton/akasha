@@ -5,7 +5,7 @@ export const hollowmere0028ImSayingIt = {
   type: "page-type/story-chapter-written",
   slug: "hollowmere-0028-im-saying-it",
   cover: "image/image-15e230e8bf1cfed2",
-  ownProgress: 2058,
+  ownProgress: 2082,
   position: 28,
   unit: "unit/words",
   title: "I'm Saying It",
