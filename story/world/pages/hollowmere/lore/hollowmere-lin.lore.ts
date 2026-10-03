@@ -304,6 +304,14 @@ export const hollowmereLin = {
         "character-player/hollowmere-nala",
       ],
     },
+    {
+      fact: "In Sigils Lin slid Nala an ink drawing of a mended cup with a smiling face, and went pink.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/hollowmere-lin",
+        "character-player/hollowmere-nala",
+      ],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore

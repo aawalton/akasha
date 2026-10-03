@@ -87,5 +87,5 @@ export const hollowmere0017EmergencyContact = {
     "character-other/hollowmere-kit",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/mechanics", "story-recorder/inventory"],
+  recordedBy: ["story-recorder/mechanics", "story-recorder/inventory", "story-recorder/memory"],
 } as const satisfies StoryChapterWritten

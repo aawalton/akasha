@@ -125,6 +125,7 @@ export const hollowmereNala2 = {
         "character-player/hollowmere-nala",
         "character-other/hollowmere-penhallow",
         "character-other/hollowmere-kit",
+        "character-other/hollowmere-shiv",
       ],
     },
     {
@@ -133,7 +134,7 @@ export const hollowmereNala2 = {
     },
     {
       fact: "The Nala whose life this was grew up in care, and has no family who will come looking for her.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/hollowmere-nala"],
     },
     {
       fact: "Breathing out longer, Nala mended her cracked cup to the base, a faint line left; the tutor: Yes.",
@@ -141,11 +142,43 @@ export const hollowmereNala2 = {
     },
     {
       fact: "A note in Nala's pigeonhole calls her to the bursar's office at two on Wednesday, to sign papers.",
-      knowers: ["lore-disclosure/game-master", "character-player/hollowmere-nala"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-bea",
+      ],
     },
     {
       fact: "Nala's bursary file lists no next of kin, and says she was in the care of Calderdale council.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/hollowmere-nala"],
+    },
+    {
+      fact: "Nala named Bea her emergency contact on her bursary file: Beatrix Lindqvist, Thornfield 15.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-bea",
+      ],
+    },
+    {
+      fact: "Crying by the lodge, Nala promised the Nala before her to look after her life as well as she can.",
+      knowers: ["lore-disclosure/game-master", "character-player/hollowmere-nala"],
+    },
+    {
+      fact: "Nala's phone holds Bea's and Lin's numbers now, and a note: Shiv, rock, Sundays; Kit, Hall, six.",
+      knowers: ["lore-disclosure/game-master", "character-player/hollowmere-nala"],
+    },
+    {
+      fact: "Nala's mending sigils came out loose and even, and the Sigils tutor nodded as she passed.",
+      knowers: ["lore-disclosure/game-master", "character-player/hollowmere-nala"],
+    },
+    {
+      fact: "Nala read a poem about a lamp in a window at poetry, better; the third-year with rings: Better.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-kit",
+      ],
     },
   ],
 } as const satisfies Lore

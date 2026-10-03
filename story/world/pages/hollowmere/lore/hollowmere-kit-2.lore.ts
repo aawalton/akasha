@@ -115,5 +115,48 @@ export const hollowmereKit2 = {
         "character-player/hollowmere-nala",
       ],
     },
+    {
+      fact: "Watched by Nala and Bea, Kit froze, then laughed at Bea's squeak, and her glim held to seven.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/hollowmere-kit",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-bea",
+      ],
+    },
+    {
+      fact: "Cast again before Nala and Bea, Kit's glim held to ten; Kit asked them back Thursday at three.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/hollowmere-kit",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-bea",
+      ],
+    },
+    {
+      fact: "Kit asked Bea to bring Lin to the hall on Thursday, if she'd come.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/hollowmere-kit",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-bea",
+      ],
+    },
+    {
+      fact: "At poetry Kit held Nala's eyes and read, steady, a poem of a girl learning to swim in cold water.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/hollowmere-kit",
+        "character-player/hollowmere-nala",
+      ],
+    },
+    {
+      fact: "Kit told Nala that poem was for her; Nala said I know, and Kit kissed her on Thornfield's step.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/hollowmere-kit",
+        "character-player/hollowmere-nala",
+      ],
+    },
   ],
 } as const satisfies Lore

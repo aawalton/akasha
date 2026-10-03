@@ -401,6 +401,23 @@ export const hollowmereBea = {
         "character-player/hollowmere-nala",
       ],
     },
+    {
+      fact: "Kit asked Bea, very formally, if she was still free at six; Bea said she'd cleared her diary.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/hollowmere-bea",
+        "character-other/hollowmere-kit",
+        "character-player/hollowmere-nala",
+      ],
+    },
+    {
+      fact: "Told she is Nala's emergency contact, Bea hugged her hard; told there's no one else, she held on.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/hollowmere-bea",
+        "character-player/hollowmere-nala",
+      ],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore

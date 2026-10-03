@@ -301,6 +301,14 @@ export const hollowmereShiv = {
         "character-other/hollowmere-lin",
       ],
     },
+    {
+      fact: "Told Penhallow's Whose wanting?, Shiv said to Nala: Yours, eejit. Whose else would it be?",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-shiv",
+      ],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
