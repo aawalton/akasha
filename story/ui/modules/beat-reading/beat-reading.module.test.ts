@@ -27,6 +27,11 @@ test("a value read at a beat is the value the pages hold as of that beat", () =>
   expect(overlayOf(BEATS, 2).valueOf(XP, "value", 160)).toBe(160)
 })
 
+test("a value the later chapters moved on is still the beat's own value", () => {
+  expect(overlayOf(BEATS, 1).valueOf(XP, "value", 9999)).toBe(140)
+  expect(overlayOf(BEATS, 2).valueOf(XP, "value", 9999)).toBe(160)
+})
+
 test("a page made in a later beat is drawn nowhere before that beat", () => {
   expect(overlayOf(BEATS, 1).shows(LAMP)).toBe(false)
   expect(overlayOf(BEATS, 2).shows(LAMP)).toBe(true)

@@ -73,17 +73,22 @@ function madeValue(page: Page, key: string, beat: number): unknown {
   return value
 }
 
-function stripLast(value: unknown): unknown {
-  return Array.isArray(value) ? value.slice(0, -ONE) : value
+function stripLast(value: unknown, times: number): unknown {
+  return Array.isArray(value) ? value.slice(0, Math.max(FIRST, value.length - times)) : value
 }
 
-function unwound(page: Page, key: string, current: unknown, beat: number): unknown {
-  let value = current
-  for (let at = page.changes.length - ONE; at >= FIRST; at -= ONE) {
-    const change = page.changes[at]
-    if (change === undefined || change.beat <= beat) break
-    if (change.key !== key) continue
-    value = change.append === undefined ? change.from : stripLast(value)
+function atBeat(page: Page, key: string, current: unknown, beat: number): unknown {
+  const mine = page.changes.filter((one) => one.key === key)
+  const first = mine[FIRST]
+  if (first === undefined) return current
+  if (first.append !== undefined) {
+    const after = mine.filter((one) => one.beat > beat).length
+    return stripLast(current, after)
+  }
+  let value: unknown = first.from
+  for (const change of mine) {
+    if (change.beat > beat) break
+    value = change.to
   }
   return value
 }
@@ -101,7 +106,7 @@ export function overlayOf(beats: Beats, beat: number): BeatOverlay {
     valueOf: (page, key, current) => {
       const held = pages.get(page)
       if (held === undefined) return current
-      return held.made === null ? unwound(held, key, current, beat) : madeValue(held, key, beat)
+      return held.made === null ? atBeat(held, key, current, beat) : madeValue(held, key, beat)
     },
   }
 }
