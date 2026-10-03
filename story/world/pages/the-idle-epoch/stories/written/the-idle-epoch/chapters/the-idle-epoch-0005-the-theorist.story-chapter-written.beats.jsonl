@@ -1,0 +1,65 @@
+{"beat":1,"event":"The Exchange smells of burnt coffee and desperation as Callum weaves through the morning crowd.","at":"2025-12-21T13:00:00.000Z","place":"place/the-idle-epoch-exchange","present":["character-player/the-idle-epoch-callum"]}
+{"beat":2,"event":"He has come for four Echo Stones, the anchors the 80%-built Enhancement Construct still needs."}
+{"beat":3,"event":"Echo Stones come from the Shardfield, Tier 2-3, where his constructs cannot survive."}
+{"beat":4,"event":"A mineral vendor with a Vanguard tabard over one shoulder wants two hundred Gold each."}
+{"beat":5,"event":"Eight hundred would breach his emergency buffer, and the price has doubled in two weeks."}
+{"beat":6,"event":"\"Supply's tight,\" the vendor shrugs; the Vanguard controls the Shardfield and the prices."}
+{"beat":7,"event":"Three stalls down a young man pitches Iteration Tokens holding four thousand reps of a kill pattern.","arrive":["character-other/the-idle-epoch-jin"]}
+{"beat":8,"event":"The vendor walks off mid-pitch; the kid tells the empty air the yield curve is \"a lot.\""}
+{"beat":9,"event":"\"Automation yield curve\": Callum's own phrase, from page forty-seven of his notebook."}
+{"beat":10,"event":"About nineteen, in a U of M hoodie under lopsided leather armor, hands full of amber tokens."}
+{"beat":11,"event":"Callum walks over: \"You know what Iteration Tokens are actually worth, don't you?\""}
+{"beat":12,"event":"He means in a compound loop, with an Enhancement Construct feeding back into the pattern."}
+{"beat":13,"event":"The kid lights up: nobody in Detroit runs a closed compound loop, only flat parallel threads."}
+{"beat":14,"event":"\"Like running a factory with one conveyor belt,\" Callum says. \"Who are you?\""}
+{"beat":15,"event":"\"Jin. Jin Park. I'm a Summoner.\" Former U of M, computer science and applied math."}
+{"beat":16,"event":"Jin reasons out Thread Spinner, then reads Callum's Idle Yield: over two, at Level 13."}
+{"beat":17,"event":"\"Your class is unique.\" Callum says nothing, and doesn't walk away. Jin offers coffee."}
+{"beat":18,"event":"At a food stall on the Exchange's west edge, over something technically coffee, Jin talks."}
+{"beat":19,"event":"Constructs are process threads, not soldiers, Jin says; the interesting part is the topology."}
+{"beat":20,"event":"On a napkin he draws combat, gathering and processing, then adds an Enhancement node."}
+{"beat":21,"event":"Output becomes the product, not the sum: the same diagram as Callum's notebook, page twelve."}
+{"beat":22,"event":"Callum says the Enhancement Construct waits on Echo Stones at two hundred Gold each."}
+{"beat":23,"event":"He shares his Gathering Construct's log with Jin, who reads it in twelve seconds."}
+{"beat":24,"event":"The posted twelve-hour moss cycle is an average: the north regrows in 11h47m, the south 12h06m."}
+{"beat":25,"event":"The timing costs about four percent; pre-sorting the Refinery's input would win back twelve."}
+{"beat":26,"event":"A sorting function takes two or three lines, and Callum has headroom at Complexity 30.5."}
+{"beat":27,"event":"A parallel path through the regeneration overlap zones would add eight percent more collection."}
+{"beat":28,"event":"Three months walking the Overgrowth, six notebooks of data, and nothing to do with it, Jin says."}
+{"beat":29,"event":"Callum's constructs can't reach past Tier 1; Jin has heard Mira partnered with him."}
+{"beat":30,"event":"Even Mira can't farm the Shardfield sustainably alone, Jin says. His answer: his summons."}
+{"beat":31,"event":"Chunk, a Level 14 earth elemental tank, has run six weeks; Zephyr, Level 13 wind, five."}
+{"beat":32,"event":"His summons can kill there, but he has no collection or processing: a mine with no smelter."}
+{"beat":33,"event":"Callum's factory would collect and refine, and the feedback would improve both their systems."}
+{"beat":34,"event":"Jin's summons are effectively permanent idle loops: set and forget."}
+{"beat":35,"event":"Chunk needs two weeks to hold the Shardfield alone, Zephyr three; faster with Callum collecting."}
+{"beat":36,"event":"Pixel, a scout familiar, could map spawns ahead and pull singles, cutting multi-pulls sixty percent."}
+{"beat":37,"event":"Nobody has done this, Jin says: Callum built a feedback system with scrap and a pipe wrench."}
+{"beat":38,"event":"Mid-sentence about Echo Stones, the world flickers gold. Level up, 13 to 14.","at":"2025-12-21T13:45:00.000Z","changes":[{"page":"metric-character-level/the-idle-epoch-callum","key":"value","from":13,"to":14,"note":"Level 13 to 14 while he sits in the food stall"}]}
+{"beat":39,"event":"He allocates at once: Intelligence to 53, Wisdom to 56, and one point of Vitality to 19.","changes":[{"page":"metric-character-stat/the-idle-epoch-callum-intelligence","key":"value","from":51,"to":53,"note":"Level 14: +2 Intelligence"},{"page":"metric-character-stat/the-idle-epoch-callum-wisdom","key":"value","from":54,"to":56,"note":"Level 14: +2 Wisdom"}]}
+{"beat":40,"event":"The Vitality point is a concession to mortality, after Mira's evening lecture on dying."}
+{"beat":41,"event":"\"Did you just level up? While sitting in a food stall?\" \"My constructs are still running.\""}
+{"beat":42,"event":"\"That's the most beautiful thing I've ever heard. It's idle poetry,\" Jin says."}
+{"beat":43,"event":"Jin wants to see the workshop, and has an idea: paired tokens as stand-in resonance nodes."}
+{"beat":44,"event":"\"Jin. Breathe.\" Jin laughs, startled: he talks a lot when excited, fair warning."}
+{"beat":45,"event":"Nineteen, orphaned in the first wave, Jin is the first since the Emergence to speak his language."}
+{"beat":46,"event":"\"Finish your coffee. We'll walk back to the warehouse. I'll show you the topology.\""}
+{"beat":47,"event":"They leave by the northern gate as the sky turns the colour of tarnished brass.","at":"2025-12-21T20:30:00.000Z","place":"place/the-idle-epoch-foundry-district"}
+{"beat":48,"event":"Jin covers summon AI, thread limits at INT 100, and Chunk learning to hide behind a rock."}
+{"beat":49,"event":"Summon AI is grown by sustained deployment, Jin says; Callum's Compile Familiar may be the same."}
+{"beat":50,"event":"Jin nearly walks into a lamp: three weeks running, Pip may be learning from Callum's patterns."}
+{"beat":51,"event":"Pip blinks; Callum looks at it with new eyes. \"We'll table that. Echo Stones first.\""}
+{"beat":52,"event":"Near the warehouse, a prickle at the back of his neck: someone is watching."}
+{"beat":53,"event":"An Iron Vanguard scout at a machine shop's corner, forty meters off, studies his Flux exhaust."}
+{"beat":54,"event":"The scout notes the two of them, makes no move, and walks off; Jin, mid-sentence, never sees."}
+{"beat":55,"event":"The Vanguard is watching his warehouse. Insufficient data; monitor. It feels like a shadow."}
+{"beat":56,"event":"\"You okay? You went quiet. Quieter.\" \"I'm fine. Keep talking.\" \"Bold instruction.\""}
+{"beat":57,"event":"Inside the warehouse Jin turns a slow circle among the constructs, silent for four seconds.","at":"2025-12-21T21:00:00.000Z","place":"place/the-idle-epoch-warehouse","present":["character-player/the-idle-epoch-callum","character-other/the-idle-epoch-jin","character-other/the-idle-epoch-mira"]}
+{"beat":58,"event":"\"It's more beautiful than I imagined.\" He sits cross-legged on the floor and starts writing."}
+{"beat":59,"event":"From the back, where she has been tending her sword, Mira calls: \"Callum, who's the kid?\""}
+{"beat":60,"event":"\"Jin Park. Summoner. He's going to help with the Shardfield problem.\""}
+{"beat":61,"event":"Will he talk this much the entire time? \"Almost certainly, yes,\" says Jin."}
+{"beat":62,"event":"Mira looks him over, saber on her shoulder: \"Three of us now. We're practically a guild.\""}
+{"beat":63,"event":"\"We're not a guild.\" \"An optimized multi-class cooperative,\" Jin offers. \"So a guild.\""}
+{"beat":64,"event":"The sun drops behind the roofline; the chimney's Flux exhaust shimmers, visible for blocks."}
+{"beat":65,"event":"Visible to anyone who is watching. And someone is."}
