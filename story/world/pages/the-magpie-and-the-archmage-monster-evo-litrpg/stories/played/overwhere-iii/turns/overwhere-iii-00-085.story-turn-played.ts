@@ -15,14 +15,14 @@ export const overwhereIii00085 = {
     "character-other/overwhere-iii-mother-sallow",
     "character-other/overwhere-iii-marda-hesk",
   ],
-  stepStatus: "step-status/game-master",
+  stepStatus: "step-status/writer",
   action:
     "“Whose house was that and how long have you known them? There was a woman there who commanded the wolves, but she was corrupted. When I confronted her, her face changed.”",
   beats: [
     '"Whose house was that, and how long have you known them?"',
     '"There was a woman there who commanded the wolves, but she was corrupted."',
     '"When I confronted her, her face changed."',
-    "Edda goes very still in her barrow.",
+    "Beside her barrow, Edda goes very still.",
     '"Mother Sallow\'s. Two winters. She came to the empty hut by the brook and took up burning."',
     '"Said she kept two big dogs against the wolves. Never let a soul near that lean-to."',
     '"Sold little charcoal, and never lacked coin. I thought that odd." Her jaw works.',
