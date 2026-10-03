@@ -37,5 +37,23 @@ export const hollowmereLin2 = {
         "character-other/hollowmere-lin",
       ],
     },
+    {
+      fact: "Lin's pigeonhole was still empty on Monday of week five; she says the end of the week.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-lin",
+        "character-other/hollowmere-bea",
+        "character-other/hollowmere-priya",
+      ],
+    },
+    {
+      fact: "Lin called her pen so gently it floated to her like a leaf, and she smiled to herself.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-lin",
+      ],
+    },
   ],
 } as const satisfies Lore

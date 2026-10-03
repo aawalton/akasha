@@ -377,5 +377,9 @@ export const hollowmereNala2 = {
         "character-other/hollowmere-yusra",
       ],
     },
+    {
+      fact: "Nala can call a button and a thimble every time; by four her head ached, and she stopped.",
+      knowers: ["lore-disclosure/game-master", "character-player/hollowmere-nala"],
+    },
   ],
 } as const satisfies Lore

@@ -257,5 +257,14 @@ export const hollowmerePriya = {
         "character-player/hollowmere-nala",
       ],
     },
+    {
+      fact: "Priya went to charmcraft in a clean white blouse, hair pinned up; Amara walked her to the door.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-priya",
+        "character-other/hollowmere-amara",
+      ],
+    },
   ],
 } as const satisfies Lore

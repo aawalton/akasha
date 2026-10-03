@@ -296,5 +296,14 @@ export const hollowmereAmara = {
         "character-other/hollowmere-lin",
       ],
     },
+    {
+      fact: "After watching Kit's thimble, Amara called her pen too fast, and it smacked her knuckles.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-amara",
+        "character-other/hollowmere-kit",
+      ],
+    },
   ],
 } as const satisfies Lore

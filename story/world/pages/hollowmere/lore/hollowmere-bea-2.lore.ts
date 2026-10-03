@@ -221,5 +221,24 @@ export const hollowmereBea2 = {
         "character-player/hollowmere-nala",
       ],
     },
+    {
+      fact: "Bea woke Nala: Still true, I checked; I still love you. That night they made love in 15.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-bea",
+      ],
+    },
+    {
+      fact: "Bea's spoon shot off the bench and hit her forehead; she laughed loudest, and saluted with it.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-bea",
+        "character-other/hollowmere-kit",
+        "character-other/hollowmere-amara",
+        "character-other/hollowmere-lin",
+      ],
+    },
   ],
 } as const satisfies Lore

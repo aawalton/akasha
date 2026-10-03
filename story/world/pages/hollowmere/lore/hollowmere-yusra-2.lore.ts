@@ -94,5 +94,14 @@ export const hollowmereYusra2 = {
         "character-player/hollowmere-nala",
       ],
     },
+    {
+      fact: "Passing at breakfast, Yusra brushed Nala's shoulder once, light; Bea saw, and hid a grin.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-yusra",
+        "character-other/hollowmere-bea",
+      ],
+    },
   ],
 } as const satisfies Lore

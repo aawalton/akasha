@@ -94,5 +94,5 @@ export const hollowmere0029AskingNotGrabbing = {
     "character-other/hollowmere-morwenna",
   ],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/mechanics"],
+  recordedBy: ["story-recorder/inventory", "story-recorder/mechanics", "story-recorder/memory"],
 } as const satisfies StoryChapterWritten
