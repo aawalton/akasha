@@ -124,6 +124,10 @@ export const overwhereIiiMotherSallow = {
       fact: "Her crushing working is a crushing blow; she spends it once, when first brought under half health.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Whistled up, her wolves reach the fight one exchange later; each bite is a solid, blighted blow.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
