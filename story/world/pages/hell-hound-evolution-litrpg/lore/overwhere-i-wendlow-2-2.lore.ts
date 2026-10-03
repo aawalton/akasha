@@ -126,7 +126,7 @@ export const overwhereIWendlow22 = {
     },
     {
       fact: "Lowcross ferry lies half a day east of Wendlow; the Ferryman's bounty pays on him, alive or dead.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
     {
       fact: "Breakfast on day 9 is the Bell and Barrel's porridge with honey and small beer.",
