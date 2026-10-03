@@ -11,4 +11,5 @@ export const overwhereIii00083 = {
   action:
     "I use my my legendary Mana Weaver trait to pull ALL the natural weaves in the area into a tight knot right where the woman is, not trying to make a clean weave, instead trying to make the conflict on purpose to trigger a desperate explosion or chain reaction.",
   lore: ["lore/overwhere-iii-current-knot", "lore/overwhere-iii-mother-sallow"],
+  endsAt: "2026-10-08T13:35:00.000Z",
 } as const satisfies StoryTurnPlayed
