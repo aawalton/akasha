@@ -96,5 +96,9 @@ export const overwhereIWendlow2 = {
       fact: "Grete breaks the letter's seal, reads it, and goes still: the seal is the guild counting-house's.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Only the guild's factor uses the counting-house seal, and Grete knows it.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
