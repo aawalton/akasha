@@ -229,6 +229,18 @@ export const overwhereIiNala3 = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
+      fact: "Nala refines her gut whole on day twenty-five, sick and cramping for hours.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+    },
+    {
+      fact: "Nala's liver fights hardest yet; refined whole on day twenty-six, its fever breaks by morning.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+    },
+    {
+      fact: "When the Whitecombs thunder on day twenty-six's night, Nala's well leans south, heavy and cold.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+    },
+    {
       fact: "Nala took Lady Varrow's lesser bond; Sir Edric witnessed it, naming her free blade of Varrow Keep.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
