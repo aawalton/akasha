@@ -1,17 +1,17 @@
-{"beat":1,"event":"Hild holds Nala's answer a moment, watching her, then takes her hand and turns it over."}
+{"beat":1,"event":"Hild holds Nala's answer a moment, watching her, then takes her hand and turns it over.","memory":[{"page":"lore/otherwhere-vii-nala","fact":"Nala has no kin living; she says no one living is hers.","learns":"character-other/otherwhere-vii-hild"}]}
 {"beat":2,"event":"\"Soft,\" she says, thumb across the palm. \"Blistered in a morning. You've never turned a field.\""}
-{"beat":3,"event":"She looks down at the clogs, and at the scabbed cuts above them."}
-{"beat":4,"event":"\"No name I'd know, no kin, no shoes. Orphan, exile or runaway. It's one of the three.\""}
-{"beat":5,"event":"\"I'll not press you past that. You'd not answer it straight, and I've no need.\""}
+{"beat":3,"event":"She looks down at the clogs, and at the scabbed cuts above them.","memory":[{"page":"lore/otherwhere-vii-nala","fact":"Her hands are blistered from the basket, and her bare feet are cut and sore from the road.","learns":"character-other/otherwhere-vii-hild"},{"page":"lore/otherwhere-vii-hild","fact":"Hild reads a stranger by her hands, feet and eyes before she hears a word of her story.","learns":"character-player/otherwhere-vii-nala"}]}
+{"beat":4,"event":"\"No name I'd know, no kin, no shoes. Orphan, exile or runaway. It's one of the three.\"","memory":[{"page":"lore/otherwhere-vii-hild","fact":"Hild hears 'no one living is mine' as orphan, exile or runaway, and judges which by the hands.","learns":"character-player/otherwhere-vii-nala"}]}
+{"beat":5,"event":"\"I'll not press you past that. You'd not answer it straight, and I've no need.\"","memory":[{"page":"place/otherwhere-vii-ashford","fact":"Country folk take 'far enough that you haven't heard of it' for a refusal, and ask once only.","shown":true}]}
 {"beat":6,"event":"\"I've known a few of each, and they come in with that same look about the mouth.\""}
-{"beat":7,"event":"She reaches into her basket and sets a small pot of grease on the board by Nala's cup."}
-{"beat":8,"event":"\"Comfrey and lard. Work it into the palms tonight and the blisters will hold.\""}
-{"beat":9,"event":"\"A penny, or a morning's picking, which I'd sooner: yarrow and comfrey by the bunch.\""}
-{"beat":10,"event":"\"Quarter-penny a bunch, fresh cut. The riverbank's picked bare; the good wet ground's north.\""}
+{"beat":7,"event":"She reaches into her basket and sets a small pot of grease on the board by Nala's cup.","changes":[{"page":"world-item/otherwhere-vii-comfrey-salve","note":"Hild sets a pot of comfrey salve on the board","make":{"title":"Comfrey Salve","world":"world/god-of-trash","description":"A small pot of comfrey worked into lard, for blisters and raw hands."}}]}
+{"beat":8,"event":"\"Comfrey and lard. Work it into the palms tonight and the blisters will hold.\"","memory":[{"page":"lore/otherwhere-vii-hild","fact":"Hild's grease for blistered palms is comfrey and lard, worked in at night.","learns":"character-player/otherwhere-vii-nala"}]}
+{"beat":9,"event":"\"A penny, or a morning's picking, which I'd sooner: yarrow and comfrey by the bunch.\"","memory":[{"page":"lore/otherwhere-vii-hild","fact":"Hild would treat blistered hands and cut feet for a penny, or for a morning's herb picking.","learns":"character-player/otherwhere-vii-nala"}]}
+{"beat":10,"event":"\"Quarter-penny a bunch, fresh cut. The riverbank's picked bare; the good wet ground's north.\"","memory":[{"page":"lore/otherwhere-vii-hild","fact":"Hild would offer Nala herb-picking at a quarter-penny a bunch, and ask her nothing more.","learns":"character-player/otherwhere-vii-nala"},{"page":"lore/otherwhere-vii-hild","fact":"Hild pays a quarter-penny a bunch for herbs, or sets a penny against a pot of her grease.","learns":"character-player/otherwhere-vii-nala"},{"page":"place/otherwhere-vii-ashford","fact":"The north meadow is the herb ground; the riverbank by the ford is picked bare by Ashford's wives.","learns":"character-player/otherwhere-vii-nala"}]}
 {"beat":11,"event":"She turns to Joan: the fever has a week in it, and Bet watched again tonight."}
 {"beat":12,"event":"Joan nods, sets the little pot on the shelf, and lets the question of pennies lie."}
-{"beat":13,"event":"Hild says Bet slept badly, and that the fever takes a child here in some years."}
+{"beat":13,"event":"Hild says Bet slept badly, and that the fever takes a child here in some years.","memory":[{"page":"lore/otherwhere-vii-hild","fact":"A marsh fever off the river runs through Ashford most autumns, and takes a child some years.","learns":"character-player/otherwhere-vii-nala"}]}
 {"beat":14,"event":"At the door she stops with her basket on her arm, and looks back at Nala a long moment."}
-{"beat":15,"event":"\"A woman alone needs a place, and Ashford can be one. It holds, and the folk in it hold.\""}
+{"beat":15,"event":"\"A woman alone needs a place, and Ashford can be one. It holds, and the folk in it hold.\"","memory":[{"page":"lore/otherwhere-vii-hild","fact":"Hild would tell a kinless woman plainly that she needs a place, and that Ashford could be one.","learns":"character-player/otherwhere-vii-nala"}]}
 {"beat":16,"event":"\"So. Are you for staying here, or for the road?\""}
 {"beat":17,"event":"\"I'll put in a word for you in this village, or I'll hold my peace about you. Which is it?\""}
