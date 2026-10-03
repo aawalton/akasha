@@ -5,16 +5,19 @@ export const beatState = {
   type: "page-type/domain",
   slug: "beat-state",
   definition: "the state of a story worked out by replaying its beats in order",
-  parts: ["module/beat-replay", "module/beat-changes", "module/beat-memory"],
+  parts: ["module/beat-replay", "module/beat-changes", "module/beat-memory", "module/beat-records"],
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "A beat's event is a line of the turn's beats, as it always was.",
+      statement: "A turn's beats are one file beside its page, one json record to a beat.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement:
-        "Each step's part of a beat is a list of its own on the turn, keyed by beat number.",
+      statement: "A beat's record holds its event and every step's part of that beat.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Each step replaces only its own part of each beat's record.",
     },
     {
       decisionKind: "decision-kind/departure",

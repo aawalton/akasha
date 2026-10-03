@@ -116,7 +116,7 @@ function listIn(value: unknown): readonly string[] | null {
   return value.every((one) => typeof one === "string") ? value : null
 }
 
-function sceneOf(beat: number, held: Readonly<Record<string, unknown>>): BeatScene | string {
+export function sceneOf(beat: number, held: Readonly<Record<string, unknown>>): BeatScene | string {
   const scene: Record<string, unknown> = { beat }
   for (const key of TEXTS) {
     const value = held[key]

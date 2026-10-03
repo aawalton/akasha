@@ -30,7 +30,7 @@ const PARTED = "/"
 
 const KNOWN: readonly string[] = ["beat", "page", "note", "key", "from", "to", "append", "make"]
 
-function recordIn(line: string): Readonly<Record<string, unknown>> | null {
+export function recordIn(line: string): Readonly<Record<string, unknown>> | null {
   try {
     const held: unknown = JSON.parse(line)
     if (typeof held === "object" && held !== null && !Array.isArray(held)) {
