@@ -312,5 +312,9 @@ export const overwhereIStarfallLegacy2 = {
       fact: "Spikes are aimed by sight, so dazzled by eye beams she finds them a band harder.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "A spike costs 20 mana; twin spikes are two workings at 40, one act, one roll, landing as two hits.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
