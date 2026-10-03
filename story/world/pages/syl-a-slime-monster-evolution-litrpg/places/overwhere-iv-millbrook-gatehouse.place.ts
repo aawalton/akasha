@@ -325,5 +325,13 @@ export const overwhereIvMillbrookGatehouse = {
       fact: "Told of the strike broken at Tull's, Hale lets Nala keep her boots, tunic and jerkin, for no coin.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Leaving the watch, Nala kept her boots, tunic and jerkin, and Hale paid her a full week's 5 silver.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+    },
+    {
+      fact: "Hale told Nala the bunks are for the watch, and she'd want a bed elsewhere now.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+    },
   ],
 } as const satisfies Place

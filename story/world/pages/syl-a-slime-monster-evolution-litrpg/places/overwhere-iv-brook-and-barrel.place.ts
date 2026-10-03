@@ -124,5 +124,17 @@ export const overwhereIvBrookAndBarrel = {
       fact: "The inn's serving girl heats the bathwater and bars the washhouse door for a woman bathing.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
     },
+    {
+      fact: "At the inn a pallet in the common room is 2 copper a night; a small room upstairs is 5.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "A small room upstairs taken for a week is 3 silver, paid at the start.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Each small room upstairs has a straw-tick bed, a chest, a washstand, and a latch on the inside.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Place

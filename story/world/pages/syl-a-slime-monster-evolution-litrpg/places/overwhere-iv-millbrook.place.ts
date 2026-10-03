@@ -162,5 +162,9 @@ export const overwhereIvMillbrook = {
         "character-other/overwhere-iv-oswin-pike",
       ],
     },
+    {
+      fact: "Besides the Brook and Barrel, Millbrook has no inn; a widow or two lets a bed by the week, for less.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Place
