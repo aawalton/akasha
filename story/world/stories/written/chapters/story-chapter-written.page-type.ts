@@ -22,22 +22,12 @@ export const storyChapterWritten = {
       many: true,
       maxCount: null,
     },
-    {
-      pageProperty: "record-property/chapter-pictured",
-      required: false,
-      many: true,
-      maxCount: null,
-    },
   ],
   parts: [
     "module/chapter-making",
     "module/chapter-panels",
     "module/chapter-read-backlog",
     "multi-relation-property/scene-images",
-    "record-property/chapter-pictured",
-    "relation-property/pictured-character",
-    "text-property/pictured-outfit",
-    "text-property/pictured-setting",
   ],
   detailConfig: {
     frame: {
@@ -76,6 +66,11 @@ export const storyChapterWritten = {
     {
       decisionKind: "decision-kind/departure",
       statement: "Each recorder's drafted edits land with that recorder's own advance.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A chapter's cover and scene images stay on its page; what each shows is on a beat.",
     },
     {
       decisionKind: "decision-kind/absence",

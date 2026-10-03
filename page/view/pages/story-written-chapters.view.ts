@@ -36,7 +36,6 @@ export const storyWrittenChapters = {
     "parts-length-in-words",
     "parts-progress-in-words",
     "parts-remaining-in-words",
-    "pictured",
     "position",
     "prose",
     "published-at",

@@ -489,8 +489,6 @@
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"story/world/stories/played/turns/properties/cover-after.text-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"story/world/stories/played/turns/properties/turn-action.text-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"story/world/stories/read/properties/external-tags.text-property.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"story/world/stories/written/chapters/properties/pictured-outfit.text-property.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"story/world/stories/written/chapters/properties/pictured-setting.text-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"temper/catalog/champion-point/temper-champion-star/properties/champion-constellation.text-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"temper/catalog/companion/base-role/properties/abbreviation.text-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"temper/catalog/companion/base-role/properties/default-main-hand.text-property.ts","typed":true,"deferred":false}

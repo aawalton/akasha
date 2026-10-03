@@ -223,7 +223,6 @@
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"story/world/stories/played/properties/cover-reroll.relation-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"story/world/stories/played/properties/turn-undo.relation-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"story/world/stories/played/properties/world.relation-property.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"story/world/stories/written/chapters/properties/pictured-character.relation-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"temper/addon/properties/bundle-entry.relation-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"temper/catalog/companion/armor-piece/properties/piece-armor-slot.relation-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"temper/catalog/companion/armor-piece/properties/piece-armor-weight.relation-property.ts","typed":true,"deferred":false}

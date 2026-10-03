@@ -4154,7 +4154,6 @@
 {"propertySlug":"decision-kind","path":"story/world/stories/written/chapters/modules/chapter-making/chapter-making.module.ts","id":"01a0e96e-2932-7927-bb2d-8c23a95bf20f"}
 {"propertySlug":"decision-kind","path":"story/world/stories/written/chapters/modules/chapter-panels/chapter-panels.module.ts","id":"01a0e9a4-dccf-7135-965e-fa2e6d11f276"}
 {"propertySlug":"decision-kind","path":"story/world/stories/written/chapters/modules/chapter-read-backlog/chapter-read-backlog.module.ts","id":"01a101a0-8e82-7cc9-bf4e-7c98a929e008"}
-{"propertySlug":"decision-kind","path":"story/world/stories/written/chapters/properties/chapter-pictured.record-property.ts","id":"01a0fd84-f744-7edb-ab5b-96e3dba38ab5"}
 {"propertySlug":"decision-kind","path":"story/world/stories/written/chapters/properties/scene-images.multi-relation-property.ts","id":"01a0f989-7860-7eba-93de-3c93e9601896"}
 {"propertySlug":"decision-kind","path":"story/world/stories/written/chapters/story-chapter-written.page-type.ts","id":"01a06554-d8bd-712b-86b4-ade0001027ee"}
 {"propertySlug":"decision-kind","path":"story/world/stories/written/modules/chapter-writing/chapter-writing.module.ts","id":"01a0e971-8b9c-7100-bec8-8d0af82a161f"}
