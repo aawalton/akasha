@@ -39,6 +39,10 @@ export const overwhereIOdileVarne = {
       fact: "She would want a stranger's name, home and lord, and would write them down.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Odile Varne holds her court in the Moot Hall, the town hall on the square.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
