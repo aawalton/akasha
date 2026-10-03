@@ -1,0 +1,83 @@
+{"beat":1,"event":"Senne Vareth recognises the inscription wall's script: not the letters, the substrate.","place":"place/the-dungeon-of-one-thousand-deaths-the-opening","present":["character-other/the-dungeon-of-one-thousand-deaths-senne-vareth","character-other/the-dungeon-of-one-thousand-deaths-osren"]}
+{"beat":2,"event":"The depth and pressure of each cut carry the writer's body and state of mind."}
+{"beat":3,"event":"She has spent forty-three years reading exactly that variation."}
+{"beat":4,"event":"The entrance keeper has briefed her; she takes no notes until she has read the source."}
+{"beat":5,"event":"Twenty-one inscriptions; the newest, TOVA FENN, still settling into the stone."}
+{"beat":6,"event":"Its even, uniform cuts were made by a system performing a function: it records, not grieves.","changes":[{"page":"metric-character-stat/the-dungeon-of-one-thousand-deaths-senne-vareth-attunement","key":"value","from":9,"to":10,"note":"Deep Reading of the inscription wall, counted as one activation"}]}
+{"beat":7,"event":"The military entries share an institutional regularity that breaks at the word SCRIBE."}
+{"beat":8,"event":"She reads all twenty-one in three hours; the keeper brings her water and says nothing."}
+{"beat":9,"event":"She was not compelled: six months ago a colleague described the wall as rough, functional."}
+{"beat":10,"event":"That was wrong, and she set down forty years' work on a dead civilisation's text and walked."}
+{"beat":11,"event":"The wall is a living archive, learning over decades how to describe what it records."}
+{"beat":12,"event":"She came to read what was written; vocation is close to the word, not close enough."}
+{"beat":13,"event":"She asks if anyone entered with written materials: the researcher's notebook, in the Crucible."}
+{"beat":14,"event":"\"Are there any marks left by entrants inside?\" The keeper sees a document anew. \"Several.\""}
+{"beat":15,"event":"The Gullet is organic like a living specimen, warm, present as a sleeping body.","leave":["character-other/the-dungeon-of-one-thousand-deaths-osren"],"place":"place/the-dungeon-of-one-thousand-deaths-the-gullet"}
+{"beat":16,"event":"She is not afraid: organisms are legible; everything that persists leaves marks."}
+{"beat":17,"event":"The Ledger: Depth 2, the Marrow Warrens, Resolve +1, now 16.","place":"place/the-dungeon-of-one-thousand-deaths-the-marrow-warrens","changes":[{"page":"metric-character-stat/the-dungeon-of-one-thousand-deaths-senne-vareth-resolve","key":"value","from":15,"to":16,"note":"Depth transition into the Marrow Warrens, Resolve +1"}]}
+{"beat":18,"event":"The Ledger names her The Reach, with the Gift Deep Reading: she reads a writing as its writer made it."}
+{"beat":19,"event":"Its Cost is The Frame Dissolves: each reading, less sure which side of the inscription she is on."}
+{"beat":20,"event":"The Ledger reads Vitality 11, Resolve 16, Attunement 9, Fortune 14."}
+{"beat":21,"event":"Voluntary: she came because there was a text. The Maw is watching."}
+{"beat":22,"event":"The Gift is not alien but a sharper version of herself; costs are precise."}
+{"beat":23,"event":"At a junction she reads a 6B charcoal mark: a surveyor's notation, precise, unhurried.","changes":[{"page":"metric-character-stat/the-dungeon-of-one-thousand-deaths-senne-vareth-attunement","key":"value","from":10,"to":11,"note":"Deep Reading of the surveyor's charcoal mark"}]}
+{"beat":24,"event":"At another, a pressed directional sign; reading it, she must rebuild who is who.","changes":[{"page":"metric-character-stat/the-dungeon-of-one-thousand-deaths-senne-vareth-attunement","key":"value","from":11,"to":12,"note":"Deep Reading of the pressed directional sign"}]}
+{"beat":25,"event":"She reconstructs the distinction, and notes the effort."}
+{"beat":26,"event":"The Ledger: Depth 3, the Still Garden, Resolve +1, now 17.","place":"place/the-dungeon-of-one-thousand-deaths-the-still-garden","present":["character-other/the-dungeon-of-one-thousand-deaths-senne-vareth","character-other/the-dungeon-of-one-thousand-deaths-the-gorger"],"changes":[{"page":"metric-character-stat/the-dungeon-of-one-thousand-deaths-senne-vareth-resolve","key":"value","from":16,"to":17,"note":"Depth transition into the Still Garden, Resolve +1"}]}
+{"beat":27,"event":"The creature is marked: the Keystone's crack, its revision, the Cull's seeping wound."}
+{"beat":28,"event":"On its shell are the Brand's technical marks, in a notation she can read: systems have grammar."}
+{"beat":29,"event":"The Patient tracks her and does not lunge, assessing her as she assesses an inscription."}
+{"beat":30,"event":"She stops ten meters off, beyond its strike range."}
+{"beat":31,"event":"She sees the Cull's knife on the floor by where its maker fell."}
+{"beat":32,"event":"Four hands across years have written on the creature's body; the creature is the parchment."}
+{"beat":33,"event":"She reads the Brand's notation in seven minutes: six stress points and a sequence of strikes.","changes":[{"page":"metric-character-stat/the-dungeon-of-one-thousand-deaths-senne-vareth-attunement","key":"value","from":12,"to":13,"note":"Deep Reading of the Brand's notation on The Patient"}]}
+{"beat":34,"event":"Its small note: if three, try left center seam first. The crack is at the left center seam."}
+{"beat":35,"event":"The marks worked: the Brand mapped it, and the Keystone read the map."}
+{"beat":36,"event":"Twenty more minutes on the sub-system, and she has drifted to six meters from it."}
+{"beat":37,"event":"They are very still, reading each other, and the frame slips."}
+{"beat":38,"event":"She steps back to ten meters, deliberately; rebuilding herself takes longer."}
+{"beat":39,"event":"She is Senne Vareth, sixty-eight, and the notebook is at Depth 4. She takes the western bypass."}
+{"beat":40,"event":"The Ledger: Depth 4, the Crucible, Resolve +1, now 18.","place":"place/the-dungeon-of-one-thousand-deaths-the-crucible","present":["character-other/the-dungeon-of-one-thousand-deaths-senne-vareth","character-other/the-dungeon-of-one-thousand-deaths-the-crucible-emanator","character-other/the-dungeon-of-one-thousand-deaths-tova-fenn"],"changes":[{"page":"metric-character-stat/the-dungeon-of-one-thousand-deaths-senne-vareth-resolve","key":"value","from":17,"to":18,"note":"Depth transition into the Crucible, Resolve +1"}]}
+{"beat":41,"event":"The warmth is inside her rather than on her; her joints stiffen as the records said."}
+{"beat":42,"event":"The notebook lies between the two death sites, its cover warped, its paper desiccated, not rotted."}
+{"beat":43,"event":"She sits beside it and puts her hand on the cover."}
+{"beat":44,"event":"Deep Reading gives her the researcher who saw curiosity was itself a kind of compulsion.","changes":[{"page":"metric-character-stat/the-dungeon-of-one-thousand-deaths-senne-vareth-attunement","key":"value","from":13,"to":14,"note":"Deep Reading of Aldous Vren's notebook"}]}
+{"beat":45,"event":"I cannot tell the difference, and that is the answer to my question."}
+{"beat":46,"event":"She receives his death, notating until he could not: I am here. I came here."}
+{"beat":47,"event":"Seven minutes; the frame now needs active maintenance."}
+{"beat":48,"event":"She stands, looks at the courier's tube, and does not go to it: she has read enough."}
+{"beat":49,"event":"She turns toward the exit, about twenty minutes from the threshold."}
+{"beat":50,"event":"Reading the quartz's radiating pattern, she sees it stop at the Emanator's base."}
+{"beat":51,"event":"A flat space a meter and a half wide; in it, two human hands pressed to the creature."}
+{"beat":52,"event":"The quartz has grown round the wrists, not over the palms: the contact has held."}
+{"beat":53,"event":"She knows it as a fact from the keeper; reading it as a document is different."}
+{"beat":54,"event":"She crosses and crouches at the edge of Vigil's Rest, the pressure on one side only."}
+{"beat":55,"event":"She puts her hand on the hands, and Deep Reading activates.","changes":[{"page":"metric-character-stat/the-dungeon-of-one-thousand-deaths-senne-vareth-attunement","key":"value","from":14,"to":15,"note":"Deep Reading of Tova Fenn's hands"}]}
+{"beat":56,"event":"She receives a midwife holding her 848th: a creature older than any language she has read."}
+{"beat":57,"event":"She receives the thirty-one minutes, the four, and the correspondence."}
+{"beat":58,"event":"The frame breaks: she cannot say what the dungeon is reading her as."}
+{"beat":59,"event":"Forty-three years she read things that could not read her back."}
+{"beat":60,"event":"The dungeon laid its materials out in order: wall, marks, notation, notebook, hands."}
+{"beat":61,"event":"She has been reading the dungeon; the dungeon has been writing her."}
+{"beat":62,"event":"Which side of the inscription is she on? The frame has dissolved."}
+{"beat":63,"event":"Her grasp of the facts is whole: joints severe, sight a coin, breath beginning to fail."}
+{"beat":64,"event":"What is gone is her certainty of standing apart from them."}
+{"beat":65,"event":"The midwife's Gift is still holding; she reads the act, not the effect."}
+{"beat":66,"event":"I am reading an act of holding. I am holding the record of it. I am inside the record."}
+{"beat":67,"event":"The threshold comes like the last clause of a sentence sixty-eight years long.","changes":[{"page":"metric-character-stat/the-dungeon-of-one-thousand-deaths-senne-vareth-vitality","key":"value","from":11,"to":0,"note":"Senne dies of the Crucible Emanator's emanation, Vitality 11 to 0"}]}
+{"beat":68,"event":"Quartz, growth rings, two hands, and her own on top: three layers, reading all the way down."}
+{"beat":69,"event":"The death report: Senne Vareth, the Reach, Depth 4; six readings, the frame fully dissolved."}
+{"beat":70,"event":"Thirty-eight minutes: the longest survival at Depth 4, thanks to Vigil's Rest."}
+{"beat":71,"event":"A midwife who held things past her own death held a scholar past hers."}
+{"beat":72,"event":"Her Memory Crystal is gold: love, the kind that is indistinguishable from vocation."}
+{"beat":73,"event":"She read the dungeon; the dungeon read her. Neither was wrong."}
+{"beat":74,"event":"Ledger note: she is the first to notice who writes the Ledger. The Ledger is the answer."}
+{"beat":75,"event":"For the third time in a row the Ledger records the crystal first."}
+{"beat":76,"event":"The Maw has never asked who authors the Ledger: is it a text writing itself?"}
+{"beat":77,"event":"It notes: the instrument of understanding is also what is being understood."}
+{"beat":78,"event":"It adds no category for her; the name is sufficient."}
+{"beat":79,"event":"At the Emanator's base, her hand rests on Tova's hands, and Tova's Hold still holds."}
+{"beat":80,"event":"Osren records the glow: gold, twelve seconds, the first gold and the longest yet.","place":"place/the-dungeon-of-one-thousand-deaths-the-camp","present":["character-other/the-dungeon-of-one-thousand-deaths-osren"]}
+{"beat":81,"event":"The effects box is full; he notes that a second container is needed."}
+{"beat":82,"event":"The fire burns, and evening begins: 978 remain."}
+{"beat":83,"event":"SENNE VARETH — DEPTH 4 — FIRST TO READ."}
