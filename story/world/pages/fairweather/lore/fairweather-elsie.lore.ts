@@ -111,7 +111,7 @@ export const fairweatherElsie = {
     },
     {
       fact: "A Tether Elsie makes is a pact the bound one can break at will.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/fairweather-elsie"],
     },
     {
       fact: "A Tether Elsie makes pours strength into the bound one rather than out of her.",
