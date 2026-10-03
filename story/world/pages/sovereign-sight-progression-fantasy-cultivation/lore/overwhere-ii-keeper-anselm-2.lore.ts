@@ -87,5 +87,9 @@ export const overwhereIiKeeperAnselm2 = {
       fact: "Senior Keeper Maud Ashby rode into Wendle Ford on day twenty-eight, asking after Nala.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
+    {
+      fact: "Anselm says Hob Tarrant could forge the cold iron stakes to ring the Callow tidepool.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+    },
   ],
 } as const satisfies Lore
