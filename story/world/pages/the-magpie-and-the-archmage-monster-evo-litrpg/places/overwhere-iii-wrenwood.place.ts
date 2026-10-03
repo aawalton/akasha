@@ -298,7 +298,7 @@ export const overwhereIiiWrenwood = {
     },
     {
       fact: "Raw currents run thick along the Wren Brook above the ford, blue, green and yellow, enough to knot.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
   ],
   secrets: "jsonl",
