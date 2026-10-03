@@ -47,17 +47,4 @@ export const hollowmere0021KickSiobhan = {
     "story-recorder/picture",
   ],
   scenes: ["image/image-ae0c5e8ef44e6ba8", "image/image-a67a88e24a56e9de"],
-  pictured: [
-    {
-      cover: "image/image-ae0c5e8ef44e6ba8",
-      coverAfter: "On the rock after, you sit wrapped in the parka together.",
-      character: "character-other/hollowmere-shiv",
-      outfit: "navy parka over bare skin, wet hair, bare legs",
-    },
-    {
-      cover: "image/image-a67a88e24a56e9de",
-      coverAfter: "After the meal, Kit falls into step with you in the cloister.",
-      setting: "the cloister",
-    },
-  ],
 } as const satisfies StoryChapterWritten

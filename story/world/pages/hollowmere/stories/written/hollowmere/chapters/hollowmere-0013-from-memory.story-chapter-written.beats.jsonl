@@ -1,5 +1,5 @@
 {"beat":1,"event":"Saturday: you skip the swimmers and go down to the boathouse at seven, wrapped in Bea's jumper."}
-{"beat":2,"event":"Novice rowing: coxed fours on the grey water, mist on the mere, the captain bawling from a launch."}
+{"beat":2,"event":"Novice rowing: coxed fours on the grey water, mist on the mere, the captain bawling from a launch.","pictured":[{"cover":"image/image-5acf231ca2c4ec8d","coverAfter":"Out on the water, a small motor launch is idling, and standing up in","character":"character-other/hollowmere-morwenna","outfit":"sleeveless navy club fleece, navy wool headband"}]}
 {"beat":3,"event":"Bea rows at bow, hair scraped back, face set; her boat catches a crab and nearly stops dead."}
 {"beat":4,"event":"You cheer from the jetty anyway, too loud; Bea's crew laughs and Bea goes scarlet and grins."}
 {"beat":5,"event":"On the second length her boat finds its rhythm, and Bea's blade goes in clean every stroke."}
@@ -9,12 +9,12 @@
 {"beat":9,"event":"\"I kept thinking about the debate,\" she says. \"Amara. The ring.\" She stops, and goes pink."}
 {"beat":10,"event":"Bea and you exchange a look; Bea says gently that thinking about things is allowed."}
 {"beat":11,"event":"Priya laughs, too high, and changes the subject to the clockwork mouse at charmcraft."}
-{"beat":12,"event":"Two o'clock: you knock on room 8 on the middle floor; Lin opens it in a paint-spotted apron."}
+{"beat":12,"event":"Two o'clock: you knock on room 8 on the middle floor; Lin opens it in a paint-spotted apron.","pictured":[{"cover":"image/image-06cbcf2fb0cc2c07","coverAfter":"She's frowning. She's in a red corduroy pinafore with her hair knotted up","character":"character-other/hollowmere-priya","outfit":"red corduroy pinafore over a striped long-sleeved top"}]}
 {"beat":13,"event":"Her walls are pinned with drawings: the fells, hands, the mere, girls on the quad, a heron."}
 {"beat":14,"event":"She sits you on the window seat with the quad behind you and the afternoon light on your face."}
 {"beat":15,"event":"\"Just be still,\" she says. \"You can talk. I'll tell you when you can't.\""}
-{"beat":16,"event":"She draws in charcoal, quick and then slow; the only sound is the scratch and her breathing."}
-{"beat":17,"event":"She comes over once to turn your chin to the light with two fingers, very gently, and goes back."}
+{"beat":16,"event":"She draws in charcoal, quick and then slow; the only sound is the scratch and her breathing.","pictured":[{"cover":"image/image-e4b5d7a2c76387ab","coverAfter":"The door opens at once. Lin is standing there in a canvas apron","character":"character-other/hollowmere-lin","outfit":"paint-spotted canvas apron over a grey knit jumper, long pleated skirt"}]}
+{"beat":17,"event":"She comes over once to turn your chin to the light with two fingers, very gently, and goes back.","pictured":[{"cover":"image/image-d22789bdc2065199","coverAfter":"The walls are drawings. Every inch of them, pinned up edge to edge from","setting":"Lin's room"}]}
 {"beat":18,"event":"You talk about Hebden Bridge, the room above the shop on your letter, the place you've never seen."}
 {"beat":19,"event":"Lin draws a long minute; then: \"You talk like someone who's new here. To all of it.\""}
 {"beat":20,"event":"You say you are, in ways you can't explain yet; Lin nods, and draws on, and lets it be."}

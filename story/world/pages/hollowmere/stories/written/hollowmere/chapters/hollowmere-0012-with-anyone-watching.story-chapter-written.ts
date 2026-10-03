@@ -51,28 +51,4 @@ export const hollowmere0012WithAnyoneWatching = {
     "image/image-f1fe344228a79604",
     "image/image-39d5d1b60ef9e07f",
   ],
-  pictured: [
-    {
-      cover: "image/image-6946c5f16c70b599",
-      coverAfter: "The grey one is too big; it hangs off you like a sack.",
-      character: "character-player/hollowmere-nala",
-      outfit: "white cotton vest and dark grey wool skirt, bare legs",
-    },
-    {
-      cover: "image/image-109fac87f9b6a1f7",
-      coverAfter: "The grey one is too big; it hangs off you like a sack.",
-      character: "character-player/hollowmere-nala",
-      outfit: "soft moss-green jumper and dark grey wool skirt",
-    },
-    {
-      cover: "image/image-f1fe344228a79604",
-      coverAfter: "At six the bus comes into the village, out of the dusk, its windows",
-      setting: "the village bus stop",
-    },
-    {
-      cover: "image/image-39d5d1b60ef9e07f",
-      coverAfter: "Her lamp is on. The light falls out across the corridor in a long",
-      setting: "Bea's room",
-    },
-  ],
 } as const satisfies StoryChapterWritten

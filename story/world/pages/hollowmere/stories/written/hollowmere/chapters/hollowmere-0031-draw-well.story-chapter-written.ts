@@ -40,18 +40,4 @@ export const hollowmere0031DrawWell = {
     "story-recorder/picture",
   ],
   scenes: ["image/image-2a05961b75ff1a26", "image/image-71f478324daf3ee6"],
-  pictured: [
-    {
-      cover: "image/image-2a05961b75ff1a26",
-      coverAfter: "In her knickers, only that. With her arms crossed over her chest.",
-      character: "character-other/hollowmere-lin",
-      outfit: "white cotton knickers",
-    },
-    {
-      cover: "image/image-71f478324daf3ee6",
-      coverAfter: "Her small soft breasts. Her light brown nipples, hard in the cool of",
-      character: "character-other/hollowmere-lin",
-      outfit: "naked",
-    },
-  ],
 } as const satisfies StoryChapterWritten

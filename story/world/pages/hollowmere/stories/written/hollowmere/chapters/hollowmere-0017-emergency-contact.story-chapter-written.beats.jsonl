@@ -10,7 +10,7 @@
 {"beat":10,"event":"Lunch: Kit sits with you and Bea, and asks Bea, very formally, if she is still free at six."}
 {"beat":11,"event":"Bea says she's cleared her whole diary; Kit says Bea has no diary; Bea says that's beside the point."}
 {"beat":12,"event":"Two: the porters' lodge, and a panelled room behind it; the bursar's clerk is brisk and elderly."}
-{"beat":13,"event":"She has a file with your name on it, and a form to sign for the term's allowance: eighty a week."}
+{"beat":13,"event":"She has a file with your name on it, and a form to sign for the term's allowance: eighty a week.","pictured":[{"cover":"image/image-6fc4a56dc7904e91","coverAfter":"Behind the lodge, through a door with a frosted glass panel, there's a","setting":"the bursar's office"}]}
 {"beat":14,"event":"\"Next of kin,\" she says. \"Your file has none. You were in the care of Calderdale council.\""}
 {"beat":15,"event":"You sit very still. The clerk looks up over her glasses. \"Until eighteen, it says. You knew that.\""}
 {"beat":16,"event":"You say yes, because the Nala who sat here before would have; your hands are cold in your lap."}
@@ -19,7 +19,7 @@
 {"beat":19,"event":"You write: Beatrix Lindqvist, Thornfield House, room 15. The clerk nods and blots it."}
 {"beat":20,"event":"You sign for the allowance in your new careful hand; she hands you a receipt and says good day."}
 {"beat":21,"event":"Outside, you sit on the low wall by the lodge in the cold, and find you're crying, a little."}
-{"beat":22,"event":"For her: the girl whose life this was, who grew up with no one, and got here anyway, alone."}
+{"beat":22,"event":"For her: the girl whose life this was, who grew up with no one, and got here anyway, alone.","pictured":[{"cover":"image/image-49c9b21c0881dd3c","coverAfter":"There's a low stone wall by the lodge, under a dripping tree.","setting":"the low stone wall by the lodge"}]}
 {"beat":23,"event":"You say to her, under your breath, that you'll look after it. Her life. As well as you can."}
 {"beat":24,"event":"You walk the shore path alone in the free afternoon, as far as the village jetty and back."}
 {"beat":25,"event":"At the jetty wall where Bea kissed you, you sit a while and watch the mist lift off the water."}
@@ -45,7 +45,7 @@
 {"beat":45,"event":"Kit walks you back across the quad and says, at Thornfield's door, \"That poem was for you.\""}
 {"beat":46,"event":"\"I know,\" you say. She kisses you on the step, and goes, and her ears are scarlet in the lamplight."}
 {"beat":47,"event":"In 14 you take out the cheap phone from your trunk; it still has no contacts in it at all."}
-{"beat":48,"event":"You knock on 15 and ask Bea for her number; she reads it out twice, and Lin's from her phone."}
+{"beat":48,"event":"You knock on 15 and ask Bea for her number; she reads it out twice, and Lin's from her phone.","pictured":[{"cover":"image/image-53f61d90b0c4f5a1","coverAfter":"The mist has gone. The night is cold and clear and full of","setting":"Thornfield's door"}]}
 {"beat":49,"event":"You type them in, slowly: Bea. Lin. Kit's you'll ask for tomorrow, in History."}
 {"beat":50,"event":"You add a note for the rest: Shiv, the rock, Sundays. Kit, Hall, six."}
 {"beat":51,"event":"You look at the screen: two names and a note. More than the girl before you had in this phone."}

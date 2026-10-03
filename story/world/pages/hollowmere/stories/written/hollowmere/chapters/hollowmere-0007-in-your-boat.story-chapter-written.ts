@@ -52,34 +52,4 @@ export const hollowmere0007InYourBoat = {
     "image/image-6894107a63747dc9",
     "image/image-211ff578dfc4062f",
   ],
-  pictured: [
-    {
-      cover: "image/image-61e5008b567d0f8a",
-      coverAfter: "On the rock she wraps you in her parka again. She zips it to your chin",
-      character: "character-other/hollowmere-shiv",
-      outfit: "naked",
-    },
-    {
-      cover: "image/image-7d26bc88d62c154c",
-      coverAfter: "In the late morning you go down to the laundry.",
-      setting: "the laundry",
-    },
-    {
-      cover: "image/image-4912818b20844e8b",
-      coverAfter: "Shiv. Her hair is damp and curling and she's in her grey hoodie, and her plate",
-      character: "character-other/hollowmere-shiv",
-      outfit: "grey hoodie",
-    },
-    {
-      cover: "image/image-6894107a63747dc9",
-      coverAfter: "It's down on the academy shore, past Shiv's rock, a long low wooden building",
-      setting: "the boathouse",
-    },
-    {
-      cover: "image/image-211ff578dfc4062f",
-      coverAfter: "Bea is there, at the counter, with the kettle. And Lin is there too, up from",
-      character: "character-other/hollowmere-lin",
-      outfit: "cardigan, hair loose",
-    },
-  ],
 } as const satisfies StoryChapterWritten

@@ -54,24 +54,4 @@ export const hollowmere0009GoodnightNala = {
     "image/image-cdf11fa6b384f60c",
     "image/image-1ae1d72d9abae353",
   ],
-  pictured: [
-    {
-      cover: "image/image-e68ea34e0c29d660",
-      coverAfter: "You go in your coat over your nightshirt and the fisherman's jumper",
-      character: "character-player/hollowmere-nala",
-      outfit:
-        "navy wool coat over a cream fisherman's jumper over the long white nightshirt, trainers",
-    },
-    {
-      cover: "image/image-cdf11fa6b384f60c",
-      coverAfter: "It's a long white room. Six beds, three down each side, with",
-      setting: "the infirmary",
-    },
-    {
-      cover: "image/image-1ae1d72d9abae353",
-      coverAfter: "She's in a white tunic, short-sleeved, buttoned at the shoulder, like a",
-      character: "character-other/hollowmere-yusra",
-      outfit: "white short-sleeved healer's tunic, reading glasses, hair tied back",
-    },
-  ],
 } as const satisfies StoryChapterWritten

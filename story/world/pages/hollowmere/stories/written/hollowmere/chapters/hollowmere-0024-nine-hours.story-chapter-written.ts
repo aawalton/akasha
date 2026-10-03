@@ -55,23 +55,4 @@ export const hollowmere0024NineHours = {
     "image/image-54ed4a9fa4c53dd1",
     "image/image-8509d30cde6185da",
   ],
-  pictured: [
-    {
-      cover: "image/image-9a9363e53f926714",
-      coverAfter: "You slide out from under the covers. The floor is cold. You find a jumper",
-      character: "character-player/hollowmere-nala",
-      outfit: "Bea's enormous jumper over a long white cotton nightshirt, thick socks",
-    },
-    {
-      cover: "image/image-54ed4a9fa4c53dd1",
-      coverAfter: "Her room is neat as a ward.",
-      setting: "room 1",
-    },
-    {
-      cover: "image/image-8509d30cde6185da",
-      coverAfter: "Her hair is washed. It's down, still damp at the ends, long and black",
-      character: "character-other/hollowmere-yusra",
-      outfit: "soft loose grey jumper with the sleeves down over her hands, hair washed and down",
-    },
-  ],
 } as const satisfies StoryChapterWritten

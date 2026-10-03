@@ -45,31 +45,4 @@ export const emberdeep0002ChalkArrows = {
     "image/image-d5f677ce8b87acd3",
     "image/image-f632ba9a165f0a8c",
   ],
-  pictured: [
-    {
-      cover: "image/image-2c4242ee0f9e9dc7",
-      coverAfter: "The light changes the moment you pass beneath it. The sun is behind you,",
-      setting: "the ramp and gate below the Mouth",
-    },
-    {
-      cover: "image/image-76fa37fb40cb2d87",
-      coverAfter: "The Long Hall opens up round you in the lamplight a little at a time.",
-      setting: "the Long Hall",
-    },
-    {
-      cover: "image/image-b7ec1a8a14bf8e0a",
-      coverAfter: "The Well Room is square and high, and in the middle of it is a well.",
-      setting: "the Well Room",
-    },
-    {
-      cover: "image/image-d5f677ce8b87acd3",
-      coverAfter: "There's a side room off the Well Room, small and half-choked with rubble where",
-      setting: "the rubble side room off the Well Room",
-    },
-    {
-      cover: "image/image-f632ba9a165f0a8c",
-      coverAfter: "Then Wren leads you on, past the Well Room, along another passage and another,",
-      setting: "the Dry Stair",
-    },
-  ],
 } as const satisfies StoryChapterWritten

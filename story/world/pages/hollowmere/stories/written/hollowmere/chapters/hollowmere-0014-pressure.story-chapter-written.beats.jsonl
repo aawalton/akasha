@@ -1,7 +1,7 @@
 {"beat":1,"event":"Sunday: the storm wakes you before dawn, rain hurled at the window, the old frame rattling."}
 {"beat":2,"event":"From the window the mere is white, waves running at the shore, the fells gone in grey cloud."}
 {"beat":3,"event":"At first light Shiv is at your door, soaked through from a short dash, hood streaming."}
-{"beat":4,"event":"\"Rock's off,\" she says, grinning. \"Even I'm not that daft.\" She drips on your floor and stays."}
+{"beat":4,"event":"\"Rock's off,\" she says, grinning. \"Even I'm not that daft.\" She drips on your floor and stays.","pictured":[{"cover":"image/image-5044081892ae020b","coverAfter":"You sit on your bed together with your backs against the wall,","character":"character-other/hollowmere-shiv","outfit":"white T-shirt under Nala's grey wool jumper, bare feet"}]}
 {"beat":5,"event":"You sit on your bed wrapped in one blanket together and watch the white mere from the window."}
 {"beat":6,"event":"Shiv tells you about storms at home in Galway; her da took her out in one once, and her mam wept."}
 {"beat":7,"event":"She falls asleep against your shoulder for an hour, her wet hair in your neck, smelling of rain."}
@@ -25,7 +25,7 @@
 {"beat":25,"event":"At six the lights flicker and hold; Priya draws a warming sigil on the teapot to keep it hot."}
 {"beat":26,"event":"At nine a crash upstairs: a window at the end of the top corridor has blown in."}
 {"beat":27,"event":"Rain and wind pour through; glass on the floorboards; girls in the corridor in pyjamas, shrieking."}
-{"beat":28,"event":"Yusra is there at once in a jumper and jeans, hair loose, giving orders: back, shoes on, towels."}
+{"beat":28,"event":"Yusra is there at once in a jumper and jeans, hair loose, giving orders: back, shoes on, towels.","pictured":[{"cover":"image/image-2e12ba71b8c5002a","coverAfter":"She's there already, from nowhere, in a jumper and jeans, her hair down loose,","character":"character-other/hollowmere-yusra","outfit":"dark jumper and jeans, hair down loose"}]}
 {"beat":29,"event":"You fetch the towels; she sends the others to their rooms and keeps you to hold the board."}
 {"beat":30,"event":"You hold a plank of wood across the broken frame while she drives in nails, rain in your faces."}
 {"beat":31,"event":"Your hands are on the board beside hers, your shoulder against her arm; both of you soaked."}
@@ -36,6 +36,6 @@
 {"beat":36,"event":"She binds it herself after with a strip from her kit, quick and practised, in the corridor light."}
 {"beat":37,"event":"\"Thank you, Nala,\" Yusra says. \"Go to bed. Dry off first.\" She touches your wet sleeve once."}
 {"beat":38,"event":"In your room you can hear Kit in Bea's room across the corridor, both of them laughing at something."}
-{"beat":39,"event":"Kit sleeps on Bea's floor in borrowed pyjamas; you hear them talking low until the storm drops."}
+{"beat":39,"event":"Kit sleeps on Bea's floor in borrowed pyjamas; you hear them talking low until the storm drops.","pictured":[{"cover":"image/image-a3b56ed848fa9107","coverAfter":"Kit is sleeping on Bea's floor tonight. You saw her on your way","character":"character-other/hollowmere-kit","outfit":"Bea's pyjamas, far too long, rolled up at the ankles"}]}
 {"beat":40,"event":"At midnight the wind falls; the rain softens; the mere goes dark and quiet under the cloud."}
 {"beat":41,"event":"A day at Hollowmere ends."}

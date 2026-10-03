@@ -1,6 +1,6 @@
 {"beat":1,"event":"Wednesday of week four: you wake at six, rested; you slept all night, the way you promised."}
 {"beat":2,"event":"Bea is a warm weight at your back, still asleep, her blistered hand open on your hip."}
-{"beat":3,"event":"You slide out, pull on a jumper and socks, and go down to the Thornfield kitchen in the half-dark."}
+{"beat":3,"event":"You slide out, pull on a jumper and socks, and go down to the Thornfield kitchen in the half-dark.","pictured":[{"cover":"image/image-9a9363e53f926714","coverAfter":"You slide out from under the covers. The floor is cold. You find a jumper","character":"character-player/hollowmere-nala","outfit":"Bea's enormous jumper over a long white cotton nightshirt, thick socks"}]}
 {"beat":4,"event":"You put the kettle on, and bread under the grill, and the window over the sink goes slowly grey."}
 {"beat":5,"event":"At quarter past six the back door opens: Yusra, in from the infirmary, her coat damp with mist."}
 {"beat":6,"event":"She has your flask in her hand. She stops in the doorway when she sees you, and stands there."}
@@ -25,7 +25,7 @@
 {"beat":25,"event":"\"Pressure,\" you say softly, squeezing her hand. Yusra laughs, wet and surprised. \"Good,\" she says."}
 {"beat":26,"event":"She finishes the toast. Then she says, \"I need to sleep,\" and stays sitting, and looks at you."}
 {"beat":27,"event":"You walk her up the quiet stairs to the top floor, to room 1 at the head of them."}
-{"beat":28,"event":"Her room is neat as a ward: a narrow bed, a desk of books, a jug and a glass, a lamp."}
+{"beat":28,"event":"Her room is neat as a ward: a narrow bed, a desk of books, a jug and a glass, a lamp.","pictured":[{"cover":"image/image-54ed4a9fa4c53dd1","coverAfter":"Her room is neat as a ward.","setting":"room 1"}]}
 {"beat":29,"event":"She sits on the bed in her clothes and takes off her shoes, slowly, like it's hard work."}
 {"beat":30,"event":"\"Will you sit,\" she says. \"Just till I'm off. That's all.\" You sit on the chair by the bed."}
 {"beat":31,"event":"She lies down on top of the blankets; you take the folded throw from the foot and cover her."}
@@ -50,7 +50,7 @@
 {"beat":50,"event":"Dinner in the kitchen: Bea back from the boathouse, Priya and Amara cooking side by side again."}
 {"beat":51,"event":"At half past seven Yusra comes down the stairs, hair washed, in a soft grey jumper, rested."}
 {"beat":52,"event":"She stands in the doorway and finds you across the kitchen. \"Nine hours,\" she says, only to you."}
-{"beat":53,"event":"\"Nine,\" you say. She nods, and takes a plate of dal from Priya, and sits down beside you."}
+{"beat":53,"event":"\"Nine,\" you say. She nods, and takes a plate of dal from Priya, and sits down beside you.","pictured":[{"cover":"image/image-8509d30cde6185da","coverAfter":"Her hair is washed. It's down, still damp at the ends, long and black","character":"character-other/hollowmere-yusra","outfit":"soft loose grey jumper with the sleeves down over her hands, hair washed and down"}]}
 {"beat":54,"event":"Her shoulder rests against yours through dinner; when Bea passes the bread, Yusra passes it on."}
 {"beat":55,"event":"After, she goes up first. At the turn of the stairs she looks back at you, and holds your eyes."}
 {"beat":56,"event":"In 15 Bea's already in bed, rubbing cream into her blisters, a towel under her hands."}

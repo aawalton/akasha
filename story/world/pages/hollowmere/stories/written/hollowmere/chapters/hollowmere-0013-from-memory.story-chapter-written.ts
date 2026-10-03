@@ -57,29 +57,4 @@ export const hollowmere0013FromMemory = {
     "image/image-e4b5d7a2c76387ab",
     "image/image-d22789bdc2065199",
   ],
-  pictured: [
-    {
-      cover: "image/image-5acf231ca2c4ec8d",
-      coverAfter: "Out on the water, a small motor launch is idling, and standing up in",
-      character: "character-other/hollowmere-morwenna",
-      outfit: "sleeveless navy club fleece, navy wool headband",
-    },
-    {
-      cover: "image/image-06cbcf2fb0cc2c07",
-      coverAfter: "She's frowning. She's in a red corduroy pinafore with her hair knotted up",
-      character: "character-other/hollowmere-priya",
-      outfit: "red corduroy pinafore over a striped long-sleeved top",
-    },
-    {
-      cover: "image/image-e4b5d7a2c76387ab",
-      coverAfter: "The door opens at once. Lin is standing there in a canvas apron",
-      character: "character-other/hollowmere-lin",
-      outfit: "paint-spotted canvas apron over a grey knit jumper, long pleated skirt",
-    },
-    {
-      cover: "image/image-d22789bdc2065199",
-      coverAfter: "The walls are drawings. Every inch of them, pinned up edge to edge from",
-      setting: "Lin's room",
-    },
-  ],
 } as const satisfies StoryChapterWritten

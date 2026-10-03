@@ -49,24 +49,4 @@ export const hollowmere0014Pressure = {
     "image/image-2e12ba71b8c5002a",
     "image/image-a3b56ed848fa9107",
   ],
-  pictured: [
-    {
-      cover: "image/image-5044081892ae020b",
-      coverAfter: "You sit on your bed together with your backs against the wall,",
-      character: "character-other/hollowmere-shiv",
-      outfit: "white T-shirt under Nala's grey wool jumper, bare feet",
-    },
-    {
-      cover: "image/image-2e12ba71b8c5002a",
-      coverAfter: "She's there already, from nowhere, in a jumper and jeans, her hair down loose,",
-      character: "character-other/hollowmere-yusra",
-      outfit: "dark jumper and jeans, hair down loose",
-    },
-    {
-      cover: "image/image-a3b56ed848fa9107",
-      coverAfter: "Kit is sleeping on Bea's floor tonight. You saw her on your way",
-      character: "character-other/hollowmere-kit",
-      outfit: "Bea's pyjamas, far too long, rolled up at the ankles",
-    },
-  ],
 } as const satisfies StoryChapterWritten

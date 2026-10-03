@@ -23,13 +23,4 @@ export const haremHotel0002TheBathhouse = {
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
   recordedBy: ["story-recorder/mechanics", "story-recorder/memory", "story-recorder/picture"],
-  pictured: [
-    {
-      cover: "image/image-a756bb5371e1c852",
-      coverAfter: "She lies along it on her back with one knee up and",
-      character: "character-other/harem-hotel-wren",
-      outfit: "naked",
-      setting: "the bathhouse",
-    },
-  ],
 } as const satisfies StoryChapterWritten

@@ -1,17 +1,17 @@
-{"beat":1,"event":"Thursday: you wake at six, before Bea's knock, with Shiv's \"some morning\" in your head."}
-{"beat":2,"event":"You pull on the fisherman's jumper over your knickers and bra and creep down to the shore."}
-{"beat":3,"event":"Shiv is on the slab of rock in her parka, peeling off her socks; she sees you and grins slowly."}
+{"beat":1,"event":"Thursday: you wake at six, before Bea's knock, with Shiv's \"some morning\" in your head.","pictured":[{"cover":"image/image-3c295160e7f3f886","coverAfter":"Then you get up. You don't let yourself think about it. You","character":"character-player/hollowmere-nala","outfit":"cream fisherman's jumper over knickers and a bra, bare legs, trainers"}]}
+{"beat":2,"event":"You pull on the fisherman's jumper over your knickers and bra and creep down to the shore.","pictured":[{"cover":"image/image-1b6af3543adaa10b","coverAfter":"The shore is grey and silent. The mere lies flat as a","setting":"the slab of rock"}]}
+{"beat":3,"event":"Shiv is on the slab of rock in her parka, peeling off her socks; she sees you and grins slowly.","pictured":[{"cover":"image/image-38838f1f6d33bf73","coverAfter":"She's sitting at the landward end in the big navy parka with","character":"character-other/hollowmere-shiv","outfit":"navy parka over a grey hoodie, bare legs"}]}
 {"beat":4,"event":"\"Some morning,\" she says. \"Grand.\" She strips bare, pulls on her cap, and holds out her hand."}
-{"beat":5,"event":"You strip to your knickers and bra, shaking already; the mere is ten degrees and black."}
+{"beat":5,"event":"You strip to your knickers and bra, shaking already; the mere is ten degrees and black.","pictured":[{"cover":"image/image-6a8cec36e064d1ec","coverAfter":"The cold hits your bare skin at once, everywhere, and you start","character":"character-player/hollowmere-nala","outfit":"knickers and a bra"}]}
 {"beat":6,"event":"Shiv says the trick is not to think; she counts three and you jump together, hand in hand."}
 {"beat":7,"event":"The cold hits like a fist; you surface shrieking, and Shiv's hand is still in yours."}
 {"beat":8,"event":"She holds you up, laughing, and tells you to breathe out, slow; you do, and the panic loosens."}
-{"beat":9,"event":"For one long minute you tread water together, the fells pink, your whole body burning and alive."}
+{"beat":9,"event":"For one long minute you tread water together, the fells pink, your whole body burning and alive.","pictured":[{"cover":"image/image-1cd418b2447fcc3f","coverAfter":"You're treading water, the two of you, face to face, in the","character":"character-player/hollowmere-nala","outfit":"Shiv's navy parka over wet knickers and a bra, bare legs"}]}
 {"beat":10,"event":"She hauls you out onto the rock and wraps you in her parka, rubbing your arms hard."}
 {"beat":11,"event":"Up close her wet freckled shoulders are inches from you; she sees you look, and stays close."}
 {"beat":12,"event":"Bea comes running along the shore at half six, sees you both, and stops dead, mouth open."}
 {"beat":13,"event":"\"You went IN?\" Bea shrieks; you nod, teeth chattering; she swears she's telling Yusra, grinning."}
-{"beat":14,"event":"Hot shower, the best of your life; your skin stays pink and humming all through breakfast."}
+{"beat":14,"event":"Hot shower, the best of your life; your skin stays pink and humming all through breakfast.","pictured":[{"cover":"image/image-611cd644977cc0a3","coverAfter":"It's Bea. She's come running along the shingle in her rowing top","character":"character-other/hollowmere-bea","outfit":"navy rowing top and black running tights"}]}
 {"beat":15,"event":"Ten o'clock: History of Magic in the Long Room; the old guilds, then the Licensing Act of 1858."}
 {"beat":16,"event":"Kit comes up the benches and, after a pause, silently takes the place beside you."}
 {"beat":17,"event":"The lecture names dates and kings you half know from Alan's history, gone strange here."}
@@ -33,14 +33,14 @@
 {"beat":33,"event":"Kit passes you on the way out and says, low, \"You did that on purpose.\" You shrug."}
 {"beat":34,"event":"She looks at you a long moment; \"Thank you,\" she says; you both nearly laugh at once."}
 {"beat":35,"event":"Thursday evening: Yusra makes cocoa for the whole top floor in the kitchen, a Thornfield custom."}
-{"beat":36,"event":"The kitchen is packed with girls in pyjamas and jumpers; Bea has fetched Lin up from downstairs."}
-{"beat":37,"event":"Yusra heats a big pan with a quick sigil, sleeves pushed up, off-duty, sitting on the counter after."}
+{"beat":36,"event":"The kitchen is packed with girls in pyjamas and jumpers; Bea has fetched Lin up from downstairs.","pictured":[{"cover":"image/image-b1d78e100d425174","coverAfter":"Bea has been down and fetched Lin up from the floor below.","character":"character-other/hollowmere-lin","outfit":"flannel pyjamas with a cardigan over them"}]}
+{"beat":37,"event":"Yusra heats a big pan with a quick sigil, sleeves pushed up, off-duty, sitting on the counter after.","pictured":[{"cover":"image/image-c75309434f028d86","coverAfter":"She's off duty. You can see it at once. She's in a","character":"character-other/hollowmere-yusra","outfit":"loose dark jumper with the sleeves pushed up, soft trousers"}]}
 {"beat":38,"event":"Bea announces to the kitchen that you made a glim today, and makes you show everyone."}
 {"beat":39,"event":"You cast it in the crowded kitchen, everyone watching; it rises, small and steady, and holds."}
 {"beat":40,"event":"The kitchen cheers; Lin claps her inky hands; Yusra raises her mug to you across the room."}
 {"beat":41,"event":"Later, the kitchen emptying, Yusra says quietly that a glim in four days from nothing is good."}
 {"beat":42,"event":"\"I said some take a month,\" she says. \"You're not some.\" She rinses your mug for you."}
-{"beat":43,"event":"Bea follows you into room 14 with her cocoa and sits on your bed, legs crossed, wanting to talk."}
+{"beat":43,"event":"Bea follows you into room 14 with her cocoa and sits on your bed, legs crossed, wanting to talk.","pictured":[{"cover":"image/image-9baa680230eeecef","coverAfter":"She has her cocoa, a fresh mug of it, which she must","character":"character-other/hollowmere-bea","outfit":"flannel pyjamas with clouds on them, thick bed socks"}]}
 {"beat":44,"event":"She tells you she's kissed girls and boys both, and likes girls best, and has never been in love."}
 {"beat":45,"event":"She asks if you have; you say it's complicated, and she accepts that, watching you."}
 {"beat":46,"event":"She lies back across your narrow bed beside you, still talking, slower and slower."}

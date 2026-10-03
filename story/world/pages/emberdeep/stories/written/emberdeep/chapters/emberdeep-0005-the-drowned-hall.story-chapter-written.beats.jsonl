@@ -19,14 +19,14 @@
 {"beat":19,"event":"Pale mushrooms glow faintly on the wet walls; Elowen knows them at once as gloomcaps."}
 {"beat":20,"event":"Elowen says apothecaries on Coppergate buy them fresh, a penny for six, for sleeping draughts."}
 {"beat":21,"event":"She picks them carefully into her herb pouch as they go."}
-{"beat":22,"event":"Wren tells them the dangers: blind white lizards as long as an arm hunt in the water."}
+{"beat":22,"event":"Wren tells them the dangers: blind white lizards as long as an arm hunt in the water.","pictured":[{"cover":"image/image-4700d328cb4b6c76","coverAfter":"It turns damp. Wet. It smells of stone and water and something green.","setting":"the wet passage at the foot of the Dry Stair, second level"}]}
 {"beat":23,"event":"Their bite festers, Wren says; keep out of deep water and watch the surface."}
 {"beat":24,"event":"The passage opens into the Drowned Hall, wide, its floor under knee-deep clear cold water."}
 {"beat":25,"event":"Their lamps light the water to the bottom, and the cold of it makes them gasp wading in."}
 {"beat":26,"event":"In a heap of fallen stone at the hall's edge Wren finds an ember-stone the size of a walnut."}
 {"beat":27,"event":"Wren says the second level's stones are bigger, and the market pays four pennies each."}
 {"beat":28,"event":"They search the hall's edges and fallen stone, wet to the knees, numb-footed."}
-{"beat":29,"event":"Nala finds one, then another; Elowen finds one wedged in a crack above the waterline."}
+{"beat":29,"event":"Nala finds one, then another; Elowen finds one wedged in a crack above the waterline.","pictured":[{"cover":"image/image-a4bfeb8fcee8d3d8","coverAfter":"It's wide. Wider than the Long Hall, wide enough that the far wall is","setting":"the Drowned Hall"}]}
 {"beat":30,"event":"Elowen fills her pouch with gloomcaps until she has eighteen."}
 {"beat":31,"event":"Nala sees a ripple in the water, moving against the current, toward Elowen's legs."}
 {"beat":32,"event":"She shouts; a long white lizard surges up out of the water at Elowen."}
@@ -51,7 +51,7 @@
 {"beat":51,"event":"Wren twists half her share into a scrap of cloth for Saltby."}
 {"beat":52,"event":"At the Brass Kettle they each pay four pennies for supper; Nala has three pennies left."}
 {"beat":53,"event":"They eat at the corner table, damp to the knees, too tired to talk at first."}
-{"beat":54,"event":"Wren asks Nala, lightly, whether there are lizards in Fennick."}
+{"beat":54,"event":"Wren asks Nala, lightly, whether there are lizards in Fennick.","pictured":[{"cover":"image/image-e2d847515039eb0e","coverAfter":"Then Elowen takes you both across Coppergate to an apothecary's shop, a narrow","setting":"the apothecary's shop on Coppergate"}]}
 {"beat":55,"event":"Nala puts her spoon down, and decides to tell them some of the truth."}
 {"beat":56,"event":"Nala tells them Fennick is a blank to her; her memory of this life begins in room 7."}
 {"beat":57,"event":"She says she woke there on Fourthday with a pack, a letter and a name stitched in the flap."}

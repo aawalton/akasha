@@ -38,21 +38,4 @@ export const emberdeep0005TheDrownedHall = {
     "image/image-a4bfeb8fcee8d3d8",
     "image/image-e2d847515039eb0e",
   ],
-  pictured: [
-    {
-      cover: "image/image-4700d328cb4b6c76",
-      coverAfter: "It turns damp. Wet. It smells of stone and water and something green.",
-      setting: "the wet passage at the foot of the Dry Stair, second level",
-    },
-    {
-      cover: "image/image-a4bfeb8fcee8d3d8",
-      coverAfter: "It's wide. Wider than the Long Hall, wide enough that the far wall is",
-      setting: "the Drowned Hall",
-    },
-    {
-      cover: "image/image-e2d847515039eb0e",
-      coverAfter: "Then Elowen takes you both across Coppergate to an apothecary's shop, a narrow",
-      setting: "the apothecary's shop on Coppergate",
-    },
-  ],
 } as const satisfies StoryChapterWritten

@@ -58,23 +58,4 @@ export const hollowmere0026ItKnowsMe = {
     "image/image-6f91605a6358db9e",
     "image/image-6d23a36a37e25d74",
   ],
-  pictured: [
-    {
-      cover: "image/image-a9c7c607040ce9d5",
-      coverAfter: "She's on the rug in the middle of the floor, in her vest",
-      character: "character-other/hollowmere-bea",
-      outfit: "vest and knickers",
-    },
-    {
-      cover: "image/image-6f91605a6358db9e",
-      coverAfter: "It's hot, and dim. After the bright cold outside it takes your eyes",
-      setting: "the forge",
-    },
-    {
-      cover: "image/image-6d23a36a37e25d74",
-      coverAfter: "She's in a leather apron, heavy and scarred, tied over her black jumper",
-      character: "character-other/hollowmere-kit",
-      outfit: "leather apron over a black jumper, sleeves rolled past the elbow, soot on her cheek",
-    },
-  ],
 } as const satisfies StoryChapterWritten

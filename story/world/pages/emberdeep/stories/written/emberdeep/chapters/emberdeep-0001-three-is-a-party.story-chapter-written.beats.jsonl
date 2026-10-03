@@ -1,9 +1,9 @@
-{"beat":1,"event":"Nala wakes in a narrow bed under a slanted ceiling, orange light seeping round a shutter."}
+{"beat":1,"event":"Nala wakes in a narrow bed under a slanted ceiling, orange light seeping round a shutter.","pictured":[{"cover":"image/image-601fd791b97f23d9","coverAfter":"It seeps in round the edge of a wooden shutter in a thin warm line,","setting":"room 7, Corbel House"}]}
 {"beat":2,"event":"Her last memory is being Alan, dozing over a book at his back window in the evening."}
 {"beat":3,"event":"She sits up and long dark red hair falls over her shoulders and into her lap."}
 {"beat":4,"event":"Her hands are small and pale, freckled across the backs, the nails short."}
 {"beat":5,"event":"She finds a washstand with a small mirror: a freckled girl of about twenty, blue-grey eyes."}
-{"beat":6,"event":"Under her nightshirt she has small soft breasts with pale pink nipples, and no cock at all."}
+{"beat":6,"event":"Under her nightshirt she has small soft breasts with pale pink nipples, and no cock at all.","pictured":[{"cover":"image/image-e9a85183119e3b33","coverAfter":"You're wearing a nightshirt of plain linen, thin with washing.","character":"character-player/emberdeep-nala","outfit":"linen nightshirt"}]}
 {"beat":7,"event":"She touches her face, her hair, her flat belly; every sense in this body is new to her."}
 {"beat":8,"event":"The room: a bed, a washstand, a chest, a row of pegs, a window over grey slate rooftops."}
 {"beat":9,"event":"Below the window, steep stone streets climb a mountainside, snow still on the peaks above."}
@@ -18,13 +18,13 @@
 {"beat":18,"event":"She wonders whether she can go back, and the room is silent on it."}
 {"beat":19,"event":"She dresses clumsily in the clothes from the pack: shirt, laced bodice, breeches, boots."}
 {"beat":20,"event":"She steps out onto a small top landing: one other door, marked 8, and a washroom."}
-{"beat":21,"event":"Door 8 bangs open and a small sun-browned girl hops out, pulling on a boot."}
+{"beat":21,"event":"Door 8 bangs open and a small sun-browned girl hops out, pulling on a boot.","pictured":[{"cover":"image/image-6aedf085d5e67743","coverAfter":"It goes badly. The shirt is easy enough, though the sleeves come down past","character":"character-player/emberdeep-nala","outfit":"linen shirt, laced brown bodice, brown breeches and boots"}]}
 {"beat":22,"event":"She has short sandy hair cut ragged, hazel eyes and a gap-toothed grin."}
 {"beat":23,"event":"She introduces herself fast: Wren Tolley, room 8, scout, and is Nala the new one in 7?"}
-{"beat":24,"event":"Nala gives her name as Nala, because the pack says so."}
-{"beat":25,"event":"Wren sees the pack and asks if she is registering today; Nala says she is."}
+{"beat":24,"event":"Nala gives her name as Nala, because the pack says so.","pictured":[{"cover":"image/image-8e92714599785d44","coverAfter":"Outside is a small top landing under the roof. Across from your door is another,","setting":"top landing, Corbel House"}]}
+{"beat":25,"event":"Wren sees the pack and asks if she is registering today; Nala says she is.","pictured":[{"cover":"image/image-75614b629f3774a5","coverAfter":"A girl hops out of it on one foot, hauling a boot onto the other.","character":"character-other/emberdeep-wren","outfit":"cream linen shirt, brown leather vest, dark brown breeches and boots"}]}
 {"beat":26,"event":"Wren says porridge is at seven and the widow does not hold it, and tugs her downstairs."}
-{"beat":27,"event":"In the kitchen a stout old widow ladles porridge from a pot on a glowing stone stove."}
+{"beat":27,"event":"In the kitchen a stout old widow ladles porridge from a pot on a glowing stone stove.","pictured":[{"cover":"image/image-8b1547acda9928ce","coverAfter":"She tugs you down the stairs, four tall narrow flights of them, past landings","setting":"kitchen, Corbel House"}]}
 {"beat":28,"event":"The widow tells Nala her room is paid to the end of the week, and rent is taken on Restday."}
 {"beat":29,"event":"Wren explains the stove: ember-stones from the Deep, warm and lit for months, no smoke."}
 {"beat":30,"event":"Nala asks what the Deep is, and Wren stares, then laughs and tells her."}
@@ -34,16 +34,16 @@
 {"beat":34,"event":"Wren offers to walk Nala down to the guild hall, since it is on her way to the party board."}
 {"beat":35,"event":"They go down Ladder Lane, long flights of stone steps lined with rooming houses."}
 {"beat":36,"event":"Nala's legs are shorter than she is used to, and she has to hurry to keep up."}
-{"beat":37,"event":"Wren talks the whole way: coin is pennies, marks and crowns; twelve pennies to a mark."}
+{"beat":37,"event":"Wren talks the whole way: coin is pennies, marks and crowns; twelve pennies to a mark.","pictured":[{"cover":"image/image-3807fe9dbf7aca68","coverAfter":"The street outside Corbel House isn't a street. It's a stair.","setting":"Ladder Lane"}]}
 {"beat":38,"event":"At the bottom opens Coppergate, a square under a huge arched cave mouth in the mountain."}
 {"beat":39,"event":"Wren names it the Mouth: the way into the Deep."}
-{"beat":40,"event":"Beside the Mouth stands a house whose lamps are lit though it is morning: the Lantern House."}
+{"beat":40,"event":"Beside the Mouth stands a house whose lamps are lit though it is morning: the Lantern House.","pictured":[{"cover":"image/image-f89dfda7f408a202","coverAfter":"It's a square, wide and paved and already busy, with stalls going up round its","setting":"Coppergate and the Mouth"}]}
 {"beat":41,"event":"The guild hall faces the market: a long hall of dark beams and old stone."}
 {"beat":42,"event":"Inside, a queue of new delvers waits at the front desk for eight o'clock."}
-{"beat":43,"event":"Wren leaves Nala in the queue and goes to the party board on the far wall."}
+{"beat":43,"event":"Wren leaves Nala in the queue and goes to the party board on the far wall.","pictured":[{"cover":"image/image-586fb4337648c31d","coverAfter":"Inside it's cool and dim and smells of wax and dust. A long desk","setting":"the guild hall"}]}
 {"beat":44,"event":"Ahead of Nala a slight girl with ash-brown hair to her shoulders keeps rereading a letter."}
 {"beat":45,"event":"The girl drops the letter; Nala picks it up and hands it back."}
-{"beat":46,"event":"The girl has pale skin and wide green eyes, and thanks her, and apologises for dropping it."}
+{"beat":46,"event":"The girl has pale skin and wide green eyes, and thanks her, and apologises for dropping it.","pictured":[{"cover":"image/image-20cd1d34c0ce10ce","coverAfter":"The girl in front of you is slight, about your height, with ash-brown hair cut","character":"character-other/emberdeep-elowen","outfit":"grey-green wool dress, leather belt with herb pouch, ankle boots"}]}
 {"beat":47,"event":"She is Elowen Fairweather, from Hollin Wood, and she reached Emberdeep only last night."}
 {"beat":48,"event":"Elowen admits she is terrified; Nala admits she has no idea what she is doing either."}
 {"beat":49,"event":"The clerk calls Elowen forward; she pays a silver mark and hands over her letter."}
@@ -79,7 +79,7 @@
 {"beat":79,"event":"Elowen is already there at a corner table, and waves, relieved."}
 {"beat":80,"event":"Nala introduces Wren and Elowen; Wren grins and makes room on the bench."}
 {"beat":81,"event":"Supper is four pennies: stew, bread and small beer. Nala pays and has three pennies left."}
-{"beat":82,"event":"Wren tells delving stories; Elowen hangs on every word; Nala laughs more than she expected."}
+{"beat":82,"event":"Wren tells delving stories; Elowen hangs on every word; Nala laughs more than she expected.","pictured":[{"cover":"image/image-ac5c49d4c3d6cf84","coverAfter":"The Brass Kettle is on Coppergate, and it's cheap and loud and warm, and","setting":"the Brass Kettle"}]}
 {"beat":83,"event":"Wren counts the table on her fingers: two coppers and one iron makes three."}
 {"beat":84,"event":"Wren says, half joking, that three is a party, and looks at them both."}
 {"beat":85,"event":"Elowen goes pink and says she would like that, if Nala would."}
@@ -91,7 +91,7 @@
 {"beat":91,"event":"Wren carries Nala a can of hot water up from the kitchen stove without being asked."}
 {"beat":92,"event":"Nala washes at the washstand by the light of her tin lamp."}
 {"beat":93,"event":"She looks at this body properly for the first time: small soft breasts, dark red hair on her pussy."}
-{"beat":94,"event":"Nothing about her feels wrong; it all feels new, and hers to learn."}
+{"beat":94,"event":"Nothing about her feels wrong; it all feels new, and hers to learn.","pictured":[{"cover":"image/image-b49bf6a809b700fd","coverAfter":"You wash by lamplight. You take off the bodice and the shirt and the","character":"character-player/emberdeep-nala","outfit":"naked"}]}
 {"beat":95,"event":"She lies down in the narrow bed with the copper token still around her neck."}
 {"beat":96,"event":"Through the wall and across the landing she hears Wren humming."}
 {"beat":97,"event":"She falls asleep wondering what the Deep will be like, and not how she will get home."}

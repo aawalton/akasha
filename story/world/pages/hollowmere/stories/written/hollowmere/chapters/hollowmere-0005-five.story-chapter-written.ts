@@ -56,49 +56,4 @@ export const hollowmere0005Five = {
     "image/image-8d2d55abf86d7ad7",
     "image/image-6f7322f38fab6d66",
   ],
-  pictured: [
-    {
-      cover: "image/image-84b500c629a4b617",
-      coverAfter: "At eleven, in the Drawing Room, the sigils tutor sets the kettle charm.",
-      setting: "the Drawing Room",
-    },
-    {
-      cover: "image/image-015ae32f773be59e",
-      coverAfter: "The reading room is at the heart of the library tower, two",
-      setting: "the library reading room",
-    },
-    {
-      cover: "image/image-0eb09052d482c776",
-      coverAfter: "She turns up at Thornfield at eight, in the big navy parka,",
-      character: "character-other/hollowmere-bea",
-      outfit: "dusky rose jumper and jeans, pink lipstick",
-    },
-    {
-      cover: "image/image-9faa0a70713e7d02",
-      coverAfter: "She turns up at Thornfield at eight, in the big navy parka,",
-      character: "character-player/hollowmere-nala",
-      outfit: "cream fisherman's jumper and jeans",
-    },
-    {
-      cover: "image/image-b8e1b103c8df9d1c",
-      coverAfter: "On the way down you knock on Lin's door. She opens it",
-      character: "character-other/hollowmere-lin",
-      outfit: "grey wool coat, oatmeal scarf wound twice round her neck, green pleated skirt",
-    },
-    {
-      cover: "image/image-57c898ebe23d6c87",
-      coverAfter: "The shore path in the dark is a different place. The bracken",
-      setting: "the shore path",
-    },
-    {
-      cover: "image/image-8d2d55abf86d7ad7",
-      coverAfter: "The ceiling is so low you have to duck at the door,",
-      setting: "the Drowned Bell",
-    },
-    {
-      cover: "image/image-6f7322f38fab6d66",
-      coverAfter: "They're tall iron gates in the college wall, with a lamp over",
-      setting: "the college gates",
-    },
-  ],
 } as const satisfies StoryChapterWritten

@@ -6,7 +6,7 @@
 {"beat":6,"event":"\"Four minutes,\" Shiv says on the shingle after, impressed despite herself. \"With a nanny.\""}
 {"beat":7,"event":"In the Thornfield corridor Yusra, clipboard in hand, asks the floor about the boiler."}
 {"beat":8,"event":"Passing you she says, \"Ashby. Headache?\" You say gone; her eyes stay on you one beat longer."}
-{"beat":9,"event":"Bea saw the nosebleed in practical; at breakfast she's cross you went to Yusra and skipped her door."}
+{"beat":9,"event":"Bea saw the nosebleed in practical; at breakfast she's cross you went to Yusra and skipped her door.","pictured":[{"cover":"image/image-e7c856270fb8b7b6","coverAfter":"In the Thornfield corridor, back upstairs, Yusra is going door to door","setting":"the Thornfield corridor"}]}
 {"beat":10,"event":"\"Knock next time,\" she says, fierce and pink. \"Even at eleven. Especially at eleven.\" You promise."}
 {"beat":11,"event":"Ten: Sigils in the Drawing Room; Lin at the desk beside you asks, softly, if your nose is all right."}
 {"beat":12,"event":"The tutor sets a warming sigil to copy; Lin's is perfect, and she shows you where yours drifts."}
@@ -16,11 +16,11 @@
 {"beat":16,"event":"You walk the shore path the mile to Hollowmere village, the mere flat and silver, the fells brown."}
 {"beat":17,"event":"Bea talks the whole way about rowing, Saturday training, the captain who smiled at her."}
 {"beat":18,"event":"Halfway she stops talking, and takes your hand, and you walk the rest of the way hand in hand."}
-{"beat":19,"event":"The village shop: you buy two cheese scones and two fruit ones, warm from the back, £3.20."}
+{"beat":19,"event":"The village shop: you buy two cheese scones and two fruit ones, warm from the back, £3.20.","pictured":[{"cover":"image/image-f6333c0ef1107391","coverAfter":"She's in her biggest jumper, the cream one that comes down past","character":"character-other/hollowmere-bea","outfit":"cream knitted jumper down past her knees"}]}
 {"beat":20,"event":"You eat them on the low wall by the jetty, crumbs everywhere, Bea's shoulder against yours."}
 {"beat":21,"event":"Bea asks what Yusra said last night. You tell her: the lines she keeps, and goodnight, Nala."}
-{"beat":22,"event":"Bea is quiet; then: \"She likes you. Everyone can see it. Even with the lines.\" You say yes."}
-{"beat":23,"event":"\"Does that bother you?\" Bea thinks. \"A bit. Less than Shiv did. I'm getting used to you.\""}
+{"beat":22,"event":"Bea is quiet; then: \"She likes you. Everyone can see it. Even with the lines.\" You say yes.","pictured":[{"cover":"image/image-e487ed27aec76b86","coverAfter":"The village shop smells of bread. There's a tray just out of","setting":"the village shop"}]}
+{"beat":23,"event":"\"Does that bother you?\" Bea thinks. \"A bit. Less than Shiv did. I'm getting used to you.\"","pictured":[{"cover":"image/image-b3c5aec86340d821","coverAfter":"You eat them on the low wall by the jetty.","setting":"the low wall by the jetty"}]}
 {"beat":24,"event":"She brushes a crumb off your lip with her thumb, and leaves her thumb there."}
 {"beat":25,"event":"Then Bea leans in and kisses you on the mouth, quick and soft, tasting of sugar."}
 {"beat":26,"event":"She pulls back to look at you; you kiss her back, slower, her cold hand on your cheek."}
@@ -28,7 +28,7 @@
 {"beat":28,"event":"You walk home along the shore at dusk, hand in hand, and Bea hums the whole mile."}
 {"beat":29,"event":"Eight: the poetry society in the Snug, a panelled room with a fire and seven girls on old sofas."}
 {"beat":30,"event":"Kit is in the corner chair, in black, a slim book on her knee; she looks up as you come in."}
-{"beat":31,"event":"The rule: each member reads one poem aloud, hers or another's, and nobody claps."}
+{"beat":31,"event":"The rule: each member reads one poem aloud, hers or another's, and nobody claps.","pictured":[{"cover":"image/image-7a2d2ac535e3e235","coverAfter":"The Snug is a small room at the end of a corridor in","setting":"the Snug"}]}
 {"beat":32,"event":"You take a battered anthology from the Snug's shelf and read a short one about the sea, badly."}
 {"beat":33,"event":"Silence after, as the rule asks; the fire crackles; Kit's mouth twitches at the corner."}
 {"beat":34,"event":"Kit's turn comes last. She opens her book, and her hand on the page goes white at the knuckles."}
@@ -39,7 +39,7 @@
 {"beat":39,"event":"After, at the door, you hold out her handkerchief, washed and folded. \"Keep it,\" Kit says."}
 {"beat":40,"event":"She walks you across the frozen quad to Thornfield's door, her hands deep in her coat pockets."}
 {"beat":41,"event":"\"Saturday,\" Kit says on the step, looking at the stars. \"The cinema. If you meant it.\""}
-{"beat":42,"event":"\"I meant it,\" you say. Kit nods once, sharply, and goes back across the quad, almost smiling."}
+{"beat":42,"event":"\"I meant it,\" you say. Kit nods once, sharply, and goes back across the quad, almost smiling.","pictured":[{"cover":"image/image-317da1036acb52a0","coverAfter":"It's frozen again tonight. The grass crunches silver under your feet, and","character":"character-other/hollowmere-kit","outfit":"black coat over a high-necked black jumper and long black skirt"}]}
 {"beat":43,"event":"Upstairs Bea's door is ajar, her lamp on; she calls \"Night, Nala,\" and you call it back."}
 {"beat":44,"event":"You fall asleep with Kit's handkerchief under your pillow and the taste of sugar on your lips."}
 {"beat":45,"event":"A day at Hollowmere ends."}

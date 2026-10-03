@@ -55,12 +55,4 @@ export const hollowmere0032Thursday = {
     "story-recorder/memory",
   ],
   scenes: ["image/image-e4fb32d7fcd13804"],
-  pictured: [
-    {
-      cover: "image/image-e4fb32d7fcd13804",
-      coverAfter: "And sits down nude on the stool, as calm as on the jetty.",
-      character: "character-other/hollowmere-morwenna",
-      outfit: "naked",
-    },
-  ],
 } as const satisfies StoryChapterWritten

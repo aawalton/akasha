@@ -55,16 +55,4 @@ export const hollowmere0033SoTheLightComesBack = {
     "story-recorder/picture",
   ],
   scenes: ["image/image-05a4c4ea4daceeff", "image/image-1efe9846b155fee3"],
-  pictured: [
-    {
-      cover: "image/image-05a4c4ea4daceeff",
-      coverAfter: "Six tables. Candles in bottles, the wax running down them in thick",
-      setting: "Gianni's",
-    },
-    {
-      cover: "image/image-1efe9846b155fee3",
-      coverAfter: "The door is shut. The lamp over it lit. She stands on the",
-      setting: "Ashcombe's step",
-    },
-  ],
 } as const satisfies StoryChapterWritten

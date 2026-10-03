@@ -9,7 +9,7 @@
 {"beat":9,"event":"You swim out farther than the buoy would let you, just the two of you, and back to the rock."}
 {"beat":10,"event":"On the rock after, wrapped in the parka together, Shiv is quiet a long time; you let her be."}
 {"beat":11,"event":"\"My mam swam the sea at Salthill every morning of her life,\" Shiv says. \"Winter too. Every day.\""}
-{"beat":12,"event":"\"She taught me there. I was four. She threw me in off the steps and said: kick, Siobhan.\""}
+{"beat":12,"event":"\"She taught me there. I was four. She threw me in off the steps and said: kick, Siobhan.\"","pictured":[{"cover":"image/image-ae0c5e8ef44e6ba8","coverAfter":"On the rock after, you sit wrapped in the parka together.","character":"character-other/hollowmere-shiv","outfit":"navy parka over bare skin, wet hair, bare legs"}]}
 {"beat":13,"event":"She laughs, and the laugh goes thin. \"She died last winter. January. I came here on what she left.\""}
 {"beat":14,"event":"You look at her; this is new to you. You put your hand over hers on the cold stone."}
 {"beat":15,"event":"\"Every dawn I go in,\" Shiv says, \"it's her. That's all it is. It's swimming with her.\""}
@@ -29,7 +29,7 @@
 {"beat":29,"event":"Kit, opposite, sees Bea's hand rest on your knee under the table, and you see her see it."}
 {"beat":30,"event":"After the meal Kit falls into step with you in the cloister. \"Lindqvist,\" she says. Not a question."}
 {"beat":31,"event":"You say yes, last night. Kit walks a few steps in silence, then: \"Good. She's decent. She said so.\""}
-{"beat":32,"event":"\"Are you all right?\" you ask. Kit considers it. \"Yes,\" she says, surprised. \"I find I am.\""}
+{"beat":32,"event":"\"Are you all right?\" you ask. Kit considers it. \"Yes,\" she says, surprised. \"I find I am.\"","pictured":[{"cover":"image/image-a67a88e24a56e9de","coverAfter":"After the meal, Kit falls into step with you in the cloister.","setting":"the cloister"}]}
 {"beat":33,"event":"\"Library,\" Kit says. \"Tonight. Seven. You still owe me an hour of silence.\" Her ears are pink."}
 {"beat":34,"event":"Afternoon: the boathouse lends rowing boats on Sundays; Shiv wants to go out, and asks you."}
 {"beat":35,"event":"Shiv rows; you sit in the stern; she takes you out to the middle of the mere and ships the oars."}

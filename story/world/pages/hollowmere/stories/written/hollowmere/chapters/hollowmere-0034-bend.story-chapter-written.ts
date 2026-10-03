@@ -63,30 +63,4 @@ export const hollowmere0034Bend = {
     "image/image-639924c0eda8d596",
     "image/image-0f12a1a6e5bb58f1",
   ],
-  pictured: [
-    {
-      cover: "image/image-6fb1192dcac66520",
-      coverAfter: "You hear her before you're properly awake: the creak of the boards in 15,",
-      character: "character-other/hollowmere-bea",
-      outfit:
-        "green Thornfield rowing sweatshirt over a white vest, black leggings, hair scraped back",
-    },
-    {
-      cover: "image/image-396ecc7300476f44",
-      coverAfter: "Lin has her sketchbook on her arm, drawing Kit's red ear. Priya and Amara",
-      character: "character-other/hollowmere-priya",
-      outfit: "bright yellow bobble hat and a winter coat",
-    },
-    {
-      cover: "image/image-639924c0eda8d596",
-      coverAfter: "On the far shore, where the path comes out of the alders, there's an old",
-      setting: "the fallen oak on the far shore",
-    },
-    {
-      cover: "image/image-0f12a1a6e5bb58f1",
-      coverAfter: "Shiv is on the bench by the jukebox with her bedsheet round her shoulders",
-      character: "character-other/hollowmere-shiv",
-      outfit: "green-painted bedsheet worn as a cloak over a grey hoodie",
-    },
-  ],
 } as const satisfies StoryChapterWritten

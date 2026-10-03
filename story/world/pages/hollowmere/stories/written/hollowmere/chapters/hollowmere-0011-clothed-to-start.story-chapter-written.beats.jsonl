@@ -9,7 +9,7 @@
 {"beat":9,"event":"Lunch: Amara has debating in the Great Hall annexe; Priya drags you along to watch."}
 {"beat":10,"event":"Amara argues that a spell belongs to the focus, and wins the room in four minutes flat."}
 {"beat":11,"event":"After, she finds you at the door, bright from winning: \"Freckles. You came to watch me.\""}
-{"beat":12,"event":"\"Priya brought me.\" \"Mm,\" says Amara. \"But you stayed.\" She tucks your hair behind your ear."}
+{"beat":12,"event":"\"Priya brought me.\" \"Mm,\" says Amara. \"But you stayed.\" She tucks your hair behind your ear.","pictured":[{"cover":"image/image-200ac1272e61525c","coverAfter":"The annexe is a long panelled room off the Great Hall, with","setting":"the Great Hall annexe"}]}
 {"beat":13,"event":"\"You and Ashworth,\" Amara says lightly, watching your face. \"Notes in History. I saw.\""}
 {"beat":14,"event":"You say Kit's your friend. Amara smiles slowly: \"Lucky Ashworth,\" and walks off to her next class."}
 {"beat":15,"event":"Two: the Practice Hall and the warming charm; you take your stone and remember Lin's words."}
@@ -21,7 +21,7 @@
 {"beat":21,"event":"Quarter to seven: a soft knock on 14; Lin, sketchbook hugged to her chest, very pale."}
 {"beat":22,"event":"\"Life drawing,\" she says. \"It's my first one. Would you walk me over? Just to the door.\""}
 {"beat":23,"event":"You walk her across the quad to the Drawing Room; its windows glow with lamplight."}
-{"beat":24,"event":"At the door she stops; you tell her you'll be in the library finishing your essay, after."}
+{"beat":24,"event":"At the door she stops; you tell her you'll be in the library finishing your essay, after.","pictured":[{"cover":"image/image-e787d80ba9930441","coverAfter":"It's Lin. She's in a long pleated skirt and a soft grey","character":"character-other/hollowmere-lin","outfit":"soft grey cardigan, long pleated skirt, ponytail over one shoulder"}]}
 {"beat":25,"event":"Lin nods, breathes out the way she taught you, and goes in, and the door closes behind her."}
 {"beat":26,"event":"The library reading room: green lamps, long oak tables; Kit is already there, and moves her books."}
 {"beat":27,"event":"You write your essay's last pages across from her, in silence, Lin's soft nib in your pen."}

@@ -3,13 +3,13 @@
 {"beat":3,"event":"Shiv is on the rock, peeling off her socks; she looks up, and this time she just smiles."}
 {"beat":4,"event":"You go in together off the edge, hand in hand; the cold is still a fist, but you breathe out."}
 {"beat":5,"event":"Two minutes this time, treading water face to face, the mist lifting off the mere around you."}
-{"beat":6,"event":"On the rock, wrapped in her parka, your teeth chattering, Shiv puts her cold hands on your face."}
+{"beat":6,"event":"On the rock, wrapped in her parka, your teeth chattering, Shiv puts her cold hands on your face.","pictured":[{"cover":"image/image-61e5008b567d0f8a","coverAfter":"On the rock she wraps you in her parka again. She zips it to your chin","character":"character-other/hollowmere-shiv","outfit":"naked"}]}
 {"beat":7,"event":"\"Still might,\" she says, and you say, \"Then do,\" and she kisses you."}
 {"beat":8,"event":"Her mouth is cold and then warm, tasting of the mere; your whole burning body goes quiet under it."}
 {"beat":9,"event":"It's your first kiss in this body; your lips feel twice as many things as they ever did before."}
 {"beat":10,"event":"She pulls back, grinning now, freckles beaded with water: \"Grand. That's settled, then.\""}
 {"beat":11,"event":"You tell her again there are others you want; she says she remembers, and kisses you again."}
-{"beat":12,"event":"Hot shower; you touch your mouth in the steamed mirror, and laugh at yourself out loud."}
+{"beat":12,"event":"Hot shower; you touch your mouth in the steamed mirror, and laugh at yourself out loud.","pictured":[{"cover":"image/image-7d26bc88d62c154c","coverAfter":"In the late morning you go down to the laundry.","setting":"the laundry"}]}
 {"beat":13,"event":"Late morning: laundry in Thornfield's cellar, three washers, two dryers, and a Sunday queue."}
 {"beat":14,"event":"Bea is in the queue with a basket; she teaches you which things can't go in the dryer."}
 {"beat":15,"event":"Bras on the airer, she says, never the dryer, and holds one of yours up, and you both crack up."}
@@ -24,9 +24,9 @@
 {"beat":24,"event":"Shiv sits down beside you with a full plate, bumps your knee under the table, and says nothing."}
 {"beat":25,"event":"Lin, across the table, sees the knee bump, and looks at her plate, thoughtful and calm."}
 {"beat":26,"event":"Afternoon: the boathouse lends rowing boats on Sundays; Bea signs one out and takes the oars."}
-{"beat":27,"event":"She rows like she was born doing it, long clean strokes, out into the middle of the mere."}
+{"beat":27,"event":"She rows like she was born doing it, long clean strokes, out into the middle of the mere.","pictured":[{"cover":"image/image-4912818b20844e8b","coverAfter":"Shiv. Her hair is damp and curling and she's in her grey hoodie, and her plate","character":"character-other/hollowmere-shiv","outfit":"grey hoodie"}]}
 {"beat":28,"event":"She stops, oars dripping, the fells all round you; the academy small and far on the shore."}
-{"beat":29,"event":"\"Can I be honest?\" she says. \"When you said about Shiv, it went in me like a splinter.\""}
+{"beat":29,"event":"\"Can I be honest?\" she says. \"When you said about Shiv, it went in me like a splinter.\"","pictured":[{"cover":"image/image-6894107a63747dc9","coverAfter":"It's down on the academy shore, past Shiv's rock, a long low wooden building","setting":"the boathouse"}]}
 {"beat":30,"event":"You tell her the truth: wanting Shiv takes nothing from wanting to be near her; it never would."}
 {"beat":31,"event":"Bea says she doesn't know yet what she wants with you, but she knows she wants to be in your boat."}
 {"beat":32,"event":"\"You're in my boat,\" you say. She laughs, wet-eyed, and splashes you with an oar."}
@@ -40,7 +40,7 @@
 {"beat":40,"event":"You say yes; she nods once, sharply, and leaves for Ashcombe before you can see her face."}
 {"beat":41,"event":"Thornfield kitchen: cold supper, toast and cheese; Bea's there, and Lin up from downstairs."}
 {"beat":42,"event":"Lin gives you a small twist of paper: one of the old nibs from Kendal, cleaned and polished."}
-{"beat":43,"event":"\"It's soft,\" she says. \"Like the one I lent you. It's yours now.\" You hold it like treasure."}
+{"beat":43,"event":"\"It's soft,\" she says. \"Like the one I lent you. It's yours now.\" You hold it like treasure.","pictured":[{"cover":"image/image-211ff578dfc4062f","coverAfter":"Bea is there, at the counter, with the kettle. And Lin is there too, up from","character":"character-other/hollowmere-lin","outfit":"cardigan, hair loose"}]}
 {"beat":44,"event":"Bea makes three teas without asking anyone, bumps your shoulder, and her smile is real again."}
 {"beat":45,"event":"In bed, your mouth still remembering the mere, you think: one kiss, five girls, and Monday."}
 {"beat":46,"event":"A day at Hollowmere ends."}

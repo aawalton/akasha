@@ -52,12 +52,4 @@ export const hollowmere0016WhoseWanting = {
     "story-recorder/picture",
   ],
   scenes: ["image/image-b22c5fa022c5091b"],
-  pictured: [
-    {
-      cover: "image/image-b22c5fa022c5091b",
-      coverAfter:
-        "At the break you slip out to the bathroom along the corridor from the Long Room.",
-      setting: "the bathroom by the Long Room",
-    },
-  ],
 } as const satisfies StoryChapterWritten

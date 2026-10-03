@@ -47,12 +47,4 @@ export const hollowmere0029AskingNotGrabbing = {
     "story-recorder/picture",
   ],
   scenes: ["image/image-9bb6afb44012e873"],
-  pictured: [
-    {
-      cover: "image/image-9bb6afb44012e873",
-      coverAfter: "In a clean shirt. You notice it, and so does everyone: a crisp",
-      character: "character-other/hollowmere-priya",
-      outfit: "crisp white blouse under a red corduroy pinafore, hair brushed and pinned up",
-    },
-  ],
 } as const satisfies StoryChapterWritten

@@ -25,9 +25,9 @@
 {"beat":25,"event":"At eleven, unable to sleep, you knock on room 1; it's dark and silent."}
 {"beat":26,"event":"A girl down the corridor says Yusra does night shifts in the infirmary, Tuesdays and Thursdays."}
 {"beat":27,"event":"You go across the cold dark quad in your coat and jumper to the west range."}
-{"beat":28,"event":"The infirmary: six white beds, all empty, a dispensary, one lamp lit on a desk."}
-{"beat":29,"event":"Yusra is at the desk in a white tunic, hair tied back, reading glasses on; she looks up."}
-{"beat":30,"event":"\"Ashby.\" She's up and round the desk at once, a hand under your chin, tilting your face to the lamp."}
+{"beat":28,"event":"The infirmary: six white beds, all empty, a dispensary, one lamp lit on a desk.","pictured":[{"cover":"image/image-e68ea34e0c29d660","coverAfter":"You go in your coat over your nightshirt and the fisherman's jumper","character":"character-player/hollowmere-nala","outfit":"navy wool coat over a cream fisherman's jumper over the long white nightshirt, trainers"}]}
+{"beat":29,"event":"Yusra is at the desk in a white tunic, hair tied back, reading glasses on; she looks up.","pictured":[{"cover":"image/image-cdf11fa6b384f60c","coverAfter":"It's a long white room. Six beds, three down each side, with","setting":"the infirmary"}]}
+{"beat":30,"event":"\"Ashby.\" She's up and round the desk at once, a hand under your chin, tilting your face to the lamp.","pictured":[{"cover":"image/image-1ae1d72d9abae353","coverAfter":"She's in a white tunic, short-sleeved, buttoned at the shoulder, like a","character":"character-other/hollowmere-yusra","outfit":"white short-sleeved healer's tunic, reading glasses, hair tied back"}]}
 {"beat":31,"event":"You tell her about the stone and the blood; she checks your eyes with a small light, very close."}
 {"beat":32,"event":"She sits you on a bed and gives you water and a draught from the dispensary that tastes of mint."}
 {"beat":33,"event":"\"You push like someone with something to prove,\" she says. \"Who to?\""}

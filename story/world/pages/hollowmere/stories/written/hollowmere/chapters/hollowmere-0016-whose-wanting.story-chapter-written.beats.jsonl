@@ -16,7 +16,7 @@
 {"beat":16,"event":"Amara laughs about her beta plus, lightly, all the way down the tower stairs."}
 {"beat":17,"event":"Eleven: the Foundations lecture; Amara's seat in front of yours is empty for the first half."}
 {"beat":18,"event":"After, you go to the bathroom by the Long Room; someone is crying in the end cubicle, quietly."}
-{"beat":19,"event":"You know the gold watch on the wrist resting on the cubicle door handle. \"Amara?\""}
+{"beat":19,"event":"You know the gold watch on the wrist resting on the cubicle door handle. \"Amara?\"","pictured":[{"cover":"image/image-b22c5fa022c5091b","coverAfter":"At the break you slip out to the bathroom along the corridor from the Long Room.","setting":"the bathroom by the Long Room"}]}
 {"beat":20,"event":"The crying stops. \"Go away, Freckles,\" Amara says, thick-voiced. You sit on the floor outside."}
 {"beat":21,"event":"\"I do this,\" she says through the door. \"After every test. Even when I win. Every single one.\""}
 {"beat":22,"event":"You tell her she argued a room flat in four minutes last week; you saw it. A wet laugh."}

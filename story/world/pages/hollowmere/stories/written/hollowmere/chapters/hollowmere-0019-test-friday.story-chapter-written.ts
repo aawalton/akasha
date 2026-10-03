@@ -52,19 +52,4 @@ export const hollowmere0019TestFriday = {
     "story-recorder/picture",
   ],
   scenes: ["image/image-360516fdf3346cac", "image/image-37a3168280975228"],
-  pictured: [
-    {
-      cover: "image/image-360516fdf3346cac",
-      coverAfter: "You can't lie there. You get up and pull on your swimsuit and your robe",
-      character: "character-player/hollowmere-nala",
-      outfit:
-        "cream fisherman's jumper over a dark blue towelling robe over a navy swimsuit, trainers",
-    },
-    {
-      cover: "image/image-37a3168280975228",
-      coverAfter: "You go in. The cold hits, and for once it's a relief: something simple,",
-      character: "character-player/hollowmere-nala",
-      outfit: "navy one-piece swimsuit",
-    },
-  ],
 } as const satisfies StoryChapterWritten

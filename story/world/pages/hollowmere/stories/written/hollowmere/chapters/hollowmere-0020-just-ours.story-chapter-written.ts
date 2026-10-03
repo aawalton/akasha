@@ -60,40 +60,4 @@ export const hollowmere0020JustOurs = {
     "image/image-12b67f9dc9f6c521",
     "image/image-53fc2ca8ee6a2c19",
   ],
-  pictured: [
-    {
-      cover: "image/image-a757d14d85bf2cee",
-      coverAfter: "You're wearing Bea's jumper. The big cream cable-knit one, the one Kit",
-      character: "character-player/hollowmere-nala",
-      outfit: "Bea's big cream cable-knit jumper, inside out",
-    },
-    {
-      cover: "image/image-9a594876d040b832",
-      coverAfter: "On the landing stage afterwards, Morwenna gathers the novices.",
-      setting: "the landing stage",
-    },
-    {
-      cover: "image/image-f473abc9e191e922",
-      coverAfter: "At the end of the academy jetty, the short wooden one by the",
-      setting: "the academy jetty",
-    },
-    {
-      cover: "image/image-9b001feba0132602",
-      coverAfter: "Underneath she's bare.",
-      character: "character-other/hollowmere-bea",
-      outfit: "bare to the waist, black leggings",
-    },
-    {
-      cover: "image/image-12b67f9dc9f6c521",
-      coverAfter: "She undresses you slowly. Your jumper first, over your head, her hands",
-      character: "character-player/hollowmere-nala",
-      outfit: "bare to the waist, dark skirt and tights",
-    },
-    {
-      cover: "image/image-53fc2ca8ee6a2c19",
-      coverAfter: "She's shaved bare.",
-      character: "character-other/hollowmere-bea",
-      outfit: "naked",
-    },
-  ],
 } as const satisfies StoryChapterWritten

@@ -60,29 +60,4 @@ export const hollowmere0023WhatAWardKeepsIn = {
     "image/image-80d5b65c285d64e4",
     "image/image-80463d6c33f872d1",
   ],
-  pictured: [
-    {
-      cover: "image/image-481edd8957a06739",
-      coverAfter: "You take your chair by the round window, between Kit and Lin.",
-      character: "character-other/hollowmere-amara",
-      outfit: "camel knit jumper, black tailored trousers, gold hoops and a gold watch",
-    },
-    {
-      cover: "image/image-0c37f38953053586",
-      coverAfter: "On the tower stairs afterwards, Kit falls into step beside you.",
-      setting: "the library tower stairs",
-    },
-    {
-      cover: "image/image-80d5b65c285d64e4",
-      coverAfter: "She's standing at the counter in a beautiful cream silk shirt, with the sleeves",
-      character: "character-other/hollowmere-amara",
-      outfit: "cream silk shirt with the sleeves rolled up, black tailored trousers, gold watch",
-    },
-    {
-      cover: "image/image-80463d6c33f872d1",
-      coverAfter: "She's in her coat, buttoned. Her brass badge at her collar. Her bag",
-      character: "character-other/hollowmere-yusra",
-      outfit: "dark wool coat buttoned up, brass warden's badge at the collar, bag on her arm",
-    },
-  ],
 } as const satisfies StoryChapterWritten

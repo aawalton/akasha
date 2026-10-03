@@ -36,16 +36,4 @@ export const emberdeep0003NalasPassage = {
     "story-recorder/picture",
   ],
   scenes: ["image/image-4d2c65868fdd198d", "image/image-bb359ad90313988b"],
-  pictured: [
-    {
-      cover: "image/image-4d2c65868fdd198d",
-      coverAfter: "It ends in a heap of broken stone. A great slope of it, where the ceiling",
-      setting: "the shifted passage and its fresh rubble heap",
-    },
-    {
-      cover: "image/image-bb359ad90313988b",
-      coverAfter: "It's tiny. The ceiling slopes down so low on both sides that there's only",
-      setting: "Elowen's room under the eaves, the Brass Kettle",
-    },
-  ],
 } as const satisfies StoryChapterWritten

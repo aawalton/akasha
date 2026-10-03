@@ -3,11 +3,11 @@
 {"beat":3,"event":"A radiator knocks. The room is narrow: a bed, a desk, a wardrobe, the window on a mere."}
 {"beat":4,"event":"Your hand on the blanket is small, pale and freckled, and not yours."}
 {"beat":5,"event":"Long dark red hair falls over your shoulder when you sit up."}
-{"beat":6,"event":"In the wardrobe mirror a slim girl of about twenty stares back: freckles, blue-grey eyes."}
+{"beat":6,"event":"In the wardrobe mirror a slim girl of about twenty stares back: freckles, blue-grey eyes.","pictured":[{"cover":"image/image-cb9410a4893a9db7","coverAfter":"She's about twenty. She's slim and not tall, standing in a long","character":"character-player/hollowmere-nala","outfit":"naked","setting":"Thornfield 14"}]}
 {"beat":7,"event":"You strip off the nightshirt and look: small soft breasts, pale pink nipples."}
 {"beat":8,"event":"Lower, a tuft of dark red hair over your pussy, and no cock; you touch to be sure."}
 {"beat":9,"event":"Everything is lighter and smaller, and every sense in the body is new: air, cloth, your own skin."}
-{"beat":10,"event":"A trunk at the foot of the bed is stencilled N. ASHBY."}
+{"beat":10,"event":"A trunk at the foot of the bed is stencilled N. ASHBY.","pictured":[{"cover":"image/image-220f4f497e59334d","coverAfter":"Everything is lighter. That's the thing that keeps arriving, now that you're","character":"character-player/hollowmere-nala","outfit":"long white cotton nightshirt"}]}
 {"beat":11,"event":"Inside: a first-year's clothes and books, a black academic gown, a cheap phone."}
 {"beat":12,"event":"The phone holds no messages, no photographs and no contacts at all."}
 {"beat":13,"event":"An acceptance letter names you Nala Ashby, admitted to Hollowmere Academy on a full bursary."}
@@ -15,7 +15,7 @@
 {"beat":15,"event":"A timetable: Thornfield House, room 14, tutorial group F; Welcome Dinner tonight."}
 {"beat":16,"event":"An iron key on the desk has a brass tag stamped THORNFIELD 14."}
 {"beat":17,"event":"Alan's life is all you remember; this Nala's life is a blank to you, and so is the way back."}
-{"beat":18,"event":"You sit on the bed a long time, breathing, then decide to get through one day as her."}
+{"beat":18,"event":"You sit on the bed a long time, breathing, then decide to get through one day as her.","pictured":[{"cover":"image/image-c0dd8e15f886d933","coverAfter":"The shower is a cubicle with a cracked tile and a chrome","character":"character-player/hollowmere-nala","outfit":"naked","setting":"the corridor bathroom"}]}
 {"beat":19,"event":"You find the corridor bathroom; the hot water is already gone, and you shower cold."}
 {"beat":20,"event":"Cold water on this body is a shock everywhere at once; you yelp and laugh at the sound."}
 {"beat":21,"event":"You dress from the trunk in jeans and a jumper, and fumble your hair back with a band."}
@@ -30,13 +30,13 @@
 {"beat":30,"event":"A knock on the kitchen doorframe: Yusra, tall, calm, a brass warden's badge at her collar."}
 {"beat":31,"event":"Yusra is warden of the top floor, room 1 at the head of the stairs; she meets every first-year."}
 {"beat":32,"event":"She checks your name and Bea's off a list, and asks if your key works; it does."}
-{"beat":33,"event":"She tells you plainly: radiators knock all night, hot water gone by eight, gowns at dinner."}
+{"beat":33,"event":"She tells you plainly: radiators knock all night, hot water gone by eight, gowns at dinner.","pictured":[{"cover":"image/image-d76ee098554c5427","coverAfter":"You both turn. There's a woman standing in the kitchen doorway, one","character":"character-other/hollowmere-bea","outfit":"huge knitted jumper over black leggings","setting":"the Thornfield kitchen"}]}
 {"beat":34,"event":"She says your tutorial group F meets its tutor twice a week, starting tomorrow."}
 {"beat":35,"event":"Her dark eyes rest on you a moment longer than on Bea; she says to knock on room 1 for anything."}
 {"beat":36,"event":"After she goes, Bea whispers that the warden is terrifying and gorgeous, and you agree."}
-{"beat":37,"event":"Bea drags you out to see the place in the cold bright morning."}
+{"beat":37,"event":"Bea drags you out to see the place in the cold bright morning.","pictured":[{"cover":"image/image-38bb58521049b61b","coverAfter":"Then she looks up at you again, and this time her dark","character":"character-other/hollowmere-yusra","outfit":"charcoal knit jumper with a brass warden's badge, grey wool trousers"}]}
 {"beat":38,"event":"Grey stone round a lawned quad: the Great Hall, the library tower, lecture rooms."}
-{"beat":39,"event":"Students everywhere, every one a young woman; Bea says Hollowmere has only taken women since 1791."}
+{"beat":39,"event":"Students everywhere, every one a young woman; Bea says Hollowmere has only taken women since 1791.","pictured":[{"cover":"image/image-ae8b5b24ada3fbee","coverAfter":"A quad. A great lawned square, green and wet and immaculate, ringed","setting":"the quad"}]}
 {"beat":40,"event":"A girl on the lawn lights a pipe with a snap of her fingers; her friends talk straight on."}
 {"beat":41,"event":"Two girls kiss goodbye outside the library; a passing tutor steps round them, unbothered."}
 {"beat":42,"event":"You walk the shore of the mere; it is cold and deep, and Bea says swimming is forbidden."}
@@ -47,12 +47,12 @@
 {"beat":47,"event":"You try Bea's kettle sigil alone in the kitchen, tracing it carefully; the kettle stays cold."}
 {"beat":48,"event":"You try again; the kettle goes faintly warm under your palm, and your head aches a little."}
 {"beat":49,"event":"Evening: Bea barges in, half into her gown, pins in her mouth, and does your hair for you."}
-{"beat":50,"event":"Her fingers in your hair and on your neck make your breath catch; she doesn't seem to notice."}
+{"beat":50,"event":"Her fingers in your hair and on your neck make your breath catch; she doesn't seem to notice.","pictured":[{"cover":"image/image-b2e099c41984ee4e","coverAfter":"You feel stupid. You look round at the door to make sure","character":"character-player/hollowmere-nala","outfit":"grey jumper and jeans"}]}
 {"beat":51,"event":"In the mirror, gowned, your red hair pinned up, you look like someone who belongs here."}
 {"beat":52,"event":"The Great Hall is candlelit and full, long tables set by tutorial group, everyone in gowns."}
 {"beat":53,"event":"Bea's group sits elsewhere; she waves at you wildly across the hall."}
 {"beat":54,"event":"At group F's table a small sharp girl sits at the end: black bob, fringe, grey-green eyes."}
-{"beat":55,"event":"She is Kit, very pale, a silver ring on one hand, and she looks you over coolly."}
+{"beat":55,"event":"She is Kit, very pale, a silver ring on one hand, and she looks you over coolly.","pictured":[{"cover":"image/image-0dd7b4db7b52d492","coverAfter":"The girl in the glass has her dark red hair pinned up","character":"character-player/hollowmere-nala","outfit":"white blouse under a black academic gown"}]}
 {"beat":56,"event":"You pick up the wrong fork; Kit says, \"Ashworth. And you'll be the one who's never done this.\""}
 {"beat":57,"event":"You say you've never done any of it, and you'd be grateful if she let you copy her forks."}
 {"beat":58,"event":"Kit's mouth twitches before she can stop it; she slides the right fork an inch toward you."}
@@ -61,11 +61,11 @@
 {"beat":61,"event":"Walking back across the cold quad, you look back once; Kit is watching you, then turns away."}
 {"beat":62,"event":"Bea catches you up on the Thornfield stairs, gown flapping, and wants every detail of your table."}
 {"beat":63,"event":"You sit on the top step together, talking low, until the corridor lights dim."}
-{"beat":64,"event":"Yusra comes up the stairs on her last round and says it's late, and first classes are early."}
+{"beat":64,"event":"Yusra comes up the stairs on her last round and says it's late, and first classes are early.","pictured":[{"cover":"image/image-bddae35ea9323def","coverAfter":"Afterwards everyone pours out of the high doors into the night. The","character":"character-other/hollowmere-kit","outfit":"high-necked black jumper under a black academic gown","setting":"the Great Hall"}]}
 {"beat":65,"event":"She looks at you and asks, quietly, if you're all right; you say you will be."}
 {"beat":66,"event":"She says, \"Room 1,\" and goes; Bea squeezes your hand and goes into room 15."}
 {"beat":67,"event":"In your narrow bed the radiator knocks; you lie in this new body and feel all of it."}
 {"beat":68,"event":"You think of Bea's fingers, Yusra's eyes, Kit's mouth twitching, and want all three at once."}
-{"beat":69,"event":"It frightens you less than you expected; it feels like who you are."}
+{"beat":69,"event":"It frightens you less than you expected; it feels like who you are.","pictured":[{"cover":"image/image-7d159cd95d1e6912","coverAfter":"You lie in it in the dark with the nightshirt on and","character":"character-player/hollowmere-nala","outfit":"long white cotton nightshirt"}]}
 {"beat":70,"event":"You don't know how you came here or if you can go back. You sleep anyway."}
 {"beat":71,"event":"A day at Hollowmere ends."}

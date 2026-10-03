@@ -48,17 +48,4 @@ export const hollowmere0018TheLongPose = {
     "story-recorder/picture",
   ],
   scenes: ["image/image-f754cadcf4e789c3", "image/image-bbb822a84ebf61d6"],
-  pictured: [
-    {
-      cover: "image/image-f754cadcf4e789c3",
-      coverAfter: "Jumper. Shirt. Skirt. Tights. The rest. You fold them on the chair behind",
-      character: "character-player/hollowmere-nala",
-      outfit: "dark blue robe",
-    },
-    {
-      cover: "image/image-bbb822a84ebf61d6",
-      coverAfter: "At the foot of the Thornfield stairs, in the dim of the hall, she stops.",
-      setting: "the foot of the Thornfield stairs",
-    },
-  ],
 } as const satisfies StoryChapterWritten

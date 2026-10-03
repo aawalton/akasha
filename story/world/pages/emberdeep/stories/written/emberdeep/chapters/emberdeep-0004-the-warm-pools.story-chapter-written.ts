@@ -43,30 +43,4 @@ export const emberdeep0004TheWarmPools = {
     "image/image-3dc0b7da37cdc548",
     "image/image-6a85df03cfb11da9",
   ],
-  pictured: [
-    {
-      cover: "image/image-a945aea509f864e0",
-      coverAfter:
-        "They're shelves in the mountainside, one above another, like steps: wide hollows in",
-      setting: "the Warm Pools",
-    },
-    {
-      cover: "image/image-4c5acb54e3f8f507",
-      coverAfter: "Wren doesn't stop. She pulls her shirt off over her head on the way",
-      character: "character-other/emberdeep-wren",
-      outfit: "naked",
-    },
-    {
-      cover: "image/image-3dc0b7da37cdc548",
-      coverAfter: "Elowen undresses slowly. She turns her back half to you and the pools, and",
-      character: "character-other/emberdeep-elowen",
-      outfit: "naked",
-    },
-    {
-      cover: "image/image-6a85df03cfb11da9",
-      coverAfter: "Then you turn round, both of you in your nightshirts, and stand there, and",
-      character: "character-other/emberdeep-elowen",
-      outfit: "linen nightshirt",
-    },
-  ],
 } as const satisfies StoryChapterWritten

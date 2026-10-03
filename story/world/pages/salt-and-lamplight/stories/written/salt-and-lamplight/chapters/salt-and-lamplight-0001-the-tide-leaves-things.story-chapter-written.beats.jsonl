@@ -1,7 +1,7 @@
 {"beat":1,"event":"Nala wakes at dusk on cold wet shingle, barefoot, in a thin soaked linen shift and nothing else."}
 {"beat":2,"event":"Her last memory is Alan dozing over a book at his back window one evening."}
 {"beat":3,"event":"A white stone tower with a red iron cap stands on the rock above the cove."}
-{"beat":4,"event":"She sits up; long dark red hair slaps wet against her back and sticks to her face."}
+{"beat":4,"event":"She sits up; long dark red hair slaps wet against her back and sticks to her face.","pictured":[{"cover":"image/image-2757828f143c1114","coverAfter":"Above the cove, on a shoulder of dark rock, stands a tower.","character":"character-player/salt-and-lamplight-nala","outfit":"thin soaked linen shift","setting":"the cove"}]}
 {"beat":5,"event":"Her hands are small, pale and freckled; when she swears aloud, the voice is a woman's."}
 {"beat":6,"event":"Under the wet shift she feels small soft breasts, and a pussy where Alan's cock was."}
 {"beat":7,"event":"She thinks of herself as Nala, and the name feels like her own."}
@@ -9,22 +9,22 @@
 {"beat":9,"event":"Up on the tower the lamp catches, and the great lens begins to turn."}
 {"beat":10,"event":"The beam sweeps over a reef of black rocks offshore, then across the cove and over her."}
 {"beat":11,"event":"A lantern starts down the steep steps cut into the rock."}
-{"beat":12,"event":"A tall woman reaches her: navy jumper, sea boots, a thick dark braid over one shoulder."}
+{"beat":12,"event":"A tall woman reaches her: navy jumper, sea boots, a thick dark braid over one shoulder.","pictured":[{"cover":"image/image-6c1a49e5a2e92bf6","coverAfter":"It passes across a line of rocks offshore. Black rocks, jagged, a","setting":"the Morrow Head light"}]}
 {"beat":13,"event":"The woman holds the lantern to Nala's face and asks sharply whether she came off a boat."}
 {"beat":14,"event":"Nala says she doesn't know, starts to say she was somewhere else, stops, and gives only \"Nala\"."}
-{"beat":15,"event":"The woman says she is Morwenna, keeper of the light, and no boat went on the Teeth today."}
+{"beat":15,"event":"The woman says she is Morwenna, keeper of the light, and no boat went on the Teeth today.","pictured":[{"cover":"image/image-a9222c9f79b20e1f","coverAfter":"Boots crunch on the stones. The lantern stops above you, and the","character":"character-other/salt-and-lamplight-morwenna","outfit":"navy fisherman's jumper, canvas trousers, sea boots"}]}
 {"beat":16,"event":"Morwenna pulls off her jumper and drags it over Nala's head without asking."}
 {"beat":17,"event":"It is warm from Morwenna's body, smells of wool and lamp oil, and hangs to Nala's knees."}
 {"beat":18,"event":"Nala tries to stand, and her numb feet fold under her."}
 {"beat":19,"event":"Morwenna hooks Nala's arm over her shoulders and half carries her up the rock steps."}
 {"beat":20,"event":"Nala's head reaches only Morwenna's chin; she has never been this small beside anyone."}
 {"beat":21,"event":"Morwenna's hand on her waist is cold through the wool, and steady."}
-{"beat":22,"event":"The keeper's cottage at the tower's foot: granite walls, slate roof, one hearth, one bed."}
+{"beat":22,"event":"The keeper's cottage at the tower's foot: granite walls, slate roof, one hearth, one bed.","pictured":[{"cover":"image/image-10edd90e7d99f702","coverAfter":"The steps are steep and slick, cut into the black rock and","character":"character-player/salt-and-lamplight-nala","outfit":"Morwenna's navy fisherman's jumper, far too big for her"}]}
 {"beat":23,"event":"Two goats bleat from a shed; Morwenna hushes them by name, gentler than she spoke to Nala."}
 {"beat":24,"event":"Morwenna builds the fire high and sets a kettle and a pot of fish stew over it."}
 {"beat":25,"event":"She hands Nala a dry shift and a blanket, and turns her back while Nala changes."}
 {"beat":26,"event":"Nala peels off the wet shift by the fire and sees this body whole for the first time."}
-{"beat":27,"event":"Pale freckled skin pebbled with cold, pink nipples tight, a tuft of dark red hair over her pussy."}
+{"beat":27,"event":"Pale freckled skin pebbled with cold, pink nipples tight, a tuft of dark red hair over her pussy.","pictured":[{"cover":"image/image-f1b08b06b323c438","coverAfter":"Inside there's one room. A hearth with the fire banked low, a","character":"character-other/salt-and-lamplight-morwenna","outfit":"off-white linen shirt, canvas trousers, sea boots"}]}
 {"beat":28,"event":"She stares too long; Morwenna, back still turned, asks dryly whether she is decent yet."}
 {"beat":29,"event":"Nala scrambles into the shift and blanket and says yes."}
 {"beat":30,"event":"Morwenna sits her in the one chair by the fire and puts a mug of hot tea in her hands."}
@@ -34,19 +34,19 @@
 {"beat":34,"event":"Morwenna glances up and catches her looking; Nala looks away first, her face hot."}
 {"beat":35,"event":"Over stew Morwenna asks where she is from; Nala says far away, and she doesn't know how she came."}
 {"beat":36,"event":"Morwenna says flatly that the tide leaves in that cove whatever the sea gives up."}
-{"beat":37,"event":"She adds that old women in town say the Morrow Head lamp calls home what the sea has lost."}
-{"beat":38,"event":"Nala asks if she believes it; Morwenna says she believes in oil and clockwork."}
+{"beat":37,"event":"She adds that old women in town say the Morrow Head lamp calls home what the sea has lost.","pictured":[{"cover":"image/image-c385779284644e4a","coverAfter":"You grip the mug and breathe and look anywhere but at your","character":"character-player/salt-and-lamplight-nala","outfit":"naked","setting":"the keeper's cottage"}]}
+{"beat":38,"event":"Nala asks if she believes it; Morwenna says she believes in oil and clockwork.","pictured":[{"cover":"image/image-6f98d3bea2c309d4","coverAfter":"Her grey eyes catch yours straight on, and you look away first,","character":"character-player/salt-and-lamplight-nala","outfit":"dry linen shift under a grey wool blanket"}]}
 {"beat":39,"event":"Nala asks where she is; Morwenna names Penmorrow, a mile south along the cliff path."}
 {"beat":40,"event":"Nala thanks her warmly, then again; Morwenna tells her not to make a fuss of it."}
 {"beat":41,"event":"Morwenna says she will walk her to Penmorrow in the morning; someone there may know something."}
 {"beat":42,"event":"Warm at last, Nala laughs at how high her own laugh sounds; Morwenna's mouth twitches."}
-{"beat":43,"event":"Morwenna says she must go up and wind the lamp's clockwork, as she does every four hours."}
+{"beat":43,"event":"Morwenna says she must go up and wind the lamp's clockwork, as she does every four hours.","pictured":[{"cover":"image/image-6dbec137281d41b8","coverAfter":"Warmth is soaking into you now from the outside and the inside","character":"character-other/salt-and-lamplight-morwenna","outfit":"off-white linen shirt, canvas trousers, sea boots"}]}
 {"beat":44,"event":"Nala offers to come; Morwenna says not up ninety-six steps on those feet."}
-{"beat":45,"event":"Alone by the fire, Nala hears Morwenna's voice faint down the stairwell, talking to the lamp."}
+{"beat":45,"event":"Alone by the fire, Nala hears Morwenna's voice faint down the stairwell, talking to the lamp.","pictured":[{"cover":"image/image-1015b6ccc3799933","coverAfter":"She takes the lantern and goes out, and the door knocks shut","character":"character-other/salt-and-lamplight-morwenna","outfit":"off-white linen shirt, canvas trousers, sea boots"}]}
 {"beat":46,"event":"She catches Morwenna telling the lamp there is a girl in her chair and she doesn't know why."}
 {"beat":47,"event":"Morwenna comes down and makes up the straw mattress in the loft with spare blankets."}
 {"beat":48,"event":"Nala climbs to the loft, and Morwenna hands up her own pillow after her."}
-{"beat":49,"event":"Their fingers meet on the pillow; Morwenna's are cold, and neither lets go at once."}
+{"beat":49,"event":"Their fingers meet on the pillow; Morwenna's are cold, and neither lets go at once.","pictured":[{"cover":"image/image-66d2d7a0e81a17db","coverAfter":"You climb in your blanket, slowly, your feet still tender. The loft","character":"character-player/salt-and-lamplight-nala","outfit":"dry linen shift under a grey wool blanket"}]}
 {"beat":50,"event":"Morwenna says \"Goodnight, Nala\", the first time she has said the name."}
 {"beat":51,"event":"In the loft Nala lies listening to the sea, the lamp's glow moving on the slates above her."}
 {"beat":52,"event":"She lays a hand on her own chest, feels her heart small and quick, and thinks of Morwenna's hands."}

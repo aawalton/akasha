@@ -48,20 +48,4 @@ export const hollowmere0015BreatheOut = {
     "story-recorder/picture",
   ],
   scenes: ["image/image-6f4617409fad911e", "image/image-d092948cf5bc3249"],
-  pictured: [
-    {
-      cover: "image/image-6f4617409fad911e",
-      coverAfter: "She's in Bea's jumper. A big soft cream one, cable-knit, much too large,",
-      character: "character-other/hollowmere-kit",
-      outfit: "Bea's big cream cable-knit jumper over her own long black skirt",
-    },
-    {
-      cover: "image/image-d092948cf5bc3249",
-      coverAfter:
-        "She's waiting for someone, or pretending to, leaning on the doorframe in a camel coat",
-      character: "character-other/hollowmere-amara",
-      outfit:
-        "camel coat over a fitted black knit and black tailored trousers, braids up, gold hoops",
-    },
-  ],
 } as const satisfies StoryChapterWritten

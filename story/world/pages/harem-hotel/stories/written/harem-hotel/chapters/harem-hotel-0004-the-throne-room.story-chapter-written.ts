@@ -27,13 +27,4 @@ export const haremHotel0004TheThroneRoom = {
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
   recordedBy: ["story-recorder/mechanics", "story-recorder/memory", "story-recorder/picture"],
-  pictured: [
-    {
-      cover: "image/image-f1e32f7974ebb63e",
-      coverAfter: "She sits in it like it was made for her, upright, her",
-      character: "character-other/harem-hotel-odile",
-      outfit: "red velvet robe open over her bare body",
-      setting: "the throne room",
-    },
-  ],
 } as const satisfies StoryChapterWritten

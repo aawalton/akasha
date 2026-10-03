@@ -23,7 +23,7 @@
 {"beat":23,"event":"Elowen chalks fresh arrows down the Long Hall beside yesterday's."}
 {"beat":24,"event":"At the shifted passage on the left, Wren goes in first, and they wait until she calls."}
 {"beat":25,"event":"The passage runs narrow and low, and ends in a heap of fresh broken stone."}
-{"beat":26,"event":"The rubble is sharp-edged, clean and free of dust: untouched."}
+{"beat":26,"event":"The rubble is sharp-edged, clean and free of dust: untouched.","pictured":[{"cover":"image/image-4d2c65868fdd198d","coverAfter":"It ends in a heap of broken stone. A great slope of it, where the ceiling","setting":"the shifted passage and its fresh rubble heap"}]}
 {"beat":27,"event":"Nala draws the new passage onto her map with a stub of Elowen's chalk."}
 {"beat":28,"event":"They kneel at the heap and sift, lamps shuttered low, looking for the glow."}
 {"beat":29,"event":"The first stone comes out of the heap within minutes; Elowen finds it."}
@@ -54,7 +54,7 @@
 {"beat":54,"event":"They climb the back stairs of the Kettle to Elowen's room under the eaves."}
 {"beat":55,"event":"It is tiny, the ceiling so low that Wren is the only one who can stand straight."}
 {"beat":56,"event":"They sit on the floor and share the loaf, and Elowen's light sits on her fingers for a lamp."}
-{"beat":57,"event":"Elowen says this is the last night she will sleep alone up here."}
+{"beat":57,"event":"Elowen says this is the last night she will sleep alone up here.","pictured":[{"cover":"image/image-bb359ad90313988b","coverAfter":"It's tiny. The ceiling slopes down so low on both sides that there's only","setting":"Elowen's room under the eaves, the Brass Kettle"}]}
 {"beat":58,"event":"She goes pink at what she has said, and Wren laughs until she has to hold her arm."}
 {"beat":59,"event":"Nala and Wren leave Elowen to her last night at the Kettle and climb Ladder Lane."}
 {"beat":60,"event":"In the kitchen Nala tells the widow a second lodger is coming into room 7 tomorrow."}

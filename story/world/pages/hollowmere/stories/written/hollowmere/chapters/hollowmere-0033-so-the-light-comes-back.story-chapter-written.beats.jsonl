@@ -31,7 +31,7 @@
 {"beat":31,"event":"She takes a small cloth parcel out of her coat pocket and puts it on the table by the candle."}
 {"beat":32,"event":"\"It's a focus,\" she says. \"For you. You can say no. It's not, it doesn't mean anything. It does.\""}
 {"beat":33,"event":"You unwrap it. A silver ring, plain and narrow, and worked round it, fine as a hair, a hook."}
-{"beat":34,"event":"The hook turns in, the way the glim's does. The way Lin showed you. Towards the one who wears it."}
+{"beat":34,"event":"The hook turns in, the way the glim's does. The way Lin showed you. Towards the one who wears it.","pictured":[{"cover":"image/image-05a4c4ea4daceeff","coverAfter":"Six tables. Candles in bottles, the wax running down them in thick","setting":"Gianni's"}]}
 {"beat":35,"event":"\"So the light comes back to you,\" Kit says, very fast. \"That's Lin's line. I stole it. I asked her.\""}
 {"beat":36,"event":"You can't speak for a moment. You look at her across the candle; Kit is scarlet to the ears."}
 {"beat":37,"event":"\"It's to remember,\" Kit says. \"That's the point. A focus should remember. I want it to remember me.\""}
@@ -49,7 +49,7 @@
 {"beat":49,"event":"\"Soon,\" you say. \"After.\" Kit nods, and kisses you once more, hard, and holds your ringed hand."}
 {"beat":50,"event":"\"I'll be on the bank tomorrow,\" Kit says. \"Shouting for Thornfield. In front of all of Ashcombe.\""}
 {"beat":51,"event":"\"They'll string you up,\" you say. Kit grins. \"Let them. I've got my own house now. Sort of.\""}
-{"beat":52,"event":"She goes in; at the door she turns and looks at you, and lifts her hand, and goes."}
+{"beat":52,"event":"She goes in; at the door she turns and looks at you, and lifts her hand, and goes.","pictured":[{"cover":"image/image-1efe9846b155fee3","coverAfter":"The door is shut. The lamp over it lit. She stands on the","setting":"Ashcombe's step"}]}
 {"beat":53,"event":"In 15 Bea is asleep, flat on her back, arms crossed on her chest like a knight on a tomb."}
 {"beat":54,"event":"You undress in the dark and slide in beside her; she stirs. \"Back by ten?\" she mumbles."}
 {"beat":55,"event":"\"Twenty to eleven,\" you say. \"The bus.\" Bea smiles with her eyes shut. \"Ashworth. Liar.\""}

@@ -1,27 +1,27 @@
 {"beat":1,"event":"Saturday: you sleep through half six; Bea, cidered too, sleeps through it as well."}
 {"beat":2,"event":"You wake at ten with a dry mouth and a soft head, and the sun full on the mere."}
 {"beat":3,"event":"Bea hammers on your door: brunch ends at eleven, and then Kendal, everyone goes on Saturdays."}
-{"beat":4,"event":"Brunch in the Great Hall: eggs, bacon, mountains of toast; Lin and Priya join you, bleary."}
-{"beat":5,"event":"In room 14 you find your purse in your coat: a bank card in your name, a library card, notes."}
+{"beat":4,"event":"Brunch in the Great Hall: eggs, bacon, mountains of toast; Lin and Priya join you, bleary.","pictured":[{"cover":"image/image-a63df48a4dcb0612","coverAfter":"You and Bea get plates piled high and sit down near the window, and you've barely","character":"character-other/hollowmere-lin","outfit":"soft grey jumper"}]}
+{"beat":5,"event":"In room 14 you find your purse in your coat: a bank card in your name, a library card, notes.","pictured":[{"cover":"image/image-fa249f9a14aa3479","coverAfter":"Then Priya arrives, in a pinafore the colour of a tangerine, with her curly hair","character":"character-other/hollowmere-priya","outfit":"tangerine pinafore over a striped long-sleeved top"}]}
 {"beat":6,"event":"Sixty-two pounds. You count it twice, and it feels like the first thing that's truly yours here."}
 {"beat":7,"event":"The Kendal bus from the village is packed with Hollowmere girls; you squeeze in with Bea."}
-{"beat":8,"event":"Lin and Priya share the seat behind; forty minutes of fells and stone walls and sheep."}
+{"beat":8,"event":"Lin and Priya share the seat behind; forty minutes of fells and stone walls and sheep.","pictured":[{"cover":"image/image-51762549d74dd4a1","coverAfter":"The bus to Kendal goes from the village, and it's packed with Hollowmere girls.","setting":"the Kendal bus"}]}
 {"beat":9,"event":"Priya leans over the seat back and asks you, curious and kind, how you knew you liked girls."}
 {"beat":10,"event":"You say it was never something you had to find out; it was just there, like your hair."}
 {"beat":11,"event":"Priya says she's only ever gone out with boys, and never once thought hard about girls."}
 {"beat":12,"event":"\"Isn't that odd?\" she says. \"I think hard about everything.\" She sits back, thoughtful."}
 {"beat":13,"event":"Kendal: a grey stone market town, the Saturday market filling the square."}
-{"beat":14,"event":"Fruit, cheese, wool in heaps, boxes of secondhand books, and a stall selling charms."}
+{"beat":14,"event":"Fruit, cheese, wool in heaps, boxes of secondhand books, and a stall selling charms.","pictured":[{"cover":"image/image-8f70a45ff2ebfd52","coverAfter":"Kendal is grey stone. Grey stone houses, grey stone churches, grey stone walls and","setting":"the Kendal market square"}]}
 {"beat":15,"event":"Priya is lost at the charms stall at once, quizzing the stallholder about how each one works."}
 {"beat":16,"event":"Lin finds a box of old nibs and pen holders, and turns each over in her inky fingers."}
 {"beat":17,"event":"You buy a cheap fountain pen for your essay, your first purchase, and feel absurdly proud."}
 {"beat":18,"event":"Bea buys a bag of apples and eats one walking, offering everyone bites."}
 {"beat":19,"event":"The licensed charm-maker's shop: brass bells, glass cases, a framed licence over the till."}
-{"beat":20,"event":"Priya presses her nose to a case of charmed clockwork; her whole face lights with want."}
+{"beat":20,"event":"Priya presses her nose to a case of charmed clockwork; her whole face lights with want.","pictured":[{"cover":"image/image-4898630145bcfb65","coverAfter":"Off the square, down a narrow side street, there's a shop with a bow window","setting":"F. Harrowby & Daughters"}]}
 {"beat":21,"event":"The bookshop has a café upstairs; you go up for lunch, Bea leading."}
 {"beat":22,"event":"Kit is at a corner table alone, a slim book open in front of her, a pot of tea."}
 {"beat":23,"event":"You glance at the cover as you pass: poetry. Kit snaps it shut and says, \"It's for a friend.\""}
-{"beat":24,"event":"\"Course it is,\" you say; Kit's ears go pink; Bea waves at her, beaming, and Kit nods back."}
+{"beat":24,"event":"\"Course it is,\" you say; Kit's ears go pink; Bea waves at her, beaming, and Kit nods back.","pictured":[{"cover":"image/image-96949eef3cbe20b8","coverAfter":"The bookshop has a café upstairs, and Bea leads the way.","setting":"the bookshop café"}]}
 {"beat":25,"event":"You buy Bea hot chocolate and a scone with cream: a down payment, you tell her, on the scones."}
 {"beat":26,"event":"Bea is so delighted she hugs you over the table and knocks the sugar bowl flying."}
 {"beat":27,"event":"When your table is laughing loudest, you see Kit watching it over her book."}
@@ -29,10 +29,10 @@
 {"beat":29,"event":"Kit says she has reading; Bea, behind you, says, \"Come and bite us in the dark, go on.\""}
 {"beat":30,"event":"Kit stares at Bea; then, to everyone's surprise, including hers, she says, \"Fine.\""}
 {"beat":31,"event":"Afternoon: you wander, the four of you then five, through ginnels and down to the river."}
-{"beat":32,"event":"Kit walks beside you, nearly silent; once she points out a gargoyle that looks like Penhallow."}
+{"beat":32,"event":"Kit walks beside you, nearly silent; once she points out a gargoyle that looks like Penhallow.","pictured":[{"cover":"image/image-bc0efd2744326868","coverAfter":"The afternoon goes slow and golden. You wander, the four of you, and then,","setting":"the stone bridge over the river"}]}
 {"beat":33,"event":"The cinema is small and old, red velvet seats; the film is a costume drama, very long."}
 {"beat":34,"event":"You sit with Bea on one side and Lin on the other; Kit beyond Lin; Priya at the end with popcorn."}
-{"beat":35,"event":"In the dark, partway through, Lin's hand finds yours on the armrest, and stays."}
+{"beat":35,"event":"In the dark, partway through, Lin's hand finds yours on the armrest, and stays.","pictured":[{"cover":"image/image-e132a1bc4cd5a4c0","coverAfter":"The cinema is small and old and smells of popcorn and dust.","setting":"the cinema"}]}
 {"beat":36,"event":"Bea, on your other side, leans her head on your shoulder at the sad part, and sniffs."}
 {"beat":37,"event":"Down the row, in the light off the screen, Kit is smiling at a line that no one else laughs at."}
 {"beat":38,"event":"The film runs late; you all run for the ten o'clock bus, the last one back, and make it."}

@@ -50,17 +50,4 @@ export const hollowmere0011ClothedToStart = {
     "story-recorder/picture",
   ],
   scenes: ["image/image-200ac1272e61525c", "image/image-e787d80ba9930441"],
-  pictured: [
-    {
-      cover: "image/image-200ac1272e61525c",
-      coverAfter: "The annexe is a long panelled room off the Great Hall, with",
-      setting: "the Great Hall annexe",
-    },
-    {
-      cover: "image/image-e787d80ba9930441",
-      coverAfter: "It's Lin. She's in a long pleated skirt and a soft grey",
-      character: "character-other/hollowmere-lin",
-      outfit: "soft grey cardigan, long pleated skirt, ponytail over one shoulder",
-    },
-  ],
 } as const satisfies StoryChapterWritten

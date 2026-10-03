@@ -4,7 +4,7 @@
 {"beat":4,"event":"She looks lighter than yesterday; she slept, she says, with the pencil letter under her pillow."}
 {"beat":5,"event":"Nine: group F climbs the library tower to Dr Penhallow's study, the round window full of mere."}
 {"beat":6,"event":"The shortbread tin sits on the desk, lid on; Penhallow taps it and says, \"Wards. Who drew one?\""}
-{"beat":7,"event":"Every hand goes up. \"Good. Who knows what it's for?\" Fewer hands. Kit's stays up."}
+{"beat":7,"event":"Every hand goes up. \"Good. Who knows what it's for?\" Fewer hands. Kit's stays up.","pictured":[{"cover":"image/image-481edd8957a06739","coverAfter":"You take your chair by the round window, between Kit and Lin.","character":"character-other/hollowmere-amara","outfit":"camel knit jumper, black tailored trousers, gold hoops and a gold watch"}]}
 {"beat":8,"event":"Kit says a ward keeps things out: draught, damp, harm. Penhallow nods and waits for more."}
 {"beat":9,"event":"Amara says it keeps the flame still. \"Half right, both of you,\" Penhallow says. \"Again, I see.\""}
 {"beat":10,"event":"Penhallow looks round the room. \"What does a ward keep out? And what does it keep in?\""}
@@ -13,7 +13,7 @@
 {"beat":13,"event":"Penhallow turns to you. \"Nala. A shell round a flame. What's inside it, besides the flame?\""}
 {"beat":14,"event":"You think of Lin's room, and Bea's bed, and the rock on Sundays. \"The air it needs,\" you say."}
 {"beat":15,"event":"Penhallow's eyebrows go up over her glasses. \"Go on.\" You say: \"Too tight a ward starves it.\""}
-{"beat":16,"event":"She looks at you a long moment, then pushes the tin an inch your way. \"Put that in the essay.\""}
+{"beat":16,"event":"She looks at you a long moment, then pushes the tin an inch your way. \"Put that in the essay.\"","pictured":[{"cover":"image/image-0c37f38953053586","coverAfter":"On the tower stairs afterwards, Kit falls into step beside you.","setting":"the library tower stairs"}]}
 {"beat":17,"event":"On the tower stairs Kit falls into step beside you, quiet, her bag strap twisted in her fist."}
 {"beat":18,"event":"\"Amara said brave,\" Kit says. \"Amara Osei. To me.\" She shakes her head. \"I keep hearing it.\""}
 {"beat":19,"event":"You say it was brave. Kit says it didn't feel brave; it felt like being sick, and then it was done."}
@@ -39,7 +39,7 @@
 {"beat":39,"event":"\"Go and write your essay, Nala,\" she says, low. But her foot rests against yours under the table."}
 {"beat":40,"event":"You stay. You write. Her foot stays there for twenty minutes, and then she gathers her books."}
 {"beat":41,"event":"At the door of the library she turns back once, and looks at you, and goes."}
-{"beat":42,"event":"Evening: dinner in the Thornfield kitchen; Priya cooks dal, loudly, and Amara turns up to help."}
+{"beat":42,"event":"Evening: dinner in the Thornfield kitchen; Priya cooks dal, loudly, and Amara turns up to help.","pictured":[{"cover":"image/image-80d5b65c285d64e4","coverAfter":"She's standing at the counter in a beautiful cream silk shirt, with the sleeves","character":"character-other/hollowmere-amara","outfit":"cream silk shirt with the sleeves rolled up, black tailored trousers, gold watch"}]}
 {"beat":43,"event":"Amara chops onions badly and cries, and says it's the onions; Priya hands her a tea towel, grinning."}
 {"beat":44,"event":"Amara laughs into the towel, red, and stays to eat, her knee touching Priya's under the table."}
 {"beat":45,"event":"Shiv comes in late, hair wet from the shore, steals a chapati and sits on the counter by you."}
@@ -48,7 +48,7 @@
 {"beat":48,"event":"At half past nine you fill a flask with sweet tea, the way the infirmary nurses take it."}
 {"beat":49,"event":"Yusra comes down at quarter to ten in her coat, badge at her collar, bag on her arm."}
 {"beat":50,"event":"You hold out the flask. She looks at it, then you. \"What's this?\" \"A ward,\" you say. \"Keeps it hot.\""}
-{"beat":51,"event":"Yusra takes the flask. Her fingers stay over yours on it a moment longer than they need."}
+{"beat":51,"event":"Yusra takes the flask. Her fingers stay over yours on it a moment longer than they need.","pictured":[{"cover":"image/image-80463d6c33f872d1","coverAfter":"She's in her coat, buttoned. Her brass badge at her collar. Her bag","character":"character-other/hollowmere-yusra","outfit":"dark wool coat buttoned up, brass warden's badge at the collar, bag on her arm"}]}
 {"beat":52,"event":"\"Nala,\" she says. Just your name. Then: \"Go to bed. Properly. All night. One of us should.\""}
 {"beat":53,"event":"You say you will if she sleeps tomorrow. Yusra says, \"We'll see,\" and goes out into the dark."}
 {"beat":54,"event":"You watch her lantern go down the path towards the infirmary until the trees take it."}

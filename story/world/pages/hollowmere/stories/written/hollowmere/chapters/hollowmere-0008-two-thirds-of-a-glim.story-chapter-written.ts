@@ -47,19 +47,4 @@ export const hollowmere0008TwoThirdsOfAGlim = {
     "story-recorder/picture",
   ],
   scenes: ["image/image-50683a9088eeb1db", "image/image-db6e601b317eb3d1"],
-  pictured: [
-    {
-      cover: "image/image-50683a9088eeb1db",
-      coverAfter: "You're already up. You've been up ten minutes, sitting on the edge of the bed",
-      character: "character-player/hollowmere-nala",
-      outfit: "grey jumper, leggings and trainers, hair in a band",
-    },
-    {
-      cover: "image/image-db6e601b317eb3d1",
-      coverAfter:
-        "At ten o'clock the Foundations lecture fills the Long Room again. You find a place",
-      character: "character-other/hollowmere-priya",
-      outfit: "bottle-green corduroy pinafore over a striped long-sleeved top",
-    },
-  ],
 } as const satisfies StoryChapterWritten

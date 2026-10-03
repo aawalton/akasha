@@ -47,17 +47,4 @@ export const hollowmere0022IWantToStay = {
     "story-recorder/picture",
   ],
   scenes: ["image/image-0afd679144bdd529", "image/image-c20a2594c0f4881e"],
-  pictured: [
-    {
-      cover: "image/image-0afd679144bdd529",
-      coverAfter: "The light is grey at the edges of Bea's thick curtains.",
-      character: "character-other/hollowmere-bea",
-      outfit: "white cotton vest and black running tights",
-    },
-    {
-      cover: "image/image-c20a2594c0f4881e",
-      coverAfter: "The pigeonholes in the hall outside the Great Hall are stuffed:",
-      setting: "the pigeonholes outside the Great Hall",
-    },
-  ],
 } as const satisfies StoryChapterWritten

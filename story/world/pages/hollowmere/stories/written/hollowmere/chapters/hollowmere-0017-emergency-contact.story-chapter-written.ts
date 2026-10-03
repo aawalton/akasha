@@ -47,21 +47,4 @@ export const hollowmere0017EmergencyContact = {
     "image/image-49c9b21c0881dd3c",
     "image/image-53f61d90b0c4f5a1",
   ],
-  pictured: [
-    {
-      cover: "image/image-6fc4a56dc7904e91",
-      coverAfter: "Behind the lodge, through a door with a frosted glass panel, there's a",
-      setting: "the bursar's office",
-    },
-    {
-      cover: "image/image-49c9b21c0881dd3c",
-      coverAfter: "There's a low stone wall by the lodge, under a dripping tree.",
-      setting: "the low stone wall by the lodge",
-    },
-    {
-      cover: "image/image-53f61d90b0c4f5a1",
-      coverAfter: "The mist has gone. The night is cold and clear and full of",
-      setting: "Thornfield's door",
-    },
-  ],
 } as const satisfies StoryChapterWritten

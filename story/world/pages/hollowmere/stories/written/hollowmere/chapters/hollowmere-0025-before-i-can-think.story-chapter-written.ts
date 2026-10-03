@@ -48,11 +48,4 @@ export const hollowmere0025BeforeICanThink = {
     "story-recorder/memory",
   ],
   scenes: ["image/image-0d42e619df88ef4b"],
-  pictured: [
-    {
-      cover: "image/image-0d42e619df88ef4b",
-      coverAfter: "The post box is by the porters' lodge.",
-      setting: "the post box by the porters' lodge",
-    },
-  ],
 } as const satisfies StoryChapterWritten
