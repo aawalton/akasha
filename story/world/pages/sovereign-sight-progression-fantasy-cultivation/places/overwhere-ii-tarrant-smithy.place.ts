@@ -74,7 +74,7 @@ export const overwhereIiTarrantSmithy = {
     },
     {
       fact: "Hob starts the stakes at once on day twenty-nine; the first ten are ready by dusk.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Hob warns that stakes in a pool bed must be driven with a sledge, by someone standing over them.",
