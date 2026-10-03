@@ -4,10 +4,13 @@ export const overwhereIv00092 = {
   id: "01a101c8-7c74-7913-9aa7-88feb455b311",
   type: "page-type/story-turn-played",
   slug: "overwhere-iv-00-092",
+  ownLength: 161,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iv"],
   position: 92,
-  stepStatus: "step-status/writer",
+  prose: "txt",
+  characters: ["character-player/overwhere-iv-nala"],
+  stepStatus: "step-status/reviewers",
   action:
     "“Leave that to me.” The next day, we go and find the right place for the ambush, then I move quietly toward the camp, senses wide so I see the goblins before they see me.",
   beats: [
@@ -24,6 +27,10 @@ export const overwhereIv00092 = {
     "Behind them, out past her reach, comes a low muttering, many voices. A heavy tread among them.",
   ],
   lore: [
+    "lore/overwhere-iv-brookside-four-2",
+    "lore/overwhere-iv-nala",
+    "lore/overwhere-iv-nala-2",
+    "lore/overwhere-iv-nala-3",
     "lore/overwhere-iv-the-tangle-2",
     "lore/overwhere-iv-the-tangle-2-2",
     "place/overwhere-iv-tull-farm",
