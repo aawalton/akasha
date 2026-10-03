@@ -5,7 +5,7 @@ export const beatState = {
   type: "page-type/domain",
   slug: "beat-state",
   definition: "the state of a story worked out by replaying its beats in order",
-  parts: ["module/beat-replay"],
+  parts: ["module/beat-replay", "module/beat-changes"],
   decisions: [
     {
       decisionKind: "decision-kind/departure",
