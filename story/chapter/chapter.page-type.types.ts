@@ -1,6 +1,7 @@
 import type { Collection } from "akasha/alan/collection/collection.page-type.types.ts"
 import type { OwnLength } from "akasha/alan/collection/properties/own-length.number-property.types.ts"
 import type { Title } from "akasha/page/properties/title.text-property.types.ts"
+import type { BeatScenes } from "akasha/story/chapter/properties/beat-scenes.record-property.types.ts"
 import type { ChapterStory } from "akasha/story/chapter/properties/chapter-story.relation-property.types.ts"
 import type { StepBeats } from "akasha/story/chapter/properties/step-beats.text-property.types.ts"
 import type { StepIssues } from "akasha/story/chapter/properties/step-issues.text-property.types.ts"
@@ -18,6 +19,7 @@ export type Chapter = Collection & {
   prose: Prose
   stepStatus?: StepStatus
   beats?: StepBeats
+  beatScenes?: BeatScenes
   issues?: StepIssues
   lore?: StepLore
   characters?: Characters

@@ -203,6 +203,10 @@
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"product/kofi/feature-request/properties/feature-request-booster.relation-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"product/kofi/feature-request/properties/feature-request-product.relation-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"product/kofi/feature-request/properties/feature-request-proposer.relation-property.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"story/chapter/properties/beat-scene-arrive.multi-relation-property.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"story/chapter/properties/beat-scene-leave.multi-relation-property.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"story/chapter/properties/beat-scene-place.relation-property.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"story/chapter/properties/beat-scene-present.multi-relation-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"story/chapter/properties/chapter-story.relation-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"story/chapter/properties/step-lore.multi-relation-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"story/chapter/properties/step-recorded-by.multi-relation-property.types.ts","typed":true,"deferred":false}

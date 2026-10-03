@@ -21,6 +21,7 @@
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"world-character","unique":null,"uniquePropertySlug":null,"slug":"attunement-character","propertySlug":"character","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"world-element","unique":null,"uniquePropertySlug":null,"slug":"attunement-element","propertySlug":"element","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"temper-metric","unique":null,"uniquePropertySlug":null,"slug":"base-stat-metric","propertySlug":"metric","fileName":null,"folderName":null}
+{"pageTypeSlug":"relation-property","targetPageTypeSlug":"place","unique":null,"uniquePropertySlug":null,"slug":"beat-scene-place","propertySlug":"place","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"temper-browser-category","unique":null,"uniquePropertySlug":null,"slug":"browser-category-parent","propertySlug":"parent","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"shell-script","unique":null,"uniquePropertySlug":null,"slug":"build-script","propertySlug":"build-script","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"module","unique":null,"uniquePropertySlug":null,"slug":"bundle-entry","propertySlug":"bundle-entry","fileName":null,"folderName":null}
