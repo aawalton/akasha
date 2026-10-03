@@ -126,7 +126,12 @@ export const overwhereIiiMardaHesk2 = {
     },
     {
       fact: "Hearing the woman fled south into the deep wood, Marda thinks of the sealed Hollow a day south.",
-      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-marda-hesk"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/overwhere-iii-marda-hesk",
+        "character-player/overwhere-iii-nala",
+        "character-other/overwhere-iii-edda-crane",
+      ],
     },
     {
       fact: "Marda has never heard of 'the Lantern'; it chills her that the woman named Nala holy.",
