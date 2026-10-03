@@ -299,5 +299,9 @@ export const overwhereIHobbsMillWeir = {
       fact: "Opening the wyrm to reach its bile sac takes about twenty minutes of cutting.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "The dead wyrm stinks of river mud and scorched flesh; flies gather on it within minutes.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Place
