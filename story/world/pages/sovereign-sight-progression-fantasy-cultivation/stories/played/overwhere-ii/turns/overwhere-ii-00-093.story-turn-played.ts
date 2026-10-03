@@ -10,7 +10,7 @@ export const overwhereIi00093 = {
   position: 93,
   prose: "txt",
   characters: ["character-player/overwhere-ii-nala"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/recorders",
   action: "I choose a spear, since that’s what I’m used to",
   beats: [
     "Nala takes an ash practice spear from the rack, its head capped in blunt leather.",
@@ -36,6 +36,6 @@ export const overwhereIi00093 = {
     "lore/overwhere-ii-nala-3",
     "lore/overwhere-ii-varrow-talented",
   ],
-  reviewedBy: ["story-reviewer/continuity"],
+  reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
   endsAt: "2026-10-22T07:00:00.000Z",
 } as const satisfies StoryTurnPlayed
