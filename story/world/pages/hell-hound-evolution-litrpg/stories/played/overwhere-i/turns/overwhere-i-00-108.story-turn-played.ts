@@ -7,7 +7,8 @@ export const overwhereI00108 = {
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-i"],
   position: 108,
-  stepStatus: "step-status/world-builder",
+  stepStatus: "step-status/game-master",
   action:
     "I eat, then hike downstream to where the Wyrm is active. When I get close, I use my lenses to scout for signs of where it is.",
+  lore: ["lore/overwhere-i-wendlow-2", "place/overwhere-i-hobbs-mill-weir"],
 } as const satisfies StoryTurnPlayed
