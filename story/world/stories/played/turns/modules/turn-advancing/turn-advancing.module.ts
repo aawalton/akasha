@@ -6,6 +6,7 @@ export const turnAdvancing = {
   slug: "turn-advancing",
   definition: "how one advance moves a played turn or written chapter from one status to the next",
   code: "ts",
+  test: "ts",
   decisions: [
     {
       decisionKind: "decision-kind/departure",
