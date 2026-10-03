@@ -312,5 +312,17 @@ export const overwhereIWendlow2 = {
       fact: "Mother Sallow warns that a burst bile sac is worthless, and its bile stings skin.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
+    {
+      fact: "Bram Cooley asks nine copper for bed and supper at the Bell and Barrel, and three more for a bath.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+    },
+    {
+      fact: "The Bell and Barrel's bathhouse out back is a tiled room of steam and copper tubs.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+    },
+    {
+      fact: "The Bell and Barrel serves porridge and small beer downstairs at first light.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+    },
   ],
 } as const satisfies Lore

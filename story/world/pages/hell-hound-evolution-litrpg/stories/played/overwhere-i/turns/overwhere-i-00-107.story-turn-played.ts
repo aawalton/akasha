@@ -32,6 +32,6 @@ export const overwhereI00107 = {
   issues: ['"You swing your feet out onto the cold boards." - Leave It Open'],
   lore: ["lore/overwhere-i-nala", "lore/overwhere-i-nala-2", "lore/overwhere-i-wendlow-2"],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
-  recordedBy: ["story-recorder/inventory"],
+  recordedBy: ["story-recorder/inventory", "story-recorder/memory"],
   endsAt: "2026-10-06T06:00:00.000Z",
 } as const satisfies StoryTurnPlayed
