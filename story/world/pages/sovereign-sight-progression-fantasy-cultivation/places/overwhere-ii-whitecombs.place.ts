@@ -228,6 +228,26 @@ export const overwhereIiWhitecombs = {
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
+      fact: "Packing scree into the cwm's crack takes about an hour, with the trickle held back meanwhile.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Plugged, the crack stops the trickle; the gully below dries but for what lies behind Hawise's bank.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "As the plug closes, the pool's swells quicken for a few breaths, then slow again.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Plugged, the pool rises a finger's width a day; it will reach the lip again in about a month.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The scree plug holds against the swells, but the next thunder may crack it open again.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
       fact: "Loose scree lies heaped beside the crack in the Callow cwm's lower lip.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
