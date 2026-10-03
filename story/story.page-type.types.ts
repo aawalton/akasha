@@ -5,6 +5,7 @@ import type { ChapterBreak } from "akasha/story/properties/chapter-break.text-pr
 import type { CoordinatorAgent } from "akasha/story/properties/coordinator-agent.text-property.types.ts"
 import type { Panels } from "akasha/story/properties/panels.multi-relation-property.types.ts"
 import type { PhaseTimings } from "akasha/story/properties/phase-timings.file-property.types.ts"
+import type { PlayerIntent } from "akasha/story/properties/player-intent.text-property.types.ts"
 import type { StoryColor } from "akasha/story/properties/story-color.computed-property.types.ts"
 import type { Prose } from "akasha/story/world/stories/played/properties/prose.file-property.types.ts"
 import type { World } from "akasha/story/world/stories/played/properties/world.relation-property.types.ts"
@@ -15,6 +16,7 @@ export type Story = Collection & {
   prose?: Prose
   chapterBreak?: ChapterBreak
   coordinatorAgent?: CoordinatorAgent
+  playerIntent?: PlayerIntent
   domain?: PageDomain
   panels?: Panels
   phaseTimings?: PhaseTimings

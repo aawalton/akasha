@@ -417,6 +417,7 @@
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"story/lore/properties/lore-fact.text-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"story/properties/chapter-break.text-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"story/properties/coordinator-agent.text-property.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"story/properties/player-intent.text-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"story/recorder/properties/story-recorder-name.text-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"story/reviewer/properties/story-reviewer-name.text-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"story/style/style-rule/properties/style-example-after.text-property.ts","typed":true,"deferred":false}

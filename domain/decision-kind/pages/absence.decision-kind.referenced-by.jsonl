@@ -1826,6 +1826,7 @@
 {"propertySlug":"decision-kind","path":"story/engine/story-engine.domain.ts","id":"01a06280-e122-7ba3-844e-c8a0f133106d"}
 {"propertySlug":"decision-kind","path":"story/lore-disclosure/modules/lore-rereading/lore-rereading.module.ts","id":"01a0e337-29f5-7855-af44-8e1c85997314"}
 {"propertySlug":"decision-kind","path":"story/lore-disclosure/modules/lore-scrubbing/lore-scrubbing.module.ts","id":"01a0da6b-b93f-789a-a8cd-4da980b5664a"}
+{"propertySlug":"decision-kind","path":"story/properties/player-intent.text-property.ts","id":"01a103a5-8567-7000-97b1-83923adf8382"}
 {"propertySlug":"decision-kind","path":"story/properties/story-color.computed-property.ts","id":"01a0eafd-aac3-7d63-991e-1606a29f818b"}
 {"propertySlug":"decision-kind","path":"story/ui/modules/character-cover-panel/character-cover-panel.module.ts","id":"01a0de7e-118e-760a-aace-b82f91d94001"}
 {"propertySlug":"decision-kind","path":"story/ui/modules/newest-divider/newest-divider.module.ts","id":"01a0629b-682c-7208-a65c-1d5fdba6f831"}

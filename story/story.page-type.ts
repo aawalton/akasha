@@ -27,6 +27,7 @@ export const story = {
     "page-type/story-recorder",
     "text-property/chapter-break",
     "text-property/coordinator-agent",
+    "text-property/player-intent",
     "file-property/phase-timings",
     "multi-relation-property/panels",
     "computed-property/story-color",
@@ -37,6 +38,7 @@ export const story = {
     { pageProperty: "file-property/prose", required: false, many: false },
     { pageProperty: "text-property/chapter-break", required: false, many: false },
     { pageProperty: "text-property/coordinator-agent", required: false, many: false },
+    { pageProperty: "text-property/player-intent", required: false, many: false },
     { pageProperty: "relation-property/page-domain", required: false, many: false },
     { pageProperty: "multi-relation-property/panels", required: false, many: true, maxCount: null },
     {

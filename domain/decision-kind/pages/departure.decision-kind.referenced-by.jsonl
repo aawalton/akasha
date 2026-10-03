@@ -3835,6 +3835,7 @@
 {"propertySlug":"decision-kind","path":"story/properties/coordinator-agent.text-property.ts","id":"01a0673c-8e0e-7001-a960-de2ffa854884"}
 {"propertySlug":"decision-kind","path":"story/properties/panels.multi-relation-property.ts","id":"01a0de26-1951-7113-998f-3eb408acf2e1"}
 {"propertySlug":"decision-kind","path":"story/properties/phase-timings.file-property.ts","id":"01a0e952-1ea6-79fa-b4d7-28dd0ee05374"}
+{"propertySlug":"decision-kind","path":"story/properties/player-intent.text-property.ts","id":"01a103a5-8567-7000-97b1-83923adf8382"}
 {"propertySlug":"decision-kind","path":"story/properties/story-color.computed-property.ts","id":"01a0eafd-aac3-7d63-991e-1606a29f818b"}
 {"propertySlug":"decision-kind","path":"story/recorder/properties/story-recorder-instructions.file-property.ts","id":"01a0e054-324c-7c5f-8cf2-aad1564badaa"}
 {"propertySlug":"decision-kind","path":"story/recorder/properties/story-recorder-step.relation-property.ts","id":"01a10256-8b7b-722b-a02b-242a3b37d25c"}
