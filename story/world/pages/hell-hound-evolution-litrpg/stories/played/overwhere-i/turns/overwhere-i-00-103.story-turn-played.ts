@@ -36,5 +36,6 @@ export const overwhereI00103 = {
   issues: ['"The pearl favours no element" - Plain Negation'],
   lore: ["lore/overwhere-i-nala", "lore/overwhere-i-nala-2", "lore/overwhere-i-wendlow-2"],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
+  recordedBy: ["story-recorder/mechanics"],
   endsAt: "2026-10-05T13:05:00.000Z",
 } as const satisfies StoryTurnPlayed
