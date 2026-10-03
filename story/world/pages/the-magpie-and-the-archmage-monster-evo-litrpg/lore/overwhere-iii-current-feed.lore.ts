@@ -26,7 +26,7 @@ export const overwhereIiiCurrentFeed = {
     },
     {
       fact: "At the shrine a fed Mending Weave gives back more than its burn costs, so it nets her health.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
   ],
 } as const satisfies Lore
