@@ -1,0 +1,8 @@
+{"beat":5,"page":"story-item/fairweather-adventurers-outfit","note":"Elsie laces on the cream halter outfit and belt","key":"slot","from":null,"to":"item-slot/body"}
+{"beat":5,"page":"story-item/fairweather-flower-clip","note":"Elsie pins the flower clip in her hair","key":"slot","from":null,"to":"item-slot/head"}
+{"beat":22,"page":"metric-character-currency/fairweather-elsie","note":"Elsie's purse shown at the guild counter","key":"unrevealed","from":true,"to":false}
+{"beat":22,"page":"metric-character-currency/fairweather-elsie","note":"Guild fee, two silver lanterns paid: 134 → 114 pips","key":"value","from":134,"to":114}
+{"beat":22,"page":"metric-character-currency/fairweather-elsie","note":"Guild registration fee paid","key":"history","append":{"turn":1,"value":114}}
+{"beat":30,"page":"story-item/fairweather-copper-rank-tag","note":"Elsie hangs her copper rank tag at her belt","key":"slot","from":null,"to":"item-slot/waist"}
+{"beat":87,"page":"story-item/fairweather-adventurers-outfit","note":"Elsie unlaces the halter and undresses for bed","key":"slot","from":"item-slot/body","to":null}
+{"beat":87,"page":"story-item/fairweather-copper-rank-tag","note":"Rank tag comes off with her belt as she undresses","key":"slot","from":"item-slot/waist","to":null}
