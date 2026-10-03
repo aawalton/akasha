@@ -274,5 +274,14 @@ export const hollowmereAmara = {
         "character-other/hollowmere-bea",
       ],
     },
+    {
+      fact: "Amara helped Priya cook dal at Thornfield, stayed to eat, and rested her knee against Priya's.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-amara",
+        "character-other/hollowmere-priya",
+      ],
+    },
   ],
 } as const satisfies Lore

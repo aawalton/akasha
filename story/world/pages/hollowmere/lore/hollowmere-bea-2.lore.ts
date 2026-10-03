@@ -91,5 +91,22 @@ export const hollowmereBea2 = {
         "character-other/hollowmere-shiv",
       ],
     },
+    {
+      fact: "Bea rows in the Fell Cup on Saturday week, and made Nala promise to shout her name from the bank.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-bea",
+      ],
+    },
+    {
+      fact: "Morwenna says Bea's four is nearly a boat; Bea showed Nala her blistered palms like trophies.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-bea",
+        "character-other/hollowmere-morwenna",
+      ],
+    },
   ],
 } as const satisfies Lore

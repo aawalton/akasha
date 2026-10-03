@@ -287,5 +287,13 @@ export const hollowmereNala2 = {
       fact: "Nala's first ward went round her flame like a soap bubble, and held it through the draught.",
       knowers: ["lore-disclosure/game-master", "character-player/hollowmere-nala"],
     },
+    {
+      fact: "Bea guessed Nala made tea for the warden, and called her soft, smiling.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-bea",
+      ],
+    },
   ],
 } as const satisfies Lore

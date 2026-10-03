@@ -263,6 +263,46 @@ export const hollowmereYusra = {
         "character-other/hollowmere-yusra",
       ],
     },
+    {
+      fact: "Yusra's cut palm has healed to a thin pink line, and her bandage is gone.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-yusra",
+      ],
+    },
+    {
+      fact: "Yusra told Nala a bandage is a ward: dirt out, blood in, and the hurt in for a bit, while it mends.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-yusra",
+      ],
+    },
+    {
+      fact: "Told she isn't sleeping, Yusra said work's a ward, and would not say what it keeps in.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-yusra",
+      ],
+    },
+    {
+      fact: "In the library Yusra rested her foot against Nala's under the table for twenty minutes.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-yusra",
+      ],
+    },
+    {
+      fact: "Nala gave Yusra sweet tea for her night shift; Yusra held her hand on the flask: go to bed.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-yusra",
+      ],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore

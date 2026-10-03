@@ -412,5 +412,13 @@ export const hollowmereShiv = {
         "character-player/hollowmere-nala",
       ],
     },
+    {
+      fact: "Shiv told Nala a wetsuit keeps your own heat in, not the cold out: you're the heat.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-shiv",
+      ],
+    },
   ],
 } as const satisfies Lore

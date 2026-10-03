@@ -422,5 +422,13 @@ export const hollowmereLin = {
         "character-other/hollowmere-bea",
       ],
     },
+    {
+      fact: "Lin slept all night with her pencil letter under her pillow, she told Nala.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-lin",
+      ],
+    },
   ],
 } as const satisfies Lore

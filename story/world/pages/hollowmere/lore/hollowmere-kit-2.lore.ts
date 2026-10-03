@@ -269,5 +269,13 @@ export const hollowmereKit2 = {
       fact: "Kit spends Tuesday late mornings at the forge, working a focus she has shown no one yet.",
       knowers: ["lore-disclosure/game-master", "character-other/hollowmere-kit"],
     },
+    {
+      fact: "Kit told Nala Amara's That's brave rang in her head all night; it felt like being sick, she said.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-kit",
+      ],
+    },
   ],
 } as const satisfies Lore
