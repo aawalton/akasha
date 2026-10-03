@@ -11,4 +11,5 @@ export const overwhereI00112 = {
   action:
     "I carefully go over to it, staying out of biting range, then use my spinning water disk to remove the head and carefully disect the beast for the bile sac, which I store in the jar",
   lore: ["place/overwhere-i-hobbs-mill-weir"],
+  endsAt: "2026-10-06T12:02:00.000Z",
 } as const satisfies StoryTurnPlayed
