@@ -147,5 +147,9 @@ export const overwhereIiMaudAshby = {
       fact: "Maud warned Nala not to Descend before her heart is refined.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
+    {
+      fact: "Near noon on day twenty-nine Maud reaches the gully mouth on foot, stiff and puffing, with Anselm.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+    },
   ],
 } as const satisfies Lore
