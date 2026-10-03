@@ -198,7 +198,7 @@ export const overwhereIWendlow2 = {
     },
     {
       fact: "Ilse's half up front covers extras too; the rest is paid when the ring is handed over.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
     {
       fact: "Ilse will not hurry a setting, and says a band's metal makes no difference to a focus.",
