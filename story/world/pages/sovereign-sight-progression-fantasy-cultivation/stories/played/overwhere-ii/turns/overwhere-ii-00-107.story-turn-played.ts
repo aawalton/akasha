@@ -10,4 +10,5 @@ export const overwhereIi00107 = {
   stepStatus: "step-status/game-master",
   action: "I pull out one of the intact Greymaw chambers and see if that will hold it",
   lore: ["lore/overwhere-ii-greymaws"],
+  endsAt: "2026-10-26T11:28:00.000Z",
 } as const satisfies StoryTurnPlayed
