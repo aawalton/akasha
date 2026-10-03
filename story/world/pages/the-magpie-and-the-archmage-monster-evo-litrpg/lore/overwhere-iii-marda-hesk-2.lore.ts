@@ -148,7 +148,12 @@ export const overwhereIiiMardaHesk2 = {
     },
     {
       fact: "Marda means to name Nala in the Thornmere letter as a holy mage the Night Order has marked.",
-      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-marda-hesk"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/overwhere-iii-marda-hesk",
+        "character-player/overwhere-iii-nala",
+        "character-other/overwhere-iii-edda-crane",
+      ],
     },
   ],
 } as const satisfies Lore
