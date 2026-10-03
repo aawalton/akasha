@@ -223,5 +223,9 @@ export const overwhereIHobbsMillWeir = {
       fact: "The Weir Wyrm is Level 18, with 80 health.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Hurt but under half its health lost, the wyrm slides at whatever hurt it, if it sees it.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Place
