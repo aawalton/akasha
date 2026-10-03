@@ -14,6 +14,11 @@ export const gameMaster = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "A chapter of a story with editor steps goes to beat-editor unless its beats are mended.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A turn back from mechanics or the reviewers has its beats mended here.",
     },
     {

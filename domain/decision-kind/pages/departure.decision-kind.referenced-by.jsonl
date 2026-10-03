@@ -3789,9 +3789,11 @@
 {"propertySlug":"decision-kind","path":"story/chapter/properties/step-mechanics-sent-back.boolean-property.ts","id":"01a102f0-b0b7-7955-a531-3a7b1480b8a8"}
 {"propertySlug":"decision-kind","path":"story/chapter/properties/step-recorded-by.multi-relation-property.ts","id":"01a0e058-679f-70f6-baaf-b82f0c8a4690"}
 {"propertySlug":"decision-kind","path":"story/chapter/properties/step-reviewed-by.multi-relation-property.ts","id":"01a0deb0-cf67-7a1e-bb3d-6859e1f25fce"}
+{"propertySlug":"decision-kind","path":"story/chapter/step-status/pages/beat-editor.step-status.ts","id":"01a1036d-1063-7583-b562-88c7977dd3ca"}
 {"propertySlug":"decision-kind","path":"story/chapter/step-status/pages/game-master.step-status.ts","id":"01a0dead-3b10-7234-922d-8dfc80845bcc"}
 {"propertySlug":"decision-kind","path":"story/chapter/step-status/pages/mechanics.step-status.ts","id":"01a1024d-9f93-7d0a-bcf2-c0e594dac5a1"}
 {"propertySlug":"decision-kind","path":"story/chapter/step-status/pages/player.step-status.ts","id":"01a0dead-3b11-793d-b1ad-794e91dbdfaf"}
+{"propertySlug":"decision-kind","path":"story/chapter/step-status/pages/prose-editor.step-status.ts","id":"01a1036d-1064-704f-a363-6276a578d49e"}
 {"propertySlug":"decision-kind","path":"story/chapter/step-status/pages/recorders.step-status.ts","id":"01a0e057-cfa0-781d-ab55-d782157bb513"}
 {"propertySlug":"decision-kind","path":"story/chapter/step-status/pages/reviewers.step-status.ts","id":"01a0dead-3b11-722a-b69d-bd1417836650"}
 {"propertySlug":"decision-kind","path":"story/chapter/step-status/pages/world-builder.step-status.ts","id":"01a0dead-3b11-7d14-9f32-f1ada3adf863"}
