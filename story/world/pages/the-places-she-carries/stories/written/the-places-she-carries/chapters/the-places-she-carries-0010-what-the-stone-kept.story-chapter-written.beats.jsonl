@@ -1,0 +1,69 @@
+{"beat":1,"event":"On Day 13, five days left, Wren finds a faint handprint worn into the threshold stone.","at":"2026-08-13T06:30:00.000Z","place":"place/the-places-she-carries-varethen","present":["character-player/the-places-she-carries-wren"]}
+{"beat":2,"event":"The palm-hollow is narrower than hers, worn by decades of the same daily touch."}
+{"beat":3,"event":"A healer's hand: someone who said hello each morning to the places she loved."}
+{"beat":4,"event":"She sits back on her heels and feels the stone's [Dormant] warmth rise through her boots."}
+{"beat":5,"event":"The Prayer-Notch's [Tended] warmth and the healer's house's [Kept] weight are there too."}
+{"beat":6,"event":"For the first time she feels all three bonds at once, not one after another."}
+{"beat":7,"event":"She had come for a methodical survey toward Known depth before Day 18."}
+{"beat":8,"event":"Checking the compass, she finds she has sat at the handprint an hour at least.","at":"2026-08-13T07:30:00.000Z"}
+{"beat":9,"event":"She surveys the stone through the morning with a witness's attention.","at":"2026-08-13T08:30:00.000Z"}
+{"beat":10,"event":"Under a chipped corner the limestone shows twelve thin dark mineral bands."}
+{"beat":11,"event":"The stone predates Varethen by millennia; the settlement was built around it."}
+{"beat":12,"event":"A discovery logs the threshold stone's age, discovery 4: +38 XP.","changes":[{"page":"metric-character-experience/the-places-she-carries-wren","key":"value","from":982,"to":1020,"note":"Discovery: threshold stone formed about 4,000 years before settlement"}]}
+{"beat":13,"event":"At midday she eats with her back against the warm threshold stone.","at":"2026-08-13T12:00:00.000Z"}
+{"beat":14,"event":"She feels a sub-audible hum: the noon sun sets the stone's crystal lattice vibrating."}
+{"beat":15,"event":"The stone has sung at noon unheard for three hundred years; now she is its audience."}
+{"beat":16,"event":"A discovery logs the noon resonance, discovery 5: +42 XP.","changes":[{"page":"metric-character-experience/the-places-she-carries-wren","key":"value","from":1020,"to":1062,"note":"Discovery: threshold stone's noon thermal resonance"}]}
+{"beat":17,"event":"She eats a flatcake and feels the stone's patience as something more like fidelity."}
+{"beat":18,"event":"In the afternoon she does the arithmetic plainly.","at":"2026-08-13T13:30:00.000Z"}
+{"beat":19,"event":"The Shelf and the Eye reached Familiar in about ten and nine discoveries."}
+{"beat":20,"event":"The threshold stone is the cluster's anchor; Known depth there must take more."}
+{"beat":21,"event":"She lists what she does not know: why the stone is here, what [Dormant] sleeps toward."}
+{"beat":22,"event":"She has five discoveries and suspects she needs fifteen: ten more in five days."}
+{"beat":23,"event":"Later discoveries come slower; she might do everything right and not make it."}
+{"beat":24,"event":"She asks what she has not used yet, and answers herself: the gap."}
+{"beat":25,"event":"Hadley finds her at the settlement's edge, carrying Millhaven news.","at":"2026-08-13T14:00:00.000Z","arrive":["character-other/the-places-she-carries-hadley"]}
+{"beat":26,"event":"A runner says Aldric's niece Brecca, fifteen, from Thorngate, is asking after Wren."}
+{"beat":27,"event":"Brecca asks if Wren went south, if the track is passable, what a Wayfinder does."}
+{"beat":28,"event":"Theron's people would notice if she came south; Hadley will be at Millhaven in two days."}
+{"beat":29,"event":"Wren's message: keep her comfortable; the settlement exists; back by Day 20 at the latest."}
+{"beat":30,"event":"'Tell her the count says five.' Hadley writes it in his notebook."}
+{"beat":31,"event":"She looks at the dead grey tree standing at the apex of the gap in the ghost-elm ward."}
+{"beat":32,"event":"'I'm going in.' She will test whether discoveries made holding the bond count more."}
+{"beat":33,"event":"'If you're wrong, two hours for nothing.' The needle and the count will tell her."}
+{"beat":34,"event":"She crosses into the gap: the air thin, the forest's hum muted, the stone's warmth dim.","at":"2026-08-13T14:30:00.000Z","leave":["character-other/the-places-she-carries-hadley"]}
+{"beat":35,"event":"At the dead tree the compass needle drags: the gap reads as depleted, nothing to pull."}
+{"beat":36,"event":"She reaches for the threshold stone; the bond is dim, like touching it through cloth."}
+{"beat":37,"event":"She holds it by effort, the way a lamp needs oil; under compression the stone needs her."}
+{"beat":38,"event":"She stops trying to earn the bond and holds it simply because she is here."}
+{"beat":39,"event":"The [Dormant] trait stirs for three breaths; something ancient regards her, then settles."}
+{"beat":40,"event":"She understands [Dormant] is storage: the stone keeps its oldest self in reserve."}
+{"beat":41,"event":"She has seen the sleeper move, and knows it is worth waking."}
+{"beat":42,"event":"Working narrowly, she reads the dead tree's spiral bark-stripping as parasitic fungal decay."}
+{"beat":43,"event":"The fungus and the corruption came through the same weakness at the same time."}
+{"beat":44,"event":"A discovery inside the gap takes a compression multiplier, discovery 6: +55 XP.","changes":[{"page":"metric-character-experience/the-places-she-carries-wren","key":"value","from":1062,"to":1117,"note":"Discovery in the gap: dead tree's fungal decay, compression multiplier"}]}
+{"beat":45,"event":"She sits by the dead tree: holding the bond while surveying is rewarded."}
+{"beat":46,"event":"The soil differs between the gap's center and its boundary: discovery seven."}
+{"beat":47,"event":"The ghost-elms lean to deflect the resonance around the gap: discovery eight."}
+{"beat":48,"event":"The compass cannot tell corruption from depletion, itself information: discovery nine."}
+{"beat":49,"event":"After three hours she comes back through the ward, tired from listening hard so long.","at":"2026-08-13T17:30:00.000Z"}
+{"beat":50,"event":"She sits against the threshold stone, eating, as the bonds recalibrate."}
+{"beat":51,"event":"The threshold stone's warmth returns first, then the prayer-notch, then the healer's house."}
+{"beat":52,"event":"All three sound at once: a chord, the settlement itself rather than three structures."}
+{"beat":53,"event":"She writes 'like hearing a chord instead of three notes', crosses it out, and keeps it."}
+{"beat":54,"event":"She walks the terraces for an hour in the gold late light.","at":"2026-08-13T18:00:00.000Z"}
+{"beat":55,"event":"Crouched at the second terrace step just before dusk, she feels the bond change quality.","at":"2026-08-13T19:00:00.000Z"}
+{"beat":56,"event":"The threshold stone bond deepens to Familiar at nine discoveries: +80 XP.","changes":[{"page":"metric-character-experience/the-places-she-carries-wren","key":"value","from":1117,"to":1197,"note":"Bond deepened: threshold stone, Glimpsed to Familiar"}]}
+{"beat":57,"event":"[Dormant] grants nothing until Known; the triad relay transmits at higher fidelity."}
+{"beat":58,"event":"She can feel the well's direction and the prayer-notch eight meters northeast."}
+{"beat":59,"event":"Familiar will ask more attention to keep; she reaches for the terrace wall's shimmer."}
+{"beat":60,"event":"On Day 14 she surveys in the morning and goes into the gap in the afternoon.","at":"2026-08-14T08:00:00.000Z"}
+{"beat":61,"event":"She reaches discoveries twelve and thirteen, and stops predicting."}
+{"beat":62,"event":"A basin thrush turns back at the dead tree's root-line, marking the suppression radius.","at":"2026-08-14T15:00:00.000Z"}
+{"beat":63,"event":"On Day 15, three days left, she sits at the threshold stone before dawn, just to be there.","at":"2026-08-15T05:30:00.000Z"}
+{"beat":64,"event":"A thirty-second dawn hum runs through the stone as first light warms its surface.","at":"2026-08-15T06:00:00.000Z"}
+{"beat":65,"event":"She does not file it as a discovery; she simply knows the stone at dawn now."}
+{"beat":66,"event":"The margin says three; Known depth at an anchor still looks out of reach."}
+{"beat":67,"event":"The chance of not making it no longer feels like failure; it feels like information."}
+{"beat":68,"event":"She thinks of Brecca at Aldric's inn, asking about the southern tracks."}
+{"beat":69,"event":"Wren picks up her pack: she has three days, and she will use all of them."}
