@@ -68,5 +68,9 @@ export const overwhereIWendlow22 = {
       fact: "Grete says the Board is bare till the rider brings fresh slips, and dips her pen in the ink.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
+    {
+      fact: "Nell Cooley at the Bell and Barrel mends torn clothes with needle and thread, 2 copper a tear.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
