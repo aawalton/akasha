@@ -56,5 +56,9 @@ export const overwhereIHobbsMillWeir2 = {
       fact: "Nala cut the wyrm's two fangs out whole: hooked, yellow-white, each a hand long.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
+    {
+      fact: "Nala left the Weir Wyrm's head on the weir apron with its carcass.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+    },
   ],
 } as const satisfies Lore
