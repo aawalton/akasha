@@ -4,10 +4,13 @@ export const overwhereIi00096 = {
   id: "01a0ff3c-360a-70a6-8746-af27032f5800",
   type: "page-type/story-turn-played",
   slug: "overwhere-ii-00-096",
+  ownLength: 210,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-ii"],
   position: 96,
-  stepStatus: "step-status/writer",
+  prose: "txt",
+  characters: ["character-player/overwhere-ii-nala"],
+  stepStatus: "step-status/reviewers",
   action: "Same strategy",
   beats: [
     "Corra takes a wooden sword from the rack and comes in low and close.",
@@ -29,6 +32,11 @@ export const overwhereIi00096 = {
     'Hawise: "Your head\'s spent, and she knew your trick before you used it."',
     'Hawise: "Again, or done for today?"',
   ],
-  lore: ["lore/overwhere-ii-varrow-talented"],
+  lore: [
+    "lore/overwhere-ii-nala",
+    "lore/overwhere-ii-nala-2",
+    "lore/overwhere-ii-nala-3",
+    "lore/overwhere-ii-varrow-talented",
+  ],
   endsAt: "2026-10-22T07:15:00.000Z",
 } as const satisfies StoryTurnPlayed
