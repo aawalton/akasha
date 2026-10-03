@@ -328,5 +328,9 @@ export const overwhereIWendlow2 = {
       fact: "Bell and Barrel breakfast is porridge with honey and small beer, worth 2 copper.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
+    {
+      fact: "Grete counts an 80-pound wyrm head too big to carry; she pays the Weir Wyrm's bounty on its fangs.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
