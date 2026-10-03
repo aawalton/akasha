@@ -180,5 +180,25 @@ export const hollowmereNala2 = {
         "character-other/hollowmere-kit",
       ],
     },
+    {
+      fact: "Nala sat as Thursday's life drawing model, nude for the forty-minute long pose.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-lin",
+      ],
+    },
+    {
+      fact: "Nala's phone holds Kit's number now too: three names.",
+      knowers: ["lore-disclosure/game-master", "character-player/hollowmere-nala"],
+    },
+    {
+      fact: "Lin has seen Nala nude: freckled pale skin, small soft breasts, dark red hair over her pussy.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-lin",
+      ],
+    },
   ],
 } as const satisfies Lore

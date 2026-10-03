@@ -229,6 +229,24 @@ export const hollowmereYusra = {
         "character-other/hollowmere-yusra",
       ],
     },
+    {
+      fact: "Yusra saved Nala the last cocoa; told she'd sat for life drawing, Yusra said: Have you.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-yusra",
+        "character-other/hollowmere-bea",
+      ],
+    },
+    {
+      fact: "Leaving for the infirmary, Yusra told Nala she'd pass tomorrow, then turned back: Breathe out.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-yusra",
+        "character-other/hollowmere-bea",
+      ],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore

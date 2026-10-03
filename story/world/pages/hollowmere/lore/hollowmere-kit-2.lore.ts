@@ -158,5 +158,41 @@ export const hollowmereKit2 = {
         "character-player/hollowmere-nala",
       ],
     },
+    {
+      fact: "Kit wrote her number under Nala's note in History, and under it: Don't ring. Text. I hate ringing.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-kit",
+      ],
+    },
+    {
+      fact: "Before Nala, Bea and Lin, Kit's glim came first try and held to twelve; her third held to fifteen.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-kit",
+        "character-other/hollowmere-bea",
+        "character-other/hollowmere-lin",
+      ],
+    },
+    {
+      fact: "Lin called Kit's glim beautiful; Kit went scarlet and said to the floor: Tomorrow. Everyone.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-kit",
+        "character-other/hollowmere-bea",
+        "character-other/hollowmere-lin",
+      ],
+    },
+    {
+      fact: "Nala first texted Kit: Tomorrow. Breathe out. N. After a long minute Kit replied: You too. K.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-kit",
+      ],
+    },
   ],
 } as const satisfies Lore

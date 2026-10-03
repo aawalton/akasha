@@ -309,6 +309,14 @@ export const hollowmereShiv = {
         "character-other/hollowmere-shiv",
       ],
     },
+    {
+      fact: "Told Bea is Nala's emergency contact, Shiv said: Good choice. She'd come running. She'd bring soup.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-shiv",
+      ],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore

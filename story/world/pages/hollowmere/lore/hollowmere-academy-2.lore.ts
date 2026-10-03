@@ -138,5 +138,14 @@ export const hollowmereAcademy2 = {
         "character-player/hollowmere-nala",
       ],
     },
+    {
+      fact: "Week three's Friday test is at two: glim first, then a stone, one at a time before the hall.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-bea",
+        "character-other/hollowmere-yusra",
+      ],
+    },
   ],
 } as const satisfies Lore

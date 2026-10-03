@@ -418,6 +418,14 @@ export const hollowmereBea = {
         "character-player/hollowmere-nala",
       ],
     },
+    {
+      fact: "Bea's stone warmed properly at last; she sat down on the floor: I've done the right spell.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-bea",
+      ],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
