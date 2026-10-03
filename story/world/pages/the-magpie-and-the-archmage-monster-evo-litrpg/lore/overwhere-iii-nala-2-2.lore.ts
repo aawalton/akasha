@@ -168,5 +168,9 @@ export const overwhereIiiNala22 = {
         "character-other/overwhere-iii-tam-rowe",
       ],
     },
+    {
+      fact: "On day 12 Nala drew the boar clean with three braids; warded, its charge felled her unpierced.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+    },
   ],
 } as const satisfies Lore
