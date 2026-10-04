@@ -4161,6 +4161,7 @@
 {"propertySlug":"decision-kind","path":"story/world/stories/read/wandering-inn/modules/chapter/chapter.module.ts","id":"01a06578-5721-7001-b6e6-cb205ab28c07"}
 {"propertySlug":"decision-kind","path":"story/world/stories/read/wandering-inn/modules/site/site.module.ts","id":"01a06578-5721-7002-bdf0-39ef7ab35f68"}
 {"propertySlug":"decision-kind","path":"story/world/stories/read/wandering-inn/modules/syncing/syncing.module.ts","id":"01a0686a-7a57-76d6-a2df-a5aa6fbe7d58"}
+{"propertySlug":"decision-kind","path":"story/world/stories/written/chapters/modules/chapter-beat-reading/chapter-beat-reading.module.ts","id":"01a10640-4ef7-778c-8653-5208f9c57e3f"}
 {"propertySlug":"decision-kind","path":"story/world/stories/written/chapters/modules/chapter-making/chapter-making.module.ts","id":"01a0e96e-2932-7927-bb2d-8c23a95bf20f"}
 {"propertySlug":"decision-kind","path":"story/world/stories/written/chapters/modules/chapter-panels/chapter-panels.module.ts","id":"01a0e9a4-dccf-7135-965e-fa2e6d11f276"}
 {"propertySlug":"decision-kind","path":"story/world/stories/written/chapters/modules/chapter-read-backlog/chapter-read-backlog.module.ts","id":"01a101a0-8e82-7cc9-bf4e-7c98a929e008"}

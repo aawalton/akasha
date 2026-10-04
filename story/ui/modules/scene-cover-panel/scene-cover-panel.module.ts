@@ -55,6 +55,15 @@ export const sceneCoverPanel = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "Handed the beat being read, the panel shows the last picture of that beat or one before it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A picture paged to there is kept only until the reader reaches another beat.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "No panel is drawn where no turn is drawn or no turn handed has a cover.",
     },
     {

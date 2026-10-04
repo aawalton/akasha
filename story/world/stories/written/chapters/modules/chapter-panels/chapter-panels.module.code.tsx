@@ -3,7 +3,7 @@
 import { asNumber } from "akasha/code/type/narrowing/modules/as-number/as-number.module.code.ts"
 import { stringIn } from "akasha/code/type/narrowing/modules/string-in/string-in.module.code.ts"
 import { stringsIn } from "akasha/code/type/narrowing/modules/strings-in/strings-in.module.code.ts"
-import { asPage, type Page } from "akasha/page/core/modules/page-types/page-types.module.code.ts"
+import type { Page } from "akasha/page/core/modules/page-types/page-types.module.code.ts"
 import { addressIn, namedAs } from "akasha/page/modules/address/page-address.module.code.ts"
 import { toPageDataJSON } from "akasha/page/ui/component/modules/page-data-json/page-data-json.module.code.ts"
 import { useFileBody } from "akasha/page/ui/component/modules/page-reader-content/page-reader-content.module.code.tsx"
@@ -14,11 +14,7 @@ import {
 } from "akasha/page/ui/supabase/modules/use-pages/use-pages.module.code.ts"
 import { namedShapeDescriptor } from "akasha/page/ui-store/collection/modules/shape-descriptor/shape-descriptor.module.code.ts"
 import type { PageTypeSlug } from "akasha/page/url/modules/page-type-slug/page-type-slug.module.code.ts"
-import {
-  type Beats,
-  beatsIn,
-  NO_BEATS,
-} from "akasha/story/engine/beat-state/modules/beat-records/beat-records.module.code.ts"
+import { NO_BEATS } from "akasha/story/engine/beat-state/modules/beat-records/beat-records.module.code.ts"
 import {
   aheadOf,
   appearedOn,
@@ -45,10 +41,7 @@ import { useFirstRead } from "akasha/story/world/stories/played/modules/action-b
 import { NO_OVERLAY } from "akasha/story/world/stories/played/modules/beat-overlay/beat-overlay.module.code.ts"
 import { PlayedLayout } from "akasha/story/world/stories/played/modules/played-layout/played-layout.module.code.tsx"
 import { PlayedPanels } from "akasha/story/world/stories/played/modules/played-panels/played-panels.module.code.tsx"
-import {
-  playedClockOf,
-  playedEnvelope,
-} from "akasha/story/world/stories/played/modules/played-rows/played-rows.module.code.ts"
+import { playedEnvelope } from "akasha/story/world/stories/played/modules/played-rows/played-rows.module.code.ts"
 import {
   stateOf,
   usePlayedState,
@@ -57,6 +50,11 @@ import {
   PLAYER,
   stepIn,
 } from "akasha/story/world/stories/played/turns/modules/turn-lifecycle/turn-lifecycle.module.code.ts"
+import {
+  beatClockOf,
+  beatsOf,
+  chapterClockOf,
+} from "akasha/story/world/stories/written/chapters/modules/chapter-beat-reading/chapter-beat-reading.module.code.ts"
 import { type ReactNode, useEffect, useMemo } from "react"
 
 const ASIDE = namedAs(panelPlace.slug, aside.slug, null)
@@ -94,25 +92,6 @@ function chapterDisclosed(stepStatus: unknown): boolean {
 const FILE_AT = "/api/page-file"
 
 const BEATS = "beats"
-
-export function chapterClockOf(beatsText: string | null): string | null {
-  if (beatsText === null) return null
-  const read = beatsIn(beatsText)
-  if ("refused" in read) return null
-  const at = read.scenes.findLast((one) => one.at !== undefined)?.at
-  return at === undefined ? null : playedClockOf([asPage({ id: "", icon: null, endsAt: at })])
-}
-
-export function beatsOf(beatsText: string | null): Beats | null {
-  if (beatsText === null) return null
-  const read = beatsIn(beatsText)
-  return "refused" in read ? null : read
-}
-
-export function beatClockOf(beats: Beats, beat: number): string | null {
-  const at = beats.scenes.findLast((one) => one.beat <= beat && one.at !== undefined)?.at
-  return at === undefined ? null : playedClockOf([asPage({ id: "", icon: null, endsAt: at })])
-}
 
 function beatsHrefOf(pageTypeSlug: string, chapter: ChapterShown): string | null {
   if (!chapter.disclosed || chapter.slug === "") return null

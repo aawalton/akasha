@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import { chapterClockOf } from "akasha/story/world/stories/written/chapters/modules/chapter-panels/chapter-panels.module.code.tsx"
+import { chapterClockOf } from "akasha/story/world/stories/written/chapters/modules/chapter-beat-reading/chapter-beat-reading.module.code.ts"
 
 const BEATS = [
   '{"beat":1,"event":"Morning.","at":"2026-06-01T04:00:00.000Z","place":"place/home"}',

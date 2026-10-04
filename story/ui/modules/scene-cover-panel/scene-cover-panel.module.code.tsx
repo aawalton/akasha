@@ -53,6 +53,7 @@ type TurnCover = {
   readonly cover: string
   readonly source: string
   readonly whole: string
+  readonly beat?: number
 }
 
 export function turnCoversOf(turnCovers: readonly PlayedTurnCover[]): readonly TurnCover[] {
@@ -61,10 +62,19 @@ export function turnCoversOf(turnCovers: readonly PlayedTurnCover[]): readonly T
     const source = coverSource(one.cover, COVER_WIDTH_ASKED)
     const whole = coverSource(one.cover)
     if (source !== null && whole !== null) {
-      held.push({ id: one.id, number: one.number, cover: one.cover, source, whole })
+      const drawn = { id: one.id, number: one.number, cover: one.cover, source, whole }
+      held.push(one.beat === undefined ? drawn : { ...drawn, beat: one.beat })
     }
   }
   return held
+}
+
+export function beatShownAt(covers: readonly { readonly beat?: number }[], beat: number): number {
+  let at = 0
+  for (const [index, one] of covers.entries()) {
+    if (one.beat !== undefined && one.beat <= beat) at = index
+  }
+  return at
 }
 
 export type RerollAsker = {
@@ -223,6 +233,8 @@ const TURN: Noun = { one: "turn", title: "Turn", last: "Latest" }
 
 const SCENE: Noun = { one: "scene", title: "Scene", last: "Last" }
 
+const BEAT: Noun = { one: "beat", title: "Beat", last: "Last" }
+
 function beforeOf(noun: Noun): readonly StepButton[] {
   return [
     { step: "first", label: `First ${noun.one}`, icon: <ChevronsLeft aria-hidden /> },
@@ -241,12 +253,21 @@ type ScenePanelProps = {
   readonly turns: readonly ClientStoryTurn[]
   readonly turnCovers: readonly PlayedTurnCover[]
   readonly areScenes?: boolean | undefined
+  readonly beat?: number | undefined
   readonly gameExternalId?: string | undefined
 }
 
-export function SceneCoverPanel({ turns, turnCovers, areScenes, gameExternalId }: ScenePanelProps) {
-  const noun = areScenes === true ? SCENE : TURN
-  const turnId = latestTurnId(turns)
+export function SceneCoverPanel({
+  turns,
+  turnCovers,
+  areScenes,
+  beat,
+  gameExternalId,
+}: ScenePanelProps) {
+  const following = beat !== undefined && turnCovers.some((one) => one.beat !== undefined)
+  const noun = following ? BEAT : areScenes === true ? SCENE : TURN
+  const latest = latestTurnId(turns)
+  const turnId = latest === null || !following ? latest : `${latest}@${String(beat)}`
   const [paged, setPaged] = useState<Paged | null>(null)
   const [viewing, setViewing] = useState(false)
   const rerolling = useReroll(playedAsker(gameExternalId))
@@ -264,7 +285,11 @@ export function SceneCoverPanel({ turns, turnCovers, areScenes, gameExternalId }
   }, [viewing])
   const covers = turnCoversOf(turnCovers)
   if (turnId === null || covers.length === 0) return null
-  const at = pagedAt(covers, pickedFor(paged, turnId), areScenes === true ? "first" : "last")
+  const picked = pickedFor(paged, turnId)
+  const at =
+    following && beat !== undefined && picked === null
+      ? beatShownAt(covers, beat)
+      : pagedAt(covers, picked, areScenes === true ? "first" : "last")
   const shown = covers[at]
   if (shown === undefined) return null
   const rerollable = gameExternalId !== undefined

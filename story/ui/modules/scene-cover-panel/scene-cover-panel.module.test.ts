@@ -1,6 +1,7 @@
 import { expect, test } from "bun:test"
 import { COVER_WIDTH_ASKED } from "akasha/story/ui/modules/character-cover-panel/character-cover-panel.module.code.tsx"
 import {
+  beatShownAt,
   keyStep,
   pagedAt,
   pickedFor,
@@ -128,6 +129,20 @@ test("first and last jump to the ends, and a step stops at each end", () => {
   expect(steppedTo(three, 0, "earlier")).toBeUndefined()
   expect(steppedTo(three, 2, "last")).toBeUndefined()
   expect(steppedTo(three, 2, "later")).toBeUndefined()
+})
+
+test("a picture handed with its beat keeps that beat", () => {
+  expect(turnCoversOf([{ id: "a", number: 4, cover: "image/image-a", beat: 4 }])[0]?.beat).toBe(4)
+})
+
+test("the picture shown is the beat's own, or the nearest one before it", () => {
+  const pictured = [{ beat: 1 }, { beat: 3 }, { beat: 3 }, { beat: 7 }]
+  expect(beatShownAt(pictured, 1)).toBe(0)
+  expect(beatShownAt(pictured, 2)).toBe(0)
+  expect(beatShownAt(pictured, 3)).toBe(2)
+  expect(beatShownAt(pictured, 6)).toBe(2)
+  expect(beatShownAt(pictured, 90)).toBe(3)
+  expect(beatShownAt([{ beat: 5 }], 2)).toBe(0)
 })
 
 test("a turn paged to holds only until a later turn is drawn", () => {

@@ -11,6 +11,7 @@ export type PlayedTurnCover = {
   readonly cover: string
   readonly of?: string | undefined
   readonly after?: string | undefined
+  readonly beat?: number | undefined
 }
 
 export type PanelAppointment = {
@@ -26,6 +27,8 @@ export type PanelRun = {
   readonly turnsPageTypeSlug?: string | undefined
   readonly turnCovers: readonly PlayedTurnCover[]
   readonly coversAreScenes?: boolean | undefined
+  readonly coversFollowBeats?: boolean | undefined
+  readonly beat?: number | undefined
   readonly player: string
   readonly appeared?: readonly string[] | undefined
   readonly overlay?: BeatOverlay | undefined
