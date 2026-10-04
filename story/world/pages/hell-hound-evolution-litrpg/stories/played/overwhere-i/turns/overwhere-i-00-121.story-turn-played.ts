@@ -4,6 +4,7 @@ export const overwhereI00121 = {
   id: "01a10715-0eb4-7d64-b4dd-927905cd98bb",
   type: "page-type/story-turn-played",
   slug: "overwhere-i-00-121",
+  cover: "image/image-bde45b2914bd6876",
   ownLength: 334,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-i"],
@@ -14,7 +15,7 @@ export const overwhereI00121 = {
     "character-other/overwhere-i-harl-voss",
     "character-other/overwhere-i-voss-drakewolf",
   ],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/reviewers",
   action:
     "“Sure, that sounds fine. What’s on the East road that needs killing again? So I’m not going in blind.”",
   beats: "jsonl",
@@ -32,6 +33,8 @@ export const overwhereI00121 = {
     "story-recorder/plan",
     "story-recorder/mechanics",
     "story-recorder/memory",
+    "story-recorder/picture",
   ],
   endsAt: "2026-10-07T12:48:00.000Z",
+  coverAfter: "You take it. One folded sheet, light in your hand, the red wax",
 } as const satisfies StoryTurnPlayed
