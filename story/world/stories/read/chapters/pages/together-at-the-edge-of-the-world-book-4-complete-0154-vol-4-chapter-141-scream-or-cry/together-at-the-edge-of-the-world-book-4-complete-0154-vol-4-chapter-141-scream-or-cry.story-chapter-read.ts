@@ -4,6 +4,7 @@ export const togetherAtTheEdgeOfTheWorldBook4Complete0154Vol4Chapter141ScreamOrC
   id: "01a0f12a-e88e-7abf-8e1c-26d019fbdbef",
   type: "page-type/story-chapter-read",
   slug: "together-at-the-edge-of-the-world-book-4-complete-0154-vol-4-chapter-141-scream-or-cry",
+  ownProgress: 2650,
   position: 154,
   publishedAt: "2026-02-18",
   unit: "unit/words",

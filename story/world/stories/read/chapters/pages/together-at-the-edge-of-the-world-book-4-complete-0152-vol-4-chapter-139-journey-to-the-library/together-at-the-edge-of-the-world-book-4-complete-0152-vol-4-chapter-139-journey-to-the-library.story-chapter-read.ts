@@ -4,6 +4,7 @@ export const togetherAtTheEdgeOfTheWorldBook4Complete0152Vol4Chapter139JourneyTo
   id: "01a0f12a-e88e-799e-bf38-1b66ba448bea",
   type: "page-type/story-chapter-read",
   slug: "together-at-the-edge-of-the-world-book-4-complete-0152-vol-4-chapter-139-journey-to-the-library",
+  ownProgress: 2451,
   position: 152,
   publishedAt: "2026-02-13",
   unit: "unit/words",

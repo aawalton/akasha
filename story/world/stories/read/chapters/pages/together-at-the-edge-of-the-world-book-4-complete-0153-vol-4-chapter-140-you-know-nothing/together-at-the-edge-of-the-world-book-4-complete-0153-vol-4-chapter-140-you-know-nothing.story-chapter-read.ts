@@ -4,6 +4,7 @@ export const togetherAtTheEdgeOfTheWorldBook4Complete0153Vol4Chapter140YouKnowNo
   id: "01a0f12a-e88e-78d6-b876-8f464c9327b6",
   type: "page-type/story-chapter-read",
   slug: "together-at-the-edge-of-the-world-book-4-complete-0153-vol-4-chapter-140-you-know-nothing",
+  ownProgress: 2125,
   position: 153,
   publishedAt: "2026-02-16",
   unit: "unit/words",
