@@ -11,7 +11,7 @@ export const overwhereI00117 = {
   position: 117,
   prose: "txt",
   characters: ["character-player/overwhere-i-nala", "character-other/overwhere-i-harl-voss"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/game-master",
   action:
     "I spend the time I have before I need to leave using the weave i found to finish mending my cloak and clothes, then go to see the magistrate.",
   beats: "jsonl",
