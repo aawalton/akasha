@@ -35,7 +35,7 @@ export const fairweather0005HoneyCake = {
     "character-other/fairweather-tamsin",
     "character-other/fairweather-tilly",
   ],
-  reviewedBy: ["story-reviewer/holdings", "story-reviewer/scene"],
+  reviewedBy: ["story-reviewer/holdings", "story-reviewer/scene", "story-reviewer/continuity"],
   recordedBy: [
     "story-recorder/inventory",
     "story-recorder/plan",
