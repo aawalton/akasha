@@ -219,5 +219,9 @@ export const overwhereIOdileVarne = {
       fact: "The oath: keep the margrave's peace, answer the bench's call against outlaws and beasts, speak true.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Speaking true binds a sworn hunter to answer the bench truly about what she has seen on its roads.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
