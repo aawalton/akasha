@@ -11,20 +11,13 @@ export const overwhereI00118 = {
   position: 118,
   prose: "txt",
   characters: ["character-player/overwhere-i-nala"],
-  stepStatus: "step-status/game-master",
+  stepStatus: "step-status/mechanics",
   action:
     "“Only you and Grete as far as I’m aware. I figured with the seal it must be something someone cared about, but it’s not something I can hunt, so I never bothered to look inside.”",
   beats: "jsonl",
   issues: "txt",
   lore: ["lore/overwhere-i-nala", "lore/overwhere-i-nala-2", "lore/overwhere-i-odile-varne"],
   reviewedBy: ["story-reviewer/holdings", "story-reviewer/continuity", "story-reviewer/scene"],
-  recordedBy: [
-    "story-recorder/inventory",
-    "story-recorder/plan",
-    "story-recorder/mechanics",
-    "story-recorder/memory",
-    "story-recorder/picture",
-  ],
   endsAt: "2026-10-07T12:20:00.000Z",
   coverAfter: "She draws a clean sheet toward her and wets her pen. Below the",
 } as const satisfies StoryTurnPlayed
