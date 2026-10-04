@@ -8,5 +8,5 @@ export const overwhereISwornHunterPapers = {
   story: "story-played/overwhere-i",
   place: "place/overwhere-i-wendlow",
   description:
-    "One folded sheet under Magistrate Odile Varne's red seal, naming Nala Arthur a sworn hunter of Wendlow, under the margrave.",
+    "A sheet in Magistrate Odile Varne's small, quick hand, naming Nala Arthur a sworn hunter of Wendlow, under the margrave.",
 } as const satisfies StoryItem
