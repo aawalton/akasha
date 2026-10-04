@@ -175,6 +175,10 @@ export const overwhereIOdileVarne = {
       fact: "The oath is spoken before the bench, one hand on the town book, with the clerk as witness.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Nala's papers are one folded sheet under Varne's red seal: Nala Arthur, sworn hunter of Wendlow.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
