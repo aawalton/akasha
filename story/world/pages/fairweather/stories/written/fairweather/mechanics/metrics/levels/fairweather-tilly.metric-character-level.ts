@@ -5,7 +5,8 @@ export const fairweatherTilly = {
   type: "page-type/metric-character-level",
   slug: "fairweather-tilly",
   character: "character-other/fairweather-tilly",
-  value: 2,
+  value: 3,
   minValue: 1,
+  history: "jsonl",
   unrevealed: true,
 } as const satisfies MetricCharacterLevel

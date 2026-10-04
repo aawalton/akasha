@@ -71,7 +71,11 @@ export const fairweatherElsie = {
     },
     {
       fact: "Elsie keeps a notebook of the birthdays and favourite things of people she loves.",
-      knowers: ["lore-disclosure/game-master", "character-player/fairweather-elsie"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-tamsin",
+      ],
     },
     {
       fact: "Elsie's houseplants travel with her in a crate, and every one has a name.",
@@ -139,6 +143,7 @@ export const fairweatherElsie = {
         "lore-disclosure/game-master",
         "character-player/fairweather-elsie",
         "character-other/fairweather-tamsin",
+        "character-other/fairweather-cora",
       ],
     },
     {
@@ -147,7 +152,12 @@ export const fairweatherElsie = {
     },
     {
       fact: "Elsie can feel when someone bound to her is hurting.",
-      knowers: ["lore-disclosure/game-master", "character-player/fairweather-elsie"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-tamsin",
+        "character-other/fairweather-cora",
+      ],
     },
     {
       fact: "Elsie has never once used her class to make anyone feel anything.",
@@ -227,6 +237,15 @@ export const fairweatherElsie = {
         "character-player/fairweather-elsie",
         "character-other/fairweather-tamsin",
         "character-other/fairweather-tilly",
+      ],
+    },
+    {
+      fact: "The guildmaster ruled Elsie's Tether on Tamsin lawful under the Accord.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-tamsin",
+        "character-other/fairweather-cora",
       ],
     },
   ],

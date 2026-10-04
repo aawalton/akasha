@@ -7,5 +7,5 @@ export const fairweatherElsieTamsin = {
   title: "Elsie and Tamsin",
   world: "world/fairweather",
   characters: ["character-player/fairweather-elsie", "character-other/fairweather-tamsin"],
-  relationshipPoints: 24,
+  relationshipPoints: 29,
 } as const satisfies WorldRelationship

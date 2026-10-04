@@ -147,6 +147,25 @@ export const fairweatherTamsin = {
         "character-other/fairweather-tilly",
       ],
     },
+    {
+      fact: "The night after the Tether, Tamsin slept the night through for the first time in a year.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/fairweather-tamsin",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-tilly",
+        "character-other/fairweather-cora",
+      ],
+    },
+    {
+      fact: "Tamsin's mother's barge ties up at the Long Cut coal wharf, by the lock, for two days.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/fairweather-tamsin",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-tilly",
+      ],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore

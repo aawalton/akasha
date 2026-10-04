@@ -31,11 +31,15 @@ export const fairweatherHoneycomb = {
     },
     {
       fact: "Agnes Merriweather's honey cake is known all along Thimble Canal, and she has never written it down.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/fairweather-elsie"],
     },
     {
       fact: "Her honey cake takes a whole comb of honey, and must rest a night under a cloth before it is cut.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/fairweather-elsie"],
+    },
+    {
+      fact: "The Honeycomb's baker taught Elsie her honey cake, the first she has taught it in forty years.",
+      knowers: ["lore-disclosure/game-master", "character-player/fairweather-elsie"],
     },
   ],
 } as const satisfies Place

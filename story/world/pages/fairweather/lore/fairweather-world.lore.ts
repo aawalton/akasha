@@ -103,6 +103,7 @@ export const fairweatherWorld = {
         "lore-disclosure/game-master",
         "character-other/fairweather-cora",
         "character-player/fairweather-elsie",
+        "character-other/fairweather-tamsin",
       ],
     },
     {
