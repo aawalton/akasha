@@ -1,5 +1,2 @@
 continuity: beat 10 memory: Nala learns felting costs 10 mana a minute - the prose never shows the cost
 continuity: beat 23 memory: Nala learns Varne governs for the margrave - the prose never shows that
-holdings: beat 10: 160 mana counts no return over the 20 minutes held; 36 comes back each ten, so 232
-holdings: beat 28: 340 mana; an hour's return, 36 each ten minutes, fills her to her most, 360
-holdings: beat 1: the note is folded into her coat, and Nala holds no coat, only a cloak and tunic
