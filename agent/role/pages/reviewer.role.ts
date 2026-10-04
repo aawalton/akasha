@@ -5,7 +5,7 @@ export const reviewer = {
   type: "page-type/role",
   slug: "reviewer",
   definition: "an agent that checks one turn or written chapter and what was recorded of it",
-  onCall: false,
+  onCall: true,
   directives: [
     {
       directiveKind: "directive-kind/rule",

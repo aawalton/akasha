@@ -6,7 +6,7 @@ export const storyRecorder = {
   slug: "story-recorder",
   definition:
     "an agent that drafts into pages what one turn or chapter changed, as one story recorder",
-  onCall: false,
+  onCall: true,
   directives: [
     {
       directiveKind: "directive-kind/rule",
