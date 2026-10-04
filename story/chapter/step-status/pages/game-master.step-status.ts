@@ -27,7 +27,13 @@ export const gameMaster = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A mend moving no beat runs the mechanics seats again only where issues remain.",
+      statement:
+        "A mend moving no beat runs the mechanics seats again only where an issue not ruled out is left.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "The game master has the final say: an issue it rules out, with a reason, is ended.",
     },
   ],
 } as const satisfies StepStatus

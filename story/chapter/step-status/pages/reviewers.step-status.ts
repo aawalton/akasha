@@ -25,11 +25,16 @@ export const reviewers = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "Only the reviewers that raised an issue review the mended turn again.",
+      statement:
+        "Only the reviewers with an issue the game master did not rule out review the mended turn again.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The round trip ends once no reviewer has an issue left.",
+      statement: "The round trip ends once no reviewer has an issue left that is not ruled out.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A reviewer raising a ruled-out issue again word for word has that line dropped.",
     },
     {
       decisionKind: "decision-kind/departure",

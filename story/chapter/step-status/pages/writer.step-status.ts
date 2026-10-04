@@ -27,6 +27,10 @@ export const writer = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "An issue the game master ruled out asks nothing of the prose.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A turn with no story recorder goes on to reviewers, or to player once reviewed.",
     },
   ],

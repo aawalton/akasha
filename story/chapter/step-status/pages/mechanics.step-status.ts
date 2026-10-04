@@ -27,12 +27,21 @@ export const mechanics = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "An issue the game master ruled out sends nothing back.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A seat raising a ruled-out issue again word for word has that line dropped.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement:
         "A turn with none goes to writer, or past it where it has prose and no reviewer issue.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A mend moving no beat runs the mechanics seats again only where issues remain.",
+      statement:
+        "A mend moving no beat runs the mechanics seats again only where an issue not ruled out is left.",
     },
   ],
 } as const satisfies StepStatus
