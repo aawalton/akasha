@@ -7,9 +7,10 @@ export const overwhereI00119 = {
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-i"],
   position: 119,
-  stepStatus: "step-status/game-master",
+  stepStatus: "step-status/mechanics",
   action:
     "“I was born in the wilds, no home, no lord, no papers. Would Wendlow be fine to claim? I’m tired of the questions.”",
+  beats: "jsonl",
   lore: ["lore/overwhere-i-odile-varne"],
   endsAt: "2026-10-07T12:25:00.000Z",
 } as const satisfies StoryTurnPlayed
