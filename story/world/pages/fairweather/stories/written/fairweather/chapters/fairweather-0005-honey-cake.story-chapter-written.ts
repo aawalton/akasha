@@ -120,5 +120,6 @@ export const fairweather0005HoneyCake = {
     "image/image-c7ea889d13179877",
     "image/image-4d188e479b1eaf46",
     "image/image-12d91382efb2bb31",
+    "image/image-673e089c08d42546",
   ],
 } as const satisfies StoryChapterWritten
