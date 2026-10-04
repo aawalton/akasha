@@ -198,6 +198,10 @@ export const fairweatherWorld = {
         "character-other/fairweather-tilly",
       ],
     },
+    {
+      fact: "A bond given freely feeds an Enthraller's Devotion far more than a taken one.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
