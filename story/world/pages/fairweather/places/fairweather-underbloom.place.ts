@@ -123,5 +123,9 @@ export const fairweatherUnderbloom = {
       fact: "A goat that eats the glowing flowers glows faintly itself for a day after.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Glowcaps are pale blue mushrooms that glow in the damp corners of the first floor.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Place
