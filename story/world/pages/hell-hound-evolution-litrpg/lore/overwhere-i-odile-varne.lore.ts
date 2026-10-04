@@ -343,5 +343,9 @@ export const overwhereIOdileVarne = {
       fact: "Who is left of the crew, and where, Varne does not know; she wants Nala to find out first.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "The call has no deadline, but Varne wants word before the next tax rider, in ten days.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
