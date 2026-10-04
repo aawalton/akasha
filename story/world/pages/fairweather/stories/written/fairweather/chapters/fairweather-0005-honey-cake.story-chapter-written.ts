@@ -11,9 +11,8 @@ export const fairweather0005HoneyCake = {
   story: "story-written/fairweather",
   ownLength: 8916,
   prose: "txt",
-  stepStatus: "step-status/game-master",
+  stepStatus: "step-status/mechanics",
   beats: "jsonl",
-  mechanicsIssues: "txt",
   issues: "txt",
   lore: [
     "lore/fairweather-cora",
@@ -36,6 +35,5 @@ export const fairweather0005HoneyCake = {
     "character-other/fairweather-tilly",
   ],
   reviewedBy: ["story-reviewer/holdings"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/plan", "story-recorder/mechanics"],
   scenes: ["image/image-8313b3834e8c7d1a", "image/image-226e2a15d01d81d0"],
 } as const satisfies StoryChapterWritten
