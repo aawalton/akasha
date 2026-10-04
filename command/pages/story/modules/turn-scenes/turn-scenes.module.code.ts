@@ -60,7 +60,7 @@ const SLUG = "slug"
 
 const PARTED = "/"
 
-export type Turn = {
+type Turn = {
   readonly at: string
   readonly slug: string
   readonly value: Readonly<Record<string, unknown>>
@@ -115,7 +115,7 @@ export function beatsHeld(turn: Turn, textOf: (path: string) => string): Beats |
   return { refused: `the beats file beside \`${turn.at}\` does not read: ${read.refused}` }
 }
 
-export function playedOf(one: Paged): Played | Refused {
+function playedOf(one: Paged): Played | Refused {
   const held = one.beats ?? NO_BEATS
   if ("refused" in held) return held
   const ends = one.value[ENDS_AT]
