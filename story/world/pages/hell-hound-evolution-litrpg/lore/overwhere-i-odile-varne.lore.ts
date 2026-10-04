@@ -87,6 +87,10 @@ export const overwhereIOdileVarne = {
       fact: "She did not know Ivo dealt with Voss; tried for it, Ivo could bring her own share to light.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "She means to keep the letter in her own press and use it to bring Ivo to heel, not to try him.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
