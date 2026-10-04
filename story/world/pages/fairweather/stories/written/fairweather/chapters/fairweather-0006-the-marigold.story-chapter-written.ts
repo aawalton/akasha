@@ -9,9 +9,9 @@ export const fairweather0006TheMarigold = {
   unit: "unit/words",
   title: "The Marigold",
   story: "story-written/fairweather",
-  ownLength: 8822,
+  ownLength: 8863,
   prose: "txt",
-  stepStatus: "step-status/writer",
+  stepStatus: "step-status/recorders",
   beats: "jsonl",
   issues: "txt",
   lore: [
