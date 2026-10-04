@@ -8,7 +8,7 @@ export const fairweatherTamsin = {
     "The prose never states Tamsin's purse; she starts chapter 1 with 60 pips, a judgement for an E-rank adventurer living on F-rank and E-rank quest pay.",
   character: "character-other/fairweather-tamsin",
   currency: "world-currency/fairweather-coin",
-  value: 60,
+  value: 73,
   minValue: 0,
   displayOrder: 1,
   unrevealed: true,
