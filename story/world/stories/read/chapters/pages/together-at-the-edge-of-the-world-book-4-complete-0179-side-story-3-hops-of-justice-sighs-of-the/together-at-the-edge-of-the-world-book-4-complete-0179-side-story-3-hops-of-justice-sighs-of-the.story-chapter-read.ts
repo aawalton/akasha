@@ -4,6 +4,7 @@ export const togetherAtTheEdgeOfTheWorldBook4Complete0179SideStory3HopsOfJustice
   id: "01a0f12a-e88f-7318-acc1-654d93a92bcd",
   type: "page-type/story-chapter-read",
   slug: "together-at-the-edge-of-the-world-book-4-complete-0179-side-story-3-hops-of-justice-sighs-of-the",
+  ownProgress: 3436,
   position: 179,
   publishedAt: "2026-04-10",
   unit: "unit/words",
