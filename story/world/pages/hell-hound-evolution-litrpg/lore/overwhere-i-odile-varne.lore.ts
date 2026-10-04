@@ -183,6 +183,10 @@ export const overwhereIOdileVarne = {
       fact: "Varne takes no fee for the papers, and a sworn hunter of Wendlow passes its gate without toll.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Writing the papers and swearing the oath take about a quarter hour; swearing opens no System window.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
