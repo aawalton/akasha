@@ -38,5 +38,5 @@ export const fairweather0006TheMarigold = {
     "story-recorder/memory",
   ],
   rulings: "jsonl",
-  scenes: ["image/image-79f16bff90c64ca0"],
+  scenes: ["image/image-79f16bff90c64ca0", "image/image-fc874a93e46973a2"],
 } as const satisfies StoryChapterWritten
