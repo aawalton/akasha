@@ -32,6 +32,7 @@ export const fairweather0002SkillsUsedNone = {
     "character-other/fairweather-tilly",
   ],
   reviewedBy: ["story-reviewer/scene", "story-reviewer/continuity", "story-reviewer/holdings"],
+  recordedBy: ["story-recorder/inventory"],
   rulings: "jsonl",
   scenes: [
     "image/image-0abfb4e300caad61",
