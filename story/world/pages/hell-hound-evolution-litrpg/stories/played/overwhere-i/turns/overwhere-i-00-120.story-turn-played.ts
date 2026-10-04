@@ -15,6 +15,11 @@ export const overwhereI00120 = {
     "“I don’t mind killing things when paid, but what else is in this oath? I value my freedom.”",
   beats: "jsonl",
   lore: ["lore/overwhere-i-nala", "lore/overwhere-i-nala-2", "lore/overwhere-i-odile-varne"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/mechanics", "story-recorder/plan"],
+  recordedBy: [
+    "story-recorder/inventory",
+    "story-recorder/mechanics",
+    "story-recorder/plan",
+    "story-recorder/memory",
+  ],
   endsAt: "2026-10-07T12:30:00.000Z",
 } as const satisfies StoryTurnPlayed
