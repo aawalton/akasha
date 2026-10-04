@@ -11,7 +11,6 @@ export const role = {
   ],
   extends: ["page-type/domain"],
   parts: [
-    "role/beat-editor",
     "role/coach",
     "role/companion",
     "role/definer",
@@ -20,7 +19,6 @@ export const role = {
     "role/interviewer",
     "role/operator",
     "role/persona-craft",
-    "role/prose-editor",
     "role/recorder",
     "role/reviewer",
     "role/scenewright",

@@ -4,7 +4,6 @@
 {"propertySlug":"import","fileName":"role.page-type.ts","path":"page/core/schema/modules/page-type-inheritance/page-type-inheritance.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"role.page-type.ts","path":"page/service/modules/page-picking/page-picking.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"role.page-type.ts","path":"story/lore-disclosure/modules/lore-withholding/lore-withholding.module.test-fixtures.ts","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"role.page-type.types.ts","path":"agent/role/pages/beat-editor.role.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"role.page-type.types.ts","path":"agent/role/pages/coach.role.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"role.page-type.types.ts","path":"agent/role/pages/companion.role.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"role.page-type.types.ts","path":"agent/role/pages/definer.role.ts","typed":true,"deferred":false}
@@ -13,7 +12,6 @@
 {"propertySlug":"import","fileName":"role.page-type.types.ts","path":"agent/role/pages/interviewer.role.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"role.page-type.types.ts","path":"agent/role/pages/operator.role.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"role.page-type.types.ts","path":"agent/role/pages/persona-craft.role.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"role.page-type.types.ts","path":"agent/role/pages/prose-editor.role.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"role.page-type.types.ts","path":"agent/role/pages/recorder.role.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"role.page-type.types.ts","path":"agent/role/pages/reviewer.role.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"role.page-type.types.ts","path":"agent/role/pages/scenewright.role.ts","typed":true,"deferred":false}
