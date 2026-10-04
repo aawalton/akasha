@@ -62,6 +62,7 @@ export const writer = {
         "A page sent back to you is repaired, never written again.",
         "Change the words an issue lands on and leave the rest as they are.",
         "Where the game master mended a beat, change that beat's prose alone.",
+        "An issue the game master ruled out, in the `.rulings.jsonl` file, asks nothing of the prose.",
       ],
     },
     {

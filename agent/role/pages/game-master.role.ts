@@ -46,13 +46,15 @@ export const gameMaster = {
     {
       directiveKind: "directive-kind/rule",
       name: "Mend The Beats",
-      act: "Answer each issue the mechanics step or the reviewers send back by changing the beats.",
+      act: "Answer each issue mechanics or the reviewers send back: mend the beats, or rule the issue out.",
       warrant: "It goes on to the writer, so an issue left unanswered reaches the prose.",
       aids: [
         "Issues are files beside the turn: `.mechanics-issues.txt` and the reviewers' `.issues.txt`.",
         "Answer every issue before you advance: a run still finding one sends it back again.",
         "After each mend, check the beats after it for what it moved: times, places, who knows what.",
+        "You have the final say: rule out an issue that is wrong rather than bending the beats to it.",
         "Leave the beat as it is where the issue is wrong.",
+        'Give the reason in a line of `--rulings-file`: `{"issue":"<line word for word>","reason":"…"}`.',
         "A page back for repair is mended, never beaten again.",
         "Each beat before the first one you move keeps the numbers and memories settled on it.",
         "An issue only about the prose leaves the beats as they are and goes on to the writer.",
