@@ -11,7 +11,7 @@ export const fairweather0006TheMarigold = {
   story: "story-written/fairweather",
   ownLength: 8863,
   prose: "txt",
-  stepStatus: "step-status/game-master",
+  stepStatus: "step-status/writer",
   beats: "jsonl",
   issues: "txt",
   lore: [
