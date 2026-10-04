@@ -4,6 +4,7 @@ export const togetherAtTheEdgeOfTheWorldBook4Complete0182Vol4Chapter164PassingOf
   id: "01a0f12a-e88f-7a58-85f5-194629b53d3f",
   type: "page-type/story-chapter-read",
   slug: "together-at-the-edge-of-the-world-book-4-complete-0182-vol-4-chapter-164-passing-of-the-junk-pile",
+  ownProgress: 2157,
   position: 182,
   publishedAt: "2026-04-13",
   unit: "unit/words",

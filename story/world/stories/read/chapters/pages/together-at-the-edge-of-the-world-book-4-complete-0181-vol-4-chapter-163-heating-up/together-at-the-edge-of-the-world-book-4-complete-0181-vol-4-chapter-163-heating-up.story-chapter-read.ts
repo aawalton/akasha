@@ -4,6 +4,7 @@ export const togetherAtTheEdgeOfTheWorldBook4Complete0181Vol4Chapter163HeatingUp
   id: "01a0f12a-e88f-797a-85a6-7017c7eeab12",
   type: "page-type/story-chapter-read",
   slug: "together-at-the-edge-of-the-world-book-4-complete-0181-vol-4-chapter-163-heating-up",
+  ownProgress: 2766,
   position: 181,
   publishedAt: "2026-04-10",
   unit: "unit/words",

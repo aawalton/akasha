@@ -4,6 +4,7 @@ export const togetherAtTheEdgeOfTheWorldBook4Complete0183Vol4Chapter165JobOffer 
   id: "01a0f12a-e88f-74e3-81d6-01e1dea355a3",
   type: "page-type/story-chapter-read",
   slug: "together-at-the-edge-of-the-world-book-4-complete-0183-vol-4-chapter-165-job-offer",
+  ownProgress: 3251,
   position: 183,
   publishedAt: "2026-04-15",
   unit: "unit/words",

@@ -4,6 +4,7 @@ export const togetherAtTheEdgeOfTheWorldBook4Complete0180SideStorySuggestions2Ap
   id: "01a0f12a-e88f-705e-bc23-24a949e12b23",
   type: "page-type/story-chapter-read",
   slug: "together-at-the-edge-of-the-world-book-4-complete-0180-side-story-suggestions-2-april-2026-favourite",
+  ownProgress: 162,
   position: 180,
   publishedAt: "2026-04-10",
   unit: "unit/words",
