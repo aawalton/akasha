@@ -335,5 +335,9 @@ export const overwhereIOdileVarne = {
       fact: "Varne knows the Board proved Voss and eight dead, of a crew reckoned a dozen-odd; no more than that.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Her first call: rid the east road of what is left of Voss's crew, at the Board's two gold a man.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
