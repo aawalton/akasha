@@ -31,7 +31,12 @@ export const fairweather0003AGoatLantern = {
     "character-other/fairweather-tamsin",
     "character-other/fairweather-tilly",
   ],
-  recordedBy: ["story-recorder/plan", "story-recorder/mechanics", "story-recorder/inventory"],
+  recordedBy: [
+    "story-recorder/plan",
+    "story-recorder/mechanics",
+    "story-recorder/inventory",
+    "story-recorder/memory",
+  ],
   rulings: "jsonl",
   scenes: [
     "image/image-e38c55ed66b7f7d6",
