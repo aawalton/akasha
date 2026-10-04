@@ -33,10 +33,6 @@ export const fairweatherCora = {
       ],
     },
     {
-      fact: "Cora has small high breasts with pale pink nipples, and a neat dark triangle over her pussy.",
-      knowers: ["lore-disclosure/game-master", "character-other/fairweather-cora"],
-    },
-    {
       fact: "Cora wears a charcoal guild coat buttoned to the throat, slim dark trousers and black boots.",
       knowers: ["lore-disclosure/game-master", "character-other/fairweather-cora"],
     },
