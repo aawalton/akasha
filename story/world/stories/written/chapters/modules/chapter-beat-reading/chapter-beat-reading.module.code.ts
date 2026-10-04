@@ -31,6 +31,17 @@ export function beatsOf(beatsText: string | null): Beats | null {
   return "refused" in read ? null : read
 }
 
+const VERSION_RADIX = 36
+
+export function beatsVersionOf(cover: string, scenes: readonly string[]): string {
+  const told = [cover, ...scenes].join(" ")
+  let hash = 0
+  for (let at = 0; at < told.length; at += 1) {
+    hash = (Math.imul(hash, 31) + told.charCodeAt(at)) | 0
+  }
+  return (hash >>> 0).toString(VERSION_RADIX)
+}
+
 export function beatClockOf(beats: Beats, beat: number): string | null {
   const at = beats.scenes.findLast((one) => one.beat <= beat && one.at !== undefined)?.at
   return at === undefined ? null : playedClockOf([asPage({ id: "", icon: null, endsAt: at })])

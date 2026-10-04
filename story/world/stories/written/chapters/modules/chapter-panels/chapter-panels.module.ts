@@ -98,5 +98,10 @@ export const chapterPanels = {
       decisionKind: "decision-kind/departure",
       statement: "A chapter shows once its panels have settled, or after three seconds at most.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "An open chapter reads its beats again whenever its beats version changes, so a landed picture shows.",
+    },
   ],
 } as const satisfies Module

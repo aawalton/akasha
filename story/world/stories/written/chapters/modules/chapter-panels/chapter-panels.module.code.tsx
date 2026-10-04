@@ -54,6 +54,7 @@ import {
   beatClockOf,
   beatCoversOf,
   beatsOf,
+  beatsVersionOf,
   chapterClockOf,
 } from "akasha/story/world/stories/written/chapters/modules/chapter-beat-reading/chapter-beat-reading.module.code.ts"
 import { type ReactNode, useEffect, useMemo } from "react"
@@ -183,8 +184,9 @@ export function ChapterPanels({ pageTypeSlug, id, children }: ChapterPanelsProps
   const [settled, onSettled] = useFirstRead()
   const { page } = usePage({ pageTypeSlug, id })
   const data = toPageDataJSON(page?.properties)
-  const href = beatsHrefOf(pageTypeSlug, { ...chapterShownOf(id, data), disclosed: true })
-  const beatsText = useFileBody(href)
+  const shown = chapterShownOf(id, data)
+  const href = beatsHrefOf(pageTypeSlug, { ...shown, disclosed: true })
+  const beatsText = useFileBody(href, beatsVersionOf(shown.cover, shown.scenes))
   const beats = beatsOf(beatsText)
   const ready = href === null || beatsText !== null
   return (
@@ -401,7 +403,10 @@ function StoryAside({
   }, [filed, turn, characterName])
 
   const turns = useMemo(() => chapterTurnsOf(chapter), [chapter])
-  const beatsText = useFileBody(on ? null : beatsHrefOf(pageTypeSlug, chapter))
+  const beatsText = useFileBody(
+    on ? null : beatsHrefOf(pageTypeSlug, chapter),
+    beatsVersionOf(chapter.cover, chapter.scenes)
+  )
   const clock = on ? beatClockOf(reading.beats, reading.beat) : chapterClockOf(beatsText)
   const title = textIn(storyRow?.title)
   const envelope = useMemo(

@@ -1,5 +1,8 @@
 import { expect, test } from "bun:test"
-import { beatCoversOf } from "akasha/story/world/stories/written/chapters/modules/chapter-beat-reading/chapter-beat-reading.module.code.ts"
+import {
+  beatCoversOf,
+  beatsVersionOf,
+} from "akasha/story/world/stories/written/chapters/modules/chapter-beat-reading/chapter-beat-reading.module.code.ts"
 
 const BEATS = {
   beats: ["Morning.", "Noon.", "Night."],
@@ -23,4 +26,13 @@ test("beats with no pictures hand the panels none", () => {
   expect(beatCoversOf("ch", { ...BEATS, pictured: [] })).toEqual([])
   const bare = { beats: BEATS.beats, scenes: [], changes: [], memory: [] }
   expect(beatCoversOf("ch", bare)).toEqual([])
+})
+
+test("a chapter's beats version changes with any scene or its cover, and only then", () => {
+  const held = beatsVersionOf("image/image-a", ["image/image-b", "image/image-c"])
+  expect(beatsVersionOf("image/image-a", ["image/image-b", "image/image-c"])).toBe(held)
+  expect(beatsVersionOf("image/image-a", ["image/image-b", "image/image-d"])).not.toBe(held)
+  expect(beatsVersionOf("image/image-a", ["image/image-c", "image/image-b"])).not.toBe(held)
+  expect(beatsVersionOf("image/image-z", ["image/image-b", "image/image-c"])).not.toBe(held)
+  expect(beatsVersionOf("image/image-a", ["image/image-b"])).not.toBe(held)
 })

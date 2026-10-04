@@ -16,5 +16,9 @@ export const chapterBeatReading = {
       decisionKind: "decision-kind/departure",
       statement: "Beats that will not read hand the panels nothing rather than a refusal.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A chapter's beats version changes with its cover or any of its scenes.",
+    },
   ],
 } as const satisfies Module
