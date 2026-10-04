@@ -179,6 +179,10 @@ export const overwhereIOdileVarne = {
       fact: "Nala's papers are one folded sheet under Varne's red seal: Nala Arthur, sworn hunter of Wendlow.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Varne takes no fee for the papers, and a sworn hunter of Wendlow passes its gate without toll.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
