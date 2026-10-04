@@ -13,6 +13,7 @@ export const fairweather0010TheMoonOrchids = {
   prose: "txt",
   stepStatus: "step-status/reviewers",
   beats: "jsonl",
+  issues: "txt",
   lore: [
     "lore/fairweather-cora",
     "lore/fairweather-elsie",
@@ -37,6 +38,7 @@ export const fairweather0010TheMoonOrchids = {
     "character-other/fairweather-tilly",
     "character-other/fairweather-cora",
   ],
+  reviewedBy: ["story-reviewer/scene"],
   recordedBy: [
     "story-recorder/plan",
     "story-recorder/inventory",
