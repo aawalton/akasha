@@ -49,6 +49,6 @@ export const fairweather0002SkillsUsedNone = {
     "image/image-81d915d9181f6846",
     "image/image-62a2c513db876d22",
     "image/image-fa1871c68858070c",
-    "image/image-ed221f90915996e5",
+    "image/image-39186e168859295d",
   ],
 } as const satisfies StoryChapterWritten
