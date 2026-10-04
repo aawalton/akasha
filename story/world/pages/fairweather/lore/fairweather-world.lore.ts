@@ -173,10 +173,6 @@ export const fairweatherWorld = {
       fact: "An Enthraller's Warden goes with her on all guild business, dungeons included.",
       knowers: ["lore-disclosure/game-master", "character-other/fairweather-cora"],
     },
-    {
-      fact: "A woman in a good dark coat walked out of the gallery when Elsie was named Enthraller.",
-      knowers: ["lore-disclosure/game-master", "character-player/fairweather-elsie"],
-    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
