@@ -220,10 +220,12 @@ async function heldOn(
   const beats = beatsHeld(turn, textOf)
   if ("refused" in beats) return refused(beats.refused, DATA)
   const { changes, memory } = beats
+  const pictured = beats.pictured ?? []
   const story = reach.storyOf(given.root, stated.game)
   const switched = read.chapter && story?.proseOnBeats === true ? { proseOnBeats: true } : {}
   const planned = { beats: beats.beats, scenes: beats.scenes }
-  const held = { ...stated, beats: planned.beats.length, changes, memory, planned, ...switched }
+  const parts = { changes, memory, pictured, planned }
+  const held = { ...stated, beats: planned.beats.length, ...parts, ...switched }
   const seat = reach.seatOf(given.root, given.agentId)
   const caller: Caller = seat ?? { role: null, game: null }
   const reviewers = reach.reviewersIn(given.root)

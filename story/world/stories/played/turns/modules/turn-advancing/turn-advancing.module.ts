@@ -68,7 +68,8 @@ export const turnAdvancing = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A picture recorder's pictures replace the chapter's pictures whole.",
+      statement:
+        "A picture recorder's pictures replace the pictures on each beat they name, and no other beat's.",
     },
     {
       decisionKind: "decision-kind/departure",

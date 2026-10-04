@@ -45,7 +45,8 @@ export const beats = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The picture recorder replaces the chapter's pictures whole, each on its beat.",
+      statement:
+        "The picture recorder replaces the pictures on each beat it hands in, and keeps every other beat's.",
     },
     {
       decisionKind: "decision-kind/departure",

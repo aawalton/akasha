@@ -190,6 +190,39 @@ test("a mend moving one beat keeps every part before it and works the rest out a
   expect(body).toBe(beatsWritten({ ...mend, changes: [GAIN], memory: [], pictured: [SHOWN] }))
 })
 
+const RECORDING = { role: "story-recorder", game: "saga" }
+
+test("a recorder's hand-in after a mend replaces its part from the moved beat on and keeps the beats before", () => {
+  const mend = { beats: ["Elsie trains.", "Elsie rests.", "Elsie feasts."], scenes: [] }
+  const mended = mendedOver(RECORDED, mend)
+  const kept = { memory: mended.memory, pictured: mended.pictured ?? [] }
+  const held = heldAt("recorders", { ...kept, beats: 3, written: true })
+  const feast = { ...FED, fact: "Elsie feasts" }
+  const drawn = { beat: 3, cover: "image/image-b", coverAfter: "Elsie feasts", setting: "the hall" }
+  const handed = {
+    kind: "record",
+    recorder: "picture",
+    memory: [feast],
+    pictured: [drawn],
+  } as const
+  const said = advanced(held, RECORDING, handed, [], ["picture"], [], ADMITTED)
+  if ("refused" in said) throw new Error(said.refused)
+  const parts = { memory: [LEARNS, feast], pictured: [SHOWN, drawn] }
+  expect(beatsBodyOf(mended, said)).toBe(beatsWritten({ ...mended, ...parts }))
+  const redrawn = { ...SHOWN, cover: "image/image-c" }
+  const again = advanced(
+    held,
+    RECORDING,
+    { ...handed, pictured: [redrawn] },
+    [],
+    ["picture"],
+    [],
+    ADMITTED
+  )
+  if ("refused" in again) throw new Error(again.refused)
+  expect(again.pictured).toEqual([redrawn])
+})
+
 test("a change the turn holds handed in again by a seat running over a kept beat is checked once", () => {
   const held = heldAt("mechanics", { changes: [GAIN] })
   const again = { kind: "record", recorder: "mechanics", changes: [GAIN] } as const

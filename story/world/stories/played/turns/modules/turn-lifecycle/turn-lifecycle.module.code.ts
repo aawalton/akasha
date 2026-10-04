@@ -107,6 +107,7 @@ export type Held = {
   readonly rulings?: readonly Ruling[]
   readonly changes?: readonly BeatChange[]
   readonly memory?: readonly Memory[]
+  readonly pictured?: readonly Pictured[]
   readonly planned?: Planned
 }
 
@@ -220,6 +221,14 @@ export function firstMoved(before: Planned | undefined, after: Planned): number 
 
 export function memoryMerged(had: readonly Memory[], more: readonly Memory[]): readonly Memory[] {
   const kept = had.filter((one) => !more.some((two) => jsonEqual(one, two)))
+  return [...kept, ...more].toSorted((one, other) => one.beat - other.beat)
+}
+
+export function picturedMerged(
+  had: readonly Pictured[],
+  more: readonly Pictured[]
+): readonly Pictured[] {
+  const kept = had.filter((one) => !more.some((two) => two.beat === one.beat))
   return [...kept, ...more].toSorted((one, other) => one.beat - other.beat)
 }
 

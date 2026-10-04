@@ -30,6 +30,7 @@ import {
   moved,
   type Noun,
   PLAYER,
+  picturedMerged,
   RECORDERS,
   REVIEWERS,
   type Ruling,
@@ -341,7 +342,8 @@ function fromRecorder(held: Held, handed: Recorded, staff: Staff): Advanced {
   if (far !== null) return { refused: far }
   const recordedBy = [...held.recordedBy, recorder]
   const values = { recordedBy: recordedBy.map((one) => `${STORY_RECORDER}${PARTED}${one}`) }
-  const pictured = (handed.pictured ?? []).length === 0 ? null : (handed.pictured ?? null)
+  const drawn = handed.pictured ?? []
+  const pictured = drawn.length === 0 ? null : picturedMerged(held.pictured ?? [], drawn)
   const landing = { landsKept: true, memory: memory.memory, pictured }
   if (!staff.recorders.every((one) => recordedBy.includes(one))) {
     return moved(RECORDERS, values, landing)
