@@ -93,8 +93,9 @@ test("every turn and chapter naming the old picture names the new one, and the o
       row("w-1", { scenes: ["image/image-tall", "image/image-wide"], cover: "image/image-wide" }),
     ],
   })
-  const writing = redrawWriting(all, "image/image-wide", "image/image-new", "head")
+  const writing = redrawWriting(all, () => null, "image/image-wide", "image/image-new", "head")
   expect(writing.read).toBe("head")
+  expect(writing.puts).toBeUndefined()
   expect(writing.pages).toEqual([
     {
       pageTypeSlug: "story-turn-played",
@@ -118,6 +119,40 @@ test("every turn and chapter naming the old picture names the new one, and the o
   ])
 })
 
+const BEATS_AT = "x/w-1.beats.jsonl"
+
+const BEATS = [
+  '{"beat":1,"event":"She comes in."}',
+  '{"beat":2,"pictured":[{"cover":"image/image-wide","coverAfter":"She sits"}]}',
+  '{"beat":3,"changes":[{"page":"character-other/elsie","make":{"cover":"image/image-wide"}}]}',
+  "",
+].join("\n")
+
+test("every beat in a written chapter's beats file naming the old picture names the new one", () => {
+  const all = held({ written: [row("w-1", { beats: "jsonl" })] })
+  const writing = redrawWriting(
+    all,
+    (path) => (path === BEATS_AT ? BEATS : null),
+    "image/image-wide",
+    "image/image-new",
+    "head"
+  )
+  expect(writing.puts).toEqual([
+    {
+      path: BEATS_AT,
+      content: [
+        '{"beat":1,"event":"She comes in."}',
+        '{"beat":2,"pictured":[{"cover":"image/image-new","coverAfter":"She sits"}]}',
+        '{"beat":3,"changes":[{"page":"character-other/elsie","make":{"cover":"image/image-new"}}]}',
+        "",
+      ].join("\n"),
+    },
+  ])
+  expect(writing.pages).toEqual([
+    { pageTypeSlug: "image", slug: "image-wide", values: { grade: "F" }, merge: true },
+  ])
+})
+
 test("the GPU is quiet only with nothing running or waiting and the card idle", () => {
   expect(queueQuiet({ queue_running: [], queue_pending: [] })).toBe(true)
   expect(queueQuiet({ queue_running: [[1]], queue_pending: [] })).toBe(false)
@@ -133,6 +168,7 @@ function redrawer(rows: Held, written: Writing[], drawn: Redrawing[]): Redrawer 
     held: () => rows,
     image: look,
     head: () => "head",
+    file: () => null,
     draw: (redrawing) => {
       drawn.push(redrawing)
       return Promise.resolve("image-new")

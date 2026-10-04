@@ -20,11 +20,11 @@ export const coverRerolling = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "A written story's chapters name the new picture as cover, as scene and on each beat picturing it.",
+        "A written story's chapters name the new picture as cover, as scene and wherever a beat names it.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A beats file is rewritten only on the lines picturing the old picture.",
+      statement: "A beats file is rewritten only on the lines naming the old picture.",
     },
     {
       decisionKind: "decision-kind/departure",

@@ -45,8 +45,6 @@ const WRITTEN_CHAPTER = "story-chapter-written"
 
 const SCENES = "scenes"
 
-const PICTURED = "pictured"
-
 const BEATS = "beats"
 
 const PAGE_ENDS = /\.ts$/
@@ -125,18 +123,28 @@ export function repointed(
 
 export type Held = { readonly pages: readonly Naming[]; readonly puts: readonly Put[] }
 
+function swappedIn(value: unknown, from: string, to: string): unknown {
+  if (value === from) return to
+  if (Array.isArray(value)) {
+    const moved = value.map((one) => swappedIn(one, from, to))
+    return moved.every((one, at) => one === value[at]) ? value : moved
+  }
+  if (typeof value !== "object" || value === null) return value
+  const entries = Object.entries(value)
+  const moved = entries.map(([key, one]) => [key, swappedIn(one, from, to)] as const)
+  return moved.every(([, one], at) => one === entries[at]?.[1]) ? value : Object.fromEntries(moved)
+}
+
 export function beatsRepointed(text: string, from: string, to: string): string | null {
   let moved = false
   const lines = text.split("\n").map((line) => {
     if (!line.includes(from)) return line
     const held = recordIn(line)
     if (held === null) return line
-    const listed = held[PICTURED]
-    if (!Array.isArray(listed)) return line
-    const pictured = listed.map((entry) => coverEntryIn(entry, from, to))
-    if (pictured.every((entry, at) => entry === listed[at])) return line
+    const swapped = swappedIn(held, from, to)
+    if (swapped === held) return line
     moved = true
-    return JSON.stringify({ ...held, [PICTURED]: pictured })
+    return JSON.stringify(swapped)
   })
   return moved ? lines.join("\n") : null
 }

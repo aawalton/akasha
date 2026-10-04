@@ -253,6 +253,13 @@ test("a beat's picture naming the old image names the new one, and every other l
   expect(beatsRepointed(FIRST_BEAT, OLD, "image/image-new")).toBeNull()
 })
 
+test("a beat naming the old image anywhere, not only in its pictures, names the new one", () => {
+  const made = `{"beat":3,"changes":[{"page":"character-other/elsie","make":{"cover":"${OLD}"}}],"event":"${OLD} is only words here"}`
+  expect(beatsRepointed(made, OLD, "image/image-new")).toBe(
+    `{"beat":3,"changes":[{"page":"character-other/elsie","make":{"cover":"image/image-new"}}],"event":"${OLD} is only words here"}`
+  )
+})
+
 test("a written chapter naming the old image as its cover or a scene names the new one", () => {
   const held = writtenRepointed(
     [

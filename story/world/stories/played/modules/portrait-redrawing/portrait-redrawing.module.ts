@@ -31,6 +31,11 @@ export const portraitRedrawing = {
         "Every page naming the old picture names the new one, and the old one is graded F, in one commit.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A written chapter's beats file naming the old picture names the new one in that commit too.",
+    },
+    {
       decisionKind: "decision-kind/constraint",
       statement:
         "A picture is drawn again only after two quiet ticks running: an empty queue and a card under 15%.",

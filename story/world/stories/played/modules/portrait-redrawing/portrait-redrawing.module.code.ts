@@ -1,4 +1,4 @@
-import { statSync } from "node:fs"
+import { readFileSync, statSync } from "node:fs"
 import { join } from "node:path"
 import { ran } from "akasha/code/spawning/modules/running/running.module.code.ts"
 import { headOf } from "akasha/git/modules/head-commit/head-commit.module.code.ts"
@@ -12,7 +12,6 @@ import { akashaRoot } from "akasha/page/modules/checkout-roots/checkout-roots.mo
 import { valueAt } from "akasha/page/modules/value/page-value.module.code.ts"
 import type { Value } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 import type { Writing } from "akasha/page/service/modules/page-calling/page-calling.module.code.ts"
-import type { Naming } from "akasha/page/service/modules/page-composing/page-composing.module.code.ts"
 import {
   type Drawing,
   drawingOf,
@@ -24,6 +23,7 @@ import {
   refusalSaid,
   repointed,
   writtenBy,
+  writtenRepointed,
 } from "akasha/story/world/stories/played/modules/cover-rerolling/cover-rerolling.module.code.ts"
 
 const TURN = "story-turn-played"
@@ -104,32 +104,22 @@ export function redrawingOf(
   return { ...drawing, seed: typeof own === "number" && Number.isInteger(own) ? own : seed() }
 }
 
-function writtenRepointed(written: readonly Row[], from: string, to: string): readonly Naming[] {
-  const named: Naming[] = []
-  for (const one of written) {
-    const slug = one.value["slug"]
-    if (typeof slug !== "string") continue
-    const values: Record<string, unknown> = {}
-    const scenes = one.value["scenes"]
-    if (Array.isArray(scenes) && scenes.includes(from)) {
-      values["scenes"] = scenes.map((scene: unknown) => (scene === from ? to : scene))
-    }
-    if (one.value["cover"] === from) values["cover"] = to
-    if (Object.keys(values).length > 0) {
-      named.push({ pageTypeSlug: WRITTEN, slug, values, merge: true })
-    }
-  }
-  return named
-}
-
-export function redrawWriting(held: Held, from: string, to: string, read: string): Writing {
+export function redrawWriting(
+  held: Held,
+  beatsOf: (path: string) => string | null,
+  from: string,
+  to: string,
+  read: string
+): Writing {
+  const written = writtenRepointed(held.written, beatsOf, from, to)
   return {
     writer: WRITER,
     message: `the picture ${from}, drawn at a landscape size, is drawn again at 832 by 1216 as ${to}, and ${from} is graded F`,
     read,
+    ...(written.puts.length === 0 ? {} : { puts: written.puts }),
     pages: [
       ...repointed(held.turns, held.played, from, to),
-      ...writtenRepointed(held.written, from, to),
+      ...written.pages,
       {
         pageTypeSlug: "image",
         slug: from.slice(IMAGE_OPENS.length),
@@ -155,6 +145,7 @@ export type Redrawer = {
   readonly held: () => Held
   readonly image: (address: string) => Value | null
   readonly head: () => string
+  readonly file: (path: string) => string | null
   readonly draw: (redrawing: Redrawing) => Promise<string>
   readonly write: (writing: Writing) => Promise<string | null>
 }
@@ -174,7 +165,9 @@ export async function redrawNext(effects: Redrawer, passed: Set<string>): Promis
   const drawn = `${IMAGE_OPENS}${await effects.draw(redrawing)}`
   if (drawn === asked) return `${asked}: drawn the same as before`
   const read = effects.head()
-  const refused = await effects.write(redrawWriting(effects.held(), asked, drawn, read))
+  const refused = await effects.write(
+    redrawWriting(effects.held(), effects.file, asked, drawn, read)
+  )
   return refused === null ? DRAWN : `${asked}: ${refused}`
 }
 
@@ -223,6 +216,13 @@ function redrawerAt(root: string): Redrawer {
     held: () => heldAt(root),
     image: (address) => imageAt(root, address),
     head: () => headOf(root),
+    file: (path) => {
+      try {
+        return readFileSync(join(root, path), "utf8")
+      } catch {
+        return null
+      }
+    },
     draw: (redrawing) => drawnAt(redrawing, redrawing.seed),
     write: writtenBy,
   }
