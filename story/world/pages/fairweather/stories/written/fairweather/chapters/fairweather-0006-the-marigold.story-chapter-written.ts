@@ -11,7 +11,7 @@ export const fairweather0006TheMarigold = {
   story: "story-written/fairweather",
   ownLength: 8822,
   prose: "txt",
-  stepStatus: "step-status/mechanics",
+  stepStatus: "step-status/writer",
   beats: "jsonl",
   issues: "txt",
   lore: [
@@ -35,7 +35,7 @@ export const fairweather0006TheMarigold = {
     "character-other/fairweather-rosa",
   ],
   reviewedBy: ["story-reviewer/holdings"],
-  recordedBy: ["story-recorder/plan", "story-recorder/mechanics"],
+  recordedBy: ["story-recorder/plan", "story-recorder/mechanics", "story-recorder/inventory"],
   rulings: "jsonl",
   scenes: [
     "image/image-79f16bff90c64ca0",
