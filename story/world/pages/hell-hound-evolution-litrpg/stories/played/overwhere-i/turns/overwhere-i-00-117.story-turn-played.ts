@@ -11,7 +11,7 @@ export const overwhereI00117 = {
   position: 117,
   prose: "txt",
   characters: ["character-player/overwhere-i-nala", "character-other/overwhere-i-harl-voss"],
-  stepStatus: "step-status/game-master",
+  stepStatus: "step-status/mechanics",
   action:
     "I spend the time I have before I need to leave using the weave i found to finish mending my cloak and clothes, then go to see the magistrate.",
   beats: "jsonl",
@@ -28,13 +28,6 @@ export const overwhereI00117 = {
     "place/overwhere-i-wendlow",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/scene"],
-  recordedBy: [
-    "story-recorder/mechanics",
-    "story-recorder/inventory",
-    "story-recorder/plan",
-    "story-recorder/picture",
-    "story-recorder/memory",
-  ],
   endsAt: "2026-10-07T12:15:00.000Z",
   coverAfter: "Odile Varne, Magistrate of Wendlow, looks you over from boots to hood",
 } as const satisfies StoryTurnPlayed
