@@ -13,7 +13,7 @@ export const fairweatherTamsin = {
       knowers: ["lore-disclosure/game-master", "character-other/fairweather-tamsin"],
     },
     {
-      fact: "Tamsin is slim, lean and athletic, with an idol-pretty face, narrow hips and small firm breasts.",
+      fact: "Tamsin is slim, lean and athletic, with an idol-pretty face, narrow hips and a runner's build.",
       knowers: ["lore-disclosure/game-master", "character-other/fairweather-tamsin"],
     },
     {
