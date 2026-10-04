@@ -55,7 +55,11 @@ naming one `--image` for each character pictured. Write the prompt as 150 to 250
 - the light and time of day the beat's `at` gives, and anything the prose puts in the frame
 - the camera: framing close enough that every face pictured reads, lens and depth of field
 
-Make each picture once and keep it: a picture Alan wants different, he rerolls. A beat holding nudity or sex is rendered from words as above. Write the pictures file one json line for each beat, as `{"beat": <n>, "cover": "image/<slug>", "coverAfter": "<opening words>", "place": "place/<slug>", "characters": ["character-other/<slug>"]}`, leaving `characters` off a picture of the place alone, where `coverAfter` is the first twelve or so words of the beat's prose, quoted exactly. Draft `scenes` onto the chapter page, every beat's picture in beat order, and `cover` naming the one that shows most, and hand the file in with `--pictured-file` as above.
+Make each picture once and keep it: a picture Alan wants different, he rerolls. A beat holding nudity or sex is rendered from words as above. Land each picture on its beat as soon as it is made, so Alan sees it in the draft: write it as one json line to `/var/tmp/akasha-turn-pictures/<chapter slug>-<n>.jsonl`, as `{"beat": <n>, "cover": "image/<slug>", "coverAfter": "<opening words>", "place": "place/<slug>", "characters": ["character-other/<slug>"]}`, leaving `characters` off a picture of the place alone, where `coverAfter` is the first twelve or so words of the beat's prose, quoted exactly, then run, alone on its line:
+
+`akasha story turn picture --chapter <chapter slug> --pictured-file /var/tmp/akasha-turn-pictures/<chapter slug>-<n>.jsonl`
+
+It sets the picture on its beat and the chapter's `scenes` to every beat's picture in beat order, and lands both at once. A picture made before it was landed this way is landed the same way, one line or many in one file. Once every beat is pictured, draft only `cover` onto the chapter page, naming the picture that shows most, and advance with no `--pictured-file`: nothing already landed is handed in again.
 
 Where the story's domain limits what a picture may show, that limit wins over these instructions.
 
