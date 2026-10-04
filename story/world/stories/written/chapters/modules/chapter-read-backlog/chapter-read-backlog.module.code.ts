@@ -25,9 +25,9 @@ const COMPLETED = "completedAt"
 
 const OPENING = `${storyWritten.slug}/`
 
-export type Asking = (query: Query) => Promise<Rows>
+type Asking = (query: Query) => Promise<Rows>
 
-export type Keeping = (story: string) => Promise<BacklogKept>
+type Keeping = (story: string) => Promise<BacklogKept>
 
 function idWhere(where: unknown): string | null {
   if (!Array.isArray(where)) return null
