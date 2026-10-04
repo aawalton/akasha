@@ -11,7 +11,7 @@ export const fairweather0001TheLeftovers = {
   story: "story-written/fairweather",
   ownLength: 9285,
   prose: "txt",
-  stepStatus: "step-status/mechanics",
+  stepStatus: "step-status/writer",
   beats: "jsonl",
   issues: "txt",
   lore: [
@@ -31,7 +31,7 @@ export const fairweather0001TheLeftovers = {
     "character-other/fairweather-tamsin",
     "character-other/fairweather-tilly",
   ],
-  recordedBy: ["story-recorder/inventory", "story-recorder/plan"],
+  recordedBy: ["story-recorder/inventory", "story-recorder/plan", "story-recorder/mechanics"],
   rulings: "jsonl",
   scenes: [
     "image/image-36e4549d04ca1b40",
