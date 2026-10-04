@@ -30,7 +30,7 @@
 {"beat":30,"event":"Tilly goes white at the word Underbloom, then says she went down for the goat and can again."}
 {"beat":31,"event":"Elsie asks if she's sure; Tilly says yes, if Elsie holds her hand on the stair."}
 {"beat":32,"event":"The clerk enters the party for the glowcaps, and Cora writes it in her ledger."}
-{"beat":33,"event":"At the old flower market the clerk at the stair head logs them in, and Tamsin pays the licence.","at":"2026-06-08T08:30:00.000Z","place":"place/fairweather-underbloom"}
+{"beat":33,"event":"At the old flower market the clerk at the stair head logs them in, and Tamsin pays the licence.","at":"2026-06-08T08:30:00.000Z","place":"place/fairweather-underbloom","changes":[{"page":"metric-character-currency/fairweather-tamsin","note":"Tamsin pays the Underbloom licence at the stair head: 1 lantern, 111 → 101","key":"value","from":111,"to":101}]}
 {"beat":34,"event":"Elsie takes Tilly's hand at the top of the stair, and Tilly's fingers are ice cold."}
 {"beat":35,"event":"Elsie hums all the way down, and Tilly counts the steps out loud."}
 {"beat":36,"event":"The first floor's brick cellars glow with pale flowers, and Tilly breathes out at last.","at":"2026-06-08T09:00:00.000Z"}
@@ -55,9 +55,9 @@
 {"beat":55,"event":"They fill the dyer's sack with glowcaps, and Tilly carries it like treasure.","at":"2026-06-08T10:30:00.000Z"}
 {"beat":56,"event":"They climb the stair into daylight, and the clerk logs them out.","at":"2026-06-08T11:00:00.000Z"}
 {"beat":57,"event":"On Vat Street the dyer has blue hands to the elbow, and boils glowcaps into a glowing blue.","at":"2026-06-08T11:30:00.000Z","place":"place/fairweather-lanternmere"}
-{"beat":58,"event":"She pays on the spot; Elsie, Tamsin and Tilly share it, and Elsie gives Tilly the odd pips."}
+{"beat":58,"event":"She pays on the spot; Elsie, Tamsin and Tilly share it, and Elsie gives Tilly the odd pips.","changes":[{"page":"metric-character-currency/fairweather-elsie","note":"Her share of the dyer's four-lantern glowcaps pay: 13 pips, 117 → 130","key":"value","from":117,"to":130},{"page":"metric-character-currency/fairweather-tamsin","note":"Tamsin's share of the glowcaps pay: 13 pips, 101 → 114","key":"value","from":101,"to":114},{"page":"metric-character-currency/fairweather-tilly","note":"Tilly's share, 13 pips plus the odd pip Elsie gives her: 110 → 124","key":"value","from":110,"to":124}]}
 {"beat":59,"event":"The dyer shows Elsie a bolt of the glowing blue cloth, and Elsie gasps."}
-{"beat":60,"event":"At the Tipsy Heron Elsie pays for four bowls of stew, Cora's too, and Cora lets her.","at":"2026-06-08T12:15:00.000Z"}
+{"beat":60,"event":"At the Tipsy Heron Elsie pays for four bowls of stew, Cora's too, and Cora lets her.","at":"2026-06-08T12:15:00.000Z","changes":[{"page":"metric-character-currency/fairweather-elsie","note":"Four bowls of stew at the Tipsy Heron, Cora's too: 16 pips, 130 → 114","key":"value","from":130,"to":114},{"page":"metric-character-currency/fairweather-elsie","note":"Elsie ends the chapter with 114 pips: 11 lanterns, 4 pips","key":"history","append":{"turn":8,"value":114}},{"page":"metric-character-currency/fairweather-tamsin","note":"Tamsin ends the chapter with 114 pips","key":"history","append":{"turn":8,"value":114}},{"page":"metric-character-currency/fairweather-tilly","note":"Tilly ends the chapter with 124 pips","key":"history","append":{"turn":8,"value":124}}]}
 {"beat":61,"event":"Elsie asks them all at once about the blue-doored house on Willow Canal."}
 {"beat":62,"event":"Tamsin says it'd cost more than all their purses; Tilly says she'd sleep in the shed."}
 {"beat":63,"event":"Elsie asks Cora if a Warden could live with her party; Cora says the Accord says nothing of it."}
