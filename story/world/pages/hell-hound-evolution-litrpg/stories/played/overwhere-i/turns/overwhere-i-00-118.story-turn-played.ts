@@ -11,7 +11,7 @@ export const overwhereI00118 = {
   position: 118,
   prose: "txt",
   characters: ["character-player/overwhere-i-nala"],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/reviewers",
   action:
     "“Only you and Grete as far as I’m aware. I figured with the seal it must be something someone cared about, but it’s not something I can hunt, so I never bothered to look inside.”",
   beats: "jsonl",
@@ -23,6 +23,7 @@ export const overwhereI00118 = {
     "story-recorder/inventory",
     "story-recorder/mechanics",
     "story-recorder/picture",
+    "story-recorder/memory",
   ],
   endsAt: "2026-10-07T12:20:00.000Z",
   coverAfter: "She draws a clean sheet toward her, wets her pen, and holds it",
