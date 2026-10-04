@@ -31,6 +31,11 @@ export const chapterPanels = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "A chapter's panels draw no page the chapters close after it make or reveal, nor their values.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A chapter whose beats set no time hands its panels no clock.",
     },
     {

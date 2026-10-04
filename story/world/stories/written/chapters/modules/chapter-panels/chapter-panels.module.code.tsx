@@ -20,6 +20,7 @@ import {
   NO_BEATS,
 } from "akasha/story/engine/beat-state/modules/beat-records/beat-records.module.code.ts"
 import {
+  aheadOf,
   BeatReadingProvider,
   baseOf,
   overlayOf,
@@ -118,25 +119,41 @@ function beatsHrefOf(pageTypeSlug: string, chapter: ChapterShown): string | null
   return `${FILE_AT}/${[pageTypeSlug, chapter.slug, BEATS].map(encodeURIComponent).join("/")}`
 }
 
+function closeHrefsOf(
+  pageTypeSlug: PageTypeSlug,
+  rows: readonly Page[],
+  at: number,
+  later: boolean
+): readonly string[] {
+  const away = (row: Page) => Math.abs(Number(row[POSITION_KEY]) - at)
+  return rows
+    .filter((row) => {
+      const position = row[POSITION_KEY]
+      if (typeof position !== "number" || textIn(row[SLUG_KEY]) === "") return false
+      return later ? position > at : position < at
+    })
+    .toSorted((one, other) => away(one) - away(other))
+    .slice(0, CLOSE_CHAPTERS)
+    .map(
+      (row) =>
+        `${FILE_AT}/${[pageTypeSlug, textIn(row[SLUG_KEY]), BEATS].map(encodeURIComponent).join("/")}`
+    )
+}
+
 function earlierHrefsOf(
   pageTypeSlug: PageTypeSlug,
   rows: readonly Page[],
   before: number
 ): readonly string[] {
-  return rows
-    .filter(
-      (row) =>
-        typeof row[POSITION_KEY] === "number" &&
-        row[POSITION_KEY] < before &&
-        textIn(row[SLUG_KEY]) !== ""
-    )
-    .toSorted((one, other) => Number(other[POSITION_KEY]) - Number(one[POSITION_KEY]))
-    .slice(0, CLOSE_CHAPTERS)
-    .toReversed()
-    .map(
-      (row) =>
-        `${FILE_AT}/${[pageTypeSlug, textIn(row[SLUG_KEY]), BEATS].map(encodeURIComponent).join("/")}`
-    )
+  return closeHrefsOf(pageTypeSlug, rows, before, false).toReversed()
+}
+
+function laterHrefsOf(
+  pageTypeSlug: PageTypeSlug,
+  rows: readonly Page[],
+  after: number
+): readonly string[] {
+  return closeHrefsOf(pageTypeSlug, rows, after, true)
 }
 
 type ChapterShown = {
@@ -362,9 +379,18 @@ function StoryAside({
   )
   const before = useBeatsFiles(hrefs)
   const base = useMemo(() => baseOf(before), [before])
+  const laterHrefs = useMemo(
+    () =>
+      on && reading.reading
+        ? laterHrefsOf(pageTypeSlug, chapters.rows, chapter.position ?? Number.POSITIVE_INFINITY)
+        : NO_HREFS,
+    [on, reading.reading, pageTypeSlug, chapters.rows, chapter.position]
+  )
+  const after = useBeatsFiles(laterHrefs)
+  const ahead = useMemo(() => aheadOf(after), [after])
   const overlay = useMemo(
-    () => overlayOf(reading.beats, reading.beat, base),
-    [reading.beats, reading.beat, base]
+    () => overlayOf(reading.beats, reading.beat, base, ahead),
+    [reading.beats, reading.beat, base, ahead]
   )
 
   const characterOptions = useMemo<UsePagesSupabaseOptions>(
