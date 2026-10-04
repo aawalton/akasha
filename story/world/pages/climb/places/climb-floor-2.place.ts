@@ -5,6 +5,7 @@ export const climbFloor2 = {
   type: "page-type/place",
   slug: "climb-floor-2",
   title: "Floor 2: The Masquerade",
+  cover: "image/image-176f2705bfabd6fc",
   world: "world/climb",
   facts: [
     {
