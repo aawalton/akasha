@@ -11,7 +11,7 @@ Write each change as one json line, in beat order, to a changes file, naming the
 - Many of one thing are one page stating `quantity`; set it to how many she has after the beat. None left: set it to 0.
 - A thing she puts on or takes in hand: set its `slot` to that item-slot page; she takes it off: set it to null.
 - A thing broken but kept stays, and its `description` says so.
-- A thing or purse of hers stating `unrevealed: true` that a beat shows her having: set it to false.
+- A thing or purse of hers stating `unrevealed: true` that a beat shows her having: set it to false on that beat. A thing or purse of hers that no beat shows, makes or hands to her reads as drift, and the reader's panels show it from the story's first page.
 - A purse holds one character's money in one currency: set its `value` in the currency's smallest coin, converting larger coins through the currency's denominations, and append the turn's line to its `history`: `{"beat":2,"page":"…","key":"history","append":{"turn":<this turn's number>,"value":<the new value>},"note":"…"}`. Where a beat gives her money and no purse names her, make one with `make`, naming her and the story's currency.
 
 A change from a value the page does not hold is refused, and so is a number left below none, so spending what she does not hold never lands.
