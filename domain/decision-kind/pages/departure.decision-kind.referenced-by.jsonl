@@ -4165,7 +4165,6 @@
 {"propertySlug":"decision-kind","path":"story/world/stories/written/chapters/story-chapter-written.page-type.ts","id":"01a06554-d8bd-712b-86b4-ade0001027ee"}
 {"propertySlug":"decision-kind","path":"story/world/stories/written/modules/chapter-writing/chapter-writing.module.ts","id":"01a0e971-8b9c-7100-bec8-8d0af82a161f"}
 {"propertySlug":"decision-kind","path":"story/world/stories/written/modules/nightly-chapter-writing/nightly-chapter-writing.module.ts","id":"01a0e99c-93f3-767d-b0a3-36689dd14810"}
-{"propertySlug":"decision-kind","path":"story/world/stories/written/properties/editor-steps.boolean-property.ts","id":"01a1036a-8aed-77c9-8b8b-dc0b970d7080"}
 {"propertySlug":"decision-kind","path":"story/world/stories/written/properties/prose-on-beats.boolean-property.ts","id":"01a10390-5892-7c23-b806-d489b018b47e"}
 {"propertySlug":"decision-kind","path":"story/world/stories/written/properties/word-backlog.number-property.ts","id":"01a10211-7e1e-7032-bb27-18192e38142a"}
 {"propertySlug":"decision-kind","path":"story/world/stories/written/service-workstations/nightly-chapter-writing/nightly-chapter-writing.service-workstation.ts","id":"01a0e99c-93f4-7f3a-86ac-760f73f5563b"}
