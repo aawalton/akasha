@@ -4,6 +4,7 @@ export const togetherAtTheEdgeOfTheWorldBook4Complete0195Vol4Chapter175DavidsAns
   id: "01a0f12a-e88f-7e8a-8aa5-a535868fb258",
   type: "page-type/story-chapter-read",
   slug: "together-at-the-edge-of-the-world-book-4-complete-0195-vol-4-chapter-175-davids-answer-to-lifes",
+  ownProgress: 2570,
   position: 195,
   publishedAt: "2026-05-08",
   unit: "unit/words",

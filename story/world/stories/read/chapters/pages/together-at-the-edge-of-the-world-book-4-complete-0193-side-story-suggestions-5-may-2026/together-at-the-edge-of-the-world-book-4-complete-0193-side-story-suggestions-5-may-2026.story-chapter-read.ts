@@ -4,6 +4,7 @@ export const togetherAtTheEdgeOfTheWorldBook4Complete0193SideStorySuggestions5Ma
   id: "01a0f12a-e88f-7d39-9a68-dd669f90309b",
   type: "page-type/story-chapter-read",
   slug: "together-at-the-edge-of-the-world-book-4-complete-0193-side-story-suggestions-5-may-2026",
+  ownProgress: 120,
   position: 193,
   publishedAt: "2026-05-05",
   unit: "unit/words",
