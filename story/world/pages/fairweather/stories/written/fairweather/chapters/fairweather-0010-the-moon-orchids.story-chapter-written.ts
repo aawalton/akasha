@@ -39,6 +39,7 @@ export const fairweather0010TheMoonOrchids = {
     "character-other/fairweather-cora",
   ],
   reviewedBy: ["story-reviewer/holdings", "story-reviewer/style"],
+  recordedBy: ["story-recorder/plan"],
   scenes: [
     "image/image-91a983eb379732ec",
     "image/image-6e2325b233c5519f",
