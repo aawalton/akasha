@@ -36,6 +36,21 @@ export const recipientResolverRegistry = {
       decisionKind: "decision-kind/departure",
       statement: "A writer seat is started by that notice alone.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "Each reviewer and recorder seat of a game has a spec, named as the advance names it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A reviewer or recorder seat is resumed by its job or by its game master's message.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A reviewer or recorder seat that never ran is started by its job's advance alone.",
+    },
 
     {
       decisionKind: "decision-kind/departure",

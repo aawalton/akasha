@@ -3,6 +3,8 @@ import type {
   FirstStart,
   OnDemandAgentSpec,
 } from "akasha/agent/message/recipient-resolving/modules/seat-wake-rules/seat-wake-rules.module.code.ts"
+import { reviewer as reviewerRole } from "akasha/agent/role/pages/reviewer.role.ts"
+import { storyRecorder as storyRecorderRole } from "akasha/agent/role/pages/story-recorder.role.ts"
 import {
   composeSeatName,
   handlerSeatName,
@@ -28,7 +30,13 @@ import {
   ACTION_BAR_PLAYER,
   ACTION_BAR_SENDER,
 } from "akasha/story/engine/core/modules/action-bar-message/action-bar-message.module.code.ts"
-import { STEP_SENDER } from "akasha/story/world/stories/played/turns/modules/turn-lifecycle/turn-lifecycle.module.code.ts"
+import { storyRecorder } from "akasha/story/recorder/story-recorder.page-type.ts"
+import { storyReviewer } from "akasha/story/reviewer/story-reviewer.page-type.ts"
+import {
+  JOB_SENDER,
+  STEP_SENDER,
+} from "akasha/story/world/stories/played/turns/modules/turn-lifecycle/turn-lifecycle.module.code.ts"
+import { flexOf } from "akasha/story/world/stories/played/turns/modules/turn-seats/turn-seats.module.code.ts"
 
 const ROOT = rootFor(resolveRoots(), AKASHA)
 
@@ -51,13 +59,38 @@ interface GameSeats {
   readonly builder: string | null
   readonly writer: string | null
   readonly played?: boolean
+  readonly staff?: readonly string[]
 }
 
-function seatOf(persona: string, role: string, game: string, root: string): string | null {
+type Staff = { readonly reviewers: readonly string[]; readonly recorders: readonly string[] }
+
+function seatOf(
+  persona: string,
+  role: string,
+  game: string,
+  root: string,
+  flex: string | null = null
+): string | null {
   return composeSeatName(
-    { attributes: { persona, domain: game, role }, flex: null, principal: ACTION_BAR_PLAYER },
+    { attributes: { persona, domain: game, role }, flex, principal: ACTION_BAR_PLAYER },
     root
   )
+}
+
+function slugsOf(root: string, type: string): readonly string[] {
+  return valuesOfType(root, type).flatMap(({ value }) => {
+    const slug = value["slug"]
+    return typeof slug === "string" ? [slug] : []
+  })
+}
+
+function staffOf(persona: string, game: string, root: string, staff: Staff): readonly string[] {
+  const seats = (role: string, slugs: readonly string[]) =>
+    slugs.flatMap((slug) => seatOf(persona, role, game, root, flexOf(slugs, slug)) ?? [])
+  return [
+    ...seats(reviewerRole.slug, staff.reviewers),
+    ...seats(storyRecorderRole.slug, staff.recorders),
+  ]
 }
 
 function personaOf(master: string, game: string, root: string): string | null {
@@ -72,6 +105,10 @@ export function gameSeatsIn(root: string): readonly GameSeats[] {
   const reading = readingIn(root)
   const kinds = [...kindsUnder(STORY, reading)].sort()
   const playedKinds = kindsUnder(STORY_PLAYED, reading)
+  const staffed = {
+    reviewers: slugsOf(root, storyReviewer.slug),
+    recorders: slugsOf(root, storyRecorder.slug),
+  }
   for (const kind of kinds) {
     for (const { value } of valuesOfType(root, kind)) {
       const game = value["slug"]
@@ -81,7 +118,8 @@ export function gameSeatsIn(root: string): readonly GameSeats[] {
       const builder = persona === null ? null : seatOf(persona, WORLD_BUILDER, game, root)
       const writer = persona === null ? null : seatOf(persona, WRITER, game, root)
       const played = playedKinds.has(kind)
-      found.push({ game, master, persona, builder, writer, played })
+      const staff = persona === null ? [] : staffOf(persona, game, root, staffed)
+      found.push({ game, master, persona, builder, writer, played, staff })
     }
   }
   return found
@@ -114,7 +152,7 @@ function gameSeatSpec(
 }
 
 export function gameSeatSpecs(seats: readonly GameSeats[]): readonly OnDemandAgentSpec[] {
-  return seats.flatMap(({ game, master, persona, builder, writer, played }) => {
+  return seats.flatMap(({ game, master, persona, builder, writer, played, staff }) => {
     const startAs = (role: string): FirstStart | null =>
       persona === null ? null : { persona, role, domain: game, principal: ACTION_BAR_PLAYER }
     const bar = played === false ? [] : [heardFrom(master, ACTION_BAR_SENDER, "action-bar")]
@@ -143,6 +181,13 @@ export function gameSeatSpecs(seats: readonly GameSeats[]): readonly OnDemandAge
       specs.push(
         gameSeatSpec(writer, game, [heardFrom(writer, STEP_SENDER, STEP_SENDER)], startAs(WRITER))
       )
+    }
+    for (const seat of staff ?? []) {
+      const sources = [
+        heardFrom(seat, JOB_SENDER, JOB_SENDER),
+        heardFrom(seat, master, GAME_MASTER),
+      ]
+      specs.push(gameSeatSpec(seat, game, sources, null))
     }
     return specs
   })

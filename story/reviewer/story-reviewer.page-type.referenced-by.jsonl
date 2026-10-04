@@ -1,4 +1,5 @@
 {"propertySlug":"import","fileName":"story-reviewer.page-type.ts","path":"agent/hook/agent-hook/block-stop-before-advance/block-stop-before-advance.agent-hook.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"story-reviewer.page-type.ts","path":"agent/message/recipient-resolving/modules/recipient-resolver-registry/recipient-resolver-registry.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"story-reviewer.page-type.ts","path":"command/pages/story/turn/advance/story-turn-advance.command.test-fixtures.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"story-reviewer.page-type.ts","path":"command/pages/story/turn/modules/turn-reaching/turn-reaching.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"story-reviewer.page-type.ts","path":"command/pages/story/turn/record/story-turn-record.command.code.ts","typed":false,"deferred":false}

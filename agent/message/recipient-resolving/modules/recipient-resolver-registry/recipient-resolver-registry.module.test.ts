@@ -12,7 +12,10 @@ import {
   ACTION_BAR_SENDER,
 } from "akasha/story/engine/core/modules/action-bar-message/action-bar-message.module.code.ts"
 import { theTower } from "akasha/story/world/pages/personas/stories/played/the-tower/the-tower.story-played.ts"
-import { STEP_SENDER } from "akasha/story/world/stories/played/turns/modules/turn-lifecycle/turn-lifecycle.module.code.ts"
+import {
+  JOB_SENDER,
+  STEP_SENDER,
+} from "akasha/story/world/stories/played/turns/modules/turn-lifecycle/turn-lifecycle.module.code.ts"
 
 const ROOT = rootOf(import.meta.dir)
 
@@ -21,6 +24,10 @@ const MASTER = theTower.coordinatorAgent
 const BUILDER = "iris-world-builder-the-tower"
 
 const WRITER = "iris-writer-the-tower"
+
+const REVIEWER = "iris-reviewer-the-tower-flex-1"
+
+const RECORDER = "iris-story-recorder-the-tower-flex-1"
 
 function towerSpecs() {
   return gameSeatSpecs(gameSeatsIn(ROOT).filter((one) => one.game === theTower.slug))
@@ -32,8 +39,33 @@ function heard(name: string, sender: string): boolean {
   return spec.wakeSources.some((rule) => ruleMatches(rule, { sender, content: "" }))
 }
 
-test("the tower's game master, world builder and writer seats each have a spec", () => {
-  expect(towerSpecs().map((one) => one.name)).toEqual([MASTER, BUILDER, WRITER])
+test("the tower's game master, world builder and writer seats each have a spec, first", () => {
+  expect(
+    towerSpecs()
+      .map((one) => one.name)
+      .slice(0, 3)
+  ).toEqual([MASTER, BUILDER, WRITER])
+})
+
+test("each reviewer and recorder seat of a game has a spec, started again by its job or its game master", () => {
+  const names = towerSpecs().map((one) => one.name)
+  expect(names).toContain(REVIEWER)
+  expect(names).toContain(RECORDER)
+  for (const seat of [REVIEWER, RECORDER]) {
+    expect(heard(seat, `agent:${JOB_SENDER}`)).toBe(true)
+    expect(heard(seat, `agent:${MASTER}`)).toBe(true)
+    expect(heard(seat, `agent:${STEP_SENDER}`)).toBe(false)
+    expect(heard(seat, `agent:${ACTION_BAR_SENDER}`)).toBe(false)
+  }
+})
+
+test("a reviewer or recorder seat that never ran is started by its job's advance, never by a spec", () => {
+  const staff = towerSpecs().filter((one) => one.name === REVIEWER || one.name === RECORDER)
+  expect(staff.map((one) => one.firstStart)).toEqual([undefined, undefined])
+  expect(staff.map((one) => one.resumePolicy.kind)).toEqual([
+    "resume-under-budget",
+    "resume-under-budget",
+  ])
 })
 
 test("the game master seat is started by the action bar and by its world builder", () => {
