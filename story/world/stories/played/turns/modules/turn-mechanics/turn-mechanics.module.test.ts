@@ -84,6 +84,28 @@ test("a change handed in again just as the turn holds it is held once", () => {
   expect(changesMerged([GAIN], [GAIN])).toEqual([GAIN])
 })
 
+test("an append the turn holds on a beat is held once, whatever note or line it is handed again with", () => {
+  const logged = {
+    beat: 1,
+    page: GAIN.page,
+    key: "history",
+    append: { turn: 4, value: 2 },
+    note: "XP logged",
+  }
+  const held = heldAt("mechanics", { beats: 2, changes: [GAIN, logged] })
+  const renoted = { ...logged, note: "XP logged again" }
+  const revalued = { ...logged, append: { turn: 4, value: 3 } }
+  const later = { ...logged, beat: 2 }
+  const again = {
+    kind: "record",
+    recorder: "mechanics",
+    changes: [renoted, revalued, later],
+  } as const
+  expect(doneOf(mechanicked(held, again, STEPPED)).changes).toEqual([GAIN, logged, later])
+  expect(changesMerged([logged], [logged])).toEqual([logged])
+  expect(changesMerged([], [logged, renoted])).toEqual([logged, renoted])
+})
+
 test("a reviewer's issue is kept opening on the reviewer that raised it", () => {
   const line = raisedAs("voice", "beat 3: the gate was locked")
   expect(line).toBe("voice: beat 3: the gate was locked")

@@ -26,6 +26,11 @@ export const turnMechanics = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "An append on a beat, page and key the turn holds an append on already is passed over.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A reviewer's issue is kept opening on that reviewer's slug and a colon.",
     },
     {

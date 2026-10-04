@@ -90,14 +90,18 @@ export function mechanicked(
   return { values, changes: body, issues: issued, recordedBy, next }
 }
 
+function appendedOver(held: BeatChange, more: BeatChange): boolean {
+  if (held.append === undefined || more.append === undefined) return false
+  return held.beat === more.beat && held.page === more.page && held.key === more.key
+}
+
 export function changesMerged(
   had: readonly BeatChange[],
   more: readonly BeatChange[]
 ): readonly BeatChange[] {
-  return mergedOf(
-    had.filter((one) => !more.some((two) => jsonEqual(one, two))),
-    more
-  )
+  const kept = had.filter((one) => !more.some((two) => jsonEqual(one, two)))
+  const added = more.filter((two) => !kept.some((one) => appendedOver(one, two)))
+  return mergedOf(kept, added)
 }
 
 const RAISED = ": "
