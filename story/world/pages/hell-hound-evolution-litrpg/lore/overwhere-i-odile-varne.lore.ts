@@ -347,5 +347,9 @@ export const overwhereIOdileVarne = {
       fact: "The call has no deadline, but Varne wants word before the next tax rider, in ten days.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "The bench pays two gold for a crewman brought to it alive, as the Board pays for his ear and tag.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
