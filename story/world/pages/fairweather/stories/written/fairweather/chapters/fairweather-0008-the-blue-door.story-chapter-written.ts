@@ -36,5 +36,10 @@ export const fairweather0008TheBlueDoor = {
     "character-other/fairweather-tilly",
     "character-other/fairweather-cora",
   ],
-  recordedBy: ["story-recorder/plan", "story-recorder/mechanics", "story-recorder/inventory"],
+  recordedBy: [
+    "story-recorder/plan",
+    "story-recorder/mechanics",
+    "story-recorder/inventory",
+    "story-recorder/memory",
+  ],
 } as const satisfies StoryChapterWritten
