@@ -44,6 +44,20 @@ export const worldBuilder = {
     },
     {
       directiveKind: "directive-kind/rule",
+      name: "Place Cover",
+      act: "File each place of a story stating `picturesOnBeats` with its `cover`, and never render it again.",
+      warrant:
+        "Every beat picture there is an edit of that cover, so a place redrawn looks like a new place.",
+      aids: [
+        "The cover is the place with nobody in it, in the design's `visualStyle`, drawn from its facts.",
+        "Render it from words as the picture recorder renders a subject with no cover.",
+        "Look at it; where it misses the place's facts, render at the seed one past, up to three tries.",
+        'State `cover: "image/<slug>"` on the place page you land, naming the closest try.',
+        "A place that has a cover keeps it; only a reroll draws it again.",
+      ],
+    },
+    {
+      directiveKind: "directive-kind/rule",
       name: "Sole Definer",
       act: "Define every mechanic yourself, its description written to world-mechanic's What It Is rule.",
       warrant:

@@ -29,6 +29,20 @@ export const place = {
       decisionKind: "decision-kind/departure",
       statement: "A place is its own lore page, and only its continuations are about it.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A place's cover is its one picture: the place with nobody in it, in its story's style.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A place's cover is rendered from words at its story design's image seed, at 832 by 1216.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A place's cover once set is never rendered again, except by a reroll.",
+    },
   ],
   types: "ts",
   schema: "jsonl",
