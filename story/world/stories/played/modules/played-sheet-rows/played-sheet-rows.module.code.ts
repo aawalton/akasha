@@ -114,7 +114,7 @@ function genericKindOf(type: string): string | null {
 export function scoresIn(rows: readonly QueryRow[]): Scores {
   let level: number | undefined
   let opening = ""
-  const held: [string, number, string | null, string | null][] = []
+  const held: [string, number, string | null, string | null, number | undefined][] = []
   for (const row of rows) {
     const type = textIn(row.values[TYPE_KEY])
     const value = parseNumber(row.values[VALUE_KEY])
@@ -124,20 +124,30 @@ export function scoresIn(rows: readonly QueryRow[]): Scores {
       opening = type.slice(0, type.length - LEVEL.length)
       continue
     }
-    held.push([type, value, ownNameOf(row), textIn(row.values[CHARACTER_KEY])])
+    held.push([
+      type,
+      value,
+      ownNameOf(row),
+      textIn(row.values[CHARACTER_KEY]),
+      parseNumber(row.values[DISPLAY_ORDER_KEY]),
+    ])
   }
   const attributes = held
-    .map(([type, value, own, character]): [string, number] => [
-      (
-        own ??
-        genericKindOf(type) ??
-        (opening !== "" && type.startsWith(opening)
-          ? type.slice(opening.length)
-          : kindOf(type, character))
-      ).toUpperCase(),
-      value,
-    ])
-    .toSorted((one, other) => one[0].localeCompare(other[0]))
+    .map(
+      ([type, value, own, character, order]): Ordered<number> => ({
+        name: (
+          own ??
+          genericKindOf(type) ??
+          (opening !== "" && type.startsWith(opening)
+            ? type.slice(opening.length)
+            : kindOf(type, character))
+        ).toUpperCase(),
+        shown: value,
+        order,
+      })
+    )
+    .toSorted(byOrder)
+    .map((one): [string, number] => [one.name, one.shown])
   return {
     ...(level === undefined ? {} : { level }),
     attributes: Object.fromEntries(attributes),
@@ -166,13 +176,15 @@ function resourceNameOf(row: QueryRow, type: string): string {
 
 const DISPLAY_ORDER_KEY = "displayOrder"
 
-type Resource = {
+type Ordered<Shown> = {
   readonly name: string
-  readonly shown: string | number
+  readonly shown: Shown
   readonly order: number | undefined
 }
 
-function byOrder(one: Resource, other: Resource): number {
+type Resource = Ordered<string | number>
+
+function byOrder<Shown>(one: Ordered<Shown>, other: Ordered<Shown>): number {
   if (one.order !== undefined && other.order !== undefined && one.order !== other.order) {
     return one.order - other.order
   }

@@ -61,7 +61,7 @@ export const playedSheetRows = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "Resources stating a display order come first, in that order, and the rest follow by name.",
+        "Attributes and resources stating a display order come first, in it, and the rest by name.",
     },
     {
       decisionKind: "decision-kind/departure",

@@ -73,6 +73,44 @@ test("pages sharing one type are named by what each slug adds to the character's
   })
 })
 
+test("attributes stating a display order come first in that order, and the rest by name", () => {
+  const holder = "character-player/some-nala"
+  const rows = [
+    { values: { type: "some-stat", value: 1, title: "Heart", displayOrder: 5, character: holder } },
+    { values: { type: "some-stat", value: 2, title: "Grace", displayOrder: 3, character: holder } },
+    { values: { type: "some-stat", value: 3, title: "Luck", character: holder } },
+    {
+      values: {
+        type: "some-stat",
+        value: 4,
+        title: "Strength",
+        displayOrder: 1,
+        character: holder,
+      },
+    },
+    { values: { type: "some-stat", value: 5, title: "Wits", displayOrder: 4, character: holder } },
+    { values: { type: "some-stat", value: 6, title: "Charm", character: holder } },
+    {
+      values: {
+        type: "some-stat",
+        value: 7,
+        title: "Toughness",
+        displayOrder: 2,
+        character: holder,
+      },
+    },
+  ]
+  expect(Object.keys(scoresIn(rows).attributes)).toEqual([
+    "STRENGTH",
+    "TOUGHNESS",
+    "GRACE",
+    "WITS",
+    "HEART",
+    "CHARM",
+    "LUCK",
+  ])
+})
+
 test("a resource is named by its kind, by what its slug adds, or by its title, and counts against its most", () => {
   const holder = "character-player/some-nala"
   const rows = [

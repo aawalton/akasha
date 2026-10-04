@@ -239,7 +239,15 @@ async function readFiled(
     askedLoudly({
       "page-type": metricCharacterAttribute.slug,
       where: { character: { is: character } },
-      keys: [TYPE_KEY, CHARACTER_KEY, VALUE_KEY, SLUG_KEY, TITLE_KEY, UNREVEALED_KEY],
+      keys: [
+        TYPE_KEY,
+        CHARACTER_KEY,
+        VALUE_KEY,
+        SLUG_KEY,
+        TITLE_KEY,
+        DISPLAY_ORDER_KEY,
+        UNREVEALED_KEY,
+      ],
     }),
     askedLoudly({
       "page-type": worldSkill.slug,
