@@ -5,6 +5,7 @@ export const fairweatherLanternmere = {
   type: "page-type/place",
   slug: "fairweather-lanternmere",
   title: "Lanternmere",
+  cover: "image/image-f00952ec43ad7bf7",
   world: "world/fairweather",
   facts: [
     {

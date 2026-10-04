@@ -5,6 +5,7 @@ export const fairweatherUnderbloom = {
   type: "page-type/place",
   slug: "fairweather-underbloom",
   title: "The Underbloom",
+  cover: "image/image-e5de1f0231beecef",
   world: "world/fairweather",
   within: "place/fairweather-lanternmere",
   facts: [

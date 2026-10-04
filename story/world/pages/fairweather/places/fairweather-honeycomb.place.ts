@@ -5,6 +5,7 @@ export const fairweatherHoneycomb = {
   type: "page-type/place",
   slug: "fairweather-honeycomb",
   title: "The Honeycomb",
+  cover: "image/image-bfcce933d8b9acf1",
   world: "world/fairweather",
   within: "place/fairweather-lanternmere",
   facts: [

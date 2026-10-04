@@ -5,6 +5,7 @@ export const fairweatherHallOfNaming = {
   type: "page-type/place",
   slug: "fairweather-hall-of-naming",
   title: "The Hall of Naming",
+  cover: "image/image-80f9dc44ffe50a7a",
   world: "world/fairweather",
   within: "place/fairweather-lanternmere",
   facts: [

@@ -5,6 +5,7 @@ export const fairweatherGlasswood = {
   type: "page-type/place",
   slug: "fairweather-glasswood",
   title: "The Glasswood",
+  cover: "image/image-ccda76860d168e50",
   world: "world/fairweather",
   facts: [
     {

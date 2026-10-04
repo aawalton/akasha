@@ -5,6 +5,7 @@ export const fairweatherCrookedKettle = {
   type: "page-type/place",
   slug: "fairweather-crooked-kettle",
   title: "The Crooked Kettle",
+  cover: "image/image-5766cbcfcaaaae3e",
   world: "world/fairweather",
   within: "place/fairweather-lanternmere",
   facts: [

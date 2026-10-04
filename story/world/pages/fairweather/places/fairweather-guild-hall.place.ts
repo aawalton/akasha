@@ -5,6 +5,7 @@ export const fairweatherGuildHall = {
   type: "page-type/place",
   slug: "fairweather-guild-hall",
   title: "The Guild Hall",
+  cover: "image/image-1a035334afa7d475",
   world: "world/fairweather",
   within: "place/fairweather-lanternmere",
   facts: [
