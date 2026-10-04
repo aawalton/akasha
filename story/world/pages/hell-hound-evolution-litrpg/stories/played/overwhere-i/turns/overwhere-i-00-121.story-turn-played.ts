@@ -7,10 +7,11 @@ export const overwhereI00121 = {
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-i"],
   position: 121,
-  stepStatus: "step-status/mechanics",
+  stepStatus: "step-status/game-master",
   action:
     "“Sure, that sounds fine. What’s on the East road that needs killing again? So I’m not going in blind.”",
   beats: "jsonl",
+  mechanicsIssues: "txt",
   lore: [
     "lore/overwhere-i-odile-varne",
     "lore/overwhere-i-the-deserter-crew",
@@ -18,6 +19,6 @@ export const overwhereI00121 = {
     "lore/overwhere-i-the-deserter-crew-3",
     "lore/overwhere-i-the-deserter-crew-4",
   ],
-  recordedBy: ["story-recorder/mechanics", "story-recorder/inventory"],
+  recordedBy: ["story-recorder/mechanics", "story-recorder/inventory", "story-recorder/plan"],
   endsAt: "2026-10-07T12:48:00.000Z",
 } as const satisfies StoryTurnPlayed
