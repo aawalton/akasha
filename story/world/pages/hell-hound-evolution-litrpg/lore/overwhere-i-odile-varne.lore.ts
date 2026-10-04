@@ -155,6 +155,10 @@ export const overwhereIOdileVarne = {
         "lore/overwhere-i-odile-varne",
       ],
     },
+    {
+      fact: "Weigh Words feels Nala's 'no home, no lord, no papers' believed, but 'born in the wilds' not.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
