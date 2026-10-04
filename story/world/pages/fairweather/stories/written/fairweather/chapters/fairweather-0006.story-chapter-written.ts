@@ -1,0 +1,14 @@
+import type { StoryChapterWritten } from "akasha/story/world/stories/written/chapters/story-chapter-written.page-type.types.ts"
+
+export const fairweather0006 = {
+  id: "01a1070a-363d-7d0f-9bf9-b365bd8a2efa",
+  type: "page-type/story-chapter-written",
+  slug: "fairweather-0006",
+  position: 6,
+  unit: "unit/words",
+  title: "Chapter 6",
+  story: "story-written/fairweather",
+  ownLength: 0,
+  prose: "txt",
+  stepStatus: "step-status/world-builder",
+} as const satisfies StoryChapterWritten
