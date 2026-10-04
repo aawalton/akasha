@@ -83,6 +83,10 @@ export const overwhereIOdileVarne = {
       fact: "Weighing Nala's answer, Varne feels it believed, and takes it that Nala never read the letter.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "She did not know Ivo dealt with Voss; tried for it, Ivo could bring her own share to light.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
