@@ -5,7 +5,7 @@ export const hollowmere0029AskingNotGrabbing = {
   type: "page-type/story-chapter-written",
   slug: "hollowmere-0029-asking-not-grabbing",
   cover: "image/image-7464b8b3e2753294",
-  ownProgress: 3298,
+  ownProgress: 3406,
   position: 29,
   unit: "unit/words",
   title: "Asking, Not Grabbing",
