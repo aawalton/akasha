@@ -35,10 +35,6 @@ export const fairweatherTamsin = {
       ],
     },
     {
-      fact: "Tamsin has small firm freckled breasts with rosy nipples, and copper curls over her pussy.",
-      knowers: ["lore-disclosure/game-master", "character-other/fairweather-tamsin"],
-    },
-    {
       fact: "Tamsin wears a sleeveless battered leather jerkin, knuckle wraps, dark trousers and scuffed boots.",
       knowers: ["lore-disclosure/game-master", "character-other/fairweather-tamsin"],
     },
