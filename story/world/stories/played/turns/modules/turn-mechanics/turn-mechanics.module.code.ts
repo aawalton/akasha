@@ -82,7 +82,6 @@ export function mechanicked(
   const back = all && issues.length > 0
   const values = {
     recordedBy: recordedBy.map((one) => `${storyRecorder.slug}${PARTED}${one}`),
-    mechanicsSentBack: undefined,
     ...(issues.length === 0 ? {} : { mechanicsIssues: ISSUES_HELD }),
   }
   const body = changes.length === 0 ? null : changesMerged(held.changes ?? [], changes)

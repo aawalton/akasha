@@ -67,18 +67,11 @@ test("issues from any seat send the turn back once every seat has handed in", ()
   expect(last.changes).toBeNull()
 })
 
-test("mechanics sends a turn back every time issues stand, however often it has before", () => {
+test("mechanics sends a turn back every time issues remain, and on where none do", () => {
   const issues = ["beat 2 spends no draught"]
-  const held = heldAt("mechanics", {
-    beats: 2,
-    recordedBy: ["inventory"],
-    mechanicsIssues: issues,
-    mechanicsSentBack: true,
-  })
+  const held = heldAt("mechanics", { beats: 2, recordedBy: ["inventory"], mechanicsIssues: issues })
   const again = doneOf(mechanicked(held, { kind: "record", recorder: "mechanics" }, STEPPED))
   expect(again.next).toBe("game-master")
-  expect("mechanicsSentBack" in again.values).toBe(true)
-  expect(again.values["mechanicsSentBack"]).toBeUndefined()
   const clean = heldAt("mechanics", { beats: 2, recordedBy: ["inventory"] })
   const on = doneOf(mechanicked(clean, { kind: "record", recorder: "mechanics" }, STEPPED))
   expect(on.next).toBe("on")

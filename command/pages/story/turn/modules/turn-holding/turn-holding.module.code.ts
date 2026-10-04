@@ -29,8 +29,6 @@ const RECORDED_BY = "recordedBy"
 
 const MECHANICS_ISSUES = "mechanicsIssues"
 
-const MECHANICS_SENT_BACK = "mechanicsSentBack"
-
 const PROSE = "prose"
 
 const STORY = "story"
@@ -99,6 +97,5 @@ export function heldOf(turn: Turn, textOf: TextOf = () => ""): Held | { readonly
     recordedBy: stringsIn(turn.value[RECORDED_BY]).map(bareOf),
     written: turn.value[PROSE] !== undefined && turn.value[OWN_LENGTH] !== 0,
     mechanicsIssues: linesBeside(turn, MECHANICS_ISSUES, mechanicsIssuesFile.propertySlug, textOf),
-    mechanicsSentBack: turn.value[MECHANICS_SENT_BACK] === true,
   }
 }

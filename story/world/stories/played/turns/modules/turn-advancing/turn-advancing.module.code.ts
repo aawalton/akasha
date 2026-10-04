@@ -182,7 +182,6 @@ function fromBeats(
     beats: HELD_LINES,
     recordedBy: namedAs(STORY_RECORDER, recordedBy),
     mechanicsIssues: undefined,
-    mechanicsSentBack: undefined,
   }
   const moving = { planned: { beats, scenes } }
   const mechanics = leftOf(staff.mechanics, recordedBy)

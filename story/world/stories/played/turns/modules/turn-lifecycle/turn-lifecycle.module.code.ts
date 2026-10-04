@@ -99,7 +99,6 @@ export type Held = {
   readonly beats?: number
   readonly proseOnBeats?: boolean
   readonly mechanicsIssues?: readonly string[]
-  readonly mechanicsSentBack?: boolean
   readonly changes?: readonly BeatChange[]
   readonly memory?: readonly Memory[]
   readonly planned?: Planned

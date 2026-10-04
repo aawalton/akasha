@@ -15,7 +15,6 @@ export const fairweather0001TheHallOfNaming = {
   stepStatus: "step-status/player",
   beats: "jsonl",
   mechanicsIssues: "txt",
-  mechanicsSentBack: true,
   issues: "txt",
   lore: [
     "lore/fairweather-cora",

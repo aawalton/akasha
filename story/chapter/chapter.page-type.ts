@@ -19,7 +19,6 @@ export const chapter = {
     "multi-relation-property/step-lore",
     "multi-relation-property/step-reviewed-by",
     "multi-relation-property/step-recorded-by",
-    "boolean-property/step-mechanics-sent-back",
   ],
   properties: [
     { pageProperty: "text-property/title", required: true, many: false },
@@ -29,11 +28,6 @@ export const chapter = {
     { pageProperty: "relation-property/step-status", required: false, many: false },
     { pageProperty: "file-property/beats", required: false, many: false },
     { pageProperty: "file-property/mechanics-issues", required: false, many: false },
-    {
-      pageProperty: "boolean-property/step-mechanics-sent-back",
-      required: false,
-      many: false,
-    },
     { pageProperty: "file-property/issues", required: false, many: false },
     {
       pageProperty: "multi-relation-property/step-lore",

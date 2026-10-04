@@ -157,7 +157,7 @@ test("a game master's first run on a chapter holding no mechanics issues clears 
   const said = advanced(held, MASTER, handed, [], ["mechanics"], [], ADMITTED, ["mechanics"])
   if ("refused" in said) throw new Error(said.refused)
   const cleared = clearedOf({ ...said.values, title: "The Gate" }, said)
-  expect(cleared.clears).toEqual(["recordedBy", "mechanicsIssues", "mechanicsSentBack"])
+  expect(cleared.clears).toEqual(["recordedBy", "mechanicsIssues"])
   expect(Object.keys(cleared.values)).toEqual(["stepStatus", "beats", "title"])
   expect(clearedOf({ title: "The Gate" }, movedOf({}))).toEqual({ values: { title: "The Gate" } })
 })
