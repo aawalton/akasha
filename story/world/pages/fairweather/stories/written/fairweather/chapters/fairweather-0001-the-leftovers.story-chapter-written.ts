@@ -49,7 +49,7 @@ export const fairweather0001TheLeftovers = {
     "image/image-969453b6884f7325",
     "image/image-d2f9da4e4eecaf9c",
     "image/image-3a7f4ff4f7fb9b7c",
-    "image/image-678ab0069b41448c",
+    "image/image-4fba877fd8840adb",
     "image/image-f726a9eda17b1573",
     "image/image-47f9739eeffe1b2c",
     "image/image-896189debf45923e",
