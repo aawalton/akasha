@@ -187,6 +187,30 @@ export const overwhereIOdileVarne = {
       fact: "Writing the papers and swearing the oath take about a quarter hour; swearing opens no System window.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "A sworn hunter of Wendlow answers Varne's bench against outlaws and beasts, paid at Board rates.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-i-nala",
+        "lore/overwhere-i-odile-varne",
+      ],
+    },
+    {
+      fact: "Varne's sworn hunters pay no fee for their papers, and pass Wendlow's gate without toll.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-i-nala",
+        "lore/overwhere-i-odile-varne",
+      ],
+    },
+    {
+      fact: "A sworn hunter's oath is spoken with one hand on the town book, the clerk to witness, then sealed.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-i-nala",
+        "lore/overwhere-i-odile-varne",
+      ],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore

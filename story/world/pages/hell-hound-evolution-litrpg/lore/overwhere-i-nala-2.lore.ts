@@ -267,5 +267,21 @@ export const overwhereINala2 = {
         "lore/overwhere-i-odile-varne",
       ],
     },
+    {
+      fact: "Nala told Varne she was born in the wilds, with no home, no lord and no papers.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-i-nala",
+        "lore/overwhere-i-odile-varne",
+      ],
+    },
+    {
+      fact: "Nala's papers name her home Wendlow and her lord the margrave, served through Varne's bench.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-i-nala",
+        "lore/overwhere-i-odile-varne",
+      ],
+    },
   ],
 } as const satisfies Lore
