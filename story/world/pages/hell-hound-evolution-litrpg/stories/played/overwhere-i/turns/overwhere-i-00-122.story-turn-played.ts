@@ -17,6 +17,6 @@ export const overwhereI00122 = {
     "lore/overwhere-i-the-deserter-crew-4",
     "place/overwhere-i-greyback-and-east-road",
   ],
-  recordedBy: ["story-recorder/inventory"],
+  recordedBy: ["story-recorder/inventory", "story-recorder/mechanics"],
   endsAt: "2026-10-07T14:28:00.000Z",
 } as const satisfies StoryTurnPlayed
