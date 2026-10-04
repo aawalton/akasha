@@ -1,4 +1,5 @@
 import {
+  answerFrom,
   betweenRequests,
   fetchHtml,
   royalRoadUrl,
@@ -89,29 +90,28 @@ export async function signedIn(root: string): Promise<string> {
   const { email, password } = account(root)
   const jar: Jar = new Map()
   const url = royalRoadUrl(SIGN_IN)
-  const form = await fetch(url, { headers: { "user-agent": USER_AGENT } })
+  const form = await answerFrom(url, { "user-agent": USER_AGENT })
   kept(jar, form)
   const token = tokenIn(await form.text())
   if (token === null) {
     throw new SignInRefused(`${url} answered ${form.status} with no sign-in form to fill`)
   }
   await betweenRequests()
-  const answer = await fetch(url, {
-    method: "POST",
-    redirect: "manual",
-    headers: {
+  const answer = await answerFrom(
+    url,
+    {
       "user-agent": USER_AGENT,
       "content-type": "application/x-www-form-urlencoded",
       cookie: cookieOf(jar),
     },
-    body: new URLSearchParams({
+    new URLSearchParams({
       __RequestVerificationToken: token,
       ReturnUrl: "",
       Email: email,
       Password: password,
       Remember: "false",
-    }),
-  })
+    })
+  )
   kept(jar, answer)
   if (!jar.has(SIGNED_IN)) {
     throw new SignInRefused(

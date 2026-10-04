@@ -42,5 +42,13 @@ export const royalRoadPages = {
       decisionKind: "decision-kind/departure",
       statement: "A request Royal Road answers with a refusal is not sent again.",
     },
+    {
+      decisionKind: "decision-kind/constraint",
+      statement: "Royal Road challenges a request sent by the runtime's own fetch.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Every request to Royal Road is sent by curl.",
+    },
   ],
 } as const satisfies Module

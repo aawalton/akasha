@@ -233,14 +233,43 @@ export function parseChapterProse(html: string): ProseRead {
   return { ok: true, text, wordCount: countChapterWords(text) }
 }
 
+const NO_BODY = new Set([101, 103, 204, 205, 304])
+
+export async function answerFrom(
+  url: string,
+  headers: Readonly<Record<string, string>>,
+  form?: URLSearchParams
+): Promise<Response> {
+  const args = ["curl", "--silent", "--show-error", "--include", "--compressed", "--max-time", "45"]
+  for (const [name, value] of Object.entries(headers)) args.push("--header", `${name}: ${value}`)
+  if (form !== undefined) args.push("--data-binary", "@-")
+  args.push(url)
+  const run = Bun.spawn(args, { stdin: "pipe", stdout: "pipe", stderr: "pipe" })
+  if (form !== undefined) await run.stdin.write(form.toString())
+  await run.stdin.end()
+  const [out, err, code] = await Promise.all([
+    new Response(run.stdout).text(),
+    new Response(run.stderr).text(),
+    run.exited,
+  ])
+  if (code !== 0) throw new Error(`curl exited ${code} for ${url}: ${err.trim()}`)
+  const split = out.indexOf("\r\n\r\n")
+  const head = (split < 0 ? out : out.slice(0, split)).split("\r\n")
+  const status = Number(head[0]?.split(" ")[1])
+  const answered = new Headers()
+  for (const line of head.slice(1)) {
+    const at = line.indexOf(":")
+    if (at > 0) answered.append(line.slice(0, at).trim(), line.slice(at + 1).trim())
+  }
+  const body = NO_BODY.has(status) || split < 0 ? null : out.slice(split + 4)
+  return new Response(body, { status, headers: answered })
+}
+
 function answerTo(url: string, cookie: string | undefined): Promise<Response> {
-  return fetch(url, {
-    headers: {
-      "user-agent": USER_AGENT,
-      accept: "text/html,application/xhtml+xml",
-      ...(cookie === undefined ? {} : { cookie }),
-    },
-    signal: AbortSignal.timeout(45_000),
+  return answerFrom(url, {
+    "user-agent": USER_AGENT,
+    accept: "text/html,application/xhtml+xml",
+    ...(cookie === undefined ? {} : { cookie }),
   })
 }
 
