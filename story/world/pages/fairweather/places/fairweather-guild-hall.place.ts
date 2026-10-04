@@ -108,6 +108,22 @@ export const fairweatherGuildHall = {
       ],
     },
     {
+      fact: "From the fifth the F-rank board has: a lost cat on the rooftops of Tanner's Row, two lanterns.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "From the fifth the F-rank board has: escort a flower cart round the lake villages, five lanterns.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "From the fifth the F-rank board has: glowcaps from the Underbloom for a dyer, four lanterns.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "By morning the guild hall has heard that an Enthraller's Tether turned a Berserker in her Frenzy.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
       fact: "An apothecary pays on delivery, and the guild pays out later.",
       knowers: [
         "lore-disclosure/game-master",
