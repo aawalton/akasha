@@ -1,0 +1,2 @@
+continuity: beat 10 memory: Nala learns felting costs 10 mana a minute - the prose never shows the cost
+continuity: beat 23 memory: Nala learns Varne governs for the margrave - the prose never shows that
