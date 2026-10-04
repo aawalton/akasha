@@ -223,5 +223,9 @@ export const overwhereIOdileVarne = {
       fact: "Speaking true binds a sworn hunter to answer the bench truly about what she has seen on its roads.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "A sworn hunter goes where she likes and hunts for whom she likes; the oath ties her to no town.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
