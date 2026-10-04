@@ -74,21 +74,11 @@ export const fairweatherTilly = {
     },
     {
       fact: "Tilly's father is a clockmaker on Gear Street who thinks she is still at the College.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-other/fairweather-tilly",
-        "character-player/fairweather-elsie",
-        "character-other/fairweather-tamsin",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/fairweather-tilly"],
     },
     {
       fact: "Tilly lodges in a boarding house on Pickle Row, in a room that smells of sulphur.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-other/fairweather-tilly",
-        "character-player/fairweather-elsie",
-        "character-other/fairweather-tamsin",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/fairweather-tilly"],
     },
     {
       fact: "Tilly has never been sure whether she likes girls or just likes them very much.",
