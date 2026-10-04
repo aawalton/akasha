@@ -11,7 +11,7 @@ export const fairweather0003AGoatLantern = {
   story: "story-written/fairweather",
   ownLength: 8674,
   prose: "txt",
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/reviewers",
   beats: "jsonl",
   issues: "txt",
   lore: [
@@ -36,6 +36,7 @@ export const fairweather0003AGoatLantern = {
     "story-recorder/mechanics",
     "story-recorder/inventory",
     "story-recorder/memory",
+    "story-recorder/picture",
   ],
   rulings: "jsonl",
   scenes: [
