@@ -11,4 +11,5 @@ export const overwhereI00118 = {
   action:
     "“Only you and Grete as far as I’m aware. I figured with the seal it must be something someone cared about, but it’s not something I can hunt, so I never bothered to look inside.”",
   lore: ["lore/overwhere-i-odile-varne"],
+  endsAt: "2026-10-07T12:20:00.000Z",
 } as const satisfies StoryTurnPlayed
