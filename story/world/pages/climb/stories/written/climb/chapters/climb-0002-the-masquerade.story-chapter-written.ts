@@ -5,7 +5,8 @@ export const climb0002TheMasquerade = {
   type: "page-type/story-chapter-written",
   slug: "climb-0002-the-masquerade",
   cover: "image/image-b35428ee72353d13",
-  ownProgress: 389,
+  completedAt: "2026-10-04T15:14:13.091Z",
+  ownProgress: 2638,
   scenes: [
     "image/image-cdca08634e3a03b1",
     "image/image-9d40b6ffd0d47327",
