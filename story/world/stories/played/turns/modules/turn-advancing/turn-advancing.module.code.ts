@@ -32,6 +32,7 @@ import {
   PLAYER,
   RECORDERS,
   REVIEWERS,
+  type Ruling,
   type Staff,
   type Start,
   TURN,
@@ -49,6 +50,9 @@ import {
   type Recorded,
   raisedAs,
   raiserOf,
+  ruledOut,
+  rulingsJoined,
+  unruled,
 } from "akasha/story/world/stories/played/turns/modules/turn-mechanics/turn-mechanics.module.code.ts"
 import {
   proseTaken,
@@ -89,7 +93,7 @@ const TAKES: Readonly<{ [step in TurnStep]: Kind | null }> = {
 
 const SAID_AS: Readonly<{ [kind in Kind]: string }> = {
   lore: "the lore pages it landed (`--lore`, or none)",
-  beats: "the beats (`--beats-file`)",
+  beats: "the beats (`--beats-file`, with `--rulings-file` or none)",
   review: "one reviewer's issues (`--reviewer`, with `--issues-file` or none)",
   prose: "the prose (`--prose-file`, with `--character`)",
   record:
@@ -166,24 +170,69 @@ function fromWorldBuilder(held: Held, lore: readonly string[], admitted: Admitte
   return moved(GAME_MASTER, kept.length === 0 ? {} : { lore: kept })
 }
 
-function fromBeats(
+type Ruled = {
+  readonly held: Held
+  readonly values: Readonly<{ [key: string]: unknown }>
+  readonly moving: Moving
+}
+
+function ruledOver(
   held: Held,
+  rulings: readonly Ruling[],
+  reviewers: readonly string[]
+): Ruled | { readonly refused: string } {
+  if (rulings.length === 0) return { held, values: {}, moving: {} }
+  const lines = [...held.issues, ...(held.mechanicsIssues ?? [])]
+  const stray = rulings.findIndex((one) => !lines.includes(one.issue))
+  if (stray >= 0) {
+    return { refused: `ruling ${stray + 1} names no issue line the ${nounOf(held)} holds` }
+  }
+  const issues = unruled(held.issues, rulings)
+  const mechanicsIssues = unruled(held.mechanicsIssues ?? [], rulings)
+  const raisers = (of: readonly string[]) => of.flatMap((one) => raiserOf(one, reviewers) ?? [])
+  const live = raisers(issues)
+  const settled = raisers(held.issues).filter(
+    (one, at, all) => all.indexOf(one) === at && !live.includes(one)
+  )
+  const reviewedBy = [...held.reviewedBy, ...leftOf(settled, held.reviewedBy)]
+  const changed = issues.length !== held.issues.length
+  const values = {
+    rulings: HELD_LINES,
+    ...(reviewedBy.length > held.reviewedBy.length
+      ? { reviewedBy: namedAs(STORY_REVIEWER, reviewedBy) }
+      : {}),
+    ...(changed ? { issues: issues.length > 0 ? PROSE_HELD : undefined } : {}),
+  }
+  const moving = {
+    rulings: rulingsJoined(held.rulings ?? [], rulings),
+    ...(changed && issues.length > 0 ? { issues } : {}),
+  }
+  return { held: { ...held, issues, mechanicsIssues, reviewedBy }, values, moving }
+}
+
+function fromBeats(
+  given: Held,
   beats: readonly string[],
   scenes: readonly BeatScene[],
+  rulings: readonly Ruling[],
   staff: Staff
 ): Advanced {
   if (beats.length === 0) {
     return { refused: "a game master's advance hands in beats, and this has none" }
   }
-  const wrong = beatsRefused(beats, held)
+  const wrong = beatsRefused(beats, given)
   if (wrong !== null) return { refused: wrong }
+  const ruled = ruledOver(given, rulings, staff.reviewers)
+  if ("refused" in ruled) return ruled
+  const held = ruled.held
   const recordedBy = recordedAfter(held, { beats, scenes }, staff)
   const values = {
     beats: HELD_LINES,
     recordedBy: namedAs(STORY_RECORDER, recordedBy),
     mechanicsIssues: undefined,
+    ...ruled.values,
   }
-  const moving = { planned: { beats, scenes } }
+  const moving = { planned: { beats, scenes }, ...ruled.moving }
   const mechanics = leftOf(staff.mechanics, recordedBy)
   if (mechanics.length === 0) return moved(WRITER, values, moving)
   const starts = mechanics.map((recorder): Start => ({ kind: "mechanics", recorder }))
@@ -199,9 +248,11 @@ function recordedAfter(held: Held, planned: Planned, staff: Staff): readonly str
 function fromReviewer(
   held: Held,
   reviewer: string,
-  found: readonly string[],
+  raised: readonly string[],
   staff: Staff
 ): Advanced {
+  const rulings = held.rulings ?? []
+  const found = raised.filter((one) => !ruledOut(raisedAs(reviewer, one), rulings))
   const reviewers = staff.reviewers
   if (!reviewers.includes(reviewer)) {
     return {
@@ -327,7 +378,9 @@ export function advanced(
   }
   const staff = { reviewers, recorders: leftOf(recorders, mechanics), mechanics }
   if (handed.kind === "lore") return fromWorldBuilder(held, handed.lore, admitted)
-  if (handed.kind === "beats") return fromBeats(held, handed.beats, handed.scenes ?? [], staff)
+  if (handed.kind === "beats") {
+    return fromBeats(held, handed.beats, handed.scenes ?? [], handed.rulings ?? [], staff)
+  }
   if (handed.kind === "review") return fromReviewer(held, handed.reviewer, handed.issues, staff)
   if (handed.kind === "record") return fromRecorder(held, handed, staff)
   return fromProse(held, handed, staff, cast, admitted)

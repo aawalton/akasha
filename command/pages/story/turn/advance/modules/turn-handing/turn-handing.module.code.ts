@@ -9,6 +9,7 @@ import { playedTurn } from "akasha/command/argument/pages/played-turn.argument.t
 import { proseFile } from "akasha/command/argument/pages/prose-file.argument.ts"
 import { recorder as recorderArgument } from "akasha/command/argument/pages/recorder.argument.ts"
 import { reviewer as reviewerArgument } from "akasha/command/argument/pages/reviewer.argument.ts"
+import { rulingsFile } from "akasha/command/argument/pages/rulings-file.argument.ts"
 import { title as titleArgument } from "akasha/command/argument/pages/title.argument.ts"
 import { turnLore } from "akasha/command/argument/pages/turn-lore.argument.ts"
 import { writtenChapter } from "akasha/command/argument/pages/written-chapter.argument.ts"
@@ -27,12 +28,14 @@ import {
   type Handed,
   linesIn,
 } from "akasha/story/world/stories/played/turns/modules/turn-lifecycle/turn-lifecycle.module.code.ts"
+import { rulingsIn } from "akasha/story/world/stories/played/turns/modules/turn-mechanics/turn-mechanics.module.code.ts"
 
 const NAMED = [
   playedTurn,
   writtenChapter,
   turnLore,
   beatsFile,
+  rulingsFile,
   reviewerArgument,
   issuesFile,
   proseFile,
@@ -105,6 +108,7 @@ function titleRefused(chapter: boolean, handed: Handed, title: string | undefine
 type Said = {
   readonly turnLore: readonly string[]
   readonly beatsFile?: string | undefined
+  readonly rulingsFile?: string | undefined
   readonly reviewer?: string | undefined
   readonly issuesFile?: string | undefined
   readonly proseFile?: string | undefined
@@ -121,7 +125,7 @@ function kindsIn(said: Said): readonly Handed["kind"][] {
     (one) => one !== undefined
   )
   if (said.turnLore.length > 0) kinds.push("lore")
-  if (said.beatsFile !== undefined) kinds.push("beats")
+  if (said.beatsFile !== undefined || said.rulingsFile !== undefined) kinds.push("beats")
   if (said.reviewer !== undefined || (said.issuesFile !== undefined && !recording)) {
     kinds.push("review")
   }
@@ -170,6 +174,31 @@ function reviewIn(root: string, said: Said): Handed | Refusal {
   return "refused" in read ? read : { kind: "review", reviewer, issues: linesIn(read.text) }
 }
 
+function rulingsAt(root: string, path: string | undefined) {
+  const read = linesAt(root, rulingsFile.said, path)
+  if ("refused" in read) return read
+  const rulings = rulingsIn(read.lines)
+  return "refused" in rulings ? { refused: [rulings.refused] } : { rulings }
+}
+
+function beatsIn(root: string, said: Said): Handed | Refusal {
+  if (said.beatsFile === undefined) {
+    return {
+      refused: [
+        `a game master hands in its rulings at \`${rulingsFile.said}\` with its beats at \`${beatsFile.said}\`, and this names no beats`,
+      ],
+    }
+  }
+  const read = heldAt(root, beatsFile.said, said.beatsFile)
+  if ("refused" in read) return read
+  const planned = plannedIn(linesIn(read.text))
+  if ("refused" in planned) return { refused: [planned.refused] }
+  const ruling = rulingsAt(root, said.rulingsFile)
+  if ("refused" in ruling) return ruling
+  const rulings = ruling.rulings.length === 0 ? {} : { rulings: ruling.rulings }
+  return { kind: "beats", ...planned, ...rulings }
+}
+
 function characterRefused(said: Said): Refusal | null {
   if (said.character.length === 0 || said.proseFile !== undefined) return null
   const others = kindsIn({ ...said, character: [] })
@@ -194,12 +223,7 @@ function handedFrom(root: string, said: Said): Handed | Refusal {
   if (kind === "lore") return { kind, lore: said.turnLore }
   if (kind === "review") return reviewIn(root, said)
   if (kind === "record") return recordIn(root, said)
-  if (kind === "beats" && said.beatsFile !== undefined) {
-    const read = heldAt(root, beatsFile.said, said.beatsFile)
-    if ("refused" in read) return read
-    const planned = plannedIn(linesIn(read.text))
-    return "refused" in planned ? { refused: [planned.refused] } : { kind, ...planned }
-  }
+  if (kind === "beats") return beatsIn(root, said)
   if (said.proseFile === undefined) {
     return {
       refused: [

@@ -60,12 +60,15 @@ const LINES = /\r?\n/
 
 const LAST_NUMBER = /^(.*?)(\d+)$/
 
+export type Ruling = { readonly issue: string; readonly reason: string }
+
 export type Handed =
   | { readonly kind: "lore"; readonly lore: readonly string[] }
   | {
       readonly kind: "beats"
       readonly beats: readonly string[]
       readonly scenes?: readonly BeatScene[]
+      readonly rulings?: readonly Ruling[]
     }
   | { readonly kind: "review"; readonly reviewer: string; readonly issues: readonly string[] }
   | {
@@ -101,6 +104,7 @@ export type Held = {
   readonly beats?: number
   readonly proseOnBeats?: boolean
   readonly mechanicsIssues?: readonly string[]
+  readonly rulings?: readonly Ruling[]
   readonly changes?: readonly BeatChange[]
   readonly memory?: readonly Memory[]
   readonly planned?: Planned
@@ -124,6 +128,7 @@ export type Moved = {
   readonly pictured?: readonly Pictured[] | null
   readonly issues?: readonly string[] | null
   readonly mechanicsIssues?: readonly string[] | null
+  readonly rulings?: readonly Ruling[] | null
   readonly starts: readonly Start[]
   readonly landsKept: boolean
 }
@@ -146,6 +151,7 @@ export type Moving = {
   readonly pictured?: readonly Pictured[] | null
   readonly issues?: readonly string[] | null
   readonly mechanicsIssues?: readonly string[] | null
+  readonly rulings?: readonly Ruling[] | null
   readonly landsKept?: boolean
 }
 
@@ -163,6 +169,7 @@ export function moved(status: TurnStep, values: Values, moving: Moving = {}): Mo
     pictured: moving.pictured ?? null,
     issues: moving.issues ?? null,
     mechanicsIssues: moving.mechanicsIssues ?? null,
+    rulings: moving.rulings ?? null,
     starts: moving.starts ?? [],
     landsKept: moving.landsKept ?? false,
   }
@@ -173,7 +180,7 @@ export function leftOf(all: readonly string[], done: readonly string[]): readonl
 }
 
 export function published(values: Values): Values {
-  return { ...values, issues: undefined, mechanicsIssues: undefined }
+  return { ...values, issues: undefined, mechanicsIssues: undefined, rulings: undefined }
 }
 
 export function toRecorders(values: Values, recorders: readonly string[], moving: Moving): Moved {
@@ -280,14 +287,35 @@ export function linesIn(text: string): readonly string[] {
     .filter((one) => one !== "")
 }
 
-export type Repair = { readonly file: string; readonly faults: number }
+export type Repair = { readonly file: string; readonly faults: number; readonly ruled?: true }
 
-export function repairSaid(noun: Noun, repairs: readonly Repair[]): string {
-  const listed = repairs.map(
+export const PROSE_UNASKED = "A ruled-out issue asks nothing of the prose."
+
+function faultsSaid(noun: Noun, faults: readonly Repair[]): readonly string[] {
+  if (faults.length === 0) return []
+  const listed = faults.map(
     (one) => `- \`${one.file}\`, listing ${one.faults} fault${one.faults === 1 ? "" : "s"}`
   )
-  const opening = `This ${noun} came back for repair, not to be made again: mend each fault where it lands and keep the rest as it is. The faults are in the file${repairs.length === 1 ? "" : "s"} beside it:`
-  return [opening, ...listed].join(BREAK)
+  const opening = `This ${noun} came back for repair, not to be made again: mend each fault where it lands and keep the rest as it is. The faults are in the file${faults.length === 1 ? "" : "s"} beside it:`
+  return [opening, ...listed]
+}
+
+function rulingSaid(one: Repair): string {
+  const issues = `${one.faults} issue${one.faults === 1 ? "" : "s"}`
+  return `The game master has the final say, and ruled out ${issues} in \`${one.file}\`, each a json line naming the issue and the reason: a ruled-out issue is ended.`
+}
+
+export function ruledIn(repairs: readonly Repair[]): boolean {
+  return repairs.some((one) => one.ruled === true)
+}
+
+export function repairSaid(noun: Noun, repairs: readonly Repair[]): string {
+  const faults = faultsSaid(
+    noun,
+    repairs.filter((one) => one.ruled !== true)
+  )
+  const rulings = repairs.filter((one) => one.ruled === true).map(rulingSaid)
+  return [...faults, ...rulings].join(BREAK)
 }
 
 export function noticeOf(
@@ -299,6 +327,7 @@ export function noticeOf(
 ): string {
   const said = [`The ${noun} \`${turn}\` is at ${step}.`]
   if (repairs.length > 0) said.push("", repairSaid(noun, repairs))
+  if (step === WRITER && ruledIn(repairs)) said.push(PROSE_UNASKED)
   if (changed.length === 0) return said.join(BREAK)
   const listed = changed.map((one) => `- \`${one}\``)
   return [...said, "", "These lore pages have changed since you last read them:", ...listed].join(

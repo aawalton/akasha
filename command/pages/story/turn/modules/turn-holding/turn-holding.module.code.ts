@@ -3,6 +3,7 @@ import type { Turn } from "akasha/command/pages/story/turn/modules/turn-reaching
 import { besideAt } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
 import { issues as issuesFile } from "akasha/story/chapter/properties/issues.file-property.ts"
 import { mechanicsIssues as mechanicsIssuesFile } from "akasha/story/chapter/properties/mechanics-issues.file-property.ts"
+import { rulings as rulingsFile } from "akasha/story/chapter/properties/rulings.file-property.ts"
 import { storyPlayed } from "akasha/story/world/stories/played/story-played.page-type.ts"
 import {
   bareOf,
@@ -11,8 +12,10 @@ import {
   linesIn,
   type Moved,
   type Repair,
+  type Ruling,
   stepIn,
 } from "akasha/story/world/stories/played/turns/modules/turn-lifecycle/turn-lifecycle.module.code.ts"
+import { rulingsIn } from "akasha/story/world/stories/played/turns/modules/turn-mechanics/turn-mechanics.module.code.ts"
 import { storyWritten } from "akasha/story/world/stories/written/story-written.page-type.ts"
 
 const COLLECTIONS = "partOfCollections"
@@ -28,6 +31,10 @@ const REVIEWED_BY = "reviewedBy"
 const RECORDED_BY = "recordedBy"
 
 const MECHANICS_ISSUES = "mechanicsIssues"
+
+const RULINGS = "rulings"
+
+const RULINGS_HELD = "jsonl"
 
 const PROSE = "prose"
 
@@ -56,14 +63,20 @@ function linesBeside(turn: Turn, key: string, propertySlug: string, textOf: Text
 
 const ISSUES_HELD = "txt"
 
-function linesLeft(
+function linesLeft<Line>(
   said: Moved,
   key: string,
-  lines: readonly string[] | null | undefined,
-  was: readonly string[]
-): readonly string[] {
+  lines: readonly Line[] | null | undefined,
+  was: readonly Line[]
+): readonly Line[] {
   if (key in said.values && said.values[key] === undefined) return []
   return lines ?? was
+}
+
+function rulingsRepair(at: string, held: Held, said: Moved): readonly Repair[] {
+  const left = linesLeft(said, RULINGS, said.rulings, held.rulings ?? [])
+  const file = besideAt(at, rulingsFile.propertySlug, RULINGS_HELD)
+  return left.length === 0 || file === null ? [] : [{ file, faults: left.length, ruled: true }]
 }
 
 export function repairsAfter(at: string, held: Held, said: Moved): readonly Repair[] {
@@ -74,10 +87,16 @@ export function repairsAfter(at: string, held: Held, said: Moved): readonly Repa
       linesLeft(said, MECHANICS_ISSUES, said.mechanicsIssues, held.mechanicsIssues ?? []),
     ],
   ] as const
-  return left.flatMap(([slug, lines]) => {
+  const faults = left.flatMap(([slug, lines]) => {
     const file = besideAt(at, slug, ISSUES_HELD)
     return lines.length === 0 || file === null ? [] : [{ file, faults: lines.length }]
   })
+  return [...faults, ...rulingsRepair(at, held, said)]
+}
+
+function rulingsBeside(turn: Turn, textOf: TextOf): readonly Ruling[] {
+  const read = rulingsIn(linesBeside(turn, RULINGS, rulingsFile.propertySlug, textOf))
+  return "refused" in read ? [] : read
 }
 
 export function heldOf(turn: Turn, textOf: TextOf = () => ""): Held | { readonly refused: string } {
@@ -97,5 +116,6 @@ export function heldOf(turn: Turn, textOf: TextOf = () => ""): Held | { readonly
     recordedBy: stringsIn(turn.value[RECORDED_BY]).map(bareOf),
     written: turn.value[PROSE] !== undefined && turn.value[OWN_LENGTH] !== 0,
     mechanicsIssues: linesBeside(turn, MECHANICS_ISSUES, mechanicsIssuesFile.propertySlug, textOf),
+    rulings: rulingsBeside(turn, textOf),
   }
 }

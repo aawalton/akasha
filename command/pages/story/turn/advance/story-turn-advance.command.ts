@@ -191,6 +191,7 @@ export const storyTurnAdvance = {
     { argument: "argument/written-chapter" },
     { argument: "argument/turn-lore", repeats: true },
     { argument: "argument/beats-file" },
+    { argument: "argument/rulings-file" },
     { argument: "argument/reviewer" },
     { argument: "argument/issues-file" },
     { argument: "argument/prose-file" },

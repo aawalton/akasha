@@ -9,6 +9,7 @@ import {
   type Handed,
   type Held,
   type Noun,
+  type Ruling,
   TURN,
 } from "akasha/story/world/stories/played/turns/modules/turn-lifecycle/turn-lifecycle.module.code.ts"
 
@@ -74,7 +75,8 @@ export function mechanicked(
   if (far !== undefined) {
     return { refused: `a change names beat ${far.beat}, and the ${noun} has ${beats} beats` }
   }
-  const issues = [...(held.mechanicsIssues ?? []), ...(handed.issues ?? [])]
+  const raised = unruled(handed.issues ?? [], held.rulings ?? [])
+  const issues = [...(held.mechanicsIssues ?? []), ...raised]
   const long = issuesRefused(issues, noun)
   if (long !== null) return { refused: long }
   const recordedBy = [...held.recordedBy, handed.recorder]
@@ -85,7 +87,7 @@ export function mechanicked(
     ...(issues.length === 0 ? {} : { mechanicsIssues: ISSUES_HELD }),
   }
   const body = changes.length === 0 ? null : changesMerged(held.changes ?? [], changes)
-  const issued = (handed.issues ?? []).length === 0 ? null : issues
+  const issued = raised.length === 0 ? null : issues
   const next = !all ? "mechanics" : back ? "game-master" : "on"
   return { values, changes: body, issues: issued, recordedBy, next }
 }
@@ -117,4 +119,50 @@ export function raiserOf(line: string, reviewers: readonly string[]): string | n
 export function issueOf(line: string, reviewers: readonly string[]): string {
   const by = raiserOf(line, reviewers)
   return by === null ? line : line.slice(by.length + RAISED.length)
+}
+
+export function ruledOut(line: string, rulings: readonly Ruling[]): boolean {
+  return rulings.some((one) => one.issue === line)
+}
+
+export function unruled(lines: readonly string[], rulings: readonly Ruling[]): readonly string[] {
+  return lines.filter((one) => !ruledOut(one, rulings))
+}
+
+const RULING_KEYS: readonly string[] = ["issue", "reason"]
+
+function rulingOf(line: string): Ruling | string {
+  let held: unknown
+  try {
+    held = JSON.parse(line)
+  } catch {
+    return "is no json object"
+  }
+  if (typeof held !== "object" || held === null || Array.isArray(held)) return "is no json object"
+  const record = held as Readonly<{ [key: string]: unknown }>
+  const stray = Object.keys(record).find((key) => !RULING_KEYS.includes(key))
+  if (stray !== undefined) return `states \`${stray}\`, and a ruling states issue and reason`
+  const issue = record["issue"]
+  const reason = record["reason"]
+  if (typeof issue !== "string" || issue.trim() === "") return "names no issue"
+  if (typeof reason !== "string" || reason.trim() === "" || reason.length > LONGEST_LINE) {
+    return `states no reason of 1 to ${LONGEST_LINE} characters`
+  }
+  return { issue: issue.trim(), reason: reason.trim() }
+}
+
+export function rulingsIn(
+  lines: readonly string[]
+): readonly Ruling[] | { readonly refused: string } {
+  const rulings: Ruling[] = []
+  for (const [index, line] of lines.entries()) {
+    const one = rulingOf(line)
+    if (typeof one === "string") return { refused: `ruling ${index + 1} ${one}` }
+    rulings.push(one)
+  }
+  return rulings
+}
+
+export function rulingsJoined(had: readonly Ruling[], more: readonly Ruling[]): readonly Ruling[] {
+  return [...had, ...more.filter((one) => !ruledOut(one.issue, had))]
 }

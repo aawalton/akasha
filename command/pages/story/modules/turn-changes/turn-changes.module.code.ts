@@ -26,6 +26,7 @@ import {
 import { beats as beatsFile } from "akasha/story/chapter/properties/beats.file-property.ts"
 import { issues as issuesFile } from "akasha/story/chapter/properties/issues.file-property.ts"
 import { mechanicsIssues as mechanicsIssuesFile } from "akasha/story/chapter/properties/mechanics-issues.file-property.ts"
+import { rulings as rulingsFile } from "akasha/story/chapter/properties/rulings.file-property.ts"
 import {
   type Cached,
   cachedOf,
@@ -59,6 +60,8 @@ const PROSE = "prose"
 const ISSUES = exportedAs(issuesFile.propertySlug)
 
 const MECHANICS_ISSUES = exportedAs(mechanicsIssuesFile.propertySlug)
+
+const RULINGS = exportedAs(rulingsFile.propertySlug)
 
 const EXTENSIONS = "extensions"
 
@@ -112,6 +115,8 @@ export function bodiesOf(
   ] as const) {
     if (lines !== null && lines !== undefined) bodies[key] = linesBody(lines)
   }
+  const rulings = said.rulings ?? null
+  if (rulings !== null) bodies[RULINGS] = contentOf(rulings)
   return Object.keys(bodies).length === 0 ? {} : { bodies }
 }
 
