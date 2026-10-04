@@ -1,7 +1,6 @@
 {"propertySlug":"cover","path":"story/world/pages/fairweather/places/fairweather-guild-hall.place.ts","id":"01a102af-305b-7db6-bb17-c8e7a115ede2"}
 {"propertySlug":"input-image","path":"infrastructure/inference/generation/image/pages/image-0105d9d718895b0b.image.ts","id":"01a106c3-edd2-71f2-91ef-7ca5f34e6f37"}
 {"propertySlug":"input-image","path":"infrastructure/inference/generation/image/pages/image-01711ef10f1abaa0.image.ts","id":"01a10682-2512-7e17-a7bf-5741c260393a"}
-{"propertySlug":"input-image","path":"infrastructure/inference/generation/image/pages/image-06f6cd8070a02685.image.ts","id":"01a1065e-f196-776e-ba3e-6d5621103911"}
 {"propertySlug":"input-image","path":"infrastructure/inference/generation/image/pages/image-08eeaffe30d5f982.image.ts","id":"01a10695-c72b-7905-9b7b-b1650dfe715f"}
 {"propertySlug":"input-image","path":"infrastructure/inference/generation/image/pages/image-0953dba591392ef9.image.ts","id":"01a10676-e5b9-7025-8cde-0b67fb964a4f"}
 {"propertySlug":"input-image","path":"infrastructure/inference/generation/image/pages/image-0d3c842ff5cc5ebf.image.ts","id":"01a106f0-5a8c-7c11-90d9-804e74c2d518"}
@@ -17,7 +16,6 @@
 {"propertySlug":"input-image","path":"infrastructure/inference/generation/image/pages/image-2896bc0737b8ee0d.image.ts","id":"01a10680-c7d0-7db3-b7e2-7e3702f1eede"}
 {"propertySlug":"input-image","path":"infrastructure/inference/generation/image/pages/image-299c7812fd247a26.image.ts","id":"01a106ae-491a-7265-acf5-7598f62612a6"}
 {"propertySlug":"input-image","path":"infrastructure/inference/generation/image/pages/image-2b363c492ecf8be0.image.ts","id":"01a1068a-6fbb-73ca-97e2-ebb59ebd0258"}
-{"propertySlug":"input-image","path":"infrastructure/inference/generation/image/pages/image-2cc7a077b8c7f2c4.image.ts","id":"01a10696-abf4-70d7-aa5e-a214a7914af9"}
 {"propertySlug":"input-image","path":"infrastructure/inference/generation/image/pages/image-2ce57c8fad513b8c.image.ts","id":"01a1066d-06a0-7bda-90d9-3979a364af68"}
 {"propertySlug":"input-image","path":"infrastructure/inference/generation/image/pages/image-2e258c460bf40a94.image.ts","id":"01a10673-b223-782d-9cd5-96fa21bfe469"}
 {"propertySlug":"input-image","path":"infrastructure/inference/generation/image/pages/image-2f94c19ff46139b1.image.ts","id":"01a106f1-b9b9-7ae1-85b0-2f58f72fe48c"}
@@ -55,13 +53,11 @@
 {"propertySlug":"input-image","path":"infrastructure/inference/generation/image/pages/image-7f27c5ea61b51f40.image.ts","id":"01a1067d-6c44-727f-9c2d-a9edfff2811d"}
 {"propertySlug":"input-image","path":"infrastructure/inference/generation/image/pages/image-846049b0794e3d1d.image.ts","id":"01a106b2-689e-7641-9893-f4351822d625"}
 {"propertySlug":"input-image","path":"infrastructure/inference/generation/image/pages/image-86238e3c758e6215.image.ts","id":"01a10660-4670-7d50-afa1-28228fcb1344"}
-{"propertySlug":"input-image","path":"infrastructure/inference/generation/image/pages/image-8960d3f8cc984cf6.image.ts","id":"01a10689-c94f-7ee8-83e2-31ca3c1ea923"}
 {"propertySlug":"input-image","path":"infrastructure/inference/generation/image/pages/image-8c77989ac370cf24.image.ts","id":"01a10655-b669-7661-b73e-ad772ef05fd0"}
 {"propertySlug":"input-image","path":"infrastructure/inference/generation/image/pages/image-8f180d82d621cb4d.image.ts","id":"01a10671-f9ea-7d4a-8f38-084d6eac8158"}
 {"propertySlug":"input-image","path":"infrastructure/inference/generation/image/pages/image-9169dc74a5e3449f.image.ts","id":"01a106a5-f2dd-726a-86ef-e3ea16b43794"}
 {"propertySlug":"input-image","path":"infrastructure/inference/generation/image/pages/image-9275168ddc0342cb.image.ts","id":"01a1068f-ef6b-796c-bfce-ca644d8e9aaf"}
 {"propertySlug":"input-image","path":"infrastructure/inference/generation/image/pages/image-927fe82576ebd4d0.image.ts","id":"01a106a3-565b-736f-9687-13ed1eb14a99"}
-{"propertySlug":"input-image","path":"infrastructure/inference/generation/image/pages/image-937b67c7292d1e1b.image.ts","id":"01a10688-6d22-71e1-b115-42f862fc8135"}
 {"propertySlug":"input-image","path":"infrastructure/inference/generation/image/pages/image-941d53e077f2ef29.image.ts","id":"01a106f6-a5e9-7b15-9d2b-60b095db1c87"}
 {"propertySlug":"input-image","path":"infrastructure/inference/generation/image/pages/image-95b51728581a41d7.image.ts","id":"01a1067a-3949-71b0-b5e0-f780a4e52963"}
 {"propertySlug":"input-image","path":"infrastructure/inference/generation/image/pages/image-985720231cc0cad1.image.ts","id":"01a106a9-9aa1-731e-8f17-c85c8d0e3683"}
@@ -75,7 +71,6 @@
 {"propertySlug":"input-image","path":"infrastructure/inference/generation/image/pages/image-ae13daf427db023a.image.ts","id":"01a10694-bf66-7b49-b121-b37c717b9f02"}
 {"propertySlug":"input-image","path":"infrastructure/inference/generation/image/pages/image-aee1f9ef0be3f70c.image.ts","id":"01a10669-b1d7-7bd0-83a6-605fbc58aed0"}
 {"propertySlug":"input-image","path":"infrastructure/inference/generation/image/pages/image-b0bdcee263c30871.image.ts","id":"01a106de-ce99-78a8-8f4b-60663d3a1bf5"}
-{"propertySlug":"input-image","path":"infrastructure/inference/generation/image/pages/image-b8e96f56fba721e8.image.ts","id":"01a10644-2ef6-7cbf-b647-322f163a0ada"}
 {"propertySlug":"input-image","path":"infrastructure/inference/generation/image/pages/image-b91abaeb57d5a51c.image.ts","id":"01a106d4-f4fd-7bbe-94c0-110faa61c025"}
 {"propertySlug":"input-image","path":"infrastructure/inference/generation/image/pages/image-bf589ff584e487bd.image.ts","id":"01a1069b-a465-7825-90c3-bf9f4ed1805f"}
 {"propertySlug":"input-image","path":"infrastructure/inference/generation/image/pages/image-c378df9a1c2e0468.image.ts","id":"01a10661-d992-71b2-8473-28ee7e44f854"}
@@ -97,7 +92,6 @@
 {"propertySlug":"input-image","path":"infrastructure/inference/generation/image/pages/image-e16d6369963bc9b7.image.ts","id":"01a10690-d811-74c4-b1a4-6ee751185291"}
 {"propertySlug":"input-image","path":"infrastructure/inference/generation/image/pages/image-e1831aac1446d39e.image.ts","id":"01a1068f-21a3-724b-8696-9576305b45a2"}
 {"propertySlug":"input-image","path":"infrastructure/inference/generation/image/pages/image-e31206e34a36d929.image.ts","id":"01a10645-500f-79e7-aa59-c82c7c16bc55"}
-{"propertySlug":"input-image","path":"infrastructure/inference/generation/image/pages/image-e53fb3f6edc63b1c.image.ts","id":"01a10678-7d7c-75e2-a033-18a10cf99ad1"}
 {"propertySlug":"input-image","path":"infrastructure/inference/generation/image/pages/image-e6fb80fd83e8671d.image.ts","id":"01a106c7-9358-76a1-8e86-c28a7dd38b45"}
 {"propertySlug":"input-image","path":"infrastructure/inference/generation/image/pages/image-eac53ab5c8415879.image.ts","id":"01a106c6-adaa-7694-b1ee-1adfbbc27b7c"}
 {"propertySlug":"input-image","path":"infrastructure/inference/generation/image/pages/image-f2e1836fb2c78bc9.image.ts","id":"01a106af-2900-75a0-aa1e-3fdc0e6856fd"}
