@@ -86,7 +86,7 @@ export const fairweatherTamsin = {
       knowers: ["lore-disclosure/game-master", "character-other/fairweather-tamsin"],
     },
     {
-      fact: "Tamsin Reyes is a Berserker of E-rank.",
+      fact: "Tamsin Reyes is a Berserker.",
       knowers: ["lore-disclosure/game-master", "character-player/fairweather-elsie"],
     },
 
