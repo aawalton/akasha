@@ -56,5 +56,6 @@ export const fairweather0006TheMarigold = {
     "image/image-6649ecb365cd01cb",
     "image/image-75d925bdad26125f",
     "image/image-cf229806278da417",
+    "image/image-d692052062c55968",
   ],
 } as const satisfies StoryChapterWritten
