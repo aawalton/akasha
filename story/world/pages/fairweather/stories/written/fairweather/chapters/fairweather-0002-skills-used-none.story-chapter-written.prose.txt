@@ -103,10 +103,10 @@ Upstairs the keeper fetched the guild's notice from under her counter, a square 
 :::status-assessment
 name: Elsie Fairweather
 level: 1
-note: Experience: 30 / 100; Bonds: Tamsin 25, Tilly 15
+note: Experience: 30 / 100; Bonds: Tamsin 6, Tilly 6, Cora 3
 :::
 
-She read it over, and smiled down at the two names.
+She read it over, and smiled down at the three names.
 
 The keeper put the pen down and looked at the four of them, and something in her old face loosened. "Sit," she said, and pointed at the nearest table, and they sat. She went to the back and came out with a fat brown pot and four cups on a tray, and poured, and the tea came out so dark it was nearly black, steaming, the colour of strong coffee. "House tea," the keeper said. "Strong black. Stand a spoon in it." She set a cup in front of each of them, Cora's too, and a little bowl of sugar lumps in the middle of the table, and went back behind her counter.
 

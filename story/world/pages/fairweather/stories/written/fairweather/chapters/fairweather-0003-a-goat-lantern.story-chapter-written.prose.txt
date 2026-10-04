@@ -151,7 +151,7 @@ When she could, she wiped her face on her apron and asked for the notice, and El
 :::status-assessment
 name: Elsie Fairweather
 level: 1
-note: Experience: 70 / 100; Bonds: Tamsin 35, Tilly 35, Cora 10
+note: Experience: 70 / 100; Bonds: Tamsin 12, Tilly 13, Cora 8
 :::
 
 Tilly looked at her sweet pea. It was pale pink, with a curl of tendril on the stem. She looked at it, and then she looked at Elsie, at the side of Elsie's head where the pink-and-white flower clip was pinned above her ear. Then she reached up and tucked the sweet pea into her own hair, above her ear, on the same side, carefully, with her sooty fingers, the stem pushed in among the blonde strands at the top of her braid. She turned her head to Elsie, a little pink, to see if it was right. It was.
