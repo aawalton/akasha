@@ -90,7 +90,24 @@ export const turnAdvancing = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A turn moving to player leaves no issue file beside it.",
+      statement: "A turn moving to player leaves no issue or rulings file beside it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A game master's rulings take the lines they name out of the issue files.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A reviewer the rulings leave no issue is named reviewed again, so it reviews no more.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A mend moving no beat reruns no mechanics seat whose every issue is ruled out.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A reviewer's issue the rulings already name, word for word, is dropped.",
     },
     {
       decisionKind: "decision-kind/departure",

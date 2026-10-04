@@ -23,5 +23,9 @@ export const turnHolding = {
       decisionKind: "decision-kind/departure",
       statement: "An issues file that is not there reads as no issue.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A turn's rulings are read from the file beside it, and named to the next seat.",
+    },
   ],
 } as const satisfies Module

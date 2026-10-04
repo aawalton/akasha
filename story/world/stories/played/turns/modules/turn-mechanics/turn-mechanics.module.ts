@@ -22,6 +22,15 @@ export const turnMechanics = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A mechanics issue the turn's rulings already name, word for word, is dropped.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A ruling is one json line naming the issue line and a reason of at most 100 characters.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A change handed in again just as the turn holds it is held once.",
     },
     {

@@ -18,6 +18,11 @@ export const turnHanding = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "A rulings file holds one json ruling to a line, and comes only with a beats file.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A prose file holds the prose itself.",
     },
     {
