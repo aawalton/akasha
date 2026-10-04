@@ -66,6 +66,10 @@ export const fairweatherTamsin = {
       ],
     },
     {
+      fact: "Held by a Tether from Elsie, Tamsin in her Frenzy knows her own party from foes.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
       fact: "Three parties have dropped Tamsin after she hurt a teammate in her Frenzy.",
       knowers: [
         "lore-disclosure/game-master",
