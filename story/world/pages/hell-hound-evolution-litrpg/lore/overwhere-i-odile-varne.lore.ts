@@ -163,6 +163,10 @@ export const overwhereIOdileVarne = {
       fact: "Varne lets the false note pass unasked: a hunter hiding where she was born is one she can hold.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "She writes Wendlow as Nala's home, and as her lord the margrave, served through the magistrate.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
