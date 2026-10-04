@@ -4,6 +4,7 @@ export const togetherAtTheEdgeOfTheWorldBook4Complete0197Vol4Chapter177SerpentGr
   id: "01a0f12a-e88f-70a3-a93b-a89d306ac272",
   type: "page-type/story-chapter-read",
   slug: "together-at-the-edge-of-the-world-book-4-complete-0197-vol-4-chapter-177-serpent-grinding",
+  ownProgress: 2194,
   position: 197,
   publishedAt: "2026-05-13",
   unit: "unit/words",

@@ -4,6 +4,7 @@ export const togetherAtTheEdgeOfTheWorldBook4Complete0196Vol4Chapter176Something
   id: "01a0f12a-e88f-7b38-8c3f-1171abe6dde7",
   type: "page-type/story-chapter-read",
   slug: "together-at-the-edge-of-the-world-book-4-complete-0196-vol-4-chapter-176-something-stronger",
+  ownProgress: 2296,
   position: 196,
   publishedAt: "2026-05-11",
   unit: "unit/words",

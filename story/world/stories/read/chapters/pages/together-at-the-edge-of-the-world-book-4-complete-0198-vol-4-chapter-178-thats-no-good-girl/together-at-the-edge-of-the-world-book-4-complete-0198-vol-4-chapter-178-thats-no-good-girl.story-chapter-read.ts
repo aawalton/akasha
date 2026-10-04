@@ -4,6 +4,7 @@ export const togetherAtTheEdgeOfTheWorldBook4Complete0198Vol4Chapter178ThatsNoGo
   id: "01a0f12a-ffdb-74cc-9cad-cdceeae4d15a",
   type: "page-type/story-chapter-read",
   slug: "together-at-the-edge-of-the-world-book-4-complete-0198-vol-4-chapter-178-thats-no-good-girl",
+  ownProgress: 2606,
   position: 198,
   publishedAt: "2026-05-15",
   unit: "unit/words",

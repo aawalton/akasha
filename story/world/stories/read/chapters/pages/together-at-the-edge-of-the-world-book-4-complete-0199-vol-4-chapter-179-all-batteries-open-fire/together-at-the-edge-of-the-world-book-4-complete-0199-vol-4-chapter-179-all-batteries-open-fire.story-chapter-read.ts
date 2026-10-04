@@ -4,6 +4,7 @@ export const togetherAtTheEdgeOfTheWorldBook4Complete0199Vol4Chapter179AllBatter
   id: "01a0f12a-ffdb-7161-b224-62a165af1c4d",
   type: "page-type/story-chapter-read",
   slug: "together-at-the-edge-of-the-world-book-4-complete-0199-vol-4-chapter-179-all-batteries-open-fire",
+  ownProgress: 2687,
   position: 199,
   publishedAt: "2026-05-18",
   unit: "unit/words",
