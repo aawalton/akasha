@@ -14,7 +14,19 @@ export const stepReviewedBy = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A turn is reviewed once, so a reviewer named here does not run on it again.",
+      statement: "A reviewer named here does not run on the turn again while it is named here.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A turn the last reviewer sends back loses from here each reviewer with an issue.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "So only those reviewers review the mended turn, until none has an issue left.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A mend leaves this list as it is, whatever beats it moves.",
     },
   ],
   types: "ts",

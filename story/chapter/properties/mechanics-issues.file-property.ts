@@ -22,6 +22,20 @@ export const mechanicsIssues = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "Each mechanics seat's issues join the ones the turn holds from the seats before it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A mend moving no beat runs the mechanics seats again only where this file has a line.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The file goes as the turn reaches player.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "Issues sit beside the page, so a full chapter's never push it over its ceiling.",
     },
   ],

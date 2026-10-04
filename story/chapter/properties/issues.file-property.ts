@@ -10,7 +10,8 @@ export const issues = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "One line is one issue, of at most 100 characters, and a file holds at most 100.",
+      statement:
+        "One line is one issue, of at most 100 characters past its slug, and a chapter's file at most 100.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -18,7 +19,19 @@ export const issues = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The game master repairs the beats each issue faults.",
+      statement: "Each line opens on the slug of the reviewer that raised it and a colon.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A reviewer's review replaces the lines it raised before.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The file goes once no line is left in it, and as the turn reaches player.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The game master repairs the beats each issue faults, and the writer the prose.",
     },
     {
       decisionKind: "decision-kind/departure",

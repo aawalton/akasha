@@ -26,7 +26,8 @@ export const turnChanges = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The game master's move writes the beats afresh, with no step's part after it.",
+      statement:
+        "The game master's move keeps every step's part of the beats before its first moved one.",
     },
     {
       decisionKind: "decision-kind/departure",

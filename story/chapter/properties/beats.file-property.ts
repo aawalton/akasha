@@ -20,16 +20,24 @@ export const beats = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The game master's advance writes the beats afresh, with no later step's part.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
       statement:
-        "The mechanics step replaces each beat's changes, and a recorder each beat's memory.",
+        "The game master's advance keeps each beat's changes, memory and pictures before its first moved one.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A writer and a prose editor replace each beat's prose, naming every beat.",
+      statement: "From the first moved beat on, a beat holds no later step's part.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A mend keeps the beats' prose only where it moves no beat and drops none.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Each mechanics seat's changes and each recorder's memory merge in by beat.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A writer replaces each beat's prose, naming every beat.",
     },
     {
       decisionKind: "decision-kind/departure",

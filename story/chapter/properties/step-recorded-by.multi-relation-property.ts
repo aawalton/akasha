@@ -19,7 +19,12 @@ export const stepRecordedBy = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The game master's advance clears this list, so every recorder runs on a rerun.",
+      statement: "A mend moving a beat clears this list, so every recorder runs on the turn again.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A mend moving no beat takes off only the mechanics seats, and only where mechanics issues remain.",
     },
   ],
   types: "ts",
