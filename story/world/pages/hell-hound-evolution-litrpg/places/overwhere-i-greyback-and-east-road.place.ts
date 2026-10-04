@@ -318,5 +318,9 @@ export const overwhereIGreybackAndEastRoad = {
       fact: "The rock cairn stands on a rise above the east road, four miles east of Fenwatch.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "On day 9, west of Wendlow, an eastbound wool carter, Jory Webb, meets Nala on the road.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Place
