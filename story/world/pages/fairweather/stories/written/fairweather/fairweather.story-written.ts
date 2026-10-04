@@ -11,7 +11,7 @@ export const fairweather = {
   chapterBreak: "A day in Lanternmere ends.",
   coordinatorAgent: "mari-game-master-fairweather",
   following: true,
-  wordBacklog: 25000,
+  wordBacklog: 50000,
   proseOnBeats: true,
   panels: [
     "played-panel/player-character",
