@@ -48,45 +48,46 @@
 {"beat":48,"event":"Cora asks what that was for; Elsie says it helps a hurt mend, her mother swore by it."}
 {"beat":49,"event":"The bath-keeper peers down the ladder, sees clean water, and whoops.","at":"2026-06-09T09:50:00.000Z"}
 {"beat":50,"event":"She pays them the notice on the spot, and Elsie, Tamsin and Tilly share it out.","changes":[{"page":"metric-character-currency/fairweather-elsie","note":"Her share of the four-lantern eel notice: 13 pips, 112 → 125","key":"value","from":112,"to":125},{"page":"metric-character-currency/fairweather-tamsin","note":"Tamsin's share of the eel notice: 13 pips, 114 → 127","key":"value","from":114,"to":127}]}
-{"beat":51,"event":"Elsie gives Tilly the odd pips, and Cora writes it in her ledger one-handed.","changes":[{"page":"metric-character-currency/fairweather-tilly","note":"Tilly's share, 13 pips plus the odd pip Elsie gives her: 124 → 138","key":"value","from":124,"to":138}]}
-{"beat":52,"event":"The keeper says it's a women's day, and they have earned the pools for nothing."}
-{"beat":53,"event":"Tamsin is out of her jerkin before the keeper finishes speaking."}
-{"beat":54,"event":"Cora says she is on duty, and will wait in the hall."}
-{"beat":55,"event":"Elsie says the notice is done, so Cora is off duty till the next one, and takes her good hand."}
-{"beat":56,"event":"Cora looks at the ledger, at Elsie, and lets herself be pulled along."}
-{"beat":57,"event":"The great warm pool is green-tiled under the copper dome, full of steam and women's voices.","at":"2026-06-09T10:15:00.000Z"}
-{"beat":58,"event":"Elsie slips into the water in her shift, sighs, and floats on her back with her eyes shut.","changes":[{"page":"story-item/fairweather-adventurers-outfit","note":"Elsie takes off her outfit and goes into the pool in her shift","key":"slot","from":"item-slot/body","to":null}]}
-{"beat":59,"event":"Tamsin dives in and comes up beside her, and stares, and then looks very hard at the ceiling."}
-{"beat":60,"event":"Tilly sits on the steps in her shift up to her chin, goggles still on her head, crimson."}
-{"beat":61,"event":"Elsie paddles over and takes Tilly's goggles off and sets them on the side."}
-{"beat":62,"event":"Elsie unbraids Tilly's singed braids and washes her hair, humming."}
-{"beat":63,"event":"Tilly sits perfectly still under Elsie's hands with her eyes shut, breathing very carefully."}
-{"beat":64,"event":"Tamsin swims slow lengths and keeps ending them near Elsie."}
-{"beat":65,"event":"Cora comes out of the changing room last, in a long shift, her hair down to her waist.","at":"2026-06-09T10:40:00.000Z"}
-{"beat":66,"event":"Elsie says Cora's hair is the most beautiful she has ever seen, out loud, across the pool."}
-{"beat":67,"event":"Half the women in the pool turn to look, and Cora walks into the water to her shoulders."}
-{"beat":68,"event":"Elsie swims to her and asks if the water stings her arm; Cora says it is only warm."}
-{"beat":69,"event":"In the steam room the four of them sit on the slatted bench wrapped in towels.","at":"2026-06-09T11:10:00.000Z"}
-{"beat":70,"event":"Elsie sits between Tamsin and Cora, her damp shoulder touching both of theirs."}
-{"beat":71,"event":"Tamsin's thigh presses against Elsie's under the towel, and Tamsin breathes like she has run."}
-{"beat":72,"event":"Cora sits straight and still, and her bandaged arm rests a finger's width from Elsie's knee."}
-{"beat":73,"event":"Tilly, opposite, says the steam is very hot, twice, fanning herself with both hands."}
-{"beat":74,"event":"Elsie says this is the nicest morning of her life, and leans her head on Cora's shoulder."}
-{"beat":75,"event":"Cora stops breathing, and then very slowly lets her head rest against Elsie's."}
-{"beat":76,"event":"They plunge in the cold pool after, and Tilly shrieks so loud the keeper comes running.","at":"2026-06-09T11:40:00.000Z"}
-{"beat":77,"event":"Dressed again on the steps outside, Cora pins her hair back up, every strand.","at":"2026-06-09T12:15:00.000Z","changes":[{"page":"story-item/fairweather-adventurers-outfit","note":"Elsie is dressed in her outfit again on the steps outside","key":"slot","from":null,"to":"item-slot/body"}]}
-{"beat":78,"event":"Elsie says it's a shame, and Cora's ears turn pink."}
-{"beat":79,"event":"Cora says she has her report to write, and goes, one hand on her bandage.","at":"2026-06-09T12:30:00.000Z","leave":["character-other/fairweather-cora"]}
-{"beat":80,"event":"At the Tipsy Heron Tamsin pays for stew for the three of them, to celebrate eels.","at":"2026-06-09T13:00:00.000Z","place":"place/fairweather-lanternmere","changes":[{"page":"metric-character-currency/fairweather-tamsin","note":"Tamsin buys stew for three at the Tipsy Heron: 12 pips, 127 → 115","key":"value","from":127,"to":115},{"page":"metric-character-currency/fairweather-elsie","note":"Elsie ends the chapter with 125 pips: 12 lanterns, 5 pips","key":"history","append":{"turn":9,"value":125}},{"page":"metric-character-currency/fairweather-tamsin","note":"Tamsin ends the chapter with 115 pips","key":"history","append":{"turn":9,"value":115}},{"page":"metric-character-currency/fairweather-tilly","note":"Tilly ends the chapter with 138 pips","key":"history","append":{"turn":9,"value":138}}]}
-{"beat":81,"event":"Tilly says they're three notices from E now, and the blue house is four suns."}
-{"beat":82,"event":"Tamsin says at four lanterns a notice that's a great many eels."}
-{"beat":83,"event":"Elsie says then they'll be very good at eels, and Tilly laughs into her stew."}
-{"beat":84,"event":"In the afternoon they walk by the blue-doored house on Willow Canal; the card is still up.","at":"2026-06-09T14:30:00.000Z"}
-{"beat":85,"event":"Elsie touches the blue door with two fingers, as if it's someone's hand."}
-{"beat":86,"event":"Tamsin walks Tilly back to Pickle Row, and Elsie goes home along the canal alone.","at":"2026-06-09T15:15:00.000Z","leave":["character-other/fairweather-tamsin","character-other/fairweather-tilly"]}
-{"beat":87,"event":"In the attic Elsie writes in her notebook: Cora, stepped in front of me.","at":"2026-06-09T16:00:00.000Z","place":"place/fairweather-honeycomb-attic","present":["character-player/fairweather-elsie"]}
-{"beat":88,"event":"Under it she writes: Cora's hair down. Then she draws a little wobbly heart beside it."}
-{"beat":89,"event":"At dusk the lamplighters' boats come by below the round window, one lantern at a time.","at":"2026-06-09T19:50:00.000Z"}
-{"beat":90,"event":"Elsie writes her mother about the baths, and Cora, and the eels they let go."}
-{"beat":91,"event":"Down the Tether Tamsin is quiet and restless, as if she can't settle.","at":"2026-06-09T21:00:00.000Z"}
-{"beat":92,"event":"Elsie leans her head on the round window and hums until the restlessness eases.","at":"2026-06-09T21:20:00.000Z"}
+{"beat":51,"event":"A window opens in front of Elsie in the boiler room: Level up."}
+{"beat":52,"event":"Elsie gives Tilly the odd pips, and Cora writes it in her ledger one-handed."}
+{"beat":53,"event":"The keeper says it's a women's day, and they have earned the pools for nothing."}
+{"beat":54,"event":"Tamsin is out of her jerkin before the keeper finishes speaking."}
+{"beat":55,"event":"Cora says she is on duty, and will wait in the hall."}
+{"beat":56,"event":"Elsie says Cora can watch her just as well from the pool, and takes her good hand."}
+{"beat":57,"event":"Cora looks at the ledger, at Elsie, and lets herself be pulled along."}
+{"beat":58,"event":"The great warm pool is green-tiled under the copper dome, full of steam and women's voices.","at":"2026-06-09T10:15:00.000Z"}
+{"beat":59,"event":"Elsie slips into the water in her shift, sighs, and floats on her back with her eyes shut."}
+{"beat":60,"event":"Tamsin dives in and comes up beside her, and stares, and then looks very hard at the ceiling."}
+{"beat":61,"event":"Tilly sits on the steps in her shift up to her chin, goggles still on her head, crimson."}
+{"beat":62,"event":"Elsie paddles over and takes Tilly's goggles off and sets them on the side."}
+{"beat":63,"event":"Elsie unbraids Tilly's singed braids and washes her hair, humming."}
+{"beat":64,"event":"Tilly sits perfectly still under Elsie's hands with her eyes shut, breathing very carefully."}
+{"beat":65,"event":"Tamsin swims slow lengths and keeps ending them near Elsie."}
+{"beat":66,"event":"Cora comes out of the changing room last, in a long shift, her hair down to her waist.","at":"2026-06-09T10:40:00.000Z"}
+{"beat":67,"event":"Elsie says Cora's hair is the most beautiful she has ever seen, out loud, across the pool."}
+{"beat":68,"event":"Half the women in the pool turn to look, and Cora walks into the water to her shoulders."}
+{"beat":69,"event":"Elsie swims to her and asks if the water stings her arm; Cora says it is only warm."}
+{"beat":70,"event":"In the steam room the four of them sit on the slatted bench wrapped in towels.","at":"2026-06-09T11:10:00.000Z"}
+{"beat":71,"event":"Elsie sits between Tamsin and Cora, her damp shoulder touching both of theirs."}
+{"beat":72,"event":"Tamsin's thigh presses against Elsie's under the towel, and Tamsin breathes like she has run."}
+{"beat":73,"event":"Cora sits straight and still, and her bandaged arm rests a finger's width from Elsie's knee."}
+{"beat":74,"event":"Tilly, opposite, says the steam is very hot, twice, fanning herself with both hands."}
+{"beat":75,"event":"Elsie says this is the nicest morning of her life, and leans her head on Cora's shoulder."}
+{"beat":76,"event":"Cora stops breathing, and then very slowly lets her head rest against Elsie's."}
+{"beat":77,"event":"They plunge in the cold pool after, and Tilly shrieks so loud the keeper comes running.","at":"2026-06-09T11:40:00.000Z"}
+{"beat":78,"event":"Dressed again on the steps outside, Cora pins her hair back up, every strand.","at":"2026-06-09T12:15:00.000Z"}
+{"beat":79,"event":"Elsie says it's a shame, and Cora's ears turn pink."}
+{"beat":80,"event":"Cora says she has her report to write, and goes, one hand on her bandage.","at":"2026-06-09T12:30:00.000Z","leave":["character-other/fairweather-cora"]}
+{"beat":81,"event":"At the Tipsy Heron Tamsin pays for stew for the three of them, to celebrate eels.","at":"2026-06-09T13:00:00.000Z","place":"place/fairweather-lanternmere"}
+{"beat":82,"event":"Tilly says they're three notices from E now, and the blue house is four suns."}
+{"beat":83,"event":"Tamsin says at four lanterns a notice that's a great many eels."}
+{"beat":84,"event":"Elsie says then they'll be very good at eels, and Tilly laughs into her stew."}
+{"beat":85,"event":"In the afternoon they walk by the blue-doored house on Willow Canal; the card is still up.","at":"2026-06-09T14:30:00.000Z"}
+{"beat":86,"event":"Elsie touches the blue door with two fingers, as if it's someone's hand."}
+{"beat":87,"event":"Tamsin walks Tilly back to Pickle Row, and Elsie goes home along the canal alone.","at":"2026-06-09T15:15:00.000Z","leave":["character-other/fairweather-tamsin","character-other/fairweather-tilly"]}
+{"beat":88,"event":"In the attic Elsie writes in her notebook: Cora, stepped in front of me.","at":"2026-06-09T16:00:00.000Z","place":"place/fairweather-honeycomb-attic","present":["character-player/fairweather-elsie"]}
+{"beat":89,"event":"Under it she writes: Cora's hair down. Then she draws a little wobbly heart beside it."}
+{"beat":90,"event":"At dusk the lamplighters' boats come by below the round window, one lantern at a time.","at":"2026-06-09T19:50:00.000Z"}
+{"beat":91,"event":"Elsie writes her mother about the baths, and Cora, and the eels they let go."}
+{"beat":92,"event":"Down the Tether Tamsin is quiet and restless, as if she can't settle.","at":"2026-06-09T21:00:00.000Z"}
+{"beat":93,"event":"Elsie leans her head on the round window and hums until the restlessness eases.","at":"2026-06-09T21:20:00.000Z"}

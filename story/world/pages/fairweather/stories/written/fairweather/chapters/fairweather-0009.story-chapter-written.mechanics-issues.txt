@@ -1,2 +1,0 @@
-beat 55: Elsie has Cora off duty once a notice is done; lore puts it at the hall door when it shuts
-beat 50: the eel notice takes Elsie from 130 to 170 XP, past 150: level 3, but no beat shows it
