@@ -283,5 +283,13 @@ export const overwhereINala2 = {
         "lore/overwhere-i-odile-varne",
       ],
     },
+    {
+      fact: "Nala told Varne she minds no killing when paid, and values her freedom.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-i-nala",
+        "lore/overwhere-i-odile-varne",
+      ],
+    },
   ],
 } as const satisfies Lore

@@ -11,12 +11,17 @@ export const overwhereI00120 = {
   position: 120,
   prose: "txt",
   characters: ["character-player/overwhere-i-nala"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/player",
   action:
     "“I don’t mind killing things when paid, but what else is in this oath? I value my freedom.”",
   beats: "jsonl",
   lore: ["lore/overwhere-i-nala", "lore/overwhere-i-nala-2", "lore/overwhere-i-odile-varne"],
-  reviewedBy: ["story-reviewer/continuity", "story-reviewer/style", "story-reviewer/scene"],
+  reviewedBy: [
+    "story-reviewer/continuity",
+    "story-reviewer/style",
+    "story-reviewer/scene",
+    "story-reviewer/holdings",
+  ],
   recordedBy: [
     "story-recorder/inventory",
     "story-recorder/mechanics",

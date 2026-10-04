@@ -251,5 +251,85 @@ export const overwhereIOdileVarne = {
       fact: "Asked, Varne tells the oath's terms truly, the war summons too; the east road is her first call.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "A sworn hunter swears three things: keep the margrave's peace, answer Varne's call, speak true.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-i-nala",
+        "lore/overwhere-i-odile-varne",
+      ],
+    },
+    {
+      fact: "Speaking true under the oath means telling Varne straight what one has seen on her roads.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-i-nala",
+        "lore/overwhere-i-odile-varne",
+      ],
+    },
+    {
+      fact: "Otherwise a sworn hunter goes where she likes and hunts for whom she likes.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-i-nala",
+        "lore/overwhere-i-odile-varne",
+      ],
+    },
+    {
+      fact: "A sworn hunter may turn Varne's call down with a reason given; ignoring one breaks the oath.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-i-nala",
+        "lore/overwhere-i-odile-varne",
+      ],
+    },
+    {
+      fact: "A broken oath voids a sworn hunter's papers and strikes her name.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-i-nala",
+        "lore/overwhere-i-odile-varne",
+      ],
+    },
+    {
+      fact: "A sworn hunter may hand her papers back before Varne's bench any day, and be quit of the oath.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-i-nala",
+        "lore/overwhere-i-odile-varne",
+      ],
+    },
+    {
+      fact: "In war the margrave may summon the march's sworn hunters; so far in this war he has not.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-i-nala",
+        "lore/overwhere-i-odile-varne",
+      ],
+    },
+    {
+      fact: "Varne says the letter bargain stands apart from the oath, whatever Nala chooses.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-i-nala",
+        "lore/overwhere-i-odile-varne",
+      ],
+    },
+    {
+      fact: "Varne has written the margrave three times for riders to clear the east road, refused each time.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-i-nala",
+        "lore/overwhere-i-odile-varne",
+      ],
+    },
+    {
+      fact: "Varne says that if Nala swears, the east road is her first call on Nala.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-i-nala",
+        "lore/overwhere-i-odile-varne",
+      ],
+    },
   ],
 } as const satisfies Lore
