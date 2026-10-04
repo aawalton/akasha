@@ -5,20 +5,12 @@ export const fairweatherHoneycomb = {
   type: "page-type/place",
   slug: "fairweather-honeycomb",
   title: "The Honeycomb",
-  cover: "image/image-bfcce933d8b9acf1",
+  cover: "image/image-87a2bdfe9eed8272",
   world: "world/fairweather",
   within: "place/fairweather-lanternmere",
   facts: [
     {
       fact: "The Honeycomb is a bakery on Thimble Canal, kept by a small, round-faced widow in her sixties.",
-      knowers: ["lore-disclosure/game-master", "character-player/fairweather-elsie"],
-    },
-    {
-      fact: "The Honeycomb's attic is one narrow room with a sloped ceiling and a round window over the canal.",
-      knowers: ["lore-disclosure/game-master", "character-player/fairweather-elsie"],
-    },
-    {
-      fact: "The attic room rents for one lantern a week, and smells of bread every morning from four.",
       knowers: ["lore-disclosure/game-master", "character-player/fairweather-elsie"],
     },
     {
