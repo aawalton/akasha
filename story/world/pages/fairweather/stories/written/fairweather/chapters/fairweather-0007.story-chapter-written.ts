@@ -10,5 +10,6 @@ export const fairweather0007 = {
   story: "story-written/fairweather",
   ownLength: 0,
   prose: "txt",
-  stepStatus: "step-status/world-builder",
+  stepStatus: "step-status/game-master",
+  lore: ["place/fairweather-lake-villages"],
 } as const satisfies StoryChapterWritten
