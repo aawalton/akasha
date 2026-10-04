@@ -18,7 +18,12 @@ export const writer = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "A turn back from the reviewers has its prose rewritten here, answering its issues.",
+        "A turn holding reviewer issues comes here after its mend, whether its beats moved or not.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "The writer repairs that prose where each issue lands, rather than writing it again.",
     },
     {
       decisionKind: "decision-kind/departure",

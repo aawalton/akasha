@@ -10,15 +10,24 @@ export const gameMaster = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "The game master advances a turn to mechanics, or to writer with no mechanics seat.",
+        "The game master advances a turn to mechanics, or to writer with no mechanics seat to run.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A turn back from mechanics or the reviewers has its beats mended here.",
+      statement:
+        "A turn back from mechanics or the reviewers comes back for repair, and its beats are mended here.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The game master's advance starts the mechanics again from nothing.",
+      statement: "A mend keeps every step's part of the beats before its first moved one.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A mend moving a beat runs every recorder again.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A mend moving no beat runs the mechanics seats again only where issues remain.",
     },
   ],
 } as const satisfies StepStatus

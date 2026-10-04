@@ -21,7 +21,15 @@ export const reviewers = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A turn with issues goes back to game-master.",
+      statement: "A turn with issues goes back to game-master for repair.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Only the reviewers that raised an issue review the mended turn again.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The round trip ends once no reviewer has an issue left.",
     },
     {
       decisionKind: "decision-kind/departure",
