@@ -22,6 +22,7 @@ export const storyWritten = {
     "service-workstation/nightly-chapter-writing",
     "number-property/word-backlog",
     "boolean-property/prose-on-beats",
+    "boolean-property/pictures-on-beats",
   ],
   decisions: [
     {
@@ -56,5 +57,6 @@ export const storyWritten = {
     },
 
     { pageProperty: "boolean-property/prose-on-beats", required: false, many: false },
+    { pageProperty: "boolean-property/pictures-on-beats", required: false, many: false },
   ],
 } as const satisfies PageType
