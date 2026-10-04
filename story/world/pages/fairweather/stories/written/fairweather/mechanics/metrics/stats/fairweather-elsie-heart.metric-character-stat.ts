@@ -8,6 +8,7 @@ export const fairweatherElsieHeart = {
   character: "character-player/fairweather-elsie",
   value: 5,
   minValue: 0,
+  displayOrder: 5,
   history: "jsonl",
   unrevealed: false,
 } as const satisfies MetricCharacterStat

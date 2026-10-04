@@ -8,4 +8,5 @@ export const fairweatherTamsinWits = {
   character: "character-other/fairweather-tamsin",
   value: 1,
   minValue: 0,
+  displayOrder: 4,
 } as const satisfies MetricCharacterStat

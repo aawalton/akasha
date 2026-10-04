@@ -8,4 +8,5 @@ export const fairweatherTamsinStrength = {
   character: "character-other/fairweather-tamsin",
   value: 21,
   minValue: 0,
+  displayOrder: 1,
 } as const satisfies MetricCharacterStat

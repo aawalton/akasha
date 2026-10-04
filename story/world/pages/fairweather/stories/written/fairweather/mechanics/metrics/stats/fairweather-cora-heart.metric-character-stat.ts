@@ -8,4 +8,5 @@ export const fairweatherCoraHeart = {
   character: "character-other/fairweather-cora",
   value: 21,
   minValue: 0,
+  displayOrder: 5,
 } as const satisfies MetricCharacterStat

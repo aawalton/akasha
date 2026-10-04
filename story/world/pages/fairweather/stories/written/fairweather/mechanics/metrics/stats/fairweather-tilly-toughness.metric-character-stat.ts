@@ -8,4 +8,5 @@ export const fairweatherTillyToughness = {
   character: "character-other/fairweather-tilly",
   value: 3,
   minValue: 0,
+  displayOrder: 2,
 } as const satisfies MetricCharacterStat
