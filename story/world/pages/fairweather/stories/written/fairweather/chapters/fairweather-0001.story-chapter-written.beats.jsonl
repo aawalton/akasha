@@ -1,7 +1,7 @@
 {"beat":1,"event":"Elsie wakes before the bread smell, too nervous to sleep, under the round window.","at":"2026-06-01T05:10:00.000Z","place":"place/fairweather-honeycomb","present":["character-player/fairweather-elsie"]}
 {"beat":2,"event":"She tells Mrs Pennywhistle, Sunny, Doris and Captain that today is her Naming."}
 {"beat":3,"event":"She writes her weekly letter: Dear Mum, today I find out, and I hope it's healer, like you.","at":"2026-06-01T05:30:00.000Z"}
-{"beat":4,"event":"She laces the cream halter and the sage skirt, and pins the flower clip above one ear.","at":"2026-06-01T05:50:00.000Z"}
+{"beat":4,"event":"She laces the cream halter and the sage skirt, and pins the flower clip above one ear.","at":"2026-06-01T05:50:00.000Z","changes":[{"page":"story-item/fairweather-adventurers-outfit","note":"Elsie laces on the novice's halter and skirt: now worn","key":"slot","from":null,"to":"item-slot/body"},{"page":"story-item/fairweather-flower-clip","note":"Flower clip pinned above one ear: now worn","key":"slot","from":null,"to":"item-slot/head"}]}
 {"beat":5,"event":"She packs the little satchel: salve, bandages, her notebook, the letter."}
 {"beat":6,"event":"Downstairs the baker presses a honey bun on her for luck and will not be paid for it.","at":"2026-06-01T06:15:00.000Z"}
 {"beat":7,"event":"Elsie posts the letter and walks the lakeshore road with the Mere misted white.","at":"2026-06-01T07:30:00.000Z","place":"place/fairweather-lanternmere","present":["character-player/fairweather-elsie"]}
@@ -29,7 +29,7 @@
 {"beat":29,"event":"An Enthraller is registered and watched by a Warden, who writes down every skill she uses."}
 {"beat":30,"event":"No skill on anyone who has not agreed to it, unless it saves a life."}
 {"beat":31,"event":"Elsie asks if she can still be a healer of sorts; the guildmaster says they'll find out."}
-{"beat":32,"event":"Elsie signs, pays the fee, and a copper tag is stamped with her name and an F.","at":"2026-06-01T12:30:00.000Z"}
+{"beat":32,"event":"Elsie signs, pays the fee, and a copper tag is stamped with her name and an F.","at":"2026-06-01T12:30:00.000Z","changes":[{"page":"metric-character-currency/fairweather-elsie","note":"Elsie counts out her coins for the guild fee","key":"unrevealed","from":true,"to":false},{"page":"metric-character-currency/fairweather-elsie","note":"Guild fee of two silver lanterns paid: 134 → 114 pips","key":"value","from":134,"to":114}]}
 {"beat":33,"event":"The guildmaster walks her down to a charcoal-painted door off the main hall.","at":"2026-06-01T12:45:00.000Z"}
 {"beat":34,"event":"Inside, a young woman in a charcoal coat stands up with a black ledger.","arrive":["character-other/fairweather-cora"]}
 {"beat":35,"event":"She is Warden Corisande Vane, called Cora, and will write down every skill Elsie uses."}
@@ -77,7 +77,7 @@
 {"beat":77,"event":"Cora closes her ledger and says she goes off duty at the hall door.","at":"2026-06-01T19:40:00.000Z"}
 {"beat":78,"event":"Elsie asks what she'll write about today; Cora says she has not decided."}
 {"beat":79,"event":"Elsie says she'll try to give her something good to write, and Cora goes.","leave":["character-other/fairweather-cora"]}
-{"beat":80,"event":"At the Tipsy Heron across the canal, Elsie buys the other two their supper.","at":"2026-06-01T19:50:00.000Z","place":"place/fairweather-lanternmere","present":["character-player/fairweather-elsie","character-other/fairweather-tamsin","character-other/fairweather-tilly"]}
+{"beat":80,"event":"At the Tipsy Heron across the canal, Elsie buys the other two their supper.","at":"2026-06-01T19:50:00.000Z","place":"place/fairweather-lanternmere","present":["character-player/fairweather-elsie","character-other/fairweather-tamsin","character-other/fairweather-tilly"],"changes":[{"page":"metric-character-currency/fairweather-elsie","note":"Two tavern suppers at four pips each for Tamsin and Tilly: 114 → 106 pips","key":"value","from":114,"to":106},{"page":"metric-character-currency/fairweather-elsie","note":"Elsie ends the chapter with 106 pips: 10 lanterns, 6 pips","key":"history","append":{"turn":1,"value":106}}]}
 {"beat":81,"event":"Stew and bread; Tilly talks with her mouth full, and Tamsin eats Tilly's crusts."}
 {"beat":82,"event":"Elsie says she loves them both already, and means it with her whole heart.","at":"2026-06-01T20:30:00.000Z"}
 {"beat":83,"event":"Tamsin chokes on her beer; Tilly goes pink to the ends of her braids."}
