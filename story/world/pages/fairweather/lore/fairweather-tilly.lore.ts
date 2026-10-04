@@ -111,6 +111,10 @@ export const fairweatherTilly = {
       knowers: ["lore-disclosure/game-master", "character-other/fairweather-tilly"],
     },
     {
+      fact: "Tilly is frightened of being underground, and has been since she was small.",
+      knowers: ["lore-disclosure/game-master", "character-other/fairweather-tilly"],
+    },
+    {
       fact: "Tilly makes a good burn salve, a pear-tasting fizz for waking up, and an unfinished smoke.",
       knowers: [
         "lore-disclosure/game-master",
