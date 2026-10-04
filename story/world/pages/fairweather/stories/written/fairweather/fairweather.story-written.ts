@@ -13,6 +13,7 @@ export const fairweather = {
   following: true,
   wordBacklog: 50000,
   proseOnBeats: true,
+  picturesOnBeats: true,
   panels: [
     "played-panel/player-character",
     "played-panel/player-intent",
