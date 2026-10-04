@@ -4,6 +4,7 @@ export const togetherAtTheEdgeOfTheWorldBook4Complete0151SideStory2SmilesAreTheB
   id: "01a0f12a-e88e-7e58-82c7-28676132810c",
   type: "page-type/story-chapter-read",
   slug: "together-at-the-edge-of-the-world-book-4-complete-0151-side-story-2-smiles-are-the-best",
+  ownProgress: 1425,
   position: 151,
   publishedAt: "2026-02-12",
   unit: "unit/words",

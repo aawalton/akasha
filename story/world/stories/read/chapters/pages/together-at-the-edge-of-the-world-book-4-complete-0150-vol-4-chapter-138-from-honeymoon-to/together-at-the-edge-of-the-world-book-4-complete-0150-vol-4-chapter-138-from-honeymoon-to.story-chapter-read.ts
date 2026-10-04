@@ -4,6 +4,7 @@ export const togetherAtTheEdgeOfTheWorldBook4Complete0150Vol4Chapter138FromHoney
   id: "01a0f12a-e88e-7f37-bdfa-e2fd1a8c071c",
   type: "page-type/story-chapter-read",
   slug: "together-at-the-edge-of-the-world-book-4-complete-0150-vol-4-chapter-138-from-honeymoon-to",
+  ownProgress: 2280,
   position: 150,
   publishedAt: "2026-02-11",
   unit: "unit/words",
