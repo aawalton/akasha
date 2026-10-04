@@ -247,5 +247,9 @@ export const overwhereIOdileVarne = {
       fact: "Silence on the letter is no part of the oath; Varne keeps it apart, as their bargain.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Asked, Varne tells the oath's terms truly, the war summons too; the east road is her first call.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
