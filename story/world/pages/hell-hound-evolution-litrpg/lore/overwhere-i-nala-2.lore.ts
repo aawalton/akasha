@@ -259,5 +259,13 @@ export const overwhereINala2 = {
       fact: "On day 9 Nala felted her cloak's chewed hem shut in three stiff, dark ridges.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
+    {
+      fact: "Nala told Varne only she and Grete know of Voss's letter, and that she never looked inside it.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-i-nala",
+        "lore/overwhere-i-odile-varne",
+      ],
+    },
   ],
 } as const satisfies Lore

@@ -107,6 +107,54 @@ export const overwhereIOdileVarne = {
       fact: "Papers under a magistrate's seal answer any gate, reeve or watch that asks who a stranger is.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Varne locked Voss's letter in a press behind her bench in the Moot Hall.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-i-nala",
+        "lore/overwhere-i-odile-varne",
+      ],
+    },
+    {
+      fact: "Varne bound Nala to keep Voss's letter between the three of them; Grete knows to hold her tongue.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-i-nala",
+        "lore/overwhere-i-odile-varne",
+      ],
+    },
+    {
+      fact: "Varne says a stranger with no lord and no papers gets asked about in Wendlow, sooner or later.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-i-nala",
+        "lore/overwhere-i-odile-varne",
+      ],
+    },
+    {
+      fact: "For Nala's silence, Varne offers her papers as a sworn hunter of Wendlow, under Varne's seal.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-i-nala",
+        "lore/overwhere-i-odile-varne",
+      ],
+    },
+    {
+      fact: "Varne says papers under her seal answer any gate, reeve or watch that asks who the bearer is.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-i-nala",
+        "lore/overwhere-i-odile-varne",
+      ],
+    },
+    {
+      fact: "Varne asks Nala her home and her lord, to write on her papers.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-i-nala",
+        "lore/overwhere-i-odile-varne",
+      ],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
