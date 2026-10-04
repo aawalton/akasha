@@ -4,9 +4,9 @@
 {"beat":4,"event":"The clerk speaks the oath a line at a time at her shoulder, and Nala says each line after him."}
 {"beat":5,"event":"To keep the margrave's peace. To answer the bench's call against outlaws and beasts. To speak true."}
 {"beat":6,"event":"The clerk writes her name in the book beneath a column of others, and signs beside it as witness.","at":"2026-10-07T12:40:00.000Z"}
-{"beat":7,"event":"Varne melts red wax onto the foot of the sheet and presses her seal into it."}
+{"beat":7,"event":"Varne melts red wax onto the foot of the sheet and presses her seal into it.","changes":[{"page":"story-item/overwhere-i-sworn-hunter-papers","note":"Varne seals the papers in red wax","key":"description","from":"A sheet in Magistrate Odile Varne's small, quick hand, naming Nala Arthur a sworn hunter of Wendlow, under the margrave.","to":"A sheet in Magistrate Odile Varne's small, quick hand, naming Nala Arthur a sworn hunter of Wendlow, under the margrave, sealed at its foot in red wax."}]}
 {"beat":8,"event":"She folds the sheet once and holds it out. \"Nala Arthur, sworn hunter of Wendlow.\"","at":"2026-10-07T12:44:00.000Z"}
-{"beat":9,"event":"Nala takes the papers: one folded sheet, the red wax still warm under her thumb."}
+{"beat":9,"event":"Nala takes the papers: one folded sheet, the red wax still warm under her thumb.","changes":[{"page":"story-item/overwhere-i-sworn-hunter-papers","note":"Nala takes her sworn hunter's papers","key":"character","from":null,"to":"character-player/overwhere-i-nala"},{"page":"story-item/overwhere-i-sworn-hunter-papers","note":"The papers leave the bench for Nala's hand","key":"place","from":"place/overwhere-i-wendlow","to":null}]}
 {"beat":10,"event":"\"Now, the east road. My first call: rid it of what's left of Harl Voss's crew.\"","at":"2026-10-07T12:45:00.000Z"}
 {"beat":11,"event":"\"The Board proved Voss and eight of his men, your work. The crew was reckoned at a dozen-odd.\""}
 {"beat":12,"event":"\"Who is left of them, and where, is the first thing I want you to find out.\""}
