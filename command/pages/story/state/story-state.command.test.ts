@@ -67,6 +67,7 @@ function storyOver(pages: typeof PAGES): Story {
       valueOf: (page, key) => pages[page]?.[key],
       filed: () => null,
     },
+    held: [],
   }
 }
 
@@ -129,6 +130,67 @@ test("a turn whose beats file does not read is named rather than replayed as not
   const broken: Paged = { ...FIRST, beats: { refused: "the beats file beside `x` is broken" } }
   const story = { ...storyOver(PAGES), turns: [broken, SECOND] }
   expect(stateLines(story)[0]).toBe("refused\tscenes\tthe beats file beside `x` is broken")
+})
+
+const CLASS = "character-class/mara-enthraller"
+
+const BOND = "world-relationship/mara-cora"
+
+const BEFORE = "01a00000-0000-7000-8000-000000000000"
+
+const OPENED = "01a10000-0000-7000-8000-000000000000"
+
+const AFTER = "01a20000-0000-7000-8000-000000000000"
+
+function heldOver(held: Story["held"], changes: readonly BeatChange[]): Story {
+  const opened: Paged = { ...FIRST, value: { ...FIRST.value, id: OPENED } }
+  return {
+    ...storyOver(PAGES),
+    turns: [SECOND, opened],
+    changesOf: (one) => (one.slug === FIRST.slug ? changes : []),
+    held,
+  }
+}
+
+test("a page shown that no beat shows is named", () => {
+  const held = [{ page: CLASS, id: BEFORE, unrevealed: false }]
+  expect(stateLines(heldOver(held, []))).toContain(
+    `drift\t${CLASS}\tunrevealed\tshown, and no beat shows it`
+  )
+  const revealed: BeatChange = {
+    beat: 1,
+    page: CLASS,
+    key: "unrevealed",
+    from: true,
+    to: false,
+    note: "Class",
+  }
+  expect(
+    stateLines(heldOver(held, [revealed])).some((one) =>
+      one.startsWith(`drift\t${CLASS}\tunrevealed\tshown`)
+    )
+  ).toBe(false)
+})
+
+test("a page there since after the first turn that no beat makes is named", () => {
+  const held = [{ page: BOND, id: AFTER, unrevealed: undefined }]
+  expect(stateLines(heldOver(held, []))).toContain(
+    `drift\t${BOND}\tthere, and no beat makes it or hands it over`
+  )
+  const made: BeatChange = { beat: 1, page: BOND, make: { relationshipPoints: 5 }, note: "Bond" }
+  expect(stateLines(heldOver(held, [made]))).toContain(
+    "drift\tnone: the pages hold every value the beats reach"
+  )
+})
+
+test("a page there before the first turn and stating nothing is the story's opening", () => {
+  const held = [
+    { page: BOND, id: BEFORE, unrevealed: undefined },
+    { page: CLASS, id: AFTER, unrevealed: true },
+  ]
+  expect(stateLines(heldOver(held, []))).toContain(
+    "drift\tnone: the pages hold every value the beats reach"
+  )
 })
 
 test("a value changed between two turns by no beat is named as changed outside the beats", () => {

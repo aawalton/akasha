@@ -1,3 +1,5 @@
+import { readdirSync } from "node:fs"
+import { dirname, join } from "node:path"
 import { jsonEqual } from "akasha/code/type/narrowing/modules/json-equal/json-equal.module.code.ts"
 import { takenFor } from "akasha/command/argument/modules/taking/argument-taking.module.code.ts"
 import { story as storyArgument } from "akasha/command/argument/pages/story.argument.ts"
@@ -16,7 +18,11 @@ import {
   storyIndexed,
 } from "akasha/command/pages/story/modules/turn-scenes/turn-scenes.module.code.ts"
 import { storyState as page } from "akasha/command/pages/story/state/story-state.command.ts"
-import { listedAt } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
+import {
+  listedAt,
+  valueByPath,
+} from "akasha/page/index/modules/reading/index-reading.module.code.ts"
+import { pageType } from "akasha/page/type/page-type.page-type.ts"
 import type {
   BeatChange,
   Reading,
@@ -26,6 +32,7 @@ import {
   OPENING,
   replayed,
 } from "akasha/story/engine/beat-state/modules/beat-replay/beat-replay.module.code.ts"
+import { characterPlayer } from "akasha/story/world/characters/character-player/character-player.page-type.ts"
 import { storyPlayed } from "akasha/story/world/stories/played/story-played.page-type.ts"
 import {
   bareOf,
@@ -48,11 +55,38 @@ const STATUS = "stepStatus"
 
 const PARTED = "\t"
 
+const ID = "id"
+
+const TYPE = "type"
+
+const SLUG = "slug"
+
+const UNREVEALED = "unrevealed"
+
+const CHARACTER = "character"
+
+const CHARACTERS = "characters"
+
+const REACHING: readonly string[] = [UNREVEALED, CHARACTER, CHARACTERS]
+
+const PAGE_TYPE = `${pageType.slug}/`
+
+const PLAYER_AT = `${characterPlayer.slug}/`
+
+const SCRIPT = ".ts"
+
+export type Held = {
+  readonly page: string
+  readonly id: string
+  readonly unrevealed: unknown
+}
+
 export type Story = {
   readonly turns: readonly Paged[]
   readonly changesOf: (one: Paged) => readonly BeatChange[]
   readonly memoryOf: (one: Paged) => readonly Memory[]
   readonly reading: Reading
+  readonly held: readonly Held[]
 }
 
 function factOf(reading: Reading, memory: Memory): object | undefined {
@@ -124,6 +158,41 @@ function memorySaid(story: Story, one: Paged, lines: string[], drift: string[]):
   return undefined
 }
 
+function reachedIn(story: Story, published: readonly Paged[]): ReadonlySet<string> {
+  const reached = new Set<string>()
+  for (const one of published) {
+    for (const change of story.changesOf(one)) {
+      if (change.make !== undefined || REACHING.includes(change.key ?? "")) reached.add(change.page)
+    }
+  }
+  return reached
+}
+
+function openingOf(turns: readonly Paged[]): string | null {
+  const ids = turns.flatMap((one) => {
+    const id = one.value[ID]
+    return typeof id === "string" ? [id] : []
+  })
+  return ids.toSorted()[0] ?? null
+}
+
+function heldSaid(story: Story, turns: readonly Paged[], published: readonly Paged[]) {
+  const reached = reachedIn(story, published)
+  const opening = openingOf(turns)
+  const drift: string[] = []
+  for (const one of story.held) {
+    if (reached.has(one.page) || one.unrevealed === true) continue
+    if (one.unrevealed === false) {
+      drift.push(
+        `drift${PARTED}${one.page}${PARTED}${UNREVEALED}${PARTED}shown, and no beat shows it`
+      )
+    } else if (opening !== null && one.id >= opening) {
+      drift.push(`drift${PARTED}${one.page}${PARTED}there, and no beat makes it or hands it over`)
+    }
+  }
+  return drift
+}
+
 export function stateLines(story: Story): readonly string[] {
   const drift: string[] = []
   const turns = inOrder(story.turns)
@@ -134,6 +203,7 @@ export function stateLines(story: Story): readonly string[] {
     changesSaid(story, one, last, drift)
     memorySaid(story, one, lines, drift)
   }
+  drift.push(...heldSaid(story, turns, turns.filter(published)))
   for (const [at, value] of last) {
     lines.push(`value${PARTED}${at}${PARTED}${JSON.stringify(value.to)}`)
     const found = story.reading.valueOf(value.page, value.key) ?? null
@@ -145,6 +215,36 @@ export function stateLines(story: Story): readonly string[] {
   }
   const none = `drift${PARTED}none: the pages hold every value the beats reach`
   return [...lines, ...(drift.length === 0 ? [none] : drift)]
+}
+
+function namesPlayer(value: Readonly<Record<string, unknown>>): boolean {
+  const one = value[CHARACTER]
+  const many = value[CHARACTERS]
+  const named = [...(typeof one === "string" ? [one] : []), ...(Array.isArray(many) ? many : [])]
+  return named.some((each) => typeof each === "string" && each.startsWith(PLAYER_AT))
+}
+
+function heldIn(value: Readonly<Record<string, unknown>>): Held | null {
+  const type = value[TYPE]
+  const slug = value[SLUG]
+  const id = value[ID]
+  if (typeof type !== "string" || typeof slug !== "string" || typeof id !== "string") return null
+  if (!namesPlayer(value)) return null
+  const bare = type.startsWith(PAGE_TYPE) ? type.slice(PAGE_TYPE.length) : type
+  return { page: `${bare}/${slug}`, id, unrevealed: value[UNREVEALED] }
+}
+
+export function heldUnder(root: string, game: string, chapter: boolean): readonly Held[] {
+  const owner = listedAt(root, chapter ? storyWritten.slug : storyPlayed.slug, game)[0]
+  if (owner === undefined) return []
+  const folder = dirname(owner.path)
+  const names = readdirSync(join(root, folder), { recursive: true, encoding: "utf8" })
+  return names.flatMap((name) => {
+    if (!name.endsWith(SCRIPT)) return []
+    const value = valueByPath(root, join(folder, name))
+    const held = value === null ? null : heldIn(value)
+    return held === null ? [] : [held]
+  })
 }
 
 export function storyState(argv: readonly string[], given: Given): Answer {
@@ -163,6 +263,7 @@ export function storyState(argv: readonly string[], given: Given): Answer {
       changesOf: (one) => heldOf(one)?.changes ?? [],
       memoryOf: (one) => heldOf(one)?.memory ?? [],
       reading: changesIndexed(given.root),
+      held: heldUnder(given.root, game, chapter),
     })
   )
 }

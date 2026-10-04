@@ -34,6 +34,25 @@ export const storyState = {
     {
       decisionKind: "decision-kind/departure",
       statement:
+        "A page of the player's character stating it is shown, that no beat shows, is named.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A shown page of the player's character made after the first turn, that no beat makes, is named.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A beat hands a page over by setting the character the page names.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A page made before the first turn that states nothing of being shown is the story's opening.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
         "Only a turn at player counts for numbers and knowers, as only its move wrote them.",
     },
     {
