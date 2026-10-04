@@ -1,1 +1,2 @@
 scene: "The attic was grey with early light" - beat 1 is 05:15; ch6 had it only just going grey at 05:30
+holdings: beat 14: Elsie offers Cora a honey bun, a +1 kindness; Cora's bond, Devotion and the window miss it
