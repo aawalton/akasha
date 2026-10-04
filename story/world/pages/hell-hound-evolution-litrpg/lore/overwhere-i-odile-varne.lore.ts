@@ -67,6 +67,10 @@ export const overwhereIOdileVarne = {
         "lore/overwhere-i-odile-varne",
       ],
     },
+    {
+      fact: "She takes a quiet share of the guild's crystal profits for looking away from its prices.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
