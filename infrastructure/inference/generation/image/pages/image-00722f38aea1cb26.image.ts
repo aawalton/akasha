@@ -4,6 +4,7 @@ export const image00722f38aea1cb26 = {
   id: "01a10468-f739-7551-8b56-3ab9906b6c23",
   type: "page-type/image",
   slug: "image-00722f38aea1cb26",
+  grade: "F",
   service: "image-edit-qwen",
   operation: "edit",
   model: "qwen-image-edit-2511-lightning+beyond-reality-3",
