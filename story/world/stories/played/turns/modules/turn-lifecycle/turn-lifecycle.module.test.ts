@@ -17,6 +17,7 @@ import {
 import {
   advanced,
   at,
+  by,
   CAST,
   heldAt,
   MASTER,
@@ -31,6 +32,7 @@ import {
   WRITER,
 } from "akasha/story/world/stories/played/turns/modules/turn-lifecycle/turn-lifecycle.module.test-fixtures.ts"
 import { turnAfter } from "akasha/story/world/stories/played/turns/modules/turn-making/turn-making.module.code.ts"
+import { rulingsIn } from "akasha/story/world/stories/played/turns/modules/turn-mechanics/turn-mechanics.module.code.ts"
 
 const LATEST: Latest = {
   slug: "the-saga-00-002",
@@ -176,4 +178,118 @@ test("a notice of a page holding issues says it came back for repair and names e
   expect(said).toContain("came back for repair")
   expect(said).toContain("- `x/saga-0001.issues.txt`, listing 2 faults")
   expect(noticeOf("x/saga-0001.ts", "writer")).toBe("The turn `x/saga-0001.ts` is at writer.")
+})
+
+const RULED = { issue: `${VOICE}: beat 2 is dull`, reason: "the beat is quiet on purpose" }
+
+const REVIEWED = { written: true, recordedBy: [memory.slug, CAST] }
+
+test("a reviewer whose every issue is ruled out stays reviewed, and the rulings go at player", () => {
+  const held = heldAt("game-master", {
+    ...REVIEWED,
+    planned: PLANNED,
+    reviewedBy: [continuity.slug],
+    issues: [RULED.issue],
+  })
+  const ruling = { kind: "beats", ...PLANNED, rulings: [RULED] } as const
+  const said = movedOf(advanced(held, MASTER, ruling, TWO))
+  expect(said.values["reviewedBy"]).toEqual([continuity.slug, VOICE].map(by))
+  expect([said.values["rulings"], said.rulings]).toEqual(["jsonl", [RULED]])
+  expect(["issues" in said.values, said.values["issues"]]).toEqual([true, undefined])
+  const ruled = { ...REVIEWED, reviewedBy: TWO, rulings: [RULED] }
+  const on = movedOf(advanced(heldAt("writer", ruled), WRITER, PROSE, TWO))
+  expect([on.status, on.starts]).toEqual(["player", []])
+  expect(["rulings" in on.values, on.values["rulings"]]).toEqual([true, undefined])
+})
+
+test("a reviewer left an issue the ruling did not name reviews again", () => {
+  const live = `${VOICE}: beat 3 is rushed`
+  const held = heldAt("game-master", {
+    ...REVIEWED,
+    planned: PLANNED,
+    reviewedBy: [continuity.slug],
+    issues: [RULED.issue, live],
+  })
+  const said = movedOf(advanced(held, MASTER, { kind: "beats", ...PLANNED, rulings: [RULED] }, TWO))
+  expect(said.values["reviewedBy"]).toBeUndefined()
+  expect([said.values["issues"], said.issues]).toEqual(["txt", [live]])
+})
+
+test("a ruling naming no issue line the page holds is refused", () => {
+  const stray = { issue: `${VOICE}: no such issue`, reason: "none" }
+  const held = heldAt("game-master", { planned: PLANNED, issues: [RULED.issue] })
+  const said = advanced(held, MASTER, { kind: "beats", ...PLANNED, rulings: [stray] }, TWO)
+  expect("refused" in said && said.refused).toBe("ruling 1 names no issue line the turn holds")
+})
+
+test("a reviewer raising a ruled-out issue again word for word has that line dropped", () => {
+  const live = `${VOICE}: beat 3 is rushed`
+  const held = heldAt("reviewers", {
+    ...REVIEWED,
+    reviewedBy: [continuity.slug],
+    issues: [live],
+    rulings: [RULED],
+  })
+  const issues = ["beat 2 is dull", "beat 3 is rushed"]
+  const still = { kind: "review", reviewer: VOICE, issues } as const
+  const said = movedOf(advanced(held, REVIEWER, still, TWO))
+  expect([said.status, said.issues]).toEqual(["game-master", [live]])
+  const only = { kind: "review", reviewer: VOICE, issues: ["beat 2 is dull"] } as const
+  const clean = movedOf(advanced({ ...held, issues: [] }, REVIEWER, only, TWO))
+  expect(clean.status).toBe("player")
+})
+
+const LAMP = "beat 2: no lamp is lit"
+
+const LIT = { issue: LAMP, reason: "the lamp is lit in beat 1" }
+
+test("a mechanics issue the game master rules out reruns no mechanics seat", () => {
+  const held = heldAt("game-master", {
+    planned: PLANNED,
+    recordedBy: RAN,
+    written: true,
+    mechanicsIssues: [LAMP],
+  })
+  const said = movedOf(stepping(held, MASTER, { kind: "beats", ...PLANNED, rulings: [LIT] }))
+  expect([said.status, said.values["recordedBy"], said.starts]).toEqual([
+    "writer",
+    RAN.map(recordedBy),
+    [],
+  ])
+  expect(said.rulings).toEqual([LIT])
+})
+
+test("a mechanics seat raising a ruled-out issue again word for word sends nothing back", () => {
+  const held = heldAt("mechanics", {
+    beats: 2,
+    written: true,
+    recordedBy: ["inventory"],
+    rulings: [LIT],
+  })
+  const again = { kind: "record", recorder: "mechanics", issues: [LAMP] } as const
+  const said = movedOf(stepping(held, RECORDER, again))
+  expect([said.status, said.mechanicsIssues]).toEqual(["recorders", null])
+  expect("mechanicsIssues" in said.values).toBe(false)
+  const gone = "beat 1: the gate is gone"
+  const back = movedOf(stepping(held, RECORDER, { ...again, issues: [LAMP, gone] }))
+  expect([back.status, back.mechanicsIssues]).toEqual(["game-master", [gone]])
+})
+
+test("a ruling is a json line naming the issue and a reason of at most 100 characters", () => {
+  expect(rulingsIn([JSON.stringify(LIT)])).toEqual([LIT])
+  expect(rulingsIn(["beat 2"])).toEqual({ refused: "ruling 1 is no json object" })
+  const long = JSON.stringify({ issue: LAMP, reason: "x".repeat(101) })
+  expect(rulingsIn([long])).toEqual({
+    refused: "ruling 1 states no reason of 1 to 100 characters",
+  })
+})
+
+test("a notice names the rulings, and tells the writer they ask nothing of the prose", () => {
+  const ruled = [{ file: "x/saga-0001.rulings.jsonl", faults: 1, ruled: true }] as const
+  const told = noticeOf("x/saga-0001.ts", "writer", [], "chapter", ruled)
+  expect(told).toContain("ruled out 1 issue in `x/saga-0001.rulings.jsonl`")
+  expect(told).toContain("A ruled-out issue asks nothing of the prose.")
+  expect(told).not.toContain("came back for repair")
+  const master = noticeOf("x/saga-0001.ts", "game-master", [], "chapter", ruled)
+  expect(master).not.toContain("asks nothing of the prose")
 })
