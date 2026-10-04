@@ -86,6 +86,16 @@ test("a transcript recording a result for it reads returned", async () => {
   expect(held.why).toContain("records the result it returned")
 })
 
+test("a transcript re-appending a spawn after its result still reads returned", async () => {
+  const records = [...spawning(OWN), resulting(OWN)].map((one, place) =>
+    Object.assign({ uuid: `u${place}` }, one)
+  )
+  const at = transcribing([...records, ...records.slice(0, 2)])
+  const held = await readFor(ACTING, at, createSubagentReader())
+
+  expect(held.liveness).toBe("returned")
+})
+
 test("a result recorded below another subagent is read as one at the top is", async () => {
   const at = transcribing(spawning(ANOTHER), [...spawning(OWN), resulting(OWN)])
   const held = await readFor(ACTING, at, createSubagentReader())

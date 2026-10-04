@@ -26,6 +26,10 @@ export const subagentLiveness = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A spawn the transcript re-appends after that result leaves it returned.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A transcript read naming the subagent nowhere is taken as unread.",
     },
     {

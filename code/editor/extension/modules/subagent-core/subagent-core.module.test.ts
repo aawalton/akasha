@@ -83,3 +83,61 @@ describe("a subagent resumed after it ended", () => {
     expect(endedSubagents(state, () => null)).toEqual([])
   })
 })
+
+const LAUNCH = {
+  uuid: "u1",
+  type: "assistant",
+  message: {
+    content: [{ type: "tool_use", name: "Agent", id: "t1", input: { description: "d" } }],
+  },
+}
+
+const RECEIPT = {
+  uuid: "u2",
+  type: "user",
+  message: { content: [{ type: "tool_result", tool_use_id: "t1" }] },
+  toolUseResult: { isAsync: true, agentId: "ag1" },
+}
+
+const NOTICE = {
+  uuid: "u3",
+  type: "user",
+  timestamp: ENDED_AT,
+  message: { content: "<task-notification>\n<task-id>ag1</task-id>\n</task-notification>" },
+}
+
+function replayed(records: readonly Record<string, unknown>[]): SubagentState {
+  const state = emptySubagentState()
+  for (const record of records) {
+    applyRecord(state, record)
+  }
+  return state
+}
+
+describe("a transcript re-appending records it already holds", () => {
+  test("a subagent whose launch is re-appended after its end reads ended", () => {
+    const state = replayed([LAUNCH, RECEIPT, NOTICE, LAUNCH, RECEIPT])
+    expect(runningSubagents(state, () => null)).toEqual([])
+    expect(endedSubagents(state, () => null)).toEqual(["ag1"])
+  })
+
+  test("a record whose uuid was already applied changes nothing", () => {
+    const state = replayed([LAUNCH, RECEIPT, NOTICE])
+    applyRecord(state, {
+      ...LAUNCH,
+      message: {
+        content: [{ type: "tool_use", name: "Agent", id: "t2", input: { description: "e" } }],
+      },
+    })
+    expect(runningSubagents(state, () => null)).toEqual([])
+  })
+
+  test("a launch re-appended into a fold that never applied it leaves an ended subagent ended", () => {
+    const state = replayed([LAUNCH, RECEIPT, NOTICE])
+    state.applied.clear()
+    applyRecord(state, LAUNCH)
+    applyRecord(state, RECEIPT)
+    expect(runningSubagents(state, () => null)).toEqual([])
+    expect(endedSubagents(state, () => null)).toEqual(["ag1"])
+  })
+})

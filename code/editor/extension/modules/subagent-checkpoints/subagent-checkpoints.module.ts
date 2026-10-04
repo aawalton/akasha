@@ -17,6 +17,14 @@ export const subagentCheckpoints = {
       statement: "The state a checkpoint keeps says when each subagent's end was read.",
     },
     {
+      decisionKind: "decision-kind/absence",
+      statement: "A checkpoint keeps no uuid of a record its fold applied.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A fold taken from the book has applied no record by uuid.",
+    },
+    {
       decisionKind: "decision-kind/departure",
       statement: "A book that does not parse is read as no book.",
     },

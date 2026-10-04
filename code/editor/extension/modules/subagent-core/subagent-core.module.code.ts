@@ -14,6 +14,7 @@ export interface SubagentState {
   readonly running: Map<string, boolean>
   readonly awaiting: Set<string>
   readonly endedAt: Map<string, number>
+  readonly applied: Set<string>
 }
 
 export type WrittenAt = (agentId: string) => number | null
@@ -29,6 +30,7 @@ export function emptySubagentState(): SubagentState {
     running: new Map(),
     awaiting: new Set(),
     endedAt: new Map(),
+    applied: new Set(),
   }
 }
 
@@ -86,6 +88,13 @@ function notificationText(record: Json): string {
 }
 
 export function applyRecord(state: SubagentState, record: Json): undefined {
+  const uuid = textIn(record.uuid)
+  if (uuid !== null) {
+    if (state.applied.has(uuid)) {
+      return undefined
+    }
+    state.applied.add(uuid)
+  }
   const message = asObject(record.message)
 
   if (record.type === "system" && record.subtype === "agents_killed") {
@@ -108,7 +117,7 @@ export function applyRecord(state: SubagentState, record: Json): undefined {
       continue
     }
     const toolUseId = textIn(b.id)
-    if (toolUseId === null) {
+    if (toolUseId === null || state.endedAt.has(toolUseId)) {
       continue
     }
     const input = asObject(b.input) ?? {}
@@ -144,7 +153,7 @@ export function applyRecord(state: SubagentState, record: Json): undefined {
       if (agentId !== null) {
         state.agentByTool.set(agentId, toolUseId)
       }
-      state.running.set(toolUseId, result.isAsync === true)
+      state.running.set(toolUseId, result.isAsync === true && !state.endedAt.has(toolUseId))
     }
 
     const resumed = textIn(result.resumedAgentId)

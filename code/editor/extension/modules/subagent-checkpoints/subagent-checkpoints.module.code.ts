@@ -67,6 +67,7 @@ export async function readCheckpoints(): Promise<ReadonlyMap<string, Checkpoint>
         running: new Map(one.running),
         awaiting: new Set(one.awaiting),
         endedAt: new Map(one.endedAt),
+        applied: new Set(),
       },
     })
   }

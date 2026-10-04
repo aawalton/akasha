@@ -18,6 +18,14 @@ export const subagentCore = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A record whose uuid this fold already applied is a replay and changes nothing.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A launch or launch receipt never marks running a subagent whose end was read.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A record saying every agent was killed stops every subagent at once.",
     },
     {
