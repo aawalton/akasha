@@ -153,13 +153,7 @@ export const fairweatherElsie = {
     },
     {
       fact: "Elsie's mother taught her moonbells: blue night-blooming flowers she brewed into fever draughts.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/fairweather-elsie",
-        "character-other/fairweather-tilly",
-        "character-other/fairweather-tamsin",
-        "character-other/fairweather-cora",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-player/fairweather-elsie"],
     },
     {
       fact: "Elsie Fairweather's class is Enthraller.",
