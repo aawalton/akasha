@@ -11,7 +11,6 @@ export const climb = {
   chapterBreak: "A floor's task is met and its stairs open.",
   coordinatorAgent: "mari-game-master-climb",
   following: false,
-  picturesOnBeats: true,
   panels: [
     "played-panel/player-character",
     "played-panel/scene-cover",
