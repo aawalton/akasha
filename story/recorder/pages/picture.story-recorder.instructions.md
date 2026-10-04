@@ -49,9 +49,9 @@ Each picture edits the place's cover, with the covers of its characters as the s
 
 naming one `--image` for each character pictured. Write the prompt as 150 to 250 words, one paragraph of plain description:
 
-- opening with the design's visual style, then `Keep the place from the first image` and where in it this moment is, as `by the round window` or `at the registration desk` is
-- each figure as `the woman from the second image`, then her `coverDescription` word for word, then what she wears piece by piece as the lore and prose say, dressed as above
-- what happens at this beat: each figure's pose, hands, expression and where she looks, stated plainly and exactly, and how near each is to the other
+- opening with the design's visual style and `candid photograph, nobody looks at the camera`, then `Keep the place from the first image` and where in it this moment is, as `by the round window` or `at the registration desk` is
+- what happens at this beat, before any looks, naming each figure by her image and hair, as `the pink-haired woman from the second image`: her pose, hands, expression and where she looks, stated plainly and exactly, and how near each is to the other, since an edit told the looks first poses its figures for the camera
+- each figure's `coverDescription`, then her slim build and small chest, then what she wears piece by piece as the lore and prose say, dressed as above
 - the light and time of day the beat's `at` gives, and anything the prose puts in the frame
 - the camera: framing close enough that every face pictured reads, lens and depth of field
 
