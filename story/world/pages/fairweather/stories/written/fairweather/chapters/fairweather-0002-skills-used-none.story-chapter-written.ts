@@ -5,7 +5,7 @@ export const fairweather0002SkillsUsedNone = {
   type: "page-type/story-chapter-written",
   slug: "fairweather-0002-skills-used-none",
   cover: "image/image-62a2c513db876d22",
-  ownProgress: 2732,
+  ownProgress: 2826,
   position: 2,
   unit: "unit/words",
   title: "Skills Used, None",
