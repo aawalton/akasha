@@ -113,5 +113,9 @@ export const overwhereITheDeserterCrew4 = {
       fact: "The ears are eight in all, one for each slain crewman; Voss's head stands for him.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Ulrik Hask, a Level 13 Iron March crossbowman, was Voss's lookout at the cairn, and lives.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
