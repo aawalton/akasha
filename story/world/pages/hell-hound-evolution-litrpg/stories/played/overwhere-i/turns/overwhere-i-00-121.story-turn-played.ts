@@ -15,7 +15,7 @@ export const overwhereI00121 = {
     "character-other/overwhere-i-harl-voss",
     "character-other/overwhere-i-voss-drakewolf",
   ],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/player",
   action:
     "“Sure, that sounds fine. What’s on the East road that needs killing again? So I’m not going in blind.”",
   beats: "jsonl",
@@ -28,7 +28,12 @@ export const overwhereI00121 = {
     "lore/overwhere-i-the-deserter-crew-3",
     "lore/overwhere-i-the-deserter-crew-4",
   ],
-  reviewedBy: ["story-reviewer/holdings", "story-reviewer/style", "story-reviewer/continuity"],
+  reviewedBy: [
+    "story-reviewer/holdings",
+    "story-reviewer/style",
+    "story-reviewer/continuity",
+    "story-reviewer/scene",
+  ],
   recordedBy: [
     "story-recorder/inventory",
     "story-recorder/plan",

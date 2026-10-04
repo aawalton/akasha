@@ -291,5 +291,29 @@ export const overwhereINala2 = {
         "lore/overwhere-i-odile-varne",
       ],
     },
+    {
+      fact: "On day 9 Nala swore the sworn hunter's oath before Varne, one hand on the town book.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-i-nala",
+        "lore/overwhere-i-odile-varne",
+      ],
+    },
+    {
+      fact: "The town clerk wrote Nala Arthur in the town book among the sworn, and signed as witness.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-i-nala",
+        "lore/overwhere-i-odile-varne",
+      ],
+    },
+    {
+      fact: "Nala carries papers as a sworn hunter of Wendlow, under Varne's red wax seal.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-i-nala",
+        "lore/overwhere-i-odile-varne",
+      ],
+    },
   ],
 } as const satisfies Lore

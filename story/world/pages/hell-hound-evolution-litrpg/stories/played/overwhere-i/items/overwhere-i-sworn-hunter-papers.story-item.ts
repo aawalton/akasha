@@ -6,7 +6,7 @@ export const overwhereISwornHunterPapers = {
   slug: "overwhere-i-sworn-hunter-papers",
   title: "Sworn Hunter's Papers",
   story: "story-played/overwhere-i",
-  place: "place/overwhere-i-wendlow",
+  character: "character-player/overwhere-i-nala",
   description:
-    "A sheet in Magistrate Odile Varne's small, quick hand, naming Nala Arthur a sworn hunter of Wendlow, under the margrave.",
+    "A sheet in Magistrate Odile Varne's small, quick hand, naming Nala Arthur a sworn hunter of Wendlow, under the margrave, sealed at its foot in red wax.",
 } as const satisfies StoryItem

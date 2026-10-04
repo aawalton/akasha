@@ -351,5 +351,45 @@ export const overwhereIOdileVarne = {
       fact: "The bench pays two gold for a crewman brought to it alive, as the Board pays for his ear and tag.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Varne's first call on Nala: rid the east road of what is left of Harl Voss's crew.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-i-nala",
+        "lore/overwhere-i-odile-varne",
+      ],
+    },
+    {
+      fact: "Varne says the Board proved Voss and eight of his men, Nala's work, of a crew reckoned a dozen-odd.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-i-nala",
+        "lore/overwhere-i-odile-varne",
+      ],
+    },
+    {
+      fact: "Varne wants first to learn who of Voss's crew is left, and where.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-i-nala",
+        "lore/overwhere-i-odile-varne",
+      ],
+    },
+    {
+      fact: "Varne pays two gold a crewman at the Board's rate: his right ear with its tag, or him alive.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-i-nala",
+        "lore/overwhere-i-odile-varne",
+      ],
+    },
+    {
+      fact: "Varne wants word of Voss's crew before the next tax rider, ten days from day 9.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-i-nala",
+        "lore/overwhere-i-odile-varne",
+      ],
+    },
   ],
 } as const satisfies Lore
