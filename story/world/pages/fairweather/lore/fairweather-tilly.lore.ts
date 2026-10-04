@@ -85,7 +85,7 @@ export const fairweatherTilly = {
       knowers: ["lore-disclosure/game-master", "character-other/fairweather-tilly"],
     },
     {
-      fact: "Tilly Brandt is an Alchemist of F-rank.",
+      fact: "Tilly Brandt is an Alchemist.",
       knowers: ["lore-disclosure/game-master", "character-player/fairweather-elsie"],
     },
     {
