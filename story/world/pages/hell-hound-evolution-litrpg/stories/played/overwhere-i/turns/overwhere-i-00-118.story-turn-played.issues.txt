@@ -1,0 +1,3 @@
+style: "You'll speak of this letter to no one." - Plain Negation
+style: "He sits with his own pen lifted, listening." - No Prompt
+style: "Well, Nala Arthur?" - No Prompt
