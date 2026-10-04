@@ -165,10 +165,7 @@ export const fairweatherWorld = {
         "character-other/fairweather-tilly",
       ],
     },
-    {
-      fact: "Lanternmere still whispers of Vesper Locke and the War of Strings at the word Enthraller.",
-      knowers: ["lore-disclosure/game-master", "character-player/fairweather-elsie"],
-    },
+
     {
       fact: "An Enthraller's Warden goes with her on all guild business, dungeons included.",
       knowers: ["lore-disclosure/game-master", "character-other/fairweather-cora"],
