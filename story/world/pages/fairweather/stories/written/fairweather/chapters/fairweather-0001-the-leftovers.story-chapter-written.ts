@@ -31,6 +31,7 @@ export const fairweather0001TheLeftovers = {
     "character-other/fairweather-tamsin",
     "character-other/fairweather-tilly",
   ],
+  recordedBy: ["story-recorder/inventory"],
   rulings: "jsonl",
   scenes: [
     "image/image-36e4549d04ca1b40",
