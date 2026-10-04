@@ -11,15 +11,15 @@
 {"beat":11,"event":"Windows open in the air above the circle: a Weaver, a Hearthkeeper, a Swordswoman."}
 {"beat":12,"event":"The girl with the mint leaf is named a Herbalist and cries, and Elsie claps hardest."}
 {"beat":13,"event":"Elsie's name is called; she steps alone into the silver circle and shuts her eyes.","at":"2026-06-01T10:00:00.000Z"}
-{"beat":14,"event":"She opens them, and the window above her reads Enthraller."}
+{"beat":14,"event":"She opens them, and the window above her reads Enthraller.","changes":[{"page":"character-class/fairweather-elsie-enthraller","note":"Class: Enthraller","key":"unrevealed","from":true,"to":false}]}
 {"beat":15,"event":"The whole hall goes silent; somebody's breath catches, and nobody moves."}
 {"beat":16,"event":"She reads it twice over, to be sure she has the word right."}
 {"beat":17,"event":"In the gallery a woman in a good dark coat rises and walks out."}
 {"beat":18,"event":"Elsie says, Oh! That sounds like a lot of responsibility, and smiles at the priestess."}
 {"beat":19,"event":"The priestess's hands are shaking; Elsie tells her it's all right, she isn't cross."}
 {"beat":20,"event":"Outside, the Herbalist will not meet her eye, and the line parts to let Elsie by.","at":"2026-06-01T10:30:00.000Z"}
-{"beat":21,"event":"On the lake wall alone, Elsie wishes her own window open and reads it.","at":"2026-06-01T10:45:00.000Z","place":"place/fairweather-lanternmere","present":["character-player/fairweather-elsie"]}
-{"beat":22,"event":"Captivate and Tether; she says out loud, to nobody, that the names are awful."}
+{"beat":21,"event":"On the lake wall alone, Elsie wishes her own window open and reads it.","at":"2026-06-01T10:45:00.000Z","place":"place/fairweather-lanternmere","present":["character-player/fairweather-elsie"],"changes":[{"page":"metric-character-level/fairweather-elsie","note":"Level: 1","key":"unrevealed","from":true,"to":false},{"page":"metric-character-experience/fairweather-elsie","note":"Experience: 0 / 100","key":"unrevealed","from":true,"to":false}]}
+{"beat":22,"event":"Captivate and Tether; she says out loud, to nobody, that the names are awful.","changes":[{"page":"character-skill/fairweather-elsie-captivate","note":"Skill: Captivate","key":"unrevealed","from":true,"to":false},{"page":"character-skill/fairweather-elsie-tether","note":"Skill: Tether","key":"unrevealed","from":true,"to":false}]}
 {"beat":23,"event":"Her eyes fill; she wipes them on her glove and decides to register anyway."}
 {"beat":24,"event":"The guild hall on Brightwater Square is timber and noise under its copper roof.","at":"2026-06-01T11:30:00.000Z","place":"place/fairweather-guild-hall","present":["character-player/fairweather-elsie"]}
 {"beat":25,"event":"At registration she gives her name; the clerk asks her class, and she tells him."}
@@ -29,7 +29,7 @@
 {"beat":29,"event":"An Enthraller is registered and watched by a Warden, who writes down every skill she uses."}
 {"beat":30,"event":"No skill on anyone who has not agreed to it, unless it saves a life."}
 {"beat":31,"event":"Elsie asks if she can still be a healer of sorts; the guildmaster says they'll find out."}
-{"beat":32,"event":"Elsie signs, pays the fee, and a copper tag is stamped with her name and an F.","at":"2026-06-01T12:30:00.000Z","changes":[{"page":"metric-character-currency/fairweather-elsie","note":"Elsie counts out her coins for the guild fee","key":"unrevealed","from":true,"to":false},{"page":"metric-character-currency/fairweather-elsie","note":"Guild fee of two silver lanterns paid: 134 → 114 pips","key":"value","from":134,"to":114}]}
+{"beat":32,"event":"Elsie signs, pays the fee, and a copper tag is stamped with her name and an F.","at":"2026-06-01T12:30:00.000Z","changes":[{"page":"metric-character-currency/fairweather-elsie","note":"Elsie counts out her coins for the guild fee","key":"unrevealed","from":true,"to":false},{"page":"metric-character-currency/fairweather-elsie","note":"Guild fee of two silver lanterns paid: 134 → 114 pips","key":"value","from":134,"to":114},{"page":"character-rank/fairweather-elsie-rank-f","note":"Guild rank: F","key":"unrevealed","from":true,"to":false}]}
 {"beat":33,"event":"The guildmaster walks her down to a charcoal-painted door off the main hall.","at":"2026-06-01T12:45:00.000Z"}
 {"beat":34,"event":"Inside, a young woman in a charcoal coat stands up with a black ledger.","arrive":["character-other/fairweather-cora"]}
 {"beat":35,"event":"She is Warden Corisande Vane, called Cora, and will write down every skill Elsie uses."}
@@ -51,13 +51,13 @@
 {"beat":51,"event":"Tamsin says she heard about the Hall: you're the Enthraller. Elsie says yes."}
 {"beat":52,"event":"Tamsin says this corner is the Leftovers, she's Tamsin, and the axe is Margery."}
 {"beat":53,"event":"Elsie sees Tamsin's knuckle wraps have come loose, and rewraps them, slow and neat."}
-{"beat":54,"event":"Tamsin goes still and red to the ears, and lets her."}
+{"beat":54,"event":"Tamsin goes still and red to the ears, and lets her.","changes":[{"page":"world-relationship/fairweather-elsie-tamsin","note":"Bond: Tamsin 10 (sat with her, rewrapped her knuckles)","make":{"title":"Elsie and Tamsin","world":"world/fairweather","characters":["character-player/fairweather-elsie","character-other/fairweather-tamsin"],"relationshipPoints":10}}]}
 {"beat":55,"event":"A pop and a puff of green smoke at the corner; a small woman in goggles waves it off.","at":"2026-06-01T14:40:00.000Z","arrive":["character-other/fairweather-tilly"]}
 {"beat":56,"event":"She pins a notice at the Leftovers: Alchemist seeks party. Will not explode (mostly)."}
 {"beat":57,"event":"She is Ottilie Brandt, Tilly, thrown out of the Alchemists' College last week."}
 {"beat":58,"event":"She apologises three times before Elsie has asked her anything."}
 {"beat":59,"event":"Elsie asks what she makes; Tilly names a burn salve, a fizz, and something that smokes."}
-{"beat":60,"event":"Elsie says a burn salve is just what a healer wants, and Tilly drops her chalk."}
+{"beat":60,"event":"Elsie says a burn salve is just what a healer wants, and Tilly drops her chalk.","changes":[{"page":"world-relationship/fairweather-elsie-tilly","note":"Bond: Tilly 5 (Elsie wanted her burn salve)","make":{"title":"Elsie and Tilly","world":"world/fairweather","characters":["character-player/fairweather-elsie","character-other/fairweather-tilly"],"relationshipPoints":5}}]}
 {"beat":61,"event":"Tamsin says the guild licenses no party into a dungeon with fewer than three."}
 {"beat":62,"event":"Elsie looks from one to the other and says, then there are three of us.","at":"2026-06-01T15:00:00.000Z"}
 {"beat":63,"event":"On the last empty slate she chalks Elsie; Tamsin writes hers under, and Tilly hers last."}
@@ -80,7 +80,7 @@
 {"beat":80,"event":"At the Tipsy Heron across the canal, Elsie buys the other two their supper.","at":"2026-06-01T19:50:00.000Z","place":"place/fairweather-lanternmere","present":["character-player/fairweather-elsie","character-other/fairweather-tamsin","character-other/fairweather-tilly"],"changes":[{"page":"metric-character-currency/fairweather-elsie","note":"Two tavern suppers at four pips each for Tamsin and Tilly: 114 → 106 pips","key":"value","from":114,"to":106},{"page":"metric-character-currency/fairweather-elsie","note":"Elsie ends the chapter with 106 pips: 10 lanterns, 6 pips","key":"history","append":{"turn":1,"value":106}}]}
 {"beat":81,"event":"Stew and bread; Tilly talks with her mouth full, and Tamsin eats Tilly's crusts."}
 {"beat":82,"event":"Elsie says she loves them both already, and means it with her whole heart.","at":"2026-06-01T20:30:00.000Z"}
-{"beat":83,"event":"Tamsin chokes on her beer; Tilly goes pink to the ends of her braids."}
+{"beat":83,"event":"Tamsin chokes on her beer; Tilly goes pink to the ends of her braids.","changes":[{"page":"world-relationship/fairweather-elsie-tamsin","note":"Bond: Tamsin 10 → 15 (supper, Elsie says she loves her)","key":"relationshipPoints","from":10,"to":15},{"page":"world-relationship/fairweather-elsie-tilly","note":"Bond: Tilly 5 → 10 (supper, Elsie says she loves her)","key":"relationshipPoints","from":5,"to":10}]}
 {"beat":84,"event":"Elsie thinks that is what people look like when they're glad, and is glad too."}
 {"beat":85,"event":"They part at the bridge: Crooked Kettle, eight, says Tamsin; Tilly will bring the fizz.","at":"2026-06-01T21:15:00.000Z","leave":["character-other/fairweather-tamsin","character-other/fairweather-tilly"]}
 {"beat":86,"event":"Elsie walks home along Thimble Canal under the lanterns, humming without knowing it.","at":"2026-06-01T21:30:00.000Z"}
