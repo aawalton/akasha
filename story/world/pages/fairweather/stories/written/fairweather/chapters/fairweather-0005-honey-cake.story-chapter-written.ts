@@ -5,6 +5,7 @@ export const fairweather0005HoneyCake = {
   type: "page-type/story-chapter-written",
   slug: "fairweather-0005-honey-cake",
   cover: "image/image-226e2a15d01d81d0",
+  ownProgress: 1250,
   position: 5,
   unit: "unit/words",
   title: "Honey Cake",
