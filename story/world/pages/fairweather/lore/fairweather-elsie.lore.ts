@@ -25,10 +25,6 @@ export const fairweatherElsie = {
       knowers: ["lore-disclosure/game-master", "character-player/fairweather-elsie"],
     },
     {
-      fact: "Elsie has small soft breasts with pale pink nipples, and a little rose-pink hair over her pussy.",
-      knowers: ["lore-disclosure/game-master", "character-player/fairweather-elsie"],
-    },
-    {
       fact: "Elsie wears a cropped cream halter top laced up the front, a short sage-green skirt and tall boots.",
       knowers: ["lore-disclosure/game-master", "character-player/fairweather-elsie"],
     },
