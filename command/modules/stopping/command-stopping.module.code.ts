@@ -6,6 +6,13 @@ export const ALLOWED = 120
 
 export const MEASURED_ALLOWED = 1800
 
+export const LEEWAY = 60
+
+export function waitedWithin(asked: number | undefined, allowed: number): number {
+  const room = Math.max(allowed - LEEWAY, Math.ceil(allowed / 2))
+  return asked === undefined ? room : Math.min(asked, room)
+}
+
 type Watch = { readonly ended: () => void }
 
 const LIVE = Symbol.for("akasha/command/modules/stopping/live")

@@ -7,6 +7,7 @@ export const inferenceEdit = {
   definition: "the command remaking an image under an instruction, keeping its subject",
   code: "ts",
   test: "ts",
+  maxWallSeconds: 600,
   decisions: [
     {
       decisionKind: "decision-kind/departure",

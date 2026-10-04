@@ -52,6 +52,8 @@ interface ComfyRunResult {
 
 const POLL_INTERVAL_MS = 2500
 
+const WITHDRAW_MS = 10_000
+
 type PollDecision =
   | { readonly kind: "image"; readonly image: ImageRef }
   | { readonly kind: "error"; readonly message: string }
@@ -145,7 +147,36 @@ export async function runComfyGraph(req: ComfyRunRequest): Promise<ComfyRunResul
     throw new Error(`ComfyUI rejected the graph: ${JSON.stringify(prompt.node_errors)}`)
   }
   note(`queued prompt ${prompt.prompt_id}; running (a cold load can take minutes)...`)
+  try {
+    return await polled(req, prompt.prompt_id, graph, storedName, note)
+  } catch (thrown) {
+    await withdrawn(req.baseUrl, prompt.prompt_id)
+    note(`prompt ${prompt.prompt_id} is withdrawn from the ComfyUI queue`)
+    throw thrown
+  }
+}
 
+async function withdrawn(baseUrl: string, promptId: string): Promise<undefined> {
+  const posted = (path: string, body: unknown): Promise<unknown> =>
+    fetch(`${baseUrl}${path}`, {
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify(body),
+      signal: AbortSignal.timeout(WITHDRAW_MS),
+    }).catch(() => undefined)
+  await posted("/queue", { delete: [promptId] })
+  await posted("/interrupt", { prompt_id: promptId })
+  return undefined
+}
+
+async function polled(
+  req: ComfyRunRequest,
+  promptId: string,
+  graph: ComfyGraph,
+  storedName: string | undefined,
+  note: (msg: string) => void
+): Promise<ComfyRunResult> {
+  const prompt = { prompt_id: promptId }
   const started = performance.now()
   const deadline = started + req.pollDeadlineMs
   for (;;) {

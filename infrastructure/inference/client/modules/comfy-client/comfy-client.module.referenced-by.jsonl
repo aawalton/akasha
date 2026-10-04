@@ -1,5 +1,6 @@
 {"propertySlug":"import","fileName":"comfy-client.module.code.ts","path":"command/pages/inference/wan/modules/wan-clip-rendering/wan-clip-rendering.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"comfy-client.module.code.ts","path":"command/pages/inference/zimage/inference-zimage.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"comfy-client.module.code.ts","path":"infrastructure/inference/client/modules/comfy-client/comfy-client.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"comfy-client.module.code.ts","path":"infrastructure/inference/generation/zimage/modules/edit-running/zimage-edit-running.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"comfy-client.module.code.ts","path":"story/world/stories/played/modules/cover-redrawing/cover-redrawing.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"infrastructure/inference/client/inference-client.domain.ts","id":"01a0682d-8f07-7000-ab6b-b7ebbf0863a0"}

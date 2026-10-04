@@ -6,7 +6,16 @@ export const comfyClient = {
   slug: "comfy-client",
   definition: "a graph run on ComfyUI and the image that run made",
   code: "ts",
+  test: "ts",
   decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A run given up on is taken off the queue and interrupted where it is running.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A run answered with its image is left as ComfyUI has it.",
+    },
     {
       decisionKind: "decision-kind/departure",
       statement: "The graph's own types are taken from `comfy-graph` rather than declared again.",

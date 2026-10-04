@@ -93,6 +93,19 @@ export const commandStopping = {
       statement: "A call stopped at the ceiling records nothing about what that call cost.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A call waits on work outside it a minute less than its ceiling, so it gives up first.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A ceiling of two minutes or less is waited on for half of it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A wait the caller asked for is kept where it is shorter than that.",
+    },
+    {
       decisionKind: "decision-kind/absence",
       statement: "Nothing here waits on the answer a command gives.",
     },

@@ -3,9 +3,11 @@ import {
   ALLOWED,
   allowedAgain,
   allowedThrough,
+  LEEWAY,
   MEASURED_ALLOWED,
   saidOf,
   secondsIn,
+  waitedWithin,
   watching,
   watchOf,
 } from "akasha/command/modules/stopping/command-stopping.module.code.ts"
@@ -59,6 +61,20 @@ test("what is said sends a ceiling that wants raising to Alan", () => {
 
 test("a call measuring is allowed more seconds than a call this module names the seconds for", () => {
   expect(MEASURED_ALLOWED).toBeGreaterThan(ALLOWED)
+})
+
+test("a call waits on work outside it a minute less than its ceiling, so it gives up first", () => {
+  expect(waitedWithin(undefined, 600)).toBe(600 - LEEWAY)
+  expect(waitedWithin(1800, 600)).toBe(600 - LEEWAY)
+})
+
+test("a ceiling of two minutes or less is waited on for half of it", () => {
+  expect(waitedWithin(undefined, ALLOWED)).toBe(ALLOWED / 2)
+  expect(waitedWithin(undefined, 7)).toBe(4)
+})
+
+test("a wait the caller asked for is kept where it is shorter than that", () => {
+  expect(waitedWithin(30, 600)).toBe(30)
 })
 
 test("a call may be allowed more seconds while that call runs", async () => {

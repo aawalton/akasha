@@ -35,6 +35,7 @@ import type { Answer, Given } from "akasha/command/modules/calling/calling.modul
 import { whyOf } from "akasha/command/modules/fault-saying/fault-saying.module.code.ts"
 import { filing, filledIn } from "akasha/command/modules/filling/command-filling.module.code.ts"
 import { pathUnder } from "akasha/command/modules/said-pathing/said-pathing.module.code.ts"
+import { waitedWithin } from "akasha/command/modules/stopping/command-stopping.module.code.ts"
 import { inferenceZimage as page } from "akasha/command/pages/inference/zimage/inference-zimage.command.ts"
 import {
   fetchImage,
@@ -60,8 +61,6 @@ const DEFAULT_PORT = "8678"
 const STAGED_DIGEST = 8
 
 const SECOND_MS = 1000
-
-const DEFAULT_TIMEOUT_SEC = 900
 
 const PAGES = [
   baseModel,
@@ -216,7 +215,7 @@ async function generating(
   const guidance = guidanceSaid === undefined ? spec.defaultGuidance : Number(guidanceSaid)
   const loraStrength = Number(taken.loraScales)
   const seed = taken.seed ?? drawSeed()
-  const waiting = (taken.timeout ?? DEFAULT_TIMEOUT_SEC) * SECOND_MS
+  const waiting = waitedWithin(taken.timeout, page.maxWallSeconds) * SECOND_MS
 
   const selector = taken.baseModel
   if (selector !== undefined) {

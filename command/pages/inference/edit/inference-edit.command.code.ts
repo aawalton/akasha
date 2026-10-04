@@ -24,6 +24,7 @@ import {
 import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
 import { filing, filledIn } from "akasha/command/modules/filling/command-filling.module.code.ts"
 import { pathUnder } from "akasha/command/modules/said-pathing/said-pathing.module.code.ts"
+import { waitedWithin } from "akasha/command/modules/stopping/command-stopping.module.code.ts"
 import { inferenceEdit as page } from "akasha/command/pages/inference/edit/inference-edit.command.ts"
 import type { GeminiImageConfig } from "akasha/infrastructure/inference/client/modules/gemini-image-client/gemini-image-client.module.code.ts"
 import {
@@ -82,8 +83,6 @@ const KEY = "GEMINI_API_KEY"
 const RATIOS = ["1:1", "2:3", "3:2", "3:4", "4:3", "4:5", "5:4", "9:16", "16:9", "21:9"]
 
 const SIZES = ["1K", "2K", "4K"]
-
-const DEFAULT_TIMEOUT_SEC = 1800
 
 export function refsIn(csv: string | undefined): readonly string[] {
   return (csv ?? "")
@@ -192,7 +191,7 @@ export async function inferenceEdit(argv: readonly string[], given: Given): Prom
   }
 
   const prompt = asked.text ?? ""
-  const timeout = taken.timeout ?? DEFAULT_TIMEOUT_SEC
+  const timeout = waitedWithin(taken.timeout, page.maxWallSeconds)
   const aspectRatio = taken.aspectRatio
   const imageSize = taken.size
   const references = [...images.slice(1), ...imagesUnder(given.root, refsIn(taken.refs))]
