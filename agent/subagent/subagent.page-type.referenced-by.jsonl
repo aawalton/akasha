@@ -3,6 +3,7 @@
 {"propertySlug":"import","fileName":"subagent.page-type.ts","path":"command/modules/edits-repointing/edits-repointing.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"subagent.page-type.ts","path":"command/pages/initiative/delete/initiative-delete.command.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"subagent.page-type.types.ts","path":"agent/subagent/pages/awen-a243cbcf0d98b81ab/awen-a243cbcf0d98b81ab.subagent.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"subagent.page-type.types.ts","path":"agent/subagent/pages/mari-a12e9b2e6cb0d45e3/mari-a12e9b2e6cb0d45e3.subagent.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"subagent.page-type.types.ts","path":"agent/subagent/pages/mari-a6ff4c6bc6893b904/mari-a6ff4c6bc6893b904.subagent.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"subagent.page-type.types.ts","path":"agent/subagent/pages/mari-a7bdf70fd84fdfa9f/mari-a7bdf70fd84fdfa9f.subagent.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"subagent.page-type.types.ts","path":"agent/subagent/pages/mari-a9aa2734800b22dc6/mari-a9aa2734800b22dc6.subagent.ts","typed":true,"deferred":false}
