@@ -16,7 +16,7 @@ export const overwhereI00120 = {
     "“I don’t mind killing things when paid, but what else is in this oath? I value my freedom.”",
   beats: "jsonl",
   lore: ["lore/overwhere-i-nala", "lore/overwhere-i-nala-2", "lore/overwhere-i-odile-varne"],
-  reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
+  reviewedBy: ["story-reviewer/continuity", "story-reviewer/style", "story-reviewer/scene"],
   recordedBy: [
     "story-recorder/inventory",
     "story-recorder/mechanics",
