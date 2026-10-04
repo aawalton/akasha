@@ -21,7 +21,7 @@
 {"beat":21,"event":"She takes her bun and thanks Elsie only once, and Elsie notices the once."}
 {"beat":22,"event":"At the desk the clerk gives them the lost-goat notice for the Underbloom.","at":"2026-06-03T11:00:00.000Z"}
 {"beat":23,"event":"Cora comes out of the charcoal door when the clerk calls the party's name.","at":"2026-06-03T11:05:00.000Z"}
-{"beat":24,"event":"At the Tipsy Heron Elsie buys stew for the three of them, and Tilly pushes hers round.","at":"2026-06-03T12:00:00.000Z","place":"place/fairweather-lanternmere","present":["character-player/fairweather-elsie","character-other/fairweather-cora","character-other/fairweather-tamsin","character-other/fairweather-tilly"]}
+{"beat":24,"event":"At the Tipsy Heron Elsie buys stew for the three of them, and Tilly pushes hers round.","at":"2026-06-03T12:00:00.000Z","place":"place/fairweather-lanternmere","present":["character-player/fairweather-elsie","character-other/fairweather-cora","character-other/fairweather-tamsin","character-other/fairweather-tilly"],"changes":[{"page":"metric-character-currency/fairweather-elsie","note":"Three bowls of stew at four pips, for Elsie, Tamsin and Tilly: 112 → 100 pips","key":"value","from":112,"to":100}]}
 {"beat":25,"event":"Elsie asks Tilly, quietly, what is wrong."}
 {"beat":26,"event":"Tilly says she has been frightened of being underground since she was small."}
 {"beat":27,"event":"She says she didn't say so before, because the guild wants three, and she wanted to be one."}
@@ -35,7 +35,7 @@
 {"beat":35,"event":"Her goat Clover, a white nanny, went down the stair after dropped flowers three days ago."}
 {"beat":36,"event":"Elsie promises to bring Clover up, and the seller holds her hand in both of hers."}
 {"beat":37,"event":"In the middle of the market a dry fountain has a stone stair going down inside it.","at":"2026-06-03T13:20:00.000Z","place":"place/fairweather-underbloom","present":["character-player/fairweather-elsie","character-other/fairweather-cora","character-other/fairweather-tamsin","character-other/fairweather-tilly"]}
-{"beat":38,"event":"A guild clerk at the stair head writes the party in, and Elsie pays him for the licence."}
+{"beat":38,"event":"A guild clerk at the stair head writes the party in, and Elsie pays him for the licence.","changes":[{"page":"metric-character-currency/fairweather-elsie","note":"One silver lantern for the party's stair licence: 100 → 90 pips","key":"value","from":100,"to":90}]}
 {"beat":39,"event":"Tamsin says the first floor is safe for F-rank, and a locked gate bars the second."}
 {"beat":40,"event":"Tilly takes Elsie's hand at the first step down, and grips it."}
 {"beat":41,"event":"They go down into old brick cellars, and Tilly shuts her eyes.","at":"2026-06-03T13:30:00.000Z"}
@@ -74,7 +74,7 @@
 {"beat":74,"event":"The flower seller drops her shears and runs, and kneels with her arms round Clover."}
 {"beat":75,"event":"She signs the notice on her knee, crying, and gives each of them a flower."}
 {"beat":76,"event":"Tilly puts hers behind her ear, the way Elsie wears her clip."}
-{"beat":77,"event":"At the guild hall the clerk counts out the goat pay, and they split it three ways.","at":"2026-06-03T16:30:00.000Z","place":"place/fairweather-guild-hall","present":["character-player/fairweather-elsie","character-other/fairweather-cora","character-other/fairweather-tamsin","character-other/fairweather-tilly"]}
+{"beat":77,"event":"At the guild hall the clerk counts out the goat pay, and they split it three ways.","at":"2026-06-03T16:30:00.000Z","place":"place/fairweather-guild-hall","present":["character-player/fairweather-elsie","character-other/fairweather-cora","character-other/fairweather-tamsin","character-other/fairweather-tilly"],"changes":[{"page":"metric-character-currency/fairweather-elsie","note":"Her third of the three-lantern goat pay: one lantern, 10 pips: 90 → 100 pips","key":"value","from":90,"to":100},{"page":"metric-character-currency/fairweather-elsie","note":"Elsie ends the chapter with 100 pips: 10 lanterns","key":"history","append":{"turn":3,"value":100}}]}
 {"beat":78,"event":"Cora says the hall's business with them is done today, and goes to the charcoal door.","at":"2026-06-03T16:45:00.000Z","leave":["character-other/fairweather-cora"]}
 {"beat":79,"event":"The three of them sit on the canal wall outside with their boots over the water.","at":"2026-06-03T17:30:00.000Z","place":"place/fairweather-lanternmere","present":["character-player/fairweather-elsie","character-other/fairweather-tamsin","character-other/fairweather-tilly"]}
 {"beat":80,"event":"Tilly says she was frightened the whole time; Elsie says she knows, and Tilly was brave."}
