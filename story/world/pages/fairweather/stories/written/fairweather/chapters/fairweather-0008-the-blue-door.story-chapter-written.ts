@@ -39,7 +39,12 @@ export const fairweather0008TheBlueDoor = {
     "character-other/fairweather-cora",
   ],
   reviewedBy: ["story-reviewer/holdings"],
-  recordedBy: ["story-recorder/plan", "story-recorder/inventory", "story-recorder/mechanics"],
+  recordedBy: [
+    "story-recorder/plan",
+    "story-recorder/inventory",
+    "story-recorder/mechanics",
+    "story-recorder/picture",
+  ],
   rulings: "jsonl",
   scenes: [
     "image/image-6b94858a5a742bfe",
