@@ -136,15 +136,43 @@ export const fairweatherLanternmere = {
     },
     {
       fact: "Tanner's Row is a steep lane of leather workshops whose roofs nearly touch across it.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-tamsin",
+        "character-other/fairweather-tilly",
+        "character-other/fairweather-cora",
+      ],
     },
     {
-      fact: "The lost cat of Tanner's Row is Admiral, a fat ginger tom who lives up on the roofs.",
-      knowers: ["lore-disclosure/game-master"],
+      fact: "The lost cat of Tanner's Row is Pudding, a big ginger tom with a white bib and one torn ear.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-tamsin",
+        "character-other/fairweather-tilly",
+        "character-other/fairweather-cora",
+      ],
     },
     {
-      fact: "Admiral belongs to an old saddler on Tanner's Row, and comes down for nothing but kippers.",
-      knowers: ["lore-disclosure/game-master"],
+      fact: "Pudding belongs to an old woman in a shawl who lives halfway along Tanner's Row.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-tamsin",
+        "character-other/fairweather-tilly",
+        "character-other/fairweather-cora",
+      ],
+    },
+    {
+      fact: "Pudding came down off the roofs to Elsie for fish paste on a rag.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-tamsin",
+        "character-other/fairweather-tilly",
+        "character-other/fairweather-cora",
+      ],
     },
     {
       fact: "A dyer on Vat Street boils glowcaps into a blue that shines faintly in the dark.",
