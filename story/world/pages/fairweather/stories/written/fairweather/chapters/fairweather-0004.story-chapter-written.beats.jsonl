@@ -37,7 +37,7 @@
 {"beat":37,"event":"She opens her window by wishing and reads the word Tether a long time.","at":"2026-06-04T15:30:00.000Z"}
 {"beat":38,"event":"She packs the lantern, salve, bandages, bread and apples, and laces her boots tight.","at":"2026-06-04T16:30:00.000Z"}
 {"beat":39,"event":"The east gate stands at the east end of the south canal, with a clerk's booth beside it.","at":"2026-06-04T17:30:00.000Z","place":"place/fairweather-lanternmere","present":["character-player/fairweather-elsie","character-other/fairweather-cora","character-other/fairweather-tamsin","character-other/fairweather-tilly"]}
-{"beat":40,"event":"The clerk writes the party into his book, and Elsie pays him for the Glasswood licence."}
+{"beat":40,"event":"The clerk writes the party into his book, and Elsie pays him for the Glasswood licence.","changes":[{"page":"metric-character-currency/fairweather-elsie","note":"One silver lantern for the party's Glasswood licence: 100 → 90 pips","key":"value","from":100,"to":90}]}
 {"beat":41,"event":"He says F-rank goes a mile into the wood, to the white posts, and no farther."}
 {"beat":42,"event":"They walk the cart track east through meadows, with the sun going down behind them.","at":"2026-06-04T17:45:00.000Z"}
 {"beat":43,"event":"Tamsin walks beside Elsie and swings Margery, and is quiet for a whole field."}
@@ -89,7 +89,7 @@
 {"beat":89,"event":"Tamsin walks so close to Elsie that their arms touch the whole way, and both let them."}
 {"beat":90,"event":"At the east gate the clerk writes the party out of his book.","at":"2026-06-04T22:45:00.000Z","place":"place/fairweather-lanternmere"}
 {"beat":91,"event":"The apothecary on Mortar Lane opens in her nightcap and counts the open bells.","at":"2026-06-04T23:05:00.000Z"}
-{"beat":92,"event":"She pays on the step, and Elsie, Tamsin and Tilly each pocket a third."}
+{"beat":92,"event":"She pays on the step, and Elsie, Tamsin and Tilly each pocket a third.","changes":[{"page":"metric-character-currency/fairweather-elsie","note":"Her third of the six-lantern moonbell pay: two lanterns, 20 pips: 90 → 110","key":"value","from":90,"to":110},{"page":"metric-character-currency/fairweather-tamsin","note":"Tamsin pockets her third of the moonbell pay: two lanterns, 20 pips: 83 → 103","key":"value","from":83,"to":103},{"page":"metric-character-currency/fairweather-tilly","note":"Tilly pockets her third of the moonbell pay: two lanterns, 20 pips: 68 → 88","key":"value","from":68,"to":88},{"page":"metric-character-currency/fairweather-elsie","note":"Elsie ends the chapter with 110 pips: 11 lanterns","key":"history","append":{"turn":4,"value":110}},{"page":"metric-character-currency/fairweather-tamsin","note":"Tamsin ends the chapter with 103 pips","key":"history","append":{"turn":4,"value":103}},{"page":"metric-character-currency/fairweather-tilly","note":"Tilly ends the chapter with 88 pips","key":"history","append":{"turn":4,"value":88}}]}
 {"beat":93,"event":"Cora says she is off duty, and stands a moment, and goes up the lane alone.","at":"2026-06-04T23:15:00.000Z","leave":["character-other/fairweather-cora"]}
 {"beat":94,"event":"Tilly hugs Elsie, then Tamsin, then runs for Pickle Row with her braids flying.","leave":["character-other/fairweather-tilly"]}
 {"beat":95,"event":"Tamsin walks Elsie to the Honeycomb door and says goodnight twice.","at":"2026-06-04T23:30:00.000Z"}
