@@ -88,10 +88,7 @@ export const fairweatherCora = {
       fact: "The Warden Corisande Vane is called Cora.",
       knowers: ["lore-disclosure/game-master", "character-player/fairweather-elsie"],
     },
-    {
-      fact: "Cora's grandmother lights five candles nightly in a window above a corner shop on Lantern Square.",
-      knowers: ["lore-disclosure/game-master"],
-    },
+
     {
       fact: "Cora has walked the Glasswood on Wardens' patrols, and knows its edge well.",
       knowers: ["lore-disclosure/game-master", "character-other/fairweather-cora"],
