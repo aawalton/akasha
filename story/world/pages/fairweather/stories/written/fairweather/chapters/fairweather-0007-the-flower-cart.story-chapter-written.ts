@@ -13,6 +13,7 @@ export const fairweather0007TheFlowerCart = {
   prose: "txt",
   stepStatus: "step-status/reviewers",
   beats: "jsonl",
+  issues: "txt",
   lore: [
     "lore/fairweather-cora",
     "lore/fairweather-elsie",
@@ -36,6 +37,7 @@ export const fairweather0007TheFlowerCart = {
     "character-other/fairweather-tilly",
     "character-other/fairweather-cora",
   ],
+  reviewedBy: ["story-reviewer/scene"],
   recordedBy: [
     "story-recorder/plan",
     "story-recorder/inventory",
