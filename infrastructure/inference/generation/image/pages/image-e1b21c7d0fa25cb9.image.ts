@@ -4,6 +4,8 @@ export const imageE1b21c7d0fa25cb9 = {
   id: "01a108ed-d4ca-76d5-b63d-0f74c2615cc4",
   type: "page-type/image",
   slug: "image-e1b21c7d0fa25cb9",
+  title: "Up the Ladder at the Rooftop Pool",
+  albums: ["image-album/hotel-pool"],
   service: "zimage",
   operation: "generate",
   model: "beyond-reality-3",

@@ -4,6 +4,8 @@ export const imageFff3055c312b045b = {
   id: "01a108ed-b12d-7ad6-aabf-1c772a41d075",
   type: "page-type/image",
   slug: "image-fff3055c312b045b",
+  title: "Coral Strings on the Clear Float",
+  albums: ["image-album/hotel-pool"],
   service: "zimage",
   operation: "generate",
   model: "beyond-reality-3",

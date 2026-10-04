@@ -4,6 +4,8 @@ export const imageD172fa594a5aa03c = {
   id: "01a108ed-491f-78f7-b98e-c099a9f809ce",
   type: "page-type/image",
   slug: "image-d172fa594a5aa03c",
+  title: "Lilac and a Paperback by the Pool",
+  albums: ["image-album/hotel-pool"],
   service: "zimage",
   operation: "generate",
   model: "beyond-reality-3",

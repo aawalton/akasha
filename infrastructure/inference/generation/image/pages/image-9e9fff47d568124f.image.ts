@@ -4,6 +4,8 @@ export const image9e9fff47d568124f = {
   id: "01a108ed-8d75-7e86-a997-fd5cd6c42a5c",
   type: "page-type/image",
   slug: "image-9e9fff47d568124f",
+  title: "Laughing on the Pool Edge in White",
+  albums: ["image-album/hotel-pool"],
   service: "zimage",
   operation: "generate",
   model: "beyond-reality-3",
