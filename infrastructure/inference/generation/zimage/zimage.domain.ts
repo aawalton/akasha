@@ -16,6 +16,7 @@ export const zimage = {
     "shell-script/zimage-smoke",
     "shell-script/zimage-up",
     "module/zimage-edit-graph",
+    "module/zimage-edit-running",
   ],
   decisions: [
     {

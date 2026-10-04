@@ -25,10 +25,6 @@ import type { Answer, Given } from "akasha/command/modules/calling/calling.modul
 import { filing, filledIn } from "akasha/command/modules/filling/command-filling.module.code.ts"
 import { pathUnder } from "akasha/command/modules/said-pathing/said-pathing.module.code.ts"
 import { inferenceEdit as page } from "akasha/command/pages/inference/edit/inference-edit.command.ts"
-import {
-  fetchImage,
-  runComfyGraph,
-} from "akasha/infrastructure/inference/client/modules/comfy-client/comfy-client.module.code.ts"
 import type { GeminiImageConfig } from "akasha/infrastructure/inference/client/modules/gemini-image-client/gemini-image-client.module.code.ts"
 import {
   imageFormatForPath,
@@ -41,10 +37,8 @@ import {
 } from "akasha/infrastructure/inference/client/modules/inference-output-path/inference-output-path.module.code.ts"
 import { drawSeed } from "akasha/infrastructure/inference/client/modules/inference-seed/inference-seed.module.code.ts"
 import { wroteTo } from "akasha/infrastructure/inference/command/modules/inference-answering/inference-answering.module.code.ts"
-import {
-  buildEditGraph,
-  EDIT_MODEL,
-} from "akasha/infrastructure/inference/generation/zimage/modules/edit-graph/zimage-edit-graph.module.code.ts"
+import { EDIT_MODEL } from "akasha/infrastructure/inference/generation/zimage/modules/edit-graph/zimage-edit-graph.module.code.ts"
+import { editedBy } from "akasha/infrastructure/inference/generation/zimage/modules/edit-running/zimage-edit-running.module.code.ts"
 import { buildInferenceRunRecord } from "akasha/infrastructure/inference/run/modules/record/inference-run-record.module.code.ts"
 import { recordInferenceRun } from "akasha/infrastructure/inference/run/modules/store/inference-run-store.module.code.ts"
 
@@ -75,11 +69,7 @@ const HOST = "google"
 
 const QWEN_HOST = "workstation"
 
-const QWEN_PORT = "8678"
-
 const SECOND_MS = 1000
-
-const UPLOAD_DIGEST = 16
 
 const KEY = "GEMINI_API_KEY"
 
@@ -147,21 +137,20 @@ async function qwenEdit(
   timeoutSec: number,
   done: string[]
 ): Promise<Uint8Array> {
-  const baseUrl = `http://127.0.0.1:${optionalEnv("ZIMAGE_PORT") ?? QWEN_PORT}`
   const seed = drawSeed()
-  const name = `edit-${sha256Hex(bytes).slice(0, UPLOAD_DIGEST)}${extname(subject) || ".png"}`
-  const run = await runComfyGraph({
-    baseUrl,
-    upload: { bytes, name },
-    buildGraph: (stored) => buildEditGraph(stored ?? name, prompt, seed),
-    pollDeadlineMs: timeoutSec * SECOND_MS,
+  const edited = await editedBy({
+    bytes,
+    ending: extname(subject) || ".png",
+    prompt,
+    seed,
+    deadlineMs: timeoutSec * SECOND_MS,
     onProgress: (one: string) => {
       done.push(one)
       return undefined
     },
   })
   done.push(`the edit is drawn at seed ${seed}`)
-  return await fetchImage(baseUrl, run.image)
+  return edited
 }
 
 export async function inferenceEdit(argv: readonly string[], given: Given): Promise<Answer> {
