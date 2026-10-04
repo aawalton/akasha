@@ -71,6 +71,10 @@ export const overwhereIOdileVarne = {
       fact: "She takes a quiet share of the guild's crystal profits for looking away from its prices.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Her Adjudicator skill Weigh Words lets her feel whether one speaking to her believes what they say.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
