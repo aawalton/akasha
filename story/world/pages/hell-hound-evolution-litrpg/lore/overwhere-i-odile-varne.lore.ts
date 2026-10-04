@@ -339,5 +339,9 @@ export const overwhereIOdileVarne = {
       fact: "Her first call: rid the east road of what is left of Voss's crew, at the Board's two gold a man.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Who is left of the crew, and where, Varne does not know; she wants Nala to find out first.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
