@@ -170,6 +170,9 @@ export const fairweatherTamsin = {
       fact: "Tamsin's first Frenzy took her at her own Naming, and she hurt her little sister.",
       knowers: ["lore-disclosure/game-master", "character-other/fairweather-tamsin"],
     },
+    {
+      fact: "Tamsin's little sister still has the scar across her hand, and Tamsin has not been home since.",
+      knowers: ["lore-disclosure/game-master", "character-other/fairweather-tamsin"],
+    },
   ],
-  secrets: "jsonl",
 } as const satisfies Lore
