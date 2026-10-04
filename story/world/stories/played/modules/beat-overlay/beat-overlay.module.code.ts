@@ -31,10 +31,13 @@ const PARTED = "/"
 
 const UNREVEALED_KEY = "unrevealed"
 
+const PAGE_TYPE = "page-type/"
+
 function addressesIn(row: QueryRow, type: string): readonly string[] {
   const slug = textIn(row.values[SLUG_KEY])
   if (slug === null || slug === "") return NO_ADDRESSES
-  const own = textIn(row.values[TYPE_KEY])
+  const said = textIn(row.values[TYPE_KEY])
+  const own = said?.startsWith(PAGE_TYPE) === true ? said.slice(PAGE_TYPE.length) : said
   if (own === null || own === type) return [`${type}${PARTED}${slug}`]
   return [`${type}${PARTED}${slug}`, `${own}${PARTED}${slug}`]
 }

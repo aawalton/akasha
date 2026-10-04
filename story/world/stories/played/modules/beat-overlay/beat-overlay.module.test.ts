@@ -1,5 +1,7 @@
 import { expect, test } from "bun:test"
 import type { QueryRow } from "akasha/page/query/modules/store-questioning/store-questioning.module.code.ts"
+import { pageType } from "akasha/page/type/page-type.page-type.ts"
+import { characterRank } from "akasha/story/world/mechanics/ranks/character-rank/character-rank.page-type.ts"
 import {
   type BeatOverlay,
   NO_OVERLAY,
@@ -49,6 +51,19 @@ test("a row is found by the page type the row states, beneath the type asked for
     valueOf: () => 14,
   }
   expect(overlaidRow(row, "metric-character-attribute", named)?.values["value"]).toBe(14)
+})
+
+test("a row stating its type as a page-type address is found by that type", () => {
+  const row: QueryRow = {
+    values: { slug: "elsie-f", type: `${pageType.slug}/${characterRank.slug}` },
+  }
+  const named: BeatOverlay = {
+    knows: (page) => page === `${characterRank.slug}/elsie-f`,
+    shows: () => false,
+    keysOf: () => [],
+    valueOf: (_page, _key, current) => current,
+  }
+  expect(overlaidRow(row, "world-rank", named)).toBeNull()
 })
 
 test("a row of another type sharing a slug is left as the page holds it", () => {

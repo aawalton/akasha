@@ -196,6 +196,7 @@ async function askedHeld(type: string, key: string, character: string): Promise<
       "page-type": type,
       where: { character: { is: character } },
       keys: [
+        TYPE_KEY,
         CHARACTER_KEY,
         SLUG_KEY,
         TITLE_KEY,
@@ -244,6 +245,7 @@ async function readFiled(
       "page-type": worldSkill.slug,
       where: { character: { is: character } },
       keys: [
+        TYPE_KEY,
         CHARACTER_KEY,
         SLUG_KEY,
         TITLE_KEY,
@@ -258,22 +260,31 @@ async function readFiled(
     askedLoudly({
       "page-type": worldQuest.slug,
       where: { character: { is: character } },
-      keys: [CHARACTER_KEY, SLUG_KEY, TITLE_KEY, OBJECTIVE_KEY, STATUS_KEY, UNREVEALED_KEY],
+      keys: [
+        TYPE_KEY,
+        CHARACTER_KEY,
+        SLUG_KEY,
+        TITLE_KEY,
+        OBJECTIVE_KEY,
+        STATUS_KEY,
+        UNREVEALED_KEY,
+      ],
     }),
     askedLoudly({
       "page-type": worldRelationship.slug,
       where: { characters: { has: character } },
-      keys: [SLUG_KEY, CHARACTERS_KEY, POINTS_KEY, UNREVEALED_KEY],
+      keys: [TYPE_KEY, SLUG_KEY, CHARACTERS_KEY, POINTS_KEY, UNREVEALED_KEY],
     }),
     askedLoudly({
       "page-type": worldAttunement.slug,
       where: { character: { is: character } },
-      keys: [SLUG_KEY, CHARACTER_KEY, ELEMENT_KEY, RANK_KEY, COUNTER_KEY, UNREVEALED_KEY],
+      keys: [TYPE_KEY, SLUG_KEY, CHARACTER_KEY, ELEMENT_KEY, RANK_KEY, COUNTER_KEY, UNREVEALED_KEY],
     }),
     askedLoudly({
       "page-type": characterTrait.slug,
       where: { character: { is: character } },
       keys: [
+        TYPE_KEY,
         CHARACTER_KEY,
         SLUG_KEY,
         TITLE_KEY,
