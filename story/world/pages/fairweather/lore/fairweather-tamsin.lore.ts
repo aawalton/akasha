@@ -158,6 +158,26 @@ export const fairweatherTamsin = {
       ],
     },
     {
+      fact: "Tamsin's mother is Rosa Reyes, a broad, loud bargewoman with Tamsin's copper hair gone grey.",
+      knowers: ["lore-disclosure/game-master", "character-other/fairweather-tamsin"],
+    },
+    {
+      fact: "The Reyes barge is the Marigold, a long green coal barge with geraniums along its cabin roof.",
+      knowers: ["lore-disclosure/game-master", "character-other/fairweather-tamsin"],
+    },
+    {
+      fact: "Tamsin's little sister is Nell Reyes, nineteen, who crews the Marigold with their mother.",
+      knowers: ["lore-disclosure/game-master", "character-other/fairweather-tamsin"],
+    },
+    {
+      fact: "Tamsin sends coin home by the wharf office, and has not set foot on the Marigold in a year.",
+      knowers: ["lore-disclosure/game-master", "character-other/fairweather-tamsin"],
+    },
+    {
+      fact: "Nell has never blamed Tamsin for her hand, and has wanted her home every day since.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
       fact: "Tamsin's mother's barge ties up at the Long Cut coal wharf, by the lock, for two days.",
       knowers: [
         "lore-disclosure/game-master",
