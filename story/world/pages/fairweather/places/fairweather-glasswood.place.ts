@@ -14,6 +14,7 @@ export const fairweatherGlasswood = {
         "character-other/fairweather-cora",
         "character-other/fairweather-tamsin",
         "character-other/fairweather-tilly",
+        "character-player/fairweather-elsie",
       ],
     },
     {
@@ -22,6 +23,8 @@ export const fairweatherGlasswood = {
         "lore-disclosure/game-master",
         "character-other/fairweather-cora",
         "character-other/fairweather-tamsin",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-tilly",
       ],
     },
     {
@@ -30,6 +33,8 @@ export const fairweatherGlasswood = {
         "lore-disclosure/game-master",
         "character-other/fairweather-cora",
         "character-other/fairweather-tamsin",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-tilly",
       ],
     },
     {
@@ -39,11 +44,17 @@ export const fairweatherGlasswood = {
         "character-other/fairweather-cora",
         "character-other/fairweather-tamsin",
         "character-other/fairweather-tilly",
+        "character-player/fairweather-elsie",
       ],
     },
     {
       fact: "Moonbells grow in shady hollows at the Glasswood's edge, among the roots of the glass trees.",
-      knowers: ["lore-disclosure/game-master", "character-other/fairweather-tamsin"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/fairweather-tamsin",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-tilly",
+      ],
     },
     {
       fact: "Moonbells open only between dusk and midnight, and a closed moonbell is worthless to an apothecary.",
@@ -51,11 +62,16 @@ export const fairweatherGlasswood = {
         "lore-disclosure/game-master",
         "character-player/fairweather-elsie",
         "character-other/fairweather-tilly",
+        "character-other/fairweather-tamsin",
       ],
     },
     {
       fact: "The moonbell notice is from the apothecary on Mortar Lane: two dozen open moonbells, by morning.",
-      knowers: ["lore-disclosure/game-master", "character-other/fairweather-tamsin"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/fairweather-tamsin",
+        "character-player/fairweather-elsie",
+      ],
     },
     {
       fact: "Glimmer moths with glass wings drift through the Glasswood by night, and are harmless.",
@@ -63,6 +79,8 @@ export const fairweatherGlasswood = {
         "lore-disclosure/game-master",
         "character-other/fairweather-cora",
         "character-other/fairweather-tamsin",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-tilly",
       ],
     },
     {
@@ -71,6 +89,8 @@ export const fairweatherGlasswood = {
         "lore-disclosure/game-master",
         "character-other/fairweather-cora",
         "character-other/fairweather-tamsin",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-tilly",
       ],
     },
     {
@@ -79,6 +99,8 @@ export const fairweatherGlasswood = {
         "lore-disclosure/game-master",
         "character-other/fairweather-cora",
         "character-other/fairweather-tamsin",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-tilly",
       ],
     },
     {
@@ -87,6 +109,8 @@ export const fairweatherGlasswood = {
         "lore-disclosure/game-master",
         "character-other/fairweather-cora",
         "character-other/fairweather-tamsin",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-tilly",
       ],
     },
     {
@@ -96,6 +120,7 @@ export const fairweatherGlasswood = {
         "character-other/fairweather-cora",
         "character-other/fairweather-tamsin",
         "character-other/fairweather-tilly",
+        "character-player/fairweather-elsie",
       ],
     },
     {
@@ -104,6 +129,8 @@ export const fairweatherGlasswood = {
         "lore-disclosure/game-master",
         "character-other/fairweather-cora",
         "character-other/fairweather-tamsin",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-tilly",
       ],
     },
   ],

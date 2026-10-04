@@ -87,7 +87,11 @@ export const fairweatherTilly = {
     },
     {
       fact: "Tilly lodges in a boarding house on Pickle Row, in a room that smells of sulphur.",
-      knowers: ["lore-disclosure/game-master", "character-other/fairweather-tilly"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/fairweather-tilly",
+        "character-player/fairweather-elsie",
+      ],
     },
     {
       fact: "Tilly has never been sure whether she likes girls or just likes them very much.",

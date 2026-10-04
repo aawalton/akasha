@@ -63,6 +63,7 @@ export const fairweatherLanternmere = {
         "character-other/fairweather-cora",
         "character-other/fairweather-tamsin",
         "character-other/fairweather-tilly",
+        "character-player/fairweather-elsie",
       ],
     },
     {
@@ -106,11 +107,21 @@ export const fairweatherLanternmere = {
     },
     {
       fact: "Moonbells open all together at dusk, and are shut again by midnight.",
-      knowers: ["lore-disclosure/game-master", "character-player/fairweather-elsie"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-tamsin",
+      ],
     },
     {
       fact: "The east gate stands at the east end of the south canal.",
-      knowers: ["lore-disclosure/game-master", "character-other/fairweather-tamsin"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/fairweather-tamsin",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-cora",
+        "character-other/fairweather-tilly",
+      ],
     },
     {
       fact: "The Crooked Kettle tea house is on the north side, by the bridge with the cats.",

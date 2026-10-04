@@ -91,7 +91,13 @@ export const fairweatherCora = {
     },
     {
       fact: "Cora has walked the Glasswood on Wardens' patrols, and knows its edge well.",
-      knowers: ["lore-disclosure/game-master", "character-other/fairweather-cora"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/fairweather-cora",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-tamsin",
+        "character-other/fairweather-tilly",
+      ],
     },
     {
       fact: "Cora will be at the Crooked Kettle's door at eight on the morning after Elsie's Naming.",
@@ -133,6 +139,14 @@ export const fairweatherCora = {
     },
     {
       fact: "At the Underbloom's cistern door Cora wrote many lines in her ledger, not one.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/fairweather-cora",
+        "character-player/fairweather-elsie",
+      ],
+    },
+    {
+      fact: "At the Glasswood Cora wrote one more ledger line and hid it from Elsie.",
       knowers: [
         "lore-disclosure/game-master",
         "character-other/fairweather-cora",

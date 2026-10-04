@@ -123,7 +123,11 @@ export const fairweatherElsie = {
     },
     {
       fact: "At level 2 Elsie gains the Enthraller skill Hold.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-tilly",
+      ],
     },
     {
       fact: "In Elsie's hands Captivate never compels: it makes the one it touches feel seen.",
@@ -131,7 +135,11 @@ export const fairweatherElsie = {
     },
     {
       fact: "A Tether Elsie makes is a pact the bound one can break at will.",
-      knowers: ["lore-disclosure/game-master", "character-player/fairweather-elsie"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-tamsin",
+      ],
     },
     {
       fact: "A Tether Elsie makes pours strength into the bound one rather than out of her.",
@@ -139,7 +147,7 @@ export const fairweatherElsie = {
     },
     {
       fact: "Elsie can feel when someone bound to her is hurting.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/fairweather-elsie"],
     },
     {
       fact: "Elsie has never once used her class to make anyone feel anything.",
@@ -153,7 +161,11 @@ export const fairweatherElsie = {
     },
     {
       fact: "Elsie's mother taught her moonbells: blue night-blooming flowers she brewed into fever draughts.",
-      knowers: ["lore-disclosure/game-master", "character-player/fairweather-elsie"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-tamsin",
+      ],
     },
     {
       fact: "Elsie Fairweather's class is Enthraller.",
@@ -191,6 +203,24 @@ export const fairweatherElsie = {
     },
     {
       fact: "Cora's ledger for the Crooked Kettle cellar reads: skills used, none.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/fairweather-cora",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-tamsin",
+        "character-other/fairweather-tilly",
+      ],
+    },
+    {
+      fact: "Elsie's Tether binds Tamsin, and Tamsin asked her to leave it on.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-tamsin",
+      ],
+    },
+    {
+      fact: "Cora's ledger for the Glasswood night reads: skills used, Tether, on Tamsin, by her leave.",
       knowers: [
         "lore-disclosure/game-master",
         "character-other/fairweather-cora",
