@@ -16,5 +16,10 @@ export const pageReaderContent = {
       decisionKind: "decision-kind/departure",
       statement: "Opening a page never moves its progress, and only the reader's own scroll does.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A file body asked for at a new version keeps the body it shows until the new one comes.",
+    },
   ],
 } as const satisfies Module

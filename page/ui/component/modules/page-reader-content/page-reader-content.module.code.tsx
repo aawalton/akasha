@@ -44,21 +44,25 @@ const FILE_PROPERTY = "file-property"
 
 const READER_COLUMN = "mx-auto w-full max-w-[68ch]! px-6"
 
-export function useFileBody(href: string | null): string | null {
+const VERSION_ASKED = "v"
+
+export function useFileBody(href: string | null, version = ""): string | null {
   const [held, setHeld] = useState<{ href: string; text: string } | null>(null)
   useEffect(() => {
     if (href === null) return
     let live = true
-    fetch(href)
-      .then((answer) => (answer.ok ? answer.text() : ""))
-      .catch(() => "")
+    const asked = version === "" ? href : `${href}?${VERSION_ASKED}=${encodeURIComponent(version)}`
+    fetch(asked)
+      .then((answer) => (answer.ok ? answer.text() : null))
+      .catch(() => null)
       .then((text) => {
-        if (live) setHeld({ href, text })
+        if (!live) return
+        setHeld((was) => (text === null && was?.href === href ? was : { href, text: text ?? "" }))
       })
     return () => {
       live = false
     }
-  }, [href])
+  }, [href, version])
   return held !== null && held.href === href ? held.text : null
 }
 
