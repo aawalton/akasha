@@ -31,6 +31,11 @@ export const fairweather0006TheMarigold = {
     "character-other/fairweather-nell",
     "character-other/fairweather-rosa",
   ],
-  recordedBy: ["story-recorder/inventory", "story-recorder/plan", "story-recorder/mechanics"],
+  recordedBy: [
+    "story-recorder/inventory",
+    "story-recorder/plan",
+    "story-recorder/mechanics",
+    "story-recorder/memory",
+  ],
   rulings: "jsonl",
 } as const satisfies StoryChapterWritten
