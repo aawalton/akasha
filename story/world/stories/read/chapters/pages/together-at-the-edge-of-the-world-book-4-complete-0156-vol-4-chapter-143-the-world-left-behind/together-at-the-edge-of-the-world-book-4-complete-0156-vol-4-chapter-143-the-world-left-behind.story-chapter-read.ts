@@ -4,6 +4,7 @@ export const togetherAtTheEdgeOfTheWorldBook4Complete0156Vol4Chapter143TheWorldL
   id: "01a0f12a-e88e-77e3-8e0b-b8b300d7a856",
   type: "page-type/story-chapter-read",
   slug: "together-at-the-edge-of-the-world-book-4-complete-0156-vol-4-chapter-143-the-world-left-behind",
+  ownProgress: 2192,
   position: 156,
   publishedAt: "2026-02-23",
   unit: "unit/words",

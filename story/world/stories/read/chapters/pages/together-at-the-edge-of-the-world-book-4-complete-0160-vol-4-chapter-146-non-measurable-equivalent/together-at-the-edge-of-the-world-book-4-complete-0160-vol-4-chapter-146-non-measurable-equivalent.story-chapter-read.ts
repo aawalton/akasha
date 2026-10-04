@@ -4,6 +4,7 @@ export const togetherAtTheEdgeOfTheWorldBook4Complete0160Vol4Chapter146NonMeasur
   id: "01a0f12a-e88e-7d20-a6f5-f89999b813d9",
   type: "page-type/story-chapter-read",
   slug: "together-at-the-edge-of-the-world-book-4-complete-0160-vol-4-chapter-146-non-measurable-equivalent",
+  ownProgress: 1907,
   position: 160,
   publishedAt: "2026-03-02",
   unit: "unit/words",

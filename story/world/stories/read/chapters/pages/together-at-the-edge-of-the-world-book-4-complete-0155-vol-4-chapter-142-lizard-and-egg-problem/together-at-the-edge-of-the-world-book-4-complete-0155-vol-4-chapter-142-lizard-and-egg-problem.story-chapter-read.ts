@@ -4,6 +4,7 @@ export const togetherAtTheEdgeOfTheWorldBook4Complete0155Vol4Chapter142LizardAnd
   id: "01a0f12a-e88e-7d8d-90c5-bdbfb759de44",
   type: "page-type/story-chapter-read",
   slug: "together-at-the-edge-of-the-world-book-4-complete-0155-vol-4-chapter-142-lizard-and-egg-problem",
+  ownProgress: 2098,
   position: 155,
   publishedAt: "2026-02-20",
   unit: "unit/words",

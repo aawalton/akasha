@@ -4,6 +4,7 @@ export const togetherAtTheEdgeOfTheWorldBook4Complete0161Vol4Chapter147BackFromT
   id: "01a0f12a-e88e-7036-90b7-fd571c5ceadf",
   type: "page-type/story-chapter-read",
   slug: "together-at-the-edge-of-the-world-book-4-complete-0161-vol-4-chapter-147-back-from-the-past",
+  ownProgress: 2030,
   position: 161,
   publishedAt: "2026-03-04",
   unit: "unit/words",

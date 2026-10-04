@@ -4,6 +4,7 @@ export const togetherAtTheEdgeOfTheWorldBook4Complete0157Vol4Chapter144APrettyGo
   id: "01a0f12a-e88e-7b0c-9c19-afd33040c7b7",
   type: "page-type/story-chapter-read",
   slug: "together-at-the-edge-of-the-world-book-4-complete-0157-vol-4-chapter-144-a-pretty-good-apple",
+  ownProgress: 2079,
   position: 157,
   publishedAt: "2026-02-25",
   unit: "unit/words",
