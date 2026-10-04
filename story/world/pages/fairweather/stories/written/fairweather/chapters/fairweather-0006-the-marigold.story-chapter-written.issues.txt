@@ -1,11 +1,4 @@
 scene: "before the window was even grey" - beat 1 is 05:30; chapter 5 had grey dawn in that window at 05:40
-style: "and slept again inside the warmth of it, with her hand over Tamsin's heart" - No Sign-Off
-style: "She doesn't bring people home. ... And she brought you." - No Tropes
-style: "says Tamsin has never brought anyone home before" (beat 54) - No Tropes
-style: "Elsie says she's glad to be the first" (beat 55) - No Tropes
-style: "Rosa sits beside her and says nothing" (beat 58) - Plain Negation
-style: "nobody aboard her barge sits idle" (beat 64) - Nobody Acts
-style: "and Elsie falls asleep inside it" (beat 88) - No Sign-Off
 continuity: "I baked it last night. Myself." - Elsie cannot lie; Agnes made it while Elsie watched
 continuity: "goes up the Cut tomorrow. First light" - ch5 and lore: she ties up two days, not one
 continuity: "We unload coal till noon" - in ch5 Tamsin says the Marigold is in for two days, loading
