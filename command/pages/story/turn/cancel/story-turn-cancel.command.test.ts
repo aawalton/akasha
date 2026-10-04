@@ -67,13 +67,14 @@ test("a cancel puts the turn's action back in its story's action draft, as typed
   expect(answer.report).toContain("drafted\tthe-saga\tthe action, back in the action bar")
 })
 
-test("a cancel at game-master takes the turn's page and every file beside it away in one landing", async () => {
+test("a cancel at game-master takes the turn's page and every file beside it away in one landing, stopping no seat", async () => {
   const into = seen()
   const turn = turnAt("game-master", { lore: ["world-place/the-hall"] })
   const answer = await cancelledBy([], turn, into)
   expect(answer.refusals).toEqual([])
   expect(into.folded).toEqual([])
   expect(into.asked).toEqual([taking(AT)])
+  expect(into.stops).toEqual([])
   expect(into.steps).toEqual([`hold ${AT}`, "land", `free ${AT}`])
   expect(answer.report).toEqual(
     expect.arrayContaining([

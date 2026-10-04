@@ -354,7 +354,7 @@ async function heldOn(
     faults: [],
   }
   draftedFor(reach, given.root, held.game, turn, after)
-  seatsStopped(reach, given.root, held.game, after)
+  seatsStopped(reach, given.root, held.game, held.status, after)
   if (reach.release(given.root, turn.at)) after.report.push(`discarded\tthe recorders' kept edits`)
   await noticesOf(reach, given.root, held.game, turn.at, after)
   if (after.faults.length === 0) return told(after.report)

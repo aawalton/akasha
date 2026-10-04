@@ -89,13 +89,10 @@ test("a file the landing keeps from the pages is left to the landing", async () 
   expect(JSON.stringify(into.asked)).not.toContain(HER_REFERENCES_AT)
 })
 
-test("a take-back stops the game's reviewer and recorder seats, discards kept edits and names the latest turn left", async () => {
+test("a take-back leaves the game's reviewer and recorder seats on call, discards kept edits and names the latest turn left", async () => {
   const into = seen()
   await takenBy(reachOver(turnAt(), into), into)
-  expect(into.stops).toEqual([
-    "mari-reviewer-the-saga-flex-1",
-    "mari-story-recorder-the-saga-flex-1",
-  ])
+  expect(into.stops).toEqual([])
   expect(into.releases).toEqual([AT])
   const said = `The turn \`${AT}\` was taken back; the story's latest turn is \`${BEFORE_AT}\`.`
   expect(into.notices).toEqual([`${MASTER}: ${said}`, `${BUILDER}: ${said}`, `${WRITER}: ${said}`])

@@ -77,7 +77,16 @@ export const storyTurnRewind = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A rewind stops every reviewer and recorder seat of the turn's game.",
+      statement:
+        "A rewind at mechanics, reviewers or recorders stops each reviewer and recorder seat of its game.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "That stop ends a job in flight, so its work never lands on the turn made again.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A rewind at any other step stops no seat, since no job is in flight there.",
     },
     {
       decisionKind: "decision-kind/departure",

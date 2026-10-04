@@ -37,7 +37,7 @@ export const storyTurnTakeBack = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A take-back stops every reviewer and recorder seat of the turn's game.",
+      statement: "A take-back stops no seat, since no reviewer or recorder has a job at player.",
     },
     {
       decisionKind: "decision-kind/departure",

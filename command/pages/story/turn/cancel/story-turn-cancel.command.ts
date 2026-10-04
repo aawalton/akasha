@@ -68,7 +68,12 @@ export const storyTurnCancel = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A cancel stops every reviewer and recorder seat of the turn's game.",
+      statement:
+        "A cancel at mechanics, reviewers or recorders stops each reviewer and recorder seat of its game.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A cancel at any other step stops no seat, since no job is in flight there.",
     },
     {
       decisionKind: "decision-kind/departure",

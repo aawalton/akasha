@@ -107,13 +107,22 @@ test("a rewind clears which recorders ran and discards the edits they kept besid
   expect(answer.report).toContain("discarded\tthe recorders' kept edits")
 })
 
-test("a rewind stops the game's reviewer and recorder seats and tells its game master, world builder and writer", async () => {
+test("a rewind at a step where a job may be in flight stops the game's reviewer and recorder seats", async () => {
+  for (const step of ["mechanics", "reviewers", "recorders"]) {
+    const into = seen()
+    const turn = turnAt({ action: "I open the gate", stepStatus: `${stepStatus.slug}/${step}` })
+    await rewoundBy([], reachOver(turn, into), into)
+    expect(into.stops).toEqual([
+      "mari-reviewer-the-saga-flex-1",
+      "mari-story-recorder-the-saga-flex-1",
+    ])
+  }
+})
+
+test("a rewind at any other step leaves those seats on call and tells its game master, world builder and writer", async () => {
   const into = seen()
   await rewoundBy([], reachOver(turnAt({ action: "I open the gate" }), into), into)
-  expect(into.stops).toEqual([
-    "mari-reviewer-the-saga-flex-1",
-    "mari-story-recorder-the-saga-flex-1",
-  ])
+  expect(into.stops).toEqual([])
   expect(into.notices).toEqual([
     `${MASTER}: The turn \`${AT}\` is at world-builder.`,
     `${BUILDER}: The turn \`${AT}\` is at world-builder.`,

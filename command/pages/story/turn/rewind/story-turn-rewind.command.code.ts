@@ -54,8 +54,12 @@ import {
   bareOf,
   LONGEST_ACTION,
   latestOf,
+  MECHANICS,
   PLAYER,
+  RECORDERS,
+  REVIEWERS,
   statusOf,
+  type TurnStep,
   WORLD_BUILDER,
 } from "akasha/story/world/stories/played/turns/modules/turn-lifecycle/turn-lifecycle.module.code.ts"
 import { storyTurnPlayed } from "akasha/story/world/stories/played/turns/story-turn-played.page-type.ts"
@@ -81,6 +85,8 @@ const READING = "reading"
 const ANSWERED = "answered"
 
 const STOPPED: readonly string[] = [reviewerRole.slug, storyRecorderRole.slug]
+
+const WORKING: readonly TurnStep[] = [MECHANICS, REVIEWERS, RECORDERS]
 
 type Taken = { readonly turn: string; readonly action: string | null }
 
@@ -214,7 +220,14 @@ function latestRefused(reach: Rewinding, root: string, slug: string, game: strin
   return `\`${slug}\` is not the latest turn of \`${game}\`${instead}, so the turns after it would follow a turn made again`
 }
 
-export function seatsStopped(reach: Rewinding, root: string, game: string, after: Told) {
+export function seatsStopped(
+  reach: Rewinding,
+  root: string,
+  game: string,
+  status: TurnStep,
+  after: Told
+) {
+  if (!WORKING.includes(status)) return
   for (const seat of reach.seatsIn()) {
     if (seat.game !== game || seat.role === null || !STOPPED.includes(seat.role)) continue
     reach.stop(root, seat.name)
@@ -292,7 +305,7 @@ async function rewoundOn(
     ],
     faults: [],
   }
-  seatsStopped(reach, given.root, held.game, after)
+  seatsStopped(reach, given.root, held.game, held.status, after)
   if (reach.release(given.root, turn.at)) after.report.push(`discarded\tthe recorders' kept edits`)
   const master = reach.storyOf(given.root, held.game)?.master ?? null
   await noticesSent(reach, given.root, held.game, master, turn.at, WORLD_BUILDER, after)

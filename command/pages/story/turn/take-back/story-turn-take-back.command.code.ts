@@ -35,7 +35,6 @@ import {
 } from "akasha/command/pages/story/turn/modules/turn-undoing/turn-undoing.module.code.ts"
 import {
   besideTurn,
-  seatsStopped,
   undoneOf,
 } from "akasha/command/pages/story/turn/rewind/story-turn-rewind.command.code.ts"
 import { storyTurnTakeBack as page } from "akasha/command/pages/story/turn/take-back/story-turn-take-back.command.ts"
@@ -167,7 +166,6 @@ async function heldOn(
   if ("refusals" in landed) return keeping(done, refusedBy([...landed.refusals], DATA))
   const after: Told = { report: [...reportOf(slug, undoing, undone)], faults: [] }
   draftedFor(reach, given.root, held.game, turn, after)
-  seatsStopped(reach, given.root, held.game, after)
   if (reach.release(given.root, turn.at)) after.report.push(`discarded\tthe recorders' kept edits`)
   await noticesOf(reach, given.root, held.game, turn, after)
   if (after.faults.length === 0) return told(after.report)
