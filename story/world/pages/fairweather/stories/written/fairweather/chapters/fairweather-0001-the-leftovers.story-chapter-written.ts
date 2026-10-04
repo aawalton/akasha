@@ -5,7 +5,7 @@ export const fairweather0001TheLeftovers = {
   type: "page-type/story-chapter-written",
   slug: "fairweather-0001-the-leftovers",
   cover: "image/image-4dbbc4517c623345",
-  ownProgress: 6347,
+  ownProgress: 6439,
   position: 1,
   unit: "unit/words",
   title: "The Leftovers",
