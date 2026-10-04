@@ -34,7 +34,7 @@ export const fairweather0006TheMarigold = {
     "character-other/fairweather-nell",
     "character-other/fairweather-rosa",
   ],
-  reviewedBy: ["story-reviewer/scene"],
+  reviewedBy: ["story-reviewer/scene", "story-reviewer/style"],
   recordedBy: [
     "story-recorder/inventory",
     "story-recorder/plan",
