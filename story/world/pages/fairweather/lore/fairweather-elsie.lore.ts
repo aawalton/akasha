@@ -122,6 +122,10 @@ export const fairweatherElsie = {
       knowers: ["lore-disclosure/game-master", "character-player/fairweather-elsie"],
     },
     {
+      fact: "At level 2 Elsie gains the Enthraller skill Hold.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
       fact: "In Elsie's hands Captivate never compels: it makes the one it touches feel seen.",
       knowers: ["lore-disclosure/game-master"],
     },
