@@ -326,5 +326,9 @@ export const overwhereIGreybackAndEastRoad = {
       fact: "Jory was tolled a silver on day 7 near Fenwatch by a lone crossbowman with a northern burr.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "No other trader in Wendlow or on the road today has word of Voss's crew since he fell.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Place
