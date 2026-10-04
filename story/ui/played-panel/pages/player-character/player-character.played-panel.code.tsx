@@ -6,7 +6,8 @@ import { panelBy } from "akasha/story/ui/played-panel/modules/panel-showing/pane
 
 export const Panel = panelBy(PlayerCharacterPanel, ({ envelope, run }) => ({
   player: run.player,
-  present: run.present,
+  appeared: run.appeared,
+  overlay: run.overlay,
   showsCover: true,
   sheet: {
     sheet: envelope.sheet ?? null,

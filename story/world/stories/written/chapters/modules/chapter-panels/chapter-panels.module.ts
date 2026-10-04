@@ -23,7 +23,12 @@ export const chapterPanels = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A chapter's panels are handed who is there at the beat on screen.",
+      statement: "A chapter's panels are handed who has appeared in it up to the beat on screen.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "Every character's panel is drawn with the chapter's beats folded up to that beat.",
     },
     {
       decisionKind: "decision-kind/departure",

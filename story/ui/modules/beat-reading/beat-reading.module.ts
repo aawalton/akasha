@@ -22,7 +22,18 @@ export const beatReading = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "Who is there is handed to the panels only where a chapter is read beat by beat.",
+      statement:
+        "Who has appeared is handed to the panels only where a chapter is read beat by beat.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "Who has appeared is everyone the chapter's scenes put there up to the beat, in first-come order.",
+    },
+    {
+      decisionKind: "decision-kind/absence",
+      statement:
+        "A character met in an earlier chapter has not appeared until this chapter brings them.",
     },
     {
       decisionKind: "decision-kind/departure",

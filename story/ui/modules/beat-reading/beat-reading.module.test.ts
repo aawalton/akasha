@@ -2,13 +2,13 @@ import { expect, test } from "bun:test"
 import type { Beats } from "akasha/story/engine/beat-state/modules/beat-records/beat-records.module.code.ts"
 import {
   aheadOf,
+  appearedAt,
+  appearedOn,
   type BeatReading,
   baseOf,
   beatSeen,
   coversOn,
   overlayOf,
-  presentAt,
-  presentOn,
 } from "akasha/story/ui/modules/beat-reading/beat-reading.module.code.tsx"
 import { NO_OVERLAY } from "akasha/story/world/stories/played/modules/beat-overlay/beat-overlay.module.code.ts"
 
@@ -64,28 +64,27 @@ test("covers sit on the beat each shows", () => {
 
 const ADP = "metric-character-stat/wren-adp"
 
-test("who is there follows each beat's arrivals and leavings", () => {
+test("who has appeared grows with each arrival, in the order each first came", () => {
   const cast: Beats = {
-    beats: ["a", "b", "c"],
+    beats: ["a", "b", "c", "d"],
     scenes: [
-      { beat: 1, present: ["character-player/wren", "character-other/theron"] },
-      { beat: 2, arrive: ["character-other/brecca"] },
-      { beat: 3, leave: ["character-other/theron"] },
+      { beat: 1, place: "place/hall", present: ["character-player/wren"] },
+      { beat: 2, arrive: ["character-other/theron"] },
+      { beat: 3, arrive: ["character-other/brecca"] },
+      { beat: 4, leave: ["character-other/theron", "character-other/brecca"] },
     ],
     changes: [],
     memory: [],
   }
-  expect(presentAt(cast, 0)).toEqual([])
-  expect(presentAt(cast, 1)).toEqual(["character-player/wren", "character-other/theron"])
-  expect(presentAt(cast, 2)).toEqual([
-    "character-player/wren",
-    "character-other/theron",
-    "character-other/brecca",
-  ])
-  expect(presentAt(cast, 3)).toEqual(["character-player/wren", "character-other/brecca"])
+  expect(appearedAt(cast, 0)).toEqual([])
+  expect(appearedAt(cast, 1)).toEqual(["character-player/wren"])
+  expect(appearedAt(cast, 2)).toEqual(["character-player/wren", "character-other/theron"])
+  const all = ["character-player/wren", "character-other/theron", "character-other/brecca"]
+  expect(appearedAt(cast, 3)).toEqual(all)
+  expect(appearedAt(cast, 4)).toEqual(all)
 })
 
-test("who is there is handed only where a chapter is read beat by beat", () => {
+test("who has appeared is handed only where a chapter is read beat by beat", () => {
   const cast: Beats = {
     beats: ["a", "b"],
     scenes: [
@@ -102,8 +101,8 @@ test("who is there is handed only where a chapter is read beat by beat", () => {
     beat,
     register: () => undefined,
   })
-  expect(presentOn(read(true, 2))).toEqual(["character-player/wren", "character-other/theron"])
-  expect(presentOn(read(false, 0))).toBeUndefined()
+  expect(appearedOn(read(true, 2))).toEqual(["character-player/wren", "character-other/theron"])
+  expect(appearedOn(read(false, 0))).toBeUndefined()
 })
 
 test("the beat read is the last whose block starts above the line", () => {

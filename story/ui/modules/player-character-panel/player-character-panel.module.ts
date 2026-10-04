@@ -66,6 +66,10 @@ export const playerCharacterPanel = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "Every character's sheet is read with the beats handed in folded over its pages.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A panel drawing no sheet for the player draws none for the others either.",
     },
     {

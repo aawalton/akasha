@@ -158,19 +158,21 @@ export function aheadOf(each: readonly Beats[]): ReadonlyMap<string, Ahead> {
   return pages
 }
 
-export function presentAt(beats: Beats, beat: number): readonly string[] {
+export function appearedAt(beats: Beats, beat: number): readonly string[] {
   let state = OPENING_CAST
+  const appeared: string[] = []
   for (const scene of beats.scenes) {
     if (scene.beat > beat) break
     const next = stepped(state, scene, `beat ${String(scene.beat)}`)
     if ("refused" in next) break
     state = next
+    for (const one of state.present) if (!appeared.includes(one)) appeared.push(one)
   }
-  return state.present
+  return appeared
 }
 
-export function presentOn(reading: BeatReading): readonly string[] | undefined {
-  return reading.reading ? presentAt(reading.beats, reading.beat) : undefined
+export function appearedOn(reading: BeatReading): readonly string[] | undefined {
+  return reading.reading ? appearedAt(reading.beats, reading.beat) : undefined
 }
 
 export type BlockPlaced = { readonly top: number; readonly laidOut: boolean }

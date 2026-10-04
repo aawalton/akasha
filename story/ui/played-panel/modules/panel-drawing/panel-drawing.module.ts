@@ -49,7 +49,11 @@ export const panelDrawing = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "A panel is handed who is there at the beat the reader is on, where the beats are read.",
+        "A panel is handed who has appeared up to the beat the reader is on, where the beats are read.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A panel is handed the beats folded up to that beat, where the beats are read.",
     },
     {
       decisionKind: "decision-kind/departure",

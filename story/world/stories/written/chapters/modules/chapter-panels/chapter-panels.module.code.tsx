@@ -21,10 +21,10 @@ import {
 } from "akasha/story/engine/beat-state/modules/beat-records/beat-records.module.code.ts"
 import {
   aheadOf,
+  appearedOn,
   BeatReadingProvider,
   baseOf,
   overlayOf,
-  presentOn,
   useBeatReading,
   useBeatsFiles,
 } from "akasha/story/ui/modules/beat-reading/beat-reading.module.code.tsx"
@@ -434,7 +434,8 @@ function StoryAside({
       turnCovers: chapterCoversOf(chapter),
       coversAreScenes: chapter.scenes.length > 0,
       player,
-      present: on ? presentOn(reading) : undefined,
+      appeared: on ? appearedOn(reading) : undefined,
+      overlay: on ? overlay : undefined,
       storyAddress,
       intent: textIn(storyRow?.[PLAYER_INTENT]),
       beats: undefined,
@@ -443,7 +444,7 @@ function StoryAside({
       gameExternalId: undefined,
       submitPlayerAction: undefined,
     }),
-    [clock, turns, pageTypeSlug, chapter, player, storyAddress, on, reading.beats, reading.beat]
+    [clock, turns, pageTypeSlug, chapter, player, storyAddress, on, reading, overlay]
   )
   const ready = held !== null && !stories.isLoading && !characters.isLoading
   useEffect(() => {

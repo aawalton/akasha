@@ -16,6 +16,11 @@ export const characterCoverPanel = {
     {
       decisionKind: "decision-kind/departure",
       statement:
+        "Where the panel is handed who has appeared, the characters drawn are those, in that order.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
         "The latest turn is read as the page type the run names, and as a turn played where it names none.",
     },
     {

@@ -3,6 +3,7 @@ import type { SessionEnvelope } from "akasha/story/ui/modules/client-envelope/cl
 import type { ClientBeat } from "akasha/story/ui/modules/client-session/client-session.module.code.ts"
 import type { ClientStoryTurn } from "akasha/story/ui/modules/client-story-session/client-story-session.module.code.ts"
 import type { SubmitPlayerAction } from "akasha/story/ui/modules/system-choice-card/system-choice-card.module.code.tsx"
+import type { BeatOverlay } from "akasha/story/world/stories/played/modules/beat-overlay/beat-overlay.module.code.ts"
 
 export type PlayedTurnCover = {
   readonly id: string
@@ -26,7 +27,8 @@ export type PanelRun = {
   readonly turnCovers: readonly PlayedTurnCover[]
   readonly coversAreScenes?: boolean | undefined
   readonly player: string
-  readonly present?: readonly string[] | undefined
+  readonly appeared?: readonly string[] | undefined
+  readonly overlay?: BeatOverlay | undefined
   readonly storyAddress: string
   readonly intent: string
   readonly beats: readonly ClientBeat[] | null | undefined

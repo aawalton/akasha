@@ -32,6 +32,10 @@ import {
 import { characterOther } from "akasha/story/world/characters/character-other/character-other.page-type.ts"
 import { characterPlayer } from "akasha/story/world/characters/character-player/character-player.page-type.ts"
 import {
+  type BeatOverlay,
+  NO_OVERLAY,
+} from "akasha/story/world/stories/played/modules/beat-overlay/beat-overlay.module.code.ts"
+import {
   type Filed,
   stateOf,
   usePlayedState,
@@ -125,7 +129,8 @@ type PlayerPanelProps = {
   readonly sheet: SheetShown | null
   readonly turns?: readonly ClientStoryTurn[] | undefined
   readonly turnsPageTypeSlug?: string | undefined
-  readonly present?: readonly string[] | undefined
+  readonly appeared?: readonly string[] | undefined
+  readonly overlay?: BeatOverlay | undefined
 }
 
 export function PlayerCharacterPanel({
@@ -134,7 +139,8 @@ export function PlayerCharacterPanel({
   sheet,
   turns = NO_TURNS,
   turnsPageTypeSlug,
-  present,
+  appeared,
+  overlay = NO_OVERLAY,
 }: PlayerPanelProps) {
   const slug = playerSlugOf(player)
   const options = useMemo<UsePagesSupabaseOptions>(
@@ -161,9 +167,16 @@ export function PlayerCharacterPanel({
     <OtherCharacterCovers
       turns={turns}
       pageTypeSlug={turnsPageTypeSlug}
-      present={present}
+      appeared={appeared}
       drawn={(others) => (
-        <CharactersCard drawn={drawn} slug={slug} sheet={sheet} others={others} turn={turn} />
+        <CharactersCard
+          drawn={drawn}
+          slug={slug}
+          sheet={sheet}
+          others={others}
+          turn={turn}
+          overlay={overlay}
+        />
       )}
     />
   )
@@ -175,9 +188,10 @@ type CharactersCardProps = {
   readonly sheet: SheetShown | null
   readonly others: readonly CharacterCover[]
   readonly turn: number | null
+  readonly overlay: BeatOverlay
 }
 
-function CharactersCard({ drawn, slug, sheet, others, turn }: CharactersCardProps) {
+function CharactersCard({ drawn, slug, sheet, others, turn, overlay }: CharactersCardProps) {
   const [picked, setPicked] = useState<string | null>(null)
   const characters = charactersShownOf(drawn, slug, (sheet?.sheet ?? null) !== null, others)
   const at = characterShownAt(characters, picked)
@@ -188,7 +202,14 @@ function CharactersCard({ drawn, slug, sheet, others, turn }: CharactersCardProp
     return <CharacterCard shown={shown} steps={steps} sheet={shown.isPlayer ? sheet : null} />
   }
   return (
-    <OtherCharacterCard key={shown.slug} shown={shown} steps={steps} sheet={sheet} turn={turn} />
+    <OtherCharacterCard
+      key={shown.slug}
+      shown={shown}
+      steps={steps}
+      sheet={sheet}
+      turn={turn}
+      overlay={overlay}
+    />
   )
 }
 
@@ -197,10 +218,11 @@ type OtherCharacterCardProps = {
   readonly steps: ReactNode
   readonly sheet: SheetShown
   readonly turn: number
+  readonly overlay: BeatOverlay
 }
 
-function OtherCharacterCard({ shown, steps, sheet, turn }: OtherCharacterCardProps) {
-  const filed = usePlayedState(namedAs(characterOther.slug, shown.slug, null), turn)
+function OtherCharacterCard({ shown, steps, sheet, turn, overlay }: OtherCharacterCardProps) {
+  const filed = usePlayedState(namedAs(characterOther.slug, shown.slug, null), turn, overlay)
   const theirs = useMemo(() => otherSheetOf(filed, turn, shown.name), [filed, turn, shown.name])
   return (
     <CharacterCard
