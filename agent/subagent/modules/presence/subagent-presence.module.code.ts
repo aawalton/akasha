@@ -1,5 +1,6 @@
 import { existsSync } from "node:fs"
 import { join } from "node:path"
+import { scanProcEntries } from "akasha/agent/modules/proc-scan/proc-scan.module.code.ts"
 import { akashaHolderPidOf } from "akasha/agent/seat/modules/akasha-beside/seat-akasha-beside.module.code.ts"
 import { transcriptOf } from "akasha/agent/seat/session/modules/seat-transcript-path/seat-transcript-path.module.code.ts"
 import { bodyOf } from "akasha/agent/subagent/modules/body/subagent-body.module.code.ts"
@@ -11,7 +12,10 @@ import {
   type Reading,
   readOf,
 } from "akasha/agent/subagent/modules/liveness/subagent-liveness.module.code.ts"
-import { clientStartedAt } from "akasha/agent/subagent/modules/outliving/subagent-outliving.module.code.ts"
+import {
+  clientPidIn,
+  clientStartedAt,
+} from "akasha/agent/subagent/modules/outliving/subagent-outliving.module.code.ts"
 import {
   askingAt,
   type Running,
@@ -91,7 +95,7 @@ function wentBy(landed: Awaited<ReturnType<Landing>>, done: readonly string[] = 
 
 function prunedFor(root: string, seatPage: string, seatId: string): undefined {
   try {
-    const pid = akashaHolderPidOf(seatId)
+    const pid = clientPidIn(scanProcEntries().entries, akashaHolderPidOf)(seatId)
     const named = transcriptOf(seatId)?.value ?? null
     droppedOutlived(root, seatPage, seatId, pid === null ? null : clientStartedAt(pid), named)
   } catch {}

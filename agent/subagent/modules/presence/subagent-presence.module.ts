@@ -73,11 +73,15 @@ export const subagentPresence = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "The client weighed is the Claude child under the seat's supervisor.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A page taking its readings back is served before that drop runs.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A seat with no transcript or no holding process drops nothing.",
+      statement: "A seat with no transcript or no client drops nothing.",
     },
     {
       decisionKind: "decision-kind/absence",

@@ -55,7 +55,7 @@ async function judgedFor(
   if (!pages.some((one) => one.path === at)) return null
   let own: OwnIds = NONE
   try {
-    own = await said(pages)
+    own = await said(pages, entries)
   } catch {
     own = NONE
   }

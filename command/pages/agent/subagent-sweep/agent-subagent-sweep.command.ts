@@ -58,6 +58,15 @@ export const agentSubagentSweep = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "A seat's client is the Claude child under its supervisor rather than the supervisor.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The client is found among the processes this run already scanned.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A page neither working nor stale is undetermined.",
     },
     {
@@ -182,7 +191,7 @@ export const agentSubagentSweep = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A seat stating no client leaves its subagents judged on the other evidence.",
+      statement: "A seat with no client leaves its subagents judged on the other evidence.",
     },
     {
       decisionKind: "decision-kind/departure",

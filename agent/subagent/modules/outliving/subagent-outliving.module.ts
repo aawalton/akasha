@@ -23,6 +23,22 @@ export const subagentOutliving = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A seat's client is the Claude child under its seat's supervisor.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A supervisor is never taken for the client it spawns.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A client is found among the processes a scan already read.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A seat whose supervisor has no Claude child has no client.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement:
         "When a client started is the time the folder that client has under /proc carries.",
     },

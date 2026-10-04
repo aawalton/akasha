@@ -30,6 +30,20 @@ export type ProcLivenessEntry = {
   ppid?: number
 }
 
+export function findLiveClaudeChild(
+  agentId: string,
+  entries: readonly ProcLivenessEntry[],
+  supervisorPid: number
+): number | null {
+  for (const entry of entries) {
+    if (entry.agentId !== agentId) continue
+    if (entry.ppid !== supervisorPid) continue
+    if (!isClaudeChildCmdline(entry.cmdline)) continue
+    return entry.pid
+  }
+  return null
+}
+
 export function liveAgentPidsFromProc(
   entries: readonly ProcLivenessEntry[]
 ): Map<string, number[]> {

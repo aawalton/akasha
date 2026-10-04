@@ -1,5 +1,5 @@
 import {
-  isClaudeChildCmdline,
+  findLiveClaudeChild,
   type ProcLivenessEntry,
 } from "akasha/agent/modules/proc-liveness/agent-proc-liveness.module.code.ts"
 import { scanProcEntries } from "akasha/agent/modules/proc-scan/proc-scan.module.code.ts"
@@ -37,20 +37,6 @@ function seamsOf(given: Partial<ChildSpawnSeams> = {}): ChildSpawnSeams {
     takeShells: given.takeShells ?? takeOpenShells,
     sweepSubagents: given.sweepSubagents ?? sweepSubagentPagesOf,
   }
-}
-
-export function findLiveClaudeChild(
-  agentId: string,
-  entries: readonly ProcLivenessEntry[],
-  supervisorPid: number
-): number | null {
-  for (const entry of entries) {
-    if (entry.agentId !== agentId) continue
-    if (entry.ppid !== supervisorPid) continue
-    if (!isClaudeChildCmdline(entry.cmdline)) continue
-    return entry.pid
-  }
-  return null
 }
 
 function adoptLiveChildOrSpawn(args: {

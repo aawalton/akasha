@@ -1,1 +1,1 @@
-{"path":"agent/seat/supervisor/seat-agent-start/modules/supervisor-child-spawn/supervisor-child-spawn.module.code.ts","name":"findLiveClaudeChild"}
+{"path":"agent/modules/proc-liveness/agent-proc-liveness.module.code.ts","name":"findLiveClaudeChild"}

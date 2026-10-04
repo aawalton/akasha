@@ -15,6 +15,8 @@ import {
   staleAmong,
 } from "akasha/agent/subagent/modules/census/subagent-census.module.code.ts"
 import {
+  type ClientPidOf,
+  clientPidIn,
   clientStartedAt,
   outlivedAmong,
   subagentsDirOf,
@@ -64,9 +66,10 @@ export interface OwnIds {
 
 const NO_OWN_IDS: OwnIds = { running: new Set(), ended: new Set(), outlived: new Set() }
 
-export type HolderPidOf = (seatId: string) => number | null
-
-export type RunningSaid = (pages: readonly SubagentPage[]) => Promise<OwnIds>
+export type RunningSaid = (
+  pages: readonly SubagentPage[],
+  entries: readonly ProcLivenessEntry[]
+) => Promise<OwnIds>
 
 export type SeatsNow = () => Iterable<string>
 
@@ -92,7 +95,7 @@ export async function runningOwnIn(
   pages: readonly SubagentPage[],
   reading: SeatTranscripts,
   pathOf: TranscriptPathOf,
-  pidOf: HolderPidOf = akashaHolderPidOf,
+  pidOf: ClientPidOf = clientPidIn(scanProcEntries().entries, akashaHolderPidOf),
   startedAt: (pid: number) => number | null = clientStartedAt,
   seatsOf: SeatsNow = noSeats
 ): Promise<OwnIds> {
@@ -132,12 +135,15 @@ export async function runningOwnIn(
   return { running, ended, outlived }
 }
 
-export async function transcriptsSay(pages: readonly SubagentPage[]): Promise<OwnIds> {
+export async function transcriptsSay(
+  pages: readonly SubagentPage[],
+  entries: readonly ProcLivenessEntry[]
+): Promise<OwnIds> {
   return runningOwnIn(
     pages,
     createSubagentReader(),
     (seat) => transcriptOf(seat)?.value ?? null,
-    akashaHolderPidOf,
+    clientPidIn(entries, akashaHolderPidOf),
     clientStartedAt,
     seatsNow
   )
@@ -169,7 +175,7 @@ export async function agentSubagentSweep(
   const pages = pagesIn(root)
   let own: OwnIds = NO_OWN_IDS
   try {
-    own = await said(pages)
+    own = await said(pages, entries)
   } catch {
     own = NO_OWN_IDS
   }

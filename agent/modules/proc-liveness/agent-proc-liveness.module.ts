@@ -20,6 +20,10 @@ export const agentProcLiveness = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A live Claude child is found by its agent and by the supervisor it runs under.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A subagent is named on a process by the agent that process acts under.",
     },
     {

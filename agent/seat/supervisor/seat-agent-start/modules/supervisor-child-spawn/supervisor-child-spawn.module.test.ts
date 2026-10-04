@@ -4,7 +4,6 @@ import type { InheritedProc } from "akasha/agent/seat/supervisor/modules/supervi
 import type { spawnClaudeChild } from "akasha/agent/seat/supervisor/seat-agent-start/modules/supervisor-adopt/supervisor-adopt.module.code.ts"
 import {
   type ChildSpawnSeams,
-  findLiveClaudeChild,
   SPAWNED_FRESH,
   spawnOrAdoptChild,
 } from "akasha/agent/seat/supervisor/seat-agent-start/modules/supervisor-child-spawn/supervisor-child-spawn.module.code.ts"
@@ -70,16 +69,6 @@ function ranWith(seams: Partial<ChildSpawnSeams>): {
     seams,
   })
 }
-
-test("a live claude child of this supervisor is found by its agent and its parent", () => {
-  const entries: readonly ProcLivenessEntry[] = [
-    { agentId: AGENT, pid: LIVE, ppid: process.pid, cmdline: CLAUDE },
-  ]
-
-  expect(findLiveClaudeChild(AGENT, entries, process.pid)).toBe(LIVE)
-  expect(findLiveClaudeChild(AGENT, entries, process.pid + 1)).toBeNull()
-  expect(findLiveClaudeChild("someone else", entries, process.pid)).toBeNull()
-})
 
 test("a child spawned afresh has the subagent pages under its seat taken away", () => {
   const swept: string[] = []

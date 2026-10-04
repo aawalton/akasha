@@ -1,5 +1,9 @@
 import { statSync } from "node:fs"
 import { join } from "node:path"
+import {
+  findLiveClaudeChild,
+  type ProcLivenessEntry,
+} from "akasha/agent/modules/proc-liveness/agent-proc-liveness.module.code.ts"
 
 const PROC = "/proc"
 
@@ -14,6 +18,18 @@ export function clientStartedAt(pid: number, procRoot: string = PROC): number | 
     return statSync(join(procRoot, String(pid))).mtimeMs
   } catch {
     return null
+  }
+}
+
+export type ClientPidOf = (seatId: string) => number | null
+
+export function clientPidIn(
+  entries: readonly ProcLivenessEntry[],
+  supervisorPidOf: (seatId: string) => number | null
+): ClientPidOf {
+  return (seatId) => {
+    const supervisor = supervisorPidOf(seatId)
+    return supervisor === null ? null : findLiveClaudeChild(seatId, entries, supervisor)
   }
 }
 

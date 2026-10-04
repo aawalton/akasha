@@ -1,6 +1,7 @@
 import { expect, test } from "bun:test"
 import {
   actingAgentPidsFromProc,
+  findLiveClaudeChild,
   isAgentProcessCmdline,
   isClaudeChildCmdline,
   isSupervisorCmdline,
@@ -49,6 +50,21 @@ test("an agent's own process is its child or its supervisor and nothing else", (
   expect(isAgentProcessCmdline(CHILD)).toBe(true)
   expect(isAgentProcessCmdline(SUPERVISOR)).toBe(true)
   expect(isAgentProcessCmdline(TASK)).toBe(false)
+})
+
+test("a live Claude child of a supervisor is found by its agent and its parent", () => {
+  const entries = [
+    entry({ agentId: ONE, cmdline: SUPERVISOR, pid: 10, ppid: 1 }),
+    entry({ agentId: ONE, cmdline: CHILD, pid: 11, ppid: 10 }),
+  ]
+  expect(findLiveClaudeChild(ONE, entries, 10)).toBe(11)
+  expect(findLiveClaudeChild(ONE, entries, 11)).toBeNull()
+  expect(findLiveClaudeChild("someone else", entries, 10)).toBeNull()
+})
+
+test("a supervisor is no Claude child of the process that started it", () => {
+  const entries = [entry({ agentId: ONE, cmdline: SUPERVISOR, pid: 10, ppid: 1 })]
+  expect(findLiveClaudeChild(ONE, entries, 1)).toBeNull()
 })
 
 test("a process whose agent is named as no uuid stands for no agent", () => {
