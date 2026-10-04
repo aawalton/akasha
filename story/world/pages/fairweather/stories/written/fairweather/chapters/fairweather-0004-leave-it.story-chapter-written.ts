@@ -5,7 +5,7 @@ export const fairweather0004LeaveIt = {
   type: "page-type/story-chapter-written",
   slug: "fairweather-0004-leave-it",
   cover: "image/image-04b7f65a3dc1b2c2",
-  ownProgress: 8761,
+  ownProgress: 9294,
   position: 4,
   unit: "unit/words",
   title: "Leave It",
