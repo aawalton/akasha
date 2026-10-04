@@ -4,6 +4,8 @@ export const imageB95a06317231444d = {
   id: "01a108ee-942a-77f5-9d10-ce29032609e8",
   type: "page-type/image",
   slug: "image-b95a06317231444d",
+  title: "Pink Cocktails at the Swim-Up Bar",
+  albums: ["image-album/hotel-pool"],
   service: "zimage",
   operation: "generate",
   model: "beyond-reality-3",

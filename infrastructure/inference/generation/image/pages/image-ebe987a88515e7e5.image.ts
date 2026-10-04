@@ -4,6 +4,8 @@ export const imageEbe987a88515e7e5 = {
   id: "01a108ee-70a5-7d80-a122-ccc238e2462a",
   type: "page-type/image",
   slug: "image-ebe987a88515e7e5",
+  title: "Tucking In the Towel",
+  albums: ["image-album/hotel-pool"],
   service: "zimage",
   operation: "generate",
   model: "beyond-reality-3",

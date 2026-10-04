@@ -4,6 +4,8 @@ export const imageC4ad6a1e4bde1e9a = {
   id: "01a108ef-50ce-7ce1-90e0-69519f8303e2",
   type: "page-type/image",
   slug: "image-c4ad6a1e4bde1e9a",
+  title: "Red Strings in the Cabana",
+  albums: ["image-album/hotel-pool"],
   service: "zimage",
   operation: "generate",
   model: "beyond-reality-3",

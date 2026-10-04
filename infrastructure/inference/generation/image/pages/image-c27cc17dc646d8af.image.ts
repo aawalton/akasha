@@ -4,6 +4,8 @@ export const imageC27cc17dc646d8af = {
   id: "01a108ef-7461-7b4c-8ab7-19dfb212516b",
   type: "page-type/image",
   slug: "image-c27cc17dc646d8af",
+  title: "Catching Her Breath at Dusk",
+  albums: ["image-album/hotel-pool"],
   service: "zimage",
   operation: "generate",
   model: "beyond-reality-3",

@@ -4,6 +4,8 @@ export const image4382dc81beba31b0 = {
   id: "01a108ee-b7cb-7d62-a5b1-6cdbab0a4dae",
   type: "page-type/image",
   slug: "image-4382dc81beba31b0",
+  title: "Under the Rain Shower",
+  albums: ["image-album/hotel-pool"],
   service: "zimage",
   operation: "generate",
   model: "beyond-reality-3",
