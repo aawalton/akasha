@@ -15,8 +15,9 @@ export const overwhereI00119 = {
   action:
     "“I was born in the wilds, no home, no lord, no papers. Would Wendlow be fine to claim? I’m tired of the questions.”",
   beats: "jsonl",
+  issues: "txt",
   lore: ["lore/overwhere-i-nala", "lore/overwhere-i-nala-2", "lore/overwhere-i-odile-varne"],
-  reviewedBy: ["story-reviewer/scene", "story-reviewer/holdings"],
+  reviewedBy: ["story-reviewer/scene", "story-reviewer/holdings", "story-reviewer/continuity"],
   recordedBy: [
     "story-recorder/inventory",
     "story-recorder/mechanics",
