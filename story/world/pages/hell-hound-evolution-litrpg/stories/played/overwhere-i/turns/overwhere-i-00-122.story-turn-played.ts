@@ -7,7 +7,13 @@ export const overwhereI00122 = {
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-i"],
   position: 122,
-  stepStatus: "step-status/world-builder",
+  stepStatus: "step-status/game-master",
   action:
     "“Fine. A bit boring, but should be fast.” I head out right away, talking to merchants on the way for clues as to where the rest might be.",
+  lore: [
+    "lore/overwhere-i-the-deserter-crew-2",
+    "lore/overwhere-i-the-deserter-crew-3",
+    "lore/overwhere-i-the-deserter-crew-4",
+    "place/overwhere-i-greyback-and-east-road",
+  ],
 } as const satisfies StoryTurnPlayed
