@@ -77,4 +77,4 @@
 {"beat":77,"event":"She wraps the buns in paper parcels and writes a name on each."}
 {"beat":78,"event":"On Cora's she writes black, strong, one sugar, then crosses it out and writes Cora.","at":"2026-06-02T20:30:00.000Z"}
 {"beat":79,"event":"She carries the parcels up to the attic and sets them by the door for the morning."}
-{"beat":80,"event":"She puts Cora's parcel on top of the pile, where she will see it first in the morning.","at":"2026-06-02T21:30:00.000Z"}
+{"beat":80,"event":"She puts Cora's parcel on top of the pile, where she will see it first in the morning.","at":"2026-06-02T21:30:00.000Z","changes":[{"page":"metric-character-experience/fairweather-elsie","note":"Experience logged","key":"history","append":{"turn":2,"value":30}},{"page":"metric-character-experience/fairweather-tamsin","note":"Experience logged","key":"history","append":{"turn":2,"value":30}},{"page":"metric-character-experience/fairweather-tilly","note":"Experience logged","key":"history","append":{"turn":2,"value":30}}]}
