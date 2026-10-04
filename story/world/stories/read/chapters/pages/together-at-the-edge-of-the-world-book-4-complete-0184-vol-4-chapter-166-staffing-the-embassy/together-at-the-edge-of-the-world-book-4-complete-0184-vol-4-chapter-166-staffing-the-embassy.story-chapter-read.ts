@@ -4,6 +4,7 @@ export const togetherAtTheEdgeOfTheWorldBook4Complete0184Vol4Chapter166StaffingT
   id: "01a0f12a-e88f-7034-8997-0eb4853cd5af",
   type: "page-type/story-chapter-read",
   slug: "together-at-the-edge-of-the-world-book-4-complete-0184-vol-4-chapter-166-staffing-the-embassy",
+  ownProgress: 2613,
   position: 184,
   publishedAt: "2026-04-17",
   unit: "unit/words",

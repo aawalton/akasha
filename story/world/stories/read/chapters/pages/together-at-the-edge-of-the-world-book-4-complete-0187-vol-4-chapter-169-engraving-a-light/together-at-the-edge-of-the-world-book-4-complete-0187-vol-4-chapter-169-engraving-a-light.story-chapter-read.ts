@@ -4,6 +4,7 @@ export const togetherAtTheEdgeOfTheWorldBook4Complete0187Vol4Chapter169Engraving
   id: "01a0f12a-e88f-797f-b28c-3d4d28f2bf58",
   type: "page-type/story-chapter-read",
   slug: "together-at-the-edge-of-the-world-book-4-complete-0187-vol-4-chapter-169-engraving-a-light",
+  ownProgress: 2077,
   position: 187,
   publishedAt: "2026-04-24",
   unit: "unit/words",

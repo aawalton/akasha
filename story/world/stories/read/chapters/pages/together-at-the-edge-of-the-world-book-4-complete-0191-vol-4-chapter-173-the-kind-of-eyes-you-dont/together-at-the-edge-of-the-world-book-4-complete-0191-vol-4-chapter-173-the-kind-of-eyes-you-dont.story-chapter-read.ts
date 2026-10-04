@@ -4,6 +4,7 @@ export const togetherAtTheEdgeOfTheWorldBook4Complete0191Vol4Chapter173TheKindOf
   id: "01a0f12a-e88f-7b61-9e67-3945a766afc2",
   type: "page-type/story-chapter-read",
   slug: "together-at-the-edge-of-the-world-book-4-complete-0191-vol-4-chapter-173-the-kind-of-eyes-you-dont",
+  ownProgress: 2466,
   position: 191,
   publishedAt: "2026-05-04",
   unit: "unit/words",

@@ -4,6 +4,7 @@ export const togetherAtTheEdgeOfTheWorldBook4Complete0185Vol4Chapter167FlowInFlo
   id: "01a0f12a-e88f-7c61-99cf-b90499aec32d",
   type: "page-type/story-chapter-read",
   slug: "together-at-the-edge-of-the-world-book-4-complete-0185-vol-4-chapter-167-flow-in-flow-out",
+  ownProgress: 2331,
   position: 185,
   publishedAt: "2026-04-20",
   unit: "unit/words",

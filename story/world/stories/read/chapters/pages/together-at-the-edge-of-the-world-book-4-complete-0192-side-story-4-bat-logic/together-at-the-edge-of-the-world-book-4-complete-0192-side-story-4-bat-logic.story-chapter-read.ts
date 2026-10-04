@@ -4,6 +4,7 @@ export const togetherAtTheEdgeOfTheWorldBook4Complete0192SideStory4BatLogic = {
   id: "01a0f12a-e88f-70e1-adf7-255a1e1486ee",
   type: "page-type/story-chapter-read",
   slug: "together-at-the-edge-of-the-world-book-4-complete-0192-side-story-4-bat-logic",
+  ownProgress: 3932,
   position: 192,
   publishedAt: "2026-05-05",
   unit: "unit/words",

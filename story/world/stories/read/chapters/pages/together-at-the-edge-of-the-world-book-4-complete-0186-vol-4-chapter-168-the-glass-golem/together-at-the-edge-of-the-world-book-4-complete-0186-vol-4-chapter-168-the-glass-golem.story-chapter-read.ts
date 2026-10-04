@@ -4,6 +4,7 @@ export const togetherAtTheEdgeOfTheWorldBook4Complete0186Vol4Chapter168TheGlassG
   id: "01a0f12a-e88f-7f36-8b72-791e12425cc7",
   type: "page-type/story-chapter-read",
   slug: "together-at-the-edge-of-the-world-book-4-complete-0186-vol-4-chapter-168-the-glass-golem",
+  ownProgress: 2308,
   position: 186,
   publishedAt: "2026-04-22",
   unit: "unit/words",

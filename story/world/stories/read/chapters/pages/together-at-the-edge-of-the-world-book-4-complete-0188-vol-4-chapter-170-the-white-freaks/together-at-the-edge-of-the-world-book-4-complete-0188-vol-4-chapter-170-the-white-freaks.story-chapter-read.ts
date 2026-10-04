@@ -4,6 +4,7 @@ export const togetherAtTheEdgeOfTheWorldBook4Complete0188Vol4Chapter170TheWhiteF
   id: "01a0f12a-e88f-7688-b6e6-a01b2c54b5db",
   type: "page-type/story-chapter-read",
   slug: "together-at-the-edge-of-the-world-book-4-complete-0188-vol-4-chapter-170-the-white-freaks",
+  ownProgress: 2223,
   position: 188,
   publishedAt: "2026-04-27",
   unit: "unit/words",

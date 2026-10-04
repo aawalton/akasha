@@ -4,6 +4,7 @@ export const togetherAtTheEdgeOfTheWorldBook4Complete0189Vol4Chapter171Tentacles
   id: "01a0f12a-e88f-79cf-afb6-06537f173878",
   type: "page-type/story-chapter-read",
   slug: "together-at-the-edge-of-the-world-book-4-complete-0189-vol-4-chapter-171-tentacles",
+  ownProgress: 2775,
   position: 189,
   publishedAt: "2026-04-29",
   unit: "unit/words",

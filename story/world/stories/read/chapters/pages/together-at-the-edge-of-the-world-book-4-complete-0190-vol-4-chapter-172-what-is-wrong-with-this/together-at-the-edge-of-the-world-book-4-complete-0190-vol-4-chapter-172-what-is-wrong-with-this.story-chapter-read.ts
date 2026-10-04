@@ -4,6 +4,7 @@ export const togetherAtTheEdgeOfTheWorldBook4Complete0190Vol4Chapter172WhatIsWro
   id: "01a0f12a-e88f-7be5-b758-e17cb7f6656e",
   type: "page-type/story-chapter-read",
   slug: "together-at-the-edge-of-the-world-book-4-complete-0190-vol-4-chapter-172-what-is-wrong-with-this",
+  ownProgress: 2606,
   position: 190,
   publishedAt: "2026-05-01",
   unit: "unit/words",
