@@ -239,6 +239,7 @@ export const gameMaster = {
       aids: [
         "A roll deciding whether an action succeeds is still yours to settle, since it shapes the beats.",
         "Beat what happens; the mechanics step turns it into numbers and items.",
+        "Its numbers land on their pages at the move to player, so before then they read unchanged.",
         "Define no mechanic; ask the world builder for one the turn needs.",
       ],
     },
