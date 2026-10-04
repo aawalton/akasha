@@ -4,6 +4,7 @@ export const togetherAtTheEdgeOfTheWorldBook4Complete0174Vol4Chapter159ChangeOfP
   id: "01a0f12a-e88e-79c8-9fba-6585f02ecdcd",
   type: "page-type/story-chapter-read",
   slug: "together-at-the-edge-of-the-world-book-4-complete-0174-vol-4-chapter-159-change-of-pace",
+  ownProgress: 2417,
   position: 174,
   publishedAt: "2026-04-01",
   unit: "unit/words",

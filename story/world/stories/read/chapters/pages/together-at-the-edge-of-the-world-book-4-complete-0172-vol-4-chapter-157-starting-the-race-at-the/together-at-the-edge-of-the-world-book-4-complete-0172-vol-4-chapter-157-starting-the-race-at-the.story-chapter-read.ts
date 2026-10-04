@@ -4,6 +4,7 @@ export const togetherAtTheEdgeOfTheWorldBook4Complete0172Vol4Chapter157StartingT
   id: "01a0f12a-e88e-7c48-b736-6fdeeee120dc",
   type: "page-type/story-chapter-read",
   slug: "together-at-the-edge-of-the-world-book-4-complete-0172-vol-4-chapter-157-starting-the-race-at-the",
+  ownProgress: 2400,
   position: 172,
   publishedAt: "2026-03-27",
   unit: "unit/words",

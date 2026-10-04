@@ -4,6 +4,7 @@ export const togetherAtTheEdgeOfTheWorldBook4Complete0175Vol4Chapter160WeBrew = 
   id: "01a0f12a-e88e-7d9b-a5cb-26b40e3a21c8",
   type: "page-type/story-chapter-read",
   slug: "together-at-the-edge-of-the-world-book-4-complete-0175-vol-4-chapter-160-we-brew",
+  ownProgress: 2232,
   position: 175,
   publishedAt: "2026-04-03",
   unit: "unit/words",

@@ -4,6 +4,7 @@ export const togetherAtTheEdgeOfTheWorldBook4Complete0176Vol4Chapter161BetterAlc
   id: "01a0f12a-e88f-7a59-a9c5-e7005e63546e",
   type: "page-type/story-chapter-read",
   slug: "together-at-the-edge-of-the-world-book-4-complete-0176-vol-4-chapter-161-better-alchemy",
+  ownProgress: 2348,
   position: 176,
   publishedAt: "2026-04-06",
   unit: "unit/words",
