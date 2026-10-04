@@ -1,0 +1,85 @@
+{"beat":1,"event":"Elsie wakes to the bread smell and hums the caravan song while she dresses.","at":"2026-06-10T05:30:00.000Z","place":"place/fairweather-honeycomb-attic","present":["character-player/fairweather-elsie"]}
+{"beat":2,"event":"She waters the plants and tells Doris the aloe all about Cora's eel bite."}
+{"beat":3,"event":"Downstairs she buys honey buns for four, and the baker twists them up in paper.","at":"2026-06-10T06:15:00.000Z","place":"place/fairweather-honeycomb"}
+{"beat":4,"event":"At the guild hall Cora is already at the board, a fresh bandage under her cuff.","at":"2026-06-10T07:15:00.000Z","place":"place/fairweather-guild-hall","present":["character-player/fairweather-elsie","character-other/fairweather-cora"]}
+{"beat":5,"event":"Elsie asks to see the bite, and Cora rolls back her cuff at once."}
+{"beat":6,"event":"It is healing clean, Elsie says so, and Cora rolls the cuff down slowly."}
+{"beat":7,"event":"Tamsin and Tilly come in together, arguing about whether eels have ears.","at":"2026-06-10T07:25:00.000Z","arrive":["character-other/fairweather-tamsin","character-other/fairweather-tilly"]}
+{"beat":8,"event":"Elsie hands round the honey buns, Cora's first."}
+{"beat":9,"event":"On the F-rank board are the glasshouse watch and the festival fireworks."}
+{"beat":10,"event":"Tilly reads do not drop on the fireworks notice, and goes pale with joy."}
+{"beat":11,"event":"Tamsin says they can do both: fireworks by day, orchids by night."}
+{"beat":12,"event":"Elsie says that's two nearer E-rank, and Tilly bounces on her toes."}
+{"beat":13,"event":"The clerk enters the party for both notices, and Cora writes them in her ledger."}
+{"beat":14,"event":"Powder Lane smells of sulphur, and Tilly breathes it in like roses.","at":"2026-06-10T08:00:00.000Z","place":"place/fairweather-lanternmere"}
+{"beat":15,"event":"The firework maker, an old man with singed eyebrows, points them at four straw-packed crates."}
+{"beat":16,"event":"Each crate is stencilled do not drop, and Tilly reads every one aloud."}
+{"beat":17,"event":"Tilly asks him about his star mixes, and they talk powders while the others wait."}
+{"beat":18,"event":"He gives Tilly a paper twist of his blue-star powder to try, and she holds it like a jewel."}
+{"beat":19,"event":"Tamsin takes two crates; Elsie and Tilly carry one between them; Cora takes the last."}
+{"beat":20,"event":"They carry the crates through the streets at a crawl, Tilly calling out every kerb.","at":"2026-06-10T08:45:00.000Z"}
+{"beat":21,"event":"A dog runs barking at Tamsin's legs, and she stands like a statue till it goes."}
+{"beat":22,"event":"At the Lantern Steps a boatman rows them out over the Mere, crates between their knees.","at":"2026-06-10T09:30:00.000Z"}
+{"beat":23,"event":"The Mere is flat and shining, and Elsie trails her fingers in the water."}
+{"beat":24,"event":"Tilly sits rigid with a crate in her lap and her eyes shut tight."}
+{"beat":25,"event":"Elsie holds Tilly's elbow, and Tilly opens one eye and looks at her instead of the water."}
+{"beat":26,"event":"The festival barge is half-built and hung with unlit lanterns, carpenters hammering.","at":"2026-06-10T10:00:00.000Z"}
+{"beat":27,"event":"The barge master counts the crates aboard, every one whole, and pays them the notice."}
+{"beat":28,"event":"Elsie, Tamsin and Tilly share it, and Elsie gives Tilly the odd pips."}
+{"beat":29,"event":"The barge master says Midsummer Lantern Night is on the twentieth, and they should come."}
+{"beat":30,"event":"He says the whole Mere fills with lantern boats, and fireworks burst over them."}
+{"beat":31,"event":"Elsie turns to the others with shining eyes, and Tamsin says they're coming, all of them."}
+{"beat":32,"event":"Cora says she'll be on duty; Elsie says then she'll be on duty in a boat, with them."}
+{"beat":33,"event":"Back on the Lantern Steps, Tilly kneels and pats the stone, and the boatman laughs.","at":"2026-06-10T10:45:00.000Z"}
+{"beat":34,"event":"At the Tipsy Heron Elsie pays for a pot of tea for four, and they share the last buns.","at":"2026-06-10T11:30:00.000Z"}
+{"beat":35,"event":"Cora says the glasshouse watch starts at dusk, and they should sleep this afternoon."}
+{"beat":36,"event":"Tilly says she can never sleep in the day; Tamsin says watch her."}
+{"beat":37,"event":"Cora goes to the Wardens' room to write, and says she'll meet them at the glasshouse gate.","at":"2026-06-10T12:00:00.000Z","leave":["character-other/fairweather-cora"]}
+{"beat":38,"event":"Tamsin stretches out on the Heron's back bench and is asleep in a breath; they leave her there.","at":"2026-06-10T12:15:00.000Z","leave":["character-other/fairweather-tamsin"]}
+{"beat":39,"event":"Tilly asks to nap in Elsie's attic, since her own room smells of sulphur.","at":"2026-06-10T12:30:00.000Z"}
+{"beat":40,"event":"The attic bed is narrow, and Tilly lies stiff as a board on the very edge.","at":"2026-06-10T12:45:00.000Z","place":"place/fairweather-honeycomb-attic","present":["character-player/fairweather-elsie","character-other/fairweather-tilly"]}
+{"beat":41,"event":"Elsie says she'll fall out, pulls her in, and tucks a singed braid behind her ear."}
+{"beat":42,"event":"Tilly lies very still, looking at the sloped ceiling and breathing carefully."}
+{"beat":43,"event":"Elsie falls asleep in moments, one arm thrown over Tilly's waist."}
+{"beat":44,"event":"Elsie wakes to find Tilly awake and watching her, and Tilly goes scarlet.","at":"2026-06-10T16:00:00.000Z"}
+{"beat":45,"event":"Tilly says she counted the boards in the ceiling, all of them, twice."}
+{"beat":46,"event":"They eat bread and cheese at the round window, and Elsie packs salve and bandages.","at":"2026-06-10T17:00:00.000Z"}
+{"beat":47,"event":"At sunset they walk the lake road to a walled garden with a long white glasshouse.","at":"2026-06-10T19:30:00.000Z","place":"place/fairweather-lanternmere"}
+{"beat":48,"event":"Tamsin and Cora wait at the garden gate with the old grower.","at":"2026-06-10T20:00:00.000Z","place":"place/fairweather-orchid-glasshouse","present":["character-player/fairweather-elsie","character-other/fairweather-tilly","character-other/fairweather-tamsin","character-other/fairweather-cora"]}
+{"beat":49,"event":"The grower says her moon orchids open at moonrise tonight, one night in the year."}
+{"beat":50,"event":"She says thieves come over the wall for them, and lamp moths as big as a hand bruise the petals."}
+{"beat":51,"event":"She shows them a stove, a kettle and one narrow cot for the watch, and goes up to her house."}
+{"beat":52,"event":"Inside, the glasshouse is long and warm, row on row of closed buds on dark leaves."}
+{"beat":53,"event":"Tamsin sets herself at the door with Margery; Cora takes the wall side, ledger out."}
+{"beat":54,"event":"Tilly lines up vials on the potting bench and says she will finish her smoke tonight."}
+{"beat":55,"event":"The moon comes up over the wall, and the buds begin to open, one after another.","at":"2026-06-10T21:30:00.000Z"}
+{"beat":56,"event":"The moon orchids glow silver all down the glasshouse, and Elsie's eyes fill."}
+{"beat":57,"event":"Cora stands beside her, looking at the flowers, then at Elsie's face in their light."}
+{"beat":58,"event":"Lamp moths come out of the dark, soft and hand-sized, and bump against the glass.","at":"2026-06-10T21:50:00.000Z"}
+{"beat":59,"event":"Some get in at the vents and settle on the orchids, bruising the petals brown."}
+{"beat":60,"event":"Elsie catches one gently in cupped hands and carries it out to the garden."}
+{"beat":61,"event":"Tamsin tries the same and squashes one, and looks so sorry that Elsie laughs."}
+{"beat":62,"event":"Tilly's smoke curls off a vial, pale and lemony, and the moths drift away from it."}
+{"beat":63,"event":"Wherever the smoke reaches the moths leave the orchids be; Tilly stares, then squeals."}
+{"beat":64,"event":"Elsie hugs her off her feet, and Tilly says it's finished, her smoke is finished."}
+{"beat":65,"event":"Something scrapes on the garden wall, and Tamsin says, quiet, company.","at":"2026-06-10T22:30:00.000Z"}
+{"beat":66,"event":"Two shapes drop over the wall and creep toward the glasshouse with sacks."}
+{"beat":67,"event":"Tamsin steps out with Margery on her shoulder, and one thief bolts back over the wall."}
+{"beat":68,"event":"The other trips in a bed of lettuces, and Elsie reaches her first."}
+{"beat":69,"event":"She is a thin young woman in a patched coat, crying with fright."}
+{"beat":70,"event":"She says her little brother has a fever, and a moon orchid would pay the apothecary."}
+{"beat":71,"event":"Elsie tells her moonbells brew for fever, and sends her to the apothecary on Mortar Lane."}
+{"beat":72,"event":"Elsie gives her bread from the satchel, and pays her coin for a fever draught from her own purse."}
+{"beat":73,"event":"Cora watches, writes, and lets her go."}
+{"beat":74,"event":"The young woman goes back over the wall with the bread held to her chest."}
+{"beat":75,"event":"Tilly makes tea on the stove, and they drink it among the glowing orchids.","at":"2026-06-10T23:00:00.000Z"}
+{"beat":76,"event":"Tamsin takes the first sleep on the narrow cot with Margery across her chest, snoring."}
+{"beat":77,"event":"Cora walks the wall; Elsie and Tilly sit on an upturned bucket and a crate, watching."}
+{"beat":78,"event":"Tilly asks, very quietly, whether what she feels around Elsie could be the class.","at":"2026-06-10T23:20:00.000Z"}
+{"beat":79,"event":"She says she can't tell any more what is hers."}
+{"beat":80,"event":"Elsie says she has never once used her class to make anyone feel anything."}
+{"beat":81,"event":"Cora, at the door, says the ledger agrees: Tether, once, on Tamsin, by her leave."}
+{"beat":82,"event":"Tilly looks down at her hands and says, in a very small voice, then it's mine."}
+{"beat":83,"event":"Elsie says of course it's hers, whatever it is, and takes her hand."}
+{"beat":84,"event":"Tilly holds Elsie's hand in both of hers, looks at the orchids, and keeps what it is to herself."}
+{"beat":85,"event":"A lamp moth lands on Elsie's hair clip, glowing faintly, and Tilly laughs and coaxes it off.","at":"2026-06-10T23:50:00.000Z"}
