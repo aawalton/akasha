@@ -5,7 +5,7 @@ export const fairweather0003AGoatLantern = {
   type: "page-type/story-chapter-written",
   slug: "fairweather-0003-a-goat-lantern",
   cover: "image/image-48db4289ca115285",
-  ownProgress: 7974,
+  ownProgress: 7985,
   position: 3,
   unit: "unit/words",
   title: "A Goat Lantern",
