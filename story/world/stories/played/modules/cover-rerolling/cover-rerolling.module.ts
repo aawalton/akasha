@@ -10,7 +10,12 @@ export const coverRerolling = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "A cover is drawn again from the prompt and model its image page records.",
+      statement:
+        "A cover is drawn again from its recorded prompt, by the one model story pictures are drawn with.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Recorded steps and guidance are kept only where that model drew the picture.",
     },
     {
       decisionKind: "decision-kind/departure",

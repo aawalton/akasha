@@ -98,9 +98,32 @@ test("an ask names an image, and anything else asks nothing", () => {
 
 test("a cover is drawn again from what its image page records, at the one portrait size", () => {
   expect(drawingOf(MADE)).toEqual(DRAWN)
-  expect(drawingOf({ ...MADE, prompt: " " })).toHaveProperty("refused")
-  expect(drawingOf({ ...MADE, model: "flux" })).toHaveProperty("refused")
+  expect(drawingOf({ ...MADE, prompt: " " })).toEqual({
+    refused: "This picture has no prompt saved, so it can't be redrawn.",
+  })
   expect(drawingOf(null)).toHaveProperty("refused")
+})
+
+test("a picture another model made is drawn again by the story model at that model's own steps", () => {
+  const edited = {
+    model: "qwen-image-edit-2511-lightning+beyond-reality-3",
+    prompt: MADE.prompt,
+    steps: 30,
+    guidance: 4,
+  }
+  expect(drawingOf(edited)).toEqual(DRAWN)
+  expect(drawingOf({ prompt: MADE.prompt })).toEqual(DRAWN)
+})
+
+test("a reroll of a picture another model made lands a new picture", async () => {
+  const held = faked(
+    { "story-turn-played": [turn("t-1", OLD)] },
+    { image: () => ({ model: "Tongyi-MAI/Z-Image-Turbo", prompt: MADE.prompt }) }
+  )
+  await rerollOf(STORY, held.effects)
+  expect(held.drawn).toEqual([DRAWN])
+  expect(held.written).toHaveLength(1)
+  expect(held.answers).toEqual([null])
 })
 
 test("every turn and chapter entry naming the old cover is pointed at the new one", () => {
@@ -176,7 +199,7 @@ test("a turn of another story naming the same cover is left alone", async () => 
   const held = faked({ "story-turn-played": [elsewhere] })
   await rerollOf(STORY, held.effects)
   expect(held.drawn).toEqual([])
-  expect(held.answers[0]).toContain("Nothing in this story")
+  expect(held.answers[0]).toContain("isn't in the story any more")
 })
 
 test("a render that fails is refused in words, and nothing is written", async () => {
@@ -190,7 +213,7 @@ test("a render that fails is refused in words, and nothing is written", async ()
   await rerollOf(STORY, held.effects)
   expect(held.written).toEqual([])
   expect(held.answers).toEqual([
-    "The picture service is not running right now, so nothing was drawn.",
+    "The picture maker isn't running right now. Try again in a little while.",
   ])
 })
 
@@ -208,7 +231,7 @@ test("an answer takes the ask off and leaves only the latest refusal", () => {
 
 test("a refusal names what went wrong, and a closed service is said plainly", () => {
   expect(refusalSaid(new Error("run did not complete"))).toBe("run did not complete")
-  expect(refusalSaid(new Error("fetch failed"))).toContain("not running")
+  expect(refusalSaid(new Error("fetch failed"))).toContain("isn't running")
 })
 
 test("the watch follows a story's uncommitted values and nothing else", () => {
@@ -297,5 +320,5 @@ test("a written story whose chapters no longer show the picture is refused and n
   })
   await rerollOf(WRITTEN, held.effects)
   expect(held.drawn).toEqual([])
-  expect(held.answers[0]).toContain("Nothing in this story")
+  expect(held.answers[0]).toContain("isn't in the story any more")
 })

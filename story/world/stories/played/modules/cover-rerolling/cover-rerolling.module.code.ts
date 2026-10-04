@@ -10,10 +10,7 @@ import { makingValues } from "akasha/infrastructure/inference/generation/image/m
 import { landImage } from "akasha/infrastructure/inference/generation/image/modules/picture-landing/picture-landing.module.code.ts"
 import { baseOf } from "akasha/infrastructure/inference/generation/zimage/modules/explore-batch/zimage-explore-batch.module.code.ts"
 import { buildModelGraph } from "akasha/infrastructure/inference/generation/zimage/modules/graph/zimage-graph.module.code.ts"
-import {
-  MODELS,
-  toModelId,
-} from "akasha/infrastructure/inference/generation/zimage/modules/models/zimage-models.module.code.ts"
+import { MODELS } from "akasha/infrastructure/inference/generation/zimage/modules/models/zimage-models.module.code.ts"
 import { defaultPersistImageDeps } from "akasha/infrastructure/inference/run/modules/persist-image/persist-image.module.code.ts"
 import { followWithin } from "akasha/infrastructure/service/akasha-service/service-workstation/modules/file-following/file-following.module.code.ts"
 import {
@@ -91,7 +88,9 @@ const HEIGHT = 1216
 
 const WRITER = "cover reroller <cover-reroller@alanwalton.com>"
 
-const NOT_ANSWERING = "The picture service is not running right now, so nothing was drawn."
+const STORY_MODEL: keyof typeof MODELS = "beyond-reality-3"
+
+const NOT_ANSWERING = "The picture maker isn't running right now. Try again in a little while."
 
 const CLOSED = /ECONNREFUSED|Unable to connect|fetch failed/
 
@@ -119,21 +118,19 @@ function numberIn(value: Value, key: string, fallback: number): number {
 }
 
 export function drawingOf(image: Value | null): Drawing | Refused {
-  if (image === null) return { refused: "That picture is no longer there to draw again." }
+  if (image === null)
+    return { refused: "This picture can't be found any more, so it can't be redrawn." }
   const prompt = textAt(image, "prompt")
   if (prompt === null || prompt.trim() === "") {
-    return { refused: "That picture records no prompt to draw it again from." }
+    return { refused: "This picture has no prompt saved, so it can't be redrawn." }
   }
-  const model = toModelId(textAt(image, "model") ?? "")
-  if (model === undefined) {
-    return { refused: "That picture was made by a model nothing here renders with." }
-  }
-  const spec = MODELS[model]
+  const spec = MODELS[STORY_MODEL]
+  const kept = textAt(image, "model") === STORY_MODEL ? image : {}
   return {
-    model,
+    model: STORY_MODEL,
     prompt,
-    steps: numberIn(image, "steps", spec.defaultSteps),
-    guidance: numberIn(image, "guidance", spec.defaultGuidance),
+    steps: numberIn(kept, "steps", spec.defaultSteps),
+    guidance: numberIn(kept, "guidance", spec.defaultGuidance),
     width: WIDTH,
     height: HEIGHT,
   }
@@ -287,7 +284,7 @@ async function redrawn(story: string, asked: string, effects: Rerolling): Promis
   if ("refused" in drawing) return drawing.refused
   const held = holdersIn(story, effects, asked, asked)
   if (held.pages.length === 0 && held.puts.length === 0) {
-    return "Nothing in this story shows that picture any more."
+    return "This picture isn't in the story any more, so there's nothing to redraw."
   }
   let drawn: string
   try {
@@ -295,7 +292,7 @@ async function redrawn(story: string, asked: string, effects: Rerolling): Promis
   } catch (thrown) {
     return refusalSaid(thrown)
   }
-  if (drawn === asked) return "The picture came out the same as before, so nothing changed."
+  if (drawn === asked) return "The redraw came out exactly the same as before. Try once more."
   const read = effects.head()
   return await effects.write(
     rerollWriting(holdersIn(story, effects, asked, drawn), asked, drawn, read)
@@ -352,7 +349,7 @@ export async function drawnAt(drawing: Drawing, seed: number): Promise<string> {
 export async function writtenBy(writing: Writing): Promise<string | null> {
   const wrote = await writingFor(writing)
   return "refused" in wrote
-    ? `The new picture was made but not put in place: ${wrote.refused}`
+    ? `A new picture was drawn but couldn't be added to the story: ${wrote.refused}`
     : null
 }
 

@@ -43,9 +43,9 @@ const POLL_MS = 4000
 
 const GIVEN_UP_MS = 20 * 60_000
 
-const SLOW = "The new picture took too long, so this one stays."
+const SLOW = "The redraw is taking too long, so this picture stays for now. Try again later."
 
-const UNSENT = "The ask to draw this picture again did not reach the game."
+const UNSENT = "The redraw couldn't be sent. Check your connection and try again."
 
 type TurnCover = {
   readonly id: string
