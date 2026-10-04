@@ -1,12 +1,12 @@
-{"beat":1,"event":"Elsie wakes before the bread smell and goes straight down to lift the cloth off the honey cake.","at":"2026-06-06T05:30:00.000Z","place":"place/fairweather-honeycomb","present":["character-player/fairweather-elsie"]}
+{"beat":1,"event":"Elsie wakes to the bread smell and goes straight down to lift the cloth off the honey cake.","at":"2026-06-06T05:30:00.000Z","place":"place/fairweather-honeycomb","present":["character-player/fairweather-elsie"]}
 {"beat":2,"event":"It has sunk a little in the middle overnight, and the baker says that is how it should be."}
 {"beat":3,"event":"The baker wraps it in brown paper and string, and Elsie thanks her twice."}
 {"beat":4,"event":"Elsie puts on her cleanest halter, pins her clip twice over, and waters the plants.","at":"2026-06-06T06:00:00.000Z"}
 {"beat":5,"event":"Tamsin comes to the bakery door with her hair wet and combed flat, which it never is.","at":"2026-06-06T06:30:00.000Z","arrive":["character-other/fairweather-tamsin"]}
-{"beat":6,"event":"Elsie says she looks lovely; Tamsin says she looks like a drowned cat, and goes red.","changes":[{"page":"world-relationship/fairweather-elsie-tamsin","note":"Bond: Tamsin 29 → 30 (kindness: Elsie says she looks lovely)","key":"relationshipPoints","from":29,"to":30}]}
+{"beat":6,"event":"Elsie says she looks lovely; Tamsin says she looks like a drowned cat, and goes red."}
 {"beat":7,"event":"Through the Tether Elsie feels something tight and cold in Tamsin, like a held breath."}
 {"beat":8,"event":"Tamsin carries the cake as if it might go off, and they set out along Thimble Canal.","at":"2026-06-06T06:45:00.000Z","place":"place/fairweather-lanternmere"}
-{"beat":9,"event":"Elsie buys a bunch of marigolds at a flower stall for Tamsin's mother, and pays for them.","changes":[{"page":"metric-character-currency/fairweather-elsie","note":"Two pips for a bunch of marigolds at a flower stall: 106 → 104 pips","key":"value","from":106,"to":104},{"page":"metric-character-currency/fairweather-elsie","note":"Elsie ends the chapter with 104 pips: 10 lanterns, 4 pips","key":"history","append":{"turn":6,"value":104}}]}
+{"beat":9,"event":"Elsie buys a bunch of marigolds at a flower stall for Tamsin's mother, and pays for them."}
 {"beat":10,"event":"Tamsin stares at the marigolds and laughs once, oddly."}
 {"beat":11,"event":"She walks slower with every bridge they cross."}
 {"beat":12,"event":"Elsie asks if her mother is frightening; Tamsin says she is the kindest woman alive."}
@@ -43,14 +43,14 @@
 {"beat":43,"event":"Rosa puts down her cup and asks Elsie if that's true."}
 {"beat":44,"event":"Elsie says yes, and that Tamsin can break the Tether whenever she likes."}
 {"beat":45,"event":"Rosa reaches across the table and takes Elsie's hand in both of hers, coal dust and all."}
-{"beat":46,"event":"Nell asks Elsie to help with the geraniums, and takes her up onto the cabin roof.","at":"2026-06-06T08:50:00.000Z","changes":[{"page":"world-relationship/fairweather-elsie-nell","note":"Bond: Nell 0 (first words with Elsie: the geraniums)","make":{"title":"Elsie and Nell","world":"world/fairweather","characters":["character-player/fairweather-elsie","character-other/fairweather-nell"],"relationshipPoints":0}}]}
+{"beat":46,"event":"Nell asks Elsie to help with the geraniums, and takes her up onto the cabin roof.","at":"2026-06-06T08:50:00.000Z"}
 {"beat":47,"event":"Nell pinches dead heads off the geraniums and asks how Tamsin really is."}
 {"beat":48,"event":"Elsie tells her honestly: brave, loud, and ashamed of something she won't say."}
 {"beat":49,"event":"Nell holds up her scarred hand and says that's the something."}
 {"beat":50,"event":"She says Tamsin's first red took her at her own Naming, and Nell was standing nearest."}
 {"beat":51,"event":"Nell says she never once blamed her, but Tamsin ran anyway, and never came home."}
 {"beat":52,"event":"Nell says she writes Tamsin a letter every week and sends none, and laughs at herself."}
-{"beat":53,"event":"Elsie's eyes fill; she says Tamsin should hear all that from Nell herself.","changes":[{"page":"world-relationship/fairweather-elsie-nell","note":"Bond: Nell 0 → 2 (confidence: the scar and the letters, answered kindly)","key":"relationshipPoints","from":0,"to":2}]}
+{"beat":53,"event":"Elsie's eyes fill; she says Tamsin should hear all that from Nell herself."}
 {"beat":54,"event":"Nell looks at her a long moment and says Tamsin has never brought anyone home before."}
 {"beat":55,"event":"Elsie says she's glad to be the first, and Nell grins exactly the way Tamsin does."}
 {"beat":56,"event":"Down in the cabin Tamsin sits on a narrow bunk made up neat under a patched quilt.","at":"2026-06-06T09:30:00.000Z"}
@@ -71,7 +71,7 @@
 {"beat":71,"event":"In the afternoon Tamsin walks Elsie to the end of the wharf, by the lock's black gates.","at":"2026-06-06T13:30:00.000Z"}
 {"beat":72,"event":"Tamsin says she broke the Hounds' shield-bearer's arm, but Nell's hand was the first."}
 {"beat":73,"event":"She says she was sure she would hurt Elsie in the Glasswood, until the thread came."}
-{"beat":74,"event":"Elsie says she wasn't afraid of her for a moment; she cannot lie, and Tamsin knows it.","changes":[{"page":"world-relationship/fairweather-elsie-tamsin","note":"Bond: Tamsin 30 → 32 (confidence: Nell's hand was the first, answered kindly)","key":"relationshipPoints","from":30,"to":32}]}
+{"beat":74,"event":"Elsie says she wasn't afraid of her for a moment, and Tamsin hears that she means it."}
 {"beat":75,"event":"Tamsin leans her forehead on Elsie's with her eyes shut, so close their breath mixes."}
 {"beat":76,"event":"Elsie says she loves her, and Tamsin makes a sound as if she's been punched."}
 {"beat":77,"event":"A barge horn blows at the lock, and Tamsin straightens and says they should go back."}
@@ -85,4 +85,4 @@
 {"beat":85,"event":"Elsie falls asleep at once, her face in Tamsin's neck and a hand on her shirt."}
 {"beat":86,"event":"Elsie half-wakes to Tamsin's heart racing under her palm, and thinks it a bad dream.","at":"2026-06-06T22:30:00.000Z"}
 {"beat":87,"event":"She murmurs that it's all right and holds her tighter, and Tamsin's breath stops."}
-{"beat":88,"event":"Something warm and huge comes down the Tether, and Elsie falls asleep inside it.","changes":[{"page":"world-relationship/fairweather-elsie-tamsin","note":"Bond: Tamsin 32 → 33 (Tether: under it by her own wish at day's end)","key":"relationshipPoints","from":32,"to":33}]}
+{"beat":88,"event":"Something warm and huge comes down the Tether, and Elsie falls asleep inside it."}
