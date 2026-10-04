@@ -2,3 +2,8 @@ scene: "She had read them all yesterday" - she last read the F-rank notices on J
 holdings: beat 77: Tamsin's and Tilly's lantern shares of the goat pay reach no purse change
 continuity: beat 3 "under the old flower market" - Elsie knows it with no one telling her
 continuity: beat 47 Tamsin's stranglevine warning - memory has Elsie learn it only at beat 59
+style: "and round again, and ate none of it" - Plain Negation
+style: "That's what brave is, Tilly. That's the whole of it." - No Tropes
+style: "I haven't had this. Before." - No Tropes
+style: "Tilly lets go of nothing now" (beat 60) - Plain Negation
+style: "says, low, that she has never had this before" (beat 82) - No Tropes
