@@ -38,7 +38,7 @@ export const fairweather0008TheBlueDoor = {
     "character-other/fairweather-tilly",
     "character-other/fairweather-cora",
   ],
-  reviewedBy: ["story-reviewer/scene", "story-reviewer/style"],
+  reviewedBy: ["story-reviewer/scene", "story-reviewer/style", "story-reviewer/holdings"],
   recordedBy: [
     "story-recorder/plan",
     "story-recorder/mechanics",

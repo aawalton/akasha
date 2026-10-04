@@ -1,3 +1,5 @@
 scene: "the lamplighters' boats came by" - beat 81 is 20:30; ch7 has them lighting at dusk, 19:45
 style: "her hand came feeling back across the quilt ... and took hold of it" - No Sign-Off
 style: "Asleep, Tamsin finds Elsie's hand and holds on to it." (beat 87) - No Sign-Off
+holdings: beat 23: Elsie takes Tamsin's hand, a +1 kindness in a new scene; beat 60's +1 is then past the cap
+holdings: beat 25: Elsie catches Tilly's hands, a +1 kindness; with it the cap cuts beat 75's +2 to +1
