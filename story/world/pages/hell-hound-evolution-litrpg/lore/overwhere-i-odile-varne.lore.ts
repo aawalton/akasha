@@ -75,6 +75,10 @@ export const overwhereIOdileVarne = {
       fact: "Her Adjudicator skill Weigh Words lets her feel whether one speaking to her believes what they say.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Weigh Words reads belief, not truth, and only words said to her face; using it needs no roll.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
