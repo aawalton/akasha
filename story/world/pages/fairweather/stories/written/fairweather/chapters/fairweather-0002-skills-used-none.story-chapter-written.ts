@@ -11,7 +11,7 @@ export const fairweather0002SkillsUsedNone = {
   story: "story-written/fairweather",
   ownLength: 8119,
   prose: "txt",
-  stepStatus: "step-status/game-master",
+  stepStatus: "step-status/mechanics",
   beats: "jsonl",
   issues: "txt",
   lore: [
@@ -31,14 +31,8 @@ export const fairweather0002SkillsUsedNone = {
     "character-other/fairweather-tamsin",
     "character-other/fairweather-tilly",
   ],
-  reviewedBy: ["story-reviewer/scene"],
-  recordedBy: [
-    "story-recorder/plan",
-    "story-recorder/inventory",
-    "story-recorder/mechanics",
-    "story-recorder/memory",
-    "story-recorder/picture",
-  ],
+  reviewedBy: ["story-reviewer/scene", "story-reviewer/continuity"],
+  rulings: "jsonl",
   scenes: [
     "image/image-0abfb4e300caad61",
     "image/image-83e68522e504c116",

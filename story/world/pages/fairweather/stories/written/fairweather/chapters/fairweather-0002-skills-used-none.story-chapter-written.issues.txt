@@ -1,4 +1,2 @@
-holdings: beat 58: Tamsin's 13 pips and Tilly's 14 of the rats pay reach no purse change
 holdings: beat 63: three pork pies are eaten, and no beat buys them and no purse pays for them
 style: "and the last boat passed, and the canal went quiet" - No Sign-Off
-continuity: "I brew every pot in this house myself" - no memory line shows the keeper fact
