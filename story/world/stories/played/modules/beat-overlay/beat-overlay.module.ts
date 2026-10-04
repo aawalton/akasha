@@ -18,6 +18,10 @@ export const beatOverlay = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A page revealed in a later beat is drawn nowhere before that beat.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A key the beats do not change is the value the page already holds.",
     },
   ],

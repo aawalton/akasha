@@ -29,6 +29,8 @@ const TYPE_KEY = "type"
 
 const PARTED = "/"
 
+const UNREVEALED_KEY = "unrevealed"
+
 function addressesIn(row: QueryRow, type: string): readonly string[] {
   const slug = textIn(row.values[SLUG_KEY])
   if (slug === null || slug === "") return NO_ADDRESSES
@@ -45,6 +47,7 @@ export function overlaidRow(row: QueryRow, type: string, overlay: BeatOverlay): 
   if (keys.length === 0) return row
   const values = { ...row.values }
   for (const key of keys) values[key] = overlay.valueOf(page, key, values[key])
+  if (values[UNREVEALED_KEY] === true) return null
   return { ...row, values }
 }
 

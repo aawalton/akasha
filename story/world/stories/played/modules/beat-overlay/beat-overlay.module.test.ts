@@ -29,6 +29,17 @@ test("a page the beats have not made yet is drawn nowhere", () => {
   expect(overlaidRow(purse, "metric-character-currency", overlayOf())).toBeNull()
 })
 
+test("a page the beats have not revealed yet is drawn nowhere", () => {
+  const shown: QueryRow = { values: { slug: "elsie-enthraller", unrevealed: false } }
+  const hidden: BeatOverlay = {
+    knows: () => true,
+    shows: () => true,
+    keysOf: () => ["unrevealed"],
+    valueOf: () => true,
+  }
+  expect(overlaidRow(shown, "character-class", hidden)).toBeNull()
+})
+
 test("a row is found by the page type the row states, beneath the type asked for", () => {
   const row: QueryRow = { values: { slug: "pearl", type: "the-beholder-allure", value: 15.6 } }
   const named: BeatOverlay = {
