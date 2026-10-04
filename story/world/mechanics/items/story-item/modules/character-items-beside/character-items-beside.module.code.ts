@@ -91,6 +91,13 @@ export function hadIn(rows: readonly Filed[], slots: Record<string, string>): Ha
   return { worn: Object.fromEntries(worn), carried }
 }
 
+export function heldByIn<Row extends Filed>(rows: readonly Row[], slug: string): readonly Row[] {
+  return rows.filter((row) => {
+    const at = row.values[CHARACTER_AT]
+    return typeof at === "string" && at.endsWith(`/${slug}`)
+  })
+}
+
 async function slotNames(): Promise<Record<string, string>> {
   const asked = await askedLoudly({ "page-type": SLOT_TYPE, keys: [SLUG_AT, TITLE_AT] })
   return asked.ok ? slotNamesIn(asked.answer.rows) : NO_SLOT_NAMES
@@ -106,7 +113,7 @@ async function hadBy(slug: string, overlay: BeatOverlay): Promise<Had | null> {
     slotNames(),
   ])
   if (!asked.ok || asked.answer.rows.length === 0) return null
-  return hadIn(overlaidRows(asked.answer.rows, ITEM_TYPE, overlay), slots)
+  return hadIn(heldByIn(overlaidRows(asked.answer.rows, ITEM_TYPE, overlay), slug), slots)
 }
 
 export async function itemsOf(

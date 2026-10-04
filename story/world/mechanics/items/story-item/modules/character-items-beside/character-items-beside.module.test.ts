@@ -8,6 +8,7 @@ import {
   countedAs,
   type Filed,
   hadIn,
+  heldByIn,
   slotNamesIn,
 } from "akasha/story/world/mechanics/items/story-item/modules/character-items-beside/character-items-beside.module.code.ts"
 
@@ -106,6 +107,14 @@ test("an item stating one or no quantity is named alone", () => {
 test("an item the story has not shown is left out", () => {
   const rows = [rowOf({ title: HIDE, unrevealed: true }), rowOf({ title: CLOAK })]
   expect(hadIn(rows, SLOTS).carried).toEqual([{ name: CLOAK }])
+})
+
+test("an item the beat on screen has not handed her yet is left out", () => {
+  const rows = [
+    rowOf({ title: HIDE, character: null }),
+    rowOf({ title: CLOAK, character: "character-player/elsie" }),
+  ]
+  expect(heldByIn(rows, "elsie").map((one) => one.values["title"])).toEqual([CLOAK])
 })
 
 test("no row at all answers nothing worn and nothing carried", () => {

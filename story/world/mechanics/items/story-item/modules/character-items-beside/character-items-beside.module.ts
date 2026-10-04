@@ -52,6 +52,10 @@ export const characterItemsBeside = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "An item the beat on screen hands to no one or to another is left out.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "The worn slots are answered in the order their titles sort.",
     },
     {
