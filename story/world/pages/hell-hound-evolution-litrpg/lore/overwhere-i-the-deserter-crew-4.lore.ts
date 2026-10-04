@@ -117,5 +117,9 @@ export const overwhereITheDeserterCrew4 = {
       fact: "Ulrik Hask, a Level 13 Iron March crossbowman, was Voss's lookout at the cairn, and lives.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Since day 7 Ulrik, alone in a levy jerkin, tolls lone carts a silver on the road by the cairn.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
