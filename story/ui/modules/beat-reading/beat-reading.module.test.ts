@@ -1,6 +1,7 @@
 import { expect, test } from "bun:test"
 import type { Beats } from "akasha/story/engine/beat-state/modules/beat-records/beat-records.module.code.ts"
 import {
+  aheadOf,
   baseOf,
   coversOn,
   overlayOf,
@@ -93,6 +94,47 @@ test("a key the chapter leaves alone is the value the chapters before it left", 
   expect(overlay.keysOf(ADP)).toEqual(["value"])
   expect(overlay.valueOf(ADP, "value", 17)).toBe(12)
   expect(overlay.valueOf(XP, "value", 9999)).toBe(100)
+})
+
+const CLASS = "character-class/elsie-enthraller"
+
+const BOND = "world-relationship/elsie-cora"
+
+test("a page a later chapter makes or reveals is drawn nowhere in this one", () => {
+  const later: Beats = {
+    beats: ["a", "b"],
+    scenes: [],
+    changes: [
+      { beat: 1, page: CLASS, key: "unrevealed", from: true, to: false, note: "Class" },
+      { beat: 2, page: BOND, make: { relationshipPoints: 5 }, note: "Bond: Cora 5" },
+      { beat: 2, page: BOND, key: "relationshipPoints", from: 5, to: 10, note: "Bond: 10" },
+    ],
+    memory: [],
+  }
+  const overlay = overlayOf(BEATS, 2, baseOf([]), aheadOf([later]))
+  expect(overlay.shows(BOND)).toBe(false)
+  expect(overlay.knows(CLASS)).toBe(true)
+  expect(overlay.keysOf(CLASS)).toEqual(["unrevealed"])
+  expect(overlay.valueOf(CLASS, "unrevealed", false)).toBe(true)
+  expect(overlay.valueOf(XP, "value", 9999)).toBe(160)
+})
+
+test("the chapters before win over the chapters after", () => {
+  const before: Beats = {
+    beats: ["a"],
+    scenes: [],
+    changes: [{ beat: 1, page: ADP, key: "value", from: 11, to: 12, note: "up" }],
+    memory: [],
+  }
+  const after: Beats = {
+    beats: ["a"],
+    scenes: [],
+    changes: [{ beat: 1, page: ADP, key: "value", from: 12, to: 13, note: "up" }],
+    memory: [],
+  }
+  const overlay = overlayOf(BEATS, 0, baseOf([before]), aheadOf([after]))
+  expect(overlay.valueOf(ADP, "value", 13)).toBe(12)
+  expect(overlay.shows(ADP)).toBe(true)
 })
 
 test("beats changing nothing hand the pages over as they are", () => {

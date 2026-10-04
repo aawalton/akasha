@@ -27,6 +27,15 @@ export const beatReading = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "A key this chapter and the ones before leave alone reads from the first later chapter changing it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A page a later chapter makes is drawn nowhere in this one.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A chapter whose beats carry no prose is drawn as it was, from its prose file.",
     },
   ],

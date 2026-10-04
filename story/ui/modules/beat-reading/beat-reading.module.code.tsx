@@ -130,6 +130,34 @@ export function baseOf(
   return pages
 }
 
+export type Ahead = {
+  readonly made: boolean
+  readonly values: Readonly<Record<string, unknown>>
+}
+
+const NO_AHEAD: ReadonlyMap<string, Ahead> = new Map()
+
+export function aheadOf(each: readonly Beats[]): ReadonlyMap<string, Ahead> {
+  const pages = new Map<
+    string,
+    { readonly made: boolean; readonly values: Record<string, unknown> }
+  >()
+  for (const beats of each) {
+    for (const change of beats.changes) {
+      const held = pages.get(change.page)
+      if (change.make !== undefined) {
+        if (held === undefined) pages.set(change.page, { made: true, values: {} })
+        continue
+      }
+      if (change.key === undefined || !("from" in change)) continue
+      const one = held ?? { made: false, values: {} }
+      pages.set(change.page, one)
+      if (!one.made && !(change.key in one.values)) one.values[change.key] = change.from
+    }
+  }
+  return pages
+}
+
 export function presentAt(beats: Beats, beat: number): readonly string[] {
   let state = OPENING_CAST
   for (const scene of beats.scenes) {
@@ -176,22 +204,24 @@ export function useBeatsFiles(hrefs: readonly string[]): readonly Beats[] {
 export function overlayOf(
   beats: Beats,
   beat: number,
-  base: ReadonlyMap<string, Readonly<Record<string, unknown>>> = NO_BASE
+  base: ReadonlyMap<string, Readonly<Record<string, unknown>>> = NO_BASE,
+  ahead: ReadonlyMap<string, Ahead> = NO_AHEAD
 ): BeatOverlay {
-  if (beats.changes.length === 0 && base.size === 0) return NO_OVERLAY
+  if (beats.changes.length === 0 && base.size === 0 && ahead.size === 0) return NO_OVERLAY
   const pages = pagesOf(beats)
   return {
-    knows: (page) => pages.has(page) || base.has(page),
+    knows: (page) => pages.has(page) || base.has(page) || ahead.has(page),
     shows: (page) => {
       const held = pages.get(page)
-      return held === undefined || held.made === null || held.made <= beat
+      if (held !== undefined) return held.made === null || held.made <= beat
+      return base.has(page) || ahead.get(page)?.made !== true
     },
     keysOf: (page) => {
-      const mine = pages.get(page)?.keys ?? NO_KEYS
-      const theirs = base.get(page)
-      if (theirs === undefined) return mine
-      const all = [...mine]
-      for (const key of Object.keys(theirs)) if (!all.includes(key)) all.push(key)
+      const all = [...(pages.get(page)?.keys ?? NO_KEYS)]
+      for (const theirs of [base.get(page), ahead.get(page)?.values]) {
+        if (theirs === undefined) continue
+        for (const key of Object.keys(theirs)) if (!all.includes(key)) all.push(key)
+      }
       return all
     },
     valueOf: (page, key, current) => {
@@ -200,7 +230,9 @@ export function overlayOf(
         return held.made === null ? atBeat(held, key, current, beat) : madeValue(held, key, beat)
       }
       const theirs = base.get(page)?.[key]
-      return theirs === undefined ? current : theirs
+      if (theirs !== undefined) return theirs
+      const later = ahead.get(page)?.values
+      return later !== undefined && key in later ? later[key] : current
     },
   }
 }
