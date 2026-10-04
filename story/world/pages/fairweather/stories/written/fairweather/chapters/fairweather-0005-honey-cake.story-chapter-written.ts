@@ -9,9 +9,9 @@ export const fairweather0005HoneyCake = {
   unit: "unit/words",
   title: "Honey Cake",
   story: "story-written/fairweather",
-  ownLength: 8916,
+  ownLength: 8959,
   prose: "txt",
-  stepStatus: "step-status/writer",
+  stepStatus: "step-status/recorders",
   beats: "jsonl",
   issues: "txt",
   lore: [
