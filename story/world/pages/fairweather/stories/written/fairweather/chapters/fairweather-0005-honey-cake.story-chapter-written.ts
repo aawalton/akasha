@@ -30,5 +30,10 @@ export const fairweather0005HoneyCake = {
     "character-other/fairweather-tamsin",
     "character-other/fairweather-tilly",
   ],
-  recordedBy: ["story-recorder/plan", "story-recorder/inventory", "story-recorder/mechanics"],
+  recordedBy: [
+    "story-recorder/plan",
+    "story-recorder/inventory",
+    "story-recorder/mechanics",
+    "story-recorder/memory",
+  ],
 } as const satisfies StoryChapterWritten
