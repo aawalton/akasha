@@ -167,6 +167,10 @@ export const overwhereIOdileVarne = {
       fact: "She writes Wendlow as Nala's home, and as her lord the margrave, served through the magistrate.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "A sworn hunter answers the magistrate's call against outlaws and beasts, paid at the Board's rates.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
