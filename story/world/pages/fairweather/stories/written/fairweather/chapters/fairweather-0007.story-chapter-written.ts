@@ -14,5 +14,5 @@ export const fairweather0007 = {
   beats: "jsonl",
   mechanicsIssues: "txt",
   lore: ["place/fairweather-lake-villages"],
-  recordedBy: ["story-recorder/plan"],
+  recordedBy: ["story-recorder/plan", "story-recorder/inventory"],
 } as const satisfies StoryChapterWritten
