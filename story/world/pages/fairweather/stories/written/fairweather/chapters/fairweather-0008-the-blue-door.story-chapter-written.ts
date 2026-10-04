@@ -11,7 +11,7 @@ export const fairweather0008TheBlueDoor = {
   story: "story-written/fairweather",
   ownLength: 9717,
   prose: "txt",
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/reviewers",
   beats: "jsonl",
   issues: "txt",
   lore: [
@@ -44,6 +44,7 @@ export const fairweather0008TheBlueDoor = {
     "story-recorder/plan",
     "story-recorder/mechanics",
     "story-recorder/picture",
+    "story-recorder/memory",
   ],
   rulings: "jsonl",
   scenes: [
