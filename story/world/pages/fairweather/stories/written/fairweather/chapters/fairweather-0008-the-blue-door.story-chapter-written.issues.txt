@@ -3,3 +3,4 @@ style: "her hand came feeling back across the quilt ... and took hold of it" - N
 style: "Asleep, Tamsin finds Elsie's hand and holds on to it." (beat 87) - No Sign-Off
 holdings: beat 23: Elsie takes Tamsin's hand, a +1 kindness in a new scene; beat 60's +1 is then past the cap
 holdings: beat 25: Elsie catches Tilly's hands, a +1 kindness; with it the cap cuts beat 75's +2 to +1
+continuity: "back through this lock early next month" (beat 11) - ch6: away a fortnight from 8 June
