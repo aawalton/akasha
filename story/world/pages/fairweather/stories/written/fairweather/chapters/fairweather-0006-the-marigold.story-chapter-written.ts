@@ -35,7 +35,12 @@ export const fairweather0006TheMarigold = {
     "character-other/fairweather-rosa",
   ],
   reviewedBy: ["story-reviewer/holdings"],
-  recordedBy: ["story-recorder/plan", "story-recorder/mechanics", "story-recorder/inventory"],
+  recordedBy: [
+    "story-recorder/plan",
+    "story-recorder/mechanics",
+    "story-recorder/inventory",
+    "story-recorder/picture",
+  ],
   rulings: "jsonl",
   scenes: [
     "image/image-79f16bff90c64ca0",
