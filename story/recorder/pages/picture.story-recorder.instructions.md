@@ -51,9 +51,9 @@ naming one `--image` for each character pictured. Write the prompt as 150 to 250
 
 - opening with the design's visual style and `candid photograph, nobody looks at the camera`, then `Keep the place from the first image` and where in it this moment is, as `by the round window` or `at the registration desk` is
 - what happens at this beat, before any looks, naming each figure by her image and hair, as `the pink-haired woman from the second image`: her pose, hands, expression and where she looks, stated plainly and exactly, and how near each is to the other, since an edit told the looks first poses its figures for the camera
-- each figure's `coverDescription`, then her slim build and small chest, then what she wears piece by piece as the lore and prose say, dressed as above
+- what each figure wears piece by piece as the lore and prose say, dressed as above
 - the light and time of day the beat's `at` gives, and anything the prose puts in the frame
-- the camera: framing close enough that every face pictured reads, lens and depth of field
+- the camera: framing and lens
 
 Make each picture once and keep it: a picture Alan wants different, he rerolls. A beat holding nudity or sex is rendered from words as above. Land each picture on its beat as soon as it is made, so Alan sees it in the draft: write it as one json line to `/var/tmp/akasha-turn-pictures/<chapter slug>-<n>.jsonl`, as `{"beat": <n>, "cover": "image/<slug>", "coverAfter": "<opening words>", "place": "place/<slug>", "characters": ["character-other/<slug>"]}`, leaving `characters` off a picture of the place alone, where `coverAfter` is the first twelve or so words of the beat's prose, quoted exactly, then run, alone on its line:
 

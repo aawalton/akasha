@@ -12,7 +12,7 @@ const REDRAW_MEGAPIXELS = 2
 const EDIT_MEGAPIXELS = 1
 
 function redrawPrompt(instruction: string): string {
-  return `Photorealistic photograph. ${instruction} Natural skin texture with fine pores, sharp focus, high-end photography.`
+  return `Photorealistic photograph. ${instruction}`
 }
 
 export const REFERENCES_HELD = 2
