@@ -34,7 +34,7 @@
 {"beat":34,"event":"Elsie wets a broad dock leaf at a trough and lays it on the back of Cora's neck.","at":"2026-06-07T11:15:00.000Z"}
 {"beat":35,"event":"Cora stands very still and leaves it there."}
 {"beat":36,"event":"At Pennyfield the carters stop at the Poppy inn for the noon meal, and so do they.","at":"2026-06-07T12:00:00.000Z"}
-{"beat":37,"event":"They eat bread, cheese and cherries at an outside table, each paying for her own."}
+{"beat":37,"event":"They eat bread, cheese and cherries at an outside table, each paying for her own.","changes":[{"page":"metric-character-currency/fairweather-elsie","note":"Bread, cheese and cherries at the Poppy inn, her own share: 3 pips, 104 → 101","key":"value","from":104,"to":101},{"page":"metric-character-currency/fairweather-tamsin","note":"Tamsin pays her own noon meal at the Poppy: 3 pips, 98 → 95","key":"value","from":98,"to":95},{"page":"metric-character-currency/fairweather-tilly","note":"Tilly pays her own noon meal at the Poppy: 3 pips, 95 → 92","key":"value","from":95,"to":92}]}
 {"beat":38,"event":"Tilly asks, very casually, what Tamsin's bunk is like."}
 {"beat":39,"event":"Tamsin says narrow, and grins at Elsie, and Tilly stabs a cherry."}
 {"beat":40,"event":"Elsie says she wishes they all lived under one roof, and the table goes quiet."}
@@ -42,7 +42,7 @@
 {"beat":42,"event":"Elsie asks what she's writing; Cora says skills used: none."}
 {"beat":43,"event":"Past Pennyfield the reeds grow thick right up to the road.","at":"2026-06-07T13:00:00.000Z"}
 {"beat":44,"event":"A cloud of sprites boils out of the reeds and mobs the cart, giggling."}
-{"beat":45,"event":"One snatches the pink-and-white clip from Elsie's hair and dives into the reeds."}
+{"beat":45,"event":"One snatches the pink-and-white clip from Elsie's hair and dives into the reeds.","changes":[{"page":"story-item/fairweather-flower-clip","note":"A reed sprite snatches the flower clip from Elsie's hair","key":"slot","from":"item-slot/head","to":null},{"page":"story-item/fairweather-flower-clip","note":"The sprite carries the clip off into the reeds","key":"character","from":"character-player/fairweather-elsie","to":null},{"page":"story-item/fairweather-flower-clip","note":"The clip is in the reed beds past Pennyfield, held by a sprite","key":"place","from":null,"to":"place/fairweather-lake-villages"}]}
 {"beat":46,"event":"Elsie's hand goes to her hair, and her eyes fill."}
 {"beat":47,"event":"Tamsin is into the reeds up to her waist before anyone can stop her."}
 {"beat":48,"event":"Cora says reed beds swallow boots, and goes in after her, coat and all."}
@@ -53,10 +53,10 @@
 {"beat":53,"event":"Tilly takes two vials from her belt and mixes them into a small, steady blue flame."}
 {"beat":54,"event":"The sprites go silent and stare at the blue flame, enchanted."}
 {"beat":55,"event":"Tilly sets the burning vial on a reed root, and the sprite drops the clip to go to it."}
-{"beat":56,"event":"Elsie snatches up the clip and kisses Tilly on the cheek, mud and all."}
+{"beat":56,"event":"Elsie snatches up the clip and kisses Tilly on the cheek, mud and all.","changes":[{"page":"story-item/fairweather-flower-clip","note":"Elsie snatches the clip back when the sprite drops it","key":"character","from":null,"to":"character-player/fairweather-elsie"},{"page":"story-item/fairweather-flower-clip","note":"The clip is in Elsie's hand again","key":"place","from":"place/fairweather-lake-villages","to":null}]}
 {"beat":57,"event":"Tilly stands in the reeds with her hand on her cheek and forgets to walk."}
 {"beat":58,"event":"Tamsin hauls her out by the collar, and Tilly is still holding her cheek."}
-{"beat":59,"event":"Elsie pins the clip back in with muddy fingers, and Cora reaches over and straightens it."}
+{"beat":59,"event":"Elsie pins the clip back in with muddy fingers, and Cora reaches over and straightens it.","changes":[{"page":"story-item/fairweather-flower-clip","note":"Elsie pins the clip back in her hair; Cora straightens it","key":"slot","from":null,"to":"item-slot/head"}]}
 {"beat":60,"event":"Cora's fingers stay a moment at Elsie's temple, and then she steps back."}
 {"beat":61,"event":"Back at the cart the carter laughs at the four of them, muddy to the thighs.","at":"2026-06-07T14:15:00.000Z"}
 {"beat":62,"event":"At Reedby they load the last buckets: lavender, cornflowers and sweet peas.","at":"2026-06-07T15:00:00.000Z"}
@@ -71,7 +71,7 @@
 {"beat":71,"event":"Tilly goes so red the carter asks if she's had too much sun."}
 {"beat":72,"event":"They come into the city as the lamplighters' boats set out along the canals.","at":"2026-06-07T19:45:00.000Z","place":"place/fairweather-lanternmere"}
 {"beat":73,"event":"At the flower market the carter unloads into the stalls and pays them the notice."}
-{"beat":74,"event":"Elsie, Tamsin and Tilly share it out, and Elsie puts the odd pips in Tilly's hand."}
+{"beat":74,"event":"Elsie, Tamsin and Tilly share it out, and Elsie puts the odd pips in Tilly's hand.","changes":[{"page":"metric-character-currency/fairweather-elsie","note":"Her share of the five-lantern flower cart pay: 16 pips, 101 → 117","key":"value","from":101,"to":117},{"page":"metric-character-currency/fairweather-tamsin","note":"Tamsin's share of the flower cart pay: 16 pips, 95 → 111","key":"value","from":95,"to":111},{"page":"metric-character-currency/fairweather-tilly","note":"Tilly's share, 16 pips plus the 2 odd pips Elsie gives her: 92 → 110","key":"value","from":92,"to":110},{"page":"metric-character-currency/fairweather-elsie","note":"Elsie ends the chapter with 117 pips: 11 lanterns, 7 pips","key":"history","append":{"turn":7,"value":117}},{"page":"metric-character-currency/fairweather-tamsin","note":"Tamsin ends the chapter with 111 pips","key":"history","append":{"turn":7,"value":111}},{"page":"metric-character-currency/fairweather-tilly","note":"Tilly ends the chapter with 110 pips","key":"history","append":{"turn":7,"value":110}}]}
 {"beat":75,"event":"Cora walks them to the guild hall door as it shuts, writes the notice in, and goes off duty.","at":"2026-06-07T19:55:00.000Z","place":"place/fairweather-guild-hall"}
 {"beat":76,"event":"Elsie gives her a lavender sprig saved from the last bucket; Cora tucks it in her buttonhole.","at":"2026-06-07T20:00:00.000Z","leave":["character-other/fairweather-cora"]}
 {"beat":77,"event":"Tamsin says she's due on the Marigold for supper, and asks if Elsie will come."}
