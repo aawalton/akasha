@@ -134,5 +134,25 @@ export const fairweatherLanternmere = {
         "character-other/fairweather-cora",
       ],
     },
+    {
+      fact: "Tanner's Row is a steep lane of leather workshops whose roofs nearly touch across it.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The lost cat of Tanner's Row is Admiral, a fat ginger tom who lives up on the roofs.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Admiral belongs to an old saddler on Tanner's Row, and comes down for nothing but kippers.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "A dyer on Vat Street boils glowcaps into a blue that shines faintly in the dark.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "A narrow canal house in Lanternmere lets for about two suns a month.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Place
