@@ -81,25 +81,6 @@ test("the text handlers' specs sit beside the game seats", async () => {
   expect(names).toContain(handlerSeatName("jenny", ROOT))
 })
 
-test("a story's editor seats are started by a notice alone, as their persona, role and game", () => {
-  const editors = [
-    { seat: "mari-beat-editor-a-book", role: "beat-editor" },
-    { seat: "mari-prose-editor-a-book", role: "prose-editor" },
-  ]
-  const master = "mari-game-master-a-book"
-  const seats = { game: "a-book", master, persona: "mari", builder: null, writer: null }
-  const specs = gameSeatSpecs([{ ...seats, played: false, editors }]).slice(1)
-  expect(specs.map((one) => [one.name, one.firstStart?.role])).toEqual([
-    ["mari-beat-editor-a-book", "beat-editor"],
-    ["mari-prose-editor-a-book", "prose-editor"],
-  ])
-  for (const spec of specs) {
-    const hears = (sender: string) =>
-      spec.wakeSources.some((rule) => ruleMatches(rule, { sender, content: "" }))
-    expect([hears(`agent:${STEP_SENDER}`), hears(`agent:${master}`)]).toEqual([true, false])
-  }
-})
-
 test("a written story's game master is started by a notice, never by the action bar", () => {
   const master = "mari-game-master-a-book"
   const [spec] = gameSeatSpecs([

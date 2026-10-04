@@ -1,8 +1,6 @@
-import { beatEditor } from "akasha/story/chapter/step-status/pages/beat-editor.step-status.ts"
 import { gameMaster } from "akasha/story/chapter/step-status/pages/game-master.step-status.ts"
 import { mechanics } from "akasha/story/chapter/step-status/pages/mechanics.step-status.ts"
 import { player } from "akasha/story/chapter/step-status/pages/player.step-status.ts"
-import { proseEditor } from "akasha/story/chapter/step-status/pages/prose-editor.step-status.ts"
 import { recorders as recordersStatus } from "akasha/story/chapter/step-status/pages/recorders.step-status.ts"
 import { reviewers as reviewersStatus } from "akasha/story/chapter/step-status/pages/reviewers.step-status.ts"
 import { worldBuilder } from "akasha/story/chapter/step-status/pages/world-builder.step-status.ts"
@@ -20,10 +18,8 @@ import type {
 const TURN_STEPS = [
   worldBuilder.slug,
   gameMaster.slug,
-  beatEditor.slug,
   mechanics.slug,
   writer.slug,
-  proseEditor.slug,
   reviewersStatus.slug,
   recordersStatus.slug,
   player.slug,
@@ -35,11 +31,7 @@ export const WORLD_BUILDER: TurnStep = worldBuilder.slug
 
 export const GAME_MASTER: TurnStep = gameMaster.slug
 
-export const BEAT_EDITOR: TurnStep = beatEditor.slug
-
 export const MECHANICS: TurnStep = mechanics.slug
-
-export const PROSE_EDITOR: TurnStep = proseEditor.slug
 
 export const REVIEWERS: TurnStep = reviewersStatus.slug
 
@@ -104,7 +96,7 @@ export type Held = {
   readonly recordedBy: readonly string[]
   readonly written: boolean
   readonly beats?: number
-  readonly editorSteps?: boolean
+
   readonly proseOnBeats?: boolean
   readonly mechanicsIssues?: readonly string[]
   readonly mechanicsSentBack?: boolean
@@ -152,10 +144,8 @@ export type Made =
 const WHO: Readonly<Record<TurnStep, string>> = {
   "world-builder": "the world builder",
   "game-master": "the game master",
-  "beat-editor": "the beat editor",
   mechanics: "the mechanics recorder",
   writer: "the writer",
-  "prose-editor": "the prose editor",
   reviewers: "the reviewers",
   recorders: "the recorders",
   player: "the player",

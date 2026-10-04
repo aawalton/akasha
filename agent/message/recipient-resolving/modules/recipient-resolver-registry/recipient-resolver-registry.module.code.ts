@@ -42,16 +42,7 @@ const WORLD_BUILDER = "world-builder"
 
 const WRITER = "writer"
 
-const EDITORS: readonly string[] = ["beat-editor", "prose-editor"]
-
-const EDITOR_STEPS = "editorSteps"
-
 const GAME_SEAT_TOKEN_THRESHOLD = 150_000
-
-interface Editor {
-  readonly seat: string
-  readonly role: string
-}
 
 interface GameSeats {
   readonly game: string
@@ -60,7 +51,6 @@ interface GameSeats {
   readonly builder: string | null
   readonly writer: string | null
   readonly played?: boolean
-  readonly editors?: readonly Editor[]
 }
 
 function seatOf(persona: string, role: string, game: string, root: string): string | null {
@@ -77,14 +67,6 @@ function personaOf(master: string, game: string, root: string): string | null {
   return seatOf(persona, GAME_MASTER, game, root) === master ? persona : null
 }
 
-function editorsOf(persona: string | null, game: string, edited: boolean, root: string) {
-  if (persona === null || !edited) return []
-  return EDITORS.flatMap((role): Editor[] => {
-    const seat = seatOf(persona, role, game, root)
-    return seat === null ? [] : [{ seat, role }]
-  })
-}
-
 export function gameSeatsIn(root: string): readonly GameSeats[] {
   const found: GameSeats[] = []
   const reading = readingIn(root)
@@ -98,9 +80,8 @@ export function gameSeatsIn(root: string): readonly GameSeats[] {
       const persona = personaOf(master, game, root)
       const builder = persona === null ? null : seatOf(persona, WORLD_BUILDER, game, root)
       const writer = persona === null ? null : seatOf(persona, WRITER, game, root)
-      const editors = editorsOf(persona, game, value[EDITOR_STEPS] === true, root)
       const played = playedKinds.has(kind)
-      found.push({ game, master, persona, builder, writer, played, editors })
+      found.push({ game, master, persona, builder, writer, played })
     }
   }
   return found
@@ -133,7 +114,7 @@ function gameSeatSpec(
 }
 
 export function gameSeatSpecs(seats: readonly GameSeats[]): readonly OnDemandAgentSpec[] {
-  return seats.flatMap(({ game, master, persona, builder, writer, played, editors = [] }) => {
+  return seats.flatMap(({ game, master, persona, builder, writer, played }) => {
     const startAs = (role: string): FirstStart | null =>
       persona === null ? null : { persona, role, domain: game, principal: ACTION_BAR_PLAYER }
     const bar = played === false ? [] : [heardFrom(master, ACTION_BAR_SENDER, "action-bar")]
@@ -161,11 +142,6 @@ export function gameSeatSpecs(seats: readonly GameSeats[]): readonly OnDemandAge
     if (writer !== null) {
       specs.push(
         gameSeatSpec(writer, game, [heardFrom(writer, STEP_SENDER, STEP_SENDER)], startAs(WRITER))
-      )
-    }
-    for (const { seat, role } of editors) {
-      specs.push(
-        gameSeatSpec(seat, game, [heardFrom(seat, STEP_SENDER, STEP_SENDER)], startAs(role))
       )
     }
     return specs

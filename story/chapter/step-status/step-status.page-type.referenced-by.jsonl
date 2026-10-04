@@ -1,6 +1,5 @@
 {"propertySlug":"import","fileName":"step-status.page-type.ts","path":"alan/collection/properties/parts-length-in-words.computed-property.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"step-status.page-type.ts","path":"alan/collection/properties/parts-progress-in-words.computed-property.code.ts","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"step-status.page-type.ts","path":"command/pages/story/turn/advance/modules/chapter-length/chapter-length.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"step-status.page-type.ts","path":"command/pages/story/turn/advance/story-turn-advance.command.test-fixtures.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"step-status.page-type.ts","path":"command/pages/story/turn/advance/story-turn-advance.command.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"step-status.page-type.ts","path":"command/pages/story/turn/cancel/story-turn-cancel.command.test-fixtures.ts","typed":false,"deferred":false}
@@ -13,11 +12,9 @@
 {"propertySlug":"import","fileName":"step-status.page-type.ts","path":"story/world/stories/played/turns/modules/turn-lifecycle/turn-lifecycle.module.test-fixtures.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"step-status.page-type.ts","path":"story/world/stories/played/turns/modules/turn-lifecycle/turn-lifecycle.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"step-status.page-type.ts","path":"story/world/stories/played/turns/modules/turn-making/turn-making.module.test.ts","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"step-status.page-type.types.ts","path":"story/chapter/step-status/pages/beat-editor.step-status.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"step-status.page-type.types.ts","path":"story/chapter/step-status/pages/game-master.step-status.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"step-status.page-type.types.ts","path":"story/chapter/step-status/pages/mechanics.step-status.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"step-status.page-type.types.ts","path":"story/chapter/step-status/pages/player.step-status.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"step-status.page-type.types.ts","path":"story/chapter/step-status/pages/prose-editor.step-status.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"step-status.page-type.types.ts","path":"story/chapter/step-status/pages/recorders.step-status.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"step-status.page-type.types.ts","path":"story/chapter/step-status/pages/reviewers.step-status.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"step-status.page-type.types.ts","path":"story/chapter/step-status/pages/world-builder.step-status.ts","typed":true,"deferred":false}

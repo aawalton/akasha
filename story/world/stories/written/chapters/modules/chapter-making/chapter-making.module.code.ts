@@ -48,8 +48,6 @@ const STORY = "story"
 
 const MASTER = "coordinatorAgent"
 
-const EDITOR_STEPS = "editorSteps"
-
 const PARTED = "/"
 
 const PADDED = 4
@@ -143,7 +141,7 @@ function storyAsked(story: string): Query {
   return {
     pageTypeSlug: storyWritten.slug,
     where: { [SLUG]: { is: story } },
-    keys: [SLUG, MASTER, EDITOR_STEPS],
+    keys: [SLUG, MASTER],
   }
 }
 
@@ -163,7 +161,7 @@ async function seatsTold(found: Story, story: string, at: string, send: Sending)
   const told: string[] = []
   const faults: string[] = []
   const body = noticeOf(at, WORLD_BUILDER, [], CHAPTER)
-  for (const to of noticedOf(found.master, story, found.editors)) {
+  for (const to of noticedOf(found.master, story)) {
     const stated = { to, from: STEP_SENDER, warrant: ANNOUNCE, body, startedOnDemand: true }
     const wrote = await writeMessage(stated, send)
     if (wrote.kind === "refused") faults.push(`\`${to}\` was not told: ${wrote.detail}`)
@@ -172,7 +170,7 @@ async function seatsTold(found: Story, story: string, at: string, send: Sending)
   return { told, faults }
 }
 
-type Story = { readonly master: string; readonly at: string; readonly editors: boolean }
+type Story = { readonly master: string; readonly at: string }
 
 type Found = Story | Exclude<ChapterMade, { kind: "made" }>
 
@@ -189,7 +187,7 @@ async function storyFound(story: string, calls: Calls): Promise<Found> {
   if ("refused" in read) return { kind: "unread", why: read.refused }
   const held = read.bodies[0]
   if (held === undefined) return { kind: "unread", why: `\`${story}\` was read nowhere` }
-  return { master, at: held.path, editors: row[EDITOR_STEPS] === true }
+  return { master, at: held.path }
 }
 
 export async function chapterMadeFor(story: string, calls: Calls = CALLS): Promise<ChapterMade> {

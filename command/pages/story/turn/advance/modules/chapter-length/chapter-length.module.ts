@@ -30,15 +30,7 @@ export const chapterLength = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A story with editor steps doubles a game master's beats and a writer's words.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "Each editor hands in at most half of what its step was handed, with no fewest.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A game master's mend of a chapter with editor steps runs to at most 100 beats.",
+      statement: "A written chapter has 50 to 100 beats, and 50 to 200 words to a beat.",
     },
   ],
 } as const satisfies Module

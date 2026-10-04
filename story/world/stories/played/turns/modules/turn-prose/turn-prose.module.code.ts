@@ -4,10 +4,6 @@ import {
   type Character,
   listedRefused,
 } from "akasha/story/world/stories/played/turns/modules/turn-cast/turn-cast.module.code.ts"
-import {
-  type Held,
-  PROSE_EDITOR,
-} from "akasha/story/world/stories/played/turns/modules/turn-lifecycle/turn-lifecycle.module.code.ts"
 
 const PROSE_HELD = "txt"
 
@@ -29,26 +25,21 @@ function castRefused(
   prose: string,
   characters: readonly string[],
   cast: readonly Character[],
-  admitted: Admitted,
-  editor: boolean
+  admitted: Admitted
 ): string | null {
-  if (editor && characters.length === 0) return null
   return unaddressed("character", characters) ?? listedRefused(prose, characters, cast, admitted)
 }
 
 export function proseTaken(
-  held: Held,
   prose: string,
   characters: readonly string[],
   cast: readonly Character[],
   admitted: Admitted
 ): ProseTaken {
-  const editor = held.status === PROSE_EDITOR
   if (prose.trim() === "") {
-    const who = editor ? "prose editor" : "writer"
-    return { refused: `a ${who}'s advance hands in prose, and this has none` }
+    return { refused: "a writer's advance hands in prose, and this has none" }
   }
-  const wrong = castRefused(prose, characters, cast, admitted, editor)
+  const wrong = castRefused(prose, characters, cast, admitted)
   if (wrong !== null) return { refused: wrong }
   const kept = [...new Set(characters)]
   return {

@@ -31,10 +31,7 @@ export const chapterMaking = {
       statement:
         "A chapter started tells the story's game master, world builder and writer seats of it.",
     },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A chapter started of a story with editor steps tells its editor seats as well.",
-    },
+
     {
       decisionKind: "decision-kind/departure",
       statement: "A story naming no coordinator agent starts no chapter.",

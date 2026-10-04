@@ -107,8 +107,6 @@ const MASTER = "coordinatorAgent"
 
 const TITLE = "title"
 
-const EDITOR_STEPS = "editorSteps"
-
 const PROSE_ON_BEATS = "proseOnBeats"
 
 const INTENT = "playerIntent"
@@ -138,7 +136,6 @@ export type Seated = {
 export type Story = {
   readonly title: string
   readonly master: string | null
-  readonly editorSteps?: boolean
   readonly proseOnBeats?: boolean
   readonly intent?: string | null
 }
@@ -225,9 +222,8 @@ export async function noticesSent(
   }
   const cast = status === WRITER && toRead.length > 0 ? `\n\n${loreLine(toRead, noun)}` : ""
   const story = reach.storyOf(root, game)
-  const editors = story?.editorSteps === true
   const intent = status === GAME_MASTER ? intentLine(story?.intent) : ""
-  for (const to of noticedOf(master, game, editors)) {
+  for (const to of noticedOf(master, game)) {
     const said = noticeOf(turn, status, reach.changedLore(root, to), noun)
     const more = to === master ? `${toMaster}${intent}` : ""
     const why = await reach.notify(to, `${said}${cast}${more}`)
@@ -293,7 +289,7 @@ function storyIndexed(root: string, game: string): Story | null {
   return {
     title: textAt(value, TITLE) ?? game,
     master: textAt(value, MASTER),
-    editorSteps: value[EDITOR_STEPS] === true,
+
     proseOnBeats: value[PROSE_ON_BEATS] === true,
     intent: textAt(value, INTENT),
   }

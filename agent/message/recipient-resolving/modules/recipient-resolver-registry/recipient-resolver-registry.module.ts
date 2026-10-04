@@ -36,14 +36,7 @@ export const recipientResolverRegistry = {
       decisionKind: "decision-kind/departure",
       statement: "A writer seat is started by that notice alone.",
     },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A story with editor steps has a beat editor and a prose editor seat as well.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "An editor seat is started by that notice alone.",
-    },
+
     {
       decisionKind: "decision-kind/departure",
       statement:

@@ -3790,11 +3790,9 @@
 {"propertySlug":"decision-kind","path":"story/chapter/properties/step-mechanics-sent-back.boolean-property.ts","id":"01a102f0-b0b7-7955-a531-3a7b1480b8a8"}
 {"propertySlug":"decision-kind","path":"story/chapter/properties/step-recorded-by.multi-relation-property.ts","id":"01a0e058-679f-70f6-baaf-b82f0c8a4690"}
 {"propertySlug":"decision-kind","path":"story/chapter/properties/step-reviewed-by.multi-relation-property.ts","id":"01a0deb0-cf67-7a1e-bb3d-6859e1f25fce"}
-{"propertySlug":"decision-kind","path":"story/chapter/step-status/pages/beat-editor.step-status.ts","id":"01a1036d-1063-7583-b562-88c7977dd3ca"}
 {"propertySlug":"decision-kind","path":"story/chapter/step-status/pages/game-master.step-status.ts","id":"01a0dead-3b10-7234-922d-8dfc80845bcc"}
 {"propertySlug":"decision-kind","path":"story/chapter/step-status/pages/mechanics.step-status.ts","id":"01a1024d-9f93-7d0a-bcf2-c0e594dac5a1"}
 {"propertySlug":"decision-kind","path":"story/chapter/step-status/pages/player.step-status.ts","id":"01a0dead-3b11-793d-b1ad-794e91dbdfaf"}
-{"propertySlug":"decision-kind","path":"story/chapter/step-status/pages/prose-editor.step-status.ts","id":"01a1036d-1064-704f-a363-6276a578d49e"}
 {"propertySlug":"decision-kind","path":"story/chapter/step-status/pages/recorders.step-status.ts","id":"01a0e057-cfa0-781d-ab55-d782157bb513"}
 {"propertySlug":"decision-kind","path":"story/chapter/step-status/pages/reviewers.step-status.ts","id":"01a0dead-3b11-722a-b69d-bd1417836650"}
 {"propertySlug":"decision-kind","path":"story/chapter/step-status/pages/world-builder.step-status.ts","id":"01a0dead-3b11-7d14-9f32-f1ada3adf863"}
@@ -4133,7 +4131,6 @@
 {"propertySlug":"decision-kind","path":"story/world/stories/played/story-played.page-type.ts","id":"01a06424-329c-7c08-a753-0e0520e2d22c"}
 {"propertySlug":"decision-kind","path":"story/world/stories/played/turns/modules/turn-advancing/turn-advancing.module.ts","id":"01a1022f-b5dc-7b0c-91af-b84b4c92f314"}
 {"propertySlug":"decision-kind","path":"story/world/stories/played/turns/modules/turn-cast/turn-cast.module.ts","id":"01a0ea6e-4e6c-7af1-9a9e-477f55abd52a"}
-{"propertySlug":"decision-kind","path":"story/world/stories/played/turns/modules/turn-editing/turn-editing.module.ts","id":"01a10376-8f87-7b0b-9e68-2200e2285399"}
 {"propertySlug":"decision-kind","path":"story/world/stories/played/turns/modules/turn-lifecycle/turn-lifecycle.module.ts","id":"01a0dec2-87a0-7072-b427-5155e34684b0"}
 {"propertySlug":"decision-kind","path":"story/world/stories/played/turns/modules/turn-lore-handed/turn-lore-handed.module.ts","id":"01a0f17a-cd74-7e4b-abcf-ece5c4c8f55f"}
 {"propertySlug":"decision-kind","path":"story/world/stories/played/turns/modules/turn-making/turn-making.module.ts","id":"01a0decc-a86e-79d7-b3b5-327c056ef9a5"}

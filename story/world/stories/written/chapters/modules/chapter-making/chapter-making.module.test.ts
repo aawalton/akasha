@@ -45,14 +45,8 @@ test("a chapter sits in the chapters folder beside its story", () => {
   expect(besideStory(STORY_AT, "hotel-0003")).toBe(CHAPTER_AT)
 })
 
-function callsOver(
-  master: string | null,
-  wrote: Writing[],
-  sent: Writing[],
-  editors = false
-): Calls {
-  const named = master === null ? { slug: "hotel" } : { slug: "hotel", coordinatorAgent: master }
-  const storyRow = editors ? { ...named, editorSteps: true } : named
+function callsOver(master: string | null, wrote: Writing[], sent: Writing[]): Calls {
+  const storyRow = master === null ? { slug: "hotel" } : { slug: "hotel", coordinatorAgent: master }
   return {
     ask: async (query: Query) =>
       query.pageTypeSlug === "story-written"
@@ -89,18 +83,6 @@ test("a started chapter is written as new and its story's seats are told", async
   expect(sent[0]?.pages?.[0]?.values["body"]).toBe(
     `The chapter \`${CHAPTER_AT}\` is at world-builder.\n`
   )
-})
-
-test("a started chapter of a story with editor steps tells its editor seats too", async () => {
-  const sent: Writing[] = []
-  await chapterMadeFor("hotel", callsOver("mari-game-master-hotel", [], sent, true))
-  expect(sent.map((one) => one.pages?.[0]?.values["to"])).toEqual([
-    "seat/mari-game-master-hotel",
-    "seat/mari-world-builder-hotel",
-    "seat/mari-writer-hotel",
-    "seat/mari-beat-editor-hotel",
-    "seat/mari-prose-editor-hotel",
-  ])
 })
 
 test("a story naming no coordinator agent starts no chapter", async () => {

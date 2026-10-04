@@ -140,15 +140,11 @@ test("a played turn holds however many beats the story needs, and a chapter a hu
   const chapter = heldAt("game-master", { noun: "chapter" })
   expect(beatsRefused(beatsOf(100), chapter)).toBeNull()
   expect(beatsRefused(beatsOf(101), chapter)).toContain("a chapter holds at most 100 beats")
-  const edited = heldAt("game-master", { noun: "chapter", editorSteps: true })
-  expect(beatsRefused(beatsOf(145), edited)).toBeNull()
-  expect(beatsRefused(beatsOf(200), edited)).toBeNull()
-  expect(beatsRefused(beatsOf(201), edited)).toContain("a chapter holds at most 200 beats")
 })
 
 test("a beat runs past a hundred characters whatever the beats' cap is", () => {
-  const edited = heldAt("game-master", { noun: "chapter", editorSteps: true })
-  expect(beatsRefused(["x".repeat(101)], edited)).toContain("beat 1 runs to 101")
+  const chapter = heldAt("game-master", { noun: "chapter" })
+  expect(beatsRefused(["x".repeat(101)], chapter)).toContain("beat 1 runs to 101")
   expect(beatsRefused(["x".repeat(101)], heldAt("game-master"))).toContain("beat 1 runs to 101")
 })
 

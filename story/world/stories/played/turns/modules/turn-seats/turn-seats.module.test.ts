@@ -25,16 +25,6 @@ test("a notice reaches the game master, the world builder and the writer of its 
   ])
 })
 
-test("a notice of a story with editor steps reaches its beat editor and prose editor too", () => {
-  expect(noticedOf(MASTER, GAME, true)).toEqual([
-    MASTER,
-    "mari-world-builder-the-saga",
-    "mari-writer-the-saga",
-    "mari-beat-editor-the-saga",
-    "mari-prose-editor-the-saga",
-  ])
-})
-
 test("a game master spelling no persona is the only seat a notice reaches", () => {
   expect(noticedOf("a-seat", GAME)).toEqual(["a-seat"])
 })

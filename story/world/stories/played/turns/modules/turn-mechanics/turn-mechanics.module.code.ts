@@ -13,8 +13,6 @@ import {
 
 const MOST_LINES = 100
 
-const EDITED = 2
-
 const LONGEST_LINE = 100
 
 const PARTED = "/"
@@ -33,9 +31,8 @@ export type Mechanicked =
       readonly next: "mechanics" | "game-master" | "on"
     }
 
-function mostLines(noun: Noun, editorSteps: boolean | undefined = undefined): number | null {
-  if (noun !== CHAPTER) return null
-  return editorSteps === true ? MOST_LINES * EDITED : MOST_LINES
+function mostLines(noun: Noun): number | null {
+  return noun === CHAPTER ? MOST_LINES : null
 }
 
 function linesRefused(
@@ -61,7 +58,7 @@ export function issuesRefused(issues: readonly string[], noun: Noun): string | n
 
 export function beatsRefused(beats: readonly string[], held: Held): string | null {
   const noun = held.noun ?? TURN
-  return linesRefused("beat", beats, noun, mostLines(noun, held.editorSteps))
+  return linesRefused("beat", beats, noun, mostLines(noun))
 }
 
 export function mechanicked(

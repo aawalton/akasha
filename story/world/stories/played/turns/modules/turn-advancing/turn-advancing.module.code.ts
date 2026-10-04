@@ -1,6 +1,4 @@
-import { beatEditor as beatEditorRole } from "akasha/agent/role/pages/beat-editor.role.ts"
 import { gameMaster as gameMasterRole } from "akasha/agent/role/pages/game-master.role.ts"
-import { proseEditor as proseEditorRole } from "akasha/agent/role/pages/prose-editor.role.ts"
 import { reviewer as reviewerRole } from "akasha/agent/role/pages/reviewer.role.ts"
 import { storyRecorder as storyRecorderRole } from "akasha/agent/role/pages/story-recorder.role.ts"
 import { worldBuilder as worldBuilderRole } from "akasha/agent/role/pages/world-builder.role.ts"
@@ -19,10 +17,8 @@ import type {
   Admitted,
   Character,
 } from "akasha/story/world/stories/played/turns/modules/turn-cast/turn-cast.module.code.ts"
-import { editorAfter } from "akasha/story/world/stories/played/turns/modules/turn-editing/turn-editing.module.code.ts"
 import {
   type Advanced,
-  BEAT_EDITOR,
   type Caller,
   CHAPTER,
   GAME_MASTER,
@@ -67,10 +63,8 @@ type Kind = Handed["kind"]
 const ROLE_OF: Readonly<{ [step in TurnStep]: string | null }> = {
   "world-builder": worldBuilderRole.slug,
   "game-master": gameMasterRole.slug,
-  "beat-editor": beatEditorRole.slug,
   mechanics: storyRecorderRole.slug,
   writer: writerRole.slug,
-  "prose-editor": proseEditorRole.slug,
   reviewers: reviewerRole.slug,
   recorders: storyRecorderRole.slug,
   player: null,
@@ -79,10 +73,8 @@ const ROLE_OF: Readonly<{ [step in TurnStep]: string | null }> = {
 const TAKES: Readonly<{ [step in TurnStep]: Kind | null }> = {
   "world-builder": "lore",
   "game-master": "beats",
-  "beat-editor": "beats",
   mechanics: "record",
   writer: "prose",
-  "prose-editor": "prose",
   reviewers: "review",
   recorders: "record",
   player: null,
@@ -239,8 +231,9 @@ function fromBeats(
   scenes: readonly BeatScene[],
   staff: Staff
 ): Advanced {
-  const who = held.status === BEAT_EDITOR ? "beat editor" : "game master"
-  if (beats.length === 0) return { refused: `a ${who}'s advance hands in beats, and this has none` }
+  if (beats.length === 0) {
+    return { refused: "a game master's advance hands in beats, and this has none" }
+  }
   const wrong = beatsRefused(beats, held)
   if (wrong !== null) return { refused: wrong }
   const values = {
@@ -250,8 +243,6 @@ function fromBeats(
     ...(held.written ? { ownLength: 0 } : {}),
   }
   const moving = { planned: { beats, scenes } }
-  const editor = editorAfter(held)
-  if (editor !== null) return moved(editor, values, moving)
   if (staff.mechanics.length === 0) return moved(WRITER, values, moving)
   const starts = staff.mechanics.map((recorder): Start => ({ kind: "mechanics", recorder }))
   return moved(MECHANICS, values, { ...moving, starts })
@@ -299,11 +290,9 @@ function fromProse(
   cast: readonly Character[],
   admitted: Admitted
 ): Advanced {
-  const taken = proseTaken(held, handed.prose, handed.characters, cast, admitted)
+  const taken = proseTaken(handed.prose, handed.characters, cast, admitted)
   if ("refused" in taken) return taken
   const moving = { prose: taken.prose, proseRecords: handed.beatProse ?? null }
-  const editor = editorAfter(held)
-  if (editor !== null) return moved(editor, taken.values, moving)
   return afterProse(held, taken.values, staff, moving)
 }
 

@@ -20,10 +20,7 @@ export const turnReaching = {
       decisionKind: "decision-kind/departure",
       statement: "A notice reaches the game's game master, world builder and writer seats.",
     },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A notice of a story with editor steps reaches its editor seats as well.",
-    },
+
     {
       decisionKind: "decision-kind/departure",
       statement: "A recorder's advance moves the edits its seat kept beside the turn's page.",

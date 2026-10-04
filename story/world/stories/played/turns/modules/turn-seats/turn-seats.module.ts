@@ -16,10 +16,7 @@ export const turnSeats = {
       decisionKind: "decision-kind/departure",
       statement: "A notice of a turn reaches the game master, world builder and writer seats.",
     },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A notice of a story with editor steps reaches its two editor seats as well.",
-    },
+
     {
       decisionKind: "decision-kind/departure",
       statement: "A game master seat spelling no persona is the only seat a notice reaches.",

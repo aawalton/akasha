@@ -38,7 +38,6 @@ import {
 import { rootReading } from "akasha/command/pages/story/tell/story-tell.command.code.ts"
 import {
   breakIndexed,
-  editingOf,
   lengthRefused,
 } from "akasha/command/pages/story/turn/advance/modules/chapter-length/chapter-length.module.code.ts"
 import {
@@ -169,11 +168,10 @@ function untimedOn(reach: Reaching, root: string, read: Taken, held: Held, turn:
   return untimedRefused(reach.timeCheckOf(root, held.game), held.game, turn.slug, turn.value)
 }
 
-function unsizedOn(read: Taken, held: Held, turn: Turn, reach: Reach, root: string) {
+function unsizedOn(read: Taken, held: Held, root: string) {
   if (!read.chapter) return null
   const chapterBreak = read.handed.kind === "beats" ? breakIndexed(root, held.game) : null
-  const editing = editingOf(held, turn, (path) => reach.textIn(root, path))
-  return lengthRefused(read.handed, held.beats ?? 0, chapterBreak, editing)
+  return lengthRefused(read.handed, held.beats ?? 0, chapterBreak)
 }
 
 async function noticesOver(
@@ -225,9 +223,8 @@ async function heldOn(
   if ("refused" in beats) return refused(beats.refused, DATA)
   const { changes, memory } = beats
   const story = reach.storyOf(given.root, stated.game)
-  const edited = read.chapter && story?.editorSteps === true ? { editorSteps: true } : {}
   const switched = read.chapter && story?.proseOnBeats === true ? { proseOnBeats: true } : {}
-  const held = { ...stated, beats: beats.beats.length, changes, memory, ...edited, ...switched }
+  const held = { ...stated, beats: beats.beats.length, changes, memory, ...switched }
   const seat = reach.seatOf(given.root, given.agentId)
   const caller: Caller = seat ?? { role: null, game: null }
   const reviewers = reach.reviewersIn(given.root)
@@ -249,7 +246,7 @@ async function heldOn(
   const timedTurn = { ...turn, value: { ...turn.value, ...scened.values } }
   const untimed = untimedOn(reach, given.root, read, held, timedTurn)
   if (untimed !== null) return refused(untimed, DATA)
-  const unsized = unsizedOn(read, held, turn, reach, given.root)
+  const unsized = unsizedOn(read, held, given.root)
   if (unsized !== null) return refused(unsized, DATA)
   const recording = read.handed.kind === "record"
   const moved = recording ? reach.keep(given.root, given.agentId, turn.at) : []
