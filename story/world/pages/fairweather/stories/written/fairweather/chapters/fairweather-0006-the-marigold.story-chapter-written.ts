@@ -11,7 +11,7 @@ export const fairweather0006TheMarigold = {
   story: "story-written/fairweather",
   ownLength: 8863,
   prose: "txt",
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/reviewers",
   beats: "jsonl",
   issues: "txt",
   lore: [
@@ -40,6 +40,7 @@ export const fairweather0006TheMarigold = {
     "story-recorder/mechanics",
     "story-recorder/inventory",
     "story-recorder/picture",
+    "story-recorder/memory",
   ],
   rulings: "jsonl",
   scenes: [
