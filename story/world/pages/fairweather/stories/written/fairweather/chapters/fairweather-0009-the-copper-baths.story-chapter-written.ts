@@ -40,7 +40,12 @@ export const fairweather0009TheCopperBaths = {
     "character-other/fairweather-rosa",
   ],
   reviewedBy: ["story-reviewer/holdings"],
-  recordedBy: ["story-recorder/plan", "story-recorder/inventory", "story-recorder/mechanics"],
+  recordedBy: [
+    "story-recorder/plan",
+    "story-recorder/inventory",
+    "story-recorder/mechanics",
+    "story-recorder/picture",
+  ],
   rulings: "jsonl",
   scenes: [
     "image/image-23bfbec58a3f503c",
