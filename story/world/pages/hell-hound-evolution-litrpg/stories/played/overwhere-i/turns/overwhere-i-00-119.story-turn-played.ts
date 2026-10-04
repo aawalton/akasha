@@ -11,4 +11,5 @@ export const overwhereI00119 = {
   action:
     "“I was born in the wilds, no home, no lord, no papers. Would Wendlow be fine to claim? I’m tired of the questions.”",
   lore: ["lore/overwhere-i-odile-varne"],
+  endsAt: "2026-10-07T12:25:00.000Z",
 } as const satisfies StoryTurnPlayed
