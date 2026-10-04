@@ -229,5 +229,17 @@ export const fairweatherLanternmere = {
         "character-other/fairweather-tilly",
       ],
     },
+    {
+      fact: "Midsummer Lantern Night, on the twentieth, fills the Mere with lantern boats and fireworks.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The festival barge is moored out on the Mere, a rowing boat ride from the Lantern Steps.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The fireworks come from a maker on Powder Lane, packed in straw in crates marked do not drop.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Place
