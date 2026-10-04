@@ -34,5 +34,13 @@ export const fairweatherNell = {
         "character-other/fairweather-tamsin",
       ],
     },
+    {
+      fact: "Nell asked Elsie to keep Tamsin safe, and Elsie promised she would.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/fairweather-nell",
+        "character-player/fairweather-elsie",
+      ],
+    },
   ],
 } as const satisfies Lore

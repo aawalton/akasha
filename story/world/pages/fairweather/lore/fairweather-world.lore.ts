@@ -188,6 +188,16 @@ export const fairweatherWorld = {
         "character-other/fairweather-tilly",
       ],
     },
+    {
+      fact: "The Strings Accord does not forbid a Warden from living with her Enthraller's party.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/fairweather-cora",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-tamsin",
+        "character-other/fairweather-tilly",
+      ],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore

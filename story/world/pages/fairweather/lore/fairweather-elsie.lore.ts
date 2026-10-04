@@ -282,5 +282,14 @@ export const fairweatherElsie = {
         "character-other/fairweather-tilly",
       ],
     },
+    {
+      fact: "Elsie, Tamsin and Tilly shook on taking E-rank quests to save for the blue-door house.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-tamsin",
+        "character-other/fairweather-tilly",
+      ],
+    },
   ],
 } as const satisfies Lore

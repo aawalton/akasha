@@ -150,5 +150,21 @@ export const fairweatherGuildHall = {
         "character-player/fairweather-elsie",
       ],
     },
+    {
+      fact: "Tamsin copied E-rank notices: wolves on the north road, a barrow on the downs, bandits at a ford.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/fairweather-tamsin",
+        "character-player/fairweather-elsie",
+      ],
+    },
+    {
+      fact: "An E-rank notice tells of river trolls taking sheep under an old toll bridge.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/fairweather-tamsin",
+        "character-player/fairweather-elsie",
+      ],
+    },
   ],
 } as const satisfies Place

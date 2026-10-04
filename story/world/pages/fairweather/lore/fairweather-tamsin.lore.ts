@@ -260,5 +260,23 @@ export const fairweatherTamsin = {
         "character-player/fairweather-elsie",
       ],
     },
+    {
+      fact: "Tamsin wrote an answer to every one of Nell's unsent letters, and gave them to her.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/fairweather-tamsin",
+        "character-other/fairweather-nell",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-rosa",
+      ],
+    },
+    {
+      fact: "Tamsin fell asleep in Elsie's attic bed on the night of the eighth, and Elsie lay down beside her.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-tamsin",
+      ],
+    },
   ],
 } as const satisfies Lore

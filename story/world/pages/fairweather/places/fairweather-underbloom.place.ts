@@ -125,7 +125,13 @@ export const fairweatherUnderbloom = {
     },
     {
       fact: "Glowcaps are pale blue mushrooms that glow in the damp corners of the first floor.",
-      knowers: ["lore-disclosure/game-master", "character-other/fairweather-cora"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/fairweather-cora",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-tamsin",
+        "character-other/fairweather-tilly",
+      ],
     },
   ],
 } as const satisfies Place

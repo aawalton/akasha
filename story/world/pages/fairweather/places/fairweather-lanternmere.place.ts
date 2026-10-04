@@ -176,11 +176,58 @@ export const fairweatherLanternmere = {
     },
     {
       fact: "A dyer on Vat Street boils glowcaps into a blue that shines faintly in the dark.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-tamsin",
+        "character-other/fairweather-tilly",
+      ],
     },
     {
       fact: "A narrow canal house in Lanternmere lets for about two suns a month.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-tamsin",
+        "character-other/fairweather-tilly",
+      ],
+    },
+    {
+      fact: "A narrow three-storey house with a blue door and a wild garden is to let on Willow Canal.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-tamsin",
+        "character-other/fairweather-tilly",
+        "character-other/fairweather-cora",
+      ],
+    },
+    {
+      fact: "The blue-door house on Willow Canal is let through a letting agent on Coin Street.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/fairweather-tamsin",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-tilly",
+      ],
+    },
+    {
+      fact: "The blue-door house on Willow Canal needs a month in hand: four suns in gold to start.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-tamsin",
+        "character-other/fairweather-tilly",
+      ],
+    },
+    {
+      fact: "The Coin Street agent will let the blue-door house to whoever first brings four suns.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-tamsin",
+        "character-other/fairweather-tilly",
+      ],
     },
   ],
 } as const satisfies Place

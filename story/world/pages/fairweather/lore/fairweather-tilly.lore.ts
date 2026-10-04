@@ -169,6 +169,33 @@ export const fairweatherTilly = {
         "character-other/fairweather-tilly",
       ],
     },
+    {
+      fact: "Tilly has copper for a still saved under her bed, and her landlady forbids it in her room.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/fairweather-tilly",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-tamsin",
+      ],
+    },
+    {
+      fact: "Tilly burned the stranglevine off Tamsin in the Underbloom with a thrown fire vial.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/fairweather-tilly",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-cora",
+        "character-other/fairweather-tamsin",
+      ],
+    },
+    {
+      fact: "Elsie has promised Tilly the garden shed for a still and the room beside hers.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-tilly",
+      ],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
