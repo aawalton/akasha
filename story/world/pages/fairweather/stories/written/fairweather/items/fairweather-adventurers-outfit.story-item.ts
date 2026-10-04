@@ -7,7 +7,6 @@ export const fairweatherAdventurersOutfit = {
   title: "Novice Adventurer's Outfit",
   story: "story-written/fairweather",
   character: "character-player/fairweather-elsie",
-  slot: "item-slot/body",
   description:
     "A cropped cream halter top laced up the front, a short sage-green skirt, a brown leather belt with pouches, fingerless leather gloves and tall soft leather boots.",
 } as const satisfies StoryItem
