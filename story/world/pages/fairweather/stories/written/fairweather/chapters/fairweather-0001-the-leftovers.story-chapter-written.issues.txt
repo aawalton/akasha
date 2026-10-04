@@ -4,3 +4,12 @@ scene: "Elsie had given her the mint leaf an hour ago" - the mint was at 8:00 in
 scene: "Word came in an hour ago with the Hounds' breakfast" - beat 51 is 14:00, the Naming was 10:00
 scene: "the line was still waiting" on the steps - the whole line went in at nine in beat 10
 holdings: beat 83: Tamsin drinks a beer no beat buys; Elsie's lantern less 2 pips covers only the 2 suppers
+style: "the heaviest word she had ever had put over her head" - No Tropes
+style: "It seemed to her the plainest thing in the world." - No Tropes
+style: "let out a breath that Elsie had not known she was holding" - No Tropes
+style: "and was so happy she could have sung" - No Tropes
+style: "She meant it with her whole heart, every word." - No Tropes
+style: "and nobody moves" (beat 15) - Nobody Acts
+style: "looks as if nobody has asked her before" (beat 39) - Nobody Acts
+style: "the whole time and says nothing" (beat 44) - Plain Negation
+style: "the guild licenses no party into a dungeon" (beat 61) - Plain Negation

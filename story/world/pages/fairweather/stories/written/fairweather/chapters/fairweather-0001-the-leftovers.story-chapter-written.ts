@@ -11,7 +11,7 @@ export const fairweather0001TheLeftovers = {
   story: "story-written/fairweather",
   ownLength: 9285,
   prose: "txt",
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/game-master",
   beats: "jsonl",
   issues: "txt",
   lore: [
@@ -31,7 +31,6 @@ export const fairweather0001TheLeftovers = {
     "character-other/fairweather-tamsin",
     "character-other/fairweather-tilly",
   ],
-  reviewedBy: ["story-reviewer/continuity", "story-reviewer/scene", "story-reviewer/holdings"],
   recordedBy: [
     "story-recorder/inventory",
     "story-recorder/plan",
