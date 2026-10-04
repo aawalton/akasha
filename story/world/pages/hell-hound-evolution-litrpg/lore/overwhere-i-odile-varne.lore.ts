@@ -91,6 +91,10 @@ export const overwhereIOdileVarne = {
       fact: "She means to keep the letter in her own press and use it to bring Ivo to heel, not to try him.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Asked what the letter says, she says only that it touches the guild, and folds it away.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
