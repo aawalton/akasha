@@ -29,6 +29,11 @@ export const fairweather0003AGoatLantern = {
     "character-other/fairweather-tamsin",
     "character-other/fairweather-tilly",
   ],
-  recordedBy: ["story-recorder/plan", "story-recorder/inventory", "story-recorder/mechanics"],
+  recordedBy: [
+    "story-recorder/plan",
+    "story-recorder/inventory",
+    "story-recorder/mechanics",
+    "story-recorder/memory",
+  ],
   rulings: "jsonl",
 } as const satisfies StoryChapterWritten
