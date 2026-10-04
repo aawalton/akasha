@@ -1,0 +1,87 @@
+{"beat":1,"event":"Elsie wakes to the bread smell in the dark and dresses fast, to see the Marigold off.","at":"2026-06-08T04:50:00.000Z","place":"place/fairweather-honeycomb-attic","present":["character-player/fairweather-elsie"]}
+{"beat":2,"event":"She takes the slice of honey cake the baker brought last night, saved and wrapped in paper."}
+{"beat":3,"event":"At the Long Cut the Marigold has her fire lit, and Nell is coiling ropes on the roof.","at":"2026-06-08T05:20:00.000Z","place":"place/fairweather-long-cut-wharf","present":["character-player/fairweather-elsie","character-other/fairweather-tamsin","character-other/fairweather-nell","character-other/fairweather-rosa"]}
+{"beat":4,"event":"Tamsin comes off the plank with red eyes and a bundle of letters tied up under her arm."}
+{"beat":5,"event":"She says she wrote half the night: an answer to every one of Nell's."}
+{"beat":6,"event":"Elsie gives Rosa the saved slice of honey cake, and Rosa eats it on the spot."}
+{"beat":7,"event":"Rosa says that's the next cake paid for in advance, and kisses Elsie on both cheeks."}
+{"beat":8,"event":"Nell hugs Elsie and whispers to her to keep Tamsin safe."}
+{"beat":9,"event":"Elsie whispers back that she will, and that Tamsin keeps her safe too."}
+{"beat":10,"event":"Tamsin hands Nell the bundle of letters; Nell holds it to her chest and can't speak."}
+{"beat":11,"event":"Rosa tells Tamsin her bunk stays made up, and the Marigold is back next month."}
+{"beat":12,"event":"The lock's black gates swing open, and the Marigold goes through with Nell waving her kerchief.","at":"2026-06-08T05:45:00.000Z","leave":["character-other/fairweather-nell","character-other/fairweather-rosa"]}
+{"beat":13,"event":"Tamsin stands at the lock's edge until the barge is gone round the bend."}
+{"beat":14,"event":"Elsie takes her hand, and down the Tether the ache in Tamsin is a good one now."}
+{"beat":15,"event":"Tamsin says she'll be at the wharf for the Marigold's next tie-up, and every one after."}
+{"beat":16,"event":"They walk back along the canals as the mist lifts off the Mere.","at":"2026-06-08T06:15:00.000Z","place":"place/fairweather-lanternmere"}
+{"beat":17,"event":"On Willow Canal a narrow house has a card in its window: to let."}
+{"beat":18,"event":"Elsie stops dead: a blue door, window boxes, and a wild garden spilling over the wall."}
+{"beat":19,"event":"She presses her nose to the glass: a kitchen big enough for a long table and six chairs."}
+{"beat":20,"event":"Tamsin reads the card: apply to the letting agent on Coin Street."}
+{"beat":21,"event":"Elsie says it's what she meant at the Poppy: all of them under one roof."}
+{"beat":22,"event":"Tamsin looks at the house, then at her, and says they could never pay for it."}
+{"beat":23,"event":"Elsie says not yet, and writes the street in her notebook."}
+{"beat":24,"event":"At the guild hall Tilly waits by the board with soot on her nose.","at":"2026-06-08T07:30:00.000Z","place":"place/fairweather-guild-hall","present":["character-player/fairweather-elsie","character-other/fairweather-tamsin","character-other/fairweather-tilly"]}
+{"beat":25,"event":"Elsie tells her about the blue-doored house all in one breath, and Tilly lights up."}
+{"beat":26,"event":"Tilly asks if there'd be room for a still; Elsie says there's a whole shed in the garden."}
+{"beat":27,"event":"Cora comes out of the charcoal door with a dried lavender sprig still in her buttonhole.","at":"2026-06-08T07:45:00.000Z","arrive":["character-other/fairweather-cora"]}
+{"beat":28,"event":"Elsie sees the lavender and beams, and Cora looks very hard at the board."}
+{"beat":29,"event":"The glowcaps notice is still up on the F-rank board: glowcaps from the Underbloom for a dyer."}
+{"beat":30,"event":"Tilly goes white at the word Underbloom, then says she went down for the goat and can again."}
+{"beat":31,"event":"Elsie asks if she's sure; Tilly says yes, if Elsie holds her hand on the stair."}
+{"beat":32,"event":"The clerk enters the party for the glowcaps, and Cora writes it in her ledger."}
+{"beat":33,"event":"At the old flower market the clerk at the stair head logs them in, and Tamsin pays the licence.","at":"2026-06-08T08:30:00.000Z","place":"place/fairweather-underbloom"}
+{"beat":34,"event":"Elsie takes Tilly's hand at the top of the stair, and Tilly's fingers are ice cold."}
+{"beat":35,"event":"Elsie hums all the way down, and Tilly counts the steps out loud."}
+{"beat":36,"event":"The first floor's brick cellars glow with pale flowers, and Tilly breathes out at last.","at":"2026-06-08T09:00:00.000Z"}
+{"beat":37,"event":"Cora says glowcaps like the damp, and leads them along the drip-lines on the walls."}
+{"beat":38,"event":"A bloom beetle the size of a cat grazes by a wall, and Elsie wishes it good morning."}
+{"beat":39,"event":"In a dripping alcove they find glowcaps: pale blue mushrooms, glowing softly."}
+{"beat":40,"event":"Tilly lets go of Elsie's hand to pick them, chattering about dye."}
+{"beat":41,"event":"Elsie picks beside her, and Tilly's shoulder stays pressed to hers the whole time."}
+{"beat":42,"event":"Tamsin follows the drips down a side passage to look for more.","at":"2026-06-08T09:40:00.000Z"}
+{"beat":43,"event":"Stranglevine whips round Tamsin's legs and arms and hauls her off her feet."}
+{"beat":44,"event":"Tamsin roars and strains, and the vine pulls tighter."}
+{"beat":45,"event":"Elsie feels it at once down the Tether, a crushing round her own ribs."}
+{"beat":46,"event":"Elsie runs to her; Cora catches her arm and says the vine takes whoever brushes it."}
+{"beat":47,"event":"Tilly fumbles a flame vial, her hands shaking too hard to pull the stopper."}
+{"beat":48,"event":"Elsie takes Tilly's hands in hers a moment, and says she knows Tilly can."}
+{"beat":49,"event":"Tilly's hands go steady; she lights the vial and lays fire along the vine's root."}
+{"beat":50,"event":"The vine shrieks and lets go, and Tamsin drops into Elsie's arms."}
+{"beat":51,"event":"Tamsin laughs on the floor and says that's twice now Elsie has caught her."}
+{"beat":52,"event":"Elsie checks her over for bruises, ribs first, and Tamsin goes quiet under her hands."}
+{"beat":53,"event":"Cora writes in her ledger; Elsie asks if it's skills used, and Cora says it's Tilly."}
+{"beat":54,"event":"Tilly stares at her own steady hands as if they belong to somebody else."}
+{"beat":55,"event":"They fill the dyer's sack with glowcaps, and Tilly carries it like treasure.","at":"2026-06-08T10:30:00.000Z"}
+{"beat":56,"event":"They climb the stair into daylight, and the clerk logs them out.","at":"2026-06-08T11:00:00.000Z"}
+{"beat":57,"event":"On Vat Street the dyer has blue hands to the elbow, and boils glowcaps into a glowing blue.","at":"2026-06-08T11:30:00.000Z","place":"place/fairweather-lanternmere"}
+{"beat":58,"event":"She pays on the spot; Elsie, Tamsin and Tilly share it, and Elsie gives Tilly the odd pips."}
+{"beat":59,"event":"The dyer shows Elsie a bolt of the glowing blue cloth, and Elsie gasps."}
+{"beat":60,"event":"At the Tipsy Heron Elsie pays for four bowls of stew, Cora's too, and Cora lets her.","at":"2026-06-08T12:15:00.000Z"}
+{"beat":61,"event":"Elsie asks them all at once about the blue-doored house on Willow Canal."}
+{"beat":62,"event":"Tamsin says it'd cost more than all their purses; Tilly says she'd sleep in the shed."}
+{"beat":63,"event":"Elsie asks Cora if a Warden could live with her party; Cora says the Accord says nothing of it."}
+{"beat":64,"event":"Elsie asks if that means no; Cora says, after a long while, that it means it's allowed."}
+{"beat":65,"event":"Cora writes in her ledger, and Tilly cranes to see, and Cora shuts it."}
+{"beat":66,"event":"Cora says she has her report to write, and goes back across the canal to the hall.","at":"2026-06-08T13:30:00.000Z","leave":["character-other/fairweather-cora"]}
+{"beat":67,"event":"Elsie, Tamsin and Tilly go to Coin Street and ask the letting agent about the house.","at":"2026-06-08T14:00:00.000Z"}
+{"beat":68,"event":"The agent says two suns a month and a month in hand, and eyes Tamsin's axe."}
+{"beat":69,"event":"Tilly does sums on her fingers and says that's a great many glowcaps."}
+{"beat":70,"event":"Elsie asks him to keep it for them; he laughs, and says whoever comes with the coin first has it."}
+{"beat":71,"event":"Outside, Tamsin says they'll take bigger quests, and Elsie says yes, and Tilly says yes."}
+{"beat":72,"event":"They pile all three hands together in the street and shake on it."}
+{"beat":73,"event":"Tamsin goes back to the hall to read the E-rank notices.","at":"2026-06-08T14:45:00.000Z","leave":["character-other/fairweather-tamsin"]}
+{"beat":74,"event":"Tilly walks Elsie home and asks if she'd really give Tilly the shed."}
+{"beat":75,"event":"Elsie says the shed and the room beside hers, and Tilly trips on the kerb."}
+{"beat":76,"event":"At the Honeycomb door Tilly hugs her hard and runs off talking to herself.","at":"2026-06-08T15:30:00.000Z","leave":["character-other/fairweather-tilly"]}
+{"beat":77,"event":"In the attic Elsie draws the blue-doored house in her notebook, with a room for each of them.","at":"2026-06-08T16:00:00.000Z","place":"place/fairweather-honeycomb-attic","present":["character-player/fairweather-elsie"]}
+{"beat":78,"event":"She draws a room for Cora too, and looks at it a long time."}
+{"beat":79,"event":"She tells Sunny the lemon they might be moving, and that there's a garden."}
+{"beat":80,"event":"Down the Tether Tamsin is busy and loud, and then all at once fond.","at":"2026-06-08T19:00:00.000Z"}
+{"beat":81,"event":"The lamplighters' boats go by below the round window, lighting the canal lantern by lantern.","at":"2026-06-08T20:30:00.000Z"}
+{"beat":82,"event":"She writes her mother: I think I've found the place where I'll stay."}
+{"beat":83,"event":"A tap comes at the attic door, and it's Tamsin with a fistful of E-rank notices.","at":"2026-06-08T21:15:00.000Z","arrive":["character-other/fairweather-tamsin"]}
+{"beat":84,"event":"They read them lying side by side on Elsie's narrow bed."}
+{"beat":85,"event":"Tamsin falls asleep halfway through a notice about river trolls, her head on Elsie's pillow.","at":"2026-06-08T22:00:00.000Z"}
+{"beat":86,"event":"Elsie pulls the quilt over her and lies down beside her on what's left of the bed."}
+{"beat":87,"event":"Asleep, Tamsin finds Elsie's hand and holds on to it.","at":"2026-06-08T22:15:00.000Z"}
