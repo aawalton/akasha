@@ -37,7 +37,7 @@ export type Asking = {
   readonly intent: string
 }
 
-export type Saving = (asked: Asking) => Promise<void>
+type Saving = (asked: Asking) => Promise<void>
 
 async function overPages(asked: Asking): Promise<void> {
   await patchPage({
