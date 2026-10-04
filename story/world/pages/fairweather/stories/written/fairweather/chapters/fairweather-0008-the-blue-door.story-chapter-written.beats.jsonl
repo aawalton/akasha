@@ -61,7 +61,7 @@
 {"beat":61,"event":"Elsie asks them all at once about the blue-doored house on Willow Canal.","memory":[{"page":"place/fairweather-lanternmere","fact":"A narrow three-storey house with a blue door and a wild garden is to let on Willow Canal.","learns":"character-other/fairweather-cora"}]}
 {"beat":62,"event":"Tamsin says it'd cost more than all their purses; Tilly says she'd sleep in the shed."}
 {"beat":63,"event":"Elsie asks Cora if a Warden could live with her party; Cora says the Accord is silent on it."}
-{"beat":64,"event":"Elsie asks if that means no; Cora says, after a long while, that it means it's allowed."}
+{"beat":64,"event":"Elsie asks if that means no; Cora says, after a long while, that it means it's allowed.","changes":[{"page":"world-relationship/fairweather-elsie-cora","note":"Bond: Cora 18 → 20 (stand: Elsie asks her to live with the party)","key":"relationshipPoints","from":18,"to":20}]}
 {"beat":65,"event":"Cora writes in her ledger, and Tilly cranes to see, and Cora shuts it."}
 {"beat":66,"event":"Cora says she has her report to write, and goes back across the canal to the hall.","at":"2026-06-08T13:30:00.000Z","leave":["character-other/fairweather-cora"]}
 {"beat":67,"event":"Elsie, Tamsin and Tilly go to Coin Street and ask the letting agent about the house.","at":"2026-06-08T14:00:00.000Z"}
@@ -72,7 +72,7 @@
 {"beat":72,"event":"They pile all three hands together in the street and shake on it."}
 {"beat":73,"event":"Tamsin goes back to the hall to read the E-rank notices.","at":"2026-06-08T14:45:00.000Z","leave":["character-other/fairweather-tamsin"]}
 {"beat":74,"event":"Tilly walks Elsie home and asks if she'd really give Tilly the shed."}
-{"beat":75,"event":"Elsie says the shed and the room beside hers, and Tilly trips on the kerb."}
+{"beat":75,"event":"Elsie says the shed and the room beside hers, and Tilly trips on the kerb.","changes":[{"page":"world-relationship/fairweather-elsie-tilly","note":"Bond: Tilly 29 → 30 (stand: the shed and the room beside Elsie's; cut to cap)","key":"relationshipPoints","from":29,"to":30}]}
 {"beat":76,"event":"At the Honeycomb door Tilly hugs her hard and runs off talking to herself.","at":"2026-06-08T15:30:00.000Z","leave":["character-other/fairweather-tilly"]}
 {"beat":77,"event":"In the attic Elsie draws the blue-doored house in her notebook, with a room for each of them.","at":"2026-06-08T16:00:00.000Z","place":"place/fairweather-honeycomb-attic","present":["character-player/fairweather-elsie"]}
 {"beat":78,"event":"She draws a room for Cora too, and looks at it a long time."}
@@ -84,4 +84,4 @@
 {"beat":84,"event":"They read them lying side by side on Elsie's narrow bed."}
 {"beat":85,"event":"Tamsin falls asleep halfway through a notice about river trolls, her head on Elsie's pillow.","at":"2026-06-08T22:00:00.000Z"}
 {"beat":86,"event":"Elsie pulls the quilt over her and lies down beside her on what's left of the bed."}
-{"beat":87,"event":"Tamsin mumbles something about river trolls in her sleep, and Elsie laughs into the pillow.","at":"2026-06-08T22:15:00.000Z"}
+{"beat":87,"event":"Tamsin mumbles something about river trolls in her sleep, and Elsie laughs into the pillow.","at":"2026-06-08T22:15:00.000Z","changes":[{"page":"world-relationship/fairweather-elsie-tamsin","note":"Bond: Tamsin 42 → 43 (Tether: under it by her own wish at day's end)","key":"relationshipPoints","from":42,"to":43},{"page":"metric-character-experience/fairweather-elsie","note":"Experience logged","key":"history","append":{"turn":8,"value":130}},{"page":"metric-character-experience/fairweather-tamsin","note":"Experience logged","key":"history","append":{"turn":8,"value":220}},{"page":"metric-character-experience/fairweather-tilly","note":"Experience logged","key":"history","append":{"turn":8,"value":100}}]}
