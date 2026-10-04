@@ -31,7 +31,7 @@ export const fairweather0001TheLeftovers = {
     "character-other/fairweather-tamsin",
     "character-other/fairweather-tilly",
   ],
-  reviewedBy: ["story-reviewer/continuity", "story-reviewer/scene"],
+  reviewedBy: ["story-reviewer/continuity", "story-reviewer/scene", "story-reviewer/holdings"],
   recordedBy: [
     "story-recorder/inventory",
     "story-recorder/plan",
