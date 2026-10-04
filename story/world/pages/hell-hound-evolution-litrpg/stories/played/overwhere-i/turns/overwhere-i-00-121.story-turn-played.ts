@@ -28,7 +28,7 @@ export const overwhereI00121 = {
     "lore/overwhere-i-the-deserter-crew-3",
     "lore/overwhere-i-the-deserter-crew-4",
   ],
-  reviewedBy: ["story-reviewer/holdings", "story-reviewer/style"],
+  reviewedBy: ["story-reviewer/holdings", "story-reviewer/style", "story-reviewer/continuity"],
   recordedBy: [
     "story-recorder/inventory",
     "story-recorder/plan",
