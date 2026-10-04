@@ -255,5 +255,9 @@ export const overwhereINala2 = {
       fact: "Testing fire on it left a scorched brown border by the felted seam at Nala's tunic ribs.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
+    {
+      fact: "On day 9 Nala felted her cloak's chewed hem shut in three stiff, dark ridges.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+    },
   ],
 } as const satisfies Lore

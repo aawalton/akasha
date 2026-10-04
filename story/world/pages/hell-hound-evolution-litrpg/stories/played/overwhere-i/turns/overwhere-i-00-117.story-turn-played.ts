@@ -11,11 +11,10 @@ export const overwhereI00117 = {
   position: 117,
   prose: "txt",
   characters: ["character-player/overwhere-i-nala", "character-other/overwhere-i-harl-voss"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/player",
   action:
     "I spend the time I have before I need to leave using the weave i found to finish mending my cloak and clothes, then go to see the magistrate.",
   beats: "jsonl",
-  issues: "txt",
   lore: [
     "lore/overwhere-i-nala",
     "lore/overwhere-i-nala-2",
@@ -27,7 +26,12 @@ export const overwhereI00117 = {
     "lore/overwhere-i-wendlow-3",
     "place/overwhere-i-wendlow",
   ],
-  reviewedBy: ["story-reviewer/style", "story-reviewer/scene", "story-reviewer/holdings"],
+  reviewedBy: [
+    "story-reviewer/style",
+    "story-reviewer/scene",
+    "story-reviewer/holdings",
+    "story-reviewer/continuity",
+  ],
   recordedBy: [
     "story-recorder/inventory",
     "story-recorder/plan",

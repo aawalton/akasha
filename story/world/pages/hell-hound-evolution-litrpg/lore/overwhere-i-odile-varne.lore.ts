@@ -17,7 +17,7 @@ export const overwhereIOdileVarne = {
     },
     {
       fact: "She is thin and silver-haired, with ink-stained fingers and a grey velvet coat.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
     {
       fact: "She holds court in the town hall on the square and keeps the tax rolls for the villages.",
@@ -41,11 +41,31 @@ export const overwhereIOdileVarne = {
     },
     {
       fact: "Odile Varne holds her court in the Moot Hall, the town hall on the square.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
     {
       fact: "Her court sits at noon; the town clerk writes each name at the door and calls them in that order.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+    },
+    {
+      fact: "Odile Varne, Magistrate of Wendlow, sits in judgement for the margrave.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+    },
+    {
+      fact: "Grete Holm sent Odile Varne the letter the day it came off the quarry road, with no word.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-i-nala",
+        "lore/overwhere-i-odile-varne",
+      ],
+    },
+    {
+      fact: "Odile Varne says Harl Voss kept no company with the merchants' counting-house.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-i-nala",
+        "lore/overwhere-i-odile-varne",
+      ],
     },
   ],
   secrets: "jsonl",

@@ -90,7 +90,7 @@ export const overwhereIWendlow3 = {
     },
     {
       fact: "Odile Varne wants to learn whether Nala read Voss's letter, and who else she has told of it.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
     {
       fact: "Grete reads the magistrate's note, says only 'Mind your tongue up there,' and hands it over.",
@@ -182,15 +182,15 @@ export const overwhereIWendlow3 = {
     },
     {
       fact: "The Moot Hall stands on the square, a grey stone hall with its door up a broad flight of steps.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
     {
       fact: "Inside is one long room: a raised bench, the clerk's desk below it, and presses of tax rolls.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
     {
       fact: "Two watchmen keep the Moot Hall's door, and let a hunter in with her sword.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
   ],
 } as const satisfies Lore

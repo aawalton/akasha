@@ -22,7 +22,7 @@ export const overwhereIStarfallLegacy3 = {
     },
     {
       fact: "Alan's Earth-made clothes answer no Starfall weave; the grey shirt and black tights take no mend.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
   ],
 } as const satisfies Lore
