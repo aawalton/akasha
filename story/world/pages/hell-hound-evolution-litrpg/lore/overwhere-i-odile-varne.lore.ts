@@ -215,5 +215,9 @@ export const overwhereIOdileVarne = {
       fact: "She has written three times to the margrave for riders to clear the east road, and been refused.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "The oath: keep the margrave's peace, answer the bench's call against outlaws and beasts, speak true.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
