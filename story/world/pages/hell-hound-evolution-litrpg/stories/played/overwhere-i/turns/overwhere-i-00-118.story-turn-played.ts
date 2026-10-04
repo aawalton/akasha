@@ -16,7 +16,7 @@ export const overwhereI00118 = {
     "“Only you and Grete as far as I’m aware. I figured with the seal it must be something someone cared about, but it’s not something I can hunt, so I never bothered to look inside.”",
   beats: "jsonl",
   lore: ["lore/overwhere-i-nala", "lore/overwhere-i-nala-2", "lore/overwhere-i-odile-varne"],
-  reviewedBy: ["story-reviewer/holdings", "story-reviewer/continuity"],
+  reviewedBy: ["story-reviewer/holdings", "story-reviewer/continuity", "story-reviewer/scene"],
   recordedBy: [
     "story-recorder/inventory",
     "story-recorder/plan",
