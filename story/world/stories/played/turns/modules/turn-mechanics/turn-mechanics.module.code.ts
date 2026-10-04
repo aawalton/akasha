@@ -97,11 +97,16 @@ function appendedOver(held: BeatChange, more: BeatChange): boolean {
   return held.beat === more.beat && held.page === more.page && held.key === more.key
 }
 
+function setOver(held: BeatChange, more: BeatChange): boolean {
+  if (!("to" in held) || !("to" in more)) return false
+  return held.beat === more.beat && held.page === more.page && held.key === more.key
+}
+
 export function changesMerged(
   had: readonly BeatChange[],
   more: readonly BeatChange[]
 ): readonly BeatChange[] {
-  const kept = had.filter((one) => !more.some((two) => jsonEqual(one, two)))
+  const kept = had.filter((one) => !more.some((two) => jsonEqual(one, two) || setOver(one, two)))
   const added = more.filter((two) => !kept.some((one) => appendedOver(one, two)))
   return mergedOf(kept, added)
 }

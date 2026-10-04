@@ -36,6 +36,11 @@ export const turnMechanics = {
     {
       decisionKind: "decision-kind/departure",
       statement:
+        "A set handed in on a beat, page and key takes the place of the sets the turn holds there.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
         "An append on a beat, page and key the turn holds an append on already is passed over.",
     },
     {

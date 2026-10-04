@@ -84,6 +84,16 @@ test("a change handed in again just as the turn holds it is held once", () => {
   expect(changesMerged([GAIN], [GAIN])).toEqual([GAIN])
 })
 
+test("a set handed in again from a rewritten page takes the place of the set the turn holds there", () => {
+  const stale = { ...GAIN, page: "world-relationship/elsie-tamsin", from: 65, to: 75 }
+  const later = { ...stale, beat: 2, from: 75, to: 80 }
+  const rebased = { ...stale, from: 21, to: 23, note: "Elsie and Tamsin 21 → 23" }
+  const held = heldAt("mechanics", { beats: 2, changes: [stale, later] })
+  const again = { kind: "record", recorder: "mechanics", changes: [rebased] } as const
+  expect(doneOf(mechanicked(held, again, STEPPED)).changes).toEqual([rebased, later])
+  expect(changesMerged([stale, GAIN], [rebased])).toEqual([GAIN, rebased])
+})
+
 test("an append the turn holds on a beat is held once, whatever note or line it is handed again with", () => {
   const logged = {
     beat: 1,

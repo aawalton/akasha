@@ -239,6 +239,19 @@ test("a mechanics seat's changes are checked with the changes the turn holds alr
   expect(changesChecked(READING, heldAt("recorders"), handed)).toBeNull()
 })
 
+test("a change held from before its page was rewritten is settled again by a seat handing it in anew", () => {
+  const rewritten: Reading = {
+    ...READING,
+    valueOf: (_page, key) => (key === "value" ? 21 : undefined),
+  }
+  const held = heldAt("mechanics", { changes: [GAIN] })
+  const same = { kind: "record", recorder: "mechanics", changes: [GAIN] } as const
+  expect(changesChecked(rewritten, held, same)).toContain("was 120, and it is 21")
+  const rebased = { ...GAIN, from: 21, to: 61 }
+  const again = { kind: "record", recorder: "mechanics", changes: [rebased] } as const
+  expect(changesChecked(rewritten, held, again)).toBeNull()
+})
+
 test("the move to player names each page the changes leave, making a page filed new", () => {
   const made = { beat: 1, page: PURSE, make: { value: 5 }, note: "Elsie opens a purse" }
   const held = heldAt("recorders", { changes: [GAIN, made] })
