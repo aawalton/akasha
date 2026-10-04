@@ -159,6 +159,10 @@ export const overwhereIOdileVarne = {
       fact: "Weigh Words feels Nala's 'no home, no lord, no papers' believed, but 'born in the wilds' not.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Varne lets the false note pass unasked: a hunter hiding where she was born is one she can hold.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
