@@ -1,0 +1,89 @@
+{"beat":1,"event":"Elsie wakes before the bread smell, too nervous to sleep, under the round window.","at":"2026-06-01T05:10:00.000Z","place":"place/fairweather-honeycomb","present":["character-player/fairweather-elsie"]}
+{"beat":2,"event":"She tells Mrs Pennywhistle, Sunny, Doris and Captain that today is her Naming."}
+{"beat":3,"event":"She writes her weekly letter: Dear Mum, today I find out, and I hope it's healer, like you.","at":"2026-06-01T05:30:00.000Z"}
+{"beat":4,"event":"She laces the cream halter and the sage skirt, and pins the flower clip above one ear.","at":"2026-06-01T05:50:00.000Z"}
+{"beat":5,"event":"She packs the little satchel: salve, bandages, her notebook, the letter."}
+{"beat":6,"event":"Downstairs the baker presses a honey bun on her for luck and will not be paid for it.","at":"2026-06-01T06:15:00.000Z"}
+{"beat":7,"event":"Elsie posts the letter and walks the lakeshore road with the Mere misted white.","at":"2026-06-01T07:30:00.000Z","place":"place/fairweather-lanternmere","present":["character-player/fairweather-elsie"]}
+{"beat":8,"event":"A line of nervous twenty-year-olds waits on the white steps of the Hall of Naming.","at":"2026-06-01T08:00:00.000Z","place":"place/fairweather-hall-of-naming","present":["character-player/fairweather-elsie"]}
+{"beat":9,"event":"The girl ahead of her is shaking; Elsie gives her a mint leaf from Captain to chew."}
+{"beat":10,"event":"Inside under the glass dome, a priestess calls each name to a silver circle.","at":"2026-06-01T09:00:00.000Z"}
+{"beat":11,"event":"Windows open in the air above the circle: a Weaver, a Hearthkeeper, a Swordswoman."}
+{"beat":12,"event":"The girl with the mint leaf is named a Herbalist and cries, and Elsie claps hardest."}
+{"beat":13,"event":"Elsie's name is called; she steps alone into the silver circle and shuts her eyes.","at":"2026-06-01T10:00:00.000Z"}
+{"beat":14,"event":"She opens them, and the window above her reads Enthraller."}
+{"beat":15,"event":"The whole hall goes silent; somebody's breath catches, and nobody moves."}
+{"beat":16,"event":"She reads it twice over, to be sure she has the word right."}
+{"beat":17,"event":"In the gallery a woman in a good dark coat rises and walks out."}
+{"beat":18,"event":"Elsie says, Oh! That sounds like a lot of responsibility, and smiles at the priestess."}
+{"beat":19,"event":"The priestess's hands are shaking; Elsie tells her it's all right, she isn't cross."}
+{"beat":20,"event":"Outside, the Herbalist will not meet her eye, and the line parts to let Elsie by.","at":"2026-06-01T10:30:00.000Z"}
+{"beat":21,"event":"On the lake wall alone, Elsie wishes her own window open and reads it.","at":"2026-06-01T10:45:00.000Z","place":"place/fairweather-lanternmere","present":["character-player/fairweather-elsie"]}
+{"beat":22,"event":"Captivate and Tether; she says out loud, to nobody, that the names are awful."}
+{"beat":23,"event":"Her eyes fill; she wipes them on her glove and decides to register anyway."}
+{"beat":24,"event":"The guild hall on Brightwater Square is timber and noise under its copper roof.","at":"2026-06-01T11:30:00.000Z","place":"place/fairweather-guild-hall","present":["character-player/fairweather-elsie"]}
+{"beat":25,"event":"At registration she gives her name; the clerk asks her class, and she tells him."}
+{"beat":26,"event":"The clerk's pen stops mid-letter, and he goes up the stairs without a word."}
+{"beat":27,"event":"The guildmaster comes down, grey-haired, with a swordswoman's walk, and takes her up.","at":"2026-06-01T11:50:00.000Z"}
+{"beat":28,"event":"In the office upstairs the guildmaster reads her the Strings Accord, clause by clause.","at":"2026-06-01T12:00:00.000Z"}
+{"beat":29,"event":"An Enthraller is registered and watched by a Warden, who writes down every skill she uses."}
+{"beat":30,"event":"No skill on anyone who has not agreed to it, unless it saves a life."}
+{"beat":31,"event":"Elsie asks if she can still be a healer of sorts; the guildmaster says they'll find out."}
+{"beat":32,"event":"Elsie signs, pays the fee, and a copper tag is stamped with her name and an F.","at":"2026-06-01T12:30:00.000Z"}
+{"beat":33,"event":"The guildmaster walks her down to a charcoal-painted door off the main hall.","at":"2026-06-01T12:45:00.000Z"}
+{"beat":34,"event":"Inside, a young woman in a charcoal coat stands up with a black ledger.","arrive":["character-other/fairweather-cora"]}
+{"beat":35,"event":"She is Warden Corisande Vane, called Cora, and will write down every skill Elsie uses."}
+{"beat":36,"event":"Cora says she goes with Elsie on all guild business, dungeons included."}
+{"beat":37,"event":"Elsie thanks her for coming, as if Cora had chosen to."}
+{"beat":38,"event":"Cora has no answer to that; Elsie asks her what she likes in her tea."}
+{"beat":39,"event":"Cora says black, strong, one sugar, and looks as if nobody has asked her before."}
+{"beat":40,"event":"Elsie says she'll remember it."}
+{"beat":41,"event":"At the party board Elsie asks a slate with room; its leader sees the Warden and says no.","at":"2026-06-01T13:30:00.000Z"}
+{"beat":42,"event":"A second party says it is full, with a space chalked plainly under its names."}
+{"beat":43,"event":"A third simply turns its slate to the wall."}
+{"beat":44,"event":"Cora stands a step behind her the whole time and says nothing."}
+{"beat":45,"event":"In the Leftovers corner, a woman sits on the floor with a great axe across her knees.","at":"2026-06-01T14:00:00.000Z","arrive":["character-other/fairweather-tamsin"]}
+{"beat":46,"event":"She is rubbing her own name off a slate headed The Copper Hounds."}
+{"beat":47,"event":"Elsie sits down on the floor beside her and asks if she can help."}
+{"beat":48,"event":"Tamsin says she's a Berserker, and this morning she broke their shield-bearer's arm."}
+{"beat":49,"event":"She says it's the third party to drop her, and she doesn't remember doing any of it."}
+{"beat":50,"event":"Elsie says then she wants a healer standing behind her, and Tamsin laughs out loud."}
+{"beat":51,"event":"Tamsin says she heard about the Hall: you're the Enthraller. Elsie says yes."}
+{"beat":52,"event":"Tamsin says this corner is the Leftovers, she's Tamsin, and the axe is Margery."}
+{"beat":53,"event":"Elsie sees Tamsin's knuckle wraps have come loose, and rewraps them, slow and neat."}
+{"beat":54,"event":"Tamsin goes still and red to the ears, and lets her."}
+{"beat":55,"event":"A pop and a puff of green smoke at the corner; a small woman in goggles waves it off.","at":"2026-06-01T14:40:00.000Z","arrive":["character-other/fairweather-tilly"]}
+{"beat":56,"event":"She pins a notice at the Leftovers: Alchemist seeks party. Will not explode (mostly)."}
+{"beat":57,"event":"She is Ottilie Brandt, Tilly, thrown out of the Alchemists' College last week."}
+{"beat":58,"event":"She apologises three times before Elsie has asked her anything."}
+{"beat":59,"event":"Elsie asks what she makes; Tilly names a burn salve, a fizz, and something that smokes."}
+{"beat":60,"event":"Elsie says a burn salve is just what a healer wants, and Tilly drops her chalk."}
+{"beat":61,"event":"Tamsin says the guild licenses no party into a dungeon with fewer than three."}
+{"beat":62,"event":"Elsie looks from one to the other and says, then there are three of us.","at":"2026-06-01T15:00:00.000Z"}
+{"beat":63,"event":"On the last empty slate she chalks Elsie; Tamsin writes hers under, and Tilly hers last."}
+{"beat":64,"event":"Cora watches the chalk and the red ears, and does not open the ledger."}
+{"beat":65,"event":"Tilly asks, very fast, whether Elsie can make them feel things.","at":"2026-06-01T15:15:00.000Z"}
+{"beat":66,"event":"Elsie says she has never used her class on anyone, and does not mean to."}
+{"beat":67,"event":"Cora says flatly that it's true: there would be a line in the ledger, and there's none."}
+{"beat":68,"event":"At the F-rank notices they read: cellar rats, a lost goat in the Underbloom, moonbells.","at":"2026-06-01T15:30:00.000Z"}
+{"beat":69,"event":"Tamsin wants the goat, a real dungeon; Tilly goes white at the word."}
+{"beat":70,"event":"Elsie sees Tilly's hands go to her vials, and says she'd like the rats first."}
+{"beat":71,"event":"The rats are under the Crooked Kettle tea house; Elsie says a tea house is a good start."}
+{"beat":72,"event":"At the desk the clerk writes the party down for the cellar rats, tomorrow morning.","at":"2026-06-01T15:50:00.000Z"}
+{"beat":73,"event":"Cora says she'll be at the Crooked Kettle at eight, and stays with them till the hall shuts."}
+{"beat":74,"event":"They sit on the hall steps in the late sun while Tilly and Tamsin argue about rats.","at":"2026-06-01T16:30:00.000Z"}
+{"beat":75,"event":"Tamsin tells how she won Margery off a canal barge, and Elsie laughs till she cries.","at":"2026-06-01T17:00:00.000Z"}
+{"beat":76,"event":"At dusk the lamplighters' boats come up the canal and light the lanterns one by one.","at":"2026-06-01T19:30:00.000Z"}
+{"beat":77,"event":"Cora closes her ledger and says she goes off duty at the hall door.","at":"2026-06-01T19:40:00.000Z"}
+{"beat":78,"event":"Elsie asks what she'll write about today; Cora says she has not decided."}
+{"beat":79,"event":"Elsie says she'll try to give her something good to write, and Cora goes.","leave":["character-other/fairweather-cora"]}
+{"beat":80,"event":"At the Tipsy Heron across the canal, Elsie buys the other two their supper.","at":"2026-06-01T19:50:00.000Z","place":"place/fairweather-lanternmere","present":["character-player/fairweather-elsie","character-other/fairweather-tamsin","character-other/fairweather-tilly"]}
+{"beat":81,"event":"Stew and bread; Tilly talks with her mouth full, and Tamsin eats Tilly's crusts."}
+{"beat":82,"event":"Elsie says she loves them both already, and means it with her whole heart.","at":"2026-06-01T20:30:00.000Z"}
+{"beat":83,"event":"Tamsin chokes on her beer; Tilly goes pink to the ends of her braids."}
+{"beat":84,"event":"Elsie thinks that is what people look like when they're glad, and is glad too."}
+{"beat":85,"event":"They part at the bridge: Crooked Kettle, eight, says Tamsin; Tilly will bring the fizz.","at":"2026-06-01T21:15:00.000Z","leave":["character-other/fairweather-tamsin","character-other/fairweather-tilly"]}
+{"beat":86,"event":"Elsie walks home along Thimble Canal under the lanterns, humming without knowing it.","at":"2026-06-01T21:30:00.000Z"}
+{"beat":87,"event":"In the attic she writes in her notebook: Tamsin, Tilly, and Cora, black, strong, one sugar.","at":"2026-06-01T21:50:00.000Z","place":"place/fairweather-honeycomb","present":["character-player/fairweather-elsie"]}
+{"beat":88,"event":"She tells the plants she has a party now, and two friends, and a Warden."}
+{"beat":89,"event":"She falls asleep with the round window open and the notebook on her chest.","at":"2026-06-01T22:20:00.000Z"}
