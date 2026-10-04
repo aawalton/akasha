@@ -51,7 +51,7 @@ import {
   spliced,
   type Told,
   withoutSecrets,
-} from "akasha/command/pages/story/tell/modules/tell-continuing/tell-continuing.module.code.ts"
+} from "akasha/command/pages/story/modules/tell-continuing/tell-continuing.module.code.ts"
 import { storyTell as page } from "akasha/command/pages/story/tell/story-tell.command.ts"
 import { agentPathOf } from "akasha/domain/context/modules/warranting/warranting.module.code.ts"
 import {

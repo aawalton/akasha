@@ -6,7 +6,7 @@ import {
   fits,
   REMOVE_FILE,
   REPLACE,
-} from "akasha/command/pages/story/tell/modules/tell-continuing/tell-continuing.module.code.ts"
+} from "akasha/command/pages/story/modules/tell-continuing/tell-continuing.module.code.ts"
 import {
   askedFor,
   GAME_MASTER,

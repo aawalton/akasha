@@ -20,6 +20,7 @@ export const storyTurn = {
     "module/turn-ready-pushing",
     "module/turn-written",
     "command/story-turn-record",
+    "command/story-turn-picture",
     "namespace/story-turn-kept",
     "module/turn-undoing",
     "module/turn-commits",

@@ -7,7 +7,7 @@ export const storyTell = {
   definition: "the command making the game master, and any characters named, know one fact of lore",
   code: "ts",
   test: "ts",
-  parts: ["module/tell-continuing"],
+
   decisions: [
     {
       decisionKind: "decision-kind/departure",

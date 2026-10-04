@@ -70,6 +70,11 @@ export const chapterPanels = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "A chapter at any step reads its beats, so a draft shows each beat's prose and pictures.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "The panels are handed the chapter as the one turn they read, with its cover.",
     },
     {

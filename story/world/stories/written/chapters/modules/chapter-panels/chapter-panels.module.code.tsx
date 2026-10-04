@@ -183,7 +183,7 @@ export function ChapterPanels({ pageTypeSlug, id, children }: ChapterPanelsProps
   const [settled, onSettled] = useFirstRead()
   const { page } = usePage({ pageTypeSlug, id })
   const data = toPageDataJSON(page?.properties)
-  const href = beatsHrefOf(pageTypeSlug, chapterShownOf(id, data))
+  const href = beatsHrefOf(pageTypeSlug, { ...chapterShownOf(id, data), disclosed: true })
   const beatsText = useFileBody(href)
   const beats = beatsOf(beatsText)
   const ready = href === null || beatsText !== null
