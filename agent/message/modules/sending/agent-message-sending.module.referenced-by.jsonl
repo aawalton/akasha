@@ -10,6 +10,7 @@
 {"propertySlug":"import","fileName":"agent-message-sending.module.code.ts","path":"check/modules/audit-serving/audit-serving.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"agent-message-sending.module.code.ts","path":"command/pages/seat/send/seat-send.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"agent-message-sending.module.code.ts","path":"command/pages/seat/send/seat-send.command.test.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"agent-message-sending.module.code.ts","path":"command/pages/story/turn/modules/turn-job-handing/turn-job-handing.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"agent-message-sending.module.code.ts","path":"command/pages/story/turn/modules/turn-reaching/turn-reaching.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"agent-message-sending.module.code.ts","path":"infrastructure/cluster/manifest/modules/orphan-sweeping/orphan-sweeping.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"agent-message-sending.module.code.ts","path":"infrastructure/service/akasha-service/service-workstation/modules/service-watching/service-watching.module.code.ts","typed":false,"deferred":false}

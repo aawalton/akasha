@@ -14,7 +14,8 @@ export const turnReaching = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A reviewer or recorder seat starts headless, as Alan's, with no seat above it.",
+      statement:
+        "A reviewer or recorder seat is handed its job rather than started fresh each time.",
     },
     {
       decisionKind: "decision-kind/departure",

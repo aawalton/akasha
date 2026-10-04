@@ -22,6 +22,7 @@
 {"propertySlug":"import","fileName":"turn-lifecycle.module.code.ts","path":"command/pages/story/turn/cancel/story-turn-cancel.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"turn-lifecycle.module.code.ts","path":"command/pages/story/turn/cancel/story-turn-cancel.command.test-fixtures.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"turn-lifecycle.module.code.ts","path":"command/pages/story/turn/modules/turn-holding/turn-holding.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"turn-lifecycle.module.code.ts","path":"command/pages/story/turn/modules/turn-job-handing/turn-job-handing.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"turn-lifecycle.module.code.ts","path":"command/pages/story/turn/modules/turn-keeping/turn-keeping.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"turn-lifecycle.module.code.ts","path":"command/pages/story/turn/modules/turn-prompting/turn-prompting.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"turn-lifecycle.module.code.ts","path":"command/pages/story/turn/modules/turn-reaching/turn-reaching.module.code.ts","typed":false,"deferred":false}

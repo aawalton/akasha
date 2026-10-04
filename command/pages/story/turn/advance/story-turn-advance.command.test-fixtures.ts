@@ -12,11 +12,11 @@ import {
   type Timed,
   type Timing,
 } from "akasha/command/pages/story/turn/advance/story-turn-advance.command.code.ts"
+import type { Starting } from "akasha/command/pages/story/turn/modules/turn-job-handing/turn-job-handing.module.code.ts"
 import { loreLine } from "akasha/command/pages/story/turn/modules/turn-prompting/turn-prompting.module.code.ts"
 import type {
   Reach,
   Seated,
-  Starting,
   Turn,
 } from "akasha/command/pages/story/turn/modules/turn-reaching/turn-reaching.module.code.ts"
 import type { Naming } from "akasha/page/service/modules/page-composing/page-composing.module.code.ts"
@@ -177,7 +177,10 @@ export function reachOver(
     start: async (starting) => {
       into.starts.push(starting)
       const flex = starting.flex === null ? "" : `-${starting.flex}`
-      return `${starting.persona}-${starting.role}-${starting.game}${flex}`
+      return {
+        how: "started",
+        name: `${starting.persona}-${starting.role}-${starting.game}${flex}`,
+      }
     },
     stop: (_root, name) => {
       into.stops.push(name)

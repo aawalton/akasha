@@ -1,6 +1,7 @@
 import { reviewer as reviewerRole } from "akasha/agent/role/pages/reviewer.role.ts"
 import { storyRecorder as storyRecorderRole } from "akasha/agent/role/pages/story-recorder.role.ts"
 import { whyOf } from "akasha/command/modules/fault-saying/fault-saying.module.code.ts"
+import type { Starting } from "akasha/command/pages/story/turn/modules/turn-job-handing/turn-job-handing.module.code.ts"
 import {
   mechanicsPrompt,
   type Prompting,
@@ -11,7 +12,6 @@ import {
 } from "akasha/command/pages/story/turn/modules/turn-prompting/turn-prompting.module.code.ts"
 import type {
   Reach,
-  Starting,
   Story,
   Told,
 } from "akasha/command/pages/story/turn/modules/turn-reaching/turn-reaching.module.code.ts"
@@ -106,7 +106,8 @@ export async function seatsStarted(
       continue
     }
     try {
-      after.report.push(`started\t${await reach.start(starting, done)}`)
+      const handed = await reach.start(starting, done)
+      after.report.push(`${handed.how}\t${handed.name}`)
     } catch (thrown) {
       unstarted.push(`no ${starting.role} seat was started: ${whyOf(thrown)}`)
     }

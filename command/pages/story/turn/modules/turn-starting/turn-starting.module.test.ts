@@ -73,16 +73,17 @@ test("a seat that does not start is told to the game master and to Alan, once fo
   expect(after.report).toEqual([`told\t${MASTER}`, "told\tAlan"])
 })
 
-test("seats that all start tell nobody", async () => {
+test("seats that are up and are sent their jobs tell nobody, and the answer says each was sent", async () => {
   const alerts: string[] = []
   const after: Told = { report: [], faults: [] }
   const reach: Reach = {
     ...refusing(alerts),
-    start: async (starting) => `${starting.role}-${starting.flex ?? ""}`,
+    start: async (starting) => ({ how: "sent", name: `${starting.role}-${starting.flex ?? ""}` }),
   }
   await seatsStarted(reach, AT_REVIEWERS, STARTS, [], after)
   expect(alerts).toEqual([])
   expect(after.faults).toEqual([])
+  expect(after.report).toEqual(["sent\treviewer-flex-1", "sent\treviewer-flex-2"])
 })
 
 test("a telling that fails is named in the answer", async () => {

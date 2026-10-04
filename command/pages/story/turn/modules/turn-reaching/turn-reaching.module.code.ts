@@ -1,8 +1,6 @@
 import { existsSync, readFileSync } from "node:fs"
 import { basename, join } from "node:path"
 import { writeMessage } from "akasha/agent/message/modules/sending/agent-message-sending.module.code.ts"
-import { SEAT_MODE_HEADLESS } from "akasha/agent/seat/launching/modules/seat-modes/seat-modes.module.code.ts"
-import { startSeat } from "akasha/agent/seat/launching/modules/seat-start/seat-start.module.code.ts"
 import { akashaSeatPathForCaller } from "akasha/agent/seat/modules/akasha-beside/seat-akasha-beside.module.code.ts"
 import { akashaSeatsStated } from "akasha/agent/seat/modules/akasha-read/seat-akasha-read.module.code.ts"
 import {
@@ -21,6 +19,11 @@ import {
   settlingIndexed,
   turnsIndexed,
 } from "akasha/command/pages/story/settle/story-settle.command.code.ts"
+import {
+  type Handed,
+  jobHanded,
+  type Starting,
+} from "akasha/command/pages/story/turn/modules/turn-job-handing/turn-job-handing.module.code.ts"
 import {
   givenBack,
   heldForTurn,
@@ -66,7 +69,6 @@ import {
   putting,
   taking,
 } from "akasha/page/service/modules/page-putting/page-putting.module.code.ts"
-import { ACTION_BAR_PLAYER } from "akasha/story/engine/core/modules/action-bar-message/action-bar-message.module.code.ts"
 import { changedLoreOfSeat } from "akasha/story/lore-disclosure/modules/lore-rereading/lore-rereading.module.code.ts"
 import { storyRecorderInstructions } from "akasha/story/recorder/properties/story-recorder-instructions.file-property.ts"
 import { storyRecorder } from "akasha/story/recorder/story-recorder.page-type.ts"
@@ -141,14 +143,6 @@ export type Story = {
   readonly intent?: string | null
 }
 
-export type Starting = {
-  readonly persona: string
-  readonly role: string
-  readonly game: string
-  readonly flex: string | null
-  readonly prompt: string
-}
-
 export type Reach = {
   readonly hold: <T>(root: string, turn: string, act: () => Promise<T>) => Promise<T>
   readonly turnAt: (root: string, slug: string) => Turn | null
@@ -169,7 +163,7 @@ export type Reach = {
   readonly storyOf: (root: string, game: string) => Story | null
   readonly fold: (root: string, naming: Naming) => readonly Asking[] | { readonly refused: string }
   readonly textIn: (root: string, path: string) => string
-  readonly start: (starting: Starting, done: string[]) => Promise<string>
+  readonly start: (starting: Starting, done: string[]) => Promise<Handed>
   readonly stop: (root: string, seat: string) => undefined
   readonly notify: (to: string, body: string) => Promise<string | null>
   readonly alerted?: (title: string, body: string) => Promise<string | null>
@@ -311,23 +305,6 @@ function foldedOver(
   return [...puts.map(putting), ...folded.removes.map(taking)]
 }
 
-async function seatStarted(starting: Starting, done: string[]): Promise<string> {
-  const started = await startSeat(
-    {
-      startMode: SEAT_MODE_HEADLESS,
-      persona: starting.persona,
-      role: starting.role,
-      domain: starting.game,
-      principal: ACTION_BAR_PLAYER,
-      ...(starting.flex === null ? {} : { flex: starting.flex }),
-      prompt: starting.prompt,
-      parent: null,
-    },
-    done
-  )
-  return started.name
-}
-
 async function noticeSent(to: string, body: string): Promise<string | null> {
   const wrote = await writeMessage({
     to,
@@ -367,7 +344,7 @@ export const REACHED: Reach = {
   storyOf: storyIndexed,
   fold: foldedOver,
   textIn: (root, path) => readFileSync(join(root, path), "utf8"),
-  start: seatStarted,
+  start: jobHanded,
   stop: stoppedApart,
   notify: noticeSent,
   alerted: alanAlerted,

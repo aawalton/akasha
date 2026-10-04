@@ -46,6 +46,8 @@ const MANY: readonly TurnStep[] = [REVIEWERS, RECORDERS]
 
 export const STEP_SENDER = "story-step"
 
+export const JOB_SENDER = "story-job"
+
 export const LONGEST_ACTION = 4000
 
 const STEP_STATUS = stepStatus.slug

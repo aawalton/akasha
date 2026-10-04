@@ -90,7 +90,7 @@ export function reachOver(turn: Turn, into: Seen, latest = SLUG): Unwinding {
       into.folded.push(naming)
       return []
     },
-    start: async () => "",
+    start: async () => ({ how: "started", name: "" }),
     stop: (_root, name) => {
       into.stops.push(name)
       return undefined

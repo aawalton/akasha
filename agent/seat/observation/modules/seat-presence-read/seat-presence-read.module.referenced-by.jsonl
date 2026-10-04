@@ -32,4 +32,5 @@
 {"propertySlug":"import","fileName":"seat-presence-read.module.code.ts","path":"agent/subagent/modules/page/subagent-page.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"seat-presence-read.module.code.ts","path":"agent/subagent/modules/pages-sweeping/subagent-pages-sweeping.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"seat-presence-read.module.code.ts","path":"command/pages/model/gateway/start/modules/gateway-run/gateway-run.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"seat-presence-read.module.code.ts","path":"command/pages/story/turn/modules/turn-job-handing/turn-job-handing.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"agent/seat/observation/seat-observation.domain.ts","id":"01a0658d-c92f-76f2-abb0-efb387b6515b"}

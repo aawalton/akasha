@@ -24,6 +24,7 @@ export const storyTurn = {
     "module/turn-undoing",
     "module/turn-commits",
     "module/turn-holding",
+    "module/turn-job-handing",
   ],
   name: "turn",
 } as const satisfies Namespace

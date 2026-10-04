@@ -2459,6 +2459,7 @@
 {"propertySlug":"decision-kind","path":"command/pages/story/turn/kept/list/story-turn-kept-list.command.ts","id":"01a0ea39-db29-78af-a3aa-0999fd2a6dde"}
 {"propertySlug":"decision-kind","path":"command/pages/story/turn/modules/turn-commits/turn-commits.module.ts","id":"01a0eb3a-ee7b-7f63-b2b3-11c384af2550"}
 {"propertySlug":"decision-kind","path":"command/pages/story/turn/modules/turn-holding/turn-holding.module.ts","id":"01a10262-bbed-7358-b397-4bb8a771e1a0"}
+{"propertySlug":"decision-kind","path":"command/pages/story/turn/modules/turn-job-handing/turn-job-handing.module.ts","id":"01a1044a-7e52-7bd0-aa5c-665df122e31a"}
 {"propertySlug":"decision-kind","path":"command/pages/story/turn/modules/turn-keeping/turn-keeping.module.ts","id":"01a0e3fa-914f-7ad2-99b7-5d6767c07638"}
 {"propertySlug":"decision-kind","path":"command/pages/story/turn/modules/turn-lore-gathered/turn-lore-gathered.module.ts","id":"01a0eae2-98f7-7a1b-b24e-978d3edace1e"}
 {"propertySlug":"decision-kind","path":"command/pages/story/turn/modules/turn-lore-in-play/turn-lore-in-play.module.ts","id":"01a0e96b-42b5-75aa-a0e0-23dc5a700c05"}

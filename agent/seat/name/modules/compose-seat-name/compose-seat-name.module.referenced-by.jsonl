@@ -19,4 +19,5 @@
 {"propertySlug":"import","fileName":"compose-seat-name.module.code.ts","path":"agent/seat/reviving/modules/seat-reset/seat-reset.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"compose-seat-name.module.code.ts","path":"code/shell/terminal/modules/terminal-seat-launchers/terminal-seat-launchers.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"compose-seat-name.module.code.ts","path":"code/shell/terminal/modules/terminal-seat-launchers/terminal-seat-launchers.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"compose-seat-name.module.code.ts","path":"command/pages/story/turn/modules/turn-job-handing/turn-job-handing.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"agent/seat/name/seat-name.domain.ts","id":"01a09c43-0bf5-7991-a2dc-650268201505"}
