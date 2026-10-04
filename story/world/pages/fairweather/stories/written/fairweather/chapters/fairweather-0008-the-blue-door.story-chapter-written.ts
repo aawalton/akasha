@@ -9,9 +9,9 @@ export const fairweather0008TheBlueDoor = {
   unit: "unit/words",
   title: "The Blue Door",
   story: "story-written/fairweather",
-  ownLength: 9718,
+  ownLength: 9717,
   prose: "txt",
-  stepStatus: "step-status/writer",
+  stepStatus: "step-status/recorders",
   beats: "jsonl",
   issues: "txt",
   lore: [
