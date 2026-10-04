@@ -11,7 +11,7 @@
 {"beat":11,"event":"Rosa tells Tamsin her bunk stays made up, and the Marigold is back in a fortnight."}
 {"beat":12,"event":"The lock's black gates swing open, and the Marigold goes through with Nell waving her kerchief.","at":"2026-06-08T05:45:00.000Z","leave":["character-other/fairweather-nell","character-other/fairweather-rosa"]}
 {"beat":13,"event":"Tamsin stands at the lock's edge until the barge is gone round the bend."}
-{"beat":14,"event":"Elsie takes her hand, and down the Tether the ache in Tamsin is a good one now."}
+{"beat":14,"event":"Elsie takes her hand, and down the Tether the ache in Tamsin is a good one now.","changes":[{"page":"world-relationship/fairweather-elsie-tamsin","note":"Bond: Tamsin 37 → 38 (kindness: Elsie takes her hand at the lock)","key":"relationshipPoints","from":37,"to":38}]}
 {"beat":15,"event":"Tamsin says she'll be at the wharf for the Marigold's next tie-up, and every one after."}
 {"beat":16,"event":"They walk back along the canals as the mist lifts off the Mere.","at":"2026-06-08T06:15:00.000Z","place":"place/fairweather-lanternmere"}
 {"beat":17,"event":"On Willow Canal a narrow house has a card in its window: to let."}
@@ -20,9 +20,9 @@
 {"beat":20,"event":"Tamsin reads the card: apply to the letting agent on Coin Street."}
 {"beat":21,"event":"Elsie says it's what she meant at the Poppy: all of them under one roof."}
 {"beat":22,"event":"Tamsin looks at the house, then at her, and says they could never pay for it."}
-{"beat":23,"event":"Elsie says not yet, and writes the street in her notebook."}
+{"beat":23,"event":"Elsie says not yet, and writes the street in her notebook.","changes":[{"page":"world-relationship/fairweather-elsie-tamsin","note":"Bond: Tamsin 38 → 39 (kindness: Elsie takes her hand on Willow Canal)","key":"relationshipPoints","from":38,"to":39}]}
 {"beat":24,"event":"At the guild hall Tilly waits by the board with soot on her nose.","at":"2026-06-08T07:30:00.000Z","place":"place/fairweather-guild-hall","present":["character-player/fairweather-elsie","character-other/fairweather-tamsin","character-other/fairweather-tilly"]}
-{"beat":25,"event":"Elsie tells her about the blue-doored house all in one breath, and Tilly lights up."}
+{"beat":25,"event":"Elsie tells her about the blue-doored house all in one breath, and Tilly lights up.","changes":[{"page":"world-relationship/fairweather-elsie-tilly","note":"Bond: Tilly 25 → 26 (kindness: Elsie catches her hands, telling of the house)","key":"relationshipPoints","from":25,"to":26}]}
 {"beat":26,"event":"Tilly asks if there'd be room for a still; Elsie says there's a whole shed in the garden."}
 {"beat":27,"event":"Cora comes out of the charcoal door with a dried lavender sprig still in her buttonhole.","at":"2026-06-08T07:45:00.000Z","arrive":["character-other/fairweather-cora"]}
 {"beat":28,"event":"Elsie sees the lavender and beams, and Cora looks very hard at the board."}
@@ -46,8 +46,8 @@
 {"beat":46,"event":"Elsie runs to her; Cora catches her arm and says the vine takes whoever brushes it."}
 {"beat":47,"event":"Tilly fumbles a flame vial, her hands shaking too hard to pull the stopper."}
 {"beat":48,"event":"Elsie takes Tilly's hands in hers a moment, and says she knows Tilly can."}
-{"beat":49,"event":"Tilly's hands go steady; she lights the vial and lays fire along the vine's root."}
-{"beat":50,"event":"The vine shrieks and lets go, and Tamsin drops into Elsie's arms."}
+{"beat":49,"event":"Tilly's hands go steady; she lights the vial and lays fire along the vine's root.","changes":[{"page":"world-relationship/fairweather-elsie-tilly","note":"Bond: Tilly 26 → 29 (danger shared: Elsie steadies her hands through the fear)","key":"relationshipPoints","from":26,"to":29}]}
+{"beat":50,"event":"The vine shrieks and lets go, and Tamsin drops into Elsie's arms.","changes":[{"page":"world-relationship/fairweather-elsie-tamsin","note":"Bond: Tamsin 39 → 42 (danger shared: the stranglevine; day's cap of 5 reached)","key":"relationshipPoints","from":39,"to":42},{"page":"world-relationship/fairweather-elsie-cora","note":"Bond: Cora 15 → 18 (danger shared: holds Elsie back from the vine)","key":"relationshipPoints","from":15,"to":18}]}
 {"beat":51,"event":"Tamsin laughs on the floor and says that's twice now Elsie has caught her."}
 {"beat":52,"event":"Elsie checks her over for bruises, ribs first, and Tamsin goes quiet under her hands."}
 {"beat":53,"event":"Cora writes in her ledger; Elsie asks if it's skills used, and Cora says it's Tilly."}
@@ -55,13 +55,13 @@
 {"beat":55,"event":"They fill the dyer's sack with glowcaps, and Tilly carries it like treasure.","at":"2026-06-08T10:30:00.000Z"}
 {"beat":56,"event":"They climb the stair into daylight, and the clerk logs them out.","at":"2026-06-08T11:00:00.000Z"}
 {"beat":57,"event":"On Vat Street the dyer has blue hands to the elbow, and boils glowcaps into a glowing blue.","at":"2026-06-08T11:30:00.000Z","place":"place/fairweather-lanternmere"}
-{"beat":58,"event":"She pays on the spot; Elsie, Tamsin and Tilly share it, and Elsie gives Tilly the odd pips.","changes":[{"page":"metric-character-currency/fairweather-elsie","note":"Her share of the dyer's four-lantern glowcaps pay: 13 pips, 117 → 130","key":"value","from":117,"to":130},{"page":"metric-character-currency/fairweather-tamsin","note":"Tamsin's share of the glowcaps pay: 13 pips, 101 → 114","key":"value","from":101,"to":114},{"page":"metric-character-currency/fairweather-tilly","note":"Tilly's share, 13 pips plus the odd pip Elsie gives her: 110 → 124","key":"value","from":110,"to":124}]}
+{"beat":58,"event":"She pays on the spot; Elsie, Tamsin and Tilly share it, and Elsie gives Tilly the odd pips.","changes":[{"page":"metric-character-currency/fairweather-elsie","note":"Her share of the dyer's four-lantern glowcaps pay: 13 pips, 117 → 130","key":"value","from":117,"to":130},{"page":"metric-character-currency/fairweather-tamsin","note":"Tamsin's share of the glowcaps pay: 13 pips, 101 → 114","key":"value","from":101,"to":114},{"page":"metric-character-currency/fairweather-tilly","note":"Tilly's share, 13 pips plus the odd pip Elsie gives her: 110 → 124","key":"value","from":110,"to":124},{"page":"metric-character-experience/fairweather-elsie","note":"Elsie gains 40 XP for the Underbloom glowcaps, vine fought (90 → 130 / 150)","key":"value","from":90,"to":130},{"page":"metric-character-experience/fairweather-tamsin","note":"Tamsin gains 40 XP for the Underbloom glowcaps, vine fought (180 → 220)","key":"value","from":180,"to":220},{"page":"metric-character-experience/fairweather-tilly","note":"Tilly gains 40 XP for the Underbloom glowcaps, vine burnt (60 → 100 / 230)","key":"value","from":60,"to":100}]}
 {"beat":59,"event":"The dyer shows Elsie a bolt of the glowing blue cloth, and Elsie gasps."}
 {"beat":60,"event":"At the Tipsy Heron Elsie pays for four bowls of stew, Cora's too, and Cora lets her.","at":"2026-06-08T12:15:00.000Z","changes":[{"page":"metric-character-currency/fairweather-elsie","note":"Four bowls of stew at the Tipsy Heron, Cora's too: 16 pips, 130 → 114","key":"value","from":130,"to":114},{"page":"metric-character-currency/fairweather-elsie","note":"Elsie ends the chapter with 114 pips: 11 lanterns, 4 pips","key":"history","append":{"turn":8,"value":114}},{"page":"metric-character-currency/fairweather-tamsin","note":"Tamsin ends the chapter with 114 pips","key":"history","append":{"turn":8,"value":114}},{"page":"metric-character-currency/fairweather-tilly","note":"Tilly ends the chapter with 124 pips","key":"history","append":{"turn":8,"value":124}}]}
 {"beat":61,"event":"Elsie asks them all at once about the blue-doored house on Willow Canal."}
 {"beat":62,"event":"Tamsin says it'd cost more than all their purses; Tilly says she'd sleep in the shed."}
 {"beat":63,"event":"Elsie asks Cora if a Warden could live with her party; Cora says the Accord says nothing of it."}
-{"beat":64,"event":"Elsie asks if that means no; Cora says, after a long while, that it means it's allowed."}
+{"beat":64,"event":"Elsie asks if that means no; Cora says, after a long while, that it means it's allowed.","changes":[{"page":"world-relationship/fairweather-elsie-cora","note":"Bond: Cora 18 → 20 (stand: Elsie asks her to live with the party)","key":"relationshipPoints","from":18,"to":20}]}
 {"beat":65,"event":"Cora writes in her ledger, and Tilly cranes to see, and Cora shuts it."}
 {"beat":66,"event":"Cora says she has her report to write, and goes back across the canal to the hall.","at":"2026-06-08T13:30:00.000Z","leave":["character-other/fairweather-cora"]}
 {"beat":67,"event":"Elsie, Tamsin and Tilly go to Coin Street and ask the letting agent about the house.","at":"2026-06-08T14:00:00.000Z"}
@@ -72,7 +72,7 @@
 {"beat":72,"event":"They pile all three hands together in the street and shake on it."}
 {"beat":73,"event":"Tamsin goes back to the hall to read the E-rank notices.","at":"2026-06-08T14:45:00.000Z","leave":["character-other/fairweather-tamsin"]}
 {"beat":74,"event":"Tilly walks Elsie home and asks if she'd really give Tilly the shed."}
-{"beat":75,"event":"Elsie says the shed and the room beside hers, and Tilly trips on the kerb."}
+{"beat":75,"event":"Elsie says the shed and the room beside hers, and Tilly trips on the kerb.","changes":[{"page":"world-relationship/fairweather-elsie-tilly","note":"Bond: Tilly 29 → 30 (stand: the shed and the room beside Elsie's; cut to cap)","key":"relationshipPoints","from":29,"to":30}]}
 {"beat":76,"event":"At the Honeycomb door Tilly hugs her hard and runs off talking to herself.","at":"2026-06-08T15:30:00.000Z","leave":["character-other/fairweather-tilly"]}
 {"beat":77,"event":"In the attic Elsie draws the blue-doored house in her notebook, with a room for each of them.","at":"2026-06-08T16:00:00.000Z","place":"place/fairweather-honeycomb-attic","present":["character-player/fairweather-elsie"]}
 {"beat":78,"event":"She draws a room for Cora too, and looks at it a long time."}
@@ -84,4 +84,4 @@
 {"beat":84,"event":"They read them lying side by side on Elsie's narrow bed."}
 {"beat":85,"event":"Tamsin falls asleep halfway through a notice about river trolls, her head on Elsie's pillow.","at":"2026-06-08T22:00:00.000Z"}
 {"beat":86,"event":"Elsie pulls the quilt over her and lies down beside her on what's left of the bed."}
-{"beat":87,"event":"Tamsin mumbles something about river trolls in her sleep, and Elsie laughs into the pillow.","at":"2026-06-08T22:15:00.000Z"}
+{"beat":87,"event":"Tamsin mumbles something about river trolls in her sleep, and Elsie laughs into the pillow.","at":"2026-06-08T22:15:00.000Z","changes":[{"page":"world-relationship/fairweather-elsie-tamsin","note":"Bond: Tamsin 42 → 43 (Tether: under it by her own wish at day's end)","key":"relationshipPoints","from":42,"to":43},{"page":"metric-character-experience/fairweather-elsie","note":"Experience logged","key":"history","append":{"turn":8,"value":130}},{"page":"metric-character-experience/fairweather-tamsin","note":"Experience logged","key":"history","append":{"turn":8,"value":220}},{"page":"metric-character-experience/fairweather-tilly","note":"Experience logged","key":"history","append":{"turn":8,"value":100}}]}
