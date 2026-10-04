@@ -4,6 +4,7 @@ export const image871e26f2035efc9d = {
   id: "01a1065e-07cd-7e1b-8f5c-64af164ffff3",
   type: "page-type/image",
   slug: "image-871e26f2035efc9d",
+  grade: "F",
   service: "image-edit-qwen",
   operation: "edit",
   model: "qwen-image-edit-2511-lightning+beyond-reality-3",
