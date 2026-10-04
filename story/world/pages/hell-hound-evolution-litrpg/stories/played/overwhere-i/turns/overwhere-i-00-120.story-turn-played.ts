@@ -11,4 +11,5 @@ export const overwhereI00120 = {
   action:
     "“I don’t mind killing things when paid, but what else is in this oath? I value my freedom.”",
   lore: ["lore/overwhere-i-odile-varne"],
+  endsAt: "2026-10-07T12:30:00.000Z",
 } as const satisfies StoryTurnPlayed
