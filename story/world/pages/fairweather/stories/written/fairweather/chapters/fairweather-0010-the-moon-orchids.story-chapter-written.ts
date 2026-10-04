@@ -11,7 +11,7 @@ export const fairweather0010TheMoonOrchids = {
   story: "story-written/fairweather",
   ownLength: 10524,
   prose: "txt",
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/game-master",
   beats: "jsonl",
   issues: "txt",
   lore: [
@@ -38,7 +38,7 @@ export const fairweather0010TheMoonOrchids = {
     "character-other/fairweather-tilly",
     "character-other/fairweather-cora",
   ],
-  reviewedBy: ["story-reviewer/scene", "story-reviewer/holdings", "story-reviewer/continuity"],
+  reviewedBy: ["story-reviewer/holdings", "story-reviewer/style"],
   recordedBy: [
     "story-recorder/plan",
     "story-recorder/inventory",
