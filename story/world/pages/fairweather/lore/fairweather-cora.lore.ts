@@ -96,18 +96,6 @@ export const fairweatherCora = {
       fact: "Cora has walked the Glasswood on Wardens' patrols, and knows its edge well.",
       knowers: ["lore-disclosure/game-master", "character-other/fairweather-cora"],
     },
-    {
-      fact: "Cora is the Warden who goes with Elsie and writes down every skill she uses.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/fairweather-elsie",
-        "character-other/fairweather-cora",
-      ],
-    },
-    {
-      fact: "Cora has not decided what to write in her ledger about Elsie.",
-      knowers: ["lore-disclosure/game-master", "character-player/fairweather-elsie"],
-    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
