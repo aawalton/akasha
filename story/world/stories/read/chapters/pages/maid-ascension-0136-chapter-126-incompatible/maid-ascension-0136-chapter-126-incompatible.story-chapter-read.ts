@@ -4,6 +4,7 @@ export const maidAscension0136Chapter126Incompatible = {
   id: "01a10360-6f73-78d6-a910-5906442b288e",
   type: "page-type/story-chapter-read",
   slug: "maid-ascension-0136-chapter-126-incompatible",
+  ownProgress: 2357,
   position: 136,
   publishedAt: "2026-10-03",
   unit: "unit/words",
