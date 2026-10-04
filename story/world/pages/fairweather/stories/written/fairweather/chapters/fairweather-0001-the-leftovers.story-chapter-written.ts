@@ -47,7 +47,7 @@ export const fairweather0001TheLeftovers = {
   ],
   scenes: [
     "image/image-8e2c80d9912e356a",
-    "image/image-89d728238c72106a",
+    "image/image-ce73d127fc1f4c19",
     "image/image-ef2997585d764fd2",
     "image/image-1d46258ab2130fd1",
     "image/image-9ddb9993f884ae83",
