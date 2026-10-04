@@ -168,23 +168,47 @@ export const fairweatherGuildHall = {
     },
     {
       fact: "A party may take only notices at or below the rank of its lowest-ranked member.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/fairweather-tamsin",
+        "character-player/fairweather-elsie",
+      ],
     },
     {
       fact: "The guild raises an F-rank adventurer to E-rank once she has done ten notices well.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/fairweather-tamsin",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-tilly",
+      ],
     },
     {
       fact: "From the ninth the F-rank board has: eels in the cistern under the Copper Baths, four lanterns.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/fairweather-tamsin",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-tilly",
+      ],
     },
     {
       fact: "From the ninth the F-rank board has: a night watch on a glasshouse of moon orchids, 3 lanterns.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/fairweather-tamsin",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-tilly",
+      ],
     },
     {
       fact: "From the ninth the F-rank board has: fireworks to the festival barge on the Mere, four lanterns.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/fairweather-tamsin",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-tilly",
+      ],
     },
   ],
 } as const satisfies Place

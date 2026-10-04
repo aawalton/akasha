@@ -30,6 +30,8 @@ export const fairweatherCora = {
         "lore-disclosure/game-master",
         "character-other/fairweather-cora",
         "character-player/fairweather-elsie",
+        "character-other/fairweather-tamsin",
+        "character-other/fairweather-tilly",
       ],
     },
     {
@@ -159,6 +161,34 @@ export const fairweatherCora = {
         "lore-disclosure/game-master",
         "character-other/fairweather-cora",
         "character-player/fairweather-elsie",
+      ],
+    },
+    {
+      fact: "In the Copper Baths cistern Cora put her arm between Elsie and a Mere eel, and was bitten.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-tamsin",
+        "character-other/fairweather-tilly",
+        "character-other/fairweather-cora",
+      ],
+    },
+    {
+      fact: "Elsie cleaned, bandaged and kissed the eel bite on Cora's forearm.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-cora",
+      ],
+    },
+    {
+      fact: "Let down, Cora's straight black hair falls to her waist.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-tamsin",
+        "character-other/fairweather-tilly",
+        "character-other/fairweather-cora",
       ],
     },
   ],

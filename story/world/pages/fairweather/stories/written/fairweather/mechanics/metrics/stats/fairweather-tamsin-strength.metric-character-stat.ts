@@ -6,7 +6,7 @@ export const fairweatherTamsinStrength = {
   slug: "fairweather-tamsin-strength",
   title: "Strength",
   character: "character-other/fairweather-tamsin",
-  value: 21,
+  value: 31,
   minValue: 0,
   displayOrder: 1,
 } as const satisfies MetricCharacterStat

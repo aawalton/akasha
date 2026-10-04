@@ -5,7 +5,7 @@ export const fairweatherElsie = {
   type: "page-type/metric-character-level",
   slug: "fairweather-elsie",
   character: "character-player/fairweather-elsie",
-  value: 2,
+  value: 3,
   minValue: 1,
   history: "jsonl",
   unrevealed: false,

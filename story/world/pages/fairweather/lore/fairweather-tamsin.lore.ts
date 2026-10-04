@@ -278,5 +278,13 @@ export const fairweatherTamsin = {
         "character-other/fairweather-tamsin",
       ],
     },
+    {
+      fact: "Tamsin snores like a little kettle in her sleep, and talks to trolls.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-tamsin",
+      ],
+    },
   ],
 } as const satisfies Lore

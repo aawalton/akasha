@@ -11,9 +11,8 @@ export const fairweather0009TheCopperBaths = {
   story: "story-written/fairweather",
   ownLength: 10351,
   prose: "txt",
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/player",
   beats: "jsonl",
-  issues: "txt",
   lore: [
     "lore/fairweather-cora",
     "lore/fairweather-elsie",
@@ -39,7 +38,12 @@ export const fairweather0009TheCopperBaths = {
     "character-other/fairweather-nell",
     "character-other/fairweather-rosa",
   ],
-  reviewedBy: ["story-reviewer/holdings", "story-reviewer/scene", "story-reviewer/continuity"],
+  reviewedBy: [
+    "story-reviewer/holdings",
+    "story-reviewer/scene",
+    "story-reviewer/continuity",
+    "story-reviewer/style",
+  ],
   recordedBy: [
     "story-recorder/plan",
     "story-recorder/inventory",
@@ -47,7 +51,6 @@ export const fairweather0009TheCopperBaths = {
     "story-recorder/picture",
     "story-recorder/memory",
   ],
-  rulings: "jsonl",
   scenes: [
     "image/image-23bfbec58a3f503c",
     "image/image-9b9e60a4d5c4660e",

@@ -29,6 +29,7 @@
 {"propertySlug":"lore-knowers","path":"story/world/pages/fairweather/lore/fairweather-tamsin.lore.ts","id":"01a102af-305b-752b-8db1-4beab20b8a77"}
 {"propertySlug":"lore-knowers","path":"story/world/pages/fairweather/lore/fairweather-tilly.lore.ts","id":"01a102af-305b-72c4-9abd-15bcc7901682"}
 {"propertySlug":"lore-knowers","path":"story/world/pages/fairweather/lore/fairweather-world.lore.ts","id":"01a102af-305b-7afc-9635-334e3585d3b1"}
+{"propertySlug":"lore-knowers","path":"story/world/pages/fairweather/places/fairweather-copper-baths.place.ts","id":"01a10791-f599-7c59-b8d3-1e3b8ffe6227"}
 {"propertySlug":"lore-knowers","path":"story/world/pages/fairweather/places/fairweather-crooked-kettle.place.ts","id":"01a1047b-913a-7001-9580-5671e7b1311d"}
 {"propertySlug":"lore-knowers","path":"story/world/pages/fairweather/places/fairweather-glasswood.place.ts","id":"01a10323-0b9e-7e44-8623-a25fb7f91e5b"}
 {"propertySlug":"lore-knowers","path":"story/world/pages/fairweather/places/fairweather-guild-hall.place.ts","id":"01a102af-305b-7db6-bb17-c8e7a115ede2"}
@@ -49,5 +50,6 @@
 {"propertySlug":"metric-of-character","path":"story/world/pages/fairweather/stories/written/fairweather/mechanics/metrics/stats/fairweather-elsie-wits.metric-character-stat.ts","id":"01a106ec-13a4-7fc2-ad83-3e2851f84b84"}
 {"propertySlug":"rank-character","path":"story/world/pages/fairweather/stories/written/fairweather/mechanics/ranks-held/fairweather-elsie-rank-f.character-rank.ts","id":"01a10364-ec0b-7f10-8ccf-ddb3cc5172a3"}
 {"propertySlug":"skill-character","path":"story/world/pages/fairweather/stories/written/fairweather/mechanics/skills-held/fairweather-elsie-captivate.character-skill.ts","id":"01a10364-98f2-79e6-b20b-051ea6a8c90a"}
+{"propertySlug":"skill-character","path":"story/world/pages/fairweather/stories/written/fairweather/mechanics/skills-held/fairweather-elsie-devotion.character-skill.ts","id":"01a107b3-963f-76e7-8e65-f3ca4cd71950"}
 {"propertySlug":"skill-character","path":"story/world/pages/fairweather/stories/written/fairweather/mechanics/skills-held/fairweather-elsie-hold.character-skill.ts","id":"01a1062d-8782-72ab-a7c7-ac9cac9eec2e"}
 {"propertySlug":"skill-character","path":"story/world/pages/fairweather/stories/written/fairweather/mechanics/skills-held/fairweather-elsie-tether.character-skill.ts","id":"01a10364-98f2-7d20-976b-d18a15a86647"}

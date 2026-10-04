@@ -291,5 +291,26 @@ export const fairweatherElsie = {
         "character-other/fairweather-tilly",
       ],
     },
+    {
+      fact: "Elsie's mother taught her a kiss on a bandaged hurt tells it it's been seen to.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-cora",
+      ],
+    },
+    {
+      fact: "Elsie reached level 3 at the Copper Baths and gained the passive Enthraller skill Devotion.",
+      knowers: ["lore-disclosure/game-master", "character-player/fairweather-elsie"],
+    },
+    {
+      fact: "With the Copper Baths eels Elsie's party has done seven notices, three short of E-rank.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-tamsin",
+        "character-other/fairweather-tilly",
+      ],
+    },
   ],
 } as const satisfies Lore
