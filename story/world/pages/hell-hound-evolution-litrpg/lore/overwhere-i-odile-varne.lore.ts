@@ -211,6 +211,9 @@ export const overwhereIOdileVarne = {
         "lore/overwhere-i-odile-varne",
       ],
     },
+    {
+      fact: "She has written three times to the margrave for riders to clear the east road, and been refused.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
-  secrets: "jsonl",
 } as const satisfies Lore
