@@ -11,7 +11,7 @@ export const fairweather0002SkillsUsedNone = {
   story: "story-written/fairweather",
   ownLength: 8132,
   prose: "txt",
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/reviewers",
   beats: "jsonl",
   issues: "txt",
   lore: [
@@ -37,6 +37,7 @@ export const fairweather0002SkillsUsedNone = {
     "story-recorder/plan",
     "story-recorder/mechanics",
     "story-recorder/memory",
+    "story-recorder/picture",
   ],
   rulings: "jsonl",
   scenes: [
