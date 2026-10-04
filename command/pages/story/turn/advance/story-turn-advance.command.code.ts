@@ -340,10 +340,6 @@ async function heldOn(
     await noticesOver(reach, given.root, at, said.status, after, crossed)
   }
   await seatsStarted(reach, at, said.starts, done, after)
-  if (said.stopsCaller && seat !== null) {
-    reach.stop(given.root, seat.name)
-    after.report.push(`stopping\t${seat.name}`)
-  }
   if (after.faults.length === 0) return told(after.report)
   return answeredWith(after.report, after.faults, OPERATIONAL)
 }

@@ -225,17 +225,17 @@ function fromReviewer(
     ...(issues.length > 0 ? { issues: PROSE_HELD } : cleared ? { issues: undefined } : {}),
   }
   const rewritten = found.length > 0 || rest.length !== held.issues.length
-  const stopping = { stopsCaller: true, issues: rewritten && issues.length > 0 ? issues : null }
+  const moving = { issues: rewritten && issues.length > 0 ? issues : null }
   if (!reviewers.every((one) => reviewedBy.includes(one))) {
-    return moved(REVIEWERS, values, stopping)
+    return moved(REVIEWERS, values, moving)
   }
   if (issues.length > 0) {
     const raisers = issues.flatMap((one) => raiserOf(one, reviewers) ?? [])
     const kept = namedAs(STORY_REVIEWER, leftOf(reviewedBy, raisers))
-    return moved(GAME_MASTER, { ...values, reviewedBy: kept }, stopping)
+    return moved(GAME_MASTER, { ...values, reviewedBy: kept }, moving)
   }
-  if (!held.written) return moved(WRITER, values, stopping)
-  return toRecorders(values, leftOf(staff.recorders, held.recordedBy), stopping)
+  if (!held.written) return moved(WRITER, values, moving)
+  return toRecorders(values, leftOf(staff.recorders, held.recordedBy), moving)
 }
 
 function fromProse(
@@ -254,7 +254,7 @@ function fromProse(
 function fromMechanics(held: Held, handed: Recorded, staff: Staff): Advanced {
   const done = mechanicked(held, handed, staff.mechanics)
   if ("refused" in done) return done
-  const moving = { stopsCaller: true, changes: done.changes, mechanicsIssues: done.issues }
+  const moving = { changes: done.changes, mechanicsIssues: done.issues }
   if (done.next === "mechanics") return moved(MECHANICS, done.values, moving)
   if (done.next === "game-master") return moved(GAME_MASTER, done.values, moving)
   if (!held.written || held.issues.length > 0) return moved(WRITER, done.values, moving)
@@ -291,7 +291,7 @@ function fromRecorder(held: Held, handed: Recorded, staff: Staff): Advanced {
   const recordedBy = [...held.recordedBy, recorder]
   const values = { recordedBy: recordedBy.map((one) => `${STORY_RECORDER}${PARTED}${one}`) }
   const pictured = (handed.pictured ?? []).length === 0 ? null : (handed.pictured ?? null)
-  const landing = { stopsCaller: true, landsKept: true, memory: memory.memory, pictured }
+  const landing = { landsKept: true, memory: memory.memory, pictured }
   if (!staff.recorders.every((one) => recordedBy.includes(one))) {
     return moved(RECORDERS, values, landing)
   }

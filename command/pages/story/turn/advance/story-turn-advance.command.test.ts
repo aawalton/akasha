@@ -75,7 +75,7 @@ test("the lore in play is gathered from the turn, its game and the step's values
   expect(asked).toEqual([["lore/grace"]])
 })
 
-test("the last reviewer's clean review starts the recorders and stops the reviewer's seat", async () => {
+test("the last reviewer's clean review starts the recorders, and the reviewer's seat runs on", async () => {
   const into = seen()
   const turn = turnAt("reviewers", { reviewedBy: ["story-reviewer/voice"], prose: "txt" })
   const reviewer = "mari-reviewer-the-saga-flex-1"
@@ -91,7 +91,7 @@ test("the last reviewer's clean review starts the recorders and stops the review
     ["story-recorder", "flex-1"],
   ])
   expect(into.notices).toEqual(toldAll("recorders"))
-  expect(into.stops).toEqual([reviewer])
+  expect(into.stops).toEqual([])
   expect(into.pushes).toEqual([])
 })
 
@@ -107,10 +107,10 @@ test("the last reviewer's issues send the turn back to the game master, starting
   expect(into.folded[0]?.values["stepStatus"]).toBe(`${stepStatus.slug}/game-master`)
   expect(into.starts).toEqual([])
   expect(into.notices[0]).toContain("back for repair")
-  expect(into.stops).toEqual([reviewer])
+  expect(into.stops).toEqual([])
 })
 
-test("a reviewer that is not the last lands its issues, tells nobody and stops its seat", async () => {
+test("a reviewer that is not the last lands its issues, tells nobody, and its seat runs on", async () => {
   const into = seen()
   const reviewer = "mari-reviewer-the-saga-flex-2"
   const answer = await advancedBy(
@@ -127,7 +127,7 @@ test("a reviewer that is not the last lands its issues, tells nobody and stops i
   })
   expect(into.folded[0]?.bodies).toEqual({ issues: 'voice: "opens" - it was locked\n' })
   expect(into.notices).toEqual([])
-  expect(into.stops).toEqual([reviewer])
+  expect(into.stops).toEqual([])
 })
 
 test("two reviewers advancing at once each land on what the other landed, so the turn moves on", async () => {
@@ -143,7 +143,7 @@ test("two reviewers advancing at once each land on what the other landed, so the
 
 const WRITTEN = ["--prose-file", join(ROOT, "prose.txt"), "--character", "character-player/mara"]
 
-test("the writer's first prose lands beside the turn and starts one fresh seat for each reviewer", async () => {
+test("the writer's first prose lands beside the turn and hands each reviewer's seat its job", async () => {
   const into = seen()
   const answer = await advancedBy(
     WRITTEN,
@@ -193,7 +193,7 @@ test("with no story recorder the writer's prose on a reviewed turn goes to the p
   expect(into.stops).toEqual([])
 })
 
-test("the writer's rewrite skips the reviewers, moving the turn to the recorders with one fresh seat for each", async () => {
+test("the writer's rewrite skips the reviewers, moving the turn to the recorders and handing each its job", async () => {
   const into = seen()
   const reviewed = { reviewedBy: REVIEWED, prose: "txt" }
   const answer = await advancedBy(
@@ -237,7 +237,7 @@ test("each recorder lands only its own edits, so nothing kept waits for a later 
   expect(answer.refusals).toEqual([])
   expect(into.landings).toEqual([first, second])
   expect(kept.store).toEqual([])
-  expect(into.stops).toEqual([RECORDER_SEAT, RECORDER_SEAT])
+  expect(into.stops).toEqual([])
 })
 
 test("the last recorder lands its drafted edits with the move to player in one landing", async () => {
@@ -257,7 +257,7 @@ test("the last recorder lands its drafted edits with the move to player in one l
   expect(into.landings).toEqual([DRAFTED])
   expect(into.releases).toEqual([AT])
   expect(into.notices).toEqual(toldAll("player"))
-  expect(into.stops).toEqual([RECORDER_SEAT])
+  expect(into.stops).toEqual([])
   expect(into.pushes).toEqual([`the-saga ${AT}`])
 })
 

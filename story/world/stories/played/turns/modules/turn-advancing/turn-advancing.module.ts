@@ -102,11 +102,8 @@ export const turnAdvancing = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A reviewer's and a recorder's seats are stopped once each advances.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "The writer's seat outlives its advance, as the game master's does.",
+      statement:
+        "Every seat outlives its advance, a reviewer's and a recorder's as the writer's does.",
     },
     {
       decisionKind: "decision-kind/departure",

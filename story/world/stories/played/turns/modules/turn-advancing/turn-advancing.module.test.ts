@@ -32,7 +32,6 @@ test("the world builder hands in the lore it landed and the turn goes to the gam
   expect(said.status).toBe("game-master")
   expect(said.values).toEqual({ stepStatus: at("game-master"), lore: ["lore/a-hall"] })
   expect(said.starts).toEqual([])
-  expect(said.stopsCaller).toBe(false)
   expect(said.landsKept).toBe(false)
 })
 
@@ -52,14 +51,13 @@ test("the world builder may hand in no lore", () => {
   expect(said.values).toEqual({ stepStatus: at("game-master") })
 })
 
-test("the game master's beats go to the writer, starting no seat and stopping none", () => {
+test("the game master's beats go to the writer, starting no seat", () => {
   const beats = ["Mara opens the gate", "The hall is dark"]
   const said = movedOf(advanced(heldAt("game-master"), MASTER, { kind: "beats", beats }, TWO))
   expect(said.status).toBe("writer")
   expect(said.values).toEqual({ stepStatus: at("writer"), beats: "jsonl" })
   expect(said.planned).toEqual({ beats, scenes: [] })
   expect(said.starts).toEqual([])
-  expect(said.stopsCaller).toBe(false)
 })
 
 test("a game master's mend after review goes to the writer too", () => {
@@ -77,11 +75,7 @@ test("a reviewer not the last adds itself and its issues, leaving the turn with 
     reviewedBy: [by(VOICE)],
     issues: "txt",
   })
-  expect([said.starts, said.stopsCaller, said.issues]).toEqual([
-    [],
-    true,
-    [`${VOICE}: ${found.issues[0]}`],
-  ])
+  expect([said.starts, said.issues]).toEqual([[], [`${VOICE}: ${found.issues[0]}`]])
 })
 
 test("the last reviewer sends a turn with issues back to the game master", () => {
@@ -94,14 +88,14 @@ test("the last reviewer sends a turn with issues back to the game master", () =>
     reviewedBy: [by(continuity.slug)],
     issues: "txt",
   })
-  expect([said.issues, said.stopsCaller]).toEqual([null, true])
+  expect(said.issues).toBeNull()
 })
 
 test("a clean review of a turn its recorders never ran on starts them", () => {
   const held = heldAt("reviewers", { reviewedBy: [VOICE], written: true })
   const found = { kind: "review", reviewer: continuity.slug, issues: [] } as const
   const said = movedOf(advanced(held, REVIEWER, found, TWO))
-  expect([said.status, said.starts.length, said.stopsCaller]).toEqual(["recorders", 2, true])
+  expect([said.status, said.starts.length]).toEqual(["recorders", 2])
 })
 
 test("with no story recorder the last clean reviewer sends the turn to the player", () => {
@@ -146,7 +140,6 @@ test("with no recorder to run, the writer's prose moves the turn to the reviewer
     { kind: "reviewer", reviewer: continuity.slug },
     { kind: "reviewer", reviewer: VOICE },
   ])
-  expect(said.stopsCaller).toBe(false)
   expect(said.landsKept).toBe(false)
 })
 
@@ -181,7 +174,6 @@ test("a recorder that is not the last names itself, keeps the turn with the reco
   expect(said.status).toBe("recorders")
   expect(said.values).toEqual({ stepStatus: at("recorders"), recordedBy: [recordedBy(CAST)] })
   expect(said.starts).toEqual([])
-  expect(said.stopsCaller).toBe(true)
   expect(said.landsKept).toBe(true)
 })
 
@@ -201,7 +193,6 @@ test("the last recorder of a reviewed turn moves it to the player, landing its o
     stepStatus: at("player"),
     recordedBy: [recordedBy(CAST), recordedBy(memory.slug)],
   })
-  expect(said.stopsCaller).toBe(true)
   expect(said.landsKept).toBe(true)
 })
 

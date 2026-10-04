@@ -76,7 +76,6 @@ function movedOf(more: Partial<Moved>): Moved {
     changes: null,
     memory: null,
     starts: [],
-    stopsCaller: false,
     landsKept: false,
     ...more,
   }

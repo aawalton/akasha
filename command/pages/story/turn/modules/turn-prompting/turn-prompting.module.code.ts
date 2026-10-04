@@ -81,8 +81,12 @@ function stuckSaid(master: string | null | undefined): readonly string[] {
 const DRAFTING = "akasha change apply --draft"
 
 const ENDING =
-  "The advance ends this seat, so make it last. Never end this turn in words: words naming the next read do not read it, " +
+  "The advance ends this job, not this seat: once it lands, wait for your next job. Never end this job in words: words naming the next read do not read it, " +
   "and this seat then sits idle while the turn waits on it. Every output of yours is a tool call until the advance has landed."
+
+function freshLine(noun: string): string {
+  return `This seat may have done jobs before this one, and none of them is this job. Read your instructions, the ${noun} and whatever beats, prose and issues files sit beside it afresh with \`akasha read --file-path <path> --full\`, never from what you remember of an earlier job.`
+}
 
 function advancing(asked: Prompting): string {
   const said = asked.noun === CHAPTER ? writtenChapter.said : playedTurn.said
@@ -121,6 +125,8 @@ export function reviewerPrompt(asked: Prompting, reviewer: Reviewer): string {
       `Your own earlier issues are the lines opening \`${reviewer.slug}: \`: check whether the mend answered each, and hand in again each one it left and any new fault the mend made.`
     ),
     "",
+    freshLine(noun),
+    "",
     `Read your instructions, then the ${noun} and its prose, and do what the instructions say. When you are done, write the issues you found to a file, one issue to a line, and advance the ${noun} once:`,
     "",
     `${advancing(asked)} ${reviewerArgument.said} ${reviewer.slug} ${issuesFile.said} ${PATH}`,
@@ -141,6 +147,8 @@ export function mechanicsPrompt(asked: Prompting, recorder: Recorder): string {
     mechanicsIssuesLine(noun),
     ...repairsSaid(asked, noun, KEPT_LINE),
     "",
+    freshLine(noun),
+    "",
     `Read your instructions, then the ${noun} and its beats, and do what the instructions say. Draft no edit: write your changes to a file, one json change to a line, and each beat that cannot work to an issues file, one issue to a line. Then advance the ${noun} once:`,
     "",
     `${advancing(asked)} ${recorderArgument.said} ${recorder.slug} ${changesFile.said} ${PATH} ${issuesFile.said} ${PATH}`,
@@ -160,6 +168,8 @@ export function recorderPrompt(asked: Prompting, recorder: Recorder): string {
     "",
     mechanicsIssuesLine(noun),
     ...repairsSaid(asked, noun, KEPT_LINE),
+    "",
+    freshLine(noun),
     "",
     `Read your instructions, then the ${noun} and its prose, and do what the instructions say. Draft your edits with \`${DRAFTING}\`, never land them: your advance lands them with your move. When your edits are drafted, advance the ${noun} once:`,
     "",

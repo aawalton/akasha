@@ -46,7 +46,7 @@ export const storyTurnAdvance = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A turn moving into reviewers starts one fresh seat for each story reviewer.",
+      statement: "A turn moving into reviewers hands its job to the seat of each story reviewer.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -54,11 +54,13 @@ export const storyTurnAdvance = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A turn moving into recorders starts a fresh seat for each recorder run there.",
+      statement:
+        "A turn moving into recorders hands its job to the seat of each recorder run there.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A turn moving into mechanics starts a fresh seat for each recorder run there.",
+      statement:
+        "A turn moving into mechanics hands its job to the seat of each recorder run there.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -105,19 +107,20 @@ export const storyTurnAdvance = {
 
     {
       decisionKind: "decision-kind/departure",
-      statement: "A reviewer's or a recorder's seat is stopped once its advance lands.",
+      statement:
+        "A reviewer's or a recorder's seat outlives its advance, on call for its next job.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The stop runs apart from the seat, so ending the seat never ends the stop.",
+      statement: "A notice or a job that fails after the landing is told, and undoes nothing.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A notice or a start that fails after the landing is told, and undoes nothing.",
+      statement: "A job no seat took is told to the game's game master and to Alan.",
     },
     {
-      decisionKind: "decision-kind/departure",
-      statement: "A seat that does not start is told to the game's game master and to Alan.",
+      decisionKind: "decision-kind/absence",
+      statement: "A seat that is up and is sent its job is told to nobody.",
     },
     {
       decisionKind: "decision-kind/departure",

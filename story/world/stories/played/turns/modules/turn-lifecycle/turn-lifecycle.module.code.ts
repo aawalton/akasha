@@ -125,7 +125,6 @@ export type Moved = {
   readonly issues?: readonly string[] | null
   readonly mechanicsIssues?: readonly string[] | null
   readonly starts: readonly Start[]
-  readonly stopsCaller: boolean
   readonly landsKept: boolean
 }
 
@@ -139,7 +138,6 @@ export type Staff = {
 
 export type Moving = {
   readonly starts?: readonly Start[]
-  readonly stopsCaller?: boolean
   readonly prose?: string | null
   readonly proseRecords?: readonly BeatProse[] | null
   readonly planned?: Planned | null
@@ -166,7 +164,6 @@ export function moved(status: TurnStep, values: Values, moving: Moving = {}): Mo
     issues: moving.issues ?? null,
     mechanicsIssues: moving.mechanicsIssues ?? null,
     starts: moving.starts ?? [],
-    stopsCaller: moving.stopsCaller ?? false,
     landsKept: moving.landsKept ?? false,
   }
 }

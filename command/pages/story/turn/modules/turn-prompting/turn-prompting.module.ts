@@ -4,8 +4,9 @@ export const turnPrompting = {
   id: "01a0deca-7611-7c9f-94b0-89aa26759a71",
   type: "page-type/module",
   slug: "turn-prompting",
-  definition: "the prompt a fresh reviewer or recorder seat starts on",
+  definition: "the prompt a reviewer or recorder seat is handed for one job",
   code: "ts",
+  test: "ts",
   decisions: [
     {
       decisionKind: "decision-kind/departure",
@@ -63,6 +64,15 @@ export const turnPrompting = {
     {
       decisionKind: "decision-kind/departure",
       statement: "A prompt says a turn ended in words has done none of the work those words named.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A prompt says its advance ends the job, and the seat waits for its next job.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A prompt has the seat read every file of its job afresh, never from an earlier job.",
     },
   ],
 } as const satisfies Module
