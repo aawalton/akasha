@@ -13,6 +13,7 @@ export const fairweather0002SkillsUsedNone = {
   prose: "txt",
   stepStatus: "step-status/reviewers",
   beats: "jsonl",
+  issues: "txt",
   lore: [
     "lore/fairweather-cora",
     "lore/fairweather-elsie",
@@ -30,6 +31,7 @@ export const fairweather0002SkillsUsedNone = {
     "character-other/fairweather-tamsin",
     "character-other/fairweather-tilly",
   ],
+  reviewedBy: ["story-reviewer/holdings"],
   recordedBy: [
     "story-recorder/plan",
     "story-recorder/inventory",
