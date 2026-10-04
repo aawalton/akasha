@@ -5,6 +5,8 @@ export const hollowmere0030OrIsItWhom = {
   type: "page-type/story-chapter-written",
   slug: "hollowmere-0030-or-is-it-whom",
   cover: "image/image-652fc169649497df",
+  completedAt: "2026-10-04T09:31:30.359Z",
+  ownProgress: 2903,
   position: 30,
   unit: "unit/words",
   title: "Or Is It Whom",
