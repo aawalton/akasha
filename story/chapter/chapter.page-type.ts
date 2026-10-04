@@ -19,6 +19,7 @@ export const chapter = {
     "multi-relation-property/step-lore",
     "multi-relation-property/step-reviewed-by",
     "multi-relation-property/step-recorded-by",
+    "file-property/rulings",
   ],
   properties: [
     { pageProperty: "text-property/title", required: true, many: false },
@@ -53,6 +54,7 @@ export const chapter = {
       many: true,
       maxCount: null,
     },
+    { pageProperty: "file-property/rulings", required: false, many: false },
   ],
   decisions: [
     {

@@ -3788,6 +3788,7 @@
 {"propertySlug":"decision-kind","path":"story/chapter/properties/beats.file-property.ts","id":"01a10303-754b-73f7-80e7-91da765b1032"}
 {"propertySlug":"decision-kind","path":"story/chapter/properties/issues.file-property.ts","id":"01a10324-8b4d-79c7-bb41-b8d11fc48914"}
 {"propertySlug":"decision-kind","path":"story/chapter/properties/mechanics-issues.file-property.ts","id":"01a10324-8b4d-7386-a044-57af3f367c03"}
+{"propertySlug":"decision-kind","path":"story/chapter/properties/rulings.file-property.ts","id":"01a10450-ad04-7d07-ab7f-df5a4bfd486e"}
 {"propertySlug":"decision-kind","path":"story/chapter/properties/step-recorded-by.multi-relation-property.ts","id":"01a0e058-679f-70f6-baaf-b82f0c8a4690"}
 {"propertySlug":"decision-kind","path":"story/chapter/properties/step-reviewed-by.multi-relation-property.ts","id":"01a0deb0-cf67-7a1e-bb3d-6859e1f25fce"}
 {"propertySlug":"decision-kind","path":"story/chapter/step-status/pages/game-master.step-status.ts","id":"01a0dead-3b10-7234-922d-8dfc80845bcc"}
