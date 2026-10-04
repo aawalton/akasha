@@ -14,6 +14,8 @@ export const fairweatherUnderbloom = {
         "lore-disclosure/game-master",
         "character-other/fairweather-cora",
         "character-other/fairweather-tamsin",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-tilly",
       ],
     },
     {
@@ -23,6 +25,7 @@ export const fairweatherUnderbloom = {
         "character-other/fairweather-cora",
         "character-other/fairweather-tamsin",
         "character-other/fairweather-tilly",
+        "character-player/fairweather-elsie",
       ],
     },
     {
@@ -31,6 +34,8 @@ export const fairweatherUnderbloom = {
         "lore-disclosure/game-master",
         "character-other/fairweather-cora",
         "character-other/fairweather-tamsin",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-tilly",
       ],
     },
     {
@@ -39,6 +44,8 @@ export const fairweatherUnderbloom = {
         "lore-disclosure/game-master",
         "character-other/fairweather-cora",
         "character-other/fairweather-tamsin",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-tilly",
       ],
     },
     {
@@ -47,6 +54,8 @@ export const fairweatherUnderbloom = {
         "lore-disclosure/game-master",
         "character-other/fairweather-cora",
         "character-other/fairweather-tamsin",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-tilly",
       ],
     },
     {
@@ -55,6 +64,8 @@ export const fairweatherUnderbloom = {
         "lore-disclosure/game-master",
         "character-other/fairweather-cora",
         "character-other/fairweather-tamsin",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-tilly",
       ],
     },
     {
@@ -63,23 +74,49 @@ export const fairweatherUnderbloom = {
         "lore-disclosure/game-master",
         "character-other/fairweather-cora",
         "character-other/fairweather-tamsin",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-tilly",
       ],
     },
     {
       fact: "The lost goat is Clover, a white nanny goat belonging to a flower seller in the market above.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-tamsin",
+        "character-other/fairweather-tilly",
+        "character-other/fairweather-cora",
+      ],
     },
     {
       fact: "Clover went down the stair after a dropped bunch of flowers three days ago and has not come up.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-tamsin",
+        "character-other/fairweather-tilly",
+        "character-other/fairweather-cora",
+      ],
     },
     {
       fact: "Clover is in the old cistern room at the first floor's heart, eating the glowing flowers.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-tamsin",
+        "character-other/fairweather-tilly",
+        "character-other/fairweather-cora",
+      ],
     },
     {
       fact: "Stranglevine has grown across the cistern room's doorway since Clover went in.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-tamsin",
+        "character-other/fairweather-tilly",
+        "character-other/fairweather-cora",
+      ],
     },
     {
       fact: "A goat that eats the glowing flowers glows faintly itself for a day after.",

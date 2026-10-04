@@ -11,9 +11,8 @@ export const fairweather0003AGoatLantern = {
   story: "story-written/fairweather",
   ownLength: 8674,
   prose: "txt",
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/player",
   beats: "jsonl",
-  issues: "txt",
   lore: [
     "lore/fairweather-cora",
     "lore/fairweather-elsie",
@@ -31,7 +30,12 @@ export const fairweather0003AGoatLantern = {
     "character-other/fairweather-tamsin",
     "character-other/fairweather-tilly",
   ],
-  reviewedBy: ["story-reviewer/holdings", "story-reviewer/style", "story-reviewer/continuity"],
+  reviewedBy: [
+    "story-reviewer/holdings",
+    "story-reviewer/style",
+    "story-reviewer/continuity",
+    "story-reviewer/scene",
+  ],
   recordedBy: [
     "story-recorder/plan",
     "story-recorder/mechanics",
@@ -39,7 +43,6 @@ export const fairweather0003AGoatLantern = {
     "story-recorder/memory",
     "story-recorder/picture",
   ],
-  rulings: "jsonl",
   scenes: [
     "image/image-e38c55ed66b7f7d6",
     "image/image-74b9cd173e1abc81",

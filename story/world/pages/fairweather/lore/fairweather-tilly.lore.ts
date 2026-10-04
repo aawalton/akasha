@@ -112,7 +112,12 @@ export const fairweatherTilly = {
     },
     {
       fact: "Tilly is frightened of being underground, and has been since she was small.",
-      knowers: ["lore-disclosure/game-master", "character-other/fairweather-tilly"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/fairweather-tilly",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-tamsin",
+      ],
     },
     {
       fact: "Tilly makes a good burn salve, a pear-tasting fizz for waking up, and an unfinished smoke.",
@@ -141,6 +146,20 @@ export const fairweatherTilly = {
         "character-player/fairweather-elsie",
         "character-other/fairweather-tamsin",
       ],
+    },
+    {
+      fact: "Tilly can mix two vials into a small, steady blue flame that burns without a wick.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/fairweather-tilly",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-tamsin",
+        "character-other/fairweather-cora",
+      ],
+    },
+    {
+      fact: "Tilly's shaking hands go steady the moment her brew catches.",
+      knowers: ["lore-disclosure/game-master", "character-player/fairweather-elsie"],
     },
   ],
   secrets: "jsonl",

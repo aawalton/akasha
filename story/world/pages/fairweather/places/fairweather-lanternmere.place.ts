@@ -53,6 +53,7 @@ export const fairweatherLanternmere = {
         "character-other/fairweather-cora",
         "character-other/fairweather-tamsin",
         "character-other/fairweather-tilly",
+        "character-player/fairweather-elsie",
       ],
     },
     {

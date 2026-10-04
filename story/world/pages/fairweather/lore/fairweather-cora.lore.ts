@@ -127,6 +127,22 @@ export const fairweatherCora = {
         "character-other/fairweather-tilly",
       ],
     },
+    {
+      fact: "Cora kept Elsie's honey bun in her pocket and ate it on the Underbloom stair.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/fairweather-cora",
+        "character-player/fairweather-elsie",
+      ],
+    },
+    {
+      fact: "At the Underbloom's cistern door Cora wrote many lines in her ledger, not one.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/fairweather-cora",
+        "character-player/fairweather-elsie",
+      ],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore

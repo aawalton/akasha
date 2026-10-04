@@ -8,7 +8,7 @@ export const fairweatherTamsin = {
   description:
     "The prose never states Tamsin's experience; 0 is where the progression starts each level.",
   character: "character-other/fairweather-tamsin",
-  value: 30,
+  value: 70,
   minValue: 0,
   history: "jsonl",
   displayOrder: 1,
