@@ -4,13 +4,14 @@ export const fairweather0005HoneyCake = {
   id: "01a1062d-8d3d-744f-9e75-1eae3e476e13",
   type: "page-type/story-chapter-written",
   slug: "fairweather-0005-honey-cake",
+  cover: "image/image-226e2a15d01d81d0",
   position: 5,
   unit: "unit/words",
   title: "Honey Cake",
   story: "story-written/fairweather",
   ownLength: 8916,
   prose: "txt",
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/reviewers",
   beats: "jsonl",
   lore: [
     "lore/fairweather-cora",
@@ -35,5 +36,7 @@ export const fairweather0005HoneyCake = {
     "story-recorder/inventory",
     "story-recorder/mechanics",
     "story-recorder/memory",
+    "story-recorder/picture",
   ],
+  scenes: ["image/image-8313b3834e8c7d1a", "image/image-226e2a15d01d81d0"],
 } as const satisfies StoryChapterWritten
