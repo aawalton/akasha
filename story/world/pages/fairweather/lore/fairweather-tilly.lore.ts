@@ -44,6 +44,8 @@ export const fairweatherTilly = {
         "lore-disclosure/game-master",
         "character-other/fairweather-tilly",
         "character-player/fairweather-elsie",
+        "character-other/fairweather-cora",
+        "character-other/fairweather-tamsin",
       ],
     },
     {
@@ -80,7 +82,12 @@ export const fairweatherTilly = {
     },
     {
       fact: "Tilly's father is a clockmaker on Gear Street who thinks she is still at the College.",
-      knowers: ["lore-disclosure/game-master", "character-other/fairweather-tilly"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/fairweather-tilly",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-tamsin",
+      ],
     },
     {
       fact: "Tilly lodges in a boarding house on Pickle Row, in a room that smells of sulphur.",
@@ -111,6 +118,24 @@ export const fairweatherTilly = {
         "character-player/fairweather-elsie",
         "character-other/fairweather-tamsin",
         "character-other/fairweather-cora",
+      ],
+    },
+    {
+      fact: "Tilly writes her father weekly letters about the College lectures she is missing.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/fairweather-tilly",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-tamsin",
+      ],
+    },
+    {
+      fact: "Tilly's father made the works of the clock in the tower.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/fairweather-tilly",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-tamsin",
       ],
     },
   ],

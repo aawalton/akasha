@@ -66,6 +66,7 @@ export const fairweatherTamsin = {
         "character-other/fairweather-tamsin",
         "character-player/fairweather-elsie",
         "character-other/fairweather-cora",
+        "character-other/fairweather-tilly",
       ],
     },
     {
@@ -88,7 +89,12 @@ export const fairweatherTamsin = {
     },
     {
       fact: "Tamsin grew up on a canal barge, and her mother still runs it on the Long Cut.",
-      knowers: ["lore-disclosure/game-master", "character-other/fairweather-tamsin"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/fairweather-tamsin",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-tilly",
+      ],
     },
     {
       fact: "Tamsin likes girls and says so loudly; she has kissed plenty and loved none.",
@@ -114,6 +120,15 @@ export const fairweatherTamsin = {
         "character-player/fairweather-elsie",
         "character-other/fairweather-tilly",
         "character-other/fairweather-cora",
+      ],
+    },
+    {
+      fact: "Tamsin's mother likes honey cake.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/fairweather-tamsin",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-tilly",
       ],
     },
   ],

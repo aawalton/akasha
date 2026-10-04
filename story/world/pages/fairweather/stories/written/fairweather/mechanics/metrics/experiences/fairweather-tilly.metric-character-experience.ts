@@ -8,8 +8,9 @@ export const fairweatherTilly = {
   description:
     "The prose never states Tilly's experience; 0 is where the progression starts each level.",
   character: "character-other/fairweather-tilly",
-  value: 0,
+  value: 30,
   minValue: 0,
+  history: "jsonl",
   displayOrder: 1,
   unrevealed: true,
 } as const satisfies MetricCharacterExperience

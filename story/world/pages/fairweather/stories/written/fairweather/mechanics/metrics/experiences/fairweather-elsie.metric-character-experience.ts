@@ -6,8 +6,9 @@ export const fairweatherElsie = {
   slug: "fairweather-elsie",
   title: "Experience",
   character: "character-player/fairweather-elsie",
-  value: 0,
+  value: 30,
   minValue: 0,
+  history: "jsonl",
   displayOrder: 1,
   unrevealed: false,
 } as const satisfies MetricCharacterExperience

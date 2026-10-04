@@ -78,7 +78,12 @@ export const fairweatherCora = {
     },
     {
       fact: "Cora drinks her tea black and strong with one sugar.",
-      knowers: ["lore-disclosure/game-master", "character-player/fairweather-elsie"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-tamsin",
+        "character-other/fairweather-tilly",
+      ],
     },
     {
       fact: "Cora has wanted girls, quietly, and has never let herself have one.",
