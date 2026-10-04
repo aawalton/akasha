@@ -3,10 +3,7 @@ import { reviewer as reviewerRole } from "akasha/agent/role/pages/reviewer.role.
 import { storyRecorder as storyRecorderRole } from "akasha/agent/role/pages/story-recorder.role.ts"
 import { worldBuilder as worldBuilderRole } from "akasha/agent/role/pages/world-builder.role.ts"
 import { writer as writerRole } from "akasha/agent/role/pages/writer.role.ts"
-import type { BeatChange } from "akasha/story/engine/beat-state/modules/beat-changes/beat-changes.module.code.ts"
 import type { Memory } from "akasha/story/engine/beat-state/modules/beat-memory/beat-memory.module.code.ts"
-import type { Pictured } from "akasha/story/engine/beat-state/modules/beat-pictures/beat-pictures.module.code.ts"
-import type { BeatProse } from "akasha/story/engine/beat-state/modules/beat-prose/beat-prose.module.code.ts"
 import type {
   BeatScene,
   Planned,
@@ -21,27 +18,37 @@ import {
   type Advanced,
   type Caller,
   CHAPTER,
+  firstMoved,
   GAME_MASTER,
   type Handed,
   type Held,
+  leftOf,
   MECHANICS,
   type Moved,
+  type Moving,
+  memoryMerged,
+  moved,
   type Noun,
   PLAYER,
   RECORDERS,
   REVIEWERS,
+  type Staff,
   type Start,
-  statusOf,
   TURN,
   type TurnStep,
+  toRecorders,
+  toReviewers,
   WRITER,
 } from "akasha/story/world/stories/played/turns/modules/turn-lifecycle/turn-lifecycle.module.code.ts"
 import { loreRefused } from "akasha/story/world/stories/played/turns/modules/turn-lore-handed/turn-lore-handed.module.code.ts"
 import {
   beatsRefused,
+  issueOf,
   issuesRefused,
   mechanicked,
   type Recorded,
+  raisedAs,
+  raiserOf,
 } from "akasha/story/world/stories/played/turns/modules/turn-mechanics/turn-mechanics.module.code.ts"
 import {
   proseTaken,
@@ -89,26 +96,6 @@ const SAID_AS: Readonly<{ [kind in Kind]: string }> = {
     "one recorder's work (`--recorder`, with `--changes-file` and `--issues-file` at mechanics, `--memory-file` or `--pictured-file` at recorders)",
 }
 
-type Staff = {
-  readonly reviewers: readonly string[]
-  readonly recorders: readonly string[]
-  readonly mechanics: readonly string[]
-}
-
-type Moving = {
-  readonly starts?: readonly Start[]
-  readonly stopsCaller?: boolean
-  readonly prose?: string | null
-  readonly proseRecords?: readonly BeatProse[] | null
-  readonly planned?: Planned | null
-  readonly changes?: readonly BeatChange[] | null
-  readonly memory?: readonly Memory[] | null
-  readonly pictured?: readonly Pictured[] | null
-  readonly issues?: readonly string[] | null
-  readonly mechanicsIssues?: readonly string[] | null
-  readonly landsKept?: boolean
-}
-
 function nounOf(held: Held): Noun {
   return held.noun ?? TURN
 }
@@ -130,40 +117,8 @@ function callerRefused(held: Held, caller: Caller): string | null {
   return `the ${noun} is at ${held.status}, so it waits on the ${role} of \`${held.game}\`, and this advance comes from ${from}`
 }
 
-function moved(
-  status: TurnStep,
-  values: Readonly<{ [key: string]: unknown }>,
-  moving: Moving = {}
-): Moved {
-  return {
-    status,
-    values: { stepStatus: statusOf(status), ...values },
-    prose: moving.prose ?? null,
-    proseRecords: moving.proseRecords ?? null,
-    planned: moving.planned ?? null,
-    changes: moving.changes ?? null,
-    memory: moving.memory ?? null,
-    pictured: moving.pictured ?? null,
-    issues: moving.issues ?? null,
-    mechanicsIssues: moving.mechanicsIssues ?? null,
-    starts: moving.starts ?? [],
-    stopsCaller: moving.stopsCaller ?? false,
-    landsKept: moving.landsKept ?? false,
-  }
-}
-
-function leftOf(all: readonly string[], done: readonly string[]): readonly string[] {
-  return all.filter((one) => !done.includes(one))
-}
-
-function toRecorders(
-  values: Readonly<{ [key: string]: unknown }>,
-  recorders: readonly string[],
-  moving: Moving
-): Moved {
-  if (recorders.length === 0) return moved(PLAYER, values, moving)
-  const starts = recorders.map((recorder): Start => ({ kind: "recorder", recorder }))
-  return moved(RECORDERS, values, { ...moving, starts })
+function namedAs(type: string, slugs: readonly string[]): readonly string[] | undefined {
+  return slugs.length === 0 ? undefined : slugs.map((one) => `${type}${PARTED}${one}`)
 }
 
 function afterProse(
@@ -182,18 +137,6 @@ function afterProse(
   return toReviewers(held, values, staff, moving)
 }
 
-function toReviewers(
-  held: Held,
-  values: Readonly<{ [key: string]: unknown }>,
-  staff: Staff,
-  moving: Moving
-): Moved {
-  const reviewing = leftOf(staff.reviewers, held.reviewedBy)
-  if (reviewing.length === 0) return moved(PLAYER, values, moving)
-  const starts = reviewing.map((reviewer): Start => ({ kind: "reviewer", reviewer }))
-  return moved(REVIEWERS, values, { ...moving, starts })
-}
-
 type Remembered = { readonly refused: string } | { readonly memory: readonly Memory[] | null }
 
 function remembered(held: Held, handed: Recorded): Remembered {
@@ -206,9 +149,7 @@ function remembered(held: Held, handed: Recorded): Remembered {
       refused: `a memory names beat ${far.beat}, and the ${nounOf(held)} has ${beats} beats`,
     }
   }
-  return {
-    memory: [...(held.memory ?? []), ...memory].toSorted((one, other) => one.beat - other.beat),
-  }
+  return { memory: memoryMerged(held.memory ?? [], memory) }
 }
 
 function picturedRefused(held: Held, handed: Recorded): string | null {
@@ -236,16 +177,24 @@ function fromBeats(
   }
   const wrong = beatsRefused(beats, held)
   if (wrong !== null) return { refused: wrong }
+  const recordedBy = recordedAfter(held, { beats, scenes }, staff)
   const values = {
     beats: HELD_LINES,
-    recordedBy: undefined,
+    recordedBy: namedAs(STORY_RECORDER, recordedBy),
     mechanicsIssues: undefined,
-    ...(held.written ? { ownLength: 0 } : {}),
+    mechanicsSentBack: undefined,
   }
   const moving = { planned: { beats, scenes } }
-  if (staff.mechanics.length === 0) return moved(WRITER, values, moving)
-  const starts = staff.mechanics.map((recorder): Start => ({ kind: "mechanics", recorder }))
+  const mechanics = leftOf(staff.mechanics, recordedBy)
+  if (mechanics.length === 0) return moved(WRITER, values, moving)
+  const starts = mechanics.map((recorder): Start => ({ kind: "mechanics", recorder }))
   return moved(MECHANICS, values, { ...moving, starts })
+}
+
+function recordedAfter(held: Held, planned: Planned, staff: Staff): readonly string[] {
+  if (firstMoved(held.planned, planned) !== null) return []
+  if ((held.mechanicsIssues ?? []).length === 0) return held.recordedBy
+  return leftOf(held.recordedBy, staff.mechanics)
 }
 
 function fromReviewer(
@@ -263,22 +212,29 @@ function fromReviewer(
   const noun = nounOf(held)
   if (held.reviewedBy.includes(reviewer)) {
     return {
-      refused: `\`${reviewer}\` has reviewed this ${noun} already, and a ${noun} is reviewed once`,
+      refused: `\`${reviewer}\` has reviewed this ${noun} already, and reviews it again only once the issues it raised are mended`,
     }
   }
-  const issues = [...held.issues, ...found]
-  const wrong = issuesRefused(issues, noun)
+  const rest = held.issues.filter((one) => raiserOf(one, reviewers) !== reviewer)
+  const issues = [...rest, ...found.map((one) => raisedAs(reviewer, one))]
+  const wrong = issuesRefused([...rest.map((one) => issueOf(one, reviewers)), ...found], noun)
   if (wrong !== null) return { refused: wrong }
   const reviewedBy = [...held.reviewedBy, reviewer]
+  const cleared = issues.length === 0 && held.issues.length > 0
   const values = {
-    reviewedBy: reviewedBy.map((one) => `${STORY_REVIEWER}${PARTED}${one}`),
-    ...(issues.length === 0 ? {} : { issues: PROSE_HELD }),
+    reviewedBy: namedAs(STORY_REVIEWER, reviewedBy),
+    ...(issues.length > 0 ? { issues: PROSE_HELD } : cleared ? { issues: undefined } : {}),
   }
-  const stopping = { stopsCaller: true, issues: found.length === 0 ? null : issues }
+  const rewritten = found.length > 0 || rest.length !== held.issues.length
+  const stopping = { stopsCaller: true, issues: rewritten && issues.length > 0 ? issues : null }
   if (!reviewers.every((one) => reviewedBy.includes(one))) {
     return moved(REVIEWERS, values, stopping)
   }
-  if (issues.length > 0) return moved(GAME_MASTER, values, stopping)
+  if (issues.length > 0) {
+    const raisers = issues.flatMap((one) => raiserOf(one, reviewers) ?? [])
+    const kept = namedAs(STORY_REVIEWER, leftOf(reviewedBy, raisers))
+    return moved(GAME_MASTER, { ...values, reviewedBy: kept }, stopping)
+  }
   if (!held.written) return moved(WRITER, values, stopping)
   return toRecorders(values, leftOf(staff.recorders, held.recordedBy), stopping)
 }
@@ -302,7 +258,7 @@ function fromMechanics(held: Held, handed: Recorded, staff: Staff): Advanced {
   const moving = { stopsCaller: true, changes: done.changes, mechanicsIssues: done.issues }
   if (done.next === "mechanics") return moved(MECHANICS, done.values, moving)
   if (done.next === "game-master") return moved(GAME_MASTER, done.values, moving)
-  if (!held.written) return moved(WRITER, done.values, moving)
+  if (!held.written || held.issues.length > 0) return moved(WRITER, done.values, moving)
   return afterProse({ ...held, recordedBy: done.recordedBy }, done.values, staff, moving)
 }
 

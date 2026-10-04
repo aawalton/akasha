@@ -1,6 +1,5 @@
 {"propertySlug":"import","fileName":"beat-prose.module.code.ts","path":"command/pages/story/turn/advance/modules/turn-handing/turn-handing.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"beat-prose.module.code.ts","path":"story/engine/beat-state/modules/beat-prose/beat-prose.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"beat-prose.module.code.ts","path":"story/engine/beat-state/modules/beat-records/beat-records.module.code.ts","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"beat-prose.module.code.ts","path":"story/world/stories/played/turns/modules/turn-advancing/turn-advancing.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"beat-prose.module.code.ts","path":"story/world/stories/played/turns/modules/turn-lifecycle/turn-lifecycle.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"story/engine/beat-state/beat-state.domain.ts","id":"01a10235-fdaa-7b5b-968e-b88481cce87f"}

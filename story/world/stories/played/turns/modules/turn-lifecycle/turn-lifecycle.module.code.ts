@@ -1,3 +1,4 @@
+import { jsonEqual } from "akasha/code/type/narrowing/modules/json-equal/json-equal.module.code.ts"
 import { gameMaster } from "akasha/story/chapter/step-status/pages/game-master.step-status.ts"
 import { mechanics } from "akasha/story/chapter/step-status/pages/mechanics.step-status.ts"
 import { player } from "akasha/story/chapter/step-status/pages/player.step-status.ts"
@@ -96,12 +97,12 @@ export type Held = {
   readonly recordedBy: readonly string[]
   readonly written: boolean
   readonly beats?: number
-
   readonly proseOnBeats?: boolean
   readonly mechanicsIssues?: readonly string[]
   readonly mechanicsSentBack?: boolean
   readonly changes?: readonly BeatChange[]
   readonly memory?: readonly Memory[]
+  readonly planned?: Planned
 }
 
 export type Caller = { readonly role: string | null; readonly game: string | null }
@@ -128,6 +129,94 @@ export type Moved = {
 }
 
 export type Advanced = Moved | { readonly refused: string }
+
+export type Staff = {
+  readonly reviewers: readonly string[]
+  readonly recorders: readonly string[]
+  readonly mechanics: readonly string[]
+}
+
+export type Moving = {
+  readonly starts?: readonly Start[]
+  readonly stopsCaller?: boolean
+  readonly prose?: string | null
+  readonly proseRecords?: readonly BeatProse[] | null
+  readonly planned?: Planned | null
+  readonly changes?: readonly BeatChange[] | null
+  readonly memory?: readonly Memory[] | null
+  readonly pictured?: readonly Pictured[] | null
+  readonly issues?: readonly string[] | null
+  readonly mechanicsIssues?: readonly string[] | null
+  readonly landsKept?: boolean
+}
+
+type Values = Readonly<{ [key: string]: unknown }>
+
+export function moved(status: TurnStep, values: Values, moving: Moving = {}): Moved {
+  return {
+    status,
+    values: { stepStatus: statusOf(status), ...values },
+    prose: moving.prose ?? null,
+    proseRecords: moving.proseRecords ?? null,
+    planned: moving.planned ?? null,
+    changes: moving.changes ?? null,
+    memory: moving.memory ?? null,
+    pictured: moving.pictured ?? null,
+    issues: moving.issues ?? null,
+    mechanicsIssues: moving.mechanicsIssues ?? null,
+    starts: moving.starts ?? [],
+    stopsCaller: moving.stopsCaller ?? false,
+    landsKept: moving.landsKept ?? false,
+  }
+}
+
+export function leftOf(all: readonly string[], done: readonly string[]): readonly string[] {
+  return all.filter((one) => !done.includes(one))
+}
+
+export function published(values: Values): Values {
+  return { ...values, issues: undefined, mechanicsIssues: undefined }
+}
+
+export function toRecorders(values: Values, recorders: readonly string[], moving: Moving): Moved {
+  if (recorders.length === 0) return moved(PLAYER, published(values), moving)
+  const starts = recorders.map((recorder): Start => ({ kind: "recorder", recorder }))
+  return moved(RECORDERS, values, { ...moving, starts })
+}
+
+export function toReviewers(held: Held, values: Values, staff: Staff, moving: Moving): Moved {
+  const reviewing = leftOf(staff.reviewers, held.reviewedBy)
+  if (reviewing.length === 0) return moved(PLAYER, published(values), moving)
+  const starts = reviewing.map((reviewer): Start => ({ kind: "reviewer", reviewer }))
+  return moved(REVIEWERS, values, { ...moving, starts })
+}
+
+function clockOf(said: string | undefined): string | null {
+  if (said === undefined) return null
+  const at = Date.parse(said)
+  return Number.isNaN(at) ? said : new Date(at).toISOString()
+}
+
+function sceneSaid(scenes: readonly BeatScene[], beat: number): string {
+  const one = scenes.find((each) => each.beat === beat)
+  const lists = [one?.present ?? null, one?.arrive ?? [], one?.leave ?? []]
+  return JSON.stringify([clockOf(one?.at), one?.place ?? null, ...lists])
+}
+
+export function firstMoved(before: Planned | undefined, after: Planned): number | null {
+  const held = before ?? { beats: [], scenes: [] }
+  const at = after.beats.findIndex(
+    (event, index) =>
+      held.beats[index] !== event ||
+      sceneSaid(held.scenes, index + 1) !== sceneSaid(after.scenes, index + 1)
+  )
+  return at < 0 ? null : at + 1
+}
+
+export function memoryMerged(had: readonly Memory[], more: readonly Memory[]): readonly Memory[] {
+  const kept = had.filter((one) => !more.some((two) => jsonEqual(one, two)))
+  return [...kept, ...more].toSorted((one, other) => one.beat - other.beat)
+}
 
 export type Latest = {
   readonly slug: string
@@ -193,16 +282,28 @@ export function linesIn(text: string): readonly string[] {
     .filter((one) => one !== "")
 }
 
+export type Repair = { readonly file: string; readonly faults: number }
+
+export function repairSaid(noun: Noun, repairs: readonly Repair[]): string {
+  const listed = repairs.map(
+    (one) => `- \`${one.file}\`, listing ${one.faults} fault${one.faults === 1 ? "" : "s"}`
+  )
+  const opening = `This ${noun} came back for repair, not to be made again: mend each fault where it lands and keep the rest as it is. The faults are in the file${repairs.length === 1 ? "" : "s"} beside it:`
+  return [opening, ...listed].join(BREAK)
+}
+
 export function noticeOf(
   turn: string,
   step: TurnStep,
   changed: readonly string[] = [],
-  noun: Noun = TURN
+  noun: Noun = TURN,
+  repairs: readonly Repair[] = []
 ): string {
-  const said = `The ${noun} \`${turn}\` is at ${step}.`
-  if (changed.length === 0) return said
+  const said = [`The ${noun} \`${turn}\` is at ${step}.`]
+  if (repairs.length > 0) said.push("", repairSaid(noun, repairs))
+  if (changed.length === 0) return said.join(BREAK)
   const listed = changed.map((one) => `- \`${one}\``)
-  return [said, "", "These lore pages have changed since you last read them:", ...listed].join(
+  return [...said, "", "These lore pages have changed since you last read them:", ...listed].join(
     BREAK
   )
 }

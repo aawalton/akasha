@@ -31,16 +31,17 @@ import {
   cachedOf,
   changesRefused,
   type Filed,
-  mergedOf,
   type Reading,
 } from "akasha/story/engine/beat-state/modules/beat-changes/beat-changes.module.code.ts"
 import {
   type Beats,
   beatsWritten,
 } from "akasha/story/engine/beat-state/modules/beat-records/beat-records.module.code.ts"
+import type { Planned } from "akasha/story/engine/beat-state/modules/beat-replay/beat-replay.module.code.ts"
 import { storyPlayed } from "akasha/story/world/stories/played/story-played.page-type.ts"
 import { typeOf } from "akasha/story/world/stories/played/turns/modules/turn-cast/turn-cast.module.code.ts"
 import {
+  firstMoved,
   type Handed,
   type Held,
   MECHANICS,
@@ -48,6 +49,7 @@ import {
   PLAYER,
   type TurnStep,
 } from "akasha/story/world/stories/played/turns/modules/turn-lifecycle/turn-lifecycle.module.code.ts"
+import { changesMerged } from "akasha/story/world/stories/played/turns/modules/turn-mechanics/turn-mechanics.module.code.ts"
 import { storyWritten } from "akasha/story/world/stories/written/story-written.page-type.ts"
 
 const BEATS = exportedAs(beatsFile.propertySlug)
@@ -70,8 +72,22 @@ type Refused = { readonly refused: string }
 
 export type Changing = (root: string) => Reading
 
+export function mendedOver(held: Beats, planned: Planned): Beats {
+  const first = firstMoved(held, planned)
+  const kept = (one: { readonly beat: number }) =>
+    first === null ? one.beat <= planned.beats.length : one.beat < first
+  const mended = {
+    ...planned,
+    changes: held.changes.filter(kept),
+    memory: held.memory.filter(kept),
+    pictured: (held.pictured ?? []).filter(kept),
+  }
+  const whole = first === null && planned.beats.length === held.beats.length
+  return whole && held.prose !== undefined ? { ...mended, prose: held.prose } : mended
+}
+
 export function beatsBodyOf(held: Beats, said: Moved): string | null {
-  if (said.planned !== null) return beatsWritten({ ...said.planned, changes: [], memory: [] })
+  if (said.planned !== null) return beatsWritten(mendedOver(held, said.planned))
   const pictured = said.pictured ?? null
   if (said.changes === null && said.memory === null && pictured === null) return null
   const changes = said.changes ?? held.changes
@@ -162,7 +178,7 @@ export function changesChecked(reading: Reading, held: Held, handed: Handed): st
   if (handed.kind !== "record" || held.status !== MECHANICS) return null
   const more = handed.changes ?? []
   if (more.length === 0) return null
-  return changesRefused(mergedOf(held.changes ?? [], more), reading)
+  return changesRefused(changesMerged(held.changes ?? [], more), reading)
 }
 
 export type Placing = (page: string) => string | null

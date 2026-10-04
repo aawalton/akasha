@@ -1,3 +1,4 @@
+import { jsonEqual } from "akasha/code/type/narrowing/modules/json-equal/json-equal.module.code.ts"
 import {
   type BeatChange,
   mergedOf,
@@ -78,17 +79,39 @@ export function mechanicked(
   if (long !== null) return { refused: long }
   const recordedBy = [...held.recordedBy, handed.recorder]
   const all = mechanics.every((one) => recordedBy.includes(one))
-  const firstOfRun = held.recordedBy.length === 0
-  const sentBack = held.mechanicsSentBack === true && !firstOfRun
-  const back = all && issues.length > 0 && !sentBack
+  const back = all && issues.length > 0
   const values = {
     recordedBy: recordedBy.map((one) => `${storyRecorder.slug}${PARTED}${one}`),
-    ...(firstOfRun ? { mechanicsSentBack: undefined } : {}),
+    mechanicsSentBack: undefined,
     ...(issues.length === 0 ? {} : { mechanicsIssues: ISSUES_HELD }),
-    ...(back ? { mechanicsSentBack: true } : {}),
   }
-  const body = changes.length === 0 ? null : mergedOf(held.changes ?? [], changes)
+  const body = changes.length === 0 ? null : changesMerged(held.changes ?? [], changes)
   const issued = (handed.issues ?? []).length === 0 ? null : issues
   const next = !all ? "mechanics" : back ? "game-master" : "on"
   return { values, changes: body, issues: issued, recordedBy, next }
+}
+
+export function changesMerged(
+  had: readonly BeatChange[],
+  more: readonly BeatChange[]
+): readonly BeatChange[] {
+  return mergedOf(
+    had.filter((one) => !more.some((two) => jsonEqual(one, two))),
+    more
+  )
+}
+
+const RAISED = ": "
+
+export function raisedAs(reviewer: string, issue: string): string {
+  return `${reviewer}${RAISED}${issue}`
+}
+
+export function raiserOf(line: string, reviewers: readonly string[]): string | null {
+  return reviewers.find((one) => line.startsWith(`${one}${RAISED}`)) ?? null
+}
+
+export function issueOf(line: string, reviewers: readonly string[]): string {
+  const by = raiserOf(line, reviewers)
+  return by === null ? line : line.slice(by.length + RAISED.length)
 }

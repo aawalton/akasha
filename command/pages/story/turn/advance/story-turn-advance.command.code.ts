@@ -49,16 +49,19 @@ import { describedIndexed } from "akasha/command/pages/story/turn/advance/module
 import {
   movedTo,
   numberedOf,
+  renamedOf,
   type Taken,
   taken,
-  titledOf,
 } from "akasha/command/pages/story/turn/advance/modules/turn-handing/turn-handing.module.code.ts"
 import { memorySettled } from "akasha/command/pages/story/turn/advance/modules/turn-memory/turn-memory.module.code.ts"
 import {
   timeCheckIndexed,
   untimedRefused,
 } from "akasha/command/pages/story/turn/advance/modules/turn-timing/turn-timing.module.code.ts"
-import { heldOf } from "akasha/command/pages/story/turn/modules/turn-holding/turn-holding.module.code.ts"
+import {
+  heldOf,
+  repairsAfter,
+} from "akasha/command/pages/story/turn/modules/turn-holding/turn-holding.module.code.ts"
 import { liftedFrom } from "akasha/command/pages/story/turn/modules/turn-keeping/turn-keeping.module.code.ts"
 import {
   noticesSent,
@@ -107,12 +110,6 @@ const ID = "id"
 const TITLE = "title"
 
 const RENAME = `${changeMechanical.slug}${PARTED}${renamePage.slug}` as const
-
-function renamedOf(read: Taken, slug: string, game: string): string | null {
-  if (read.title === undefined) return null
-  const to = titledOf(slug, game, read.title)
-  return to === slug ? null : to
-}
 
 export type Timed = (root: string, ended: Ended, agentId: string | null) => undefined
 
@@ -184,8 +181,9 @@ async function noticesOver(
 ) {
   const master = at.story?.master ?? null
   const turn = at.prompting.turnAt
-  const { lore, noun } = at.prompting
-  await noticesSent(reach, root, at.game, master, turn, status, after, lore, noun, crossed)
+  const { lore, noun, repairs } = at.prompting
+  const game = at.game
+  await noticesSent(reach, root, game, master, turn, status, after, lore, noun, crossed, repairs)
 }
 
 async function advancedOn(
@@ -224,7 +222,8 @@ async function heldOn(
   const { changes, memory } = beats
   const story = reach.storyOf(given.root, stated.game)
   const switched = read.chapter && story?.proseOnBeats === true ? { proseOnBeats: true } : {}
-  const held = { ...stated, beats: beats.beats.length, changes, memory, ...switched }
+  const planned = { beats: beats.beats, scenes: beats.scenes }
+  const held = { ...stated, beats: planned.beats.length, changes, memory, planned, ...switched }
   const seat = reach.seatOf(given.root, given.agentId)
   const caller: Caller = seat ?? { role: null, game: null }
   const reviewers = reach.reviewersIn(given.root)
@@ -328,6 +327,7 @@ async function heldOn(
       lore: inPlay.named,
       written: reach.writtenOn(given.root, turn),
       ...(read.chapter ? {} : { described: describedIndexed(given.root, turn) }),
+      repairs: repairsAfter(now.at, held, said),
     },
   }
   const moving = `${slug}\t${held.status}\t${said.status}`

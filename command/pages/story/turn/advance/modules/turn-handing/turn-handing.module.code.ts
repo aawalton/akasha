@@ -72,6 +72,12 @@ export function titledOf(slug: string, story: string, title: string): string {
   return `${numberedOf(slug, story)}${JOINED}${titleSlugOf(title)}`
 }
 
+export function renamedOf(read: Taken, slug: string, game: string): string | null {
+  if (read.title === undefined) return null
+  const to = titledOf(slug, game, read.title)
+  return to === slug ? null : to
+}
+
 export function movedTo(at: string, slug: string, to: string): string {
   const folder = at.lastIndexOf(PARTED) + PARTED.length
   return `${at.slice(0, folder)}${to}${at.slice(folder + slug.length)}`

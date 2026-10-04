@@ -5,8 +5,12 @@ import {
 } from "akasha/story/world/stories/played/turns/modules/turn-lifecycle/turn-lifecycle.module.test-fixtures.ts"
 import {
   beatsRefused,
+  changesMerged,
+  issueOf,
   type Mechanicked,
   mechanicked,
+  raisedAs,
+  raiserOf,
 } from "akasha/story/world/stories/played/turns/modules/turn-mechanics/turn-mechanics.module.code.ts"
 
 const STEPPED = ["mechanics", "inventory"]
@@ -60,11 +64,10 @@ test("issues from any seat send the turn back once every seat has handed in", ()
   })
   const last = doneOf(mechanicked(held, { kind: "record", recorder: "mechanics" }, STEPPED))
   expect(last.next).toBe("game-master")
-  expect(last.values["mechanicsSentBack"]).toBe(true)
   expect(last.changes).toBeNull()
 })
 
-test("a run that already sent the turn back goes on rather than back again", () => {
+test("mechanics sends a turn back every time issues stand, however often it has before", () => {
   const issues = ["beat 2 spends no draught"]
   const held = heldAt("mechanics", {
     beats: 2,
@@ -73,37 +76,27 @@ test("a run that already sent the turn back goes on rather than back again", () 
     mechanicsSentBack: true,
   })
   const again = doneOf(mechanicked(held, { kind: "record", recorder: "mechanics" }, STEPPED))
-  expect(again.next).toBe("on")
-  expect([again.values["mechanicsIssues"], again.issues]).toEqual(["txt", null])
+  expect(again.next).toBe("game-master")
+  expect("mechanicsSentBack" in again.values).toBe(true)
   expect(again.values["mechanicsSentBack"]).toBeUndefined()
+  const clean = heldAt("mechanics", { beats: 2, recordedBy: ["inventory"] })
+  const on = doneOf(mechanicked(clean, { kind: "record", recorder: "mechanics" }, STEPPED))
+  expect(on.next).toBe("on")
 })
 
-test("a run's first hand-in drops the send-back the run before left", () => {
-  const ran = heldAt("mechanics", { beats: 1, mechanicsSentBack: true })
-  const first = doneOf(mechanicked(ran, { kind: "record", recorder: "inventory" }, STEPPED))
-  expect([first.next, Object.keys(first.values)]).toEqual([
-    "mechanics",
-    ["recordedBy", "mechanicsSentBack"],
-  ])
-  const issued = {
-    kind: "record",
-    recorder: "mechanics",
-    issues: ["beat 1 spends no draught"],
-  } as const
-  const held = heldAt("mechanics", { beats: 1, recordedBy: first.recordedBy })
-  const back = doneOf(mechanicked(held, issued, STEPPED))
-  expect([back.next, back.values["mechanicsSentBack"]]).toEqual(["game-master", true])
+test("a change handed in again just as the turn holds it is held once", () => {
+  const held = heldAt("mechanics", { beats: 2, changes: [GAIN] })
+  const again = { kind: "record", recorder: "mechanics", changes: [GAIN, LATER] } as const
+  expect(doneOf(mechanicked(held, again, STEPPED)).changes).toEqual([GAIN, LATER])
+  expect(changesMerged([GAIN], [GAIN])).toEqual([GAIN])
 })
 
-test("a one-seat run sends back though the run before left a send-back", () => {
-  const held = heldAt("mechanics", { beats: 1, mechanicsSentBack: true })
-  const issued = {
-    kind: "record",
-    recorder: "mechanics",
-    issues: ["beat 1 spends no draught"],
-  } as const
-  const back = doneOf(mechanicked(held, issued, ["mechanics"]))
-  expect([back.next, back.values["mechanicsSentBack"]]).toEqual(["game-master", true])
+test("a reviewer's issue is kept opening on the reviewer that raised it", () => {
+  const line = raisedAs("voice", "beat 3: the gate was locked")
+  expect(line).toBe("voice: beat 3: the gate was locked")
+  expect(raiserOf(line, ["continuity", "voice"])).toBe("voice")
+  expect(raiserOf("beat 3: no one raised this", ["voice"])).toBeNull()
+  expect(issueOf(line, ["voice"])).toBe("beat 3: the gate was locked")
 })
 
 test("a rerun holds no change from the run before, so its changes are the whole of them", () => {

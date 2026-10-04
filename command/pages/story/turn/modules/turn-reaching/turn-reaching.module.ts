@@ -20,6 +20,11 @@ export const turnReaching = {
       decisionKind: "decision-kind/departure",
       statement: "A notice reaches the game's game master, world builder and writer seats.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A notice of a turn holding issues says it came back for repair, naming each issue file.",
+    },
 
     {
       decisionKind: "decision-kind/departure",

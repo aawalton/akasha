@@ -23,17 +23,26 @@ export const turnAdvancing = {
 
     {
       decisionKind: "decision-kind/departure",
-      statement: "A game master's advance empties the turn's changes and memory for a fresh run.",
+      statement:
+        "A game master's mend keeps every step's part of the beats before its first moved one.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A beat moved where its event, time, place, or who comes and goes differs.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A mend moving a beat clears who recorded the turn, so each recorder runs again.",
     },
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "A game master's mend of a written turn zeroes its length, so the writer runs again.",
+        "A mend moving no beat reruns only the mechanics seats, and those only where their issues stand.",
     },
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "A game master's advance clears who recorded the turn, so every recorder runs again.",
+        "A turn holding reviewer issues goes to its writer after mechanics, prose or none.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -64,7 +73,7 @@ export const turnAdvancing = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "A reviewer's issues are merged with the turn's and written to the file beside it.",
+        "A reviewer's issues replace the ones it raised before, in the file beside the turn.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -77,7 +86,11 @@ export const turnAdvancing = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "A turn is reviewed once, so a rerun after its review goes on to player unreviewed.",
+        "After a mend only the reviewers whose issues stand review again, until none is left.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A turn moving to player leaves no issue file beside it.",
     },
     {
       decisionKind: "decision-kind/departure",

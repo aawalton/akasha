@@ -18,18 +18,15 @@ export const turnMechanics = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement:
-        "A turn any mechanics seat found issues in goes back to game-master once in each run.",
+      statement: "A turn a mechanics seat found issues in goes back to game-master each time.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement:
-        "A run is one set of hand-ins by the mechanics seats, begun by the game master's beats.",
+      statement: "A change handed in again just as the turn holds it is held once.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement:
-        "A reviewers' send-back reruns mechanics, which sends back again in the run it begins.",
+      statement: "A reviewer's issue is kept opening on that reviewer's slug and a colon.",
     },
     {
       decisionKind: "decision-kind/departure",

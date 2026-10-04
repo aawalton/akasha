@@ -62,11 +62,10 @@ test("the game master's beats go to the writer, starting no seat and stopping no
   expect(said.stopsCaller).toBe(false)
 })
 
-test("the game master's mended beats after review go to the writer too", () => {
+test("a game master's mend after review goes to the writer too", () => {
   const held = heldAt("game-master", { reviewedBy: TWO, issues: ["a fault"], written: true })
   const said = movedOf(advanced(held, MASTER, { kind: "beats", beats: ["mended"] }, TWO))
-  expect(said.status).toBe("writer")
-  expect([said.starts, said.values["ownLength"]]).toEqual([[], 0])
+  expect([said.status, said.starts, said.values["ownLength"]]).toEqual(["writer", [], undefined])
 })
 
 test("a reviewer not the last adds itself and its issues, leaving the turn with the reviewers", () => {
@@ -78,17 +77,21 @@ test("a reviewer not the last adds itself and its issues, leaving the turn with 
     reviewedBy: [by(VOICE)],
     issues: "txt",
   })
-  expect([said.starts, said.stopsCaller, said.issues]).toEqual([[], true, found.issues])
+  expect([said.starts, said.stopsCaller, said.issues]).toEqual([
+    [],
+    true,
+    [`${VOICE}: ${found.issues[0]}`],
+  ])
 })
 
 test("the last reviewer sends a turn with issues back to the game master", () => {
-  const held = heldAt("reviewers", { reviewedBy: [VOICE], issues: ["an earlier fault"] })
+  const held = heldAt("reviewers", { reviewedBy: [VOICE], issues: [`${VOICE}: a fault`] })
   const found = { kind: "review", reviewer: continuity.slug, issues: [] } as const
   const said = movedOf(advanced(held, REVIEWER, found, TWO))
   expect(said.status).toBe("game-master")
   expect(said.values).toEqual({
     stepStatus: at("game-master"),
-    reviewedBy: [by(VOICE), by(continuity.slug)],
+    reviewedBy: [by(continuity.slug)],
     issues: "txt",
   })
   expect([said.issues, said.stopsCaller]).toEqual([null, true])
@@ -121,7 +124,7 @@ test("a clean review of a turn with no prose yet sends it to the writer", () => 
 test("a reviewer reviews a turn once", () => {
   const held = heldAt("reviewers", { reviewedBy: [VOICE] })
   const found = { kind: "review", reviewer: VOICE, issues: [] } as const
-  expect(refusalOf(advanced(held, REVIEWER, found, TWO))).toContain("reviewed once")
+  expect(refusalOf(advanced(held, REVIEWER, found, TWO))).toContain("already")
 })
 
 test("a reviewer no page names is refused", () => {

@@ -81,6 +81,7 @@ import {
   type Noun,
   noticeOf,
   PLAYER,
+  type Repair,
   STEP_SENDER,
   TURN,
   type TurnStep,
@@ -210,7 +211,8 @@ export async function noticesSent(
   after: Told,
   toRead: readonly string[] = [],
   noun: Noun = TURN,
-  toMaster = ""
+  toMaster = "",
+  repairs: readonly Repair[] = []
 ): Promise<undefined> {
   if (status === PLAYER) await readyTold(reach.readyPushed, root, game, turn, after.report, noun)
   if (status === PLAYER && noun === CHAPTER) await backlogTold(reach.backlogKept, game, after)
@@ -224,7 +226,7 @@ export async function noticesSent(
   const story = reach.storyOf(root, game)
   const intent = status === GAME_MASTER ? intentLine(story?.intent) : ""
   for (const to of noticedOf(master, game)) {
-    const said = noticeOf(turn, status, reach.changedLore(root, to), noun)
+    const said = noticeOf(turn, status, reach.changedLore(root, to), noun, repairs)
     const more = to === master ? `${toMaster}${intent}` : ""
     const why = await reach.notify(to, `${said}${cast}${more}`)
     if (why === null) after.report.push(`told\t${to}`)

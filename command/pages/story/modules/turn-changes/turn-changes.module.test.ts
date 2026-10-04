@@ -7,6 +7,7 @@ import {
   cacheNamed,
   changesChecked,
   clearedOf,
+  mendedOver,
   placedAmong,
 } from "akasha/command/pages/story/modules/turn-changes/turn-changes.module.code.ts"
 import { beatsHeld } from "akasha/command/pages/story/modules/turn-scenes/turn-scenes.module.code.ts"
@@ -156,9 +157,44 @@ test("a game master's first run on a chapter holding no mechanics issues clears 
   const said = advanced(held, MASTER, handed, [], ["mechanics"], [], ADMITTED, ["mechanics"])
   if ("refused" in said) throw new Error(said.refused)
   const cleared = clearedOf({ ...said.values, title: "The Gate" }, said)
-  expect(cleared.clears).toEqual(["recordedBy", "mechanicsIssues"])
-  expect(Object.keys(cleared.values)).toEqual(["stepStatus", "beats", "ownLength", "title"])
+  expect(cleared.clears).toEqual(["recordedBy", "mechanicsIssues", "mechanicsSentBack"])
+  expect(Object.keys(cleared.values)).toEqual(["stepStatus", "beats", "title"])
   expect(clearedOf({ title: "The Gate" }, movedOf({}))).toEqual({ values: { title: "The Gate" } })
+})
+
+const THREE = ["Elsie trains.", "Elsie rests.", "Elsie eats."]
+
+const SHOWN = { beat: 1, cover: "image/image-a", coverAfter: "Elsie trains", setting: "the yard" }
+
+const FED = { ...LEARNS, beat: 3, fact: "Elsie is fed" }
+
+const RECORDED = {
+  ...PLANNED,
+  beats: THREE,
+  changes: [GAIN],
+  memory: [LEARNS, FED],
+  pictured: [SHOWN],
+}
+
+test("a mend moving one beat keeps every part before it and works the rest out again", () => {
+  const mend = { beats: ["Elsie trains.", "Elsie sleeps.", "Elsie eats."], scenes: [] }
+  expect(mendedOver(RECORDED, mend)).toEqual({
+    ...mend,
+    changes: [GAIN],
+    memory: [],
+    pictured: [SHOWN],
+  })
+  const told = THREE.map((prose, at) => ({ beat: at + 1, prose }))
+  const whole = mendedOver({ ...RECORDED, prose: told }, { beats: THREE, scenes: [] })
+  expect(whole).toEqual({ ...RECORDED, prose: told })
+  const body = beatsBodyOf(RECORDED, movedOf({ planned: mend }))
+  expect(body).toBe(beatsWritten({ ...mend, changes: [GAIN], memory: [], pictured: [SHOWN] }))
+})
+
+test("a change the turn holds handed in again by a seat running over a kept beat is checked once", () => {
+  const held = heldAt("mechanics", { changes: [GAIN] })
+  const again = { kind: "record", recorder: "mechanics", changes: [GAIN] } as const
+  expect(changesChecked(READING, held, again)).toBeNull()
 })
 
 test("a mechanics seat's changes are checked with the changes the turn holds already", () => {

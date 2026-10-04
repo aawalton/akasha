@@ -4,6 +4,11 @@ import { playedTurn } from "akasha/command/argument/pages/played-turn.argument.t
 import { recorder as recorderArgument } from "akasha/command/argument/pages/recorder.argument.ts"
 import { reviewer as reviewerArgument } from "akasha/command/argument/pages/reviewer.argument.ts"
 import { writtenChapter } from "akasha/command/argument/pages/written-chapter.argument.ts"
+import {
+  type Noun,
+  type Repair,
+  repairSaid,
+} from "akasha/story/world/stories/played/turns/modules/turn-lifecycle/turn-lifecycle.module.code.ts"
 
 export type Reviewer = {
   readonly slug: string
@@ -29,8 +34,9 @@ export type Prompting = {
   readonly lore: readonly string[]
   readonly written: readonly string[]
   readonly described?: readonly string[]
-  readonly noun?: "turn" | "chapter"
+  readonly noun?: Noun
   readonly master?: string | null
+  readonly repairs?: readonly Repair[]
 }
 
 const PATH = "<path>"
@@ -83,8 +89,20 @@ function advancing(asked: Prompting): string {
   return `${asked.calledAs} ${said} ${asked.address}`
 }
 
+export function mechanicsIssuesLine(noun: string): string {
+  return `Any \`.mechanics-issues.txt\` file beside the ${noun} holds what the mechanics step found in its beats: check each against the beats and the prose, and raise as your own issue each one that still holds and your instructions cover.`
+}
+
 export function recordedLine(noun: string): string {
-  return `What the steps before you recorded of the ${noun} is in its beats file, the \`.beats.jsonl\` file beside it, one json line to a beat: its \`event\`, its time, place and who is there, the numbers and items it changes under \`changes\`, and who learns which fact and what the reader is shown under \`memory\`, and what each picture shows under \`pictured\`. Its images are on the ${noun} at \`cover\` and \`scenes\`. Numbers and knowers reach their pages only as the ${noun} reaches its player, so read this ${noun}'s part in those files rather than on the pages. Any \`.mechanics-issues.txt\` file beside it holds what the mechanics step found in its beats: check each against the beats and the prose, and raise as your own issue each one that still stands and your instructions cover.`
+  return `What the steps before you recorded of the ${noun} is in its beats file, the \`.beats.jsonl\` file beside it, one json line to a beat: its \`event\`, its time, place and who is there, the numbers and items it changes under \`changes\`, and who learns which fact and what the reader is shown under \`memory\`, and what each picture shows under \`pictured\`. Its images are on the ${noun} at \`cover\` and \`scenes\`. Numbers and knowers reach their pages only as the ${noun} reaches its player, so read this ${noun}'s part in those files rather than on the pages. ${mechanicsIssuesLine(noun)}`
+}
+
+const KEPT_LINE =
+  "The beats file keeps what the run before settled of every beat before the first one the mend moved: work from that beat on, and hand in nothing again that the file already holds."
+
+function repairsSaid(asked: Prompting, noun: Noun, own: string): readonly string[] {
+  const repairs = asked.repairs ?? []
+  return repairs.length === 0 ? [] : ["", repairSaid(noun, repairs), own]
 }
 
 export function reviewerPrompt(asked: Prompting, reviewer: Reviewer): string {
@@ -97,6 +115,11 @@ export function reviewerPrompt(asked: Prompting, reviewer: Reviewer): string {
     ...describedSaid(asked.described),
     "",
     recordedLine(noun),
+    ...repairsSaid(
+      asked,
+      noun,
+      `Your own earlier issues are the lines opening \`${reviewer.slug}: \`: check whether the mend answered each, and hand in again each one it left and any new fault the mend made.`
+    ),
     "",
     `Read your instructions, then the ${noun} and its prose, and do what the instructions say. When you are done, write the issues you found to a file, one issue to a line, and advance the ${noun} once:`,
     "",
@@ -115,6 +138,9 @@ export function mechanicsPrompt(asked: Prompting, recorder: Recorder): string {
     `The ${noun} is \`${asked.turnAt}\`, its beats in the \`.beats.jsonl\` file beside it. Your instructions are \`${recorder.instructionsAt}\`, beside the story recorder page \`${recorder.at}\`.`,
     ...writtenSaid(asked.written, noun),
     "",
+    mechanicsIssuesLine(noun),
+    ...repairsSaid(asked, noun, KEPT_LINE),
+    "",
     `Read your instructions, then the ${noun} and its beats, and do what the instructions say. Draft no edit: write your changes to a file, one json change to a line, and each beat that cannot work to an issues file, one issue to a line. Then advance the ${noun} once:`,
     "",
     `${advancing(asked)} ${recorderArgument.said} ${recorder.slug} ${changesFile.said} ${PATH} ${issuesFile.said} ${PATH}`,
@@ -131,6 +157,9 @@ export function recorderPrompt(asked: Prompting, recorder: Recorder): string {
     "",
     `The ${noun} is \`${asked.turnAt}\`, with its prose beside it. Your instructions are \`${recorder.instructionsAt}\`, beside the story recorder page \`${recorder.at}\`.`,
     ...writtenSaid(asked.written, noun),
+    "",
+    mechanicsIssuesLine(noun),
+    ...repairsSaid(asked, noun, KEPT_LINE),
     "",
     `Read your instructions, then the ${noun} and its prose, and do what the instructions say. Draft your edits with \`${DRAFTING}\`, never land them: your advance lands them with your move. When your edits are drafted, advance the ${noun} once:`,
     "",

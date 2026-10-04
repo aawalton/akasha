@@ -106,7 +106,7 @@ test("the last reviewer's issues send the turn back to the game master, starting
   expect(answer.refusals).toEqual([])
   expect(into.folded[0]?.values["stepStatus"]).toBe(`${stepStatus.slug}/game-master`)
   expect(into.starts).toEqual([])
-  expect(into.notices).toEqual(toldAll("game-master"))
+  expect(into.notices[0]).toContain("back for repair")
   expect(into.stops).toEqual([reviewer])
 })
 
@@ -125,7 +125,7 @@ test("a reviewer that is not the last lands its issues, tells nobody and stops i
     reviewedBy: ["story-reviewer/voice"],
     issues: "txt",
   })
-  expect(into.folded[0]?.bodies).toEqual({ issues: '"opens" - it was locked\n' })
+  expect(into.folded[0]?.bodies).toEqual({ issues: 'voice: "opens" - it was locked\n' })
   expect(into.notices).toEqual([])
   expect(into.stops).toEqual([reviewer])
 })

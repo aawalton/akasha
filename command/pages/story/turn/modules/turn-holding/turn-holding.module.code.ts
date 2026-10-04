@@ -9,6 +9,8 @@ import {
   CHAPTER,
   type Held,
   linesIn,
+  type Moved,
+  type Repair,
   stepIn,
 } from "akasha/story/world/stories/played/turns/modules/turn-lifecycle/turn-lifecycle.module.code.ts"
 import { storyWritten } from "akasha/story/world/stories/written/story-written.page-type.ts"
@@ -52,6 +54,32 @@ function linesBeside(turn: Turn, key: string, propertySlug: string, textOf: Text
   } catch {
     return []
   }
+}
+
+const ISSUES_HELD = "txt"
+
+function linesLeft(
+  said: Moved,
+  key: string,
+  lines: readonly string[] | null | undefined,
+  was: readonly string[]
+): readonly string[] {
+  if (key in said.values && said.values[key] === undefined) return []
+  return lines ?? was
+}
+
+export function repairsAfter(at: string, held: Held, said: Moved): readonly Repair[] {
+  const left = [
+    [issuesFile.propertySlug, linesLeft(said, ISSUES, said.issues, held.issues)],
+    [
+      mechanicsIssuesFile.propertySlug,
+      linesLeft(said, MECHANICS_ISSUES, said.mechanicsIssues, held.mechanicsIssues ?? []),
+    ],
+  ] as const
+  return left.flatMap(([slug, lines]) => {
+    const file = besideAt(at, slug, ISSUES_HELD)
+    return lines.length === 0 || file === null ? [] : [{ file, faults: lines.length }]
+  })
 }
 
 export function heldOf(turn: Turn, textOf: TextOf = () => ""): Held | { readonly refused: string } {
