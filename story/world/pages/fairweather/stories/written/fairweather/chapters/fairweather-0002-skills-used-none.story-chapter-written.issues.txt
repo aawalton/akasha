@@ -1,2 +1,3 @@
 holdings: beat 63: three pork pies are eaten, and no beat buys them and no purse pays for them
-style: "and the last boat passed, and the canal went quiet" - No Sign-Off
+style: "while the voices along the water thinned to one, and then to none" - No Sign-Off
+style: "She hums at the round window until the canal goes quiet." (beat 80) - No Sign-Off
