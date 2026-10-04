@@ -1,5 +1,4 @@
 scene: "She had read them all yesterday" - she last read the F-rank notices on June 1, two days before
-holdings: beat 77: Tamsin's and Tilly's lantern shares of the goat pay reach no purse change
 continuity: beat 3 "under the old flower market" - Elsie knows it with no one telling her
 style: "and round again, and ate none of it" - Plain Negation
 style: "That's what brave is, Tilly. That's the whole of it." - No Tropes
