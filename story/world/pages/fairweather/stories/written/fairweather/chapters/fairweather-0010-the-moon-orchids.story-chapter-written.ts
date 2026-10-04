@@ -11,7 +11,7 @@ export const fairweather0010TheMoonOrchids = {
   story: "story-written/fairweather",
   ownLength: 10476,
   prose: "txt",
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/reviewers",
   beats: "jsonl",
   issues: "txt",
   lore: [
@@ -44,6 +44,7 @@ export const fairweather0010TheMoonOrchids = {
     "story-recorder/inventory",
     "story-recorder/mechanics",
     "story-recorder/picture",
+    "story-recorder/memory",
   ],
   scenes: [
     "image/image-91a983eb379732ec",
