@@ -9,9 +9,9 @@ export const fairweather0009TheCopperBaths = {
   unit: "unit/words",
   title: "The Copper Baths",
   story: "story-written/fairweather",
-  ownLength: 10345,
+  ownLength: 10351,
   prose: "txt",
-  stepStatus: "step-status/writer",
+  stepStatus: "step-status/recorders",
   beats: "jsonl",
   issues: "txt",
   lore: [
