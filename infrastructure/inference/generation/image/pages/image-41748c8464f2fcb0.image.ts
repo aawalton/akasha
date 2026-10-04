@@ -4,6 +4,8 @@ export const image41748c8464f2fcb0 = {
   id: "01a108f5-7fab-7756-a578-90ec95d7cea0",
   type: "page-type/image",
   slug: "image-41748c8464f2fcb0",
+  title: "Pink Strings on the Rooftop at Night",
+  albums: ["image-album/hotel-pool"],
   service: "zimage",
   operation: "generate",
   model: "beyond-reality-3",

@@ -4,6 +4,8 @@ export const imageE7ab8de593eb1071 = {
   id: "01a108f4-ca68-7dfb-9743-1668d973533d",
   type: "page-type/image",
   slug: "image-e7ab8de593eb1071",
+  title: "Rising Out in Wet White",
+  albums: ["image-album/hotel-pool"],
   service: "zimage",
   operation: "generate",
   model: "beyond-reality-3",

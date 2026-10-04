@@ -4,6 +4,8 @@ export const imageA6d4ecaf4d2ba4fc = {
   id: "01a108f5-a359-73c4-acf8-972326f0b786",
   type: "page-type/image",
   slug: "image-a6d4ecaf4d2ba4fc",
+  title: "Arched to the Sun by the Lemon Trees",
+  albums: ["image-album/hotel-pool"],
   service: "zimage",
   operation: "generate",
   model: "beyond-reality-3",

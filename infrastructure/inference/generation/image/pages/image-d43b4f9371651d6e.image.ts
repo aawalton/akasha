@@ -4,6 +4,8 @@ export const imageD43b4f9371651d6e = {
   id: "01a108f4-ee15-7e8b-81c0-5b104a3bc396",
   type: "page-type/image",
   slug: "image-d43b4f9371651d6e",
+  title: "Sun Oil on the Daybed",
+  albums: ["image-album/hotel-pool"],
   service: "zimage",
   operation: "generate",
   model: "beyond-reality-3",

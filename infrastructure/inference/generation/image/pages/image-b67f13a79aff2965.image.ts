@@ -4,6 +4,8 @@ export const imageB67f13a79aff2965 = {
   id: "01a108f4-a6a0-702f-8d98-cc0bfbfde679",
   type: "page-type/image",
   slug: "image-b67f13a79aff2965",
+  title: "Over Her Shoulder on the Lounger",
+  albums: ["image-album/hotel-pool"],
   service: "zimage",
   operation: "generate",
   model: "beyond-reality-3",
