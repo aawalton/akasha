@@ -25,5 +25,5 @@ export const fairweather0005 = {
     "place/fairweather-lanternmere",
     "place/fairweather-underbloom",
   ],
-  recordedBy: ["story-recorder/plan"],
+  recordedBy: ["story-recorder/plan", "story-recorder/inventory"],
 } as const satisfies StoryChapterWritten

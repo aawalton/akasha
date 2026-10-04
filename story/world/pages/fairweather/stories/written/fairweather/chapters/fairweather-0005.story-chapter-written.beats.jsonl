@@ -3,7 +3,7 @@
 {"beat":3,"event":"She opens her window by wishing and reads the new word under Tether: Hold."}
 {"beat":4,"event":"She says it aloud twice, once like a gaoler and once like a hug, and settles on the hug."}
 {"beat":5,"event":"She waters the plants and tells Mrs Pennywhistle the fern that she has levelled up."}
-{"beat":6,"event":"Downstairs the baker sets out a honey bun for her unasked, and Elsie pays for it.","at":"2026-06-05T06:30:00.000Z"}
+{"beat":6,"event":"Downstairs the baker sets out a honey bun for her unasked, and Elsie pays for it.","at":"2026-06-05T06:30:00.000Z","changes":[{"page":"metric-character-currency/fairweather-elsie","note":"One pip for the honey bun the baker set out: 110 → 109 pips","key":"value","from":110,"to":109}]}
 {"beat":7,"event":"Elsie asks if the honey cake in the window has a recipe; the baker says it lives in her hands."}
 {"beat":8,"event":"Elsie says Tamsin's mother loves honey cake, and asks if she might learn it one day."}
 {"beat":9,"event":"The baker looks at her a long moment and says: tonight, after closing, bring the firewood money."}
@@ -15,7 +15,7 @@
 {"beat":15,"event":"Tilly arrives at a run with a pear fizz for each of them, and they drink them at the board.","at":"2026-06-05T08:30:00.000Z","arrive":["character-other/fairweather-tilly"]}
 {"beat":16,"event":"Elsie wipes soot off Tilly's cheek with her thumb, and Tilly forgets what she was saying."}
 {"beat":17,"event":"Cora comes out of the charcoal door and says the guildmaster wants Elsie upstairs, with Tamsin.","at":"2026-06-05T08:40:00.000Z","arrive":["character-other/fairweather-cora"]}
-{"beat":18,"event":"Elsie buys Cora a black tea with one sugar at the hall counter and hands it to her."}
+{"beat":18,"event":"Elsie buys Cora a black tea with one sugar at the hall counter and hands it to her.","changes":[{"page":"metric-character-currency/fairweather-elsie","note":"Two pips for Cora's black tea, one sugar, at the hall counter: 109 → 107 pips","key":"value","from":109,"to":107}]}
 {"beat":19,"event":"Cora takes it without a word, and drinks it on the stairs."}
 {"beat":20,"event":"Tilly waits by the board while Elsie, Tamsin and Cora go up to the guildmaster's office.","at":"2026-06-05T08:50:00.000Z","leave":["character-other/fairweather-tilly"]}
 {"beat":21,"event":"The guildmaster has grey hair and a sword on the wall, and asks Cora for the ledger."}
@@ -57,12 +57,12 @@
 {"beat":57,"event":"They climb down; Tamsin goes first and catches Elsie off the last rung, cat and all.","at":"2026-06-05T11:50:00.000Z"}
 {"beat":58,"event":"The old woman cries over Pudding and gives them each a sugared bun, eaten in the lane."}
 {"beat":59,"event":"Tilly picks ginger hairs off Elsie's skirt one by one, carefully, and goes pink."}
-{"beat":60,"event":"At the Tipsy Heron Tamsin pays for stew for herself, Elsie and Tilly, and Cora pays for her own.","at":"2026-06-05T12:30:00.000Z"}
+{"beat":60,"event":"At the Tipsy Heron Tamsin pays for stew for herself, Elsie and Tilly, and Cora pays for her own.","at":"2026-06-05T12:30:00.000Z","changes":[{"page":"metric-character-currency/fairweather-tamsin","note":"Tamsin pays three bowls of stew at four pips: 103 → 91 pips","key":"value","from":103,"to":91}]}
 {"beat":61,"event":"Tilly asks Tamsin if the sleeping is the Tether; Elsie says she honestly doesn't know."}
 {"beat":62,"event":"Cora says she will write it down if it happens again."}
 {"beat":63,"event":"Under the tavern noise Tilly asks Elsie if a Tether can hold two people."}
 {"beat":64,"event":"Elsie says she supposes so, if the other one wanted it; Tilly goes scarlet into her stew."}
-{"beat":65,"event":"At the guild hall the clerk pays the cat notice, and Elsie, Tamsin and Tilly each pocket a third.","at":"2026-06-05T13:30:00.000Z","place":"place/fairweather-guild-hall"}
+{"beat":65,"event":"At the guild hall the clerk pays the cat notice, and Elsie, Tamsin and Tilly each pocket a third.","at":"2026-06-05T13:30:00.000Z","place":"place/fairweather-guild-hall","changes":[{"page":"metric-character-currency/fairweather-elsie","note":"Her share of the two-lantern cat pay: 6 pips, the odd pips to the others: 107 → 113","key":"value","from":107,"to":113},{"page":"metric-character-currency/fairweather-tamsin","note":"Tamsin pockets 7 pips of the two-lantern cat pay: 91 → 98","key":"value","from":91,"to":98},{"page":"metric-character-currency/fairweather-tilly","note":"Tilly pockets 7 pips of the two-lantern cat pay: 88 → 95","key":"value","from":88,"to":95}]}
 {"beat":66,"event":"Cora says she has her report to write, and goes in at the charcoal door.","at":"2026-06-05T13:45:00.000Z","leave":["character-other/fairweather-cora"]}
 {"beat":67,"event":"Tamsin says her mother's barge ties up on the Long Cut tomorrow, and asks Elsie to meet her."}
 {"beat":68,"event":"Elsie says yes before she has finished, and says she will bring honey cake."}
@@ -73,8 +73,8 @@
 {"beat":73,"event":"At the Honeycomb door Tamsin says tomorrow, early, and goes off whistling.","at":"2026-06-05T15:00:00.000Z","leave":["character-other/fairweather-tamsin"]}
 {"beat":74,"event":"In the attic Elsie writes: Tamsin's mother, the barge, the Long Cut, honey cake.","at":"2026-06-05T15:10:00.000Z","place":"place/fairweather-honeycomb","present":["character-player/fairweather-elsie"]}
 {"beat":75,"event":"She sleeps an hour with the round window open and the canal sounds coming in."}
-{"beat":76,"event":"At closing she comes down with the firewood money, and the baker ties an apron on her.","at":"2026-06-05T18:00:00.000Z"}
-{"beat":77,"event":"The baker sets a whole comb of honey on the table; Elsie pays for that too, and the baker lets her."}
+{"beat":76,"event":"At closing she comes down with the firewood money, and the baker ties an apron on her.","at":"2026-06-05T18:00:00.000Z","changes":[{"page":"metric-character-currency/fairweather-elsie","note":"Two pips to the baker for the oven's firewood: 113 → 111 pips","key":"value","from":113,"to":111}]}
+{"beat":77,"event":"The baker sets a whole comb of honey on the table; Elsie pays for that too, and the baker lets her.","changes":[{"page":"metric-character-currency/fairweather-elsie","note":"Five pips to the baker for a whole comb of honey: 111 → 106 pips","key":"value","from":111,"to":106},{"page":"metric-character-currency/fairweather-elsie","note":"Elsie ends the chapter with 106 pips: 10 lanterns, 6 pips","key":"history","append":{"turn":5,"value":106}},{"page":"metric-character-currency/fairweather-tamsin","note":"Tamsin ends the chapter with 98 pips","key":"history","append":{"turn":5,"value":98}},{"page":"metric-character-currency/fairweather-tilly","note":"Tilly ends the chapter with 95 pips","key":"history","append":{"turn":5,"value":95}}]}
 {"beat":78,"event":"The baker says nothing is written down, so watch; Elsie watches every move."}
 {"beat":79,"event":"She melts the comb slowly while Elsie stirs and hums, and the baker says hum less."}
 {"beat":80,"event":"Elsie writes each step in her notebook in a floury pencil, and the baker reads over her shoulder."}
