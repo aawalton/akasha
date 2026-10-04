@@ -74,7 +74,6 @@ export const fairweatherTamsin = {
         "lore-disclosure/game-master",
         "character-other/fairweather-tamsin",
         "character-player/fairweather-elsie",
-        "character-other/fairweather-tilly",
         "character-other/fairweather-cora",
       ],
     },
@@ -90,10 +89,7 @@ export const fairweatherTamsin = {
       fact: "Tamsin Reyes is a Berserker of E-rank.",
       knowers: ["lore-disclosure/game-master", "character-player/fairweather-elsie"],
     },
-    {
-      fact: "Tamsin has a bunk at a lodging house by the docks.",
-      knowers: ["lore-disclosure/game-master"],
-    },
+
     {
       fact: "Tamsin has been to the Glasswood's edge a dozen times, and past the white posts twice.",
       knowers: ["lore-disclosure/game-master", "character-other/fairweather-tamsin"],
