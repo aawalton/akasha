@@ -17,6 +17,7 @@ export const climb0001TheBathhouse = {
     "image/image-892752b8fa9b73d4",
     "image/image-19895da9aa989499",
     "image/image-78c2001087ea554d",
+    "image/image-8a24376c0240b0a2",
     "image/image-81be87e676bea1bd",
     "image/image-285348dd980cc2d5",
     "image/image-c2bd3bf4578ff086",
