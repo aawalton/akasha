@@ -103,6 +103,10 @@ export const overwhereIOdileVarne = {
       fact: "For that silence she offers to write Nala papers as a sworn hunter of Wendlow, under her seal.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Papers under a magistrate's seal answer any gate, reeve or watch that asks who a stranger is.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
