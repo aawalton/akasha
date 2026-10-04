@@ -54,7 +54,8 @@ export const writer = {
       directiveKind: "directive-kind/rule",
       name: "Answer The Issues",
       act: "When the turn or chapter carries issues, change its prose to answer each one where it lands.",
-      warrant: "Each is reviewed once, so an issue the repair leaves reaches the reader.",
+      warrant:
+        "The reviewer that raised an issue reviews the repair, and an issue left sends the page round again.",
       aids: [
         "The issues are the `.issues.txt` file beside the turn, one to a line.",
         "The game master has mended the beats first, so write the beats as they are now.",

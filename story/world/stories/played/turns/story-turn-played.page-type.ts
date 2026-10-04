@@ -83,21 +83,20 @@ export const storyTurnPlayed = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement:
-        "A turn the reviewers find issues in runs again from game-master, through every step after it.",
+      statement: "A turn the reviewers find issues in comes back to game-master for repair.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A turn has one round of review.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A turn goes back from mechanics to game-master at most once in each run.",
+      statement: "A repaired turn runs again only the seats its mend and its issues call for.",
     },
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "The reviewers send a turn back at most once, and mechanics once in each run of its seats.",
+        "A turn goes back from mechanics to game-master each time mechanics issues remain.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A turn goes round until no reviewer and no mechanics seat has an issue left.",
     },
     {
       decisionKind: "decision-kind/departure",

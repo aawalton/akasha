@@ -54,7 +54,7 @@ export const gameMaster = {
         "After each mend, check the beats after it for what it moved: times, places, who knows what.",
         "Leave the beat as it is where the issue is wrong.",
         "A page back for repair is mended, never beaten again.",
-        "A mended beat keeps the numbers and memories the recorders settled on it.",
+        "Each beat before the first one you move keeps the numbers and memories settled on it.",
         "An issue only about the prose leaves the beats as they are and goes on to the writer.",
         "Send an issue on a description to the world builder, and advance once it is landed.",
       ],
