@@ -4,6 +4,8 @@ export const image044917d56553d724 = {
   id: "01a108f6-c04d-72ff-874d-e1a35a1a78c1",
   type: "page-type/image",
   slug: "image-044917d56553d724",
+  title: "Copper Curls on the Lit Step",
+  albums: ["image-album/hotel-pool"],
   service: "zimage",
   operation: "generate",
   model: "beyond-reality-3",

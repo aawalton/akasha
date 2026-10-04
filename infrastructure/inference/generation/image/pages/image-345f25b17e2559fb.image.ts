@@ -4,6 +4,8 @@ export const image345f25b17e2559fb = {
   id: "01a108f6-9c70-77ab-8950-55afa9203feb",
   type: "page-type/image",
   slug: "image-345f25b17e2559fb",
+  title: "One Thumb in the String",
+  albums: ["image-album/hotel-pool"],
   service: "zimage",
   operation: "generate",
   model: "beyond-reality-3",

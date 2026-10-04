@@ -4,6 +4,8 @@ export const image3ff22845a0628970 = {
   id: "01a108f6-78f2-7042-95e6-0689f5655734",
   type: "page-type/image",
   slug: "image-3ff22845a0628970",
+  title: "Floating Among the Petals",
+  albums: ["image-album/hotel-pool"],
   service: "zimage",
   operation: "generate",
   model: "beyond-reality-3",

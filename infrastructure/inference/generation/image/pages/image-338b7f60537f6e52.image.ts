@@ -4,6 +4,8 @@ export const image338b7f60537f6e52 = {
   id: "01a108f6-e404-7a10-9bc4-18128871169c",
   type: "page-type/image",
   slug: "image-338b7f60537f6e52",
+  title: "Arched on the Infinity Edge",
+  albums: ["image-album/hotel-pool"],
   service: "zimage",
   operation: "generate",
   model: "beyond-reality-3",
