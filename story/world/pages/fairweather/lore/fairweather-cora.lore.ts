@@ -13,7 +13,7 @@ export const fairweatherCora = {
       knowers: ["lore-disclosure/game-master", "character-other/fairweather-cora"],
     },
     {
-      fact: "Cora is tall and willowy, with a fine-boned idol's face, narrow shoulders and small high breasts.",
+      fact: "Cora is tall and willowy, with a fine-boned idol's face, narrow shoulders and a slight build.",
       knowers: ["lore-disclosure/game-master", "character-other/fairweather-cora"],
     },
     {
