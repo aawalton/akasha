@@ -49,14 +49,14 @@
 {"beat":49,"event":"The bath-keeper peers down the ladder, sees clean water, and whoops.","at":"2026-06-09T09:50:00.000Z"}
 {"beat":50,"event":"She pays them the notice on the spot, and Elsie, Tamsin and Tilly share it out.","changes":[{"page":"metric-character-currency/fairweather-elsie","note":"Her share of the four-lantern eel notice: 13 pips, 112 → 125","key":"value","from":112,"to":125},{"page":"metric-character-currency/fairweather-tamsin","note":"Tamsin's share of the eel notice: 13 pips, 114 → 127","key":"value","from":114,"to":127}]}
 {"beat":51,"event":"A window opens in front of Elsie in the boiler room: Level up."}
-{"beat":52,"event":"Elsie gives Tilly the odd pips, and Cora writes it in her ledger one-handed."}
+{"beat":52,"event":"Elsie gives Tilly the odd pips, and Cora writes it in her ledger one-handed.","changes":[{"page":"metric-character-currency/fairweather-tilly","note":"Tilly's share, 13 pips plus the odd pip Elsie gives her: 124 → 138","key":"value","from":124,"to":138}]}
 {"beat":53,"event":"The keeper says it's a women's day, and they have earned the pools for nothing."}
 {"beat":54,"event":"Tamsin is out of her jerkin before the keeper finishes speaking."}
 {"beat":55,"event":"Cora says she is on duty, and will wait in the hall."}
 {"beat":56,"event":"Elsie says Cora can watch her just as well from the pool, and takes her good hand."}
 {"beat":57,"event":"Cora looks at the ledger, at Elsie, and lets herself be pulled along."}
 {"beat":58,"event":"The great warm pool is green-tiled under the copper dome, full of steam and women's voices.","at":"2026-06-09T10:15:00.000Z"}
-{"beat":59,"event":"Elsie slips into the water in her shift, sighs, and floats on her back with her eyes shut."}
+{"beat":59,"event":"Elsie slips into the water in her shift, sighs, and floats on her back with her eyes shut.","changes":[{"page":"story-item/fairweather-adventurers-outfit","note":"Elsie takes off her outfit and goes into the pool in her shift","key":"slot","from":"item-slot/body","to":null}]}
 {"beat":60,"event":"Tamsin dives in and comes up beside her, and stares, and then looks very hard at the ceiling."}
 {"beat":61,"event":"Tilly sits on the steps in her shift up to her chin, goggles still on her head, crimson."}
 {"beat":62,"event":"Elsie paddles over and takes Tilly's goggles off and sets them on the side."}
@@ -75,10 +75,10 @@
 {"beat":75,"event":"Elsie says this is the nicest morning of her life, and leans her head on Cora's shoulder."}
 {"beat":76,"event":"Cora stops breathing, and then very slowly lets her head rest against Elsie's."}
 {"beat":77,"event":"They plunge in the cold pool after, and Tilly shrieks so loud the keeper comes running.","at":"2026-06-09T11:40:00.000Z"}
-{"beat":78,"event":"Dressed again on the steps outside, Cora pins her hair back up, every strand.","at":"2026-06-09T12:15:00.000Z"}
+{"beat":78,"event":"Dressed again on the steps outside, Cora pins her hair back up, every strand.","at":"2026-06-09T12:15:00.000Z","changes":[{"page":"story-item/fairweather-adventurers-outfit","note":"Elsie is dressed in her outfit again on the steps outside","key":"slot","from":null,"to":"item-slot/body"}]}
 {"beat":79,"event":"Elsie says it's a shame, and Cora's ears turn pink."}
 {"beat":80,"event":"Cora says she has her report to write, and goes, one hand on her bandage.","at":"2026-06-09T12:30:00.000Z","leave":["character-other/fairweather-cora"]}
-{"beat":81,"event":"At the Tipsy Heron Tamsin pays for stew for the three of them, to celebrate eels.","at":"2026-06-09T13:00:00.000Z","place":"place/fairweather-lanternmere"}
+{"beat":81,"event":"At the Tipsy Heron Tamsin pays for stew for the three of them, to celebrate eels.","at":"2026-06-09T13:00:00.000Z","place":"place/fairweather-lanternmere","changes":[{"page":"metric-character-currency/fairweather-tamsin","note":"Tamsin buys stew for three at the Tipsy Heron: 12 pips, 127 → 115","key":"value","from":127,"to":115},{"page":"metric-character-currency/fairweather-elsie","note":"Elsie ends the chapter with 125 pips: 12 lanterns, 5 pips","key":"history","append":{"turn":9,"value":125}},{"page":"metric-character-currency/fairweather-tamsin","note":"Tamsin ends the chapter with 115 pips","key":"history","append":{"turn":9,"value":115}},{"page":"metric-character-currency/fairweather-tilly","note":"Tilly ends the chapter with 138 pips","key":"history","append":{"turn":9,"value":138}}]}
 {"beat":82,"event":"Tilly says they're three notices from E now, and the blue house is four suns."}
 {"beat":83,"event":"Tamsin says at four lanterns a notice that's a great many eels."}
 {"beat":84,"event":"Elsie says then they'll be very good at eels, and Tilly laughs into her stew."}
