@@ -47,6 +47,10 @@ export const storyState = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A story's own turns and chapters are no pages a beat must make.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement:
         "A page made before the first turn that states nothing of being shown is the story's opening.",
     },

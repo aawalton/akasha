@@ -168,20 +168,22 @@ function reachedIn(story: Story, published: readonly Paged[]): ReadonlySet<strin
   return reached
 }
 
-function openingOf(turns: readonly Paged[]): string | null {
-  const ids = turns.flatMap((one) => {
-    const id = one.value[ID]
-    return typeof id === "string" ? [id] : []
-  })
-  return ids.toSorted()[0] ?? null
+function idsOf(turns: readonly Paged[]): readonly string[] {
+  return turns
+    .flatMap((one) => {
+      const id = one.value[ID]
+      return typeof id === "string" ? [id] : []
+    })
+    .toSorted()
 }
 
 function heldSaid(story: Story, turns: readonly Paged[], published: readonly Paged[]) {
   const reached = reachedIn(story, published)
-  const opening = openingOf(turns)
+  const ids = idsOf(turns)
+  const opening = ids[0] ?? null
   const drift: string[] = []
   for (const one of story.held) {
-    if (reached.has(one.page) || one.unrevealed === true) continue
+    if (ids.includes(one.id) || reached.has(one.page) || one.unrevealed === true) continue
     if (one.unrevealed === false) {
       drift.push(
         `drift${PARTED}${one.page}${PARTED}${UNREVEALED}${PARTED}shown, and no beat shows it`

@@ -183,6 +183,13 @@ test("a page there since after the first turn that no beat makes is named", () =
   )
 })
 
+test("a turn naming the player's character is no page the beats must make", () => {
+  const held = [{ page: `story-turn-played/${FIRST.slug}`, id: OPENED, unrevealed: undefined }]
+  expect(stateLines(heldOver(held, []))).toContain(
+    "drift\tnone: the pages hold every value the beats reach"
+  )
+})
+
 test("a page there before the first turn and stating nothing is the story's opening", () => {
   const held = [
     { page: BOND, id: BEFORE, unrevealed: undefined },
