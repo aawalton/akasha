@@ -13,7 +13,7 @@ export const fairweatherTilly = {
       knowers: ["lore-disclosure/game-master", "character-other/fairweather-tilly"],
     },
     {
-      fact: "Tilly is small and petite, with a sweet doll-like idol's face, narrow shoulders and a flat chest.",
+      fact: "Tilly is small and petite, with a sweet doll-like idol's face, narrow shoulders and a slight frame.",
       knowers: ["lore-disclosure/game-master", "character-other/fairweather-tilly"],
     },
     {
