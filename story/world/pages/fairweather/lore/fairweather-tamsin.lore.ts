@@ -175,7 +175,12 @@ export const fairweatherTamsin = {
     },
     {
       fact: "Nell has never blamed Tamsin for her hand, and has wanted her home every day since.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-tamsin",
+        "character-other/fairweather-nell",
+      ],
     },
     {
       fact: "Tamsin's mother's barge ties up at the Long Cut coal wharf, by the lock, for two days.",
