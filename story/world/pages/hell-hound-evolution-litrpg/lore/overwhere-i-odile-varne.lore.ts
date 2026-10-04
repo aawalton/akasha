@@ -171,6 +171,10 @@ export const overwhereIOdileVarne = {
       fact: "A sworn hunter answers the magistrate's call against outlaws and beasts, paid at the Board's rates.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "The oath is spoken before the bench, one hand on the town book, with the clerk as witness.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
