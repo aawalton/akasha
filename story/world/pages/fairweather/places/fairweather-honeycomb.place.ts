@@ -31,7 +31,11 @@ export const fairweatherHoneycomb = {
     },
     {
       fact: "Agnes Merriweather's honey cake is known all along Thimble Canal, and she has never written it down.",
-      knowers: ["lore-disclosure/game-master", "character-player/fairweather-elsie"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-rosa",
+      ],
     },
     {
       fact: "Her honey cake takes a whole comb of honey, and must rest a night under a cloth before it is cut.",
