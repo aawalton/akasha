@@ -1,4 +1,3 @@
-continuity: "Tilly, going the other way toward Pickle Row" - Elsie never learned Tilly lodges on Pickle Row
 scene: "Elsie had given her the mint leaf an hour ago" - the mint was at 8:00 in beat 9, beat 20 is 10:30
 scene: "Word came in an hour ago with the Hounds' breakfast" - beat 51 is 14:00, the Naming was 10:00
 scene: "the line was still waiting" on the steps - the whole line went in at nine in beat 10
