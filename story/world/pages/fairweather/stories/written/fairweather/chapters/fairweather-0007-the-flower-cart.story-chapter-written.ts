@@ -11,7 +11,7 @@ export const fairweather0007TheFlowerCart = {
   story: "story-written/fairweather",
   ownLength: 9269,
   prose: "txt",
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/reviewers",
   beats: "jsonl",
   issues: "txt",
   lore: [
@@ -43,6 +43,7 @@ export const fairweather0007TheFlowerCart = {
     "story-recorder/inventory",
     "story-recorder/mechanics",
     "story-recorder/picture",
+    "story-recorder/memory",
   ],
   scenes: [
     "image/image-9d3250cbfa28a5e4",
