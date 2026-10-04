@@ -8,13 +8,7 @@ export const fairweatherExplicitness = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement:
-        "Every seat of Fairweather obeys Name The Act, No Refusal and Unframed from arousal.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement:
-        "Name The Act reaches every part the prose notices, and brings no act this story bars.",
+      statement: "Every seat of Fairweather obeys No Refusal and Unframed from arousal.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -75,23 +69,7 @@ export const fairweatherExplicitness = {
       decisionKind: "decision-kind/absence",
       statement: "The prose never steps past the tension.",
     },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "Every part is named plainly, in the word the moment and the speaker would use.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement:
-        "A tender moment says breasts, pussy and making love; a heated one may say tits, cunt and fuck.",
-    },
-    {
-      decisionKind: "decision-kind/absence",
-      statement: "No clinical word such as vulva or penis replaces the word a person would say.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "Naming plainly bars a euphemism, never a gentler word that fits the moment.",
-    },
+
     {
       decisionKind: "decision-kind/absence",
       statement:
