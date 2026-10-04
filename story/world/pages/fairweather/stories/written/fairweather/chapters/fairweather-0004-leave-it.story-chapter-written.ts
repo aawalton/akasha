@@ -11,7 +11,7 @@ export const fairweather0004LeaveIt = {
   story: "story-written/fairweather",
   ownLength: 9771,
   prose: "txt",
-  stepStatus: "step-status/mechanics",
+  stepStatus: "step-status/writer",
   beats: "jsonl",
   issues: "txt",
   lore: [
@@ -33,7 +33,7 @@ export const fairweather0004LeaveIt = {
     "character-other/fairweather-tilly",
   ],
   reviewedBy: ["story-reviewer/holdings", "story-reviewer/scene"],
-  recordedBy: ["story-recorder/plan", "story-recorder/inventory"],
+  recordedBy: ["story-recorder/plan", "story-recorder/inventory", "story-recorder/mechanics"],
   rulings: "jsonl",
   scenes: [
     "image/image-5a6c383928ce6df3",
