@@ -9,9 +9,9 @@ export const fairweather0003AGoatLantern = {
   unit: "unit/words",
   title: "A Goat Lantern",
   story: "story-written/fairweather",
-  ownLength: 8642,
+  ownLength: 8674,
   prose: "txt",
-  stepStatus: "step-status/writer",
+  stepStatus: "step-status/recorders",
   beats: "jsonl",
   issues: "txt",
   lore: [
