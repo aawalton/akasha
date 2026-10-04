@@ -33,7 +33,7 @@ export const fairweather0004LeaveIt = {
     "character-other/fairweather-tilly",
   ],
   reviewedBy: ["story-reviewer/holdings", "story-reviewer/scene"],
-  recordedBy: ["story-recorder/plan"],
+  recordedBy: ["story-recorder/plan", "story-recorder/inventory"],
   rulings: "jsonl",
   scenes: [
     "image/image-5a6c383928ce6df3",
