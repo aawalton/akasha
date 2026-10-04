@@ -314,5 +314,9 @@ export const overwhereIGreybackAndEastRoad = {
       fact: "Harl Voss's lookouts watch the road from the quarry lip and from a rock cairn near Fenwatch.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "The rock cairn stands on a rise above the east road, four miles east of Fenwatch.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Place
