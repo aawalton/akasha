@@ -55,6 +55,8 @@ naming one `--image` for each character pictured. Write the prompt as 150 to 250
 - the light and time of day the beat's `at` gives, and anything the prose puts in the frame
 - the camera: framing and lens
 
+Name only what a camera sees, never a smell, sound or feeling, since the edit draws whatever the prompt names: a smell of bread becomes loaves.
+
 Make each picture once and keep it: a picture Alan wants different, he rerolls. A beat holding nudity or sex is rendered from words as above. Land each picture on its beat as soon as it is made, so Alan sees it in the draft: write it as one json line to `/var/tmp/akasha-turn-pictures/<chapter slug>-<n>.jsonl`, as `{"beat": <n>, "cover": "image/<slug>", "coverAfter": "<opening words>", "place": "place/<slug>", "characters": ["character-other/<slug>"]}`, leaving `characters` off a picture of the place alone, where `coverAfter` is the first twelve or so words of the beat's prose, quoted exactly, then run, alone on its line:
 
 `akasha story turn picture --chapter <chapter slug> --pictured-file /var/tmp/akasha-turn-pictures/<chapter slug>-<n>.jsonl`
