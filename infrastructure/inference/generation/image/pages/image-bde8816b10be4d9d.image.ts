@@ -4,6 +4,8 @@ export const imageBde8816b10be4d9d = {
   id: "01a108f0-6e8b-7a68-bf3c-2692c3f37785",
   type: "page-type/image",
   slug: "image-bde8816b10be4d9d",
+  title: "Rosé on the Daybed",
+  albums: ["image-album/hotel-pool"],
   service: "zimage",
   operation: "generate",
   model: "beyond-reality-3",

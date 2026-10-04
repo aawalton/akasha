@@ -4,6 +4,8 @@ export const image79e0350713a7ff2f = {
   id: "01a108f0-2619-7e5d-8718-6e0d767289b4",
   type: "page-type/image",
   slug: "image-79e0350713a7ff2f",
+  title: "Mango Under the Frangipani",
+  albums: ["image-album/hotel-pool"],
   service: "zimage",
   operation: "generate",
   model: "beyond-reality-3",

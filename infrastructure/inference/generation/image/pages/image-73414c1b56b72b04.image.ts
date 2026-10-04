@@ -4,6 +4,8 @@ export const image73414c1b56b72b04 = {
   id: "01a108f0-9217-7b3a-8ed9-561e482b4f0e",
   type: "page-type/image",
   slug: "image-73414c1b56b72b04",
+  title: "Iced Coffees Through the Shallows",
+  albums: ["image-album/hotel-pool"],
   service: "zimage",
   operation: "generate",
   model: "beyond-reality-3",

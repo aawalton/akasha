@@ -4,6 +4,8 @@ export const image341eebaead401891 = {
   id: "01a108f0-4a7b-7eb0-99ab-ee78b3739faf",
   type: "page-type/image",
   slug: "image-341eebaead401891",
+  title: "About to Dive by the Cypresses",
+  albums: ["image-album/hotel-pool"],
   service: "zimage",
   operation: "generate",
   model: "beyond-reality-3",

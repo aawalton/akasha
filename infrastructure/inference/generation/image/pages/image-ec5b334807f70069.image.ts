@@ -4,6 +4,8 @@ export const imageEc5b334807f70069 = {
   id: "01a108f0-b5f2-7b10-b397-ef194ec18293",
   type: "page-type/image",
   slug: "image-ec5b334807f70069",
+  title: "Sun on the Mosaic Steps",
+  albums: ["image-album/hotel-pool"],
   service: "zimage",
   operation: "generate",
   model: "beyond-reality-3",
