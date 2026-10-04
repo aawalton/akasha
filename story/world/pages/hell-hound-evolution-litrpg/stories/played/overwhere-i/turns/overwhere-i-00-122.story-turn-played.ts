@@ -23,6 +23,7 @@ export const overwhereI00122 = {
     "lore/overwhere-i-the-deserter-crew-4",
     "place/overwhere-i-greyback-and-east-road",
   ],
+  reviewedBy: ["story-reviewer/holdings"],
   recordedBy: [
     "story-recorder/inventory",
     "story-recorder/mechanics",
