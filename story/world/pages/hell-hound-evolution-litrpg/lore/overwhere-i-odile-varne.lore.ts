@@ -331,5 +331,9 @@ export const overwhereIOdileVarne = {
         "lore/overwhere-i-odile-varne",
       ],
     },
+    {
+      fact: "Varne knows the Board proved Voss and eight dead, of a crew reckoned a dozen-odd; no more than that.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
