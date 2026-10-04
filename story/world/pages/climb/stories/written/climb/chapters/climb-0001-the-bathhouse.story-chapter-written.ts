@@ -7,6 +7,7 @@ export const climb0001TheBathhouse = {
   cover: "image/image-b6eafd17c88f4fee",
   scenes: [
     "image/image-630d7d17a4eaa621",
+    "image/image-197f525a30d75bf4",
     "image/image-2183ce62e6acda4c",
     "image/image-81be87e676bea1bd",
     "image/image-285348dd980cc2d5",
