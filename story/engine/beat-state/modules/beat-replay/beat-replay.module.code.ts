@@ -83,7 +83,7 @@ export function stepped(state: Scene, scene: BeatScene, where: string): Scene | 
   return { at: scene.at ?? state.at, place, present, placeOf }
 }
 
-export function scenesRefused(beats: number, scenes: readonly BeatScene[]): string | null {
+function scenesRefused(beats: number, scenes: readonly BeatScene[]): string | null {
   let last = 0
   for (const one of scenes) {
     if (!Number.isInteger(one.beat) || one.beat < 1 || one.beat > beats) {
