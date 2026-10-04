@@ -196,6 +196,26 @@ export const fairweatherTilly = {
         "character-other/fairweather-tilly",
       ],
     },
+    {
+      fact: "The Powder Lane firework maker gave Tilly a twist of his blue-star powder to try.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-tamsin",
+        "character-other/fairweather-tilly",
+        "character-other/fairweather-cora",
+      ],
+    },
+    {
+      fact: "Tilly finished her moth smoke at the orchid glasshouse: lamp moths leave wherever it reaches.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-tamsin",
+        "character-other/fairweather-tilly",
+        "character-other/fairweather-cora",
+      ],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore

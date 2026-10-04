@@ -312,5 +312,14 @@ export const fairweatherElsie = {
         "character-other/fairweather-tilly",
       ],
     },
+    {
+      fact: "Cora's ledger since Elsie's Naming lists one skill used: Tether, once, on Tamsin, by her leave.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-tilly",
+        "character-other/fairweather-cora",
+      ],
+    },
   ],
 } as const satisfies Lore
