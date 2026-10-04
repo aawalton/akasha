@@ -7,9 +7,10 @@ export const overwhereI00118 = {
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-i"],
   position: 118,
-  stepStatus: "step-status/game-master",
+  stepStatus: "step-status/mechanics",
   action:
     "“Only you and Grete as far as I’m aware. I figured with the seal it must be something someone cared about, but it’s not something I can hunt, so I never bothered to look inside.”",
+  beats: "jsonl",
   lore: ["lore/overwhere-i-odile-varne"],
   endsAt: "2026-10-07T12:20:00.000Z",
 } as const satisfies StoryTurnPlayed
