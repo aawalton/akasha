@@ -4,6 +4,7 @@ export const togetherAtTheEdgeOfTheWorldBook4Complete0168Vol4Chapter153SalesPitc
   id: "01a0f12a-e88e-76e9-82c1-bb3d929028b2",
   type: "page-type/story-chapter-read",
   slug: "together-at-the-edge-of-the-world-book-4-complete-0168-vol-4-chapter-153-sales-pitch",
+  ownProgress: 2138,
   position: 168,
   publishedAt: "2026-03-18",
   unit: "unit/words",

@@ -4,6 +4,7 @@ export const togetherAtTheEdgeOfTheWorldBook4Complete0169Vol4Chapter154PullingSt
   id: "01a0f12a-e88e-7027-9355-39e6140e0ad8",
   type: "page-type/story-chapter-read",
   slug: "together-at-the-edge-of-the-world-book-4-complete-0169-vol-4-chapter-154-pulling-strings-and",
+  ownProgress: 2027,
   position: 169,
   publishedAt: "2026-03-20",
   unit: "unit/words",

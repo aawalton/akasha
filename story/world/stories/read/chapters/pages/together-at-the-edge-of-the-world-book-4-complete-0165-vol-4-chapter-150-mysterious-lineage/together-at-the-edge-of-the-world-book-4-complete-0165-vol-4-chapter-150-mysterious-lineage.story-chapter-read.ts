@@ -4,6 +4,7 @@ export const togetherAtTheEdgeOfTheWorldBook4Complete0165Vol4Chapter150Mysteriou
   id: "01a0f12a-e88e-7156-aaf0-18e47c036b4b",
   type: "page-type/story-chapter-read",
   slug: "together-at-the-edge-of-the-world-book-4-complete-0165-vol-4-chapter-150-mysterious-lineage",
+  ownProgress: 2105,
   position: 165,
   publishedAt: "2026-03-11",
   unit: "unit/words",

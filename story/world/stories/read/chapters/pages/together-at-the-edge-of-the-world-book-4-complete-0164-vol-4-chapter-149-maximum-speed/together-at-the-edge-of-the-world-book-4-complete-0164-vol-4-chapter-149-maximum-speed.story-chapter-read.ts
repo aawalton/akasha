@@ -4,6 +4,7 @@ export const togetherAtTheEdgeOfTheWorldBook4Complete0164Vol4Chapter149MaximumSp
   id: "01a0f12a-e88e-7c89-a857-ca275c524e0b",
   type: "page-type/story-chapter-read",
   slug: "together-at-the-edge-of-the-world-book-4-complete-0164-vol-4-chapter-149-maximum-speed",
+  ownProgress: 3304,
   position: 164,
   publishedAt: "2026-03-09",
   unit: "unit/words",

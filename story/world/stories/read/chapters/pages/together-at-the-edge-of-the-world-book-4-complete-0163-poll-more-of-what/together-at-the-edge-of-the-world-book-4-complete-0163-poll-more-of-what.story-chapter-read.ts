@@ -4,6 +4,7 @@ export const togetherAtTheEdgeOfTheWorldBook4Complete0163PollMoreOfWhat = {
   id: "01a0f12a-e88e-7591-9cec-d6ecefae013c",
   type: "page-type/story-chapter-read",
   slug: "together-at-the-edge-of-the-world-book-4-complete-0163-poll-more-of-what",
+  ownProgress: 133,
   position: 163,
   publishedAt: "2026-03-06",
   unit: "unit/words",

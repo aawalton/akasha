@@ -4,6 +4,7 @@ export const togetherAtTheEdgeOfTheWorldBook4Complete0167Vol4Chapter152Prescienc
   id: "01a0f12a-e88e-7509-a3fc-7e720b8156ca",
   type: "page-type/story-chapter-read",
   slug: "together-at-the-edge-of-the-world-book-4-complete-0167-vol-4-chapter-152-prescience-of-a-younger",
+  ownProgress: 2378,
   position: 167,
   publishedAt: "2026-03-16",
   unit: "unit/words",

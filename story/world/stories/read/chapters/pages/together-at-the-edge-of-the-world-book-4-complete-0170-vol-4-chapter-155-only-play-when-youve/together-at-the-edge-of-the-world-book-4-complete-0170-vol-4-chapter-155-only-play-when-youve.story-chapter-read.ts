@@ -4,6 +4,7 @@ export const togetherAtTheEdgeOfTheWorldBook4Complete0170Vol4Chapter155OnlyPlayW
   id: "01a0f12a-e88e-7f7e-bd0c-f6d8226acc1d",
   type: "page-type/story-chapter-read",
   slug: "together-at-the-edge-of-the-world-book-4-complete-0170-vol-4-chapter-155-only-play-when-youve",
+  ownProgress: 2695,
   position: 170,
   publishedAt: "2026-03-23",
   unit: "unit/words",
