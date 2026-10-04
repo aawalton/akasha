@@ -322,5 +322,9 @@ export const overwhereIGreybackAndEastRoad = {
       fact: "On day 9, west of Wendlow, an eastbound wool carter, Jory Webb, meets Nala on the road.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Jory was tolled a silver on day 7 near Fenwatch by a lone crossbowman with a northern burr.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Place
