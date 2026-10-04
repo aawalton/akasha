@@ -11,7 +11,7 @@ export const fairweather0003AGoatLantern = {
   story: "story-written/fairweather",
   ownLength: 8642,
   prose: "txt",
-  stepStatus: "step-status/game-master",
+  stepStatus: "step-status/mechanics",
   beats: "jsonl",
   issues: "txt",
   lore: [
@@ -30,13 +30,6 @@ export const fairweather0003AGoatLantern = {
     "character-other/fairweather-cora",
     "character-other/fairweather-tamsin",
     "character-other/fairweather-tilly",
-  ],
-  recordedBy: [
-    "story-recorder/plan",
-    "story-recorder/inventory",
-    "story-recorder/mechanics",
-    "story-recorder/memory",
-    "story-recorder/picture",
   ],
   rulings: "jsonl",
   scenes: [
