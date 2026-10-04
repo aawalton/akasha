@@ -35,6 +35,15 @@ export const issues = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "The game master's ruling ends an issue, and its line leaves this file.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A reviewer left no line here once the game master's rulings land reviews no more.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "Issues sit beside the page, so a full chapter's never push it over its ceiling.",
     },
   ],

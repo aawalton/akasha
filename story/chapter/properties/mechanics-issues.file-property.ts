@@ -28,7 +28,12 @@ export const mechanicsIssues = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "A mend moving no beat runs the mechanics seats again only where this file has a line.",
+        "A mend moving no beat runs the mechanics seats again only where a line here is not ruled out.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "The game master's ruling ends an issue, so no line it rules out sends a page back.",
     },
     {
       decisionKind: "decision-kind/departure",
