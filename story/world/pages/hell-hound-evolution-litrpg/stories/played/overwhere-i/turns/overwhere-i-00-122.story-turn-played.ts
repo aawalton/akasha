@@ -11,7 +11,7 @@ export const overwhereI00122 = {
   position: 122,
   prose: "txt",
   characters: ["character-player/overwhere-i-nala"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/player",
   action:
     "“Fine. A bit boring, but should be fast.” I head out right away, talking to merchants on the way for clues as to where the rest might be.",
   beats: "jsonl",
@@ -23,7 +23,12 @@ export const overwhereI00122 = {
     "lore/overwhere-i-the-deserter-crew-4",
     "place/overwhere-i-greyback-and-east-road",
   ],
-  reviewedBy: ["story-reviewer/holdings", "story-reviewer/style", "story-reviewer/continuity"],
+  reviewedBy: [
+    "story-reviewer/holdings",
+    "story-reviewer/style",
+    "story-reviewer/continuity",
+    "story-reviewer/scene",
+  ],
   recordedBy: [
     "story-recorder/inventory",
     "story-recorder/mechanics",

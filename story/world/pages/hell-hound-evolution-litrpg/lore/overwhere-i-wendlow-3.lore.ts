@@ -192,5 +192,9 @@ export const overwhereIWendlow3 = {
       fact: "Two watchmen keep the Moot Hall's door, and let a hunter in with her sword.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
+    {
+      fact: "On day 9 a wine factor on the square repeats the taproom tale of a woman hunter taking Voss's head.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+    },
   ],
 } as const satisfies Lore

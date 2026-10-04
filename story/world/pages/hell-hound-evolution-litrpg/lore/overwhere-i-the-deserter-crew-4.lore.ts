@@ -121,5 +121,9 @@ export const overwhereITheDeserterCrew4 = {
       fact: "Since day 7 Ulrik, alone in a levy jerkin, tolls lone carts a silver on the road by the cairn.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Jory Webb reckons one of Voss's crew has set up tolling the road on his own.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+    },
   ],
 } as const satisfies Lore
