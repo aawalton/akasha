@@ -23,6 +23,11 @@ export const turnPrompting = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "A prompt on a page holding rulings names them and says no ruled-out issue is raised again.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A reviewer's prompt names the lore in play on the turn.",
     },
     {

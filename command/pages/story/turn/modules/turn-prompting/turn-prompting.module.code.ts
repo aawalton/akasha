@@ -8,6 +8,7 @@ import {
   type Noun,
   type Repair,
   repairSaid,
+  ruledIn,
 } from "akasha/story/world/stories/played/turns/modules/turn-lifecycle/turn-lifecycle.module.code.ts"
 
 export type Reviewer = {
@@ -104,9 +105,13 @@ export function recordedLine(noun: string): string {
 const KEPT_LINE =
   "The beats file keeps what the run before settled of every beat before the first one the mend moved: work from that beat on, and hand in nothing again that the file already holds."
 
+export const RULINGS_FINAL =
+  "The game master's rulings are final: never raise a ruled-out issue again, in the same words or in others."
+
 function repairsSaid(asked: Prompting, noun: Noun, own: string): readonly string[] {
   const repairs = asked.repairs ?? []
-  return repairs.length === 0 ? [] : ["", repairSaid(noun, repairs), own]
+  if (repairs.length === 0) return []
+  return ["", repairSaid(noun, repairs), own, ...(ruledIn(repairs) ? [RULINGS_FINAL] : [])]
 }
 
 export function reviewerPrompt(asked: Prompting, reviewer: Reviewer): string {
