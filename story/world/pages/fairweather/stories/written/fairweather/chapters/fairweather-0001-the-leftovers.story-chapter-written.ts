@@ -10,7 +10,7 @@ export const fairweather0001TheLeftovers = {
   unit: "unit/words",
   title: "The Leftovers",
   story: "story-written/fairweather",
-  ownLength: 9284,
+  ownLength: 9280,
   prose: "txt",
   stepStatus: "step-status/player",
   beats: "jsonl",
