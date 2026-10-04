@@ -40,6 +40,16 @@ export const gradedFSweeping = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "A chapter or turn whose beats file names an image names that image too, so it stays.",
+    },
+    {
+      decisionKind: "decision-kind/stopgap",
+      statement:
+        "The referenced-by index holds no name a beats file says, so the sweep reads beats files.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "The images are what the index answers rather than a folder listed.",
     },
     {

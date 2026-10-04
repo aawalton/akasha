@@ -1,6 +1,7 @@
 import { expect, test } from "bun:test"
 import {
   asksRemoval,
+  beatsNamers,
   decideImage,
   GRACE_MS,
   type GradedF,
@@ -59,6 +60,35 @@ test("An image another page names stays graded `F`, and the sweep names each pag
   ])
   expect(decideImage(gradedAgo(GRACE_MS * 10, named), NOW)).toBe("named")
   expect(namersIn("")).toEqual([])
+})
+
+test("A chapter or turn whose beats file names an image names that image too, so it stays.", () => {
+  const chapter = "story/w/chapters/w-0001-in.story-chapter-written.ts"
+  const turn = "story/p/turns/p-00-001.story-turn-played.ts"
+  const files: Readonly<Record<string, string>> = {
+    "story/w/chapters/w-0001-in.story-chapter-written.beats.jsonl": [
+      '{"beat":1,"pictured":[{"cover":"image/image-0123456789abcdef","coverAfter":"She sits"}]}',
+      '{"beat":2,"event":"The image/image-aaaaaaaaaaaaaaaa is only words"}',
+      "",
+    ].join("\n"),
+    "story/p/turns/p-00-001.story-turn-played.beats.jsonl":
+      '{"beat":1,"changes":[{"make":{"cover":"image/image-0123456789abcdef"}}]}',
+  }
+  const named = beatsNamers(
+    [
+      { path: chapter, value: { slug: "w-0001-in", beats: "jsonl" } },
+      { path: turn, value: { slug: "p-00-001", beats: "jsonl" } },
+      { path: "story/w/chapters/w-0002-on.story-chapter-written.ts", value: {} },
+    ],
+    (path) => files[path] ?? null
+  )
+  const namers = named.get("image-0123456789abcdef") ?? []
+  expect(namers).toEqual([
+    "story-chapter-written/w-0001-in (beats)",
+    "story-turn-played/p-00-001 (beats)",
+  ])
+  expect(named.has("image-aaaaaaaaaaaaaaaa")).toBe(false)
+  expect(decideImage(gradedAgo(GRACE_MS * 10, namers), NOW)).toBe("named")
 })
 
 test("The removal states the commit the checkout was at before its images were read.", () => {

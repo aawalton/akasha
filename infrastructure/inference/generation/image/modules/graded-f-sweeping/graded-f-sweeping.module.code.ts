@@ -13,7 +13,7 @@ import {
   resolveRoots,
   rootFor,
 } from "akasha/page/modules/checkout-roots/checkout-roots.module.code.ts"
-import { partedIn } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
+import { besideAt, partedIn } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
 import {
   referencesAt,
   referencesEach,
@@ -33,6 +33,12 @@ const SECOND_MS = 1_000
 const WRITER = "image sweeper <image-sweeper@alanwalton.com>"
 
 const REMOVE = "--remove"
+
+const BEATS = "beats"
+
+const BEATS_HELD_BY = ["story-chapter-written", "story-chapter-played", "story-turn-played"]
+
+const IMAGE_NAMED = /"image\/([a-z0-9-]+)"/g
 
 export interface GradedF {
   readonly relPath: string
@@ -74,6 +80,39 @@ function namedByAt(root: string, relPath: string): readonly string[] {
   return namersIn(text)
 }
 
+export type Held = { readonly path: string; readonly value: Readonly<Record<string, unknown>> }
+
+export function beatsNamers(
+  pages: readonly Held[],
+  read: (path: string) => string | null
+): ReadonlyMap<string, readonly string[]> {
+  const found = new Map<string, Set<string>>()
+  for (const one of pages) {
+    const held = one.value[BEATS]
+    const at = typeof held === "string" ? besideAt(one.path, BEATS, held) : null
+    const text = at === null ? null : read(at)
+    if (text === null) continue
+    for (const named of text.matchAll(IMAGE_NAMED)) {
+      const slug = named[1] ?? ""
+      const namers = found.get(slug) ?? new Set<string>()
+      namers.add(`${namerOf(one.path)} (${BEATS})`)
+      found.set(slug, namers)
+    }
+  }
+  return new Map([...found].map(([slug, namers]) => [slug, [...namers].sort()]))
+}
+
+function beatsNamersAt(root: string): ReadonlyMap<string, readonly string[]> {
+  const pages = BEATS_HELD_BY.flatMap((pageTypeSlug) => valuesOfType(root, pageTypeSlug))
+  return beatsNamers(pages, (path) => {
+    try {
+      return readFileSync(join(root, path), "utf8")
+    } catch {
+      return null
+    }
+  })
+}
+
 export function gradedAtIn(said: string | null): number | null {
   const held = said?.trim() ?? ""
   if (held === "") return null
@@ -87,13 +126,15 @@ function gradedAtOf(root: string, commit: string, relPath: string): number | nul
 
 export function gradedFIn(root: string, commit: string): readonly GradedF[] {
   const found: GradedF[] = []
+  const beats = beatsNamersAt(root)
   for (const one of valuesOfType(root, IMAGE_TYPE)) {
     if (one.value[GRADE] !== DELETED_GRADE) continue
+    const slug = fileStemOf(one.path)
     found.push({
       relPath: one.path,
-      slug: fileStemOf(one.path),
+      slug,
       gradedAtMs: gradedAtOf(root, commit, one.path),
-      namedBy: namedByAt(root, one.path),
+      namedBy: [...namedByAt(root, one.path), ...(beats.get(slug) ?? [])],
     })
   }
   return found
