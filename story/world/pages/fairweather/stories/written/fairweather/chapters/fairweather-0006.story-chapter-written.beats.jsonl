@@ -6,7 +6,7 @@
 {"beat":6,"event":"Elsie says she looks lovely; Tamsin says she looks like a drowned cat, and goes red."}
 {"beat":7,"event":"Through the Tether Elsie feels something tight and cold in Tamsin, like a held breath."}
 {"beat":8,"event":"Tamsin carries the cake as if it might go off, and they set out along Thimble Canal.","at":"2026-06-06T06:45:00.000Z","place":"place/fairweather-lanternmere"}
-{"beat":9,"event":"Elsie buys a bunch of marigolds at a flower stall for Tamsin's mother, and pays for them."}
+{"beat":9,"event":"Elsie buys a bunch of marigolds at a flower stall for Tamsin's mother, and pays for them.","changes":[{"page":"metric-character-currency/fairweather-elsie","note":"Two pips for a bunch of marigolds at a flower stall: 106 → 104 pips","key":"value","from":106,"to":104},{"page":"metric-character-currency/fairweather-elsie","note":"Elsie ends the chapter with 104 pips: 10 lanterns, 4 pips","key":"history","append":{"turn":6,"value":104}}]}
 {"beat":10,"event":"Tamsin stares at the marigolds and laughs once, oddly."}
 {"beat":11,"event":"She walks slower with every bridge they cross."}
 {"beat":12,"event":"Elsie asks if her mother is frightening; Tamsin says she is the kindest woman alive."}
