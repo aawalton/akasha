@@ -9,7 +9,7 @@
 {"beat":9,"event":"The clerk tells her a party takes only notices at the rank of its lowest member."}
 {"beat":10,"event":"He says the guild raises an F-rank to E once she has done ten notices well."}
 {"beat":11,"event":"Elsie counts on her fingers: rats, goat, moonbells, cat, cart, glowcaps; four more."}
-{"beat":12,"event":"Tilly arrives with a pear fizz in each hand and asks what Elsie is counting.","at":"2026-06-09T07:25:00.000Z","arrive":["character-other/fairweather-tilly"]}
+{"beat":12,"event":"Tilly arrives with a pear fizz in each hand and asks what Elsie is counting.","at":"2026-06-09T07:25:00.000Z","arrive":["character-other/fairweather-tilly"],"changes":[{"page":"world-relationship/fairweather-elsie-tilly","note":"Bond: Tilly 30 → 31 (kindness: a pear fizz for Elsie)","key":"relationshipPoints","from":30,"to":31}]}
 {"beat":13,"event":"Elsie says four more notices till E-rank, and Tilly squeaks and spills a fizz."}
 {"beat":14,"event":"Cora comes out of the charcoal door, and Elsie asks if she slept well.","at":"2026-06-09T07:35:00.000Z","arrive":["character-other/fairweather-cora"]}
 {"beat":15,"event":"Cora says well enough; Elsie notices the lavender sprig is gone and her coat buttonhole is bare."}
@@ -29,7 +29,7 @@
 {"beat":29,"event":"Elsie says if they open the outflow and warm the water behind them, the eels will swim for the lake."}
 {"beat":30,"event":"Tilly says she can brew warm; not killing warm, just nasty warm."}
 {"beat":31,"event":"Tamsin wades to the outflow grate and hauls it open with a scream of rusted iron.","at":"2026-06-09T09:00:00.000Z"}
-{"beat":32,"event":"Tilly drops a fizzing vial into the far end, and the water there starts to steam."}
+{"beat":32,"event":"Tilly drops a fizzing vial into the far end, and the water there starts to steam.","changes":[{"page":"metric-character-experience/fairweather-tilly","note":"Tilly gains 10 XP for Brew in the field: the warming vial (100 → 110)","key":"value","from":100,"to":110}]}
 {"beat":33,"event":"The eels stir and thrash and start for the open outflow."}
 {"beat":34,"event":"One comes the wrong way, straight at Elsie's legs."}
 {"beat":35,"event":"Cora steps in front of Elsie, and the eel bites her forearm and holds on.","at":"2026-06-09T09:05:00.000Z"}
@@ -37,7 +37,7 @@
 {"beat":37,"event":"Tamsin grabs the eel behind the head and prises its jaws open with both thumbs."}
 {"beat":38,"event":"Elsie takes the eel's tail end and together they carry it, writhing, to the outflow."}
 {"beat":39,"event":"It shoots away to the Mere, and the last of the eels go after it."}
-{"beat":40,"event":"Tamsin slams the grate shut, and Tilly's warm water swirls round their knees.","at":"2026-06-09T09:20:00.000Z"}
+{"beat":40,"event":"Tamsin slams the grate shut, and Tilly's warm water swirls round their knees.","at":"2026-06-09T09:20:00.000Z","changes":[{"page":"world-relationship/fairweather-elsie-cora","note":"Bond: Cora 20 → 23 (danger shared: steps between Elsie and the eel)","key":"relationshipPoints","from":20,"to":23},{"page":"world-relationship/fairweather-elsie-tamsin","note":"Bond: Tamsin 43 → 46 (danger shared: the eels in the cistern)","key":"relationshipPoints","from":43,"to":46},{"page":"world-relationship/fairweather-elsie-tilly","note":"Bond: Tilly 31 → 34 (danger shared: the eels in the cistern)","key":"relationshipPoints","from":31,"to":34}]}
 {"beat":41,"event":"Elsie turns to Cora, who is holding her arm against her coat."}
 {"beat":42,"event":"Elsie says Cora stepped in front of her; Cora says it was her duty, and won't meet her eyes."}
 {"beat":43,"event":"Up in the boiler room Elsie unbuttons Cora's sleeve and rolls it to the elbow.","at":"2026-06-09T09:35:00.000Z"}
