@@ -24,6 +24,26 @@ test("a picture is one json line naming its beat, its image page and its anchor 
   expect(picturedIn(lines, 2)).toEqual([ATTIC, ELSIE])
 })
 
+test("a beat's own picture names its place and up to two characters", () => {
+  const heron: Pictured = {
+    beat: 2,
+    cover: "image/image-c",
+    coverAfter: "Supper, Tamsin said",
+    place: "place/the-heron",
+    characters: ["character-other/tam", "character-other/tilda"],
+  }
+  expect(picturedIn([JSON.stringify(heron)], 2)).toEqual([heron])
+  const alone: Pictured = { ...ATTIC, place: "place/the-bakery" }
+  expect(picturedIn([JSON.stringify(alone)], 1)).toEqual([alone])
+  const crowd = { ...heron, characters: [...(heron.characters ?? []), "character-player/elsie"] }
+  expect(picturedIn([JSON.stringify(crowd)], 2)).toEqual({
+    refused: "picture 1 names 3 characters, and a picture holds at most 2",
+  })
+  expect(picturedIn([JSON.stringify({ ...heron, characters: "tamsin" })], 2)).toEqual({
+    refused: "picture 1 states `characters` as no list of character pages",
+  })
+})
+
 test("a picture past the last beat, with no image page, no quote or a stray key is refused", () => {
   expect(picturedIn([JSON.stringify(ELSIE)], 1)).toEqual({
     refused: "picture 1 names no beat from 1 to 1",

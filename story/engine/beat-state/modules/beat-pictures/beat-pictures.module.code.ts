@@ -7,15 +7,43 @@ export type Pictured = {
   readonly character?: string
   readonly outfit?: string
   readonly setting?: string
+  readonly place?: string
+  readonly characters?: readonly string[]
 }
 
 type Refused = { readonly refused: string }
 
 const PARTED = "/"
 
-const KNOWN: readonly string[] = ["beat", "cover", "coverAfter", "character", "outfit", "setting"]
+const CHARACTERS = "characters"
 
-const TEXTS = ["character", "outfit", "setting"] as const
+const CHARACTERS_HELD = 2
+
+const KNOWN: readonly string[] = [
+  "beat",
+  "cover",
+  "coverAfter",
+  "character",
+  "outfit",
+  "setting",
+  "place",
+  CHARACTERS,
+]
+
+const TEXTS = ["character", "outfit", "setting", "place"] as const
+
+function charactersRefused(held: unknown): string | null {
+  if (held === undefined) return null
+  if (
+    !Array.isArray(held) ||
+    held.some((one) => typeof one !== "string" || !one.includes(PARTED))
+  ) {
+    return `states \`${CHARACTERS}\` as no list of character pages`
+  }
+  return held.length > CHARACTERS_HELD
+    ? `names ${held.length} characters, and a picture holds at most ${CHARACTERS_HELD}`
+    : null
+}
 
 function shapeRefused(held: Readonly<Record<string, unknown>>, beats: number): string | null {
   const unknown = Object.keys(held).find((key) => !KNOWN.includes(key))
@@ -32,7 +60,8 @@ function shapeRefused(held: Readonly<Record<string, unknown>>, beats: number): s
   if (typeof after !== "string" || after.trim() === "")
     return "quotes no `coverAfter` from the prose"
   const wrong = TEXTS.find((key) => held[key] !== undefined && typeof held[key] !== "string")
-  return wrong === undefined ? null : `states \`${wrong}\` as no text`
+  if (wrong !== undefined) return `states \`${wrong}\` as no text`
+  return charactersRefused(held[CHARACTERS])
 }
 
 function pictureOf(held: Readonly<Record<string, unknown>>): Pictured {
@@ -42,6 +71,7 @@ function pictureOf(held: Readonly<Record<string, unknown>>): Pictured {
     coverAfter: String(held["coverAfter"]).trim(),
   }
   for (const key of TEXTS) if (typeof held[key] === "string") picture[key] = held[key]
+  if (Array.isArray(held[CHARACTERS])) picture[CHARACTERS] = held[CHARACTERS]
   return picture as Pictured
 }
 

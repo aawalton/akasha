@@ -18,6 +18,11 @@ export const beatPictures = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "A beat's own picture names the place it is at and up to two characters it shows there.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "The anchor quote places the picture in the prose; the beat only groups it.",
     },
     {
