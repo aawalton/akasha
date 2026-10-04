@@ -73,7 +73,3 @@ export function memoryIn(lines: readonly string[], beats: number): readonly Memo
   }
   return memory.toSorted((one, other) => one.beat - other.beat)
 }
-
-export function shownOf(memory: readonly Memory[]): readonly Memory[] {
-  return memory.filter((one) => one.shown === true || one.establishes === true)
-}

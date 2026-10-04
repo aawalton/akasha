@@ -2,7 +2,6 @@ import { expect, test } from "bun:test"
 import {
   type Memory,
   memoryIn,
-  shownOf,
 } from "akasha/story/engine/beat-state/modules/beat-memory/beat-memory.module.code.ts"
 
 const MERE = "lore/the-mere"
@@ -36,8 +35,4 @@ test("a memory naming two acts, none, a stray key or a beat past the turn is ref
   expect(memoryIn([JSON.stringify({ ...LEARNS, learns: "elsie" })], 3)).toEqual({
     refused: "memory 1 names who `learns` by no character's address",
   })
-})
-
-test("what the reader was shown is every shown or established fact", () => {
-  expect(shownOf([SHOWN, NEW, LEARNS])).toEqual([SHOWN, NEW])
 })
