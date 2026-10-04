@@ -19,5 +19,10 @@ export const sceneCover = {
       statement:
         "Every turn's cover and every chapter's scene is drawn in its prose rather than here.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A story picturing every beat shows here the picture of the beat being read, as well.",
+    },
   ],
 } as const satisfies PlayedPanel

@@ -52,6 +52,7 @@ import {
 } from "akasha/story/world/stories/played/turns/modules/turn-lifecycle/turn-lifecycle.module.code.ts"
 import {
   beatClockOf,
+  beatCoversOf,
   beatsOf,
   chapterClockOf,
 } from "akasha/story/world/stories/written/chapters/modules/chapter-beat-reading/chapter-beat-reading.module.code.ts"
@@ -74,6 +75,8 @@ const POSITION_KEY = "position"
 const PLAYER_INTENT = "playerIntent"
 
 const PROSE_ON_BEATS = "proseOnBeats"
+
+const PICTURES_ON_BEATS = "picturesOnBeats"
 
 const ONE = 1
 
@@ -333,6 +336,7 @@ function StoryAside({
   const held = usePanelsHeld(stringsIn(storyRow?.panels))
   const shown = held ?? NO_PANELS
   const on = storyRow?.[PROSE_ON_BEATS] === true
+  const pictured = on && chapter.disclosed && storyRow?.[PICTURES_ON_BEATS] === true
 
   const chapterOptions = useMemo<UsePagesSupabaseOptions>(
     () => ({
@@ -410,8 +414,10 @@ function StoryAside({
       upcoming: [],
       turns,
       turnsPageTypeSlug: pageTypeSlug,
-      turnCovers: chapterCoversOf(chapter),
+      turnCovers: pictured ? beatCoversOf(chapter.id, reading.beats) : chapterCoversOf(chapter),
       coversAreScenes: chapter.scenes.length > 0,
+      coversFollowBeats: pictured,
+      beat: pictured ? reading.beat : undefined,
       player,
       appeared: on ? appearedOn(reading) : undefined,
       overlay: on ? overlay : undefined,
@@ -423,7 +429,7 @@ function StoryAside({
       gameExternalId: undefined,
       submitPlayerAction: undefined,
     }),
-    [clock, turns, pageTypeSlug, chapter, player, storyAddress, on, reading, overlay]
+    [clock, turns, pageTypeSlug, chapter, player, storyAddress, on, pictured, reading, overlay]
   )
   const ready = held !== null && !stories.isLoading && !characters.isLoading
   useEffect(() => {

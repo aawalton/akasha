@@ -78,6 +78,11 @@ export const chapterPanels = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "A chapter of a story picturing its beats hands its panels its beats' pictures and the beat read.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A written story's page draws its panels over its latest chapter at player.",
     },
     {

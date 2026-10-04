@@ -9,7 +9,8 @@ const { panelBy } =
 
 export const Panel = panelBy(SceneCoverPanel, ({ run }) => ({
   turns: run.turns,
-  turnCovers: [],
+  turnCovers: run.coversFollowBeats === true ? run.turnCovers : [],
   areScenes: true,
+  beat: run.coversFollowBeats === true ? run.beat : undefined,
   gameExternalId: run.gameExternalId,
 }))

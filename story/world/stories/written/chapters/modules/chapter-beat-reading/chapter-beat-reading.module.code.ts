@@ -3,7 +3,19 @@ import {
   type Beats,
   beatsIn,
 } from "akasha/story/engine/beat-state/modules/beat-records/beat-records.module.code.ts"
+import type { PlayedTurnCover } from "akasha/story/ui/played-panel/modules/panel-drawing/panel-drawing.module.code.ts"
 import { playedClockOf } from "akasha/story/world/stories/played/modules/played-rows/played-rows.module.code.ts"
+
+const PARTED = "#"
+
+export function beatCoversOf(chapterId: string, beats: Beats): readonly PlayedTurnCover[] {
+  return (beats.pictured ?? []).map((one, at) => ({
+    id: `${chapterId}${PARTED}${String(at + 1)}`,
+    number: one.beat,
+    cover: one.cover,
+    beat: one.beat,
+  }))
+}
 
 export function chapterClockOf(beatsText: string | null): string | null {
   if (beatsText === null) return null

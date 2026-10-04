@@ -6,7 +6,12 @@ export const chapterBeatReading = {
   slug: "chapter-beat-reading",
   definition: "what a written chapter's beats hand its panels",
   code: "ts",
+  test: "ts",
   decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Each picture on a beat is handed to the panels with the beat it shows.",
+    },
     {
       decisionKind: "decision-kind/departure",
       statement: "Beats that will not read hand the panels nothing rather than a refusal.",
