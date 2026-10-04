@@ -4,7 +4,7 @@ export const fairweather0005HoneyCake = {
   id: "01a1062d-8d3d-744f-9e75-1eae3e476e13",
   type: "page-type/story-chapter-written",
   slug: "fairweather-0005-honey-cake",
-  cover: "image/image-226e2a15d01d81d0",
+  cover: "image/image-e0641fa3fe5075fb",
   ownProgress: 1250,
   position: 5,
   unit: "unit/words",
@@ -12,7 +12,7 @@ export const fairweather0005HoneyCake = {
   story: "story-written/fairweather",
   ownLength: 8959,
   prose: "txt",
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/reviewers",
   beats: "jsonl",
   issues: "txt",
   lore: [
@@ -41,6 +41,7 @@ export const fairweather0005HoneyCake = {
     "story-recorder/plan",
     "story-recorder/mechanics",
     "story-recorder/memory",
+    "story-recorder/picture",
   ],
   scenes: [
     "image/image-abf649be2efeef0f",
