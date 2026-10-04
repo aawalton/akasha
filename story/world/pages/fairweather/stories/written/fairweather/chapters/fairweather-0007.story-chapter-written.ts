@@ -10,6 +10,7 @@ export const fairweather0007 = {
   story: "story-written/fairweather",
   ownLength: 0,
   prose: "txt",
-  stepStatus: "step-status/game-master",
+  stepStatus: "step-status/mechanics",
+  beats: "jsonl",
   lore: ["place/fairweather-lake-villages"],
 } as const satisfies StoryChapterWritten
