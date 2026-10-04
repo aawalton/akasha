@@ -12,7 +12,7 @@ The pages hold every number as it stood before this turn. Work out, beat by beat
 - `note` is the line the writer reads: at most 100 characters, saying what changed and to what, as a system window would show it.
 - A skill a beat advances takes its new rank, level and demonstrations on its holding page.
 - A page for the player's character that the story has not shown the player states `unrevealed: true`; where a beat shows it, change that to false on that beat. A value a beat shows only in words takes `revealedAs` with those words.
-- A bond, holding or metric of hers that comes about in a beat is made with `make` on that beat. A page of hers shown or there that no beat shows or makes reads as drift, and the reader's panels show it from the story's first page.
+- A bond, holding or metric of hers that comes about in a beat is made with `make` on that beat. A page of hers no beat shows or makes is in the reader's panels from the story's first page, and reads as drift where it states it is shown or was filed after the first turn.
 
 The game master settles every roll that decides whether an action succeeds, and its outcome is in the outcomes file: take each outcome as given, and work out every number that follows from it, including any number its check's code adds. Settle nothing yourself, and draft no edit. Where a mechanic asks for a judge, you are the judge: judge on what the beats show, and name in the note what the judgment rests on. Read no outcome the beats do not show complete: a challenge is overcome only once the foe is dead, driven off or yields, or as its check's page defines the end. Take each input a lore or mechanic page states, such as a foe's grade or a character's level, from that page.
 
