@@ -7,5 +7,6 @@ export const climbAlan = {
   title: "Alan",
   story: "story-written/climb",
   person: "person/alan",
+  cover: "image/image-b264044143e43cc4",
   place: "place/climb-floor-2",
 } as const satisfies CharacterPlayer
