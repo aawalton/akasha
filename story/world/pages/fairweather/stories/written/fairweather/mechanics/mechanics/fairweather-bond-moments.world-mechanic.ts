@@ -1,0 +1,11 @@
+import type { WorldMechanic } from "akasha/story/world/mechanics/world-mechanic.page-type.types.ts"
+
+export const fairweatherBondMoments = {
+  id: "01a1063a-3029-705e-8a70-c8a69f16fb85",
+  type: "page-type/world-mechanic",
+  slug: "fairweather-bond-moments",
+  title: "Bond moments",
+  world: "world/fairweather",
+  description:
+    "Only a moment the beats show between Elsie and a girl moves her bond, whichever of the two gives it; a blush, a stare or a silence shows a moment landing and earns nothing of itself. A moment takes the highest class it fits. +1, a kindness: food, drink, a gift or a share given or offered; a hurt tended, or help with her work; a want of hers remembered and met; a hand held, a hug, a shoulder leant on; love or praise said in words. +2, a confidence or a stand: something kept from others told, and answered kindly; a plan changed for the other's sake; one asks the other into her party or home; one stays beside or speaks up for the other where others turn from her or doubt her. +3, a danger shared: the two face a real threat together and come through it; one puts herself between the other and harm; one holds the other through a Frenzy or a fear she cannot master until she comes back. +5, a turning point: one saves the other's life; she gives Elsie leave to use a skill on her, or asks her to keep one on; one keeps a promise at real cost. A girl takes one turning point a chapter, and a second counts as +3. −1, a slip: a small promise to her forgotten, or a careless word that stings her. −3, a slight: Elsie sides against her, mocks what shames her, tells her confidence, or leaves her behind. −5, a breach: Elsie breaks a weighty promise to her, or uses a skill on her without her leave. A scene runs from a beat stating a `place` to the next beat stating one, and in it a bond takes only its largest gain, the first where two tie, and every loss. A chapter is a day, and its gains of 1 to 3 total at most 5, a gain past that cut to what is left; a turning point counts outside that cap. A change goes on the beat its moment ends: a gift taken or refused, words said, a confidence answered, a danger over, a girl back from her worst. Its note names the class and the moment, as `Bond: Tamsin 9 → 12 (danger shared: the vine)`.",
+} as const satisfies WorldMechanic
