@@ -31,7 +31,7 @@
 {"beat":31,"event":"Elsie turns to the others with shining eyes, and Tamsin says they're coming, all of them."}
 {"beat":32,"event":"Cora says she'll be on duty; Elsie says then she'll be on duty in a boat, with them.","changes":[{"page":"world-relationship/fairweather-elsie-cora","note":"Bond: Cora 25 → 27 (stand: asked into the party's boat for Lantern Night)","key":"relationshipPoints","from":25,"to":27}]}
 {"beat":33,"event":"Back on the Lantern Steps, Tilly kneels and pats the stone, and the boatman laughs.","at":"2026-06-10T10:45:00.000Z"}
-{"beat":34,"event":"At the Tipsy Heron Elsie pays for a pot of tea for the four of them.","at":"2026-06-10T11:30:00.000Z"}
+{"beat":34,"event":"At the Tipsy Heron Elsie pays for a pot of tea for the four of them.","at":"2026-06-10T11:30:00.000Z","changes":[{"page":"metric-character-currency/fairweather-elsie","note":"A pot of tea for four at the Tipsy Heron: 2 pips, 134 → 132","key":"value","from":134,"to":132}]}
 {"beat":35,"event":"Cora says the glasshouse watch starts at dusk, and they should sleep this afternoon."}
 {"beat":36,"event":"Tilly says she can never sleep in the day; Tamsin says watch her."}
 {"beat":37,"event":"Cora goes to the Wardens' room to write, and says she'll meet them at dusk where the notice says.","at":"2026-06-10T12:00:00.000Z","leave":["character-other/fairweather-cora"]}
@@ -69,7 +69,7 @@
 {"beat":69,"event":"She is a thin young woman in a patched coat, crying with fright."}
 {"beat":70,"event":"She says her little brother has a fever, and a moon orchid would pay the apothecary."}
 {"beat":71,"event":"Elsie tells her moonbells brew for fever, and sends her to the apothecary on Mortar Lane."}
-{"beat":72,"event":"Elsie gives her bread from the satchel, and pays her coin for a fever draught from her own purse."}
+{"beat":72,"event":"Elsie gives her bread from the satchel, and pays her coin for a fever draught from her own purse.","changes":[{"page":"metric-character-currency/fairweather-elsie","note":"Coin for the thief's fever draught: 1 lantern, 132 → 122","key":"value","from":132,"to":122},{"page":"metric-character-currency/fairweather-elsie","note":"Elsie ends the chapter with 122 pips: 12 lanterns, 2 pips","key":"history","append":{"turn":10,"value":122}},{"page":"metric-character-currency/fairweather-tamsin","note":"Tamsin ends the chapter with 128 pips","key":"history","append":{"turn":10,"value":128}},{"page":"metric-character-currency/fairweather-tilly","note":"Tilly ends the chapter with 152 pips","key":"history","append":{"turn":10,"value":152}}]}
 {"beat":73,"event":"Cora watches, writes, and lets her go."}
 {"beat":74,"event":"The young woman goes back over the wall with the bread held to her chest."}
 {"beat":75,"event":"Tilly makes tea on the stove, and they drink it among the glowing orchids.","at":"2026-06-10T23:00:00.000Z"}
