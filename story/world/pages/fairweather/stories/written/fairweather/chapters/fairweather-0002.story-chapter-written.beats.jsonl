@@ -38,9 +38,9 @@
 {"beat":38,"event":"Elsie asks what she wrote; Cora reads it out: Skills used, none."}
 {"beat":39,"event":"Tamsin sits on the step outside; Elsie cleans the bite on her ankle and bandages it.","at":"2026-06-02T09:00:00.000Z"}
 {"beat":40,"event":"Tamsin says that is how it starts, and she is sorry; Elsie says she came back."}
-{"beat":41,"event":"Tamsin looks at her a long time with her ears red, and says she did, didn't she."}
+{"beat":41,"event":"Tamsin looks at her a long time with her ears red, and says she did, didn't she.","changes":[{"page":"world-relationship/fairweather-elsie-tamsin","note":"Bond: Tamsin 15 → 25 (Elsie held on and kept the Frenzy from taking her)","key":"relationshipPoints","from":15,"to":25}]}
 {"beat":42,"event":"Tilly apologises for the smoke; Elsie wipes the soot off her cheek with her thumb."}
-{"beat":43,"event":"Tilly goes very still, pink to the ends of her braids."}
+{"beat":43,"event":"Tilly goes very still, pink to the ends of her braids.","changes":[{"page":"world-relationship/fairweather-elsie-tilly","note":"Bond: Tilly 10 → 15 (Elsie wiped the soot off her cheek)","key":"relationshipPoints","from":10,"to":15}]}
 {"beat":44,"event":"When the smoke clears they go down again, and rats are back by the grate already.","at":"2026-06-02T10:00:00.000Z"}
 {"beat":45,"event":"Elsie says they will all come back through it, and the grate wants mending."}
 {"beat":46,"event":"Tamsin bends the bars straight with her hands while Tilly holds the lantern."}
@@ -48,10 +48,10 @@
 {"beat":48,"event":"Tamsin drives the last rats out with the shovel, and the grate holds.","at":"2026-06-02T10:40:00.000Z"}
 {"beat":49,"event":"They sweep the gnawed tea into sacks and stack the spoiled chests by the hatch.","at":"2026-06-02T11:00:00.000Z"}
 {"beat":50,"event":"The keeper comes down, tests the grate with her boot, and grunts."}
-{"beat":51,"event":"Upstairs she signs the notice as done, in a hand like a spider's.","at":"2026-06-02T11:30:00.000Z"}
+{"beat":51,"event":"Upstairs she signs the notice as done, in a hand like a spider's.","at":"2026-06-02T11:30:00.000Z","changes":[{"page":"metric-character-experience/fairweather-elsie","note":"Experience: 30 / 100 (judged: first F-rank quest, cellar rats, done)","key":"value","from":0,"to":30},{"page":"metric-character-experience/fairweather-tamsin","note":"Tamsin experience 0 → 30 (judged: F-rank cellar rats quest done)","key":"value","from":0,"to":30},{"page":"metric-character-experience/fairweather-tilly","note":"Tilly experience 0 → 30 (judged: F-rank cellar rats quest done)","key":"value","from":0,"to":30}]}
 {"beat":52,"event":"She sets out her strong black house tea for the four of them, dark enough to stand a spoon in."}
 {"beat":53,"event":"Elsie puts one sugar in Cora's cup, stirs it, and slides it across."}
-{"beat":54,"event":"Cora looks at the cup, then at Elsie, and drinks all of it."}
+{"beat":54,"event":"Cora looks at the cup, then at Elsie, and drinks all of it.","changes":[{"page":"world-relationship/fairweather-elsie-cora","note":"Bond: Cora 5 (Elsie sugared her tea as she takes it; Cora drank it all)","make":{"title":"Elsie and Cora","world":"world/fairweather","characters":["character-player/fairweather-elsie","character-other/fairweather-cora"],"relationshipPoints":5}}]}
 {"beat":55,"event":"Tilly says the tea is like being hit, and Tamsin laughs till she has to hold the table."}
 {"beat":56,"event":"Elsie says it is the best morning she has had in Lanternmere, and means it."}
 {"beat":57,"event":"At the guild hall the clerk takes the signed notice and counts out the pay.","at":"2026-06-02T12:30:00.000Z","place":"place/fairweather-guild-hall","present":["character-player/fairweather-elsie","character-other/fairweather-cora","character-other/fairweather-tamsin","character-other/fairweather-tilly"]}
@@ -64,9 +64,9 @@
 {"beat":64,"event":"Tilly says her father on Gear Street thinks she is still at the College."}
 {"beat":65,"event":"She says he makes clocks, and she writes him letters about lectures she is missing."}
 {"beat":66,"event":"Elsie takes her hand and says she can tell him when she is ready, and Elsie will come."}
-{"beat":67,"event":"Tilly holds Elsie's hand a long time after, and talks about clocks."}
+{"beat":67,"event":"Tilly holds Elsie's hand a long time after, and talks about clocks.","changes":[{"page":"world-relationship/fairweather-elsie-tilly","note":"Bond: Tilly 15 → 20 (told Elsie about her father, held her hand)","key":"relationshipPoints","from":15,"to":20}]}
 {"beat":68,"event":"Tamsin says her mother runs a barge on the Long Cut, and would like Elsie."}
-{"beat":69,"event":"Elsie says she would love to meet her; Tamsin chokes on her pie."}
+{"beat":69,"event":"Elsie says she would love to meet her; Tamsin chokes on her pie.","changes":[{"page":"world-relationship/fairweather-elsie-tamsin","note":"Bond: Tamsin 25 → 30 (Elsie wants to meet her mother)","key":"relationshipPoints","from":25,"to":30}]}
 {"beat":70,"event":"They walk Tilly to the end of her street and Tamsin to the docks, and part.","at":"2026-06-02T15:00:00.000Z","leave":["character-other/fairweather-tamsin","character-other/fairweather-tilly"]}
 {"beat":71,"event":"Elsie goes back to the Honeycomb and sleeps an hour in the afternoon heat.","at":"2026-06-02T15:30:00.000Z","place":"place/fairweather-honeycomb","present":["character-player/fairweather-elsie"]}
 {"beat":72,"event":"She writes to her mother again, a second letter in one week: I have a party.","at":"2026-06-02T16:30:00.000Z"}
@@ -77,4 +77,4 @@
 {"beat":77,"event":"She wraps the buns in paper parcels and writes a name on each."}
 {"beat":78,"event":"On Cora's she writes black, strong, one sugar, then crosses it out and writes Cora.","at":"2026-06-02T20:30:00.000Z"}
 {"beat":79,"event":"She carries the parcels up to the attic and sets them by the door for the morning."}
-{"beat":80,"event":"She hums at the round window until the canal goes quiet.","at":"2026-06-02T21:30:00.000Z"}
+{"beat":80,"event":"She hums at the round window until the canal goes quiet.","at":"2026-06-02T21:30:00.000Z","changes":[{"page":"metric-character-experience/fairweather-elsie","note":"Experience logged","key":"history","append":{"turn":2,"value":30}},{"page":"metric-character-experience/fairweather-tamsin","note":"Experience logged","key":"history","append":{"turn":2,"value":30}},{"page":"metric-character-experience/fairweather-tilly","note":"Experience logged","key":"history","append":{"turn":2,"value":30}}]}

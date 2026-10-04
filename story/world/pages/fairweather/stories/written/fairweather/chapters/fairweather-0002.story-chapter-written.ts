@@ -10,7 +10,7 @@ export const fairweather0002 = {
   story: "story-written/fairweather",
   ownLength: 0,
   prose: "txt",
-  stepStatus: "step-status/mechanics",
+  stepStatus: "step-status/writer",
   beats: "jsonl",
   lore: [
     "lore/fairweather-cora",
@@ -23,5 +23,5 @@ export const fairweather0002 = {
     "place/fairweather-honeycomb",
     "place/fairweather-lanternmere",
   ],
-  recordedBy: ["story-recorder/plan", "story-recorder/inventory"],
+  recordedBy: ["story-recorder/plan", "story-recorder/inventory", "story-recorder/mechanics"],
 } as const satisfies StoryChapterWritten
