@@ -9,9 +9,9 @@ export const fairweather0007TheFlowerCart = {
   unit: "unit/words",
   title: "The Flower Cart",
   story: "story-written/fairweather",
-  ownLength: 9293,
+  ownLength: 9269,
   prose: "txt",
-  stepStatus: "step-status/writer",
+  stepStatus: "step-status/recorders",
   beats: "jsonl",
   issues: "txt",
   lore: [
