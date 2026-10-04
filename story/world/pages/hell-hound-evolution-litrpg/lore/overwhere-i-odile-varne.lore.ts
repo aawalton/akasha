@@ -79,6 +79,10 @@ export const overwhereIOdileVarne = {
       fact: "Weigh Words reads belief, not truth, and only words said to her face; using it needs no roll.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Weighing Nala's answer, Varne feels it believed, and takes it that Nala never read the letter.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
