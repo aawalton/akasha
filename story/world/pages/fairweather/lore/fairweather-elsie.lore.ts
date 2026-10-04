@@ -87,7 +87,13 @@ export const fairweatherElsie = {
     },
     {
       fact: "Elsie grew up on the road behind her mother, a caravan healer, and never kept a friend long.",
-      knowers: ["lore-disclosure/game-master", "character-player/fairweather-elsie"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-rosa",
+        "character-other/fairweather-nell",
+        "character-other/fairweather-tamsin",
+      ],
     },
     {
       fact: "Elsie's mother taught her to clean a wound, set a splint and brew willow-bark tea for fever.",
@@ -99,7 +105,13 @@ export const fairweatherElsie = {
     },
     {
       fact: "Elsie writes her mother a letter every week.",
-      knowers: ["lore-disclosure/game-master", "character-player/fairweather-elsie"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-rosa",
+        "character-other/fairweather-nell",
+        "character-other/fairweather-tamsin",
+      ],
     },
     {
       fact: "Elsie came to Lanternmere alone a week ago, hoping for a healer's class like her mother's.",
@@ -144,6 +156,8 @@ export const fairweatherElsie = {
         "character-player/fairweather-elsie",
         "character-other/fairweather-tamsin",
         "character-other/fairweather-cora",
+        "character-other/fairweather-rosa",
+        "character-other/fairweather-nell",
       ],
     },
     {
@@ -185,6 +199,8 @@ export const fairweatherElsie = {
         "character-other/fairweather-cora",
         "character-other/fairweather-tamsin",
         "character-other/fairweather-tilly",
+        "character-other/fairweather-rosa",
+        "character-other/fairweather-nell",
       ],
     },
     {

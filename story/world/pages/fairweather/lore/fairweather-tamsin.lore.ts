@@ -73,6 +73,8 @@ export const fairweatherTamsin = {
         "character-other/fairweather-tamsin",
         "character-other/fairweather-cora",
         "character-other/fairweather-tilly",
+        "character-other/fairweather-rosa",
+        "character-other/fairweather-nell",
       ],
     },
     {
@@ -145,6 +147,8 @@ export const fairweatherTamsin = {
         "character-player/fairweather-elsie",
         "character-other/fairweather-cora",
         "character-other/fairweather-tilly",
+        "character-other/fairweather-rosa",
+        "character-other/fairweather-nell",
       ],
     },
     {
@@ -155,15 +159,25 @@ export const fairweatherTamsin = {
         "character-player/fairweather-elsie",
         "character-other/fairweather-tilly",
         "character-other/fairweather-cora",
+        "character-other/fairweather-rosa",
+        "character-other/fairweather-nell",
       ],
     },
     {
       fact: "Tamsin's mother is Rosa Reyes, a broad, loud bargewoman with Tamsin's copper hair gone grey.",
-      knowers: ["lore-disclosure/game-master", "character-other/fairweather-tamsin"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/fairweather-tamsin",
+        "character-player/fairweather-elsie",
+      ],
     },
     {
       fact: "The Reyes barge is the Marigold, a long green coal barge with geraniums along its cabin roof.",
-      knowers: ["lore-disclosure/game-master", "character-other/fairweather-tamsin"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/fairweather-tamsin",
+        "character-player/fairweather-elsie",
+      ],
     },
     {
       fact: "Tamsin's little sister is Nell Reyes, nineteen, who crews the Marigold with their mother.",
@@ -171,7 +185,12 @@ export const fairweatherTamsin = {
     },
     {
       fact: "Tamsin sends coin home by the wharf office, and has not set foot on the Marigold in a year.",
-      knowers: ["lore-disclosure/game-master", "character-other/fairweather-tamsin"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/fairweather-tamsin",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-nell",
+      ],
     },
     {
       fact: "Nell has never blamed Tamsin for her hand, and has wanted her home every day since.",
@@ -193,11 +212,41 @@ export const fairweatherTamsin = {
     },
     {
       fact: "Tamsin's first Frenzy took her at her own Naming, and she hurt her little sister.",
-      knowers: ["lore-disclosure/game-master", "character-other/fairweather-tamsin"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/fairweather-tamsin",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-nell",
+      ],
     },
     {
       fact: "Tamsin's little sister still has the scar across her hand, and Tamsin has not been home since.",
-      knowers: ["lore-disclosure/game-master", "character-other/fairweather-tamsin"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/fairweather-tamsin",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-nell",
+      ],
+    },
+    {
+      fact: "The Marigold leaves the Long Cut wharf on the eighth, north through the lock for a fortnight.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/fairweather-rosa",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-tamsin",
+        "character-other/fairweather-nell",
+      ],
+    },
+    {
+      fact: "Elsie and Tamsin slept the night of the sixth together in Tamsin's bunk on the Marigold.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-tamsin",
+        "character-other/fairweather-rosa",
+        "character-other/fairweather-nell",
+      ],
     },
   ],
 } as const satisfies Lore

@@ -19,7 +19,7 @@ export const fairweatherHoneycomb = {
     },
     {
       fact: "The Honeycomb's baker is the widow Agnes Merriweather, and says little but notices everything.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/fairweather-elsie"],
     },
     {
       fact: "Agnes Merriweather's honey cake is known all along Thimble Canal, and she has never written it down.",
@@ -35,7 +35,21 @@ export const fairweatherHoneycomb = {
     },
     {
       fact: "The Honeycomb's baker taught Elsie her honey cake, the first she has taught it in forty years.",
-      knowers: ["lore-disclosure/game-master", "character-player/fairweather-elsie"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-rosa",
+      ],
+    },
+    {
+      fact: "Agnes Merriweather made the honey cake for Rosa Reyes's wedding, thirty years ago.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/fairweather-rosa",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-tamsin",
+        "character-other/fairweather-nell",
+      ],
     },
   ],
 } as const satisfies Place

@@ -11,9 +11,8 @@ export const fairweather0006TheMarigold = {
   story: "story-written/fairweather",
   ownLength: 8866,
   prose: "txt",
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/player",
   beats: "jsonl",
-  issues: "txt",
   lore: [
     "lore/fairweather-cora",
     "lore/fairweather-elsie",
@@ -34,7 +33,12 @@ export const fairweather0006TheMarigold = {
     "character-other/fairweather-nell",
     "character-other/fairweather-rosa",
   ],
-  reviewedBy: ["story-reviewer/holdings", "story-reviewer/style", "story-reviewer/scene"],
+  reviewedBy: [
+    "story-reviewer/holdings",
+    "story-reviewer/style",
+    "story-reviewer/scene",
+    "story-reviewer/continuity",
+  ],
   recordedBy: [
     "story-recorder/plan",
     "story-recorder/mechanics",
@@ -42,7 +46,6 @@ export const fairweather0006TheMarigold = {
     "story-recorder/picture",
     "story-recorder/memory",
   ],
-  rulings: "jsonl",
   scenes: [
     "image/image-79f16bff90c64ca0",
     "image/image-fc874a93e46973a2",

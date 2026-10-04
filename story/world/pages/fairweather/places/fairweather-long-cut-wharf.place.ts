@@ -11,11 +11,19 @@ export const fairweatherLongCutWharf = {
   facts: [
     {
       fact: "The Long Cut coal wharf is a stone quay heaped with coal, where barges moor nose to tail.",
-      knowers: ["lore-disclosure/game-master", "character-other/fairweather-tamsin"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/fairweather-tamsin",
+        "character-player/fairweather-elsie",
+      ],
     },
     {
       fact: "A lock with heavy black gates holds the Long Cut at the wharf's end, and a crane leans by it.",
-      knowers: ["lore-disclosure/game-master", "character-other/fairweather-tamsin"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/fairweather-tamsin",
+        "character-player/fairweather-elsie",
+      ],
     },
     {
       fact: "A brick wharf office by the lock takes messages and coin for the barge folk.",

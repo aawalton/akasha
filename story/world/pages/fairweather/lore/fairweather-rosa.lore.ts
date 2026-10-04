@@ -18,7 +18,12 @@ export const fairweatherRosa = {
     },
     {
       fact: "Rosa is loud and warm and laughs like Tamsin, and has kept Tamsin's bunk made up all year.",
-      knowers: ["lore-disclosure/game-master", "character-other/fairweather-rosa"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/fairweather-rosa",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-tamsin",
+      ],
     },
   ],
 } as const satisfies Lore

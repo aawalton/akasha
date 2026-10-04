@@ -18,11 +18,21 @@ export const fairweatherNell = {
     },
     {
       fact: "A thin pale scar runs across the back of Nell's left hand.",
-      knowers: ["lore-disclosure/game-master", "character-other/fairweather-nell"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/fairweather-nell",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-tamsin",
+      ],
     },
     {
       fact: "Nell is cheerful, quick and stubborn, and writes Tamsin letters she never sends.",
-      knowers: ["lore-disclosure/game-master", "character-other/fairweather-nell"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/fairweather-nell",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-tamsin",
+      ],
     },
   ],
 } as const satisfies Lore
