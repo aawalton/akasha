@@ -24,5 +24,17 @@ export const fairweatherHoneycomb = {
       fact: "The baker lets her lodger use the ovens after closing, for the cost of the firewood.",
       knowers: ["lore-disclosure/game-master", "character-player/fairweather-elsie"],
     },
+    {
+      fact: "The Honeycomb's baker is the widow Agnes Merriweather, and says little but notices everything.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Agnes Merriweather's honey cake is known all along Thimble Canal, and she has never written it down.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Her honey cake takes a whole comb of honey, and must rest a night under a cloth before it is cut.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Place
