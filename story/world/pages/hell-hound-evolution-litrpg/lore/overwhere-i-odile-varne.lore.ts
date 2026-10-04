@@ -95,6 +95,10 @@ export const overwhereIOdileVarne = {
       fact: "Asked what the letter says, she says only that it touches the guild, and folds it away.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "She asks Nala to speak of the letter to no one, and trusts Grete to hold her tongue.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
