@@ -31,14 +31,14 @@
 {"beat":31,"event":"Elsie turns to the others with shining eyes, and Tamsin says they're coming, all of them."}
 {"beat":32,"event":"Cora says she'll be on duty; Elsie says then she'll be on duty in a boat, with them.","changes":[{"page":"world-relationship/fairweather-elsie-cora","note":"Bond: Cora 25 → 27 (stand: asked into the party's boat for Lantern Night)","key":"relationshipPoints","from":25,"to":27}]}
 {"beat":33,"event":"Back on the Lantern Steps, Tilly kneels and pats the stone, and the boatman laughs.","at":"2026-06-10T10:45:00.000Z"}
-{"beat":34,"event":"At the Tipsy Heron Elsie pays for a pot of tea for the four of them.","at":"2026-06-10T11:30:00.000Z","changes":[{"page":"metric-character-currency/fairweather-elsie","note":"A pot of tea for four at the Tipsy Heron: 2 pips, 134 → 132","key":"value","from":134,"to":132}]}
+{"beat":34,"event":"At the Tipsy Heron Elsie pays for a pot of tea for the four of them.","at":"2026-06-10T11:30:00.000Z","changes":[{"page":"metric-character-currency/fairweather-elsie","note":"A pot of tea for four at the Tipsy Heron: 2 pips, 134 → 132","key":"value","from":134,"to":132},{"page":"world-relationship/fairweather-elsie-tamsin","note":"Bond: Tamsin 49 → 50 (kindness: Elsie buys the tea)","key":"relationshipPoints","from":49,"to":50}]}
 {"beat":35,"event":"Cora says the glasshouse watch starts at dusk, and they should sleep this afternoon."}
 {"beat":36,"event":"Tilly says she can never sleep in the day; Tamsin says watch her."}
 {"beat":37,"event":"Cora goes to the Wardens' room to write, and says she'll meet them at dusk where the notice says.","at":"2026-06-10T12:00:00.000Z","leave":["character-other/fairweather-cora"]}
 {"beat":38,"event":"Tamsin stretches out on the Heron's back bench and is asleep in a breath; they leave her there.","at":"2026-06-10T12:15:00.000Z","leave":["character-other/fairweather-tamsin"]}
 {"beat":39,"event":"Tilly asks to nap in Elsie's attic, since her own room smells of sulphur.","at":"2026-06-10T12:30:00.000Z"}
 {"beat":40,"event":"The attic bed is narrow, and Tilly lies stiff as a board on the very edge.","at":"2026-06-10T12:45:00.000Z","place":"place/fairweather-honeycomb-attic","present":["character-player/fairweather-elsie","character-other/fairweather-tilly"]}
-{"beat":41,"event":"Elsie says she'll fall out, pulls her in, and tucks a singed braid behind her ear."}
+{"beat":41,"event":"Elsie says she'll fall out, pulls her in, and tucks a singed braid behind her ear.","changes":[{"page":"world-relationship/fairweather-elsie-tilly","note":"Bond: Tilly 36 → 37 (kindness: pulled in from the edge, braid tucked back)","key":"relationshipPoints","from":36,"to":37}]}
 {"beat":42,"event":"Tilly lies very still, looking at the sloped ceiling and breathing carefully."}
 {"beat":43,"event":"Elsie falls asleep in moments, one arm thrown over Tilly's waist."}
 {"beat":44,"event":"Elsie wakes to find Tilly awake and watching her, and Tilly goes scarlet.","at":"2026-06-10T16:00:00.000Z"}
@@ -59,7 +59,7 @@
 {"beat":59,"event":"Some get in at the vents and settle on the orchids, bruising the petals brown."}
 {"beat":60,"event":"Elsie catches one gently in cupped hands and carries it out to the garden."}
 {"beat":61,"event":"Tamsin tries the same and squashes one, and looks so sorry that Elsie laughs."}
-{"beat":62,"event":"Tilly's smoke curls off a vial, pale and lemony, and the moths drift away from it."}
+{"beat":62,"event":"Tilly's smoke curls off a vial, pale and lemony, and the moths drift away from it.","changes":[{"page":"metric-character-experience/fairweather-tilly","note":"Tilly gains 10 XP for Brew in the field: her moth smoke (180 → 190)","key":"value","from":180,"to":190}]}
 {"beat":63,"event":"Wherever the smoke reaches the moths leave the orchids be; Tilly stares, then squeals."}
 {"beat":64,"event":"Elsie hugs her off her feet, and Tilly says it's finished, her smoke is finished."}
 {"beat":65,"event":"Something scrapes on the garden wall, and Tamsin says, quiet, company.","at":"2026-06-10T22:30:00.000Z"}
@@ -78,8 +78,8 @@
 {"beat":78,"event":"Tilly asks, very quietly, whether what she feels around Elsie could be the class.","at":"2026-06-10T23:20:00.000Z"}
 {"beat":79,"event":"She says she can't tell any more what is hers."}
 {"beat":80,"event":"Elsie says she has never once used her class to make anyone feel anything."}
-{"beat":81,"event":"Cora, at the door, says the ledger agrees: Tether, once, on Tamsin, by her leave."}
+{"beat":81,"event":"Cora, at the door, says the ledger agrees: Tether, once, on Tamsin, by her leave.","changes":[{"page":"world-relationship/fairweather-elsie-cora","note":"Bond: Cora 27 → 29 (stand: the ledger speaks for Elsie)","key":"relationshipPoints","from":27,"to":29},{"page":"metric-character-stat/fairweather-elsie-heart","note":"Heart 11 → 12 (Devotion: Cora 29% of 21)","key":"value","from":11,"to":12},{"page":"metric-character-stat/fairweather-cora-heart","note":"Cora Heart 26 → 27 (Devotion: 29% of 21)","key":"value","from":26,"to":27}]}
 {"beat":82,"event":"Tilly looks down at her hands and says, in a very small voice, then it's mine."}
-{"beat":83,"event":"Elsie says of course it's hers, whatever it is, and takes her hand."}
+{"beat":83,"event":"Elsie says of course it's hers, whatever it is, and takes her hand.","changes":[{"page":"world-relationship/fairweather-elsie-tilly","note":"Bond: Tilly 37 → 39 (confidence: is it the class, answered kindly)","key":"relationshipPoints","from":37,"to":39}]}
 {"beat":84,"event":"Tilly holds Elsie's hand in both of hers, looks at the orchids, and keeps what it is to herself."}
-{"beat":85,"event":"A lamp moth lands on Elsie's hair clip, glowing faintly, and Tilly laughs and coaxes it off.","at":"2026-06-10T23:50:00.000Z"}
+{"beat":85,"event":"A lamp moth lands on Elsie's hair clip, glowing faintly, and Tilly laughs and coaxes it off.","at":"2026-06-10T23:50:00.000Z","changes":[{"page":"world-relationship/fairweather-elsie-tamsin","note":"Bond: Tamsin 50 → 51 (Tether: under it by her own wish at day's end)","key":"relationshipPoints","from":50,"to":51},{"page":"metric-character-experience/fairweather-elsie","note":"Experience logged","key":"history","append":{"turn":10,"value":50}},{"page":"metric-character-experience/fairweather-tamsin","note":"Experience logged","key":"history","append":{"turn":10,"value":290}},{"page":"metric-character-experience/fairweather-tilly","note":"Experience logged","key":"history","append":{"turn":10,"value":190}},{"page":"metric-character-stat/fairweather-elsie-heart","note":"Heart logged","key":"history","append":{"turn":10,"value":12}}]}
