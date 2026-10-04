@@ -28,7 +28,12 @@ export const overwhereI00117 = {
     "place/overwhere-i-wendlow",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/scene", "story-reviewer/holdings"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/plan", "story-recorder/mechanics"],
+  recordedBy: [
+    "story-recorder/inventory",
+    "story-recorder/plan",
+    "story-recorder/mechanics",
+    "story-recorder/picture",
+  ],
   endsAt: "2026-10-07T12:15:00.000Z",
-  coverAfter: "Odile Varne, Magistrate of Wendlow, looks you over from boots to hood",
+  coverAfter: "On the bench before her lies a folded sheet, its red wax seal",
 } as const satisfies StoryTurnPlayed
