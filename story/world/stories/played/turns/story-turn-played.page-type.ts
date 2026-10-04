@@ -58,6 +58,7 @@ export const storyTurnPlayed = {
     },
     { pageProperty: "instant-property/turn-ends-at", required: false, many: false },
     { pageProperty: "text-property/cover-after", required: false, many: false },
+    { pageProperty: "file-property/rulings", required: false, many: false },
   ],
   decisions: [
     {
@@ -97,6 +98,10 @@ export const storyTurnPlayed = {
     {
       decisionKind: "decision-kind/departure",
       statement: "A turn goes round until no reviewer and no mechanics seat has an issue left.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The game master has the final say: an issue it rules out is ended.",
     },
     {
       decisionKind: "decision-kind/departure",
