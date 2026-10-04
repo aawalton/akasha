@@ -310,6 +310,9 @@ export const overwhereIGreybackAndEastRoad = {
         "lore/overwhere-i-tobin-ashdown",
       ],
     },
+    {
+      fact: "Harl Voss's lookouts watch the road from the quarry lip and from a rock cairn near Fenwatch.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
-  secrets: "jsonl",
 } as const satisfies Place
