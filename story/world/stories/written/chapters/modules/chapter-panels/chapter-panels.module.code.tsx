@@ -24,7 +24,7 @@ import {
   BeatReadingProvider,
   baseOf,
   overlayOf,
-  presentAt,
+  presentOn,
   useBeatReading,
   useBeatsFiles,
 } from "akasha/story/ui/modules/beat-reading/beat-reading.module.code.tsx"
@@ -434,7 +434,7 @@ function StoryAside({
       turnCovers: chapterCoversOf(chapter),
       coversAreScenes: chapter.scenes.length > 0,
       player,
-      present: on ? presentAt(reading.beats, reading.beat) : undefined,
+      present: on ? presentOn(reading) : undefined,
       storyAddress,
       intent: textIn(storyRow?.[PLAYER_INTENT]),
       beats: undefined,

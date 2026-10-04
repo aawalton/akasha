@@ -77,6 +77,10 @@ export const chapterPanels = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A written story's page hands its panels the characters its latest chapter names.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A chapter shows once its panels have settled, or after three seconds at most.",
     },
   ],

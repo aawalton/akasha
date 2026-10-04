@@ -169,6 +169,27 @@ export function presentAt(beats: Beats, beat: number): readonly string[] {
   return state.present
 }
 
+export function presentOn(reading: BeatReading): readonly string[] | undefined {
+  return reading.reading ? presentAt(reading.beats, reading.beat) : undefined
+}
+
+export type BlockPlaced = { readonly top: number; readonly laidOut: boolean }
+
+export function beatSeen(
+  blocks: Iterable<readonly [number, BlockPlaced]>,
+  line: number,
+  held: number
+): number {
+  let seen = FIRST
+  let anyLaidOut = false
+  for (const [at, one] of blocks) {
+    if (!one.laidOut) continue
+    anyLaidOut = true
+    if (at > seen && one.top <= line) seen = at
+  }
+  return anyLaidOut ? seen : held
+}
+
 export function useBeatsFiles(hrefs: readonly string[]): readonly Beats[] {
   const keyed = hrefs.join(" ")
   const [held, setHeld] = useState<readonly Beats[]>(NO_BEATS)
@@ -290,11 +311,14 @@ export function BeatReadingProvider({
   useEffect(() => {
     const read = () => {
       const line = window.innerHeight * THRESHOLD
-      let seen = FIRST
-      for (const [at, one] of blocks.current) {
-        if (at > seen && one.getBoundingClientRect().top <= line) seen = at
-      }
-      setBeat(seen)
+      const placed = [...blocks.current].map(
+        ([at, one]) =>
+          [
+            at,
+            { top: one.getBoundingClientRect().top, laidOut: one.getClientRects().length > 0 },
+          ] as const
+      )
+      setBeat((held) => beatSeen(placed, line, held))
     }
     read()
     window.addEventListener("scroll", read, { passive: true })

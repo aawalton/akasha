@@ -18,6 +18,14 @@ export const beatReading = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "Prose hidden behind the panels leaves the beat read where it was.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Who is there is handed to the panels only where a chapter is read beat by beat.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement:
         "The panels are drawn from the pages with the beats up to that one folded over them.",
     },

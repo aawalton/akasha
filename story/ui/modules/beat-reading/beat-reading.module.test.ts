@@ -2,10 +2,13 @@ import { expect, test } from "bun:test"
 import type { Beats } from "akasha/story/engine/beat-state/modules/beat-records/beat-records.module.code.ts"
 import {
   aheadOf,
+  type BeatReading,
   baseOf,
+  beatSeen,
   coversOn,
   overlayOf,
   presentAt,
+  presentOn,
 } from "akasha/story/ui/modules/beat-reading/beat-reading.module.code.tsx"
 import { NO_OVERLAY } from "akasha/story/world/stories/played/modules/beat-overlay/beat-overlay.module.code.ts"
 
@@ -80,6 +83,46 @@ test("who is there follows each beat's arrivals and leavings", () => {
     "character-other/brecca",
   ])
   expect(presentAt(cast, 3)).toEqual(["character-player/wren", "character-other/brecca"])
+})
+
+test("who is there is handed only where a chapter is read beat by beat", () => {
+  const cast: Beats = {
+    beats: ["a", "b"],
+    scenes: [
+      { beat: 1, place: "place/hall", present: ["character-player/wren"] },
+      { beat: 2, arrive: ["character-other/theron"] },
+    ],
+    changes: [],
+    memory: [],
+  }
+  const read = (reading: boolean, beat: number): BeatReading => ({
+    reading,
+    beats: cast,
+    ready: true,
+    beat,
+    register: () => undefined,
+  })
+  expect(presentOn(read(true, 2))).toEqual(["character-player/wren", "character-other/theron"])
+  expect(presentOn(read(false, 0))).toBeUndefined()
+})
+
+test("the beat read is the last whose block starts above the line", () => {
+  const blocks = [
+    [1, { top: -900, laidOut: true }],
+    [2, { top: 100, laidOut: true }],
+    [3, { top: 600, laidOut: true }],
+  ] as const
+  expect(beatSeen(blocks, 300, 0)).toBe(2)
+})
+
+test("prose hidden behind the panels leaves the beat read where it was", () => {
+  const hidden = [
+    [1, { top: 0, laidOut: false }],
+    [2, { top: 0, laidOut: false }],
+    [89, { top: 0, laidOut: false }],
+  ] as const
+  expect(beatSeen(hidden, 300, 55)).toBe(55)
+  expect(beatSeen([], 300, 55)).toBe(55)
 })
 
 test("a key the chapter leaves alone is the value the chapters before it left", () => {
