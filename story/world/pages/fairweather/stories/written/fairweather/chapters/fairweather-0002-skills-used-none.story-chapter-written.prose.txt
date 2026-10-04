@@ -103,7 +103,7 @@ Upstairs the keeper fetched the guild's notice from under her counter, a square 
 :::status-assessment
 name: Elsie Fairweather
 level: 1
-note: Experience: 30 / 100; Bonds: Tamsin 6, Tilly 6, Cora 3
+note: Experience: 30 / 100; Attributes: Strength 1, Toughness 2, Grace 2, Wits 3, Heart 4; Bonds: Tamsin 6, Tilly 6, Cora 3
 :::
 
 She read it over, and smiled down at the three names.

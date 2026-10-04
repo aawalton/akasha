@@ -52,7 +52,7 @@ She walked down to the lake and sat on the wall with her boots hanging over the 
 :::status-assessment
 name: Elsie Fairweather
 level: 1
-note: Class: Enthraller; Experience: 0 / 100
+note: Class: Enthraller; Experience: 0 / 100; Attributes: Strength 1, Toughness 2, Grace 2, Wits 3, Heart 4
 :::
 
 She read every line of it, once, carefully.

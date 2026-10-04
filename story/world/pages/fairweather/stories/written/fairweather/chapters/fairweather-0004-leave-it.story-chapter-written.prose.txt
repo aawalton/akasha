@@ -75,7 +75,7 @@ So she stopped trying. She lay there and wished her window open, the way she had
 :::status-assessment
 name: Elsie Fairweather
 level: 1
-note: Experience: 70 / 100; Skills: Captivate, Tether; Bonds: Tamsin 17, Tilly 14, Cora 9
+note: Experience: 70 / 100; Attributes: Strength 1, Toughness 2, Grace 2, Wits 3, Heart 4; Skills: Captivate, Tether; Bonds: Tamsin 17, Tilly 14, Cora 9
 :::
 
 She looked at the word Tether for a long time. It was an ugly word for a pact, she thought, the word for a rope on a goat. She said it under her breath, trying it, and could not make it sound kind. She read the three names under Bonds again instead, and that was better.
@@ -187,7 +187,7 @@ When the bandage was tied, Elsie sat back between them on the bench and wished h
 :::status-assessment
 name: Elsie Fairweather
 level: 1
-note: Experience: 90 / 100; Skills: Captivate, Tether — Tamsin; Bonds: Tamsin 22, Tilly 17, Cora 12
+note: Experience: 90 / 100; Attributes: Strength 1, Toughness 2, Grace 2, Wits 3, Heart 4; Skills: Captivate, Tether — Tamsin; Bonds: Tamsin 22, Tilly 17, Cora 12
 :::
 
 Under Tether there was a name now. Tamsin. Elsie looked at it a long time, the two words side by side, the ugly one and the dear one. She found that the ugly word did not look so ugly with Tamsin's name beside it. She read the name again.
@@ -207,7 +207,7 @@ And a window opened over the step, in the candlelight, without her wishing it.
 :::status-assessment
 name: Elsie Fairweather
 level: 2
-note: Level up; Experience: 30 / 150; Skills: Captivate, Tether — Tamsin, Hold
+note: Level up; Experience: 30 / 150; Attributes: Strength 1, Toughness 2, Grace 2, Wits 4, Heart 5; Skills: Captivate, Tether — Tamsin, Hold
 :::
 
 :::skill

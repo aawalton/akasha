@@ -16,3 +16,8 @@
 {"propertySlug":"lore-knowers","path":"story/world/pages/fairweather/places/fairweather-hall-of-naming.place.ts","id":"01a102af-305b-796e-8e56-39b5d004a564"}
 {"propertySlug":"lore-knowers","path":"story/world/pages/fairweather/places/fairweather-lanternmere.place.ts","id":"01a102af-305c-7f6c-a6eb-97acd4d27bc7"}
 {"propertySlug":"lore-knowers","path":"story/world/pages/fairweather/places/fairweather-underbloom.place.ts","id":"01a10498-7188-7568-a0de-a92e1e0e87ce"}
+{"propertySlug":"metric-of-character","path":"story/world/pages/fairweather/stories/written/fairweather/mechanics/metrics/stats/fairweather-cora-grace.metric-character-stat.ts","id":"01a106ec-13a3-7760-9b26-35a13e51e5b6"}
+{"propertySlug":"metric-of-character","path":"story/world/pages/fairweather/stories/written/fairweather/mechanics/metrics/stats/fairweather-cora-heart.metric-character-stat.ts","id":"01a106ec-13a3-7cbe-b60a-351846515874"}
+{"propertySlug":"metric-of-character","path":"story/world/pages/fairweather/stories/written/fairweather/mechanics/metrics/stats/fairweather-cora-strength.metric-character-stat.ts","id":"01a106ec-13a4-7591-a8d1-b8b56e0ce2eb"}
+{"propertySlug":"metric-of-character","path":"story/world/pages/fairweather/stories/written/fairweather/mechanics/metrics/stats/fairweather-cora-toughness.metric-character-stat.ts","id":"01a106ec-13a4-7af8-83f5-9f1700964e00"}
+{"propertySlug":"metric-of-character","path":"story/world/pages/fairweather/stories/written/fairweather/mechanics/metrics/stats/fairweather-cora-wits.metric-character-stat.ts","id":"01a106ec-13a4-7bda-a6dd-bcb830ab06e9"}
