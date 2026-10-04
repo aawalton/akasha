@@ -35,10 +35,6 @@ export const fairweatherTilly = {
       ],
     },
     {
-      fact: "Tilly has tiny breasts with pale pink nipples, and a wisp of blonde hair over her pussy.",
-      knowers: ["lore-disclosure/game-master", "character-other/fairweather-tilly"],
-    },
-    {
       fact: "Tilly wears a cream blouse with rolled sleeves, a too-big scorched apron and a belt of corked vials.",
       knowers: [
         "lore-disclosure/game-master",
