@@ -235,5 +235,9 @@ export const overwhereIOdileVarne = {
       fact: "A broken oath voids the papers and strikes her name, making her a stranger again; it is no crime.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "A sworn hunter may hand her papers back before the bench and be quit of the oath.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
