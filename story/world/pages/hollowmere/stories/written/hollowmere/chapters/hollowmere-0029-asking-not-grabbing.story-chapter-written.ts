@@ -4,7 +4,7 @@ export const hollowmere0029AskingNotGrabbing = {
   id: "01a101e6-0c7e-70a7-be40-c0a70023915e",
   type: "page-type/story-chapter-written",
   slug: "hollowmere-0029-asking-not-grabbing",
-  cover: "image/image-9bb6afb44012e873",
+  cover: "image/image-7464b8b3e2753294",
   ownProgress: 2148,
   position: 29,
   unit: "unit/words",
@@ -47,5 +47,5 @@ export const hollowmere0029AskingNotGrabbing = {
     "story-recorder/memory",
     "story-recorder/picture",
   ],
-  scenes: ["image/image-9bb6afb44012e873"],
+  scenes: ["image/image-7464b8b3e2753294"],
 } as const satisfies StoryChapterWritten
