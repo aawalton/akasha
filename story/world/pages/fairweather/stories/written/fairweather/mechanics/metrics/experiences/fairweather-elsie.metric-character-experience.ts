@@ -9,5 +9,5 @@ export const fairweatherElsie = {
   value: 0,
   minValue: 0,
   displayOrder: 1,
-  unrevealed: true,
+  unrevealed: false,
 } as const satisfies MetricCharacterExperience

@@ -11,9 +11,8 @@ export const fairweather0001TheLeftovers = {
   story: "story-written/fairweather",
   ownLength: 9284,
   prose: "txt",
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/player",
   beats: "jsonl",
-  issues: "txt",
   lore: [
     "lore/fairweather-cora",
     "lore/fairweather-elsie",
@@ -31,7 +30,12 @@ export const fairweather0001TheLeftovers = {
     "character-other/fairweather-tamsin",
     "character-other/fairweather-tilly",
   ],
-  reviewedBy: ["story-reviewer/continuity", "story-reviewer/style", "story-reviewer/holdings"],
+  reviewedBy: [
+    "story-reviewer/continuity",
+    "story-reviewer/style",
+    "story-reviewer/holdings",
+    "story-reviewer/scene",
+  ],
   recordedBy: [
     "story-recorder/inventory",
     "story-recorder/plan",
@@ -39,7 +43,6 @@ export const fairweather0001TheLeftovers = {
     "story-recorder/memory",
     "story-recorder/picture",
   ],
-  rulings: "jsonl",
   scenes: [
     "image/image-36e4549d04ca1b40",
     "image/image-aa67adf8399816d7",

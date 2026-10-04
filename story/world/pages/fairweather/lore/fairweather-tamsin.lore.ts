@@ -22,6 +22,7 @@ export const fairweatherTamsin = {
         "lore-disclosure/game-master",
         "character-other/fairweather-tamsin",
         "character-player/fairweather-elsie",
+        "character-other/fairweather-cora",
       ],
     },
     {
@@ -30,6 +31,7 @@ export const fairweatherTamsin = {
         "lore-disclosure/game-master",
         "character-other/fairweather-tamsin",
         "character-player/fairweather-elsie",
+        "character-other/fairweather-cora",
       ],
     },
     {
@@ -46,6 +48,7 @@ export const fairweatherTamsin = {
         "lore-disclosure/game-master",
         "character-other/fairweather-tamsin",
         "character-player/fairweather-elsie",
+        "character-other/fairweather-cora",
       ],
     },
     {
@@ -62,11 +65,17 @@ export const fairweatherTamsin = {
         "lore-disclosure/game-master",
         "character-other/fairweather-tamsin",
         "character-player/fairweather-elsie",
+        "character-other/fairweather-cora",
       ],
     },
     {
       fact: "Three parties have dropped Tamsin after she hurt a teammate in her Frenzy.",
-      knowers: ["lore-disclosure/game-master", "character-other/fairweather-tamsin"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/fairweather-tamsin",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-cora",
+      ],
     },
     {
       fact: "This morning the Copper Hounds dropped Tamsin, after she broke their shield-bearer's arm.",
@@ -87,12 +96,25 @@ export const fairweatherTamsin = {
     },
     {
       fact: "Tamsin Reyes is a Berserker.",
-      knowers: ["lore-disclosure/game-master", "character-player/fairweather-elsie"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-cora",
+      ],
     },
-
     {
       fact: "Tamsin has been to the Glasswood's edge a dozen times, and past the white posts twice.",
       knowers: ["lore-disclosure/game-master", "character-other/fairweather-tamsin"],
+    },
+    {
+      fact: "Tamsin won Margery off a bargeman on the Long Cut, then dropped him in the canal.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/fairweather-tamsin",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-tilly",
+        "character-other/fairweather-cora",
+      ],
     },
   ],
   secrets: "jsonl",

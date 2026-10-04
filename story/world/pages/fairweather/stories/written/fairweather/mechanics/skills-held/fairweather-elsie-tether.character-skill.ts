@@ -8,5 +8,5 @@ export const fairweatherElsieTether = {
   world: "world/fairweather",
   character: "character-player/fairweather-elsie",
   skill: "world-skill/fairweather-tether",
-  unrevealed: true,
+  unrevealed: false,
 } as const satisfies CharacterSkill

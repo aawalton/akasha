@@ -94,7 +94,6 @@ export const fairweatherLanternmere = {
         "character-other/fairweather-tilly",
       ],
     },
-
     {
       fact: "At the Tipsy Heron a supper of stew and bread costs four pips.",
       knowers: [
@@ -111,6 +110,16 @@ export const fairweatherLanternmere = {
     {
       fact: "The east gate stands at the east end of the south canal.",
       knowers: ["lore-disclosure/game-master", "character-other/fairweather-tamsin"],
+    },
+    {
+      fact: "The Crooked Kettle tea house is on the north side, by the bridge with the cats.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/fairweather-tilly",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-tamsin",
+        "character-other/fairweather-cora",
+      ],
     },
   ],
 } as const satisfies Place

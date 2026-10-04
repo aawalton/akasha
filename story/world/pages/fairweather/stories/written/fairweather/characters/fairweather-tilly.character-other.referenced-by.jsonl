@@ -1,10 +1,13 @@
 {"propertySlug":"characters","path":"story/world/pages/fairweather/stories/written/fairweather/chapters/fairweather-0001-the-leftovers.story-chapter-written.ts","id":"01a10457-5586-79ea-9338-e12f21d6f53e"}
+{"propertySlug":"characters","path":"story/world/pages/fairweather/stories/written/fairweather/mechanics/relationships/fairweather-elsie-tilly.world-relationship.ts","id":"01a1047a-4367-7e1b-8f08-8ed90f45fbd7"}
 {"propertySlug":"class-character","path":"story/world/pages/fairweather/stories/written/fairweather/mechanics/classes-held/fairweather-tilly-alchemist.character-class.ts","id":"01a10364-ec0b-7dde-84b0-9869e7693247"}
 {"propertySlug":"item-character","path":"story/world/pages/fairweather/stories/written/fairweather/items/fairweather-brass-goggles.story-item.ts","id":"01a10365-f8f2-7d93-ad66-850ab17e3233"}
 {"propertySlug":"item-character","path":"story/world/pages/fairweather/stories/written/fairweather/items/fairweather-scorched-apron.story-item.ts","id":"01a10365-f8f3-7cfa-9a60-df1bfd98f1b9"}
 {"propertySlug":"item-character","path":"story/world/pages/fairweather/stories/written/fairweather/items/fairweather-vial-belt.story-item.ts","id":"01a10326-1ad8-76d6-ae24-5d2703975212"}
 {"propertySlug":"lore-about","path":"story/world/pages/fairweather/lore/fairweather-tilly.lore.ts","id":"01a102af-305b-72c4-9abd-15bcc7901682"}
+{"propertySlug":"lore-knowers","path":"story/world/pages/fairweather/lore/fairweather-cora.lore.ts","id":"01a102af-305a-761e-b912-30f9bb675f2d"}
 {"propertySlug":"lore-knowers","path":"story/world/pages/fairweather/lore/fairweather-elsie.lore.ts","id":"01a102af-305b-75fd-9216-abb5a2e7bac6"}
+{"propertySlug":"lore-knowers","path":"story/world/pages/fairweather/lore/fairweather-tamsin.lore.ts","id":"01a102af-305b-752b-8db1-4beab20b8a77"}
 {"propertySlug":"lore-knowers","path":"story/world/pages/fairweather/lore/fairweather-tilly.lore.ts","id":"01a102af-305b-72c4-9abd-15bcc7901682"}
 {"propertySlug":"lore-knowers","path":"story/world/pages/fairweather/lore/fairweather-world.lore.ts","id":"01a102af-305b-7afc-9635-334e3585d3b1"}
 {"propertySlug":"lore-knowers","path":"story/world/pages/fairweather/places/fairweather-glasswood.place.ts","id":"01a10323-0b9e-7e44-8623-a25fb7f91e5b"}

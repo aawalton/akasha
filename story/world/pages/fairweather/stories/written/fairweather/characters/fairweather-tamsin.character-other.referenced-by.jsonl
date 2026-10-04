@@ -1,11 +1,14 @@
 {"propertySlug":"characters","path":"story/world/pages/fairweather/stories/written/fairweather/chapters/fairweather-0001-the-leftovers.story-chapter-written.ts","id":"01a10457-5586-79ea-9338-e12f21d6f53e"}
+{"propertySlug":"characters","path":"story/world/pages/fairweather/stories/written/fairweather/mechanics/relationships/fairweather-elsie-tamsin.world-relationship.ts","id":"01a1047a-4366-7b3f-b36f-cb26ad9668f9"}
 {"propertySlug":"class-character","path":"story/world/pages/fairweather/stories/written/fairweather/mechanics/classes-held/fairweather-tamsin-berserker.character-class.ts","id":"01a10364-ec0a-7fb9-9b21-b352ec9e9b9f"}
 {"propertySlug":"item-character","path":"story/world/pages/fairweather/stories/written/fairweather/items/fairweather-leather-jerkin.story-item.ts","id":"01a10365-f8f3-7a24-acc5-c9d6eee37e4b"}
 {"propertySlug":"item-character","path":"story/world/pages/fairweather/stories/written/fairweather/items/fairweather-margery.story-item.ts","id":"01a10365-f8f3-710b-ac1d-925d568e3f7c"}
 {"propertySlug":"item-character","path":"story/world/pages/fairweather/stories/written/fairweather/items/fairweather-moonbell-notice.story-item.ts","id":"01a10326-1ad7-71de-ae00-932bb01e63ed"}
 {"propertySlug":"lore-about","path":"story/world/pages/fairweather/lore/fairweather-tamsin.lore.ts","id":"01a102af-305b-752b-8db1-4beab20b8a77"}
+{"propertySlug":"lore-knowers","path":"story/world/pages/fairweather/lore/fairweather-cora.lore.ts","id":"01a102af-305a-761e-b912-30f9bb675f2d"}
 {"propertySlug":"lore-knowers","path":"story/world/pages/fairweather/lore/fairweather-elsie.lore.ts","id":"01a102af-305b-75fd-9216-abb5a2e7bac6"}
 {"propertySlug":"lore-knowers","path":"story/world/pages/fairweather/lore/fairweather-tamsin.lore.ts","id":"01a102af-305b-752b-8db1-4beab20b8a77"}
+{"propertySlug":"lore-knowers","path":"story/world/pages/fairweather/lore/fairweather-tilly.lore.ts","id":"01a102af-305b-72c4-9abd-15bcc7901682"}
 {"propertySlug":"lore-knowers","path":"story/world/pages/fairweather/lore/fairweather-world.lore.ts","id":"01a102af-305b-7afc-9635-334e3585d3b1"}
 {"propertySlug":"lore-knowers","path":"story/world/pages/fairweather/places/fairweather-glasswood.place.ts","id":"01a10323-0b9e-7e44-8623-a25fb7f91e5b"}
 {"propertySlug":"lore-knowers","path":"story/world/pages/fairweather/places/fairweather-guild-hall.place.ts","id":"01a102af-305b-7db6-bb17-c8e7a115ede2"}

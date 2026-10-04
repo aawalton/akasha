@@ -88,10 +88,39 @@ export const fairweatherCora = {
       fact: "The Warden Corisande Vane is called Cora.",
       knowers: ["lore-disclosure/game-master", "character-player/fairweather-elsie"],
     },
-
     {
       fact: "Cora has walked the Glasswood on Wardens' patrols, and knows its edge well.",
       knowers: ["lore-disclosure/game-master", "character-other/fairweather-cora"],
+    },
+    {
+      fact: "Cora will be at the Crooked Kettle's door at eight on the morning after Elsie's Naming.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/fairweather-cora",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-tamsin",
+        "character-other/fairweather-tilly",
+      ],
+    },
+    {
+      fact: "Cora goes off duty at the guild hall door when the hall shuts for the day.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/fairweather-cora",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-tamsin",
+        "character-other/fairweather-tilly",
+      ],
+    },
+    {
+      fact: "Cora has not decided what to write in her ledger about Elsie's first day.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/fairweather-cora",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-tamsin",
+        "character-other/fairweather-tilly",
+      ],
     },
   ],
   secrets: "jsonl",

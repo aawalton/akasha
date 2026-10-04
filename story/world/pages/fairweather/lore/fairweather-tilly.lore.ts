@@ -30,6 +30,8 @@ export const fairweatherTilly = {
         "lore-disclosure/game-master",
         "character-other/fairweather-tilly",
         "character-player/fairweather-elsie",
+        "character-other/fairweather-tamsin",
+        "character-other/fairweather-cora",
       ],
     },
     {
@@ -50,6 +52,8 @@ export const fairweatherTilly = {
         "lore-disclosure/game-master",
         "character-other/fairweather-tilly",
         "character-player/fairweather-elsie",
+        "character-other/fairweather-tamsin",
+        "character-other/fairweather-cora",
       ],
     },
     {
@@ -66,6 +70,8 @@ export const fairweatherTilly = {
         "lore-disclosure/game-master",
         "character-other/fairweather-tilly",
         "character-player/fairweather-elsie",
+        "character-other/fairweather-tamsin",
+        "character-other/fairweather-cora",
       ],
     },
     {
@@ -86,11 +92,26 @@ export const fairweatherTilly = {
     },
     {
       fact: "Tilly Brandt is an Alchemist.",
-      knowers: ["lore-disclosure/game-master", "character-player/fairweather-elsie"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-tamsin",
+        "character-other/fairweather-cora",
+      ],
     },
     {
       fact: "Tilly has never been inside a dungeon.",
       knowers: ["lore-disclosure/game-master", "character-other/fairweather-tilly"],
+    },
+    {
+      fact: "Tilly makes a good burn salve, a pear-tasting fizz for waking up, and an unfinished smoke.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/fairweather-tilly",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-tamsin",
+        "character-other/fairweather-cora",
+      ],
     },
   ],
   secrets: "jsonl",
