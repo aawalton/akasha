@@ -1,0 +1,11 @@
+import type { AgentMessage } from "akasha/agent/message/agent-message.page-type.types.ts"
+
+export const messageD9adce580c37 = {
+  id: "01a10486-47df-7000-b5a6-d9adce580c37",
+  type: "page-type/agent-message",
+  slug: "message-d9adce580c37",
+  to: "seat/mari-story-recorder-fairweather-flex-4",
+  from: "story-job",
+  warrant: "announce",
+  body: 'You are the Picture story recorder, recording what one chapter of Fairweather changed now that its prose is written.\n\nThe chapter is `story/world/pages/fairweather/stories/written/fairweather/chapters/fairweather-0002-skills-used-none.story-chapter-written.ts`, with its prose beside it. Your instructions are `story/recorder/pages/picture.story-recorder.instructions.md`, beside the story recorder page `story/recorder/pages/picture.story-recorder.ts`.\n\nAny `.mechanics-issues.txt` file beside the chapter holds what the mechanics step found in its beats: check each against the beats and the prose, and raise as your own issue each one that still holds and your instructions cover.\n\nThis seat may have done jobs before this one, and none of them is this job. Read your instructions, the chapter and whatever beats, prose and issues files sit beside it afresh with `akasha read --file-path <path> --full`, never from what you remember of an earlier job.\n\nRead your instructions, then the chapter and its prose, and do what the instructions say. Draft your edits with `akasha change apply --draft`, never land them: your advance lands them with your move. When your edits are drafted, advance the chapter once:\n\nakasha story turn advance --chapter story-chapter-written/fairweather-0002-skills-used-none --recorder picture\n\nThe advance ends this job, not this seat: once it lands, wait for your next job. Never end this job in words: words naming the next read do not read it, and this seat then sits idle while the turn waits on it. Every output of yours is a tool call until the advance has landed.\n\nWhere a draft or the advance is refused and you cannot mend it yourself, never end on it: send the game master the refusal word for word and what you were doing, with `akasha seat send --to mari-game-master-fairweather --body "<what refused and what you were doing>"`, then end your turn. Its answer comes as your next message; do what it says, then advance.\n',
+} as const satisfies AgentMessage
