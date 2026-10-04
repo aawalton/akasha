@@ -1,4 +1,3 @@
-scene: "the lamplighters' boats came by" - beat 81 is 20:30; ch7 has them lighting at dusk, 19:45
 style: "her hand came feeling back across the quilt ... and took hold of it" - No Sign-Off
 style: "Asleep, Tamsin finds Elsie's hand and holds on to it." (beat 87) - No Sign-Off
 continuity: "back through this lock early next month" (beat 11) - ch6: away a fortnight from 8 June
