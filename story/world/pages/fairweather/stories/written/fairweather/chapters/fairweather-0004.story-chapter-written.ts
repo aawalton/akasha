@@ -10,5 +10,17 @@ export const fairweather0004 = {
   story: "story-written/fairweather",
   ownLength: 0,
   prose: "txt",
-  stepStatus: "step-status/world-builder",
+  stepStatus: "step-status/game-master",
+  lore: [
+    "lore/fairweather-cora",
+    "lore/fairweather-elsie",
+    "lore/fairweather-tamsin",
+    "lore/fairweather-tilly",
+    "lore/fairweather-world",
+    "place/fairweather-glasswood",
+    "place/fairweather-guild-hall",
+    "place/fairweather-honeycomb",
+    "place/fairweather-lanternmere",
+    "place/fairweather-underbloom",
+  ],
 } as const satisfies StoryChapterWritten
