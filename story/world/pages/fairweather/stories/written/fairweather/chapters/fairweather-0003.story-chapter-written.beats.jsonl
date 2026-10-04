@@ -21,21 +21,21 @@
 {"beat":21,"event":"She takes her bun and thanks Elsie only once, and Elsie notices the once."}
 {"beat":22,"event":"At the desk the clerk gives them the lost-goat notice for the Underbloom.","at":"2026-06-03T11:00:00.000Z"}
 {"beat":23,"event":"Cora comes out of the charcoal door when the clerk calls the party's name.","at":"2026-06-03T11:05:00.000Z"}
-{"beat":24,"event":"At the Tipsy Heron Tamsin eats two bowls of stew, and Tilly pushes hers round.","at":"2026-06-03T12:00:00.000Z","place":"place/fairweather-lanternmere","present":["character-player/fairweather-elsie","character-other/fairweather-cora","character-other/fairweather-tamsin","character-other/fairweather-tilly"]}
+{"beat":24,"event":"At the Tipsy Heron Elsie buys stew for the three of them, and Tilly pushes hers round.","at":"2026-06-03T12:00:00.000Z","place":"place/fairweather-lanternmere","present":["character-player/fairweather-elsie","character-other/fairweather-cora","character-other/fairweather-tamsin","character-other/fairweather-tilly"]}
 {"beat":25,"event":"Elsie asks Tilly, quietly, what is wrong."}
 {"beat":26,"event":"Tilly says she has been frightened of being underground since she was small."}
 {"beat":27,"event":"She says she didn't say so before, because the guild wants three, and she wanted to be one."}
 {"beat":28,"event":"Tamsin says she can wait at the top, and there's no shame in it."}
 {"beat":29,"event":"Tilly says the licence needs three, and she is one of the three."}
 {"beat":30,"event":"Elsie says then Tilly holds her hand the whole way, and lets go only when she likes."}
-{"beat":31,"event":"Tilly looks at the hand Elsie holds out across the table, and takes it.","changes":[{"page":"world-relationship/fairweather-elsie-tilly","note":"Bond: Tilly 20 → 25 (told her fear; took Elsie's offered hand)","key":"relationshipPoints","from":20,"to":25}]}
+{"beat":31,"event":"Tilly looks at the hand Elsie holds out across the table, and takes it."}
 {"beat":32,"event":"Cora watches their hands, then the stew, and pays for her own bowl."}
 {"beat":33,"event":"The old flower market is an iron-and-glass hall full of stalls and morning-cut flowers.","at":"2026-06-03T13:00:00.000Z"}
 {"beat":34,"event":"A flower seller with red eyes stops them and asks if they are the guild."}
 {"beat":35,"event":"Her goat Clover, a white nanny, went down the stair after dropped flowers three days ago."}
 {"beat":36,"event":"Elsie promises to bring Clover up, and the seller holds her hand in both of hers."}
 {"beat":37,"event":"In the middle of the market a dry fountain has a stone stair going down inside it.","at":"2026-06-03T13:20:00.000Z","place":"place/fairweather-underbloom","present":["character-player/fairweather-elsie","character-other/fairweather-cora","character-other/fairweather-tamsin","character-other/fairweather-tilly"]}
-{"beat":38,"event":"A guild clerk at the stair head sells them a licence and writes the party in."}
+{"beat":38,"event":"A guild clerk at the stair head writes the party in, and Elsie pays him for the licence."}
 {"beat":39,"event":"Tamsin says the first floor is safe for F-rank, and a locked gate bars the second."}
 {"beat":40,"event":"Tilly takes Elsie's hand at the first step down, and grips it."}
 {"beat":41,"event":"They go down into old brick cellars, and Tilly shuts her eyes.","at":"2026-06-03T13:30:00.000Z"}
@@ -45,7 +45,7 @@
 {"beat":45,"event":"Tamsin says leave the beetles be, they nip only when handled; Tilly nearly steps on one."}
 {"beat":46,"event":"Elsie calls Clover's name down the long vault, and far off something bleats.","at":"2026-06-03T13:50:00.000Z"}
 {"beat":47,"event":"Tamsin warns them off the side passages, where stranglevine holds whatever brushes it."}
-{"beat":48,"event":"On a stair landing Cora takes the honey bun out of her pocket and eats it, looking away.","changes":[{"page":"world-relationship/fairweather-elsie-cora","note":"Bond: Cora 5 → 10 (kept the bun with her name, ate it on the stair)","key":"relationshipPoints","from":5,"to":10}]}
+{"beat":48,"event":"On a stair landing Cora takes the honey bun out of her pocket and eats it, looking away."}
 {"beat":49,"event":"Elsie sees it, and hums the whole length of the next vault."}
 {"beat":50,"event":"Tilly's grip on her hand loosens a little, and then a little more.","at":"2026-06-03T14:15:00.000Z"}
 {"beat":51,"event":"The bleating leads them to the heart of the floor, to an old cistern room.","at":"2026-06-03T14:30:00.000Z"}
@@ -60,10 +60,10 @@
 {"beat":60,"event":"Tilly lets go of nothing now; she pulls two vials off her belt with shaking hands."}
 {"beat":61,"event":"She pours one into the other, and a small blue flame stands up in the glass."}
 {"beat":62,"event":"Her hands go steady; she holds the flame to the vine a finger from Elsie's skin."}
-{"beat":63,"event":"The vine at Elsie's wrist blackens and lets go, then the strand at her ankle.","at":"2026-06-03T14:40:00.000Z","changes":[{"page":"metric-character-experience/fairweather-tilly","note":"Tilly experience 30 → 40 (judged: Brew used in the field, flame freed Elsie)","key":"value","from":30,"to":40}]}
+{"beat":63,"event":"The vine at Elsie's wrist blackens and lets go, then the strand at her ankle.","at":"2026-06-03T14:40:00.000Z"}
 {"beat":64,"event":"Tilly stares at the little flame in her own hand as if someone else had made it."}
 {"beat":65,"event":"Elsie hugs her hard and says she is a genius, an actual genius, and she loves her."}
-{"beat":66,"event":"Tilly goes pink from her collar to her hair, and holds the flame out of the way.","changes":[{"page":"world-relationship/fairweather-elsie-tilly","note":"Bond: Tilly 25 → 35 (burnt Elsie free; Elsie hugged her, said she loves her)","key":"relationshipPoints","from":25,"to":35}]}
+{"beat":66,"event":"Tilly goes pink from her collar to her hair, and holds the flame out of the way."}
 {"beat":67,"event":"Tamsin cuts the rest of the web down with Margery in three clean strokes."}
 {"beat":68,"event":"Clover trots out glowing and eats a flower out of Elsie's hand."}
 {"beat":69,"event":"Elsie knots a bandage through Clover's collar for a lead, and the goat follows her."}
@@ -72,18 +72,18 @@
 {"beat":72,"event":"They come up out of the fountain into the market with a glowing goat.","at":"2026-06-03T15:30:00.000Z","place":"place/fairweather-lanternmere"}
 {"beat":73,"event":"The clerk at the stair head writes them out, and stares at the goat."}
 {"beat":74,"event":"The flower seller drops her shears and runs, and kneels with her arms round Clover."}
-{"beat":75,"event":"She signs the notice on her knee, crying, and gives each of them a flower.","changes":[{"page":"metric-character-experience/fairweather-elsie","note":"Experience: 70 / 100 (judged: goat quest done, first dungeon floor)","key":"value","from":30,"to":70},{"page":"metric-character-experience/fairweather-tamsin","note":"Tamsin experience 30 → 70 (judged: Underbloom goat quest done)","key":"value","from":30,"to":70},{"page":"metric-character-experience/fairweather-tilly","note":"Tilly experience 40 → 80 (judged: Underbloom goat quest done)","key":"value","from":40,"to":80}]}
+{"beat":75,"event":"She signs the notice on her knee, crying, and gives each of them a flower."}
 {"beat":76,"event":"Tilly puts hers behind her ear, the way Elsie wears her clip."}
-{"beat":77,"event":"At the guild hall the clerk counts out the goat pay, and they split it three ways.","at":"2026-06-03T16:30:00.000Z","place":"place/fairweather-guild-hall","present":["character-player/fairweather-elsie","character-other/fairweather-cora","character-other/fairweather-tamsin","character-other/fairweather-tilly"],"changes":[{"page":"metric-character-currency/fairweather-elsie","note":"Her third of the three-lantern goat pay: one lantern, 10 pips: 112 → 122 pips","key":"value","from":112,"to":122},{"page":"metric-character-currency/fairweather-elsie","note":"Elsie ends the chapter with 122 pips: 12 lanterns, 2 pips","key":"history","append":{"turn":3,"value":122}}]}
+{"beat":77,"event":"At the guild hall the clerk counts out the goat pay, and they split it three ways.","at":"2026-06-03T16:30:00.000Z","place":"place/fairweather-guild-hall","present":["character-player/fairweather-elsie","character-other/fairweather-cora","character-other/fairweather-tamsin","character-other/fairweather-tilly"]}
 {"beat":78,"event":"Cora says the hall's business with them is done today, and goes to the charcoal door.","at":"2026-06-03T16:45:00.000Z","leave":["character-other/fairweather-cora"]}
 {"beat":79,"event":"The three of them sit on the canal wall outside with their boots over the water.","at":"2026-06-03T17:30:00.000Z","place":"place/fairweather-lanternmere","present":["character-player/fairweather-elsie","character-other/fairweather-tamsin","character-other/fairweather-tilly"]}
 {"beat":80,"event":"Tilly says she was frightened the whole time; Elsie says she knows, and Tilly was brave."}
-{"beat":81,"event":"Tilly falls asleep against Elsie's shoulder with the flower still behind her ear.","at":"2026-06-03T18:30:00.000Z","changes":[{"page":"world-relationship/fairweather-elsie-tilly","note":"Bond: Tilly 35 → 40 (fell asleep on Elsie's shoulder)","key":"relationshipPoints","from":35,"to":40}]}
+{"beat":81,"event":"Tilly falls asleep against Elsie's shoulder with the flower still behind her ear.","at":"2026-06-03T18:30:00.000Z"}
 {"beat":82,"event":"Tamsin watches the two of them, and says, low, that she has never had this before."}
-{"beat":83,"event":"Elsie asks what this is; Tamsin looks at the water and says, people who wait for her.","changes":[{"page":"world-relationship/fairweather-elsie-tamsin","note":"Bond: Tamsin 35 → 40 (says she never had people who wait for her)","key":"relationshipPoints","from":35,"to":40}]}
+{"beat":83,"event":"Elsie asks what this is; Tamsin looks at the water and says, people who wait for her."}
 {"beat":84,"event":"At dusk the lamplighters' boats come by, and Tilly wakes up mortified.","at":"2026-06-03T19:30:00.000Z"}
 {"beat":85,"event":"They part at the bridge, and Tilly hugs Elsie before she runs.","at":"2026-06-03T19:45:00.000Z","leave":["character-other/fairweather-tamsin","character-other/fairweather-tilly"]}
 {"beat":86,"event":"In the attic Elsie puts the market flower in a cup by the plants.","at":"2026-06-03T20:30:00.000Z","place":"place/fairweather-honeycomb","present":["character-player/fairweather-elsie"]}
 {"beat":87,"event":"In the notebook she writes: Tilly, underground, hold her hand; she makes fire."}
 {"beat":88,"event":"Under Tamsin she writes: her mother likes honey cake."}
-{"beat":89,"event":"Under Cora she writes: ate the bun on the stair, and wrote more than one line.","at":"2026-06-03T21:00:00.000Z","changes":[{"page":"metric-character-experience/fairweather-elsie","note":"Experience logged","key":"history","append":{"turn":3,"value":70}},{"page":"metric-character-experience/fairweather-tamsin","note":"Experience logged","key":"history","append":{"turn":3,"value":70}},{"page":"metric-character-experience/fairweather-tilly","note":"Experience logged","key":"history","append":{"turn":3,"value":80}}]}
+{"beat":89,"event":"Under Cora she writes: ate the bun on the stair, and wrote more than one line.","at":"2026-06-03T21:00:00.000Z"}
