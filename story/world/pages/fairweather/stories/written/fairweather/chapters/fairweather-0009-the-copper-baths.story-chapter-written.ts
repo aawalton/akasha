@@ -11,7 +11,7 @@ export const fairweather0009TheCopperBaths = {
   story: "story-written/fairweather",
   ownLength: 10345,
   prose: "txt",
-  stepStatus: "step-status/mechanics",
+  stepStatus: "step-status/writer",
   beats: "jsonl",
   issues: "txt",
   lore: [
@@ -40,7 +40,7 @@ export const fairweather0009TheCopperBaths = {
     "character-other/fairweather-rosa",
   ],
   reviewedBy: ["story-reviewer/holdings"],
-  recordedBy: ["story-recorder/plan", "story-recorder/inventory"],
+  recordedBy: ["story-recorder/plan", "story-recorder/inventory", "story-recorder/mechanics"],
   rulings: "jsonl",
   scenes: [
     "image/image-23bfbec58a3f503c",
