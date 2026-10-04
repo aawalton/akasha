@@ -1617,4 +1617,4 @@
 {"id":"01a10692-3006-785f-ad68-c3c7af9f334b","runStartedAt":"2026-10-04T11:00:06.271Z","runStatus":"success","runCompletedAt":"2026-10-04T11:03:59.693Z","durationMs":233422,"createdCount":0,"updatedCount":0,"skippedCount":0,"failedCount":0}
 {"id":"01a106ca-2a6b-7594-b96c-2479e75185f6","runStartedAt":"2026-10-04T12:01:14.852Z","runStatus":"failed","runCompletedAt":"2026-10-04T12:01:16.314Z","durationMs":1462,"runErrorMessage":"Error: https://www.royalroad.com/account/login answered 403 with no sign-in form to fill"}
 {"id":"01a106d3-65f7-7cab-8df8-e94e8e7c9058","runStartedAt":"2026-10-04T12:11:19.921Z","runStatus":"success","runCompletedAt":"2026-10-04T12:15:01.377Z","durationMs":221456,"createdCount":0,"updatedCount":0,"skippedCount":0,"failedCount":0}
-{"id":"01a10701-aa33-7407-b1c6-f684c73e2b0d","runStartedAt":"2026-10-04T13:01:52.044Z","runStatus":"running"}
+{"id":"01a10701-aa33-7407-b1c6-f684c73e2b0d","runStartedAt":"2026-10-04T13:01:52.044Z","runStatus":"success","runCompletedAt":"2026-10-04T13:05:37.838Z","durationMs":225794,"createdCount":0,"updatedCount":3,"skippedCount":0,"failedCount":0}
