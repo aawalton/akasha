@@ -60,7 +60,7 @@
 {"beat":60,"event":"Tamsin says the goat in the Underbloom is still on the board; Tilly goes quiet."}
 {"beat":61,"event":"Elsie says they will look at it tomorrow, after lunch, and Tilly breathes again."}
 {"beat":62,"event":"Cora says the hall's business with them is done for today, and goes to the charcoal door.","at":"2026-06-02T13:00:00.000Z","leave":["character-other/fairweather-cora"]}
-{"beat":63,"event":"Elsie buys a loaf at a stall, and the three of them share it on the canal wall.","at":"2026-06-02T13:30:00.000Z","place":"place/fairweather-lanternmere","present":["character-player/fairweather-elsie","character-other/fairweather-tamsin","character-other/fairweather-tilly"]}
+{"beat":63,"event":"Elsie buys a loaf at a stall, and the three of them share it on the canal wall.","at":"2026-06-02T13:30:00.000Z","place":"place/fairweather-lanternmere","present":["character-player/fairweather-elsie","character-other/fairweather-tamsin","character-other/fairweather-tilly"],"changes":[{"page":"metric-character-currency/fairweather-elsie","note":"One pip for a loaf at a stall, shared on the canal wall: 115 → 114 pips","key":"value","from":115,"to":114}]}
 {"beat":64,"event":"Tilly says her father on Gear Street thinks she is still at the College."}
 {"beat":65,"event":"She says he makes clocks, and she writes him letters about lectures she is missing."}
 {"beat":66,"event":"Elsie takes her hand and says she can tell him when she is ready, and Elsie will come."}
@@ -71,7 +71,7 @@
 {"beat":71,"event":"Elsie goes back to the Honeycomb and sleeps an hour in the afternoon heat.","at":"2026-06-02T15:30:00.000Z","place":"place/fairweather-honeycomb","present":["character-player/fairweather-elsie"]}
 {"beat":72,"event":"She writes to her mother again, a second letter in one week: I have a party.","at":"2026-06-02T16:30:00.000Z"}
 {"beat":73,"event":"In the notebook she writes: Tamsin, ankle, check it; Tilly, her father, clocks."}
-{"beat":74,"event":"At closing the baker lets her use the ovens for the cost of the firewood.","at":"2026-06-02T19:00:00.000Z"}
+{"beat":74,"event":"At closing the baker lets her use the ovens for the cost of the firewood.","at":"2026-06-02T19:00:00.000Z","changes":[{"page":"metric-character-currency/fairweather-elsie","note":"Two pips to the baker for the oven's firewood: 114 → 112 pips","key":"value","from":114,"to":112},{"page":"metric-character-currency/fairweather-elsie","note":"Elsie ends the chapter with 112 pips: 11 lanterns, 2 pips","key":"history","append":{"turn":2,"value":112}}]}
 {"beat":75,"event":"Elsie bakes honey buns, because she is happy and a little worried about Tamsin's eyes."}
 {"beat":76,"event":"Through the bakery window the lamplighters' boats go by and light the canal.","at":"2026-06-02T19:40:00.000Z"}
 {"beat":77,"event":"She wraps the buns in paper parcels and writes a name on each."}
