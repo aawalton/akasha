@@ -5,6 +5,8 @@ export const hollowmere0031DrawWell = {
   type: "page-type/story-chapter-written",
   slug: "hollowmere-0031-draw-well",
   cover: "image/image-71f478324daf3ee6",
+  completedAt: "2026-10-04T09:39:54.147Z",
+  ownProgress: 3660,
   position: 31,
   unit: "unit/words",
   title: "Draw Well",
