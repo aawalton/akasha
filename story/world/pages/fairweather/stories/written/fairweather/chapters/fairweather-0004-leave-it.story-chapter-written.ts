@@ -13,6 +13,7 @@ export const fairweather0004LeaveIt = {
   prose: "txt",
   stepStatus: "step-status/reviewers",
   beats: "jsonl",
+  issues: "txt",
   lore: [
     "lore/fairweather-cora",
     "lore/fairweather-elsie",
@@ -31,7 +32,7 @@ export const fairweather0004LeaveIt = {
     "character-other/fairweather-tamsin",
     "character-other/fairweather-tilly",
   ],
-  reviewedBy: ["story-reviewer/holdings"],
+  reviewedBy: ["story-reviewer/holdings", "story-reviewer/continuity"],
   recordedBy: [
     "story-recorder/plan",
     "story-recorder/inventory",
