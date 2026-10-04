@@ -106,23 +106,29 @@ function selectCachedOutput(
   return best?.image
 }
 
+type ComfyUpload = { readonly bytes: Uint8Array; readonly name: string }
+
+export async function uploadedAs(baseUrl: string, upload: ComfyUpload): Promise<string> {
+  const form = new FormData()
+  form.append("image", new Blob([new Uint8Array(upload.bytes)]), upload.name)
+  form.append("overwrite", "true")
+  const upRes = await fetch(`${baseUrl}/upload/image`, {
+    method: "POST",
+    body: form,
+    signal: AbortSignal.timeout(180_000),
+  })
+  if (!upRes.ok) throw new Error(`ComfyUI /upload/image ${upRes.status}: ${await upRes.text()}`)
+  const up = UploadSchema.parse(await upRes.json())
+  return up.subfolder === "" ? up.name : `${up.subfolder}/${up.name}`
+}
+
 export async function runComfyGraph(req: ComfyRunRequest): Promise<ComfyRunResult> {
   const note = req.onProgress ?? (() => {})
 
   let storedName: string | undefined
   if (req.upload !== undefined) {
     note("uploading input image...")
-    const form = new FormData()
-    form.append("image", new Blob([new Uint8Array(req.upload.bytes)]), req.upload.name)
-    form.append("overwrite", "true")
-    const upRes = await fetch(`${req.baseUrl}/upload/image`, {
-      method: "POST",
-      body: form,
-      signal: AbortSignal.timeout(180_000),
-    })
-    if (!upRes.ok) throw new Error(`ComfyUI /upload/image ${upRes.status}: ${await upRes.text()}`)
-    const up = UploadSchema.parse(await upRes.json())
-    storedName = up.subfolder === "" ? up.name : `${up.subfolder}/${up.name}`
+    storedName = await uploadedAs(req.baseUrl, req.upload)
   }
 
   const graph = req.buildGraph(storedName)

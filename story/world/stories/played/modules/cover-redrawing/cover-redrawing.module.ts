@@ -29,6 +29,15 @@ export const coverRedrawing = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "Its recorded references are handed to that edit again, in their recorded order.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "An edit one of whose references is gone is refused rather than edited without it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement:
         "Where that input is gone, the character a beat names as the picture's subject lends its cover.",
     },

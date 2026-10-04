@@ -37,8 +37,14 @@ import {
 } from "akasha/infrastructure/inference/client/modules/inference-output-path/inference-output-path.module.code.ts"
 import { drawSeed } from "akasha/infrastructure/inference/client/modules/inference-seed/inference-seed.module.code.ts"
 import { wroteTo } from "akasha/infrastructure/inference/command/modules/inference-answering/inference-answering.module.code.ts"
-import { EDIT_MODEL } from "akasha/infrastructure/inference/generation/zimage/modules/edit-graph/zimage-edit-graph.module.code.ts"
-import { editedBy } from "akasha/infrastructure/inference/generation/zimage/modules/edit-running/zimage-edit-running.module.code.ts"
+import {
+  EDIT_MODEL,
+  REFERENCES_HELD,
+} from "akasha/infrastructure/inference/generation/zimage/modules/edit-graph/zimage-edit-graph.module.code.ts"
+import {
+  type EditReference,
+  editedBy,
+} from "akasha/infrastructure/inference/generation/zimage/modules/edit-running/zimage-edit-running.module.code.ts"
 import { buildInferenceRunRecord } from "akasha/infrastructure/inference/run/modules/record/inference-run-record.module.code.ts"
 import { recordInferenceRun } from "akasha/infrastructure/inference/run/modules/store/inference-run-store.module.code.ts"
 
@@ -115,10 +121,13 @@ function qwenTakesNone(taken: Taken): readonly string[] {
   const said: string[] = []
   if (taken.aspectRatio !== undefined) said.push(aspectRatioArgument.said)
   if (taken.size !== undefined) said.push(sizeArgument.said)
-  if (taken.image.length > 1 || refsIn(taken.refs).length > 0) {
-    said.push(`${refs.said} or a second ${imageArgument.said}`)
-  }
-  return said.map((one) => `the ${QWEN} engine takes no \`${one}\``)
+  const refused = said.map((one) => `the ${QWEN} engine takes no \`${one}\``)
+  const references = taken.image.length - 1 + refsIn(taken.refs).length
+  if (references <= REFERENCES_HELD) return refused
+  return [
+    ...refused,
+    `the ${QWEN} engine takes at most ${REFERENCES_HELD} references beside the image edited, and this names ${references}`,
+  ]
 }
 
 function wrongIn(taken: Taken): readonly string[] {
@@ -130,9 +139,14 @@ function wrongIn(taken: Taken): readonly string[] {
   ]
 }
 
+function endingOfPath(path: string): string {
+  return extname(path) || ".png"
+}
+
 async function qwenEdit(
   bytes: Uint8Array,
   subject: string,
+  references: readonly EditReference[],
   prompt: string,
   timeoutSec: number,
   done: string[]
@@ -140,7 +154,8 @@ async function qwenEdit(
   const seed = drawSeed()
   const edited = await editedBy({
     bytes,
-    ending: extname(subject) || ".png",
+    ending: endingOfPath(subject),
+    references,
     prompt,
     seed,
     deadlineMs: timeoutSec * SECOND_MS,
@@ -190,9 +205,12 @@ export async function inferenceEdit(argv: readonly string[], given: Given): Prom
       return refusedBy([`\`${imageArgument.said}\` names \`${subject}\`, which will not read`])
     }
     const referenceSha256s: string[] = []
+    const referenceBytes: EditReference[] = []
     for (const path of references) {
       try {
-        referenceSha256s.push(sha256Hex(await readFile(path)))
+        const bytes = await readFile(path)
+        referenceSha256s.push(sha256Hex(bytes))
+        referenceBytes.push({ bytes, ending: endingOfPath(path) })
       } catch {
         return refusedBy([`\`${refs.said}\` names \`${path}\`, which will not read`])
       }
@@ -222,7 +240,7 @@ export async function inferenceEdit(argv: readonly string[], given: Given): Prom
       async () => {
         const raw =
           local || key === undefined
-            ? await qwenEdit(subjectBytes, subject, prompt, timeout, done)
+            ? await qwenEdit(subjectBytes, subject, referenceBytes, prompt, timeout, done)
             : await runGeminiEdit({
                 apiKey: key,
                 model: MODEL,

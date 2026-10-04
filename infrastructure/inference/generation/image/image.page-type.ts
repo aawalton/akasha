@@ -145,6 +145,11 @@ export const image = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "An edit's input image is the one it edited, and its references the rest, in order.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "An image made from bytes no image page has states no input image.",
     },
     {

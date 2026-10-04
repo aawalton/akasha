@@ -61,6 +61,22 @@ test("an edited picture is edited again from its recorded input with its recorde
   })
 })
 
+test("an edit made from several images is edited again from all of them, in order", () => {
+  const place = "image/image-place"
+  const elsie = "image/image-elsie"
+  const cora = "image/image-cora"
+  const beat = { ...EDITED, inputImage: place, referenceImages: [elsie, cora] }
+  const held = { [place]: MADE, [elsie]: MADE, [cora]: MADE }
+  expect(redrawOf(beat, looking(held))).toEqual({
+    prompt: EDITED.prompt,
+    input: place,
+    references: [elsie, cora],
+  })
+  expect(redrawOf(beat, looking({ [place]: MADE, [elsie]: MADE }))).toEqual({
+    refused: "The picture this was made from is gone, so it can't be redrawn.",
+  })
+})
+
 test("an edit whose input is gone takes its subject's cover, and with none is refused", () => {
   const cover = "image/image-her-cover"
   expect(redrawOf(EDITED, looking({ [cover]: MADE }, cover))).toEqual({

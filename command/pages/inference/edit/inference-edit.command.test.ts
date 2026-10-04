@@ -80,13 +80,17 @@ test("an engine this does not go through is refused", async () => {
   expect(said.refusals[0]).toContain("`other` is none of them")
 })
 
-test("the qwen engine refuses a reference, a ratio and a size", async () => {
+test("the qwen engine refuses a ratio, a size and a third reference", async () => {
   const said = await inferenceEdit(
     [
       "--image",
       "a.png",
       "--image",
       "b.png",
+      "--image",
+      "c.png",
+      "--refs",
+      "d.png",
       "--prompt",
       "x",
       "--size",
@@ -100,8 +104,17 @@ test("the qwen engine refuses a reference, a ratio and a size", async () => {
   expect(said.refusals).toEqual([
     "the qwen engine takes no `--aspect-ratio`",
     "the qwen engine takes no `--size`",
-    "the qwen engine takes no `--refs or a second --image`",
+    "the qwen engine takes at most 2 references beside the image edited, and this names 3",
   ])
+})
+
+test("the qwen engine takes two references, and reads each before the edit", async () => {
+  const said = await inferenceEdit(
+    ["--image", "missing.png", "--image", "b.png", "--image", "c.png", "--prompt", "x"],
+    GIVEN
+  )
+  expect(said.refusals.join(" ")).not.toContain("takes at most")
+  expect(said.refusals[0]).toContain("`/nowhere/missing.png`, which will not read")
 })
 
 test("the nano-banana engine takes a reference, a ratio and a size", async () => {

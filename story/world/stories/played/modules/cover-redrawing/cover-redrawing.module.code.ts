@@ -11,7 +11,10 @@ import {
   landImage,
 } from "akasha/infrastructure/inference/generation/image/modules/picture-landing/picture-landing.module.code.ts"
 import { EDIT_MODEL } from "akasha/infrastructure/inference/generation/zimage/modules/edit-graph/zimage-edit-graph.module.code.ts"
-import { editedBy } from "akasha/infrastructure/inference/generation/zimage/modules/edit-running/zimage-edit-running.module.code.ts"
+import {
+  type EditReference,
+  editedBy,
+} from "akasha/infrastructure/inference/generation/zimage/modules/edit-running/zimage-edit-running.module.code.ts"
 import { baseOf } from "akasha/infrastructure/inference/generation/zimage/modules/explore-batch/zimage-explore-batch.module.code.ts"
 import { buildModelGraph } from "akasha/infrastructure/inference/generation/zimage/modules/graph/zimage-graph.module.code.ts"
 import { MODELS } from "akasha/infrastructure/inference/generation/zimage/modules/models/zimage-models.module.code.ts"
@@ -47,7 +50,11 @@ export type Drawing = {
   readonly height: number
 }
 
-export type Editing = { readonly prompt: string; readonly input: string }
+export type Editing = {
+  readonly prompt: string
+  readonly input: string
+  readonly references?: readonly string[]
+}
 
 export type Redraw = Drawing | Editing
 
@@ -94,10 +101,17 @@ export function drawingOf(image: Value | null): Drawing | Refused {
 export function redrawOf(image: Value | null, look: Looking): Redraw | Refused {
   const drawing = drawingOf(image)
   if ("refused" in drawing || image === null || !madeByEdit(image)) return drawing
-  const input = [textAt(image, "inputImage"), look.subjectCover()].find(
-    (one): one is string => one?.startsWith(IMAGE_OPENS) === true && look.image(one) !== null
-  )
-  return input === undefined ? { refused: INPUT_GONE } : { prompt: drawing.prompt, input }
+  const held = (one: string | null | undefined): one is string =>
+    one?.startsWith(IMAGE_OPENS) === true && look.image(one) !== null
+  const input = [textAt(image, "inputImage"), look.subjectCover()].find(held)
+  const listed: readonly unknown[] = Array.isArray(image["referenceImages"])
+    ? image["referenceImages"]
+    : []
+  const references = listed.filter((one): one is string => typeof one === "string" && held(one))
+  if (input === undefined || references.length !== listed.length) return { refused: INPUT_GONE }
+  return references.length === 0
+    ? { prompt: drawing.prompt, input }
+    : { prompt: drawing.prompt, input, references }
 }
 
 export function subjectIn(beats: string, cover: string): string | null {
@@ -155,11 +169,21 @@ export async function drawnAt(drawing: Drawing, seed: number): Promise<string> {
   return landed.slug
 }
 
+function endingFor(bytes: Uint8Array): string {
+  return `.${endingOf(bytes) ?? "png"}`
+}
+
 export async function editedAt(editing: Editing, seed: number): Promise<string> {
   const bytes = await bytesOfImage(editing.input.slice(IMAGE_OPENS.length))
+  const references: EditReference[] = []
+  for (const one of editing.references ?? []) {
+    const held = await bytesOfImage(one.slice(IMAGE_OPENS.length))
+    references.push({ bytes: held, ending: endingFor(held) })
+  }
   const edited = await editedBy({
     bytes,
-    ending: `.${endingOf(bytes) ?? "png"}`,
+    ending: endingFor(bytes),
+    references,
     prompt: editing.prompt,
     seed,
     deadlineMs: DRAWN_WITHIN_MS,
@@ -171,6 +195,9 @@ export async function editedAt(editing: Editing, seed: number): Promise<string> 
     prompt: editing.prompt,
     seed,
     inputImageSha256: sha256Hex(bytes),
+    ...(references.length === 0
+      ? {}
+      : { referenceImageSha256s: references.map((one) => sha256Hex(one.bytes)) }),
   }
   const landed = await landImage(
     defaultPersistImageDeps(),

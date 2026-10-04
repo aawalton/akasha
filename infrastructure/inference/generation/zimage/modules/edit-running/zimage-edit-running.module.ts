@@ -13,6 +13,10 @@ export const zimageEditRunning = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "Each reference is uploaded the same way, before the edit is queued.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "The seed is the caller's, so the caller can record the seed it drew.",
     },
   ],

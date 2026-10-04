@@ -1,4 +1,7 @@
-import type { ComfyGraph } from "akasha/infrastructure/inference/comfy-ui/modules/comfy-graph/comfy-graph.module.code.ts"
+import type {
+  ComfyGraph,
+  ComfyNode,
+} from "akasha/infrastructure/inference/comfy-ui/modules/comfy-graph/comfy-graph.module.code.ts"
 
 export const EDIT_MODEL = "qwen-image-edit-2511-lightning+beyond-reality-3"
 
@@ -12,11 +15,46 @@ function redrawPrompt(instruction: string): string {
   return `Photorealistic photograph. ${instruction} Natural skin texture with fine pores, sharp focus, high-end photography.`
 }
 
+export const REFERENCES_HELD = 2
+
+const REFERENCE_NODES = ["41", "42"] as const
+
+const REFERENCE_SLOTS = ["image2", "image3"] as const
+
+const ENCODERS = ["9", "10"] as const
+
+function referencesWired(graph: ComfyGraph, references: readonly string[]): ComfyGraph {
+  if (references.length > REFERENCES_HELD) {
+    throw new Error(
+      `an edit takes at most ${REFERENCES_HELD} references, and ${references.length} were named`
+    )
+  }
+  const wired: Record<string, ComfyNode> = { ...graph }
+  const slots: Record<string, readonly [string, number]> = {}
+  for (const [at, name] of references.entries()) {
+    const node = REFERENCE_NODES[at]
+    const slot = REFERENCE_SLOTS[at]
+    if (node === undefined || slot === undefined) continue
+    wired[node] = { class_type: "LoadImage", inputs: { image: name } }
+    slots[slot] = [node, 0]
+  }
+  for (const encoder of ENCODERS) {
+    const held = wired[encoder]
+    if (held !== undefined) wired[encoder] = { ...held, inputs: { ...held.inputs, ...slots } }
+  }
+  return wired
+}
+
 export function buildEditGraph(
   uploadedName: string,
   instruction: string,
-  seed: number
+  seed: number,
+  references: readonly string[] = []
 ): ComfyGraph {
+  return referencesWired(baseEditGraph(uploadedName, instruction, seed), references)
+}
+
+function baseEditGraph(uploadedName: string, instruction: string, seed: number): ComfyGraph {
   return {
     "1": {
       class_type: "UNETLoader",

@@ -23,7 +23,8 @@ export const inferenceEdit = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The `qwen` engine takes no reference, ratio or size.",
+      statement:
+        "The `qwen` engine takes up to two references beside the image edited, and no ratio or size.",
     },
     {
       decisionKind: "decision-kind/departure",
