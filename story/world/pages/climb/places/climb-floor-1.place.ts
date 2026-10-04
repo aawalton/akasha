@@ -5,6 +5,7 @@ export const climbFloor1 = {
   type: "page-type/place",
   slug: "climb-floor-1",
   title: "Floor 1: The Bathhouse",
+  cover: "image/image-246e36c57c623c14",
   world: "world/climb",
   facts: [
     {
