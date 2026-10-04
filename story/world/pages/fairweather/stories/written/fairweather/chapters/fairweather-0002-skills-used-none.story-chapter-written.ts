@@ -9,9 +9,9 @@ export const fairweather0002SkillsUsedNone = {
   unit: "unit/words",
   title: "Skills Used, None",
   story: "story-written/fairweather",
-  ownLength: 8135,
+  ownLength: 8132,
   prose: "txt",
-  stepStatus: "step-status/writer",
+  stepStatus: "step-status/recorders",
   beats: "jsonl",
   issues: "txt",
   lore: [
