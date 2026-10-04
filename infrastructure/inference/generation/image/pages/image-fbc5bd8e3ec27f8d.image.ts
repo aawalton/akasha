@@ -4,6 +4,8 @@ export const imageFbc5bd8e3ec27f8d = {
   id: "01a108ec-b481-7612-9d54-2c1145d628de",
   type: "page-type/image",
   slug: "image-fbc5bd8e3ec27f8d",
+  title: "Golden Hour at the Infinity Edge",
+  albums: ["image-album/hotel-pool"],
   service: "zimage",
   operation: "generate",
   model: "beyond-reality-3",
