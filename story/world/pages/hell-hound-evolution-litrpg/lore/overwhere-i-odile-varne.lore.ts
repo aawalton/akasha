@@ -99,6 +99,10 @@ export const overwhereIOdileVarne = {
       fact: "She asks Nala to speak of the letter to no one, and trusts Grete to hold her tongue.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "For that silence she offers to write Nala papers as a sworn hunter of Wendlow, under her seal.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
