@@ -161,6 +161,14 @@ export const fairweatherTilly = {
       fact: "Tilly's shaking hands go steady the moment her brew catches.",
       knowers: ["lore-disclosure/game-master", "character-player/fairweather-elsie"],
     },
+    {
+      fact: "Elsie kissed Tilly's cheek twice on the flower cart round, once in the reeds.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-tilly",
+      ],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore

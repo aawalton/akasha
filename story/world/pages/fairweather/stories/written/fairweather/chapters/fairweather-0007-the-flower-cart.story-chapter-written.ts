@@ -11,9 +11,8 @@ export const fairweather0007TheFlowerCart = {
   story: "story-written/fairweather",
   ownLength: 9269,
   prose: "txt",
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/player",
   beats: "jsonl",
-  issues: "txt",
   lore: [
     "lore/fairweather-cora",
     "lore/fairweather-elsie",
@@ -37,7 +36,12 @@ export const fairweather0007TheFlowerCart = {
     "character-other/fairweather-tilly",
     "character-other/fairweather-cora",
   ],
-  reviewedBy: ["story-reviewer/holdings", "story-reviewer/scene", "story-reviewer/style"],
+  reviewedBy: [
+    "story-reviewer/holdings",
+    "story-reviewer/scene",
+    "story-reviewer/style",
+    "story-reviewer/continuity",
+  ],
   recordedBy: [
     "story-recorder/plan",
     "story-recorder/inventory",

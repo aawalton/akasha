@@ -153,6 +153,14 @@ export const fairweatherCora = {
         "character-player/fairweather-elsie",
       ],
     },
+    {
+      fact: "Besides strong black tea, Cora likes quiet.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/fairweather-cora",
+        "character-player/fairweather-elsie",
+      ],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore

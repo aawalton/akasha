@@ -246,6 +246,18 @@ export const fairweatherTamsin = {
         "character-other/fairweather-tamsin",
         "character-other/fairweather-rosa",
         "character-other/fairweather-nell",
+        "character-other/fairweather-tilly",
+        "character-other/fairweather-cora",
+      ],
+    },
+    {
+      fact: "Tamsin promised Nell and Rosa to come back to the Marigold for supper on the seventh.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/fairweather-tamsin",
+        "character-other/fairweather-nell",
+        "character-other/fairweather-rosa",
+        "character-player/fairweather-elsie",
       ],
     },
   ],

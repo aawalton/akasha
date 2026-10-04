@@ -264,5 +264,23 @@ export const fairweatherElsie = {
         "character-other/fairweather-cora",
       ],
     },
+    {
+      fact: "Cora's ledger for the flower cart round reads: skills used, none.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/fairweather-cora",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-tamsin",
+        "character-other/fairweather-tilly",
+      ],
+    },
+    {
+      fact: "Elsie kisses only the people she loves.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-tilly",
+      ],
+    },
   ],
 } as const satisfies Lore

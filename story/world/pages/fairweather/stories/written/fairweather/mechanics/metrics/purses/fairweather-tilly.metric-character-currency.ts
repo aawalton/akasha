@@ -8,7 +8,7 @@ export const fairweatherTilly = {
     "The prose never states Tilly's purse; she starts chapter 1 with 44 pips, a judgement for a girl who paid the two-lantern guild fee three days ago and has had no quest since.",
   character: "character-other/fairweather-tilly",
   currency: "world-currency/fairweather-coin",
-  value: 95,
+  value: 110,
   minValue: 0,
   history: "jsonl",
   displayOrder: 1,
