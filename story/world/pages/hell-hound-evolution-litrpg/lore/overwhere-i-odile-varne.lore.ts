@@ -239,5 +239,9 @@ export const overwhereIOdileVarne = {
       fact: "A sworn hunter may hand her papers back before the bench and be quit of the oath.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "In war the margrave may summon the march's sworn hunters; he has not done so in this war.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
