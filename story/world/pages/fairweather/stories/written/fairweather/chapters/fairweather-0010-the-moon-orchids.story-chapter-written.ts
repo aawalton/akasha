@@ -9,9 +9,9 @@ export const fairweather0010TheMoonOrchids = {
   unit: "unit/words",
   title: "The Moon Orchids",
   story: "story-written/fairweather",
-  ownLength: 10524,
+  ownLength: 10476,
   prose: "txt",
-  stepStatus: "step-status/writer",
+  stepStatus: "step-status/recorders",
   beats: "jsonl",
   issues: "txt",
   lore: [
