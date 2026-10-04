@@ -10,7 +10,8 @@ export const fairweather0002 = {
   story: "story-written/fairweather",
   ownLength: 0,
   prose: "txt",
-  stepStatus: "step-status/game-master",
+  stepStatus: "step-status/mechanics",
+  beats: "jsonl",
   lore: [
     "lore/fairweather-cora",
     "lore/fairweather-elsie",
