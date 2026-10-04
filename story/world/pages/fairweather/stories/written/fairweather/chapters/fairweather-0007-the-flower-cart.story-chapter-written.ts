@@ -37,7 +37,7 @@ export const fairweather0007TheFlowerCart = {
     "character-other/fairweather-tilly",
     "character-other/fairweather-cora",
   ],
-  reviewedBy: ["story-reviewer/holdings", "story-reviewer/scene"],
+  reviewedBy: ["story-reviewer/holdings", "story-reviewer/scene", "story-reviewer/style"],
   recordedBy: [
     "story-recorder/plan",
     "story-recorder/inventory",
