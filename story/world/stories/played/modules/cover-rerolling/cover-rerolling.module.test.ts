@@ -1,11 +1,11 @@
 import { expect, test } from "bun:test"
+import type { Value } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 import type { Writing } from "akasha/page/service/modules/page-calling/page-calling.module.code.ts"
+import type { Redraw } from "akasha/story/world/stories/played/modules/cover-redrawing/cover-redrawing.module.code.ts"
 import {
   answered,
   askedIn,
   beatsRepointed,
-  type Drawing,
-  drawingOf,
   holdsStory,
   type Rerolling,
   type Row,
@@ -53,7 +53,7 @@ function chapter(slug: string, covers: readonly string[]): Row {
 
 type Faked = {
   readonly effects: Rerolling
-  readonly drawn: Drawing[]
+  readonly drawn: Redraw[]
   readonly written: Writing[]
   readonly answers: (string | null)[]
 }
@@ -63,7 +63,7 @@ function faked(
   over: Partial<Rerolling> = {},
   files: Readonly<Record<string, string>> = {}
 ): Faked {
-  const drawn: Drawing[] = []
+  const drawn: Redraw[] = []
   const written: Writing[] = []
   const answers: (string | null)[] = []
   const effects: Rerolling = {
@@ -72,6 +72,7 @@ function faked(
     head: () => HEAD,
     rows: (pageTypeSlug) => rows[pageTypeSlug] ?? [],
     file: (path) => files[path] ?? null,
+    cover: () => null,
     draw: (drawing) => {
       drawn.push(drawing)
       return Promise.resolve(NEW_SLUG)
@@ -96,26 +97,7 @@ test("an ask names an image, and anything else asks nothing", () => {
   expect(askedIn(null)).toBeNull()
 })
 
-test("a cover is drawn again from what its image page records, at the one portrait size", () => {
-  expect(drawingOf(MADE)).toEqual(DRAWN)
-  expect(drawingOf({ ...MADE, prompt: " " })).toEqual({
-    refused: "This picture has no prompt saved, so it can't be redrawn.",
-  })
-  expect(drawingOf(null)).toHaveProperty("refused")
-})
-
-test("a picture another model made is drawn again by the story model at that model's own steps", () => {
-  const edited = {
-    model: "qwen-image-edit-2511-lightning+beyond-reality-3",
-    prompt: MADE.prompt,
-    steps: 30,
-    guidance: 4,
-  }
-  expect(drawingOf(edited)).toEqual(DRAWN)
-  expect(drawingOf({ prompt: MADE.prompt })).toEqual(DRAWN)
-})
-
-test("a reroll of a picture another model made lands a new picture", async () => {
+test("a reroll of a picture another model rendered lands a new render", async () => {
   const held = faked(
     { "story-turn-played": [turn("t-1", OLD)] },
     { image: () => ({ model: "Tongyi-MAI/Z-Image-Turbo", prompt: MADE.prompt }) }
@@ -321,4 +303,63 @@ test("a written story whose chapters no longer show the picture is refused and n
   await rerollOf(WRITTEN, held.effects)
   expect(held.drawn).toEqual([])
   expect(held.answers[0]).toContain("isn't in the story any more")
+})
+
+const INPUT = "image/image-input"
+
+const CHARACTER_COVER = "image/image-her-cover"
+
+const EDITED = {
+  service: "image-edit-qwen",
+  operation: "edit",
+  model: "qwen-image-edit-2511-lightning+beyond-reality-3",
+  inputImage: INPUT,
+  prompt: "Keep this exact woman. She kneads dough.",
+}
+
+const PICTURED_HER = `{"beat":2,"pictured":[{"cover":"${OLD}","character":"character-other/elsie"}]}`
+
+function pictures(held: Readonly<Record<string, Value>>): (address: string) => Value | null {
+  return (address) => held[address] ?? null
+}
+
+test("an edit picture is edited again from its recorded input with its recorded prompt", async () => {
+  const held = faked(
+    { "story-chapter-written": [writtenChapter("c-1", { scenes: [OLD], beats: "jsonl" })] },
+    { image: pictures({ [OLD]: EDITED, [INPUT]: MADE }) },
+    { [BEATS_AT]: PICTURED_HER }
+  )
+  await rerollOf(WRITTEN, held.effects)
+  expect(held.drawn).toEqual([{ prompt: EDITED.prompt, input: INPUT }])
+  expect(held.written[0]?.pages?.at(-1)).toEqual({
+    pageTypeSlug: "image",
+    slug: "image-old",
+    values: { grade: "F" },
+    merge: true,
+  })
+  expect(held.answers).toEqual([null])
+})
+
+test("an edit whose input is gone is edited from the cover of the character its beat names", async () => {
+  const held = faked(
+    { "story-chapter-written": [writtenChapter("c-1", { scenes: [OLD], beats: "jsonl" })] },
+    {
+      image: pictures({ [OLD]: EDITED, [CHARACTER_COVER]: MADE }),
+      cover: (character) => (character === "character-other/elsie" ? CHARACTER_COVER : null),
+    },
+    { [BEATS_AT]: PICTURED_HER }
+  )
+  await rerollOf(WRITTEN, held.effects)
+  expect(held.drawn).toEqual([{ prompt: EDITED.prompt, input: CHARACTER_COVER }])
+})
+
+test("an edit with no input to be had is refused in plain words, and nothing is made", async () => {
+  const held = faked(
+    { "story-turn-played": [turn("t-1", OLD)] },
+    { image: pictures({ [OLD]: EDITED }) }
+  )
+  await rerollOf(STORY, held.effects)
+  expect(held.drawn).toEqual([])
+  expect(held.written).toEqual([])
+  expect(held.answers).toEqual(["The picture this was made from is gone, so it can't be redrawn."])
 })

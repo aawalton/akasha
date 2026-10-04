@@ -22,6 +22,7 @@ export const storyPlayed = {
     "module/action-bar-sending",
     "module/action-bar-state",
     "module/beat-overlay",
+    "module/cover-redrawing",
     "module/cover-rerolling",
     "module/played-asking",
     "module/played-beside",

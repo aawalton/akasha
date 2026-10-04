@@ -10,21 +10,7 @@ export const coverRerolling = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement:
-        "A cover is drawn again from its recorded prompt, by the one model story pictures are drawn with.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "Recorded steps and guidance are kept only where that model drew the picture.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement:
-        "A cover is drawn again at 832 by 1216, the one portrait size every story picture takes.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A cover drawn again takes a new seed, since the old seed draws the same picture.",
+      statement: "A cover is made again the way cover redrawing says, once for each ask.",
     },
     {
       decisionKind: "decision-kind/departure",

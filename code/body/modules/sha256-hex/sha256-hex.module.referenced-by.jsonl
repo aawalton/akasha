@@ -7,6 +7,7 @@
 {"propertySlug":"import","fileName":"sha256-hex.module.code.ts","path":"command/pages/inference/upscale/inference-upscale.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"sha256-hex.module.code.ts","path":"command/pages/inference/wan/modules/wan-clip-rendering/wan-clip-rendering.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"sha256-hex.module.code.ts","path":"infrastructure/inference/generation/zimage/modules/edit-running/zimage-edit-running.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"sha256-hex.module.code.ts","path":"story/world/stories/played/modules/cover-redrawing/cover-redrawing.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"sha256-hex.module.code.ts","path":"temper/watcher/modules/watcher-token-check/watcher-token-check.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"sha256-hex.module.code.ts","path":"temper/watcher/modules/watcher-token-check/watcher-token-check.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"code/body/code-body.domain.ts","id":"01a09b2c-cc50-7f0f-838d-abfa522d31e4"}

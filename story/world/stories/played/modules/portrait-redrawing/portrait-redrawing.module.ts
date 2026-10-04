@@ -15,7 +15,11 @@ export const portraitRedrawing = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "A picture is drawn again from the prompt, model and seed its image page records, at 832 by 1216.",
+        "A picture is rendered again from its recorded prompt and seed, as cover redrawing renders.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A picture an edit made is passed over, since an edit keeps its input's shape.",
     },
     {
       decisionKind: "decision-kind/departure",

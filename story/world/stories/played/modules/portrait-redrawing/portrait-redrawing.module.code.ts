@@ -17,6 +17,9 @@ import {
   type Drawing,
   drawingOf,
   drawnAt,
+  madeByEdit,
+} from "akasha/story/world/stories/played/modules/cover-redrawing/cover-redrawing.module.code.ts"
+import {
   type Row,
   refusalSaid,
   repointed,
@@ -93,6 +96,8 @@ export function redrawingOf(
   image: Value | null,
   seed: () => number
 ): Redrawing | { readonly refused: string } {
+  if (madeByEdit(image))
+    return { refused: "an edit keeps the shape of the picture it was made from" }
   const drawing = drawingOf(image)
   if ("refused" in drawing) return drawing
   const own = image?.["seed"]

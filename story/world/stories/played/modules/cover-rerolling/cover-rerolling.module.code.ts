@@ -1,17 +1,6 @@
 import { readFileSync } from "node:fs"
 import { dirname, join } from "node:path"
 import { headOf } from "akasha/git/modules/head-commit/head-commit.module.code.ts"
-import {
-  fetchImage,
-  runComfyGraph,
-} from "akasha/infrastructure/inference/client/modules/comfy-client/comfy-client.module.code.ts"
-import { drawSeed } from "akasha/infrastructure/inference/client/modules/inference-seed/inference-seed.module.code.ts"
-import { makingValues } from "akasha/infrastructure/inference/generation/image/modules/making/image-making.module.code.ts"
-import { landImage } from "akasha/infrastructure/inference/generation/image/modules/picture-landing/picture-landing.module.code.ts"
-import { baseOf } from "akasha/infrastructure/inference/generation/zimage/modules/explore-batch/zimage-explore-batch.module.code.ts"
-import { buildModelGraph } from "akasha/infrastructure/inference/generation/zimage/modules/graph/zimage-graph.module.code.ts"
-import { MODELS } from "akasha/infrastructure/inference/generation/zimage/modules/models/zimage-models.module.code.ts"
-import { defaultPersistImageDeps } from "akasha/infrastructure/inference/run/modules/persist-image/persist-image.module.code.ts"
 import { followWithin } from "akasha/infrastructure/service/akasha-service/service-workstation/modules/file-following/file-following.module.code.ts"
 import {
   everyOfType,
@@ -37,6 +26,12 @@ import type {
   Put,
 } from "akasha/page/service/modules/page-composing/page-composing.module.code.ts"
 import { recordIn } from "akasha/story/engine/beat-state/modules/beat-changes/beat-changes.module.code.ts"
+import {
+  type Redraw,
+  redrawnAs,
+  redrawOf,
+  subjectIn,
+} from "akasha/story/world/stories/played/modules/cover-redrawing/cover-redrawing.module.code.ts"
 
 const STORY = "story-played"
 
@@ -78,62 +73,19 @@ const WRITTEN_BESIDE_TAIL = `.${WRITTEN}.uncommitted.ts`
 
 const REJECTED = "F"
 
-const DRAWN_WITHIN_MS = 15 * 60_000
-
 const QUIET_TICK_MS = 30_000
 
-const WIDTH = 832
-
-const HEIGHT = 1216
-
 const WRITER = "cover reroller <cover-reroller@alanwalton.com>"
-
-const STORY_MODEL: keyof typeof MODELS = "beyond-reality-3"
 
 const NOT_ANSWERING = "The picture maker isn't running right now. Try again in a little while."
 
 const CLOSED = /ECONNREFUSED|Unable to connect|fetch failed/
 
-export type Drawing = {
-  readonly model: string
-  readonly prompt: string
-  readonly steps: number
-  readonly guidance: number
-  readonly width: number
-  readonly height: number
-}
-
 export type Row = { readonly path: string; readonly value: Value }
-
-type Refused = { readonly refused: string }
 
 export function askedIn(beside: Value | null): string | null {
   const asked = beside === null ? null : textAt(beside, ASKED)
   return asked?.startsWith(IMAGE_OPENS) === true ? asked : null
-}
-
-function numberIn(value: Value, key: string, fallback: number): number {
-  const held = value[key]
-  return typeof held === "number" && Number.isFinite(held) ? held : fallback
-}
-
-export function drawingOf(image: Value | null): Drawing | Refused {
-  if (image === null)
-    return { refused: "This picture can't be found any more, so it can't be redrawn." }
-  const prompt = textAt(image, "prompt")
-  if (prompt === null || prompt.trim() === "") {
-    return { refused: "This picture has no prompt saved, so it can't be redrawn." }
-  }
-  const spec = MODELS[STORY_MODEL]
-  const kept = textAt(image, "model") === STORY_MODEL ? image : {}
-  return {
-    model: STORY_MODEL,
-    prompt,
-    steps: numberIn(kept, "steps", spec.defaultSteps),
-    guidance: numberIn(kept, "guidance", spec.defaultGuidance),
-    width: WIDTH,
-    height: HEIGHT,
-  }
 }
 
 function within(folder: string, rows: readonly Row[]): readonly Row[] {
@@ -265,7 +217,8 @@ export type Rerolling = {
   readonly head: () => string
   readonly rows: (pageTypeSlug: string) => readonly Row[]
   readonly file: (path: string) => string | null
-  readonly draw: (drawing: Drawing) => Promise<string>
+  readonly cover: (character: string) => string | null
+  readonly draw: (redraw: Redraw) => Promise<string>
   readonly write: (writing: Writing) => Promise<string | null>
   readonly answer: (story: string, refused: string | null) => undefined
 }
@@ -279,8 +232,23 @@ function holdersIn(story: string, effects: Rerolling, from: string, to: string):
   return { pages: repointed(turns, within(folder, effects.rows(CHAPTER)), from, to), puts: [] }
 }
 
+function subjectCoverIn(story: string, effects: Rerolling, asked: string): string | null {
+  if (!story.endsWith(WRITTEN_PAGE_TAIL)) return null
+  for (const one of within(dirname(story), effects.rows(WRITTEN_CHAPTER))) {
+    const ending = textAt(one.value, BEATS)
+    const text =
+      ending === null ? null : effects.file(one.path.replace(PAGE_ENDS, `.${BEATS}.${ending}`))
+    const character = text === null ? null : subjectIn(text, asked)
+    if (character !== null) return effects.cover(character)
+  }
+  return null
+}
+
 async function redrawn(story: string, asked: string, effects: Rerolling): Promise<string | null> {
-  const drawing = drawingOf(effects.image(asked))
+  const drawing = redrawOf(effects.image(asked), {
+    image: effects.image,
+    subjectCover: () => subjectCoverIn(story, effects, asked),
+  })
   if ("refused" in drawing) return drawing.refused
   const held = holdersIn(story, effects, asked, asked)
   if (held.pages.length === 0 && held.puts.length === 0) {
@@ -306,44 +274,11 @@ export async function rerollOf(story: string, effects: Rerolling): Promise<boole
   return true
 }
 
-async function drawnAs(drawing: Drawing): Promise<string> {
-  return await drawnAt(drawing, drawSeed())
-}
-
-export async function drawnAt(drawing: Drawing, seed: number): Promise<string> {
-  const spec = MODELS[drawing.model as keyof typeof MODELS]
-  const base = baseOf()
-  const run = await runComfyGraph({
-    baseUrl: base,
-    buildGraph: () =>
-      buildModelGraph(spec, {
-        prompt: drawing.prompt,
-        negativePrompt: spec.defaultNegative,
-        width: drawing.width,
-        height: drawing.height,
-        steps: drawing.steps,
-        guidance: drawing.guidance,
-        seed,
-        loraStrength: 1,
-        filenamePrefix: "cover-reroll",
-      }),
-    pollDeadlineMs: DRAWN_WITHIN_MS,
-  })
-  const png = await fetchImage(base, run.image)
-  const made = {
-    service: "zimage",
-    operation: "generate",
-    model: drawing.model,
-    prompt: drawing.prompt,
-    seed,
-    steps: drawing.steps,
-    guidance: drawing.guidance,
-    width: drawing.width,
-    height: drawing.height,
-  }
-  const values = makingValues(made, () => false)
-  const landed = await landImage(defaultPersistImageDeps(), png, values, [])
-  return landed.slug
+function pageAt(root: string, address: string): Value | null {
+  const [pageTypeSlug = "", slug = ""] = address.split("/")
+  const listed = listedAt(root, pageTypeSlug, slug)
+  const path = listed.length === 1 ? listed[0]?.path : undefined
+  return path === undefined ? null : valueAt(path, root)
 }
 
 export async function writtenBy(writing: Writing): Promise<string | null> {
@@ -356,11 +291,7 @@ export async function writtenBy(writing: Writing): Promise<string | null> {
 function rerollingAt(root: string): Rerolling {
   return {
     beside: (story) => uncommittedIn(root, story),
-    image: (address) => {
-      const listed = listedAt(root, IMAGE, address.slice(IMAGE_OPENS.length))
-      const path = listed.length === 1 ? listed[0]?.path : undefined
-      return path === undefined ? null : valueAt(path, root)
-    },
+    image: (address) => pageAt(root, address),
     head: () => headOf(root),
     rows: (pageTypeSlug) => valuesOfType(root, pageTypeSlug),
     file: (path) => {
@@ -370,7 +301,11 @@ function rerollingAt(root: string): Rerolling {
         return null
       }
     },
-    draw: drawnAs,
+    cover: (character) => {
+      const page = pageAt(root, character)
+      return page === null ? null : textAt(page, COVER)
+    },
+    draw: redrawnAs,
     write: writtenBy,
     answer: (story, refused) => {
       changeUncommitted(root, story, (held) => answered(held, refused))
