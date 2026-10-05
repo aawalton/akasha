@@ -9,12 +9,6 @@ export const nimueChapterNarration = {
   intentStack: [
     {
       statement:
-        "The first narration after the speech workload starts waits no longer than any other.",
-      workingMemory:
-        "Measured on 2026-10-05 through a port-forward: the first request after idle took 2.93s, and later sentences took 0.08s to 0.18s.",
-    },
-    {
-      statement:
         "The web server passes a narration's playlist and pieces through to Alan once he is signed in.",
     },
     {
