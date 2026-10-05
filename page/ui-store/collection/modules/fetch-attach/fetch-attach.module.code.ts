@@ -92,7 +92,7 @@ export function askingAgain(
     return { at: filePagesPath(pageTypeSlug, carry, named, pushed), only: new Set(pushed) }
   }
   const within = pushed.filter((id) => named.values.includes(id))
-  if (within.length === 0) return null
+  if (within.length === 0) return { at: filePagesPath(pageTypeSlug, carry, named), only: null }
   return askingFor(pageTypeSlug, carry, { by: "id", values: within }, within)
 }
 

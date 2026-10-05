@@ -83,13 +83,16 @@ test("a shape naming its own pages asks for the pushed pages within what it name
   })
 })
 
-test("a shape naming its pages by id asks only for the pushed ids it names, and nothing when it names none", () => {
+test("a shape naming its pages by id asks for the pushed ids it names, and for all it names when it names none", () => {
   const named = { by: "id", values: ["one", "two"] } as const
   expect(askingAgain("seat", [], named, ["two", "three"])).toEqual({
     at: "/api/pages/seat?id=two",
     only: new Set(["two"]),
   })
-  expect(askingAgain("seat", [], named, ["three"])).toBeNull()
+  expect(askingAgain("seat", [], named, ["three"])).toEqual({
+    at: "/api/pages/seat?id=one%2Ctwo",
+    only: null,
+  })
 })
 
 function row(id: string, title: string, story = "s1"): PageRow {

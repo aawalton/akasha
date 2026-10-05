@@ -48,7 +48,7 @@ export const fetchAttach = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A shape naming pages by id reads nothing for a push naming none of those ids.",
+      statement: "A shape naming pages by id reads them all again for a push naming none of them.",
     },
     {
       decisionKind: "decision-kind/departure",
