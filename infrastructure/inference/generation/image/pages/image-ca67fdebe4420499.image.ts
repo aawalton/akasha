@@ -4,6 +4,8 @@ export const imageCa67fdebe4420499 = {
   id: "01a10d4c-e88a-79f3-801b-d20dd23f022b",
   type: "page-type/image",
   slug: "image-ca67fdebe4420499",
+  title: "Black-Eared Bunnykin by the Hearth",
+  albums: ["image-album/bunny-girls"],
   service: "zimage",
   operation: "generate",
   model: "beyond-reality-3",

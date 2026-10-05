@@ -4,6 +4,8 @@ export const image91e59a33bddbc657 = {
   id: "01a10d4c-c171-76b3-81ab-4e4d19951a48",
   type: "page-type/image",
   slug: "image-91e59a33bddbc657",
+  title: "Bunnykin in the Lily Pond",
+  albums: ["image-album/bunny-girls"],
   service: "zimage",
   operation: "generate",
   model: "beyond-reality-3",
