@@ -1,12 +1,8 @@
 import type { Page } from "akasha/page/core/modules/page-types/page-types.module.code.ts"
-import { buildPageHref } from "akasha/page/url/modules/page-href/page-href.module.code.ts"
-import { toPageTypeSlug } from "akasha/page/url/modules/page-type-slug/page-type-slug.module.code.ts"
 import type { StoryDisplayModules } from "akasha/story/engine/core/modules/story-display/story-display.module.code.ts"
 import type { SessionEnvelope } from "akasha/story/ui/modules/client-envelope/client-envelope.module.code.ts"
 import type { ClientStoryTurn } from "akasha/story/ui/modules/client-story-session/client-story-session.module.code.ts"
-import { latestFrontierMs } from "akasha/story/ui/modules/revealed-frontier/revealed-frontier.module.code.ts"
 import { composeSessionEnvelope } from "akasha/story/ui/modules/session-envelope/session-envelope.module.code.ts"
-import type { ProseRow } from "akasha/story/ui/modules/story-prose-dividers/story-prose-dividers.module.code.ts"
 
 export const CHAPTER_PAGE_TYPE_SLUG = "story-chapter-read"
 
@@ -14,23 +10,10 @@ export const CHAPTER_STORY_KEY = "story"
 
 export const CHAPTER_POSITION_KEY = "position"
 
-export const ROWS_BEFORE_FRONTIER = 20
-
-export const ROWS_AFTER_FRONTIER = 40
-
 const UNTITLED = "Untitled"
-
-const PUBLISHED_AT_KEY = "publishedAt"
-
-const PUBLISHED_DAY_KEY = "publishedDay"
 
 const CHANNEL_MODULES: StoryDisplayModules = {
   chapterProse: { pastTurns: "muted" },
-}
-
-interface ChannelSpan {
-  readonly from: number
-  readonly to: number
 }
 
 function numberIn(value: unknown): number | undefined {
@@ -54,15 +37,6 @@ function byPosition(a: Page, b: Page): number {
   return leftTitle < rightTitle ? -1 : 1
 }
 
-function chapterHref(row: Page): string {
-  return buildPageHref({
-    pageTypeSlug: toPageTypeSlug(CHAPTER_PAGE_TYPE_SLUG),
-    slug: typeof row.slug === "string" ? row.slug : null,
-    fallbackSlugSource: titleIn(row.title),
-    id: row.id,
-  })
-}
-
 export function chapterTurnsOf(rows: readonly Page[]): readonly ClientStoryTurn[] {
   return [...rows].sort(byPosition).map((row) => {
     const turnNumber = numberIn(row.position)
@@ -76,10 +50,6 @@ export function chapterTurnsOf(rows: readonly Page[]): readonly ClientStoryTurn[
   })
 }
 
-export function chapterHrefsOf(rows: readonly Page[]): ReadonlyMap<string, string> {
-  return new Map(rows.map((row) => [row.id, chapterHref(row)]))
-}
-
 export function chapterChannelEnvelope(
   title: string,
   turns: readonly ClientStoryTurn[]
@@ -88,31 +58,4 @@ export function chapterChannelEnvelope(
     state: null,
     story: { chapters: [], current: turns },
   })
-}
-
-export function newestChapterAtMs(rows: readonly Page[]): number | null {
-  const instants = rows.map((row) => ({
-    [PUBLISHED_AT_KEY]: row.publishedAt,
-    [PUBLISHED_DAY_KEY]: row.publishedDay,
-  }))
-  return latestFrontierMs(instants, PUBLISHED_AT_KEY, PUBLISHED_DAY_KEY)
-}
-
-export function readChapterCount(rows: readonly ProseRow[]): number {
-  return rows.reduce((count, row) => (row.turn.fullyRead === true ? count + 1 : count), 0)
-}
-
-export function frontierRowIndex(rows: readonly ProseRow[]): number {
-  const unread = rows.findIndex((row) => row.turn.fullyRead !== true)
-  if (unread !== -1) return unread
-  return rows.length === 0 ? 0 : rows.length - 1
-}
-
-export function channelSpan(rows: readonly ProseRow[]): ChannelSpan {
-  if (rows.length === 0) return { from: 0, to: 0 }
-  const frontier = frontierRowIndex(rows)
-  return {
-    from: Math.max(0, frontier - ROWS_BEFORE_FRONTIER),
-    to: Math.min(rows.length, frontier + ROWS_AFTER_FRONTIER + 1),
-  }
 }

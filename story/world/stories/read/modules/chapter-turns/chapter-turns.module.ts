@@ -4,7 +4,7 @@ export const chapterTurns = {
   id: "01a0a10a-d1f9-7c13-b526-33d95a14d7dc",
   type: "page-type/module",
   slug: "chapter-turns",
-  definition: "the chapters of a story somebody else wrote, shaped into the turns a channel draws",
+  definition: "the chapters of a story somebody else wrote, shaped into the turns its alerts watch",
   code: "ts",
   test: "ts",
   decisions: [
@@ -20,14 +20,6 @@ export const chapterTurns = {
       decisionKind: "decision-kind/absence",
       statement:
         "A turn carries no prose, because a chapter's prose is read on that chapter's page.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "The span holds the first chapter that has not been read.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A story with every chapter read has its last chapter for a frontier.",
     },
   ],
 } as const satisfies Module

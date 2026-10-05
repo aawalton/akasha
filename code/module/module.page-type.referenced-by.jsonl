@@ -2679,7 +2679,6 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"story/ui/modules/quest-card/quest-card.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"story/ui/modules/quest-projection/quest-projection.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"story/ui/modules/quests-panel/quests-panel.module.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"story/ui/modules/revealed-frontier/revealed-frontier.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"story/ui/modules/scene-cover-panel/scene-cover-panel.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"story/ui/modules/session-envelope/session-envelope.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"story/ui/modules/sheet-panel/sheet-panel.module.ts","typed":true,"deferred":false}
@@ -2746,7 +2745,6 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"story/world/stories/played/turns/modules/turn-prose/turn-prose.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"story/world/stories/played/turns/modules/turn-seats/turn-seats.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"story/world/stories/read/modules/chapter-alerts/chapter-alerts.module.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"story/world/stories/read/modules/chapter-channel/chapter-channel.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"story/world/stories/read/modules/chapter-turns/chapter-turns.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"story/world/stories/read/modules/reader-shell/reader-shell.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"story/world/stories/read/wandering-inn/modules/chapter-filing/chapter-filing.module.ts","typed":true,"deferred":false}

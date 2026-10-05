@@ -15,15 +15,12 @@ import {
 import type { PageTypeSlug } from "akasha/page/url/modules/page-type-slug/page-type-slug.module.code.ts"
 import { AlertControls } from "akasha/story/ui/modules/alert-controls/alert-controls.module.code.tsx"
 import { useChapterAlerts } from "akasha/story/world/stories/read/modules/chapter-alerts/chapter-alerts.module.code.ts"
-import { ChapterChannel } from "akasha/story/world/stories/read/modules/chapter-channel/chapter-channel.module.code.tsx"
 import {
   CHAPTER_PAGE_TYPE_SLUG,
   CHAPTER_POSITION_KEY,
   CHAPTER_STORY_KEY,
   chapterChannelEnvelope,
-  chapterHrefsOf,
   chapterTurnsOf,
-  newestChapterAtMs,
 } from "akasha/story/world/stories/read/modules/chapter-turns/chapter-turns.module.code.ts"
 import { useMemo } from "react"
 
@@ -55,23 +52,16 @@ export function ReaderShell({ pageTypeSlug, id }: { pageTypeSlug: PageTypeSlug; 
   const { rows, isLoading } = usePages(options)
 
   const turns = useMemo(() => chapterTurnsOf(rows), [rows])
-  const hrefById = useMemo(() => chapterHrefsOf(rows), [rows])
-  const newestAtMs = useMemo(() => newestChapterAtMs(rows), [rows])
   const envelope = useMemo(() => chapterChannelEnvelope(title, turns), [title, turns])
   const alerts = useChapterAlerts({ envelope, storyTitle: title, storyId: id, following })
 
-  if (isLoading || turns.length === 0) return null
+  if (isLoading || turns.length === 0 || !alerts.needsPermissionPrompt) return null
 
   return (
     <PageLayout.Header className="flex flex-col gap-4">
       <AlertControls
         needsPermissionPrompt={alerts.needsPermissionPrompt}
         onEnable={alerts.enableAlerts}
-      />
-      <ChapterChannel
-        turns={envelope.chapterProse ?? turns}
-        hrefById={hrefById}
-        newestAtMs={newestAtMs}
       />
     </PageLayout.Header>
   )

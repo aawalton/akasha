@@ -4,13 +4,12 @@ export const readerShell = {
   id: "01a0a114-e185-7eb0-8943-4533dfe74f46",
   type: "page-type/module",
   slug: "reader-shell",
-  definition:
-    "the reader a story read draws over its own chapters, with its alerts and its channel",
+  definition: "the alerts a story read raises over its own chapters",
   code: "tsx",
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "The chapters drawn are the chapters naming this story and no other.",
+      statement: "The chapters watched are the chapters naming this story and no other.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -19,6 +18,15 @@ export const readerShell = {
     {
       decisionKind: "decision-kind/departure",
       statement: "A story with no chapter of its own draws nothing at all.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "Only the prompt to allow alerts is drawn, and only while the browser asks for it.",
+    },
+    {
+      decisionKind: "decision-kind/absence",
+      statement: "No chapter is listed here, since the view the story embeds lists them.",
     },
     {
       decisionKind: "decision-kind/absence",

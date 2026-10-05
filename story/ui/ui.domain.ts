@@ -24,7 +24,7 @@ export const ui = {
     "module/quest-card",
     "module/quest-projection",
     "module/quests-panel",
-    "module/revealed-frontier",
+
     "module/session-envelope",
     "module/sheet-panel",
 

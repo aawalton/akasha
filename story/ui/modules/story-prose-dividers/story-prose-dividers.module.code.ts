@@ -1,7 +1,7 @@
 import type { ChapterProsePastTurns } from "akasha/story/engine/core/modules/story-display/story-display.module.code.ts"
 import type { ClientStoryTurn } from "akasha/story/ui/modules/client-story-session/client-story-session.module.code.ts"
 
-export interface ProseRow {
+interface ProseRow {
   readonly turn: ClientStoryTurn
   readonly sessionDivider: number | null
   readonly newest: boolean

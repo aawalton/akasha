@@ -17,7 +17,6 @@ export const storyRead = {
   },
   parts: [
     "module/chapter-alerts",
-    "module/chapter-channel",
     "module/chapter-turns",
     "module/reader-shell",
     "page-type/story-chapter-read",
@@ -56,6 +55,14 @@ export const storyRead = {
     {
       decisionKind: "decision-kind/departure",
       statement: "A tag the source gave and a tag the person gave are two properties.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A story read lists its chapters once, in the view the story embeds.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "That view shows only the chapters left to read until the person changes it.",
     },
   ],
   types: "ts",
