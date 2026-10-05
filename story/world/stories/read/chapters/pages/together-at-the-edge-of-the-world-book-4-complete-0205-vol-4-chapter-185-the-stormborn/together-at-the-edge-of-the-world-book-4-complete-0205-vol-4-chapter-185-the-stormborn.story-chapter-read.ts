@@ -4,6 +4,7 @@ export const togetherAtTheEdgeOfTheWorldBook4Complete0205Vol4Chapter185TheStormb
   id: "01a0f12a-ffdc-7563-bb9f-3d669f28cac7",
   type: "page-type/story-chapter-read",
   slug: "together-at-the-edge-of-the-world-book-4-complete-0205-vol-4-chapter-185-the-stormborn",
+  ownProgress: 2207,
   position: 205,
   publishedAt: "2026-06-01",
   unit: "unit/words",

@@ -4,6 +4,7 @@ export const togetherAtTheEdgeOfTheWorldBook4Complete0206SideStory5TheLittleGirl
   id: "01a0f12a-ffdc-7c93-88a9-8a7f361d351d",
   type: "page-type/story-chapter-read",
   slug: "together-at-the-edge-of-the-world-book-4-complete-0206-side-story-5-the-little-girl-in-between",
+  ownProgress: 2454,
   position: 206,
   publishedAt: "2026-06-03",
   unit: "unit/words",
