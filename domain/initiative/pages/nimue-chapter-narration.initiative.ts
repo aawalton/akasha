@@ -8,9 +8,6 @@ export const nimueChapterNarration = {
   persona: "persona/nimue",
   intentStack: [
     {
-      statement: "Every kind of window in a chapter is spoken as plain sentences.",
-    },
-    {
       statement:
         "The speech workload serves a narration as a growing HLS playlist of one AAC stream.",
     },
