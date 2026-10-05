@@ -6,7 +6,6 @@ CRASH_MARKER='// ===== native crash-capture seam'
 SHIM_MARKER='// ===== offline-audio native playback shim'
 ACCESSORY_MARKER='// ===== keyboard-accessory suppressor seam'
 WIDGET_REFRESH_MARKER='// ===== widget-refresh-on-foreground seam'
-KOKORO_MARKER='// ===== kokoro-tts on-device synthesis seam'
 WALLPAPER_INTENT_MARKER='// ===== get-wallpaper app intent seam'
 ACTIVE_ENERGY_INTENT_MARKER='// ===== sync-active-energy app intent seam'
 HEALTH_SAMPLES_INTENT_MARKER='// ===== stream-health-samples app intent seam'
@@ -16,7 +15,7 @@ DEVICE_SECRET_MARKER='// ===== device-secret keychain seam'
 HANDOVER_SIGN_IN_MARKER='// ===== handover sign-in seam'
 MONARCH_TAP_MARKER='// ===== monarch-tap relay seam'
 BUILD_STAMP_MARKER='// ===== build stamp seam'
-FIRST_SEAM_LINE=$(grep -nF -e "$CRASH_MARKER" -e "$SHIM_MARKER" -e "$ACCESSORY_MARKER" -e "$WIDGET_REFRESH_MARKER" -e "$KOKORO_MARKER" -e "$WALLPAPER_INTENT_MARKER" -e "$ACTIVE_ENERGY_INTENT_MARKER" -e "$HEALTH_SAMPLES_INTENT_MARKER" -e "$PICTURE_INTENT_MARKER" -e "$APP_SHORTCUTS_PROVIDER_MARKER" -e "$DEVICE_SECRET_MARKER" -e "$HANDOVER_SIGN_IN_MARKER" -e "$MONARCH_TAP_MARKER" -e "$BUILD_STAMP_MARKER" "$APPDELEGATE" | head -1 | cut -d: -f1 || true)
+FIRST_SEAM_LINE=$(grep -nF -e "$CRASH_MARKER" -e "$SHIM_MARKER" -e "$ACCESSORY_MARKER" -e "$WIDGET_REFRESH_MARKER" -e "$WALLPAPER_INTENT_MARKER" -e "$ACTIVE_ENERGY_INTENT_MARKER" -e "$HEALTH_SAMPLES_INTENT_MARKER" -e "$PICTURE_INTENT_MARKER" -e "$APP_SHORTCUTS_PROVIDER_MARKER" -e "$DEVICE_SECRET_MARKER" -e "$HANDOVER_SIGN_IN_MARKER" -e "$MONARCH_TAP_MARKER" -e "$BUILD_STAMP_MARKER" "$APPDELEGATE" | head -1 | cut -d: -f1 || true)
 if [[ -n "$FIRST_SEAM_LINE" ]]; then
   head -n "$((FIRST_SEAM_LINE - 1))" "$APPDELEGATE" > "$APPDELEGATE.seam.tmp"
   mv "$APPDELEGATE.seam.tmp" "$APPDELEGATE"

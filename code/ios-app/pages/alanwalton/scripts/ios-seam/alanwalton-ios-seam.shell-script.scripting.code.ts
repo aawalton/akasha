@@ -53,8 +53,6 @@ const BEFORE = [
   "seam-reset",
   "crash-capture",
   "native-audio",
-  "kokoro-tts",
-  "kokoro-synthesis",
   "keyboard-accessory-suppressor",
   "apns-forwarding",
   "widget-refresh",
@@ -73,7 +71,7 @@ const BEFORE = [
   "monarch-tap",
 ]
 
-const AFTER = ["plugin-registrations", "fluidaudio-pin", "app-icon", "widget-target"]
+const AFTER = ["plugin-registrations", "deployment-floor", "app-icon", "widget-target"]
 
 const CLOSING = "app-entitlements"
 
@@ -252,10 +250,6 @@ function settingIn(places: Places): readonly string[] {
     "",
     'PICTURE_INTENT_ENABLED="${NATIVE_SHELL_PICTURE_INTENT:-1}"',
     'CAMERA_USAGE_DESC="alanwalton opens the camera when you run Take Picture, so the picture can be sent to your handler."',
-    "",
-    'KOKORO_TTS_ENABLED="${NATIVE_SHELL_KOKORO_TTS:-1}"',
-    'KOKORO_FLUIDAUDIO_URL="https://github.com/FluidInference/FluidAudio.git"',
-    'KOKORO_FLUIDAUDIO_REVISION="300165b240c45375add402265f62410b6df33cf1"',
     "",
     'HANDOVER_SIGN_IN_ENABLED="${NATIVE_SHELL_HANDOVER_SIGN_IN:-1}"',
     "",

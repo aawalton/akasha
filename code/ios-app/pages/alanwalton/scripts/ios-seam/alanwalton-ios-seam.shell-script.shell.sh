@@ -115,10 +115,6 @@ HEALTH_SAMPLES_INTENT_ENABLED="${NATIVE_SHELL_HEALTH_SAMPLES_INTENT:-1}"
 PICTURE_INTENT_ENABLED="${NATIVE_SHELL_PICTURE_INTENT:-1}"
 CAMERA_USAGE_DESC="alanwalton opens the camera when you run Take Picture, so the picture can be sent to your handler."
 
-KOKORO_TTS_ENABLED="${NATIVE_SHELL_KOKORO_TTS:-1}"
-KOKORO_FLUIDAUDIO_URL="https://github.com/FluidInference/FluidAudio.git"
-KOKORO_FLUIDAUDIO_REVISION="300165b240c45375add402265f62410b6df33cf1"
-
 HANDOVER_SIGN_IN_ENABLED="${NATIVE_SHELL_HANDOVER_SIGN_IN:-1}"
 
 URL_SCHEME_ENABLED="${NATIVE_SHELL_URL_SCHEME:-1}"
@@ -168,10 +164,6 @@ SEAM_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")/.." && pwd)"
 . "$SEAM_DIR/crash-capture/alanwalton-crash-capture.shell-script.shell.sh"
 # shellcheck source=../native-audio/alanwalton-native-audio.shell-script.shell.sh
 . "$SEAM_DIR/native-audio/alanwalton-native-audio.shell-script.shell.sh"
-# shellcheck source=../kokoro-tts/alanwalton-kokoro-tts.shell-script.shell.sh
-. "$SEAM_DIR/kokoro-tts/alanwalton-kokoro-tts.shell-script.shell.sh"
-# shellcheck source=../kokoro-synthesis/alanwalton-kokoro-synthesis.shell-script.shell.sh
-. "$SEAM_DIR/kokoro-synthesis/alanwalton-kokoro-synthesis.shell-script.shell.sh"
 # shellcheck source=../keyboard-accessory-suppressor/alanwalton-keyboard-accessory-suppressor.shell-script.shell.sh
 . "$SEAM_DIR/keyboard-accessory-suppressor/alanwalton-keyboard-accessory-suppressor.shell-script.shell.sh"
 # shellcheck source=../apns-forwarding/alanwalton-apns-forwarding.shell-script.shell.sh
@@ -211,8 +203,8 @@ native_shell_stamp_app "$APPDELEGATE"
 
 # shellcheck source=../plugin-registrations/alanwalton-plugin-registrations.shell-script.shell.sh
 . "$SEAM_DIR/plugin-registrations/alanwalton-plugin-registrations.shell-script.shell.sh"
-# shellcheck source=../fluidaudio-pin/alanwalton-fluidaudio-pin.shell-script.shell.sh
-. "$SEAM_DIR/fluidaudio-pin/alanwalton-fluidaudio-pin.shell-script.shell.sh"
+# shellcheck source=../deployment-floor/alanwalton-deployment-floor.shell-script.shell.sh
+. "$SEAM_DIR/deployment-floor/alanwalton-deployment-floor.shell-script.shell.sh"
 # shellcheck source=../app-icon/alanwalton-app-icon.shell-script.shell.sh
 . "$SEAM_DIR/app-icon/alanwalton-app-icon.shell-script.shell.sh"
 # shellcheck source=../widget-target/alanwalton-widget-target.shell-script.shell.sh

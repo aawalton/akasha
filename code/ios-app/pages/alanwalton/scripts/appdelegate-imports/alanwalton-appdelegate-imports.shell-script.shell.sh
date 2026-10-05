@@ -34,10 +34,3 @@ insert_import_after_capacitor Security
 insert_import_after_capacitor CryptoKit
 insert_import_after_capacitor AuthenticationServices
 insert_import_after_capacitor HealthKit
-if [[ "$KOKORO_TTS_ENABLED" == "1" ]]; then
-  insert_import_after_capacitor FluidAudio
-  insert_import_after_capacitor MediaPlayer
-else
-  remove_import FluidAudio
-  remove_import MediaPlayer
-fi

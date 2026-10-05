@@ -10,8 +10,8 @@
 {"propertySlug":"import","fileName":"shell-script.page-type.types.ts","path":"code/ios-app/pages/alanwalton/scripts/capture-device-console/alanwalton-capture-device-console.shell-script.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"shell-script.page-type.types.ts","path":"code/ios-app/pages/alanwalton/scripts/crash-capture/alanwalton-crash-capture.shell-script.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"shell-script.page-type.types.ts","path":"code/ios-app/pages/alanwalton/scripts/decode-harness-run/alanwalton-decode-harness-run.shell-script.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"shell-script.page-type.types.ts","path":"code/ios-app/pages/alanwalton/scripts/deployment-floor/alanwalton-deployment-floor.shell-script.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"shell-script.page-type.types.ts","path":"code/ios-app/pages/alanwalton/scripts/device-secret/alanwalton-device-secret.shell-script.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"shell-script.page-type.types.ts","path":"code/ios-app/pages/alanwalton/scripts/fluidaudio-pin/alanwalton-fluidaudio-pin.shell-script.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"shell-script.page-type.types.ts","path":"code/ios-app/pages/alanwalton/scripts/handover-sign-in/alanwalton-handover-sign-in.shell-script.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"shell-script.page-type.types.ts","path":"code/ios-app/pages/alanwalton/scripts/health-anchored-read/alanwalton-health-anchored-read.shell-script.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"shell-script.page-type.types.ts","path":"code/ios-app/pages/alanwalton/scripts/health-cursorless-backstop/alanwalton-health-cursorless-backstop.shell-script.ts","typed":true,"deferred":false}
@@ -26,11 +26,6 @@
 {"propertySlug":"import","fileName":"shell-script.page-type.types.ts","path":"code/ios-app/pages/alanwalton/scripts/ios-add/alanwalton-ios-add.shell-script.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"shell-script.page-type.types.ts","path":"code/ios-app/pages/alanwalton/scripts/ios-seam/alanwalton-ios-seam.shell-script.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"shell-script.page-type.types.ts","path":"code/ios-app/pages/alanwalton/scripts/keyboard-accessory-suppressor/alanwalton-keyboard-accessory-suppressor.shell-script.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"shell-script.page-type.types.ts","path":"code/ios-app/pages/alanwalton/scripts/kokoro-model-preparation/alanwalton-kokoro-model-preparation.shell-script.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"shell-script.page-type.types.ts","path":"code/ios-app/pages/alanwalton/scripts/kokoro-playback-control/alanwalton-kokoro-playback-control.shell-script.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"shell-script.page-type.types.ts","path":"code/ios-app/pages/alanwalton/scripts/kokoro-plugin-declaration/alanwalton-kokoro-plugin-declaration.shell-script.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"shell-script.page-type.types.ts","path":"code/ios-app/pages/alanwalton/scripts/kokoro-synthesis/alanwalton-kokoro-synthesis.shell-script.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"shell-script.page-type.types.ts","path":"code/ios-app/pages/alanwalton/scripts/kokoro-tts/alanwalton-kokoro-tts.shell-script.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"shell-script.page-type.types.ts","path":"code/ios-app/pages/alanwalton/scripts/live-activity/alanwalton-live-activity.shell-script.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"shell-script.page-type.types.ts","path":"code/ios-app/pages/alanwalton/scripts/monarch-tap/alanwalton-monarch-tap.shell-script.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"shell-script.page-type.types.ts","path":"code/ios-app/pages/alanwalton/scripts/native-audio/alanwalton-native-audio.shell-script.ts","typed":true,"deferred":false}

@@ -135,7 +135,6 @@
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"code/ios-app/pages/alanwalton/scripts/health-samples-intent/alanwalton-health-samples-intent.shell-script.scripting.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"code/ios-app/pages/alanwalton/scripts/ios-add/alanwalton-ios-add.shell-script.scripting.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"code/ios-app/pages/alanwalton/scripts/ios-seam/alanwalton-ios-seam.shell-script.scripting.code.ts","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"code/ios-app/pages/alanwalton/scripts/kokoro-tts/alanwalton-kokoro-tts.shell-script.scripting.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"code/ios-app/pages/atlas/scripts/ios-add/atlas-ios-add.shell-script.scripting.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"code/ios-app/pages/atlas/scripts/ios-seam/atlas-ios-seam.shell-script.scripting.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"code/ios-app/pages/smilingjenny/scripts/ios-add/smilingjenny-ios-add.shell-script.scripting.code.ts","typed":false,"deferred":false}

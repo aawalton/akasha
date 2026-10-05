@@ -16,8 +16,8 @@ cat >> "$APPDELEGATE" <<'SWIFT_WALLPAPER'
 // App Intents are discovered by iOS from the compiled app binary, so it carries NO
 // packageClassList entry; it only has to compile into the App target (AppDelegate.swift already
 // is one). No caching, no App Group, no entitlement (Alan's do-nothing-offline choice).
-// @available(iOS 16.0, *) guards the App Intents API so a Kokoro-off build (deployment target 15)
-// still compiles; the shipped build targets iOS 17.
+// @available(iOS 16.0, *) guards the App Intents API so a build left at the template's
+// deployment target 15 still compiles; the shipped build targets iOS 17.
 @available(iOS 16.0, *)
 struct GetWallpaperIntent: AppIntent {
     static var title: LocalizedStringResource = "Get AlanWalton Wallpaper"
