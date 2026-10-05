@@ -4,6 +4,7 @@ export const gifted0079Chapter78 = {
   id: "01a0fe39-6832-7548-bf35-4377d7e7d978",
   type: "page-type/story-chapter-read",
   slug: "gifted-0079-chapter-78",
+  completedAt: "2026-10-05T20:52:24.550Z",
   ownProgress: 2292,
   position: 79,
   publishedAt: "2026-10-02",
