@@ -4,6 +4,7 @@ export const togetherAtTheEdgeOfTheWorldBook4Complete0264Vol5Chapter236SuperWeap
   id: "01a0f12b-0e35-7200-8540-735f45589c3c",
   type: "page-type/story-chapter-read",
   slug: "together-at-the-edge-of-the-world-book-4-complete-0264-vol-5-chapter-236-super-weapons",
+  ownProgress: 2687,
   position: 264,
   publishedAt: "2026-09-28",
   unit: "unit/words",
