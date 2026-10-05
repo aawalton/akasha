@@ -50,7 +50,7 @@ export type Drawing = {
   readonly height: number
 }
 
-export type Editing = {
+type Editing = {
   readonly prompt: string
   readonly input: string
   readonly references?: readonly string[]
@@ -173,7 +173,7 @@ function endingFor(bytes: Uint8Array): string {
   return `.${endingOf(bytes) ?? "png"}`
 }
 
-export async function editedAt(editing: Editing, seed: number): Promise<string> {
+async function editedAt(editing: Editing, seed: number): Promise<string> {
   const bytes = await bytesOfImage(editing.input.slice(IMAGE_OPENS.length))
   const references: EditReference[] = []
   for (const one of editing.references ?? []) {
