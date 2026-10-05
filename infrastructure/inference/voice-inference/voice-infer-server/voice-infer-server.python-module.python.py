@@ -6,16 +6,12 @@ onto cuda at startup, then serves an OpenAI-compatible contract:
   - POST /v1/audio/speech          (JSON {"input","voice"} -> audio/wav bytes)
   - POST /v1/audio/speech/stream   (JSON {"segments","voice"} -> raw s16le PCM stream)
   - GET  /health                   ({"status":"ok"} once both models resident)
+  - /v1/narration/...              (chapters read aloud as a growing HLS stream;
+                                    the routes are in `voice_narration.py`)
 
-The three streaming/render endpoints accept an ORDERED SEGMENT ARRAY (`segments`)
-and synthesize exactly those segments in order — they do NOT segment text. The
-canonical sentence segmentation lives ONCE in TypeScript (`splitSentences` +
-`packSegments` in `@alanwalton/voice-core`); the caller packs there and passes the
-result in, so audio timing marks (TS-indexed) and reader spans (TS-indexed) share
-one segmenter and cannot drift (#15773). The former in-server `_segment_for_stream`
-Python port (which mirrored `packSegments(splitSentences(...))`) is retired. The
-non-streaming `/v1/audio/speech` still takes a single `input` (one Kokoro pass, no
-segmentation) — it is the speaker-child's per-utterance path and is unchanged.
+The streaming and narration routes take segments the caller already divided and
+synthesize exactly those, in order; nothing here divides text. The non-streaming
+`/v1/audio/speech` takes a single `input` (one Kokoro run).
 
 Both models load SYNCHRONOUSLY in the FastAPI lifespan before the server accepts
 traffic, so /health is only 200 once inference is ready. The client falls back to
@@ -53,6 +49,7 @@ from voice_inference import (
     _transcribe,
     app,
 )
+import voice_narration  # noqa: F401  (registers the /v1/narration routes on app)
 
 
 @app.get("/health")

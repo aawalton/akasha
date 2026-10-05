@@ -97,6 +97,13 @@ def _load_models() -> None:
     print(f"[voice-infer] loaded Kokoro (lang_code=a) in "
           f"{time.monotonic() - t1:.1f}s", flush=True)
 
+    # The first synthesis loads the voice and warms the kernels; doing it here
+    # keeps that cost off the first caller.
+    t2 = time.monotonic()
+    _synthesize("Ready.", "af_heart")
+    print(f"[voice-infer] warmed Kokoro (af_heart) in "
+          f"{time.monotonic() - t2:.1f}s", flush=True)
+
 
 @asynccontextmanager
 async def lifespan(_app: FastAPI):
