@@ -40,6 +40,12 @@ export const storyChapterPlayed = {
     progressPropertyId: "ownProgress",
     lengthPropertyId: "ownLength",
   },
+  mediaConfig: {
+    audio: {
+      sourcePropertyId: "prose",
+      renderer: "tts",
+    },
+  },
   sequence: {
     groupBy: "story",
     orderBy: "position",
