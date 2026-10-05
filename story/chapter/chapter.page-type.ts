@@ -20,6 +20,7 @@ export const chapter = {
     "multi-relation-property/step-reviewed-by",
     "multi-relation-property/step-recorded-by",
     "file-property/rulings",
+    "domain/narration",
   ],
   properties: [
     { pageProperty: "text-property/title", required: true, many: false },
