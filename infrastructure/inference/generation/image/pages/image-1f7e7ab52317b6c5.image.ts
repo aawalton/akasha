@@ -5,7 +5,7 @@ export const image1f7e7ab52317b6c5 = {
   type: "page-type/image",
   slug: "image-1f7e7ab52317b6c5",
   title: "Bunnykin in the Hammock",
-  albums: ["image-album/bunny-girls"],
+  albums: ["image-album/bunnykin"],
   service: "zimage",
   operation: "generate",
   model: "beyond-reality-3",

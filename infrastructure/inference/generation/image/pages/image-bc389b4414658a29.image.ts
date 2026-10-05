@@ -5,7 +5,7 @@ export const imageBc389b4414658a29 = {
   type: "page-type/image",
   slug: "image-bc389b4414658a29",
   title: "Bunnykin Stretching in the Tulips",
-  albums: ["image-album/bunny-girls"],
+  albums: ["image-album/bunnykin"],
   service: "zimage",
   operation: "generate",
   model: "beyond-reality-3",
