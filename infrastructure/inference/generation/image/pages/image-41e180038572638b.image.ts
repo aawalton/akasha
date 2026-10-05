@@ -4,6 +4,8 @@ export const image41e180038572638b = {
   id: "01a10d86-39e2-743a-9b9b-b838f1e44eaa",
   type: "page-type/image",
   slug: "image-41e180038572638b",
+  title: "Tawny Catkin in the Fairy Forest",
+  albums: ["image-album/catkin"],
   service: "zimage",
   operation: "generate",
   model: "beyond-reality-3",

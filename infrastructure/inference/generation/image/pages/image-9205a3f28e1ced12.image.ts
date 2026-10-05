@@ -4,6 +4,8 @@ export const image9205a3f28e1ced12 = {
   id: "01a10d86-6080-719d-b427-693a6c672d67",
   type: "page-type/image",
   slug: "image-9205a3f28e1ced12",
+  title: "Grey Catkin on the Tavern Table",
+  albums: ["image-album/catkin"],
   service: "zimage",
   operation: "generate",
   model: "beyond-reality-3",

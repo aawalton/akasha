@@ -4,6 +4,8 @@ export const imageBd75e0022164b39d = {
   id: "01a10d86-4d03-7a01-8a40-39a20aa1c6a6",
   type: "page-type/image",
   slug: "image-bd75e0022164b39d",
+  title: "Snow Leopard Catkin in the Mountain Spring",
+  albums: ["image-album/catkin"],
   service: "zimage",
   operation: "generate",
   model: "beyond-reality-3",

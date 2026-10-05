@@ -4,6 +4,8 @@ export const image14a3581eecd7709d = {
   id: "01a10d86-8822-7805-89b2-0608e6bddbd7",
   type: "page-type/image",
   slug: "image-14a3581eecd7709d",
+  title: "White Catkin in the Moon Temple",
+  albums: ["image-album/catkin"],
   service: "zimage",
   operation: "generate",
   model: "beyond-reality-3",
