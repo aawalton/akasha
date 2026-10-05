@@ -4,6 +4,8 @@ export const image86797556e48771ca = {
   id: "01a10d96-e913-7c17-8e92-07ca29a8f687",
   type: "page-type/image",
   slug: "image-86797556e48771ca",
+  title: "Catkin with a Parasol on the Shrine Bridge",
+  albums: ["image-album/catkin"],
   service: "zimage",
   operation: "generate",
   model: "beyond-reality-3",

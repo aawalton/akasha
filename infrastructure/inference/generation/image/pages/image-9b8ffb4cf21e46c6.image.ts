@@ -4,6 +4,8 @@ export const image9b8ffb4cf21e46c6 = {
   id: "01a10d96-a43c-7221-9b47-f3d102e8b1d5",
   type: "page-type/image",
   slug: "image-9b8ffb4cf21e46c6",
+  title: "Catkin at the Lighthouse Window",
+  albums: ["image-album/catkin"],
   service: "zimage",
   operation: "generate",
   model: "beyond-reality-3",

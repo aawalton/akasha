@@ -4,6 +4,8 @@ export const image8642be7bd38f51df = {
   id: "01a10d98-6db2-7549-b442-e53f49906fdc",
   type: "page-type/image",
   slug: "image-8642be7bd38f51df",
+  title: "Catkin in the Magic Greenhouse",
+  albums: ["image-album/catkin"],
   service: "zimage",
   operation: "generate",
   model: "beyond-reality-3",

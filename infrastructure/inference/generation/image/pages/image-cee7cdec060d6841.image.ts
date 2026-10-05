@@ -4,6 +4,8 @@ export const imageCee7cdec060d6841 = {
   id: "01a10d96-7d6f-7542-9972-5f99256232f5",
   type: "page-type/image",
   slug: "image-cee7cdec060d6841",
+  title: "Catkin Behind the Potion Shop Counter",
+  albums: ["image-album/catkin"],
   service: "zimage",
   operation: "generate",
   model: "beyond-reality-3",

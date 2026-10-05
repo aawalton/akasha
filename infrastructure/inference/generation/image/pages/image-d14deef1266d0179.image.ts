@@ -4,6 +4,8 @@ export const imageD14deef1266d0179 = {
   id: "01a10d96-fc95-7947-9f53-aa8827774cf7",
   type: "page-type/image",
   slug: "image-d14deef1266d0179",
+  title: "Ranger Catkin on the Branch",
+  albums: ["image-album/catkin"],
   service: "zimage",
   operation: "generate",
   model: "beyond-reality-3",

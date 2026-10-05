@@ -4,6 +4,8 @@ export const image45c65db1a1882109 = {
   id: "01a10d97-ee7d-72eb-b16b-7feb616d8af0",
   type: "page-type/image",
   slug: "image-45c65db1a1882109",
+  title: "Catkin Gathering Glowing Shells",
+  albums: ["image-album/catkin"],
   service: "zimage",
   operation: "generate",
   model: "beyond-reality-3",

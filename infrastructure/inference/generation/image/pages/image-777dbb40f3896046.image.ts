@@ -4,6 +4,8 @@ export const image777dbb40f3896046 = {
   id: "01a10d98-94c3-7753-afff-0030505a3e5f",
   type: "page-type/image",
   slug: "image-777dbb40f3896046",
+  title: "Star Mage Catkin in the Observatory",
+  albums: ["image-album/catkin"],
   service: "zimage",
   operation: "generate",
   model: "beyond-reality-3",

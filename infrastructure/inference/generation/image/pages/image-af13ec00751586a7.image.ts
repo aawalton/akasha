@@ -4,6 +4,8 @@ export const imageAf13ec00751586a7 = {
   id: "01a10d98-5a42-745f-91f5-409ad889b28d",
   type: "page-type/image",
   slug: "image-af13ec00751586a7",
+  title: "Catkin Reading by the Hearth with a Sleeping Fox",
+  albums: ["image-album/catkin"],
   service: "zimage",
   operation: "generate",
   model: "beyond-reality-3",

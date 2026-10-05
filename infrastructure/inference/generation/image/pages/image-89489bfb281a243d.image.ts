@@ -4,6 +4,8 @@ export const image89489bfb281a243d = {
   id: "01a10d98-01e8-7f1f-912b-356665a6f6a3",
   type: "page-type/image",
   slug: "image-89489bfb281a243d",
+  title: "Lilac Catkin on the Blossom Swing",
+  albums: ["image-album/catkin"],
   service: "zimage",
   operation: "generate",
   model: "beyond-reality-3",

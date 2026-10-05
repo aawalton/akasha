@@ -4,6 +4,8 @@ export const image95c49838f238012f = {
   id: "01a10d97-1025-7658-a6c7-35f9d41785d9",
   type: "page-type/image",
   slug: "image-95c49838f238012f",
+  title: "Catkin Baking Star Pastries",
+  albums: ["image-album/catkin"],
   service: "zimage",
   operation: "generate",
   model: "beyond-reality-3",

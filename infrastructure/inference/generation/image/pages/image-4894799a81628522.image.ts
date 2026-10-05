@@ -4,6 +4,8 @@ export const image4894799a81628522 = {
   id: "01a10d97-3739-772c-a603-294050fb869a",
   type: "page-type/image",
   slug: "image-4894799a81628522",
+  title: "Catkin on the Library Ladder",
+  albums: ["image-album/catkin"],
   service: "zimage",
   operation: "generate",
   model: "beyond-reality-3",

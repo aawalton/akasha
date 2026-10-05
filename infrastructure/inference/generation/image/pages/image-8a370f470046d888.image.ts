@@ -4,6 +4,8 @@ export const image8a370f470046d888 = {
   id: "01a10d97-dad6-74a7-a473-ee1d80aaf897",
   type: "page-type/image",
   slug: "image-8a370f470046d888",
+  title: "Golden Catkin on the Sunset Cliff",
+  albums: ["image-album/catkin"],
   service: "zimage",
   operation: "generate",
   model: "beyond-reality-3",

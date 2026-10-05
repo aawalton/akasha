@@ -4,6 +4,8 @@ export const imageCf0a0ea24fca699b = {
   id: "01a10d98-eca0-77fb-983c-1683003ac0da",
   type: "page-type/image",
   slug: "image-cf0a0ea24fca699b",
+  title: "Catkin Dancing at the Fairy Festival",
+  albums: ["image-album/catkin"],
   service: "zimage",
   operation: "generate",
   model: "beyond-reality-3",

@@ -4,6 +4,8 @@ export const image983d141e7497710c = {
   id: "01a10d98-d92d-7bd5-b860-2649e07b5020",
   type: "page-type/image",
   slug: "image-983d141e7497710c",
+  title: "Tinkerer Catkin and the Clockwork Bird",
+  albums: ["image-album/catkin"],
   service: "zimage",
   operation: "generate",
   model: "beyond-reality-3",

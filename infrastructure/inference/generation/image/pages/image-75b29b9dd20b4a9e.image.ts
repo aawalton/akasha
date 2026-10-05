@@ -4,6 +4,8 @@ export const image75b29b9dd20b4a9e = {
   id: "01a10d97-23b4-735e-aa17-7a2b8616f63d",
   type: "page-type/image",
   slug: "image-75b29b9dd20b4a9e",
+  title: "Academy Catkin with an Armful of Spellbooks",
+  albums: ["image-album/catkin"],
   service: "zimage",
   operation: "generate",
   model: "beyond-reality-3",

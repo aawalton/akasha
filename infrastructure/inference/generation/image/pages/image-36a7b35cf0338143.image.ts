@@ -4,6 +4,8 @@ export const image36a7b35cf0338143 = {
   id: "01a10d96-cbc5-7265-b636-240a53219cdc",
   type: "page-type/image",
   slug: "image-36a7b35cf0338143",
+  title: "White Catkin Building a Snow-Cat",
+  albums: ["image-album/catkin"],
   service: "zimage",
   operation: "generate",
   model: "beyond-reality-3",

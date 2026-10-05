@@ -4,6 +4,8 @@ export const image577743fec42206e1 = {
   id: "01a10d98-2950-749f-af4c-454a958604b1",
   type: "page-type/image",
   slug: "image-577743fec42206e1",
+  title: "Catkin Riding the White Stag",
+  albums: ["image-album/catkin"],
   service: "zimage",
   operation: "generate",
   model: "beyond-reality-3",

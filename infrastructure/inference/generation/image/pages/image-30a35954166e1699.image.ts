@@ -4,6 +4,8 @@ export const image30a35954166e1699 = {
   id: "01a10d98-46af-73c8-a2e2-240230740c17",
   type: "page-type/image",
   slug: "image-30a35954166e1699",
+  title: "White Catkin Under the Northern Lights",
+  albums: ["image-album/catkin"],
   service: "zimage",
   operation: "generate",
   model: "beyond-reality-3",

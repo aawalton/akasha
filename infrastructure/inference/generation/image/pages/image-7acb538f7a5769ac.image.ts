@@ -4,6 +4,8 @@ export const image7acb538f7a5769ac = {
   id: "01a10d98-c5bb-799a-aff4-21a9a2e60283",
   type: "page-type/image",
   slug: "image-7acb538f7a5769ac",
+  title: "Catkin with Bread at the Snowy Market",
+  albums: ["image-album/catkin"],
   service: "zimage",
   operation: "generate",
   model: "beyond-reality-3",

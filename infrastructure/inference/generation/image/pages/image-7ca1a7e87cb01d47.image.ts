@@ -4,6 +4,8 @@ export const image7ca1a7e87cb01d47 = {
   id: "01a10d98-b205-7e9c-80ee-90e3bc1e7963",
   type: "page-type/image",
   slug: "image-7ca1a7e87cb01d47",
+  title: "Catkin with a Lantern by the Moonlit River",
+  albums: ["image-album/catkin"],
   service: "zimage",
   operation: "generate",
   model: "beyond-reality-3",

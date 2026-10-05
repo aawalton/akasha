@@ -4,6 +4,8 @@ export const image836d1a11183cdf59 = {
   id: "01a10d96-b7cd-7732-bea4-cef3ef2e94b9",
   type: "page-type/image",
   slug: "image-836d1a11183cdf59",
+  title: "Calico Catkin Picking Berries",
+  albums: ["image-album/catkin"],
   service: "zimage",
   operation: "generate",
   model: "beyond-reality-3",
