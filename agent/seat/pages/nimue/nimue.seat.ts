@@ -5,7 +5,7 @@ export const nimue = {
   type: "page-type/seat",
   slug: "nimue",
   persona: "persona/nimue",
-  assignmentSlug: "domain/technology",
+  assignmentSlug: "initiative/nimue-chapter-narration",
   role: "role/definer",
   person: "person/alan",
   startMode: "seat-mode/interactive",
