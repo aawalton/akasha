@@ -6,6 +6,7 @@ import {
   askingAgain,
   deliveredWithin,
   filePagesPath,
+  leavingWith,
   planFetchedRows,
   readAnswerRows,
   retryAfter,
@@ -179,6 +180,22 @@ test("a patched page takes its place in an ordered, narrowed view of the store",
   patch(["c"], [])
   expect(await titles()).toEqual(["Aardvark", "Bravo, too", "Delta"])
   view.dispose()
+})
+
+test("a page made again under its slug with a new id takes the place of the page it replaced", () => {
+  const before = asPageRow({ id: "old", slug: "mari", page_type_slug: "seat", title: "Mari" })
+  const after = asPageRow({ id: "new", slug: "mari", page_type_slug: "seat", title: "Mari" })
+  const amy = asPageRow({ id: "amy", slug: "amy", page_type_slug: "seat", title: "Amy" })
+  const byId = new Map([before, amy].map((one) => [one.id, one]))
+  const leaving = leavingWith(new Set(["old", "amy"]), new Set(["new"]), [after], (id) =>
+    byId.get(id)
+  )
+  expect(leaving).toEqual(new Set(["old"]))
+  expect(planFetchedRows([after], leaving, (id) => byId.get(id), "seat")).toEqual({
+    inserts: [after],
+    updates: [],
+    deletes: ["old"],
+  })
 })
 
 test("only the pages asked for can leave the shape", () => {

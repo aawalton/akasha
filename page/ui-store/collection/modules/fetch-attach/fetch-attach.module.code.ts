@@ -104,6 +104,29 @@ export function deliveredWithin(
   return new Set([...only].filter((id) => delivered.has(id)))
 }
 
+function slugKey(row: PageRow): string | null {
+  return row.slug === null ? null : `${row.page_type_slug}/${row.slug}`
+}
+
+export function leavingWith(
+  delivered: ReadonlySet<string>,
+  only: ReadonlySet<string> | null,
+  fetched: readonly PageRow[],
+  getRow: (id: string) => PageRow | undefined
+): ReadonlySet<string> {
+  const within = deliveredWithin(delivered, only)
+  if (only === null) return within
+  const fetchedIds = new Set(fetched.map((row) => row.id))
+  const named = new Set(fetched.map(slugKey).filter((key) => key !== null))
+  const leaving = new Set(within)
+  for (const id of delivered) {
+    const held = fetchedIds.has(id) ? undefined : getRow(id)
+    const key = held === undefined ? null : slugKey(held)
+    if (key !== null && named.has(key)) leaving.add(id)
+  }
+  return leaving
+}
+
 function canonicalJson(value: unknown): string {
   if (value === undefined) return "null"
   if (Array.isArray(value)) return `[${value.map(canonicalJson).join(",")}]`
@@ -202,7 +225,8 @@ export function attachFetch(
 
   const apply = (rows: readonly PageRow[], only: ReadonlySet<string> | null): boolean => {
     const set = shapeSet()
-    const plan = planFetchedRows(rows, deliveredWithin(set, only), deps.getRow, pageTypeSlug)
+    const leaving = leavingWith(set, only, rows, deps.getRow)
+    const plan = planFetchedRows(rows, leaving, deps.getRow, pageTypeSlug)
     const gone = plan.deletes.filter((id) => !heldElsewhere(id))
     try {
       if (plan.inserts.length > 0) deps.controller.seed(plan.inserts)

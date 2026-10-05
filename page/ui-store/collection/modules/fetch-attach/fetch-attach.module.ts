@@ -35,8 +35,16 @@ export const fetchAttach = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A pushed page the shape no longer answers leaves the shape.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement:
-        "A pushed page the shape no longer answers leaves the shape, and no other page does.",
+        "A pushed page holding a slug the shape holds under another id replaces the page under that id.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "No other page leaves the shape on a push naming pages.",
     },
     {
       decisionKind: "decision-kind/departure",
