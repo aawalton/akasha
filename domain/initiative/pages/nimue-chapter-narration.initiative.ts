@@ -9,10 +9,6 @@ export const nimueChapterNarration = {
   intentStack: [
     {
       statement:
-        "The speech workload serves a narration as a growing HLS playlist of one AAC stream.",
-    },
-    {
-      statement:
         "The first narration after the speech workload starts waits no longer than any other.",
       workingMemory:
         "Measured on 2026-10-05 through a port-forward: the first request after idle took 2.93s, and later sentences took 0.08s to 0.18s.",
