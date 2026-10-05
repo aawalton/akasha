@@ -4,6 +4,7 @@ export const togetherAtTheEdgeOfTheWorldBook4Complete0222Vol5Chapter197Cookie = 
   id: "01a0f12a-ffdc-75ce-9147-6f8ba1508638",
   type: "page-type/story-chapter-read",
   slug: "together-at-the-edge-of-the-world-book-4-complete-0222-vol-5-chapter-197-cookie",
+  ownProgress: 2748,
   position: 222,
   publishedAt: "2026-06-29",
   unit: "unit/words",

@@ -4,6 +4,7 @@ export const togetherAtTheEdgeOfTheWorldBook4Complete0221Vol5Chapter196WeCanStil
   id: "01a0f12a-ffdc-72cf-89bc-57ff8c97b603",
   type: "page-type/story-chapter-read",
   slug: "together-at-the-edge-of-the-world-book-4-complete-0221-vol-5-chapter-196-we-can-still-try",
+  ownProgress: 2343,
   position: 221,
   publishedAt: "2026-06-26",
   unit: "unit/words",

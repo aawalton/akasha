@@ -4,6 +4,7 @@ export const togetherAtTheEdgeOfTheWorldBook4Complete0224Vol5Chapter199AReallyGo
   id: "01a0f12a-ffdc-773c-9bf5-ff8d4737928c",
   type: "page-type/story-chapter-read",
   slug: "together-at-the-edge-of-the-world-book-4-complete-0224-vol-5-chapter-199-a-really-good-kiss",
+  ownProgress: 2622,
   position: 224,
   publishedAt: "2026-07-03",
   unit: "unit/words",
