@@ -4,6 +4,8 @@ export const image09e61058fcc5e4b7 = {
   id: "01a10d77-e88d-7a5a-8b0f-53925aca1e4c",
   type: "page-type/image",
   slug: "image-09e61058fcc5e4b7",
+  title: "Silver Catkin Stretching on the Bed",
+  albums: ["image-album/catkin"],
   service: "zimage",
   operation: "generate",
   model: "beyond-reality-3",

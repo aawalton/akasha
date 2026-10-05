@@ -4,6 +4,8 @@ export const imageFbcfc5c5bdfe2c8f = {
   id: "01a10d78-0f9b-70ac-9840-0a4d59ebaa9e",
   type: "page-type/image",
   slug: "image-fbcfc5c5bdfe2c8f",
+  title: "Siamese Catkin with a Ribbon",
+  albums: ["image-album/catkin"],
   service: "zimage",
   operation: "generate",
   model: "beyond-reality-3",

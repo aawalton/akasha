@@ -4,6 +4,8 @@ export const imageDafd9e07c99cf762 = {
   id: "01a10d77-d549-7222-84a1-ae33d05d4bc7",
   type: "page-type/image",
   slug: "image-dafd9e07c99cf762",
+  title: "Tabby Catkin by the Fire",
+  albums: ["image-album/catkin"],
   service: "zimage",
   operation: "generate",
   model: "beyond-reality-3",
