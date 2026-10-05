@@ -4,6 +4,7 @@ export const togetherAtTheEdgeOfTheWorldBook4Complete0259Vol5Chapter231ItsNotEno
   id: "01a0f12b-0e35-727d-9352-8e149d601404",
   type: "page-type/story-chapter-read",
   slug: "together-at-the-edge-of-the-world-book-4-complete-0259-vol-5-chapter-231-its-not-enough",
+  ownProgress: 2342,
   position: 259,
   publishedAt: "2026-09-16",
   unit: "unit/words",

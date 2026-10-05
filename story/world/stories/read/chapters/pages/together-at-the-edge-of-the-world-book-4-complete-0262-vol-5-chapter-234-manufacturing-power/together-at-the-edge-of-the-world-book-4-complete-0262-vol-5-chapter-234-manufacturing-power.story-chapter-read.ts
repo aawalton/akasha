@@ -4,6 +4,7 @@ export const togetherAtTheEdgeOfTheWorldBook4Complete0262Vol5Chapter234Manufactu
   id: "01a0f12b-0e35-742a-937d-6ed96632f24b",
   type: "page-type/story-chapter-read",
   slug: "together-at-the-edge-of-the-world-book-4-complete-0262-vol-5-chapter-234-manufacturing-power",
+  ownProgress: 2521,
   position: 262,
   publishedAt: "2026-09-23",
   unit: "unit/words",

@@ -4,6 +4,7 @@ export const togetherAtTheEdgeOfTheWorldBook4Complete0260Vol5Chapter232NothingsW
   id: "01a0f12b-0e35-7442-88b5-e665c5729df6",
   type: "page-type/story-chapter-read",
   slug: "together-at-the-edge-of-the-world-book-4-complete-0260-vol-5-chapter-232-nothings-working",
+  ownProgress: 2278,
   position: 260,
   publishedAt: "2026-09-18",
   unit: "unit/words",

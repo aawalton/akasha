@@ -4,6 +4,7 @@ export const togetherAtTheEdgeOfTheWorldBook4Complete0261Vol5Chapter233IsSheAFis
   id: "01a0f12b-0e35-7545-9540-4da301b7b7fc",
   type: "page-type/story-chapter-read",
   slug: "together-at-the-edge-of-the-world-book-4-complete-0261-vol-5-chapter-233-is-she-a-fish",
+  ownProgress: 2206,
   position: 261,
   publishedAt: "2026-09-21",
   unit: "unit/words",
