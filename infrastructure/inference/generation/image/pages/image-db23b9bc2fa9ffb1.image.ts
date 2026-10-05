@@ -4,6 +4,8 @@ export const imageDb23b9bc2fa9ffb1 = {
   id: "01a10d8e-4d9c-7a5a-b0f8-b187f41ba40f",
   type: "page-type/image",
   slug: "image-db23b9bc2fa9ffb1",
+  title: "Calico Catkin Caught with the Yarn",
+  albums: ["image-album/catkin"],
   service: "zimage",
   operation: "generate",
   model: "beyond-reality-3",

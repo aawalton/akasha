@@ -4,6 +4,8 @@ export const imageBc849fe2142a3163 = {
   id: "01a10d8e-7520-7597-b47a-9d0179412939",
   type: "page-type/image",
   slug: "image-bc849fe2142a3163",
+  title: "Catkin Watching the First Snow",
+  albums: ["image-album/catkin"],
   service: "zimage",
   operation: "generate",
   model: "beyond-reality-3",

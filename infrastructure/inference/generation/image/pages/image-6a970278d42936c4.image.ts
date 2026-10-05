@@ -4,6 +4,8 @@ export const image6a970278d42936c4 = {
   id: "01a10d8e-39fa-714b-b276-5932ab0d3401",
   type: "page-type/image",
   slug: "image-6a970278d42936c4",
+  title: "Catkin with a Kitten Asleep in Her Lap",
+  albums: ["image-album/catkin"],
   service: "zimage",
   operation: "generate",
   model: "beyond-reality-3",

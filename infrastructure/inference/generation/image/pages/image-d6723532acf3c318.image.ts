@@ -4,6 +4,8 @@ export const imageD6723532acf3c318 = {
   id: "01a10d8e-26a2-7d56-a70b-3d2deed074cb",
   type: "page-type/image",
   slug: "image-d6723532acf3c318",
+  title: "Catkin Curled Asleep in a Basket",
+  albums: ["image-album/catkin"],
   service: "zimage",
   operation: "generate",
   model: "beyond-reality-3",

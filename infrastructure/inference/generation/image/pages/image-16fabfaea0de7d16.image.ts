@@ -4,6 +4,8 @@ export const image16fabfaea0de7d16 = {
   id: "01a10d8e-6109-77d9-a7f6-64ebb34627f6",
   type: "page-type/image",
   slug: "image-16fabfaea0de7d16",
+  title: "Ginger Catkin About to Sneeze",
+  albums: ["image-album/catkin"],
   service: "zimage",
   operation: "generate",
   model: "beyond-reality-3",
