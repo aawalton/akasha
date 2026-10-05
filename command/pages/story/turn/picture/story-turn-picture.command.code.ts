@@ -84,7 +84,7 @@ export type Chapter = {
   readonly storyValue: Value | null
 }
 
-export function scenesOf(pictured: readonly Pictured[]): readonly string[] {
+function scenesOf(pictured: readonly Pictured[]): readonly string[] {
   return [...new Set(pictured.map((one) => one.cover))]
 }
 
@@ -98,7 +98,7 @@ export function chapterScened(at: string, text: string, scenes: readonly string[
   return spliced(text, [{ from: held.getStart(source), to: held.getEnd(), put }])
 }
 
-export type Pictures = {
+type Pictures = {
   readonly beats: string
   readonly scenes: readonly string[]
   readonly count: number
@@ -144,11 +144,7 @@ function shaped(root: string, path: string, text: string): string {
   return new TextDecoder().decode(formattedBody(root, path, new TextEncoder().encode(text)).body)
 }
 
-export function askedFor(
-  root: string,
-  chapter: Chapter,
-  laid: Pictures
-): readonly Asking[] | string {
+function askedFor(root: string, chapter: Chapter, laid: Pictures): readonly Asking[] | string {
   const scened = chapterScened(chapter.at, chapter.text, laid.scenes)
   if (scened === null) return `\`${chapter.at}\` exports no object`
   const asked: Asking[] = []
