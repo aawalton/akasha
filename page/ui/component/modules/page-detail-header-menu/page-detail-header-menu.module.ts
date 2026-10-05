@@ -15,5 +15,9 @@ export const pageDetailHeaderMenu = {
       decisionKind: "decision-kind/departure",
       statement: "Items a body adds go when that body goes.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A reader may hand the menu items of its own, drawn above the items a body adds.",
+    },
   ],
 } as const satisfies Module

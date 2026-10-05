@@ -49,6 +49,7 @@ interface PageDetailHeaderMenuProps {
   pageId: string
   isFavorite: boolean
   size?: "row" | "icon"
+  extra?: ReactNode
 }
 
 export function PageDetailHeaderMenu({
@@ -56,15 +57,25 @@ export function PageDetailHeaderMenu({
   pageId,
   isFavorite,
   size,
+  extra = null,
 }: PageDetailHeaderMenuProps) {
   const setProperty = useSetPropertyOptimistic()
   const runDelete = useOptimisticDeletePage((args) => deletePage(args))
   const { push } = usePagesUIRouter()
   const { items } = useContext(MenuExtraContext)
+  const shown =
+    extra === null ? (
+      items
+    ) : (
+      <>
+        {extra}
+        {items}
+      </>
+    )
 
   return (
     <PageActionsMenu
-      extra={items}
+      extra={shown}
       size={size}
       isFavorite={isFavorite}
       onToggleFavorite={() =>

@@ -9,7 +9,9 @@ import {
   EmptyTitle,
 } from "akasha/design/interface/pattern/modules/empty/empty.module.code.tsx"
 import { cn } from "akasha/design/interface/primitive/modules/cn/cn.module.code.ts"
+import { DropdownMenuItem } from "akasha/design/interface/primitive/modules/dropdown-menu/dropdown-menu.module.code.tsx"
 import { expandDateMentions } from "akasha/page/core/view/modules/expand-date-mentions/expand-date-mentions.module.code.ts"
+import { usePageAudio } from "akasha/page/ui/component/modules/page-audio/page-audio.module.code.tsx"
 import { toPageDataJSON } from "akasha/page/ui/component/modules/page-data-json/page-data-json.module.code.ts"
 import {
   clampFraction,
@@ -143,6 +145,14 @@ export function PageReaderContent({
   const userId = source.useReaderUserId()
   const setProperty = source.useReaderSetProperty()
   const ReaderHeaderMenu = source.ReaderHeaderMenu
+  const audio = usePageAudio()
+  const pageSlug = typeof data.slug === "string" ? data.slug : ""
+  const audioItem =
+    audio !== null && pageTypeData.mediaConfig?.audio !== undefined && pageSlug !== "" ? (
+      <DropdownMenuItem onSelect={() => audio.play({ pageTypeSlug, slug: pageSlug })}>
+        Play Audio
+      </DropdownMenuItem>
+    ) : null
   const movedRef = useReaderMoved(id)
 
   const { anchorRef, restoringRef } = useReaderProgressWriter({
@@ -215,6 +225,7 @@ export function PageReaderContent({
                   pageTypeSlug={pageTypeSlug}
                   pageId={id}
                   isFavorite={data.favoritedAt != null}
+                  extra={audioItem}
                 />
               ),
             }

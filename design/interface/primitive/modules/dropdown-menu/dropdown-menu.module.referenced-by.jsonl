@@ -6,6 +6,7 @@
 {"propertySlug":"import","fileName":"dropdown-menu.module.code.tsx","path":"design/interface/system/modules/components-menu-panels/components-menu-panels.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"dropdown-menu.module.code.tsx","path":"page/ui/component/modules/nav-item-actions/nav-item-actions.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"dropdown-menu.module.code.tsx","path":"page/ui/component/modules/page-actions-menu/page-actions-menu.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"dropdown-menu.module.code.tsx","path":"page/ui/component/modules/page-reader-content/page-reader-content.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"dropdown-menu.module.code.tsx","path":"page/ui/component/modules/select-property-badge/select-property-badge.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"dropdown-menu.module.code.tsx","path":"page/ui/component/modules/view-tab-context-menu/view-tab-context-menu.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"dropdown-menu.module.code.tsx","path":"page/ui/component/modules/view-tabs/view-tabs.module.code.tsx","typed":false,"deferred":false}

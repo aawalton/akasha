@@ -13,6 +13,7 @@ interface ReaderHeaderMenuProps {
   readonly pageTypeSlug: PageTypeSlug
   readonly pageId: string
   readonly isFavorite: boolean
+  readonly extra?: ReactNode
 }
 
 interface ReaderPageSource {

@@ -37,6 +37,7 @@ export const pageUiComponent = {
     "module/notes-options-picker",
     "module/operator-filter-control",
     "module/page-actions-menu",
+    "module/page-audio",
     "module/page-badge",
     "module/page-badge-drawings",
     "module/page-board",

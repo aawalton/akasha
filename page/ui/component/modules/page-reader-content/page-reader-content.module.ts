@@ -21,5 +21,10 @@ export const pageReaderContent = {
       statement:
         "A file body asked for at a new version keeps the body it shows until the new one comes.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A page whose type renders its pages as audio offers Play Audio in its menu where a player is held.",
+    },
   ],
 } as const satisfies Module
