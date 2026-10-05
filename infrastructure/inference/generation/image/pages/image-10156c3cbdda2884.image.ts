@@ -4,6 +4,8 @@ export const image10156c3cbdda2884 = {
   id: "01a10d3a-edf7-7d9d-a717-64712bde07cb",
   type: "page-type/image",
   slug: "image-10156c3cbdda2884",
+  title: "Red Satin Over the City",
+  albums: ["image-album/bunny-girls"],
   service: "zimage",
   operation: "generate",
   model: "beyond-reality-3",

@@ -4,6 +4,8 @@ export const imageFa7866f159c9d35b = {
   id: "01a10d3b-0166-735c-b34a-2cb51517be8f",
   type: "page-type/image",
   slug: "image-fa7866f159c9d35b",
+  title: "Lace Bunny on White Sheets",
+  albums: ["image-album/bunny-girls"],
   service: "zimage",
   operation: "generate",
   model: "beyond-reality-3",

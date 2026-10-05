@@ -4,6 +4,8 @@ export const image113862623321fd80 = {
   id: "01a10d3a-c73e-758b-a9e1-d02e9eba54b8",
   type: "page-type/image",
   slug: "image-113862623321fd80",
+  title: "Platinum at the Deco Bar",
+  albums: ["image-album/bunny-girls"],
   service: "zimage",
   operation: "generate",
   model: "beyond-reality-3",

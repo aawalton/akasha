@@ -4,6 +4,8 @@ export const image155bdfef51bf5ed4 = {
   id: "01a10d3b-14e0-758f-8d38-62e34a4bec3b",
   type: "page-type/image",
   slug: "image-155bdfef51bf5ed4",
+  title: "Champagne on the Blackjack Table",
+  albums: ["image-album/bunny-girls"],
   service: "zimage",
   operation: "generate",
   model: "beyond-reality-3",
