@@ -40,9 +40,6 @@ export const nimueChapterNarration = {
     {
       statement: "Narration keeps playing on Alan's iPhone with the screen locked.",
     },
-    {
-      statement: "The iOS app carries no on-device Kokoro plugin.",
-    },
   ],
   constraints: [
     "The speech workload runs Kokoro on a GTX 1080 Ti on node-02, one inference at a time.",
