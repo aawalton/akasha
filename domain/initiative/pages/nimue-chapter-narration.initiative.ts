@@ -19,9 +19,6 @@ export const nimueChapterNarration = {
         "A chapter whose narration ends is marked read, and the next chapter follows in the stream.",
     },
     {
-      statement: "A narration that fails shows Alan the error.",
-    },
-    {
       statement: "Narration keeps playing on Alan's iPhone with the screen locked.",
     },
   ],
