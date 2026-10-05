@@ -75,7 +75,7 @@ const PLAYER_AT = `${characterPlayer.slug}/`
 
 const SCRIPT = ".ts"
 
-export type Held = {
+type Held = {
   readonly page: string
   readonly id: string
   readonly unrevealed: unknown
@@ -236,7 +236,7 @@ function heldIn(value: Readonly<Record<string, unknown>>): Held | null {
   return { page: `${bare}/${slug}`, id, unrevealed: value[UNREVEALED] }
 }
 
-export function heldUnder(root: string, game: string, chapter: boolean): readonly Held[] {
+function heldUnder(root: string, game: string, chapter: boolean): readonly Held[] {
   const owner = listedAt(root, chapter ? storyWritten.slug : storyPlayed.slug, game)[0]
   if (owner === undefined) return []
   const folder = dirname(owner.path)
