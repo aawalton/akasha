@@ -4,6 +4,7 @@ export const togetherAtTheEdgeOfTheWorldBook4Complete0250Vol5Chapter222TakingCar
   id: "01a0f12b-0e34-7ee9-83ee-02c0d5ed1599",
   type: "page-type/story-chapter-read",
   slug: "together-at-the-edge-of-the-world-book-4-complete-0250-vol-5-chapter-222-taking-care-of-a-big-baby",
+  ownProgress: 2421,
   position: 250,
   publishedAt: "2026-08-26",
   unit: "unit/words",

@@ -4,6 +4,7 @@ export const togetherAtTheEdgeOfTheWorldBook4Complete0245Vol5Chapter217TheSancti
   id: "01a0f12a-ffdd-74c8-9a19-f57c609828cf",
   type: "page-type/story-chapter-read",
   slug: "together-at-the-edge-of-the-world-book-4-complete-0245-vol-5-chapter-217-the-sanctified-one-now-with",
+  ownProgress: 2432,
   position: 245,
   publishedAt: "2026-08-14",
   unit: "unit/words",

@@ -4,6 +4,7 @@ export const togetherAtTheEdgeOfTheWorldBook4Complete0247Vol5Chapter219PanicAtta
   id: "01a0f12a-ffdd-7a96-b43c-212d9f6a777c",
   type: "page-type/story-chapter-read",
   slug: "together-at-the-edge-of-the-world-book-4-complete-0247-vol-5-chapter-219-panic-attacks",
+  ownProgress: 1938,
   position: 247,
   publishedAt: "2026-08-19",
   unit: "unit/words",

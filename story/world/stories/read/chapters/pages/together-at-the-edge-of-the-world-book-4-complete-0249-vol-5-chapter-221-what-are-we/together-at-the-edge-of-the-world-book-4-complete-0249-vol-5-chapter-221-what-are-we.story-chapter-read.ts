@@ -4,6 +4,7 @@ export const togetherAtTheEdgeOfTheWorldBook4Complete0249Vol5Chapter221WhatAreWe
   id: "01a0f12b-0e34-7236-b59b-a07d710bcd7b",
   type: "page-type/story-chapter-read",
   slug: "together-at-the-edge-of-the-world-book-4-complete-0249-vol-5-chapter-221-what-are-we",
+  ownProgress: 2107,
   position: 249,
   publishedAt: "2026-08-24",
   unit: "unit/words",

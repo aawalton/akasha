@@ -4,6 +4,7 @@ export const togetherAtTheEdgeOfTheWorldBook4Complete0246Vol5Chapter218AMindShac
   id: "01a0f12a-ffdd-7b91-a424-d7d5250af04e",
   type: "page-type/story-chapter-read",
   slug: "together-at-the-edge-of-the-world-book-4-complete-0246-vol-5-chapter-218-a-mind-shackled",
+  ownProgress: 2397,
   position: 246,
   publishedAt: "2026-08-17",
   unit: "unit/words",

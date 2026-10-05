@@ -4,6 +4,7 @@ export const togetherAtTheEdgeOfTheWorldBook4Complete0248Vol5Chapter220NobodysCo
   id: "01a0f12b-0e34-7296-a274-62d5bead4b6b",
   type: "page-type/story-chapter-read",
   slug: "together-at-the-edge-of-the-world-book-4-complete-0248-vol-5-chapter-220-nobodys-comfort-zone",
+  ownProgress: 2166,
   position: 248,
   publishedAt: "2026-08-21",
   unit: "unit/words",
