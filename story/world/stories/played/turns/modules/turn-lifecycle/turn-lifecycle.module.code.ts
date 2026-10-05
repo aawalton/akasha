@@ -180,7 +180,7 @@ export function leftOf(all: readonly string[], done: readonly string[]): readonl
   return all.filter((one) => !done.includes(one))
 }
 
-export function published(values: Values): Values {
+function published(values: Values): Values {
   return { ...values, issues: undefined, mechanicsIssues: undefined, rulings: undefined }
 }
 
@@ -298,7 +298,7 @@ export function linesIn(text: string): readonly string[] {
 
 export type Repair = { readonly file: string; readonly faults: number; readonly ruled?: true }
 
-export const PROSE_UNASKED = "A ruled-out issue asks nothing of the prose."
+const PROSE_UNASKED = "A ruled-out issue asks nothing of the prose."
 
 function faultsSaid(noun: Noun, faults: readonly Repair[]): readonly string[] {
   if (faults.length === 0) return []
