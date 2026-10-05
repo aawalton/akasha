@@ -5,6 +5,7 @@ export const narration = {
   type: "page-type/domain",
   slug: "narration",
   definition: "a chapter read aloud to Alan",
+  parts: ["module/window-speaking"],
   decisions: [
     {
       decisionKind: "decision-kind/departure",
