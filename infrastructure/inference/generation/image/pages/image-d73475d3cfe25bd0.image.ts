@@ -4,6 +4,8 @@ export const imageD73475d3cfe25bd0 = {
   id: "01a10d3d-35ac-7d61-90d3-f0d1ae199645",
   type: "page-type/image",
   slug: "image-d73475d3cfe25bd0",
+  title: "After Hours on the Bar",
+  albums: ["image-album/bunny-girls"],
   service: "zimage",
   operation: "generate",
   model: "beyond-reality-3",

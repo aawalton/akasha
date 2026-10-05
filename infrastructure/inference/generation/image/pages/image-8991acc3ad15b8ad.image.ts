@@ -4,6 +4,8 @@ export const image8991acc3ad15b8ad = {
   id: "01a10d3d-4957-77fd-a1a1-c27365757c50",
   type: "page-type/image",
   slug: "image-8991acc3ad15b8ad",
+  title: "Red Latex on Black Leather",
+  albums: ["image-album/bunny-girls"],
   service: "zimage",
   operation: "generate",
   model: "beyond-reality-3",

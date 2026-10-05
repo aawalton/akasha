@@ -4,6 +4,8 @@ export const imageB5864f5b89089362 = {
   id: "01a10d3d-708a-7300-abb5-0a71e1aeed5c",
   type: "page-type/image",
   slug: "image-b5864f5b89089362",
+  title: "Lavender and Laughing",
+  albums: ["image-album/bunny-girls"],
   service: "zimage",
   operation: "generate",
   model: "beyond-reality-3",
