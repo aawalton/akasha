@@ -4,6 +4,7 @@ export const togetherAtTheEdgeOfTheWorldBook4Complete0241Vol5Chapter213TheAntiCo
   id: "01a0f12a-ffdc-79b4-837f-3f3cfa0c9bcc",
   type: "page-type/story-chapter-read",
   slug: "together-at-the-edge-of-the-world-book-4-complete-0241-vol-5-chapter-213-the-anti-corruption-brew",
+  ownProgress: 2377,
   position: 241,
   publishedAt: "2026-08-05",
   unit: "unit/words",

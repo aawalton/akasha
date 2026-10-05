@@ -4,6 +4,7 @@ export const togetherAtTheEdgeOfTheWorldBook4Complete0240Vol5Chapter212IKnewIt =
   id: "01a0f12a-ffdc-7346-9b90-40be937a6a3f",
   type: "page-type/story-chapter-read",
   slug: "together-at-the-edge-of-the-world-book-4-complete-0240-vol-5-chapter-212-i-knew-it",
+  ownProgress: 2997,
   position: 240,
   publishedAt: "2026-08-03",
   unit: "unit/words",

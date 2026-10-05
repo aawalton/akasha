@@ -4,6 +4,7 @@ export const togetherAtTheEdgeOfTheWorldBook4Complete0239Vol5Chapter211WeHaveAJo
   id: "01a0f12a-ffdc-7dfb-bcf5-ba8a7e396a1c",
   type: "page-type/story-chapter-read",
   slug: "together-at-the-edge-of-the-world-book-4-complete-0239-vol-5-chapter-211-we-have-a-job-youd-probably",
+  ownProgress: 2230,
   position: 239,
   publishedAt: "2026-07-31",
   unit: "unit/words",

@@ -4,6 +4,7 @@ export const togetherAtTheEdgeOfTheWorldBook4Complete0243Vol5Chapter215TheNewCom
   id: "01a0f12a-ffdd-72d2-ad69-689acbb2faac",
   type: "page-type/story-chapter-read",
   slug: "together-at-the-edge-of-the-world-book-4-complete-0243-vol-5-chapter-215-the-new-compound",
+  ownProgress: 2195,
   position: 243,
   publishedAt: "2026-08-10",
   unit: "unit/words",

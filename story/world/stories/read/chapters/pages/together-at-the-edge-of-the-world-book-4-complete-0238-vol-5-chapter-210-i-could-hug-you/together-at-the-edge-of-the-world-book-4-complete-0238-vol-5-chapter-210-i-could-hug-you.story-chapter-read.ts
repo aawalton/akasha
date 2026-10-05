@@ -4,6 +4,7 @@ export const togetherAtTheEdgeOfTheWorldBook4Complete0238Vol5Chapter210ICouldHug
   id: "01a0f12a-ffdc-7db7-9a79-b3650bfcbc4f",
   type: "page-type/story-chapter-read",
   slug: "together-at-the-edge-of-the-world-book-4-complete-0238-vol-5-chapter-210-i-could-hug-you",
+  ownProgress: 2611,
   position: 238,
   publishedAt: "2026-07-29",
   unit: "unit/words",

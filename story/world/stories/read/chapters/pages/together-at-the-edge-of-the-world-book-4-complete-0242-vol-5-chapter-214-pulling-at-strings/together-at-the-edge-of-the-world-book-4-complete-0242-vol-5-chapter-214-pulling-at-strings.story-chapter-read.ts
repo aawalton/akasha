@@ -4,6 +4,7 @@ export const togetherAtTheEdgeOfTheWorldBook4Complete0242Vol5Chapter214PullingAt
   id: "01a0f12a-ffdc-7434-b53f-f906c3e9662b",
   type: "page-type/story-chapter-read",
   slug: "together-at-the-edge-of-the-world-book-4-complete-0242-vol-5-chapter-214-pulling-at-strings",
+  ownProgress: 2439,
   position: 242,
   publishedAt: "2026-08-07",
   unit: "unit/words",
