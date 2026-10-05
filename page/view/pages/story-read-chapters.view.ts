@@ -8,5 +8,6 @@ export const storyReadChapters = {
   pageType: "page-type/story-chapter-read",
   embeddedBy: "page-type/story-read",
   layout: "list",
+  narrows: [{ key: "own-remaining", comparison: "at-or-after", values: ["1"] }],
   viewSorts: [{ key: "position", descending: false }],
 } as const satisfies View
