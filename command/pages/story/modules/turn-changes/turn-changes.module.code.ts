@@ -186,7 +186,7 @@ export function changesChecked(reading: Reading, held: Held, handed: Handed): st
   return changesRefused(changesMerged(held.changes ?? [], more), reading)
 }
 
-export type Placing = (page: string) => string | null
+type Placing = (page: string) => string | null
 
 const PARTED = "/"
 
@@ -259,7 +259,7 @@ export function placingIndexed(root: string, game: string, chapter: boolean): Pl
   }
 }
 
-export type Cache = {
+type Cache = {
   readonly namings: readonly Naming[]
   readonly appends: readonly Asking[]
 }
