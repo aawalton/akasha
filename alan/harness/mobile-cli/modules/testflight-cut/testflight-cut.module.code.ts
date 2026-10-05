@@ -19,7 +19,6 @@ import {
   KEYCHAIN_PASSWORD_SSH_ENV,
   readNativeShellApsEnv,
   readNativeShellHealthkitEnv,
-  readNativeShellKokoroTtsEnv,
   readNativeShellWidgetEnv,
   readRingCredentialFor,
 } from "akasha/alan/harness/mobile-cli/modules/foundation/foundation.module.code.ts"
@@ -203,7 +202,6 @@ export async function runTestflightCut(
     nativeShellAps: readNativeShellApsEnv(),
     nativeShellHealthkit: readNativeShellHealthkitEnv(),
     nativeShellRingCredential: readRingCredentialFor(app),
-    nativeShellKokoroTts: readNativeShellKokoroTtsEnv(),
     cutCommit,
   })
   const macAt = Date.now()

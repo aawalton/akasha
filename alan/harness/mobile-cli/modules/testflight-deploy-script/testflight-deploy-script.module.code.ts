@@ -40,7 +40,6 @@ export function buildTestflightDeployScript(opts: {
   readonly nativeShellAps?: string
   readonly nativeShellHealthkit?: string
   readonly nativeShellRingCredential?: string
-  readonly nativeShellKokoroTts?: string
   readonly cutCommit: string
 }): string {
   const archivePath = "build/App.xcarchive"
@@ -88,7 +87,6 @@ export function buildTestflightDeployScript(opts: {
         nativeShellAps: opts.nativeShellAps,
         nativeShellHealthkit: opts.nativeShellHealthkit,
         nativeShellRingCredential: opts.nativeShellRingCredential,
-        nativeShellKokoroTts: opts.nativeShellKokoroTts,
       })
     )
   }

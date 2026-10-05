@@ -107,11 +107,6 @@ export function readRingCredentialFor(app: MobileApp): string | undefined {
   return parsed.data
 }
 
-export function readNativeShellKokoroTtsEnv(): string | undefined {
-  const parsed = z.string().min(1).safeParse(process.env.NATIVE_SHELL_KOKORO_TTS)
-  return parsed.success ? parsed.data : undefined
-}
-
 export function buildKeychainUnlock(): string {
   const keychain = "$HOME/Library/Keychains/login.keychain-db"
   const sent = KEYCHAIN_PASSWORD_SSH_ENV
@@ -164,7 +159,6 @@ export function buildNativeSync(opts: {
   readonly nativeShellAps?: string
   readonly nativeShellHealthkit?: string
   readonly nativeShellRingCredential?: string
-  readonly nativeShellKokoroTts?: string
 }): string {
   const widget = opts?.nativeShellWidget
   const widgetExport =
@@ -181,11 +175,6 @@ export function buildNativeSync(opts: {
   const ringCredentialExport =
     ringCredential !== undefined && ringCredential !== ""
       ? [`export NATIVE_SHELL_RING_CREDENTIAL=${quoted(ringCredential)}`]
-      : []
-  const kokoroTts = opts?.nativeShellKokoroTts
-  const kokoroExport =
-    kokoroTts !== undefined && kokoroTts !== ""
-      ? [`export NATIVE_SHELL_KOKORO_TTS=${quoted(kokoroTts)}`]
       : []
   const syncing = opts.app.syncScript
   if (syncing === null) {
@@ -205,7 +194,6 @@ export function buildNativeSync(opts: {
     ...apsExport,
     ...healthkitExport,
     ...ringCredentialExport,
-    ...kokoroExport,
     `bash ${opts.root}/${splitRepoPath(syncing).path} add`,
   ].join("\n")
 }
