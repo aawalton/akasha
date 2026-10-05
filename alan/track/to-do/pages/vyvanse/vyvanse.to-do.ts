@@ -6,7 +6,7 @@ export const vyvanse = {
   slug: "vyvanse",
   title: "Vyvanse",
   difficulty: "trivial",
-  toDoDueDate: "2026-10-04",
+  toDoDueDate: "2026-10-05",
   dueTime: "06:00",
   priority: "p1",
   toDoRecurrence: "FREQ=DAILY",
