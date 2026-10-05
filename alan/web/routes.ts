@@ -78,6 +78,19 @@ export default [
     "routes/alan-web-api-seat-message/alan-web-api-seat-message.route.code.ts"
   ),
   route("api/seat/image", "routes/alan-web-api-seat-image/alan-web-api-seat-image.route.code.ts"),
+  route("api/narration", "routes/alan-web-api-narration/alan-web-api-narration.route.code.ts"),
+  route(
+    "api/narration/:id",
+    "routes/alan-web-api-narration-close/alan-web-api-narration-close.route.code.ts"
+  ),
+  route(
+    "api/narration/:id/next",
+    "routes/alan-web-api-narration-next/alan-web-api-narration-next.route.code.ts"
+  ),
+  route(
+    "api/narration/:id/:name",
+    "routes/alan-web-api-narration-piece/alan-web-api-narration-piece.route.code.ts"
+  ),
   route("api/page-types", "routes/alan-web-api-page-types/alan-web-api-page-types.route.code.ts"),
   route("api/pages/:pageTypeSlug", "routes/alan-web-api-pages/alan-web-api-pages.route.code.ts"),
   route(

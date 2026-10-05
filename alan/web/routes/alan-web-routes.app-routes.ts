@@ -28,6 +28,10 @@ export const alanWebRoutes = {
     "route/alan-web-api-sms-verification-status",
     "route/alan-web-api-seat-image",
     "route/alan-web-api-seat-message",
+    "route/alan-web-api-narration",
+    "route/alan-web-api-narration-close",
+    "route/alan-web-api-narration-next",
+    "route/alan-web-api-narration-piece",
     "route/alan-web-api-sms-webhook",
     "route/alan-web-api-spotify-callback",
     "route/alan-web-api-tracking-health-samples",
@@ -75,8 +79,8 @@ export const alanWebRoutes = {
   ],
   decisions: [
     {
-      decisionKind: "decision-kind/absence",
-      statement: "No route here serves audio, and no page is read aloud.",
+      decisionKind: "decision-kind/departure",
+      statement: "A route here passes a chapter's narration through and makes no audio itself.",
     },
     {
       decisionKind: "decision-kind/departure",

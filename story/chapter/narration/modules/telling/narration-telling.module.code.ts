@@ -50,6 +50,10 @@ export type Told<T> = { readonly held: T } | { readonly refused: string; readonl
 
 type ChapterRow = ChapterHeld & { readonly story: string; readonly position: number | null }
 
+export function refusedAnswer(error: string, status: number, headers: Headers): Response {
+  return Response.json({ ok: false, error }, { status, headers })
+}
+
 export function narrationIdIs(id: string): boolean {
   return NARRATION_ID.test(id)
 }
