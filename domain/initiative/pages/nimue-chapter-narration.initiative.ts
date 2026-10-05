@@ -8,10 +8,6 @@ export const nimueChapterNarration = {
   persona: "persona/nimue",
   intentStack: [
     {
-      statement:
-        "The web server passes a narration's playlist and pieces through to Alan once he is signed in.",
-    },
-    {
       statement: "Narration shows its chapter in Now Playing with working controls.",
     },
     {
