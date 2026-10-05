@@ -4,6 +4,8 @@ export const imageBc389b4414658a29 = {
   id: "01a10d4b-6274-744a-9a0f-de5dba36232a",
   type: "page-type/image",
   slug: "image-bc389b4414658a29",
+  title: "Bunnykin Stretching in the Tulips",
+  albums: ["image-album/bunny-girls"],
   service: "zimage",
   operation: "generate",
   model: "beyond-reality-3",
