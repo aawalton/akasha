@@ -4,6 +4,7 @@ export const togetherAtTheEdgeOfTheWorldBook4Complete0230Vol5Chapter202UsedAirsh
   id: "01a0f12a-ffdc-7052-9245-b79e679b89e9",
   type: "page-type/story-chapter-read",
   slug: "together-at-the-edge-of-the-world-book-4-complete-0230-vol-5-chapter-202-used-airship-shopping",
+  ownProgress: 3226,
   position: 230,
   publishedAt: "2026-07-10",
   unit: "unit/words",

@@ -4,6 +4,7 @@ export const togetherAtTheEdgeOfTheWorldBook4Complete0228SideStory6InAllFairness
   id: "01a0f12a-ffdc-75d9-a942-cac1b3d5b1ac",
   type: "page-type/story-chapter-read",
   slug: "together-at-the-edge-of-the-world-book-4-complete-0228-side-story-6-in-all-fairness-part-2",
+  ownProgress: 3032,
   position: 228,
   publishedAt: "2026-07-09",
   unit: "unit/words",

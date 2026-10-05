@@ -4,6 +4,7 @@ export const togetherAtTheEdgeOfTheWorldBook4Complete0229SideStorySuggestions7Ju
   id: "01a0f12a-ffdc-7451-95f7-d794e7290835",
   type: "page-type/story-chapter-read",
   slug: "together-at-the-edge-of-the-world-book-4-complete-0229-side-story-suggestions-7-july-2026",
+  ownProgress: 120,
   position: 229,
   publishedAt: "2026-07-09",
   unit: "unit/words",

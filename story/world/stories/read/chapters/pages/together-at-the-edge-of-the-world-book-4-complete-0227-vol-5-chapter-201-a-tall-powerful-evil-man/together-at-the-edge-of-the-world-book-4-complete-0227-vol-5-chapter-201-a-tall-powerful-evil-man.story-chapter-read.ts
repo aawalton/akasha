@@ -4,6 +4,7 @@ export const togetherAtTheEdgeOfTheWorldBook4Complete0227Vol5Chapter201ATallPowe
   id: "01a0f12a-ffdc-78ec-94c0-0c6e141fbc0b",
   type: "page-type/story-chapter-read",
   slug: "together-at-the-edge-of-the-world-book-4-complete-0227-vol-5-chapter-201-a-tall-powerful-evil-man",
+  ownProgress: 2214,
   position: 227,
   publishedAt: "2026-07-08",
   unit: "unit/words",
