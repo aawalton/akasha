@@ -1,2 +1,3 @@
 {"propertySlug":"import","fileName":"narration-segments.module.code.ts","path":"story/chapter/narration/modules/segments/narration-segments.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"narration-segments.module.code.ts","path":"story/chapter/narration/modules/telling/narration-telling.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"story/chapter/narration/narration.domain.ts","id":"01a10dba-92d8-79bd-b65d-435b1af749d5"}
