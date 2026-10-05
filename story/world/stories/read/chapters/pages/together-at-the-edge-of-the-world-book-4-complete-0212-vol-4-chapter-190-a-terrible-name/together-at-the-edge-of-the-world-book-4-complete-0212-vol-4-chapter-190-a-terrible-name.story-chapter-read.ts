@@ -4,6 +4,7 @@ export const togetherAtTheEdgeOfTheWorldBook4Complete0212Vol4Chapter190ATerrible
   id: "01a0f12a-ffdc-7e2a-ba82-13fe7d2accee",
   type: "page-type/story-chapter-read",
   slug: "together-at-the-edge-of-the-world-book-4-complete-0212-vol-4-chapter-190-a-terrible-name",
+  ownProgress: 2517,
   position: 212,
   publishedAt: "2026-06-12",
   unit: "unit/words",

@@ -4,6 +4,7 @@ export const togetherAtTheEdgeOfTheWorldBook4Complete0208Vol4Chapter186Exploring
   id: "01a0f12a-ffdc-7e60-bda9-f15f49ecbd4c",
   type: "page-type/story-chapter-read",
   slug: "together-at-the-edge-of-the-world-book-4-complete-0208-vol-4-chapter-186-exploring-inner-library",
+  ownProgress: 2316,
   position: 208,
   publishedAt: "2026-06-03",
   unit: "unit/words",

@@ -4,6 +4,7 @@ export const togetherAtTheEdgeOfTheWorldBook4Complete0209Vol4Chapter187TheLonely
   id: "01a0f12a-ffdc-7714-86c8-895a3b3d4f40",
   type: "page-type/story-chapter-read",
   slug: "together-at-the-edge-of-the-world-book-4-complete-0209-vol-4-chapter-187-the-lonely-monster",
+  ownProgress: 2338,
   position: 209,
   publishedAt: "2026-06-05",
   unit: "unit/words",

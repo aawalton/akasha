@@ -4,6 +4,7 @@ export const togetherAtTheEdgeOfTheWorldBook4Complete0211Vol4Chapter189ItsGoingT
   id: "01a0f12a-ffdc-74c0-bfe9-27aca3470c64",
   type: "page-type/story-chapter-read",
   slug: "together-at-the-edge-of-the-world-book-4-complete-0211-vol-4-chapter-189-its-going-to-be-amazing",
+  ownProgress: 2598,
   position: 211,
   publishedAt: "2026-06-10",
   unit: "unit/words",

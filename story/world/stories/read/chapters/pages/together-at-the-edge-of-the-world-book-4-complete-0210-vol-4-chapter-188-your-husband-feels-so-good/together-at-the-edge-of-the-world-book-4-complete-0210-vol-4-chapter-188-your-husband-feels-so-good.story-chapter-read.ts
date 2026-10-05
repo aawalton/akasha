@@ -4,6 +4,7 @@ export const togetherAtTheEdgeOfTheWorldBook4Complete0210Vol4Chapter188YourHusba
   id: "01a0f12a-ffdc-76a5-829e-d0d66c7b830d",
   type: "page-type/story-chapter-read",
   slug: "together-at-the-edge-of-the-world-book-4-complete-0210-vol-4-chapter-188-your-husband-feels-so-good",
+  ownProgress: 2568,
   position: 210,
   publishedAt: "2026-06-08",
   unit: "unit/words",
