@@ -4,6 +4,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0200Chapter7415Endingtr
   id: "01a10960-930a-7596-9eb9-10d08a5f71f4",
   type: "page-type/story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0200-chapter-7415-endingtree",
+  ownProgress: 1320,
   position: 200,
   publishedAt: "2026-10-04",
   unit: "unit/words",

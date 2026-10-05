@@ -4,6 +4,7 @@ export const chrysalis0530Chapter1875OldestAndWisestApparently = {
   id: "01a10a74-0aba-73bc-aef1-5411ce95ad12",
   type: "page-type/story-chapter-read",
   slug: "chrysalis-0530-chapter-1875-oldest-and-wisest-apparently",
+  ownProgress: 996,
   position: 530,
   publishedAt: "2026-10-05",
   unit: "unit/words",

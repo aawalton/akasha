@@ -4,6 +4,7 @@ export const togetherAtTheEdgeOfTheWorldBook4Complete0214Vol4Chapter192Preparati
   id: "01a0f12a-ffdc-7784-b1a2-c3269b5837f8",
   type: "page-type/story-chapter-read",
   slug: "together-at-the-edge-of-the-world-book-4-complete-0214-vol-4-chapter-192-preparations",
+  ownProgress: 3200,
   position: 214,
   publishedAt: "2026-06-17",
   unit: "unit/words",

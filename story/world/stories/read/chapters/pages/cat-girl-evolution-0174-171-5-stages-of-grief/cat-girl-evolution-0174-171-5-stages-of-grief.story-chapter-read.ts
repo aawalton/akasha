@@ -4,6 +4,7 @@ export const catGirlEvolution01741715StagesOfGrief = {
   id: "01a10b18-1350-708a-bb3f-7cefb74d8b53",
   type: "page-type/story-chapter-read",
   slug: "cat-girl-evolution-0174-171-5-stages-of-grief",
+  ownProgress: 1954,
   position: 174,
   publishedAt: "2026-10-05",
   unit: "unit/words",
