@@ -4,6 +4,8 @@ export const image828f2ac3b61fa558 = {
   id: "01a10d78-f454-79b3-a3f7-fb0a896a06ce",
   type: "page-type/image",
   slug: "image-828f2ac3b61fa558",
+  title: "Panther Catkin on the Moonlit Roof",
+  albums: ["image-album/catkin"],
   service: "zimage",
   operation: "generate",
   model: "beyond-reality-3",

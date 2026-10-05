@@ -4,6 +4,8 @@ export const image5946674793163991 = {
   id: "01a10d79-2fb9-7248-874f-bf2be7c97a45",
   type: "page-type/image",
   slug: "image-5946674793163991",
+  title: "Ginger Catkin and the Feather",
+  albums: ["image-album/catkin"],
   service: "zimage",
   operation: "generate",
   model: "beyond-reality-3",

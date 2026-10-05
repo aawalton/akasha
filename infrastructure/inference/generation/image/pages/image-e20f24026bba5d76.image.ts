@@ -4,6 +4,8 @@ export const imageE20f24026bba5d76 = {
   id: "01a10d79-1b51-745f-a852-5e87a6e7dd11",
   type: "page-type/image",
   slug: "image-e20f24026bba5d76",
+  title: "Black Catkin Upside Down on Silk",
+  albums: ["image-album/catkin"],
   service: "zimage",
   operation: "generate",
   model: "beyond-reality-3",

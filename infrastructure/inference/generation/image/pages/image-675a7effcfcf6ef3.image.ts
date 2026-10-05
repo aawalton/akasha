@@ -4,6 +4,8 @@ export const image675a7effcfcf6ef3 = {
   id: "01a10d79-07c4-73cc-83f8-f62db9627a7a",
   type: "page-type/image",
   slug: "image-675a7effcfcf6ef3",
+  title: "Calico Catkin in a Sunbeam",
+  albums: ["image-album/catkin"],
   service: "zimage",
   operation: "generate",
   model: "beyond-reality-3",
