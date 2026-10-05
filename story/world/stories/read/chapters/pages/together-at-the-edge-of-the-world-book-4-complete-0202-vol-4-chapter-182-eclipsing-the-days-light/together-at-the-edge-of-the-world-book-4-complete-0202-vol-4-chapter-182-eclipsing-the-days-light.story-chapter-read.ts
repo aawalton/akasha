@@ -4,6 +4,7 @@ export const togetherAtTheEdgeOfTheWorldBook4Complete0202Vol4Chapter182Eclipsing
   id: "01a0f12a-ffdb-72fa-9b9d-674016f9e0fc",
   type: "page-type/story-chapter-read",
   slug: "together-at-the-edge-of-the-world-book-4-complete-0202-vol-4-chapter-182-eclipsing-the-days-light",
+  ownProgress: 2378,
   position: 202,
   publishedAt: "2026-05-25",
   unit: "unit/words",

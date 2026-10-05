@@ -4,6 +4,7 @@ export const togetherAtTheEdgeOfTheWorldBook4Complete0201Vol4Chapter181WeTestFir
   id: "01a0f12a-ffdb-7539-8c4a-338cb4ef2fa4",
   type: "page-type/story-chapter-read",
   slug: "together-at-the-edge-of-the-world-book-4-complete-0201-vol-4-chapter-181-we-test-fired-it-at-rocks",
+  ownProgress: 2672,
   position: 201,
   publishedAt: "2026-05-22",
   unit: "unit/words",

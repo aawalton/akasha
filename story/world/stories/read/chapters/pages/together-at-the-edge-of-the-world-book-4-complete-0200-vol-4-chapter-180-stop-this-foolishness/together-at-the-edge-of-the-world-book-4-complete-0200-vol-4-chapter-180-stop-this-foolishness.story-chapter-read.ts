@@ -4,6 +4,7 @@ export const togetherAtTheEdgeOfTheWorldBook4Complete0200Vol4Chapter180StopThisF
   id: "01a0f12a-ffdb-76ea-b3a6-46af5c9ab4aa",
   type: "page-type/story-chapter-read",
   slug: "together-at-the-edge-of-the-world-book-4-complete-0200-vol-4-chapter-180-stop-this-foolishness",
+  ownProgress: 2118,
   position: 200,
   publishedAt: "2026-05-20",
   unit: "unit/words",

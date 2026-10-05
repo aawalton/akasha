@@ -4,6 +4,7 @@ export const togetherAtTheEdgeOfTheWorldBook4Complete0203Vol4Chapter183HopesLigh
   id: "01a0f12a-ffdb-7529-8c04-8b0323da1647",
   type: "page-type/story-chapter-read",
   slug: "together-at-the-edge-of-the-world-book-4-complete-0203-vol-4-chapter-183-hopes-light",
+  ownProgress: 2149,
   position: 203,
   publishedAt: "2026-05-27",
   unit: "unit/words",
