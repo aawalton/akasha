@@ -4,6 +4,8 @@ export const imageA0a606f8523c8239 = {
   id: "01a10d3c-4302-760a-8e71-f4ec3cc32ac9",
   type: "page-type/image",
   slug: "image-a0a606f8523c8239",
+  title: "Sheer Mesh at the Roulette Table",
+  albums: ["image-album/bunny-girls"],
   service: "zimage",
   operation: "generate",
   model: "beyond-reality-3",

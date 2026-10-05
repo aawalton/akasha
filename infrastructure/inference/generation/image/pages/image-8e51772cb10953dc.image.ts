@@ -4,6 +4,8 @@ export const image8e51772cb10953dc = {
   id: "01a10d3c-1c10-734f-9f0d-197db43d1a8e",
   type: "page-type/image",
   slug: "image-8e51772cb10953dc",
+  title: "Gold Sequins on the Ottoman",
+  albums: ["image-album/bunny-girls"],
   service: "zimage",
   operation: "generate",
   model: "beyond-reality-3",
