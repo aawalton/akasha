@@ -11,7 +11,7 @@ const PARTED = "/"
 
 const BREAK = "\n"
 
-export type ProseTaken =
+type ProseTaken =
   | { readonly values: Readonly<Record<string, unknown>>; readonly prose: string }
   | { readonly refused: string }
 
