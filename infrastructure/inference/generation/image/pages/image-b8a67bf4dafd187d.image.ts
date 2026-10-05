@@ -4,6 +4,8 @@ export const imageB8a67bf4dafd187d = {
   id: "01a10d47-92a7-7a9f-b908-0f5d47b8c0fe",
   type: "page-type/image",
   slug: "image-b8a67bf4dafd187d",
+  title: "Black-Eared Bunnykin by Candlelight",
+  albums: ["image-album/bunny-girls"],
   service: "zimage",
   operation: "generate",
   model: "beyond-reality-3",

@@ -4,6 +4,8 @@ export const imageA8d55e111ea463da = {
   id: "01a10d47-e0dc-7fa8-b472-43e31f863614",
   type: "page-type/image",
   slug: "image-a8d55e111ea463da",
+  title: "Bunnykin on the Mossy Log",
+  albums: ["image-album/bunny-girls"],
   service: "zimage",
   operation: "generate",
   model: "beyond-reality-3",
