@@ -4,6 +4,7 @@ export const togetherAtTheEdgeOfTheWorldBook4Complete0236Vol5Chapter208MrStamina
   id: "01a0f12a-ffdc-7ff2-8da1-6b894b49bf80",
   type: "page-type/story-chapter-read",
   slug: "together-at-the-edge-of-the-world-book-4-complete-0236-vol-5-chapter-208-mr-stamina-magic",
+  ownProgress: 2050,
   position: 236,
   publishedAt: "2026-07-24",
   unit: "unit/words",

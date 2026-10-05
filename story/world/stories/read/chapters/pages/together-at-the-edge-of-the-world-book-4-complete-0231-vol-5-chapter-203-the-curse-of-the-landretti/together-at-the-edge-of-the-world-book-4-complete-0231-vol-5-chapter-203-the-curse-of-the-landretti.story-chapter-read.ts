@@ -4,6 +4,7 @@ export const togetherAtTheEdgeOfTheWorldBook4Complete0231Vol5Chapter203TheCurseO
   id: "01a0f12a-ffdc-7e6c-bfe5-3ac288cc6a4c",
   type: "page-type/story-chapter-read",
   slug: "together-at-the-edge-of-the-world-book-4-complete-0231-vol-5-chapter-203-the-curse-of-the-landretti",
+  ownProgress: 2565,
   position: 231,
   publishedAt: "2026-07-13",
   unit: "unit/words",

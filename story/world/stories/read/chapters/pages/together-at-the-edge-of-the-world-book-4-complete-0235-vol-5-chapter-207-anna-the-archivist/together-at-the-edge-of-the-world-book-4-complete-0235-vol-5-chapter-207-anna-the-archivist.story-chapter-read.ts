@@ -4,6 +4,7 @@ export const togetherAtTheEdgeOfTheWorldBook4Complete0235Vol5Chapter207AnnaTheAr
   id: "01a0f12a-ffdc-73d5-9d6e-19e734913a88",
   type: "page-type/story-chapter-read",
   slug: "together-at-the-edge-of-the-world-book-4-complete-0235-vol-5-chapter-207-anna-the-archivist",
+  ownProgress: 2241,
   position: 235,
   publishedAt: "2026-07-22",
   unit: "unit/words",

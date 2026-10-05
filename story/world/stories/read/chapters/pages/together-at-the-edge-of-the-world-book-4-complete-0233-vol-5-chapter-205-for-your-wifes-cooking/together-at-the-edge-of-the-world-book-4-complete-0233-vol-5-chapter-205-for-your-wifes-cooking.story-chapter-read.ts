@@ -4,6 +4,7 @@ export const togetherAtTheEdgeOfTheWorldBook4Complete0233Vol5Chapter205ForYourWi
   id: "01a0f12a-ffdc-70ae-85b4-dce1e5f4a45a",
   type: "page-type/story-chapter-read",
   slug: "together-at-the-edge-of-the-world-book-4-complete-0233-vol-5-chapter-205-for-your-wifes-cooking",
+  ownProgress: 2123,
   position: 233,
   publishedAt: "2026-07-17",
   unit: "unit/words",

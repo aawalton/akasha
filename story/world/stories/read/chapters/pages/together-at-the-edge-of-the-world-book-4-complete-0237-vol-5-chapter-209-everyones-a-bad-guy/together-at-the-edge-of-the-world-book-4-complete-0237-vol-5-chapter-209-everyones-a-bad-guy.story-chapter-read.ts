@@ -4,6 +4,7 @@ export const togetherAtTheEdgeOfTheWorldBook4Complete0237Vol5Chapter209Everyones
   id: "01a0f12a-ffdc-7c6e-a5d9-0b3a5172289d",
   type: "page-type/story-chapter-read",
   slug: "together-at-the-edge-of-the-world-book-4-complete-0237-vol-5-chapter-209-everyones-a-bad-guy",
+  ownProgress: 2326,
   position: 237,
   publishedAt: "2026-07-27",
   unit: "unit/words",

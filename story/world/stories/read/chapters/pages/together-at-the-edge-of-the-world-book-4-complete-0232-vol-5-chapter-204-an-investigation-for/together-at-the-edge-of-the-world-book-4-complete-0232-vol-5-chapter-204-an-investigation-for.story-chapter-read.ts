@@ -4,6 +4,7 @@ export const togetherAtTheEdgeOfTheWorldBook4Complete0232Vol5Chapter204AnInvesti
   id: "01a0f12a-ffdc-74e6-b651-d4860edd7ff6",
   type: "page-type/story-chapter-read",
   slug: "together-at-the-edge-of-the-world-book-4-complete-0232-vol-5-chapter-204-an-investigation-for",
+  ownProgress: 2748,
   position: 232,
   publishedAt: "2026-07-15",
   unit: "unit/words",
