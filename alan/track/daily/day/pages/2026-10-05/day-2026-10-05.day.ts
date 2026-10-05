@@ -7,6 +7,7 @@ export const day20261005 = {
   title: "@date:2026-10-05",
   date: "2026-10-05",
   version: "3.0",
+  wisdomWords: 0,
   sessions: "jsonl",
   lowestEmailInboxCount: 0,
 } as const satisfies Day
