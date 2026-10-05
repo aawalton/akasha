@@ -4,6 +4,8 @@ export const imageA8e1c16da6a76cd3 = {
   id: "01a10d8b-bf3f-704d-90a2-7f0e6e37b4e1",
   type: "page-type/image",
   slug: "image-a8e1c16da6a76cd3",
+  title: "Tabby Catkin Chasing a Butterfly",
+  albums: ["image-album/catkin"],
   service: "zimage",
   operation: "generate",
   model: "beyond-reality-3",

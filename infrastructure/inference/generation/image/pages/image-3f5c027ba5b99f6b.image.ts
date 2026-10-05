@@ -4,6 +4,8 @@ export const image3f5c027ba5b99f6b = {
   id: "01a10d8b-9816-7a0e-aadc-50e486e91c8e",
   type: "page-type/image",
   slug: "image-3f5c027ba5b99f6b",
+  title: "Black Catkin Napping in the Alchemist's Shop",
+  albums: ["image-album/catkin"],
   service: "zimage",
   operation: "generate",
   model: "beyond-reality-3",

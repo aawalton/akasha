@@ -4,6 +4,8 @@ export const image128e0118191feeed = {
   id: "01a10d8b-e69c-7725-b852-cb1c19c37ceb",
   type: "page-type/image",
   slug: "image-128e0118191feeed",
+  title: "Ginger Catkin in a Giant Teacup",
+  albums: ["image-album/catkin"],
   service: "zimage",
   operation: "generate",
   model: "beyond-reality-3",

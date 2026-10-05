@@ -4,6 +4,8 @@ export const image003dfac7af9237e8 = {
   id: "01a10d8b-d2b6-71fe-80a9-fcf08dad0af5",
   type: "page-type/image",
   slug: "image-003dfac7af9237e8",
+  title: "White Catkin with a Bow on Her Tail",
+  albums: ["image-album/catkin"],
   service: "zimage",
   operation: "generate",
   model: "beyond-reality-3",
