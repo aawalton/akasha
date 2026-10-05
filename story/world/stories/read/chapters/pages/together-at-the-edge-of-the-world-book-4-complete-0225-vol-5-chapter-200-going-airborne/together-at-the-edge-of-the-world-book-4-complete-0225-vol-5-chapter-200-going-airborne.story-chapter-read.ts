@@ -4,6 +4,7 @@ export const togetherAtTheEdgeOfTheWorldBook4Complete0225Vol5Chapter200GoingAirb
   id: "01a0f12a-ffdc-7092-9821-eda51a246592",
   type: "page-type/story-chapter-read",
   slug: "together-at-the-edge-of-the-world-book-4-complete-0225-vol-5-chapter-200-going-airborne",
+  ownProgress: 2404,
   position: 225,
   publishedAt: "2026-07-06",
   unit: "unit/words",
