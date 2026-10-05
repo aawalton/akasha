@@ -4,6 +4,8 @@ export const image0058602414aae6f1 = {
   id: "01a10d87-67ae-7613-86d4-794536970b67",
   type: "page-type/image",
   slug: "image-0058602414aae6f1",
+  title: "Sky Pirate Catkin on the Airship Rail",
+  albums: ["image-album/catkin"],
   service: "zimage",
   operation: "generate",
   model: "beyond-reality-3",

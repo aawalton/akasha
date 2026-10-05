@@ -4,6 +4,8 @@ export const imageAff34350551cba67 = {
   id: "01a10d87-7b18-7813-85bc-2a68219f127d",
   type: "page-type/image",
   slug: "image-aff34350551cba67",
+  title: "Lion Catkin on the Desert Ruins",
+  albums: ["image-album/catkin"],
   service: "zimage",
   operation: "generate",
   model: "beyond-reality-3",

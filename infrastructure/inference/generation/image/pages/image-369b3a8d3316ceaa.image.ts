@@ -4,6 +4,8 @@ export const image369b3a8d3316ceaa = {
   id: "01a10d87-545a-74c8-b108-0aa92f6bde6b",
   type: "page-type/image",
   slug: "image-369b3a8d3316ceaa",
+  title: "Catkin by the Glowing Grotto",
+  albums: ["image-album/catkin"],
   service: "zimage",
   operation: "generate",
   model: "beyond-reality-3",
