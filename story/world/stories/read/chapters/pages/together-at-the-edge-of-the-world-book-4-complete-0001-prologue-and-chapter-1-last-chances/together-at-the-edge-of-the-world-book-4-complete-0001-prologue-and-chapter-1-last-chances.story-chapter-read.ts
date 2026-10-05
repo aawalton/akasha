@@ -4,6 +4,7 @@ export const togetherAtTheEdgeOfTheWorldBook4Complete0001PrologueAndChapter1Last
   id: "01a0f12a-a0af-7e59-a3b4-8f01f18eb2b7",
   type: "page-type/story-chapter-read",
   slug: "together-at-the-edge-of-the-world-book-4-complete-0001-prologue-and-chapter-1-last-chances",
+  completedAt: "2026-10-05T21:31:18.288Z",
   ownProgress: 2783,
   position: 1,
   publishedAt: "2025-08-03",
