@@ -130,7 +130,7 @@ export function baseOf(
   return pages
 }
 
-export type Ahead = {
+type Ahead = {
   readonly made: boolean
   readonly values: Readonly<Record<string, unknown>>
 }
@@ -175,7 +175,7 @@ export function appearedOn(reading: BeatReading): readonly string[] | undefined 
   return reading.reading ? appearedAt(reading.beats, reading.beat) : undefined
 }
 
-export type BlockPlaced = { readonly top: number; readonly laidOut: boolean }
+type BlockPlaced = { readonly top: number; readonly laidOut: boolean }
 
 export function beatSeen(
   blocks: Iterable<readonly [number, BlockPlaced]>,
