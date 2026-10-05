@@ -24,7 +24,7 @@ export type Starting = {
   readonly prompt: string
 }
 
-export type Handing = "started" | "resumed" | "sent"
+type Handing = "started" | "resumed" | "sent"
 
 export type Handed = { readonly how: Handing; readonly name: string }
 
