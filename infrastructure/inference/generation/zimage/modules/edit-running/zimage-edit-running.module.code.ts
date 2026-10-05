@@ -11,7 +11,7 @@ const UPLOAD_DIGEST = 16
 
 export type EditReference = { readonly bytes: Uint8Array; readonly ending: string }
 
-export type EditAsked = {
+type EditAsked = {
   readonly bytes: Uint8Array
   readonly ending: string
   readonly references?: readonly EditReference[]
@@ -21,7 +21,7 @@ export type EditAsked = {
   readonly onProgress?: (said: string) => undefined
 }
 
-export function uploadNameOf(bytes: Uint8Array, ending: string): string {
+function uploadNameOf(bytes: Uint8Array, ending: string): string {
   return `edit-${sha256Hex(bytes).slice(0, UPLOAD_DIGEST)}${ending}`
 }
 
