@@ -4,6 +4,7 @@ export const togetherAtTheEdgeOfTheWorldBook4Complete0220Vol5Chapter195ProphetsO
   id: "01a0f12a-ffdc-739e-8de4-970ea6f8ed0d",
   type: "page-type/story-chapter-read",
   slug: "together-at-the-edge-of-the-world-book-4-complete-0220-vol-5-chapter-195-prophets-of-the-light",
+  ownProgress: 2235,
   position: 220,
   publishedAt: "2026-06-24",
   unit: "unit/words",

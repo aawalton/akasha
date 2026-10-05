@@ -4,6 +4,7 @@ export const togetherAtTheEdgeOfTheWorldBook4Complete0218Volume4AuthorsMumblings
   id: "01a0f12a-ffdc-7e0b-bf9d-140992ae95b5",
   type: "page-type/story-chapter-read",
   slug: "together-at-the-edge-of-the-world-book-4-complete-0218-volume-4-authors-mumblings",
+  ownProgress: 552,
   position: 218,
   publishedAt: "2026-06-23",
   unit: "unit/words",

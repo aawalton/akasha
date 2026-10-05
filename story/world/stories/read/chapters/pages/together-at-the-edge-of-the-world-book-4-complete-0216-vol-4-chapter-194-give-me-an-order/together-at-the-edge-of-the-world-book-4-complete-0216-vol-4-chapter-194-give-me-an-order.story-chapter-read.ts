@@ -4,6 +4,7 @@ export const togetherAtTheEdgeOfTheWorldBook4Complete0216Vol4Chapter194GiveMeAnO
   id: "01a0f12a-ffdc-7867-812b-97953ef9faea",
   type: "page-type/story-chapter-read",
   slug: "together-at-the-edge-of-the-world-book-4-complete-0216-vol-4-chapter-194-give-me-an-order",
+  ownProgress: 3178,
   position: 216,
   publishedAt: "2026-06-22",
   unit: "unit/words",

@@ -4,6 +4,7 @@ export const togetherAtTheEdgeOfTheWorldBook4Complete0217Volume4Epilogue = {
   id: "01a0f12a-ffdc-7414-beb3-4b45b237d56b",
   type: "page-type/story-chapter-read",
   slug: "together-at-the-edge-of-the-world-book-4-complete-0217-volume-4-epilogue",
+  ownProgress: 1136,
   position: 217,
   publishedAt: "2026-06-22",
   unit: "unit/words",
