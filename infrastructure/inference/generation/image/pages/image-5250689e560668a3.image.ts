@@ -4,6 +4,8 @@ export const image5250689e560668a3 = {
   id: "01a10d8a-90a5-7b83-9138-0d23042b458c",
   type: "page-type/image",
   slug: "image-5250689e560668a3",
+  title: "Catkin Yawning on the Sky Castle Balcony",
+  albums: ["image-album/catkin"],
   service: "zimage",
   operation: "generate",
   model: "beyond-reality-3",

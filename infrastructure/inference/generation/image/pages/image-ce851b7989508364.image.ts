@@ -4,6 +4,8 @@ export const imageCe851b7989508364 = {
   id: "01a10d8a-a413-741d-9e8d-11728a665250",
   type: "page-type/image",
   slug: "image-ce851b7989508364",
+  title: "Cream Catkin with Cocoa by the Snowy Window",
+  albums: ["image-album/catkin"],
   service: "zimage",
   operation: "generate",
   model: "beyond-reality-3",

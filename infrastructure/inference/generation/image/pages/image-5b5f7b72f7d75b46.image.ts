@@ -4,6 +4,8 @@ export const image5b5f7b72f7d75b46 = {
   id: "01a10d8a-cb92-7089-9c2f-1b85b15de476",
   type: "page-type/image",
   slug: "image-5b5f7b72f7d75b46",
+  title: "Catkin Catching Fireflies in the Mushroom Glade",
+  albums: ["image-album/catkin"],
   service: "zimage",
   operation: "generate",
   model: "beyond-reality-3",

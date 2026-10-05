@@ -4,6 +4,8 @@ export const image1b8817aeef6f4ec4 = {
   id: "01a10d8a-7d41-7fb6-962d-7c26bb66293b",
   type: "page-type/image",
   slug: "image-1b8817aeef6f4ec4",
+  title: "Bookish Catkin in the Enchanted Library",
+  albums: ["image-album/catkin"],
   service: "zimage",
   operation: "generate",
   model: "beyond-reality-3",
