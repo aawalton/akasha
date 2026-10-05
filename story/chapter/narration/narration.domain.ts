@@ -5,7 +5,15 @@ export const narration = {
   type: "page-type/domain",
   slug: "narration",
   definition: "a chapter read aloud to Alan",
-  parts: ["module/window-speaking", "module/narration-segments", "module/narration-telling"],
+  parts: [
+    "module/window-speaking",
+    "module/narration-segments",
+    "module/narration-telling",
+    "module/narration-playhead",
+    "module/narration-listening",
+    "module/narration-player",
+    "module/narration-bar",
+  ],
   decisions: [
     {
       decisionKind: "decision-kind/departure",

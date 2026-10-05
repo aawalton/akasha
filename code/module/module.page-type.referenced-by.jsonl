@@ -2627,6 +2627,10 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"product/wandering-inn-wiki/web/modules/innworld-reading/innworld-reading.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"product/wandering-inn-wiki/web/modules/innworld-shelves/innworld-shelves.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"product/wandering-inn-wiki/web/modules/innworld-visitor/innworld-visitor.module.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"story/chapter/narration/modules/bar/narration-bar.module.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"story/chapter/narration/modules/listening/narration-listening.module.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"story/chapter/narration/modules/player/narration-player.module.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"story/chapter/narration/modules/playhead/narration-playhead.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"story/chapter/narration/modules/segments/narration-segments.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"story/chapter/narration/modules/telling/narration-telling.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"story/chapter/narration/modules/window-speaking/window-speaking.module.ts","typed":true,"deferred":false}
