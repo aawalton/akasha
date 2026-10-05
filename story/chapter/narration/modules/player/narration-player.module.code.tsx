@@ -64,6 +64,7 @@ type Session = {
   readonly asked: Set<string>
   readonly read: Set<string>
   ended: boolean
+  before: number
 }
 
 const HLS = "application/vnd.apple.mpegurl"
@@ -165,6 +166,7 @@ export function NarrationProvider({
         asked: new Set(),
         read: new Set(),
         ended: false,
+        before: 0,
       }
       setChapter(opened)
       nowPlayingOf(opened)
@@ -233,8 +235,11 @@ export function NarrationProvider({
     const playing = session.current
     if (audio === null || playing === null) return
     const seconds = audio.currentTime
+    const before = playing.before
+    playing.before = seconds
     const acts = actsAt({
       placed: playing.placed,
+      before,
       seconds,
       asked: playing.asked,
       read: playing.read,
@@ -277,9 +282,15 @@ export function NarrationProvider({
   const finished = useCallback((): undefined => {
     const playing = session.current
     if (playing !== null) {
-      for (const one of playing.placed) {
-        if (!playing.read.has(one.id)) markRead(playing.chapters.get(one.id))
-      }
+      const acts = actsAt({
+        placed: playing.placed,
+        before: playing.before,
+        seconds: playing.before + 1,
+        asked: playing.asked,
+        read: playing.read,
+        ended: true,
+      })
+      for (const id of acts.read) markRead(playing.chapters.get(id))
     }
     close()
   }, [close])

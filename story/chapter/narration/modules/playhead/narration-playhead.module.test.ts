@@ -28,13 +28,17 @@ describe("chapterAt", () => {
 })
 
 describe("actsAt", () => {
+  const asked = new Set(["two"])
+
   test("playing the last chapter listed asks for the next one once", () => {
+    const first = placed.slice(0, 1)
     expect(
-      actsAt({ placed: placed.slice(0, 1), seconds: 1, asked: none, read: none, ended: false })
+      actsAt({ placed: first, before: 0, seconds: 1, asked: none, read: none, ended: false })
     ).toEqual({ askNextAfter: "one", read: [] })
     expect(
       actsAt({
-        placed: placed.slice(0, 1),
+        placed: first,
+        before: 0,
         seconds: 1,
         asked: new Set(["one"]),
         read: none,
@@ -45,22 +49,27 @@ describe("actsAt", () => {
 
   test("a narration that has ended asks for no next chapter", () => {
     expect(
-      actsAt({ placed, seconds: 120, asked: none, read: none, ended: true }).askNextAfter
+      actsAt({ placed, before: 119, seconds: 120, asked: none, read: none, ended: true })
+        .askNextAfter
     ).toBeNull()
   })
 
-  test("a chapter the playhead has passed the end of is read, once", () => {
+  test("a chapter played across its end is read, once", () => {
     expect(
-      actsAt({ placed, seconds: 101, asked: new Set(["two"]), read: none, ended: false })
+      actsAt({ placed, before: 99.5, seconds: 100.5, asked, read: none, ended: false })
     ).toEqual({ askNextAfter: null, read: ["one"] })
     expect(
-      actsAt({
-        placed,
-        seconds: 101,
-        asked: new Set(["two"]),
-        read: new Set(["one"]),
-        ended: false,
-      }).read
+      actsAt({ placed, before: 99.5, seconds: 100.5, asked, read: new Set(["one"]), ended: false })
+        .read
+    ).toEqual([])
+  })
+
+  test("a leap past a chapter's end reads nothing", () => {
+    expect(
+      actsAt({ placed, before: 10, seconds: 101, asked, read: none, ended: false }).read
+    ).toEqual([])
+    expect(
+      actsAt({ placed, before: 101, seconds: 102, asked, read: none, ended: false }).read
     ).toEqual([])
   })
 })

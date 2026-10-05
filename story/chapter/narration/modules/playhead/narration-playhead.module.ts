@@ -14,7 +14,11 @@ export const narrationPlayhead = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A chapter is read once the playhead passes its end, and only once.",
+      statement: "A chapter is read once it plays across its own end, and only once.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A leap or a scrub past a chapter's end marks that chapter read in no case.",
     },
     {
       decisionKind: "decision-kind/departure",

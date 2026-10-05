@@ -34,18 +34,28 @@ export function chapterAt(placed: readonly ChapterPlaced[], seconds: number): Ch
   return found
 }
 
-export function chapterEnded(one: ChapterPlaced, seconds: number): boolean {
-  return one.durationSeconds !== null && one.startSeconds + one.durationSeconds <= seconds
+const MOST_PLAYED_STEP = 15
+
+export function playedThrough(one: ChapterPlaced, before: number, seconds: number): boolean {
+  if (one.durationSeconds === null) return false
+  const end = one.startSeconds + one.durationSeconds
+  return (
+    before >= one.startSeconds &&
+    before < end &&
+    seconds >= end &&
+    seconds - before <= MOST_PLAYED_STEP
+  )
 }
 
 export function actsAt(args: {
   readonly placed: readonly ChapterPlaced[]
+  readonly before: number
   readonly seconds: number
   readonly asked: ReadonlySet<string>
   readonly read: ReadonlySet<string>
   readonly ended: boolean
 }): PlayheadActs {
-  const { placed, seconds, asked, read, ended } = args
+  const { placed, before, seconds, asked, read, ended } = args
   const playing = chapterAt(placed, seconds)
   const last = placed.at(-1)
   const askNextAfter =
@@ -57,7 +67,7 @@ export function actsAt(args: {
       ? last.id
       : null
   const done = placed
-    .filter((one) => !read.has(one.id) && chapterEnded(one, seconds))
+    .filter((one) => !read.has(one.id) && playedThrough(one, before, seconds))
     .map((one) => one.id)
   return { askNextAfter, read: done }
 }
