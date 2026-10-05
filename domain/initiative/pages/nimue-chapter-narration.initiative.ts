@@ -12,9 +12,6 @@ export const nimueChapterNarration = {
         "The web server passes a narration's playlist and pieces through to Alan once he is signed in.",
     },
     {
-      statement: "Every chapter page's triple-dot menu has a Play Audio item.",
-    },
-    {
       statement: "A player bar in the app's layout plays narration across pages.",
     },
     {
