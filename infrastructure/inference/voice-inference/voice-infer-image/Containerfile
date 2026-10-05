@@ -54,6 +54,8 @@ WORKDIR /app
 # its own name would fail at import.
 COPY voice-infer-server/voice-infer-server.python-module.python.py /app/server.py
 COPY voice-models/voice-models.python-module.python.py /app/voice_inference.py
+COPY voice-hls/voice-hls.python-module.python.py /app/voice_hls.py
+COPY voice-narration/voice-narration.python-module.python.py /app/voice_narration.py
 
 ENV VOICE_INFER_PORT=8080
 
