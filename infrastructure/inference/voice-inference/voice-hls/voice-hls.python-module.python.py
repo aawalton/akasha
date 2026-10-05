@@ -148,6 +148,7 @@ def playlist(pieces: "list[tuple[bytes, float]]", ended: bool) -> str:
         f"#EXT-X-TARGETDURATION:{TARGET_DURATION}",
         "#EXT-X-MEDIA-SEQUENCE:0",
         "#EXT-X-PLAYLIST-TYPE:EVENT",
+        "#EXT-X-START:TIME-OFFSET=0,PRECISE=YES",
         "#EXT-X-INDEPENDENT-SEGMENTS",
         '#EXT-X-MAP:URI="init.mp4"',
     ]

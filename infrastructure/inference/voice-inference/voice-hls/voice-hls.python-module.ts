@@ -7,4 +7,10 @@ export const voiceHls = {
   definition: "the cutting of an encoded voice stream into the pieces of an HLS playlist",
   python: "py",
   bytecodeDirectory: true,
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A player joins a narration at its first piece rather than at the newest one.",
+    },
+  ],
 } as const satisfies PythonModule
