@@ -95,7 +95,7 @@ export function NarrationBar() {
             value={at}
             onChange={(event) => narration.seek(Number(event.currentTarget.value))}
           />
-          <span>{clock(end)}</span>
+          <span>{clock(Math.max(end, at))}</span>
         </div>
       )}
     </section>

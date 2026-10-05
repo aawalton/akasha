@@ -17,7 +17,11 @@ export const narrationBar = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The bar scrubs only through the audio made so far.",
+      statement: "The bar scrubs only through the audio the player can reach so far.",
+    },
+    {
+      decisionKind: "decision-kind/constraint",
+      statement: "Chrome reaches no part of a stream with no end, so the bar there scrubs nowhere.",
     },
   ],
 } as const satisfies Module
