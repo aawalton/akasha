@@ -4,6 +4,7 @@ export const togetherAtTheEdgeOfTheWorldBook4Complete0255Vol5Chapter227ARelaxing
   id: "01a0f12b-0e34-7cab-9707-33a7973cc873",
   type: "page-type/story-chapter-read",
   slug: "together-at-the-edge-of-the-world-book-4-complete-0255-vol-5-chapter-227-a-relaxing-date",
+  ownProgress: 2412,
   position: 255,
   publishedAt: "2026-09-07",
   unit: "unit/words",

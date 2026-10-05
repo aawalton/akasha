@@ -4,6 +4,7 @@ export const togetherAtTheEdgeOfTheWorldBook4Complete0252Vol5Chapter224Concernin
   id: "01a0f12b-0e34-7f46-8bce-7834c1f3139a",
   type: "page-type/story-chapter-read",
   slug: "together-at-the-edge-of-the-world-book-4-complete-0252-vol-5-chapter-224-concerning-developments",
+  ownProgress: 2853,
   position: 252,
   publishedAt: "2026-08-31",
   unit: "unit/words",

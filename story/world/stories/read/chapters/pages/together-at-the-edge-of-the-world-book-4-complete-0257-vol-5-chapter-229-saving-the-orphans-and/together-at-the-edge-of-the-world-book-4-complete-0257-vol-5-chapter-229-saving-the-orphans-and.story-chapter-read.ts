@@ -4,6 +4,7 @@ export const togetherAtTheEdgeOfTheWorldBook4Complete0257Vol5Chapter229SavingThe
   id: "01a0f12b-0e34-799a-808a-be8b5b81365d",
   type: "page-type/story-chapter-read",
   slug: "together-at-the-edge-of-the-world-book-4-complete-0257-vol-5-chapter-229-saving-the-orphans-and",
+  ownProgress: 2283,
   position: 257,
   publishedAt: "2026-09-11",
   unit: "unit/words",

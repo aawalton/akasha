@@ -4,6 +4,7 @@ export const togetherAtTheEdgeOfTheWorldBook4Complete0251Vol5Chapter223Exploding
   id: "01a0f12b-0e34-7bd6-85d4-0c0365bef11a",
   type: "page-type/story-chapter-read",
   slug: "together-at-the-edge-of-the-world-book-4-complete-0251-vol-5-chapter-223-exploding-for-science",
+  ownProgress: 2119,
   position: 251,
   publishedAt: "2026-08-28",
   unit: "unit/words",

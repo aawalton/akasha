@@ -4,6 +4,7 @@ export const togetherAtTheEdgeOfTheWorldBook4Complete0256Vol5Chapter228TheAngelO
   id: "01a0f12b-0e34-7530-b9ee-bb2000f09b2d",
   type: "page-type/story-chapter-read",
   slug: "together-at-the-edge-of-the-world-book-4-complete-0256-vol-5-chapter-228-the-angel-of-bellharbor",
+  ownProgress: 2169,
   position: 256,
   publishedAt: "2026-09-09",
   unit: "unit/words",

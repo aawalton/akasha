@@ -4,6 +4,7 @@ export const togetherAtTheEdgeOfTheWorldBook4Complete0258Vol5Chapter230FixingThe
   id: "01a0f12b-0e34-7f97-9072-4d3ab992ff43",
   type: "page-type/story-chapter-read",
   slug: "together-at-the-edge-of-the-world-book-4-complete-0258-vol-5-chapter-230-fixing-the-orphanages",
+  ownProgress: 2328,
   position: 258,
   publishedAt: "2026-09-14",
   unit: "unit/words",

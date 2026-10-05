@@ -4,6 +4,7 @@ export const togetherAtTheEdgeOfTheWorldBook4Complete0253Vol5Chapter225AWeaponTo
   id: "01a0f12b-0e34-737c-b3c1-3a4aab05b377",
   type: "page-type/story-chapter-read",
   slug: "together-at-the-edge-of-the-world-book-4-complete-0253-vol-5-chapter-225-a-weapon-to-surpass",
+  ownProgress: 2551,
   position: 253,
   publishedAt: "2026-09-02",
   unit: "unit/words",
