@@ -8,10 +8,6 @@ export const nimueChapterNarration = {
   persona: "persona/nimue",
   intentStack: [
     {
-      statement:
-        "One function turns a chapter of every chapter page type into the segments narration speaks.",
-    },
-    {
       statement: "Every kind of window in a chapter is spoken as plain sentences.",
     },
     {
