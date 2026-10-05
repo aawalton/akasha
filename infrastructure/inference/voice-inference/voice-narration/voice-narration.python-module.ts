@@ -7,4 +7,16 @@ export const voiceNarration = {
   definition: "the narrations a voice service streams as growing playlists",
   python: "py",
   bytecodeDirectory: true,
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A playlist names only three pieces past the furthest piece its player has fetched.",
+    },
+    {
+      decisionKind: "decision-kind/constraint",
+      statement:
+        "A player treats a playlist with no end as live and leaps to near its newest piece.",
+    },
+  ],
 } as const satisfies PythonModule

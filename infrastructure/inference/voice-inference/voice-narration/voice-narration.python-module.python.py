@@ -38,6 +38,10 @@ MAX_SESSION_BYTES = 256 * 1024 * 1024
 MAX_SEGMENTS = 3000
 MAX_SEGMENT_CHARS = 2000
 MAX_PAUSE_MS = 5000
+# A player treats a playlist with no end as live and leaps to near its newest
+# piece. Rendering runs far ahead of listening, so the playlist names only a
+# few pieces past the furthest one the player has fetched.
+REVEAL_AHEAD = 3
 
 _SESSIONS: "dict[str, Session]" = {}
 _SWEEPER: "list[asyncio.Task]" = []
@@ -91,6 +95,7 @@ class Session:
         self.done = False
         self.error: "str | None" = None
         self.pieces = Pieces()
+        self.furthest = -1
         self.process: "asyncio.subprocess.Process | None" = None
         self.tasks: "list[asyncio.Task]" = []
 
@@ -279,8 +284,10 @@ async def narration_playlist(sid: str):
         return _error(404, "no such narration")
     if session.error:
         return _error(500, session.error)
+    made = session.pieces.pieces
+    shown = made[: session.furthest + 1 + REVEAL_AHEAD]
     return Response(
-        content=playlist(session.pieces.pieces, session.done),
+        content=playlist(shown, session.done and len(shown) == len(made)),
         media_type="application/vnd.apple.mpegurl",
         headers={"Cache-Control": "no-store"},
     )
@@ -309,6 +316,7 @@ async def narration_piece(sid: str, name: str):
         return _error(404, "no such piece")
     if n >= len(session.pieces.pieces):
         return _error(404, "piece not made yet")
+    session.furthest = max(session.furthest, n)
     return Response(content=session.pieces.pieces[n][0], media_type="audio/mp4", headers=headers)
 
 
