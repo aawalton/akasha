@@ -128,7 +128,7 @@ function headsFamily(look: Continuing, stem: string, target: string): boolean {
   return at !== undefined && targetOf(`${lore.slug}/${stem}`, look.valueAt(at)) === target
 }
 
-export function baseOf(look: Continuing, slug: string, target: string): string {
+function baseOf(look: Continuing, slug: string, target: string): string {
   let base = slug
   for (let parted = COUNTED.exec(base); parted !== null; parted = COUNTED.exec(base)) {
     const [, stem = "", count = ""] = parted
@@ -138,7 +138,7 @@ export function baseOf(look: Continuing, slug: string, target: string): string {
   return base
 }
 
-export function continuationTitle(titled: string): string {
+function continuationTitle(titled: string): string {
   return `${titled.replace(CONTINUED_TAIL, "")}${CONTINUED}`
 }
 
