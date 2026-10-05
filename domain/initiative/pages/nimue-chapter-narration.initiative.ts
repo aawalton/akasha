@@ -8,9 +8,6 @@ export const nimueChapterNarration = {
   persona: "persona/nimue",
   intentStack: [
     {
-      statement: "Narration shows its chapter in Now Playing with working controls.",
-    },
-    {
       statement:
         "A chapter whose narration ends is marked read, and the next chapter follows in the stream.",
     },
