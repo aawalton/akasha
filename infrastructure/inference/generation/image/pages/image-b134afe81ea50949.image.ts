@@ -4,6 +4,8 @@ export const imageB134afe81ea50949 = {
   id: "01a10d94-6e7e-780e-a4cc-6acbf45cb85f",
   type: "page-type/image",
   slug: "image-b134afe81ea50949",
+  title: "Hooded Catkin Reading in a Hollow Tree",
+  albums: ["image-album/catkin"],
   service: "zimage",
   operation: "generate",
   model: "beyond-reality-3",

@@ -4,6 +4,8 @@ export const image0ce7fecc49505a0d = {
   id: "01a10d94-8210-7540-bf1e-4db0f9cd865f",
   type: "page-type/image",
   slug: "image-0ce7fecc49505a0d",
+  title: "Catkin Reaching for a Dandelion Seed",
+  albums: ["image-album/catkin"],
   service: "zimage",
   operation: "generate",
   model: "beyond-reality-3",

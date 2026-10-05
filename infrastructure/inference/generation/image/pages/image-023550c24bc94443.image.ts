@@ -4,6 +4,8 @@ export const image023550c24bc94443 = {
   id: "01a10d94-47a6-76c4-8c8a-7d83cd9a60dd",
   type: "page-type/image",
   slug: "image-023550c24bc94443",
+  title: "Witch's Apprentice Catkin at the Cauldron",
+  albums: ["image-album/catkin"],
   service: "zimage",
   operation: "generate",
   model: "beyond-reality-3",

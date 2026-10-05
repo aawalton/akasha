@@ -4,6 +4,8 @@ export const image7e5d35845811dde7 = {
   id: "01a10d94-9586-7d53-ac01-b2bf9516e5d0",
   type: "page-type/image",
   slug: "image-7e5d35845811dde7",
+  title: "Tabby Catkin in the Star Flowers",
+  albums: ["image-album/catkin"],
   service: "zimage",
   operation: "generate",
   model: "beyond-reality-3",
