@@ -25,6 +25,7 @@ export const encountersRoyalPacificRoom = {
         "lore-disclosure/game-master",
         "character-player/encounters-alan",
         "character-other/encounters-kenzie",
+        "character-other/encounters-priya",
       ],
     },
     {

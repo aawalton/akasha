@@ -16,6 +16,7 @@ export const encountersPriya = {
         "character-other/encounters-kenzie",
         "character-other/encounters-priya",
         "character-other/encounters-hana",
+        "character-player/encounters-alan",
       ],
     },
     {
@@ -69,6 +70,7 @@ export const encountersPriya = {
         "character-other/encounters-kenzie",
         "character-other/encounters-priya",
         "character-other/encounters-hana",
+        "character-player/encounters-alan",
       ],
     },
     {
@@ -90,6 +92,7 @@ export const encountersPriya = {
         "character-other/encounters-kenzie",
         "character-other/encounters-priya",
         "character-other/encounters-hana",
+        "character-player/encounters-alan",
       ],
     },
     {
@@ -100,6 +103,7 @@ export const encountersPriya = {
         "character-other/encounters-kenzie",
         "character-other/encounters-priya",
         "character-other/encounters-hana",
+        "character-player/encounters-alan",
       ],
     },
     {
@@ -110,6 +114,7 @@ export const encountersPriya = {
         "character-other/encounters-kenzie",
         "character-other/encounters-priya",
         "character-other/encounters-hana",
+        "character-player/encounters-alan",
       ],
     },
     {
@@ -120,11 +125,16 @@ export const encountersPriya = {
         "character-other/encounters-kenzie",
         "character-other/encounters-priya",
         "character-other/encounters-hana",
+        "character-player/encounters-alan",
       ],
     },
     {
       fact: "Priya knows which rides have single-rider lines, and the hour each line runs shortest.",
-      knowers: ["lore-disclosure/game-master", "character-other/encounters-priya"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/encounters-priya",
+        "character-player/encounters-alan",
+      ],
     },
     {
       fact: "Priya got Alan's number from Sofia and offered to show him the park with no lines.",
@@ -132,15 +142,24 @@ export const encountersPriya = {
         "lore-disclosure/game-master",
         "character-other/encounters-sofia",
         "character-other/encounters-priya",
+        "character-player/encounters-alan",
       ],
     },
     {
       fact: "Priya wants to see for herself what Sofia and Kenzie found in Alan.",
-      knowers: ["lore-disclosure/game-master", "character-other/encounters-priya"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/encounters-priya",
+        "character-player/encounters-alan",
+      ],
     },
     {
       fact: "Priya packed a pair of padded cuffs in her suitcase, and told no one.",
-      knowers: ["lore-disclosure/game-master", "character-other/encounters-priya"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/encounters-priya",
+        "character-player/encounters-alan",
+      ],
     },
     {
       fact: "Priya reads people closely and remembers everything anyone says, which unnerves them.",
@@ -150,6 +169,7 @@ export const encountersPriya = {
         "character-other/encounters-kenzie",
         "character-other/encounters-priya",
         "character-other/encounters-hana",
+        "character-player/encounters-alan",
       ],
     },
     {
@@ -160,15 +180,24 @@ export const encountersPriya = {
         "character-other/encounters-kenzie",
         "character-other/encounters-priya",
         "character-other/encounters-hana",
+        "character-player/encounters-alan",
       ],
     },
     {
       fact: "Priya is shy saying anything about sex and wholly unashamed having it, and has researched it.",
-      knowers: ["lore-disclosure/game-master", "character-other/encounters-priya"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/encounters-priya",
+        "character-player/encounters-alan",
+      ],
     },
     {
       fact: "Priya wants to be tied down, spanked, called a good girl and used hard.",
-      knowers: ["lore-disclosure/game-master", "character-other/encounters-priya"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/encounters-priya",
+        "character-player/encounters-alan",
+      ],
     },
     {
       fact: "Priya keeps a drawer of toys, and loves anal, which she has only ever done with a toy.",
@@ -176,7 +205,11 @@ export const encountersPriya = {
     },
     {
       fact: "Priya comes quietly, biting her lip, and begs when she is made to wait.",
-      knowers: ["lore-disclosure/game-master", "character-other/encounters-priya"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/encounters-priya",
+        "character-player/encounters-alan",
+      ],
     },
     {
       fact: "Priya was Sofia's chemistry lab partner freshman year, and is who Sofia confides in.",
@@ -215,6 +248,62 @@ export const encountersPriya = {
         "character-other/encounters-kenzie",
         "character-other/encounters-priya",
         "character-other/encounters-hana",
+      ],
+    },
+    {
+      fact: "Chapter 3: Priya texted Alan to meet her at the Universal Studios arch, to show him the park.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/encounters-alan",
+        "character-other/encounters-priya",
+      ],
+    },
+    {
+      fact: "Priya still flinches at the Mummy's fire, as she has every time since she was nine.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/encounters-alan",
+        "character-other/encounters-priya",
+      ],
+    },
+    {
+      fact: "Priya's worst grade has been an A-minus.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/encounters-alan",
+        "character-other/encounters-priya",
+      ],
+    },
+    {
+      fact: "Priya's safeword is Gringotts.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/encounters-alan",
+        "character-other/encounters-priya",
+      ],
+    },
+    {
+      fact: "Alan cuffed Priya to his bed, spanked her, fucked her and came inside her.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/encounters-alan",
+        "character-other/encounters-priya",
+      ],
+    },
+    {
+      fact: "Priya graded Alan an A, better than both reviews she had heard of him.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/encounters-alan",
+        "character-other/encounters-priya",
+      ],
+    },
+    {
+      fact: "Priya wants more in bed than she has told Alan, and is still working up to saying it.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/encounters-alan",
+        "character-other/encounters-priya",
       ],
     },
   ],

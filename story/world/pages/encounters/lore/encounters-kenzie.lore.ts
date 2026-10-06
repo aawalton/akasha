@@ -275,6 +275,7 @@ export const encountersKenzie = {
         "character-other/encounters-kenzie",
         "character-other/encounters-priya",
         "character-other/encounters-hana",
+        "character-player/encounters-alan",
       ],
     },
     {
@@ -302,6 +303,7 @@ export const encountersKenzie = {
         "lore-disclosure/game-master",
         "character-player/encounters-alan",
         "character-other/encounters-kenzie",
+        "character-other/encounters-priya",
       ],
     },
     {

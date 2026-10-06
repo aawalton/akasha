@@ -53,7 +53,11 @@ export const encountersUniversalStudiosFlorida = {
     },
     {
       fact: "Several big rides here, Gringotts and the Mummy among them, have single-rider lines.",
-      knowers: ["lore-disclosure/game-master", "character-other/encounters-priya"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/encounters-priya",
+        "character-player/encounters-alan",
+      ],
     },
     {
       fact: "An October day here runs hot and humid, near ninety, and an afternoon thunderstorm is likely.",

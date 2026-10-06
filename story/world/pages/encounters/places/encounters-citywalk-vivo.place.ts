@@ -20,11 +20,19 @@ export const encountersCitywalkVivo = {
     },
     {
       fact: "Vivo Italian Kitchen is a CityWalk restaurant of handmade pasta, low light and a long bar.",
-      knowers: ["lore-disclosure/game-master", "character-other/encounters-priya"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/encounters-priya",
+        "character-player/encounters-alan",
+      ],
     },
     {
       fact: "Vivo serves late, and its corner booths are high-backed and private.",
-      knowers: ["lore-disclosure/game-master", "character-other/encounters-priya"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/encounters-priya",
+        "character-player/encounters-alan",
+      ],
     },
   ],
 } as const satisfies Place
