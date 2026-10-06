@@ -42,7 +42,7 @@
 {"beat":42,"event":"Elsie says she'd like to know who's singing, and they take the barrow for tomorrow."}
 {"beat":43,"event":"The clerk enters the party for Bellmoor barrow, and Cora writes it in her ledger."}
 {"beat":44,"event":"Cora says she has her report to write, and goes to the charcoal door.","at":"2026-06-13T12:00:00.000Z","leave":["character-other/fairweather-cora"]}
-{"beat":45,"event":"At the Tipsy Heron Tamsin pays for stew for the three of them.","at":"2026-06-13T12:30:00.000Z","place":"place/fairweather-lanternmere"}
+{"beat":45,"event":"At the Tipsy Heron Tamsin pays for stew for the three of them.","at":"2026-06-13T12:30:00.000Z","place":"place/fairweather-lanternmere","changes":[{"page":"metric-character-currency/fairweather-tamsin","note":"Tamsin buys stew for three at the Tipsy Heron: 12 pips, 184 → 172","key":"value","from":184,"to":172}]}
 {"beat":46,"event":"A tall woman with her arm in a sling sits at the next table: the Hounds' shield-bearer."}
 {"beat":47,"event":"Tamsin sees her, goes white, and puts down her spoon."}
 {"beat":48,"event":"Elsie feels it down the Tether, shame like cold water, and puts a hand on Tamsin's knee."}
@@ -62,8 +62,8 @@
 {"beat":62,"event":"In the attic Elsie writes Tilly's favourite things, leaving a gap for the secret one.","at":"2026-06-13T15:00:00.000Z","place":"place/fairweather-honeycomb-attic","present":["character-player/fairweather-elsie"]}
 {"beat":63,"event":"Under Cora she writes: tea, black, one sugar; lavender."}
 {"beat":64,"event":"Downstairs she asks the baker where to buy wool, and the baker says Spindle Lane.","at":"2026-06-13T16:00:00.000Z","place":"place/fairweather-honeycomb"}
-{"beat":65,"event":"On Spindle Lane Elsie buys grey wool, the grey of Cora's eyes, and pays for it.","at":"2026-06-13T16:30:00.000Z","place":"place/fairweather-lanternmere"}
-{"beat":66,"event":"She buys knitting needles too, and pays for those."}
+{"beat":65,"event":"On Spindle Lane Elsie buys grey wool, the grey of Cora's eyes, and pays for it.","at":"2026-06-13T16:30:00.000Z","place":"place/fairweather-lanternmere","changes":[{"page":"metric-character-currency/fairweather-elsie","note":"Grey wool on Spindle Lane for Cora's gloves: 4 pips, 176 → 172","key":"value","from":176,"to":172}]}
+{"beat":66,"event":"She buys knitting needles too, and pays for those.","changes":[{"page":"metric-character-currency/fairweather-elsie","note":"A pair of knitting needles: 3 pips, 172 → 169","key":"value","from":172,"to":169},{"page":"metric-character-currency/fairweather-elsie","note":"Elsie ends the chapter with 169 pips: 16 lanterns, 9 pips","key":"history","append":{"turn":13,"value":169}},{"page":"metric-character-currency/fairweather-tamsin","note":"Tamsin ends the chapter with 172 pips","key":"history","append":{"turn":13,"value":172}}]}
 {"beat":67,"event":"At the round window she casts on the first glove, humming.","at":"2026-06-13T17:30:00.000Z","place":"place/fairweather-honeycomb-attic"}
 {"beat":68,"event":"Moonpenny sits beside her on the sill, closed up for the day."}
 {"beat":69,"event":"The lamplighters' boats come by at dusk, and Elsie has a cuff done.","at":"2026-06-13T19:45:00.000Z"}

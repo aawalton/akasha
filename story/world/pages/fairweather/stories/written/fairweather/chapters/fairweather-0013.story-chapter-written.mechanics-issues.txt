@@ -1,1 +1,3 @@
 beat 24: Cora's report is on the guildmaster's desk, but Cora never left the party to hand it in
+beat 65: Elsie buys grey wool, and no page defines wool
+beat 66: Elsie buys knitting needles, and no page defines knitting needles
