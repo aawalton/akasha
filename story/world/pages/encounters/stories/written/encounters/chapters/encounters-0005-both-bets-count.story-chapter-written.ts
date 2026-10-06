@@ -11,7 +11,7 @@ export const encounters0005BothBetsCount = {
   story: "story-written/encounters",
   ownLength: 5312,
   prose: "txt",
-  stepStatus: "step-status/game-master",
+  stepStatus: "step-status/mechanics",
   beats: "jsonl",
   issues: "txt",
   lore: [
@@ -31,12 +31,5 @@ export const encounters0005BothBetsCount = {
     "character-other/encounters-hana",
   ],
   reviewedBy: ["story-reviewer/holdings", "story-reviewer/scene"],
-  recordedBy: [
-    "story-recorder/inventory",
-    "story-recorder/plan",
-    "story-recorder/mechanics",
-    "story-recorder/memory",
-    "story-recorder/picture",
-  ],
   scenes: ["image/image-41a127ea9b85c5bb"],
 } as const satisfies StoryChapterWritten
