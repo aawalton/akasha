@@ -269,5 +269,13 @@ export const fairweatherLanternmere = {
         "character-other/fairweather-cora",
       ],
     },
+    {
+      fact: "Spindle Lane is a lane of wool and thread shops; a skein of wool costs four pips there.",
+      knowers: ["lore-disclosure/game-master", "character-player/fairweather-elsie"],
+    },
+    {
+      fact: "On Spindle Lane a pair of knitting needles costs three pips.",
+      knowers: ["lore-disclosure/game-master", "character-player/fairweather-elsie"],
+    },
   ],
 } as const satisfies Place
