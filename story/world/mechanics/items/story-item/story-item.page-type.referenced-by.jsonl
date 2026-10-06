@@ -11,8 +11,11 @@
 {"propertySlug":"import","fileName":"story-item.page-type.types.ts","path":"story/world/pages/fairweather/stories/written/fairweather/items/fairweather-attic-key.story-item.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"story-item.page-type.types.ts","path":"story/world/pages/fairweather/stories/written/fairweather/items/fairweather-best-ribbon.story-item.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"story-item.page-type.types.ts","path":"story/world/pages/fairweather/stories/written/fairweather/items/fairweather-birthday-notebook.story-item.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"story-item.page-type.types.ts","path":"story/world/pages/fairweather/stories/written/fairweather/items/fairweather-blue-shawl.story-item.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"story-item.page-type.types.ts","path":"story/world/pages/fairweather/stories/written/fairweather/items/fairweather-brass-goggles.story-item.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"story-item.page-type.types.ts","path":"story/world/pages/fairweather/stories/written/fairweather/items/fairweather-copper-rank-tag.story-item.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"story-item.page-type.types.ts","path":"story/world/pages/fairweather/stories/written/fairweather/items/fairweather-coras-grey-gloves.story-item.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"story-item.page-type.types.ts","path":"story/world/pages/fairweather/stories/written/fairweather/items/fairweather-elsies-birch-crown.story-item.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"story-item.page-type.types.ts","path":"story/world/pages/fairweather/stories/written/fairweather/items/fairweather-elsies-knitting-needles.story-item.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"story-item.page-type.types.ts","path":"story/world/pages/fairweather/stories/written/fairweather/items/fairweather-flower-clip.story-item.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"story-item.page-type.types.ts","path":"story/world/pages/fairweather/stories/written/fairweather/items/fairweather-grey-wool.story-item.ts","typed":true,"deferred":false}
@@ -21,6 +24,7 @@
 {"propertySlug":"import","fileName":"story-item.page-type.types.ts","path":"story/world/pages/fairweather/stories/written/fairweather/items/fairweather-margery.story-item.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"story-item.page-type.types.ts","path":"story/world/pages/fairweather/stories/written/fairweather/items/fairweather-plant-crate.story-item.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"story-item.page-type.types.ts","path":"story/world/pages/fairweather/stories/written/fairweather/items/fairweather-scorched-apron.story-item.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"story-item.page-type.types.ts","path":"story/world/pages/fairweather/stories/written/fairweather/items/fairweather-tamsins-birch-crown.story-item.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"story-item.page-type.types.ts","path":"story/world/pages/fairweather/stories/written/fairweather/items/fairweather-vial-belt.story-item.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"story-item.page-type.types.ts","path":"story/world/pages/fairweather/stories/written/fairweather/items/fairweather-water-flask.story-item.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"story-item.page-type.types.ts","path":"story/world/pages/hell-hound-evolution-litrpg/stories/played/overwhere-i/items/overwhere-i-antler-badge.story-item.ts","typed":true,"deferred":false}

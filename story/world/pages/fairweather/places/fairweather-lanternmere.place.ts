@@ -371,5 +371,13 @@ export const fairweatherLanternmere = {
         "character-other/fairweather-amara",
       ],
     },
+    {
+      fact: "At the Midsummer fair a stall sells birch crowns, leaves and ribbons, for a pip each.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-tamsin",
+      ],
+    },
   ],
 } as const satisfies Place
