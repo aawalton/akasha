@@ -11,4 +11,5 @@ export const mariWriterFairweather = {
   startMode: "seat-mode/interactive",
   onCall: true,
   registrationAccount: "model-account/aawalton",
+  claudeCodeSessionUuid: "af5cadc0-743f-44a2-953f-37b0168dba7a",
 } as const satisfies Seat
