@@ -23,15 +23,36 @@ export const fairweatherFestivalBarge = {
     },
     {
       fact: "Odile Marsh, the festival master, is brisk and grey, and posts the barge guard at the Lantern Steps.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-tamsin",
+        "character-other/fairweather-tilly",
+        "character-other/fairweather-cora",
+        "character-other/fairweather-noor",
+      ],
     },
     {
       fact: "Each guard boat carries a hooded lantern and a brass bell to ring at the first sight of thieves.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-tamsin",
+        "character-other/fairweather-tilly",
+        "character-other/fairweather-cora",
+        "character-other/fairweather-noor",
+      ],
     },
     {
       fact: "River thieves come in a black punt with muffled oars, and slip lantern boats loose to strip them.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-tamsin",
+        "character-other/fairweather-tilly",
+        "character-other/fairweather-cora",
+        "character-other/fairweather-noor",
+      ],
     },
     {
       fact: "This year's thieves are the Pike crew, four of them, who flee a bell and fight only when cornered.",
