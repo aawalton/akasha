@@ -11,7 +11,7 @@ export const encounters0002Eleven = {
   story: "story-written/encounters",
   ownLength: 5882,
   prose: "txt",
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/game-master",
   beats: "jsonl",
   issues: "txt",
   lore: [
@@ -30,7 +30,7 @@ export const encounters0002Eleven = {
     "character-other/encounters-priya",
     "character-other/encounters-hana",
   ],
-  reviewedBy: ["story-reviewer/holdings", "story-reviewer/scene", "story-reviewer/continuity"],
+  reviewedBy: ["story-reviewer/holdings", "story-reviewer/scene"],
   recordedBy: [
     "story-recorder/plan",
     "story-recorder/mechanics",

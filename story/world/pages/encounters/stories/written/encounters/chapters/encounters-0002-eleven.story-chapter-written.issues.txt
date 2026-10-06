@@ -1,3 +1,3 @@
-style: "she lets go of you as if nothing happened" - Nobody Acts
-style: "She is asleep inside five minutes, sprawled across most of the bed" - No Sign-Off
 continuity: beat 7 memory "bar on University Avenue" - prose shows only weekends in Gainesville, not the street
+style: "Weekends, back in Gainesville." "I'm not being difficult." - Window Pane
+style: "as housekeeping left it" ... "made by housekeeping" - Window Pane
