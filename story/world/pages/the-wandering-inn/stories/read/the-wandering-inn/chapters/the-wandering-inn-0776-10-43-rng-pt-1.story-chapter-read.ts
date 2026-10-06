@@ -4,6 +4,7 @@ export const theWanderingInn07761043RngPt1 = {
   id: "01a0659e-181b-75da-ac02-a97c0ea69f57",
   type: "page-type/story-chapter-read",
   slug: "the-wandering-inn-0776-10-43-rng-pt-1",
+  completedAt: "2026-10-06T11:38:13.308Z",
   title: "10.43 - RNG (Pt. 1)",
   story: "story-read/the-wandering-inn",
   position: 776,
