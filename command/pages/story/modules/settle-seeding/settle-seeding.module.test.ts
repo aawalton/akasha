@@ -4,6 +4,7 @@ import { mkdtempSync, rmSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import {
   lineBefore,
+  lineChained,
   seedAfter,
   unmadeLogged,
 } from "akasha/command/pages/story/modules/settle-seeding/settle-seeding.module.code.ts"
@@ -46,6 +47,18 @@ test("the line before is the last line on the latest turn holding outcomes", () 
     { position: 3, outcomes: "c" },
   ]
   expect(lineBefore(read, turns)).toBe("two")
+})
+
+test("the line before falls back to the latest closed chapter holding outcomes", () => {
+  const bodies: Record<string, string> = { early: "first\n", late: "", open: "own\n" }
+  const read = (path: string) => bodies[path] ?? null
+  const chapters = [
+    { position: 1, outcomes: "early" },
+    { position: 2, outcomes: "late" },
+  ]
+  expect(lineChained(read, [{ position: 9, outcomes: "none" }], chapters)).toBe("first")
+  expect(lineChained(read, [{ position: 9, outcomes: "open" }], chapters)).toBe("own")
+  expect(lineChained(read, [], [])).toBeNull()
 })
 
 function git(...argv: readonly string[]): undefined {

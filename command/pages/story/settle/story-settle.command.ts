@@ -29,6 +29,10 @@ export const storySettle = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "Where no open turn has one, it is the last outcome of the latest closed chapter.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "The step a turn is at does not change which outcomes a roll is chained from.",
     },
     {

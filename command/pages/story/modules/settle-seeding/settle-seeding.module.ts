@@ -28,6 +28,11 @@ export const settleSeeding = {
     {
       decisionKind: "decision-kind/departure",
       statement:
+        "The line before a roll no open turn has is the last line of the latest closed chapter holding one.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
         "A roll with no line before it, on a turn never unmade, is seeded by its turn's slug.",
     },
     {

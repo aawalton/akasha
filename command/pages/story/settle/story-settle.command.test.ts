@@ -15,6 +15,9 @@ import {
   answeredBy,
   argvFor,
   CALLED,
+  CHAPTER,
+  CLOSED_LAST,
+  chapterHolding,
   FIRST,
   GIVEN,
   HER_AT,
@@ -115,6 +118,28 @@ test("a roll is seeded by the hash of the line before it, its turn and its place
   const hashed = createHash("sha256").update(`${before}\n${LATEST.slug}\n0`)
   expect(roll.seed).toBe(hashed.digest("hex"))
   rmSync(join(ROOT, at))
+})
+
+test("the first roll after a closed chapter is chained from that chapter's last line", async () => {
+  const at = chapterHolding(`{"check":"world-check/answering"}\n${CLOSED_LAST}\n`)
+  const reach = reachOver([FIRST, LATEST], 0, "writer", [CHAPTER])
+  const roll = rollIn((await settledBy("answering", reach))[0] as Appended)
+  rmSync(join(ROOT, at))
+  const hashed = createHash("sha256").update(`${CLOSED_LAST}\n${LATEST.slug}\n0`)
+  expect(roll.seed).toBe(hashed.digest("hex"))
+})
+
+test("a turn's recorded seeds still verify once a closed chapter holds lines", async () => {
+  const at = outcomesAt(LATEST.at) ?? "no outcomes"
+  const first = rollIn((await settledBy("answering", reachOver([LATEST])))[0] as Appended)
+  writeFileSync(join(ROOT, at), `${JSON.stringify(first)}\n`)
+  const second = rollIn((await settledBy("answering", reachOver([LATEST])))[0] as Appended)
+  const chapter = chapterHolding(`${CLOSED_LAST}\n`)
+  const reach = reachOver([LATEST], 0, "writer", [CHAPTER])
+  const again = rollIn((await settledBy("answering", reach))[0] as Appended)
+  rmSync(join(ROOT, at))
+  rmSync(join(ROOT, chapter))
+  expect(again.seed).toBe(second.seed)
 })
 
 const THIRD: Turn = {

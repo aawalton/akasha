@@ -2,6 +2,7 @@ import { mkdirSync, mkdtempSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import type { Asking } from "akasha/change/runner/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
 import type { Given } from "akasha/command/modules/calling/calling.module.code.ts"
+import type { Chained } from "akasha/command/pages/story/modules/settle-seeding/settle-seeding.module.code.ts"
 import type { Casting } from "akasha/command/pages/story/settle/modules/settle-character/settle-character.module.code.ts"
 import {
   type Reach,
@@ -38,6 +39,7 @@ const DICELESS =
   "export function settled(reading, roll) {\n  return { answered: { rolled: roll !== null, asked: reading.asked } }\n}\n"
 
 mkdirSync(join(ROOT, "turns"), { recursive: true })
+mkdirSync(join(ROOT, "chapters"), { recursive: true })
 mkdirSync(join(ROOT, "checks"), { recursive: true })
 writeFileSync(join(ROOT, "checks", "answering.code.ts"), ANSWERING)
 writeFileSync(join(ROOT, "checks", "refusing.code.ts"), REFUSING)
@@ -72,9 +74,28 @@ const CASTING: Casting = {
     CAST.filter((one) => one.address.endsWith(`/${slug}`)).map((one) => one.address),
 }
 
-export function reachOver(turns: readonly Turn[], unmade = 0, step: TurnStep = "writer"): Reach {
+export const CHAPTER: Chained = {
+  position: 1,
+  outcomes: "chapters/the-saga-0001-the-start.story-chapter-played.outcomes.jsonl",
+}
+
+export const CLOSED_LAST = '{"check":"world-check/answering","seed":"closed"}'
+
+export function chapterHolding(lines: string): string {
+  const at = CHAPTER.outcomes ?? "no outcomes"
+  writeFileSync(join(ROOT, at), lines)
+  return at
+}
+
+export function reachOver(
+  turns: readonly Turn[],
+  unmade = 0,
+  step: TurnStep = "writer",
+  chapters: readonly Chained[] = []
+): Reach {
   return {
     turnsOf: (_root, story) => (story === "the-saga" ? turns : []),
+    chaptersOf: (_root, story) => (story === "the-saga" ? chapters : []),
     settlingAt: (_root, check) => (check === "nothing" ? null : `checks/${check}.code.ts`),
     pageAt: (_root, page) => (page === "world-relationship/her" ? HER_AT : null),
     keptPageAt: (_root, _agentId, page) => (page === "world-relationship/kept" ? KEPT_AT : null),

@@ -37,7 +37,8 @@ import {
   takenBackOf,
 } from "akasha/command/pages/story/modules/settle-asking/settle-asking.module.code.ts"
 import {
-  lineBefore,
+  type Chained,
+  lineChained,
   linesIn,
   type Reading,
   seedAfter,
@@ -65,6 +66,7 @@ import { worldCheck } from "akasha/story/world/mechanics/checks/world-check.page
 import type { Rolled } from "akasha/story/world/mechanics/modules/dice-reading/dice-reading.module.code.ts"
 import type { Dice } from "akasha/story/world/mechanics/modules/dice-rolling/dice-rolling.module.code.ts"
 import { thrownFrom } from "akasha/story/world/mechanics/modules/dice-throwing/dice-throwing.module.code.ts"
+import { storyChapterPlayed } from "akasha/story/world/stories/played/chapters/story-chapter-played.page-type.ts"
 import { storyPlayed } from "akasha/story/world/stories/played/story-played.page-type.ts"
 import {
   GAME_MASTER,
@@ -82,6 +84,7 @@ const TAB = "\t"
 const COLLECTIONS = "partOfCollections"
 const POSITION = "position"
 const SLUG = "slug"
+const STORY = "story"
 const CHARACTER = "character"
 const STEP_STATUS = "stepStatus"
 
@@ -89,6 +92,7 @@ export type Turn = { readonly at: string; readonly slug: string; readonly positi
 
 export type Reach = {
   readonly turnsOf: (root: string, story: string) => readonly Turn[]
+  readonly chaptersOf: (root: string, story: string) => readonly Chained[]
   readonly settlingAt: (root: string, check: string) => string | null
   readonly pageAt: (root: string, page: string) => string | null
   readonly keptPageAt: (root: string, agentId: string | null, page: string) => string | null
@@ -123,6 +127,18 @@ export function turnsIndexed(root: string, story: string): readonly Turn[] {
   return found
 }
 
+export function chaptersIndexed(root: string, story: string): readonly Chained[] {
+  const named = `${storyPlayed.slug}/${story}`
+  const found: Chained[] = []
+  for (const one of valuesOfType(root, storyChapterPlayed.slug)) {
+    const position = one.value[POSITION]
+    if (one.value[STORY] !== named || typeof position !== "number") continue
+    if (one.value[outcomes.propertySlug] !== JSONL) continue
+    found.push({ position, outcomes: outcomesAt(one.path) })
+  }
+  return found
+}
+
 export function settlingIndexed(root: string, check: string): string | null {
   const listed = listedAt(root, worldCheck.slug, check)[0]
   if (listed === undefined) return null
@@ -131,6 +147,7 @@ export function settlingIndexed(root: string, check: string): string | null {
 
 const INDEXED: Reach = {
   turnsOf: turnsIndexed,
+  chaptersOf: chaptersIndexed,
   settlingAt: settlingIndexed,
   pageAt: pathOf,
   keptPageAt: keptPageOf,
@@ -145,11 +162,12 @@ export function outcomesAt(turn: string): string | null {
 
 function castFor(read: Reading, placed: Placed, dice: string | null): Held<Cast | null> {
   if (dice === null) return { answered: null }
-  const { turns, on, at, unmade } = placed
+  const { turns, chapters, on, at, unmade } = placed
   const before = turns
     .filter((one) => one.position <= on.position)
     .map((one) => ({ position: one.position, outcomes: outcomesAt(one.at) }))
-  const seed = seedAfter(lineBefore(read, before), on.slug, linesIn(read, at).length, unmade)
+  const line = lineChained(read, before, chapters)
+  const seed = seedAfter(line, on.slug, linesIn(read, at).length, unmade)
   const thrown = thrownFrom(seed, dice)
   if ("refused" in thrown) return thrown
   return { answered: { ...thrown.answered, seed } }
@@ -181,6 +199,7 @@ type Refusing = { readonly refused: string; readonly by: Code; readonly unfound?
 
 type Placed = {
   readonly turns: readonly Turn[]
+  readonly chapters: readonly Chained[]
   readonly on: Turn
   readonly at: string
   readonly code: string
@@ -216,7 +235,8 @@ function placedFor(root: string, held: Taken, reach: Reach): Placed | Refusing {
     return { refused: `\`${on.at}\` is no page file, so no outcomes sit beside it`, by: DATA }
   }
   const unmade = held.dice === null ? 0 : reach.unmadeOf(root, on.at)
-  return { turns, on, at, code, unmade, step: reach.stepOf(root, on.at) }
+  const chapters = held.dice === null ? [] : reach.chaptersOf(root, held.story)
+  return { turns, chapters, on, at, code, unmade, step: reach.stepOf(root, on.at) }
 }
 
 async function rollMade(
