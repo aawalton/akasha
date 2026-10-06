@@ -13,6 +13,7 @@ export const encounters0003AMinus = {
   prose: "txt",
   stepStatus: "step-status/reviewers",
   beats: "jsonl",
+  issues: "txt",
   lore: [
     "lore/encounters-hana",
     "lore/encounters-kenzie",
@@ -31,6 +32,7 @@ export const encounters0003AMinus = {
     "character-other/encounters-kenzie",
     "character-other/encounters-hana",
   ],
+  reviewedBy: ["story-reviewer/continuity"],
   recordedBy: [
     "story-recorder/plan",
     "story-recorder/inventory",
