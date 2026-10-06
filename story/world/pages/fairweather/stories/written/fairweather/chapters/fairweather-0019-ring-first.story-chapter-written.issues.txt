@@ -2,3 +2,8 @@ holdings: beat 92: Tamsin hands Elsie a hand pie (and taught her to row), +1 kin
 scene: "But they saw it. And Tilly said the hair was very good" - drawn alone b151 ch18; Tilly arrives b36
 continuity: Elsie writes "Haddad" (b46) - Noor's surname: Elsie no knower, no memory line learns it
 continuity: "Tilly said the hair was very good" (b26) - ch18: Elsie drew it alone; Tilly never saw
+style: "and she was asleep before she had finished thinking it" - No Sign-Off
+style: "She falls asleep thinking about tomorrow" (beat 199) - No Sign-Off
+style: "Nothing has changed overnight." (beat 21) - Nobody Acts
+style: "nothing lucky has ever been hers" (beat 44) - No Tropes
+style: "If nobody sinks." (beat 113) - Nobody Acts
