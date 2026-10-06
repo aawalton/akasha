@@ -13,6 +13,7 @@ export const fairweather0020LanternNight = {
   prose: "txt",
   stepStatus: "step-status/reviewers",
   beats: "jsonl",
+  issues: "txt",
   lore: [
     "lore/fairweather-amara",
     "lore/fairweather-cora",
@@ -49,7 +50,7 @@ export const fairweather0020LanternNight = {
     "character-other/fairweather-ines",
     "character-other/fairweather-amara",
   ],
-  reviewedBy: ["story-reviewer/scene"],
+  reviewedBy: ["story-reviewer/scene", "story-reviewer/style"],
   recordedBy: [
     "story-recorder/mechanics",
     "story-recorder/plan",
