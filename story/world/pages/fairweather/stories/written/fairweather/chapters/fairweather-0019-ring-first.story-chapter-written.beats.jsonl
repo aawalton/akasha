@@ -89,7 +89,7 @@
 {"beat":89,"event":"Elsie shuts her eyes in the sun. Noor's hand stays there, light, the leather warm from the sun."}
 {"beat":90,"event":"Elsie takes out the second glove and knits the second finger on the step, against Noor's knees."}
 {"beat":91,"event":"Cora's ledger lies open on her knee beside them. The page reads: Lantern Steps. Skills used, none."}
-{"beat":92,"event":"At noon Tamsin buys five hand pies from a stall at the top of the steps, a pip each.","at":"2026-06-19T12:00:00.000Z"}
+{"beat":92,"event":"At noon Tamsin buys five hand pies from a stall at the top of the steps, a pip each.","at":"2026-06-19T12:00:00.000Z","changes":[{"page":"metric-character-currency/fairweather-tamsin","note":"Tamsin buys five hand pies on the Lantern Steps, a pip each: 236 → 231","key":"value","from":236,"to":231}]}
 {"beat":93,"event":"Noor reaches into her coat to pay. Tamsin says she feeds the party, and Noor's on the notice now."}
 {"beat":94,"event":"Noor takes the pie. She holds it a moment in both gloved hands. She eats it all."}
 {"beat":95,"event":"Cora takes hers from Tamsin with a small inclined head. She eats standing up, looking at the water."}
@@ -128,8 +128,8 @@
 {"beat":128,"event":"Elsie holds up the third skein. She says, that one, beaming. That's exactly the right grey."}
 {"beat":129,"event":"Cora says, not quite steadily, that she had better not ask what it's the right grey of."}
 {"beat":130,"event":"Elsie says she'd better not, because Elsie can't lie, and then the surprise would be spoiled."}
-{"beat":131,"event":"Elsie pays four pips for the skein. She tucks it into her satchel with the needles."}
-{"beat":132,"event":"Outside a flower seller has lavender. Elsie buys one sprig for a pip and smells it.","at":"2026-06-19T15:00:00.000Z"}
+{"beat":131,"event":"Elsie pays four pips for the skein. She tucks it into her satchel with the needles.","changes":[{"page":"metric-character-currency/fairweather-elsie","note":"Elsie buys one more grey skein on Spindle Lane: 4 pips, 201 → 197","key":"value","from":201,"to":197}]}
+{"beat":132,"event":"Outside a flower seller has lavender. Elsie buys one sprig for a pip and smells it.","at":"2026-06-19T15:00:00.000Z","changes":[{"page":"metric-character-currency/fairweather-elsie","note":"Elsie buys a sprig of lavender: 1 pip, 197 → 196","key":"value","from":197,"to":196}]}
 {"beat":133,"event":"Cora asks, very evenly, who the lavender is for. Elsie says it's for someone she loves."}
 {"beat":134,"event":"Cora says nothing at all. She looks at the lavender in Elsie's hand for a long moment."}
 {"beat":135,"event":"Elsie tucks the sprig into her satchel beside the wool and buckles it shut. She hums."}
@@ -196,4 +196,4 @@
 {"beat":196,"event":"She tells Moonpenny about the boat, and the bell, and Noor's yes, and the two notes in the kitchen."}
 {"beat":197,"event":"She puts the parcel in her satchel, ready, and buckles it, and sets the satchel by the door."}
 {"beat":198,"event":"She blows out the candle and lies down under the sloping roof. She hugs her pillow."}
-{"beat":199,"event":"Below on Thimble Canal a late punt goes by under the lit lanterns, its pole knocking on the bridges."}
+{"beat":199,"event":"Below on Thimble Canal a late punt goes by under the lit lanterns, its pole knocking on the bridges.","changes":[{"page":"metric-character-currency/fairweather-elsie","note":"Elsie ends the chapter with 196 pips","key":"history","append":{"turn":19,"value":196}},{"page":"metric-character-currency/fairweather-tamsin","note":"Tamsin ends the chapter with 231 pips","key":"history","append":{"turn":19,"value":231}},{"page":"metric-character-currency/fairweather-tilly","note":"Tilly ends the chapter with 274 pips, unchanged","key":"history","append":{"turn":19,"value":274}}]}
