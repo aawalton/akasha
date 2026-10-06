@@ -13,6 +13,7 @@ export const encounters0005BothBetsCount = {
   prose: "txt",
   stepStatus: "step-status/reviewers",
   beats: "jsonl",
+  issues: "txt",
   lore: [
     "lore/encounters-hana",
     "lore/encounters-kenzie",
@@ -29,7 +30,7 @@ export const encounters0005BothBetsCount = {
     "character-other/encounters-priya",
     "character-other/encounters-hana",
   ],
-  reviewedBy: ["story-reviewer/holdings"],
+  reviewedBy: ["story-reviewer/holdings", "story-reviewer/style"],
   recordedBy: [
     "story-recorder/inventory",
     "story-recorder/plan",
