@@ -14,7 +14,7 @@ export const chaptersUnread = {
     { key: "removed-at", comparison: "empty", values: ["true"] },
     { key: "story.following", comparison: "is", values: ["true"] },
   ],
-  viewSorts: [{ key: "published-at", descending: true }],
+  viewSorts: [{ key: "published-at", descending: false }],
   groupSorts: [],
   visibleProperties: ["story", "published-at"],
   pageSize: 12,
