@@ -66,4 +66,5 @@ export const otherwhereIii0002TheDeskDemon = {
   lastTurn: "otherwhere-iii-00-024",
   lastTurnPosition: 24,
   endsAt: "2037-01-31T10:45:00.000Z",
+  outcomes: "jsonl",
 } as const satisfies StoryChapterPlayed

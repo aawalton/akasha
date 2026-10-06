@@ -86,4 +86,5 @@ export const otherwhereIii0001BarefootAtBelmont = {
   lastTurn: "otherwhere-iii-00-014",
   lastTurnPosition: 14,
   endsAt: "2037-01-31T08:30:00.000Z",
+  outcomes: "jsonl",
 } as const satisfies StoryChapterPlayed
