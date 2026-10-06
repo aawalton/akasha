@@ -1,16 +1,16 @@
 import type { StoryChapterWritten } from "akasha/story/world/stories/written/chapters/story-chapter-written.page-type.types.ts"
 
-export const fairweather0016 = {
+export const fairweather0016CreamOnTheStep = {
   id: "01a1128b-8c15-7189-89c6-1911f99f009f",
   type: "page-type/story-chapter-written",
-  slug: "fairweather-0016",
+  slug: "fairweather-0016-cream-on-the-step",
   position: 16,
   unit: "unit/words",
-  title: "Chapter 16",
+  title: "Cream on the Step",
   story: "story-written/fairweather",
-  ownLength: 0,
+  ownLength: 8725,
   prose: "txt",
-  stepStatus: "step-status/writer",
+  stepStatus: "step-status/recorders",
   beats: "jsonl",
   lore: [
     "lore/fairweather-cora",
@@ -34,6 +34,14 @@ export const fairweather0016 = {
     "place/fairweather-old-toll-bridge",
     "place/fairweather-orchid-glasshouse",
     "place/fairweather-underbloom",
+  ],
+  characters: [
+    "character-player/fairweather-elsie",
+    "character-other/fairweather-tamsin",
+    "character-other/fairweather-tilly",
+    "character-other/fairweather-cora",
+    "character-other/fairweather-noor",
+    "character-other/fairweather-amara",
   ],
   recordedBy: ["story-recorder/plan", "story-recorder/inventory", "story-recorder/mechanics"],
 } as const satisfies StoryChapterWritten
