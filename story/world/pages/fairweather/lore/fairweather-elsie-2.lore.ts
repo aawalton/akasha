@@ -208,5 +208,9 @@ export const fairweatherElsie2 = {
         "character-other/fairweather-cora",
       ],
     },
+    {
+      fact: "At level 4 an Enthraller gains the skill Keep.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
