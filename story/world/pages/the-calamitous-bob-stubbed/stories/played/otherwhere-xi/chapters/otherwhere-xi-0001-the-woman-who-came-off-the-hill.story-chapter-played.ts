@@ -56,4 +56,5 @@ export const otherwhereXi0001TheWomanWhoCameOffTheHill = {
   lastTurn: "otherwhere-xi-00-008",
   lastTurnPosition: 8,
   endsAt: "2026-09-28T08:49:00.000Z",
+  outcomes: "jsonl",
 } as const satisfies StoryChapterPlayed
