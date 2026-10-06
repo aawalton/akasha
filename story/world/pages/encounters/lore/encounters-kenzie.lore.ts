@@ -92,7 +92,7 @@ export const encountersKenzie = {
       ],
     },
     {
-      fact: "Kenzie has a flat stomach, slim thighs, a small tight ass and a cunt with a trimmed copper bush.",
+      fact: "Kenzie's cunt has a trimmed copper bush.",
       knowers: [
         "lore-disclosure/game-master",
         "character-other/encounters-sofia",
@@ -102,7 +102,27 @@ export const encountersKenzie = {
       ],
     },
     {
-      fact: "Kenzie is loud, bossy and generous, plans every trip to the minute, and pays when no one looks.",
+      fact: "Kenzie has a flat stomach, slim thighs and a small tight ass.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/encounters-sofia",
+        "character-other/encounters-kenzie",
+        "character-other/encounters-priya",
+        "character-other/encounters-hana",
+      ],
+    },
+    {
+      fact: "Kenzie plans every trip to the minute.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/encounters-sofia",
+        "character-other/encounters-kenzie",
+        "character-other/encounters-priya",
+        "character-other/encounters-hana",
+      ],
+    },
+    {
+      fact: "Kenzie is loud, bossy and generous, and pays when no one looks.",
       knowers: [
         "lore-disclosure/game-master",
         "character-other/encounters-sofia",
