@@ -4,6 +4,7 @@ export const justAddMana0200195Book4Chapter39TheGrandAssaultPt2 = {
   id: "01a111c0-8af9-7eb7-b8dd-f808a3f39d0e",
   type: "page-type/story-chapter-read",
   slug: "just-add-mana-0200-195-book-4-chapter-39-the-grand-assault-pt-2",
+  ownProgress: 2803,
   position: 200,
   publishedAt: "2026-10-06",
   unit: "unit/words",
