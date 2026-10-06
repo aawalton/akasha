@@ -71,7 +71,7 @@ type Session = {
 
 const HLS = "application/vnd.apple.mpegurl"
 
-const CHROMIUM = /\bChrome\//
+const CHROMIUM = /Chrome\//
 
 const HELD_AT_START = {
   startPosition: 0,
