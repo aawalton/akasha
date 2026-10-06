@@ -46,7 +46,12 @@ export const fairweather0016CreamOnTheStep = {
     "character-other/fairweather-amara",
   ],
   reviewedBy: ["story-reviewer/holdings", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/plan", "story-recorder/mechanics", "story-recorder/inventory"],
+  recordedBy: [
+    "story-recorder/plan",
+    "story-recorder/mechanics",
+    "story-recorder/inventory",
+    "story-recorder/picture",
+  ],
   rulings: "jsonl",
   scenes: ["image/image-7ffa37a956afdf13", "image/image-9dce51de984935b6"],
 } as const satisfies StoryChapterWritten
