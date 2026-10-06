@@ -1,4 +1,3 @@
-scene: "toward the north side, away from the tall house" - beat 89 puts the tall house on the north side
 continuity: b77 picture shows five rods in wax pools - prose shows the five and the wax only at b81
 style: "She blew out the candle. In the red light off the canal the two gloves lay" - No Sign-Off
 style: "She hadn't known she was holding it." - No Tropes
