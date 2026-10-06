@@ -2,6 +2,5 @@ continuity: "Dear Mama" (beat 64) - ch1: every letter begins the same, Dear Mum
 continuity: "the way her mother made it" (beat 66) - ch5: Agnes taught Elsie her honey cake
 continuity: "a great golden slow spoonful" (beat 66) - ch5, Honeycomb lore: it takes a whole comb
 continuity: "asleep on the crate" (beat 2) - ch10: Elsie sat on the bucket, Tilly on the crate
-holdings: beat 10: Tilly carries a satchel of vials on her shoulder, but what she holds is a belt of vials
 style: "straight-backed, looking at nobody" - Plain Negation
 style: "and nobody can say" (beat 52) - Nobody Acts
