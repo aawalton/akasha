@@ -290,7 +290,13 @@ export const fairweatherGuildHall = {
     },
     {
       fact: "From the fifteenth a new Leftovers slate reads: Noor Haddad, Hexer, E-rank. Will work alone.",
-      knowers: ["lore-disclosure/game-master", "character-other/fairweather-noor"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/fairweather-noor",
+        "character-other/fairweather-tamsin",
+        "character-other/fairweather-tilly",
+        "character-player/fairweather-elsie",
+      ],
     },
     {
       fact: "From the fifteenth the E-rank board has: a boggart fouling the wheel at Hobb Mill, nine lanterns.",

@@ -22,7 +22,11 @@ export const fairweatherNoor = {
     },
     {
       fact: "People step away from Noor in the street, and two parties have broken up around her.",
-      knowers: ["lore-disclosure/game-master", "character-other/fairweather-noor"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/fairweather-noor",
+        "character-other/fairweather-tamsin",
+      ],
     },
     {
       fact: "Noor is dry, sharp and lonely, and certain that everyone leaves.",
