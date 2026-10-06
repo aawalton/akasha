@@ -10,7 +10,22 @@ export const fairweatherInes = {
   facts: [
     {
       fact: "Ines Calderón is twenty-two, a Necromancer, the other feared class on the guild registry.",
-      knowers: ["lore-disclosure/game-master", "character-other/fairweather-ines"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/fairweather-ines",
+        "character-other/fairweather-cora",
+      ],
+    },
+    {
+      fact: "Ines Calderón is a Necromancer, registered with the guild.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/fairweather-ines",
+        "character-other/fairweather-cora",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-tamsin",
+        "character-other/fairweather-tilly",
+      ],
     },
     {
       fact: "Ines can raise nothing larger than birds and mice.",
