@@ -18,5 +18,5 @@ export const encounters0003 = {
     "place/encounters-citywalk-vivo",
     "place/encounters-universal-studios-florida",
   ],
-  recordedBy: ["story-recorder/inventory"],
+  recordedBy: ["story-recorder/inventory", "story-recorder/mechanics"],
 } as const satisfies StoryChapterWritten
