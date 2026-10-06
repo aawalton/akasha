@@ -7,3 +7,5 @@ holdings: beat 10: Tilly carries a satchel of vials on her shoulder, but what sh
 holdings: beat 15: Tilly grabs and holds Elsie's arm in both hands, a +1 kindness Tilly's bond misses
 holdings: beat 33: Elsie gives Tilly the two odd pips, a +1 gift Tilly's bond misses
 holdings: beat 56: with beats 15 and 33 Tilly is 43, so Devotion gives 6: Tilly Wits 20, Elsie Wits 11
+style: "straight-backed, looking at nobody" - Plain Negation
+style: "and nobody can say" (beat 52) - Nobody Acts

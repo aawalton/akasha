@@ -11,7 +11,7 @@ export const fairweather0011Moonpenny = {
   story: "story-written/fairweather",
   ownLength: 9293,
   prose: "txt",
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/game-master",
   beats: "jsonl",
   issues: "txt",
   lore: [
@@ -39,7 +39,7 @@ export const fairweather0011Moonpenny = {
     "character-other/fairweather-tilly",
     "character-other/fairweather-cora",
   ],
-  reviewedBy: ["story-reviewer/scene", "story-reviewer/continuity", "story-reviewer/holdings"],
+  reviewedBy: ["story-reviewer/scene"],
   recordedBy: [
     "story-recorder/plan",
     "story-recorder/inventory",
