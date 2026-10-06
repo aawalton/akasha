@@ -4,6 +4,7 @@ export const bunnyGirlEvolution0042230ANewTypeOfMonster = {
   id: "01a11042-1029-7920-b3b5-d019d4b0024d",
   type: "page-type/story-chapter-read",
   slug: "bunny-girl-evolution-0042-230-a-new-type-of-monster",
+  ownProgress: 2363,
   position: 42,
   publishedAt: "2026-10-06",
   unit: "unit/words",

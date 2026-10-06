@@ -4,6 +4,7 @@ export const chrysalis0531Chapter1876NewBeginnings = {
   id: "01a10ec0-53fc-7cc7-8582-9b610bce450f",
   type: "page-type/story-chapter-read",
   slug: "chrysalis-0531-chapter-1876-new-beginnings",
+  ownProgress: 955,
   position: 531,
   publishedAt: "2026-10-06",
   unit: "unit/words",
