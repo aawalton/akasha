@@ -8,6 +8,7 @@ export const day20261006 = {
   date: "2026-10-06",
   version: "3.0",
   wisdomWords: 0,
+  intelligenceTopics: 0,
   inboxTasks: 5,
   inboxTasksClearedToday: false,
   inboxTemperTasks: 0,
