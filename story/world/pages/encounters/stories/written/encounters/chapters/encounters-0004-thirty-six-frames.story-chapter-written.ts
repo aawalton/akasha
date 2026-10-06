@@ -27,6 +27,7 @@ export const encounters0004ThirtySixFrames = {
     "character-other/encounters-sofia",
     "character-other/encounters-priya",
   ],
+  reviewedBy: ["story-reviewer/holdings"],
   recordedBy: [
     "story-recorder/inventory",
     "story-recorder/mechanics",
