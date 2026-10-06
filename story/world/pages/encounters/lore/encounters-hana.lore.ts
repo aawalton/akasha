@@ -152,6 +152,16 @@ export const encountersHana = {
       knowers: ["lore-disclosure/game-master", "character-other/encounters-hana"],
     },
     {
+      fact: "The morning after her night with Alan, Hana told the others only that it was good.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/encounters-sofia",
+        "character-other/encounters-kenzie",
+        "character-other/encounters-priya",
+        "character-other/encounters-hana",
+      ],
+    },
+    {
       fact: "Hana is steady in a crisis, and the one who holds hair back at three in the morning.",
       knowers: [
         "lore-disclosure/game-master",

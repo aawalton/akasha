@@ -279,6 +279,22 @@ export const encountersKenzie = {
       ],
     },
     {
+      fact: "Kenzie and Sofia have never touched each other, and have joked about it for years.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/encounters-sofia",
+        "character-other/encounters-kenzie",
+      ],
+    },
+    {
+      fact: "Kenzie asked Sofia for a night with Alan together, and Sofia agreed on the spot.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/encounters-sofia",
+        "character-other/encounters-kenzie",
+      ],
+    },
+    {
       fact: "Kenzie told Alan she will find him if Sofia comes back unhappy.",
       knowers: [
         "lore-disclosure/game-master",

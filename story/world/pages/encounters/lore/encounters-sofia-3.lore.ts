@@ -142,5 +142,9 @@ export const encountersSofia3 = {
         "character-other/encounters-sofia",
       ],
     },
+    {
+      fact: "Sofia means to outlast Kenzie, and to have Alan come in her rather than in Kenzie.",
+      knowers: ["lore-disclosure/game-master", "character-other/encounters-sofia"],
+    },
   ],
 } as const satisfies Lore
