@@ -13,6 +13,7 @@ export const fairweather0014Harebells = {
   prose: "txt",
   stepStatus: "step-status/reviewers",
   beats: "jsonl",
+  issues: "txt",
   lore: [
     "lore/fairweather-cora",
     "lore/fairweather-elsie",
@@ -40,6 +41,7 @@ export const fairweather0014Harebells = {
     "character-other/fairweather-cora",
     "character-other/fairweather-amara",
   ],
+  reviewedBy: ["story-reviewer/holdings"],
   recordedBy: [
     "story-recorder/inventory",
     "story-recorder/mechanics",
