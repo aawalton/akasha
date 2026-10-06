@@ -40,6 +40,7 @@ export const fairweather0012FishGone = {
     "character-other/fairweather-cora",
   ],
   reviewedBy: ["story-reviewer/scene", "story-reviewer/holdings"],
+  recordedBy: ["story-recorder/inventory"],
   rulings: "jsonl",
   scenes: [
     "image/image-ee3d58e130e75a2e",
