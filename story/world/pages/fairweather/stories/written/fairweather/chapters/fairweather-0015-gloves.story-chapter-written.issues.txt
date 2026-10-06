@@ -1,4 +1,2 @@
-style: "She was asleep before she had finished breathing out." - No Sign-Off
-style: "Not one of them had touched the floor." - Nobody Acts
-style: "so nobody has to touch her by mistake" (beat 36) - Nobody Acts
-style: "nobody comes for the honey cakes" (beat 72) - Nobody Acts
+style: "and is asleep at once" (beat 78) - No Sign-Off
+style: "so she never touches anyone by mistake" (beat 36) - No Tropes
