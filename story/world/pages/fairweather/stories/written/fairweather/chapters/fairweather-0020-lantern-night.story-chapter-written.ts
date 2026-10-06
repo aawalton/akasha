@@ -51,7 +51,12 @@ export const fairweather0020LanternNight = {
     "character-other/fairweather-amara",
   ],
   reviewedBy: ["story-reviewer/scene"],
-  recordedBy: ["story-recorder/plan", "story-recorder/mechanics", "story-recorder/inventory"],
+  recordedBy: [
+    "story-recorder/plan",
+    "story-recorder/mechanics",
+    "story-recorder/inventory",
+    "story-recorder/picture",
+  ],
   scenes: [
     "image/image-73be6c7ed1e6f71d",
     "image/image-2d64d9cbc1e054d0",
