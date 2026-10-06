@@ -37,5 +37,10 @@ export const fairweather0012FishGone = {
     "character-other/fairweather-tilly",
     "character-other/fairweather-cora",
   ],
-  recordedBy: ["story-recorder/plan", "story-recorder/mechanics", "story-recorder/inventory"],
+  recordedBy: [
+    "story-recorder/plan",
+    "story-recorder/mechanics",
+    "story-recorder/inventory",
+    "story-recorder/memory",
+  ],
 } as const satisfies StoryChapterWritten
