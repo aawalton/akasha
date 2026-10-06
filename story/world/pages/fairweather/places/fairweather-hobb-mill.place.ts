@@ -123,5 +123,9 @@ export const fairweatherHobbMill = {
         "character-other/fairweather-cora",
       ],
     },
+    {
+      fact: "The morning after the cream, the Hobb Mill race runs clear, its stones stacked neatly on the bank.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Place

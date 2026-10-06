@@ -339,5 +339,13 @@ export const fairweatherGuildHall = {
         "character-other/fairweather-cora",
       ],
     },
+    {
+      fact: "From the seventeenth the F-rank board has: a lost cat called Biscuit, near Ash Lane, two lanterns.",
+      knowers: ["lore-disclosure/game-master", "character-other/fairweather-ines"],
+    },
+    {
+      fact: "The Biscuit notice is signed I. Calderón, and says the cat is small, white and very friendly.",
+      knowers: ["lore-disclosure/game-master", "character-other/fairweather-ines"],
+    },
   ],
 } as const satisfies Place
