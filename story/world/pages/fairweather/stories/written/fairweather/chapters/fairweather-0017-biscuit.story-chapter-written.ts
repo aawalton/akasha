@@ -46,5 +46,10 @@ export const fairweather0017Biscuit = {
     "character-other/fairweather-amara",
     "character-other/fairweather-nell",
   ],
-  recordedBy: ["story-recorder/plan", "story-recorder/inventory", "story-recorder/mechanics"],
+  recordedBy: [
+    "story-recorder/plan",
+    "story-recorder/inventory",
+    "story-recorder/mechanics",
+    "story-recorder/memory",
+  ],
 } as const satisfies StoryChapterWritten
