@@ -6,5 +6,5 @@ export const encounters = {
   slug: "encounters",
   title: "Encounters",
   description:
-    "No one world. Each chapter is its own place and its own night, set by the premise Alan gives for it, and nothing carries from one chapter to the next unless he says so.",
+    "The real world, now, with Alan as himself. He is the same man in every chapter, and what happened to him in earlier chapters stays his history. Each chapter is its own place and its own night, set by the premise Alan gives for it.",
 } as const satisfies World
