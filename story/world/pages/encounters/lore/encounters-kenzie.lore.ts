@@ -210,6 +210,10 @@ export const encountersKenzie = {
       ],
     },
     {
+      fact: "Kenzie means to size up Alan herself, the day after Sofia's night with him.",
+      knowers: ["lore-disclosure/game-master", "character-other/encounters-kenzie"],
+    },
+    {
       fact: "Kenzie told Alan she will find him if Sofia comes back unhappy.",
       knowers: [
         "lore-disclosure/game-master",

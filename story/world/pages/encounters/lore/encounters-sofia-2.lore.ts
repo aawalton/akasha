@@ -84,6 +84,24 @@ export const encountersSofia2 = {
       ],
     },
     {
+      fact: "The morning after, Sofia told the other three every detail of her night with Alan.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/encounters-sofia",
+        "character-other/encounters-kenzie",
+        "character-other/encounters-priya",
+        "character-other/encounters-hana",
+      ],
+    },
+    {
+      fact: "Sofia knows Alan is staying at the Royal Pacific.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/encounters-sofia",
+        "character-other/encounters-kenzie",
+      ],
+    },
+    {
       fact: "Together the four are loud and all inside jokes, and Priya splits every bill to the cent.",
       knowers: [
         "lore-disclosure/game-master",
