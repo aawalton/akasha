@@ -6,7 +6,7 @@ import {
   lineBefore,
   seedAfter,
   unmadeLogged,
-} from "akasha/command/pages/story/settle/modules/settle-seeding/settle-seeding.module.code.ts"
+} from "akasha/command/pages/story/modules/settle-seeding/settle-seeding.module.code.ts"
 import { said } from "akasha/git/modules/running/git-running.module.code.ts"
 
 const ROOT = mkdtempSync(join("/var/tmp", "settle-seeding-test-"))

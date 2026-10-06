@@ -15,6 +15,7 @@ export const story = {
     "namespace/story-turn",
     "command/story-tell",
     "module/settle-asking",
+    "module/settle-seeding",
     "module/turn-scenes",
     "module/turn-changes",
     "module/tell-continuing",

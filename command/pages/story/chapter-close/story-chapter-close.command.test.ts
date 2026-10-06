@@ -2,6 +2,7 @@ import { expect, test } from "bun:test"
 import {
   anchoredOf,
   chapterBeatsOf,
+  chapterOutcomesOf,
   chapterSlugOf,
   endsAtOf,
   lastOpeningOf,
@@ -11,6 +12,8 @@ import {
   taken,
   turnCoversOf,
 } from "akasha/command/pages/story/chapter-close/story-chapter-close.command.code.ts"
+import { lineBefore } from "akasha/command/pages/story/modules/settle-seeding/settle-seeding.module.code.ts"
+import { outcomesAt } from "akasha/command/pages/story/settle/story-settle.command.code.ts"
 
 const CALLED = "akasha story chapter-close"
 
@@ -61,6 +64,43 @@ test("a chapter's beats are each turn's beats in order, numbered on from the tur
 test("a chapter whose turns have no beats has no beats file", () => {
   expect(chapterBeatsOf([{ beats: [], scenes: [], changes: [], memory: [] }])).toBeNull()
   expect(chapterBeatsOf([])).toBeNull()
+})
+
+const CLOSED = [1, 2, 3].map((position) => ({
+  at: `turns/t-00-00${position}.story-turn-played.ts`,
+  slug: `t-00-00${position}`,
+  position,
+}))
+
+function outcomesOf(position: number): string {
+  return outcomesAt(CLOSED[position - 1]?.at ?? "") ?? "no outcomes"
+}
+
+const SETTLED: Record<string, string> = {
+  [outcomesOf(1)]: '{"check":"world-check/a","seed":"one"}\n{"check":"world-check/b"}\n',
+  [outcomesOf(2)]: "",
+  [outcomesOf(3)]: '{"check":"world-check/c","seed":"three"}\n',
+}
+
+function settledAt(path: string): string | null {
+  return SETTLED[path] ?? null
+}
+
+test("a chapter keeps every outcome line of the turns it takes, in turn order", () => {
+  expect(chapterOutcomesOf(settledAt, CLOSED)).toBe(
+    `${SETTLED[outcomesOf(1)]}${SETTLED[outcomesOf(3)]}`
+  )
+})
+
+test("a chapter's last outcome line is the line its turns chained the next roll from", () => {
+  const chained = CLOSED.map((one) => ({ position: one.position, outcomes: outcomesAt(one.at) }))
+  const kept = chapterOutcomesOf(settledAt, CLOSED) ?? ""
+  expect(kept.trimEnd().split("\n").at(-1)).toBe(lineBefore(settledAt, chained) ?? "no line")
+})
+
+test("a chapter whose turns settled nothing has no outcomes", () => {
+  expect(chapterOutcomesOf(settledAt, [CLOSED[1] ?? { at: "" }])).toBeNull()
+  expect(chapterOutcomesOf(() => null, CLOSED)).toBeNull()
 })
 
 test("a chapter takes the open turns through the one named, in order", () => {

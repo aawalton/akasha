@@ -59,6 +59,15 @@ export const storyChapterClose = {
       decisionKind: "decision-kind/departure",
       statement: "A turn whose beats file does not read refuses the whole run.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A chapter's outcomes are each turn's outcome lines in order, as the turn kept them.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A chapter whose turns settled nothing has no outcomes file.",
+    },
   ],
   name: "chapter-close",
   arguments: [

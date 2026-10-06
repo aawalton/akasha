@@ -8,7 +8,7 @@ export const storySettle = {
   code: "ts",
   test: "ts",
   testFixtures: "ts",
-  parts: ["module/settle-seeding", "module/settle-character", "module/settle-taking"],
+  parts: ["module/settle-character", "module/settle-taking"],
   decisions: [
     {
       decisionKind: "decision-kind/departure",

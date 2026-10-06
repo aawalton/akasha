@@ -1,3 +1,5 @@
+{"propertySlug":"import","fileName":"story-settle.command.code.ts","path":"command/pages/story/chapter-close/story-chapter-close.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"story-settle.command.code.ts","path":"command/pages/story/chapter-close/story-chapter-close.command.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"story-settle.command.code.ts","path":"command/pages/story/settle/story-settle.command.test-fixtures.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"story-settle.command.code.ts","path":"command/pages/story/settle/story-settle.command.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"story-settle.command.code.ts","path":"command/pages/story/turn/advance/modules/turn-crossed/turn-crossed.module.code.ts","typed":false,"deferred":false}

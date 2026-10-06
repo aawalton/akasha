@@ -37,17 +37,17 @@ import {
   takenBackOf,
 } from "akasha/command/pages/story/modules/settle-asking/settle-asking.module.code.ts"
 import {
-  type Casting,
-  castingIndexed,
-  characterRefused,
-} from "akasha/command/pages/story/settle/modules/settle-character/settle-character.module.code.ts"
-import {
   lineBefore,
   linesIn,
   type Reading,
   seedAfter,
   unmadeLogged,
-} from "akasha/command/pages/story/settle/modules/settle-seeding/settle-seeding.module.code.ts"
+} from "akasha/command/pages/story/modules/settle-seeding/settle-seeding.module.code.ts"
+import {
+  type Casting,
+  castingIndexed,
+  characterRefused,
+} from "akasha/command/pages/story/settle/modules/settle-character/settle-character.module.code.ts"
 import {
   type Taken,
   taken,
@@ -248,7 +248,7 @@ async function rollMade(
   return { roll, sums, replaced: before?.place ?? null }
 }
 
-function onDisk(root: string): (path: string) => string | null {
+export function onDisk(root: string): Reading {
   return (path) => {
     const at = join(root, path)
     return statSync(at, { throwIfNoEntry: false }) === undefined ? null : readFileSync(at, UTF8)

@@ -21,7 +21,12 @@ import {
 } from "akasha/command/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
 import { storyChapterClose as page } from "akasha/command/pages/story/chapter-close/story-chapter-close.command.ts"
+import {
+  linesIn,
+  type Reading,
+} from "akasha/command/pages/story/modules/settle-seeding/settle-seeding.module.code.ts"
 import { beatsHeld } from "akasha/command/pages/story/modules/turn-scenes/turn-scenes.module.code.ts"
+import { onDisk, outcomesAt } from "akasha/command/pages/story/settle/story-settle.command.code.ts"
 import {
   listedAt,
   valuesOfType,
@@ -44,6 +49,7 @@ import {
 import { wordCount } from "akasha/story/engine/core/modules/word-count/word-count.module.code.ts"
 import { storyChapterPlayed } from "akasha/story/world/stories/played/chapters/story-chapter-played.page-type.ts"
 import { storyPlayed } from "akasha/story/world/stories/played/story-played.page-type.ts"
+import { outcomes as outcomesFile } from "akasha/story/world/stories/played/turns/properties/outcomes.file-property.ts"
 import { storyTurnPlayed } from "akasha/story/world/stories/played/turns/story-turn-played.page-type.ts"
 
 const NAMED = [storyArgument, throughArgument, titleArgument] as const
@@ -66,6 +72,8 @@ const ENDS_AT = "endsAt"
 const SLUG = "slug"
 const BEATS = beatsFile.propertySlug
 const BEATS_HELD = "jsonl"
+const OUTCOMES = outcomesFile.propertySlug
+const OUTCOMES_HELD = "jsonl"
 
 const A_NOT_SLUG = /[^a-z0-9]+/g
 const AN_EDGE_DASH = /^-|-$/g
@@ -178,6 +186,14 @@ export function chapterBeatsOf(each: readonly Beats[]): string | null {
   return joined.beats.length === 0 ? null : beatsWritten(joined)
 }
 
+export function chapterOutcomesOf(
+  read: Reading,
+  turns: readonly { readonly at: string }[]
+): string | null {
+  const lines = turns.flatMap((one) => linesIn(read, outcomesAt(one.at)))
+  return lines.length === 0 ? null : `${lines.join(BREAK)}${BREAK}`
+}
+
 function storyOf(slug: string): string {
   const parted = slug.lastIndexOf(PARTED)
   return parted < 0 ? slug : slug.slice(parted + 1)
@@ -260,6 +276,7 @@ async function closed(
     turnBeats.push(read)
   }
   const beats = chapterBeatsOf(turnBeats)
+  const outcomes = chapterOutcomesOf(onDisk(given.root), turns)
   const position = lastChapterOf(given.root, named) + 1
   const chapterSlug = chapterSlugOf(slug, position, held.title)
   const prose = proseOf(texts)
@@ -280,8 +297,13 @@ async function closed(
       ...lastTurnOf(turns),
       ...endsAtOf(turns),
       ...(beats === null ? {} : { [BEATS]: BEATS_HELD }),
+      ...(outcomes === null ? {} : { [OUTCOMES]: OUTCOMES_HELD }),
     },
-    bodies: { prose, ...(beats === null ? {} : { [BEATS]: beats }) },
+    bodies: {
+      prose,
+      ...(beats === null ? {} : { [BEATS]: beats }),
+      ...(outcomes === null ? {} : { [OUTCOMES]: outcomes }),
+    },
   }
   const folded = foldedFor(given.root, [naming])
   if ("refused" in folded) return refused(folded.refused, DATA)
