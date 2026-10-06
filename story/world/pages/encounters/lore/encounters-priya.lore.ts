@@ -123,6 +123,26 @@ export const encountersPriya = {
       ],
     },
     {
+      fact: "Priya knows which rides have single-rider lines, and the hour each line runs shortest.",
+      knowers: ["lore-disclosure/game-master", "character-other/encounters-priya"],
+    },
+    {
+      fact: "Priya got Alan's number from Sofia and offered to show him the park with no lines.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/encounters-sofia",
+        "character-other/encounters-priya",
+      ],
+    },
+    {
+      fact: "Priya wants to see for herself what Sofia and Kenzie found in Alan.",
+      knowers: ["lore-disclosure/game-master", "character-other/encounters-priya"],
+    },
+    {
+      fact: "Priya packed a pair of padded cuffs in her suitcase, and told no one.",
+      knowers: ["lore-disclosure/game-master", "character-other/encounters-priya"],
+    },
+    {
       fact: "Priya reads people closely and remembers everything anyone says, which unnerves them.",
       knowers: [
         "lore-disclosure/game-master",

@@ -268,6 +268,16 @@ export const encountersKenzie = {
       ],
     },
     {
+      fact: "The morning after her night with Alan, Kenzie told the other three all of it.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/encounters-sofia",
+        "character-other/encounters-kenzie",
+        "character-other/encounters-priya",
+        "character-other/encounters-hana",
+      ],
+    },
+    {
       fact: "Kenzie told Alan she will find him if Sofia comes back unhappy.",
       knowers: [
         "lore-disclosure/game-master",
