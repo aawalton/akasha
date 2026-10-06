@@ -31,6 +31,6 @@ export const encounters0005BothBetsCount = {
     "character-other/encounters-hana",
   ],
   reviewedBy: ["story-reviewer/holdings", "story-reviewer/scene"],
-  recordedBy: ["story-recorder/plan"],
+  recordedBy: ["story-recorder/plan", "story-recorder/inventory"],
   scenes: ["image/image-41a127ea9b85c5bb"],
 } as const satisfies StoryChapterWritten
