@@ -284,5 +284,21 @@ export const fairweatherGuildHall = {
         "character-other/fairweather-cora",
       ],
     },
+    {
+      fact: "The guild pays out the barrow notice once Cora has filed her report on it.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "From the fifteenth a new Leftovers slate reads: Noor Haddad, Hexer, E-rank. Will work alone.",
+      knowers: ["lore-disclosure/game-master", "character-other/fairweather-noor"],
+    },
+    {
+      fact: "From the fifteenth the E-rank board has: a boggart fouling the wheel at Hobb Mill, nine lanterns.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "From the fifteenth the E-rank board has: guard the Midsummer barges from river thieves, 12 lanterns.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Place
