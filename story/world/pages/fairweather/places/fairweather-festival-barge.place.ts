@@ -75,11 +75,25 @@ export const fairweatherFestivalBarge = {
     },
     {
       fact: "Guard boats ride at numbered buoys in a wide ring outside the lantern boats.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-tamsin",
+        "character-other/fairweather-tilly",
+        "character-other/fairweather-cora",
+        "character-other/fairweather-noor",
+      ],
     },
     {
       fact: "Buoy eleven lies off the north reed beds, on the darkest side of the barge.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-tamsin",
+        "character-other/fairweather-tilly",
+        "character-other/fairweather-cora",
+        "character-other/fairweather-noor",
+      ],
     },
     {
       fact: "Celestine sings alone at ten, and at eleven means to call Amara up beside her under the canopy.",
@@ -91,7 +105,14 @@ export const fairweatherFestivalBarge = {
     },
     {
       fact: "Odile Marsh pays each guard boat its twelve lanterns in coin at the Lantern Steps at dawn.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-tamsin",
+        "character-other/fairweather-tilly",
+        "character-other/fairweather-cora",
+        "character-other/fairweather-noor",
+      ],
     },
   ],
 } as const satisfies Place

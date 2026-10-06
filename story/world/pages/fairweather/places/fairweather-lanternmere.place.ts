@@ -361,7 +361,14 @@ export const fairweatherLanternmere = {
     },
     {
       fact: "The twentieth is warm and clear, but after dark a cold wind comes off the Mere.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-tamsin",
+        "character-other/fairweather-tilly",
+        "character-other/fairweather-cora",
+        "character-other/fairweather-noor",
+      ],
     },
     {
       fact: "On Lantern Night people set one paper lantern on the Mere for someone they have lost.",
