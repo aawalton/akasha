@@ -33,6 +33,11 @@ export const gameMaster = {
     {
       decisionKind: "decision-kind/departure",
       statement:
+        "A mend moving no beat runs the recorders again where a reviewer's issue not ruled out is left.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
         "The game master has the final say: an issue it rules out, with a reason, is ended.",
     },
   ],

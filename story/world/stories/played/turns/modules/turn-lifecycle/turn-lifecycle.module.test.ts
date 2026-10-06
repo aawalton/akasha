@@ -140,6 +140,20 @@ test("a mend moving no beat runs again only the mechanics seats whose issues it 
   expect("mechanicsIssues" in said.values).toBe(true)
 })
 
+const SHOWN = `${continuity.slug}: beat 2 records no memory of the lamp`
+
+test("a mend moving no beat runs the recorders again while a reviewer's issue is left", () => {
+  const ran = { planned: PLANNED, recordedBy: RAN, written: true, issues: [SHOWN] }
+  const said = movedOf(stepping(heldAt("game-master", ran), MASTER, { kind: "beats", ...PLANNED }))
+  expect([said.status, said.values["recordedBy"]]).toEqual(["writer", STEPPED.map(recordedBy)])
+  const on = movedOf(stepping(heldAt("writer", { ...ran, recordedBy: STEPPED }), WRITER, PROSE))
+  expect([on.status, on.starts.length]).toEqual(["recorders", 2])
+  const rulings = [{ issue: SHOWN, reason: "the lamp is no fact" }]
+  const ruled = { kind: "beats", ...PLANNED, rulings } as const
+  const kept = movedOf(stepping(heldAt("game-master", ran), MASTER, ruled))
+  expect(kept.values["recordedBy"]).toEqual(RAN.map(recordedBy))
+})
+
 test("the writer runs on a mend because issues stand, and the chapter keeps its length", () => {
   const issues = [`${VOICE}: beat 2 is dull`]
   const held = heldAt("mechanics", { beats: 2, written: true, issues, recordedBy: ["inventory"] })

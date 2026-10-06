@@ -36,8 +36,11 @@ export const turnAdvancing = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement:
-        "A mend moving no beat reruns only the mechanics seats, and those only where their issues stand.",
+      statement: "A mend moving no beat reruns the mechanics seats only where their issues remain.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A mend moving no beat reruns the recorders where a reviewer's issue remains.",
     },
     {
       decisionKind: "decision-kind/departure",

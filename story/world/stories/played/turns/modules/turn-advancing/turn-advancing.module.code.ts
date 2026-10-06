@@ -242,8 +242,8 @@ function fromBeats(
 
 function recordedAfter(held: Held, planned: Planned, staff: Staff): readonly string[] {
   if (firstMoved(held.planned, planned) !== null) return []
-  if ((held.mechanicsIssues ?? []).length === 0) return held.recordedBy
-  return leftOf(held.recordedBy, staff.mechanics)
+  const mended = (held.mechanicsIssues ?? []).length > 0 ? staff.mechanics : []
+  return leftOf(held.recordedBy, held.issues.length > 0 ? [...mended, ...staff.recorders] : mended)
 }
 
 function fromReviewer(
