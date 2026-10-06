@@ -273,7 +273,11 @@ export const fairweatherLanternmere = {
     },
     {
       fact: "Spindle Lane is a lane of wool and thread shops; a skein of wool costs four pips there.",
-      knowers: ["lore-disclosure/game-master", "character-player/fairweather-elsie"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-cora",
+      ],
     },
     {
       fact: "On Spindle Lane a pair of knitting needles costs three pips.",
@@ -330,7 +334,30 @@ export const fairweatherLanternmere = {
     },
     {
       fact: "The second party means to bring the Coin Street agent four suns on the twenty-second.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-tamsin",
+        "character-other/fairweather-cora",
+      ],
+    },
+    {
+      fact: "The Coin Street agent will be at his office at eight on the morning of the twenty-first.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-tamsin",
+        "character-other/fairweather-cora",
+      ],
+    },
+    {
+      fact: "Elsie promised the Coin Street agent a warm honey cake on the twenty-first.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-tamsin",
+        "character-other/fairweather-cora",
+      ],
     },
   ],
 } as const satisfies Place

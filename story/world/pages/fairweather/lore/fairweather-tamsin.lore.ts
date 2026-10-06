@@ -369,5 +369,35 @@ export const fairweatherTamsin = {
         "character-other/fairweather-cora",
       ],
     },
+    {
+      fact: "On the nineteenth Tamsin taught Elsie to row in boat eleven, her arms round her.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-tamsin",
+        "character-other/fairweather-tilly",
+        "character-other/fairweather-cora",
+        "character-other/fairweather-noor",
+      ],
+    },
+    {
+      fact: "Tamsin feeds the party, and bought Noor a hand pie on the Lantern Steps.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-tamsin",
+        "character-other/fairweather-tilly",
+        "character-other/fairweather-cora",
+        "character-other/fairweather-noor",
+      ],
+    },
+    {
+      fact: "Tamsin means to leave her mother a letter at the wharf office about the blue-door house.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-tamsin",
+      ],
+    },
   ],
 } as const satisfies Lore

@@ -48,5 +48,33 @@ export const fairweatherCora2 = {
         "character-other/fairweather-cora",
       ],
     },
+    {
+      fact: "On Midsummer Eve Cora straightened Elsie's crooked clip with two fingers.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-cora",
+      ],
+    },
+    {
+      fact: "Cora told Elsie to wear something warm, with sleeves, on the Mere on Midsummer night.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-cora",
+      ],
+    },
+    {
+      fact: "Asked why she said Don't do that again, Cora said: not tonight; perhaps tomorrow.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-cora",
+      ],
+    },
+    {
+      fact: "Elsie finished Cora's grey gloves on the nineteenth, wrapped with lavender, a lantern drawn on.",
+      knowers: ["lore-disclosure/game-master", "character-player/fairweather-elsie"],
+    },
   ],
 } as const satisfies Lore

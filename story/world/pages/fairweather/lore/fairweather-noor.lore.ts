@@ -249,5 +249,69 @@ export const fairweatherNoor = {
         "character-other/fairweather-cora",
       ],
     },
+    {
+      fact: "Noor will come on the Midsummer barge guard, sitting at the back, away from the lantern.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-noor",
+      ],
+    },
+    {
+      fact: "Across the guild table Noor's gloved fingers closed round Elsie's hand, a little.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-noor",
+      ],
+    },
+    {
+      fact: "Tilly gave Noor a floating vial that bounced unbroken, and Noor pocketed it.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/fairweather-tilly",
+        "character-other/fairweather-noor",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-ines",
+      ],
+    },
+    {
+      fact: "Noor's full name is Noor Haddad, a Hexer registered E-rank with the guild.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-cora",
+        "character-other/fairweather-noor",
+      ],
+    },
+    {
+      fact: "On the Lantern Steps Noor rested her gloved hand on Elsie's head.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-noor",
+      ],
+    },
+    {
+      fact: "Elsie says Noor gets a whole share of the barge pay; Noor says she wants none.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-tamsin",
+        "character-other/fairweather-tilly",
+        "character-other/fairweather-cora",
+        "character-other/fairweather-noor",
+      ],
+    },
+    {
+      fact: "Noor will be at the Lantern Steps at dusk on the twentieth.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-tamsin",
+        "character-other/fairweather-cora",
+        "character-other/fairweather-noor",
+      ],
+    },
   ],
 } as const satisfies Lore

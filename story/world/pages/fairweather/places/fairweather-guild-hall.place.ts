@@ -397,5 +397,14 @@ export const fairweatherGuildHall = {
         "character-other/fairweather-cora",
       ],
     },
+    {
+      fact: "On the nineteenth Noor Haddad was written in as a fourth name on the barge guard.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-cora",
+        "character-other/fairweather-noor",
+      ],
+    },
   ],
 } as const satisfies Place

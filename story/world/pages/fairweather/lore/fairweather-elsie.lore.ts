@@ -47,7 +47,11 @@ export const fairweatherElsie = {
     },
     {
       fact: "Elsie cannot lie.",
-      knowers: ["lore-disclosure/game-master", "character-player/fairweather-elsie"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-cora",
+      ],
     },
     {
       fact: "Elsie's eyes fill easily, at kindness as readily as at sorrow.",
@@ -111,6 +115,7 @@ export const fairweatherElsie = {
         "character-other/fairweather-rosa",
         "character-other/fairweather-nell",
         "character-other/fairweather-tamsin",
+        "character-other/fairweather-amara",
       ],
     },
     {

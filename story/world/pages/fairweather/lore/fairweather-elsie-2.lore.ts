@@ -260,5 +260,29 @@ export const fairweatherElsie2 = {
         "character-other/fairweather-amara",
       ],
     },
+    {
+      fact: "Cora's ledger for the Lantern Steps reads: Lantern Steps. Skills used, none.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-cora",
+      ],
+    },
+    {
+      fact: "Elsie bought one more grey skein for the second glove, the silvery grey of Cora's eyes.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-cora",
+      ],
+    },
+    {
+      fact: "Elsie bought a sprig of lavender, and told Cora it is for someone she loves.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-cora",
+      ],
+    },
   ],
 } as const satisfies Lore

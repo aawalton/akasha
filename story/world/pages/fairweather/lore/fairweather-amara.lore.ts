@@ -97,5 +97,37 @@ export const fairweatherAmara = {
         "character-other/fairweather-amara",
       ],
     },
+    {
+      fact: "On the nineteenth Amara came into the Honeycomb for the first time, and baked with Elsie.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-amara",
+      ],
+    },
+    {
+      fact: "Amara's mother had a gold gown made her for the barge; in it Amara could not make a sound.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-amara",
+      ],
+    },
+    {
+      fact: "Amara hummed the barrow tune with Elsie in the room, two notes each, back and forth.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-amara",
+      ],
+    },
+    {
+      fact: "Amara will look from the barge for the boat with Elsie's pink head in it.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-amara",
+      ],
+    },
   ],
 } as const satisfies Lore

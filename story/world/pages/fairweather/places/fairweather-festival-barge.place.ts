@@ -62,5 +62,16 @@ export const fairweatherFestivalBarge = {
       fact: "The Midsummer fireworks go up from the barge's bow at midnight.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "The party's guard boat is eleven, a small green rowing boat with a white line.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-tamsin",
+        "character-other/fairweather-tilly",
+        "character-other/fairweather-cora",
+        "character-other/fairweather-noor",
+      ],
+    },
   ],
 } as const satisfies Place

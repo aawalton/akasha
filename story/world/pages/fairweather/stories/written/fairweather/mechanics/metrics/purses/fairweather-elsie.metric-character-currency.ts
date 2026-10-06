@@ -6,7 +6,7 @@ export const fairweatherElsie = {
   slug: "fairweather-elsie",
   character: "character-player/fairweather-elsie",
   currency: "world-currency/fairweather-coin",
-  value: 208,
+  value: 196,
   minValue: 0,
   history: "jsonl",
   displayOrder: 1,

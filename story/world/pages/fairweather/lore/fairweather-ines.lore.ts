@@ -235,5 +235,13 @@ export const fairweatherInes = {
         "character-other/fairweather-tilly",
       ],
     },
+    {
+      fact: "Ines will watch the Midsummer fireworks from near the Lantern Steps, with Biscuit.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-ines",
+      ],
+    },
   ],
 } as const satisfies Lore

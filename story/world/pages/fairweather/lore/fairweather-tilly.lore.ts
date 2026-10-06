@@ -267,6 +267,27 @@ export const fairweatherTilly = {
         "character-other/fairweather-cora",
       ],
     },
+    {
+      fact: "Tilly made six floating vials at Ines's range, and tested them bobbing in Ines's washtub.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/fairweather-tilly",
+        "character-other/fairweather-ines",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-noor",
+      ],
+    },
+    {
+      fact: "Each of Tilly's floating vials will hold one person up, if they hold on and don't panic.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-tamsin",
+        "character-other/fairweather-tilly",
+        "character-other/fairweather-cora",
+        "character-other/fairweather-noor",
+      ],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
