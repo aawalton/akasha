@@ -40,7 +40,7 @@ export const fairweather0013GreyWool = {
     "character-other/fairweather-cora",
     "character-other/fairweather-nell",
   ],
-  reviewedBy: ["story-reviewer/holdings"],
+  reviewedBy: ["story-reviewer/holdings", "story-reviewer/scene"],
   recordedBy: [
     "story-recorder/plan",
     "story-recorder/mechanics",
