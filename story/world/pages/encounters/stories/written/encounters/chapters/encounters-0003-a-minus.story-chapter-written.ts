@@ -33,6 +33,7 @@ export const encounters0003AMinus = {
     "character-other/encounters-hana",
   ],
   reviewedBy: ["story-reviewer/holdings", "story-reviewer/scene"],
+  recordedBy: ["story-recorder/plan"],
   scenes: [
     "image/image-debe54fac4158572",
     "image/image-3d7f4b751c8c2e8a",
