@@ -99,6 +99,16 @@ export const narration = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "The page of the chapter playing marks the sentence being spoken and keeps it in view.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "Scrolling the page by hand stops it following until Alan asks it to follow again.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A narration that fails says so rather than going quiet.",
     },
     {
