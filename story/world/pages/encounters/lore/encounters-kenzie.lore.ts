@@ -19,7 +19,17 @@ export const encountersKenzie = {
       ],
     },
     {
-      fact: "Kenzie bartends weekends at a bar on University Avenue in Gainesville.",
+      fact: "Kenzie bartends weekends in Gainesville.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/encounters-sofia",
+        "character-other/encounters-kenzie",
+        "character-other/encounters-priya",
+        "character-other/encounters-hana",
+      ],
+    },
+    {
+      fact: "The bar Kenzie works at is on University Avenue.",
       knowers: [
         "lore-disclosure/game-master",
         "character-other/encounters-sofia",
