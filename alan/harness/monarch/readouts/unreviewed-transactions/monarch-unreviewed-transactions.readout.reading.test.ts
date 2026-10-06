@@ -1,5 +1,8 @@
 import { afterEach, describe, expect, mock, spyOn, test } from "bun:test"
-import { fetchRingCountsFromMonarch } from "akasha/alan/harness/monarch/readouts/unreviewed-transactions/monarch-unreviewed-transactions.readout.reading.code.ts"
+import {
+  fetchRingCountsFromMonarch,
+  waitAfterAnswer,
+} from "akasha/alan/harness/monarch/readouts/unreviewed-transactions/monarch-unreviewed-transactions.readout.reading.code.ts"
 import { z } from "zod"
 
 const COOKIE = "sessionid=abc; csrftoken=tok-123; theme=dark"
@@ -163,15 +166,28 @@ describe("The X-CSRFToken header is split out of its `csrftoken=` value.", () =>
   })
 })
 
-describe("A Monarch answer that is not OK is refused as a dead credential.", () => {
+describe("A Monarch answer that is not OK is refused.", () => {
   test("a 403 throws and names the status", async () => {
     answering(counted(1), { status: 403 })
     await expect(fetchRingCountsFromMonarch(COOKIE, NOW)).rejects.toThrow("403")
   })
 
+  test("a 403 is blamed on the credential and asked once", async () => {
+    answering(counted(1), { status: 403 })
+    await expect(fetchRingCountsFromMonarch(COOKIE, NOW)).rejects.toThrow("dead credential")
+    expect(SENT).toHaveLength(1)
+  })
+
   test("a 500 throws even where the body holds a count", async () => {
+    spyOn(Bun, "sleep").mockResolvedValue(undefined)
     answering(counted(9), { status: 500 })
     await expect(fetchRingCountsFromMonarch(COOKIE, NOW)).rejects.toThrow("500")
+  })
+
+  test("a 502 is blamed on Monarch rather than the credential", async () => {
+    spyOn(Bun, "sleep").mockResolvedValue(undefined)
+    answering(counted(9), { status: 502 })
+    await expect(fetchRingCountsFromMonarch(COOKIE, NOW)).rejects.toThrow("Monarch's side")
   })
 
   test("an answer carrying no count throws", async () => {
@@ -182,6 +198,44 @@ describe("A Monarch answer that is not OK is refused as a dead credential.", () 
   test("a count below zero throws", async () => {
     answering({ data: { unreviewed: { totalCount: -1 } } })
     await expect(fetchRingCountsFromMonarch(COOKIE, NOW)).rejects.toThrow("no count")
+  })
+})
+
+describe("A fault on Monarch's side is asked again before the reading fails.", () => {
+  test("a 5xx waits 2, 5 and 10 seconds and then stops", () => {
+    expect([0, 1, 2, 3].map((tried) => waitAfterAnswer(502, tried))).toEqual([
+      2_000,
+      5_000,
+      10_000,
+      null,
+    ])
+  })
+
+  test("an answer below 500 is never asked again", () => {
+    expect(waitAfterAnswer(401, 0)).toBeNull()
+    expect(waitAfterAnswer(403, 0)).toBeNull()
+    expect(waitAfterAnswer(429, 0)).toBeNull()
+  })
+
+  test("a 502 followed by a count comes back as the count", async () => {
+    const slept = spyOn(Bun, "sleep").mockResolvedValue(undefined)
+    let asked = 0
+    stubbing(async () => {
+      asked += 1
+      return asked === 1
+        ? new Response("bad gateway", { status: 502 })
+        : new Response(JSON.stringify(counted(84)))
+    })
+    expect(await fetchRingCountsFromMonarch(COOKIE, NOW)).toEqual({ unreviewed: 84 })
+    expect(asked).toBe(2)
+    expect(slept).toHaveBeenCalledTimes(1)
+  })
+
+  test("a 502 that never clears is asked four times in all", async () => {
+    spyOn(Bun, "sleep").mockResolvedValue(undefined)
+    answering(counted(1), { status: 502 })
+    await expect(fetchRingCountsFromMonarch(COOKIE, NOW)).rejects.toThrow("502")
+    expect(SENT).toHaveLength(4)
   })
 })
 

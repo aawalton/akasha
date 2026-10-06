@@ -51,20 +51,36 @@ function windowFilters(
   }
 }
 
+const SERVER_FAULT_WAITS_MS = [2_000, 5_000, 10_000] as const
+
+export function waitAfterAnswer(status: number, tried: number): number | null {
+  if (status < 500) return null
+  return SERVER_FAULT_WAITS_MS[tried] ?? null
+}
+
 export async function fetchRingCountsFromMonarch(
   cookie: string,
   now: Date = new Date()
 ): Promise<RingCounts> {
   const year = windowFilters(now, WINDOW_DAYS)
-  const response = await fetch(API_URL, {
-    method: "POST",
-    headers: monarchHeaders(cookie),
-    body: JSON.stringify({
-      query: RING_QUERY,
-      variables: { backlog: { ...year, ...SETTLED_ONLY, needsReview: true } },
-    }),
-    signal: AbortSignal.timeout(10_000),
-  })
+  const ask = (): Promise<Response> =>
+    fetch(API_URL, {
+      method: "POST",
+      headers: monarchHeaders(cookie),
+      body: JSON.stringify({
+        query: RING_QUERY,
+        variables: { backlog: { ...year, ...SETTLED_ONLY, needsReview: true } },
+      }),
+      signal: AbortSignal.timeout(10_000),
+    })
+
+  let response = await ask()
+  for (let tried = 0; !response.ok; tried++) {
+    const wait = waitAfterAnswer(response.status, tried)
+    if (wait === null) break
+    await Bun.sleep(wait)
+    response = await ask()
+  }
 
   if (response.status === 401 || response.status === 403) {
     throw new Error(

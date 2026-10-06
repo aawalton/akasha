@@ -40,7 +40,11 @@ export const monarchUnreviewedTransactions = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A Monarch answer that is not OK is refused as a dead credential.",
+      statement: "A Monarch answer that is not OK is refused.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A fault on Monarch's side is asked again before the reading fails.",
     },
     {
       decisionKind: "decision-kind/departure",
