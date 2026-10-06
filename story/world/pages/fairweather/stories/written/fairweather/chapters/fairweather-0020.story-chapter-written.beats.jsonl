@@ -1,0 +1,187 @@
+{"beat":1,"event":"Elsie wakes at first light in the attic. It is the twentieth. It is Midsummer.","at":"2026-06-20T05:30:00.000Z","place":"place/fairweather-honeycomb-attic","present":["character-player/fairweather-elsie"]}
+{"beat":2,"event":"She says it out loud to the sloping boards: Midsummer. The fluttery feeling is back, busier."}
+{"beat":3,"event":"She kneels up at the round window. Moonpenny's bud is fatter. A thin line of white shows at its tip."}
+{"beat":4,"event":"She tells Moonpenny happy Midsummer, and not to rush on her account."}
+{"beat":5,"event":"The parcel with the lantern drawn on it is in the satchel by the door. She checks it anyway."}
+{"beat":6,"event":"She digs in the plant crate for her shawl. It's under Captain, rolled up, smelling of mint."}
+{"beat":7,"event":"It's her mother's old blue shawl. It has no sleeves at all. She thinks Cora will say so."}
+{"beat":8,"event":"She holds it to her face: mint, and under the mint, faintly, the road and her mother."}
+{"beat":9,"event":"Downstairs the honey cakes sit cooled under a cloth. A birch ring hangs over the shop door.","at":"2026-06-20T06:15:00.000Z","place":"place/fairweather-honeycomb","present":["character-player/fairweather-elsie"]}
+{"beat":10,"event":"Mrs Merriweather says the shop shuts at noon today, as every Midsummer. She lends Elsie a tin."}
+{"beat":11,"event":"Elsie counts the cakes into the tin. Mrs Merriweather takes one off the top, eats it, and grunts."}
+{"beat":12,"event":"Elsie asks if that grunt means good. Mrs Merriweather says it means mind the boat."}
+{"beat":13,"event":"At seven Brightwater Square is hung with birch rings. Cora is on the guild hall steps.","at":"2026-06-20T07:00:00.000Z","place":"place/fairweather-guild-hall","present":["character-player/fairweather-elsie","character-other/fairweather-cora"]}
+{"beat":14,"event":"Elsie runs up and says happy Midsummer. Cora says, Fairweather. Then, after a pause: and to you."}
+{"beat":15,"event":"Cora's eyes go to Elsie's bare shoulders. She asks if Elsie has found something with sleeves."}
+{"beat":16,"event":"Elsie says she's found a shawl, with no sleeves. She says she knew Cora would ask."}
+{"beat":17,"event":"Cora says a shawl is not sleeves. She writes a line in her ledger and tilts the page away."}
+{"beat":18,"event":"Cora says the hall shuts at noon; she lunches at her grandmother's. She'll be at the Steps at dusk."}
+{"beat":19,"event":"Elsie says to give her grandmother her love. Cora looks at her a moment. She says she will."}
+{"beat":20,"event":"Inside, Noor's corner table is empty: the ring of empty tables, with nobody in the middle."}
+{"beat":21,"event":"Elsie's stomach drops. She buys a black coffee anyway, two pips, sets it at Noor's place, and waits."}
+{"beat":22,"event":"At half past seven Noor comes in. She stops. She looks at the cup steaming at her place.","at":"2026-06-20T07:30:00.000Z","arrive":["character-other/fairweather-noor"]}
+{"beat":23,"event":"Noor sits. She says she overslept. She didn't sleep at all, so she overslept."}
+{"beat":24,"event":"Elsie says she hardly slept either, for the flutter. Noor says hers isn't a flutter. It's a stone."}
+{"beat":25,"event":"Noor says if the boat sinks, Elsie isn't to come in after her. Elsie says she will, though."}
+{"beat":26,"event":"Noor says she means it. Elsie says so does she, and she can't lie, so hers counts for more."}
+{"beat":27,"event":"Noor's mouth twitches. She drinks the coffee, all of it, down to the grounds."}
+{"beat":28,"event":"Elsie says it's tomorrow now. Will Noor take a share? Noor says: ask me on the water."}
+{"beat":29,"event":"At eight Tilly comes in with a clinking canvas bag. Twelve bobbers now. She brewed half the night.","at":"2026-06-20T08:00:00.000Z","arrive":["character-other/fairweather-tilly"]}
+{"beat":30,"event":"Tamsin swings in from the docks. She left Mum's letter. The Marigold is back on the twenty-second.","arrive":["character-other/fairweather-tamsin"]}
+{"beat":31,"event":"Tamsin knocks twice on Noor's table for luck. The empty cup rocks on its saucer. It stays put."}
+{"beat":32,"event":"Everyone looks at the cup. Tamsin laughs and says even the cup's on the party now."}
+{"beat":33,"event":"Tamsin says Odile wants the guard at the Lantern Steps by half past nine. She'll bring the supper."}
+{"beat":34,"event":"Elsie says they must all sleep this afternoon, for the night. Tilly yawns so wide her goggles slip."}
+{"beat":35,"event":"Tilly asks Noor to choose a bobber from the bag. Noor pats her coat pocket. She has hers."}
+{"beat":36,"event":"At nine they part. Noor and Tilly go to bed. Elsie and Tamsin go down to the Midsummer fair.","at":"2026-06-20T09:00:00.000Z","place":"place/fairweather-lanternmere","present":["character-player/fairweather-elsie","character-other/fairweather-tamsin"]}
+{"beat":37,"event":"The waterfront above the Lantern Steps is all stalls and ribbons. A woman on stilts sells whistles."}
+{"beat":38,"event":"A stall sells birch crowns, rings of green leaves with ribbons. Tamsin stops dead in front of it."}
+{"beat":39,"event":"Tamsin says Mum made her one every Midsummer on the barge, till she was twelve and too proud."}
+{"beat":40,"event":"Elsie buys two crowns, a pip each. She puts one on Tamsin's copper curls before Tamsin can duck."}
+{"beat":41,"event":"Tamsin goes red to the ears. She says she looks a fool. Elsie says she looks like Midsummer."}
+{"beat":42,"event":"Tamsin puts the other on Elsie's pink hair, fitting it round the clip, very careful."}
+{"beat":43,"event":"Tamsin's hands stay on either side of Elsie's head. She looks at Elsie's mouth. She lets go."}
+{"beat":44,"event":"Elsie says they match now. Tamsin says, gruff, that's what a crown's for. She walks on fast."}
+{"beat":45,"event":"Tamsin buys two cups of cold lemon water, a pip each. They sit on the warm wall over the Steps."}
+{"beat":46,"event":"Below them eleven sits green at the bottom step. Tamsin says she can't sleep in the day."}
+{"beat":47,"event":"On the barge she always could, she says, with the water moving under her."}
+{"beat":48,"event":"Elsie says come and nap in the attic. It's right over the canal. The water's just under it."}
+{"beat":49,"event":"Tamsin chokes on her lemon water. Then she says all right, to the Mere. Her ears are red."}
+{"beat":50,"event":"At noon the Honeycomb shuts. They climb to the attic. Tamsin leans Margery by the door.","at":"2026-06-20T12:15:00.000Z","place":"place/fairweather-honeycomb-attic","present":["character-player/fairweather-elsie","character-other/fairweather-tamsin"]}
+{"beat":51,"event":"Elsie opens the round window. Canal air comes in, smelling of water and birch leaves."}
+{"beat":52,"event":"Tamsin looks at the narrow bed. She says she'll take the floor. Elsie says the floor has splinters."}
+{"beat":53,"event":"Elsie lies down by the wall and pats the blanket. Tamsin stands a long moment. She lies down."}
+{"beat":54,"event":"Tamsin lies on the very edge, on her back, stiff as a plank, her arms crossed on her chest."}
+{"beat":55,"event":"Elsie says she'll fall off like that. She tugs Tamsin in by the jerkin until their shoulders touch."}
+{"beat":56,"event":"Elsie turns on her side and tucks her head under Tamsin's chin, as she did on the Marigold."}
+{"beat":57,"event":"Tamsin's heart thumps under Elsie's cheek, hard and fast. Elsie says it's going like a drum."}
+{"beat":58,"event":"Tamsin says it's the stairs. Elsie says it was two flights. Tamsin says shut up and sleep."}
+{"beat":59,"event":"Elsie laughs into her collarbone and shuts her eyes. Tamsin's arm comes round her, slowly."}
+{"beat":60,"event":"Elsie falls asleep with Tamsin's palm flat on her bare back, between the halter's laces."}
+{"beat":61,"event":"Elsie wakes at five. Tamsin is awake, still holding her, looking up at the sloping boards.","at":"2026-06-20T17:00:00.000Z"}
+{"beat":62,"event":"Tamsin says she slept. A bit. She says it as if confessing. Her hand hasn't moved."}
+{"beat":63,"event":"Elsie says she snored like a kettle. Tamsin says that was Elsie. Elsie says it wasn't."}
+{"beat":64,"event":"Tamsin says Elsie has a crease on her cheek from the jerkin. She runs her thumb along it, slowly."}
+{"beat":65,"event":"Tamsin sits up fast. She says, pies. She pulls on her boots and says she'll see her at the Steps.","at":"2026-06-20T17:20:00.000Z","leave":["character-other/fairweather-tamsin"]}
+{"beat":66,"event":"From the round window Elsie watches her go along Thimble Canal, still in her birch crown."}
+{"beat":67,"event":"Moonpenny's bud has opened a little in the warm afternoon. The white is a finger's width now."}
+{"beat":68,"event":"Elsie ties on the blue shawl, puts her crown back over her clip, and shoulders the satchel."}
+{"beat":69,"event":"On the Midsummer page of her notebook, under the little boat, she writes: ring first, think after."}
+{"beat":70,"event":"At quarter past nine the Lantern Steps are crowded with folk holding paper lanterns, waiting.","at":"2026-06-20T21:15:00.000Z","place":"place/fairweather-lanternmere","present":["character-player/fairweather-elsie"]}
+{"beat":71,"event":"Below, little boats push off from the steps by the hundred, a lantern lit in each."}
+{"beat":72,"event":"Halfway down Ines sits in a ring of bare stone, small in her black lace, Biscuit on her shoulder.","arrive":["character-other/fairweather-ines"]}
+{"beat":73,"event":"A stall at the top sells hot milk with honey. Elsie buys a cup for two pips and carries it down."}
+{"beat":74,"event":"She gives it to Ines. Ines holds it in both small hands and whispers that it's her favourite."}
+{"beat":75,"event":"Elsie sits beside her in the ring. Folk on the next step shift away. Elsie waves. They stare."}
+{"beat":76,"event":"Tilly comes down the steps with her clinking bag, rested and pink. She sits on Ines's other side.","arrive":["character-other/fairweather-tilly"]}
+{"beat":77,"event":"Tamsin comes with a basket of pies under a cloth. Five pips' worth, she says, and worth every one.","arrive":["character-other/fairweather-tamsin"]}
+{"beat":78,"event":"At half past nine exactly Cora comes down the steps, her brass lantern at her belt.","at":"2026-06-20T21:30:00.000Z","arrive":["character-other/fairweather-cora"]}
+{"beat":79,"event":"Cora looks at the shawl. She says it has no sleeves. Elsie says she said so. Cora shuts her eyes."}
+{"beat":80,"event":"Cora looks at the birch crown in Elsie's hair a long moment. She says nothing about it."}
+{"beat":81,"event":"The Mere goes violet. Elsie watches the waterfront for a long green coat. It doesn't come."}
+{"beat":82,"event":"Odile Marsh calls for the guard boats. Elsie stands on her toes, looking, looking."}
+{"beat":83,"event":"Noor comes along the waterfront last, hands in her pockets. Folk step out of her way.","at":"2026-06-20T21:40:00.000Z","arrive":["character-other/fairweather-noor"]}
+{"beat":84,"event":"She stops on the top step. She looks down at eleven. She looks at Elsie. She comes down."}
+{"beat":85,"event":"Odile says eleven rides at buoy eleven, off the north reed beds. The darkest side. Ring first."}
+{"beat":86,"event":"Ines whispers that she'll look for the pink. Elsie touches her crown and says she'll wave."}
+{"beat":87,"event":"They get in: Tamsin, steady; Tilly, wobbling; Elsie, sitting down hard and laughing."}
+{"beat":88,"event":"Cora steps in without a wobble and sits in the bow by the hooded lantern. She lights it."}
+{"beat":89,"event":"Noor stands on the bottom step, looking at the boat. She breathes in. She steps into the stern."}
+{"beat":90,"event":"The boat dips. It doesn't tip. Noor sits down at the very back, far from the lantern."}
+{"beat":91,"event":"Nothing snaps. The lantern burns. Noor looks at it a long moment, and looks away."}
+{"beat":92,"event":"Tamsin rows. Elsie, beside her on the middle seat, takes one oar, and they pull it together."}
+{"beat":93,"event":"By ten they ride at buoy eleven, by tall black reeds. The whole Mere is lit with lantern boats.","at":"2026-06-20T22:00:00.000Z","place":"place/fairweather-lanternmere","present":["character-player/fairweather-elsie","character-other/fairweather-tamsin","character-other/fairweather-tilly","character-other/fairweather-cora","character-other/fairweather-noor"]}
+{"beat":94,"event":"Far off in the middle of the lights the festival barge glows under its gold canopy."}
+{"beat":95,"event":"Across the water a woman begins to sing, huge and clear. The whole Mere goes quiet."}
+{"beat":96,"event":"Elsie says that's Celestine, Amara's mother. She tells the dark, out loud: I'm not listening."}
+{"beat":97,"event":"Tamsin hands round the pies. Elsie opens the tin of honey cakes and passes it down the boat."}
+{"beat":98,"event":"Noor takes a cake. She says she's had four of these already. She eats it in two bites."}
+{"beat":99,"event":"Elsie asks: they're on the water now. Will she take a share? Noor says, put it toward the house."}
+{"beat":100,"event":"Tamsin chokes on her pie. She says that isn't how a share goes. Noor says it is now."}
+{"beat":101,"event":"Noor says she'd like to know where her coin went. Somewhere with a door. Somewhere that stays."}
+{"beat":102,"event":"Elsie climbs back over the seat and hugs her round the neck. The boat rocks. Noor says, the boat."}
+{"beat":103,"event":"Noor doesn't hug back. Her gloved hand comes up and holds Elsie's wrist, tight."}
+{"beat":104,"event":"Elsie goes back to her seat. In the bow Cora is rubbing her hands together over the lantern hood."}
+{"beat":105,"event":"It's turned cold off the water. Cora's fingertips are white. She tucks them under her arms."}
+{"beat":106,"event":"Elsie takes the brown paper parcel out of her satchel and holds it out to Cora over Tilly's knees."}
+{"beat":107,"event":"Cora looks at the lantern drawn on the paper. She doesn't take it. Elsie says, it's for your hands."}
+{"beat":108,"event":"Cora takes it. She unties the string with stiff fingers. The lavender falls into her lap."}
+{"beat":109,"event":"She lifts out the grey gloves, palm to palm, and holds them in the lantern light without a word."}
+{"beat":110,"event":"Elsie says they're the grey of her eyes. That's why she held the wool up to her face in the shop."}
+{"beat":111,"event":"Cora puts them on, one and then the other. They fit to the knuckle. She flexes her long fingers."}
+{"beat":112,"event":"She says, thank you, Fairweather. Her voice breaks on the name. She turns to face the reeds."}
+{"beat":113,"event":"She tucks the lavender into the top buttonhole of her coat, where the harebell was."}
+{"beat":114,"event":"Tilly looks from the gloves to Elsie, her mouth a small o. She doesn't say anything. She looks down."}
+{"beat":115,"event":"Tamsin shifts closer on the seat until her hip is against Elsie's, warm through the skirt."}
+{"beat":116,"event":"Celestine's song ends. Cheers and little bells come over the water from the lantern boats."}
+{"beat":117,"event":"At eleven the barge falls quiet. Nothing comes after. The silence over the water goes on.","at":"2026-06-20T23:00:00.000Z"}
+{"beat":118,"event":"Elsie looks at the gold canopy. She knows who should be singing now. She holds her breath for her."}
+{"beat":119,"event":"Behind her Noor says, low and sharp: the reeds. Something moved. No lantern on it."}
+{"beat":120,"event":"A long black punt slides out of the reeds without a sound. Four shapes. Muffled oars."}
+{"beat":121,"event":"It glides toward the empty lantern boats tied along the mooring line beyond eleven."}
+{"beat":122,"event":"Elsie doesn't think. She snatches the brass bell from under the seat and rings it with all she has."}
+{"beat":123,"event":"The bell clangs out over the water. All across the Mere, faces turn north. Other bells answer."}
+{"beat":124,"event":"The punt doesn't run. Two lantern boats are already cut loose, and there's a tow line on them."}
+{"beat":125,"event":"Cora throws back the lantern's hood. White light floods the punt. Four men fling up their arms."}
+{"beat":126,"event":"Tamsin rows straight at them, hard. Eleven leaps. Tilly hangs on to the side, shrieking."}
+{"beat":127,"event":"The thieves pole for the reeds with their prizes. Their punt pole cracks clean in two."}
+{"beat":128,"event":"The tow line snaps with a twang. The lantern boats drift free. The punt slews into the reeds."}
+{"beat":129,"event":"It sticks fast in the mud. Cornered, one thief stands up in it with a long iron boathook."}
+{"beat":130,"event":"Tamsin ships her oars and stands, Margery up. She puts herself between the boathook and Elsie."}
+{"beat":131,"event":"Under Elsie's breastbone the thread to Tamsin goes hot. Tamsin's breath comes short and hard."}
+{"beat":132,"event":"Elsie puts her hand flat on Tamsin's back. She says, Tamsin, I'm here. Stay here with me."}
+{"beat":133,"event":"Tamsin's breathing slows. She doesn't go red. She tells the man to put the hook down, or swim."}
+{"beat":134,"event":"Tilly pulls a bang vial off her belt and throws it into the water beside the punt. Bang."}
+{"beat":135,"event":"The punt rolls over. All four thieves go into the black water among the reeds."}
+{"beat":136,"event":"Three wade off into the reeds, cursing. The fourth thrashes. He goes under. He can't swim."}
+{"beat":137,"event":"Noor stands up in the stern. The boat sways. She takes Tilly's lucky vial out of her pocket."}
+{"beat":138,"event":"She throws it. It lands by his hand. Elsie shouts: hold it round the middle! Don't panic!"}
+{"beat":139,"event":"He grabs it and bobs up, gasping, clinging to it with both arms, eyes huge in the lantern light."}
+{"beat":140,"event":"Odile Marsh's boat comes rowing up with three more guard boats, bells going. They haul him in."}
+{"beat":141,"event":"Odile looks at the cut boats, the stuck punt, the broken pole, the snapped line. She looks at Noor."}
+{"beat":142,"event":"She says that pole was new this spring. Noor says flatly that things break near her."}
+{"beat":143,"event":"Odile says then she wants Noor near every thief on the Mere. She tows the lantern boats home."}
+{"beat":144,"event":"She calls back over the water: pay at dawn, at the Steps. Ring first. That was good ringing."}
+{"beat":145,"event":"Noor sits down at the back. She looks at the lantern on its pole. It's burning, steady."}
+{"beat":146,"event":"She says, very quietly, it didn't sink. Elsie says no, it didn't. Noor says it again."}
+{"beat":147,"event":"Elsie reaches back and takes her gloved hand. Noor holds on, all the way this time."}
+{"beat":148,"event":"In the bow Cora writes in her ledger, in her new gloves. Elsie leans to see. Cora lets her."}
+{"beat":149,"event":"It reads: Midsummer barge guard. Thieves, four. Skills used, none."}
+{"beat":150,"event":"Tamsin sits down hard beside Elsie, trembling. She says she didn't go red. She didn't."}
+{"beat":151,"event":"Elsie says she knows; she felt it. She leans on Tamsin's shoulder. Tamsin's arm comes round."}
+{"beat":152,"event":"From the barge, small and shaky, a second voice starts to sing. It wobbles. It steadies."}
+{"beat":153,"event":"It's the barrow tune, low and wandering. Two notes from the new voice, two from Celestine."}
+{"beat":154,"event":"Elsie's eyes fill. She turns her face to the reeds and says out loud: I'm not listening."}
+{"beat":155,"event":"Tilly asks what she's not listening to. Elsie says nothing, a bowl, and wipes her eyes, smiling."}
+{"beat":156,"event":"At midnight the first firework goes up from the barge's bow and bursts gold over the Mere.","at":"2026-06-21T00:00:00.000Z"}
+{"beat":157,"event":"Blue stars follow. Tilly shrieks that it's Powder Lane blue-star, she'd know that blue anywhere."}
+{"beat":158,"event":"Tilly grabs Elsie's arm with both hands and holds it through every blue one, her face turned up."}
+{"beat":159,"event":"Elsie looks round the boat: four faces lit gold, then blue, then gold. Her boat. All of them."}
+{"beat":160,"event":"Noor is looking up. In the gold light her face is open as Elsie has never seen it. Almost smiling."}
+{"beat":161,"event":"Cora isn't watching the sky. Elsie catches her looking at her. Cora looks up, quickly, at the stars."}
+{"beat":162,"event":"Elsie tells them all she loves them. Tamsin coughs. Tilly squeezes her arm. Noor says, I heard."}
+{"beat":163,"event":"At one they tie up at the Lantern Steps. Ines is asleep sitting up on a step, Biscuit in her lap.","at":"2026-06-21T01:00:00.000Z","place":"place/fairweather-lanternmere","present":["character-player/fairweather-elsie","character-other/fairweather-tamsin","character-other/fairweather-tilly","character-other/fairweather-cora","character-other/fairweather-noor","character-other/fairweather-ines"]}
+{"beat":164,"event":"Ines wakes as they climb out. She whispers that she saw the pink. She saw the bell. Everyone did."}
+{"beat":165,"event":"Noor sits by Ines on the step. Biscuit climbs out of Ines's lap into Noor's. Noor goes still."}
+{"beat":166,"event":"Biscuit turns round three times on the green coat and lies down, purring with no throat."}
+{"beat":167,"event":"Noor puts one gloved hand on his little white skull. She doesn't take it away again."}
+{"beat":168,"event":"Tamsin hoists sleepy Tilly's bag and says she'll walk her to Pickle Row. She'll see Elsie at dawn."}
+{"beat":169,"event":"Tamsin straightens Elsie's birch crown with one finger. She goes up the steps with Tilly.","leave":["character-other/fairweather-tamsin","character-other/fairweather-tilly"]}
+{"beat":170,"event":"Cora says she will walk Fairweather to Thimble Canal. It's on her way. It isn't on her way."}
+{"beat":171,"event":"Elsie hugs Noor goodnight round the neck, Biscuit and all. Noor says, dawn, like a promise."}
+{"beat":172,"event":"Elsie and Cora walk along the dark canals. The lanterns are burning low. Nobody else is about.","at":"2026-06-21T01:15:00.000Z","place":"place/fairweather-lanternmere","present":["character-player/fairweather-elsie","character-other/fairweather-cora"]}
+{"beat":173,"event":"Cora walks with her gloved hands at her sides. Every few steps she looks down at them."}
+{"beat":174,"event":"Elsie says it's tomorrow now, or today. She asks if Cora will tell her why. Like she said, perhaps."}
+{"beat":175,"event":"Cora stops on the bridge over Thimble Canal. She looks down at the water a long time."}
+{"beat":176,"event":"Cora says when Elsie was out on the dome she didn't think of the Accord, or her ledger."}
+{"beat":177,"event":"She says she held Elsie's ankle and knew she'd go off the dome with her before she let go."}
+{"beat":178,"event":"She says that is why she said don't do that again. Because she couldn't bear it. Not the threads."}
+{"beat":179,"event":"Elsie's eyes fill. She says she understands. She'd hold on too. That's what friends do, isn't it?"}
+{"beat":180,"event":"Cora looks at her a long moment. She says, very quietly, yes. That is what friends do."}
+{"beat":181,"event":"Elsie hugs her. Cora's gloved hands come up and hold on to her back. They hold a long time."}
+{"beat":182,"event":"Cora lets go. She says, goodnight, Fairweather. Dawn. She goes back over the bridge.","leave":["character-other/fairweather-cora"]}
+{"beat":183,"event":"In the attic the round window is full of low lantern light. Moonpenny has opened.","at":"2026-06-21T01:30:00.000Z","place":"place/fairweather-honeycomb-attic","present":["character-player/fairweather-elsie"]}
+{"beat":184,"event":"One white flower, pale as the moon, wide open on its stem. It smells faintly sweet in the dark."}
+{"beat":185,"event":"Elsie kneels up on the bed and whispers to it: you waited for Midsummer. You did it. We all did."}
+{"beat":186,"event":"She lies down with the birch crown still on. The thread to Tamsin is warm under her breastbone."}
+{"beat":187,"event":"She falls asleep with the window open and the smell of the moon orchid over the bed."}
