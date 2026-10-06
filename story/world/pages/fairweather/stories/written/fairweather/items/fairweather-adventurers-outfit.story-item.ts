@@ -9,5 +9,5 @@ export const fairweatherAdventurersOutfit = {
   character: "character-player/fairweather-elsie",
   slot: "item-slot/body",
   description:
-    "A cropped cream halter top laced up the front, a short sage-green skirt, a brown leather belt with pouches, fingerless leather gloves and tall soft leather boots, one bootlace snapped.",
+    "A cropped cream halter top laced up the front, a short sage-green skirt, a brown leather belt with pouches, fingerless leather gloves and tall soft leather boots, one bootlace snapped and re-knotted.",
 } as const satisfies StoryItem

@@ -57,7 +57,11 @@ export const fairweatherHoneycomb = {
     },
     {
       fact: "Agnes taught Elsie to brush her honey cakes with the last of the comb for a crust.",
-      knowers: ["lore-disclosure/game-master", "character-player/fairweather-elsie"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-noor",
+      ],
     },
   ],
 } as const satisfies Place

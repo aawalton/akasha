@@ -191,5 +191,22 @@ export const fairweatherElsie2 = {
       fact: "Elsie wrote her mother of the barrow, and of Amara and Noor as two new friends.",
       knowers: ["lore-disclosure/game-master", "character-player/fairweather-elsie"],
     },
+    {
+      fact: "Cora's ledger for Hobb Mill reads: skills used, none.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-cora",
+      ],
+    },
+    {
+      fact: "In the Hobb Mill loft Elsie slept between Tilly at her back and Cora at her front.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-tilly",
+        "character-other/fairweather-cora",
+      ],
+    },
   ],
 } as const satisfies Lore

@@ -11,9 +11,8 @@ export const fairweather0016CreamOnTheStep = {
   story: "story-written/fairweather",
   ownLength: 8720,
   prose: "txt",
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/player",
   beats: "jsonl",
-  issues: "txt",
   lore: [
     "lore/fairweather-cora",
     "lore/fairweather-elsie",
@@ -45,7 +44,12 @@ export const fairweather0016CreamOnTheStep = {
     "character-other/fairweather-noor",
     "character-other/fairweather-amara",
   ],
-  reviewedBy: ["story-reviewer/holdings", "story-reviewer/continuity", "story-reviewer/scene"],
+  reviewedBy: [
+    "story-reviewer/holdings",
+    "story-reviewer/continuity",
+    "story-reviewer/scene",
+    "story-reviewer/style",
+  ],
   recordedBy: [
     "story-recorder/plan",
     "story-recorder/mechanics",
@@ -53,6 +57,5 @@ export const fairweather0016CreamOnTheStep = {
     "story-recorder/picture",
     "story-recorder/memory",
   ],
-  rulings: "jsonl",
   scenes: ["image/image-7ffa37a956afdf13", "image/image-9dce51de984935b6"],
 } as const satisfies StoryChapterWritten

@@ -340,6 +340,47 @@ export const fairweatherCora = {
         "character-other/fairweather-cora",
       ],
     },
+    {
+      fact: "When Elsie's harebell wilted, Cora pressed it flat in a book.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-cora",
+      ],
+    },
+    {
+      fact: "The guildmaster signed Cora's barrow report and asked nothing about its empty name line.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-cora",
+      ],
+    },
+    {
+      fact: "Noor hears Cora walk her floor at night, six steps to the window and six back.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-noor",
+        "character-other/fairweather-cora",
+      ],
+    },
+    {
+      fact: "The eel bite on Cora's forearm has healed to a pink mark.",
+      knowers: ["lore-disclosure/game-master", "character-player/fairweather-elsie"],
+    },
+    {
+      fact: "At Hobb Mill Cora caught Elsie's wrist when she slipped off the sluice.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-cora",
+      ],
+    },
+    {
+      fact: "Cora's fingers are longer than Elsie's by a whole knuckle.",
+      knowers: ["lore-disclosure/game-master", "character-player/fairweather-elsie"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore

@@ -87,6 +87,7 @@ export const fairweatherNoor = {
         "lore-disclosure/game-master",
         "character-other/fairweather-noor",
         "character-other/fairweather-cora",
+        "character-player/fairweather-elsie",
       ],
     },
     {
@@ -159,6 +160,31 @@ export const fairweatherNoor = {
     {
       fact: "Elsie wrapped four honey cakes for Noor, with a raincloud on the paper.",
       knowers: ["lore-disclosure/game-master", "character-player/fairweather-elsie"],
+    },
+    {
+      fact: "Elsie brought Noor a cup of black coffee, strong, nothing in it, and Noor drank it.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-noor",
+        "character-other/fairweather-tamsin",
+      ],
+    },
+    {
+      fact: "Noor buttoned Elsie's parcel of honey cakes inside her coat, unopened.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-noor",
+      ],
+    },
+    {
+      fact: "Noor clipped Elsie's flower clip back into her hair with her gloved fingers.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-noor",
+      ],
     },
   ],
   secrets: "jsonl",

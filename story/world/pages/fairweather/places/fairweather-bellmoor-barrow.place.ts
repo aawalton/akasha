@@ -225,5 +225,22 @@ export const fairweatherBellmoorBarrow = {
       fact: "Elsie set honey cakes in the Honeycomb's window for Amara, and the plate stayed full.",
       knowers: ["lore-disclosure/game-master", "character-player/fairweather-elsie"],
     },
+    {
+      fact: "A girl with long braids stood long at the Honeycomb window, looking at the honey cakes.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-tamsin",
+      ],
+    },
+    {
+      fact: "Tilly's book of grave things gives nine ways to stop a wight, among them salt, cold iron and a bell.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-tamsin",
+        "character-other/fairweather-tilly",
+      ],
+    },
   ],
 } as const satisfies Place

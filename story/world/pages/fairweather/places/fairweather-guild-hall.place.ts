@@ -307,7 +307,14 @@ export const fairweatherGuildHall = {
     },
     {
       fact: "From the fifteenth the E-rank board has: a boggart fouling the wheel at Hobb Mill, nine lanterns.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-tamsin",
+        "character-other/fairweather-tilly",
+        "character-other/fairweather-cora",
+        "character-other/fairweather-noor",
+      ],
     },
     {
       fact: "From the fifteenth the E-rank board has: guard the Midsummer barges from river thieves, 12 lanterns.",
@@ -320,6 +327,16 @@ export const fairweatherGuildHall = {
         "character-player/fairweather-elsie",
         "character-other/fairweather-tamsin",
         "character-other/fairweather-tilly",
+      ],
+    },
+    {
+      fact: "The Fairweather party took the Hobb Mill boggart notice on the sixteenth.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-tamsin",
+        "character-other/fairweather-tilly",
+        "character-other/fairweather-cora",
       ],
     },
   ],

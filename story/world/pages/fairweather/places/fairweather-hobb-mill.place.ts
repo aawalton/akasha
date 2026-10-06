@@ -72,7 +72,7 @@ export const fairweatherHobbMill = {
     },
     {
       fact: "A boggart given cream and thanks again goes back to helping the house it lives in.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/fairweather-elsie"],
     },
     {
       fact: "A boggart bites hard, throws stones, and slips into the dark between one blink and the next.",
@@ -83,6 +83,44 @@ export const fairweatherHobbMill = {
         "character-player/fairweather-elsie",
         "character-other/fairweather-tamsin",
         "character-other/fairweather-tilly",
+      ],
+    },
+    {
+      fact: "All month Hobb Mill's flour has come to the Honeycomb short in the sack, gritty and late.",
+      knowers: ["lore-disclosure/game-master", "character-player/fairweather-elsie"],
+    },
+    {
+      fact: "The party cleared Hobb Mill's race by three on the sixteenth, and the wheel turned again.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-tamsin",
+        "character-other/fairweather-tilly",
+        "character-other/fairweather-cora",
+      ],
+    },
+    {
+      fact: "Bess Hobb's mother left a bowl of cream on the mill's back step every night, for the wheel.",
+      knowers: ["lore-disclosure/game-master", "character-player/fairweather-elsie"],
+    },
+    {
+      fact: "The Hobb Mill boggart is knee-high and long-haired, with long hands and eyes like wet pebbles.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-tamsin",
+        "character-other/fairweather-tilly",
+        "character-other/fairweather-cora",
+      ],
+    },
+    {
+      fact: "Bess Hobb set out cream for the boggart again, and thanked it for keeping the race clear.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-tamsin",
+        "character-other/fairweather-tilly",
+        "character-other/fairweather-cora",
       ],
     },
   ],
