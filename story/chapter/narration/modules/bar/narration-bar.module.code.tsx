@@ -3,7 +3,10 @@
 import { Button } from "akasha/design/interface/primitive/modules/button/button.module.code.tsx"
 import { cn } from "akasha/design/interface/primitive/modules/cn/cn.module.code.ts"
 import { surfaceClass } from "akasha/design/interface/primitive/modules/surface-class/surface-class.module.code.ts"
-import { SKIP_SECONDS } from "akasha/story/chapter/narration/modules/listening/narration-listening.module.code.ts"
+import {
+  SKIP_SECONDS,
+  speedShown,
+} from "akasha/story/chapter/narration/modules/listening/narration-listening.module.code.ts"
 import { useNarration } from "akasha/story/chapter/narration/modules/player/narration-player.module.code.tsx"
 import { Pause, Play, RotateCcw, RotateCw, X } from "lucide-react"
 import { type RefObject, useLayoutEffect, useRef } from "react"
@@ -98,6 +101,16 @@ export function NarrationBar() {
               onClick={() => narration.skip(SKIP_SECONDS)}
             >
               <RotateCw />
+            </Button>
+            <Button
+              type="button"
+              variant="tertiary"
+              size="sm"
+              className="min-w-11 px-1.5 tabular-nums"
+              aria-label={`Speed ${speedShown(narration.speed)}, tap for faster`}
+              onClick={() => narration.faster()}
+            >
+              {speedShown(narration.speed)}
             </Button>
           </>
         )}

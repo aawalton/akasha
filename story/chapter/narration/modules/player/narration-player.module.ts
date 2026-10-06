@@ -45,6 +45,18 @@ export const narrationPlayer = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "The speed chosen is kept on the device, so every narration after plays at it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The speed is set again on every new source, since loading one can reset it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Progress, marking read and the next chapter count seconds of the stream.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement:
         "Progress is saved every twenty seconds of the stream, on a pause and as the bar closes.",
     },

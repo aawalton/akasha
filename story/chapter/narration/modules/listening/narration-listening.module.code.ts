@@ -9,6 +9,7 @@ import {
   chapterStarts,
 } from "akasha/story/chapter/narration/modules/playhead/narration-playhead.module.code.ts"
 import type { ChapterHeld } from "akasha/story/chapter/narration/modules/telling/narration-telling.module.code.ts"
+import { type RefObject, useCallback, useEffect, useRef, useState } from "react"
 
 const SILENCE_SAMPLES = 400
 
@@ -38,6 +39,47 @@ export function paced(audio: HTMLAudioElement, speed: number): undefined {
   audio.defaultPlaybackRate = speed
   if (audio.playbackRate !== speed) audio.playbackRate = speed
   audio.preservesPitch = true
+}
+
+function speedKept(): number {
+  try {
+    return speedHeld(localStorage.getItem(SPEED_KEPT_AS))
+  } catch {
+    return 1
+  }
+}
+
+function speedKeeping(speed: number): undefined {
+  try {
+    localStorage.setItem(SPEED_KEPT_AS, String(speed))
+  } catch {
+    console.error("[narration] this browser keeps no speed")
+  }
+}
+
+export function useSpeed(audio: RefObject<HTMLAudioElement | null>): {
+  readonly speed: number
+  readonly faster: () => undefined
+  readonly repace: () => undefined
+} {
+  const [speed, setSpeed] = useState(1)
+  const pace = useRef(1)
+  useEffect(() => setSpeed(speedKept()), [])
+  useEffect(() => {
+    pace.current = speed
+    if (audio.current !== null) paced(audio.current, speed)
+  }, [audio, speed])
+  const faster = useCallback((): undefined => {
+    setSpeed((was) => {
+      const next = speedAfter(was)
+      speedKeeping(next)
+      return next
+    })
+  }, [])
+  const repace = useCallback((): undefined => {
+    if (audio.current !== null) paced(audio.current, pace.current)
+  }, [audio])
+  return { speed, faster, repace }
 }
 
 export function silenceWav(): Uint8Array<ArrayBuffer> {

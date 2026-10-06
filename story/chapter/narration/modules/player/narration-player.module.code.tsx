@@ -15,6 +15,7 @@ import {
   progressWritten,
   seekableEnd,
   silenceWav,
+  useSpeed,
 } from "akasha/story/chapter/narration/modules/listening/narration-listening.module.code.ts"
 import {
   actsAt,
@@ -53,6 +54,8 @@ export type Narration = {
   readonly halted: boolean
   readonly at: number
   readonly end: number
+  readonly speed: number
+  readonly faster: () => undefined
   readonly toggle: () => undefined
   readonly skip: (seconds: number) => undefined
   readonly seek: (seconds: number) => undefined
@@ -125,6 +128,7 @@ export function NarrationProvider({
   const [chapter, setChapter] = useState<ChapterHeld | null>(null)
   const [halted, setHalted] = useState(true)
   const [place, setPlace] = useState({ at: 0, end: 0 })
+  const { speed, faster, repace } = useSpeed(audioRef)
 
   const fail = useCallback((error: string): undefined => {
     const asked = asking.current
@@ -212,6 +216,7 @@ export function NarrationProvider({
         hls.loadSource(reach.url(playlist))
         hls.attachMedia(audio)
       }
+      repace()
       try {
         await audio.play()
         setShown({ kind: "playing", asked })
@@ -219,7 +224,7 @@ export function NarrationProvider({
         fail(`The audio would not start: ${saidBy(thrown)}`)
       }
     },
-    [reach, fail, firstPieceIn]
+    [reach, fail, firstPieceIn, repace]
   )
 
   const play = useCallback(
@@ -424,6 +429,7 @@ export function NarrationProvider({
       tick()
     }
     const playing = (): undefined => {
+      repace()
       setHalted(false)
     }
     const halting = (): undefined => {
@@ -438,6 +444,7 @@ export function NarrationProvider({
     }
     const listened: [string, () => undefined][] = [
       ["seeking", seeking],
+      ["loadedmetadata", repace],
       ["timeupdate", heard],
       ["playing", heard],
       ["waiting", waiting],
@@ -451,7 +458,7 @@ export function NarrationProvider({
       calm()
       for (const [name, listener] of listened) audio.removeEventListener(name, listener)
     }
-  }, [fail, tick, finished, save])
+  }, [fail, tick, finished, save, repace])
 
   useEffect(() => {
     nowPlayingControlled({
@@ -469,13 +476,15 @@ export function NarrationProvider({
       halted,
       at: place.at,
       end: place.end,
+      speed,
+      faster,
       toggle,
       skip,
       seek,
       retry,
       close,
     }),
-    [shown, chapter, halted, place, toggle, skip, seek, retry, close]
+    [shown, chapter, halted, place, speed, faster, toggle, skip, seek, retry, close]
   )
 
   const audioAsked = useMemo(() => ({ play }), [play])

@@ -26,6 +26,10 @@ export const narrationBar = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "The bar shows the speed playing, and a tap on it takes the next speed.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "The bar scrubs only through the audio the player can reach so far.",
     },
     {
