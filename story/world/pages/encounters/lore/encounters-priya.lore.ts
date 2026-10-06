@@ -29,7 +29,7 @@ export const encountersPriya = {
       ],
     },
     {
-      fact: "Priya's glossy black hair is cut in a chin-length bob with blunt bangs.",
+      fact: "Priya's long sleek black hair is pulled into a high tight ponytail that falls past her shoulders.",
       knowers: [
         "lore-disclosure/game-master",
         "character-other/encounters-sofia",
@@ -39,7 +39,17 @@ export const encountersPriya = {
       ],
     },
     {
-      fact: "Priya wears round tortoiseshell glasses, a small gold nose stud and dark winged eyeliner.",
+      fact: "Priya wears round tortoiseshell glasses, a small gold hoop nose ring and sharp winged liner.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/encounters-sofia",
+        "character-other/encounters-kenzie",
+        "character-other/encounters-priya",
+        "character-other/encounters-imani",
+      ],
+    },
+    {
+      fact: "Priya has sharp, elegant features: a defined jaw, high cheekbones, full lips, dark almond eyes.",
       knowers: [
         "lore-disclosure/game-master",
         "character-other/encounters-sofia",
@@ -59,7 +69,7 @@ export const encountersPriya = {
       ],
     },
     {
-      fact: "Priya wears a vintage Jurassic Park tee knotted at the waist, black bike shorts and Vans.",
+      fact: "Priya wears a black string triangle bikini top and tiny black drawstring-sided shorts, midriff bare.",
       knowers: [
         "lore-disclosure/game-master",
         "character-other/encounters-sofia",
