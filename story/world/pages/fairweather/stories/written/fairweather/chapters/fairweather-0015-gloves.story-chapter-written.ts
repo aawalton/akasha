@@ -11,7 +11,7 @@ export const fairweather0015Gloves = {
   story: "story-written/fairweather",
   ownLength: 7502,
   prose: "txt",
-  stepStatus: "step-status/mechanics",
+  stepStatus: "step-status/writer",
   beats: "jsonl",
   issues: "txt",
   lore: [
@@ -46,7 +46,7 @@ export const fairweather0015Gloves = {
     "character-other/fairweather-nell",
   ],
   reviewedBy: ["story-reviewer/holdings"],
-  recordedBy: ["story-recorder/plan", "story-recorder/mechanics"],
+  recordedBy: ["story-recorder/plan", "story-recorder/mechanics", "story-recorder/inventory"],
   rulings: "jsonl",
   scenes: ["image/image-e12a0a73adad69f6"],
 } as const satisfies StoryChapterWritten
