@@ -50,7 +50,7 @@ export const fairweather0020LanternNight = {
     "character-other/fairweather-ines",
     "character-other/fairweather-amara",
   ],
-  reviewedBy: ["story-reviewer/scene", "story-reviewer/continuity"],
+  reviewedBy: ["story-reviewer/scene", "story-reviewer/continuity", "story-reviewer/style"],
   recordedBy: [
     "story-recorder/plan",
     "story-recorder/mechanics",
