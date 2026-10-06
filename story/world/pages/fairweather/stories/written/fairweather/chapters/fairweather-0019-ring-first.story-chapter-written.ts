@@ -9,9 +9,9 @@ export const fairweather0019RingFirst = {
   unit: "unit/words",
   title: "Ring First",
   story: "story-written/fairweather",
-  ownLength: 14968,
+  ownLength: 15020,
   prose: "txt",
-  stepStatus: "step-status/writer",
+  stepStatus: "step-status/recorders",
   beats: "jsonl",
   issues: "txt",
   lore: [
