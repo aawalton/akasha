@@ -359,5 +359,17 @@ export const fairweatherLanternmere = {
         "character-other/fairweather-cora",
       ],
     },
+    {
+      fact: "The twentieth is warm and clear, but after dark a cold wind comes off the Mere.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "On Lantern Night people set one paper lantern on the Mere for someone they have lost.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/fairweather-cora",
+        "character-other/fairweather-amara",
+      ],
+    },
   ],
 } as const satisfies Place

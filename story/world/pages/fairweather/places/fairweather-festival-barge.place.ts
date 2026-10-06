@@ -73,5 +73,25 @@ export const fairweatherFestivalBarge = {
         "character-other/fairweather-noor",
       ],
     },
+    {
+      fact: "Guard boats ride at numbered buoys in a wide ring outside the lantern boats.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Buoy eleven lies off the north reed beds, on the darkest side of the barge.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Celestine sings alone at ten, and at eleven means to call Amara up beside her under the canopy.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The Pike crew come out of the north reeds in their black punt an hour before midnight.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Odile Marsh pays each guard boat its twelve lanterns in coin at the Lantern Steps at dawn.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Place
