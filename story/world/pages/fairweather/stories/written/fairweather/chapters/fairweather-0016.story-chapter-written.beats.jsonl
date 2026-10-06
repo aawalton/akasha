@@ -1,0 +1,84 @@
+{"beat":1,"event":"Elsie wakes at dawn to the grey glove on the sill by Moonpenny, and says good morning to both.","at":"2026-06-16T05:30:00.000Z","place":"place/fairweather-honeycomb-attic","present":["character-player/fairweather-elsie"]}
+{"beat":2,"event":"She waters the crate, Mrs Pennywhistle to Doris, and tells Moonpenny she's taking Noor cakes."}
+{"beat":3,"event":"She dresses, re-knots the snapped bootlace tighter, and tucks Noor's parcel into her satchel."}
+{"beat":4,"event":"She packs the second glove too, still only a cuff on its needles.","at":"2026-06-16T06:15:00.000Z"}
+{"beat":5,"event":"Downstairs Agnes is shaking out a flour sack and frowning at the grit in the bottom of it.","at":"2026-06-16T06:30:00.000Z","place":"place/fairweather-honeycomb"}
+{"beat":6,"event":"Agnes says Hobb Mill's flour has come short and gritty all month, and Bess Hobb is behind."}
+{"beat":7,"event":"Agnes says a girl with long braids stood at the window last night, a good while, and didn't knock."}
+{"beat":8,"event":"Elsie claps her hands and says she came, and her eyes fill, and Agnes hands her a cloth."}
+{"beat":9,"event":"Elsie leaves the honey cakes in the window another day, in case, and Agnes lets her."}
+{"beat":10,"event":"Tamsin knocks at the shop door early, Margery on her shoulder, yawning, curls still damp.","at":"2026-06-16T07:00:00.000Z","arrive":["character-other/fairweather-tamsin"]}
+{"beat":11,"event":"Elsie gives her a honey cake off the plate; Tamsin eats it in two bites and licks her thumb."}
+{"beat":12,"event":"Elsie tells Tamsin about the girl with braids; Tamsin says Amara will come when she's brave enough."}
+{"beat":13,"event":"They walk along Thimble Canal toward Brightwater Square in the mist coming off the water.","at":"2026-06-16T07:20:00.000Z","place":"place/fairweather-lanternmere","present":["character-player/fairweather-elsie","character-other/fairweather-tamsin"]}
+{"beat":14,"event":"At a coffee stall on the square Elsie buys a cup of black coffee, strong, nothing in it: two pips.","at":"2026-06-16T07:45:00.000Z"}
+{"beat":15,"event":"Tamsin asks who drinks that muck; Elsie says it's in her book, under the raincloud."}
+{"beat":16,"event":"Tilly is sitting on the guild steps with a fat book of grave things open on her knees.","at":"2026-06-16T07:55:00.000Z","arrive":["character-other/fairweather-tilly"]}
+{"beat":17,"event":"Tilly says she read till two and knows nine ways to stop a wight, and is very sorry for the wight."}
+{"beat":18,"event":"Inside, Cora stands by the clerk's desk, ledger under her arm; the harebell is gone from her coat.","at":"2026-06-16T08:00:00.000Z","place":"place/fairweather-guild-hall","present":["character-player/fairweather-elsie","character-other/fairweather-tamsin","character-other/fairweather-tilly","character-other/fairweather-cora","character-other/fairweather-noor"]}
+{"beat":19,"event":"Elsie asks after it; Cora says it wilted, so she pressed it, then looks sorry she said so."}
+{"beat":20,"event":"Elsie asks if Cora slept; Cora says yes, and Elsie sees the grey under her eyes and doubts it."}
+{"beat":21,"event":"Cora says the guildmaster read the barrow report, and asked nothing about the empty name."}
+{"beat":22,"event":"Noor sits alone in her ring of empty tables, a cup in her gloved hand, eyes on the door."}
+{"beat":23,"event":"Elsie crosses the ring with the coffee, catches her toe on nothing, and pitches forward."}
+{"beat":24,"event":"Tamsin's hand shoots past her and takes the cup out of the air; not a drop goes over."}
+{"beat":25,"event":"Elsie sets the coffee in front of Noor: black, strong, nothing in it, like her book says."}
+{"beat":26,"event":"Noor looks at the cup a long time, then wraps both gloved hands round it and drinks."}
+{"beat":27,"event":"Elsie tests the chair with both hands before sitting; it holds, and she beams."}
+{"beat":28,"event":"She sets the brown parcel by the cup; Noor reads her own name on it, and the little raincloud."}
+{"beat":29,"event":"Noor asks what it is; Elsie says honey cakes, she made them, the crust is a baker's trick."}
+{"beat":30,"event":"Noor doesn't open it; she slips it inside her coat, against her chest, and buttons the coat over it."}
+{"beat":31,"event":"Elsie's flower clip springs out of her hair and lands in Noor's lap."}
+{"beat":32,"event":"Noor picks it up in two gloved fingers and holds it out; Elsie asks her to put it back in, please."}
+{"beat":33,"event":"Noor leans across and clips it in above Elsie's ear, gloved fingers slow in her hair."}
+{"beat":34,"event":"Noor's breath is close and uneven, and her fingers stay at Elsie's temple a moment too long."}
+{"beat":35,"event":"She sits back fast, eyes on her cup, and her ears have gone pink under the black hair."}
+{"beat":36,"event":"Elsie says she can't sit long today: there's a notice. So she brought lunch to Noor instead."}
+{"beat":37,"event":"Noor says, dryly, that this is cheating; Elsie says it isn't, she'll be back tomorrow."}
+{"beat":38,"event":"Cora comes into the ring and stops at the table; Noor looks up and says: Vane."}
+{"beat":39,"event":"Cora says: Haddad. Elsie asks, delighted, if they know each other."}
+{"beat":40,"event":"Noor says Cora has the rooms over hers on Wick Lane; they pass on the stair and have never spoken."}
+{"beat":41,"event":"Noor adds that Cora walks the floor at night, back and forth, and came in past eleven last night."}
+{"beat":42,"event":"Cora goes red to the collar; Elsie says that's because Cora never sleeps, and pats her arm."}
+{"beat":43,"event":"Tamsin, at the board, calls out the E-rank notice: a boggart fouling the wheel at Hobb Mill."}
+{"beat":44,"event":"Elsie says Hobb Mill grinds Agnes's flour, so that settles it; Tilly sighs: not a grave thing."}
+{"beat":45,"event":"Noor says boggarts throw stones, and tells Elsie, not quite lightly, to keep her head down."}
+{"beat":46,"event":"At the clerk's desk Tamsin signs the party for the notice: nine lanterns; Cora writes in her ledger.","at":"2026-06-16T08:40:00.000Z"}
+{"beat":47,"event":"Elsie waves to Noor from the door; Noor lifts her hand higher than yesterday.","at":"2026-06-16T08:50:00.000Z","leave":["character-player/fairweather-elsie","character-other/fairweather-tamsin","character-other/fairweather-tilly","character-other/fairweather-cora"]}
+{"beat":48,"event":"They go out by the south gate onto the river road beside the Wend.","at":"2026-06-16T09:20:00.000Z","place":"place/fairweather-lanternmere","present":["character-player/fairweather-elsie","character-other/fairweather-tamsin","character-other/fairweather-tilly","character-other/fairweather-cora"]}
+{"beat":49,"event":"Elsie knits the second glove as she walks; the cuff grows, two plain, two purl."}
+{"beat":50,"event":"Cora walks at her side watching the needles, and asks nothing this time."}
+{"beat":51,"event":"Cora says a boggart is a house-spirit, and the guild's books class it as a pest to be removed."}
+{"beat":52,"event":"Elsie says the notice says the wheel, not the boggart, and Cora writes that down."}
+{"beat":53,"event":"They reach Hobb Mill: tall stone, a great wooden wheel standing still, a willow, a thatched cottage.","at":"2026-06-16T11:20:00.000Z","place":"place/fairweather-hobb-mill"}
+{"beat":54,"event":"Bess Hobb, stout, floury, meets them with her two grown daughters and says the race is choked again."}
+{"beat":55,"event":"The wheel is jammed with river weed and stones packed into the paddles, tight as mortar."}
+{"beat":56,"event":"Tamsin wades into the race to her waist and hauls stones out, swearing at each one cheerfully.","at":"2026-06-16T11:45:00.000Z"}
+{"beat":57,"event":"Tilly passes weed up the bank in armfuls; Elsie, on the sluice, works the slimy stones loose."}
+{"beat":58,"event":"Cora, coat off and sleeves rolled, takes the stones from Elsie's hands one by one and stacks them."}
+{"beat":59,"event":"Elsie's hands slip, and Cora catches her wrist and holds it until she has her footing."}
+{"beat":60,"event":"By three the wheel turns again, and Bess says it'll be choked by morning, it always is.","at":"2026-06-16T15:00:00.000Z"}
+{"beat":61,"event":"The younger daughter says it started the week after Gran died, and Bess tells her to hush."}
+{"beat":62,"event":"Elsie asks what Gran used to do of an evening; the daughter says she left cream on the back step."}
+{"beat":63,"event":"Bess says that was Mam's nonsense; Elsie sees her face and says it doesn't sound like nonsense."}
+{"beat":64,"event":"Bess sits down on the mill step and cries, once, hard, and Elsie sits by her and holds her hand."}
+{"beat":65,"event":"Elsie says the boggart misses Gran too, and might only want thanking; Bess says she'll try it."}
+{"beat":66,"event":"Supper in the cottage is bread of the mill's own flour and pea soup, and Bess won't take a pip.","at":"2026-06-16T19:00:00.000Z"}
+{"beat":67,"event":"At dusk Bess sets a bowl of cream on the back step by the wheel, and they wait under the willow.","at":"2026-06-16T21:15:00.000Z"}
+{"beat":68,"event":"A stone comes out of the dark and cracks against the step; then another, close by Elsie's knee."}
+{"beat":69,"event":"Tamsin half rises; Elsie puts out a hand and says stay, and Cora shutters her lantern to a thread."}
+{"beat":70,"event":"A knee-high hairy thing creeps up the bank to the bowl, eyes like wet pebbles, and drinks."}
+{"beat":71,"event":"Bess, voice cracking, thanks it for keeping the stones out of the race all those years, as Mam did."}
+{"beat":72,"event":"Elsie says thank you too, very softly, for the wheel and for the flour in her honey cakes."}
+{"beat":73,"event":"The boggart looks at them over the bowl, and between one blink and the next it is gone."}
+{"beat":74,"event":"Cora opens her ledger by the thread of lamplight and writes: skills used, none.","at":"2026-06-16T21:45:00.000Z"}
+{"beat":75,"event":"Bess gives them the loft over the flour store, sacks for beds and two blankets for four.","at":"2026-06-16T22:15:00.000Z"}
+{"beat":76,"event":"Tamsin flops on the sacks by the ladder and is snoring like a little kettle in a minute."}
+{"beat":77,"event":"Tilly takes one blanket with Elsie and curls against her back, her nose in Elsie's hair."}
+{"beat":78,"event":"Cora sits against the wall to watch; Elsie says not two nights running, and lifts the blanket."}
+{"beat":79,"event":"Cora lies down at Elsie's front, very straight, in her shirtsleeves, not quite touching."}
+{"beat":80,"event":"Elsie finds Cora's hands cold again and takes them between hers to warm them."}
+{"beat":81,"event":"She lays her palm flat to Cora's; Cora's fingers are longer by a whole knuckle, and Elsie is glad."}
+{"beat":82,"event":"Under Elsie's thumb Cora's pulse is running fast; Elsie thinks she's still cold, and holds on."}
+{"beat":83,"event":"Cora whispers Fairweather and nothing after it, and Elsie whispers back goodnight, Cora."}
+{"beat":84,"event":"Out in the dark the wheel turns and turns, clear, and Elsie falls asleep to it.","at":"2026-06-16T23:00:00.000Z"}
