@@ -43,7 +43,7 @@
 {"beat":43,"event":"Tilly wakes, finds where she is, and pretends to be asleep a good while longer."}
 {"beat":44,"event":"Elsie picks a harebell and tucks it into Cora's buttonhole; Cora goes still and lets her."}
 {"beat":45,"event":"Tamsin swings her axe at nothing until her arm wakes all the way, and grins."}
-{"beat":46,"event":"Elsie asks Cora about the barrow; Cora says it's a queen's grave, and nobody remembers her name."}
+{"beat":46,"event":"Elsie asks Cora whose grave the barrow is; Cora says she doesn't know, and it isn't in the notice."}
 {"beat":47,"event":"Elsie says that's sad, and hums to the mound so it won't be lonely, not knowing she does it."}
 {"beat":48,"event":"The sun goes down red over the downs, and the larks stop.","at":"2026-06-14T19:45:00.000Z"}
 {"beat":49,"event":"Elsie says if the singer comes, nobody is to frighten her."}
@@ -66,12 +66,12 @@
 {"beat":66,"event":"Elsie goes up the mound to her slowly, and the others stand up in the grass."}
 {"beat":67,"event":"The girl says her name is Amara, and please, please don't tell anyone."}
 {"beat":68,"event":"She says she can't sing a note if she knows anyone is listening; she never could."}
-{"beat":69,"event":"Elsie says then they'll keep it, all of them, and looks round at the others.","changes":[{"page":"world-relationship/fairweather-elsie-amara","note":"Bond: Amara 0 → 2 (stand: Elsie promises they'll keep her singing secret)","make":{"title":"Elsie and Amara","world":"world/fairweather","characters":["character-player/fairweather-elsie","character-other/fairweather-amara"],"relationshipPoints":2}}]}
+{"beat":69,"event":"Elsie says then they'll keep it, all of them, and looks round at the others."}
 {"beat":70,"event":"Cora says the notice asks what the lights and singing are, and she has to write it."}
 {"beat":71,"event":"Elsie looks at Cora; Cora says she'll write: lights, harmless, and a singer meaning no harm."}
 {"beat":72,"event":"Cora says she'll give no name, and Amara lets out a shaky breath."}
 {"beat":73,"event":"Amara says her mother would never forgive her for singing to an empty hill."}
-{"beat":74,"event":"Elsie asks who her mother is; Amara says Celestine Okafor, and Tilly squeaks."}
+{"beat":74,"event":"Elsie asks who her mother is; Amara says Celestine Okafor, and Elsie says it's a lovely name."}
 {"beat":75,"event":"Amara says she has to walk home before the moon sets, and she always goes alone."}
 {"beat":76,"event":"Elsie asks Amara her favourite things, for her notebook; Amara says nobody's ever asked."}
 {"beat":77,"event":"Amara says honey cakes, the downs at night, and being nobody in particular."}
@@ -83,4 +83,4 @@
 {"beat":83,"event":"Cora sits up with the lantern to watch the doorway, and Elsie says she'll keep her company."}
 {"beat":84,"event":"Elsie sits against Cora's shoulder, and Cora puts half her coat round her."}
 {"beat":85,"event":"Elsie sees the harebell still in Cora's buttonhole; Cora says she forgot it was there."}
-{"beat":86,"event":"Elsie falls asleep on Cora's shoulder, the barrow dark and quiet behind them.","at":"2026-06-14T23:00:00.000Z","changes":[{"page":"world-relationship/fairweather-elsie-tamsin","note":"Bond: Tamsin 70 → 71 (Tether: at day's end)","key":"relationshipPoints","from":70,"to":71},{"page":"metric-character-stat/fairweather-elsie-strength","note":"Strength logged","key":"history","append":{"turn":14,"value":15}}]}
+{"beat":86,"event":"Elsie falls asleep on Cora's shoulder, the barrow dark and quiet behind them.","at":"2026-06-14T23:00:00.000Z"}
