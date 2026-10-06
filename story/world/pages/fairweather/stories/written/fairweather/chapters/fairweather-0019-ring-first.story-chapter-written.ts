@@ -51,6 +51,7 @@ export const fairweather0019RingFirst = {
     "character-other/fairweather-amara",
   ],
   reviewedBy: ["story-reviewer/holdings"],
+  recordedBy: ["story-recorder/plan"],
   rulings: "jsonl",
   scenes: ["image/image-de7f488106b61ec5"],
 } as const satisfies StoryChapterWritten
