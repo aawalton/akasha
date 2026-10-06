@@ -4,13 +4,14 @@ export const encounters0002Eleven = {
   id: "01a11357-05b9-7e6d-bf3c-a870ec1b5225",
   type: "page-type/story-chapter-written",
   slug: "encounters-0002-eleven",
+  cover: "image/image-d5d19be8fed23a84",
   position: 2,
   unit: "unit/words",
   title: "Eleven",
   story: "story-written/encounters",
   ownLength: 5865,
   prose: "txt",
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/reviewers",
   beats: "jsonl",
   lore: [
     "lore/encounters-hana",
@@ -33,5 +34,12 @@ export const encounters0002Eleven = {
     "story-recorder/mechanics",
     "story-recorder/plan",
     "story-recorder/memory",
+    "story-recorder/picture",
+  ],
+  scenes: [
+    "image/image-d5d19be8fed23a84",
+    "image/image-f9787765010f6952",
+    "image/image-5f1e872c7454f912",
+    "image/image-36a9b21be9ed5bb4",
   ],
 } as const satisfies StoryChapterWritten
