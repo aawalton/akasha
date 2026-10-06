@@ -11,7 +11,7 @@ export const fairweather0013GreyWool = {
   story: "story-written/fairweather",
   ownLength: 7931,
   prose: "txt",
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/game-master",
   beats: "jsonl",
   issues: "txt",
   lore: [
