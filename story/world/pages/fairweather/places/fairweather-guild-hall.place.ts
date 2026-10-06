@@ -212,5 +212,21 @@ export const fairweatherGuildHall = {
         "character-other/fairweather-cora",
       ],
     },
+    {
+      fact: "An adventurer raised to E-rank has her copper tag restamped with an E at the clerk's desk.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "From the eleventh the F-rank board has: wash Brightwater Canal's lanterns, three lanterns.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "From the eleventh the F-rank board has: a ring lost off the Lantern Steps, four lanterns.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The E-rank troll notice is for the old toll bridge on the River Wend, twelve lanterns.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Place
