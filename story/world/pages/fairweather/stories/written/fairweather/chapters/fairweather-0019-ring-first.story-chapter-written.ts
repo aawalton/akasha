@@ -11,7 +11,7 @@ export const fairweather0019RingFirst = {
   story: "story-written/fairweather",
   ownLength: 15020,
   prose: "txt",
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/reviewers",
   beats: "jsonl",
   issues: "txt",
   lore: [
@@ -56,6 +56,7 @@ export const fairweather0019RingFirst = {
     "story-recorder/inventory",
     "story-recorder/mechanics",
     "story-recorder/picture",
+    "story-recorder/memory",
   ],
   rulings: "jsonl",
   scenes: ["image/image-de7f488106b61ec5"],
