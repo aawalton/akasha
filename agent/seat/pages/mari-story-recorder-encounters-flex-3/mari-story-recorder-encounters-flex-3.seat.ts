@@ -9,6 +9,6 @@ export const mariStoryRecorderEncountersFlex3 = {
   role: "role/story-recorder",
   person: "person/alan",
   startMode: "seat-mode/interactive",
-  onCall: false,
+  onCall: true,
   registrationAccount: "model-account/aawalton",
 } as const satisfies Seat
