@@ -10,9 +10,9 @@ export const encounters0001SingleRider = {
   unit: "unit/words",
   title: "Single Rider",
   story: "story-written/encounters",
-  ownLength: 10169,
+  ownLength: 10259,
   prose: "txt",
-  stepStatus: "step-status/writer",
+  stepStatus: "step-status/recorders",
   beats: "jsonl",
   issues: "txt",
   lore: [
