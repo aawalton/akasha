@@ -14,7 +14,12 @@ export const pageReaderContent = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "Opening a page never moves its progress, and only the reader's own scroll does.",
+      statement:
+        "Opening a page never moves its progress, and only the reader's own scroll or its narration does.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The page being read aloud follows the sentence spoken under its own prose.",
     },
     {
       decisionKind: "decision-kind/departure",

@@ -24,7 +24,8 @@ gives no timestamps, the segment's speech is shared out by characters.
   GET    /v1/narration/{id}/{name}     init.mp4 or pNNNNN.m4s
   DELETE /v1/narration/{id}
 A session nobody fetches for SESSION_IDLE_SECONDS is dropped. At most
-MAX_SESSIONS live at once; a new one drops the oldest.
+MAX_SESSIONS live at once; a new one drops the one fetched least lately, so a
+narration someone is listening to outlives one opened and left.
 """
 
 import asyncio
@@ -40,7 +41,7 @@ from voice_inference import _INFER_LOCK, _pcm_bytes, app
 from voice_timing import sentence_seconds, sentences_of, synthesize_timed
 
 BITRATE = "64k"
-MAX_SESSIONS = 2
+MAX_SESSIONS = 4
 SESSION_IDLE_SECONDS = 30 * 60
 MAX_SESSION_BYTES = 256 * 1024 * 1024
 MAX_SEGMENTS = 3000
@@ -254,7 +255,7 @@ async def narration_create(request: Request):
     if not _SWEEPER:
         _SWEEPER.append(asyncio.create_task(_sweep()))
     while len(_SESSIONS) >= MAX_SESSIONS:
-        _drop(min(_SESSIONS.values(), key=lambda s: s.created).id)
+        _drop(min(_SESSIONS.values(), key=lambda s: s.touched).id)
     session = Session(voice)
     try:
         await session.start()

@@ -42,7 +42,8 @@ export const voiceInference = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "At most two narrations live at once, and a new one drops the oldest.",
+      statement:
+        "At most four narrations live at once, and a new one drops the one fetched least lately.",
     },
     {
       decisionKind: "decision-kind/departure",

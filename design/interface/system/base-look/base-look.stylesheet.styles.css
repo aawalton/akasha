@@ -73,6 +73,10 @@ html[data-panels-shown] [data-slot="frame-jump-to-latest"] {
   display: none;
 }
 
+::highlight(narration-spoken) {
+  background-color: color-mix(in srgb, var(--color-accent) 22%, transparent);
+}
+
 ::-webkit-scrollbar {
   width: 8px;
   height: 8px;

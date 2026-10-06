@@ -12,5 +12,10 @@ export const positionFraction = {
       decisionKind: "decision-kind/departure",
       statement: "The prose is set aside while the panels are shown in its place.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "The prose is set aside while narration speaks it, so its scroll writes no read progress.",
+    },
   ],
 } as const satisfies Module

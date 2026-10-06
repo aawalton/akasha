@@ -12,6 +12,7 @@ import { cn } from "akasha/design/interface/primitive/modules/cn/cn.module.code.
 import { DropdownMenuItem } from "akasha/design/interface/primitive/modules/dropdown-menu/dropdown-menu.module.code.tsx"
 import { expandDateMentions } from "akasha/page/core/view/modules/expand-date-mentions/expand-date-mentions.module.code.ts"
 import { usePageAudio } from "akasha/page/ui/component/modules/page-audio/page-audio.module.code.tsx"
+import { PageAudioFollow } from "akasha/page/ui/component/modules/page-audio-follow/page-audio-follow.module.code.tsx"
 import { toPageDataJSON } from "akasha/page/ui/component/modules/page-data-json/page-data-json.module.code.ts"
 import {
   clampFraction,
@@ -36,7 +37,7 @@ import { useReaderProgressWriter } from "akasha/page/ui/component/modules/use-re
 import { useRestoreReadPosition } from "akasha/page/ui/component/modules/use-restore-read-position/use-restore-read-position.module.code.ts"
 import { DisplayFrame } from "akasha/page/ui/frame/modules/display-frame/display-frame.module.code.tsx"
 import type { PageTypeSlug } from "akasha/page/url/modules/page-type-slug/page-type-slug.module.code.ts"
-import { type ReactNode, useCallback, useEffect, useState } from "react"
+import { type ReactNode, useCallback, useEffect, useRef, useState } from "react"
 
 const READER_VIRTUALIZE_THRESHOLD = 24_000
 
@@ -192,6 +193,14 @@ export function PageReaderContent({
     return fractionToScrollTop(fraction, doc.scrollHeight - doc.clientHeight)
   }, [])
 
+  const proseRef = useRef<HTMLDivElement | null>(null)
+  const scrollToFraction = useCallback(
+    (fraction: number): undefined => {
+      window.scrollTo({ top: resolveScrollTop(fraction) })
+    },
+    [resolveScrollTop]
+  )
+
   const isVirtualizedBody = drawProse === undefined && body.length > READER_VIRTUALIZE_THRESHOLD
 
   const restoreMayFire = decideReadRestore(resumeFraction) !== undefined
@@ -238,7 +247,7 @@ export function PageReaderContent({
           <>
             {detailConfig?.showReadingProgress === true && <ReadingProgressBar />}
             <ReaderColumn around={around}>
-              <div className="flex flex-col gap-8 py-6">
+              <div ref={proseRef} className="flex flex-col gap-8 py-6">
                 {(readerPrev != null || readerNext != null) && (
                   <ReaderPager prev={readerPrev ?? null} next={readerNext ?? null} position="top" />
                 )}
@@ -261,6 +270,15 @@ export function PageReaderContent({
                     content={body}
                     className={`${READER_PROSE_TYPOGRAPHY} text-primary`}
                     anchorRef={anchorRef}
+                  />
+                )}
+                {!bodyWaiting && body.trim() !== "" && (
+                  <PageAudioFollow
+                    pageId={id}
+                    prose={body}
+                    length={wordCount}
+                    column={proseRef}
+                    scrollToFraction={scrollToFraction}
                   />
                 )}
                 {!bodyWaiting && (readerPrev != null || readerNext != null) && (

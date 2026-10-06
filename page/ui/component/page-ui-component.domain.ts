@@ -38,6 +38,8 @@ export const pageUiComponent = {
     "module/operator-filter-control",
     "module/page-actions-menu",
     "module/page-audio",
+    "module/page-audio-follow",
+    "module/spoken-matching",
     "module/page-badge",
     "module/page-badge-drawings",
     "module/page-board",
