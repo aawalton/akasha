@@ -7,7 +7,7 @@ export const brushFloss = {
   title: "Brush + Floss",
   toDoCategory: "health",
   difficulty: "trivial",
-  toDoDueDate: "2026-10-05",
+  toDoDueDate: "2026-10-06",
   priority: "p3",
   toDoRecurrence: "FREQ=DAILY",
   toDoSortOrder: 49,
