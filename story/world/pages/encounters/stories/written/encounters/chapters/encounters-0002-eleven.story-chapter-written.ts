@@ -11,7 +11,7 @@ export const encounters0002Eleven = {
   story: "story-written/encounters",
   ownLength: 5875,
   prose: "txt",
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/reviewers",
   beats: "jsonl",
   issues: "txt",
   lore: [
@@ -36,6 +36,7 @@ export const encounters0002Eleven = {
     "story-recorder/inventory",
     "story-recorder/mechanics",
     "story-recorder/picture",
+    "story-recorder/memory",
   ],
   scenes: [
     "image/image-d5d19be8fed23a84",
