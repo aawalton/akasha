@@ -71,4 +71,5 @@ export const otherwhereViii0001TheGap = {
   lastTurn: "otherwhere-viii-00-011",
   lastTurnPosition: 11,
   endsAt: "2026-09-28T07:34:00.000Z",
+  outcomes: "jsonl",
 } as const satisfies StoryChapterPlayed
