@@ -26,7 +26,7 @@
 {"beat":26,"event":"Elsie tells her: the hunger, the silted pools, the weir, the trout."}
 {"beat":27,"event":"The guildmaster asks why she didn't let the Berserker kill them asleep."}
 {"beat":28,"event":"Elsie says nobody had asked the trolls anything yet, and she wanted to ask."}
-{"beat":29,"event":"The guildmaster looks at Cora; Cora reads her ledger aloud and says that is exactly what she saw."}
+{"beat":29,"event":"The guildmaster looks at Cora; Cora reads her ledger aloud and says that is exactly what she saw.","changes":[{"page":"world-relationship/fairweather-elsie-cora","note":"Bond: Cora 37 → 39 (stand: her ledger read aloud speaks for Elsie)","key":"relationshipPoints","from":37,"to":39},{"page":"metric-character-stat/fairweather-elsie-heart","note":"Heart 13 → 14 (Devotion: Cora 39% of 21)","key":"value","from":13,"to":14},{"page":"metric-character-stat/fairweather-cora-heart","note":"Cora Heart 28 → 29 (Devotion: 39% of 21)","key":"value","from":28,"to":29}]}
 {"beat":30,"event":"The guildmaster asks Elsie what she wants from the guild."}
 {"beat":31,"event":"Elsie says a blue-doored house on Willow Canal, for all her friends, and the guildmaster laughs."}
 {"beat":32,"event":"The guildmaster says that's more than most adventurers ask for, and less than they should."}
@@ -45,7 +45,7 @@
 {"beat":45,"event":"At the Tipsy Heron Tamsin pays for stew for the three of them.","at":"2026-06-13T12:30:00.000Z","place":"place/fairweather-lanternmere"}
 {"beat":46,"event":"A tall woman with her arm in a sling sits at the next table: the Hounds' shield-bearer."}
 {"beat":47,"event":"Tamsin sees her, goes white, and puts down her spoon."}
-{"beat":48,"event":"Elsie feels it down the Tether, shame like cold water, and puts a hand on Tamsin's knee."}
+{"beat":48,"event":"Elsie feels it down the Tether, shame like cold water, and puts a hand on Tamsin's knee.","changes":[{"page":"world-relationship/fairweather-elsie-tamsin","note":"Bond: Tamsin 62 → 65 (held through a fear: the shield-bearer; chapter cap of 5)","key":"relationshipPoints","from":62,"to":65}]}
 {"beat":49,"event":"Tamsin gets up, walks to the shield-bearer's table, and stands there."}
 {"beat":50,"event":"She says she's sorry about the arm, and should have said so a week ago."}
 {"beat":51,"event":"The shield-bearer looks at her a long time, then says she heard about the wolves and the Tether."}
@@ -71,4 +71,4 @@
 {"beat":71,"event":"Cora looks up and lifts her hand at once this time."}
 {"beat":72,"event":"Elsie holds up the grey cuff on its needles; Cora tilts her head, puzzled, and walks on."}
 {"beat":73,"event":"Elsie writes her mother about the guildmaster laughing, the house, and the gloves.","at":"2026-06-13T21:30:00.000Z"}
-{"beat":74,"event":"Down the Tether Tamsin feels lighter than Elsie has ever felt her, and Elsie smiles at the ceiling.","at":"2026-06-13T22:00:00.000Z"}
+{"beat":74,"event":"Down the Tether Tamsin feels lighter than Elsie has ever felt her, and Elsie smiles at the ceiling.","at":"2026-06-13T22:00:00.000Z","changes":[{"page":"world-relationship/fairweather-elsie-tamsin","note":"Bond: Tamsin 65 → 66 (Tether: lighter than ever at day's end)","key":"relationshipPoints","from":65,"to":66},{"page":"metric-character-stat/fairweather-elsie-strength","note":"Strength logged","key":"history","append":{"turn":13,"value":14}},{"page":"metric-character-stat/fairweather-elsie-heart","note":"Heart logged","key":"history","append":{"turn":13,"value":14}}]}
