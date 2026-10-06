@@ -9,9 +9,9 @@ export const fairweather0018TheBluePlate = {
   unit: "unit/words",
   title: "The Blue Plate",
   story: "story-written/fairweather",
-  ownLength: 11738,
+  ownLength: 11682,
   prose: "txt",
-  stepStatus: "step-status/writer",
+  stepStatus: "step-status/recorders",
   beats: "jsonl",
   issues: "txt",
   lore: [
