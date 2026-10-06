@@ -16,6 +16,30 @@ const SILENCE_RATE = 8000
 
 export const SKIP_SECONDS = 15
 
+export const SPEEDS = [0.8, 1, 1.2, 1.4, 1.6, 1.8, 2] as const
+
+export const SPEED_KEPT_AS = "narration-speed"
+
+export function speedAfter(speed: number): number {
+  const at = (SPEEDS as readonly number[]).indexOf(speed)
+  return SPEEDS[(at + 1) % SPEEDS.length] ?? 1
+}
+
+export function speedHeld(said: string | null): number {
+  const speed = said === null ? Number.NaN : Number(said)
+  return SPEEDS.find((one) => one === speed) ?? 1
+}
+
+export function speedShown(speed: number): string {
+  return `${speed}×`
+}
+
+export function paced(audio: HTMLAudioElement, speed: number): undefined {
+  audio.defaultPlaybackRate = speed
+  if (audio.playbackRate !== speed) audio.playbackRate = speed
+  audio.preservesPitch = true
+}
+
 export function silenceWav(): Uint8Array<ArrayBuffer> {
   const bytes = new Uint8Array(44 + SILENCE_SAMPLES)
   const view = new DataView(bytes.buffer)

@@ -7,7 +7,16 @@ export const narrationListening = {
   definition:
     "what the player does around the audio: reading answers, Now Playing and marking read",
   code: "ts",
+  test: "ts",
   decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Narration plays at one of seven speeds from 0.8 to 2, and a tap takes the next.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A faster speed keeps the narrator's pitch.",
+    },
     {
       decisionKind: "decision-kind/departure",
       statement: "A chapter already read is never marked read again.",
