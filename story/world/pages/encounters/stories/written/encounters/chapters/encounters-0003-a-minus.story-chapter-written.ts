@@ -32,7 +32,7 @@ export const encounters0003AMinus = {
     "character-other/encounters-kenzie",
     "character-other/encounters-hana",
   ],
-  reviewedBy: ["story-reviewer/continuity", "story-reviewer/holdings"],
+  reviewedBy: ["story-reviewer/continuity", "story-reviewer/holdings", "story-reviewer/style"],
   recordedBy: [
     "story-recorder/plan",
     "story-recorder/inventory",

@@ -3,3 +3,5 @@ continuity: "grew up in Winter Park"/"aerospace engineering at Florida" - Priya'
 continuity: "worries about every grade"/"I color-coded them" - Priya frets, color-codes: shown, no memory line
 continuity: "She remembers everything you've said" - Priya remembers everything: shown, beats 16-17 no memory
 continuity: "I split every bill to the cent" - Priya splits every bill to the cent: shown, no memory line
+style: "On the nightstand, her glasses sit folded beside the black cuffs." - Leave It Open
+style: "Her breathing slows. In a few minutes she is asleep." - No Sign-Off
