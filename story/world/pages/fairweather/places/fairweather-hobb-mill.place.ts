@@ -72,7 +72,13 @@ export const fairweatherHobbMill = {
     },
     {
       fact: "A boggart given cream and thanks again goes back to helping the house it lives in.",
-      knowers: ["lore-disclosure/game-master", "character-player/fairweather-elsie"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-tamsin",
+        "character-other/fairweather-tilly",
+        "character-other/fairweather-cora",
+      ],
     },
     {
       fact: "A boggart bites hard, throws stones, and slips into the dark between one blink and the next.",
@@ -126,6 +132,36 @@ export const fairweatherHobbMill = {
     {
       fact: "The morning after the cream, the Hobb Mill race runs clear, its stones stacked neatly on the bank.",
       knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "After the cream, the boggart stacked the race's stones on the bank and turned the bowl over.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-tamsin",
+        "character-other/fairweather-tilly",
+        "character-other/fairweather-cora",
+      ],
+    },
+    {
+      fact: "Bess's mother found the cream bowl upside down each morning: the boggart's thank you.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-tamsin",
+        "character-other/fairweather-tilly",
+        "character-other/fairweather-cora",
+      ],
+    },
+    {
+      fact: "Bess Hobb signed the mill job done, and sent Agnes a sack of fine flour as her sorry.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-tamsin",
+        "character-other/fairweather-tilly",
+        "character-other/fairweather-cora",
+      ],
     },
   ],
 } as const satisfies Place

@@ -381,6 +381,41 @@ export const fairweatherCora = {
       fact: "Cora's fingers are longer than Elsie's by a whole knuckle.",
       knowers: ["lore-disclosure/game-master", "character-player/fairweather-elsie"],
     },
+    {
+      fact: "At Hobb Mill Cora slept the night through, her hand open in Elsie's.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-cora",
+      ],
+    },
+    {
+      fact: "Elsie crawled out on the Hall of Naming's dome to free Biscuit, while Cora held her ankle.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-tamsin",
+        "character-other/fairweather-tilly",
+        "character-other/fairweather-cora",
+        "character-other/fairweather-ines",
+      ],
+    },
+    {
+      fact: "After the dome, Cora told Elsie, very low, not to do that again.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-cora",
+      ],
+    },
+    {
+      fact: "On the seventeenth Cora's hand, like ice on the dome, was warm again by evening.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-cora",
+      ],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore

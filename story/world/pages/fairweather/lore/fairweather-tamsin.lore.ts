@@ -338,5 +338,16 @@ export const fairweatherTamsin = {
         "character-other/fairweather-tilly",
       ],
     },
+    {
+      fact: "Biscuit chose Tamsin's lap, and Tamsin stroked him.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-tamsin",
+        "character-other/fairweather-tilly",
+        "character-other/fairweather-cora",
+        "character-other/fairweather-ines",
+      ],
+    },
   ],
 } as const satisfies Lore

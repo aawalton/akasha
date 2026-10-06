@@ -242,5 +242,9 @@ export const fairweatherBellmoorBarrow = {
         "character-other/fairweather-tilly",
       ],
     },
+    {
+      fact: "Elsie set fresh honey cakes of Bess Hobb's flour in the Honeycomb window for Amara.",
+      knowers: ["lore-disclosure/game-master", "character-player/fairweather-elsie"],
+    },
   ],
 } as const satisfies Place

@@ -11,9 +11,8 @@ export const fairweather0017Biscuit = {
   story: "story-written/fairweather",
   ownLength: 12673,
   prose: "txt",
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/player",
   beats: "jsonl",
-  issues: "txt",
   lore: [
     "lore/fairweather-cora",
     "lore/fairweather-elsie",
@@ -48,7 +47,12 @@ export const fairweather0017Biscuit = {
     "character-other/fairweather-amara",
     "character-other/fairweather-nell",
   ],
-  reviewedBy: ["story-reviewer/holdings", "story-reviewer/scene", "story-reviewer/style"],
+  reviewedBy: [
+    "story-reviewer/holdings",
+    "story-reviewer/scene",
+    "story-reviewer/style",
+    "story-reviewer/continuity",
+  ],
   recordedBy: [
     "story-recorder/plan",
     "story-recorder/mechanics",

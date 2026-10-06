@@ -25,6 +25,7 @@ export const fairweatherInes = {
         "character-player/fairweather-elsie",
         "character-other/fairweather-tamsin",
         "character-other/fairweather-tilly",
+        "character-other/fairweather-noor",
       ],
     },
     {
@@ -34,6 +35,8 @@ export const fairweatherInes = {
         "character-other/fairweather-ines",
         "character-player/fairweather-elsie",
         "character-other/fairweather-tilly",
+        "character-other/fairweather-tamsin",
+        "character-other/fairweather-cora",
       ],
     },
     {
@@ -87,6 +90,8 @@ export const fairweatherInes = {
         "character-other/fairweather-ines",
         "character-player/fairweather-elsie",
         "character-other/fairweather-cora",
+        "character-other/fairweather-tamsin",
+        "character-other/fairweather-tilly",
       ],
     },
     {
@@ -109,6 +114,7 @@ export const fairweatherInes = {
         "character-player/fairweather-elsie",
         "character-other/fairweather-tamsin",
         "character-other/fairweather-tilly",
+        "character-other/fairweather-noor",
       ],
     },
     {
@@ -120,6 +126,87 @@ export const fairweatherInes = {
         "character-other/fairweather-tamsin",
         "character-other/fairweather-tilly",
         "character-other/fairweather-cora",
+      ],
+    },
+    {
+      fact: "Ines's house on Ash Lane is painted all black, with a cat flap cut low in its door.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-tamsin",
+        "character-other/fairweather-tilly",
+        "character-other/fairweather-cora",
+      ],
+    },
+    {
+      fact: "Ines's earlier notices stayed on the guild board till they curled, never taken.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-tamsin",
+        "character-other/fairweather-tilly",
+        "character-other/fairweather-cora",
+        "character-other/fairweather-ines",
+      ],
+    },
+    {
+      fact: "Biscuit was found on the Hall of Naming's glass dome, a hind foot caught in the lead.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-tamsin",
+        "character-other/fairweather-tilly",
+        "character-other/fairweather-cora",
+        "character-other/fairweather-ines",
+      ],
+    },
+    {
+      fact: "Ines's front room is full of books, dried flowers and birdcages with their doors open.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-tamsin",
+        "character-other/fairweather-tilly",
+        "character-other/fairweather-cora",
+        "character-other/fairweather-ines",
+      ],
+    },
+    {
+      fact: "People cross the lane when they see Ines coming.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-ines",
+      ],
+    },
+    {
+      fact: "Ines's favourite things: hot milk with honey, the hour before dawn, and Biscuit asleep on her feet.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-tamsin",
+        "character-other/fairweather-tilly",
+        "character-other/fairweather-cora",
+        "character-other/fairweather-ines",
+      ],
+    },
+    {
+      fact: "Ines will tell the guild clerk Biscuit is home, so the party's notice pays.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-tamsin",
+        "character-other/fairweather-tilly",
+        "character-other/fairweather-cora",
+        "character-other/fairweather-ines",
+      ],
+    },
+    {
+      fact: "Ines told Elsie she may come again, and Elsie promised to bring honey for her milk.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-ines",
       ],
     },
   ],

@@ -210,7 +210,39 @@ export const fairweatherElsie2 = {
     },
     {
       fact: "At level 4 an Enthraller gains the skill Keep.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-tamsin",
+        "character-other/fairweather-tilly",
+        "character-other/fairweather-cora",
+      ],
+    },
+    {
+      fact: "Elsie reached level 4 on the seventeenth, and gained the skill Keep.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-tamsin",
+        "character-other/fairweather-tilly",
+        "character-other/fairweather-cora",
+      ],
+    },
+    {
+      fact: "Ines says the whole city talks of the Enthraller, and people step out of Elsie's way.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-ines",
+      ],
+    },
+    {
+      fact: "Cora's ledger for Ash Lane reads: Lost cat, found. Skills used, none.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-cora",
+      ],
     },
   ],
 } as const satisfies Lore

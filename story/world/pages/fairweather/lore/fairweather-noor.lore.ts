@@ -186,6 +186,22 @@ export const fairweatherNoor = {
         "character-other/fairweather-noor",
       ],
     },
+    {
+      fact: "Noor ate all four of Elsie's honey cakes.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-noor",
+      ],
+    },
+    {
+      fact: "Asked again to lunch, Noor told Elsie: ask me tomorrow.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-noor",
+      ],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore

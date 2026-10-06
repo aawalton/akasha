@@ -341,11 +341,44 @@ export const fairweatherGuildHall = {
     },
     {
       fact: "From the seventeenth the F-rank board has: a lost cat called Biscuit, near Ash Lane, two lanterns.",
-      knowers: ["lore-disclosure/game-master", "character-other/fairweather-ines"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/fairweather-ines",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-tamsin",
+        "character-other/fairweather-tilly",
+        "character-other/fairweather-noor",
+      ],
     },
     {
       fact: "The Biscuit notice is signed I. Calderón, and says the cat is small, white and very friendly.",
-      knowers: ["lore-disclosure/game-master", "character-other/fairweather-ines"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/fairweather-ines",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-tamsin",
+        "character-other/fairweather-tilly",
+        "character-other/fairweather-noor",
+      ],
+    },
+    {
+      fact: "The Hobb Mill notice paid nine lanterns, three each to Elsie, Tamsin and Tilly.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-tamsin",
+        "character-other/fairweather-tilly",
+      ],
+    },
+    {
+      fact: "The Fairweather party took the Biscuit notice on the seventeenth.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-tamsin",
+        "character-other/fairweather-tilly",
+        "character-other/fairweather-cora",
+      ],
     },
   ],
 } as const satisfies Place
