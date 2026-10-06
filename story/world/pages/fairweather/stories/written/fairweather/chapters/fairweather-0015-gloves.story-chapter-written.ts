@@ -9,9 +9,9 @@ export const fairweather0015Gloves = {
   unit: "unit/words",
   title: "Gloves",
   story: "story-written/fairweather",
-  ownLength: 7494,
+  ownLength: 7509,
   prose: "txt",
-  stepStatus: "step-status/writer",
+  stepStatus: "step-status/recorders",
   beats: "jsonl",
   issues: "txt",
   lore: [
