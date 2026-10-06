@@ -46,23 +46,23 @@ export const fairweatherBellmoorBarrow = {
     },
     {
       fact: "The singer at Bellmoor barrow is Amara Okafor, who walks out to sing where nobody can hear.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-other/fairweather-amara"],
     },
     {
       fact: "Amara sings on the barrow from an hour after dusk, and walks home before the moon sets.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-other/fairweather-amara"],
     },
     {
       fact: "Amara is a Bard, the daughter of Celestine Okafor, the most famous bard in the city.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-other/fairweather-amara"],
     },
     {
       fact: "Amara cannot sing a note if she knows anyone is listening.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-other/fairweather-amara"],
     },
     {
       fact: "Amara is slim, with warm honey-tan skin, long braids and warm brown eyes.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-other/fairweather-amara"],
     },
   ],
 } as const satisfies Place
