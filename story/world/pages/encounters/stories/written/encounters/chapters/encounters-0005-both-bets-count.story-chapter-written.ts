@@ -4,13 +4,14 @@ export const encounters0005BothBetsCount = {
   id: "01a1138b-a8ec-79cc-bb41-99dd7f946f6c",
   type: "page-type/story-chapter-written",
   slug: "encounters-0005-both-bets-count",
+  cover: "image/image-41a127ea9b85c5bb",
   position: 5,
   unit: "unit/words",
   title: "Both Bets Count",
   story: "story-written/encounters",
   ownLength: 5312,
   prose: "txt",
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/reviewers",
   beats: "jsonl",
   lore: [
     "lore/encounters-hana",
@@ -33,5 +34,7 @@ export const encounters0005BothBetsCount = {
     "story-recorder/plan",
     "story-recorder/mechanics",
     "story-recorder/memory",
+    "story-recorder/picture",
   ],
+  scenes: ["image/image-41a127ea9b85c5bb"],
 } as const satisfies StoryChapterWritten
