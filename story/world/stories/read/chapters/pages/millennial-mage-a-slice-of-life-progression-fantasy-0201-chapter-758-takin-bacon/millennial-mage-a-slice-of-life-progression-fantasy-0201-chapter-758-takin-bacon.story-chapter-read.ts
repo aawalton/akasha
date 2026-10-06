@@ -4,6 +4,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0201Chapter758TakinBaco
   id: "01a10bf6-c4cc-7e4f-b155-00e65473ffee",
   type: "page-type/story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0201-chapter-758-takin-bacon",
+  ownProgress: 3121,
   position: 201,
   publishedAt: "2026-10-05",
   unit: "unit/words",

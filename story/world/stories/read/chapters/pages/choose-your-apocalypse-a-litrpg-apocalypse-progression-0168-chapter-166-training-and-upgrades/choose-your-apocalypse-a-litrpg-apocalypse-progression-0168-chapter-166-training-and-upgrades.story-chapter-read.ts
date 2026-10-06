@@ -4,6 +4,7 @@ export const chooseYourApocalypseALitrpgApocalypseProgression0168Chapter166Train
   id: "01a1111b-774d-79b5-abf0-d866b0dc8d9b",
   type: "page-type/story-chapter-read",
   slug: "choose-your-apocalypse-a-litrpg-apocalypse-progression-0168-chapter-166-training-and-upgrades",
+  ownProgress: 2066,
   position: 168,
   publishedAt: "2026-10-06",
   unit: "unit/words",
