@@ -6,4 +6,5 @@ export const encountersKenzie = {
   slug: "encounters-kenzie",
   title: "Kenzie",
   story: "story-written/encounters",
+  cover: "image/image-e28112b8475de798",
 } as const satisfies CharacterOther

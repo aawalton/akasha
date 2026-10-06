@@ -39,7 +39,7 @@ export const encountersKenzie = {
       ],
     },
     {
-      fact: "Kenzie's thick copper-red hair falls past her shoulders in loose waves under a white cap.",
+      fact: "Kenzie's thick copper-red hair is up in a messy high bun, loose strands around her face and neck.",
       knowers: [
         "lore-disclosure/game-master",
         "character-other/encounters-sofia",
@@ -59,7 +59,17 @@ export const encountersKenzie = {
       ],
     },
     {
-      fact: "At the park Kenzie wears a black ribbed crop tank, high-waisted denim cutoffs and white sneakers.",
+      fact: "Kenzie wears a long, loose, oversized faded sage green tee slipping off one bare freckled shoulder.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/encounters-sofia",
+        "character-other/encounters-kenzie",
+        "character-other/encounters-priya",
+        "character-other/encounters-imani",
+      ],
+    },
+    {
+      fact: "Kenzie wears no bra, short shorts hidden under the tee's mid-thigh hem, and white sneakers.",
       knowers: [
         "lore-disclosure/game-master",
         "character-other/encounters-sofia",
