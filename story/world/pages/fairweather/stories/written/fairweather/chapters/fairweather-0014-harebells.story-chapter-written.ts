@@ -11,9 +11,8 @@ export const fairweather0014Harebells = {
   story: "story-written/fairweather",
   ownLength: 9265,
   prose: "txt",
-  stepStatus: "step-status/game-master",
+  stepStatus: "step-status/writer",
   beats: "jsonl",
-  issues: "txt",
   lore: [
     "lore/fairweather-cora",
     "lore/fairweather-elsie",
@@ -41,7 +40,12 @@ export const fairweather0014Harebells = {
     "character-other/fairweather-cora",
     "character-other/fairweather-amara",
   ],
-  reviewedBy: ["story-reviewer/holdings", "story-reviewer/scene", "story-reviewer/style"],
+  reviewedBy: [
+    "story-reviewer/holdings",
+    "story-reviewer/scene",
+    "story-reviewer/style",
+    "story-reviewer/continuity",
+  ],
   recordedBy: [
     "story-recorder/plan",
     "story-recorder/inventory",
@@ -49,6 +53,7 @@ export const fairweather0014Harebells = {
     "story-recorder/picture",
     "story-recorder/memory",
   ],
+  rulings: "jsonl",
   scenes: [
     "image/image-dbb1b146248bfbb4",
     "image/image-a65ec316e6fbcd96",
