@@ -81,4 +81,4 @@
 {"beat":81,"event":"She lays her palm flat to Cora's; Cora's fingers are longer by a whole knuckle, and Elsie is glad."}
 {"beat":82,"event":"Under Elsie's thumb Cora's pulse is running fast; Elsie thinks she's still cold, and holds on."}
 {"beat":83,"event":"Cora whispers Fairweather and nothing after it, and Elsie whispers back goodnight, Cora."}
-{"beat":84,"event":"Out in the dark the wheel turns and turns, clear, and Elsie falls asleep to it.","at":"2026-06-16T21:30:00.000Z"}
+{"beat":84,"event":"Out in the dark the wheel turns and turns, clear, and Elsie falls asleep to it.","at":"2026-06-16T21:30:00.000Z","changes":[{"page":"metric-character-currency/fairweather-elsie","note":"Elsie ends the chapter with 185 pips","key":"history","append":{"turn":16,"value":185}},{"page":"metric-character-currency/fairweather-tamsin","note":"Tamsin ends the chapter with 196 pips, unchanged","key":"history","append":{"turn":16,"value":196}},{"page":"metric-character-currency/fairweather-tilly","note":"Tilly ends the chapter with 244 pips, unchanged","key":"history","append":{"turn":16,"value":244}}]}
