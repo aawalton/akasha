@@ -4,11 +4,12 @@ export const theWanderingInn07771043RngPt2 = {
   id: "01a0659e-182f-7b0b-9a58-26dd1904a1b1",
   type: "page-type/story-chapter-read",
   slug: "the-wandering-inn-0777-10-43-rng-pt-2",
+  completedAt: "2026-10-06T17:44:11.835Z",
   title: "10.43 - RNG (Pt. 2)",
   story: "story-read/the-wandering-inn",
   position: 777,
   ownLength: 17915,
-  ownProgress: 17899,
+  ownProgress: 17915,
   unit: "unit/words",
   publishedAt: "2025-07-20",
   externalIdentity: [
