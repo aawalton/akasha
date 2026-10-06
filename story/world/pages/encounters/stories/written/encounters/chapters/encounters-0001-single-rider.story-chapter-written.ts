@@ -5,6 +5,7 @@ export const encounters0001SingleRider = {
   type: "page-type/story-chapter-written",
   slug: "encounters-0001-single-rider",
   cover: "image/image-edd47e868b9e2f8c",
+  ownProgress: 417,
   position: 1,
   unit: "unit/words",
   title: "Single Rider",
