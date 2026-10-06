@@ -328,5 +328,9 @@ export const fairweatherLanternmere = {
         "character-other/fairweather-cora",
       ],
     },
+    {
+      fact: "The second party means to bring the Coin Street agent four suns on the twenty-second.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Place

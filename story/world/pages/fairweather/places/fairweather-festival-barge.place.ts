@@ -1,0 +1,45 @@
+import type { Place } from "akasha/story/lore/place/place.page-type.types.ts"
+
+export const fairweatherFestivalBarge = {
+  id: "01a11325-adeb-761e-91bf-101717533b44",
+  type: "page-type/place",
+  slug: "fairweather-festival-barge",
+  title: "The Festival Barge",
+  cover: "image/image-8ab1c13752a3dc15",
+  world: "world/fairweather",
+  within: "place/fairweather-lanternmere",
+  facts: [
+    {
+      fact: "The festival barge is a broad wooden barge moored out on the Mere, its rails strung with lanterns.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "A canopy of gold cloth covers the barge's deck, and Celestine Okafor sings beneath it at Midsummer.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "On Midsummer night hundreds of small lantern boats ring the barge on the dark water.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Odile Marsh, the festival master, is brisk and grey, and posts the barge guard at the Lantern Steps.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Each guard boat carries a hooded lantern and a brass bell to ring at the first sight of thieves.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "River thieves come in a black punt with muffled oars, and slip lantern boats loose to strip them.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "This year's thieves are the Pike crew, four of them, who flee a bell and fight only when cornered.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The Midsummer fireworks go up from the barge's bow at midnight.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+  ],
+} as const satisfies Place
