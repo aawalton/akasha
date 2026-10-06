@@ -12,9 +12,8 @@ export const encounters0001SingleRider = {
   story: "story-written/encounters",
   ownLength: 10169,
   prose: "txt",
-  stepStatus: "step-status/game-master",
+  stepStatus: "step-status/mechanics",
   beats: "jsonl",
-  mechanicsIssues: "txt",
   issues: "txt",
   lore: [
     "lore/encounters-hana",
@@ -32,7 +31,6 @@ export const encounters0001SingleRider = {
     "character-other/encounters-hana",
   ],
   reviewedBy: ["story-reviewer/holdings", "story-reviewer/scene", "story-reviewer/style"],
-  recordedBy: ["story-recorder/mechanics", "story-recorder/plan", "story-recorder/inventory"],
   scenes: [
     "image/image-57909c48b863d038",
     "image/image-308a8c9f889157bb",
