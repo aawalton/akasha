@@ -11,7 +11,7 @@ export const fairweather0015Gloves = {
   story: "story-written/fairweather",
   ownLength: 7502,
   prose: "txt",
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/reviewers",
   beats: "jsonl",
   lore: [
     "lore/fairweather-cora",
@@ -49,6 +49,7 @@ export const fairweather0015Gloves = {
     "story-recorder/mechanics",
     "story-recorder/inventory",
     "story-recorder/picture",
+    "story-recorder/memory",
   ],
   scenes: ["image/image-e12a0a73adad69f6"],
 } as const satisfies StoryChapterWritten
