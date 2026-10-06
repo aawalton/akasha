@@ -3,10 +3,12 @@ import type { ChapterEndsAt } from "akasha/story/world/stories/played/chapters/p
 import type { ChapterTurnCovers } from "akasha/story/world/stories/played/chapters/properties/chapter-turn-covers.record-property.types.ts"
 import type { LastTurn } from "akasha/story/world/stories/played/chapters/properties/last-turn.text-property.types.ts"
 import type { LastTurnPosition } from "akasha/story/world/stories/played/chapters/properties/last-turn-position.number-property.types.ts"
+import type { Outcomes } from "akasha/story/world/stories/played/turns/properties/outcomes.file-property.types.ts"
 
 export type StoryChapterPlayed = Chapter & {
   turnCovers?: ChapterTurnCovers
   lastTurn?: LastTurn
   lastTurnPosition?: LastTurnPosition
   endsAt?: ChapterEndsAt
+  outcomes?: Outcomes
 }
