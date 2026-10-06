@@ -4,7 +4,7 @@ export const encounters0001SingleRider = {
   id: "01a11326-b2fe-7f73-bf32-2712ffab83c2",
   type: "page-type/story-chapter-written",
   slug: "encounters-0001-single-rider",
-  cover: "image/image-edd47e868b9e2f8c",
+  cover: "image/image-308a8c9f889157bb",
   ownProgress: 417,
   position: 1,
   unit: "unit/words",
@@ -31,7 +31,12 @@ export const encounters0001SingleRider = {
     "character-other/encounters-hana",
   ],
   reviewedBy: ["story-reviewer/holdings", "story-reviewer/scene", "story-reviewer/style"],
-  recordedBy: ["story-recorder/plan", "story-recorder/mechanics", "story-recorder/inventory"],
+  recordedBy: [
+    "story-recorder/plan",
+    "story-recorder/mechanics",
+    "story-recorder/inventory",
+    "story-recorder/picture",
+  ],
   scenes: [
     "image/image-57909c48b863d038",
     "image/image-308a8c9f889157bb",
