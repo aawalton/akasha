@@ -3,3 +3,7 @@ style: "She falls asleep with the window open" (beat 187) - No Sign-Off
 style: "Nothing snaps." (beat 91) - Nobody Acts
 style: "Nothing comes after." (beat 117) - Nobody Acts
 style: "her face is open as Elsie has never seen it" (beat 160) - No Tropes
+holdings: beat 133: Tamsin back from her fear along the Tether, a +2 Tether move (outside the cap) is missing
+holdings: beat 134: Tilly throws a bang vial, but the vial belt still holds three bang vials
+holdings: beat 53: Elsie sets her birch crown on the sill, no slot change; beat 68 puts it back, also none
+holdings: beat 40: Tamsin's birch crown goes on her head with no slot change, as Elsie's gets at beat 42
