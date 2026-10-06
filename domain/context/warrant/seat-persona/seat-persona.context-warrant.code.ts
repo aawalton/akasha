@@ -1,4 +1,7 @@
-import { slugStated } from "akasha/domain/context/modules/agent-stated/agent-stated.module.code.ts"
+import {
+  personaOrHandlerStated,
+  slugStated,
+} from "akasha/domain/context/modules/agent-stated/agent-stated.module.code.ts"
 import {
   blobAt,
   type Warrant,
@@ -7,7 +10,7 @@ import { listedAt } from "akasha/page/index/modules/reading/index-reading.module
 import { partedIn } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
 
 export const PERSONA_TYPE =
-  "A seat works as a persona, and what every persona is held to is read before the seat is changed."
+  "A persona or handler seat works as a persona, and what every persona is held to is read before the seat is changed."
 
 const PAGE_TYPE = "page-type"
 
@@ -20,6 +23,7 @@ const KEY = "slug"
 export function seatPersona(root: string, path: string): readonly Warrant[] {
   if (partedIn(path)?.pageType !== SEAT) return []
   if (slugStated(root, path, KEY) === null) return []
+  if (!personaOrHandlerStated(root, path)) return []
   const listed = listedAt(root, PAGE_TYPE, PERSONA)[0]
   if (listed === undefined) return []
   const oid = blobAt(root, listed.path)

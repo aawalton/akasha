@@ -4,7 +4,7 @@ export const seatPersona = {
   id: "01a0582e-2829-7ac3-97b6-30591b0cdbde",
   type: "page-type/context-warrant",
   slug: "seat-persona",
-  definition: "what a seat must read for the type every persona is held to",
+  definition: "what a persona or handler seat must read for the type every persona is held to",
   code: "ts",
   test: "ts",
   runsOnRead: true,
@@ -13,7 +13,11 @@ export const seatPersona = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "A seat warrants the persona page type.",
+      statement: "A seat in the personas or handlers section warrants the persona page type.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A seat assigned a story warrants no persona page type.",
     },
     {
       decisionKind: "decision-kind/departure",
