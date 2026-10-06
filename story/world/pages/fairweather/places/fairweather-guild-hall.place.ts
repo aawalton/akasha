@@ -236,5 +236,25 @@ export const fairweatherGuildHall = {
       fact: "The E-rank troll notice is for the old toll bridge on the River Wend, twelve lanterns.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "The guildmaster has read Cora's report on the toll bridge, and wants to see Elsie herself.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "By the thirteenth the guild hall has heard that the Enthraller talked a troll into a bargain.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The E-rank wolves notice: Glasswood wolves on the north road, a carter's pony taken, eight lanterns.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The E-rank barrow notice: lights and singing by night at Bellmoor barrow, ten lanterns.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The E-rank bandits notice: bandits robbing travellers at Hollin Ford, fifteen lanterns.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Place
