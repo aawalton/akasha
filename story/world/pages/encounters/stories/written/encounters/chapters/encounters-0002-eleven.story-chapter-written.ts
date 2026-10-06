@@ -31,6 +31,7 @@ export const encounters0002Eleven = {
     "character-other/encounters-hana",
   ],
   reviewedBy: ["story-reviewer/holdings", "story-reviewer/scene"],
+  recordedBy: ["story-recorder/plan"],
   scenes: [
     "image/image-d5d19be8fed23a84",
     "image/image-f9787765010f6952",
