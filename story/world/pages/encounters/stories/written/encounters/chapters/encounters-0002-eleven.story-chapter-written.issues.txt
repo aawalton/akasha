@@ -4,3 +4,5 @@ continuity: "I bartend"/"the bar she works at in Gainesville" - Kenzie's bartend
 continuity: "I plan everything"/"I made it" - Kenzie plans every trip to the minute: shown, no memory line
 continuity: "a trimmed copper bush" beat 42 - Kenzie's bush/body fact shown, memory records only the no-bra fact
 continuity: "The room is the one you left this morning" - Alan spent the night at Cabana Bay, left her room
+style: "she lets go of you as if nothing happened" - Nobody Acts
+style: "She is asleep inside five minutes, sprawled across most of the bed" - No Sign-Off
