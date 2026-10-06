@@ -4,13 +4,14 @@ export const encounters0004ThirtySixFrames = {
   id: "01a1137d-b233-7fb8-99ca-d8d744203740",
   type: "page-type/story-chapter-written",
   slug: "encounters-0004-thirty-six-frames",
+  cover: "image/image-97fe6436ba0ae46a",
   position: 4,
   unit: "unit/words",
   title: "Thirty-Six Frames",
   story: "story-written/encounters",
   ownLength: 5191,
   prose: "txt",
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/reviewers",
   beats: "jsonl",
   lore: [
     "lore/encounters-hana",
@@ -31,5 +32,7 @@ export const encounters0004ThirtySixFrames = {
     "story-recorder/mechanics",
     "story-recorder/plan",
     "story-recorder/memory",
+    "story-recorder/picture",
   ],
+  scenes: ["image/image-97fe6436ba0ae46a", "image/image-802e533ed8e9d331"],
 } as const satisfies StoryChapterWritten
