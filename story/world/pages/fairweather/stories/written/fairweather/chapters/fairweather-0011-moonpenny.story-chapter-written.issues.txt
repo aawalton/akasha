@@ -3,3 +3,7 @@ continuity: "the way her mother made it" (beat 66) - ch5: Agnes taught Elsie her
 continuity: "a great golden slow spoonful" (beat 66) - ch5, Honeycomb lore: it takes a whole comb
 continuity: "asleep on the crate" (beat 2) - ch10: Elsie sat on the bucket, Tilly on the crate
 continuity: beat 31 memory names "her sweetheart Mira" - the prose names Mira only at beat 34
+holdings: beat 10: Tilly carries a satchel of vials on her shoulder, but what she holds is a belt of vials
+holdings: beat 15: Tilly grabs and holds Elsie's arm in both hands, a +1 kindness Tilly's bond misses
+holdings: beat 33: Elsie gives Tilly the two odd pips, a +1 gift Tilly's bond misses
+holdings: beat 56: with beats 15 and 33 Tilly is 43, so Devotion gives 6: Tilly Wits 20, Elsie Wits 11
