@@ -50,7 +50,7 @@ export const fairweather0019RingFirst = {
     "character-other/fairweather-tamsin",
     "character-other/fairweather-amara",
   ],
-  reviewedBy: ["story-reviewer/holdings"],
+  reviewedBy: ["story-reviewer/holdings", "story-reviewer/scene"],
   recordedBy: [
     "story-recorder/plan",
     "story-recorder/mechanics",
