@@ -6,7 +6,7 @@
 {"beat":6,"event":"Cora has her ledger, and a shuttered guild lantern hung at her belt."}
 {"beat":7,"event":"Elsie tells Cora her gloves have a whole cuff now; Cora says, what gloves?"}
 {"beat":8,"event":"Elsie says it's a surprise, and Tamsin snorts into her collar."}
-{"beat":9,"event":"At the west gate Tamsin buys hand pies from a stall for all four, and pays for them.","at":"2026-06-14T07:00:00.000Z","place":"place/fairweather-lanternmere"}
+{"beat":9,"event":"At the west gate Tamsin buys hand pies from a stall for all four, and pays for them.","at":"2026-06-14T07:00:00.000Z","place":"place/fairweather-lanternmere","changes":[{"page":"metric-character-currency/fairweather-tamsin","note":"Tamsin buys four hand pies at the west gate, 2 pips each: 8 pips, 171 → 163","key":"value","from":171,"to":163},{"page":"metric-character-currency/fairweather-elsie","note":"Elsie ends the chapter with 169 pips, unchanged","key":"history","append":{"turn":14,"value":169}},{"page":"metric-character-currency/fairweather-tamsin","note":"Tamsin ends the chapter with 163 pips","key":"history","append":{"turn":14,"value":163}},{"page":"metric-character-currency/fairweather-tilly","note":"Tilly ends the chapter with 210 pips, unchanged","key":"history","append":{"turn":14,"value":210}}]}
 {"beat":10,"event":"The road climbs out of the canals onto the open downs, all wind and larks.","at":"2026-06-14T07:30:00.000Z"}
 {"beat":11,"event":"Tilly chatters about barrow-lights: marsh gas, she thinks, or something even better."}
 {"beat":12,"event":"Elsie asks Cora what she thinks; Cora says she will write down what they find."}
