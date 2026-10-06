@@ -55,6 +55,7 @@ const NAMED: Readonly<Record<string, string>> = {
   trade: "",
 }
 const DASH_RUN = /\s*(?:[—–]{2,}|[—–]?-{2,}[—–]?)\s*/g
+const GLUED_ELLIPSIS = /(…|\.{3,})(?=[\p{L}\p{N}])/gu
 const ORNAMENT = /\p{So}+/gu
 const LOOSE_COMMAS = /\s*,(?:\s*,)+/g
 const COMMA_BEFORE_END = /\s*,\s*([.!?…:;]|$)/g
@@ -114,6 +115,7 @@ function plainOf(line: string): string {
     .replace(MARKS, "")
     .replace(ORNAMENT, " ")
     .replace(DASH_RUN, ", ")
+    .replace(GLUED_ELLIPSIS, "$1 ")
     .replace(LOOSE_COMMAS, ",")
     .replace(COMMA_BEFORE_END, "$1")
     .replace(OPEN_COMMA, "")

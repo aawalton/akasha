@@ -51,6 +51,11 @@ export const narrationSegments = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "An ellipsis joining two words is followed by a space, so the voice says two words.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A link, an ornament, an image placeholder or a hidden character is never spoken.",
     },
     {

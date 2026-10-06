@@ -119,6 +119,13 @@ describe("narrationSegmentsOf", () => {
     ])
   })
 
+  test("an ellipsis between two words leaves them two words", () => {
+    expect(texts("Start.\nI do…no, I don't...really.")).toEqual([
+      "Start.",
+      "I do… no, I don't... really.",
+    ])
+  })
+
   test("the same chapter always gives the same segments", () => {
     const prose = "One. Two.\n\n***\n\n:::level-up\nlevel: 2\n:::\nThree."
     expect(narrationSegmentsOf(prose)).toEqual(narrationSegmentsOf(prose))
