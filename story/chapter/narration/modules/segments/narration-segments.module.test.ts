@@ -75,6 +75,42 @@ describe("narrationSegmentsOf", () => {
     ).toEqual(["She read it.", "Skill Acquired. Type: Passive.", "Done."])
   })
 
+  test("a line of only marks is a scene break and never spoken", () => {
+    const breaks = ["—--", "——", "—————", "◈◈◈", "<<<<<>>>>>", "***​", "→", "+"]
+    const prose = ["One.", ...breaks.flatMap((mark, at) => [mark, `Line ${at}.`])].join("\n")
+    const segments = narrationSegmentsOf(prose)
+    expect(segments.map((one) => one.text)).toEqual([
+      "One.",
+      ...breaks.map((_mark, at) => `Line ${at}.`),
+    ])
+    expect(segments.every((one) => one.pauseAfterMs === 900)).toBe(true)
+  })
+
+  test("a line of only an ellipsis or a silent reply is a pause rather than a break", () => {
+    const segments = narrationSegmentsOf("She waited.\n“…”\n. . .\nHe left.")
+    expect(segments.map(({ text, pauseAfterMs }) => ({ text, pauseAfterMs }))).toEqual([
+      { text: "She waited.", pauseAfterMs: 450 },
+      { text: "He left.", pauseAfterMs: 900 },
+    ])
+  })
+
+  test("a run of dashes inside a line is said as a comma", () => {
+    expect(
+      texts("Start.\nThat meant duels through the city -- when both sides were honorable——or not.")
+    ).toEqual([
+      "Start.",
+      "That meant duels through the city, when both sides were honorable, or not.",
+    ])
+  })
+
+  test("a link, an image placeholder, an entity and a hidden character are never spoken", () => {
+    expect(
+      texts(
+        "Start.\neBook: https://www.royalroad.com/amazon/B0DSVBKLP9\nTom &amp; Jerry [image] left​ &#8212; fast."
+      )
+    ).toEqual(["Start.", "eBook.", "Tom & Jerry left — fast."])
+  })
+
   test("the same chapter always gives the same segments", () => {
     const prose = "One. Two.\n\n***\n\n:::level-up\nlevel: 2\n:::\nThree."
     expect(narrationSegmentsOf(prose)).toEqual(narrationSegmentsOf(prose))

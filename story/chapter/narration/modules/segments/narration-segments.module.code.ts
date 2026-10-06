@@ -26,11 +26,37 @@ const LIMIT = 600
 
 const RETURNS = /\r\n?/g
 const FENCE = /^\s*(?:```|~~~)/
-const SCENE_BREAK = /^\s*(?:[*\-_~=#•·◇◆○●]\s*){3,}$/
+const WORDED = /[\p{L}\p{N}]/u
+const BEAT = /^[\s.…"'“”‘’?!]+$/u
+const INVISIBLE = /[​-‍⁠﻿­]/g
 const HEADING = /^\s*#{1,6}\s+(.*)$/
 const IMAGE = /!\[[^\]]*\]\([^)]*\)/g
+const PLACEHOLDER = /\[(?:image|img|picture|illustration)\b[^\]]*\]/gi
 const LINK = /\[([^\]]+)\]\([^)]*\)/g
+const URL = /\b(?:https?:\/\/|www\.)\S+/gi
 const TAG = /<\/?[a-z][^>]*>/gi
+const ENTITY = /&(?:#(\d+)|#x([0-9a-f]+)|([a-z]+));/gi
+const NAMED: Readonly<Record<string, string>> = {
+  amp: "&",
+  nbsp: " ",
+  quot: '"',
+  apos: "'",
+  lt: "<",
+  gt: ">",
+  hellip: "…",
+  mdash: "—",
+  ndash: "–",
+  lsquo: "‘",
+  rsquo: "’",
+  ldquo: "“",
+  rdquo: "”",
+}
+const DASH_RUN = /\s*(?:[—–]{2,}|[—–]?-{2,}[—–]?)\s*/g
+const ORNAMENT = /\p{So}+/gu
+const LOOSE_COMMAS = /\s*,(?:\s*,)+/g
+const COMMA_BEFORE_END = /\s*,\s*([.!?…:;]|$)/g
+const TRAILING_JOIN = /[\s,:;]+$/
+const OPEN_COMMA = /^[\s,]+/
 const STRONG = /(\*\*|__)(.+?)\1/g
 const EMPHASIS = /(^|[^\p{L}\p{N}*_])([*_])(?=\S)(.+?)(?<=\S)\2(?![\p{L}\p{N}])/gu
 const MARKS = /[*`]+|(?<![\p{L}\p{N}])_+|_+(?![\p{L}\p{N}])/gu
@@ -65,20 +91,41 @@ const ABBREVIATIONS: ReadonlySet<string> = new Set([
   "approx",
 ])
 
+function entityOf(whole: string, decimal?: string, hex?: string, name?: string): string {
+  if (decimal !== undefined) return String.fromCodePoint(Number(decimal))
+  if (hex !== undefined) return String.fromCodePoint(Number.parseInt(hex, 16))
+  return NAMED[name?.toLowerCase() ?? ""] ?? whole
+}
+
 function plainOf(line: string): string {
   return line
+    .replace(INVISIBLE, "")
+    .replace(ENTITY, entityOf)
     .replace(IMAGE, "")
+    .replace(PLACEHOLDER, "")
     .replace(LINK, "$1")
+    .replace(URL, "")
     .replace(TAG, "")
     .replace(STRONG, "$2")
     .replace(EMPHASIS, "$1$3")
     .replace(MARKS, "")
+    .replace(ORNAMENT, " ")
+    .replace(DASH_RUN, ", ")
+    .replace(LOOSE_COMMAS, ",")
+    .replace(COMMA_BEFORE_END, "$1")
+    .replace(OPEN_COMMA, "")
     .replace(SPACES, " ")
     .trim()
 }
 
+function pauseAtLeast(blocks: Block[], pauseAfterMs: number): undefined {
+  const last = blocks.at(-1)
+  if (last !== undefined) last.pauseAfterMs = Math.max(last.pauseAfterMs, pauseAfterMs)
+}
+
 function spoken(line: string): string {
-  return ENDS_SPOKEN.test(line) ? line : `${line}.`
+  const said = line.replace(TRAILING_JOIN, "")
+  return ENDS_SPOKEN.test(said) ? said : `${said}.`
 }
 
 function endsSentence(text: string, end: number): boolean {
@@ -136,18 +183,21 @@ function setApart(blocks: Block[], sentences: string[], source: Source): undefin
 }
 
 function lineInto(blocks: Block[], line: string, source: Source): undefined {
-  if (SCENE_BREAK.test(line)) {
-    pauseLast(blocks)
+  const seen = line.replace(INVISIBLE, "")
+  if (seen.trim() === "") return
+  if (!WORDED.test(seen)) {
+    if (BEAT.test(seen)) pauseAtLeast(blocks, PARAGRAPH_PAUSE_MS)
+    else pauseLast(blocks)
     return
   }
   const heading = HEADING.exec(line)?.[1]
   if (heading !== undefined) {
     const said = plainOf(heading)
-    if (said !== "") setApart(blocks, [spoken(said)], source)
+    if (WORDED.test(said)) setApart(blocks, [spoken(said)], source)
     return
   }
   const said = plainOf(line)
-  if (said === "") return
+  if (!WORDED.test(said)) return
   blocks.push({
     sentences: sentencesOf(spoken(said)),
     pauseAfterMs: PARAGRAPH_PAUSE_MS,

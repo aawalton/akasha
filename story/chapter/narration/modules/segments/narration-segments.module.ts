@@ -39,6 +39,22 @@ export const narrationSegments = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A line with no letter and no digit is a pause and is never spoken.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Such a line is a scene break unless it holds only an ellipsis or quotes.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A run of dashes inside a line is said as a comma.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A link, an ornament, an image placeholder or a hidden character is never spoken.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "The last segment of a chapter leaves the longer pause before the next chapter.",
     },
     {
