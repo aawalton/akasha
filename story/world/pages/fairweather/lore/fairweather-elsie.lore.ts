@@ -361,5 +361,13 @@ export const fairweatherElsie = {
         "character-other/fairweather-cora",
       ],
     },
+    {
+      fact: "Cora's ledger for the troll bridge reads: skills used, none.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-cora",
+      ],
+    },
   ],
 } as const satisfies Lore

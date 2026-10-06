@@ -230,6 +230,16 @@ export const fairweatherTilly = {
         "character-other/fairweather-cora",
       ],
     },
+    {
+      fact: "At the old weir on the Wend Tilly blew the drowned cart free with a bang-flask, on purpose.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-tamsin",
+        "character-other/fairweather-tilly",
+        "character-other/fairweather-cora",
+      ],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore

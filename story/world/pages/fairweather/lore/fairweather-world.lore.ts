@@ -202,6 +202,15 @@ export const fairweatherWorld = {
       fact: "A bond given freely feeds an Enthraller's Devotion far more than a taken one.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "The guild's books class river trolls as beasts, and a notice for beasts is one to remove them.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-tamsin",
+        "character-other/fairweather-cora",
+      ],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore

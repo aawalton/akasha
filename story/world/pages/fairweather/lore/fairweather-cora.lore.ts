@@ -205,6 +205,24 @@ export const fairweatherCora = {
       fact: "Cora's charcoal coat smells of ink and, faintly, lavender.",
       knowers: ["lore-disclosure/game-master", "character-player/fairweather-elsie"],
     },
+    {
+      fact: "Before the troll notice Cora had never been north of Lanternmere's north gate.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-cora",
+      ],
+    },
+    {
+      fact: "Cora wrote pages that the Enthraller asked a river troll a question, and it answered her.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-tamsin",
+        "character-other/fairweather-tilly",
+        "character-other/fairweather-cora",
+      ],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore

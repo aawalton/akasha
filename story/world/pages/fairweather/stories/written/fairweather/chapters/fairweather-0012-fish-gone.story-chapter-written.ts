@@ -11,9 +11,8 @@ export const fairweather0012FishGone = {
   story: "story-written/fairweather",
   ownLength: 10108,
   prose: "txt",
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/player",
   beats: "jsonl",
-  issues: "txt",
   lore: [
     "lore/fairweather-cora",
     "lore/fairweather-elsie",
@@ -39,7 +38,12 @@ export const fairweather0012FishGone = {
     "character-other/fairweather-tilly",
     "character-other/fairweather-cora",
   ],
-  reviewedBy: ["story-reviewer/scene", "story-reviewer/holdings", "story-reviewer/continuity"],
+  reviewedBy: [
+    "story-reviewer/scene",
+    "story-reviewer/holdings",
+    "story-reviewer/continuity",
+    "story-reviewer/style",
+  ],
   recordedBy: [
     "story-recorder/inventory",
     "story-recorder/plan",
@@ -47,7 +51,6 @@ export const fairweather0012FishGone = {
     "story-recorder/memory",
     "story-recorder/picture",
   ],
-  rulings: "jsonl",
   scenes: [
     "image/image-ee3d58e130e75a2e",
     "image/image-fce529b36ab459f5",
