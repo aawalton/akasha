@@ -48,5 +48,10 @@ export const fairweather0020LanternNight = {
     "character-other/fairweather-ines",
     "character-other/fairweather-amara",
   ],
-  recordedBy: ["story-recorder/mechanics", "story-recorder/plan", "story-recorder/inventory"],
+  recordedBy: [
+    "story-recorder/mechanics",
+    "story-recorder/plan",
+    "story-recorder/inventory",
+    "story-recorder/memory",
+  ],
 } as const satisfies StoryChapterWritten
