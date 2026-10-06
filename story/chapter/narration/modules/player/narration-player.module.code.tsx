@@ -4,12 +4,15 @@ import { saidBy } from "akasha/code/type/narrowing/modules/said-by/said-by.modul
 import {
   type PageAudioAsked,
   PageAudioProvider,
+  PageSpokenProvider,
 } from "akasha/page/ui/component/modules/page-audio/page-audio.module.code.tsx"
 import {
   bodyOf,
   errorOf,
+  firstPieceIn,
   HELD_AT_START,
   heldOf,
+  JSON_SENT,
   markRead,
   nowPlayingControlled,
   nowPlayingOf,
@@ -25,6 +28,9 @@ import {
   chapterAt,
   placedOf,
   progressAt,
+  type Spoken,
+  sameSpoken,
+  spokenAt,
 } from "akasha/story/chapter/narration/modules/playhead/narration-playhead.module.code.ts"
 import {
   nudged,
@@ -89,14 +95,6 @@ const SAVE_EVERY_SECONDS = 20
 
 const CHAPTERS_EVERY_MS = 4000
 
-const FIRST_PIECE_TRIES = 40
-
-const FIRST_PIECE_WAIT_MS = 500
-
-const PIECE_LISTED = "#EXTINF"
-
-const JSON_SENT = { "content-type": "application/json" }
-
 const NarrationContext = createContext<Narration | null>(null)
 
 export function useNarration(): Narration | null {
@@ -121,6 +119,7 @@ export function NarrationProvider({
   const [chapter, setChapter] = useState<ChapterHeld | null>(null)
   const [halted, setHalted] = useState(true)
   const [place, setPlace] = useState({ at: 0, end: 0 })
+  const [spoken, setSpoken] = useState<Spoken | null>(null)
   const { speed, faster, repace } = useSpeed(audioRef)
 
   const fail = useCallback((error: string): undefined => {
@@ -139,19 +138,6 @@ export function NarrationProvider({
       void reach.fetch(`/api/narration/${was.id}`, { method: "DELETE" }).catch(() => undefined)
     }
   }, [reach])
-
-  const firstPieceIn = useCallback(
-    async (playlist: string): Promise<boolean> => {
-      for (let tried = 0; tried < FIRST_PIECE_TRIES; tried += 1) {
-        const answered = await reach.fetch(playlist)
-        if (!answered.ok) return false
-        if ((await answered.text()).includes(PIECE_LISTED)) return true
-        await new Promise((settle) => setTimeout(settle, FIRST_PIECE_WAIT_MS))
-      }
-      return false
-    },
-    [reach]
-  )
 
   const open = useCallback(
     async (asked: PageAudioAsked): Promise<undefined> => {
@@ -194,7 +180,7 @@ export function NarrationProvider({
       }
       setChapter(opened)
       nowPlayingOf(opened)
-      if (!(await firstPieceIn(playlist))) {
+      if (!(await firstPieceIn(reach.fetch, playlist))) {
         fail("The speech workload made no audio for this chapter.")
         return
       }
@@ -222,7 +208,7 @@ export function NarrationProvider({
         } else recovering.broken(`The audio would not start: ${saidBy(thrown)}`)
       }
     },
-    [reach, fail, firstPieceIn, repace, recovering]
+    [reach, fail, repace, recovering]
   )
 
   const play = useCallback(
@@ -328,6 +314,8 @@ export function NarrationProvider({
       })
     }
     setPlace({ at: seconds, end: seekableEnd(audio) })
+    const said = spokenAt(playing.placed, seconds)
+    setSpoken((was) => (sameSpoken(was, said) ? was : said))
   }, [askNext, save])
 
   const close = useCallback((): undefined => {
@@ -341,6 +329,7 @@ export function NarrationProvider({
       audio.load()
     }
     setChapter(null)
+    setSpoken(null)
     nowPlayingOf(null)
     setShown({ kind: "idle" })
   }, [dropSession, save])
@@ -487,7 +476,9 @@ export function NarrationProvider({
 
   return (
     <NarrationContext.Provider value={narration}>
-      <PageAudioProvider audio={audioAsked}>{children}</PageAudioProvider>
+      <PageAudioProvider audio={audioAsked}>
+        <PageSpokenProvider spoken={spoken}>{children}</PageSpokenProvider>
+      </PageAudioProvider>
       {/* biome-ignore lint/a11y/useMediaCaption: narration is speech whose text is on the page */}
       <audio ref={audioRef} preload="auto" className="hidden" />
     </NarrationContext.Provider>

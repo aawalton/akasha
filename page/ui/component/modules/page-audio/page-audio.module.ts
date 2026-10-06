@@ -19,5 +19,14 @@ export const pageAudio = {
       decisionKind: "decision-kind/absence",
       statement: "Nothing here knows how a page's audio is made.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The player says which page is being spoken and the words of its sentence now.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "Those words are counted in the page's own length, from the sentence's first word.",
+    },
   ],
 } as const satisfies Module

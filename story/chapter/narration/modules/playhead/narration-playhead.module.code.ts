@@ -68,6 +68,29 @@ export function progressAt(args: {
   return held > (written.get(playing.id) ?? 0) ? { id: playing.id, ownProgress: held } : null
 }
 
+export type Spoken = { readonly pageId: string; readonly from: number; readonly to: number | null }
+
+export function sameSpoken(one: Spoken | null, other: Spoken | null): boolean {
+  if (one === null || other === null) return one === other
+  return one.pageId === other.pageId && one.from === other.from && one.to === other.to
+}
+
+export function spokenAt(placed: readonly ChapterPlaced[], seconds: number): Spoken | null {
+  const playing = chapterAt(placed, seconds)
+  if (playing === null) return null
+  let from: number | null = null
+  let to: number | null = null
+  for (const [at, wordStart] of playing.marks) {
+    if (at <= seconds) {
+      from = wordStart
+      to = null
+    } else if (from !== null && to === null && wordStart > from) {
+      to = wordStart
+    }
+  }
+  return from === null ? null : { pageId: playing.id, from, to }
+}
+
 export function playedThrough(one: ChapterPlaced, before: number, seconds: number): boolean {
   if (one.durationSeconds === null) return false
   const end = one.startSeconds + one.durationSeconds

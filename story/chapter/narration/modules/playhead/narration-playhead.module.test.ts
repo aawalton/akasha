@@ -5,6 +5,8 @@ import {
   chapterStarts,
   placedOf,
   progressAt,
+  sameSpoken,
+  spokenAt,
 } from "akasha/story/chapter/narration/modules/playhead/narration-playhead.module.code.ts"
 
 const placed = placedOf([
@@ -141,6 +143,42 @@ describe("progressAt", () => {
 
   test("a playhead before any mark makes no progress", () => {
     expect(progressAt({ ...{ placed, seconds: 50, written: new Map(), lengthOf } })).toBeNull()
+  })
+})
+
+describe("spokenAt", () => {
+  const marked = placedOf([
+    {
+      id: "one",
+      title: "One",
+      startSeconds: 0,
+      durationSeconds: 100,
+      marks: [
+        [0, 0],
+        [2, 0],
+        [9, 12],
+        [30, 20],
+      ],
+    },
+  ])
+
+  test("the sentence spoken runs from its own word to the next sentence's", () => {
+    expect(spokenAt(marked, 1)).toEqual({ pageId: "one", from: 0, to: 12 })
+    expect(spokenAt(marked, 10)).toEqual({ pageId: "one", from: 12, to: 20 })
+  })
+
+  test("the last sentence marked so far runs to no word yet", () => {
+    expect(spokenAt(marked, 40)).toEqual({ pageId: "one", from: 20, to: null })
+  })
+
+  test("two sentences are the same where page and words agree", () => {
+    expect(sameSpoken(spokenAt(marked, 10), spokenAt(marked, 11))).toBe(true)
+    expect(sameSpoken(spokenAt(marked, 1), spokenAt(marked, 10))).toBe(false)
+    expect(sameSpoken(null, null)).toBe(true)
+  })
+
+  test("a playhead before any mark speaks nothing", () => {
+    expect(spokenAt(placed, 50)).toBeNull()
   })
 })
 

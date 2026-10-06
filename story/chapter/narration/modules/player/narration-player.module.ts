@@ -65,5 +65,9 @@ export const narrationPlayer = {
       statement:
         "Progress is saved every twenty seconds of the stream, on a pause and as the bar closes.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The player tells every page which chapter and which sentence it is speaking.",
+    },
   ],
 } as const satisfies Module

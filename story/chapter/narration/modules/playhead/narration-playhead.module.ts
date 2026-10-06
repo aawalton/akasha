@@ -46,5 +46,10 @@ export const narrationPlayhead = {
       decisionKind: "decision-kind/departure",
       statement: "Progress stops a word short of the chapter's length, which only its end reaches.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "The sentence spoken runs from the word its mark begins at to the next mark's word.",
+    },
   ],
 } as const satisfies Module

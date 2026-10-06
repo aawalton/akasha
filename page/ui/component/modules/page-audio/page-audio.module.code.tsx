@@ -24,3 +24,25 @@ export function PageAudioProvider({
 export function usePageAudio(): PageAudio | null {
   return useContext(PageAudioContext)
 }
+
+export type PageSpoken = {
+  readonly pageId: string
+  readonly from: number
+  readonly to: number | null
+}
+
+const PageSpokenContext = createContext<PageSpoken | null>(null)
+
+export function PageSpokenProvider({
+  spoken,
+  children,
+}: {
+  readonly spoken: PageSpoken | null
+  readonly children: ReactNode
+}) {
+  return <PageSpokenContext.Provider value={spoken}>{children}</PageSpokenContext.Provider>
+}
+
+export function usePageSpoken(): PageSpoken | null {
+  return useContext(PageSpokenContext)
+}

@@ -120,6 +120,27 @@ export function silenceWav(): Uint8Array<ArrayBuffer> {
   return bytes
 }
 
+const FIRST_PIECE_TRIES = 40
+
+const FIRST_PIECE_WAIT_MS = 500
+
+const PIECE_LISTED = "#EXTINF"
+
+export const JSON_SENT = { "content-type": "application/json" }
+
+export async function firstPieceIn(
+  fetching: (path: string) => Promise<Response>,
+  playlist: string
+): Promise<boolean> {
+  for (let tried = 0; tried < FIRST_PIECE_TRIES; tried += 1) {
+    const answered = await fetching(playlist)
+    if (!answered.ok) return false
+    if ((await answered.text()).includes(PIECE_LISTED)) return true
+    await new Promise((settle) => setTimeout(settle, FIRST_PIECE_WAIT_MS))
+  }
+  return false
+}
+
 export async function bodyOf(answered: Response): Promise<Record<string, unknown>> {
   try {
     const said: unknown = await answered.json()
