@@ -11,7 +11,7 @@
 {"beat":11,"event":"Tilly chatters about barrow-lights: marsh gas, she thinks, or something even better."}
 {"beat":12,"event":"Elsie asks Cora what she thinks; Cora says she will write down what they find."}
 {"beat":13,"event":"Tamsin walks on Elsie's other side, and their hands bump, and Tamsin takes hold."}
-{"beat":14,"event":"Elsie swings their joined hands, and Tamsin pretends to mind."}
+{"beat":14,"event":"Elsie swings their joined hands, and Tamsin pretends to mind.","changes":[{"page":"world-relationship/fairweather-elsie-tamsin","note":"Bond: Tamsin 66 → 67 (kindness: Elsie swings their joined hands)","key":"relationshipPoints","from":66,"to":67},{"page":"metric-character-stat/fairweather-elsie-strength","note":"Strength 14 → 15 (Devotion: Tamsin 67% of 21)","key":"value","from":14,"to":15},{"page":"metric-character-stat/fairweather-tamsin-strength","note":"Tamsin Strength 34 → 35 (Devotion: 67% of 21)","key":"value","from":34,"to":35}]}
 {"beat":15,"event":"They reach Bellmoor barrow: a long green mound inside a ring of standing stones.","at":"2026-06-14T10:00:00.000Z","place":"place/fairweather-bellmoor-barrow"}
 {"beat":16,"event":"Harebells nod all over it, and a flock of sheep grazes well away from the stones."}
 {"beat":17,"event":"An old shepherd woman comes up on her crook and says she's the one who posted the notice."}
@@ -30,7 +30,7 @@
 {"beat":30,"event":"Tamsin swears; her arm goes white and dead to the elbow."}
 {"beat":31,"event":"Elsie feels it down the Tether: cold, and no pain at all, which is worse."}
 {"beat":32,"event":"Cora unshutters the lantern, and the grey thing shrinks from the light with a hiss."}
-{"beat":33,"event":"They back out step by step into the sun, Cora holding the light high the whole way."}
+{"beat":33,"event":"They back out step by step into the sun, Cora holding the light high the whole way.","changes":[{"page":"world-relationship/fairweather-elsie-tamsin","note":"Bond: Tamsin 67 → 70 (danger shared: the barrow-wight)","key":"relationshipPoints","from":67,"to":70},{"page":"world-relationship/fairweather-elsie-cora","note":"Bond: Cora 39 → 42 (danger shared: her lantern holds off the barrow-wight)","key":"relationshipPoints","from":39,"to":42},{"page":"world-relationship/fairweather-elsie-tilly","note":"Bond: Tilly 50 → 53 (danger shared: the barrow-wight)","key":"relationshipPoints","from":50,"to":53}]}
 {"beat":34,"event":"Outside Elsie rubs Tamsin's arm between her palms until the feeling comes back in pins."}
 {"beat":35,"event":"Tamsin says she didn't go red; she says it twice, surprised both times."}
 {"beat":36,"event":"Elsie says of course not, and kisses the back of Tamsin's hand where it's still cold."}
@@ -66,7 +66,7 @@
 {"beat":66,"event":"Elsie goes up the mound to her slowly, and the others stand up in the grass."}
 {"beat":67,"event":"The girl says her name is Amara, and please, please don't tell anyone."}
 {"beat":68,"event":"She says she can't sing a note if she knows anyone is listening; she never could."}
-{"beat":69,"event":"Elsie says then they'll keep it, all of them, and looks round at the others."}
+{"beat":69,"event":"Elsie says then they'll keep it, all of them, and looks round at the others.","changes":[{"page":"world-relationship/fairweather-elsie-amara","note":"Bond: Amara 0 → 2 (stand: Elsie promises they'll keep her singing secret)","make":{"title":"Elsie and Amara","world":"world/fairweather","characters":["character-player/fairweather-elsie","character-other/fairweather-amara"],"relationshipPoints":2}}]}
 {"beat":70,"event":"Cora says the notice asks what the lights and singing are, and she has to write it."}
 {"beat":71,"event":"Elsie looks at Cora; Cora says she'll write: lights, harmless, and a singer meaning no harm."}
 {"beat":72,"event":"Cora says she'll give no name, and Amara lets out a shaky breath."}
@@ -83,4 +83,4 @@
 {"beat":83,"event":"Cora sits up with the lantern to watch the doorway, and Elsie says she'll keep her company."}
 {"beat":84,"event":"Elsie sits against Cora's shoulder, and Cora puts half her coat round her."}
 {"beat":85,"event":"Elsie sees the harebell still in Cora's buttonhole; Cora says she forgot it was there."}
-{"beat":86,"event":"Elsie falls asleep on Cora's shoulder, the barrow dark and quiet behind them.","at":"2026-06-14T23:00:00.000Z"}
+{"beat":86,"event":"Elsie falls asleep on Cora's shoulder, the barrow dark and quiet behind them.","at":"2026-06-14T23:00:00.000Z","changes":[{"page":"world-relationship/fairweather-elsie-tamsin","note":"Bond: Tamsin 70 → 71 (Tether: at day's end)","key":"relationshipPoints","from":70,"to":71},{"page":"metric-character-stat/fairweather-elsie-strength","note":"Strength logged","key":"history","append":{"turn":14,"value":15}}]}

@@ -11,7 +11,7 @@ export const fairweather0014Harebells = {
   story: "story-written/fairweather",
   ownLength: 9245,
   prose: "txt",
-  stepStatus: "step-status/mechanics",
+  stepStatus: "step-status/writer",
   beats: "jsonl",
   issues: "txt",
   lore: [
@@ -41,7 +41,7 @@ export const fairweather0014Harebells = {
     "character-other/fairweather-cora",
     "character-other/fairweather-amara",
   ],
-  recordedBy: ["story-recorder/plan", "story-recorder/inventory"],
+  recordedBy: ["story-recorder/plan", "story-recorder/inventory", "story-recorder/mechanics"],
   scenes: [
     "image/image-dbb1b146248bfbb4",
     "image/image-a65ec316e6fbcd96",
