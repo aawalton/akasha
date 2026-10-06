@@ -11,7 +11,7 @@ export const fairweather0012FishGone = {
   story: "story-written/fairweather",
   ownLength: 10096,
   prose: "txt",
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/game-master",
   beats: "jsonl",
   issues: "txt",
   lore: [
@@ -39,7 +39,7 @@ export const fairweather0012FishGone = {
     "character-other/fairweather-tilly",
     "character-other/fairweather-cora",
   ],
-  reviewedBy: ["story-reviewer/holdings", "story-reviewer/continuity", "story-reviewer/scene"],
+  reviewedBy: ["story-reviewer/scene"],
   recordedBy: [
     "story-recorder/plan",
     "story-recorder/mechanics",
