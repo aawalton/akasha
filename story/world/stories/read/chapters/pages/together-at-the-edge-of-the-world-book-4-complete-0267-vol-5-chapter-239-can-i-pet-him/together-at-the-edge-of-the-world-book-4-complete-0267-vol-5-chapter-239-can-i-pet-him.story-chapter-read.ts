@@ -4,6 +4,7 @@ export const togetherAtTheEdgeOfTheWorldBook4Complete0267Vol5Chapter239CanIPetHi
   id: "01a10c2c-819d-7a5f-ae8e-31d37b25e9d1",
   type: "page-type/story-chapter-read",
   slug: "together-at-the-edge-of-the-world-book-4-complete-0267-vol-5-chapter-239-can-i-pet-him",
+  ownProgress: 2535,
   position: 267,
   publishedAt: "2026-10-05",
   unit: "unit/words",

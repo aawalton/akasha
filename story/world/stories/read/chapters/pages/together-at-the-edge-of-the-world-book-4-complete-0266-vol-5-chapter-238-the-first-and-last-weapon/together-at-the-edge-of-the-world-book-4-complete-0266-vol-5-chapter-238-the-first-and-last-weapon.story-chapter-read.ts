@@ -4,6 +4,7 @@ export const togetherAtTheEdgeOfTheWorldBook4Complete0266Vol5Chapter238TheFirstA
   id: "01a0fcb7-93d7-7e41-96eb-50cce4ab95d2",
   type: "page-type/story-chapter-read",
   slug: "together-at-the-edge-of-the-world-book-4-complete-0266-vol-5-chapter-238-the-first-and-last-weapon",
+  ownProgress: 2242,
   position: 266,
   publishedAt: "2026-10-02",
   unit: "unit/words",

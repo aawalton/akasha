@@ -4,6 +4,7 @@ export const togetherAtTheEdgeOfTheWorldBook4Complete0265Vol5Chapter237TheFortre
   id: "01a0f26a-e670-7843-b585-2e7d8d2aecc3",
   type: "page-type/story-chapter-read",
   slug: "together-at-the-edge-of-the-world-book-4-complete-0265-vol-5-chapter-237-the-fortresss-grand-sleep",
+  ownProgress: 2910,
   position: 265,
   publishedAt: "2026-09-30",
   unit: "unit/words",
