@@ -162,6 +162,32 @@ export const encountersHana = {
       ],
     },
     {
+      fact: "Hana keeps two long silk scarves, black and red, that she ties in her hair.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/encounters-sofia",
+        "character-other/encounters-kenzie",
+        "character-other/encounters-priya",
+        "character-other/encounters-hana",
+      ],
+    },
+    {
+      fact: "Priya and Hana have lived together two years and never touched each other.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/encounters-priya",
+        "character-other/encounters-hana",
+      ],
+    },
+    {
+      fact: "Priya asked Hana to be the one who ties her down, with Alan there to fuck her.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/encounters-priya",
+        "character-other/encounters-hana",
+      ],
+    },
+    {
       fact: "Hana is steady in a crisis, and the one who holds hair back at three in the morning.",
       knowers: [
         "lore-disclosure/game-master",
