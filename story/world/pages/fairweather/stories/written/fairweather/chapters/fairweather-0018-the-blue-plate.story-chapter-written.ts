@@ -50,6 +50,6 @@ export const fairweather0018TheBluePlate = {
     "character-other/fairweather-nell",
   ],
   reviewedBy: ["story-reviewer/holdings"],
-  recordedBy: ["story-recorder/plan"],
+  recordedBy: ["story-recorder/plan", "story-recorder/mechanics"],
   scenes: ["image/image-c30e4bf293342176", "image/image-9fa32b7b44febb24"],
 } as const satisfies StoryChapterWritten
