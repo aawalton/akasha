@@ -101,4 +101,5 @@ export const overwhereIii0001TheCopperRing = {
   lastTurn: "overwhere-iii-00-017",
   lastTurnPosition: 17,
   endsAt: "2026-09-30T11:58:00.000Z",
+  outcomes: "jsonl",
 } as const satisfies StoryChapterPlayed
