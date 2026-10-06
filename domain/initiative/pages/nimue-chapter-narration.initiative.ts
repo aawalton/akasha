@@ -11,6 +11,12 @@ export const nimueChapterNarration = {
       statement:
         "A chapter whose narration ends is marked read, and the next chapter follows in the stream.",
     },
+    {
+      statement: "Play Audio starts at the sentence holding the chapter's read progress.",
+    },
+    {
+      statement: "A chapter's read progress follows the words narration has spoken.",
+    },
   ],
   constraints: [
     "The speech workload runs Kokoro on a GTX 1080 Ti on node-02, one inference at a time.",

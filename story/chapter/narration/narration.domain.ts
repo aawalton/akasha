@@ -86,6 +86,18 @@ export const narration = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A narration starts at the sentence holding the chapter's read progress.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The chapter's read progress moves with the words narration has spoken.",
+    },
+    {
+      decisionKind: "decision-kind/absence",
+      statement: "Narration keeps no progress of its own beside a chapter's read progress.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A narration that fails says so rather than going quiet.",
     },
     {
