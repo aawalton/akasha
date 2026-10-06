@@ -181,4 +181,5 @@ export const overwhereI0008TheTollAtCutterSQuarry = {
   lastTurn: "overwhere-i-00-085",
   lastTurnPosition: 85,
   endsAt: "2026-10-03T19:03:00.000Z",
+  outcomes: "jsonl",
 } as const satisfies StoryChapterPlayed

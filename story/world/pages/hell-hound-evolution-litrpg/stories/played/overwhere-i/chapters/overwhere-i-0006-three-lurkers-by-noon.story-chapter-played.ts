@@ -96,4 +96,5 @@ export const overwhereI0006ThreeLurkersByNoon = {
   lastTurn: "overwhere-i-00-041",
   lastTurnPosition: 41,
   endsAt: "2026-09-30T13:02:00.000Z",
+  outcomes: "jsonl",
 } as const satisfies StoryChapterPlayed

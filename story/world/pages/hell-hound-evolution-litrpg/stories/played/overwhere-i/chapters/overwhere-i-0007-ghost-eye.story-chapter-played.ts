@@ -71,4 +71,5 @@ export const overwhereI0007GhostEye = {
   lastTurn: "overwhere-i-00-052",
   lastTurnPosition: 52,
   endsAt: "2026-10-01T13:36:00.000Z",
+  outcomes: "jsonl",
 } as const satisfies StoryChapterPlayed

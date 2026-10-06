@@ -66,4 +66,5 @@ export const overwhereI0011SwornHunterOfWendlow = {
   lastTurn: "overwhere-i-00-121",
   lastTurnPosition: 121,
   endsAt: "2026-10-07T12:48:00.000Z",
+  outcomes: "jsonl",
 } as const satisfies StoryChapterPlayed
