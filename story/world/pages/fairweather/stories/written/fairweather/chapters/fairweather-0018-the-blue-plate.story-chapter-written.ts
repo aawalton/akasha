@@ -4,6 +4,7 @@ export const fairweather0018TheBluePlate = {
   id: "01a112fb-a0f1-7e95-aa6e-9a9078de40df",
   type: "page-type/story-chapter-written",
   slug: "fairweather-0018-the-blue-plate",
+  cover: "image/image-9fa32b7b44febb24",
   position: 18,
   unit: "unit/words",
   title: "The Blue Plate",
@@ -47,5 +48,11 @@ export const fairweather0018TheBluePlate = {
     "character-other/fairweather-amara",
     "character-other/fairweather-nell",
   ],
-  recordedBy: ["story-recorder/plan", "story-recorder/mechanics", "story-recorder/inventory"],
+  recordedBy: [
+    "story-recorder/plan",
+    "story-recorder/mechanics",
+    "story-recorder/inventory",
+    "story-recorder/picture",
+  ],
+  scenes: ["image/image-c30e4bf293342176", "image/image-9fa32b7b44febb24"],
 } as const satisfies StoryChapterWritten
