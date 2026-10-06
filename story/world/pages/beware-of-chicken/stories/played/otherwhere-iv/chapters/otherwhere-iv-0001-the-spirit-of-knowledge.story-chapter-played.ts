@@ -66,4 +66,5 @@ export const otherwhereIv0001TheSpiritOfKnowledge = {
   lastTurn: "otherwhere-iv-00-010",
   lastTurnPosition: 10,
   endsAt: "2026-09-28T19:05:00.000Z",
+  outcomes: "jsonl",
 } as const satisfies StoryChapterPlayed
