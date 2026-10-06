@@ -28,5 +28,14 @@ export const turnMemory = {
       decisionKind: "decision-kind/departure",
       statement: "Each fact is told as the story tell command tells it.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A fact established is told with every learner the memory names for it at once.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A continuation one memory opens takes the next fact its first page has no room for.",
+    },
   ],
 } as const satisfies Module

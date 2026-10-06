@@ -176,6 +176,15 @@ test("a fact already told on a full page gains its knower there rather than movi
   expect(Reflect.get(asked[0]?.given ?? {}, "at")).toBe(AT)
 })
 
+test("a fact told on a continuation gains its knower there when its first page is named", () => {
+  const told = { ...GROVE, facts: [{ fact: "It rains.", knowers: [GAME_MASTER] }] }
+  const pages = { ...PAGES, "lore/grove-2": { path: SECOND_AT, value: told } }
+  const asked = askedFor(tellOf("lore/grove", "It rains.", false), readingOver(pages, []))
+  if (typeof asked === "string") throw new Error(asked)
+  expect(asked.map((one) => [one.at, Reflect.get(one.given, "at")])).toEqual([[REPLACE, SECOND_AT]])
+  expect(JSON.stringify(asked[0])).toContain(HER)
+})
+
 const SECRETS_AT = `${LORE_AT}/grove.lore.secrets.jsonl`
 
 function keepingSecrets(pages: Record<string, Held>, secrets: string): Reading {

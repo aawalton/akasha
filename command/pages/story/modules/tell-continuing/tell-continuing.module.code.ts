@@ -25,6 +25,7 @@ import {
 } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 import { title } from "akasha/page/properties/title.text-property.ts"
 import { lore } from "akasha/story/lore/lore.page-type.ts"
+import { place } from "akasha/story/lore/place/place.page-type.ts"
 import { loreAbout } from "akasha/story/lore/properties/lore-about.relation-property.ts"
 import { loreFact } from "akasha/story/lore/properties/lore-fact.text-property.ts"
 import { loreFacts } from "akasha/story/lore/properties/lore-facts.record-property.ts"
@@ -153,6 +154,30 @@ function familyOf(look: Continuing, slug: string, target: string): Family {
     path = look.listedAt(lore.slug, `${slug}-${count}`)[0]?.path
   }
   return { held, next: `${slug}-${count}` }
+}
+
+function tells(value: Value | null, fact: string): boolean {
+  const facts = value?.[loreFacts.propertySlug]
+  if (!Array.isArray(facts)) return false
+  return facts.some(
+    (one) =>
+      typeof one === "object" && one !== null && Reflect.get(one, loreFact.propertySlug) === fact
+  )
+}
+
+export function tellerOf(named: string, fact: string, look: Continuing): string | null {
+  const address = addressIn(named)
+  const at = pathOf(look, named)
+  if (address.kind !== QUALIFIED || at === null) return null
+  const target = targetOf(named, look.valueAt(at))
+  const base = baseOf(look, address.slug, target)
+  const heads = [lore.slug, place.slug].flatMap((type) => {
+    const path = look.listedAt(type, base)[0]?.path
+    if (path === undefined) return []
+    return targetOf(`${type}/${base}`, look.valueAt(path)) === target ? [path] : []
+  })
+  const family = [at, ...heads, ...familyOf(look, base, target).held]
+  return family.find((one) => tells(look.valueAt(one), fact)) ?? null
 }
 
 type Opened = {

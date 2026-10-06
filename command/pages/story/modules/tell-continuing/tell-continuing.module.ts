@@ -59,6 +59,11 @@ export const tellContinuing = {
       statement: "A fact already told on the page is never moved to a continuation.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A fact told on any page of a family is found there, whichever page of it is named.",
+    },
+    {
       decisionKind: "decision-kind/absence",
       statement: "Nothing here reads the disk.",
     },

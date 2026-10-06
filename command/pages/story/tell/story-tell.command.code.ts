@@ -50,6 +50,7 @@ import {
   secretsLeft,
   spliced,
   type Told,
+  tellerOf,
   withoutSecrets,
 } from "akasha/command/pages/story/modules/tell-continuing/tell-continuing.module.code.ts"
 import { storyTell as page } from "akasha/command/pages/story/tell/story-tell.command.ts"
@@ -248,7 +249,7 @@ export function askedFor(held: Taken, reading: Reading): readonly Asking[] | str
       return `\`${one}\` names no page here, so it cannot come to know a fact`
     }
   }
-  const here = tellingAt(held, reading, at)
+  const here = tellingAt(held, reading, tellerOf(held.page, held.fact, reading) ?? at)
   if (typeof here === "string") return here
   if (!here.fresh || fits(here.laid)) return here.asked
   const known = { fact: held.fact, knowers: knowersFor(held.knowers) }
