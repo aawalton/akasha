@@ -34,103 +34,105 @@
 {"beat":34,"event":"In the guild hall Elsie lays Bess's signed scrap on the clerk's desk; the clerk reads it twice.","at":"2026-06-17T10:20:00.000Z","place":"place/fairweather-guild-hall","present":["character-player/fairweather-elsie","character-other/fairweather-tamsin","character-other/fairweather-tilly","character-other/fairweather-cora","character-other/fairweather-noor"]}
 {"beat":35,"event":"The clerk counts out nine silver lanterns, and Tamsin deals them three by three into three palms.","changes":[{"page":"metric-character-currency/fairweather-elsie","note":"Hobb Mill notice pays 9 lanterns, three each: Elsie 30 pips, 185 → 215","key":"value","from":185,"to":215},{"page":"metric-character-currency/fairweather-tamsin","note":"Hobb Mill notice pays 9 lanterns, three each: Tamsin 30 pips, 196 → 226","key":"value","from":196,"to":226},{"page":"metric-character-currency/fairweather-tilly","note":"Hobb Mill notice pays 9 lanterns, three each: Tilly 30 pips, 244 → 274","key":"value","from":244,"to":274},{"page":"metric-character-experience/fairweather-tamsin","note":"Tamsin gains 50 XP for the E-rank Hobb Mill notice (450 → 500)","key":"value","from":450,"to":500},{"page":"metric-character-experience/fairweather-tilly","note":"Tilly gains 50 XP for the E-rank Hobb Mill notice (130 → 180 / 350)","key":"value","from":130,"to":180}]}
 {"beat":36,"event":"Elsie closes her hand on her three lanterns, warm from the clerk's box, and drops them in her purse."}
-{"beat":37,"event":"Cora writes it in her ledger, then goes behind the charcoal door to file her sheet."}
-{"beat":38,"event":"Elsie buys a pot of tea at the bar for two pips, and a cup of black coffee for two pips more.","changes":[{"page":"metric-character-currency/fairweather-elsie","note":"Elsie buys a pot of tea and Noor's black coffee at the bar, 2 pips each: 4 pips, 215 → 211","key":"value","from":215,"to":211}]}
-{"beat":39,"event":"She carries both across the empty ring to Noor's table, watching her feet the whole way."}
-{"beat":40,"event":"Noor watches her come; Elsie shakes the empty chair hard, knocks on its seat, and sits."}
-{"beat":41,"event":"It holds; she pours her tea and slides the coffee across, its handle toward Noor's glove.","changes":[{"page":"world-relationship/fairweather-elsie-noor","note":"Bond: Noor 3 → 4 (kindness: black coffee, handle to her glove)","key":"relationshipPoints","from":3,"to":4}]}
-{"beat":42,"event":"Elsie asks after the honey cakes; Noor says there were four, and now there are none."}
-{"beat":43,"event":"Noor says it flat as a slate, but her mouth goes in at the corner, and she turns her cup."}
-{"beat":44,"event":"Elsie claps; the lid hops off the teapot at the clap, rolls round the table, and drops in her lap."}
-{"beat":45,"event":"Elsie laughs and puts the lid back; Noor watches her laugh, and this time doesn't look away."}
-{"beat":46,"event":"Elsie asks again if Noor will have lunch with her one day; Noor says, Ask me tomorrow."}
-{"beat":47,"event":"Elsie says that's nearly a yes; Noor says it's nothing of the kind, and drinks her coffee."}
-{"beat":48,"event":"Tilly comes running from the board, braids flying: there's a new F-rank notice, a lost cat."}
-{"beat":49,"event":"She reads it: a lost cat called Biscuit, near Ash Lane, small, white, very friendly; two lanterns."}
-{"beat":50,"event":"It's signed I. Calderón; Tamsin says two lanterns won't buy Margery a whetstone."}
-{"beat":51,"event":"Elsie says somebody's crying over that cat, Pudding taught her that, so that settles it."}
-{"beat":52,"event":"Cora comes back from the Wardens' room, sees the name on the notice, and goes very still."}
-{"beat":53,"event":"Cora says, flatly, that Ines Calderón is registered with the guild, as Elsie is: a Necromancer."}
-{"beat":54,"event":"Tamsin's face falls; Tilly hugs her fat book to her chest and says, at last, a grave thing."}
-{"beat":55,"event":"Elsie asks Cora whether a Necromancer can't love her cat; Cora opens her mouth, and shuts it."}
-{"beat":56,"event":"Elsie takes the notice to the desk and signs for the party; the clerk stamps it without a word.","at":"2026-06-17T10:55:00.000Z"}
-{"beat":57,"event":"At the door Elsie waves; Noor lifts her glove up past her shoulder, and keeps it up.","at":"2026-06-17T11:00:00.000Z","leave":["character-player/fairweather-elsie","character-other/fairweather-tamsin","character-other/fairweather-tilly","character-other/fairweather-cora"]}
-{"beat":58,"event":"Ash Lane runs behind the Hall of Naming, narrow and shady, its tall houses leaning together.","at":"2026-06-17T11:30:00.000Z","place":"place/fairweather-lanternmere","present":["character-player/fairweather-elsie","character-other/fairweather-tamsin","character-other/fairweather-tilly","character-other/fairweather-cora"]}
-{"beat":59,"event":"The narrowest house is painted black, with a little flap cut low in its door."}
-{"beat":60,"event":"Elsie knocks; a long while after, the door opens a crack, and a small pale face looks out."}
-{"beat":61,"event":"The girl is tiny and porcelain-pale in black lace, with a sleek black bob and red-rimmed eyes.","arrive":["character-other/fairweather-ines"]}
-{"beat":62,"event":"Elsie holds up the notice and says they've come about Biscuit, and the girl's dark eyes go wide."}
-{"beat":63,"event":"She whispers that she is Ines, and nobody ever takes her notices, and looks past at Cora's coat."}
-{"beat":64,"event":"Her hands knot in her lace; she whispers that Biscuit isn't quite an ordinary cat."}
-{"beat":65,"event":"Tamsin asks how not ordinary; Ines whispers he's bones, only bones: her kitten, raised again."}
-{"beat":66,"event":"Tamsin takes a step back down off the step; Tilly takes a step up, her eyes shining."}
-{"beat":67,"event":"Elsie asks if he still purrs; Ines stares at her, and says yes, with no throat to purr with."}
-{"beat":68,"event":"Elsie says then he's a cat, and a lost one, and takes Ines's cold little hand: they'll find him.","changes":[{"page":"world-relationship/fairweather-elsie-ines","note":"Bond: Ines 0 → 2 (stand: a cat of bones is still a cat, and they'll find him)","make":{"title":"Elsie and Ines","world":"world/fairweather","characters":["character-player/fairweather-elsie","character-other/fairweather-ines"],"relationshipPoints":2}}]}
-{"beat":69,"event":"Ines looks down at her hand in Elsie's, and her pale face goes pink right up into her fringe."}
-{"beat":70,"event":"Ines whispers he's been gone three days over the roofs, and he's never been gone past one."}
-{"beat":71,"event":"She says he loves warm places best: warm laps, sills in the sun, the step by a bread oven."}
-{"beat":72,"event":"They split up: Tamsin and Tilly take the back yards, Elsie, Ines and Cora the lane's gutters.","at":"2026-06-17T12:00:00.000Z"}
-{"beat":73,"event":"A washerwoman says a skeleton sat on her wall two nights back, and she screamed the street up.","at":"2026-06-17T12:40:00.000Z"}
-{"beat":74,"event":"A boy says something white ran along the gutters toward the lake, rattling like dice in a cup."}
-{"beat":75,"event":"Tamsin comes back pale; a pigeon burst out of a yard at her, and she nearly swung Margery at it.","at":"2026-06-17T13:30:00.000Z"}
-{"beat":76,"event":"At the end of the lane Elsie stops: the Hall's glass dome blazes in the sun, hot as an oven door.","at":"2026-06-17T14:00:00.000Z"}
-{"beat":77,"event":"She says if she were a cat made of bones, that's where she'd want to lie."}
-{"beat":78,"event":"Ines looks up at the blazing dome, and puts her hand over her mouth."}
-{"beat":79,"event":"In the Hall the priestess who named Elsie sees her and goes pale, and sees Ines and goes paler.","at":"2026-06-17T14:15:00.000Z","place":"place/fairweather-hall-of-naming","present":["character-player/fairweather-elsie","character-other/fairweather-tamsin","character-other/fairweather-tilly","character-other/fairweather-cora","character-other/fairweather-ines"]}
-{"beat":80,"event":"Elsie asks her very nicely if they may go up on the roof for a lost cat; she points to a door."}
-{"beat":81,"event":"A narrow stair winds up inside the wall and comes out on the leads round the foot of the dome."}
-{"beat":82,"event":"On the far side, on the hot glass in full sun, lies a small white skeleton cat, curled up.","at":"2026-06-17T14:30:00.000Z"}
-{"beat":83,"event":"He's up the dome's curve above the gutter, and one hind foot is caught fast in a crack in the lead."}
-{"beat":84,"event":"Ines calls him in a whisper; he lifts his little skull and mews, a thin dry sound, and can't come."}
-{"beat":85,"event":"Cora says nobody goes out on that glass; it's a long way down to the stones of the hall floor."}
-{"beat":86,"event":"Elsie pulls off her boots, says she's the lightest of them, and crawls onto the warm glass."}
-{"beat":87,"event":"Cora drops flat on the leads behind her and grips her by the ankle, hard, with both hands."}
-{"beat":88,"event":"The glass is hot under her palms; far down through it she sees the silver circle she was named in."}
-{"beat":89,"event":"She hums to him without knowing it as she inches close, and he stops struggling to listen."}
-{"beat":90,"event":"She works his tiny foot bones out of the crack one by one, the way she worked the mill stones."}
-{"beat":91,"event":"Biscuit climbs into the crook of her arm, light as a bundle of twigs, and begins to purr."}
-{"beat":92,"event":"The purr buzzes up her arm, warm from the glass, and Elsie laughs out loud on top of the dome."}
-{"beat":93,"event":"Cora draws her back by the ankle, hand over hand, until she's on the leads again."}
-{"beat":94,"event":"Cora's face is white; she lets go at last and sits back on her heels, breathing as if she ran."}
-{"beat":95,"event":"Elsie puts Biscuit into Ines's arms; Ines holds him under her chin and cries without a sound.","changes":[{"page":"world-relationship/fairweather-elsie-ines","note":"Bond: Ines 2 → 4 (stand: Elsie crawls out on the dome for Biscuit)","key":"relationshipPoints","from":2,"to":4}]}
-{"beat":96,"event":"Elsie sits down by Cora on the leads and pulls her boots back on; Cora's hands are shaking."}
-{"beat":97,"event":"Elsie takes them and says she's all right, look; Cora says, very low, Don't do that again.","changes":[{"page":"world-relationship/fairweather-elsie-cora","note":"Bond: Cora 50 → 53 (danger shared: she holds Elsie's ankle on the dome; cap of 5)","key":"relationshipPoints","from":50,"to":53},{"page":"metric-character-stat/fairweather-elsie-heart","note":"Heart 16 → 17 (Devotion: Cora 53% of 21)","key":"value","from":16,"to":17},{"page":"metric-character-stat/fairweather-cora-heart","note":"Cora Heart 31 → 32 (Devotion: 53% of 21)","key":"value","from":31,"to":32}]}
-{"beat":98,"event":"Elsie says she'd do it for any of them; Cora looks at her, and doesn't say anything to that."}
-{"beat":99,"event":"On Ash Lane Ines asks them in, so quietly it's clear she has never asked anyone in.","at":"2026-06-17T15:30:00.000Z","place":"place/fairweather-lanternmere","present":["character-player/fairweather-elsie","character-other/fairweather-tamsin","character-other/fairweather-tilly","character-other/fairweather-cora","character-other/fairweather-ines"]}
-{"beat":100,"event":"Her front room is small, full of books and dried flowers, with birdcages hung up, doors open."}
-{"beat":101,"event":"Tamsin stays standing by the door, as far from Biscuit as the little room allows."}
-{"beat":102,"event":"Biscuit trots straight to her, climbs her boot, and settles purring in her lap when she sits."}
-{"beat":103,"event":"Tamsin sits rigid with her hands in the air, and asks in a whisper what she's meant to do."}
-{"beat":104,"event":"Elsie says stroke him; Tamsin does, with one finger, and her face goes from horror to wonder.","changes":[{"page":"world-relationship/fairweather-elsie-tamsin","note":"Bond: Tamsin 81 → 84 (held through a fear: Biscuit in her lap)","key":"relationshipPoints","from":81,"to":84}]}
-{"beat":105,"event":"Ines makes tea, but her hands shake on the pot, so Elsie takes it gently and pours for her."}
-{"beat":106,"event":"Tilly asks Ines a hundred questions about raising things; Ines answers every one, pleased."}
-{"beat":107,"event":"Ines asks Elsie, low, if she is the Enthraller; the whole city talks of her, she says."}
-{"beat":108,"event":"Elsie says yes, cheerfully, it's a dreadful name; she asks if Necromancer is a dreadful one too."}
-{"beat":109,"event":"Ines says people cross the lane when they see her, and in the square they look at Elsie the same."}
-{"beat":110,"event":"Elsie hadn't noticed; she thinks of the silent hall, and the clerk's stopped pen, and goes quiet."}
-{"beat":111,"event":"Ines whispers they'll watch her all her life, waiting for her to be what the name says."}
-{"beat":112,"event":"Elsie says then they'll be waiting a very long time; Ines looks at her, and very nearly smiles.","changes":[{"page":"world-relationship/fairweather-elsie-ines","note":"Bond: Ines 4 → 5 (confidence: the name they wait on; cut to the cap of 5)","key":"relationshipPoints","from":4,"to":5}]}
-{"beat":113,"event":"Cora stands by the window with her ledger open, and her pen doesn't move."}
-{"beat":114,"event":"Elsie takes out her notebook and asks Ines what her favourite things are."}
-{"beat":115,"event":"Ines says hot milk with honey, the hour before dawn, and Biscuit asleep on her feet."}
-{"beat":116,"event":"Elsie writes it down and draws a tiny cat of bones by her name; Ines looks at it a long time."}
-{"beat":117,"event":"Ines says she'll tell the guild clerk in the morning that Biscuit's home, so the notice pays."}
-{"beat":118,"event":"At the door Elsie hugs her; Ines goes stiff, then still, her face against Elsie's shoulder."}
-{"beat":119,"event":"Ines whispers that Elsie may come again, if she likes; Elsie says she will, and means it."}
-{"beat":120,"event":"They walk back toward Brightwater Square in the long gold light off the lake.","at":"2026-06-17T17:30:00.000Z","leave":["character-other/fairweather-ines"]}
-{"beat":121,"event":"Tamsin says she had a dead cat in her lap and it purred, and she's going to tell her mum."}
-{"beat":122,"event":"Tilly says it's the best day of her whole life, and writes Biscuit down in the back of her book."}
-{"beat":123,"event":"At the guild hall doors the hall is shutting for the day, and Cora stops on the top step.","at":"2026-06-17T18:00:00.000Z","place":"place/fairweather-guild-hall","present":["character-player/fairweather-elsie","character-other/fairweather-tamsin","character-other/fairweather-tilly","character-other/fairweather-cora"]}
-{"beat":124,"event":"She opens her ledger and shows Elsie the line: Ash Lane. Lost cat, found. Skills used, none."}
-{"beat":125,"event":"Elsie squeezes Cora's bare hand and finds it warm for once, and tells her so, delighted."}
-{"beat":126,"event":"Cora says she has her report to write; she says it to the doorframe, red to the collar."}
-{"beat":127,"event":"Cora goes off along the canal toward Wick Lane; she doesn't look back, and then she does.","at":"2026-06-17T18:10:00.000Z","leave":["character-other/fairweather-cora"]}
-{"beat":128,"event":"Tamsin heads off toward the docks and Tilly toward Pickle Row, both waving till the corner.","at":"2026-06-17T18:20:00.000Z","leave":["character-other/fairweather-tamsin","character-other/fairweather-tilly"]}
-{"beat":129,"event":"In the Honeycomb kitchen after closing Elsie bakes honey cakes with Bess's fine new flour.","at":"2026-06-17T19:00:00.000Z","place":"place/fairweather-honeycomb","present":["character-player/fairweather-elsie"]}
-{"beat":130,"event":"She brushes them with the last of the comb and counts twenty, and they come out crackling."}
-{"beat":131,"event":"She sets them out on the blue plate in the window, a fresh row, under the red lantern."}
-{"beat":132,"event":"Up in the attic she adds Biscuit to Ines's page, and draws a little sun on a dome above him.","at":"2026-06-17T21:00:00.000Z","place":"place/fairweather-honeycomb-attic"}
-{"beat":133,"event":"She knits by the round window, and the second glove's thumb takes shape between her needles."}
-{"beat":134,"event":"She tries the finished glove on her own hand again; its fingers flap at the ends: just right."}
-{"beat":135,"event":"She lays the half-glove on the sill beside the finished one, by Moonpenny, nearly a pair."}
-{"beat":136,"event":"She tells Moonpenny about the bones that purred, and blows out the candle.","at":"2026-06-17T21:30:00.000Z","changes":[{"page":"metric-character-currency/fairweather-elsie","note":"Elsie ends the chapter with 211 pips","key":"history","append":{"turn":17,"value":211}},{"page":"metric-character-currency/fairweather-tamsin","note":"Tamsin ends the chapter with 226 pips","key":"history","append":{"turn":17,"value":226}},{"page":"metric-character-currency/fairweather-tilly","note":"Tilly ends the chapter with 274 pips","key":"history","append":{"turn":17,"value":274}},{"page":"world-relationship/fairweather-elsie-tamsin","note":"Bond: Tamsin 84 → 85 (Tether: at day's end)","key":"relationshipPoints","from":84,"to":85},{"page":"metric-character-experience/fairweather-tamsin","note":"Experience logged","key":"history","append":{"turn":17,"value":500}},{"page":"metric-character-experience/fairweather-tilly","note":"Experience logged","key":"history","append":{"turn":17,"value":180}},{"page":"metric-character-stat/fairweather-elsie-heart","note":"Heart logged","key":"history","append":{"turn":17,"value":17}}]}
+{"beat":37,"event":"As the purse strings close, a System window opens in the air before her: level 4."}
+{"beat":38,"event":"Tamsin whoops and thumps her back; Tilly reads it over her arm; Cora looks at it a long moment."}
+{"beat":39,"event":"Cora writes it in her ledger, then goes behind the charcoal door to file her sheet."}
+{"beat":40,"event":"Elsie buys a pot of tea at the bar for two pips, and a cup of black coffee for two pips more."}
+{"beat":41,"event":"She carries both across the empty ring to Noor's table, watching her feet the whole way."}
+{"beat":42,"event":"Noor watches her come; Elsie shakes the empty chair hard, knocks on its seat, and sits."}
+{"beat":43,"event":"It holds; she pours her tea and slides the coffee across, its handle toward Noor's glove."}
+{"beat":44,"event":"Elsie asks after the honey cakes; Noor says there were four, and now there are none."}
+{"beat":45,"event":"Noor says it flat as a slate, but her mouth goes in at the corner, and she turns her cup."}
+{"beat":46,"event":"Elsie claps; the lid hops off the teapot at the clap, rolls round the table, and drops in her lap."}
+{"beat":47,"event":"Elsie laughs and puts the lid back; Noor watches her laugh, and this time doesn't look away."}
+{"beat":48,"event":"Elsie asks again if Noor will have lunch with her one day; Noor says, Ask me tomorrow."}
+{"beat":49,"event":"Elsie says that's nearly a yes; Noor says it's nothing of the kind, and drinks her coffee."}
+{"beat":50,"event":"Tilly comes running from the board, braids flying: there's a new F-rank notice, a lost cat."}
+{"beat":51,"event":"She reads it: a lost cat called Biscuit, near Ash Lane, small, white, very friendly; two lanterns."}
+{"beat":52,"event":"It's signed I. Calderón; Tamsin says two lanterns won't buy Margery a whetstone."}
+{"beat":53,"event":"Elsie says somebody's crying over that cat, Pudding taught her that, so that settles it."}
+{"beat":54,"event":"Cora comes back from the Wardens' room, sees the name on the notice, and goes very still."}
+{"beat":55,"event":"Cora says, flatly, that Ines Calderón is registered with the guild, as Elsie is: a Necromancer."}
+{"beat":56,"event":"Tamsin's face falls; Tilly hugs her fat book to her chest and says, at last, a grave thing."}
+{"beat":57,"event":"Elsie asks Cora whether a Necromancer can't love her cat; Cora opens her mouth, and shuts it."}
+{"beat":58,"event":"Elsie takes the notice to the desk and signs for the party; the clerk stamps it without a word.","at":"2026-06-17T10:55:00.000Z"}
+{"beat":59,"event":"At the door Elsie waves; Noor lifts her glove up past her shoulder, and keeps it up.","at":"2026-06-17T11:00:00.000Z","leave":["character-player/fairweather-elsie","character-other/fairweather-tamsin","character-other/fairweather-tilly","character-other/fairweather-cora"]}
+{"beat":60,"event":"Ash Lane runs behind the Hall of Naming, narrow and shady, its tall houses leaning together.","at":"2026-06-17T11:30:00.000Z","place":"place/fairweather-lanternmere","present":["character-player/fairweather-elsie","character-other/fairweather-tamsin","character-other/fairweather-tilly","character-other/fairweather-cora"]}
+{"beat":61,"event":"The narrowest house is painted black, with a little flap cut low in its door."}
+{"beat":62,"event":"Elsie knocks; a long while after, the door opens a crack, and a small pale face looks out."}
+{"beat":63,"event":"The girl is tiny and porcelain-pale in black lace, with a sleek black bob and red-rimmed eyes.","arrive":["character-other/fairweather-ines"]}
+{"beat":64,"event":"Elsie holds up the notice and says they've come about Biscuit, and the girl's dark eyes go wide."}
+{"beat":65,"event":"She whispers that she is Ines, and nobody ever takes her notices, and looks past at Cora's coat."}
+{"beat":66,"event":"Her hands knot in her lace; she whispers that Biscuit isn't quite an ordinary cat."}
+{"beat":67,"event":"Tamsin asks how not ordinary; Ines whispers he's bones, only bones: her kitten, raised again."}
+{"beat":68,"event":"Tamsin takes a step back down off the step; Tilly takes a step up, her eyes shining."}
+{"beat":69,"event":"Elsie asks if he still purrs; Ines stares at her, and says yes, with no throat to purr with."}
+{"beat":70,"event":"Elsie says then he's a cat, and a lost one, and takes Ines's cold little hand: they'll find him."}
+{"beat":71,"event":"Ines looks down at her hand in Elsie's, and her pale face goes pink right up into her fringe."}
+{"beat":72,"event":"Ines whispers he's been gone three days over the roofs, and he's never been gone past one."}
+{"beat":73,"event":"She says he loves warm places best: warm laps, sills in the sun, the step by a bread oven."}
+{"beat":74,"event":"They split up: Tamsin and Tilly take the back yards, Elsie, Ines and Cora the lane's gutters.","at":"2026-06-17T12:00:00.000Z"}
+{"beat":75,"event":"A washerwoman says a skeleton sat on her wall two nights back, and she screamed the street up.","at":"2026-06-17T12:40:00.000Z"}
+{"beat":76,"event":"A boy says something white ran along the gutters toward the lake, rattling like dice in a cup."}
+{"beat":77,"event":"Tamsin comes back pale; a pigeon burst out of a yard at her, and she nearly swung Margery at it.","at":"2026-06-17T13:30:00.000Z"}
+{"beat":78,"event":"At the end of the lane Elsie stops: the Hall's glass dome blazes in the sun, hot as an oven door.","at":"2026-06-17T14:00:00.000Z"}
+{"beat":79,"event":"She says if she were a cat made of bones, that's where she'd want to lie."}
+{"beat":80,"event":"Ines looks up at the blazing dome, and puts her hand over her mouth."}
+{"beat":81,"event":"In the Hall the priestess who named Elsie sees her and goes pale, and sees Ines and goes paler.","at":"2026-06-17T14:15:00.000Z","place":"place/fairweather-hall-of-naming","present":["character-player/fairweather-elsie","character-other/fairweather-tamsin","character-other/fairweather-tilly","character-other/fairweather-cora","character-other/fairweather-ines"]}
+{"beat":82,"event":"Elsie asks her very nicely if they may go up on the roof for a lost cat; she points to a door."}
+{"beat":83,"event":"A narrow stair winds up inside the wall and comes out on the leads round the foot of the dome."}
+{"beat":84,"event":"On the far side, on the hot glass in full sun, lies a small white skeleton cat, curled up.","at":"2026-06-17T14:30:00.000Z"}
+{"beat":85,"event":"He's up the dome's curve above the gutter, and one hind foot is caught fast in a crack in the lead."}
+{"beat":86,"event":"Ines calls him in a whisper; he lifts his little skull and mews, a thin dry sound, and can't come."}
+{"beat":87,"event":"Cora says nobody goes out on that glass; it's a long way down to the stones of the hall floor."}
+{"beat":88,"event":"Elsie pulls off her boots, says she's the lightest of them, and crawls onto the warm glass."}
+{"beat":89,"event":"Cora drops flat on the leads behind her and grips her by the ankle, hard, with both hands."}
+{"beat":90,"event":"The glass is hot under her palms; far down through it she sees the silver circle she was named in."}
+{"beat":91,"event":"She hums to him without knowing it as she inches close, and he stops struggling to listen."}
+{"beat":92,"event":"She works his tiny foot bones out of the crack one by one, the way she worked the mill stones."}
+{"beat":93,"event":"Biscuit climbs into the crook of her arm, light as a bundle of twigs, and begins to purr."}
+{"beat":94,"event":"The purr buzzes up her arm, warm from the glass, and Elsie laughs out loud on top of the dome."}
+{"beat":95,"event":"Cora draws her back by the ankle, hand over hand, until she's on the leads again."}
+{"beat":96,"event":"Cora's face is white; she lets go at last and sits back on her heels, breathing as if she ran."}
+{"beat":97,"event":"Elsie puts Biscuit into Ines's arms; Ines holds him under her chin and cries without a sound."}
+{"beat":98,"event":"Elsie sits down by Cora on the leads and pulls her boots back on; Cora's hands are shaking."}
+{"beat":99,"event":"Elsie takes them and says she's all right, look; Cora says, very low, Don't do that again."}
+{"beat":100,"event":"Elsie says she'd do it for any of them; Cora looks at her, and doesn't say anything to that."}
+{"beat":101,"event":"On Ash Lane Ines asks them in, so quietly it's clear she has never asked anyone in.","at":"2026-06-17T15:30:00.000Z","place":"place/fairweather-lanternmere","present":["character-player/fairweather-elsie","character-other/fairweather-tamsin","character-other/fairweather-tilly","character-other/fairweather-cora","character-other/fairweather-ines"]}
+{"beat":102,"event":"Her front room is small, full of books and dried flowers, with birdcages hung up, doors open."}
+{"beat":103,"event":"Tamsin stays standing by the door, as far from Biscuit as the little room allows."}
+{"beat":104,"event":"Biscuit trots straight to her, climbs her boot, and settles purring in her lap when she sits."}
+{"beat":105,"event":"Tamsin sits rigid with her hands in the air, and asks in a whisper what she's meant to do."}
+{"beat":106,"event":"Elsie says stroke him; Tamsin does, with one finger, and her face goes from horror to wonder."}
+{"beat":107,"event":"Ines makes tea, but her hands shake on the pot, so Elsie takes it gently and pours for her."}
+{"beat":108,"event":"Tilly asks Ines a hundred questions about raising things; Ines answers every one, pleased."}
+{"beat":109,"event":"Ines asks Elsie, low, if she is the Enthraller; the whole city talks of her, she says."}
+{"beat":110,"event":"Elsie says yes, cheerfully, it's a dreadful name; she asks if Necromancer is a dreadful one too."}
+{"beat":111,"event":"Ines says people cross the lane when they see her, and in the square they look at Elsie the same."}
+{"beat":112,"event":"Elsie hadn't noticed; she thinks of the silent hall, and the clerk's stopped pen, and goes quiet."}
+{"beat":113,"event":"Ines whispers they'll watch her all her life, waiting for her to be what the name says."}
+{"beat":114,"event":"Elsie says then they'll be waiting a very long time; Ines looks at her, and very nearly smiles."}
+{"beat":115,"event":"Cora stands by the window with her ledger open, and her pen doesn't move."}
+{"beat":116,"event":"Elsie takes out her notebook and asks Ines what her favourite things are."}
+{"beat":117,"event":"Ines says hot milk with honey, the hour before dawn, and Biscuit asleep on her feet."}
+{"beat":118,"event":"Elsie writes it down and draws a tiny cat of bones by her name; Ines looks at it a long time."}
+{"beat":119,"event":"Ines says she'll tell the guild clerk in the morning that Biscuit's home, so the notice pays."}
+{"beat":120,"event":"At the door Elsie hugs her; Ines goes stiff, then still, her face against Elsie's shoulder."}
+{"beat":121,"event":"Ines whispers that Elsie may come again, if she likes; Elsie says she will, and means it."}
+{"beat":122,"event":"They walk back toward Brightwater Square in the long gold light off the lake.","at":"2026-06-17T17:30:00.000Z","leave":["character-other/fairweather-ines"]}
+{"beat":123,"event":"Tamsin says she had a dead cat in her lap and it purred, and she's going to tell her mum."}
+{"beat":124,"event":"Tilly says it's the best day of her whole life, and writes Biscuit down in the back of her book."}
+{"beat":125,"event":"At the guild hall doors the hall is shutting for the day, and Cora stops on the top step.","at":"2026-06-17T18:00:00.000Z","place":"place/fairweather-guild-hall","present":["character-player/fairweather-elsie","character-other/fairweather-tamsin","character-other/fairweather-tilly","character-other/fairweather-cora"]}
+{"beat":126,"event":"She opens her ledger and shows Elsie the line: Ash Lane. Lost cat, found. Skills used, none."}
+{"beat":127,"event":"Elsie squeezes Cora's bare hand and finds it warm for once, and tells her so, delighted."}
+{"beat":128,"event":"Cora says she has her report to write; she says it to the doorframe, red to the collar."}
+{"beat":129,"event":"Cora goes off along the canal toward Wick Lane; she doesn't look back, and then she does.","at":"2026-06-17T18:10:00.000Z","leave":["character-other/fairweather-cora"]}
+{"beat":130,"event":"Tamsin heads off toward the docks and Tilly toward Pickle Row, both waving till the corner.","at":"2026-06-17T18:20:00.000Z","leave":["character-other/fairweather-tamsin","character-other/fairweather-tilly"]}
+{"beat":131,"event":"In the Honeycomb kitchen after closing Elsie bakes honey cakes with Bess's fine new flour.","at":"2026-06-17T19:00:00.000Z","place":"place/fairweather-honeycomb","present":["character-player/fairweather-elsie"]}
+{"beat":132,"event":"She brushes them with the last of the comb and counts twenty, and they come out crackling."}
+{"beat":133,"event":"She sets them out on the blue plate in the window, a fresh row, under the red lantern."}
+{"beat":134,"event":"Up in the attic she adds Biscuit to Ines's page, and draws a little sun on a dome above him.","at":"2026-06-17T21:00:00.000Z","place":"place/fairweather-honeycomb-attic"}
+{"beat":135,"event":"She knits by the round window, and the second glove's thumb takes shape between her needles."}
+{"beat":136,"event":"She tries the finished glove on her own hand again; its fingers flap at the ends: just right."}
+{"beat":137,"event":"She lays the half-glove on the sill beside the finished one, by Moonpenny, nearly a pair."}
+{"beat":138,"event":"She tells Moonpenny about the bones that purred, and blows out the candle.","at":"2026-06-17T21:30:00.000Z"}
