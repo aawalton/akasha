@@ -22,6 +22,7 @@ import {
   placedOf,
 } from "akasha/story/chapter/narration/modules/playhead/narration-playhead.module.code.ts"
 import type { ChapterHeld } from "akasha/story/chapter/narration/modules/telling/narration-telling.module.code.ts"
+import Hls, { type ErrorData } from "hls.js"
 import {
   createContext,
   type ReactNode,
@@ -65,9 +66,23 @@ type Session = {
   readonly read: Set<string>
   ended: boolean
   before: number
+  leapt: boolean
 }
 
 const HLS = "application/vnd.apple.mpegurl"
+
+const CHROMIUM = /\bChrome\//
+
+const HELD_AT_START = {
+  startPosition: 0,
+  liveSyncDurationCount: Number.MAX_SAFE_INTEGER,
+  liveMaxLatencyDurationCount: Number.POSITIVE_INFINITY,
+  liveDurationInfinity: true,
+} as const
+
+function playsHlsItself(audio: HTMLAudioElement): boolean {
+  return audio.canPlayType(HLS) !== "" && !CHROMIUM.test(navigator.userAgent)
+}
 
 const CHAPTERS_EVERY_MS = 4000
 
@@ -99,6 +114,7 @@ export function NarrationProvider({
   const asking = useRef<PageAudioAsked | null>(null)
   const silence = useRef<string | null>(null)
   const stall = useRef<ReturnType<typeof setTimeout> | null>(null)
+  const streamed = useRef<Hls | null>(null)
   const [shown, setShown] = useState<NarrationShown>({ kind: "idle" })
   const [chapter, setChapter] = useState<ChapterHeld | null>(null)
   const [halted, setHalted] = useState(true)
@@ -112,6 +128,8 @@ export function NarrationProvider({
   }, [])
 
   const dropSession = useCallback((): undefined => {
+    streamed.current?.destroy()
+    streamed.current = null
     const was = session.current
     session.current = null
     if (was !== null) {
@@ -167,6 +185,7 @@ export function NarrationProvider({
         read: new Set(),
         ended: false,
         before: 0,
+        leapt: false,
       }
       setChapter(opened)
       nowPlayingOf(opened)
@@ -175,7 +194,16 @@ export function NarrationProvider({
         return
       }
       if (asking.current !== asked) return
-      audio.src = reach.url(playlist)
+      if (playsHlsItself(audio)) audio.src = reach.url(playlist)
+      else {
+        const hls = new Hls(HELD_AT_START)
+        streamed.current = hls
+        hls.on(Hls.Events.ERROR, (_event: string, said: ErrorData) => {
+          if (said.fatal && streamed.current === hls) fail(`The stream failed: ${said.details}`)
+        })
+        hls.loadSource(reach.url(playlist))
+        hls.attachMedia(audio)
+      }
       try {
         await audio.play()
         setShown({ kind: "playing", asked })
@@ -192,8 +220,8 @@ export function NarrationProvider({
       if (audio === null) return
       asking.current = asked
       dropSession()
-      if (audio.canPlayType(HLS) === "") {
-        fail("This browser cannot play an HLS stream; narration plays in Safari and the iOS app.")
+      if (!playsHlsItself(audio) && !Hls.isSupported()) {
+        fail("This browser cannot play an HLS stream.")
         return
       }
       silence.current ??= URL.createObjectURL(new Blob([silenceWav()], { type: "audio/wav" }))
@@ -236,11 +264,14 @@ export function NarrationProvider({
     if (audio === null || playing === null) return
     const seconds = audio.currentTime
     const before = playing.before
+    const leapt = playing.leapt
     playing.before = seconds
+    playing.leapt = false
     const acts = actsAt({
       placed: playing.placed,
       before,
       seconds,
+      leapt,
       asked: playing.asked,
       read: playing.read,
       ended: playing.ended,
@@ -286,6 +317,7 @@ export function NarrationProvider({
         placed: playing.placed,
         before: playing.before,
         seconds: playing.before + 1,
+        leapt: playing.leapt,
         asked: playing.asked,
         read: playing.read,
         ended: true,
@@ -368,7 +400,11 @@ export function NarrationProvider({
     const ended = (): undefined => {
       if (audio.src !== silence.current) finished()
     }
+    const seeking = (): undefined => {
+      if (session.current !== null) session.current.leapt = true
+    }
     const listened: [string, () => undefined][] = [
+      ["seeking", seeking],
       ["timeupdate", heard],
       ["playing", heard],
       ["waiting", waiting],

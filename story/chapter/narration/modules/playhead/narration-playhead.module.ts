@@ -22,6 +22,15 @@ export const narrationPlayhead = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "A leap is told by the audio element seeking rather than by how far the playhead moved.",
+    },
+    {
+      decisionKind: "decision-kind/constraint",
+      statement: "A locked phone may tell the page of its playhead rarely.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "Going back more than a moment into a chapter returns to that chapter's start.",
     },
   ],

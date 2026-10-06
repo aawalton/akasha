@@ -240,7 +240,8 @@
     "@protomaps/basemaps": "^5.7.2",
     "maplibre-gl": "^5.24.0",
     "pmtiles": "^4.4.1",
-    "@fontsource-variable/literata": "^5.2.5"
+    "@fontsource-variable/literata": "^5.2.5",
+    "hls.js": "^1.7.3"
   },
   "peerDependencies": {
     "vscode": "^1.85.0"

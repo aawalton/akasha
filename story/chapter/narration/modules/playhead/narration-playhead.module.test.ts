@@ -29,48 +29,60 @@ describe("chapterAt", () => {
 
 describe("actsAt", () => {
   const asked = new Set(["two"])
+  const played = { leapt: false, asked, read: none, ended: false }
 
   test("playing the last chapter listed asks for the next one once", () => {
     const first = placed.slice(0, 1)
+    expect(actsAt({ ...played, placed: first, before: 0, seconds: 1, asked: none })).toEqual({
+      askNextAfter: "one",
+      read: [],
+    })
     expect(
-      actsAt({ placed: first, before: 0, seconds: 1, asked: none, read: none, ended: false })
-    ).toEqual({ askNextAfter: "one", read: [] })
-    expect(
-      actsAt({
-        placed: first,
-        before: 0,
-        seconds: 1,
-        asked: new Set(["one"]),
-        read: none,
-        ended: false,
-      }).askNextAfter
+      actsAt({ ...played, placed: first, before: 0, seconds: 1, asked: new Set(["one"]) })
+        .askNextAfter
     ).toBeNull()
+  })
+
+  test("playing into the chapter appended last asks for the one after it", () => {
+    const honeyCake = placedOf([
+      { id: "honey-cake", title: "Honey Cake", startSeconds: 0, durationSeconds: 2652.8 },
+      { id: "marigold", title: "The Marigold", startSeconds: 2652.8, durationSeconds: 2606.5 },
+    ])
+    const listening = { ...played, placed: honeyCake, asked: new Set(["honey-cake"]) }
+    expect(actsAt({ ...listening, before: 2000, seconds: 2001 })).toEqual({
+      askNextAfter: null,
+      read: [],
+    })
+    expect(actsAt({ ...listening, before: 2652.5, seconds: 2652.9 })).toEqual({
+      askNextAfter: "marigold",
+      read: ["honey-cake"],
+    })
   })
 
   test("a narration that has ended asks for no next chapter", () => {
     expect(
-      actsAt({ placed, before: 119, seconds: 120, asked: none, read: none, ended: true })
+      actsAt({ ...played, placed, before: 119, seconds: 120, asked: none, ended: true })
         .askNextAfter
     ).toBeNull()
   })
 
   test("a chapter played across its end is read, once", () => {
+    expect(actsAt({ ...played, placed, before: 99.5, seconds: 100.5 })).toEqual({
+      askNextAfter: null,
+      read: ["one"],
+    })
     expect(
-      actsAt({ placed, before: 99.5, seconds: 100.5, asked, read: none, ended: false })
-    ).toEqual({ askNextAfter: null, read: ["one"] })
-    expect(
-      actsAt({ placed, before: 99.5, seconds: 100.5, asked, read: new Set(["one"]), ended: false })
-        .read
+      actsAt({ ...played, placed, before: 99.5, seconds: 100.5, read: new Set(["one"]) }).read
     ).toEqual([])
   })
 
+  test("a chapter ended between sparse ticks of a locked phone is read", () => {
+    expect(actsAt({ ...played, placed, before: 40, seconds: 130 }).read).toEqual(["one"])
+  })
+
   test("a leap past a chapter's end reads nothing", () => {
-    expect(
-      actsAt({ placed, before: 10, seconds: 101, asked, read: none, ended: false }).read
-    ).toEqual([])
-    expect(
-      actsAt({ placed, before: 101, seconds: 102, asked, read: none, ended: false }).read
-    ).toEqual([])
+    expect(actsAt({ ...played, placed, before: 10, seconds: 101, leapt: true }).read).toEqual([])
+    expect(actsAt({ ...played, placed, before: 101, seconds: 102 }).read).toEqual([])
   })
 })
 

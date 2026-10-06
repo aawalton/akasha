@@ -25,6 +25,18 @@ export const narrationPlayer = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "Safari plays the stream itself, and every other browser plays it through hls.js.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "hls.js holds a growing stream at its start rather than chasing its newest piece.",
+    },
+    {
+      decisionKind: "decision-kind/constraint",
+      statement: "Chrome plays HLS itself but leaps to the newest piece of a growing stream.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A browser that cannot play an HLS stream is told so rather than played nothing.",
     },
     {
