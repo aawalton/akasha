@@ -286,5 +286,14 @@ export const fairweatherTamsin = {
         "character-other/fairweather-tamsin",
       ],
     },
+    {
+      fact: "Tamsin said sorry to the Hounds' shield-bearer, who said the red broke her arm, not Tamsin.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-tamsin",
+        "character-other/fairweather-tilly",
+      ],
+    },
   ],
 } as const satisfies Lore

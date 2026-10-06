@@ -114,5 +114,15 @@ export const fairweatherOldTollBridge = {
         "character-other/fairweather-cora",
       ],
     },
+    {
+      fact: "The night after the weir was cleared, the trolls fished all night and took no sheep.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-tamsin",
+        "character-other/fairweather-tilly",
+        "character-other/fairweather-cora",
+      ],
+    },
   ],
 } as const satisfies Place

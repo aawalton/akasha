@@ -369,5 +369,23 @@ export const fairweatherElsie = {
         "character-other/fairweather-cora",
       ],
     },
+    {
+      fact: "The guildmaster told Elsie an Enthraller who talks to trolls frightens folk more, because it works.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-cora",
+      ],
+    },
+    {
+      fact: "The Fairweather party took the Bellmoor barrow notice for the fourteenth.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-tamsin",
+        "character-other/fairweather-tilly",
+        "character-other/fairweather-cora",
+      ],
+    },
   ],
 } as const satisfies Lore

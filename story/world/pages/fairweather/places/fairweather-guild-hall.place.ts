@@ -238,7 +238,13 @@ export const fairweatherGuildHall = {
     },
     {
       fact: "The guildmaster has heard of the toll bridge, and wants Elsie and Cora upstairs as they come in.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-tamsin",
+        "character-other/fairweather-tilly",
+        "character-other/fairweather-cora",
+      ],
     },
     {
       fact: "By the thirteenth the guild hall has heard that the Enthraller talked a troll into a bargain.",
@@ -250,11 +256,33 @@ export const fairweatherGuildHall = {
     },
     {
       fact: "The E-rank barrow notice: lights and singing by night at Bellmoor barrow, ten lanterns.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-tamsin",
+        "character-other/fairweather-tilly",
+        "character-other/fairweather-cora",
+      ],
     },
     {
       fact: "The E-rank bandits notice: bandits robbing travellers at Hollin Ford, fifteen lanterns.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-tamsin",
+        "character-other/fairweather-tilly",
+        "character-other/fairweather-cora",
+      ],
+    },
+    {
+      fact: "By the thirteenth the guild hall talks of the Enthraller who struck a bargain with a troll.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-tamsin",
+        "character-other/fairweather-tilly",
+        "character-other/fairweather-cora",
+      ],
     },
   ],
 } as const satisfies Place

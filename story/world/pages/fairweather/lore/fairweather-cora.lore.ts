@@ -223,6 +223,36 @@ export const fairweatherCora = {
         "character-other/fairweather-cora",
       ],
     },
+    {
+      fact: "In the Wend Meadows hay loft Cora held Elsie's hand all night.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-tamsin",
+        "character-other/fairweather-tilly",
+        "character-other/fairweather-cora",
+      ],
+    },
+    {
+      fact: "Cora's favourite things are tea, black and strong with one sugar, and lavender.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-cora",
+      ],
+    },
+    {
+      fact: "In three years of reporting to the guildmaster Cora had never heard her laugh until the thirteenth.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-cora",
+      ],
+    },
+    {
+      fact: "Elsie is knitting Cora gloves of grey wool, the grey of Cora's eyes, for her cold hands.",
+      knowers: ["lore-disclosure/game-master", "character-player/fairweather-elsie"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore

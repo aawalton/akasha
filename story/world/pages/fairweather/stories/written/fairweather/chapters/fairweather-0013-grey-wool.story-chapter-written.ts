@@ -11,9 +11,8 @@ export const fairweather0013GreyWool = {
   story: "story-written/fairweather",
   ownLength: 7910,
   prose: "txt",
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/player",
   beats: "jsonl",
-  issues: "txt",
   lore: [
     "lore/fairweather-cora",
     "lore/fairweather-elsie",
@@ -40,7 +39,12 @@ export const fairweather0013GreyWool = {
     "character-other/fairweather-cora",
     "character-other/fairweather-nell",
   ],
-  reviewedBy: ["story-reviewer/holdings", "story-reviewer/continuity", "story-reviewer/scene"],
+  reviewedBy: [
+    "story-reviewer/holdings",
+    "story-reviewer/continuity",
+    "story-reviewer/scene",
+    "story-reviewer/style",
+  ],
   recordedBy: [
     "story-recorder/plan",
     "story-recorder/inventory",
@@ -48,7 +52,6 @@ export const fairweather0013GreyWool = {
     "story-recorder/memory",
     "story-recorder/picture",
   ],
-  rulings: "jsonl",
   scenes: [
     "image/image-293d7d8bbc021c22",
     "image/image-e16b7dd64ac45f3c",
