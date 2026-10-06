@@ -1,4 +1,3 @@
-scene: "For a moment the dark was complete" - beat 52 falls just after 19:45 dusk; full dark is ~20:30
 style: "Elsie forgot to breathe." - No Tropes
 style: "perhaps to point out that Elsie had told her" - Fairweather Explicitness
 style: "The last thing she knew was the weight of Cora's arm" - No Sign-Off
