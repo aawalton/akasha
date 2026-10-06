@@ -111,5 +111,16 @@ export const fairweatherInes = {
         "character-other/fairweather-tilly",
       ],
     },
+    {
+      fact: "Every notice Ines has put on the board before has stayed there, unclaimed, until it curled.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/fairweather-ines",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-tamsin",
+        "character-other/fairweather-tilly",
+        "character-other/fairweather-cora",
+      ],
+    },
   ],
 } as const satisfies Lore
