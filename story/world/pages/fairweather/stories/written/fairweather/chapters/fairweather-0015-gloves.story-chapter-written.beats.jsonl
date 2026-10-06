@@ -36,7 +36,7 @@
 {"beat":36,"event":"Elsie asks why Noor wears gloves; Noor says she always has, and looks away."}
 {"beat":37,"event":"Elsie takes Noor's gloved hand in both of hers and holds it."}
 {"beat":38,"event":"Noor goes very still, and doesn't pull it back."}
-{"beat":39,"event":"Elsie's bootlace snaps, and she laughs again, and doesn't let go."}
+{"beat":39,"event":"Elsie's bootlace snaps, and she laughs again, and doesn't let go.","changes":[{"page":"story-item/fairweather-adventurers-outfit","note":"Elsie's bootlace snaps at Noor's table; the boots are kept","key":"description","from":"A cropped cream halter top laced up the front, a short sage-green skirt, a brown leather belt with pouches, fingerless leather gloves and tall soft leather boots.","to":"A cropped cream halter top laced up the front, a short sage-green skirt, a brown leather belt with pouches, fingerless leather gloves and tall soft leather boots, one bootlace snapped."}]}
 {"beat":40,"event":"Noor says the last two parties she was in broke up around her, and everyone leaves."}
 {"beat":41,"event":"Tamsin says three parties dropped her for worse than tea, and Elsie didn't."}
 {"beat":42,"event":"Tilly says the College threw her out for exploding things, and Elsie didn't mind that either."}
@@ -51,7 +51,7 @@
 {"beat":51,"event":"Elsie, Tamsin and Tilly go, and Elsie waves from the door; Noor lifts one gloved hand.","at":"2026-06-15T11:15:00.000Z","leave":["character-player/fairweather-elsie","character-other/fairweather-tamsin","character-other/fairweather-tilly"]}
 {"beat":52,"event":"On the steps Tamsin says Elsie collects people like stray cats.","at":"2026-06-15T11:20:00.000Z","place":"place/fairweather-lanternmere","present":["character-player/fairweather-elsie","character-other/fairweather-tamsin","character-other/fairweather-tilly"]}
 {"beat":53,"event":"Elsie says she doesn't collect them, she just finds them, and they're all wonderful."}
-{"beat":54,"event":"At the Tipsy Heron Elsie pays for soup and bread for the three of them.","at":"2026-06-15T12:00:00.000Z"}
+{"beat":54,"event":"At the Tipsy Heron Elsie pays for soup and bread for the three of them.","at":"2026-06-15T12:00:00.000Z","changes":[{"page":"metric-character-currency/fairweather-elsie","note":"Elsie buys soup and bread for three at the Tipsy Heron, 4 pips each: 12 pips, 202 → 190","key":"value","from":202,"to":190}]}
 {"beat":55,"event":"Tilly drinks pear fizz and tells the barrow song to the soup, very badly."}
 {"beat":56,"event":"Tamsin says she wrote to Nell about the shield-bearer, and dreads what Nell will say."}
 {"beat":57,"event":"Elsie says Nell will say she's proud of her, and Tamsin says Nell has never once said that."}
@@ -65,7 +65,7 @@
 {"beat":65,"event":"She wakes, and waters the plants, and tells Moonpenny all about the singing."}
 {"beat":66,"event":"She knits the grey glove's fingers until the thumb and all four are done.","at":"2026-06-15T16:30:00.000Z"}
 {"beat":67,"event":"She starts the second glove, humming the barrow song without knowing it."}
-{"beat":68,"event":"Downstairs she buys honey from the baker for the cakes, and pays for it.","at":"2026-06-15T18:00:00.000Z","place":"place/fairweather-honeycomb"}
+{"beat":68,"event":"Downstairs she buys honey from the baker for the cakes, and pays for it.","at":"2026-06-15T18:00:00.000Z","place":"place/fairweather-honeycomb","changes":[{"page":"metric-character-currency/fairweather-elsie","note":"Elsie buys honey from the baker for the cakes: 3 pips, 190 → 187","key":"value","from":190,"to":187}]}
 {"beat":69,"event":"She bakes honey cakes in the big oven while the baker shows her the trick of the crust."}
 {"beat":70,"event":"She sets a plate of them in the shop window, in case Amara comes by."}
 {"beat":71,"event":"She wraps a few in paper for Noor tomorrow, and writes Noor on the paper."}
@@ -75,4 +75,4 @@
 {"beat":75,"event":"She writes that she thinks she has two new friends, only they don't know it yet."}
 {"beat":76,"event":"From the round window she sees Cora on Thimble Canal, and waves the finished glove at her.","at":"2026-06-15T21:15:00.000Z"}
 {"beat":77,"event":"Cora stops, and looks at the glove a long time, and then puts her hand in her pocket."}
-{"beat":78,"event":"Elsie sets the finished glove on the sill by Moonpenny, waiting for its pair.","at":"2026-06-15T22:00:00.000Z"}
+{"beat":78,"event":"Elsie sets the finished glove on the sill by Moonpenny, waiting for its pair.","at":"2026-06-15T22:00:00.000Z","changes":[{"page":"metric-character-currency/fairweather-elsie","note":"Elsie ends the chapter with 187 pips","key":"history","append":{"turn":15,"value":187}},{"page":"metric-character-currency/fairweather-tamsin","note":"Tamsin ends the chapter with 196 pips","key":"history","append":{"turn":15,"value":196}},{"page":"metric-character-currency/fairweather-tilly","note":"Tilly ends the chapter with 244 pips","key":"history","append":{"turn":15,"value":244}}]}
