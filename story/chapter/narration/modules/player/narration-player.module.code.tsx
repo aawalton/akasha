@@ -12,6 +12,7 @@ import {
   markRead,
   nowPlayingControlled,
   nowPlayingOf,
+  progressWritten,
   seekableEnd,
   silenceWav,
 } from "akasha/story/chapter/narration/modules/listening/narration-listening.module.code.ts"
@@ -20,6 +21,7 @@ import {
   type ChapterPlaced,
   chapterAt,
   placedOf,
+  progressAt,
 } from "akasha/story/chapter/narration/modules/playhead/narration-playhead.module.code.ts"
 import type { ChapterHeld } from "akasha/story/chapter/narration/modules/telling/narration-telling.module.code.ts"
 import Hls, { type ErrorData } from "hls.js"
@@ -64,10 +66,14 @@ type Session = {
   placed: readonly ChapterPlaced[]
   readonly asked: Set<string>
   readonly read: Set<string>
+  readonly progress: Map<string, number>
   ended: boolean
   before: number
   leapt: boolean
+  savedAt: number
 }
+
+const SAVE_EVERY_SECONDS = 20
 
 const HLS = "application/vnd.apple.mpegurl"
 
@@ -183,9 +189,11 @@ export function NarrationProvider({
         placed: [],
         asked: new Set(),
         read: new Set(),
+        progress: new Map([[opened.id, opened.ownProgress ?? 0]]),
         ended: false,
         before: 0,
         leapt: false,
+        savedAt: 0,
       }
       setChapter(opened)
       nowPlayingOf(opened)
@@ -253,10 +261,31 @@ export function NarrationProvider({
       }
       const next = heldOf(body.chapter)
       if (next === null) playing.ended = true
-      else playing.chapters.set(next.id, next)
+      else {
+        playing.chapters.set(next.id, next)
+        playing.progress.set(next.id, next.ownProgress ?? 0)
+      }
     },
     [reach, fail]
   )
+
+  const save = useCallback((always: boolean): undefined => {
+    const audio = audioRef.current
+    const playing = session.current
+    if (audio === null || playing === null) return
+    const seconds = audio.currentTime
+    if (!always && Math.abs(seconds - playing.savedAt) < SAVE_EVERY_SECONDS) return
+    playing.savedAt = seconds
+    const made = progressAt({
+      placed: playing.placed,
+      seconds,
+      written: playing.progress,
+      lengthOf: (id) => playing.chapters.get(id)?.ownLength ?? null,
+    })
+    if (made === null) return
+    playing.progress.set(made.id, made.ownProgress)
+    progressWritten(playing.chapters.get(made.id), made.ownProgress)
+  }, [])
 
   const tick = useCallback((): undefined => {
     const audio = audioRef.current
@@ -278,8 +307,10 @@ export function NarrationProvider({
     })
     for (const id of acts.read) {
       playing.read.add(id)
+      playing.progress.set(id, Number.POSITIVE_INFINITY)
       markRead(playing.chapters.get(id))
     }
+    save(false)
     const after = acts.askNextAfter === null ? undefined : playing.chapters.get(acts.askNextAfter)
     if (after !== undefined) {
       playing.asked.add(after.id)
@@ -294,9 +325,10 @@ export function NarrationProvider({
       })
     }
     setPlace({ at: seconds, end: seekableEnd(audio) })
-  }, [askNext])
+  }, [askNext, save])
 
   const close = useCallback((): undefined => {
+    save(true)
     asking.current = null
     dropSession()
     const audio = audioRef.current
@@ -308,7 +340,7 @@ export function NarrationProvider({
     setChapter(null)
     nowPlayingOf(null)
     setShown({ kind: "idle" })
-  }, [dropSession])
+  }, [dropSession, save])
 
   const finished = useCallback((): undefined => {
     const playing = session.current
@@ -396,6 +428,7 @@ export function NarrationProvider({
     }
     const halting = (): undefined => {
       setHalted(true)
+      save(true)
     }
     const ended = (): undefined => {
       if (audio.src !== silence.current) finished()
@@ -418,7 +451,7 @@ export function NarrationProvider({
       calm()
       for (const [name, listener] of listened) audio.removeEventListener(name, listener)
     }
-  }, [fail, tick, finished])
+  }, [fail, tick, finished, save])
 
   useEffect(() => {
     nowPlayingControlled({

@@ -33,5 +33,18 @@ export const narrationPlayhead = {
       decisionKind: "decision-kind/departure",
       statement: "Going back more than a moment into a chapter returns to that chapter's start.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A chapter's progress is the word the segment playing begins at.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "Progress only moves forward, so a seek forward moves it and a seek back does not.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Progress stops a word short of the chapter's length, which only its end reaches.",
+    },
   ],
 } as const satisfies Module

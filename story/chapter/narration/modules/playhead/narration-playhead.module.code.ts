@@ -1,8 +1,11 @@
+export type Mark = readonly [seconds: number, wordStart: number]
+
 export type ChapterPlaced = {
   readonly id: string
   readonly title: string
   readonly startSeconds: number
   readonly durationSeconds: number | null
+  readonly marks: readonly Mark[]
 }
 
 export type PlayheadActs = {
@@ -10,16 +13,30 @@ export type PlayheadActs = {
   readonly read: readonly string[]
 }
 
+export type ProgressMade = { readonly id: string; readonly ownProgress: number }
+
+function markOf(said: unknown): Mark | null {
+  if (!Array.isArray(said)) return null
+  const [seconds, wordStart] = said as unknown[]
+  return typeof seconds === "number" && typeof wordStart === "number" ? [seconds, wordStart] : null
+}
+
+function marksOf(said: unknown): readonly Mark[] {
+  if (!Array.isArray(said)) return []
+  return said.map(markOf).filter((one): one is Mark => one !== null)
+}
+
 function placedOne(said: unknown): ChapterPlaced | null {
   if (said === null || typeof said !== "object") return null
   const held = said as Record<string, unknown>
-  const { id, title, startSeconds, durationSeconds } = held
+  const { id, title, startSeconds, durationSeconds, marks } = held
   if (typeof id !== "string" || typeof startSeconds !== "number") return null
   return {
     id,
     title: typeof title === "string" ? title : "",
     startSeconds,
     durationSeconds: typeof durationSeconds === "number" ? durationSeconds : null,
+    marks: marksOf(marks),
   }
 }
 
@@ -32,6 +49,23 @@ export function chapterAt(placed: readonly ChapterPlaced[], seconds: number): Ch
   let found: ChapterPlaced | null = null
   for (const one of placed) if (one.startSeconds <= seconds) found = one
   return found
+}
+
+export function progressAt(args: {
+  readonly placed: readonly ChapterPlaced[]
+  readonly seconds: number
+  readonly written: ReadonlyMap<string, number>
+  readonly lengthOf: (id: string) => number | null
+}): ProgressMade | null {
+  const { placed, seconds, written, lengthOf } = args
+  const playing = chapterAt(placed, seconds)
+  if (playing === null) return null
+  let word: number | null = null
+  for (const [at, wordStart] of playing.marks) if (at <= seconds) word = wordStart
+  if (word === null) return null
+  const length = lengthOf(playing.id)
+  const held = length === null ? word : Math.min(word, length - 1)
+  return held > (written.get(playing.id) ?? 0) ? { id: playing.id, ownProgress: held } : null
 }
 
 export function playedThrough(one: ChapterPlaced, before: number, seconds: number): boolean {

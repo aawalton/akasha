@@ -4,6 +4,7 @@ import {
   chapterAt,
   chapterStarts,
   placedOf,
+  progressAt,
 } from "akasha/story/chapter/narration/modules/playhead/narration-playhead.module.code.ts"
 
 const placed = placedOf([
@@ -83,6 +84,63 @@ describe("actsAt", () => {
   test("a leap past a chapter's end reads nothing", () => {
     expect(actsAt({ ...played, placed, before: 10, seconds: 101, leapt: true }).read).toEqual([])
     expect(actsAt({ ...played, placed, before: 101, seconds: 102 }).read).toEqual([])
+  })
+})
+
+describe("progressAt", () => {
+  const marked = placedOf([
+    {
+      id: "one",
+      title: "One",
+      startSeconds: 0,
+      durationSeconds: 100,
+      marks: [
+        [0, 40],
+        [3, 40],
+        [30, 55],
+        [60, 70],
+      ],
+    },
+    { id: "two", title: "Two", startSeconds: 100, durationSeconds: null, marks: [[100, 0]] },
+  ])
+  const lengths = new Map([
+    ["one", 80],
+    ["two", 500],
+  ])
+  const lengthOf = (id: string): number | null => lengths.get(id) ?? null
+  const at = (seconds: number, written: ReadonlyMap<string, number> = new Map()) =>
+    progressAt({ placed: marked, seconds, written, lengthOf })
+
+  test("progress is the word the segment playing begins at", () => {
+    expect(at(45)).toEqual({ id: "one", ownProgress: 55 })
+  })
+
+  test("progress never goes back past what is written", () => {
+    expect(at(45, new Map([["one", 60]]))).toBeNull()
+    expect(at(65, new Map([["one", 60]]))).toEqual({ id: "one", ownProgress: 70 })
+  })
+
+  test("progress stops short of the chapter's length, which only its end reaches", () => {
+    const short = new Map([["one", 65]])
+    expect(
+      progressAt({
+        placed: marked,
+        seconds: 65,
+        written: new Map(),
+        lengthOf: (id) => short.get(id) ?? null,
+      })
+    ).toEqual({
+      id: "one",
+      ownProgress: 64,
+    })
+  })
+
+  test("a chapter's opening word moves nothing", () => {
+    expect(at(100.5)).toBeNull()
+  })
+
+  test("a playhead before any mark makes no progress", () => {
+    expect(progressAt({ ...{ placed, seconds: 50, written: new Map(), lengthOf } })).toBeNull()
   })
 })
 

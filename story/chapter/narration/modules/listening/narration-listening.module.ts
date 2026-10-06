@@ -14,6 +14,10 @@ export const narrationListening = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "Progress is written to the chapter's own read progress, as reading writes it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "Now Playing names the chapter playing, and the story it is of as the artist.",
     },
     {

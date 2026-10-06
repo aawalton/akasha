@@ -75,6 +75,17 @@ export function markRead(held: ChapterHeld | undefined): undefined {
   })
 }
 
+export function progressWritten(held: ChapterHeld | undefined, ownProgress: number): undefined {
+  if (held === undefined) return
+  void patchPage({
+    pageTypeSlug: held.pageTypeSlug,
+    where: [{ key: "id", eq: held.id }],
+    set: { [COLLECTION_SHAPE.progressKey]: ownProgress },
+  }).catch((thrown: unknown) => {
+    console.error(`[narration] ${held.slug} kept no progress: ${saidBy(thrown)}`)
+  })
+}
+
 function mediaSession(): MediaSession | null {
   if (typeof navigator === "undefined" || !("mediaSession" in navigator)) return null
   return navigator.mediaSession

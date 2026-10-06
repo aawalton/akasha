@@ -43,5 +43,10 @@ export const narrationPlayer = {
       decisionKind: "decision-kind/departure",
       statement: "A stream that stops arriving for half a minute is a failure the bar shows.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "Progress is saved every twenty seconds of the stream, on a pause and as the bar closes.",
+    },
   ],
 } as const satisfies Module
