@@ -11,4 +11,5 @@ export const mariReviewerEncountersFlex1 = {
   startMode: "seat-mode/interactive",
   onCall: true,
   registrationAccount: "model-account/aawalton",
+  claudeCodeSessionUuid: "9b691c4f-d4a6-4d48-b284-423f22088d85",
 } as const satisfies Seat
