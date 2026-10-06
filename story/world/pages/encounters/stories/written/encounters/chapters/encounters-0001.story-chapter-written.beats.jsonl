@@ -23,9 +23,9 @@
 {"beat":23,"event":"Sofia goes crimson and tells her to shut up."}
 {"beat":24,"event":"Priya, small and bespectacled, asks Alan his name and repeats it back once."}
 {"beat":25,"event":"Hana raises a film camera and shoots Sofia beside Alan without a word."}
-{"beat":26,"event":"Kenzie tells Sofia to go pay her butterbeer bet, and winks at her."}
+{"beat":26,"event":"Sofia says she owes Alan a butterbeer; Kenzie tells her to go pay it, and winks at her."}
 {"beat":27,"event":"Kenzie tells Alan that if Sofia comes back unhappy, she will find him."}
-{"beat":28,"event":"Kenzie herds Priya and Hana off toward Jurassic Park, on her schedule.","leave":["character-other/encounters-kenzie","character-other/encounters-priya","character-other/encounters-hana"]}
+{"beat":28,"event":"Kenzie herds Priya and Hana off toward Seuss Landing, on her schedule.","leave":["character-other/encounters-kenzie","character-other/encounters-priya","character-other/encounters-hana"]}
 {"beat":29,"event":"Sofia and Alan walk into Hogsmeade, past the castle.","at":"2026-10-08T18:20:00.000Z"}
 {"beat":30,"event":"She buys two frozen butterbeers and hands him one: the bet paid."}
 {"beat":31,"event":"She touches his arm when she laughs, and once she has, keeps finding reasons to."}
