@@ -4,13 +4,14 @@ export const fairweather0016CreamOnTheStep = {
   id: "01a1128b-8c15-7189-89c6-1911f99f009f",
   type: "page-type/story-chapter-written",
   slug: "fairweather-0016-cream-on-the-step",
+  cover: "image/image-7ffa37a956afdf13",
   position: 16,
   unit: "unit/words",
   title: "Cream on the Step",
   story: "story-written/fairweather",
   ownLength: 8725,
   prose: "txt",
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/reviewers",
   beats: "jsonl",
   lore: [
     "lore/fairweather-cora",
@@ -48,5 +49,7 @@ export const fairweather0016CreamOnTheStep = {
     "story-recorder/inventory",
     "story-recorder/mechanics",
     "story-recorder/memory",
+    "story-recorder/picture",
   ],
+  scenes: ["image/image-7ffa37a956afdf13", "image/image-9dce51de984935b6"],
 } as const satisfies StoryChapterWritten
