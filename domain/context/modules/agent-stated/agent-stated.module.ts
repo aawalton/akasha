@@ -46,6 +46,10 @@ export const agentStated = {
       statement: "A slug stated under no page type names no page type.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement: "An agent's page is a persona or handler seat's where the seat view groups it so.",
+    },
+    {
       decisionKind: "decision-kind/absence",
       statement: "Nothing here reads the index.",
     },

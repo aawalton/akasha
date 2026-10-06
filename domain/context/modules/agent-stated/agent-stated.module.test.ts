@@ -1,5 +1,6 @@
 import { afterAll, expect, test } from "bun:test"
 import {
+  personaOrHandlerStated,
   slugStated,
   typeStated,
 } from "akasha/domain/context/modules/agent-stated/agent-stated.module.code.ts"
@@ -88,6 +89,36 @@ test("a seat whose body cannot be loaded states nothing", () => {
 test("a seat that is nowhere states nothing", () => {
   const root = scratch.rootFor("akasha-agent-stated-")
   expect(slugStated(root, "akasha/seat-system/seat/seat/gone.seat.ts", "persona")).toBe(null)
+})
+
+test("a seat assigned a written or played story is no persona or handler seat", () => {
+  const root = scratch.rootFor("akasha-agent-stated-")
+  const written = seatListed(
+    root,
+    "one",
+    `role: "role/writer", assignmentSlug: "story-written/fairweather"`
+  )
+  const played = seatListed(
+    root,
+    "two",
+    `role: "role/game-master", assignmentSlug: "story-played/overwhere-i"`
+  )
+  expect(personaOrHandlerStated(root, written)).toBe(false)
+  expect(personaOrHandlerStated(root, played)).toBe(false)
+})
+
+test("a handler seat and a seat assigned a domain or initiative are persona or handler seats", () => {
+  const root = scratch.rootFor("akasha-agent-stated-")
+  const handler = seatListed(root, "one", `role: "role/handler", assignmentSlug: "domain/alan"`)
+  const domain = seatListed(root, "two", `role: "role/definer", assignmentSlug: "domain/akasha"`)
+  const initiative = seatListed(
+    root,
+    "three",
+    `assignmentSlug: "initiative/awen-engine-improvements"`
+  )
+  expect(personaOrHandlerStated(root, handler)).toBe(true)
+  expect(personaOrHandlerStated(root, domain)).toBe(true)
+  expect(personaOrHandlerStated(root, initiative)).toBe(true)
 })
 
 test("a seat states what its body declares whatever the export is named", () => {

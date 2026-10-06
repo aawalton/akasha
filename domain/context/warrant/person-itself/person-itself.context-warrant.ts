@@ -21,10 +21,6 @@ export const personItself = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A seat's section is the one the seat view groups the seat under.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
       statement: "A seat stating no person warrants no person.",
     },
     {

@@ -1,3 +1,8 @@
+import {
+  HANDLERS,
+  PERSONAS,
+  seatSectionOf,
+} from "akasha/agent/seat/fleet/modules/seat-section/seat-section.computed-property-module.code.ts"
 import { addressIn } from "akasha/page/modules/address/page-address.module.code.ts"
 import { partedIn } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
 import { textUnder } from "akasha/page/modules/value/page-value.module.code.ts"
@@ -21,4 +26,13 @@ export function typeStated(root: string, path: string, key: string): string | nu
   if (stated === null) return null
   const address = addressIn(stated)
   return address.kind === "qualified" ? address.pageTypeSlug : null
+}
+
+const HELD: ReadonlySet<string> = new Set([PERSONAS, HANDLERS])
+
+export function personaOrHandlerStated(root: string, path: string): boolean {
+  const slug = slugStated(root, path, "assignmentSlug")
+  const type = typeStated(root, path, "assignmentSlug")
+  const assignment = slug === null || type === null ? slug : `${type}/${slug}`
+  return HELD.has(seatSectionOf(slugStated(root, path, "role"), assignment))
 }

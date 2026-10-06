@@ -1,11 +1,6 @@
 import {
-  HANDLERS,
-  PERSONAS,
-  seatSectionOf,
-} from "akasha/agent/seat/fleet/modules/seat-section/seat-section.computed-property-module.code.ts"
-import {
+  personaOrHandlerStated,
   slugStated,
-  typeStated,
 } from "akasha/domain/context/modules/agent-stated/agent-stated.module.code.ts"
 import {
   blobAt,
@@ -20,23 +15,10 @@ const PERSON_TYPE = "person"
 
 const KEY = "person"
 
-const ROLE = "role"
-
-const ASSIGNMENT = "assignmentSlug"
-
-const HELD: ReadonlySet<string> = new Set([PERSONAS, HANDLERS])
-
-function sectionOf(root: string, path: string): string {
-  const slug = slugStated(root, path, ASSIGNMENT)
-  const type = typeStated(root, path, ASSIGNMENT)
-  const assignment = slug === null || type === null ? slug : `${type}/${slug}`
-  return seatSectionOf(slugStated(root, path, ROLE), assignment)
-}
-
 export function personItself(root: string, path: string): readonly Warrant[] {
   const slug = slugStated(root, path, KEY)
   if (slug === null) return []
-  if (!HELD.has(sectionOf(root, path))) return []
+  if (!personaOrHandlerStated(root, path)) return []
   const listed = listedAt(root, PERSON_TYPE, slug)[0]
   if (listed === undefined) return []
   const oid = blobAt(root, listed.path)
