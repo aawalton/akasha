@@ -13,6 +13,7 @@ export const fairweather0017Biscuit = {
   prose: "txt",
   stepStatus: "step-status/reviewers",
   beats: "jsonl",
+  issues: "txt",
   lore: [
     "lore/fairweather-cora",
     "lore/fairweather-elsie",
@@ -47,6 +48,7 @@ export const fairweather0017Biscuit = {
     "character-other/fairweather-amara",
     "character-other/fairweather-nell",
   ],
+  reviewedBy: ["story-reviewer/scene"],
   recordedBy: [
     "story-recorder/plan",
     "story-recorder/inventory",
