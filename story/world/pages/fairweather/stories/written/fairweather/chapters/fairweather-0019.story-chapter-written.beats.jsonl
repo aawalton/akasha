@@ -7,14 +7,14 @@
 {"beat":7,"event":"She decides the fluttery feeling wants baking. It always does."}
 {"beat":8,"event":"Downstairs Mrs Merriweather is sliding loaves out. Elsie asks if she may use the oven tonight.","at":"2026-06-19T06:10:00.000Z","place":"place/fairweather-honeycomb","present":["character-player/fairweather-elsie"]}
 {"beat":9,"event":"Mrs Merriweather says after the shop shuts, when the oven's cooling, and mind the peel."}
-{"beat":10,"event":"Elsie pays her five pips: three for a crock of honey, one for butter, one for a bag of flour."}
+{"beat":10,"event":"Elsie pays her five pips: three for a crock of honey, one for butter, one for a bag of flour.","changes":[{"page":"metric-character-currency/fairweather-elsie","note":"Elsie pays Mrs Merriweather for honey, butter and flour: 5 pips, 208 → 203","key":"value","from":208,"to":203}]}
 {"beat":11,"event":"She asks for the honey to be left out on the counter tonight. Mrs Merriweather grunts that it will."}
 {"beat":12,"event":"Elsie looks at the empty blue plate in the window. She smiles at it on her way out."}
 {"beat":13,"event":"At seven Cora is on the guild hall steps, ledger under her arm. Elsie runs up them two at a time.","at":"2026-06-19T07:00:00.000Z","place":"place/fairweather-guild-hall","present":["character-player/fairweather-elsie","character-other/fairweather-cora"]}
 {"beat":14,"event":"Elsie says good morning, it's Midsummer Eve. Cora says, Fairweather. Her eyes go to Elsie's hair."}
 {"beat":15,"event":"Cora says, low, that her clip is crooked. She straightens it with two long fingers and steps back."}
 {"beat":16,"event":"Inside, Noor is at her corner table in her ring of empty ones, in the green coat, with her coffee."}
-{"beat":17,"event":"Elsie buys a second cup of coffee at the counter, black, strong, nothing in it, for two pips.","present":["character-player/fairweather-elsie","character-other/fairweather-cora","character-other/fairweather-noor"]}
+{"beat":17,"event":"Elsie buys a second cup of coffee at the counter, black, strong, nothing in it, for two pips.","present":["character-player/fairweather-elsie","character-other/fairweather-cora","character-other/fairweather-noor"],"changes":[{"page":"metric-character-currency/fairweather-elsie","note":"Elsie buys Noor a second black coffee at the guild counter: 2 pips, 203 → 201","key":"value","from":203,"to":201}]}
 {"beat":18,"event":"She carries it across the boards and sets it by Noor's first cup. She knocks twice and sits."}
 {"beat":19,"event":"Noor looks at the two cups. She says she hasn't finished the first. Elsie says that one's for later."}
 {"beat":20,"event":"Elsie says, Noor, it's tomorrow. She asks again: will she come out on the Mere with them?"}
@@ -89,7 +89,7 @@
 {"beat":89,"event":"Elsie shuts her eyes in the sun. Noor's hand stays there, light, the leather warm from the sun."}
 {"beat":90,"event":"Elsie takes out the second glove and knits the second finger on the step, against Noor's knees."}
 {"beat":91,"event":"Cora's ledger lies open on her knee beside them. The page reads: Lantern Steps. Skills used, none."}
-{"beat":92,"event":"At noon Tamsin buys five hand pies from a stall at the top of the steps, a pip each.","at":"2026-06-19T12:00:00.000Z"}
+{"beat":92,"event":"At noon Tamsin buys five hand pies from a stall at the top of the steps, a pip each.","at":"2026-06-19T12:00:00.000Z","changes":[{"page":"metric-character-currency/fairweather-tamsin","note":"Tamsin buys five hand pies on the Lantern Steps, a pip each: 236 → 231","key":"value","from":236,"to":231}]}
 {"beat":93,"event":"Noor reaches into her coat to pay. Tamsin says she feeds the party, and Noor's on the notice now."}
 {"beat":94,"event":"Noor takes the pie. She holds it a moment in both gloved hands. She eats it all."}
 {"beat":95,"event":"Cora takes hers from Tamsin with a small inclined head. She eats standing up, looking at the water."}
@@ -128,8 +128,8 @@
 {"beat":128,"event":"Elsie holds up the third skein. She says, that one, beaming. That's exactly the right grey."}
 {"beat":129,"event":"Cora says, not quite steadily, that she had better not ask what it's the right grey of."}
 {"beat":130,"event":"Elsie says she'd better not, because Elsie can't lie, and then the surprise would be spoiled."}
-{"beat":131,"event":"Elsie pays four pips for the skein. She tucks it into her satchel with the needles."}
-{"beat":132,"event":"Outside a flower seller has lavender. Elsie buys one sprig for a pip and smells it.","at":"2026-06-19T15:00:00.000Z"}
+{"beat":131,"event":"Elsie pays four pips for the skein. She tucks it into her satchel with the needles.","changes":[{"page":"metric-character-currency/fairweather-elsie","note":"Elsie buys one more grey skein on Spindle Lane: 4 pips, 201 → 197","key":"value","from":201,"to":197}]}
+{"beat":132,"event":"Outside a flower seller has lavender. Elsie buys one sprig for a pip and smells it.","at":"2026-06-19T15:00:00.000Z","changes":[{"page":"metric-character-currency/fairweather-elsie","note":"Elsie buys a sprig of lavender: 1 pip, 197 → 196","key":"value","from":197,"to":196}]}
 {"beat":133,"event":"Cora asks, very evenly, who the lavender is for. Elsie says it's for someone she loves."}
 {"beat":134,"event":"Cora says nothing at all. She looks at the lavender in Elsie's hand for a long moment."}
 {"beat":135,"event":"Elsie tucks the sprig into her satchel beside the wool and buckles it shut. She hums."}
@@ -196,4 +196,4 @@
 {"beat":196,"event":"She tells Moonpenny about the boat, and the bell, and Noor's yes, and the two notes in the kitchen."}
 {"beat":197,"event":"She puts the parcel in her satchel, ready, and buckles it, and sets the satchel by the door."}
 {"beat":198,"event":"She lies down under the sloping roof. The fluttery feeling is still there. She hugs her pillow."}
-{"beat":199,"event":"She falls asleep thinking about tomorrow, with the canal light red on the ceiling.","changes":[{"page":"world-relationship/fairweather-elsie-tamsin","note":"Bond: Tamsin 88 → 89 (Tether: at day's end)","key":"relationshipPoints","from":88,"to":89}]}
+{"beat":199,"event":"She falls asleep thinking about tomorrow, with the canal light red on the ceiling.","changes":[{"page":"world-relationship/fairweather-elsie-tamsin","note":"Bond: Tamsin 88 → 89 (Tether: at day's end)","key":"relationshipPoints","from":88,"to":89},{"page":"metric-character-currency/fairweather-elsie","note":"Elsie ends the chapter with 196 pips","key":"history","append":{"turn":19,"value":196}},{"page":"metric-character-currency/fairweather-tamsin","note":"Tamsin ends the chapter with 231 pips","key":"history","append":{"turn":19,"value":231}},{"page":"metric-character-currency/fairweather-tilly","note":"Tilly ends the chapter with 274 pips, unchanged","key":"history","append":{"turn":19,"value":274}}]}
