@@ -32,10 +32,10 @@
 {"beat":32,"event":"In the window the honey cakes still sit in their row on the blue plate, dull and sunk, uneaten."}
 {"beat":33,"event":"Elsie looks at them a long moment, and says she'll bake fresh ones tonight, in case."}
 {"beat":34,"event":"In the guild hall Elsie lays Bess's signed scrap on the clerk's desk; the clerk reads it twice.","at":"2026-06-17T10:20:00.000Z","place":"place/fairweather-guild-hall","present":["character-player/fairweather-elsie","character-other/fairweather-tamsin","character-other/fairweather-tilly","character-other/fairweather-cora","character-other/fairweather-noor"]}
-{"beat":35,"event":"The clerk counts out nine silver lanterns, and Tamsin deals them three by three into three palms."}
+{"beat":35,"event":"The clerk counts out nine silver lanterns, and Tamsin deals them three by three into three palms.","changes":[{"page":"metric-character-currency/fairweather-elsie","note":"Hobb Mill notice pays 9 lanterns, three each: Elsie 30 pips, 185 → 215","key":"value","from":185,"to":215},{"page":"metric-character-currency/fairweather-tamsin","note":"Hobb Mill notice pays 9 lanterns, three each: Tamsin 30 pips, 196 → 226","key":"value","from":196,"to":226},{"page":"metric-character-currency/fairweather-tilly","note":"Hobb Mill notice pays 9 lanterns, three each: Tilly 30 pips, 244 → 274","key":"value","from":244,"to":274}]}
 {"beat":36,"event":"Elsie closes her hand on her three lanterns, warm from the clerk's box, and drops them in her purse."}
 {"beat":37,"event":"Cora writes it in her ledger, then goes behind the charcoal door to file her sheet."}
-{"beat":38,"event":"Elsie buys a pot of tea at the bar for two pips, and a cup of black coffee for two pips more."}
+{"beat":38,"event":"Elsie buys a pot of tea at the bar for two pips, and a cup of black coffee for two pips more.","changes":[{"page":"metric-character-currency/fairweather-elsie","note":"Elsie buys a pot of tea and Noor's black coffee at the bar, 2 pips each: 4 pips, 215 → 211","key":"value","from":215,"to":211}]}
 {"beat":39,"event":"She carries both across the empty ring to Noor's table, watching her feet the whole way."}
 {"beat":40,"event":"Noor watches her come; Elsie shakes the empty chair hard, knocks on its seat, and sits."}
 {"beat":41,"event":"It holds; she pours her tea and slides the coffee across, its handle toward Noor's glove."}
@@ -133,4 +133,4 @@
 {"beat":133,"event":"She knits by the round window, and the second glove's thumb takes shape between her needles."}
 {"beat":134,"event":"She tries the finished glove on her own hand again; its fingers flap at the ends: just right."}
 {"beat":135,"event":"She lays the half-glove on the sill beside the finished one, by Moonpenny, nearly a pair."}
-{"beat":136,"event":"She tells Moonpenny about the bones that purred, and blows out the candle.","at":"2026-06-17T21:30:00.000Z"}
+{"beat":136,"event":"She tells Moonpenny about the bones that purred, and blows out the candle.","at":"2026-06-17T21:30:00.000Z","changes":[{"page":"metric-character-currency/fairweather-elsie","note":"Elsie ends the chapter with 211 pips","key":"history","append":{"turn":17,"value":211}},{"page":"metric-character-currency/fairweather-tamsin","note":"Tamsin ends the chapter with 226 pips","key":"history","append":{"turn":17,"value":226}},{"page":"metric-character-currency/fairweather-tilly","note":"Tilly ends the chapter with 274 pips","key":"history","append":{"turn":17,"value":274}}]}
