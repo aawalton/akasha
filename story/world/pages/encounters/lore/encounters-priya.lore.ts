@@ -26,6 +26,7 @@ export const encountersPriya = {
         "character-other/encounters-kenzie",
         "character-other/encounters-priya",
         "character-other/encounters-hana",
+        "character-player/encounters-alan",
       ],
     },
     {
@@ -36,6 +37,7 @@ export const encountersPriya = {
         "character-other/encounters-kenzie",
         "character-other/encounters-priya",
         "character-other/encounters-hana",
+        "character-player/encounters-alan",
       ],
     },
     {
@@ -46,6 +48,7 @@ export const encountersPriya = {
         "character-other/encounters-kenzie",
         "character-other/encounters-priya",
         "character-other/encounters-hana",
+        "character-player/encounters-alan",
       ],
     },
     {
@@ -76,6 +79,7 @@ export const encountersPriya = {
         "character-other/encounters-kenzie",
         "character-other/encounters-priya",
         "character-other/encounters-hana",
+        "character-player/encounters-alan",
       ],
     },
     {
@@ -168,6 +172,25 @@ export const encountersPriya = {
       fact: "Priya shares a room with Hana on the trip, and is the one Hana tells things to.",
       knowers: [
         "lore-disclosure/game-master",
+        "character-other/encounters-sofia",
+        "character-other/encounters-kenzie",
+        "character-other/encounters-priya",
+        "character-other/encounters-hana",
+      ],
+    },
+    {
+      fact: "Chapter 1: Priya met Alan at the VelociCoaster exit, where Sofia had ridden single rider with him.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/encounters-alan",
+        "character-other/encounters-priya",
+      ],
+    },
+    {
+      fact: "Priya asked Alan his name at the VelociCoaster exit, and repeated it back once.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/encounters-alan",
         "character-other/encounters-sofia",
         "character-other/encounters-kenzie",
         "character-other/encounters-priya",

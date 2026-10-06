@@ -103,6 +103,7 @@ export const encountersSofia = {
         "character-other/encounters-kenzie",
         "character-other/encounters-priya",
         "character-other/encounters-hana",
+        "character-player/encounters-alan",
       ],
     },
     {
@@ -113,6 +114,7 @@ export const encountersSofia = {
         "character-other/encounters-kenzie",
         "character-other/encounters-priya",
         "character-other/encounters-hana",
+        "character-player/encounters-alan",
       ],
     },
     {
@@ -123,6 +125,7 @@ export const encountersSofia = {
         "character-other/encounters-kenzie",
         "character-other/encounters-priya",
         "character-other/encounters-hana",
+        "character-player/encounters-alan",
       ],
     },
     {
@@ -133,6 +136,7 @@ export const encountersSofia = {
         "character-other/encounters-kenzie",
         "character-other/encounters-priya",
         "character-other/encounters-hana",
+        "character-player/encounters-alan",
       ],
     },
     {
@@ -143,6 +147,7 @@ export const encountersSofia = {
         "character-other/encounters-kenzie",
         "character-other/encounters-priya",
         "character-other/encounters-hana",
+        "character-player/encounters-alan",
       ],
     },
     {
@@ -153,6 +158,7 @@ export const encountersSofia = {
         "character-other/encounters-kenzie",
         "character-other/encounters-priya",
         "character-other/encounters-hana",
+        "character-player/encounters-alan",
       ],
     },
     {
@@ -163,6 +169,7 @@ export const encountersSofia = {
         "character-other/encounters-kenzie",
         "character-other/encounters-priya",
         "character-other/encounters-hana",
+        "character-player/encounters-alan",
       ],
     },
     {
@@ -173,6 +180,7 @@ export const encountersSofia = {
         "character-other/encounters-kenzie",
         "character-other/encounters-priya",
         "character-other/encounters-hana",
+        "character-player/encounters-alan",
       ],
     },
     {
@@ -183,6 +191,7 @@ export const encountersSofia = {
         "character-other/encounters-kenzie",
         "character-other/encounters-priya",
         "character-other/encounters-hana",
+        "character-player/encounters-alan",
       ],
     },
     {
@@ -193,6 +202,7 @@ export const encountersSofia = {
         "character-other/encounters-kenzie",
         "character-other/encounters-priya",
         "character-other/encounters-hana",
+        "character-player/encounters-alan",
       ],
     },
     {
@@ -203,6 +213,7 @@ export const encountersSofia = {
         "character-other/encounters-kenzie",
         "character-other/encounters-priya",
         "character-other/encounters-hana",
+        "character-player/encounters-alan",
       ],
     },
     {
@@ -223,6 +234,7 @@ export const encountersSofia = {
         "character-other/encounters-kenzie",
         "character-other/encounters-priya",
         "character-other/encounters-hana",
+        "character-player/encounters-alan",
       ],
     },
     {
@@ -233,6 +245,7 @@ export const encountersSofia = {
         "character-other/encounters-kenzie",
         "character-other/encounters-priya",
         "character-other/encounters-hana",
+        "character-player/encounters-alan",
       ],
     },
     {
@@ -243,6 +256,7 @@ export const encountersSofia = {
         "character-other/encounters-kenzie",
         "character-other/encounters-priya",
         "character-other/encounters-hana",
+        "character-player/encounters-alan",
       ],
     },
     {
@@ -251,6 +265,7 @@ export const encountersSofia = {
         "lore-disclosure/game-master",
         "character-other/encounters-sofia",
         "character-other/encounters-kenzie",
+        "character-player/encounters-alan",
       ],
     },
     {
@@ -261,6 +276,7 @@ export const encountersSofia = {
         "character-other/encounters-kenzie",
         "character-other/encounters-priya",
         "character-other/encounters-hana",
+        "character-player/encounters-alan",
       ],
     },
     {
@@ -271,6 +287,7 @@ export const encountersSofia = {
         "character-other/encounters-kenzie",
         "character-other/encounters-priya",
         "character-other/encounters-hana",
+        "character-player/encounters-alan",
       ],
     },
     {
@@ -281,39 +298,131 @@ export const encountersSofia = {
         "character-other/encounters-kenzie",
         "character-other/encounters-priya",
         "character-other/encounters-hana",
+        "character-player/encounters-alan",
       ],
     },
     {
       fact: "In bed Sofia is nervous for a few minutes, then as focused as on a dive she means to nail.",
-      knowers: ["lore-disclosure/game-master", "character-other/encounters-sofia"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/encounters-sofia",
+        "character-player/encounters-alan",
+      ],
     },
     {
       fact: "Sofia wants to be told she is doing well, and praise makes her wetter than touch does.",
-      knowers: ["lore-disclosure/game-master", "character-other/encounters-sofia"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/encounters-sofia",
+        "character-player/encounters-alan",
+      ],
     },
     {
       fact: "Sofia likes to ride and set the pace, then wants to be pinned down and fucked hard.",
-      knowers: ["lore-disclosure/game-master", "character-other/encounters-sofia"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/encounters-sofia",
+        "character-player/encounters-alan",
+      ],
     },
     {
       fact: "Sofia loves her cunt licked but is too shy to ask, so she asks by pressing his head down.",
-      knowers: ["lore-disclosure/game-master", "character-other/encounters-sofia"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/encounters-sofia",
+        "character-player/encounters-alan",
+      ],
     },
     {
       fact: "Sofia sucks cock eagerly, set on making him come before he means to.",
-      knowers: ["lore-disclosure/game-master", "character-other/encounters-sofia"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/encounters-sofia",
+        "character-player/encounters-alan",
+      ],
     },
     {
       fact: "Sofia's nipples are so sensitive that sucked hard while she is fucked they tip her over.",
-      knowers: ["lore-disclosure/game-master", "character-other/encounters-sofia"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/encounters-sofia",
+        "character-player/encounters-alan",
+      ],
     },
     {
       fact: "Sofia swears in Spanish when she is close, and comes loud, shaking and clenching hard.",
-      knowers: ["lore-disclosure/game-master", "character-other/encounters-sofia"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/encounters-sofia",
+        "character-player/encounters-alan",
+      ],
     },
     {
       fact: "Sofia is on the pill and wants a man to come inside her, which no man has done yet.",
-      knowers: ["lore-disclosure/game-master", "character-other/encounters-sofia"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/encounters-sofia",
+        "character-player/encounters-alan",
+      ],
+    },
+    {
+      fact: "Chapter 1: Sofia ducked into the VelociCoaster single-rider line behind Alan, racing her friends.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/encounters-alan",
+        "character-other/encounters-sofia",
+      ],
+    },
+    {
+      fact: "Sofia lost a bet to Alan by screaming on the VelociCoaster launch, and paid him a butterbeer.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/encounters-alan",
+        "character-other/encounters-sofia",
+      ],
+    },
+    {
+      fact: "Sofia took Alan back to her Cabana Bay room and fucked him.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/encounters-alan",
+        "character-other/encounters-sofia",
+        "character-other/encounters-kenzie",
+        "character-other/encounters-priya",
+        "character-other/encounters-hana",
+      ],
+    },
+    {
+      fact: "Alan is the first man to have come inside Sofia.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/encounters-alan",
+        "character-other/encounters-sofia",
+      ],
+    },
+    {
+      fact: "Sofia blinked on purpose at the lighthouse rematch, and Alan knew and let her win.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/encounters-alan",
+        "character-other/encounters-sofia",
+      ],
+    },
+    {
+      fact: "Sofia rated Alan a ten in her phone's ride list.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/encounters-alan",
+        "character-other/encounters-sofia",
+      ],
+    },
+    {
+      fact: "Alan stayed the night with Sofia in her room at Cabana Bay.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/encounters-alan",
+        "character-other/encounters-sofia",
+      ],
     },
   ],
 } as const satisfies Lore

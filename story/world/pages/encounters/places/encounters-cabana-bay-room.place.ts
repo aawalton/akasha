@@ -15,6 +15,7 @@ export const encountersCabanaBayRoom = {
         "character-other/encounters-kenzie",
         "character-other/encounters-priya",
         "character-other/encounters-hana",
+        "character-player/encounters-alan",
       ],
     },
     {
@@ -35,6 +36,7 @@ export const encountersCabanaBayRoom = {
         "character-other/encounters-kenzie",
         "character-other/encounters-priya",
         "character-other/encounters-hana",
+        "character-player/encounters-alan",
       ],
     },
     {
@@ -53,6 +55,7 @@ export const encountersCabanaBayRoom = {
         "lore-disclosure/game-master",
         "character-other/encounters-sofia",
         "character-other/encounters-kenzie",
+        "character-player/encounters-alan",
       ],
     },
     {
@@ -63,6 +66,7 @@ export const encountersCabanaBayRoom = {
         "character-other/encounters-kenzie",
         "character-other/encounters-priya",
         "character-other/encounters-hana",
+        "character-player/encounters-alan",
       ],
     },
     {
@@ -73,6 +77,7 @@ export const encountersCabanaBayRoom = {
         "character-other/encounters-kenzie",
         "character-other/encounters-priya",
         "character-other/encounters-hana",
+        "character-player/encounters-alan",
       ],
     },
     {

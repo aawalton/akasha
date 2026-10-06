@@ -36,6 +36,7 @@ export const encountersHana = {
         "character-other/encounters-kenzie",
         "character-other/encounters-priya",
         "character-other/encounters-hana",
+        "character-player/encounters-alan",
       ],
     },
     {
@@ -46,6 +47,7 @@ export const encountersHana = {
         "character-other/encounters-kenzie",
         "character-other/encounters-priya",
         "character-other/encounters-hana",
+        "character-player/encounters-alan",
       ],
     },
     {
@@ -56,6 +58,7 @@ export const encountersHana = {
         "character-other/encounters-kenzie",
         "character-other/encounters-priya",
         "character-other/encounters-hana",
+        "character-player/encounters-alan",
       ],
     },
     {
@@ -76,6 +79,7 @@ export const encountersHana = {
         "character-other/encounters-kenzie",
         "character-other/encounters-priya",
         "character-other/encounters-hana",
+        "character-player/encounters-alan",
       ],
     },
     {
@@ -161,6 +165,25 @@ export const encountersHana = {
     {
       fact: "Hana wants most of all to watch a man fuck Sofia, and then to share her.",
       knowers: ["lore-disclosure/game-master", "character-other/encounters-hana"],
+    },
+    {
+      fact: "Chapter 1: Hana met Alan at the VelociCoaster exit, where Sofia had ridden single rider with him.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/encounters-alan",
+        "character-other/encounters-hana",
+      ],
+    },
+    {
+      fact: "Hana shot a film photo of Sofia beside Alan at the VelociCoaster exit.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/encounters-alan",
+        "character-other/encounters-sofia",
+        "character-other/encounters-kenzie",
+        "character-other/encounters-priya",
+        "character-other/encounters-hana",
+      ],
     },
   ],
 } as const satisfies Lore

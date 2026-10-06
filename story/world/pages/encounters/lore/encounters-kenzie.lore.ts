@@ -36,6 +36,7 @@ export const encountersKenzie = {
         "character-other/encounters-kenzie",
         "character-other/encounters-priya",
         "character-other/encounters-hana",
+        "character-player/encounters-alan",
       ],
     },
     {
@@ -46,6 +47,7 @@ export const encountersKenzie = {
         "character-other/encounters-kenzie",
         "character-other/encounters-priya",
         "character-other/encounters-hana",
+        "character-player/encounters-alan",
       ],
     },
     {
@@ -66,6 +68,7 @@ export const encountersKenzie = {
         "character-other/encounters-kenzie",
         "character-other/encounters-priya",
         "character-other/encounters-hana",
+        "character-player/encounters-alan",
       ],
     },
     {
@@ -116,6 +119,7 @@ export const encountersKenzie = {
         "character-other/encounters-kenzie",
         "character-other/encounters-priya",
         "character-other/encounters-hana",
+        "character-player/encounters-alan",
       ],
     },
     {
@@ -126,6 +130,7 @@ export const encountersKenzie = {
         "character-other/encounters-kenzie",
         "character-other/encounters-priya",
         "character-other/encounters-hana",
+        "character-player/encounters-alan",
       ],
     },
     {
@@ -193,6 +198,25 @@ export const encountersKenzie = {
       knowers: [
         "lore-disclosure/game-master",
         "character-other/encounters-kenzie",
+        "character-other/encounters-hana",
+      ],
+    },
+    {
+      fact: "Chapter 1: Kenzie met Alan at the VelociCoaster exit, where Sofia had ridden single rider with him.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/encounters-alan",
+        "character-other/encounters-kenzie",
+      ],
+    },
+    {
+      fact: "Kenzie told Alan she will find him if Sofia comes back unhappy.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/encounters-alan",
+        "character-other/encounters-sofia",
+        "character-other/encounters-kenzie",
+        "character-other/encounters-priya",
         "character-other/encounters-hana",
       ],
     },
