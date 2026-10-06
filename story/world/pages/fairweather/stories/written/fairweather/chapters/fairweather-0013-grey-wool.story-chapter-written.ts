@@ -11,7 +11,7 @@ export const fairweather0013GreyWool = {
   story: "story-written/fairweather",
   ownLength: 7859,
   prose: "txt",
-  stepStatus: "step-status/game-master",
+  stepStatus: "step-status/mechanics",
   beats: "jsonl",
   issues: "txt",
   lore: [
@@ -40,13 +40,7 @@ export const fairweather0013GreyWool = {
     "character-other/fairweather-cora",
     "character-other/fairweather-nell",
   ],
-  recordedBy: [
-    "story-recorder/plan",
-    "story-recorder/mechanics",
-    "story-recorder/inventory",
-    "story-recorder/memory",
-    "story-recorder/picture",
-  ],
+  rulings: "jsonl",
   scenes: [
     "image/image-293d7d8bbc021c22",
     "image/image-e16b7dd64ac45f3c",

@@ -1,9 +1,4 @@
-holdings: beat 23: Tilly hugs Elsie, a +1 kindness in the guild hall scene that Tilly's bond misses
-holdings: beat 37: Elsie takes Tamsin's hand, a +1 kindness; with it the cap cuts beat 48's +3 to +2
 holdings: beat 45: Tamsin pays 12 pips, the three stews at 4, but the loaf she brings back is never paid
-holdings: beat 59: Tilly hugs Elsie twice, a +1 kindness in the Heron scene that Tilly's bond misses
-holdings: beat 59: Tilly at 50 makes Devotion 7 of 14: Tilly Wits 21, Elsie Wits 12, both missing
-holdings: beat 66: Tilly's purse has no end-of-chapter history line
 scene: "By the middle of the morning" - beat 14 is 08:00, under two hours after the 06:20 sunrise
 continuity: "yours is empty" Tilly page (beat 14) - ch7: Elsie wrote blue flame, cheek under Tilly
 continuity: "wrote CORA at the top" of a fresh page (b17, b63) - ch1-9 Cora entry: tea, bun, quiet
