@@ -46,6 +46,7 @@ export const fairweather0015Gloves = {
     "character-other/fairweather-nell",
   ],
   reviewedBy: ["story-reviewer/holdings"],
+  recordedBy: ["story-recorder/plan"],
   rulings: "jsonl",
   scenes: ["image/image-e12a0a73adad69f6"],
 } as const satisfies StoryChapterWritten
