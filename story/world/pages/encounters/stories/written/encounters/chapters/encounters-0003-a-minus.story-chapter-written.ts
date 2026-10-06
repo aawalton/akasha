@@ -4,13 +4,14 @@ export const encounters0003AMinus = {
   id: "01a11369-9481-77dc-967a-d4181eb52b37",
   type: "page-type/story-chapter-written",
   slug: "encounters-0003-a-minus",
+  cover: "image/image-3d7f4b751c8c2e8a",
   position: 3,
   unit: "unit/words",
   title: "A-Minus",
   story: "story-written/encounters",
   ownLength: 5981,
   prose: "txt",
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/reviewers",
   beats: "jsonl",
   lore: [
     "lore/encounters-hana",
@@ -35,5 +36,12 @@ export const encounters0003AMinus = {
     "story-recorder/inventory",
     "story-recorder/mechanics",
     "story-recorder/memory",
+    "story-recorder/picture",
+  ],
+  scenes: [
+    "image/image-debe54fac4158572",
+    "image/image-3d7f4b751c8c2e8a",
+    "image/image-eb621790b6cf1512",
+    "image/image-03b2c19785b45140",
   ],
 } as const satisfies StoryChapterWritten
