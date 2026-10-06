@@ -14,7 +14,7 @@ export const day20261006 = {
   inboxTasksClearedToday: false,
   inboxTemperTasks: 0,
   inboxTemperTasksClearedToday: true,
-  lowestEmailInboxCount: 1,
+  lowestEmailInboxCount: 0,
   inboxFindings: 0,
   inboxFindingsClearedToday: true,
   inboxGaps: 0,
