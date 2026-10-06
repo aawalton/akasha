@@ -111,6 +111,7 @@ export function useRecovery(
   const healedFrom = useRef<number | null>(null)
   const heardAt = useRef(0)
   const timers = useRef<ReturnType<typeof setTimeout>[]>([])
+  const reopening = useRef<ReturnType<typeof setTimeout> | null>(null)
 
   const calm = useCallback((): undefined => {
     for (const timer of timers.current) clearTimeout(timer)
@@ -119,6 +120,7 @@ export function useRecovery(
 
   const broken = useCallback(
     (why: string): undefined => {
+      if (reopening.current !== null) return
       calm()
       const steer = steering.current
       if (!steer.live()) return
@@ -133,7 +135,10 @@ export function useRecovery(
       healedFrom.current = null
       setReconnecting(true)
       steer.keep()
-      timers.current.push(setTimeout(() => steering.current.reopen(), wait))
+      reopening.current = setTimeout(() => {
+        reopening.current = null
+        steering.current.reopen()
+      }, wait)
     },
     [calm, steering]
   )
@@ -179,6 +184,8 @@ export function useRecovery(
     for (const [name, listener] of listened) element.addEventListener(name, listener)
     return () => {
       calm()
+      if (reopening.current !== null) clearTimeout(reopening.current)
+      reopening.current = null
       for (const [name, listener] of listened) element.removeEventListener(name, listener)
     }
   }, [audio, steering, calm, broken])

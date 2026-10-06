@@ -55,6 +55,11 @@ export const narrationRecovery = {
       statement: "A lost narration is reopened only while it plays, so a halt is never undone.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A break while a reopen waits is the same break, so a burst of errors spends one try.",
+    },
+    {
       decisionKind: "decision-kind/constraint",
       statement: "A narration lives only in the speech workload's memory, so its restart loses it.",
     },
