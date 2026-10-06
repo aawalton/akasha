@@ -30,7 +30,7 @@ export const encounters0005BothBetsCount = {
     "character-other/encounters-priya",
     "character-other/encounters-hana",
   ],
-  reviewedBy: ["story-reviewer/holdings", "story-reviewer/style"],
+  reviewedBy: ["story-reviewer/holdings", "story-reviewer/style", "story-reviewer/scene"],
   recordedBy: [
     "story-recorder/inventory",
     "story-recorder/plan",
