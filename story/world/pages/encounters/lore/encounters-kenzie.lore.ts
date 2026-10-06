@@ -197,6 +197,7 @@ export const encountersKenzie = {
         "lore-disclosure/game-master",
         "character-other/encounters-kenzie",
         "character-player/encounters-alan",
+        "character-other/encounters-sofia",
       ],
     },
     {
@@ -205,6 +206,7 @@ export const encountersKenzie = {
         "lore-disclosure/game-master",
         "character-other/encounters-kenzie",
         "character-player/encounters-alan",
+        "character-other/encounters-sofia",
       ],
     },
     {
@@ -213,6 +215,7 @@ export const encountersKenzie = {
         "lore-disclosure/game-master",
         "character-other/encounters-kenzie",
         "character-player/encounters-alan",
+        "character-other/encounters-sofia",
       ],
     },
     {
@@ -284,6 +287,7 @@ export const encountersKenzie = {
         "lore-disclosure/game-master",
         "character-other/encounters-sofia",
         "character-other/encounters-kenzie",
+        "character-player/encounters-alan",
       ],
     },
     {
@@ -292,6 +296,7 @@ export const encountersKenzie = {
         "lore-disclosure/game-master",
         "character-other/encounters-sofia",
         "character-other/encounters-kenzie",
+        "character-player/encounters-alan",
       ],
     },
     {
@@ -351,6 +356,42 @@ export const encountersKenzie = {
       knowers: [
         "lore-disclosure/game-master",
         "character-player/encounters-alan",
+        "character-other/encounters-kenzie",
+      ],
+    },
+    {
+      fact: "Chapter 5: Kenzie texted Alan to come to her and Sofia's Cabana Bay room at ten.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/encounters-alan",
+        "character-other/encounters-kenzie",
+        "character-other/encounters-sofia",
+      ],
+    },
+    {
+      fact: "Sofia and Kenzie bet on Alan: Sofia on whoever he comes in, Kenzie on who comes most. Both count.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/encounters-alan",
+        "character-other/encounters-sofia",
+        "character-other/encounters-kenzie",
+      ],
+    },
+    {
+      fact: "Kenzie and Sofia kissed for the first time, with Alan pinned between them.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/encounters-alan",
+        "character-other/encounters-sofia",
+        "character-other/encounters-kenzie",
+      ],
+    },
+    {
+      fact: "Alan ruled that Kenzie won on points, three to two, and Sofia won the bet.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/encounters-alan",
+        "character-other/encounters-sofia",
         "character-other/encounters-kenzie",
       ],
     },

@@ -320,5 +320,15 @@ export const encountersPriya = {
       fact: "Priya stayed the night in Alan's room at the Royal Pacific, and left at seven.",
       knowers: ["lore-disclosure/game-master", "character-player/encounters-alan"],
     },
+    {
+      fact: "Priya heard Alan, Sofia and Kenzie through the connecting door, and scored it ten out of ten.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/encounters-priya",
+        "character-player/encounters-alan",
+        "character-other/encounters-sofia",
+        "character-other/encounters-kenzie",
+      ],
+    },
   ],
 } as const satisfies Lore

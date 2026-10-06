@@ -22,6 +22,7 @@ export const encountersSofia3 = {
         "lore-disclosure/game-master",
         "character-other/encounters-sofia",
         "character-player/encounters-alan",
+        "character-other/encounters-kenzie",
       ],
     },
     {
@@ -31,6 +32,7 @@ export const encountersSofia3 = {
         "character-other/encounters-sofia",
         "character-player/encounters-alan",
         "character-other/encounters-hana",
+        "character-other/encounters-kenzie",
       ],
     },
     {
@@ -39,6 +41,7 @@ export const encountersSofia3 = {
         "lore-disclosure/game-master",
         "character-other/encounters-sofia",
         "character-player/encounters-alan",
+        "character-other/encounters-kenzie",
       ],
     },
     {
@@ -58,6 +61,7 @@ export const encountersSofia3 = {
         "lore-disclosure/game-master",
         "character-other/encounters-sofia",
         "character-player/encounters-alan",
+        "character-other/encounters-kenzie",
       ],
     },
     {
@@ -145,6 +149,15 @@ export const encountersSofia3 = {
     {
       fact: "Sofia means to outlast Kenzie, and to have Alan come in her rather than in Kenzie.",
       knowers: ["lore-disclosure/game-master", "character-other/encounters-sofia"],
+    },
+    {
+      fact: "Alan fucked Sofia and Kenzie together in their Cabana Bay room, and came inside Sofia.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/encounters-alan",
+        "character-other/encounters-sofia",
+        "character-other/encounters-kenzie",
+      ],
     },
   ],
 } as const satisfies Lore

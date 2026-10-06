@@ -301,5 +301,13 @@ export const encountersSofia = {
         "character-player/encounters-alan",
       ],
     },
+    {
+      fact: "Chapter 5: Sofia texted Alan that she was not losing this one, and he came to Cabana Bay.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/encounters-alan",
+        "character-other/encounters-sofia",
+      ],
+    },
   ],
 } as const satisfies Lore
