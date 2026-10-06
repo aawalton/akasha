@@ -49,7 +49,7 @@ export const encountersImani = {
       ],
     },
     {
-      fact: "Imani is slim and long, with a narrow waist, perky medium tits and a high round ass.",
+      fact: "Imani is slim and long, with a narrow waist, small perky tits and a small high ass.",
       knowers: [
         "lore-disclosure/game-master",
         "character-other/encounters-sofia",
@@ -69,7 +69,7 @@ export const encountersImani = {
       ],
     },
     {
-      fact: "Imani has perky medium tits with dark nipples, and a bare cunt with a pierced clit hood.",
+      fact: "Imani has small perky tits with dark nipples, and a bare cunt with a pierced clit hood.",
       knowers: [
         "lore-disclosure/game-master",
         "character-other/encounters-sofia",

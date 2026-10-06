@@ -49,7 +49,7 @@ export const encountersPriya = {
       ],
     },
     {
-      fact: "Priya is small-framed but soft, with full round tits, a soft belly and a round ass.",
+      fact: "Priya is petite and slim, with small perky tits, a flat stomach and a small round ass.",
       knowers: [
         "lore-disclosure/game-master",
         "character-other/encounters-sofia",
@@ -69,7 +69,7 @@ export const encountersPriya = {
       ],
     },
     {
-      fact: "Priya has full round tits with dark brown nipples, and a cunt she keeps waxed bare.",
+      fact: "Priya has small perky tits with dark brown nipples, and a cunt she keeps waxed bare.",
       knowers: [
         "lore-disclosure/game-master",
         "character-other/encounters-sofia",

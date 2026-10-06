@@ -49,7 +49,7 @@ export const encountersKenzie = {
       ],
     },
     {
-      fact: "Kenzie is curvy and soft, with big heavy tits, wide hips and thick thighs.",
+      fact: "Kenzie is tall and slim, long-limbed, with a small chest, a flat stomach and narrow hips.",
       knowers: [
         "lore-disclosure/game-master",
         "character-other/encounters-sofia",
@@ -69,7 +69,7 @@ export const encountersKenzie = {
       ],
     },
     {
-      fact: "Kenzie has big heavy tits with wide pale pink nipples, and freckles across her chest.",
+      fact: "Kenzie has small perky tits with pale pink nipples, and freckles across her chest.",
       knowers: [
         "lore-disclosure/game-master",
         "character-other/encounters-sofia",
@@ -79,7 +79,7 @@ export const encountersKenzie = {
       ],
     },
     {
-      fact: "Kenzie has a soft round belly, a big ass, and a cunt with a trimmed copper bush.",
+      fact: "Kenzie has a flat stomach, slim thighs, a small tight ass and a cunt with a trimmed copper bush.",
       knowers: [
         "lore-disclosure/game-master",
         "character-other/encounters-sofia",
@@ -143,7 +143,7 @@ export const encountersKenzie = {
       knowers: ["lore-disclosure/game-master", "character-other/encounters-kenzie"],
     },
     {
-      fact: "Kenzie loves a cock fucking her tits, and loves to be told how big they are.",
+      fact: "Kenzie loves edging a man, riding him to the brink and stopping, over and over, until he begs.",
       knowers: ["lore-disclosure/game-master", "character-other/encounters-kenzie"],
     },
     {
