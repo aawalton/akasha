@@ -184,4 +184,4 @@
 {"beat":184,"event":"One white flower, pale as the moon, wide open on its stem. It smells faintly sweet in the dark."}
 {"beat":185,"event":"Elsie kneels up on the bed and whispers to it: you waited for Midsummer. You did it. We all did."}
 {"beat":186,"event":"She lies down with the birch crown still on. The thread to Tamsin is warm under her breastbone."}
-{"beat":187,"event":"Below the round window the paper lanterns on Thimble Canal gutter out, one by one."}
+{"beat":187,"event":"Below the round window the paper lanterns on Thimble Canal gutter out, one by one.","changes":[{"page":"world-relationship/fairweather-elsie-tamsin","note":"Bond: Tamsin 97 → 98 (Tether: at day's end)","key":"relationshipPoints","from":97,"to":98},{"page":"metric-character-stat/fairweather-elsie-strength","note":"Strength logged","key":"history","append":{"turn":20,"value":21}},{"page":"metric-character-stat/fairweather-elsie-heart","note":"Heart logged","key":"history","append":{"turn":20,"value":20}}]}
