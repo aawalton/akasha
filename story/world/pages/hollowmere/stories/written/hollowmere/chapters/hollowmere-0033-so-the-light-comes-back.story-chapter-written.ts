@@ -5,6 +5,8 @@ export const hollowmere0033SoTheLightComesBack = {
   type: "page-type/story-chapter-written",
   slug: "hollowmere-0033-so-the-light-comes-back",
   cover: "image/image-05a4c4ea4daceeff",
+  completedAt: "2026-10-06T10:24:32.759Z",
+  ownProgress: 3077,
   position: 33,
   unit: "unit/words",
   title: "So the Light Comes Back",
