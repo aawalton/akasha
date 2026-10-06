@@ -1,1 +1,2 @@
 holdings: beat 5: Tilly's satchel clinks with lamp oil, but she holds no satchel, only her belt of vials
+scene: "For a moment the dark was complete" - beat 52 falls just after 19:45 dusk; full dark is ~20:30

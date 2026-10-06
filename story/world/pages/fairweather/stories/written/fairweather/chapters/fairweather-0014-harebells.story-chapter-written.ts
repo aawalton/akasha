@@ -41,7 +41,7 @@ export const fairweather0014Harebells = {
     "character-other/fairweather-cora",
     "character-other/fairweather-amara",
   ],
-  reviewedBy: ["story-reviewer/holdings"],
+  reviewedBy: ["story-reviewer/holdings", "story-reviewer/scene"],
   recordedBy: [
     "story-recorder/inventory",
     "story-recorder/mechanics",
