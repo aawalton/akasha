@@ -9,9 +9,9 @@ export const fairweather0014Harebells = {
   unit: "unit/words",
   title: "Harebells",
   story: "story-written/fairweather",
-  ownLength: 9245,
+  ownLength: 9265,
   prose: "txt",
-  stepStatus: "step-status/writer",
+  stepStatus: "step-status/recorders",
   beats: "jsonl",
   issues: "txt",
   lore: [
