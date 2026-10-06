@@ -12,9 +12,6 @@ export const nimueChapterNarration = {
         "A chapter whose narration ends is marked read, and the next chapter follows in the stream.",
     },
     {
-      statement: "Play Audio starts at the sentence holding the chapter's read progress.",
-    },
-    {
       statement: "A chapter's read progress follows the words narration has spoken.",
     },
   ],
