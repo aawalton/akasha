@@ -11,10 +11,6 @@ export const nimueChapterNarration = {
       statement:
         "A chapter whose narration ends is marked read, and the next chapter follows in the stream.",
     },
-    {
-      statement:
-        "The chapter page playing marks the sentence being spoken and scrolls to keep it in view.",
-    },
   ],
   constraints: [
     "The speech workload runs Kokoro on a GTX 1080 Ti on node-02, one inference at a time.",
