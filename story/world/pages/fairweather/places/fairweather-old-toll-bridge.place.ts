@@ -18,7 +18,7 @@ export const fairweatherOldTollBridge = {
     },
     {
       fact: "A river troll is twice a woman's height, mossy and slow, and sleeps by day under the arch.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-other/fairweather-tamsin"],
     },
     {
       fact: "The shepherds of Wend Meadows pay the E-rank troll notice: twelve lanterns.",
