@@ -28,5 +28,10 @@ export const encounters0005BothBetsCount = {
     "character-other/encounters-priya",
     "character-other/encounters-hana",
   ],
-  recordedBy: ["story-recorder/inventory", "story-recorder/plan", "story-recorder/mechanics"],
+  recordedBy: [
+    "story-recorder/inventory",
+    "story-recorder/plan",
+    "story-recorder/mechanics",
+    "story-recorder/memory",
+  ],
 } as const satisfies StoryChapterWritten
