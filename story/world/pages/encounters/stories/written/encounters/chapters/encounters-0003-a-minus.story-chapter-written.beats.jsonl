@@ -5,22 +5,22 @@
 {"beat":5,"event":"High tight ponytail, a gold hoop in her nose, winged liner sharp enough to cut.","memory":[{"page":"lore/encounters-priya","fact":"Priya's long sleek black hair is pulled into a high tight ponytail that falls past her shoulders.","shown":true},{"page":"lore/encounters-priya","fact":"Priya wears round tortoiseshell glasses, a small gold hoop nose ring and sharp winged liner.","shown":true}]}
 {"beat":6,"event":"She tells him she got his number from Sofia, and that she does not do small talk."}
 {"beat":7,"event":"She tells him she has had an annual pass since she was nine, and he will wait in no line today.","memory":[{"page":"lore/encounters-priya","fact":"Priya got Alan's number from Sofia and offered to show him the park with no lines.","learns":"character-player/encounters-alan"},{"page":"lore/encounters-priya","fact":"Priya got Alan's number from Sofia and offered to show him the park with no lines.","shown":true}]}
-{"beat":8,"event":"She says she has heard two very detailed reviews of him, and has come to form her own.","memory":[{"page":"lore/encounters-priya","fact":"Priya wants to see for herself what Sofia and Kenzie found in Alan.","learns":"character-player/encounters-alan"},{"page":"lore/encounters-priya","fact":"Priya wants to see for herself what Sofia and Kenzie found in Alan.","shown":true}]}
+{"beat":8,"event":"She says Sofia and Kenzie each gave her a very detailed review of him; she'll form her own."}
 {"beat":9,"event":"She says it without a smile, and turns for the gates before he can answer."}
 {"beat":10,"event":"She walks fast for someone five foot even, and he has to work to keep up."}
-{"beat":11,"event":"She steers him past a ninety-minute sign into a single-rider line with no one in it.","memory":[{"page":"place/encounters-universal-studios-florida","fact":"Diagon Alley hides behind a London street front, and its Gringotts dragon breathes real fire.","shown":true}]}
-{"beat":12,"event":"She says single rider on Gringotts is shortest before eleven, and she has the data.","memory":[{"page":"lore/encounters-priya","fact":"Priya knows which rides have single-rider lines, and the hour each line runs shortest.","learns":"character-player/encounters-alan"},{"page":"lore/encounters-priya","fact":"Priya knows which rides have single-rider lines, and the hour each line runs shortest.","shown":true}]}
-{"beat":13,"event":"Inside, she tells him the backstory of every room of the bank in a low, quick voice.","memory":[{"page":"lore/encounters-priya","fact":"Priya grew up an annual passholder and knows every ride's backstory and wait-time trick.","learns":"character-player/encounters-alan"},{"page":"lore/encounters-priya","fact":"Priya grew up an annual passholder and knows every ride's backstory and wait-time trick.","shown":true}]}
+{"beat":11,"event":"She steers him past a ninety-minute sign into a single-rider line with no one in it."}
+{"beat":12,"event":"She says single rider on Gringotts is shortest before eleven, and she has the data."}
+{"beat":13,"event":"Inside, she tells him the backstory of every room of the bank in a low, quick voice."}
 {"beat":14,"event":"On the ride they are split into different rows; she finds him at the exit, unruffled."}
 {"beat":15,"event":"She asks him what he thought, and listens to all of it, watching his face."}
 {"beat":16,"event":"Hours later she quotes back something he said in the queue, word for word."}
 {"beat":17,"event":"He notices she remembers everything he says; she notices him noticing."}
-{"beat":18,"event":"At the Mummy she times their walk to the second; the single-rider line is empty.","memory":[{"page":"place/encounters-universal-studios-florida","fact":"Several big rides here, Gringotts and the Mummy among them, have single-rider lines.","learns":"character-player/encounters-alan"},{"page":"place/encounters-universal-studios-florida","fact":"Several big rides here, Gringotts and the Mummy among them, have single-rider lines.","shown":true}]}
+{"beat":18,"event":"At the Mummy she times their walk to the second; the single-rider line is empty."}
 {"beat":19,"event":"She explains the ride's effects to him, then rides it in silence, gripping the bar."}
-{"beat":20,"event":"After, she admits she still flinches at the fire, every time, and has since she was nine.","memory":[{"page":"lore/encounters-priya","fact":"Priya still flinches at the Mummy's fire, as she has every time since she was nine.","establishes":true},{"page":"lore/encounters-priya","fact":"Priya still flinches at the Mummy's fire, as she has every time since she was nine.","learns":"character-player/encounters-alan"},{"page":"lore/encounters-priya","fact":"Priya still flinches at the Mummy's fire, as she has every time since she was nine.","learns":"character-other/encounters-priya"},{"page":"lore/encounters-priya","fact":"Priya still flinches at the Mummy's fire, as she has every time since she was nine.","shown":true}]}
+{"beat":20,"event":"After, she admits she still flinches at the fire, every time, and has since she was nine."}
 {"beat":21,"event":"She tells him about growing up in Winter Park, a passholder kid on her bike."}
 {"beat":22,"event":"She tells him she is in aerospace engineering, and frets over every grade."}
-{"beat":23,"event":"He asks what her worst grade has been; she says an A-minus, and does not elaborate.","memory":[{"page":"lore/encounters-priya","fact":"Priya's worst grade has been an A-minus.","establishes":true},{"page":"lore/encounters-priya","fact":"Priya's worst grade has been an A-minus.","learns":"character-player/encounters-alan"},{"page":"lore/encounters-priya","fact":"Priya's worst grade has been an A-minus.","learns":"character-other/encounters-priya"},{"page":"lore/encounters-priya","fact":"Priya's worst grade has been an A-minus.","shown":true}]}
+{"beat":23,"event":"He asks what her worst grade has been; she says an A-minus, and does not elaborate."}
 {"beat":24,"event":"He laughs; she watches him laugh, and something in her face eases."}
 {"beat":25,"event":"She flirts the only way she does: a long steady look at him over her glasses."}
 {"beat":26,"event":"Thunder rolls in mid-afternoon; the sky opens over New York.","at":"2026-10-10T19:10:00.000Z"}
@@ -28,45 +28,45 @@
 {"beat":28,"event":"Her shoulder is against his chest; she does not move it."}
 {"beat":29,"event":"She says, deadpan, that this is the only time all day she has not been in control."}
 {"beat":30,"event":"He tells her she has been extraordinary at it; she looks up at him, a beat too long."}
-{"beat":31,"event":"She delivers one compliment, precise and quiet, about the way he listens.","memory":[{"page":"lore/encounters-priya","fact":"Priya flirts with a long steady look over her glasses and one precise, devastating compliment.","learns":"character-player/encounters-alan"},{"page":"lore/encounters-priya","fact":"Priya flirts with a long steady look over her glasses and one precise, devastating compliment.","shown":true}]}
+{"beat":31,"event":"She delivers one compliment, precise and quiet, about the way he listens."}
 {"beat":32,"event":"It lands harder than anything anyone has said to him all trip, and she knows it."}
 {"beat":33,"event":"The rain stops as suddenly as it started; she steps back and checks her schedule."}
-{"beat":34,"event":"They spend the rest of the afternoon working through her list, ride by ride.","memory":[{"page":"place/encounters-universal-studios-florida","fact":"The Hogwarts Express runs from King's Cross in this park to Hogsmeade in Islands of Adventure.","shown":true}]}
-{"beat":35,"event":"She is funnier as the day goes on; one dry line has him laughing so hard he stops walking.","memory":[{"page":"lore/encounters-priya","fact":"Priya is dry and deadpan, says little, and then lands one line that floors the table.","learns":"character-player/encounters-alan"},{"page":"lore/encounters-priya","fact":"Priya is dry and deadpan, says little, and then lands one line that floors the table.","shown":true}]}
+{"beat":34,"event":"They spend the rest of the afternoon working through her list, ride by ride."}
+{"beat":35,"event":"She is funnier as the day goes on; one dry line has him laughing so hard he stops walking."}
 {"beat":36,"event":"At sunset she says she has booked dinner, late, at Vivo, and he is coming."}
-{"beat":37,"event":"They take a corner booth at Vivo in CityWalk, high-backed and private.","at":"2026-10-11T01:00:00.000Z","place":"place/encounters-citywalk-vivo","memory":[{"page":"place/encounters-citywalk-vivo","fact":"Vivo Italian Kitchen is a CityWalk restaurant of handmade pasta, low light and a long bar.","learns":"character-player/encounters-alan"},{"page":"place/encounters-citywalk-vivo","fact":"Vivo Italian Kitchen is a CityWalk restaurant of handmade pasta, low light and a long bar.","shown":true},{"page":"place/encounters-citywalk-vivo","fact":"Vivo serves late, and its corner booths are high-backed and private.","learns":"character-player/encounters-alan"},{"page":"place/encounters-citywalk-vivo","fact":"Vivo serves late, and its corner booths are high-backed and private.","shown":true}],"pictured":[{"cover":"image/image-3d7f4b751c8c2e8a","coverAfter":"Vivo is low light and handmade pasta, a long bar down one side,","setting":"Vivo"}]}
+{"beat":37,"event":"They take a corner booth at Vivo in CityWalk, high-backed and private.","at":"2026-10-11T01:00:00.000Z","place":"place/encounters-citywalk-vivo"}
 {"beat":38,"event":"She orders for both of them without asking, and is right about both."}
 {"beat":39,"event":"She splits nothing tonight; she says the bill is hers, the day was her idea."}
 {"beat":40,"event":"Over the pasta she goes quiet, turning her glass of San Pellegrino in slow circles."}
 {"beat":41,"event":"He asks what she is thinking; she says it is the one thing she is bad at saying."}
 {"beat":42,"event":"She tells him, haltingly, that she is shy talking about sex and not at all shy having it."}
-{"beat":43,"event":"She says she has read a great deal about it, and he should not laugh.","memory":[{"page":"lore/encounters-priya","fact":"Priya is shy saying anything about sex and wholly unashamed having it, and has researched it.","learns":"character-player/encounters-alan"},{"page":"lore/encounters-priya","fact":"Priya is shy saying anything about sex and wholly unashamed having it, and has researched it.","shown":true}]}
+{"beat":43,"event":"She says she has read a great deal about it, and he should not laugh."}
 {"beat":44,"event":"He does not laugh; he tells her to take her time."}
 {"beat":45,"event":"She stops, starts, and stops again, color rising under her brown skin."}
 {"beat":46,"event":"She says she wants to be tied down."}
-{"beat":47,"event":"She makes herself go on: spanked, and called a good girl, and used hard.","memory":[{"page":"lore/encounters-priya","fact":"Priya wants to be tied down, spanked, called a good girl and used hard.","learns":"character-player/encounters-alan"},{"page":"lore/encounters-priya","fact":"Priya wants to be tied down, spanked, called a good girl and used hard.","shown":true}]}
+{"beat":47,"event":"She makes herself go on: spanked, and called a good girl, and used hard."}
 {"beat":48,"event":"She says the last part looking straight at him, over her glasses, steady."}
 {"beat":49,"event":"He asks her if she has done any of it; she says not with a person."}
 {"beat":50,"event":"He tells her he would like to, if she wants him to."}
 {"beat":51,"event":"She lets out a long breath and says she was hoping he would say that."}
-{"beat":52,"event":"She says she has a safeword picked, and tells him: Gringotts.","memory":[{"page":"lore/encounters-priya","fact":"Priya's safeword is Gringotts.","establishes":true},{"page":"lore/encounters-priya","fact":"Priya's safeword is Gringotts.","learns":"character-player/encounters-alan"},{"page":"lore/encounters-priya","fact":"Priya's safeword is Gringotts.","learns":"character-other/encounters-priya"},{"page":"lore/encounters-priya","fact":"Priya's safeword is Gringotts.","shown":true}]}
+{"beat":52,"event":"She says she has a safeword picked, and tells him: Gringotts."}
 {"beat":53,"event":"He repeats it back; she says good, and almost smiles."}
-{"beat":54,"event":"She tells him there is something in her bag, and that she packed it and told no one.","memory":[{"page":"lore/encounters-priya","fact":"Priya packed a pair of padded cuffs in her suitcase, and told no one.","learns":"character-player/encounters-alan"},{"page":"lore/encounters-priya","fact":"Priya packed a pair of padded cuffs in her suitcase, and told no one.","shown":true}]}
+{"beat":54,"event":"She tells him there is something in her bag, and that she packed it and told no one."}
 {"beat":55,"event":"She opens the bag under the table: a pair of padded cuffs."}
 {"beat":56,"event":"She says, deadpan, that she color-coded them; they are black."}
 {"beat":57,"event":"He laughs; she laughs too, at last, a real laugh, her head ducked."}
 {"beat":58,"event":"She pays, to the cent, and they walk out into CityWalk side by side."}
 {"beat":59,"event":"They walk to the Royal Pacific; in the lobby she takes his hand.","at":"2026-10-11T02:20:00.000Z"}
-{"beat":60,"event":"He lets them into his room; she sets her bag on the desk.","place":"place/encounters-royal-pacific-room","memory":[{"page":"place/encounters-royal-pacific-room","fact":"The window looks down over the hotel's lagoon pool and its palms.","learns":"character-other/encounters-priya"},{"page":"place/encounters-royal-pacific-room","fact":"The window looks down over the hotel's lagoon pool and its palms.","shown":true}]}
+{"beat":60,"event":"He lets them into his room; she sets her bag on the desk.","place":"place/encounters-royal-pacific-room"}
 {"beat":61,"event":"She stands in the middle of the room, small and very straight, and waits."}
 {"beat":62,"event":"He goes to her and takes her glasses off, folds them, and sets them on the desk."}
 {"beat":63,"event":"He kisses her, slow, and she rises on her toes into it."}
 {"beat":64,"event":"He tells her she will say Gringotts if she needs to; she nods; he makes her say yes."}
 {"beat":65,"event":"She says yes; he tells her good girl, and she shivers all over."}
 {"beat":66,"event":"He unties the bikini top at her neck and back, and lets it fall."}
-{"beat":67,"event":"Small perky tits, dark brown nipples already tight.","pictured":[{"cover":"image/image-eb621790b6cf1512","coverAfter":"Her tits are small and perky, high on her chest, and her nipples are dark brown","character":"character-other/encounters-priya","outfit":"tiny black drawstring shorts, topless"}]}
+{"beat":67,"event":"Small perky tits, dark brown nipples already tight."}
 {"beat":68,"event":"He cups one tit and thumbs the nipple; she bites her lip and does not make a sound."}
-{"beat":69,"event":"He pulls the drawstrings on her shorts and they drop; she is waxed bare beneath.","memory":[{"page":"lore/encounters-priya","fact":"Priya has small perky tits with dark brown nipples, and a cunt she keeps waxed bare.","learns":"character-player/encounters-alan"},{"page":"lore/encounters-priya","fact":"Priya has small perky tits with dark brown nipples, and a cunt she keeps waxed bare.","shown":true}],"pictured":[{"cover":"image/image-03b2c19785b45140","coverAfter":"You find the drawstrings at the sides of her shorts and pull them,","character":"character-other/encounters-priya","outfit":"naked"}]}
+{"beat":69,"event":"He pulls the drawstrings on her shorts and they drop; she is waxed bare beneath."}
 {"beat":70,"event":"He tells her to get on the bed, on her back; she does it at once."}
 {"beat":71,"event":"He buckles a padded cuff on each wrist, checking each with a finger under the strap."}
 {"beat":72,"event":"He clips the cuffs together and fastens them to the headboard with his belt."}
@@ -82,10 +82,10 @@
 {"beat":82,"event":"He eats her slowly, then stops each time her thighs start to shake."}
 {"beat":83,"event":"She begs him, quietly, over and over, and he makes her wait again."}
 {"beat":84,"event":"He slides two fingers into her, curls them, and sucks her clit until she comes."}
-{"beat":85,"event":"She comes quietly, biting her lip, her whole body straining at the cuffs.","memory":[{"page":"lore/encounters-priya","fact":"Priya comes quietly, biting her lip, and begs when she is made to wait.","learns":"character-player/encounters-alan"},{"page":"lore/encounters-priya","fact":"Priya comes quietly, biting her lip, and begs when she is made to wait.","shown":true}]}
+{"beat":85,"event":"She comes quietly, biting her lip, her whole body straining at the cuffs."}
 {"beat":86,"event":"He unclips the cuffs from the headboard and turns her over onto her stomach."}
 {"beat":87,"event":"He clips her cuffs to the headboard again, her ass in the air, her cheek on the pillow."}
-{"beat":88,"event":"He runs his palm over her small round ass, slowly, and she holds her breath.","memory":[{"page":"lore/encounters-priya","fact":"Priya is petite and slim, with small perky tits, a flat stomach and a small round ass.","learns":"character-player/encounters-alan"},{"page":"lore/encounters-priya","fact":"Priya is petite and slim, with small perky tits, a flat stomach and a small round ass.","shown":true}]}
+{"beat":88,"event":"He runs his palm over her small round ass, slowly, and she holds her breath."}
 {"beat":89,"event":"He spanks her, once, not hard; she jerks and lets out a small sound."}
 {"beat":90,"event":"He asks if she is all right; she says, muffled, yes, and more."}
 {"beat":91,"event":"He spanks her again, harder, one cheek and then the other."}
@@ -103,16 +103,16 @@
 {"beat":103,"event":"He keeps going, harder, holding her hips back onto him."}
 {"beat":104,"event":"She asks him not to stop, then asks him to come in her."}
 {"beat":105,"event":"He grips her ponytail, pulls her head back, and fucks her hard and fast."}
-{"beat":106,"event":"He comes deep inside her, groaning, and she comes a third time, silent and shaking.","memory":[{"page":"lore/encounters-priya","fact":"Alan cuffed Priya to his bed, spanked her, fucked her and came inside her.","establishes":true},{"page":"lore/encounters-priya","fact":"Alan cuffed Priya to his bed, spanked her, fucked her and came inside her.","learns":"character-player/encounters-alan"},{"page":"lore/encounters-priya","fact":"Alan cuffed Priya to his bed, spanked her, fucked her and came inside her.","learns":"character-other/encounters-priya"},{"page":"lore/encounters-priya","fact":"Alan cuffed Priya to his bed, spanked her, fucked her and came inside her.","shown":true}]}
+{"beat":106,"event":"He comes deep inside her, groaning, and she comes a third time, silent and shaking."}
 {"beat":107,"event":"He stays inside her, his chest on her back, until both of them catch their breath."}
 {"beat":108,"event":"He unbuckles the belt and the cuffs, and rubs the marks on her wrists."}
 {"beat":109,"event":"He pulls her against him; she curls up small, her head on his chest.","at":"2026-10-11T04:40:00.000Z"}
 {"beat":110,"event":"He asks if she is all right; she says she is better than all right, and means it."}
 {"beat":111,"event":"He brings her water and her glasses; she puts the glasses on to look at him properly."}
 {"beat":112,"event":"She tells him he was better than both reviews, and that she will say so, in detail."}
-{"beat":113,"event":"She says, still deadpan, that she will be giving him an A, not an A-minus.","memory":[{"page":"lore/encounters-priya","fact":"Priya graded Alan an A, better than both reviews she had heard of him.","establishes":true},{"page":"lore/encounters-priya","fact":"Priya graded Alan an A, better than both reviews she had heard of him.","learns":"character-player/encounters-alan"},{"page":"lore/encounters-priya","fact":"Priya graded Alan an A, better than both reviews she had heard of him.","learns":"character-other/encounters-priya"},{"page":"lore/encounters-priya","fact":"Priya graded Alan an A, better than both reviews she had heard of him.","shown":true}]}
+{"beat":113,"event":"She says, still deadpan, that she will be giving him an A, not an A-minus."}
 {"beat":114,"event":"He laughs; she smiles into his chest, a real one this time."}
 {"beat":115,"event":"Quieter, she tells him there is more she wants that she did not say tonight."}
-{"beat":116,"event":"She will not say what; she says she is still working up to it.","memory":[{"page":"lore/encounters-priya","fact":"Priya wants more in bed than she has told Alan, and is still working up to saying it.","establishes":true},{"page":"lore/encounters-priya","fact":"Priya wants more in bed than she has told Alan, and is still working up to saying it.","learns":"character-player/encounters-alan"},{"page":"lore/encounters-priya","fact":"Priya wants more in bed than she has told Alan, and is still working up to saying it.","learns":"character-other/encounters-priya"},{"page":"lore/encounters-priya","fact":"Priya wants more in bed than she has told Alan, and is still working up to saying it.","shown":true}]}
+{"beat":116,"event":"She will not say what; she says she is still working up to it."}
 {"beat":117,"event":"She tells him her alarm is set for seven; she has a schedule to keep."}
-{"beat":118,"event":"She falls asleep curled against him, her cuffs on the nightstand beside her glasses.","memory":[{"page":"lore/encounters-priya","fact":"Priya stayed the night in Alan's room at the Royal Pacific.","establishes":true},{"page":"lore/encounters-priya","fact":"Priya stayed the night in Alan's room at the Royal Pacific.","learns":"character-player/encounters-alan"},{"page":"lore/encounters-priya","fact":"Priya stayed the night in Alan's room at the Royal Pacific.","learns":"character-other/encounters-priya"},{"page":"lore/encounters-priya","fact":"Priya stayed the night in Alan's room at the Royal Pacific.","shown":true}]}
+{"beat":118,"event":"She falls asleep curled against him, her cuffs on the nightstand beside her glasses."}
