@@ -112,4 +112,5 @@ export const overwhereIv0005TheNightStrike = {
   lastTurn: "overwhere-iv-00-084",
   lastTurnPosition: 84,
   endsAt: "2026-10-07T00:01:00.000Z",
+  outcomes: "jsonl",
 } as const satisfies StoryChapterPlayed

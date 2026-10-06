@@ -151,4 +151,5 @@ export const overwhereIv0004TheGreatWolf = {
   lastTurn: "overwhere-iv-00-065",
   lastTurnPosition: 65,
   endsAt: "2026-10-04T18:33:00.000Z",
+  outcomes: "jsonl",
 } as const satisfies StoryChapterPlayed
