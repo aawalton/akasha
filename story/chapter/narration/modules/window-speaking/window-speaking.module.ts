@@ -26,6 +26,10 @@ export const windowSpeaking = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A rule, a box border or an ornament on a screen is never said.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement:
         "A word of three capitals or more is said as a word, unless it is a Roman numeral.",
     },

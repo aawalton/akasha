@@ -12,6 +12,10 @@ const SLASH = /\s+\/\s+/g
 const ARROW = /\s*(?:→|->|=>)\s*/g
 const SPACES = /\s+/g
 const KIND_PARTS = /[-_]+/
+const ORNAMENT = /\p{So}+/gu
+const RULE = /\s*(?:[—–=_~]{2,}|-{2,})\s*/g
+const LOOSE_ENDS = /^[\s,;:.]+|[\s,;:]+$/g
+const WORDED = /[\p{L}\p{N}]/u
 
 function wordOf(shouted: string): string {
   if (ROMAN.test(shouted)) return shouted
@@ -20,14 +24,16 @@ function wordOf(shouted: string): string {
 
 export function spokenLine(line: string): string {
   const said = line
+    .replace(ORNAMENT, " ")
     .replace(BRACKETS, " ")
     .replace(SLASH, " of ")
     .replace(ARROW, " to ")
+    .replace(RULE, ", ")
     .replace(DASH, ", ")
     .replace(SHOUTED, wordOf)
     .replace(SPACES, " ")
-    .trim()
-  if (said === "") return ""
+    .replace(LOOSE_ENDS, "")
+  if (!WORDED.test(said)) return ""
   return ENDS_SPOKEN.test(said) ? said : `${said}.`
 }
 

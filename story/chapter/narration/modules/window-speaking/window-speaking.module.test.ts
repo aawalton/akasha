@@ -83,6 +83,26 @@ describe("spokenScreen", () => {
       "360 MP.",
     ])
   })
+
+  test("a rule, a box border or an ornament on a screen is never said", () => {
+    expect(
+      spokenScreen([
+        "╔══════════════════════╗",
+        "------------------------------",
+        "Sheikah Slate Updated.",
+        "---",
+        "✦ Lean Your Will.",
+        "Individual Res threshold: ✓ Solenne",
+        "[_______________________]",
+        "Tier: Blind to Aware. ──────────",
+      ])
+    ).toEqual([
+      "Sheikah Slate Updated.",
+      "Lean Your Will.",
+      "Individual Res threshold: Solenne.",
+      "Tier: Blind to Aware.",
+    ])
+  })
 })
 
 describe("spokenLine", () => {
