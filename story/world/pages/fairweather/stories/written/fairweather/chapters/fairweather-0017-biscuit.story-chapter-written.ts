@@ -9,9 +9,9 @@ export const fairweather0017Biscuit = {
   unit: "unit/words",
   title: "Biscuit",
   story: "story-written/fairweather",
-  ownLength: 12614,
+  ownLength: 12666,
   prose: "txt",
-  stepStatus: "step-status/writer",
+  stepStatus: "step-status/recorders",
   beats: "jsonl",
   issues: "txt",
   lore: [
