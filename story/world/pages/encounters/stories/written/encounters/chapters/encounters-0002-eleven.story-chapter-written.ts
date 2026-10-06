@@ -30,7 +30,7 @@ export const encounters0002Eleven = {
     "character-other/encounters-priya",
     "character-other/encounters-hana",
   ],
-  reviewedBy: ["story-reviewer/holdings", "story-reviewer/scene"],
+  reviewedBy: ["story-reviewer/holdings", "story-reviewer/scene", "story-reviewer/style"],
   recordedBy: [
     "story-recorder/plan",
     "story-recorder/inventory",

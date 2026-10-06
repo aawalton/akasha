@@ -1,3 +1,1 @@
 continuity: beat 7 memory "bar on University Avenue" - prose shows only weekends in Gainesville, not the street
-style: "Weekends, back in Gainesville." "I'm not being difficult." - Window Pane
-style: "as housekeeping left it" ... "made by housekeeping" - Window Pane
