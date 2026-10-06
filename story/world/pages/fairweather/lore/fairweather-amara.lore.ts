@@ -16,11 +16,16 @@ export const fairweatherAmara = {
         "character-other/fairweather-cora",
         "character-other/fairweather-tamsin",
         "character-other/fairweather-tilly",
+        "character-player/fairweather-elsie",
       ],
     },
     {
       fact: "This Midsummer Celestine means Amara to sing beside her on the barge, for the first time.",
-      knowers: ["lore-disclosure/game-master", "character-other/fairweather-amara"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/fairweather-amara",
+        "character-player/fairweather-elsie",
+      ],
     },
     {
       fact: "Amara has not told her mother she cannot sing a note with anyone listening.",
@@ -31,8 +36,21 @@ export const fairweatherAmara = {
       knowers: ["lore-disclosure/game-master", "character-other/fairweather-amara"],
     },
     {
+      fact: "On the eighteenth Amara came to the Honeycomb at last, ate honey cakes, and took the rest home.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/fairweather-amara",
+        "character-player/fairweather-elsie",
+      ],
+    },
+    {
       fact: "Amara lives in her mother's tall house on Lantern Square.",
-      knowers: ["lore-disclosure/game-master", "character-other/fairweather-amara"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/fairweather-amara",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-cora",
+      ],
     },
   ],
 } as const satisfies Lore
