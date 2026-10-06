@@ -4,13 +4,14 @@ export const fairweather0019RingFirst = {
   id: "01a11324-251e-7d39-b6e0-5e6025032731",
   type: "page-type/story-chapter-written",
   slug: "fairweather-0019-ring-first",
+  cover: "image/image-de7f488106b61ec5",
   position: 19,
   unit: "unit/words",
   title: "Ring First",
   story: "story-written/fairweather",
   ownLength: 14968,
   prose: "txt",
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/reviewers",
   beats: "jsonl",
   lore: [
     "lore/fairweather-amara",
@@ -53,5 +54,7 @@ export const fairweather0019RingFirst = {
     "story-recorder/mechanics",
     "story-recorder/inventory",
     "story-recorder/memory",
+    "story-recorder/picture",
   ],
+  scenes: ["image/image-de7f488106b61ec5"],
 } as const satisfies StoryChapterWritten
