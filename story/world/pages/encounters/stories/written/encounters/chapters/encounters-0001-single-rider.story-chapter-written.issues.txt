@@ -10,3 +10,4 @@ continuity: "someone shushes her" beat 125 - the friend next door hears too, mem
 continuity: "Priya, where's the map" - Kenzie plans, Priya navigates, Hana photographs: shown, no memory
 continuity: No beat adds the "Chapter 1:" fact for Sofia, Kenzie, Priya or Hana the Cast mechanic requires
 continuity: cover image-edd47e868b9e2f8c - chapter cover shows Sofia naked before the prose shows her so
+style: "She says nothing else." - Plain Negation
