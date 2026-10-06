@@ -31,6 +31,7 @@ export const encounters0001SingleRider = {
     "character-other/encounters-hana",
   ],
   reviewedBy: ["story-reviewer/holdings", "story-reviewer/scene", "story-reviewer/style"],
+  recordedBy: ["story-recorder/mechanics"],
   scenes: [
     "image/image-57909c48b863d038",
     "image/image-308a8c9f889157bb",
