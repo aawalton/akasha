@@ -11,7 +11,7 @@ export const fairweather0020LanternNight = {
   story: "story-written/fairweather",
   ownLength: 10045,
   prose: "txt",
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/reviewers",
   beats: "jsonl",
   issues: "txt",
   lore: [
@@ -56,6 +56,7 @@ export const fairweather0020LanternNight = {
     "story-recorder/mechanics",
     "story-recorder/inventory",
     "story-recorder/picture",
+    "story-recorder/memory",
   ],
   scenes: [
     "image/image-73be6c7ed1e6f71d",
