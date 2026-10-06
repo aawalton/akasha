@@ -21,5 +21,9 @@ export const voiceNarration = {
       statement:
         "A chapter marks where in the stream each segment begins, with the word it begins at.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A chapter also marks where each later sentence of a segment begins once spoken.",
+    },
   ],
 } as const satisfies PythonModule

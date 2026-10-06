@@ -12,6 +12,7 @@ export const voiceInference = {
     "python-module/voice-models",
     "python-module/voice-hls",
     "python-module/voice-narration",
+    "python-module/voice-timing",
   ],
   decisions: [
     {

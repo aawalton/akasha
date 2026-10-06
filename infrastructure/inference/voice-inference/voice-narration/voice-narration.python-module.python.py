@@ -17,6 +17,10 @@ in this process's memory (voice_hls) and nothing is written to disk.
 A segment may carry "wordStart", the chapter word it begins at. Each chapter's
 "marks" lists [stream seconds, wordStart] for every such segment begun so far,
 so a player can tell which word of which chapter it is playing.
+A segment may also carry "sentences", [[charIndex, wordStart], ...] for each
+sentence after its first. Once the segment is spoken, each such sentence adds a
+mark at the moment Kokoro's own token timestamps say it begins; where Kokoro
+gives no timestamps, the segment's speech is shared out by characters.
   GET    /v1/narration/{id}/{name}     init.mp4 or pNNNNN.m4s
   DELETE /v1/narration/{id}
 A session nobody fetches for SESSION_IDLE_SECONDS is dropped. At most
@@ -32,7 +36,8 @@ from fastapi.concurrency import run_in_threadpool
 from fastapi.responses import JSONResponse, Response
 
 from voice_hls import SAMPLE_RATE, Pieces, encoder_args, piece_index, playlist
-from voice_inference import _INFER_LOCK, _pcm_bytes, _synthesize, app
+from voice_inference import _INFER_LOCK, _pcm_bytes, app
+from voice_timing import sentence_seconds, sentences_of, synthesize_timed
 
 BITRATE = "64k"
 MAX_SESSIONS = 2
@@ -74,8 +79,12 @@ def _segments_of(body: dict) -> "tuple[list[tuple[str, int, int | None]] | None,
             return None, f"segment {n} pauseAfterMs must be an integer from 0 to {MAX_PAUSE_MS}"
         if word is not None and not _whole(word):
             return None, f"segment {n} wordStart must be a whole number"
-        out.append((text.strip(), pause, word))
-    if not any(text for text, _, _ in out):
+        sentences = sentences_of(seg.get("sentences"))
+        if sentences is None:
+            return None, f"segment {n} sentences must be [[charIndex, wordStart], ...]"
+        lead = len(text) - len(text.lstrip())
+        out.append((text.strip(), pause, word, [(max(0, c - lead), w) for c, w in sentences]))
+    if not any(seg[0] for seg in out):
         return None, "every segment is empty"
     return out, None
 
@@ -99,6 +108,8 @@ class Session:
         self.queue: "asyncio.Queue" = asyncio.Queue()
         self.chapters: "list[dict]" = []
         self.fed_samples = 0
+        self.sentences_timed = 0
+        self.sentences_shared = 0
         self.ended = False
         self.done = False
         self.error: "str | None" = None
@@ -125,13 +136,18 @@ class Session:
             self.error = message
             print(f"[voice-infer] narration {self.id} failed: {message}", flush=True)
 
-    async def _speak(self, text: str, pause: int) -> None:
+    async def _speak(self, text: str, pause: int, sentences: list, marks: list) -> None:
         pcm = b""
         if text:
             async with _INFER_LOCK:
-                audio = await run_in_threadpool(_synthesize, text, self.voice)
+                audio, starts, chars = await run_in_threadpool(synthesize_timed, text, self.voice)
             if audio is not None:
                 pcm = _pcm_bytes(audio)
+            begun = self.fed_samples / SAMPLE_RATE
+            timed, by_tokens = sentence_seconds(text, sentences, starts, chars, len(pcm) / 2 / SAMPLE_RATE)
+            marks.extend([round(begun + s, 3), w] for s, w in timed)
+            self.sentences_timed += len(timed) if by_tokens else 0
+            self.sentences_shared += 0 if by_tokens else len(timed)
         pcm += b"\x00\x00" * (SAMPLE_RATE * pause // 1000)
         if self.pieces.bytes > MAX_SESSION_BYTES:
             raise RuntimeError("narration ran past the memory a session may hold")
@@ -146,10 +162,10 @@ class Session:
                 start = self.fed_samples / SAMPLE_RATE
                 record = {**chapter, "startSeconds": start, "durationSeconds": None, "marks": []}
                 self.chapters.append(record)
-                for text, pause, word in segments:
+                for text, pause, word, sentences in segments:
                     if word is not None:
                         record["marks"].append([round(self.fed_samples / SAMPLE_RATE, 3), word])
-                    await self._speak(text, pause)
+                    await self._speak(text, pause, sentences, record["marks"])
                 record["durationSeconds"] = self.fed_samples / SAMPLE_RATE - start
         except asyncio.CancelledError:
             raise
@@ -283,6 +299,8 @@ async def narration_state(sid: str):
         "error": session.error,
         "ended": session.ended,
         "renderedSeconds": session.pieces.seconds(),
+        "sentencesTimed": session.sentences_timed,
+        "sentencesShared": session.sentences_shared,
     }
 
 
