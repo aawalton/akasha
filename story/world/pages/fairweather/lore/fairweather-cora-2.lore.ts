@@ -164,5 +164,67 @@ export const fairweatherCora2 = {
       fact: "Elsie finished Cora's grey gloves on the nineteenth, wrapped with lavender, a lantern drawn on.",
       knowers: ["lore-disclosure/game-master", "character-player/fairweather-elsie"],
     },
+    {
+      fact: "Cora lunches at her grandmother's on Midsummer, and said she will give her Elsie's love.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-cora",
+      ],
+    },
+    {
+      fact: "On the Mere Cora put on Elsie's grey gloves, and they fitted her to the knuckle.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-tamsin",
+        "character-other/fairweather-tilly",
+        "character-other/fairweather-cora",
+        "character-other/fairweather-noor",
+      ],
+    },
+    {
+      fact: "Cora tucked Elsie's lavender into her top buttonhole, where the harebell had been.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-tamsin",
+        "character-other/fairweather-tilly",
+        "character-other/fairweather-cora",
+        "character-other/fairweather-noor",
+      ],
+    },
+    {
+      fact: "After Lantern Night Cora walked Elsie home to Thimble Canal, though Wick Lane is the other way.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-cora",
+      ],
+    },
+    {
+      fact: "Cora told Elsie that holding her ankle on the dome, she'd have gone off with her before letting go.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-cora",
+      ],
+    },
+    {
+      fact: "Cora said she told Elsie don't do that again because she couldn't bear it if Elsie went.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-cora",
+      ],
+    },
+    {
+      fact: "Elsie told Cora holding on is what friends do, and Cora said yes, that is what friends do.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-cora",
+      ],
+    },
   ],
 } as const satisfies Lore

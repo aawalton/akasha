@@ -51,6 +51,7 @@ export const fairweatherElsie = {
         "lore-disclosure/game-master",
         "character-player/fairweather-elsie",
         "character-other/fairweather-cora",
+        "character-other/fairweather-noor",
       ],
     },
     {
@@ -235,6 +236,22 @@ export const fairweatherElsie = {
         "character-other/fairweather-tilly",
         "character-other/fairweather-cora",
         "character-other/fairweather-amara",
+      ],
+    },
+    {
+      fact: "Elsie's shawl is her mother's old blue one, faded, with no sleeves.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-cora",
+      ],
+    },
+    {
+      fact: "Elsie can't swim very well.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-noor",
       ],
     },
   ],

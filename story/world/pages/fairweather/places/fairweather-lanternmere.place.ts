@@ -239,6 +239,7 @@ export const fairweatherLanternmere = {
         "character-other/fairweather-tamsin",
         "character-other/fairweather-tilly",
         "character-other/fairweather-cora",
+        "character-other/fairweather-noor",
       ],
     },
     {
@@ -380,6 +381,22 @@ export const fairweatherLanternmere = {
     },
     {
       fact: "At the Midsummer fair a stall sells birch crowns, leaves and ribbons, for a pip each.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-tamsin",
+      ],
+    },
+    {
+      fact: "At Midsummer the city hangs birch rings with ribbons from lamp posts, signs and doors.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-cora",
+      ],
+    },
+    {
+      fact: "The Midsummer fair springs up overnight all along the top of the Lantern Steps.",
       knowers: [
         "lore-disclosure/game-master",
         "character-player/fairweather-elsie",

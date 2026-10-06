@@ -23,6 +23,7 @@
 {"propertySlug":"item-character","path":"story/world/pages/fairweather/stories/written/fairweather/items/fairweather-leather-jerkin.story-item.ts","id":"01a10365-f8f3-7a24-acc5-c9d6eee37e4b"}
 {"propertySlug":"item-character","path":"story/world/pages/fairweather/stories/written/fairweather/items/fairweather-margery.story-item.ts","id":"01a10365-f8f3-710b-ac1d-925d568e3f7c"}
 {"propertySlug":"item-character","path":"story/world/pages/fairweather/stories/written/fairweather/items/fairweather-tamsins-birch-crown.story-item.ts","id":"01a11365-72cb-7228-b3c2-b59c04bfc5db"}
+{"propertySlug":"lore-about","path":"story/world/pages/fairweather/lore/fairweather-tamsin-2.lore.ts","id":"01a11382-5b0d-795a-a663-928b6598a718"}
 {"propertySlug":"lore-about","path":"story/world/pages/fairweather/lore/fairweather-tamsin.lore.ts","id":"01a102af-305b-752b-8db1-4beab20b8a77"}
 {"propertySlug":"lore-knowers","path":"story/world/pages/fairweather/lore/fairweather-amara.lore.ts","id":"01a112fc-493c-77c0-b114-abf9fdf2ec06"}
 {"propertySlug":"lore-knowers","path":"story/world/pages/fairweather/lore/fairweather-cora-2.lore.ts","id":"01a11314-927b-7e67-8c29-a0c43bd7ae7d"}
@@ -33,6 +34,7 @@
 {"propertySlug":"lore-knowers","path":"story/world/pages/fairweather/lore/fairweather-nell.lore.ts","id":"01a1070e-2cf7-74dd-8415-4299e5844cdd"}
 {"propertySlug":"lore-knowers","path":"story/world/pages/fairweather/lore/fairweather-noor.lore.ts","id":"01a111fb-f875-76b6-864a-6cc24ab7f2ca"}
 {"propertySlug":"lore-knowers","path":"story/world/pages/fairweather/lore/fairweather-rosa.lore.ts","id":"01a1070e-4e86-7e37-b59d-89bdce89bd5b"}
+{"propertySlug":"lore-knowers","path":"story/world/pages/fairweather/lore/fairweather-tamsin-2.lore.ts","id":"01a11382-5b0d-795a-a663-928b6598a718"}
 {"propertySlug":"lore-knowers","path":"story/world/pages/fairweather/lore/fairweather-tamsin.lore.ts","id":"01a102af-305b-752b-8db1-4beab20b8a77"}
 {"propertySlug":"lore-knowers","path":"story/world/pages/fairweather/lore/fairweather-tilly.lore.ts","id":"01a102af-305b-72c4-9abd-15bcc7901682"}
 {"propertySlug":"lore-knowers","path":"story/world/pages/fairweather/lore/fairweather-world.lore.ts","id":"01a102af-305b-7afc-9635-334e3585d3b1"}

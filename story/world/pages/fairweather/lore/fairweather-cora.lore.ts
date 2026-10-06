@@ -263,7 +263,14 @@ export const fairweatherCora = {
     },
     {
       fact: "Elsie is knitting Cora gloves of grey wool, the grey of Cora's eyes, for her cold hands.",
-      knowers: ["lore-disclosure/game-master", "character-player/fairweather-elsie"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-tamsin",
+        "character-other/fairweather-tilly",
+        "character-other/fairweather-cora",
+        "character-other/fairweather-noor",
+      ],
     },
     {
       fact: "Cora carries a shuttered brass guild lantern at her belt.",

@@ -63,6 +63,8 @@ export const fairweatherAmara = {
         "character-player/fairweather-elsie",
         "character-other/fairweather-tamsin",
         "character-other/fairweather-cora",
+        "character-other/fairweather-tilly",
+        "character-other/fairweather-noor",
       ],
     },
     {

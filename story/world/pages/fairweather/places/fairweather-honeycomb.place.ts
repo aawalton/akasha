@@ -63,5 +63,13 @@ export const fairweatherHoneycomb = {
         "character-other/fairweather-noor",
       ],
     },
+    {
+      fact: "The Honeycomb shuts at noon on Midsummer, the same every year.",
+      knowers: ["lore-disclosure/game-master", "character-player/fairweather-elsie"],
+    },
+    {
+      fact: "Mrs Merriweather lent Elsie a round bee tin for the boat's honey cakes, to bring back.",
+      knowers: ["lore-disclosure/game-master", "character-player/fairweather-elsie"],
+    },
   ],
 } as const satisfies Place

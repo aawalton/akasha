@@ -204,6 +204,7 @@ export const fairweatherTilly = {
         "character-other/fairweather-tamsin",
         "character-other/fairweather-tilly",
         "character-other/fairweather-cora",
+        "character-other/fairweather-noor",
       ],
     },
     {
@@ -285,6 +286,14 @@ export const fairweatherTilly = {
         "character-other/fairweather-tamsin",
         "character-other/fairweather-tilly",
         "character-other/fairweather-cora",
+        "character-other/fairweather-noor",
+      ],
+    },
+    {
+      fact: "Tilly had twelve floating vials by Midsummer morning, brewed half the night before.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/fairweather-elsie",
         "character-other/fairweather-noor",
       ],
     },

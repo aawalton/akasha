@@ -284,5 +284,28 @@ export const fairweatherElsie2 = {
         "character-other/fairweather-cora",
       ],
     },
+    {
+      fact: "Cora's ledger for the Midsummer barge guard reads: Thieves, four. Skills used, none.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-cora",
+      ],
+    },
+    {
+      fact: "On the Mere at Midsummer Elsie told her party, out loud, that she loves all of them.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-tamsin",
+        "character-other/fairweather-tilly",
+        "character-other/fairweather-cora",
+        "character-other/fairweather-noor",
+      ],
+    },
+    {
+      fact: "Moonpenny opened on Midsummer night: one white flower, smelling of honey and rain.",
+      knowers: ["lore-disclosure/game-master", "character-player/fairweather-elsie"],
+    },
   ],
 } as const satisfies Lore

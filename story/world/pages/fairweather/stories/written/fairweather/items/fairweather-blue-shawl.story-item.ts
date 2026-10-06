@@ -7,5 +7,6 @@ export const fairweatherBlueShawl = {
   title: "Blue Shawl",
   story: "story-written/fairweather",
   character: "character-player/fairweather-elsie",
+  slot: "item-slot/shoulders",
   description: "A soft old shawl of faded blue, with no sleeves, tied in front.",
 } as const satisfies StoryItem

@@ -8,5 +8,5 @@ export const fairweatherVialBelt = {
   story: "story-written/fairweather",
   character: "character-other/fairweather-tilly",
   description:
-    "A leather belt of loops and little pouches holding a dozen corked vials of Tilly's brews, three of them bang vials.",
+    "A leather belt of loops and little pouches holding eleven corked vials of Tilly's brews, two of them bang vials.",
 } as const satisfies StoryItem
