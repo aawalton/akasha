@@ -1,0 +1,11 @@
+import type { AgentMessage } from "akasha/agent/message/agent-message.page-type.types.ts"
+
+export const message820c850787bc = {
+  id: "01a111e4-f491-7000-950e-820c850787bc",
+  type: "page-type/agent-message",
+  slug: "message-820c850787bc",
+  to: "seat/mari-world-builder-fairweather",
+  from: "story-step",
+  warrant: "announce",
+  body: "The chapter `story/world/pages/fairweather/stories/written/fairweather/chapters/fairweather-0014-harebells.story-chapter-written.ts` is at writer.\n\nThe game master has the final say, and ruled out 1 issue in `story/world/pages/fairweather/stories/written/fairweather/chapters/fairweather-0014-harebells.story-chapter-written.rulings.jsonl`, each a json line naming the issue and the reason: a ruled-out issue is ended.\nA ruled-out issue asks nothing of the prose.\n\nThe lore in play on the chapter is on `story/world/pages/fairweather/lore/fairweather-cora.lore.ts`, `story/world/pages/fairweather/lore/fairweather-elsie.lore.ts`, `story/world/pages/fairweather/lore/fairweather-nell.lore.ts`, `story/world/pages/fairweather/lore/fairweather-rosa.lore.ts`, `story/world/pages/fairweather/lore/fairweather-tamsin.lore.ts`, `story/world/pages/fairweather/lore/fairweather-tilly.lore.ts`, `story/world/pages/fairweather/lore/fairweather-world.lore.ts`, `story/world/pages/fairweather/places/fairweather-bellmoor-barrow.place.ts`, `story/world/pages/fairweather/places/fairweather-copper-baths.place.ts`, `story/world/pages/fairweather/places/fairweather-guild-hall.place.ts`, `story/world/pages/fairweather/places/fairweather-honeycomb-attic.place.ts`, `story/world/pages/fairweather/places/fairweather-honeycomb.place.ts`, `story/world/pages/fairweather/places/fairweather-lake-villages.place.ts`, `story/world/pages/fairweather/places/fairweather-lanternmere.place.ts`, `story/world/pages/fairweather/places/fairweather-long-cut-wharf.place.ts`, `story/world/pages/fairweather/places/fairweather-old-toll-bridge.place.ts`, `story/world/pages/fairweather/places/fairweather-orchid-glasshouse.place.ts`, `story/world/pages/fairweather/places/fairweather-underbloom.place.ts`. Read each of those pages whole first, since any of them can settle what the chapter may say.\n",
+} as const satisfies AgentMessage
