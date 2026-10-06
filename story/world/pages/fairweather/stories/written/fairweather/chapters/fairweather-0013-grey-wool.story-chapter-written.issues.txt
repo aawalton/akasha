@@ -5,3 +5,7 @@ holdings: beat 59: Tilly hugs Elsie twice, a +1 kindness in the Heron scene that
 holdings: beat 59: Tilly at 50 makes Devotion 7 of 14: Tilly Wits 21, Elsie Wits 12, both missing
 holdings: beat 66: Tilly's purse has no end-of-chapter history line
 scene: "By the middle of the morning" - beat 14 is 08:00, under two hours after the 06:20 sunrise
+continuity: "yours is empty" Tilly page (beat 14) - ch7: Elsie wrote blue flame, cheek under Tilly
+continuity: "wrote CORA at the top" of a fresh page (b17, b63) - ch1-9 Cora entry: tea, bun, quiet
+continuity: "Cora says that's a good sign" (beat 73) - only Tamsin said so (beat 38)
+continuity: "built a memorial to one" (beat 33) - Memorial of Strings names the war's dead
