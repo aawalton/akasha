@@ -29,6 +29,11 @@ export const encounters0004ThirtySixFrames = {
     "character-other/encounters-priya",
   ],
   reviewedBy: ["story-reviewer/holdings", "story-reviewer/scene"],
-  recordedBy: ["story-recorder/plan", "story-recorder/inventory", "story-recorder/mechanics"],
+  recordedBy: [
+    "story-recorder/plan",
+    "story-recorder/inventory",
+    "story-recorder/mechanics",
+    "story-recorder/picture",
+  ],
   scenes: ["image/image-97fe6436ba0ae46a", "image/image-802e533ed8e9d331"],
 } as const satisfies StoryChapterWritten
