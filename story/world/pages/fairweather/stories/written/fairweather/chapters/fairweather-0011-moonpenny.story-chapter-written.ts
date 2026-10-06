@@ -40,6 +40,7 @@ export const fairweather0011Moonpenny = {
     "character-other/fairweather-cora",
   ],
   reviewedBy: ["story-reviewer/scene"],
+  recordedBy: ["story-recorder/inventory"],
   rulings: "jsonl",
   scenes: [
     "image/image-3f1abda25a82b0a2",

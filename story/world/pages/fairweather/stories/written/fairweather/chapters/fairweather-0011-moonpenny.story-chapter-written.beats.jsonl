@@ -3,7 +3,7 @@
 {"beat":3,"event":"Tamsin wakes on the cot with Margery's haft printed on her cheek."}
 {"beat":4,"event":"Cora stands at the door, ledger shut, as straight as she stood at midnight."}
 {"beat":5,"event":"The old grower comes down with a lamp and counts her orchids: every bloom whole.","at":"2026-06-11T05:50:00.000Z"}
-{"beat":6,"event":"She pays them the notice, and Elsie, Tamsin and Tilly share it evenly."}
+{"beat":6,"event":"She pays them the notice, and Elsie, Tamsin and Tilly share it evenly.","changes":[{"page":"metric-character-currency/fairweather-elsie","note":"Her even share of the three-lantern orchid watch: 10 pips, 122 → 132","key":"value","from":122,"to":132},{"page":"metric-character-currency/fairweather-tamsin","note":"Tamsin's share of the orchid watch: 10 pips, 128 → 138","key":"value","from":128,"to":138},{"page":"metric-character-currency/fairweather-tilly","note":"Tilly's share of the orchid watch: 10 pips, 152 → 162","key":"value","from":152,"to":162}]}
 {"beat":7,"event":"She gives Elsie a single closed moon orchid in a pot, for the moths she carried out."}
 {"beat":8,"event":"Elsie holds the pot like a baby and says she will name it."}
 {"beat":9,"event":"They walk back along the lake road as the sun comes up over the Mere.","at":"2026-06-11T06:20:00.000Z","place":"place/fairweather-lanternmere"}
@@ -30,7 +30,7 @@
 {"beat":30,"event":"Elsie ducks under, eyes open, and sees something glint by the post in the blue light."}
 {"beat":31,"event":"She comes up gasping with the ring in her fist and holds it high.","at":"2026-06-11T08:30:00.000Z"}
 {"beat":32,"event":"The young woman bursts into tears and hugs Elsie, soaking herself through."}
-{"beat":33,"event":"She pays them the notice; Elsie, Tamsin and Tilly share it, and Elsie gives Tilly the odd pips."}
+{"beat":33,"event":"She pays them the notice; Elsie, Tamsin and Tilly share it, and Elsie gives Tilly the odd pips.","changes":[{"page":"metric-character-currency/fairweather-elsie","note":"Her share of the two-lantern ring notice: 6 pips, 132 → 138","key":"value","from":132,"to":138},{"page":"metric-character-currency/fairweather-tamsin","note":"Tamsin's share of the ring notice: 6 pips, 138 → 144","key":"value","from":138,"to":144},{"page":"metric-character-currency/fairweather-tilly","note":"Tilly's share, 6 pips plus the 2 odd pips Elsie gives her: 162 → 170","key":"value","from":162,"to":170}]}
 {"beat":34,"event":"She says her sweetheart is Mira, and they'll both be at Lantern Night; Elsie says so will they."}
 {"beat":35,"event":"Elsie climbs the steps streaming, and Cora takes off her charcoal coat and puts it round her."}
 {"beat":36,"event":"Cora's coat is warm and smells of ink and lavender, and Elsie burrows into it."}
@@ -38,7 +38,7 @@
 {"beat":38,"event":"Tamsin, dripping, shakes her curls over Tilly, and Tilly shrieks."}
 {"beat":39,"event":"Elsie wrings out Tamsin's curls with both hands, and Tamsin stands very still under them."}
 {"beat":40,"event":"Back at the guild hall, damp, they hand the ring notice in at the clerk's desk.","at":"2026-06-11T09:00:00.000Z","place":"place/fairweather-guild-hall"}
-{"beat":41,"event":"The clerk takes Elsie's copper tag and Tilly's, and restamps each with an E."}
+{"beat":41,"event":"The clerk takes Elsie's copper tag and Tilly's, and restamps each with an E.","changes":[{"page":"story-item/fairweather-copper-rank-tag","note":"The clerk restamps Elsie's tag: F-rank → E-rank","key":"description","from":"A small copper tag of the Adventurers' Guild, stamped with the holder's name and rank, F, and hung at the belt.","to":"A small copper tag of the Adventurers' Guild, stamped with the holder's name and rank, E, and hung at the belt."}]}
 {"beat":42,"event":"Elsie holds her tag up to the window, and her eyes fill."}
 {"beat":43,"event":"Tilly says the College only ever threw her out of things, and starts to cry too."}
 {"beat":44,"event":"Tamsin hugs them both at once and lifts them off the floor."}
@@ -62,7 +62,7 @@
 {"beat":62,"event":"She goes down, and the baker sees the tag and says: well, now.","at":"2026-06-11T15:30:00.000Z","place":"place/fairweather-honeycomb"}
 {"beat":63,"event":"The baker gives her a honey bun and waves her coin away."}
 {"beat":64,"event":"At the bakery table Elsie writes to her mother: E-rank, a ring in the Mere, a moon orchid.","at":"2026-06-11T16:00:00.000Z"}
-{"beat":65,"event":"After closing she borrows the ovens, and pays the baker for the firewood.","at":"2026-06-11T18:00:00.000Z"}
+{"beat":65,"event":"After closing she borrows the ovens, and pays the baker for the firewood.","at":"2026-06-11T18:00:00.000Z","changes":[{"page":"metric-character-currency/fairweather-elsie","note":"Firewood money for the baker's ovens: 2 pips, 138 → 136","key":"value","from":138,"to":136},{"page":"metric-character-currency/fairweather-elsie","note":"Elsie ends the chapter with 136 pips: 13 lanterns, 6 pips","key":"history","append":{"turn":11,"value":136}},{"page":"metric-character-currency/fairweather-tamsin","note":"Tamsin ends the chapter with 144 pips","key":"history","append":{"turn":11,"value":144}},{"page":"metric-character-currency/fairweather-tilly","note":"Tilly ends the chapter with 170 pips","key":"history","append":{"turn":11,"value":170}}]}
 {"beat":66,"event":"She bakes a honey cake on her own from her notebook, to celebrate E-rank tomorrow."}
 {"beat":67,"event":"The baker reads the notebook over her shoulder and corrects one word."}
 {"beat":68,"event":"The cake goes under its cloth to rest, and Elsie licks the spoon.","at":"2026-06-11T20:00:00.000Z"}
