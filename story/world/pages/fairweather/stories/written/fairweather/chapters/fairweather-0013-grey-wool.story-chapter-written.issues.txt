@@ -1,4 +1,3 @@
-scene: "By the middle of the morning" - beat 14 is 08:00, under two hours after the 06:20 sunrise
 style: "Elsie lay and felt it, and smiled at the ceiling." - No Sign-Off
 style: "nobody had asked the trolls anything yet" (beat 28) - Nobody Acts
 style: "lighter than Elsie has ever felt her" (beat 74) - No Tropes
