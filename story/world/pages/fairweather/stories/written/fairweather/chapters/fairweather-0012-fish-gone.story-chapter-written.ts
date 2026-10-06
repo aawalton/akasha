@@ -11,7 +11,7 @@ export const fairweather0012FishGone = {
   story: "story-written/fairweather",
   ownLength: 10108,
   prose: "txt",
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/reviewers",
   beats: "jsonl",
   issues: "txt",
   lore: [
@@ -45,6 +45,7 @@ export const fairweather0012FishGone = {
     "story-recorder/plan",
     "story-recorder/mechanics",
     "story-recorder/memory",
+    "story-recorder/picture",
   ],
   rulings: "jsonl",
   scenes: [
