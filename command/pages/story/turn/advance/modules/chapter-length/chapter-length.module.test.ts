@@ -66,13 +66,14 @@ test("a beat restating the story's chapter break is refused, whatever its case o
   expect(lengthRefused(handed, 0)).toBeNull()
 })
 
-test("prose from 50 to 200 words for each beat is not refused", () => {
+test("a chapter's prose of 50 to 200 words for each beat, counted over the whole chapter, is not refused", () => {
   expect(lengthRefused(proseHanded(100), 2)).toBeNull()
   expect(lengthRefused(proseHanded(400), 2)).toBeNull()
 })
 
-test("prose outside 50 to 200 words for each beat is refused with words, beats and range", () => {
+test("a chapter's prose outside that total is refused with words, beats and range", () => {
   const short = lengthRefused(proseHanded(99), 2) ?? ""
+  expect(short).toContain("counted over the whole chapter")
   expect(short).toContain("100 to 400 words for its 2 beats")
   expect(short).toContain("this prose runs 99 words")
   expect(short).toContain("the chapter before sets no length")

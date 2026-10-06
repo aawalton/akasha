@@ -153,7 +153,12 @@ export const storyTurnAdvance = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A written chapter's prose runs 50 to 200 words a beat.",
+      statement:
+        "A written chapter's prose runs 50 to 200 words for each beat, counted over the whole chapter.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A single beat's prose may run any length.",
     },
     {
       decisionKind: "decision-kind/departure",

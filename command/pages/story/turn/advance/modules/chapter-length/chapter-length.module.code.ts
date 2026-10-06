@@ -32,7 +32,7 @@ function proseRefused(words: number, beats: number): string | null {
   if (beats === 0) return null
   const [fewest, most] = [FEWEST_WORDS * beats, MOST_WORDS * beats]
   if (words >= fewest && words <= most) return null
-  return `a written chapter's prose runs ${FEWEST_WORDS} to ${MOST_WORDS} words for each of its beats, so ${fewest} to ${most} words for its ${beats} beats, and this prose runs ${words} words; ${BEFORE}`
+  return `a written chapter's prose runs ${FEWEST_WORDS} to ${MOST_WORDS} words for each of its beats, counted over the whole chapter, so ${fewest} to ${most} words for its ${beats} beats, and this prose runs ${words} words; ${BEFORE}`
 }
 
 function wordedOf(text: string): string {
