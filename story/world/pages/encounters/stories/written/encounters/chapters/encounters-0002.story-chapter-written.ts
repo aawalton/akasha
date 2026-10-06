@@ -10,7 +10,8 @@ export const encounters0002 = {
   story: "story-written/encounters",
   ownLength: 0,
   prose: "txt",
-  stepStatus: "step-status/game-master",
+  stepStatus: "step-status/mechanics",
+  beats: "jsonl",
   lore: [
     "lore/encounters-kenzie",
     "lore/encounters-sofia",
