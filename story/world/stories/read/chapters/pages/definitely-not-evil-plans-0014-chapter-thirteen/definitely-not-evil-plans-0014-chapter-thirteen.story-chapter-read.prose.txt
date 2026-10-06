@@ -1,0 +1,147 @@
+Thursday October, 13th
+
+I spent Thursday at the coffee shop again. Now that I could navigate through these computer networks without getting bloody noses I could pretend to be normal while I surfed the web in such a wildly new way.
+
+Daniel’s dropbox was easy to find once I knew what I was looking for. His security was bad, there was no 2fa or biometrics on it. Inside of the dropbox were his design files, my design files, project notes, and client presentations.
+
+And the Allmart deck. All forty-seven slides of it, ready to present to the clients he’d stolen from me.
+
+I sat back in my chair, coffee long forgotten and stared at my screen. I could see the code now and watched it flowing through the computer. I sailed along on the intoxicating stream connecting to servers halfway across the world. I could see Daniel’s files, his emails, his entire digital life.
+
+Which was just as small as Kate found. Prior to four months ago, Daniel was nobody. He didn’t exist. There were no marketing files on him. He’d purchased furniture, a sound system, a record player, vinyls, books–but there was nothing else. No random late night internet purchases.
+
+I got frustrated at the lack of trail to follow and went back to the dropbox.
+
+I could destroy him. I could delete everything, corrupt his files, and send his secrets(or lack there of) to every single person I could find.
+
+But–there was another option.
+
+What if, instead of destroying his presentation, I replaced it with something better? Something that told the truth instead of the lies he’d carefully constructed?
+
+I thought about Kate’s photo of the paystub, I thought that there must be emails that existed between him and Allegheny Mart. I thought about the emails that must exist somewhere in H&S, emails between Daniel and Greg, Daniel and Rebecca, Or even Rebecca and Greg.
+
+I thought about all of the evidence that was imprinted and saved in triplicate all over the internet.
+
+And, that’s why I started exploring.
+
+Harrison & Son’s internal systems were slightly more difficult to get into than Daniel’s personal accounts. Multiple layers of encryption, monitoring software and logging almost everywhere. Who logs in, when, from where, and what they’re doing on the internal network.
+
+The logs were my in.
+
+An email chain between Daniel, Greg and Rebecca
+
+Subject Line: Suspicious
+
+I have suspicions that Samantha Marion is stealing designs from a small indie company.
+
+I also saw that there were some AI tells in the design work of her other clients.
+
+I’m sorry to have had to bring this to your attention.
+
+-Daniel
+
+Subject Line: RE: Suspicious
+
+Daniel,
+
+Please attach proof
+
+Rebecca
+
+Subject Line: RE: RE: Suspicious
+
+Rebecca,
+
+aiAnalysis.pdf
+
+This is an analysis I generated based on all of her designs for the last six months and it’s coming back 68% ai
+
+And <here> is a link to the X post showing the new designs
+
+Daniel
+
+The timestamp on the first email was two hours before the X post came out. I took screenshots highlighting this, and kept digging. Another email thread between Rebecca and Greg
+
+Subject Line: SM Situation
+
+Rebecca,
+
+I had my lawyer review the files. The metadata seems compelling, but if anyone digs into this they'll see holes. The timeline doesn’t line up. The report came in prior to any public announcement and the ai analysis doesn’t hold up when our internal tech department found the original files. The files that Daniel sent over were generated based off of her designs.
+
+It was all very clever. I’d like to reward his cut throat need to rise to the top. I see myself in him.
+
+Also Samantha’s salary is riding the line and if she took Allmart all the way she would be due a bonus that would pay for Daniel’s salary in of itself.
+
+I say use our at-will employment and cut her loose. Let the rumor mill run, and if she threatens litigation offer a severance
+
+-Greg
+
+Subject Line: RE: SM Situation
+
+Greg,
+
+I understand the concern. To ensure this works how you want we focus on security as an issue. Get IT involved, tighten practices, mandatory training. Get people more annoyed at the situation than sympathetic.
+
+Let me know if I have the go ahead and I’ll work with legal on drafting up the announcement.
+
+In the meantime, if you want to promote Daniel I can draw up that paperwork.
+
+-Rebecca
+
+Subject Line: RE: RE: SM Situation
+
+Rebecca,
+
+Get the ball rolling on the promotion and announcement for tighter security. Lets add no more working remotely. People are bound to get upset about that.
+
+Get Daniel on this AllMart rebranding. Sounds like he has a relationship since he was shadowing Marion. Get it rescheduled and finalized.
+
+-Greg
+
+I read all of the emails and saved screenshots with timestamps of each one. I felt cold all over. They knew that I hadn’t done anything wrong, they knew that Daniel probably did. They knew everything, or at least were fairly certain of how it went down.
+
+And worse, Greg admired that. Said it reminded him of himself. I shuddered. What kind of a horrible person would admire an employee stealing work, selling it to a competitor, framing a long time employee and attempting to take over the same client they stole from.
+
+They were planning on buying me off if I complained. Throwing my career to the wolves and even turning my coworkers against me.
+
+I could destroy them. I should. I should burn the company to the ground. Expose all of them. The angrier I got the more I could see, I followed the dropbox trail into Daniel’s private email.
+
+Jackpot.
+
+Emails outlining the entire relationship with Daniel and Allegheny Mart. According to this he reached out to them and ten other small markets with the specific AM initials. He had shopped around for clients to sell my work to specifically. This was premeditated, and not just something that he happened across or a private client that he panicked and stole my work for.
+
+I saved every email. I told myself I could stop, that this was to protect other people.
+
+Every time I adjusted my coffee so that it was the perfect temperature I told myself that it was purely a convenience thing. The thrill of having the power to change anything, certainly had nothing to do with it. Neither did the rush of dopamine after every successful change.
+
+I wasn’t that kind of person.
+
+Friday October, 14th
+
+The Allmart presentation was scheduled for today at two o’clock.
+
+I’d stayed up well into the early morning gathering my evidence. I had the deck that was tucked safely in Daniel’s dropbox and once he moved it into the H&S internal drive I would swap it for my edited version.
+
+The original and my version were the same number of slides, and they were formatted so that they faded from his original slide into the new one that way if Daniel wasn’t really looking at the slide or if he just glanced at it at the beginning he wouldn’t notice a difference.
+
+Slide One: The intro pitch unedited.
+
+Slide Two: Daniel’s work turned into designs he’d stolen from me next to the original sketches I’d already worked with Allmart on.
+
+Slide Three: Time lines, and details on rollout implementation became the emails with timestamps between Daniel and Allegheny Mart.
+
+Slide Four: The final cost of the rebranding became the paystub. I’d gone into Kate’s phone and taken it, all remotely, and completely scrubbed any trace of her from the image. I set it up so that it looked like a pdf of the original paystub rather than the photo.
+
+Slide Five: All of the support that H&S was proving throughout this rebranding became my termination or “unpaid leave” email from Rebecca
+
+Slide Six: The value proposition became the email chain between Greg and Rebecca, complete with timestamps
+
+Slide Seven: Any questions slide became ‘Who is Harrison & Sons really?’
+
+It was glorious, and some of my best work. If I didn’t say so myself. I woke up at noon and kept an eye on the H&S internal system for Daniel’s files to be put in. Around noon he’d put the deck over and he ran through it in the conference room three times. At one forty-five when I was sure that he was done practicing I replaced the edited deck over the new one and queued it back up in the conference room.
+
+For good measure, I replaced his dropbox version as well. That way even if he did notice, there would be no recovery of the old version.
+
+My head was pounding. All of the changes had really taken it out of me, but I felt good actually. Where I’d felt helpless when I’d been let go, now I felt powerful. I felt in charge. It was a good feeling.
+
+Now all I had to do was wait.
