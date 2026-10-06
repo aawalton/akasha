@@ -285,5 +285,17 @@ export const fairweatherLanternmere = {
         "character-other/fairweather-tamsin",
       ],
     },
+    {
+      fact: "By the eighteenth a second party has been to look at the blue-door house on Willow Canal.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Thieves cut lantern barges loose on Midsummer night and strip them out on the dark water.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The barge guard runs from dusk to dawn on the twentieth, from boats lent by the festival.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Place
