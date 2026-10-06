@@ -216,10 +216,13 @@ export function NarrationProvider({
         await audio.play()
         setShown({ kind: "playing", asked })
       } catch (thrown) {
-        fail(`The audio would not start: ${saidBy(thrown)}`)
+        if (asking.current !== asked) return
+        if (thrown instanceof DOMException && thrown.name === "AbortError") {
+          setShown({ kind: "playing", asked })
+        } else recovering.broken(`The audio would not start: ${saidBy(thrown)}`)
       }
     },
-    [reach, fail, firstPieceIn, repace, recovering.broken]
+    [reach, fail, firstPieceIn, repace, recovering]
   )
 
   const play = useCallback(
@@ -386,7 +389,7 @@ export function NarrationProvider({
   }, [play])
 
   steering.current = {
-    live: () => session.current !== null && audioRef.current?.src !== silence.current,
+    live: () => asking.current !== null && audioRef.current?.src !== silence.current,
     nudge: () => nudged(audioRef.current, streamed.current),
     keep: () => save(true),
     reopen: () => {
