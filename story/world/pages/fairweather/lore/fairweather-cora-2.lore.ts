@@ -9,6 +9,94 @@ export const fairweatherCora2 = {
   about: "character-other/fairweather-cora",
   facts: [
     {
+      fact: "Elsie has finished the first grey glove for Cora, thumb and all four fingers.",
+      knowers: ["lore-disclosure/game-master", "character-player/fairweather-elsie"],
+    },
+    {
+      fact: "From Thimble Canal Cora saw Elsie wave the finished grey glove at her from the attic.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-cora",
+      ],
+    },
+    {
+      fact: "When Elsie's harebell wilted, Cora pressed it flat in a book.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-cora",
+      ],
+    },
+    {
+      fact: "The guildmaster signed Cora's barrow report and asked nothing about its empty name line.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-cora",
+      ],
+    },
+    {
+      fact: "Noor hears Cora walk her floor at night, six steps to the window and six back.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-noor",
+        "character-other/fairweather-cora",
+      ],
+    },
+    {
+      fact: "The eel bite on Cora's forearm has healed to a pink mark.",
+      knowers: ["lore-disclosure/game-master", "character-player/fairweather-elsie"],
+    },
+    {
+      fact: "At Hobb Mill Cora caught Elsie's wrist when she slipped off the sluice.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-cora",
+      ],
+    },
+    {
+      fact: "Cora's fingers are longer than Elsie's by a whole knuckle.",
+      knowers: ["lore-disclosure/game-master", "character-player/fairweather-elsie"],
+    },
+    {
+      fact: "At Hobb Mill Cora slept the night through, her hand open in Elsie's.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-cora",
+      ],
+    },
+    {
+      fact: "Elsie crawled out on the Hall of Naming's dome to free Biscuit, while Cora held her ankle.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-tamsin",
+        "character-other/fairweather-tilly",
+        "character-other/fairweather-cora",
+        "character-other/fairweather-ines",
+      ],
+    },
+    {
+      fact: "After the dome, Cora told Elsie, very low, not to do that again.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-cora",
+      ],
+    },
+    {
+      fact: "On the seventeenth Cora's hand, like ice on the dome, was warm again by evening.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-cora",
+      ],
+    },
+    {
       fact: "Cora's grandmother lives on Lantern Square, and has lit five candles each night for sixty years.",
       knowers: [
         "lore-disclosure/game-master",
