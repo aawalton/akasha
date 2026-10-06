@@ -3,6 +3,10 @@
     @apply bg-surface-0 text-primary;
   }
 
+  [data-slot="narration-bar"] {
+    left: 0;
+  }
+
   @media (min-width: 584px) {
     html[data-sidebar] main {
       margin-left: var(--sidebar-width-collapsed);

@@ -9,7 +9,7 @@ import { Pause, Play, RotateCcw, RotateCw, X } from "lucide-react"
 import { type RefObject, useLayoutEffect, useRef } from "react"
 
 const BAR =
-  "fixed inset-x-0 top-0 z-40 border-primary/10 border-b px-3 pt-[calc(env(safe-area-inset-top,0px)+0.5rem)] pb-2"
+  "fixed right-0 top-0 z-40 border-primary/10 border-b px-3 pt-[calc(env(safe-area-inset-top,0px)+0.5rem)] pb-2"
 
 const TOP_OFFSET = "--safe-area-top"
 
