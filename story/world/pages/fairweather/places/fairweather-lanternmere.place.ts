@@ -277,5 +277,13 @@ export const fairweatherLanternmere = {
       fact: "On Spindle Lane a pair of knitting needles costs three pips.",
       knowers: ["lore-disclosure/game-master", "character-player/fairweather-elsie"],
     },
+    {
+      fact: "Elsie and Tamsin each pressed two fingers to the blue door in passing.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-tamsin",
+      ],
+    },
   ],
 } as const satisfies Place

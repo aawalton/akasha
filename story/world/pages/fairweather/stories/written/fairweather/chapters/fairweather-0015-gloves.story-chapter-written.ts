@@ -11,9 +11,8 @@ export const fairweather0015Gloves = {
   story: "story-written/fairweather",
   ownLength: 7509,
   prose: "txt",
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/player",
   beats: "jsonl",
-  issues: "txt",
   lore: [
     "lore/fairweather-cora",
     "lore/fairweather-elsie",
@@ -45,7 +44,12 @@ export const fairweather0015Gloves = {
     "character-other/fairweather-amara",
     "character-other/fairweather-nell",
   ],
-  reviewedBy: ["story-reviewer/holdings", "story-reviewer/continuity", "story-reviewer/scene"],
+  reviewedBy: [
+    "story-reviewer/holdings",
+    "story-reviewer/continuity",
+    "story-reviewer/scene",
+    "story-reviewer/style",
+  ],
   recordedBy: [
     "story-recorder/plan",
     "story-recorder/inventory",
@@ -53,6 +57,5 @@ export const fairweather0015Gloves = {
     "story-recorder/picture",
     "story-recorder/memory",
   ],
-  rulings: "jsonl",
   scenes: ["image/image-e12a0a73adad69f6"],
 } as const satisfies StoryChapterWritten

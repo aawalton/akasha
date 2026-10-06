@@ -77,6 +77,77 @@ export const fairweatherNoor = {
       fact: "Noor rents a room above a chandler shop on Wick Lane, and eats alone.",
       knowers: ["lore-disclosure/game-master", "character-other/fairweather-noor"],
     },
+    {
+      fact: "Folk in the guild hall keep clear of the corner table where Noor sits alone.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-tamsin",
+        "character-other/fairweather-tilly",
+      ],
+    },
+    {
+      fact: "Elsie's chair broke under her at Noor's table, and her tea landed in her lap.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-noor",
+        "character-other/fairweather-tamsin",
+        "character-other/fairweather-tilly",
+      ],
+    },
+    {
+      fact: "Noor says she has always worn gloves.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-noor",
+        "character-other/fairweather-tamsin",
+        "character-other/fairweather-tilly",
+      ],
+    },
+    {
+      fact: "Elsie held Noor's gloved hand across the table, and Noor did not pull it away.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-noor",
+        "character-other/fairweather-tamsin",
+        "character-other/fairweather-tilly",
+      ],
+    },
+    {
+      fact: "Noor turned down lunch, and Elsie said she will sit at Noor's table daily until Noor says yes.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-noor",
+        "character-other/fairweather-tamsin",
+        "character-other/fairweather-tilly",
+      ],
+    },
+    {
+      fact: "Noor's favourite things are rain on empty streets, and black coffee, strong, with nothing in it.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-noor",
+        "character-other/fairweather-tamsin",
+        "character-other/fairweather-tilly",
+      ],
+    },
+    {
+      fact: "Elsie drew a raincloud beside Noor's name in her notebook, and Noor's mouth twitched.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-noor",
+      ],
+    },
+    {
+      fact: "Elsie wrapped four honey cakes for Noor, with a raincloud on the paper.",
+      knowers: ["lore-disclosure/game-master", "character-player/fairweather-elsie"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore

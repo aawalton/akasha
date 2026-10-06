@@ -211,5 +211,19 @@ export const fairweatherBellmoorBarrow = {
         "character-other/fairweather-amara",
       ],
     },
+    {
+      fact: "The Bellmoor shepherd will stake a hurdle across the barrow's doorway.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-tamsin",
+        "character-other/fairweather-tilly",
+        "character-other/fairweather-cora",
+      ],
+    },
+    {
+      fact: "Elsie set honey cakes in the Honeycomb's window for Amara, and the plate stayed full.",
+      knowers: ["lore-disclosure/game-master", "character-player/fairweather-elsie"],
+    },
   ],
 } as const satisfies Place

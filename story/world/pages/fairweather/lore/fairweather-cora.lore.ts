@@ -304,6 +304,34 @@ export const fairweatherCora = {
         "character-other/fairweather-cora",
       ],
     },
+    {
+      fact: "Elsie slept the night at the barrow with her head in Cora's lap, under Cora's coat.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-cora",
+      ],
+    },
+    {
+      fact: "Cora watched the barrow-wight's doorway all night, and it never came out.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-cora",
+      ],
+    },
+    {
+      fact: "Elsie has finished the first grey glove for Cora, thumb and all four fingers.",
+      knowers: ["lore-disclosure/game-master", "character-player/fairweather-elsie"],
+    },
+    {
+      fact: "From Thimble Canal Cora saw Elsie wave the finished grey glove at her from the attic.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-cora",
+      ],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore

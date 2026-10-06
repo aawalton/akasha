@@ -286,7 +286,13 @@ export const fairweatherGuildHall = {
     },
     {
       fact: "The guild pays out the barrow notice once Cora has filed her report on it.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-tamsin",
+        "character-other/fairweather-tilly",
+        "character-other/fairweather-cora",
+      ],
     },
     {
       fact: "From the fifteenth a new Leftovers slate reads: Noor Haddad, Hexer, E-rank. Will work alone.",
@@ -305,6 +311,15 @@ export const fairweatherGuildHall = {
     {
       fact: "From the fifteenth the E-rank board has: guard the Midsummer barges from river thieves, 12 lanterns.",
       knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The barrow notice paid three lanterns and three pips each, the odd pip to Tilly.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-tamsin",
+        "character-other/fairweather-tilly",
+      ],
     },
   ],
 } as const satisfies Place

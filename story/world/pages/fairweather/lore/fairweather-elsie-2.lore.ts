@@ -178,5 +178,18 @@ export const fairweatherElsie2 = {
         "character-other/fairweather-cora",
       ],
     },
+    {
+      fact: "Tamsin says Elsie collects people like stray cats.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-tamsin",
+        "character-other/fairweather-tilly",
+      ],
+    },
+    {
+      fact: "Elsie wrote her mother of the barrow, and of Amara and Noor as two new friends.",
+      knowers: ["lore-disclosure/game-master", "character-player/fairweather-elsie"],
+    },
   ],
 } as const satisfies Lore

@@ -320,5 +320,23 @@ export const fairweatherTamsin = {
         "character-other/fairweather-tilly",
       ],
     },
+    {
+      fact: "Tamsin wrote to Nell about the shield-bearer, and left it at the wharf office.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-tamsin",
+        "character-other/fairweather-tilly",
+      ],
+    },
+    {
+      fact: "Tamsin says Nell has never once said she is proud of her.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-tamsin",
+        "character-other/fairweather-tilly",
+      ],
+    },
   ],
 } as const satisfies Lore
