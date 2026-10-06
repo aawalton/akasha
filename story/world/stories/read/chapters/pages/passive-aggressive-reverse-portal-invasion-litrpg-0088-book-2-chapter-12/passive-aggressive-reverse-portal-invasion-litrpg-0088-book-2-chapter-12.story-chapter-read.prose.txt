@@ -1,0 +1,97 @@
+”Why don’t you just kill me?” Victoria panted, slowly backing away from the monster. “I can’t do this anymore!”
+
+“Stop complaining. You’re doing just fine!”
+
+Tendrils unfurled, reaching for her leg.
+
+She hissed and limped back. Too slowly, it turned out. The very ends of the prehensile limb grazed her foreleg.
+
+“Hijo de la chingada!” She cursed, bowing down to grab a handful of dirt and rubbed it against the place where it had touched her. “Can I kill it already?”
+
+“Have you gotten the notification?” I asked, knowing full well what the answer would be.
+
+She growled. Actually, growled, as she kept slowly backing away from the thing slowly ambling at her, undeterred by the difficulty of the hunt . “I thought the Higher Running improvement was rough. This is… insanity.”
+
+Steve hadn’t budged from his perk atop a large rock. His gaze constantly swivelled constantly, keeping an eye out for anybody trying to join our party uninvited. “Victoria, you do know you can opt out at any point if it’s too much, right? Nobody’s forcing you.” His voice was concerned.
+
+“Eh.” She slid sideways, narrowly avoiding the tendrils as it reached out yet again, trying to ensnare her. “I’m only bitching. Helps me focus. That, and imagining all the ways I’m going to tear the tendrils off this disgusting pendejete once I’m done.”
+
+“Sounds healthy.” I laughed. “Swap me in for a bit? My healing’s outpacing the damage, and I want to top up before you rip it to sheds.”
+
+Victoria grunted in agreement, taking a few steps back and letting me slip in front of her. She didn’t relax, even as the beast focused its next attacks on me. Clever. A few times so far, it had proved to stubbornly keep attacking Victoria, even as I jumped around, trying to catch its attention.
+
+I checked out its details again.
+
+Am-Bush
+
+Level 14
+
+Health 180/215
+
+Path: Fortitude
+
+I still couldn’t believe that name. Nothing so far had insinuated that the system – Kismet or whatever – had any humour. And now, this horrible, horrible pun? I mean, I got it. The thing was shaped like a walking stick that decided to cosplay as a shrubbery instead of a branch. It also moved more or less like a tumbleweed, rolling rather than walking. The long, thin tendrils that looked like a blend of regular vines and a jellyfish’s tentacles weren’t good for much more than ambushing an unsuspecting animal. But… why?
+
+Regardless of the name, we’d lucked out, stumbling into the beast and its seven fellows. Steve spotted them from afar, and we spent a short while discussing if we should just steer around. Eventually, we decided that a group like this - relatively low-leveled, between Levels 10 and 14, who didn’t look like they could move too fast - might be just what the doctor ordered in order to help Victoria powerlevel.
+
+We decided to play it as safe as we could. I’d play interference, while Victoria took down most of them with her poison. That part went off swimmingly. We learned they were slow enough we could just lead them in a long circle, while the weaker ones slowly dropped off and died. Yes, poison worked on living shrubbery. Who knew?
+
+The acid damage had been a surprise, no discussion. But I already had Acid Resistance, and it wasn’t insurmountable. Just painful, like a bee sting, but turned all the way up.
+
+Still, once Victoria had finished off all but one of them, the real work started. There was no discussion that the Mexican was a hard worker – but she hadn’t had the chance to actually work on a lot of the elementary survival skills when she’d been trapped in the Kadren camp.
+
+Now, she made up for it, and more. She’d earned Improved Dodge early on in the engagement. Evading ten attacks, when the attacker was clumsy as hell and she was in her prime and had her Agility boosted from Steve’s buffs was more than easy.
+
+Improved Dodge
+
+Uncommon Passive skill
+
+Survival is an art form. One you had better hone in order to stay among the living. Every level in Dodge will slightly improve the speed and accuracy of your dodging actions and reduce the stamina used.
+
+In addition, once a day, your Agility will count as double for Dodge for the duration of a full minute.
+
+Next came Higher Running. That one took more, both in co-ordination, and the sheer level of effort involved. She had to bottom out her Stamina three times over from running in a single day. We timed things and had Steve drag her to safety every time, to ensure she wasn’t in danger, while I distracted the damn thing. Once, she mistimed her stamina use and bottomed out when the damn shrubbery was close enough to lash out, which apparently invalidated that attempt. But the fourth time she ran herself into the ground did the trick, and she pulled herself back up covered in sweat, but triumphant.
+
+Higher Running
+
+Passive skill
+
+Rare
+
+Running is an art form. One with a nigh-unlimited limit for improvement. Every level in Running will improve your running speed by a moderate margin and reduce stamina use.
+
+In addition, once a day you gain the ability to double your running speed for a full minute.
+
+Now, however, she was pulling deep from her resources. Resources, which had improved, again. The hour mark from Virtuous Growth had granted her a +3 to Dexterity, which she said helped more than she’d expected with fine motor control, and an amazing +3 to Mental Control for the one day marker. From now on, the wait between increases would be longer, but the talent had already earned its cost.
+
+Yet, even though she’d grown a lot stronger in a short while, she likely would’ve failed without help. Which was why we’d stockpiled our potions, allowing her to make full use of all our Stamina potions. We already had a small pile of empty clay potion bottles, and a full dozen still available between us. The issue here wasn’t that, but the sheer mental strain of being in danger for hours on end, and still going back for more. Most people would crack from that, knowing that they would have to risk their lives for even longer in order to gain an advantage that might not even be necessary.
+
+I dodged one attack before allowing the next two to hit. Glancing hits, nothing life-threatening, but enough to keep my Acid Resistance and Pain Tolerance climbing for a good while still. Maybe I’d take one more, before practicing my dodging? Victoria wasn’t likely to-
+
+“Yo, güero. Are you done? My stamina’s climbing and I’m ready for round seventeen! This thing ain’t gonna earn itself!”
+
+I snorted. Clearly Victoria wasn’t most people.
+
+***
+
+“Finally!” Victoria raised her arms in triumph, but couldn’t be bothered to lift any other part of her body from where she’d let herself drop listlessly to the ground. It made her look like a vertical zombie.
+
+The final Am-Bush lay on the ground behind her. It did look like Victoria had taken a needless degree of pleasure in tormenting the thing, staying just out of its reach, taunting the monster as her poison slowly stripped its health away. But then, with the effort she’d put in today? I wasn’t going to begrudge her a bit of petty vengeance.
+
+Congratulations. You have unlocked the higher rarity of a skill:
+
+You have spent the full capacities of your stamina ten times over during a single engagement.
+
+Endurance evolves to Higher Endurance.
+
+Higher Endurance
+
+Rare Passive skill
+
+You are no stranger to toil or long hours watching your stamina slowly drain. Every level in Higher Endurance will moderately reduce the stamina consumed by non-talent use.
+
+In addition, once a day, you may refresh your Stamina fully.
+
+She finished the explanation with a yawn. “I think, maybe, I…” Mid-sentence, her words faded into a barely audible murmur.
+
+I met Steve’s eyes, watching the amusement play over his features. “So… we’re making an early night of it today as well?”
