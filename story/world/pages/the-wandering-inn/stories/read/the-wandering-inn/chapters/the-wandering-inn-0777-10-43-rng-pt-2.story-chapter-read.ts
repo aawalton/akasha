@@ -8,7 +8,7 @@ export const theWanderingInn07771043RngPt2 = {
   story: "story-read/the-wandering-inn",
   position: 777,
   ownLength: 17915,
-  ownProgress: 13190,
+  ownProgress: 13244,
   unit: "unit/words",
   publishedAt: "2025-07-20",
   externalIdentity: [
