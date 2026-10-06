@@ -41,6 +41,7 @@ export const fairweather0014Harebells = {
     "character-other/fairweather-cora",
     "character-other/fairweather-amara",
   ],
+  recordedBy: ["story-recorder/plan"],
   scenes: [
     "image/image-dbb1b146248bfbb4",
     "image/image-a65ec316e6fbcd96",
