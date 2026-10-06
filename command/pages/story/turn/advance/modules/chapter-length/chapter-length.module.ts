@@ -30,7 +30,7 @@ export const chapterLength = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A written chapter has 50 to 100 beats, and 50 to 200 words to a beat.",
+      statement: "A written chapter has 50 to 200 beats, and 50 to 200 words to a beat.",
     },
   ],
 } as const satisfies Module

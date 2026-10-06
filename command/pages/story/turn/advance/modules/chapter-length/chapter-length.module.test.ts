@@ -43,17 +43,17 @@ test("words are counted between whitespace of any run", () => {
   expect(wordsIn("")).toBe(0)
 })
 
-test("a written chapter's beats from 50 to 100 are not refused", () => {
+test("a written chapter's beats from 50 to 200 are not refused", () => {
   expect(lengthRefused(beatsHanded(50), 0)).toBeNull()
-  expect(lengthRefused(beatsHanded(100), 0)).toBeNull()
+  expect(lengthRefused(beatsHanded(200), 0)).toBeNull()
 })
 
-test("a written chapter's beats under 50 or over 100 are refused with the count and the range", () => {
+test("a written chapter's beats under 50 or over 200 are refused with the count and the range", () => {
   const few = lengthRefused(beatsHanded(49), 0) ?? ""
-  expect(few).toContain("50 to 100")
+  expect(few).toContain("50 to 200")
   expect(few).toContain("these number 49")
   expect(few).toContain("the chapter before sets no length")
-  expect(lengthRefused(beatsHanded(101), 0)).toContain("these number 101")
+  expect(lengthRefused(beatsHanded(201), 0)).toContain("these number 201")
 })
 
 test("a beat restating the story's chapter break is refused, whatever its case or stops", () => {
@@ -124,9 +124,9 @@ test("a written chapter's writer handing prose too short for its beats is refuse
   expect(into.folded).toEqual([])
 })
 
-const HUNDRED = join(ROOT, "hundred-beats.txt")
+const TWO_HUNDRED = join(ROOT, "two-hundred-beats.txt")
 
-writeFileSync(HUNDRED, `${beatsOf(100).join("\n")}\n`)
+writeFileSync(TWO_HUNDRED, `${beatsOf(200).join("\n")}\n`)
 
 test("a played turn's game master is not held to a chapter's length", async () => {
   const into = seen()
@@ -136,14 +136,14 @@ test("a played turn's game master is not held to a chapter's length", async () =
   expect(into.folded.length).toBe(1)
 })
 
-const HUNDRED_ONE = join(ROOT, "hundred-one-beats.txt")
+const TWO_HUNDRED_ONE = join(ROOT, "two-hundred-one-beats.txt")
 
-writeFileSync(HUNDRED_ONE, `${beatsOf(101).join("\n")}\n`)
+writeFileSync(TWO_HUNDRED_ONE, `${beatsOf(201).join("\n")}\n`)
 
-test("a chapter takes a hundred beats and refuses a hundred and one", async () => {
+test("a chapter takes two hundred beats and refuses two hundred and one", async () => {
   const into = seen()
   const answer = await storyTurnAdvance(
-    [...CHAPTER_ARGV, "--beats-file", HUNDRED],
+    [...CHAPTER_ARGV, "--beats-file", TWO_HUNDRED],
     GIVEN,
     async () => LANDED,
     chapterReach(into),
@@ -153,12 +153,12 @@ test("a chapter takes a hundred beats and refuses a hundred and one", async () =
   expect(into.folded.length).toBe(1)
   const over = seen()
   const refused = await storyTurnAdvance(
-    [...CHAPTER_ARGV, "--beats-file", HUNDRED_ONE],
+    [...CHAPTER_ARGV, "--beats-file", TWO_HUNDRED_ONE],
     GIVEN,
     async () => LANDED,
     chapterReach(over),
     () => undefined
   )
-  expect(refused.refusals.join(" ")).toContain("at most 100")
+  expect(refused.refusals.join(" ")).toContain("at most 200")
   expect(over.folded).toEqual([])
 })

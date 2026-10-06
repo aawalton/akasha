@@ -13,7 +13,9 @@ import {
   TURN,
 } from "akasha/story/world/stories/played/turns/modules/turn-lifecycle/turn-lifecycle.module.code.ts"
 
-const MOST_LINES = 100
+const MOST_BEATS = 200
+
+const MOST_ISSUES = 100
 
 const LONGEST_LINE = 100
 
@@ -33,8 +35,8 @@ export type Mechanicked =
       readonly next: "mechanics" | "game-master" | "on"
     }
 
-function mostLines(noun: Noun): number | null {
-  return noun === CHAPTER ? MOST_LINES : null
+function chapterMost(noun: Noun, most: number): number | null {
+  return noun === CHAPTER ? most : null
 }
 
 function linesRefused(
@@ -55,12 +57,12 @@ function linesRefused(
 }
 
 export function issuesRefused(issues: readonly string[], noun: Noun): string | null {
-  return linesRefused("issue", issues, noun, mostLines(noun))
+  return linesRefused("issue", issues, noun, chapterMost(noun, MOST_ISSUES))
 }
 
 export function beatsRefused(beats: readonly string[], held: Held): string | null {
   const noun = held.noun ?? TURN
-  return linesRefused("beat", beats, noun, mostLines(noun))
+  return linesRefused("beat", beats, noun, chapterMost(noun, MOST_BEATS))
 }
 
 export function mechanicked(

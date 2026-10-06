@@ -9,7 +9,7 @@ const UNWORDED = /[^\p{L}\p{N}]+/gu
 
 const FEWEST_BEATS = 50
 
-const MOST_BEATS = 100
+const MOST_BEATS = 200
 
 const FEWEST_WORDS = 50
 

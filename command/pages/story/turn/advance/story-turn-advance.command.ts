@@ -149,7 +149,7 @@ export const storyTurnAdvance = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A written chapter's beats number 50 to 100.",
+      statement: "A written chapter's beats number 50 to 200.",
     },
     {
       decisionKind: "decision-kind/departure",

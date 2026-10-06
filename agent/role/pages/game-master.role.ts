@@ -40,7 +40,7 @@ export const gameMaster = {
         "The chapter ends where the story's `chapterBreak` is met.",
         "The chapter break is never a beat; the last beat is the last event.",
         "Pick up what the chapters before it left open.",
-        "A chapter has 50 to 100 beats, whatever length the chapter before it had.",
+        "A chapter has 50 to 200 beats, whatever length the chapter before it had.",
       ],
     },
     {

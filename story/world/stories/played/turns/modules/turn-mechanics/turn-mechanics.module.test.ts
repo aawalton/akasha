@@ -151,13 +151,13 @@ function beatsOf(count: number): string[] {
   return Array.from({ length: count }, (_, at) => `beat ${at + 1}`)
 }
 
-test("a played turn holds however many beats the story needs, and a chapter a hundred", () => {
+test("a played turn holds however many beats the story needs, and a chapter two hundred", () => {
   const turn = heldAt("game-master")
-  expect(beatsRefused(beatsOf(101), turn)).toBeNull()
+  expect(beatsRefused(beatsOf(201), turn)).toBeNull()
   expect(beatsRefused(beatsOf(400), turn)).toBeNull()
   const chapter = heldAt("game-master", { noun: "chapter" })
-  expect(beatsRefused(beatsOf(100), chapter)).toBeNull()
-  expect(beatsRefused(beatsOf(101), chapter)).toContain("a chapter holds at most 100 beats")
+  expect(beatsRefused(beatsOf(200), chapter)).toBeNull()
+  expect(beatsRefused(beatsOf(201), chapter)).toContain("a chapter holds at most 200 beats")
 })
 
 test("a beat runs past a hundred characters whatever the beats' cap is", () => {

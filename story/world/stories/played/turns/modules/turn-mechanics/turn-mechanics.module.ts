@@ -65,7 +65,7 @@ export const turnMechanics = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A chapter holds at most 100 beats.",
+      statement: "A chapter holds at most 200 beats and at most 100 issues.",
     },
     {
       decisionKind: "decision-kind/departure",
