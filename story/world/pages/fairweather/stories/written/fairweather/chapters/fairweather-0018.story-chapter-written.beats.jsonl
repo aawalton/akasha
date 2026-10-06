@@ -1,25 +1,25 @@
 {"beat":1,"event":"Elsie wakes in the attic in the dark before dawn, and thinks of Ines's favourite hour.","at":"2026-06-18T04:45:00.000Z","place":"place/fairweather-honeycomb-attic","present":["character-player/fairweather-elsie"]}
-{"beat":2,"event":"She lies listening to the quiet: the canal slapping, a far-off boat, nobody else awake."}
+{"beat":2,"event":"She lies listening: the canal slapping, a far-off boat, and Agnes's oven door clanking below."}
 {"beat":3,"event":"She whispers to Moonpenny that this is Ines's hour, and that it is rather nice, actually."}
 {"beat":4,"event":"On the sill the two grey gloves lie side by side, the second one's thumb half grown."}
 {"beat":5,"event":"She knits by the round window till the sky goes grey, and the thumb is done."}
 {"beat":6,"event":"Downstairs Agnes is at the oven; the honey cakes still sit on the blue plate, all of them.","at":"2026-06-18T05:45:00.000Z","place":"place/fairweather-honeycomb","present":["character-player/fairweather-elsie"]}
 {"beat":7,"event":"Elsie looks at the full plate a moment, and leaves it where it is."}
-{"beat":8,"event":"She asks Agnes for a little crock of honey, and pays her three pips for it.","changes":[{"page":"metric-character-currency/fairweather-elsie","note":"Elsie buys a little crock of honey from Agnes for Ines: 3 pips, 211 → 208","key":"value","from":211,"to":208}]}
+{"beat":8,"event":"She asks Agnes for a little crock of honey, and pays her three pips for it."}
 {"beat":9,"event":"Agnes ties a square of cloth over the crock's mouth with string, and asks who it's for."}
 {"beat":10,"event":"Elsie says a girl who likes hot milk with honey and the hour before dawn."}
 {"beat":11,"event":"Agnes adds a second knot to the string, and hands her a heel of yesterday's loaf for her breakfast."}
-{"beat":12,"event":"The guild hall opens at seven; Ines is already at the clerk's desk, small in her black lace.","at":"2026-06-18T07:00:00.000Z","place":"place/fairweather-guild-hall","present":["character-player/fairweather-elsie","character-other/fairweather-ines","character-other/fairweather-noor"]}
+{"beat":12,"event":"At seven Ines is already at the guild clerk's desk, small in her black lace.","at":"2026-06-18T07:00:00.000Z","place":"place/fairweather-guild-hall","present":["character-player/fairweather-elsie","character-other/fairweather-ines","character-other/fairweather-noor"]}
 {"beat":13,"event":"Around her there is a clear space on the boards, the way there is round Noor's table."}
 {"beat":14,"event":"Two adventurers waiting behind her have stepped back a full pace, and whisper."}
 {"beat":15,"event":"Elsie goes straight up and says good morning, and stands beside her, close."}
 {"beat":16,"event":"Ines whispers to the clerk that Biscuit is home, found on the dome, by these ones."}
-{"beat":17,"event":"The clerk unlocks the iron box and counts out two silver lanterns onto the desk.","changes":[{"page":"metric-character-experience/fairweather-elsie","note":"Elsie gains 30 XP for the F-rank Biscuit notice (30 → 60 / 350)","key":"value","from":30,"to":60},{"page":"metric-character-experience/fairweather-tamsin","note":"Tamsin gains 30 XP for the F-rank Biscuit notice (500 → 530)","key":"value","from":500,"to":530},{"page":"metric-character-experience/fairweather-tilly","note":"Tilly gains 30 XP for the F-rank Biscuit notice (180 → 210 / 350)","key":"value","from":180,"to":210}]}
+{"beat":17,"event":"The clerk unlocks the iron box and counts out two silver lanterns onto the desk."}
 {"beat":18,"event":"Tamsin, Tilly and Cora come in together; Tilly is yawning, her book under her arm.","at":"2026-06-18T07:10:00.000Z","arrive":["character-other/fairweather-tamsin","character-other/fairweather-tilly","character-other/fairweather-cora"]}
 {"beat":19,"event":"Tilly says she read about raising all night and has forty questions, and yawns again."}
 {"beat":20,"event":"Elsie says the two lanterns should go whole to Margery's whetstone, if nobody minds."}
 {"beat":21,"event":"Tilly says yes at once; Tamsin stares at the coins, then at Elsie, and goes red."}
-{"beat":22,"event":"Elsie puts both lanterns into Tamsin's big hand and folds her fingers shut over them.","changes":[{"page":"metric-character-currency/fairweather-tamsin","note":"Biscuit notice's 2 lanterns go whole to Tamsin for Margery's whetstone: 226 → 246","key":"value","from":226,"to":246},{"page":"world-relationship/fairweather-elsie-tamsin","note":"Bond: Tamsin 85 → 86 (kindness: the cat lanterns for Margery's whetstone)","key":"relationshipPoints","from":85,"to":86},{"page":"metric-character-stat/fairweather-elsie-strength","note":"Strength 18 → 19 (Devotion: Tamsin 86% of 21)","key":"value","from":18,"to":19},{"page":"metric-character-stat/fairweather-tamsin-strength","note":"Tamsin Strength 38 → 39 (Devotion: 86% of 21)","key":"value","from":38,"to":39}]}
+{"beat":22,"event":"Elsie puts both lanterns into Tamsin's big hand and folds her fingers shut over them."}
 {"beat":23,"event":"Tamsin says gruffly that Margery says thank you, and pats the axe on her back."}
 {"beat":24,"event":"Elsie gives Ines the little crock of honey, for her milk, as she promised."}
 {"beat":25,"event":"Ines holds it in both hands against her lace and looks at it as if it were a bird."}
@@ -28,7 +28,7 @@
 {"beat":28,"event":"Cora watches Ines from by the desk, ledger shut under her arm, her face unreadable."}
 {"beat":29,"event":"Cora says to Ines, formally, that Biscuit's return will be noted as a found cat, nothing else."}
 {"beat":30,"event":"Ines looks at Cora's coat a long moment, and whispers, Thank you, Warden."}
-{"beat":31,"event":"Elsie takes Ines's free hand and leads her across the bare boards to Noor's table.","changes":[{"page":"world-relationship/fairweather-elsie-ines","note":"Bond: Ines 5 → 7 (stand: Elsie leads her by the hand across the bare boards)","key":"relationshipPoints","from":5,"to":7}]}
+{"beat":31,"event":"Elsie takes Ines's free hand and leads her across the bare boards to Noor's table."}
 {"beat":32,"event":"Noor watches them come, two of them now, and puts her coffee down."}
 {"beat":33,"event":"Elsie says brightly, Noor, it's tomorrow, and sits on the good chair, after knocking twice."}
 {"beat":34,"event":"Noor looks at Ines; Ines looks at Noor's gloves; neither looks away first."}
@@ -36,16 +36,16 @@
 {"beat":36,"event":"Ines whispers that she doesn't mind bad luck, and sits down right beside her."}
 {"beat":37,"event":"Nothing falls, spills or snaps; Noor looks almost put out about it."}
 {"beat":38,"event":"Elsie asks Noor, as if it's simple: will you have lunch with me today?"}
-{"beat":39,"event":"Noor turns her cup a quarter turn, and another, and says: One o'clock. The Crooked Kettle.","changes":[{"page":"world-relationship/fairweather-elsie-noor","note":"Bond: Noor 4 → 5 (kindness: asked to lunch once more, and she says yes)","key":"relationshipPoints","from":4,"to":5}]}
+{"beat":39,"event":"Noor turns her cup a quarter turn, and another, and says: One o'clock. The Crooked Kettle."}
 {"beat":40,"event":"She adds that she won't wait, so Elsie had better not be late."}
 {"beat":41,"event":"Elsie squeals and claps, and Noor's spoon jumps out of her saucer onto the floor."}
 {"beat":42,"event":"Noor looks at the spoon on the floor, and the corner of her mouth goes in hard."}
 {"beat":43,"event":"Tilly takes Ines off toward Ash Lane, already asking how a mouse is raised.","at":"2026-06-18T07:50:00.000Z","leave":["character-other/fairweather-tilly","character-other/fairweather-ines"]}
-{"beat":44,"event":"Tamsin finds a cutler on Brightwater Square and pays one lantern for a good grey whetstone.","at":"2026-06-18T08:15:00.000Z","place":"place/fairweather-lanternmere","present":["character-player/fairweather-elsie","character-other/fairweather-tamsin","character-other/fairweather-cora"],"changes":[{"page":"metric-character-currency/fairweather-tamsin","note":"Tamsin pays one lantern for a grey whetstone: 246 → 236","key":"value","from":246,"to":236}]}
+{"beat":44,"event":"Tamsin finds a cutler on Brightwater Square and pays one lantern for a good grey whetstone.","at":"2026-06-18T08:15:00.000Z","place":"place/fairweather-lanternmere","present":["character-player/fairweather-elsie","character-other/fairweather-tamsin","character-other/fairweather-cora"]}
 {"beat":45,"event":"She sits on the canal steps with Margery across her knees and works the edge, long strokes."}
 {"beat":46,"event":"The stone rings on the steel; Tamsin hums along with it without knowing, like Elsie does."}
 {"beat":47,"event":"Elsie sits on the step above her and knits the first finger of the second glove."}
-{"beat":48,"event":"Cora stands at the top of the steps; Elsie pats the step beside her until Cora sits.","changes":[{"page":"world-relationship/fairweather-elsie-cora","note":"Bond: Cora 53 → 54 (kindness: Elsie pats the step until she sits)","key":"relationshipPoints","from":53,"to":54}]}
+{"beat":48,"event":"Cora stands at the top of the steps; Elsie pats the step beside her until Cora sits."}
 {"beat":49,"event":"Tamsin holds Margery up to the light; the edge shines thin and bright along its curve."}
 {"beat":50,"event":"She shaves a hair off her own arm with it, and grins up at Elsie, wide and crooked."}
 {"beat":51,"event":"Tamsin says let's go and look at the house, just look, just to say good morning to it."}
@@ -66,14 +66,14 @@
 {"beat":66,"event":"Elsie reads it: dusk to dawn on the twentieth, from boats the festival lends."}
 {"beat":67,"event":"Twelve lanterns, Tamsin says. Eight for the house, and four left over for pie."}
 {"beat":68,"event":"Cora says, very evenly, that thieves on Midsummer night carry knives, not cream bowls."}
-{"beat":69,"event":"Elsie says they'll be careful, and that Cora will be in the boat, so they'll be safe.","changes":[{"page":"world-relationship/fairweather-elsie-cora","note":"Bond: Cora 54 → 56 (stand: with Cora in the boat they'll be safe)","key":"relationshipPoints","from":54,"to":56}]}
+{"beat":69,"event":"Elsie says they'll be careful, and that Cora will be in the boat, so they'll be safe."}
 {"beat":70,"event":"Cora looks at her, and says nothing, and doesn't argue again."}
 {"beat":71,"event":"Elsie signs for the party at the clerk's desk; the clerk stamps it for the twentieth."}
 {"beat":72,"event":"Tamsin says the whole city will be out on the Mere, and Celestine Okafor will sing on the barge."}
 {"beat":73,"event":"Elsie says slowly that Celestine Okafor is Amara's mother."}
 {"beat":74,"event":"Elsie thinks of Amara on the barrow in the dark, who can't sing if anyone is listening."}
 {"beat":75,"event":"She doesn't say anything else, and goes quiet with the notice in her hand."}
-{"beat":76,"event":"Tamsin goes off to the docks to tell her mum about the barges, Margery shining on her back.","at":"2026-06-18T11:00:00.000Z","leave":["character-other/fairweather-tamsin"]}
+{"beat":76,"event":"Tamsin goes off to the docks to write her mum and Nell about the barges, Margery on her back.","at":"2026-06-18T11:00:00.000Z","leave":["character-other/fairweather-tamsin"]}
 {"beat":77,"event":"Elsie and Cora walk through Lantern Square, where a field of bronze threads stands.","at":"2026-06-18T11:30:00.000Z","place":"place/fairweather-lanternmere","present":["character-player/fairweather-elsie","character-other/fairweather-cora"]}
 {"beat":78,"event":"The threads are hundreds of thin bronze rods, each cut through near the top, each with a name."}
 {"beat":79,"event":"Elsie asks what it is; Cora says the Memorial of Strings, for the war's dead."}
@@ -82,7 +82,7 @@
 {"beat":82,"event":"Cora says, in her report voice, that they were her grandmother's parents and her three brothers."}
 {"beat":83,"event":"She says her grandmother lives on this square and lights five candles every night."}
 {"beat":84,"event":"Elsie doesn't say anything at first; she looks at the five names a long time."}
-{"beat":85,"event":"She takes Cora's bare hand, quite simply, and holds it, and they stand there together.","changes":[{"page":"world-relationship/fairweather-elsie-cora","note":"Bond: Cora 56 → 58 (held through grief at the five threads; cut to the cap of 5)","key":"relationshipPoints","from":56,"to":58},{"page":"metric-character-stat/fairweather-elsie-heart","note":"Heart 18 → 19 (Devotion: Cora 58% of 21)","key":"value","from":18,"to":19},{"page":"metric-character-stat/fairweather-cora-heart","note":"Cora Heart 32 → 33 (Devotion: 58% of 21)","key":"value","from":32,"to":33}]}
+{"beat":85,"event":"She takes Cora's bare hand, quite simply, and holds it, and they stand there together."}
 {"beat":86,"event":"Cora doesn't take her hand back; her fingers close, slowly, round Elsie's."}
 {"beat":87,"event":"Elsie says quietly she understands now why Cora said, Don't do that again."}
 {"beat":88,"event":"Cora says that isn't why, and stops, and doesn't say what is."}
@@ -99,13 +99,13 @@
 {"beat":99,"event":"They have leek soup and brown bread; Noor eats with her gloves on, neatly."}
 {"beat":100,"event":"A gust through the door lifts Elsie's napkin into the soup; she fishes it out, laughing."}
 {"beat":101,"event":"The waiter trips on nothing beside them and saves the teapot by a whisker."}
-{"beat":102,"event":"Elsie's flower clip slides out of her hair and drops into the bread basket.","changes":[{"page":"story-item/fairweather-flower-clip","note":"Elsie's flower clip slides out of her hair into the bread basket","key":"slot","from":"item-slot/head","to":null}]}
+{"beat":102,"event":"Elsie's flower clip slides out of her hair and drops into the bread basket."}
 {"beat":103,"event":"Noor says flatly that this is why she eats alone, and puts down her spoon."}
 {"beat":104,"event":"Elsie says it's the best lunch she's had in Lanternmere, and means it."}
 {"beat":105,"event":"Noor looks at her across the table a long time, then fishes the clip out of the bread."}
-{"beat":106,"event":"She clips it back into Elsie's hair with her gloved fingers, careful, and sits back.","changes":[{"page":"story-item/fairweather-flower-clip","note":"Noor clips the flower clip back into Elsie's hair","key":"slot","from":null,"to":"item-slot/head"}]}
+{"beat":106,"event":"She clips it back into Elsie's hair with her gloved fingers, careful, and sits back."}
 {"beat":107,"event":"Elsie asks Noor if she'll come out on the Mere with them on Midsummer, guarding barges."}
-{"beat":108,"event":"She says they'd love a fourth, and Noor needn't sit near anyone if she'd rather not.","changes":[{"page":"world-relationship/fairweather-elsie-noor","note":"Bond: Noor 5 → 7 (stand: asked into the party's boat for Midsummer)","key":"relationshipPoints","from":5,"to":7}]}
+{"beat":108,"event":"She says they'd love a fourth, and Noor needn't sit near anyone if she'd rather not."}
 {"beat":109,"event":"Noor stares at her, and says, quite quietly, that boats sink round her."}
 {"beat":110,"event":"Elsie says then they'll take Tilly's floating vials, and Tamsin swims like a fish."}
 {"beat":111,"event":"Noor turns her cup a full turn on the table, and says: Ask me tomorrow."}
@@ -122,7 +122,7 @@
 {"beat":122,"event":"Elsie says she knows, and hugs her quickly round the middle, coat, ledger and all."}
 {"beat":123,"event":"Cora stands stiff in it, then her hand rests a moment on Elsie's back, and lifts."}
 {"beat":124,"event":"Cora goes off along the canal toward Wick Lane, and looks back at the second bridge.","at":"2026-06-18T18:10:00.000Z","leave":["character-other/fairweather-cora"]}
-{"beat":125,"event":"In the attic Elsie knits the glove's second finger by the round window as the lanterns light.","at":"2026-06-18T20:30:00.000Z","place":"place/fairweather-honeycomb-attic","present":["character-player/fairweather-elsie"]}
+{"beat":125,"event":"In the attic Elsie knits the glove's second finger by the round window, the canal lanterns lit.","at":"2026-06-18T20:30:00.000Z","place":"place/fairweather-honeycomb-attic","present":["character-player/fairweather-elsie"]}
 {"beat":126,"event":"Below on Thimble Canal, under the red lantern, a girl with long braids stops at the window."}
 {"beat":127,"event":"She stands looking at the honey cakes a long while, as she did before, and turns to go."}
 {"beat":128,"event":"Elsie drops her knitting and runs down the attic stair and through the dark shop."}
@@ -138,7 +138,7 @@
 {"beat":138,"event":"She says her mother wants her to sing beside her on the barge on Midsummer night."}
 {"beat":139,"event":"She says she hasn't told her mother she can't sing a note with anyone listening."}
 {"beat":140,"event":"Elsie says that sounds like the heaviest thing she's ever heard anyone carry."}
-{"beat":141,"event":"She puts her arm round Amara's shoulders and leaves it there, warm, on the step.","changes":[{"page":"world-relationship/fairweather-elsie-amara","note":"Bond: Amara 2 → 5 (held through a fear: the Midsummer song, an arm round her)","key":"relationshipPoints","from":2,"to":5}]}
+{"beat":141,"event":"She puts her arm round Amara's shoulders and leaves it there, warm, on the step."}
 {"beat":142,"event":"Amara leans into her side by inches, and rests her head on Elsie's shoulder."}
 {"beat":143,"event":"Elsie says she'll be out on the dark water that night guarding barges, not listening."}
 {"beat":144,"event":"She says if Amara looks for a boat with a pink head in it, that'll be her, not listening at all."}
@@ -151,4 +151,4 @@
 {"beat":151,"event":"She draws a little boat on the Midsummer page, with a lantern in it and five heads."}
 {"beat":152,"event":"She looks at it, and adds a sixth head with braids, small, at the very back, and rubs it out."}
 {"beat":153,"event":"She tells Moonpenny about the bronze threads, and the singing, and the blue door, and Noor's yes."}
-{"beat":154,"event":"She lays the second glove by the first, two fingers done now, and blows out the candle.","changes":[{"page":"metric-character-currency/fairweather-elsie","note":"Elsie ends the chapter with 208 pips","key":"history","append":{"turn":18,"value":208}},{"page":"metric-character-currency/fairweather-tamsin","note":"Tamsin ends the chapter with 236 pips","key":"history","append":{"turn":18,"value":236}},{"page":"metric-character-currency/fairweather-tilly","note":"Tilly ends the chapter with 274 pips, unchanged","key":"history","append":{"turn":18,"value":274}},{"page":"world-relationship/fairweather-elsie-tamsin","note":"Bond: Tamsin 86 → 87 (Tether: at day's end)","key":"relationshipPoints","from":86,"to":87},{"page":"metric-character-experience/fairweather-elsie","note":"Experience logged","key":"history","append":{"turn":18,"value":60}},{"page":"metric-character-experience/fairweather-tamsin","note":"Experience logged","key":"history","append":{"turn":18,"value":530}},{"page":"metric-character-experience/fairweather-tilly","note":"Experience logged","key":"history","append":{"turn":18,"value":210}},{"page":"metric-character-stat/fairweather-elsie-strength","note":"Strength logged","key":"history","append":{"turn":18,"value":19}},{"page":"metric-character-stat/fairweather-elsie-heart","note":"Heart logged","key":"history","append":{"turn":18,"value":19}}]}
+{"beat":154,"event":"She lays the second glove by the first, two fingers done now, and blows out the candle."}
