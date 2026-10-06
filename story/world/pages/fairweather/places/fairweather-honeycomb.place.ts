@@ -51,5 +51,9 @@ export const fairweatherHoneycomb = {
         "character-other/fairweather-nell",
       ],
     },
+    {
+      fact: "Agnes Merriweather corrected Elsie's honey cake recipe: a moderate oven, not a hot one.",
+      knowers: ["lore-disclosure/game-master", "character-player/fairweather-elsie"],
+    },
   ],
 } as const satisfies Place

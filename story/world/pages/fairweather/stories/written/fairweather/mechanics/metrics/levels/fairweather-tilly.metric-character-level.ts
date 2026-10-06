@@ -5,7 +5,7 @@ export const fairweatherTilly = {
   type: "page-type/metric-character-level",
   slug: "fairweather-tilly",
   character: "character-other/fairweather-tilly",
-  value: 3,
+  value: 4,
   minValue: 1,
   history: "jsonl",
   unrevealed: true,

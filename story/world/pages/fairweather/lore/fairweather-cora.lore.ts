@@ -191,6 +191,20 @@ export const fairweatherCora = {
         "character-other/fairweather-cora",
       ],
     },
+    {
+      fact: "On the Lantern Steps Cora put her charcoal coat round a soaked Elsie.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-tamsin",
+        "character-other/fairweather-tilly",
+        "character-other/fairweather-cora",
+      ],
+    },
+    {
+      fact: "Cora's charcoal coat smells of ink and, faintly, lavender.",
+      knowers: ["lore-disclosure/game-master", "character-player/fairweather-elsie"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore

@@ -8,5 +8,5 @@ export const fairweatherCopperRankTag = {
   story: "story-written/fairweather",
   character: "character-player/fairweather-elsie",
   description:
-    "A small copper tag of the Adventurers' Guild, stamped with the holder's name and rank, F, and hung at the belt.",
+    "A small copper tag of the Adventurers' Guild, stamped with the holder's name and rank, E, and hung at the belt.",
 } as const satisfies StoryItem

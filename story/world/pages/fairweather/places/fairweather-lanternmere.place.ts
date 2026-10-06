@@ -259,5 +259,15 @@ export const fairweatherLanternmere = {
         "character-other/fairweather-cora",
       ],
     },
+    {
+      fact: "Elsie found a young woman's lost ring in the Mere off the Lantern Steps.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-tamsin",
+        "character-other/fairweather-tilly",
+        "character-other/fairweather-cora",
+      ],
+    },
   ],
 } as const satisfies Place

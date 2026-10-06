@@ -4,10 +4,10 @@ export const fairweatherElsieRankF = {
   id: "01a10364-ec0b-7f10-8ccf-ddb3cc5172a3",
   type: "page-type/character-rank",
   slug: "fairweather-elsie-rank-f",
-  title: "F",
+  title: "E",
   world: "world/fairweather",
-  place: 1,
+  place: 2,
   character: "character-player/fairweather-elsie",
-  rank: "world-rank/fairweather-rank-f",
+  rank: "world-rank/fairweather-rank-e",
   unrevealed: false,
 } as const satisfies CharacterRank

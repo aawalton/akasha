@@ -216,6 +216,20 @@ export const fairweatherTilly = {
         "character-other/fairweather-cora",
       ],
     },
+    {
+      fact: "Tilly reached level 4 on the Lantern Steps, on the eleventh.",
+      knowers: ["lore-disclosure/game-master", "character-other/fairweather-tilly"],
+    },
+    {
+      fact: "On the eleventh Tilly was raised to E-rank, her tag restamped at the clerk's desk.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-tamsin",
+        "character-other/fairweather-tilly",
+        "character-other/fairweather-cora",
+      ],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore

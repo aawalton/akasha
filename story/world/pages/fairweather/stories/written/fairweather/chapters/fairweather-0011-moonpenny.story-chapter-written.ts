@@ -11,9 +11,8 @@ export const fairweather0011Moonpenny = {
   story: "story-written/fairweather",
   ownLength: 9287,
   prose: "txt",
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/player",
   beats: "jsonl",
-  issues: "txt",
   lore: [
     "lore/fairweather-cora",
     "lore/fairweather-elsie",
@@ -39,7 +38,12 @@ export const fairweather0011Moonpenny = {
     "character-other/fairweather-tilly",
     "character-other/fairweather-cora",
   ],
-  reviewedBy: ["story-reviewer/scene", "story-reviewer/holdings", "story-reviewer/continuity"],
+  reviewedBy: [
+    "story-reviewer/scene",
+    "story-reviewer/holdings",
+    "story-reviewer/continuity",
+    "story-reviewer/style",
+  ],
   recordedBy: [
     "story-recorder/inventory",
     "story-recorder/plan",
@@ -47,7 +51,6 @@ export const fairweather0011Moonpenny = {
     "story-recorder/picture",
     "story-recorder/memory",
   ],
-  rulings: "jsonl",
   scenes: [
     "image/image-3f1abda25a82b0a2",
     "image/image-f5219dcbed5ca81b",

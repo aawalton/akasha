@@ -6,7 +6,7 @@ export const fairweatherTillyGrace = {
   slug: "fairweather-tilly-grace",
   title: "Grace",
   character: "character-other/fairweather-tilly",
-  value: 6,
+  value: 7,
   minValue: 0,
   displayOrder: 3,
 } as const satisfies MetricCharacterStat

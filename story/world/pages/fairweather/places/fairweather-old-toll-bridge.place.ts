@@ -14,7 +14,13 @@ export const fairweatherOldTollBridge = {
     },
     {
       fact: "Two river trolls live under the old toll bridge and take sheep from Wend Meadows by night.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-tamsin",
+        "character-other/fairweather-tilly",
+        "character-other/fairweather-cora",
+      ],
     },
     {
       fact: "A river troll is twice a woman's height, mossy and slow, and sleeps by day under the arch.",

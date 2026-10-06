@@ -164,6 +164,8 @@ export const fairweatherGuildHall = {
         "lore-disclosure/game-master",
         "character-other/fairweather-tamsin",
         "character-player/fairweather-elsie",
+        "character-other/fairweather-tilly",
+        "character-other/fairweather-cora",
       ],
     },
     {
@@ -214,7 +216,13 @@ export const fairweatherGuildHall = {
     },
     {
       fact: "An adventurer raised to E-rank has her copper tag restamped with an E at the clerk's desk.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-tamsin",
+        "character-other/fairweather-tilly",
+        "character-other/fairweather-cora",
+      ],
     },
     {
       fact: "From the eleventh the F-rank board has: wash Brightwater Canal's lanterns, three lanterns.",

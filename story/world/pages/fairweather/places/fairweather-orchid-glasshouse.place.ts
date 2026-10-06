@@ -78,5 +78,15 @@ export const fairweatherOrchidGlasshouse = {
         "character-other/fairweather-cora",
       ],
     },
+    {
+      fact: "On the Fairweather party's watch every moon orchid bloom came through the night whole.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-tamsin",
+        "character-other/fairweather-tilly",
+        "character-other/fairweather-cora",
+      ],
+    },
   ],
 } as const satisfies Place
