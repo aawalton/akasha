@@ -206,5 +206,48 @@ export const fairweatherNoor = {
       fact: "Noor's Hex grows weaker the less alone she feels.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "When Ines sat close beside Noor, Noor's cup stayed put, and Noor frowned at it.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-noor",
+        "character-other/fairweather-ines",
+      ],
+    },
+    {
+      fact: "Noor agreed to lunch with Elsie at one at the Crooked Kettle on the eighteenth.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-noor",
+        "character-other/fairweather-ines",
+      ],
+    },
+    {
+      fact: "Noor told Elsie that boats sink round her.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-noor",
+      ],
+    },
+    {
+      fact: "Asked to the Midsummer barge guard, Noor told Elsie: ask me tomorrow.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-noor",
+      ],
+    },
+    {
+      fact: "Noor lunched with Elsie at the Crooked Kettle on the eighteenth, and paid for both.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-noor",
+        "character-other/fairweather-cora",
+      ],
+    },
   ],
 } as const satisfies Lore

@@ -209,5 +209,31 @@ export const fairweatherInes = {
         "character-other/fairweather-ines",
       ],
     },
+    {
+      fact: "In the guild hall folk leave a ring of bare floor round Ines, as round Noor's table.",
+      knowers: ["lore-disclosure/game-master", "character-player/fairweather-elsie"],
+    },
+    {
+      fact: "Elsie brought Ines a crock of honey for her milk the morning after she promised.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-ines",
+        "character-other/fairweather-tamsin",
+        "character-other/fairweather-tilly",
+        "character-other/fairweather-cora",
+      ],
+    },
+    {
+      fact: "Cora noted Biscuit's return in the guild's record as a found cat, and only that.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/fairweather-cora",
+        "character-other/fairweather-ines",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-tamsin",
+        "character-other/fairweather-tilly",
+      ],
+    },
   ],
 } as const satisfies Lore

@@ -8,7 +8,7 @@ export const fairweatherTilly = {
   description:
     "The prose never states Tilly's experience; 0 is where the progression starts each level.",
   character: "character-other/fairweather-tilly",
-  value: 180,
+  value: 210,
   minValue: 0,
   history: "jsonl",
   displayOrder: 1,

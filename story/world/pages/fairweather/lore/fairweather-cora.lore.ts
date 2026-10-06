@@ -52,7 +52,11 @@ export const fairweatherCora = {
     },
     {
       fact: "Cora's grandmother lost her parents and three brothers in the War of Strings.",
-      knowers: ["lore-disclosure/game-master", "character-other/fairweather-cora"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/fairweather-cora",
+        "character-player/fairweather-elsie",
+      ],
     },
     {
       fact: "Cora was raised by that grandmother, who lives on Lantern Square and lights five candles nightly.",

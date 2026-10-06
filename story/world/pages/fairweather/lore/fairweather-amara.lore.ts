@@ -29,7 +29,11 @@ export const fairweatherAmara = {
     },
     {
       fact: "Amara has not told her mother she cannot sing a note with anyone listening.",
-      knowers: ["lore-disclosure/game-master", "character-other/fairweather-amara"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/fairweather-amara",
+        "character-player/fairweather-elsie",
+      ],
     },
     {
       fact: "Since the barrow Amara has walked past the Honeycomb twice and not gone in.",
@@ -50,6 +54,47 @@ export const fairweatherAmara = {
         "character-other/fairweather-amara",
         "character-player/fairweather-elsie",
         "character-other/fairweather-cora",
+      ],
+    },
+    {
+      fact: "Celestine Okafor, who sings on the Midsummer barge, is Amara's mother.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-tamsin",
+        "character-other/fairweather-cora",
+      ],
+    },
+    {
+      fact: "Elsie heard Amara singing from a high window on Lantern Square, and walked on.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-cora",
+      ],
+    },
+    {
+      fact: "Elsie told Amara the honey cakes in the window were always for her.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-amara",
+      ],
+    },
+    {
+      fact: "Amara thanked Elsie for walking on when she heard her singing on Lantern Square.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-amara",
+      ],
+    },
+    {
+      fact: "Elsie told Amara she'll be guarding barges on Midsummer night, not listening.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-amara",
       ],
     },
   ],

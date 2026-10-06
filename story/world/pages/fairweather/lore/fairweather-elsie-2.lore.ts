@@ -244,5 +244,21 @@ export const fairweatherElsie2 = {
         "character-other/fairweather-cora",
       ],
     },
+    {
+      fact: "Cora's ledger for lunch on the eighteenth reads: Lunch. Skills used, none.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-cora",
+      ],
+    },
+    {
+      fact: "Amara says everyone is talking of the pink-haired Enthraller.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-amara",
+      ],
+    },
   ],
 } as const satisfies Lore

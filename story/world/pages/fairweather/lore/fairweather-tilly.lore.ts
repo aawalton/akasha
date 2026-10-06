@@ -256,6 +256,17 @@ export const fairweatherTilly = {
         "character-other/fairweather-tilly",
       ],
     },
+    {
+      fact: "Tilly went to Ines's house on the eighteenth to ask her forty questions about raising.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/fairweather-tilly",
+        "character-other/fairweather-ines",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-tamsin",
+        "character-other/fairweather-cora",
+      ],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore

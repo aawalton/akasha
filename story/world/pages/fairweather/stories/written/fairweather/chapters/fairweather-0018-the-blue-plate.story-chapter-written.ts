@@ -11,9 +11,8 @@ export const fairweather0018TheBluePlate = {
   story: "story-written/fairweather",
   ownLength: 11682,
   prose: "txt",
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/player",
   beats: "jsonl",
-  issues: "txt",
   lore: [
     "lore/fairweather-amara",
     "lore/fairweather-cora",
@@ -49,7 +48,12 @@ export const fairweather0018TheBluePlate = {
     "character-other/fairweather-amara",
     "character-other/fairweather-nell",
   ],
-  reviewedBy: ["story-reviewer/holdings", "story-reviewer/scene", "story-reviewer/style"],
+  reviewedBy: [
+    "story-reviewer/holdings",
+    "story-reviewer/scene",
+    "story-reviewer/style",
+    "story-reviewer/continuity",
+  ],
   recordedBy: [
     "story-recorder/plan",
     "story-recorder/mechanics",

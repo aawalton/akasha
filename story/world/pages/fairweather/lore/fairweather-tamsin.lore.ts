@@ -349,5 +349,25 @@ export const fairweatherTamsin = {
         "character-other/fairweather-ines",
       ],
     },
+    {
+      fact: "The Biscuit notice's two lanterns went whole to Tamsin, for Margery's whetstone.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-tamsin",
+        "character-other/fairweather-tilly",
+        "character-other/fairweather-cora",
+        "character-other/fairweather-ines",
+      ],
+    },
+    {
+      fact: "Tamsin bought a grey whetstone for one lantern, and Margery's edge now shaves a hair.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/fairweather-tamsin",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-cora",
+      ],
+    },
   ],
 } as const satisfies Lore

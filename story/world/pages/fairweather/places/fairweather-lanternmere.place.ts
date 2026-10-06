@@ -45,6 +45,7 @@ export const fairweatherLanternmere = {
         "character-other/fairweather-cora",
         "character-other/fairweather-tamsin",
         "character-other/fairweather-tilly",
+        "character-player/fairweather-elsie",
       ],
     },
     {
@@ -227,6 +228,7 @@ export const fairweatherLanternmere = {
         "character-player/fairweather-elsie",
         "character-other/fairweather-tamsin",
         "character-other/fairweather-tilly",
+        "character-other/fairweather-cora",
       ],
     },
     {
@@ -283,11 +285,17 @@ export const fairweatherLanternmere = {
         "lore-disclosure/game-master",
         "character-player/fairweather-elsie",
         "character-other/fairweather-tamsin",
+        "character-other/fairweather-cora",
       ],
     },
     {
       fact: "By the eighteenth a second party has been to look at the blue-door house on Willow Canal.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-tamsin",
+        "character-other/fairweather-cora",
+      ],
     },
     {
       fact: "Thieves cut lantern barges loose on Midsummer night and strip them out on the dark water.",
@@ -295,7 +303,30 @@ export const fairweatherLanternmere = {
     },
     {
       fact: "The barge guard runs from dusk to dawn on the twentieth, from boats lent by the festival.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-tamsin",
+        "character-other/fairweather-cora",
+      ],
+    },
+    {
+      fact: "A C-rank party means to bring the blue-door house's gold after their Midsummer job.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-tamsin",
+        "character-other/fairweather-cora",
+      ],
+    },
+    {
+      fact: "On the eighteenth Elsie, Tamsin and Tilly together were about eight lanterns short of the house.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/fairweather-tamsin",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-cora",
+      ],
     },
   ],
 } as const satisfies Place

@@ -380,5 +380,22 @@ export const fairweatherGuildHall = {
         "character-other/fairweather-cora",
       ],
     },
+    {
+      fact: "On the eighteenth Ines told the clerk Biscuit was home, and the notice paid two lanterns.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-ines",
+      ],
+    },
+    {
+      fact: "Elsie's party signed for the Midsummer barge guard on the eighteenth, stamped for the twentieth.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-tamsin",
+        "character-other/fairweather-cora",
+      ],
+    },
   ],
 } as const satisfies Place
