@@ -32,5 +32,5 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood = {
     "Magic",
     "Monster Evolution",
   ],
-  publicationStatus: "ongoing",
+  publicationStatus: "hiatus",
 } as const satisfies StoryRead

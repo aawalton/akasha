@@ -4,6 +4,7 @@ export const fiveElementOverlordICanUpgradeEverything0156Ch156RedMilkFruit = {
   id: "01a10e52-c4c6-70ab-8188-9e39f874dac1",
   type: "page-type/story-chapter-read",
   slug: "five-element-overlord-i-can-upgrade-everything-0156-ch156-red-milk-fruit",
+  ownProgress: 1253,
   position: 156,
   publishedAt: "2026-10-05",
   unit: "unit/words",

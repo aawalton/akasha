@@ -4,6 +4,7 @@ export const maidAscension0137Chapter127ProblemSolved = {
   id: "01a10dad-9b5b-7f5a-be85-a1938caeaaaf",
   type: "page-type/story-chapter-read",
   slug: "maid-ascension-0137-chapter-127-problem-solved",
+  ownProgress: 1682,
   position: 137,
   publishedAt: "2026-10-05",
   unit: "unit/words",

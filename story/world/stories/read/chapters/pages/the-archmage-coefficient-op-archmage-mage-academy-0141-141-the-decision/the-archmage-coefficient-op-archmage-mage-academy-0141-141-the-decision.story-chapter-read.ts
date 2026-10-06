@@ -4,6 +4,7 @@ export const theArchmageCoefficientOpArchmageMageAcademy0141141TheDecision = {
   id: "01a10e1c-43c7-751b-a120-0e2e3b47d835",
   type: "page-type/story-chapter-read",
   slug: "the-archmage-coefficient-op-archmage-mage-academy-0141-141-the-decision",
+  ownProgress: 3992,
   position: 141,
   publishedAt: "2026-10-05",
   unit: "unit/words",
