@@ -48,6 +48,7 @@ export const fairweather0018TheBluePlate = {
     "character-other/fairweather-amara",
     "character-other/fairweather-nell",
   ],
+  reviewedBy: ["story-reviewer/holdings"],
   recordedBy: [
     "story-recorder/plan",
     "story-recorder/mechanics",
