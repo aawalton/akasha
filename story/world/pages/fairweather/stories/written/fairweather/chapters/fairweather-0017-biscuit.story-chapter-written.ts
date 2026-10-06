@@ -11,7 +11,7 @@ export const fairweather0017Biscuit = {
   story: "story-written/fairweather",
   ownLength: 12673,
   prose: "txt",
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/reviewers",
   beats: "jsonl",
   issues: "txt",
   lore: [
@@ -54,6 +54,7 @@ export const fairweather0017Biscuit = {
     "story-recorder/mechanics",
     "story-recorder/inventory",
     "story-recorder/picture",
+    "story-recorder/memory",
   ],
   scenes: [
     "image/image-40c69dc3dad284d6",
