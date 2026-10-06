@@ -9,9 +9,9 @@ export const encounters0005BothBetsCount = {
   unit: "unit/words",
   title: "Both Bets Count",
   story: "story-written/encounters",
-  ownLength: 5311,
+  ownLength: 5337,
   prose: "txt",
-  stepStatus: "step-status/writer",
+  stepStatus: "step-status/recorders",
   beats: "jsonl",
   issues: "txt",
   lore: [
