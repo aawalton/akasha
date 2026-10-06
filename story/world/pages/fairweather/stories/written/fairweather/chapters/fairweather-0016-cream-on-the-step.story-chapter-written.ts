@@ -9,9 +9,9 @@ export const fairweather0016CreamOnTheStep = {
   unit: "unit/words",
   title: "Cream on the Step",
   story: "story-written/fairweather",
-  ownLength: 8725,
+  ownLength: 8720,
   prose: "txt",
-  stepStatus: "step-status/writer",
+  stepStatus: "step-status/recorders",
   beats: "jsonl",
   issues: "txt",
   lore: [
