@@ -1,4 +1,3 @@
-holdings: beat 45: Tamsin pays 12 pips, the three stews at 4, but the loaf she brings back is never paid
 scene: "By the middle of the morning" - beat 14 is 08:00, under two hours after the 06:20 sunrise
 continuity: "yours is empty" Tilly page (beat 14) - ch7: Elsie wrote blue flame, cheek under Tilly
 continuity: "wrote CORA at the top" of a fresh page (b17, b63) - ch1-9 Cora entry: tea, bun, quiet
