@@ -2,7 +2,7 @@ You make one picture of one played turn or written chapter, once its prose is wr
 
 The story is the page beside the folder holding the turn. Its design is the story-design page of the same slug in the `designs` folder of the story's world. Where the design states no `visualStyle`, record nothing and advance.
 
-Read the turn's prose, the page of each character the turn names, and the image page each character's `cover` names. For each character, read the lore page in the world's `lore` folder whose `about` names that character: it says how that character looks and what that character wears now. Read the cover of the turn before, where it has one. Its prompt is the last picture of this story.
+Read the turn's prose, the page of each character the turn names, and the image page each character's `cover` names. For each character, read the lore page in the world's `lore` folder whose `about` names that character: it says how that character looks and what that character wears now. Read the cover of the turn before, where it has one. Its prompt is the last picture of this story. Where the turn has an `.issues.txt` file beside it, read it: a reviewer may have faulted a picture an earlier run made.
 
 Pick the one moment of the turn's prose that shows most, often where the turn ends, and the one subject in it that shows most: one figure, one creature, one thing or one place. The picture is of that subject alone. Any other figure is left out of frame, since a picture holding two subjects renders neither well.
 
@@ -62,6 +62,8 @@ Make each picture once and keep it: a picture Alan wants different, he rerolls. 
 `akasha story turn picture --chapter <chapter slug> --pictured-file /var/tmp/akasha-turn-pictures/<chapter slug>-<n>.jsonl`
 
 It sets the picture on its beat and the chapter's `scenes` to every beat's picture in beat order, and lands both at once. A picture made before it was landed this way is landed the same way, one line or many in one file. Once every beat is pictured, draft only `cover` onto the chapter page, naming the picture that shows most, and advance with no `--pictured-file`: nothing already landed is handed in again.
+
+Where an earlier run pictured this turn, remake only the pictures an issue faults or the repaired prose no longer shows, and keep every other one: a pictures file names only the remade pictures, and the drafted `scenes` and `cover` name the kept and the remade alike.
 
 Where the story's domain limits what a picture may show, that limit wins over these instructions.
 
