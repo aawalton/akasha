@@ -5,6 +5,7 @@ import {
   pieceNameIs,
   spokenSegmentsOf,
   storyNamed,
+  withSentences,
 } from "akasha/story/chapter/narration/modules/telling/narration-telling.module.code.ts"
 
 describe("spokenSegmentsOf", () => {
@@ -45,6 +46,24 @@ describe("spokenSegmentsOf", () => {
   test("word starts are counted in the chapter's own length", () => {
     const said = spokenSegmentsOf("", prose, { ownProgress: null, ownLength: 20 })
     expect(said.map((one) => one.wordStart)).toEqual([0, 4, 10, 14])
+  })
+})
+
+describe("withSentences", () => {
+  test("each sentence after a segment's first starts at its character and its share of words", () => {
+    const [one] = withSentences([
+      { text: "One two. Three four five.", pauseAfterMs: 150, wordStart: 10 },
+      { text: "Six.", pauseAfterMs: 900, wordStart: 15 },
+    ])
+    expect(one?.sentences).toEqual([[9, 12]])
+  })
+
+  test("a segment of one sentence, or a title, starts no sentence of its own", () => {
+    const said = withSentences([
+      { text: "Chapter 81", pauseAfterMs: 900, wordStart: 0 },
+      { text: "She ran.", pauseAfterMs: 900, wordStart: 0 },
+    ])
+    expect(said.map((one) => one.sentences)).toEqual([[], []])
   })
 })
 

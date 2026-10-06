@@ -30,6 +30,16 @@ export const narrationTelling = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "Each later sentence of a segment reaches the speech workload with its character and its word.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A sentence's word is its share of the words between its segment and the next one.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "The next chapter is the nearest one after the chapter playing in its story.",
     },
     {

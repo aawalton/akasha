@@ -8,6 +8,7 @@ import {
 import {
   type NarrationSegment,
   narrationSegmentsOf,
+  sentencesOf,
 } from "akasha/story/chapter/narration/modules/segments/narration-segments.module.code.ts"
 import { wordCount } from "akasha/story/engine/core/modules/word-count/word-count.module.code.ts"
 
@@ -111,6 +112,32 @@ export function spokenSegmentsOf(
   const opening =
     said === "" || from > 0 ? [] : [{ text: said, pauseAfterMs: TITLE_PAUSE_MS, wordStart: 0 }]
   return [...opening, ...kept]
+}
+
+export type SentenceStart = readonly [charIndex: number, wordStart: number]
+
+export type TimedSegment = NarrationSegment & { readonly sentences: readonly SentenceStart[] }
+
+export function withSentences(segments: readonly NarrationSegment[]): TimedSegment[] {
+  return segments.map((one, at) => {
+    const words = wordCount(one.text)
+    const next = segments[at + 1]?.wordStart
+    const span = next !== undefined && next > one.wordStart ? next - one.wordStart : words
+    const starts: SentenceStart[] = []
+    let cursor = 0
+    let said = 0
+    sentencesOf(one.text).forEach((sentence, index) => {
+      const char = one.text.indexOf(sentence, cursor)
+      if (char < 0) return
+      cursor = char + sentence.length
+      const wordStart = one.wordStart + (words === 0 ? 0 : Math.floor((said / words) * span))
+      if (index > 0 && wordStart > (starts.at(-1)?.[1] ?? one.wordStart)) {
+        starts.push([char, wordStart])
+      }
+      said += wordCount(sentence)
+    })
+    return { ...one, sentences: starts }
+  })
 }
 
 export function nextAmong(rows: readonly Row[], position: number): Row | null {
@@ -261,7 +288,7 @@ export async function narrationOpened(
   const opened = await voiceSent(NARRATION_AT, "POST", {
     voice: VOICE,
     chapter: { id: chapter.held.id, title: chapter.held.title },
-    segments: segments.held,
+    segments: withSentences(segments.held),
   })
   if ("refused" in opened) return opened
   const id =
@@ -307,7 +334,7 @@ export async function narrationCarriedOn(
   if ("refused" in segments) return segments
   const added = await voiceSent(`${at}/chapters`, "POST", {
     chapter: { id: after.held.id, title: after.held.title },
-    segments: segments.held,
+    segments: withSentences(segments.held),
   })
   if ("refused" in added) return added
   return { held: { chapter: heldOf(after.held) } }
