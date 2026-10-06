@@ -124,15 +124,11 @@ export function PageAudioFollow({
   if (!speaking || following) return null
   return (
     <div className="pointer-events-none fixed inset-x-0 bottom-[calc(var(--safe-area-bottom)+var(--bottom-nav-height)+1rem)] z-40 flex justify-center min-[584px]:bottom-6">
-      <Button
-        type="button"
-        variant="accent"
-        size="sm"
-        className="pointer-events-auto shadow-md"
-        onClick={() => setFollowing(true)}
-      >
-        Follow narration
-      </Button>
+      <div className="pointer-events-auto rounded-md bg-surface-2 shadow-md">
+        <Button type="button" variant="accent" size="sm" onClick={() => setFollowing(true)}>
+          Follow narration
+        </Button>
+      </div>
     </div>
   )
 }

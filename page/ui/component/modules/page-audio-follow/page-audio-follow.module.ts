@@ -33,6 +33,10 @@ export const pageAudioFollow = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "That button sits on a solid backing, so no text shows through it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement:
         "While a page is read aloud, its scroll writes no read progress and marks it read never.",
     },
