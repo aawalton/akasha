@@ -96,7 +96,17 @@ export const encountersSofia = {
       ],
     },
     {
-      fact: "Sofia grew up in Hialeah, Miami, the oldest of three in a loud Cuban-American family.",
+      fact: "Sofia is the oldest of three, from the loudest house on her street.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/encounters-sofia",
+        "character-other/encounters-kenzie",
+        "character-other/encounters-priya",
+        "character-other/encounters-hana",
+      ],
+    },
+    {
+      fact: "Sofia grew up in Hialeah, Miami, in a Cuban-American family.",
       knowers: [
         "lore-disclosure/game-master",
         "character-other/encounters-sofia",
@@ -206,7 +216,17 @@ export const encountersSofia = {
       ],
     },
     {
-      fact: "Sofia calls her mother every day and texts her abuela a photo of every meal.",
+      fact: "Sofia texts her abuela a photo of every meal.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/encounters-sofia",
+        "character-other/encounters-kenzie",
+        "character-other/encounters-priya",
+        "character-other/encounters-hana",
+      ],
+    },
+    {
+      fact: "Sofia calls her mother every day.",
       knowers: [
         "lore-disclosure/game-master",
         "character-other/encounters-sofia",
@@ -316,7 +336,17 @@ export const encountersSofia = {
       ],
     },
     {
-      fact: "The four drove down from Gainesville for fall break in Kenzie's Jeep, four nights in Orlando.",
+      fact: "The four are in Orlando for fall break, four nights.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/encounters-sofia",
+        "character-other/encounters-kenzie",
+        "character-other/encounters-priya",
+        "character-other/encounters-hana",
+      ],
+    },
+    {
+      fact: "The four drove down from Gainesville in Kenzie's Jeep.",
       knowers: [
         "lore-disclosure/game-master",
         "character-other/encounters-sofia",

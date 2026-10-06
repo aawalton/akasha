@@ -39,7 +39,17 @@ export const encountersHana = {
       ],
     },
     {
-      fact: "Hana has high cheekbones, full lips, a thin line of liner, gold hoops and a calm, unreadable face.",
+      fact: "Hana wears gold hoops in her ears, and her face is calm and unreadable.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/encounters-sofia",
+        "character-other/encounters-kenzie",
+        "character-other/encounters-priya",
+        "character-other/encounters-hana",
+      ],
+    },
+    {
+      fact: "Hana has high cheekbones, full lips and a thin line of liner.",
       knowers: [
         "lore-disclosure/game-master",
         "character-other/encounters-sofia",

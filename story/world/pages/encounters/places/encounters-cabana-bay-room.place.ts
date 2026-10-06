@@ -56,7 +56,7 @@ export const encountersCabanaBayRoom = {
       ],
     },
     {
-      fact: "A connecting door opens onto Priya and Hana's room, and locks from either side.",
+      fact: "A connecting door joins the room to the room next door, and locks from either side.",
       knowers: [
         "lore-disclosure/game-master",
         "character-other/encounters-sofia",
