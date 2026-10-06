@@ -9,9 +9,9 @@ export const fairweather0011Moonpenny = {
   unit: "unit/words",
   title: "Moonpenny",
   story: "story-written/fairweather",
-  ownLength: 9293,
+  ownLength: 9287,
   prose: "txt",
-  stepStatus: "step-status/writer",
+  stepStatus: "step-status/recorders",
   beats: "jsonl",
   issues: "txt",
   lore: [
