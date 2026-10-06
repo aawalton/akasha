@@ -11,9 +11,8 @@ export const fairweather0020LanternNight = {
   story: "story-written/fairweather",
   ownLength: 10025,
   prose: "txt",
-  stepStatus: "step-status/game-master",
+  stepStatus: "step-status/mechanics",
   beats: "jsonl",
-  mechanicsIssues: "txt",
   issues: "txt",
   lore: [
     "lore/fairweather-amara",
@@ -52,7 +51,6 @@ export const fairweather0020LanternNight = {
     "character-other/fairweather-amara",
   ],
   reviewedBy: ["story-reviewer/scene"],
-  recordedBy: ["story-recorder/plan", "story-recorder/mechanics", "story-recorder/inventory"],
   scenes: [
     "image/image-73be6c7ed1e6f71d",
     "image/image-2d64d9cbc1e054d0",
