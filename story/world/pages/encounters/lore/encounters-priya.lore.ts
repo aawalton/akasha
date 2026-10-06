@@ -15,7 +15,7 @@ export const encountersPriya = {
         "character-other/encounters-sofia",
         "character-other/encounters-kenzie",
         "character-other/encounters-priya",
-        "character-other/encounters-imani",
+        "character-other/encounters-hana",
       ],
     },
     {
@@ -25,7 +25,7 @@ export const encountersPriya = {
         "character-other/encounters-sofia",
         "character-other/encounters-kenzie",
         "character-other/encounters-priya",
-        "character-other/encounters-imani",
+        "character-other/encounters-hana",
       ],
     },
     {
@@ -35,7 +35,7 @@ export const encountersPriya = {
         "character-other/encounters-sofia",
         "character-other/encounters-kenzie",
         "character-other/encounters-priya",
-        "character-other/encounters-imani",
+        "character-other/encounters-hana",
       ],
     },
     {
@@ -45,7 +45,7 @@ export const encountersPriya = {
         "character-other/encounters-sofia",
         "character-other/encounters-kenzie",
         "character-other/encounters-priya",
-        "character-other/encounters-imani",
+        "character-other/encounters-hana",
       ],
     },
     {
@@ -55,7 +55,7 @@ export const encountersPriya = {
         "character-other/encounters-sofia",
         "character-other/encounters-kenzie",
         "character-other/encounters-priya",
-        "character-other/encounters-imani",
+        "character-other/encounters-hana",
       ],
     },
     {
@@ -65,7 +65,7 @@ export const encountersPriya = {
         "character-other/encounters-sofia",
         "character-other/encounters-kenzie",
         "character-other/encounters-priya",
-        "character-other/encounters-imani",
+        "character-other/encounters-hana",
       ],
     },
     {
@@ -75,7 +75,7 @@ export const encountersPriya = {
         "character-other/encounters-sofia",
         "character-other/encounters-kenzie",
         "character-other/encounters-priya",
-        "character-other/encounters-imani",
+        "character-other/encounters-hana",
       ],
     },
     {
@@ -85,7 +85,7 @@ export const encountersPriya = {
         "character-other/encounters-sofia",
         "character-other/encounters-kenzie",
         "character-other/encounters-priya",
-        "character-other/encounters-imani",
+        "character-other/encounters-hana",
       ],
     },
     {
@@ -95,7 +95,7 @@ export const encountersPriya = {
         "character-other/encounters-sofia",
         "character-other/encounters-kenzie",
         "character-other/encounters-priya",
-        "character-other/encounters-imani",
+        "character-other/encounters-hana",
       ],
     },
     {
@@ -105,7 +105,7 @@ export const encountersPriya = {
         "character-other/encounters-sofia",
         "character-other/encounters-kenzie",
         "character-other/encounters-priya",
-        "character-other/encounters-imani",
+        "character-other/encounters-hana",
       ],
     },
     {
@@ -115,7 +115,7 @@ export const encountersPriya = {
         "character-other/encounters-sofia",
         "character-other/encounters-kenzie",
         "character-other/encounters-priya",
-        "character-other/encounters-imani",
+        "character-other/encounters-hana",
       ],
     },
     {
@@ -125,7 +125,7 @@ export const encountersPriya = {
         "character-other/encounters-sofia",
         "character-other/encounters-kenzie",
         "character-other/encounters-priya",
-        "character-other/encounters-imani",
+        "character-other/encounters-hana",
       ],
     },
     {
@@ -135,7 +135,7 @@ export const encountersPriya = {
         "character-other/encounters-sofia",
         "character-other/encounters-kenzie",
         "character-other/encounters-priya",
-        "character-other/encounters-imani",
+        "character-other/encounters-hana",
       ],
     },
     {
@@ -161,17 +161,17 @@ export const encountersPriya = {
         "character-other/encounters-sofia",
         "character-other/encounters-kenzie",
         "character-other/encounters-priya",
-        "character-other/encounters-imani",
+        "character-other/encounters-hana",
       ],
     },
     {
-      fact: "Priya shares a room with Imani on the trip, and is the one Imani tells things to.",
+      fact: "Priya shares a room with Hana on the trip, and is the one Hana tells things to.",
       knowers: [
         "lore-disclosure/game-master",
         "character-other/encounters-sofia",
         "character-other/encounters-kenzie",
         "character-other/encounters-priya",
-        "character-other/encounters-imani",
+        "character-other/encounters-hana",
       ],
     },
   ],

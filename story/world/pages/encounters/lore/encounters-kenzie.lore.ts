@@ -15,7 +15,7 @@ export const encountersKenzie = {
         "character-other/encounters-sofia",
         "character-other/encounters-kenzie",
         "character-other/encounters-priya",
-        "character-other/encounters-imani",
+        "character-other/encounters-hana",
       ],
     },
     {
@@ -25,7 +25,7 @@ export const encountersKenzie = {
         "character-other/encounters-sofia",
         "character-other/encounters-kenzie",
         "character-other/encounters-priya",
-        "character-other/encounters-imani",
+        "character-other/encounters-hana",
       ],
     },
     {
@@ -35,7 +35,7 @@ export const encountersKenzie = {
         "character-other/encounters-sofia",
         "character-other/encounters-kenzie",
         "character-other/encounters-priya",
-        "character-other/encounters-imani",
+        "character-other/encounters-hana",
       ],
     },
     {
@@ -45,7 +45,7 @@ export const encountersKenzie = {
         "character-other/encounters-sofia",
         "character-other/encounters-kenzie",
         "character-other/encounters-priya",
-        "character-other/encounters-imani",
+        "character-other/encounters-hana",
       ],
     },
     {
@@ -55,7 +55,7 @@ export const encountersKenzie = {
         "character-other/encounters-sofia",
         "character-other/encounters-kenzie",
         "character-other/encounters-priya",
-        "character-other/encounters-imani",
+        "character-other/encounters-hana",
       ],
     },
     {
@@ -65,7 +65,7 @@ export const encountersKenzie = {
         "character-other/encounters-sofia",
         "character-other/encounters-kenzie",
         "character-other/encounters-priya",
-        "character-other/encounters-imani",
+        "character-other/encounters-hana",
       ],
     },
     {
@@ -75,7 +75,7 @@ export const encountersKenzie = {
         "character-other/encounters-sofia",
         "character-other/encounters-kenzie",
         "character-other/encounters-priya",
-        "character-other/encounters-imani",
+        "character-other/encounters-hana",
       ],
     },
     {
@@ -85,7 +85,7 @@ export const encountersKenzie = {
         "character-other/encounters-sofia",
         "character-other/encounters-kenzie",
         "character-other/encounters-priya",
-        "character-other/encounters-imani",
+        "character-other/encounters-hana",
       ],
     },
     {
@@ -95,7 +95,7 @@ export const encountersKenzie = {
         "character-other/encounters-sofia",
         "character-other/encounters-kenzie",
         "character-other/encounters-priya",
-        "character-other/encounters-imani",
+        "character-other/encounters-hana",
       ],
     },
     {
@@ -105,7 +105,7 @@ export const encountersKenzie = {
         "character-other/encounters-sofia",
         "character-other/encounters-kenzie",
         "character-other/encounters-priya",
-        "character-other/encounters-imani",
+        "character-other/encounters-hana",
       ],
     },
     {
@@ -115,7 +115,7 @@ export const encountersKenzie = {
         "character-other/encounters-sofia",
         "character-other/encounters-kenzie",
         "character-other/encounters-priya",
-        "character-other/encounters-imani",
+        "character-other/encounters-hana",
       ],
     },
     {
@@ -125,7 +125,7 @@ export const encountersKenzie = {
         "character-other/encounters-sofia",
         "character-other/encounters-kenzie",
         "character-other/encounters-priya",
-        "character-other/encounters-imani",
+        "character-other/encounters-hana",
       ],
     },
     {
@@ -135,7 +135,7 @@ export const encountersKenzie = {
         "character-other/encounters-sofia",
         "character-other/encounters-kenzie",
         "character-other/encounters-priya",
-        "character-other/encounters-imani",
+        "character-other/encounters-hana",
       ],
     },
     {
@@ -145,7 +145,7 @@ export const encountersKenzie = {
         "character-other/encounters-sofia",
         "character-other/encounters-kenzie",
         "character-other/encounters-priya",
-        "character-other/encounters-imani",
+        "character-other/encounters-hana",
       ],
     },
     {
@@ -161,11 +161,11 @@ export const encountersKenzie = {
       knowers: ["lore-disclosure/game-master", "character-other/encounters-kenzie"],
     },
     {
-      fact: "Kenzie wants a threesome with a man and one of her friends, and has said so to Imani.",
+      fact: "Kenzie wants a threesome with a man and one of her friends, and has said so to Hana.",
       knowers: [
         "lore-disclosure/game-master",
         "character-other/encounters-kenzie",
-        "character-other/encounters-imani",
+        "character-other/encounters-hana",
       ],
     },
     {
@@ -175,7 +175,7 @@ export const encountersKenzie = {
         "character-other/encounters-sofia",
         "character-other/encounters-kenzie",
         "character-other/encounters-priya",
-        "character-other/encounters-imani",
+        "character-other/encounters-hana",
       ],
     },
     {
@@ -185,15 +185,15 @@ export const encountersKenzie = {
         "character-other/encounters-sofia",
         "character-other/encounters-kenzie",
         "character-other/encounters-priya",
-        "character-other/encounters-imani",
+        "character-other/encounters-hana",
       ],
     },
     {
-      fact: "Kenzie and Imani hooked up once, drunk, sophomore year, and never told the other two.",
+      fact: "Kenzie and Hana hooked up once, drunk, sophomore year, and never told the other two.",
       knowers: [
         "lore-disclosure/game-master",
         "character-other/encounters-kenzie",
-        "character-other/encounters-imani",
+        "character-other/encounters-hana",
       ],
     },
   ],
