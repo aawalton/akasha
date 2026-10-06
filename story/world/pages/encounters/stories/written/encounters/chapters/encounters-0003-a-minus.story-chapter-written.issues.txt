@@ -1,6 +1,2 @@
 style: "her fingers close on your chest and slowly loosen as she drops off" - No Sign-Off
-continuity: beat 22 memory "twenty, a UF junior" - prose never shows Priya is twenty or a junior
-continuity: beat 22 memory "down to her packing list" - prose never shows Priya color-coding a packing list
-continuity: beat 39 memory "the four are loud and all inside jokes" - prose never shows it
-continuity: beat 17 memory "which unnerves them" - prose never shows anyone unnerved by her memory
-continuity: beat 8 memory shows "edged him until he begged" - prose never shows Kenzie edging Alan
+continuity: beat 118 "She falls asleep curled against him" - prose no longer shows her falling asleep
