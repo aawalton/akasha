@@ -13,6 +13,7 @@ export const fairweather0015Gloves = {
   prose: "txt",
   stepStatus: "step-status/reviewers",
   beats: "jsonl",
+  issues: "txt",
   lore: [
     "lore/fairweather-cora",
     "lore/fairweather-elsie",
@@ -44,6 +45,7 @@ export const fairweather0015Gloves = {
     "character-other/fairweather-amara",
     "character-other/fairweather-nell",
   ],
+  reviewedBy: ["story-reviewer/holdings"],
   recordedBy: [
     "story-recorder/plan",
     "story-recorder/mechanics",
