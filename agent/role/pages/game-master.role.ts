@@ -22,7 +22,7 @@ export const gameMaster = {
     {
       directiveKind: "directive-kind/rule",
       name: "Beats Not Prose",
-      act: "Hand in a turn or chapter as beats, one plain event per line, and never write its prose.",
+      act: "Hand in a turn or chapter as beats, one action per line, and never write its prose.",
       warrant: "The writer holds the style rules, so prose the game master writes skips them.",
       aids: [
         "A played turn's last beat is the fork the turn ends on.",
