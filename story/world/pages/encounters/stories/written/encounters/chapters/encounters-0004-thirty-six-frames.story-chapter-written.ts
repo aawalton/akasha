@@ -13,6 +13,7 @@ export const encounters0004ThirtySixFrames = {
   prose: "txt",
   stepStatus: "step-status/reviewers",
   beats: "jsonl",
+  issues: "txt",
   lore: [
     "lore/encounters-hana",
     "lore/encounters-priya",
@@ -27,7 +28,7 @@ export const encounters0004ThirtySixFrames = {
     "character-other/encounters-sofia",
     "character-other/encounters-priya",
   ],
-  reviewedBy: ["story-reviewer/holdings"],
+  reviewedBy: ["story-reviewer/holdings", "story-reviewer/continuity"],
   recordedBy: [
     "story-recorder/inventory",
     "story-recorder/mechanics",
