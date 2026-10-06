@@ -4,6 +4,7 @@ export const encounters0006TheList = {
   id: "01a1139b-e970-718c-8bd6-6e5ce94863ce",
   type: "page-type/story-chapter-written",
   slug: "encounters-0006-the-list",
+  cover: "image/image-9d8d65344e6be4b9",
   position: 6,
   unit: "unit/words",
   title: "The List",
@@ -29,5 +30,11 @@ export const encounters0006TheList = {
     "character-other/encounters-sofia",
     "character-other/encounters-kenzie",
   ],
-  recordedBy: ["story-recorder/plan", "story-recorder/inventory", "story-recorder/mechanics"],
+  recordedBy: [
+    "story-recorder/plan",
+    "story-recorder/inventory",
+    "story-recorder/mechanics",
+    "story-recorder/picture",
+  ],
+  scenes: ["image/image-9d8d65344e6be4b9"],
 } as const satisfies StoryChapterWritten

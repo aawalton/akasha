@@ -4,7 +4,7 @@
 {"beat":4,"event":"He asks what Priya wants; Hana answers: to be tied down, by me, and fucked, by you."}
 {"beat":5,"event":"He reads it twice; Hana sends nothing else, and he answers yes."}
 {"beat":6,"event":"At two he knocks on the room next door to Sofia and Kenzie's; Hana lets him in.","at":"2026-10-12T18:00:00.000Z","place":"place/encounters-cabana-bay-room-2","arrive":["character-other/encounters-hana","character-other/encounters-priya"]}
-{"beat":7,"event":"The blackout curtains are drawn, and a red silk scarf hangs over the lamp; the room glows amber."}
+{"beat":7,"event":"The blackout curtains are drawn, and a red silk scarf hangs over the lamp; the room glows amber.","pictured":[{"cover":"image/image-9d8d65344e6be4b9","coverAfter":"It's dark inside after the glare. The blackout curtains are pulled tight across the wide window,","setting":"Priya and Hana's room at Cabana Bay"}]}
 {"beat":8,"event":"Hana's bed is bare but for her camera bag and a stack of exposed film canisters."}
 {"beat":9,"event":"Priya sits very straight on the edge of her own squared-away bed, clothes folded by color."}
 {"beat":10,"event":"Black string bikini top, drawstring shorts, glasses on, her hands folded in her lap."}
