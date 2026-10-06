@@ -11,7 +11,7 @@ export const fairweather0018TheBluePlate = {
   story: "story-written/fairweather",
   ownLength: 11682,
   prose: "txt",
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/reviewers",
   beats: "jsonl",
   issues: "txt",
   lore: [
@@ -55,6 +55,7 @@ export const fairweather0018TheBluePlate = {
     "story-recorder/mechanics",
     "story-recorder/inventory",
     "story-recorder/picture",
+    "story-recorder/memory",
   ],
   scenes: ["image/image-c30e4bf293342176", "image/image-9fa32b7b44febb24"],
 } as const satisfies StoryChapterWritten
