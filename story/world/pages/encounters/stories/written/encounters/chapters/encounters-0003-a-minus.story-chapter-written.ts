@@ -11,7 +11,7 @@ export const encounters0003AMinus = {
   story: "story-written/encounters",
   ownLength: 5994,
   prose: "txt",
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/game-master",
   beats: "jsonl",
   issues: "txt",
   lore: [
@@ -32,7 +32,7 @@ export const encounters0003AMinus = {
     "character-other/encounters-kenzie",
     "character-other/encounters-hana",
   ],
-  reviewedBy: ["story-reviewer/holdings", "story-reviewer/scene", "story-reviewer/style"],
+  reviewedBy: ["story-reviewer/holdings", "story-reviewer/scene"],
   recordedBy: [
     "story-recorder/plan",
     "story-recorder/inventory",

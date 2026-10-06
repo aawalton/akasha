@@ -1,6 +1,6 @@
-continuity: "two very detailed reviews of you" - no memory line has Priya learn of Kenzie's night with Alan
-continuity: "grew up in Winter Park"/"aerospace engineering at Florida" - Priya's fact shown, no memory line
-continuity: "worries about every grade"/"I color-coded them" - Priya frets, color-codes: shown, no memory line
-continuity: "She remembers everything you've said" - Priya remembers everything: shown, beats 16-17 no memory
-continuity: "I split every bill to the cent" - Priya splits every bill to the cent: shown, no memory line
 style: "her fingers close on your chest and slowly loosen as she drops off" - No Sign-Off
+continuity: beat 22 memory "twenty, a UF junior" - prose never shows Priya is twenty or a junior
+continuity: beat 22 memory "down to her packing list" - prose never shows Priya color-coding a packing list
+continuity: beat 39 memory "the four are loud and all inside jokes" - prose never shows it
+continuity: beat 17 memory "which unnerves them" - prose never shows anyone unnerved by her memory
+continuity: beat 8 memory shows "edged him until he begged" - prose never shows Kenzie edging Alan
