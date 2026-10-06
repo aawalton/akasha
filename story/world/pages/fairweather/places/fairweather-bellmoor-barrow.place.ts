@@ -22,7 +22,13 @@ export const fairweatherBellmoorBarrow = {
     },
     {
       fact: "The barrow is the grave of a queen nobody remembers the name of.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/fairweather-cora",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-tamsin",
+        "character-other/fairweather-tilly",
+      ],
     },
     {
       fact: "The barrow notice was posted by a shepherd at Bellmoor farm, whose flock shies from the mound.",
@@ -54,7 +60,24 @@ export const fairweatherBellmoorBarrow = {
     },
     {
       fact: "Amara is a Bard, the daughter of Celestine Okafor, the most famous bard in the city.",
-      knowers: ["lore-disclosure/game-master", "character-other/fairweather-amara"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/fairweather-amara",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-cora",
+        "character-other/fairweather-tamsin",
+        "character-other/fairweather-tilly",
+      ],
+    },
+    {
+      fact: "Celestine Okafor is the most famous bard in Lanternmere, and everyone in the city knows her name.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/fairweather-amara",
+        "character-other/fairweather-cora",
+        "character-other/fairweather-tamsin",
+        "character-other/fairweather-tilly",
+      ],
     },
     {
       fact: "Amara cannot sing a note if she knows anyone is listening.",
