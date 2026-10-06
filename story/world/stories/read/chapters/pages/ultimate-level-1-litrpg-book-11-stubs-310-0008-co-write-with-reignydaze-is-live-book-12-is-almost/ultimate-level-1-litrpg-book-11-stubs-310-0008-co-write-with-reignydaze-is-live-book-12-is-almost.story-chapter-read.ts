@@ -4,6 +4,8 @@ export const ultimateLevel1LitrpgBook11Stubs3100008CoWriteWithReignydazeIsLiveBo
   id: "01a10d08-1df1-7a49-a4f1-e3d81f300fe3",
   type: "page-type/story-chapter-read",
   slug: "ultimate-level-1-litrpg-book-11-stubs-310-0008-co-write-with-reignydaze-is-live-book-12-is-almost",
+  completedAt: "2026-10-06T00:38:35.000Z",
+  ownProgress: 106,
   position: 8,
   publishedAt: "2026-10-05",
   unit: "unit/words",
