@@ -10,13 +10,11 @@ export const voiceNarration = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement:
-        "A playlist names only three pieces past the furthest piece its player has fetched.",
+      statement: "A playlist names every piece made so far.",
     },
     {
       decisionKind: "decision-kind/constraint",
-      statement:
-        "A player treats a playlist with no end as live and leaps to near its newest piece.",
+      statement: "iOS stops fetching once its buffer is full, so a playlist must grow on its own.",
     },
   ],
 } as const satisfies PythonModule
