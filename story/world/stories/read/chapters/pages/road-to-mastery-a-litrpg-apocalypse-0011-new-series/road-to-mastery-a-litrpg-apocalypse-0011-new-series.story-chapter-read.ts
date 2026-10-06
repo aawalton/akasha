@@ -4,6 +4,7 @@ export const roadToMasteryALitrpgApocalypse0011NewSeries = {
   id: "01a110e3-ec08-76f2-840a-41d15852a166",
   type: "page-type/story-chapter-read",
   slug: "road-to-mastery-a-litrpg-apocalypse-0011-new-series",
+  ownProgress: 151,
   position: 11,
   publishedAt: "2026-10-06",
   unit: "unit/words",
