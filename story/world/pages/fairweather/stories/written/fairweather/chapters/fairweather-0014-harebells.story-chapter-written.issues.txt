@@ -1,4 +1,3 @@
-holdings: beat 5: Tilly's satchel clinks with lamp oil, but she holds no satchel, only her belt of vials
 scene: "For a moment the dark was complete" - beat 52 falls just after 19:45 dusk; full dark is ~20:30
 continuity: beat 54 picture shows Amara's face, singing, lights - prose shows those in beats 55-67
 style: "Elsie forgot to breathe." - No Tropes
