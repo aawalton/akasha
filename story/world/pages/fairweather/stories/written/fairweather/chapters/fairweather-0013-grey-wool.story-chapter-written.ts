@@ -11,7 +11,7 @@ export const fairweather0013GreyWool = {
   story: "story-written/fairweather",
   ownLength: 7931,
   prose: "txt",
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/reviewers",
   beats: "jsonl",
   issues: "txt",
   lore: [
@@ -45,6 +45,7 @@ export const fairweather0013GreyWool = {
     "story-recorder/inventory",
     "story-recorder/mechanics",
     "story-recorder/memory",
+    "story-recorder/picture",
   ],
   rulings: "jsonl",
   scenes: [
