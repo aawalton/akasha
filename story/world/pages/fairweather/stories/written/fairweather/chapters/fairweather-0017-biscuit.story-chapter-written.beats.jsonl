@@ -4,7 +4,7 @@
 {"beat":4,"event":"Tilly is wound round Elsie's back, breathing into her hair; Tamsin snores face-down by the ladder."}
 {"beat":5,"event":"Cora's eyes open, very close to Elsie's; for a breath she doesn't move or look away."}
 {"beat":6,"event":"Then she sees their hands, goes red to the hair, and sits up so fast she hits a rafter."}
-{"beat":7,"event":"Elsie asks if she slept; Cora says yes, and this time it's true, and Elsie says so, delighted."}
+{"beat":7,"event":"Elsie asks if she slept; Cora says yes, and this time it's true, and Elsie says so, delighted.","changes":[{"page":"world-relationship/fairweather-elsie-cora","note":"Bond: Cora 48 → 49 (kindness: her hand held all night, and glad she slept)","key":"relationshipPoints","from":48,"to":49}]}
 {"beat":8,"event":"Cora pins the loose strand back into her bun with unsteady fingers, and doesn't meet her eye."}
 {"beat":9,"event":"From the loft window the great wheel is turning, slow and steady, and the race below runs clear.","at":"2026-06-17T05:45:00.000Z"}
 {"beat":10,"event":"Down on the bank the race's stones stand stacked in a neat wall, the weed coiled beside them."}
@@ -19,7 +19,7 @@
 {"beat":19,"event":"Tamsin swings the sack onto her shoulder without being asked, Margery in her other hand."}
 {"beat":20,"event":"At the gate the younger daughter whispers thank you and presses a hot bun into Elsie's hand."}
 {"beat":21,"event":"They set off north up the river road beside the Wend, the sun already warm on their backs.","at":"2026-06-17T07:15:00.000Z","place":"place/fairweather-lanternmere","present":["character-player/fairweather-elsie","character-other/fairweather-tamsin","character-other/fairweather-tilly","character-other/fairweather-cora"]}
-{"beat":22,"event":"Elsie breaks the bun in two and gives Cora the bigger half; Cora eats it walking, every crumb."}
+{"beat":22,"event":"Elsie breaks the bun in two and gives Cora the bigger half; Cora eats it walking, every crumb.","changes":[{"page":"world-relationship/fairweather-elsie-cora","note":"Bond: Cora 49 → 50 (kindness: the bigger half of the bun)","key":"relationshipPoints","from":49,"to":50}]}
 {"beat":23,"event":"Elsie knits as she walks; the second glove grows past its cuff, and she starts the thumb."}
 {"beat":24,"event":"Cora watches the needles a long while, then asks, very low, if the gloves are for cold hands."}
 {"beat":25,"event":"Elsie says they're a surprise, beaming; Cora looks down at her own bare hands and says nothing."}
@@ -32,15 +32,15 @@
 {"beat":32,"event":"In the window the honey cakes still sit in their row on the blue plate, dull and sunk, uneaten."}
 {"beat":33,"event":"Elsie looks at them a long moment, and says she'll bake fresh ones tonight, in case."}
 {"beat":34,"event":"In the guild hall Elsie lays Bess's signed scrap on the clerk's desk; the clerk reads it twice.","at":"2026-06-17T10:20:00.000Z","place":"place/fairweather-guild-hall","present":["character-player/fairweather-elsie","character-other/fairweather-tamsin","character-other/fairweather-tilly","character-other/fairweather-cora","character-other/fairweather-noor"]}
-{"beat":35,"event":"The clerk counts out nine silver lanterns, and Tamsin deals them three by three into three palms."}
+{"beat":35,"event":"The clerk counts out nine silver lanterns, and Tamsin deals them three by three into three palms.","changes":[{"page":"metric-character-experience/fairweather-elsie","note":"Elsie gains 50 XP for the E-rank Hobb Mill notice (210 → 260 / 230)","key":"value","from":210,"to":260},{"page":"metric-character-experience/fairweather-tamsin","note":"Tamsin gains 50 XP for the E-rank Hobb Mill notice (450 → 500)","key":"value","from":450,"to":500},{"page":"metric-character-experience/fairweather-tilly","note":"Tilly gains 50 XP for the E-rank Hobb Mill notice (130 → 180 / 350)","key":"value","from":130,"to":180}]}
 {"beat":36,"event":"Elsie closes her hand on her three lanterns, warm from the clerk's box, and drops them in her purse."}
-{"beat":37,"event":"As the purse strings close, a System window opens in the air before her: level 4."}
+{"beat":37,"event":"As the purse strings close, a System window opens in the air before her: level 4.","changes":[{"page":"metric-character-level/fairweather-elsie","note":"Level up! Elsie reaches level 4","key":"value","from":3,"to":4},{"page":"metric-character-experience/fairweather-elsie","note":"Experience 30 / 350 (30 carried over into level 4)","key":"value","from":260,"to":30},{"page":"metric-character-stat/fairweather-elsie-wits","note":"Wits 13 → 14 (Enthraller level 4: +1 Wits)","key":"value","from":13,"to":14},{"page":"metric-character-stat/fairweather-elsie-heart","note":"Heart 16 → 17 (Enthraller level 4: +1 Heart)","key":"value","from":16,"to":17},{"page":"character-skill/fairweather-elsie-keep","note":"New skill: Keep (active, Enthraller level 4)","make":{"title":"Keep","world":"world/fairweather","unrevealed":false,"character":"character-player/fairweather-elsie","skill":"world-skill/fairweather-keep"}}]}
 {"beat":38,"event":"Tamsin whoops and thumps her back; Tilly reads it over her arm; Cora looks at it a long moment."}
 {"beat":39,"event":"Cora writes it in her ledger, then goes behind the charcoal door to file her sheet."}
 {"beat":40,"event":"Elsie buys a pot of tea at the bar for two pips, and a cup of black coffee for two pips more."}
 {"beat":41,"event":"She carries both across the empty ring to Noor's table, watching her feet the whole way."}
 {"beat":42,"event":"Noor watches her come; Elsie shakes the empty chair hard, knocks on its seat, and sits."}
-{"beat":43,"event":"It holds; she pours her tea and slides the coffee across, its handle toward Noor's glove."}
+{"beat":43,"event":"It holds; she pours her tea and slides the coffee across, its handle toward Noor's glove.","changes":[{"page":"world-relationship/fairweather-elsie-noor","note":"Bond: Noor 3 → 4 (kindness: black coffee, handle to her glove)","key":"relationshipPoints","from":3,"to":4}]}
 {"beat":44,"event":"Elsie asks after the honey cakes; Noor says there were four, and now there are none."}
 {"beat":45,"event":"Noor says it flat as a slate, but her mouth goes in at the corner, and she turns her cup."}
 {"beat":46,"event":"Elsie claps; the lid hops off the teapot at the clap, rolls round the table, and drops in her lap."}
@@ -67,7 +67,7 @@
 {"beat":67,"event":"Tamsin asks how not ordinary; Ines whispers he's bones, only bones: her kitten, raised again."}
 {"beat":68,"event":"Tamsin takes a step back down off the step; Tilly takes a step up, her eyes shining."}
 {"beat":69,"event":"Elsie asks if he still purrs; Ines stares at her, and says yes, with no throat to purr with."}
-{"beat":70,"event":"Elsie says then he's a cat, and a lost one, and takes Ines's cold little hand: they'll find him."}
+{"beat":70,"event":"Elsie says then he's a cat, and a lost one, and takes Ines's cold little hand: they'll find him.","changes":[{"page":"world-relationship/fairweather-elsie-ines","note":"Bond: Ines 0 → 2 (stand: a cat of bones is still a cat, and they'll find him)","make":{"title":"Elsie and Ines","world":"world/fairweather","characters":["character-player/fairweather-elsie","character-other/fairweather-ines"],"relationshipPoints":2}}]}
 {"beat":71,"event":"Ines looks down at her hand in Elsie's, and her pale face goes pink right up into her fringe."}
 {"beat":72,"event":"Ines whispers he's been gone three days over the roofs, and he's never been gone past one."}
 {"beat":73,"event":"She says he loves warm places best: warm laps, sills in the sun, the step by a bread oven."}
@@ -94,16 +94,16 @@
 {"beat":94,"event":"The purr buzzes up her arm, warm from the glass, and Elsie laughs out loud on top of the dome."}
 {"beat":95,"event":"Cora draws her back by the ankle, hand over hand, until she's on the leads again."}
 {"beat":96,"event":"Cora's face is white; she lets go at last and sits back on her heels, breathing as if she ran."}
-{"beat":97,"event":"Elsie puts Biscuit into Ines's arms; Ines holds him under her chin and cries without a sound."}
+{"beat":97,"event":"Elsie puts Biscuit into Ines's arms; Ines holds him under her chin and cries without a sound.","changes":[{"page":"world-relationship/fairweather-elsie-ines","note":"Bond: Ines 2 → 4 (stand: Elsie crawls out on the dome for Biscuit)","key":"relationshipPoints","from":2,"to":4}]}
 {"beat":98,"event":"Elsie sits down by Cora on the leads and pulls her boots back on; Cora's hands are shaking."}
-{"beat":99,"event":"Elsie takes them and says she's all right, look; Cora says, very low, Don't do that again."}
+{"beat":99,"event":"Elsie takes them and says she's all right, look; Cora says, very low, Don't do that again.","changes":[{"page":"world-relationship/fairweather-elsie-cora","note":"Bond: Cora 50 → 53 (danger shared: she holds Elsie's ankle on the dome; cap of 5)","key":"relationshipPoints","from":50,"to":53},{"page":"metric-character-stat/fairweather-elsie-heart","note":"Heart 17 → 18 (Devotion: Cora 53% of 21)","key":"value","from":17,"to":18},{"page":"metric-character-stat/fairweather-cora-heart","note":"Cora Heart 31 → 32 (Devotion: 53% of 21)","key":"value","from":31,"to":32}]}
 {"beat":100,"event":"Elsie says she'd do it for any of them; Cora looks at her, and doesn't say anything to that."}
 {"beat":101,"event":"On Ash Lane Ines asks them in, in a whisper, holding the door wide with both hands.","at":"2026-06-17T15:30:00.000Z","place":"place/fairweather-lanternmere","present":["character-player/fairweather-elsie","character-other/fairweather-tamsin","character-other/fairweather-tilly","character-other/fairweather-cora","character-other/fairweather-ines"]}
 {"beat":102,"event":"Her front room is small, full of books and dried flowers, with birdcages hung up, doors open."}
 {"beat":103,"event":"Tamsin stays standing by the door, as far from Biscuit as the little room allows."}
 {"beat":104,"event":"Biscuit trots straight to her, climbs her boot, and settles purring in her lap when she sits."}
 {"beat":105,"event":"Tamsin sits rigid with her hands in the air, and asks in a whisper what she's meant to do."}
-{"beat":106,"event":"Elsie says stroke him; Tamsin does, with one finger, and her face goes from horror to wonder."}
+{"beat":106,"event":"Elsie says stroke him; Tamsin does, with one finger, and her face goes from horror to wonder.","changes":[{"page":"world-relationship/fairweather-elsie-tamsin","note":"Bond: Tamsin 81 → 84 (held through a fear: Biscuit in her lap)","key":"relationshipPoints","from":81,"to":84}]}
 {"beat":107,"event":"Ines makes tea, but her hands shake on the pot, so Elsie takes it gently and pours for her."}
 {"beat":108,"event":"Tilly asks Ines about raising; Ines says she can raise only birds and mice, and Biscuit."}
 {"beat":109,"event":"Ines asks Elsie, low, if she is the Enthraller; the whole city talks of her, she says."}
@@ -111,7 +111,7 @@
 {"beat":111,"event":"Ines says people cross the lane when they see her, and in the square they look at Elsie the same."}
 {"beat":112,"event":"Elsie hadn't noticed; she thinks of the silent hall, and the clerk's stopped pen, and goes quiet."}
 {"beat":113,"event":"Ines whispers they'll watch her all her life, waiting for her to be what the name says."}
-{"beat":114,"event":"Elsie says then they'll be waiting a very long time; Ines looks at her, and very nearly smiles."}
+{"beat":114,"event":"Elsie says then they'll be waiting a very long time; Ines looks at her, and very nearly smiles.","changes":[{"page":"world-relationship/fairweather-elsie-ines","note":"Bond: Ines 4 → 5 (confidence: the name they wait on; cut to the cap of 5)","key":"relationshipPoints","from":4,"to":5}]}
 {"beat":115,"event":"Cora stands by the window with her ledger open, and her pen doesn't move."}
 {"beat":116,"event":"Elsie takes out her notebook and asks Ines what her favourite things are."}
 {"beat":117,"event":"Ines says hot milk with honey, the hour before dawn, and Biscuit asleep on her feet."}
@@ -135,4 +135,4 @@
 {"beat":135,"event":"She knits by the round window, and the second glove's thumb takes shape between her needles."}
 {"beat":136,"event":"She tries the finished glove on her own hand again; its fingers flap at the ends: just right."}
 {"beat":137,"event":"She lays the half-glove on the sill beside the finished one, by Moonpenny, nearly a pair."}
-{"beat":138,"event":"She tells Moonpenny about the bones that purred, and blows out the candle.","at":"2026-06-17T21:30:00.000Z"}
+{"beat":138,"event":"She tells Moonpenny about the bones that purred, and blows out the candle.","at":"2026-06-17T21:30:00.000Z","changes":[{"page":"world-relationship/fairweather-elsie-tamsin","note":"Bond: Tamsin 84 → 85 (Tether: at day's end)","key":"relationshipPoints","from":84,"to":85},{"page":"metric-character-experience/fairweather-elsie","note":"Experience logged","key":"history","append":{"turn":17,"value":30}},{"page":"metric-character-experience/fairweather-tamsin","note":"Experience logged","key":"history","append":{"turn":17,"value":500}},{"page":"metric-character-experience/fairweather-tilly","note":"Experience logged","key":"history","append":{"turn":17,"value":180}},{"page":"metric-character-level/fairweather-elsie","note":"Level logged","key":"history","append":{"turn":17,"value":4}},{"page":"metric-character-stat/fairweather-elsie-wits","note":"Wits logged","key":"history","append":{"turn":17,"value":14}},{"page":"metric-character-stat/fairweather-elsie-heart","note":"Heart logged","key":"history","append":{"turn":17,"value":18}}]}
