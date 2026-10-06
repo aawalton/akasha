@@ -111,14 +111,6 @@ export function nowPlayingControlled(controls: {
   const { audio, placed, skip, seek } = controls
   const at = (): number => audio()?.currentTime ?? 0
   const handlers: [MediaSessionAction, MediaSessionActionHandler][] = [
-    [
-      "play",
-      () =>
-        void audio()
-          ?.play()
-          .catch(() => undefined),
-    ],
-    ["pause", () => audio()?.pause()],
     ["seekbackward", (asked) => skip(-(asked.seekOffset ?? SKIP_SECONDS))],
     ["seekforward", (asked) => skip(asked.seekOffset ?? SKIP_SECONDS)],
     ["seekto", (asked) => seek(asked.seekTime ?? at())],

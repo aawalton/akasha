@@ -26,6 +26,10 @@ export const narrationListening = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "The lock screen's play and pause reach the audio itself rather than this code.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A moment of silence played on the tap opens the audio before the stream arrives.",
     },
   ],
