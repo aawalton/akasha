@@ -11,7 +11,7 @@ export const encounters0006TheList = {
   story: "story-written/encounters",
   ownLength: 5323,
   prose: "txt",
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/reviewers",
   beats: "jsonl",
   issues: "txt",
   lore: [
@@ -37,6 +37,7 @@ export const encounters0006TheList = {
     "story-recorder/inventory",
     "story-recorder/mechanics",
     "story-recorder/picture",
+    "story-recorder/memory",
   ],
   scenes: ["image/image-9d8d65344e6be4b9"],
 } as const satisfies StoryChapterWritten
