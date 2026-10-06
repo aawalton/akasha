@@ -13,6 +13,7 @@ export const fairweather0016CreamOnTheStep = {
   prose: "txt",
   stepStatus: "step-status/reviewers",
   beats: "jsonl",
+  issues: "txt",
   lore: [
     "lore/fairweather-cora",
     "lore/fairweather-elsie",
@@ -44,6 +45,7 @@ export const fairweather0016CreamOnTheStep = {
     "character-other/fairweather-noor",
     "character-other/fairweather-amara",
   ],
+  reviewedBy: ["story-reviewer/holdings"],
   recordedBy: [
     "story-recorder/plan",
     "story-recorder/inventory",
