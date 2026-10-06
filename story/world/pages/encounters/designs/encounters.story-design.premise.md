@@ -7,3 +7,7 @@ Every chapter takes its time. It opens on the windup, the meeting, the talk, the
 The girls are new characters rather than personas, and every one is an adult. A girl comes back only when I ask for her.
 
 A chapter runs as long as its encounter needs.
+
+## Chapters
+
+Chapter 1: I am in Orlando, staying at the Royal Pacific hotel while visiting Universal Studios. I hit it off with Sofia in the park, a girl of 20 visiting with her friends, in a matching pale sky blue sports bra and compression shorts, and she invites me back to her hotel room.
