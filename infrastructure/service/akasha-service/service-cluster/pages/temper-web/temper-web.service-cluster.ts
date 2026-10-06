@@ -32,12 +32,12 @@ export const temperWeb = {
     },
     {
       image:
-        "registry.registry.svc.cluster.local:5000/cluster/temper-addons:c03daaaf7e8eed5365a725e5ac461ba11f00287a7a12d7a288aea1f626f3f388",
+        "registry.registry.svc.cluster.local:5000/cluster/temper-addons:82f4897265577e5335e431286754d90449e2d399f77472cdd5f762ace2f738d2",
       copyFrom: "/bundle",
       copyTo: "temper/web/addons",
       copiedFiles: ["temper-addons.zip", "version.txt"],
       copyEnv: "ADDONS_BUNDLE_DIR",
-      sourceHash: "b9bf5fa08ff1be22be7418fe55ba6a7e6893b3e171b92039726362fc271c9527",
+      sourceHash: "1a78798c321fa217efd42404ea370de1f64bf83552c2ae5c8c45648121942f74",
     },
   ],
   manifests: "yaml",
