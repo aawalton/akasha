@@ -4,13 +4,14 @@ export const fairweather0013GreyWool = {
   id: "01a11181-7bea-7555-85b9-428ad02afdbc",
   type: "page-type/story-chapter-written",
   slug: "fairweather-0013-grey-wool",
+  cover: "image/image-293d7d8bbc021c22",
   position: 13,
   unit: "unit/words",
   title: "Grey Wool",
   story: "story-written/fairweather",
   ownLength: 7859,
   prose: "txt",
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/reviewers",
   beats: "jsonl",
   lore: [
     "lore/fairweather-cora",
@@ -43,5 +44,11 @@ export const fairweather0013GreyWool = {
     "story-recorder/mechanics",
     "story-recorder/inventory",
     "story-recorder/memory",
+    "story-recorder/picture",
+  ],
+  scenes: [
+    "image/image-293d7d8bbc021c22",
+    "image/image-e16b7dd64ac45f3c",
+    "image/image-4a4247af8c2f1ea8",
   ],
 } as const satisfies StoryChapterWritten
