@@ -162,6 +162,16 @@ export const encountersPriya = {
       ],
     },
     {
+      fact: "The morning after her night with Alan, Priya told the other three all of it.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/encounters-sofia",
+        "character-other/encounters-kenzie",
+        "character-other/encounters-priya",
+        "character-other/encounters-hana",
+      ],
+    },
+    {
       fact: "Priya reads people closely and remembers everything anyone says, which unnerves them.",
       knowers: [
         "lore-disclosure/game-master",

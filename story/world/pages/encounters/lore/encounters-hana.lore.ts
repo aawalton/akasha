@@ -113,6 +113,38 @@ export const encountersHana = {
       ],
     },
     {
+      fact: "Hana shoots a Canon AE-1 loaded with Portra 400, thirty-six frames to a roll.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/encounters-sofia",
+        "character-other/encounters-kenzie",
+        "character-other/encounters-priya",
+        "character-other/encounters-hana",
+      ],
+    },
+    {
+      fact: "Hana shoots by window light only, poses no one, and waits for the frame to come to her.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/encounters-sofia",
+        "character-other/encounters-kenzie",
+        "character-other/encounters-priya",
+        "character-other/encounters-hana",
+      ],
+    },
+    {
+      fact: "Hana got Alan's number from Sofia and asked to photograph him for her film roll.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/encounters-sofia",
+        "character-other/encounters-hana",
+      ],
+    },
+    {
+      fact: "Hana wants to feel what Sofia felt with Alan, and will never say so.",
+      knowers: ["lore-disclosure/game-master", "character-other/encounters-hana"],
+    },
+    {
       fact: "Hana is steady in a crisis, and the one who holds hair back at three in the morning.",
       knowers: [
         "lore-disclosure/game-master",
