@@ -1,7 +1,6 @@
-continuity: "I don't show anybody anything until it's printed" - Hana's fact shown, no memory line
-continuity: "tall, nearly as tall as you, slim and long-legged" - Hana's height/build fact shown, no memory line
-continuity: "her waist narrow enough" - Hana's narrow waist, slim build shown, no memory line
-continuity: "She wanted it hard. In the end." - Hana learns how Sofia likes it, no memory line
-continuity: "give her your room number" - Hana knows his hotel; no memory has her learn he is at Royal Pacific
 style: "She keeps it through it and after it, unchanged." - Window Pane
 style: "You lie in the violet dark. The room still smells of her." - Leave It Open
+continuity: beat 14 memory "shoots the whole trip on film" - prose never shows she shoots the whole trip
+continuity: beat 6 memory "five foot nine" - prose shows her tall, never five foot nine
+continuity: beat 45 memory "a small high ass" - prose never shows Hana's ass
+continuity: beat 81 memory "ride and set the pace, then pinned down" - prose shows only "wanted it hard"
