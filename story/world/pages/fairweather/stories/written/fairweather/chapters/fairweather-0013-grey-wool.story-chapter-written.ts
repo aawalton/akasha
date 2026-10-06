@@ -11,7 +11,7 @@ export const fairweather0013GreyWool = {
   story: "story-written/fairweather",
   ownLength: 7859,
   prose: "txt",
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/game-master",
   beats: "jsonl",
   issues: "txt",
   lore: [
@@ -40,7 +40,6 @@ export const fairweather0013GreyWool = {
     "character-other/fairweather-cora",
     "character-other/fairweather-nell",
   ],
-  reviewedBy: ["story-reviewer/holdings", "story-reviewer/scene", "story-reviewer/continuity"],
   recordedBy: [
     "story-recorder/plan",
     "story-recorder/mechanics",

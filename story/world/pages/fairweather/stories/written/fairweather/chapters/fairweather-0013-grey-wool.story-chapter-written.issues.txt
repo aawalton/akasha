@@ -9,3 +9,6 @@ continuity: "yours is empty" Tilly page (beat 14) - ch7: Elsie wrote blue flame,
 continuity: "wrote CORA at the top" of a fresh page (b17, b63) - ch1-9 Cora entry: tea, bun, quiet
 continuity: "Cora says that's a good sign" (beat 73) - only Tamsin said so (beat 38)
 continuity: "built a memorial to one" (beat 33) - Memorial of Strings names the war's dead
+style: "Elsie lay and felt it, and smiled at the ceiling." - No Sign-Off
+style: "nobody had asked the trolls anything yet" (beat 28) - Nobody Acts
+style: "lighter than Elsie has ever felt her" (beat 74) - No Tropes
