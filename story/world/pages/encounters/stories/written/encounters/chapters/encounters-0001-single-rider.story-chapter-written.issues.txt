@@ -1,12 +1,5 @@
-continuity: "barely five feet...warm brown skin...bikini top" - Priya's look and outfit shown, no memory line
-continuity: "gold hoops in her ears...calm and unreadable" - Hana's face fact shown, beat 20/25 memory omits it
-continuity: "Fall break...Like four nights" - four-night fall-break trip fact shown to Alan, no memory line
-continuity: "oldest of three...loudest house on the street" - Sofia's family fact shown, beat 38 has no memory
-continuity: "For my abuela...every meal" - Sofia's abuela-photo fact shown, beat 50 has no memory line
-continuity: "faint ridges of her abs"/"round of her ass" - Sofia abs/ass fact shown, beats 71/82 omit it
-continuity: "You're doing perfect" - praise-makes-her-wetter fact shown in prose, no memory line records it
-continuity: "the connecting door rattling" - connecting-door fact shown to Alan, beat 112 has no memory
-continuity: "someone shushes her" beat 125 - the friend next door hears too, memory has only Kenzie learn
-continuity: "Priya, where's the map" - Kenzie plans, Priya navigates, Hana photographs: shown, no memory
-continuity: No beat adds the "Chapter 1:" fact for Sofia, Kenzie, Priya or Hana the Cast mechanic requires
-continuity: cover image-edd47e868b9e2f8c - chapter cover shows Sofia naked before the prose shows her so
+continuity: beat 8 memory "in Kenzie's Jeep" - Alan learns of the Jeep, which the prose never shows
+continuity: beat 38 memory "Hialeah, Miami...Cuban-American" - prose shows only oldest of three, loud house
+continuity: beat 50 memory "calls her mother every day" - prose shows only the abuela photos, never her mother
+continuity: beat 25 memory "high cheekbones, full lips, a thin line of liner" - prose never shows Hana's face so
+continuity: beat 112 memory "opens onto Priya and Hana's room" - prose never says whose room is next door

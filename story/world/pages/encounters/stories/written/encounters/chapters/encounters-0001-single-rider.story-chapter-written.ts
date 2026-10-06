@@ -12,7 +12,7 @@ export const encounters0001SingleRider = {
   story: "story-written/encounters",
   ownLength: 10169,
   prose: "txt",
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/game-master",
   beats: "jsonl",
   issues: "txt",
   lore: [
