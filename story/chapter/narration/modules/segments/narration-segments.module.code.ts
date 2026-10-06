@@ -2,11 +2,21 @@ import {
   spokenScreen,
   spokenWindow,
 } from "akasha/story/chapter/narration/modules/window-speaking/window-speaking.module.code.ts"
-import { proseWindowSegmentsIn } from "akasha/story/engine/core/modules/prose-windows/prose-windows.module.code.ts"
+import {
+  proseWindowSegmentsIn,
+  type WrittenWindow,
+} from "akasha/story/engine/core/modules/prose-windows/prose-windows.module.code.ts"
+import { wordCount } from "akasha/story/engine/core/modules/word-count/word-count.module.code.ts"
 
-export type NarrationSegment = { text: string; pauseAfterMs: number }
+export type NarrationSegment = { text: string; pauseAfterMs: number; wordStart: number }
 
-type Block = { sentences: string[]; pauseAfterMs: number }
+type Source = { readonly wordStart: number; readonly words: number }
+
+type Block = Source & { sentences: string[]; pauseAfterMs: number }
+
+type Counted = { words: number }
+
+const WINDOW_FENCES = 2
 
 const SENTENCE_PAUSE_MS = 150
 const PARAGRAPH_PAUSE_MS = 450
@@ -119,13 +129,13 @@ function pauseLast(blocks: Block[]): undefined {
   if (last !== undefined) last.pauseAfterMs = BREAK_PAUSE_MS
 }
 
-function setApart(blocks: Block[], sentences: string[]): undefined {
+function setApart(blocks: Block[], sentences: string[], source: Source): undefined {
   if (sentences.length === 0) return
   pauseLast(blocks)
-  blocks.push({ sentences, pauseAfterMs: BREAK_PAUSE_MS })
+  blocks.push({ sentences, pauseAfterMs: BREAK_PAUSE_MS, ...source })
 }
 
-function lineInto(blocks: Block[], line: string): undefined {
+function lineInto(blocks: Block[], line: string, source: Source): undefined {
   if (SCENE_BREAK.test(line)) {
     pauseLast(blocks)
     return
@@ -133,34 +143,58 @@ function lineInto(blocks: Block[], line: string): undefined {
   const heading = HEADING.exec(line)?.[1]
   if (heading !== undefined) {
     const said = plainOf(heading)
-    if (said !== "") setApart(blocks, [spoken(said)])
+    if (said !== "") setApart(blocks, [spoken(said)], source)
     return
   }
   const said = plainOf(line)
   if (said === "") return
-  blocks.push({ sentences: sentencesOf(spoken(said)), pauseAfterMs: PARAGRAPH_PAUSE_MS })
+  blocks.push({
+    sentences: sentencesOf(spoken(said)),
+    pauseAfterMs: PARAGRAPH_PAUSE_MS,
+    ...source,
+  })
 }
 
-function proseInto(blocks: Block[], text: string): undefined {
+function proseInto(blocks: Block[], text: string, counted: Counted): undefined {
   let screen: string[] | null = null
+  let screenAt = 0
+  const screenOf = (): Source => ({ wordStart: screenAt, words: counted.words - screenAt })
   for (const line of text.split("\n")) {
+    const wordStart = counted.words
+    counted.words += wordCount(line)
     if (FENCE.test(line)) {
-      if (screen !== null) setApart(blocks, spokenScreen(screen))
+      if (screen !== null) setApart(blocks, spokenScreen(screen), screenOf())
+      else screenAt = wordStart
       screen = screen === null ? [] : null
     } else if (screen === null) {
-      lineInto(blocks, line)
+      lineInto(blocks, line, { wordStart, words: counted.words - wordStart })
     } else {
       screen.push(line)
     }
   }
-  if (screen !== null) setApart(blocks, spokenScreen(screen))
+  if (screen !== null) setApart(blocks, spokenScreen(screen), screenOf())
+}
+
+function windowWords(window: WrittenWindow): number {
+  const level = window.level === undefined ? undefined : String(window.level)
+  const fields = [window.name, window.rung, level, window.note]
+  return fields.reduce(
+    (sum, one) => (one === undefined ? sum : sum + 1 + wordCount(one)),
+    WINDOW_FENCES
+  )
 }
 
 function blocksOf(prose: string): Block[] {
   const blocks: Block[] = []
+  const counted: Counted = { words: 0 }
   for (const run of proseWindowSegmentsIn(prose.replace(RETURNS, "\n"))) {
-    if (run.kind === "prose") proseInto(blocks, run.text)
-    else setApart(blocks, spokenWindow(run.window))
+    if (run.kind === "prose") {
+      proseInto(blocks, run.text, counted)
+      continue
+    }
+    const words = windowWords(run.window)
+    setApart(blocks, spokenWindow(run.window), { wordStart: counted.words, words })
+    counted.words += words
   }
   return blocks
 }
@@ -168,20 +202,30 @@ function blocksOf(prose: string): Block[] {
 export function narrationSegmentsOf(prose: string): NarrationSegment[] {
   const segments: NarrationSegment[] = []
   for (const block of blocksOf(prose)) {
+    const spokenWords = block.sentences.reduce((sum, one) => sum + wordCount(one), 0)
+    let said = 0
+    const at = (): number =>
+      block.wordStart + (spokenWords === 0 ? 0 : Math.floor((said / spokenWords) * block.words))
     let packed = ""
+    let packedAt = block.wordStart
     const flush = (): undefined => {
-      if (packed !== "") segments.push({ text: packed, pauseAfterMs: SENTENCE_PAUSE_MS })
+      if (packed !== "") {
+        segments.push({ text: packed, pauseAfterMs: SENTENCE_PAUSE_MS, wordStart: packedAt })
+      }
       packed = ""
     }
     for (const sentence of block.sentences) {
       const first = segments.length === 0 && packed === ""
       for (const piece of piecesOf(sentence, first ? FIRST_LIMIT : LIMIT)) {
         if (segments.length === 0) {
-          segments.push({ text: piece, pauseAfterMs: SENTENCE_PAUSE_MS })
+          segments.push({ text: piece, pauseAfterMs: SENTENCE_PAUSE_MS, wordStart: at() })
+          said += wordCount(piece)
           continue
         }
         if (packed !== "" && packed.length + 1 + piece.length > LIMIT) flush()
+        if (packed === "") packedAt = at()
         packed = packed === "" ? piece : `${packed} ${piece}`
+        said += wordCount(piece)
       }
     }
     flush()

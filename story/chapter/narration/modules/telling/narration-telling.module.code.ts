@@ -9,6 +9,7 @@ import {
   type NarrationSegment,
   narrationSegmentsOf,
 } from "akasha/story/chapter/narration/modules/segments/narration-segments.module.code.ts"
+import { wordCount } from "akasha/story/engine/core/modules/word-count/word-count.module.code.ts"
 
 export const VOICE = "af_heart"
 
@@ -26,7 +27,16 @@ const MOST_SEGMENTS = 3000
 
 const PROSE = "prose"
 
-const CHAPTER_KEYS = ["id", "slug", "title", "story", "position", "ownLength", "completedAt"]
+const CHAPTER_KEYS = [
+  "id",
+  "slug",
+  "title",
+  "story",
+  "position",
+  "ownLength",
+  "ownProgress",
+  "completedAt",
+]
 
 const AFTER_LOOKED_AT = 8
 
@@ -43,8 +53,16 @@ export type ChapterHeld = {
   readonly title: string
   readonly storyTitle: string
   readonly ownLength: number | null
+  readonly ownProgress: number | null
   readonly completedAt: string | null
 }
+
+export type ReadProgress = {
+  readonly ownProgress: number | null
+  readonly ownLength: number | null
+}
+
+const UNREAD: ReadProgress = { ownProgress: null, ownLength: null }
 
 export type Told<T> = { readonly held: T } | { readonly refused: string; readonly status: number }
 
@@ -62,10 +80,38 @@ export function pieceNameIs(name: string): boolean {
   return PIECE_NAME.test(name)
 }
 
-export function spokenSegmentsOf(title: string, prose: string): NarrationSegment[] {
+export function resumedAt(
+  segments: readonly NarrationSegment[],
+  { ownProgress, ownLength }: ReadProgress
+): number {
+  if (ownProgress === null || ownProgress <= 0) return 0
+  if (ownLength !== null && ownProgress >= ownLength) return 0
+  let at = 0
+  segments.forEach((one, index) => {
+    if (one.wordStart <= ownProgress) at = index
+  })
+  return at
+}
+
+export function spokenSegmentsOf(
+  title: string,
+  prose: string,
+  progress: ReadProgress = UNREAD
+): NarrationSegment[] {
+  const total = wordCount(prose)
+  const length = progress.ownLength
+  const scale = length !== null && length > 0 && total > 0 ? length / total : 1
+  const all = narrationSegmentsOf(prose).map((one) => ({
+    ...one,
+    wordStart: Math.round(one.wordStart * scale),
+  }))
+  const kept = all.slice(resumedAt(all, progress))
   const said = title.trim()
-  const opening = said === "" ? [] : [{ text: said, pauseAfterMs: TITLE_PAUSE_MS }]
-  return [...opening, ...narrationSegmentsOf(prose)]
+  const opening =
+    said === ""
+      ? []
+      : [{ text: said, pauseAfterMs: TITLE_PAUSE_MS, wordStart: kept[0]?.wordStart ?? 0 }]
+  return [...opening, ...kept]
 }
 
 export function nextAmong(rows: readonly Row[], position: number): Row | null {
@@ -121,6 +167,7 @@ async function rowHeld(pageTypeSlug: string, row: Row): Promise<Told<ChapterRow>
       title: textIn(row.title) ?? "",
       storyTitle: await storyTitleOf(story),
       ownLength: asNumber(row.ownLength),
+      ownProgress: asNumber(row.ownProgress),
       completedAt: textIn(row.completedAt),
       story,
       position: asNumber(row.position),
@@ -149,7 +196,7 @@ async function segmentsOf(chapter: ChapterRow): Promise<Told<NarrationSegment[]>
   })
   if ("refused" in filed)
     return refused(`the chapter's prose would not read: ${filed.refused}`, 404)
-  const segments = spokenSegmentsOf(chapter.title, new TextDecoder().decode(filed.bytes))
+  const segments = spokenSegmentsOf(chapter.title, new TextDecoder().decode(filed.bytes), chapter)
   if (segments.length === 0) return refused("the chapter has no words to narrate", 422)
   if (segments.length > MOST_SEGMENTS) {
     return refused(
@@ -199,6 +246,7 @@ function heldOf(chapter: ChapterRow): ChapterHeld {
     title: chapter.title,
     storyTitle: chapter.storyTitle,
     ownLength: chapter.ownLength,
+    ownProgress: chapter.ownProgress,
     completedAt: chapter.completedAt,
   }
 }

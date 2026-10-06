@@ -41,5 +41,14 @@ export const narrationSegments = {
       decisionKind: "decision-kind/departure",
       statement: "The last segment of a chapter leaves the longer pause before the next chapter.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A segment states how many of the prose's own words come before it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A word is counted as the chapter's length counts it, markup and window lines too.",
+    },
   ],
 } as const satisfies Module

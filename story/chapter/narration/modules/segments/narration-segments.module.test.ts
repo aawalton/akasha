@@ -13,9 +13,9 @@ describe("narrationSegmentsOf", () => {
 
   test("the first segment is the first sentence alone, and the rest of its paragraph follows", () => {
     expect(narrationSegmentsOf("She ran. The door shut. It was dark.\nShe waited.")).toEqual([
-      { text: "She ran.", pauseAfterMs: 150 },
-      { text: "The door shut. It was dark.", pauseAfterMs: 450 },
-      { text: "She waited.", pauseAfterMs: 900 },
+      { text: "She ran.", pauseAfterMs: 150, wordStart: 0 },
+      { text: "The door shut. It was dark.", pauseAfterMs: 450, wordStart: 2 },
+      { text: "She waited.", pauseAfterMs: 900, wordStart: 8 },
     ])
   })
 
@@ -37,10 +37,10 @@ describe("narrationSegmentsOf", () => {
 
   test("a scene break and a heading each leave a longer pause", () => {
     expect(narrationSegmentsOf("One.\n\n***\n\nTwo.\n## Part Two\nThree.")).toEqual([
-      { text: "One.", pauseAfterMs: 900 },
-      { text: "Two.", pauseAfterMs: 900 },
-      { text: "Part Two.", pauseAfterMs: 900 },
-      { text: "Three.", pauseAfterMs: 900 },
+      { text: "One.", pauseAfterMs: 900, wordStart: 0 },
+      { text: "Two.", pauseAfterMs: 900, wordStart: 2 },
+      { text: "Part Two.", pauseAfterMs: 900, wordStart: 3 },
+      { text: "Three.", pauseAfterMs: 900, wordStart: 6 },
     ])
   })
 
@@ -54,10 +54,19 @@ describe("narrationSegmentsOf", () => {
     expect(
       narrationSegmentsOf("She looked.\n\n:::skill\nname: Devotion\n:::\n\nShe smiled.")
     ).toEqual([
-      { text: "She looked.", pauseAfterMs: 900 },
-      { text: "New skill: Devotion.", pauseAfterMs: 900 },
-      { text: "She smiled.", pauseAfterMs: 900 },
+      { text: "She looked.", pauseAfterMs: 900, wordStart: 0 },
+      { text: "New skill: Devotion.", pauseAfterMs: 900, wordStart: 2 },
+      { text: "She smiled.", pauseAfterMs: 900, wordStart: 6 },
     ])
+  })
+
+  test("a segment starts at the count of the prose's own words before it", () => {
+    const sentence = "The rain had not stopped for three days and the river kept rising."
+    const prose = `Start.\n${Array.from({ length: 30 }, () => sentence).join(" ")}\nEnd.`
+    const starts = narrationSegmentsOf(prose).map((one) => one.wordStart)
+    expect(starts).toEqual([...starts].sort((a, b) => a - b))
+    expect(starts.at(-1)).toBe(prose.split(/\s+/).length - 1)
+    expect(starts.slice(1, -1).every((one) => (one - 1) % 13 === 0)).toBe(true)
   })
 
   test("a fenced screen is said one line at a time", () => {

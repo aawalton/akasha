@@ -14,6 +14,18 @@ export const narrationTelling = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A chapter starts at the segment holding its read progress.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A chapter not begun or read through starts at its beginning.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A segment's word start reaches the speech workload in the chapter's own length.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "The next chapter is the nearest one after the chapter playing in its story.",
     },
     {
