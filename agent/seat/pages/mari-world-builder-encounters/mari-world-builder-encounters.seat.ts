@@ -11,4 +11,5 @@ export const mariWorldBuilderEncounters = {
   startMode: "seat-mode/headless",
   onCall: false,
   registrationAccount: "model-account/aawalton",
+  claudeCodeSessionUuid: "06b04d33-70c5-47a1-800b-03e35529337d",
 } as const satisfies Seat
