@@ -1,4 +1,7 @@
-import { slugStated } from "akasha/domain/context/modules/agent-stated/agent-stated.module.code.ts"
+import {
+  personaOrHandlerStated,
+  slugStated,
+} from "akasha/domain/context/modules/agent-stated/agent-stated.module.code.ts"
 import {
   blobAt,
   type Warrant,
@@ -6,7 +9,7 @@ import {
 import { listedAt } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 
 export const PERSONA =
-  "A seat works as the persona it states, and that persona is read before the seat is changed."
+  "A persona or handler seat works as the persona it states, and that persona is read before the seat is changed."
 
 const PERSONA_TYPE = "persona"
 
@@ -15,6 +18,7 @@ const KEY = "persona"
 export function personaItself(root: string, path: string): readonly Warrant[] {
   const slug = slugStated(root, path, KEY)
   if (slug === null) return []
+  if (!personaOrHandlerStated(root, path)) return []
   const listed = listedAt(root, PERSONA_TYPE, slug)[0]
   if (listed === undefined) return []
   const oid = blobAt(root, listed.path)

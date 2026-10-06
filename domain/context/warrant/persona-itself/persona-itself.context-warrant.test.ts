@@ -29,6 +29,38 @@ test("a seat warrants the persona it states", () => {
   expect(pathsOf(personaItself(root, at))).toEqual([held.path])
 })
 
+test("a seat assigned a written story warrants no persona", () => {
+  const root = scratch.rootFor("akasha-persona-itself-")
+  personaListed(root, "mari")
+  const stated = `persona: "persona/mari", role: "role/writer", assignmentSlug: "story-written/fairweather"`
+  const at = seatListed(root, "one", stated)
+  expect(pathsOf(personaItself(root, at))).toEqual([])
+})
+
+test("a seat assigned a played story warrants no persona", () => {
+  const root = scratch.rootFor("akasha-persona-itself-")
+  personaListed(root, "mari")
+  const stated = `persona: "persona/mari", role: "role/game-master", assignmentSlug: "story-played/overwhere-i"`
+  const at = seatListed(root, "one", stated)
+  expect(pathsOf(personaItself(root, at))).toEqual([])
+})
+
+test("a handler seat warrants the persona it states", () => {
+  const root = scratch.rootFor("akasha-persona-itself-")
+  const held = personaListed(root, "amy")
+  const stated = `persona: "persona/amy", role: "role/handler", assignmentSlug: "domain/alan"`
+  const at = seatListed(root, "one", stated)
+  expect(pathsOf(personaItself(root, at))).toEqual([held.path])
+})
+
+test("a persona seat warrants the persona it states", () => {
+  const root = scratch.rootFor("akasha-persona-itself-")
+  const held = personaListed(root, "awen")
+  const stated = `persona: "persona/awen", role: "role/definer", assignmentSlug: "initiative/awen-engine-improvements"`
+  const at = seatListed(root, "one", stated)
+  expect(pathsOf(personaItself(root, at))).toEqual([held.path])
+})
+
 test("a persona is named by its slug where the seat states it under a page type", () => {
   const root = scratch.rootFor("akasha-persona-itself-")
   const held = personaListed(root, "akasha")

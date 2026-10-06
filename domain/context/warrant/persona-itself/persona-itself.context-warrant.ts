@@ -4,7 +4,7 @@ export const personaItself = {
   id: "01a05829-80ea-715a-a36e-e239ce488324",
   type: "page-type/context-warrant",
   slug: "persona-itself",
-  definition: "what a seat must read for the persona it states",
+  definition: "what a persona or handler seat must read for the persona it states",
   code: "ts",
   test: "ts",
   runsOnRead: true,
@@ -13,7 +13,15 @@ export const personaItself = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "A seat warrants the persona the seat states.",
+      statement: "A seat in the personas or handlers section warrants the persona the seat states.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A seat assigned a story warrants no persona.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A seat assigned a story still states its persona.",
     },
     {
       decisionKind: "decision-kind/departure",
