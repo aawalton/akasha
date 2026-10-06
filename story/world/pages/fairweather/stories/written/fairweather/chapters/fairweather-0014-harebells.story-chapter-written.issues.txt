@@ -1,8 +1,8 @@
 scene: "For a moment the dark was complete" - beat 52 falls just after 19:45 dusk; full dark is ~20:30
-continuity: beat 54 picture shows Amara's face, singing, lights - prose shows those in beats 55-67
 style: "Elsie forgot to breathe." - No Tropes
 style: "perhaps to point out that Elsie had told her" - Fairweather Explicitness
 style: "The last thing she knew was the weight of Cora's arm" - No Sign-Off
 style: "nobody is to frighten her" (beat 49) - Nobody Acts
 style: "it is the loveliest thing she has ever heard" (beat 56) - No Tropes
 style: "Amara says nobody's ever asked" (beat 76) - No Tropes
+continuity: "home before it sets" (beat 75) - no memory line shows she walks home before moonset
