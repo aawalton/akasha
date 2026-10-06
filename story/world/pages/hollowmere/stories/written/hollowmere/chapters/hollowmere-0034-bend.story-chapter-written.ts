@@ -5,7 +5,7 @@ export const hollowmere0034Bend = {
   type: "page-type/story-chapter-written",
   slug: "hollowmere-0034-bend",
   cover: "image/image-6fb1192dcac66520",
-  ownProgress: 7037,
+  ownProgress: 7063,
   position: 34,
   unit: "unit/words",
   title: "Bend",
