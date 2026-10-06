@@ -28,5 +28,10 @@ export const encounters0002Eleven = {
     "character-other/encounters-priya",
     "character-other/encounters-hana",
   ],
-  recordedBy: ["story-recorder/inventory", "story-recorder/mechanics", "story-recorder/plan"],
+  recordedBy: [
+    "story-recorder/inventory",
+    "story-recorder/mechanics",
+    "story-recorder/plan",
+    "story-recorder/memory",
+  ],
 } as const satisfies StoryChapterWritten
