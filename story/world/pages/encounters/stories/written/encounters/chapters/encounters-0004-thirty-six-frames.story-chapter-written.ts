@@ -9,9 +9,9 @@ export const encounters0004ThirtySixFrames = {
   unit: "unit/words",
   title: "Thirty-Six Frames",
   story: "story-written/encounters",
-  ownLength: 5191,
+  ownLength: 5200,
   prose: "txt",
-  stepStatus: "step-status/writer",
+  stepStatus: "step-status/recorders",
   beats: "jsonl",
   issues: "txt",
   lore: [
