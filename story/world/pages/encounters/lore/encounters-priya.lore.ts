@@ -316,5 +316,9 @@ export const encountersPriya = {
         "character-other/encounters-priya",
       ],
     },
+    {
+      fact: "Priya stayed the night in Alan's room at the Royal Pacific, and left at seven.",
+      knowers: ["lore-disclosure/game-master", "character-player/encounters-alan"],
+    },
   ],
 } as const satisfies Lore

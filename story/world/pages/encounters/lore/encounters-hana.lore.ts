@@ -26,6 +26,7 @@ export const encountersHana = {
         "character-other/encounters-kenzie",
         "character-other/encounters-priya",
         "character-other/encounters-hana",
+        "character-player/encounters-alan",
       ],
     },
     {
@@ -69,6 +70,7 @@ export const encountersHana = {
         "character-other/encounters-kenzie",
         "character-other/encounters-priya",
         "character-other/encounters-hana",
+        "character-player/encounters-alan",
       ],
     },
     {
@@ -90,6 +92,7 @@ export const encountersHana = {
         "character-other/encounters-kenzie",
         "character-other/encounters-priya",
         "character-other/encounters-hana",
+        "character-player/encounters-alan",
       ],
     },
     {
@@ -110,6 +113,7 @@ export const encountersHana = {
         "character-other/encounters-kenzie",
         "character-other/encounters-priya",
         "character-other/encounters-hana",
+        "character-player/encounters-alan",
       ],
     },
     {
@@ -120,6 +124,7 @@ export const encountersHana = {
         "character-other/encounters-kenzie",
         "character-other/encounters-priya",
         "character-other/encounters-hana",
+        "character-player/encounters-alan",
       ],
     },
     {
@@ -130,6 +135,7 @@ export const encountersHana = {
         "character-other/encounters-kenzie",
         "character-other/encounters-priya",
         "character-other/encounters-hana",
+        "character-player/encounters-alan",
       ],
     },
     {
@@ -138,6 +144,7 @@ export const encountersHana = {
         "lore-disclosure/game-master",
         "character-other/encounters-sofia",
         "character-other/encounters-hana",
+        "character-player/encounters-alan",
       ],
     },
     {
@@ -172,6 +179,7 @@ export const encountersHana = {
         "character-other/encounters-kenzie",
         "character-other/encounters-priya",
         "character-other/encounters-hana",
+        "character-player/encounters-alan",
       ],
     },
     {
@@ -184,15 +192,27 @@ export const encountersHana = {
     },
     {
       fact: "In bed Hana is slow and patient, sets the tempo herself, and will not be rushed.",
-      knowers: ["lore-disclosure/game-master", "character-other/encounters-hana"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/encounters-hana",
+        "character-player/encounters-alan",
+      ],
     },
     {
       fact: "Hana loves to sit on a face and ride it until she comes, and then again.",
-      knowers: ["lore-disclosure/game-master", "character-other/encounters-hana"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/encounters-hana",
+        "character-player/encounters-alan",
+      ],
     },
     {
       fact: "Hana comes many times in a night, each harder, with long slow fucking between.",
-      knowers: ["lore-disclosure/game-master", "character-other/encounters-hana"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/encounters-hana",
+        "character-player/encounters-alan",
+      ],
     },
     {
       fact: "Hana wants most of all to watch a man fuck Sofia, and then to share her.",
@@ -214,6 +234,30 @@ export const encountersHana = {
         "character-other/encounters-sofia",
         "character-other/encounters-kenzie",
         "character-other/encounters-priya",
+        "character-other/encounters-hana",
+      ],
+    },
+    {
+      fact: "Chapter 4: Hana texted Alan, asking to photograph him for her film roll in his room.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/encounters-alan",
+        "character-other/encounters-hana",
+      ],
+    },
+    {
+      fact: "Hana rode Alan's face and then his cock in his Royal Pacific room, and he came inside her.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/encounters-alan",
+        "character-other/encounters-hana",
+      ],
+    },
+    {
+      fact: "Hana would not stay the night with Alan, saying she had someone to get back to.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/encounters-alan",
         "character-other/encounters-hana",
       ],
     },

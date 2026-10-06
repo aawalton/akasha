@@ -32,5 +32,13 @@ export const encountersRoyalPacificRoom = {
       fact: "The room has a mini fridge, a coffee maker, and a bathroom with a tub and shower.",
       knowers: ["lore-disclosure/game-master", "character-player/encounters-alan"],
     },
+    {
+      fact: "Alan texted Hana that his room is at the Royal Pacific, and gave her its number.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/encounters-alan",
+        "character-other/encounters-hana",
+      ],
+    },
   ],
 } as const satisfies Place
