@@ -1,18 +1,18 @@
-{"beat":1,"event":"Late afternoon; Alan is in his room when a text arrives from a number he does not know.","at":"2026-10-11T20:10:00.000Z","place":"place/encounters-royal-pacific-room","present":["character-player/encounters-alan"]}
-{"beat":2,"event":"It is Hana: she got his number from Sofia, and asks to photograph him for her film roll."}
+{"beat":1,"event":"Late afternoon; Alan is in his room when a text arrives from a number he does not know.","at":"2026-10-11T20:10:00.000Z","place":"place/encounters-royal-pacific-room","present":["character-player/encounters-alan"],"memory":[{"page":"lore/encounters-priya","fact":"Priya stayed the night in Alan's room at the Royal Pacific, and left at seven.","establishes":true},{"page":"lore/encounters-priya","fact":"Priya stayed the night in Alan's room at the Royal Pacific, and left at seven.","learns":"character-player/encounters-alan"},{"page":"lore/encounters-priya","fact":"Priya stayed the night in Alan's room at the Royal Pacific, and left at seven.","shown":true},{"page":"place/encounters-royal-pacific-room","fact":"The window looks down over the hotel's lagoon pool and its palms.","shown":true}]}
+{"beat":2,"event":"It is Hana: she got his number from Sofia, and asks to photograph him for her film roll.","memory":[{"page":"lore/encounters-hana","fact":"Chapter 4: Hana texted Alan, asking to photograph him for her film roll in his room.","establishes":true},{"page":"lore/encounters-hana","fact":"Chapter 4: Hana texted Alan, asking to photograph him for her film roll in his room.","learns":"character-player/encounters-alan"},{"page":"lore/encounters-hana","fact":"Chapter 4: Hana texted Alan, asking to photograph him for her film roll in his room.","learns":"character-other/encounters-hana"},{"page":"lore/encounters-hana","fact":"Chapter 4: Hana texted Alan, asking to photograph him for her film roll in his room.","shown":true},{"page":"lore/encounters-hana","fact":"Hana got Alan's number from Sofia and asked to photograph him for her film roll.","learns":"character-player/encounters-alan"},{"page":"lore/encounters-hana","fact":"Hana got Alan's number from Sofia and asked to photograph him for her film roll.","shown":true}]}
 {"beat":3,"event":"She asks for his room, not the park: the light there will be better."}
 {"beat":4,"event":"He says yes; she answers with a time, and nothing else."}
 {"beat":5,"event":"A single knock at five; Hana stands in the doorway with a camera on a strap.","at":"2026-10-11T21:00:00.000Z","arrive":["character-other/encounters-hana"]}
-{"beat":6,"event":"Tall, slim, long-legged; straight black hair loose to her waist, parted in the center."}
-{"beat":7,"event":"White ribbed halter crop top tied at her neck, a short black pleated skirt, gold hoops."}
+{"beat":6,"event":"Tall, slim, long-legged; straight black hair loose to her waist, parted in the center.","memory":[{"page":"lore/encounters-hana","fact":"Hana's very long straight black hair hangs loose to her waist, parted in the center.","shown":true}]}
+{"beat":7,"event":"White ribbed halter crop top tied at her neck, a short black pleated skirt, gold hoops.","memory":[{"page":"lore/encounters-hana","fact":"Hana wears a white ribbed halter crop top tied behind her neck and a short black pleated miniskirt.","shown":true},{"page":"lore/encounters-hana","fact":"Hana wears gold hoops in her ears, and her face is calm and unreadable.","shown":true},{"page":"lore/encounters-hana","fact":"Hana has high cheekbones, full lips and a thin line of liner.","shown":true}]}
 {"beat":8,"event":"She says hello, looks at him a long moment, and walks in past him without hurry."}
 {"beat":9,"event":"She crosses straight to the window and stands in the light, reading it."}
 {"beat":10,"event":"She draws the curtains half closed, then a little more, then leaves them."}
 {"beat":11,"event":"She turns off every lamp in the room, one by one."}
 {"beat":12,"event":"She tells him she shoots by window light only, and never poses anyone."}
-{"beat":13,"event":"She holds up the camera: a Canon AE-1, Portra 400, thirty-six frames a roll."}
+{"beat":13,"event":"She holds up the camera: a Canon AE-1, Portra 400, thirty-six frames a roll.","memory":[{"page":"lore/encounters-hana","fact":"Hana shoots a Canon AE-1 loaded with Portra 400, thirty-six frames to a roll.","learns":"character-player/encounters-alan"},{"page":"lore/encounters-hana","fact":"Hana shoots a Canon AE-1 loaded with Portra 400, thirty-six frames to a roll.","shown":true}]}
 {"beat":14,"event":"She says she will not show him the pictures until they are printed."}
-{"beat":15,"event":"He asks what he should do; she says nothing, and that the frame will come to her."}
+{"beat":15,"event":"He asks what he should do; she says nothing, and that the frame will come to her.","memory":[{"page":"lore/encounters-hana","fact":"Hana shoots by window light only, poses no one, and waits for the frame to come to her.","learns":"character-player/encounters-alan"},{"page":"lore/encounters-hana","fact":"Hana shoots by window light only, poses no one, and waits for the frame to come to her.","shown":true}]}
 {"beat":16,"event":"She sits on the edge of the desk with the camera in her lap and just looks at him."}
 {"beat":17,"event":"The silence stretches; he fills it, talking, and she lets him."}
 {"beat":18,"event":"She lifts the camera while he is mid-sentence and takes one frame."}
@@ -30,11 +30,11 @@
 {"beat":30,"event":"She stands over him in the armchair, framing him from above, her hair swinging forward."}
 {"beat":31,"event":"Her hair brushes his chest; she does not move it away."}
 {"beat":32,"event":"She takes one more frame, very close, then lets the camera hang on its strap."}
-{"beat":33,"event":"She looks at him with the slow look, and a small smile, and says nothing at all."}
+{"beat":33,"event":"She looks at him with the slow look, and a small smile, and says nothing at all.","memory":[{"page":"lore/encounters-hana","fact":"Hana flirts with a slow look, a small smile and silence, and lets the other fill it.","learns":"character-player/encounters-alan"},{"page":"lore/encounters-hana","fact":"Hana flirts with a slow look, a small smile and silence, and lets the other fill it.","shown":true}]}
 {"beat":34,"event":"He reaches up and touches her wrist; she lets him."}
 {"beat":35,"event":"She sets the camera on the desk, carefully, lens cap on."}
 {"beat":36,"event":"She tells him there are eleven frames left, and she will use them later."}
-{"beat":37,"event":"She tells him she does things slowly, and he will not hurry her."}
+{"beat":37,"event":"She tells him she does things slowly, and he will not hurry her.","memory":[{"page":"lore/encounters-hana","fact":"In bed Hana is slow and patient, sets the tempo herself, and will not be rushed.","learns":"character-player/encounters-alan"},{"page":"lore/encounters-hana","fact":"In bed Hana is slow and patient, sets the tempo herself, and will not be rushed.","shown":true}]}
 {"beat":38,"event":"He tells her he would not want to; she studies him, and decides he means it."}
 {"beat":39,"event":"She sits on his knee, sideways, in the armchair, and kisses him."}
 {"beat":40,"event":"The kiss is slow and long, unhurried, her hand light on his jaw."}
@@ -46,7 +46,7 @@
 {"beat":46,"event":"He kisses her collarbone, then her tits, slowly, because she has told him to."}
 {"beat":47,"event":"She guides his mouth to a nipple, and breathes out long when he sucks it."}
 {"beat":48,"event":"She stands, steps out of the skirt and her panties, and stands in the window light bare."}
-{"beat":49,"event":"Her cunt is bare, a small silver ring through her clit hood."}
+{"beat":49,"event":"Her cunt is bare, a small silver ring through her clit hood.","memory":[{"page":"lore/encounters-hana","fact":"Hana has small perky tits with pale pink nipples, and a bare cunt with a pierced clit hood.","learns":"character-player/encounters-alan"},{"page":"lore/encounters-hana","fact":"Hana has small perky tits with pale pink nipples, and a bare cunt with a pierced clit hood.","shown":true}]}
 {"beat":50,"event":"She lets him look as long as he wants; she seems to want him to."}
 {"beat":51,"event":"She kneels between his knees and unbuttons his jeans, one button at a time."}
 {"beat":52,"event":"She draws his cock out and holds it, looking at it with the same patience as the camera."}
@@ -64,7 +64,7 @@
 {"beat":64,"event":"She rides his face a long time, and only when she chooses does she speed up."}
 {"beat":65,"event":"She comes on his tongue with a low sound, grinding down, her thighs tight round his head."}
 {"beat":66,"event":"She does not lift off; she waits, breathing, and starts to ride him again."}
-{"beat":67,"event":"She comes a second time, harder, her hand braced flat on the headboard."}
+{"beat":67,"event":"She comes a second time, harder, her hand braced flat on the headboard.","memory":[{"page":"lore/encounters-hana","fact":"Hana loves to sit on a face and ride it until she comes, and then again.","learns":"character-player/encounters-alan"},{"page":"lore/encounters-hana","fact":"Hana loves to sit on a face and ride it until she comes, and then again.","shown":true}]}
 {"beat":68,"event":"She moves down his body and straddles his hips, slick, and looks down at him."}
 {"beat":69,"event":"She asks him if he is clean; he says yes; she says she is on the pill."}
 {"beat":70,"event":"She sinks down onto his cock so slowly that it takes a full minute."}
@@ -81,9 +81,9 @@
 {"beat":81,"event":"He tells her the truth, that Sofia wanted it hard in the end."}
 {"beat":82,"event":"Hana says nothing to that; she rides him a little harder, for the first time."}
 {"beat":83,"event":"She sits up and rides him faster now, chasing it, her eyes shut."}
-{"beat":84,"event":"She comes a fourth time, hardest, crying out, her whole body rigid over him."}
+{"beat":84,"event":"She comes a fourth time, hardest, crying out, her whole body rigid over him.","memory":[{"page":"lore/encounters-hana","fact":"Hana comes many times in a night, each harder, with long slow fucking between.","learns":"character-player/encounters-alan"},{"page":"lore/encounters-hana","fact":"Hana comes many times in a night, each harder, with long slow fucking between.","shown":true}]}
 {"beat":85,"event":"She tells him he can come now, and rides him at the pace he needs."}
-{"beat":86,"event":"He comes deep inside her, holding her hips, and she holds still and takes it all."}
+{"beat":86,"event":"He comes deep inside her, holding her hips, and she holds still and takes it all.","memory":[{"page":"lore/encounters-hana","fact":"Hana rode Alan's face and then his cock in his Royal Pacific room, and he came inside her.","establishes":true},{"page":"lore/encounters-hana","fact":"Hana rode Alan's face and then his cock in his Royal Pacific room, and he came inside her.","learns":"character-player/encounters-alan"},{"page":"lore/encounters-hana","fact":"Hana rode Alan's face and then his cock in his Royal Pacific room, and he came inside her.","learns":"character-other/encounters-hana"},{"page":"lore/encounters-hana","fact":"Hana rode Alan's face and then his cock in his Royal Pacific room, and he came inside her.","shown":true}]}
 {"beat":87,"event":"She stays seated on him, eyes closed, until he softens inside her."}
 {"beat":88,"event":"She lifts off slowly and lies beside him, her hair spread over his chest."}
 {"beat":89,"event":"The room is nearly dark; the window has gone violet.","at":"2026-10-11T23:30:00.000Z"}
@@ -97,7 +97,7 @@
 {"beat":97,"event":"She winds on, then turns and shoots the empty half of the bed where she lay."}
 {"beat":98,"event":"She tells him there are nine frames left on the roll, and she knows what they are for."}
 {"beat":99,"event":"She dresses slowly, tying the halter at her neck without looking."}
-{"beat":100,"event":"She tells him she will not stay the night; she has someone to get back to."}
+{"beat":100,"event":"She tells him she will not stay the night; she has someone to get back to.","memory":[{"page":"lore/encounters-hana","fact":"Hana would not stay the night with Alan, saying she had someone to get back to.","establishes":true},{"page":"lore/encounters-hana","fact":"Hana would not stay the night with Alan, saying she had someone to get back to.","learns":"character-player/encounters-alan"},{"page":"lore/encounters-hana","fact":"Hana would not stay the night with Alan, saying she had someone to get back to.","learns":"character-other/encounters-hana"},{"page":"lore/encounters-hana","fact":"Hana would not stay the night with Alan, saying she had someone to get back to.","shown":true}]}
 {"beat":101,"event":"She does not say who; she kisses him once, slowly, on the mouth."}
 {"beat":102,"event":"She lets herself out, the camera on its strap, and the door clicks shut.","leave":["character-other/encounters-hana"]}
 {"beat":103,"event":"Alan lies in the violet dark, the room still smelling of her."}

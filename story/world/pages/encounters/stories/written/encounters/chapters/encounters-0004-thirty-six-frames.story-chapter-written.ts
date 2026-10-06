@@ -26,5 +26,10 @@ export const encounters0004ThirtySixFrames = {
     "character-other/encounters-sofia",
     "character-other/encounters-priya",
   ],
-  recordedBy: ["story-recorder/inventory", "story-recorder/mechanics", "story-recorder/plan"],
+  recordedBy: [
+    "story-recorder/inventory",
+    "story-recorder/mechanics",
+    "story-recorder/plan",
+    "story-recorder/memory",
+  ],
 } as const satisfies StoryChapterWritten
