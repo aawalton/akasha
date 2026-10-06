@@ -10,6 +10,59 @@ const FIRST_WAIT_MS = 2000
 
 const HEALED_SECONDS = 10
 
+export const UNREACHABLE_GRACE_MS = 20_000
+
+const LOST = new Set([404, 410])
+
+const UNREACHABLE = new Set([502, 503, 504])
+
+export type Answered = "fine" | "lost" | "unreachable"
+
+export function answerOf(status: number | null): Answered {
+  if (status === null || UNREACHABLE.has(status)) return "unreachable"
+  return LOST.has(status) ? "lost" : "fine"
+}
+
+export function brokenAfter(
+  said: Answered,
+  since: number | null,
+  now: number
+): { readonly broken: boolean; readonly since: number | null } {
+  if (said === "lost") return { broken: true, since: null }
+  if (said === "fine") return { broken: false, since: null }
+  const from = since ?? now
+  return { broken: now - from >= UNREACHABLE_GRACE_MS, since: from }
+}
+
+export function streamLost(fatal: boolean, code: number | undefined): boolean {
+  return fatal || (code !== undefined && LOST.has(code))
+}
+
+export type Told<T extends object> = (playing: T, status: number | null) => boolean
+
+export function useLostSession<T extends object>(
+  audio: RefObject<HTMLAudioElement | null>,
+  broken: (why: string) => undefined,
+  session: RefObject<T | null>
+): Told<T> {
+  const since = useRef<number | null>(null)
+  const lost = useRef(new WeakSet<T>())
+  return useCallback(
+    (playing: T, status: number | null): boolean => {
+      const said = answerOf(status)
+      if (session.current !== playing || lost.current.has(playing)) return said === "lost"
+      const after = brokenAfter(said, since.current, Date.now())
+      since.current = after.since
+      if (!after.broken || audio.current?.paused !== false) return said === "lost"
+      lost.current.add(playing)
+      since.current = null
+      broken("The speech workload lost the narration.")
+      return said === "lost"
+    },
+    [audio, broken, session]
+  )
+}
+
 export type Steering = {
   readonly live: () => boolean
   readonly nudge: () => undefined

@@ -35,7 +35,9 @@ import {
 import {
   nudged,
   type Steering,
+  streamLost,
   UNSTEERED,
+  useLostSession,
   useRecovery,
 } from "akasha/story/chapter/narration/modules/recovery/narration-recovery.module.code.ts"
 import type { ChapterHeld } from "akasha/story/chapter/narration/modules/telling/narration-telling.module.code.ts"
@@ -115,6 +117,7 @@ export function NarrationProvider({
   const streamed = useRef<Hls | null>(null)
   const steering = useRef<Steering>(UNSTEERED)
   const recovering = useRecovery(audioRef, steering)
+  const told = useLostSession(audioRef, recovering.broken, session)
   const [shown, setShown] = useState<NarrationShown>({ kind: "idle" })
   const [chapter, setChapter] = useState<ChapterHeld | null>(null)
   const [halted, setHalted] = useState(true)
@@ -190,7 +193,7 @@ export function NarrationProvider({
         const hls = new Hls(HELD_AT_START)
         streamed.current = hls
         hls.on(Hls.Events.ERROR, (_event: string, said: ErrorData) => {
-          if (said.fatal && streamed.current === hls) {
+          if (streamed.current === hls && streamLost(said.fatal, said.response?.code)) {
             recovering.broken(`The stream failed: ${said.details}`)
           }
         })
@@ -245,7 +248,7 @@ export function NarrationProvider({
       }
       const body = await bodyOf(answered)
       if (!answered.ok) {
-        fail(errorOf(body, answered.status))
+        if (!told(playing, answered.status)) fail(errorOf(body, answered.status))
         return
       }
       const next = heldOf(body.chapter)
@@ -255,7 +258,7 @@ export function NarrationProvider({
         playing.progress.set(next.id, next.ownProgress ?? 0)
       }
     },
-    [reach, fail]
+    [reach, fail, told]
   )
 
   const save = useCallback((always: boolean): undefined => {
@@ -398,15 +401,18 @@ export function NarrationProvider({
       if (playing === null) return
       void reach
         .fetch(`/api/narration/${playing.id}/chapters`)
-        .then(async (answered) => (answered.ok ? placedOf(await answered.json()) : null))
+        .then(async (answered) => {
+          told(playing, answered.status)
+          return answered.ok ? placedOf(await answered.json()) : null
+        })
         .then((placed) => {
           if (placed !== null && session.current === playing) playing.placed = placed
           tick()
         })
-        .catch(() => undefined)
+        .catch(() => told(playing, null))
     }, CHAPTERS_EVERY_MS)
     return () => clearInterval(timer)
-  }, [shown.kind, reach, tick])
+  }, [shown.kind, reach, tick, told])
 
   useEffect(() => {
     const audio = audioRef.current

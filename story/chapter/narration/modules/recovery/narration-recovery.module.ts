@@ -38,6 +38,27 @@ export const narrationRecovery = {
       statement: "Ten seconds heard after a reopen counts the narration as brought back.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement: "A narration the speech workload answers 404 or 410 for is lost and reopened.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A speech workload unreachable for twenty seconds breaks the narration too.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "The chapters asked for every few seconds find a lost narration with no media error.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A lost narration is reopened only while it plays, so a halt is never undone.",
+    },
+    {
+      decisionKind: "decision-kind/constraint",
+      statement: "A narration lives only in the speech workload's memory, so its restart loses it.",
+    },
+    {
       decisionKind: "decision-kind/constraint",
       statement: "iOS fills a locked phone's buffer only once playing has run it dry.",
     },
