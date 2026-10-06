@@ -11,7 +11,7 @@ export const encounters0004ThirtySixFrames = {
   story: "story-written/encounters",
   ownLength: 5200,
   prose: "txt",
-  stepStatus: "step-status/game-master",
+  stepStatus: "step-status/mechanics",
   beats: "jsonl",
   issues: "txt",
   lore: [
@@ -29,12 +29,5 @@ export const encounters0004ThirtySixFrames = {
     "character-other/encounters-priya",
   ],
   reviewedBy: ["story-reviewer/holdings", "story-reviewer/scene"],
-  recordedBy: [
-    "story-recorder/plan",
-    "story-recorder/inventory",
-    "story-recorder/mechanics",
-    "story-recorder/picture",
-    "story-recorder/memory",
-  ],
   scenes: ["image/image-97fe6436ba0ae46a", "image/image-802e533ed8e9d331"],
 } as const satisfies StoryChapterWritten
