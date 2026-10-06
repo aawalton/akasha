@@ -9,9 +9,9 @@ export const fairweather0013GreyWool = {
   unit: "unit/words",
   title: "Grey Wool",
   story: "story-written/fairweather",
-  ownLength: 7859,
+  ownLength: 7931,
   prose: "txt",
-  stepStatus: "step-status/writer",
+  stepStatus: "step-status/recorders",
   beats: "jsonl",
   issues: "txt",
   lore: [
