@@ -16,5 +16,10 @@ export const voiceNarration = {
       decisionKind: "decision-kind/constraint",
       statement: "iOS stops fetching once its buffer is full, so a playlist must grow on its own.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A chapter marks where in the stream each segment begins, with the word it begins at.",
+    },
   ],
 } as const satisfies PythonModule

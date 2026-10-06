@@ -13,7 +13,10 @@ in this process's memory (voice_hls) and nothing is written to disk.
   POST   /v1/narration/{id}/end        no more chapters               -> 200
   GET    /v1/narration/{id}            {"state","error","ended","renderedSeconds"}
   GET    /v1/narration/{id}/playlist.m3u8
-  GET    /v1/narration/{id}/chapters   [{"id","title","startSeconds","durationSeconds"}]
+  GET    /v1/narration/{id}/chapters   [{"id","title","startSeconds","durationSeconds","marks"}]
+A segment may carry "wordStart", the chapter word it begins at. Each chapter's
+"marks" lists [stream seconds, wordStart] for every such segment begun so far,
+so a player can tell which word of which chapter it is playing.
   GET    /v1/narration/{id}/{name}     init.mp4 or pNNNNN.m4s
   DELETE /v1/narration/{id}
 A session nobody fetches for SESSION_IDLE_SECONDS is dropped. At most
@@ -50,23 +53,29 @@ def _error(status: int, message: str) -> JSONResponse:
     return JSONResponse(status_code=status, content={"error": message})
 
 
-def _segments_of(body: dict) -> "tuple[list[tuple[str, int]] | None, str | None]":
+def _whole(value: object) -> bool:
+    return isinstance(value, int) and not isinstance(value, bool) and value >= 0
+
+
+def _segments_of(body: dict) -> "tuple[list[tuple[str, int, int | None]] | None, str | None]":
     segments = body.get("segments")
     if not isinstance(segments, list) or not segments:
         return None, "segments must be a non-empty list"
     if len(segments) > MAX_SEGMENTS:
         return None, f"at most {MAX_SEGMENTS} segments"
-    out: "list[tuple[str, int]]" = []
+    out: "list[tuple[str, int, int | None]]" = []
     for n, seg in enumerate(segments):
         if not isinstance(seg, dict) or not isinstance(seg.get("text"), str):
             return None, f"segment {n} needs a string text"
-        text, pause = seg["text"], seg.get("pauseAfterMs", 0)
+        text, pause, word = seg["text"], seg.get("pauseAfterMs", 0), seg.get("wordStart")
         if len(text) > MAX_SEGMENT_CHARS:
             return None, f"segment {n} runs past {MAX_SEGMENT_CHARS} characters"
-        if isinstance(pause, bool) or not isinstance(pause, int) or not 0 <= pause <= MAX_PAUSE_MS:
+        if not _whole(pause) or pause > MAX_PAUSE_MS:
             return None, f"segment {n} pauseAfterMs must be an integer from 0 to {MAX_PAUSE_MS}"
-        out.append((text.strip(), pause))
-    if not any(text for text, _ in out):
+        if word is not None and not _whole(word):
+            return None, f"segment {n} wordStart must be a whole number"
+        out.append((text.strip(), pause, word))
+    if not any(text for text, _, _ in out):
         return None, "every segment is empty"
     return out, None
 
@@ -135,9 +144,11 @@ class Session:
             while (item := await self.queue.get()) is not None:
                 chapter, segments = item
                 start = self.fed_samples / SAMPLE_RATE
-                record = {**chapter, "startSeconds": start, "durationSeconds": None}
+                record = {**chapter, "startSeconds": start, "durationSeconds": None, "marks": []}
                 self.chapters.append(record)
-                for text, pause in segments:
+                for text, pause, word in segments:
+                    if word is not None:
+                        record["marks"].append([round(self.fed_samples / SAMPLE_RATE, 3), word])
                     await self._speak(text, pause)
                 record["durationSeconds"] = self.fed_samples / SAMPLE_RATE - start
         except asyncio.CancelledError:
