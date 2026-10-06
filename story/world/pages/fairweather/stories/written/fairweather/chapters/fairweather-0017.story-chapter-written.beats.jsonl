@@ -37,7 +37,7 @@
 {"beat":37,"event":"As the purse strings close, a System window opens in the air before her: level 4."}
 {"beat":38,"event":"Tamsin whoops and thumps her back; Tilly reads it over her arm; Cora looks at it a long moment."}
 {"beat":39,"event":"Cora writes it in her ledger, then goes behind the charcoal door to file her sheet."}
-{"beat":40,"event":"Elsie buys a pot of tea at the bar for two pips, and a cup of black coffee for two pips more."}
+{"beat":40,"event":"Elsie buys a pot of tea at the bar for two pips, and a cup of black coffee for two pips more.","changes":[{"page":"metric-character-currency/fairweather-elsie","note":"Elsie buys a pot of tea and Noor's black coffee at the bar, 2 pips each: 4 pips, 215 → 211","key":"value","from":215,"to":211}]}
 {"beat":41,"event":"She carries both across the empty ring to Noor's table, watching her feet the whole way."}
 {"beat":42,"event":"Noor watches her come; Elsie shakes the empty chair hard, knocks on its seat, and sits."}
 {"beat":43,"event":"It holds; she pours her tea and slides the coffee across, its handle toward Noor's glove."}
@@ -135,4 +135,4 @@
 {"beat":135,"event":"She knits by the round window, and the second glove's thumb takes shape between her needles."}
 {"beat":136,"event":"She tries the finished glove on her own hand again; its fingers flap at the ends: just right."}
 {"beat":137,"event":"She lays the half-glove on the sill beside the finished one, by Moonpenny, nearly a pair."}
-{"beat":138,"event":"She tells Moonpenny about the bones that purred, and blows out the candle.","at":"2026-06-17T21:30:00.000Z"}
+{"beat":138,"event":"She tells Moonpenny about the bones that purred, and blows out the candle.","at":"2026-06-17T21:30:00.000Z","changes":[{"page":"metric-character-currency/fairweather-elsie","note":"Elsie ends the chapter with 211 pips","key":"history","append":{"turn":17,"value":211}},{"page":"metric-character-currency/fairweather-tamsin","note":"Tamsin ends the chapter with 226 pips","key":"history","append":{"turn":17,"value":226}},{"page":"metric-character-currency/fairweather-tilly","note":"Tilly ends the chapter with 274 pips","key":"history","append":{"turn":17,"value":274}}]}
