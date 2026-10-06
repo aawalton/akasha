@@ -202,6 +202,9 @@ export const fairweatherNoor = {
         "character-other/fairweather-noor",
       ],
     },
+    {
+      fact: "Noor's Hex grows weaker the less alone she feels.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
-  secrets: "jsonl",
 } as const satisfies Lore
