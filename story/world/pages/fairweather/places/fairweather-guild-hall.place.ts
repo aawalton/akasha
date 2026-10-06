@@ -237,7 +237,7 @@ export const fairweatherGuildHall = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
-      fact: "The guildmaster has read Cora's report on the toll bridge, and wants to see Elsie herself.",
+      fact: "The guildmaster has heard of the toll bridge, and wants Elsie and Cora upstairs as they come in.",
       knowers: ["lore-disclosure/game-master"],
     },
     {
