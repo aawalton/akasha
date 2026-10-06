@@ -49,6 +49,7 @@ export const fairweather0017Biscuit = {
     "character-other/fairweather-nell",
   ],
   reviewedBy: ["story-reviewer/holdings"],
+  recordedBy: ["story-recorder/plan"],
   scenes: [
     "image/image-40c69dc3dad284d6",
     "image/image-c531cc10abc00a2d",
