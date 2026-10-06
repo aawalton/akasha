@@ -4,6 +4,7 @@ export const wanderingMageSolMonsterHuntingZoology0021Chapter21 = {
   id: "01a11151-da27-7b74-b9e8-77d0c5b34edd",
   type: "page-type/story-chapter-read",
   slug: "wandering-mage-sol-monster-hunting-zoology-0021-chapter-21",
+  ownProgress: 3890,
   position: 21,
   publishedAt: "2026-10-03",
   unit: "unit/words",
