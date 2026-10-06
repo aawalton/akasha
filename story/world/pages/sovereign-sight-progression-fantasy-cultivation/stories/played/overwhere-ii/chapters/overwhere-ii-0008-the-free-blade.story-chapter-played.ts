@@ -117,4 +117,5 @@ export const overwhereIi0008TheFreeBlade = {
   lastTurn: "overwhere-ii-00-091",
   lastTurnPosition: 91,
   endsAt: "2026-10-21T08:48:00.000Z",
+  outcomes: "jsonl",
 } as const satisfies StoryChapterPlayed
