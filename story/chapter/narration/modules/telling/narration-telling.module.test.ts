@@ -23,10 +23,15 @@ describe("spokenSegmentsOf", () => {
 
   const prose = "One two.\nThree four five.\nSix seven.\nEight nine ten."
 
-  test("a chapter read part way starts at the sentence holding its progress", () => {
+  test("a chapter read part way starts at the sentence holding its progress, untitled", () => {
     const said = spokenSegmentsOf("Ch", prose, { ownProgress: 6, ownLength: 10 })
-    expect(said.map((one) => one.text)).toEqual(["Ch", "Six seven.", "Eight nine ten."])
+    expect(said.map((one) => one.text)).toEqual(["Six seven.", "Eight nine ten."])
     expect(said[0]?.wordStart).toBe(5)
+  })
+
+  test("progress inside the first segment still starts at the beginning with the title", () => {
+    const said = spokenSegmentsOf("Ch", prose, { ownProgress: 1, ownLength: 10 })
+    expect(said.map((one) => one.text)[0]).toBe("Ch")
   })
 
   test("a chapter read through, or not begun, starts at its beginning", () => {

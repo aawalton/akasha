@@ -105,12 +105,11 @@ export function spokenSegmentsOf(
     ...one,
     wordStart: Math.round(one.wordStart * scale),
   }))
-  const kept = all.slice(resumedAt(all, progress))
+  const from = resumedAt(all, progress)
+  const kept = all.slice(from)
   const said = title.trim()
   const opening =
-    said === ""
-      ? []
-      : [{ text: said, pauseAfterMs: TITLE_PAUSE_MS, wordStart: kept[0]?.wordStart ?? 0 }]
+    said === "" || from > 0 ? [] : [{ text: said, pauseAfterMs: TITLE_PAUSE_MS, wordStart: 0 }]
   return [...opening, ...kept]
 }
 

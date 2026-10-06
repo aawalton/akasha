@@ -10,7 +10,11 @@ export const narrationTelling = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "A chapter's title is said first, and its prose follows.",
+      statement: "A chapter started at its beginning has its title said first.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A chapter resumed part way starts at its prose, with no title said.",
     },
     {
       decisionKind: "decision-kind/departure",
