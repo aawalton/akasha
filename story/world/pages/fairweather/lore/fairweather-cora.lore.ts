@@ -253,6 +253,57 @@ export const fairweatherCora = {
       fact: "Elsie is knitting Cora gloves of grey wool, the grey of Cora's eyes, for her cold hands.",
       knowers: ["lore-disclosure/game-master", "character-player/fairweather-elsie"],
     },
+    {
+      fact: "Cora carries a shuttered brass guild lantern at her belt.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-cora",
+      ],
+    },
+    {
+      fact: "Cora's guild lantern drove the barrow-wight back, and she led the party out of the passage.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-tamsin",
+        "character-other/fairweather-tilly",
+        "character-other/fairweather-cora",
+      ],
+    },
+    {
+      fact: "At Bellmoor barrow Cora wrote one line in her ledger that she hid from Elsie.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-cora",
+      ],
+    },
+    {
+      fact: "Elsie put a harebell in the top buttonhole of Cora's coat, and Cora let her.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-cora",
+      ],
+    },
+    {
+      fact: "Cora will report the barrow's lights harmless and its singer unnamed, leaving the name empty.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-cora",
+        "character-other/fairweather-amara",
+      ],
+    },
+    {
+      fact: "At Bellmoor barrow Elsie and Cora sat the night watch inside Cora's one coat.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-cora",
+      ],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore

@@ -68,6 +68,7 @@ export const fairweatherBellmoorBarrow = {
         "character-other/fairweather-cora",
         "character-other/fairweather-tamsin",
         "character-other/fairweather-tilly",
+        "character-other/fairweather-amara",
       ],
     },
     {
@@ -163,6 +164,51 @@ export const fairweatherBellmoorBarrow = {
         "character-other/fairweather-cora",
         "character-other/fairweather-tamsin",
         "character-other/fairweather-tilly",
+      ],
+    },
+    {
+      fact: "The lights and singing at Bellmoor barrow began this spring.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-tamsin",
+        "character-other/fairweather-tilly",
+        "character-other/fairweather-cora",
+      ],
+    },
+    {
+      fact: "A hollow is pressed in the grass of the barrow top where Amara sits to sing.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-tamsin",
+        "character-other/fairweather-tilly",
+        "character-other/fairweather-cora",
+        "character-other/fairweather-amara",
+      ],
+    },
+    {
+      fact: "Amara says her mother would never forgive her for singing out on the downs.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-amara",
+      ],
+    },
+    {
+      fact: "Amara's favourite things are sticky honey cakes, the downs at night, and being nobody in particular.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-amara",
+      ],
+    },
+    {
+      fact: "Elsie invited Amara to the Honeycomb for honey cakes, and Amara said maybe.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-amara",
       ],
     },
   ],

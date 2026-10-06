@@ -248,6 +248,14 @@ export const fairweatherTilly = {
         "character-other/fairweather-tilly",
       ],
     },
+    {
+      fact: "Tilly napped at Bellmoor barrow with her head in Elsie's lap.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-tilly",
+      ],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore

@@ -119,7 +119,11 @@ export const fairweatherElsie = {
     },
     {
       fact: "Elsie rents the attic room above the Honeycomb bakery on Thimble Canal.",
-      knowers: ["lore-disclosure/game-master", "character-player/fairweather-elsie"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-amara",
+      ],
     },
     {
       fact: "Elsie has never been kissed.",
@@ -215,6 +219,17 @@ export const fairweatherElsie = {
         "character-other/fairweather-tamsin",
         "character-other/fairweather-tilly",
         "character-other/fairweather-cora",
+      ],
+    },
+    {
+      fact: "Elsie promised Amara that the party would keep her singing a secret.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-tamsin",
+        "character-other/fairweather-tilly",
+        "character-other/fairweather-cora",
+        "character-other/fairweather-amara",
       ],
     },
   ],

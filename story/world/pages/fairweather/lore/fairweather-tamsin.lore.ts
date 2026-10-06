@@ -295,5 +295,30 @@ export const fairweatherTamsin = {
         "character-other/fairweather-tilly",
       ],
     },
+    {
+      fact: "Tamsin bought the party's hand pies at the west gate, saying she feeds the party.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-tamsin",
+      ],
+    },
+    {
+      fact: "Grabbed by the barrow-wight in the dark, Tamsin did not go red.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-tamsin",
+      ],
+    },
+    {
+      fact: "Elsie kissed the back of Tamsin's hand where the barrow-wight's cold stayed.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-tamsin",
+        "character-other/fairweather-tilly",
+      ],
+    },
   ],
 } as const satisfies Lore
