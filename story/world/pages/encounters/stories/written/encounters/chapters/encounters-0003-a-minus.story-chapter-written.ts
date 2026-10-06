@@ -9,9 +9,9 @@ export const encounters0003AMinus = {
   unit: "unit/words",
   title: "A-Minus",
   story: "story-written/encounters",
-  ownLength: 5981,
+  ownLength: 5994,
   prose: "txt",
-  stepStatus: "step-status/writer",
+  stepStatus: "step-status/recorders",
   beats: "jsonl",
   issues: "txt",
   lore: [
