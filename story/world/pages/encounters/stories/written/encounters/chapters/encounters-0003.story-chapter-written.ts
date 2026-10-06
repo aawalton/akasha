@@ -16,6 +16,7 @@ export const encounters0003 = {
     "lore/encounters-kenzie",
     "lore/encounters-priya",
     "place/encounters-citywalk-vivo",
+    "place/encounters-royal-pacific-room",
     "place/encounters-universal-studios-florida",
   ],
   recordedBy: ["story-recorder/plan", "story-recorder/inventory", "story-recorder/mechanics"],
