@@ -11,7 +11,7 @@ export const fairweather0016CreamOnTheStep = {
   story: "story-written/fairweather",
   ownLength: 8720,
   prose: "txt",
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/reviewers",
   beats: "jsonl",
   issues: "txt",
   lore: [
@@ -51,6 +51,7 @@ export const fairweather0016CreamOnTheStep = {
     "story-recorder/mechanics",
     "story-recorder/inventory",
     "story-recorder/picture",
+    "story-recorder/memory",
   ],
   rulings: "jsonl",
   scenes: ["image/image-7ffa37a956afdf13", "image/image-9dce51de984935b6"],
