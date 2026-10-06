@@ -2,3 +2,8 @@ scene: "catching the first sun" - beat 9 is 05:45, before the ~06:20 sunrise
 continuity: "It's been cold every time till now" (b127) - b1: Cora's hand "warm now" in the loft
 continuity: "Ines Calderon is a Necromancer" (b55) - Cora no knower; no memory line learns/shows it
 continuity: "kittens and birds and mice" (b113) - raising limit shown, but no memory line shows it
+style: "she has never once seen Cora asleep" (beat 3) - No Tropes
+style: "nobody ever takes her notices" (beat 65) - Nobody Acts
+style: "Cora says nobody goes out on that glass" (beat 87) - Nobody Acts
+style: "it's clear she has never asked anyone in" (beat 101) - No Tropes
+style: "it's the best day of her whole life" (beat 124) - No Tropes
