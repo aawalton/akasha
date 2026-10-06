@@ -11,7 +11,7 @@ export const fairweather0015Gloves = {
   story: "story-written/fairweather",
   ownLength: 7502,
   prose: "txt",
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/game-master",
   beats: "jsonl",
   issues: "txt",
   lore: [
@@ -45,7 +45,6 @@ export const fairweather0015Gloves = {
     "character-other/fairweather-amara",
     "character-other/fairweather-nell",
   ],
-  reviewedBy: ["story-reviewer/holdings", "story-reviewer/continuity", "story-reviewer/scene"],
   recordedBy: [
     "story-recorder/plan",
     "story-recorder/mechanics",
