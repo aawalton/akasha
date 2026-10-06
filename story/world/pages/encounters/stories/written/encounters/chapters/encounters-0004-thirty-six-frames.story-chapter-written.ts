@@ -11,7 +11,7 @@ export const encounters0004ThirtySixFrames = {
   story: "story-written/encounters",
   ownLength: 5191,
   prose: "txt",
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/game-master",
   beats: "jsonl",
   issues: "txt",
   lore: [
@@ -28,7 +28,7 @@ export const encounters0004ThirtySixFrames = {
     "character-other/encounters-sofia",
     "character-other/encounters-priya",
   ],
-  reviewedBy: ["story-reviewer/holdings", "story-reviewer/continuity", "story-reviewer/scene"],
+  reviewedBy: ["story-reviewer/holdings", "story-reviewer/scene"],
   recordedBy: [
     "story-recorder/inventory",
     "story-recorder/mechanics",
