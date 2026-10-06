@@ -43,5 +43,10 @@ export const fairweather0016CreamOnTheStep = {
     "character-other/fairweather-noor",
     "character-other/fairweather-amara",
   ],
-  recordedBy: ["story-recorder/plan", "story-recorder/inventory", "story-recorder/mechanics"],
+  recordedBy: [
+    "story-recorder/plan",
+    "story-recorder/inventory",
+    "story-recorder/mechanics",
+    "story-recorder/memory",
+  ],
 } as const satisfies StoryChapterWritten
