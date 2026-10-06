@@ -8,10 +8,12 @@ import {
 import {
   bodyOf,
   errorOf,
+  HELD_AT_START,
   heldOf,
   markRead,
   nowPlayingControlled,
   nowPlayingOf,
+  playsHlsItself,
   progressWritten,
   seekableEnd,
   silenceWav,
@@ -24,6 +26,12 @@ import {
   placedOf,
   progressAt,
 } from "akasha/story/chapter/narration/modules/playhead/narration-playhead.module.code.ts"
+import {
+  nudged,
+  type Steering,
+  UNSTEERED,
+  useRecovery,
+} from "akasha/story/chapter/narration/modules/recovery/narration-recovery.module.code.ts"
 import type { ChapterHeld } from "akasha/story/chapter/narration/modules/telling/narration-telling.module.code.ts"
 import Hls, { type ErrorData } from "hls.js"
 import {
@@ -52,6 +60,7 @@ export type Narration = {
   readonly shown: NarrationShown
   readonly chapter: ChapterHeld | null
   readonly halted: boolean
+  readonly reconnecting: boolean
   readonly at: number
   readonly end: number
   readonly speed: number
@@ -78,24 +87,7 @@ type Session = {
 
 const SAVE_EVERY_SECONDS = 20
 
-const HLS = "application/vnd.apple.mpegurl"
-
-const CHROMIUM = /Chrome\//
-
-const HELD_AT_START = {
-  startPosition: 0,
-  liveSyncDurationCount: Number.MAX_SAFE_INTEGER,
-  liveMaxLatencyDurationCount: Number.POSITIVE_INFINITY,
-  liveDurationInfinity: true,
-} as const
-
-function playsHlsItself(audio: HTMLAudioElement): boolean {
-  return audio.canPlayType(HLS) !== "" && !CHROMIUM.test(navigator.userAgent)
-}
-
 const CHAPTERS_EVERY_MS = 4000
-
-const STALL_MS = 30_000
 
 const FIRST_PIECE_TRIES = 40
 
@@ -122,8 +114,9 @@ export function NarrationProvider({
   const session = useRef<Session | null>(null)
   const asking = useRef<PageAudioAsked | null>(null)
   const silence = useRef<string | null>(null)
-  const stall = useRef<ReturnType<typeof setTimeout> | null>(null)
   const streamed = useRef<Hls | null>(null)
+  const steering = useRef<Steering>(UNSTEERED)
+  const recovering = useRecovery(audioRef, steering)
   const [shown, setShown] = useState<NarrationShown>({ kind: "idle" })
   const [chapter, setChapter] = useState<ChapterHeld | null>(null)
   const [halted, setHalted] = useState(true)
@@ -211,7 +204,9 @@ export function NarrationProvider({
         const hls = new Hls(HELD_AT_START)
         streamed.current = hls
         hls.on(Hls.Events.ERROR, (_event: string, said: ErrorData) => {
-          if (said.fatal && streamed.current === hls) fail(`The stream failed: ${said.details}`)
+          if (said.fatal && streamed.current === hls) {
+            recovering.broken(`The stream failed: ${said.details}`)
+          }
         })
         hls.loadSource(reach.url(playlist))
         hls.attachMedia(audio)
@@ -224,7 +219,7 @@ export function NarrationProvider({
         fail(`The audio would not start: ${saidBy(thrown)}`)
       }
     },
-    [reach, fail, firstPieceIn, repace]
+    [reach, fail, firstPieceIn, repace, recovering.broken]
   )
 
   const play = useCallback(
@@ -390,6 +385,20 @@ export function NarrationProvider({
     if (asked !== null) play(asked)
   }, [play])
 
+  steering.current = {
+    live: () => session.current !== null && audioRef.current?.src !== silence.current,
+    nudge: () => nudged(audioRef.current, streamed.current),
+    keep: () => save(true),
+    reopen: () => {
+      const here = session.current
+      const at = chapterAt(here?.placed ?? [], audioRef.current?.currentTime ?? 0)
+      const held = at === null ? undefined : here?.chapters.get(at.id)
+      const asked = held ?? asking.current
+      if (asked !== null) play(asked)
+    },
+    giveUp: fail,
+  }
+
   useEffect(() => {
     if (shown.kind !== "playing") return
     const timer = setInterval(() => {
@@ -411,21 +420,7 @@ export function NarrationProvider({
     const audio = audioRef.current
     if (audio === null) return
     audio.disableRemotePlayback = true
-    const calm = (): undefined => {
-      if (stall.current !== null) clearTimeout(stall.current)
-      stall.current = null
-    }
-    const waiting = (): undefined => {
-      calm()
-      if (session.current === null) return
-      stall.current = setTimeout(() => fail("The narration stopped arriving."), STALL_MS)
-    }
-    const errored = (): undefined => {
-      if (session.current === null || audio.src === silence.current) return
-      fail(`The audio failed: ${audio.error?.message || `code ${audio.error?.code ?? "unknown"}`}`)
-    }
     const heard = (): undefined => {
-      calm()
       tick()
     }
     const playing = (): undefined => {
@@ -447,18 +442,15 @@ export function NarrationProvider({
       ["loadedmetadata", repace],
       ["timeupdate", heard],
       ["playing", heard],
-      ["waiting", waiting],
-      ["error", errored],
       ["play", playing],
       ["pause", halting],
       ["ended", ended],
     ]
     for (const [name, listener] of listened) audio.addEventListener(name, listener)
     return () => {
-      calm()
       for (const [name, listener] of listened) audio.removeEventListener(name, listener)
     }
-  }, [fail, tick, finished, save, repace])
+  }, [tick, finished, save, repace])
 
   useEffect(() => {
     nowPlayingControlled({
@@ -474,6 +466,7 @@ export function NarrationProvider({
       shown,
       chapter,
       halted,
+      reconnecting: recovering.reconnecting,
       at: place.at,
       end: place.end,
       speed,
@@ -484,7 +477,7 @@ export function NarrationProvider({
       retry,
       close,
     }),
-    [shown, chapter, halted, place, speed, faster, toggle, skip, seek, retry, close]
+    [shown, chapter, halted, recovering, place, speed, faster, toggle, skip, seek, retry, close]
   )
 
   const audioAsked = useMemo(() => ({ play }), [play])

@@ -13,6 +13,7 @@ export const narration = {
     "module/narration-listening",
     "module/narration-player",
     "module/narration-bar",
+    "module/narration-recovery",
   ],
   decisions: [
     {

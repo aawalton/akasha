@@ -52,9 +52,11 @@ export function NarrationBar() {
   const below =
     shown.kind === "failed"
       ? shown.error
-      : shown.kind === "opening"
-        ? "Opening the narration…"
-        : (chapter?.storyTitle ?? "")
+      : narration.reconnecting
+        ? "Reconnecting…"
+        : shown.kind === "opening"
+          ? "Opening the narration…"
+          : (chapter?.storyTitle ?? "")
 
   return (
     <section

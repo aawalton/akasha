@@ -17,6 +17,21 @@ const SILENCE_RATE = 8000
 
 export const SKIP_SECONDS = 15
 
+const HLS = "application/vnd.apple.mpegurl"
+
+const CHROMIUM = /Chrome\//
+
+export const HELD_AT_START = {
+  startPosition: 0,
+  liveSyncDurationCount: Number.MAX_SAFE_INTEGER,
+  liveMaxLatencyDurationCount: Number.POSITIVE_INFINITY,
+  liveDurationInfinity: true,
+} as const
+
+export function playsHlsItself(audio: HTMLAudioElement): boolean {
+  return audio.canPlayType(HLS) !== "" && !CHROMIUM.test(navigator.userAgent)
+}
+
 export const SPEEDS = [0.8, 1, 1.2, 1.4, 1.6, 1.8, 2] as const
 
 export const SPEED_KEPT_AS = "narration-speed"

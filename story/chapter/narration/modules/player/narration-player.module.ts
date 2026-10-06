@@ -41,7 +41,12 @@ export const narrationPlayer = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A stream that stops arriving for half a minute is a failure the bar shows.",
+      statement: "A stalled or broken stream is handed to recovery rather than failed at once.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A reopen narrates the chapter playing, so a retry keeps its speed and Now Playing.",
     },
     {
       decisionKind: "decision-kind/departure",
