@@ -68,7 +68,11 @@ export const fairweatherCora = {
     },
     {
       fact: "Cora lives alone in two rooms above a chandler's on Wick Lane.",
-      knowers: ["lore-disclosure/game-master", "character-other/fairweather-cora"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/fairweather-cora",
+        "character-other/fairweather-noor",
+      ],
     },
     {
       fact: "Cora drinks her tea black and strong with one sugar, and nobody has ever asked how she takes it.",
@@ -89,7 +93,11 @@ export const fairweatherCora = {
     },
     {
       fact: "The Warden Corisande Vane is called Cora.",
-      knowers: ["lore-disclosure/game-master", "character-player/fairweather-elsie"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-noor",
+      ],
     },
     {
       fact: "Cora has walked the Glasswood on Wardens' patrols, and knows its edge well.",

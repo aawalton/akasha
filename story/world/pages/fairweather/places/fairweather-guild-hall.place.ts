@@ -302,6 +302,7 @@ export const fairweatherGuildHall = {
         "character-other/fairweather-tamsin",
         "character-other/fairweather-tilly",
         "character-player/fairweather-elsie",
+        "character-other/fairweather-cora",
       ],
     },
     {

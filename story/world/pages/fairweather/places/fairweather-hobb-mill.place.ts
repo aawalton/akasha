@@ -26,7 +26,11 @@ export const fairweatherHobbMill = {
     },
     {
       fact: "A boggart is a knee-high, hairy house-spirit that turns spiteful when it is slighted.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/fairweather-cora",
+        "character-other/fairweather-noor",
+      ],
     },
     {
       fact: "For a month the Hobb Mill boggart has jammed the wheel with weed and stones every night.",
@@ -42,7 +46,11 @@ export const fairweatherHobbMill = {
     },
     {
       fact: "A boggart bites hard, throws stones, and slips into the dark between one blink and the next.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/fairweather-cora",
+        "character-other/fairweather-noor",
+      ],
     },
   ],
 } as const satisfies Place

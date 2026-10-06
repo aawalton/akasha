@@ -75,7 +75,19 @@ export const fairweatherNoor = {
     },
     {
       fact: "Noor rents a room above a chandler shop on Wick Lane, and eats alone.",
-      knowers: ["lore-disclosure/game-master", "character-other/fairweather-noor"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/fairweather-noor",
+        "character-other/fairweather-cora",
+      ],
+    },
+    {
+      fact: "Noor and Cora live above the same chandler on Wick Lane, and know each other only by sight and name.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/fairweather-noor",
+        "character-other/fairweather-cora",
+      ],
     },
     {
       fact: "Folk in the guild hall keep clear of the corner table where Noor sits alone.",
