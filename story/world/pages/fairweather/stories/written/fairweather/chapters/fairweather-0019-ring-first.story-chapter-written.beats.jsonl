@@ -23,12 +23,12 @@
 {"beat":23,"event":"Noor says things go wrong near her in the dark, worse than cups. Lines snap. Lanterns go out."}
 {"beat":24,"event":"Elsie says Cora has a lantern that drove a barrow-wight back, so a little dark won't mind it."}
 {"beat":25,"event":"Noor looks over at Cora by the clerk's desk. Cora looks back, level, over her ledger. Neither nods."}
-{"beat":26,"event":"Noor says the others won't want her in their boat. Elsie says they drew her in already."}
+{"beat":26,"event":"Noor says the others won't want her in their boat. Elsie says she drew Noor in already, with them."}
 {"beat":27,"event":"She opens her notebook to the Midsummer page and shows Noor the boat with the five heads."}
 {"beat":28,"event":"She points to the head with the long straight hair. She says, that one's you."}
 {"beat":29,"event":"Noor looks at the little drawn head a long time. Her gloved finger comes up and almost touches it."}
 {"beat":30,"event":"She says the hair's wrong. It's longer than that. Elsie fixes it there and then."}
-{"beat":31,"event":"Noor turns her cup a quarter turn. She says: I'll sit at the back. Not near the lantern.","changes":[{"page":"world-relationship/fairweather-elsie-noor","note":"Bond: Noor 7 → 9 (stand: drawn into the party's boat, and she says she'll come)","key":"relationshipPoints","from":7,"to":9}]}
+{"beat":31,"event":"Noor turns her cup a quarter turn. She says: I'll sit at the back. Not near the lantern."}
 {"beat":32,"event":"Elsie says yes, the back, wherever she likes. She doesn't squeal. Both hands go over her mouth."}
 {"beat":33,"event":"Noor's ears go pink under her hair. She says, dryly, that she can still hear Elsie not squealing."}
 {"beat":34,"event":"Elsie takes Noor's gloved hand across the table and squeezes it hard, both her hands round it."}
@@ -89,13 +89,13 @@
 {"beat":89,"event":"Elsie shuts her eyes in the sun. Noor's hand stays there, light, the leather warm from the sun."}
 {"beat":90,"event":"Elsie takes out the second glove and knits the second finger on the step, against Noor's knees."}
 {"beat":91,"event":"Cora's ledger lies open on her knee beside them. The page reads: Lantern Steps. Skills used, none."}
-{"beat":92,"event":"At noon Tamsin buys five hand pies from a stall at the top of the steps, a pip each.","at":"2026-06-19T12:00:00.000Z","changes":[{"page":"metric-character-currency/fairweather-tamsin","note":"Tamsin buys five hand pies on the Lantern Steps, a pip each: 236 → 231","key":"value","from":236,"to":231},{"page":"world-relationship/fairweather-elsie-tamsin","note":"Bond: Tamsin 87 → 88 (kindness: hand pies, and a rowing lesson)","key":"relationshipPoints","from":87,"to":88}]}
+{"beat":92,"event":"At noon Tamsin buys five hand pies from a stall at the top of the steps, a pip each.","at":"2026-06-19T12:00:00.000Z"}
 {"beat":93,"event":"Noor reaches into her coat to pay. Tamsin says she feeds the party, and Noor's on the notice now."}
 {"beat":94,"event":"Noor takes the pie. She holds it a moment in both gloved hands. She eats it all."}
 {"beat":95,"event":"Cora takes hers from Tamsin with a small inclined head. She eats standing up, looking at the water."}
 {"beat":96,"event":"Tamsin counts on her fingers between bites. Twelve lanterns for tomorrow. Eight short for the house."}
 {"beat":97,"event":"She stops. She looks at Noor. Four on the notice now. Twelve doesn't go eight and four."}
-{"beat":98,"event":"Elsie says Noor gets a whole share, of course she does. She says it at once, not even thinking.","changes":[{"page":"world-relationship/fairweather-elsie-noor","note":"Bond: Noor 9 → 11 (stand: of course Noor gets a whole share)","key":"relationshipPoints","from":9,"to":11}]}
+{"beat":98,"event":"Elsie says Noor gets a whole share, of course she does. She says it at once, not even thinking."}
 {"beat":99,"event":"Tamsin says course she does, and goes on frowning at her fingers, trying to make it go."}
 {"beat":100,"event":"Noor says flatly that she wants no share. She's coming to see fireworks from a boat that sinks."}
 {"beat":101,"event":"Elsie says she gets a share and they'll argue about it after. Noor says: ask me tomorrow."}
@@ -114,7 +114,7 @@
 {"beat":114,"event":"The agent says, not unkindly, that he'll be in his office at eight on the twenty-first."}
 {"beat":115,"event":"Elsie thanks him. She promises him a honey cake on the twenty-first, warm, and means it."}
 {"beat":116,"event":"Out on Coin Street Tamsin presses her knuckles to her mouth. She says a day ahead is ahead."}
-{"beat":117,"event":"Elsie hugs her round the middle, axe and all. Tamsin hugs back hard enough to lift her off her feet.","changes":[{"page":"world-relationship/fairweather-elsie-tamsin","note":"Bond: Tamsin 88 → 89 (kindness: a hug on Coin Street, a day ahead)","key":"relationshipPoints","from":88,"to":89}]}
+{"beat":117,"event":"Elsie hugs her round the middle, axe and all. Tamsin hugs back hard enough to lift her off her feet."}
 {"beat":118,"event":"Tamsin says she's off to the docks, to leave a letter for Mum at the wharf office about the house."}
 {"beat":119,"event":"Elsie says she has shopping on Spindle Lane. She looks at Cora. She says it's a secret shopping.","leave":["character-other/fairweather-tamsin"]}
 {"beat":120,"event":"At half past two on Spindle Lane Elsie goes into the wool shop with the grey skeins in its window.","at":"2026-06-19T14:30:00.000Z","place":"place/fairweather-lanternmere","present":["character-player/fairweather-elsie","character-other/fairweather-cora"]}
@@ -128,8 +128,8 @@
 {"beat":128,"event":"Elsie holds up the third skein. She says, that one, beaming. That's exactly the right grey."}
 {"beat":129,"event":"Cora says, not quite steadily, that she had better not ask what it's the right grey of."}
 {"beat":130,"event":"Elsie says she'd better not, because Elsie can't lie, and then the surprise would be spoiled."}
-{"beat":131,"event":"Elsie pays four pips for the skein. She tucks it into her satchel with the needles.","changes":[{"page":"metric-character-currency/fairweather-elsie","note":"Elsie buys one more grey skein on Spindle Lane: 4 pips, 201 → 197","key":"value","from":201,"to":197}]}
-{"beat":132,"event":"Outside a flower seller has lavender. Elsie buys one sprig for a pip and smells it.","at":"2026-06-19T15:00:00.000Z","changes":[{"page":"metric-character-currency/fairweather-elsie","note":"Elsie buys a sprig of lavender: 1 pip, 197 → 196","key":"value","from":197,"to":196}]}
+{"beat":131,"event":"Elsie pays four pips for the skein. She tucks it into her satchel with the needles."}
+{"beat":132,"event":"Outside a flower seller has lavender. Elsie buys one sprig for a pip and smells it.","at":"2026-06-19T15:00:00.000Z"}
 {"beat":133,"event":"Cora asks, very evenly, who the lavender is for. Elsie says it's for someone she loves."}
 {"beat":134,"event":"Cora says nothing at all. She looks at the lavender in Elsie's hand for a long moment."}
 {"beat":135,"event":"Elsie tucks the sprig into her satchel beside the wool and buckles it shut. She hums."}
@@ -177,7 +177,7 @@
 {"beat":177,"event":"A long moment. Behind her Amara hums two more, very quietly. Elsie scrubs the bowl and doesn't look."}
 {"beat":178,"event":"They go on like that, two notes each, back and forth, until the cakes smell done."}
 {"beat":179,"event":"Elsie takes them out. She turns round at last. Amara has both hands pressed flat over her mouth."}
-{"beat":180,"event":"Her eyes are wet and wide. She says, through her hands, that she did that with someone listening.","changes":[{"page":"world-relationship/fairweather-elsie-amara","note":"Bond: Amara 5 → 8 (held through a fear: two notes each, with someone there)","key":"relationshipPoints","from":5,"to":8}]}
+{"beat":180,"event":"Her eyes are wet and wide. She says, through her hands, that she did that with someone listening."}
 {"beat":181,"event":"Elsie says she wasn't listening. She was washing a bowl. Very hard. Amara laughs, wet."}
 {"beat":182,"event":"Elsie wraps six warm honey cakes in brown paper for Amara and twists the ends shut."}
 {"beat":183,"event":"Amara hugs the parcel, then all at once hugs Elsie, parcel and all, her face in Elsie's hair."}
@@ -196,4 +196,4 @@
 {"beat":196,"event":"She tells Moonpenny about the boat, and the bell, and Noor's yes, and the two notes in the kitchen."}
 {"beat":197,"event":"She puts the parcel in her satchel, ready, and buckles it, and sets the satchel by the door."}
 {"beat":198,"event":"She blows out the candle and lies down under the sloping roof. She hugs her pillow."}
-{"beat":199,"event":"Below on Thimble Canal the last lamplighter's boat goes by, its pole knocking on the bridges.","changes":[{"page":"metric-character-currency/fairweather-elsie","note":"Elsie ends the chapter with 196 pips","key":"history","append":{"turn":19,"value":196}},{"page":"metric-character-currency/fairweather-tamsin","note":"Tamsin ends the chapter with 231 pips","key":"history","append":{"turn":19,"value":231}},{"page":"metric-character-currency/fairweather-tilly","note":"Tilly ends the chapter with 274 pips, unchanged","key":"history","append":{"turn":19,"value":274}},{"page":"world-relationship/fairweather-elsie-tamsin","note":"Bond: Tamsin 89 → 90 (Tether: at day's end)","key":"relationshipPoints","from":89,"to":90}]}
+{"beat":199,"event":"Below on Thimble Canal a late punt goes by under the lit lanterns, its pole knocking on the bridges."}
