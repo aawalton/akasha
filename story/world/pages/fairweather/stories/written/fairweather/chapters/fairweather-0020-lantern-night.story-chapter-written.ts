@@ -9,9 +9,9 @@ export const fairweather0020LanternNight = {
   unit: "unit/words",
   title: "Lantern Night",
   story: "story-written/fairweather",
-  ownLength: 10025,
+  ownLength: 10045,
   prose: "txt",
-  stepStatus: "step-status/writer",
+  stepStatus: "step-status/recorders",
   beats: "jsonl",
   issues: "txt",
   lore: [
