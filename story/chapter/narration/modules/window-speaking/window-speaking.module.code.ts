@@ -12,7 +12,7 @@ const SLASH = /\s+\/\s+/g
 const ARROW = /\s*(?:→|->|=>)\s*/g
 const SPACES = /\s+/g
 const KIND_PARTS = /[-_]+/
-const ORNAMENT = /\p{So}+/gu
+const ORNAMENT = /\p{So}+|[*`]+/gu
 const RULE = /\s*(?:[—–=_~]{2,}|-{2,})\s*/g
 const LOOSE_ENDS = /^[\s,;:.]+|[\s,;:]+$/g
 const WORDED = /[\p{L}\p{N}]/u

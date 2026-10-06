@@ -111,6 +111,14 @@ describe("narrationSegmentsOf", () => {
     ).toEqual(["Start.", "eBook.", "Tom & Jerry left — fast."])
   })
 
+  test("a link glued to a word and a lone ellipsis in a paragraph are never spoken", () => {
+    expect(texts("Start.\nChapter 33: Finally, Sleephttps://x.y/z\nHe stopped. …")).toEqual([
+      "Start.",
+      "Chapter 33: Finally, Sleep.",
+      "He stopped.",
+    ])
+  })
+
   test("the same chapter always gives the same segments", () => {
     const prose = "One. Two.\n\n***\n\n:::level-up\nlevel: 2\n:::\nThree."
     expect(narrationSegmentsOf(prose)).toEqual(narrationSegmentsOf(prose))

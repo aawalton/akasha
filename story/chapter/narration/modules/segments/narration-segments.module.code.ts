@@ -33,7 +33,7 @@ const HEADING = /^\s*#{1,6}\s+(.*)$/
 const IMAGE = /!\[[^\]]*\]\([^)]*\)/g
 const PLACEHOLDER = /\[(?:image|img|picture|illustration)\b[^\]]*\]/gi
 const LINK = /\[([^\]]+)\]\([^)]*\)/g
-const URL = /\b(?:https?:\/\/|www\.)\S+/gi
+const URL = /(?:https?:\/\/|\bwww\.)\S+/gi
 const TAG = /<\/?[a-z][^>]*>/gi
 const ENTITY = /&(?:#(\d+)|#x([0-9a-f]+)|([a-z]+));/gi
 const NAMED: Readonly<Record<string, string>> = {
@@ -50,6 +50,9 @@ const NAMED: Readonly<Record<string, string>> = {
   rsquo: "’",
   ldquo: "“",
   rdquo: "”",
+  copy: "",
+  reg: "",
+  trade: "",
 }
 const DASH_RUN = /\s*(?:[—–]{2,}|[—–]?-{2,}[—–]?)\s*/g
 const ORNAMENT = /\p{So}+/gu
@@ -176,7 +179,12 @@ function pauseLast(blocks: Block[]): undefined {
   if (last !== undefined) last.pauseAfterMs = BREAK_PAUSE_MS
 }
 
-function setApart(blocks: Block[], sentences: string[], source: Source): undefined {
+function worded(sentences: string[]): string[] {
+  return sentences.filter((one) => WORDED.test(one))
+}
+
+function setApart(blocks: Block[], said: string[], source: Source): undefined {
+  const sentences = worded(said)
   if (sentences.length === 0) return
   pauseLast(blocks)
   blocks.push({ sentences, pauseAfterMs: BREAK_PAUSE_MS, ...source })
@@ -199,7 +207,7 @@ function lineInto(blocks: Block[], line: string, source: Source): undefined {
   const said = plainOf(line)
   if (!WORDED.test(said)) return
   blocks.push({
-    sentences: sentencesOf(spoken(said)),
+    sentences: worded(sentencesOf(spoken(said))),
     pauseAfterMs: PARAGRAPH_PAUSE_MS,
     ...source,
   })

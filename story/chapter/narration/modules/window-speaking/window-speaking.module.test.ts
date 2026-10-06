@@ -95,12 +95,14 @@ describe("spokenScreen", () => {
         "Individual Res threshold: ✓ Solenne",
         "[_______________________]",
         "Tier: Blind to Aware. ──────────",
+        "**Skill Synthesis**",
       ])
     ).toEqual([
       "Sheikah Slate Updated.",
       "Lean Your Will.",
       "Individual Res threshold: Solenne.",
       "Tier: Blind to Aware.",
+      "Skill Synthesis.",
     ])
   })
 })
