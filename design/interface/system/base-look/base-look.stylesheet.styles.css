@@ -7,6 +7,9 @@
     html[data-sidebar] main {
       margin-left: var(--sidebar-width-collapsed);
     }
+    html[data-sidebar] [data-slot="narration-bar"] {
+      left: var(--sidebar-width-collapsed);
+    }
     html[data-sidebar] aside[data-slot="app-shell-sidebar"] {
       width: var(--sidebar-width-collapsed);
     }
@@ -14,6 +17,9 @@
   @media (min-width: 776px) {
     html[data-sidebar="expanded"] main {
       margin-left: var(--sidebar-width-expanded);
+    }
+    html[data-sidebar="expanded"] [data-slot="narration-bar"] {
+      left: var(--sidebar-width-expanded);
     }
     html[data-sidebar="expanded"] aside[data-slot="app-shell-sidebar"] {
       width: var(--sidebar-width-expanded);
@@ -24,6 +30,9 @@
   }
   html[data-sidebar-ready] aside[data-slot="app-shell-sidebar"] {
     transition: width 200ms;
+  }
+  html[data-sidebar-ready] [data-slot="narration-bar"] {
+    transition: left 200ms;
   }
 
   nav[data-slot="app-shell-bottom-nav"] {

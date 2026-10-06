@@ -4,12 +4,21 @@ export const narrationBar = {
   id: "01a10dd0-f139-7d79-b4dd-3b0687bae198",
   type: "page-type/module",
   slug: "narration-bar",
-  definition: "the bar at the foot of the app that shows and steers the narration playing",
+  definition: "the bar that shows and steers the narration playing",
   code: "tsx",
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "The bar sits above the bottom navigation where the app shows one.",
+      statement: "The bar sits at the top of the app, below the phone's status bar.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "While the bar shows, the app's top inset is the bar's height, so no header hides under it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The bar starts where the sidebar ends, as the page does.",
     },
     {
       decisionKind: "decision-kind/departure",

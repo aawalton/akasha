@@ -6,9 +6,30 @@ import { surfaceClass } from "akasha/design/interface/primitive/modules/surface-
 import { SKIP_SECONDS } from "akasha/story/chapter/narration/modules/listening/narration-listening.module.code.ts"
 import { useNarration } from "akasha/story/chapter/narration/modules/player/narration-player.module.code.tsx"
 import { Pause, Play, RotateCcw, RotateCw, X } from "lucide-react"
+import { type RefObject, useLayoutEffect, useRef } from "react"
 
 const BAR =
-  "fixed inset-x-0 bottom-[calc(var(--safe-area-bottom)+var(--bottom-nav-height))] z-40 border-primary/10 border-t px-3 py-2 min-[584px]:bottom-0 min-[584px]:pb-[calc(var(--safe-area-bottom)+0.5rem)]"
+  "fixed inset-x-0 top-0 z-40 border-primary/10 border-b px-3 pt-[calc(env(safe-area-inset-top,0px)+0.5rem)] pb-2"
+
+const TOP_OFFSET = "--safe-area-top"
+
+function useTopOffset(bar: RefObject<HTMLElement | null>, shown: boolean): undefined {
+  useLayoutEffect(() => {
+    const element = bar.current
+    if (!shown || element === null) return
+    const root = document.documentElement
+    const held = (): undefined => {
+      root.style.setProperty(TOP_OFFSET, `${element.getBoundingClientRect().height}px`)
+    }
+    held()
+    const watching = new ResizeObserver(held)
+    watching.observe(element)
+    return () => {
+      watching.disconnect()
+      root.style.removeProperty(TOP_OFFSET)
+    }
+  }, [bar, shown])
+}
 
 function clock(seconds: number): string {
   const whole = Math.max(0, Math.floor(seconds))
@@ -18,6 +39,9 @@ function clock(seconds: number): string {
 
 export function NarrationBar() {
   const narration = useNarration()
+  const bar = useRef<HTMLElement>(null)
+  const showing = narration !== null && narration.shown.kind !== "idle"
+  useTopOffset(bar, showing)
   if (narration === null || narration.shown.kind === "idle") return null
   const { shown, chapter, halted, at, end } = narration
   const failed = shown.kind === "failed"
@@ -30,7 +54,12 @@ export function NarrationBar() {
         : (chapter?.storyTitle ?? "")
 
   return (
-    <section aria-label="Narration" className={cn(BAR, surfaceClass(1))}>
+    <section
+      ref={bar}
+      aria-label="Narration"
+      data-slot="narration-bar"
+      className={cn(BAR, surfaceClass(1))}
+    >
       <div className="mx-auto flex max-w-[68ch] items-center gap-2">
         <div className="min-w-0 flex-1">
           <p className="truncate font-medium text-primary text-sm">{title}</p>
