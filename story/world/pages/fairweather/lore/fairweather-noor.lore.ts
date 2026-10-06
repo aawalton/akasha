@@ -14,11 +14,23 @@ export const fairweatherNoor = {
     },
     {
       fact: "Noor is slender and long-limbed, with warm ivory skin, long straight black hair and kohl-lined eyes.",
-      knowers: ["lore-disclosure/game-master", "character-other/fairweather-noor"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/fairweather-noor",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-tamsin",
+        "character-other/fairweather-tilly",
+      ],
     },
     {
       fact: "Noor always wears black gloves and a long dark green coat.",
-      knowers: ["lore-disclosure/game-master", "character-other/fairweather-noor"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/fairweather-noor",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-tamsin",
+        "character-other/fairweather-tilly",
+      ],
     },
     {
       fact: "People step away from Noor in the street, and two parties have broken up around her.",
@@ -26,15 +38,29 @@ export const fairweatherNoor = {
         "lore-disclosure/game-master",
         "character-other/fairweather-noor",
         "character-other/fairweather-tamsin",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-tilly",
       ],
     },
     {
       fact: "Noor is dry, sharp and lonely, and certain that everyone leaves.",
-      knowers: ["lore-disclosure/game-master", "character-other/fairweather-noor"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/fairweather-noor",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-tamsin",
+        "character-other/fairweather-tilly",
+      ],
     },
     {
       fact: "The luck Noor bends is small and near: a spilled cup, a snapped lace, a stumble, a dropped coin.",
-      knowers: ["lore-disclosure/game-master", "character-other/fairweather-noor"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/fairweather-noor",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-tamsin",
+        "character-other/fairweather-tilly",
+      ],
     },
     {
       fact: "A Hexer bends bad luck toward those near her, and the bad luck never lands on the Hexer herself.",
@@ -44,6 +70,7 @@ export const fairweatherNoor = {
         "character-other/fairweather-cora",
         "character-other/fairweather-tamsin",
         "character-other/fairweather-tilly",
+        "character-player/fairweather-elsie",
       ],
     },
     {
