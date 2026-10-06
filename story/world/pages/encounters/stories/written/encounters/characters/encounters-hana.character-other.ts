@@ -6,5 +6,6 @@ export const encountersHana = {
   slug: "encounters-hana",
   title: "Hana",
   story: "story-written/encounters",
+  place: "place/encounters-islands-of-adventure",
   cover: "image/image-e010e57ff4e47b26",
 } as const satisfies CharacterOther
