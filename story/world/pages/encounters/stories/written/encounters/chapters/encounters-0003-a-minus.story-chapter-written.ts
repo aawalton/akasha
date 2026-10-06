@@ -11,7 +11,7 @@ export const encounters0003AMinus = {
   story: "story-written/encounters",
   ownLength: 6027,
   prose: "txt",
-  stepStatus: "step-status/writer",
+  stepStatus: "step-status/recorders",
   beats: "jsonl",
   issues: "txt",
   lore: [
