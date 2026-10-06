@@ -4,6 +4,7 @@ export const fairweather0015Gloves = {
   id: "01a111fa-7b85-7b35-8dda-6d94e3173470",
   type: "page-type/story-chapter-written",
   slug: "fairweather-0015-gloves",
+  cover: "image/image-e12a0a73adad69f6",
   position: 15,
   unit: "unit/words",
   title: "Gloves",
@@ -43,5 +44,11 @@ export const fairweather0015Gloves = {
     "character-other/fairweather-amara",
     "character-other/fairweather-nell",
   ],
-  recordedBy: ["story-recorder/plan", "story-recorder/mechanics", "story-recorder/inventory"],
+  recordedBy: [
+    "story-recorder/plan",
+    "story-recorder/mechanics",
+    "story-recorder/inventory",
+    "story-recorder/picture",
+  ],
+  scenes: ["image/image-e12a0a73adad69f6"],
 } as const satisfies StoryChapterWritten
