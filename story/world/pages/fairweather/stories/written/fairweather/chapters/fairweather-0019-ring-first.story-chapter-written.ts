@@ -11,7 +11,7 @@ export const fairweather0019RingFirst = {
   story: "story-written/fairweather",
   ownLength: 14968,
   prose: "txt",
-  stepStatus: "step-status/game-master",
+  stepStatus: "step-status/mechanics",
   beats: "jsonl",
   issues: "txt",
   lore: [
@@ -50,12 +50,7 @@ export const fairweather0019RingFirst = {
     "character-other/fairweather-tamsin",
     "character-other/fairweather-amara",
   ],
-  recordedBy: [
-    "story-recorder/plan",
-    "story-recorder/mechanics",
-    "story-recorder/inventory",
-    "story-recorder/memory",
-    "story-recorder/picture",
-  ],
+  reviewedBy: ["story-reviewer/holdings"],
+  rulings: "jsonl",
   scenes: ["image/image-de7f488106b61ec5"],
 } as const satisfies StoryChapterWritten
