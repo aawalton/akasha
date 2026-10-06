@@ -46,6 +46,9 @@ export const encountersSofia3 = {
         "lore-disclosure/game-master",
         "character-other/encounters-sofia",
         "character-player/encounters-alan",
+        "character-other/encounters-kenzie",
+        "character-other/encounters-priya",
+        "character-other/encounters-hana",
       ],
     },
     {
@@ -62,6 +65,9 @@ export const encountersSofia3 = {
         "lore-disclosure/game-master",
         "character-other/encounters-sofia",
         "character-player/encounters-alan",
+        "character-other/encounters-kenzie",
+        "character-other/encounters-priya",
+        "character-other/encounters-hana",
       ],
     },
     {
@@ -105,6 +111,9 @@ export const encountersSofia3 = {
         "lore-disclosure/game-master",
         "character-player/encounters-alan",
         "character-other/encounters-sofia",
+        "character-other/encounters-kenzie",
+        "character-other/encounters-priya",
+        "character-other/encounters-hana",
       ],
     },
     {
@@ -121,6 +130,7 @@ export const encountersSofia3 = {
         "lore-disclosure/game-master",
         "character-player/encounters-alan",
         "character-other/encounters-sofia",
+        "character-other/encounters-kenzie",
       ],
     },
     {

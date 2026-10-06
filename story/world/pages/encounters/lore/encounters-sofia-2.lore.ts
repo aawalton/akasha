@@ -91,6 +91,7 @@ export const encountersSofia2 = {
         "character-other/encounters-kenzie",
         "character-other/encounters-priya",
         "character-other/encounters-hana",
+        "character-player/encounters-alan",
       ],
     },
     {
@@ -99,6 +100,7 @@ export const encountersSofia2 = {
         "lore-disclosure/game-master",
         "character-other/encounters-sofia",
         "character-other/encounters-kenzie",
+        "character-player/encounters-alan",
       ],
     },
     {
@@ -120,6 +122,14 @@ export const encountersSofia2 = {
         "character-other/encounters-priya",
         "character-other/encounters-hana",
         "character-player/encounters-alan",
+      ],
+    },
+    {
+      fact: "Alan has Sofia's number in his phone, saved as Sofia (single rider).",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/encounters-alan",
+        "character-other/encounters-sofia",
       ],
     },
   ],

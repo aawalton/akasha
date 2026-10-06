@@ -13,11 +13,19 @@ export const encountersRoyalPacificRoom = {
     },
     {
       fact: "The room is bamboo, dark wood and Polynesian prints, with a desk and a deep armchair.",
-      knowers: ["lore-disclosure/game-master", "character-player/encounters-alan"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/encounters-alan",
+        "character-other/encounters-kenzie",
+      ],
     },
     {
       fact: "The window looks down over the hotel's lagoon pool and its palms.",
-      knowers: ["lore-disclosure/game-master", "character-player/encounters-alan"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/encounters-alan",
+        "character-other/encounters-kenzie",
+      ],
     },
     {
       fact: "The room has a mini fridge, a coffee maker, and a bathroom with a tub and shower.",

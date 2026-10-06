@@ -26,6 +26,7 @@ export const encountersKenzie = {
         "character-other/encounters-kenzie",
         "character-other/encounters-priya",
         "character-other/encounters-hana",
+        "character-player/encounters-alan",
       ],
     },
     {
@@ -36,6 +37,7 @@ export const encountersKenzie = {
         "character-other/encounters-kenzie",
         "character-other/encounters-priya",
         "character-other/encounters-hana",
+        "character-player/encounters-alan",
       ],
     },
     {
@@ -89,6 +91,7 @@ export const encountersKenzie = {
         "character-other/encounters-kenzie",
         "character-other/encounters-priya",
         "character-other/encounters-hana",
+        "character-player/encounters-alan",
       ],
     },
     {
@@ -99,6 +102,7 @@ export const encountersKenzie = {
         "character-other/encounters-kenzie",
         "character-other/encounters-priya",
         "character-other/encounters-hana",
+        "character-player/encounters-alan",
       ],
     },
     {
@@ -109,6 +113,7 @@ export const encountersKenzie = {
         "character-other/encounters-kenzie",
         "character-other/encounters-priya",
         "character-other/encounters-hana",
+        "character-player/encounters-alan",
       ],
     },
     {
@@ -129,6 +134,7 @@ export const encountersKenzie = {
         "character-other/encounters-kenzie",
         "character-other/encounters-priya",
         "character-other/encounters-hana",
+        "character-player/encounters-alan",
       ],
     },
     {
@@ -171,6 +177,7 @@ export const encountersKenzie = {
         "character-other/encounters-kenzie",
         "character-other/encounters-priya",
         "character-other/encounters-hana",
+        "character-player/encounters-alan",
       ],
     },
     {
@@ -181,19 +188,32 @@ export const encountersKenzie = {
         "character-other/encounters-kenzie",
         "character-other/encounters-priya",
         "character-other/encounters-hana",
+        "character-player/encounters-alan",
       ],
     },
     {
       fact: "In bed Kenzie takes charge, talks dirty without pause, and rides hard and loud.",
-      knowers: ["lore-disclosure/game-master", "character-other/encounters-kenzie"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/encounters-kenzie",
+        "character-player/encounters-alan",
+      ],
     },
     {
       fact: "Kenzie loves edging a man, riding him to the brink and stopping, over and over, until he begs.",
-      knowers: ["lore-disclosure/game-master", "character-other/encounters-kenzie"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/encounters-kenzie",
+        "character-player/encounters-alan",
+      ],
     },
     {
       fact: "Kenzie comes loud and often, and squirts when she is fingered hard enough.",
-      knowers: ["lore-disclosure/game-master", "character-other/encounters-kenzie"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/encounters-kenzie",
+        "character-player/encounters-alan",
+      ],
     },
     {
       fact: "Kenzie wants a threesome with a man and one of her friends, and has said so to Hana.",
@@ -241,7 +261,11 @@ export const encountersKenzie = {
     },
     {
       fact: "Kenzie means to size up Alan herself, the day after Sofia's night with him.",
-      knowers: ["lore-disclosure/game-master", "character-other/encounters-kenzie"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/encounters-kenzie",
+        "character-player/encounters-alan",
+      ],
     },
     {
       fact: "Kenzie told Alan she will find him if Sofia comes back unhappy.",
@@ -252,6 +276,54 @@ export const encountersKenzie = {
         "character-other/encounters-kenzie",
         "character-other/encounters-priya",
         "character-other/encounters-hana",
+      ],
+    },
+    {
+      fact: "Chapter 2: Kenzie dropped into Alan's table at the Royal Pacific lounge to size him up.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/encounters-alan",
+        "character-other/encounters-kenzie",
+      ],
+    },
+    {
+      fact: "Kenzie fucked Alan in his Royal Pacific room, and edged him until he begged.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/encounters-alan",
+        "character-other/encounters-kenzie",
+      ],
+    },
+    {
+      fact: "Kenzie gave Alan her full approval, and means to tell Sofia so.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/encounters-alan",
+        "character-other/encounters-kenzie",
+      ],
+    },
+    {
+      fact: "Alan rated Kenzie an eleven out of ten.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/encounters-alan",
+        "character-other/encounters-kenzie",
+      ],
+    },
+    {
+      fact: "Kenzie told Alan that Sofia might want a night with both of them.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/encounters-alan",
+        "character-other/encounters-kenzie",
+      ],
+    },
+    {
+      fact: "Kenzie stayed the night in Alan's room at the Royal Pacific.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/encounters-alan",
+        "character-other/encounters-kenzie",
       ],
     },
   ],

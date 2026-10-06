@@ -13,11 +13,19 @@ export const encountersRoyalPacificLounge = {
     },
     {
       fact: "Orchid Court Lounge is the Royal Pacific's lobby bar, under a glass roof among orchids and palms.",
-      knowers: ["lore-disclosure/game-master", "character-player/encounters-alan"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/encounters-alan",
+        "character-other/encounters-kenzie",
+      ],
     },
     {
       fact: "The lounge serves sushi and cocktails at low rattan chairs, beside the lobby's fountain.",
-      knowers: ["lore-disclosure/game-master", "character-player/encounters-alan"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/encounters-alan",
+        "character-other/encounters-kenzie",
+      ],
     },
   ],
 } as const satisfies Place
