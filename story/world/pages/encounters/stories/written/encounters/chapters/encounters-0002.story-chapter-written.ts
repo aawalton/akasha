@@ -10,5 +10,12 @@ export const encounters0002 = {
   story: "story-written/encounters",
   ownLength: 0,
   prose: "txt",
-  stepStatus: "step-status/world-builder",
+  stepStatus: "step-status/game-master",
+  lore: [
+    "lore/encounters-kenzie",
+    "lore/encounters-sofia",
+    "lore/encounters-sofia-2",
+    "place/encounters-royal-pacific-lounge",
+    "place/encounters-royal-pacific-room",
+  ],
 } as const satisfies StoryChapterWritten
