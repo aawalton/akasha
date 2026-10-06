@@ -30,6 +30,7 @@ export const encounters0006TheList = {
     "character-other/encounters-sofia",
     "character-other/encounters-kenzie",
   ],
+  reviewedBy: ["story-reviewer/holdings"],
   recordedBy: [
     "story-recorder/plan",
     "story-recorder/inventory",
