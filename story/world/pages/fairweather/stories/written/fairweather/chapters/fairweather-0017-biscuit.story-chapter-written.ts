@@ -11,7 +11,7 @@ export const fairweather0017Biscuit = {
   story: "story-written/fairweather",
   ownLength: 12614,
   prose: "txt",
-  stepStatus: "step-status/game-master",
+  stepStatus: "step-status/mechanics",
   beats: "jsonl",
   issues: "txt",
   lore: [
@@ -49,13 +49,6 @@ export const fairweather0017Biscuit = {
     "character-other/fairweather-nell",
   ],
   reviewedBy: ["story-reviewer/holdings"],
-  recordedBy: [
-    "story-recorder/plan",
-    "story-recorder/inventory",
-    "story-recorder/mechanics",
-    "story-recorder/memory",
-    "story-recorder/picture",
-  ],
   scenes: [
     "image/image-40c69dc3dad284d6",
     "image/image-c531cc10abc00a2d",
