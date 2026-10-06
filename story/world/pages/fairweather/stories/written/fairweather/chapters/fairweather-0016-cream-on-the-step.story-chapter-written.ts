@@ -11,7 +11,7 @@ export const fairweather0016CreamOnTheStep = {
   story: "story-written/fairweather",
   ownLength: 8725,
   prose: "txt",
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/game-master",
   beats: "jsonl",
   issues: "txt",
   lore: [
@@ -45,7 +45,6 @@ export const fairweather0016CreamOnTheStep = {
     "character-other/fairweather-noor",
     "character-other/fairweather-amara",
   ],
-  reviewedBy: ["story-reviewer/holdings", "story-reviewer/continuity", "story-reviewer/scene"],
   recordedBy: [
     "story-recorder/plan",
     "story-recorder/inventory",

@@ -1,3 +1,9 @@
 holdings: beat 24: Tamsin catches Elsie's coffee mid-air, a +1 kindness (help) Tamsin's guild hall bond misses
 continuity: glove "on the sill, where she had left it" (beat 1) - ch15: she put it under her pillow
 scene: "more than she usually said before six" - beats 5-6 are at 06:30, after six
+style: "she went down into sleep with the sound of it, still holding on" - No Sign-Off
+style: "and Elsie falls asleep to it" (beat 84) - No Sign-Off
+style: "Not a drop went over." - Nobody Acts
+style: "not a drop goes over" (beat 24) - Nobody Acts
+style: "they pass on the stair, never speaking" (beat 40) - No Tropes
+style: "that's because Cora never sleeps" (beat 42) - No Tropes
