@@ -6,6 +6,6 @@ export const encountersAlan = {
   slug: "encounters-alan",
   title: "Alan",
   story: "story-written/encounters",
-  place: "place/encounters-royal-pacific-room",
+  place: "place/encounters-cabana-bay-room",
   person: "person/alan",
 } as const satisfies CharacterPlayer
