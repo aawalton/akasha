@@ -1,4 +1,4 @@
-continuity: "Sofia nods. 'Item five,' she says" - reads as Sofia; beat 71 has Priya read item five
-continuity: "You were my lab partner" - no memory line shows Alan or reader the lab-partner fact (priya)
-continuity: the five-color list Sofia and Priya wrote is shown, but no memory line has priya-2 fact of it
-continuity: "the two queen beds, the retro desk" - Alan is no knower of that cabana-bay-room fact
+continuity: beat 25 memory: "is who Sofia confides in" - prose shows only that they were lab partners
+continuity: beat 9 memory: "a mini fridge ... a split bathroom" - prose shows only the beds and desk
+continuity: beat 17 memory: "in Priya's colored pens" - prose never says whose pens the five colors are
+continuity: beat 13 memory: "neither can stop for minutes" - prose now shows a full minute, no longer minutes
