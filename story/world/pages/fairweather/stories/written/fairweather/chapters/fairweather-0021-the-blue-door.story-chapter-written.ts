@@ -13,6 +13,7 @@ export const fairweather0021TheBlueDoor = {
   prose: "txt",
   stepStatus: "step-status/reviewers",
   beats: "jsonl",
+  issues: "txt",
   lore: [
     "lore/fairweather-amara",
     "lore/fairweather-cora",
@@ -52,6 +53,7 @@ export const fairweather0021TheBlueDoor = {
     "character-other/fairweather-noor",
     "character-other/fairweather-amara",
   ],
+  reviewedBy: ["story-reviewer/style"],
   recordedBy: [
     "story-recorder/plan",
     "story-recorder/mechanics",
