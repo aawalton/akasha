@@ -127,7 +127,12 @@ export const encountersPriya2 = {
     },
     {
       fact: "Priya has wondered what kissing Sofia would be like, and never said so.",
-      knowers: ["lore-disclosure/game-master", "character-other/encounters-priya"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/encounters-priya",
+        "character-player/encounters-alan",
+        "character-other/encounters-sofia",
+      ],
     },
     {
       fact: "Sofia and Priya wrote a list of what they want to try with Alan, in Priya's colored pens.",
@@ -136,6 +141,15 @@ export const encountersPriya2 = {
         "character-other/encounters-sofia",
         "character-other/encounters-priya",
         "character-player/encounters-alan",
+      ],
+    },
+    {
+      fact: "Chapter 8: Priya texted Alan with Sofia, to come to Sofia's Cabana Bay room, a list in hand.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/encounters-alan",
+        "character-other/encounters-priya",
+        "character-other/encounters-sofia",
       ],
     },
   ],

@@ -33,6 +33,7 @@ export const encountersSofia3 = {
         "character-player/encounters-alan",
         "character-other/encounters-hana",
         "character-other/encounters-kenzie",
+        "character-other/encounters-priya",
       ],
     },
     {
@@ -42,6 +43,7 @@ export const encountersSofia3 = {
         "character-other/encounters-sofia",
         "character-player/encounters-alan",
         "character-other/encounters-kenzie",
+        "character-other/encounters-priya",
       ],
     },
     {
@@ -161,7 +163,12 @@ export const encountersSofia3 = {
     },
     {
       fact: "Sofia has wondered since freshman year what kissing Priya would be like, and never said so.",
-      knowers: ["lore-disclosure/game-master", "character-other/encounters-sofia"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/encounters-sofia",
+        "character-player/encounters-alan",
+        "character-other/encounters-priya",
+      ],
     },
     {
       fact: "When Sofia and Priya get the giggles together, neither can stop for minutes.",
@@ -171,6 +178,7 @@ export const encountersSofia3 = {
         "character-other/encounters-kenzie",
         "character-other/encounters-priya",
         "character-other/encounters-hana",
+        "character-player/encounters-alan",
       ],
     },
     {
@@ -190,6 +198,34 @@ export const encountersSofia3 = {
         "character-other/encounters-kenzie",
         "character-other/encounters-priya",
         "character-other/encounters-hana",
+        "character-player/encounters-alan",
+      ],
+    },
+    {
+      fact: "Sofia and Priya kissed for the first time, in Sofia's Cabana Bay room, as Alan watched.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/encounters-alan",
+        "character-other/encounters-sofia",
+        "character-other/encounters-priya",
+      ],
+    },
+    {
+      fact: "Alan fucked Sofia and Priya together in Sofia's Cabana Bay room, and came in both.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/encounters-alan",
+        "character-other/encounters-sofia",
+        "character-other/encounters-priya",
+      ],
+    },
+    {
+      fact: "Sofia rated her night with Alan and Priya an eleven in her phone's ride list.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/encounters-alan",
+        "character-other/encounters-sofia",
+        "character-other/encounters-priya",
       ],
     },
   ],

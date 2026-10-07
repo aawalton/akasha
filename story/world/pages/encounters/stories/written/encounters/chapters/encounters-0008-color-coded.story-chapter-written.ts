@@ -11,9 +11,8 @@ export const encounters0008ColorCoded = {
   story: "story-written/encounters",
   ownLength: 5245,
   prose: "txt",
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/player",
   beats: "jsonl",
-  issues: "txt",
   lore: [
     "lore/encounters-hana",
     "lore/encounters-hana-2",
@@ -33,7 +32,12 @@ export const encounters0008ColorCoded = {
     "character-other/encounters-kenzie",
     "character-other/encounters-hana",
   ],
-  reviewedBy: ["story-reviewer/scene", "story-reviewer/holdings", "story-reviewer/style"],
+  reviewedBy: [
+    "story-reviewer/scene",
+    "story-reviewer/holdings",
+    "story-reviewer/style",
+    "story-reviewer/continuity",
+  ],
   recordedBy: [
     "story-recorder/plan",
     "story-recorder/mechanics",
@@ -41,6 +45,5 @@ export const encounters0008ColorCoded = {
     "story-recorder/picture",
     "story-recorder/memory",
   ],
-  rulings: "jsonl",
   scenes: ["image/image-0e217c436aae5ba2"],
 } as const satisfies StoryChapterWritten

@@ -209,6 +209,7 @@ export const encountersPriya = {
         "character-other/encounters-priya",
         "character-player/encounters-alan",
         "character-other/encounters-hana",
+        "character-other/encounters-sofia",
       ],
     },
     {
