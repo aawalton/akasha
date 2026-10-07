@@ -54,6 +54,7 @@ export const fairweather0021TheBlueDoor = {
     "character-other/fairweather-amara",
   ],
   reviewedBy: ["story-reviewer/holdings"],
+  recordedBy: ["story-recorder/plan"],
   rulings: "jsonl",
   scenes: [
     "image/image-58343c6eeb3e56ef",
