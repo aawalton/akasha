@@ -11,7 +11,7 @@ export const encounters0007TheLastTime = {
   story: "story-written/encounters",
   ownLength: 4939,
   prose: "txt",
-  stepStatus: "step-status/mechanics",
+  stepStatus: "step-status/writer",
   beats: "jsonl",
   issues: "txt",
   lore: [
@@ -34,6 +34,6 @@ export const encounters0007TheLastTime = {
     "character-other/encounters-priya",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/holdings", "story-reviewer/scene"],
-  recordedBy: ["story-recorder/plan", "story-recorder/mechanics"],
+  recordedBy: ["story-recorder/plan", "story-recorder/mechanics", "story-recorder/inventory"],
   scenes: ["image/image-b9b28c93d071ecc7"],
 } as const satisfies StoryChapterWritten
