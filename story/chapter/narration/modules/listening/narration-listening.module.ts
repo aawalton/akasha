@@ -41,5 +41,9 @@ export const narrationListening = {
       decisionKind: "decision-kind/departure",
       statement: "A moment of silence played on the tap opens the audio before the stream arrives.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Handing the stream to the audio element is one function for every browser.",
+    },
   ],
 } as const satisfies Module

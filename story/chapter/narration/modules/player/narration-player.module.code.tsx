@@ -10,7 +10,6 @@ import {
   bodyOf,
   errorOf,
   firstPieceIn,
-  HELD_AT_START,
   heldOf,
   JSON_SENT,
   markRead,
@@ -20,6 +19,7 @@ import {
   progressWritten,
   seekableEnd,
   silenceWav,
+  streamedInto,
   useSpeed,
 } from "akasha/story/chapter/narration/modules/listening/narration-listening.module.code.ts"
 import {
@@ -35,13 +35,13 @@ import {
 import {
   nudged,
   type Steering,
-  streamLost,
   UNSTEERED,
   useLostSession,
   useRecovery,
 } from "akasha/story/chapter/narration/modules/recovery/narration-recovery.module.code.ts"
+import { useNarrationReport } from "akasha/story/chapter/narration/modules/report/narration-report.module.code.ts"
 import type { ChapterHeld } from "akasha/story/chapter/narration/modules/telling/narration-telling.module.code.ts"
-import Hls, { type ErrorData } from "hls.js"
+import Hls from "hls.js"
 import {
   createContext,
   type ReactNode,
@@ -116,7 +116,8 @@ export function NarrationProvider({
   const silence = useRef<string | null>(null)
   const streamed = useRef<Hls | null>(null)
   const steering = useRef<Steering>(UNSTEERED)
-  const recovering = useRecovery(audioRef, steering)
+  const report = useNarrationReport(audioRef, reach.fetch, session)
+  const recovering = useRecovery(audioRef, steering, report)
   const told = useLostSession(audioRef, recovering.broken, session)
   const [shown, setShown] = useState<NarrationShown>({ kind: "idle" })
   const [chapter, setChapter] = useState<ChapterHeld | null>(null)
@@ -188,18 +189,9 @@ export function NarrationProvider({
         return
       }
       if (asking.current !== asked) return
-      if (playsHlsItself(audio)) audio.src = reach.url(playlist)
-      else {
-        const hls = new Hls(HELD_AT_START)
-        streamed.current = hls
-        hls.on(Hls.Events.ERROR, (_event: string, said: ErrorData) => {
-          if (streamed.current === hls && streamLost(said.fatal, said.response?.code)) {
-            recovering.broken(`The stream failed: ${said.details}`)
-          }
-        })
-        hls.loadSource(reach.url(playlist))
-        hls.attachMedia(audio)
-      }
+      streamed.current = streamedInto(audio, reach.url(playlist), (from, why) => {
+        if (streamed.current === from) recovering.broken(why)
+      })
       repace()
       try {
         await audio.play()

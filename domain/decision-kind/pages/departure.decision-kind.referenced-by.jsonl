@@ -3804,6 +3804,7 @@
 {"propertySlug":"decision-kind","path":"story/chapter/narration/modules/player/narration-player.module.ts","id":"01a10dd0-f13a-7e47-8551-b06d2fd85233"}
 {"propertySlug":"decision-kind","path":"story/chapter/narration/modules/playhead/narration-playhead.module.ts","id":"01a10dd0-f13a-787c-a1a3-f4f3bb9ab4b5"}
 {"propertySlug":"decision-kind","path":"story/chapter/narration/modules/recovery/narration-recovery.module.ts","id":"01a111c2-21eb-76e4-8f9a-4d8209ace7cd"}
+{"propertySlug":"decision-kind","path":"story/chapter/narration/modules/report/narration-report.module.ts","id":"01a113fa-3d0d-7449-b997-fe9546f82d11"}
 {"propertySlug":"decision-kind","path":"story/chapter/narration/modules/segments/narration-segments.module.ts","id":"01a10dc1-6462-7fc5-8567-7b9132654b76"}
 {"propertySlug":"decision-kind","path":"story/chapter/narration/modules/telling/narration-telling.module.ts","id":"01a10dc7-ce6c-7342-9c2f-af0d90fb646a"}
 {"propertySlug":"decision-kind","path":"story/chapter/narration/modules/window-speaking/window-speaking.module.ts","id":"01a10dbf-2e7b-7bee-aa86-18cca7f7eead"}

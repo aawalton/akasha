@@ -2634,6 +2634,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"story/chapter/narration/modules/player/narration-player.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"story/chapter/narration/modules/playhead/narration-playhead.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"story/chapter/narration/modules/recovery/narration-recovery.module.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"story/chapter/narration/modules/report/narration-report.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"story/chapter/narration/modules/segments/narration-segments.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"story/chapter/narration/modules/telling/narration-telling.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"story/chapter/narration/modules/window-speaking/window-speaking.module.ts","typed":true,"deferred":false}

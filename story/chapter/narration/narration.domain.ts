@@ -14,6 +14,7 @@ export const narration = {
     "module/narration-player",
     "module/narration-bar",
     "module/narration-recovery",
+    "module/narration-report",
   ],
   decisions: [
     {

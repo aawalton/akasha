@@ -1,3 +1,4 @@
+import type { Report } from "akasha/story/chapter/narration/modules/report/narration-report.module.code.ts"
 import { type RefObject, useCallback, useEffect, useRef, useState } from "react"
 
 export const NUDGE_AFTER_MS = 20_000
@@ -104,7 +105,8 @@ export function healed(from: number | null, at: number): boolean {
 
 export function useRecovery(
   audio: RefObject<HTMLAudioElement | null>,
-  steering: RefObject<Steering>
+  steering: RefObject<Steering>,
+  report: Report
 ): Recovering {
   const [reconnecting, setReconnecting] = useState(false)
   const tried = useRef(0)
@@ -124,10 +126,12 @@ export function useRecovery(
       calm()
       const steer = steering.current
       if (!steer.live()) return
+      report("broken", { why })
       const wait = reopenWait(tried.current)
       if (wait === null) {
         tried.current = 0
         setReconnecting(false)
+        report("give-up", { why })
         steer.giveUp(why)
         return
       }
@@ -137,10 +141,11 @@ export function useRecovery(
       steer.keep()
       reopening.current = setTimeout(() => {
         reopening.current = null
+        report("reopen")
         steering.current.reopen()
       }, wait)
     },
-    [calm, steering]
+    [calm, steering, report]
   )
 
   useEffect(() => {
@@ -151,7 +156,9 @@ export function useRecovery(
       if (!steering.current.live() || element.paused) return
       timers.current.push(
         setTimeout(() => {
-          if (steering.current.live()) steering.current.nudge()
+          if (!steering.current.live()) return
+          report("nudge")
+          steering.current.nudge()
         }, NUDGE_AFTER_MS)
       )
       timers.current.push(
@@ -188,7 +195,7 @@ export function useRecovery(
       reopening.current = null
       for (const [name, listener] of listened) element.removeEventListener(name, listener)
     }
-  }, [audio, steering, calm, broken])
+  }, [audio, steering, calm, broken, report])
 
   return { reconnecting, broken }
 }
