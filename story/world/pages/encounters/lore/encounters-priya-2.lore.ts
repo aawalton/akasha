@@ -135,6 +135,7 @@ export const encountersPriya2 = {
         "lore-disclosure/game-master",
         "character-other/encounters-sofia",
         "character-other/encounters-priya",
+        "character-player/encounters-alan",
       ],
     },
   ],
