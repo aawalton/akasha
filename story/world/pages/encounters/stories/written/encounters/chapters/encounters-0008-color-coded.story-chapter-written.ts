@@ -1,18 +1,21 @@
 import type { StoryChapterWritten } from "akasha/story/world/stories/written/chapters/story-chapter-written.page-type.types.ts"
 
-export const encounters0008 = {
+export const encounters0008ColorCoded = {
   id: "01a113c4-38ad-7d50-9a45-e7faa997d69d",
   type: "page-type/story-chapter-written",
-  slug: "encounters-0008",
+  slug: "encounters-0008-color-coded",
   position: 8,
   unit: "unit/words",
-  title: "Chapter 8",
+  title: "Color-Coded",
   story: "story-written/encounters",
-  ownLength: 0,
+  ownLength: 5232,
   prose: "txt",
-  stepStatus: "step-status/writer",
+  stepStatus: "step-status/recorders",
   beats: "jsonl",
   lore: [
+    "lore/encounters-hana",
+    "lore/encounters-hana-2",
+    "lore/encounters-kenzie",
     "lore/encounters-kenzie-2",
     "lore/encounters-priya",
     "lore/encounters-priya-2",
@@ -20,6 +23,13 @@ export const encounters0008 = {
     "lore/encounters-sofia-2",
     "lore/encounters-sofia-3",
     "place/encounters-cabana-bay-room",
+  ],
+  characters: [
+    "character-player/encounters-alan",
+    "character-other/encounters-sofia",
+    "character-other/encounters-priya",
+    "character-other/encounters-kenzie",
+    "character-other/encounters-hana",
   ],
   recordedBy: ["story-recorder/inventory", "story-recorder/mechanics", "story-recorder/plan"],
   rulings: "jsonl",
