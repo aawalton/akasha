@@ -60,13 +60,13 @@ export type NarrationReach = {
   readonly url: (path: string) => string
 }
 
-export type NarrationShown =
+type NarrationShown =
   | { readonly kind: "idle" }
   | { readonly kind: "opening"; readonly asked: PageAudioAsked }
   | { readonly kind: "playing"; readonly asked: PageAudioAsked }
   | { readonly kind: "failed"; readonly asked: PageAudioAsked; readonly error: string }
 
-export type Narration = {
+type Narration = {
   readonly shown: NarrationShown
   readonly chapter: ChapterHeld | null
   readonly halted: boolean

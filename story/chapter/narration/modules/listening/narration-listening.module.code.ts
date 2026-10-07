@@ -67,7 +67,7 @@ export function streamedInto(
 
 export const SPEEDS = [0.8, 1, 1.2, 1.4, 1.6, 1.8, 2] as const
 
-export const SPEED_KEPT_AS = "narration-speed"
+const SPEED_KEPT_AS = "narration-speed"
 
 export function speedAfter(speed: number): number {
   const at = (SPEEDS as readonly number[]).indexOf(speed)
@@ -83,7 +83,7 @@ export function speedShown(speed: number): string {
   return `${speed}×`
 }
 
-export function paced(audio: HTMLAudioElement, speed: number): undefined {
+function paced(audio: HTMLAudioElement, speed: number): undefined {
   audio.defaultPlaybackRate = speed
   if (audio.playbackRate !== speed) audio.playbackRate = speed
   audio.preservesPitch = true

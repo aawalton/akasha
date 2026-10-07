@@ -12,7 +12,7 @@ import {
 } from "akasha/story/chapter/narration/modules/segments/narration-segments.module.code.ts"
 import { wordCount } from "akasha/story/engine/core/modules/word-count/word-count.module.code.ts"
 
-export const VOICE = "af_heart"
+const VOICE = "af_heart"
 
 const VOICE_ORIGIN_ENV = "VOICE_INFER_ORIGIN"
 
@@ -58,14 +58,14 @@ export type ChapterHeld = {
   readonly completedAt: string | null
 }
 
-export type ReadProgress = {
+type ReadProgress = {
   readonly ownProgress: number | null
   readonly ownLength: number | null
 }
 
 const UNREAD: ReadProgress = { ownProgress: null, ownLength: null }
 
-export type Told<T> = { readonly held: T } | { readonly refused: string; readonly status: number }
+type Told<T> = { readonly held: T } | { readonly refused: string; readonly status: number }
 
 type ChapterRow = ChapterHeld & { readonly story: string; readonly position: number | null }
 
@@ -81,7 +81,7 @@ export function pieceNameIs(name: string): boolean {
   return PIECE_NAME.test(name)
 }
 
-export function resumedAt(
+function resumedAt(
   segments: readonly NarrationSegment[],
   { ownProgress, ownLength }: ReadProgress
 ): number {
@@ -114,9 +114,9 @@ export function spokenSegmentsOf(
   return [...opening, ...kept]
 }
 
-export type SentenceStart = readonly [charIndex: number, wordStart: number]
+type SentenceStart = readonly [charIndex: number, wordStart: number]
 
-export type TimedSegment = NarrationSegment & { readonly sentences: readonly SentenceStart[] }
+type TimedSegment = NarrationSegment & { readonly sentences: readonly SentenceStart[] }
 
 export function withSentences(segments: readonly NarrationSegment[]): TimedSegment[] {
   return segments.map((one, at) => {

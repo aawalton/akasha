@@ -5,9 +5,9 @@ import {
 } from "akasha/story/chapter/narration/modules/report/narration-report.module.code.ts"
 import { type RefObject, useCallback, useEffect, useRef, useState } from "react"
 
-export const NUDGE_AFTER_MS = 20_000
+const NUDGE_AFTER_MS = 20_000
 
-export const REOPEN_AFTER_MS = 120_000
+const REOPEN_AFTER_MS = 120_000
 
 export const REOPENS = 3
 
@@ -21,7 +21,7 @@ export const KEEP_AHEAD_SECONDS = 600
 
 export const TOP_UP_EVERY_MS = 60_000
 
-export const DRY_WAIT_MS = 10_000
+const DRY_WAIT_MS = 10_000
 
 const DRY_SECONDS = 2
 
@@ -31,7 +31,7 @@ const HELD_CHECKED_EVERY_MS = 5000
 
 const GREW_SECONDS = 0.5
 
-export type TopUp = "enough" | "wait" | "top-up" | "dry"
+type TopUp = "enough" | "wait" | "top-up" | "dry"
 
 export function topUpOf(held: {
   readonly ahead: number
@@ -53,7 +53,7 @@ const LOST = new Set([404, 410])
 
 const UNREACHABLE = new Set([502, 503, 504])
 
-export type Answered = "fine" | "lost" | "unreachable"
+type Answered = "fine" | "lost" | "unreachable"
 
 export function answerOf(status: number | null): Answered {
   if (status === null || UNREACHABLE.has(status)) return "unreachable"
@@ -75,7 +75,7 @@ export function streamLost(fatal: boolean, code: number | undefined): boolean {
   return fatal || (code !== undefined && LOST.has(code))
 }
 
-export type Told<T extends object> = (playing: T, status: number | null) => boolean
+type Told<T extends object> = (playing: T, status: number | null) => boolean
 
 export function useLostSession<T extends object>(
   audio: RefObject<HTMLAudioElement | null>,
@@ -108,7 +108,7 @@ export type Steering = {
   readonly giveUp: (why: string) => undefined
 }
 
-export type Recovering = {
+type Recovering = {
   readonly reconnecting: boolean
   readonly broken: (why: string) => undefined
 }

@@ -7,7 +7,7 @@ export type PageAudioAsked = {
   readonly slug: string
 }
 
-export type PageAudio = { readonly play: (asked: PageAudioAsked) => undefined }
+type PageAudio = { readonly play: (asked: PageAudioAsked) => undefined }
 
 const PageAudioContext = createContext<PageAudio | null>(null)
 
@@ -25,7 +25,7 @@ export function usePageAudio(): PageAudio | null {
   return useContext(PageAudioContext)
 }
 
-export type PageSpoken = {
+type PageSpoken = {
   readonly pageId: string
   readonly from: number
   readonly to: number | null

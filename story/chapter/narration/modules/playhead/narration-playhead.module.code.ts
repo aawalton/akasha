@@ -1,4 +1,4 @@
-export type Mark = readonly [seconds: number, wordStart: number]
+type Mark = readonly [seconds: number, wordStart: number]
 
 export type ChapterPlaced = {
   readonly id: string
@@ -8,12 +8,12 @@ export type ChapterPlaced = {
   readonly marks: readonly Mark[]
 }
 
-export type PlayheadActs = {
+type PlayheadActs = {
   readonly askNextAfter: string | null
   readonly read: readonly string[]
 }
 
-export type ProgressMade = { readonly id: string; readonly ownProgress: number }
+type ProgressMade = { readonly id: string; readonly ownProgress: number }
 
 function markOf(said: unknown): Mark | null {
   if (!Array.isArray(said)) return null
@@ -91,7 +91,7 @@ export function spokenAt(placed: readonly ChapterPlaced[], seconds: number): Spo
   return from === null ? null : { pageId: playing.id, from, to }
 }
 
-export function playedThrough(one: ChapterPlaced, before: number, seconds: number): boolean {
+function playedThrough(one: ChapterPlaced, before: number, seconds: number): boolean {
   if (one.durationSeconds === null) return false
   const end = one.startSeconds + one.durationSeconds
   return before >= one.startSeconds && before < end && seconds >= end

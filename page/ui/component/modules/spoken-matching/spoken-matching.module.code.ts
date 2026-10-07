@@ -12,7 +12,7 @@ const SENTENCE_MOST = 80
 
 const END_SLACK = 4
 
-export type Found = { readonly first: number; readonly last: number }
+type Found = { readonly first: number; readonly last: number }
 
 export function keyOf(word: string): string {
   return word.toLowerCase().replace(UNWORDED, "")

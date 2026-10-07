@@ -1,6 +1,6 @@
 import { type RefObject, useCallback, useEffect } from "react"
 
-export type Reported = Readonly<Record<string, string | number | boolean | null>>
+type Reported = Readonly<Record<string, string | number | boolean | null>>
 
 export type Report = (event: string, more?: Reported) => undefined
 
@@ -45,7 +45,7 @@ export function seekableEnd(audio: HTMLAudioElement): number {
   return ranges.length === 0 ? 0 : ranges.end(ranges.length - 1)
 }
 
-export function stateOf(audio: HTMLAudioElement): Reported {
+function stateOf(audio: HTMLAudioElement): Reported {
   const held = heldOf(audio.buffered)
   const last = heldOf(audio.seekable).at(-1)
   return {
