@@ -198,5 +198,52 @@ export const encountersKenzie2 = {
         "character-other/encounters-hana",
       ],
     },
+    {
+      fact: "Kenzie and Priya keep a tally of won arguments on the apartment fridge, and Priya leads.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/encounters-sofia",
+        "character-other/encounters-kenzie",
+        "character-other/encounters-priya",
+        "character-other/encounters-hana",
+      ],
+    },
+    {
+      fact: "Kenzie told Priya she could make Alan come faster than Priya ever could, and Priya said prove it.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/encounters-kenzie",
+        "character-other/encounters-priya",
+      ],
+    },
+    {
+      fact: "Kenzie and Priya bet on who makes Alan come first; the loser does the winner's laundry all term.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/encounters-kenzie",
+        "character-other/encounters-priya",
+      ],
+    },
+    {
+      fact: "Kenzie and Priya agreed to take turns on Alan, five minutes each, timed on Priya's phone.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/encounters-kenzie",
+        "character-other/encounters-priya",
+      ],
+    },
+    {
+      fact: "To win, Kenzie has to let a man come rather than edge him, which she has never once managed.",
+      knowers: ["lore-disclosure/game-master", "character-other/encounters-kenzie"],
+    },
+    {
+      fact: "Chapter 9: Kenzie and Priya came to Alan's Royal Pacific room together, mid-argument.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/encounters-alan",
+        "character-other/encounters-kenzie",
+        "character-other/encounters-priya",
+      ],
+    },
   ],
 } as const satisfies Lore

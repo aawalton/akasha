@@ -126,6 +126,10 @@ export const encountersPriya2 = {
       ],
     },
     {
+      fact: "Priya studied for the bet with Kenzie the night before, and brought a color-coded plan.",
+      knowers: ["lore-disclosure/game-master", "character-other/encounters-priya"],
+    },
+    {
       fact: "Priya has wondered what kissing Sofia would be like, and never said so.",
       knowers: [
         "lore-disclosure/game-master",
