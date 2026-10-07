@@ -1,16 +1,16 @@
 import type { StoryChapterWritten } from "akasha/story/world/stories/written/chapters/story-chapter-written.page-type.types.ts"
 
-export const encounters0011 = {
+export const encounters0011LastNight = {
   id: "01a113f8-66e7-74a6-b855-7e9727eea621",
   type: "page-type/story-chapter-written",
-  slug: "encounters-0011",
+  slug: "encounters-0011-last-night",
   position: 11,
   unit: "unit/words",
-  title: "Chapter 11",
+  title: "Last Night",
   story: "story-written/encounters",
-  ownLength: 0,
+  ownLength: 7259,
   prose: "txt",
-  stepStatus: "step-status/writer",
+  stepStatus: "step-status/recorders",
   beats: "jsonl",
   lore: [
     "lore/encounters-hana",
@@ -24,6 +24,13 @@ export const encounters0011 = {
     "lore/encounters-sofia-3",
     "place/encounters-cabana-bay-room",
     "place/encounters-cabana-bay-room-2",
+  ],
+  characters: [
+    "character-player/encounters-alan",
+    "character-other/encounters-kenzie",
+    "character-other/encounters-sofia",
+    "character-other/encounters-priya",
+    "character-other/encounters-hana",
   ],
   recordedBy: ["story-recorder/mechanics", "story-recorder/plan", "story-recorder/inventory"],
 } as const satisfies StoryChapterWritten
