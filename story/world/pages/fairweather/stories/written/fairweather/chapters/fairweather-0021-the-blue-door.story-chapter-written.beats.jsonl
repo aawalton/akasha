@@ -181,4 +181,4 @@
 {"beat":181,"event":"She looks at the two of them a moment. Then she climbs on the sofa's other end, feet under Elsie."}
 {"beat":182,"event":"Over Elsie's head Tamsin and Tilly look at each other. Tilly lifts her chin. Tamsin nods once."}
 {"beat":183,"event":"Tilly spreads her blanket over all three of them. The sofa sags further. They stay put."}
-{"beat":184,"event":"A late punt goes by under the window, its lantern light sliding across the ceiling and away."}
+{"beat":184,"event":"A late punt goes by under the window, its lantern light sliding across the ceiling and away.","changes":[{"page":"metric-character-currency/fairweather-elsie","note":"Elsie's purse logged: 0 pips","key":"history","append":{"turn":21,"value":0}},{"page":"metric-character-currency/fairweather-tamsin","note":"Tamsin's purse logged: 0 pips","key":"history","append":{"turn":21,"value":0}},{"page":"metric-character-currency/fairweather-tilly","note":"Tilly's purse logged: 7 pips","key":"history","append":{"turn":21,"value":7}}]}
