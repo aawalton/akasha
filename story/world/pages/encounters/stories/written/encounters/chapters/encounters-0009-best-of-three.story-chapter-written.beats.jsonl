@@ -1,7 +1,7 @@
-{"beat":1,"event":"Late morning; Alan is back in his room in a fresh tee and shorts, home from Cabana Bay.","at":"2026-10-14T15:00:00.000Z","place":"place/encounters-royal-pacific-room","present":["character-player/encounters-alan"]}
+{"beat":1,"event":"Late morning; Alan is back in his room in a fresh tee and shorts, home from Cabana Bay.","at":"2026-10-14T15:00:00.000Z","place":"place/encounters-royal-pacific-room","present":["character-player/encounters-alan"],"memory":[{"page":"place/encounters-royal-pacific-room","fact":"The window looks down over the hotel's lagoon pool and its palms.","shown":true}]}
 {"beat":2,"event":"Sofia and Priya were still asleep in a tangle when he slipped out at eight."}
 {"beat":3,"event":"Someone knocks twice, hard; through the door he can hear two voices arguing.","arrive":["character-other/encounters-kenzie","character-other/encounters-priya"]}
-{"beat":4,"event":"He opens it on Kenzie and Priya, mid-sentence, neither one looking at him."}
+{"beat":4,"event":"He opens it on Kenzie and Priya, mid-sentence, neither one looking at him.","memory":[{"page":"lore/encounters-kenzie-2","fact":"Chapter 9: Kenzie and Priya came to Alan's Royal Pacific room together, mid-argument.","learns":"character-player/encounters-alan"},{"page":"lore/encounters-kenzie-2","fact":"Chapter 9: Kenzie and Priya came to Alan's Royal Pacific room together, mid-argument.","learns":"character-other/encounters-kenzie"},{"page":"lore/encounters-kenzie-2","fact":"Chapter 9: Kenzie and Priya came to Alan's Royal Pacific room together, mid-argument.","learns":"character-other/encounters-priya"},{"page":"lore/encounters-kenzie-2","fact":"Chapter 9: Kenzie and Priya came to Alan's Royal Pacific room together, mid-argument.","shown":true}]}
 {"beat":5,"event":"Kenzie, in the sage tee and sneakers, says it is not cheating if it is a technique."}
 {"beat":6,"event":"Priya, in the black bikini top and shorts, says it is cheating if it was not disclosed."}
 {"beat":7,"event":"Kenzie pushes past him into the room; Priya follows, and says good morning, Alan, politely."}
@@ -9,12 +9,12 @@
 {"beat":9,"event":"Alan asks what exactly he has walked into."}
 {"beat":10,"event":"Priya says they need a neutral venue, and he is the venue, and also the subject."}
 {"beat":11,"event":"Kenzie says she told Priya she can make him come faster than Priya ever could."}
-{"beat":12,"event":"Priya says she texted back prove it, at midnight, from Sofia's bed, and it is still going."}
-{"beat":13,"event":"Kenzie says they bet on it: the loser does the winner's laundry all term."}
-{"beat":14,"event":"Priya says the fridge at their apartment keeps a tally of won arguments, and she leads it."}
+{"beat":12,"event":"Priya says she texted back prove it, at midnight, from Sofia's bed, and it is still going.","memory":[{"page":"lore/encounters-kenzie-2","fact":"Kenzie told Priya she could make Alan come faster than Priya ever could, and Priya said prove it.","learns":"character-player/encounters-alan"},{"page":"lore/encounters-kenzie-2","fact":"Kenzie told Priya she could make Alan come faster than Priya ever could, and Priya said prove it.","shown":true}]}
+{"beat":13,"event":"Kenzie says they bet on it: the loser does the winner's laundry all term.","memory":[{"page":"lore/encounters-priya-2","fact":"Chapter 9: Priya came to Alan's Royal Pacific room with Kenzie, to settle their bet on him.","establishes":true},{"page":"lore/encounters-priya-2","fact":"Chapter 9: Priya came to Alan's Royal Pacific room with Kenzie, to settle their bet on him.","learns":"character-player/encounters-alan"},{"page":"lore/encounters-priya-2","fact":"Chapter 9: Priya came to Alan's Royal Pacific room with Kenzie, to settle their bet on him.","learns":"character-other/encounters-priya"},{"page":"lore/encounters-priya-2","fact":"Chapter 9: Priya came to Alan's Royal Pacific room with Kenzie, to settle their bet on him.","learns":"character-other/encounters-kenzie"},{"page":"lore/encounters-priya-2","fact":"Chapter 9: Priya came to Alan's Royal Pacific room with Kenzie, to settle their bet on him.","shown":true}]}
+{"beat":14,"event":"Priya says the fridge at their apartment keeps a tally of won arguments, and she leads it.","memory":[{"page":"lore/encounters-kenzie-2","fact":"Kenzie and Priya keep a tally of won arguments on the apartment fridge, and Priya leads.","learns":"character-player/encounters-alan"},{"page":"lore/encounters-kenzie-2","fact":"Kenzie and Priya keep a tally of won arguments on the apartment fridge, and Priya leads.","shown":true}]}
 {"beat":15,"event":"Kenzie says by four, and that four is nothing, and this is worth ten."}
 {"beat":16,"event":"Priya says it is worth one, like every other argument, and the rules are on her phone."}
-{"beat":17,"event":"She reads them out: turns of five minutes each, timed on her phone, no touching on the other's turn."}
+{"beat":17,"event":"She reads them out: turns of five minutes each, timed on her phone, no touching on the other's turn.","memory":[{"page":"lore/encounters-kenzie-2","fact":"Kenzie and Priya bet on who makes Alan come first; the loser does the winner's laundry all term.","learns":"character-player/encounters-alan"},{"page":"lore/encounters-kenzie-2","fact":"Kenzie and Priya bet on who makes Alan come first; the loser does the winner's laundry all term.","shown":true},{"page":"lore/encounters-kenzie-2","fact":"Kenzie and Priya agreed to take turns on Alan, five minutes each, timed on Priya's phone.","learns":"character-player/encounters-alan"},{"page":"lore/encounters-kenzie-2","fact":"Kenzie and Priya agreed to take turns on Alan, five minutes each, timed on Priya's phone.","shown":true}]}
 {"beat":18,"event":"Kenzie says she agreed to the rules, but not to Priya reading them out like a court order."}
 {"beat":19,"event":"Alan asks whether he gets a say; they both say no, at once, and then glare at each other."}
 {"beat":20,"event":"Then Priya, more quietly, asks if he is willing; Kenzie stops and waits on it too."}
@@ -25,8 +25,8 @@
 {"beat":25,"event":"Kenzie narrows her eyes and asks why; Priya says she has a plan, and taps her temple."}
 {"beat":26,"event":"Priya admits she studied for this last night, on her phone, after Sofia and Alan fell asleep."}
 {"beat":27,"event":"Kenzie says that is the most Priya thing she has ever heard, and pulls her tee off."}
-{"beat":28,"event":"No bra: small perky tits, pale pink nipples, freckles spilling down her chest."}
-{"beat":29,"event":"She shoves her shorts and sneakers off; her trimmed copper bush, and her wide grin."}
+{"beat":28,"event":"No bra: small perky tits, pale pink nipples, freckles spilling down her chest.","memory":[{"page":"lore/encounters-kenzie","fact":"Kenzie has small perky tits with pale pink nipples, and freckles across her chest.","learns":"character-other/encounters-priya"},{"page":"lore/encounters-kenzie","fact":"Kenzie has small perky tits with pale pink nipples, and freckles across her chest.","shown":true}]}
+{"beat":29,"event":"She shoves her shorts and sneakers off; her trimmed copper bush, and her wide grin.","memory":[{"page":"lore/encounters-kenzie","fact":"Kenzie's cunt has a trimmed copper bush.","learns":"character-other/encounters-priya"},{"page":"lore/encounters-kenzie","fact":"Kenzie's cunt has a trimmed copper bush.","shown":true}]}
 {"beat":30,"event":"Priya sets her phone on the nightstand, the timer at five minutes, and says begin."}
 {"beat":31,"event":"Kenzie pushes Alan back on the bed and strips his tee and shorts off him in seconds."}
 {"beat":32,"event":"His cock is already half hard; Kenzie tells Priya to look, and that it is a head start."}
@@ -40,10 +40,10 @@
 {"beat":40,"event":"Priya says time, and Kenzie lets go of him with a groan and says it was a warmup."}
 {"beat":41,"event":"Priya stands, takes her glasses off, folds them and sets them by the phone."}
 {"beat":42,"event":"She unties her bikini top and lets it drop: small perky tits, dark brown nipples."}
-{"beat":43,"event":"She slides the black shorts down; her cunt waxed bare, already slick when she climbs on."}
+{"beat":43,"event":"She slides the black shorts down; her cunt waxed bare, already slick when she climbs on.","memory":[{"page":"lore/encounters-priya","fact":"Priya has small perky tits with dark brown nipples, and a cunt she keeps waxed bare.","learns":"character-other/encounters-kenzie"},{"page":"lore/encounters-priya","fact":"Priya has small perky tits with dark brown nipples, and a cunt she keeps waxed bare.","shown":true}]}
 {"beat":44,"event":"She looks down at him, unblinking, and says step one, softly, then begins."}
 {"beat":45,"event":"She kisses him slow and deep, and takes his cock in her hand, measured, steady, unhurried."}
-{"beat":46,"event":"She tells him plainly, shy and precise at once, what she read: rhythm beats speed."}
+{"beat":46,"event":"She tells him plainly, shy and precise at once, what she read: rhythm beats speed.","memory":[{"page":"lore/encounters-priya","fact":"Priya is shy saying anything about sex and wholly unashamed having it, and has researched it.","learns":"character-player/encounters-alan"},{"page":"lore/encounters-priya","fact":"Priya is shy saying anything about sex and wholly unashamed having it, and has researched it.","learns":"character-other/encounters-kenzie"},{"page":"lore/encounters-priya","fact":"Priya is shy saying anything about sex and wholly unashamed having it, and has researched it.","shown":true}]}
 {"beat":47,"event":"She strokes him at one even pace, her thumb rubbing under the head on every stroke."}
 {"beat":48,"event":"Kenzie, on the chair now, says that is boring; Priya says boring is reliable."}
 {"beat":49,"event":"Priya lowers herself onto his cock, slowly, all the way, and bites her lip."}
@@ -56,18 +56,18 @@
 {"beat":56,"event":"She says, breathless, that he was ninety seconds away, by her estimate."}
 {"beat":57,"event":"Kenzie says she does not want to hear Priya's estimates, and climbs on him herself."}
 {"beat":58,"event":"Kenzie's second turn: she sinks onto his cock, already soaked from watching."}
-{"beat":59,"event":"She rides him hard and loud, talking the whole time, the headboard thumping the wall."}
+{"beat":59,"event":"She rides him hard and loud, talking the whole time, the headboard thumping the wall.","memory":[{"page":"lore/encounters-kenzie","fact":"In bed Kenzie takes charge, talks dirty without pause, and rides hard and loud.","learns":"character-other/encounters-priya"},{"page":"lore/encounters-kenzie","fact":"In bed Kenzie takes charge, talks dirty without pause, and rides hard and loud.","shown":true}]}
 {"beat":60,"event":"He is right at the edge in two minutes; she feels him tighten, and freezes, still."}
 {"beat":61,"event":"She swears again, louder; she says she has never let a man come without making him beg first."}
 {"beat":62,"event":"Priya stops smiling, and asks, actually asking, if that is true."}
-{"beat":63,"event":"Kenzie says yes, never, Alan begged too; it is her whole thing, and now it costs her laundry."}
+{"beat":63,"event":"Kenzie says yes, never, Alan begged too; it is her whole thing, and now it costs her laundry.","memory":[{"page":"lore/encounters-kenzie","fact":"Kenzie loves edging a man, riding him to the brink and stopping, over and over, until he begs.","learns":"character-other/encounters-priya"},{"page":"lore/encounters-kenzie","fact":"Kenzie loves edging a man, riding him to the brink and stopping, over and over, until he begs.","shown":true},{"page":"lore/encounters-kenzie-2","fact":"To win, Kenzie has to let a man come without making him beg first, which she has never once done.","learns":"character-player/encounters-alan"},{"page":"lore/encounters-kenzie-2","fact":"To win, Kenzie has to let a man come without making him beg first, which she has never once done.","learns":"character-other/encounters-priya"},{"page":"lore/encounters-kenzie-2","fact":"To win, Kenzie has to let a man come without making him beg first, which she has never once done.","shown":true}]}
 {"beat":64,"event":"She starts riding again; she gets him back to the edge, and her body stops her again."}
 {"beat":65,"event":"The phone chimes on her stopping; Kenzie flops beside him and says the clock is rigged."}
 {"beat":66,"event":"Priya climbs back on him and says she has three steps left, and does not need them."}
 {"beat":67,"event":"She rides him at the even pace again, and he is close again almost at once."}
 {"beat":68,"event":"Kenzie, beside them, watches Priya's face, and then leans in and kisses her, hard."}
 {"beat":69,"event":"Priya makes a startled sound into her mouth, loses her rhythm, and kisses Kenzie back."}
-{"beat":70,"event":"Priya pulls away and says that is interference; Kenzie says the rules say no touching him."}
+{"beat":70,"event":"Priya pulls away and says that is interference; Kenzie says the rules say no touching him.","memory":[{"page":"lore/encounters-kenzie-2","fact":"Kenzie kissed Priya mid-turn to break her pace; the rules barred touching only Alan.","establishes":true},{"page":"lore/encounters-kenzie-2","fact":"Kenzie kissed Priya mid-turn to break her pace; the rules barred touching only Alan.","learns":"character-player/encounters-alan"},{"page":"lore/encounters-kenzie-2","fact":"Kenzie kissed Priya mid-turn to break her pace; the rules barred touching only Alan.","learns":"character-other/encounters-kenzie"},{"page":"lore/encounters-kenzie-2","fact":"Kenzie kissed Priya mid-turn to break her pace; the rules barred touching only Alan.","learns":"character-other/encounters-priya"},{"page":"lore/encounters-kenzie-2","fact":"Kenzie kissed Priya mid-turn to break her pace; the rules barred touching only Alan.","shown":true}]}
 {"beat":71,"event":"Priya says that is a loophole, and does not stop Kenzie's hand on her tit."}
 {"beat":72,"event":"Kenzie pinches Priya's dark nipple; Priya gasps and her hips stutter on Alan's cock."}
 {"beat":73,"event":"Priya tries to get back to the pace and cannot; Kenzie kisses her neck, grinning."}
@@ -79,13 +79,13 @@
 {"beat":79,"event":"He comes, hard, deep inside her cunt, his hips jerking up off the bed."}
 {"beat":80,"event":"Kenzie keeps riding him through every pulse, and comes herself, loud, clamping on him."}
 {"beat":81,"event":"She sits on him, shaking, and then laughs, unbelieving, and says she did it."}
-{"beat":82,"event":"Priya checks the phone, deadpan, and says with eighteen seconds left on the clock."}
+{"beat":82,"event":"Priya checks the phone, deadpan, and says with eighteen seconds left on the clock.","memory":[{"page":"lore/encounters-kenzie-2","fact":"Kenzie won the bet: Alan came inside her without begging, with eighteen seconds left.","establishes":true},{"page":"lore/encounters-kenzie-2","fact":"Kenzie won the bet: Alan came inside her without begging, with eighteen seconds left.","learns":"character-player/encounters-alan"},{"page":"lore/encounters-kenzie-2","fact":"Kenzie won the bet: Alan came inside her without begging, with eighteen seconds left.","learns":"character-other/encounters-kenzie"},{"page":"lore/encounters-kenzie-2","fact":"Kenzie won the bet: Alan came inside her without begging, with eighteen seconds left.","learns":"character-other/encounters-priya"},{"page":"lore/encounters-kenzie-2","fact":"Kenzie won the bet: Alan came inside her without begging, with eighteen seconds left.","shown":true}]}
 {"beat":83,"event":"Kenzie says she won; Priya says Kenzie won the bet, and asks for the rematch clause."}
 {"beat":84,"event":"Alan asks, still breathing hard, what rematch clause."}
 {"beat":85,"event":"Priya says best of three; it is item four on her plan, in purple."}
 {"beat":86,"event":"Kenzie says Priya is bluffing; Priya says she does not bluff, and puts her glasses on."}
-{"beat":87,"event":"She shows Kenzie the plan on her phone; Kenzie reads it and says, fine, you nerd."}
-{"beat":88,"event":"They give him a while; Alan points Kenzie to the mini fridge, and Priya lies on his chest.","at":"2026-10-14T16:10:00.000Z"}
+{"beat":87,"event":"She shows Kenzie the plan on her phone; Kenzie reads it and says, fine, you nerd.","memory":[{"page":"lore/encounters-priya-2","fact":"Priya studied for the bet with Kenzie the night before, and brought a color-coded plan.","learns":"character-player/encounters-alan"},{"page":"lore/encounters-priya-2","fact":"Priya studied for the bet with Kenzie the night before, and brought a color-coded plan.","learns":"character-other/encounters-kenzie"},{"page":"lore/encounters-priya-2","fact":"Priya studied for the bet with Kenzie the night before, and brought a color-coded plan.","shown":true}]}
+{"beat":88,"event":"They give him a while; Alan points Kenzie to the mini fridge, and Priya lies on his chest.","at":"2026-10-14T16:10:00.000Z","memory":[{"page":"place/encounters-royal-pacific-room","fact":"The room's mini fridge sits under the desk, stocked with seven-dollar bottles of water.","establishes":true},{"page":"place/encounters-royal-pacific-room","fact":"The room's mini fridge sits under the desk, stocked with seven-dollar bottles of water.","learns":"character-player/encounters-alan"},{"page":"place/encounters-royal-pacific-room","fact":"The room's mini fridge sits under the desk, stocked with seven-dollar bottles of water.","learns":"character-other/encounters-kenzie"},{"page":"place/encounters-royal-pacific-room","fact":"The room's mini fridge sits under the desk, stocked with seven-dollar bottles of water.","shown":true}]}
 {"beat":89,"event":"Priya tells him, quietly, so Kenzie will not hear, that she is glad Kenzie got that."}
 {"beat":90,"event":"Alan asks if she lost on purpose; Priya says no, she lost to a loophole, which is worse."}
 {"beat":91,"event":"Kenzie comes back with two bottles of water and says the second round is Priya's call."}
@@ -106,11 +106,11 @@
 {"beat":106,"event":"Kenzie tells her she is doing beautifully, and means it, and Priya almost cries."}
 {"beat":107,"event":"He fucks Priya's ass, slow, then harder, as she asks him to, Kenzie holding her open."}
 {"beat":108,"event":"Kenzie slides her hand down and rubs Priya's clit in fast hard circles."}
-{"beat":109,"event":"Priya comes quietly, biting her lip; Kenzie says she never knew Priya was this quiet."}
+{"beat":109,"event":"Priya comes quietly, biting her lip; Kenzie says she never knew Priya was this quiet.","memory":[{"page":"lore/encounters-priya-2","fact":"Kenzie saw Priya come for the first time, and learned how quietly she comes.","establishes":true},{"page":"lore/encounters-priya-2","fact":"Kenzie saw Priya come for the first time, and learned how quietly she comes.","learns":"character-other/encounters-kenzie"},{"page":"lore/encounters-priya-2","fact":"Kenzie saw Priya come for the first time, and learned how quietly she comes.","learns":"character-player/encounters-alan"},{"page":"lore/encounters-priya-2","fact":"Kenzie saw Priya come for the first time, and learned how quietly she comes.","learns":"character-other/encounters-priya"},{"page":"lore/encounters-priya-2","fact":"Kenzie saw Priya come for the first time, and learned how quietly she comes.","shown":true}]}
 {"beat":110,"event":"Kenzie keeps rubbing her through it, and Priya begs her, softly, not to stop."}
 {"beat":111,"event":"He fucks her harder, and she comes again, her head thrown back on Kenzie's shoulder."}
 {"beat":112,"event":"He tells them he is close; Priya says, in, in me, I want it, and Kenzie says you heard her."}
-{"beat":113,"event":"He comes deep in Priya's ass, thrusting slow, groaning both their names."}
+{"beat":113,"event":"He comes deep in Priya's ass, thrusting slow, groaning both their names.","memory":[{"page":"lore/encounters-priya-2","fact":"Alan fucked Priya's ass while Kenzie held her open, and came inside it.","establishes":true},{"page":"lore/encounters-priya-2","fact":"Alan fucked Priya's ass while Kenzie held her open, and came inside it.","learns":"character-player/encounters-alan"},{"page":"lore/encounters-priya-2","fact":"Alan fucked Priya's ass while Kenzie held her open, and came inside it.","learns":"character-other/encounters-kenzie"},{"page":"lore/encounters-priya-2","fact":"Alan fucked Priya's ass while Kenzie held her open, and came inside it.","learns":"character-other/encounters-priya"},{"page":"lore/encounters-priya-2","fact":"Alan fucked Priya's ass while Kenzie held her open, and came inside it.","shown":true}]}
 {"beat":114,"event":"The three lie across the king bed, sweaty, Priya's phone forgotten on the floor.","at":"2026-10-14T17:20:00.000Z"}
 {"beat":115,"event":"Priya says, eyes closed, that the score is one all."}
 {"beat":116,"event":"Kenzie says the second round did not have a timer, so it does not count."}
@@ -118,7 +118,7 @@
 {"beat":118,"event":"Kenzie says then it is a draw, and they each do the other's laundry all term."}
 {"beat":119,"event":"Priya says that is the same as doing their own laundry, and Kenzie says exactly."}
 {"beat":120,"event":"Priya considers it, and says, fine, a draw, and Kenzie says that is the first ever."}
-{"beat":121,"event":"Kenzie says the fridge gets a line on both sides, and she is drawing a heart on hers."}
+{"beat":121,"event":"Kenzie says the fridge gets a line on both sides, and she is drawing a heart on hers.","memory":[{"page":"lore/encounters-kenzie-2","fact":"Kenzie and Priya called the rematch a draw, the first draw on their fridge tally.","establishes":true},{"page":"lore/encounters-kenzie-2","fact":"Kenzie and Priya called the rematch a draw, the first draw on their fridge tally.","learns":"character-player/encounters-alan"},{"page":"lore/encounters-kenzie-2","fact":"Kenzie and Priya called the rematch a draw, the first draw on their fridge tally.","learns":"character-other/encounters-kenzie"},{"page":"lore/encounters-kenzie-2","fact":"Kenzie and Priya called the rematch a draw, the first draw on their fridge tally.","learns":"character-other/encounters-priya"},{"page":"lore/encounters-kenzie-2","fact":"Kenzie and Priya called the rematch a draw, the first draw on their fridge tally.","shown":true}]}
 {"beat":122,"event":"Priya says, deadpan, she will draw an asterisk, and Kenzie says she would expect no less."}
 {"beat":123,"event":"Kenzie pulls Priya against her and kisses the top of her head, loud and smacking."}
 {"beat":124,"event":"Priya lets her, and says, very quietly, that Kenzie can have her laundry anyway, every term."}
