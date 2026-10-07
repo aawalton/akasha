@@ -11,7 +11,7 @@ export const encounters0007TheLastTime = {
   story: "story-written/encounters",
   ownLength: 4939,
   prose: "txt",
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/game-master",
   beats: "jsonl",
   issues: "txt",
   lore: [
