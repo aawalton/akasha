@@ -15,6 +15,10 @@ export const encounters0011 = {
   lore: [
     "lore/encounters-hana",
     "lore/encounters-hana-2",
+    "lore/encounters-kenzie",
+    "lore/encounters-kenzie-2",
+    "lore/encounters-priya",
+    "lore/encounters-priya-2",
     "lore/encounters-sofia",
     "lore/encounters-sofia-2",
     "lore/encounters-sofia-3",
