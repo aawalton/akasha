@@ -9,9 +9,9 @@ export const encounters0008ColorCoded = {
   unit: "unit/words",
   title: "Color-Coded",
   story: "story-written/encounters",
-  ownLength: 5232,
+  ownLength: 5216,
   prose: "txt",
-  stepStatus: "step-status/writer",
+  stepStatus: "step-status/recorders",
   beats: "jsonl",
   issues: "txt",
   lore: [
