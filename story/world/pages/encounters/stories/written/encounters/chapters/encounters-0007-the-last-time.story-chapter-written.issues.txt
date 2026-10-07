@@ -1,10 +1,3 @@
 continuity: "Then she sits up and peels her tee off" - says Hana, who wears a halter; beat 24 has Kenzie do it
-style: "She closes her eyes, her head on your chest" - No Sign-Off
-style: "her long hair falling down around both your faces like a curtain" - No Tropes
-style: "You didn't know she could." - No Tropes
-style: "so hard it hurts" - No Tropes
-style: "Her hand is a blur." - No Tropes
-style: "as if she has all night, which she does" - Window Pane
-style: "stops talking" / "she isn't talking" - Window Pane
 holdings: beat 24: prose has Hana peel off a tee and throw it at Hana; the tee is Kenzie's, Hana wears none
 scene: "she sits up and peels her tee off" - she is Hana here; the tee is Kenzie's, beat 24
