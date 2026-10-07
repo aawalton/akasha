@@ -34,5 +34,6 @@ export const encounters0007TheLastTime = {
     "character-other/encounters-priya",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/holdings", "story-reviewer/scene"],
+  recordedBy: ["story-recorder/mechanics"],
   scenes: ["image/image-b9b28c93d071ecc7"],
 } as const satisfies StoryChapterWritten
