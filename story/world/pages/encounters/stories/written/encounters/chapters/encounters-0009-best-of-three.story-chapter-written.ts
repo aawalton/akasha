@@ -31,5 +31,6 @@ export const encounters0009BestOfThree = {
     "character-other/encounters-sofia",
   ],
   reviewedBy: ["story-reviewer/scene", "story-reviewer/holdings"],
+  recordedBy: ["story-recorder/plan"],
   scenes: ["image/image-3afb2f8128d3148c"],
 } as const satisfies StoryChapterWritten
