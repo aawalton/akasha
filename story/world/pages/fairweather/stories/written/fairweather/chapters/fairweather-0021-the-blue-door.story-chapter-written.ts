@@ -11,7 +11,7 @@ export const fairweather0021TheBlueDoor = {
   story: "story-written/fairweather",
   ownLength: 9626,
   prose: "txt",
-  stepStatus: "step-status/mechanics",
+  stepStatus: "step-status/writer",
   beats: "jsonl",
   issues: "txt",
   lore: [
@@ -54,7 +54,7 @@ export const fairweather0021TheBlueDoor = {
     "character-other/fairweather-amara",
   ],
   reviewedBy: ["story-reviewer/holdings", "story-reviewer/scene", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/plan", "story-recorder/inventory"],
+  recordedBy: ["story-recorder/plan", "story-recorder/inventory", "story-recorder/mechanics"],
   rulings: "jsonl",
   scenes: [
     "image/image-58343c6eeb3e56ef",
