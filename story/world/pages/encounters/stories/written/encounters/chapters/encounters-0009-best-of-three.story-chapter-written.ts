@@ -9,9 +9,9 @@ export const encounters0009BestOfThree = {
   unit: "unit/words",
   title: "Best of Three",
   story: "story-written/encounters",
-  ownLength: 6484,
+  ownLength: 6528,
   prose: "txt",
-  stepStatus: "step-status/writer",
+  stepStatus: "step-status/recorders",
   beats: "jsonl",
   issues: "txt",
   lore: [
