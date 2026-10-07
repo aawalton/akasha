@@ -4,13 +4,14 @@ export const encounters0007TheLastTime = {
   id: "01a113ae-78ac-7a33-92a8-7c67a49ddfcc",
   type: "page-type/story-chapter-written",
   slug: "encounters-0007-the-last-time",
+  cover: "image/image-b9b28c93d071ecc7",
   position: 7,
   unit: "unit/words",
   title: "The Last Time",
   story: "story-written/encounters",
   ownLength: 4941,
   prose: "txt",
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/reviewers",
   beats: "jsonl",
   lore: [
     "lore/encounters-hana",
@@ -36,5 +37,7 @@ export const encounters0007TheLastTime = {
     "story-recorder/inventory",
     "story-recorder/mechanics",
     "story-recorder/memory",
+    "story-recorder/picture",
   ],
+  scenes: ["image/image-b9b28c93d071ecc7"],
 } as const satisfies StoryChapterWritten
