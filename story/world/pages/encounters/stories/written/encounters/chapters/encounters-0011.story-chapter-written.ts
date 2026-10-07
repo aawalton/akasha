@@ -21,4 +21,5 @@ export const encounters0011 = {
     "place/encounters-cabana-bay-room",
     "place/encounters-cabana-bay-room-2",
   ],
+  recordedBy: ["story-recorder/mechanics"],
 } as const satisfies StoryChapterWritten
