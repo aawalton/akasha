@@ -29,6 +29,7 @@ export const encounters0009BestOfThree = {
     "character-other/encounters-priya",
     "character-other/encounters-sofia",
   ],
+  reviewedBy: ["story-reviewer/scene"],
   recordedBy: [
     "story-recorder/mechanics",
     "story-recorder/plan",
