@@ -5,6 +5,3 @@ style: "I think I always have" - No Tropes
 style: "makes a small broken sound into it and melts" - No Tropes
 style: "That's the most romantic thing you've ever said" - No Tropes
 scene: "the pool below lit turquoise" - room 2 is the ground-floor twin of Sofia's, level with the pool
-continuity: "since Kenzie first brought you home. From that drawing class" - Alan learns it, no memory line
-continuity: "I told Kenzie I was going to be bold this trip" - Hana is no knower of it, and no memory line
-continuity: beat 58 "Hana sees how the praise reaches her" - Hana no knower of the praise fact, no memory line
