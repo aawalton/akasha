@@ -13,6 +13,7 @@ export const encounters0011LastNight = {
   prose: "txt",
   stepStatus: "step-status/reviewers",
   beats: "jsonl",
+  issues: "txt",
   lore: [
     "lore/encounters-hana",
     "lore/encounters-hana-2",
@@ -33,6 +34,7 @@ export const encounters0011LastNight = {
     "character-other/encounters-priya",
     "character-other/encounters-hana",
   ],
+  reviewedBy: ["story-reviewer/style"],
   recordedBy: [
     "story-recorder/mechanics",
     "story-recorder/plan",
