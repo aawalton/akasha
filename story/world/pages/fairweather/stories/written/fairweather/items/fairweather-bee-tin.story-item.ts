@@ -7,5 +7,5 @@ export const fairweatherBeeTin = {
   title: "Bee Tin",
   story: "story-written/fairweather",
   character: "character-player/fairweather-elsie",
-  description: "A round cake tin with a fitted lid, painted with bees.",
+  description: "A big round cake tin with a dented lid and a painted bee, mostly worn off.",
 } as const satisfies StoryItem
