@@ -4,6 +4,7 @@ export const encounters0009BestOfThree = {
   id: "01a113d6-5a8d-7d85-aa44-3d4a656a8a5c",
   type: "page-type/story-chapter-written",
   slug: "encounters-0009-best-of-three",
+  cover: "image/image-3afb2f8128d3148c",
   position: 9,
   unit: "unit/words",
   title: "Best of Three",
@@ -28,5 +29,11 @@ export const encounters0009BestOfThree = {
     "character-other/encounters-priya",
     "character-other/encounters-sofia",
   ],
-  recordedBy: ["story-recorder/mechanics", "story-recorder/plan", "story-recorder/inventory"],
+  recordedBy: [
+    "story-recorder/mechanics",
+    "story-recorder/plan",
+    "story-recorder/inventory",
+    "story-recorder/picture",
+  ],
+  scenes: ["image/image-3afb2f8128d3148c"],
 } as const satisfies StoryChapterWritten
