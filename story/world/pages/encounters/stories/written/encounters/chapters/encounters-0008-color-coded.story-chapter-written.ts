@@ -4,6 +4,7 @@ export const encounters0008ColorCoded = {
   id: "01a113c4-38ad-7d50-9a45-e7faa997d69d",
   type: "page-type/story-chapter-written",
   slug: "encounters-0008-color-coded",
+  cover: "image/image-0e217c436aae5ba2",
   position: 8,
   unit: "unit/words",
   title: "Color-Coded",
@@ -31,6 +32,12 @@ export const encounters0008ColorCoded = {
     "character-other/encounters-kenzie",
     "character-other/encounters-hana",
   ],
-  recordedBy: ["story-recorder/inventory", "story-recorder/mechanics", "story-recorder/plan"],
+  recordedBy: [
+    "story-recorder/inventory",
+    "story-recorder/mechanics",
+    "story-recorder/plan",
+    "story-recorder/picture",
+  ],
   rulings: "jsonl",
+  scenes: ["image/image-0e217c436aae5ba2"],
 } as const satisfies StoryChapterWritten
