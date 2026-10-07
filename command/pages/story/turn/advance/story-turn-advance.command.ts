@@ -163,6 +163,16 @@ export const storyTurnAdvance = {
     {
       decisionKind: "decision-kind/departure",
       statement:
+        "A beat's prose may run to several paragraphs, or continue the paragraph before it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        'A beat\'s prose line stating `"continues": true` joins the paragraph before it with a space.',
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
         "An advance handing a written chapter beats or prose of another length is refused.",
     },
     {
