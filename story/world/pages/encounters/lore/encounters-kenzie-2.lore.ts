@@ -233,7 +233,7 @@ export const encountersKenzie2 = {
       ],
     },
     {
-      fact: "To win, Kenzie has to let a man come rather than edge him, which she has never once managed.",
+      fact: "To win, Kenzie has to let a man come without making him beg first, which she has never once done.",
       knowers: ["lore-disclosure/game-master", "character-other/encounters-kenzie"],
     },
     {
