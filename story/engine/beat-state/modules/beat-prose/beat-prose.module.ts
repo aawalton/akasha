@@ -22,7 +22,21 @@ export const beatProse = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A chapter's prose file holds its beats' prose end to end, a blank line between.",
+      statement: "A chapter's prose file holds its beats' prose end to end.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A beat's prose may run to several paragraphs, or continue the paragraph before it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A beat that continues follows the beat before it after a space, any other after a blank line.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Beat 1 has no paragraph before it, so beat 1 continuing is refused.",
     },
   ],
 } as const satisfies Module

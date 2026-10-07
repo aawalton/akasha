@@ -42,3 +42,24 @@ test("a line naming no beat, or stating no prose, is refused", () => {
 test("the prose written out is each beat's paragraph, one after another", () => {
   expect(proseWritten(HELD)).toBe("Mara wakes in the attic.\n\nShe goes down to the hall.\n")
 })
+
+test("a beat that continues joins the paragraph before it with a space", () => {
+  const joined = [HELD[0] as BeatProse, { beat: 2, prose: "She yawns.", continues: true }]
+  expect(proseWritten(joined)).toBe("Mara wakes in the attic. She yawns.\n")
+  const apart = [HELD[0] as BeatProse, { beat: 2, prose: "She yawns.", continues: false }]
+  expect(proseWritten(apart)).toBe("Mara wakes in the attic.\n\nShe yawns.\n")
+})
+
+test("a beat's prose may hold paragraphs of its own, written out as they are", () => {
+  const held = [{ beat: 1, prose: "Mara wakes.\n\nThe attic is cold." }, HELD[1] as BeatProse]
+  expect(proseWritten(held)).toBe(
+    "Mara wakes.\n\nThe attic is cold.\n\nShe goes down to the hall.\n"
+  )
+})
+
+test("beat 1 continuing is refused, since no paragraph comes before it", () => {
+  const first = [{ ...(HELD[0] as BeatProse), continues: true }, HELD[1] as BeatProse]
+  expect(proseRefused(first, 2)).toBe(
+    "beat 1 continues, and has no paragraph before it to continue"
+  )
+})

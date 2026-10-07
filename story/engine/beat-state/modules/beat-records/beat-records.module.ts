@@ -35,6 +35,11 @@ export const beatRecords = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "A beat whose prose continues the paragraph before it states `continues` on its line.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A part a beat has none of is left off its line.",
     },
     {

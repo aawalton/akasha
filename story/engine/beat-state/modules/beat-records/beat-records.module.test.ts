@@ -68,6 +68,36 @@ test("a beat's prose rides on the line of the beat it tells", () => {
   expect(beatsIn(beatsWritten(told))).toEqual(told)
 })
 
+test("a beat continuing the paragraph before it keeps `continues` on its line", () => {
+  const told: Beats = {
+    ...HELD,
+    prose: [
+      { beat: 1, prose: "Mara wakes in the attic.\n\nThe floor is cold." },
+      { beat: 2, prose: "She goes down to the hall.", continues: true },
+    ],
+  }
+  const lines = beatsWritten(told).split("\n")
+  expect(JSON.parse(lines[0] ?? "").continues).toBeUndefined()
+  expect(JSON.parse(lines[1] ?? "").continues).toBe(true)
+  expect(beatsIn(beatsWritten(told))).toEqual(told)
+})
+
+test("`continues` shaped wrong, on beat 1, or with no prose refuses the whole file", () => {
+  const one = { beat: 1, event: "One.", prose: "One told." }
+  const two = { beat: 2, event: "Two.", prose: "Two told." }
+  const fileOf = (first: object, second: object) =>
+    `${JSON.stringify(first)}\n${JSON.stringify(second)}\n`
+  expect(beatsIn(fileOf(one, { ...two, continues: "yes" }))).toEqual({
+    refused: "beat 2 states `continues` as neither true nor false",
+  })
+  expect(beatsIn(fileOf({ ...one, continues: true }, two))).toEqual({
+    refused: "beat 1 continues, and has no paragraph before it to continue",
+  })
+  expect(beatsIn(fileOf(one, { beat: 2, event: "Two.", continues: true }))).toEqual({
+    refused: "beat 2 states `continues` and no `prose`",
+  })
+})
+
 test("prose on some beats and not others refuses the whole file", () => {
   const first = JSON.stringify({ beat: 1, event: "One.", prose: "One told." })
   const second = JSON.stringify({ beat: 2, event: "Two." })

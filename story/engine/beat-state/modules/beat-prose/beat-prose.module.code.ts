@@ -3,6 +3,7 @@ import { recordIn } from "akasha/story/engine/beat-state/modules/beat-changes/be
 export type BeatProse = {
   readonly beat: number
   readonly prose: string
+  readonly continues?: boolean
 }
 
 type Refused = { readonly refused: string }
@@ -10,6 +11,10 @@ type Refused = { readonly refused: string }
 const KNOWN: readonly string[] = ["beat", "prose"]
 
 const BREAK = "\n\n"
+
+const JOINED = " "
+
+const FIRST_CONTINUES = "beat 1 continues, and has no paragraph before it to continue"
 
 function shapeRefused(held: Readonly<Record<string, unknown>>, beats: number): string | null {
   const unknown = Object.keys(held).find((key) => !KNOWN.includes(key))
@@ -32,6 +37,7 @@ function beatProseOf(held: Readonly<Record<string, unknown>>): BeatProse {
 export function proseRefused(prose: readonly BeatProse[], beats: number): string | null {
   const at = prose.findIndex((one, index) => one.beat !== index + 1)
   if (at >= 0) return `beat ${prose[at]?.beat} carries prose where beat ${at + 1} is due`
+  if (prose[0]?.continues === true) return FIRST_CONTINUES
   if (prose.length === beats) return null
   return `${beats} beats and prose for ${prose.length} of them, and every beat takes its own prose`
 }
@@ -54,5 +60,9 @@ export function proseIn(lines: readonly string[], beats: number): readonly BeatP
 }
 
 export function proseWritten(prose: readonly BeatProse[]): string {
-  return `${prose.map((one) => one.prose).join(BREAK)}\n`
+  const told = prose.map((one, at) => {
+    if (at === 0) return one.prose
+    return `${one.continues === true ? JOINED : BREAK}${one.prose}`
+  })
+  return `${told.join("")}\n`
 }

@@ -45,9 +45,20 @@ const PICTURED = "pictured"
 
 const PROSE = "prose"
 
+const CONTINUES = "continues"
+
 const SCENE_KEYS: readonly string[] = ["at", "place", "present", "arrive", "leave"]
 
-const KNOWN: readonly string[] = [BEAT, EVENT, ...SCENE_KEYS, CHANGES, MEMORY, PICTURED, PROSE]
+const KNOWN: readonly string[] = [
+  BEAT,
+  EVENT,
+  ...SCENE_KEYS,
+  CHANGES,
+  MEMORY,
+  PICTURED,
+  PROSE,
+  CONTINUES,
+]
 
 const LINES = /\r?\n/
 
@@ -90,6 +101,13 @@ function lineRead(read: Read, line: string, beat: number): string | null {
   if (told !== undefined && (typeof told !== "string" || told.trim() === "")) {
     return `beat ${beat} states \`prose\` as no prose`
   }
+  const continues = held[CONTINUES]
+  if (continues !== undefined && typeof continues !== "boolean") {
+    return `beat ${beat} states \`continues\` as neither true nor false`
+  }
+  if (continues !== undefined && told === undefined) {
+    return `beat ${beat} states \`continues\` and no \`prose\``
+  }
   const scene = sceneOf(beat, held)
   if (typeof scene === "string") return scene
   const changes = entriesUnder(beat, held[CHANGES])
@@ -99,7 +117,10 @@ function lineRead(read: Read, line: string, beat: number): string | null {
   const pictured = entriesUnder(beat, held[PICTURED])
   if (typeof pictured === "string") return pictured
   read.beats.push(event.trim())
-  if (typeof told === "string") read.prose.push({ beat, prose: told.trim() })
+  if (typeof told === "string") {
+    const prose = { beat, prose: told.trim() }
+    read.prose.push(continues === true ? { ...prose, continues } : prose)
+  }
   if (Object.keys(scene).length > 1) read.scenes.push(scene)
   read.changes.push(...changes)
   read.memory.push(...memory)
@@ -170,11 +191,12 @@ export function beatsWritten(held: Beats): string {
       const changes = held.changes.filter((one) => one.beat === beat).map(unbeaten)
       const memory = held.memory.filter((one) => one.beat === beat).map(unbeaten)
       const pictured = (held.pictured ?? []).filter((one) => one.beat === beat).map(unbeaten)
-      const told = held.prose?.find((one) => one.beat === beat)?.prose
+      const told = held.prose?.find((one) => one.beat === beat)
       const record = {
         [BEAT]: beat,
         [EVENT]: event,
-        ...(told === undefined ? {} : { [PROSE]: told }),
+        ...(told === undefined ? {} : { [PROSE]: told.prose }),
+        ...(told?.continues === true ? { [CONTINUES]: true } : {}),
         ...(scene === undefined ? {} : unbeaten(scene)),
         ...(changes.length === 0 ? {} : { [CHANGES]: changes }),
         ...(memory.length === 0 ? {} : { [MEMORY]: memory }),
