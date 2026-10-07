@@ -11,7 +11,7 @@ export const encounters0008ColorCoded = {
   story: "story-written/encounters",
   ownLength: 5232,
   prose: "txt",
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/game-master",
   beats: "jsonl",
   issues: "txt",
   lore: [
@@ -33,7 +33,7 @@ export const encounters0008ColorCoded = {
     "character-other/encounters-kenzie",
     "character-other/encounters-hana",
   ],
-  reviewedBy: ["story-reviewer/scene", "story-reviewer/holdings", "story-reviewer/style"],
+  reviewedBy: ["story-reviewer/scene", "story-reviewer/holdings"],
   recordedBy: [
     "story-recorder/inventory",
     "story-recorder/mechanics",
