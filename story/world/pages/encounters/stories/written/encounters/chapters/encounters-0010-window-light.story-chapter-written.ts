@@ -11,7 +11,7 @@ export const encounters0010WindowLight = {
   story: "story-written/encounters",
   ownLength: 6517,
   prose: "txt",
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/game-master",
   beats: "jsonl",
   issues: "txt",
   lore: [
@@ -33,7 +33,7 @@ export const encounters0010WindowLight = {
     "character-other/encounters-priya",
     "character-other/encounters-kenzie",
   ],
-  reviewedBy: ["story-reviewer/holdings", "story-reviewer/continuity", "story-reviewer/style"],
+  reviewedBy: ["story-reviewer/holdings", "story-reviewer/continuity", "story-reviewer/scene"],
   recordedBy: [
     "story-recorder/plan",
     "story-recorder/mechanics",

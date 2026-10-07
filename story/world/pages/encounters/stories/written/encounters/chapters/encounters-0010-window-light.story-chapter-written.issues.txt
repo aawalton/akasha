@@ -1,2 +1,1 @@
-scene: "the pool below lit turquoise" - room 2 is the ground-floor twin of Sofia's, level with the pool
 style: "So I didn't let myself hope." - No Tropes
