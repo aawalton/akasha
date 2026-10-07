@@ -254,5 +254,21 @@ export const encountersKenzie = {
         "character-other/encounters-hana",
       ],
     },
+    {
+      fact: "Their one night was after the figure-drawing class's end-of-term party, in Kenzie's dorm room.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/encounters-kenzie",
+        "character-other/encounters-hana",
+      ],
+    },
+    {
+      fact: "Kenzie and Hana have never spoken of that night since, not even to each other.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/encounters-kenzie",
+        "character-other/encounters-hana",
+      ],
+    },
   ],
 } as const satisfies Lore

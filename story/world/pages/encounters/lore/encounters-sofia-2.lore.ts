@@ -40,6 +40,16 @@ export const encountersSofia2 = {
       ],
     },
     {
+      fact: "Kenzie extended both rooms three more nights, through October 14.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/encounters-sofia",
+        "character-other/encounters-kenzie",
+        "character-other/encounters-priya",
+        "character-other/encounters-hana",
+      ],
+    },
+    {
       fact: "The four drove down from Gainesville in Kenzie's Jeep.",
       knowers: [
         "lore-disclosure/game-master",
