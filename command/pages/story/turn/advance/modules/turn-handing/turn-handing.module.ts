@@ -31,6 +31,11 @@ export const turnHanding = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "A prose file opening on a json line with a line shaped wrong is refused, never prose.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A pictures file holds one picture to a line, each naming the beat it shows.",
     },
     {

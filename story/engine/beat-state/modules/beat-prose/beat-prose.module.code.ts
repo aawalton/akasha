@@ -8,7 +8,9 @@ export type BeatProse = {
 
 type Refused = { readonly refused: string }
 
-const KNOWN: readonly string[] = ["beat", "prose"]
+const CONTINUES = "continues"
+
+const KNOWN: readonly string[] = ["beat", "prose", CONTINUES]
 
 const BREAK = "\n\n"
 
@@ -27,11 +29,19 @@ function shapeRefused(held: Readonly<Record<string, unknown>>, beats: number): s
   }
   const prose = held["prose"]
   if (typeof prose !== "string" || prose.trim() === "") return "states no prose"
+  const continues = held[CONTINUES]
+  if (continues !== undefined && typeof continues !== "boolean") {
+    return "states `continues` as neither true nor false"
+  }
+  if (continues === true && beat === 1) {
+    return "states `continues` on beat 1, which has no paragraph before it to continue"
+  }
   return null
 }
 
 function beatProseOf(held: Readonly<Record<string, unknown>>): BeatProse {
-  return { beat: Number(held["beat"]), prose: String(held["prose"]).trim() }
+  const one = { beat: Number(held["beat"]), prose: String(held["prose"]).trim() }
+  return held[CONTINUES] === true ? { ...one, continues: true } : one
 }
 
 export function proseRefused(prose: readonly BeatProse[], beats: number): string | null {

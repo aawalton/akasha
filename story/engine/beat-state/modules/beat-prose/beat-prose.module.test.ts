@@ -35,7 +35,33 @@ test("a line naming no beat, or stating no prose, is refused", () => {
     refused: "prose 1 states no prose",
   })
   expect(proseIn([JSON.stringify({ beat: 1, prose: "One.", mood: "glad" })], 2)).toEqual({
-    refused: "prose 1 states `mood`, and a beat's prose states beat, prose",
+    refused: "prose 1 states `mood`, and a beat's prose states beat, prose, continues",
+  })
+})
+
+test("a line may state `continues`, kept where true and left off where false", () => {
+  const lines = [
+    JSON.stringify({ beat: 1, prose: "Mara wakes.\n\nThe attic is cold." }),
+    JSON.stringify({ beat: 2, prose: "She yawns.", continues: true }),
+    JSON.stringify({ beat: 3, prose: "She goes down.", continues: false }),
+  ]
+  expect(proseIn(lines, 3)).toEqual([
+    { beat: 1, prose: "Mara wakes.\n\nThe attic is cold." },
+    { beat: 2, prose: "She yawns.", continues: true },
+    { beat: 3, prose: "She goes down." },
+  ])
+})
+
+test("`continues` on beat 1, or as anything but true or false, is refused", () => {
+  expect(proseIn([JSON.stringify({ beat: 1, prose: "One.", continues: true })], 2)).toEqual({
+    refused: "prose 1 states `continues` on beat 1, which has no paragraph before it to continue",
+  })
+  const lines = [
+    JSON.stringify({ beat: 1, prose: "One." }),
+    JSON.stringify({ beat: 2, prose: "Two.", continues: "yes" }),
+  ]
+  expect(proseIn(lines, 2)).toEqual({
+    refused: "prose 2 states `continues` as neither true nor false",
   })
 })
 

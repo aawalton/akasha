@@ -16,7 +16,10 @@ import { writtenChapter } from "akasha/command/argument/pages/written-chapter.ar
 import { heldAt } from "akasha/command/modules/filling/command-filling.module.code.ts"
 import { storyTurnAdvance as page } from "akasha/command/pages/story/turn/advance/story-turn-advance.command.ts"
 import { slugOf } from "akasha/page/naming/folding/modules/slug-of/slug-of.module.code.ts"
-import { changesIn } from "akasha/story/engine/beat-state/modules/beat-changes/beat-changes.module.code.ts"
+import {
+  changesIn,
+  recordIn as jsonRecordIn,
+} from "akasha/story/engine/beat-state/modules/beat-changes/beat-changes.module.code.ts"
 import { memoryIn } from "akasha/story/engine/beat-state/modules/beat-memory/beat-memory.module.code.ts"
 import { picturedIn } from "akasha/story/engine/beat-state/modules/beat-pictures/beat-pictures.module.code.ts"
 import {
@@ -233,8 +236,10 @@ function handedFrom(root: string, said: Said): Handed | Refusal {
   }
   const read = heldAt(root, proseFile.said, said.proseFile)
   if ("refused" in read) return read
-  const beatProse = proseIn(linesIn(read.text), Number.MAX_SAFE_INTEGER)
+  const lines = linesIn(read.text)
+  const beatProse = proseIn(lines, Number.MAX_SAFE_INTEGER)
   if ("refused" in beatProse) {
+    if (jsonRecordIn(lines[0] ?? "") !== null) return { refused: [beatProse.refused] }
     return { kind: "prose", prose: read.text, characters: said.character }
   }
   return {
