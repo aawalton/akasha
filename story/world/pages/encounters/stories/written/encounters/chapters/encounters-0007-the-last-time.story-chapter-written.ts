@@ -33,5 +33,6 @@ export const encounters0007TheLastTime = {
     "character-other/encounters-sofia",
     "character-other/encounters-priya",
   ],
+  recordedBy: ["story-recorder/plan"],
   scenes: ["image/image-b9b28c93d071ecc7"],
 } as const satisfies StoryChapterWritten
