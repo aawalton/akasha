@@ -4,6 +4,7 @@ export const thePrimalHunter0195Chapter1398ChosenOfTheMaleficViperVsChosen = {
   id: "01a1171c-65b3-7b22-b248-8c6b768bc9c9",
   type: "page-type/story-chapter-read",
   slug: "the-primal-hunter-0195-chapter-1398-chosen-of-the-malefic-viper-vs-chosen",
+  ownProgress: 2618,
   position: 195,
   publishedAt: "2026-10-07",
   unit: "unit/words",
