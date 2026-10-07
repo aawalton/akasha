@@ -11,7 +11,7 @@ export const encounters0011LastNight = {
   story: "story-written/encounters",
   ownLength: 7267,
   prose: "txt",
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/reviewers",
   beats: "jsonl",
   issues: "txt",
   lore: [
@@ -40,6 +40,7 @@ export const encounters0011LastNight = {
     "story-recorder/plan",
     "story-recorder/inventory",
     "story-recorder/picture",
+    "story-recorder/memory",
   ],
   rulings: "jsonl",
   scenes: [
