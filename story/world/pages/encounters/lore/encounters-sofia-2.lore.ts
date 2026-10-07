@@ -41,7 +41,7 @@ export const encountersSofia2 = {
       ],
     },
     {
-      fact: "Kenzie extended both rooms three more nights, through October 14.",
+      fact: "Kenzie extended both rooms four more nights, through October 15.",
       knowers: [
         "lore-disclosure/game-master",
         "character-other/encounters-sofia",
