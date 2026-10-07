@@ -412,5 +412,14 @@ export const fairweatherLanternmere = {
         "character-other/fairweather-tilly",
       ],
     },
+    {
+      fact: "The brass plate by the Coin Street letting office reads: H. Penney, Lettings.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-tamsin",
+        "character-other/fairweather-tilly",
+      ],
+    },
   ],
 } as const satisfies Place
