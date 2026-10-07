@@ -9,9 +9,9 @@ export const encounters0011LastNight = {
   unit: "unit/words",
   title: "Last Night",
   story: "story-written/encounters",
-  ownLength: 7259,
+  ownLength: 7267,
   prose: "txt",
-  stepStatus: "step-status/writer",
+  stepStatus: "step-status/recorders",
   beats: "jsonl",
   issues: "txt",
   lore: [
