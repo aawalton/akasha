@@ -23,6 +23,7 @@ export const encountersSofia3 = {
         "character-other/encounters-sofia",
         "character-player/encounters-alan",
         "character-other/encounters-kenzie",
+        "character-other/encounters-hana",
       ],
     },
     {
@@ -44,6 +45,7 @@ export const encountersSofia3 = {
         "character-player/encounters-alan",
         "character-other/encounters-kenzie",
         "character-other/encounters-priya",
+        "character-other/encounters-hana",
       ],
     },
     {
@@ -64,6 +66,7 @@ export const encountersSofia3 = {
         "character-other/encounters-sofia",
         "character-player/encounters-alan",
         "character-other/encounters-kenzie",
+        "character-other/encounters-hana",
       ],
     },
     {
@@ -192,7 +195,12 @@ export const encountersSofia3 = {
     },
     {
       fact: "Sofia has had a crush on Hana since Kenzie first brought her home, and buried it as hopeless.",
-      knowers: ["lore-disclosure/game-master", "character-other/encounters-sofia"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/encounters-sofia",
+        "character-other/encounters-hana",
+        "character-player/encounters-alan",
+      ],
     },
     {
       fact: "For chapter 8, Kenzie gave up her bed and slept next door in Priya's, beside Hana.",
@@ -230,6 +238,42 @@ export const encountersSofia3 = {
         "character-player/encounters-alan",
         "character-other/encounters-sofia",
         "character-other/encounters-priya",
+      ],
+    },
+    {
+      fact: "Chapter 10: Sofia came through the connecting door to Hana's room, asked to see her prints.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/encounters-sofia",
+        "character-other/encounters-hana",
+        "character-player/encounters-alan",
+      ],
+    },
+    {
+      fact: "Sofia told Hana she loves her too, and they kissed for the first time, Alan watching.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/encounters-sofia",
+        "character-other/encounters-hana",
+        "character-player/encounters-alan",
+      ],
+    },
+    {
+      fact: "Alan came inside Sofia as Hana watched, and Hana then licked her clean.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/encounters-sofia",
+        "character-other/encounters-hana",
+        "character-player/encounters-alan",
+      ],
+    },
+    {
+      fact: "Sofia did not rate her night with Hana and Alan; some things don't go on the list.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/encounters-sofia",
+        "character-other/encounters-hana",
+        "character-player/encounters-alan",
       ],
     },
   ],

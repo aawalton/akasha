@@ -98,7 +98,12 @@ export const encountersHana2 = {
     },
     {
       fact: "Hana's one print she has shown no one is of Sofia asleep in window light, sophomore year.",
-      knowers: ["lore-disclosure/game-master", "character-other/encounters-hana"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/encounters-hana",
+        "character-other/encounters-sofia",
+        "character-player/encounters-alan",
+      ],
     },
     {
       fact: "Priya told Hana to tell Sofia she loves her before the trip ends, or Priya would tell her.",
@@ -106,6 +111,8 @@ export const encountersHana2 = {
         "lore-disclosure/game-master",
         "character-other/encounters-priya",
         "character-other/encounters-hana",
+        "character-other/encounters-sofia",
+        "character-player/encounters-alan",
       ],
     },
     {
@@ -136,6 +143,33 @@ export const encountersHana2 = {
         "character-other/encounters-hana",
         "character-other/encounters-sofia",
         "character-other/encounters-priya",
+      ],
+    },
+    {
+      fact: "Hana told Sofia she has been in love with her since sophomore year.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/encounters-sofia",
+        "character-player/encounters-alan",
+        "character-other/encounters-hana",
+      ],
+    },
+    {
+      fact: "Alan fucked Sofia and Hana together in Hana and Priya's room, and came in both.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/encounters-alan",
+        "character-other/encounters-hana",
+        "character-other/encounters-sofia",
+      ],
+    },
+    {
+      fact: "Hana promised to photograph Sofia by window light the morning after their first night.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/encounters-sofia",
+        "character-other/encounters-hana",
+        "character-player/encounters-alan",
       ],
     },
   ],

@@ -11,9 +11,8 @@ export const encounters0010WindowLight = {
   story: "story-written/encounters",
   ownLength: 6517,
   prose: "txt",
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/player",
   beats: "jsonl",
-  issues: "txt",
   lore: [
     "lore/encounters-hana",
     "lore/encounters-hana-2",
@@ -33,7 +32,12 @@ export const encounters0010WindowLight = {
     "character-other/encounters-priya",
     "character-other/encounters-kenzie",
   ],
-  reviewedBy: ["story-reviewer/holdings", "story-reviewer/continuity", "story-reviewer/scene"],
+  reviewedBy: [
+    "story-reviewer/holdings",
+    "story-reviewer/continuity",
+    "story-reviewer/scene",
+    "story-reviewer/style",
+  ],
   recordedBy: [
     "story-recorder/mechanics",
     "story-recorder/plan",
@@ -41,6 +45,5 @@ export const encounters0010WindowLight = {
     "story-recorder/picture",
     "story-recorder/memory",
   ],
-  rulings: "jsonl",
   scenes: ["image/image-aae52333f28869dd"],
 } as const satisfies StoryChapterWritten

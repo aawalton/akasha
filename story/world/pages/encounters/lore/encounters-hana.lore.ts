@@ -238,6 +238,7 @@ export const encountersHana = {
         "character-player/encounters-alan",
         "character-other/encounters-priya",
         "character-other/encounters-kenzie",
+        "character-other/encounters-sofia",
       ],
     },
     {
@@ -248,6 +249,7 @@ export const encountersHana = {
         "character-player/encounters-alan",
         "character-other/encounters-priya",
         "character-other/encounters-kenzie",
+        "character-other/encounters-sofia",
       ],
     },
     {
@@ -257,11 +259,17 @@ export const encountersHana = {
         "character-other/encounters-hana",
         "character-player/encounters-alan",
         "character-other/encounters-kenzie",
+        "character-other/encounters-sofia",
       ],
     },
     {
       fact: "Hana wants most of all to watch a man fuck Sofia, and then to share her.",
-      knowers: ["lore-disclosure/game-master", "character-other/encounters-hana"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/encounters-hana",
+        "character-other/encounters-sofia",
+        "character-player/encounters-alan",
+      ],
     },
   ],
 } as const satisfies Lore

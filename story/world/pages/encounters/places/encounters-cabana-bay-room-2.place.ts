@@ -56,6 +56,7 @@ export const encountersCabanaBayRoom2 = {
         "lore-disclosure/game-master",
         "character-other/encounters-priya",
         "character-other/encounters-hana",
+        "character-player/encounters-alan",
       ],
     },
   ],
