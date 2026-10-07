@@ -11,7 +11,7 @@ export const encounters0009BestOfThree = {
   story: "story-written/encounters",
   ownLength: 6484,
   prose: "txt",
-  stepStatus: "step-status/game-master",
+  stepStatus: "step-status/mechanics",
   beats: "jsonl",
   issues: "txt",
   lore: [
@@ -31,12 +31,5 @@ export const encounters0009BestOfThree = {
     "character-other/encounters-sofia",
   ],
   reviewedBy: ["story-reviewer/scene", "story-reviewer/holdings"],
-  recordedBy: [
-    "story-recorder/mechanics",
-    "story-recorder/plan",
-    "story-recorder/inventory",
-    "story-recorder/picture",
-    "story-recorder/memory",
-  ],
   scenes: ["image/image-3afb2f8128d3148c"],
 } as const satisfies StoryChapterWritten
