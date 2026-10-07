@@ -38,12 +38,12 @@
 {"beat":38,"event":"Tilly sits back. Four suns, and eight pips over. She counts again to be sure. Eight over.","changes":[{"page":"world-relationship/fairweather-elsie-tilly","note":"Bond: Tilly 62 → 63 (kindness: her whole sock of savings tipped in for the house)","key":"relationshipPoints","from":62,"to":63}]}
 {"beat":39,"event":"Tilly says without Noor's share and Cora's they'd have been forty pips short."}
 {"beat":40,"event":"Tamsin whoops. A gull goes up off the step, and the mist swirls."}
-{"beat":41,"event":"Elsie hugs Noor round the neck from behind. Noor says, the step, into the shawl."}
+{"beat":41,"event":"Elsie hugs Noor round the neck from behind. Noor says, the step, into the shawl.","changes":[{"page":"world-relationship/fairweather-elsie-noor","note":"Bond: Noor 16 → 17 (kindness: a hug round the neck on the step)","key":"relationshipPoints","from":16,"to":17}]}
 {"beat":42,"event":"Elsie hugs Cora next. Cora goes stiff, then pats her back once with a grey glove."}
 {"beat":43,"event":"They sweep it all into the sock. Tamsin ties it and shoves it inside her jerkin. Nobody robs her."}
 {"beat":44,"event":"Noor says she's going to bed. Elsie asks her to Coin Street first, to see where her coin goes."}
 {"beat":45,"event":"Noor looks at the lump in Tamsin's jerkin. She says she'd like to see the door. Just the door."}
-{"beat":46,"event":"Elsie asks Ines to supper tonight, at the blue door on Willow Canal. Ines looks startled. She nods."}
+{"beat":46,"event":"Elsie asks Ines to supper tonight, at the blue door on Willow Canal. Ines looks startled. She nods.","changes":[{"page":"world-relationship/fairweather-elsie-ines","note":"Bond: Ines 9 → 11 (stand: asked to supper at the blue door)","key":"relationshipPoints","from":9,"to":11}]}
 {"beat":47,"event":"Ines goes up the steps toward Ash Lane with Biscuit on her shoulder.","leave":["character-other/fairweather-ines"]}
 {"beat":48,"event":"Three hours till eight. Tamsin says breakfast. Tilly says eight pips. Tamsin says a loaf, then."}
 {"beat":49,"event":"At a stall at the top of the steps Tamsin buys a loaf with one pip from the sock. Seven over now."}
@@ -54,7 +54,7 @@
 {"beat":54,"event":"Tamsin says she'll have a room over the water. She has said so every day since the eighth."}
 {"beat":55,"event":"Tilly says the shed, and the room beside Elsie's, so they can knock goodnight through the wall."}
 {"beat":56,"event":"Elsie looks up at Cora. Cora says she has not been asked. Elsie says she's being asked. Now."}
-{"beat":57,"event":"Cora looks at the door a long moment. She says she will consider it. She touches the lavender."}
+{"beat":57,"event":"Cora looks at the door a long moment. She says she will consider it. She touches the lavender.","changes":[{"page":"world-relationship/fairweather-elsie-cora","note":"Bond: Cora 64 → 66 (stand: asked into the house, and she'll consider it)","key":"relationshipPoints","from":64,"to":66}]}
 {"beat":58,"event":"The cat on the step stretches and walks off. Tamsin says even the cat's moving out for them."}
 {"beat":59,"event":"At ten to eight Coin Street lies in shade. The letting agent's door is still shut.","at":"2026-06-21T07:50:00.000Z"}
 {"beat":60,"event":"Elsie feels the cake inside her shawl. It's still warm. Nearly."}
@@ -67,7 +67,7 @@
 {"beat":67,"event":"Tamsin sets the sock on the desk. Four suns, she says. In pips, mostly. Sorry."}
 {"beat":68,"event":"The C-rank leader comes in behind them, a tall woman with a fat purse. She says: the blue door."}
 {"beat":69,"event":"The agent says, kindly, first come. He nods at the sock. She looks at it, and at Elsie's hair."}
-{"beat":70,"event":"She says: the Enthraller's lot. Tamsin folds her arms and says: the Fairweather party."}
+{"beat":70,"event":"She says: the Enthraller's lot. Tamsin folds her arms and says: the Fairweather party.","changes":[{"page":"world-relationship/fairweather-elsie-tamsin","note":"Bond: Tamsin 98 → 100 (stand: the Fairweather party, not the Enthraller's lot)","key":"relationshipPoints","from":98,"to":100},{"page":"metric-character-stat/fairweather-elsie-strength","note":"Strength 21 → 22","key":"value","from":21,"to":22},{"page":"metric-character-stat/fairweather-tamsin-strength","note":"Tamsin's Strength 41 → 42","key":"value","from":41,"to":42}]}
 {"beat":71,"event":"The tall woman shrugs. Plenty of houses. She goes out. Tilly lets out a breath like a kettle."}
 {"beat":72,"event":"The agent counts the pips into heaps. It takes a long time. Noor waits by the door, very still."}
 {"beat":73,"event":"A ring of keys slides off the desk. Then the whole heap goes, in a long jingling avalanche."}
@@ -80,7 +80,7 @@
 {"beat":80,"event":"He bites the honey cake. He says it's warm. It's exactly as warm as she said it would be."}
 {"beat":81,"event":"Out on Coin Street Elsie holds the key up to the sun. Tamsin lifts her off her feet and spins her.","at":"2026-06-21T08:20:00.000Z"}
 {"beat":82,"event":"Cora says she is due at the hall and late. She will come this evening, to see the sills.","leave":["character-other/fairweather-cora"]}
-{"beat":83,"event":"Noor says she has seen the door now and will sleep. Elsie says supper. Noor says: ask me tonight.","leave":["character-other/fairweather-noor"]}
+{"beat":83,"event":"Noor says she has seen the door now and will sleep. Elsie says supper. Noor says: ask me tonight.","leave":["character-other/fairweather-noor"],"changes":[{"page":"world-relationship/fairweather-elsie-noor","note":"Bond: Noor 17 → 19 (stand: asked to supper at the house)","key":"relationshipPoints","from":17,"to":19}]}
 {"beat":84,"event":"Elsie, Tamsin and Tilly run all the way to Willow Canal, Tilly's sock jingling."}
 {"beat":85,"event":"Elsie puts the key in the blue door. It sticks. Tamsin leans on it. It opens with a groan.","at":"2026-06-21T08:40:00.000Z","place":"place/fairweather-blue-door-house","present":["character-player/fairweather-elsie","character-other/fairweather-tamsin","character-other/fairweather-tilly"]}
 {"beat":86,"event":"The kitchen is one long room: a scrubbed table, a black iron range, a stone sink. Dust in the sun."}
@@ -94,7 +94,7 @@
 {"beat":94,"event":"Behind the parlour is one small bedroom with a bare bedstead, its ropes laced across."}
 {"beat":95,"event":"At the top are two small rooms under the roof slope, side by side. One has a gable window."}
 {"beat":96,"event":"Tilly goes in one and knocks three times on the wall. Elsie, in the other, knocks back three."}
-{"beat":97,"event":"Elsie takes the gable room, Tilly the one beside. Tamsin takes the room behind the parlour."}
+{"beat":97,"event":"Elsie takes the gable room, Tilly the one beside. Tamsin takes the room behind the parlour.","changes":[{"page":"world-relationship/fairweather-elsie-tamsin","note":"Bond: Tamsin 100 → 101 (kindness: her room over the water, as she wanted)","key":"relationshipPoints","from":100,"to":101},{"page":"world-relationship/fairweather-elsie-tilly","note":"Bond: Tilly 63 → 64 (kindness: the room beside Elsie's, to knock through the wall)","key":"relationshipPoints","from":63,"to":64}]}
 {"beat":98,"event":"Tamsin asks, quieter, where Cora would go. Elsie says they'll find somewhere. There's the sofa."}
 {"beat":99,"event":"There are no mattresses, only ropes. Tamsin says they've slept on worse. Tilly says she hasn't."}
 {"beat":100,"event":"They part to fetch their things: Tamsin toward the docks, Tilly to Pickle Row.","at":"2026-06-21T09:30:00.000Z","leave":["character-other/fairweather-tamsin","character-other/fairweather-tilly"]}
@@ -111,7 +111,7 @@
 {"beat":111,"event":"Moonpenny can't go in the crate, open as she is. Elsie will carry her in her arms."}
 {"beat":112,"event":"She looks round: the round window, the narrow bed, the splinters. She thanks the room out loud."}
 {"beat":113,"event":"Tamsin's voice comes up from the street. She's back with her bag, and Margery.","at":"2026-06-21T10:50:00.000Z","arrive":["character-other/fairweather-tamsin"]}
-{"beat":114,"event":"Tamsin carries the crate down two flights on one shoulder. Elsie follows with Moonpenny."}
+{"beat":114,"event":"Tamsin carries the crate down two flights on one shoulder. Elsie follows with Moonpenny.","changes":[{"page":"world-relationship/fairweather-elsie-tamsin","note":"Bond: Tamsin 101 → 102 (kindness: she carries Elsie's crate down two flights)","key":"relationshipPoints","from":101,"to":102}]}
 {"beat":115,"event":"At Willow Canal Tilly sits on the step with a carpetbag and a crate of copper pipe.","at":"2026-06-21T11:30:00.000Z","place":"place/fairweather-blue-door-house","present":["character-player/fairweather-elsie","character-other/fairweather-tamsin","character-other/fairweather-tilly"]}
 {"beat":116,"event":"Tilly says her landlady helped carry the copper down, singing. Pleased to see the back of it."}
 {"beat":117,"event":"Elsie puts a plant on every sill. Captain goes on the kitchen sill. Moonpenny goes in the parlour."}
@@ -125,19 +125,19 @@
 {"beat":125,"event":"Tamsin lies on Elsie's other side. Elsie is in the middle, in the poppies, looking up at leaves."}
 {"beat":126,"event":"Tilly's hand finds Elsie's in the grass. Tamsin sees it, and looks away at the sky."}
 {"beat":127,"event":"Elsie says this is the best day. Better than Midsummer, even. She's sure."}
-{"beat":128,"event":"Elsie dozes off in the sun with Tilly's hand in hers and Tamsin's shoulder at her other side."}
+{"beat":128,"event":"Elsie dozes off in the sun with Tilly's hand in hers and Tamsin's shoulder at her other side.","changes":[{"page":"world-relationship/fairweather-elsie-tilly","note":"Bond: Tilly 64 → 65 (kindness: hands held in the grass)","key":"relationshipPoints","from":64,"to":65},{"page":"metric-character-stat/fairweather-elsie-wits","note":"Wits 14 → 15","key":"value","from":14,"to":15},{"page":"metric-character-stat/fairweather-tilly-wits","note":"Tilly's Wits 22 → 23","key":"value","from":22,"to":23}]}
 {"beat":129,"event":"She wakes at four with an apple leaf on her cheek. Tilly picks it off, laughing.","at":"2026-06-21T16:00:00.000Z"}
 {"beat":130,"event":"Tamsin is gone from the grass. There's banging in the kitchen. She's scrubbing the table."}
 {"beat":131,"event":"They scrub the house: Tilly the sink, Elsie the sills, Tamsin the floor on her knees."}
 {"beat":132,"event":"At the scrubbed table Elsie writes her mother: a house, a blue door, six chairs, a tree.","at":"2026-06-21T17:30:00.000Z"}
 {"beat":133,"event":"She writes the new address at the bottom twice, so her mother can't miss it."}
 {"beat":134,"event":"At six Ines comes to the blue door with Biscuit and a crock of honey.","at":"2026-06-21T18:00:00.000Z","arrive":["character-other/fairweather-ines"]}
-{"beat":135,"event":"Ines whispers that a house should have honey. She sets it in the middle of the table."}
+{"beat":135,"event":"Ines whispers that a house should have honey. She sets it in the middle of the table.","changes":[{"page":"world-relationship/fairweather-elsie-ines","note":"Bond: Ines 11 → 12 (kindness: a crock of honey for the house)","key":"relationshipPoints","from":11,"to":12}]}
 {"beat":136,"event":"Biscuit goes to the cold range, climbs into the oven through its open door, and curls up."}
 {"beat":137,"event":"At half past six Amara is on the step with a big covered basket. Mrs Merriweather told her.","at":"2026-06-21T18:30:00.000Z","arrive":["character-other/fairweather-amara"]}
 {"beat":138,"event":"The basket has cold chicken, a pie, cherries, and a cake left from her mother's Midsummer table."}
 {"beat":139,"event":"Elsie hugs her. Amara holds on. She whispers into Elsie's hair: I sang."}
-{"beat":140,"event":"Elsie says she knows. She wasn't listening. She was washing a bowl. Very hard. Her eyes fill."}
+{"beat":140,"event":"Elsie says she knows. She wasn't listening. She was washing a bowl. Very hard. Her eyes fill.","changes":[{"page":"world-relationship/fairweather-elsie-amara","note":"Bond: Amara 8 → 10 (confidence: I sang, answered kindly)","key":"relationshipPoints","from":8,"to":10}]}
 {"beat":141,"event":"Amara laughs and her eyes fill too. She looked for the pink, and found it when the bell rang."}
 {"beat":142,"event":"Amara says her mother cried on the barge, after. She'd never once seen her mother cry."}
 {"beat":143,"event":"Amara looks at Elsie's mouth while Elsie wipes her eyes. Then away, at the six chairs."}
@@ -148,9 +148,9 @@
 {"beat":148,"event":"It billows over Tamsin, crouched at the hearth. She's black from her curls to her belt."}
 {"beat":149,"event":"Noor says flatly: things break near me. Tamsin, spitting soot, says: and unbreak."}
 {"beat":150,"event":"Tilly lights the range. It draws. The flame goes straight up the clean flue. No smoke at all."}
-{"beat":151,"event":"At the stone sink Elsie scrubs the soot off Tamsin's face with a wet cloth, freckle by freckle."}
+{"beat":151,"event":"At the stone sink Elsie scrubs the soot off Tamsin's face with a wet cloth, freckle by freckle.","changes":[{"page":"world-relationship/fairweather-elsie-tamsin","note":"Bond: Tamsin 102 → 103 (kindness: soot washed off, freckle by freckle; day's cap)","key":"relationshipPoints","from":102,"to":103}]}
 {"beat":152,"event":"Tamsin holds still with her eyes shut while Elsie washes round her mouth. Her ears go red."}
-{"beat":153,"event":"Noor sets her coffee pot on the range. She says: so there's coffee. When I come."}
+{"beat":153,"event":"Noor sets her coffee pot on the range. She says: so there's coffee. When I come.","changes":[{"page":"world-relationship/fairweather-elsie-noor","note":"Bond: Noor 19 → 20 (kindness: her coffee pot on the range)","key":"relationshipPoints","from":19,"to":20}]}
 {"beat":154,"event":"At half past seven the fish knocker goes three times, exactly. It's Cora.","at":"2026-06-21T19:30:00.000Z","arrive":["character-other/fairweather-cora"]}
 {"beat":155,"event":"She has a pot of lavender under her arm, grown and in flower. She says it is for a sill."}
 {"beat":156,"event":"Elsie puts it on the kitchen sill beside Captain. She names it Ledger. Cora's mouth twitches."}
@@ -165,7 +165,7 @@
 {"beat":165,"event":"It reads: Willow Canal. Supper. Skills used, none."}
 {"beat":166,"event":"At ten Cora stands. She'll walk Noor home to Wick Lane. It's on her way. Noor says it is.","at":"2026-06-21T22:00:00.000Z"}
 {"beat":167,"event":"At the door Elsie asks Cora again, quietly, about the sofa. Cora says the Accord is silent on sofas."}
-{"beat":168,"event":"Then she says: perhaps. Not tonight. She touches the lavender at her throat and goes.","leave":["character-other/fairweather-cora"]}
+{"beat":168,"event":"Then she says: perhaps. Not tonight. She touches the lavender at her throat and goes.","leave":["character-other/fairweather-cora"],"changes":[{"page":"world-relationship/fairweather-elsie-cora","note":"Bond: Cora 66 → 68 (stand: asked again about the sofa; perhaps)","key":"relationshipPoints","from":66,"to":68},{"page":"metric-character-stat/fairweather-elsie-heart","note":"Heart 20 → 21","key":"value","from":20,"to":21},{"page":"metric-character-stat/fairweather-cora-heart","note":"Cora's Heart 34 → 35","key":"value","from":34,"to":35}]}
 {"beat":169,"event":"Noor says from the step: tomorrow, then. Not ask me tomorrow. Only tomorrow. She goes.","leave":["character-other/fairweather-noor"]}
 {"beat":170,"event":"Amara and Ines go off together toward Lantern Square, Biscuit riding on Ines's shoulder.","leave":["character-other/fairweather-amara","character-other/fairweather-ines"]}
 {"beat":171,"event":"The kitchen goes quiet: three of them, the range ticking, Captain and Ledger on the sill."}
@@ -181,4 +181,4 @@
 {"beat":181,"event":"She looks at the two of them a moment. Then she climbs on the sofa's other end, feet under Elsie."}
 {"beat":182,"event":"Over Elsie's head Tamsin and Tilly look at each other. Tilly lifts her chin. Tamsin nods once."}
 {"beat":183,"event":"Tilly spreads her blanket over all three of them. The sofa sags further. Nobody moves."}
-{"beat":184,"event":"Elsie falls asleep between them, the canal going by under the window, the thread warm and still."}
+{"beat":184,"event":"Elsie falls asleep between them, the canal going by under the window, the thread warm and still.","changes":[{"page":"world-relationship/fairweather-elsie-tamsin","note":"Bond: Tamsin 103 → 104 (Tether: at day's end)","key":"relationshipPoints","from":103,"to":104},{"page":"metric-character-experience/fairweather-elsie","note":"XP logged","key":"history","append":{"turn":21,"value":110}},{"page":"metric-character-experience/fairweather-tamsin","note":"XP logged","key":"history","append":{"turn":21,"value":580}},{"page":"metric-character-experience/fairweather-tilly","note":"XP logged","key":"history","append":{"turn":21,"value":260}},{"page":"metric-character-stat/fairweather-elsie-strength","note":"Strength logged","key":"history","append":{"turn":21,"value":22}},{"page":"metric-character-stat/fairweather-elsie-wits","note":"Wits logged","key":"history","append":{"turn":21,"value":15}},{"page":"metric-character-stat/fairweather-elsie-heart","note":"Heart logged","key":"history","append":{"turn":21,"value":21}}]}
