@@ -11,7 +11,7 @@ export const encounters0007TheLastTime = {
   story: "story-written/encounters",
   ownLength: 4960,
   prose: "txt",
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/reviewers",
   beats: "jsonl",
   issues: "txt",
   lore: [
@@ -39,6 +39,7 @@ export const encounters0007TheLastTime = {
     "story-recorder/mechanics",
     "story-recorder/inventory",
     "story-recorder/picture",
+    "story-recorder/memory",
   ],
   scenes: ["image/image-b9b28c93d071ecc7"],
 } as const satisfies StoryChapterWritten
