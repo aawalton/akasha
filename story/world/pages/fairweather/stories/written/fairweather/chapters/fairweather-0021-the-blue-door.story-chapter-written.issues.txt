@@ -1,7 +1,6 @@
-style: "Elsie fell asleep between them, with the canal going by" - No Sign-Off
-style: "Elsie falls asleep between them" (beat 184) - No Sign-Off
+continuity: "Mr Penney" (b7, b65) - the agent's name: no memory line, here or before, shows it
+style: "A late punt went by under the open window." - No Sign-Off
+style: "A late punt goes by under the window" (beat 184) - No Sign-Off
 style: "Nobody robs her." (beat 43) - Nobody Acts
 style: "Nobody says anything." (beat 51) - Nobody Acts
 style: "as if nobody had brought him anything in years" (beat 66) - No Tropes
-style: "Nobody moves." (beat 183) - Nobody Acts
-continuity: "Mr Penney" (b7, b65) - the agent's name: no memory line, here or before, shows it
