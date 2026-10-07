@@ -136,7 +136,11 @@ export const encountersHana2 = {
     },
     {
       fact: "Hana saved the last four frames of her roll for the last night, one for each of them.",
-      knowers: ["lore-disclosure/game-master", "character-other/encounters-hana"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/encounters-hana",
+        "character-player/encounters-alan",
+      ],
     },
     {
       fact: "Hana got her clit hood pierced this summer.",
@@ -174,6 +178,25 @@ export const encountersHana2 = {
         "character-other/encounters-sofia",
         "character-other/encounters-hana",
         "character-player/encounters-alan",
+      ],
+    },
+    {
+      fact: "Chapter 11: Hana spent the last night with Sofia and the others, and shot her roll out at dawn.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/encounters-alan",
+        "character-other/encounters-kenzie",
+        "character-other/encounters-sofia",
+        "character-other/encounters-priya",
+        "character-other/encounters-hana",
+      ],
+    },
+    {
+      fact: "Hana will mail Alan the print of her last frame, him smiling at Sofia; she has his address.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/encounters-alan",
+        "character-other/encounters-hana",
       ],
     },
   ],

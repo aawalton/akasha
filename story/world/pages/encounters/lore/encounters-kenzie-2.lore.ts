@@ -178,6 +178,8 @@ export const encountersKenzie2 = {
         "character-player/encounters-alan",
         "character-other/encounters-kenzie",
         "character-other/encounters-hana",
+        "character-other/encounters-sofia",
+        "character-other/encounters-priya",
       ],
     },
     {
@@ -279,6 +281,28 @@ export const encountersKenzie2 = {
         "character-player/encounters-alan",
         "character-other/encounters-kenzie",
         "character-other/encounters-priya",
+      ],
+    },
+    {
+      fact: "Chapter 11: Kenzie told Sofia and Priya of her night with Hana, before the last night's toast.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/encounters-alan",
+        "character-other/encounters-kenzie",
+        "character-other/encounters-sofia",
+        "character-other/encounters-priya",
+        "character-other/encounters-hana",
+      ],
+    },
+    {
+      fact: "On the last night Alan begged, and Kenzie told him he need not beg, and let him come.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/encounters-alan",
+        "character-other/encounters-kenzie",
+        "character-other/encounters-sofia",
+        "character-other/encounters-priya",
+        "character-other/encounters-hana",
       ],
     },
   ],

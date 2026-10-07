@@ -89,6 +89,7 @@ export const encountersCabanaBayRoom = {
         "character-other/encounters-kenzie",
         "character-other/encounters-priya",
         "character-other/encounters-hana",
+        "character-player/encounters-alan",
       ],
     },
   ],

@@ -210,6 +210,7 @@ export const encountersKenzie = {
         "character-player/encounters-alan",
         "character-other/encounters-sofia",
         "character-other/encounters-priya",
+        "character-other/encounters-hana",
       ],
     },
     {
@@ -220,6 +221,7 @@ export const encountersKenzie = {
         "character-player/encounters-alan",
         "character-other/encounters-sofia",
         "character-other/encounters-hana",
+        "character-other/encounters-priya",
       ],
     },
     {
@@ -257,6 +259,8 @@ export const encountersKenzie = {
         "character-other/encounters-kenzie",
         "character-other/encounters-hana",
         "character-player/encounters-alan",
+        "character-other/encounters-sofia",
+        "character-other/encounters-priya",
       ],
     },
     {
@@ -266,6 +270,8 @@ export const encountersKenzie = {
         "character-other/encounters-kenzie",
         "character-other/encounters-hana",
         "character-player/encounters-alan",
+        "character-other/encounters-sofia",
+        "character-other/encounters-priya",
       ],
     },
     {
@@ -275,6 +281,8 @@ export const encountersKenzie = {
         "character-other/encounters-kenzie",
         "character-other/encounters-hana",
         "character-player/encounters-alan",
+        "character-other/encounters-sofia",
+        "character-other/encounters-priya",
       ],
     },
   ],

@@ -211,6 +211,7 @@ export const encountersPriya = {
         "character-player/encounters-alan",
         "character-other/encounters-hana",
         "character-other/encounters-sofia",
+        "character-other/encounters-kenzie",
       ],
     },
     {

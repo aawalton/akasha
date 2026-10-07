@@ -141,6 +141,8 @@ export const encountersSofia3 = {
         "character-player/encounters-alan",
         "character-other/encounters-sofia",
         "character-other/encounters-kenzie",
+        "character-other/encounters-hana",
+        "character-other/encounters-priya",
       ],
     },
     {
@@ -238,6 +240,8 @@ export const encountersSofia3 = {
         "character-player/encounters-alan",
         "character-other/encounters-sofia",
         "character-other/encounters-priya",
+        "character-other/encounters-kenzie",
+        "character-other/encounters-hana",
       ],
     },
     {
@@ -274,6 +278,39 @@ export const encountersSofia3 = {
         "character-other/encounters-sofia",
         "character-other/encounters-hana",
         "character-player/encounters-alan",
+      ],
+    },
+    {
+      fact: "Chapter 11: Sofia spent the last night with the other three and Alan, both rooms open.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/encounters-sofia",
+        "character-player/encounters-alan",
+        "character-other/encounters-kenzie",
+        "character-other/encounters-priya",
+        "character-other/encounters-hana",
+      ],
+    },
+    {
+      fact: "On the last night Alan fucked Sofia as Hana rode her face, and came inside her.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/encounters-alan",
+        "character-other/encounters-kenzie",
+        "character-other/encounters-sofia",
+        "character-other/encounters-priya",
+        "character-other/encounters-hana",
+      ],
+    },
+    {
+      fact: "Sofia's last line in her ride list reads the whole trip, with no number.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/encounters-alan",
+        "character-other/encounters-kenzie",
+        "character-other/encounters-sofia",
+        "character-other/encounters-priya",
+        "character-other/encounters-hana",
       ],
     },
   ],

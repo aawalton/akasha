@@ -58,6 +58,8 @@ export const encountersPriya2 = {
         "character-player/encounters-alan",
         "character-other/encounters-priya",
         "character-other/encounters-hana",
+        "character-other/encounters-kenzie",
+        "character-other/encounters-sofia",
       ],
     },
     {
@@ -186,6 +188,28 @@ export const encountersPriya2 = {
         "character-player/encounters-alan",
         "character-other/encounters-kenzie",
         "character-other/encounters-priya",
+      ],
+    },
+    {
+      fact: "Chapter 11: Priya rewrote Kenzie's itinerary as four colored items, one for each girl.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/encounters-alan",
+        "character-other/encounters-kenzie",
+        "character-other/encounters-sofia",
+        "character-other/encounters-priya",
+        "character-other/encounters-hana",
+      ],
+    },
+    {
+      fact: "On the last night Priya said Gringotts only to say she was done, and laughed.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/encounters-alan",
+        "character-other/encounters-kenzie",
+        "character-other/encounters-sofia",
+        "character-other/encounters-priya",
+        "character-other/encounters-hana",
       ],
     },
   ],
