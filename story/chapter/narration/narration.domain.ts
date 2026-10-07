@@ -53,7 +53,12 @@ export const narration = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The phone's own audio player plays narration from a growing HLS playlist.",
+      statement:
+        "The app downloads a growing HLS playlist and feeds it to the phone's audio player.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The app keeps at least ten minutes of a narration downloaded past the playhead.",
     },
     {
       decisionKind: "decision-kind/departure",

@@ -45,5 +45,9 @@ export const narrationListening = {
       decisionKind: "decision-kind/departure",
       statement: "Handing the stream to the audio element is one function for every browser.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A narration asks the phone to keep playing it in the background.",
+    },
   ],
 } as const satisfies Module

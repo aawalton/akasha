@@ -21,7 +21,7 @@ const REPORTED = [
 
 const NEAR_SECONDS = 0.5
 
-const SILENCE = "blob:"
+const FED_BY_PAGE = "blob:"
 
 function rounded(seconds: number): number {
   return Number(seconds.toFixed(1))
@@ -60,19 +60,21 @@ export function stateOf(audio: HTMLAudioElement): Reported {
     errorCode: audio.error?.code ?? null,
     errorMessage: audio.error?.message || null,
     hidden: document.hidden,
+    fedByPage: audio.src.startsWith(FED_BY_PAGE),
   }
 }
 
 export function useNarrationReport(
   audio: RefObject<HTMLAudioElement | null>,
   fetching: (path: string, init?: RequestInit) => Promise<Response>,
-  session: RefObject<{ readonly id: string } | null>
+  session: RefObject<{ readonly id: string } | null>,
+  silence: RefObject<string | null>
 ): Report {
   const report = useCallback(
     (event: string, more?: Reported): undefined => {
       const element = audio.current
       const playing = session.current
-      if (element === null || playing === null || element.src.startsWith(SILENCE)) return
+      if (element === null || playing === null || element.src === silence.current) return
       void fetching(`/api/narration/${playing.id}/report`, {
         method: "POST",
         headers: { "content-type": "application/json" },
@@ -80,7 +82,7 @@ export function useNarrationReport(
         body: JSON.stringify({ event, ...stateOf(element), ...more }),
       }).catch(() => undefined)
     },
-    [audio, fetching, session]
+    [audio, fetching, session, silence]
   )
   useEffect(() => {
     const element = audio.current

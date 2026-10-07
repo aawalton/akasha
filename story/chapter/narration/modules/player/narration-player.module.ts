@@ -25,7 +25,12 @@ export const narrationPlayer = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "Safari plays the stream itself, and every other browser plays it through hls.js.",
+      statement:
+        "Every browser able to feed its audio plays the stream through hls.js, iOS's included.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A browser unable to feed its audio plays the stream itself.",
     },
     {
       decisionKind: "decision-kind/departure",

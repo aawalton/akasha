@@ -12,6 +12,7 @@ import {
   KEEP_AHEAD_SECONDS,
   streamLost,
 } from "akasha/story/chapter/narration/modules/recovery/narration-recovery.module.code.ts"
+import type { Report } from "akasha/story/chapter/narration/modules/report/narration-report.module.code.ts"
 import type { ChapterHeld } from "akasha/story/chapter/narration/modules/telling/narration-telling.module.code.ts"
 import Hls, { type ErrorData } from "hls.js"
 import { type RefObject, useCallback, useEffect, useRef, useState } from "react"
@@ -24,8 +25,6 @@ export const SKIP_SECONDS = 15
 
 const HLS = "application/vnd.apple.mpegurl"
 
-const CHROMIUM = /Chrome\//
-
 const HELD_AT_START = {
   startPosition: 0,
   liveSyncDurationCount: Number.MAX_SAFE_INTEGER,
@@ -36,20 +35,28 @@ const HELD_AT_START = {
 } as const
 
 export function playsHlsItself(audio: HTMLAudioElement): boolean {
-  return audio.canPlayType(HLS) !== "" && !CHROMIUM.test(navigator.userAgent)
+  return !Hls.isSupported() && audio.canPlayType(HLS) !== ""
+}
+
+function playingInBackground(): undefined {
+  const said = (navigator as { audioSession?: { type: string } }).audioSession
+  if (said !== undefined) said.type = "playback"
 }
 
 export function streamedInto(
   audio: HTMLAudioElement,
   url: string,
-  broken: (from: Hls, why: string) => undefined
+  broken: (from: Hls, why: string) => undefined,
+  report: Report
 ): Hls | null {
+  playingInBackground()
   if (playsHlsItself(audio)) {
     audio.src = url
     return null
   }
   const hls = new Hls(HELD_AT_START)
   hls.on(Hls.Events.ERROR, (_event: string, said: ErrorData) => {
+    report("hls-error", { details: said.details, fatal: said.fatal })
     if (streamLost(said.fatal, said.response?.code))
       broken(hls, `The stream failed: ${said.details}`)
   })

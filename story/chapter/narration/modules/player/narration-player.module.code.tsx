@@ -118,7 +118,7 @@ export function NarrationProvider({
   const silence = useRef<string | null>(null)
   const streamed = useRef<Hls | null>(null)
   const steering = useRef<Steering>(UNSTEERED)
-  const report = useNarrationReport(audioRef, reach.fetch, session)
+  const report = useNarrationReport(audioRef, reach.fetch, session, silence)
   const recovering = useRecovery(audioRef, steering, report)
   const told = useLostSession(audioRef, recovering.broken, session)
   const [shown, setShown] = useState<NarrationShown>({ kind: "idle" })
@@ -191,9 +191,14 @@ export function NarrationProvider({
         return
       }
       if (asking.current !== asked) return
-      streamed.current = streamedInto(audio, reach.url(playlist), (from, why) => {
-        if (streamed.current === from) recovering.broken(why)
-      })
+      streamed.current = streamedInto(
+        audio,
+        reach.url(playlist),
+        (from, why) => {
+          if (streamed.current === from) recovering.broken(why)
+        },
+        report
+      )
       repace()
       try {
         await audio.play()
