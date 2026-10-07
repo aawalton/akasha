@@ -10,7 +10,7 @@ export const encounters0009 = {
   story: "story-written/encounters",
   ownLength: 0,
   prose: "txt",
-  stepStatus: "step-status/mechanics",
+  stepStatus: "step-status/writer",
   beats: "jsonl",
   lore: [
     "lore/encounters-kenzie",
@@ -19,5 +19,5 @@ export const encounters0009 = {
     "lore/encounters-priya-2",
     "place/encounters-royal-pacific-room",
   ],
-  recordedBy: ["story-recorder/mechanics", "story-recorder/plan"],
+  recordedBy: ["story-recorder/mechanics", "story-recorder/plan", "story-recorder/inventory"],
 } as const satisfies StoryChapterWritten
