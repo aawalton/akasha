@@ -95,6 +95,9 @@ export const encountersKenzie2 = {
         "lore-disclosure/game-master",
         "character-player/encounters-alan",
         "character-other/encounters-kenzie",
+        "character-other/encounters-sofia",
+        "character-other/encounters-priya",
+        "character-other/encounters-hana",
       ],
     },
     {
