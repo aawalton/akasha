@@ -9,9 +9,9 @@ export const encounters0010WindowLight = {
   unit: "unit/words",
   title: "Window Light",
   story: "story-written/encounters",
-  ownLength: 6548,
+  ownLength: 6517,
   prose: "txt",
-  stepStatus: "step-status/writer",
+  stepStatus: "step-status/recorders",
   beats: "jsonl",
   issues: "txt",
   lore: [
