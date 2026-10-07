@@ -4,6 +4,7 @@ export const togetherAtTheEdgeOfTheWorldBook4Complete0268Vol5Chapter240WakeUpAla
   id: "01a11676-e8e8-796a-8148-3056f950c24c",
   type: "page-type/story-chapter-read",
   slug: "together-at-the-edge-of-the-world-book-4-complete-0268-vol-5-chapter-240-wake-up-alarm",
+  ownProgress: 2265,
   position: 268,
   publishedAt: "2026-10-07",
   unit: "unit/words",

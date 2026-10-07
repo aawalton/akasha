@@ -4,6 +4,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0202Chapter759AnotherOn
   id: "01a11642-78b2-7b8a-88a9-506eee51133b",
   type: "page-type/story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0202-chapter-759-another-one",
+  ownProgress: 2586,
   position: 202,
   publishedAt: "2026-10-07",
   unit: "unit/words",
