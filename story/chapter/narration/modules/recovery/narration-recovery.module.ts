@@ -66,15 +66,15 @@ export const narrationRecovery = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "The phone keeps at least ten minutes of a narration downloaded past the playhead.",
+        "Less than ten minutes held past the playhead, with nothing arriving, is reported once a minute.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "Less held and nothing arriving asks the stream again, at most once a minute.",
+      statement: "A playhead run dry ten seconds after being reported short reopens the narration.",
     },
     {
-      decisionKind: "decision-kind/departure",
-      statement: "A playhead run dry ten seconds after asking again reopens the narration.",
+      decisionKind: "decision-kind/constraint",
+      statement: "iOS downloads nothing more for a seek inside the audio it already holds.",
     },
     {
       decisionKind: "decision-kind/constraint",

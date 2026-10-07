@@ -259,8 +259,7 @@ export function useRecovery(
         broken("The phone stopped downloading the narration.")
       } else if (said === "top-up") {
         toppedAt.current = Date.now()
-        report("top-up", { ahead })
-        steer.nudge()
+        report("short", { ahead })
       }
     }, HELD_CHECKED_EVERY_MS)
     return () => clearInterval(timer)
