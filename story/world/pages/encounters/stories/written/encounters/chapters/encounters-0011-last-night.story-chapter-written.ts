@@ -11,7 +11,7 @@ export const encounters0011LastNight = {
   story: "story-written/encounters",
   ownLength: 7259,
   prose: "txt",
-  stepStatus: "step-status/mechanics",
+  stepStatus: "step-status/writer",
   beats: "jsonl",
   issues: "txt",
   lore: [
@@ -35,7 +35,7 @@ export const encounters0011LastNight = {
     "character-other/encounters-hana",
   ],
   reviewedBy: ["story-reviewer/holdings"],
-  recordedBy: ["story-recorder/mechanics", "story-recorder/plan"],
+  recordedBy: ["story-recorder/mechanics", "story-recorder/plan", "story-recorder/inventory"],
   rulings: "jsonl",
   scenes: [
     "image/image-24a398c2939bf627",
