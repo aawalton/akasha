@@ -11,9 +11,8 @@ export const encounters0008ColorCoded = {
   story: "story-written/encounters",
   ownLength: 5232,
   prose: "txt",
-  stepStatus: "step-status/game-master",
+  stepStatus: "step-status/writer",
   beats: "jsonl",
-  mechanicsIssues: "txt",
   issues: "txt",
   lore: [
     "lore/encounters-hana",
