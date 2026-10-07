@@ -1,9 +1,3 @@
-style: "and then they both can't stop" - No Tropes
-style: "as if it might break" - No Tropes
-style: "They laugh until the bed shakes" - No Tropes
-style: "as if the room has emptied out" - No Tropes
-style: "she comes, silent," / "her mouth open, silent" - Window Pane
-style: "feeling where you were" - Encounters Explicitness
 continuity: "Sofia nods. 'Item five,' she says" - reads as Sofia; beat 71 has Priya read item five
 continuity: "You were my lab partner" - no memory line shows Alan or reader the lab-partner fact (priya)
 continuity: the five-color list Sofia and Priya wrote is shown, but no memory line has priya-2 fact of it

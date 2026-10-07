@@ -33,7 +33,7 @@ export const encounters0008ColorCoded = {
     "character-other/encounters-kenzie",
     "character-other/encounters-hana",
   ],
-  reviewedBy: ["story-reviewer/scene", "story-reviewer/holdings"],
+  reviewedBy: ["story-reviewer/scene", "story-reviewer/holdings", "story-reviewer/style"],
   recordedBy: [
     "story-recorder/inventory",
     "story-recorder/mechanics",
