@@ -185,6 +185,10 @@ export const fitnessNext = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "The day an instant falls on is the tracked day Alan's sets name.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A run answers the one step Alan is on rather than the session that step opens.",
     },
     {
