@@ -32,6 +32,7 @@ export const alanWebRoutes = {
     "route/alan-web-api-narration-close",
     "route/alan-web-api-narration-next",
     "route/alan-web-api-narration-piece",
+    "route/alan-web-api-narration-report",
     "route/alan-web-api-sms-webhook",
     "route/alan-web-api-spotify-callback",
     "route/alan-web-api-tracking-health-samples",

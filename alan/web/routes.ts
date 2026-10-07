@@ -88,6 +88,10 @@ export default [
     "routes/alan-web-api-narration-next/alan-web-api-narration-next.route.code.ts"
   ),
   route(
+    "api/narration/:id/report",
+    "routes/alan-web-api-narration-report/alan-web-api-narration-report.route.code.ts"
+  ),
+  route(
     "api/narration/:id/:name",
     "routes/alan-web-api-narration-piece/alan-web-api-narration-piece.route.code.ts"
   ),

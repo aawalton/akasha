@@ -68,6 +68,7 @@
 {"propertySlug":"import","fileName":"route.page-type.types.ts","path":"alan/web/routes/alan-web-api-narration-close/alan-web-api-narration-close.route.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"route.page-type.types.ts","path":"alan/web/routes/alan-web-api-narration-next/alan-web-api-narration-next.route.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"route.page-type.types.ts","path":"alan/web/routes/alan-web-api-narration-piece/alan-web-api-narration-piece.route.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"route.page-type.types.ts","path":"alan/web/routes/alan-web-api-narration-report/alan-web-api-narration-report.route.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"route.page-type.types.ts","path":"alan/web/routes/alan-web-api-narration/alan-web-api-narration.route.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"route.page-type.types.ts","path":"alan/web/routes/alan-web-api-page-events/alan-web-api-page-events.route.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"route.page-type.types.ts","path":"alan/web/routes/alan-web-api-page-file/alan-web-api-page-file.route.ts","typed":true,"deferred":false}

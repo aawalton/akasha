@@ -1,6 +1,7 @@
 {"propertySlug":"import","fileName":"narration-telling.module.code.ts","path":"alan/web/routes/alan-web-api-narration-close/alan-web-api-narration-close.route.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"narration-telling.module.code.ts","path":"alan/web/routes/alan-web-api-narration-next/alan-web-api-narration-next.route.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"narration-telling.module.code.ts","path":"alan/web/routes/alan-web-api-narration-piece/alan-web-api-narration-piece.route.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"narration-telling.module.code.ts","path":"alan/web/routes/alan-web-api-narration-report/alan-web-api-narration-report.route.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"narration-telling.module.code.ts","path":"alan/web/routes/alan-web-api-narration/alan-web-api-narration.route.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"narration-telling.module.code.ts","path":"story/chapter/narration/modules/listening/narration-listening.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"narration-telling.module.code.ts","path":"story/chapter/narration/modules/player/narration-player.module.code.tsx","typed":true,"deferred":false}
