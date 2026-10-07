@@ -1,2 +1,1 @@
-scene: "the lagoon pool...has gone blue with its lights" - beat 1 is 6 pm, an hour before sunset
 style: "You reach down for the sheet and pull it up over the three of you." - No Sign-Off
