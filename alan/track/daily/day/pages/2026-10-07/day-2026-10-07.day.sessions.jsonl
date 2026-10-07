@@ -4,4 +4,5 @@
 {"id":"01a115dd-ff54-79cc-a677-4df974b634b0","title":"Walk + Read","startedAt":"2026-10-07T10:15:00.000Z","dailyTracking":"01a115b8-3933-7295-9bd7-b75b2e8373fd","endedAt":"2026-10-07T10:35:00.000Z","safetyLevel":"3","difficultyLevel":"1"}
 {"id":"01a115ef-c794-737c-9c4c-1afd3d5d9cf0","title":"Walk + Read","startedAt":"2026-10-07T10:35:00.000Z","dailyTracking":"01a115b8-3933-7295-9bd7-b75b2e8373fd","endedAt":"2026-10-07T13:00:00.000Z","safetyLevel":"4","difficultyLevel":"1"}
 {"id":"01a11677-a1fc-7d36-83a8-8301ab78ca52","title":"Social","startedAt":"2026-10-07T13:00:00.000Z","dailyTracking":"01a115b8-3933-7295-9bd7-b75b2e8373fd","endedAt":"2026-10-07T13:20:00.000Z","safetyLevel":"3","difficultyLevel":"3"}
-{"id":"01a11699-03c1-7b65-9c5b-625c2d2591f3","title":"Social + Read + Pod","startedAt":"2026-10-07T13:20:00.000Z","dailyTracking":"01a115b8-3933-7295-9bd7-b75b2e8373fd","safetyLevel":"3","difficultyLevel":"3"}
+{"id":"01a11699-03c1-7b65-9c5b-625c2d2591f3","title":"Social + Read + Pod","startedAt":"2026-10-07T13:20:00.000Z","dailyTracking":"01a115b8-3933-7295-9bd7-b75b2e8373fd","safetyLevel":"3","difficultyLevel":"3","endedAt":"2026-10-07T14:25:00.000Z"}
+{"id":"01a116c1-4955-7a52-8826-5ea767aa77cb","title":"Music + Pod","startedAt":"2026-10-07T14:25:00.000Z","dailyTracking":"01a115b8-3933-7295-9bd7-b75b2e8373fd","safetyLevel":"3","difficultyLevel":"0"}
