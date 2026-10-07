@@ -1,4 +1,4 @@
-import { getMountainMorningDayStr } from "akasha/alan/harness/day-boundary/modules/mountain-day/mountain-day.module.code.ts"
+import { openedDayOf } from "akasha/alan/track/daily/modules/day-opening/day-opening.module.code.ts"
 import { selectionPolicy } from "akasha/alan/value/health/fitness/selection-policy/pages/selection-policy.selection-policy.ts"
 import { primaryMuscles } from "akasha/alan/value/health/fitness/strength/exercise/properties/primary-muscles.select-property.ts"
 import { takenFor } from "akasha/command/argument/modules/taking/argument-taking.module.code.ts"
@@ -62,6 +62,10 @@ import {
   warmupFor,
 } from "akasha/command/pages/fitness/next/modules/warming/warming.module.code.ts"
 import { valuesOfType } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
+import {
+  AKASHA,
+  rootsNamed,
+} from "akasha/page/modules/checkout-roots/checkout-roots.module.code.ts"
 import {
   slugAt,
   textAt,
@@ -318,8 +322,12 @@ function cooledFor(week: TrainingWeek, covered: ReadonlySet<string>, today: stri
   })
 }
 
+export function todayIn(root: string, now: Date): string {
+  return openedDayOf(rootsNamed({ [AKASHA]: root }, AKASHA), now)
+}
+
 function nextIn(root: string, now: Date): Next {
-  const today = getMountainMorningDayStr(now)
+  const today = todayIn(root, now)
   const focus = focusIn(root, today)
   if (focus === RESTING) return { ...BARE, resting: true }
   const week = weekIn(root, today, selectionPolicy.nearFailureRpeFloor)

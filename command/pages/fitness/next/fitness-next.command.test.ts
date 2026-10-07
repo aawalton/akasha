@@ -1,4 +1,6 @@
-import { expect, test } from "bun:test"
+import { afterAll, expect, test } from "bun:test"
+import { mkdirSync, writeFileSync } from "node:fs"
+import { dirname, join } from "node:path"
 import type { Given } from "akasha/command/modules/calling/calling.module.code.ts"
 import {
   coveredBy,
@@ -20,10 +22,13 @@ import {
   owedIn,
   restrictedIn,
   saidOf,
+  todayIn,
 } from "akasha/command/pages/fitness/next/fitness-next.command.code.ts"
 import type { Mark } from "akasha/command/pages/fitness/next/modules/marking/marking.module.code.ts"
 import { stepFor } from "akasha/command/pages/fitness/next/modules/stepping/stepping.module.code.ts"
 import type { Warmth } from "akasha/command/pages/fitness/next/modules/warming/warming.module.code.ts"
+import { scratchWorld } from "akasha/file/system/modules/scratching/scratching.module.code.ts"
+import { listedFiled } from "akasha/page/index/test-fixtures/filing/index-filing.test-fixture.code.ts"
 
 const GIVEN: Given = {
   root: "/nowhere",
@@ -330,6 +335,34 @@ test("a movement of the core is offered whatever the day trains", () => {
 
 test("a day whose focus is rest is answered as rest", () => {
   expect(saidOf(next({ resting: true }))[0]).toContain("rest day")
+})
+
+const scratch = scratchWorld()
+
+afterAll(scratch.sweep)
+
+function sleptBefore(day: string, sleep: { startedAt: string; endedAt: string }): string {
+  const root = scratch.rootFor("fitness-next-today-")
+  const at = `akasha/held/${day}/day-${day}.day.ts`
+  listedFiled(root, "day", `day-${day}`, [{ path: at, id: `id-${day}` }])
+  mkdirSync(dirname(join(root, at)), { recursive: true })
+  writeFileSync(join(root, at), "export const held = {}\n")
+  const row = { id: "a", title: "Sleep", ...sleep }
+  writeFileSync(join(root, at.replace(/\.ts$/, ".sessions.jsonl")), `${JSON.stringify(row)}\n`)
+  return root
+}
+
+const WOKE_EARLY = sleptBefore("2026-10-07", {
+  startedAt: "2026-10-07T01:30:00.000Z",
+  endedAt: "2026-10-07T09:30:00.000Z",
+})
+
+test("today is the tracked day Alan's sleep opened rather than a morning on the clock", () => {
+  expect(todayIn(WOKE_EARLY, new Date("2026-10-07T10:04:00.000Z"))).toBe("2026-10-07")
+})
+
+test("an instant before the sleep that opened a day is still the day before", () => {
+  expect(todayIn(WOKE_EARLY, new Date("2026-10-07T01:00:00.000Z"))).toBe("2026-10-06")
 })
 
 test("a word this takes no argument for is refused", () => {
