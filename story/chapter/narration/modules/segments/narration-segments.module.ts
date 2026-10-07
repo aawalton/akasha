@@ -52,6 +52,15 @@ export const narrationSegments = {
     {
       decisionKind: "decision-kind/departure",
       statement:
+        "Square brackets are dropped and their words kept, since the voice reads them as markup.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Any mark between two letters in the place of an apostrophe is said as one.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
         "An ellipsis joining two words is followed by a space, so the voice says two words.",
     },
     {

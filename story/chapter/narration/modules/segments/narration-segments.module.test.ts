@@ -119,6 +119,20 @@ describe("narrationSegmentsOf", () => {
     ])
   })
 
+  test("square brackets are dropped and their words kept, since the voice reads brackets as markup", () => {
+    expect(texts("Start.\nAnother [Guard]’s time, and the [Priest] didn’t care.")).toEqual([
+      "Start.",
+      "Another Guard's time, and the Priest didn't care.",
+    ])
+  })
+
+  test("any apostrophe between two letters is said as one", () => {
+    expect(texts("Start.\nI don`t, can´t, won′t, isnʼt or Tom‘s.")).toEqual([
+      "Start.",
+      "I don't, can't, won't, isn't or Tom's.",
+    ])
+  })
+
   test("an ellipsis between two words leaves them two words", () => {
     expect(texts("Start.\nI do…no, I don't...really.")).toEqual([
       "Start.",

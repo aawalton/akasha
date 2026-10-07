@@ -56,6 +56,8 @@ const NAMED: Readonly<Record<string, string>> = {
 }
 const DASH_RUN = /\s*(?:[—–]{2,}|[—–]?-{2,}[—–]?)\s*/g
 const GLUED_ELLIPSIS = /(…|\.{3,})(?=[\p{L}\p{N}])/gu
+const BRACKETS = /[[\]【】〔〕]/g
+const INNER_APOSTROPHE = /(?<=\p{L})[`´′ʼ‘’](?=\p{L})/gu
 const ORNAMENT = /\p{So}+/gu
 const LOOSE_COMMAS = /\s*,(?:\s*,)+/g
 const COMMA_BEFORE_END = /\s*,\s*([.!?…:;]|$)/g
@@ -110,6 +112,8 @@ function plainOf(line: string): string {
     .replace(LINK, "$1")
     .replace(URL, "")
     .replace(TAG, "")
+    .replace(BRACKETS, "")
+    .replace(INNER_APOSTROPHE, "'")
     .replace(STRONG, "$2")
     .replace(EMPHASIS, "$1$3")
     .replace(MARKS, "")
