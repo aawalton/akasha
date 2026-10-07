@@ -34,7 +34,7 @@ export const encounters0008ColorCoded = {
     "character-other/encounters-hana",
   ],
   reviewedBy: ["story-reviewer/scene", "story-reviewer/holdings", "story-reviewer/style"],
-  recordedBy: ["story-recorder/plan"],
+  recordedBy: ["story-recorder/plan", "story-recorder/mechanics"],
   rulings: "jsonl",
   scenes: ["image/image-0e217c436aae5ba2"],
 } as const satisfies StoryChapterWritten
