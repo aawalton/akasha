@@ -1,8 +1,4 @@
-style: "I would die for you," - No Tropes
-style: "steady as a tide" - No Tropes
-style: "You're coming apart under her" / "steady, sure, unstoppable" - No Tropes
-style: "fierce and scared and wild all at once" - No Tropes
-style: "looks at Kenzie through them, and then at you" / "looks at Kenzie, and then at you" - Window Pane
 continuity: "pads naked across the room to the mini fridge" - Kenzie is no knower of the mini fridge, no memory
 continuity: beat 109 "Priya comes quietly, biting her lip" - Kenzie sees it; no memory line, she is no knower
 continuity: beat 31 "strips his shirt and shorts off him" - prose: "You hadn't put a shirt on yet"
+style: "it's almost at once" / "close again almost as soon as she starts" - Window Pane

@@ -30,7 +30,7 @@ export const encounters0009BestOfThree = {
     "character-other/encounters-priya",
     "character-other/encounters-sofia",
   ],
-  reviewedBy: ["story-reviewer/scene", "story-reviewer/holdings"],
+  reviewedBy: ["story-reviewer/scene", "story-reviewer/holdings", "story-reviewer/style"],
   recordedBy: [
     "story-recorder/plan",
     "story-recorder/mechanics",
