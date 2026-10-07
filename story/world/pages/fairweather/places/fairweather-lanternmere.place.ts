@@ -403,5 +403,14 @@ export const fairweatherLanternmere = {
         "character-other/fairweather-tamsin",
       ],
     },
+    {
+      fact: "The Coin Street letting agent is Mr Penney, plump, in a waistcoat with a gold watch chain.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-tamsin",
+        "character-other/fairweather-tilly",
+      ],
+    },
   ],
 } as const satisfies Place
