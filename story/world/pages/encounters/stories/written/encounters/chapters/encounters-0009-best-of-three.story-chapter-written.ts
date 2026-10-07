@@ -13,6 +13,7 @@ export const encounters0009BestOfThree = {
   prose: "txt",
   stepStatus: "step-status/reviewers",
   beats: "jsonl",
+  issues: "txt",
   lore: [
     "lore/encounters-kenzie",
     "lore/encounters-kenzie-2",
@@ -29,7 +30,7 @@ export const encounters0009BestOfThree = {
     "character-other/encounters-priya",
     "character-other/encounters-sofia",
   ],
-  reviewedBy: ["story-reviewer/scene", "story-reviewer/holdings"],
+  reviewedBy: ["story-reviewer/scene", "story-reviewer/holdings", "story-reviewer/style"],
   recordedBy: [
     "story-recorder/mechanics",
     "story-recorder/plan",
