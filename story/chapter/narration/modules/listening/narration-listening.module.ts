@@ -49,5 +49,9 @@ export const narrationListening = {
       decisionKind: "decision-kind/departure",
       statement: "A narration asks the phone to keep playing it in the background.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "hls.js holds ten minutes of a narration past the playhead.",
+    },
   ],
 } as const satisfies Module
