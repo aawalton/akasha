@@ -198,6 +198,7 @@ export const encountersKenzie = {
         "character-other/encounters-kenzie",
         "character-player/encounters-alan",
         "character-other/encounters-sofia",
+        "character-other/encounters-hana",
       ],
     },
     {
@@ -216,6 +217,7 @@ export const encountersKenzie = {
         "character-other/encounters-kenzie",
         "character-player/encounters-alan",
         "character-other/encounters-sofia",
+        "character-other/encounters-hana",
       ],
     },
     {
@@ -252,6 +254,7 @@ export const encountersKenzie = {
         "lore-disclosure/game-master",
         "character-other/encounters-kenzie",
         "character-other/encounters-hana",
+        "character-player/encounters-alan",
       ],
     },
     {
@@ -260,6 +263,7 @@ export const encountersKenzie = {
         "lore-disclosure/game-master",
         "character-other/encounters-kenzie",
         "character-other/encounters-hana",
+        "character-player/encounters-alan",
       ],
     },
     {
@@ -268,6 +272,7 @@ export const encountersKenzie = {
         "lore-disclosure/game-master",
         "character-other/encounters-kenzie",
         "character-other/encounters-hana",
+        "character-player/encounters-alan",
       ],
     },
   ],

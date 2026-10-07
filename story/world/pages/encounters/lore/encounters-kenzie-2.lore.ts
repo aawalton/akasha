@@ -159,5 +159,41 @@ export const encountersKenzie2 = {
         "character-other/encounters-hana",
       ],
     },
+    {
+      fact: "Chapter 7: Kenzie came to Alan's room at night with wine and Hana, for a night with him.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/encounters-alan",
+        "character-other/encounters-kenzie",
+        "character-other/encounters-hana",
+      ],
+    },
+    {
+      fact: "Alan promised Kenzie not to tell Sofia or Priya about Kenzie and Hana's night.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/encounters-alan",
+        "character-other/encounters-kenzie",
+        "character-other/encounters-hana",
+      ],
+    },
+    {
+      fact: "Kenzie and Hana have each thought about their night together ever since; Kenzie, every week.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/encounters-alan",
+        "character-other/encounters-kenzie",
+        "character-other/encounters-hana",
+      ],
+    },
+    {
+      fact: "Alan fucked Kenzie and Hana together in his Royal Pacific room, and came inside Hana.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/encounters-alan",
+        "character-other/encounters-kenzie",
+        "character-other/encounters-hana",
+      ],
+    },
   ],
 } as const satisfies Lore

@@ -11,9 +11,8 @@ export const encounters0007TheLastTime = {
   story: "story-written/encounters",
   ownLength: 4960,
   prose: "txt",
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/player",
   beats: "jsonl",
-  issues: "txt",
   lore: [
     "lore/encounters-hana",
     "lore/encounters-hana-2",
@@ -33,7 +32,12 @@ export const encounters0007TheLastTime = {
     "character-other/encounters-sofia",
     "character-other/encounters-priya",
   ],
-  reviewedBy: ["story-reviewer/style", "story-reviewer/holdings", "story-reviewer/scene"],
+  reviewedBy: [
+    "story-reviewer/style",
+    "story-reviewer/holdings",
+    "story-reviewer/scene",
+    "story-reviewer/continuity",
+  ],
   recordedBy: [
     "story-recorder/plan",
     "story-recorder/mechanics",

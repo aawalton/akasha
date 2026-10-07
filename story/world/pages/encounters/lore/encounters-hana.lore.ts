@@ -237,6 +237,7 @@ export const encountersHana = {
         "character-other/encounters-hana",
         "character-player/encounters-alan",
         "character-other/encounters-priya",
+        "character-other/encounters-kenzie",
       ],
     },
     {
@@ -246,6 +247,7 @@ export const encountersHana = {
         "character-other/encounters-hana",
         "character-player/encounters-alan",
         "character-other/encounters-priya",
+        "character-other/encounters-kenzie",
       ],
     },
     {
@@ -254,6 +256,7 @@ export const encountersHana = {
         "lore-disclosure/game-master",
         "character-other/encounters-hana",
         "character-player/encounters-alan",
+        "character-other/encounters-kenzie",
       ],
     },
     {

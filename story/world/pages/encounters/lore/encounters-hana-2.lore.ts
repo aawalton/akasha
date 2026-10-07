@@ -84,6 +84,25 @@ export const encountersHana2 = {
         "lore-disclosure/game-master",
         "character-other/encounters-kenzie",
         "character-other/encounters-hana",
+        "character-player/encounters-alan",
+      ],
+    },
+    {
+      fact: "Chapter 7: Hana came to Alan's room with Kenzie, having said yes to a night with them.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/encounters-alan",
+        "character-other/encounters-hana",
+        "character-other/encounters-kenzie",
+      ],
+    },
+    {
+      fact: "Hana got her clit hood pierced this summer.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/encounters-alan",
+        "character-other/encounters-kenzie",
+        "character-other/encounters-hana",
       ],
     },
   ],
