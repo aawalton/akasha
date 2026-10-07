@@ -34,7 +34,12 @@ export const encounters0010WindowLight = {
     "character-other/encounters-kenzie",
   ],
   reviewedBy: ["story-reviewer/holdings", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/plan", "story-recorder/mechanics", "story-recorder/inventory"],
+  recordedBy: [
+    "story-recorder/plan",
+    "story-recorder/mechanics",
+    "story-recorder/inventory",
+    "story-recorder/picture",
+  ],
   rulings: "jsonl",
   scenes: ["image/image-aae52333f28869dd"],
 } as const satisfies StoryChapterWritten
