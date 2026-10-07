@@ -6,8 +6,45 @@ import {
   REOPENS,
   reopenWait,
   streamLost,
+  TOP_UP_EVERY_MS,
+  topUpOf,
   UNREACHABLE_GRACE_MS,
 } from "akasha/story/chapter/narration/modules/recovery/narration-recovery.module.code.ts"
+
+const SHORT = { ahead: 300, at: 1000, end: 20_000, grew: false, toppedAt: null, now: 500_000 }
+
+describe("topUpOf", () => {
+  test("ten minutes held past the playhead is enough", () => {
+    expect(topUpOf({ ...SHORT, ahead: 600 })).toBe("enough")
+  })
+
+  test("a stream held to its end is enough however little is left", () => {
+    expect(topUpOf({ ...SHORT, ahead: 30, end: 1030 })).toBe("enough")
+  })
+
+  test("less than ten minutes held, and nothing arriving, asks the stream again", () => {
+    expect(topUpOf(SHORT)).toBe("top-up")
+  })
+
+  test("audio still arriving is left to arrive", () => {
+    expect(topUpOf({ ...SHORT, grew: true })).toBe("wait")
+  })
+
+  test("a stream is asked again at most once a minute", () => {
+    const toppedAt = SHORT.now - TOP_UP_EVERY_MS + 1
+    expect(topUpOf({ ...SHORT, toppedAt })).toBe("wait")
+    expect(topUpOf({ ...SHORT, toppedAt: SHORT.now - TOP_UP_EVERY_MS })).toBe("top-up")
+  })
+
+  test("a playhead run dry after asking again is dry", () => {
+    expect(topUpOf({ ...SHORT, ahead: 0, toppedAt: SHORT.now - 10_000 })).toBe("dry")
+    expect(topUpOf({ ...SHORT, ahead: 0, toppedAt: SHORT.now - 9_000 })).toBe("wait")
+  })
+
+  test("a playhead run dry with no ask yet asks first", () => {
+    expect(topUpOf({ ...SHORT, ahead: 0 })).toBe("top-up")
+  })
+})
 
 describe("answerOf", () => {
   test("a narration the speech workload no longer has is lost", () => {

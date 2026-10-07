@@ -36,6 +36,15 @@ function heldOf(ranges: TimeRanges): Held {
   return Array.from({ length: ranges.length }, (_, n) => [ranges.start(n), ranges.end(n)] as const)
 }
 
+export function heldAheadOf(audio: HTMLAudioElement): number {
+  return heldAhead(heldOf(audio.buffered), audio.currentTime)
+}
+
+export function seekableEnd(audio: HTMLAudioElement): number {
+  const ranges = audio.seekable
+  return ranges.length === 0 ? 0 : ranges.end(ranges.length - 1)
+}
+
 export function stateOf(audio: HTMLAudioElement): Reported {
   const held = heldOf(audio.buffered)
   const last = heldOf(audio.seekable).at(-1)

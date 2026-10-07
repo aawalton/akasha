@@ -17,7 +17,6 @@ import {
   nowPlayingOf,
   playsHlsItself,
   progressWritten,
-  seekableEnd,
   silenceWav,
   streamedInto,
   useSpeed,
@@ -39,7 +38,10 @@ import {
   useLostSession,
   useRecovery,
 } from "akasha/story/chapter/narration/modules/recovery/narration-recovery.module.code.ts"
-import { useNarrationReport } from "akasha/story/chapter/narration/modules/report/narration-report.module.code.ts"
+import {
+  seekableEnd,
+  useNarrationReport,
+} from "akasha/story/chapter/narration/modules/report/narration-report.module.code.ts"
 import type { ChapterHeld } from "akasha/story/chapter/narration/modules/telling/narration-telling.module.code.ts"
 import Hls from "hls.js"
 import {

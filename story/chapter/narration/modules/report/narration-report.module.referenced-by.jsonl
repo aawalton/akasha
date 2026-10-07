@@ -1,4 +1,4 @@
 {"propertySlug":"import","fileName":"narration-report.module.code.ts","path":"story/chapter/narration/modules/player/narration-player.module.code.tsx","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"narration-report.module.code.ts","path":"story/chapter/narration/modules/recovery/narration-recovery.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"narration-report.module.code.ts","path":"story/chapter/narration/modules/recovery/narration-recovery.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"narration-report.module.code.ts","path":"story/chapter/narration/modules/report/narration-report.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"story/chapter/narration/narration.domain.ts","id":"01a10dba-92d8-79bd-b65d-435b1af749d5"}

@@ -1,4 +1,8 @@
-import type { Report } from "akasha/story/chapter/narration/modules/report/narration-report.module.code.ts"
+import {
+  heldAheadOf,
+  type Report,
+  seekableEnd,
+} from "akasha/story/chapter/narration/modules/report/narration-report.module.code.ts"
 import { type RefObject, useCallback, useEffect, useRef, useState } from "react"
 
 export const NUDGE_AFTER_MS = 20_000
@@ -12,6 +16,38 @@ const FIRST_WAIT_MS = 2000
 const HEALED_SECONDS = 10
 
 export const UNREACHABLE_GRACE_MS = 20_000
+
+export const KEEP_AHEAD_SECONDS = 600
+
+export const TOP_UP_EVERY_MS = 60_000
+
+export const DRY_WAIT_MS = 10_000
+
+const DRY_SECONDS = 2
+
+const END_SLACK_SECONDS = 1
+
+const HELD_CHECKED_EVERY_MS = 5000
+
+const GREW_SECONDS = 0.5
+
+export type TopUp = "enough" | "wait" | "top-up" | "dry"
+
+export function topUpOf(held: {
+  readonly ahead: number
+  readonly at: number
+  readonly end: number
+  readonly grew: boolean
+  readonly toppedAt: number | null
+  readonly now: number
+}): TopUp {
+  const { ahead, at, end, grew, toppedAt, now } = held
+  if (ahead >= KEEP_AHEAD_SECONDS || at + ahead >= end - END_SLACK_SECONDS) return "enough"
+  if (grew) return "wait"
+  const dry = ahead <= DRY_SECONDS
+  if (toppedAt !== null && now - toppedAt < (dry ? DRY_WAIT_MS : TOP_UP_EVERY_MS)) return "wait"
+  return dry && toppedAt !== null ? "dry" : "top-up"
+}
 
 const LOST = new Set([404, 410])
 
@@ -114,6 +150,8 @@ export function useRecovery(
   const heardAt = useRef(0)
   const timers = useRef<ReturnType<typeof setTimeout>[]>([])
   const reopening = useRef<ReturnType<typeof setTimeout> | null>(null)
+  const toppedAt = useRef<number | null>(null)
+  const heldBefore = useRef(0)
 
   const calm = useCallback((): undefined => {
     for (const timer of timers.current) clearTimeout(timer)
@@ -196,6 +234,37 @@ export function useRecovery(
       for (const [name, listener] of listened) element.removeEventListener(name, listener)
     }
   }, [audio, steering, calm, broken, report])
+
+  useEffect(() => {
+    const element = audio.current
+    if (element === null) return
+    const timer = setInterval(() => {
+      const steer = steering.current
+      if (!steer.live() || element.paused) return
+      const ahead = heldAheadOf(element)
+      const heldTo = element.currentTime + ahead
+      const grew = heldTo > heldBefore.current + GREW_SECONDS
+      heldBefore.current = heldTo
+      const said = topUpOf({
+        ahead,
+        at: element.currentTime,
+        end: seekableEnd(element),
+        grew,
+        toppedAt: toppedAt.current,
+        now: Date.now(),
+      })
+      if (said === "enough") toppedAt.current = null
+      else if (said === "dry") {
+        toppedAt.current = null
+        broken("The phone stopped downloading the narration.")
+      } else if (said === "top-up") {
+        toppedAt.current = Date.now()
+        report("top-up", { ahead })
+        steer.nudge()
+      }
+    }, HELD_CHECKED_EVERY_MS)
+    return () => clearInterval(timer)
+  }, [audio, steering, broken, report])
 
   return { reconnecting, broken }
 }

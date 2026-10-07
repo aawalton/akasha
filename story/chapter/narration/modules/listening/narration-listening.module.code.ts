@@ -8,7 +8,10 @@ import {
   type ChapterPlaced,
   chapterStarts,
 } from "akasha/story/chapter/narration/modules/playhead/narration-playhead.module.code.ts"
-import { streamLost } from "akasha/story/chapter/narration/modules/recovery/narration-recovery.module.code.ts"
+import {
+  KEEP_AHEAD_SECONDS,
+  streamLost,
+} from "akasha/story/chapter/narration/modules/recovery/narration-recovery.module.code.ts"
 import type { ChapterHeld } from "akasha/story/chapter/narration/modules/telling/narration-telling.module.code.ts"
 import Hls, { type ErrorData } from "hls.js"
 import { type RefObject, useCallback, useEffect, useRef, useState } from "react"
@@ -28,6 +31,8 @@ const HELD_AT_START = {
   liveSyncDurationCount: Number.MAX_SAFE_INTEGER,
   liveMaxLatencyDurationCount: Number.POSITIVE_INFINITY,
   liveDurationInfinity: true,
+  maxBufferLength: KEEP_AHEAD_SECONDS,
+  maxMaxBufferLength: KEEP_AHEAD_SECONDS * 2,
 } as const
 
 export function playsHlsItself(audio: HTMLAudioElement): boolean {
@@ -180,11 +185,6 @@ export function heldOf(said: unknown): ChapterHeld | null {
   if (said === null || typeof said !== "object") return null
   const held = said as ChapterHeld
   return typeof held.id === "string" && typeof held.slug === "string" ? held : null
-}
-
-export function seekableEnd(audio: HTMLAudioElement): number {
-  const ranges = audio.seekable
-  return ranges.length === 0 ? 0 : ranges.end(ranges.length - 1)
 }
 
 export function markRead(held: ChapterHeld | undefined): undefined {

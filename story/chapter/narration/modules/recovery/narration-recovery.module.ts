@@ -64,8 +64,21 @@ export const narrationRecovery = {
       statement: "A narration lives only in the speech workload's memory, so its restart loses it.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "The phone keeps at least ten minutes of a narration downloaded past the playhead.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Less held and nothing arriving asks the stream again, at most once a minute.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A playhead run dry ten seconds after asking again reopens the narration.",
+    },
+    {
       decisionKind: "decision-kind/constraint",
-      statement: "iOS fills a locked phone's buffer only once playing has run it dry.",
+      statement: "iOS can stop downloading a stream and run dry without saying it is waiting.",
     },
   ],
 } as const satisfies Module
