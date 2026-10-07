@@ -13,6 +13,7 @@ export const encounters0006TheList = {
   prose: "txt",
   stepStatus: "step-status/mechanics",
   beats: "jsonl",
+  mechanicsIssues: "txt",
   issues: "txt",
   lore: [
     "lore/encounters-hana",
@@ -32,5 +33,6 @@ export const encounters0006TheList = {
     "character-other/encounters-kenzie",
   ],
   reviewedBy: ["story-reviewer/holdings", "story-reviewer/scene"],
+  recordedBy: ["story-recorder/plan"],
   scenes: ["image/image-9d8d65344e6be4b9"],
 } as const satisfies StoryChapterWritten
