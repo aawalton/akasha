@@ -1,4 +1,3 @@
-continuity: "Mr Penney" (b7, b65) - the agent's name: no memory line, here or before, shows it
 style: "A late punt went by under the open window." - No Sign-Off
 style: "A late punt goes by under the window" (beat 184) - No Sign-Off
 style: "Nobody robs her." (beat 43) - Nobody Acts

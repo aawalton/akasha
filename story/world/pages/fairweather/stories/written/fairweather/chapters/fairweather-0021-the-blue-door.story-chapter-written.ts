@@ -11,7 +11,7 @@ export const fairweather0021TheBlueDoor = {
   story: "story-written/fairweather",
   ownLength: 9626,
   prose: "txt",
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/game-master",
   beats: "jsonl",
   issues: "txt",
   lore: [
@@ -53,7 +53,7 @@ export const fairweather0021TheBlueDoor = {
     "character-other/fairweather-noor",
     "character-other/fairweather-amara",
   ],
-  reviewedBy: ["story-reviewer/holdings", "story-reviewer/scene", "story-reviewer/style"],
+  reviewedBy: ["story-reviewer/holdings", "story-reviewer/scene", "story-reviewer/continuity"],
   recordedBy: [
     "story-recorder/plan",
     "story-recorder/inventory",
