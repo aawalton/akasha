@@ -191,6 +191,10 @@ export const encountersSofia3 = {
       ],
     },
     {
+      fact: "Sofia has had a crush on Hana since Kenzie first brought her home, and buried it as hopeless.",
+      knowers: ["lore-disclosure/game-master", "character-other/encounters-sofia"],
+    },
+    {
       fact: "For chapter 8, Kenzie gave up her bed and slept next door in Priya's, beside Hana.",
       knowers: [
         "lore-disclosure/game-master",

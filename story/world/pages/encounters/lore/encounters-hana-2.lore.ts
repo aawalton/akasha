@@ -97,6 +97,37 @@ export const encountersHana2 = {
       ],
     },
     {
+      fact: "Hana's one print she has shown no one is of Sofia asleep in window light, sophomore year.",
+      knowers: ["lore-disclosure/game-master", "character-other/encounters-hana"],
+    },
+    {
+      fact: "Priya told Hana to tell Sofia she loves her before the trip ends, or Priya would tell her.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/encounters-priya",
+        "character-other/encounters-hana",
+      ],
+    },
+    {
+      fact: "Chapter 10: Hana asked Sofia and Alan to her and Priya's room, saying she had prints to show.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/encounters-alan",
+        "character-other/encounters-sofia",
+        "character-other/encounters-hana",
+      ],
+    },
+    {
+      fact: "For chapter 10, Priya slept next door in Sofia's bed, beside Kenzie.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/encounters-sofia",
+        "character-other/encounters-kenzie",
+        "character-other/encounters-priya",
+        "character-other/encounters-hana",
+      ],
+    },
+    {
       fact: "Hana got her clit hood pierced this summer.",
       knowers: [
         "lore-disclosure/game-master",
