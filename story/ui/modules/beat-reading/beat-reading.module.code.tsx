@@ -2,6 +2,10 @@
 
 import type { BeatChange } from "akasha/story/engine/beat-state/modules/beat-changes/beat-changes.module.code.ts"
 import {
+  proseWritten,
+  type BeatProse as Told,
+} from "akasha/story/engine/beat-state/modules/beat-prose/beat-prose.module.code.ts"
+import {
   type Beats,
   beatsIn,
 } from "akasha/story/engine/beat-state/modules/beat-records/beat-records.module.code.ts"
@@ -271,6 +275,28 @@ export function coversOn(beats: Beats, beat: number): readonly InlineCover[] {
     }))
 }
 
+type BeatRun = {
+  readonly last: number
+  readonly text: string
+  readonly covers: readonly InlineCover[]
+}
+
+export function beatRunsOf(beats: Beats): readonly BeatRun[] {
+  const runs: Told[][] = []
+  for (const [index] of beats.beats.entries()) {
+    const beat = index + ONE
+    const told: Told = beats.prose?.find((one) => one.beat === beat) ?? { beat, prose: "" }
+    const last = runs.at(-1)
+    if (told.continues === true && last !== undefined) last.push(told)
+    else runs.push([told])
+  }
+  return runs.map((run) => ({
+    last: run.at(-1)?.beat ?? FIRST,
+    text: proseWritten(run).trimEnd(),
+    covers: run.flatMap((one) => coversOn(beats, one.beat)),
+  }))
+}
+
 export type BeatReading = {
   readonly reading: boolean
   readonly beats: Beats
@@ -359,15 +385,13 @@ export function BeatProse({
   const { register } = useBeatReading()
   return (
     <>
-      {beats.beats.map((_event, index) => {
-        const beat = index + ONE
-        const told = beats.prose?.find((one) => one.beat === beat)?.prose ?? ""
+      {beatRunsOf(beats).map((run) => {
         return (
-          <div key={beat} ref={(at) => register(beat, at)}>
+          <div key={run.last} ref={(at) => register(run.last, at)}>
             <ChapterProse
-              text={told}
-              segments={proseSegmentsOf(told)}
-              covers={coversOn(beats, beat)}
+              text={run.text}
+              segments={proseSegmentsOf(run.text)}
+              covers={run.covers}
               asker={asker}
               muted={muted}
               gameExternalId={gameExternalId}

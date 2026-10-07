@@ -14,6 +14,14 @@ export const beatReading = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A beat that continues the paragraph before it is drawn in the block before it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A block holding beats run together is read as the last beat in it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "The beat read is the last one whose block starts above a third of the window.",
     },
     {

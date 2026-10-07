@@ -6,6 +6,7 @@ import {
   appearedOn,
   type BeatReading,
   baseOf,
+  beatRunsOf,
   beatSeen,
   coversOn,
   overlayOf,
@@ -59,6 +60,27 @@ test("covers sit on the beat each shows", () => {
   expect(coversOn(pictured, 1)).toEqual([])
   expect(coversOn(pictured, 2)).toEqual([
     { id: "2/1", number: 2, cover: "image/image-a", after: "Elsie takes" },
+  ])
+})
+
+test("a beat that continues is drawn in the block before it, read as the block's last beat", () => {
+  const told: Beats = {
+    ...BEATS,
+    beats: ["a", "b", "c"],
+    prose: [
+      { beat: 1, prose: "Elsie trains.\n\nHer arms ache." },
+      { beat: 2, prose: "She takes a lamp.", continues: true },
+      { beat: 3, prose: "Night falls." },
+    ],
+    pictured: [{ beat: 2, cover: "image/image-a", coverAfter: "Elsie trains" }],
+  }
+  expect(beatRunsOf(told)).toEqual([
+    {
+      last: 2,
+      text: "Elsie trains.\n\nHer arms ache. She takes a lamp.",
+      covers: [{ id: "2/1", number: 2, cover: "image/image-a", after: "Elsie trains" }],
+    },
+    { last: 3, text: "Night falls.", covers: [] },
   ])
 })
 
