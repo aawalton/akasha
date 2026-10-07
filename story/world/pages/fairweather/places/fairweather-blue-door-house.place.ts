@@ -31,27 +31,65 @@ export const fairweatherBlueDoorHouse = {
     },
     {
       fact: "The ground floor is one big kitchen: a long scrubbed table, a black iron range and a stone sink.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-tamsin",
+        "character-other/fairweather-tilly",
+        "character-other/fairweather-ines",
+        "character-other/fairweather-amara",
+        "character-other/fairweather-noor",
+        "character-other/fairweather-cora",
+      ],
     },
     {
       fact: "A back door opens from the kitchen on the garden; its sills face south and get the sun all day.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-tamsin",
+        "character-other/fairweather-tilly",
+      ],
     },
     {
       fact: "The kitchen range smokes until its flue is swept, and nobody has swept it in a year.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-tamsin",
+        "character-other/fairweather-tilly",
+        "character-other/fairweather-ines",
+        "character-other/fairweather-amara",
+        "character-other/fairweather-noor",
+        "character-other/fairweather-cora",
+      ],
     },
     {
       fact: "The middle floor has a parlour over the canal, with a sagging green sofa, and one small bedroom.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-tamsin",
+        "character-other/fairweather-tilly",
+      ],
     },
     {
       fact: "The top floor has two small bedrooms under the slope of the roof, one with a gable window.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-tamsin",
+        "character-other/fairweather-tilly",
+      ],
     },
     {
       fact: "The house comes with three bedsteads, the sofa, the kitchen table and six chairs that don't match.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-tamsin",
+        "character-other/fairweather-tilly",
+      ],
     },
     {
       fact: "The rent is two suns a month, paid on the first; the agent keeps a month's rent in hand.",
