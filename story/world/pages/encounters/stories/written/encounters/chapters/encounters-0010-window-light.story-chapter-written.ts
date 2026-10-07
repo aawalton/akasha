@@ -13,6 +13,7 @@ export const encounters0010WindowLight = {
   prose: "txt",
   stepStatus: "step-status/reviewers",
   beats: "jsonl",
+  issues: "txt",
   lore: [
     "lore/encounters-hana",
     "lore/encounters-hana-2",
@@ -32,7 +33,7 @@ export const encounters0010WindowLight = {
     "character-other/encounters-priya",
     "character-other/encounters-kenzie",
   ],
-  reviewedBy: ["story-reviewer/holdings"],
+  reviewedBy: ["story-reviewer/holdings", "story-reviewer/style"],
   recordedBy: [
     "story-recorder/mechanics",
     "story-recorder/plan",
