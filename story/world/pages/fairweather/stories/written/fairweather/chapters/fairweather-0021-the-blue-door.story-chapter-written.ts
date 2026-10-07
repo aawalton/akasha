@@ -11,9 +11,8 @@ export const fairweather0021TheBlueDoor = {
   story: "story-written/fairweather",
   ownLength: 9624,
   prose: "txt",
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/player",
   beats: "jsonl",
-  issues: "txt",
   lore: [
     "lore/fairweather-amara",
     "lore/fairweather-cora",
@@ -22,6 +21,7 @@ export const fairweather0021TheBlueDoor = {
     "lore/fairweather-elsie-2",
     "lore/fairweather-guild-hall-2",
     "lore/fairweather-ines",
+    "lore/fairweather-lanternmere-2",
     "lore/fairweather-nell",
     "lore/fairweather-noor",
     "lore/fairweather-rosa",
@@ -53,7 +53,12 @@ export const fairweather0021TheBlueDoor = {
     "character-other/fairweather-noor",
     "character-other/fairweather-amara",
   ],
-  reviewedBy: ["story-reviewer/holdings", "story-reviewer/scene", "story-reviewer/continuity"],
+  reviewedBy: [
+    "story-reviewer/holdings",
+    "story-reviewer/scene",
+    "story-reviewer/continuity",
+    "story-reviewer/style",
+  ],
   recordedBy: [
     "story-recorder/plan",
     "story-recorder/inventory",
@@ -61,7 +66,6 @@ export const fairweather0021TheBlueDoor = {
     "story-recorder/picture",
     "story-recorder/memory",
   ],
-  rulings: "jsonl",
   scenes: [
     "image/image-58343c6eeb3e56ef",
     "image/image-c2ee91b72135c08f",

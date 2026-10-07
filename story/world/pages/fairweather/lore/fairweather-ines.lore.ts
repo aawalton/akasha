@@ -266,5 +266,45 @@ export const fairweatherInes = {
         "character-other/fairweather-noor",
       ],
     },
+    {
+      fact: "Ines told Elsie the hour before the sun is her favourite.",
+      knowers: ["lore-disclosure/game-master", "character-player/fairweather-elsie"],
+    },
+    {
+      fact: "After Lantern Night Biscuit stayed in Noor's lap until she stood up.",
+      knowers: ["lore-disclosure/game-master", "character-player/fairweather-elsie"],
+    },
+    {
+      fact: "Elsie asked Ines to supper at the blue door on the twenty-first, and Ines nodded.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-tamsin",
+        "character-other/fairweather-tilly",
+        "character-other/fairweather-cora",
+        "character-other/fairweather-noor",
+        "character-other/fairweather-ines",
+      ],
+    },
+    {
+      fact: "Ines brought a crock of honey to the blue door, because a house should have honey.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-tamsin",
+        "character-other/fairweather-tilly",
+        "character-other/fairweather-ines",
+      ],
+    },
+    {
+      fact: "Biscuit curled up in the blue-door house's cold oven, as if he'd always had it.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-tamsin",
+        "character-other/fairweather-tilly",
+        "character-other/fairweather-ines",
+      ],
+    },
   ],
 } as const satisfies Lore

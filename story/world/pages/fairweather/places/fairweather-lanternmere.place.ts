@@ -229,6 +229,7 @@ export const fairweatherLanternmere = {
         "character-other/fairweather-tamsin",
         "character-other/fairweather-tilly",
         "character-other/fairweather-cora",
+        "character-other/fairweather-noor",
       ],
     },
     {
@@ -283,6 +284,17 @@ export const fairweatherLanternmere = {
     {
       fact: "On Spindle Lane a pair of knitting needles costs three pips.",
       knowers: ["lore-disclosure/game-master", "character-player/fairweather-elsie"],
+    },
+    {
+      fact: "Elsie brought Mr Penney his honey cake, and he said it was exactly as warm as she'd said.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-tamsin",
+        "character-other/fairweather-tilly",
+        "character-other/fairweather-cora",
+        "character-other/fairweather-noor",
+      ],
     },
   ],
 } as const satisfies Place

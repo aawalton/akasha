@@ -60,5 +60,33 @@ export const fairweatherTamsin2 = {
         "character-other/fairweather-noor",
       ],
     },
+    {
+      fact: "A C-rank leader called them the Enthraller's lot; Tamsin answered: the Fairweather party.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-tamsin",
+        "character-other/fairweather-tilly",
+        "character-other/fairweather-cora",
+        "character-other/fairweather-noor",
+      ],
+    },
+    {
+      fact: "On their first night at the blue door, Elsie, Tamsin and Tilly lay together on the parlour sofa.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-tamsin",
+        "character-other/fairweather-tilly",
+      ],
+    },
+    {
+      fact: "Tamsin told Elsie the Marigold is in tomorrow, and her mother will want to see the blue door.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-tamsin",
+      ],
+    },
   ],
 } as const satisfies Lore

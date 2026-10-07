@@ -226,5 +226,48 @@ export const fairweatherCora2 = {
         "character-other/fairweather-cora",
       ],
     },
+    {
+      fact: "Cora takes no share of the party's pay.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-tamsin",
+        "character-other/fairweather-tilly",
+        "character-other/fairweather-cora",
+        "character-other/fairweather-noor",
+      ],
+    },
+    {
+      fact: "Asked to live in the blue-door house, Cora said she will consider it.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-tamsin",
+        "character-other/fairweather-tilly",
+        "character-other/fairweather-cora",
+        "character-other/fairweather-noor",
+      ],
+    },
+    {
+      fact: "Cora brought a pot of lavender for a sill at the blue door; Elsie named it Ledger.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-tamsin",
+        "character-other/fairweather-tilly",
+        "character-other/fairweather-ines",
+        "character-other/fairweather-amara",
+        "character-other/fairweather-noor",
+        "character-other/fairweather-cora",
+      ],
+    },
+    {
+      fact: "Asked to sleep on the blue door's sofa, Cora said the Accord is silent on sofas; perhaps.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-cora",
+      ],
+    },
   ],
 } as const satisfies Lore

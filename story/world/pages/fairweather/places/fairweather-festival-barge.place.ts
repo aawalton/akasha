@@ -219,5 +219,27 @@ export const fairweatherFestivalBarge = {
         "character-other/fairweather-noor",
       ],
     },
+    {
+      fact: "The thief who couldn't swim is in the watch house, and has named the other three.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-tamsin",
+        "character-other/fairweather-tilly",
+        "character-other/fairweather-cora",
+        "character-other/fairweather-noor",
+      ],
+    },
+    {
+      fact: "Odile Marsh will send the guild a chit that eleven did well, and wants eleven next year.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-tamsin",
+        "character-other/fairweather-tilly",
+        "character-other/fairweather-cora",
+        "character-other/fairweather-noor",
+      ],
+    },
   ],
 } as const satisfies Place

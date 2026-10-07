@@ -145,6 +145,8 @@ export const fairweatherTilly = {
         "character-other/fairweather-tilly",
         "character-player/fairweather-elsie",
         "character-other/fairweather-tamsin",
+        "character-other/fairweather-cora",
+        "character-other/fairweather-noor",
       ],
     },
     {
@@ -194,6 +196,9 @@ export const fairweatherTilly = {
         "lore-disclosure/game-master",
         "character-player/fairweather-elsie",
         "character-other/fairweather-tilly",
+        "character-other/fairweather-tamsin",
+        "character-other/fairweather-cora",
+        "character-other/fairweather-noor",
       ],
     },
     {
@@ -295,6 +300,24 @@ export const fairweatherTilly = {
         "lore-disclosure/game-master",
         "character-player/fairweather-elsie",
         "character-other/fairweather-noor",
+      ],
+    },
+    {
+      fact: "Tilly keeps her savings in a darned wool sock, because her purse has a hole.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-tamsin",
+        "character-other/fairweather-ines",
+        "character-other/fairweather-cora",
+      ],
+    },
+    {
+      fact: "Tilly has never lived anywhere with a tree.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-tamsin",
       ],
     },
   ],

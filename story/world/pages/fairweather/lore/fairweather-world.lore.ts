@@ -186,6 +186,7 @@ export const fairweatherWorld = {
         "character-player/fairweather-elsie",
         "character-other/fairweather-tamsin",
         "character-other/fairweather-tilly",
+        "character-other/fairweather-noor",
       ],
     },
     {

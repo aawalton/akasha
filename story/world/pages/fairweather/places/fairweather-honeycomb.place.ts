@@ -71,5 +71,13 @@ export const fairweatherHoneycomb = {
       fact: "Mrs Merriweather lent Elsie a round bee tin for the boat's honey cakes, to bring back.",
       knowers: ["lore-disclosure/game-master", "character-player/fairweather-elsie"],
     },
+    {
+      fact: "Mrs Merriweather gave Elsie the bee tin to keep, for the honey cakes.",
+      knowers: ["lore-disclosure/game-master", "character-player/fairweather-elsie"],
+    },
+    {
+      fact: "Mrs Merriweather offered Elsie her oven on Sundays, cool by four, to bake.",
+      knowers: ["lore-disclosure/game-master", "character-player/fairweather-elsie"],
+    },
   ],
 } as const satisfies Place

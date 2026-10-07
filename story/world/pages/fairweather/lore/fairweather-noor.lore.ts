@@ -369,5 +369,39 @@ export const fairweatherNoor = {
         "character-other/fairweather-ines",
       ],
     },
+    {
+      fact: "Seeing the blue door, Noor said it's a door, and it stays where it is.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-tamsin",
+        "character-other/fairweather-tilly",
+        "character-other/fairweather-cora",
+        "character-other/fairweather-noor",
+      ],
+    },
+    {
+      fact: "In Mr Penney's office a heap of keys slid off his desk, and Noor said that was her.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-tamsin",
+        "character-other/fairweather-tilly",
+        "character-other/fairweather-cora",
+        "character-other/fairweather-noor",
+      ],
+    },
+    {
+      fact: "Noor left her black coffee pot on the blue door's range, so there's coffee when she comes.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-tamsin",
+        "character-other/fairweather-tilly",
+        "character-other/fairweather-ines",
+        "character-other/fairweather-amara",
+        "character-other/fairweather-noor",
+      ],
+    },
   ],
 } as const satisfies Lore

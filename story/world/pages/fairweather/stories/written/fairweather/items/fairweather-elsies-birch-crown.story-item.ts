@@ -7,6 +7,5 @@ export const fairweatherElsiesBirchCrown = {
   title: "Birch Crown",
   story: "story-written/fairweather",
   character: "character-player/fairweather-elsie",
-  slot: "item-slot/head",
   description: "A ring of green birch leaves tied with ribbons, worn on the head.",
 } as const satisfies StoryItem

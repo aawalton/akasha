@@ -131,5 +131,32 @@ export const fairweatherAmara = {
         "character-other/fairweather-amara",
       ],
     },
+    {
+      fact: "Amara brought the blue door a basket from her mother's Midsummer table.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-tamsin",
+        "character-other/fairweather-tilly",
+        "character-other/fairweather-ines",
+        "character-other/fairweather-amara",
+      ],
+    },
+    {
+      fact: "Amara sang beside her mother on the festival barge at Midsummer.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-amara",
+      ],
+    },
+    {
+      fact: "Amara looked for Elsie's pink hair from the barge, and found it when the bell rang.",
+      knowers: ["lore-disclosure/game-master", "character-player/fairweather-elsie"],
+    },
+    {
+      fact: "After Amara sang, Celestine held her face and cried; Amara had never seen her cry.",
+      knowers: ["lore-disclosure/game-master", "character-player/fairweather-elsie"],
+    },
   ],
 } as const satisfies Lore

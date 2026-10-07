@@ -6,7 +6,7 @@ export const fairweatherElsieWits = {
   slug: "fairweather-elsie-wits",
   title: "Wits",
   character: "character-player/fairweather-elsie",
-  value: 14,
+  value: 15,
   minValue: 0,
   displayOrder: 4,
   history: "jsonl",

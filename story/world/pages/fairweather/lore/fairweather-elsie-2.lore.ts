@@ -307,5 +307,30 @@ export const fairweatherElsie2 = {
       fact: "Moonpenny opened on Midsummer night: one white flower, smelling of honey and rain.",
       knowers: ["lore-disclosure/game-master", "character-player/fairweather-elsie"],
     },
+    {
+      fact: "Moonpenny was still open on the morning of the twenty-first.",
+      knowers: ["lore-disclosure/game-master", "character-player/fairweather-elsie"],
+    },
+    {
+      fact: "At the blue door Elsie set a plant on every sill, and Moonpenny on the parlour sill over the canal.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-tamsin",
+        "character-other/fairweather-tilly",
+      ],
+    },
+    {
+      fact: "Elsie wrote her mother of the blue-door house, with its new address written twice.",
+      knowers: ["lore-disclosure/game-master", "character-player/fairweather-elsie"],
+    },
+    {
+      fact: "Cora's ledger for the blue-door supper reads: Willow Canal. Supper. Skills used, none.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/fairweather-elsie",
+        "character-other/fairweather-cora",
+      ],
+    },
   ],
 } as const satisfies Lore
