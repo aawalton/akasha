@@ -35,7 +35,12 @@ export const encounters0011LastNight = {
     "character-other/encounters-hana",
   ],
   reviewedBy: ["story-reviewer/holdings"],
-  recordedBy: ["story-recorder/mechanics", "story-recorder/plan", "story-recorder/inventory"],
+  recordedBy: [
+    "story-recorder/mechanics",
+    "story-recorder/plan",
+    "story-recorder/inventory",
+    "story-recorder/picture",
+  ],
   rulings: "jsonl",
   scenes: [
     "image/image-24a398c2939bf627",
