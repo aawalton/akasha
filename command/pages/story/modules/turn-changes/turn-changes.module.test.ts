@@ -12,7 +12,10 @@ import {
 } from "akasha/command/pages/story/modules/turn-changes/turn-changes.module.code.ts"
 import { beatsHeld } from "akasha/command/pages/story/modules/turn-scenes/turn-scenes.module.code.ts"
 import type { Reading } from "akasha/story/engine/beat-state/modules/beat-changes/beat-changes.module.code.ts"
-import { beatsWritten } from "akasha/story/engine/beat-state/modules/beat-records/beat-records.module.code.ts"
+import {
+  beatsIn,
+  beatsWritten,
+} from "akasha/story/engine/beat-state/modules/beat-records/beat-records.module.code.ts"
 import { worldRelationship } from "akasha/story/world/mechanics/relationships/world-relationship.page-type.ts"
 import { advanced } from "akasha/story/world/stories/played/turns/modules/turn-advancing/turn-advancing.module.code.ts"
 import type {
@@ -126,16 +129,18 @@ test("a picture recorder's pictures land on their beats and later moves keep the
 
 test("prose handed in for each beat is written onto the beats, and the prose file rebuilt", () => {
   const told = [
-    { beat: 1, prose: "Elsie trains." },
-    { beat: 2, prose: "Elsie rests." },
+    { beat: 1, prose: "Elsie trains.\n\nShe aches." },
+    { beat: 2, prose: "Elsie rests.", continues: true },
   ]
-  const said = movedOf({ prose: "Elsie trains.\n\nElsie rests.\n", proseRecords: told })
+  const said = movedOf({ prose: "Elsie trains.\n\nShe aches. Elsie rests.\n", proseRecords: told })
+  const beats = beatsWritten({ ...PLANNED, prose: told })
   expect(bodiesOf(said, PLANNED)).toEqual({
-    bodies: {
-      prose: "Elsie trains.\n\nElsie rests.\n",
-      beats: beatsWritten({ ...PLANNED, prose: told }),
-    },
+    bodies: { prose: "Elsie trains.\n\nShe aches. Elsie rests.\n", beats },
   })
+  const kept = beatsIn(
+    beatsBodyOf({ ...PLANNED, prose: told }, movedOf({ memory: [LEARNS] })) ?? ""
+  )
+  expect("refused" in kept ? null : kept.prose).toEqual(told)
 })
 
 test("a move's issue lists are written as files beside the turn, one issue to a line", () => {
