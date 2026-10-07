@@ -1,4 +1,4 @@
-import { getMountainMorningDayStr } from "akasha/alan/harness/day-boundary/modules/mountain-day/mountain-day.module.code.ts"
+import { openedDayOf } from "akasha/alan/track/daily/modules/day-opening/day-opening.module.code.ts"
 import { selectionPolicy } from "akasha/alan/value/health/fitness/selection-policy/pages/selection-policy.selection-policy.ts"
 import { takenFor } from "akasha/command/argument/modules/taking/argument-taking.module.code.ts"
 import { json } from "akasha/command/argument/pages/json.argument.ts"
@@ -25,9 +25,13 @@ import {
 } from "akasha/command/pages/fitness/modules/kit-loading/kit-loading.module.code.ts"
 import { weekIn } from "akasha/command/pages/fitness/modules/training-week/training-week.module.code.ts"
 import { valuesOfType } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
+import {
+  AKASHA,
+  rootsNamed,
+} from "akasha/page/modules/checkout-roots/checkout-roots.module.code.ts"
 
 function coolingIn(root: string, now: Date): Cool | null {
-  const today = getMountainMorningDayStr(now)
+  const today = openedDayOf(rootsNamed({ [AKASHA]: root }, AKASHA), now)
   const week = weekIn(root, today, selectionPolicy.nearFailureRpeFloor)
   const kit = kitIn(valuesOfType(root, KIT_TYPE).map((one) => one.value))
   return coolFor(week.movements, {
