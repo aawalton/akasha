@@ -6,27 +6,27 @@
 {"beat":6,"event":"Sofia opens her door before he can knock; Priya is right behind her.","at":"2026-10-14T00:30:00.000Z","place":"place/encounters-cabana-bay-room","arrive":["character-other/encounters-sofia","character-other/encounters-priya"]}
 {"beat":7,"event":"Sofia is in the pale blue sports bra and shorts, braid up, cheeks already pink."}
 {"beat":8,"event":"Priya, in the bikini top and drawstring shorts, glasses on, holds a folded sheet of paper."}
-{"beat":9,"event":"Two queen beds and a retro desk; Kenzie's bed is cleared, a hair tie on the connecting door."}
-{"beat":10,"event":"Sofia says Kenzie gave up her bed tonight and is sleeping next door with Hana."}
+{"beat":9,"event":"Two queen beds and a retro desk; Kenzie's bed is cleared, a hair tie on the connecting door.","memory":[{"page":"place/encounters-cabana-bay-room","fact":"The room has two queen beds, a mini fridge, a retro desk and a split bathroom.","learns":"character-player/encounters-alan"},{"page":"place/encounters-cabana-bay-room","fact":"The room has two queen beds, a mini fridge, a retro desk and a split bathroom.","shown":true}]}
+{"beat":10,"event":"Sofia says Kenzie gave up her bed tonight and is sleeping next door with Hana.","memory":[{"page":"lore/encounters-sofia-3","fact":"For chapter 8, Kenzie gave up her bed and slept next door in Priya's, beside Hana.","learns":"character-player/encounters-alan"},{"page":"lore/encounters-sofia-3","fact":"For chapter 8, Kenzie gave up her bed and slept next door in Priya's, beside Hana.","learns":"character-other/encounters-sofia"},{"page":"lore/encounters-sofia-3","fact":"For chapter 8, Kenzie gave up her bed and slept next door in Priya's, beside Hana.","learns":"character-other/encounters-priya"},{"page":"lore/encounters-sofia-3","fact":"For chapter 8, Kenzie gave up her bed and slept next door in Priya's, beside Hana.","shown":true}]}
 {"beat":11,"event":"Priya says, deadpan, that Kenzie was very gracious about it, which means she was loud."}
 {"beat":12,"event":"Sofia laughs, and Priya's mouth twitches, and then neither can stop."}
-{"beat":13,"event":"They giggle helplessly for a full minute while Alan stands in the doorway, waiting."}
+{"beat":13,"event":"They giggle helplessly for a full minute while Alan stands in the doorway, waiting.","memory":[{"page":"lore/encounters-sofia-3","fact":"When Sofia and Priya get the giggles together, neither can stop for minutes.","learns":"character-player/encounters-alan"},{"page":"lore/encounters-sofia-3","fact":"When Sofia and Priya get the giggles together, neither can stop for minutes.","learns":"character-other/encounters-sofia"},{"page":"lore/encounters-sofia-3","fact":"When Sofia and Priya get the giggles together, neither can stop for minutes.","learns":"character-other/encounters-priya"},{"page":"lore/encounters-sofia-3","fact":"When Sofia and Priya get the giggles together, neither can stop for minutes.","shown":true}]}
 {"beat":14,"event":"Priya wipes her eyes under her glasses and says she is sorry, they do this."}
 {"beat":15,"event":"Sofia says it's because they are nervous; Priya says she is not nervous, and giggles again."}
 {"beat":16,"event":"Alan sits on the end of Sofia's bed and asks to see the list."}
-{"beat":17,"event":"Priya hands it over: a sheet in five colors of pen, numbered, both their handwriting."}
+{"beat":17,"event":"Priya hands it over: a sheet in five colors of pen, numbered, both their handwriting.","memory":[{"page":"lore/encounters-priya-2","fact":"Sofia and Priya wrote a list of what they want to try with Alan, in Priya's colored pens.","learns":"character-player/encounters-alan"},{"page":"lore/encounters-priya-2","fact":"Sofia and Priya wrote a list of what they want to try with Alan, in Priya's colored pens.","shown":true}]}
 {"beat":18,"event":"He reads the first line aloud; Sofia covers her face with both hands."}
 {"beat":19,"event":"Priya says he is not allowed to read it out loud, that was not in the plan."}
 {"beat":20,"event":"He folds it and asks them to tell him themselves, then."}
 {"beat":21,"event":"Sofia peeks through her fingers; Priya pushes her glasses up and looks at the ceiling."}
 {"beat":22,"event":"Sofia says, fast, that number one is that they both want him, together, at the same time."}
 {"beat":23,"event":"Priya says number two is that they have never kissed each other."}
-{"beat":24,"event":"Sofia says, quietly, that she has wondered since freshman year, in the chem lab."}
-{"beat":25,"event":"Priya turns and looks at her, and says she has wondered too, and never said."}
+{"beat":24,"event":"Sofia says, quietly, that she has wondered since freshman year, in the chem lab.","memory":[{"page":"lore/encounters-sofia-3","fact":"Sofia has wondered since freshman year what kissing Priya would be like, and never said so.","learns":"character-player/encounters-alan"},{"page":"lore/encounters-sofia-3","fact":"Sofia has wondered since freshman year what kissing Priya would be like, and never said so.","learns":"character-other/encounters-priya"},{"page":"lore/encounters-sofia-3","fact":"Sofia has wondered since freshman year what kissing Priya would be like, and never said so.","learns":"character-other/encounters-sofia"},{"page":"lore/encounters-sofia-3","fact":"Sofia has wondered since freshman year what kissing Priya would be like, and never said so.","shown":true}]}
+{"beat":25,"event":"Priya turns and looks at her, and says she has wondered too, and never said.","memory":[{"page":"lore/encounters-priya-2","fact":"Priya has wondered what kissing Sofia would be like, and never said so.","learns":"character-player/encounters-alan"},{"page":"lore/encounters-priya-2","fact":"Priya has wondered what kissing Sofia would be like, and never said so.","learns":"character-other/encounters-sofia"},{"page":"lore/encounters-priya-2","fact":"Priya has wondered what kissing Sofia would be like, and never said so.","learns":"character-other/encounters-priya"},{"page":"lore/encounters-priya-2","fact":"Priya has wondered what kissing Sofia would be like, and never said so.","shown":true},{"page":"lore/encounters-priya","fact":"Priya was Sofia's chemistry lab partner freshman year, and is who Sofia confides in.","learns":"character-player/encounters-alan"},{"page":"lore/encounters-priya","fact":"Priya was Sofia's chemistry lab partner freshman year, and is who Sofia confides in.","shown":true}]}
 {"beat":26,"event":"The room goes quiet; neither girl is giggling now."}
 {"beat":27,"event":"Sofia asks Alan if she should; he says that is not his call, it is hers."}
 {"beat":28,"event":"Sofia leans in and kisses Priya, quick, and pulls back, red to her ears."}
-{"beat":29,"event":"Priya says, deadpan, that it was a trial run, and kisses her back properly."}
+{"beat":29,"event":"Priya says, deadpan, that it was a trial run, and kisses her back properly.","memory":[{"page":"lore/encounters-sofia-3","fact":"Sofia and Priya kissed for the first time, in Sofia's Cabana Bay room, as Alan watched.","establishes":true},{"page":"lore/encounters-sofia-3","fact":"Sofia and Priya kissed for the first time, in Sofia's Cabana Bay room, as Alan watched.","learns":"character-player/encounters-alan"},{"page":"lore/encounters-sofia-3","fact":"Sofia and Priya kissed for the first time, in Sofia's Cabana Bay room, as Alan watched.","learns":"character-other/encounters-sofia"},{"page":"lore/encounters-sofia-3","fact":"Sofia and Priya kissed for the first time, in Sofia's Cabana Bay room, as Alan watched.","learns":"character-other/encounters-priya"},{"page":"lore/encounters-sofia-3","fact":"Sofia and Priya kissed for the first time, in Sofia's Cabana Bay room, as Alan watched.","shown":true}]}
 {"beat":30,"event":"The kiss is slow and sweet; Sofia's hand comes up and cups Priya's jaw."}
 {"beat":31,"event":"They break apart and look at each other, then at Alan, and giggle again."}
 {"beat":32,"event":"Priya says number three; Sofia says number three is his job."}
@@ -45,20 +45,20 @@
 {"beat":45,"event":"Alan pulls his shirt off; both girls stop and look, and Sofia says, out loud, finally."}
 {"beat":46,"event":"They giggle again, half naked, and Priya says it was a reasonable observation."}
 {"beat":47,"event":"Sofia hooks her thumbs into Priya's shorts and asks, with a look; Priya nods."}
-{"beat":48,"event":"Sofia slides them down; Priya is waxed bare, and Sofia says, oh, softly."}
-{"beat":49,"event":"Priya returns the favor: Sofia's compression shorts down, the small neat strip, already wet."}
+{"beat":48,"event":"Sofia slides them down; Priya is waxed bare, and Sofia says, oh, softly.","memory":[{"page":"lore/encounters-priya","fact":"Priya has small perky tits with dark brown nipples, and a cunt she keeps waxed bare.","learns":"character-other/encounters-sofia"},{"page":"lore/encounters-priya","fact":"Priya has small perky tits with dark brown nipples, and a cunt she keeps waxed bare.","shown":true}]}
+{"beat":49,"event":"Priya returns the favor: Sofia's compression shorts down, the small neat strip, already wet.","memory":[{"page":"lore/encounters-sofia","fact":"Sofia's cunt is shaved bare but for a small neat strip, and gets wet fast and very wet.","learns":"character-other/encounters-priya"},{"page":"lore/encounters-sofia","fact":"Sofia's cunt is shaved bare but for a small neat strip, and gets wet fast and very wet.","shown":true}]}
 {"beat":50,"event":"Both girls undress Alan together, giggling at the belt, which will not cooperate."}
 {"beat":51,"event":"His cock springs free; Sofia says she missed it; Priya says that is item four."}
 {"beat":52,"event":"Sofia takes his cock in her hand and strokes it, and Priya watches, studying."}
 {"beat":53,"event":"Sofia shows Priya how she likes to suck him, eager, quick, and Priya copies her, slower."}
 {"beat":54,"event":"They share him between them, passing him back and forth, cheeks touching."}
-{"beat":55,"event":"Sofia, competitive even now, sucks him faster to make him come early."}
+{"beat":55,"event":"Sofia, competitive even now, sucks him faster to make him come early.","memory":[{"page":"lore/encounters-sofia-3","fact":"Sofia sucks cock eagerly, set on making him come before he means to.","learns":"character-other/encounters-priya"},{"page":"lore/encounters-sofia-3","fact":"Sofia sucks cock eagerly, set on making him come before he means to.","shown":true}]}
 {"beat":56,"event":"Priya pulls her off, gently, and tells her that is against the list."}
 {"beat":57,"event":"He tells them both how good they are; Sofia moans around his cock, Priya hums."}
 {"beat":58,"event":"He stops them, breathing hard, and lays them both back side by side on the bed."}
 {"beat":59,"event":"He kisses down Sofia's stomach, and she presses his head down, too shy to ask."}
 {"beat":60,"event":"Priya sees it and laughs, and tells Sofia she can just say it."}
-{"beat":61,"event":"Sofia says, in a small voice, lick me; Priya says good girl, and Sofia goes crimson."}
+{"beat":61,"event":"Sofia says, in a small voice, lick me; Priya says good girl, and Sofia goes crimson.","memory":[{"page":"lore/encounters-sofia-3","fact":"Sofia loves her cunt licked but is too shy to ask, so she asks by pressing his head down.","learns":"character-other/encounters-priya"},{"page":"lore/encounters-sofia-3","fact":"Sofia loves her cunt licked but is too shy to ask, so she asks by pressing his head down.","shown":true}]}
 {"beat":62,"event":"He licks Sofia's cunt slowly; Priya kisses her through it, her hand on Sofia's tit."}
 {"beat":63,"event":"Priya pinches Sofia's nipple, and Sofia arches off the bed."}
 {"beat":64,"event":"He tells Sofia she is doing perfectly; she swears in Spanish and comes, loud, shaking."}
@@ -74,11 +74,11 @@
 {"beat":74,"event":"Priya lies beside them and watches closely, and tells Sofia she is doing so well."}
 {"beat":75,"event":"Sofia moans at the praise and rides faster."}
 {"beat":76,"event":"Priya leans in and sucks Sofia's nipple hard while she rides; Sofia jerks and slows."}
-{"beat":77,"event":"Sofia asks Alan to pin her; he rolls her over and pins her wrists, and fucks her hard."}
+{"beat":77,"event":"Sofia asks Alan to pin her; he rolls her over and pins her wrists, and fucks her hard.","memory":[{"page":"lore/encounters-sofia-3","fact":"Sofia likes to ride and set the pace, then wants to be pinned down and fucked hard.","learns":"character-other/encounters-priya"},{"page":"lore/encounters-sofia-3","fact":"Sofia likes to ride and set the pace, then wants to be pinned down and fucked hard.","shown":true}]}
 {"beat":78,"event":"Priya kneels beside them, holding Sofia's other hand, watching his cock move in her."}
-{"beat":79,"event":"Sofia comes again, swearing, clenching hard; Alan holds back."}
+{"beat":79,"event":"Sofia comes again, swearing, clenching hard; Alan holds back.","memory":[{"page":"lore/encounters-sofia-3","fact":"Sofia swears in Spanish when she is close, and comes loud, shaking and clenching hard.","learns":"character-other/encounters-priya"},{"page":"lore/encounters-sofia-3","fact":"Sofia swears in Spanish when she is close, and comes loud, shaking and clenching hard.","shown":true}]}
 {"beat":80,"event":"Priya says item six is hers, and it is not up for negotiation."}
-{"beat":81,"event":"She lies on her back, and asks Sofia to hold her wrists down above her head."}
+{"beat":81,"event":"She lies on her back, and asks Sofia to hold her wrists down above her head.","memory":[{"page":"lore/encounters-priya","fact":"Priya wants to be tied down, spanked, called a good girl and used hard.","learns":"character-other/encounters-sofia"},{"page":"lore/encounters-priya","fact":"Priya wants to be tied down, spanked, called a good girl and used hard.","shown":true}]}
 {"beat":82,"event":"Sofia does, shy, then firm, and asks if that is right; Priya says perfect."}
 {"beat":83,"event":"Alan slides into Priya's cunt, and Sofia holds her down while he fucks her."}
 {"beat":84,"event":"Sofia tells Priya she is a good girl, trying it out; Priya whimpers."}
@@ -88,7 +88,7 @@
 {"beat":88,"event":"Sofia says that is not possible; Priya says it is, she has done the math."}
 {"beat":89,"event":"He pulls out of Priya, close, and Sofia lies down beside her, legs open."}
 {"beat":90,"event":"He sinks into Sofia and fucks her hard, and comes partway inside her."}
-{"beat":91,"event":"He pulls out and pushes into Priya and finishes deep inside her, groaning."}
+{"beat":91,"event":"He pulls out and pushes into Priya and finishes deep inside her, groaning.","memory":[{"page":"lore/encounters-sofia-3","fact":"Alan fucked Sofia and Priya together in Sofia's Cabana Bay room, and came in both.","establishes":true},{"page":"lore/encounters-sofia-3","fact":"Alan fucked Sofia and Priya together in Sofia's Cabana Bay room, and came in both.","learns":"character-player/encounters-alan"},{"page":"lore/encounters-sofia-3","fact":"Alan fucked Sofia and Priya together in Sofia's Cabana Bay room, and came in both.","learns":"character-other/encounters-sofia"},{"page":"lore/encounters-sofia-3","fact":"Alan fucked Sofia and Priya together in Sofia's Cabana Bay room, and came in both.","learns":"character-other/encounters-priya"},{"page":"lore/encounters-sofia-3","fact":"Alan fucked Sofia and Priya together in Sofia's Cabana Bay room, and came in both.","shown":true}]}
 {"beat":92,"event":"Priya says, breathless, that the math worked."}
 {"beat":93,"event":"Sofia snorts; Priya catches it, and they are gone again, gasping, Sofia's face in Priya's neck."}
 {"beat":94,"event":"The three lie across Sofia's bed, the list crumpled somewhere under them.","at":"2026-10-14T02:40:00.000Z"}
@@ -101,4 +101,4 @@
 {"beat":101,"event":"Priya says, into Sofia's hair, that she is glad too, and means it."}
 {"beat":102,"event":"Sofia reaches over Alan, takes her phone, and adds a line to her ride list: tonight, ten."}
 {"beat":103,"event":"Priya reads it over her shoulder and says it should be an eleven, Kenzie got an eleven."}
-{"beat":104,"event":"Sofia changes it to an eleven, and they giggle one more time, softly, in the dark."}
+{"beat":104,"event":"Sofia changes it to an eleven, and they giggle one more time, softly, in the dark.","memory":[{"page":"lore/encounters-sofia-3","fact":"Sofia rated her night with Alan and Priya an eleven in her phone's ride list.","establishes":true},{"page":"lore/encounters-sofia-3","fact":"Sofia rated her night with Alan and Priya an eleven in her phone's ride list.","learns":"character-player/encounters-alan"},{"page":"lore/encounters-sofia-3","fact":"Sofia rated her night with Alan and Priya an eleven in her phone's ride list.","learns":"character-other/encounters-sofia"},{"page":"lore/encounters-sofia-3","fact":"Sofia rated her night with Alan and Priya an eleven in her phone's ride list.","learns":"character-other/encounters-priya"},{"page":"lore/encounters-sofia-3","fact":"Sofia rated her night with Alan and Priya an eleven in her phone's ride list.","shown":true}]}
