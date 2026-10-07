@@ -11,9 +11,8 @@ export const encounters0009BestOfThree = {
   story: "story-written/encounters",
   ownLength: 6514,
   prose: "txt",
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/player",
   beats: "jsonl",
-  issues: "txt",
   lore: [
     "lore/encounters-kenzie",
     "lore/encounters-kenzie-2",
@@ -30,7 +29,12 @@ export const encounters0009BestOfThree = {
     "character-other/encounters-priya",
     "character-other/encounters-sofia",
   ],
-  reviewedBy: ["story-reviewer/scene", "story-reviewer/holdings", "story-reviewer/continuity"],
+  reviewedBy: [
+    "story-reviewer/scene",
+    "story-reviewer/holdings",
+    "story-reviewer/continuity",
+    "story-reviewer/style",
+  ],
   recordedBy: [
     "story-recorder/plan",
     "story-recorder/mechanics",

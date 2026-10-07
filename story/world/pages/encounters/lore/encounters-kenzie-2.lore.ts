@@ -206,6 +206,7 @@ export const encountersKenzie2 = {
         "character-other/encounters-kenzie",
         "character-other/encounters-priya",
         "character-other/encounters-hana",
+        "character-player/encounters-alan",
       ],
     },
     {
@@ -214,6 +215,7 @@ export const encountersKenzie2 = {
         "lore-disclosure/game-master",
         "character-other/encounters-kenzie",
         "character-other/encounters-priya",
+        "character-player/encounters-alan",
       ],
     },
     {
@@ -222,6 +224,7 @@ export const encountersKenzie2 = {
         "lore-disclosure/game-master",
         "character-other/encounters-kenzie",
         "character-other/encounters-priya",
+        "character-player/encounters-alan",
       ],
     },
     {
@@ -230,14 +233,47 @@ export const encountersKenzie2 = {
         "lore-disclosure/game-master",
         "character-other/encounters-kenzie",
         "character-other/encounters-priya",
+        "character-player/encounters-alan",
       ],
     },
     {
       fact: "To win, Kenzie has to let a man come without making him beg first, which she has never once done.",
-      knowers: ["lore-disclosure/game-master", "character-other/encounters-kenzie"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/encounters-kenzie",
+        "character-player/encounters-alan",
+        "character-other/encounters-priya",
+      ],
     },
     {
       fact: "Chapter 9: Kenzie and Priya came to Alan's Royal Pacific room together, mid-argument.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/encounters-alan",
+        "character-other/encounters-kenzie",
+        "character-other/encounters-priya",
+      ],
+    },
+    {
+      fact: "Kenzie kissed Priya mid-turn to break her pace; the rules barred touching only Alan.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/encounters-alan",
+        "character-other/encounters-kenzie",
+        "character-other/encounters-priya",
+      ],
+    },
+    {
+      fact: "Kenzie won the bet: Alan came inside her without begging, with eighteen seconds left.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/encounters-alan",
+        "character-other/encounters-kenzie",
+        "character-other/encounters-priya",
+      ],
+    },
+    {
+      fact: "Kenzie and Priya called the rematch a draw, the first draw on their fridge tally.",
       knowers: [
         "lore-disclosure/game-master",
         "character-player/encounters-alan",

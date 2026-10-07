@@ -41,5 +41,13 @@ export const encountersRoyalPacificRoom = {
         "character-other/encounters-hana",
       ],
     },
+    {
+      fact: "The room's mini fridge sits under the desk, stocked with seven-dollar bottles of water.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/encounters-alan",
+        "character-other/encounters-kenzie",
+      ],
+    },
   ],
 } as const satisfies Place

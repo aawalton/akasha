@@ -127,7 +127,12 @@ export const encountersPriya2 = {
     },
     {
       fact: "Priya studied for the bet with Kenzie the night before, and brought a color-coded plan.",
-      knowers: ["lore-disclosure/game-master", "character-other/encounters-priya"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/encounters-priya",
+        "character-player/encounters-alan",
+        "character-other/encounters-kenzie",
+      ],
     },
     {
       fact: "Priya has wondered what kissing Sofia would be like, and never said so.",
@@ -154,6 +159,33 @@ export const encountersPriya2 = {
         "character-player/encounters-alan",
         "character-other/encounters-priya",
         "character-other/encounters-sofia",
+      ],
+    },
+    {
+      fact: "Chapter 9: Priya came to Alan's Royal Pacific room with Kenzie, to settle their bet on him.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/encounters-alan",
+        "character-other/encounters-priya",
+        "character-other/encounters-kenzie",
+      ],
+    },
+    {
+      fact: "Kenzie saw Priya come for the first time, and learned how quietly she comes.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/encounters-kenzie",
+        "character-player/encounters-alan",
+        "character-other/encounters-priya",
+      ],
+    },
+    {
+      fact: "Alan fucked Priya's ass while Kenzie held her open, and came inside it.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/encounters-alan",
+        "character-other/encounters-kenzie",
+        "character-other/encounters-priya",
       ],
     },
   ],
