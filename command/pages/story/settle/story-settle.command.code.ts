@@ -127,7 +127,7 @@ export function turnsIndexed(root: string, story: string): readonly Turn[] {
   return found
 }
 
-export function chaptersIndexed(root: string, story: string): readonly Chained[] {
+function chaptersIndexed(root: string, story: string): readonly Chained[] {
   const named = `${storyPlayed.slug}/${story}`
   const found: Chained[] = []
   for (const one of valuesOfType(root, storyChapterPlayed.slug)) {
