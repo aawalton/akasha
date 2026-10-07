@@ -8,4 +8,5 @@ export const day20261007 = {
   date: "2026-10-07",
   version: "3.0",
   sessions: "jsonl",
+  lowestEmailInboxCount: 0,
 } as const satisfies Day
