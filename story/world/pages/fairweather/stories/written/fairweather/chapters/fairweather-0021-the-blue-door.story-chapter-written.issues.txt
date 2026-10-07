@@ -4,3 +4,5 @@ style: "Nobody robs her." (beat 43) - Nobody Acts
 style: "Nobody says anything." (beat 51) - Nobody Acts
 style: "as if nobody had brought him anything in years" (beat 66) - No Tropes
 style: "Nobody moves." (beat 183) - Nobody Acts
+scene: "Three windows went up above the door" - the house is three storeys: two floors above the door
+scene: "Its window looked down on the canal too" - room behind the canal-front parlour faces the garden
