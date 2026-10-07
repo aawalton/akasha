@@ -11,4 +11,5 @@ export const aelwyn = {
   startMode: "seat-mode/interactive",
   onCall: true,
   registrationAccount: "model-account/aawalton",
+  claudeCodeSessionUuid: "9d7d0f46-4969-4b19-9eae-2af3c7d4e0d3",
 } as const satisfies Seat
