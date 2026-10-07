@@ -34,7 +34,7 @@ export const encounters0011LastNight = {
     "character-other/encounters-priya",
     "character-other/encounters-hana",
   ],
-  reviewedBy: ["story-reviewer/holdings"],
+  reviewedBy: ["story-reviewer/holdings", "story-reviewer/style"],
   recordedBy: [
     "story-recorder/mechanics",
     "story-recorder/plan",

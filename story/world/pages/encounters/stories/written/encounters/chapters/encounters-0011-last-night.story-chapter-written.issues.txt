@@ -1,6 +1,3 @@
-style: "Not one of them moves." - Nobody Acts
-style: "It takes you with it." - No Tropes
-style: "you feel every inch of her take you" - No Tropes
-style: "Checkout is at eleven. All five of you stay where you are" - Leave It Open
 scene: "the lagoon pool...has gone blue with its lights" - beat 1 is 6 pm, an hour before sunset
 continuity: "There's a list? There's a whole list?" - Kenzie already knows Sofia's phone ride list and its ten
+style: "You reach down for the sheet and pull it up over the three of you." - No Sign-Off
