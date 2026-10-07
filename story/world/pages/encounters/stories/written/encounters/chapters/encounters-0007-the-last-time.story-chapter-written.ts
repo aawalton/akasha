@@ -33,7 +33,7 @@ export const encounters0007TheLastTime = {
     "character-other/encounters-sofia",
     "character-other/encounters-priya",
   ],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/holdings"],
   recordedBy: [
     "story-recorder/plan",
     "story-recorder/inventory",
