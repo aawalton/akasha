@@ -199,6 +199,7 @@ export const encountersPriya = {
         "lore-disclosure/game-master",
         "character-other/encounters-priya",
         "character-player/encounters-alan",
+        "character-other/encounters-hana",
       ],
     },
     {
@@ -207,11 +208,17 @@ export const encountersPriya = {
         "lore-disclosure/game-master",
         "character-other/encounters-priya",
         "character-player/encounters-alan",
+        "character-other/encounters-hana",
       ],
     },
     {
       fact: "Priya keeps a drawer of toys, and loves anal, which she has only ever done with a toy.",
-      knowers: ["lore-disclosure/game-master", "character-other/encounters-priya"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/encounters-priya",
+        "character-player/encounters-alan",
+        "character-other/encounters-hana",
+      ],
     },
     {
       fact: "Priya comes quietly, biting her lip, and begs when she is made to wait.",
@@ -219,6 +226,7 @@ export const encountersPriya = {
         "lore-disclosure/game-master",
         "character-other/encounters-priya",
         "character-player/encounters-alan",
+        "character-other/encounters-hana",
       ],
     },
     {
@@ -290,6 +298,7 @@ export const encountersPriya = {
         "lore-disclosure/game-master",
         "character-player/encounters-alan",
         "character-other/encounters-priya",
+        "character-other/encounters-hana",
       ],
     },
     {
@@ -328,6 +337,33 @@ export const encountersPriya = {
         "character-player/encounters-alan",
         "character-other/encounters-sofia",
         "character-other/encounters-kenzie",
+      ],
+    },
+    {
+      fact: "Chapter 6: Priya had Hana ask Alan to come, wanting Hana to tie her and Alan to fuck her.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/encounters-alan",
+        "character-other/encounters-priya",
+        "character-other/encounters-hana",
+      ],
+    },
+    {
+      fact: "Hana tied Priya to her bed with silk scarves, and Alan fucked her cunt and then her ass.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/encounters-alan",
+        "character-other/encounters-priya",
+        "character-other/encounters-hana",
+      ],
+    },
+    {
+      fact: "Priya's first time taking a cock in her ass was Alan's; before, she had only had toys.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/encounters-alan",
+        "character-other/encounters-priya",
+        "character-other/encounters-hana",
       ],
     },
   ],

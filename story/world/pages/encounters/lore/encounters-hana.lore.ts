@@ -169,6 +169,7 @@ export const encountersHana = {
         "character-other/encounters-kenzie",
         "character-other/encounters-priya",
         "character-other/encounters-hana",
+        "character-player/encounters-alan",
       ],
     },
     {
@@ -177,6 +178,7 @@ export const encountersHana = {
         "lore-disclosure/game-master",
         "character-other/encounters-priya",
         "character-other/encounters-hana",
+        "character-player/encounters-alan",
       ],
     },
     {
@@ -185,6 +187,7 @@ export const encountersHana = {
         "lore-disclosure/game-master",
         "character-other/encounters-priya",
         "character-other/encounters-hana",
+        "character-player/encounters-alan",
       ],
     },
     {
@@ -195,6 +198,7 @@ export const encountersHana = {
         "character-other/encounters-kenzie",
         "character-other/encounters-priya",
         "character-other/encounters-hana",
+        "character-player/encounters-alan",
       ],
     },
     {
@@ -232,6 +236,7 @@ export const encountersHana = {
         "lore-disclosure/game-master",
         "character-other/encounters-hana",
         "character-player/encounters-alan",
+        "character-other/encounters-priya",
       ],
     },
     {
@@ -240,6 +245,7 @@ export const encountersHana = {
         "lore-disclosure/game-master",
         "character-other/encounters-hana",
         "character-player/encounters-alan",
+        "character-other/encounters-priya",
       ],
     },
     {
@@ -294,6 +300,33 @@ export const encountersHana = {
       knowers: [
         "lore-disclosure/game-master",
         "character-player/encounters-alan",
+        "character-other/encounters-hana",
+      ],
+    },
+    {
+      fact: "Chapter 6: Hana texted Alan to come to her and Priya's Cabana Bay room, at Priya's asking.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/encounters-alan",
+        "character-other/encounters-hana",
+        "character-other/encounters-priya",
+      ],
+    },
+    {
+      fact: "Priya and Hana kissed for the first time, after two years of living together.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/encounters-alan",
+        "character-other/encounters-priya",
+        "character-other/encounters-hana",
+      ],
+    },
+    {
+      fact: "Hana shot a film photo of Priya in bed, smiling, after their afternoon with Alan.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/encounters-alan",
+        "character-other/encounters-priya",
         "character-other/encounters-hana",
       ],
     },
