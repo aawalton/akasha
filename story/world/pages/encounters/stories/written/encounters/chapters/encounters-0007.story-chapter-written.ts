@@ -24,5 +24,5 @@ export const encounters0007 = {
     "lore/encounters-sofia-3",
     "place/encounters-royal-pacific-room",
   ],
-  recordedBy: ["story-recorder/inventory"],
+  recordedBy: ["story-recorder/inventory", "story-recorder/mechanics"],
 } as const satisfies StoryChapterWritten
