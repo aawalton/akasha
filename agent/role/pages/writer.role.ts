@@ -74,6 +74,8 @@ export const writer = {
       aids: [
         "Hand the prose in as a file with `--prose-file`.",
         "Where the story states `proseOnBeats`, that file is one json line to a beat.",
+        "A beat's prose may run to several paragraphs, or continue the paragraph before it.",
+        'To continue it, state `"continues": true` on that beat\'s prose line.',
         "Name a written chapter with `--chapter` in place of `--turn`.",
         "A notice naming any step but writer asks nothing of you.",
       ],
