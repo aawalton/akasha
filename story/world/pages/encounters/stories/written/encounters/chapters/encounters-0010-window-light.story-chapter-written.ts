@@ -4,13 +4,14 @@ export const encounters0010WindowLight = {
   id: "01a113e8-27ac-7b8e-8b82-5bfb189fe2d6",
   type: "page-type/story-chapter-written",
   slug: "encounters-0010-window-light",
+  cover: "image/image-aae52333f28869dd",
   position: 10,
   unit: "unit/words",
   title: "Window Light",
   story: "story-written/encounters",
   ownLength: 6548,
   prose: "txt",
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/reviewers",
   beats: "jsonl",
   lore: [
     "lore/encounters-hana",
@@ -36,5 +37,7 @@ export const encounters0010WindowLight = {
     "story-recorder/plan",
     "story-recorder/inventory",
     "story-recorder/memory",
+    "story-recorder/picture",
   ],
+  scenes: ["image/image-aae52333f28869dd"],
 } as const satisfies StoryChapterWritten
