@@ -31,5 +31,10 @@ export const encounters0010WindowLight = {
     "character-other/encounters-priya",
     "character-other/encounters-kenzie",
   ],
-  recordedBy: ["story-recorder/mechanics", "story-recorder/plan", "story-recorder/inventory"],
+  recordedBy: [
+    "story-recorder/mechanics",
+    "story-recorder/plan",
+    "story-recorder/inventory",
+    "story-recorder/memory",
+  ],
 } as const satisfies StoryChapterWritten
