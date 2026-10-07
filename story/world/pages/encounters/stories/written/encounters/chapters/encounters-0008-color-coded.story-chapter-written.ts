@@ -11,7 +11,7 @@ export const encounters0008ColorCoded = {
   story: "story-written/encounters",
   ownLength: 5245,
   prose: "txt",
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/reviewers",
   beats: "jsonl",
   issues: "txt",
   lore: [
@@ -39,6 +39,7 @@ export const encounters0008ColorCoded = {
     "story-recorder/mechanics",
     "story-recorder/inventory",
     "story-recorder/picture",
+    "story-recorder/memory",
   ],
   rulings: "jsonl",
   scenes: ["image/image-0e217c436aae5ba2"],
