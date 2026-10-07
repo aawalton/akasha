@@ -4,6 +4,7 @@ export const chrysalis0532Chapter1877RipAndTear = {
   id: "01a113e5-ac59-7df0-b9ff-85198f07e505",
   type: "page-type/story-chapter-read",
   slug: "chrysalis-0532-chapter-1877-rip-and-tear",
+  ownProgress: 1123,
   position: 532,
   publishedAt: "2026-10-07",
   unit: "unit/words",
