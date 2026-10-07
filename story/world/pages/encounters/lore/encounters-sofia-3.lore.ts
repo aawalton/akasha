@@ -159,5 +159,38 @@ export const encountersSofia3 = {
         "character-other/encounters-kenzie",
       ],
     },
+    {
+      fact: "Sofia has wondered since freshman year what kissing Priya would be like, and never said so.",
+      knowers: ["lore-disclosure/game-master", "character-other/encounters-sofia"],
+    },
+    {
+      fact: "When Sofia and Priya get the giggles together, neither can stop for minutes.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/encounters-sofia",
+        "character-other/encounters-kenzie",
+        "character-other/encounters-priya",
+        "character-other/encounters-hana",
+      ],
+    },
+    {
+      fact: "Chapter 8: Sofia and Priya texted Alan together, asking him to Sofia's Cabana Bay room.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/encounters-alan",
+        "character-other/encounters-sofia",
+        "character-other/encounters-priya",
+      ],
+    },
+    {
+      fact: "For chapter 8, Kenzie gave up her bed and slept next door in Priya's, beside Hana.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/encounters-sofia",
+        "character-other/encounters-kenzie",
+        "character-other/encounters-priya",
+        "character-other/encounters-hana",
+      ],
+    },
   ],
 } as const satisfies Lore

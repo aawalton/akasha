@@ -125,5 +125,17 @@ export const encountersPriya2 = {
         "character-other/encounters-hana",
       ],
     },
+    {
+      fact: "Priya has wondered what kissing Sofia would be like, and never said so.",
+      knowers: ["lore-disclosure/game-master", "character-other/encounters-priya"],
+    },
+    {
+      fact: "Sofia and Priya wrote a list of what they want to try with Alan, in Priya's colored pens.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/encounters-sofia",
+        "character-other/encounters-priya",
+      ],
+    },
   ],
 } as const satisfies Lore
