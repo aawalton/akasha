@@ -11,7 +11,7 @@ export const encounters0007TheLastTime = {
   story: "story-written/encounters",
   ownLength: 4941,
   prose: "txt",
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/game-master",
   beats: "jsonl",
   issues: "txt",
   lore: [
@@ -33,7 +33,6 @@ export const encounters0007TheLastTime = {
     "character-other/encounters-sofia",
     "character-other/encounters-priya",
   ],
-  reviewedBy: ["story-reviewer/continuity", "story-reviewer/style", "story-reviewer/holdings"],
   recordedBy: [
     "story-recorder/plan",
     "story-recorder/inventory",
