@@ -4,44 +4,44 @@
 {"beat":4,"event":"He asks what Priya wants; Hana answers: to be tied down, by me, and fucked, by you.","memory":[{"page":"lore/encounters-priya","fact":"Chapter 6: Priya had Hana ask Alan to come, wanting Hana to tie her and Alan to fuck her.","establishes":true},{"page":"lore/encounters-priya","fact":"Chapter 6: Priya had Hana ask Alan to come, wanting Hana to tie her and Alan to fuck her.","learns":"character-player/encounters-alan"},{"page":"lore/encounters-priya","fact":"Chapter 6: Priya had Hana ask Alan to come, wanting Hana to tie her and Alan to fuck her.","learns":"character-other/encounters-priya"},{"page":"lore/encounters-priya","fact":"Chapter 6: Priya had Hana ask Alan to come, wanting Hana to tie her and Alan to fuck her.","learns":"character-other/encounters-hana"},{"page":"lore/encounters-priya","fact":"Chapter 6: Priya had Hana ask Alan to come, wanting Hana to tie her and Alan to fuck her.","shown":true},{"page":"lore/encounters-hana","fact":"Priya asked Hana to be the one who ties her down, with Alan there to fuck her.","learns":"character-player/encounters-alan"},{"page":"lore/encounters-hana","fact":"Priya asked Hana to be the one who ties her down, with Alan there to fuck her.","shown":true}]}
 {"beat":5,"event":"He reads it twice; Hana sends nothing else, and he answers yes."}
 {"beat":6,"event":"At two he knocks on the room next door to Sofia and Kenzie's; Hana lets him in.","at":"2026-10-12T18:00:00.000Z","place":"place/encounters-cabana-bay-room-2","arrive":["character-other/encounters-hana","character-other/encounters-priya"],"memory":[{"page":"lore/encounters-sofia-2","fact":"Sofia shares a room with Kenzie, and Priya and Hana share the room next door.","learns":"character-player/encounters-alan"},{"page":"lore/encounters-sofia-2","fact":"Sofia shares a room with Kenzie, and Priya and Hana share the room next door.","shown":true}]}
-{"beat":7,"event":"The blackout curtains are drawn, and a red silk scarf hangs over the lamp; the room glows amber.","memory":[{"page":"place/encounters-cabana-bay-room-2","fact":"Priya and Hana's room is the twin of Sofia and Kenzie's, next door, facing the same pool.","learns":"character-player/encounters-alan"},{"page":"place/encounters-cabana-bay-room-2","fact":"Priya and Hana's room is the twin of Sofia and Kenzie's, next door, facing the same pool.","shown":true}],"pictured":[{"cover":"image/image-9d8d65344e6be4b9","coverAfter":"It's dark inside after the glare. The blackout curtains are pulled tight across the wide window,","setting":"Priya and Hana's room at Cabana Bay"}]}
-{"beat":8,"event":"Hana's bed is bare but for her camera bag and a stack of exposed film canisters.","memory":[{"page":"place/encounters-cabana-bay-room-2","fact":"Hana's bed is bare but for her camera bag and a stack of exposed film canisters.","learns":"character-player/encounters-alan"},{"page":"place/encounters-cabana-bay-room-2","fact":"Hana's bed is bare but for her camera bag and a stack of exposed film canisters.","shown":true}]}
-{"beat":9,"event":"Priya sits very straight on the edge of her own squared-away bed, clothes folded by color.","memory":[{"page":"place/encounters-cabana-bay-room-2","fact":"The room has two queen beds; Priya's is squared away, her clothes folded by color.","learns":"character-player/encounters-alan"},{"page":"place/encounters-cabana-bay-room-2","fact":"The room has two queen beds; Priya's is squared away, her clothes folded by color.","shown":true}]}
-{"beat":10,"event":"Black string bikini top, drawstring shorts, glasses on, her hands folded in her lap.","memory":[{"page":"lore/encounters-priya","fact":"Priya wears a black string triangle bikini top and tiny black drawstring-sided shorts, midriff bare.","shown":true},{"page":"lore/encounters-priya","fact":"Priya's long sleek black hair is pulled into a high tight ponytail that falls past her shoulders.","shown":true}]}
-{"beat":11,"event":"Hana, in the white halter and pleated skirt, hair loose to her waist, locks the connecting door.","memory":[{"page":"lore/encounters-hana","fact":"Hana wears a white ribbed halter crop top tied behind her neck and a short black pleated miniskirt.","shown":true},{"page":"lore/encounters-hana","fact":"Hana's very long straight black hair hangs loose to her waist, parted in the center.","shown":true}]}
+{"beat":7,"event":"The blackout curtains are drawn and one lamp is on, turned low; the room glows amber."}
+{"beat":8,"event":"Hana's bed is bare but for her camera bag and a stack of exposed film canisters."}
+{"beat":9,"event":"Priya sits very straight on the edge of her own squared-away bed, clothes folded by color."}
+{"beat":10,"event":"Black string bikini top, drawstring shorts, glasses on, her hands folded in her lap."}
+{"beat":11,"event":"Hana, in the white halter and pleated skirt, hair loose to her waist, locks the connecting door."}
 {"beat":12,"event":"Priya says, deadpan, that she has made a list, and that he is not allowed to read it."}
 {"beat":13,"event":"Hana says Priya has made a list and Hana has read it, and it is very thorough."}
 {"beat":14,"event":"Priya goes red under her brown skin, and tells Hana she promised."}
 {"beat":15,"event":"Hana sits beside her, close, and takes her hand; Priya holds on tight."}
-{"beat":16,"event":"Priya tells Alan that she and Hana have lived together two years and never touched.","memory":[{"page":"lore/encounters-hana","fact":"Priya and Hana have lived together two years and never touched each other.","learns":"character-player/encounters-alan"},{"page":"lore/encounters-hana","fact":"Priya and Hana have lived together two years and never touched each other.","shown":true}]}
-{"beat":17,"event":"She asked Hana to tie her, she says, because Hana is the steadiest person she knows in a crisis.","memory":[{"page":"lore/encounters-hana","fact":"Hana is steady in a crisis, and the one who holds hair back at three in the morning.","learns":"character-player/encounters-alan"},{"page":"lore/encounters-hana","fact":"Hana is steady in a crisis, and the one who holds hair back at three in the morning.","shown":true}]}
+{"beat":16,"event":"Priya tells Alan that she and Hana have lived together two years and never touched."}
+{"beat":17,"event":"She asked Hana to tie her: Hana is the one who holds your hair back at three in the morning."}
 {"beat":18,"event":"Hana says nothing to that, only looks at Priya, and Priya looks away first."}
-{"beat":19,"event":"Priya says the safeword is the same as before, and Hana says it back: Gringotts.","memory":[{"page":"lore/encounters-priya","fact":"Priya's safeword is Gringotts.","learns":"character-other/encounters-hana"},{"page":"lore/encounters-priya","fact":"Priya's safeword is Gringotts.","shown":true}]}
+{"beat":19,"event":"Priya says the safeword is the same as before, and Hana says it back: Gringotts."}
 {"beat":20,"event":"Alan asks Priya what she wants from him; she opens her mouth, closes it, and looks at Hana."}
-{"beat":21,"event":"Hana says it for her, plainly: she wants to be used, slowly, by both of them.","memory":[{"page":"lore/encounters-priya","fact":"Priya wants to be tied down, spanked, called a good girl and used hard.","learns":"character-other/encounters-hana"},{"page":"lore/encounters-priya","fact":"Priya wants to be tied down, spanked, called a good girl and used hard.","shown":true}]}
+{"beat":21,"event":"Hana says it for her, plainly: she wants to be used, slowly, by both of them."}
 {"beat":22,"event":"Priya nods, very fast, and says there is one more thing, but not yet."}
-{"beat":23,"event":"Hana slides a long black silk scarf out of her hair, and lifts the red one off the lamp.","memory":[{"page":"lore/encounters-hana","fact":"Hana keeps two long silk scarves, black and red, that she ties in her hair.","learns":"character-player/encounters-alan"},{"page":"lore/encounters-hana","fact":"Hana keeps two long silk scarves, black and red, that she ties in her hair.","shown":true}]}
-{"beat":24,"event":"The room drops darker; she leaves the lamp bare and turned low."}
+{"beat":23,"event":"Hana slides two long silk scarves out of her hair, one black and one red."}
+{"beat":24,"event":"Her hair falls loose to her waist; she lays both scarves across Priya's pillow."}
 {"beat":25,"event":"She tells Priya to stand up; Priya stands."}
 {"beat":26,"event":"Hana takes Priya's glasses off and hands them to Alan, who folds them on the desk."}
 {"beat":27,"event":"Hana unties Priya's bikini top, slowly, the strings one at a time."}
 {"beat":28,"event":"Priya's small tits are bare; her dark nipples are already tight."}
 {"beat":29,"event":"Hana looks at them for a long moment, and Priya holds still for her."}
 {"beat":30,"event":"Hana runs a fingertip around one nipple, barely touching, and Priya's breath catches."}
-{"beat":31,"event":"Hana kisses her: slow, soft, two years late.","memory":[{"page":"lore/encounters-hana","fact":"Priya and Hana kissed for the first time, after two years of living together.","establishes":true},{"page":"lore/encounters-hana","fact":"Priya and Hana kissed for the first time, after two years of living together.","learns":"character-player/encounters-alan"},{"page":"lore/encounters-hana","fact":"Priya and Hana kissed for the first time, after two years of living together.","learns":"character-other/encounters-priya"},{"page":"lore/encounters-hana","fact":"Priya and Hana kissed for the first time, after two years of living together.","learns":"character-other/encounters-hana"},{"page":"lore/encounters-hana","fact":"Priya and Hana kissed for the first time, after two years of living together.","shown":true}]}
+{"beat":31,"event":"Hana kisses her: slow, soft, two years late."}
 {"beat":32,"event":"Priya kisses back, shy, then not shy; her hands find Hana's waist."}
 {"beat":33,"event":"Alan watches from the armchair, and Hana tells him without looking to come closer."}
-{"beat":34,"event":"Hana pulls the drawstrings of Priya's shorts and lets them drop; she is waxed bare.","memory":[{"page":"lore/encounters-priya","fact":"Priya has small perky tits with dark brown nipples, and a cunt she keeps waxed bare.","learns":"character-other/encounters-hana"},{"page":"lore/encounters-priya","fact":"Priya has small perky tits with dark brown nipples, and a cunt she keeps waxed bare.","shown":true}]}
+{"beat":34,"event":"Hana pulls the drawstrings of Priya's shorts and lets them drop; she is waxed bare."}
 {"beat":35,"event":"She lays Priya on her back on the bed, and kneels astride her."}
 {"beat":36,"event":"She ties Priya's wrists with the black scarf, and the scarf to the headboard."}
 {"beat":37,"event":"She knots the red scarf round Priya's ankles and the footboard, holding her legs apart."}
 {"beat":38,"event":"Hana checks every knot with a finger, unhurried, and asks Priya if she is all right."}
 {"beat":39,"event":"Priya tugs, finds she cannot move, and says, very quietly, yes."}
 {"beat":40,"event":"Hana unties her own halter and lets it fall; small tits, pale pink nipples."}
-{"beat":41,"event":"She steps out of her skirt; bare, the small ring glinting at her clit hood.","memory":[{"page":"lore/encounters-hana","fact":"Hana has small perky tits with pale pink nipples, and a bare cunt with a pierced clit hood.","learns":"character-other/encounters-priya"},{"page":"lore/encounters-hana","fact":"Hana has small perky tits with pale pink nipples, and a bare cunt with a pierced clit hood.","shown":true}]}
+{"beat":41,"event":"She steps out of her skirt; bare, the small ring glinting at her clit hood."}
 {"beat":42,"event":"Hana tells Alan to undress; he does, and Priya turns her head to watch."}
 {"beat":43,"event":"Hana kneels on one side of Priya, and tells Alan to kneel on the other."}
-{"beat":44,"event":"Hana sets the pace: she kisses Priya's throat slowly, and makes Alan wait.","memory":[{"page":"lore/encounters-hana","fact":"In bed Hana is slow and patient, sets the tempo herself, and will not be rushed.","learns":"character-other/encounters-priya"},{"page":"lore/encounters-hana","fact":"In bed Hana is slow and patient, sets the tempo herself, and will not be rushed.","shown":true}]}
+{"beat":44,"event":"Hana sets the pace: she kisses Priya's throat slowly, and makes Alan wait."}
 {"beat":45,"event":"At Hana's nod, Alan sucks one of Priya's nipples while Hana sucks the other."}
 {"beat":46,"event":"Priya arches against the scarves, biting her lip, silent."}
 {"beat":47,"event":"Hana tells her she may make noise; Priya says she will not, and almost does."}
@@ -55,7 +55,7 @@
 {"beat":55,"event":"Priya licks her, eager and clumsy, then not clumsy; Hana closes her eyes."}
 {"beat":56,"event":"Alan licks Priya's clit while Priya licks Hana, and the three move to Hana's slow rhythm."}
 {"beat":57,"event":"Hana rides Priya's face at her own pace, unhurried, and comes with a low sound."}
-{"beat":58,"event":"She stays, breathing, and rides her again; Priya moans into her cunt.","memory":[{"page":"lore/encounters-hana","fact":"Hana loves to sit on a face and ride it until she comes, and then again.","learns":"character-other/encounters-priya"},{"page":"lore/encounters-hana","fact":"Hana loves to sit on a face and ride it until she comes, and then again.","shown":true}]}
+{"beat":58,"event":"She stays, breathing, and rides her again; Priya moans into her cunt."}
 {"beat":59,"event":"At Hana's word, Alan slides two fingers into Priya and curls them, slowly."}
 {"beat":60,"event":"Priya comes, muffled under Hana, shaking against every knot."}
 {"beat":61,"event":"Hana lifts off her and lies beside her, stroking her wet face."}
@@ -68,14 +68,14 @@
 {"beat":68,"event":"Hana pinches Priya's nipple and tells Alan he can spank her thigh."}
 {"beat":69,"event":"He does, once, sharp; Priya clenches on his cock and gasps."}
 {"beat":70,"event":"Hana kisses Priya slowly while Alan fucks her, and tells her she is doing so well."}
-{"beat":71,"event":"Priya comes again, quietly, biting Hana's lip.","memory":[{"page":"lore/encounters-priya","fact":"Priya comes quietly, biting her lip, and begs when she is made to wait.","learns":"character-other/encounters-hana"},{"page":"lore/encounters-priya","fact":"Priya comes quietly, biting her lip, and begs when she is made to wait.","shown":true}]}
+{"beat":71,"event":"Priya comes again, quietly, biting Hana's lip."}
 {"beat":72,"event":"Hana unties Priya's ankles, and tells her to turn over, and Priya does."}
 {"beat":73,"event":"Hana reties the wrists so Priya kneels with her ass in the air, her cheek on the pillow."}
 {"beat":74,"event":"Hana smooths a hand down Priya's back and tells her it is time to say the other thing."}
-{"beat":75,"event":"Priya, face in the pillow, says it: she wants his cock in her ass, and has only had toys.","memory":[{"page":"lore/encounters-priya","fact":"Priya keeps a drawer of toys, and loves anal, which she has only ever done with a toy.","learns":"character-player/encounters-alan"},{"page":"lore/encounters-priya","fact":"Priya keeps a drawer of toys, and loves anal, which she has only ever done with a toy.","learns":"character-other/encounters-hana"},{"page":"lore/encounters-priya","fact":"Priya keeps a drawer of toys, and loves anal, which she has only ever done with a toy.","shown":true}]}
+{"beat":75,"event":"Face in the pillow, Priya says it: his cock in her ass; she loves it, but has a drawer of only toys."}
 {"beat":76,"event":"She says she brought lube, in the color-coded bag, of course, and Hana laughs softly."}
 {"beat":77,"event":"Hana fetches it; she tells Alan Priya has researched this, and he should do exactly as told."}
-{"beat":78,"event":"Priya tells him, haltingly, how: slow, lots of lube, a finger first, and wait.","memory":[{"page":"lore/encounters-priya","fact":"Priya is shy saying anything about sex and wholly unashamed having it, and has researched it.","learns":"character-other/encounters-hana"},{"page":"lore/encounters-priya","fact":"Priya is shy saying anything about sex and wholly unashamed having it, and has researched it.","shown":true}]}
+{"beat":78,"event":"Priya tells him, haltingly, how: slow, lots of lube, a finger first, and wait."}
 {"beat":79,"event":"He works lube into her ass with one finger, slowly; she breathes out and opens for him."}
 {"beat":80,"event":"Two fingers; Hana strokes Priya's hair and talks her through every breath."}
 {"beat":81,"event":"Priya says she is ready, then says please, then says it again."}
@@ -87,7 +87,7 @@
 {"beat":87,"event":"He spanks her once, and calls her a good girl, and she sobs a yes."}
 {"beat":88,"event":"He fucks her ass harder, as she asks, holding her hips; Hana keeps her slow on the clit."}
 {"beat":89,"event":"Priya comes with a sob, her ass clenching tight round his cock, shaking against the scarf."}
-{"beat":90,"event":"He comes deep in her ass, groaning, and Hana kisses Priya through it.","memory":[{"page":"lore/encounters-priya","fact":"Hana tied Priya to her bed with silk scarves, and Alan fucked her cunt and then her ass.","establishes":true},{"page":"lore/encounters-priya","fact":"Hana tied Priya to her bed with silk scarves, and Alan fucked her cunt and then her ass.","learns":"character-player/encounters-alan"},{"page":"lore/encounters-priya","fact":"Hana tied Priya to her bed with silk scarves, and Alan fucked her cunt and then her ass.","learns":"character-other/encounters-priya"},{"page":"lore/encounters-priya","fact":"Hana tied Priya to her bed with silk scarves, and Alan fucked her cunt and then her ass.","learns":"character-other/encounters-hana"},{"page":"lore/encounters-priya","fact":"Hana tied Priya to her bed with silk scarves, and Alan fucked her cunt and then her ass.","shown":true},{"page":"lore/encounters-priya","fact":"Priya's first time taking a cock in her ass was Alan's; before, she had only had toys.","establishes":true},{"page":"lore/encounters-priya","fact":"Priya's first time taking a cock in her ass was Alan's; before, she had only had toys.","learns":"character-player/encounters-alan"},{"page":"lore/encounters-priya","fact":"Priya's first time taking a cock in her ass was Alan's; before, she had only had toys.","learns":"character-other/encounters-priya"},{"page":"lore/encounters-priya","fact":"Priya's first time taking a cock in her ass was Alan's; before, she had only had toys.","learns":"character-other/encounters-hana"},{"page":"lore/encounters-priya","fact":"Priya's first time taking a cock in her ass was Alan's; before, she had only had toys.","shown":true}]}
+{"beat":90,"event":"He comes deep in her ass, groaning, and Hana kisses Priya through it."}
 {"beat":91,"event":"He pulls out slowly; Hana unties Priya's wrists and rubs them."}
 {"beat":92,"event":"Priya lies between them on Hana's bed, film canisters swept onto the floor.","at":"2026-10-12T20:10:00.000Z"}
 {"beat":93,"event":"Hana fetches a warm cloth and cleans Priya up, slowly, without a word."}
@@ -100,6 +100,6 @@
 {"beat":100,"event":"Priya says Hana tells them nothing, ever; Hana says she might make an exception."}
 {"beat":101,"event":"When Sofia's name comes up, Hana goes quiet; Priya squeezes her hand and lets it go."}
 {"beat":102,"event":"Alan sees it, and does not ask."}
-{"beat":103,"event":"Hana pulls one curtain open a hand's width, and takes one frame of Priya in that light, smiling.","memory":[{"page":"lore/encounters-hana","fact":"Hana shot a film photo of Priya in bed, smiling, after their afternoon with Alan.","establishes":true},{"page":"lore/encounters-hana","fact":"Hana shot a film photo of Priya in bed, smiling, after their afternoon with Alan.","learns":"character-player/encounters-alan"},{"page":"lore/encounters-hana","fact":"Hana shot a film photo of Priya in bed, smiling, after their afternoon with Alan.","learns":"character-other/encounters-priya"},{"page":"lore/encounters-hana","fact":"Hana shot a film photo of Priya in bed, smiling, after their afternoon with Alan.","learns":"character-other/encounters-hana"},{"page":"lore/encounters-hana","fact":"Hana shot a film photo of Priya in bed, smiling, after their afternoon with Alan.","shown":true}]}
+{"beat":103,"event":"Hana pulls one curtain open a hand's width, and takes one frame of Priya in that light, smiling."}
 {"beat":104,"event":"Priya says she will burn that print; Hana says she won't, and winds on."}
 {"beat":105,"event":"Priya asks when Sofia and Kenzie get back; Hana says not for hours, and Priya says good."}

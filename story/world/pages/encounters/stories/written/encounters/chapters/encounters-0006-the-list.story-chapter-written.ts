@@ -11,7 +11,7 @@ export const encounters0006TheList = {
   story: "story-written/encounters",
   ownLength: 5323,
   prose: "txt",
-  stepStatus: "step-status/game-master",
+  stepStatus: "step-status/mechanics",
   beats: "jsonl",
   issues: "txt",
   lore: [
@@ -32,12 +32,5 @@ export const encounters0006TheList = {
     "character-other/encounters-kenzie",
   ],
   reviewedBy: ["story-reviewer/holdings", "story-reviewer/scene"],
-  recordedBy: [
-    "story-recorder/plan",
-    "story-recorder/inventory",
-    "story-recorder/mechanics",
-    "story-recorder/picture",
-    "story-recorder/memory",
-  ],
   scenes: ["image/image-9d8d65344e6be4b9"],
 } as const satisfies StoryChapterWritten
