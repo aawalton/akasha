@@ -1,7 +1,7 @@
 {"beat":1,"event":"Elsie wakes at half past four in her crown and shawl. On the sill Moonpenny is still open.","at":"2026-06-21T04:30:00.000Z","place":"place/fairweather-honeycomb-attic","present":["character-player/fairweather-elsie"]}
 {"beat":2,"event":"She tells Moonpenny good morning. It's the twenty-first. Today is the house."}
 {"beat":3,"event":"She counts it on her fingers like Tamsin does: pay at dawn, Coin Street at eight, four suns."}
-{"beat":4,"event":"She lays the birch crown on the sill by Moonpenny, keeps the shawl on, and pins her clip."}
+{"beat":4,"event":"She lays the birch crown on the sill by Moonpenny, keeps the shawl on, and pins her clip.","changes":[{"page":"story-item/fairweather-elsies-birch-crown","note":"Elsie lays her birch crown on the sill by Moonpenny","key":"slot","from":"item-slot/head","to":null}]}
 {"beat":5,"event":"In the bee tin under its cloth, two honey cakes are left over from the boat."}
 {"beat":6,"event":"Downstairs the oven is lit and Mrs Merriweather is at the peel, sliding out the first loaves.","at":"2026-06-21T04:40:00.000Z","place":"place/fairweather-honeycomb","present":["character-player/fairweather-elsie"]}
 {"beat":7,"event":"Elsie asks to warm one cake on the oven ledge. It's promised to a man on Coin Street, warm."}
@@ -24,7 +24,7 @@
 {"beat":24,"event":"Biscuit wakes, climbs off Ines's feet, and goes and sits on Noor's boots instead."}
 {"beat":25,"event":"At five Odile Marsh comes up from her boat with a strongbox under one arm and her slate.","at":"2026-06-21T05:00:00.000Z"}
 {"beat":26,"event":"She pays the guard boats one by one by their numbers. Eleven is last."}
-{"beat":27,"event":"She counts twelve silver lanterns into Elsie's cupped hands. They're cold and wet from the mist."}
+{"beat":27,"event":"She counts twelve silver lanterns into Elsie's cupped hands. They're cold and wet from the mist.","changes":[{"page":"metric-character-currency/fairweather-elsie","note":"Odile pays eleven twelve silver lanterns into Elsie's hands: 190 → 310","key":"value","from":190,"to":310}]}
 {"beat":28,"event":"Odile says the thief who couldn't swim is in the watch house, and has named the other three."}
 {"beat":29,"event":"She says she'll send the guild a chit: eleven did well. She wants eleven again next year."}
 {"beat":30,"event":"She looks at Noor. She says: at the back again. Noor says, maybe. Odile goes down to her boat."}
@@ -40,13 +40,13 @@
 {"beat":40,"event":"Tamsin whoops. A gull goes up off the step, and the mist swirls."}
 {"beat":41,"event":"Elsie hugs Noor round the neck from behind. Noor says, the step, into the shawl."}
 {"beat":42,"event":"Elsie hugs Cora next. Cora goes stiff, then pats her back once with a grey glove."}
-{"beat":43,"event":"They sweep it all into the sock. Tamsin ties it and shoves it inside her jerkin. Nobody robs her."}
+{"beat":43,"event":"They sweep it all into the sock. Tamsin ties it and shoves it inside her jerkin. Nobody robs her.","changes":[{"page":"metric-character-currency/fairweather-elsie","note":"All Elsie's coin swept into the house sock Tamsin carries: 310 → 0","key":"value","from":310,"to":0},{"page":"metric-character-currency/fairweather-tilly","note":"Tilly's savings swept into the house sock Tamsin carries: 274 → 0","key":"value","from":274,"to":0},{"page":"metric-character-currency/fairweather-tamsin","note":"Tamsin carries the pooled sock, four suns and eight pips: 224 → 808","key":"value","from":224,"to":808}]}
 {"beat":44,"event":"Noor says she's going to bed. Elsie asks her to Coin Street first, to see where her coin goes."}
 {"beat":45,"event":"Noor looks at the lump in Tamsin's jerkin. She says she'd like to see the door. Just the door."}
 {"beat":46,"event":"Elsie asks Ines to supper tonight, at the blue door on Willow Canal. Ines looks startled. She nods."}
 {"beat":47,"event":"Ines goes up the steps toward Ash Lane with Biscuit on her shoulder.","leave":["character-other/fairweather-ines"]}
 {"beat":48,"event":"Three hours till eight. Tamsin says breakfast. Tilly says eight pips. Tamsin says a loaf, then."}
-{"beat":49,"event":"At a stall at the top of the steps Tamsin buys a loaf with one pip from the sock. Seven over now."}
+{"beat":49,"event":"At a stall at the top of the steps Tamsin buys a loaf with one pip from the sock. Seven over now.","changes":[{"page":"metric-character-currency/fairweather-tamsin","note":"Tamsin buys a loaf with one pip from the sock: 808 → 807","key":"value","from":808,"to":807}]}
 {"beat":50,"event":"They eat it walking the canals as the mist lifts, torn in five, Noor at the end of the row.","at":"2026-06-21T05:40:00.000Z","place":"place/fairweather-lanternmere","present":["character-player/fairweather-elsie","character-other/fairweather-tamsin","character-other/fairweather-tilly","character-other/fairweather-cora","character-other/fairweather-noor"]}
 {"beat":51,"event":"On Willow Canal they stand on the walk across from the blue door. Nobody says anything.","at":"2026-06-21T06:15:00.000Z"}
 {"beat":52,"event":"The blue paint is peeling. The fish knocker is green with age. A cat sleeps on the step."}
@@ -73,7 +73,7 @@
 {"beat":73,"event":"A ring of keys slides off the desk. Then the whole heap goes, in a long jingling avalanche."}
 {"beat":74,"event":"Noor says flatly: that was me. The agent, down on his knees, says it happens every day."}
 {"beat":75,"event":"Elsie kneels to help gather. One key with a blue paper tag has slid right up to her boot."}
-{"beat":76,"event":"The agent finishes: four suns, exact. He pushes back seven pips. Tilly puts them in the sock."}
+{"beat":76,"event":"The agent finishes: four suns, exact. He pushes back seven pips. Tilly puts them in the sock.","changes":[{"page":"metric-character-currency/fairweather-tamsin","note":"Four suns paid for the blue door; the sock's change goes to Tilly: 807 → 0","key":"value","from":807,"to":0},{"page":"metric-character-currency/fairweather-tilly","note":"Tilly puts the seven pips change back in her sock: 0 → 7","key":"value","from":0,"to":7}]}
 {"beat":77,"event":"He writes in his book: four suns, a month's rent and one in hand. Two suns due on the first."}
 {"beat":78,"event":"Tamsin's face falls: the first is ten days off. Two suns in ten days. Elsie says: notices."}
 {"beat":79,"event":"He takes the blue-tagged key from Elsie, writes on its tag, and closes her fingers round it."}
@@ -107,7 +107,7 @@
 {"beat":107,"event":"Elsie's eyes fill. She leans over the counter and hugs her, flour and all. She gets two pats."}
 {"beat":108,"event":"Mrs Merriweather says the oven's cool by four on Sundays, if she wants to bake. Elsie says yes."}
 {"beat":109,"event":"Elsie tells her where: Willow Canal, the blue door, mind the step. In case anyone asks for her."}
-{"beat":110,"event":"In the attic Elsie packs the crate: Captain, Sunny, Doris, Mrs Pennywhistle, the shawl on top.","at":"2026-06-21T10:20:00.000Z","place":"place/fairweather-honeycomb-attic","present":["character-player/fairweather-elsie"]}
+{"beat":110,"event":"In the attic Elsie packs the crate: Captain, Sunny, Doris, Mrs Pennywhistle, the shawl on top.","at":"2026-06-21T10:20:00.000Z","place":"place/fairweather-honeycomb-attic","present":["character-player/fairweather-elsie"],"changes":[{"page":"story-item/fairweather-blue-shawl","note":"Elsie packs the shawl on top of the plant crate","key":"slot","from":"item-slot/shoulders","to":null}]}
 {"beat":111,"event":"Moonpenny can't go in the crate, open as she is. Elsie will carry her in her arms."}
 {"beat":112,"event":"She looks round: the round window, the narrow bed, the splinters. She thanks the room out loud."}
 {"beat":113,"event":"Tamsin's voice comes up from the street. She's back with her bag, and Margery.","at":"2026-06-21T10:50:00.000Z","arrive":["character-other/fairweather-tamsin"]}
@@ -181,4 +181,4 @@
 {"beat":181,"event":"She looks at the two of them a moment. Then she climbs on the sofa's other end, feet under Elsie."}
 {"beat":182,"event":"Over Elsie's head Tamsin and Tilly look at each other. Tilly lifts her chin. Tamsin nods once."}
 {"beat":183,"event":"Tilly spreads her blanket over all three of them. The sofa sags further. Nobody moves."}
-{"beat":184,"event":"Elsie falls asleep between them, the canal going by under the window, the thread warm and still."}
+{"beat":184,"event":"Elsie falls asleep between them, the canal going by under the window, the thread warm and still.","changes":[{"page":"metric-character-currency/fairweather-elsie","note":"Elsie's purse logged: 0 pips","key":"history","append":{"turn":21,"value":0}},{"page":"metric-character-currency/fairweather-tamsin","note":"Tamsin's purse logged: 0 pips","key":"history","append":{"turn":21,"value":0}},{"page":"metric-character-currency/fairweather-tilly","note":"Tilly's purse logged: 7 pips","key":"history","append":{"turn":21,"value":7}}]}
