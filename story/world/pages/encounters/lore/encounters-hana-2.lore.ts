@@ -134,6 +134,8 @@ export const encountersHana2 = {
         "character-player/encounters-alan",
         "character-other/encounters-kenzie",
         "character-other/encounters-hana",
+        "character-other/encounters-sofia",
+        "character-other/encounters-priya",
       ],
     },
   ],
