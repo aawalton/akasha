@@ -11,7 +11,7 @@ export const encounters0010WindowLight = {
   story: "story-written/encounters",
   ownLength: 6517,
   prose: "txt",
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/reviewers",
   beats: "jsonl",
   issues: "txt",
   lore: [
@@ -39,6 +39,7 @@ export const encounters0010WindowLight = {
     "story-recorder/plan",
     "story-recorder/inventory",
     "story-recorder/picture",
+    "story-recorder/memory",
   ],
   rulings: "jsonl",
   scenes: ["image/image-aae52333f28869dd"],
