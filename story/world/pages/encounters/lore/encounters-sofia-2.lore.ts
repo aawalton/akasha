@@ -138,6 +138,58 @@ export const encountersSofia2 = {
       ],
     },
     {
+      fact: "The morning after, Sofia and Hana told Kenzie and Priya they are together now.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/encounters-sofia",
+        "character-other/encounters-kenzie",
+        "character-other/encounters-priya",
+        "character-other/encounters-hana",
+      ],
+    },
+    {
+      fact: "Chapter 11: Kenzie texted Alan to come to Cabana Bay for the girls' last night, both rooms.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/encounters-alan",
+        "character-other/encounters-sofia",
+        "character-other/encounters-kenzie",
+        "character-other/encounters-priya",
+        "character-other/encounters-hana",
+      ],
+    },
+    {
+      fact: "On the last night the girls propped the connecting door open with Kenzie's cooler.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/encounters-sofia",
+        "character-other/encounters-kenzie",
+        "character-other/encounters-priya",
+        "character-other/encounters-hana",
+      ],
+    },
+    {
+      fact: "Kenzie printed an itinerary for the last night, and the other three have ignored every item.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/encounters-sofia",
+        "character-other/encounters-kenzie",
+        "character-other/encounters-priya",
+        "character-other/encounters-hana",
+      ],
+    },
+    {
+      fact: "The girls check out at eleven on October 16 and drive back to Gainesville.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/encounters-alan",
+        "character-other/encounters-sofia",
+        "character-other/encounters-kenzie",
+        "character-other/encounters-priya",
+        "character-other/encounters-hana",
+      ],
+    },
+    {
       fact: "Alan has Sofia's number in his phone, saved as Sofia (single rider).",
       knowers: [
         "lore-disclosure/game-master",

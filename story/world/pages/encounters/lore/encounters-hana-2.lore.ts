@@ -135,6 +135,10 @@ export const encountersHana2 = {
       ],
     },
     {
+      fact: "Hana saved the last four frames of her roll for the last night, one for each of them.",
+      knowers: ["lore-disclosure/game-master", "character-other/encounters-hana"],
+    },
+    {
       fact: "Hana got her clit hood pierced this summer.",
       knowers: [
         "lore-disclosure/game-master",
