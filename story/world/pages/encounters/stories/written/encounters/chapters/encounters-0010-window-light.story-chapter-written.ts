@@ -33,7 +33,7 @@ export const encounters0010WindowLight = {
     "character-other/encounters-priya",
     "character-other/encounters-kenzie",
   ],
-  reviewedBy: ["story-reviewer/holdings", "story-reviewer/style"],
+  reviewedBy: ["story-reviewer/holdings", "story-reviewer/style", "story-reviewer/scene"],
   recordedBy: [
     "story-recorder/mechanics",
     "story-recorder/plan",
