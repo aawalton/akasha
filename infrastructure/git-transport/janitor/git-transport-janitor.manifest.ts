@@ -10,7 +10,7 @@ export const gitTransportJanitor = {
   minCpuMillicores: 100,
   maxCpuMillicores: 1000,
   minMemoryMb: 256,
-  killMemoryMb: 1024,
+  killMemoryMb: 4096,
   generatedDirectory: true,
   decisions: [
     {
@@ -74,11 +74,15 @@ export const gitTransportJanitor = {
       statement: "The free space on the volume is read before each repack.",
     },
     {
+      decisionKind: "decision-kind/constraint",
+      statement: "A repack over millions of objects needs more than a gigabyte of memory.",
+    },
+    {
       decisionKind: "decision-kind/departure",
       statement:
         "The sweep carries none of the labels the server is selected by, so no traffic reaches it.",
     },
   ],
   createdAt: "2026-09-07T15:24:15.996Z",
-  updatedAt: "2026-09-24T23:15:06.000Z",
+  updatedAt: "2026-10-08T18:14:55.229Z",
 } as const satisfies Manifest
