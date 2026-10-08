@@ -48,7 +48,13 @@ const SEAT_READY = seatIn(ready.slug)
 const SEAT_STOPPED = seatIn(stopped.slug)
 
 function story(slug: string): Story {
-  return { id: "01a06425-4433-7452-bd78-2410fa95fb44", slug, title: slug }
+  return {
+    id: "01a06425-4433-7452-bd78-2410fa95fb44",
+    slug,
+    title: slug,
+    createdAt: "2026-09-01T00:00:00.000Z",
+    updatedAt: "2026-09-01T00:00:00.000Z",
+  }
 }
 
 function reachOver(named: Readonly<Record<string, readonly Row[]>>): Reach {

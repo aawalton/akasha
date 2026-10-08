@@ -16,6 +16,8 @@ const BASE: ModelAccount = {
   email: "aine@alanwalton.com",
   aliasIndex: 0,
   provider: ANTHROPIC,
+  createdAt: "2026-09-01T00:00:00.000Z",
+  updatedAt: "2026-09-01T00:00:00.000Z",
 }
 
 export function account(held: Record<string, unknown>): ModelAccount {
