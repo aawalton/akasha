@@ -189,6 +189,10 @@ export const terminusTheSphere = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
+      fact: "The wreckage over the essence shell is thick, hundreds to thousands of km deep.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
       fact: "Underground structures and infrastructure lie beneath the inner surface.",
       knowers: ["lore-disclosure/game-master"],
     },
@@ -230,5 +234,5 @@ export const terminusTheSphere = {
     },
   ],
   createdAt: "2026-10-08T19:12:35.919Z",
-  updatedAt: "2026-10-08T20:17:59.538Z",
+  updatedAt: "2026-10-08T20:25:26.900Z",
 } as const satisfies Lore
