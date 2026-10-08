@@ -23,4 +23,6 @@ export const image5fdb13efc961f459 = {
   fantasyTags: ["fantasy-tag/cosplay", "fantasy-tag/blue-skin", "fantasy-tag/mermaid"],
   ethnicityTags: ["ethnicity-tag/white"],
   ageTags: ["age-tag/age-25-34"],
+  createdAt: "2026-09-21T21:51:08.044Z",
+  updatedAt: "2026-09-27T15:52:40.000Z",
 } as const satisfies Image

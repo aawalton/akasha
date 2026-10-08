@@ -19,4 +19,6 @@ export const image5ea5707431b05fd6 = {
   ],
   prompt:
     "She is an adult woman. Keep her exact face, hair, eyes and every distinctive feature, including any horns, ears, markings or non-human traits. Keep her head exactly as in the reference and add no horns or features she does not have. She kneels on a sunny park lawn beside a big wicker picnic basket, happily laying out a spread of home-cooked Southern food: fried chicken, biscuits, a peach cobbler and a jar of sweet tea. She wears only a floral cotton apron tied at her neck and waist, which covers her front, leaving her shoulders, back and sides bare, and a small gold cross necklace. She smiles down at the food with pride, not at the camera. Camera at a three-quarter side angle at kneeling height, warm golden late-afternoon light. No other people. Photorealistic, natural skin detail.",
+  createdAt: "2026-09-28T19:36:08.005Z",
+  updatedAt: "2026-09-28T19:36:49.000Z",
 } as const satisfies Image

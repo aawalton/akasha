@@ -9,4 +9,6 @@ export const image61b8d27a429a6a99 = {
   settingTags: ["setting-tag/outdoor"],
   poseTags: ["pose-tag/standing", "pose-tag/holding-umbrella"],
   wardrobeTags: ["wardrobe-tag/dress"],
+  createdAt: "2026-09-21T21:51:50.080Z",
+  updatedAt: "2026-09-27T15:50:06.000Z",
 } as const satisfies Image

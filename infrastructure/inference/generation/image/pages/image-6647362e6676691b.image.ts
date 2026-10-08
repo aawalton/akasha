@@ -14,4 +14,6 @@ export const image6647362e6676691b = {
   height: 1216,
   prompt:
     "fantasy photorealistic, a great wide wooden festival barge moored on a calm lake at dusk, its rails hung with hundreds of glowing paper lanterns, a raised stage at its stern under a canopy of gold cloth, lantern light reflected in the dark water, a distant canal city skyline on the shore, empty, no people",
+  createdAt: "2026-10-06T21:35:30.759Z",
+  updatedAt: "2026-10-06T21:35:31.000Z",
 } as const satisfies Image

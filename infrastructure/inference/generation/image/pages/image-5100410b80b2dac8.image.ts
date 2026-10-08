@@ -19,4 +19,6 @@ export const image5100410b80b2dac8 = {
   ],
   prompt:
     "She is an adult woman. Keep her exact face, hair, eyes and every distinctive feature, including any horns, ears, markings or non-human traits. Keep her head exactly as in the reference and add no horns or features she does not have. She has fallen asleep on her back on a woven straw beach mat in a park, cat-eye sunglasses pushed up onto her forehead, mouth slightly open in a peaceful nap. An open hardback book lies face-down across her chest, covering it, one hand still resting on it. She wears a retro high-waisted polka-dot bikini bottom and a silk headscarf tied in her hair; a half-eaten peach sits beside her. Camera from above at a three-quarter angle, hazy warm midday light, dappled leaf shadows at the edge of the mat. No other people. Photorealistic, natural skin detail.",
+  createdAt: "2026-09-28T19:34:36.709Z",
+  updatedAt: "2026-09-28T19:35:11.000Z",
 } as const satisfies Image

@@ -24,4 +24,6 @@ export const image55a889d15f28eb3d = {
     "setting-tag/candlelight",
   ],
   poseTags: ["pose-tag/standing", "pose-tag/walking", "pose-tag/holding-lantern"],
+  createdAt: "2026-06-30T11:09:34.299Z",
+  updatedAt: "2026-09-27T15:49:04.000Z",
 } as const satisfies Image

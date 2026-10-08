@@ -21,4 +21,6 @@ export const image5582acb4a4054060 = {
   wardrobeTags: ["wardrobe-tag/sundress", "wardrobe-tag/sunglasses", "wardrobe-tag/jewelry"],
   ethnicityTags: ["ethnicity-tag/white"],
   ageTags: ["age-tag/age-25-34"],
+  createdAt: "2026-08-17T12:10:22.092Z",
+  updatedAt: "2026-09-27T15:52:40.000Z",
 } as const satisfies Image

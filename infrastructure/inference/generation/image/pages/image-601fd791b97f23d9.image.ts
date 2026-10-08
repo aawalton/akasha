@@ -14,4 +14,6 @@ export const image601fd791b97f23d9 = {
   height: 1216,
   prompt:
     "Fantasy photorealistic. A tiny attic bedroom under the roof of an old grey stone rooming house in a mountain town, empty of people, at dawn. The ceiling slants down steeply over a narrow wooden bed made up with a rough grey-brown wool blanket, rumpled as if someone has just risen from it. Under a small window stands a plain wooden washstand with a white jug and basin, and a small square of mirror propped on a nail above it. A plain wooden chest sits at the foot of the bed. Along the wall by the plank door runs a row of wooden pegs, a canvas pack hanging from the last one. The floor is bare worn floorboards. The window is closed by a wooden shutter, and warm orange dawn light seeps in round its edges in a thin glowing line that falls across the slanted ceiling and the blanket. The rest of the room is in soft cool shadow, the whitewashed plaster walls and dark old beams barely lit. Quiet, humble, clean, lived-in, a little cold. Wide-angle interior photograph from the doorway, 24mm lens, eye level, deep depth of field so the whole room is sharp, natural light only, fine texture on the wool, wood grain and plaster, cinematic realistic color, high detail.",
+  createdAt: "2026-10-02T18:34:07.899Z",
+  updatedAt: "2026-10-02T18:34:08.000Z",
 } as const satisfies Image

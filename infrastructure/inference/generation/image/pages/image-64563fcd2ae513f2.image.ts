@@ -7,4 +7,6 @@ export const image64563fcd2ae513f2 = {
   title: "Mini sweet peppers",
   relationshipLevel: "closeness-level/level-1",
   settingTags: ["setting-tag/indoor", "setting-tag/kitchen"],
+  createdAt: "2026-09-21T21:55:35.111Z",
+  updatedAt: "2026-09-27T15:48:03.000Z",
 } as const satisfies Image

@@ -17,4 +17,6 @@ export const image5aa09d46b5ed8fa2 = {
   ],
   prompt:
     "Move the camera in close: a new close view of the narrow bed from the first image, the camera standing right beside the bed at mattress height, so the bed and the woman lying in it fill the whole frame and the rest of the room is out of frame. Fantasy photorealistic, candid photograph, nobody looks at the camera. The pink-haired woman from the second image has just woken far too early and lies on her back on top of the patchwork quilt, her head on the white pillow, both hands knotted together on her stomach, her eyes open and fixed on the dark beams above her, her lips closed, quietly nervous. Her short rose-pink bob is mussed from sleep and she wears no flower clip. She wears only a plain white linen shift with thin straps, knee length, her arms, shoulders, legs and feet bare. Behind her the sloped plaster wall and a dark timber beam; pale grey dawn light from the side falls across her, the room dim and cool. Close medium shot, 35mm lens, her whole body from head to bare feet along the bed.",
+  createdAt: "2026-10-04T13:59:50.869Z",
+  updatedAt: "2026-10-04T13:59:51.000Z",
 } as const satisfies Image

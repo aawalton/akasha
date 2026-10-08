@@ -14,4 +14,6 @@ export const image4fbb0f77492583e6 = {
   height: 1216,
   prompt:
     "Fantasy photorealistic, candid photograph. The lake road out of a fantasy lakeside city at sunset in early summer, with nobody in the frame. A pale dirt road curves away along the shore, with a great calm lake on the left going from gold to rose to violet as the sun sets behind distant hills, and on the right gardens and orchards behind low hedges. Ahead, at a bend in the road, a high old red brick wall begins and runs along the roadside, with the tops of fruit trees showing over it, and over the trees rises the long white-framed ridge of a glasshouse, its glass catching the last of the light so it shines like a lantern. Long grass along the verge, a few wildflowers, a fence post. Warm low light, long soft shadows, the first evening haze over the water. Nothing lettered. Eye-level view along the road toward the wall and the glasshouse, 35mm lens, deep focus.",
+  createdAt: "2026-10-04T16:33:57.916Z",
+  updatedAt: "2026-10-04T16:33:58.000Z",
 } as const satisfies Image

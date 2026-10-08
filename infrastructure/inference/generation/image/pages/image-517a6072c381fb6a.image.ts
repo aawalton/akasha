@@ -11,4 +11,6 @@ export const image517a6072c381fb6a = {
   wardrobeTags: ["wardrobe-tag/backless", "wardrobe-tag/gown", "wardrobe-tag/high-slit"],
   ethnicityTags: ["ethnicity-tag/asian"],
   ageTags: ["age-tag/age-25-34"],
+  createdAt: "2026-09-21T21:51:22.756Z",
+  updatedAt: "2026-09-27T15:52:40.000Z",
 } as const satisfies Image

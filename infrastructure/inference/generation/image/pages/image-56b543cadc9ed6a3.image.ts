@@ -16,4 +16,6 @@ export const image56b543cadc9ed6a3 = {
   ],
   ethnicityTags: ["ethnicity-tag/asian"],
   ageTags: ["age-tag/age-18-24"],
+  createdAt: "2026-06-30T11:10:13.994Z",
+  updatedAt: "2026-09-27T15:59:30.000Z",
 } as const satisfies Image

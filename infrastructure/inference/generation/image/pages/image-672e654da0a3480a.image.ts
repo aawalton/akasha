@@ -12,4 +12,6 @@ export const image672e654da0a3480a = {
   fantasyTags: ["fantasy-tag/surreal"],
   ethnicityTags: ["ethnicity-tag/white"],
   ageTags: ["age-tag/age-25-34"],
+  createdAt: "2026-09-21T21:51:28.038Z",
+  updatedAt: "2026-09-27T15:52:40.000Z",
 } as const satisfies Image

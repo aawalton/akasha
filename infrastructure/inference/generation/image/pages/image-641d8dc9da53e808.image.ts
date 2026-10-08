@@ -12,4 +12,6 @@ export const image641d8dc9da53e808 = {
   fantasyTags: ["fantasy-tag/cosmic", "fantasy-tag/ethereal"],
   ethnicityTags: ["ethnicity-tag/mixed"],
   ageTags: ["age-tag/age-25-34"],
+  createdAt: "2026-09-21T21:51:22.756Z",
+  updatedAt: "2026-09-27T15:52:40.000Z",
 } as const satisfies Image

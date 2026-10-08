@@ -20,4 +20,6 @@ export const image5e6391f2f4371776 = {
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/smiling"],
   wardrobeTags: ["wardrobe-tag/school-uniform", "wardrobe-tag/suit", "wardrobe-tag/skirt"],
   ageTags: ["age-tag/age-18-24"],
+  createdAt: "2026-09-21T21:51:17.963Z",
+  updatedAt: "2026-09-27T15:59:30.000Z",
 } as const satisfies Image

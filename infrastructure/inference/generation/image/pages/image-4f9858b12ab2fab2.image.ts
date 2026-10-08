@@ -19,4 +19,6 @@ export const image4f9858b12ab2fab2 = {
   ],
   prompt:
     "She is an adult woman. Keep her exact face, hair, eyes and every distinctive feature, including any horns, ears, markings or non-human traits. Keep her head exactly as in the reference and add nothing she does not have. She lies on her stomach on a patchwork quilt in a park with a wooden chessboard set up on the quilt in front of her, chin on one fist, frowning thoughtfully at the pieces as she considers her next move, one hand hovering over a knight. A rumpled white peasant blouse is pulled down to her waist, her back bare to the sun and her chest pressed hidden against the quilt, a leather cord bracelet on her wrist. Side profile camera at grass level, warm mid-afternoon light, a teapot and a mug beside the board. No other people. Photorealistic, natural skin detail.",
+  createdAt: "2026-09-28T19:25:40.963Z",
+  updatedAt: "2026-09-28T19:26:03.000Z",
 } as const satisfies Image

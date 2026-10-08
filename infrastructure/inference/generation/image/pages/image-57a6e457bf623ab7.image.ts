@@ -14,4 +14,6 @@ export const image57a6e457bf623ab7 = {
   height: 1216,
   prompt:
     "fantasy photorealistic, an old stone watermill with a large wooden waterwheel on a green river bank, a thatched miller's cottage beside it, a millpond and weir, willows and meadow flowers, warm summer morning light, empty, no people, no animals",
+  createdAt: "2026-10-06T18:48:44.000Z",
+  updatedAt: "2026-10-06T18:48:44.000Z",
 } as const satisfies Image

@@ -14,4 +14,6 @@ export const image62b9939134bd55eb = {
   height: 1216,
   prompt:
     "Fantasy photorealistic, candid photograph. The inside of a hay loft in an old stone barn at night, with nobody in the frame. Deep soft new hay is piled across the whole wooden floor under a low sloping roof of old timber rafters and slates. At the far end a small square window lets in pale starlight and a glimpse of stars over dark hills. At the near end the top of a wooden ladder comes up through a square hole in the floor beside a square loft door under the eaves. A single rough grey wool blanket lies folded on the hay. Dust and loose straw catch the faint light. The light is dim and blue from the starlit window, with a faint warm glow of lantern light rising up through the ladder hole from below. Warm, close, quiet. Nothing lettered. Eye-level view from the top of the ladder across the hay toward the window, 24mm lens, deep focus.",
+  createdAt: "2026-10-06T13:11:57.519Z",
+  updatedAt: "2026-10-06T13:11:58.000Z",
 } as const satisfies Image

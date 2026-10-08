@@ -14,4 +14,6 @@ export const image5e3ec7d51121969c = {
   height: 1216,
   prompt:
     "Fantasy photorealistic portrait. A pretty young Korean woman of nineteen with a K-pop idol's sweet face, standing alone on the deck of a green canal barge, framed from head to mid-thigh. She has a small oval face, bright green eyes, a small nose, a wide open friendly smile, warm sun-kissed golden skin with a light dusting of freckles across her nose and cheeks, and shoulder-length copper-red curls tied up messily with a strip of blue cloth. Her build is slim and lean, with a small chest. She wears a faded blue cotton work shirt with the sleeves rolled to the elbow, a brown canvas waistcoat, dark canvas trousers with a rope belt, and a red kerchief knotted at her throat. Her left hand rests on the barge's wooden cabin roof, and a thin pale old scar runs across the back of that hand. Behind her, out of focus, pots of red geraniums line the cabin roof and a stone wharf heaped with coal stands under a clear morning sky. Soft golden morning light from the side, gentle shadows. Shot on an 85mm lens at eye level, shallow depth of field, her face sharp and the background softly blurred, natural warm colour, relaxed candid expression looking slightly off camera.",
+  createdAt: "2026-10-04T13:13:54.484Z",
+  updatedAt: "2026-10-04T13:13:55.000Z",
 } as const satisfies Image

@@ -9,4 +9,6 @@ export const image5cc99b10cf8eb585 = {
   poseTags: ["pose-tag/floating"],
   wardrobeTags: ["wardrobe-tag/jewelry"],
   fantasyTags: ["fantasy-tag/glowing"],
+  createdAt: "2026-09-21T21:51:38.406Z",
+  updatedAt: "2026-09-27T15:50:48.000Z",
 } as const satisfies Image

@@ -16,4 +16,6 @@ export const image5946674793163991 = {
   height: 1216,
   prompt:
     "Fantasy film still, photorealistic, of a 22-year-old adult woman, a cat-folk fantasy creature: in place of human ears she has pointed furry cat ears that are part of her body, the fur at their base growing from her scalp among the roots of her hair, ears swiveling and expressive, and a long living cat tail that curls and sways, ginger ears and tail, very petite slim build, flat chest, A-cup, toned flat stomach, fresh youthful grown woman's face, freckled fair skin, short ginger pixie cut, green eyes, wearing a white crop top and white cotton panties, on her knees on a bed batting at a dangling feather toy, tail lashing, bright delighted grin, airy morning light, 50mm lens",
+  createdAt: "2026-10-05T19:10:08.313Z",
+  updatedAt: "2026-10-05T19:10:37.000Z",
 } as const satisfies Image

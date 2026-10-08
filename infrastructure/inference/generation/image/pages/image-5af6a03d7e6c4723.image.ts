@@ -16,4 +16,6 @@ export const image5af6a03d7e6c4723 = {
   height: 832,
   prompt:
     "A 22-year-old adult woman with a mature adult face, deep brown skin, short natural coils, athletic toned build, sitting on the grass beside a bed of orange marigolds in a secluded empty corner of a park, knees drawn up, an unbuttoned white linen shirt falling open off her shoulders and nothing else, head tipped back laughing, eyes crinkled, not looking at the camera, low angle from the grass, warm golden-hour backlight, completely alone, no other people anywhere, empty background of trees and hedges, photorealistic, natural skin detail, 35mm",
+  createdAt: "2026-09-28T21:01:57.669Z",
+  updatedAt: "2026-09-28T21:02:19.000Z",
 } as const satisfies Image

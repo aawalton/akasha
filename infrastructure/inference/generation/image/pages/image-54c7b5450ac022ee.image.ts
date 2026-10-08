@@ -8,4 +8,6 @@ export const image54c7b5450ac022ee = {
   relationshipLevel: "closeness-level/level-4",
   settingTags: ["setting-tag/car", "setting-tag/indoor"],
   poseTags: ["pose-tag/top-down-view"],
+  createdAt: "2026-09-24T20:40:36.853Z",
+  updatedAt: "2026-09-27T15:49:04.000Z",
 } as const satisfies Image

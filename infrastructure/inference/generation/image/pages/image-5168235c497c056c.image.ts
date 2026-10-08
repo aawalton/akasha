@@ -12,4 +12,6 @@ export const image5168235c497c056c = {
     "fantasy-tag/monster-girl",
     "fantasy-tag/glowing-eyes",
   ],
+  createdAt: "2026-09-21T21:51:38.406Z",
+  updatedAt: "2026-09-27T15:50:48.000Z",
 } as const satisfies Image

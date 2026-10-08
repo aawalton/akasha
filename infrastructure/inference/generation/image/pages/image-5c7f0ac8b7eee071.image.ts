@@ -17,4 +17,6 @@ export const image5c7f0ac8b7eee071 = {
   ],
   prompt:
     "Fantasy photorealistic candid photograph, nobody looks at the camera. Keep the place from the first image, the timber guild hall, at the long registration desk with its open ledgers, inkpots and brass stamping press. Behind the desk sits a thin young East Asian man clerk with ink on his cuffs and three ledgers open, writing without looking up, bored. In front of the desk the pink-haired woman from the second image stands upright, chin raised, both hands holding her satchel strap, speaking clearly and bravely, a small determined set to her mouth, cheeks faintly pink. A short line of adventurers waits behind her. A small V-line face, big rose-pink doe eyes, glossy pink lips, pale porcelain skin, short rose-pink layered bob with side-swept bangs and a pink-and-white flower clip; slim build, small chest; cropped cream halter top laced up the front, short sage-green skirt, brown belt with pouches, fingerless leather gloves, tall brown boots, a small leather satchel across her chest. Warm late-morning sunbeams through dusty air. Medium two-shot from the side of the desk, 50mm lens, both faces clear, nothing lettered.",
+  createdAt: "2026-10-04T10:41:49.946Z",
+  updatedAt: "2026-10-04T10:41:50.000Z",
 } as const satisfies Image

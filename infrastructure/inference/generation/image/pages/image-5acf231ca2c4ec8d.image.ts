@@ -16,4 +16,6 @@ export const image5acf231ca2c4ec8d = {
   ],
   prompt:
     "Keep this exact woman: same face, eyes, brows, smile, skin and hair. Change the scene around her. Fantasy photorealistic. She is a tall, slim, long-limbed woman of twenty-two with lean strong arms, fair wind-flushed skin, sharp grey eyes, straight dark brows and a wide grin, her dark brown hair in a short ponytail under a navy wool headband. She wears a sleeveless navy club fleece zipped to the throat, bare lean arms, and black leggings. She stands upright in the stern of a small open motor launch idling on a grey, flat, very still lake, feet planted wide, one hand raising a white and blue megaphone to her mouth, the other hand on her hip, her head turned to her left as she bawls across the water toward rowing boats out of frame, mouth open mid-shout, eyes bright and fierce and cheerful. A thick white layer of mist lies on the water all around her, the far shore lost in it, and dark green fells float above the mist like islands. Cold, pale early morning light at seven o clock, soft and diffuse, breath faintly white. Camera: medium full shot from a low angle near the water, 50mm lens, she fills most of the frame, shallow depth of field with the mist and fells softly blurred behind her.",
+  createdAt: "2026-10-02T21:57:34.458Z",
+  updatedAt: "2026-10-02T21:57:35.000Z",
 } as const satisfies Image

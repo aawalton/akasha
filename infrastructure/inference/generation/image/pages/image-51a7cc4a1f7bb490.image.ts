@@ -5,4 +5,6 @@ export const image51a7cc4a1f7bb490 = {
   type: "page-type/image",
   slug: "image-51a7cc4a1f7bb490",
   title: "Otherwhere turn 1 — Nala changed, qwen edit from her cover, with tights",
+  createdAt: "2026-09-28T18:10:08.976Z",
+  updatedAt: "2026-09-28T18:10:14.000Z",
 } as const satisfies Image

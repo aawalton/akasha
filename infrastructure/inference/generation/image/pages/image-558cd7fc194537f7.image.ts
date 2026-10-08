@@ -17,4 +17,6 @@ export const image558cd7fc194537f7 = {
   ],
   prompt:
     "Fantasy photorealistic candid photograph, nobody looks at the camera. Keep the place from the first image, inside the Hall of Naming beside the silver circle in the marble floor. A grey-haired East Asian priestess in her sixties with kind lines round her eyes, in plain grey robes, stands clutching a paper roll in both shaking hands, staring warily at the young woman before her. The pink-haired woman from the second image has stepped out of the circle toward her, stopping at a polite distance, one gloved hand lifted gently, palm open, her face soft and earnest and kind as she speaks to calm her. A small V-line face, big rose-pink doe eyes, glossy pink lips, pale porcelain skin, short rose-pink layered bob with side-swept bangs and a pink-and-white flower clip; slim build, small chest; cropped cream halter top laced up the front, short sage-green skirt, brown belt with pouches, fingerless leather gloves, tall brown boots, a small leather satchel across her chest. Soft cool daylight from the dome. Medium two-shot from over the priestess's shoulder so the pink-haired woman's face reads, 50mm lens, shallow depth of field.",
+  createdAt: "2026-10-04T10:27:32.458Z",
+  updatedAt: "2026-10-04T10:27:33.000Z",
 } as const satisfies Image

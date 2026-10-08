@@ -11,4 +11,6 @@ export const image5303e0fc6d30318d = {
   wardrobeTags: ["wardrobe-tag/nude"],
   ethnicityTags: ["ethnicity-tag/white", "ethnicity-tag/asian"],
   ageTags: ["age-tag/age-18-24", "age-tag/age-35-44"],
+  createdAt: "2026-09-21T21:51:43.893Z",
+  updatedAt: "2026-09-27T15:52:40.000Z",
 } as const satisfies Image

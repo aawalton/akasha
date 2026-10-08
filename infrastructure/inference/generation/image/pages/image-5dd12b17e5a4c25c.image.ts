@@ -16,4 +16,6 @@ export const image5dd12b17e5a4c25c = {
   fantasyTags: ["fantasy-tag/cyberpunk", "fantasy-tag/sci-fi", "fantasy-tag/android"],
   ethnicityTags: ["ethnicity-tag/asian"],
   ageTags: ["age-tag/age-25-34"],
+  createdAt: "2026-09-21T21:51:22.756Z",
+  updatedAt: "2026-09-27T15:52:40.000Z",
 } as const satisfies Image

@@ -17,4 +17,6 @@ export const image513a9c4b4cc898fa = {
   ],
   prompt:
     "Fantasy photorealistic candid photograph, she does not look at the camera. Keep the place from the first image, the canal with its strings of paper lanterns, now at night: Thimble Canal, the lanterns glowing amber and rose over black water lapping at the stones, a cat watching from a lit windowsill. The pink-haired woman from the second image walks home alone along the quay under the lanterns, unhurried, head a little tilted, humming to herself with a soft absent smile, one hand resting on the satchel at her hip. The pink-haired woman: a gorgeous slim young Korean woman of about twenty, small V-line face, big rose-pink doe eyes, glossy pink lips, pale porcelain skin, short rose-pink layered bob with side-swept bangs and a pink-and-white flower clip; slim build, small chest; cropped cream halter top laced up the front, short sage-green skirt, brown belt with pouches, fingerless leather gloves, tall boots, a small leather satchel across her chest. Warm still evening, lantern light on her face, reflections in the water. Medium-wide shot from the quay ahead of her, 35mm lens, her face clear.",
+  createdAt: "2026-10-04T12:43:41.583Z",
+  updatedAt: "2026-10-04T12:43:42.000Z",
 } as const satisfies Image

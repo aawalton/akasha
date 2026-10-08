@@ -17,4 +17,6 @@ export const image559ea7abe422cadd = {
   ],
   prompt:
     "Fantasy photorealistic candid photograph, nobody looks at the camera. Keep the place from the first image, the canal city of Lanternmere, now on the cobbled quay where the canal opens onto the wide lake, in early morning, the lanterns unlit, the lake misted white from shore to shore, small boats moored along the stone wall. The pink-haired woman from the second image walks briskly along the quay toward the camera at a slight angle, licking honey off her fingertips after a bun, a small leather satchel across her chest, looking ahead with an eager, nervous, hopeful face, mist beading on her arms. A small V-line face, big rose-pink doe eyes, glossy pink lips, pale porcelain skin, short rose-pink layered bob with side-swept bangs and a pink-and-white flower clip; slim build, small chest; cropped cream halter top laced up the front, short sage-green skirt, brown belt with pouches, fingerless leather gloves, tall brown boots. Soft pearly white morning mist light. Full-length medium shot, 35mm lens, her face clear, the misted lake behind her.",
+  createdAt: "2026-10-04T09:55:33.693Z",
+  updatedAt: "2026-10-04T09:55:34.000Z",
 } as const satisfies Image

@@ -12,4 +12,6 @@ export const image61c2060f2443c04f = {
   fantasyTags: ["fantasy-tag/cosplay", "fantasy-tag/weapons", "fantasy-tag/glowing-eyes"],
   ethnicityTags: ["ethnicity-tag/asian"],
   ageTags: ["age-tag/age-18-24"],
+  createdAt: "2026-09-21T21:52:02.383Z",
+  updatedAt: "2026-09-27T15:59:30.000Z",
 } as const satisfies Image

@@ -22,4 +22,6 @@ export const image5884452d20d83fd9 = {
   fantasyTags: ["fantasy-tag/cosmic"],
   ethnicityTags: ["ethnicity-tag/asian"],
   ageTags: ["age-tag/age-25-34"],
+  createdAt: "2026-06-30T11:10:36.691Z",
+  updatedAt: "2026-09-27T15:52:40.000Z",
 } as const satisfies Image

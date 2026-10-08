@@ -19,4 +19,6 @@ export const image56669502519afc8f = {
   ],
   prompt:
     "She is an adult woman. Keep her exact face, hair, eyes and every distinctive feature, including any horns, ears, markings or non-human traits. Keep her head exactly as in the reference and add no horns or features she does not have. Just out of a swim, she sits on a flat sun-warmed stone at the edge of a park pond, seen three-quarter from behind, wringing the water out of her long wet hair drawn over one shoulder, looking off across the water. Her black swimsuit is peeled down to her waist, her bare wet back glistening to the camera, her arms and the angle hiding her chest; water droplets on her skin, a small shell pendant at her neck. Camera behind and to the side at seated height, bright late-morning sun sparkling on the pond, reeds and lily pads nearby. No other people. Photorealistic, natural skin detail.",
+  createdAt: "2026-09-28T19:31:43.035Z",
+  updatedAt: "2026-09-28T19:32:15.000Z",
 } as const satisfies Image

@@ -17,4 +17,6 @@ export const image520daf39877f1804 = {
   ],
   prompt:
     "Fantasy photorealistic, candid photograph, nobody looks at the camera. Keep the place from the first image, the canal city on the lake, and put this moment on the low stone wall at the lake's edge. The pink-haired woman from the second image sits alone on the wall crying quietly, her shoulders drawn up, wiping her wet eyes with the back of one gloved hand, her other hand holding the satchel in her lap. Her eyes are red-rimmed and shining with tears, her lips trembling, her head bowed a little, and she looks down at the water rather than at anything. Her boots hang over the lake. She wears a cropped cream halter top laced up the front, a short sage-green skirt, a brown leather belt with small pouches, fingerless brown leather gloves, tall brown leather boots, and a small pink-and-white flower clip above her left ear in her rose-pink hair. Late morning, the mist gone, soft clear sunlight on the wide lake and the stone, the canal lanterns unlit behind her, a gull on a post in the distance. Medium close shot from beside her on the wall, three-quarter view, 85mm lens.",
+  createdAt: "2026-10-04T13:52:22.000Z",
+  updatedAt: "2026-10-04T13:52:22.000Z",
 } as const satisfies Image

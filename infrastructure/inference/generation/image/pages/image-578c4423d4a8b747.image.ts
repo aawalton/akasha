@@ -31,4 +31,6 @@ export const image578c4423d4a8b747 = {
   fantasyTags: ["fantasy-tag/bunny-ears"],
   ethnicityTags: ["ethnicity-tag/white"],
   ageTags: ["age-tag/age-25-34"],
+  createdAt: "2026-06-27T03:48:26.333Z",
+  updatedAt: "2026-09-27T15:52:40.000Z",
 } as const satisfies Image

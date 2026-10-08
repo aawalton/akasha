@@ -16,4 +16,6 @@ export const image56a8c266284fcd2a = {
   height: 1216,
   prompt:
     "A 24-year-old adult woman, grown woman's face with defined cheekbones and jawline, adult body proportions, Portuguese with sun-bronzed olive skin, shoulder-length salt-tousled dark-blonde hair, fit slim build, sitting on the edge of a park bench in the late sun, topless, wearing a pair of rolled-up white linen trousers, one bare foot tucked under her, holding a paperback open on her knee and a pair of sunglasses in her other hand, looking up from the book toward the horizon with a thoughtful expression, three-quarter view, long warm golden-hour shadows, alone, photorealistic, natural skin detail",
+  createdAt: "2026-09-28T21:34:50.641Z",
+  updatedAt: "2026-09-28T21:35:16.000Z",
 } as const satisfies Image

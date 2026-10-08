@@ -19,4 +19,6 @@ export const image60e4c6e6ac79c3ca = {
   ],
   prompt:
     "She is an adult woman. Keep her exact face, hair, eyes and every distinctive feature, including any horns, ears, markings or non-human traits. Keep her head exactly as in the reference and add nothing she does not have. Finally off the clock, she lies stretched out on her back on a navy striped beach towel in a park, one forearm draped over her eyes against the sun and the other arm resting across her chest, covering it. She wears only a red bikini bottom and gold bangles on her wrist. Her phone lies face-down on the grass beside her next to a sweating iced coffee, and her shoes are kicked off. Side profile camera at hip height, bright hazy midday sun, flower beds blurred behind. No other people. Photorealistic, natural skin detail.",
+  createdAt: "2026-09-28T19:07:32.000Z",
+  updatedAt: "2026-09-28T19:20:34.000Z",
 } as const satisfies Image

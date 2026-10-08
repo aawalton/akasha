@@ -14,4 +14,6 @@ export const image62160a789550d36f = {
   height: 1216,
   prompt:
     "Fantasy photorealistic. The east gate of a fantasy canal city, empty, with nobody in it. A high old stone city wall of warm honey-coloured stone crosses the frame. Through it a broad dirt road runs out under a tall pointed stone arch, its two great heavy oak gates standing wide open, iron-banded. Beside the road, at the foot of the same wall, a canal runs out under a separate low round arch, the green water sliding smoothly out of the city and away into the countryside. Just beside the great gates stands a small wooden booth with a little open window and a narrow sill, a painted wooden guild sign hanging over the window, and an oil lamp already lit and glowing warm inside. Through the open arch the road leads out toward gold evening meadows and a soft hazy horizon. Cobbles worn smooth, ivy in the cracks of the wall, swallows over the parapet. Early summer evening, low golden sunlight raking across the stone, long soft shadows, a warm amber sky. Wide establishing shot from inside the city looking out at the gate, 28mm lens, eye level, deep depth of field, the arch, the canal arch and the booth all sharp, natural colours, cinematic realism, no people, no lettering.",
+  createdAt: "2026-10-04T09:00:02.000Z",
+  updatedAt: "2026-10-04T09:00:02.000Z",
 } as const satisfies Image

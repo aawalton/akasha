@@ -28,4 +28,6 @@ export const image5f59915e11e97f07 = {
   wardrobeTags: ["wardrobe-tag/jeans", "wardrobe-tag/shirt", "wardrobe-tag/long-sleeves"],
   ethnicityTags: ["ethnicity-tag/white"],
   ageTags: ["age-tag/age-25-34"],
+  createdAt: "2026-09-21T21:51:38.407Z",
+  updatedAt: "2026-09-27T15:52:40.000Z",
 } as const satisfies Image

@@ -17,4 +17,6 @@ export const image5ed5f87574c2f5a0 = {
   ],
   prompt:
     "Fantasy photorealistic candid photograph, nobody looks at the camera. Keep the place from the first image, inside the Hall of Naming under the glass dome. In the silver circle on the marble floor stands a tall young East Asian woman of twenty, very straight-backed, and above her head floats a glowing pane of soft golden light in the air with a single shining crossed-swords glyph on it, no words. In the foreground on a wooden bench by the wall, the pink-haired woman from the second image sits watching the glowing window, lips parted in wonder, her hands clasped tight in her lap, eyes shining, delighted for the stranger and nervous for herself. A small V-line face, big rose-pink doe eyes, glossy pink lips, pale porcelain skin, short rose-pink layered bob with side-swept bangs and a pink-and-white flower clip; slim build, small chest; cropped cream halter top laced up the front, short sage-green skirt, brown belt with pouches, fingerless leather gloves, tall brown boots, small leather satchel across her chest. Pale morning light from the dome and the warm glow of the window. Over-the-shoulder shot from behind her bench, her face in three-quarter view, 35mm lens, nothing lettered.",
+  createdAt: "2026-10-04T10:01:36.805Z",
+  updatedAt: "2026-10-04T10:01:37.000Z",
 } as const satisfies Image

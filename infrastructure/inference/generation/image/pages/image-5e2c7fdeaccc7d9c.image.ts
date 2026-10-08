@@ -16,4 +16,6 @@ export const image5e2c7fdeaccc7d9c = {
   height: 1216,
   prompt:
     "A 24-year-old adult woman, grown woman's face with defined cheekbones and jawline, adult body proportions, Middle Eastern with olive skin, thick dark wavy hair, strong brows, athletic build, standing barefoot on the grass stretching her arms high overhead in a yoga pose beside a picnic blanket, topless, wearing only loose white linen drawstring trousers, face tipped up toward the sun with eyes closed, low angle from the grass, bright late-morning sun, tall poplars behind her, alone, photorealistic, natural skin detail",
+  createdAt: "2026-09-28T21:13:22.857Z",
+  updatedAt: "2026-09-28T21:13:44.000Z",
 } as const satisfies Image

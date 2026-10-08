@@ -12,4 +12,6 @@ export const image5313621c992825a2 = {
   ethnicityTags: ["ethnicity-tag/south-asian"],
   ageTags: ["age-tag/age-25-34"],
   persona: "persona/zadi",
+  createdAt: "2026-06-30T11:10:07.688Z",
+  updatedAt: "2026-09-27T16:23:48.000Z",
 } as const satisfies Image

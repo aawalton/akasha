@@ -12,4 +12,6 @@ export const image511a47b19959534a = {
   fantasyTags: ["fantasy-tag/anime"],
   ethnicityTags: ["ethnicity-tag/asian"],
   ageTags: ["age-tag/age-18-24"],
+  createdAt: "2026-06-30T11:10:11.911Z",
+  updatedAt: "2026-09-27T15:59:30.000Z",
 } as const satisfies Image
