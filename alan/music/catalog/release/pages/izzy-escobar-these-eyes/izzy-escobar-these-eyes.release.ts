@@ -21,4 +21,6 @@ export const izzyEscobarTheseEyes = {
       lastSyncedAt: "2025-11-15",
     },
   ],
+  createdAt: "2026-09-03T13:17:30.286Z",
+  updatedAt: "2026-09-21T19:44:25.000Z",
 } as const satisfies Release

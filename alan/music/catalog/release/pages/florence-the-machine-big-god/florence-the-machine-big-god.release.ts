@@ -19,4 +19,6 @@ export const florenceTheMachineBigGod = {
       externalLink: "https://open.spotify.com/album/3GMpSP95wIod2jckN8htUS",
     },
   ],
+  createdAt: "2026-09-03T13:17:30.265Z",
+  updatedAt: "2026-09-15T16:35:36.000Z",
 } as const satisfies Release

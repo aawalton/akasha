@@ -19,4 +19,6 @@ export const elvisPresley2RecordedLiveOnStageInMemphis = {
       externalLink: "https://open.spotify.com/album/07d8ncb9ZMze3PXFhIuPxR",
     },
   ],
+  createdAt: "2026-09-03T13:17:30.279Z",
+  updatedAt: "2026-09-15T16:35:10.000Z",
 } as const satisfies Release

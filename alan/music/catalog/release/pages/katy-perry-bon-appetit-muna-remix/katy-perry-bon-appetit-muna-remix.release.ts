@@ -19,4 +19,6 @@ export const katyPerryBonAppetitMunaRemix = {
       externalLink: "https://open.spotify.com/album/60l6w74hVfqDboeNacX7RW",
     },
   ],
+  createdAt: "2026-09-03T13:17:30.265Z",
+  updatedAt: "2026-09-15T16:37:02.000Z",
 } as const satisfies Release

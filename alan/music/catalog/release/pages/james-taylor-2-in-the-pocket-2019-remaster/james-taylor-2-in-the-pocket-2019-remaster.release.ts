@@ -19,4 +19,6 @@ export const jamesTaylor2InThePocket2019Remaster = {
     },
   ],
   title: "In the Pocket (2019 Remaster)",
+  createdAt: "2026-09-03T13:17:30.273Z",
+  updatedAt: "2026-09-21T16:45:29.000Z",
 } as const satisfies Release

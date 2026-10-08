@@ -19,4 +19,6 @@ export const elvisPresley2HowGreatThouArt = {
       externalLink: "https://open.spotify.com/album/7N1t7WzloZyMj95jk6CSCt",
     },
   ],
+  createdAt: "2026-09-03T13:17:30.272Z",
+  updatedAt: "2026-09-15T16:35:10.000Z",
 } as const satisfies Release

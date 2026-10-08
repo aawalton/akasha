@@ -19,4 +19,6 @@ export const jadaFacerLastChristmas = {
       externalLink: "https://open.spotify.com/album/2mwXy3mkvpO3OklNJgTVUl",
     },
   ],
+  createdAt: "2026-09-03T13:17:30.274Z",
+  updatedAt: "2026-09-15T16:36:36.000Z",
 } as const satisfies Release

@@ -19,4 +19,6 @@ export const justinTimberlakeStayWithMeWithJustinTimberlakeHalseyPharrell = {
       externalLink: "https://open.spotify.com/album/62SWIKrov7HPXU0Jpc6LY1",
     },
   ],
+  createdAt: "2026-09-03T13:17:30.282Z",
+  updatedAt: "2026-09-15T16:37:02.000Z",
 } as const satisfies Release

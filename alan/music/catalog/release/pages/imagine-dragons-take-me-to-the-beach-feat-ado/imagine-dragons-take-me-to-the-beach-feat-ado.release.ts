@@ -19,4 +19,6 @@ export const imagineDragonsTakeMeToTheBeachFeatAdo = {
       externalLink: "https://open.spotify.com/album/42qtC6akiL6crX1i4Sf4yJ",
     },
   ],
+  createdAt: "2026-09-03T13:17:30.283Z",
+  updatedAt: "2026-09-15T16:36:07.000Z",
 } as const satisfies Release

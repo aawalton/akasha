@@ -19,4 +19,6 @@ export const japaneseBreakfastForMelancholyBrunettesSadWomen = {
       externalLink: "https://open.spotify.com/album/4qqdOkr3Ff3kN8GxoxvRES",
     },
   ],
+  createdAt: "2026-09-03T13:17:30.270Z",
+  updatedAt: "2026-09-15T16:37:02.000Z",
 } as const satisfies Release

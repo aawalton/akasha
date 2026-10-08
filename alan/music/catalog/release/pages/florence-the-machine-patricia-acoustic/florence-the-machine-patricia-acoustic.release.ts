@@ -19,4 +19,6 @@ export const florenceTheMachinePatriciaAcoustic = {
       externalLink: "https://open.spotify.com/album/2eIak7bTvFXo9O9z8sSIp0",
     },
   ],
+  createdAt: "2026-09-03T13:17:30.278Z",
+  updatedAt: "2026-09-15T16:35:36.000Z",
 } as const satisfies Release

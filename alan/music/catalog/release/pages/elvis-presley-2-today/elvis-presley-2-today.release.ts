@@ -19,4 +19,6 @@ export const elvisPresley2Today = {
       externalLink: "https://open.spotify.com/album/4si8ktuNxnWyGb0t9Pi6ND",
     },
   ],
+  createdAt: "2026-09-03T13:17:30.287Z",
+  updatedAt: "2026-09-15T16:35:10.000Z",
 } as const satisfies Release

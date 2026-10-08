@@ -19,4 +19,6 @@ export const jadaFacerWaterfalls = {
       externalLink: "https://open.spotify.com/album/3dxFh4DG4QAqyGFty7glP4",
     },
   ],
+  createdAt: "2026-09-03T13:17:30.288Z",
+  updatedAt: "2026-09-15T16:36:36.000Z",
 } as const satisfies Release

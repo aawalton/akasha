@@ -19,4 +19,6 @@ export const jadaFacerAlwaysRememberUsThisWay = {
       externalLink: "https://open.spotify.com/album/1f7YYa32O6pDWNOkUUW6Z5",
     },
   ],
+  createdAt: "2026-09-03T13:17:30.262Z",
+  updatedAt: "2026-09-15T16:36:07.000Z",
 } as const satisfies Release

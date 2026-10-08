@@ -19,4 +19,6 @@ export const elvisPresley2AmericanSound1969 = {
       externalLink: "https://open.spotify.com/album/45su93rMPo8auQWHK3JaqF",
     },
   ],
+  createdAt: "2026-09-03T13:17:30.263Z",
+  updatedAt: "2026-09-15T16:35:10.000Z",
 } as const satisfies Release

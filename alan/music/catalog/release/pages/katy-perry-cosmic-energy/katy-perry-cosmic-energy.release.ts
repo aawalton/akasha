@@ -19,4 +19,6 @@ export const katyPerryCosmicEnergy = {
       externalLink: "https://open.spotify.com/album/3MXubEDnkXIaacR9an5d9e",
     },
   ],
+  createdAt: "2026-09-03T13:17:30.267Z",
+  updatedAt: "2026-09-15T16:37:02.000Z",
 } as const satisfies Release

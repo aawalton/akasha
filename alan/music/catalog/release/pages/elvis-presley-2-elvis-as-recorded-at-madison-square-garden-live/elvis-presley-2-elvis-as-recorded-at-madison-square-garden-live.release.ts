@@ -19,4 +19,6 @@ export const elvisPresley2ElvisAsRecordedAtMadisonSquareGardenLive = {
       externalLink: "https://open.spotify.com/album/3jEgFCvP4h9ENjnoyystsy",
     },
   ],
+  createdAt: "2026-09-03T13:17:30.268Z",
+  updatedAt: "2026-09-15T16:35:10.000Z",
 } as const satisfies Release

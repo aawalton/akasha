@@ -19,4 +19,6 @@ export const elvisPresley2Live1969 = {
       externalLink: "https://open.spotify.com/album/3s7da3LPVn5N1yobOcAen0",
     },
   ],
+  createdAt: "2026-09-03T13:17:30.275Z",
+  updatedAt: "2026-09-15T16:35:10.000Z",
 } as const satisfies Release

@@ -19,4 +19,6 @@ export const katyPerryFirework = {
       externalLink: "https://open.spotify.com/album/2oKE3HhxPaI0EsUBajZHJg",
     },
   ],
+  createdAt: "2026-09-03T13:17:30.270Z",
+  updatedAt: "2026-09-15T16:37:02.000Z",
 } as const satisfies Release

@@ -20,4 +20,6 @@ export const jennaRaineItIsWhatItIsVersions = {
     },
   ],
   title: "It Is What It Is (Versions)",
+  createdAt: "2026-09-03T13:17:30.274Z",
+  updatedAt: "2026-09-21T23:00:38.000Z",
 } as const satisfies Release

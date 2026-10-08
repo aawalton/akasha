@@ -19,4 +19,6 @@ export const katyPerryDaisiesAcoustic = {
       externalLink: "https://open.spotify.com/album/6RY76U2nPOnRdR2aZ95KIK",
     },
   ],
+  createdAt: "2026-09-03T13:17:30.267Z",
+  updatedAt: "2026-09-15T16:37:02.000Z",
 } as const satisfies Release

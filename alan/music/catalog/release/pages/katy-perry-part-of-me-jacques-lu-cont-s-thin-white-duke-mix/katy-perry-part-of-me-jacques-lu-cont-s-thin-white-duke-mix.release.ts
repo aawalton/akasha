@@ -19,4 +19,6 @@ export const katyPerryPartOfMeJacquesLuContSThinWhiteDukeMix = {
       externalLink: "https://open.spotify.com/album/6FvQt4cl6CptRn1U0R2j8b",
     },
   ],
+  createdAt: "2026-09-03T13:17:30.278Z",
+  updatedAt: "2026-09-15T16:37:02.000Z",
 } as const satisfies Release

@@ -20,4 +20,6 @@ export const jennaRaineWhatWouldISay = {
     },
   ],
   title: "What Would I Say?",
+  createdAt: "2026-09-21T22:40:52.823Z",
+  updatedAt: "2026-09-21T23:00:38.000Z",
 } as const satisfies Release

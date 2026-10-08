@@ -19,4 +19,6 @@ export const florenceTheMachineWhatKindOfManLiveFromDermotOlearysSaturdaySession
     },
   ],
   title: "What Kind Of Man (Live From Dermot O’Leary’s Saturday Sessions / 2016)",
+  createdAt: "2026-09-15T16:01:28.370Z",
+  updatedAt: "2026-09-15T16:35:36.000Z",
 } as const satisfies Release

@@ -20,4 +20,6 @@ export const imagineDragonsEnemyWithJidOpeningTitleVersionFromTheSeriesArcaneLea
       externalLink: "https://open.spotify.com/album/7a2pDeID0v3YtKQ1PVLZvt",
     },
   ],
+  createdAt: "2026-09-03T13:17:30.269Z",
+  updatedAt: "2026-09-21T19:44:25.000Z",
 } as const satisfies Release

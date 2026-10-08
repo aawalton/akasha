@@ -19,4 +19,6 @@ export const japaneseBreakfastLiveAtElectricLady = {
       externalLink: "https://open.spotify.com/album/6v1WdsONXHBh8sCWCQWYUJ",
     },
   ],
+  createdAt: "2026-09-03T13:17:30.275Z",
+  updatedAt: "2026-09-15T16:37:02.000Z",
 } as const satisfies Release

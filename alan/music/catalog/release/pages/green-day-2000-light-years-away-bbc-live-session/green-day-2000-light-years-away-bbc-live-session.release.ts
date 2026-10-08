@@ -21,4 +21,6 @@ export const greenDay2000LightYearsAwayBbcLiveSession = {
       lastSyncedAt: "2025-10-04",
     },
   ],
+  createdAt: "2026-09-03T13:17:30.260Z",
+  updatedAt: "2026-09-21T19:44:25.000Z",
 } as const satisfies Release

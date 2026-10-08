@@ -20,4 +20,6 @@ export const izzyEscobarHereYouComeAgainFromThePrimeOriginalSeriesEveryYearAfter
     },
   ],
   title: "Here You Come Again (From the Prime Original Series Every Year After)",
+  createdAt: "2026-09-15T16:02:25.186Z",
+  updatedAt: "2026-09-15T16:36:07.000Z",
 } as const satisfies Release

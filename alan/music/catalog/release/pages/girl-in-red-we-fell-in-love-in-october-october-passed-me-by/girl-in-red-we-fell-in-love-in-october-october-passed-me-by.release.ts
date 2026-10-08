@@ -19,4 +19,6 @@ export const girlInRedWeFellInLoveInOctoberOctoberPassedMeBy = {
       externalLink: "https://open.spotify.com/album/7vud0sY43VTv28MbWiglDa",
     },
   ],
+  createdAt: "2026-09-03T13:17:30.288Z",
+  updatedAt: "2026-09-15T16:36:07.000Z",
 } as const satisfies Release

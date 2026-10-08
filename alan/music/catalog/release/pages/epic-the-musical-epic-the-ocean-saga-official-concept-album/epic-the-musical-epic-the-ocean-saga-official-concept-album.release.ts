@@ -19,4 +19,6 @@ export const epicTheMusicalEpicTheOceanSagaOfficialConceptAlbum = {
       externalLink: "https://open.spotify.com/album/6q6FBKPiH2waQezdzpxhuz",
     },
   ],
+  createdAt: "2026-09-03T13:17:30.269Z",
+  updatedAt: "2026-09-15T16:35:36.000Z",
 } as const satisfies Release

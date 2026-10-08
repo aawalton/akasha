@@ -20,4 +20,6 @@ export const gracieAbramsDaughterFromHell = {
     },
   ],
   title: "Daughter from Hell",
+  createdAt: "2026-09-14T20:25:23.171Z",
+  updatedAt: "2026-09-15T16:36:07.000Z",
 } as const satisfies Release

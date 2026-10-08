@@ -19,4 +19,6 @@ export const jadaFacer7MinutesInHeaven = {
       externalLink: "https://open.spotify.com/album/1gvkpT3gFSIx81e1xEElgD",
     },
   ],
+  createdAt: "2026-09-03T13:17:30.261Z",
+  updatedAt: "2026-09-15T16:36:07.000Z",
 } as const satisfies Release

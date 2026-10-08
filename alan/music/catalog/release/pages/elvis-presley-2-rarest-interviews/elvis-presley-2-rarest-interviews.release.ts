@@ -19,4 +19,6 @@ export const elvisPresley2RarestInterviews = {
       externalLink: "https://open.spotify.com/album/4ktodEbLViD57MvJ1a93cE",
     },
   ],
+  createdAt: "2026-09-03T13:17:30.279Z",
+  updatedAt: "2026-09-15T16:35:10.000Z",
 } as const satisfies Release

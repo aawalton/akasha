@@ -19,4 +19,6 @@ export const japaneseBreakfastPsychopomp = {
       externalLink: "https://open.spotify.com/album/3CeBfyjSIfbWyf0RTNbq1G",
     },
   ],
+  createdAt: "2026-09-03T13:17:30.279Z",
+  updatedAt: "2026-09-15T16:37:02.000Z",
 } as const satisfies Release

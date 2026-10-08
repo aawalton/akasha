@@ -20,4 +20,6 @@ export const emeiTalkTalkTalk = {
     },
   ],
   title: "Talk Talk Talk",
+  createdAt: "2026-09-21T13:53:41.914Z",
+  updatedAt: "2026-09-21T16:45:29.000Z",
 } as const satisfies Release

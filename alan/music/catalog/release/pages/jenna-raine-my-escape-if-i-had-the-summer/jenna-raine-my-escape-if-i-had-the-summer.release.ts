@@ -20,4 +20,6 @@ export const jennaRaineMyEscapeIfIHadTheSummer = {
     },
   ],
   title: "My Escape / If I Had the Summer",
+  createdAt: "2026-09-03T13:17:30.277Z",
+  updatedAt: "2026-09-21T23:00:38.000Z",
 } as const satisfies Release

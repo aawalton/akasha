@@ -19,4 +19,6 @@ export const katyPerryResilientFtAitanaTiestoRemix = {
       externalLink: "https://open.spotify.com/album/7hmFzviCSViV9Y9VJvlfYB",
     },
   ],
+  createdAt: "2026-09-03T13:17:30.279Z",
+  updatedAt: "2026-09-15T16:37:02.000Z",
 } as const satisfies Release

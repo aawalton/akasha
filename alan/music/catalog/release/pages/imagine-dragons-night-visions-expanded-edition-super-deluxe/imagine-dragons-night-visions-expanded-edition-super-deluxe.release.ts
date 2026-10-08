@@ -19,4 +19,6 @@ export const imagineDragonsNightVisionsExpandedEditionSuperDeluxe = {
       externalLink: "https://open.spotify.com/album/0LLA5YL3g2UReWlP7nWqGh",
     },
   ],
+  createdAt: "2026-09-03T13:17:30.277Z",
+  updatedAt: "2026-09-24T23:00:58.000Z",
 } as const satisfies Release

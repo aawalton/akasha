@@ -19,4 +19,6 @@ export const harryStyles2HarryStyles = {
       externalLink: "https://open.spotify.com/album/1FZKIm3JVDCxTchXDo5jOV",
     },
   ],
+  createdAt: "2026-09-03T13:17:30.271Z",
+  updatedAt: "2026-09-15T16:36:07.000Z",
 } as const satisfies Release

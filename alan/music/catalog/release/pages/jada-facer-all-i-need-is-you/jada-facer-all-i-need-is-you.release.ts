@@ -19,4 +19,6 @@ export const jadaFacerAllINeedIsYou = {
       externalLink: "https://open.spotify.com/album/6i0Z4wpMYbxQUCmLDvCKLe",
     },
   ],
+  createdAt: "2026-09-03T13:17:30.262Z",
+  updatedAt: "2026-09-15T16:36:07.000Z",
 } as const satisfies Release

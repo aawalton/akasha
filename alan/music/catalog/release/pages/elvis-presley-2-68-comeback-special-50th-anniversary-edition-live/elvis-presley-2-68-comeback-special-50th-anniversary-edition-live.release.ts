@@ -19,4 +19,6 @@ export const elvisPresley268ComebackSpecial50thAnniversaryEditionLive = {
       externalLink: "https://open.spotify.com/album/62CwfDeiM9t81FaFHebuUm",
     },
   ],
+  createdAt: "2026-09-03T13:17:30.261Z",
+  updatedAt: "2026-09-15T16:35:10.000Z",
 } as const satisfies Release

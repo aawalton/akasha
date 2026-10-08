@@ -19,4 +19,6 @@ export const elvisPresley2BackInMemphis = {
       externalLink: "https://open.spotify.com/album/7j8nXZAzFktPwQOHqLGSKm",
     },
   ],
+  createdAt: "2026-09-03T13:17:30.263Z",
+  updatedAt: "2026-09-15T16:35:10.000Z",
 } as const satisfies Release

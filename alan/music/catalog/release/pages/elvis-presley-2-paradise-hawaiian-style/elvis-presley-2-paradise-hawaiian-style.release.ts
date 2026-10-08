@@ -19,4 +19,6 @@ export const elvisPresley2ParadiseHawaiianStyle = {
       externalLink: "https://open.spotify.com/album/4n4oa8ac6Wyy5zE8iv42Nc",
     },
   ],
+  createdAt: "2026-09-03T13:17:30.278Z",
+  updatedAt: "2026-09-15T16:35:10.000Z",
 } as const satisfies Release

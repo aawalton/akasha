@@ -21,4 +21,6 @@ export const emBeiholdCityOfAngelsNeanderthalRemix = {
     },
   ],
   title: "City of Angels (Neanderthal Remix)",
+  createdAt: "2026-09-03T13:17:30.266Z",
+  updatedAt: "2026-09-24T14:01:01.000Z",
 } as const satisfies Release

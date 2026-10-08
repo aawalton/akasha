@@ -19,4 +19,6 @@ export const elvisPresley2WalkAMileInMyShoesTheEssential70sMasters = {
       externalLink: "https://open.spotify.com/album/5mzwE7oF97fP2vxdtgf6HH",
     },
   ],
+  createdAt: "2026-09-03T13:17:30.288Z",
+  updatedAt: "2026-09-15T16:35:10.000Z",
 } as const satisfies Release

@@ -19,4 +19,6 @@ export const elvisPresley2ElvisGoldenRecords = {
       externalLink: "https://open.spotify.com/album/0C3t1htEDTFKcg7F2rNbek",
     },
   ],
+  createdAt: "2026-09-03T13:17:30.268Z",
+  updatedAt: "2026-09-15T16:35:10.000Z",
 } as const satisfies Release

@@ -19,4 +19,6 @@ export const japaneseBreakfastJapaneseBreakfastOnAudiotreeLive = {
       externalLink: "https://open.spotify.com/album/04Gdmj42ybAsx9AJ2Bbk56",
     },
   ],
+  createdAt: "2026-09-03T13:17:30.274Z",
+  updatedAt: "2026-09-15T16:37:02.000Z",
 } as const satisfies Release

@@ -19,4 +19,6 @@ export const epicTheMusicalEpicTheCyclopsSagaOfficialConceptAlbum = {
       externalLink: "https://open.spotify.com/album/2W4RO0PnljszZbktVgqoIv",
     },
   ],
+  createdAt: "2026-09-03T13:17:30.269Z",
+  updatedAt: "2026-09-15T16:35:36.000Z",
 } as const satisfies Release

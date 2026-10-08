@@ -19,4 +19,6 @@ export const elvisPresley2RoustaboutOriginalSoundtrack = {
       externalLink: "https://open.spotify.com/album/4B6QlvxYaXW4nBNN2OChXI",
     },
   ],
+  createdAt: "2026-09-03T13:17:30.280Z",
+  updatedAt: "2026-09-15T16:35:10.000Z",
 } as const satisfies Release

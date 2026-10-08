@@ -19,4 +19,6 @@ export const imagineDragonsEnemyWithJidFromTheSeriesArcaneLeagueOfLegends = {
     },
   ],
   title: "Enemy (with JID) [from the series Arcane League of Legends]",
+  createdAt: "2026-09-03T13:17:30.269Z",
+  updatedAt: "2026-09-21T16:45:29.000Z",
 } as const satisfies Release

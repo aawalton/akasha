@@ -19,4 +19,6 @@ export const katyPerryHotNCold2 = {
       externalLink: "https://open.spotify.com/album/4HR0CUur5ucPjpyOYdNJY1",
     },
   ],
+  createdAt: "2026-09-03T13:17:30.272Z",
+  updatedAt: "2026-09-15T16:37:02.000Z",
 } as const satisfies Release

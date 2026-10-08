@@ -19,4 +19,6 @@ export const elvisPresley2ThatSTheWayItIsDeluxeEdition = {
       externalLink: "https://open.spotify.com/album/2J7LSpd6suKj8qd9MkjuGK",
     },
   ],
+  createdAt: "2026-09-03T13:17:30.284Z",
+  updatedAt: "2026-09-15T16:35:10.000Z",
 } as const satisfies Release

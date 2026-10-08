@@ -19,4 +19,6 @@ export const justinTimberlakeSoulmate = {
       externalLink: "https://open.spotify.com/album/2FljC0wx1bLyT6GW3FDQFX",
     },
   ],
+  createdAt: "2026-09-03T13:17:30.281Z",
+  updatedAt: "2026-09-15T16:37:02.000Z",
 } as const satisfies Release

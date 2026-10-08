@@ -19,4 +19,6 @@ export const elvisPresley2Speedway = {
       externalLink: "https://open.spotify.com/album/27rnGQx6avdqjPq8gtKs7D",
     },
   ],
+  createdAt: "2026-09-03T13:17:30.281Z",
+  updatedAt: "2026-09-15T16:35:10.000Z",
 } as const satisfies Release

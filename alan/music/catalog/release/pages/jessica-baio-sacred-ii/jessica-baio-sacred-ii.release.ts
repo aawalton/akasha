@@ -20,4 +20,6 @@ export const jessicaBaioSacredIi = {
     },
   ],
   title: "SACRED II",
+  createdAt: "2026-09-21T22:41:55.792Z",
+  updatedAt: "2026-09-21T23:00:38.000Z",
 } as const satisfies Release

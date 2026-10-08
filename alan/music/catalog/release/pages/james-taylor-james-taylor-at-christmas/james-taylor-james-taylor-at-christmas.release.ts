@@ -20,4 +20,6 @@ export const jamesTaylorJamesTaylorAtChristmas = {
     },
   ],
   title: "James Taylor At Christmas",
+  createdAt: "2026-09-16T20:31:51.314Z",
+  updatedAt: "2026-09-21T16:45:29.000Z",
 } as const satisfies Release

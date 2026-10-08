@@ -19,4 +19,6 @@ export const jadaFacerHallelujahAcoustic = {
       externalLink: "https://open.spotify.com/album/620sEzmHRuOfXiY2HhRZyN",
     },
   ],
+  createdAt: "2026-09-03T13:17:30.271Z",
+  updatedAt: "2026-09-15T16:36:36.000Z",
 } as const satisfies Release

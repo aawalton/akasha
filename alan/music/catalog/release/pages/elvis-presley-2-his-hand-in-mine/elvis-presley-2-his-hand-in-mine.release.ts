@@ -19,4 +19,6 @@ export const elvisPresley2HisHandInMine = {
       externalLink: "https://open.spotify.com/album/0OflUemnHFws5bKzEbBVV3",
     },
   ],
+  createdAt: "2026-09-03T13:17:30.272Z",
+  updatedAt: "2026-09-15T16:35:10.000Z",
 } as const satisfies Release

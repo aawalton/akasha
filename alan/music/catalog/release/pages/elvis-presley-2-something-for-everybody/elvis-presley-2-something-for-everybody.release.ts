@@ -19,4 +19,6 @@ export const elvisPresley2SomethingForEverybody = {
       externalLink: "https://open.spotify.com/album/2gsQtdVoSpl5cD4rcRDi3y",
     },
   ],
+  createdAt: "2026-09-03T13:17:30.281Z",
+  updatedAt: "2026-09-15T16:35:10.000Z",
 } as const satisfies Release

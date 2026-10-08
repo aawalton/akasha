@@ -19,4 +19,6 @@ export const jamesTaylor2MudSlideSlimAndTheBlueHorizon2019Remaster = {
     },
   ],
   title: "Mud Slide Slim and the Blue Horizon (2019 Remaster)",
+  createdAt: "2026-09-03T13:17:30.277Z",
+  updatedAt: "2026-09-21T16:45:29.000Z",
 } as const satisfies Release

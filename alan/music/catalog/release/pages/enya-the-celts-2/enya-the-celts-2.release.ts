@@ -19,4 +19,6 @@ export const enyaTheCelts2 = {
       externalLink: "https://open.spotify.com/album/3qPIe6YsuQ0qzg6bSEQjfv",
     },
   ],
+  createdAt: "2026-09-03T13:17:30.284Z",
+  updatedAt: "2026-09-15T16:35:36.000Z",
 } as const satisfies Release

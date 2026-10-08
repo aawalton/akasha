@@ -19,4 +19,6 @@ export const girlInRedYouStupidBitch = {
       externalLink: "https://open.spotify.com/album/4M2sFHiDlAXasGDTWq6iHA",
     },
   ],
+  createdAt: "2026-09-03T13:17:30.290Z",
+  updatedAt: "2026-09-15T16:36:07.000Z",
 } as const satisfies Release

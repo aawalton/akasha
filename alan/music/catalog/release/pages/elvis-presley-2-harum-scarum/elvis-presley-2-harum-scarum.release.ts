@@ -19,4 +19,6 @@ export const elvisPresley2HarumScarum = {
       externalLink: "https://open.spotify.com/album/0DDokriMy7L6hseGI6Ju7C",
     },
   ],
+  createdAt: "2026-09-03T13:17:30.271Z",
+  updatedAt: "2026-09-15T16:35:10.000Z",
 } as const satisfies Release

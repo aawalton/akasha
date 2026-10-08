@@ -19,4 +19,6 @@ export const justinTimberlakeBetterPlaceFromTrollsBandTogether = {
       externalLink: "https://open.spotify.com/album/6kF2smJylLgcekEyliE3p8",
     },
   ],
+  createdAt: "2026-09-03T13:17:30.264Z",
+  updatedAt: "2026-09-15T16:37:02.000Z",
 } as const satisfies Release

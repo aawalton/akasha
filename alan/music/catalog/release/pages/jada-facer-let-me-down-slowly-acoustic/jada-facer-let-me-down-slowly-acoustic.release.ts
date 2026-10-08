@@ -19,4 +19,6 @@ export const jadaFacerLetMeDownSlowlyAcoustic = {
       externalLink: "https://open.spotify.com/album/19ZSXfoOnpopL6m49CTY5N",
     },
   ],
+  createdAt: "2026-09-03T13:17:30.275Z",
+  updatedAt: "2026-09-15T16:36:36.000Z",
 } as const satisfies Release

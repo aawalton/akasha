@@ -19,4 +19,6 @@ export const katyPerryIKissedAGirl = {
       externalLink: "https://open.spotify.com/album/4I0m4cCVE6jE6BEdXgoX3V",
     },
   ],
+  createdAt: "2026-09-03T13:17:30.273Z",
+  updatedAt: "2026-09-15T16:37:02.000Z",
 } as const satisfies Release

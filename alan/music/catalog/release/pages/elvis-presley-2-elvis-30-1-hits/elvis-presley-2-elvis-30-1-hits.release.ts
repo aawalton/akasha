@@ -19,4 +19,6 @@ export const elvisPresley2Elvis301Hits = {
       externalLink: "https://open.spotify.com/album/0QVoYzGd1p8Z3ohEaM0lsc",
     },
   ],
+  createdAt: "2026-09-03T13:17:30.268Z",
+  updatedAt: "2026-09-15T16:35:10.000Z",
 } as const satisfies Release

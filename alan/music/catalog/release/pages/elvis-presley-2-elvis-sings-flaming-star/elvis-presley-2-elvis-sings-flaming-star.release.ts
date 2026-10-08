@@ -19,4 +19,6 @@ export const elvisPresley2ElvisSingsFlamingStar = {
       externalLink: "https://open.spotify.com/album/3xHHQWEtennMsfZ65t9Brv",
     },
   ],
+  createdAt: "2026-09-03T13:17:30.269Z",
+  updatedAt: "2026-09-15T16:35:10.000Z",
 } as const satisfies Release

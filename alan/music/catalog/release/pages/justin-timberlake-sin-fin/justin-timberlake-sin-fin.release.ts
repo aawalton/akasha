@@ -19,4 +19,6 @@ export const justinTimberlakeSinFin = {
       externalLink: "https://open.spotify.com/album/6bcsXfLlMTAWGWdWofzM2l",
     },
   ],
+  createdAt: "2026-09-03T13:17:30.281Z",
+  updatedAt: "2026-09-15T16:37:02.000Z",
 } as const satisfies Release

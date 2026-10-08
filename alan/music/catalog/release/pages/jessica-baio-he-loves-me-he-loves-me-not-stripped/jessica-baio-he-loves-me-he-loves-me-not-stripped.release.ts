@@ -20,4 +20,6 @@ export const jessicaBaioHeLovesMeHeLovesMeNotStripped = {
     },
   ],
   title: "he loves me, he loves me not (stripped)",
+  createdAt: "2026-09-03T13:17:30.272Z",
+  updatedAt: "2026-09-21T23:00:38.000Z",
 } as const satisfies Release

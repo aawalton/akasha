@@ -19,4 +19,6 @@ export const katyPerryChainedToTheRhythmHotChipRemix = {
       externalLink: "https://open.spotify.com/album/5F1lG0zd72qY4dU57JmEPn",
     },
   ],
+  createdAt: "2026-09-03T13:17:30.266Z",
+  updatedAt: "2026-09-15T16:37:02.000Z",
 } as const satisfies Release

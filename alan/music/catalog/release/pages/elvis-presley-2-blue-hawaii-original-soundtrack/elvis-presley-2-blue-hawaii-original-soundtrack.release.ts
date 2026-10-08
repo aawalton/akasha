@@ -19,4 +19,6 @@ export const elvisPresley2BlueHawaiiOriginalSoundtrack = {
       externalLink: "https://open.spotify.com/album/3NebgTz1kuqklVUruq3xIM",
     },
   ],
+  createdAt: "2026-09-03T13:17:30.265Z",
+  updatedAt: "2026-09-15T16:35:10.000Z",
 } as const satisfies Release

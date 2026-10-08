@@ -20,4 +20,6 @@ export const emeiRabbithole = {
     },
   ],
   title: "RABBITHOLE",
+  createdAt: "2026-09-03T13:17:30.279Z",
+  updatedAt: "2026-09-21T19:44:25.000Z",
 } as const satisfies Release

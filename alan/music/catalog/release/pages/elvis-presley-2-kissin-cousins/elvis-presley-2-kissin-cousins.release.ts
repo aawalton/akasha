@@ -19,4 +19,6 @@ export const elvisPresley2KissinCousins = {
       externalLink: "https://open.spotify.com/album/6pmtghRWm6C8EsD48dKmTi",
     },
   ],
+  createdAt: "2026-09-03T13:17:30.274Z",
+  updatedAt: "2026-09-15T16:35:10.000Z",
 } as const satisfies Release

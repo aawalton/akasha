@@ -20,4 +20,6 @@ export const izzyEscobarTheDevilWearsPrada2MusicFromTheMotionPicture = {
     },
   ],
   title: "The Devil Wears Prada 2 (Music From The Motion Picture)",
+  createdAt: "2026-09-15T16:02:24.404Z",
+  updatedAt: "2026-09-15T16:36:07.000Z",
 } as const satisfies Release

@@ -19,4 +19,6 @@ export const jadaFacerBackToYouAcoustic = {
       externalLink: "https://open.spotify.com/album/3KVc6A3L1d3pSZfcuBmzKj",
     },
   ],
+  createdAt: "2026-09-03T13:17:30.264Z",
+  updatedAt: "2026-09-15T16:36:07.000Z",
 } as const satisfies Release

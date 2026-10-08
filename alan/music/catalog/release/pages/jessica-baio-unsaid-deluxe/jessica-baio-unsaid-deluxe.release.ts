@@ -20,4 +20,6 @@ export const jessicaBaioUnsaidDeluxe = {
     },
   ],
   title: "UNSAID (Deluxe)",
+  createdAt: "2026-09-03T13:17:30.287Z",
+  updatedAt: "2026-09-21T23:00:38.000Z",
 } as const satisfies Release

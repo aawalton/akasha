@@ -20,4 +20,6 @@ export const jessicaBaioGladYouReSettling = {
     },
   ],
   title: "glad you’re settling",
+  createdAt: "2026-09-03T13:17:30.271Z",
+  updatedAt: "2026-09-21T23:00:38.000Z",
 } as const satisfies Release

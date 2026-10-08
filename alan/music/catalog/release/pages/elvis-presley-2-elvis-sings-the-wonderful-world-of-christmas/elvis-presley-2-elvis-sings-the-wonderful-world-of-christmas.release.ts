@@ -19,4 +19,6 @@ export const elvisPresley2ElvisSingsTheWonderfulWorldOfChristmas = {
       externalLink: "https://open.spotify.com/album/67WNQsweOZ94qxgAUDGXAk",
     },
   ],
+  createdAt: "2026-09-03T13:17:30.269Z",
+  updatedAt: "2026-09-15T16:35:10.000Z",
 } as const satisfies Release

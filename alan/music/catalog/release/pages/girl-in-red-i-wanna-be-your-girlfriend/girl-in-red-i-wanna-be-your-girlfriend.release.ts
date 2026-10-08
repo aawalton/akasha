@@ -20,4 +20,6 @@ export const girlInRedIWannaBeYourGirlfriend = {
       externalLink: "https://open.spotify.com/album/14cEutEbb3i2vDp3ZopdJf",
     },
   ],
+  createdAt: "2026-09-03T13:17:30.273Z",
+  updatedAt: "2026-09-21T19:44:25.000Z",
 } as const satisfies Release

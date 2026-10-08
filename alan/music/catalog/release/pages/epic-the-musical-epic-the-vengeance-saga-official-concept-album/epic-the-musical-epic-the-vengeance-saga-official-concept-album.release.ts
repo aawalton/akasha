@@ -19,4 +19,6 @@ export const epicTheMusicalEpicTheVengeanceSagaOfficialConceptAlbum = {
       externalLink: "https://open.spotify.com/album/5P7YyqqjHuq7mSLqIY06jE",
     },
   ],
+  createdAt: "2026-09-03T13:17:30.269Z",
+  updatedAt: "2026-09-15T16:35:36.000Z",
 } as const satisfies Release

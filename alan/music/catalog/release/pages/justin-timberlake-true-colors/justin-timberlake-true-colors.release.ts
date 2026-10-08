@@ -19,4 +19,6 @@ export const justinTimberlakeTrueColors = {
       externalLink: "https://open.spotify.com/album/7M83W7iXqtZ2qjYCOXvgWj",
     },
   ],
+  createdAt: "2026-09-03T13:17:30.287Z",
+  updatedAt: "2026-09-15T16:37:02.000Z",
 } as const satisfies Release

@@ -19,4 +19,6 @@ export const justinTimberlakeUntilTheEndOfTimeWithBeyonce = {
       externalLink: "https://open.spotify.com/album/3E81KB8Gxn4kkh8GP5M3DK",
     },
   ],
+  createdAt: "2026-09-03T13:17:30.287Z",
+  updatedAt: "2026-09-15T16:37:02.000Z",
 } as const satisfies Release

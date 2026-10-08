@@ -19,4 +19,6 @@ export const elvisPresley2AlohaFromHawaiiViaSatelliteDeluxeEdition = {
       externalLink: "https://open.spotify.com/album/5X3C75j0EXwudyUS6UiEVD",
     },
   ],
+  createdAt: "2026-09-03T13:17:30.262Z",
+  updatedAt: "2026-09-15T16:35:10.000Z",
 } as const satisfies Release

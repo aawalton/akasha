@@ -19,4 +19,6 @@ export const girlInRedILlDieAnyway = {
       externalLink: "https://open.spotify.com/album/4Zt3XT3vADR97nZGrFoSOY",
     },
   ],
+  createdAt: "2026-09-03T13:17:30.273Z",
+  updatedAt: "2026-09-15T16:35:36.000Z",
 } as const satisfies Release

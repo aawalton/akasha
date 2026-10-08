@@ -19,4 +19,6 @@ export const justinTimberlakeThe2020Experience2Of2Deluxe = {
       externalLink: "https://open.spotify.com/album/5lYzReGzcSNF0Gx47wm6qU",
     },
   ],
+  createdAt: "2026-09-03T13:17:30.284Z",
+  updatedAt: "2026-09-15T16:37:02.000Z",
 } as const satisfies Release

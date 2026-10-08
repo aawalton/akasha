@@ -19,4 +19,6 @@ export const elvisPresley2ForEveryone = {
       externalLink: "https://open.spotify.com/album/0tYYM9PPjEM7W7aIR7VO8a",
     },
   ],
+  createdAt: "2026-09-03T13:17:30.270Z",
+  updatedAt: "2026-09-15T16:35:10.000Z",
 } as const satisfies Release

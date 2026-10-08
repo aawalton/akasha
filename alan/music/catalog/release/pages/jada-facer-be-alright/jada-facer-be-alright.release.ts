@@ -19,4 +19,6 @@ export const jadaFacerBeAlright = {
       externalLink: "https://open.spotify.com/album/3NptEYzfyVi3LqeXYl4fQH",
     },
   ],
+  createdAt: "2026-09-03T13:17:30.264Z",
+  updatedAt: "2026-09-15T16:36:07.000Z",
 } as const satisfies Release

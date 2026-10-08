@@ -19,4 +19,6 @@ export const enyaPortraitShortVersion = {
       externalLink: "https://open.spotify.com/album/5o9DXlkcmZ5R3tGvM2z8px",
     },
   ],
+  createdAt: "2026-09-03T13:17:30.279Z",
+  updatedAt: "2026-09-15T16:35:36.000Z",
 } as const satisfies Release

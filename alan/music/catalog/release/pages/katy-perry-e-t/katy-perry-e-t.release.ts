@@ -19,4 +19,6 @@ export const katyPerryET = {
       externalLink: "https://open.spotify.com/album/6cV5RZ57OBWPkjNt1D19Hj",
     },
   ],
+  createdAt: "2026-09-03T13:17:30.268Z",
+  updatedAt: "2026-09-15T16:37:02.000Z",
 } as const satisfies Release

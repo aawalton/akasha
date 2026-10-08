@@ -19,4 +19,6 @@ export const jadaFacerAllIWantAcoustic = {
       externalLink: "https://open.spotify.com/album/72j52zJxZysMuED7VnQ2um",
     },
   ],
+  createdAt: "2026-09-03T13:17:30.262Z",
+  updatedAt: "2026-09-15T16:36:07.000Z",
 } as const satisfies Release

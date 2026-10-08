@@ -19,4 +19,6 @@ export const justinTimberlakeFilthy = {
       externalLink: "https://open.spotify.com/album/730MjVEfvrWeEloF42B5U1",
     },
   ],
+  createdAt: "2026-09-03T13:17:30.269Z",
+  updatedAt: "2026-09-15T16:37:02.000Z",
 } as const satisfies Release

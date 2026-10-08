@@ -19,4 +19,6 @@ export const elvisPresley2SunsetBoulevard = {
       externalLink: "https://open.spotify.com/album/4zUZv055gk4daN0VusN3gw",
     },
   ],
+  createdAt: "2026-09-03T13:17:30.282Z",
+  updatedAt: "2026-09-15T16:35:10.000Z",
 } as const satisfies Release

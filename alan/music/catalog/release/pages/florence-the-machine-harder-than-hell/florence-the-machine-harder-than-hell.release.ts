@@ -19,4 +19,6 @@ export const florenceTheMachineHarderThanHell = {
       externalLink: "https://open.spotify.com/album/4X9nSf8xmYbemrz2IAXFgY",
     },
   ],
+  createdAt: "2026-09-03T13:17:30.271Z",
+  updatedAt: "2026-09-15T16:35:36.000Z",
 } as const satisfies Release

@@ -19,4 +19,6 @@ export const girlInRedMidnightLove = {
       externalLink: "https://open.spotify.com/album/1fqH4fCx9J4hTF1DACVfen",
     },
   ],
+  createdAt: "2026-09-03T13:17:30.276Z",
+  updatedAt: "2026-09-15T16:35:36.000Z",
 } as const satisfies Release

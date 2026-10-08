@@ -19,4 +19,6 @@ export const justinTimberlakeDrown = {
       externalLink: "https://open.spotify.com/album/5PpH5XpQ59g6CB399oKkVA",
     },
   ],
+  createdAt: "2026-09-03T13:17:30.268Z",
+  updatedAt: "2026-09-15T16:37:02.000Z",
 } as const satisfies Release

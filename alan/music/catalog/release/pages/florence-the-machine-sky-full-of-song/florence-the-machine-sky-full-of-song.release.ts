@@ -19,4 +19,6 @@ export const florenceTheMachineSkyFullOfSong = {
       externalLink: "https://open.spotify.com/album/0rI4Lse9Ffh0HoXVYmdiHa",
     },
   ],
+  createdAt: "2026-09-03T13:17:30.281Z",
+  updatedAt: "2026-09-15T16:35:36.000Z",
 } as const satisfies Release

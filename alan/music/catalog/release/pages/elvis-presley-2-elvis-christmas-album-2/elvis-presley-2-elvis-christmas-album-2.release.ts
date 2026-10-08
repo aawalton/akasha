@@ -19,4 +19,6 @@ export const elvisPresley2ElvisChristmasAlbum2 = {
       externalLink: "https://open.spotify.com/album/3MKn8SNvHkWbpSdG09Lepl",
     },
   ],
+  createdAt: "2026-09-03T13:17:30.268Z",
+  updatedAt: "2026-09-15T16:35:10.000Z",
 } as const satisfies Release

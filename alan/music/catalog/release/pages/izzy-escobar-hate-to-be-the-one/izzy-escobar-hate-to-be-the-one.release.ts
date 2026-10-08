@@ -20,4 +20,6 @@ export const izzyEscobarHateToBeTheOne = {
     },
   ],
   title: "Hate to Be the One",
+  createdAt: "2026-09-15T16:02:25.270Z",
+  updatedAt: "2026-09-15T16:36:07.000Z",
 } as const satisfies Release

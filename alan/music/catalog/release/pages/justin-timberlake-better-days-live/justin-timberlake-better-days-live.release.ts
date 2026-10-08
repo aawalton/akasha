@@ -19,4 +19,6 @@ export const justinTimberlakeBetterDaysLive = {
       externalLink: "https://open.spotify.com/album/57XaIqrhGfRe5MYGLxa27k",
     },
   ],
+  createdAt: "2026-09-03T13:17:30.264Z",
+  updatedAt: "2026-09-15T16:37:02.000Z",
 } as const satisfies Release

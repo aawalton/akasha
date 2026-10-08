@@ -20,4 +20,6 @@ export const emBeiholdNumbLittleBug = {
     },
   ],
   title: "Numb Little Bug",
+  createdAt: "2026-09-03T13:17:30.278Z",
+  updatedAt: "2026-09-24T14:01:01.000Z",
 } as const satisfies Release

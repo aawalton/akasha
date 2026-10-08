@@ -20,4 +20,6 @@ export const japaneseBreakfastSableOriginalVideoGameSoundtrack = {
       externalLink: "https://open.spotify.com/album/7B6Zmp3r1iY1DFPV08vPBY",
     },
   ],
+  createdAt: "2026-09-03T13:17:30.280Z",
+  updatedAt: "2026-09-21T19:44:25.000Z",
 } as const satisfies Release

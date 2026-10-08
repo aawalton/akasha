@@ -19,4 +19,6 @@ export const jamesTaylor2FireAndRain2019Remaster = {
       externalLink: "https://open.spotify.com/album/50HMoBvu6Qcy2idNeffED4",
     },
   ],
+  createdAt: "2026-09-03T13:17:30.269Z",
+  updatedAt: "2026-09-15T16:36:36.000Z",
 } as const satisfies Release

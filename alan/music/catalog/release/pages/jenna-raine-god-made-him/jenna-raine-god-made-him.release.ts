@@ -20,4 +20,6 @@ export const jennaRaineGodMadeHim = {
     },
   ],
   title: "God Made Him",
+  createdAt: "2026-09-21T22:40:52.652Z",
+  updatedAt: "2026-09-21T23:00:38.000Z",
 } as const satisfies Release

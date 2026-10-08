@@ -19,4 +19,6 @@ export const justinTimberlakeMyLove = {
       externalLink: "https://open.spotify.com/album/3N1D55OU4TgweV2SSx6rpl",
     },
   ],
+  createdAt: "2026-09-03T13:17:30.277Z",
+  updatedAt: "2026-09-15T16:37:02.000Z",
 } as const satisfies Release

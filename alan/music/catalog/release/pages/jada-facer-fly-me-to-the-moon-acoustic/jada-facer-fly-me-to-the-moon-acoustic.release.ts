@@ -19,4 +19,6 @@ export const jadaFacerFlyMeToTheMoonAcoustic = {
       externalLink: "https://open.spotify.com/album/7ylp6qOcm2rWZBTcdx6d4U",
     },
   ],
+  createdAt: "2026-09-03T13:17:30.270Z",
+  updatedAt: "2026-09-15T16:36:36.000Z",
 } as const satisfies Release

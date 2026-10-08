@@ -19,4 +19,6 @@ export const katyPerryAllYouNeedIsLove = {
       externalLink: "https://open.spotify.com/album/0yLJMIgyF3luW7T884EOGR",
     },
   ],
+  createdAt: "2026-09-03T13:17:30.262Z",
+  updatedAt: "2026-09-15T16:37:02.000Z",
 } as const satisfies Release

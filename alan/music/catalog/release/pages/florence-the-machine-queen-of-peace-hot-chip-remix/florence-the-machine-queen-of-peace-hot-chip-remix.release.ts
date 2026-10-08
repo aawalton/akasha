@@ -19,4 +19,6 @@ export const florenceTheMachineQueenOfPeaceHotChipRemix = {
       externalLink: "https://open.spotify.com/album/4kBs8EjU6kfVL5ZswiUGdi",
     },
   ],
+  createdAt: "2026-09-03T13:17:30.279Z",
+  updatedAt: "2026-09-15T16:35:36.000Z",
 } as const satisfies Release

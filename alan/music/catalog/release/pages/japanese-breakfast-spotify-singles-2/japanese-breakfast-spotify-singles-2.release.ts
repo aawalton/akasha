@@ -19,4 +19,6 @@ export const japaneseBreakfastSpotifySingles2 = {
       externalLink: "https://open.spotify.com/album/5Ir3sO62EvsC6Tfc7Q9c1z",
     },
   ],
+  createdAt: "2026-09-03T13:17:30.282Z",
+  updatedAt: "2026-09-15T16:37:02.000Z",
 } as const satisfies Release

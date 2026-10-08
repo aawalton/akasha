@@ -19,4 +19,6 @@ export const justinTimberlakeDonTSlackFromTrollsWorldTour = {
       externalLink: "https://open.spotify.com/album/40Obfin2HVz6rEL5kIqstb",
     },
   ],
+  createdAt: "2026-09-03T13:17:30.268Z",
+  updatedAt: "2026-09-15T16:37:02.000Z",
 } as const satisfies Release

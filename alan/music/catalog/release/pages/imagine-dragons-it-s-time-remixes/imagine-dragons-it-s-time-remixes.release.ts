@@ -19,4 +19,6 @@ export const imagineDragonsItSTimeRemixes = {
     },
   ],
   title: "It's Time Remixes",
+  createdAt: "2026-09-03T13:17:30.274Z",
+  updatedAt: "2026-09-21T16:45:29.000Z",
 } as const satisfies Release
