@@ -15,6 +15,7 @@ import { onAddOnLoaded as initMapPins } from "akasha/temper/addon/pages/world/ma
 import { initMarkers } from "akasha/temper/addon/pages/world/markers/modules/markers-entry/markers-entry.module.code.ts"
 import { ADDON_NAME } from "akasha/temper/addon/pages/world/modules/world-names/world-names.module.code.ts"
 import { onAddOnLoaded as initNavigation } from "akasha/temper/addon/pages/world/navigation/modules/navigation-loaded/navigation-loaded.module.code.ts"
+import { initQuestPort } from "akasha/temper/addon/pages/world/quest-port/modules/quest-port/quest-port.module.code.ts"
 import { initQuests } from "akasha/temper/addon/pages/world/quests/modules/quests-entry/quests-entry.module.code.ts"
 import { registerAddonInit } from "akasha/temper/modules/addon-init/addon-init.module.code.ts"
 
@@ -24,6 +25,7 @@ function onAddOnLoaded(this: void): undefined {
   initMapPins()
   initNavigation()
   initQuests()
+  initQuestPort()
   initAntiquities()
   initCollections()
   initMarkers()

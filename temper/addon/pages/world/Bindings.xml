@@ -56,6 +56,11 @@
 				<Down>TemperWorld.Markers.sendTempMarker()</Down>
 			</Action>
 		</Category>
+		<Category name="Temper Quests">
+			<Action name="TEMPER_PORT_NEAR_QUEST_OBJECTIVE">
+				<Down>TemperWorld.PortNearQuestObjective()</Down>
+			</Action>
+		</Category>
 		<Category name="SI_KEYBINDINGS_CATEGORY_TEMPER_JOURNAL">
 			<Action name="EXTENDED_JOURNAL">
 				<Down>TemperWorld.ShowJournal()</Down>

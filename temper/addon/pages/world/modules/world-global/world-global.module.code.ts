@@ -5,6 +5,7 @@ import {
   ADDON_NAME,
   ADDON_VERSION,
 } from "akasha/temper/addon/pages/world/modules/world-names/world-names.module.code.ts"
+import { portNearQuestObjective } from "akasha/temper/addon/pages/world/quest-port/modules/quest-port/quest-port.module.code.ts"
 import "akasha/temper/addon/pages/world/markers/markers-declarations/markers-declarations.type-declaration.d.ts"
 import "akasha/temper/addon/pages/world/world-declarations/world-declarations.type-declaration.d.ts"
 
@@ -22,5 +23,6 @@ globalThis.TemperWorld = {
   toggleRDL: toggleLeadsWindow,
   ShowJournal: showJournal,
   ShowItemBrowser: showItemBrowser,
+  PortNearQuestObjective: portNearQuestObjective,
   Markers: MARKERS_API,
 }
