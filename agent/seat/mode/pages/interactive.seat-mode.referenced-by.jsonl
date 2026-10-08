@@ -6,3 +6,4 @@
 {"propertySlug":"start-mode","path":"agent/seat/pages/athena/athena.seat.ts","id":"01a11c03-924a-7000-8151-0c76e2fa99e6"}
 {"propertySlug":"start-mode","path":"agent/seat/pages/echo/echo.seat.ts","id":"01a11c04-3979-7000-a8f0-e63e6f41758b"}
 {"propertySlug":"start-mode","path":"agent/seat/pages/ember/ember.seat.ts","id":"01a11baf-5fc0-7000-85d2-7cfbcbde7521"}
+{"propertySlug":"start-mode","path":"agent/seat/pages/nova/nova.seat.ts","id":"01a11c1d-2ddd-7000-a295-79d79348bae0"}
