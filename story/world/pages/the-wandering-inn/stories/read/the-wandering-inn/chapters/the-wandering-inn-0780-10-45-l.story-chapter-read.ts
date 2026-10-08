@@ -4,7 +4,7 @@ export const theWanderingInn07801045L = {
   id: "01a065a2-09cd-7e96-8aa2-a1099424f03e",
   type: "page-type/story-chapter-read",
   slug: "the-wandering-inn-0780-10-45-l",
-  ownProgress: 44812,
+  ownProgress: 44911,
   title: "10.45 L",
   story: "story-read/the-wandering-inn",
   position: 780,
@@ -15,6 +15,7 @@ export const theWanderingInn07801045L = {
     { source: "the-wandering-inn", externalLink: "https://wanderinginn.com/2025/08/23/10-45-l/" },
   ],
   prose: "txt",
-  updatedAt: "2026-10-08T18:18:43.401Z",
+  updatedAt: "2026-10-08T18:19:10.461Z",
+  completedAt: "2026-10-08T18:19:09.267Z",
   createdAt: "2026-09-03T04:58:33.293Z",
 } as const satisfies StoryChapterRead
