@@ -1,36 +1,7 @@
 {
   "build": {
-    "skillAbilityIds": {
-      "1": 152625,
-      "2": 186603,
-      "3": 155328,
-      "4": 154926,
-      "5": 155693,
-      "6": 186488
-    },
-    "weapons": {
-      "1": {
-        "qualityColor": {
-          "1": 0.65,
-          "2": 0.28,
-          "3": 0.86
-        },
-        "isEmpty": false,
-        "displayText": "Ice Staff, Shattering"
-      },
-      "2": {
-        "qualityColor": {
-          "1": 0.5,
-          "2": 0.5,
-          "3": 0.5
-        },
-        "isEmpty": true,
-        "displayText": "Empty"
-      }
-    },
     "hash": "AjEIVpGkaRpGkaRpCQ8PFPMjBFmT7gA",
     "mainHandWeaponType": 13,
-    "companionId": 8,
     "jewelry": {
       "1": {
         "qualityColor": {
@@ -59,6 +30,35 @@
         "isEmpty": false,
         "displayText": "Shattering"
       }
+    },
+    "weapons": {
+      "1": {
+        "qualityColor": {
+          "1": 0.65,
+          "2": 0.28,
+          "3": 0.86
+        },
+        "isEmpty": false,
+        "displayText": "Ice Staff, Shattering"
+      },
+      "2": {
+        "qualityColor": {
+          "1": 0.5,
+          "2": 0.5,
+          "3": 0.5
+        },
+        "isEmpty": true,
+        "displayText": "Empty"
+      }
+    },
+    "companionId": 8,
+    "skillAbilityIds": {
+      "1": 152625,
+      "2": 186603,
+      "3": 155328,
+      "4": 154926,
+      "5": 155693,
+      "6": 186488
     },
     "armor": {
       "1": {
