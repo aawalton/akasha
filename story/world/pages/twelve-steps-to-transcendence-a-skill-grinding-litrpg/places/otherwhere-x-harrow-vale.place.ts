@@ -74,4 +74,6 @@ export const otherwhereXHarrowVale = {
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-x-nala"],
     },
   ],
+  createdAt: "2026-09-28T23:54:55.133Z",
+  updatedAt: "2026-09-29T01:49:04.000Z",
 } as const satisfies Place

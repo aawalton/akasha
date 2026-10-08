@@ -7,4 +7,6 @@ export const towerAndTheStarFloor17HexagonalChamber = {
   title: "Floor 17: Hexagonal chamber",
   world: "world/tower-and-the-star",
   facts: [],
+  createdAt: "2026-10-03T19:34:18.365Z",
+  updatedAt: "2026-10-03T19:34:21.000Z",
 } as const satisfies Place

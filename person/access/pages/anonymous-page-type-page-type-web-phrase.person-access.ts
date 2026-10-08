@@ -9,4 +9,6 @@ export const anonymousPageTypePageTypeWebPhrase = {
   target: "page-type",
   deed: ["access-deed/read-some"],
   narrow: { key: "slug", is: "web-phrase" },
+  createdAt: "2026-09-27T12:20:56.232Z",
+  updatedAt: "2026-09-27T12:21:16.000Z",
 } as const satisfies PersonAccess

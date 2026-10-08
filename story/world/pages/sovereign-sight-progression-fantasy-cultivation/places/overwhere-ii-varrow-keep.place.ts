@@ -73,4 +73,6 @@ export const overwhereIiVarrowKeep = {
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
   ],
+  createdAt: "2026-09-29T12:25:40.107Z",
+  updatedAt: "2026-10-03T00:10:10.000Z",
 } as const satisfies Place

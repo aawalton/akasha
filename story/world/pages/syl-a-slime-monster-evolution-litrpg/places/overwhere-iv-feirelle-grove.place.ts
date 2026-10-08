@@ -45,4 +45,6 @@ export const overwhereIvFeirelleGrove = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-29T12:35:02.420Z",
+  updatedAt: "2026-09-29T12:35:05.000Z",
 } as const satisfies Place

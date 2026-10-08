@@ -89,4 +89,6 @@ export const overwhereIvLabyrinthOfTheAbyss = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-29T12:42:02.909Z",
+  updatedAt: "2026-09-29T12:42:05.000Z",
 } as const satisfies Place

@@ -92,4 +92,6 @@ export const otherwhereVOstren = {
       knowers: ["lore-disclosure/game-master"],
     },
   ],
+  createdAt: "2026-09-28T21:43:04.996Z",
+  updatedAt: "2026-09-28T21:43:07.000Z",
 } as const satisfies Place

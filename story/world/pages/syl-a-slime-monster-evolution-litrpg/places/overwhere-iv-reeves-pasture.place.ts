@@ -124,4 +124,6 @@ export const overwhereIvReevesPasture = {
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
     },
   ],
+  createdAt: "2026-09-30T21:40:20.123Z",
+  updatedAt: "2026-09-30T22:27:06.000Z",
 } as const satisfies Place

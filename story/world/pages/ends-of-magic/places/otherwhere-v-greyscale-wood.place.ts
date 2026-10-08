@@ -88,4 +88,6 @@ export const otherwhereVGreyscaleWood = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-28T21:45:40.960Z",
+  updatedAt: "2026-09-28T22:11:00.000Z",
 } as const satisfies Place

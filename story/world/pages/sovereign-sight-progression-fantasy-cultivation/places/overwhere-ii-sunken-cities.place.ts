@@ -40,4 +40,6 @@ export const overwhereIiSunkenCities = {
       knowers: ["lore-disclosure/game-master"],
     },
   ],
+  createdAt: "2026-09-29T12:31:05.600Z",
+  updatedAt: "2026-09-29T12:31:08.000Z",
 } as const satisfies Place

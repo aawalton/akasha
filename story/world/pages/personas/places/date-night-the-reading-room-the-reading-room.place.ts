@@ -7,4 +7,6 @@ export const dateNightTheReadingRoomTheReadingRoom = {
   title: "The Reading Room",
   world: "world/personas",
   facts: [],
+  createdAt: "2026-10-03T20:26:59.237Z",
+  updatedAt: "2026-10-03T20:27:01.000Z",
 } as const satisfies Place

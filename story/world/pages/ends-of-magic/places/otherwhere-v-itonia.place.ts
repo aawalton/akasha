@@ -16,4 +16,6 @@ export const otherwhereVItonia = {
       knowers: ["lore-disclosure/game-master"],
     },
   ],
+  createdAt: "2026-09-28T21:39:23.140Z",
+  updatedAt: "2026-09-28T21:39:26.000Z",
 } as const satisfies Place

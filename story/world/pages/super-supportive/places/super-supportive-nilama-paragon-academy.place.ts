@@ -8,4 +8,6 @@ export const superSupportiveNilamaParagonAcademy = {
   world: "world/super-supportive",
   within: "place/super-supportive-nilama-marina",
   secrets: "jsonl",
+  createdAt: "2026-09-28T21:54:59.367Z",
+  updatedAt: "2026-09-28T21:55:04.000Z",
 } as const satisfies Place

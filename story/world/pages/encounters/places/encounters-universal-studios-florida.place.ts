@@ -71,4 +71,6 @@ export const encountersUniversalStudiosFlorida = {
       ],
     },
   ],
+  createdAt: "2026-10-06T22:51:43.927Z",
+  updatedAt: "2026-10-06T23:12:01.000Z",
 } as const satisfies Place

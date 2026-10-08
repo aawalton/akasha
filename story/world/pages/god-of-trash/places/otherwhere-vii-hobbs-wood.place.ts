@@ -65,4 +65,6 @@ export const otherwhereViiHobbsWood = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-28T22:59:20.033Z",
+  updatedAt: "2026-09-29T02:39:42.000Z",
 } as const satisfies Place

@@ -81,4 +81,6 @@ export const overwhereIvMoonscar = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-29T12:43:10.768Z",
+  updatedAt: "2026-09-29T12:43:13.000Z",
 } as const satisfies Place

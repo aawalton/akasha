@@ -8,4 +8,6 @@ export const superSupportivePalaceOfUnbreaking = {
   world: "world/super-supportive",
   within: "place/super-supportive-triplanets",
   secrets: "jsonl",
+  createdAt: "2026-09-28T21:53:57.372Z",
+  updatedAt: "2026-09-28T21:55:04.000Z",
 } as const satisfies Place

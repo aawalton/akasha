@@ -95,4 +95,6 @@ export const hollowmereKendal = {
       ],
     },
   ],
+  createdAt: "2026-10-02T18:50:13.093Z",
+  updatedAt: "2026-10-03T14:34:10.000Z",
 } as const satisfies Place

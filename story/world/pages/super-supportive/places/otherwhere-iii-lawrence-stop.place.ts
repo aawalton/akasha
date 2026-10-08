@@ -33,4 +33,6 @@ export const otherwhereIiiLawrenceStop = {
     },
   ],
   within: "place/otherwhere-iii-chicago",
+  createdAt: "2026-09-28T22:14:06.160Z",
+  updatedAt: "2026-09-28T22:21:27.000Z",
 } as const satisfies Place

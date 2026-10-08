@@ -8,4 +8,6 @@ export const jennyPageTypeReadoutGroup = {
   accessKind: "access-kind/page-type",
   target: "readout-group",
   deed: ["access-deed/read"],
+  createdAt: "2026-09-21T17:40:36.621Z",
+  updatedAt: "2026-09-21T17:42:18.000Z",
 } as const satisfies PersonAccess

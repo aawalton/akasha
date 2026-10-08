@@ -20,4 +20,6 @@ export const theDatingGameProvoRiverTrail = {
       knowers: ["lore-disclosure/game-master", "character-other/the-dating-game-aelwyn"],
     },
   ],
+  createdAt: "2026-09-28T13:33:54.148Z",
+  updatedAt: "2026-09-28T13:33:56.000Z",
 } as const satisfies Place

@@ -69,4 +69,6 @@ export const otherwhereIiSearingIsle = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-28T20:33:45.940Z",
+  updatedAt: "2026-09-28T22:38:17.000Z",
 } as const satisfies Place

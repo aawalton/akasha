@@ -8,4 +8,6 @@ export const superSupportiveArtonaIi = {
   world: "world/super-supportive",
   within: "place/super-supportive-triplanets",
   secrets: "jsonl",
+  createdAt: "2026-09-28T21:53:57.371Z",
+  updatedAt: "2026-09-28T21:54:01.000Z",
 } as const satisfies Place

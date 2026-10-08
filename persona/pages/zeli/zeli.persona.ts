@@ -26,4 +26,6 @@ export const zeli = {
   anchor: "image/image-ec0e2bb40b74cfa7",
   covers: ["image/image-ec0e2bb40b74cfa7"],
   wallpapers: ["image/image-32c6b73d6837f78b"],
+  createdAt: "2026-06-19T23:21:36.697Z",
+  updatedAt: "2026-09-24T19:07:30.000Z",
 } as const satisfies Persona

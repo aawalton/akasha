@@ -27,4 +27,6 @@ export const nimue = {
   anchor: "image/image-4f5aee4e3ff38180",
   covers: ["image/image-4f5aee4e3ff38180"],
   wallpapers: ["image/image-c73d8e72be1fddf4"],
+  createdAt: "2026-06-22T13:54:49.853Z",
+  updatedAt: "2026-10-08T12:44:33.000Z",
 } as const satisfies Persona

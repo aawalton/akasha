@@ -195,4 +195,6 @@ export const otherwhereXiAshlarFarm = {
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-xi-nala"],
     },
   ],
+  createdAt: "2026-09-29T00:59:52.947Z",
+  updatedAt: "2026-10-03T19:56:27.000Z",
 } as const satisfies Place

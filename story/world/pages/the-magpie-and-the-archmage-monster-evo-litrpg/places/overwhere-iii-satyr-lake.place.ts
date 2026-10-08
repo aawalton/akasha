@@ -54,4 +54,6 @@ export const overwhereIiiSatyrLake = {
       knowers: ["lore-disclosure/game-master"],
     },
   ],
+  createdAt: "2026-09-29T12:39:43.349Z",
+  updatedAt: "2026-09-29T12:39:46.000Z",
 } as const satisfies Place

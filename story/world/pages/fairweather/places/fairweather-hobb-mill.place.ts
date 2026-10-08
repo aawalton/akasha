@@ -164,4 +164,6 @@ export const fairweatherHobbMill = {
       ],
     },
   ],
+  createdAt: "2026-10-06T18:49:14.714Z",
+  updatedAt: "2026-10-06T20:05:18.000Z",
 } as const satisfies Place

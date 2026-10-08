@@ -32,4 +32,6 @@ export const overwhereIvMutationDungeon = {
       knowers: ["lore-disclosure/game-master"],
     },
   ],
+  createdAt: "2026-09-29T12:51:32.822Z",
+  updatedAt: "2026-09-29T12:51:35.000Z",
 } as const satisfies Place

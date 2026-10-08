@@ -5,4 +5,6 @@ export const domainDefinition = {
   type: "page-type/phrase-kind",
   slug: "domain-definition",
   definition: "the sort of phrase a domain definition is written as",
+  createdAt: "2026-09-21T20:08:49.156Z",
+  updatedAt: "2026-09-25T15:41:48.000Z",
 } as const satisfies PhraseKind

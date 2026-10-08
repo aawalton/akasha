@@ -18,4 +18,6 @@ export const otherwhereVBlightColosseum = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-28T21:42:43.420Z",
+  updatedAt: "2026-09-28T21:42:46.000Z",
 } as const satisfies Place

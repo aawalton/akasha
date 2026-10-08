@@ -120,4 +120,6 @@ export const otherwhereViMossHollow = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-28T22:22:21.676Z",
+  updatedAt: "2026-09-28T23:00:28.000Z",
 } as const satisfies Place

@@ -89,4 +89,6 @@ export const fairweatherOrchidGlasshouse = {
       ],
     },
   ],
+  createdAt: "2026-10-04T16:16:59.404Z",
+  updatedAt: "2026-10-06T12:21:38.000Z",
 } as const satisfies Place

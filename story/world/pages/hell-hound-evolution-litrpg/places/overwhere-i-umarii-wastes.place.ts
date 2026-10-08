@@ -76,4 +76,6 @@ export const overwhereIUmariiWastes = {
       knowers: ["lore-disclosure/game-master"],
     },
   ],
+  createdAt: "2026-09-29T12:31:47.203Z",
+  updatedAt: "2026-09-29T12:31:50.000Z",
 } as const satisfies Place

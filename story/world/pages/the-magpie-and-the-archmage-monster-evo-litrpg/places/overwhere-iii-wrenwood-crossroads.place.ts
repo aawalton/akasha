@@ -146,4 +146,6 @@ export const overwhereIiiWrenwoodCrossroads = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-29T12:08:25.773Z",
+  updatedAt: "2026-10-02T21:49:56.000Z",
 } as const satisfies Place

@@ -16,4 +16,6 @@ export const overwhereIvCarrenGrove = {
       knowers: ["lore-disclosure/game-master"],
     },
   ],
+  createdAt: "2026-09-29T12:52:18.681Z",
+  updatedAt: "2026-09-29T12:52:21.000Z",
 } as const satisfies Place

@@ -84,4 +84,6 @@ export const overwhereIVerdantPalace = {
       knowers: ["lore-disclosure/game-master"],
     },
   ],
+  createdAt: "2026-09-29T12:34:30.833Z",
+  updatedAt: "2026-09-29T12:34:33.000Z",
 } as const satisfies Place

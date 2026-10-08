@@ -9,4 +9,6 @@ export const innworldVisitorPageTypePageTypeWorldCarriedMemory = {
   target: "page-type",
   deed: ["access-deed/read-some"],
   narrow: { key: "slug", is: "world-carried-memory" },
+  createdAt: "2026-09-21T21:57:03.014Z",
+  updatedAt: "2026-09-21T21:57:50.000Z",
 } as const satisfies PersonAccess

@@ -26,4 +26,6 @@ export const erin = {
   anchor: "image/image-35b9c7980eed6d1b",
   covers: ["image/image-760bc5b04e0faf21"],
   wallpapers: ["image/image-1c981cc39547d59f"],
+  createdAt: "2026-06-19T18:48:09.309Z",
+  updatedAt: "2026-09-24T19:07:30.000Z",
 } as const satisfies Persona

@@ -137,4 +137,6 @@ export const otherwhereXSulon = {
       ],
     },
   ],
+  createdAt: "2026-09-28T23:53:05.477Z",
+  updatedAt: "2026-10-03T19:45:03.000Z",
 } as const satisfies Place

@@ -41,4 +41,6 @@ export const otherwhereIxArenaCells = {
       knowers: ["lore-disclosure/game-master"],
     },
   ],
+  createdAt: "2026-09-28T23:03:40.608Z",
+  updatedAt: "2026-09-28T23:03:43.000Z",
 } as const satisfies Place

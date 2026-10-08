@@ -40,4 +40,6 @@ export const otherwhereXHarrowDowns = {
       direction: "north",
     },
   ],
+  createdAt: "2026-09-28T23:56:30.399Z",
+  updatedAt: "2026-09-28T23:56:34.000Z",
 } as const satisfies Place

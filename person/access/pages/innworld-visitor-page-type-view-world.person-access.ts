@@ -9,4 +9,6 @@ export const innworldVisitorPageTypeViewWorld = {
   target: "view",
   deed: ["access-deed/read-some"],
   narrow: { key: "pageType", is: "page-type/world" },
+  createdAt: "2026-09-28T22:36:38.398Z",
+  updatedAt: "2026-09-28T22:36:41.000Z",
 } as const satisfies PersonAccess

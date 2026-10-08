@@ -29,4 +29,6 @@ export const otherwhereVUnderworld = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-28T21:46:41.078Z",
+  updatedAt: "2026-09-28T21:46:44.000Z",
 } as const satisfies Place

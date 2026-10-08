@@ -29,4 +29,6 @@ export const otherwhereVGoldenRespite = {
       knowers: ["lore-disclosure/game-master"],
     },
   ],
+  createdAt: "2026-09-28T21:45:07.638Z",
+  updatedAt: "2026-09-28T21:45:10.000Z",
 } as const satisfies Place

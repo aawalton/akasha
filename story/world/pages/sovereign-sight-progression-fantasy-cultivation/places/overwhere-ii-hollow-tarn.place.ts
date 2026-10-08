@@ -66,4 +66,6 @@ export const overwhereIiHollowTarn = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-29T12:22:29.043Z",
+  updatedAt: "2026-09-30T19:47:19.000Z",
 } as const satisfies Place

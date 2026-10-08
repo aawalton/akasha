@@ -45,4 +45,6 @@ export const otherwhereIxBrassRoad = {
       knowers: ["lore-disclosure/game-master"],
     },
   ],
+  createdAt: "2026-09-28T22:59:46.990Z",
+  updatedAt: "2026-09-28T23:08:53.000Z",
 } as const satisfies Place

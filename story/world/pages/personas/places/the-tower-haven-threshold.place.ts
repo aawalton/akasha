@@ -24,4 +24,6 @@ export const theTowerHavenThreshold = {
       knowers: ["lore-disclosure/game-master", "character-player/the-tower-alan"],
     },
   ],
+  createdAt: "2026-09-24T16:30:16.037Z",
+  updatedAt: "2026-09-28T14:04:08.000Z",
 } as const satisfies Place

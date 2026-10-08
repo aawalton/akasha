@@ -64,4 +64,6 @@ export const otherwhereIiiChicago = {
       knowers: ["lore-disclosure/game-master"],
     },
   ],
+  createdAt: "2026-09-28T21:10:58.832Z",
+  updatedAt: "2026-09-28T21:12:14.000Z",
 } as const satisfies Place

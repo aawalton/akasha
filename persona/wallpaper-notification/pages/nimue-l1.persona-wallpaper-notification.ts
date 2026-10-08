@@ -7,4 +7,6 @@ export const nimueL1 = {
   title: "nimue L01 wallpaper notified",
   persona: "persona/nimue",
   relationshipLevel: "closeness-level/level-1",
+  createdAt: "2026-06-29T14:39:31.001Z",
+  updatedAt: "2026-09-22T19:35:24.000Z",
 } as const satisfies PersonaWallpaperNotification

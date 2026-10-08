@@ -97,4 +97,6 @@ export const overwhereIGreyfenFord = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-29T12:03:06.426Z",
+  updatedAt: "2026-09-30T08:59:27.000Z",
 } as const satisfies Place

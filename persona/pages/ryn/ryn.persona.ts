@@ -28,4 +28,6 @@ export const ryn = {
   anchor: "image/image-a99e54077778133a",
   covers: ["image/image-a99e54077778133a"],
   wallpapers: ["image/image-49a3f158469e1e1e"],
+  createdAt: "2026-07-03T12:53:30.479Z",
+  updatedAt: "2026-09-25T13:50:58.000Z",
 } as const satisfies Persona

@@ -72,4 +72,6 @@ export const emberdeepSecondLevel = {
       ],
     },
   ],
+  createdAt: "2026-10-02T21:29:39.409Z",
+  updatedAt: "2026-10-02T21:43:15.000Z",
 } as const satisfies Place

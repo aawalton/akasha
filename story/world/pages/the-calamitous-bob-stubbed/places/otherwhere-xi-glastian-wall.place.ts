@@ -81,4 +81,6 @@ export const otherwhereXiGlastianWall = {
       knowers: ["lore-disclosure/game-master"],
     },
   ],
+  createdAt: "2026-09-29T00:16:18.727Z",
+  updatedAt: "2026-09-29T00:16:30.000Z",
 } as const satisfies Place

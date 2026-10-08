@@ -45,4 +45,6 @@ export const overwhereIiWatchCottage = {
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
   ],
+  createdAt: "2026-09-30T19:48:36.219Z",
+  updatedAt: "2026-09-30T21:04:43.000Z",
 } as const satisfies Place

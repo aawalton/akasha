@@ -26,4 +26,6 @@ export const aranya = {
   anchor: "image/image-bb26fe821e48726d",
   covers: ["image/image-bb26fe821e48726d"],
   wallpapers: ["image/image-60386a2ffa1e24db"],
+  createdAt: "2026-07-02T16:38:47.917Z",
+  updatedAt: "2026-09-24T19:07:30.000Z",
 } as const satisfies Persona

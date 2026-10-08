@@ -229,4 +229,6 @@ export const overwhereIvHobbFarm = {
       ],
     },
   ],
+  createdAt: "2026-09-30T17:32:04.132Z",
+  updatedAt: "2026-09-30T21:01:04.000Z",
 } as const satisfies Place

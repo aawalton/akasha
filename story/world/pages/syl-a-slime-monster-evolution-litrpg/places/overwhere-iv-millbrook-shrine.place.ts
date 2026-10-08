@@ -165,4 +165,6 @@ export const overwhereIvMillbrookShrine = {
       knowers: ["lore-disclosure/game-master"],
     },
   ],
+  createdAt: "2026-09-30T22:32:39.116Z",
+  updatedAt: "2026-10-02T15:34:20.000Z",
 } as const satisfies Place

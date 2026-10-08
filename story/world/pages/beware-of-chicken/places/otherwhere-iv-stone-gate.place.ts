@@ -25,4 +25,6 @@ export const otherwhereIvStoneGate = {
       knowers: ["lore-disclosure/game-master"],
     },
   ],
+  createdAt: "2026-09-28T22:06:32.534Z",
+  updatedAt: "2026-09-28T22:06:35.000Z",
 } as const satisfies Place

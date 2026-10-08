@@ -97,4 +97,6 @@ export const otherwhereXTheSheaf = {
     },
   ],
   exits: [{ to: "place/otherwhere-x-harrow", way: "out the front door onto the green" }],
+  createdAt: "2026-09-29T01:18:36.149Z",
+  updatedAt: "2026-10-03T19:45:33.000Z",
 } as const satisfies Place

@@ -9,4 +9,6 @@ export const innworldVisitorPageTypeNav = {
   target: "nav",
   deed: ["access-deed/read-some"],
   narrow: { key: "app", is: "web-app/innworld-web" },
+  createdAt: "2026-09-25T15:15:02.012Z",
+  updatedAt: "2026-09-25T15:15:04.000Z",
 } as const satisfies PersonAccess

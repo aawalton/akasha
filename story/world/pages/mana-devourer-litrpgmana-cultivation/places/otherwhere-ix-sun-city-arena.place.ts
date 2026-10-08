@@ -86,4 +86,6 @@ export const otherwhereIxSunCityArena = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-28T23:01:46.830Z",
+  updatedAt: "2026-09-28T23:01:50.000Z",
 } as const satisfies Place

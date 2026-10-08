@@ -33,4 +33,6 @@ export const overwhereIvOuteatusKingdom = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-29T12:40:28.571Z",
+  updatedAt: "2026-09-29T12:40:31.000Z",
 } as const satisfies Place

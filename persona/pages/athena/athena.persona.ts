@@ -26,4 +26,6 @@ export const athena = {
   anchor: "image/image-b9f2b7ede489c5c3",
   covers: ["image/image-b191b1454013033e"],
   wallpapers: ["image/image-19ca0ac7d4828e1f", "image/image-a23d1c5f30ff01d1"],
+  createdAt: "2026-07-02T14:16:25.801Z",
+  updatedAt: "2026-09-24T19:07:30.000Z",
 } as const satisfies Persona

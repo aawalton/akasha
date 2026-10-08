@@ -285,4 +285,6 @@ export const otherwhereICoreChamber = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-27T14:43:27.460Z",
+  updatedAt: "2026-09-28T23:03:13.000Z",
 } as const satisfies Place

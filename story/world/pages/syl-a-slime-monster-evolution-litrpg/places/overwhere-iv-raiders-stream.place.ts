@@ -169,4 +169,6 @@ export const overwhereIvRaidersStream = {
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
     },
   ],
+  createdAt: "2026-10-02T15:52:38.695Z",
+  updatedAt: "2026-10-02T17:13:36.000Z",
 } as const satisfies Place

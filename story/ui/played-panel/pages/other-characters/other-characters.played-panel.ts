@@ -12,4 +12,6 @@ export const otherCharacters = {
   decisions: [
     { decisionKind: "decision-kind/stopgap", statement: "A story may still name this panel." },
   ],
+  createdAt: "2026-09-28T13:06:27.258Z",
+  updatedAt: "2026-10-03T19:44:38.000Z",
 } as const satisfies PlayedPanel

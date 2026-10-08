@@ -10,4 +10,6 @@ export const aine20260724 = {
   value: "value/wealth",
   icon: "file-text",
   advanceCount: 3,
+  createdAt: "2026-07-24T14:58:12.232Z",
+  updatedAt: "2026-09-22T13:16:26.000Z",
 } as const satisfies PersonaCraftDay

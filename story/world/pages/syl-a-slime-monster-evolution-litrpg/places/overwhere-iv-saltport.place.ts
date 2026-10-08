@@ -77,4 +77,6 @@ export const overwhereIvSaltport = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-29T12:36:46.605Z",
+  updatedAt: "2026-09-29T12:36:49.000Z",
 } as const satisfies Place

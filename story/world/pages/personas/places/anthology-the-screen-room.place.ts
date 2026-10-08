@@ -7,4 +7,6 @@ export const anthologyTheScreenRoom = {
   title: "The Screen Room",
   world: "world/personas",
   facts: [],
+  createdAt: "2026-10-03T20:15:06.738Z",
+  updatedAt: "2026-10-03T20:15:09.000Z",
 } as const satisfies Place

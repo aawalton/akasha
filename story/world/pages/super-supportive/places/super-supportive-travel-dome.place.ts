@@ -8,4 +8,6 @@ export const superSupportiveTravelDome = {
   world: "world/super-supportive",
   within: "place/super-supportive-moon-thegund",
   secrets: "jsonl",
+  createdAt: "2026-09-28T21:50:26.697Z",
+  updatedAt: "2026-09-28T21:50:30.000Z",
 } as const satisfies Place

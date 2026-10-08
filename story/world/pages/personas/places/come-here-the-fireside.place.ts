@@ -7,4 +7,6 @@ export const comeHereTheFireside = {
   title: "The Fireside",
   world: "world/personas",
   facts: [],
+  createdAt: "2026-10-03T20:22:28.586Z",
+  updatedAt: "2026-10-03T20:22:31.000Z",
 } as const satisfies Place

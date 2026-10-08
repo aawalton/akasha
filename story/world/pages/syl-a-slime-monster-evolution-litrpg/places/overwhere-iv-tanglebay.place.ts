@@ -81,4 +81,6 @@ export const overwhereIvTanglebay = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-29T12:38:40.417Z",
+  updatedAt: "2026-09-29T12:38:43.000Z",
 } as const satisfies Place

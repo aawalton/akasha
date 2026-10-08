@@ -113,4 +113,6 @@ export const otherwhereViiiCarrowgate = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-28T22:35:43.091Z",
+  updatedAt: "2026-09-29T00:32:05.000Z",
 } as const satisfies Place

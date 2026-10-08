@@ -16,4 +16,6 @@ export const nounGroup = {
         "A noun group takes one preposition phrase and never two, so no phrase has a second parse.",
     },
   ],
+  createdAt: "2026-09-21T19:43:48.955Z",
+  updatedAt: "2026-09-25T15:41:48.000Z",
 } as const satisfies PhraseKind

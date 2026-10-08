@@ -93,4 +93,6 @@ export const otherwhereXTarrantFord = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-28T23:56:30.399Z",
+  updatedAt: "2026-09-29T04:12:26.000Z",
 } as const satisfies Place

@@ -106,4 +106,6 @@ export const otherwhereXHarrowMile = {
       direction: "north",
     },
   ],
+  createdAt: "2026-09-28T23:36:25.846Z",
+  updatedAt: "2026-09-29T00:23:18.000Z",
 } as const satisfies Place

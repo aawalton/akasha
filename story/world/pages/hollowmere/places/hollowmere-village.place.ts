@@ -120,4 +120,6 @@ export const hollowmereVillage = {
       ],
     },
   ],
+  createdAt: "2026-10-02T16:29:38.806Z",
+  updatedAt: "2026-10-03T00:40:23.000Z",
 } as const satisfies Place

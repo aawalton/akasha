@@ -134,4 +134,6 @@ export const fairweatherUnderbloom = {
       ],
     },
   ],
+  createdAt: "2026-10-04T01:47:41.832Z",
+  updatedAt: "2026-10-04T15:38:17.000Z",
 } as const satisfies Place

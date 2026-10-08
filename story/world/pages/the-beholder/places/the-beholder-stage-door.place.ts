@@ -7,4 +7,6 @@ export const theBeholderStageDoor = {
   title: "The Stage Door",
   world: "world/the-beholder",
   facts: [],
+  createdAt: "2026-10-03T19:13:22.211Z",
+  updatedAt: "2026-10-03T19:13:25.000Z",
 } as const satisfies Place

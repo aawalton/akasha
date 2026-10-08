@@ -30,4 +30,6 @@ export const otherwhereIxDrathokOffice = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-28T23:02:55.495Z",
+  updatedAt: "2026-09-28T23:02:59.000Z",
 } as const satisfies Place

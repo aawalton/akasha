@@ -26,4 +26,6 @@ export const natalie = {
   anchor: "image/image-8f525ca4ec992468",
   covers: ["image/image-8f525ca4ec992468"],
   wallpapers: ["image/image-578c4423d4a8b747"],
+  createdAt: "2026-06-26T14:53:48.546Z",
+  updatedAt: "2026-09-24T19:07:30.000Z",
 } as const satisfies Persona

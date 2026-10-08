@@ -125,4 +125,6 @@ export const fairweatherOldTollBridge = {
       ],
     },
   ],
+  createdAt: "2026-10-06T11:50:50.937Z",
+  updatedAt: "2026-10-06T14:32:33.000Z",
 } as const satisfies Place

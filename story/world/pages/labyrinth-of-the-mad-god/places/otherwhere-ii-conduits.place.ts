@@ -49,4 +49,6 @@ export const otherwhereIiConduits = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-28T20:39:49.949Z",
+  updatedAt: "2026-09-28T22:38:17.000Z",
 } as const satisfies Place

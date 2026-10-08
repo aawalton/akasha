@@ -24,4 +24,6 @@ export const shaestrel = {
   desktopWallpaper: "image/image-caa3d821e7b7cd28",
   mobileWallpaper: "image/image-53539502b9dffc84",
   wallpapers: ["image/image-caa3d821e7b7cd28"],
+  createdAt: "2026-07-24T17:42:04.134Z",
+  updatedAt: "2026-09-24T19:07:30.000Z",
 } as const satisfies Persona

@@ -29,4 +29,6 @@ export const aria = {
     "image/image-98f0f2cfca3ff096",
     "image/image-c1c455e374ce026f",
   ],
+  createdAt: "2026-06-22T16:46:52.196Z",
+  updatedAt: "2026-09-24T19:07:30.000Z",
 } as const satisfies Persona

@@ -394,4 +394,6 @@ export const otherwhereViiiTheInstitute = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-29T01:40:55.195Z",
+  updatedAt: "2026-10-03T19:36:34.000Z",
 } as const satisfies Place

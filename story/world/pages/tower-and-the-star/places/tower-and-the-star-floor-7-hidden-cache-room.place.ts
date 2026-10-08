@@ -7,4 +7,6 @@ export const towerAndTheStarFloor7HiddenCacheRoom = {
   title: "Floor 7: Hidden cache room",
   world: "world/tower-and-the-star",
   facts: [],
+  createdAt: "2026-10-03T19:33:15.577Z",
+  updatedAt: "2026-10-03T19:33:18.000Z",
 } as const satisfies Place

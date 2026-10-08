@@ -7,4 +7,6 @@ export const theDungeonOfOneThousandDeathsTheCrucible = {
   title: "The Crucible",
   world: "world/the-dungeon-of-one-thousand-deaths",
   facts: [],
+  createdAt: "2026-10-03T19:34:05.865Z",
+  updatedAt: "2026-10-03T19:34:09.000Z",
 } as const satisfies Place

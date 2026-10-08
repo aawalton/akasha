@@ -17,4 +17,6 @@ export const otherwhereTheLibraryPlayerCharacter = {
         "The sheet shows stats once the story has shown a stat, resource, species, class or status.",
     },
   ],
+  createdAt: "2026-09-28T13:06:27.259Z",
+  updatedAt: "2026-10-03T19:44:38.000Z",
 } as const satisfies PlayedPanel

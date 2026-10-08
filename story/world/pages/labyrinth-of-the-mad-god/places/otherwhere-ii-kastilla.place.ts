@@ -17,4 +17,6 @@ export const otherwhereIiKastilla = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-28T20:34:38.228Z",
+  updatedAt: "2026-09-28T22:27:15.000Z",
 } as const satisfies Place

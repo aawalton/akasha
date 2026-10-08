@@ -49,4 +49,6 @@ export const otherwhereIiTowerOfRizzen = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-28T20:35:32.895Z",
+  updatedAt: "2026-09-28T22:27:15.000Z",
 } as const satisfies Place

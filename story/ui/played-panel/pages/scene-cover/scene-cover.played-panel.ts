@@ -25,4 +25,6 @@ export const sceneCover = {
         "A story picturing every beat shows here the picture of the beat being read, as well.",
     },
   ],
+  createdAt: "2026-09-28T12:30:48.168Z",
+  updatedAt: "2026-10-04T09:32:44.000Z",
 } as const satisfies PlayedPanel

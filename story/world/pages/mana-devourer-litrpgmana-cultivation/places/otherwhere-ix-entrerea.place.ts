@@ -28,4 +28,6 @@ export const otherwhereIxEntrerea = {
       knowers: ["lore-disclosure/game-master"],
     },
   ],
+  createdAt: "2026-09-28T23:00:10.179Z",
+  updatedAt: "2026-09-28T23:00:16.000Z",
 } as const satisfies Place

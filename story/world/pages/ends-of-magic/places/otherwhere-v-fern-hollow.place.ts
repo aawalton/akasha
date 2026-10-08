@@ -213,4 +213,6 @@ export const otherwhereVFernHollow = {
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-v-nala"],
     },
   ],
+  createdAt: "2026-09-28T21:20:57.450Z",
+  updatedAt: "2026-09-28T22:31:25.000Z",
 } as const satisfies Place

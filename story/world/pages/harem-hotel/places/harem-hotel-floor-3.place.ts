@@ -186,4 +186,6 @@ export const haremHotelFloor3 = {
       ],
     },
   ],
+  createdAt: "2026-09-29T04:43:10.759Z",
+  updatedAt: "2026-09-29T04:52:57.000Z",
 } as const satisfies Place

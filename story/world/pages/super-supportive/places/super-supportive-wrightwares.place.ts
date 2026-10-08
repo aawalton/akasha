@@ -8,4 +8,6 @@ export const superSupportiveWrightwares = {
   world: "world/super-supportive",
   within: "place/super-supportive-anesidora",
   secrets: "jsonl",
+  createdAt: "2026-09-28T21:55:56.746Z",
+  updatedAt: "2026-09-28T21:55:59.000Z",
 } as const satisfies Place

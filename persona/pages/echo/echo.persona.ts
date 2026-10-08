@@ -26,4 +26,6 @@ export const echo = {
   anchor: "image/image-b76ab03f19af0c86",
   covers: ["image/image-b76ab03f19af0c86"],
   wallpapers: ["image/image-6224e383f0177065"],
+  createdAt: "2026-07-04T13:45:42.796Z",
+  updatedAt: "2026-09-27T13:13:24.000Z",
 } as const satisfies Persona

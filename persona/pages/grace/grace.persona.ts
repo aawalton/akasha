@@ -26,4 +26,6 @@ export const grace = {
   anchor: "image/image-ab15122aceb34bb8",
   covers: ["image/image-ab15122aceb34bb8"],
   wallpapers: ["image/image-20e1e3d6338e47cc"],
+  createdAt: "2026-06-30T14:45:04.797Z",
+  updatedAt: "2026-09-24T19:07:30.000Z",
 } as const satisfies Persona

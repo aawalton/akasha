@@ -346,4 +346,6 @@ export const overwhereIvMillbrookAdventurersHall = {
       knowers: ["lore-disclosure/game-master"],
     },
   ],
+  createdAt: "2026-09-29T12:37:34.866Z",
+  updatedAt: "2026-10-03T11:25:38.000Z",
 } as const satisfies Place

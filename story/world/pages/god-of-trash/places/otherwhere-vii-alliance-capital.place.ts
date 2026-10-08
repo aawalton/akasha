@@ -36,4 +36,6 @@ export const otherwhereViiAllianceCapital = {
       knowers: ["lore-disclosure/game-master"],
     },
   ],
+  createdAt: "2026-09-28T23:02:22.817Z",
+  updatedAt: "2026-09-28T23:02:27.000Z",
 } as const satisfies Place

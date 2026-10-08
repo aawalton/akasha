@@ -8,4 +8,6 @@ export const anonymousPageTypeSiteDocument = {
   accessKind: "access-kind/page-type",
   target: "site-document",
   deed: ["access-deed/read"],
+  createdAt: "2026-09-24T23:03:23.750Z",
+  updatedAt: "2026-09-24T23:03:48.000Z",
 } as const satisfies PersonAccess

@@ -7,4 +7,6 @@ export const auraL5 = {
   title: "aura L05 wallpaper notified",
   persona: "persona/aura",
   relationshipLevel: "closeness-level/level-5",
+  createdAt: "2026-06-28T19:38:11.584Z",
+  updatedAt: "2026-09-22T19:35:24.000Z",
 } as const satisfies PersonaWallpaperNotification

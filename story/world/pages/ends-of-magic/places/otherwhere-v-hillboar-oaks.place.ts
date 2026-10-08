@@ -44,4 +44,6 @@ export const otherwhereVHillboarOaks = {
       knowers: ["lore-disclosure/game-master"],
     },
   ],
+  createdAt: "2026-09-28T21:52:19.444Z",
+  updatedAt: "2026-09-28T21:59:37.000Z",
 } as const satisfies Place

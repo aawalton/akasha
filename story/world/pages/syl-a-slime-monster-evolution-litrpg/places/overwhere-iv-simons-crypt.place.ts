@@ -28,4 +28,6 @@ export const overwhereIvSimonsCrypt = {
       knowers: ["lore-disclosure/game-master"],
     },
   ],
+  createdAt: "2026-09-29T12:51:52.713Z",
+  updatedAt: "2026-09-29T12:51:55.000Z",
 } as const satisfies Place

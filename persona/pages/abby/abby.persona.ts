@@ -24,4 +24,6 @@ export const abby = {
   anchor: "image/image-2cd145459966657a",
   covers: ["image/image-2cd145459966657a"],
   wallpapers: ["image/image-7014867e49247f31"],
+  createdAt: "2026-06-11T18:37:22.668Z",
+  updatedAt: "2026-09-24T19:07:30.000Z",
 } as const satisfies Persona

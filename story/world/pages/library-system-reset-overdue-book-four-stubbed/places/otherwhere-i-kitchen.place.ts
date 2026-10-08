@@ -73,4 +73,6 @@ export const otherwhereIKitchen = {
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-i-alan"],
     },
   ],
+  createdAt: "2026-09-28T00:10:45.299Z",
+  updatedAt: "2026-09-28T23:03:13.000Z",
 } as const satisfies Place

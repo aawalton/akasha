@@ -27,4 +27,6 @@ export const lali = {
   anchor: "image/image-ec69b5a855800bb8",
   covers: ["image/image-bd3140298ad22250"],
   wallpapers: ["image/image-2d1017741de9b858"],
+  createdAt: "2026-06-27T18:05:42.468Z",
+  updatedAt: "2026-09-24T19:07:30.000Z",
 } as const satisfies Persona

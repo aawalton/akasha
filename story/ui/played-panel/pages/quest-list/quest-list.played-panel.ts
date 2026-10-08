@@ -9,4 +9,6 @@ export const questList = {
   drawn: "js",
   place: "panel-place/aside",
   position: 60,
+  createdAt: "2026-09-21T15:43:43.094Z",
+  updatedAt: "2026-09-28T12:27:35.000Z",
 } as const satisfies PlayedPanel

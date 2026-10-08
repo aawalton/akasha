@@ -62,4 +62,6 @@ export const saltAndLamplightPenmorrow = {
       ],
     },
   ],
+  createdAt: "2026-10-02T14:36:28.984Z",
+  updatedAt: "2026-10-02T15:13:17.000Z",
 } as const satisfies Place

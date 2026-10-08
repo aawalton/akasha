@@ -9,4 +9,6 @@ export const innworldVisitorPageTypeWorldClass = {
   target: "world-class",
   deed: ["access-deed/read-some"],
   narrow: { key: "world", is: "world/the-wandering-inn" },
+  createdAt: "2026-09-21T21:54:11.555Z",
+  updatedAt: "2026-09-21T21:57:50.000Z",
 } as const satisfies PersonAccess

@@ -275,4 +275,6 @@ export const otherwhereViCharcoalCamp = {
       direction: "south",
     },
   ],
+  createdAt: "2026-09-29T01:32:38.737Z",
+  updatedAt: "2026-09-29T04:07:41.000Z",
 } as const satisfies Place

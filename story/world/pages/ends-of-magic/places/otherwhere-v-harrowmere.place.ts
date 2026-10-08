@@ -57,4 +57,6 @@ export const otherwhereVHarrowmere = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-28T21:52:19.443Z",
+  updatedAt: "2026-09-28T21:52:27.000Z",
 } as const satisfies Place

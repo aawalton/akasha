@@ -117,4 +117,6 @@ export const emberdeepFirstLevel = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-10-02T18:52:12.887Z",
+  updatedAt: "2026-10-02T20:11:56.000Z",
 } as const satisfies Place

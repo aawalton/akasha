@@ -38,4 +38,6 @@ export const overwhereIiiTheHollow = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-29T12:28:15.054Z",
+  updatedAt: "2026-10-03T11:03:43.000Z",
 } as const satisfies Place

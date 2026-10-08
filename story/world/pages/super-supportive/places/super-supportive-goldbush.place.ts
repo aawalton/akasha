@@ -7,4 +7,6 @@ export const superSupportiveGoldbush = {
   title: "Goldbush",
   world: "world/super-supportive",
   secrets: "jsonl",
+  createdAt: "2026-09-28T22:04:31.714Z",
+  updatedAt: "2026-09-28T22:04:35.000Z",
 } as const satisfies Place

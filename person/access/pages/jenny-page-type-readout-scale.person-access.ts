@@ -8,4 +8,6 @@ export const jennyPageTypeReadoutScale = {
   accessKind: "access-kind/page-type",
   target: "readout-scale",
   deed: ["access-deed/read"],
+  createdAt: "2026-09-21T17:40:42.954Z",
+  updatedAt: "2026-09-21T17:42:18.000Z",
 } as const satisfies PersonAccess

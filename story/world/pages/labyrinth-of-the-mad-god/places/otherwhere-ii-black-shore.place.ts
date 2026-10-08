@@ -85,4 +85,6 @@ export const otherwhereIiBlackShore = {
       knowers: ["lore-disclosure/game-master"],
     },
   ],
+  createdAt: "2026-09-28T19:36:24.691Z",
+  updatedAt: "2026-09-28T22:39:25.000Z",
 } as const satisfies Place

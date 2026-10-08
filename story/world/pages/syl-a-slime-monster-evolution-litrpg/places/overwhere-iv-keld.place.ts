@@ -78,4 +78,6 @@ export const overwhereIvKeld = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-29T12:39:15.843Z",
+  updatedAt: "2026-09-29T12:42:42.000Z",
 } as const satisfies Place

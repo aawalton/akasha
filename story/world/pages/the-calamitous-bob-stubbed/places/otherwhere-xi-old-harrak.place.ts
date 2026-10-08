@@ -97,4 +97,6 @@ export const otherwhereXiOldHarrak = {
       knowers: ["lore-disclosure/game-master"],
     },
   ],
+  createdAt: "2026-09-29T00:11:40.016Z",
+  updatedAt: "2026-09-29T00:11:52.000Z",
 } as const satisfies Place

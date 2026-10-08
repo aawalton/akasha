@@ -8,4 +8,6 @@ export const otherwhereIiiSouthboundRedLineCar = {
   world: "world/super-supportive",
   facts: [],
   within: "place/otherwhere-iii-chicago",
+  createdAt: "2026-10-03T19:38:50.898Z",
+  updatedAt: "2026-10-03T19:38:54.000Z",
 } as const satisfies Place

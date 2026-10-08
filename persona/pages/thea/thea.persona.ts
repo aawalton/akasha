@@ -26,4 +26,6 @@ export const thea = {
   anchor: "image/image-11cb3d413b779707",
   covers: ["image/image-11cb3d413b779707"],
   wallpapers: ["image/image-18462682cbc2697e"],
+  createdAt: "2026-07-03T15:12:28.626Z",
+  updatedAt: "2026-09-24T19:07:30.000Z",
 } as const satisfies Persona

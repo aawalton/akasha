@@ -247,4 +247,6 @@ export const fairweatherBellmoorBarrow = {
       knowers: ["lore-disclosure/game-master", "character-player/fairweather-elsie"],
     },
   ],
+  createdAt: "2026-10-06T15:17:58.583Z",
+  updatedAt: "2026-10-06T20:05:18.000Z",
 } as const satisfies Place

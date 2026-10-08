@@ -114,4 +114,6 @@ export const otherwhereViiiTheWorkshop = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-29T03:28:30.279Z",
+  updatedAt: "2026-09-29T04:04:46.000Z",
 } as const satisfies Place

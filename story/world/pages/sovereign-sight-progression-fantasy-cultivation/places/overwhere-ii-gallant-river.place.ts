@@ -28,4 +28,6 @@ export const overwhereIiGallantRiver = {
       knowers: ["lore-disclosure/game-master"],
     },
   ],
+  createdAt: "2026-09-29T12:29:16.031Z",
+  updatedAt: "2026-09-29T12:29:18.000Z",
 } as const satisfies Place

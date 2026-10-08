@@ -138,4 +138,6 @@ export const superSupportiveArtonanConsulate4 = {
   ],
   within: "place/otherwhere-iii-chicago",
   secrets: "jsonl",
+  createdAt: "2026-09-28T21:43:56.678Z",
+  updatedAt: "2026-10-03T19:38:54.000Z",
 } as const satisfies Place

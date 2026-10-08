@@ -8,4 +8,6 @@ export const superSupportiveRapportSchool = {
   world: "world/super-supportive",
   within: "place/super-supportive-knight-rapport-1",
   secrets: "jsonl",
+  createdAt: "2026-09-28T22:01:37.906Z",
+  updatedAt: "2026-09-28T22:01:40.000Z",
 } as const satisfies Place

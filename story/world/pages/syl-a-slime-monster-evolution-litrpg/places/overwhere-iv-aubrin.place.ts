@@ -37,4 +37,6 @@ export const overwhereIvAubrin = {
       ],
     },
   ],
+  createdAt: "2026-09-29T12:39:37.735Z",
+  updatedAt: "2026-09-30T11:14:20.000Z",
 } as const satisfies Place

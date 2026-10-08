@@ -8,4 +8,6 @@ export const superSupportiveYipalckResearchFacility = {
   world: "world/super-supportive",
   within: "place/super-supportive-moon-thegund",
   secrets: "jsonl",
+  createdAt: "2026-09-28T21:45:22.468Z",
+  updatedAt: "2026-09-28T21:45:25.000Z",
 } as const satisfies Place

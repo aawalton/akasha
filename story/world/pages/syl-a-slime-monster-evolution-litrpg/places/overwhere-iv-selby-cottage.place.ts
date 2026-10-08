@@ -29,4 +29,6 @@ export const overwhereIvSelbyCottage = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-29T12:38:56.201Z",
+  updatedAt: "2026-09-29T12:38:59.000Z",
 } as const satisfies Place

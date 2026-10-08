@@ -27,4 +27,6 @@ export const zadi = {
   anchor: "image/image-d30da57708d85cb6",
   covers: ["image/image-d30da57708d85cb6"],
   wallpapers: ["image/image-0a4eb7f00959fb2a"],
+  createdAt: "2026-06-19T22:31:25.730Z",
+  updatedAt: "2026-09-24T19:07:30.000Z",
 } as const satisfies Persona

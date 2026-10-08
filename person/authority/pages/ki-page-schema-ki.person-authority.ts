@@ -7,4 +7,6 @@ export const kiPageSchemaKi = {
   person: "person/ki",
   authorityKind: "authority-kind/page-schema",
   target: "ki-*",
+  createdAt: "2026-08-30T19:44:45.320Z",
+  updatedAt: "2026-09-15T16:11:05.000Z",
 } as const satisfies PersonAuthority

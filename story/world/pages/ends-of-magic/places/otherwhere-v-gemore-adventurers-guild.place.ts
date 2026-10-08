@@ -18,4 +18,6 @@ export const otherwhereVGemoreAdventurersGuild = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-28T21:38:28.862Z",
+  updatedAt: "2026-09-28T21:38:33.000Z",
 } as const satisfies Place

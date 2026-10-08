@@ -341,4 +341,6 @@ export const otherwhereViHollowStream = {
       direction: "south",
     },
   ],
+  createdAt: "2026-09-28T22:48:38.189Z",
+  updatedAt: "2026-09-29T00:42:30.000Z",
 } as const satisfies Place

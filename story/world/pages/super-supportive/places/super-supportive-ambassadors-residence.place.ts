@@ -8,4 +8,6 @@ export const superSupportiveAmbassadorsResidence = {
   world: "world/super-supportive",
   within: "place/super-supportive-punta-de-la-luna",
   secrets: "jsonl",
+  createdAt: "2026-09-28T21:57:02.683Z",
+  updatedAt: "2026-09-28T21:57:05.000Z",
 } as const satisfies Place

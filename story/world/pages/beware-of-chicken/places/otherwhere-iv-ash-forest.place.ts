@@ -26,4 +26,6 @@ export const otherwhereIvAshForest = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-28T22:06:50.199Z",
+  updatedAt: "2026-09-28T22:06:53.000Z",
 } as const satisfies Place

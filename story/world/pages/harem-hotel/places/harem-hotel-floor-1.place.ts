@@ -109,4 +109,6 @@ export const haremHotelFloor1 = {
       knowers: ["lore-disclosure/game-master"],
     },
   ],
+  createdAt: "2026-09-28T13:34:12.293Z",
+  updatedAt: "2026-09-28T20:13:02.000Z",
 } as const satisfies Place

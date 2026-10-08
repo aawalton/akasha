@@ -126,4 +126,6 @@ export const otherwhereIvDuelingPeaks = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-28T22:05:41.407Z",
+  updatedAt: "2026-09-28T22:05:44.000Z",
 } as const satisfies Place

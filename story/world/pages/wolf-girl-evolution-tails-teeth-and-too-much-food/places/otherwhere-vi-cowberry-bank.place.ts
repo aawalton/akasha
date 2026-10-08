@@ -68,4 +68,6 @@ export const otherwhereViCowberryBank = {
       direction: "south",
     },
   ],
+  createdAt: "2026-09-29T00:46:04.223Z",
+  updatedAt: "2026-09-29T01:01:26.000Z",
 } as const satisfies Place

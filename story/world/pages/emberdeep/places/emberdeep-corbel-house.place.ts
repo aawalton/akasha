@@ -99,4 +99,6 @@ export const emberdeepCorbelHouse = {
       ],
     },
   ],
+  createdAt: "2026-10-02T18:01:06.192Z",
+  updatedAt: "2026-10-02T21:23:13.000Z",
 } as const satisfies Place

@@ -33,4 +33,6 @@ export const otherwhereXiSandsongCapital = {
       knowers: ["lore-disclosure/game-master"],
     },
   ],
+  createdAt: "2026-09-29T00:24:00.662Z",
+  updatedAt: "2026-09-29T00:24:10.000Z",
 } as const satisfies Place

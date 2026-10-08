@@ -7,4 +7,6 @@ export const thePlacesSheCarriesTransitionWoodland = {
   title: "Transition Woodland",
   world: "world/the-places-she-carries",
   facts: [],
+  createdAt: "2026-10-03T19:20:57.190Z",
+  updatedAt: "2026-10-03T19:21:00.000Z",
 } as const satisfies Place

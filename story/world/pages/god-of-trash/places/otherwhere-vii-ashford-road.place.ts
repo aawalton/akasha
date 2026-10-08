@@ -64,4 +64,6 @@ export const otherwhereViiAshfordRoad = {
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-vii-nala"],
     },
   ],
+  createdAt: "2026-09-28T22:59:20.032Z",
+  updatedAt: "2026-09-28T23:27:05.000Z",
 } as const satisfies Place

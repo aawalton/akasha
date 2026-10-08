@@ -56,4 +56,6 @@ export const overwhereIRiverForests = {
       knowers: ["lore-disclosure/game-master"],
     },
   ],
+  createdAt: "2026-09-29T12:31:16.040Z",
+  updatedAt: "2026-09-29T12:31:18.000Z",
 } as const satisfies Place

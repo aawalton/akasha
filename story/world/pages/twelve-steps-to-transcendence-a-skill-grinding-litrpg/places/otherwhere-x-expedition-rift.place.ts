@@ -85,4 +85,6 @@ export const otherwhereXExpeditionRift = {
       knowers: ["lore-disclosure/game-master"],
     },
   ],
+  createdAt: "2026-09-29T00:06:40.153Z",
+  updatedAt: "2026-09-29T00:06:57.000Z",
 } as const satisfies Place

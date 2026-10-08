@@ -56,4 +56,6 @@ export const overwhereIvPeggy = {
       knowers: ["lore-disclosure/game-master"],
     },
   ],
+  createdAt: "2026-09-29T12:37:01.864Z",
+  updatedAt: "2026-09-29T12:37:05.000Z",
 } as const satisfies Place

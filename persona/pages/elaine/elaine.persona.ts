@@ -27,4 +27,6 @@ export const elaine = {
   anchor: "image/image-e0f2512734f4a5c6",
   covers: ["image/image-e0f2512734f4a5c6"],
   wallpapers: ["image/image-c3f3f948e96081b0"],
+  createdAt: "2026-06-26T17:30:24.251Z",
+  updatedAt: "2026-09-24T19:07:30.000Z",
 } as const satisfies Persona

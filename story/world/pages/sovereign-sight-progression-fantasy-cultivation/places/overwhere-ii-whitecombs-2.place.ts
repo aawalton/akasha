@@ -68,4 +68,6 @@ export const overwhereIiWhitecombs2 = {
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
   ],
+  createdAt: "2026-10-03T12:24:06.688Z",
+  updatedAt: "2026-10-03T12:40:25.000Z",
 } as const satisfies Place

@@ -68,4 +68,6 @@ export const overwhereIvNorthWestPastures = {
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
     },
   ],
+  createdAt: "2026-10-02T17:40:29.394Z",
+  updatedAt: "2026-10-02T21:09:48.000Z",
 } as const satisfies Place

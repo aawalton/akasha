@@ -50,4 +50,6 @@ export const otherwhereIvCrystalHill = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-28T22:07:21.612Z",
+  updatedAt: "2026-09-28T22:07:27.000Z",
 } as const satisfies Place

@@ -44,4 +44,6 @@ export const otherwhereIvWillowBend = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-28T21:17:00.395Z",
+  updatedAt: "2026-09-28T22:03:07.000Z",
 } as const satisfies Place

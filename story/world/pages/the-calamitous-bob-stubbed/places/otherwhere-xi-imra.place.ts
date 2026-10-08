@@ -68,4 +68,6 @@ export const otherwhereXiImra = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-29T00:01:46.079Z",
+  updatedAt: "2026-10-03T19:55:25.000Z",
 } as const satisfies Place

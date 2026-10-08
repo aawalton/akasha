@@ -18,4 +18,6 @@ export const akasha = {
   anchor: "image/image-8105e06772c7004e",
   cover: "image/image-8105e06772c7004e",
   covers: ["image/image-8105e06772c7004e"],
+  createdAt: "2026-08-28T17:43:34.817Z",
+  updatedAt: "2026-09-26T16:47:43.000Z",
 } as const satisfies Persona

@@ -37,4 +37,6 @@ export const otherwhereXiSkyMirrorLake = {
       knowers: ["lore-disclosure/game-master"],
     },
   ],
+  createdAt: "2026-09-29T00:22:19.258Z",
+  updatedAt: "2026-09-29T00:22:22.000Z",
 } as const satisfies Place

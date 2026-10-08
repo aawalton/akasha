@@ -44,4 +44,6 @@ export const overwhereIiTeyr = {
       knowers: ["lore-disclosure/game-master"],
     },
   ],
+  createdAt: "2026-09-29T12:28:12.465Z",
+  updatedAt: "2026-09-29T12:28:15.000Z",
 } as const satisfies Place

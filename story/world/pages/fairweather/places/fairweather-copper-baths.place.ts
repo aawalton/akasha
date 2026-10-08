@@ -74,4 +74,6 @@ export const fairweatherCopperBaths = {
       ],
     },
   ],
+  createdAt: "2026-10-04T15:39:28.537Z",
+  updatedAt: "2026-10-04T16:16:12.000Z",
 } as const satisfies Place

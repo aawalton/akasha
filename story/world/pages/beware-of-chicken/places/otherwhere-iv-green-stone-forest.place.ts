@@ -33,4 +33,6 @@ export const otherwhereIvGreenStoneForest = {
       knowers: ["lore-disclosure/game-master"],
     },
   ],
+  createdAt: "2026-09-28T22:07:01.978Z",
+  updatedAt: "2026-09-28T22:07:04.000Z",
 } as const satisfies Place

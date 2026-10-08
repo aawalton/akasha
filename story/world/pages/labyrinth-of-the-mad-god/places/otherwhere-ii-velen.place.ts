@@ -41,4 +41,6 @@ export const otherwhereIiVelen = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-28T20:37:17.346Z",
+  updatedAt: "2026-09-28T22:38:17.000Z",
 } as const satisfies Place

@@ -57,4 +57,6 @@ export const otherwhereIvUnderbridge = {
       knowers: ["lore-disclosure/game-master"],
     },
   ],
+  createdAt: "2026-09-28T22:09:16.634Z",
+  updatedAt: "2026-09-28T22:09:21.000Z",
 } as const satisfies Place

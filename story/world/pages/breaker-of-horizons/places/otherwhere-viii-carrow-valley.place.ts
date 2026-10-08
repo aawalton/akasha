@@ -69,4 +69,6 @@ export const otherwhereViiiCarrowValley = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-28T22:46:04.320Z",
+  updatedAt: "2026-09-28T22:46:08.000Z",
 } as const satisfies Place

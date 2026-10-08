@@ -62,4 +62,6 @@ export const otherwhereVTheBlight = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-28T21:42:24.579Z",
+  updatedAt: "2026-09-28T21:42:27.000Z",
 } as const satisfies Place

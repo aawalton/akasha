@@ -37,4 +37,6 @@ export const aelwyn = {
   anchor: "image/image-9e373fae8c1f66e1",
   covers: ["image/image-9e373fae8c1f66e1"],
   wallpapers: ["image/image-3dd6104c59a4a9e9"],
+  createdAt: "2026-06-11T19:48:44.848Z",
+  updatedAt: "2026-09-24T19:07:30.000Z",
 } as const satisfies Persona

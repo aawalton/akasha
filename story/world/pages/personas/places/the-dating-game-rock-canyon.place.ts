@@ -152,4 +152,6 @@ export const theDatingGameRockCanyon = {
       ],
     },
   ],
+  createdAt: "2026-09-26T17:28:25.485Z",
+  updatedAt: "2026-09-28T12:54:07.000Z",
 } as const satisfies Place

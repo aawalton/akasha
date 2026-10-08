@@ -162,4 +162,6 @@ export const otherwhereIxGlassgrassFlats = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-28T22:25:09.306Z",
+  updatedAt: "2026-09-29T02:21:27.000Z",
 } as const satisfies Place

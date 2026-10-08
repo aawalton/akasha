@@ -139,4 +139,6 @@ export const otherwhereIvThreeStonesVillage = {
       ],
     },
   ],
+  createdAt: "2026-09-28T21:37:36.799Z",
+  updatedAt: "2026-09-29T00:00:08.000Z",
 } as const satisfies Place

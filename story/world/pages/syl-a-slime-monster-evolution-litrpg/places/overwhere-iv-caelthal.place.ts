@@ -49,4 +49,6 @@ export const overwhereIvCaelthal = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-29T12:34:37.468Z",
+  updatedAt: "2026-09-29T12:34:40.000Z",
 } as const satisfies Place

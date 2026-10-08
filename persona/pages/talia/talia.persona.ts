@@ -26,4 +26,6 @@ export const talia = {
   anchor: "image/image-4c93b4d652cf20d4",
   covers: ["image/image-4c93b4d652cf20d4"],
   wallpapers: ["image/image-6c8e43b4613bffb8"],
+  createdAt: "2026-06-26T20:45:19.005Z",
+  updatedAt: "2026-09-24T19:07:30.000Z",
 } as const satisfies Persona

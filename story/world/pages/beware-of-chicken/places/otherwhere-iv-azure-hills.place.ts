@@ -66,4 +66,6 @@ export const otherwhereIvAzureHills = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-28T22:02:30.029Z",
+  updatedAt: "2026-09-28T22:02:32.000Z",
 } as const satisfies Place

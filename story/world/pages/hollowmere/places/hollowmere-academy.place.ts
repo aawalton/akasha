@@ -407,4 +407,6 @@ export const hollowmereAcademy = {
       ],
     },
   ],
+  createdAt: "2026-10-02T14:50:34.515Z",
+  updatedAt: "2026-10-02T21:04:58.000Z",
 } as const satisfies Place

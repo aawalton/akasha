@@ -8,4 +8,6 @@ export const emberdeepBrassKettle = {
   world: "world/emberdeep",
   within: "place/emberdeep-town",
   facts: [],
+  createdAt: "2026-10-03T19:14:09.151Z",
+  updatedAt: "2026-10-03T19:14:12.000Z",
 } as const satisfies Place

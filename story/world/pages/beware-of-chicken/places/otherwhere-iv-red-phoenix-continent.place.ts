@@ -57,4 +57,6 @@ export const otherwhereIvRedPhoenixContinent = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-28T22:01:52.539Z",
+  updatedAt: "2026-09-28T22:01:55.000Z",
 } as const satisfies Place

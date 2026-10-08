@@ -49,4 +49,6 @@ export const emberdeepDeep = {
       knowers: ["lore-disclosure/game-master", "character-other/emberdeep-wren"],
     },
   ],
+  createdAt: "2026-10-02T18:52:12.886Z",
+  updatedAt: "2026-10-02T19:57:23.000Z",
 } as const satisfies Place

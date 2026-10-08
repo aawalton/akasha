@@ -65,4 +65,6 @@ export const otherwhereIiiBelmontPlatform = {
     },
   ],
   within: "place/otherwhere-iii-chicago",
+  createdAt: "2026-09-28T21:10:58.831Z",
+  updatedAt: "2026-09-28T21:29:05.000Z",
 } as const satisfies Place

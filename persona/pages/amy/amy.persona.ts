@@ -27,4 +27,6 @@ export const amy = {
   anchor: "image/image-e878aec0e63b6951",
   covers: ["image/image-b300a8c9b29d219d"],
   wallpapers: ["image/image-2ded5e2761cc5cd5"],
+  createdAt: "2026-06-11T23:24:25.100Z",
+  updatedAt: "2026-09-25T13:50:26.000Z",
 } as const satisfies Persona

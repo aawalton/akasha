@@ -69,4 +69,6 @@ export const otherwhereXBrackwood = {
       direction: "south",
     },
   ],
+  createdAt: "2026-09-28T23:56:30.398Z",
+  updatedAt: "2026-09-28T23:56:34.000Z",
 } as const satisfies Place

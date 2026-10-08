@@ -18,4 +18,6 @@ export const theTowerGalleryNave = {
     },
     { to: "place/the-tower-gallery-dais", way: "the open dais ahead" },
   ],
+  createdAt: "2026-09-24T16:29:31.220Z",
+  updatedAt: "2026-09-28T14:04:08.000Z",
 } as const satisfies Place

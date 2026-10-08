@@ -60,4 +60,6 @@ export const encountersCabanaBayRoom2 = {
       ],
     },
   ],
+  createdAt: "2026-10-06T23:47:19.090Z",
+  updatedAt: "2026-10-07T01:26:33.000Z",
 } as const satisfies Place

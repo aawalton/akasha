@@ -32,4 +32,6 @@ export const overwhereIiHaverHill = {
       knowers: ["lore-disclosure/game-master"],
     },
   ],
+  createdAt: "2026-09-29T12:30:03.218Z",
+  updatedAt: "2026-09-29T12:46:48.000Z",
 } as const satisfies Place

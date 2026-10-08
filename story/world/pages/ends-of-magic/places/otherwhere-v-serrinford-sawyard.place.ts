@@ -45,4 +45,6 @@ export const otherwhereVSerrinfordSawyard = {
       knowers: ["lore-disclosure/game-master"],
     },
   ],
+  createdAt: "2026-09-28T21:50:37.511Z",
+  updatedAt: "2026-09-28T21:50:40.000Z",
 } as const satisfies Place

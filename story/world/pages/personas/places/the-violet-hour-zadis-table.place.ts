@@ -7,4 +7,6 @@ export const theVioletHourZadisTable = {
   title: "Zadi's Table",
   world: "world/personas",
   facts: [],
+  createdAt: "2026-10-03T20:31:54.782Z",
+  updatedAt: "2026-10-03T20:31:57.000Z",
 } as const satisfies Place

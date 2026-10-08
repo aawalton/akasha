@@ -20,4 +20,6 @@ export const overwhereIiHaydensPromontory = {
       knowers: ["lore-disclosure/game-master"],
     },
   ],
+  createdAt: "2026-09-29T12:29:39.042Z",
+  updatedAt: "2026-09-29T12:46:23.000Z",
 } as const satisfies Place

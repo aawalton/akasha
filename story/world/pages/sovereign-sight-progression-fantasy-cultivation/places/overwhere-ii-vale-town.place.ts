@@ -88,4 +88,6 @@ export const overwhereIiValeTown = {
       knowers: ["lore-disclosure/game-master"],
     },
   ],
+  createdAt: "2026-09-29T12:29:16.032Z",
+  updatedAt: "2026-09-29T12:46:00.000Z",
 } as const satisfies Place

@@ -21,4 +21,6 @@ export const otherwhereViiiGlenside = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-28T22:53:41.521Z",
+  updatedAt: "2026-09-28T22:53:54.000Z",
 } as const satisfies Place

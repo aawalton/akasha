@@ -13,4 +13,6 @@ export const otherwhereVSangradSealFortress = {
       knowers: ["lore-disclosure/game-master"],
     },
   ],
+  createdAt: "2026-09-28T21:46:41.077Z",
+  updatedAt: "2026-09-28T21:46:44.000Z",
 } as const satisfies Place

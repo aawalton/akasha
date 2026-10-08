@@ -10,4 +10,6 @@ export const theTowerFloor01 = {
   description:
     "A cold stone landing at the tower's base. Damp and lightless. The air tastes of old ash. One iron door, ajar.",
   exits: [{ to: "place/the-tower-floor-02", way: "ascending stair, open", direction: "up" }],
+  createdAt: "2026-09-24T16:28:52.259Z",
+  updatedAt: "2026-09-28T14:04:08.000Z",
 } as const satisfies Place

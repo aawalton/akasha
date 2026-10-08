@@ -8,4 +8,6 @@ export const superSupportiveIntakeComplex = {
   world: "world/super-supportive",
   within: "place/super-supportive-f-city",
   secrets: "jsonl",
+  createdAt: "2026-09-28T21:48:20.124Z",
+  updatedAt: "2026-09-28T21:48:23.000Z",
 } as const satisfies Place

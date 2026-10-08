@@ -170,4 +170,6 @@ export const climbFloor1 = {
       ],
     },
   ],
+  createdAt: "2026-10-01T21:27:24.767Z",
+  updatedAt: "2026-10-04T14:15:28.000Z",
 } as const satisfies Place

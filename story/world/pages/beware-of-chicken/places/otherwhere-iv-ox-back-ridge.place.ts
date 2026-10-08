@@ -40,4 +40,6 @@ export const otherwhereIvOxBackRidge = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-28T21:51:14.257Z",
+  updatedAt: "2026-09-28T22:03:07.000Z",
 } as const satisfies Place

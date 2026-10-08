@@ -33,4 +33,6 @@ export const otherwhereViiSallowMere = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-28T22:59:20.034Z",
+  updatedAt: "2026-09-28T22:59:35.000Z",
 } as const satisfies Place

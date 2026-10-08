@@ -77,4 +77,6 @@ export const overwhereIvAbyssalTemple = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-29T12:41:31.318Z",
+  updatedAt: "2026-09-29T12:41:34.000Z",
 } as const satisfies Place

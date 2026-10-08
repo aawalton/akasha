@@ -273,4 +273,6 @@ export const overwhereIiCallowBeck = {
       knowers: ["lore-disclosure/game-master"],
     },
   ],
+  createdAt: "2026-09-30T20:17:18.942Z",
+  updatedAt: "2026-10-03T13:17:41.000Z",
 } as const satisfies Place

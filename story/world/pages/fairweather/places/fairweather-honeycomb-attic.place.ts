@@ -34,4 +34,6 @@ export const fairweatherHoneycombAttic = {
       knowers: ["lore-disclosure/game-master", "character-player/fairweather-elsie"],
     },
   ],
+  createdAt: "2026-10-04T13:32:54.961Z",
+  updatedAt: "2026-10-04T13:33:01.000Z",
 } as const satisfies Place

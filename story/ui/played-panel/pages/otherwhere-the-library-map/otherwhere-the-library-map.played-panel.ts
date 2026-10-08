@@ -9,4 +9,6 @@ export const otherwhereTheLibraryMap = {
   drawn: "js",
   place: "panel-place/aside",
   position: 45,
+  createdAt: "2026-09-28T13:34:22.067Z",
+  updatedAt: "2026-09-28T19:18:52.000Z",
 } as const satisfies PlayedPanel

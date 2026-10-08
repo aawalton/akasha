@@ -178,4 +178,6 @@ export const otherwhereXiHelock = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-29T00:16:18.729Z",
+  updatedAt: "2026-09-29T00:38:07.000Z",
 } as const satisfies Place

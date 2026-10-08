@@ -305,4 +305,6 @@ export const overwhereITheGreyfen = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-29T12:33:48.057Z",
+  updatedAt: "2026-10-02T14:42:42.000Z",
 } as const satisfies Place

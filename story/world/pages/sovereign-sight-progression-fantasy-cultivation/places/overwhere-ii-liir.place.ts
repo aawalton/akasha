@@ -52,4 +52,6 @@ export const overwhereIiLiir = {
       knowers: ["lore-disclosure/game-master"],
     },
   ],
+  createdAt: "2026-09-29T12:28:12.464Z",
+  updatedAt: "2026-09-29T12:28:15.000Z",
 } as const satisfies Place

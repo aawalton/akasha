@@ -29,4 +29,6 @@ export const otherwhereIxMalari = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-28T23:00:39.136Z",
+  updatedAt: "2026-09-28T23:00:44.000Z",
 } as const satisfies Place

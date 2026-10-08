@@ -54,4 +54,6 @@ export const otherwhereXiBaranEasternMarches = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-29T00:19:54.388Z",
+  updatedAt: "2026-09-29T00:19:59.000Z",
 } as const satisfies Place

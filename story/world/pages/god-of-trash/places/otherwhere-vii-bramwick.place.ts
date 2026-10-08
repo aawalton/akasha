@@ -76,4 +76,6 @@ export const otherwhereViiBramwick = {
       knowers: ["lore-disclosure/game-master"],
     },
   ],
+  createdAt: "2026-09-28T22:33:16.047Z",
+  updatedAt: "2026-09-28T23:01:05.000Z",
 } as const satisfies Place

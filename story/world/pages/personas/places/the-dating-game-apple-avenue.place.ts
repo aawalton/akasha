@@ -24,4 +24,6 @@ export const theDatingGameAppleAvenue = {
       knowers: ["lore-disclosure/game-master", "character-player/the-dating-game-alan"],
     },
   ],
+  createdAt: "2026-09-28T13:44:13.409Z",
+  updatedAt: "2026-09-28T13:48:56.000Z",
 } as const satisfies Place

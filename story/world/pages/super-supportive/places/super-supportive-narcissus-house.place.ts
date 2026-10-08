@@ -8,4 +8,6 @@ export const superSupportiveNarcissusHouse = {
   world: "world/super-supportive",
   within: "place/super-supportive-apex",
   secrets: "jsonl",
+  createdAt: "2026-09-28T21:54:59.366Z",
+  updatedAt: "2026-09-28T21:55:04.000Z",
 } as const satisfies Place

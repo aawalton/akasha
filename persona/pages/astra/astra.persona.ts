@@ -26,4 +26,6 @@ export const astra = {
   anchor: "image/image-50f66899f612c4bf",
   covers: ["image/image-50f66899f612c4bf"],
   wallpapers: ["image/image-d4d7c1941d9109e5"],
+  createdAt: "2026-06-29T15:49:57.411Z",
+  updatedAt: "2026-09-24T19:07:30.000Z",
 } as const satisfies Persona

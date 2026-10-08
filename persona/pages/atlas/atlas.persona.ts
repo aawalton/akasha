@@ -26,4 +26,6 @@ export const atlas = {
   anchor: "image/image-3c4d098a72b4b2ad",
   covers: ["image/image-3c4d098a72b4b2ad"],
   wallpapers: ["image/image-9e97733f7fecd80c"],
+  createdAt: "2026-07-03T17:05:39.552Z",
+  updatedAt: "2026-09-24T19:07:30.000Z",
 } as const satisfies Persona

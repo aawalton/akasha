@@ -96,4 +96,6 @@ export const otherwhereIvUpstreamWoods = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-28T21:50:30.621Z",
+  updatedAt: "2026-09-29T01:33:33.000Z",
 } as const satisfies Place

@@ -17,4 +17,6 @@ export const otherwhereIiDarkCrystalCavern = {
       knowers: ["lore-disclosure/game-master"],
     },
   ],
+  createdAt: "2026-09-28T20:38:58.503Z",
+  updatedAt: "2026-09-28T22:28:51.000Z",
 } as const satisfies Place

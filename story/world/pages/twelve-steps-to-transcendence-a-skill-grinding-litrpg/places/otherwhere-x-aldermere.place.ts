@@ -39,4 +39,6 @@ export const otherwhereXAldermere = {
       way: "out through the north gate onto the king's road",
     },
   ],
+  createdAt: "2026-09-29T01:49:19.199Z",
+  updatedAt: "2026-10-03T19:45:03.000Z",
 } as const satisfies Place

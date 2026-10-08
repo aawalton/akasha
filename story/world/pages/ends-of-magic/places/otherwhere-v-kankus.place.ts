@@ -38,4 +38,6 @@ export const otherwhereVKankus = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-28T21:41:39.895Z",
+  updatedAt: "2026-09-28T21:41:42.000Z",
 } as const satisfies Place

@@ -106,4 +106,6 @@ export const fairweatherCrookedKettle = {
       ],
     },
   ],
+  createdAt: "2026-10-04T01:16:09.402Z",
+  updatedAt: "2026-10-04T09:27:05.000Z",
 } as const satisfies Place

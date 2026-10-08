@@ -22,4 +22,6 @@ export const otherwhereIiLabyrinthRifts = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-28T20:39:49.950Z",
+  updatedAt: "2026-09-28T22:28:51.000Z",
 } as const satisfies Place

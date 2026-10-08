@@ -34,4 +34,6 @@ export const otherwhereVEsebusCentralTower = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-28T21:41:39.894Z",
+  updatedAt: "2026-09-28T21:41:42.000Z",
 } as const satisfies Place

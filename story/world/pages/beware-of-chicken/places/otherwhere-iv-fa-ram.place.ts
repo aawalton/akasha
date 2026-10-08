@@ -182,4 +182,6 @@ export const otherwhereIvFaRam = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-28T22:07:57.858Z",
+  updatedAt: "2026-09-28T22:08:02.000Z",
 } as const satisfies Place

@@ -22,4 +22,6 @@ export const otherwhereIiXanian = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-28T20:38:58.504Z",
+  updatedAt: "2026-09-28T22:30:51.000Z",
 } as const satisfies Place

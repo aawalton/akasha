@@ -74,4 +74,6 @@ export const otherwhereVSerrinVale = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-28T21:45:18.356Z",
+  updatedAt: "2026-09-28T21:52:45.000Z",
 } as const satisfies Place

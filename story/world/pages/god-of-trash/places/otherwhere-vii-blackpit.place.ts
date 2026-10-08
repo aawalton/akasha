@@ -29,4 +29,6 @@ export const otherwhereViiBlackpit = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-28T23:00:27.827Z",
+  updatedAt: "2026-09-28T23:00:32.000Z",
 } as const satisfies Place

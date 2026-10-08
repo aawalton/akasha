@@ -7,4 +7,6 @@ export const towerAndTheStarFloor21AccessPointRoom = {
   title: "Floor 21: Access Point room",
   world: "world/tower-and-the-star",
   facts: [],
+  createdAt: "2026-10-03T19:35:06.484Z",
+  updatedAt: "2026-10-03T19:35:09.000Z",
 } as const satisfies Place

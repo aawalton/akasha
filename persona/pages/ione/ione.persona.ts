@@ -27,4 +27,6 @@ export const ione = {
   anchor: "image/image-afa09c2d0c6ad333",
   covers: ["image/image-afa09c2d0c6ad333"],
   wallpapers: ["image/image-c99e2bc4d10bd06c"],
+  createdAt: "2026-06-21T16:42:14.837Z",
+  updatedAt: "2026-09-24T19:07:30.000Z",
 } as const satisfies Persona

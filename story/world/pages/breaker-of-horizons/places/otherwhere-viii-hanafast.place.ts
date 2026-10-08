@@ -26,4 +26,6 @@ export const otherwhereViiiHanafast = {
     { fact: "An abandoned Spire lies near Hanafast.", knowers: ["lore-disclosure/game-master"] },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-28T22:52:18.753Z",
+  updatedAt: "2026-09-28T22:52:26.000Z",
 } as const satisfies Place

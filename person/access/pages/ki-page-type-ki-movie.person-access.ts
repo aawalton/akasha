@@ -9,4 +9,6 @@ export const kiPageTypeKiMovie = {
   target: "ki-movie",
   deed: ["access-deed/read", "access-deed/write"],
   serves: "page-type/movie",
+  createdAt: "2026-08-30T19:44:45.316Z",
+  updatedAt: "2026-09-22T13:23:05.000Z",
 } as const satisfies PersonAccess

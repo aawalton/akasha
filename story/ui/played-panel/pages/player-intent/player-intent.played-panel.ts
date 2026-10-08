@@ -9,4 +9,6 @@ export const playerIntent = {
   drawn: "js",
   place: "panel-place/aside",
   position: 55,
+  createdAt: "2026-10-03T21:22:21.671Z",
+  updatedAt: "2026-10-03T21:26:57.000Z",
 } as const satisfies PlayedPanel

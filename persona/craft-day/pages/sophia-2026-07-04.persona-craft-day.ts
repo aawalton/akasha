@@ -20,4 +20,6 @@ export const sophia20260704 = {
   ],
   newPersonaCount: 4,
   improvementCount: 3,
+  createdAt: "2026-07-04T14:14:41.608Z",
+  updatedAt: "2026-09-22T13:16:26.000Z",
 } as const satisfies PersonaCraftDay

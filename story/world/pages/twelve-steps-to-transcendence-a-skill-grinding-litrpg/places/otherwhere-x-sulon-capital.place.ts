@@ -41,4 +41,6 @@ export const otherwhereXSulonCapital = {
       knowers: ["lore-disclosure/game-master"],
     },
   ],
+  createdAt: "2026-09-29T00:07:39.459Z",
+  updatedAt: "2026-09-29T01:42:02.000Z",
 } as const satisfies Place

@@ -61,4 +61,6 @@ export const otherwhereIiiRedLineCar = {
     },
   ],
   within: "place/otherwhere-iii-chicago",
+  createdAt: "2026-09-28T21:33:14.643Z",
+  updatedAt: "2026-09-28T21:42:25.000Z",
 } as const satisfies Place

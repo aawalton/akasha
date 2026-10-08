@@ -7,4 +7,6 @@ export const towerAndTheStarFloor7RestNodeCorridor = {
   title: "Floor 7: Rest node corridor",
   world: "world/tower-and-the-star",
   facts: [],
+  createdAt: "2026-10-03T19:33:15.578Z",
+  updatedAt: "2026-10-03T19:33:18.000Z",
 } as const satisfies Place

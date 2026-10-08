@@ -73,4 +73,6 @@ export const otherwhereVArenaOfTheConcord = {
       knowers: ["lore-disclosure/game-master"],
     },
   ],
+  createdAt: "2026-09-28T21:45:07.637Z",
+  updatedAt: "2026-09-28T22:10:04.000Z",
 } as const satisfies Place

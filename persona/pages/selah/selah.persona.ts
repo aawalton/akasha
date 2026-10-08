@@ -26,4 +26,6 @@ export const selah = {
   anchor: "image/image-e5d67823c7d0d8fd",
   covers: ["image/image-e5d67823c7d0d8fd"],
   wallpapers: ["image/image-e84e7e05815ec1d3"],
+  createdAt: "2026-06-28T09:54:40.115Z",
+  updatedAt: "2026-09-24T19:07:30.000Z",
 } as const satisfies Persona

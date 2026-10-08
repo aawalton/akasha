@@ -8,4 +8,6 @@ export const superSupportiveNeedleAndWheedle = {
   world: "world/super-supportive",
   within: "place/super-supportive-apex",
   secrets: "jsonl",
+  createdAt: "2026-09-28T22:00:46.410Z",
+  updatedAt: "2026-09-28T22:00:49.000Z",
 } as const satisfies Place

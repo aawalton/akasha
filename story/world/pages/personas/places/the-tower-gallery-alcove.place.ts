@@ -19,4 +19,6 @@ export const theTowerGalleryAlcove = {
     },
     { fact: "The Dead Alcove holds no water.", knowers: ["lore-disclosure/game-master"] },
   ],
+  createdAt: "2026-09-24T16:29:34.317Z",
+  updatedAt: "2026-09-26T18:13:39.000Z",
 } as const satisfies Place

@@ -5,4 +5,6 @@ export const claude = {
   type: "page-type/persona",
   slug: "claude",
   definition: "an agent working as itself, with no character authored over it",
+  createdAt: "2026-08-30T17:45:40.412Z",
+  updatedAt: "2026-09-15T16:08:28.000Z",
 } as const satisfies Persona

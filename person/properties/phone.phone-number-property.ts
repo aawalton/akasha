@@ -7,4 +7,6 @@ export const phone = {
   propertySlug: "phone",
   definition: "a person's or a persona's number",
   types: "ts",
+  createdAt: "2026-08-30T18:23:42.601Z",
+  updatedAt: "2026-09-22T13:46:58.000Z",
 } as const satisfies PhoneNumberProperty

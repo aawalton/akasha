@@ -38,4 +38,6 @@ export const otherwhereIxElasarAuctionChamber = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-28T23:02:25.024Z",
+  updatedAt: "2026-09-28T23:02:29.000Z",
 } as const satisfies Place

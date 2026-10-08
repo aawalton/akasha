@@ -7,4 +7,6 @@ export const alanDomainAll = {
   person: "person/alan",
   authorityKind: "authority-kind/domain",
   target: "all",
+  createdAt: "2026-08-30T19:44:45.317Z",
+  updatedAt: "2026-09-15T16:11:05.000Z",
 } as const satisfies PersonAuthority

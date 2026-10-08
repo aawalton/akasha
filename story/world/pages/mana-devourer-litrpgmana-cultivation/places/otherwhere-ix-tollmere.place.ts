@@ -70,4 +70,6 @@ export const otherwhereIxTollmere = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-28T23:01:09.024Z",
+  updatedAt: "2026-09-28T23:08:53.000Z",
 } as const satisfies Place

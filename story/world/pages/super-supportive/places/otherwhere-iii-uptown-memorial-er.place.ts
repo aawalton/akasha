@@ -229,4 +229,6 @@ export const otherwhereIiiUptownMemorialEr = {
     },
   ],
   within: "place/otherwhere-iii-chicago",
+  createdAt: "2026-09-28T22:05:51.835Z",
+  updatedAt: "2026-09-28T23:53:02.000Z",
 } as const satisfies Place

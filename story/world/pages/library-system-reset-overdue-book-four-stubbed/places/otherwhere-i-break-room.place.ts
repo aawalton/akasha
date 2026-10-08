@@ -64,4 +64,6 @@ export const otherwhereIBreakRoom = {
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-i-alan"],
     },
   ],
+  createdAt: "2026-09-28T18:16:51.659Z",
+  updatedAt: "2026-09-28T23:03:13.000Z",
 } as const satisfies Place

@@ -61,4 +61,6 @@ export const overwhereIiMarshCroft = {
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
   ],
+  createdAt: "2026-09-29T12:25:40.106Z",
+  updatedAt: "2026-09-30T09:55:27.000Z",
 } as const satisfies Place

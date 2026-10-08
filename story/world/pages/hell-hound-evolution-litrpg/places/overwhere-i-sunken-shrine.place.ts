@@ -45,4 +45,6 @@ export const overwhereISunkenShrine = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-29T12:34:48.098Z",
+  updatedAt: "2026-09-29T12:34:51.000Z",
 } as const satisfies Place

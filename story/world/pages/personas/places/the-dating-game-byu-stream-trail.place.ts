@@ -24,4 +24,6 @@ export const theDatingGameByuStreamTrail = {
       knowers: ["lore-disclosure/game-master", "character-player/the-dating-game-alan"],
     },
   ],
+  createdAt: "2026-09-27T16:47:00.957Z",
+  updatedAt: "2026-09-27T17:04:15.000Z",
 } as const satisfies Place

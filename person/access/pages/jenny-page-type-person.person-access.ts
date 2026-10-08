@@ -8,4 +8,6 @@ export const jennyPageTypePerson = {
   accessKind: "access-kind/page-type",
   target: "person",
   deed: ["access-deed/read"],
+  createdAt: "2026-09-21T17:40:49.307Z",
+  updatedAt: "2026-09-21T17:42:18.000Z",
 } as const satisfies PersonAccess

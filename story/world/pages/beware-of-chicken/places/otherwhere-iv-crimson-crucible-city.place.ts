@@ -38,4 +38,6 @@ export const otherwhereIvCrimsonCrucibleCity = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-28T22:04:00.070Z",
+  updatedAt: "2026-09-28T22:04:02.000Z",
 } as const satisfies Place

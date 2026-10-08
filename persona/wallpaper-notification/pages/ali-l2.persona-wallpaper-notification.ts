@@ -7,4 +7,6 @@ export const aliL2 = {
   title: "ali L02 wallpaper notified",
   persona: "persona/ali",
   relationshipLevel: "closeness-level/level-2",
+  createdAt: "2026-07-01T21:02:44.497Z",
+  updatedAt: "2026-09-22T19:35:24.000Z",
 } as const satisfies PersonaWallpaperNotification

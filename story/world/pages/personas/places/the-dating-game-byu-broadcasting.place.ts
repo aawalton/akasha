@@ -32,4 +32,6 @@ export const theDatingGameByuBroadcasting = {
       ],
     },
   ],
+  createdAt: "2026-09-27T15:31:00.288Z",
+  updatedAt: "2026-09-27T15:35:45.000Z",
 } as const satisfies Place

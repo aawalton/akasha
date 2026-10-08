@@ -29,4 +29,6 @@ export const otherwhereIvSmokyRiver = {
       knowers: ["lore-disclosure/game-master"],
     },
   ],
+  createdAt: "2026-09-28T22:08:32.668Z",
+  updatedAt: "2026-09-28T22:08:36.000Z",
 } as const satisfies Place

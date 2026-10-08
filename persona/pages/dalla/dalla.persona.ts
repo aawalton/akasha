@@ -27,4 +27,6 @@ export const dalla = {
   anchor: "image/image-202108e389c82e2a",
   covers: ["image/image-202108e389c82e2a"],
   wallpapers: ["image/image-15182a1e13ec170a"],
+  createdAt: "2026-07-02T11:53:48.895Z",
+  updatedAt: "2026-09-25T14:07:32.000Z",
 } as const satisfies Persona

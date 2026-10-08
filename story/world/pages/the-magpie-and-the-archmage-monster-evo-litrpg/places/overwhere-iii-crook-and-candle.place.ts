@@ -158,4 +158,6 @@ export const overwhereIiiCrookAndCandle = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-30T08:34:22.791Z",
+  updatedAt: "2026-10-03T11:23:46.000Z",
 } as const satisfies Place

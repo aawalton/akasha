@@ -78,4 +78,6 @@ export const otherwhereXEventMonolith = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-29T00:06:40.151Z",
+  updatedAt: "2026-09-29T00:06:57.000Z",
 } as const satisfies Place

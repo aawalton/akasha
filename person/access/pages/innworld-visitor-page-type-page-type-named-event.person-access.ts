@@ -9,4 +9,6 @@ export const innworldVisitorPageTypePageTypeNamedEvent = {
   target: "page-type",
   deed: ["access-deed/read-some"],
   narrow: { key: "slug", is: "named-event" },
+  createdAt: "2026-09-21T21:54:51.115Z",
+  updatedAt: "2026-09-21T21:57:50.000Z",
 } as const satisfies PersonAccess

@@ -62,4 +62,6 @@ export const otherwhereXSulonBorderCamp = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-29T00:07:39.458Z",
+  updatedAt: "2026-09-29T00:07:44.000Z",
 } as const satisfies Place

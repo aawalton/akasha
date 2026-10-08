@@ -32,4 +32,6 @@ export const otherwhereVBlightedContinent = {
       knowers: ["lore-disclosure/game-master"],
     },
   ],
+  createdAt: "2026-09-28T21:41:57.650Z",
+  updatedAt: "2026-09-28T21:42:00.000Z",
 } as const satisfies Place

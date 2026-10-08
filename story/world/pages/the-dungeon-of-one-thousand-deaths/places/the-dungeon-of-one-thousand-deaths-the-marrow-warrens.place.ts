@@ -7,4 +7,6 @@ export const theDungeonOfOneThousandDeathsTheMarrowWarrens = {
   title: "The Marrow Warrens",
   world: "world/the-dungeon-of-one-thousand-deaths",
   facts: [],
+  createdAt: "2026-10-03T19:21:27.701Z",
+  updatedAt: "2026-10-03T19:21:30.000Z",
 } as const satisfies Place

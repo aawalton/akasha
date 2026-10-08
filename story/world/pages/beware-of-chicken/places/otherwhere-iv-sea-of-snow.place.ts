@@ -61,4 +61,6 @@ export const otherwhereIvSeaOfSnow = {
       knowers: ["lore-disclosure/game-master"],
     },
   ],
+  createdAt: "2026-09-28T22:03:44.295Z",
+  updatedAt: "2026-09-28T22:03:47.000Z",
 } as const satisfies Place

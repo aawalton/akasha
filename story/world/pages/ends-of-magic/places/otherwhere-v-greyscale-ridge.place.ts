@@ -58,4 +58,6 @@ export const otherwhereVGreyscaleRidge = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-28T21:46:30.432Z",
+  updatedAt: "2026-09-28T21:46:33.000Z",
 } as const satisfies Place

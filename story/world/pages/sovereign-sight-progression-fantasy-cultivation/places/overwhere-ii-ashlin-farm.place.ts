@@ -109,4 +109,6 @@ export const overwhereIiAshlinFarm = {
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
   ],
+  createdAt: "2026-10-02T16:02:50.891Z",
+  updatedAt: "2026-10-02T20:30:01.000Z",
 } as const satisfies Place

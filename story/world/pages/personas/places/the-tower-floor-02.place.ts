@@ -16,4 +16,6 @@ export const theTowerFloor02 = {
       direction: "up",
     },
   ],
+  createdAt: "2026-09-24T16:29:04.375Z",
+  updatedAt: "2026-09-28T14:04:08.000Z",
 } as const satisfies Place

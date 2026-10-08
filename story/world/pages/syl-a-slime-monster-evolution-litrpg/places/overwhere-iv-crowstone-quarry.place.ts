@@ -30,4 +30,6 @@ export const overwhereIvCrowstoneQuarry = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-29T12:39:12.452Z",
+  updatedAt: "2026-10-02T17:52:44.000Z",
 } as const satisfies Place

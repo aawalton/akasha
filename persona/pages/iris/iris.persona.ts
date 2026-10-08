@@ -25,4 +25,6 @@ export const iris = {
   anchor: "image/image-21fb7f3e04b32963",
   covers: ["image/image-21fb7f3e04b32963"],
   wallpapers: ["image/image-6c16f454e6a7cf84"],
+  createdAt: "2026-06-24T14:11:13.591Z",
+  updatedAt: "2026-09-27T14:31:41.000Z",
 } as const satisfies Persona

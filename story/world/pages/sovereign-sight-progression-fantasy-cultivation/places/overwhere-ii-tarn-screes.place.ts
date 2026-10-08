@@ -45,4 +45,6 @@ export const overwhereIiTarnScrees = {
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
   ],
+  createdAt: "2026-09-30T19:08:56.347Z",
+  updatedAt: "2026-09-30T19:47:20.000Z",
 } as const satisfies Place

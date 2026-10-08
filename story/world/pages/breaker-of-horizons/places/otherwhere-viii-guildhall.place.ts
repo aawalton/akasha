@@ -354,4 +354,6 @@ export const otherwhereViiiGuildhall = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-29T00:03:03.692Z",
+  updatedAt: "2026-09-29T01:39:36.000Z",
 } as const satisfies Place

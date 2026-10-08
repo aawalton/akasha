@@ -8,4 +8,6 @@ export const jennyPageTypeFeatureRequest = {
   accessKind: "access-kind/page-type",
   target: "feature-request",
   deed: ["access-deed/read"],
+  createdAt: "2026-09-21T17:41:08.494Z",
+  updatedAt: "2026-09-21T17:42:18.000Z",
 } as const satisfies PersonAccess

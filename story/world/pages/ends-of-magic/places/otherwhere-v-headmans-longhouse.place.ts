@@ -45,4 +45,6 @@ export const otherwhereVHeadmansLonghouse = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-28T21:49:30.892Z",
+  updatedAt: "2026-09-28T21:49:34.000Z",
 } as const satisfies Place

@@ -34,4 +34,6 @@ export const otherwhereIxTothCastle = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-28T23:00:39.137Z",
+  updatedAt: "2026-09-28T23:00:44.000Z",
 } as const satisfies Place

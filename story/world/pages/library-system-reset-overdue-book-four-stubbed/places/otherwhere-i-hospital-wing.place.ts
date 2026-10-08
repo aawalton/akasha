@@ -16,4 +16,6 @@ export const otherwhereIHospitalWing = {
       ],
     },
   ],
+  createdAt: "2026-09-28T14:09:23.641Z",
+  updatedAt: "2026-09-28T23:02:42.000Z",
 } as const satisfies Place

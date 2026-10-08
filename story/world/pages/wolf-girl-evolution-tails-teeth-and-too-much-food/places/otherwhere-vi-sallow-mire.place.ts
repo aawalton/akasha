@@ -37,4 +37,6 @@ export const otherwhereViSallowMire = {
       knowers: ["lore-disclosure/game-master"],
     },
   ],
+  createdAt: "2026-09-28T22:46:08.577Z",
+  updatedAt: "2026-09-28T22:46:11.000Z",
 } as const satisfies Place

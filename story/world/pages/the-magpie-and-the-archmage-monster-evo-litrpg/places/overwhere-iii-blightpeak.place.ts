@@ -60,4 +60,6 @@ export const overwhereIiiBlightpeak = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-29T12:39:43.348Z",
+  updatedAt: "2026-09-29T12:39:46.000Z",
 } as const satisfies Place

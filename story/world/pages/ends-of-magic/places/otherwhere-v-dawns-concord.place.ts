@@ -54,4 +54,6 @@ export const otherwhereVDawnsConcord = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-28T21:44:46.268Z",
+  updatedAt: "2026-09-28T21:44:51.000Z",
 } as const satisfies Place

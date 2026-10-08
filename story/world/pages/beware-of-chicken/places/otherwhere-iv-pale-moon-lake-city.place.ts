@@ -90,4 +90,6 @@ export const otherwhereIvPaleMoonLakeCity = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-28T22:04:58.011Z",
+  updatedAt: "2026-09-28T22:05:03.000Z",
 } as const satisfies Place

@@ -105,4 +105,6 @@ export const overwhereIiGreyShaw = {
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
   ],
+  createdAt: "2026-10-02T17:58:48.460Z",
+  updatedAt: "2026-10-02T18:42:34.000Z",
 } as const satisfies Place

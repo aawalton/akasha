@@ -33,4 +33,6 @@ export const emberdeepFennick = {
       ],
     },
   ],
+  createdAt: "2026-10-02T21:29:39.408Z",
+  updatedAt: "2026-10-02T21:43:15.000Z",
 } as const satisfies Place

@@ -26,4 +26,6 @@ export const ruby = {
   anchor: "image/image-2338440d86cfd267",
   covers: ["image/image-2338440d86cfd267"],
   wallpapers: ["image/image-b98658bca32a37e7"],
+  createdAt: "2026-06-29T12:40:53.803Z",
+  updatedAt: "2026-09-24T19:07:30.000Z",
 } as const satisfies Persona

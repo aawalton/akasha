@@ -48,4 +48,6 @@ export const otherwhereVAncestorShrine = {
       knowers: ["lore-disclosure/game-master"],
     },
   ],
+  createdAt: "2026-09-28T21:50:37.510Z",
+  updatedAt: "2026-09-28T21:50:40.000Z",
 } as const satisfies Place

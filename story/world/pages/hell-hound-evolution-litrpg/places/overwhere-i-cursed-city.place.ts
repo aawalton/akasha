@@ -89,4 +89,6 @@ export const overwhereICursedCity = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-29T12:32:35.878Z",
+  updatedAt: "2026-09-29T12:32:39.000Z",
 } as const satisfies Place

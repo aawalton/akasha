@@ -7,4 +7,6 @@ export const dragonsAndDungeonsTheStormWall = {
   title: "The Storm-Wall",
   world: "world/personas",
   facts: [],
+  createdAt: "2026-10-03T19:24:15.116Z",
+  updatedAt: "2026-10-03T19:24:17.000Z",
 } as const satisfies Place

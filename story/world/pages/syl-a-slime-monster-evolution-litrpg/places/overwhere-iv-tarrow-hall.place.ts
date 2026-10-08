@@ -20,4 +20,6 @@ export const overwhereIvTarrowHall = {
       knowers: ["lore-disclosure/game-master"],
     },
   ],
+  createdAt: "2026-09-29T12:39:20.839Z",
+  updatedAt: "2026-09-29T12:39:23.000Z",
 } as const satisfies Place

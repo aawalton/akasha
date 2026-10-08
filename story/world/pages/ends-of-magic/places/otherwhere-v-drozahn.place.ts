@@ -25,4 +25,6 @@ export const otherwhereVDrozahn = {
       knowers: ["lore-disclosure/game-master"],
     },
   ],
+  createdAt: "2026-09-28T21:37:09.259Z",
+  updatedAt: "2026-09-28T21:37:12.000Z",
 } as const satisfies Place

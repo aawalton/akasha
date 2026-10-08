@@ -7,4 +7,6 @@ export const smsConsentPhone = {
   propertySlug: "phone",
   definition: "the person's agreed number",
   types: "ts",
+  createdAt: "2026-09-03T17:47:21.933Z",
+  updatedAt: "2026-09-22T13:56:42.000Z",
 } as const satisfies PhoneNumberProperty

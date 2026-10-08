@@ -38,4 +38,6 @@ export const otherwhereIxStillstones = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-28T23:03:11.979Z",
+  updatedAt: "2026-09-28T23:08:53.000Z",
 } as const satisfies Place

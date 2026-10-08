@@ -24,4 +24,6 @@ export const theDatingGameProvoCityCemetery = {
       knowers: ["lore-disclosure/game-master", "character-player/the-dating-game-alan"],
     },
   ],
+  createdAt: "2026-09-27T23:54:54.833Z",
+  updatedAt: "2026-09-28T01:27:09.000Z",
 } as const satisfies Place

@@ -90,4 +90,6 @@ export const fairweatherLakeVillages = {
       ],
     },
   ],
+  createdAt: "2026-10-04T14:39:16.232Z",
+  updatedAt: "2026-10-04T15:11:00.000Z",
 } as const satisfies Place

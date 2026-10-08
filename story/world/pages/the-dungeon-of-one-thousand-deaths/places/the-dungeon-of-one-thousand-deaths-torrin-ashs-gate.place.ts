@@ -7,4 +7,6 @@ export const theDungeonOfOneThousandDeathsTorrinAshsGate = {
   title: "Torrin Ash's gate",
   world: "world/the-dungeon-of-one-thousand-deaths",
   facts: [],
+  createdAt: "2026-10-03T19:38:12.726Z",
+  updatedAt: "2026-10-03T19:38:16.000Z",
 } as const satisfies Place

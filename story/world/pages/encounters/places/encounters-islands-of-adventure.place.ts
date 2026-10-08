@@ -85,4 +85,6 @@ export const encountersIslandsOfAdventure = {
       ],
     },
   ],
+  createdAt: "2026-10-06T21:43:52.911Z",
+  updatedAt: "2026-10-06T21:43:55.000Z",
 } as const satisfies Place

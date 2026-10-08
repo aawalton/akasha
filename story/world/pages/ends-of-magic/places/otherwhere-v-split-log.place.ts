@@ -52,4 +52,6 @@ export const otherwhereVSplitLog = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-28T21:50:03.560Z",
+  updatedAt: "2026-09-28T21:50:11.000Z",
 } as const satisfies Place

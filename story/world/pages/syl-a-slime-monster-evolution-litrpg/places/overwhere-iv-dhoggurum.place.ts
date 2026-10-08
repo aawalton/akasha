@@ -57,4 +57,6 @@ export const overwhereIvDhoggurum = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-29T12:34:08.454Z",
+  updatedAt: "2026-09-29T12:34:12.000Z",
 } as const satisfies Place

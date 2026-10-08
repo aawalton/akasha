@@ -66,4 +66,6 @@ export const otherwhereIvHongYaowu = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-28T22:08:22.381Z",
+  updatedAt: "2026-09-28T22:08:27.000Z",
 } as const satisfies Place

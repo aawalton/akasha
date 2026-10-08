@@ -26,4 +26,6 @@ export const sophia = {
   anchor: "image/image-f758222b5b2a91ab",
   covers: ["image/image-f758222b5b2a91ab"],
   wallpapers: ["image/image-e169c4c60d4e94af"],
+  createdAt: "2026-06-28T15:36:52.714Z",
+  updatedAt: "2026-09-24T19:07:30.000Z",
 } as const satisfies Persona

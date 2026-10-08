@@ -29,4 +29,6 @@ export const overwhereIvRenaitFederation = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-29T12:40:41.036Z",
+  updatedAt: "2026-09-29T12:40:43.000Z",
 } as const satisfies Place

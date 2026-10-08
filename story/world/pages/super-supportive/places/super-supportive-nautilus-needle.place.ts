@@ -8,4 +8,6 @@ export const superSupportiveNautilusNeedle = {
   world: "world/super-supportive",
   within: "place/super-supportive-f-city",
   secrets: "jsonl",
+  createdAt: "2026-09-28T22:03:01.037Z",
+  updatedAt: "2026-09-28T22:03:03.000Z",
 } as const satisfies Place

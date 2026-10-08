@@ -81,4 +81,6 @@ export const otherwhereXiLuten = {
       knowers: ["lore-disclosure/game-master"],
     },
   ],
+  createdAt: "2026-09-29T00:16:18.730Z",
+  updatedAt: "2026-09-29T00:16:30.000Z",
 } as const satisfies Place

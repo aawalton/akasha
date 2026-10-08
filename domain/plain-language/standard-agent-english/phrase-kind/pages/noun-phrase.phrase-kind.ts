@@ -5,4 +5,6 @@ export const nounPhrase = {
   type: "page-type/phrase-kind",
   slug: "noun-phrase",
   definition: "a phrase naming a thing, written from a noun",
+  createdAt: "2026-09-21T19:34:16.047Z",
+  updatedAt: "2026-09-25T15:41:48.000Z",
 } as const satisfies PhraseKind

@@ -81,4 +81,6 @@ export const otherwhereVEsebusContinent = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-28T21:40:30.148Z",
+  updatedAt: "2026-09-28T21:40:33.000Z",
 } as const satisfies Place

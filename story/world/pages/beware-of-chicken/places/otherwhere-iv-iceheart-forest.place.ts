@@ -38,4 +38,6 @@ export const otherwhereIvIceheartForest = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-28T22:09:44.146Z",
+  updatedAt: "2026-09-28T22:09:48.000Z",
 } as const satisfies Place

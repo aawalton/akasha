@@ -33,4 +33,6 @@ export const otherwhereXiSiden = {
       knowers: ["lore-disclosure/game-master"],
     },
   ],
+  createdAt: "2026-09-29T00:19:54.389Z",
+  updatedAt: "2026-09-29T00:19:59.000Z",
 } as const satisfies Place

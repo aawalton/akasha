@@ -224,4 +224,6 @@ export const overwhereIvTullFarm = {
       knowers: ["lore-disclosure/game-master"],
     },
   ],
+  createdAt: "2026-10-02T15:38:47.856Z",
+  updatedAt: "2026-10-03T13:03:06.000Z",
 } as const satisfies Place

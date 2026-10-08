@@ -7,4 +7,6 @@ export const theDungeonOfOneThousandDeathsEssanyCordsWorkshop = {
   title: "Essany Cord's workshop",
   world: "world/the-dungeon-of-one-thousand-deaths",
   facts: [],
+  createdAt: "2026-10-03T19:36:31.131Z",
+  updatedAt: "2026-10-03T19:36:34.000Z",
 } as const satisfies Place

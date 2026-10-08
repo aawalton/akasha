@@ -30,4 +30,6 @@ export const fairweatherLongCutWharf = {
       knowers: ["lore-disclosure/game-master", "character-other/fairweather-tamsin"],
     },
   ],
+  createdAt: "2026-10-04T13:13:23.582Z",
+  updatedAt: "2026-10-04T14:36:56.000Z",
 } as const satisfies Place

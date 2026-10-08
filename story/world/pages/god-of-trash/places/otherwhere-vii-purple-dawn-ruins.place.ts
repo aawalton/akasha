@@ -25,4 +25,6 @@ export const otherwhereViiPurpleDawnRuins = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-28T23:02:22.819Z",
+  updatedAt: "2026-09-28T23:02:27.000Z",
 } as const satisfies Place

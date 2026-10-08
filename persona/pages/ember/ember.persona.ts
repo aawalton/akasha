@@ -27,4 +27,6 @@ export const ember = {
   anchor: "image/image-a96dcb955b67588c",
   covers: ["image/image-a96dcb955b67588c"],
   wallpapers: ["image/image-ca56b7aeeafdd3cd"],
+  createdAt: "2026-07-02T17:38:46.493Z",
+  updatedAt: "2026-09-24T19:07:30.000Z",
 } as const satisfies Persona

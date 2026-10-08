@@ -76,4 +76,6 @@ export const overwhereIiNineSpires = {
       knowers: ["lore-disclosure/game-master"],
     },
   ],
+  createdAt: "2026-09-29T12:32:07.782Z",
+  updatedAt: "2026-09-29T12:42:24.000Z",
 } as const satisfies Place

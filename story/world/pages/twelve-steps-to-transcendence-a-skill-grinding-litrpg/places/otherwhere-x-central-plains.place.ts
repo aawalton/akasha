@@ -32,4 +32,6 @@ export const otherwhereXCentralPlains = {
       knowers: ["lore-disclosure/game-master"],
     },
   ],
+  createdAt: "2026-09-28T23:53:05.476Z",
+  updatedAt: "2026-09-28T23:53:08.000Z",
 } as const satisfies Place

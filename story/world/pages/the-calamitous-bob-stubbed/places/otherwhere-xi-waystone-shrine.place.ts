@@ -205,4 +205,6 @@ export const otherwhereXiWaystoneShrine = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-28T23:39:41.525Z",
+  updatedAt: "2026-10-03T19:56:27.000Z",
 } as const satisfies Place

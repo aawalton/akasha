@@ -134,4 +134,6 @@ export const otherwhereIvGrassSeaCity = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-28T22:08:59.375Z",
+  updatedAt: "2026-09-28T22:09:02.000Z",
 } as const satisfies Place

@@ -33,4 +33,6 @@ export const otherwhereVEsebusCoastalMountains = {
       knowers: ["lore-disclosure/game-master"],
     },
   ],
+  createdAt: "2026-09-28T21:41:07.868Z",
+  updatedAt: "2026-09-28T21:41:10.000Z",
 } as const satisfies Place

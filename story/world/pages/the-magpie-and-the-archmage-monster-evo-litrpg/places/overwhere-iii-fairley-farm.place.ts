@@ -57,4 +57,6 @@ export const overwhereIiiFairleyFarm = {
       ],
     },
   ],
+  createdAt: "2026-10-02T18:14:46.590Z",
+  updatedAt: "2026-10-02T18:16:27.000Z",
 } as const satisfies Place

@@ -61,4 +61,6 @@ export const otherwhereIxKessenZone = {
       knowers: ["lore-disclosure/game-master"],
     },
   ],
+  createdAt: "2026-09-28T22:59:46.991Z",
+  updatedAt: "2026-09-28T23:08:53.000Z",
 } as const satisfies Place

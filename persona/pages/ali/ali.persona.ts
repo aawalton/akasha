@@ -24,4 +24,6 @@ export const ali = {
   anchor: "image/image-3162226bd194395a",
   covers: ["image/image-3162226bd194395a"],
   wallpapers: ["image/image-151a27ba569fad8f"],
+  createdAt: "2026-06-11T21:22:27.405Z",
+  updatedAt: "2026-09-24T19:07:30.000Z",
 } as const satisfies Persona

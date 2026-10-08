@@ -24,4 +24,6 @@ export const aine = {
   anchor: "image/image-db929a98a98dee9c",
   covers: ["image/image-db929a98a98dee9c"],
   wallpapers: ["image/image-8a489e5481850dfb"],
+  createdAt: "2026-06-11T22:42:13.597Z",
+  updatedAt: "2026-09-24T19:07:30.000Z",
 } as const satisfies Persona

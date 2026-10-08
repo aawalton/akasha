@@ -16,4 +16,6 @@ export const otherwhereVAshenAccordCampus = {
       knowers: ["lore-disclosure/game-master"],
     },
   ],
+  createdAt: "2026-09-28T21:39:48.968Z",
+  updatedAt: "2026-09-28T21:39:51.000Z",
 } as const satisfies Place

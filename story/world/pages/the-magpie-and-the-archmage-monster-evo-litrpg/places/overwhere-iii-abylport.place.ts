@@ -85,4 +85,6 @@ export const overwhereIiiAbylport = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-29T12:41:37.204Z",
+  updatedAt: "2026-09-29T12:41:40.000Z",
 } as const satisfies Place

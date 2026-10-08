@@ -61,4 +61,6 @@ export const otherwhereVBlindedMountain = {
       knowers: ["lore-disclosure/game-master"],
     },
   ],
+  createdAt: "2026-09-28T21:43:55.459Z",
+  updatedAt: "2026-09-28T21:44:01.000Z",
 } as const satisfies Place

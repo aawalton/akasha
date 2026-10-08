@@ -8,4 +8,6 @@ export const superSupportiveDawnstepUniversity = {
   world: "world/super-supportive",
   within: "place/super-supportive-triplanets",
   secrets: "jsonl",
+  createdAt: "2026-09-28T22:03:36.495Z",
+  updatedAt: "2026-09-28T22:03:39.000Z",
 } as const satisfies Place

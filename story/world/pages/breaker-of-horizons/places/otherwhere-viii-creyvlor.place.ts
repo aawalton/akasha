@@ -33,4 +33,6 @@ export const otherwhereViiiCreyvlor = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-28T22:52:00.916Z",
+  updatedAt: "2026-09-28T22:52:05.000Z",
 } as const satisfies Place

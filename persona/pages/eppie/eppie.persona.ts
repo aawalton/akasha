@@ -27,4 +27,6 @@ export const eppie = {
   anchor: "image/image-61b8b80051d63c96",
   covers: ["image/image-61b8b80051d63c96"],
   wallpapers: ["image/image-2ca27d2606f1a0bb"],
+  createdAt: "2026-06-19T20:41:18.309Z",
+  updatedAt: "2026-09-24T19:07:30.000Z",
 } as const satisfies Persona

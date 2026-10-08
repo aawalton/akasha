@@ -11,4 +11,6 @@ export const prepositionPhrase = {
       statement: "A phrase is named for the word that phrase is written from, here and elsewhere.",
     },
   ],
+  createdAt: "2026-09-21T20:03:58.370Z",
+  updatedAt: "2026-09-25T15:41:48.000Z",
 } as const satisfies PhraseKind

@@ -41,4 +41,6 @@ export const otherwhereVTaeolsTower = {
       knowers: ["lore-disclosure/game-master"],
     },
   ],
+  createdAt: "2026-09-28T21:37:44.022Z",
+  updatedAt: "2026-09-28T21:37:47.000Z",
 } as const satisfies Place

@@ -25,4 +25,6 @@ export const olwen = {
   desktopWallpaper: "image/image-cebd85f8b3ac69b5",
   mobileWallpaper: "image/image-024d1b14c69f1fb0",
   wallpapers: ["image/image-cebd85f8b3ac69b5"],
+  createdAt: "2026-07-17T04:00:30.507Z",
+  updatedAt: "2026-09-24T19:07:30.000Z",
 } as const satisfies Persona

@@ -53,4 +53,6 @@ export const overwhereIvGarzsCavern = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-29T12:51:10.654Z",
+  updatedAt: "2026-09-29T12:51:13.000Z",
 } as const satisfies Place

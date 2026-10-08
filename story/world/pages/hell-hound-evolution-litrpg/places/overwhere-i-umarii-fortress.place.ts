@@ -93,4 +93,6 @@ export const overwhereIUmariiFortress = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-29T12:33:08.818Z",
+  updatedAt: "2026-09-29T12:33:11.000Z",
 } as const satisfies Place

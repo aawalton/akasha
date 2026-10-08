@@ -24,4 +24,6 @@ export const otherwhereVKalis = {
       knowers: ["lore-disclosure/game-master"],
     },
   ],
+  createdAt: "2026-09-28T21:48:25.172Z",
+  updatedAt: "2026-09-28T21:48:29.000Z",
 } as const satisfies Place

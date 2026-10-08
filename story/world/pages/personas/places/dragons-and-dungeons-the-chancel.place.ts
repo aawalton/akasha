@@ -60,4 +60,6 @@ export const dragonsAndDungeonsTheChancel = {
       ],
     },
   ],
+  createdAt: "2026-09-27T15:58:13.908Z",
+  updatedAt: "2026-09-28T14:03:06.000Z",
 } as const satisfies Place

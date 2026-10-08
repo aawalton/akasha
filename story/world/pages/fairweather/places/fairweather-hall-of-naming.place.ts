@@ -60,4 +60,6 @@ export const fairweatherHallOfNaming = {
       ],
     },
   ],
+  createdAt: "2026-10-03T16:53:18.043Z",
+  updatedAt: "2026-10-04T09:27:05.000Z",
 } as const satisfies Place

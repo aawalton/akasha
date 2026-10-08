@@ -96,4 +96,6 @@ export const overwhereIiTernHollow = {
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
   ],
+  createdAt: "2026-09-29T12:06:37.786Z",
+  updatedAt: "2026-09-30T08:36:44.000Z",
 } as const satisfies Place

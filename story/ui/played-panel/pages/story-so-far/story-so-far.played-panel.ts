@@ -9,4 +9,6 @@ export const storySoFar = {
   drawn: "js",
   place: "panel-place/above",
   position: 70,
+  createdAt: "2026-09-21T15:44:04.763Z",
+  updatedAt: "2026-09-28T12:27:35.000Z",
 } as const satisfies PlayedPanel

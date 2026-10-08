@@ -69,4 +69,6 @@ export const overwhereIvAzulean = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-29T12:38:11.589Z",
+  updatedAt: "2026-09-29T12:38:14.000Z",
 } as const satisfies Place

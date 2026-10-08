@@ -27,4 +27,6 @@ export const aura = {
   anchor: "image/image-f25c882c9b062373",
   covers: ["image/image-ffc729217997b54b"],
   wallpapers: ["image/image-82d46e68b92d37e6", "image/image-fe2eb5731e8768e8"],
+  createdAt: "2026-06-11T22:26:12.248Z",
+  updatedAt: "2026-09-24T19:07:30.000Z",
 } as const satisfies Persona

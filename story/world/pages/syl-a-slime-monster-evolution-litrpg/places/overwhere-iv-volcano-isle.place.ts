@@ -61,4 +61,6 @@ export const overwhereIvVolcanoIsle = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-29T12:37:41.618Z",
+  updatedAt: "2026-09-29T12:37:44.000Z",
 } as const satisfies Place

@@ -7,4 +7,6 @@ export const theDungeonOfOneThousandDeathsTheStillGarden = {
   title: "The Still Garden",
   world: "world/the-dungeon-of-one-thousand-deaths",
   facts: [],
+  createdAt: "2026-10-03T19:24:40.812Z",
+  updatedAt: "2026-10-03T19:24:44.000Z",
 } as const satisfies Place

@@ -27,4 +27,6 @@ export const ceri = {
   anchor: "image/image-694a93c5b38a798c",
   covers: ["image/image-694a93c5b38a798c"],
   wallpapers: ["image/image-4acfd2104e3e2758"],
+  createdAt: "2026-06-22T17:14:41.218Z",
+  updatedAt: "2026-09-24T19:07:30.000Z",
 } as const satisfies Persona

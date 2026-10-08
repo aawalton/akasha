@@ -7,4 +7,6 @@ export const towerAndTheStarFloor32ApproachRestNode = {
   title: "Floor 32: Approach rest node",
   world: "world/tower-and-the-star",
   facts: [],
+  createdAt: "2026-10-03T19:35:06.485Z",
+  updatedAt: "2026-10-03T19:35:09.000Z",
 } as const satisfies Place

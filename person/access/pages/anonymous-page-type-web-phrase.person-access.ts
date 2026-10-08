@@ -8,4 +8,6 @@ export const anonymousPageTypeWebPhrase = {
   accessKind: "access-kind/page-type",
   target: "web-phrase",
   deed: ["access-deed/read"],
+  createdAt: "2026-09-27T12:20:56.232Z",
+  updatedAt: "2026-09-27T12:21:16.000Z",
 } as const satisfies PersonAccess

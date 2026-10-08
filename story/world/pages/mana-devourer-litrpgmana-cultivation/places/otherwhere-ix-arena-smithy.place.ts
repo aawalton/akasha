@@ -37,4 +37,6 @@ export const otherwhereIxArenaSmithy = {
       knowers: ["lore-disclosure/game-master"],
     },
   ],
+  createdAt: "2026-09-28T23:02:55.493Z",
+  updatedAt: "2026-09-28T23:02:59.000Z",
 } as const satisfies Place

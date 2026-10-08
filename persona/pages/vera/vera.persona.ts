@@ -26,4 +26,6 @@ export const vera = {
   anchor: "image/image-070d57a5af44b12c",
   covers: ["image/image-070d57a5af44b12c"],
   wallpapers: ["image/image-8f70293acb1e87be"],
+  createdAt: "2026-07-04T16:56:21.119Z",
+  updatedAt: "2026-09-24T19:07:30.000Z",
 } as const satisfies Persona

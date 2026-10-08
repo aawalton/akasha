@@ -9,4 +9,6 @@ export const innworldVisitorPageTypePageTypeWorldSpell = {
   target: "page-type",
   deed: ["access-deed/read-some"],
   narrow: { key: "slug", is: "world-spell" },
+  createdAt: "2026-09-21T21:54:30.932Z",
+  updatedAt: "2026-09-21T21:57:50.000Z",
 } as const satisfies PersonAccess

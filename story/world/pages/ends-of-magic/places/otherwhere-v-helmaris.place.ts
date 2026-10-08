@@ -74,4 +74,6 @@ export const otherwhereVHelmaris = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-28T21:42:24.578Z",
+  updatedAt: "2026-09-28T21:42:27.000Z",
 } as const satisfies Place

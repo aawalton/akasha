@@ -7,4 +7,6 @@ export const towerAndTheStarFloor22RestNode = {
   title: "Floor 22: Rest node",
   world: "world/tower-and-the-star",
   facts: [],
+  createdAt: "2026-10-03T19:35:06.485Z",
+  updatedAt: "2026-10-03T19:35:09.000Z",
 } as const satisfies Place

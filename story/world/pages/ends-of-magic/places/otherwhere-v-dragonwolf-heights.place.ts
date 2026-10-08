@@ -45,4 +45,6 @@ export const otherwhereVDragonwolfHeights = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-28T21:51:21.483Z",
+  updatedAt: "2026-09-28T21:51:24.000Z",
 } as const satisfies Place

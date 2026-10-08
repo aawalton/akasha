@@ -7,4 +7,6 @@ export const amyL2 = {
   title: "amy L02 wallpaper notified",
   persona: "persona/amy",
   relationshipLevel: "closeness-level/level-2",
+  createdAt: "2026-06-28T18:02:31.003Z",
+  updatedAt: "2026-09-22T19:35:24.000Z",
 } as const satisfies PersonaWallpaperNotification

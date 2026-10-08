@@ -74,4 +74,6 @@ export const otherwhereIvHowlingFangMountains = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-28T22:03:29.692Z",
+  updatedAt: "2026-09-28T22:03:32.000Z",
 } as const satisfies Place

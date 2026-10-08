@@ -17,4 +17,6 @@ export const otherwhereViiiMyordin = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-28T22:53:05.485Z",
+  updatedAt: "2026-09-28T22:53:16.000Z",
 } as const satisfies Place

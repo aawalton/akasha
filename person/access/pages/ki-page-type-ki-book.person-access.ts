@@ -9,4 +9,6 @@ export const kiPageTypeKiBook = {
   target: "ki-book",
   deed: ["access-deed/read", "access-deed/write"],
   serves: "page-type/book",
+  createdAt: "2026-08-30T19:44:45.315Z",
+  updatedAt: "2026-09-22T13:23:05.000Z",
 } as const satisfies PersonAccess

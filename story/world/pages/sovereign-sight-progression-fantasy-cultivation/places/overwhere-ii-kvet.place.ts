@@ -20,4 +20,6 @@ export const overwhereIiKvet = {
       knowers: ["lore-disclosure/game-master"],
     },
   ],
+  createdAt: "2026-09-29T12:31:28.113Z",
+  updatedAt: "2026-09-29T12:31:30.000Z",
 } as const satisfies Place

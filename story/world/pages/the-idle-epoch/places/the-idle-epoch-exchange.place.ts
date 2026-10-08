@@ -7,4 +7,6 @@ export const theIdleEpochExchange = {
   title: "The Exchange",
   world: "world/the-idle-epoch",
   facts: [],
+  createdAt: "2026-10-03T19:15:00.632Z",
+  updatedAt: "2026-10-03T19:15:04.000Z",
 } as const satisfies Place

@@ -87,4 +87,6 @@ export const otherwhereVScalebarkCamp = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-28T21:47:09.598Z",
+  updatedAt: "2026-09-28T22:11:00.000Z",
 } as const satisfies Place

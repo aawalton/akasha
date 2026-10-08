@@ -9,4 +9,6 @@ export const innworldVisitorPageTypeSiteDocument = {
   target: "site-document",
   deed: ["access-deed/read-some"],
   narrow: { key: "webApp", is: "web-app/innworld-web" },
+  createdAt: "2026-09-27T11:32:20.996Z",
+  updatedAt: "2026-09-27T11:32:33.000Z",
 } as const satisfies PersonAccess

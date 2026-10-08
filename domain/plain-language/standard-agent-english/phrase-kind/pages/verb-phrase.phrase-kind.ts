@@ -16,4 +16,6 @@ export const verbPhrase = {
         "A construction naming what a clause does names this rather than one part of speech.",
     },
   ],
+  createdAt: "2026-09-22T15:01:18.092Z",
+  updatedAt: "2026-09-25T15:41:48.000Z",
 } as const satisfies PhraseKind

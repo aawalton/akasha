@@ -71,4 +71,6 @@ export const otherwhereICheckInCounter = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-28T18:42:01.744Z",
+  updatedAt: "2026-09-28T23:03:13.000Z",
 } as const satisfies Place

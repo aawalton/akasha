@@ -9,4 +9,6 @@ export const anonymousPageTypeView = {
   target: "view",
   deed: ["access-deed/read-some"],
   narrow: { key: "slug", is: "requests-published" },
+  createdAt: "2026-09-21T18:14:28.447Z",
+  updatedAt: "2026-09-21T18:34:57.000Z",
 } as const satisfies PersonAccess

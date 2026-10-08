@@ -21,4 +21,6 @@ export const otherwhereVGaldon = {
       knowers: ["lore-disclosure/game-master"],
     },
   ],
+  createdAt: "2026-09-28T21:43:34.892Z",
+  updatedAt: "2026-09-28T21:43:38.000Z",
 } as const satisfies Place

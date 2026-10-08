@@ -108,4 +108,6 @@ export const overwhereIBloodyPeaks = {
       knowers: ["lore-disclosure/game-master"],
     },
   ],
+  createdAt: "2026-09-29T12:34:02.317Z",
+  updatedAt: "2026-09-29T12:34:05.000Z",
 } as const satisfies Place

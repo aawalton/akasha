@@ -28,4 +28,6 @@ export const encountersRoyalPacificLounge = {
       ],
     },
   ],
+  createdAt: "2026-10-06T22:31:42.702Z",
+  updatedAt: "2026-10-06T22:50:39.000Z",
 } as const satisfies Place

@@ -177,4 +177,6 @@ export const otherwhereIHallBack = {
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-i-alan"],
     },
   ],
+  createdAt: "2026-09-27T21:16:05.695Z",
+  updatedAt: "2026-09-28T23:03:13.000Z",
 } as const satisfies Place

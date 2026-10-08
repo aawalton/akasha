@@ -89,4 +89,6 @@ export const dragonsAndDungeonsCaerArianrhod = {
       ],
     },
   ],
+  createdAt: "2026-09-27T15:58:13.908Z",
+  updatedAt: "2026-09-27T15:58:16.000Z",
 } as const satisfies Place

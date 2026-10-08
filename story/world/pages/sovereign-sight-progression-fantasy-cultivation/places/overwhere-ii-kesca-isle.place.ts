@@ -28,4 +28,6 @@ export const overwhereIiKescaIsle = {
       knowers: ["lore-disclosure/game-master"],
     },
   ],
+  createdAt: "2026-09-29T12:31:28.112Z",
+  updatedAt: "2026-09-29T12:45:32.000Z",
 } as const satisfies Place

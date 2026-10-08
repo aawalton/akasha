@@ -65,4 +65,6 @@ export const overwhereIvGlimmerock = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-29T12:33:42.188Z",
+  updatedAt: "2026-09-29T12:33:45.000Z",
 } as const satisfies Place

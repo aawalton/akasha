@@ -27,4 +27,6 @@ export const nova = {
   anchor: "image/image-252ed27a3e5ff748",
   covers: ["image/image-252ed27a3e5ff748"],
   wallpapers: ["image/image-4af3deecb3fdcb17"],
+  createdAt: "2026-06-26T19:22:33.591Z",
+  updatedAt: "2026-09-24T19:07:30.000Z",
 } as const satisfies Persona

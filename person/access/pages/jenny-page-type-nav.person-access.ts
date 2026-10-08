@@ -9,4 +9,6 @@ export const jennyPageTypeNav = {
   target: "nav",
   deed: ["access-deed/read-some"],
   narrow: { key: "app", is: "web-app/smilingjenny-web" },
+  createdAt: "2026-09-25T15:15:02.013Z",
+  updatedAt: "2026-09-25T15:15:04.000Z",
 } as const satisfies PersonAccess

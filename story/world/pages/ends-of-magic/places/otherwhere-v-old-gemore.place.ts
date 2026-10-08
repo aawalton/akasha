@@ -30,4 +30,6 @@ export const otherwhereVOldGemore = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-28T21:37:58.988Z",
+  updatedAt: "2026-09-28T21:38:01.000Z",
 } as const satisfies Place

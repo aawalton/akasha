@@ -74,4 +74,6 @@ export const otherwhereVKeihona = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-28T21:45:49.463Z",
+  updatedAt: "2026-09-28T21:45:52.000Z",
 } as const satisfies Place

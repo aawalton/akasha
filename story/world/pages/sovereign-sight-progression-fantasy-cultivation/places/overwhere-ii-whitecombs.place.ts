@@ -305,4 +305,6 @@ export const overwhereIiWhitecombs = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-29T12:25:40.107Z",
+  updatedAt: "2026-10-03T11:51:06.000Z",
 } as const satisfies Place

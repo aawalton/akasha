@@ -50,4 +50,6 @@ export const otherwhereIvIronfields = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-28T22:06:04.216Z",
+  updatedAt: "2026-09-28T22:06:08.000Z",
 } as const satisfies Place

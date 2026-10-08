@@ -30,4 +30,6 @@ export const otherwhereIiAuroraLake = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-28T20:38:09.647Z",
+  updatedAt: "2026-09-28T22:28:51.000Z",
 } as const satisfies Place

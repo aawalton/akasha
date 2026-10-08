@@ -26,4 +26,6 @@ export const rhia = {
   anchor: "image/image-40fcb658abfc5567",
   covers: ["image/image-40fcb658abfc5567"],
   wallpapers: ["image/image-63f86e6aa6aee4d3"],
+  createdAt: "2026-07-04T15:16:09.318Z",
+  updatedAt: "2026-09-24T19:07:30.000Z",
 } as const satisfies Persona

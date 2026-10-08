@@ -7,4 +7,6 @@ export const kiFeatureRequestArchiveofworlds = {
   person: "person/ki",
   authorityKind: "authority-kind/feature-request",
   target: "archiveofworlds",
+  createdAt: "2026-08-30T19:44:45.319Z",
+  updatedAt: "2026-09-15T16:11:05.000Z",
 } as const satisfies PersonAuthority

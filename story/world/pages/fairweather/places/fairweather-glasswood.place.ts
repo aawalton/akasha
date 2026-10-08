@@ -135,4 +135,6 @@ export const fairweatherGlasswood = {
       ],
     },
   ],
+  createdAt: "2026-10-03T18:59:50.814Z",
+  updatedAt: "2026-10-04T09:27:05.000Z",
 } as const satisfies Place

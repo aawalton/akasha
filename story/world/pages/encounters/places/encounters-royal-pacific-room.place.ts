@@ -50,4 +50,6 @@ export const encountersRoyalPacificRoom = {
       ],
     },
   ],
+  createdAt: "2026-10-06T22:31:42.703Z",
+  updatedAt: "2026-10-07T01:08:18.000Z",
 } as const satisfies Place

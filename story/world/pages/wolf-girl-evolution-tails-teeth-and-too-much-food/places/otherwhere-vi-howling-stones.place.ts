@@ -45,4 +45,6 @@ export const otherwhereViHowlingStones = {
       knowers: ["lore-disclosure/game-master"],
     },
   ],
+  createdAt: "2026-09-28T22:46:08.575Z",
+  updatedAt: "2026-09-28T22:46:11.000Z",
 } as const satisfies Place

@@ -38,4 +38,6 @@ export const otherwhereVHalsmet = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-28T21:37:44.021Z",
+  updatedAt: "2026-09-28T21:37:47.000Z",
 } as const satisfies Place

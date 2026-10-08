@@ -7,4 +7,6 @@ export const theVioletHourTheWaystation = {
   title: "The Waystation by the Lake",
   world: "world/personas",
   facts: [],
+  createdAt: "2026-10-03T20:31:54.781Z",
+  updatedAt: "2026-10-03T20:31:57.000Z",
 } as const satisfies Place

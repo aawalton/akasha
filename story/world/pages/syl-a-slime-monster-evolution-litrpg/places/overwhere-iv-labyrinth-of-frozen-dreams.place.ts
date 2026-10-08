@@ -57,4 +57,6 @@ export const overwhereIvLabyrinthOfFrozenDreams = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-29T12:42:39.898Z",
+  updatedAt: "2026-09-29T12:42:42.000Z",
 } as const satisfies Place

@@ -58,4 +58,6 @@ export const cornerstoneTheFoundingCampTheBoundGround = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-26T17:28:25.484Z",
+  updatedAt: "2026-10-03T19:28:18.000Z",
 } as const satisfies Place

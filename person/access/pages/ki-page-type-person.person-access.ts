@@ -8,4 +8,6 @@ export const kiPageTypePerson = {
   accessKind: "access-kind/page-type",
   target: "person",
   deed: ["access-deed/read"],
+  createdAt: "2026-09-21T17:41:47.121Z",
+  updatedAt: "2026-09-21T17:42:18.000Z",
 } as const satisfies PersonAccess

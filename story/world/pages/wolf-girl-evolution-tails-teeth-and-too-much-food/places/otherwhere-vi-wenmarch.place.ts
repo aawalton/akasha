@@ -72,4 +72,6 @@ export const otherwhereViWenmarch = {
       ],
     },
   ],
+  createdAt: "2026-09-28T22:46:39.818Z",
+  updatedAt: "2026-09-29T03:00:42.000Z",
 } as const satisfies Place

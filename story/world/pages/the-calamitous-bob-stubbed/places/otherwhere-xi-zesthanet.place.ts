@@ -41,4 +41,6 @@ export const otherwhereXiZesthanet = {
       knowers: ["lore-disclosure/game-master"],
     },
   ],
+  createdAt: "2026-09-29T00:18:20.403Z",
+  updatedAt: "2026-09-29T00:38:25.000Z",
 } as const satisfies Place

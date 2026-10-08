@@ -46,4 +46,6 @@ export const otherwhereIvYellowRockPlateau = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-28T22:06:21.623Z",
+  updatedAt: "2026-09-28T22:06:24.000Z",
 } as const satisfies Place

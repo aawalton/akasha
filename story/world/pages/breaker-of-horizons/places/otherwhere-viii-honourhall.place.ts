@@ -21,4 +21,6 @@ export const otherwhereViiiHonourhall = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-28T22:54:07.759Z",
+  updatedAt: "2026-09-28T22:54:12.000Z",
 } as const satisfies Place

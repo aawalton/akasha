@@ -74,4 +74,6 @@ export const overwhereIiiTheMerfolkCity = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-29T12:44:17.385Z",
+  updatedAt: "2026-09-29T12:44:20.000Z",
 } as const satisfies Place

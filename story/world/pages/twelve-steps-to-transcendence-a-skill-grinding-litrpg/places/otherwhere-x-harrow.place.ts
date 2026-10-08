@@ -257,4 +257,6 @@ export const otherwhereXHarrow = {
       direction: "west",
     },
   ],
+  createdAt: "2026-09-28T23:54:55.134Z",
+  updatedAt: "2026-10-03T19:45:33.000Z",
 } as const satisfies Place

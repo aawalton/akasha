@@ -46,4 +46,6 @@ export const otherwhereXiGreatZiggurat = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-29T00:11:40.012Z",
+  updatedAt: "2026-09-29T00:11:52.000Z",
 } as const satisfies Place

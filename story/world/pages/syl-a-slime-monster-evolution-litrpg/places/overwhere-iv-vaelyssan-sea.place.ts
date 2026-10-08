@@ -101,4 +101,6 @@ export const overwhereIvVaelyssanSea = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-29T12:36:17.947Z",
+  updatedAt: "2026-09-29T12:36:20.000Z",
 } as const satisfies Place

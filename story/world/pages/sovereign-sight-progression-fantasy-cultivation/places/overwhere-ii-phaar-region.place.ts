@@ -32,4 +32,6 @@ export const overwhereIiPhaarRegion = {
       knowers: ["lore-disclosure/game-master"],
     },
   ],
+  createdAt: "2026-09-29T12:28:12.465Z",
+  updatedAt: "2026-09-29T12:45:32.000Z",
 } as const satisfies Place

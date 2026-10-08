@@ -182,4 +182,6 @@ export const otherwhereViGreypineWeald = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-28T22:45:33.594Z",
+  updatedAt: "2026-09-29T02:43:18.000Z",
 } as const satisfies Place

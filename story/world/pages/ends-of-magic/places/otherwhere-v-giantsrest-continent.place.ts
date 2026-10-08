@@ -44,4 +44,6 @@ export const otherwhereVGiantsrestContinent = {
       knowers: ["lore-disclosure/game-master"],
     },
   ],
+  createdAt: "2026-09-28T21:36:23.060Z",
+  updatedAt: "2026-09-28T21:36:25.000Z",
 } as const satisfies Place

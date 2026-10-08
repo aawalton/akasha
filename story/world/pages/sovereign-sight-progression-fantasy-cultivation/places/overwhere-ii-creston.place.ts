@@ -88,4 +88,6 @@ export const overwhereIiCreston = {
       knowers: ["lore-disclosure/game-master"],
     },
   ],
+  createdAt: "2026-09-29T12:30:43.397Z",
+  updatedAt: "2026-09-29T12:47:09.000Z",
 } as const satisfies Place

@@ -76,4 +76,6 @@ export const towerOfNimueFloor1TheCharnelDen = {
       knowers: ["lore-disclosure/game-master", "character-other/tower-of-nimue-nimue"],
     },
   ],
+  createdAt: "2026-09-26T17:28:25.485Z",
+  updatedAt: "2026-10-03T19:25:06.000Z",
 } as const satisfies Place

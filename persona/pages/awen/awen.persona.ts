@@ -26,4 +26,6 @@ export const awen = {
   anchor: "image/image-199475ad0ec0a996",
   covers: ["image/image-199475ad0ec0a996"],
   wallpapers: ["image/image-c9981b84d4fd782d"],
+  createdAt: "2026-06-29T00:47:27.813Z",
+  updatedAt: "2026-09-24T19:07:30.000Z",
 } as const satisfies Persona

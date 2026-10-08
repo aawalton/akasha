@@ -52,4 +52,6 @@ export const otherwhereVOceans = {
       knowers: ["lore-disclosure/game-master"],
     },
   ],
+  createdAt: "2026-09-28T21:45:26.422Z",
+  updatedAt: "2026-09-28T21:45:29.000Z",
 } as const satisfies Place

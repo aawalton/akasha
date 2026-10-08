@@ -69,4 +69,6 @@ export const otherwhereIiiHarborHouse = {
     },
   ],
   within: "place/otherwhere-iii-chicago",
+  createdAt: "2026-09-29T00:06:24.465Z",
+  updatedAt: "2026-09-29T00:18:07.000Z",
 } as const satisfies Place

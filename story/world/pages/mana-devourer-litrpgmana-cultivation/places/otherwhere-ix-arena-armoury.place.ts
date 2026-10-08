@@ -29,4 +29,6 @@ export const otherwhereIxArenaArmoury = {
       knowers: ["lore-disclosure/game-master"],
     },
   ],
+  createdAt: "2026-09-28T23:03:25.441Z",
+  updatedAt: "2026-09-28T23:03:30.000Z",
 } as const satisfies Place

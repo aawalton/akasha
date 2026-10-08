@@ -47,4 +47,6 @@ export const otherwhereXHarrowGreen = {
       way: "out along the village street to the king's road",
     },
   ],
+  createdAt: "2026-09-29T01:49:39.503Z",
+  updatedAt: "2026-09-29T04:12:15.000Z",
 } as const satisfies Place

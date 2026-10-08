@@ -7,4 +7,6 @@ export const theIdleEpochOvergrowth = {
   title: "The Overgrowth",
   world: "world/the-idle-epoch",
   facts: [],
+  createdAt: "2026-10-03T19:15:00.633Z",
+  updatedAt: "2026-10-03T19:15:04.000Z",
 } as const satisfies Place

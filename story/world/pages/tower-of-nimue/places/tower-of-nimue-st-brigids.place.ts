@@ -7,4 +7,6 @@ export const towerOfNimueStBrigids = {
   title: "St. Brigid's",
   world: "world/tower-of-nimue",
   facts: [],
+  createdAt: "2026-10-03T19:14:14.846Z",
+  updatedAt: "2026-10-03T19:14:18.000Z",
 } as const satisfies Place

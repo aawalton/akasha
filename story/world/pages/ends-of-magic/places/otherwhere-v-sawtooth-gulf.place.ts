@@ -13,4 +13,6 @@ export const otherwhereVSawtoothGulf = {
       knowers: ["lore-disclosure/game-master"],
     },
   ],
+  createdAt: "2026-09-28T21:46:12.379Z",
+  updatedAt: "2026-09-28T21:46:16.000Z",
 } as const satisfies Place

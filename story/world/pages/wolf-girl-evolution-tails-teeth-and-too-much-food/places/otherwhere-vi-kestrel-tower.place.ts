@@ -30,4 +30,6 @@ export const otherwhereViKestrelTower = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-28T22:46:08.576Z",
+  updatedAt: "2026-09-28T22:50:37.000Z",
 } as const satisfies Place

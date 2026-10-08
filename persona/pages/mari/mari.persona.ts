@@ -26,4 +26,6 @@ export const mari = {
   anchor: "image/image-0d953de65e55acaf",
   covers: ["image/image-0d953de65e55acaf"],
   wallpapers: ["image/image-91fdfa66da7d6059"],
+  createdAt: "2026-06-22T17:43:41.471Z",
+  updatedAt: "2026-09-24T19:07:30.000Z",
 } as const satisfies Persona
