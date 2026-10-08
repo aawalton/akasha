@@ -24,4 +24,6 @@ export const emeiCrazyStupidLoveCrazyStupidLove = {
       externalLink: "https://open.spotify.com/track/5ChgblPPPwyuGhga3msdns",
     },
   ],
+  createdAt: "2026-09-21T13:53:43.259Z",
+  updatedAt: "2026-09-24T19:59:17.000Z",
 } as const satisfies Track

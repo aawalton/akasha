@@ -24,4 +24,6 @@ export const ejaeWomanOf99BillionOriginalTelevisionSoundtrackPt3TakeItSlow = {
       externalLink: "https://open.spotify.com/track/4oAaadlpDBYMyT7l0iliIY",
     },
   ],
+  createdAt: "2026-09-24T13:46:43.265Z",
+  updatedAt: "2026-09-24T19:59:17.000Z",
 } as const satisfies Track

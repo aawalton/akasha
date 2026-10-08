@@ -24,4 +24,6 @@ export const emBeiholdInfraredCalculated = {
       externalLink: "https://open.spotify.com/track/1RLvckTKLCTKE7PTIzicqz",
     },
   ],
+  createdAt: "2026-09-24T13:47:22.085Z",
+  updatedAt: "2026-09-24T19:59:17.000Z",
 } as const satisfies Track

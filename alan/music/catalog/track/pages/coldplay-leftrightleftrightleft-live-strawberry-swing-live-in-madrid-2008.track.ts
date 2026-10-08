@@ -24,4 +24,6 @@ export const coldplayLeftrightleftrightleftLiveStrawberrySwingLiveInMadrid2008 =
       externalLink: "https://open.spotify.com/track/7jcMXBdTIXP1tf9cNXA4Mt",
     },
   ],
+  createdAt: "2026-09-19T13:50:34.691Z",
+  updatedAt: "2026-09-24T19:59:17.000Z",
 } as const satisfies Track

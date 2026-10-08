@@ -24,4 +24,6 @@ export const imagineDragonsReflectionsFromTheVaultOfSmokeMirrorsMonicaDemo = {
       externalLink: "https://open.spotify.com/track/6r3jteHvR25BRmiHHJO12i",
     },
   ],
+  createdAt: "2026-09-21T13:55:03.630Z",
+  updatedAt: "2026-09-24T19:59:43.000Z",
 } as const satisfies Track

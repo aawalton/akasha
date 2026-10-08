@@ -31,4 +31,6 @@ export const emBeiholdEggInTheBackseatTooPrecious = {
       externalLink: "https://open.spotify.com/track/7FUDnQ7zR7MltFMakoJwnG",
     },
   ],
+  createdAt: "2026-09-24T13:47:21.405Z",
+  updatedAt: "2026-09-24T19:59:17.000Z",
 } as const satisfies Track

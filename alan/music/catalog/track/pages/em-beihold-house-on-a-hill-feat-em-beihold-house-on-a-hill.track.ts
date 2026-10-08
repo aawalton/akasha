@@ -24,4 +24,6 @@ export const emBeiholdHouseOnAHillFeatEmBeiholdHouseOnAHill = {
       externalLink: "https://open.spotify.com/track/1kF95A1ME0VAlA5Df9BPg3",
     },
   ],
+  createdAt: "2026-09-24T13:47:21.223Z",
+  updatedAt: "2026-09-24T19:59:17.000Z",
 } as const satisfies Track

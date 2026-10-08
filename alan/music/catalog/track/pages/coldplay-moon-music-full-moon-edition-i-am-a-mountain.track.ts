@@ -24,4 +24,6 @@ export const coldplayMoonMusicFullMoonEditionIAmAMountain = {
       externalLink: "https://open.spotify.com/track/2NYCEJK25YURZTQSA0msEZ",
     },
   ],
+  createdAt: "2026-09-19T13:50:30.035Z",
+  updatedAt: "2026-09-24T19:59:17.000Z",
 } as const satisfies Track

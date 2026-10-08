@@ -24,4 +24,6 @@ export const celticWoman2HomecomingLiveFromIrelandWalkBesideMeLive2017 = {
       externalLink: "https://open.spotify.com/track/4L1NsjiyhaJA0M1AUko8P2",
     },
   ],
+  createdAt: "2026-09-16T20:30:58.579Z",
+  updatedAt: "2026-09-24T19:58:53.000Z",
 } as const satisfies Track

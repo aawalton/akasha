@@ -24,4 +24,6 @@ export const celticWoman2TheGreatestJourneyEssentialCollectionDannyBoy = {
       externalLink: "https://open.spotify.com/track/3kFwfCjcDzVwqD5gFwyyCv",
     },
   ],
+  createdAt: "2026-09-16T20:31:06.752Z",
+  updatedAt: "2026-09-24T19:58:53.000Z",
 } as const satisfies Track

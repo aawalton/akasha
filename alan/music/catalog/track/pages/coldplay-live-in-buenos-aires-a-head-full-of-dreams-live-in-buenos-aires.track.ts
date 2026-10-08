@@ -24,4 +24,6 @@ export const coldplayLiveInBuenosAiresAHeadFullOfDreamsLiveInBuenosAires = {
       externalLink: "https://open.spotify.com/track/5H8lr4az4Vo3LloH67yVRt",
     },
   ],
+  createdAt: "2026-09-19T13:50:31.250Z",
+  updatedAt: "2026-09-24T19:59:17.000Z",
 } as const satisfies Track

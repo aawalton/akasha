@@ -30,4 +30,6 @@ export const ejaeDnaMoreThanAGameFifaWorldCup2026tmDnaMoreThanAGame = {
       externalLink: "https://open.spotify.com/track/40qwbrvCXsiOPh9xOupCMp",
     },
   ],
+  createdAt: "2026-09-24T13:46:43.165Z",
+  updatedAt: "2026-09-24T19:59:17.000Z",
 } as const satisfies Track

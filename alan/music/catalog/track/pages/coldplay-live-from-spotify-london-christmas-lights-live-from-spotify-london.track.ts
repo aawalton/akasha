@@ -24,4 +24,6 @@ export const coldplayLiveFromSpotifyLondonChristmasLightsLiveFromSpotifyLondon =
       externalLink: "https://open.spotify.com/track/4QVdnpSO5JGMFOEl6ys4RQ",
     },
   ],
+  createdAt: "2026-09-19T13:50:40.173Z",
+  updatedAt: "2026-09-24T19:59:17.000Z",
 } as const satisfies Track

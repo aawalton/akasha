@@ -24,4 +24,6 @@ export const coldplayLive2012UsAgainstTheWorldLive = {
       externalLink: "https://open.spotify.com/track/6i8gAfT84lsvS8R7ggDZKe",
     },
   ],
+  createdAt: "2026-09-19T13:50:33.791Z",
+  updatedAt: "2026-09-24T19:59:17.000Z",
 } as const satisfies Track

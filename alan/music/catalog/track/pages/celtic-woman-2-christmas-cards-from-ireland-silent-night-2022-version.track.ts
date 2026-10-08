@@ -24,4 +24,6 @@ export const celticWoman2ChristmasCardsFromIrelandSilentNight2022Version = {
       externalLink: "https://open.spotify.com/track/7wL7uezzWgMfz9MfJ0nUNz",
     },
   ],
+  createdAt: "2026-09-16T20:31:06.236Z",
+  updatedAt: "2026-09-24T19:58:53.000Z",
 } as const satisfies Track

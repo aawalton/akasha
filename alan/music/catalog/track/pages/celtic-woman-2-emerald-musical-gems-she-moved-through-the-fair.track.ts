@@ -24,4 +24,6 @@ export const celticWoman2EmeraldMusicalGemsSheMovedThroughTheFair = {
       externalLink: "https://open.spotify.com/track/2QQJA1R9qLYbUGmMlh2LdB",
     },
   ],
+  createdAt: "2026-09-16T20:31:02.179Z",
+  updatedAt: "2026-09-24T19:58:53.000Z",
 } as const satisfies Track

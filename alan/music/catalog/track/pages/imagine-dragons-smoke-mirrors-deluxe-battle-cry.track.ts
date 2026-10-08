@@ -24,4 +24,6 @@ export const imagineDragonsSmokeMirrorsDeluxeBattleCry = {
       externalLink: "https://open.spotify.com/track/3KgIZWuC7JJOgkcGeAWbZg",
     },
   ],
+  createdAt: "2026-09-21T13:55:11.935Z",
+  updatedAt: "2026-09-24T19:59:43.000Z",
 } as const satisfies Track

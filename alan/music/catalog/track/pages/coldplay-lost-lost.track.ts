@@ -24,4 +24,6 @@ export const coldplayLostLost = {
       externalLink: "https://open.spotify.com/track/55Qm6iVvo1OMeoXc8elnmj",
     },
   ],
+  createdAt: "2026-09-19T13:50:41.961Z",
+  updatedAt: "2026-09-24T19:59:17.000Z",
 } as const satisfies Track

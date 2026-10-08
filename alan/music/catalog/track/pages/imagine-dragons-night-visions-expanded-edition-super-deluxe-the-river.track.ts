@@ -24,4 +24,6 @@ export const imagineDragonsNightVisionsExpandedEditionSuperDeluxeTheRiver = {
       externalLink: "https://open.spotify.com/track/20InaCOa8uDk5tV0Q2fQsL",
     },
   ],
+  createdAt: "2026-09-21T13:55:06.427Z",
+  updatedAt: "2026-09-24T19:59:43.000Z",
 } as const satisfies Track

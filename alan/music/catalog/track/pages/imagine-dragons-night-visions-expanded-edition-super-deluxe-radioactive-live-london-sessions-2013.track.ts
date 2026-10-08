@@ -25,4 +25,6 @@ export const imagineDragonsNightVisionsExpandedEditionSuperDeluxeRadioactiveLive
         externalLink: "https://open.spotify.com/track/3T09JC1tNKcHZPhisKKUm8",
       },
     ],
+    createdAt: "2026-09-21T13:55:07.319Z",
+    updatedAt: "2026-09-24T19:59:43.000Z",
   } as const satisfies Track

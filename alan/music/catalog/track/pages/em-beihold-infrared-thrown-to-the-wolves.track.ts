@@ -24,4 +24,6 @@ export const emBeiholdInfraredThrownToTheWolves = {
       externalLink: "https://open.spotify.com/track/2AgUZ0TyNiPKDlD6gEGrbL",
     },
   ],
+  createdAt: "2026-09-24T13:47:22.221Z",
+  updatedAt: "2026-09-24T19:59:17.000Z",
 } as const satisfies Track

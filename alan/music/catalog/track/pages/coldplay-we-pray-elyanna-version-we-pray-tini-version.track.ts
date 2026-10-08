@@ -41,4 +41,6 @@ export const coldplayWePrayElyannaVersionWePrayTiniVersion = {
       externalLink: "https://open.spotify.com/track/6OICQoNsUIcYsirqoDo08Y",
     },
   ],
+  createdAt: "2026-09-19T13:50:37.864Z",
+  updatedAt: "2026-09-24T19:59:17.000Z",
 } as const satisfies Track

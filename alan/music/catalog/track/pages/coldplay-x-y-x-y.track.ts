@@ -24,4 +24,6 @@ export const coldplayXYXY = {
       externalLink: "https://open.spotify.com/track/2rxp56vVQp1zzumJ0eHLmw",
     },
   ],
+  createdAt: "2026-09-19T13:50:36.187Z",
+  updatedAt: "2026-09-24T19:59:17.000Z",
 } as const satisfies Track

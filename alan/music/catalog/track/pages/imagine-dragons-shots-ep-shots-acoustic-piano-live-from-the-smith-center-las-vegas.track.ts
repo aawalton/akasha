@@ -25,4 +25,6 @@ export const imagineDragonsShotsEpShotsAcousticPianoLiveFromTheSmithCenterLasVeg
       externalLink: "https://open.spotify.com/track/2rO73AKiqSQef9hvYkOKB1",
     },
   ],
+  createdAt: "2026-09-21T13:55:15.610Z",
+  updatedAt: "2026-09-24T19:59:43.000Z",
 } as const satisfies Track

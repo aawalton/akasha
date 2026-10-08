@@ -24,4 +24,6 @@ export const coldplayEverydayLifeOldFriends = {
       externalLink: "https://open.spotify.com/track/3E3zYgQul8EaJioNvD2tv9",
     },
   ],
+  createdAt: "2026-09-19T13:50:31.088Z",
+  updatedAt: "2026-09-24T19:58:53.000Z",
 } as const satisfies Track

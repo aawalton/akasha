@@ -24,4 +24,6 @@ export const coldplayEverydayLifeChampionOfTheWorld = {
       externalLink: "https://open.spotify.com/track/6mf7BNgXs8JipPr2QILnyN",
     },
   ],
+  createdAt: "2026-09-19T13:50:31.170Z",
+  updatedAt: "2026-09-24T19:58:53.000Z",
 } as const satisfies Track

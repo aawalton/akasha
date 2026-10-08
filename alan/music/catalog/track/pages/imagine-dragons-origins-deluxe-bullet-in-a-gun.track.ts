@@ -24,4 +24,6 @@ export const imagineDragonsOriginsDeluxeBulletInAGun = {
       externalLink: "https://open.spotify.com/track/3R4Xk37WTagjzODMNEQLvs",
     },
   ],
+  createdAt: "2026-09-21T13:55:09.578Z",
+  updatedAt: "2026-09-24T19:59:43.000Z",
 } as const satisfies Track

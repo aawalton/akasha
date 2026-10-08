@@ -24,4 +24,6 @@ export const imagineDragonsShotsTheFunkHuntersRemixShotsTheFunkHuntersRemix = {
       externalLink: "https://open.spotify.com/track/4XrUtF4qrDlZBB4Wg9efTP",
     },
   ],
+  createdAt: "2026-09-21T13:55:15.488Z",
+  updatedAt: "2026-09-24T19:59:43.000Z",
 } as const satisfies Track

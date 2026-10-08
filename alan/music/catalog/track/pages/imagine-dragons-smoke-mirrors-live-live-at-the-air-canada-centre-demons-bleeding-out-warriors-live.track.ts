@@ -24,4 +24,6 @@ export const imagineDragonsSmokeMirrorsLiveLiveAtTheAirCanadaCentreDemonsBleedin
       externalLink: "https://open.spotify.com/track/54j7jZuU8cyVoq0dM4J6GV",
     },
   ],
+  createdAt: "2026-09-21T13:55:10.849Z",
+  updatedAt: "2026-09-24T19:59:43.000Z",
 } as const satisfies Track

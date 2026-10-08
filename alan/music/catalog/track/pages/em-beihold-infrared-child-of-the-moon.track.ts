@@ -24,4 +24,6 @@ export const emBeiholdInfraredChildOfTheMoon = {
       externalLink: "https://open.spotify.com/track/1UN1y27KKlmmgz8ILGa66h",
     },
   ],
+  createdAt: "2026-09-24T13:47:22.020Z",
+  updatedAt: "2026-09-24T19:59:17.000Z",
 } as const satisfies Track

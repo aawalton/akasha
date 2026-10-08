@@ -24,4 +24,6 @@ export const imagineDragonsItSTimeEpAmerica = {
       externalLink: "https://open.spotify.com/track/6hu7JllR9Dzbh06NIqi5FC",
     },
   ],
+  createdAt: "2026-09-21T13:55:16.942Z",
+  updatedAt: "2026-09-24T19:59:17.000Z",
 } as const satisfies Track

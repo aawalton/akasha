@@ -24,4 +24,6 @@ export const coldplayMusicOfTheSpheresPeopleOfThePride = {
       externalLink: "https://open.spotify.com/track/5ophZLHA9mwSZhQSmboyDN",
     },
   ],
+  createdAt: "2026-09-19T13:50:30.378Z",
+  updatedAt: "2026-09-24T19:59:17.000Z",
 } as const satisfies Track

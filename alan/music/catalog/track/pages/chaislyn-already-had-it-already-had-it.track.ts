@@ -24,4 +24,6 @@ export const chaislynAlreadyHadItAlreadyHadIt = {
       externalLink: "https://open.spotify.com/track/7CxobBUd6b6ft1p5o81qXF",
     },
   ],
+  createdAt: "2026-09-19T13:48:05.279Z",
+  updatedAt: "2026-09-24T19:58:53.000Z",
 } as const satisfies Track

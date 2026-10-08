@@ -34,4 +34,6 @@ export const coldplayVivaLaVidaOrDeathAndAllHisFriendsLost = {
       externalLink: "https://open.spotify.com/track/4YSmynoaeBvITzp3N8iXYU",
     },
   ],
+  createdAt: "2026-09-19T13:50:35.708Z",
+  updatedAt: "2026-09-24T19:59:17.000Z",
 } as const satisfies Track

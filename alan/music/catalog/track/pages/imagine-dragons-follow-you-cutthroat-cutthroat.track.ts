@@ -34,4 +34,6 @@ export const imagineDragonsFollowYouCutthroatCutthroat = {
       externalLink: "https://open.spotify.com/track/5KXp9E22MHunsS4W4PNBUf",
     },
   ],
+  createdAt: "2026-09-21T13:55:14.497Z",
+  updatedAt: "2026-09-24T19:59:17.000Z",
 } as const satisfies Track

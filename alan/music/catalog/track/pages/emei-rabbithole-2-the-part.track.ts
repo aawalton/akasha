@@ -24,4 +24,6 @@ export const emeiRabbithole2ThePart = {
       externalLink: "https://open.spotify.com/track/2RCZZqbvNR5pEORY3p8PY2",
     },
   ],
+  createdAt: "2026-09-21T13:53:43.612Z",
+  updatedAt: "2026-09-24T19:59:17.000Z",
 } as const satisfies Track

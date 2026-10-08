@@ -24,4 +24,6 @@ export const imagineDragonsImagineDragonsLiveInVegasIBetMyLifeAcousticLiveInVega
       externalLink: "https://open.spotify.com/track/5QXqQloyCOtu9rdGN7iRre",
     },
   ],
+  createdAt: "2026-09-21T13:55:05.258Z",
+  updatedAt: "2026-09-24T19:59:17.000Z",
 } as const satisfies Track

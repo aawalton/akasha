@@ -24,4 +24,6 @@ export const coldplayEverydayLifeDaddy = {
       externalLink: "https://open.spotify.com/track/3pcPPhPAiurm2Ior11SHrz",
     },
   ],
+  createdAt: "2026-09-19T13:50:30.778Z",
+  updatedAt: "2026-09-24T19:58:53.000Z",
 } as const satisfies Track

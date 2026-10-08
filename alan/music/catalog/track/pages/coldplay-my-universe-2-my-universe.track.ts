@@ -31,4 +31,6 @@ export const coldplayMyUniverse2MyUniverse = {
       externalLink: "https://open.spotify.com/track/3FeVmId7tL5YN8B7R3imoM",
     },
   ],
+  createdAt: "2026-09-19T13:50:38.876Z",
+  updatedAt: "2026-09-24T19:59:17.000Z",
 } as const satisfies Track

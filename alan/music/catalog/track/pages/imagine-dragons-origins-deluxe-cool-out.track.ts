@@ -24,4 +24,6 @@ export const imagineDragonsOriginsDeluxeCoolOut = {
       externalLink: "https://open.spotify.com/track/6LXMUR2rpxFBDo6nilS3yX",
     },
   ],
+  createdAt: "2026-09-21T13:55:09.398Z",
+  updatedAt: "2026-09-24T19:59:43.000Z",
 } as const satisfies Track

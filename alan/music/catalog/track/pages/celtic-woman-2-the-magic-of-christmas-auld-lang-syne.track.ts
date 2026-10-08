@@ -24,4 +24,6 @@ export const celticWoman2TheMagicOfChristmasAuldLangSyne = {
       externalLink: "https://open.spotify.com/track/3wBkeNGC9sAzLsbOGPdHVD",
     },
   ],
+  createdAt: "2026-09-16T20:30:57.061Z",
+  updatedAt: "2026-09-24T19:58:53.000Z",
 } as const satisfies Track

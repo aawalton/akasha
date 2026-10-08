@@ -24,4 +24,6 @@ export const coldplayTroubleShiverJoWhileyLunchtimeSocial = {
       externalLink: "https://open.spotify.com/track/3Hpx4F7A30l7FiQddY6aYw",
     },
   ],
+  createdAt: "2026-09-19T13:50:44.090Z",
+  updatedAt: "2026-09-24T19:59:17.000Z",
 } as const satisfies Track

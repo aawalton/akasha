@@ -24,4 +24,6 @@ export const chaislynDreamsIForgotAboutDreamsIForgotAbout = {
       externalLink: "https://open.spotify.com/track/3vIPyVKMrCPfGKWNFTOdNO",
     },
   ],
+  createdAt: "2026-09-19T13:48:05.394Z",
+  updatedAt: "2026-09-24T19:58:53.000Z",
 } as const satisfies Track

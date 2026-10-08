@@ -24,4 +24,6 @@ export const imagineDragonsImagineDragonsLiveInVegasWhateverItTakesLiveInVegas =
       externalLink: "https://open.spotify.com/track/5nASdE2ijIfq0cIG4VZCgW",
     },
   ],
+  createdAt: "2026-09-21T13:55:05.339Z",
+  updatedAt: "2026-09-24T19:59:17.000Z",
 } as const satisfies Track

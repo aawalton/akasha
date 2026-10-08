@@ -31,4 +31,6 @@ export const emBeiholdScaredOfTheDarkHotGoblin = {
       externalLink: "https://open.spotify.com/track/2mxi2IQdwga4K5mtBzu2zj",
     },
   ],
+  createdAt: "2026-09-24T13:47:20.828Z",
+  updatedAt: "2026-09-24T19:59:17.000Z",
 } as const satisfies Track

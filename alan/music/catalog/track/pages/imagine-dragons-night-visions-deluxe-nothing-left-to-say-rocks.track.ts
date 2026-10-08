@@ -24,4 +24,6 @@ export const imagineDragonsNightVisionsDeluxeNothingLeftToSayRocks = {
       externalLink: "https://open.spotify.com/track/16hsoq7933Mb069YTs2XYX",
     },
   ],
+  createdAt: "2026-09-21T13:55:13.536Z",
+  updatedAt: "2026-09-24T19:59:43.000Z",
 } as const satisfies Track

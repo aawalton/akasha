@@ -34,4 +34,6 @@ export const celticWoman2CelticWomanSheMovedThruTheFair = {
       externalLink: "https://open.spotify.com/track/1iB8fvVxL0wSgOhinsd5FS",
     },
   ],
+  createdAt: "2026-09-16T20:31:05.571Z",
+  updatedAt: "2026-09-24T22:15:33.000Z",
 } as const satisfies Track

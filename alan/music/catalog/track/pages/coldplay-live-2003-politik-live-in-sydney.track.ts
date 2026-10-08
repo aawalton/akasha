@@ -24,4 +24,6 @@ export const coldplayLive2003PolitikLiveInSydney = {
       externalLink: "https://open.spotify.com/track/110a2YFVoGswehZi2kkVpp",
     },
   ],
+  createdAt: "2026-09-19T13:50:36.492Z",
+  updatedAt: "2026-09-24T19:59:17.000Z",
 } as const satisfies Track

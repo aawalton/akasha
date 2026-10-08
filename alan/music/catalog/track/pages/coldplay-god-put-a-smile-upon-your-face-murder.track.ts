@@ -31,4 +31,6 @@ export const coldplayGodPutASmileUponYourFaceMurder = {
       externalLink: "https://open.spotify.com/track/41qujRJ7RG759UklwNHStb",
     },
   ],
+  createdAt: "2026-09-19T13:50:43.395Z",
+  updatedAt: "2026-09-24T19:59:17.000Z",
 } as const satisfies Track

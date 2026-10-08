@@ -50,4 +50,6 @@ export const emei9LivesRabbithole = {
       externalLink: "https://open.spotify.com/track/5zYt0cbXQ6ukX3Oc8Wed4m",
     },
   ],
+  createdAt: "2026-09-21T13:53:43.728Z",
+  updatedAt: "2026-09-24T19:59:17.000Z",
 } as const satisfies Track

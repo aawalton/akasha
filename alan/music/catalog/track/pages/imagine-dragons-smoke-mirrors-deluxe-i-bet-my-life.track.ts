@@ -34,4 +34,6 @@ export const imagineDragonsSmokeMirrorsDeluxeIBetMyLife = {
       externalLink: "https://open.spotify.com/track/1CQXNBt6zv15L8zDITcxRB",
     },
   ],
+  createdAt: "2026-09-21T13:55:11.396Z",
+  updatedAt: "2026-09-24T19:59:43.000Z",
 } as const satisfies Track

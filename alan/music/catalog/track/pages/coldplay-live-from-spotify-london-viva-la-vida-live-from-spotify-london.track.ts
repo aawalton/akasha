@@ -24,4 +24,6 @@ export const coldplayLiveFromSpotifyLondonVivaLaVidaLiveFromSpotifyLondon = {
       externalLink: "https://open.spotify.com/track/6qt0IWS8y6yGR6gNTEmQzj",
     },
   ],
+  createdAt: "2026-09-19T13:50:40.074Z",
+  updatedAt: "2026-09-24T19:59:17.000Z",
 } as const satisfies Track

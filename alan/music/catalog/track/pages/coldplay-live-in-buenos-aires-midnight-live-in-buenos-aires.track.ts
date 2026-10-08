@@ -24,4 +24,6 @@ export const coldplayLiveInBuenosAiresMidnightLiveInBuenosAires = {
       externalLink: "https://open.spotify.com/track/62OqszvOYSuonp6Buj4P74",
     },
   ],
+  createdAt: "2026-09-19T13:50:31.642Z",
+  updatedAt: "2026-09-24T19:59:17.000Z",
 } as const satisfies Track

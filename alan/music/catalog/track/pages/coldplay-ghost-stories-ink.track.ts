@@ -24,4 +24,6 @@ export const coldplayGhostStoriesInk = {
       externalLink: "https://open.spotify.com/track/6c6W25YoDGjTq3qSPOga5t",
     },
   ],
+  createdAt: "2026-09-19T13:50:33.055Z",
+  updatedAt: "2026-09-24T19:59:17.000Z",
 } as const satisfies Track

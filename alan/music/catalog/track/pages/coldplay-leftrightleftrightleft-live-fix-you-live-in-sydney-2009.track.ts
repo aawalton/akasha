@@ -24,4 +24,6 @@ export const coldplayLeftrightleftrightleftLiveFixYouLiveInSydney2009 = {
       externalLink: "https://open.spotify.com/track/0Ir2uqonLKO7JZwZM45558",
     },
   ],
+  createdAt: "2026-09-19T13:50:34.823Z",
+  updatedAt: "2026-09-24T19:59:17.000Z",
 } as const satisfies Track

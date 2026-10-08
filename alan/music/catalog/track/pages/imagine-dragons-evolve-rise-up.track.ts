@@ -24,4 +24,6 @@ export const imagineDragonsEvolveRiseUp = {
       externalLink: "https://open.spotify.com/track/3zT2616WcD9Df5m21OsCX0",
     },
   ],
+  createdAt: "2026-09-21T13:55:10.119Z",
+  updatedAt: "2026-09-24T19:59:17.000Z",
 } as const satisfies Track

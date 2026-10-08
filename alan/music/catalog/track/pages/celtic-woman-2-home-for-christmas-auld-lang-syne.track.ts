@@ -24,4 +24,6 @@ export const celticWoman2HomeForChristmasAuldLangSyne = {
       externalLink: "https://open.spotify.com/track/1gimDDa3tFPOvji1CrtRg3",
     },
   ],
+  createdAt: "2026-09-16T20:31:02.742Z",
+  updatedAt: "2026-09-24T19:58:53.000Z",
 } as const satisfies Track

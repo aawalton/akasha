@@ -24,4 +24,6 @@ export const celticWoman2TheMagicOfChristmasOHolyNight = {
       externalLink: "https://open.spotify.com/track/6W463ll5YkRw9QWoWff0Px",
     },
   ],
+  createdAt: "2026-09-16T20:30:56.860Z",
+  updatedAt: "2026-09-24T19:58:53.000Z",
 } as const satisfies Track

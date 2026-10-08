@@ -24,4 +24,6 @@ export const coldplayXYTwistedLogic = {
       externalLink: "https://open.spotify.com/track/6kevl5fnM7GRJ2K2rBBnxq",
     },
   ],
+  createdAt: "2026-09-19T13:50:36.414Z",
+  updatedAt: "2026-09-24T19:59:17.000Z",
 } as const satisfies Track

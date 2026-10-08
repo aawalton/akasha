@@ -34,4 +34,6 @@ export const coldplayEveryTeardropIsAWaterfall2MajorMinus = {
       externalLink: "https://open.spotify.com/track/1izA7wgOZRuDup2WcE7lo4",
     },
   ],
+  createdAt: "2026-09-19T13:50:41.600Z",
+  updatedAt: "2026-09-24T19:58:53.000Z",
 } as const satisfies Track

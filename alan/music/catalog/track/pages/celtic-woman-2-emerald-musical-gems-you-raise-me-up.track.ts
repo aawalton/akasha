@@ -24,4 +24,6 @@ export const celticWoman2EmeraldMusicalGemsYouRaiseMeUp = {
       externalLink: "https://open.spotify.com/track/1UNpf0gMZKFuHg5s6pDTEs",
     },
   ],
+  createdAt: "2026-09-16T20:31:02.374Z",
+  updatedAt: "2026-09-24T19:58:53.000Z",
 } as const satisfies Track

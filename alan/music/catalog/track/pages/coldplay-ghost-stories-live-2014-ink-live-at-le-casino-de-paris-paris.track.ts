@@ -24,4 +24,6 @@ export const coldplayGhostStoriesLive2014InkLiveAtLeCasinoDeParisParis = {
       externalLink: "https://open.spotify.com/track/29G1awyCr8RHz9EsTwqC6P",
     },
   ],
+  createdAt: "2026-09-19T13:50:32.702Z",
+  updatedAt: "2026-09-24T19:59:17.000Z",
 } as const satisfies Track

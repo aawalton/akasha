@@ -24,4 +24,6 @@ export const ejaeInAnotherWorldInAnotherWorld = {
       externalLink: "https://open.spotify.com/track/2TTTiaXJZJn7y4ZC6YGXlv",
     },
   ],
+  createdAt: "2026-09-24T13:46:43.474Z",
+  updatedAt: "2026-09-24T19:59:17.000Z",
 } as const satisfies Track

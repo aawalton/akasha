@@ -31,4 +31,6 @@ export const coldplayBiutyfulBiutyful = {
       externalLink: "https://open.spotify.com/track/2L2mM3rEO3arNIMQnb3dou",
     },
   ],
+  createdAt: "2026-09-19T13:50:38.139Z",
+  updatedAt: "2026-09-24T19:58:53.000Z",
 } as const satisfies Track

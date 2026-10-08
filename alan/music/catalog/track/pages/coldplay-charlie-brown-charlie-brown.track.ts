@@ -31,4 +31,6 @@ export const coldplayCharlieBrownCharlieBrown = {
       externalLink: "https://open.spotify.com/track/1yqMgZNrevsWMLWfO2PRp5",
     },
   ],
+  createdAt: "2026-09-19T13:50:41.399Z",
+  updatedAt: "2026-09-24T19:58:53.000Z",
 } as const satisfies Track

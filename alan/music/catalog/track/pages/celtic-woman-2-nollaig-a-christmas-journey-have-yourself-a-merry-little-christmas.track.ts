@@ -24,4 +24,6 @@ export const celticWoman2NollaigAChristmasJourneyHaveYourselfAMerryLittleChristm
       externalLink: "https://open.spotify.com/track/1ynMuQjOC3UMXLr9N70tuP",
     },
   ],
+  createdAt: "2026-09-16T20:30:54.972Z",
+  updatedAt: "2026-09-24T19:58:53.000Z",
 } as const satisfies Track

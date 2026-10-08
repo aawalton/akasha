@@ -24,4 +24,6 @@ export const celticWoman2HomecomingLiveFromIrelandHomecomingLamentLive2017 = {
       externalLink: "https://open.spotify.com/track/0u18slAayRFU0pI759JkAr",
     },
   ],
+  createdAt: "2026-09-16T20:30:58.485Z",
+  updatedAt: "2026-09-24T19:58:53.000Z",
 } as const satisfies Track

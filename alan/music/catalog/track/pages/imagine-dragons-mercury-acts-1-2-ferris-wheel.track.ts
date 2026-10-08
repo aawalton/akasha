@@ -24,4 +24,6 @@ export const imagineDragonsMercuryActs12FerrisWheel = {
       externalLink: "https://open.spotify.com/track/1qaWM3wK6aZZALpAPVdZ6D",
     },
   ],
+  createdAt: "2026-09-21T13:55:08.995Z",
+  updatedAt: "2026-09-24T19:59:17.000Z",
 } as const satisfies Track

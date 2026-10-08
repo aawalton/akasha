@@ -24,4 +24,6 @@ export const coldplayAHeadFullOfDreamsUpUp = {
       externalLink: "https://open.spotify.com/track/31L9yLXSj6LpCFupyMV6CR",
     },
   ],
+  createdAt: "2026-09-19T13:50:32.584Z",
+  updatedAt: "2026-09-24T19:58:53.000Z",
 } as const satisfies Track

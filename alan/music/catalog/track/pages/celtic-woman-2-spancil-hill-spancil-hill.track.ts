@@ -24,4 +24,6 @@ export const celticWoman2SpancilHillSpancilHill = {
       externalLink: "https://open.spotify.com/track/2GLg6Dlgw13oYmAPi4c45m",
     },
   ],
+  createdAt: "2026-09-16T20:31:05.920Z",
+  updatedAt: "2026-09-24T19:58:53.000Z",
 } as const satisfies Track

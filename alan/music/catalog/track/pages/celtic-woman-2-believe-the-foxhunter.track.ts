@@ -30,4 +30,6 @@ export const celticWoman2BelieveTheFoxhunter = {
       externalLink: "https://open.spotify.com/track/684Lh6Sq5KG7tOMTfWoLA1",
     },
   ],
+  createdAt: "2026-09-16T20:31:02.918Z",
+  updatedAt: "2026-09-24T19:58:53.000Z",
 } as const satisfies Track

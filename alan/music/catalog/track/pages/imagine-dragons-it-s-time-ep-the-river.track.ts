@@ -24,4 +24,6 @@ export const imagineDragonsItSTimeEpTheRiver = {
       externalLink: "https://open.spotify.com/track/41zwUx62ysDe6nwWBh0OgF",
     },
   ],
+  createdAt: "2026-09-21T13:55:16.771Z",
+  updatedAt: "2026-09-24T19:59:17.000Z",
 } as const satisfies Track

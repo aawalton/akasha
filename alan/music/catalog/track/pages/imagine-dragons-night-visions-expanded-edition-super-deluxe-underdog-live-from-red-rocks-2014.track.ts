@@ -24,4 +24,6 @@ export const imagineDragonsNightVisionsExpandedEditionSuperDeluxeUnderdogLiveFro
       externalLink: "https://open.spotify.com/track/7cD55yByyIRQuoXuagsblY",
     },
   ],
+  createdAt: "2026-09-21T13:55:07.188Z",
+  updatedAt: "2026-09-24T19:59:43.000Z",
 } as const satisfies Track

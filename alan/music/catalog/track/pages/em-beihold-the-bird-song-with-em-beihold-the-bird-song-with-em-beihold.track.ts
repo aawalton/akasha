@@ -24,4 +24,6 @@ export const emBeiholdTheBirdSongWithEmBeiholdTheBirdSongWithEmBeihold = {
       externalLink: "https://open.spotify.com/track/3IC7SjOoA1gt0xzUZBMww8",
     },
   ],
+  createdAt: "2026-09-24T13:47:20.980Z",
+  updatedAt: "2026-09-24T19:59:17.000Z",
 } as const satisfies Track

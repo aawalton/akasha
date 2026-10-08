@@ -26,4 +26,6 @@ export const celticWoman2DecadeTheSongsTheShowTheTraditionsTheClassicsWalkingThe
       externalLink: "https://open.spotify.com/track/3UBX0ysWycKWiinU7GfoZX",
     },
   ],
+  createdAt: "2026-09-16T20:31:00.115Z",
+  updatedAt: "2026-09-24T19:58:53.000Z",
 } as const satisfies Track

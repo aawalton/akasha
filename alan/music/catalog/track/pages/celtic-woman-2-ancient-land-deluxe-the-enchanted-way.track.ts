@@ -24,4 +24,6 @@ export const celticWoman2AncientLandDeluxeTheEnchantedWay = {
       externalLink: "https://open.spotify.com/track/6uLJhPSzjH3MkUhFLZS9SR",
     },
   ],
+  createdAt: "2026-09-16T20:30:57.626Z",
+  updatedAt: "2026-09-24T19:58:53.000Z",
 } as const satisfies Track

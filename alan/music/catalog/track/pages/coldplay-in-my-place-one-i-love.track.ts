@@ -24,4 +24,6 @@ export const coldplayInMyPlaceOneILove = {
       externalLink: "https://open.spotify.com/track/5YahO7aySL2lyj6DW2tS9q",
     },
   ],
+  createdAt: "2026-09-19T13:50:43.647Z",
+  updatedAt: "2026-09-24T19:59:17.000Z",
 } as const satisfies Track

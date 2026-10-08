@@ -24,4 +24,6 @@ export const celticWoman2CelticWomanSiDoMhaimeoILive = {
       externalLink: "https://open.spotify.com/track/7BsL26icVm1H53xLAw5tvC",
     },
   ],
+  createdAt: "2026-09-16T20:31:05.818Z",
+  updatedAt: "2026-09-24T19:58:53.000Z",
 } as const satisfies Track

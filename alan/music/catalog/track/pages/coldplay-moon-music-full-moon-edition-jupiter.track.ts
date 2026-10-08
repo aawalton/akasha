@@ -34,4 +34,6 @@ export const coldplayMoonMusicFullMoonEditionJupiter = {
       externalLink: "https://open.spotify.com/track/3Bc8H4AiPnI8yECFhs6Y3O",
     },
   ],
+  createdAt: "2026-09-19T13:50:29.537Z",
+  updatedAt: "2026-09-24T19:59:17.000Z",
 } as const satisfies Track

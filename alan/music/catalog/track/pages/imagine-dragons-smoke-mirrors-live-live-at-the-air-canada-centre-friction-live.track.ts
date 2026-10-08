@@ -24,4 +24,6 @@ export const imagineDragonsSmokeMirrorsLiveLiveAtTheAirCanadaCentreFrictionLive 
       externalLink: "https://open.spotify.com/track/0E56yEx4Xcey4QdXtkHKAG",
     },
   ],
+  createdAt: "2026-09-21T13:55:11.018Z",
+  updatedAt: "2026-09-24T19:59:43.000Z",
 } as const satisfies Track

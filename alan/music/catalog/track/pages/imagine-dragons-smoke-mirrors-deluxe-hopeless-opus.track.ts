@@ -34,4 +34,6 @@ export const imagineDragonsSmokeMirrorsDeluxeHopelessOpus = {
       externalLink: "https://open.spotify.com/track/5ygTySvimUjWJk9WLgMDCn",
     },
   ],
+  createdAt: "2026-09-21T13:55:11.656Z",
+  updatedAt: "2026-09-24T19:59:43.000Z",
 } as const satisfies Track

@@ -24,4 +24,6 @@ export const ejaeDinnerMateOriginalTelevisionSoundtrackPt5MidnightCinderellaInst
       externalLink: "https://open.spotify.com/track/76K90uZb12DwEETHMbHaTH",
     },
   ],
+  createdAt: "2026-09-24T13:46:43.586Z",
+  updatedAt: "2026-09-24T19:59:17.000Z",
 } as const satisfies Track

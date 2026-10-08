@@ -24,4 +24,6 @@ export const coldplaySpotifySinglesDayNNiteSpotifySingles = {
       externalLink: "https://open.spotify.com/track/6M0tj2hONdMEveSWg3JdQG",
     },
   ],
+  createdAt: "2026-09-19T13:50:38.610Z",
+  updatedAt: "2026-09-24T19:59:17.000Z",
 } as const satisfies Track

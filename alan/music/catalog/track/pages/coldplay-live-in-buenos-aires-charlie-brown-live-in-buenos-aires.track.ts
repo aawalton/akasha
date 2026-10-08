@@ -24,4 +24,6 @@ export const coldplayLiveInBuenosAiresCharlieBrownLiveInBuenosAires = {
       externalLink: "https://open.spotify.com/track/3ksF058sVZ21EgQdRLbUyI",
     },
   ],
+  createdAt: "2026-09-19T13:50:31.680Z",
+  updatedAt: "2026-09-24T19:59:17.000Z",
 } as const satisfies Track

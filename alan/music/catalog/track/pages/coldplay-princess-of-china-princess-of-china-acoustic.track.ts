@@ -24,4 +24,6 @@ export const coldplayPrincessOfChinaPrincessOfChinaAcoustic = {
       externalLink: "https://open.spotify.com/track/2tKqZsc0epdLrsNUT6y0Ls",
     },
   ],
+  createdAt: "2026-09-19T13:50:41.318Z",
+  updatedAt: "2026-09-24T19:59:17.000Z",
 } as const satisfies Track

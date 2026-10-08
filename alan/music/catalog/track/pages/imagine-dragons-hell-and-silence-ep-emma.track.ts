@@ -24,4 +24,6 @@ export const imagineDragonsHellAndSilenceEpEmma = {
       externalLink: "https://open.spotify.com/track/4BixqolRkt6q6uFRfx57wm",
     },
   ],
+  createdAt: "2026-09-21T13:55:17.231Z",
+  updatedAt: "2026-09-24T19:59:17.000Z",
 } as const satisfies Track

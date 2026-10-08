@@ -24,4 +24,6 @@ export const emBeiholdTalesOfAFailedShapeshifterSoup = {
       externalLink: "https://open.spotify.com/track/1wtOADc6uc4s18juswLYUk",
     },
   ],
+  createdAt: "2026-09-24T13:47:20.268Z",
+  updatedAt: "2026-09-24T19:59:17.000Z",
 } as const satisfies Track

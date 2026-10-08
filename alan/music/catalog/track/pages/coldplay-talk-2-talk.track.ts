@@ -24,4 +24,6 @@ export const coldplayTalk2Talk = {
       externalLink: "https://open.spotify.com/track/07TzXoUAtflCfeipNNXFtk",
     },
   ],
+  createdAt: "2026-09-19T13:50:42.749Z",
+  updatedAt: "2026-09-24T19:59:17.000Z",
 } as const satisfies Track

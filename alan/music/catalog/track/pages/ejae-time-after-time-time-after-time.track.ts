@@ -24,4 +24,6 @@ export const ejaeTimeAfterTimeTimeAfterTime = {
       externalLink: "https://open.spotify.com/track/2PT1VwYndxOPXE1qhiib0x",
     },
   ],
+  createdAt: "2026-09-24T13:46:43.405Z",
+  updatedAt: "2026-09-24T19:59:17.000Z",
 } as const satisfies Track

@@ -34,4 +34,6 @@ export const imagineDragonsLoveOfMineNightVisionsDemoLoveOfMineNightVisionsDemo 
       externalLink: "https://open.spotify.com/track/7I1y2CPR4JPc9jE87L8Goi",
     },
   ],
+  createdAt: "2026-09-21T13:55:14.061Z",
+  updatedAt: "2026-09-24T19:59:17.000Z",
 } as const satisfies Track

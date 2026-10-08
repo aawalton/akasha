@@ -24,4 +24,6 @@ export const coldplayParachutesEverythingsNotLostIncludesHiddenTrackLifeIsForLiv
       externalLink: "https://open.spotify.com/track/1RNtm45kw0hPMBz7gKiIYu",
     },
   ],
+  createdAt: "2026-09-19T13:50:37.711Z",
+  updatedAt: "2026-09-24T19:59:17.000Z",
 } as const satisfies Track

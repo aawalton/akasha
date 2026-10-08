@@ -24,4 +24,6 @@ export const imagineDragonsImagineDragonsLiveInVegasLasVegasOurHomeLiveInVegas =
       externalLink: "https://open.spotify.com/track/3U0cjsyIcKhZbBPsOPKZj7",
     },
   ],
+  createdAt: "2026-09-21T13:55:04.903Z",
+  updatedAt: "2026-09-24T19:59:17.000Z",
 } as const satisfies Track

@@ -24,4 +24,6 @@ export const imagineDragonsLoomKid = {
       externalLink: "https://open.spotify.com/track/4PPK3VK5iDF7Vqmey65li2",
     },
   ],
+  createdAt: "2026-09-21T13:55:04.679Z",
+  updatedAt: "2026-09-24T19:59:17.000Z",
 } as const satisfies Track

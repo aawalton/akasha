@@ -24,4 +24,6 @@ export const imagineDragonsMercuryActs12OneDay = {
       externalLink: "https://open.spotify.com/track/0xBlufYjHrtf8xk0QifNn1",
     },
   ],
+  createdAt: "2026-09-21T13:55:08.530Z",
+  updatedAt: "2026-09-24T19:59:17.000Z",
 } as const satisfies Track

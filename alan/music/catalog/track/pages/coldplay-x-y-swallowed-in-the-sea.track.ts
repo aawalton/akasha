@@ -24,4 +24,6 @@ export const coldplayXYSwallowedInTheSea = {
       externalLink: "https://open.spotify.com/track/2u2WL5N3KnQnykOZi3fxL6",
     },
   ],
+  createdAt: "2026-09-19T13:50:36.373Z",
+  updatedAt: "2026-09-24T19:59:17.000Z",
 } as const satisfies Track

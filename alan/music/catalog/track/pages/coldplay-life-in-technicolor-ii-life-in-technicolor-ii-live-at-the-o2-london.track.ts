@@ -24,4 +24,6 @@ export const coldplayLifeInTechnicolorIiLifeInTechnicolorIiLiveAtTheO2London = {
       externalLink: "https://open.spotify.com/track/5kUpX8qTX6yXBJHK8UwBEF",
     },
   ],
+  createdAt: "2026-09-19T13:50:41.881Z",
+  updatedAt: "2026-09-24T19:59:17.000Z",
 } as const satisfies Track

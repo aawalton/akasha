@@ -24,4 +24,6 @@ export const emBeiholdInfraredNotWhoWeWere = {
       externalLink: "https://open.spotify.com/track/0ygpggMdX083BG62ooYO2F",
     },
   ],
+  createdAt: "2026-09-24T13:47:22.151Z",
+  updatedAt: "2026-09-24T19:59:17.000Z",
 } as const satisfies Track

@@ -24,4 +24,6 @@ export const coldplayEverydayLifeWotwPotp = {
       externalLink: "https://open.spotify.com/track/7jib2tJjQ82kTIZZATMvAK",
     },
   ],
+  createdAt: "2026-09-19T13:50:30.823Z",
+  updatedAt: "2026-09-24T19:58:53.000Z",
 } as const satisfies Track

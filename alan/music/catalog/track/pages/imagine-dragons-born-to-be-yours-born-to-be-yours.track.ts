@@ -24,4 +24,6 @@ export const imagineDragonsBornToBeYoursBornToBeYours = {
       externalLink: "https://open.spotify.com/track/0WVAQaxrT0wsGEG4BCVSn2",
     },
   ],
+  createdAt: "2026-09-21T13:55:14.747Z",
+  updatedAt: "2026-09-24T19:59:17.000Z",
 } as const satisfies Track

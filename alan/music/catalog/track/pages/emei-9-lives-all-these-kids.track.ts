@@ -42,4 +42,6 @@ export const emei9LivesAllTheseKids = {
       externalLink: "https://open.spotify.com/track/4RgD26YY5ohlaMkkIqHh0J",
     },
   ],
+  createdAt: "2026-09-21T13:53:43.690Z",
+  updatedAt: "2026-09-24T19:59:17.000Z",
 } as const satisfies Track

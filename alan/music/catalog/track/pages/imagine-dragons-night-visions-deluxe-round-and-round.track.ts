@@ -24,4 +24,6 @@ export const imagineDragonsNightVisionsDeluxeRoundAndRound = {
       externalLink: "https://open.spotify.com/track/6pLhhL7EzoVWoyvyTBjqP6",
     },
   ],
+  createdAt: "2026-09-21T13:55:13.621Z",
+  updatedAt: "2026-09-24T19:59:43.000Z",
 } as const satisfies Track

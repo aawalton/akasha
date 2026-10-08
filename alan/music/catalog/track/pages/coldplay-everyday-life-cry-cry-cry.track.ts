@@ -24,4 +24,6 @@ export const coldplayEverydayLifeCryCryCry = {
       externalLink: "https://open.spotify.com/track/4Kwhm5VU4huxmQtBqd1AXo",
     },
   ],
+  createdAt: "2026-09-19T13:50:31.053Z",
+  updatedAt: "2026-09-24T19:58:53.000Z",
 } as const satisfies Track

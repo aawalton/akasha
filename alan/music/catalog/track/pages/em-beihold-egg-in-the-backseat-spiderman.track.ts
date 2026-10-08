@@ -24,4 +24,6 @@ export const emBeiholdEggInTheBackseatSpiderman = {
       externalLink: "https://open.spotify.com/track/3VafE9FVyKetfsS5tfhRs7",
     },
   ],
+  createdAt: "2026-09-24T13:47:20.675Z",
+  updatedAt: "2026-09-24T19:59:17.000Z",
 } as const satisfies Track

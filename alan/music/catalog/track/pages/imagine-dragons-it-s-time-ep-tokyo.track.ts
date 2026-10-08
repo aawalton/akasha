@@ -24,4 +24,6 @@ export const imagineDragonsItSTimeEpTokyo = {
       externalLink: "https://open.spotify.com/track/4epZ5ws5c3rIwI2pqgHD6P",
     },
   ],
+  createdAt: "2026-09-21T13:55:16.730Z",
+  updatedAt: "2026-09-24T19:59:17.000Z",
 } as const satisfies Track

@@ -34,4 +34,6 @@ export const imagineDragonsItSTimeRemixesItsTimeKatKrazyRemix = {
       externalLink: "https://open.spotify.com/track/39C0J5Gcd5jWiVA67hCKxV",
     },
   ],
+  createdAt: "2026-09-21T13:55:16.521Z",
+  updatedAt: "2026-09-24T19:59:17.000Z",
 } as const satisfies Track

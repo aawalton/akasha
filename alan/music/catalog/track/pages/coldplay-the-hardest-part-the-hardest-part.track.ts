@@ -31,4 +31,6 @@ export const coldplayTheHardestPartTheHardestPart = {
       externalLink: "https://open.spotify.com/track/4Tw9JYF9HOuPRyccNWMgwf",
     },
   ],
+  createdAt: "2026-09-19T13:50:42.553Z",
+  updatedAt: "2026-09-24T19:59:17.000Z",
 } as const satisfies Track

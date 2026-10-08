@@ -24,4 +24,6 @@ export const celticWoman2ChristmasCardsFromIrelandTheToysWaltz = {
       externalLink: "https://open.spotify.com/track/3TEURTW0z0L6eUofPYTr6P",
     },
   ],
+  createdAt: "2026-09-16T20:31:06.128Z",
+  updatedAt: "2026-09-24T19:58:53.000Z",
 } as const satisfies Track

@@ -24,4 +24,6 @@ export const imagineDragonsImagineDragonsSpotifySessionsIBetMyLifeLiveFromSpotif
       externalLink: "https://open.spotify.com/track/2N7zevcCCMxGt9TDG29dcF",
     },
   ],
+  createdAt: "2026-09-21T13:55:15.652Z",
+  updatedAt: "2026-09-24T19:59:17.000Z",
 } as const satisfies Track

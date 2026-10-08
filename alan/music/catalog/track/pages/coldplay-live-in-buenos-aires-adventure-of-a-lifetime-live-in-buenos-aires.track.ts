@@ -24,4 +24,6 @@ export const coldplayLiveInBuenosAiresAdventureOfALifetimeLiveInBuenosAires = {
       externalLink: "https://open.spotify.com/track/3ERJLifTcWBFNZRl6QAqEC",
     },
   ],
+  createdAt: "2026-09-19T13:50:31.841Z",
+  updatedAt: "2026-09-24T19:59:17.000Z",
 } as const satisfies Track

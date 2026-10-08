@@ -25,4 +25,6 @@ export const emeiTalkTalkTalkTalkTalkTalk = {
       externalLink: "https://open.spotify.com/track/4HvSwd9s3C6UdLQyUm2Elk",
     },
   ],
+  createdAt: "2026-09-21T13:53:41.985Z",
+  updatedAt: "2026-09-24T19:59:17.000Z",
 } as const satisfies Track

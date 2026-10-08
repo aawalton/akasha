@@ -24,4 +24,6 @@ export const imagineDragonsRadioactiveRadioactive = {
       externalLink: "https://open.spotify.com/track/69yfbpvmkIaB10msnKT7Q5",
     },
   ],
+  createdAt: "2026-09-21T13:55:16.064Z",
+  updatedAt: "2026-09-24T19:59:43.000Z",
 } as const satisfies Track

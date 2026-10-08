@@ -24,4 +24,6 @@ export const imagineDragonsEvolveWalkingTheWire = {
       externalLink: "https://open.spotify.com/track/1y3bE5i57eUm3hfLAc7h08",
     },
   ],
+  createdAt: "2026-09-21T13:55:10.082Z",
+  updatedAt: "2026-09-24T19:59:17.000Z",
 } as const satisfies Track

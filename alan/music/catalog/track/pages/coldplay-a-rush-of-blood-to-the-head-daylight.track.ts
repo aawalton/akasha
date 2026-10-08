@@ -24,4 +24,6 @@ export const coldplayARushOfBloodToTheHeadDaylight = {
       externalLink: "https://open.spotify.com/track/4fP4xTSBli3tKck172LEZ4",
     },
   ],
+  createdAt: "2026-09-19T13:50:37.122Z",
+  updatedAt: "2026-09-24T19:58:53.000Z",
 } as const satisfies Track

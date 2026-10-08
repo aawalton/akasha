@@ -24,4 +24,6 @@ export const coldplayMyloXylotoAHopefulTransmission = {
       externalLink: "https://open.spotify.com/track/6n1x3DYFDpRau83XsI32NU",
     },
   ],
+  createdAt: "2026-09-19T13:50:34.453Z",
+  updatedAt: "2026-09-24T19:59:17.000Z",
 } as const satisfies Track

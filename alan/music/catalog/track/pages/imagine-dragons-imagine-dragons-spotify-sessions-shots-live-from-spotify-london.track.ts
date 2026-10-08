@@ -24,4 +24,6 @@ export const imagineDragonsImagineDragonsSpotifySessionsShotsLiveFromSpotifyLond
       externalLink: "https://open.spotify.com/track/2OmymQ2ONrm6iQJLX9qnmp",
     },
   ],
+  createdAt: "2026-09-21T13:55:15.769Z",
+  updatedAt: "2026-09-24T19:59:17.000Z",
 } as const satisfies Track

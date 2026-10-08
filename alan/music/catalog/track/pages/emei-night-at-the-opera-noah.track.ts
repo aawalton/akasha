@@ -25,4 +25,6 @@ export const emeiNightAtTheOperaNoah = {
       externalLink: "https://open.spotify.com/track/1Ez185Inp2jiQWtcvtAQXl",
     },
   ],
+  createdAt: "2026-09-21T13:53:41.524Z",
+  updatedAt: "2026-09-24T19:59:17.000Z",
 } as const satisfies Track

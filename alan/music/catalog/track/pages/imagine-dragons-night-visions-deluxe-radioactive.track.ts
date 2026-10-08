@@ -42,4 +42,6 @@ export const imagineDragonsNightVisionsDeluxeRadioactive = {
       externalLink: "https://open.spotify.com/track/5Yj7eY0cs6wkGsn5mxy9j1",
     },
   ],
+  createdAt: "2026-09-21T13:55:13.117Z",
+  updatedAt: "2026-09-24T19:59:43.000Z",
 } as const satisfies Track

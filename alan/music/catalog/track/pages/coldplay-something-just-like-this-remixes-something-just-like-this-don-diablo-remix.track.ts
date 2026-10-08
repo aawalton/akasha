@@ -29,4 +29,6 @@ export const coldplaySomethingJustLikeThisRemixesSomethingJustLikeThisDonDiabloR
       externalLink: "https://open.spotify.com/track/15MTd64KUMG7CF6mOyovsQ",
     },
   ],
+  createdAt: "2026-09-19T13:50:39.865Z",
+  updatedAt: "2026-09-24T19:59:17.000Z",
 } as const satisfies Track

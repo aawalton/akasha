@@ -34,4 +34,6 @@ export const imagineDragonsImagineDragonsLiveLondonSessionsItsTimeLiveLondonSess
       externalLink: "https://open.spotify.com/track/52HVk5Cw67IQ3OJaOCMsit",
     },
   ],
+  createdAt: "2026-09-21T13:55:16.320Z",
+  updatedAt: "2026-09-24T19:59:17.000Z",
 } as const satisfies Track

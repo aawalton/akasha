@@ -24,4 +24,6 @@ export const coldplayEverydayLifeChurch = {
       externalLink: "https://open.spotify.com/track/1e8D1BCD2afT56Km7UahpB",
     },
   ],
+  createdAt: "2026-09-19T13:50:30.655Z",
+  updatedAt: "2026-09-24T19:58:53.000Z",
 } as const satisfies Track

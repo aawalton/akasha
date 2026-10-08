@@ -30,4 +30,6 @@ export const imagineDragonsRadioactiveGrouploveCaptainCutsRemixRadioactiveGroupl
         externalLink: "https://open.spotify.com/track/4RE6keayatk5kVgKOGDcmy",
       },
     ],
+    createdAt: "2026-09-21T13:55:16.106Z",
+    updatedAt: "2026-09-24T19:59:43.000Z",
   } as const satisfies Track

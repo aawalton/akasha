@@ -24,4 +24,6 @@ export const coldplayAHeadFullOfDreamsHymnForTheWeekend = {
       externalLink: "https://open.spotify.com/track/3RiPr603aXAoi4GHyXx0uy",
     },
   ],
+  createdAt: "2026-09-19T13:50:32.267Z",
+  updatedAt: "2026-09-24T19:58:53.000Z",
 } as const satisfies Track

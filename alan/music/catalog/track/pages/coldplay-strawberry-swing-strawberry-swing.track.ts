@@ -42,4 +42,6 @@ export const coldplayStrawberrySwingStrawberrySwing = {
       externalLink: "https://open.spotify.com/track/4DLHhwZCJptTUCQPk6IAq8",
     },
   ],
+  createdAt: "2026-09-19T13:50:41.800Z",
+  updatedAt: "2026-09-24T19:59:17.000Z",
 } as const satisfies Track

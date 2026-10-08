@@ -24,4 +24,6 @@ export const coldplayGhostStoriesLive2014OceansLiveAtEWerkCologne = {
       externalLink: "https://open.spotify.com/track/2OKnY0cqro0qsOijOondrr",
     },
   ],
+  createdAt: "2026-09-19T13:50:32.860Z",
+  updatedAt: "2026-09-24T19:59:17.000Z",
 } as const satisfies Track

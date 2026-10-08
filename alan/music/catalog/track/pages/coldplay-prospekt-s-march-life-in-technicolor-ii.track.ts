@@ -34,4 +34,6 @@ export const coldplayProspektSMarchLifeInTechnicolorIi = {
       externalLink: "https://open.spotify.com/track/0VpFFXnT2kNjqJmTv57aZi",
     },
   ],
+  createdAt: "2026-09-19T13:50:42.165Z",
+  updatedAt: "2026-09-24T19:59:17.000Z",
 } as const satisfies Track

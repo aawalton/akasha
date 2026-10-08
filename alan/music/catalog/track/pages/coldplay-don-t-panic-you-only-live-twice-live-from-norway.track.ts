@@ -24,4 +24,6 @@ export const coldplayDonTPanicYouOnlyLiveTwiceLiveFromNorway = {
       externalLink: "https://open.spotify.com/track/3YdUe6oSvMydx3ph6ZPbPY",
     },
   ],
+  createdAt: "2026-09-19T13:50:43.949Z",
+  updatedAt: "2026-09-24T19:58:53.000Z",
 } as const satisfies Track

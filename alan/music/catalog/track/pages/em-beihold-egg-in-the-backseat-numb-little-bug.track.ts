@@ -34,4 +34,6 @@ export const emBeiholdEggInTheBackseatNumbLittleBug = {
       externalLink: "https://open.spotify.com/track/3o9kpgkIcffx0iSwxhuNI2",
     },
   ],
+  createdAt: "2026-09-24T13:47:21.557Z",
+  updatedAt: "2026-09-24T19:59:17.000Z",
 } as const satisfies Track

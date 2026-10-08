@@ -24,4 +24,6 @@ export const emeiStereoStereo = {
       externalLink: "https://open.spotify.com/track/65crqZhjAbaM6bmNCgDf9M",
     },
   ],
+  createdAt: "2026-09-21T13:53:43.181Z",
+  updatedAt: "2026-09-24T19:59:17.000Z",
 } as const satisfies Track

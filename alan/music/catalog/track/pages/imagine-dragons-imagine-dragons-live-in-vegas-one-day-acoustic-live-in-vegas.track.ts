@@ -24,4 +24,6 @@ export const imagineDragonsImagineDragonsLiveInVegasOneDayAcousticLiveInVegas = 
       externalLink: "https://open.spotify.com/track/6FUgyNDSqhZVxT6NdqvIZT",
     },
   ],
+  createdAt: "2026-09-21T13:55:05.298Z",
+  updatedAt: "2026-09-24T19:59:17.000Z",
 } as const satisfies Track

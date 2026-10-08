@@ -24,4 +24,6 @@ export const chaislynSoulmatesSoulmates = {
       externalLink: "https://open.spotify.com/track/55yTx3urNg5CKnNb9CeX59",
     },
   ],
+  createdAt: "2026-09-19T13:48:05.243Z",
+  updatedAt: "2026-09-24T19:58:53.000Z",
 } as const satisfies Track

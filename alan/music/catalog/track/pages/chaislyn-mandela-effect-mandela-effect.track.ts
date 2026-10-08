@@ -31,4 +31,6 @@ export const chaislynMandelaEffectMandelaEffect = {
       externalLink: "https://open.spotify.com/track/2uy5dgGrxlwxofUuV9VeAd",
     },
   ],
+  createdAt: "2026-09-19T13:48:05.012Z",
+  updatedAt: "2026-09-24T19:58:53.000Z",
 } as const satisfies Track

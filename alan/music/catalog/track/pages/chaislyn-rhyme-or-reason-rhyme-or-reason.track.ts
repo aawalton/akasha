@@ -24,4 +24,6 @@ export const chaislynRhymeOrReasonRhymeOrReason = {
       externalLink: "https://open.spotify.com/track/6NTYphxIdN60YEL8XPomHo",
     },
   ],
+  createdAt: "2026-09-19T13:48:05.057Z",
+  updatedAt: "2026-09-24T19:58:53.000Z",
 } as const satisfies Track

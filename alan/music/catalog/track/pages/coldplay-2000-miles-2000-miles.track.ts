@@ -24,4 +24,6 @@ export const coldplay2000Miles2000Miles = {
       externalLink: "https://open.spotify.com/track/5v1SC5d3F8VHwqkXx53f7d",
     },
   ],
+  createdAt: "2026-09-19T13:50:43.274Z",
+  updatedAt: "2026-09-24T19:58:53.000Z",
 } as const satisfies Track

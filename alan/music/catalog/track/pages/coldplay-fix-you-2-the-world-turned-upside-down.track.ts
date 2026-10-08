@@ -31,4 +31,6 @@ export const coldplayFixYou2TheWorldTurnedUpsideDown = {
       externalLink: "https://open.spotify.com/track/29RjYJw9AahhQJaZgdPy2E",
     },
   ],
+  createdAt: "2026-09-19T13:50:43.074Z",
+  updatedAt: "2026-09-24T19:58:53.000Z",
 } as const satisfies Track

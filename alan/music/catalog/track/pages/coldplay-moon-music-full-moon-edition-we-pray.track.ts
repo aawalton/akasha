@@ -41,4 +41,6 @@ export const coldplayMoonMusicFullMoonEditionWePray = {
       externalLink: "https://open.spotify.com/track/6xX6zmaXeKzB4u9TiM1XgU",
     },
   ],
+  createdAt: "2026-09-19T13:50:29.500Z",
+  updatedAt: "2026-09-24T19:59:17.000Z",
 } as const satisfies Track

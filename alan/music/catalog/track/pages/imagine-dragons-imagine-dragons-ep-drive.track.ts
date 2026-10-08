@@ -24,4 +24,6 @@ export const imagineDragonsImagineDragonsEpDrive = {
       externalLink: "https://open.spotify.com/track/3FmZu1Qbdh2S0uWl1u2Czo",
     },
   ],
+  createdAt: "2026-09-21T13:55:17.664Z",
+  updatedAt: "2026-09-24T19:59:17.000Z",
 } as const satisfies Track

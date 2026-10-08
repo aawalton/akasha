@@ -24,4 +24,6 @@ export const coldplayLifeInTechnicolorIiLifeInTechnicolorIi = {
       externalLink: "https://open.spotify.com/track/1sbkNZZh1Mcw4dSA5AB8jQ",
     },
   ],
+  createdAt: "2026-09-19T13:50:41.841Z",
+  updatedAt: "2026-09-24T19:59:17.000Z",
 } as const satisfies Track

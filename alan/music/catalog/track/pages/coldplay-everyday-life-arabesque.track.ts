@@ -31,4 +31,6 @@ export const coldplayEverydayLifeArabesque = {
       externalLink: "https://open.spotify.com/track/2Z1HknKRrvUv5cheidF8Ag",
     },
   ],
+  createdAt: "2026-09-19T13:50:30.857Z",
+  updatedAt: "2026-09-24T19:58:53.000Z",
 } as const satisfies Track

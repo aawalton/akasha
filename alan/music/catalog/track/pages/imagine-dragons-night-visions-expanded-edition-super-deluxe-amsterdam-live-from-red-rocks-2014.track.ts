@@ -24,4 +24,6 @@ export const imagineDragonsNightVisionsExpandedEditionSuperDeluxeAmsterdamLiveFr
       externalLink: "https://open.spotify.com/track/666FPbwevydfJ4HuDhnjob",
     },
   ],
+  createdAt: "2026-09-21T13:55:06.970Z",
+  updatedAt: "2026-09-24T19:59:43.000Z",
 } as const satisfies Track

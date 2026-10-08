@@ -42,4 +42,6 @@ export const emeiIrresponsibleIrresponsible = {
       externalLink: "https://open.spotify.com/track/7mw8HJgOpIzYcxfiDCXpZP",
     },
   ],
+  createdAt: "2026-09-21T13:53:44.309Z",
+  updatedAt: "2026-09-24T19:59:17.000Z",
 } as const satisfies Track

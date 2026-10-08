@@ -24,4 +24,6 @@ export const celticWoman2NollaigAChristmasJourneyAuldLangSyne = {
       externalLink: "https://open.spotify.com/track/1t79LXQPNraqRkd3pl540N",
     },
   ],
+  createdAt: "2026-09-16T20:30:55.307Z",
+  updatedAt: "2026-09-24T19:58:53.000Z",
 } as const satisfies Track

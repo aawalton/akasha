@@ -25,4 +25,6 @@ export const chaislynUnreliableNarratorUnreliableNarrator = {
       externalLink: "https://open.spotify.com/track/4L3QYmuuoqKcxmQUQl48mo",
     },
   ],
+  createdAt: "2026-09-19T13:48:04.827Z",
+  updatedAt: "2026-09-24T19:58:53.000Z",
 } as const satisfies Track

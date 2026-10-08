@@ -24,4 +24,6 @@ export const imagineDragonsLiveAtAllsaintsStudiosBelieverLiveAcoustic = {
       externalLink: "https://open.spotify.com/track/3Eog0V6GCpABelD89PbUeB",
     },
   ],
+  createdAt: "2026-09-21T13:55:15.028Z",
+  updatedAt: "2026-09-24T19:59:17.000Z",
 } as const satisfies Track

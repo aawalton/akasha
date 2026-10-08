@@ -24,4 +24,6 @@ export const emBeiholdRollerCoastersMakeMeSadRollerCoastersMakeMeSad = {
       externalLink: "https://open.spotify.com/track/15D8qDyRL6NuyxxmQRWosK",
     },
   ],
+  createdAt: "2026-09-24T13:47:21.366Z",
+  updatedAt: "2026-09-24T19:59:17.000Z",
 } as const satisfies Track

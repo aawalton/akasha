@@ -24,4 +24,6 @@ export const coldplayASkyFullOfStars2ASkyFullOfStars = {
       externalLink: "https://open.spotify.com/track/2nzI2futOM8isgXNKAlQ1m",
     },
   ],
+  createdAt: "2026-09-19T13:50:40.706Z",
+  updatedAt: "2026-09-24T19:58:53.000Z",
 } as const satisfies Track

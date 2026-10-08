@@ -24,4 +24,6 @@ export const imagineDragonsNightVisionsExpandedEditionSuperDeluxeItsTimeLiveFrom
       externalLink: "https://open.spotify.com/track/0WTImvzkB7q2b7zV0ZoKFQ",
     },
   ],
+  createdAt: "2026-09-21T13:55:07.234Z",
+  updatedAt: "2026-09-24T19:59:43.000Z",
 } as const satisfies Track

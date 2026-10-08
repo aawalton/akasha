@@ -34,4 +34,6 @@ export const imagineDragonsNightVisionsDeluxeHearMe = {
       externalLink: "https://open.spotify.com/track/4R4sJ1jv8nxwjSl6F06yKG",
     },
   ],
+  createdAt: "2026-09-21T13:55:13.368Z",
+  updatedAt: "2026-09-24T19:59:43.000Z",
 } as const satisfies Track

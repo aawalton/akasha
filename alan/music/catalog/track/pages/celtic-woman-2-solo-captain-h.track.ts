@@ -24,4 +24,6 @@ export const celticWoman2SoloCaptainH = {
       externalLink: "https://open.spotify.com/track/5Gwxm3rH2fdIZqrfM7JhtA",
     },
   ],
+  createdAt: "2026-09-16T20:31:01.801Z",
+  updatedAt: "2026-09-24T19:58:53.000Z",
 } as const satisfies Track

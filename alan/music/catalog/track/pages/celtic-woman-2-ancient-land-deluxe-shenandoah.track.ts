@@ -34,4 +34,6 @@ export const celticWoman2AncientLandDeluxeShenandoah = {
       externalLink: "https://open.spotify.com/track/5Pl2TWrYtTvenhOog129Dc",
     },
   ],
+  createdAt: "2026-09-16T20:30:57.366Z",
+  updatedAt: "2026-09-24T19:58:53.000Z",
 } as const satisfies Track

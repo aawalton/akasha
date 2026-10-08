@@ -24,4 +24,6 @@ export const girlInRedYouNeedMeNowFeatSabrinaCarpenterYouNeedMeNowFeatSabrinaCar
       externalLink: "https://open.spotify.com/track/3zPGZBbZEGqu7eY7R0NkqI",
     },
   ],
+  createdAt: "2026-09-17T20:31:27.858Z",
+  updatedAt: "2026-09-24T19:59:17.000Z",
 } as const satisfies Track

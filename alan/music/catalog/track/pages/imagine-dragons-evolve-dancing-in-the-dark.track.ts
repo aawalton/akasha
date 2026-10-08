@@ -24,4 +24,6 @@ export const imagineDragonsEvolveDancingInTheDark = {
       externalLink: "https://open.spotify.com/track/3adVVrcE2KS26OL4rYd27O",
     },
   ],
+  createdAt: "2026-09-21T13:55:10.364Z",
+  updatedAt: "2026-09-24T19:59:17.000Z",
 } as const satisfies Track

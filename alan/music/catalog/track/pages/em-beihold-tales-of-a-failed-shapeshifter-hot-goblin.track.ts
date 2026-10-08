@@ -24,4 +24,6 @@ export const emBeiholdTalesOfAFailedShapeshifterHotGoblin = {
       externalLink: "https://open.spotify.com/track/52iNrPzaRnkRdxc4feBzmE",
     },
   ],
+  createdAt: "2026-09-24T13:47:20.144Z",
+  updatedAt: "2026-09-24T19:59:17.000Z",
 } as const satisfies Track

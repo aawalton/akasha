@@ -34,4 +34,6 @@ export const imagineDragonsItSTimePassionPitRemixItsTimePassionPitRemix = {
       externalLink: "https://open.spotify.com/track/4cgYFocBQtEuf5fN0ODjTP",
     },
   ],
+  createdAt: "2026-09-21T13:55:16.441Z",
+  updatedAt: "2026-09-24T19:59:17.000Z",
 } as const satisfies Track

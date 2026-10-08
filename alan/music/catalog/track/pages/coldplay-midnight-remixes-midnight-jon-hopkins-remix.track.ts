@@ -24,4 +24,6 @@ export const coldplayMidnightRemixesMidnightJonHopkinsRemix = {
       externalLink: "https://open.spotify.com/track/5PKa9j9Fqmu2qQZMCQxN0w",
     },
   ],
+  createdAt: "2026-09-19T13:50:41.004Z",
+  updatedAt: "2026-09-24T19:59:17.000Z",
 } as const satisfies Track

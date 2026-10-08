@@ -24,4 +24,6 @@ export const imagineDragonsImagineDragonsEpCoverUp = {
       externalLink: "https://open.spotify.com/track/3C4FznGx0AkYW2xl15rKoQ",
     },
   ],
+  createdAt: "2026-09-21T13:55:17.517Z",
+  updatedAt: "2026-09-24T19:59:17.000Z",
 } as const satisfies Track

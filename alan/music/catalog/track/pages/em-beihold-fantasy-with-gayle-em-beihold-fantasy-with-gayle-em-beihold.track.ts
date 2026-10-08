@@ -29,4 +29,6 @@ export const emBeiholdFantasyWithGayleEmBeiholdFantasyWithGayleEmBeihold = {
       externalLink: "https://open.spotify.com/track/5Ldhogrc9RWAjXUQ3tXuUD",
     },
   ],
+  createdAt: "2026-09-24T13:47:21.300Z",
+  updatedAt: "2026-09-24T19:59:17.000Z",
 } as const satisfies Track

@@ -24,4 +24,6 @@ export const imagineDragonsNightVisionsExpandedEditionSuperDeluxeMyFault = {
       externalLink: "https://open.spotify.com/track/29Vuv3tN7hh5iNZvE5gbKw",
     },
   ],
+  createdAt: "2026-09-21T13:55:06.348Z",
+  updatedAt: "2026-09-24T19:59:43.000Z",
 } as const satisfies Track

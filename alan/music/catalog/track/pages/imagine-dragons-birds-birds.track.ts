@@ -31,4 +31,6 @@ export const imagineDragonsBirdsBirds = {
       externalLink: "https://open.spotify.com/track/6Tvzf3VEi16JMhAgOwdt2y",
     },
   ],
+  createdAt: "2026-09-21T13:55:14.583Z",
+  updatedAt: "2026-09-24T19:59:17.000Z",
 } as const satisfies Track

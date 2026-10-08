@@ -24,4 +24,6 @@ export const imagineDragonsNightVisionsExpandedEditionSuperDeluxeTiptoe = {
       externalLink: "https://open.spotify.com/track/0y9lStf9zPsCiLHV9WDrUv",
     },
   ],
+  createdAt: "2026-09-21T13:55:05.826Z",
+  updatedAt: "2026-09-24T19:59:43.000Z",
 } as const satisfies Track

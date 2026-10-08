@@ -30,4 +30,6 @@ export const celticWoman2BelieveASpacemanCameTraveling = {
       externalLink: "https://open.spotify.com/track/6x4h0DcOY2l4QMzmFOZr8o",
     },
   ],
+  createdAt: "2026-09-16T20:31:03.232Z",
+  updatedAt: "2026-09-24T19:58:53.000Z",
 } as const satisfies Track

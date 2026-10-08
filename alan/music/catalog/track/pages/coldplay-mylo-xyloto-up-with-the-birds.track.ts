@@ -24,4 +24,6 @@ export const coldplayMyloXylotoUpWithTheBirds = {
       externalLink: "https://open.spotify.com/track/5lIFsEWj9IjNEALbHnPosE",
     },
   ],
+  createdAt: "2026-09-19T13:50:34.552Z",
+  updatedAt: "2026-09-24T19:59:17.000Z",
 } as const satisfies Track

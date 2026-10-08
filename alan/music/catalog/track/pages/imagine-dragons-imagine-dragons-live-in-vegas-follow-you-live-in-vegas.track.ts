@@ -24,4 +24,6 @@ export const imagineDragonsImagineDragonsLiveInVegasFollowYouLiveInVegas = {
       externalLink: "https://open.spotify.com/track/2q7AolZJ1mCow1nDBlUDd4",
     },
   ],
+  createdAt: "2026-09-21T13:55:05.104Z",
+  updatedAt: "2026-09-24T19:59:17.000Z",
 } as const satisfies Track

@@ -24,4 +24,6 @@ export const imagineDragonsLoomInYourCorner = {
       externalLink: "https://open.spotify.com/track/5hKE4hbAVMP38XWjRlXZPO",
     },
   ],
+  createdAt: "2026-09-21T13:55:04.558Z",
+  updatedAt: "2026-09-24T19:59:17.000Z",
 } as const satisfies Track

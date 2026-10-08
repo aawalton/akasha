@@ -24,4 +24,6 @@ export const imagineDragonsNightVisionsChaChingTillWeGrowOlder = {
       externalLink: "https://open.spotify.com/track/1OppUXF0ZsVATRbEyHOTyA",
     },
   ],
+  createdAt: "2026-09-21T13:55:13.076Z",
+  updatedAt: "2026-09-24T19:59:17.000Z",
 } as const satisfies Track

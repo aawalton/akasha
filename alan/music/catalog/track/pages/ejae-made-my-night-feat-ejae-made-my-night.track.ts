@@ -24,4 +24,6 @@ export const ejaeMadeMyNightFeatEjaeMadeMyNight = {
       externalLink: "https://open.spotify.com/track/00MWSPgbYiFSxdxf9rhm2T",
     },
   ],
+  createdAt: "2026-09-24T13:46:43.051Z",
+  updatedAt: "2026-09-24T19:59:17.000Z",
 } as const satisfies Track

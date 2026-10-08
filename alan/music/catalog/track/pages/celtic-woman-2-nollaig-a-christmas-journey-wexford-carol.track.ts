@@ -24,4 +24,6 @@ export const celticWoman2NollaigAChristmasJourneyWexfordCarol = {
       externalLink: "https://open.spotify.com/track/27HXHanElzInmh8bOo3eFL",
     },
   ],
+  createdAt: "2026-09-16T20:30:55.114Z",
+  updatedAt: "2026-09-24T19:58:53.000Z",
 } as const satisfies Track

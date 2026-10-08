@@ -24,4 +24,6 @@ export const imagineDragonsSmokeMirrorsLiveLiveAtTheAirCanadaCentreForeverYoungS
       externalLink: "https://open.spotify.com/track/7gVK8oQQ2eagRxxIq9GrX1",
     },
   ],
+  createdAt: "2026-09-21T13:55:10.613Z",
+  updatedAt: "2026-09-24T19:59:43.000Z",
 } as const satisfies Track

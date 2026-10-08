@@ -24,4 +24,6 @@ export const emeiGingerTeaTianMiMiYourSweetSmile = {
       externalLink: "https://open.spotify.com/track/1wYBTmZ8tBfm7kX3RYkYLZ",
     },
   ],
+  createdAt: "2026-09-21T13:53:43.104Z",
+  updatedAt: "2026-09-24T19:59:17.000Z",
 } as const satisfies Track

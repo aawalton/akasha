@@ -24,4 +24,6 @@ export const coldplayLive2012ClocksLive = {
       externalLink: "https://open.spotify.com/track/7LIQNY8P7ZGxilKVX88MF1",
     },
   ],
+  createdAt: "2026-09-19T13:50:33.834Z",
+  updatedAt: "2026-09-24T19:59:17.000Z",
 } as const satisfies Track

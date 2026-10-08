@@ -24,4 +24,6 @@ export const coldplayTalk2Gravity = {
       externalLink: "https://open.spotify.com/track/44LVgFZvUcBYo98vy71tvd",
     },
   ],
+  createdAt: "2026-09-19T13:50:42.831Z",
+  updatedAt: "2026-09-24T19:59:17.000Z",
 } as const satisfies Track

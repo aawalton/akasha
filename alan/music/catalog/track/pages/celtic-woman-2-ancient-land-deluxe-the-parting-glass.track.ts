@@ -24,4 +24,6 @@ export const celticWoman2AncientLandDeluxeThePartingGlass = {
       externalLink: "https://open.spotify.com/track/6p3B4brQa6Hs7G2CAqCpju",
     },
   ],
+  createdAt: "2026-09-16T20:30:57.956Z",
+  updatedAt: "2026-09-24T19:58:53.000Z",
 } as const satisfies Track

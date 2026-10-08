@@ -24,4 +24,6 @@ export const celticWoman2TheGreatestJourneyEssentialCollectionAveMaria = {
       externalLink: "https://open.spotify.com/track/6QS6YPHz807ohnNEr05mKh",
     },
   ],
+  createdAt: "2026-09-16T20:31:06.932Z",
+  updatedAt: "2026-09-24T19:58:53.000Z",
 } as const satisfies Track

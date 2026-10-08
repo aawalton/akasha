@@ -24,4 +24,6 @@ export const coldplayLive2003EverythingsNotLostLiveInSydney = {
       externalLink: "https://open.spotify.com/track/7IWbp0yWEF8nNjMLbKF0pU",
     },
   ],
+  createdAt: "2026-09-19T13:50:36.730Z",
+  updatedAt: "2026-09-24T19:59:17.000Z",
 } as const satisfies Track

@@ -24,4 +24,6 @@ export const celticWoman2HomeForChristmasWeThreeKings = {
       externalLink: "https://open.spotify.com/track/46Nsjnb8gupZ0rL54zXbaW",
     },
   ],
+  createdAt: "2026-09-16T20:31:02.544Z",
+  updatedAt: "2026-09-24T19:58:53.000Z",
 } as const satisfies Track

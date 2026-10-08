@@ -24,4 +24,6 @@ export const celticWoman2SongsFromTheHeartFieldsOfGold = {
       externalLink: "https://open.spotify.com/track/1nE3flyqkY3H3sicuO44OP",
     },
   ],
+  createdAt: "2026-09-16T20:31:03.780Z",
+  updatedAt: "2026-09-24T19:58:53.000Z",
 } as const satisfies Track

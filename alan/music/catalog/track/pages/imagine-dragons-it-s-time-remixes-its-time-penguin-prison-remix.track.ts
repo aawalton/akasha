@@ -34,4 +34,6 @@ export const imagineDragonsItSTimeRemixesItsTimePenguinPrisonRemix = {
       externalLink: "https://open.spotify.com/track/1XIRdNn3L1s9lfgbhK3RYp",
     },
   ],
+  createdAt: "2026-09-21T13:55:16.480Z",
+  updatedAt: "2026-09-24T19:59:17.000Z",
 } as const satisfies Track

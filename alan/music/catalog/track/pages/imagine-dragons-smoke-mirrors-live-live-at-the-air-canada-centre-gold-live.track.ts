@@ -24,4 +24,6 @@ export const imagineDragonsSmokeMirrorsLiveLiveAtTheAirCanadaCentreGoldLive = {
       externalLink: "https://open.spotify.com/track/34kagqTL1olEdHWPs9XU2H",
     },
   ],
+  createdAt: "2026-09-21T13:55:10.777Z",
+  updatedAt: "2026-09-24T19:59:43.000Z",
 } as const satisfies Track

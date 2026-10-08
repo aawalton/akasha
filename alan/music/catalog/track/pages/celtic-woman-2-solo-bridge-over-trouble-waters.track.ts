@@ -24,4 +24,6 @@ export const celticWoman2SoloBridgeOverTroubleWaters = {
       externalLink: "https://open.spotify.com/track/54K8Zg1UwTDk4COxZ9Bosm",
     },
   ],
+  createdAt: "2026-09-16T20:31:01.973Z",
+  updatedAt: "2026-09-24T19:58:53.000Z",
 } as const satisfies Track

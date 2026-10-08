@@ -24,4 +24,6 @@ export const coldplayCharlieBrownDaveAudeRemixCharlieBrownDaveAudeRemix = {
       externalLink: "https://open.spotify.com/track/1CrVfs67axZhcTa4ZxCk6M",
     },
   ],
+  createdAt: "2026-09-19T13:50:41.438Z",
+  updatedAt: "2026-09-24T19:58:53.000Z",
 } as const satisfies Track

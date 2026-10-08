@@ -24,4 +24,6 @@ export const imagineDragonsNightVisionsExpandedEditionSuperDeluxeHearMeLiveFromR
       externalLink: "https://open.spotify.com/track/7btS5JmtgPOE1YmhmEc9bE",
     },
   ],
+  createdAt: "2026-09-21T13:55:06.839Z",
+  updatedAt: "2026-09-24T19:59:43.000Z",
 } as const satisfies Track

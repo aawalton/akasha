@@ -24,4 +24,6 @@ export const emBeiholdEggInTheBackseatPorcelain = {
       externalLink: "https://open.spotify.com/track/7G2W0SU0bdxC48g1gzB4Rz",
     },
   ],
+  createdAt: "2026-09-24T13:47:20.514Z",
+  updatedAt: "2026-09-24T19:59:17.000Z",
 } as const satisfies Track

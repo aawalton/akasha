@@ -24,4 +24,6 @@ export const coldplayGhostStoriesLive2014TrueLoveLiveAtTheEnmoreTheatreSydney = 
       externalLink: "https://open.spotify.com/track/4KmOOVu1sdBLKJbfEm4p1X",
     },
   ],
+  createdAt: "2026-09-19T13:50:32.741Z",
+  updatedAt: "2026-09-24T19:59:17.000Z",
 } as const satisfies Track

@@ -24,4 +24,6 @@ export const coldplayGhostStoriesAlwaysInMyHead = {
       externalLink: "https://open.spotify.com/track/0FMjqbY3aWo1QDbo3GwXib",
     },
   ],
+  createdAt: "2026-09-19T13:50:32.973Z",
+  updatedAt: "2026-09-24T19:59:17.000Z",
 } as const satisfies Track

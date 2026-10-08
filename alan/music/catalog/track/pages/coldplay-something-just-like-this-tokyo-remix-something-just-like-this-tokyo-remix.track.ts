@@ -24,4 +24,6 @@ export const coldplaySomethingJustLikeThisTokyoRemixSomethingJustLikeThisTokyoRe
       externalLink: "https://open.spotify.com/track/5ffwnb6hqsKZp8cG6q90OW",
     },
   ],
+  createdAt: "2026-09-19T13:50:39.713Z",
+  updatedAt: "2026-09-24T19:59:17.000Z",
 } as const satisfies Track

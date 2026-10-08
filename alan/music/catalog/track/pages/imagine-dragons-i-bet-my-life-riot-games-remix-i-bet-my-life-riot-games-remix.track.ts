@@ -24,4 +24,6 @@ export const imagineDragonsIBetMyLifeRiotGamesRemixIBetMyLifeRiotGamesRemix = {
       externalLink: "https://open.spotify.com/track/3bz7aRHigA8TVOYcMt3SG7",
     },
   ],
+  createdAt: "2026-09-21T13:55:16.023Z",
+  updatedAt: "2026-09-24T19:59:17.000Z",
 } as const satisfies Track

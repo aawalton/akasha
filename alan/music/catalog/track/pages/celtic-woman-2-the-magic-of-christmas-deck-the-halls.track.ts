@@ -24,4 +24,6 @@ export const celticWoman2TheMagicOfChristmasDeckTheHalls = {
       externalLink: "https://open.spotify.com/track/5RyR98iCSoimGLTMiH3a9t",
     },
   ],
+  createdAt: "2026-09-16T20:30:56.777Z",
+  updatedAt: "2026-09-24T19:58:53.000Z",
 } as const satisfies Track

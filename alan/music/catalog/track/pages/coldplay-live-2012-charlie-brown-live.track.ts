@@ -24,4 +24,6 @@ export const coldplayLive2012CharlieBrownLive = {
       externalLink: "https://open.spotify.com/track/1u0LrLPnIfVeHOzFfye3Lf",
     },
   ],
+  createdAt: "2026-09-19T13:50:33.703Z",
+  updatedAt: "2026-09-24T19:59:17.000Z",
 } as const satisfies Track

@@ -24,4 +24,6 @@ export const coldplayClocksRoyksoppTremblingHeartMixClocksRoyksoppTremblingHeart
       externalLink: "https://open.spotify.com/track/0oRqEiG7nvVXTjx8g5gme9",
     },
   ],
+  createdAt: "2026-09-19T13:50:43.313Z",
+  updatedAt: "2026-09-24T19:58:53.000Z",
 } as const satisfies Track

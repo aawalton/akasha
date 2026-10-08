@@ -24,4 +24,6 @@ export const celticWoman2CelticWomanLastRoseOfSummerWalkingInTheAirMedley = {
       externalLink: "https://open.spotify.com/track/6ZbZHXr6AWjUsHCGUBG5bh",
     },
   ],
+  createdAt: "2026-09-16T20:31:05.264Z",
+  updatedAt: "2026-09-24T19:58:53.000Z",
 } as const satisfies Track

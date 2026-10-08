@@ -24,4 +24,6 @@ export const coldplayTheBlueRoomSuchARush = {
       externalLink: "https://open.spotify.com/track/3c1NaLIIBoFof2nrDeUlc1",
     },
   ],
+  createdAt: "2026-09-19T13:50:44.523Z",
+  updatedAt: "2026-09-24T19:59:17.000Z",
 } as const satisfies Track

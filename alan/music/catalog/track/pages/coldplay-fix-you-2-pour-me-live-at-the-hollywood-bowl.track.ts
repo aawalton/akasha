@@ -31,4 +31,6 @@ export const coldplayFixYou2PourMeLiveAtTheHollywoodBowl = {
       externalLink: "https://open.spotify.com/track/0PYRZQ90udhd9Bnv5d8rUb",
     },
   ],
+  createdAt: "2026-09-19T13:50:43.113Z",
+  updatedAt: "2026-09-24T19:58:53.000Z",
 } as const satisfies Track

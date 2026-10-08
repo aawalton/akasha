@@ -24,4 +24,6 @@ export const coldplayMusicOfTheSpheresHigherPower = {
       externalLink: "https://open.spotify.com/track/65OR4ywy8Cgs3FDHK82Idl",
     },
   ],
+  createdAt: "2026-09-19T13:50:30.183Z",
+  updatedAt: "2026-09-24T19:59:17.000Z",
 } as const satisfies Track

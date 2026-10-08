@@ -25,4 +25,6 @@ export const imagineDragonsNightVisionsExpandedEditionSuperDeluxeRoundAndRoundLi
         externalLink: "https://open.spotify.com/track/1Y5bExVU5hWC3gMuqB52Rd",
       },
     ],
+    createdAt: "2026-09-21T13:55:06.928Z",
+    updatedAt: "2026-09-24T19:59:43.000Z",
   } as const satisfies Track

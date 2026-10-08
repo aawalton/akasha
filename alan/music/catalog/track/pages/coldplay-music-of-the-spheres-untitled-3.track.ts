@@ -28,4 +28,6 @@ export const coldplayMusicOfTheSpheresUntitled3 = {
       externalLink: "https://open.spotify.com/track/3oTYv0yShT4sjuPncoUXfK",
     },
   ],
+  createdAt: "2026-09-19T13:50:30.343Z",
+  updatedAt: "2026-09-24T19:59:17.000Z",
 } as const satisfies Track

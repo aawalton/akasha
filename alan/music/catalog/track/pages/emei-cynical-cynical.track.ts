@@ -24,4 +24,6 @@ export const emeiCynicalCynical = {
       externalLink: "https://open.spotify.com/track/5DT396Bk4kxXH0Y8ADyyE3",
     },
   ],
+  createdAt: "2026-09-21T13:53:44.270Z",
+  updatedAt: "2026-09-24T19:59:17.000Z",
 } as const satisfies Track

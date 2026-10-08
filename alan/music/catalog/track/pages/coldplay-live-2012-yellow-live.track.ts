@@ -24,4 +24,6 @@ export const coldplayLive2012YellowLive = {
       externalLink: "https://open.spotify.com/track/58MrV6J9oS46ViY1N6gTJX",
     },
   ],
+  createdAt: "2026-09-19T13:50:33.504Z",
+  updatedAt: "2026-09-24T19:59:17.000Z",
 } as const satisfies Track

@@ -24,4 +24,6 @@ export const imagineDragonsReflectionsFromTheVaultOfSmokeMirrorsBlackDemo = {
       externalLink: "https://open.spotify.com/track/3JRv0tzI3NpbuC4bWKBvxm",
     },
   ],
+  createdAt: "2026-09-21T13:55:03.702Z",
+  updatedAt: "2026-09-24T19:59:43.000Z",
 } as const satisfies Track

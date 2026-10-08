@@ -24,4 +24,6 @@ export const imagineDragonsShotsEpShotsAstrolithRemix = {
       externalLink: "https://open.spotify.com/track/4dolXHE8u2znwFfzCYgphZ",
     },
   ],
+  createdAt: "2026-09-21T13:55:15.569Z",
+  updatedAt: "2026-09-24T19:59:43.000Z",
 } as const satisfies Track

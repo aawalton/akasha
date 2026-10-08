@@ -24,4 +24,6 @@ export const imagineDragonsMercuryActs12TheyDontKnowYouLikeIDo = {
       externalLink: "https://open.spotify.com/track/7KGwRAF99Ryell3B2T4DKy",
     },
   ],
+  createdAt: "2026-09-21T13:55:09.250Z",
+  updatedAt: "2026-09-24T19:59:17.000Z",
 } as const satisfies Track

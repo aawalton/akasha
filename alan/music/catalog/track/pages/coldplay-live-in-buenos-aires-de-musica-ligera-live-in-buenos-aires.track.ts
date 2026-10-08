@@ -24,4 +24,6 @@ export const coldplayLiveInBuenosAiresDeMusicaLigeraLiveInBuenosAires = {
       externalLink: "https://open.spotify.com/track/1aQKPnGNa5vK7aA6lTm4JS",
     },
   ],
+  createdAt: "2026-09-19T13:50:31.880Z",
+  updatedAt: "2026-09-24T19:59:17.000Z",
 } as const satisfies Track

@@ -30,4 +30,6 @@ export const imagineDragonsNightVisionsExpandedEditionSuperDeluxeDemonsKidinakor
       externalLink: "https://open.spotify.com/track/0u3E4VJOH8TpQ9GohtNfoF",
     },
   ],
+  createdAt: "2026-09-21T13:55:07.803Z",
+  updatedAt: "2026-09-24T19:59:43.000Z",
 } as const satisfies Track

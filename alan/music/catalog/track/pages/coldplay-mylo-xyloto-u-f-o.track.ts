@@ -24,4 +24,6 @@ export const coldplayMyloXylotoUFO = {
       externalLink: "https://open.spotify.com/track/6BbIybrP84Tp99DLJg1cq3",
     },
   ],
+  createdAt: "2026-09-19T13:50:34.321Z",
+  updatedAt: "2026-09-24T19:59:17.000Z",
 } as const satisfies Track

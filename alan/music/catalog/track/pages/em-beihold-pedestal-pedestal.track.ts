@@ -24,4 +24,6 @@ export const emBeiholdPedestalPedestal = {
       externalLink: "https://open.spotify.com/track/3C8Z6rLzMjQiDSkZxpRHxV",
     },
   ],
+  createdAt: "2026-09-24T13:47:21.119Z",
+  updatedAt: "2026-09-24T19:59:17.000Z",
 } as const satisfies Track

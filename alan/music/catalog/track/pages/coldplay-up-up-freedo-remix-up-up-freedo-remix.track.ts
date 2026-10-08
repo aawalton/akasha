@@ -24,4 +24,6 @@ export const coldplayUpUpFreedoRemixUpUpFreedoRemix = {
       externalLink: "https://open.spotify.com/track/2KIgC0WnwwcDPgv8ClxXfi",
     },
   ],
+  createdAt: "2026-09-19T13:50:40.293Z",
+  updatedAt: "2026-09-24T19:59:17.000Z",
 } as const satisfies Track

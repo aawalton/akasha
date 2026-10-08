@@ -24,4 +24,6 @@ export const celticWoman2AsaSFancyRoxySNewShoesAsasFancyRoxysNewShoes = {
       externalLink: "https://open.spotify.com/track/4tNBSmMW7t9AfmtfLF3hel",
     },
   ],
+  createdAt: "2026-09-16T20:31:05.989Z",
+  updatedAt: "2026-09-24T19:58:53.000Z",
 } as const satisfies Track

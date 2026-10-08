@@ -24,4 +24,6 @@ export const coldplayTheHardestPartHowYouSeeTheWorldLiveFromEarlsCourt = {
       externalLink: "https://open.spotify.com/track/0hCYORw7uzYRXdrZ88vN2t",
     },
   ],
+  createdAt: "2026-09-19T13:50:42.591Z",
+  updatedAt: "2026-09-24T19:59:17.000Z",
 } as const satisfies Track

@@ -24,4 +24,6 @@ export const celticWoman2ChristmasCardsFromIrelandISawThreeShips = {
       externalLink: "https://open.spotify.com/track/346w1VQCWAjpx9i0zAEHMj",
     },
   ],
+  createdAt: "2026-09-16T20:31:06.200Z",
+  updatedAt: "2026-09-24T19:58:53.000Z",
 } as const satisfies Track

@@ -24,4 +24,6 @@ export const celticWoman2CelebrationTeirAbhaileRiu = {
       externalLink: "https://open.spotify.com/track/4d8VxP4A2pzIKravl7ymLR",
     },
   ],
+  createdAt: "2026-09-16T20:30:56.616Z",
+  updatedAt: "2026-09-24T19:58:53.000Z",
 } as const satisfies Track

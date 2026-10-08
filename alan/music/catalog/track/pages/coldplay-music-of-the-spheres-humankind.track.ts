@@ -24,4 +24,6 @@ export const coldplayMusicOfTheSpheresHumankind = {
       externalLink: "https://open.spotify.com/track/23BO6YozrAXUta1buxFZ80",
     },
   ],
+  createdAt: "2026-09-19T13:50:30.222Z",
+  updatedAt: "2026-09-24T19:59:17.000Z",
 } as const satisfies Track

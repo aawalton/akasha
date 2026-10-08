@@ -24,4 +24,6 @@ export const celticWoman2NollaigAChristmasJourneySilentNight = {
       externalLink: "https://open.spotify.com/track/1gY5W6nz1l48livBTGRe34",
     },
   ],
+  createdAt: "2026-09-16T20:30:55.078Z",
+  updatedAt: "2026-09-24T19:58:53.000Z",
 } as const satisfies Track

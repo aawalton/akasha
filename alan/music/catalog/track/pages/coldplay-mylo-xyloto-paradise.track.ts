@@ -31,4 +31,6 @@ export const coldplayMyloXylotoParadise = {
       externalLink: "https://open.spotify.com/track/5egJWXdr8HapODmxnRdn54",
     },
   ],
+  createdAt: "2026-09-19T13:50:34.056Z",
+  updatedAt: "2026-09-24T19:59:17.000Z",
 } as const satisfies Track

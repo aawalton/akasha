@@ -24,4 +24,6 @@ export const celticWoman2DestinyISeeFire = {
       externalLink: "https://open.spotify.com/track/2bPfi2jGyVPXeNwrBcFXIs",
     },
   ],
+  createdAt: "2026-09-16T20:31:01.320Z",
+  updatedAt: "2026-09-24T19:58:53.000Z",
 } as const satisfies Track

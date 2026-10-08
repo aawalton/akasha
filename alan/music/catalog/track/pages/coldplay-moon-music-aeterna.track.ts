@@ -34,4 +34,6 @@ export const coldplayMoonMusicAeterna = {
       externalLink: "https://open.spotify.com/track/3Q3dNGUbRNp0Cn9ayZQJl0",
     },
   ],
+  createdAt: "2026-09-19T13:50:29.311Z",
+  updatedAt: "2026-09-24T19:59:17.000Z",
 } as const satisfies Track

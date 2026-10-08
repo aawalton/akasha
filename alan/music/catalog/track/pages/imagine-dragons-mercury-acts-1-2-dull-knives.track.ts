@@ -24,4 +24,6 @@ export const imagineDragonsMercuryActs12DullKnives = {
       externalLink: "https://open.spotify.com/track/3vThV17aiX6dGokusu6j8N",
     },
   ],
+  createdAt: "2026-09-21T13:55:08.355Z",
+  updatedAt: "2026-09-24T19:59:17.000Z",
 } as const satisfies Track

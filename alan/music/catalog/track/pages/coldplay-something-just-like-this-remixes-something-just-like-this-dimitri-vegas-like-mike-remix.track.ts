@@ -29,4 +29,6 @@ export const coldplaySomethingJustLikeThisRemixesSomethingJustLikeThisDimitriVeg
       externalLink: "https://open.spotify.com/track/3LewMbGqmR4IYtifSNxbGz",
     },
   ],
+  createdAt: "2026-09-19T13:50:39.831Z",
+  updatedAt: "2026-09-24T19:59:17.000Z",
 } as const satisfies Track

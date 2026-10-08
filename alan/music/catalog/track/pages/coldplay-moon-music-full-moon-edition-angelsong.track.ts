@@ -24,4 +24,6 @@ export const coldplayMoonMusicFullMoonEditionAngelsong = {
       externalLink: "https://open.spotify.com/track/6xXocHy6Oux7H3MSDJd0mn",
     },
   ],
+  createdAt: "2026-09-19T13:50:29.932Z",
+  updatedAt: "2026-09-24T19:59:17.000Z",
 } as const satisfies Track

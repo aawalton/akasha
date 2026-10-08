@@ -24,4 +24,6 @@ export const celticWoman2CelticWomanNellaFantasia = {
       externalLink: "https://open.spotify.com/track/4IR9up5ZrC9x1T12ePgY8g",
     },
   ],
+  createdAt: "2026-09-16T20:31:05.607Z",
+  updatedAt: "2026-09-24T19:58:53.000Z",
 } as const satisfies Track

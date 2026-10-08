@@ -24,4 +24,6 @@ export const celticWoman2CelticWomanIsleOfInnisfree = {
       externalLink: "https://open.spotify.com/track/1HKHNnDfN0jGMMl27Tmu9N",
     },
   ],
+  createdAt: "2026-09-16T20:31:05.323Z",
+  updatedAt: "2026-09-24T19:58:53.000Z",
 } as const satisfies Track

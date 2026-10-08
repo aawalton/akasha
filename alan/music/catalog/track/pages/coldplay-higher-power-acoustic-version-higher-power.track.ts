@@ -42,4 +42,6 @@ export const coldplayHigherPowerAcousticVersionHigherPower = {
       externalLink: "https://open.spotify.com/track/4tJJOIQVtzIG9i21VHu35z",
     },
   ],
+  createdAt: "2026-09-19T13:50:39.115Z",
+  updatedAt: "2026-09-24T19:59:17.000Z",
 } as const satisfies Track

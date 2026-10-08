@@ -24,4 +24,6 @@ export const coldplayTheBlueRoomDontPanic = {
       externalLink: "https://open.spotify.com/track/0MbCcvzLYu3xq6OgEkSbhC",
     },
   ],
+  createdAt: "2026-09-19T13:50:44.396Z",
+  updatedAt: "2026-09-24T19:59:17.000Z",
 } as const satisfies Track

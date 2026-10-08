@@ -24,4 +24,6 @@ export const chaislynMrNiceTryMrNiceTry = {
       externalLink: "https://open.spotify.com/track/1q9C6rbft5EB5I4TtfAcTZ",
     },
   ],
+  createdAt: "2026-09-19T13:48:05.103Z",
+  updatedAt: "2026-09-24T19:58:53.000Z",
 } as const satisfies Track

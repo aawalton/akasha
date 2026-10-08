@@ -24,4 +24,6 @@ export const coldplayLive2003ARushOfBloodToTheHeadLiveInSydney = {
       externalLink: "https://open.spotify.com/track/5KFf0D8pLy4mzIlaJeV57P",
     },
   ],
+  createdAt: "2026-09-19T13:50:36.572Z",
+  updatedAt: "2026-09-24T19:59:17.000Z",
 } as const satisfies Track

@@ -24,4 +24,6 @@ export const coldplayOverturaOverturaMusicOfTheSpheresAlbumTrailer = {
       externalLink: "https://open.spotify.com/track/4b4vxX76SDUbp7chM24TU9",
     },
   ],
+  createdAt: "2026-09-19T13:50:38.977Z",
+  updatedAt: "2026-09-24T19:59:17.000Z",
 } as const satisfies Track

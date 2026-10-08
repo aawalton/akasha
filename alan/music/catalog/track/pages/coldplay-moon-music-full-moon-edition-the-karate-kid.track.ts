@@ -24,4 +24,6 @@ export const coldplayMoonMusicFullMoonEditionTheKarateKid = {
       externalLink: "https://open.spotify.com/track/0cZEkGxb0V9MbpzHzpKp9F",
     },
   ],
+  createdAt: "2026-09-19T13:50:29.863Z",
+  updatedAt: "2026-09-24T19:59:17.000Z",
 } as const satisfies Track

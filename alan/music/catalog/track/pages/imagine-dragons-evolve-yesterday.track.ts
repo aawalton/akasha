@@ -24,4 +24,6 @@ export const imagineDragonsEvolveYesterday = {
       externalLink: "https://open.spotify.com/track/2SJf7W18D1AEpr8L9ATu0c",
     },
   ],
+  createdAt: "2026-09-21T13:55:10.198Z",
+  updatedAt: "2026-09-24T19:59:17.000Z",
 } as const satisfies Track

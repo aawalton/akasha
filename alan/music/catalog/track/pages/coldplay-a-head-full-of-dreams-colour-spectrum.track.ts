@@ -24,4 +24,6 @@ export const coldplayAHeadFullOfDreamsColourSpectrum = {
       externalLink: "https://open.spotify.com/track/3VqiD8Yvk6bKwqS1e64PHB",
     },
   ],
+  createdAt: "2026-09-19T13:50:32.539Z",
+  updatedAt: "2026-09-24T19:58:53.000Z",
 } as const satisfies Track

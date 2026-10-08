@@ -24,4 +24,6 @@ export const imagineDragonsSmokeMirrorsDeluxeMonster = {
       externalLink: "https://open.spotify.com/track/2Xaw1RrXP3mdooKWysuRJ8",
     },
   ],
+  createdAt: "2026-09-21T13:55:11.975Z",
+  updatedAt: "2026-09-24T19:59:43.000Z",
 } as const satisfies Track

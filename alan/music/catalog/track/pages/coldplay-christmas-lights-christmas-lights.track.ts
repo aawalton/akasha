@@ -24,4 +24,6 @@ export const coldplayChristmasLightsChristmasLights = {
       externalLink: "https://open.spotify.com/track/4fzyvSu73BhGvi96p2zwjL",
     },
   ],
+  createdAt: "2026-09-19T13:50:41.758Z",
+  updatedAt: "2026-09-24T19:58:53.000Z",
 } as const satisfies Track

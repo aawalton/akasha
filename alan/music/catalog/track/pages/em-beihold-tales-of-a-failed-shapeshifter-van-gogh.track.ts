@@ -24,4 +24,6 @@ export const emBeiholdTalesOfAFailedShapeshifterVanGogh = {
       externalLink: "https://open.spotify.com/track/0YpreTobwlq09o2DZ56V3k",
     },
   ],
+  createdAt: "2026-09-24T13:47:20.103Z",
+  updatedAt: "2026-09-24T19:59:17.000Z",
 } as const satisfies Track

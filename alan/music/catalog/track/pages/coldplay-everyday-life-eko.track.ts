@@ -24,4 +24,6 @@ export const coldplayEverydayLifeEko = {
       externalLink: "https://open.spotify.com/track/2HUtNS9qtfgWbnaagK6AAe",
     },
   ],
+  createdAt: "2026-09-19T13:50:31.008Z",
+  updatedAt: "2026-09-24T19:58:53.000Z",
 } as const satisfies Track

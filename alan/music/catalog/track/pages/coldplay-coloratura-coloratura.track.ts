@@ -24,4 +24,6 @@ export const coldplayColoraturaColoratura = {
       externalLink: "https://open.spotify.com/track/6P2Y4KnF2x8uwZV2cZWA8t",
     },
   ],
+  createdAt: "2026-09-19T13:50:38.943Z",
+  updatedAt: "2026-09-24T19:58:53.000Z",
 } as const satisfies Track

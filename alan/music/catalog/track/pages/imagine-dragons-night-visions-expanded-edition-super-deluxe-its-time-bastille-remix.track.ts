@@ -24,4 +24,6 @@ export const imagineDragonsNightVisionsExpandedEditionSuperDeluxeItsTimeBastille
       externalLink: "https://open.spotify.com/track/7rw1FE07nqE8frz3fn4KRH",
     },
   ],
+  createdAt: "2026-09-24T22:14:37.366Z",
+  updatedAt: "2026-09-24T23:00:57.000Z",
 } as const satisfies Track

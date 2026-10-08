@@ -24,4 +24,6 @@ export const emBeiholdDriveByLoversDriveByLovers = {
       externalLink: "https://open.spotify.com/track/6F8u5APvEIFxDhgfy78bU0",
     },
   ],
+  createdAt: "2026-09-24T13:47:21.690Z",
+  updatedAt: "2026-09-24T19:59:17.000Z",
 } as const satisfies Track

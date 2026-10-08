@@ -24,4 +24,6 @@ export const celticWoman2TheGreatestJourneyEssentialCollectionPieJesu = {
       externalLink: "https://open.spotify.com/track/07g1Xm2m7z6veTCniGDdNP",
     },
   ],
+  createdAt: "2026-09-16T20:31:06.606Z",
+  updatedAt: "2026-09-24T19:58:53.000Z",
 } as const satisfies Track

@@ -24,4 +24,6 @@ export const imagineDragonsOriginsDeluxeRealLife = {
       externalLink: "https://open.spotify.com/track/7JAzAyjbJFPznEFdqpa1Si",
     },
   ],
+  createdAt: "2026-09-21T13:55:09.864Z",
+  updatedAt: "2026-09-24T19:59:43.000Z",
 } as const satisfies Track

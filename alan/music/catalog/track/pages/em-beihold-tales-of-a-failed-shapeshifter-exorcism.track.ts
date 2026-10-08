@@ -24,4 +24,6 @@ export const emBeiholdTalesOfAFailedShapeshifterExorcism = {
       externalLink: "https://open.spotify.com/track/0Qna4DhSKxSPm4qtsXjtcI",
     },
   ],
+  createdAt: "2026-09-24T13:47:20.190Z",
+  updatedAt: "2026-09-24T19:59:17.000Z",
 } as const satisfies Track

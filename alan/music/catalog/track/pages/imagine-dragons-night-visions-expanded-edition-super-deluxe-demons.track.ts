@@ -24,4 +24,6 @@ export const imagineDragonsNightVisionsExpandedEditionSuperDeluxeDemons = {
       externalLink: "https://open.spotify.com/track/5dutmcNWUzaMvPMxK6hqfz",
     },
   ],
+  createdAt: "2026-09-21T13:55:05.907Z",
+  updatedAt: "2026-09-24T19:59:43.000Z",
 } as const satisfies Track

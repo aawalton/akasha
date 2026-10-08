@@ -24,4 +24,6 @@ export const emBeiholdTalesOfAFailedShapeshifterUnicorn = {
       externalLink: "https://open.spotify.com/track/2vfhsZ9jm2ncXDV8MrFR7X",
     },
   ],
+  createdAt: "2026-09-24T13:47:20.060Z",
+  updatedAt: "2026-09-24T19:59:17.000Z",
 } as const satisfies Track

@@ -24,4 +24,6 @@ export const coldplayARushOfBloodToTheHeadAWhisper = {
       externalLink: "https://open.spotify.com/track/7KolrFGhfDi1JTSgQBT5sI",
     },
   ],
+  createdAt: "2026-09-19T13:50:37.230Z",
+  updatedAt: "2026-09-24T19:58:53.000Z",
 } as const satisfies Track

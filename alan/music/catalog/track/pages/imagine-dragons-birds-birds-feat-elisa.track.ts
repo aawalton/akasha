@@ -24,4 +24,6 @@ export const imagineDragonsBirdsBirdsFeatElisa = {
       externalLink: "https://open.spotify.com/track/2uZVfvOK7MTjBTRICYmpso",
     },
   ],
+  createdAt: "2026-09-21T13:55:14.540Z",
+  updatedAt: "2026-09-24T19:59:17.000Z",
 } as const satisfies Track

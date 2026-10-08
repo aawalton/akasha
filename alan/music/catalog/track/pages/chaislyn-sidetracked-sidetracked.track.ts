@@ -24,4 +24,6 @@ export const chaislynSidetrackedSidetracked = {
       externalLink: "https://open.spotify.com/track/649ukvV0AAe4KetOfP9vY9",
     },
   ],
+  createdAt: "2026-09-19T13:48:05.196Z",
+  updatedAt: "2026-09-24T19:58:53.000Z",
 } as const satisfies Track

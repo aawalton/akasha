@@ -24,4 +24,6 @@ export const coldplayLive2003SeeYouSoonLiveInSydney = {
       externalLink: "https://open.spotify.com/track/4o0q6U6VX4a0VTZ06GOxg2",
     },
   ],
+  createdAt: "2026-09-19T13:50:36.659Z",
+  updatedAt: "2026-09-24T19:59:17.000Z",
 } as const satisfies Track

@@ -24,4 +24,6 @@ export const celticWoman2EmeraldMusicalGemsTheVoice2013Version = {
       externalLink: "https://open.spotify.com/track/6izjnjngrKTb4J1mS7QU1v",
     },
   ],
+  createdAt: "2026-09-16T20:31:02.311Z",
+  updatedAt: "2026-09-24T19:58:53.000Z",
 } as const satisfies Track
