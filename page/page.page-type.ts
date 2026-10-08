@@ -232,6 +232,15 @@ export const page = {
       decisionKind: "decision-kind/departure",
       statement: "A page with no title is named by its slug.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A page's own file states when the page was created and when its committed values last changed.",
+    },
+    {
+      decisionKind: "decision-kind/absence",
+      statement: "Neither instant is read from git.",
+    },
   ],
   types: "ts",
   schema: "jsonl",
@@ -239,4 +248,5 @@ export const page = {
     { partOfSpeech: "part-of-speech/noun", spelling: "page" },
     { partOfSpeech: "part-of-speech/noun", spelling: "pages" },
   ],
+  updatedAt: "2026-10-08T14:56:58.776Z",
 } as const satisfies PageType
