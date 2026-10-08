@@ -125,7 +125,7 @@ function todayOf(root: string, now: Date): Today {
   const target = targetOn(
     moved,
     {
-      seed: selectionPolicy.volumeTargetSeed,
+      seed: selectionPolicy.volumeLimitSeed,
       from: selectionPolicy.volumeTargetFrom,
       rise: selectionPolicy.volumeTargetRise,
       fall: selectionPolicy.volumeTargetFall,

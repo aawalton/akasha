@@ -9,9 +9,9 @@ export const selectionPolicy = {
   nearFailureRpeFloor: 7,
   stretchesCoolingDown: 3,
   secondsHoldingStretch: 45,
-  volumeTargetSeed: 3000,
+  volumeLimitSeed: 3000,
   volumeTargetRise: 20,
   volumeTargetFall: 100,
   volumeTargetFrom: "2026-09-21",
-  updatedAt: "2026-10-08T15:18:52.474Z",
+  updatedAt: "2026-10-08T15:25:02.755Z",
 } as const satisfies SelectionPolicy
