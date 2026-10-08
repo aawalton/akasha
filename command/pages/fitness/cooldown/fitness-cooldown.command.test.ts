@@ -15,3 +15,9 @@ test("a word this takes no argument for is refused", () => {
   expect(said.code).toBe(1)
   expect(said.refusals[0]).toContain("stray")
 })
+
+test("a gym flag said with no gym is refused", () => {
+  const said = fitnessCooldown(["--gym"], GIVEN)
+  expect(said.code).toBe(1)
+  expect(said.refusals[0]).toContain("--gym")
+})

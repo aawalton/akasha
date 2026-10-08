@@ -1,5 +1,6 @@
 {"propertySlug":"import","fileName":"training-week.module.code.ts","path":"command/pages/fitness/cooldown/fitness-cooldown.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"training-week.module.code.ts","path":"command/pages/fitness/modules/cooling/cooling.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"training-week.module.code.ts","path":"command/pages/fitness/modules/kit-loading/kit-loading.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"training-week.module.code.ts","path":"command/pages/fitness/modules/training-week/training-week.module.test-fixtures.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"training-week.module.code.ts","path":"command/pages/fitness/modules/training-week/training-week.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"training-week.module.code.ts","path":"command/pages/fitness/next/fitness-next.command.code.ts","typed":false,"deferred":false}

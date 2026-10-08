@@ -2,6 +2,7 @@ import { openedDayOf } from "akasha/alan/track/daily/modules/day-opening/day-ope
 import { selectionPolicy } from "akasha/alan/value/health/fitness/selection-policy/pages/selection-policy.selection-policy.ts"
 import { primaryMuscles } from "akasha/alan/value/health/fitness/strength/exercise/properties/primary-muscles.select-property.ts"
 import { takenFor } from "akasha/command/argument/modules/taking/argument-taking.module.code.ts"
+import { gym } from "akasha/command/argument/pages/gym.argument.ts"
 import { json } from "akasha/command/argument/pages/json.argument.ts"
 import {
   OPERATIONAL,
@@ -20,9 +21,8 @@ import {
 } from "akasha/command/pages/fitness/modules/cooling/cooling.module.code.ts"
 import {
   coveredBy,
-  KIT_TYPE,
   type Kit,
-  kitIn,
+  loadingIn,
   topLoadFor,
 } from "akasha/command/pages/fitness/modules/kit-loading/kit-loading.module.code.ts"
 import {
@@ -259,6 +259,7 @@ export function offerOf(
 }
 
 export type Next = {
+  readonly gym: string | null
   readonly offer: Offer | null
   readonly resting: boolean
   readonly cooling: boolean
@@ -310,7 +311,15 @@ function focusIn(root: string, today: string): string | null {
   )
 }
 
-const BARE = { offer: null, resting: false, cooling: false, cool: null, lifted: 0, target: 0 }
+const BARE = {
+  gym: null,
+  offer: null,
+  resting: false,
+  cooling: false,
+  cool: null,
+  lifted: 0,
+  target: 0,
+}
 
 function cooledFor(week: TrainingWeek, covered: ReadonlySet<string>, today: string): Cool | null {
   return coolFor(week.movements, {
@@ -326,12 +335,14 @@ export function todayIn(root: string, now: Date): string {
   return openedDayOf(rootsNamed({ [AKASHA]: root }, AKASHA), now)
 }
 
-function nextIn(root: string, now: Date): Next {
+function nextIn(root: string, now: Date, named: string | undefined): Next | string {
   const today = todayIn(root, now)
   const focus = focusIn(root, today)
   if (focus === RESTING) return { ...BARE, resting: true }
   const week = weekIn(root, today, selectionPolicy.nearFailureRpeFloor)
-  const kit = kitIn(valuesOfType(root, KIT_TYPE).map((one) => one.value))
+  const loading = loadingIn(root, named, week.sets, today)
+  if (typeof loading === "string") return loading
+  const kit = loading.kit
   const moved = liftedOn(week.sets, week.movements, alan.bodyweight)
   const lifted = moved.get(today) ?? 0
   const target = targetOn(
@@ -346,7 +357,8 @@ function nextIn(root: string, now: Date): Next {
   )
   if (lifted >= target) {
     const covered = coveredBy(kit)
-    return { ...BARE, cooling: true, cool: cooledFor(week, covered, today), lifted, target }
+    const cool = cooledFor(week, covered, today)
+    return { ...BARE, gym: loading.gym, cooling: true, cool, lifted, target }
   }
   const turns = turnsIn(
     valuesOfType(root, DECLINE_TYPE).map((one) => one.value),
@@ -371,6 +383,7 @@ function nextIn(root: string, now: Date): Next {
   const warmth = warmthIn(week.sets, now, selectionPolicy.minutesStayingWarm, today)
   return {
     ...BARE,
+    gym: loading.gym,
     offer: offerOf(week, kit, marks, bounds, out, warmth, focus),
     lifted,
     target,
@@ -378,10 +391,11 @@ function nextIn(root: string, now: Date): Next {
 }
 
 export function fitnessNext(argv: readonly string[], given: Given): Answer {
-  const read = takenFor(argv, given.calledAs, page, [json])
+  const read = takenFor(argv, given.calledAs, page, [gym, json])
   if ("refused" in read) return mistaking(read.refused)
   try {
-    const next = nextIn(given.root, new Date())
+    const next = nextIn(given.root, new Date(), read.taken.gym)
+    if (typeof next === "string") return refusedBy([next])
     if (read.taken.json) return told([JSON.stringify(next)])
     return told([...saidOf(next)])
   } catch (thrown) {

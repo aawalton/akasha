@@ -1,6 +1,7 @@
 import { openedDayOf } from "akasha/alan/track/daily/modules/day-opening/day-opening.module.code.ts"
 import { selectionPolicy } from "akasha/alan/value/health/fitness/selection-policy/pages/selection-policy.selection-policy.ts"
 import { takenFor } from "akasha/command/argument/modules/taking/argument-taking.module.code.ts"
+import { gym } from "akasha/command/argument/pages/gym.argument.ts"
 import { json } from "akasha/command/argument/pages/json.argument.ts"
 import {
   OPERATIONAL,
@@ -20,34 +21,34 @@ import {
 } from "akasha/command/pages/fitness/modules/cooling/cooling.module.code.ts"
 import {
   coveredBy,
-  KIT_TYPE,
-  kitIn,
+  loadingIn,
 } from "akasha/command/pages/fitness/modules/kit-loading/kit-loading.module.code.ts"
 import { weekIn } from "akasha/command/pages/fitness/modules/training-week/training-week.module.code.ts"
-import { valuesOfType } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import {
   AKASHA,
   rootsNamed,
 } from "akasha/page/modules/checkout-roots/checkout-roots.module.code.ts"
 
-function coolingIn(root: string, now: Date): Cool | null {
+function coolingIn(root: string, now: Date, said: string | undefined): Cool | null | string {
   const today = openedDayOf(rootsNamed({ [AKASHA]: root }, AKASHA), now)
   const week = weekIn(root, today, selectionPolicy.nearFailureRpeFloor)
-  const kit = kitIn(valuesOfType(root, KIT_TYPE).map((one) => one.value))
+  const loading = loadingIn(root, said, week.sets, today)
+  if (typeof loading === "string") return loading
   return coolFor(week.movements, {
     stretches: selectionPolicy.stretchesCoolingDown,
     seconds: selectionPolicy.secondsHoldingStretch,
     worked: workedOn(week.sets, today, week.movements),
     done: takenOn(week.sets, today),
-    covered: coveredBy(kit),
+    covered: coveredBy(loading.kit),
   })
 }
 
 export function fitnessCooldown(argv: readonly string[], given: Given): Answer {
-  const read = takenFor(argv, given.calledAs, page, [json])
+  const read = takenFor(argv, given.calledAs, page, [gym, json])
   if ("refused" in read) return mistaking(read.refused)
   try {
-    const cool = coolingIn(given.root, new Date())
+    const cool = coolingIn(given.root, new Date(), read.taken.gym)
+    if (typeof cool === "string") return refusedBy([cool])
     if (read.taken.json) return told([JSON.stringify(cool)])
     return told([...cooledOf(cool)])
   } catch (thrown) {

@@ -29,10 +29,22 @@ export const fitnessCooldown = {
       statement: "How many stretches and how long each is held are read from the selection policy.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement: "A stretch the kit at Alan's gym cannot carry is no stretch to offer.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Alan's gym is the one `--gym` names, else the one today's latest set names.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Alan is at home where neither `--gym` nor a set today names a gym.",
+    },
+    {
       decisionKind: "decision-kind/absence",
       statement: "A run writes nothing.",
     },
   ],
   name: "cooldown",
-  arguments: [{ argument: "argument/json" }],
+  arguments: [{ argument: "argument/gym" }, { argument: "argument/json" }],
 } as const satisfies Command

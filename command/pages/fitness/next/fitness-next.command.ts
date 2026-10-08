@@ -4,7 +4,7 @@ export const fitnessNext = {
   id: "01a0b6f2-5cf1-7d7f-a0f4-5905b47e64a6",
   type: "page-type/command",
   slug: "fitness-next",
-  definition: "the movement to do next, with the load to take and what to beat",
+  definition: "the movement to do next at Alan's gym, with the load to take and what to beat",
   code: "ts",
   test: "ts",
   parts: [
@@ -21,11 +21,35 @@ export const fitnessNext = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A movement Alan's kit cannot load is one Alan may not perform.",
+      statement: "A movement the kit at Alan's gym cannot load is one Alan may not perform.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "What Alan owns is read from the kit pages rather than written here.",
+      statement: "Alan's gym is the one `--gym` names, else the one today's latest set names.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Alan is at home where neither `--gym` nor a set today names a gym.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "What a gym holds is read from the gym and kit pages rather than written here.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "At a gym holding every implement, every movement is loadable.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "At a gym holding every implement, no weight is held at a ceiling.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A best Alan took near failure counts at every gym, wherever Alan took it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A run answering as JSON names the gym it weighed the movements against.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -94,7 +118,8 @@ export const fitnessNext = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A movement Alan's kit cannot load further holds its weight and climbs its reps.",
+      statement:
+        "A movement the kit at Alan's gym cannot load further holds its weight and climbs its reps.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -214,5 +239,5 @@ export const fitnessNext = {
     },
   ],
   name: "next",
-  arguments: [{ argument: "argument/json" }],
+  arguments: [{ argument: "argument/gym" }, { argument: "argument/json" }],
 } as const satisfies Command

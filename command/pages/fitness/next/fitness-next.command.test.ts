@@ -119,6 +119,7 @@ const ROOM = bounds({ repsCap: 25 })
 
 function next(over: Partial<Next> = {}): Next {
   return {
+    gym: null,
     offer: null,
     resting: false,
     cooling: false,
@@ -204,6 +205,32 @@ test("a movement the kit cannot load further is made harder by slowing the rep",
   expect(offer?.reps).toBe(20)
   expect(offer?.slower).toBe(true)
   expect(spoken(offer).some((one) => one.includes("lower slowly"))).toBe(true)
+})
+
+const EVERY: readonly Kit[] = [{ covers: ["dumbbell", "barbell"], loads: [] }]
+
+const BARBELL = movement("barbell-bench-press", { implement: "barbell" })
+
+test("at a gym holding every implement, every movement is loadable", () => {
+  expect(loadable(BARBELL, COVERED)).toBe(false)
+  expect(loadable(BARBELL, coveredBy(EVERY))).toBe(true)
+  const known = new Map<string, Mark>([["barbell-bench-press", mark()]])
+  expect(offerOf(week([BARBELL]), EVERY, known, BOUNDS, FREE, WARM)?.movement).toBe(
+    "barbell-bench-press"
+  )
+})
+
+test("at a gym holding every implement, no weight is held at a ceiling", () => {
+  const offer = offerOf(week([BENCH]), EVERY, KNOWN, BOUNDS, FREE, WARM)
+  expect(offer?.atKitCeiling).toBe(false)
+  expect(offer?.slower).toBe(false)
+  expect(offer?.reps).toBe(21)
+})
+
+test("a best Alan took at another gym sets the weight and reps at this one", () => {
+  const offer = offerOf(week([BENCH]), EVERY, KNOWN, ROOM, FREE, WARM)
+  expect(offer?.weight).toBe(30)
+  expect(offer?.reps).toBe(21)
 })
 
 test("reps climb while the kit can still load the movement", () => {
@@ -369,4 +396,10 @@ test("a word this takes no argument for is refused", () => {
   const said = fitnessNext(["stray"], GIVEN)
   expect(said.code).toBe(1)
   expect(said.refusals[0]).toContain("stray")
+})
+
+test("a gym flag said with no gym is refused", () => {
+  const said = fitnessNext(["--gym"], GIVEN)
+  expect(said.code).toBe(1)
+  expect(said.refusals[0]).toContain("--gym")
 })

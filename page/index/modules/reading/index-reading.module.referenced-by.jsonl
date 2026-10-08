@@ -170,8 +170,8 @@
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"command/pages/deploy/modules/tree-sweeping/deploy-tree-sweeping.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"command/pages/domain/modules/drawing/domain-drawing.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"command/pages/finding/delete/finding-delete.command.code.ts","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"command/pages/fitness/cooldown/fitness-cooldown.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"command/pages/fitness/mobility/fitness-mobility.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"command/pages/fitness/modules/kit-loading/kit-loading.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"command/pages/fitness/modules/training-week/training-week.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"command/pages/fitness/next/fitness-next.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"command/pages/gap/delete/gap-delete.command.code.ts","typed":false,"deferred":false}
