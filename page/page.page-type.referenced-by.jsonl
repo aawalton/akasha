@@ -119,6 +119,7 @@
 {"propertySlug":"extends-type","path":"story/world/mechanics/items/story-item/item-slot/item-slot.page-type.ts","id":"01a0ca45-bac0-7c6d-83bf-8415bedd0526"}
 {"propertySlug":"extends-type","path":"story/world/mechanics/world-mechanic.page-type.ts","id":"01a06558-a991-7f75-b03b-962c2df9e390"}
 {"propertySlug":"extends-type","path":"story/world/named-events/named-event.page-type.ts","id":"01a0658b-9f41-7cc1-93d8-f47f7aa3b771"}
+{"propertySlug":"extends-type","path":"story/world/pronunciations/pronunciation.page-type.ts","id":"01a11c0e-f7a2-73f9-b751-0c33aec73a37"}
 {"propertySlug":"extends-type","path":"story/world/world.page-type.ts","id":"01a063ce-6216-7000-8f40-f471a7c21987"}
 {"propertySlug":"extends-type","path":"temper/thing/temper-thing.page-type.ts","id":"01a05fb0-3ce8-72d1-bc97-7c0f7f1810b3"}
 {"propertySlug":"import","fileName":"page.page-type.ts","path":"agent/model/account/modules/marking/model-account-marking.module.test-fixtures.ts","typed":false,"deferred":false}
@@ -274,6 +275,7 @@
 {"propertySlug":"import","fileName":"page.page-type.types.ts","path":"story/world/mechanics/items/story-item/item-slot/item-slot.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page.page-type.types.ts","path":"story/world/mechanics/world-mechanic.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page.page-type.types.ts","path":"story/world/named-events/named-event.page-type.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"page.page-type.types.ts","path":"story/world/pronunciations/pronunciation.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page.page-type.types.ts","path":"story/world/world.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page.page-type.types.ts","path":"temper/thing/temper-thing.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"page-domain","path":"domain/initiative/pages/astra-page-timestamps.initiative.ts","id":"01a11bf1-2669-7cd3-a8ba-fb83ab35ca21"}

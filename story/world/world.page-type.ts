@@ -16,6 +16,7 @@ export const world = {
     "page-property-entry/character-readings",
     "page-property-entry/mechanic-readings",
     "page-type/named-event",
+    "page-type/pronunciation",
     "page-type/story-decision",
     "page-type/story-design",
     "page-type/story-design-note",
@@ -53,4 +54,5 @@ export const world = {
   ],
   types: "ts",
   schema: "jsonl",
+  updatedAt: "2026-10-08T15:08:25.377Z",
 } as const satisfies PageType
