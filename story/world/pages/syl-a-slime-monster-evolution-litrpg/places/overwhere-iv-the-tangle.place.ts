@@ -371,14 +371,7 @@ export const overwhereIvTheTangle = {
       fact: "Over two miles in, the deer trail runs single file down a cleft walled with bramble.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
     },
-    {
-      fact: "Struck hard by a foe they cannot see, goblins panic; if both hobgoblins fall, the band breaks.",
-      knowers: ["lore-disclosure/game-master"],
-    },
-    {
-      fact: "The strike's horn, blown that far in, brings a dozen more goblins from the camp in about two hours.",
-      knowers: ["lore-disclosure/game-master"],
-    },
   ],
   secrets: "jsonl",
+  updatedAt: "2026-10-08T16:25:51.892Z",
 } as const satisfies Place

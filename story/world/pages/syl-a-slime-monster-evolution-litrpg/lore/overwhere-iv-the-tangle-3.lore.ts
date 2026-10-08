@@ -9,6 +9,14 @@ export const overwhereIvTheTangle3 = {
   about: "place/overwhere-iv-the-tangle",
   facts: [
     {
+      fact: "Struck hard by a foe they cannot see, goblins panic; if both hobgoblins fall, the band breaks.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The strike's horn, blown that far in, brings a dozen more goblins from the camp in about two hours.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
       fact: "A fox at the cleft's dead bolts from anyone coming; nothing else living is near by day.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
     },
@@ -270,5 +278,5 @@ export const overwhereIvTheTangle3 = {
     },
   ],
   createdAt: "2026-10-03T11:23:15.751Z",
-  updatedAt: "2026-10-03T13:53:10.000Z",
+  updatedAt: "2026-10-08T16:25:51.892Z",
 } as const satisfies Lore
