@@ -11,4 +11,6 @@ export const swordArtOnline = {
       externalLink: "https://www.themoviedb.org/search?query=Sword%20Art%20Online",
     },
   ],
+  createdAt: "2026-06-07T22:44:35.207Z",
+  updatedAt: "2026-09-25T12:50:49.000Z",
 } as const satisfies Franchise

@@ -40,4 +40,6 @@ export const typescriptBuildInfo = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-04T19:11:40.354Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies FileProperty

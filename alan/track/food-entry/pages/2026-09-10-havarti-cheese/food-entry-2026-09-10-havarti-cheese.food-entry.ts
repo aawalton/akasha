@@ -8,4 +8,6 @@ export const foodEntry20260910HavartiCheese = {
   title: "Havarti Cheese",
   happenedAt: "2026-09-10T20:30:46.603Z",
   estimatedCalories: 80,
+  createdAt: "2026-09-10T20:30:46.615Z",
+  updatedAt: "2026-09-24T19:07:30.000Z",
 } as const satisfies FoodEntry

@@ -10,4 +10,6 @@ export const beatSaberReCueUpperDaysRestOnLegs = {
   kind: "programming-cue",
   sortOrder: 12,
   says: "txt",
+  createdAt: "2026-06-26T03:03:19.100Z",
+  updatedAt: "2026-09-15T16:57:52.000Z",
 } as const satisfies FitnessCoachingNote

@@ -28,4 +28,6 @@ export const outcomes = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-26T14:33:51.196Z",
+  updatedAt: "2026-10-02T18:07:51.000Z",
 } as const satisfies FileProperty

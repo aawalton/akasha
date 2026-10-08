@@ -9,4 +9,6 @@ export const cargoManifest = {
   extensions: ["toml"],
   fileName: "Cargo.toml",
   types: "ts",
+  createdAt: "2026-09-02T03:33:04.336Z",
+  updatedAt: "2026-09-15T16:56:11.000Z",
 } as const satisfies FileProperty

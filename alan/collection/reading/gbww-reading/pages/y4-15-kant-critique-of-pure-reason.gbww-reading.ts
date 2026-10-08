@@ -12,4 +12,6 @@ export const y415KantCritiqueOfPureReason = {
   planYear: 4,
   readingNumber: 15,
   editionMarker: "common",
+  createdAt: "2026-06-28T02:23:12.778Z",
+  updatedAt: "2026-09-25T13:02:31.000Z",
 } as const satisfies GbwwReading

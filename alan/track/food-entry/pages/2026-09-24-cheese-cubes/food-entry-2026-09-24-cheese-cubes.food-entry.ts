@@ -8,4 +8,6 @@ export const foodEntry20260924CheeseCubes = {
   title: "Cheese cubes",
   happenedAt: "2026-09-24T20:33:00.000Z",
   estimatedCalories: 420,
+  createdAt: "2026-09-24T20:41:44.596Z",
+  updatedAt: "2026-09-24T20:42:23.000Z",
 } as const satisfies FoodEntry

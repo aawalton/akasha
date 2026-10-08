@@ -9,4 +9,6 @@ export const foodEntry20260911SteakBurritoBowl = {
   happenedAt: "2026-09-12T01:01:32.268Z",
   plantGrams: 210,
   estimatedCalories: 780,
+  createdAt: "2026-09-12T01:01:32.331Z",
+  updatedAt: "2026-09-24T19:07:30.000Z",
 } as const satisfies FoodEntry

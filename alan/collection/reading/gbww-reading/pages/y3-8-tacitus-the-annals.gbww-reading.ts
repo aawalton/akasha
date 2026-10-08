@@ -12,4 +12,6 @@ export const y38TacitusTheAnnals = {
   planYear: 3,
   readingNumber: 8,
   editionMarker: "common",
+  createdAt: "2026-06-28T02:23:12.658Z",
+  updatedAt: "2026-09-25T13:02:31.000Z",
 } as const satisfies GbwwReading

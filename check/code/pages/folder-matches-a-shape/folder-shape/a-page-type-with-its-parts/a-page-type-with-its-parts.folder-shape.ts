@@ -115,4 +115,6 @@ export const aPageTypeWithItsParts = {
       statement: "The folder's name never opens with the slug of the page above the folder.",
     },
   ],
+  createdAt: "2026-09-02T14:02:52.380Z",
+  updatedAt: "2026-09-24T16:57:26.000Z",
 } as const satisfies FolderShape

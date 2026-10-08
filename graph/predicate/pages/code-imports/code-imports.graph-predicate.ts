@@ -8,4 +8,6 @@ export const codeImports = {
   edges: ["graph-edge/import-edge"],
   direction: "out",
   follows: [{ attribute: "graph-attribute/names", value: "code" }],
+  createdAt: "2026-09-16T13:23:51.261Z",
+  updatedAt: "2026-09-16T13:26:58.000Z",
 } as const satisfies GraphPredicate

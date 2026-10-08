@@ -71,4 +71,6 @@ export const partsUnderThePageTheyName = {
       statement: "A page is read for what it names by the path the folder holding it answers with.",
     },
   ],
+  createdAt: "2026-09-19T03:32:42.916Z",
+  updatedAt: "2026-09-19T03:54:07.000Z",
 } as const satisfies FolderShape

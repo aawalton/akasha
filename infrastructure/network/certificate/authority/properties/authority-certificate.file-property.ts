@@ -20,4 +20,6 @@ export const authorityCertificate = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-03T17:43:13.185Z",
+  updatedAt: "2026-09-22T13:48:22.000Z",
 } as const satisfies FileProperty

@@ -6,4 +6,6 @@ export const createdInstant = {
   slug: "created-instant",
   definition: "the instant a page is created, worked out as the page lands",
   afterChecks: false,
+  createdAt: "2026-10-08T14:52:58.252Z",
+  updatedAt: "2026-10-08T14:53:49.000Z",
 } as const satisfies GeneratorKind

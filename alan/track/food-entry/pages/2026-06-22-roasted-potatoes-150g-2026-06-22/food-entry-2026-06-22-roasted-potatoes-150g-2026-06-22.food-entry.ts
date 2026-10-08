@@ -9,4 +9,6 @@ export const foodEntry20260622RoastedPotatoes150g20260622 = {
   plantGrams: 150,
   estimatedCalories: 195,
   note: "txt",
+  createdAt: "2026-09-03T05:00:04.620Z",
+  updatedAt: "2026-09-15T16:59:51.000Z",
 } as const satisfies FoodEntry

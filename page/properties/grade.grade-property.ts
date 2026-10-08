@@ -13,4 +13,6 @@ export const grade = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-03T03:41:16.827Z",
+  updatedAt: "2026-09-21T20:08:12.000Z",
 } as const satisfies GradeProperty

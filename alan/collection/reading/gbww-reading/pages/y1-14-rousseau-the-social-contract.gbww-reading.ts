@@ -12,4 +12,6 @@ export const y114RousseauTheSocialContract = {
   planYear: 1,
   readingNumber: 14,
   editionMarker: "common",
+  createdAt: "2026-06-28T02:23:12.406Z",
+  updatedAt: "2026-09-25T13:02:31.000Z",
 } as const satisfies GbwwReading

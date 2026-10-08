@@ -20,4 +20,6 @@ export const exploringMetaphysics2ndEdition = {
       externalLink: "https://plus.thegreatcourses.com/exploring-metaphysics-2nd-edition",
     },
   ],
+  createdAt: "2026-09-03T04:13:04.668Z",
+  updatedAt: "2026-09-25T12:51:30.000Z",
 } as const satisfies GreatCourse

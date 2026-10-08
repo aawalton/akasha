@@ -21,4 +21,6 @@ export const names = {
       statement: "An edge coming in says what that edge names.",
     },
   ],
+  createdAt: "2026-09-15T18:32:55.705Z",
+  updatedAt: "2026-09-24T22:53:20.000Z",
 } as const satisfies GraphAttribute

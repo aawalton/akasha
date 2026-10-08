@@ -55,4 +55,6 @@ export const pagesOfTheTypeAbove = {
       statement: "A file that is neither a page nor a file beside a page is refused.",
     },
   ],
+  createdAt: "2026-09-01T22:46:21.936Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies FolderShape

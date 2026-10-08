@@ -9,4 +9,6 @@ export const foodEntry20260921OutshineFruitBar1Pop = {
   happenedAt: "2026-09-21T14:48:02.209Z",
   plantGrams: 0,
   estimatedCalories: 40,
+  createdAt: "2026-09-21T14:48:02.216Z",
+  updatedAt: "2026-09-24T19:07:30.000Z",
 } as const satisfies FoodEntry

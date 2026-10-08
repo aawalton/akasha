@@ -23,4 +23,6 @@ export const gnosticismFromNagHammadiToTheGospelOfJudas = {
         "https://www.thegreatcoursesplus.com/gnosticism-from-nag-hammadi-to-the-gospel-of-judas",
     },
   ],
+  createdAt: "2026-04-22T12:39:34.047Z",
+  updatedAt: "2026-09-25T12:51:30.000Z",
 } as const satisfies GreatCourse

@@ -10,4 +10,6 @@ export const workspaceManifest = {
   fileName: "package.json",
   toolResolvesPaths: true,
   types: "ts",
+  createdAt: "2026-09-04T14:03:34.433Z",
+  updatedAt: "2026-09-15T16:56:11.000Z",
 } as const satisfies FileProperty

@@ -10,4 +10,6 @@ export const hamstringLrGap20260619 = {
   mobilityReadingMetric: "hamstring-lr-gap",
   side: "n-a",
   mobilityReadingValueText: "Right hamstring tighter than left (~5/10 stretch R vs L at 45° SLR)",
+  createdAt: "2026-06-26T03:03:20.502Z",
+  updatedAt: "2026-09-15T16:58:52.000Z",
 } as const satisfies FlexibilityLog

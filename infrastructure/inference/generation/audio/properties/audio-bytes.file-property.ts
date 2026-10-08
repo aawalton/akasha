@@ -24,4 +24,6 @@ export const audioBytes = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-21T23:15:08.961Z",
+  updatedAt: "2026-09-21T23:21:23.000Z",
 } as const satisfies FileProperty

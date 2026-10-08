@@ -8,4 +8,6 @@ export const foodEntry20260907CaramelAppleQuarter = {
   happenedAt: "2026-09-07T18:42:00.000Z",
   plantGrams: 45,
   estimatedCalories: 90,
+  createdAt: "2026-09-07T18:55:58.870Z",
+  updatedAt: "2026-09-15T16:59:51.000Z",
 } as const satisfies FoodEntry

@@ -12,4 +12,6 @@ export const y78StThomasAquinasSummaTheologica = {
   planYear: 7,
   readingNumber: 8,
   editionMarker: "common",
+  createdAt: "2026-06-28T02:23:13.036Z",
+  updatedAt: "2026-09-25T13:02:31.000Z",
 } as const satisfies GbwwReading

@@ -21,4 +21,6 @@ export const medicineRecreationAndTheLongHistoryOfCannabis = {
         "https://plus.thegreatcourses.com/medicine-recreation-and-the-long-history-of-cannabis",
     },
   ],
+  createdAt: "2026-09-03T04:13:04.664Z",
+  updatedAt: "2026-09-25T12:51:30.000Z",
 } as const satisfies GreatCourse

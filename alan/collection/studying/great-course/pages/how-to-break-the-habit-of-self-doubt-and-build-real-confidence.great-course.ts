@@ -21,4 +21,6 @@ export const howToBreakTheHabitOfSelfDoubtAndBuildRealConfidence = {
         "https://www.thegreatcoursesplus.com/how-to-break-the-habit-of-self-doubt-and-build-real-confidence",
     },
   ],
+  createdAt: "2026-04-22T12:39:34.046Z",
+  updatedAt: "2026-09-25T12:51:30.000Z",
 } as const satisfies GreatCourse

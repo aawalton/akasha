@@ -13,4 +13,6 @@ export const y714NewtonMathematicalPrinciplesBookIiiRulesOpticsBookIPart = {
   planYear: 7,
   readingNumber: 14,
   editionMarker: "common",
+  createdAt: "2026-06-28T02:23:13.063Z",
+  updatedAt: "2026-09-25T13:02:31.000Z",
 } as const satisfies GbwwReading

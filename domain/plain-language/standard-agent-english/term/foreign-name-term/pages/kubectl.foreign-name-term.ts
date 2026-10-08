@@ -5,4 +5,6 @@ export const kubectl = {
   type: "page-type/foreign-name-term",
   slug: "kubectl",
   spellings: [{ partOfSpeech: "part-of-speech/noun", spelling: "kubectl" }],
+  createdAt: "2026-09-21T22:06:54.253Z",
+  updatedAt: "2026-09-25T15:41:48.000Z",
 } as const satisfies ForeignNameTerm

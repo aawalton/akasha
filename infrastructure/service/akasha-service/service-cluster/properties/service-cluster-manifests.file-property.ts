@@ -24,4 +24,6 @@ export const serviceClusterManifests = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-25T00:01:31.323Z",
+  updatedAt: "2026-09-25T00:01:53.000Z",
 } as const satisfies FileProperty

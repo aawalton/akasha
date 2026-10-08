@@ -58,4 +58,6 @@ export const partsUnderTheirPlural = {
       statement: "Nothing here reads the page type of the folder above.",
     },
   ],
+  createdAt: "2026-09-15T15:52:36.416Z",
+  updatedAt: "2026-09-22T10:06:53.000Z",
 } as const satisfies FolderShape

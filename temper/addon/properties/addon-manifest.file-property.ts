@@ -8,4 +8,6 @@ export const addonManifest = {
   definition: "what an addon states about itself",
   extensions: ["json"],
   types: "ts",
+  createdAt: "2026-09-02T03:43:06.615Z",
+  updatedAt: "2026-09-21T16:29:38.000Z",
 } as const satisfies FileProperty

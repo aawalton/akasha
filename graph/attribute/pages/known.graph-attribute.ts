@@ -7,4 +7,6 @@ export const known = {
   type: "page-type/graph-attribute",
   slug: "known",
   definition: "how an edge was known",
+  createdAt: "2026-08-30T10:35:10.837Z",
+  updatedAt: "2026-09-15T17:04:40.000Z",
 } as const satisfies GraphAttribute

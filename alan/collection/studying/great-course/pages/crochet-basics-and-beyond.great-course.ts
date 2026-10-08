@@ -21,4 +21,6 @@ export const crochetBasicsAndBeyond = {
       externalLink: "https://www.thegreatcoursesplus.com/crochet-basics-and-beyond",
     },
   ],
+  createdAt: "2026-04-22T12:39:34.046Z",
+  updatedAt: "2026-09-25T12:51:30.000Z",
 } as const satisfies GreatCourse

@@ -9,4 +9,6 @@ export const editorSettings = {
   extensions: ["json"],
   fileName: ".vscode/settings.json",
   types: "ts",
+  createdAt: "2026-09-19T00:05:42.833Z",
+  updatedAt: "2026-09-19T00:09:32.000Z",
 } as const satisfies FileProperty

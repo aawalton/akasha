@@ -9,4 +9,6 @@ export const bindings = {
   extensions: ["xml"],
   fileName: "Bindings.xml",
   types: "ts",
+  createdAt: "2026-09-02T03:43:06.616Z",
+  updatedAt: "2026-09-21T16:29:38.000Z",
 } as const satisfies FileProperty

@@ -10,4 +10,6 @@ export const forwardFold20260623 = {
   mobilityReadingMetric: "forward-fold",
   side: "n-a",
   mobilityReadingValueText: "lower shin, 3/4 down (started lower than 6-20)",
+  createdAt: "2026-06-26T03:03:19.503Z",
+  updatedAt: "2026-09-15T16:58:52.000Z",
 } as const satisfies FlexibilityLog

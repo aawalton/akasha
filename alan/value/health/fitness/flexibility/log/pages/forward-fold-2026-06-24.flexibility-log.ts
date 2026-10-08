@@ -10,4 +10,6 @@ export const forwardFold20260624 = {
   mobilityReadingMetric: "forward-fold",
   side: "n-a",
   mobilityReadingValueText: "started 1/2 down (mid-shin) → eased to 3/4 down",
+  createdAt: "2026-06-26T03:03:19.699Z",
+  updatedAt: "2026-09-15T16:58:52.000Z",
 } as const satisfies FlexibilityLog

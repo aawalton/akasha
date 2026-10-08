@@ -10,4 +10,6 @@ export const testPreload = {
   fileName: "bunfig.toml",
   toolResolvesPaths: true,
   types: "ts",
+  createdAt: "2026-09-08T15:33:58.619Z",
+  updatedAt: "2026-09-15T16:56:11.000Z",
 } as const satisfies FileProperty

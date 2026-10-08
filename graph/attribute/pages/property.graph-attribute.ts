@@ -5,4 +5,6 @@ export const property = {
   type: "page-type/graph-attribute",
   slug: "property",
   definition: "the property carrying a page's naming of another",
+  createdAt: "2026-08-29T23:50:12.970Z",
+  updatedAt: "2026-09-22T13:55:14.000Z",
 } as const satisfies GraphAttribute

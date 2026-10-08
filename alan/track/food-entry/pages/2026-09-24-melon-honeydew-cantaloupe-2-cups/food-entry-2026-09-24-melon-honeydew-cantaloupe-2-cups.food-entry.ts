@@ -9,4 +9,6 @@ export const foodEntry20260924MelonHoneydewCantaloupe2Cups = {
   happenedAt: "2026-09-24T20:31:00.000Z",
   plantGrams: 340,
   estimatedCalories: 125,
+  createdAt: "2026-09-24T20:40:27.169Z",
+  updatedAt: "2026-09-24T20:40:47.000Z",
 } as const satisfies FoodEntry

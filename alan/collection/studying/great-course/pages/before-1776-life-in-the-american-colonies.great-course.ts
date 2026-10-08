@@ -20,4 +20,6 @@ export const before1776LifeInTheAmericanColonies = {
       externalLink: "https://plus.thegreatcourses.com/before-1776-life-in-the-american-colonies",
     },
   ],
+  createdAt: "2026-09-03T04:13:04.663Z",
+  updatedAt: "2026-09-25T12:51:30.000Z",
 } as const satisfies GreatCourse

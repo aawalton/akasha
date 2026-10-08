@@ -44,4 +44,6 @@ export const shapes = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-14T22:58:48.013Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies FileProperty

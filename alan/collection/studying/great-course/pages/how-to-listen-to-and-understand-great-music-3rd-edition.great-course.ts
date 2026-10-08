@@ -21,4 +21,6 @@ export const howToListenToAndUnderstandGreatMusic3rdEdition = {
         "https://www.thegreatcoursesplus.com/how-to-listen-to-and-understand-great-music-3rd-edition",
     },
   ],
+  createdAt: "2026-04-22T12:39:34.048Z",
+  updatedAt: "2026-09-25T12:51:30.000Z",
 } as const satisfies GreatCourse

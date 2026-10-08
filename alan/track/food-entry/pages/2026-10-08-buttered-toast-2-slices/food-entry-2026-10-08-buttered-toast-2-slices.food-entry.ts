@@ -8,4 +8,6 @@ export const foodEntry20261008ButteredToast2Slices = {
   happenedAt: "2026-10-08T14:23:50.000Z",
   cover: "image/image-76dcfe78f968c289",
   estimatedCalories: 230,
+  createdAt: "2026-10-08T14:33:23.028Z",
+  updatedAt: "2026-10-08T14:39:28.000Z",
 } as const satisfies FoodEntry

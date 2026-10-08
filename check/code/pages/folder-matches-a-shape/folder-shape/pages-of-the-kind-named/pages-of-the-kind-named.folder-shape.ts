@@ -57,4 +57,6 @@ export const pagesOfTheKindNamed = {
       statement: "The files a page in a folder of its own holds are judged where that page is.",
     },
   ],
+  createdAt: "2026-09-19T03:24:54.229Z",
+  updatedAt: "2026-09-22T10:05:48.000Z",
 } as const satisfies FolderShape

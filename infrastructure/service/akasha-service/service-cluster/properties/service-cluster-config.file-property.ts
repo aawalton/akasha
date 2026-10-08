@@ -19,4 +19,6 @@ export const serviceClusterConfig = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-07T15:52:33.967Z",
+  updatedAt: "2026-09-24T19:06:05.000Z",
 } as const satisfies FileProperty

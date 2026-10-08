@@ -50,4 +50,6 @@ export const modulesOnly = {
       statement: "A subfolder holding a second page is the folder of no module.",
     },
   ],
+  createdAt: "2026-09-01T22:46:21.936Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies FolderShape

@@ -11,4 +11,6 @@ export const weightedVest = {
   notes:
     "Proposed purchase (discretionary income) — unlocks hands-free leg loading (squats/lunges/step-ups/Bulgarians) without arm-capping. Not owned yet.",
   sortOrder: 4,
+  createdAt: "2026-06-26T03:03:16.505Z",
+  updatedAt: "2026-09-15T16:58:20.000Z",
 } as const satisfies FitnessEquipment

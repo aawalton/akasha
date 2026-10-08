@@ -18,4 +18,6 @@ export const prose = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-02T22:01:28.988Z",
+  updatedAt: "2026-09-19T08:48:28.000Z",
 } as const satisfies FileProperty

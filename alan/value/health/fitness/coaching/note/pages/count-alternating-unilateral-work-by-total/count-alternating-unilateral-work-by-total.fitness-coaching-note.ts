@@ -10,4 +10,6 @@ export const countAlternatingUnilateralWorkByTotal = {
   kind: "ef-accommodation",
   sortOrder: 4,
   says: "txt",
+  createdAt: "2026-06-26T03:03:17.491Z",
+  updatedAt: "2026-09-15T16:57:52.000Z",
 } as const satisfies FitnessCoachingNote

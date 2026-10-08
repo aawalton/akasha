@@ -56,4 +56,6 @@ export const kindsUnderTheirPlural = {
       statement: "What a subfolder holds is judged where that subfolder is.",
     },
   ],
+  createdAt: "2026-09-19T03:11:15.699Z",
+  updatedAt: "2026-09-19T03:22:09.000Z",
 } as const satisfies FolderShape

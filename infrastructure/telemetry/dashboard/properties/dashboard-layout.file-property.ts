@@ -23,4 +23,6 @@ export const dashboardLayout = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-07T15:05:59.538Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies FileProperty

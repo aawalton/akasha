@@ -10,4 +10,6 @@ export const legsSwappedFromSaturdayWithAToeTouchPr20260628 = {
   kind: "bout-observation",
   date: "2026-06-28",
   says: "txt",
+  createdAt: "2026-09-08T14:40:43.552Z",
+  updatedAt: "2026-09-15T16:57:52.000Z",
 } as const satisfies FitnessCoachingNote

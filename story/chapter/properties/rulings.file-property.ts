@@ -60,4 +60,6 @@ export const rulings = {
     },
   ],
   types: "ts",
+  createdAt: "2026-10-04T00:29:18.468Z",
+  updatedAt: "2026-10-04T00:29:30.000Z",
 } as const satisfies FileProperty

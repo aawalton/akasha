@@ -12,4 +12,6 @@ export const y414HumeAnEnquiryConcerningHumanUnderstanding = {
   planYear: 4,
   readingNumber: 14,
   editionMarker: "common",
+  createdAt: "2026-06-28T02:23:12.774Z",
+  updatedAt: "2026-09-25T13:02:31.000Z",
 } as const satisfies GbwwReading

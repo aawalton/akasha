@@ -8,4 +8,6 @@ export const settings = {
   definition: "how a player has asked temper to behave, as temper wrote it out",
   extensions: ["json"],
   types: "ts",
+  createdAt: "2026-09-02T01:48:48.343Z",
+  updatedAt: "2026-09-24T16:58:05.000Z",
 } as const satisfies FileProperty

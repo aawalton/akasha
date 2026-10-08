@@ -11,4 +11,6 @@ export const atLoadImports = {
     { attribute: "graph-attribute/names", value: "code" },
     { attribute: "graph-attribute/loading", value: "at-load" },
   ],
+  createdAt: "2026-09-16T13:39:32.356Z",
+  updatedAt: "2026-09-16T13:41:48.000Z",
 } as const satisfies GraphPredicate

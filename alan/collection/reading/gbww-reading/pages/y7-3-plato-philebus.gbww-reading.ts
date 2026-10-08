@@ -12,4 +12,6 @@ export const y73PlatoPhilebus = {
   planYear: 7,
   readingNumber: 3,
   editionMarker: "common",
+  createdAt: "2026-06-28T02:23:13.014Z",
+  updatedAt: "2026-09-25T13:02:31.000Z",
 } as const satisfies GbwwReading

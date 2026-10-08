@@ -10,4 +10,6 @@ export const firstPullBackAfterTwoWeeksIll20260619 = {
   kind: "bout-observation",
   date: "2026-06-19",
   says: "txt",
+  createdAt: "2026-09-08T14:37:55.264Z",
+  updatedAt: "2026-09-15T16:57:52.000Z",
 } as const satisfies FitnessCoachingNote

@@ -8,4 +8,6 @@ export const foodEntry20260907AvocadoHalf = {
   happenedAt: "2026-09-07T18:40:00.000Z",
   plantGrams: 100,
   estimatedCalories: 160,
+  createdAt: "2026-09-07T18:55:50.245Z",
+  updatedAt: "2026-09-15T16:59:51.000Z",
 } as const satisfies FoodEntry

@@ -10,4 +10,6 @@ export const typescriptBaseConfig = {
   fileName: "tsconfig.base.json",
   toolResolvesPaths: true,
   types: "ts",
+  createdAt: "2026-09-04T14:28:15.376Z",
+  updatedAt: "2026-09-15T16:56:11.000Z",
 } as const satisfies FileProperty

@@ -38,4 +38,6 @@ export const aClaimedFolder = {
       statement: "What the files here hold is not read.",
     },
   ],
+  createdAt: "2026-09-12T13:28:13.046Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies FolderShape

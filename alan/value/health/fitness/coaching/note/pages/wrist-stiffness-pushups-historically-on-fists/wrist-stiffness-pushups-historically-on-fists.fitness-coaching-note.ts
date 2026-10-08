@@ -9,4 +9,6 @@ export const wristStiffnessPushupsHistoricallyOnFists = {
   focusTags: ["push", "all"],
   kind: "programming-cue",
   says: "txt",
+  createdAt: "2026-07-03T18:16:20.093Z",
+  updatedAt: "2026-09-15T16:57:52.000Z",
 } as const satisfies FitnessCoachingNote

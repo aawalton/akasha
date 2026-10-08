@@ -8,4 +8,6 @@ export const foodEntry20260924CastelloCheese2Gouda1Havarti63G = {
   title: "Castello cheese, 2 gouda + 1 havarti (63 g)",
   happenedAt: "2026-09-24T20:53:00.000Z",
   estimatedCalories: 230,
+  createdAt: "2026-09-24T20:53:59.775Z",
+  updatedAt: "2026-09-24T20:54:10.000Z",
 } as const satisfies FoodEntry

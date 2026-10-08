@@ -50,4 +50,6 @@ export const sectionsOfTheSectionBeside = {
       statement: "A folder inside has the sections one section of this book is made of.",
     },
   ],
+  createdAt: "2026-09-10T13:32:10.856Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies FolderShape

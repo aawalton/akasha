@@ -8,4 +8,6 @@ export const portrait = {
   definition: "who a persona is, written in her own voice",
   extensions: ["md"],
   types: "ts",
+  createdAt: "2026-08-30T15:21:42.987Z",
+  updatedAt: "2026-09-15T16:56:11.000Z",
 } as const satisfies FileProperty

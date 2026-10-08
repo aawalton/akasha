@@ -17,4 +17,6 @@ export const bakingBootCampCakesAndCrusts = {
       externalLink: "https://www.thegreatcoursesplus.com/baking-boot-camp-cakes-crusts",
     },
   ],
+  createdAt: "2026-04-22T12:39:34.040Z",
+  updatedAt: "2026-09-25T12:51:30.000Z",
 } as const satisfies GreatCourse

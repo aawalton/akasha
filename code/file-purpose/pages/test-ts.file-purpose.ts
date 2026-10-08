@@ -6,4 +6,6 @@ export const testTs = {
   slug: "test-ts",
   definition: "a file of TypeScript source holding tests",
   namePatterns: ["*.test.ts"],
+  createdAt: "2026-09-03T17:45:58.255Z",
+  updatedAt: "2026-09-24T22:28:01.000Z",
 } as const satisfies FilePurpose

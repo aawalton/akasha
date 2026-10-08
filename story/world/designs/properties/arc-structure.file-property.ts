@@ -19,4 +19,6 @@ export const arcStructure = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-03T04:12:35.077Z",
+  updatedAt: "2026-09-22T13:56:42.000Z",
 } as const satisfies FileProperty

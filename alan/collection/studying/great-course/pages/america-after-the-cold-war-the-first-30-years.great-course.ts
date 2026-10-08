@@ -23,4 +23,6 @@ export const americaAfterTheColdWarTheFirst30Years = {
         "https://www.thegreatcoursesplus.com/america-after-the-cold-war-the-first-30-years",
     },
   ],
+  createdAt: "2026-04-22T12:39:34.048Z",
+  updatedAt: "2026-09-25T12:51:30.000Z",
 } as const satisfies GreatCourse

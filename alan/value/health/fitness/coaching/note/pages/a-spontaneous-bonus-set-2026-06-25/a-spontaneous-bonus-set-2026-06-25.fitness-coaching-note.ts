@@ -10,4 +10,6 @@ export const aSpontaneousBonusSet20260625 = {
   kind: "bout-observation",
   date: "2026-06-25",
   says: "txt",
+  createdAt: "2026-09-08T14:41:20.137Z",
+  updatedAt: "2026-09-15T16:57:52.000Z",
 } as const satisfies FitnessCoachingNote

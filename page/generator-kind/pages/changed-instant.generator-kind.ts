@@ -7,4 +7,6 @@ export const changedInstant = {
   definition: "the instant a page's committed values last changed, worked out as each change lands",
   afterChecks: false,
   everyChange: true,
+  createdAt: "2026-10-08T14:52:58.252Z",
+  updatedAt: "2026-10-08T14:53:49.000Z",
 } as const satisfies GeneratorKind

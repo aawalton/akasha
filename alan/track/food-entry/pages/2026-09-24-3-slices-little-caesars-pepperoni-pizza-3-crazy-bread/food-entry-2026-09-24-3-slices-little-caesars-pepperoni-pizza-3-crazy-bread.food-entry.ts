@@ -8,4 +8,6 @@ export const foodEntry202609243SlicesLittleCaesarsPepperoniPizza3CrazyBread = {
   happenedAt: "2026-09-25T02:09:00.000Z",
   plantGrams: 45,
   estimatedCalories: 1140,
+  createdAt: "2026-09-25T02:09:28.300Z",
+  updatedAt: "2026-09-25T02:09:32.000Z",
 } as const satisfies FoodEntry

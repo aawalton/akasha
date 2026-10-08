@@ -9,4 +9,6 @@ export const foodEntry20260910Cucumber = {
   happenedAt: "2026-09-10T20:31:29.854Z",
   plantGrams: 100,
   estimatedCalories: 15,
+  createdAt: "2026-09-10T20:31:29.866Z",
+  updatedAt: "2026-09-24T19:07:30.000Z",
 } as const satisfies FoodEntry

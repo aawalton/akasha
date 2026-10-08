@@ -12,4 +12,6 @@ export const dumbbells = {
   notes: "Standard + light DB pairs, one continuous ladder.",
   sortOrder: 1,
   covers: ["strength-exercise-implement/dumbbell"],
+  createdAt: "2026-06-26T03:03:15.932Z",
+  updatedAt: "2026-09-15T16:58:20.000Z",
 } as const satisfies FitnessEquipment

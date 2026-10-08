@@ -22,4 +22,6 @@ export const blackHolesTidesAndCurvedSpacetimeUnderstandingGravity = {
         "https://www.thegreatcoursesplus.com/black-holes-tides-and-curved-spacetime-understanding-gravity",
     },
   ],
+  createdAt: "2026-04-22T12:39:34.047Z",
+  updatedAt: "2026-09-25T12:51:30.000Z",
 } as const satisfies GreatCourse

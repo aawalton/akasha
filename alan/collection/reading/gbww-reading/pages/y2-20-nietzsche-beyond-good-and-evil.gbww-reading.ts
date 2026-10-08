@@ -12,4 +12,6 @@ export const y220NietzscheBeyondGoodAndEvil = {
   planYear: 2,
   readingNumber: 20,
   editionMarker: "ed2-only",
+  createdAt: "2026-06-28T02:23:12.615Z",
+  updatedAt: "2026-09-25T13:02:31.000Z",
 } as const satisfies GbwwReading

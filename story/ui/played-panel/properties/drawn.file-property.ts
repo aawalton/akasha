@@ -28,4 +28,6 @@ export const drawn = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-21T15:52:04.320Z",
+  updatedAt: "2026-09-26T17:41:29.000Z",
 } as const satisfies FileProperty

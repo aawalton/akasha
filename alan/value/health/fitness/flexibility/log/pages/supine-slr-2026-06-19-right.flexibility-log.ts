@@ -11,4 +11,6 @@ export const supineSlr20260619Right = {
   side: "right",
   mobilityReadingValueNum: 45,
   mobilityReadingValueText: "~45°, tighter than left (~5/10 stretch vs left at the same angle)",
+  createdAt: "2026-06-26T03:03:20.099Z",
+  updatedAt: "2026-09-15T16:58:52.000Z",
 } as const satisfies FlexibilityLog

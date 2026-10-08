@@ -21,4 +21,6 @@ export const relationWeights = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-04T16:23:28.063Z",
+  updatedAt: "2026-09-22T10:09:37.000Z",
 } as const satisfies FileProperty

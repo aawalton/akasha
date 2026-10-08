@@ -7,4 +7,6 @@ export const foodEntry20261008ProteinDrinkCreatine = {
   title: "Protein drink + creatine",
   happenedAt: "2026-10-08T11:08:25.605Z",
   estimatedCalories: 150,
+  createdAt: "2026-10-08T11:08:25.612Z",
+  updatedAt: "2026-10-08T14:39:41.000Z",
 } as const satisfies FoodEntry

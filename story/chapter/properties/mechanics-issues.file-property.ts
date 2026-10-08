@@ -45,4 +45,6 @@ export const mechanicsIssues = {
     },
   ],
   types: "ts",
+  createdAt: "2026-10-03T19:01:29.037Z",
+  updatedAt: "2026-10-04T00:44:53.000Z",
 } as const satisfies FileProperty

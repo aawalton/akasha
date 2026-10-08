@@ -14,4 +14,6 @@ export const storyRecorderInstructions = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-27T00:46:49.420Z",
+  updatedAt: "2026-09-28T19:22:08.000Z",
 } as const satisfies FileProperty

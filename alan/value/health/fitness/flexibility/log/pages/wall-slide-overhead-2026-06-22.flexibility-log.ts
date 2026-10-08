@@ -12,4 +12,6 @@ export const wallSlideOverhead20260622 = {
   mobilityReadingValueNum: 50,
   mobilityReadingValueText:
     "~50% to full overhead with strict contact (cheats via lumbar arch when not enforced)",
+  createdAt: "2026-06-26T03:03:20.302Z",
+  updatedAt: "2026-09-15T16:58:52.000Z",
 } as const satisfies FlexibilityLog

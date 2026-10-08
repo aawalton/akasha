@@ -9,4 +9,6 @@ export const foodEntry20260625BabyCarrots50g20260625 = {
   plantGrams: 50,
   estimatedCalories: 20,
   note: "txt",
+  createdAt: "2026-09-03T05:00:04.620Z",
+  updatedAt: "2026-09-15T16:59:51.000Z",
 } as const satisfies FoodEntry

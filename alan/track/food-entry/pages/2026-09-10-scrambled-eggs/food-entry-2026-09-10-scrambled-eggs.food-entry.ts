@@ -9,4 +9,6 @@ export const foodEntry20260910ScrambledEggs = {
   happenedAt: "2026-09-10T16:45:00.000Z",
   plantGrams: 0,
   estimatedCalories: 320,
+  createdAt: "2026-09-10T16:50:06.991Z",
+  updatedAt: "2026-09-24T19:07:30.000Z",
 } as const satisfies FoodEntry

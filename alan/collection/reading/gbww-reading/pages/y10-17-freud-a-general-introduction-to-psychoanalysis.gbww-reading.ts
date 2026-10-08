@@ -12,4 +12,6 @@ export const y1017FreudAGeneralIntroductionToPsychoanalysis = {
   planYear: 10,
   readingNumber: 17,
   editionMarker: "common",
+  createdAt: "2026-06-28T02:23:14.097Z",
+  updatedAt: "2026-09-25T13:02:31.000Z",
 } as const satisfies GbwwReading

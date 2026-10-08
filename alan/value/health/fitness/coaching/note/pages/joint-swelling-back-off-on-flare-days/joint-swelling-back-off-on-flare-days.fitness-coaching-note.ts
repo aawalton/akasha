@@ -10,4 +10,6 @@ export const jointSwellingBackOffOnFlareDays = {
   kind: "injury-watch",
   sortOrder: 7,
   says: "txt",
+  createdAt: "2026-06-26T03:03:18.098Z",
+  updatedAt: "2026-09-15T16:57:52.000Z",
 } as const satisfies FitnessCoachingNote

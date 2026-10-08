@@ -30,4 +30,6 @@ export const data = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-19T00:51:13.446Z",
+  updatedAt: "2026-09-22T10:19:25.000Z",
 } as const satisfies FileProperty

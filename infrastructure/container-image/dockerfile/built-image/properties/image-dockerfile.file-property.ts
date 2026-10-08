@@ -17,4 +17,6 @@ export const imageDockerfile = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-24T22:19:29.207Z",
+  updatedAt: "2026-09-24T22:19:44.000Z",
 } as const satisfies FileProperty

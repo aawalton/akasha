@@ -12,4 +12,6 @@ export const testTsx = {
       statement: "A test written with markup is of this purpose rather than of `test-ts`.",
     },
   ],
+  createdAt: "2026-09-03T17:45:58.255Z",
+  updatedAt: "2026-09-24T22:28:01.000Z",
 } as const satisfies FilePurpose

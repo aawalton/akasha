@@ -13,4 +13,6 @@ export const singability = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-02T13:15:58.411Z",
+  updatedAt: "2026-09-21T20:08:12.000Z",
 } as const satisfies GradeProperty

@@ -11,4 +11,6 @@ export const parents = {
     { attribute: "graph-attribute/property", value: "parts" },
     { attribute: "graph-attribute/property", value: "part-slugs" },
   ],
+  createdAt: "2026-09-16T14:11:40.347Z",
+  updatedAt: "2026-09-16T16:32:19.000Z",
 } as const satisfies GraphPredicate

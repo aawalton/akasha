@@ -8,4 +8,6 @@ export const children = {
   edges: ["graph-edge/relation"],
   direction: "out",
   follows: [{ attribute: "graph-attribute/property", value: "parts" }],
+  createdAt: "2026-09-16T15:10:47.797Z",
+  updatedAt: "2026-09-16T15:22:56.000Z",
 } as const satisfies GraphPredicate

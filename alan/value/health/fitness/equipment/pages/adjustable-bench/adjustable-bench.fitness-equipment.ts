@@ -10,4 +10,6 @@ export const adjustableBench = {
   available: true,
   notes: "Flat + incline.",
   sortOrder: 3,
+  createdAt: "2026-06-26T03:03:16.270Z",
+  updatedAt: "2026-09-15T16:58:20.000Z",
 } as const satisfies FitnessEquipment

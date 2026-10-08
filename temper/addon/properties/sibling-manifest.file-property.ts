@@ -8,4 +8,6 @@ export const siblingManifest = {
   definition: "what a second addon shipped inside this one states about itself",
   extensions: ["json"],
   types: "ts",
+  createdAt: "2026-09-02T13:02:53.364Z",
+  updatedAt: "2026-09-21T16:29:38.000Z",
 } as const satisfies FileProperty

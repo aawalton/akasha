@@ -8,4 +8,6 @@ export const tokens = {
   definition: "the eso api token names a list holds, grouped by the kind of token",
   extensions: ["json"],
   types: "ts",
+  createdAt: "2026-09-08T15:43:43.846Z",
+  updatedAt: "2026-09-21T14:15:52.000Z",
 } as const satisfies FileProperty

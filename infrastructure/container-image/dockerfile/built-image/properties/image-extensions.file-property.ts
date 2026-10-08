@@ -10,4 +10,6 @@ export const imageExtensions = {
   writtenBy: "module-property-group/extending",
   runsFileLength: false,
   types: "ts",
+  createdAt: "2026-09-08T15:12:10.120Z",
+  updatedAt: "2026-09-15T16:56:11.000Z",
 } as const satisfies FileProperty

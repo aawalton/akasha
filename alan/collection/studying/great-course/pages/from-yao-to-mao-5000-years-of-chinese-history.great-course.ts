@@ -18,4 +18,6 @@ export const fromYaoToMao5000YearsOfChineseHistory = {
         "https://www.thegreatcoursesplus.com/from-yao-to-mao-5000-years-of-chinese-history",
     },
   ],
+  createdAt: "2026-04-22T12:39:34.024Z",
+  updatedAt: "2026-09-25T12:51:30.000Z",
 } as const satisfies GreatCourse

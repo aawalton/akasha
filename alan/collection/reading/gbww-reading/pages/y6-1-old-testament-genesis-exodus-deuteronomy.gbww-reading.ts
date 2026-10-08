@@ -12,4 +12,6 @@ export const y61OldTestamentGenesisExodusDeuteronomy = {
   planYear: 6,
   readingNumber: 1,
   editionMarker: "common",
+  createdAt: "2026-06-28T02:23:12.909Z",
+  updatedAt: "2026-09-25T13:02:31.000Z",
 } as const satisfies GbwwReading

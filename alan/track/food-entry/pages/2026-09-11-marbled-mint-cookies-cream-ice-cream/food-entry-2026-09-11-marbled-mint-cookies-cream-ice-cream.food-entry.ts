@@ -8,4 +8,6 @@ export const foodEntry20260911MarbledMintCookiesCreamIceCream = {
   title: "Marbled Mint Cookies & Cream ice cream",
   happenedAt: "2026-09-11T01:22:55.503Z",
   estimatedCalories: 990,
+  createdAt: "2026-09-11T01:22:55.516Z",
+  updatedAt: "2026-09-24T19:07:30.000Z",
 } as const satisfies FoodEntry

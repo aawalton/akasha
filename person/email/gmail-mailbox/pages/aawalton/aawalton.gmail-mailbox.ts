@@ -7,4 +7,6 @@ export const aawalton = {
   title: "aawalton",
   email: "aawalton@gmail.com",
   processedMessages: "jsonl",
+  createdAt: "2026-09-03T17:48:09.276Z",
+  updatedAt: "2026-09-15T17:04:01.000Z",
 } as const satisfies GmailMailbox

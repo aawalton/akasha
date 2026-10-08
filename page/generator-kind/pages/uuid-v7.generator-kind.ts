@@ -6,4 +6,6 @@ export const uuidV7 = {
   slug: "uuid-v7",
   definition: "a uuid version 7, minted at the moment the page is created",
   afterChecks: false,
+  createdAt: "2026-08-29T19:55:25.945Z",
+  updatedAt: "2026-09-15T17:02:48.000Z",
 } as const satisfies GeneratorKind

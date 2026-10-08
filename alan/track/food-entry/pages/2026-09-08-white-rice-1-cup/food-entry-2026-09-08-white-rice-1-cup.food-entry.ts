@@ -7,4 +7,6 @@ export const foodEntry20260908WhiteRice1Cup = {
   title: "White rice (1 cup)",
   happenedAt: "2026-09-08T19:12:31.581Z",
   estimatedCalories: 205,
+  createdAt: "2026-09-08T19:12:31.590Z",
+  updatedAt: "2026-09-15T16:59:51.000Z",
 } as const satisfies FoodEntry

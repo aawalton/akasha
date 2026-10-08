@@ -5,4 +5,6 @@ export const file = {
   type: "page-type/graph-node",
   slug: "file",
   definition: "a tracked file, whether or not it is a page",
+  createdAt: "2026-08-29T23:50:12.966Z",
+  updatedAt: "2026-09-15T17:05:30.000Z",
 } as const satisfies GraphNode

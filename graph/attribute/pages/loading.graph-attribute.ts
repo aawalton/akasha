@@ -25,4 +25,6 @@ export const loading = {
       statement: "An edge coming in says when that edge is followed.",
     },
   ],
+  createdAt: "2026-09-16T13:32:00.849Z",
+  updatedAt: "2026-09-24T22:53:20.000Z",
 } as const satisfies GraphAttribute

@@ -8,4 +8,6 @@ export const completion = {
   definition: "what the game says has been finished, as the game handed it over",
   extensions: ["json"],
   types: "ts",
+  createdAt: "2026-09-02T01:41:21.594Z",
+  updatedAt: "2026-09-21T15:29:06.000Z",
 } as const satisfies FileProperty

@@ -9,4 +9,6 @@ export const foodEntry20260625Banana100g20260625 = {
   plantGrams: 100,
   estimatedCalories: 89,
   note: "txt",
+  createdAt: "2026-09-03T05:00:04.620Z",
+  updatedAt: "2026-09-15T16:59:51.000Z",
 } as const satisfies FoodEntry

@@ -31,4 +31,6 @@ export const ambientTypes = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-02T04:22:25.267Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies FileProperty

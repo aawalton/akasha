@@ -10,4 +10,6 @@ export const rowRepPrAndTheBenchBracedPivot20260626 = {
   kind: "bout-observation",
   date: "2026-06-26",
   says: "txt",
+  createdAt: "2026-09-08T14:38:33.038Z",
+  updatedAt: "2026-09-15T16:57:52.000Z",
 } as const satisfies FitnessCoachingNote

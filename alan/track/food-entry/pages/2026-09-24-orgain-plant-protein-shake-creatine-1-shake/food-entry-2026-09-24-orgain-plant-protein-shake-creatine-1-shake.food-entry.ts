@@ -8,4 +8,6 @@ export const foodEntry20260924OrgainPlantProteinShakeCreatine1Shake = {
   happenedAt: "2026-09-24T14:12:59.045Z",
   plantGrams: 0,
   estimatedCalories: 150,
+  createdAt: "2026-09-24T14:12:59.050Z",
+  updatedAt: "2026-09-24T14:13:02.000Z",
 } as const satisfies FoodEntry

@@ -12,4 +12,6 @@ export const y611SpinozaEthics = {
   planYear: 6,
   readingNumber: 11,
   editionMarker: "common",
+  createdAt: "2026-06-28T02:23:12.957Z",
+  updatedAt: "2026-09-25T13:02:31.000Z",
 } as const satisfies GbwwReading

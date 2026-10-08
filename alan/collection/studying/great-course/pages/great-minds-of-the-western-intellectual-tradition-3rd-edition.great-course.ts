@@ -21,4 +21,6 @@ export const greatMindsOfTheWesternIntellectualTradition3rdEdition = {
         "https://plus.thegreatcourses.com/great-minds-of-the-western-intellectual-tradition-3rd-edition",
     },
   ],
+  createdAt: "2026-09-03T04:13:04.668Z",
+  updatedAt: "2026-09-25T12:51:30.000Z",
 } as const satisfies GreatCourse

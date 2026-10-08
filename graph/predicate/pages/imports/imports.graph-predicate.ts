@@ -7,4 +7,6 @@ export const imports = {
   definition: "every file a seed file reaches by naming it",
   edges: ["graph-edge/import-edge"],
   direction: "out",
+  createdAt: "2026-09-15T16:33:33.838Z",
+  updatedAt: "2026-09-15T21:46:34.000Z",
 } as const satisfies GraphPredicate

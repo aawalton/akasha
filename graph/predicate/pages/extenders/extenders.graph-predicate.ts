@@ -8,4 +8,6 @@ export const extenders = {
   edges: ["graph-edge/relation"],
   direction: "in",
   follows: [{ attribute: "graph-attribute/property", value: "extends-type" }],
+  createdAt: "2026-09-16T15:49:32.855Z",
+  updatedAt: "2026-09-16T15:52:36.000Z",
 } as const satisfies GraphPredicate

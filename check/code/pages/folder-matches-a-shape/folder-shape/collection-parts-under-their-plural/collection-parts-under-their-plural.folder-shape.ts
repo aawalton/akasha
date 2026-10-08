@@ -55,4 +55,6 @@ export const collectionPartsUnderTheirPlural = {
       statement: "A folder sitting inside is judged where that folder is.",
     },
   ],
+  createdAt: "2026-09-15T15:52:36.416Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies FolderShape

@@ -23,4 +23,6 @@ export const anIntroductionToFormalLogic = {
       externalLink: "https://www.thegreatcoursesplus.com/an-introduction-to-formal-logic",
     },
   ],
+  createdAt: "2026-04-22T12:39:34.048Z",
+  updatedAt: "2026-09-25T12:51:30.000Z",
 } as const satisfies GreatCourse

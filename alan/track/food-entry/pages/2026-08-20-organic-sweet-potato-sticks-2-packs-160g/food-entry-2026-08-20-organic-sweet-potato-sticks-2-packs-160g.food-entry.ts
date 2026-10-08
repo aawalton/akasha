@@ -7,4 +7,6 @@ export const foodEntry20260820OrganicSweetPotatoSticks2Packs160g = {
   title: "Organic sweet potato sticks (2 packs, 160g)",
   happenedAt: "2026-08-20T18:30:00.000Z",
   plantGrams: 160,
+  createdAt: "2026-09-03T05:00:04.627Z",
+  updatedAt: "2026-09-15T16:59:51.000Z",
 } as const satisfies FoodEntry

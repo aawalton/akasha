@@ -8,4 +8,6 @@ export const foodEntry20260625PretzelKnotBread120260625Awareness = {
   happenedAt: "2026-06-25T18:00:00.000Z",
   estimatedCalories: 160,
   note: "txt",
+  createdAt: "2026-09-03T05:00:04.626Z",
+  updatedAt: "2026-09-15T16:59:51.000Z",
 } as const satisfies FoodEntry

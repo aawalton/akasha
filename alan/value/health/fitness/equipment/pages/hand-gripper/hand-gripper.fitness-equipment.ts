@@ -11,4 +11,6 @@ export const handGripper = {
   notes:
     "Adjustable resistance gripper, range 10-132 lb. Crush/forearm grip. Watch joint-swelling response (repetitive hand work).",
   covers: ["strength-exercise-implement/gripper"],
+  createdAt: "2026-06-27T19:59:35.982Z",
+  updatedAt: "2026-09-18T22:59:56.000Z",
 } as const satisfies FitnessEquipment

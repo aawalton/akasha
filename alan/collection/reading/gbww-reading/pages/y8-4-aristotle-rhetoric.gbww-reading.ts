@@ -12,4 +12,6 @@ export const y84AristotleRhetoric = {
   planYear: 8,
   readingNumber: 4,
   editionMarker: "common",
+  createdAt: "2026-06-28T02:23:13.111Z",
+  updatedAt: "2026-09-25T13:02:31.000Z",
 } as const satisfies GbwwReading
