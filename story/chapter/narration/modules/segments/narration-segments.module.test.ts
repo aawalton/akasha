@@ -200,7 +200,7 @@ describe("narrationSegmentsOf", () => {
   test("a sound with no vowel and a whole word are said as written, and a stutter as a sound", () => {
     expect(texts("Start.\n“Hmm… Shh—” N-no, Mr. Brt went to St. Ives.")).toEqual([
       "Start.",
-      "“Hmm… Shh—” [N](/nə/) no, Mr. Brt went to St. Ives.",
+      "“Hmm… [Shh](/ʃː/)—” [N](/nə/) no, Mr. Brt went to St. Ives.",
     ])
   })
 

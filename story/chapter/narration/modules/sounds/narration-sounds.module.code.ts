@@ -95,6 +95,30 @@ function stuttered(found: string, chain: string, word: string): string {
   return `${said.join(" ")} ${word}`
 }
 
+const VOWELLESS = /(?<![\p{L}\p{N}'’[/])([bcdfghjklmnpqrstvwxz]{2,})(?![\p{L}\p{N}'’\]])/giu
+const GRUNTS: Readonly<Record<string, string>> = {
+  br: "bɜːɹ",
+  gr: "ɡɜːɹ",
+  hmf: "hmf",
+  hmpf: "hmf",
+  hmph: "hmf",
+  hr: "hɜːɹ",
+  hrgh: "hɜːɹɡ",
+  hrm: "hɜːɹm",
+  mhm: "mhm",
+  pft: "pft",
+  psh: "pʃː",
+  pst: "pst",
+  rm: "ɹːm",
+  sh: "ʃː",
+  z: "zː",
+}
+
+function grunted(found: string): string {
+  const sound = GRUNTS[found.toLowerCase().replace(LETTER_RUN, "$1")]
+  return sound === undefined ? found : `[${found}](/${sound}/)`
+}
+
 export function soundedOf(line: string): string {
-  return line.replace(STUTTER, stuttered).replace(BROKEN_OFF, brokenOff)
+  return line.replace(VOWELLESS, grunted).replace(STUTTER, stuttered).replace(BROKEN_OFF, brokenOff)
 }

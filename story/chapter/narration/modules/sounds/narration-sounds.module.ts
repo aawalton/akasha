@@ -18,6 +18,19 @@ export const narrationSounds = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "A grunt the voice would spell out is handed on as the sound a fixed table gives it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A grunt is looked up with its repeated letters run together, in any case.",
+    },
+    {
+      decisionKind: "decision-kind/absence",
+      statement: "No grunt the voice already says well is in that table.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A stutter of a word's opening consonants is said as those consonants and an uh.",
     },
     {
@@ -27,5 +40,5 @@ export const narrationSounds = {
     },
   ],
   createdAt: "2026-10-08T19:07:44.817Z",
-  updatedAt: "2026-10-08T19:09:03.723Z",
+  updatedAt: "2026-10-08T19:10:44.114Z",
 } as const satisfies Module

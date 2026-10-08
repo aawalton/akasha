@@ -9,7 +9,13 @@ describe("soundedOf", () => {
   })
 
   test("a sound with no vowel broken off is given no added uh", () => {
-    expect(soundedOf("“Hmm… Shh— Tsk...”")).toBe("“Hmm… Shh— Tsk...”")
+    expect(soundedOf("“Hmm… Tsk... Ngh—”")).toBe("“Hmm… Tsk... Ngh—”")
+  })
+
+  test("a grunt the voice would spell out is handed on as its sound", () => {
+    expect(soundedOf("“Hrrr. Shh— Hmph, mhm. Psh! Brr.” Mr. Brt, GSNF, Nrr.")).toBe(
+      "“[Hrrr](/hɜːɹ/). [Shh](/ʃː/)— [Hmph](/hmf/), [mhm](/mhm/). [Psh](/pʃː/)! [Brr](/bɜːɹ/).” Mr. Brt, GSNF, Nrr."
+    )
   })
 
   test("a stutter is said as the sound the word opens with, never as a letter's name", () => {
