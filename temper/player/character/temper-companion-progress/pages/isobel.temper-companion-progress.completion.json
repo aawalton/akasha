@@ -1,57 +1,5 @@
 {
   "build": {
-    "hash": "AjEIRzHMcxzHMcxzExNTRzGzJEWYqngA",
-    "mainHandWeaponType": 2,
-    "jewelry": {
-      "1": {
-        "qualityColor": {
-          "1": 0.65,
-          "2": 0.28,
-          "3": 0.86
-        },
-        "isEmpty": false,
-        "displayText": "Vigorous"
-      },
-      "2": {
-        "qualityColor": {
-          "1": 0.98,
-          "2": 0.86,
-          "3": 0.24
-        },
-        "isEmpty": false,
-        "displayText": "Vigorous"
-      },
-      "3": {
-        "qualityColor": {
-          "1": 0.98,
-          "2": 0.86,
-          "3": 0.24
-        },
-        "isEmpty": false,
-        "displayText": "Vigorous"
-      }
-    },
-    "weapons": {
-      "1": {
-        "qualityColor": {
-          "1": 0.65,
-          "2": 0.28,
-          "3": 0.86
-        },
-        "isEmpty": false,
-        "displayText": "Mace, Vigorous"
-      },
-      "2": {
-        "qualityColor": {
-          "1": 0.65,
-          "2": 0.28,
-          "3": 0.86
-        },
-        "isEmpty": false,
-        "displayText": "Shield, Vigorous"
-      }
-    },
-    "companionId": 6,
     "skillAbilityIds": {
       "1": 152625,
       "2": 155328,
@@ -124,7 +72,59 @@
         "isEmpty": false,
         "displayText": "Heavy, Vigorous"
       }
-    }
+    },
+    "companionId": 6,
+    "jewelry": {
+      "1": {
+        "qualityColor": {
+          "1": 0.65,
+          "2": 0.28,
+          "3": 0.86
+        },
+        "isEmpty": false,
+        "displayText": "Vigorous"
+      },
+      "2": {
+        "qualityColor": {
+          "1": 0.98,
+          "2": 0.86,
+          "3": 0.24
+        },
+        "isEmpty": false,
+        "displayText": "Vigorous"
+      },
+      "3": {
+        "qualityColor": {
+          "1": 0.98,
+          "2": 0.86,
+          "3": 0.24
+        },
+        "isEmpty": false,
+        "displayText": "Vigorous"
+      }
+    },
+    "hash": "AjEIRzHMcxzHMcxzExNTRzGzJEWYqngA",
+    "weapons": {
+      "1": {
+        "qualityColor": {
+          "1": 0.65,
+          "2": 0.28,
+          "3": 0.86
+        },
+        "isEmpty": false,
+        "displayText": "Mace, Vigorous"
+      },
+      "2": {
+        "qualityColor": {
+          "1": 0.65,
+          "2": 0.28,
+          "3": 0.86
+        },
+        "isEmpty": false,
+        "displayText": "Shield, Vigorous"
+      }
+    },
+    "mainHandWeaponType": 2
   },
   "targetBuildHash": "AjEAQAcwDAMAwDHMcxMTU0cxoA",
   "level": 20,
