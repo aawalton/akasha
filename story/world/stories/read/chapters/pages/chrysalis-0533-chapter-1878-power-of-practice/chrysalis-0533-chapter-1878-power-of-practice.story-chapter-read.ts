@@ -4,6 +4,7 @@ export const chrysalis0533Chapter1878PowerOfPractice = {
   id: "01a1190a-058b-7999-a09a-048b1b48437c",
   type: "page-type/story-chapter-read",
   slug: "chrysalis-0533-chapter-1878-power-of-practice",
+  ownProgress: 1236,
   position: 533,
   publishedAt: "2026-10-08",
   unit: "unit/words",
