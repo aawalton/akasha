@@ -21,4 +21,6 @@ export const hawkEye = {
   status: "unsupported",
   effects: "jsonl",
   hashPlace: 601,
+  createdAt: "2026-05-26T02:38:38.327Z",
+  updatedAt: "2026-09-27T06:25:43.000Z",
 } as const satisfies TemperSkill

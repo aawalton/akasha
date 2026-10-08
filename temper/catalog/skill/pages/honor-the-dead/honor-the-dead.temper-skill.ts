@@ -19,4 +19,6 @@ export const honorTheDead = {
   skillLineId: "temper-skill-line/templar-restoring-light",
   skillType: "temper-skill-type/active",
   hashPlace: 638,
+  createdAt: "2026-05-26T03:13:12.359Z",
+  updatedAt: "2026-09-27T06:25:43.000Z",
 } as const satisfies TemperSkill

@@ -19,4 +19,6 @@ export const cruxweaverArmor185908 = {
   skillLineId: "temper-skill-line/arcanist-soldier-of-apocrypha",
   skillType: "temper-skill-type/active",
   hashPlace: 272,
+  createdAt: "2026-05-28T16:03:32.038Z",
+  updatedAt: "2026-09-27T06:25:43.000Z",
 } as const satisfies TemperSkill

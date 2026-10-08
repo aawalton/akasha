@@ -20,4 +20,6 @@ export const flourish = {
   status: "unsupported",
   effects: "jsonl",
   hashPlace: 521,
+  createdAt: "2026-05-26T03:13:12.327Z",
+  updatedAt: "2026-09-27T06:25:43.000Z",
 } as const satisfies TemperSkill

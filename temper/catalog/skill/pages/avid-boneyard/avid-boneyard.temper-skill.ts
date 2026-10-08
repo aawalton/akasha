@@ -19,4 +19,6 @@ export const avidBoneyard = {
   skillLineId: "temper-skill-line/necromancer-grave-lord",
   skillType: "temper-skill-type/active",
   hashPlace: 65,
+  createdAt: "2026-05-26T03:13:12.176Z",
+  updatedAt: "2026-09-27T06:25:43.000Z",
 } as const satisfies TemperSkill

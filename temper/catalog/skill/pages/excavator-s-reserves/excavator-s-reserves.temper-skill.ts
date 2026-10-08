@@ -18,4 +18,6 @@ export const excavatorSReserves = {
   skillLineId: "temper-skill-line/world-excavation",
   skillType: "temper-skill-type/passive",
   hashPlace: 469,
+  createdAt: "2026-05-28T16:03:32.405Z",
+  updatedAt: "2026-09-27T06:25:43.000Z",
 } as const satisfies TemperSkill

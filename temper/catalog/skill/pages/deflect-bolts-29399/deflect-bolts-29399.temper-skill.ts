@@ -19,4 +19,6 @@ export const deflectBolts29399 = {
   skillLineId: "temper-skill-line/weapon-one-hand-and-shield",
   skillType: "temper-skill-type/passive",
   hashPlace: 351,
+  createdAt: "2026-05-28T16:03:32.151Z",
+  updatedAt: "2026-09-27T06:25:43.000Z",
 } as const satisfies TemperSkill

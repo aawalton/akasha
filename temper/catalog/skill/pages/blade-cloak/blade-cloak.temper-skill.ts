@@ -19,4 +19,6 @@ export const bladeCloak = {
   skillLineId: "temper-skill-line/weapon-dual-wield",
   skillType: "temper-skill-type/active",
   hashPlace: 99,
+  createdAt: "2026-05-28T16:03:31.735Z",
+  updatedAt: "2026-09-27T06:25:43.000Z",
 } as const satisfies TemperSkill

@@ -19,4 +19,6 @@ export const fleetstepWings = {
   skillLineId: "temper-skill-line/dragonknight-draconic-power",
   skillType: "temper-skill-type/active",
   hashPlace: 520,
+  createdAt: "2026-05-26T03:13:12.326Z",
+  updatedAt: "2026-09-27T06:25:43.000Z",
 } as const satisfies TemperSkill

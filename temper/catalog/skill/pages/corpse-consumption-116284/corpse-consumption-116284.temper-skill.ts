@@ -19,4 +19,6 @@ export const corpseConsumption116284 = {
   skillLineId: "temper-skill-line/necromancer-living-death",
   skillType: "temper-skill-type/passive",
   hashPlace: 252,
+  createdAt: "2026-05-28T16:03:32.005Z",
+  updatedAt: "2026-09-27T06:25:43.000Z",
 } as const satisfies TemperSkill

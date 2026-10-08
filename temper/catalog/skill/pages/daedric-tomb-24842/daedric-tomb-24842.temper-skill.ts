@@ -19,4 +19,6 @@ export const daedricTomb24842 = {
   skillLineId: "temper-skill-line/sorcerer-dark-magic",
   skillType: "temper-skill-type/active",
   hashPlace: 299,
+  createdAt: "2026-05-28T16:03:32.074Z",
+  updatedAt: "2026-09-27T06:25:43.000Z",
 } as const satisfies TemperSkill

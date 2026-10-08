@@ -19,4 +19,6 @@ export const elementalSusceptibility = {
   skillLineId: "temper-skill-line/weapon-destruction-staff",
   skillType: "temper-skill-type/active",
   hashPlace: 410,
+  createdAt: "2026-05-26T02:38:38.317Z",
+  updatedAt: "2026-09-27T06:25:43.000Z",
 } as const satisfies TemperSkill

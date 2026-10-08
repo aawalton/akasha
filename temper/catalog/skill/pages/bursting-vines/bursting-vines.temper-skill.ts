@@ -19,4 +19,6 @@ export const burstingVines = {
   skillLineId: "temper-skill-line/warden-green-balance",
   skillType: "temper-skill-type/active",
   hashPlace: 177,
+  createdAt: "2026-05-26T03:13:12.205Z",
+  updatedAt: "2026-09-27T06:25:43.000Z",
 } as const satisfies TemperSkill

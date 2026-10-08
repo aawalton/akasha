@@ -19,4 +19,6 @@ export const emeraldMoss85876 = {
   skillLineId: "temper-skill-line/warden-green-balance",
   skillType: "temper-skill-type/passive",
   hashPlace: 421,
+  createdAt: "2026-05-28T16:03:32.294Z",
+  updatedAt: "2026-09-27T06:25:43.000Z",
 } as const satisfies TemperSkill

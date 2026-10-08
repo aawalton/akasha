@@ -18,4 +18,6 @@ export const banishTheWicked35800 = {
   skillLineId: "temper-skill-line/guild-fighters-guild",
   skillType: "temper-skill-type/passive",
   hashPlace: 77,
+  createdAt: "2026-05-28T16:03:31.690Z",
+  updatedAt: "2026-09-27T06:25:43.000Z",
 } as const satisfies TemperSkill

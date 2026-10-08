@@ -19,4 +19,6 @@ export const blazingShield22180 = {
   skillLineId: "temper-skill-line/templar-aedric-spear",
   skillType: "temper-skill-type/active",
   hashPlace: 102,
+  createdAt: "2026-05-28T16:03:31.749Z",
+  updatedAt: "2026-09-27T06:25:43.000Z",
 } as const satisfies TemperSkill

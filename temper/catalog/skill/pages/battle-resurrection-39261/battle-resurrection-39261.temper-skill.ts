@@ -19,4 +19,6 @@ export const battleResurrection39261 = {
   skillLineId: "temper-skill-line/alliance-war-support",
   skillType: "temper-skill-type/passive",
   hashPlace: 82,
+  createdAt: "2026-05-28T16:03:31.698Z",
+  updatedAt: "2026-09-27T06:25:43.000Z",
 } as const satisfies TemperSkill

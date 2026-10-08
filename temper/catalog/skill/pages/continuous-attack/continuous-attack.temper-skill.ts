@@ -21,4 +21,6 @@ export const continuousAttack = {
   status: "unsupported",
   effects: "jsonl",
   hashPlace: 246,
+  createdAt: "2026-05-26T03:25:55.746Z",
+  updatedAt: "2026-09-27T06:25:43.000Z",
 } as const satisfies TemperSkill

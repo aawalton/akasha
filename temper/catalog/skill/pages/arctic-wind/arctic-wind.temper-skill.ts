@@ -19,4 +19,6 @@ export const arcticWind = {
   skillLineId: "temper-skill-line/warden-winters-embrace",
   skillType: "temper-skill-type/active",
   hashPlace: 45,
+  createdAt: "2026-05-28T16:03:31.646Z",
+  updatedAt: "2026-09-27T06:25:43.000Z",
 } as const satisfies TemperSkill

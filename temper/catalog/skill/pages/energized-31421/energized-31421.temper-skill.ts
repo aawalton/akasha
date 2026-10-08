@@ -18,4 +18,6 @@ export const energized31421 = {
   skillLineId: "temper-skill-line/sorcerer-storm-calling",
   skillType: "temper-skill-type/passive",
   hashPlace: 440,
+  createdAt: "2026-05-28T16:03:32.358Z",
+  updatedAt: "2026-09-27T06:25:43.000Z",
 } as const satisfies TemperSkill

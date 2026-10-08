@@ -20,4 +20,6 @@ export const hexproof = {
   skillType: "temper-skill-type/active",
   effects: "jsonl",
   hashPlace: 629,
+  createdAt: "2026-05-26T03:13:12.356Z",
+  updatedAt: "2026-09-27T06:25:43.000Z",
 } as const satisfies TemperSkill

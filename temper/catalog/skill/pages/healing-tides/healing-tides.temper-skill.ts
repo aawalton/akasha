@@ -20,4 +20,6 @@ export const healingTides = {
   skillType: "temper-skill-type/passive",
   status: "unsupported",
   hashPlace: 609,
+  createdAt: "2026-05-26T03:13:12.351Z",
+  updatedAt: "2026-09-27T06:25:43.000Z",
 } as const satisfies TemperSkill

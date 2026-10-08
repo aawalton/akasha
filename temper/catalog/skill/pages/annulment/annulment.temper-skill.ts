@@ -19,4 +19,6 @@ export const annulment = {
   skillLineId: "temper-skill-line/armor-light-armor",
   skillType: "temper-skill-type/active",
   hashPlace: 37,
+  createdAt: "2026-05-28T16:03:31.635Z",
+  updatedAt: "2026-09-27T06:25:43.000Z",
 } as const satisfies TemperSkill

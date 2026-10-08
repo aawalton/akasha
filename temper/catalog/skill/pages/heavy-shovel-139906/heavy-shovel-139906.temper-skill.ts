@@ -19,4 +19,6 @@ export const heavyShovel139906 = {
   skillLineId: "temper-skill-line/world-excavation",
   skillType: "temper-skill-type/passive",
   hashPlace: 624,
+  createdAt: "2026-05-28T16:03:32.740Z",
+  updatedAt: "2026-09-27T06:25:43.000Z",
 } as const satisfies TemperSkill

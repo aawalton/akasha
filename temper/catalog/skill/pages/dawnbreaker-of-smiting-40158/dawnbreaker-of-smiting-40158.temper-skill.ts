@@ -19,4 +19,6 @@ export const dawnbreakerOfSmiting40158 = {
   skillLineId: "temper-skill-line/guild-fighters-guild",
   skillType: "temper-skill-type/ultimate",
   hashPlace: 321,
+  createdAt: "2026-05-28T16:03:32.105Z",
+  updatedAt: "2026-09-27T06:25:43.000Z",
 } as const satisfies TemperSkill

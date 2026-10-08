@@ -19,4 +19,6 @@ export const concentratedBarrier103888 = {
   skillLineId: "temper-skill-line/guild-psijic-order",
   skillType: "temper-skill-type/passive",
   hashPlace: 236,
+  createdAt: "2026-05-28T16:03:31.983Z",
+  updatedAt: "2026-09-27T06:25:43.000Z",
 } as const satisfies TemperSkill

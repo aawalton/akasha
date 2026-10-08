@@ -19,4 +19,6 @@ export const dizzyingSwing38814 = {
   skillLineId: "temper-skill-line/weapon-two-handed",
   skillType: "temper-skill-type/active",
   hashPlace: 376,
+  createdAt: "2026-05-28T16:03:32.191Z",
+  updatedAt: "2026-09-27T06:25:43.000Z",
 } as const satisfies TemperSkill

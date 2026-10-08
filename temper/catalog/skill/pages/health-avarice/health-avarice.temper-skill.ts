@@ -21,4 +21,6 @@ export const healthAvarice = {
   status: "supported",
   effects: "jsonl",
   hashPlace: 613,
+  createdAt: "2026-05-26T03:13:12.352Z",
+  updatedAt: "2026-09-27T06:25:43.000Z",
 } as const satisfies TemperSkill

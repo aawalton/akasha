@@ -19,4 +19,6 @@ export const hastyPrayer = {
   skillLineId: "temper-skill-line/templar-restoring-light",
   skillType: "temper-skill-type/active",
   hashPlace: 595,
+  createdAt: "2026-05-26T03:13:12.348Z",
+  updatedAt: "2026-09-27T06:25:43.000Z",
 } as const satisfies TemperSkill

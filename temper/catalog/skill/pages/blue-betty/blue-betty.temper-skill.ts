@@ -19,4 +19,6 @@ export const blueBetty = {
   skillLineId: "temper-skill-line/warden-animal-companions",
   skillType: "temper-skill-type/active",
   hashPlace: 133,
+  createdAt: "2026-05-26T03:13:12.191Z",
+  updatedAt: "2026-09-27T06:25:43.000Z",
 } as const satisfies TemperSkill

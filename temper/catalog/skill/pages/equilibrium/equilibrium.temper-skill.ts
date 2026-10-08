@@ -19,4 +19,6 @@ export const equilibrium = {
   skillLineId: "temper-skill-line/guild-mages-guild",
   skillType: "temper-skill-type/active",
   hashPlace: 448,
+  createdAt: "2026-05-28T16:03:32.373Z",
+  updatedAt: "2026-09-27T06:25:43.000Z",
 } as const satisfies TemperSkill

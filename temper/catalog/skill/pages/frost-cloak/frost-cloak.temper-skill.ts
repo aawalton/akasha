@@ -19,4 +19,6 @@ export const frostCloak = {
   skillLineId: "temper-skill-line/warden-winters-embrace",
   skillType: "temper-skill-type/active",
   hashPlace: 542,
+  createdAt: "2026-05-28T16:03:32.550Z",
+  updatedAt: "2026-09-27T06:25:43.000Z",
 } as const satisfies TemperSkill

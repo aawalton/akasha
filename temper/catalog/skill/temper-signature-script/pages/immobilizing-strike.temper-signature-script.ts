@@ -11,4 +11,6 @@ export const immobilizingStrike = {
   uespId: 28,
   slotType: "signature-slot",
   hashPlace: 5,
+  createdAt: "2026-05-20T18:45:59.965Z",
+  updatedAt: "2026-09-26T18:55:59.000Z",
 } as const satisfies TemperSignatureScript

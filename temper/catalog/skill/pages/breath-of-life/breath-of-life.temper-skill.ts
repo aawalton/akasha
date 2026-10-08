@@ -19,4 +19,6 @@ export const breathOfLife = {
   skillLineId: "temper-skill-line/templar-restoring-light",
   skillType: "temper-skill-type/active",
   hashPlace: 165,
+  createdAt: "2026-05-26T03:13:12.198Z",
+  updatedAt: "2026-09-27T06:25:43.000Z",
 } as const satisfies TemperSkill

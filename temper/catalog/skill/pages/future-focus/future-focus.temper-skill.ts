@@ -18,4 +18,6 @@ export const futureFocus = {
   skillLineId: "temper-skill-line/world-scrying",
   skillType: "temper-skill-type/passive",
   hashPlace: 556,
+  createdAt: "2026-05-26T03:25:55.770Z",
+  updatedAt: "2026-09-27T06:25:43.000Z",
 } as const satisfies TemperSkill

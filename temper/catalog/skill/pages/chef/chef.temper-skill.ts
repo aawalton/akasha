@@ -18,4 +18,6 @@ export const chef = {
   skillLineId: "temper-skill-line/craft-provisioning",
   skillType: "temper-skill-type/passive",
   hashPlace: 208,
+  createdAt: "2026-05-26T02:37:19.374Z",
+  updatedAt: "2026-09-27T06:25:43.000Z",
 } as const satisfies TemperSkill

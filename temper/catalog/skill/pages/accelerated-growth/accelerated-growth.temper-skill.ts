@@ -21,4 +21,6 @@ export const acceleratedGrowth = {
   status: "unsupported",
   effects: "jsonl",
   hashPlace: 10,
+  createdAt: "2026-05-26T03:13:12.164Z",
+  updatedAt: "2026-09-27T06:25:43.000Z",
 } as const satisfies TemperSkill

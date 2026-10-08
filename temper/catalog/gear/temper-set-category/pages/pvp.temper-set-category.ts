@@ -9,4 +9,6 @@ export const pvp = {
   displayOrder: 8,
   activity: "temper-activity-category/pvp",
   esoCategoryNames: ["PvP"],
+  createdAt: "2026-05-20T18:45:31.205Z",
+  updatedAt: "2026-09-27T04:12:39.000Z",
 } as const satisfies TemperSetCategory

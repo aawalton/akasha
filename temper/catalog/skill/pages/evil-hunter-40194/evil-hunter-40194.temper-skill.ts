@@ -19,4 +19,6 @@ export const evilHunter40194 = {
   skillLineId: "temper-skill-line/guild-fighters-guild",
   skillType: "temper-skill-type/active",
   hashPlace: 464,
+  createdAt: "2026-05-28T16:03:32.398Z",
+  updatedAt: "2026-09-27T06:25:43.000Z",
 } as const satisfies TemperSkill

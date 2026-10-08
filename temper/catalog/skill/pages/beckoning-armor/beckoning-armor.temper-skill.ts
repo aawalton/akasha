@@ -19,4 +19,6 @@ export const beckoningArmor = {
   skillLineId: "temper-skill-line/necromancer-bone-tyrant",
   skillType: "temper-skill-type/active",
   hashPlace: 86,
+  createdAt: "2026-05-26T03:13:12.181Z",
+  updatedAt: "2026-09-27T06:25:43.000Z",
 } as const satisfies TemperSkill

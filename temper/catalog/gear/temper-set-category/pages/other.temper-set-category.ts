@@ -7,4 +7,6 @@ export const other = {
   title: "Other",
   key: "other",
   displayOrder: 10,
+  createdAt: "2026-05-20T18:45:31.209Z",
+  updatedAt: "2026-09-21T15:28:58.000Z",
 } as const satisfies TemperSetCategory

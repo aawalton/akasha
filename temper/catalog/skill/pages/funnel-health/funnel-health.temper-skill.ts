@@ -19,4 +19,6 @@ export const funnelHealth = {
   skillLineId: "temper-skill-line/nightblade-siphoning",
   skillType: "temper-skill-type/active",
   hashPlace: 554,
+  createdAt: "2026-05-26T03:13:12.334Z",
+  updatedAt: "2026-09-27T06:25:43.000Z",
 } as const satisfies TemperSkill

@@ -18,4 +18,6 @@ export const controlledFury30872 = {
   skillLineId: "temper-skill-line/weapon-dual-wield",
   skillType: "temper-skill-type/passive",
   hashPlace: 249,
+  createdAt: "2026-05-28T16:03:32.001Z",
+  updatedAt: "2026-09-27T06:25:43.000Z",
 } as const satisfies TemperSkill

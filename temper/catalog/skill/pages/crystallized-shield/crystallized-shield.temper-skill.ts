@@ -19,4 +19,6 @@ export const crystallizedShield = {
   skillLineId: "temper-skill-line/warden-winters-embrace",
   skillType: "temper-skill-type/active",
   hashPlace: 278,
+  createdAt: "2026-05-28T16:03:32.045Z",
+  updatedAt: "2026-09-27T06:25:43.000Z",
 } as const satisfies TemperSkill

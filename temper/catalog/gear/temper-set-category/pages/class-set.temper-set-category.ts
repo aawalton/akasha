@@ -8,4 +8,6 @@ export const classSet = {
   key: "class",
   displayOrder: 9,
   activity: "temper-activity-category/characters",
+  createdAt: "2026-09-02T01:58:57.778Z",
+  updatedAt: "2026-09-27T03:05:59.000Z",
 } as const satisfies TemperSetCategory

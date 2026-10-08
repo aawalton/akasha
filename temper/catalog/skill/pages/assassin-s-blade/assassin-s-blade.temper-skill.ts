@@ -19,4 +19,6 @@ export const assassinSBlade = {
   skillLineId: "temper-skill-line/nightblade-assassination",
   skillType: "temper-skill-type/active",
   hashPlace: 56,
+  createdAt: "2026-05-28T16:03:31.661Z",
+  updatedAt: "2026-09-27T06:25:43.000Z",
 } as const satisfies TemperSkill

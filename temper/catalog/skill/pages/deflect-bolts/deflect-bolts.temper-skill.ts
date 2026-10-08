@@ -21,4 +21,6 @@ export const deflectBolts = {
   status: "unsupported",
   effects: "jsonl",
   hashPlace: 350,
+  createdAt: "2026-05-26T02:38:38.307Z",
+  updatedAt: "2026-09-27T06:25:43.000Z",
 } as const satisfies TemperSkill

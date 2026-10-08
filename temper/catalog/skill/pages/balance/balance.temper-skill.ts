@@ -19,4 +19,6 @@ export const balance = {
   skillLineId: "temper-skill-line/guild-mages-guild",
   skillType: "temper-skill-type/active",
   hashPlace: 68,
+  createdAt: "2026-05-26T02:59:07.541Z",
+  updatedAt: "2026-09-27T06:25:43.000Z",
 } as const satisfies TemperSkill

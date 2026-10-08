@@ -14,4 +14,6 @@ export const shatteredPathsSignet = {
   valid: ["ring"],
   bonuses: "jsonl",
   icons: "jsonl",
+  createdAt: "2026-09-25T15:58:40.375Z",
+  updatedAt: "2026-09-25T16:16:22.000Z",
 } as const satisfies TemperSet

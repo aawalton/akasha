@@ -19,4 +19,6 @@ export const apocryphalGate = {
   skillLineId: "temper-skill-line/arcanist-curative-runeforms",
   skillType: "temper-skill-type/active",
   hashPlace: 41,
+  createdAt: "2026-05-28T16:03:31.640Z",
+  updatedAt: "2026-09-27T06:25:43.000Z",
 } as const satisfies TemperSkill

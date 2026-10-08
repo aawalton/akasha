@@ -18,4 +18,6 @@ export const flourish86066 = {
   skillLineId: "temper-skill-line/warden-animal-companions",
   skillType: "temper-skill-type/passive",
   hashPlace: 522,
+  createdAt: "2026-05-28T16:03:32.503Z",
+  updatedAt: "2026-09-27T06:25:43.000Z",
 } as const satisfies TemperSkill

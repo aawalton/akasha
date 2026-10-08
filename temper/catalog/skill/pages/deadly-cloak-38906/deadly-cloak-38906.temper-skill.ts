@@ -19,4 +19,6 @@ export const deadlyCloak38906 = {
   skillLineId: "temper-skill-line/weapon-dual-wield",
   skillType: "temper-skill-type/active",
   hashPlace: 327,
+  createdAt: "2026-05-28T16:03:32.113Z",
+  updatedAt: "2026-09-27T06:25:43.000Z",
 } as const satisfies TemperSkill

@@ -19,4 +19,6 @@ export const boundArmaments24165 = {
   skillLineId: "temper-skill-line/sorcerer-daedric-summoning",
   skillType: "temper-skill-type/active",
   hashPlace: 155,
+  createdAt: "2026-05-28T16:03:31.839Z",
+  updatedAt: "2026-09-27T06:25:43.000Z",
 } as const satisfies TemperSkill

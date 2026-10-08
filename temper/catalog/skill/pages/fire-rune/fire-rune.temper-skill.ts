@@ -19,4 +19,6 @@ export const fireRune = {
   skillLineId: "temper-skill-line/guild-mages-guild",
   skillType: "temper-skill-type/active",
   hashPlace: 513,
+  createdAt: "2026-05-28T16:03:32.480Z",
+  updatedAt: "2026-09-27T06:25:43.000Z",
 } as const satisfies TemperSkill

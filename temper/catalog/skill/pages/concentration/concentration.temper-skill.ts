@@ -21,4 +21,6 @@ export const concentration = {
   status: "supported",
   effects: "jsonl",
   hashPlace: 237,
+  createdAt: "2026-05-26T02:59:07.563Z",
+  updatedAt: "2026-09-27T06:25:43.000Z",
 } as const satisfies TemperSkill

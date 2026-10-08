@@ -19,4 +19,6 @@ export const elude39192 = {
   skillLineId: "temper-skill-line/armor-medium-armor",
   skillType: "temper-skill-type/active",
   hashPlace: 417,
+  createdAt: "2026-05-28T16:03:32.273Z",
+  updatedAt: "2026-09-27T06:25:43.000Z",
 } as const satisfies TemperSkill

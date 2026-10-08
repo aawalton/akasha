@@ -19,4 +19,6 @@ export const gibberingShelter192380 = {
   skillLineId: "temper-skill-line/arcanist-soldier-of-apocrypha",
   skillType: "temper-skill-type/ultimate",
   hashPlace: 561,
+  createdAt: "2026-05-28T16:03:32.603Z",
+  updatedAt: "2026-09-27T06:25:43.000Z",
 } as const satisfies TemperSkill

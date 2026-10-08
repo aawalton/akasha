@@ -19,4 +19,6 @@ export const crystalFragments46324 = {
   skillLineId: "temper-skill-line/sorcerer-dark-magic",
   skillType: "temper-skill-type/active",
   hashPlace: 274,
+  createdAt: "2026-05-28T16:03:32.040Z",
+  updatedAt: "2026-09-27T06:25:43.000Z",
 } as const satisfies TemperSkill

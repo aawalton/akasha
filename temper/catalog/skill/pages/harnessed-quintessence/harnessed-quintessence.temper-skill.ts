@@ -21,4 +21,6 @@ export const harnessedQuintessence = {
   status: "partially-supported",
   effects: "jsonl",
   hashPlace: 594,
+  createdAt: "2026-05-26T03:13:12.347Z",
+  updatedAt: "2026-09-27T06:25:43.000Z",
 } as const satisfies TemperSkill

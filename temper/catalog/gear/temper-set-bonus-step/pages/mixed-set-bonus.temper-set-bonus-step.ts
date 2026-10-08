@@ -6,4 +6,6 @@ export const mixedSetBonus = {
   slug: "mixed-set-bonus",
   title: "Mixed set bonus",
   setBonusScale: 0.977,
+  createdAt: "2026-09-27T05:57:55.684Z",
+  updatedAt: "2026-09-27T05:57:58.000Z",
 } as const satisfies TemperSetBonusStep

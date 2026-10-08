@@ -19,4 +19,6 @@ export const extendedRitual22262 = {
   skillLineId: "temper-skill-line/templar-restoring-light",
   skillType: "temper-skill-type/active",
   hashPlace: 492,
+  createdAt: "2026-05-28T16:03:32.439Z",
+  updatedAt: "2026-09-27T06:25:43.000Z",
 } as const satisfies TemperSkill

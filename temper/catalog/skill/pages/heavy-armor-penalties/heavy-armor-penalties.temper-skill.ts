@@ -21,4 +21,6 @@ export const heavyArmorPenalties = {
   status: "partially-supported",
   effects: "jsonl",
   hashPlace: 622,
+  createdAt: "2026-05-26T02:59:07.590Z",
+  updatedAt: "2026-09-27T06:25:43.000Z",
 } as const satisfies TemperSkill

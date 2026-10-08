@@ -91,4 +91,6 @@ export const unchainedAggressor = {
   valid: ["*"],
   bonuses: "jsonl",
   icons: "jsonl",
+  createdAt: "2026-05-26T23:11:22.224Z",
+  updatedAt: "2026-09-25T18:45:59.000Z",
 } as const satisfies TemperSet

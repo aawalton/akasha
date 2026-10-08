@@ -15,4 +15,6 @@ export const thousandEyes = {
   valid: ["monster"],
   bonuses: "jsonl",
   icons: "jsonl",
+  createdAt: "2026-09-25T15:59:37.961Z",
+  updatedAt: "2026-09-25T16:16:22.000Z",
 } as const satisfies TemperSet

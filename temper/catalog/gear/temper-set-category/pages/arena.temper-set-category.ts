@@ -10,4 +10,6 @@ export const arena = {
   activity: "temper-activity-category/arenas",
   esoCategoryNames: ["Arenas", "Infinite Archive"],
   nestedEsoCategoryNames: ["Infinite Archive"],
+  createdAt: "2026-05-20T18:45:31.197Z",
+  updatedAt: "2026-09-27T04:27:04.000Z",
 } as const satisfies TemperSetCategory

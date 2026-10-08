@@ -9,4 +9,6 @@ export const trial = {
   displayOrder: 1,
   activity: "temper-activity-category/trials",
   esoCategoryNames: ["Trials"],
+  createdAt: "2026-05-20T18:45:31.190Z",
+  updatedAt: "2026-09-27T04:12:39.000Z",
 } as const satisfies TemperSetCategory

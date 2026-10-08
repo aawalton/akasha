@@ -19,4 +19,6 @@ export const corrosiveArmor17878 = {
   skillLineId: "temper-skill-line/dragonknight-earthen-heart",
   skillType: "temper-skill-type/ultimate",
   hashPlace: 253,
+  createdAt: "2026-05-28T16:03:32.008Z",
+  updatedAt: "2026-09-27T06:25:43.000Z",
 } as const satisfies TemperSkill

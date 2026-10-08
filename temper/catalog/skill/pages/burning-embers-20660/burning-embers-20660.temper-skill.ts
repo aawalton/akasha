@@ -19,4 +19,6 @@ export const burningEmbers20660 = {
   skillLineId: "temper-skill-line/dragonknight-ardent-flame",
   skillType: "temper-skill-type/active",
   hashPlace: 173,
+  createdAt: "2026-05-28T16:03:31.869Z",
+  updatedAt: "2026-09-27T06:25:43.000Z",
 } as const satisfies TemperSkill

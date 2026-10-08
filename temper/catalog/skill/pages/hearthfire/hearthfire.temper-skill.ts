@@ -19,4 +19,6 @@ export const hearthfire = {
   skillLineId: "temper-skill-line/dragonknight-ardent-flame",
   skillType: "temper-skill-type/active",
   hashPlace: 620,
+  createdAt: "2026-05-28T16:03:32.733Z",
+  updatedAt: "2026-09-27T06:25:43.000Z",
 } as const satisfies TemperSkill

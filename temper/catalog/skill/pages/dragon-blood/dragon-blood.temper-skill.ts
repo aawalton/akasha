@@ -19,4 +19,6 @@ export const dragonBlood = {
   skillLineId: "temper-skill-line/dragonknight-draconic-power",
   skillType: "temper-skill-type/active",
   hashPlace: 378,
+  createdAt: "2026-05-28T16:03:32.195Z",
+  updatedAt: "2026-09-27T06:25:43.000Z",
 } as const satisfies TemperSkill

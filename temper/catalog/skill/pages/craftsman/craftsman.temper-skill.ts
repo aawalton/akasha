@@ -20,4 +20,6 @@ export const craftsman = {
   skillType: "temper-skill-type/passive",
   status: "unsupported",
   hashPlace: 256,
+  createdAt: "2026-05-26T03:18:02.179Z",
+  updatedAt: "2026-09-27T06:25:43.000Z",
 } as const satisfies TemperSkill

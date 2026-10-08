@@ -19,4 +19,6 @@ export const destructiveClench38984 = {
   skillLineId: "temper-skill-line/weapon-destruction-staff",
   skillType: "temper-skill-type/active",
   hashPlace: 358,
+  createdAt: "2026-05-28T16:03:32.162Z",
+  updatedAt: "2026-09-27T06:25:43.000Z",
 } as const satisfies TemperSkill

@@ -18,4 +18,6 @@ export const accuracy30930 = {
   skillLineId: "temper-skill-line/weapon-bow",
   skillType: "temper-skill-type/passive",
   hashPlace: 13,
+  createdAt: "2026-05-28T16:03:31.599Z",
+  updatedAt: "2026-09-27T06:25:43.000Z",
 } as const satisfies TemperSkill

@@ -20,4 +20,6 @@ export const expungeAndModify = {
   skillType: "temper-skill-type/active",
   effects: "jsonl",
   hashPlace: 489,
+  createdAt: "2026-05-26T03:13:12.318Z",
+  updatedAt: "2026-09-27T06:25:43.000Z",
 } as const satisfies TemperSkill

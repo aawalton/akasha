@@ -19,4 +19,6 @@ export const barrier = {
   skillLineId: "temper-skill-line/alliance-war-support",
   skillType: "temper-skill-type/ultimate",
   hashPlace: 80,
+  createdAt: "2026-05-28T16:03:31.694Z",
+  updatedAt: "2026-09-27T06:25:43.000Z",
 } as const satisfies TemperSkill

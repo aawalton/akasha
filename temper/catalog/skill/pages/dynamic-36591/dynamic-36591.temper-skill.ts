@@ -18,4 +18,6 @@ export const dynamic36591 = {
   skillLineId: "temper-skill-line/racial-dark-elf-skills",
   skillType: "temper-skill-type/passive",
   hashPlace: 390,
+  createdAt: "2026-05-28T16:03:32.218Z",
+  updatedAt: "2026-09-27T06:25:43.000Z",
 } as const satisfies TemperSkill

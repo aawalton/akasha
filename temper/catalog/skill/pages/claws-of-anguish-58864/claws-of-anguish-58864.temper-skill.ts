@@ -19,4 +19,6 @@ export const clawsOfAnguish58864 = {
   skillLineId: "temper-skill-line/world-werewolf",
   skillType: "temper-skill-type/active",
   hashPlace: 217,
+  createdAt: "2026-05-28T16:03:31.952Z",
+  updatedAt: "2026-09-27T06:25:43.000Z",
 } as const satisfies TemperSkill

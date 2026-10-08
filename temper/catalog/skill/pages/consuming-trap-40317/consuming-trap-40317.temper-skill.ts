@@ -19,4 +19,6 @@ export const consumingTrap40317 = {
   skillLineId: "temper-skill-line/world-soul-magic",
   skillType: "temper-skill-type/active",
   hashPlace: 245,
+  createdAt: "2026-05-28T16:03:31.996Z",
+  updatedAt: "2026-09-27T06:25:43.000Z",
 } as const satisfies TemperSkill

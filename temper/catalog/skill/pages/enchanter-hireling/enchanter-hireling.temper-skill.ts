@@ -19,4 +19,6 @@ export const enchanterHireling = {
   skillLineId: "temper-skill-line/craft-enchanting",
   skillType: "temper-skill-type/passive",
   hashPlace: 430,
+  createdAt: "2026-05-26T02:37:19.379Z",
+  updatedAt: "2026-09-27T06:25:43.000Z",
 } as const satisfies TemperSkill

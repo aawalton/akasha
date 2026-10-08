@@ -19,4 +19,6 @@ export const blessingOfProtection = {
   skillLineId: "temper-skill-line/weapon-restoration-staff",
   skillType: "temper-skill-type/active",
   hashPlace: 106,
+  createdAt: "2026-05-28T16:03:31.760Z",
+  updatedAt: "2026-09-27T06:25:43.000Z",
 } as const satisfies TemperSkill

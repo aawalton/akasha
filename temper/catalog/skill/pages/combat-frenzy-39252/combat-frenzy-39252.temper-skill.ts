@@ -18,4 +18,6 @@ export const combatFrenzy39252 = {
   skillLineId: "temper-skill-line/alliance-war-assault",
   skillType: "temper-skill-type/passive",
   hashPlace: 227,
+  createdAt: "2026-05-28T16:03:31.969Z",
+  updatedAt: "2026-09-27T06:25:43.000Z",
 } as const satisfies TemperSkill

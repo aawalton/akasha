@@ -19,4 +19,6 @@ export const expunge = {
   skillLineId: "temper-skill-line/necromancer-living-death",
   skillType: "temper-skill-type/active",
   hashPlace: 488,
+  createdAt: "2026-05-28T16:03:32.433Z",
+  updatedAt: "2026-09-27T06:25:43.000Z",
 } as const satisfies TemperSkill

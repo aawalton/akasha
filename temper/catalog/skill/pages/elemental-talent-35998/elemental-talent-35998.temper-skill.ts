@@ -18,4 +18,6 @@ export const elementalTalent35998 = {
   skillLineId: "temper-skill-line/racial-high-elf-skills",
   skillType: "temper-skill-type/passive",
   hashPlace: 413,
+  createdAt: "2026-05-28T16:03:32.266Z",
+  updatedAt: "2026-09-27T06:25:43.000Z",
 } as const satisfies TemperSkill

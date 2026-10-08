@@ -19,4 +19,6 @@ export const deathGleaning116230 = {
   skillLineId: "temper-skill-line/necromancer-bone-tyrant",
   skillType: "temper-skill-type/passive",
   hashPlace: 330,
+  createdAt: "2026-05-28T16:03:32.122Z",
+  updatedAt: "2026-09-27T06:25:43.000Z",
 } as const satisfies TemperSkill

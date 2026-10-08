@@ -19,4 +19,6 @@ export const efficientPurge40232 = {
   skillLineId: "temper-skill-line/alliance-war-support",
   skillType: "temper-skill-type/active",
   hashPlace: 397,
+  createdAt: "2026-05-28T16:03:32.232Z",
+  updatedAt: "2026-09-27T06:25:43.000Z",
 } as const satisfies TemperSkill

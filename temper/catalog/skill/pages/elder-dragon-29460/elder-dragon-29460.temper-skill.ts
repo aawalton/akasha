@@ -19,4 +19,6 @@ export const elderDragon29460 = {
   skillLineId: "temper-skill-line/dragonknight-draconic-power",
   skillType: "temper-skill-type/passive",
   hashPlace: 398,
+  createdAt: "2026-05-28T16:03:32.236Z",
+  updatedAt: "2026-09-27T06:25:43.000Z",
 } as const satisfies TemperSkill

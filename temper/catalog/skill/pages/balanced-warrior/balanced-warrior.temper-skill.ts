@@ -20,4 +20,6 @@ export const balancedWarrior = {
   status: "supported",
   effects: "jsonl",
   hashPlace: 71,
+  createdAt: "2026-05-26T03:13:12.177Z",
+  updatedAt: "2026-09-27T06:25:43.000Z",
 } as const satisfies TemperSkill

@@ -19,4 +19,6 @@ export const elementalRing = {
   skillLineId: "temper-skill-line/weapon-destruction-staff",
   skillType: "temper-skill-type/active",
   hashPlace: 407,
+  createdAt: "2026-05-26T02:38:38.316Z",
+  updatedAt: "2026-09-27T06:25:43.000Z",
 } as const satisfies TemperSkill

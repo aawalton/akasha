@@ -19,4 +19,6 @@ export const dragonknightStandard = {
   skillLineId: "temper-skill-line/dragonknight-ardent-flame",
   skillType: "temper-skill-type/ultimate",
   hashPlace: 381,
+  createdAt: "2026-05-28T16:03:32.200Z",
+  updatedAt: "2026-09-27T06:25:43.000Z",
 } as const satisfies TemperSkill

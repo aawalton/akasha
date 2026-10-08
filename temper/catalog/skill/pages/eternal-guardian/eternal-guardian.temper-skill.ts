@@ -19,4 +19,6 @@ export const eternalGuardian = {
   skillLineId: "temper-skill-line/warden-animal-companions",
   skillType: "temper-skill-type/ultimate",
   hashPlace: 456,
+  createdAt: "2026-05-26T03:13:12.307Z",
+  updatedAt: "2026-09-27T06:25:43.000Z",
 } as const satisfies TemperSkill

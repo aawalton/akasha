@@ -18,4 +18,6 @@ export const cycleOfLife30972 = {
   skillLineId: "temper-skill-line/weapon-restoration-staff",
   skillType: "temper-skill-type/passive",
   hashPlace: 289,
+  createdAt: "2026-05-28T16:03:32.061Z",
+  updatedAt: "2026-09-27T06:25:43.000Z",
 } as const satisfies TemperSkill

@@ -19,4 +19,6 @@ export const disdainHarm116239 = {
   skillLineId: "temper-skill-line/necromancer-bone-tyrant",
   skillType: "temper-skill-type/passive",
   hashPlace: 370,
+  createdAt: "2026-05-28T16:03:32.179Z",
+  updatedAt: "2026-09-27T06:25:43.000Z",
 } as const satisfies TemperSkill

@@ -11,4 +11,6 @@ export const classMastery = {
   uespId: 31,
   slotType: "signature-slot",
   hashPlace: 8,
+  createdAt: "2026-05-20T18:45:59.969Z",
+  updatedAt: "2026-09-26T18:55:59.000Z",
 } as const satisfies TemperSignatureScript

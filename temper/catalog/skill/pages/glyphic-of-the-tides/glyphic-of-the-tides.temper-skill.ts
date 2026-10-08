@@ -19,4 +19,6 @@ export const glyphicOfTheTides = {
   skillLineId: "temper-skill-line/arcanist-curative-runeforms",
   skillType: "temper-skill-type/ultimate",
   hashPlace: 569,
+  createdAt: "2026-05-26T03:13:12.339Z",
+  updatedAt: "2026-09-27T06:25:43.000Z",
 } as const satisfies TemperSkill

@@ -19,4 +19,6 @@ export const arterialBurst38956 = {
   skillLineId: "temper-skill-line/world-vampire",
   skillType: "temper-skill-type/active",
   hashPlace: 52,
+  createdAt: "2026-05-28T16:03:31.655Z",
+  updatedAt: "2026-09-27T06:25:43.000Z",
 } as const satisfies TemperSkill

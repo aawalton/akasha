@@ -6,4 +6,6 @@ export const nearFullSetBonus = {
   slug: "near-full-set-bonus",
   title: "Near-full set bonus",
   setBonusScale: 0.988,
+  createdAt: "2026-09-27T05:57:55.684Z",
+  updatedAt: "2026-09-27T05:57:58.000Z",
 } as const satisfies TemperSetBonusStep

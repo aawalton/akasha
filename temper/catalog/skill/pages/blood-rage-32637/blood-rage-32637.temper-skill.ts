@@ -19,4 +19,6 @@ export const bloodRage32637 = {
   skillLineId: "temper-skill-line/world-werewolf",
   skillType: "temper-skill-type/passive",
   hashPlace: 125,
+  createdAt: "2026-05-28T16:03:31.797Z",
+  updatedAt: "2026-09-27T06:25:43.000Z",
 } as const satisfies TemperSkill

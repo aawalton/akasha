@@ -19,4 +19,6 @@ export const everlastingSweep = {
   skillLineId: "temper-skill-line/templar-aedric-spear",
   skillType: "temper-skill-type/ultimate",
   hashPlace: 461,
+  createdAt: "2026-05-26T03:13:12.309Z",
+  updatedAt: "2026-09-27T06:25:43.000Z",
 } as const satisfies TemperSkill

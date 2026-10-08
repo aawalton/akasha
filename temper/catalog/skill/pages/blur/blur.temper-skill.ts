@@ -19,4 +19,6 @@ export const blur = {
   skillLineId: "temper-skill-line/nightblade-shadow",
   skillType: "temper-skill-type/active",
   hashPlace: 135,
+  createdAt: "2026-05-28T16:03:31.812Z",
+  updatedAt: "2026-09-27T06:25:43.000Z",
 } as const satisfies TemperSkill

@@ -59,4 +59,6 @@ export const spriggansThorns = {
   valid: ["*:medium"],
   bonuses: "jsonl",
   icons: "jsonl",
+  createdAt: "2026-05-27T00:48:22.672Z",
+  updatedAt: "2026-09-25T18:45:59.000Z",
 } as const satisfies TemperSet

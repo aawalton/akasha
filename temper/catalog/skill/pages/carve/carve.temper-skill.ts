@@ -19,4 +19,6 @@ export const carve = {
   skillLineId: "temper-skill-line/weapon-two-handed",
   skillType: "temper-skill-type/active",
   hashPlace: 187,
+  createdAt: "2026-05-26T02:38:38.299Z",
+  updatedAt: "2026-09-27T06:25:43.000Z",
 } as const satisfies TemperSkill

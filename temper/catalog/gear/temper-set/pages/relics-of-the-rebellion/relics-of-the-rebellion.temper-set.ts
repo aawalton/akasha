@@ -25,4 +25,6 @@ export const relicsOfTheRebellion = {
   valid: ["mace", "shield", "necklace"],
   bonuses: "jsonl",
   icons: "jsonl",
+  createdAt: "2026-05-26T13:40:57.550Z",
+  updatedAt: "2026-09-25T16:16:22.000Z",
 } as const satisfies TemperSet
