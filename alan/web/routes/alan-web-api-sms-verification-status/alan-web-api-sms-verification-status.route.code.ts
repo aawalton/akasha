@@ -4,7 +4,7 @@ import { optionalEnv } from "akasha/code/type/narrowing/modules/require-env/requ
 import { uuidVersion7 } from "akasha/page/id/modules/uuid-version-7/uuid-version-7.module.code.ts"
 import { writingFor } from "akasha/page/service/modules/page-calling/page-calling.module.code.ts"
 
-const MESSAGE_PAGE_TYPE_SLUG = "message"
+const MESSAGE_PAGE_TYPE_SLUG = "agent-message"
 
 const HANDLER_SEAT = "alan"
 
