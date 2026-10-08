@@ -7,4 +7,6 @@ export const paulCardallAllCreaturesOfOurGodAndKing = {
   title: "All Creatures of Our God and King",
   artist: "artist/paul-cardall",
   performed: true,
+  createdAt: "2026-09-19T02:23:15.204Z",
+  updatedAt: "2026-09-19T02:26:42.000Z",
 } as const satisfies Song

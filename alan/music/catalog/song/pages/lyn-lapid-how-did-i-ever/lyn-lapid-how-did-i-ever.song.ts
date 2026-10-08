@@ -7,4 +7,6 @@ export const lynLapidHowDidIEver = {
   title: "How Did I Ever",
   artist: "artist/lyn-lapid",
   performed: true,
+  createdAt: "2026-09-22T13:47:04.780Z",
+  updatedAt: "2026-09-22T13:47:09.000Z",
 } as const satisfies Song

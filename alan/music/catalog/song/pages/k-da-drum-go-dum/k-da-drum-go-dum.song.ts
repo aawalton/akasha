@@ -7,4 +7,6 @@ export const kDaDrumGoDum = {
   title: "DRUM GO DUM",
   artist: "artist/k-da",
   performed: true,
+  createdAt: "2026-09-22T13:39:42.423Z",
+  updatedAt: "2026-09-22T13:39:44.000Z",
 } as const satisfies Song

@@ -7,4 +7,6 @@ export const jamesTaylorSitDownYoureRockinTheBoat = {
   title: "Sit Down, You’re Rockin’ The Boat",
   artist: "artist/james-taylor",
   performed: true,
+  createdAt: "2026-09-19T02:22:57.266Z",
+  updatedAt: "2026-09-19T02:26:42.000Z",
 } as const satisfies Song

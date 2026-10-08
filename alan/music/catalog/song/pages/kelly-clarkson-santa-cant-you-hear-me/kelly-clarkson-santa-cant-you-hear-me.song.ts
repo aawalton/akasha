@@ -20,4 +20,6 @@ export const kellyClarksonSantaCantYouHearMe = {
   written: "collab",
   lyrics: "txt",
   syncedLyrics: "txt",
+  createdAt: "2026-09-19T16:28:50.344Z",
+  updatedAt: "2026-09-19T18:27:18.000Z",
 } as const satisfies Song

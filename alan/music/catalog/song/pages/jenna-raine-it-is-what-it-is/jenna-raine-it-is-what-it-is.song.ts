@@ -7,4 +7,6 @@ export const jennaRaineItIsWhatItIs = {
   title: "It Is What It Is",
   artist: "artist/jenna-raine",
   performed: true,
+  createdAt: "2026-09-21T22:40:54.397Z",
+  updatedAt: "2026-09-21T22:40:59.000Z",
 } as const satisfies Song

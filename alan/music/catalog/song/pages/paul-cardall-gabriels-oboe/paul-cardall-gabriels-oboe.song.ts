@@ -7,4 +7,6 @@ export const paulCardallGabrielsOboe = {
   title: "Gabriel's Oboe",
   artist: "artist/paul-cardall",
   performed: true,
+  createdAt: "2026-09-19T02:23:31.710Z",
+  updatedAt: "2026-09-19T02:26:42.000Z",
 } as const satisfies Song

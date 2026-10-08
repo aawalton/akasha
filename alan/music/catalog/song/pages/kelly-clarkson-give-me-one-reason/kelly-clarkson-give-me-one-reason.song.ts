@@ -15,4 +15,6 @@ export const kellyClarksonGiveMeOneReason = {
   title: "Give Me One Reason",
   artist: "artist/kelly-clarkson",
   performed: true,
+  createdAt: "2026-06-08T00:43:06.020Z",
+  updatedAt: "2026-09-19T16:29:09.000Z",
 } as const satisfies Song

@@ -7,4 +7,6 @@ export const paulCardallLeadKindlyLight = {
   title: "Lead, Kindly Light",
   artist: "artist/paul-cardall",
   performed: true,
+  createdAt: "2026-09-19T02:23:23.958Z",
+  updatedAt: "2026-09-19T02:26:42.000Z",
 } as const satisfies Song

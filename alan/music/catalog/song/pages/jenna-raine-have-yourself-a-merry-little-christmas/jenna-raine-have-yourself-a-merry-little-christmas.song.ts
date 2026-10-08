@@ -7,4 +7,6 @@ export const jennaRaineHaveYourselfAMerryLittleChristmas = {
   title: "Have Yourself A Merry Little Christmas",
   artist: "artist/jenna-raine",
   performed: true,
+  createdAt: "2026-09-21T22:40:53.817Z",
+  updatedAt: "2026-09-21T22:40:59.000Z",
 } as const satisfies Song

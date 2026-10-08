@@ -7,4 +7,6 @@ export const jennaRaineTheLows = {
   title: "THE LOWS",
   artist: "artist/jenna-raine",
   performed: true,
+  createdAt: "2026-09-21T22:40:53.212Z",
+  updatedAt: "2026-09-21T22:40:59.000Z",
 } as const satisfies Song

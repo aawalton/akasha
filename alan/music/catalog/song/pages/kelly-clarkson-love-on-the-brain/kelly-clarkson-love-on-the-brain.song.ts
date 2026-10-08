@@ -15,4 +15,6 @@ export const kellyClarksonLoveOnTheBrain = {
   title: "Love on the Brain",
   artist: "artist/kelly-clarkson",
   performed: true,
+  createdAt: "2026-06-08T00:42:32.279Z",
+  updatedAt: "2026-09-19T16:29:09.000Z",
 } as const satisfies Song

@@ -19,4 +19,6 @@ export const mitskiClassOf2013 = {
   written: "solo",
   lyrics: "txt",
   syncedLyrics: "txt",
+  createdAt: "2026-06-28T14:23:12.604Z",
+  updatedAt: "2026-09-19T18:27:18.000Z",
 } as const satisfies Song

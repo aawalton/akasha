@@ -7,4 +7,6 @@ export const jisooEyesClosedBare = {
   title: "EYES CLOSED - BARE",
   artist: "artist/jisoo",
   performed: true,
+  createdAt: "2026-09-19T02:23:13.582Z",
+  updatedAt: "2026-09-19T02:26:42.000Z",
 } as const satisfies Song

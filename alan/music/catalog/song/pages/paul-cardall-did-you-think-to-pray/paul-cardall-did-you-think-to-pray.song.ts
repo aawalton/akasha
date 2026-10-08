@@ -7,4 +7,6 @@ export const paulCardallDidYouThinkToPray = {
   title: "Did You Think to Pray?",
   artist: "artist/paul-cardall",
   performed: true,
+  createdAt: "2026-09-19T02:23:17.224Z",
+  updatedAt: "2026-09-19T02:26:42.000Z",
 } as const satisfies Song

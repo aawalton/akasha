@@ -7,4 +7,6 @@ export const paulCardallBookOfMormonStories = {
   title: "Book of Mormon Stories",
   artist: "artist/paul-cardall",
   performed: true,
+  createdAt: "2026-09-19T02:28:29.507Z",
+  updatedAt: "2026-09-19T02:29:40.000Z",
 } as const satisfies Song

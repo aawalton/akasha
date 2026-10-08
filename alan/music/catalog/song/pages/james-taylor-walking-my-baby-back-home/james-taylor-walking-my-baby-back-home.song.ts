@@ -7,4 +7,6 @@ export const jamesTaylorWalkingMyBabyBackHome = {
   title: "Walking My Baby Back Home",
   artist: "artist/james-taylor",
   performed: true,
+  createdAt: "2026-09-19T02:23:03.736Z",
+  updatedAt: "2026-09-19T02:26:42.000Z",
 } as const satisfies Song

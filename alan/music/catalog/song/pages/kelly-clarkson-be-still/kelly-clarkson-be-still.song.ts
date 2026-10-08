@@ -19,4 +19,6 @@ export const kellyClarksonBeStill = {
   written: "collab",
   lyrics: "txt",
   syncedLyrics: "txt",
+  createdAt: "2026-06-08T00:43:24.078Z",
+  updatedAt: "2026-09-19T18:27:18.000Z",
 } as const satisfies Song

@@ -15,4 +15,6 @@ export const lilithMaxBornToDie = {
     },
   ],
   performed: true,
+  createdAt: "2026-06-08T02:00:18.550Z",
+  updatedAt: "2026-09-19T18:27:18.000Z",
 } as const satisfies Song

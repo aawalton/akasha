@@ -7,4 +7,6 @@ export const lilithMaxSalemWitch = {
   title: "Salem Witch",
   artist: "artist/lilith-max",
   performed: true,
+  createdAt: "2026-09-22T13:46:14.912Z",
+  updatedAt: "2026-09-22T13:46:18.000Z",
 } as const satisfies Song

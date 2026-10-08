@@ -15,4 +15,6 @@ export const kellyClarksonRunRudolphRun = {
   title: "Run Rudolph Run",
   artist: "artist/kelly-clarkson",
   performed: true,
+  createdAt: "2026-06-08T01:02:58.365Z",
+  updatedAt: "2026-09-19T16:29:09.000Z",
 } as const satisfies Song

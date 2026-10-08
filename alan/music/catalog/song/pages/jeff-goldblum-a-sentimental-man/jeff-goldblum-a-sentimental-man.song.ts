@@ -7,4 +7,6 @@ export const jeffGoldblumASentimentalMan = {
   title: "A Sentimental Man",
   artist: "artist/jeff-goldblum",
   performed: true,
+  createdAt: "2026-09-19T03:12:52.891Z",
+  updatedAt: "2026-09-19T03:13:04.000Z",
 } as const satisfies Song

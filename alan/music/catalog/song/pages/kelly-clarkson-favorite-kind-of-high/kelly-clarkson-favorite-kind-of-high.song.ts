@@ -19,4 +19,6 @@ export const kellyClarksonFavoriteKindOfHigh = {
   written: "collab",
   lyrics: "txt",
   syncedLyrics: "txt",
+  createdAt: "2026-06-08T00:42:11.133Z",
+  updatedAt: "2026-09-19T18:27:18.000Z",
 } as const satisfies Song

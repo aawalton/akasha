@@ -18,4 +18,6 @@ export const jamesTaylorRunawayBoy = {
   lyricsSource: "lrclib",
   written: "solo",
   lyrics: "txt",
+  createdAt: "2026-09-19T01:01:58.691Z",
+  updatedAt: "2026-09-19T18:27:18.000Z",
 } as const satisfies Song

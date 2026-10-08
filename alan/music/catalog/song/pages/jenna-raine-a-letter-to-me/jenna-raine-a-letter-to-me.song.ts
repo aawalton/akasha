@@ -7,4 +7,6 @@ export const jennaRaineALetterToMe = {
   title: "a letter to me",
   artist: "artist/jenna-raine",
   performed: true,
+  createdAt: "2026-09-21T22:40:56.870Z",
+  updatedAt: "2026-09-21T22:40:59.000Z",
 } as const satisfies Song

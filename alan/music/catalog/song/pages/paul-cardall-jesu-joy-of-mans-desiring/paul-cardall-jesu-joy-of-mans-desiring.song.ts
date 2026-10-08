@@ -7,4 +7,6 @@ export const paulCardallJesuJoyOfMansDesiring = {
   title: "Jesu, Joy of Man's Desiring",
   artist: "artist/paul-cardall",
   performed: true,
+  createdAt: "2026-09-19T02:23:43.912Z",
+  updatedAt: "2026-09-19T02:26:42.000Z",
 } as const satisfies Song

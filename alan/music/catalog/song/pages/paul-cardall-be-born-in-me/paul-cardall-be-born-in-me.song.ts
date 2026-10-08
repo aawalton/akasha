@@ -7,4 +7,6 @@ export const paulCardallBeBornInMe = {
   title: "Be Born In Me",
   artist: "artist/paul-cardall",
   performed: true,
+  createdAt: "2026-09-19T02:27:02.835Z",
+  updatedAt: "2026-09-19T02:28:13.000Z",
 } as const satisfies Song

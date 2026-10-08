@@ -15,4 +15,6 @@ export const lilithMaxCallingOnTheWindTavernTalkOriginalGameSoundtrack = {
     },
   ],
   performed: true,
+  createdAt: "2026-06-08T02:00:24.727Z",
+  updatedAt: "2026-09-19T18:27:18.000Z",
 } as const satisfies Song

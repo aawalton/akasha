@@ -16,4 +16,6 @@ export const jamesTaylorTranquilloMeltMyHeart = {
   artist: "artist/james-taylor",
   performed: false,
   written: "collab",
+  createdAt: "2026-09-19T01:02:06.474Z",
+  updatedAt: "2026-09-19T18:27:18.000Z",
 } as const satisfies Song

@@ -19,4 +19,6 @@ export const jamesTaylorPlacesInMyPast = {
   written: "solo",
   lyrics: "txt",
   syncedLyrics: "txt",
+  createdAt: "2026-09-19T01:02:03.394Z",
+  updatedAt: "2026-09-19T18:27:18.000Z",
 } as const satisfies Song

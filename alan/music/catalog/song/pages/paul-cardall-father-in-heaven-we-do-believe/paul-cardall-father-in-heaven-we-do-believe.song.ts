@@ -7,4 +7,6 @@ export const paulCardallFatherInHeavenWeDoBelieve = {
   title: "Father in Heaven, We Do Believe",
   artist: "artist/paul-cardall",
   performed: true,
+  createdAt: "2026-09-19T02:27:37.495Z",
+  updatedAt: "2026-09-19T02:28:13.000Z",
 } as const satisfies Song

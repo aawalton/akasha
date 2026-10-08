@@ -7,4 +7,6 @@ export const kpopDemonHuntersCastYourIdolSingAlong = {
   title: "Your Idol - Sing-Along",
   artist: "artist/kpop-demon-hunters-cast",
   performed: true,
+  createdAt: "2026-09-22T13:40:08.968Z",
+  updatedAt: "2026-09-22T13:40:12.000Z",
 } as const satisfies Song

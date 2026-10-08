@@ -7,4 +7,6 @@ export const paulCardallAscensusChristiOrchestraMotif = {
   title: "Ascensus Christi: Orchestra Motif",
   artist: "artist/paul-cardall",
   performed: true,
+  createdAt: "2026-09-19T02:26:59.341Z",
+  updatedAt: "2026-09-19T02:28:13.000Z",
 } as const satisfies Song

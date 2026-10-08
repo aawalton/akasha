@@ -19,4 +19,6 @@ export const jamesTaylorNativeSon = {
   written: "solo",
   lyrics: "txt",
   syncedLyrics: "txt",
+  createdAt: "2026-09-19T01:01:59.538Z",
+  updatedAt: "2026-09-19T18:27:18.000Z",
 } as const satisfies Song

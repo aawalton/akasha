@@ -15,4 +15,6 @@ export const kellyClarksonMedley60 = {
   title: "Medley 60",
   artist: "artist/kelly-clarkson",
   performed: true,
+  createdAt: "2026-09-19T16:28:44.116Z",
+  updatedAt: "2026-09-19T16:29:09.000Z",
 } as const satisfies Song

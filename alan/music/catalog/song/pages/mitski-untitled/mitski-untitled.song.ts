@@ -15,4 +15,6 @@ export const mitskiUntitled = {
   title: "グライド",
   artist: "artist/mitski",
   performed: true,
+  createdAt: "2026-06-28T14:36:17.705Z",
+  updatedAt: "2026-09-19T17:05:22.000Z",
 } as const satisfies Song

@@ -7,4 +7,6 @@ export const paulCardallInHumilityOurSavior = {
   title: "In Humility, Our Savior",
   artist: "artist/paul-cardall",
   performed: true,
+  createdAt: "2026-09-19T02:27:38.800Z",
+  updatedAt: "2026-09-19T02:28:13.000Z",
 } as const satisfies Song

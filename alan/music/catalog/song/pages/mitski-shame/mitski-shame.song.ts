@@ -19,4 +19,6 @@ export const mitskiShame = {
   written: "solo",
   lyrics: "txt",
   syncedLyrics: "txt",
+  createdAt: "2026-06-28T14:31:07.910Z",
+  updatedAt: "2026-09-19T18:27:18.000Z",
 } as const satisfies Song

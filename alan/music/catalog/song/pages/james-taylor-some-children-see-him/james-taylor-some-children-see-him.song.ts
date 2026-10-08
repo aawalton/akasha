@@ -7,4 +7,6 @@ export const jamesTaylorSomeChildrenSeeHim = {
   title: "Some Children See Him",
   artist: "artist/james-taylor",
   performed: true,
+  createdAt: "2026-09-19T02:23:11.073Z",
+  updatedAt: "2026-09-19T02:26:42.000Z",
 } as const satisfies Song

@@ -7,4 +7,6 @@ export const jessicaBaioHome = {
   title: "home",
   artist: "artist/jessica-baio",
   performed: true,
+  createdAt: "2026-09-21T22:42:01.467Z",
+  updatedAt: "2026-09-21T22:42:03.000Z",
 } as const satisfies Song

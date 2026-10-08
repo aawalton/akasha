@@ -19,4 +19,6 @@ export const kellyClarksonTheTroubleWithLoveIs = {
   written: "collab",
   lyrics: "txt",
   syncedLyrics: "txt",
+  createdAt: "2026-06-08T00:47:24.540Z",
+  updatedAt: "2026-09-19T18:27:18.000Z",
 } as const satisfies Song

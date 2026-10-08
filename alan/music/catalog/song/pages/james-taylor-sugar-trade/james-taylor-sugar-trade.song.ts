@@ -18,4 +18,6 @@ export const jamesTaylorSugarTrade = {
   lyricsSource: "lrclib",
   written: "collab",
   lyrics: "txt",
+  createdAt: "2026-09-19T01:02:06.509Z",
+  updatedAt: "2026-09-19T18:27:18.000Z",
 } as const satisfies Song

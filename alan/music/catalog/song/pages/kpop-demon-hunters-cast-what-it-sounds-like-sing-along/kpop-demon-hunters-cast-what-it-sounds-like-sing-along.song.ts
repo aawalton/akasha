@@ -7,4 +7,6 @@ export const kpopDemonHuntersCastWhatItSoundsLikeSingAlong = {
   title: "What It Sounds Like - Sing-Along",
   artist: "artist/kpop-demon-hunters-cast",
   performed: true,
+  createdAt: "2026-09-22T13:40:09.112Z",
+  updatedAt: "2026-09-22T13:40:12.000Z",
 } as const satisfies Song

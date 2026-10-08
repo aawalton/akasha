@@ -7,4 +7,6 @@ export const kpopDemonHuntersCastLoveMaybe = {
   title: "사랑인가 봐 Love, Maybe",
   artist: "artist/kpop-demon-hunters-cast",
   performed: true,
+  createdAt: "2026-09-22T13:40:05.527Z",
+  updatedAt: "2026-09-22T13:40:12.000Z",
 } as const satisfies Song

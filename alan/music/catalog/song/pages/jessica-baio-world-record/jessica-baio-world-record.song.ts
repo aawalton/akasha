@@ -7,4 +7,6 @@ export const jessicaBaioWorldRecord = {
   title: "world record",
   artist: "artist/jessica-baio",
   performed: true,
+  createdAt: "2026-09-21T22:42:01.601Z",
+  updatedAt: "2026-09-21T22:42:03.000Z",
 } as const satisfies Song

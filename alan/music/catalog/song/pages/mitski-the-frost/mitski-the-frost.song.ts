@@ -18,4 +18,6 @@ export const mitskiTheFrost = {
   lyricsSource: "lrclib",
   lyrics: "txt",
   syncedLyrics: "txt",
+  createdAt: "2026-06-28T14:28:33.716Z",
+  updatedAt: "2026-09-19T17:05:22.000Z",
 } as const satisfies Song

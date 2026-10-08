@@ -17,4 +17,6 @@ export const kellyClarksonTrampoline = {
   performed: true,
   lyricsSource: "lrclib",
   lyrics: "txt",
+  createdAt: "2026-06-08T01:03:04.412Z",
+  updatedAt: "2026-09-19T16:29:09.000Z",
 } as const satisfies Song

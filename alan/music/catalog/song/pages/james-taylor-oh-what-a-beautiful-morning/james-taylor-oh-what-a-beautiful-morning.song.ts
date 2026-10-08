@@ -7,4 +7,6 @@ export const jamesTaylorOhWhatABeautifulMorning = {
   title: "Oh, What a Beautiful Morning",
   artist: "artist/james-taylor",
   performed: true,
+  createdAt: "2026-09-19T02:23:05.352Z",
+  updatedAt: "2026-09-19T02:26:42.000Z",
 } as const satisfies Song

@@ -7,4 +7,6 @@ export const paulCardallDiamondsForStones = {
   title: "Diamonds For Stones",
   artist: "artist/paul-cardall",
   performed: true,
+  createdAt: "2026-09-19T02:27:40.808Z",
+  updatedAt: "2026-09-19T02:28:13.000Z",
 } as const satisfies Song

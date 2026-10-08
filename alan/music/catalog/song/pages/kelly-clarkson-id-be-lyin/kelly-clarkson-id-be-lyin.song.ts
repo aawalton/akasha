@@ -16,4 +16,6 @@ export const kellyClarksonIdBeLyin = {
   artist: "artist/kelly-clarkson",
   performed: true,
   written: "collab",
+  createdAt: "2026-09-19T16:28:41.035Z",
+  updatedAt: "2026-09-19T18:27:18.000Z",
 } as const satisfies Song

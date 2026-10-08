@@ -7,4 +7,6 @@ export const jamesTaylorJingleBells = {
   title: "Jingle Bells",
   artist: "artist/james-taylor",
   performed: true,
+  createdAt: "2026-09-19T02:23:10.418Z",
+  updatedAt: "2026-09-19T02:26:42.000Z",
 } as const satisfies Song

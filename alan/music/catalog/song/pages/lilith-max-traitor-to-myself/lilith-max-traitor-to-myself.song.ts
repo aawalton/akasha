@@ -7,4 +7,6 @@ export const lilithMaxTraitorToMyself = {
   title: "Traitor To Myself",
   artist: "artist/lilith-max",
   performed: true,
+  createdAt: "2026-09-22T13:46:14.632Z",
+  updatedAt: "2026-09-22T13:46:18.000Z",
 } as const satisfies Song

@@ -7,4 +7,6 @@ export const nickelCreekSomebodyMoreLikeYou = {
   title: "Somebody More Like You",
   artist: "artist/nickel-creek",
   performed: true,
+  createdAt: "2026-09-22T19:47:27.325Z",
+  updatedAt: "2026-09-22T19:47:33.000Z",
 } as const satisfies Song

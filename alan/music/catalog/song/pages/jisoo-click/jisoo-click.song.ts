@@ -7,4 +7,6 @@ export const jisooClick = {
   title: "CLICK",
   artist: "artist/jisoo",
   performed: true,
+  createdAt: "2026-09-19T02:23:12.144Z",
+  updatedAt: "2026-09-22T13:09:58.000Z",
 } as const satisfies Song

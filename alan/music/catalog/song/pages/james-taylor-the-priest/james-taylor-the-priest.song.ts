@@ -15,4 +15,6 @@ export const jamesTaylorThePriest = {
   title: "The Priest",
   artist: "artist/james-taylor",
   performed: true,
+  createdAt: "2026-09-19T01:02:03.940Z",
+  updatedAt: "2026-09-19T16:23:44.000Z",
 } as const satisfies Song

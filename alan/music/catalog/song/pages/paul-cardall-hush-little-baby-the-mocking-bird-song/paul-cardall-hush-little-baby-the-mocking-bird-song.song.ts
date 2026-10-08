@@ -7,4 +7,6 @@ export const paulCardallHushLittleBabyTheMockingBirdSong = {
   title: "Hush Little Baby (The Mocking Bird Song)",
   artist: "artist/paul-cardall",
   performed: true,
+  createdAt: "2026-09-19T02:27:22.001Z",
+  updatedAt: "2026-09-19T02:28:13.000Z",
 } as const satisfies Song

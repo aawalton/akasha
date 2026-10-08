@@ -22,4 +22,6 @@ export const mitskiYourBestAmericanGirl = {
   syncedLyrics: "txt",
   insights: "txt",
   personalConnections: "txt",
+  createdAt: "2026-06-28T14:27:49.675Z",
+  updatedAt: "2026-09-22T13:09:58.000Z",
 } as const satisfies Song

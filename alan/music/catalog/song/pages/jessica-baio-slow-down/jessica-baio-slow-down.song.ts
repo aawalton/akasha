@@ -7,4 +7,6 @@ export const jessicaBaioSlowDown = {
   title: "SLOW DOWN",
   artist: "artist/jessica-baio",
   performed: true,
+  createdAt: "2026-09-21T22:41:59.817Z",
+  updatedAt: "2026-09-21T22:42:03.000Z",
 } as const satisfies Song

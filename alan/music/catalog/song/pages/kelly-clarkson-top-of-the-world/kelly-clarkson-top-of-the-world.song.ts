@@ -15,4 +15,6 @@ export const kellyClarksonTopOfTheWorld = {
   title: "Top of the World",
   artist: "artist/kelly-clarkson",
   performed: true,
+  createdAt: "2026-06-08T00:46:37.582Z",
+  updatedAt: "2026-09-19T16:29:09.000Z",
 } as const satisfies Song

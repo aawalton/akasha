@@ -7,4 +7,6 @@ export const kpopDemonHuntersCastLetalTakedown = {
   title: "Letal (Takedown)",
   artist: "artist/kpop-demon-hunters-cast",
   performed: true,
+  createdAt: "2026-09-22T13:40:04.790Z",
+  updatedAt: "2026-09-22T13:40:12.000Z",
 } as const satisfies Song

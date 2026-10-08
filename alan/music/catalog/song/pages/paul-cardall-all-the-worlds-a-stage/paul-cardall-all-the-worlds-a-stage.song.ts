@@ -7,4 +7,6 @@ export const paulCardallAllTheWorldsAStage = {
   title: "All The World's A Stage",
   artist: "artist/paul-cardall",
   performed: true,
+  createdAt: "2026-09-19T02:27:02.146Z",
+  updatedAt: "2026-09-19T02:28:13.000Z",
 } as const satisfies Song

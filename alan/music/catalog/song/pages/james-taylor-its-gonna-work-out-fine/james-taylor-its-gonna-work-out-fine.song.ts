@@ -15,4 +15,6 @@ export const jamesTaylorItsGonnaWorkOutFine = {
   title: "It’s Gonna Work Out Fine",
   artist: "artist/james-taylor",
   performed: true,
+  createdAt: "2026-09-19T01:02:02.941Z",
+  updatedAt: "2026-09-19T16:23:44.000Z",
 } as const satisfies Song

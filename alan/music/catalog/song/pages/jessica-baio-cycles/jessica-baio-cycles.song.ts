@@ -18,4 +18,6 @@ export const jessicaBaioCycles = {
   lyricsSource: "lrclib",
   lyrics: "txt",
   syncedLyrics: "txt",
+  createdAt: "2026-06-08T02:02:11.528Z",
+  updatedAt: "2026-09-19T18:27:18.000Z",
 } as const satisfies Song

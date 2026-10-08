@@ -19,4 +19,6 @@ export const jamesTaylorWinterWonderland = {
   lyricsSource: "lrclib",
   lyrics: "txt",
   syncedLyrics: "txt",
+  createdAt: "2026-09-19T01:02:04.329Z",
+  updatedAt: "2026-09-22T13:09:58.000Z",
 } as const satisfies Song

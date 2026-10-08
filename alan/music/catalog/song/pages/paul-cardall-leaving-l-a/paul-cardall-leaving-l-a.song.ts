@@ -7,4 +7,6 @@ export const paulCardallLeavingLA = {
   title: "Leaving L.A.",
   artist: "artist/paul-cardall",
   performed: true,
+  createdAt: "2026-09-19T02:27:50.890Z",
+  updatedAt: "2026-09-19T02:28:13.000Z",
 } as const satisfies Song

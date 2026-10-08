@@ -7,4 +7,6 @@ export const nickelCreekDespiteTheWeather = {
   title: "…Despite the Weather",
   artist: "artist/nickel-creek",
   performed: true,
+  createdAt: "2026-09-22T19:47:26.145Z",
+  updatedAt: "2026-09-22T19:47:33.000Z",
 } as const satisfies Song

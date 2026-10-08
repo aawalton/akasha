@@ -19,4 +19,6 @@ export const mitskiThatSOurLamp = {
   written: "solo",
   lyrics: "txt",
   syncedLyrics: "txt",
+  createdAt: "2026-06-28T14:23:31.908Z",
+  updatedAt: "2026-09-19T18:27:18.000Z",
 } as const satisfies Song

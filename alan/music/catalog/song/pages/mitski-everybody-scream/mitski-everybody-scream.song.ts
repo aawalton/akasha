@@ -16,4 +16,6 @@ export const mitskiEverybodyScream = {
   artist: "artist/mitski",
   performed: false,
   written: "collab",
+  createdAt: "2026-06-28T14:34:49.507Z",
+  updatedAt: "2026-09-19T18:27:18.000Z",
 } as const satisfies Song

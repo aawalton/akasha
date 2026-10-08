@@ -7,4 +7,6 @@ export const lynLapidInMyMind = {
   title: "In My Mind",
   artist: "artist/lyn-lapid",
   performed: true,
+  createdAt: "2026-09-22T13:47:05.296Z",
+  updatedAt: "2026-09-22T13:47:09.000Z",
 } as const satisfies Song

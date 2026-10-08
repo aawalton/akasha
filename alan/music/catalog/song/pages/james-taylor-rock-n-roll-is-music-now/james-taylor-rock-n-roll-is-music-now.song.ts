@@ -7,4 +7,6 @@ export const jamesTaylorRockNRollIsMusicNow = {
   title: "Rock 'n' Roll Is Music Now",
   artist: "artist/james-taylor",
   performed: true,
+  createdAt: "2026-09-19T02:23:08.810Z",
+  updatedAt: "2026-09-19T02:26:42.000Z",
 } as const satisfies Song

@@ -19,4 +19,6 @@ export const mitskiSusieSaveYourLove = {
   written: "collab",
   lyrics: "txt",
   syncedLyrics: "txt",
+  createdAt: "2026-06-28T14:29:58.880Z",
+  updatedAt: "2026-09-19T18:27:18.000Z",
 } as const satisfies Song

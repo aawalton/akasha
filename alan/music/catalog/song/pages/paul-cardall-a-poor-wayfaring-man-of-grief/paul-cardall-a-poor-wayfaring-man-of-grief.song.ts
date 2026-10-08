@@ -15,4 +15,6 @@ export const paulCardallAPoorWayfaringManOfGrief = {
   title: "A Poor Wayfaring Man of Grief",
   artist: "artist/paul-cardall",
   performed: false,
+  createdAt: "2026-09-19T00:35:54.297Z",
+  updatedAt: "2026-09-19T17:06:10.000Z",
 } as const satisfies Song

@@ -7,4 +7,6 @@ export const paulCardallJesuJoyOfMansDesiringBwv147ClassicalGuitar = {
   title: "Jesu, Joy of Man's Desiring, BWV 147 - Classical Guitar",
   artist: "artist/paul-cardall",
   performed: true,
+  createdAt: "2026-09-19T02:27:13.785Z",
+  updatedAt: "2026-09-19T02:28:13.000Z",
 } as const satisfies Song

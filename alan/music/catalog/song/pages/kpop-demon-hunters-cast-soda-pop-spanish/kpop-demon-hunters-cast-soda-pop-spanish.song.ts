@@ -7,4 +7,6 @@ export const kpopDemonHuntersCastSodaPopSpanish = {
   title: "Soda Pop - Spanish",
   artist: "artist/kpop-demon-hunters-cast",
   performed: true,
+  createdAt: "2026-09-22T13:40:05.964Z",
+  updatedAt: "2026-09-22T13:40:12.000Z",
 } as const satisfies Song

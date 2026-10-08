@@ -7,4 +7,6 @@ export const paulCardallJosephSmithsFirstPrayer = {
   title: "Joseph Smith's First Prayer",
   artist: "artist/paul-cardall",
   performed: true,
+  createdAt: "2026-09-19T02:27:35.764Z",
+  updatedAt: "2026-09-19T02:28:13.000Z",
 } as const satisfies Song

@@ -7,4 +7,6 @@ export const paulCardallGreatIsThyFaithfullness = {
   title: "Great Is Thy Faithfullness",
   artist: "artist/paul-cardall",
   performed: true,
+  createdAt: "2026-09-19T02:23:20.072Z",
+  updatedAt: "2026-09-19T02:26:42.000Z",
 } as const satisfies Song

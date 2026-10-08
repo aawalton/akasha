@@ -7,4 +7,6 @@ export const paulCardallDanceOfTheSugarPlumFairyArrForPianoByPaulCardall = {
   title: "Dance of the Sugar Plum Fairy (Arr. for piano by Paul Cardall)",
   artist: "artist/paul-cardall",
   performed: true,
+  createdAt: "2026-09-19T02:27:19.034Z",
+  updatedAt: "2026-09-19T02:28:13.000Z",
 } as const satisfies Song

@@ -16,4 +16,6 @@ export const jamesTaylorWideOpenSpaces = {
   title: "Wide Open Spaces",
   artist: "artist/james-taylor",
   performed: true,
+  createdAt: "2026-09-19T01:02:05.173Z",
+  updatedAt: "2026-09-19T17:55:30.000Z",
 } as const satisfies Song

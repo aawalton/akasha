@@ -7,4 +7,6 @@ export const nickelCreekJealousOfTheMoon = {
   title: "Jealous of the Moon",
   artist: "artist/nickel-creek",
   performed: true,
+  createdAt: "2026-09-22T19:47:26.780Z",
+  updatedAt: "2026-09-22T19:47:33.000Z",
 } as const satisfies Song

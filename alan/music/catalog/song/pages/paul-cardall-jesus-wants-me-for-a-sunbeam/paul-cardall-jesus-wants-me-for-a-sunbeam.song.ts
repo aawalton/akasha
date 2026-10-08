@@ -7,4 +7,6 @@ export const paulCardallJesusWantsMeForASunbeam = {
   title: "Jesus Wants Me for a Sunbeam",
   artist: "artist/paul-cardall",
   performed: true,
+  createdAt: "2026-09-19T02:23:23.641Z",
+  updatedAt: "2026-09-19T02:26:42.000Z",
 } as const satisfies Song

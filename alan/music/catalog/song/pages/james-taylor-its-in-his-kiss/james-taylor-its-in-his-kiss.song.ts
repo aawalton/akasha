@@ -15,4 +15,6 @@ export const jamesTaylorItsInHisKiss = {
   title: "It’s in His Kiss",
   artist: "artist/james-taylor",
   performed: true,
+  createdAt: "2026-09-19T01:02:01.437Z",
+  updatedAt: "2026-09-19T16:23:44.000Z",
 } as const satisfies Song

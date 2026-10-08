@@ -18,4 +18,6 @@ export const jamesTaylorWheneverYoureReady = {
   lyricsSource: "lrclib",
   written: "solo",
   lyrics: "txt",
+  createdAt: "2026-09-19T01:02:05.312Z",
+  updatedAt: "2026-09-19T18:27:18.000Z",
 } as const satisfies Song

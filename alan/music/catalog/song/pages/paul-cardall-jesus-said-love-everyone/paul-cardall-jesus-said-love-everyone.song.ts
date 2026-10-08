@@ -7,4 +7,6 @@ export const paulCardallJesusSaidLoveEveryone = {
   title: "Jesus Said Love Everyone",
   artist: "artist/paul-cardall",
   performed: true,
+  createdAt: "2026-09-19T02:23:22.810Z",
+  updatedAt: "2026-09-19T02:26:42.000Z",
 } as const satisfies Song

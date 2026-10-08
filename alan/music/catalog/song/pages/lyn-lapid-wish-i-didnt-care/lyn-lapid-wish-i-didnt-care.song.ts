@@ -7,4 +7,6 @@ export const lynLapidWishIDidntCare = {
   title: "Wish I Didn't Care",
   artist: "artist/lyn-lapid",
   performed: true,
+  createdAt: "2026-09-22T13:47:04.168Z",
+  updatedAt: "2026-09-22T13:47:09.000Z",
 } as const satisfies Song

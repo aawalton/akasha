@@ -7,4 +7,6 @@ export const paulCardallFiresideMedleyRememberMeIBelieveInChristComeThouFou = {
   title: "Fireside Medley: Remember Me, I Believe in Christ, Come Thou Fou",
   artist: "artist/paul-cardall",
   performed: true,
+  createdAt: "2026-09-19T02:28:55.458Z",
+  updatedAt: "2026-09-19T02:29:40.000Z",
 } as const satisfies Song

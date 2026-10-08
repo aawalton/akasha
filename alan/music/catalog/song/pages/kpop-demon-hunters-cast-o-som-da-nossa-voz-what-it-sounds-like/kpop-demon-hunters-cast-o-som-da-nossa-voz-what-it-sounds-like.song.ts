@@ -7,4 +7,6 @@ export const kpopDemonHuntersCastOSomDaNossaVozWhatItSoundsLike = {
   title: "O Som da Nossa Voz (What It Sounds Like)",
   artist: "artist/kpop-demon-hunters-cast",
   performed: true,
+  createdAt: "2026-09-22T13:40:04.862Z",
+  updatedAt: "2026-09-22T13:40:12.000Z",
 } as const satisfies Song

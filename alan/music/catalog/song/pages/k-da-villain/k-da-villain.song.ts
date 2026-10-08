@@ -7,4 +7,6 @@ export const kDaVillain = {
   title: "VILLAIN",
   artist: "artist/k-da",
   performed: true,
+  createdAt: "2026-09-22T13:39:42.351Z",
+  updatedAt: "2026-09-22T13:39:44.000Z",
 } as const satisfies Song

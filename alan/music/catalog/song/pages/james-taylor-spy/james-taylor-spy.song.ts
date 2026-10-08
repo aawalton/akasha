@@ -16,4 +16,6 @@ export const jamesTaylorSpy = {
   artist: "artist/james-taylor",
   performed: false,
   written: "collab",
+  createdAt: "2026-09-19T01:02:03.786Z",
+  updatedAt: "2026-09-19T18:27:18.000Z",
 } as const satisfies Song

@@ -7,4 +7,6 @@ export const lynLapidBackUpPlan = {
   title: "back up plan",
   artist: "artist/lyn-lapid",
   performed: true,
+  createdAt: "2026-09-22T13:46:59.824Z",
+  updatedAt: "2026-09-22T13:47:09.000Z",
 } as const satisfies Song

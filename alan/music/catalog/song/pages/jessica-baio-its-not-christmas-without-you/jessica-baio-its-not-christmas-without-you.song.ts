@@ -7,4 +7,6 @@ export const jessicaBaioItsNotChristmasWithoutYou = {
   title: "It's Not Christmas (Without You)",
   artist: "artist/jessica-baio",
   performed: true,
+  createdAt: "2026-09-21T22:41:58.591Z",
+  updatedAt: "2026-09-21T22:42:03.000Z",
 } as const satisfies Song

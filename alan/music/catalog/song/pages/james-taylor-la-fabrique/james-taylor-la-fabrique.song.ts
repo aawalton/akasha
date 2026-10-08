@@ -16,4 +16,6 @@ export const jamesTaylorLaFabrique = {
   artist: "artist/james-taylor",
   performed: false,
   written: "solo",
+  createdAt: "2026-09-19T01:02:02.551Z",
+  updatedAt: "2026-09-19T18:27:18.000Z",
 } as const satisfies Song

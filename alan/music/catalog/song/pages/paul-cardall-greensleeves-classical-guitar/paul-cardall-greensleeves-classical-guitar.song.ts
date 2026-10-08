@@ -7,4 +7,6 @@ export const paulCardallGreensleevesClassicalGuitar = {
   title: "Greensleeves - Classical Guitar",
   artist: "artist/paul-cardall",
   performed: true,
+  createdAt: "2026-09-19T02:27:13.473Z",
+  updatedAt: "2026-09-19T02:28:13.000Z",
 } as const satisfies Song

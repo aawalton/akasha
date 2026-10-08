@@ -7,4 +7,6 @@ export const paulCardallGentlyRaiseTheSacredStrain = {
   title: "Gently Raise the Sacred Strain",
   artist: "artist/paul-cardall",
   performed: true,
+  createdAt: "2026-09-19T02:23:18.508Z",
+  updatedAt: "2026-09-19T02:26:42.000Z",
 } as const satisfies Song

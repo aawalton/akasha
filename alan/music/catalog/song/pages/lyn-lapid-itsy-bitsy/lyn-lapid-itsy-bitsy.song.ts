@@ -7,4 +7,6 @@ export const lynLapidItsyBitsy = {
   title: "Itsy Bitsy",
   artist: "artist/lyn-lapid",
   performed: true,
+  createdAt: "2026-09-22T13:47:06.207Z",
+  updatedAt: "2026-09-22T13:47:09.000Z",
 } as const satisfies Song

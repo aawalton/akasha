@@ -7,4 +7,6 @@ export const kpopDemonHuntersCastBrillerGolden = {
   title: "Briller - Golden",
   artist: "artist/kpop-demon-hunters-cast",
   performed: true,
+  createdAt: "2026-09-22T13:40:05.144Z",
+  updatedAt: "2026-09-22T13:40:12.000Z",
 } as const satisfies Song

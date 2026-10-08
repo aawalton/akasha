@@ -7,4 +7,6 @@ export const jennaRaineHeartOfAKid = {
   title: "Heart of a Kid",
   artist: "artist/jenna-raine",
   performed: true,
+  createdAt: "2026-09-21T22:40:56.219Z",
+  updatedAt: "2026-09-21T22:40:59.000Z",
 } as const satisfies Song

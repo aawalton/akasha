@@ -7,4 +7,6 @@ export const jennaRaineSeeYouLaterTenYears = {
   title: "see you later (ten years)",
   artist: "artist/jenna-raine",
   performed: true,
+  createdAt: "2026-09-21T22:40:55.593Z",
+  updatedAt: "2026-09-21T22:40:59.000Z",
 } as const satisfies Song

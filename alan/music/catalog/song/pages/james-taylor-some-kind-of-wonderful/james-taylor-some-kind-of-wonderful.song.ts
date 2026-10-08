@@ -15,4 +15,6 @@ export const jamesTaylorSomeKindOfWonderful = {
   title: "Some Kind of Wonderful",
   artist: "artist/james-taylor",
   performed: true,
+  createdAt: "2026-09-19T01:02:07.552Z",
+  updatedAt: "2026-09-19T16:23:44.000Z",
 } as const satisfies Song

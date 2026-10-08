@@ -15,4 +15,6 @@ export const paulCardallHarkTheHeraldAngelsSing = {
   title: "Hark! The Herald Angels Sing",
   artist: "artist/paul-cardall",
   performed: true,
+  createdAt: "2026-09-19T00:35:54.711Z",
+  updatedAt: "2026-09-19T17:06:10.000Z",
 } as const satisfies Song

@@ -18,4 +18,6 @@ export const mitskiFireproof = {
   lyricsSource: "lrclib",
   lyrics: "txt",
   syncedLyrics: "txt",
+  createdAt: "2026-06-28T14:35:45.812Z",
+  updatedAt: "2026-09-19T17:05:22.000Z",
 } as const satisfies Song

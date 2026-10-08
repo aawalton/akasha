@@ -7,4 +7,6 @@ export const paulCardallAscensusChristiAPianoRhapsody = {
   title: "Ascensus Christi: A Piano Rhapsody",
   artist: "artist/paul-cardall",
   performed: true,
+  createdAt: "2026-09-19T02:26:57.447Z",
+  updatedAt: "2026-09-19T02:28:13.000Z",
 } as const satisfies Song
