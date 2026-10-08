@@ -43,9 +43,19 @@ describe("replyAfter", () => {
 
 describe("voiceSetupFor", () => {
   test("the setup names the persona and offers the one tool that asks the seat", () => {
-    const setup = voiceSetupFor("Nimue")
+    const setup = voiceSetupFor("Nimue", null)
     expect(setup.systemInstruction.parts[0]?.text).toContain("You are Nimue's voice.")
     expect(setup.tools[0]?.functionDeclarations[0]?.name).toBe(ASK_SEAT)
+  })
+
+  test("a persona's voice is named to Gemini, and no voice leaves Gemini's default", () => {
+    expect(voiceSetupFor("Nimue", "Achernar").generationConfig).toEqual({
+      responseModalities: ["AUDIO"],
+      speechConfig: { voiceConfig: { prebuiltVoiceConfig: { voiceName: "Achernar" } } },
+    })
+    expect(voiceSetupFor("Nimue", null).generationConfig).toEqual({
+      responseModalities: ["AUDIO"],
+    })
   })
 })
 

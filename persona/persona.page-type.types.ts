@@ -9,6 +9,7 @@ import type { DesktopWallpaper } from "akasha/persona/properties/desktop-wallpap
 import type { EmailAddress } from "akasha/persona/properties/email-address.email-address-property.types.ts"
 import type { History } from "akasha/persona/properties/history.text-property.types.ts"
 import type { LastMessagedAt } from "akasha/persona/properties/last-messaged-at.instant-property.types.ts"
+import type { LiveVoice } from "akasha/persona/properties/live-voice.text-property.types.ts"
 import type { MobileWallpaper } from "akasha/persona/properties/mobile-wallpaper.relation-property.types.ts"
 import type { Origin } from "akasha/persona/properties/origin.relation-property.types.ts"
 import type { PageValue } from "akasha/persona/properties/page-value.relation-property.types.ts"
@@ -36,6 +37,7 @@ export type Persona = Domain & {
   voiceInstruction?: VoiceInstruction
   voiceReferenceSha256?: VoiceReferenceSha256
   voiceReference?: VoiceReference
+  liveVoice?: LiveVoice
   pointsBeforeToday?: PointsBeforeToday
   pointsToday?: PointsToday
   pointsTotal?: PointsTotal

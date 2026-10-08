@@ -25,7 +25,20 @@ function refused(error: string, status: number): Response {
   return Response.json({ ok: false, error }, { status, headers: UNKEPT })
 }
 
-async function personaOf(id: string): Promise<string | { readonly refused: string }> {
+type Speaker = { readonly persona: string; readonly voice: string | null }
+
+async function voiceOf(persona: string): Promise<string | null | { readonly refused: string }> {
+  const personas = await askingFor({
+    pageTypeSlug: "persona",
+    where: { slug: { is: persona } },
+    keys: ["liveVoice"],
+    limit: 1,
+  })
+  if ("refused" in personas) return { refused: personas.refused }
+  return textIn(personas.rows[0]?.liveVoice)
+}
+
+async function speakerOf(id: string): Promise<Speaker | { readonly refused: string }> {
   const seats = await askingFor({
     pageTypeSlug: "seat",
     where: { id: { is: id } },
@@ -35,8 +48,11 @@ async function personaOf(id: string): Promise<string | { readonly refused: strin
   if ("refused" in seats) return { refused: seats.refused }
   const row = seats.rows[0]
   if (row === undefined) return { refused: `no seat has the id \`${id}\`` }
-  const persona = textIn(row.persona)
-  return capitalize(persona === null ? (textIn(row.slug) ?? "the seat") : slugOf(persona))
+  const named = textIn(row.persona)
+  if (named === null) return { persona: capitalize(textIn(row.slug) ?? "the seat"), voice: null }
+  const voice = await voiceOf(slugOf(named))
+  if (voice !== null && typeof voice !== "string") return voice
+  return { persona: capitalize(slugOf(named)), voice }
 }
 
 export async function action({ request }: { request: Request }): Promise<Response> {
@@ -52,8 +68,9 @@ export async function action({ request }: { request: Request }): Promise<Respons
   if (!asked.success) return refused("A voice token is asked for a seat by its id.", 400)
   const key = optionalEnv(KEY)
   if (key === undefined) return refused(`nothing holds \`${KEY}\` here`, 503)
-  const persona = await personaOf(asked.data.seat)
-  if (typeof persona !== "string") return refused(persona.refused, 404)
+  const speaker = await speakerOf(asked.data.seat)
+  if ("refused" in speaker) return refused(speaker.refused, 404)
+  const { persona, voice } = speaker
   const now = Date.now()
   let answered: Response
   try {
@@ -64,7 +81,7 @@ export async function action({ request }: { request: Request }): Promise<Respons
         uses: 1,
         expireTime: new Date(now + TOKEN_LASTS_MS).toISOString(),
         newSessionExpireTime: new Date(now + SESSION_OPENS_WITHIN_MS).toISOString(),
-        bidiGenerateContentSetup: voiceSetupFor(persona),
+        bidiGenerateContentSetup: voiceSetupFor(persona, voice),
       }),
     })
   } catch (cause) {

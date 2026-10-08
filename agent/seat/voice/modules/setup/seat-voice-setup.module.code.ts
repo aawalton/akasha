@@ -3,8 +3,6 @@ export const LIVE_MODEL = "models/gemini-3.8-live"
 export const LIVE_AT =
   "wss://generativelanguage.googleapis.com/ws/google.ai.generativelanguage.v1beta.GenerativeService.BidiGenerateContentConstrained"
 
-const LIVE_VOICE = "Achernar"
-
 export const ASK_SEAT = "ask_seat"
 
 export const HEARD_RATE = 16_000
@@ -18,6 +16,7 @@ type Entry = { readonly kind: string; readonly text?: string }
 function instructionFor(persona: string): string {
   return [
     `You are ${persona}'s voice. Alan is talking to ${persona} out loud.`,
+    "Always speak in English, with an American accent, whatever the voice you were given.",
     `${persona} is an agent who does the real work and knows Alan's pages; you only listen and speak.`,
     `Pass everything Alan asks or tells ${persona} to ${ASK_SEAT}, in Alan's own words without filler.`,
     `Say a few words first, such as "let me ask", so Alan knows you are asking.`,
@@ -29,12 +28,14 @@ function instructionFor(persona: string): string {
   ].join("\n")
 }
 
-export function voiceSetupFor(persona: string) {
+export function voiceSetupFor(persona: string, voice: string | null) {
   return {
     model: LIVE_MODEL,
     generationConfig: {
       responseModalities: ["AUDIO"],
-      speechConfig: { voiceConfig: { prebuiltVoiceConfig: { voiceName: LIVE_VOICE } } },
+      ...(voice === null
+        ? {}
+        : { speechConfig: { voiceConfig: { prebuiltVoiceConfig: { voiceName: voice } } } }),
     },
     sessionResumption: {},
     contextWindowCompression: { slidingWindow: {} },

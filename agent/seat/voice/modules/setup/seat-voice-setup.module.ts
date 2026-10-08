@@ -33,5 +33,9 @@ export const seatVoiceSetup = {
       decisionKind: "decision-kind/departure",
       statement: "The phone sends 16 kHz sound and is sent 24 kHz sound back.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The voice speaks English whichever of Gemini's voices it has.",
+    },
   ],
 } as const satisfies Module

@@ -3724,6 +3724,7 @@
 {"propertySlug":"decision-kind","path":"persona/properties/appearance.file-property.ts","id":"01a0658c-fbfe-7000-a50a-efaa762bf9d7"}
 {"propertySlug":"decision-kind","path":"persona/properties/cover-images.multi-relation-property.ts","id":"01a0c5ea-6e76-73f6-b81b-71e1f401d9e4"}
 {"propertySlug":"decision-kind","path":"persona/properties/desktop-wallpaper.relation-property.ts","id":"01a0c61d-e778-7592-a6cf-ae6833953348"}
+{"propertySlug":"decision-kind","path":"persona/properties/live-voice.text-property.ts","id":"01a11b5c-2021-7b32-a00c-fc584f61bf2e"}
 {"propertySlug":"decision-kind","path":"persona/properties/mobile-wallpaper.relation-property.ts","id":"01a0c61d-f8be-7dee-97dc-2a9bb1313d4f"}
 {"propertySlug":"decision-kind","path":"persona/properties/persona-relationship-level.computed-property.ts","id":"01a082dd-bbc6-70a8-b7c5-94c16ef56e98"}
 {"propertySlug":"decision-kind","path":"persona/properties/points-before-today.number-property.ts","id":"01a08205-3006-72d5-930b-892c6e875b17"}

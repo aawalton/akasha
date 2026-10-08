@@ -25,5 +25,9 @@ export const alanWebApiSeatVoice = {
       decisionKind: "decision-kind/absence",
       statement: "The Gemini key never leaves the web server.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The voice is read off the seat's persona page whenever a token is made.",
+    },
   ],
 } as const satisfies Route
