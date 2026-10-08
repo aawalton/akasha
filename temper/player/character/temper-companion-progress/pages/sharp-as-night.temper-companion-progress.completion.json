@@ -1,14 +1,7 @@
 {
   "build": {
     "companionId": 8,
-    "skillAbilityIds": {
-      "1": 152625,
-      "2": 186603,
-      "3": 155328,
-      "4": 154926,
-      "5": 155693,
-      "6": 186488
-    },
+    "mainHandWeaponType": 13,
     "jewelry": {
       "1": {
         "displayText": "Focused",
@@ -37,6 +30,14 @@
         },
         "isEmpty": false
       }
+    },
+    "skillAbilityIds": {
+      "1": 152625,
+      "2": 186603,
+      "3": 155328,
+      "4": 154926,
+      "5": 155693,
+      "6": 186488
     },
     "hash": "AjEIVpGkaRpGkaRpCQ8PFPMjBFmT7gA",
     "armor": {
@@ -123,8 +124,7 @@
         },
         "isEmpty": true
       }
-    },
-    "mainHandWeaponType": 13
+    }
   },
   "targetBuildHash": "AjEAUAaRpGkaRpGkaQkPDxTzqfA",
   "level": 20,

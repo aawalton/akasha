@@ -1,14 +1,7 @@
 {
   "build": {
     "companionId": 5,
-    "skillAbilityIds": {
-      "1": 152624,
-      "2": 164291,
-      "3": 153686,
-      "4": 0,
-      "5": 0,
-      "6": 164191
-    },
+    "mainHandWeaponType": 4,
     "jewelry": {
       "1": {
         "displayText": "Shattering",
@@ -37,6 +30,14 @@
         },
         "isEmpty": false
       }
+    },
+    "skillAbilityIds": {
+      "1": 152624,
+      "2": 164291,
+      "3": 153686,
+      "4": 0,
+      "5": 0,
+      "6": 164191
     },
     "hash": "AjEINJEkSRJE8TxPDw8PCvM5BQAADgA",
     "armor": {
@@ -123,8 +124,7 @@
         },
         "isEmpty": true
       }
-    },
-    "mainHandWeaponType": 4
+    }
   },
   "targetBuildHash": "AjEANJEkSRJE8TxPDw8PCvO5BzAADgA",
   "level": 20,

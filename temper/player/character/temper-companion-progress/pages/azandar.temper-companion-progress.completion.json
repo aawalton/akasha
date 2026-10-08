@@ -1,14 +1,7 @@
 {
   "build": {
     "companionId": 9,
-    "skillAbilityIds": {
-      "1": 193130,
-      "2": 153685,
-      "3": 192574,
-      "4": 192937,
-      "5": 155408,
-      "6": 195103
-    },
+    "mainHandWeaponType": 9,
     "jewelry": {
       "1": {
         "displayText": "Quickened",
@@ -37,6 +30,14 @@
         },
         "isEmpty": false
       }
+    },
+    "skillAbilityIds": {
+      "1": 193130,
+      "2": 153685,
+      "3": 192574,
+      "4": 192937,
+      "5": 155408,
+      "6": 195103
     },
     "hash": "AjEIYtC0LQtC0LQtDQ0NGNISIJCyxQA",
     "armor": {
@@ -123,8 +124,7 @@
         },
         "isEmpty": true
       }
-    },
-    "mainHandWeaponType": 9
+    }
   },
   "targetBuildHash": "AjEAYALQtC0LQtCAAQ0NDRjSE2CQgA",
   "level": 20,
