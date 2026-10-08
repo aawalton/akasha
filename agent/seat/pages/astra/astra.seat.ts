@@ -5,7 +5,7 @@ export const astra = {
   type: "page-type/seat",
   slug: "astra",
   persona: "persona/astra",
-  assignmentSlug: "initiative/astra-page-timestamps",
+  assignmentSlug: "page-type/page",
   role: "role/definer",
   person: "person/alan",
   startMode: "seat-mode/interactive",
@@ -13,5 +13,5 @@ export const astra = {
   registrationAccount: "model-account/aawalton",
   claudeCodeSessionUuid: "6da6d673-4649-42c2-8b65-68fa27f55026",
   createdAt: "2026-10-08T14:33:27.193Z",
-  updatedAt: "2026-10-08T14:35:57.000Z",
+  updatedAt: "2026-10-08T16:56:39.601Z",
 } as const satisfies Seat
