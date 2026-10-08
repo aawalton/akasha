@@ -11,6 +11,5 @@ export const nova = {
   startMode: "seat-mode/interactive",
   onCall: true,
   registrationAccount: "model-account/aawalton",
-  createdAt: "2026-10-08T15:19:37.664Z",
-  updatedAt: "2026-10-08T15:19:37.664Z",
+  claudeCodeSessionUuid: "6385f999-e307-4adf-8de1-c9d06181de13",
 } as const satisfies Seat
