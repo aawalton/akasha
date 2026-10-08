@@ -11,7 +11,8 @@ export const emberAutoPort = {
       statement:
         "A keybind ports Alan to the wayshrine or owned house nearest his focused quest's next objective.",
       workingMemory:
-        "RequestJournalQuestConditionAssistance answers through EVENT_QUEST_POSITION_REQUEST_COMPLETE with map x and y. GetFastTravelNodeInfo gives every node's x and y; a house is a node of POI_TYPE_HOUSE, and GetFastTravelNodeHouseId names it. FastTravelToNode ports to a known wayshrine. RequestJumpToHouse(houseId, true) ports outside a house. Alan approved the design; the build is under way.",
+        "Built in domain/temper-addon-world-quest-port and deployed to the game: Controls, Temper Quests, Port Near Quest Objective calls TemperWorld.PortNearQuestObjective. It reads the tracker's assisted quest, asks the objective's position on its zone map, and ports to the nearest found wayshrine or owned house, saying each port and refusal in chat. Left is Alan setting the key and seeing ports land in game.",
     },
   ],
+  updatedAt: "2026-10-08T14:57:11.114Z",
 } as const satisfies Initiative
