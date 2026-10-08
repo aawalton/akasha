@@ -103,6 +103,14 @@ test("a registration account is named as a model account whether stated bare or 
   expect(seatBody({ ...WHOLE, registration: AAWALTON_ACCOUNT }, "a", ROOT)).toContain(said)
 })
 
+test("a page written over keeps the instants it was created and last changed at", () => {
+  const kept = { createdAt: "2026-10-08T15:43:08.211Z", updatedAt: "2026-10-08T15:43:09.000Z" }
+  const said = seatBody(WHOLE, "a", ROOT, null, kept)
+  expect(said).toContain('createdAt: "2026-10-08T15:43:08.211Z"')
+  expect(said).toContain('updatedAt: "2026-10-08T15:43:09.000Z"')
+  expect(seatBody(WHOLE, "a", ROOT)).not.toContain("createdAt")
+})
+
 test("a seat not on call says so", () => {
   expect(seatBody({ ...WHOLE, onCall: false }, "a", ROOT)).toContain("onCall: false,")
 })

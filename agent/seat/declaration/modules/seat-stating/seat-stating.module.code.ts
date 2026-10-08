@@ -99,11 +99,22 @@ function assignmentStatedOn(page: string, root: string, slug: string): string | 
   return assignmentStatedIn((held as Record<string, unknown>)[ASSIGNMENT], slug)
 }
 
+const INSTANTS: readonly string[] = ["createdAt", "updatedAt"]
+
+function instantsIn(kept: Readonly<Record<string, unknown>> | null): readonly string[] {
+  if (kept === null) return []
+  return INSTANTS.flatMap((key) => {
+    const held = kept[key]
+    return typeof held === "string" && held !== "" ? [`  ${key}: ${saidAs(held)},`] : []
+  })
+}
+
 export function seatBody(
   stated: SeatStated,
   seatName: string,
   root: string,
-  addressed: string | null = null
+  addressed: string | null = null,
+  kept: Readonly<Record<string, unknown>> | null = null
 ): string | null {
   const { persona, domain, role, principal, mode, registration } = stated
   if (persona === null || domain === null || role === null || principal === null) return null
@@ -132,6 +143,7 @@ export function seatBody(
     `  onCall: ${stated.onCall ? "true" : "false"},`,
     `  registrationAccount: ${saidAs(namedAs(MODEL_ACCOUNT, slugOf(registration), null))},`,
     ...(stated.session === null ? [] : [`  claudeCodeSessionUuid: ${saidAs(stated.session)},`]),
+    ...instantsIn(kept),
     "} as const satisfies Seat",
     "",
   ].join("\n")

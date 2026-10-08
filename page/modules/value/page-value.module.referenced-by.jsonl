@@ -8,6 +8,7 @@
 {"propertySlug":"import","fileName":"page-value.module.code.ts","path":"agent/model/gateway/modules/subagent-stops/subagent-stops.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-value.module.code.ts","path":"agent/model/provider/modules/reading/model-provider-reading.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-value.module.code.ts","path":"agent/modules/page-reading/agent-page-reading.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"page-value.module.code.ts","path":"agent/seat/declaration/modules/seat-landing/seat-landing.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-value.module.code.ts","path":"agent/seat/declaration/modules/seat-stating/seat-stating.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-value.module.code.ts","path":"agent/seat/modules/akasha-history/seat-akasha-history.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-value.module.code.ts","path":"agent/seat/modules/akasha-read/seat-akasha-read.module.code.ts","typed":false,"deferred":false}

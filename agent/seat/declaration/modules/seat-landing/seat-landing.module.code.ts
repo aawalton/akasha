@@ -17,6 +17,7 @@ import {
 } from "akasha/change/runner/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
 import { partWay } from "akasha/command/modules/answering/command-answering.module.code.ts"
 import { refusalsIn } from "akasha/command/modules/applying/applying.module.code.ts"
+import { valueAt } from "akasha/page/modules/value/page-value.module.code.ts"
 
 const PUT = `${changeMechanicalFile.slug}/${addFile.slug}` as const
 
@@ -47,7 +48,9 @@ export async function statedSeat(
   const there = existsSync(join(root, page))
   const was = there ? readFileSync(join(root, page), "utf8") : null
   const addressed = addressFor(stated, page, root, there)
-  const body = seatBody(stated, seatName, root, addressed)
+  const held = there ? valueAt(page, root) : null
+  const kept = held !== null && typeof held === "object" ? (held as Record<string, unknown>) : null
+  const body = seatBody(stated, seatName, root, addressed, kept)
   if (body === null) return { kind: "unstated" }
   if (was === body) return { kind: "unchanged" }
   const given = was === null ? { at: page, body } : { at: page, body, old: was }

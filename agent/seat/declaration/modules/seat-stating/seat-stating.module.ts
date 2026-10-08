@@ -99,8 +99,13 @@ export const seatStating = {
       statement: "The address a seat states is kept where the page with that address has gone.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement: "A page written over keeps the instants it was created and last changed at.",
+    },
+    {
       decisionKind: "decision-kind/absence",
       statement: "Nothing here lands a commit.",
     },
   ],
+  updatedAt: "2026-10-08T15:48:13.864Z",
 } as const satisfies Module
