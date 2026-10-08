@@ -165,15 +165,19 @@ export const terminusTheSystem = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
-      fact: "Reaching level 1 takes 34 bits of essence, which is d(8).",
+      fact: "Level 1 costs 34 bits of essence, which is d(8).",
       knowers: ["lore-disclosure/game-master"],
     },
     {
-      fact: "Reaching level 2 takes 55 bits of essence, which is d(9).",
+      fact: "Level 2 costs a further 55 bits of essence, which is d(9).",
       knowers: ["lore-disclosure/game-master"],
     },
     {
-      fact: "Each later level takes the next Divine Sequence number of bits of essence.",
+      fact: "Each later level costs the next Divine Sequence number of bits, on top of all before it.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The total essence to reach level L is d(L+9) − 55, so level 2 takes 89 bits in all.",
       knowers: ["lore-disclosure/game-master"],
     },
     {
@@ -186,5 +190,5 @@ export const terminusTheSystem = {
     },
   ],
   createdAt: "2026-10-08T19:30:10.084Z",
-  updatedAt: "2026-10-08T21:17:58.779Z",
+  updatedAt: "2026-10-08T21:19:14.201Z",
 } as const satisfies Lore
