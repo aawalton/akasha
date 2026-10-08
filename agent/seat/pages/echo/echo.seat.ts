@@ -12,6 +12,4 @@ export const echo = {
   onCall: true,
   registrationAccount: "model-account/aawalton",
   claudeCodeSessionUuid: "f8d5910f-aaf3-4ce2-8079-db8a4c1b9f4d",
-  createdAt: "2026-10-08T14:56:41.337Z",
-  updatedAt: "2026-10-08T15:37:47.000Z",
 } as const satisfies Seat
