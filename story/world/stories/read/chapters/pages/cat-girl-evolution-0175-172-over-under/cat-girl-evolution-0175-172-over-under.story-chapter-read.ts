@@ -19,4 +19,6 @@ export const catGirlEvolution0175172OverUnder = {
         "https://www.royalroad.com/fiction/129180/yona-cat-girl-evolution/chapter/4087067/172-over-under",
     },
   ],
+  createdAt: "2026-10-08T08:06:50.647Z",
+  updatedAt: "2026-10-08T08:06:51.000Z",
 } as const satisfies StoryChapterRead

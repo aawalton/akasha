@@ -19,4 +19,6 @@ export const twelveStepsToTranscendenceASkillGrindingLitrpg0053Chapter52Steps = 
   story: "story-read/twelve-steps-to-transcendence-a-skill-grinding-litrpg",
   ownLength: 1593,
   prose: "txt",
+  createdAt: "2026-09-16T23:05:39.387Z",
+  updatedAt: "2026-09-19T18:25:57.000Z",
 } as const satisfies StoryChapterRead

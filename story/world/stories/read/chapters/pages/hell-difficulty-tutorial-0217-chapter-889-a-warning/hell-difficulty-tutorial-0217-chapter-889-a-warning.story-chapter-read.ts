@@ -19,4 +19,6 @@ export const hellDifficultyTutorial0217Chapter889AWarning = {
         "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/4004768/chapter-889-a-warning",
     },
   ],
+  createdAt: "2026-09-24T12:53:16.420Z",
+  updatedAt: "2026-09-24T12:53:21.000Z",
 } as const satisfies StoryChapterRead

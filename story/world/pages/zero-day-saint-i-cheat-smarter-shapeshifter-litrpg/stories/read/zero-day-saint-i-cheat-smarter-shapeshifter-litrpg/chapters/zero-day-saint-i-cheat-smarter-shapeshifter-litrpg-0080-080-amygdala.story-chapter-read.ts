@@ -19,4 +19,6 @@ export const zeroDaySaintICheatSmarterShapeshifterLitrpg0080080Amygdala = {
   title: "080 - Amygdala",
   ownLength: 1840,
   prose: "txt",
+  createdAt: "2026-09-07T06:05:09.113Z",
+  updatedAt: "2026-09-19T18:25:57.000Z",
 } as const satisfies StoryChapterRead

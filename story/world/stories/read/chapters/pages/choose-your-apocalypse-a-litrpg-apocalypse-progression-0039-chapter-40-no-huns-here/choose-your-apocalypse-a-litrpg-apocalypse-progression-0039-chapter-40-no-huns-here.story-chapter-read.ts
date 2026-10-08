@@ -20,4 +20,6 @@ export const chooseYourApocalypseALitrpgApocalypseProgression0039Chapter40NoHuns
         "https://www.royalroad.com/fiction/109427/choose-your-apocalypse-a-litrpg-apocalypse-progression/chapter/2314181/chapter-40-no-huns-here",
     },
   ],
+  createdAt: "2026-09-28T20:28:34.591Z",
+  updatedAt: "2026-09-28T20:28:35.000Z",
 } as const satisfies StoryChapterRead

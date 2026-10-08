@@ -19,4 +19,6 @@ export const demonicCityBuilderLitrpgCityKingdomBuilding0035InterludeITheVaunt =
   story: "story-read/demonic-city-builder-litrpg-city-kingdom-building",
   ownLength: 2605,
   prose: "txt",
+  createdAt: "2026-09-21T00:06:35.424Z",
+  updatedAt: "2026-09-21T16:25:31.000Z",
 } as const satisfies StoryChapterRead

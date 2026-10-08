@@ -20,4 +20,6 @@ export const heWhoFightsWithMonsters0017Chapter1025EasyOrSwift = {
         "https://www.royalroad.com/fiction/26294/he-who-fights-with-monsters/chapter/4029704/chapter-1025-easy-or-swift",
     },
   ],
+  createdAt: "2026-09-28T23:05:06.389Z",
+  updatedAt: "2026-09-29T03:08:06.000Z",
 } as const satisfies StoryChapterRead

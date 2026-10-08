@@ -20,4 +20,6 @@ export const chooseYourApocalypseALitrpgApocalypseProgression0095Chapter96AnHono
         "https://www.royalroad.com/fiction/109427/choose-your-apocalypse-a-litrpg-apocalypse-progression/chapter/2892461/chapter-96-an-honor-guard",
     },
   ],
+  createdAt: "2026-09-28T20:28:39.892Z",
+  updatedAt: "2026-09-28T20:28:41.000Z",
 } as const satisfies StoryChapterRead

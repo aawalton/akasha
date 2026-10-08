@@ -20,4 +20,6 @@ export const chooseYourApocalypseALitrpgApocalypseProgression0050Chapter51Others
         "https://www.royalroad.com/fiction/109427/choose-your-apocalypse-a-litrpg-apocalypse-progression/chapter/2423896/chapter-51-others-second-classes",
     },
   ],
+  createdAt: "2026-09-28T20:28:34.592Z",
+  updatedAt: "2026-09-28T20:28:35.000Z",
 } as const satisfies StoryChapterRead

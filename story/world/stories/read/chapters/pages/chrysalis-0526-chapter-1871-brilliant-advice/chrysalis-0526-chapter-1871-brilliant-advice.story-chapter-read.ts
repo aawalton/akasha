@@ -20,4 +20,6 @@ export const chrysalis0526Chapter1871BrilliantAdvice = {
         "https://www.royalroad.com/fiction/22518/chrysalis/chapter/4030278/chapter-1871-brilliant-advice",
     },
   ],
+  createdAt: "2026-09-29T02:08:24.521Z",
+  updatedAt: "2026-09-29T04:06:58.000Z",
 } as const satisfies StoryChapterRead

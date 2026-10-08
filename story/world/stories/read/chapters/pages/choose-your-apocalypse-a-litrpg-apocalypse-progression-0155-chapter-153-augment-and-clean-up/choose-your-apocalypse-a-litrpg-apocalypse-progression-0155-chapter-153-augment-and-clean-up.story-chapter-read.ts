@@ -20,4 +20,6 @@ export const chooseYourApocalypseALitrpgApocalypseProgression0155Chapter153Augme
         "https://www.royalroad.com/fiction/109427/choose-your-apocalypse-a-litrpg-apocalypse-progression/chapter/3808188/chapter-153-augment-and-clean-up",
     },
   ],
+  createdAt: "2026-09-28T20:28:45.286Z",
+  updatedAt: "2026-09-28T20:28:46.000Z",
 } as const satisfies StoryChapterRead

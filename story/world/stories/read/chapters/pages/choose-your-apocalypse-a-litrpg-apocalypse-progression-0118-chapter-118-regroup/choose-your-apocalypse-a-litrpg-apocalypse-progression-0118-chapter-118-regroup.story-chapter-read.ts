@@ -20,4 +20,6 @@ export const chooseYourApocalypseALitrpgApocalypseProgression0118Chapter118Regro
         "https://www.royalroad.com/fiction/109427/choose-your-apocalypse-a-litrpg-apocalypse-progression/chapter/3187198/chapter-118-regroup",
     },
   ],
+  createdAt: "2026-09-28T20:28:39.892Z",
+  updatedAt: "2026-09-28T20:28:41.000Z",
 } as const satisfies StoryChapterRead

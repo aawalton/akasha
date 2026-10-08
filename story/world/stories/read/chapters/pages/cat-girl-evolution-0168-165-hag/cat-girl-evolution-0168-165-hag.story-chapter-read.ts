@@ -20,4 +20,6 @@ export const catGirlEvolution0168165Hag = {
   story: "story-read/cat-girl-evolution",
   ownLength: 3343,
   prose: "txt",
+  createdAt: "2026-09-21T07:07:52.594Z",
+  updatedAt: "2026-09-28T20:27:10.000Z",
 } as const satisfies StoryChapterRead

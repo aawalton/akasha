@@ -20,4 +20,6 @@ export const chooseYourApocalypseALitrpgApocalypseProgression0090Chapter91WhyDou
         "https://www.royalroad.com/fiction/109427/choose-your-apocalypse-a-litrpg-apocalypse-progression/chapter/2832531/chapter-91-why-dough",
     },
   ],
+  createdAt: "2026-09-28T20:28:39.892Z",
+  updatedAt: "2026-09-28T20:28:41.000Z",
 } as const satisfies StoryChapterRead

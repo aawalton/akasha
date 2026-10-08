@@ -20,4 +20,6 @@ export const bunnyGirlEvolution0040228MeetYourBrandNewTeacher = {
         "https://www.royalroad.com/fiction/90435/bunny-girl-evolution/chapter/4031339/228-meet-your-brand-new-teacher",
     },
   ],
+  createdAt: "2026-09-29T07:08:47.684Z",
+  updatedAt: "2026-09-29T13:06:22.000Z",
 } as const satisfies StoryChapterRead

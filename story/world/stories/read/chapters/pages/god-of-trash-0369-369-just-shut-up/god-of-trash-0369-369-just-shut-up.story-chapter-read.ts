@@ -19,4 +19,6 @@ export const godOfTrash0369369JustShutUp = {
         "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/4029086/369-just-shut-up",
     },
   ],
+  createdAt: "2026-09-28T20:27:16.847Z",
+  updatedAt: "2026-09-28T20:27:17.000Z",
 } as const satisfies StoryChapterRead

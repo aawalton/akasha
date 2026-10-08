@@ -19,4 +19,6 @@ export const darkMatterAscensionLitrpgSwordmageMc0002WhoLikesDeathKnights = {
         "https://www.royalroad.com/fiction/99657/dark-matter-ascension-stub/chapter/4027342/who-likes-death-knights",
     },
   ],
+  createdAt: "2026-09-28T15:09:54.436Z",
+  updatedAt: "2026-09-28T15:09:55.000Z",
 } as const satisfies StoryChapterRead

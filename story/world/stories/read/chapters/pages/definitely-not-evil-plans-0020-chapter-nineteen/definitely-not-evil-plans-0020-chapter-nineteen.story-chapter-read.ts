@@ -20,4 +20,6 @@ export const definitelyNotEvilPlans0020ChapterNineteen = {
         "https://www.royalroad.com/fiction/192704/definitely-not-evil-plans/chapter/4079786/chapter-nineteen",
     },
   ],
+  createdAt: "2026-10-06T23:09:29.494Z",
+  updatedAt: "2026-10-06T23:09:30.000Z",
 } as const satisfies StoryChapterRead

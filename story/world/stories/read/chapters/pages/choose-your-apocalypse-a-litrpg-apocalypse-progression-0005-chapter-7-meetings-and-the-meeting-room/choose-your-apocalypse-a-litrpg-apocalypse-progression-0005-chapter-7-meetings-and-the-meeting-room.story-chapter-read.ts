@@ -21,4 +21,6 @@ export const chooseYourApocalypseALitrpgApocalypseProgression0005Chapter7Meeting
           "https://www.royalroad.com/fiction/109427/choose-your-apocalypse-a-litrpg-apocalypse-progression/chapter/2154211/chapter-7-meetings-and-the-meeting-room",
       },
     ],
+    createdAt: "2026-09-28T20:28:29.206Z",
+    updatedAt: "2026-09-28T20:28:30.000Z",
   } as const satisfies StoryChapterRead

@@ -20,4 +20,6 @@ export const chooseYourApocalypseALitrpgApocalypseProgression0110Chapter111Wave1
         "https://www.royalroad.com/fiction/109427/choose-your-apocalypse-a-litrpg-apocalypse-progression/chapter/3087341/chapter-111-wave-1-back-inside",
     },
   ],
+  createdAt: "2026-09-28T20:28:39.892Z",
+  updatedAt: "2026-09-28T20:28:41.000Z",
 } as const satisfies StoryChapterRead

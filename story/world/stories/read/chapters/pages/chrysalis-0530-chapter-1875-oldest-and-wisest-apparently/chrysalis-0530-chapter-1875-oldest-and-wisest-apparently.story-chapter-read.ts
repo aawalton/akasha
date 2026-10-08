@@ -20,4 +20,6 @@ export const chrysalis0530Chapter1875OldestAndWisestApparently = {
         "https://www.royalroad.com/fiction/22518/chrysalis/chapter/4060658/chapter-1875-oldest-and-wisest-apparently",
     },
   ],
+  createdAt: "2026-10-05T05:05:39.514Z",
+  updatedAt: "2026-10-05T11:04:44.000Z",
 } as const satisfies StoryChapterRead

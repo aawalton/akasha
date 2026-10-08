@@ -19,4 +19,6 @@ export const underworldBreadMageYuriProgfanSliceOfLife0037Chapter37Promises = {
   title: "Chapter 37: Promises",
   ownLength: 1563,
   prose: "txt",
+  createdAt: "2026-09-05T16:06:31.382Z",
+  updatedAt: "2026-09-19T18:25:57.000Z",
 } as const satisfies StoryChapterRead

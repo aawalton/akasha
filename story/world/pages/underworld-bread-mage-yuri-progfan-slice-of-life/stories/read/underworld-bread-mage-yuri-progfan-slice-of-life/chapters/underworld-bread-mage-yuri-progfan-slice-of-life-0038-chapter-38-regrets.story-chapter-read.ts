@@ -19,4 +19,6 @@ export const underworldBreadMageYuriProgfanSliceOfLife0038Chapter38Regrets = {
   title: "Chapter 38: Regrets",
   ownLength: 1514,
   prose: "txt",
+  createdAt: "2026-09-08T14:04:44.026Z",
+  updatedAt: "2026-09-19T18:25:57.000Z",
 } as const satisfies StoryChapterRead

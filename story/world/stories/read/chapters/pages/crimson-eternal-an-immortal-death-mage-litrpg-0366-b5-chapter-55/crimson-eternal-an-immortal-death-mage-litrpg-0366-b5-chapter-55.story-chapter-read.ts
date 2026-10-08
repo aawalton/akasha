@@ -20,4 +20,6 @@ export const crimsonEternalAnImmortalDeathMageLitrpg0366B5Chapter55 = {
         "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/4023323/b5-chapter-55",
     },
   ],
+  createdAt: "2026-09-27T18:05:04.896Z",
+  updatedAt: "2026-09-28T20:27:12.000Z",
 } as const satisfies StoryChapterRead

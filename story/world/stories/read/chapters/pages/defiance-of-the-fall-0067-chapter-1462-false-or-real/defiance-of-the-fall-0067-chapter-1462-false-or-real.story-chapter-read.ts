@@ -19,4 +19,6 @@ export const defianceOfTheFall0067Chapter1462FalseOrReal = {
   story: "story-read/defiance-of-the-fall",
   ownLength: 2800,
   prose: "txt",
+  createdAt: "2026-09-20T18:05:54.535Z",
+  updatedAt: "2026-09-21T16:25:31.000Z",
 } as const satisfies StoryChapterRead

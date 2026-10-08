@@ -20,4 +20,6 @@ export const chooseYourApocalypseALitrpgApocalypseProgression0160Chapter158LifeB
         "https://www.royalroad.com/fiction/109427/choose-your-apocalypse-a-litrpg-apocalypse-progression/chapter/3904251/chapter-158-life-back-rations-and-destinations",
     },
   ],
+  createdAt: "2026-09-28T20:28:45.286Z",
+  updatedAt: "2026-09-28T20:28:46.000Z",
 } as const satisfies StoryChapterRead

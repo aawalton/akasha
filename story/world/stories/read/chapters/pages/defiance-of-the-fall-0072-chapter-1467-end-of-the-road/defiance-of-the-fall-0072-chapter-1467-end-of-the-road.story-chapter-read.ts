@@ -19,4 +19,6 @@ export const defianceOfTheFall0072Chapter1467EndOfTheRoad = {
         "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/4079368/chapter-1467-end-of-the-road",
     },
   ],
+  createdAt: "2026-10-06T18:04:58.860Z",
+  updatedAt: "2026-10-06T18:04:59.000Z",
 } as const satisfies StoryChapterRead

@@ -19,4 +19,6 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0058Chapter58OfDeepHolesAn
   ],
   publishedAt: "2025-10-23",
   prose: "txt",
+  createdAt: "2026-09-03T12:13:36.101Z",
+  updatedAt: "2026-09-19T18:25:57.000Z",
 } as const satisfies StoryChapterRead

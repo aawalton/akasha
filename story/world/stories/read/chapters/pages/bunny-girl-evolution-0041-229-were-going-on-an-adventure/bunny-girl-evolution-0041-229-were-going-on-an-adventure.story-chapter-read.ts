@@ -20,4 +20,6 @@ export const bunnyGirlEvolution0041229WereGoingOnAnAdventure = {
         "https://www.royalroad.com/fiction/90435/bunny-girl-evolution/chapter/4052012/229-were-going-on-an-adventure",
     },
   ],
+  createdAt: "2026-10-03T07:08:35.621Z",
+  updatedAt: "2026-10-03T23:04:50.000Z",
 } as const satisfies StoryChapterRead

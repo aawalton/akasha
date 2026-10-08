@@ -20,4 +20,6 @@ export const chooseYourApocalypseALitrpgApocalypseProgression0167Chapter165Repai
         "https://www.royalroad.com/fiction/109427/choose-your-apocalypse-a-litrpg-apocalypse-progression/chapter/4032120/chapter-165-repairs",
     },
   ],
+  createdAt: "2026-09-29T12:04:03.456Z",
+  updatedAt: "2026-09-29T16:07:06.000Z",
 } as const satisfies StoryChapterRead

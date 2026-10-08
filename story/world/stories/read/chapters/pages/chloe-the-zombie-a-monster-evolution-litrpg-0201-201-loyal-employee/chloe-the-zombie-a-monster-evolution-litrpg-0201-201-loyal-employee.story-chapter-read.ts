@@ -19,4 +19,6 @@ export const chloeTheZombieAMonsterEvolutionLitrpg0201201LoyalEmployee = {
         "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/4027604/201-loyal-employee",
     },
   ],
+  createdAt: "2026-09-28T16:08:46.422Z",
+  updatedAt: "2026-09-28T16:08:47.000Z",
 } as const satisfies StoryChapterRead

@@ -20,4 +20,6 @@ export const chooseYourApocalypseALitrpgApocalypseProgression0012Chapter14MageHu
         "https://www.royalroad.com/fiction/109427/choose-your-apocalypse-a-litrpg-apocalypse-progression/chapter/2181472/chapter-14-mage-hunters",
     },
   ],
+  createdAt: "2026-09-28T20:28:29.206Z",
+  updatedAt: "2026-09-28T20:28:30.000Z",
 } as const satisfies StoryChapterRead

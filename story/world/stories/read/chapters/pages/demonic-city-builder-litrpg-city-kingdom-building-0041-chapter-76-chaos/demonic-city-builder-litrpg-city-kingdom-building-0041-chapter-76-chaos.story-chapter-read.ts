@@ -19,4 +19,6 @@ export const demonicCityBuilderLitrpgCityKingdomBuilding0041Chapter76Chaos = {
         "https://www.royalroad.com/fiction/168862/demonic-city-builder-litrpg-city-kingdom-building/chapter/4005611/chapter-76-chaos",
     },
   ],
+  createdAt: "2026-09-24T12:53:15.963Z",
+  updatedAt: "2026-09-24T12:53:21.000Z",
 } as const satisfies StoryChapterRead

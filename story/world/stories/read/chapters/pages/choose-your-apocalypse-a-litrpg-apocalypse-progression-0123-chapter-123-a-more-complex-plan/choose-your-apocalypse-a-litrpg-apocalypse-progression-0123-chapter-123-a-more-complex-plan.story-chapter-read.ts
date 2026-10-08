@@ -20,4 +20,6 @@ export const chooseYourApocalypseALitrpgApocalypseProgression0123Chapter123AMore
         "https://www.royalroad.com/fiction/109427/choose-your-apocalypse-a-litrpg-apocalypse-progression/chapter/3280804/chapter-123-a-more-complex-plan",
     },
   ],
+  createdAt: "2026-09-28T20:28:39.893Z",
+  updatedAt: "2026-09-28T20:28:41.000Z",
 } as const satisfies StoryChapterRead

@@ -20,4 +20,6 @@ export const chrysalis0522Chapter1867CrinisPanics = {
         "https://www.royalroad.com/fiction/22518/chrysalis/chapter/4000121/chapter-1867-crinis-panics",
     },
   ],
+  createdAt: "2026-09-23T02:08:27.049Z",
+  updatedAt: "2026-09-28T20:27:12.000Z",
 } as const satisfies StoryChapterRead

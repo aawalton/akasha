@@ -20,4 +20,6 @@ export const catGirlEvolution0170167TheFrogThief = {
         "https://www.royalroad.com/fiction/129180/yona-cat-girl-evolution/chapter/4010908/167-the-frog-thief",
     },
   ],
+  createdAt: "2026-09-25T08:06:39.997Z",
+  updatedAt: "2026-09-28T20:27:10.000Z",
 } as const satisfies StoryChapterRead

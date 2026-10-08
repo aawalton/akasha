@@ -20,4 +20,6 @@ export const chrysalis0532Chapter1877RipAndTear = {
         "https://www.royalroad.com/fiction/22518/chrysalis/chapter/4080738/chapter-1877-rip-and-tear",
     },
   ],
+  createdAt: "2026-10-07T01:06:21.401Z",
+  updatedAt: "2026-10-07T02:09:00.000Z",
 } as const satisfies StoryChapterRead

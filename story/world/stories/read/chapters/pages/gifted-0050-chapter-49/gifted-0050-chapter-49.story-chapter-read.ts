@@ -19,4 +19,6 @@ export const gifted0050Chapter49 = {
       externalLink: "https://www.royalroad.com/fiction/181303/gifted/chapter/3906121/chapter-49",
     },
   ],
+  createdAt: "2026-09-28T20:27:46.968Z",
+  updatedAt: "2026-09-28T20:27:48.000Z",
 } as const satisfies StoryChapterRead

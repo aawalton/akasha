@@ -19,4 +19,6 @@ export const demonicCityBuilderLitrpgCityKingdomBuilding0043Chapter78Feast = {
         "https://www.royalroad.com/fiction/168862/demonic-city-builder-litrpg-city-kingdom-building/chapter/4015539/chapter-78-feast",
     },
   ],
+  createdAt: "2026-09-26T03:06:18.379Z",
+  updatedAt: "2026-09-26T03:06:20.000Z",
 } as const satisfies StoryChapterRead

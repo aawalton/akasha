@@ -19,4 +19,6 @@ export const fleshEaterDemonEvolutionLitrpg0129Chapter126Letter = {
         "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/4031035/chapter-126-letter",
     },
   ],
+  createdAt: "2026-09-29T06:05:29.208Z",
+  updatedAt: "2026-09-29T06:05:30.000Z",
 } as const satisfies StoryChapterRead

@@ -20,4 +20,6 @@ export const bunnyGirlEvolution0038226ASenseOfDejaVu = {
   story: "story-read/bunny-girl-evolution",
   ownLength: 2889,
   prose: "txt",
+  createdAt: "2026-09-22T08:04:57.895Z",
+  updatedAt: "2026-09-28T20:27:08.000Z",
 } as const satisfies StoryChapterRead

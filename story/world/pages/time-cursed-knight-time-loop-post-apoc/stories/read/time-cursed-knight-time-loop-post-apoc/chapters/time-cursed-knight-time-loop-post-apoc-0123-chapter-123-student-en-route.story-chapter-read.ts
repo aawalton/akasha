@@ -19,4 +19,6 @@ export const timeCursedKnightTimeLoopPostApoc0123Chapter123StudentEnRoute = {
   title: "Chapter 123: Student En Route",
   ownLength: 2257,
   prose: "txt",
+  createdAt: "2026-09-05T16:06:31.381Z",
+  updatedAt: "2026-09-19T18:25:57.000Z",
 } as const satisfies StoryChapterRead

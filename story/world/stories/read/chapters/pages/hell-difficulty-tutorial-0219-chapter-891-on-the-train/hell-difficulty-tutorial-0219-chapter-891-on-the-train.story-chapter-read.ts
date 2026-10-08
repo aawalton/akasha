@@ -19,4 +19,6 @@ export const hellDifficultyTutorial0219Chapter891OnTheTrain = {
         "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/4024053/chapter-891-on-the-train",
     },
   ],
+  createdAt: "2026-09-27T22:04:15.187Z",
+  updatedAt: "2026-09-27T22:04:16.000Z",
 } as const satisfies StoryChapterRead

@@ -19,4 +19,6 @@ export const demonicCityBuilderLitrpgCityKingdomBuilding0037Chapter73Interdepart
   story: "story-read/demonic-city-builder-litrpg-city-kingdom-building",
   ownLength: 3159,
   prose: "txt",
+  createdAt: "2026-09-22T03:04:13.051Z",
+  updatedAt: "2026-09-22T03:04:14.000Z",
 } as const satisfies StoryChapterRead

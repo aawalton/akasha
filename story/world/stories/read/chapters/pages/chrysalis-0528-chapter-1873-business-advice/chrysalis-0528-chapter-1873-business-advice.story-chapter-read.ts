@@ -20,4 +20,6 @@ export const chrysalis0528Chapter1873BusinessAdvice = {
         "https://www.royalroad.com/fiction/22518/chrysalis/chapter/4040634/chapter-1873-business-advice",
     },
   ],
+  createdAt: "2026-10-01T02:07:25.814Z",
+  updatedAt: "2026-10-03T02:07:21.000Z",
 } as const satisfies StoryChapterRead

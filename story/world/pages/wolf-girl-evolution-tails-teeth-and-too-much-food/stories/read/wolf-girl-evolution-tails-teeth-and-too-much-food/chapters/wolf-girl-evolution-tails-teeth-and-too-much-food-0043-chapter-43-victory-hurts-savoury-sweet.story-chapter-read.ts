@@ -19,4 +19,6 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0043Chapter43VictoryHurtsS
   ],
   publishedAt: "2025-10-02",
   prose: "txt",
+  createdAt: "2026-09-03T12:13:36.101Z",
+  updatedAt: "2026-09-19T18:25:57.000Z",
 } as const satisfies StoryChapterRead

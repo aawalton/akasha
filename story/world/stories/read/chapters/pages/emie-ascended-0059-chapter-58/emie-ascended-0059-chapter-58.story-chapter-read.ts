@@ -20,4 +20,6 @@ export const emieAscended0059Chapter58 = {
   story: "story-read/emie-ascended",
   ownLength: 1776,
   prose: "txt",
+  createdAt: "2026-09-20T05:04:46.034Z",
+  updatedAt: "2026-09-28T20:27:13.000Z",
 } as const satisfies StoryChapterRead

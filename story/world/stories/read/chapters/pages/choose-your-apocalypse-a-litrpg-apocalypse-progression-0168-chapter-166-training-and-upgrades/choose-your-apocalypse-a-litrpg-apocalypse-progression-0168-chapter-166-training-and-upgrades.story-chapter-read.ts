@@ -20,4 +20,6 @@ export const chooseYourApocalypseALitrpgApocalypseProgression0168Chapter166Train
         "https://www.royalroad.com/fiction/109427/choose-your-apocalypse-a-litrpg-apocalypse-progression/chapter/4077773/chapter-166-training-and-upgrades",
     },
   ],
+  createdAt: "2026-10-06T12:06:15.117Z",
+  updatedAt: "2026-10-06T13:05:40.000Z",
 } as const satisfies StoryChapterRead

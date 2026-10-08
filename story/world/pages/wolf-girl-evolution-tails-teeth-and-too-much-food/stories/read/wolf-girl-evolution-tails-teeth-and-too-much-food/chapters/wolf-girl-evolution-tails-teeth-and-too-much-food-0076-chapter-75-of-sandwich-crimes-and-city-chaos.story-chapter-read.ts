@@ -19,4 +19,6 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0076Chapter75OfSandwichCri
   ],
   publishedAt: "2025-12-01",
   prose: "txt",
+  createdAt: "2026-09-03T12:13:36.102Z",
+  updatedAt: "2026-09-19T18:25:57.000Z",
 } as const satisfies StoryChapterRead

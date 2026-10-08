@@ -20,4 +20,6 @@ export const catGirlEvolution0173170SafeWord = {
         "https://www.royalroad.com/fiction/129180/yona-cat-girl-evolution/chapter/4047561/170-safe-word",
     },
   ],
+  createdAt: "2026-10-02T13:04:44.502Z",
+  updatedAt: "2026-10-03T19:04:12.000Z",
 } as const satisfies StoryChapterRead

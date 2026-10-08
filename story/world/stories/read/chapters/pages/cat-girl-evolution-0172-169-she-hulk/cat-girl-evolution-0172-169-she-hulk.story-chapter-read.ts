@@ -20,4 +20,6 @@ export const catGirlEvolution0172169SheHulk = {
         "https://www.royalroad.com/fiction/129180/yona-cat-girl-evolution/chapter/4036474/169-she-hulk",
     },
   ],
+  createdAt: "2026-09-30T08:06:42.646Z",
+  updatedAt: "2026-10-02T01:04:48.000Z",
 } as const satisfies StoryChapterRead

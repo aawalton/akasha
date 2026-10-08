@@ -19,4 +19,6 @@ export const forgeOfDestiny0598Threads549Fantasia12 = {
         "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/4047477/threads-549-fantasia-12",
     },
   ],
+  createdAt: "2026-10-02T13:04:44.502Z",
+  updatedAt: "2026-10-02T13:04:45.000Z",
 } as const satisfies StoryChapterRead

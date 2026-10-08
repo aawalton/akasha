@@ -19,4 +19,6 @@ export const timeCursedKnightTimeLoopPostApoc0127Chapter127BloodBetweenStones = 
   story: "story-read/time-cursed-knight-time-loop-post-apoc",
   ownLength: 3104,
   prose: "txt",
+  createdAt: "2026-09-09T17:06:34.756Z",
+  updatedAt: "2026-09-19T18:25:57.000Z",
 } as const satisfies StoryChapterRead

@@ -20,4 +20,6 @@ export const chooseYourApocalypseALitrpgApocalypseProgression0002Chapter2Chapter
         "https://www.royalroad.com/fiction/109427/choose-your-apocalypse-a-litrpg-apocalypse-progression/chapter/2705197/chapter-2-chapter-4-initial-tutorial-selections",
     },
   ],
+  createdAt: "2026-09-28T20:28:29.206Z",
+  updatedAt: "2026-09-28T20:28:30.000Z",
 } as const satisfies StoryChapterRead

@@ -19,4 +19,6 @@ export const defianceOfTheFall0068Chapter1463PerceptionDecidesReality = {
         "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/4023430/chapter-1463-perception-decides-reality",
     },
   ],
+  createdAt: "2026-09-27T18:05:04.896Z",
+  updatedAt: "2026-09-27T18:05:05.000Z",
 } as const satisfies StoryChapterRead

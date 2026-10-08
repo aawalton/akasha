@@ -19,4 +19,6 @@ export const bookboundBunny0094B4Chapter5AWarmInvitation = {
         "https://www.royalroad.com/fiction/104261/bookbound-bunny/chapter/4041318/b4-chapter-5-a-warm-invitation",
     },
   ],
+  createdAt: "2026-10-01T07:08:40.481Z",
+  updatedAt: "2026-10-01T07:08:41.000Z",
 } as const satisfies StoryChapterRead

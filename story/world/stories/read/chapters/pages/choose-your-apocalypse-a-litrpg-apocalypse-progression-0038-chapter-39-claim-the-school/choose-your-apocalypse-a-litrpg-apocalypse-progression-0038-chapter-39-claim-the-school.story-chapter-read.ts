@@ -20,4 +20,6 @@ export const chooseYourApocalypseALitrpgApocalypseProgression0038Chapter39ClaimT
         "https://www.royalroad.com/fiction/109427/choose-your-apocalypse-a-litrpg-apocalypse-progression/chapter/2309141/chapter-39-claim-the-school",
     },
   ],
+  createdAt: "2026-09-28T20:28:34.591Z",
+  updatedAt: "2026-09-28T20:28:35.000Z",
 } as const satisfies StoryChapterRead

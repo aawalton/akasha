@@ -20,4 +20,6 @@ export const emieAscended0061Chapter60 = {
         "https://www.royalroad.com/fiction/170179/emie-ascended/chapter/4024912/chapter-60",
     },
   ],
+  createdAt: "2026-09-28T03:04:11.749Z",
+  updatedAt: "2026-09-28T20:27:13.000Z",
 } as const satisfies StoryChapterRead

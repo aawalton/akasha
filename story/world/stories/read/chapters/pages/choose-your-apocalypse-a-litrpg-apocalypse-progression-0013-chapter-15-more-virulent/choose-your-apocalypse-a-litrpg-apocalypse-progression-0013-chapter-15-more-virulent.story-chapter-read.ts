@@ -20,4 +20,6 @@ export const chooseYourApocalypseALitrpgApocalypseProgression0013Chapter15MoreVi
         "https://www.royalroad.com/fiction/109427/choose-your-apocalypse-a-litrpg-apocalypse-progression/chapter/2184447/chapter-15-more-virulent",
     },
   ],
+  createdAt: "2026-09-28T20:28:29.206Z",
+  updatedAt: "2026-09-28T20:28:30.000Z",
 } as const satisfies StoryChapterRead

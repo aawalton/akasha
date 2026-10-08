@@ -21,4 +21,6 @@ export const ultimateLevel1LitrpgBook11Stubs3100002Book4Recap = {
   ownProgress: 1257,
   completedAt: "2026-06-29T20:31:39.889Z",
   prose: "txt",
+  createdAt: "2026-09-03T12:13:34.764Z",
+  updatedAt: "2026-09-19T18:25:57.000Z",
 } as const satisfies StoryChapterRead

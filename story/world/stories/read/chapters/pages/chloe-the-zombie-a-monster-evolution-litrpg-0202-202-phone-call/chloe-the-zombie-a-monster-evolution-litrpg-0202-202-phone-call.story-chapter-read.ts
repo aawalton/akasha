@@ -19,4 +19,6 @@ export const chloeTheZombieAMonsterEvolutionLitrpg0202202PhoneCall = {
         "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/4048433/202-phone-call",
     },
   ],
+  createdAt: "2026-10-02T16:07:25.342Z",
+  updatedAt: "2026-10-02T16:07:27.000Z",
 } as const satisfies StoryChapterRead

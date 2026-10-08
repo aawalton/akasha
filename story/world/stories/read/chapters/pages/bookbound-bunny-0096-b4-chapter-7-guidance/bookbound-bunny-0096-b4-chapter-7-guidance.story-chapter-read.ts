@@ -19,4 +19,6 @@ export const bookboundBunny0096B4Chapter7Guidance = {
         "https://www.royalroad.com/fiction/104261/bookbound-bunny/chapter/4076755/b4-chapter-7-guidance",
     },
   ],
+  createdAt: "2026-10-06T07:06:35.550Z",
+  updatedAt: "2026-10-06T07:06:36.000Z",
 } as const satisfies StoryChapterRead

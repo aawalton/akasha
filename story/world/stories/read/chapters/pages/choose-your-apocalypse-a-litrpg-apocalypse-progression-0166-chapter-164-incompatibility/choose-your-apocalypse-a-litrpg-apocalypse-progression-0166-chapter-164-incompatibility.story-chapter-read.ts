@@ -20,4 +20,6 @@ export const chooseYourApocalypseALitrpgApocalypseProgression0166Chapter164Incom
         "https://www.royalroad.com/fiction/109427/choose-your-apocalypse-a-litrpg-apocalypse-progression/chapter/4007139/chapter-164-incompatibility",
     },
   ],
+  createdAt: "2026-09-28T20:28:45.286Z",
+  updatedAt: "2026-09-28T20:28:46.000Z",
 } as const satisfies StoryChapterRead

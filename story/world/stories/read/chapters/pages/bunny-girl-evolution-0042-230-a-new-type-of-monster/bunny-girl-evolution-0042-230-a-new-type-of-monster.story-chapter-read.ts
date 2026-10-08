@@ -20,4 +20,6 @@ export const bunnyGirlEvolution0042230ANewTypeOfMonster = {
         "https://www.royalroad.com/fiction/90435/bunny-girl-evolution/chapter/4076907/230-a-new-type-of-monster",
     },
   ],
+  createdAt: "2026-10-06T08:08:47.401Z",
+  updatedAt: "2026-10-06T11:05:35.000Z",
 } as const satisfies StoryChapterRead

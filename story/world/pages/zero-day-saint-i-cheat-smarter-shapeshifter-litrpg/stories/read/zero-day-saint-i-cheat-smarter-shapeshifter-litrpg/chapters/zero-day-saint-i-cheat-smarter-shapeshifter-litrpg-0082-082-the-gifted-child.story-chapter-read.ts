@@ -19,4 +19,6 @@ export const zeroDaySaintICheatSmarterShapeshifterLitrpg0082082TheGiftedChild = 
   story: "story-read/zero-day-saint-i-cheat-smarter-shapeshifter-litrpg",
   ownLength: 2311,
   prose: "txt",
+  createdAt: "2026-09-09T06:05:58.654Z",
+  updatedAt: "2026-09-19T18:25:57.000Z",
 } as const satisfies StoryChapterRead

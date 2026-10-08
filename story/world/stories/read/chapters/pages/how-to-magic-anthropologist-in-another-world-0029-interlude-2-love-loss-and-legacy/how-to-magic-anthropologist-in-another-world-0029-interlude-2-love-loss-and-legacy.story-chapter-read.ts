@@ -20,4 +20,6 @@ export const howToMagicAnthropologistInAnotherWorld0029Interlude2LoveLossAndLega
         "https://www.royalroad.com/fiction/70275/how-to-magic-anthropologist-in-another-world/chapter/2784263/interlude-2-love-loss-and-legacy",
     },
   ],
+  createdAt: "2026-09-28T20:28:18.753Z",
+  updatedAt: "2026-09-28T20:28:19.000Z",
 } as const satisfies StoryChapterRead

@@ -19,4 +19,6 @@ export const demonicCityBuilderLitrpgCityKingdomBuilding0040Chapter75Eager = {
         "https://www.royalroad.com/fiction/168862/demonic-city-builder-litrpg-city-kingdom-building/chapter/4005556/chapter-75-eager",
     },
   ],
+  createdAt: "2026-09-24T12:53:15.876Z",
+  updatedAt: "2026-09-24T12:53:21.000Z",
 } as const satisfies StoryChapterRead

@@ -19,4 +19,6 @@ export const hellDifficultyTutorial0223Chapter895ExchangingGreetings = {
         "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/4044844/chapter-895-exchanging-greetings",
     },
   ],
+  createdAt: "2026-10-01T22:06:40.660Z",
+  updatedAt: "2026-10-01T22:06:41.000Z",
 } as const satisfies StoryChapterRead

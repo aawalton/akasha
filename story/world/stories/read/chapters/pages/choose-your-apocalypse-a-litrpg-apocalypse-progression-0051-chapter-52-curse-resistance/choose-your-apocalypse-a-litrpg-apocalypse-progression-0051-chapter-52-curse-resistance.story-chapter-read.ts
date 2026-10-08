@@ -20,4 +20,6 @@ export const chooseYourApocalypseALitrpgApocalypseProgression0051Chapter52CurseR
         "https://www.royalroad.com/fiction/109427/choose-your-apocalypse-a-litrpg-apocalypse-progression/chapter/2436855/chapter-52-curse-resistance",
     },
   ],
+  createdAt: "2026-09-28T20:28:34.592Z",
+  updatedAt: "2026-09-28T20:28:35.000Z",
 } as const satisfies StoryChapterRead

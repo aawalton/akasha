@@ -20,4 +20,6 @@ export const howToMagicAnthropologistInAnotherWorld0045Chapter40TeamAndTrialB02c
         "https://www.royalroad.com/fiction/70275/how-to-magic-anthropologist-in-another-world/chapter/2952832/chapter-40-team-and-trial-b02c09",
     },
   ],
+  createdAt: "2026-09-28T20:28:23.942Z",
+  updatedAt: "2026-09-28T20:28:25.000Z",
 } as const satisfies StoryChapterRead

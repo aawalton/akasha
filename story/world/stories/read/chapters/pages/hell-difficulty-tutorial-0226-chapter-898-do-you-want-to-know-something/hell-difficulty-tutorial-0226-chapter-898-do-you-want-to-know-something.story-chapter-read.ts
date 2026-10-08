@@ -19,4 +19,6 @@ export const hellDifficultyTutorial0226Chapter898DoYouWantToKnowSomething = {
         "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/4080211/chapter-898-do-you-want-to-know-something",
     },
   ],
+  createdAt: "2026-10-06T22:06:02.744Z",
+  updatedAt: "2026-10-06T22:06:03.000Z",
 } as const satisfies StoryChapterRead

@@ -19,4 +19,6 @@ export const hellDifficultyTutorial0227Chapter899StillInProgress = {
         "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/4085387/chapter-899-still-in-progress",
     },
   ],
+  createdAt: "2026-10-07T22:09:00.018Z",
+  updatedAt: "2026-10-07T22:09:01.000Z",
 } as const satisfies StoryChapterRead

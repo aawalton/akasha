@@ -19,4 +19,6 @@ export const underworldBreadMageYuriProgfanSliceOfLife0040Chapter40Prep = {
   story: "story-read/underworld-bread-mage-yuri-progfan-slice-of-life",
   ownLength: 1472,
   prose: "txt",
+  createdAt: "2026-09-12T14:04:19.211Z",
+  updatedAt: "2026-09-19T18:25:57.000Z",
 } as const satisfies StoryChapterRead

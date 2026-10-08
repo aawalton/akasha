@@ -20,4 +20,6 @@ export const chooseYourApocalypseALitrpgApocalypseProgression0015Chapter17ClassS
         "https://www.royalroad.com/fiction/109427/choose-your-apocalypse-a-litrpg-apocalypse-progression/chapter/2189985/chapter-17-class-skills-and-spells",
     },
   ],
+  createdAt: "2026-09-28T20:28:29.206Z",
+  updatedAt: "2026-09-28T20:28:30.000Z",
 } as const satisfies StoryChapterRead

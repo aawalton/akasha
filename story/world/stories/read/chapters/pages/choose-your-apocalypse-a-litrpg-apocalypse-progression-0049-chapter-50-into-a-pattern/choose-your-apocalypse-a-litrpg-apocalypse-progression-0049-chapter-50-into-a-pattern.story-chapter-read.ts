@@ -20,4 +20,6 @@ export const chooseYourApocalypseALitrpgApocalypseProgression0049Chapter50IntoAP
         "https://www.royalroad.com/fiction/109427/choose-your-apocalypse-a-litrpg-apocalypse-progression/chapter/2418459/chapter-50-into-a-pattern",
     },
   ],
+  createdAt: "2026-09-28T20:28:34.592Z",
+  updatedAt: "2026-09-28T20:28:35.000Z",
 } as const satisfies StoryChapterRead

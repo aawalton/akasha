@@ -20,4 +20,6 @@ export const chooseYourApocalypseALitrpgApocalypseProgression0004Chapter6ErrorSt
         "https://www.royalroad.com/fiction/109427/choose-your-apocalypse-a-litrpg-apocalypse-progression/chapter/2151945/chapter-6-error-stats-and-leveling",
     },
   ],
+  createdAt: "2026-09-28T20:28:29.206Z",
+  updatedAt: "2026-09-28T20:28:30.000Z",
 } as const satisfies StoryChapterRead

@@ -19,4 +19,6 @@ export const thereIsNoEpicLootHereOnlyPuns0217195TaxEvasion2 = {
   ],
   publishedAt: "2023-12-18",
   prose: "txt",
+  createdAt: "2026-09-03T12:13:35.834Z",
+  updatedAt: "2026-09-19T18:25:57.000Z",
 } as const satisfies StoryChapterRead

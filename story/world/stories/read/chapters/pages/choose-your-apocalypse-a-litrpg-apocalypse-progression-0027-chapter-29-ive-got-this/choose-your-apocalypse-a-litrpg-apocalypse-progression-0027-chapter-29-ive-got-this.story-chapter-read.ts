@@ -20,4 +20,6 @@ export const chooseYourApocalypseALitrpgApocalypseProgression0027Chapter29IveGot
         "https://www.royalroad.com/fiction/109427/choose-your-apocalypse-a-litrpg-apocalypse-progression/chapter/2237457/chapter-29-ive-got-this",
     },
   ],
+  createdAt: "2026-09-28T20:28:34.591Z",
+  updatedAt: "2026-09-28T20:28:35.000Z",
 } as const satisfies StoryChapterRead

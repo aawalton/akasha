@@ -19,4 +19,6 @@ export const delverDungeonDivingAndMagicLitrpg0067Chapter64KeveVsTheCouncil = {
         "https://www.royalroad.com/fiction/169341/delver-dungeon-diving-and-magic-litrpg/chapter/4054374/chapter-64-keve-vs-the-council",
     },
   ],
+  createdAt: "2026-10-03T20:06:54.066Z",
+  updatedAt: "2026-10-03T20:06:55.000Z",
 } as const satisfies StoryChapterRead

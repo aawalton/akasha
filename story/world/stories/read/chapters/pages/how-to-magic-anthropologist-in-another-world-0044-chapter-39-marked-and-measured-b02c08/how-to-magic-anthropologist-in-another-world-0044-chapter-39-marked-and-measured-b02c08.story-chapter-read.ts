@@ -20,4 +20,6 @@ export const howToMagicAnthropologistInAnotherWorld0044Chapter39MarkedAndMeasure
         "https://www.royalroad.com/fiction/70275/how-to-magic-anthropologist-in-another-world/chapter/2939864/chapter-39-marked-and-measured-b02c08",
     },
   ],
+  createdAt: "2026-09-28T20:28:23.942Z",
+  updatedAt: "2026-09-28T20:28:25.000Z",
 } as const satisfies StoryChapterRead

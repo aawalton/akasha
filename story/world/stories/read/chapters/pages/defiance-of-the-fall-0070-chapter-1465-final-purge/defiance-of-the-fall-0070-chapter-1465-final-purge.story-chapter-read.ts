@@ -19,4 +19,6 @@ export const defianceOfTheFall0070Chapter1465FinalPurge = {
         "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/4044020/chapter-1465-final-purge",
     },
   ],
+  createdAt: "2026-10-01T18:08:52.639Z",
+  updatedAt: "2026-10-01T18:08:53.000Z",
 } as const satisfies StoryChapterRead

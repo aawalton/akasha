@@ -20,4 +20,6 @@ export const chrysalis0524B6c41UnwelcomeNorth = {
         "https://www.royalroad.com/fiction/22518/chrysalis/chapter/4006297/b6c41-unwelcome-north",
     },
   ],
+  createdAt: "2026-09-24T12:53:15.590Z",
+  updatedAt: "2026-09-28T20:27:12.000Z",
 } as const satisfies StoryChapterRead

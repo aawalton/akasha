@@ -19,4 +19,6 @@ export const demonicCityBuilderLitrpgCityKingdomBuilding0045Chapter80Inferno = {
         "https://www.royalroad.com/fiction/168862/demonic-city-builder-litrpg-city-kingdom-building/chapter/4024844/chapter-80-inferno",
     },
   ],
+  createdAt: "2026-09-28T03:04:11.748Z",
+  updatedAt: "2026-09-28T03:04:12.000Z",
 } as const satisfies StoryChapterRead

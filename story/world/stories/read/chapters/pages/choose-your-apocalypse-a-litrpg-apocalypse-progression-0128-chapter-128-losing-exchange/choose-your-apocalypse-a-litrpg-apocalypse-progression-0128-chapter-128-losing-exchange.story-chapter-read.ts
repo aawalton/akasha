@@ -20,4 +20,6 @@ export const chooseYourApocalypseALitrpgApocalypseProgression0128Chapter128Losin
         "https://www.royalroad.com/fiction/109427/choose-your-apocalypse-a-litrpg-apocalypse-progression/chapter/3357494/chapter-128-losing-exchange",
     },
   ],
+  createdAt: "2026-09-28T20:28:45.285Z",
+  updatedAt: "2026-09-28T20:28:46.000Z",
 } as const satisfies StoryChapterRead

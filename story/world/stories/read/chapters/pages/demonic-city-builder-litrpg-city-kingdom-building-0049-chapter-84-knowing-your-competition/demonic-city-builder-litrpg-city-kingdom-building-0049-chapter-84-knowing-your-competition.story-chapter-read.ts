@@ -19,4 +19,6 @@ export const demonicCityBuilderLitrpgCityKingdomBuilding0049Chapter84KnowingYour
         "https://www.royalroad.com/fiction/168862/demonic-city-builder-litrpg-city-kingdom-building/chapter/4040806/chapter-84-knowing-your-competition",
     },
   ],
+  createdAt: "2026-10-01T03:07:46.990Z",
+  updatedAt: "2026-10-01T03:07:47.000Z",
 } as const satisfies StoryChapterRead

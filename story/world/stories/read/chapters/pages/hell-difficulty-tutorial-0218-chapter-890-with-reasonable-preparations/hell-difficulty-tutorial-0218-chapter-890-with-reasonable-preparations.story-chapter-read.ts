@@ -19,4 +19,6 @@ export const hellDifficultyTutorial0218Chapter890WithReasonablePreparations = {
         "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/4009395/chapter-890-with-reasonable-preparations",
     },
   ],
+  createdAt: "2026-09-24T22:05:11.919Z",
+  updatedAt: "2026-09-24T22:05:13.000Z",
 } as const satisfies StoryChapterRead

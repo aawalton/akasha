@@ -19,4 +19,6 @@ export const cinnamonBun0622ChapterSixHundredAndSixKeepsakes = {
         "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/4084229/chapter-six-hundred-and-six-keepsakes",
     },
   ],
+  createdAt: "2026-10-07T18:04:59.726Z",
+  updatedAt: "2026-10-07T18:05:00.000Z",
 } as const satisfies StoryChapterRead

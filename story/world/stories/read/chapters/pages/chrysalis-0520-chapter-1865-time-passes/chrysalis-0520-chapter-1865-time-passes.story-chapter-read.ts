@@ -20,4 +20,6 @@ export const chrysalis0520Chapter1865TimePasses = {
   story: "story-read/chrysalis",
   ownLength: 1011,
   prose: "txt",
+  createdAt: "2026-09-21T04:07:08.678Z",
+  updatedAt: "2026-09-28T20:27:12.000Z",
 } as const satisfies StoryChapterRead

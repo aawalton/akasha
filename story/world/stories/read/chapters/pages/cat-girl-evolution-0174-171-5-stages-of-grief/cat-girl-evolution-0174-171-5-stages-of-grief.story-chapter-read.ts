@@ -20,4 +20,6 @@ export const catGirlEvolution01741715StagesOfGrief = {
         "https://www.royalroad.com/fiction/129180/yona-cat-girl-evolution/chapter/4060967/171-5-stages-of-grief",
     },
   ],
+  createdAt: "2026-10-05T08:04:49.616Z",
+  updatedAt: "2026-10-05T11:04:44.000Z",
 } as const satisfies StoryChapterRead

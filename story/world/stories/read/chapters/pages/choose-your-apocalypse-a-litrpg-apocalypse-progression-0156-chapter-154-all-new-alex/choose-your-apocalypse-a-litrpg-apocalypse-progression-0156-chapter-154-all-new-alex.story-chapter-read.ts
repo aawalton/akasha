@@ -20,4 +20,6 @@ export const chooseYourApocalypseALitrpgApocalypseProgression0156Chapter154AllNe
         "https://www.royalroad.com/fiction/109427/choose-your-apocalypse-a-litrpg-apocalypse-progression/chapter/3829559/chapter-154-all-new-alex",
     },
   ],
+  createdAt: "2026-09-28T20:28:45.286Z",
+  updatedAt: "2026-09-28T20:28:46.000Z",
 } as const satisfies StoryChapterRead

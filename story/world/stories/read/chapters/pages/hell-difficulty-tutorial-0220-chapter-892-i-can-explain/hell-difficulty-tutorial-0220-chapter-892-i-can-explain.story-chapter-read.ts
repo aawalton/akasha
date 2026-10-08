@@ -19,4 +19,6 @@ export const hellDifficultyTutorial0220Chapter892ICanExplain = {
         "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/4029518/chapter-892-i-can-explain",
     },
   ],
+  createdAt: "2026-09-28T23:05:06.389Z",
+  updatedAt: "2026-09-28T23:05:07.000Z",
 } as const satisfies StoryChapterRead

@@ -19,4 +19,6 @@ export const defianceOfTheFall0071Chapter1466Actualization = {
         "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/4058484/chapter-1466-actualization",
     },
   ],
+  createdAt: "2026-10-04T18:08:47.061Z",
+  updatedAt: "2026-10-04T18:08:48.000Z",
 } as const satisfies StoryChapterRead

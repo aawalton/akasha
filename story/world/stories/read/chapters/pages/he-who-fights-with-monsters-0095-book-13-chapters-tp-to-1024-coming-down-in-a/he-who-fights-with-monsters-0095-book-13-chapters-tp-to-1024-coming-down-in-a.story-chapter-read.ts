@@ -20,4 +20,6 @@ export const heWhoFightsWithMonsters0095Book13ChaptersTpTo1024ComingDownInA = {
   story: "story-read/he-who-fights-with-monsters",
   ownLength: 67,
   prose: "txt",
+  createdAt: "2026-09-21T15:05:00.744Z",
+  updatedAt: "2026-09-28T20:27:18.000Z",
 } as const satisfies StoryChapterRead

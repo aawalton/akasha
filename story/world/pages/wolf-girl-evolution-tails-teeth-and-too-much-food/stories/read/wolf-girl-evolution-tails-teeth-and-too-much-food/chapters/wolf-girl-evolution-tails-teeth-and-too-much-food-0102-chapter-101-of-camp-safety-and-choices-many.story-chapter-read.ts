@@ -19,4 +19,6 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0102Chapter101OfCampSafety
   ],
   publishedAt: "2026-02-18",
   prose: "txt",
+  createdAt: "2026-09-03T12:13:36.104Z",
+  updatedAt: "2026-09-19T18:25:57.000Z",
 } as const satisfies StoryChapterRead

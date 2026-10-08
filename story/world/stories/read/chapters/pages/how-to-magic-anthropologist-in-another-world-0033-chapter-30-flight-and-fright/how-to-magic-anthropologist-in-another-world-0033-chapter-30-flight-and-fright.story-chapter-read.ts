@@ -20,4 +20,6 @@ export const howToMagicAnthropologistInAnotherWorld0033Chapter30FlightAndFright 
         "https://www.royalroad.com/fiction/70275/how-to-magic-anthropologist-in-another-world/chapter/2825346/chapter-30-flight-and-fright",
     },
   ],
+  createdAt: "2026-09-28T20:28:18.754Z",
+  updatedAt: "2026-09-28T20:28:19.000Z",
 } as const satisfies StoryChapterRead

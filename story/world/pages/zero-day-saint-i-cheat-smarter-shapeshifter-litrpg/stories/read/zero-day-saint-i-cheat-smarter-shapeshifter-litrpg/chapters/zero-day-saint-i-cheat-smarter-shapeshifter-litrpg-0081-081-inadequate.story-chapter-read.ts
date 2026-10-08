@@ -19,4 +19,6 @@ export const zeroDaySaintICheatSmarterShapeshifterLitrpg0081081Inadequate = {
   title: "081 - (In)adequate",
   ownLength: 1905,
   prose: "txt",
+  createdAt: "2026-09-08T06:06:09.673Z",
+  updatedAt: "2026-09-19T18:25:57.000Z",
 } as const satisfies StoryChapterRead

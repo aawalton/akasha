@@ -19,4 +19,6 @@ export const demonicCityBuilderLitrpgCityKingdomBuilding0054Chapter88WelcomeToMi
         "https://www.royalroad.com/fiction/168862/demonic-city-builder-litrpg-city-kingdom-building/chapter/4075656/chapter-88-welcome-to-middle-management",
     },
   ],
+  createdAt: "2026-10-06T02:08:00.763Z",
+  updatedAt: "2026-10-06T02:08:01.000Z",
 } as const satisfies StoryChapterRead

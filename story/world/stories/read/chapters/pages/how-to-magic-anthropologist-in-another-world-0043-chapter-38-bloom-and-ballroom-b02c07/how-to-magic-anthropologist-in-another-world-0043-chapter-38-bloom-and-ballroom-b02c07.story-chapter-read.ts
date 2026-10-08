@@ -20,4 +20,6 @@ export const howToMagicAnthropologistInAnotherWorld0043Chapter38BloomAndBallroom
         "https://www.royalroad.com/fiction/70275/how-to-magic-anthropologist-in-another-world/chapter/2930559/chapter-38-bloom-and-ballroom-b02c07",
     },
   ],
+  createdAt: "2026-09-28T20:28:23.942Z",
+  updatedAt: "2026-09-28T20:28:25.000Z",
 } as const satisfies StoryChapterRead

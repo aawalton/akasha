@@ -19,4 +19,6 @@ export const forgeOfDestiny0595Threads546Fantasia9 = {
   story: "story-read/forge-of-destiny",
   ownLength: 1775,
   prose: "txt",
+  createdAt: "2026-09-22T01:06:19.849Z",
+  updatedAt: "2026-09-22T01:06:21.000Z",
 } as const satisfies StoryChapterRead

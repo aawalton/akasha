@@ -20,4 +20,6 @@ export const heWhoFightsWithMonsters0019Chapter1027APlaceWithinTheCosmicOrder = 
         "https://www.royalroad.com/fiction/26294/he-who-fights-with-monsters/chapter/4050521/chapter-1027-a-place-within-the-cosmic-order",
     },
   ],
+  createdAt: "2026-10-02T23:04:04.347Z",
+  updatedAt: "2026-10-03T22:05:10.000Z",
 } as const satisfies StoryChapterRead

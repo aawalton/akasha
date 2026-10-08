@@ -20,4 +20,6 @@ export const chrysalis0533Chapter1878PowerOfPractice = {
         "https://www.royalroad.com/fiction/22518/chrysalis/chapter/4086069/chapter-1878-power-of-practice",
     },
   ],
+  createdAt: "2026-10-08T01:04:09.611Z",
+  updatedAt: "2026-10-08T02:06:49.000Z",
 } as const satisfies StoryChapterRead

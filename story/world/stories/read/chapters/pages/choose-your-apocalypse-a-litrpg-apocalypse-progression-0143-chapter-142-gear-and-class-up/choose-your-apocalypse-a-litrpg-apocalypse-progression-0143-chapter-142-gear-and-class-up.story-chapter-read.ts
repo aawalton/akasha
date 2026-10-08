@@ -20,4 +20,6 @@ export const chooseYourApocalypseALitrpgApocalypseProgression0143Chapter142GearA
         "https://www.royalroad.com/fiction/109427/choose-your-apocalypse-a-litrpg-apocalypse-progression/chapter/3621287/chapter-142-gear-and-class-up",
     },
   ],
+  createdAt: "2026-09-28T20:28:45.285Z",
+  updatedAt: "2026-09-28T20:28:46.000Z",
 } as const satisfies StoryChapterRead

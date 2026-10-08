@@ -20,4 +20,6 @@ export const howToMagicAnthropologistInAnotherWorld0019Chapter18FireAndFury = {
         "https://www.royalroad.com/fiction/70275/how-to-magic-anthropologist-in-another-world/chapter/2686948/chapter-18-fire-and-fury",
     },
   ],
+  createdAt: "2026-09-28T20:28:18.753Z",
+  updatedAt: "2026-09-28T20:28:19.000Z",
 } as const satisfies StoryChapterRead

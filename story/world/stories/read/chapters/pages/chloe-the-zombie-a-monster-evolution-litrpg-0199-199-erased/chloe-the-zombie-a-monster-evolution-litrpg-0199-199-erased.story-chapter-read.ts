@@ -19,4 +19,6 @@ export const chloeTheZombieAMonsterEvolutionLitrpg0199199Erased = {
   story: "story-read/chloe-the-zombie-a-monster-evolution-litrpg",
   ownLength: 2020,
   prose: "txt",
+  createdAt: "2026-09-21T16:05:25.579Z",
+  updatedAt: "2026-09-21T16:25:31.000Z",
 } as const satisfies StoryChapterRead

@@ -19,4 +19,6 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0147Chapter144OfTunnelsTro
   ],
   publishedAt: "2026-07-27",
   prose: "txt",
+  createdAt: "2026-09-03T12:13:36.138Z",
+  updatedAt: "2026-09-19T18:25:57.000Z",
 } as const satisfies StoryChapterRead

@@ -19,4 +19,6 @@ export const fleshEaterDemonEvolutionLitrpg0130Chapter127SeasideHunting = {
         "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/4060042/chapter-127-seaside-hunting",
     },
   ],
+  createdAt: "2026-10-05T03:07:00.710Z",
+  updatedAt: "2026-10-05T03:07:01.000Z",
 } as const satisfies StoryChapterRead

@@ -19,4 +19,6 @@ export const godOfTrash0367367StruttinTheStreets = {
         "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/4004374/367-struttin-the-streets",
     },
   ],
+  createdAt: "2026-09-24T12:53:16.244Z",
+  updatedAt: "2026-09-24T12:53:21.000Z",
 } as const satisfies StoryChapterRead

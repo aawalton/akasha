@@ -20,4 +20,6 @@ export const chooseYourApocalypseALitrpgApocalypseProgression0081Chapter82ReKill
         "https://www.royalroad.com/fiction/109427/choose-your-apocalypse-a-litrpg-apocalypse-progression/chapter/2737268/chapter-82-re-kill-and-un-turn",
     },
   ],
+  createdAt: "2026-09-28T20:28:39.892Z",
+  updatedAt: "2026-09-28T20:28:41.000Z",
 } as const satisfies StoryChapterRead

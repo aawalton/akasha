@@ -20,4 +20,6 @@ export const howToMagicAnthropologistInAnotherWorld0053Chapter48RenewalAndRegene
         "https://www.royalroad.com/fiction/70275/how-to-magic-anthropologist-in-another-world/chapter/3054475/chapter-48-renewal-and-regeneration-b02c17",
     },
   ],
+  createdAt: "2026-09-28T20:28:23.942Z",
+  updatedAt: "2026-09-28T20:28:25.000Z",
 } as const satisfies StoryChapterRead

@@ -20,4 +20,6 @@ export const fiveElementOverlordICanUpgradeEverything0149Ch149BackToLingshiCity 
         "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/4009548/ch149-back-to-lingshi-city",
     },
   ],
+  createdAt: "2026-09-24T23:04:50.723Z",
+  updatedAt: "2026-09-28T20:27:17.000Z",
 } as const satisfies StoryChapterRead

@@ -19,4 +19,6 @@ export const timeCursedKnightTimeLoopPostApoc0125Chapter125WeGoShopping = {
   title: "Chapter 125: We Go Shopping",
   ownLength: 2113,
   prose: "txt",
+  createdAt: "2026-09-07T17:04:24.784Z",
+  updatedAt: "2026-09-19T18:25:57.000Z",
 } as const satisfies StoryChapterRead

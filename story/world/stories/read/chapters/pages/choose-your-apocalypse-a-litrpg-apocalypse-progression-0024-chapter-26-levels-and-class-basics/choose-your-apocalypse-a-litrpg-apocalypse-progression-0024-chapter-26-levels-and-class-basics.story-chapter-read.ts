@@ -20,4 +20,6 @@ export const chooseYourApocalypseALitrpgApocalypseProgression0024Chapter26Levels
         "https://www.royalroad.com/fiction/109427/choose-your-apocalypse-a-litrpg-apocalypse-progression/chapter/2224527/chapter-26-levels-and-class-basics",
     },
   ],
+  createdAt: "2026-09-28T20:28:29.206Z",
+  updatedAt: "2026-09-28T20:28:30.000Z",
 } as const satisfies StoryChapterRead

@@ -20,4 +20,6 @@ export const fiveElementOverlordICanUpgradeEverything0156Ch156RedMilkFruit = {
         "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/4066009/ch156-red-milk-fruit",
     },
   ],
+  createdAt: "2026-10-05T23:07:47.782Z",
+  updatedAt: "2026-10-06T02:08:01.000Z",
 } as const satisfies StoryChapterRead

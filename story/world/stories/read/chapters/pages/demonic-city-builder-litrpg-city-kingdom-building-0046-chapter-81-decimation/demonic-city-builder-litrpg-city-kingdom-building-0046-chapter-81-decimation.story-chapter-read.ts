@@ -19,4 +19,6 @@ export const demonicCityBuilderLitrpgCityKingdomBuilding0046Chapter81Decimation 
         "https://www.royalroad.com/fiction/168862/demonic-city-builder-litrpg-city-kingdom-building/chapter/4030541/chapter-81-decimation",
     },
   ],
+  createdAt: "2026-09-29T03:08:03.653Z",
+  updatedAt: "2026-09-29T03:08:06.000Z",
 } as const satisfies StoryChapterRead

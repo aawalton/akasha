@@ -19,4 +19,6 @@ export const demonicCityBuilderLitrpgCityKingdomBuilding0047Chapter82Aftermath =
         "https://www.royalroad.com/fiction/168862/demonic-city-builder-litrpg-city-kingdom-building/chapter/4030578/chapter-82-aftermath",
     },
   ],
+  createdAt: "2026-09-29T04:06:57.277Z",
+  updatedAt: "2026-09-29T04:06:58.000Z",
 } as const satisfies StoryChapterRead

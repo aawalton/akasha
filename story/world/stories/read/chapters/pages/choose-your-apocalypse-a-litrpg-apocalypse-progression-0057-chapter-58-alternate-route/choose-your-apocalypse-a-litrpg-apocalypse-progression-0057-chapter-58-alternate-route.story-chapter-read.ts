@@ -20,4 +20,6 @@ export const chooseYourApocalypseALitrpgApocalypseProgression0057Chapter58Altern
         "https://www.royalroad.com/fiction/109427/choose-your-apocalypse-a-litrpg-apocalypse-progression/chapter/2499140/chapter-58-alternate-route",
     },
   ],
+  createdAt: "2026-09-28T20:28:34.592Z",
+  updatedAt: "2026-09-28T20:28:35.000Z",
 } as const satisfies StoryChapterRead

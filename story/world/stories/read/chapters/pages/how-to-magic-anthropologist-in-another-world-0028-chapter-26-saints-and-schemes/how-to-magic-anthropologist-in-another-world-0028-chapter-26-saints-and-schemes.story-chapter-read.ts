@@ -20,4 +20,6 @@ export const howToMagicAnthropologistInAnotherWorld0028Chapter26SaintsAndSchemes
         "https://www.royalroad.com/fiction/70275/how-to-magic-anthropologist-in-another-world/chapter/2772600/chapter-26-saints-and-schemes",
     },
   ],
+  createdAt: "2026-09-28T20:28:18.753Z",
+  updatedAt: "2026-09-28T20:28:19.000Z",
 } as const satisfies StoryChapterRead

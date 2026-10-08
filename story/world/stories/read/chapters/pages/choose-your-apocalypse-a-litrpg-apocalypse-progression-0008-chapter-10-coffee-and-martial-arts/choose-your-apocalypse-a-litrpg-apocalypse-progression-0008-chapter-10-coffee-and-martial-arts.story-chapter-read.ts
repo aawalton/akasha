@@ -20,4 +20,6 @@ export const chooseYourApocalypseALitrpgApocalypseProgression0008Chapter10Coffee
         "https://www.royalroad.com/fiction/109427/choose-your-apocalypse-a-litrpg-apocalypse-progression/chapter/2165509/chapter-10-coffee-and-martial-arts",
     },
   ],
+  createdAt: "2026-09-28T20:28:29.206Z",
+  updatedAt: "2026-09-28T20:28:30.000Z",
 } as const satisfies StoryChapterRead

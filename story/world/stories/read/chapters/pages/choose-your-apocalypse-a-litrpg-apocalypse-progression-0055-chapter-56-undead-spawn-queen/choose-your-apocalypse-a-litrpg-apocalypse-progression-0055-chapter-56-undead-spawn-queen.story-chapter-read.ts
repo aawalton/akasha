@@ -20,4 +20,6 @@ export const chooseYourApocalypseALitrpgApocalypseProgression0055Chapter56Undead
         "https://www.royalroad.com/fiction/109427/choose-your-apocalypse-a-litrpg-apocalypse-progression/chapter/2475478/chapter-56-undead-spawn-queen",
     },
   ],
+  createdAt: "2026-09-28T20:28:34.592Z",
+  updatedAt: "2026-09-28T20:28:35.000Z",
 } as const satisfies StoryChapterRead

@@ -20,4 +20,6 @@ export const chrysalis0523Chapter1868Requiem = {
         "https://www.royalroad.com/fiction/22518/chrysalis/chapter/4005529/chapter-1868-requiem",
     },
   ],
+  createdAt: "2026-09-24T12:53:15.501Z",
+  updatedAt: "2026-09-28T20:27:12.000Z",
 } as const satisfies StoryChapterRead

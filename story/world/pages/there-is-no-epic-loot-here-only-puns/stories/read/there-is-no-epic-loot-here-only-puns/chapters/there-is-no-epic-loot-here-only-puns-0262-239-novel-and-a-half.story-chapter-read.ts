@@ -19,4 +19,6 @@ export const thereIsNoEpicLootHereOnlyPuns0262239NovelAndAHalf = {
   story: "story-read/there-is-no-epic-loot-here-only-puns",
   ownLength: 3611,
   prose: "txt",
+  createdAt: "2026-09-18T18:08:17.094Z",
+  updatedAt: "2026-09-19T18:25:57.000Z",
 } as const satisfies StoryChapterRead

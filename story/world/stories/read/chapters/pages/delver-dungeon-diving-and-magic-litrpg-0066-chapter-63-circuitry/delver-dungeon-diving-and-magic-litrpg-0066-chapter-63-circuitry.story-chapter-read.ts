@@ -19,4 +19,6 @@ export const delverDungeonDivingAndMagicLitrpg0066Chapter63Circuitry = {
         "https://www.royalroad.com/fiction/169341/delver-dungeon-diving-and-magic-litrpg/chapter/4039301/chapter-63-circuitry",
     },
   ],
+  createdAt: "2026-09-30T20:06:51.416Z",
+  updatedAt: "2026-09-30T20:06:53.000Z",
 } as const satisfies StoryChapterRead

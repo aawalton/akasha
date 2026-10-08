@@ -21,4 +21,6 @@ export const chooseYourApocalypseALitrpgApocalypseProgression0042Chapter43ThePot
           "https://www.royalroad.com/fiction/109427/choose-your-apocalypse-a-litrpg-apocalypse-progression/chapter/2345037/chapter-43-the-potential-of-inventory",
       },
     ],
+    createdAt: "2026-09-28T20:28:34.591Z",
+    updatedAt: "2026-09-28T20:28:35.000Z",
   } as const satisfies StoryChapterRead

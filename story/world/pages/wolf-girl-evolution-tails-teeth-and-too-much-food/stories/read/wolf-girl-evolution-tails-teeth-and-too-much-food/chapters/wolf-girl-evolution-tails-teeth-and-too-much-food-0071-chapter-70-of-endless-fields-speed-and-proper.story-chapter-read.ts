@@ -19,4 +19,6 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0071Chapter70OfEndlessFiel
   ],
   publishedAt: "2025-11-24",
   prose: "txt",
+  createdAt: "2026-09-03T12:13:36.102Z",
+  updatedAt: "2026-09-19T18:25:57.000Z",
 } as const satisfies StoryChapterRead

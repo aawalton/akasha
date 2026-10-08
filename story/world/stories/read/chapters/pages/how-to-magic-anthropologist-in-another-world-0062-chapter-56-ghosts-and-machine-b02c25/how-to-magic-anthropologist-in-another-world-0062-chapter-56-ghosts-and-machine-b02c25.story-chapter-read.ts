@@ -20,4 +20,6 @@ export const howToMagicAnthropologistInAnotherWorld0062Chapter56GhostsAndMachine
         "https://www.royalroad.com/fiction/70275/how-to-magic-anthropologist-in-another-world/chapter/3163050/chapter-56-ghosts-and-machine-b02c25",
     },
   ],
+  createdAt: "2026-09-28T20:28:23.942Z",
+  updatedAt: "2026-09-28T20:28:25.000Z",
 } as const satisfies StoryChapterRead

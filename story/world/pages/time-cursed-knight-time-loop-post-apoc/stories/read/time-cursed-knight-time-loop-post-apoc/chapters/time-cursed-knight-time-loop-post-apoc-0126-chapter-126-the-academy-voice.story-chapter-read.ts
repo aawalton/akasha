@@ -19,4 +19,6 @@ export const timeCursedKnightTimeLoopPostApoc0126Chapter126TheAcademyVoice = {
   title: "Chapter 126: The Academy Voice",
   ownLength: 3304,
   prose: "txt",
+  createdAt: "2026-09-08T19:05:13.369Z",
+  updatedAt: "2026-09-19T18:25:57.000Z",
 } as const satisfies StoryChapterRead

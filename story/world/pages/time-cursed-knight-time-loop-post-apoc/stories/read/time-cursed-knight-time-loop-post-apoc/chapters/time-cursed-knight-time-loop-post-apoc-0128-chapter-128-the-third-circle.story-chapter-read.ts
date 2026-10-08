@@ -19,4 +19,6 @@ export const timeCursedKnightTimeLoopPostApoc0128Chapter128TheThirdCircle = {
   story: "story-read/time-cursed-knight-time-loop-post-apoc",
   ownLength: 2580,
   prose: "txt",
+  createdAt: "2026-09-10T18:07:19.709Z",
+  updatedAt: "2026-09-19T18:25:57.000Z",
 } as const satisfies StoryChapterRead

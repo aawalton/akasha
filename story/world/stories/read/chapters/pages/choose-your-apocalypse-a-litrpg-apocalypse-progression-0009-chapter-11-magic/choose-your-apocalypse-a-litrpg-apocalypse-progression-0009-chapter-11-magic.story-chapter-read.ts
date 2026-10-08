@@ -20,4 +20,6 @@ export const chooseYourApocalypseALitrpgApocalypseProgression0009Chapter11Magic 
         "https://www.royalroad.com/fiction/109427/choose-your-apocalypse-a-litrpg-apocalypse-progression/chapter/2168243/chapter-11-magic",
     },
   ],
+  createdAt: "2026-09-28T20:28:29.206Z",
+  updatedAt: "2026-09-28T20:28:30.000Z",
 } as const satisfies StoryChapterRead

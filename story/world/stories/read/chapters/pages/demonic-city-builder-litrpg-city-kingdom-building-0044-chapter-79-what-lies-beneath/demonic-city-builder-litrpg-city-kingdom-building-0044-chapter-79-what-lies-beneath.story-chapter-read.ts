@@ -19,4 +19,6 @@ export const demonicCityBuilderLitrpgCityKingdomBuilding0044Chapter79WhatLiesBen
         "https://www.royalroad.com/fiction/168862/demonic-city-builder-litrpg-city-kingdom-building/chapter/4020128/chapter-79-what-lies-beneath",
     },
   ],
+  createdAt: "2026-09-27T03:04:55.434Z",
+  updatedAt: "2026-09-27T03:04:57.000Z",
 } as const satisfies StoryChapterRead

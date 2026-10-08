@@ -19,4 +19,6 @@ export const godOfTrash0372372BackAtItAgain = {
         "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/4064233/372-back-at-it-again",
     },
   ],
+  createdAt: "2026-10-05T20:07:23.738Z",
+  updatedAt: "2026-10-05T20:07:24.000Z",
 } as const satisfies StoryChapterRead

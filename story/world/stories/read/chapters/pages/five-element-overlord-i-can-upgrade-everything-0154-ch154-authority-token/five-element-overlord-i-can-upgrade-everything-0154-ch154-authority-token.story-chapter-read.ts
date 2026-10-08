@@ -20,4 +20,6 @@ export const fiveElementOverlordICanUpgradeEverything0154Ch154AuthorityToken = {
         "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/4044982/ch154-authority-token",
     },
   ],
+  createdAt: "2026-10-01T23:05:54.086Z",
+  updatedAt: "2026-10-02T15:07:02.000Z",
 } as const satisfies StoryChapterRead

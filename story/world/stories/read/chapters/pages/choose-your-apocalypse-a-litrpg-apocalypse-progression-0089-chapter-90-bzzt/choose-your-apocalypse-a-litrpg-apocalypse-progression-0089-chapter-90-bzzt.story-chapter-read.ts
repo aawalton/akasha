@@ -20,4 +20,6 @@ export const chooseYourApocalypseALitrpgApocalypseProgression0089Chapter90Bzzt =
         "https://www.royalroad.com/fiction/109427/choose-your-apocalypse-a-litrpg-apocalypse-progression/chapter/2817790/chapter-90-bzzt",
     },
   ],
+  createdAt: "2026-09-28T20:28:39.892Z",
+  updatedAt: "2026-09-28T20:28:41.000Z",
 } as const satisfies StoryChapterRead

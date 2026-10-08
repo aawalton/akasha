@@ -20,4 +20,6 @@ export const chrysalis0525Chapter1870LearnToFly = {
         "https://www.royalroad.com/fiction/22518/chrysalis/chapter/4024830/chapter-1870-learn-to-fly",
     },
   ],
+  createdAt: "2026-09-28T02:04:07.334Z",
+  updatedAt: "2026-09-28T20:27:12.000Z",
 } as const satisfies StoryChapterRead

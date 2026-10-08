@@ -21,4 +21,6 @@ export const chooseYourApocalypseALitrpgApocalypseProgression0011Chapter13Unease
           "https://www.royalroad.com/fiction/109427/choose-your-apocalypse-a-litrpg-apocalypse-progression/chapter/2173538/chapter-13-unease-cryptic-warnings-and-starter",
       },
     ],
+    createdAt: "2026-09-28T20:28:29.206Z",
+    updatedAt: "2026-09-28T20:28:30.000Z",
   } as const satisfies StoryChapterRead

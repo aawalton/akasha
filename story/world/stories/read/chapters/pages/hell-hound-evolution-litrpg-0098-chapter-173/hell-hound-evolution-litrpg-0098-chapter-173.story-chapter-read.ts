@@ -19,4 +19,6 @@ export const hellHoundEvolutionLitrpg0098Chapter173 = {
         "https://www.royalroad.com/fiction/129179/hell-hound-evolution-vol-1-stubbed/chapter/4085268/chapter-173",
     },
   ],
+  createdAt: "2026-10-07T22:09:00.019Z",
+  updatedAt: "2026-10-07T22:09:01.000Z",
 } as const satisfies StoryChapterRead

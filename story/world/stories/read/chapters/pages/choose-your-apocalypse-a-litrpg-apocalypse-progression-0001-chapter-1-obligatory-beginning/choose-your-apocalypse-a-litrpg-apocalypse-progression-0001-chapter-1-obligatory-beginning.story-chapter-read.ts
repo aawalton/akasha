@@ -20,4 +20,6 @@ export const chooseYourApocalypseALitrpgApocalypseProgression0001Chapter1Obligat
         "https://www.royalroad.com/fiction/109427/choose-your-apocalypse-a-litrpg-apocalypse-progression/chapter/2138101/chapter-1-obligatory-beginning",
     },
   ],
+  createdAt: "2026-09-28T20:28:29.206Z",
+  updatedAt: "2026-09-28T20:28:30.000Z",
 } as const satisfies StoryChapterRead

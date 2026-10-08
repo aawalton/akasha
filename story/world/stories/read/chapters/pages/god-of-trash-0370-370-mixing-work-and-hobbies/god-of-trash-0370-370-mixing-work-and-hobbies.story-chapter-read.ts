@@ -19,4 +19,6 @@ export const godOfTrash0370370MixingWorkAndHobbies = {
         "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/4039378/370-mixing-work-and-hobbies",
     },
   ],
+  createdAt: "2026-09-30T20:06:51.418Z",
+  updatedAt: "2026-09-30T20:06:53.000Z",
 } as const satisfies StoryChapterRead

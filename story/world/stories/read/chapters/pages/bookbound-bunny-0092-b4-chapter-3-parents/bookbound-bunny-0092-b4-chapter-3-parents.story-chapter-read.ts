@@ -19,4 +19,6 @@ export const bookboundBunny0092B4Chapter3Parents = {
         "https://www.royalroad.com/fiction/104261/bookbound-bunny/chapter/4006273/b4-chapter-3-parents",
     },
   ],
+  createdAt: "2026-09-24T12:53:15.359Z",
+  updatedAt: "2026-09-24T12:53:21.000Z",
 } as const satisfies StoryChapterRead

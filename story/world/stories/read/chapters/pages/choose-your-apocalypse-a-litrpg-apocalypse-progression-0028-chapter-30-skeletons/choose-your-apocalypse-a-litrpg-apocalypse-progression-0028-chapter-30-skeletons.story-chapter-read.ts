@@ -20,4 +20,6 @@ export const chooseYourApocalypseALitrpgApocalypseProgression0028Chapter30Skelet
         "https://www.royalroad.com/fiction/109427/choose-your-apocalypse-a-litrpg-apocalypse-progression/chapter/2240576/chapter-30-skeletons",
     },
   ],
+  createdAt: "2026-09-28T20:28:34.591Z",
+  updatedAt: "2026-09-28T20:28:35.000Z",
 } as const satisfies StoryChapterRead

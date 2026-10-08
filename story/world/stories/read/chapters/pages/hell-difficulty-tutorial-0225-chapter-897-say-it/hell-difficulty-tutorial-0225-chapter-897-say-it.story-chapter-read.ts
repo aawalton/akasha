@@ -19,4 +19,6 @@ export const hellDifficultyTutorial0225Chapter897SayIt = {
         "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/4064646/chapter-897-say-it",
     },
   ],
+  createdAt: "2026-10-05T22:08:15.815Z",
+  updatedAt: "2026-10-05T22:08:16.000Z",
 } as const satisfies StoryChapterRead

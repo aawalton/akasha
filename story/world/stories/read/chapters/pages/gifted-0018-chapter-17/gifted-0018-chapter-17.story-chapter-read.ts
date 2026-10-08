@@ -19,4 +19,6 @@ export const gifted0018Chapter17 = {
       externalLink: "https://www.royalroad.com/fiction/181303/gifted/chapter/3760451/chapter-17",
     },
   ],
+  createdAt: "2026-09-28T20:27:41.829Z",
+  updatedAt: "2026-09-28T20:27:42.000Z",
 } as const satisfies StoryChapterRead

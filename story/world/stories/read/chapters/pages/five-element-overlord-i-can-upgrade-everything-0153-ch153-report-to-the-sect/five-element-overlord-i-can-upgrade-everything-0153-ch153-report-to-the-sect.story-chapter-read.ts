@@ -20,4 +20,6 @@ export const fiveElementOverlordICanUpgradeEverything0153Ch153ReportToTheSect = 
         "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/4039959/ch153-report-to-the-sect",
     },
   ],
+  createdAt: "2026-09-30T23:05:00.588Z",
+  updatedAt: "2026-10-02T15:07:02.000Z",
 } as const satisfies StoryChapterRead

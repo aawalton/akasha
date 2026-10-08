@@ -20,4 +20,6 @@ export const howToMagicAnthropologistInAnotherWorld0003Chapter02ClericsAndHoly =
         "https://www.royalroad.com/fiction/70275/how-to-magic-anthropologist-in-another-world/chapter/2542010/chapter-02-clerics-and-holy",
     },
   ],
+  createdAt: "2026-09-28T20:28:18.753Z",
+  updatedAt: "2026-09-28T20:28:19.000Z",
 } as const satisfies StoryChapterRead

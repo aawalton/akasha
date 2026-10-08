@@ -20,4 +20,6 @@ export const chooseYourApocalypseALitrpgApocalypseProgression0016Chapter18Lights
         "https://www.royalroad.com/fiction/109427/choose-your-apocalypse-a-litrpg-apocalypse-progression/chapter/2192557/chapter-18-lights-out",
     },
   ],
+  createdAt: "2026-09-28T20:28:29.206Z",
+  updatedAt: "2026-09-28T20:28:30.000Z",
 } as const satisfies StoryChapterRead

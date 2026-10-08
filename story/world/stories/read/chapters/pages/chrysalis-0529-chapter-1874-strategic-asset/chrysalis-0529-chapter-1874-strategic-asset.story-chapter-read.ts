@@ -20,4 +20,6 @@ export const chrysalis0529Chapter1874StrategicAsset = {
         "https://www.royalroad.com/fiction/22518/chrysalis/chapter/4045643/chapter-1874-strategic-asset",
     },
   ],
+  createdAt: "2026-10-02T02:04:54.194Z",
+  updatedAt: "2026-10-03T02:07:21.000Z",
 } as const satisfies StoryChapterRead

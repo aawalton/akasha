@@ -19,4 +19,6 @@ export const fleshEaterDemonEvolutionLitrpg0128Chapter125Plotting = {
         "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/4006149/chapter-125-plotting",
     },
   ],
+  createdAt: "2026-09-24T12:53:16.147Z",
+  updatedAt: "2026-09-24T12:53:21.000Z",
 } as const satisfies StoryChapterRead

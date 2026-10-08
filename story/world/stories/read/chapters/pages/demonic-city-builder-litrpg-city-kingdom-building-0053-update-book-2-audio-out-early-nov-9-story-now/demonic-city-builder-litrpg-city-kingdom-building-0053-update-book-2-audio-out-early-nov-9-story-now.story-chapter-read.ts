@@ -19,4 +19,6 @@ export const demonicCityBuilderLitrpgCityKingdomBuilding0053UpdateBook2AudioOutE
         "https://www.royalroad.com/fiction/168862/demonic-city-builder-litrpg-city-kingdom-building/chapter/4048357/update-book-2-audio-out-early-nov-9-story-now",
     },
   ],
+  createdAt: "2026-10-02T16:07:25.343Z",
+  updatedAt: "2026-10-02T16:07:27.000Z",
 } as const satisfies StoryChapterRead

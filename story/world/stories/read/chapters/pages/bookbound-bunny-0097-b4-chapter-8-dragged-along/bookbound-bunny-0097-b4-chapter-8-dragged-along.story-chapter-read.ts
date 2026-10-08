@@ -19,4 +19,6 @@ export const bookboundBunny0097B4Chapter8DraggedAlong = {
         "https://www.royalroad.com/fiction/104261/bookbound-bunny/chapter/4086947/b4-chapter-8-dragged-along",
     },
   ],
+  createdAt: "2026-10-08T07:06:48.045Z",
+  updatedAt: "2026-10-08T07:06:49.000Z",
 } as const satisfies StoryChapterRead

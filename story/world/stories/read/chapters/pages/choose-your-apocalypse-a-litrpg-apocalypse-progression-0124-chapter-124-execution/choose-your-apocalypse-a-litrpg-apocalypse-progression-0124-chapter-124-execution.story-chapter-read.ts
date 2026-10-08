@@ -20,4 +20,6 @@ export const chooseYourApocalypseALitrpgApocalypseProgression0124Chapter124Execu
         "https://www.royalroad.com/fiction/109427/choose-your-apocalypse-a-litrpg-apocalypse-progression/chapter/3300301/chapter-124-execution",
     },
   ],
+  createdAt: "2026-09-28T20:28:39.893Z",
+  updatedAt: "2026-09-28T20:28:41.000Z",
 } as const satisfies StoryChapterRead

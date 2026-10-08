@@ -20,4 +20,6 @@ export const chooseYourApocalypseALitrpgApocalypseProgression0075Chapter76Fallen
         "https://www.royalroad.com/fiction/109427/choose-your-apocalypse-a-litrpg-apocalypse-progression/chapter/2680692/chapter-76-fallen",
     },
   ],
+  createdAt: "2026-09-28T20:28:39.891Z",
+  updatedAt: "2026-09-28T20:28:41.000Z",
 } as const satisfies StoryChapterRead

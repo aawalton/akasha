@@ -20,4 +20,6 @@ export const chooseYourApocalypseALitrpgApocalypseProgression0158Chapter156Clash
         "https://www.royalroad.com/fiction/109427/choose-your-apocalypse-a-litrpg-apocalypse-progression/chapter/3862816/chapter-156-clash-in-engineering",
     },
   ],
+  createdAt: "2026-09-28T20:28:45.286Z",
+  updatedAt: "2026-09-28T20:28:46.000Z",
 } as const satisfies StoryChapterRead

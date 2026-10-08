@@ -19,4 +19,6 @@ export const godOfTrash0373373ButtlingAround = {
         "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/4084961/373-buttling-around",
     },
   ],
+  createdAt: "2026-10-07T20:06:10.392Z",
+  updatedAt: "2026-10-07T20:06:11.000Z",
 } as const satisfies StoryChapterRead

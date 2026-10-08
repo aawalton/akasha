@@ -20,4 +20,6 @@ export const fiveElementOverlordICanUpgradeEverything0150Ch150BeingFollowed = {
         "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/4014806/ch150-being-followed",
     },
   ],
+  createdAt: "2026-09-25T23:05:23.140Z",
+  updatedAt: "2026-09-28T20:27:17.000Z",
 } as const satisfies StoryChapterRead

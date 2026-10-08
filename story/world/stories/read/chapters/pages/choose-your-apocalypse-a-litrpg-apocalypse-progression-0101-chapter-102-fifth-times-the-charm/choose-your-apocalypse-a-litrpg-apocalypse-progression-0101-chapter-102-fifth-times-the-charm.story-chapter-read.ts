@@ -20,4 +20,6 @@ export const chooseYourApocalypseALitrpgApocalypseProgression0101Chapter102Fifth
         "https://www.royalroad.com/fiction/109427/choose-your-apocalypse-a-litrpg-apocalypse-progression/chapter/2967659/chapter-102-fifth-times-the-charm",
     },
   ],
+  createdAt: "2026-09-28T20:28:39.892Z",
+  updatedAt: "2026-09-28T20:28:41.000Z",
 } as const satisfies StoryChapterRead

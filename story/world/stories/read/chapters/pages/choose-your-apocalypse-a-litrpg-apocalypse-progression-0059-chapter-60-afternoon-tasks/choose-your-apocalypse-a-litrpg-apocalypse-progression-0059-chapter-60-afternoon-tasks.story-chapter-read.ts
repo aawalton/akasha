@@ -20,4 +20,6 @@ export const chooseYourApocalypseALitrpgApocalypseProgression0059Chapter60Aftern
         "https://www.royalroad.com/fiction/109427/choose-your-apocalypse-a-litrpg-apocalypse-progression/chapter/2517349/chapter-60-afternoon-tasks",
     },
   ],
+  createdAt: "2026-09-28T20:28:34.592Z",
+  updatedAt: "2026-09-28T20:28:35.000Z",
 } as const satisfies StoryChapterRead

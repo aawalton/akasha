@@ -20,4 +20,6 @@ export const demonicCityBuilderLitrpgCityKingdomBuilding0038Book2StubsOctober9th
           "https://www.royalroad.com/fiction/168862/demonic-city-builder-litrpg-city-kingdom-building/chapter/3998906/book-2-stubs-october-9th-10th-release-details",
       },
     ],
+    createdAt: "2026-09-22T20:08:24.504Z",
+    updatedAt: "2026-09-22T20:08:26.000Z",
   } as const satisfies StoryChapterRead

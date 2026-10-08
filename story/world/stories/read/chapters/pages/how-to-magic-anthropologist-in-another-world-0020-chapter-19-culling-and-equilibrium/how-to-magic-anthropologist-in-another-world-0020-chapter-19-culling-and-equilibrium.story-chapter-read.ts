@@ -20,4 +20,6 @@ export const howToMagicAnthropologistInAnotherWorld0020Chapter19CullingAndEquili
         "https://www.royalroad.com/fiction/70275/how-to-magic-anthropologist-in-another-world/chapter/2694478/chapter-19-culling-and-equilibrium",
     },
   ],
+  createdAt: "2026-09-28T20:28:18.753Z",
+  updatedAt: "2026-09-28T20:28:19.000Z",
 } as const satisfies StoryChapterRead

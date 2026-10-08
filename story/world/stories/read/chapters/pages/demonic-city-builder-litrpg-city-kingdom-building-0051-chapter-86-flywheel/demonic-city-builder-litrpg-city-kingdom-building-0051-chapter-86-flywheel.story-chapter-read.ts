@@ -19,4 +19,6 @@ export const demonicCityBuilderLitrpgCityKingdomBuilding0051Chapter86Flywheel = 
         "https://www.royalroad.com/fiction/168862/demonic-city-builder-litrpg-city-kingdom-building/chapter/4045820/chapter-86-flywheel",
     },
   ],
+  createdAt: "2026-10-02T03:07:38.869Z",
+  updatedAt: "2026-10-02T03:07:39.000Z",
 } as const satisfies StoryChapterRead

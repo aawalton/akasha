@@ -19,4 +19,6 @@ export const demonicCityBuilderLitrpgCityKingdomBuilding0036InterludeIiTheCreato
   story: "story-read/demonic-city-builder-litrpg-city-kingdom-building",
   ownLength: 949,
   prose: "txt",
+  createdAt: "2026-09-21T00:06:35.572Z",
+  updatedAt: "2026-09-21T16:25:31.000Z",
 } as const satisfies StoryChapterRead

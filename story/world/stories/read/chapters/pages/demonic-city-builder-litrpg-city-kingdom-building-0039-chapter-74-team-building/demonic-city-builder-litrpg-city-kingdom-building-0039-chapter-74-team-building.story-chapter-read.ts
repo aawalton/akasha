@@ -19,4 +19,6 @@ export const demonicCityBuilderLitrpgCityKingdomBuilding0039Chapter74TeamBuildin
         "https://www.royalroad.com/fiction/168862/demonic-city-builder-litrpg-city-kingdom-building/chapter/3998915/chapter-74-team-building",
     },
   ],
+  createdAt: "2026-09-22T20:08:24.656Z",
+  updatedAt: "2026-09-22T20:08:26.000Z",
 } as const satisfies StoryChapterRead

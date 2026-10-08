@@ -20,4 +20,6 @@ export const ultimateLevel1LitrpgBook11Stubs3100007Book11Stubs310AlsoOtherStuffI
   ],
   publishedAt: "2026-03-03",
   prose: "txt",
+  createdAt: "2026-09-03T12:13:34.764Z",
+  updatedAt: "2026-09-28T20:27:42.000Z",
 } as const satisfies StoryChapterRead

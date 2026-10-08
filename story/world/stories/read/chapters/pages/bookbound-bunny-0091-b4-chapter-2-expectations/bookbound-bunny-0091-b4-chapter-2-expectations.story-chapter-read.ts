@@ -19,4 +19,6 @@ export const bookboundBunny0091B4Chapter2Expectations = {
   story: "story-read/bookbound-bunny",
   ownLength: 2224,
   prose: "txt",
+  createdAt: "2026-09-22T07:05:57.334Z",
+  updatedAt: "2026-09-22T07:05:58.000Z",
 } as const satisfies StoryChapterRead

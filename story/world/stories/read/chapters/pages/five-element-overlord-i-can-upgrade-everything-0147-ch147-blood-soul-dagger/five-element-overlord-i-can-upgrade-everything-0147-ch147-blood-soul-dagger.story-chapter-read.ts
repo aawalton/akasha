@@ -20,4 +20,6 @@ export const fiveElementOverlordICanUpgradeEverything0147Ch147BloodSoulDagger = 
         "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3999573/ch147-blood-soul-dagger",
     },
   ],
+  createdAt: "2026-09-22T23:05:02.220Z",
+  updatedAt: "2026-09-28T20:27:17.000Z",
 } as const satisfies StoryChapterRead

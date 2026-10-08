@@ -21,4 +21,6 @@ export const chooseYourApocalypseALitrpgApocalypseProgression0106Chapter107Wakef
           "https://www.royalroad.com/fiction/109427/choose-your-apocalypse-a-litrpg-apocalypse-progression/chapter/3032759/chapter-107-wakeful-experimentation",
       },
     ],
+    createdAt: "2026-09-28T20:28:39.892Z",
+    updatedAt: "2026-09-28T20:28:41.000Z",
   } as const satisfies StoryChapterRead

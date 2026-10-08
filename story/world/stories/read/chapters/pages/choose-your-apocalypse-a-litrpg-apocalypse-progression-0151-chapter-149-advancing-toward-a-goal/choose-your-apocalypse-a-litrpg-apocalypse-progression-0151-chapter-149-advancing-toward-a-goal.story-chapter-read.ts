@@ -20,4 +20,6 @@ export const chooseYourApocalypseALitrpgApocalypseProgression0151Chapter149Advan
         "https://www.royalroad.com/fiction/109427/choose-your-apocalypse-a-litrpg-apocalypse-progression/chapter/3745663/chapter-149-advancing-toward-a-goal",
     },
   ],
+  createdAt: "2026-09-28T20:28:45.286Z",
+  updatedAt: "2026-09-28T20:28:46.000Z",
 } as const satisfies StoryChapterRead

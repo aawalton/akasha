@@ -20,4 +20,6 @@ export const chooseYourApocalypseALitrpgApocalypseProgression0111Chapter112Wave1
         "https://www.royalroad.com/fiction/109427/choose-your-apocalypse-a-litrpg-apocalypse-progression/chapter/3094445/chapter-112-wave-1-final-push",
     },
   ],
+  createdAt: "2026-09-28T20:28:39.892Z",
+  updatedAt: "2026-09-28T20:28:41.000Z",
 } as const satisfies StoryChapterRead

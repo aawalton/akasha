@@ -20,4 +20,6 @@ export const fiveElementOverlordICanUpgradeEverything0148Ch148Cultivators = {
         "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/4004919/ch148-cultivators",
     },
   ],
+  createdAt: "2026-09-24T12:53:16.057Z",
+  updatedAt: "2026-09-28T20:27:17.000Z",
 } as const satisfies StoryChapterRead

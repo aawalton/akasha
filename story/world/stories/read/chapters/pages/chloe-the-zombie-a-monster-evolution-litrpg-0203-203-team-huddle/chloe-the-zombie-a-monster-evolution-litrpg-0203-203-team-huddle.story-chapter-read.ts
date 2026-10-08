@@ -19,4 +19,6 @@ export const chloeTheZombieAMonsterEvolutionLitrpg0203203TeamHuddle = {
         "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/4062875/203-team-huddle",
     },
   ],
+  createdAt: "2026-10-05T16:04:11.236Z",
+  updatedAt: "2026-10-05T16:04:12.000Z",
 } as const satisfies StoryChapterRead

@@ -19,4 +19,6 @@ export const heavenPiercingGiraffeOpMcXianxia0033Chapter33TheFirstTwoTransmigrat
         "https://www.royalroad.com/fiction/172357/heaven-piercing-giraffe/chapter/4006257/chapter-33-the-first-two-transmigrators-part-2",
     },
   ],
+  createdAt: "2026-09-24T12:53:16.332Z",
+  updatedAt: "2026-09-24T12:53:21.000Z",
 } as const satisfies StoryChapterRead

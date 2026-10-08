@@ -20,4 +20,6 @@ export const chrysalis0531Chapter1876NewBeginnings = {
         "https://www.royalroad.com/fiction/22518/chrysalis/chapter/4071521/chapter-1876-new-beginnings",
     },
   ],
+  createdAt: "2026-10-06T01:07:27.868Z",
+  updatedAt: "2026-10-06T11:05:35.000Z",
 } as const satisfies StoryChapterRead

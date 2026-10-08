@@ -20,4 +20,6 @@ export const chooseYourApocalypseALitrpgApocalypseProgression0164Chapter162Pirat
         "https://www.royalroad.com/fiction/109427/choose-your-apocalypse-a-litrpg-apocalypse-progression/chapter/3971747/chapter-162-pirate-system-4",
     },
   ],
+  createdAt: "2026-09-28T20:28:45.286Z",
+  updatedAt: "2026-09-28T20:28:46.000Z",
 } as const satisfies StoryChapterRead

@@ -19,4 +19,6 @@ export const cinnamonBun0621ChapterSixHundredAndFiveMovingHouse = {
         "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/4038402/chapter-six-hundred-and-five-moving-house",
     },
   ],
+  createdAt: "2026-09-30T17:08:11.639Z",
+  updatedAt: "2026-09-30T17:08:13.000Z",
 } as const satisfies StoryChapterRead

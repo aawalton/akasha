@@ -20,4 +20,6 @@ export const catGirlEvolution0171168YonaTheDevourer = {
         "https://www.royalroad.com/fiction/129180/yona-cat-girl-evolution/chapter/4025657/168-yona-the-devourer",
     },
   ],
+  createdAt: "2026-09-28T08:04:11.477Z",
+  updatedAt: "2026-09-28T20:27:10.000Z",
 } as const satisfies StoryChapterRead

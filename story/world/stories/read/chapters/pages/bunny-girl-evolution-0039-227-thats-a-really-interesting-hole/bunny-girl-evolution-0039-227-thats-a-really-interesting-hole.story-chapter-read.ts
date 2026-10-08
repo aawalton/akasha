@@ -20,4 +20,6 @@ export const bunnyGirlEvolution0039227ThatsAReallyInterestingHole = {
         "https://www.royalroad.com/fiction/90435/bunny-girl-evolution/chapter/4016354/227-thats-a-really-interesting-hole",
     },
   ],
+  createdAt: "2026-09-26T08:03:29.037Z",
+  updatedAt: "2026-09-28T20:27:08.000Z",
 } as const satisfies StoryChapterRead

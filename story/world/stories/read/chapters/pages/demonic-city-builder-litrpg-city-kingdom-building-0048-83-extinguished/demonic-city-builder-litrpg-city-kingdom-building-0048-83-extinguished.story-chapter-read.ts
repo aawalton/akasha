@@ -19,4 +19,6 @@ export const demonicCityBuilderLitrpgCityKingdomBuilding004883Extinguished = {
         "https://www.royalroad.com/fiction/168862/demonic-city-builder-litrpg-city-kingdom-building/chapter/4035520/83-extinguished",
     },
   ],
+  createdAt: "2026-09-30T02:07:31.164Z",
+  updatedAt: "2026-09-30T02:07:32.000Z",
 } as const satisfies StoryChapterRead

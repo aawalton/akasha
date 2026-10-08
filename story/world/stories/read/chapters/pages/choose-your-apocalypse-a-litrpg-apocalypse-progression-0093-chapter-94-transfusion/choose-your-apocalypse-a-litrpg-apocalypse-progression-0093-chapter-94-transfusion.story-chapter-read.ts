@@ -20,4 +20,6 @@ export const chooseYourApocalypseALitrpgApocalypseProgression0093Chapter94Transf
         "https://www.royalroad.com/fiction/109427/choose-your-apocalypse-a-litrpg-apocalypse-progression/chapter/2858586/chapter-94-transfusion",
     },
   ],
+  createdAt: "2026-09-28T20:28:39.892Z",
+  updatedAt: "2026-09-28T20:28:41.000Z",
 } as const satisfies StoryChapterRead

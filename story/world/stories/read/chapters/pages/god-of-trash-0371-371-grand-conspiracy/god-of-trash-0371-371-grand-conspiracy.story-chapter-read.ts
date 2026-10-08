@@ -19,4 +19,6 @@ export const godOfTrash0371371GrandConspiracy = {
         "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/4049848/371-grand-conspiracy",
     },
   ],
+  createdAt: "2026-10-02T20:06:10.227Z",
+  updatedAt: "2026-10-02T20:06:11.000Z",
 } as const satisfies StoryChapterRead

@@ -20,4 +20,6 @@ export const fiveElementOverlordICanUpgradeEverything0155Ch155Return = {
         "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/4050495/ch155-return",
     },
   ],
+  createdAt: "2026-10-02T23:04:04.347Z",
+  updatedAt: "2026-10-03T22:05:10.000Z",
 } as const satisfies StoryChapterRead

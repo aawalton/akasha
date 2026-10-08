@@ -19,4 +19,6 @@ export const demonicCityBuilderLitrpgCityKingdomBuilding0052Chapter87DigOrDie = 
         "https://www.royalroad.com/fiction/168862/demonic-city-builder-litrpg-city-kingdom-building/chapter/4045837/chapter-87-dig-or-die",
     },
   ],
+  createdAt: "2026-10-02T04:05:42.132Z",
+  updatedAt: "2026-10-02T04:05:43.000Z",
 } as const satisfies StoryChapterRead

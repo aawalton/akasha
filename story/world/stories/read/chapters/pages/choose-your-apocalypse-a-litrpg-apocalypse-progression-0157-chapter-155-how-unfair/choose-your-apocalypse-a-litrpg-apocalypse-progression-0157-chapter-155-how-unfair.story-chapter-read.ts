@@ -20,4 +20,6 @@ export const chooseYourApocalypseALitrpgApocalypseProgression0157Chapter155HowUn
         "https://www.royalroad.com/fiction/109427/choose-your-apocalypse-a-litrpg-apocalypse-progression/chapter/3838343/chapter-155-how-unfair",
     },
   ],
+  createdAt: "2026-09-28T20:28:45.286Z",
+  updatedAt: "2026-09-28T20:28:46.000Z",
 } as const satisfies StoryChapterRead

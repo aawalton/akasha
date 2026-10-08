@@ -20,4 +20,6 @@ export const fiveElementOverlordICanUpgradeEverything0152Ch152DemonLoot = {
         "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/4034884/ch152-demon-loot",
     },
   ],
+  createdAt: "2026-09-29T23:04:34.687Z",
+  updatedAt: "2026-10-02T15:07:02.000Z",
 } as const satisfies StoryChapterRead

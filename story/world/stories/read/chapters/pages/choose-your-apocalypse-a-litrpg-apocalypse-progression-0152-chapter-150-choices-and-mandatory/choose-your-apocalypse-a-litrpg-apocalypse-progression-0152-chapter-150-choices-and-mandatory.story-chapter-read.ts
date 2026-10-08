@@ -20,4 +20,6 @@ export const chooseYourApocalypseALitrpgApocalypseProgression0152Chapter150Choic
         "https://www.royalroad.com/fiction/109427/choose-your-apocalypse-a-litrpg-apocalypse-progression/chapter/3767682/chapter-150-choices-and-mandatory-sparring",
     },
   ],
+  createdAt: "2026-09-28T20:28:45.286Z",
+  updatedAt: "2026-09-28T20:28:46.000Z",
 } as const satisfies StoryChapterRead

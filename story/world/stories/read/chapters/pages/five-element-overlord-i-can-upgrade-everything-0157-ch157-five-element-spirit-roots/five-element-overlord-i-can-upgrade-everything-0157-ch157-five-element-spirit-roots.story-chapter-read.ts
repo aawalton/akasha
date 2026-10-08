@@ -20,4 +20,6 @@ export const fiveElementOverlordICanUpgradeEverything0157Ch157FiveElementSpiritR
         "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/4080367/ch157-five-element-spirit-roots",
     },
   ],
+  createdAt: "2026-10-06T23:09:29.494Z",
+  updatedAt: "2026-10-06T23:09:30.000Z",
 } as const satisfies StoryChapterRead

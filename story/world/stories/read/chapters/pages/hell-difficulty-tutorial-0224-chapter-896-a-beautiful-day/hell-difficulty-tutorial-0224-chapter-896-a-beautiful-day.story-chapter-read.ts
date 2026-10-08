@@ -19,4 +19,6 @@ export const hellDifficultyTutorial0224Chapter896ABeautifulDay = {
         "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/4059248/chapter-896-a-beautiful-day",
     },
   ],
+  createdAt: "2026-10-04T22:08:48.904Z",
+  updatedAt: "2026-10-04T22:08:49.000Z",
 } as const satisfies StoryChapterRead

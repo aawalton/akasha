@@ -19,4 +19,6 @@ export const chooseYourApocalypseALitrpgApocalypseProgression0169Chapter167AGrea
         "https://www.royalroad.com/fiction/109427/choose-your-apocalypse-a-litrpg-apocalypse-progression/chapter/4087724/chapter-167-a-great-plan",
     },
   ],
+  createdAt: "2026-10-08T12:06:22.588Z",
+  updatedAt: "2026-10-08T12:06:23.000Z",
 } as const satisfies StoryChapterRead

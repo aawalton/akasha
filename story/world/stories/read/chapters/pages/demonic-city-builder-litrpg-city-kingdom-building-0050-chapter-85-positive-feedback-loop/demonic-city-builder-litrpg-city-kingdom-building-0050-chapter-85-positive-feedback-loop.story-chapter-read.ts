@@ -19,4 +19,6 @@ export const demonicCityBuilderLitrpgCityKingdomBuilding0050Chapter85PositiveFee
         "https://www.royalroad.com/fiction/168862/demonic-city-builder-litrpg-city-kingdom-building/chapter/4040856/chapter-85-positive-feedback-loop",
     },
   ],
+  createdAt: "2026-10-01T04:07:30.000Z",
+  updatedAt: "2026-10-01T04:07:30.000Z",
 } as const satisfies StoryChapterRead

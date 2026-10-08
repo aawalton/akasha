@@ -19,4 +19,6 @@ export const delverDungeonDivingAndMagicLitrpg0065Chapter62NewMounts = {
         "https://www.royalroad.com/fiction/169341/delver-dungeon-diving-and-magic-litrpg/chapter/4004256/chapter-62-new-mounts",
     },
   ],
+  createdAt: "2026-09-24T12:53:15.780Z",
+  updatedAt: "2026-09-24T12:53:21.000Z",
 } as const satisfies StoryChapterRead

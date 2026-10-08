@@ -20,4 +20,6 @@ export const fiveElementOverlordICanUpgradeEverything0158Ch158MaturingRootsAndCa
         "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/4085614/ch158-maturing-roots-and-casting-spells",
     },
   ],
+  createdAt: "2026-10-07T23:05:16.343Z",
+  updatedAt: "2026-10-08T00:06:59.000Z",
 } as const satisfies StoryChapterRead

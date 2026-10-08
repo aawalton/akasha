@@ -20,4 +20,6 @@ export const chooseYourApocalypseALitrpgApocalypseProgression0052Chapter53Yoinki
         "https://www.royalroad.com/fiction/109427/choose-your-apocalypse-a-litrpg-apocalypse-progression/chapter/2442537/chapter-53-yoinking-some-candy",
     },
   ],
+  createdAt: "2026-09-28T20:28:34.592Z",
+  updatedAt: "2026-09-28T20:28:35.000Z",
 } as const satisfies StoryChapterRead

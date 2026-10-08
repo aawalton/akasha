@@ -20,4 +20,6 @@ export const chooseYourApocalypseALitrpgApocalypseProgression0159Chapter157Recov
         "https://www.royalroad.com/fiction/109427/choose-your-apocalypse-a-litrpg-apocalypse-progression/chapter/3871337/chapter-157-recovery-and-repair",
     },
   ],
+  createdAt: "2026-09-28T20:28:45.286Z",
+  updatedAt: "2026-09-28T20:28:46.000Z",
 } as const satisfies StoryChapterRead

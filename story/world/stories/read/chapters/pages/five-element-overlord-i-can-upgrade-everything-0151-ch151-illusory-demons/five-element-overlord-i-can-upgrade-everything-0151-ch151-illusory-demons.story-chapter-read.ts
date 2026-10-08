@@ -20,4 +20,6 @@ export const fiveElementOverlordICanUpgradeEverything0151Ch151IllusoryDemons = {
         "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/4029690/ch151-illusory-demons",
     },
   ],
+  createdAt: "2026-09-28T23:05:06.389Z",
+  updatedAt: "2026-09-29T03:08:06.000Z",
 } as const satisfies StoryChapterRead

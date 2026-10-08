@@ -19,4 +19,6 @@ export const defianceOfTheFall0069Chapter1464Bliss = {
         "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/4033719/chapter-1464-bliss",
     },
   ],
+  createdAt: "2026-09-29T18:06:16.828Z",
+  updatedAt: "2026-09-29T18:06:17.000Z",
 } as const satisfies StoryChapterRead

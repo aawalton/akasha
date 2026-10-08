@@ -19,4 +19,6 @@ export const timeCursedKnightTimeLoopPostApoc0099Chapter99OneHundred = {
   ],
   publishedAt: "2026-07-31",
   prose: "txt",
+  createdAt: "2026-09-03T12:13:36.092Z",
+  updatedAt: "2026-09-19T18:25:57.000Z",
 } as const satisfies StoryChapterRead

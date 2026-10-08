@@ -20,4 +20,6 @@ export const howToMagicAnthropologistInAnotherWorld0006Chapter05FashionAndFistic
         "https://www.royalroad.com/fiction/70275/how-to-magic-anthropologist-in-another-world/chapter/2569044/chapter-05-fashion-and-fisticuffs",
     },
   ],
+  createdAt: "2026-09-28T20:28:18.753Z",
+  updatedAt: "2026-09-28T20:28:19.000Z",
 } as const satisfies StoryChapterRead

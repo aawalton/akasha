@@ -19,4 +19,6 @@ export const chloeTheZombieAMonsterEvolutionLitrpg0200200FullHouse = {
         "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/4012731/200-full-house",
     },
   ],
+  createdAt: "2026-09-25T16:03:43.146Z",
+  updatedAt: "2026-09-25T16:03:45.000Z",
 } as const satisfies StoryChapterRead

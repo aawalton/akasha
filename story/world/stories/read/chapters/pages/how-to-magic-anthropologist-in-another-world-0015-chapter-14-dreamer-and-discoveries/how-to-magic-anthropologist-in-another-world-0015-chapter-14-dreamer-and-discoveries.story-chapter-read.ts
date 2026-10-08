@@ -20,4 +20,6 @@ export const howToMagicAnthropologistInAnotherWorld0015Chapter14DreamerAndDiscov
         "https://www.royalroad.com/fiction/70275/how-to-magic-anthropologist-in-another-world/chapter/2651719/chapter-14-dreamer-and-discoveries",
     },
   ],
+  createdAt: "2026-09-28T20:28:18.753Z",
+  updatedAt: "2026-09-28T20:28:19.000Z",
 } as const satisfies StoryChapterRead

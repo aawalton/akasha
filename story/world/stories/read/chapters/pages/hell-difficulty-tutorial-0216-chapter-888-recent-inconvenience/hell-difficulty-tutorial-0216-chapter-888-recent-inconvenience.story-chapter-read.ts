@@ -19,4 +19,6 @@ export const hellDifficultyTutorial0216Chapter888RecentInconvenience = {
         "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3999388/chapter-888-recent-inconvenience",
     },
   ],
+  createdAt: "2026-09-22T22:07:55.170Z",
+  updatedAt: "2026-09-22T22:07:59.000Z",
 } as const satisfies StoryChapterRead

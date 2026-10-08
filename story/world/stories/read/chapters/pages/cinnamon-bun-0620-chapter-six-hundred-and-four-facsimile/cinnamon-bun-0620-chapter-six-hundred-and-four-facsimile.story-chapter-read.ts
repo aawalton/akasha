@@ -19,4 +19,6 @@ export const cinnamonBun0620ChapterSixHundredAndFourFacsimile = {
         "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/4005252/chapter-six-hundred-and-four-facsimile",
     },
   ],
+  createdAt: "2026-09-24T12:53:15.688Z",
+  updatedAt: "2026-09-24T12:53:21.000Z",
 } as const satisfies StoryChapterRead

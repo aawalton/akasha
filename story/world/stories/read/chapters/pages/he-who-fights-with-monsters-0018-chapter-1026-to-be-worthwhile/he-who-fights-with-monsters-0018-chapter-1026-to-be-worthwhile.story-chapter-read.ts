@@ -20,4 +20,6 @@ export const heWhoFightsWithMonsters0018Chapter1026ToBeWorthwhile = {
         "https://www.royalroad.com/fiction/26294/he-who-fights-with-monsters/chapter/4039985/chapter-1026-to-be-worthwhile",
     },
   ],
+  createdAt: "2026-09-30T23:05:00.588Z",
+  updatedAt: "2026-10-02T02:04:55.000Z",
 } as const satisfies StoryChapterRead

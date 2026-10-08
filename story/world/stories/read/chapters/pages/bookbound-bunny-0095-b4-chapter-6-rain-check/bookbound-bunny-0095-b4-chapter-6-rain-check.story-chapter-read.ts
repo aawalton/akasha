@@ -19,4 +19,6 @@ export const bookboundBunny0095B4Chapter6RainCheck = {
         "https://www.royalroad.com/fiction/104261/bookbound-bunny/chapter/4051923/b4-chapter-6-rain-check",
     },
   ],
+  createdAt: "2026-10-03T07:08:35.620Z",
+  updatedAt: "2026-10-03T07:08:36.000Z",
 } as const satisfies StoryChapterRead

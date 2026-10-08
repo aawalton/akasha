@@ -19,4 +19,6 @@ export const demonicCityBuilderLitrpgCityKingdomBuilding0042Chapter77Pride = {
         "https://www.royalroad.com/fiction/168862/demonic-city-builder-litrpg-city-kingdom-building/chapter/4013828/chapter-77-pride",
     },
   ],
+  createdAt: "2026-09-25T19:05:01.025Z",
+  updatedAt: "2026-09-25T19:05:02.000Z",
 } as const satisfies StoryChapterRead

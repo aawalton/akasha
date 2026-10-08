@@ -20,4 +20,6 @@ export const howToMagicAnthropologistInAnotherWorld0052Chapter47TreeAndTearsB02c
         "https://www.royalroad.com/fiction/70275/how-to-magic-anthropologist-in-another-world/chapter/3033987/chapter-47-tree-and-tears-b02c16",
     },
   ],
+  createdAt: "2026-09-28T20:28:23.942Z",
+  updatedAt: "2026-09-28T20:28:25.000Z",
 } as const satisfies StoryChapterRead

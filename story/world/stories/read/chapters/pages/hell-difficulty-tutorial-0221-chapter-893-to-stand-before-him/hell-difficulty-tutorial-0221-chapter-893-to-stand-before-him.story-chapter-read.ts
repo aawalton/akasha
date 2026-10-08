@@ -19,4 +19,6 @@ export const hellDifficultyTutorial0221Chapter893ToStandBeforeHim = {
         "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/4034676/chapter-893-to-stand-before-him",
     },
   ],
+  createdAt: "2026-09-29T22:05:59.653Z",
+  updatedAt: "2026-09-29T22:06:00.000Z",
 } as const satisfies StoryChapterRead

@@ -19,4 +19,6 @@ export const timeCursedKnightTimeLoopPostApoc0039Chapter39TheImperialChronicle =
   ],
   publishedAt: "2026-05-08",
   prose: "txt",
+  createdAt: "2026-09-03T12:13:36.064Z",
+  updatedAt: "2026-09-19T18:25:57.000Z",
 } as const satisfies StoryChapterRead

@@ -20,4 +20,6 @@ export const chooseYourApocalypseALitrpgApocalypseProgression0150Chapter148Movin
         "https://www.royalroad.com/fiction/109427/choose-your-apocalypse-a-litrpg-apocalypse-progression/chapter/3736683/chapter-148-moving",
     },
   ],
+  createdAt: "2026-09-28T20:28:45.286Z",
+  updatedAt: "2026-09-28T20:28:46.000Z",
 } as const satisfies StoryChapterRead

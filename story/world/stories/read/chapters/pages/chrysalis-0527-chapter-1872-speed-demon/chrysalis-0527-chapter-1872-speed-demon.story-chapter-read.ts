@@ -20,4 +20,6 @@ export const chrysalis0527Chapter1872SpeedDemon = {
         "https://www.royalroad.com/fiction/22518/chrysalis/chapter/4035510/chapter-1872-speed-demon",
     },
   ],
+  createdAt: "2026-09-30T02:07:31.163Z",
+  updatedAt: "2026-10-02T16:07:27.000Z",
 } as const satisfies StoryChapterRead

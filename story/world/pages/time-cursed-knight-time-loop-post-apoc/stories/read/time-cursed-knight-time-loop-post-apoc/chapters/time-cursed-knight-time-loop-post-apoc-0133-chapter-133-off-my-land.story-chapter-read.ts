@@ -19,4 +19,6 @@ export const timeCursedKnightTimeLoopPostApoc0133Chapter133OffMyLand = {
   story: "story-read/time-cursed-knight-time-loop-post-apoc",
   ownLength: 2180,
   prose: "txt",
+  createdAt: "2026-09-17T18:03:50.425Z",
+  updatedAt: "2026-09-19T18:25:57.000Z",
 } as const satisfies StoryChapterRead

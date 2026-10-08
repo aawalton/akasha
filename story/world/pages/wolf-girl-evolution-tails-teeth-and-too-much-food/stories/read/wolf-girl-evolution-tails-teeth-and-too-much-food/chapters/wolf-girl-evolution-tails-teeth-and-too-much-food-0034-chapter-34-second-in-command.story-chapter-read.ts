@@ -19,4 +19,6 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0034Chapter34SecondInComma
   ],
   publishedAt: "2025-09-21",
   prose: "txt",
+  createdAt: "2026-09-03T12:13:36.100Z",
+  updatedAt: "2026-09-19T18:25:57.000Z",
 } as const satisfies StoryChapterRead

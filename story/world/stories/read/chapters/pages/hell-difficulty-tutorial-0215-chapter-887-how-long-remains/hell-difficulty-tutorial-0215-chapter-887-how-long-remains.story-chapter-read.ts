@@ -19,4 +19,6 @@ export const hellDifficultyTutorial0215Chapter887HowLongRemains = {
   story: "story-read/hell-difficulty-tutorial",
   ownLength: 2134,
   prose: "txt",
+  createdAt: "2026-09-21T22:07:15.733Z",
+  updatedAt: "2026-09-21T22:07:18.000Z",
 } as const satisfies StoryChapterRead

@@ -20,4 +20,6 @@ export const catGirlEvolution0169166FatefulMeeting = {
         "https://www.royalroad.com/fiction/129180/yona-cat-girl-evolution/chapter/4001036/166-fateful-meeting",
     },
   ],
+  createdAt: "2026-09-23T08:04:04.120Z",
+  updatedAt: "2026-09-28T20:27:10.000Z",
 } as const satisfies StoryChapterRead

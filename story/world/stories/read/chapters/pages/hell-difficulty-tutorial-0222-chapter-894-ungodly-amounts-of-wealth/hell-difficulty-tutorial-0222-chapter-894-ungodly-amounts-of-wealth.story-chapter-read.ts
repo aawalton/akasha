@@ -19,4 +19,6 @@ export const hellDifficultyTutorial0222Chapter894UngodlyAmountsOfWealth = {
         "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/4039765/chapter-894-ungodly-amounts-of-wealth",
     },
   ],
+  createdAt: "2026-09-30T22:04:43.341Z",
+  updatedAt: "2026-09-30T22:04:44.000Z",
 } as const satisfies StoryChapterRead

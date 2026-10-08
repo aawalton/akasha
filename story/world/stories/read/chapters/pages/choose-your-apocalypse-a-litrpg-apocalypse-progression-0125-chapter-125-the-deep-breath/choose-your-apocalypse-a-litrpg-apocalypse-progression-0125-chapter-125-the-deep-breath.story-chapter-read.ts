@@ -20,4 +20,6 @@ export const chooseYourApocalypseALitrpgApocalypseProgression0125Chapter125TheDe
         "https://www.royalroad.com/fiction/109427/choose-your-apocalypse-a-litrpg-apocalypse-progression/chapter/3308761/chapter-125-the-deep-breath",
     },
   ],
+  createdAt: "2026-09-28T20:28:45.285Z",
+  updatedAt: "2026-09-28T20:28:46.000Z",
 } as const satisfies StoryChapterRead

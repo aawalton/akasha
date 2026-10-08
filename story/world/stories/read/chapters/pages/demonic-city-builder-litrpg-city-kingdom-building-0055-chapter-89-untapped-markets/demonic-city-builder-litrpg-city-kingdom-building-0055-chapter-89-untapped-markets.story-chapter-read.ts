@@ -19,4 +19,6 @@ export const demonicCityBuilderLitrpgCityKingdomBuilding0055Chapter89UntappedMar
         "https://www.royalroad.com/fiction/168862/demonic-city-builder-litrpg-city-kingdom-building/chapter/4086502/chapter-89-untapped-markets",
     },
   ],
+  createdAt: "2026-10-08T04:07:48.631Z",
+  updatedAt: "2026-10-08T04:07:49.000Z",
 } as const satisfies StoryChapterRead

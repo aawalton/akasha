@@ -20,4 +20,6 @@ export const howToMagicAnthropologistInAnotherWorld0057Chapter51BoneAndStoneb02c
         "https://www.royalroad.com/fiction/70275/how-to-magic-anthropologist-in-another-world/chapter/3102535/chapter-51-bone-and-stoneb02c20",
     },
   ],
+  createdAt: "2026-09-28T20:28:23.942Z",
+  updatedAt: "2026-09-28T20:28:25.000Z",
 } as const satisfies StoryChapterRead
