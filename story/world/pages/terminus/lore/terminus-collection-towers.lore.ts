@@ -117,6 +117,14 @@ export const terminusCollectionTowers = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
+      fact: "A tower's throne sits on the inner face of the outer essence shell, beneath all the wreckage.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Reaching a throne means descending the tower through the whole depth of the wreckage.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
       fact: "A tower is claimed by sitting on its throne.",
       knowers: ["lore-disclosure/game-master"],
     },
@@ -346,5 +354,5 @@ export const terminusCollectionTowers = {
     },
   ],
   createdAt: "2026-10-08T19:30:37.295Z",
-  updatedAt: "2026-10-08T21:06:02.547Z",
+  updatedAt: "2026-10-08T21:07:09.533Z",
 } as const satisfies Lore
