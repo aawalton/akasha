@@ -9,4 +9,6 @@ export const auraOfCommand = {
   appearanceCount: 3,
   evolvesToSlugs: ["world-skill/aura-of-the-emissary"],
   references: "jsonl",
+  createdAt: "2026-09-03T04:10:00.558Z",
+  updatedAt: "2026-09-22T18:28:27.000Z",
 } as const satisfies WorldSkill

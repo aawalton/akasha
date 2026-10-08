@@ -6,4 +6,6 @@ export const bodyAspectOfTheJinn = {
   slug: "body-aspect-of-the-jinn",
   title: "Body: Aspect of the Jinn",
   world: "world/the-wandering-inn",
+  createdAt: "2026-09-03T04:10:00.566Z",
+  updatedAt: "2026-09-19T16:39:16.000Z",
 } as const satisfies WorldSkill

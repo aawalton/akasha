@@ -8,4 +8,6 @@ export const concealPresence = {
   world: "world/the-wandering-inn",
   appearanceCount: 1,
   references: "jsonl",
+  createdAt: "2026-09-03T04:10:00.572Z",
+  updatedAt: "2026-09-22T13:31:56.000Z",
 } as const satisfies WorldSkill

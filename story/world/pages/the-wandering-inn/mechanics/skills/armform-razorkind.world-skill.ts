@@ -9,4 +9,6 @@ export const armformRazorkind = {
   appearanceCount: 3,
   aliases: ["Armform (Razorkind)"],
   references: "jsonl",
+  createdAt: "2026-09-03T04:10:00.556Z",
+  updatedAt: "2026-09-22T13:31:32.000Z",
 } as const satisfies WorldSkill

@@ -6,4 +6,6 @@ export const bondOfSpeciesHumansGnolls = {
   slug: "bond-of-species-humans-gnolls",
   title: "Bond of Species (Humans, Gnolls)",
   world: "world/the-wandering-inn",
+  createdAt: "2026-09-03T04:10:00.567Z",
+  updatedAt: "2026-09-19T16:39:16.000Z",
 } as const satisfies WorldSkill

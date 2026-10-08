@@ -6,4 +6,6 @@ export const braggartyIWasThere = {
   slug: "braggarty-i-was-there",
   title: "Braggarty: I Was There",
   world: "world/the-wandering-inn",
+  createdAt: "2026-09-03T04:10:00.568Z",
+  updatedAt: "2026-09-19T16:39:16.000Z",
 } as const satisfies WorldSkill

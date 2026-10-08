@@ -6,4 +6,6 @@ export const auraOfRadiance = {
   slug: "aura-of-radiance",
   title: "Aura of Radiance",
   world: "world/the-wandering-inn",
+  createdAt: "2026-09-03T04:10:00.559Z",
+  updatedAt: "2026-09-19T16:38:36.000Z",
 } as const satisfies WorldSkill

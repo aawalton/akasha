@@ -10,4 +10,6 @@ export const coveringFire = {
   aliases: ["COVERING FIRE"],
   evolvesToSlugs: ["world-skill/covering-fire-piercing-arrows"],
   references: "jsonl",
+  createdAt: "2026-09-03T04:10:00.574Z",
+  updatedAt: "2026-09-22T18:28:27.000Z",
 } as const satisfies WorldSkill

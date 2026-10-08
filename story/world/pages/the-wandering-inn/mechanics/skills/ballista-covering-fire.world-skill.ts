@@ -6,4 +6,6 @@ export const ballistaCoveringFire = {
   slug: "ballista-covering-fire",
   title: "Ballista: Covering Fire",
   world: "world/the-wandering-inn",
+  createdAt: "2026-09-03T04:10:00.562Z",
+  updatedAt: "2026-09-19T16:38:36.000Z",
 } as const satisfies WorldSkill

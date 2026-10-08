@@ -6,4 +6,6 @@ export const brawlerSFootwork = {
   slug: "brawler-s-footwork",
   title: "Brawler’s Footwork",
   world: "world/the-wandering-inn",
+  createdAt: "2026-09-03T04:10:00.568Z",
+  updatedAt: "2026-09-19T16:39:16.000Z",
 } as const satisfies WorldSkill

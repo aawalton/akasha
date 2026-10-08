@@ -8,4 +8,6 @@ export const distillSimpleConcept = {
   world: "world/the-wandering-inn",
   appearanceCount: 2,
   references: "jsonl",
+  createdAt: "2026-09-03T04:10:00.580Z",
+  updatedAt: "2026-09-22T13:32:04.000Z",
 } as const satisfies WorldSkill

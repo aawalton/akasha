@@ -9,4 +9,6 @@ export const doubleSlash = {
   appearanceCount: 2,
   aliases: ["Double Slash"],
   references: "jsonl",
+  createdAt: "2026-09-03T04:10:00.581Z",
+  updatedAt: "2026-09-22T13:32:04.000Z",
 } as const satisfies WorldSkill

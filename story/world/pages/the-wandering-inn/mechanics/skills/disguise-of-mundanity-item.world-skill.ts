@@ -6,4 +6,6 @@ export const disguiseOfMundanityItem = {
   slug: "disguise-of-mundanity-item",
   title: "Disguise of Mundanity (Item)",
   world: "world/the-wandering-inn",
+  createdAt: "2026-09-03T04:10:00.580Z",
+  updatedAt: "2026-09-19T16:40:37.000Z",
 } as const satisfies WorldSkill

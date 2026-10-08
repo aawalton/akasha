@@ -9,4 +9,6 @@ export const birdSEyeView = {
   appearanceCount: 2,
   aliases: ["Bird’s-Eye View"],
   references: "jsonl",
+  createdAt: "2026-09-03T04:10:00.565Z",
+  updatedAt: "2026-09-22T13:31:40.000Z",
 } as const satisfies WorldSkill

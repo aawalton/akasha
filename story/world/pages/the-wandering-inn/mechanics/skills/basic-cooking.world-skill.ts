@@ -9,4 +9,6 @@ export const basicCooking = {
   appearanceCount: 23,
   evolvesToSlugs: ["world-skill/seafood-cooking"],
   references: "jsonl",
+  createdAt: "2026-09-03T04:10:00.563Z",
+  updatedAt: "2026-09-22T18:28:27.000Z",
 } as const satisfies WorldSkill

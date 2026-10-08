@@ -9,4 +9,6 @@ export const bruteSSwing = {
   appearanceCount: 2,
   evolvesToSlugs: ["world-skill/knight-s-riposte"],
   references: "jsonl",
+  createdAt: "2026-09-03T04:10:00.569Z",
+  updatedAt: "2026-09-22T18:28:27.000Z",
 } as const satisfies WorldSkill

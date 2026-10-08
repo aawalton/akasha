@@ -8,4 +8,6 @@ export const bodyStoredEnergy = {
   world: "world/the-wandering-inn",
   appearanceCount: 1,
   references: "jsonl",
+  createdAt: "2026-09-03T04:10:00.567Z",
+  updatedAt: "2026-09-22T13:31:48.000Z",
 } as const satisfies WorldSkill
