@@ -19,4 +19,6 @@ export const agentMessageBody = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-03T16:26:42.683Z",
+  updatedAt: "2026-09-25T17:58:49.000Z",
 } as const satisfies TextProperty

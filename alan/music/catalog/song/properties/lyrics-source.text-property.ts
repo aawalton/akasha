@@ -9,4 +9,6 @@ export const lyricsSource = {
   maxLength: 100,
   nameFormat: null,
   types: "ts",
+  createdAt: "2026-09-02T13:15:58.411Z",
+  updatedAt: "2026-09-22T13:45:29.000Z",
 } as const satisfies TextProperty

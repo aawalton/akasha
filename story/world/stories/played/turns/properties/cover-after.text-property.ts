@@ -23,4 +23,6 @@ export const coverAfter = {
     },
   ],
   types: "ts",
+  createdAt: "2026-10-02T17:18:15.933Z",
+  updatedAt: "2026-10-02T18:32:43.000Z",
 } as const satisfies TextProperty

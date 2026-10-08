@@ -8,4 +8,6 @@ export const cloudrest = {
   zoneQuests: "jsonl",
   itemBrowserPlaceKind: 4,
   esoZoneId: 1051,
+  createdAt: "2026-09-02T09:14:16.380Z",
+  updatedAt: "2026-09-25T18:37:34.000Z",
 } as const satisfies TemperWorldZone

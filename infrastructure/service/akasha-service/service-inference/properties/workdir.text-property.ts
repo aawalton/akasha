@@ -19,4 +19,6 @@ export const workdir = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-11T13:07:55.544Z",
+  updatedAt: "2026-09-24T19:06:05.000Z",
 } as const satisfies TextProperty

@@ -27,4 +27,6 @@ export const keptSenses = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-01T14:56:42.819Z",
+  updatedAt: "2026-09-22T14:07:45.000Z",
 } as const satisfies TextProperty

@@ -23,4 +23,6 @@ export const extensions = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-11T01:40:07.946Z",
+  updatedAt: "2026-09-22T13:59:20.000Z",
 } as const satisfies TextProperty

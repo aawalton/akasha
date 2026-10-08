@@ -9,4 +9,6 @@ export const evidenceNote = {
   maxLength: 500,
   nameFormat: null,
   types: "ts",
+  createdAt: "2026-09-03T04:34:04.225Z",
+  updatedAt: "2026-09-19T05:05:02.000Z",
 } as const satisfies TextProperty

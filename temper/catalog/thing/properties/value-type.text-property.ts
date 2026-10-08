@@ -9,4 +9,6 @@ export const valueType = {
   maxLength: 100,
   nameFormat: "name-format/lower-kebab-case",
   types: "ts",
+  createdAt: "2026-09-02T02:09:04.551Z",
+  updatedAt: "2026-09-15T17:21:40.000Z",
 } as const satisfies TextProperty

@@ -19,4 +19,6 @@ export const gameName = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-27T04:11:16.430Z",
+  updatedAt: "2026-09-27T04:11:30.000Z",
 } as const satisfies TextProperty

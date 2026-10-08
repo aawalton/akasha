@@ -23,4 +23,6 @@ export const deviceTokenToken = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-01T16:22:28.570Z",
+  updatedAt: "2026-09-22T23:33:17.000Z",
 } as const satisfies TextProperty

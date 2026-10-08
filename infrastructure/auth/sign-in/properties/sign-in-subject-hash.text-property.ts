@@ -20,4 +20,6 @@ export const signInSubjectHash = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-19T18:24:59.768Z",
+  updatedAt: "2026-09-19T18:26:16.000Z",
 } as const satisfies TextProperty

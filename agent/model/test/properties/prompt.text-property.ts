@@ -9,4 +9,6 @@ export const prompt = {
   maxLength: 6000,
   nameFormat: null,
   types: "ts",
+  createdAt: "2026-08-30T18:25:32.452Z",
+  updatedAt: "2026-09-25T17:55:47.000Z",
 } as const satisfies TextProperty

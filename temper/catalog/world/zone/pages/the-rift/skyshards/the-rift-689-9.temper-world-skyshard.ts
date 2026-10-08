@@ -12,4 +12,6 @@ export const theRift6899 = {
     { mapFolder: "therift", mapTile: "riften_base", mapX: 0.798, mapY: 0.185 },
     { mapFolder: "therift", mapTile: "therift_base", mapX: 0.719, mapY: 0.445 },
   ],
+  createdAt: "2026-09-25T00:03:54.354Z",
+  updatedAt: "2026-09-25T00:03:57.000Z",
 } as const satisfies TemperWorldSkyshard

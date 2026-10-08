@@ -7,4 +7,6 @@ export const northernElsweyr = {
   title: "Northern Elsweyr",
   dropsScripts: true,
   isDlc: true,
+  createdAt: "2026-05-11T16:22:57.216Z",
+  updatedAt: "2026-09-21T15:28:00.000Z",
 } as const satisfies TemperZone

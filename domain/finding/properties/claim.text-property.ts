@@ -9,4 +9,6 @@ export const claim = {
   maxLength: 1000,
   nameFormat: null,
   types: "ts",
+  createdAt: "2026-08-29T04:27:40.612Z",
+  updatedAt: "2026-09-15T17:18:57.000Z",
 } as const satisfies TextProperty

@@ -9,4 +9,6 @@ export const toPattern = {
   maxLength: 100,
   nameFormat: null,
   types: "ts",
+  createdAt: "2026-09-08T18:00:22.159Z",
+  updatedAt: "2026-09-25T15:41:48.000Z",
 } as const satisfies TextProperty

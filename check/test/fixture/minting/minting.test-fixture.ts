@@ -44,4 +44,6 @@ export const minting = {
       statement: "Nothing here reaches a fixture beside another module.",
     },
   ],
+  createdAt: "2026-08-29T15:46:38.033Z",
+  updatedAt: "2026-09-22T13:48:15.000Z",
 } as const satisfies TestFixture

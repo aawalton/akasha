@@ -52,4 +52,6 @@ export const declaring = {
         "A page naming its type by an address is filed under the slug that address ends in.",
     },
   ],
+  createdAt: "2026-08-29T20:55:59.277Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies TestFixture

@@ -16,4 +16,6 @@ export const pageHolding = {
       statement: "A path is said from the repository root.",
     },
   ],
+  createdAt: "2026-09-07T12:28:16.931Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies TestFixture

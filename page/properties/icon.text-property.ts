@@ -27,4 +27,6 @@ export const icon = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-02T01:12:12.932Z",
+  updatedAt: "2026-09-24T19:52:49.000Z",
 } as const satisfies TextProperty

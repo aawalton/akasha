@@ -7,4 +7,6 @@ export const imperialSewers = {
   title: "Imperial Sewers",
   esoZoneId: 643,
   itemBrowserPlaceKind: 2,
+  createdAt: "2026-09-25T18:37:29.545Z",
+  updatedAt: "2026-09-25T18:37:34.000Z",
 } as const satisfies TemperWorldZone

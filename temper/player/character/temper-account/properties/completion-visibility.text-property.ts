@@ -9,4 +9,6 @@ export const completionVisibility = {
   maxLength: 100,
   nameFormat: "name-format/lower-kebab-case",
   types: "ts",
+  createdAt: "2026-09-02T01:48:48.343Z",
+  updatedAt: "2026-09-24T16:58:05.000Z",
 } as const satisfies TextProperty

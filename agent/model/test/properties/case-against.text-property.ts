@@ -15,4 +15,6 @@ export const caseAgainst = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-11T14:25:59.400Z",
+  updatedAt: "2026-09-22T13:54:40.000Z",
 } as const satisfies TextProperty

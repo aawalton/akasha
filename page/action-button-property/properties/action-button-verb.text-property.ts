@@ -19,4 +19,6 @@ export const actionButtonVerb = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-21T21:59:40.214Z",
+  updatedAt: "2026-09-22T14:08:50.000Z",
 } as const satisfies TextProperty

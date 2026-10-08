@@ -9,4 +9,6 @@ export const validRoles = {
   maxLength: 100,
   nameFormat: "name-format/lower-kebab-case",
   types: "ts",
+  createdAt: "2026-09-02T01:50:33.726Z",
+  updatedAt: "2026-09-21T15:26:51.000Z",
 } as const satisfies TextProperty

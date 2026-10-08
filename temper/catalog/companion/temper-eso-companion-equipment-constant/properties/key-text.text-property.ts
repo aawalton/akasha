@@ -9,4 +9,6 @@ export const keyText = {
   maxLength: 100,
   nameFormat: null,
   types: "ts",
+  createdAt: "2026-09-02T01:50:05.930Z",
+  updatedAt: "2026-09-22T13:57:31.000Z",
 } as const satisfies TextProperty

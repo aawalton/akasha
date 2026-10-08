@@ -27,4 +27,6 @@ export const reachedByPath = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-14T22:04:03.304Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies TextProperty

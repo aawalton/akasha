@@ -9,4 +9,6 @@ export const countName = {
   maxLength: 100,
   nameFormat: null,
   types: "ts",
+  createdAt: "2026-09-24T18:24:50.712Z",
+  updatedAt: "2026-09-24T18:24:58.000Z",
 } as const satisfies TextProperty

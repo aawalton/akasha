@@ -9,4 +9,6 @@ export const tunnelRouteName = {
   maxLength: 63,
   nameFormat: "name-format/lower-kebab-case",
   types: "ts",
+  createdAt: "2026-09-22T00:37:14.445Z",
+  updatedAt: "2026-09-22T00:49:17.000Z",
 } as const satisfies TextProperty

@@ -12,4 +12,6 @@ export const inventoryRuleTestUtils = {
       statement: "A field the test leaves unnamed takes the value stated here.",
     },
   ],
+  createdAt: "2026-09-02T07:23:20.431Z",
+  updatedAt: "2026-09-21T15:44:44.000Z",
 } as const satisfies TestFixture

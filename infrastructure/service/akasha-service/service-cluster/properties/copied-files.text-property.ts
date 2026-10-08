@@ -9,4 +9,6 @@ export const copiedFiles = {
   maxLength: 200,
   nameFormat: null,
   types: "ts",
+  createdAt: "2026-09-25T17:02:16.833Z",
+  updatedAt: "2026-09-25T17:02:29.000Z",
 } as const satisfies TextProperty

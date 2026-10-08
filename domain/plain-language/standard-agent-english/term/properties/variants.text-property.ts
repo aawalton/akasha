@@ -27,4 +27,6 @@ export const variants = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-08T18:31:20.876Z",
+  updatedAt: "2026-09-25T15:41:48.000Z",
 } as const satisfies TextProperty

@@ -31,4 +31,6 @@ export const fileName = {
     },
   ],
   types: "ts",
+  createdAt: "2026-08-31T15:08:14.013Z",
+  updatedAt: "2026-09-25T15:05:29.000Z",
 } as const satisfies TextProperty

@@ -23,4 +23,6 @@ export const refusedCommit = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-11T19:50:19.225Z",
+  updatedAt: "2026-09-24T19:06:05.000Z",
 } as const satisfies TextProperty

@@ -23,4 +23,6 @@ export const fixedExport = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-19T08:11:53.051Z",
+  updatedAt: "2026-09-19T08:18:43.000Z",
 } as const satisfies TextProperty

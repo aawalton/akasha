@@ -15,4 +15,6 @@ export const turnUndoRefused = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-30T10:06:05.801Z",
+  updatedAt: "2026-09-30T10:06:16.000Z",
 } as const satisfies TextProperty

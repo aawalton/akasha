@@ -29,4 +29,6 @@ export const keptScratch = {
       statement: "The root and its sweeping are not its concern.",
     },
   ],
+  createdAt: "2026-09-15T16:47:39.494Z",
+  updatedAt: "2026-09-25T16:09:55.000Z",
 } as const satisfies TestFixture

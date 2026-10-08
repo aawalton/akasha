@@ -15,4 +15,6 @@ export const childRelation = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-03T17:04:11.786Z",
+  updatedAt: "2026-09-22T14:22:32.000Z",
 } as const satisfies TextProperty

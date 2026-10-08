@@ -12,4 +12,6 @@ export const charactersTaskProgressTestUtils = {
       statement: "A capture the test leaves unnamed is absent from the entry rather than empty.",
     },
   ],
+  createdAt: "2026-09-11T05:00:25.992Z",
+  updatedAt: "2026-09-22T13:46:35.000Z",
 } as const satisfies TestFixture

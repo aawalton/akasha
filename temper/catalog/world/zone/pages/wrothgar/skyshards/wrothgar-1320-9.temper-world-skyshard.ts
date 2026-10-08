@@ -9,4 +9,6 @@ export const wrothgar13209 = {
   shardNumber: 9,
   worldZone: "temper-world-zone/wrothgar",
   mapPositions: [{ mapFolder: "wrothgar", mapTile: "wrothgar_base", mapX: 0.8448, mapY: 0.4297 }],
+  createdAt: "2026-09-25T00:02:27.166Z",
+  updatedAt: "2026-09-25T00:02:30.000Z",
 } as const satisfies TemperWorldSkyshard

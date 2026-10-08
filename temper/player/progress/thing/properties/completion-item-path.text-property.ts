@@ -15,4 +15,6 @@ export const completionItemPath = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-02T01:40:40.059Z",
+  updatedAt: "2026-09-22T10:19:25.000Z",
 } as const satisfies TextProperty

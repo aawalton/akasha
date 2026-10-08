@@ -9,4 +9,6 @@ export const readingName = {
   maxLength: 200,
   nameFormat: null,
   types: "ts",
+  createdAt: "2026-09-02T20:27:45.046Z",
+  updatedAt: "2026-09-15T17:21:40.000Z",
 } as const satisfies TextProperty

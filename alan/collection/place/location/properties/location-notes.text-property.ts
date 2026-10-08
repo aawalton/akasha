@@ -9,4 +9,6 @@ export const locationNotes = {
   maxLength: 500,
   nameFormat: null,
   types: "ts",
+  createdAt: "2026-09-03T04:25:23.451Z",
+  updatedAt: "2026-09-22T13:42:40.000Z",
 } as const satisfies TextProperty

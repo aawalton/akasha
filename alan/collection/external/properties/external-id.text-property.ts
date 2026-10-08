@@ -9,4 +9,6 @@ export const externalId = {
   maxLength: 100,
   nameFormat: null,
   types: "ts",
+  createdAt: "2026-09-02T20:44:59.872Z",
+  updatedAt: "2026-09-15T16:24:02.000Z",
 } as const satisfies TextProperty

@@ -19,4 +19,6 @@ export const watcherOperationName = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-25T13:13:40.807Z",
+  updatedAt: "2026-09-25T13:13:45.000Z",
 } as const satisfies TextProperty

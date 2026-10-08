@@ -15,4 +15,6 @@ export const gatewayVersion = {
     },
   ],
   types: "ts",
+  createdAt: "2026-08-30T19:02:03.969Z",
+  updatedAt: "2026-09-25T18:02:02.000Z",
 } as const satisfies TextProperty

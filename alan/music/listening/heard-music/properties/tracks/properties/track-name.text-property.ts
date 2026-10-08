@@ -9,4 +9,6 @@ export const trackName = {
   maxLength: 200,
   nameFormat: null,
   types: "ts",
+  createdAt: "2026-09-02T13:12:49.935Z",
+  updatedAt: "2026-09-16T13:54:50.000Z",
 } as const satisfies TextProperty

@@ -19,4 +19,6 @@ export const bridgeSessionId = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-25T14:35:24.232Z",
+  updatedAt: "2026-09-25T17:56:57.000Z",
 } as const satisfies TextProperty

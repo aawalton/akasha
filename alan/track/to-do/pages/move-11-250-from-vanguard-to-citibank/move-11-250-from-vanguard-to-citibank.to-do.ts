@@ -12,4 +12,6 @@ export const move11250FromVanguardToCitibank = {
   toDoSortOrder: 57,
   toDoValue: "value/wealth",
   toDoLastCompletedAt: "2026-09-07T01:38:56.787Z",
+  createdAt: "2026-04-22T12:39:34.017Z",
+  updatedAt: "2026-10-03T14:41:33.000Z",
 } as const satisfies ToDo

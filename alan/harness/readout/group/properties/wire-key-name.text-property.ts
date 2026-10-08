@@ -19,4 +19,6 @@ export const wireKeyName = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-25T16:27:56.252Z",
+  updatedAt: "2026-09-25T16:28:06.000Z",
 } as const satisfies TextProperty

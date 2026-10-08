@@ -19,4 +19,6 @@ export const probePath = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-24T23:58:44.745Z",
+  updatedAt: "2026-09-24T23:59:07.000Z",
 } as const satisfies TextProperty

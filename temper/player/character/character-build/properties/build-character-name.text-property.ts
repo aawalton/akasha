@@ -20,4 +20,6 @@ export const buildCharacterName = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-15T13:33:09.536Z",
+  updatedAt: "2026-09-22T14:00:30.000Z",
 } as const satisfies TextProperty

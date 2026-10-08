@@ -15,4 +15,6 @@ export const writtenBy = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-08T18:08:16.570Z",
+  updatedAt: "2026-09-22T14:08:17.000Z",
 } as const satisfies TextProperty

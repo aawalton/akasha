@@ -21,4 +21,6 @@ export const hookPayload = {
       statement: "Nothing in the running system makes a payload.",
     },
   ],
+  createdAt: "2026-08-29T20:55:03.146Z",
+  updatedAt: "2026-09-25T17:57:08.000Z",
 } as const satisfies TestFixture

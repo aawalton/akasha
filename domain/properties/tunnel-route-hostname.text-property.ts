@@ -9,4 +9,6 @@ export const tunnelRouteHostname = {
   maxLength: 253,
   nameFormat: null,
   types: "ts",
+  createdAt: "2026-09-22T00:37:18.555Z",
+  updatedAt: "2026-09-22T00:49:17.000Z",
 } as const satisfies TextProperty

@@ -9,4 +9,6 @@ export const featureRequestAsk = {
   maxLength: 1000,
   nameFormat: null,
   types: "ts",
+  createdAt: "2026-09-21T15:47:15.151Z",
+  updatedAt: "2026-09-21T15:47:29.000Z",
 } as const satisfies TextProperty

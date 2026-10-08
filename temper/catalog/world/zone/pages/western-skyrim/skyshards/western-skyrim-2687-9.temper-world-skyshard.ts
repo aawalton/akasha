@@ -11,4 +11,6 @@ export const westernSkyrim26879 = {
   mapPositions: [
     { mapFolder: "skyrim", mapTile: "westernskryim_base", mapX: 0.2435, mapY: 0.4416 },
   ],
+  createdAt: "2026-09-25T00:04:33.900Z",
+  updatedAt: "2026-09-25T00:04:36.000Z",
 } as const satisfies TemperWorldSkyshard

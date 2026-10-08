@@ -9,4 +9,6 @@ export const climbFloorTask = {
   maxLength: 500,
   nameFormat: null,
   types: "ts",
+  createdAt: "2026-10-01T21:16:56.845Z",
+  updatedAt: "2026-10-01T21:17:02.000Z",
 } as const satisfies TextProperty

@@ -73,4 +73,6 @@ export const indexFiling = {
       statement: "A shape whose page type is filed nowhere is not written.",
     },
   ],
+  createdAt: "2026-09-11T04:00:42.644Z",
+  updatedAt: "2026-09-15T20:51:08.000Z",
 } as const satisfies TestFixture

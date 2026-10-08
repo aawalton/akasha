@@ -11,4 +11,6 @@ export const theDeadlands31401 = {
   mapPositions: [
     { mapFolder: "deadlands", mapTile: "u32deadlandszone_base", mapX: 0.4641, mapY: 0.6774 },
   ],
+  createdAt: "2026-09-25T00:00:18.716Z",
+  updatedAt: "2026-09-25T00:00:22.000Z",
 } as const satisfies TemperWorldSkyshard

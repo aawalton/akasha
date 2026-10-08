@@ -9,4 +9,6 @@ export const poiTypeLabel = {
   maxLength: 200,
   nameFormat: null,
   types: "ts",
+  createdAt: "2026-09-02T09:15:51.579Z",
+  updatedAt: "2026-09-22T13:49:36.000Z",
 } as const satisfies TextProperty

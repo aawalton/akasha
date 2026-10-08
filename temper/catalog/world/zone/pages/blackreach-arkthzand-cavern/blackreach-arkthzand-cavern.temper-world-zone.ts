@@ -7,4 +7,6 @@ export const blackreachArkthzandCavern = {
   title: "Blackreach: Arkthzand Cavern",
   esoZoneId: 1208,
   itemBrowserPlaceKind: 1,
+  createdAt: "2026-09-25T18:37:29.544Z",
+  updatedAt: "2026-09-25T18:37:34.000Z",
 } as const satisfies TemperWorldZone

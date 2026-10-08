@@ -9,4 +9,6 @@ export const towerSkillAxis = {
   maxLength: 200,
   nameFormat: null,
   types: "ts",
+  createdAt: "2026-09-26T14:21:52.879Z",
+  updatedAt: "2026-09-26T14:21:57.000Z",
 } as const satisfies TextProperty

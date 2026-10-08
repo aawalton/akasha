@@ -9,4 +9,6 @@ export const summerset18453 = {
   shardNumber: 3,
   worldZone: "temper-world-zone/summerset",
   mapPositions: [{ mapFolder: "summerset", mapTile: "summerset_base", mapX: 0.1789, mapY: 0.2935 }],
+  createdAt: "2026-09-25T00:09:13.983Z",
+  updatedAt: "2026-09-25T00:09:17.000Z",
 } as const satisfies TemperWorldSkyshard

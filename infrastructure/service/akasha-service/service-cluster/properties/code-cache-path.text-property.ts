@@ -15,4 +15,6 @@ export const codeCachePath = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-25T16:31:23.717Z",
+  updatedAt: "2026-09-25T16:31:40.000Z",
 } as const satisfies TextProperty

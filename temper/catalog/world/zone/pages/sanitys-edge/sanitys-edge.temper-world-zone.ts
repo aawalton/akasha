@@ -8,4 +8,6 @@ export const sanitysEdge = {
   zoneQuests: "jsonl",
   itemBrowserPlaceKind: 4,
   esoZoneId: 1427,
+  createdAt: "2026-09-02T09:14:16.383Z",
+  updatedAt: "2026-09-25T18:37:34.000Z",
 } as const satisfies TemperWorldZone

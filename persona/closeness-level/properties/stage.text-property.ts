@@ -9,4 +9,6 @@ export const stage = {
   maxLength: 100,
   nameFormat: null,
   types: "ts",
+  createdAt: "2026-08-30T19:03:39.539Z",
+  updatedAt: "2026-09-15T17:18:57.000Z",
 } as const satisfies TextProperty

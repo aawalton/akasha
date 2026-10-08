@@ -9,4 +9,6 @@ export const warrantyBattery = {
   maxLength: 1000,
   nameFormat: null,
   types: "ts",
+  createdAt: "2026-09-21T18:39:49.726Z",
+  updatedAt: "2026-09-21T18:40:16.000Z",
 } as const satisfies TextProperty

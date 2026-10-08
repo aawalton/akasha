@@ -19,4 +19,6 @@ export const coordinatorAgent = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-03T12:26:56.910Z",
+  updatedAt: "2026-09-28T18:04:00.000Z",
 } as const satisfies TextProperty

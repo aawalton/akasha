@@ -9,4 +9,6 @@ export const spotifyAccountRedirectUri = {
   maxLength: 200,
   nameFormat: null,
   types: "ts",
+  createdAt: "2026-09-18T23:30:36.740Z",
+  updatedAt: "2026-09-18T23:34:28.000Z",
 } as const satisfies TextProperty

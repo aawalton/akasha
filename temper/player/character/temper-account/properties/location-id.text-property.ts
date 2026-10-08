@@ -9,4 +9,6 @@ export const locationId = {
   maxLength: 100,
   nameFormat: null,
   types: "ts",
+  createdAt: "2026-09-02T04:14:53.312Z",
+  updatedAt: "2026-09-21T15:29:06.000Z",
 } as const satisfies TextProperty

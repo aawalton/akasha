@@ -19,4 +19,6 @@ export const imageRepository = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-10T23:20:39.879Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies TextProperty

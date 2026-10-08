@@ -27,4 +27,6 @@ export const viewPredicate = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-03T16:14:57.280Z",
+  updatedAt: "2026-09-22T13:55:48.000Z",
 } as const satisfies TextProperty

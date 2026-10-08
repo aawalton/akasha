@@ -32,4 +32,6 @@ export const itemBrowserKinds = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-25T14:04:42.817Z",
+  updatedAt: "2026-09-25T14:04:48.000Z",
 } as const satisfies TextProperty

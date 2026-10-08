@@ -35,4 +35,6 @@ export const namePatterns = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-24T22:27:55.092Z",
+  updatedAt: "2026-09-24T22:28:01.000Z",
 } as const satisfies TextProperty

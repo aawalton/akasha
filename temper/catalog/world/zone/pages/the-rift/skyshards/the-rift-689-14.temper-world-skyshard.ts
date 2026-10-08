@@ -12,4 +12,6 @@ export const theRift68914 = {
     { mapFolder: "therift", mapTile: "shroudhearth_base", mapX: 0.779, mapY: 0.612 },
     { mapFolder: "therift", mapTile: "therift_base", mapX: 0.134, mapY: 0.294, placeKinds: [2] },
   ],
+  createdAt: "2026-09-25T00:03:54.354Z",
+  updatedAt: "2026-09-25T00:03:57.000Z",
 } as const satisfies TemperWorldSkyshard

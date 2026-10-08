@@ -9,4 +9,6 @@ export const abilityIcon = {
   maxLength: 200,
   nameFormat: null,
   types: "ts",
+  createdAt: "2026-09-02T01:45:21.022Z",
+  updatedAt: "2026-09-22T13:57:49.000Z",
 } as const satisfies TextProperty

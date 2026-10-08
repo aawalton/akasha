@@ -20,4 +20,6 @@ export const waiting = {
       statement: "The condition waited for is asked once more after time is up.",
     },
   ],
+  createdAt: "2026-08-29T19:22:06.838Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies TestFixture

@@ -9,4 +9,6 @@ export const altName = {
   maxLength: 200,
   nameFormat: null,
   types: "ts",
+  createdAt: "2026-09-02T01:38:27.087Z",
+  updatedAt: "2026-09-22T14:14:06.000Z",
 } as const satisfies TextProperty

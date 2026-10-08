@@ -143,4 +143,6 @@ export const checkScratch = {
       statement: "An edge naming no id is set up here as one naming an id is.",
     },
   ],
+  createdAt: "2026-08-29T23:17:42.170Z",
+  updatedAt: "2026-09-24T16:57:11.000Z",
 } as const satisfies TestFixture

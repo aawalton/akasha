@@ -19,4 +19,6 @@ export const merchant = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-03T16:12:37.504Z",
+  updatedAt: "2026-09-22T13:45:29.000Z",
 } as const satisfies TextProperty

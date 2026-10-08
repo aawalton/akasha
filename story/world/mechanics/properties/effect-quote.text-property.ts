@@ -9,4 +9,6 @@ export const effectQuote = {
   maxLength: 1000,
   nameFormat: null,
   types: "ts",
+  createdAt: "2026-09-03T03:38:24.529Z",
+  updatedAt: "2026-09-22T13:48:49.000Z",
 } as const satisfies TextProperty

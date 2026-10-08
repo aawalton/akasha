@@ -13,4 +13,6 @@ export const pickUpPrescription = {
   toDoSortOrder: 33,
   toDoValue: "value/health",
   toDoLastCompletedAt: "2026-09-07T01:38:57.564Z",
+  createdAt: "2026-04-22T12:39:34.017Z",
+  updatedAt: "2026-10-03T14:43:02.000Z",
 } as const satisfies ToDo

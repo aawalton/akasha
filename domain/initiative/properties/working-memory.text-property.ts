@@ -9,4 +9,6 @@ export const workingMemory = {
   maxLength: 500,
   nameFormat: null,
   types: "ts",
+  createdAt: "2026-08-31T16:25:17.599Z",
+  updatedAt: "2026-09-22T10:09:37.000Z",
 } as const satisfies TextProperty

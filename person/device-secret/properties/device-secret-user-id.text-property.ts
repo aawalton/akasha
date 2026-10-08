@@ -24,4 +24,6 @@ export const deviceSecretUserId = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-01T04:28:40.076Z",
+  updatedAt: "2026-09-25T12:37:32.000Z",
 } as const satisfies TextProperty

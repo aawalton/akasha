@@ -29,4 +29,6 @@ export const addonFixtureManifest = {
       statement: "Nothing here writes a file.",
     },
   ],
+  createdAt: "2026-09-07T15:54:25.728Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies TestFixture

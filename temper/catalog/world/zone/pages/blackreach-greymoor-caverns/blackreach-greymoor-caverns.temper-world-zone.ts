@@ -8,4 +8,6 @@ export const blackreachGreymoorCaverns = {
   zoneQuests: "jsonl",
   itemBrowserPlaceKind: 1,
   esoZoneId: 1161,
+  createdAt: "2026-09-02T09:14:16.380Z",
+  updatedAt: "2026-09-25T18:37:34.000Z",
 } as const satisfies TemperWorldZone

@@ -9,4 +9,6 @@ export const name = {
   maxLength: 30,
   nameFormat: "name-format/start-case",
   types: "ts",
+  createdAt: "2026-08-28T19:45:10.515Z",
+  updatedAt: "2026-09-15T17:18:57.000Z",
 } as const satisfies TextProperty

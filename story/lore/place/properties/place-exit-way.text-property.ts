@@ -9,4 +9,6 @@ export const placeExitWay = {
   maxLength: 300,
   nameFormat: null,
   types: "ts",
+  createdAt: "2026-09-24T16:10:50.179Z",
+  updatedAt: "2026-09-24T16:20:45.000Z",
 } as const satisfies TextProperty

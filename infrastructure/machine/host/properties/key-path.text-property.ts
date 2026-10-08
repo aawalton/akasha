@@ -15,4 +15,6 @@ export const keyPath = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-24T22:52:56.412Z",
+  updatedAt: "2026-09-24T22:53:24.000Z",
 } as const satisfies TextProperty

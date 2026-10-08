@@ -19,4 +19,6 @@ export const recipeRepository = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-11T00:36:01.730Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies TextProperty

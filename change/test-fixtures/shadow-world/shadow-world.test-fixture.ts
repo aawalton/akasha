@@ -110,4 +110,6 @@ export const shadowWorld = {
         "A refusal is read here whether the change said the refusal or the replay found the refusal.",
     },
   ],
+  createdAt: "2026-09-14T23:04:45.723Z",
+  updatedAt: "2026-09-25T15:35:51.000Z",
 } as const satisfies TestFixture

@@ -9,4 +9,6 @@ export const sense = {
   maxLength: 200,
   nameFormat: null,
   types: "ts",
+  createdAt: "2026-08-31T18:54:20.983Z",
+  updatedAt: "2026-09-22T13:43:11.000Z",
 } as const satisfies TextProperty

@@ -9,4 +9,6 @@ export const subtitle = {
   maxLength: 200,
   nameFormat: null,
   types: "ts",
+  createdAt: "2026-09-02T01:50:05.927Z",
+  updatedAt: "2026-09-22T13:49:36.000Z",
 } as const satisfies TextProperty

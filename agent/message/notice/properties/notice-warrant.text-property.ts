@@ -20,4 +20,6 @@ export const noticeWarrant = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-03T17:58:10.856Z",
+  updatedAt: "2026-09-25T17:57:28.000Z",
 } as const satisfies TextProperty

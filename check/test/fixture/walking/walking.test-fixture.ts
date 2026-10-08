@@ -16,4 +16,6 @@ export const walking = {
       statement: "A body is read as text.",
     },
   ],
+  createdAt: "2026-08-29T19:22:06.838Z",
+  updatedAt: "2026-09-22T10:06:44.000Z",
 } as const satisfies TestFixture

@@ -15,4 +15,6 @@ export const accessNarrowIs = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-21T18:01:42.808Z",
+  updatedAt: "2026-09-21T18:02:34.000Z",
 } as const satisfies TextProperty

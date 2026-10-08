@@ -9,4 +9,6 @@ export const effectWeaponTypes = {
   maxLength: 100,
   nameFormat: "name-format/lower-kebab-case",
   types: "ts",
+  createdAt: "2026-09-02T02:09:04.552Z",
+  updatedAt: "2026-09-22T13:46:41.000Z",
 } as const satisfies TextProperty

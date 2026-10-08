@@ -9,4 +9,6 @@ export const country = {
   maxLength: 20,
   nameFormat: null,
   types: "ts",
+  createdAt: "2026-09-03T04:55:06.621Z",
+  updatedAt: "2026-09-15T16:24:02.000Z",
 } as const satisfies TextProperty

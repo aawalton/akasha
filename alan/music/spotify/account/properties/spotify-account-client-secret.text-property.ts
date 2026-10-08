@@ -9,4 +9,6 @@ export const spotifyAccountClientSecret = {
   maxLength: 200,
   nameFormat: null,
   types: "ts",
+  createdAt: "2026-09-18T23:30:29.315Z",
+  updatedAt: "2026-09-18T23:34:28.000Z",
 } as const satisfies TextProperty

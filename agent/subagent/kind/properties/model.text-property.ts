@@ -9,4 +9,6 @@ export const model = {
   maxLength: 40,
   nameFormat: null,
   types: "ts",
+  createdAt: "2026-08-30T19:04:23.372Z",
+  updatedAt: "2026-09-24T18:44:07.000Z",
 } as const satisfies TextProperty

@@ -11,4 +11,6 @@ export const westWeald39493 = {
   mapPositions: [
     { mapFolder: "westweald", mapTile: "westwealdoverland_base", mapX: 0.7712, mapY: 0.5992 },
   ],
+  createdAt: "2026-09-25T00:06:31.330Z",
+  updatedAt: "2026-09-25T00:06:33.000Z",
 } as const satisfies TemperWorldSkyshard

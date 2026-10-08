@@ -48,4 +48,6 @@ export const hookJudging = {
       statement: "Proving itself would prove nothing about any hook.",
     },
   ],
+  createdAt: "2026-08-29T21:53:24.466Z",
+  updatedAt: "2026-09-25T17:56:53.000Z",
 } as const satisfies TestFixture

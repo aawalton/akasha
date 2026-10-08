@@ -9,4 +9,6 @@ export const signInProvider = {
   maxLength: 20,
   nameFormat: "name-format/lower-kebab-case",
   types: "ts",
+  createdAt: "2026-09-19T18:24:43.589Z",
+  updatedAt: "2026-09-19T18:26:16.000Z",
 } as const satisfies TextProperty

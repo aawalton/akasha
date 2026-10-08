@@ -9,4 +9,6 @@ export const label = {
   maxLength: 100,
   nameFormat: null,
   types: "ts",
+  createdAt: "2026-08-30T20:05:28.033Z",
+  updatedAt: "2026-09-22T13:45:29.000Z",
 } as const satisfies TextProperty

@@ -19,4 +19,6 @@ export const playerIntent = {
     },
   ],
   types: "ts",
+  createdAt: "2026-10-03T21:22:21.671Z",
+  updatedAt: "2026-10-03T21:23:10.000Z",
 } as const satisfies TextProperty

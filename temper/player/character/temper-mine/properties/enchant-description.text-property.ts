@@ -9,4 +9,6 @@ export const enchantDescription = {
   maxLength: 1000,
   nameFormat: null,
   types: "ts",
+  createdAt: "2026-09-02T01:48:48.333Z",
+  updatedAt: "2026-09-21T15:29:06.000Z",
 } as const satisfies TextProperty

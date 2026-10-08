@@ -9,4 +9,6 @@ export const stylesheetColorName = {
   maxLength: 100,
   nameFormat: "name-format/lower-kebab-case",
   types: "ts",
+  createdAt: "2026-09-24T22:36:11.203Z",
+  updatedAt: "2026-09-24T22:36:34.000Z",
 } as const satisfies TextProperty

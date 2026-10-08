@@ -9,4 +9,6 @@ export const achievementName = {
   maxLength: 200,
   nameFormat: null,
   types: "ts",
+  createdAt: "2026-09-02T01:45:21.024Z",
+  updatedAt: "2026-09-22T13:44:03.000Z",
 } as const satisfies TextProperty

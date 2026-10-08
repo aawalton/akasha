@@ -21,4 +21,6 @@ export const coverDescription = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-28T20:14:34.268Z",
+  updatedAt: "2026-09-28T20:14:41.000Z",
 } as const satisfies TextProperty

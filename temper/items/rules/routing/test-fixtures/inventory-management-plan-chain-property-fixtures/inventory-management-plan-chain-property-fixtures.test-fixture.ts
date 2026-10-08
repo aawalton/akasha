@@ -20,4 +20,6 @@ export const inventoryManagementPlanChainPropertyFixtures = {
       statement: "A chain scenario has an equivalent written as one rule per tier.",
     },
   ],
+  createdAt: "2026-09-02T14:32:30.582Z",
+  updatedAt: "2026-09-22T13:41:05.000Z",
 } as const satisfies TestFixture

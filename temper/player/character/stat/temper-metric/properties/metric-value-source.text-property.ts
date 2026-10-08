@@ -9,4 +9,6 @@ export const metricValueSource = {
   maxLength: 100,
   nameFormat: "name-format/lower-kebab-case",
   types: "ts",
+  createdAt: "2026-09-26T18:34:28.098Z",
+  updatedAt: "2026-09-26T18:34:55.000Z",
 } as const satisfies TextProperty

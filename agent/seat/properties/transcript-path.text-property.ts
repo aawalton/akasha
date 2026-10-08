@@ -15,4 +15,6 @@ export const transcriptPath = {
     },
   ],
   types: "ts",
+  createdAt: "2026-08-30T18:30:46.637Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies TextProperty

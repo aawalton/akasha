@@ -9,4 +9,6 @@ export const conditionKind = {
   maxLength: 100,
   nameFormat: "name-format/lower-kebab-case",
   types: "ts",
+  createdAt: "2026-09-02T10:04:06.687Z",
+  updatedAt: "2026-09-22T10:13:14.000Z",
 } as const satisfies TextProperty

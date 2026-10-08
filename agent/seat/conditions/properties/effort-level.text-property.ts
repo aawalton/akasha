@@ -9,4 +9,6 @@ export const effortLevel = {
   maxLength: 20,
   nameFormat: null,
   types: "ts",
+  createdAt: "2026-09-03T17:47:25.668Z",
+  updatedAt: "2026-09-25T18:05:53.000Z",
 } as const satisfies TextProperty

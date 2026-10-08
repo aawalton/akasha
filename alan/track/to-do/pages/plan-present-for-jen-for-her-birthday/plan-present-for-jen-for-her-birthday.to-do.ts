@@ -12,4 +12,6 @@ export const planPresentForJenForHerBirthday = {
   toDoSortOrder: 16,
   toDoValue: "value/love",
   toDoLastCompletedAt: "2026-05-02T13:30:02.541Z",
+  createdAt: "2026-04-22T12:39:34.017Z",
+  updatedAt: "2026-09-21T18:27:30.000Z",
 } as const satisfies ToDo

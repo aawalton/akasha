@@ -6,4 +6,6 @@ export const nightMarket = {
   slug: "night-market",
   title: "Night Market",
   zoneQuests: "jsonl",
+  createdAt: "2026-09-02T09:14:16.382Z",
+  updatedAt: "2026-09-21T15:28:00.000Z",
 } as const satisfies TemperWorldZone

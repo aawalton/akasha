@@ -9,4 +9,6 @@ export const drmNotes = {
   maxLength: 2000,
   nameFormat: null,
   types: "ts",
+  createdAt: "2026-09-21T18:39:01.608Z",
+  updatedAt: "2026-09-21T18:40:16.000Z",
 } as const satisfies TextProperty

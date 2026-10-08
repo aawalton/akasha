@@ -42,4 +42,6 @@ export const narrowKey = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-02T21:02:27.899Z",
+  updatedAt: "2026-09-28T19:52:27.000Z",
 } as const satisfies TextProperty

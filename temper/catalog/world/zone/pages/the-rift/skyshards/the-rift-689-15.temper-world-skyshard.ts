@@ -12,4 +12,6 @@ export const theRift68915 = {
     { mapFolder: "therift", mapTile: "snaplegcave_base", mapX: 0.801, mapY: 0.77 },
     { mapFolder: "therift", mapTile: "therift_base", mapX: 0.317, mapY: 0.234, placeKinds: [2] },
   ],
+  createdAt: "2026-09-25T00:03:54.354Z",
+  updatedAt: "2026-09-25T00:03:57.000Z",
 } as const satisfies TemperWorldSkyshard

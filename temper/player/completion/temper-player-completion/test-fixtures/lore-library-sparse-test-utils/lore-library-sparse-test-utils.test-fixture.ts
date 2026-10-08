@@ -12,4 +12,6 @@ export const loreLibrarySparseTestUtils = {
       statement: "A capture asked to be short is short by the first book of the first collection.",
     },
   ],
+  createdAt: "2026-09-11T05:11:52.728Z",
+  updatedAt: "2026-09-27T10:46:43.000Z",
 } as const satisfies TestFixture

@@ -9,4 +9,6 @@ export const voiceInstruction = {
   maxLength: 1000,
   nameFormat: null,
   types: "ts",
+  createdAt: "2026-08-30T16:04:28.017Z",
+  updatedAt: "2026-09-22T13:48:49.000Z",
 } as const satisfies TextProperty

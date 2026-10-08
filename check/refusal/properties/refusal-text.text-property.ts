@@ -19,4 +19,6 @@ export const refusalText = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-03T23:31:48.353Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies TextProperty

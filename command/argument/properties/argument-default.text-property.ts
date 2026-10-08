@@ -23,4 +23,6 @@ export const argumentDefault = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-12T10:24:07.574Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies TextProperty

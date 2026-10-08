@@ -23,4 +23,6 @@ export const marketingVersion = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-02T00:47:47.493Z",
+  updatedAt: "2026-09-24T22:21:00.000Z",
 } as const satisfies TextProperty

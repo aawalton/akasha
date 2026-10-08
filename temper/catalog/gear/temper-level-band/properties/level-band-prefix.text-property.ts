@@ -9,4 +9,6 @@ export const levelBandPrefix = {
   maxLength: 10,
   nameFormat: null,
   types: "ts",
+  createdAt: "2026-09-27T05:50:40.947Z",
+  updatedAt: "2026-09-27T05:50:45.000Z",
 } as const satisfies TextProperty

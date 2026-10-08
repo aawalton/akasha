@@ -9,4 +9,6 @@ export const macBuildNumberFile = {
   maxLength: 200,
   nameFormat: null,
   types: "ts",
+  createdAt: "2026-09-02T14:32:51.924Z",
+  updatedAt: "2026-09-15T17:18:57.000Z",
 } as const satisfies TextProperty

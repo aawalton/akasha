@@ -15,4 +15,6 @@ export const purpose = {
     },
   ],
   types: "ts",
+  createdAt: "2026-08-30T15:04:35.642Z",
+  updatedAt: "2026-09-25T15:21:36.000Z",
 } as const satisfies TextProperty

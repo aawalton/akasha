@@ -6,4 +6,6 @@ export const sancreTor = {
   slug: "sancre-tor",
   title: "Sancre Tor",
   zoneQuests: "jsonl",
+  createdAt: "2026-09-02T09:14:16.383Z",
+  updatedAt: "2026-09-21T15:28:00.000Z",
 } as const satisfies TemperWorldZone

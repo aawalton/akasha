@@ -9,4 +9,6 @@ export const westernSkyrim26873 = {
   shardNumber: 3,
   worldZone: "temper-world-zone/western-skyrim",
   mapPositions: [{ mapFolder: "skyrim", mapTile: "blackreach_base", mapX: 0.6715, mapY: 0.2118 }],
+  createdAt: "2026-09-25T00:04:33.899Z",
+  updatedAt: "2026-09-25T00:04:36.000Z",
 } as const satisfies TemperWorldSkyshard

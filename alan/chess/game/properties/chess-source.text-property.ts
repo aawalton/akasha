@@ -9,4 +9,6 @@ export const chessSource = {
   maxLength: 100,
   nameFormat: "name-format/lower-kebab-case",
   types: "ts",
+  createdAt: "2026-09-03T04:24:22.114Z",
+  updatedAt: "2026-09-22T13:44:11.000Z",
 } as const satisfies TextProperty

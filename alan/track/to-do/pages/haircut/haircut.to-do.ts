@@ -13,4 +13,6 @@ export const haircut = {
   toDoSortOrder: 53,
   toDoValue: "value/health",
   toDoLastCompletedAt: "2026-09-07T13:09:29.899Z",
+  createdAt: "2026-04-22T12:39:34.017Z",
+  updatedAt: "2026-09-21T18:27:30.000Z",
 } as const satisfies ToDo

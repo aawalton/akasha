@@ -9,4 +9,6 @@ export const traitName = {
   maxLength: 200,
   nameFormat: null,
   types: "ts",
+  createdAt: "2026-09-02T09:20:08.927Z",
+  updatedAt: "2026-09-22T13:57:31.000Z",
 } as const satisfies TextProperty

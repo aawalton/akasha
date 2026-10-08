@@ -19,4 +19,6 @@ export const itemName = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-03T03:32:57.703Z",
+  updatedAt: "2026-09-21T15:34:59.000Z",
 } as const satisfies TextProperty

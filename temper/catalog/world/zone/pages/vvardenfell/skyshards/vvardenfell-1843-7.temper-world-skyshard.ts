@@ -11,4 +11,6 @@ export const vvardenfell18437 = {
   mapPositions: [
     { mapFolder: "vvardenfell", mapTile: "vvardenfell_base", mapX: 0.4928, mapY: 0.7084 },
   ],
+  createdAt: "2026-09-25T00:05:37.246Z",
+  updatedAt: "2026-09-25T00:05:40.000Z",
 } as const satisfies TemperWorldSkyshard

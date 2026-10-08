@@ -9,4 +9,6 @@ export const driverAssistBrand = {
   maxLength: 200,
   nameFormat: null,
   types: "ts",
+  createdAt: "2026-09-21T18:38:57.540Z",
+  updatedAt: "2026-09-22T13:44:11.000Z",
 } as const satisfies TextProperty

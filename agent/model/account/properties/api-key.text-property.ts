@@ -10,4 +10,6 @@ export const apiKey = {
   maxLength: 200,
   nameFormat: null,
   types: "ts",
+  createdAt: "2026-09-14T22:51:16.479Z",
+  updatedAt: "2026-09-25T18:00:35.000Z",
 } as const satisfies TextProperty

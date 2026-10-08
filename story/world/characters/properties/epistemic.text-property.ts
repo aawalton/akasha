@@ -9,4 +9,6 @@ export const epistemic = {
   maxLength: 20,
   nameFormat: "name-format/lower-kebab-case",
   types: "ts",
+  createdAt: "2026-09-19T00:00:49.113Z",
+  updatedAt: "2026-09-19T08:15:33.000Z",
 } as const satisfies TextProperty

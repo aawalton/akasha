@@ -9,4 +9,6 @@ export const ticker = {
   maxLength: 12,
   nameFormat: null,
   types: "ts",
+  createdAt: "2026-09-03T16:11:27.616Z",
+  updatedAt: "2026-09-22T13:46:30.000Z",
 } as const satisfies TextProperty

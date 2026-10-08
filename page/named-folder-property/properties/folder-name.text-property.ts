@@ -15,4 +15,6 @@ export const folderName = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-08T16:13:57.956Z",
+  updatedAt: "2026-09-22T13:48:22.000Z",
 } as const satisfies TextProperty

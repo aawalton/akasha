@@ -9,4 +9,6 @@ export const storyRecorderName = {
   maxLength: 30,
   nameFormat: "name-format/start-case",
   types: "ts",
+  createdAt: "2026-09-27T00:46:49.421Z",
+  updatedAt: "2026-09-27T00:46:53.000Z",
 } as const satisfies TextProperty

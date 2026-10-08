@@ -9,4 +9,6 @@ export const slidePointValue = {
   maxLength: 100,
   nameFormat: null,
   types: "ts",
+  createdAt: "2026-09-25T01:16:13.411Z",
+  updatedAt: "2026-09-25T01:16:17.000Z",
 } as const satisfies TextProperty

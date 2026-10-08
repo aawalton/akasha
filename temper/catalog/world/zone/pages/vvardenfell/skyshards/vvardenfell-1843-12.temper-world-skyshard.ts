@@ -24,4 +24,6 @@ export const vvardenfell184312 = {
       placeKinds: [3],
     },
   ],
+  createdAt: "2026-09-25T00:05:37.245Z",
+  updatedAt: "2026-09-25T00:05:40.000Z",
 } as const satisfies TemperWorldSkyshard

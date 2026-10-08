@@ -24,4 +24,6 @@ export const westWeald394918 = {
       placeKinds: [2],
     },
   ],
+  createdAt: "2026-09-25T00:06:31.330Z",
+  updatedAt: "2026-09-25T00:06:33.000Z",
 } as const satisfies TemperWorldSkyshard

@@ -9,4 +9,6 @@ export const developmentTeam = {
   maxLength: 10,
   nameFormat: null,
   types: "ts",
+  createdAt: "2026-08-31T21:23:15.274Z",
+  updatedAt: "2026-09-22T13:44:42.000Z",
 } as const satisfies TextProperty

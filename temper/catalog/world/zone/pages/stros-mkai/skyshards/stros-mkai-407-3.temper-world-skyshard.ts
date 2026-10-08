@@ -9,4 +9,6 @@ export const strosMkai4073 = {
   shardNumber: 3,
   worldZone: "temper-world-zone/stros-mkai",
   mapPositions: [{ mapFolder: "glenumbra", mapTile: "strosmkai_base", mapX: 0.5407, mapY: 0.8067 }],
+  createdAt: "2026-09-24T23:56:36.117Z",
+  updatedAt: "2026-09-24T23:56:39.000Z",
 } as const satisfies TemperWorldSkyshard

@@ -9,4 +9,6 @@ export const inferenceOperation = {
   maxLength: 100,
   nameFormat: "name-format/lower-kebab-case",
   types: "ts",
+  createdAt: "2026-09-21T23:18:08.608Z",
+  updatedAt: "2026-09-26T16:14:26.000Z",
 } as const satisfies TextProperty

@@ -23,4 +23,6 @@ export const revealedAs = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-30T10:02:50.191Z",
+  updatedAt: "2026-09-30T10:02:57.000Z",
 } as const satisfies TextProperty

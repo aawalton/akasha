@@ -9,4 +9,6 @@ export const setNameDe = {
   maxLength: 200,
   nameFormat: null,
   types: "ts",
+  createdAt: "2026-09-25T14:03:43.168Z",
+  updatedAt: "2026-09-25T14:03:50.000Z",
 } as const satisfies TextProperty

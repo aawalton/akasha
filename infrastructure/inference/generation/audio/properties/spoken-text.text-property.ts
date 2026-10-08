@@ -9,4 +9,6 @@ export const spokenText = {
   maxLength: 2000,
   nameFormat: null,
   types: "ts",
+  createdAt: "2026-09-21T23:18:17.414Z",
+  updatedAt: "2026-09-21T23:21:23.000Z",
 } as const satisfies TextProperty

@@ -15,4 +15,6 @@ export const metricSubject = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-26T18:34:28.098Z",
+  updatedAt: "2026-09-26T19:12:14.000Z",
 } as const satisfies TextProperty

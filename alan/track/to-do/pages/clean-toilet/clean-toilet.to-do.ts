@@ -13,4 +13,6 @@ export const cleanToilet = {
   toDoSortOrder: 30,
   toDoValue: "value/health",
   toDoLastCompletedAt: "2026-10-08T14:41:10.889Z",
+  createdAt: "2026-04-22T12:39:34.017Z",
+  updatedAt: "2026-10-08T14:41:11.000Z",
 } as const satisfies ToDo

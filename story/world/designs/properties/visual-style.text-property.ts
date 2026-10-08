@@ -81,4 +81,6 @@ export const visualStyle = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-03T04:12:35.077Z",
+  updatedAt: "2026-09-27T16:07:28.000Z",
 } as const satisfies TextProperty

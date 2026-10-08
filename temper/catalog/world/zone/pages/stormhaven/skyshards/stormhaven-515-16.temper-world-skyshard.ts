@@ -19,4 +19,6 @@ export const stormhaven51516 = {
       placeKinds: [3],
     },
   ],
+  createdAt: "2026-09-25T00:00:43.578Z",
+  updatedAt: "2026-09-25T00:00:47.000Z",
 } as const satisfies TemperWorldSkyshard

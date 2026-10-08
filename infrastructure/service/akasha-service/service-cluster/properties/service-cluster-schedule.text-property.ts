@@ -19,4 +19,6 @@ export const serviceClusterSchedule = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-03T04:29:52.316Z",
+  updatedAt: "2026-09-24T19:06:05.000Z",
 } as const satisfies TextProperty

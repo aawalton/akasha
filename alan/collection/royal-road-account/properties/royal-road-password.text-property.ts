@@ -15,4 +15,6 @@ export const royalRoadPassword = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-03T17:42:47.583Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies TextProperty

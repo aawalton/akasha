@@ -9,4 +9,6 @@ export const skillEffectType = {
   maxLength: 100,
   nameFormat: "name-format/lower-kebab-case",
   types: "ts",
+  createdAt: "2026-09-02T10:04:06.684Z",
+  updatedAt: "2026-09-22T13:44:03.000Z",
 } as const satisfies TextProperty

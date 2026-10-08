@@ -9,4 +9,6 @@ export const history = {
   maxLength: 500,
   nameFormat: null,
   types: "ts",
+  createdAt: "2026-08-30T17:27:46.871Z",
+  updatedAt: "2026-09-15T17:18:57.000Z",
 } as const satisfies TextProperty

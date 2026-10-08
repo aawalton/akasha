@@ -30,4 +30,6 @@ export const theReach28576 = {
       placeKinds: [2],
     },
   ],
+  createdAt: "2026-09-25T00:05:15.007Z",
+  updatedAt: "2026-09-25T00:05:17.000Z",
 } as const satisfies TemperWorldSkyshard

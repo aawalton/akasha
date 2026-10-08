@@ -9,4 +9,6 @@ export const nodeType = {
   maxLength: 20,
   nameFormat: "name-format/lower-kebab-case",
   types: "ts",
+  createdAt: "2026-09-02T01:46:29.333Z",
+  updatedAt: "2026-09-22T13:53:26.000Z",
 } as const satisfies TextProperty

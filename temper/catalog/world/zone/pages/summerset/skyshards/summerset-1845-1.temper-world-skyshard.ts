@@ -12,4 +12,6 @@ export const summerset18451 = {
     { mapFolder: "summerset", mapTile: "alinor_base", mapX: 0.4176, mapY: 0.1979 },
     { mapFolder: "summerset", mapTile: "summerset_base", mapX: 0.2858, mapY: 0.5687 },
   ],
+  createdAt: "2026-09-25T00:09:13.982Z",
+  updatedAt: "2026-09-25T00:09:17.000Z",
 } as const satisfies TemperWorldSkyshard

@@ -9,4 +9,6 @@ export const constantId = {
   maxLength: 100,
   nameFormat: "name-format/lower-kebab-case",
   types: "ts",
+  createdAt: "2026-09-02T01:53:02.008Z",
+  updatedAt: "2026-09-21T15:28:58.000Z",
 } as const satisfies TextProperty

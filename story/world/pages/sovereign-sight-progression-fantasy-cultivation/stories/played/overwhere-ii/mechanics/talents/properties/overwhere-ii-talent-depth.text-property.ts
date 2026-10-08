@@ -9,4 +9,6 @@ export const overwhereIiTalentDepth = {
   maxLength: 20,
   nameFormat: null,
   types: "ts",
+  createdAt: "2026-09-29T12:16:07.732Z",
+  updatedAt: "2026-09-29T12:16:13.000Z",
 } as const satisfies TextProperty

@@ -9,4 +9,6 @@ export const interruptMessage = {
   maxLength: 1000,
   nameFormat: null,
   types: "ts",
+  createdAt: "2026-08-30T19:36:58.509Z",
+  updatedAt: "2026-09-25T18:03:03.000Z",
 } as const satisfies TextProperty

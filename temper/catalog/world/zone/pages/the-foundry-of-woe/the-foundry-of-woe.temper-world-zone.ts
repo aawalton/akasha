@@ -6,4 +6,6 @@ export const theFoundryOfWoe = {
   slug: "the-foundry-of-woe",
   title: "The Foundry of Woe",
   zoneQuests: "jsonl",
+  createdAt: "2026-09-02T09:14:16.384Z",
+  updatedAt: "2026-09-21T15:28:00.000Z",
 } as const satisfies TemperWorldZone

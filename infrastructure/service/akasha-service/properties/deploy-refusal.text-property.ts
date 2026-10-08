@@ -32,4 +32,6 @@ export const deployRefusal = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-15T17:59:35.190Z",
+  updatedAt: "2026-09-24T19:06:05.000Z",
 } as const satisfies TextProperty

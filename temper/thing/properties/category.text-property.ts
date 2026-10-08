@@ -19,4 +19,6 @@ export const category = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-02T01:27:53.144Z",
+  updatedAt: "2026-09-22T21:41:09.000Z",
 } as const satisfies TextProperty

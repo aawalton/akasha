@@ -15,4 +15,6 @@ export const foodOrDrinkKind = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-26T20:44:13.285Z",
+  updatedAt: "2026-09-26T20:44:17.000Z",
 } as const satisfies TextProperty

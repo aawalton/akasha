@@ -9,4 +9,6 @@ export const championConstellation = {
   maxLength: 20,
   nameFormat: "name-format/lower-kebab-case",
   types: "ts",
+  createdAt: "2026-09-27T04:53:17.836Z",
+  updatedAt: "2026-09-27T04:53:21.000Z",
 } as const satisfies TextProperty

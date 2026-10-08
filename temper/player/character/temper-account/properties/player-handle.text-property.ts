@@ -9,4 +9,6 @@ export const playerHandle = {
   maxLength: 100,
   nameFormat: null,
   types: "ts",
+  createdAt: "2026-09-04T21:15:48.470Z",
+  updatedAt: "2026-09-24T16:58:05.000Z",
 } as const satisfies TextProperty

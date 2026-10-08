@@ -19,4 +19,6 @@ export const navHref = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-25T14:33:09.819Z",
+  updatedAt: "2026-09-25T14:33:17.000Z",
 } as const satisfies TextProperty

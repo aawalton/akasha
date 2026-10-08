@@ -9,4 +9,6 @@ export const reloadWith = {
   maxLength: 200,
   nameFormat: null,
   types: "ts",
+  createdAt: "2026-09-03T17:46:41.450Z",
+  updatedAt: "2026-09-15T17:18:57.000Z",
 } as const satisfies TextProperty

@@ -24,4 +24,6 @@ export const contributorEmailHash = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-19T16:47:04.321Z",
+  updatedAt: "2026-09-19T16:47:41.000Z",
 } as const satisfies TextProperty

@@ -9,4 +9,6 @@ export const worldName = {
   maxLength: 100,
   nameFormat: null,
   types: "ts",
+  createdAt: "2026-09-03T13:00:08.453Z",
+  updatedAt: "2026-09-25T12:53:09.000Z",
 } as const satisfies TextProperty

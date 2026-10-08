@@ -24,4 +24,6 @@ export const luaExport = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-08T14:25:14.633Z",
+  updatedAt: "2026-09-19T03:20:29.000Z",
 } as const satisfies TextProperty

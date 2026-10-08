@@ -15,4 +15,6 @@ export const claudeCodeSessionUuid = {
     },
   ],
   types: "ts",
+  createdAt: "2026-08-30T18:18:19.338Z",
+  updatedAt: "2026-09-25T17:57:26.000Z",
 } as const satisfies TextProperty

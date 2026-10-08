@@ -15,4 +15,6 @@ export const title = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-02T01:12:12.930Z",
+  updatedAt: "2026-09-22T13:48:27.000Z",
 } as const satisfies TextProperty

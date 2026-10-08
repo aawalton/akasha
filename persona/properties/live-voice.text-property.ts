@@ -19,4 +19,6 @@ export const liveVoice = {
     },
   ],
   types: "ts",
+  createdAt: "2026-10-08T11:53:04.801Z",
+  updatedAt: "2026-10-08T11:53:13.000Z",
 } as const satisfies TextProperty

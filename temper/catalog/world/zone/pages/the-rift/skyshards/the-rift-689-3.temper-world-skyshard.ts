@@ -9,4 +9,6 @@ export const theRift6893 = {
   shardNumber: 3,
   worldZone: "temper-world-zone/the-rift",
   mapPositions: [{ mapFolder: "therift", mapTile: "therift_base", mapX: 0.319, mapY: 0.378 }],
+  createdAt: "2026-09-25T00:03:54.354Z",
+  updatedAt: "2026-09-25T00:03:57.000Z",
 } as const satisfies TemperWorldSkyshard

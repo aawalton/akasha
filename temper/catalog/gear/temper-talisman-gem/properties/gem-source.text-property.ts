@@ -9,4 +9,6 @@ export const gemSource = {
   maxLength: 1000,
   nameFormat: null,
   types: "ts",
+  createdAt: "2026-09-25T17:03:58.967Z",
+  updatedAt: "2026-09-25T17:04:04.000Z",
 } as const satisfies TextProperty

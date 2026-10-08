@@ -15,4 +15,6 @@ export const mediaVariantAxis = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-02T15:24:15.605Z",
+  updatedAt: "2026-09-22T10:06:02.000Z",
 } as const satisfies TextProperty

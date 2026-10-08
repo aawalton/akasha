@@ -9,4 +9,6 @@ export const categoryGroup = {
   maxLength: 100,
   nameFormat: null,
   types: "ts",
+  createdAt: "2026-09-03T16:11:27.616Z",
+  updatedAt: "2026-09-22T14:07:21.000Z",
 } as const satisfies TextProperty

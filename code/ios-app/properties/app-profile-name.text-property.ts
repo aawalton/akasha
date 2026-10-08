@@ -9,4 +9,6 @@ export const appProfileName = {
   maxLength: 100,
   nameFormat: null,
   types: "ts",
+  createdAt: "2026-09-03T19:40:13.003Z",
+  updatedAt: "2026-09-22T14:08:17.000Z",
 } as const satisfies TextProperty

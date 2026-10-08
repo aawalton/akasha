@@ -9,4 +9,6 @@ export const caption = {
   maxLength: 100,
   nameFormat: null,
   types: "ts",
+  createdAt: "2026-09-02T21:57:39.545Z",
+  updatedAt: "2026-09-15T16:24:02.000Z",
 } as const satisfies TextProperty

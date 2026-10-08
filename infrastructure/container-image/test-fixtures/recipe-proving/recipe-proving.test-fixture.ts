@@ -6,4 +6,6 @@ export const recipeProving = {
   slug: "recipe-proving",
   definition: "what a test reads to prove the container recipe composed beside it",
   code: "ts",
+  createdAt: "2026-09-11T00:36:10.637Z",
+  updatedAt: "2026-09-15T16:20:57.000Z",
 } as const satisfies TestFixture

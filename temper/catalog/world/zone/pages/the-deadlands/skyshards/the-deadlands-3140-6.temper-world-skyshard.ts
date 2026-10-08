@@ -24,4 +24,6 @@ export const theDeadlands31406 = {
       placeKinds: [2],
     },
   ],
+  createdAt: "2026-09-25T00:00:18.717Z",
+  updatedAt: "2026-09-25T00:00:22.000Z",
 } as const satisfies TemperWorldSkyshard

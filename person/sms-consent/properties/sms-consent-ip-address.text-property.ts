@@ -9,4 +9,6 @@ export const smsConsentIpAddress = {
   maxLength: 45,
   nameFormat: null,
   types: "ts",
+  createdAt: "2026-09-03T17:47:21.933Z",
+  updatedAt: "2026-09-22T13:52:13.000Z",
 } as const satisfies TextProperty

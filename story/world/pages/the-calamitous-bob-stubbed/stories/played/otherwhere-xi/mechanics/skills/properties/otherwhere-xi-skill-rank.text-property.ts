@@ -9,4 +9,6 @@ export const otherwhereXiSkillRank = {
   maxLength: 20,
   nameFormat: null,
   types: "ts",
+  createdAt: "2026-09-29T00:21:07.619Z",
+  updatedAt: "2026-09-29T00:21:18.000Z",
 } as const satisfies TextProperty

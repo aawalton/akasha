@@ -15,4 +15,6 @@ export const esoEquipTypes = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-25T13:23:27.318Z",
+  updatedAt: "2026-09-25T13:23:33.000Z",
 } as const satisfies TextProperty

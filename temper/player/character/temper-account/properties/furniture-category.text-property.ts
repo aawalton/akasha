@@ -9,4 +9,6 @@ export const furnitureCategory = {
   maxLength: 100,
   nameFormat: null,
   types: "ts",
+  createdAt: "2026-09-02T04:14:53.310Z",
+  updatedAt: "2026-09-22T13:56:23.000Z",
 } as const satisfies TextProperty

@@ -9,4 +9,6 @@ export const wantedBy = {
   maxLength: 100,
   nameFormat: null,
   types: "ts",
+  createdAt: "2026-09-03T12:22:39.122Z",
+  updatedAt: "2026-09-24T19:06:05.000Z",
 } as const satisfies TextProperty

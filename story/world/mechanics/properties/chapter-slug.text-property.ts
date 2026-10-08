@@ -9,4 +9,6 @@ export const chapterSlug = {
   maxLength: 100,
   nameFormat: null,
   types: "ts",
+  createdAt: "2026-09-03T03:38:24.529Z",
+  updatedAt: "2026-09-22T13:44:02.000Z",
 } as const satisfies TextProperty

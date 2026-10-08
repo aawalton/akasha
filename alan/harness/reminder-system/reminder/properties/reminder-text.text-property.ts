@@ -15,4 +15,6 @@ export const reminderText = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-01T23:16:51.649Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies TextProperty

@@ -31,4 +31,6 @@ export const hashIndexed = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-24T23:26:42.276Z",
+  updatedAt: "2026-09-24T23:57:43.000Z",
 } as const satisfies TextProperty

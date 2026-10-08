@@ -9,4 +9,6 @@ export const hex = {
   maxLength: 20,
   nameFormat: null,
   types: "ts",
+  createdAt: "2026-09-03T04:10:11.497Z",
+  updatedAt: "2026-09-22T13:44:00.000Z",
 } as const satisfies TextProperty

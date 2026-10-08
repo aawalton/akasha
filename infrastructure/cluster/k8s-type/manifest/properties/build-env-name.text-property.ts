@@ -15,4 +15,6 @@ export const buildEnvName = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-22T00:39:07.640Z",
+  updatedAt: "2026-09-22T13:54:50.000Z",
 } as const satisfies TextProperty

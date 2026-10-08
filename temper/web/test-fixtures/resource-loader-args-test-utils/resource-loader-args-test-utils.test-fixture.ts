@@ -12,4 +12,6 @@ export const resourceLoaderArgsTestUtils = {
       statement: "The path is read against the site the browser would have asked.",
     },
   ],
+  createdAt: "2026-09-11T05:15:18.818Z",
+  updatedAt: "2026-09-22T10:19:39.000Z",
 } as const satisfies TestFixture

@@ -7,4 +7,6 @@ export const lairOfMaarselok = {
   title: "Lair of Maarselok",
   esoZoneId: 1123,
   itemBrowserPlaceKind: 3,
+  createdAt: "2026-09-25T18:37:29.545Z",
+  updatedAt: "2026-09-25T18:37:34.000Z",
 } as const satisfies TemperWorldZone

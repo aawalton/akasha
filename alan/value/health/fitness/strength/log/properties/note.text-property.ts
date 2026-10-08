@@ -9,4 +9,6 @@ export const note = {
   maxLength: 500,
   nameFormat: null,
   types: "ts",
+  createdAt: "2026-09-03T04:21:48.925Z",
+  updatedAt: "2026-09-15T17:18:57.000Z",
 } as const satisfies TextProperty

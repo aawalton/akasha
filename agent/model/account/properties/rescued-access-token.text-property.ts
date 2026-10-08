@@ -15,4 +15,6 @@ export const rescuedAccessToken = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-02T18:57:11.354Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies TextProperty

@@ -12,4 +12,6 @@ export const theRift68912 = {
     { mapFolder: "therift", mapTile: "ebonmeretower_base", mapX: 0.398, mapY: 0.419 },
     { mapFolder: "therift", mapTile: "therift_base", mapX: 0.498, mapY: 0.472, placeKinds: [2] },
   ],
+  createdAt: "2026-09-25T00:03:54.353Z",
+  updatedAt: "2026-09-25T00:03:57.000Z",
 } as const satisfies TemperWorldSkyshard

@@ -9,4 +9,6 @@ export const computerModel = {
   maxLength: 50,
   nameFormat: null,
   types: "ts",
+  createdAt: "2026-09-03T04:34:41.946Z",
+  updatedAt: "2026-09-15T17:18:57.000Z",
 } as const satisfies TextProperty

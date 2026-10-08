@@ -9,4 +9,6 @@ export const fullName = {
   maxLength: 100,
   nameFormat: null,
   types: "ts",
+  createdAt: "2026-09-02T01:44:02.818Z",
+  updatedAt: "2026-09-21T15:33:05.000Z",
 } as const satisfies TextProperty

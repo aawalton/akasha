@@ -8,4 +8,6 @@ export const theBeholderApex = {
   world: "world/the-beholder",
   place: 5,
   description: "A rare signature power; attributes 165 and up.",
+  createdAt: "2026-09-26T18:15:40.176Z",
+  updatedAt: "2026-09-26T18:15:44.000Z",
 } as const satisfies TheBeholderTier

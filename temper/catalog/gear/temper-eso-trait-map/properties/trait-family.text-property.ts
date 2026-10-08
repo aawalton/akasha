@@ -9,4 +9,6 @@ export const traitFamily = {
   maxLength: 100,
   nameFormat: "name-format/lower-kebab-case",
   types: "ts",
+  createdAt: "2026-09-02T01:53:02.014Z",
+  updatedAt: "2026-09-22T13:49:36.000Z",
 } as const satisfies TextProperty

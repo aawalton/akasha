@@ -9,4 +9,6 @@ export const styleRuleName = {
   maxLength: 30,
   nameFormat: "name-format/start-case",
   types: "ts",
+  createdAt: "2026-09-26T16:46:45.491Z",
+  updatedAt: "2026-09-26T16:46:51.000Z",
 } as const satisfies TextProperty

@@ -19,4 +19,6 @@ export const direction = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-15T16:24:16.906Z",
+  updatedAt: "2026-09-25T16:27:50.000Z",
 } as const satisfies TextProperty

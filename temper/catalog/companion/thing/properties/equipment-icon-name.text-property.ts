@@ -9,4 +9,6 @@ export const equipmentIconName = {
   maxLength: 100,
   nameFormat: "name-format/lower-kebab-case",
   types: "ts",
+  createdAt: "2026-09-26T19:59:55.526Z",
+  updatedAt: "2026-09-26T20:00:12.000Z",
 } as const satisfies TextProperty

@@ -9,4 +9,6 @@ export const modelYearsAvailable = {
   maxLength: 50,
   nameFormat: null,
   types: "ts",
+  createdAt: "2026-09-03T04:50:05.893Z",
+  updatedAt: "2026-09-22T13:44:11.000Z",
 } as const satisfies TextProperty

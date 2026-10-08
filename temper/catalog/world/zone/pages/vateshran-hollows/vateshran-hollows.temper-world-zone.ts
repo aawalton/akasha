@@ -7,4 +7,6 @@ export const vateshranHollows = {
   title: "Vateshran Hollows",
   esoZoneId: 1227,
   itemBrowserPlaceKind: 5,
+  createdAt: "2026-09-25T18:37:29.546Z",
+  updatedAt: "2026-09-25T18:37:34.000Z",
 } as const satisfies TemperWorldZone

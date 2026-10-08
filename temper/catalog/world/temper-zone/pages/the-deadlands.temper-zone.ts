@@ -7,4 +7,6 @@ export const theDeadlands = {
   title: "The Deadlands",
   dropsScripts: true,
   isDlc: true,
+  createdAt: "2026-05-11T16:22:56.008Z",
+  updatedAt: "2026-09-21T15:28:00.000Z",
 } as const satisfies TemperZone

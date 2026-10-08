@@ -9,4 +9,6 @@ export const noneLeftWords = {
   maxLength: 200,
   nameFormat: null,
   types: "ts",
+  createdAt: "2026-08-30T20:05:28.038Z",
+  updatedAt: "2026-09-15T16:24:02.000Z",
 } as const satisfies TextProperty

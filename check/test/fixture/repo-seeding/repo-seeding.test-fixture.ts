@@ -52,4 +52,6 @@ export const repoSeeding = {
         "What excludes the index is reached from here rather than spelled beside each fixture.",
     },
   ],
+  createdAt: "2026-09-10T19:19:20.073Z",
+  updatedAt: "2026-09-22T14:00:01.000Z",
 } as const satisfies TestFixture

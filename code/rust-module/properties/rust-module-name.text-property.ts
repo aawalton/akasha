@@ -31,4 +31,6 @@ export const rustModuleName = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-02T03:54:26.041Z",
+  updatedAt: "2026-09-22T14:08:17.000Z",
 } as const satisfies TextProperty

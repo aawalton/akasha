@@ -9,4 +9,6 @@ export const maskedUnits = {
   maxLength: 100,
   nameFormat: null,
   types: "ts",
+  createdAt: "2026-09-24T22:55:30.000Z",
+  updatedAt: "2026-09-24T22:55:55.000Z",
 } as const satisfies TextProperty

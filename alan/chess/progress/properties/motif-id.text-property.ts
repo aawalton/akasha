@@ -15,4 +15,6 @@ export const motifId = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-03T04:24:22.114Z",
+  updatedAt: "2026-09-22T22:39:48.000Z",
 } as const satisfies TextProperty

@@ -23,4 +23,6 @@ export const agentId = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-02T15:41:48.855Z",
+  updatedAt: "2026-09-22T13:59:16.000Z",
 } as const satisfies TextProperty

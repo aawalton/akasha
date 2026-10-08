@@ -40,4 +40,6 @@ export const propertySlug = {
     },
   ],
   types: "ts",
+  createdAt: "2026-08-30T16:57:52.911Z",
+  updatedAt: "2026-09-24T16:33:58.000Z",
 } as const satisfies TextProperty

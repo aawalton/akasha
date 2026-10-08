@@ -13,4 +13,6 @@ export const laundryRotate = {
   toDoSortOrder: 41,
   toDoValue: "value/health",
   toDoLastCompletedAt: "2026-10-08T14:41:12.504Z",
+  createdAt: "2026-04-22T12:39:34.017Z",
+  updatedAt: "2026-10-08T14:41:14.000Z",
 } as const satisfies ToDo

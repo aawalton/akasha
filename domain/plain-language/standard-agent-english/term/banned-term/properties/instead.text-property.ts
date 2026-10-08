@@ -9,4 +9,6 @@ export const instead = {
   maxLength: 200,
   nameFormat: null,
   types: "ts",
+  createdAt: "2026-08-31T18:54:20.983Z",
+  updatedAt: "2026-09-25T15:41:48.000Z",
 } as const satisfies TextProperty

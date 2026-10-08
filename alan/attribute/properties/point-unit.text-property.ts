@@ -9,4 +9,6 @@ export const pointUnit = {
   maxLength: 100,
   nameFormat: null,
   types: "ts",
+  createdAt: "2026-09-03T17:12:06.675Z",
+  updatedAt: "2026-09-22T00:41:39.000Z",
 } as const satisfies TextProperty

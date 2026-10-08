@@ -19,4 +19,6 @@ export const openQuestion = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-06T17:52:45.656Z",
+  updatedAt: "2026-09-22T00:41:39.000Z",
 } as const satisfies TextProperty

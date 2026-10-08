@@ -23,4 +23,6 @@ export const imageSubjects = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-26T17:04:57.210Z",
+  updatedAt: "2026-09-26T17:05:28.000Z",
 } as const satisfies TextProperty

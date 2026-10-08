@@ -28,4 +28,6 @@ export const bodying = {
       statement: "A test binds the way the test was handed rather than a function of its own.",
     },
   ],
+  createdAt: "2026-08-29T19:03:25.447Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies TestFixture

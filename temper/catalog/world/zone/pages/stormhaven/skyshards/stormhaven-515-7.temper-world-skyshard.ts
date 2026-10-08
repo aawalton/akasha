@@ -9,4 +9,6 @@ export const stormhaven5157 = {
   shardNumber: 7,
   worldZone: "temper-world-zone/stormhaven",
   mapPositions: [{ mapFolder: "stormhaven", mapTile: "stormhaven_base", mapX: 0.776, mapY: 0.414 }],
+  createdAt: "2026-09-25T00:00:43.578Z",
+  updatedAt: "2026-09-25T00:00:47.000Z",
 } as const satisfies TemperWorldSkyshard

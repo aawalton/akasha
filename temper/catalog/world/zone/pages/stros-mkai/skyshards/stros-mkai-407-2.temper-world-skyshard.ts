@@ -12,4 +12,6 @@ export const strosMkai4072 = {
     { mapFolder: "glenumbra", mapTile: "porthunding_base", mapX: 0.4655, mapY: 0.4487 },
     { mapFolder: "glenumbra", mapTile: "strosmkai_base", mapX: 0.6431, mapY: 0.3978 },
   ],
+  createdAt: "2026-09-24T23:56:36.117Z",
+  updatedAt: "2026-09-24T23:56:39.000Z",
 } as const satisfies TemperWorldSkyshard

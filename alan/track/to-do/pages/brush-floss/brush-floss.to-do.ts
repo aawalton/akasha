@@ -13,4 +13,6 @@ export const brushFloss = {
   toDoSortOrder: 49,
   toDoValue: "value/health",
   toDoLastCompletedAt: "2026-10-03T14:41:42.287Z",
+  createdAt: "2026-04-22T12:39:34.017Z",
+  updatedAt: "2026-10-08T10:05:00.000Z",
 } as const satisfies ToDo

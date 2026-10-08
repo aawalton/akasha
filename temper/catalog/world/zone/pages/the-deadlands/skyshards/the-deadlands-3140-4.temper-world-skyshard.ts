@@ -12,4 +12,6 @@ export const theDeadlands31404 = {
     { mapFolder: "deadlands", mapTile: "u32_fargravezone_base", mapX: 0.602, mapY: 0.347 },
     { mapFolder: "deadlands", mapTile: "u32_theshambles_base", mapX: 0.4894, mapY: 0.5019 },
   ],
+  createdAt: "2026-09-25T00:00:18.717Z",
+  updatedAt: "2026-09-25T00:00:22.000Z",
 } as const satisfies TemperWorldSkyshard

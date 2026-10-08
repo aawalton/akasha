@@ -9,4 +9,6 @@ export const lesson = {
   maxLength: 500,
   nameFormat: null,
   types: "ts",
+  createdAt: "2026-09-03T04:24:22.114Z",
+  updatedAt: "2026-09-22T00:50:00.000Z",
 } as const satisfies TextProperty

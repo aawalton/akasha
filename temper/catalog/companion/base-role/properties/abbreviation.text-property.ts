@@ -9,4 +9,6 @@ export const abbreviation = {
   maxLength: 10,
   nameFormat: null,
   types: "ts",
+  createdAt: "2026-09-02T01:48:57.298Z",
+  updatedAt: "2026-09-22T13:49:49.000Z",
 } as const satisfies TextProperty

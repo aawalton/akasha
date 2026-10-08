@@ -18,4 +18,6 @@ export const wrothgar13205 = {
       placeKinds: [1],
     },
   ],
+  createdAt: "2026-09-25T00:02:27.166Z",
+  updatedAt: "2026-09-25T00:02:30.000Z",
 } as const satisfies TemperWorldSkyshard

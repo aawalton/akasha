@@ -20,4 +20,6 @@ export const indexName = {
     },
   ],
   types: "ts",
+  createdAt: "2026-08-29T19:15:48.879Z",
+  updatedAt: "2026-09-22T13:59:20.000Z",
 } as const satisfies TextProperty

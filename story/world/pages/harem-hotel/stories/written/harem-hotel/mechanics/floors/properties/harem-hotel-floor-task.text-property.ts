@@ -9,4 +9,6 @@ export const haremHotelFloorTask = {
   maxLength: 500,
   nameFormat: null,
   types: "ts",
+  createdAt: "2026-09-28T13:09:12.245Z",
+  updatedAt: "2026-09-28T18:26:26.000Z",
 } as const satisfies TextProperty

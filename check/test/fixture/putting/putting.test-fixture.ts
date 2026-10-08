@@ -20,4 +20,6 @@ export const putting = {
       statement: "Where the file landed is handed back.",
     },
   ],
+  createdAt: "2026-08-29T19:24:44.769Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies TestFixture

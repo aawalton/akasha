@@ -16,4 +16,6 @@ export const theReach28573 = {
       mapY: 0.371521294116,
     },
   ],
+  createdAt: "2026-09-25T00:05:15.007Z",
+  updatedAt: "2026-09-25T00:05:17.000Z",
 } as const satisfies TemperWorldSkyshard

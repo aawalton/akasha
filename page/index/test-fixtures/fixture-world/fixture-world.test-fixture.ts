@@ -62,4 +62,6 @@ export const fixtureWorld = {
       statement: "A world built under a test overlay resolves no package name of its own.",
     },
   ],
+  createdAt: "2026-09-10T00:27:42.038Z",
+  updatedAt: "2026-09-22T14:00:26.000Z",
 } as const satisfies TestFixture

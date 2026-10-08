@@ -9,4 +9,6 @@ export const soloDifficulty = {
   maxLength: 100,
   nameFormat: "name-format/lower-kebab-case",
   types: "ts",
+  createdAt: "2026-09-02T01:38:27.092Z",
+  updatedAt: "2026-09-21T15:28:00.000Z",
 } as const satisfies TextProperty

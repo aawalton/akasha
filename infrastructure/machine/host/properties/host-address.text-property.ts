@@ -9,4 +9,6 @@ export const hostAddress = {
   maxLength: 45,
   nameFormat: null,
   types: "ts",
+  createdAt: "2026-09-07T15:51:35.353Z",
+  updatedAt: "2026-09-15T17:18:57.000Z",
 } as const satisfies TextProperty

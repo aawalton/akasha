@@ -9,4 +9,6 @@ export const topicNode = {
   maxLength: 300,
   nameFormat: null,
   types: "ts",
+  createdAt: "2026-09-03T04:55:52.026Z",
+  updatedAt: "2026-09-15T16:24:02.000Z",
 } as const satisfies TextProperty

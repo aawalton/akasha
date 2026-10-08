@@ -19,4 +19,6 @@ export const sourceHash = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-25T17:02:16.835Z",
+  updatedAt: "2026-09-25T17:02:29.000Z",
 } as const satisfies TextProperty

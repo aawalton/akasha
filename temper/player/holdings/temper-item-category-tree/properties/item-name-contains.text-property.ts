@@ -9,4 +9,6 @@ export const itemNameContains = {
   maxLength: 200,
   nameFormat: null,
   types: "ts",
+  createdAt: "2026-09-02T01:46:39.282Z",
+  updatedAt: "2026-09-21T15:34:59.000Z",
 } as const satisfies TextProperty

@@ -23,4 +23,6 @@ export const placeholder = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-12T05:00:54.076Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies TextProperty

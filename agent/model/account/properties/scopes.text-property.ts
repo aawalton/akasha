@@ -19,4 +19,6 @@ export const scopes = {
     },
   ],
   types: "ts",
+  createdAt: "2026-08-30T22:44:04.537Z",
+  updatedAt: "2026-09-25T18:02:40.000Z",
 } as const satisfies TextProperty

@@ -7,4 +7,6 @@ export const aetherianArchive = {
   title: "Aetherian Archive",
   esoZoneId: 638,
   itemBrowserPlaceKind: 4,
+  createdAt: "2026-09-25T18:37:29.543Z",
+  updatedAt: "2026-09-25T18:37:34.000Z",
 } as const satisfies TemperWorldZone

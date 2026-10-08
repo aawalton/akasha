@@ -15,4 +15,6 @@ export const matchValues = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-03T16:13:47.392Z",
+  updatedAt: "2026-09-22T13:58:57.000Z",
 } as const satisfies TextProperty

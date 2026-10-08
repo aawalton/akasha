@@ -20,4 +20,6 @@ export const inventoryRuleMatcherPropertyFixtures = {
       statement: "An item no rule claims falls to the implicit terminal rule.",
     },
   ],
+  createdAt: "2026-09-02T14:23:54.928Z",
+  updatedAt: "2026-09-22T14:00:30.000Z",
 } as const satisfies TestFixture

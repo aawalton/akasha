@@ -9,4 +9,6 @@ export const tcoSource = {
   maxLength: 4000,
   nameFormat: null,
   types: "ts",
+  createdAt: "2026-09-21T18:39:41.327Z",
+  updatedAt: "2026-09-22T13:43:28.000Z",
 } as const satisfies TextProperty

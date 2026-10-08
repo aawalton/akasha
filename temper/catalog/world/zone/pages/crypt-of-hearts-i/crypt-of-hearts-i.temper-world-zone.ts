@@ -7,4 +7,6 @@ export const cryptOfHeartsI = {
   title: "Crypt of Hearts I",
   esoZoneId: 130,
   itemBrowserPlaceKind: 3,
+  createdAt: "2026-09-25T18:37:29.544Z",
+  updatedAt: "2026-09-25T18:37:34.000Z",
 } as const satisfies TemperWorldZone

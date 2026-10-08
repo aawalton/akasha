@@ -18,4 +18,6 @@ export const westernSkyrim268716 = {
     },
     { mapFolder: "skyrim", mapTile: "midnightbarrow_base", mapX: 0.7051, mapY: 0.4036 },
   ],
+  createdAt: "2026-09-25T00:04:33.899Z",
+  updatedAt: "2026-09-25T00:04:36.000Z",
 } as const satisfies TemperWorldSkyshard

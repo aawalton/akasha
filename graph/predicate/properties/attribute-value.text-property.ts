@@ -9,4 +9,6 @@ export const attributeValue = {
   maxLength: 100,
   nameFormat: "name-format/lower-kebab-case",
   types: "ts",
+  createdAt: "2026-09-16T13:19:39.726Z",
+  updatedAt: "2026-09-16T13:22:22.000Z",
 } as const satisfies TextProperty

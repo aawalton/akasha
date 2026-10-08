@@ -9,4 +9,6 @@ export const traceSource = {
   maxLength: 32,
   nameFormat: null,
   types: "ts",
+  createdAt: "2026-09-03T21:38:23.029Z",
+  updatedAt: "2026-09-21T19:18:52.000Z",
 } as const satisfies TextProperty

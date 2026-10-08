@@ -23,4 +23,6 @@ export const webEnvPath = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-02T00:31:24.934Z",
+  updatedAt: "2026-09-22T16:51:02.000Z",
 } as const satisfies TextProperty

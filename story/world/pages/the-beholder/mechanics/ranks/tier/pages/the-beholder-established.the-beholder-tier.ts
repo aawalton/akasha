@@ -8,4 +8,6 @@ export const theBeholderEstablished = {
   world: "world/the-beholder",
   place: 3,
   description: "A developed power; attributes 35 to 80.",
+  createdAt: "2026-09-26T18:15:40.177Z",
+  updatedAt: "2026-09-26T18:15:44.000Z",
 } as const satisfies TheBeholderTier

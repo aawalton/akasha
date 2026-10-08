@@ -24,4 +24,6 @@ export const summerset184514 = {
       placeKinds: [2, 4],
     },
   ],
+  createdAt: "2026-09-25T00:09:13.983Z",
+  updatedAt: "2026-09-25T00:09:17.000Z",
 } as const satisfies TemperWorldSkyshard

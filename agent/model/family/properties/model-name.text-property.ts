@@ -23,4 +23,6 @@ export const modelName = {
     },
   ],
   types: "ts",
+  createdAt: "2026-08-31T23:59:59.195Z",
+  updatedAt: "2026-09-25T17:57:36.000Z",
 } as const satisfies TextProperty

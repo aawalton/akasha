@@ -23,4 +23,6 @@ export const deviceTokenPushType = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-19T16:46:31.190Z",
+  updatedAt: "2026-09-19T16:56:08.000Z",
 } as const satisfies TextProperty

@@ -6,4 +6,6 @@ export const theBeholderPearl = {
   slug: "the-beholder-pearl",
   character: "character-player/the-beholder-pearl",
   value: 12,
+  createdAt: "2026-09-26T18:14:24.947Z",
+  updatedAt: "2026-10-03T19:12:21.000Z",
 } as const satisfies TheBeholderAcuity

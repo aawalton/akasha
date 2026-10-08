@@ -20,4 +20,6 @@ export const checkContainerFixtures = {
       statement: "The stub context has no claim map and no stock groups.",
     },
   ],
+  createdAt: "2026-09-02T08:24:13.411Z",
+  updatedAt: "2026-09-22T13:53:26.000Z",
 } as const satisfies TestFixture

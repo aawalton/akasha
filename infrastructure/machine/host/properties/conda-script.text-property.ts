@@ -15,4 +15,6 @@ export const condaScript = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-24T22:54:35.857Z",
+  updatedAt: "2026-09-24T22:55:08.000Z",
 } as const satisfies TextProperty

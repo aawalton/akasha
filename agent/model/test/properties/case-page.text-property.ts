@@ -15,4 +15,6 @@ export const casePage = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-02T00:38:51.296Z",
+  updatedAt: "2026-09-25T18:02:53.000Z",
 } as const satisfies TextProperty

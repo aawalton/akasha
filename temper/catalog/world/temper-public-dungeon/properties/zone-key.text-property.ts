@@ -9,4 +9,6 @@ export const zoneKey = {
   maxLength: 10,
   nameFormat: null,
   types: "ts",
+  createdAt: "2026-09-25T12:51:02.128Z",
+  updatedAt: "2026-09-25T12:51:07.000Z",
 } as const satisfies TextProperty

@@ -20,4 +20,6 @@ export const runOutcome = {
       statement: "A clock reaching the end first says the run is following its work on.",
     },
   ],
+  createdAt: "2026-09-19T00:43:38.883Z",
+  updatedAt: "2026-09-26T18:17:49.000Z",
 } as const satisfies TestFixture

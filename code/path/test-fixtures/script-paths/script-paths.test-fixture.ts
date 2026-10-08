@@ -50,4 +50,6 @@ export const scriptPaths = {
       statement: "Whether a name reaches a file that is there is not judged here.",
     },
   ],
+  createdAt: "2026-09-11T05:12:42.588Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies TestFixture

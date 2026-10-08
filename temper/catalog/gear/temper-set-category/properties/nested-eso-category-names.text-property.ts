@@ -19,4 +19,6 @@ export const nestedEsoCategoryNames = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-27T04:26:46.324Z",
+  updatedAt: "2026-09-27T04:27:04.000Z",
 } as const satisfies TextProperty

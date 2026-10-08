@@ -39,4 +39,6 @@ export const entryDefault = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-12T13:25:01.161Z",
+  updatedAt: "2026-09-22T10:09:03.000Z",
 } as const satisfies TextProperty

@@ -12,4 +12,6 @@ export const buildHashTestUtils = {
       statement: "The update a build was written at is the second byte of that build's bytes.",
     },
   ],
+  createdAt: "2026-09-11T04:59:31.249Z",
+  updatedAt: "2026-09-21T15:42:49.000Z",
 } as const satisfies TestFixture

@@ -11,4 +11,6 @@ export const theReach28571 = {
   mapPositions: [
     { mapFolder: "reach", mapTile: "reach_base", mapX: 0.46935608983, mapY: 0.309363126754 },
   ],
+  createdAt: "2026-09-25T00:05:15.006Z",
+  updatedAt: "2026-09-25T00:05:17.000Z",
 } as const satisfies TemperWorldSkyshard

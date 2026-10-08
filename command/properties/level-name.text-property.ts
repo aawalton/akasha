@@ -29,4 +29,6 @@ export const levelName = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-12T04:52:26.911Z",
+  updatedAt: "2026-09-22T13:44:42.000Z",
 } as const satisfies TextProperty

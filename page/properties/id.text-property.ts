@@ -17,4 +17,6 @@ export const id = {
     },
   ],
   types: "ts",
+  createdAt: "2026-08-28T18:54:50.220Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies TextProperty

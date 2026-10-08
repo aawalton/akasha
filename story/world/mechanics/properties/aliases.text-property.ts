@@ -16,4 +16,6 @@ export const aliases = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-03T03:38:24.529Z",
+  updatedAt: "2026-09-22T13:56:42.000Z",
 } as const satisfies TextProperty

@@ -9,4 +9,6 @@ export const namespace = {
   maxLength: 63,
   nameFormat: "name-format/lower-kebab-case",
   types: "ts",
+  createdAt: "2026-08-31T23:57:07.140Z",
+  updatedAt: "2026-09-24T19:06:05.000Z",
 } as const satisfies TextProperty

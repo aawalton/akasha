@@ -60,4 +60,6 @@ export const checkStaging = {
         "That page sits outside the tree a check reads, so no check is handed a file more.",
     },
   ],
+  createdAt: "2026-09-11T01:30:35.005Z",
+  updatedAt: "2026-09-22T13:37:15.000Z",
 } as const satisfies TestFixture

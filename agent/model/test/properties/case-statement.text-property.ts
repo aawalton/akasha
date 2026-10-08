@@ -9,4 +9,6 @@ export const caseStatement = {
   maxLength: 6000,
   nameFormat: null,
   types: "ts",
+  createdAt: "2026-09-02T00:38:51.296Z",
+  updatedAt: "2026-09-25T18:04:14.000Z",
 } as const satisfies TextProperty

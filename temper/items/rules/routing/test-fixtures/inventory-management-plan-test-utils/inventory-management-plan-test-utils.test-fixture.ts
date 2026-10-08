@@ -17,4 +17,6 @@ export const inventoryManagementPlanTestUtils = {
       statement: "Each item this makes carries an id no other item it made carries.",
     },
   ],
+  createdAt: "2026-09-02T09:02:04.764Z",
+  updatedAt: "2026-09-21T15:29:55.000Z",
 } as const satisfies TestFixture

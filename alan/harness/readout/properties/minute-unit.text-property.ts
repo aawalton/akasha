@@ -9,4 +9,6 @@ export const minuteUnit = {
   maxLength: 100,
   nameFormat: null,
   types: "ts",
+  createdAt: "2026-09-25T16:29:01.046Z",
+  updatedAt: "2026-09-25T16:29:06.000Z",
 } as const satisfies TextProperty

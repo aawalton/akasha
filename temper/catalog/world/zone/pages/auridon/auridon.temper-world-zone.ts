@@ -10,4 +10,6 @@ export const auridon = {
   pois: "jsonl",
   zoneCompletionActivities: "jsonl",
   itemBrowserPlaceKind: 1,
+  createdAt: "2026-09-02T09:14:16.379Z",
+  updatedAt: "2026-09-25T18:37:34.000Z",
 } as const satisfies TemperWorldZone

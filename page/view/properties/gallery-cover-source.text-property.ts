@@ -10,4 +10,6 @@ export const galleryCoverSource = {
   maxLength: 100,
   nameFormat: null,
   types: "ts",
+  createdAt: "2026-09-03T16:14:57.280Z",
+  updatedAt: "2026-09-22T14:00:26.000Z",
 } as const satisfies TextProperty

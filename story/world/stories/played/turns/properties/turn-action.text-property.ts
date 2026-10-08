@@ -15,4 +15,6 @@ export const turnAction = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-26T17:05:57.425Z",
+  updatedAt: "2026-09-26T17:06:02.000Z",
 } as const satisfies TextProperty

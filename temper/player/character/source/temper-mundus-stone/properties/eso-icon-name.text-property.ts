@@ -16,4 +16,6 @@ export const esoIconName = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-26T20:30:44.202Z",
+  updatedAt: "2026-09-26T20:30:48.000Z",
 } as const satisfies TextProperty

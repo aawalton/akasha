@@ -9,4 +9,6 @@ export const esoTraitConstantName = {
   maxLength: 200,
   nameFormat: "name-format/upper-snake-case",
   types: "ts",
+  createdAt: "2026-09-02T01:16:20.588Z",
+  updatedAt: "2026-09-15T17:21:40.000Z",
 } as const satisfies TextProperty

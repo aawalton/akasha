@@ -9,4 +9,6 @@ export const imageFolder = {
   maxLength: 100,
   nameFormat: null,
   types: "ts",
+  createdAt: "2026-09-08T15:12:04.515Z",
+  updatedAt: "2026-09-22T13:59:52.000Z",
 } as const satisfies TextProperty

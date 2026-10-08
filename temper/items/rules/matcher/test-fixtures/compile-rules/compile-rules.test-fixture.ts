@@ -16,4 +16,6 @@ export const compileRules = {
       statement: "The order the rules were given is kept.",
     },
   ],
+  createdAt: "2026-09-02T08:51:47.595Z",
+  updatedAt: "2026-09-21T15:36:01.000Z",
 } as const satisfies TestFixture

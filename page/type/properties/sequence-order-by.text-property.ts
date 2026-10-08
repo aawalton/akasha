@@ -15,4 +15,6 @@ export const sequenceOrderBy = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-02T16:05:19.489Z",
+  updatedAt: "2026-09-22T13:46:01.000Z",
 } as const satisfies TextProperty

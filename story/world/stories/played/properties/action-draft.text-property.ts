@@ -23,4 +23,6 @@ export const actionDraft = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-29T03:31:43.363Z",
+  updatedAt: "2026-09-29T03:32:14.000Z",
 } as const satisfies TextProperty

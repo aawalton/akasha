@@ -15,4 +15,6 @@ export const chapterBreak = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-24T19:25:51.789Z",
+  updatedAt: "2026-09-28T18:03:34.000Z",
 } as const satisfies TextProperty

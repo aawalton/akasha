@@ -23,4 +23,6 @@ export const readFiles = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-24T19:14:44.139Z",
+  updatedAt: "2026-09-24T19:19:49.000Z",
 } as const satisfies TextProperty

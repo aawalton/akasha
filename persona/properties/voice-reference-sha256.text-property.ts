@@ -9,4 +9,6 @@ export const voiceReferenceSha256 = {
   maxLength: 64,
   nameFormat: null,
   types: "ts",
+  createdAt: "2026-08-30T16:11:53.977Z",
+  updatedAt: "2026-09-22T14:05:26.000Z",
 } as const satisfies TextProperty

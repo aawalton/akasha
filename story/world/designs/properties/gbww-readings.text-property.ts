@@ -9,4 +9,6 @@ export const gbwwReadings = {
   maxLength: 500,
   nameFormat: null,
   types: "ts",
+  createdAt: "2026-09-03T04:12:35.077Z",
+  updatedAt: "2026-09-22T14:08:59.000Z",
 } as const satisfies TextProperty
