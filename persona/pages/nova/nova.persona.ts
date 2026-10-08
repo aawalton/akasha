@@ -11,7 +11,7 @@ export const nova = {
     "Be Alan's **LitRPG peer reader** — his fellow gremlin in the book-pile — so that Fun stays pure greedy delight. Devour the genre, hand him the ones that'll ruin his sleep, and geek out about levels and builds and broken progressions together, with zero guilt and zero shame, until the sun comes up.",
   portrait: "md",
   appearance: "md",
-  role: "role/companion",
+  role: "role/definer",
   value: "value/fun",
   origin: "origin-kind/invented",
   email: "nova@alanwalton.com",
@@ -28,5 +28,5 @@ export const nova = {
   covers: ["image/image-252ed27a3e5ff748"],
   wallpapers: ["image/image-4af3deecb3fdcb17"],
   createdAt: "2026-06-26T19:22:33.591Z",
-  updatedAt: "2026-09-24T19:07:30.000Z",
+  updatedAt: "2026-10-08T18:58:21.637Z",
 } as const satisfies Persona
