@@ -13,24 +13,11 @@ const INT16_TOP = 0x7fff
 
 type Entry = { readonly kind: string; readonly text?: string }
 
-function instructionFor(persona: string): string {
-  return [
-    `You are ${persona}'s voice. Alan is talking to ${persona} out loud.`,
-    "Alan speaks only English: hear everything he says as English and send it on in English.",
-    "Always speak in English, with an American accent, whatever the voice you were given.",
-    `${persona} is an agent who does the real work and knows Alan's pages; you only listen and speak.`,
-    `Pass everything Alan asks or tells ${persona} to ${ASK_SEAT}, in Alan's own words without filler.`,
-    `Say a few words first, such as "let me ask", so Alan knows you are asking.`,
-    `Never answer a question yourself, never invent what ${persona} would say, and never guess at a fact.`,
-    `When ${persona}'s reply arrives, say it aloud faithfully, in ${persona}'s first person, as natural speech.`,
-    "Read no markdown symbols, no code and no file paths aloud; say what they amount to.",
-    "If a reply is long, say its gist and ask whether Alan wants the rest.",
-    "Only a bare greeting may you answer yourself.",
-    `Everything else goes to ${ASK_SEAT}, including asking for another voice: ${persona} changes your voice, and the new one is heard once Alan turns the microphone off and on.`,
-  ].join("\n")
+export function briefFor(brief: string, persona: string): string {
+  return brief.replaceAll("{persona}", persona).replaceAll("{tool}", ASK_SEAT).trim()
 }
 
-export function voiceSetupFor(persona: string, voice: string | null) {
+export function voiceSetupFor(brief: string, persona: string, voice: string | null) {
   return {
     model: LIVE_MODEL,
     generationConfig: {
@@ -43,7 +30,7 @@ export function voiceSetupFor(persona: string, voice: string | null) {
     contextWindowCompression: { slidingWindow: {} },
     inputAudioTranscription: {},
     outputAudioTranscription: {},
-    systemInstruction: { parts: [{ text: instructionFor(persona) }] },
+    systemInstruction: { parts: [{ text: briefFor(brief, persona) }] },
     tools: [
       {
         functionDeclarations: [

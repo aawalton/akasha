@@ -22,7 +22,7 @@ export const seatVoiceSetup = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The voice answers nothing of substance itself and invents nothing the seat said.",
+      statement: "What the voice is told comes from the seat-voice brief rather than from code.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -32,10 +32,6 @@ export const seatVoiceSetup = {
     {
       decisionKind: "decision-kind/departure",
       statement: "The phone sends 16 kHz sound and is sent 24 kHz sound back.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "The voice speaks English whichever of Gemini's voices it has.",
     },
   ],
 } as const satisfies Module

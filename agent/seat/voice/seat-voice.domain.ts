@@ -5,7 +5,7 @@ export const seatVoice = {
   type: "page-type/domain",
   slug: "seat-voice",
   definition: "Alan talking to a seat out loud",
-  parts: ["module/seat-voice-setup", "module/seat-voice-live"],
+  parts: ["module/seat-voice-setup", "module/seat-voice-live", "page-type/voice-brief"],
   decisions: [
     {
       decisionKind: "decision-kind/departure",

@@ -27,6 +27,18 @@ function refused(error: string, status: number): Response {
 
 type Speaker = { readonly persona: string; readonly voice: string | null }
 
+async function briefOf(): Promise<string | { readonly refused: string }> {
+  const briefs = await askingFor({
+    pageTypeSlug: "voice-brief",
+    where: { slug: { is: "seat-voice" } },
+    keys: ["prose"],
+    files: ["prose"],
+    limit: 1,
+  })
+  if ("refused" in briefs) return { refused: briefs.refused }
+  return textIn(briefs.rows[0]?.prose) ?? { refused: "the seat-voice brief says nothing" }
+}
+
 async function voiceOf(persona: string): Promise<string | null | { readonly refused: string }> {
   const personas = await askingFor({
     pageTypeSlug: "persona",
@@ -71,6 +83,8 @@ export async function action({ request }: { request: Request }): Promise<Respons
   const speaker = await speakerOf(asked.data.seat)
   if ("refused" in speaker) return refused(speaker.refused, 404)
   const { persona, voice } = speaker
+  const brief = await briefOf()
+  if (typeof brief !== "string") return refused(brief.refused, 503)
   const now = Date.now()
   let answered: Response
   try {
@@ -81,7 +95,7 @@ export async function action({ request }: { request: Request }): Promise<Respons
         uses: 1,
         expireTime: new Date(now + TOKEN_LASTS_MS).toISOString(),
         newSessionExpireTime: new Date(now + SESSION_OPENS_WITHIN_MS).toISOString(),
-        bidiGenerateContentSetup: voiceSetupFor(persona, voice),
+        bidiGenerateContentSetup: voiceSetupFor(brief, persona, voice),
       }),
     })
   } catch (cause) {
