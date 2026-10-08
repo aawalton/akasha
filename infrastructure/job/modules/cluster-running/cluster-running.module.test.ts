@@ -200,6 +200,28 @@ test("a job still running past every round is answered as running", async () => 
   expect(held.seen.length).toBe(6)
 })
 
+test("a line the caller listens for is heard once, on the round the job first says it", async () => {
+  let rounds = 0
+  const held = capturing((argv) => {
+    if (argv[0] === "logs") {
+      rounds += 1
+      return ranOf(0, rounds < 2 ? "busy\n" : "busy\nmarked\tabc\n")
+    }
+    return ranOf(1)
+  })
+  let heard = 0
+  const hearing = {
+    started: () => undefined,
+    said: "marked",
+    heard: (): undefined => {
+      heard += 1
+    },
+  }
+  expect(await fateOf(held.running, NAME, 4, hearing)).toBe("running")
+  expect(heard).toBe(1)
+  expect(held.seen.filter((one) => one[0] === "logs").length).toBe(2)
+})
+
 test("every line the job said is read rather than the last few", () => {
   expect(logsArgv(NAME)).toContain("--tail=-1")
 })

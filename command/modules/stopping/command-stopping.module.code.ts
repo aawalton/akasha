@@ -80,3 +80,28 @@ export function allowedThrough(): undefined {
   if (one.live !== null) one.live.terminate()
   one.live = null
 }
+
+export function setAside(seconds: number, named: string): () => undefined {
+  const one = holder()
+  let counting = one.live !== null
+  allowedThrough()
+  return () => {
+    if (!counting) return
+    counting = false
+    if (one.live !== null) one.live.terminate()
+    one.live = workerFor(seconds, named)
+  }
+}
+
+export async function uncounted<T>(
+  seconds: number,
+  named: string,
+  work: () => Promise<T>
+): Promise<T> {
+  const counted = setAside(seconds, named)
+  try {
+    return await work()
+  } finally {
+    counted()
+  }
+}

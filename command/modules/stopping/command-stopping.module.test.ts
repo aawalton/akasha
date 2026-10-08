@@ -7,6 +7,8 @@ import {
   MEASURED_ALLOWED,
   saidOf,
   secondsIn,
+  setAside,
+  uncounted,
   waitedWithin,
   watching,
   watchOf,
@@ -108,6 +110,35 @@ test("a call under no ceiling is watched by no thread at all", async () => {
   watch.ended()
 
   expect(Date.now() - at).toBeGreaterThan(SECOND)
+})
+
+test("a call set aside runs past its ceiling and is watched again once counted", async () => {
+  const watch = watching(1, NAMED)
+  const counted = setAside(MEASURED_ALLOWED, NAMED)
+  const at = Date.now()
+
+  await Bun.sleep(SECOND + SECOND / 2)
+  counted()
+  watch.ended()
+
+  expect(Date.now() - at).toBeGreaterThan(SECOND)
+})
+
+test("a call under no ceiling is left under none once counted again", async () => {
+  const watch = watching(null, NAMED)
+  setAside(1, NAMED)()
+  const at = Date.now()
+
+  await Bun.sleep(SECOND + SECOND / 2)
+  watch.ended()
+
+  expect(Date.now() - at).toBeGreaterThan(SECOND)
+})
+
+test("work done uncounted gives back what the work answered", async () => {
+  const watch = watching(MEASURED_ALLOWED, NAMED)
+  expect(await uncounted(MEASURED_ALLOWED, NAMED, async () => 7)).toBe(7)
+  watch.ended()
 })
 
 test("allowing a call through where no watch is live leaves it with no watch", () => {

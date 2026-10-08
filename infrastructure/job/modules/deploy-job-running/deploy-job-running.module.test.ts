@@ -1,11 +1,14 @@
 import { expect, test } from "bun:test"
+import { watching } from "akasha/command/modules/stopping/command-stopping.module.code.ts"
 import { ROOT } from "akasha/infrastructure/container-image/dockerfile/modules/services/dockerfile-services.module.code.ts"
 import { COMMIT } from "akasha/infrastructure/job/modules/cluster-running/cluster-running.module.test-fixtures.ts"
 import {
+  JUDGED,
   jobNameFor,
   jobsOf,
 } from "akasha/infrastructure/job/modules/deploy-job/deploy-job.module.code.ts"
 import {
+  hearingFor,
   type Putting,
   type Recalling,
   ranInCluster,
@@ -53,6 +56,21 @@ test("a deploy's job waits beside every running job deploying the same subject",
 test("a subject's jobs are its own at any commit and never another subject's", () => {
   expect(jobsOf("alanwalton").test(jobNameFor("alanwalton", WAS))).toBe(true)
   expect(jobsOf("alanwalton").test(jobNameFor("alanwalton-web", COMMIT))).toBe(false)
+})
+
+test("a deploy's ceiling is set aside once its job starts and counted again once it is judged", async () => {
+  const watch = watching(1, "akasha one")
+  const hearing = hearingFor("akasha one")
+  const at = Date.now()
+  hearing.started()
+  hearing.started()
+
+  await Bun.sleep(1500)
+  hearing.heard()
+  watch.ended()
+
+  expect(Date.now() - at).toBeGreaterThan(1000)
+  expect(hearing.said).toBe(JUDGED)
 })
 
 test("the commit the subject was last deployed at reaches the job", async () => {

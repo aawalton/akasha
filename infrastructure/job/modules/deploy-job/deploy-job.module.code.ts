@@ -1,16 +1,34 @@
 import { measured } from "akasha/command/argument/pages/measured.argument.ts"
 import { ref } from "akasha/command/argument/pages/ref.argument.ts"
+import { uncounted } from "akasha/command/modules/stopping/command-stopping.module.code.ts"
 import { deploy } from "akasha/command/pages/deploy/deploy.command.ts"
 import {
   checkedOut,
   NAMED,
   jobYamlFor as yamlFor,
 } from "akasha/infrastructure/job/modules/cluster-running/cluster-running.module.code.ts"
+import { inCluster } from "akasha/infrastructure/job/modules/run-in-cluster/run-in-cluster.module.code.ts"
 import { dispatcherIn } from "akasha/infrastructure/machine/provisioning/scripts/akasha-launcher/akasha-launcher.shell-script.scripting.code.ts"
 import type { Reading } from "akasha/page/index/modules/shape/index-shape.module.code.ts"
 
 export function jobNameFor(subject: string, commit: string): string {
   return `${deploy.name}-${subject}-${commit.slice(0, NAMED)}`
+}
+
+export const JUDGED = "judged"
+
+function judgedLine(commit: string): string {
+  return `${JUDGED}\t${commit}\n`
+}
+
+export async function judgedApart<T>(
+  calledAs: string,
+  commit: string,
+  judging: () => Promise<T>
+): Promise<T> {
+  const judged = await uncounted(deploy.maxWallSeconds, calledAs, judging)
+  if (inCluster()) process.stdout.write(judgedLine(commit))
+  return judged
 }
 
 export function jobsOf(subject: string): RegExp {

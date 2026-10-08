@@ -22,6 +22,10 @@ export const deployJobRunning = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A caller listening is told the job is starting before any wait the job makes.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "What puts the job up is handed in, so a test reaches no cluster and no secret.",
     },
     {
@@ -41,5 +45,5 @@ export const deployJobRunning = {
       statement: "The commit the subject was last deployed at is read before the job is composed.",
     },
   ],
-  updatedAt: "2026-10-08T15:37:49.683Z",
+  updatedAt: "2026-10-08T15:43:25.589Z",
 } as const satisfies Module

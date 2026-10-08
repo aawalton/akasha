@@ -85,6 +85,7 @@ import {
 } from "akasha/command/pages/deploy/modules/tree-sweeping/deploy-tree-sweeping.module.code.ts"
 import { putUpWebApp } from "akasha/command/pages/deploy/modules/web-putting-up/deploy-web-putting-up.module.code.ts"
 import type { Ended } from "akasha/infrastructure/job/modules/cluster-running/cluster-running.module.code.ts"
+import { judgedApart } from "akasha/infrastructure/job/modules/deploy-job/deploy-job.module.code.ts"
 import { ranInCluster } from "akasha/infrastructure/job/modules/deploy-job-running/deploy-job-running.module.code.ts"
 import { inCluster } from "akasha/infrastructure/job/modules/run-in-cluster/run-in-cluster.module.code.ts"
 import { waitedForRoom } from "akasha/infrastructure/kernel/modules/landing-admission/landing-admission.module.code.ts"
@@ -325,7 +326,9 @@ async function deployHeld(
     read.kind === WORKSTATION_SERVICE && restarting !== null
       ? provingAt(given.root, commit, restarting)
       : []
-  const judged = await judgementOf(given.root, slug, was, commit, built, proving, closures)
+  const judged = await judgedApart(given.calledAs, commit, () =>
+    judgementOf(given.root, slug, was, commit, built, proving, closures)
+  )
   const noting = async (why: readonly string[]): Promise<readonly string[]> => [
     ...(await recordedRefusal(slug, read.pagePath, commit, why, keeping)),
     ...(await recordedEnding(slug, read.pagePath, true, new Date(), keeping)),

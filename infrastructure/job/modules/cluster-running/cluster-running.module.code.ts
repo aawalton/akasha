@@ -301,10 +301,30 @@ export function endedBy(fate: Fate, lines: Ran, name: string): Ended {
   return { why: `the job ${name} had not ended, so its lines are all that is known` }
 }
 
-export async function fateOf(running: Running, name: string, rounds: number): Promise<Fate> {
+export type Hearing = {
+  readonly started: () => undefined
+  readonly said: string
+  readonly heard: () => undefined
+}
+
+function heardIn(lines: Ran, said: string): boolean {
+  return lines.stdout.split("\n").some((one) => one.startsWith(said))
+}
+
+export async function fateOf(
+  running: Running,
+  name: string,
+  rounds: number,
+  hearing: Hearing | null = null
+): Promise<Fate> {
+  let listening = hearing
   for (let round = 0; round < rounds; round += 1) {
     if ((await running(waitArgv(name, COMPLETE, WAITED_ONCE), null)).code === 0) return "complete"
     if ((await running(waitArgv(name, FAILED, AT_ONCE), null)).code === 0) return "failed"
+    if (listening !== null && heardIn(await running(logsArgv(name), null), listening.said)) {
+      listening.heard()
+      listening = null
+    }
   }
   return "running"
 }
@@ -346,7 +366,8 @@ export async function jobRan(
   running: Running = ranBy,
   carrying: Carrying = carriedByOrigin,
   pushing: Pushing = pushBranch,
-  beside: RegExp | null = null
+  beside: RegExp | null = null,
+  hearing: Hearing | null = null
 ): Promise<Ended> {
   const why = carriedAt(root, commit, carrying, pushing)
   if (why !== null) return { why }
@@ -362,6 +383,6 @@ export async function jobRan(
   if (put.code !== 0) {
     return { why: `the job ${name} would not go up: ${put.stderr.trim()}` }
   }
-  const fate = await fateOf(running, name, rounds)
+  const fate = await fateOf(running, name, rounds, hearing)
   return endedBy(fate, await running(logsArgv(name), null), name)
 }

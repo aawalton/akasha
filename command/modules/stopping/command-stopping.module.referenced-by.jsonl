@@ -9,4 +9,7 @@
 {"propertySlug":"import","fileName":"command-stopping.module.code.ts","path":"command/pages/infrastructure/service/run/infrastructure-service-run.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"command-stopping.module.code.ts","path":"command/pages/measure/command/modules/command-measuring/command-measuring.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"command-stopping.module.code.ts","path":"command/pages/measure/command/modules/command-measuring/command-measuring.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"command-stopping.module.code.ts","path":"infrastructure/job/modules/deploy-job-running/deploy-job-running.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"command-stopping.module.code.ts","path":"infrastructure/job/modules/deploy-job-running/deploy-job-running.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"command-stopping.module.code.ts","path":"infrastructure/job/modules/deploy-job/deploy-job.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"command/command.page-type.ts","id":"01a04bdd-596d-7b81-9204-1a882f474a5f"}

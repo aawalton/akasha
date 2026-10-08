@@ -90,6 +90,14 @@ export const commandStopping = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A call may set its ceiling aside and count it again from the start later.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A call under no ceiling when it set the ceiling aside is under none after.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A call stopped at the ceiling records nothing about what that call cost.",
     },
     {
@@ -110,4 +118,5 @@ export const commandStopping = {
       statement: "Nothing here waits on the answer a command gives.",
     },
   ],
+  updatedAt: "2026-10-08T15:43:25.589Z",
 } as const satisfies Module

@@ -27,6 +27,14 @@ export const deployJob = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A deploy's checks run outside the ceiling the deploy is under.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The deploy a job carries says a line of its own once its checks have judged it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "The command the job runs is asked of the index rather than spelled.",
     },
     {
@@ -47,4 +55,5 @@ export const deployJob = {
       statement: "Nothing here says what a pod a job starts is given.",
     },
   ],
+  updatedAt: "2026-10-08T15:43:25.589Z",
 } as const satisfies Module
