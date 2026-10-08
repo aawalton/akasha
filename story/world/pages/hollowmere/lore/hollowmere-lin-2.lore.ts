@@ -9,6 +9,23 @@ export const hollowmereLin2 = {
   about: "character-other/hollowmere-lin",
   facts: [
     {
+      fact: "Lin wrote her mother in pencil, I want to stay, and read it unsent to Nala and Bea in 15.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/hollowmere-lin",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-bea",
+      ],
+    },
+    {
+      fact: "Lin slept all night with her pencil letter under her pillow, she told Nala.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-lin",
+      ],
+    },
+    {
       fact: "At Nala's first life drawing Lin moved her wrist and told her: Look more. Draw less.",
       knowers: [
         "lore-disclosure/game-master",
@@ -198,5 +215,5 @@ export const hollowmereLin2 = {
     },
   ],
   createdAt: "2026-10-03T12:15:38.279Z",
-  updatedAt: "2026-10-03T14:14:10.000Z",
+  updatedAt: "2026-10-08T16:25:48.652Z",
 } as const satisfies Lore
