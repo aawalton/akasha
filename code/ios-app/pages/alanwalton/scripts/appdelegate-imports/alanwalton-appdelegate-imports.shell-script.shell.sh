@@ -34,7 +34,7 @@ insert_import_after_capacitor Security
 insert_import_after_capacitor CryptoKit
 insert_import_after_capacitor AuthenticationServices
 insert_import_after_capacitor HealthKit
+insert_import_after_capacitor MediaPlayer
 # A build tree on the mac outlives a run, and an app delegate written while the
 # on-device Kokoro plugin was built still imports its packages at the head.
 remove_import FluidAudio
-remove_import MediaPlayer

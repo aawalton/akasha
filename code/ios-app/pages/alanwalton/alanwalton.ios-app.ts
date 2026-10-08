@@ -79,5 +79,7 @@ export const alanwalton = {
     "shell-script/alanwalton-live-activity",
     "shell-script/alanwalton-handover-sign-in",
     "shell-script/alanwalton-widget-tap-intent",
+    "shell-script/alanwalton-now-playing-commands",
   ],
+  updatedAt: "2026-10-08T15:53:49.437Z",
 } as const satisfies IosApp
