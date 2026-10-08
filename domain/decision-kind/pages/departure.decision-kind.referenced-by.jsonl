@@ -768,6 +768,7 @@
 {"propertySlug":"decision-kind","path":"alan/harness/email-watch/modules/inbox-pass/inbox-pass.module.ts","id":"01a06948-c4c6-798a-a36f-1d22dd231125"}
 {"propertySlug":"decision-kind","path":"alan/harness/email-watch/modules/inbox-run/inbox-run.module.ts","id":"01a06596-a92d-7000-8626-c02c9e56a331"}
 {"propertySlug":"decision-kind","path":"alan/harness/email-watch/modules/inbox-watching/inbox-watching.module.ts","id":"01a0686a-7a57-789b-82d6-c6d715e27ae4"}
+{"propertySlug":"decision-kind","path":"alan/harness/email-watch/modules/spam-rescue/spam-rescue.module.ts","id":"01a11c54-9b11-738e-8975-fe9437685abf"}
 {"propertySlug":"decision-kind","path":"alan/harness/errors-client/modules/error-reporting/error-reporting.module.ts","id":"01a05c89-6034-7244-b9d2-6f9242df9ca4"}
 {"propertySlug":"decision-kind","path":"alan/harness/errors-client/modules/global-error-capture/global-error-capture.module.ts","id":"01a05c89-6034-7aa8-8022-17a7a37e61e3"}
 {"propertySlug":"decision-kind","path":"alan/harness/geo-io/modules/geoapify/geoapify.module.ts","id":"01a05c48-deeb-7002-a7d6-912bcaf143d2"}

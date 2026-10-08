@@ -12,6 +12,7 @@ export const emailWatch = {
     "module/inbox-pass",
     "module/inbox-run",
     "module/inbox-watching",
+    "module/spam-rescue",
     "service-workstation/alan-email-worker",
   ],
   decisions: [
@@ -46,5 +47,5 @@ export const emailWatch = {
     },
   ],
   createdAt: "2026-09-03T04:46:07.662Z",
-  updatedAt: "2026-09-24T22:45:14.000Z",
+  updatedAt: "2026-10-08T16:24:29.200Z",
 } as const satisfies Domain

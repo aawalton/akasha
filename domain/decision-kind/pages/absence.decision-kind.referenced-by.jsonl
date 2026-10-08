@@ -330,6 +330,7 @@
 {"propertySlug":"decision-kind","path":"alan/harness/email-routing/service-workstations/persona-email-routing/persona-email-routing.service-workstation.ts","id":"01a0a147-4f53-7e7e-8fb1-00a3014534b0"}
 {"propertySlug":"decision-kind","path":"alan/harness/email-watch/modules/email-rule-set/email-rule-set.module.ts","id":"01a06871-54e5-7000-b703-1ea0c1101a4d"}
 {"propertySlug":"decision-kind","path":"alan/harness/email-watch/modules/inbox-pass/inbox-pass.module.ts","id":"01a06948-c4c6-798a-a36f-1d22dd231125"}
+{"propertySlug":"decision-kind","path":"alan/harness/email-watch/modules/spam-rescue/spam-rescue.module.ts","id":"01a11c54-9b11-738e-8975-fe9437685abf"}
 {"propertySlug":"decision-kind","path":"alan/harness/errors-client/errors-client.domain.ts","id":"01a05c89-6033-7676-ba14-f9bfd36ca899"}
 {"propertySlug":"decision-kind","path":"alan/harness/errors-client/modules/error-reporting/error-reporting.module.ts","id":"01a05c89-6034-7244-b9d2-6f9242df9ca4"}
 {"propertySlug":"decision-kind","path":"alan/harness/geo-io/geo-io.domain.ts","id":"01a05c48-deeb-7000-a8e9-296daa14b0c7"}
