@@ -17,4 +17,6 @@ export const rejected = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-15T19:46:09.518Z",
+  updatedAt: "2026-09-15T19:51:44.000Z",
 } as const satisfies BooleanProperty

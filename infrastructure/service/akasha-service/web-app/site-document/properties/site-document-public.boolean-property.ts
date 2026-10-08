@@ -13,4 +13,6 @@ export const siteDocumentPublic = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-27T14:06:33.213Z",
+  updatedAt: "2026-09-27T14:06:38.000Z",
 } as const satisfies BooleanProperty

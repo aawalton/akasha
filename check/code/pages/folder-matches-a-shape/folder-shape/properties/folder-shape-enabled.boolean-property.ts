@@ -7,4 +7,6 @@ export const folderShapeEnabled = {
   propertySlug: "enabled",
   definition: "whether a shape judges folders",
   types: "ts",
+  createdAt: "2026-09-01T22:39:12.646Z",
+  updatedAt: "2026-09-15T15:59:02.000Z",
 } as const satisfies BooleanProperty

@@ -21,4 +21,6 @@ export const temporary = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-10T15:16:43.908Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies BooleanProperty

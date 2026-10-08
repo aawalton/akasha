@@ -7,4 +7,6 @@ export const liveSubagent = {
   propertySlug: "live-subagent",
   definition: "whether a seat has a subagent that runs",
   types: "ts",
+  createdAt: "2026-09-04T15:03:02.407Z",
+  updatedAt: "2026-09-25T18:04:23.000Z",
 } as const satisfies BooleanProperty

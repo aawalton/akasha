@@ -7,4 +7,6 @@ export const asset = {
   propertySlug: "asset",
   definition: "whether an account is money held rather than money owed",
   types: "ts",
+  createdAt: "2026-09-03T16:11:27.616Z",
+  updatedAt: "2026-09-15T15:59:02.000Z",
 } as const satisfies BooleanProperty

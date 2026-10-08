@@ -11,4 +11,6 @@ export const commentariesOnTheLawsOfEngland = {
   ownProgress: 0,
   unit: "unit/words",
   status: "paused",
+  createdAt: "2026-09-03T16:09:15.150Z",
+  updatedAt: "2026-09-25T13:02:31.000Z",
 } as const satisfies BookCollection

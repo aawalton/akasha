@@ -7,4 +7,6 @@ export const sendInFlight = {
   propertySlug: "send-in-flight",
   definition: "whether a seat waits on a message sent by the seat",
   types: "ts",
+  createdAt: "2026-08-30T19:19:32.449Z",
+  updatedAt: "2026-09-25T18:04:35.000Z",
 } as const satisfies BooleanProperty

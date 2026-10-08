@@ -7,4 +7,6 @@ export const killSwitchPresent = {
   propertySlug: "kill-switch-present",
   definition: "whether something outside the driver can stop this trim",
   types: "ts",
+  createdAt: "2026-09-21T18:37:32.177Z",
+  updatedAt: "2026-09-21T18:38:27.000Z",
 } as const satisfies BooleanProperty

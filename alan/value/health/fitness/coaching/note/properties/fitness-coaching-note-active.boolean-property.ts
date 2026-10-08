@@ -7,4 +7,6 @@ export const fitnessCoachingNoteActive = {
   propertySlug: "active",
   definition: "whether the note still holds",
   types: "ts",
+  createdAt: "2026-09-03T04:15:54.368Z",
+  updatedAt: "2026-09-15T15:59:02.000Z",
 } as const satisfies BooleanProperty

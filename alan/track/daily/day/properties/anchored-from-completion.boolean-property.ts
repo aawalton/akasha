@@ -7,4 +7,6 @@ export const anchoredFromCompletion = {
   propertySlug: "anchored-from-completion",
   definition: "whether the next round was counted from a finish rather than from its due day",
   types: "ts",
+  createdAt: "2026-09-02T02:00:36.367Z",
+  updatedAt: "2026-09-15T15:59:02.000Z",
 } as const satisfies BooleanProperty

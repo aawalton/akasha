@@ -9,4 +9,6 @@ export const sources = {
   partOfCollections: ["alan-book/my-faith"],
   unit: "unit/words",
   chapterText: "md",
+  createdAt: "2026-09-09T22:54:50.285Z",
+  updatedAt: "2026-09-25T13:02:31.000Z",
 } as const satisfies BookSection

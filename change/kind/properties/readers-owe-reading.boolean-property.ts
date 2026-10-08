@@ -7,4 +7,6 @@ export const readersOweReading = {
   propertySlug: "readers-owe-reading",
   definition: "whether a change of this kind leaves every other agent owing the reading again",
   types: "ts",
+  createdAt: "2026-09-06T13:23:59.959Z",
+  updatedAt: "2026-09-15T15:59:02.000Z",
 } as const satisfies BooleanProperty

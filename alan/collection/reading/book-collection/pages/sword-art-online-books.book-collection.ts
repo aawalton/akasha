@@ -12,4 +12,6 @@ export const swordArtOnlineBooks = {
   unit: "unit/words",
   status: "following",
   grade: "B",
+  createdAt: "2026-09-03T16:09:15.151Z",
+  updatedAt: "2026-09-25T13:02:31.000Z",
 } as const satisfies BookCollection

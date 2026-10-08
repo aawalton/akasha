@@ -7,4 +7,6 @@ export const experimental = {
   propertySlug: "experimental",
   definition: "whether a check has landed and does not yet judge",
   types: "ts",
+  createdAt: "2026-09-10T20:06:35.621Z",
+  updatedAt: "2026-09-15T15:59:02.000Z",
 } as const satisfies BooleanProperty

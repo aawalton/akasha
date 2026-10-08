@@ -7,4 +7,6 @@ export const federalTaxCreditEligible = {
   propertySlug: "federal-tax-credit-eligible",
   definition: "whether the federal clean vehicle credit reaches this trim",
   types: "ts",
+  createdAt: "2026-09-21T18:37:27.628Z",
+  updatedAt: "2026-09-21T18:38:27.000Z",
 } as const satisfies BooleanProperty

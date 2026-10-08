@@ -22,4 +22,6 @@ export const askedByName = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-24T16:36:50.742Z",
+  updatedAt: "2026-09-24T16:39:02.000Z",
 } as const satisfies BooleanProperty

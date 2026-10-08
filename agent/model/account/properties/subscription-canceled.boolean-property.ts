@@ -18,4 +18,6 @@ export const subscriptionCanceled = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-27T12:53:38.002Z",
+  updatedAt: "2026-09-27T12:53:44.000Z",
 } as const satisfies BooleanProperty

@@ -10,4 +10,6 @@ export const myStrategyOverview = {
   brief:
     "Continuing orientation for My Strategy — what the book is, what Alan has settled, and what is still open. Read this before an interview session on strategy so nothing already settled gets re-derived and nothing still open gets treated as decided. The numbered pages carry the detail and the quotations; this page carries the map.",
   writing: "md",
+  createdAt: "2026-09-03T04:18:53.341Z",
+  updatedAt: "2026-09-22T13:22:21.000Z",
 } as const satisfies BookRecord

@@ -7,4 +7,6 @@ export const sourced = {
   propertySlug: "sourced",
   definition: "whether a script is read into another's run",
   types: "ts",
+  createdAt: "2026-08-31T19:23:39.689Z",
+  updatedAt: "2026-09-15T15:59:02.000Z",
 } as const satisfies BooleanProperty

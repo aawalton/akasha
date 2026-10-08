@@ -7,4 +7,6 @@ export const inboxFindingsClearedToday = {
   propertySlug: "inbox-findings-cleared-today",
   definition: "whether the findings reached empty on a day",
   types: "ts",
+  createdAt: "2026-09-24T17:29:37.423Z",
+  updatedAt: "2026-09-24T17:29:49.000Z",
 } as const satisfies BooleanProperty

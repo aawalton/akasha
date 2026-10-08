@@ -7,4 +7,6 @@ export const compacting = {
   propertySlug: "compacting",
   definition: "whether a seat writes a summary of the words written in the seat",
   types: "ts",
+  createdAt: "2026-09-04T14:02:11.283Z",
+  updatedAt: "2026-09-25T18:03:55.000Z",
 } as const satisfies BooleanProperty

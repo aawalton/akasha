@@ -7,4 +7,6 @@ export const runsOnChange = {
   propertySlug: "runs-on-change",
   definition: "whether a check judges a set of changes at change",
   types: "ts",
+  createdAt: "2026-08-29T15:32:06.054Z",
+  updatedAt: "2026-09-15T15:59:02.000Z",
 } as const satisfies BooleanProperty

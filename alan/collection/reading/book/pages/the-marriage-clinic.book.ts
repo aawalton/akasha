@@ -10,4 +10,6 @@ export const theMarriageClinic = {
   unit: "unit/words",
   ownLength: 227250,
   publishedAt: "2020-06-23",
+  createdAt: "2026-04-22T12:39:34.026Z",
+  updatedAt: "2026-09-25T13:02:31.000Z",
 } as const satisfies Book

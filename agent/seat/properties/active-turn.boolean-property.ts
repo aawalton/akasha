@@ -7,4 +7,6 @@ export const activeTurn = {
   propertySlug: "active-turn",
   definition: "whether a seat is working",
   types: "ts",
+  createdAt: "2026-09-04T12:47:06.410Z",
+  updatedAt: "2026-09-25T17:56:12.000Z",
 } as const satisfies BooleanProperty

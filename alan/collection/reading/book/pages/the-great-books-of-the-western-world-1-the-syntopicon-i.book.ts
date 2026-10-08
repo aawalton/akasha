@@ -11,4 +11,6 @@ export const theGreatBooksOfTheWesternWorld1TheSyntopiconI = {
   position: 1,
   ownLength: 208000,
   ownProgress: 208000,
+  createdAt: "2026-04-22T12:39:34.045Z",
+  updatedAt: "2026-09-25T13:02:31.000Z",
 } as const satisfies Book

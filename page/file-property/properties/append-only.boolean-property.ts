@@ -29,4 +29,6 @@ export const appendOnly = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-11T21:46:48.823Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies BooleanProperty

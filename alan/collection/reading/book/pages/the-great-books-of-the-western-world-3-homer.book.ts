@@ -12,4 +12,6 @@ export const theGreatBooksOfTheWesternWorld3Homer = {
   position: 3,
   ownLength: 135250,
   ownProgress: 135250,
+  createdAt: "2026-04-22T12:39:34.045Z",
+  updatedAt: "2026-09-25T13:02:31.000Z",
 } as const satisfies Book

@@ -7,4 +7,6 @@ export const accountHidden = {
   propertySlug: "account-hidden",
   definition: "whether Monarch keeps an account out of its own totals",
   types: "ts",
+  createdAt: "2026-09-03T16:11:27.616Z",
+  updatedAt: "2026-09-15T15:59:02.000Z",
 } as const satisfies BooleanProperty

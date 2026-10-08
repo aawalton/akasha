@@ -7,4 +7,6 @@ export const runsOnRead = {
   propertySlug: "runs-on-read",
   definition: "whether a read hands back what this warrant names",
   types: "ts",
+  createdAt: "2026-08-29T21:04:13.252Z",
+  updatedAt: "2026-09-15T15:59:02.000Z",
 } as const satisfies BooleanProperty

@@ -11,4 +11,6 @@ export const secondPassport = {
   partOfCollections: ["alan-book/my-projects"],
   unit: "unit/words",
   chapterText: "md",
+  createdAt: "2026-09-06T13:36:04.822Z",
+  updatedAt: "2026-09-25T13:02:31.000Z",
 } as const satisfies BookSection

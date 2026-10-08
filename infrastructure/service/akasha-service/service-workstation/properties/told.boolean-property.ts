@@ -21,4 +21,6 @@ export const told = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-15T14:27:42.572Z",
+  updatedAt: "2026-09-24T19:06:05.000Z",
 } as const satisfies BooleanProperty

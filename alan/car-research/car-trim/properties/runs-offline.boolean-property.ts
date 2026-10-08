@@ -7,4 +7,6 @@ export const runsOffline = {
   propertySlug: "runs-offline",
   definition: "whether the car drives and works with no network reaching it",
   types: "ts",
+  createdAt: "2026-09-21T18:37:36.094Z",
+  updatedAt: "2026-09-21T18:38:27.000Z",
 } as const satisfies BooleanProperty

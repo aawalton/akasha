@@ -17,4 +17,6 @@ export const warm = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-11T13:11:27.185Z",
+  updatedAt: "2026-09-24T19:06:05.000Z",
 } as const satisfies BooleanProperty

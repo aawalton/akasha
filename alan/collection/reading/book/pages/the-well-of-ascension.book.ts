@@ -18,4 +18,6 @@ export const theWellOfAscension = {
       externalLink: "https://www.amazon.com/dp/B000UZQI0Q",
     },
   ],
+  createdAt: "2026-04-22T12:39:34.044Z",
+  updatedAt: "2026-09-25T13:02:31.000Z",
 } as const satisfies Book

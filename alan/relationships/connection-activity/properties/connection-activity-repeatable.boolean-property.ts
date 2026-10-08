@@ -7,4 +7,6 @@ export const connectionActivityRepeatable = {
   propertySlug: "connection-activity-repeatable",
   definition: "whether it keeps paying when he does it again",
   types: "ts",
+  createdAt: "2026-09-03T04:37:29.998Z",
+  updatedAt: "2026-09-25T13:01:00.000Z",
 } as const satisfies BooleanProperty

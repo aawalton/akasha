@@ -10,4 +10,6 @@ export const theGreatBooksOfTheWesternWorld29Milton = {
   unit: "unit/words",
   position: 29,
   ownLength: 103000,
+  createdAt: "2026-04-22T12:39:34.045Z",
+  updatedAt: "2026-09-25T13:02:31.000Z",
 } as const satisfies Book

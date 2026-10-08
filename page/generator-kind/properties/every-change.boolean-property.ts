@@ -22,4 +22,6 @@ export const everyChange = {
     },
   ],
   types: "ts",
+  createdAt: "2026-10-08T14:46:24.533Z",
+  updatedAt: "2026-10-08T14:47:09.000Z",
 } as const satisfies BooleanProperty

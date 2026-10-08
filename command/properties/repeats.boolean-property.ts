@@ -21,4 +21,6 @@ export const repeats = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-12T05:00:47.250Z",
+  updatedAt: "2026-09-22T10:09:03.000Z",
 } as const satisfies BooleanProperty

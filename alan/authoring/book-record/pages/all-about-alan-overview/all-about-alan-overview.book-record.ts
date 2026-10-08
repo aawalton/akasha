@@ -11,4 +11,6 @@ export const allAboutAlanOverview = {
     "Pre-compiled orientation to who Alan is — the continuing distillation every /abby session loads at startup so the interviewer walks in already knowing the unusual, easy-to-miss shape of Alan's psychology and situation. Third-person briefing for the interviewer, not a note for Future-Alan. Every claim traces to the all-about-alan topic that holds it, linked at the point of use; this file invents nothing.",
   keptBy: "the archivist",
   writing: "md",
+  createdAt: "2026-09-03T04:18:53.341Z",
+  updatedAt: "2026-09-22T13:22:21.000Z",
 } as const satisfies BookRecord

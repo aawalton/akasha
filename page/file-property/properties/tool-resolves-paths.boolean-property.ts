@@ -21,4 +21,6 @@ export const toolResolvesPaths = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-11T00:41:26.861Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies BooleanProperty

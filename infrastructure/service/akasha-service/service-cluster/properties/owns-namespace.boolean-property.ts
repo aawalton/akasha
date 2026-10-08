@@ -13,4 +13,6 @@ export const ownsNamespace = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-24T23:58:44.744Z",
+  updatedAt: "2026-09-24T23:59:07.000Z",
 } as const satisfies BooleanProperty

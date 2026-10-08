@@ -30,4 +30,6 @@ export const takesAtMost = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-11T19:05:05.054Z",
+  updatedAt: "2026-09-24T16:09:53.000Z",
 } as const satisfies BooleanProperty

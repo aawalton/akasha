@@ -7,4 +7,6 @@ export const struckOut = {
   propertySlug: "struck-out",
   definition: "whether the offer is finished",
   types: "ts",
+  createdAt: "2026-09-03T04:27:14.757Z",
+  updatedAt: "2026-09-22T13:59:16.000Z",
 } as const satisfies BooleanProperty

@@ -26,4 +26,6 @@ export const afterChecks = {
     },
   ],
   types: "ts",
+  createdAt: "2026-08-30T01:03:18.644Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies BooleanProperty

@@ -7,4 +7,6 @@ export const writerOwesReading = {
   propertySlug: "writer-owes-reading",
   definition: "whether the writer of a change of this kind owes the readings its paths warrant",
   types: "ts",
+  createdAt: "2026-09-01T17:52:04.603Z",
+  updatedAt: "2026-09-15T15:59:02.000Z",
 } as const satisfies BooleanProperty

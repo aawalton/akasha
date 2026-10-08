@@ -9,4 +9,6 @@ export const bookOfMormon = {
   partOfCollections: ["book-section/my-faith/sources", "alan-book/my-faith"],
   unit: "unit/words",
   chapterText: "md",
+  createdAt: "2026-09-09T22:54:58.776Z",
+  updatedAt: "2026-09-25T13:02:31.000Z",
 } as const satisfies BookSection

@@ -8,4 +8,6 @@ export const toDoAnchoredFromCompletion = {
   definition:
     "whether the next round is counted from when it was last done rather than from when it was last due",
   types: "ts",
+  createdAt: "2026-09-03T04:57:44.119Z",
+  updatedAt: "2026-09-15T15:59:02.000Z",
 } as const satisfies BooleanProperty

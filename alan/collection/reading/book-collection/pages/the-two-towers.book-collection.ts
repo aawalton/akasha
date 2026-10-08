@@ -13,4 +13,6 @@ export const theTwoTowers = {
   status: "completed",
   grade: "A",
   publishedAt: "1954-11-11",
+  createdAt: "2026-09-03T16:09:15.151Z",
+  updatedAt: "2026-09-25T13:02:31.000Z",
 } as const satisfies BookCollection

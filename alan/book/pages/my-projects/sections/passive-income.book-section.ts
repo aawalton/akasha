@@ -9,4 +9,6 @@ export const passiveIncome = {
   partOfCollections: ["book-section/my-projects/second-passport", "alan-book/my-projects"],
   unit: "unit/words",
   chapterText: "md",
+  createdAt: "2026-09-03T04:44:04.108Z",
+  updatedAt: "2026-09-25T13:02:31.000Z",
 } as const satisfies BookSection

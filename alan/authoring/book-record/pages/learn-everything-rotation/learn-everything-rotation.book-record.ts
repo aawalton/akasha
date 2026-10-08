@@ -9,4 +9,6 @@ export const learnEverythingRotation = {
   book: "alan-book/learn-everything",
   keptBy: "ali-archivist",
   writing: "md",
+  createdAt: "2026-09-03T04:18:53.341Z",
+  updatedAt: "2026-09-22T13:22:21.000Z",
 } as const satisfies BookRecord

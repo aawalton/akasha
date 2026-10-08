@@ -25,4 +25,6 @@ export const restartsItself = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-22T17:49:50.912Z",
+  updatedAt: "2026-09-24T19:06:05.000Z",
 } as const satisfies BooleanProperty

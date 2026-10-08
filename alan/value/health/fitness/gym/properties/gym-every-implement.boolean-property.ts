@@ -17,4 +17,6 @@ export const gymEveryImplement = {
     },
   ],
   types: "ts",
+  createdAt: "2026-10-08T11:10:10.966Z",
+  updatedAt: "2026-10-08T11:10:15.000Z",
 } as const satisfies BooleanProperty

@@ -7,4 +7,6 @@ export const extendedContextAvailable = {
   propertySlug: "extended-context-available",
   definition: "whether a seat can use the larger context",
   types: "ts",
+  createdAt: "2026-09-03T17:47:25.668Z",
+  updatedAt: "2026-09-25T17:52:23.000Z",
 } as const satisfies BooleanProperty

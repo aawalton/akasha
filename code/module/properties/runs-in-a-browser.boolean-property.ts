@@ -21,4 +21,6 @@ export const runsInABrowser = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-24T22:48:05.988Z",
+  updatedAt: "2026-09-24T22:48:43.000Z",
 } as const satisfies BooleanProperty
