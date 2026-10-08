@@ -1,10 +1,10 @@
 import { describe, expect, test } from "bun:test"
 import {
-  type ConditionReading,
+  mapAttempts,
   type NodeReading,
   nearestTarget,
-  objectiveCondition,
   portTargets,
+  type StepReading,
 } from "akasha/temper/addon/pages/world/quest-port/modules/quest-port-choose/quest-port-choose.module.code.ts"
 
 function node(overrides: Partial<NodeReading>): NodeReading {
@@ -24,31 +24,52 @@ function node(overrides: Partial<NodeReading>): NodeReading {
   }
 }
 
-function condition(overrides: Partial<ConditionReading>): ConditionReading {
+function step(stepIndex: number, complete: readonly boolean[], isEnding = false): StepReading {
   return {
-    stepIndex: 1,
-    conditionIndex: 1,
-    isVisible: true,
-    isFailCondition: false,
-    isComplete: false,
-    ...overrides,
+    stepIndex,
+    isEnding,
+    conditions: complete.map((isComplete, at) => ({ conditionIndex: at + 1, isComplete })),
   }
 }
 
+function named(attempts: ReturnType<typeof mapAttempts>): string[] {
+  return attempts.map((attempt) =>
+    attempt.kind === "ending"
+      ? `ending ${attempt.stepIndex}`
+      : `${attempt.stepIndex}.${attempt.conditionIndex}`
+  )
+}
+
 describe("quest-port-choose", () => {
-  test("the objective is the first visible condition neither failed nor complete", () => {
-    const found = objectiveCondition([
-      condition({ conditionIndex: 1, isComplete: true }),
-      condition({ conditionIndex: 2, isVisible: false }),
-      condition({ conditionIndex: 3, isFailCondition: true }),
-      condition({ conditionIndex: 4 }),
-      condition({ conditionIndex: 5 }),
+  test("every unfinished condition of every step is tried, in journal order", () => {
+    expect(named(mapAttempts([step(1, [false, false]), step(2, [false, false, false])]))).toEqual([
+      "1.1",
+      "1.2",
+      "2.1",
+      "2.2",
+      "2.3",
     ])
-    expect(found?.conditionIndex).toBe(4)
   })
 
-  test("a step with every condition done has no objective", () => {
-    expect(objectiveCondition([condition({ isComplete: true })])).toBeUndefined()
+  test("a step's ending is tried after that step's unfinished conditions", () => {
+    expect(named(mapAttempts([step(1, [false], true), step(2, [false])]))).toEqual([
+      "1.1",
+      "ending 1",
+      "2.1",
+    ])
+  })
+
+  test("finished conditions are tried only after every unfinished one and every ending", () => {
+    expect(named(mapAttempts([step(1, [true, false]), step(2, [true], true)]))).toEqual([
+      "1.2",
+      "ending 2",
+      "1.1",
+      "2.1",
+    ])
+  })
+
+  test("a quest with no step has nothing to try", () => {
+    expect(mapAttempts([])).toEqual([])
   })
 
   test("a known wayshrine on the map is a target", () => {

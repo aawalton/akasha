@@ -24,23 +24,44 @@ export interface PortTarget {
 }
 
 export interface ConditionReading {
-  readonly stepIndex: number
   readonly conditionIndex: number
-  readonly isVisible: boolean
-  readonly isFailCondition: boolean
   readonly isComplete: boolean
 }
 
-export function objectiveCondition(
-  this: void,
-  conditions: readonly ConditionReading[]
-): ConditionReading | undefined {
-  for (const condition of conditions) {
-    if (condition.isVisible && !condition.isFailCondition && !condition.isComplete) {
-      return condition
+export interface StepReading {
+  readonly stepIndex: number
+  readonly isEnding: boolean
+  readonly conditions: readonly ConditionReading[]
+}
+
+export type MapAttempt =
+  | { readonly kind: "condition"; readonly stepIndex: number; readonly conditionIndex: number }
+  | { readonly kind: "ending"; readonly stepIndex: number }
+
+export function mapAttempts(this: void, steps: readonly StepReading[]): MapAttempt[] {
+  const attempts: MapAttempt[] = []
+  for (const step of steps) {
+    for (const condition of step.conditions) {
+      if (condition.isComplete) continue
+      attempts.push({
+        kind: "condition",
+        stepIndex: step.stepIndex,
+        conditionIndex: condition.conditionIndex,
+      })
+    }
+    if (step.isEnding) attempts.push({ kind: "ending", stepIndex: step.stepIndex })
+  }
+  for (const step of steps) {
+    for (const condition of step.conditions) {
+      if (!condition.isComplete) continue
+      attempts.push({
+        kind: "condition",
+        stepIndex: step.stepIndex,
+        conditionIndex: condition.conditionIndex,
+      })
     }
   }
-  return undefined
+  return attempts
 }
 
 function targetOf(this: void, node: NodeReading): PortTarget | undefined {

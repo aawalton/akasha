@@ -11,7 +11,16 @@ export const questPortChoose = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "The objective is the first condition of the quest that is shown and neither failed nor complete.",
+        "The objective is chosen in the order the game's own Map button tries a quest's conditions.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "That order is each step's unfinished conditions then its ending, then every finished condition.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A condition the journal does not show is tried like any other.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -40,5 +49,5 @@ export const questPortChoose = {
     },
   ],
   createdAt: "2026-10-08T14:52:54.473Z",
-  updatedAt: "2026-10-08T14:53:10.000Z",
+  updatedAt: "2026-10-08T17:30:45.270Z",
 } as const satisfies Module

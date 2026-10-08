@@ -14,6 +14,14 @@ export const questPort = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "The objective is the first condition or ending the map can be set to.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A quest whose every try fails is shown on its zone's map.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A quest that is complete or has no open condition ports toward where it ends.",
     },
     {
@@ -63,5 +71,5 @@ export const questPort = {
     },
   ],
   createdAt: "2026-10-08T14:55:08.172Z",
-  updatedAt: "2026-10-08T17:07:58.033Z",
+  updatedAt: "2026-10-08T17:30:45.270Z",
 } as const satisfies Module

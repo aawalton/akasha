@@ -2,12 +2,14 @@ import { ADDON_NAME } from "akasha/temper/addon/pages/world/modules/world-names/
 import type { PositionAnswer } from "akasha/temper/addon/pages/world/quest-port/modules/quest-port-capture/quest-port-capture.module.code.ts"
 import {
   type ConditionReading,
+  type MapAttempt,
+  mapAttempts,
   type NodeKind,
   type NodeReading,
   nearestTarget,
-  objectiveCondition,
   type PortTarget,
   portTargets,
+  type StepReading,
 } from "akasha/temper/addon/pages/world/quest-port/modules/quest-port-choose/quest-port-choose.module.code.ts"
 import {
   beginPress,
@@ -63,58 +65,68 @@ function focusedQuestIndex(this: void): number | undefined {
   return undefined
 }
 
-function conditionReadings(this: void, questIndex: number): ConditionReading[] {
-  const readings: ConditionReading[] = []
+function stepReadings(this: void, questIndex: number): StepReading[] {
+  const steps: StepReading[] = []
   const numSteps = GetJournalQuestNumSteps(questIndex)
   for (let stepIndex = QUEST_MAIN_STEP_INDEX; stepIndex <= numSteps; stepIndex++) {
+    const conditions: ConditionReading[] = []
     const numConditions = GetJournalQuestNumConditions(questIndex, stepIndex)
     for (let conditionIndex = 1; conditionIndex <= numConditions; conditionIndex++) {
-      const [, , isFailCondition, isComplete, , isVisible] = GetJournalQuestConditionValues(
+      const [, , , isComplete] = GetJournalQuestConditionValues(
         questIndex,
         stepIndex,
         conditionIndex
       )
-      readings.push({ stepIndex, conditionIndex, isVisible, isFailCondition, isComplete })
+      conditions.push({ conditionIndex, isComplete })
     }
+    steps.push({ stepIndex, isEnding: IsJournalQuestStepEnding(questIndex, stepIndex), conditions })
   }
-  return readings
+  return steps
 }
 
-function endingStepIndex(this: void, questIndex: number): number | undefined {
-  const numSteps = GetJournalQuestNumSteps(questIndex)
-  for (let stepIndex = QUEST_MAIN_STEP_INDEX; stepIndex <= numSteps; stepIndex++) {
-    if (IsJournalQuestStepEnding(questIndex, stepIndex)) return stepIndex
+function setMapTo(this: void, questIndex: number, attempt: MapAttempt): number {
+  if (attempt.kind === "ending") {
+    const result = SetMapToQuestStepEnding(questIndex, attempt.stepIndex)
+    noteMapStep(`set-to-step-ending ${attempt.stepIndex}`, result)
+    return result
   }
-  return undefined
+  const result = SetMapToQuestCondition(questIndex, attempt.stepIndex, attempt.conditionIndex)
+  noteMapStep(`set-to-condition ${attempt.stepIndex}.${attempt.conditionIndex}`, result)
+  return result
 }
 
-function setMapToObjective(
-  this: void,
-  questIndex: number,
-  condition: ConditionReading | undefined
-): boolean {
-  let result = SET_MAP_RESULT_FAILED
-  if (condition !== undefined) {
-    result = SetMapToQuestCondition(questIndex, condition.stepIndex, condition.conditionIndex)
-    noteMapStep("set-to-condition", result)
-  } else {
-    const ending = endingStepIndex(questIndex)
-    if (ending !== undefined) {
-      result = SetMapToQuestStepEnding(questIndex, ending)
-      noteMapStep("set-to-step-ending", result)
-    }
-  }
-  if (result === SET_MAP_RESULT_FAILED) {
-    result = SetMapToQuestZone(questIndex)
-    noteMapStep("set-to-quest-zone", result)
-  }
-  if (result === SET_MAP_RESULT_FAILED) return false
+function zoomOutToZone(this: void): undefined {
   for (let zoomOuts = 0; zoomOuts < MAX_ZOOM_OUTS && GetMapType() !== MAPTYPE_ZONE; zoomOuts++) {
     const zoomed = MapZoomOut()
     noteMapStep("zoom-out", zoomed)
     if (zoomed === SET_MAP_RESULT_FAILED) break
   }
-  return true
+  return undefined
+}
+
+interface Placed {
+  readonly shown: boolean
+  readonly attempt: MapAttempt | undefined
+}
+
+function placeObjective(this: void, questIndex: number, attempts: readonly MapAttempt[]): Placed {
+  for (const attempt of attempts) {
+    if (setMapTo(questIndex, attempt) !== SET_MAP_RESULT_FAILED) {
+      zoomOutToZone()
+      return { shown: true, attempt }
+    }
+  }
+  const result = SetMapToQuestZone(questIndex)
+  noteMapStep("set-to-quest-zone", result)
+  if (result === SET_MAP_RESULT_FAILED) return { shown: false, attempt: undefined }
+  zoomOutToZone()
+  return { shown: true, attempt: undefined }
+}
+
+function objectiveText(this: void, questIndex: number, attempt: MapAttempt | undefined): string {
+  if (attempt === undefined || attempt.kind === "ending") return GetJournalQuestName(questIndex)
+  const [text] = GetJournalQuestConditionInfo(questIndex, attempt.stepIndex, attempt.conditionIndex)
+  return text === "" ? GetJournalQuestName(questIndex) : text
 }
 
 function kindOf(this: void, poiType: number): NodeKind {
@@ -219,21 +231,19 @@ export function portNearQuestObjective(this: void): undefined {
     CancelRequestJournalQuestConditionAssistance(asked.taskId)
     asked = undefined
   }
-  const condition = GetJournalQuestIsComplete(questIndex)
-    ? undefined
-    : objectiveCondition(conditionReadings(questIndex))
-  const objective =
-    condition === undefined
-      ? GetJournalQuestName(questIndex)
-      : GetJournalQuestConditionInfo(questIndex, condition.stepIndex, condition.conditionIndex)[0]
+  const attempts = mapAttempts(stepReadings(questIndex))
+  const placed = placeObjective(questIndex, attempts)
+  const chosen = placed.attempt ?? attempts[0]
+  const condition = chosen?.kind === "condition" ? chosen : undefined
+  const objective = objectiveText(questIndex, chosen)
   noteQuest(
     questIndex,
     GetJournalQuestName(questIndex),
-    condition?.stepIndex,
+    chosen?.stepIndex,
     condition?.conditionIndex,
     objective
   )
-  if (!setMapToObjective(questIndex, condition)) {
+  if (!placed.shown) {
     return say(`The map cannot show where ${objective} is.`)
   }
   const taskId =
