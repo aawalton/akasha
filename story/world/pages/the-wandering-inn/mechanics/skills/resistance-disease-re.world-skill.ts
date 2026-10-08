@@ -6,4 +6,6 @@ export const resistanceDiseaseRe = {
   slug: "resistance-disease-re",
   title: "Resistance: Disease Re",
   world: "world/the-wandering-inn",
+  createdAt: "2026-09-03T04:18:06.641Z",
+  updatedAt: "2026-09-19T16:46:50.000Z",
 } as const satisfies WorldSkill

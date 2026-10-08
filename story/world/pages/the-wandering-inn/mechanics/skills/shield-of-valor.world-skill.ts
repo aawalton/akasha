@@ -8,4 +8,6 @@ export const shieldOfValor = {
   world: "world/the-wandering-inn",
   appearanceCount: 13,
   references: "jsonl",
+  createdAt: "2026-09-03T04:18:06.656Z",
+  updatedAt: "2026-09-22T13:33:17.000Z",
 } as const satisfies WorldSkill

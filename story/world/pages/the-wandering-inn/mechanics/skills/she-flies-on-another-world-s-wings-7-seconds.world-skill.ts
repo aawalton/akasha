@@ -9,4 +9,6 @@ export const sheFliesOnAnotherWorldSWings7Seconds = {
   appearanceCount: 1,
   evolvesFromSlugs: ["world-skill/she-flies-on-another-world-s-wings-5-seconds"],
   references: "jsonl",
+  createdAt: "2026-09-03T04:18:06.656Z",
+  updatedAt: "2026-09-22T18:27:39.000Z",
 } as const satisfies WorldSkill

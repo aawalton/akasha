@@ -7,4 +7,6 @@ export const tenFootStrike = {
   title: "Ten-foot Strike",
   world: "world/the-wandering-inn",
   evolvesToSlugs: ["world-skill/twenty-foot-strike"],
+  createdAt: "2026-09-03T04:18:06.737Z",
+  updatedAt: "2026-09-22T18:28:27.000Z",
 } as const satisfies WorldSkill

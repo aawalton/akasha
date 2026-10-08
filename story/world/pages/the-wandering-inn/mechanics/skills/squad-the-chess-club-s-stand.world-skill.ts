@@ -6,4 +6,6 @@ export const squadTheChessClubSStand = {
   slug: "squad-the-chess-club-s-stand",
   title: "Squad: The Chess Club’s Stand",
   world: "world/the-wandering-inn",
+  createdAt: "2026-09-03T04:18:06.702Z",
+  updatedAt: "2026-09-19T16:48:21.000Z",
 } as const satisfies WorldSkill

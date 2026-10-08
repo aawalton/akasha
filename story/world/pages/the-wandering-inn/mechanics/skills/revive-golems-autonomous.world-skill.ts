@@ -6,4 +6,6 @@ export const reviveGolemsAutonomous = {
   slug: "revive-golems-autonomous",
   title: "Revive Golems (Autonomous)",
   world: "world/the-wandering-inn",
+  createdAt: "2026-09-03T04:18:06.642Z",
+  updatedAt: "2026-09-19T16:46:50.000Z",
 } as const satisfies WorldSkill

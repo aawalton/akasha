@@ -9,4 +9,6 @@ export const thePalaceOfFates = {
   appearanceCount: 4,
   aliases: ["THE PALACE OF FATES"],
   references: "jsonl",
+  createdAt: "2026-09-03T04:18:06.738Z",
+  updatedAt: "2026-09-22T13:33:34.000Z",
 } as const satisfies WorldSkill

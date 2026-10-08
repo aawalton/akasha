@@ -6,4 +6,6 @@ export const theCurveOfTheWorld = {
   slug: "the-curve-of-the-world",
   title: "The Curve of the World",
   world: "world/the-wandering-inn",
+  createdAt: "2026-09-03T04:18:06.737Z",
+  updatedAt: "2026-09-19T16:49:07.000Z",
 } as const satisfies WorldSkill

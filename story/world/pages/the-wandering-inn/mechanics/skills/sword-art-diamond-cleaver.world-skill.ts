@@ -6,4 +6,6 @@ export const swordArtDiamondCleaver = {
   slug: "sword-art-diamond-cleaver",
   title: "Sword Art: Diamond Cleaver",
   world: "world/the-wandering-inn",
+  createdAt: "2026-09-03T04:18:06.727Z",
+  updatedAt: "2026-09-19T16:48:21.000Z",
 } as const satisfies WorldSkill

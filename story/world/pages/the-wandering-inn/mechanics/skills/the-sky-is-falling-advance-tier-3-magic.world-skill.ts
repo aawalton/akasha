@@ -6,4 +6,6 @@ export const theSkyIsFallingAdvanceTier3Magic = {
   slug: "the-sky-is-falling-advance-tier-3-magic",
   title: "The Sky is Falling, Advance (Tier 3 Magic)",
   world: "world/the-wandering-inn",
+  createdAt: "2026-09-03T04:18:06.738Z",
+  updatedAt: "2026-09-19T16:49:07.000Z",
 } as const satisfies WorldSkill

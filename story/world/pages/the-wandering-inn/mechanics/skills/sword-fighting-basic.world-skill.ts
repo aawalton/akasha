@@ -7,4 +7,6 @@ export const swordFightingBasic = {
   title: "Sword Fighting – Basic",
   world: "world/the-wandering-inn",
   evolvesToSlugs: ["world-skill/sword-fighting-expert"],
+  createdAt: "2026-09-03T04:18:06.727Z",
+  updatedAt: "2026-09-22T18:28:27.000Z",
 } as const satisfies WorldSkill
