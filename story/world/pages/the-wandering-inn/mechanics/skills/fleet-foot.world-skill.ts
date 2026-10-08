@@ -8,4 +8,6 @@ export const fleetFoot = {
   world: "world/the-wandering-inn",
   appearanceCount: 8,
   references: "jsonl",
+  createdAt: "2026-09-03T04:10:00.590Z",
+  updatedAt: "2026-09-22T13:32:12.000Z",
 } as const satisfies WorldSkill

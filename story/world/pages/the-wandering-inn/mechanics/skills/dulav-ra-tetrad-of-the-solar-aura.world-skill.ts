@@ -9,4 +9,6 @@ export const dulavRaTetradOfTheSolarAura = {
   appearanceCount: 3,
   aliases: ["Dulav-Ra: Tetrad of the Solar Aura"],
   references: "jsonl",
+  createdAt: "2026-09-03T04:10:00.582Z",
+  updatedAt: "2026-09-22T13:32:04.000Z",
 } as const satisfies WorldSkill

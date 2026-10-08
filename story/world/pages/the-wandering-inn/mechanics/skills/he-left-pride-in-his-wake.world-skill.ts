@@ -9,4 +9,6 @@ export const heLeftPrideInHisWake = {
   appearanceCount: 2,
   aliases: ["He Left Pride in his Wake"],
   references: "jsonl",
+  createdAt: "2026-09-03T04:10:00.600Z",
+  updatedAt: "2026-09-22T13:32:27.000Z",
 } as const satisfies WorldSkill

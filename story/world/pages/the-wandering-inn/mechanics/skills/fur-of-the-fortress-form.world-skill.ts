@@ -6,4 +6,6 @@ export const furOfTheFortressForm = {
   slug: "fur-of-the-fortress-form",
   title: "Fur of the Fortress form",
   world: "world/the-wandering-inn",
+  createdAt: "2026-09-03T04:10:00.593Z",
+  updatedAt: "2026-09-19T16:41:58.000Z",
 } as const satisfies WorldSkill

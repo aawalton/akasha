@@ -6,4 +6,6 @@ export const ifIKeepTalkingYouLlSeeItMyWay = {
   slug: "if-i-keep-talking-you-ll-see-it-my-way",
   title: "If I Keep Talking You’ll See It My Way",
   world: "world/the-wandering-inn",
+  createdAt: "2026-09-03T04:10:00.604Z",
+  updatedAt: "2026-09-19T16:42:39.000Z",
 } as const satisfies WorldSkill

@@ -7,4 +7,6 @@ export const hugeChomp = {
   title: "Huge Chomp",
   world: "world/the-wandering-inn",
   evolvesToSlugs: ["world-skill/yawning-bite"],
+  createdAt: "2026-09-03T04:10:00.603Z",
+  updatedAt: "2026-09-22T18:28:27.000Z",
 } as const satisfies WorldSkill

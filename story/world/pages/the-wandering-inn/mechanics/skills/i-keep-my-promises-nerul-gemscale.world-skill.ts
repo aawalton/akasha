@@ -6,4 +6,6 @@ export const iKeepMyPromisesNerulGemscale = {
   slug: "i-keep-my-promises-nerul-gemscale",
   title: "I Keep My Promises (Nerul Gemscale)",
   world: "world/the-wandering-inn",
+  createdAt: "2026-09-03T04:10:00.603Z",
+  updatedAt: "2026-09-19T16:42:39.000Z",
 } as const satisfies WorldSkill

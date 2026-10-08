@@ -8,4 +8,6 @@ export const grandTheater = {
   world: "world/the-wandering-inn",
   appearanceCount: 5,
   references: "jsonl",
+  createdAt: "2026-09-03T04:10:00.598Z",
+  updatedAt: "2026-09-22T13:32:19.000Z",
 } as const satisfies WorldSkill

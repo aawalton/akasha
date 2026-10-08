@@ -9,4 +9,6 @@ export const hammerBlow = {
   appearanceCount: 11,
   aliases: ["Hammer Blow!"],
   references: "jsonl",
+  createdAt: "2026-09-03T04:10:00.600Z",
+  updatedAt: "2026-09-22T13:32:19.000Z",
 } as const satisfies WorldSkill

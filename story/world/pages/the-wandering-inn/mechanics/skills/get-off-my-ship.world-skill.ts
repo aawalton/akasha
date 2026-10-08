@@ -9,4 +9,6 @@ export const getOffMyShip = {
   appearanceCount: 4,
   aliases: ["Get off My Ship"],
   references: "jsonl",
+  createdAt: "2026-09-03T04:10:00.596Z",
+  updatedAt: "2026-09-22T13:32:19.000Z",
 } as const satisfies WorldSkill

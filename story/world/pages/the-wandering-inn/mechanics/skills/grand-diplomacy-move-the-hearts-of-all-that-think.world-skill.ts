@@ -6,4 +6,6 @@ export const grandDiplomacyMoveTheHeartsOfAllThatThink = {
   slug: "grand-diplomacy-move-the-hearts-of-all-that-think",
   title: "Grand Diplomacy: Move the Hearts of All That Think",
   world: "world/the-wandering-inn",
+  createdAt: "2026-09-03T04:10:00.598Z",
+  updatedAt: "2026-09-19T16:41:58.000Z",
 } as const satisfies WorldSkill

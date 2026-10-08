@@ -6,4 +6,6 @@ export const intensify = {
   slug: "intensify",
   title: "Intensify",
   world: "world/the-wandering-inn",
+  createdAt: "2026-09-03T04:10:00.608Z",
+  updatedAt: "2026-09-19T16:43:21.000Z",
 } as const satisfies WorldSkill

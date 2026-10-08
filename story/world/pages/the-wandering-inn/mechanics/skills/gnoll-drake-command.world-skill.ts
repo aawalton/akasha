@@ -6,4 +6,6 @@ export const gnollDrakeCommand = {
   slug: "gnoll-drake-command",
   title: "Gnoll-Drake Command",
   world: "world/the-wandering-inn",
+  createdAt: "2026-09-03T04:10:00.597Z",
+  updatedAt: "2026-09-19T16:41:58.000Z",
 } as const satisfies WorldSkill

@@ -6,4 +6,6 @@ export const heavilyReinforcedPipes = {
   slug: "heavily-reinforced-pipes",
   title: "Heavily Reinforced Pipes",
   world: "world/the-wandering-inn",
+  createdAt: "2026-09-03T04:10:00.601Z",
+  updatedAt: "2026-09-19T16:42:39.000Z",
 } as const satisfies WorldSkill

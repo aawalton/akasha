@@ -9,4 +9,6 @@ export const ghostSHand = {
   appearanceCount: 3,
   evolvesFromSlugs: ["world-skill/royal-slap"],
   references: "jsonl",
+  createdAt: "2026-09-03T04:10:00.596Z",
+  updatedAt: "2026-09-22T18:27:39.000Z",
 } as const satisfies WorldSkill

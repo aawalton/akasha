@@ -9,4 +9,6 @@ export const innGrandTheatre = {
   appearanceCount: 1,
   evolvesToSlugs: ["world-skill/inn-the-world-s-eye-theatre"],
   references: "jsonl",
+  createdAt: "2026-09-03T04:10:00.607Z",
+  updatedAt: "2026-09-22T18:28:27.000Z",
 } as const satisfies WorldSkill

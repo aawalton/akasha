@@ -9,4 +9,6 @@ export const fameIsMyMagic = {
   appearanceCount: 2,
   aliases: ["Fame is My Magic"],
   references: "jsonl",
+  createdAt: "2026-09-03T04:10:00.587Z",
+  updatedAt: "2026-09-22T13:32:12.000Z",
 } as const satisfies WorldSkill

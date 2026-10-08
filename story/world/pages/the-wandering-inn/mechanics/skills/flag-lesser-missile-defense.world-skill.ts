@@ -6,4 +6,6 @@ export const flagLesserMissileDefense = {
   slug: "flag-lesser-missile-defense",
   title: "Flag: Lesser Missile Defense",
   world: "world/the-wandering-inn",
+  createdAt: "2026-09-03T04:10:00.589Z",
+  updatedAt: "2026-09-19T16:41:17.000Z",
 } as const satisfies WorldSkill
