@@ -33,7 +33,7 @@ export const terminusTheSystem = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
-      fact: "The refinement path holds the greatest long-term growth potential.",
+      fact: "The refinement path keeps a user's long-term growth potential.",
       knowers: ["lore-disclosure/game-master"],
     },
     {
@@ -54,6 +54,22 @@ export const terminusTheSystem = {
     },
     {
       fact: "Death keeps essence from piling up in any one user and returns it to circulation.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Held essence must be released eventually.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The System discourages immortality and permanent stability.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Large civilizations alone are not enough; the world also needs threats able to destroy them.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "A destroyed civilization resets to wilderness, and the essence it held escapes.",
       knowers: ["lore-disclosure/game-master"],
     },
     {
@@ -114,5 +130,5 @@ export const terminusTheSystem = {
     },
   ],
   createdAt: "2026-10-08T19:30:10.084Z",
-  updatedAt: "2026-10-08T19:30:10.084Z",
+  updatedAt: "2026-10-08T19:31:04.939Z",
 } as const satisfies Lore

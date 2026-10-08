@@ -85,7 +85,15 @@ export const terminusManaAndEssence = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
-      fact: "How much essence a creature refines scales with how complex the creature is.",
+      fact: "How much essence a creature refines scales with its complexity per gram, not its size.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Essence refining follows complexity density, like Eric Chaisson's energy rate density.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Gram for gram, a brain or a small intense creature refines more than a big simple one.",
       knowers: ["lore-disclosure/game-master"],
     },
     {
@@ -114,5 +122,5 @@ export const terminusManaAndEssence = {
     },
   ],
   createdAt: "2026-10-08T19:29:42.035Z",
-  updatedAt: "2026-10-08T19:29:42.035Z",
+  updatedAt: "2026-10-08T19:31:04.939Z",
 } as const satisfies Lore
