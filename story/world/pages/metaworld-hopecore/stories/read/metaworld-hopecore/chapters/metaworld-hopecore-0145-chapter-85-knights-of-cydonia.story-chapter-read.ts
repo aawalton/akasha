@@ -20,4 +20,6 @@ export const metaworldHopecore0145Chapter85KnightsOfCydonia = {
     },
   ],
   prose: "txt",
+  createdAt: "2026-09-03T12:15:04.481Z",
+  updatedAt: "2026-09-28T20:27:23.000Z",
 } as const satisfies StoryChapterRead

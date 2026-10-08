@@ -19,4 +19,6 @@ export const myLordPleaseACharacterDrivenKingdomBuilding0045Interlude02Sera = {
     },
   ],
   prose: "txt",
+  createdAt: "2026-09-03T04:40:12.917Z",
+  updatedAt: "2026-09-19T18:25:57.000Z",
 } as const satisfies StoryChapterRead

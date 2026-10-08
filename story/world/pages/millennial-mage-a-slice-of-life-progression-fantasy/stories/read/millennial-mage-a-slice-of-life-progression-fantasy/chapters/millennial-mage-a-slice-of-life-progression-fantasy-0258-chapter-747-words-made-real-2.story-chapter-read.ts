@@ -20,4 +20,6 @@ export const millennialMageASliceOfLifeProgressionFantasy0258Chapter747WordsMade
   title: "Chapter: 747 - Words Made Real (2)",
   ownLength: 2651,
   prose: "txt",
+  createdAt: "2026-09-07T12:05:15.175Z",
+  updatedAt: "2026-09-28T20:27:25.000Z",
 } as const satisfies StoryChapterRead

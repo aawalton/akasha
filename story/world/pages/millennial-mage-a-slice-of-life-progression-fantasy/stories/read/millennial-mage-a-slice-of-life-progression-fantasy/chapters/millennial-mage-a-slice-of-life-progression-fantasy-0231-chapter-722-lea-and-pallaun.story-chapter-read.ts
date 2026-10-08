@@ -20,4 +20,6 @@ export const millennialMageASliceOfLifeProgressionFantasy0231Chapter722LeaAndPal
     },
   ],
   prose: "txt",
+  createdAt: "2026-09-03T12:34:45.355Z",
+  updatedAt: "2026-09-28T20:27:24.000Z",
 } as const satisfies StoryChapterRead

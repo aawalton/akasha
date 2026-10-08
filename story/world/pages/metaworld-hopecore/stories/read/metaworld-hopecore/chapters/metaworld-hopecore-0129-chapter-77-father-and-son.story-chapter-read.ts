@@ -20,4 +20,6 @@ export const metaworldHopecore0129Chapter77FatherAndSon = {
     },
   ],
   prose: "txt",
+  createdAt: "2026-09-03T12:15:04.473Z",
+  updatedAt: "2026-09-28T20:27:22.000Z",
 } as const satisfies StoryChapterRead

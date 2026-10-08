@@ -19,4 +19,6 @@ export const mythransMasterOfAllContinuedCompleted0143Chapter157FireBad = {
     },
   ],
   prose: "txt",
+  createdAt: "2026-09-03T12:09:52.265Z",
+  updatedAt: "2026-09-19T18:25:57.000Z",
 } as const satisfies StoryChapterRead

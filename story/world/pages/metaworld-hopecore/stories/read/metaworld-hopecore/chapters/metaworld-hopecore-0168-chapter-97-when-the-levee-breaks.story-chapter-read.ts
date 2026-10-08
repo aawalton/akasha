@@ -20,4 +20,6 @@ export const metaworldHopecore0168Chapter97WhenTheLeveeBreaks = {
     },
   ],
   prose: "txt",
+  createdAt: "2026-09-03T12:15:04.501Z",
+  updatedAt: "2026-09-28T20:27:23.000Z",
 } as const satisfies StoryChapterRead

@@ -20,4 +20,6 @@ export const millennialMageASliceOfLifeProgressionFantasy0245Chapter735DefenseOf
     },
   ],
   prose: "txt",
+  createdAt: "2026-09-03T12:34:45.384Z",
+  updatedAt: "2026-09-28T20:27:25.000Z",
 } as const satisfies StoryChapterRead

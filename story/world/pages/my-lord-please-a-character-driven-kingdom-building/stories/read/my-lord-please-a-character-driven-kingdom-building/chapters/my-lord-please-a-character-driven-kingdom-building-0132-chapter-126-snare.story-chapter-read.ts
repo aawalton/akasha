@@ -19,4 +19,6 @@ export const myLordPleaseACharacterDrivenKingdomBuilding0132Chapter126Snare = {
   title: "Chapter 126 Snare",
   ownLength: 1968,
   prose: "txt",
+  createdAt: "2026-09-06T19:05:48.857Z",
+  updatedAt: "2026-09-19T18:25:57.000Z",
 } as const satisfies StoryChapterRead

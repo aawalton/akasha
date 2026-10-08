@@ -19,4 +19,6 @@ export const mythransMasterOfAllContinuedCompleted0195Chapter207ANewQuest = {
     },
   ],
   prose: "txt",
+  createdAt: "2026-09-03T12:09:52.327Z",
+  updatedAt: "2026-09-19T18:25:57.000Z",
 } as const satisfies StoryChapterRead

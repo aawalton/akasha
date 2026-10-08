@@ -19,4 +19,6 @@ export const mythransMasterOfAllContinuedCompleted0052Chapter68AnotherDayAnother
     },
   ],
   prose: "txt",
+  createdAt: "2026-09-03T04:40:12.932Z",
+  updatedAt: "2026-09-19T18:25:57.000Z",
 } as const satisfies StoryChapterRead

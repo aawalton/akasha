@@ -21,4 +21,6 @@ export const millennialMageASliceOfLifeProgressionFantasy0181Chapter674CouldHave
     },
   ],
   prose: "txt",
+  createdAt: "2026-09-03T12:15:04.303Z",
+  updatedAt: "2026-09-19T18:25:57.000Z",
 } as const satisfies StoryChapterRead

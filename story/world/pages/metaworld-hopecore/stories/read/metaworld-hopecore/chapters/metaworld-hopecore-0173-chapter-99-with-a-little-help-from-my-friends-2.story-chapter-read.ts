@@ -20,4 +20,6 @@ export const metaworldHopecore0173Chapter99WithALittleHelpFromMyFriends2 = {
   title: "CHAPTER 99 - With a Little Help from My Friends (2)",
   ownLength: 2382,
   prose: "txt",
+  createdAt: "2026-09-05T16:06:24.750Z",
+  updatedAt: "2026-09-28T20:27:23.000Z",
 } as const satisfies StoryChapterRead

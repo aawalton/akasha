@@ -19,4 +19,6 @@ export const myLordPleaseACharacterDrivenKingdomBuilding0035Chapter33Stranger = 
     },
   ],
   prose: "txt",
+  createdAt: "2026-09-03T04:40:12.915Z",
+  updatedAt: "2026-09-19T18:25:57.000Z",
 } as const satisfies StoryChapterRead

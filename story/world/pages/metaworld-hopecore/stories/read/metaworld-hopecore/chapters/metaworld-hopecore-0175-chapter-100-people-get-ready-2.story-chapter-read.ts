@@ -20,4 +20,6 @@ export const metaworldHopecore0175Chapter100PeopleGetReady2 = {
   story: "story-read/metaworld-hopecore",
   ownLength: 3025,
   prose: "txt",
+  createdAt: "2026-09-09T02:03:38.795Z",
+  updatedAt: "2026-09-28T20:27:23.000Z",
 } as const satisfies StoryChapterRead

@@ -21,4 +21,6 @@ export const millennialMageASliceOfLifeProgressionFantasy0194Chapter752Reuniting
     story: "story-read/millennial-mage-a-slice-of-life-progression-fantasy",
     ownLength: 2671,
     prose: "txt",
+    createdAt: "2026-09-18T12:07:20.510Z",
+    updatedAt: "2026-09-28T20:27:24.000Z",
   } as const satisfies StoryChapterRead

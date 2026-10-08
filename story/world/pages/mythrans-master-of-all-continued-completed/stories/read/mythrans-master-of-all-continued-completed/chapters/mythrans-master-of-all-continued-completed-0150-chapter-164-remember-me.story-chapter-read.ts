@@ -19,4 +19,6 @@ export const mythransMasterOfAllContinuedCompleted0150Chapter164RememberMe = {
     },
   ],
   prose: "txt",
+  createdAt: "2026-09-03T12:09:52.272Z",
+  updatedAt: "2026-09-19T18:25:57.000Z",
 } as const satisfies StoryChapterRead

@@ -20,4 +20,6 @@ export const metaworldHopecore0178Chapter102BigMouthStrikesAgain = {
   story: "story-read/metaworld-hopecore",
   ownLength: 2424,
   prose: "txt",
+  createdAt: "2026-09-16T15:05:25.005Z",
+  updatedAt: "2026-09-28T20:27:23.000Z",
 } as const satisfies StoryChapterRead

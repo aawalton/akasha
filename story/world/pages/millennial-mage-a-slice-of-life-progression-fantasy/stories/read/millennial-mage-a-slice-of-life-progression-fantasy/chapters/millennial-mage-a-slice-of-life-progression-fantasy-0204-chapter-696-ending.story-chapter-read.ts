@@ -20,4 +20,6 @@ export const millennialMageASliceOfLifeProgressionFantasy0204Chapter696Ending = 
     },
   ],
   prose: "txt",
+  createdAt: "2026-09-03T12:15:04.332Z",
+  updatedAt: "2026-09-28T20:27:24.000Z",
 } as const satisfies StoryChapterRead

@@ -19,4 +19,6 @@ export const myLordPleaseACharacterDrivenKingdomBuilding0109Chapter104Understand
     },
   ],
   prose: "txt",
+  createdAt: "2026-09-03T04:40:12.925Z",
+  updatedAt: "2026-09-19T18:25:57.000Z",
 } as const satisfies StoryChapterRead

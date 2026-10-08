@@ -20,4 +20,6 @@ export const millennialMageASliceOfLifeProgressionFantasy0256Chapter745APackedOp
     },
   ],
   prose: "txt",
+  createdAt: "2026-09-03T12:34:45.408Z",
+  updatedAt: "2026-09-28T20:27:25.000Z",
 } as const satisfies StoryChapterRead

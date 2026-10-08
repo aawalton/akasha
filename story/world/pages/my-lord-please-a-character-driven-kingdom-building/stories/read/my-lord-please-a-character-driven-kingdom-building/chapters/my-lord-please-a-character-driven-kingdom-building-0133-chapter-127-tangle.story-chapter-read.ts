@@ -19,4 +19,6 @@ export const myLordPleaseACharacterDrivenKingdomBuilding0133Chapter127Tangle = {
   title: "Chapter 127 Tangle",
   ownLength: 2235,
   prose: "txt",
+  createdAt: "2026-09-07T19:06:30.717Z",
+  updatedAt: "2026-09-19T18:25:57.000Z",
 } as const satisfies StoryChapterRead

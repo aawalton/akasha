@@ -20,4 +20,6 @@ export const millennialMageASliceOfLifeProgressionFantasy0205Chapter697After = {
     },
   ],
   prose: "txt",
+  createdAt: "2026-09-03T12:15:04.334Z",
+  updatedAt: "2026-09-28T20:27:24.000Z",
 } as const satisfies StoryChapterRead

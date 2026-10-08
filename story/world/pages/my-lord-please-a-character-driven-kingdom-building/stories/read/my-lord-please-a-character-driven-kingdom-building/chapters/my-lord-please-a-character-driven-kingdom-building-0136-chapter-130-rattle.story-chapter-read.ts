@@ -19,4 +19,6 @@ export const myLordPleaseACharacterDrivenKingdomBuilding0136Chapter130Rattle = {
   story: "story-read/my-lord-please-a-character-driven-kingdom-building",
   ownLength: 2004,
   prose: "txt",
+  createdAt: "2026-09-13T19:04:32.742Z",
+  updatedAt: "2026-09-19T18:25:57.000Z",
 } as const satisfies StoryChapterRead
