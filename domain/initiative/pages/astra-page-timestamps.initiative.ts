@@ -8,10 +8,6 @@ export const astraPageTimestamps = {
   persona: "persona/astra",
   intentStack: [
     {
-      statement:
-        "A page whose committed values change is given that moment as `updated-at`, whatever the change.",
-    },
-    {
       statement: "A change to a page's uncommitted values alone leaves `updated-at` as it was.",
     },
     {
@@ -23,5 +19,5 @@ export const astraPageTimestamps = {
         "Ordering pages by when they were created or changed reads those moments from the pages.",
     },
   ],
-  updatedAt: "2026-10-08T15:03:49.111Z",
+  updatedAt: "2026-10-08T15:03:53.764Z",
 } as const satisfies Initiative
