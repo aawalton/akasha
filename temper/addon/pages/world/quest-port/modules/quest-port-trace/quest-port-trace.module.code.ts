@@ -8,6 +8,7 @@ import {
   type PortTraceEntry,
   type PositionAnswer,
   type RecallReading,
+  type SpotReading,
 } from "akasha/temper/addon/pages/world/quest-port/modules/quest-port-capture/quest-port-capture.module.code.ts"
 import type { PortTarget } from "akasha/temper/addon/pages/world/quest-port/modules/quest-port-choose/quest-port-choose.module.code.ts"
 import { getSavedVariables } from "akasha/temper/addon/pages/world/quests/modules/quests-saved-variables/quests-saved-variables.module.code.ts"
@@ -40,7 +41,9 @@ function noting(this: void, note: (entry: PortTraceEntry) => void): undefined {
   return undefined
 }
 
-export function beginPress(this: void): undefined {
+type PressList = "questPortTrace" | "treasurePortTrace"
+
+function beginOn(this: void, list: PressList): undefined {
   try {
     const entry: PortTraceEntry = {
       at: GetTimeStamp(),
@@ -50,12 +53,35 @@ export function beginPress(this: void): undefined {
     }
     current = entry
     const sv = getSavedVariables()
-    sv.questPortTrace = keepLast(sv.questPortTrace ?? [], entry, PORT_TRACE_CAP)
+    sv[list] = keepLast(sv[list] ?? [], entry, PORT_TRACE_CAP)
     entry.mapBefore = readMap()
   } catch {
     return undefined
   }
   return undefined
+}
+
+export function beginPress(this: void): undefined {
+  return beginOn("questPortTrace")
+}
+
+export function beginTreasurePress(this: void): undefined {
+  return beginOn("treasurePortTrace")
+}
+
+export function noteTreasure(
+  this: void,
+  slotIndex: number,
+  itemId: number,
+  itemName: string,
+  spots: readonly SpotReading[]
+): undefined {
+  return noting((entry) => {
+    entry.slotIndex = slotIndex
+    entry.itemId = itemId
+    entry.itemName = zo_strformat("<<1>>", itemName)
+    entry.spots = [...spots]
+  })
 }
 
 export function noteQuest(

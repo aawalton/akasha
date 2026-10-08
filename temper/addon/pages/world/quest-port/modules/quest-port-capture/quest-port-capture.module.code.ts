@@ -88,9 +88,19 @@ export interface RecallReading {
   readonly money: number
 }
 
+export interface SpotReading {
+  readonly mapId: number
+  readonly x: number
+  readonly y: number
+}
+
 export interface PortTraceEntry {
   at: number
   character: string
+  slotIndex?: number
+  itemId?: number
+  itemName?: string
+  spots?: SpotReading[]
   journalIndex?: number
   questName?: string
   stepIndex?: number

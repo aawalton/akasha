@@ -29,10 +29,18 @@ export const questPortTrace = {
       statement: "A note that throws is dropped rather than reaching the keybind.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement: "Treasure port presses are kept in a list of their own beside the quest port's.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A treasure press keeps the item it read, its slot and every spot known for it.",
+    },
+    {
       decisionKind: "decision-kind/absence",
       statement: "Nothing here changes where the keybind ports.",
     },
   ],
   createdAt: "2026-10-08T17:07:58.033Z",
-  updatedAt: "2026-10-08T17:07:58.033Z",
+  updatedAt: "2026-10-08T19:21:14.110Z",
 } as const satisfies Module

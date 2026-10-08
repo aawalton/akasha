@@ -19,6 +19,7 @@ interface SavedVariablesData {
   migratedFromCharacters?: boolean
   questJournal?: Record<string, JournalCapture>
   questPortTrace?: PortTraceEntry[]
+  treasurePortTrace?: PortTraceEntry[]
   assistNextTrace?: AssistNextEntry[]
   keyOwnersTrace?: KeyOwnersEntry[]
 }

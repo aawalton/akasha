@@ -35,9 +35,9 @@ export const questsSavedVariables = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "Each character's open journal, the port trace and the key-owner trace sit beside the settings.",
+        "Each character's open journal, the port traces and the key-owner trace sit beside the settings.",
     },
   ],
   createdAt: "2026-09-02T18:26:20.060Z",
-  updatedAt: "2026-10-08T17:45:56.828Z",
+  updatedAt: "2026-10-08T19:21:14.110Z",
 } as const satisfies Module
