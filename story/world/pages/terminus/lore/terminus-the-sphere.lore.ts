@@ -177,6 +177,18 @@ export const terminusTheSphere = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
+      fact: "The Terminus has been running for billions of years.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The ground between pulled worlds is the built-up wreckage of earlier pulled worlds.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Digging deep into the ground turns up relics and ruins of earlier civilizations.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
       fact: "Underground structures and infrastructure lie beneath the inner surface.",
       knowers: ["lore-disclosure/game-master"],
     },
@@ -218,5 +230,5 @@ export const terminusTheSphere = {
     },
   ],
   createdAt: "2026-10-08T19:12:35.919Z",
-  updatedAt: "2026-10-08T20:12:23.529Z",
+  updatedAt: "2026-10-08T20:17:59.538Z",
 } as const satisfies Lore
