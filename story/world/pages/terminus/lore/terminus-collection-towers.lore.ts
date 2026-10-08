@@ -177,6 +177,26 @@ export const terminusCollectionTowers = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
+      fact: "A team that conquers a tower decides among itself which member becomes its Administrator.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "A team that cannot decide peacefully fights over who becomes the Administrator.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "An Administrator who moves up leaves their old tower open for those below to take.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Allies gain when one moves up, since each can climb a slot, but gain more by killing that one.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "A newly risen Administrator is most vulnerable to former allies before becoming entrenched.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
       fact: "Each collection tower reaches through the whole thickness of the shell.",
       knowers: ["lore-disclosure/game-master"],
     },
@@ -302,5 +322,5 @@ export const terminusCollectionTowers = {
     },
   ],
   createdAt: "2026-10-08T19:30:37.295Z",
-  updatedAt: "2026-10-08T21:01:36.080Z",
+  updatedAt: "2026-10-08T21:03:38.643Z",
 } as const satisfies Lore
