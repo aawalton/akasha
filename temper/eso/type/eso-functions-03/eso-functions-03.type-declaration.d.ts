@@ -227,6 +227,7 @@ declare function GetItemTraitInformationFromItemLink(
   this: void,
   itemLink?: string
 ): ItemTraitInformation
+declare const BindItem: (this: void, bagId?: Bag, slotIndex?: number) => void
 declare const RequestEquipItem: (
   this: void,
   bagId?: Bag,
