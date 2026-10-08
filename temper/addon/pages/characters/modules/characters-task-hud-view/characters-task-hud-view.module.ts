@@ -33,7 +33,17 @@ export const charactersTaskHudView = {
       decisionKind: "decision-kind/absence",
       statement: "Nothing here changes what the display draws.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "The view reads back each row the last redraw kept, with its labels' text and color.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "The view reads back the display's window, its fragment and both window names it could have.",
+    },
   ],
   createdAt: "2026-10-08T17:14:08.972Z",
-  updatedAt: "2026-10-08T17:14:08.972Z",
+  updatedAt: "2026-10-08T17:30:12.694Z",
 } as const satisfies Module
