@@ -40,7 +40,19 @@ export const alanwaltonLiveActivity = {
       decisionKind: "decision-kind/departure",
       statement: "A start refused that way is answered with no activity rather than a fault.",
     },
+    {
+      decisionKind: "decision-kind/constraint",
+      statement: "An activity ended or dismissed lingers in the list of activities for a while.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Only an active activity is the one a start or an update reaches.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A start finding no active activity dismisses every lingering one and asks anew.",
+    },
   ],
   createdAt: "2026-09-19T16:03:31.931Z",
-  updatedAt: "2026-09-19T19:55:25.000Z",
+  updatedAt: "2026-10-08T21:05:42.489Z",
 } as const satisfies ShellScript

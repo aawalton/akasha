@@ -69,6 +69,12 @@ cat >> "$APPDELEGATE" <<'SWIFT_STOPLIGHTS_ACTIVITY'
 // ONE ACTIVITY AT A TIME. Starting where one already runs updates the one running, because
 // two would sit on the lock screen at once, each claiming to be the whole answer.
 //
+// ONLY AN ACTIVE ACTIVITY IS THE ONE RUNNING.
+//
+// An activity ended or dismissed stays in `activities` for a while, and updating it draws
+// nothing. A start finding none active ends what lingers, dismissing it at once, and asks
+// for a new one, so an activity that died is started again rather than updated dead.
+//
 // THE ACTIVITY IS ASKED FOR A PUSH TOKEN, AND EVERY TOKEN IT NAMES IS HANDED UP.
 //
 // An activity never draws itself again on its own, so a lock screen left alone goes stale
@@ -92,7 +98,7 @@ public class StoplightsActivityPlugin: CAPPlugin, CAPBridgedPlugin {
     }
 
     private var running: Activity<StoplightsAttributes>? {
-        Activity<StoplightsAttributes>.activities.first
+        Activity<StoplightsAttributes>.activities.first { $0.activityState == .active }
     }
 
     private var carrying: Set<String> = []
@@ -135,23 +141,28 @@ public class StoplightsActivityPlugin: CAPPlugin, CAPBridgedPlugin {
             }
             return
         }
-        do {
-            let started = try Activity.request(
-                attributes: StoplightsAttributes(),
-                content: ActivityContent(state: content, staleDate: nil),
-                pushType: .token
-            )
-            carry(started)
-            call.resolve(["id": started.id])
-        } catch ActivityAuthorizationError.visibility {
-            // A LAUNCH THAT IS NOT FOREGROUND YET IS ANSWERED WITH NO ACTIVITY RATHER THAN A FAULT.
-            //
-            // iOS refuses an activity asked for by a process it does not hold foreground, and a
-            // cold launch asks before it is held. The app comes forward a moment later and asks
-            // again, so the one refusal on the way in says nothing anyone need act on.
-            call.resolve([:])
-        } catch {
-            call.reject("the activity would not start: \(error.localizedDescription)")
+        Task {
+            for stale in Activity<StoplightsAttributes>.activities {
+                await stale.end(nil, dismissalPolicy: .immediate)
+            }
+            do {
+                let started = try Activity.request(
+                    attributes: StoplightsAttributes(),
+                    content: ActivityContent(state: content, staleDate: nil),
+                    pushType: .token
+                )
+                carry(started)
+                call.resolve(["id": started.id])
+            } catch ActivityAuthorizationError.visibility {
+                // A LAUNCH THAT IS NOT FOREGROUND YET IS ANSWERED WITH NO ACTIVITY RATHER THAN A FAULT.
+                //
+                // iOS refuses an activity asked for by a process it does not hold foreground, and a
+                // cold launch asks before it is held. The app comes forward a moment later and asks
+                // again, so the one refusal on the way in says nothing anyone need act on.
+                call.resolve([:])
+            } catch {
+                call.reject("the activity would not start: \(error.localizedDescription)")
+            }
         }
     }
 
