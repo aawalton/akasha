@@ -16,7 +16,16 @@ export const narrationSounds = {
       decisionKind: "decision-kind/departure",
       statement: "A sound with no vowel, such as a hum or a hush, is never given an added uh.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A stutter of a word's opening consonants is said as those consonants and an uh.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A stutter whose word does not open with it, or opening with a vowel, is said as written.",
+    },
   ],
   createdAt: "2026-10-08T19:07:44.817Z",
-  updatedAt: "2026-10-08T19:07:44.817Z",
+  updatedAt: "2026-10-08T19:09:03.723Z",
 } as const satisfies Module

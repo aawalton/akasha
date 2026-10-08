@@ -12,6 +12,18 @@ describe("soundedOf", () => {
     expect(soundedOf("“Hmm… Shh— Tsk...”")).toBe("“Hmm… Shh— Tsk...”")
   })
 
+  test("a stutter is said as the sound the word opens with, never as a letter's name", () => {
+    expect(soundedOf("“P-p-potion? W-What? Th-the C-Ceria, ch-chair, S-so.”")).toBe(
+      "“[P](/pə/) [p](/pə/) potion? [W](/wə/) What? [Th](/ðə/) the [C](/sə/) Ceria, [ch](/ʧə/) chair, [S](/sə/) so.”"
+    )
+  })
+
+  test("a word joined to another it does not open is left as written", () => {
+    expect(soundedOf("I-I x-ray T-shirt so-so tsk-tsk Mm-hmm re-read half-b-baked")).toBe(
+      "I-I x-ray T-shirt so-so tsk-tsk Mm-hmm re-read half-b-baked"
+    )
+  })
+
   test("a word with a vowel is left as written", () => {
     expect(soundedOf("Mr. Brt went— away.")).toBe("Mr. Brt went— away.")
   })
