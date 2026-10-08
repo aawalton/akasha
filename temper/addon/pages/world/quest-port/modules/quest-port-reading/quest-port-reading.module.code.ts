@@ -110,12 +110,58 @@ const TASK_LIST_FOCUS = z.object({
   assistedWithNil: z.boolean(),
 })
 
+const LABEL_DRAWN = z.object({
+  text: z.string(),
+  r: z.number(),
+  g: z.number(),
+  b: z.number(),
+  a: z.number(),
+})
+
+const ROW_DRAWN = z.object({
+  name: z.string(),
+  hidden: z.boolean(),
+  controlHidden: z.boolean(),
+  offsetY: z.number().optional(),
+  labels: luaArrayOrEmpty(LABEL_DRAWN),
+})
+
+const WINDOW_DRAWN = z.object({
+  name: z.string(),
+  hidden: z.boolean(),
+  controlHidden: z.boolean(),
+  alpha: z.number(),
+  left: z.number(),
+  top: z.number(),
+  width: z.number(),
+  height: z.number(),
+})
+
+const NAMED_WINDOW = z.object({
+  name: z.string(),
+  exists: z.boolean(),
+  hidden: z.boolean().optional(),
+  controlHidden: z.boolean().optional(),
+})
+
+const DRAWN = z.object({
+  exit: z.string().optional(),
+  window: WINDOW_DRAWN.optional(),
+  contentHidden: z.boolean().optional(),
+  contentChildren: z.number().optional(),
+  emptyHidden: z.boolean().optional(),
+  fragmentShowing: z.boolean().optional(),
+  named: luaArrayOrEmpty(NAMED_WINDOW),
+  rows: luaArrayOrEmpty(ROW_DRAWN),
+})
+
 const TASK_LIST = z.object({
   assistedName: z.string().optional(),
   refreshCount: z.number(),
   lastRefreshAt: z.number().optional(),
   lastSyncedName: z.string().optional(),
   quests: luaArrayOrEmpty(TASK_LIST_FOCUS),
+  drawn: DRAWN.optional(),
 })
 
 const ASSISTED = z.object({
@@ -265,6 +311,36 @@ function assistedLines(label: string, read: AssistedRead | undefined): readonly 
     if (!quest.assistedWithZero && !quest.assistedWithNil) continue
     lines.push(
       `        ${String(quest.journalIndex)}: "${quest.name}" assisted with 0=${String(quest.assistedWithZero)} with nil=${String(quest.assistedWithNil)}`
+    )
+  }
+  if (list.drawn !== undefined) lines.push(...drawnLines(list.drawn))
+  return lines
+}
+
+function colorOf(label: z.infer<typeof LABEL_DRAWN>): string {
+  return `rgba(${label.r.toFixed(2)},${label.g.toFixed(2)},${label.b.toFixed(2)},${label.a.toFixed(2)})`
+}
+
+export function drawnLines(drawn: z.infer<typeof DRAWN>): readonly string[] {
+  const window = drawn.window
+  const lines = [
+    `        drawn: exit=${drawn.exit ?? "-"}` +
+      (window === undefined
+        ? " window not read"
+        : ` window "${window.name}"${flag(window.hidden, "hidden")}${flag(window.controlHidden, "control-hidden")}` +
+          ` alpha=${String(window.alpha)} at (${String(window.left)}, ${String(window.top)}) ${String(window.width)}x${String(window.height)}`) +
+      `${flag(drawn.contentHidden, "content-hidden")} content-children=${String(drawn.contentChildren ?? "-")}` +
+      `${flag(drawn.emptyHidden, "empty-hidden")} fragment-showing=${String(drawn.fragmentShowing ?? "-")}`,
+  ]
+  for (const named of drawn.named) {
+    lines.push(
+      `          named "${named.name}" ${named.exists ? "exists" : "absent"}${flag(named.hidden, "hidden")}${flag(named.controlHidden, "control-hidden")}`
+    )
+  }
+  for (const row of drawn.rows) {
+    const labels = row.labels.map((label) => `"${label.text}" ${colorOf(label)}`).join(" | ")
+    lines.push(
+      `          row "${row.name}" y=${String(row.offsetY ?? "-")}${flag(row.hidden, "hidden")}${flag(row.controlHidden, "control-hidden")}: ${labels}`
     )
   }
   return lines
