@@ -1,3 +1,3 @@
 {"id":"01a1192e-db11-7e18-a053-ca1cc8c708b9","title":"Sleep","startedAt":"2026-10-08T01:45:00.000Z","dailyTracking":"01a11af4-a52b-7000-bd45-7add1b4c293a","endedAt":"2026-10-08T10:50:00.000Z","safetyLevel":"3","difficultyLevel":"0"}
-{"id":"01a11b23-b32d-735b-bb51-af6bd921e308","title":"Hygiene","startedAt":"2026-10-08T10:50:00.000Z","dailyTracking":"01a11af4-a52b-7000-bd45-7add1b4c293a","safetyLevel":"3","difficultyLevel":"1","endedAt":"2026-10-08T11:10:00.000Z"}
-{"id":"01a11b35-8e97-76b9-9a22-d1e9d323813f","title":"Walk + Pray","startedAt":"2026-10-08T11:10:00.000Z","dailyTracking":"01a11af4-a52b-7000-bd45-7add1b4c293a","safetyLevel":"3","difficultyLevel":"1"}
+{"id":"01a11b23-b32d-735b-bb51-af6bd921e308","title":"Hygiene","startedAt":"2026-10-08T10:50:00.000Z","dailyTracking":"01a11af4-a52b-7000-bd45-7add1b4c293a","endedAt":"2026-10-08T11:10:00.000Z","safetyLevel":"3","difficultyLevel":"1"}
+{"id":"01a11b35-8e97-76b9-9a22-d1e9d323813f","title":"Walk + Pray + Breathing","startedAt":"2026-10-08T11:10:00.000Z","dailyTracking":"01a11af4-a52b-7000-bd45-7add1b4c293a","safetyLevel":"3","difficultyLevel":"1"}
