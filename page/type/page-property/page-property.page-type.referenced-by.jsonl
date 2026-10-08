@@ -66,6 +66,7 @@
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"alan/value/health/fitness/coaching/note/properties/focus-tags.select-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"alan/value/health/fitness/equipment/properties/fitness-equipment-covers.multi-relation-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"alan/value/health/fitness/equipment/properties/fitness-equipment-loads.number-property.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"page-property.page-type.ts","path":"alan/value/health/fitness/gym/properties/gym-holds.multi-relation-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"alan/value/health/fitness/strength/exercise/properties/primary-muscles.select-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"alan/value/health/fitness/strength/exercise/properties/secondary-muscles.select-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"change/generator/properties/runs-after.multi-relation-property.types.ts","typed":true,"deferred":false}

@@ -89,6 +89,7 @@
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"alan/track/daily/day/properties/sessions/properties/session-owner.relation-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"alan/track/to-do/properties/to-do-value.relation-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"alan/value/health/fitness/equipment/properties/fitness-equipment-covers.multi-relation-property.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"alan/value/health/fitness/gym/properties/gym-holds.multi-relation-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"alan/value/health/fitness/strength/exercise/properties/equipment.relation-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"alan/value/health/fitness/strength/log/properties/day.relation-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"alan/value/health/fitness/strength/log/properties/exercise.relation-property.types.ts","typed":true,"deferred":false}

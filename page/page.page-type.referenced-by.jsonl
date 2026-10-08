@@ -60,6 +60,7 @@
 {"propertySlug":"extends-type","path":"alan/value/health/fitness/coaching/schedule/day/schedule-day.page-type.ts","id":"01a0657a-e62d-71ab-9830-6a438684618d"}
 {"propertySlug":"extends-type","path":"alan/value/health/fitness/equipment/fitness-equipment.page-type.ts","id":"01a06834-ca86-76cb-a54a-6f86a5225afc"}
 {"propertySlug":"extends-type","path":"alan/value/health/fitness/flexibility/log/flexibility-log.page-type.ts","id":"01a06558-36e9-75e2-bcf3-ce91fd6e945b"}
+{"propertySlug":"extends-type","path":"alan/value/health/fitness/gym/gym.page-type.ts","id":"01a11b34-da15-7011-8949-3ef4c4d1539c"}
 {"propertySlug":"extends-type","path":"alan/value/health/fitness/selection-policy/selection-policy.page-type.ts","id":"01a06838-7a9d-7d0a-8e41-674ebea29caf"}
 {"propertySlug":"extends-type","path":"alan/value/health/fitness/strength/decline/strength-decline.page-type.ts","id":"01a0b71d-29d7-78fa-a2fa-467c181aa8d2"}
 {"propertySlug":"extends-type","path":"alan/value/health/fitness/strength/exercise/strength-exercise.page-type.ts","id":"01a0657e-2bbf-7c1f-a05c-77af77f54cbf"}
@@ -213,6 +214,7 @@
 {"propertySlug":"import","fileName":"page.page-type.types.ts","path":"alan/value/health/fitness/coaching/schedule/day/schedule-day.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page.page-type.types.ts","path":"alan/value/health/fitness/equipment/fitness-equipment.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page.page-type.types.ts","path":"alan/value/health/fitness/flexibility/log/flexibility-log.page-type.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"page.page-type.types.ts","path":"alan/value/health/fitness/gym/gym.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page.page-type.types.ts","path":"alan/value/health/fitness/selection-policy/selection-policy.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page.page-type.types.ts","path":"alan/value/health/fitness/strength/decline/strength-decline.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page.page-type.types.ts","path":"alan/value/health/fitness/strength/exercise/strength-exercise.page-type.types.ts","typed":true,"deferred":false}

@@ -332,6 +332,7 @@
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"alan/value/health/fitness/coaching/schedule/day/schedule-day.page-type.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"alan/value/health/fitness/equipment/fitness-equipment.page-type.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"alan/value/health/fitness/flexibility/log/flexibility-log.page-type.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"alan/value/health/fitness/gym/gym.page-type.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"alan/value/health/fitness/selection-policy/selection-policy.page-type.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"alan/value/health/fitness/strength/decline/strength-decline.page-type.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"alan/value/health/fitness/strength/exercise/implement/strength-exercise-implement.page-type.ts","typed":true,"deferred":false}

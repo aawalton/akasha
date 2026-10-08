@@ -1230,6 +1230,9 @@
 {"propertySlug":"decision-kind","path":"alan/value/health/fitness/equipment/properties/fitness-equipment-covers.multi-relation-property.ts","id":"01a09338-8296-7d00-8ec3-c16e1350135b"}
 {"propertySlug":"decision-kind","path":"alan/value/health/fitness/equipment/properties/fitness-equipment-loads.number-property.ts","id":"01a06865-7f45-7d1f-b0db-1e4af78cdf9c"}
 {"propertySlug":"decision-kind","path":"alan/value/health/fitness/flexibility/log/flexibility-log.page-type.ts","id":"01a06558-36e9-75e2-bcf3-ce91fd6e945b"}
+{"propertySlug":"decision-kind","path":"alan/value/health/fitness/gym/gym.page-type.ts","id":"01a11b34-da15-7011-8949-3ef4c4d1539c"}
+{"propertySlug":"decision-kind","path":"alan/value/health/fitness/gym/properties/gym-every-implement.boolean-property.ts","id":"01a11b34-da16-775b-9ff0-976caf963bad"}
+{"propertySlug":"decision-kind","path":"alan/value/health/fitness/gym/properties/gym-holds.multi-relation-property.ts","id":"01a11b34-da16-78db-b571-78cb6bd21b9c"}
 {"propertySlug":"decision-kind","path":"alan/value/health/fitness/selection-policy/selection-policy.page-type.ts","id":"01a06838-7a9d-7d0a-8e41-674ebea29caf"}
 {"propertySlug":"decision-kind","path":"alan/value/health/fitness/strength/exercise/implement/strength-exercise-implement.page-type.ts","id":"01a09412-00c5-7bbd-ba9c-61f0608a646c"}
 {"propertySlug":"decision-kind","path":"alan/value/health/fitness/strength/exercise/properties/raises-cold.boolean-property.ts","id":"01a0ba71-f807-73dc-a158-b17c5909a083"}

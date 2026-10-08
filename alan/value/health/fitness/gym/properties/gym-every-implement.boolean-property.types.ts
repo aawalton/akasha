@@ -1,0 +1,1 @@
+export type GymEveryImplement = boolean
