@@ -61,6 +61,7 @@ export const persona = {
     "persona/mari",
     "persona/natalie",
     "persona/niala",
+    "persona/nina",
     "persona/nimue",
     "persona/nova",
     "persona/olwen",
@@ -234,5 +235,5 @@ export const persona = {
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-08-30T14:54:58.893Z",
-  updatedAt: "2026-10-08T16:03:12.334Z",
+  updatedAt: "2026-10-08T17:10:32.843Z",
 } as const satisfies PageType
