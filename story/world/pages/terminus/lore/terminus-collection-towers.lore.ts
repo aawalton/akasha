@@ -85,6 +85,18 @@ export const terminusCollectionTowers = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
+      fact: "Higher mana makes stronger System users, who form more essence, which absorbs more heat.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "So crystallization keeps pace with the poles' extra heat, and the poles stay habitable.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Essence crystallizes fastest toward the poles, where mana and heat are greatest.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
       fact: "Crystallized essence becomes part of the sphere's structure.",
       knowers: ["lore-disclosure/game-master"],
     },
@@ -174,5 +186,5 @@ export const terminusCollectionTowers = {
     },
   ],
   createdAt: "2026-10-08T19:30:37.295Z",
-  updatedAt: "2026-10-08T20:25:55.637Z",
+  updatedAt: "2026-10-08T20:47:47.230Z",
 } as const satisfies Lore
