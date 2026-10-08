@@ -9,4 +9,6 @@ export const beastTamer = {
   appearanceCount: 54,
   aliases: ["beast-tamers"],
   references: "jsonl",
+  createdAt: "2026-09-03T04:19:11.927Z",
+  updatedAt: "2026-09-22T13:28:33.000Z",
 } as const satisfies WorldClass

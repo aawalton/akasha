@@ -196,4 +196,6 @@ export const otherwhereXiActionCheck = {
       statement: "No die, band, bonus or margin appears in the prose.",
     },
   ],
+  createdAt: "2026-09-29T00:09:11.684Z",
+  updatedAt: "2026-09-29T03:03:14.000Z",
 } as const satisfies WorldCheck

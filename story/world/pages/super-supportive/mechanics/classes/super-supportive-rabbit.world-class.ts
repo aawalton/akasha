@@ -9,4 +9,6 @@ export const superSupportiveRabbit = {
   aliases: ["Ryeh-b't", "Rhye-b't", "errand-runner class"],
   description:
     "A rare noncombat class of magical errand-runners and helpers, summoned more often than any other class.",
+  createdAt: "2026-09-28T21:36:26.676Z",
+  updatedAt: "2026-09-28T21:36:29.000Z",
 } as const satisfies WorldClass

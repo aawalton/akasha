@@ -65,4 +65,6 @@ export const otherwhereViiiNotice = {
       statement: "Notice is never shown and never named in the prose.",
     },
   ],
+  createdAt: "2026-09-28T23:00:59.428Z",
+  updatedAt: "2026-09-28T23:01:05.000Z",
 } as const satisfies WorldCheck

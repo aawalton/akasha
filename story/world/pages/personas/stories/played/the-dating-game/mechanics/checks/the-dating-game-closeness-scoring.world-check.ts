@@ -78,4 +78,6 @@ export const theDatingGameClosenessScoring = {
       statement: "Nothing here rolls the dice.",
     },
   ],
+  createdAt: "2026-09-26T18:05:41.943Z",
+  updatedAt: "2026-09-27T14:24:42.000Z",
 } as const satisfies WorldCheck

@@ -7,4 +7,6 @@ export const clandestineSpy = {
   title: "Clandestine Spy",
   world: "world/the-wandering-inn",
   evolvesToSlugs: ["world-class/spy-of-the-captured-moment"],
+  createdAt: "2026-09-03T04:19:11.942Z",
+  updatedAt: "2026-09-22T18:28:27.000Z",
 } as const satisfies WorldClass

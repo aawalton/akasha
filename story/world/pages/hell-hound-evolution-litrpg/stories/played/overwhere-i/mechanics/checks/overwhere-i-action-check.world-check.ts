@@ -235,4 +235,6 @@ export const overwhereIActionCheck = {
       statement: "No mana or stamina shows as a number save where her status shows it.",
     },
   ],
+  createdAt: "2026-09-29T12:26:22.296Z",
+  updatedAt: "2026-10-02T18:44:52.000Z",
 } as const satisfies WorldCheck

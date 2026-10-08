@@ -6,4 +6,6 @@ export const otherwhereXTobinMarsh = {
   slug: "otherwhere-x-tobin-marsh",
   title: "Tobin Marsh",
   world: "world/twelve-steps-to-transcendence-a-skill-grinding-litrpg",
+  createdAt: "2026-09-29T01:43:59.742Z",
+  updatedAt: "2026-09-29T01:44:03.000Z",
 } as const satisfies WorldCharacter

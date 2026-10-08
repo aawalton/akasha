@@ -8,4 +8,6 @@ export const superSupportiveSpeedsterBrute = {
   world: "world/super-supportive",
   aliases: ["speedster", "speed type", "speed-agility type"],
   description: "A Brute subclass built for moving very fast.",
+  createdAt: "2026-09-28T21:35:07.948Z",
+  updatedAt: "2026-09-28T21:35:11.000Z",
 } as const satisfies WorldClass

@@ -8,4 +8,6 @@ export const superSupportiveObjectShaper = {
   world: "world/super-supportive",
   description:
     "A Shaper subclass that moves and reshapes objects, easier the more crafted the object is.",
+  createdAt: "2026-09-28T21:35:58.688Z",
+  updatedAt: "2026-09-28T21:36:02.000Z",
 } as const satisfies WorldClass

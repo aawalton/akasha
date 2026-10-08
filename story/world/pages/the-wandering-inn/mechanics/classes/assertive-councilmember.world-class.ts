@@ -6,4 +6,6 @@ export const assertiveCouncilmember = {
   slug: "assertive-councilmember",
   title: "Assertive Councilmember",
   world: "world/the-wandering-inn",
+  createdAt: "2026-09-03T04:19:16.406Z",
+  updatedAt: "2026-09-19T16:26:03.000Z",
 } as const satisfies WorldClass

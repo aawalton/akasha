@@ -94,4 +94,6 @@ export const otherwhereViiStanding = {
       statement: "No regard shows as a number.",
     },
   ],
+  createdAt: "2026-09-28T22:48:12.684Z",
+  updatedAt: "2026-10-03T11:54:45.000Z",
 } as const satisfies WorldCheck

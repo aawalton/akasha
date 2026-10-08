@@ -76,4 +76,6 @@ export const otherwhereIiiTimePassing = {
       statement: "A clock, a screen or a train board in the scene is a clock she may read.",
     },
   ],
+  createdAt: "2026-09-28T21:17:55.680Z",
+  updatedAt: "2026-09-28T21:18:00.000Z",
 } as const satisfies WorldCheck

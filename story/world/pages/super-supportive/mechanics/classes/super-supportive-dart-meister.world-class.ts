@@ -7,4 +7,6 @@ export const superSupportiveDartMeister = {
   title: "Dart Meister",
   world: "world/super-supportive",
   description: "A Meister subclass whose weapon is the dart.",
+  createdAt: "2026-09-28T21:35:58.687Z",
+  updatedAt: "2026-09-28T21:36:02.000Z",
 } as const satisfies WorldClass

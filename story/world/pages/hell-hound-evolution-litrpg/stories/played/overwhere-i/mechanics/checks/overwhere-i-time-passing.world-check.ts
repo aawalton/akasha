@@ -93,4 +93,6 @@ export const overwhereITimePassing = {
         "Nala has no clock, so the prose shows the hour only as light, body and scene show it.",
     },
   ],
+  createdAt: "2026-09-29T12:21:02.517Z",
+  updatedAt: "2026-09-29T12:21:06.000Z",
 } as const satisfies WorldCheck

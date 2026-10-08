@@ -8,4 +8,6 @@ export const superSupportiveWizardClass = {
   world: "world/super-supportive",
   aliases: ["wizard birthclass", "wizarding classes", "higher class"],
   description: "The Artonan class of spellcasters, set apart from the ordinary class.",
+  createdAt: "2026-09-28T21:40:07.788Z",
+  updatedAt: "2026-09-28T21:40:13.000Z",
 } as const satisfies WorldClass

@@ -104,4 +104,6 @@ export const otherwhereIvActionCheck = {
       statement: "No die, band, bonus or margin shows in the prose.",
     },
   ],
+  createdAt: "2026-09-28T21:28:34.504Z",
+  updatedAt: "2026-09-28T21:28:39.000Z",
 } as const satisfies WorldCheck

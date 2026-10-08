@@ -70,4 +70,6 @@ export const otherwhereIxTimePassing = {
         "Nala has no clock, so the prose shows the hour only as light, body and scene show it.",
     },
   ],
+  createdAt: "2026-09-28T22:36:09.458Z",
+  updatedAt: "2026-09-28T22:36:20.000Z",
 } as const satisfies WorldCheck

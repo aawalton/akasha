@@ -8,4 +8,6 @@ export const superSupportiveInstrumentMeister = {
   world: "world/super-supportive",
   aliases: ["instrument Meisters"],
   description: "A Meister subclass whose tool is a musical instrument.",
+  createdAt: "2026-09-28T21:40:07.787Z",
+  updatedAt: "2026-09-28T21:40:13.000Z",
 } as const satisfies WorldClass

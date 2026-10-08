@@ -7,4 +7,6 @@ export const superSupportiveFigurinist = {
   title: "Figurinist",
   world: "world/super-supportive",
   description: "An ultra-rare class that mind-controls a single small figure like a doll.",
+  createdAt: "2026-09-28T21:36:26.675Z",
+  updatedAt: "2026-09-28T21:36:29.000Z",
 } as const satisfies WorldClass

@@ -34,4 +34,6 @@ export const otherwhereIHarm = {
       statement: "A blow that lands deals at least one.",
     },
   ],
+  createdAt: "2026-09-27T15:02:48.141Z",
+  updatedAt: "2026-09-28T23:04:06.000Z",
 } as const satisfies WorldCheck

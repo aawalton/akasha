@@ -8,4 +8,6 @@ export const superSupportiveShaper = {
   world: "world/super-supportive",
   aliases: ["Worldshaper"],
   description: "A class that shapes an element as the System defines it, with gestures.",
+  createdAt: "2026-09-28T21:35:07.947Z",
+  updatedAt: "2026-09-28T21:35:11.000Z",
 } as const satisfies WorldClass

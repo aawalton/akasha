@@ -125,4 +125,6 @@ export const otherwhereXiManaFlow = {
       statement: "Mana never shows as a number; she feels it as fullness or emptiness.",
     },
   ],
+  createdAt: "2026-09-29T00:17:38.408Z",
+  updatedAt: "2026-10-03T11:54:45.000Z",
 } as const satisfies WorldCheck

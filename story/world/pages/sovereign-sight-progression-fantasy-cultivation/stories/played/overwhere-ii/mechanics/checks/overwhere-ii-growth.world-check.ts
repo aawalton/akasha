@@ -101,4 +101,6 @@ export const overwhereIiGrowth = {
       statement: "Every change in an attribute is written with a line of its history.",
     },
   ],
+  createdAt: "2026-09-29T12:41:37.753Z",
+  updatedAt: "2026-10-03T11:54:45.000Z",
 } as const satisfies WorldCheck

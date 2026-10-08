@@ -7,4 +7,6 @@ export const overwhereIvSpellblade = {
   title: "Spellblade",
   world: "world/syl-a-slime-monster-evolution-litrpg",
   description: "An intermediate class that fights with both spell and blade.",
+  createdAt: "2026-09-29T12:42:40.487Z",
+  updatedAt: "2026-09-29T12:42:43.000Z",
 } as const satisfies WorldClass

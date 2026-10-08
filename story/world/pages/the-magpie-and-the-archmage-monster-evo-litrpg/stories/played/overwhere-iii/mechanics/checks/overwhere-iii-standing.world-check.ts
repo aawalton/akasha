@@ -58,4 +58,6 @@ export const overwhereIiiStanding = {
       statement: "Nothing here rolls the dice.",
     },
   ],
+  createdAt: "2026-09-29T12:38:36.045Z",
+  updatedAt: "2026-09-30T08:38:59.000Z",
 } as const satisfies WorldCheck

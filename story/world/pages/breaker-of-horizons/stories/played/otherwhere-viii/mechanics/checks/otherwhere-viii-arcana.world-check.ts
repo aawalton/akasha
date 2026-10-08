@@ -91,4 +91,6 @@ export const otherwhereViiiArcana = {
       statement: "The prose shows arcana only as the body feels it, never as a stage or a number.",
     },
   ],
+  createdAt: "2026-09-28T22:58:14.058Z",
+  updatedAt: "2026-09-28T22:58:23.000Z",
 } as const satisfies WorldCheck

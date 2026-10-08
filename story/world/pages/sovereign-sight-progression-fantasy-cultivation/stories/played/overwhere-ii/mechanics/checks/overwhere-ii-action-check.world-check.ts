@@ -101,4 +101,6 @@ export const overwhereIiActionCheck = {
       statement: "Dice, bands and margins never appear in the prose.",
     },
   ],
+  createdAt: "2026-09-29T12:37:38.347Z",
+  updatedAt: "2026-09-29T12:37:43.000Z",
 } as const satisfies WorldCheck

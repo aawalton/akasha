@@ -75,4 +75,6 @@ export const otherwhereXManaStrain = {
       statement: "No mana shows as a number in the prose.",
     },
   ],
+  createdAt: "2026-09-29T00:14:19.681Z",
+  updatedAt: "2026-09-29T00:14:49.000Z",
 } as const satisfies WorldCheck

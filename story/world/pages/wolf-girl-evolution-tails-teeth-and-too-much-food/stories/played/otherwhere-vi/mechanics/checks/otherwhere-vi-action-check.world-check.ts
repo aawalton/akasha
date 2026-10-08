@@ -158,4 +158,6 @@ export const otherwhereViActionCheck = {
         "MP shows as a number only where the System shows it; otherwise as a buzz or a hollow.",
     },
   ],
+  createdAt: "2026-09-28T22:54:35.060Z",
+  updatedAt: "2026-09-30T11:06:17.000Z",
 } as const satisfies WorldCheck

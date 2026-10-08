@@ -7,4 +7,6 @@ export const overwhereIvRiftmancer = {
   title: "Riftmancer",
   world: "world/syl-a-slime-monster-evolution-litrpg",
   description: "An advanced caster class of Dimension Magic.",
+  createdAt: "2026-09-29T12:42:40.487Z",
+  updatedAt: "2026-09-29T12:42:43.000Z",
 } as const satisfies WorldClass

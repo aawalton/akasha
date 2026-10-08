@@ -149,4 +149,6 @@ export const otherwhereIxHarm = {
       statement: "No number of harm or health appears in the prose but in a system box.",
     },
   ],
+  createdAt: "2026-09-28T22:50:14.065Z",
+  updatedAt: "2026-09-29T02:22:39.000Z",
 } as const satisfies WorldCheck

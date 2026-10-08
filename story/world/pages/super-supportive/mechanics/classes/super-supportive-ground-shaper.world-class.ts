@@ -8,4 +8,6 @@ export const superSupportiveGroundShaper = {
   world: "world/super-supportive",
   aliases: ["Ground Shaper"],
   description: "A Shaper subclass that shapes the Ground element.",
+  createdAt: "2026-09-28T21:35:07.947Z",
+  updatedAt: "2026-09-28T21:35:11.000Z",
 } as const satisfies WorldClass

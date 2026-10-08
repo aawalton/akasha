@@ -94,4 +94,6 @@ export const otherwhereXSuspicion = {
       statement: "No suspicion shows as a number, in the prose or on the play screen.",
     },
   ],
+  createdAt: "2026-09-28T23:58:43.038Z",
+  updatedAt: "2026-09-29T03:01:52.000Z",
 } as const satisfies WorldCheck

@@ -57,4 +57,6 @@ export const otherwhereXiTrade = {
       statement: "No price shows in the prose but as the coins named in talk.",
     },
   ],
+  createdAt: "2026-09-29T00:19:43.285Z",
+  updatedAt: "2026-10-03T11:54:45.000Z",
 } as const satisfies WorldCheck

@@ -101,4 +101,6 @@ export const otherwhereViiiHarm = {
       statement: "No number of harm or health appears in the prose.",
     },
   ],
+  createdAt: "2026-09-28T22:53:55.779Z",
+  updatedAt: "2026-09-28T22:54:06.000Z",
 } as const satisfies WorldCheck

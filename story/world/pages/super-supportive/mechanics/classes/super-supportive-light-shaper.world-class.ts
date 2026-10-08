@@ -8,4 +8,6 @@ export const superSupportiveLightShaper = {
   world: "world/super-supportive",
   aliases: ["light Shaper", "Light Shaper"],
   description: "A Shaper subclass that shapes light.",
+  createdAt: "2026-09-28T21:35:58.687Z",
+  updatedAt: "2026-09-28T21:36:02.000Z",
 } as const satisfies WorldClass

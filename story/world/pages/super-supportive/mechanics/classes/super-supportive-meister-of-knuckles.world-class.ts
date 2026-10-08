@@ -8,4 +8,6 @@ export const superSupportiveMeisterOfKnuckles = {
   world: "world/super-supportive",
   aliases: ["Knuckle Meister"],
   description: "A Meister subclass that specializes in fist weapons.",
+  createdAt: "2026-09-28T21:35:58.687Z",
+  updatedAt: "2026-09-28T21:36:02.000Z",
 } as const satisfies WorldClass

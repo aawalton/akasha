@@ -223,4 +223,6 @@ export const otherwhereXiGrowth = {
       statement: "No stat shows as a number save where her status or the interface shows it.",
     },
   ],
+  createdAt: "2026-09-29T00:16:15.196Z",
+  updatedAt: "2026-10-03T11:54:45.000Z",
 } as const satisfies WorldCheck

@@ -158,4 +158,6 @@ export const otherwhereIiActionCheck = {
         "A stat page holds the stat's total, with every trait and point the character has.",
     },
   ],
+  createdAt: "2026-09-28T19:49:30.125Z",
+  updatedAt: "2026-09-30T11:15:47.000Z",
 } as const satisfies WorldCheck

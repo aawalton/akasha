@@ -69,4 +69,6 @@ export const towerEssenceAbsorption = {
       statement: "A reading names the element and the rank by the Tower's pages for them.",
     },
   ],
+  createdAt: "2026-09-26T14:30:47.649Z",
+  updatedAt: "2026-09-26T14:53:39.000Z",
 } as const satisfies WorldCheck

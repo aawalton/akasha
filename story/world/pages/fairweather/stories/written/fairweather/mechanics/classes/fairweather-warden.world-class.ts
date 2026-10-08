@@ -8,4 +8,6 @@ export const fairweatherWarden = {
   world: "world/fairweather",
   description:
     "A class that breaks and suppresses bindings: the ties of power one person lays on another. The Adventurers' Guild employs Wardens to watch the classes it restricts.",
+  createdAt: "2026-10-03T16:53:18.044Z",
+  updatedAt: "2026-10-03T16:53:25.000Z",
 } as const satisfies WorldClass

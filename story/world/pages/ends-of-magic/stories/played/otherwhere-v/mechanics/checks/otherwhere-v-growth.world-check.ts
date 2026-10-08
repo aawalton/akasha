@@ -114,4 +114,6 @@ export const otherwhereVGrowth = {
       statement: "Nothing here rolls the dice.",
     },
   ],
+  createdAt: "2026-09-28T21:46:16.409Z",
+  updatedAt: "2026-09-30T21:01:16.000Z",
 } as const satisfies WorldCheck

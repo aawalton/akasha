@@ -10,4 +10,6 @@ export const champion = {
   aliases: ["champions"],
   evolvesFromSlugs: ["world-class/warrior"],
   references: "jsonl",
+  createdAt: "2026-09-03T04:19:11.939Z",
+  updatedAt: "2026-09-22T18:27:39.000Z",
 } as const satisfies WorldClass

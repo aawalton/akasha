@@ -52,4 +52,6 @@ export const dragonsAndDungeonsCheck = {
         "A natural twenty comes off strongly and a natural one fails, whatever the margin.",
     },
   ],
+  createdAt: "2026-09-27T16:10:52.234Z",
+  updatedAt: "2026-09-27T16:11:02.000Z",
 } as const satisfies WorldCheck

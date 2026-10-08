@@ -7,4 +7,6 @@ export const overwhereIvClerk = {
   title: "Clerk",
   world: "world/syl-a-slime-monster-evolution-litrpg",
   description: "A profession class for keepers of ledgers, records and accounts.",
+  createdAt: "2026-09-30T09:37:15.568Z",
+  updatedAt: "2026-09-30T09:37:20.000Z",
 } as const satisfies WorldClass

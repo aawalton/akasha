@@ -7,4 +7,6 @@ export const superSupportiveDuraBrute = {
   title: "Dura Brute",
   world: "world/super-supportive",
   description: "An unofficial Brute build mixing Strength and Stamina.",
+  createdAt: "2026-09-28T21:35:07.947Z",
+  updatedAt: "2026-09-28T21:35:11.000Z",
 } as const satisfies WorldClass

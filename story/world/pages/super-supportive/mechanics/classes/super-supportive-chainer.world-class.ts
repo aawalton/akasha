@@ -8,4 +8,6 @@ export const superSupportiveChainer = {
   world: "world/super-supportive",
   description:
     "An ultra-rare class said to give access to the most powerful wordchains and to reduce their side effects.",
+  createdAt: "2026-09-28T21:36:26.675Z",
+  updatedAt: "2026-09-28T21:36:29.000Z",
 } as const satisfies WorldClass

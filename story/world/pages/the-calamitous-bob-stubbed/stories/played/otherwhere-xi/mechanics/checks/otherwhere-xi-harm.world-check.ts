@@ -178,4 +178,6 @@ export const otherwhereXiHarm = {
       statement: "The interface never shows her health; she knows it only as her body feels it.",
     },
   ],
+  createdAt: "2026-09-29T00:09:11.685Z",
+  updatedAt: "2026-09-30T11:10:07.000Z",
 } as const satisfies WorldCheck

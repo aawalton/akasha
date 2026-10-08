@@ -6,4 +6,6 @@ export const otherwhereXPellHollis = {
   slug: "otherwhere-x-pell-hollis",
   title: "Pell Hollis",
   world: "world/twelve-steps-to-transcendence-a-skill-grinding-litrpg",
+  createdAt: "2026-09-29T01:44:21.493Z",
+  updatedAt: "2026-09-29T01:44:25.000Z",
 } as const satisfies WorldCharacter

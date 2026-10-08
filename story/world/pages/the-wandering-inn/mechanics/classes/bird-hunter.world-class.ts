@@ -9,4 +9,6 @@ export const birdHunter = {
   appearanceCount: 31,
   evolvesToSlugs: ["world-class/bow-warden-of-the-songbird"],
   references: "jsonl",
+  createdAt: "2026-09-03T04:19:16.414Z",
+  updatedAt: "2026-09-22T18:28:27.000Z",
 } as const satisfies WorldClass

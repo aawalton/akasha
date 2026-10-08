@@ -183,4 +183,6 @@ export const overwhereIGrowth = {
       statement: "Every change in a stat, level or marks is written with a line of its history.",
     },
   ],
+  createdAt: "2026-09-29T12:30:21.320Z",
+  updatedAt: "2026-10-03T11:54:45.000Z",
 } as const satisfies WorldCheck

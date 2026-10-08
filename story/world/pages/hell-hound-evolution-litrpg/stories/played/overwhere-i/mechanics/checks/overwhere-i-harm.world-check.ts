@@ -150,4 +150,6 @@ export const overwhereIHarm = {
       statement: "No health shows as a number save where her status shows it.",
     },
   ],
+  createdAt: "2026-09-29T12:28:48.154Z",
+  updatedAt: "2026-10-02T18:44:52.000Z",
 } as const satisfies WorldCheck

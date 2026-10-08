@@ -77,4 +77,6 @@ export const overwhereIiTimePassing = {
       statement: "Nala has no clock, so the prose shows the hour as sun, shade, cold and hunger.",
     },
   ],
+  createdAt: "2026-09-29T12:12:49.073Z",
+  updatedAt: "2026-09-29T12:12:54.000Z",
 } as const satisfies WorldCheck

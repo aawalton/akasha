@@ -8,4 +8,6 @@ export const superSupportiveStrengthBrute = {
   world: "world/super-supportive",
   aliases: ["strength-type Brute", "Strength type"],
   description: "A Brute subclass focused on raw physical strength.",
+  createdAt: "2026-09-28T21:35:07.948Z",
+  updatedAt: "2026-09-28T21:35:11.000Z",
 } as const satisfies WorldClass

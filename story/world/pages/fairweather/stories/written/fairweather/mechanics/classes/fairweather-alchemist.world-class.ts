@@ -8,4 +8,6 @@ export const fairweatherAlchemist = {
   world: "world/fairweather",
   description:
     "A class that brews potions, salves and powders by pouring power into what it mixes.",
+  createdAt: "2026-10-03T16:53:18.044Z",
+  updatedAt: "2026-10-03T16:53:25.000Z",
 } as const satisfies WorldClass

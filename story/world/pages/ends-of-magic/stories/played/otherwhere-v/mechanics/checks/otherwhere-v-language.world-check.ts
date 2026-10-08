@@ -69,4 +69,6 @@ export const otherwhereVLanguage = {
       statement: "Nothing here rolls the dice, and no fluency shows as a number.",
     },
   ],
+  createdAt: "2026-09-28T21:48:12.159Z",
+  updatedAt: "2026-09-28T21:48:18.000Z",
 } as const satisfies WorldCheck

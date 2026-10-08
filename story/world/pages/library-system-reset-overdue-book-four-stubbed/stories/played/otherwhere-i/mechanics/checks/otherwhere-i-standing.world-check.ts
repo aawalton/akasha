@@ -38,4 +38,6 @@ export const otherwhereIStanding = {
       statement: "Nothing here rolls the dice.",
     },
   ],
+  createdAt: "2026-09-27T15:04:07.609Z",
+  updatedAt: "2026-09-28T23:04:06.000Z",
 } as const satisfies WorldCheck

@@ -225,4 +225,6 @@ export const otherwhereViNeeds = {
       statement: "SP shows as a number only where the System shows it; otherwise as tiredness.",
     },
   ],
+  createdAt: "2026-09-28T23:02:30.566Z",
+  updatedAt: "2026-10-03T11:11:08.000Z",
 } as const satisfies WorldCheck

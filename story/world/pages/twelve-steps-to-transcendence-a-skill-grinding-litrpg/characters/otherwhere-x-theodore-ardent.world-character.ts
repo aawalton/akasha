@@ -6,4 +6,6 @@ export const otherwhereXTheodoreArdent = {
   slug: "otherwhere-x-theodore-ardent",
   title: "Theodore Ardent",
   world: "world/twelve-steps-to-transcendence-a-skill-grinding-litrpg",
+  createdAt: "2026-09-29T00:01:27.346Z",
+  updatedAt: "2026-09-29T00:01:31.000Z",
 } as const satisfies WorldCharacter

@@ -7,4 +7,6 @@ export const superSupportiveMeisterOfTheMutableHaft = {
   title: "Meister of the Mutable Haft",
   world: "world/super-supportive",
   description: "A Meister subclass whose weapon is the Mutable Haft.",
+  createdAt: "2026-09-28T21:40:07.787Z",
+  updatedAt: "2026-09-28T21:40:13.000Z",
 } as const satisfies WorldClass

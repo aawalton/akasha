@@ -9,4 +9,6 @@ export const bowSingerQueenOfTheFreeAntinium = {
   appearanceCount: 2,
   evolvesFromSlugs: ["world-class/bow-warden-of-the-songbird"],
   references: "jsonl",
+  createdAt: "2026-09-03T04:19:11.936Z",
+  updatedAt: "2026-09-22T18:27:39.000Z",
 } as const satisfies WorldClass

@@ -8,4 +8,6 @@ export const superSupportiveLongsightBrute = {
   world: "world/super-supportive",
   aliases: ["Longsight Brute", "longsight"],
   description: "A Brute subclass that sees far away.",
+  createdAt: "2026-09-28T21:35:07.947Z",
+  updatedAt: "2026-09-28T21:35:11.000Z",
 } as const satisfies WorldClass

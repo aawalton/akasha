@@ -10,4 +10,6 @@ export const bowWardenOfTheSongbird = {
   evolvesFromSlugs: ["world-class/bird-hunter"],
   evolvesToSlugs: ["world-class/bow-singer-queen-of-the-free-antinium"],
   references: "jsonl",
+  createdAt: "2026-09-03T04:19:11.936Z",
+  updatedAt: "2026-09-22T18:28:27.000Z",
 } as const satisfies WorldClass

@@ -71,4 +71,6 @@ export const otherwhereIvCultivating = {
       statement: "No dice, stages or realms named as numbers show in the prose.",
     },
   ],
+  createdAt: "2026-09-28T21:51:49.491Z",
+  updatedAt: "2026-09-28T21:52:09.000Z",
 } as const satisfies WorldCheck

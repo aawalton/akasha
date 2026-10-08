@@ -81,4 +81,6 @@ export const otherwhereIvNeeds = {
       statement: "No stage shows as a word the prose names; the body shows it.",
     },
   ],
+  createdAt: "2026-09-28T21:35:19.485Z",
+  updatedAt: "2026-10-03T11:10:45.000Z",
 } as const satisfies WorldCheck

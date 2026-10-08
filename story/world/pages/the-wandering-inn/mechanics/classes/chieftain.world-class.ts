@@ -10,4 +10,6 @@ export const chieftain = {
   aliases: ["chieftains"],
   evolvesFromSlugs: ["world-class/leader"],
   references: "jsonl",
+  createdAt: "2026-09-03T04:19:11.942Z",
+  updatedAt: "2026-09-22T18:27:39.000Z",
 } as const satisfies WorldClass

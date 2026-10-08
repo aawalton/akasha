@@ -6,4 +6,6 @@ export const bishopOfChrist = {
   slug: "bishop-of-christ",
   title: "Bishop of Christ",
   world: "world/the-wandering-inn",
+  createdAt: "2026-09-03T04:19:11.931Z",
+  updatedAt: "2026-09-19T16:26:42.000Z",
 } as const satisfies WorldClass

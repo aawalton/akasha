@@ -363,4 +363,6 @@ export const overwhereIvGrowth = {
       statement: "An evolution or a change of race writes the new species held.",
     },
   ],
+  createdAt: "2026-09-29T12:32:02.273Z",
+  updatedAt: "2026-10-03T11:54:45.000Z",
 } as const satisfies WorldCheck

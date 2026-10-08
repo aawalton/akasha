@@ -109,4 +109,6 @@ export const otherwhereViiiLearning = {
         "No fluency, control or gain shows as a number, in the prose or on the play screen.",
     },
   ],
+  createdAt: "2026-09-28T22:59:31.152Z",
+  updatedAt: "2026-09-28T22:59:46.000Z",
 } as const satisfies WorldCheck

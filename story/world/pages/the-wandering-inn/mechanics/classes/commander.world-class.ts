@@ -9,4 +9,6 @@ export const commander = {
   appearanceCount: 89,
   aliases: ["Commander.", "commanders"],
   references: "jsonl",
+  createdAt: "2026-09-03T04:19:11.945Z",
+  updatedAt: "2026-09-22T13:28:49.000Z",
 } as const satisfies WorldClass

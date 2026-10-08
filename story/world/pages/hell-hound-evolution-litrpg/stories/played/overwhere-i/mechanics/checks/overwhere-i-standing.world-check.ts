@@ -93,4 +93,6 @@ export const overwhereIStanding = {
       statement: "No regard shows as a number in the prose.",
     },
   ],
+  createdAt: "2026-09-29T12:32:34.010Z",
+  updatedAt: "2026-09-29T12:32:38.000Z",
 } as const satisfies WorldCheck

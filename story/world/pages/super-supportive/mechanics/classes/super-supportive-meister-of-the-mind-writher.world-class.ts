@@ -8,4 +8,6 @@ export const superSupportiveMeisterOfTheMindWrither = {
   world: "world/super-supportive",
   description:
     "A Meister subclass whose weapon is the Mind Writher, an alien mentally directed whip.",
+  createdAt: "2026-09-28T21:35:58.687Z",
+  updatedAt: "2026-09-28T21:36:02.000Z",
 } as const satisfies WorldClass

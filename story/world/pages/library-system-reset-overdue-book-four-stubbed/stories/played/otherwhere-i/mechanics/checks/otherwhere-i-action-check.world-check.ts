@@ -47,4 +47,6 @@ export const otherwhereIActionCheck = {
         "A natural twenty comes off strongly and a natural one fails, whatever the margin.",
     },
   ],
+  createdAt: "2026-09-27T14:56:08.063Z",
+  updatedAt: "2026-09-28T23:04:06.000Z",
 } as const satisfies WorldCheck

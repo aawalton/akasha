@@ -8,4 +8,6 @@ export const superSupportiveHealerOfMind = {
   world: "world/super-supportive",
   aliases: ["Mind Healer"],
   description: "A super-rare Healer subclass that mends the mind, including mind-control damage.",
+  createdAt: "2026-09-28T21:36:26.676Z",
+  updatedAt: "2026-09-28T21:36:29.000Z",
 } as const satisfies WorldClass

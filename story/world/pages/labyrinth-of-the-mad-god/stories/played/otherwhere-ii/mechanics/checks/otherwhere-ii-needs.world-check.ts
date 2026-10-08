@@ -71,4 +71,6 @@ export const otherwhereIiNeeds = {
       statement: "The prose shows a need as the body feels it, never as a stage or a number.",
     },
   ],
+  createdAt: "2026-09-28T19:52:48.999Z",
+  updatedAt: "2026-10-03T11:10:36.000Z",
 } as const satisfies WorldCheck

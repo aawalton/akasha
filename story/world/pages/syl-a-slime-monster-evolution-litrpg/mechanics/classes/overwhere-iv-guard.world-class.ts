@@ -7,4 +7,6 @@ export const overwhereIvGuard = {
   title: "Guard",
   world: "world/syl-a-slime-monster-evolution-litrpg",
   description: "A basic class for those who keep watch over a town, a gate or a lord.",
+  createdAt: "2026-09-30T08:46:56.467Z",
+  updatedAt: "2026-09-30T08:46:59.000Z",
 } as const satisfies WorldClass

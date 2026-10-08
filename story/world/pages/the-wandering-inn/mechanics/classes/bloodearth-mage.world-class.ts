@@ -9,4 +9,6 @@ export const bloodearthMage = {
   appearanceCount: 4,
   evolvesFromSlugs: ["world-class/green-mage"],
   references: "jsonl",
+  createdAt: "2026-09-03T04:19:11.934Z",
+  updatedAt: "2026-09-22T18:27:39.000Z",
 } as const satisfies WorldClass

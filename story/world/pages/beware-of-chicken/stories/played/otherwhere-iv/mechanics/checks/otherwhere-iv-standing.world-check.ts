@@ -85,4 +85,6 @@ export const otherwhereIvStanding = {
       statement: "No standing shows as a number.",
     },
   ],
+  createdAt: "2026-09-28T21:38:27.079Z",
+  updatedAt: "2026-09-28T21:38:33.000Z",
 } as const satisfies WorldCheck

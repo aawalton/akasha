@@ -7,4 +7,6 @@ export const superSupportiveTailor = {
   title: "Tailor",
   world: "world/super-supportive",
   description: "A rare class.",
+  createdAt: "2026-09-28T21:36:26.676Z",
+  updatedAt: "2026-09-28T21:36:29.000Z",
 } as const satisfies WorldClass

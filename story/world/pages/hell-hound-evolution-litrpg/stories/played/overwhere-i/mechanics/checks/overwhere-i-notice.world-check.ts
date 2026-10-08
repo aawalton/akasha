@@ -103,4 +103,6 @@ export const overwhereINotice = {
         "Every change in notice is written on its page and a line of its history before the turn moves on.",
     },
   ],
+  createdAt: "2026-09-29T12:33:23.619Z",
+  updatedAt: "2026-10-03T11:54:45.000Z",
 } as const satisfies WorldCheck

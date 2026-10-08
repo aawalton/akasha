@@ -172,4 +172,6 @@ export const overwhereIvHarm = {
       statement: "Health never shows as a number; the prose shows it as pain, blood and weariness.",
     },
   ],
+  createdAt: "2026-09-29T12:30:34.988Z",
+  updatedAt: "2026-10-03T01:21:02.000Z",
 } as const satisfies WorldCheck

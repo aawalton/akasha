@@ -8,4 +8,6 @@ export const superSupportiveUType = {
   world: "world/super-supportive",
   aliases: ["U-class", "Unique", "U"],
   description: "A class of one-of-a-kind powers that don't fit the normal classes.",
+  createdAt: "2026-09-28T21:36:26.676Z",
+  updatedAt: "2026-09-28T21:36:29.000Z",
 } as const satisfies WorldClass

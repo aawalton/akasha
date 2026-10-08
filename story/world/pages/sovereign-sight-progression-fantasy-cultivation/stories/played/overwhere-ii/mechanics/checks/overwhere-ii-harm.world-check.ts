@@ -104,4 +104,6 @@ export const overwhereIiHarm = {
       statement: "Vigour never shows as a number.",
     },
   ],
+  createdAt: "2026-09-29T12:37:38.347Z",
+  updatedAt: "2026-10-02T15:34:16.000Z",
 } as const satisfies WorldCheck

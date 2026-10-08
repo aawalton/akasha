@@ -55,4 +55,6 @@ export const otherwhereIxTrade = {
         "No price shows as a sum of copper in the prose; coins are named as they change hands.",
     },
   ],
+  createdAt: "2026-09-28T23:03:03.162Z",
+  updatedAt: "2026-09-28T23:03:08.000Z",
 } as const satisfies WorldCheck

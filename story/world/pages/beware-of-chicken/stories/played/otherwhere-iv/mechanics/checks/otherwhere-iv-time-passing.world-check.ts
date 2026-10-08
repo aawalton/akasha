@@ -69,4 +69,6 @@ export const otherwhereIvTimePassing = {
       statement: "Nala has no clock, so the prose shows the hour only as the sun and the work do.",
     },
   ],
+  createdAt: "2026-09-28T21:27:33.429Z",
+  updatedAt: "2026-09-28T21:27:38.000Z",
 } as const satisfies WorldCheck

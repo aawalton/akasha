@@ -8,4 +8,6 @@ export const superSupportiveMeister = {
   world: "world/super-supportive",
   aliases: ["weaponmaster"],
   description: "The weaponmaster class, powerful but inflexible, tied to one tool or weapon type.",
+  createdAt: "2026-09-28T21:35:58.688Z",
+  updatedAt: "2026-09-28T21:36:02.000Z",
 } as const satisfies WorldClass

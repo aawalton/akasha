@@ -145,4 +145,6 @@ export const overwhereIvActionCheck = {
       statement: "Mana never shows as a number; she feels it as warmth running full or thin.",
     },
   ],
+  createdAt: "2026-09-29T12:29:31.835Z",
+  updatedAt: "2026-10-02T18:19:32.000Z",
 } as const satisfies WorldCheck

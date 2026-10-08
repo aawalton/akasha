@@ -8,4 +8,6 @@ export const theIdleEpochLoopweaver = {
   world: "world/the-idle-epoch",
   description:
     "A unique automation class that builds constructs, threads and scripts that run while the caster idles, with Loop Sight, Thread Spinner, Script Engine, Compile Familiar and an Optimization Aura.",
+  createdAt: "2026-10-03T19:16:27.400Z",
+  updatedAt: "2026-10-03T19:16:30.000Z",
 } as const satisfies WorldClass

@@ -143,4 +143,6 @@ export const otherwhereViiCultivating = {
         "No mana shows as a number; it shows as warmth, fullness or a hollow in the belly.",
     },
   ],
+  createdAt: "2026-09-28T22:50:41.801Z",
+  updatedAt: "2026-09-30T11:11:44.000Z",
 } as const satisfies WorldCheck

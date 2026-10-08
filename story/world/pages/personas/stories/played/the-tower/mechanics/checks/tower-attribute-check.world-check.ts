@@ -22,4 +22,6 @@ export const towerAttributeCheck = {
       statement: "An act reads by the band that strike lands in.",
     },
   ],
+  createdAt: "2026-09-26T14:27:59.539Z",
+  updatedAt: "2026-09-26T14:53:39.000Z",
 } as const satisfies WorldCheck

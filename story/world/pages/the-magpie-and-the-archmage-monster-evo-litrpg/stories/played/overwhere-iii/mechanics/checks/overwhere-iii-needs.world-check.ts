@@ -54,4 +54,6 @@ export const overwhereIiiNeeds = {
         "A reading names `character`, `hoursFed`, `hoursAwake`, `cold` and `barefootMiles`.",
     },
   ],
+  createdAt: "2026-09-29T12:40:54.318Z",
+  updatedAt: "2026-09-29T12:40:58.000Z",
 } as const satisfies WorldCheck

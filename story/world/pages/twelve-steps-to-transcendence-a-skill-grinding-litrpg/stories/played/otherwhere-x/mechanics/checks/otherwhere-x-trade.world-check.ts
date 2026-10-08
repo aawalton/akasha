@@ -59,4 +59,6 @@ export const otherwhereXTrade = {
         "No price shows as a sum of copper in the prose; coins are named as they change hands.",
     },
   ],
+  createdAt: "2026-09-29T00:01:19.187Z",
+  updatedAt: "2026-09-29T00:01:30.000Z",
 } as const satisfies WorldCheck

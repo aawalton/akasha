@@ -10,4 +10,6 @@ export const archer = {
   aliases: ["archers"],
   evolvesToSlugs: ["world-class/sniper"],
   references: "jsonl",
+  createdAt: "2026-09-03T04:19:16.398Z",
+  updatedAt: "2026-09-22T18:28:27.000Z",
 } as const satisfies WorldClass

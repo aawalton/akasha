@@ -74,4 +74,6 @@ export const otherwhereIiTimePassing = {
       statement: "A countdown the System shows her is a clock she may read.",
     },
   ],
+  createdAt: "2026-09-28T19:51:11.952Z",
+  updatedAt: "2026-09-28T22:27:15.000Z",
 } as const satisfies WorldCheck

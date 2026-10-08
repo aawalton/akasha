@@ -42,4 +42,6 @@ export const otherwhereIiConditioning = {
       statement: "A rise shows as a System window once the ordeal is over.",
     },
   ],
+  createdAt: "2026-09-28T20:13:07.664Z",
+  updatedAt: "2026-09-28T22:39:05.000Z",
 } as const satisfies WorldCheck

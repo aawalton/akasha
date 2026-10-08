@@ -10,4 +10,6 @@ export const combinedArmsCommander = {
   aliases: ["Combined Arms Commander"],
   evolvesFromSlugs: ["world-class/foreign-commander"],
   references: "jsonl",
+  createdAt: "2026-09-03T04:19:11.944Z",
+  updatedAt: "2026-09-22T18:27:39.000Z",
 } as const satisfies WorldClass

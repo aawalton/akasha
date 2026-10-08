@@ -113,4 +113,6 @@ export const otherwhereViiHarm = {
       statement: "No health shows as a number; hurt shows as the body shows it.",
     },
   ],
+  createdAt: "2026-09-28T22:45:29.188Z",
+  updatedAt: "2026-09-30T11:11:44.000Z",
 } as const satisfies WorldCheck

@@ -6,4 +6,6 @@ export const chieftainOfTheGrandAlliance = {
   slug: "chieftain-of-the-grand-alliance",
   title: "Chieftain of the Grand Alliance",
   world: "world/the-wandering-inn",
+  createdAt: "2026-09-03T04:19:11.941Z",
+  updatedAt: "2026-09-19T16:27:20.000Z",
 } as const satisfies WorldClass

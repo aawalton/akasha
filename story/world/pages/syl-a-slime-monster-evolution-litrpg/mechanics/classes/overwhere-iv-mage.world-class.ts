@@ -8,4 +8,6 @@ export const overwhereIvMage = {
   world: "world/syl-a-slime-monster-evolution-litrpg",
   description: "A basic class for those who fight with spells.",
   evolvesToSlugs: ["world-class/overwhere-iv-sorcerer"],
+  createdAt: "2026-09-29T12:42:40.486Z",
+  updatedAt: "2026-09-29T12:42:43.000Z",
 } as const satisfies WorldClass

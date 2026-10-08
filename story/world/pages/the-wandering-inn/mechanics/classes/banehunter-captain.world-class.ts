@@ -8,4 +8,6 @@ export const banehunterCaptain = {
   world: "world/the-wandering-inn",
   appearanceCount: 1,
   references: "jsonl",
+  createdAt: "2026-09-03T04:19:16.409Z",
+  updatedAt: "2026-09-22T13:28:33.000Z",
 } as const satisfies WorldClass

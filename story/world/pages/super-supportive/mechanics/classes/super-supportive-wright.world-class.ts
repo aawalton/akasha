@@ -7,4 +7,6 @@ export const superSupportiveWright = {
   title: "Wright",
   world: "world/super-supportive",
   description: "The crafting class, which makes magical items.",
+  createdAt: "2026-09-28T21:35:58.688Z",
+  updatedAt: "2026-09-28T21:36:02.000Z",
 } as const satisfies WorldClass

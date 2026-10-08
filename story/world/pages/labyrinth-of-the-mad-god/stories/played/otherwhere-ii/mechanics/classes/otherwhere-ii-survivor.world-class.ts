@@ -7,4 +7,6 @@ export const otherwhereIiSurvivor = {
   title: "Survivor (Basic)",
   world: "world/labyrinth-of-the-mad-god",
   description: "A basic class for one who lives through the wild on little.",
+  createdAt: "2026-09-28T20:04:09.052Z",
+  updatedAt: "2026-09-28T22:27:15.000Z",
 } as const satisfies WorldClass

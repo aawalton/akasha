@@ -8,4 +8,6 @@ export const fairweatherEnthraller = {
   world: "world/fairweather",
   description:
     "A class drawing power from bonds, from what people feel toward the caster. It is feared and restricted: every Enthraller is registered with the Adventurers' Guild and monitored under the Strings Accord.",
+  createdAt: "2026-10-03T14:08:19.120Z",
+  updatedAt: "2026-10-03T14:08:29.000Z",
 } as const satisfies WorldClass

@@ -187,4 +187,6 @@ export const otherwhereViHarm = {
         "HP shows as a number only where the System shows it; otherwise as the body feels it.",
     },
   ],
+  createdAt: "2026-09-28T23:01:20.115Z",
+  updatedAt: "2026-09-30T11:06:17.000Z",
 } as const satisfies WorldCheck

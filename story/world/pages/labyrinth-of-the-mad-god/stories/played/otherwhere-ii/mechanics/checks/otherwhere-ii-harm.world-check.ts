@@ -105,4 +105,6 @@ export const otherwhereIiHarm = {
       statement: "Health shows in the prose as the body feels it, never as a number.",
     },
   ],
+  createdAt: "2026-09-28T19:55:19.476Z",
+  updatedAt: "2026-09-30T11:15:47.000Z",
 } as const satisfies WorldCheck

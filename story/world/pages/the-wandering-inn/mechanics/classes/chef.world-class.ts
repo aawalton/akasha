@@ -9,4 +9,6 @@ export const chef = {
   appearanceCount: 168,
   aliases: ["chefs"],
   references: "jsonl",
+  createdAt: "2026-09-03T04:19:16.425Z",
+  updatedAt: "2026-09-22T13:28:41.000Z",
 } as const satisfies WorldClass

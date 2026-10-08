@@ -85,4 +85,6 @@ export const otherwhereIiExperience = {
         "Every change in level is written on the page and a line of its history before the turn moves on.",
     },
   ],
+  createdAt: "2026-09-28T20:05:16.989Z",
+  updatedAt: "2026-09-30T20:59:23.000Z",
 } as const satisfies WorldCheck

@@ -7,4 +7,6 @@ export const classRelicGuardian = {
   title: "Class – Relic Guardian",
   world: "world/the-wandering-inn",
   evolvesToSlugs: ["world-class/skeleton-knight"],
+  createdAt: "2026-09-03T04:33:25.096Z",
+  updatedAt: "2026-09-22T18:28:27.000Z",
 } as const satisfies WorldClass

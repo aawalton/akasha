@@ -81,4 +81,6 @@ export const otherwhereViiiStanding = {
       statement: "No standing shows as a number, in the prose or on the play screen.",
     },
   ],
+  createdAt: "2026-09-28T22:56:30.868Z",
+  updatedAt: "2026-09-28T22:56:43.000Z",
 } as const satisfies WorldCheck

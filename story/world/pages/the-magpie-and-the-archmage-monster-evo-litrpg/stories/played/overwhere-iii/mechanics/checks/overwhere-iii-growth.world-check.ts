@@ -132,4 +132,6 @@ export const overwhereIiiGrowth = {
       statement: "Every change in level or experience is written with a line of its history.",
     },
   ],
+  createdAt: "2026-09-29T12:38:36.045Z",
+  updatedAt: "2026-09-30T21:00:48.000Z",
 } as const satisfies WorldCheck

@@ -10,4 +10,6 @@ export const antiniumQueen = {
   evolvesFromSlugs: ["world-class/queen"],
   evolvesToSlugs: ["world-class/queen-of-freedom"],
   references: "jsonl",
+  createdAt: "2026-09-03T04:19:11.912Z",
+  updatedAt: "2026-09-22T18:28:27.000Z",
 } as const satisfies WorldClass

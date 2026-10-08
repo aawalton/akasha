@@ -227,4 +227,6 @@ export const otherwhereViGrowth = {
       statement: "No fluency shows as a number; it shows as what she understands.",
     },
   ],
+  createdAt: "2026-09-28T23:04:43.379Z",
+  updatedAt: "2026-09-30T21:00:00.000Z",
 } as const satisfies WorldCheck

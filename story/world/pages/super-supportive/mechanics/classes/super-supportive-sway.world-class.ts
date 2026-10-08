@@ -8,4 +8,6 @@ export const superSupportiveSway = {
   world: "world/super-supportive",
   aliases: ["mind controller"],
   description: "The mind-control class.",
+  createdAt: "2026-09-28T21:35:07.948Z",
+  updatedAt: "2026-09-28T21:35:11.000Z",
 } as const satisfies WorldClass

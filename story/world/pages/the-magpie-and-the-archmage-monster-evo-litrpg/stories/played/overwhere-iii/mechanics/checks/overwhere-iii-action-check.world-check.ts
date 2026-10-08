@@ -109,4 +109,6 @@ export const overwhereIiiActionCheck = {
         'The reading is `{"band":"easy","bonuses":[{"from":"Mana Weaver"}]}`; the check adds her rank.',
     },
   ],
+  createdAt: "2026-09-29T12:38:36.045Z",
+  updatedAt: "2026-10-02T17:46:31.000Z",
 } as const satisfies WorldCheck

@@ -71,4 +71,6 @@ export const overwhereITrade = {
       statement: "No price shows in the prose but as the coins named in talk.",
     },
   ],
+  createdAt: "2026-09-29T12:34:10.271Z",
+  updatedAt: "2026-10-03T11:54:45.000Z",
 } as const satisfies WorldCheck

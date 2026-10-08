@@ -73,4 +73,6 @@ export const otherwhereViTimePassing = {
         "Nala has no clock, so the prose shows the hour only as light, body and scene show it.",
     },
   ],
+  createdAt: "2026-09-28T22:55:51.076Z",
+  updatedAt: "2026-09-28T22:55:56.000Z",
 } as const satisfies WorldCheck

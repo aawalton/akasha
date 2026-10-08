@@ -44,4 +44,6 @@ export const otherwhereIxManaFlow = {
       statement: "Nothing here rolls the dice, and no mana shows as a number but in a system box.",
     },
   ],
+  createdAt: "2026-09-28T23:05:31.607Z",
+  updatedAt: "2026-09-28T23:05:36.000Z",
 } as const satisfies WorldCheck

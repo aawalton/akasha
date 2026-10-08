@@ -62,4 +62,6 @@ export const overwhereIvStanding = {
       statement: "Nothing here rolls the dice.",
     },
   ],
+  createdAt: "2026-09-29T12:34:42.755Z",
+  updatedAt: "2026-09-29T12:34:47.000Z",
 } as const satisfies WorldCheck

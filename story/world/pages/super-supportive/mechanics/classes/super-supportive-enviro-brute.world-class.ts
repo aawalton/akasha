@@ -8,4 +8,6 @@ export const superSupportiveEnviroBrute = {
   world: "world/super-supportive",
   aliases: ["Enviro"],
   description: "The group of environmental Brute subclasses, such as Aqua Brute and Glacial Brute.",
+  createdAt: "2026-09-28T21:40:07.786Z",
+  updatedAt: "2026-09-28T21:40:13.000Z",
 } as const satisfies WorldClass

@@ -61,4 +61,6 @@ export const overwhereIvNeeds = {
         'The reading is `{"hoursSinceMeal":6,"hoursSinceDrink":2,"hoursAwake":8,"cold":false}`.',
     },
   ],
+  createdAt: "2026-09-29T12:35:42.836Z",
+  updatedAt: "2026-09-29T12:35:48.000Z",
 } as const satisfies WorldCheck

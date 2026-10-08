@@ -108,4 +108,6 @@ export const otherwhereXiStanding = {
       statement: "No regard shows as a number, and the play screen shows no bonds.",
     },
   ],
+  createdAt: "2026-09-28T23:50:50.060Z",
+  updatedAt: "2026-10-03T11:54:45.000Z",
 } as const satisfies WorldCheck

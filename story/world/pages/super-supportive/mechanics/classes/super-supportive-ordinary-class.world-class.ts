@@ -7,4 +7,6 @@ export const superSupportiveOrdinaryClass = {
   title: "ordinary class",
   world: "world/super-supportive",
   description: "The Artonan class of people who are not wizards.",
+  createdAt: "2026-09-28T21:40:07.787Z",
+  updatedAt: "2026-09-28T21:40:13.000Z",
 } as const satisfies WorldClass

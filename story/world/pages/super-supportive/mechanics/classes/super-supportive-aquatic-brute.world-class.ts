@@ -9,4 +9,6 @@ export const superSupportiveAquaticBrute = {
   aliases: ["Aqua Brute", "Aquatic"],
   description:
     "An environmental Brute subclass that breathes underwater and endures pressure and temperature extremes.",
+  createdAt: "2026-09-28T21:35:07.946Z",
+  updatedAt: "2026-09-28T21:35:11.000Z",
 } as const satisfies WorldClass

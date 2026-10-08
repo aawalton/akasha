@@ -113,4 +113,6 @@ export const otherwhereXiNotice = {
         "Every change in notice is written on its page and a line of its history before the turn moves on.",
     },
   ],
+  createdAt: "2026-09-29T00:19:43.285Z",
+  updatedAt: "2026-10-03T11:54:45.000Z",
 } as const satisfies WorldCheck
