@@ -13,4 +13,6 @@ export const robust = {
   effects: "jsonl",
   hashPlace: 7,
   available: true,
+  createdAt: "2026-05-24T20:05:11.187Z",
+  updatedAt: "2026-09-27T03:41:25.000Z",
 } as const satisfies TemperJewelryTrait

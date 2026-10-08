@@ -6,4 +6,6 @@ export const highIsleAndAmenosGonfalonBay = {
   slug: "high-isle-and-amenos-gonfalon-bay",
   title: "High Isle and Amenos: Gonfalon Bay",
   kioskId: 102,
+  createdAt: "2026-05-16T07:53:06.929Z",
+  updatedAt: "2026-09-21T15:34:59.000Z",
 } as const satisfies TemperGuildTrader

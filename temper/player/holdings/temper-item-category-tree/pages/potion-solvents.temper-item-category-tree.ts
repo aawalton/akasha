@@ -8,4 +8,6 @@ export const potionSolvents = {
   parent: "temper-item-category-tree/alchemy",
   displayOrder: 2,
   itemTypes: [33],
+  createdAt: "2026-09-02T01:51:00.145Z",
+  updatedAt: "2026-09-22T20:49:49.000Z",
 } as const satisfies TemperItemCategoryTree

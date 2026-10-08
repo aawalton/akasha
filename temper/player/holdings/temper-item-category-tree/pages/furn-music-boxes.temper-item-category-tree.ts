@@ -8,4 +8,6 @@ export const furnMusicBoxes = {
   parent: "temper-item-category-tree/furn-services",
   displayOrder: 8,
   furnitureSubcategoryIds: [181],
+  createdAt: "2026-09-02T01:51:00.100Z",
+  updatedAt: "2026-09-22T20:49:49.000Z",
 } as const satisfies TemperItemCategoryTree

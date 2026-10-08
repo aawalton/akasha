@@ -8,4 +8,6 @@ export const bind = {
   description: "Binds the item to the account, which adds it to the set collection.",
   key: "bind",
   displayOrder: 18,
+  createdAt: "2026-10-08T14:23:23.301Z",
+  updatedAt: "2026-10-08T14:23:40.000Z",
 } as const satisfies TemperItemAction

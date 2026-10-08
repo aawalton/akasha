@@ -9,4 +9,6 @@ export const weaponTraitPoweredNormal = {
   quality: "temper-quality/normal",
   metric: "temper-metric-tree/metric-healing-done-base",
   value: 0.025,
+  createdAt: "2026-09-24T14:54:48.200Z",
+  updatedAt: "2026-09-24T14:55:12.000Z",
 } as const satisfies TemperGearGrade

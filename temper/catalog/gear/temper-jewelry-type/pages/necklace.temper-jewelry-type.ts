@@ -9,4 +9,6 @@ export const necklace = {
   validSlots: ["temper-jewelry-slot/necklace"],
 
   slotEquipType: "temper-equip-type/neck",
+  createdAt: "2026-05-20T18:44:39.211Z",
+  updatedAt: "2026-09-27T04:24:42.000Z",
 } as const satisfies TemperJewelryType

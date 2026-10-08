@@ -8,4 +8,6 @@ export const mail = {
   description: "Mails the item to the recipient the rule names.",
   key: "mail",
   displayOrder: 10,
+  createdAt: "2026-09-05T14:19:28.773Z",
+  updatedAt: "2026-09-27T10:02:37.000Z",
 } as const satisfies TemperItemAction

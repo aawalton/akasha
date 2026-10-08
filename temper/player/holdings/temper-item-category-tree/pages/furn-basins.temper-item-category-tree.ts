@@ -8,4 +8,6 @@ export const furnBasins = {
   parent: "temper-item-category-tree/furn-undercroft",
   displayOrder: 0,
   furnitureSubcategoryIds: [136],
+  createdAt: "2026-09-02T01:51:00.071Z",
+  updatedAt: "2026-09-22T20:49:49.000Z",
 } as const satisfies TemperItemCategoryTree

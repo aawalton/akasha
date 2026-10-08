@@ -6,4 +6,6 @@ export const auridonSkywatch = {
   slug: "auridon-skywatch",
   title: "Auridon: Skywatch",
   kioskId: 21,
+  createdAt: "2026-05-16T07:53:06.856Z",
+  updatedAt: "2026-09-21T15:34:59.000Z",
 } as const satisfies TemperGuildTrader

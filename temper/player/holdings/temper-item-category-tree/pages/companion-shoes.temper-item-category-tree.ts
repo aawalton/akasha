@@ -8,4 +8,6 @@ export const companionShoes = {
   parent: "temper-item-category-tree/companion-light",
   displayOrder: 6,
   equipTypes: [10],
+  createdAt: "2026-09-02T01:51:00.048Z",
+  updatedAt: "2026-09-22T20:49:49.000Z",
 } as const satisfies TemperItemCategoryTree

@@ -7,4 +7,6 @@ export const repairKits = {
   title: "Repair Kits",
   parent: "temper-item-category-tree/consumables",
   displayOrder: 6,
+  createdAt: "2026-09-02T01:51:00.152Z",
+  updatedAt: "2026-09-22T20:49:49.000Z",
 } as const satisfies TemperItemCategoryTree

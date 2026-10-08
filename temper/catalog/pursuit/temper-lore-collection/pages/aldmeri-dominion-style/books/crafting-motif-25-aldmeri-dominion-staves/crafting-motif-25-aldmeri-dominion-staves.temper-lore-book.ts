@@ -7,4 +7,6 @@ export const craftingMotif25AldmeriDominionStaves = {
   title: "Crafting Motif 25: Aldmeri Dominion Staves",
   collection: "temper-lore-collection/aldmeri-dominion-style",
   bookIndex: 13,
+  createdAt: "2026-09-25T00:12:16.614Z",
+  updatedAt: "2026-09-25T00:12:17.000Z",
 } as const satisfies TemperLoreBook

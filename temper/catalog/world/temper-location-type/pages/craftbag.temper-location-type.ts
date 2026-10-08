@@ -7,4 +7,6 @@ export const craftbag = {
   title: "Craft Bag",
   key: "craftbag",
   displayOrder: 2,
+  createdAt: "2026-05-16T13:39:10.729Z",
+  updatedAt: "2026-09-27T09:55:31.000Z",
 } as const satisfies TemperLocationType

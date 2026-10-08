@@ -10,4 +10,6 @@ export const adventurersAlmanac3rdEdition = {
   bookIndex: 3,
   charted: true,
   positions: "jsonl",
+  createdAt: "2026-09-25T00:30:03.187Z",
+  updatedAt: "2026-09-25T00:57:29.000Z",
 } as const satisfies TemperLoreBook

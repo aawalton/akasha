@@ -8,4 +8,6 @@ export const weaponTypeMaulNormal = {
   thing: "temper-weapon-type/maul",
   quality: "temper-quality/normal",
   value: 1262,
+  createdAt: "2026-09-27T03:04:48.916Z",
+  updatedAt: "2026-09-27T03:05:02.000Z",
 } as const satisfies TemperGearGrade

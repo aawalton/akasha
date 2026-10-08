@@ -8,4 +8,6 @@ export const armor = {
   parent: "temper-item-category-tree/equipment",
   displayOrder: 1,
   filterTypes: [2],
+  createdAt: "2026-09-02T01:51:00.028Z",
+  updatedAt: "2026-09-22T20:49:49.000Z",
 } as const satisfies TemperItemCategoryTree

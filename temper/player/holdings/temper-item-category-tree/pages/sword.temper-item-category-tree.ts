@@ -8,4 +8,6 @@ export const sword = {
   parent: "temper-item-category-tree/one-handed",
   displayOrder: 0,
   weaponTypes: [3],
+  createdAt: "2026-09-02T01:51:00.163Z",
+  updatedAt: "2026-09-22T20:49:49.000Z",
 } as const satisfies TemperItemCategoryTree

@@ -16,4 +16,6 @@ export const ruleDf7b2fe2 = {
   action: "temper-item-action/list",
   active: true,
   ruleChangedAt: "2026-06-02T20:49:29.157Z",
+  createdAt: "2026-09-05T17:08:39.165Z",
+  updatedAt: "2026-10-08T14:43:46.000Z",
 } as const satisfies TemperInventoryRule

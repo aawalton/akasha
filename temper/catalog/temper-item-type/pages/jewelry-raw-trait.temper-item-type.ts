@@ -6,4 +6,6 @@ export const jewelryRawTrait = {
   slug: "jewelry-raw-trait",
   title: "Raw Trait",
   esoItemTypeNumber: 68,
+  createdAt: "2026-09-27T04:24:36.730Z",
+  updatedAt: "2026-09-27T04:24:50.000Z",
 } as const satisfies TemperItemType

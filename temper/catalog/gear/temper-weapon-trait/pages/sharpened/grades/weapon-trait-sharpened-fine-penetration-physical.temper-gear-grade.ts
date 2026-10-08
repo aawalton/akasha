@@ -10,4 +10,6 @@ export const weaponTraitSharpenedFinePenetrationPhysical = {
   metric: "temper-metric-tree/metric-penetration-physical",
   value: 1485,
   rawValue: 1485.2727272727273,
+  createdAt: "2026-09-24T14:55:21.777Z",
+  updatedAt: "2026-09-27T03:41:25.000Z",
 } as const satisfies TemperGearGrade

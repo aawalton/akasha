@@ -12,4 +12,6 @@ export const rule72039e8e = {
   action: "temper-item-action/fence-launder",
   active: true,
   ruleChangedAt: "2026-06-01T22:02:01.494Z",
+  createdAt: "2026-09-05T17:08:24.557Z",
+  updatedAt: "2026-10-08T14:43:46.000Z",
 } as const satisfies TemperInventoryRule

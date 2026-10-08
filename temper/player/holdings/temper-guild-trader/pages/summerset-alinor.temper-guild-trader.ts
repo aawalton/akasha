@@ -6,4 +6,6 @@ export const summersetAlinor = {
   slug: "summerset-alinor",
   title: "Summerset: Alinor",
   kioskId: 86,
+  createdAt: "2026-05-16T07:53:06.915Z",
+  updatedAt: "2026-09-21T15:34:59.000Z",
 } as const satisfies TemperGuildTrader

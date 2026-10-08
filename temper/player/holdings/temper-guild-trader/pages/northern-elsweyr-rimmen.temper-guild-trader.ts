@@ -6,4 +6,6 @@ export const northernElsweyrRimmen = {
   slug: "northern-elsweyr-rimmen",
   title: "Northern Elsweyr: Rimmen",
   kioskId: 90,
+  createdAt: "2026-05-16T07:53:06.919Z",
+  updatedAt: "2026-09-21T15:34:59.000Z",
 } as const satisfies TemperGuildTrader

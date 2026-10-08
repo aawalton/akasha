@@ -9,4 +9,6 @@ export const clFurnMat = {
   displayOrder: 0,
   filterTypes: [14],
   itemTypes: [62],
+  createdAt: "2026-09-02T01:51:00.032Z",
+  updatedAt: "2026-09-22T20:49:49.000Z",
 } as const satisfies TemperItemCategoryTree

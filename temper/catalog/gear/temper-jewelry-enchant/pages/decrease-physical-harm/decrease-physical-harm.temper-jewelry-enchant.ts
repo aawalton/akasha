@@ -14,4 +14,6 @@ export const decreasePhysicalHarm = {
   effects: "jsonl",
   hashPlace: 15,
   esoEnchantSearchCategory: 33,
+  createdAt: "2026-05-25T00:25:36.346Z",
+  updatedAt: "2026-09-27T04:03:27.000Z",
 } as const satisfies TemperJewelryEnchant

@@ -6,4 +6,6 @@ export const greenshadeGreenheart = {
   slug: "greenshade-greenheart",
   title: "Greenshade: Greenheart",
   kioskId: 16,
+  createdAt: "2026-05-16T07:53:06.852Z",
+  updatedAt: "2026-09-21T15:34:59.000Z",
 } as const satisfies TemperGuildTrader

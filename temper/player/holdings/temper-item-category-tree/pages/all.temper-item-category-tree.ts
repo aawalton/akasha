@@ -7,4 +7,6 @@ export const all = {
   title: "All Categories",
   displayOrder: 0,
   priorityOrder: 0,
+  createdAt: "2026-09-22T22:06:39.618Z",
+  updatedAt: "2026-09-22T22:08:51.000Z",
 } as const satisfies TemperItemCategoryTree

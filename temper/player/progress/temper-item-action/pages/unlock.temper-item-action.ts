@@ -8,4 +8,6 @@ export const unlock = {
   description: "Unlocks the item for other rules.",
   key: "unlock",
   displayOrder: 2,
+  createdAt: "2026-09-05T14:19:28.775Z",
+  updatedAt: "2026-09-27T10:02:37.000Z",
 } as const satisfies TemperItemAction

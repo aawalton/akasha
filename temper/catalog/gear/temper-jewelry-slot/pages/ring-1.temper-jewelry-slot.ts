@@ -10,4 +10,6 @@ export const ring1 = {
   displayOrder: 1,
   jewelryType: "temper-jewelry-type/ring",
   hashPlace: 1,
+  createdAt: "2026-05-21T22:39:45.687Z",
+  updatedAt: "2026-09-27T02:49:23.000Z",
 } as const satisfies TemperJewelrySlot

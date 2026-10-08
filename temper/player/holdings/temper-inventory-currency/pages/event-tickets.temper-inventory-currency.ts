@@ -7,4 +7,6 @@ export const eventTickets = {
   title: "Event Tickets",
   key: "eventTickets",
   displayOrder: 5,
+  createdAt: "2026-09-02T01:50:06.523Z",
+  updatedAt: "2026-09-21T15:34:59.000Z",
 } as const satisfies TemperInventoryCurrency

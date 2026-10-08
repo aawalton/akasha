@@ -14,4 +14,6 @@ export const rule3b55dc81 = {
   active: true,
   ruleChangedAt: "2026-06-02T20:49:28.407Z",
   locked: true,
+  createdAt: "2026-09-05T17:08:16.766Z",
+  updatedAt: "2026-10-08T14:43:46.000Z",
 } as const satisfies TemperInventoryRule

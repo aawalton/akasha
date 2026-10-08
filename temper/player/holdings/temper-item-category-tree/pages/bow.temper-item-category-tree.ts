@@ -8,4 +8,6 @@ export const bow = {
   parent: "temper-item-category-tree/weapons",
   displayOrder: 2,
   weaponTypes: [8],
+  createdAt: "2026-09-02T01:51:00.030Z",
+  updatedAt: "2026-09-22T20:49:49.000Z",
 } as const satisfies TemperItemCategoryTree

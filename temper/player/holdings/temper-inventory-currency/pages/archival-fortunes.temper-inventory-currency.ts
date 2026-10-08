@@ -8,4 +8,6 @@ export const archivalFortunes = {
   key: "archivalFortunes",
   displayOrder: 10,
   esoCurrencyConstant: "CURT_ARCHIVAL_FORTUNES",
+  createdAt: "2026-09-02T01:50:06.522Z",
+  updatedAt: "2026-09-27T03:14:22.000Z",
 } as const satisfies TemperInventoryCurrency

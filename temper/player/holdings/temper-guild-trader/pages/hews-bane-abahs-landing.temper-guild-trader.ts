@@ -6,4 +6,6 @@ export const hewsBaneAbahsLanding = {
   slug: "hews-bane-abahs-landing",
   title: "Hew's Bane: Abah's Landing",
   kioskId: 74,
+  createdAt: "2026-05-16T07:53:06.905Z",
+  updatedAt: "2026-09-21T15:34:59.000Z",
 } as const satisfies TemperGuildTrader

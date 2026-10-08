@@ -6,4 +6,6 @@ export const bangkoraiBangkoraiPass = {
   slug: "bangkorai-bangkorai-pass",
   title: "Bangkorai: Bangkorai Pass",
   kioskId: 28,
+  createdAt: "2026-05-16T07:53:06.862Z",
+  updatedAt: "2026-09-21T15:34:59.000Z",
 } as const satisfies TemperGuildTrader

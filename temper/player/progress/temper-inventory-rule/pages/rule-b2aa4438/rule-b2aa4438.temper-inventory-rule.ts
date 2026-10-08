@@ -15,4 +15,6 @@ export const ruleB2aa4438 = {
   action: "temper-item-action/move-to",
   active: true,
   ruleChangedAt: "2026-06-01T12:18:15.323Z",
+  createdAt: "2026-09-05T17:08:31.568Z",
+  updatedAt: "2026-10-08T14:43:46.000Z",
 } as const satisfies TemperInventoryRule

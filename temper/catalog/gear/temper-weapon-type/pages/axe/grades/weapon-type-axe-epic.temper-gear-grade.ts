@@ -8,4 +8,6 @@ export const weaponTypeAxeEpic = {
   thing: "temper-weapon-type/axe",
   quality: "temper-quality/epic",
   value: 1132,
+  createdAt: "2026-09-27T03:04:48.915Z",
+  updatedAt: "2026-09-27T03:05:02.000Z",
 } as const satisfies TemperGearGrade

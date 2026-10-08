@@ -15,4 +15,6 @@ export const rule1052473c = {
   locked: false,
   destinationChain: "jsonl",
   categoryId: "temper-item-category-tree/potions",
+  createdAt: "2026-09-26T17:46:01.807Z",
+  updatedAt: "2026-10-08T14:43:46.000Z",
 } as const satisfies TemperInventoryRule

@@ -8,4 +8,6 @@ export const companionIceStaff = {
   parent: "temper-item-category-tree/companion-destruction-staff",
   displayOrder: 1,
   weaponTypes: [13],
+  createdAt: "2026-09-02T01:51:00.042Z",
+  updatedAt: "2026-09-22T20:49:49.000Z",
 } as const satisfies TemperItemCategoryTree

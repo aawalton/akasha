@@ -9,4 +9,6 @@ export const weaponTraitPoweredFine = {
   quality: "temper-quality/fine",
   metric: "temper-metric-tree/metric-healing-done-base",
   value: 0.03,
+  createdAt: "2026-09-24T14:54:46.016Z",
+  updatedAt: "2026-09-24T14:55:12.000Z",
 } as const satisfies TemperGearGrade

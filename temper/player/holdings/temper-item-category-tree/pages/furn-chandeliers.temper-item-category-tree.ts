@@ -8,4 +8,6 @@ export const furnChandeliers = {
   parent: "temper-item-category-tree/furn-lighting",
   displayOrder: 2,
   furnitureSubcategoryIds: [124],
+  createdAt: "2026-09-02T01:51:00.077Z",
+  updatedAt: "2026-09-22T20:49:49.000Z",
 } as const satisfies TemperItemCategoryTree

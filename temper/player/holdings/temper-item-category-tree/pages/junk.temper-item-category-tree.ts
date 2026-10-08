@@ -8,4 +8,6 @@ export const junk = {
   parent: "temper-item-category-tree/miscellaneous",
   displayOrder: 7,
   filterTypes: [9],
+  createdAt: "2026-09-02T01:51:00.133Z",
+  updatedAt: "2026-09-22T20:49:49.000Z",
 } as const satisfies TemperItemCategoryTree

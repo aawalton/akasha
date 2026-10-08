@@ -8,4 +8,6 @@ export const recipeSketch = {
   parent: "temper-item-category-tree/furnishing-recipes",
   displayOrder: 6,
   specializedItemTypes: [178],
+  createdAt: "2026-09-02T01:51:00.151Z",
+  updatedAt: "2026-09-22T20:49:49.000Z",
 } as const satisfies TemperItemCategoryTree

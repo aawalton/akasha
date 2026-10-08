@@ -7,4 +7,6 @@ export const craftingMotif92AncestralAkaviriAxes = {
   title: "Crafting Motif 92: Ancestral Akaviri Axes",
   collection: "temper-lore-collection/ancestral-akaviri-style",
   bookIndex: 1,
+  createdAt: "2026-09-25T00:18:13.248Z",
+  updatedAt: "2026-09-25T00:18:14.000Z",
 } as const satisfies TemperLoreBook

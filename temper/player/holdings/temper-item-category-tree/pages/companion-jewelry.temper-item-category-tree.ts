@@ -8,4 +8,6 @@ export const companionJewelry = {
   parent: "temper-item-category-tree/companion",
   displayOrder: 2,
   traitTypeRange: [52, 60],
+  createdAt: "2026-09-02T01:51:00.043Z",
+  updatedAt: "2026-09-22T20:49:49.000Z",
 } as const satisfies TemperItemCategoryTree

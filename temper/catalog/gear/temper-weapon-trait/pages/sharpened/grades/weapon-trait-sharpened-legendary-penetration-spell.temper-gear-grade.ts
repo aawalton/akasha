@@ -9,4 +9,6 @@ export const weaponTraitSharpenedLegendaryPenetrationSpell = {
   quality: "temper-quality/legendary",
   metric: "temper-metric-tree/metric-penetration-spell",
   value: 1638,
+  createdAt: "2026-09-24T14:55:40.335Z",
+  updatedAt: "2026-09-24T14:55:57.000Z",
 } as const satisfies TemperGearGrade

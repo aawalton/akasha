@@ -8,4 +8,6 @@ export const destroy = {
   description: "Destroys the item outright.",
   key: "destroy",
   displayOrder: 5,
+  createdAt: "2026-09-05T14:19:28.772Z",
+  updatedAt: "2026-09-27T10:02:37.000Z",
 } as const satisfies TemperItemAction

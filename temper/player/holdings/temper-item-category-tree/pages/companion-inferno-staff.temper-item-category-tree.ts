@@ -8,4 +8,6 @@ export const companionInfernoStaff = {
   parent: "temper-item-category-tree/companion-destruction-staff",
   displayOrder: 0,
   weaponTypes: [12],
+  createdAt: "2026-09-02T01:51:00.043Z",
+  updatedAt: "2026-09-22T20:49:49.000Z",
 } as const satisfies TemperItemCategoryTree

@@ -6,4 +6,6 @@ export const theGoldCoastKvatch = {
   slug: "the-gold-coast-kvatch",
   title: "The Gold Coast: Kvatch",
   kioskId: 76,
+  createdAt: "2026-05-16T07:53:06.906Z",
+  updatedAt: "2026-09-21T15:34:59.000Z",
 } as const satisfies TemperGuildTrader

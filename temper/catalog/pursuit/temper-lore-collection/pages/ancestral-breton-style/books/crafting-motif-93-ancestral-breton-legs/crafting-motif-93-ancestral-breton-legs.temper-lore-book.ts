@@ -7,4 +7,6 @@ export const craftingMotif93AncestralBretonLegs = {
   title: "Crafting Motif 93: Ancestral Breton Legs",
   collection: "temper-lore-collection/ancestral-breton-style",
   bookIndex: 9,
+  createdAt: "2026-09-25T00:18:18.215Z",
+  updatedAt: "2026-09-25T00:18:19.000Z",
 } as const satisfies TemperLoreBook

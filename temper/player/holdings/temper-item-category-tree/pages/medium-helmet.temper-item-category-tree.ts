@@ -8,4 +8,6 @@ export const mediumHelmet = {
   parent: "temper-item-category-tree/medium-armor",
   displayOrder: 0,
   equipTypes: [1],
+  createdAt: "2026-09-02T01:51:00.140Z",
+  updatedAt: "2026-09-22T20:49:49.000Z",
 } as const satisfies TemperItemCategoryTree

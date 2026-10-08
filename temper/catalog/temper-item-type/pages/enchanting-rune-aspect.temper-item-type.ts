@@ -6,4 +6,6 @@ export const enchantingRuneAspect = {
   slug: "enchanting-rune-aspect",
   title: "Aspect Runestone",
   esoItemTypeNumber: 52,
+  createdAt: "2026-09-27T04:24:36.730Z",
+  updatedAt: "2026-09-27T04:24:50.000Z",
 } as const satisfies TemperItemType

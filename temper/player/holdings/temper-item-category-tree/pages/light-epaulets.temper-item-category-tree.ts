@@ -8,4 +8,6 @@ export const lightEpaulets = {
   parent: "temper-item-category-tree/light-armor",
   displayOrder: 2,
   equipTypes: [4],
+  createdAt: "2026-09-02T01:51:00.135Z",
+  updatedAt: "2026-09-22T20:49:49.000Z",
 } as const satisfies TemperItemCategoryTree

@@ -6,4 +6,6 @@ export const murkmireLilmoth = {
   slug: "murkmire-lilmoth",
   title: "Murkmire: Lilmoth",
   kioskId: 88,
+  createdAt: "2026-05-16T07:53:06.917Z",
+  updatedAt: "2026-09-21T15:34:59.000Z",
 } as const satisfies TemperGuildTrader

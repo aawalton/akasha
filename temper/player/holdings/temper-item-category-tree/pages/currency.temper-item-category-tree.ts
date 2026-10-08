@@ -7,4 +7,6 @@ export const currency = {
   title: "Currency",
   displayOrder: 0,
   priorityOrder: 0,
+  createdAt: "2026-09-02T01:51:00.056Z",
+  updatedAt: "2026-09-21T15:34:59.000Z",
 } as const satisfies TemperItemCategoryTree

@@ -14,4 +14,6 @@ export const poisonResist = {
   effects: "jsonl",
   hashPlace: 13,
   esoEnchantSearchCategory: 15,
+  createdAt: "2026-05-25T00:25:36.342Z",
+  updatedAt: "2026-09-27T04:03:27.000Z",
 } as const satisfies TemperJewelryEnchant

@@ -8,4 +8,6 @@ export const heavyGreaves = {
   parent: "temper-item-category-tree/heavy-armor",
   displayOrder: 5,
   equipTypes: [9],
+  createdAt: "2026-09-02T01:51:00.128Z",
+  updatedAt: "2026-09-22T20:49:49.000Z",
 } as const satisfies TemperItemCategoryTree

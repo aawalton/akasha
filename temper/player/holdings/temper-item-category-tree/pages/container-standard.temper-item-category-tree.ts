@@ -8,4 +8,6 @@ export const containerStandard = {
   parent: "temper-item-category-tree/containers",
   displayOrder: 0,
   specializedItemTypes: [850],
+  createdAt: "2026-09-02T01:51:00.052Z",
+  updatedAt: "2026-09-22T20:49:49.000Z",
 } as const satisfies TemperItemCategoryTree

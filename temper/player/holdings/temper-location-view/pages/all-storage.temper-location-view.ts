@@ -7,4 +7,6 @@ export const allStorage = {
   title: "All Storage",
   key: "allStorage",
   displayOrder: 6,
+  createdAt: "2026-09-27T03:12:12.318Z",
+  updatedAt: "2026-09-27T03:14:22.000Z",
 } as const satisfies TemperLocationView

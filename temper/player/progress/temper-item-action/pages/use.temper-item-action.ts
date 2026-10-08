@@ -8,4 +8,6 @@ export const use = {
   description: "Uses the item up.",
   key: "use",
   displayOrder: 14,
+  createdAt: "2026-09-05T14:19:28.775Z",
+  updatedAt: "2026-09-27T10:02:37.000Z",
 } as const satisfies TemperItemAction

@@ -8,4 +8,6 @@ export const ring = {
   parent: "temper-item-category-tree/jewelry",
   displayOrder: 1,
   equipTypes: [12],
+  createdAt: "2026-09-02T01:51:00.152Z",
+  updatedAt: "2026-09-22T20:49:49.000Z",
 } as const satisfies TemperItemCategoryTree

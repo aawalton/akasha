@@ -6,4 +6,6 @@ export const vvardenfellVivecCityOutlawsRefuge = {
   slug: "vvardenfell-vivec-city-outlaws-refuge",
   title: "Vvardenfell: Vivec City Outlaws Refuge",
   kioskId: 79,
+  createdAt: "2026-05-16T07:53:06.909Z",
+  updatedAt: "2026-09-21T15:34:59.000Z",
 } as const satisfies TemperGuildTrader

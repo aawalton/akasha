@@ -10,4 +10,6 @@ export const championLevels = {
   levelBandTop: 160,
   worthLevelStart: 50,
   worthLevelSpan: 23,
+  createdAt: "2026-09-27T05:51:04.534Z",
+  updatedAt: "2026-09-27T05:51:07.000Z",
 } as const satisfies TemperLevelBand

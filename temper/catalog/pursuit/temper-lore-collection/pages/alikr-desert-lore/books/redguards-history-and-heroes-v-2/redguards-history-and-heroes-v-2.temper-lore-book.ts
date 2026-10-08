@@ -8,4 +8,6 @@ export const redguardsHistoryAndHeroesV2 = {
   collection: "temper-lore-collection/alikr-desert-lore",
   bookIndex: 2,
   shalidorPins: "jsonl",
+  createdAt: "2026-09-25T00:07:10.560Z",
+  updatedAt: "2026-09-25T00:07:11.000Z",
 } as const satisfies TemperLoreBook

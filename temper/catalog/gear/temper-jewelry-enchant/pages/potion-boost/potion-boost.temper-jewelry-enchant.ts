@@ -14,4 +14,6 @@ export const potionBoost = {
   effects: "jsonl",
   hashPlace: 19,
   esoEnchantSearchCategory: 29,
+  createdAt: "2026-05-25T00:25:36.354Z",
+  updatedAt: "2026-09-27T04:03:27.000Z",
 } as const satisfies TemperJewelryEnchant

@@ -13,4 +13,6 @@ export const protective = {
   effects: "jsonl",
   hashPlace: 6,
   available: true,
+  createdAt: "2026-05-24T20:05:11.186Z",
+  updatedAt: "2026-09-27T03:41:25.000Z",
 } as const satisfies TemperJewelryTrait

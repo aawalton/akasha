@@ -7,4 +7,6 @@ export const companion = {
   title: "Companion",
   key: "companion",
   displayOrder: 5,
+  createdAt: "2026-05-16T13:39:10.733Z",
+  updatedAt: "2026-09-27T09:56:19.000Z",
 } as const satisfies TemperLocationType

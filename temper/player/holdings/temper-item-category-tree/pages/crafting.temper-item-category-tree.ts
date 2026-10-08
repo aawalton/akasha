@@ -7,4 +7,6 @@ export const crafting = {
   title: "Crafting",
   displayOrder: 6,
   priorityOrder: 6,
+  createdAt: "2026-09-02T01:51:00.053Z",
+  updatedAt: "2026-09-21T15:34:59.000Z",
 } as const satisfies TemperItemCategoryTree

@@ -9,4 +9,6 @@ export const weaponTraitTrainingNormal = {
   quality: "temper-quality/normal",
   metric: "temper-metric-tree/metric-training",
   value: 0.025,
+  createdAt: "2026-09-24T14:55:46.585Z",
+  updatedAt: "2026-09-24T14:55:57.000Z",
 } as const satisfies TemperGearGrade

@@ -8,4 +8,6 @@ export const bsRaw = {
   parent: "temper-item-category-tree/blacksmithing",
   displayOrder: 1,
   itemTypes: [35],
+  createdAt: "2026-09-02T01:51:00.031Z",
+  updatedAt: "2026-09-22T20:49:49.000Z",
 } as const satisfies TemperItemCategoryTree

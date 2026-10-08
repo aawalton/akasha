@@ -8,4 +8,6 @@ export const surveyJewelry = {
   parent: "temper-item-category-tree/survey-reports",
   displayOrder: 3,
   itemNameContains: "Jewelry",
+  createdAt: "2026-09-02T01:51:00.162Z",
+  updatedAt: "2026-09-22T20:49:49.000Z",
 } as const satisfies TemperItemCategoryTree

@@ -8,4 +8,6 @@ export const deconstruct = {
   description: "Breaks the item down for the materials the item yields.",
   key: "deconstruct",
   displayOrder: 3,
+  createdAt: "2026-09-05T14:19:28.771Z",
+  updatedAt: "2026-09-27T10:02:37.000Z",
 } as const satisfies TemperItemAction

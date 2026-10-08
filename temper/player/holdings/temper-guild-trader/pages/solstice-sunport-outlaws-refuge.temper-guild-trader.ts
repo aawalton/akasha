@@ -6,4 +6,6 @@ export const solsticeSunportOutlawsRefuge = {
   slug: "solstice-sunport-outlaws-refuge",
   title: "Solstice: Sunport Outlaws Refuge",
   kioskId: 111,
+  createdAt: "2026-05-16T07:53:06.937Z",
+  updatedAt: "2026-09-21T15:34:59.000Z",
 } as const satisfies TemperGuildTrader

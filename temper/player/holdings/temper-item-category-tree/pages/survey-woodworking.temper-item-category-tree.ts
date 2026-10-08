@@ -8,4 +8,6 @@ export const surveyWoodworking = {
   parent: "temper-item-category-tree/survey-reports",
   displayOrder: 2,
   itemNameContains: "Woodworker",
+  createdAt: "2026-09-02T01:51:00.163Z",
+  updatedAt: "2026-09-22T20:49:49.000Z",
 } as const satisfies TemperItemCategoryTree

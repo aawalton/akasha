@@ -8,4 +8,6 @@ export const heavyGirdle = {
   parent: "temper-item-category-tree/heavy-armor",
   displayOrder: 4,
   equipTypes: [8],
+  createdAt: "2026-09-02T01:51:00.128Z",
+  updatedAt: "2026-09-22T20:49:49.000Z",
 } as const satisfies TemperItemCategoryTree

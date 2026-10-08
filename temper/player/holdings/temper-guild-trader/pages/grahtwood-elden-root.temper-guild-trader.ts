@@ -6,4 +6,6 @@ export const grahtwoodEldenRoot = {
   slug: "grahtwood-elden-root",
   title: "Grahtwood: Elden Root",
   kioskId: 17,
+  createdAt: "2026-05-16T07:53:06.852Z",
+  updatedAt: "2026-09-27T03:05:15.000Z",
 } as const satisfies TemperGuildTrader

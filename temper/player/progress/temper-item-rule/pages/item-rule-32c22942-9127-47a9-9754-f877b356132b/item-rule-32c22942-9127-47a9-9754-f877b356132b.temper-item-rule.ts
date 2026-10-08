@@ -13,4 +13,6 @@ export const itemRule32c22942912747a99754F877b356132b = {
   ruleChangedAt: "2026-07-05T17:54:05.504Z",
   destination: "character:by-priority",
   stockQuantity: 100,
+  createdAt: "2026-09-25T13:37:57.260Z",
+  updatedAt: "2026-10-08T14:43:46.000Z",
 } as const satisfies TemperItemRule

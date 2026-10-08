@@ -14,4 +14,6 @@ export const shockResist = {
   effects: "jsonl",
   hashPlace: 12,
   esoEnchantSearchCategory: 21,
+  createdAt: "2026-05-25T00:25:36.341Z",
+  updatedAt: "2026-09-27T04:03:27.000Z",
 } as const satisfies TemperJewelryEnchant

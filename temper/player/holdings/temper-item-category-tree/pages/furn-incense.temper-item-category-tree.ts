@@ -8,4 +8,6 @@ export const furnIncense = {
   parent: "temper-item-category-tree/furn-undercroft",
   displayOrder: 2,
   furnitureSubcategoryIds: [104],
+  createdAt: "2026-09-02T01:51:00.092Z",
+  updatedAt: "2026-09-22T20:49:49.000Z",
 } as const satisfies TemperItemCategoryTree

@@ -6,4 +6,6 @@ export const westWealdSkingradOutlawsRefuge = {
   slug: "west-weald-skingrad-outlaws-refuge",
   title: "West Weald: Skingrad Outlaws Refuge",
   kioskId: 109,
+  createdAt: "2026-05-16T07:53:06.935Z",
+  updatedAt: "2026-09-21T15:34:59.000Z",
 } as const satisfies TemperGuildTrader

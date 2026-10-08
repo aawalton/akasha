@@ -15,4 +15,6 @@ export const rule83678d83 = {
   destinationChain: "jsonl",
   categoryId: "temper-item-category-tree/drink",
   craftShortfall: true,
+  createdAt: "2026-09-24T18:02:27.117Z",
+  updatedAt: "2026-10-08T14:43:46.000Z",
 } as const satisfies TemperInventoryRule

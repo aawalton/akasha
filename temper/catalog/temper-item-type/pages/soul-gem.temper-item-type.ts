@@ -6,4 +6,6 @@ export const soulGem = {
   slug: "soul-gem",
   title: "Soul Gem",
   esoItemTypeNumber: 19,
+  createdAt: "2026-09-27T04:05:31.381Z",
+  updatedAt: "2026-09-27T04:05:34.000Z",
 } as const satisfies TemperItemType

@@ -7,4 +7,6 @@ export const randomDungeon = {
   title: "Random Dungeon",
   itemBrowserSourceId: -1,
   itemBrowserPlaceKind: 3,
+  createdAt: "2026-09-25T18:39:15.007Z",
+  updatedAt: "2026-09-25T18:39:17.000Z",
 } as const satisfies TemperItemBrowserSource

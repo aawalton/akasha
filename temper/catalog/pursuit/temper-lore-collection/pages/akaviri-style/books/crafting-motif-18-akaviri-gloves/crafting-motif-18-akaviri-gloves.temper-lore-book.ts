@@ -7,4 +7,6 @@ export const craftingMotif18AkaviriGloves = {
   title: "Crafting Motif 18: Akaviri Gloves",
   collection: "temper-lore-collection/akaviri-style",
   bookIndex: 7,
+  createdAt: "2026-09-25T00:11:25.424Z",
+  updatedAt: "2026-09-25T00:11:26.000Z",
 } as const satisfies TemperLoreBook

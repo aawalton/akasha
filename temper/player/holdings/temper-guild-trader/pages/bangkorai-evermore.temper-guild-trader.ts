@@ -6,4 +6,6 @@ export const bangkoraiEvermore = {
   slug: "bangkorai-evermore",
   title: "Bangkorai: Evermore",
   kioskId: 26,
+  createdAt: "2026-05-16T07:53:06.861Z",
+  updatedAt: "2026-09-21T15:34:59.000Z",
 } as const satisfies TemperGuildTrader

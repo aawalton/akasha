@@ -8,4 +8,6 @@ export const weaponTypeIceStaffLegendary = {
   thing: "temper-weapon-type/ice-staff",
   quality: "temper-quality/legendary",
   value: 1335,
+  createdAt: "2026-09-27T03:04:48.916Z",
+  updatedAt: "2026-09-27T03:05:02.000Z",
 } as const satisfies TemperGearGrade

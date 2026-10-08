@@ -7,4 +7,6 @@ export const bankOtherCharacters = {
   title: "Bank + Other Characters",
   key: "bankOtherCharacters",
   displayOrder: 11,
+  createdAt: "2026-09-27T03:12:12.318Z",
+  updatedAt: "2026-09-27T03:14:22.000Z",
 } as const satisfies TemperLocationView

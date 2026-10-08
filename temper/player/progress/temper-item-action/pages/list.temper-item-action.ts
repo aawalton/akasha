@@ -8,4 +8,6 @@ export const list = {
   description: "Lists the item at a guild trader.",
   key: "list",
   displayOrder: 17,
+  createdAt: "2026-09-05T14:19:28.773Z",
+  updatedAt: "2026-09-27T10:02:37.000Z",
 } as const satisfies TemperItemAction

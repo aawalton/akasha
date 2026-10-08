@@ -8,4 +8,6 @@ export const fenceSell = {
   description: "Sells a stolen item at a fence.",
   key: "fence-sell",
   displayOrder: 16,
+  createdAt: "2026-09-05T14:19:28.773Z",
+  updatedAt: "2026-09-27T10:02:37.000Z",
 } as const satisfies TemperItemAction

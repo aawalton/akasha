@@ -8,4 +8,6 @@ export const jcRefined = {
   parent: "temper-item-category-tree/jewelry-crafting",
   displayOrder: 2,
   itemTypes: [64],
+  createdAt: "2026-09-02T01:51:00.132Z",
+  updatedAt: "2026-09-22T20:49:49.000Z",
 } as const satisfies TemperItemCategoryTree

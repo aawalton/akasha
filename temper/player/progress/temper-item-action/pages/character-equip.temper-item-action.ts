@@ -8,4 +8,6 @@ export const characterEquip = {
   description: "Equips the item on the character the rule names.",
   key: "character-equip",
   displayOrder: 8,
+  createdAt: "2026-09-05T14:19:28.770Z",
+  updatedAt: "2026-09-27T10:02:37.000Z",
 } as const satisfies TemperItemAction

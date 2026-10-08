@@ -8,4 +8,6 @@ export const infernoStaff = {
   parent: "temper-item-category-tree/destruction-staff",
   displayOrder: 0,
   weaponTypes: [12],
+  createdAt: "2026-09-02T01:51:00.130Z",
+  updatedAt: "2026-09-22T20:49:49.000Z",
 } as const satisfies TemperItemCategoryTree

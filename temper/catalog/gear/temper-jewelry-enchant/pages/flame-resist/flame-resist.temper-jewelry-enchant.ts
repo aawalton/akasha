@@ -14,4 +14,6 @@ export const flameResist = {
   effects: "jsonl",
   hashPlace: 10,
   esoEnchantSearchCategory: 7,
+  createdAt: "2026-05-25T00:25:36.338Z",
+  updatedAt: "2026-09-27T04:03:27.000Z",
 } as const satisfies TemperJewelryEnchant

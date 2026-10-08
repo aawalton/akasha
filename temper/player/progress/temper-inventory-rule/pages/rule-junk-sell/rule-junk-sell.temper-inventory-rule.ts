@@ -15,4 +15,6 @@ export const ruleJunkSell = {
   active: true,
   ruleChangedAt: "2026-05-04T16:04:31.132Z",
   locked: true,
+  createdAt: "2026-09-05T17:08:47.677Z",
+  updatedAt: "2026-10-08T14:43:46.000Z",
 } as const satisfies TemperInventoryRule

@@ -7,4 +7,6 @@ export const craftingMotif92AncestralAkaviriStaves = {
   title: "Crafting Motif 92: Ancestral Akaviri Staves",
   collection: "temper-lore-collection/ancestral-akaviri-style",
   bookIndex: 13,
+  createdAt: "2026-09-25T00:18:13.249Z",
+  updatedAt: "2026-09-25T00:18:14.000Z",
 } as const satisfies TemperLoreBook

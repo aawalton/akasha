@@ -8,4 +8,6 @@ export const tomeChallengeRerolls = {
   key: "tomeChallengeRerolls",
   displayOrder: 15,
   esoCurrencyConstant: "CURT_TOME_CHALLENGE_REROLLS",
+  createdAt: "2026-09-02T01:50:06.524Z",
+  updatedAt: "2026-09-27T03:14:22.000Z",
 } as const satisfies TemperInventoryCurrency

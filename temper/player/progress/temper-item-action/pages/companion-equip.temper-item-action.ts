@@ -8,4 +8,6 @@ export const companionEquip = {
   description: "Equips the item on the companion the rule names.",
   key: "companion-equip",
   displayOrder: 9,
+  createdAt: "2026-09-05T14:19:28.771Z",
+  updatedAt: "2026-09-27T10:02:37.000Z",
 } as const satisfies TemperItemAction

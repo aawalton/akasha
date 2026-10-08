@@ -7,4 +7,6 @@ export const craftingMotif32AbahsWatchMaces = {
   title: "Crafting Motif 32: Abah's Watch Maces",
   collection: "temper-lore-collection/abahs-watch-style",
   bookIndex: 10,
+  createdAt: "2026-09-25T00:12:56.864Z",
+  updatedAt: "2026-09-25T00:12:57.000Z",
 } as const satisfies TemperLoreBook

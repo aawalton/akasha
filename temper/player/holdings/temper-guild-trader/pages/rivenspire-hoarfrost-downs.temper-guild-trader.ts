@@ -6,4 +6,6 @@ export const rivenspireHoarfrostDowns = {
   slug: "rivenspire-hoarfrost-downs",
   title: "Rivenspire: Hoarfrost Downs",
   kioskId: 36,
+  createdAt: "2026-05-16T07:53:06.870Z",
+  updatedAt: "2026-09-21T15:34:59.000Z",
 } as const satisfies TemperGuildTrader

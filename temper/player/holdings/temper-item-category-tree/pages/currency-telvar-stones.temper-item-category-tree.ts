@@ -7,4 +7,6 @@ export const currencyTelvarStones = {
   title: "Tel Var Stones",
   parent: "temper-item-category-tree/currency",
   displayOrder: 2,
+  createdAt: "2026-09-02T01:51:00.056Z",
+  updatedAt: "2026-09-22T20:49:49.000Z",
 } as const satisfies TemperItemCategoryTree

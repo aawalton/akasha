@@ -6,4 +6,6 @@ export const woodworkingMaterial = {
   slug: "woodworking-material",
   title: "Material",
   esoItemTypeNumber: 38,
+  createdAt: "2026-09-27T04:24:36.731Z",
+  updatedAt: "2026-09-27T04:24:50.000Z",
 } as const satisfies TemperItemType

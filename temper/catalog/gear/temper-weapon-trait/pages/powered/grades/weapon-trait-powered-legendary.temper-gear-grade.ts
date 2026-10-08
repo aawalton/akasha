@@ -9,4 +9,6 @@ export const weaponTraitPoweredLegendary = {
   quality: "temper-quality/legendary",
   metric: "temper-metric-tree/metric-healing-done-base",
   value: 0.045,
+  createdAt: "2026-09-24T14:54:54.555Z",
+  updatedAt: "2026-09-24T14:55:12.000Z",
 } as const satisfies TemperGearGrade

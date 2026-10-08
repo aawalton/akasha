@@ -8,4 +8,6 @@ export const furnDeadWood = {
   parent: "temper-item-category-tree/furn-conservatory",
   displayOrder: 3,
   furnitureSubcategoryIds: [164],
+  createdAt: "2026-09-02T01:51:00.080Z",
+  updatedAt: "2026-09-22T20:49:49.000Z",
 } as const satisfies TemperItemCategoryTree

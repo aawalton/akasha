@@ -8,4 +8,6 @@ export const glyphs = {
   parent: "temper-item-category-tree/consumables",
   displayOrder: 4,
   itemTypes: [3, 20, 21, 26],
+  createdAt: "2026-09-02T01:51:00.125Z",
+  updatedAt: "2026-09-22T20:49:49.000Z",
 } as const satisfies TemperItemCategoryTree

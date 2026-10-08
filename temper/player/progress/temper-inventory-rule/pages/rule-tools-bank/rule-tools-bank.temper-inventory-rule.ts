@@ -16,4 +16,6 @@ export const ruleToolsBank = {
   ruleChangedAt: "2026-07-05T13:20:53.393Z",
   locked: true,
   destinationChain: "jsonl",
+  createdAt: "2026-09-05T17:08:55.279Z",
+  updatedAt: "2026-10-08T14:43:46.000Z",
 } as const satisfies TemperInventoryRule

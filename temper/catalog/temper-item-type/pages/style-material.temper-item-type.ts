@@ -6,4 +6,6 @@ export const styleMaterial = {
   slug: "style-material",
   title: "Style Material",
   esoItemTypeNumber: 44,
+  createdAt: "2026-09-27T04:24:36.731Z",
+  updatedAt: "2026-09-27T04:24:50.000Z",
 } as const satisfies TemperItemType

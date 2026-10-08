@@ -9,4 +9,6 @@ export const weaponTraitPreciseEpic = {
   quality: "temper-quality/epic",
   metric: "temper-metric-tree/metric-critical-rating",
   value: 679,
+  createdAt: "2026-09-24T14:54:56.796Z",
+  updatedAt: "2026-09-24T14:55:12.000Z",
 } as const satisfies TemperGearGrade

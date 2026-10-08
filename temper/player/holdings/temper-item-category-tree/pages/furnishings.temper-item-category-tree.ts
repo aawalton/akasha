@@ -8,4 +8,6 @@ export const furnishings = {
   displayOrder: 7,
   filterTypes: [21],
   priorityOrder: 7,
+  createdAt: "2026-09-02T01:51:00.125Z",
+  updatedAt: "2026-09-21T15:34:59.000Z",
 } as const satisfies TemperItemCategoryTree

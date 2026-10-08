@@ -8,4 +8,6 @@ export const lockpicks = {
   parent: "temper-item-category-tree/consumables",
   displayOrder: 7,
   itemTypes: [22],
+  createdAt: "2026-09-02T01:51:00.137Z",
+  updatedAt: "2026-09-22T20:49:49.000Z",
 } as const satisfies TemperItemCategoryTree

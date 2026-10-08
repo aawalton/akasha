@@ -6,4 +6,6 @@ export const fargraveFargraveOutlawsRefuge = {
   slug: "fargrave-fargrave-outlaws-refuge",
   title: "Fargrave: Fargrave Outlaws Refuge",
   kioskId: 101,
+  createdAt: "2026-05-16T07:53:06.928Z",
+  updatedAt: "2026-09-21T15:34:59.000Z",
 } as const satisfies TemperGuildTrader

@@ -8,4 +8,6 @@ export const transmuteCrystals = {
   key: "transmuteCrystals",
   displayOrder: 3,
   esoCurrencyConstant: "CURT_TRANSMUTE_CRYSTALS",
+  createdAt: "2026-09-02T01:50:06.525Z",
+  updatedAt: "2026-09-27T03:14:22.000Z",
 } as const satisfies TemperInventoryCurrency

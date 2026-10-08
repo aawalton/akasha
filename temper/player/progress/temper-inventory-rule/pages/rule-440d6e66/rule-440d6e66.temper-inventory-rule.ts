@@ -13,4 +13,6 @@ export const rule440d6e66 = {
   active: true,
   ruleChangedAt: "2026-06-03T03:46:58.890Z",
   destinationChain: "jsonl",
+  createdAt: "2026-09-05T17:08:24.555Z",
+  updatedAt: "2026-10-08T14:43:46.000Z",
 } as const satisfies TemperInventoryRule

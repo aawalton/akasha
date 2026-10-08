@@ -6,4 +6,6 @@ export const shadowfenHissmir = {
   slug: "shadowfen-hissmir",
   title: "Shadowfen: Hissmir",
   kioskId: 59,
+  createdAt: "2026-05-16T07:53:06.891Z",
+  updatedAt: "2026-09-21T15:34:59.000Z",
 } as const satisfies TemperGuildTrader

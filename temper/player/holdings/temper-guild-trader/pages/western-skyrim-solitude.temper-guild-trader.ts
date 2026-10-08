@@ -6,4 +6,6 @@ export const westernSkyrimSolitude = {
   slug: "western-skyrim-solitude",
   title: "Western Skyrim: Solitude",
   kioskId: 94,
+  createdAt: "2026-05-16T07:53:06.922Z",
+  updatedAt: "2026-09-21T15:34:59.000Z",
 } as const satisfies TemperGuildTrader

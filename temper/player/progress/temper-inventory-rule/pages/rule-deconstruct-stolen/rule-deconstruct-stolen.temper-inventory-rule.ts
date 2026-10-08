@@ -16,4 +16,6 @@ export const ruleDeconstructStolen = {
   active: true,
   ruleChangedAt: "2026-09-21T22:15:47.448Z",
   locked: true,
+  createdAt: "2026-09-21T22:15:30.086Z",
+  updatedAt: "2026-10-08T14:43:46.000Z",
 } as const satisfies TemperInventoryRule

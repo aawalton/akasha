@@ -17,4 +17,6 @@ export const ruleResearchByPriority = {
   active: true,
   ruleChangedAt: "2026-05-04T16:05:00.238Z",
   locked: true,
+  createdAt: "2026-09-05T17:08:55.278Z",
+  updatedAt: "2026-10-08T14:43:46.000Z",
 } as const satisfies TemperInventoryRule

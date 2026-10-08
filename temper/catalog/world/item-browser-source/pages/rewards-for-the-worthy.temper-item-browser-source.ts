@@ -7,4 +7,6 @@ export const rewardsForTheWorthy = {
   title: "Rewards for the Worthy",
   itemBrowserSourceId: -4,
   itemBrowserPlaceKind: 2,
+  createdAt: "2026-09-25T18:39:15.007Z",
+  updatedAt: "2026-09-25T18:39:17.000Z",
 } as const satisfies TemperItemBrowserSource

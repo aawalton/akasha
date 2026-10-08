@@ -8,4 +8,6 @@ export const companion = {
   displayOrder: 1,
   filterTypes: [27],
   priorityOrder: 1,
+  createdAt: "2026-09-02T01:51:00.049Z",
+  updatedAt: "2026-09-21T15:34:59.000Z",
 } as const satisfies TemperItemCategoryTree

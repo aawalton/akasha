@@ -8,4 +8,6 @@ export const reagentHerbs = {
   parent: "temper-item-category-tree/reagents",
   displayOrder: 0,
   specializedItemTypes: [150],
+  createdAt: "2026-09-02T01:51:00.148Z",
+  updatedAt: "2026-09-22T20:49:49.000Z",
 } as const satisfies TemperItemCategoryTree

@@ -6,4 +6,6 @@ export const theRiftRiftenOutlawsRefuge = {
   slug: "the-rift-riften-outlaws-refuge",
   title: "The Rift: Riften Outlaws Refuge",
   kioskId: 49,
+  createdAt: "2026-05-16T07:53:06.882Z",
+  updatedAt: "2026-09-21T15:34:59.000Z",
 } as const satisfies TemperGuildTrader

@@ -6,4 +6,6 @@ export const shadowfenStormholdOutlawsRefuge = {
   slug: "shadowfen-stormhold-outlaws-refuge",
   title: "Shadowfen: Stormhold Outlaws Refuge",
   kioskId: 57,
+  createdAt: "2026-05-16T07:53:06.890Z",
+  updatedAt: "2026-09-21T15:34:59.000Z",
 } as const satisfies TemperGuildTrader

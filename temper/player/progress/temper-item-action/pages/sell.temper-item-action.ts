@@ -8,4 +8,6 @@ export const sell = {
   description: "Sells the item to a merchant.",
   key: "sell",
   displayOrder: 13,
+  createdAt: "2026-09-05T14:19:28.774Z",
+  updatedAt: "2026-09-27T10:02:37.000Z",
 } as const satisfies TemperItemAction

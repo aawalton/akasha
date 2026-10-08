@@ -8,4 +8,6 @@ export const furnCrystals = {
   parent: "temper-item-category-tree/furn-conservatory",
   displayOrder: 2,
   furnitureSubcategoryIds: [160],
+  createdAt: "2026-09-02T01:51:00.079Z",
+  updatedAt: "2026-09-22T20:49:49.000Z",
 } as const satisfies TemperItemCategoryTree

@@ -14,4 +14,6 @@ export const rule5ff0294f = {
   ruleChangedAt: "2026-09-27T15:28:55.609Z",
   destinationChain: "jsonl",
   categoryId: "temper-item-category-tree/consumables",
+  createdAt: "2026-09-27T15:28:40.173Z",
+  updatedAt: "2026-10-08T14:43:46.000Z",
 } as const satisfies TemperInventoryRule

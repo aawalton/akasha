@@ -8,4 +8,6 @@ export const rareIngredients = {
   parent: "temper-item-category-tree/ingredients",
   displayOrder: 3,
   specializedItemTypes: [48],
+  createdAt: "2026-09-02T01:51:00.147Z",
+  updatedAt: "2026-09-22T20:49:49.000Z",
 } as const satisfies TemperItemCategoryTree

@@ -8,4 +8,6 @@ export const companionRestorationStaff = {
   parent: "temper-item-category-tree/companion-weapons",
   displayOrder: 4,
   weaponTypes: [9],
+  createdAt: "2026-09-02T01:51:00.046Z",
+  updatedAt: "2026-09-22T20:49:49.000Z",
 } as const satisfies TemperItemCategoryTree

@@ -8,4 +8,6 @@ export const companionHeavy = {
   parent: "temper-item-category-tree/companion-armor",
   displayOrder: 3,
   armorTypes: [3],
+  createdAt: "2026-09-02T01:51:00.041Z",
+  updatedAt: "2026-09-22T20:49:49.000Z",
 } as const satisfies TemperItemCategoryTree

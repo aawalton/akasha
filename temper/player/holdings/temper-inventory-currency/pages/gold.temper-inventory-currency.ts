@@ -9,4 +9,6 @@ export const gold = {
   displayOrder: 0,
   esoCurrencyConstant: "CURT_MONEY",
   bankable: true,
+  createdAt: "2026-09-02T01:50:06.523Z",
+  updatedAt: "2026-09-27T03:14:22.000Z",
 } as const satisfies TemperInventoryCurrency

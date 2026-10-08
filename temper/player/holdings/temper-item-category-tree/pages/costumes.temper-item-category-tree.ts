@@ -8,4 +8,6 @@ export const costumes = {
   parent: "temper-item-category-tree/appearance",
   displayOrder: 0,
   itemTypes: [13],
+  createdAt: "2026-09-02T01:51:00.053Z",
+  updatedAt: "2026-09-22T20:49:49.000Z",
 } as const satisfies TemperItemCategoryTree

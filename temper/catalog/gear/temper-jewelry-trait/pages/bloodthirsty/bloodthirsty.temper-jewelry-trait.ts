@@ -13,4 +13,6 @@ export const bloodthirsty = {
   displayOrder: 2,
   hashPlace: 2,
   available: true,
+  createdAt: "2026-05-24T20:05:11.175Z",
+  updatedAt: "2026-09-27T03:41:25.000Z",
 } as const satisfies TemperJewelryTrait

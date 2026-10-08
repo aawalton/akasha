@@ -7,4 +7,6 @@ export const allGuildBanks = {
   title: "All Guild Banks",
   key: "allGuildBanks",
   displayOrder: 2,
+  createdAt: "2026-09-27T03:12:12.318Z",
+  updatedAt: "2026-09-27T03:14:22.000Z",
 } as const satisfies TemperLocationView

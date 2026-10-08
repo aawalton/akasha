@@ -6,4 +6,6 @@ export const glenumbraDaggerfallOutlawsRefuge = {
   slug: "glenumbra-daggerfall-outlaws-refuge",
   title: "Glenumbra: Daggerfall Outlaws Refuge",
   kioskId: 43,
+  createdAt: "2026-05-16T07:53:06.876Z",
+  updatedAt: "2026-09-21T15:34:59.000Z",
 } as const satisfies TemperGuildTrader

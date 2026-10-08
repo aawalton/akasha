@@ -9,4 +9,6 @@ export const weaponTraitPreciseFine = {
   quality: "temper-quality/fine",
   metric: "temper-metric-tree/metric-critical-rating",
   value: 460,
+  createdAt: "2026-09-24T14:54:59.034Z",
+  updatedAt: "2026-09-24T14:55:12.000Z",
 } as const satisfies TemperGearGrade

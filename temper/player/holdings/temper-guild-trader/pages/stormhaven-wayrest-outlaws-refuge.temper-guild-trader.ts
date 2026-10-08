@@ -6,4 +6,6 @@ export const stormhavenWayrestOutlawsRefuge = {
   slug: "stormhaven-wayrest-outlaws-refuge",
   title: "Stormhaven: Wayrest Outlaws Refuge",
   kioskId: 39,
+  createdAt: "2026-05-16T07:53:06.872Z",
+  updatedAt: "2026-09-21T15:34:59.000Z",
 } as const satisfies TemperGuildTrader

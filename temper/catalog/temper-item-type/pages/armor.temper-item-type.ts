@@ -6,4 +6,6 @@ export const armor = {
   slug: "armor",
   title: "Armor",
   esoItemTypeNumber: 2,
+  createdAt: "2026-09-27T04:05:31.380Z",
+  updatedAt: "2026-09-27T04:05:34.000Z",
 } as const satisfies TemperItemType

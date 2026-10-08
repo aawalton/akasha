@@ -8,4 +8,6 @@ export const siegeLancer = {
   parent: "temper-item-category-tree/siege-equipment",
   displayOrder: 8,
   specializedItemTypes: [409],
+  createdAt: "2026-09-02T01:51:00.157Z",
+  updatedAt: "2026-09-22T20:49:49.000Z",
 } as const satisfies TemperItemCategoryTree

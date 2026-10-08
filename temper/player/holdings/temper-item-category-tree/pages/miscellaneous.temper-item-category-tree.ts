@@ -7,4 +7,6 @@ export const miscellaneous = {
   title: "Miscellaneous",
   displayOrder: 8,
   priorityOrder: 8,
+  createdAt: "2026-09-02T01:51:00.141Z",
+  updatedAt: "2026-09-21T15:34:59.000Z",
 } as const satisfies TemperItemCategoryTree

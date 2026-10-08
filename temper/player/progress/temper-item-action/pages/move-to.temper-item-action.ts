@@ -8,4 +8,6 @@ export const moveTo = {
   description: "Moves the item to the destination the rule names.",
   key: "move-to",
   displayOrder: 11,
+  createdAt: "2026-09-05T14:19:28.773Z",
+  updatedAt: "2026-09-27T10:02:37.000Z",
 } as const satisfies TemperItemAction

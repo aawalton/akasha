@@ -8,4 +8,6 @@ export const furnGame = {
   parent: "temper-item-category-tree/furn-hearth",
   displayOrder: 6,
   furnitureSubcategoryIds: [85],
+  createdAt: "2026-09-02T01:51:00.088Z",
+  updatedAt: "2026-09-22T20:49:49.000Z",
 } as const satisfies TemperItemCategoryTree

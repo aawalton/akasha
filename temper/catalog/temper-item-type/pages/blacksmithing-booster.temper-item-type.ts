@@ -6,4 +6,6 @@ export const blacksmithingBooster = {
   slug: "blacksmithing-booster",
   title: "Temper",
   esoItemTypeNumber: 41,
+  createdAt: "2026-09-27T04:24:36.729Z",
+  updatedAt: "2026-09-27T04:24:50.000Z",
 } as const satisfies TemperItemType

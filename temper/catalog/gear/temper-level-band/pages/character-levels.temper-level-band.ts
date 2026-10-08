@@ -9,4 +9,6 @@ export const characterLevels = {
   levelBandTop: 50,
   worthLevelStart: 0,
   worthLevelSpan: 50,
+  createdAt: "2026-09-27T05:51:04.535Z",
+  updatedAt: "2026-09-27T05:51:07.000Z",
 } as const satisfies TemperLevelBand

@@ -9,4 +9,6 @@ export const alliancePoints = {
   displayOrder: 1,
   esoCurrencyConstant: "CURT_ALLIANCE_POINTS",
   bankable: true,
+  createdAt: "2026-09-02T01:50:06.522Z",
+  updatedAt: "2026-09-27T03:14:22.000Z",
 } as const satisfies TemperInventoryCurrency

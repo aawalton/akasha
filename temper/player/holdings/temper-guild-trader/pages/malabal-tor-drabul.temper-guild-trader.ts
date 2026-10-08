@@ -6,4 +6,6 @@ export const malabalTorDrabul = {
   slug: "malabal-tor-drabul",
   title: "Malabal Tor: Dra'bul",
   kioskId: 10,
+  createdAt: "2026-05-16T07:53:06.844Z",
+  updatedAt: "2026-09-21T15:34:59.000Z",
 } as const satisfies TemperGuildTrader

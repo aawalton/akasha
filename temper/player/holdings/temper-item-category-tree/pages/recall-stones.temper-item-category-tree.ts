@@ -8,4 +8,6 @@ export const recallStones = {
   parent: "temper-item-category-tree/alliance-war",
   displayOrder: 2,
   itemTypes: [69],
+  createdAt: "2026-09-02T01:51:00.149Z",
+  updatedAt: "2026-09-22T20:49:49.000Z",
 } as const satisfies TemperItemCategoryTree

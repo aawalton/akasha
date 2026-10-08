@@ -7,4 +7,6 @@ export const furnPlaced = {
   title: "Placed",
   parent: "temper-item-category-tree/furnishings",
   displayOrder: 16,
+  createdAt: "2026-09-02T01:51:00.103Z",
+  updatedAt: "2026-09-22T20:49:49.000Z",
 } as const satisfies TemperItemCategoryTree

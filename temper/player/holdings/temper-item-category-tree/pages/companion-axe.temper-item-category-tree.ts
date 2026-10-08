@@ -8,4 +8,6 @@ export const companionAxe = {
   parent: "temper-item-category-tree/companion-one-handed",
   displayOrder: 1,
   weaponTypes: [1],
+  createdAt: "2026-09-02T01:51:00.035Z",
+  updatedAt: "2026-09-22T20:49:49.000Z",
 } as const satisfies TemperItemCategoryTree

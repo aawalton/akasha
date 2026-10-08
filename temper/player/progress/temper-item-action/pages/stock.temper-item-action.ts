@@ -8,4 +8,6 @@ export const stock = {
   description: "Keeps a target quantity of the item at the destination the rule names.",
   key: "stock",
   displayOrder: 12,
+  createdAt: "2026-09-05T14:19:28.774Z",
+  updatedAt: "2026-09-27T10:02:37.000Z",
 } as const satisfies TemperItemAction

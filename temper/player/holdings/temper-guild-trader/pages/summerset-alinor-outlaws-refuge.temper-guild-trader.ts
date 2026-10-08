@@ -6,4 +6,6 @@ export const summersetAlinorOutlawsRefuge = {
   slug: "summerset-alinor-outlaws-refuge",
   title: "Summerset: Alinor Outlaws Refuge",
   kioskId: 87,
+  createdAt: "2026-05-16T07:53:06.916Z",
+  updatedAt: "2026-09-21T15:34:59.000Z",
 } as const satisfies TemperGuildTrader

@@ -6,4 +6,6 @@ export const wrothgarMorkulStronghold = {
   slug: "wrothgar-morkul-stronghold",
   title: "Wrothgar: Morkul Stronghold",
   kioskId: 72,
+  createdAt: "2026-05-16T07:53:06.903Z",
+  updatedAt: "2026-09-21T15:34:59.000Z",
 } as const satisfies TemperGuildTrader

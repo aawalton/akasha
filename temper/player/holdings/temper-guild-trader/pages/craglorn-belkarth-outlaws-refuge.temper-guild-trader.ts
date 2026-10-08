@@ -6,4 +6,6 @@ export const craglornBelkarthOutlawsRefuge = {
   slug: "craglorn-belkarth-outlaws-refuge",
   title: "Craglorn: Belkarth Outlaws Refuge",
   kioskId: 1,
+  createdAt: "2026-05-16T07:53:06.829Z",
+  updatedAt: "2026-09-21T15:34:59.000Z",
 } as const satisfies TemperGuildTrader

@@ -6,4 +6,6 @@ export const theGoldCoastAnvilOutlawsRefuge = {
   slug: "the-gold-coast-anvil-outlaws-refuge",
   title: "The Gold Coast: Anvil Outlaws Refuge",
   kioskId: 77,
+  createdAt: "2026-05-16T07:53:06.907Z",
+  updatedAt: "2026-09-21T15:34:59.000Z",
 } as const satisfies TemperGuildTrader

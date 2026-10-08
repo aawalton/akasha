@@ -6,4 +6,6 @@ export const stonefallsDavonsWatch = {
   slug: "stonefalls-davons-watch",
   title: "Stonefalls: Davon's Watch",
   kioskId: 66,
+  createdAt: "2026-05-16T07:53:06.898Z",
+  updatedAt: "2026-09-21T15:34:59.000Z",
 } as const satisfies TemperGuildTrader

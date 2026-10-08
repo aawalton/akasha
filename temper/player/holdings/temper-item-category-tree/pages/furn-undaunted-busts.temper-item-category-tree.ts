@@ -8,4 +8,6 @@ export const furnUndauntedBusts = {
   parent: "temper-item-category-tree/furn-gallery",
   displayOrder: 7,
   furnitureSubcategoryIds: [89],
+  createdAt: "2026-09-02T01:51:00.119Z",
+  updatedAt: "2026-09-22T20:49:49.000Z",
 } as const satisfies TemperItemCategoryTree

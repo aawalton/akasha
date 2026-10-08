@@ -8,4 +8,6 @@ export const essenceRunestones = {
   parent: "temper-item-category-tree/enchanting",
   displayOrder: 2,
   itemTypes: [53],
+  createdAt: "2026-09-02T01:51:00.064Z",
+  updatedAt: "2026-09-22T20:49:49.000Z",
 } as const satisfies TemperItemCategoryTree

@@ -8,4 +8,6 @@ export const shield = {
   parent: "temper-item-category-tree/armor",
   displayOrder: 0,
   weaponTypes: [14],
+  createdAt: "2026-09-02T01:51:00.155Z",
+  updatedAt: "2026-09-22T20:49:49.000Z",
 } as const satisfies TemperItemCategoryTree

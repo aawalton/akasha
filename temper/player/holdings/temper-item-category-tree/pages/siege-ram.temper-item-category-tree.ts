@@ -8,4 +8,6 @@ export const siegeRam = {
   parent: "temper-item-category-tree/siege-equipment",
   displayOrder: 1,
   specializedItemTypes: [402],
+  createdAt: "2026-09-02T01:51:00.158Z",
+  updatedAt: "2026-09-22T20:49:49.000Z",
 } as const satisfies TemperItemCategoryTree

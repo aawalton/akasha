@@ -8,4 +8,6 @@ export const furnDeer = {
   parent: "temper-item-category-tree/furn-mounts",
   displayOrder: 4,
   furnitureSubcategoryIds: [192],
+  createdAt: "2026-09-02T01:51:00.081Z",
+  updatedAt: "2026-09-22T20:49:49.000Z",
 } as const satisfies TemperItemCategoryTree

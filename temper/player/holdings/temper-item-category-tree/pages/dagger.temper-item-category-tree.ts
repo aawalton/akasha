@@ -8,4 +8,6 @@ export const dagger = {
   parent: "temper-item-category-tree/one-handed",
   displayOrder: 3,
   weaponTypes: [11],
+  createdAt: "2026-09-02T01:51:00.057Z",
+  updatedAt: "2026-09-22T20:49:49.000Z",
 } as const satisfies TemperItemCategoryTree

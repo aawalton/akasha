@@ -6,4 +6,6 @@ export const glyphJewelry = {
   slug: "glyph-jewelry",
   title: "Glyph (Jewelry)",
   esoItemTypeNumber: 26,
+  createdAt: "2026-09-27T04:05:31.381Z",
+  updatedAt: "2026-09-27T04:05:34.000Z",
 } as const satisfies TemperItemType

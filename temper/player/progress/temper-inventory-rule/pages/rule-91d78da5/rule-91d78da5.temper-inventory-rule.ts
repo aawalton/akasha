@@ -16,4 +16,6 @@ export const rule91d78da5 = {
   destinationChain: "jsonl",
   categoryId: "temper-item-category-tree/lockpicks",
   buyShortfall: true,
+  createdAt: "2026-09-27T13:45:01.164Z",
+  updatedAt: "2026-10-08T14:43:46.000Z",
 } as const satisfies TemperInventoryRule

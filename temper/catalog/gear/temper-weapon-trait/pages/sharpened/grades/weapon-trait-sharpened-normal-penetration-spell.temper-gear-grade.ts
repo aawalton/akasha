@@ -9,4 +9,6 @@ export const weaponTraitSharpenedNormalPenetrationSpell = {
   quality: "temper-quality/normal",
   metric: "temper-metric-tree/metric-penetration-spell",
   value: 1428,
+  createdAt: "2026-09-24T14:55:28.809Z",
+  updatedAt: "2026-09-24T14:55:57.000Z",
 } as const satisfies TemperGearGrade

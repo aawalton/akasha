@@ -27,4 +27,6 @@ export const soulBurst = {
   ],
   affixScripts: "jsonl",
   signatureScripts: "jsonl",
+  createdAt: "2026-09-02T01:49:01.655Z",
+  updatedAt: "2026-09-26T19:32:16.000Z",
 } as const satisfies TemperGrimoire

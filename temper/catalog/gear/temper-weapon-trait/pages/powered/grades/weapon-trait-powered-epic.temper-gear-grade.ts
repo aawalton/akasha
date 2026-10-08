@@ -9,4 +9,6 @@ export const weaponTraitPoweredEpic = {
   quality: "temper-quality/epic",
   metric: "temper-metric-tree/metric-healing-done-base",
   value: 0.04,
+  createdAt: "2026-09-24T14:54:44.217Z",
+  updatedAt: "2026-09-24T14:55:12.000Z",
 } as const satisfies TemperGearGrade

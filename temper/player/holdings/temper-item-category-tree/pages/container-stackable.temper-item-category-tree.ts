@@ -8,4 +8,6 @@ export const containerStackable = {
   parent: "temper-item-category-tree/containers",
   displayOrder: 3,
   specializedItemTypes: [890],
+  createdAt: "2026-09-02T01:51:00.051Z",
+  updatedAt: "2026-09-22T20:49:49.000Z",
 } as const satisfies TemperItemCategoryTree

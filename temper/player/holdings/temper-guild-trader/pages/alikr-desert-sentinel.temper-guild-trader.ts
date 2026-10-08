@@ -6,4 +6,6 @@ export const alikrDesertSentinel = {
   slug: "alikr-desert-sentinel",
   title: "Alik'r Desert: Sentinel",
   kioskId: 30,
+  createdAt: "2026-05-16T07:53:06.864Z",
+  updatedAt: "2026-09-21T15:34:59.000Z",
 } as const satisfies TemperGuildTrader

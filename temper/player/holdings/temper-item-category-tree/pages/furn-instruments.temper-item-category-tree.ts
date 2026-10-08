@@ -8,4 +8,6 @@ export const furnInstruments = {
   parent: "temper-item-category-tree/furn-parlor",
   displayOrder: 1,
   furnitureSubcategoryIds: [54],
+  createdAt: "2026-09-02T01:51:00.092Z",
+  updatedAt: "2026-09-22T20:49:49.000Z",
 } as const satisfies TemperItemCategoryTree

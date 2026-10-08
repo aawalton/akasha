@@ -9,4 +9,6 @@ export const ring = {
   validSlots: ["temper-jewelry-slot/ring-1", "temper-jewelry-slot/ring-2"],
 
   slotEquipType: "temper-equip-type/ring",
+  createdAt: "2026-05-20T18:44:39.213Z",
+  updatedAt: "2026-09-27T04:24:42.000Z",
 } as const satisfies TemperJewelryType

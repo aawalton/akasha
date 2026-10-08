@@ -14,4 +14,6 @@ export const ruleAfc151c4 = {
   active: true,
   ruleChangedAt: "2026-09-26T17:39:51.697Z",
   categoryId: "temper-item-category-tree/containers",
+  createdAt: "2026-09-26T17:39:54.897Z",
+  updatedAt: "2026-10-08T14:43:46.000Z",
 } as const satisfies TemperInventoryRule

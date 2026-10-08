@@ -8,4 +8,6 @@ export const furnVvardvarks = {
   parent: "temper-item-category-tree/furn-mounts",
   displayOrder: 21,
   furnitureSubcategoryIds: [208],
+  createdAt: "2026-09-02T01:51:00.122Z",
+  updatedAt: "2026-09-22T20:49:49.000Z",
 } as const satisfies TemperItemCategoryTree

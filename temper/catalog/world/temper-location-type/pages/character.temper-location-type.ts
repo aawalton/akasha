@@ -7,4 +7,6 @@ export const character = {
   title: "Character",
   key: "character",
   displayOrder: 0,
+  createdAt: "2026-05-16T13:39:10.725Z",
+  updatedAt: "2026-09-27T09:56:19.000Z",
 } as const satisfies TemperLocationType

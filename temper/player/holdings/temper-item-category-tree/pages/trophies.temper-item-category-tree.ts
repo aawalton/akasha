@@ -8,4 +8,6 @@ export const trophies = {
   parent: "temper-item-category-tree/miscellaneous",
   displayOrder: 5,
   itemTypes: [5],
+  createdAt: "2026-09-02T01:51:00.166Z",
+  updatedAt: "2026-09-27T04:19:16.000Z",
 } as const satisfies TemperItemCategoryTree

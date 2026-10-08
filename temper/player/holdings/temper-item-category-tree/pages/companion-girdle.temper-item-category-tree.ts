@@ -8,4 +8,6 @@ export const companionGirdle = {
   parent: "temper-item-category-tree/companion-heavy",
   displayOrder: 4,
   equipTypes: [8],
+  createdAt: "2026-09-02T01:51:00.039Z",
+  updatedAt: "2026-09-22T20:49:49.000Z",
 } as const satisfies TemperItemCategoryTree

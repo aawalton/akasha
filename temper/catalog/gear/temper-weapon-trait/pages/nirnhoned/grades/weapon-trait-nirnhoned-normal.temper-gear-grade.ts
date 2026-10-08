@@ -8,4 +8,6 @@ export const weaponTraitNirnhonedNormal = {
   thing: "temper-weapon-trait/nirnhoned",
   quality: "temper-quality/normal",
   value: 0.12,
+  createdAt: "2026-09-24T14:54:35.331Z",
+  updatedAt: "2026-09-24T14:55:12.000Z",
 } as const satisfies TemperGearGrade
