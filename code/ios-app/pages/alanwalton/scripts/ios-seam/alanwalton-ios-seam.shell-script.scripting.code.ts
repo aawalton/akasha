@@ -53,6 +53,7 @@ const BEFORE = [
   "seam-reset",
   "crash-capture",
   "native-audio",
+  "now-playing-commands",
   "keyboard-accessory-suppressor",
   "apns-forwarding",
   "widget-refresh",

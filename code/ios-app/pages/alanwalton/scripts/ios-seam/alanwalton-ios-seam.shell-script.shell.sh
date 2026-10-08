@@ -164,6 +164,8 @@ SEAM_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")/.." && pwd)"
 . "$SEAM_DIR/crash-capture/alanwalton-crash-capture.shell-script.shell.sh"
 # shellcheck source=../native-audio/alanwalton-native-audio.shell-script.shell.sh
 . "$SEAM_DIR/native-audio/alanwalton-native-audio.shell-script.shell.sh"
+# shellcheck source=../now-playing-commands/alanwalton-now-playing-commands.shell-script.shell.sh
+. "$SEAM_DIR/now-playing-commands/alanwalton-now-playing-commands.shell-script.shell.sh"
 # shellcheck source=../keyboard-accessory-suppressor/alanwalton-keyboard-accessory-suppressor.shell-script.shell.sh
 . "$SEAM_DIR/keyboard-accessory-suppressor/alanwalton-keyboard-accessory-suppressor.shell-script.shell.sh"
 # shellcheck source=../apns-forwarding/alanwalton-apns-forwarding.shell-script.shell.sh
