@@ -1,4 +1,4 @@
-import { readFile, writeFile } from "node:fs/promises"
+import { readFile } from "node:fs/promises"
 import { extname } from "node:path"
 import { sha256Hex } from "akasha/code/body/modules/sha256-hex/sha256-hex.module.code.ts"
 import { optionalEnv } from "akasha/code/type/narrowing/modules/require-env/require-env.module.code.ts"
@@ -33,8 +33,8 @@ import {
   transcodeImage,
 } from "akasha/infrastructure/inference/client/modules/gemini-image-client/gemini-image-client.module.code.ts"
 import {
-  ensureOutputDir,
   resolveOutputPath,
+  writeNumbered,
 } from "akasha/infrastructure/inference/client/modules/inference-output-path/inference-output-path.module.code.ts"
 import { drawSeed } from "akasha/infrastructure/inference/client/modules/inference-seed/inference-seed.module.code.ts"
 import { wroteTo } from "akasha/infrastructure/inference/command/modules/inference-answering/inference-answering.module.code.ts"
@@ -250,10 +250,9 @@ export async function inferenceEdit(argv: readonly string[], given: Given): Prom
                 ...(imageConfig === undefined ? {} : { imageConfig }),
               })
         const image = await transcodeImage(raw, imageFormatForPath(outputPath))
-        await ensureOutputDir(outputPath)
-        await writeFile(outputPath, image)
-        done.push(wroteTo(outputPath, image, "image"))
-        return { outputPath, outputBytes: image }
+        const written = await writeNumbered(outputPath, image)
+        done.push(wroteTo(written, image, "image"))
+        return { outputPath: written, outputBytes: image }
       },
       done,
       { persist: !taken.noPersist }

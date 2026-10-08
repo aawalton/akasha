@@ -34,7 +34,8 @@ export const inferenceGenerate = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The image is written where the caller named that image and nowhere else.",
+      statement:
+        "The image is written in the folder the caller named, its name led by the next number there.",
     },
 
     {
@@ -60,5 +61,5 @@ export const inferenceGenerate = {
     },
   ],
   createdAt: "2026-09-03T17:44:10.832Z",
-  updatedAt: "2026-09-26T16:51:37.000Z",
+  updatedAt: "2026-10-08T16:27:23.358Z",
 } as const satisfies Command

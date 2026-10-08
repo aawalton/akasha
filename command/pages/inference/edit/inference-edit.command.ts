@@ -45,6 +45,11 @@ export const inferenceEdit = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "The output is written in the folder the caller named, its name led by the next number there.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "The image page landed names the subject and every reference an image page holds.",
     },
     {
@@ -70,5 +75,5 @@ export const inferenceEdit = {
     },
   ],
   createdAt: "2026-09-03T17:44:10.832Z",
-  updatedAt: "2026-10-04T12:20:13.000Z",
+  updatedAt: "2026-10-08T16:27:23.358Z",
 } as const satisfies Command

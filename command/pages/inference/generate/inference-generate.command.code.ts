@@ -1,4 +1,3 @@
-import { writeFile } from "node:fs/promises"
 import { wordsOf } from "akasha/agent/hook/modules/shell-calls/shell-calls.module.code.ts"
 import {
   type TakenFor,
@@ -23,8 +22,8 @@ import type { Answer, Given } from "akasha/command/modules/calling/calling.modul
 import { filing, filledIn } from "akasha/command/modules/filling/command-filling.module.code.ts"
 import { inferenceGenerate as page } from "akasha/command/pages/inference/generate/inference-generate.command.ts"
 import {
-  ensureOutputDir,
   resolveOutputPath,
+  writeNumbered,
 } from "akasha/infrastructure/inference/client/modules/inference-output-path/inference-output-path.module.code.ts"
 import {
   drawSeed,
@@ -183,10 +182,9 @@ export async function inferenceGenerate(argv: readonly string[], given: Given): 
           }),
           timeoutMs: timeout * SECOND_MS,
         })
-        await ensureOutputDir(outputPath)
-        await writeFile(outputPath, png)
-        done.push(wroteTo(outputPath, png, "image"))
-        return { outputPath, outputBytes: png }
+        const written = await writeNumbered(outputPath, png)
+        done.push(wroteTo(written, png, "image"))
+        return { outputPath: written, outputBytes: png }
       },
       done,
       { persist: !taken.noPersist }
