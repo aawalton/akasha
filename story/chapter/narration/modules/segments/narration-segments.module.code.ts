@@ -1,3 +1,4 @@
+import { homographsOf } from "akasha/story/chapter/narration/modules/homographs/narration-homographs.module.code.ts"
 import { soundedOf } from "akasha/story/chapter/narration/modules/sounds/narration-sounds.module.code.ts"
 import {
   spokenScreen,
@@ -188,7 +189,7 @@ function plainOf(line: string): string {
     .replace(STRONG, "$2")
     .replace(EMPHASIS, "$1$3")
     .replace(MARKS, "")
-  return numberedOf(soundedOf(marked))
+  return homographsOf(numberedOf(soundedOf(marked)))
     .replace(ORNAMENT, " ")
     .replace(DASH_RUN, ", ")
     .replace(GLUED_ELLIPSIS, "$1 ")

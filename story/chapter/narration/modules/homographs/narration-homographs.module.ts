@@ -1,0 +1,38 @@
+import type { Module } from "akasha/code/module/module.page-type.types.ts"
+
+export const narrationHomographs = {
+  id: "01a11d0c-15bb-7430-b5dd-b502ac230397",
+  type: "page-type/module",
+  slug: "narration-homographs",
+  definition: "a word spelled like another, handed to the voice with the reading its sense needs",
+  code: "ts",
+  test: "ts",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A past tense misaki builds on a wrong stem, as bowed on Bowe, is handed on as its own reading.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A homograph is handed on with a reading only where the words beside it settle its sense.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "Where no words beside a homograph settle its sense, misaki's own reading is kept.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A rule joins this table only after its matches in the chapters are read and found right.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Markup already handed on is never read again.",
+    },
+  ],
+  createdAt: "2026-10-08T19:44:53.690Z",
+  updatedAt: "2026-10-08T19:44:53.690Z",
+} as const satisfies Module

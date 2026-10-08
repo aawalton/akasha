@@ -17,6 +17,7 @@ export const narration = {
     "module/narration-report",
     "module/narration-sounds",
     "module/narration-words",
+    "module/narration-homographs",
   ],
   decisions: [
     {
@@ -141,5 +142,5 @@ export const narration = {
     },
   ],
   createdAt: "2026-10-05T20:21:33.528Z",
-  updatedAt: "2026-10-08T19:12:09.635Z",
+  updatedAt: "2026-10-08T19:44:53.690Z",
 } as const satisfies Domain

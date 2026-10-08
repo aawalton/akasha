@@ -113,6 +113,11 @@ export const narrationSegments = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "A homograph whose sense the words beside it settle is handed on with that reading.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A segment states how many of the prose's own words come before it.",
     },
     {
@@ -121,6 +126,6 @@ export const narrationSegments = {
         "A word is counted as the chapter's length counts it, markup and window lines too.",
     },
   ],
-  updatedAt: "2026-10-08T19:21:06.721Z",
+  updatedAt: "2026-10-08T19:44:53.690Z",
   createdAt: "2026-10-05T20:29:00.386Z",
 } as const satisfies Module
