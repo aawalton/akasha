@@ -32,4 +32,6 @@ export const ki = {
       statement: "A page type here serves Ki as the matching page type of Alan's serves Alan.",
     },
   ],
+  createdAt: "2026-08-30T18:45:50.450Z",
+  updatedAt: "2026-09-25T12:39:29.000Z",
 } as const satisfies Person

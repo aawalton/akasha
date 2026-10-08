@@ -5,4 +5,6 @@ export const sanskrit = {
   type: "page-type/origin-kind",
   slug: "sanskrit",
   definition: "a name from Sanskrit",
+  createdAt: "2026-08-30T15:55:09.791Z",
+  updatedAt: "2026-09-15T16:03:45.000Z",
 } as const satisfies OriginKind

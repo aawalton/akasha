@@ -11,4 +11,6 @@ export const tierAchievements = {
     { pageProperty: "number-property/achievement-id", required: true, many: false },
   ],
   types: "ts",
+  createdAt: "2026-09-02T01:45:21.032Z",
+  updatedAt: "2026-09-21T15:29:38.000Z",
 } as const satisfies PagePropertyEntry

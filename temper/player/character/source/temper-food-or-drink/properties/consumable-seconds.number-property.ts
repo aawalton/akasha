@@ -8,4 +8,6 @@ export const consumableSeconds = {
   definition: "how many seconds a consumable's boons last once it is taken",
   max: null,
   types: "ts",
+  createdAt: "2026-09-26T20:44:13.284Z",
+  updatedAt: "2026-09-26T20:44:17.000Z",
 } as const satisfies NumberProperty

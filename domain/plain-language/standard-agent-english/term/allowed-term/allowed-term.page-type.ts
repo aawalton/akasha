@@ -8,4 +8,6 @@ export const allowedTerm = {
   extends: ["page-type/term"],
   types: "ts",
   schema: "jsonl",
+  createdAt: "2026-09-08T16:47:00.046Z",
+  updatedAt: "2026-09-25T15:41:48.000Z",
 } as const satisfies PageType

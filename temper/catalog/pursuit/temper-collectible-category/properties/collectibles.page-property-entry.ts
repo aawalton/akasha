@@ -17,4 +17,6 @@ export const collectibles = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-02T09:14:08.782Z",
+  updatedAt: "2026-09-21T15:27:16.000Z",
 } as const satisfies PagePropertyEntry

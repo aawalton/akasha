@@ -75,4 +75,6 @@ export const stylesheet = {
   ],
   types: "ts",
   schema: "jsonl",
+  createdAt: "2026-09-01T03:26:45.937Z",
+  updatedAt: "2026-09-24T23:01:23.000Z",
 } as const satisfies PageType

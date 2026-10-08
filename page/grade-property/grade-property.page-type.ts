@@ -67,4 +67,6 @@ export const gradeProperty = {
   types: "ts",
   schema: "jsonl",
   shapes: "jsonl",
+  createdAt: "2026-09-02T20:44:59.872Z",
+  updatedAt: "2026-09-21T20:08:12.000Z",
 } as const satisfies PageType

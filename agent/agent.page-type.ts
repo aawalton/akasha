@@ -145,4 +145,6 @@ export const agent = {
   ],
   types: "ts",
   schema: "jsonl",
+  createdAt: "2026-09-02T13:38:14.675Z",
+  updatedAt: "2026-09-25T20:50:09.000Z",
 } as const satisfies PageType

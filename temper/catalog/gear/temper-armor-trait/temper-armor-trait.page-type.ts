@@ -31,4 +31,6 @@ export const temperArmorTrait = {
   types: "ts",
   schema: "jsonl",
   hashIndexed: ["hashPlace"],
+  createdAt: "2026-09-02T01:16:20.587Z",
+  updatedAt: "2026-09-27T03:41:25.000Z",
 } as const satisfies PageType

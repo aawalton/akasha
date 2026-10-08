@@ -58,4 +58,6 @@ export const appearanceExperiment = {
   ],
   types: "ts",
   schema: "jsonl",
+  createdAt: "2026-09-03T16:42:27.018Z",
+  updatedAt: "2026-09-22T10:05:53.000Z",
 } as const satisfies PageType

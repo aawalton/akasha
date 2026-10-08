@@ -67,4 +67,6 @@ export const tabooTerm = {
   ],
   types: "ts",
   schema: "jsonl",
+  createdAt: "2026-08-31T18:54:20.983Z",
+  updatedAt: "2026-09-22T14:33:10.000Z",
 } as const satisfies PageType

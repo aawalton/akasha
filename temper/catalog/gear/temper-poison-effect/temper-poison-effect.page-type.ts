@@ -15,4 +15,6 @@ export const temperPoisonEffect = {
   ],
   types: "ts",
   schema: "jsonl",
+  createdAt: "2026-09-02T01:53:02.004Z",
+  updatedAt: "2026-09-22T13:46:41.000Z",
 } as const satisfies PageType

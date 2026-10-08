@@ -8,4 +8,6 @@ export const skillPointAchievements = {
   definition: "the achievements a skill point source counts, one achievement to a line",
   properties: [{ pageProperty: "number-property/eso-achievement-id", required: true, many: false }],
   types: "ts",
+  createdAt: "2026-09-27T03:53:22.006Z",
+  updatedAt: "2026-09-27T03:53:34.000Z",
 } as const satisfies PagePropertyEntry

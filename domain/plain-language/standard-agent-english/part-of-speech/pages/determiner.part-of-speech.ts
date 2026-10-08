@@ -16,4 +16,6 @@ export const determiner = {
       statement: "`a` and `an` are one term, and which spelling is written follows the next sound.",
     },
   ],
+  createdAt: "2026-09-21T19:48:08.423Z",
+  updatedAt: "2026-09-25T15:41:48.000Z",
 } as const satisfies PartOfSpeech

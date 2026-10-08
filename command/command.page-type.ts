@@ -224,4 +224,6 @@ export const command = {
   ],
   types: "ts",
   schema: "jsonl",
+  createdAt: "2026-08-29T04:53:12.685Z",
+  updatedAt: "2026-10-02T18:39:45.000Z",
 } as const satisfies PageType

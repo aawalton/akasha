@@ -27,4 +27,6 @@ export const drive = {
   properties: [{ pageProperty: "record-property/octalysis", required: true, many: false }],
   types: "ts",
   schema: "jsonl",
+  createdAt: "2026-09-03T12:38:12.806Z",
+  updatedAt: "2026-09-22T00:11:08.000Z",
 } as const satisfies PageType

@@ -35,4 +35,6 @@ export const luaModule = {
   ],
   types: "ts",
   schema: "jsonl",
+  createdAt: "2026-09-02T03:43:06.612Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies PageType

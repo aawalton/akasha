@@ -32,4 +32,6 @@ export const modelVersion = {
   ],
   types: "ts",
   schema: "jsonl",
+  createdAt: "2026-09-24T18:40:18.413Z",
+  updatedAt: "2026-09-25T17:54:08.000Z",
 } as const satisfies PageType

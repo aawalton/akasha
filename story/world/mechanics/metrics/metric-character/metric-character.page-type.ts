@@ -17,4 +17,6 @@ export const metricCharacter = {
   ],
   types: "ts",
   schema: "jsonl",
+  createdAt: "2026-09-22T18:03:21.832Z",
+  updatedAt: "2026-09-30T10:26:37.000Z",
 } as const satisfies PageType

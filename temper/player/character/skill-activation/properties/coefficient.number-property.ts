@@ -8,4 +8,6 @@ export const coefficient = {
   definition: "the multiplier for the number an effect reads",
   max: null,
   types: "ts",
+  createdAt: "2026-09-02T01:48:48.328Z",
+  updatedAt: "2026-09-22T13:48:32.000Z",
 } as const satisfies NumberProperty

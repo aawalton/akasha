@@ -29,4 +29,6 @@ export const sync = {
   ],
   types: "ts",
   schema: "jsonl",
+  createdAt: "2026-09-03T16:59:17.001Z",
+  updatedAt: "2026-09-22T14:33:10.000Z",
 } as const satisfies PageType

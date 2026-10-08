@@ -19,4 +19,6 @@ export const graphNode = {
   ],
   types: "ts",
   schema: "jsonl",
+  createdAt: "2026-08-29T23:44:12.475Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies PageType

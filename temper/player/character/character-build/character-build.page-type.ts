@@ -56,4 +56,6 @@ export const characterBuild = {
   ],
   types: "ts",
   schema: "jsonl",
+  createdAt: "2026-09-03T16:59:23.240Z",
+  updatedAt: "2026-09-25T12:44:26.000Z",
 } as const satisfies PageType

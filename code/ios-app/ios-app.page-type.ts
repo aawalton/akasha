@@ -122,4 +122,6 @@ export const iosApp = {
   ],
   types: "ts",
   schema: "jsonl",
+  createdAt: "2026-08-31T14:02:55.139Z",
+  updatedAt: "2026-09-24T22:21:27.000Z",
 } as const satisfies PageType

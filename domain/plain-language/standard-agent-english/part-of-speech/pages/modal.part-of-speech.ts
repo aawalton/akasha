@@ -19,4 +19,6 @@ export const modal = {
       statement: "A modal carries no tense of its own, so no be-verb is written in front of one.",
     },
   ],
+  createdAt: "2026-09-22T18:46:41.244Z",
+  updatedAt: "2026-09-25T15:41:48.000Z",
 } as const satisfies PartOfSpeech

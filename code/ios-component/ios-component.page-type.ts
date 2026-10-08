@@ -71,4 +71,6 @@ export const iosComponent = {
   ],
   types: "ts",
   schema: "jsonl",
+  createdAt: "2026-08-30T20:53:16.292Z",
+  updatedAt: "2026-09-25T16:35:11.000Z",
 } as const satisfies PageType

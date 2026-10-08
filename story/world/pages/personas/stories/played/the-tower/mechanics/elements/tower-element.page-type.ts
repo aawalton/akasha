@@ -11,4 +11,6 @@ export const towerElement = {
   decisions: [],
   types: "ts",
   schema: "jsonl",
+  createdAt: "2026-09-22T18:43:15.203Z",
+  updatedAt: "2026-09-26T14:50:55.000Z",
 } as const satisfies PageType

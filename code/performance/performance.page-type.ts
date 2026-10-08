@@ -31,4 +31,6 @@ export const performance = {
   ],
   types: "ts",
   schema: "jsonl",
+  createdAt: "2026-09-09T18:55:38.514Z",
+  updatedAt: "2026-09-22T00:11:08.000Z",
 } as const satisfies PageType

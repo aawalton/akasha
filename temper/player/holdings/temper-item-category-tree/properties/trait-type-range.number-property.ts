@@ -8,4 +8,6 @@ export const traitTypeRange = {
   definition: "an end of a run of trait numbers",
   max: null,
   types: "ts",
+  createdAt: "2026-09-02T01:46:39.282Z",
+  updatedAt: "2026-09-22T10:19:09.000Z",
 } as const satisfies NumberProperty

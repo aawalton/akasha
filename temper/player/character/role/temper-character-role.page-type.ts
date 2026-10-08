@@ -17,4 +17,6 @@ export const temperCharacterRole = {
   parts: ["change-generator/role-ids-keeping", "data-table/role-ids"],
   types: "ts",
   schema: "jsonl",
+  createdAt: "2026-09-02T01:48:48.327Z",
+  updatedAt: "2026-09-27T01:49:21.000Z",
 } as const satisfies PageType

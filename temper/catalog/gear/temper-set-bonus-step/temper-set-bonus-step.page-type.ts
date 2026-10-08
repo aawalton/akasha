@@ -19,4 +19,6 @@ export const temperSetBonusStep = {
   ],
   types: "ts",
   schema: "jsonl",
+  createdAt: "2026-09-27T05:57:36.962Z",
+  updatedAt: "2026-09-27T05:57:40.000Z",
 } as const satisfies PageType

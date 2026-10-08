@@ -23,4 +23,6 @@ export const temperEsoCompanionEquipmentConstant = {
   ],
   types: "ts",
   schema: "jsonl",
+  createdAt: "2026-09-02T01:50:05.929Z",
+  updatedAt: "2026-09-25T01:30:44.000Z",
 } as const satisfies PageType

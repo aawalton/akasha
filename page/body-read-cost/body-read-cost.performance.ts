@@ -37,4 +37,6 @@ export const bodyReadCost = {
       statement: "No figure here is judged against a limit.",
     },
   ],
+  createdAt: "2026-09-15T19:52:56.957Z",
+  updatedAt: "2026-09-15T20:00:34.000Z",
 } as const satisfies Performance

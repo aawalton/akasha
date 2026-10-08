@@ -10,4 +10,6 @@ export const overwhereIiiNalaInventory = {
   trait: "overwhere-iii-trait/overwhere-iii-inventory",
   rank: 1,
   uses: 0,
+  createdAt: "2026-10-02T21:20:53.734Z",
+  updatedAt: "2026-10-02T21:20:59.000Z",
 } as const satisfies OverwhereIiiTraitHeld

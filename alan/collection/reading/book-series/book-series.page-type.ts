@@ -31,4 +31,6 @@ export const bookSeries = {
   ],
   types: "ts",
   schema: "jsonl",
+  createdAt: "2026-09-03T04:47:44.171Z",
+  updatedAt: "2026-09-25T13:02:31.000Z",
 } as const satisfies PageType

@@ -8,4 +8,6 @@ export const progressCurrent = {
   definition: "how many of the total are done so far",
   max: null,
   types: "ts",
+  createdAt: "2026-09-02T01:54:35.998Z",
+  updatedAt: "2026-09-21T15:33:05.000Z",
 } as const satisfies NumberProperty

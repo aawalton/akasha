@@ -8,4 +8,6 @@ export const esoSkillLineId = {
   definition: "the number The Elder Scrolls Online gives a skill line",
   max: null,
   types: "ts",
+  createdAt: "2026-09-02T01:45:21.026Z",
+  updatedAt: "2026-09-22T13:57:49.000Z",
 } as const satisfies NumberProperty

@@ -23,4 +23,6 @@ export const temperCadwellLevel = {
   ],
   types: "ts",
   schema: "jsonl",
+  createdAt: "2026-09-02T09:20:08.926Z",
+  updatedAt: "2026-09-22T14:05:15.000Z",
 } as const satisfies PageType

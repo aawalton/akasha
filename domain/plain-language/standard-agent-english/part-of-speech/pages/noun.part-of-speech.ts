@@ -9,4 +9,6 @@ export const noun = {
     { partOfSpeech: "part-of-speech/noun", spelling: "noun" },
     { partOfSpeech: "part-of-speech/noun", spelling: "nouns" },
   ],
+  createdAt: "2026-09-21T19:15:23.695Z",
+  updatedAt: "2026-09-25T15:41:48.000Z",
 } as const satisfies PartOfSpeech

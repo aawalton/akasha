@@ -221,4 +221,6 @@ export const index = {
   ],
   types: "ts",
   schema: "jsonl",
+  createdAt: "2026-08-29T19:15:48.879Z",
+  updatedAt: "2026-09-25T15:08:30.000Z",
 } as const satisfies PageType

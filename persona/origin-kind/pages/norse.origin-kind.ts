@@ -5,4 +5,6 @@ export const norse = {
   type: "page-type/origin-kind",
   slug: "norse",
   definition: "a name from Old Norse",
+  createdAt: "2026-08-30T15:55:09.791Z",
+  updatedAt: "2026-09-15T16:03:45.000Z",
 } as const satisfies OriginKind

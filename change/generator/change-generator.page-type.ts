@@ -37,4 +37,6 @@ export const changeGenerator = {
   types: "ts",
   schema: "jsonl",
   loadedExport: ["generateChange", "couldTurn"],
+  createdAt: "2026-09-24T19:20:10.773Z",
+  updatedAt: "2026-09-24T19:32:10.000Z",
 } as const satisfies PageType

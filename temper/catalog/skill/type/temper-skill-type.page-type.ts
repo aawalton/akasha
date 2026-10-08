@@ -19,4 +19,6 @@ export const temperSkillType = {
   parts: ["change-generator/skill-type-ids-keeping", "data-table/skill-type-ids"],
   types: "ts",
   schema: "jsonl",
+  createdAt: "2026-09-02T01:45:21.036Z",
+  updatedAt: "2026-09-27T01:57:17.000Z",
 } as const satisfies PageType

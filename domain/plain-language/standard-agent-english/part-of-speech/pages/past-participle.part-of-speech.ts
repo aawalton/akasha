@@ -21,4 +21,6 @@ export const pastParticiple = {
         "Who did the thing is left out, or is named by a preposition phrase after this word.",
     },
   ],
+  createdAt: "2026-09-22T13:31:01.919Z",
+  updatedAt: "2026-09-25T15:41:48.000Z",
 } as const satisfies PartOfSpeech

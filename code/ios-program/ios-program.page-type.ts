@@ -78,4 +78,6 @@ export const iosProgram = {
   ],
   types: "ts",
   schema: "jsonl",
+  createdAt: "2026-08-31T18:07:22.803Z",
+  updatedAt: "2026-09-24T19:10:01.000Z",
 } as const satisfies PageType

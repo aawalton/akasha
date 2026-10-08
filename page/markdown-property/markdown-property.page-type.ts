@@ -15,4 +15,6 @@ export const markdownProperty = {
   types: "ts",
   schema: "jsonl",
   shapes: "jsonl",
+  createdAt: "2026-09-21T17:11:22.010Z",
+  updatedAt: "2026-09-21T17:13:38.000Z",
 } as const satisfies PageType

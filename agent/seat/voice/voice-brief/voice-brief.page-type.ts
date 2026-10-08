@@ -23,4 +23,6 @@ export const voiceBrief = {
   ],
   types: "ts",
   schema: "jsonl",
+  createdAt: "2026-10-08T12:30:11.285Z",
+  updatedAt: "2026-10-08T12:30:19.000Z",
 } as const satisfies PageType

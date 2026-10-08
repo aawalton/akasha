@@ -27,4 +27,6 @@ export const cornerstoneDepth = {
   ],
   types: "ts",
   schema: "jsonl",
+  createdAt: "2026-09-26T18:07:09.100Z",
+  updatedAt: "2026-09-26T18:07:15.000Z",
 } as const satisfies PageType

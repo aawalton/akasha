@@ -34,4 +34,6 @@ export const movementRestriction = {
         "A restriction is deleted rather than marked over when Alan may perform the pattern again.",
     },
   ],
+  createdAt: "2026-09-19T00:12:24.282Z",
+  updatedAt: "2026-09-19T00:27:37.000Z",
 } as const satisfies PageType

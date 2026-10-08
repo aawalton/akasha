@@ -8,4 +8,6 @@ export const temperWeaponBar = {
   extends: ["page-type/temper-character-thing"],
   types: "ts",
   schema: "jsonl",
+  createdAt: "2026-09-02T01:48:48.345Z",
+  updatedAt: "2026-09-22T14:00:30.000Z",
 } as const satisfies PageType

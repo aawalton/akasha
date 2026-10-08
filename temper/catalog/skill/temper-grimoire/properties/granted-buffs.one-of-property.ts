@@ -18,4 +18,6 @@ export const grantedBuffs = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-25T12:38:30.945Z",
+  updatedAt: "2026-09-25T13:56:06.000Z",
 } as const satisfies OneOfProperty

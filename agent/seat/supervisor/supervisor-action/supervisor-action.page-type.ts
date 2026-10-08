@@ -36,4 +36,6 @@ export const supervisorAction = {
   ],
   types: "ts",
   schema: "jsonl",
+  createdAt: "2026-09-01T21:10:58.834Z",
+  updatedAt: "2026-09-25T14:00:06.000Z",
 } as const satisfies PageType

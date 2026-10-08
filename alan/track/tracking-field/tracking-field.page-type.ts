@@ -24,4 +24,6 @@ export const trackingField = {
   types: "ts",
   schema: "jsonl",
   shapes: "jsonl",
+  createdAt: "2026-09-03T16:44:01.932Z",
+  updatedAt: "2026-09-24T19:52:23.000Z",
 } as const satisfies PageType

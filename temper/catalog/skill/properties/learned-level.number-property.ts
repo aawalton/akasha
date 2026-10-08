@@ -8,4 +8,6 @@ export const learnedLevel = {
   definition: "the character level at which a skill is learned",
   max: null,
   types: "ts",
+  createdAt: "2026-09-02T01:45:21.027Z",
+  updatedAt: "2026-09-22T14:14:06.000Z",
 } as const satisfies NumberProperty

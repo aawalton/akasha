@@ -30,4 +30,6 @@ export const cornerstoneFaculty = {
   ],
   types: "ts",
   schema: "jsonl",
+  createdAt: "2026-09-26T18:04:57.339Z",
+  updatedAt: "2026-09-26T18:05:05.000Z",
 } as const satisfies PageType

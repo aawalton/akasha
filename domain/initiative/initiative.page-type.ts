@@ -75,4 +75,6 @@ export const initiative = {
   ],
   types: "ts",
   schema: "jsonl",
+  createdAt: "2026-08-29T16:26:47.477Z",
+  updatedAt: "2026-09-25T13:48:29.000Z",
 } as const satisfies PageType

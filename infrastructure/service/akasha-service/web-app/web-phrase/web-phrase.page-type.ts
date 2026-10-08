@@ -32,4 +32,6 @@ export const webPhrase = {
   ],
   types: "ts",
   schema: "jsonl",
+  createdAt: "2026-09-27T12:20:56.232Z",
+  updatedAt: "2026-09-27T14:28:40.000Z",
 } as const satisfies PageType

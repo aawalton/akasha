@@ -9,4 +9,6 @@ export const otherwhereIHospitalWing = {
   lit: false,
   place: "place/otherwhere-i-hospital-wing",
   shownTo: ["character-player/otherwhere-i-alan"],
+  createdAt: "2026-09-28T13:31:07.747Z",
+  updatedAt: "2026-09-28T23:02:42.000Z",
 } as const satisfies OtherwhereIRoom

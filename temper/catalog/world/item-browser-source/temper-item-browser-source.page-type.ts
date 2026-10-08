@@ -13,4 +13,6 @@ export const temperItemBrowserSource = {
   ],
   types: "ts",
   schema: "jsonl",
+  createdAt: "2026-09-25T18:38:39.449Z",
+  updatedAt: "2026-09-25T18:38:43.000Z",
 } as const satisfies PageType

@@ -87,4 +87,6 @@ export const carTrim = {
   ],
   types: "ts",
   schema: "jsonl",
+  createdAt: "2026-09-03T16:43:27.197Z",
+  updatedAt: "2026-09-23T14:43:15.000Z",
 } as const satisfies PageType

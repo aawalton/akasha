@@ -59,4 +59,6 @@ export const locationDeal = {
   ],
   types: "ts",
   schema: "jsonl",
+  createdAt: "2026-09-03T04:27:14.757Z",
+  updatedAt: "2026-09-24T18:02:27.000Z",
 } as const satisfies PageType

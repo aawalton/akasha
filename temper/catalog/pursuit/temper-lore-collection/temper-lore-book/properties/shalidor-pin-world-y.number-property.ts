@@ -9,4 +9,6 @@ export const shalidorPinWorldY = {
     "the height in the world a Shalidor's Library pin states, which nothing in Temper reads",
   max: null,
   types: "ts",
+  createdAt: "2026-09-24T23:57:55.490Z",
+  updatedAt: "2026-09-24T23:58:01.000Z",
 } as const satisfies NumberProperty

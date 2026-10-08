@@ -8,4 +8,6 @@ export const lineRankNeeded = {
   definition: "the skill line rank teaching a skill",
   max: null,
   types: "ts",
+  createdAt: "2026-09-02T01:45:21.028Z",
+  updatedAt: "2026-09-22T13:44:03.000Z",
 } as const satisfies NumberProperty

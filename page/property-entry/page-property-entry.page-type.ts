@@ -62,4 +62,6 @@ export const pagePropertyEntry = {
   types: "ts",
   schema: "jsonl",
   shapes: "jsonl",
+  createdAt: "2026-09-02T00:23:53.961Z",
+  updatedAt: "2026-09-25T16:40:43.000Z",
 } as const satisfies PageType

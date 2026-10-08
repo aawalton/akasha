@@ -19,4 +19,6 @@ export const temperAntiquitySet = {
   ],
   types: "ts",
   schema: "jsonl",
+  createdAt: "2026-09-24T23:40:58.933Z",
+  updatedAt: "2026-09-24T23:41:02.000Z",
 } as const satisfies PageType

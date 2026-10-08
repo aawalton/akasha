@@ -74,4 +74,6 @@ export const transactions = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-03T16:12:37.504Z",
+  updatedAt: "2026-09-21T16:39:03.000Z",
 } as const satisfies PagePropertyEntry

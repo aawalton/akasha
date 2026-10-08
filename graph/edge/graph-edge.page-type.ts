@@ -31,4 +31,6 @@ export const graphEdge = {
   ],
   types: "ts",
   schema: "jsonl",
+  createdAt: "2026-08-29T23:44:12.477Z",
+  updatedAt: "2026-09-25T16:15:07.000Z",
 } as const satisfies PageType

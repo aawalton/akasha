@@ -8,4 +8,6 @@ export const maxQuests = {
   definition: "how many quests earn a skill point from a source",
   max: null,
   types: "ts",
+  createdAt: "2026-09-02T01:48:48.344Z",
+  updatedAt: "2026-09-22T13:53:26.000Z",
 } as const satisfies NumberProperty

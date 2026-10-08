@@ -26,4 +26,6 @@ export const temperBuyAction = {
   ],
   types: "ts",
   schema: "jsonl",
+  createdAt: "2026-09-27T10:34:48.168Z",
+  updatedAt: "2026-09-27T10:34:52.000Z",
 } as const satisfies PageType

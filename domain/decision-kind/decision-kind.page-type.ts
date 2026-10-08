@@ -24,4 +24,6 @@ export const decisionKind = {
   ],
   types: "ts",
   schema: "jsonl",
+  createdAt: "2026-08-29T15:09:32.952Z",
+  updatedAt: "2026-09-22T10:11:20.000Z",
 } as const satisfies PageType

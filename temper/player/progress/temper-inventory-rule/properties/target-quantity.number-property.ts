@@ -14,4 +14,6 @@ export const targetQuantity = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-05T17:00:45.077Z",
+  updatedAt: "2026-09-22T10:11:05.000Z",
 } as const satisfies NumberProperty

@@ -40,4 +40,6 @@ export const foodEntry = {
   ],
   types: "ts",
   schema: "jsonl",
+  createdAt: "2026-09-03T05:00:04.619Z",
+  updatedAt: "2026-09-24T19:49:23.000Z",
 } as const satisfies PageType

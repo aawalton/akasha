@@ -39,4 +39,6 @@ export const memoryKind = {
   ],
   types: "ts",
   schema: "jsonl",
+  createdAt: "2026-09-11T15:54:58.340Z",
+  updatedAt: "2026-09-22T13:46:01.000Z",
 } as const satisfies PageType

@@ -38,4 +38,6 @@ export const temperCompletionCategory = {
   ],
   types: "ts",
   schema: "jsonl",
+  createdAt: "2026-09-02T01:46:29.335Z",
+  updatedAt: "2026-09-27T07:38:53.000Z",
 } as const satisfies PageType

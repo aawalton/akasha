@@ -47,4 +47,6 @@ export const notificationFeed = {
   ],
   types: "ts",
   schema: "jsonl",
+  createdAt: "2026-09-03T17:47:21.933Z",
+  updatedAt: "2026-09-24T18:02:20.000Z",
 } as const satisfies PageType

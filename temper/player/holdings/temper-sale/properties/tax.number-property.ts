@@ -8,4 +8,6 @@ export const tax = {
   definition: "what the store took out of a price",
   max: null,
   types: "ts",
+  createdAt: "2026-09-03T17:42:35.690Z",
+  updatedAt: "2026-09-21T15:34:59.000Z",
 } as const satisfies NumberProperty

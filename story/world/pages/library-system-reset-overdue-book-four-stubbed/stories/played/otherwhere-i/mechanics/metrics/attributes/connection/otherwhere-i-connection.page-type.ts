@@ -8,4 +8,6 @@ export const otherwhereIConnection = {
   extends: ["page-type/metric-character-attribute"],
   types: "ts",
   schema: "jsonl",
+  createdAt: "2026-09-27T15:01:25.060Z",
+  updatedAt: "2026-09-28T22:54:16.000Z",
 } as const satisfies PageType

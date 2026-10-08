@@ -47,4 +47,6 @@ export const color = {
   ],
   types: "ts",
   schema: "jsonl",
+  createdAt: "2026-09-03T04:10:11.497Z",
+  updatedAt: "2026-09-22T13:55:14.000Z",
 } as const satisfies PageType

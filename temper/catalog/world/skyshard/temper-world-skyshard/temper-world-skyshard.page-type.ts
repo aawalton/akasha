@@ -38,4 +38,6 @@ export const temperWorldSkyshard = {
   ],
   types: "ts",
   schema: "jsonl",
+  createdAt: "2026-09-24T23:51:03.552Z",
+  updatedAt: "2026-09-24T23:53:41.000Z",
 } as const satisfies PageType

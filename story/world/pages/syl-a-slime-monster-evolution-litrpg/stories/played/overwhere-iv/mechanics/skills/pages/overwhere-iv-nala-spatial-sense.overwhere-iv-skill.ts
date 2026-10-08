@@ -15,4 +15,6 @@ export const overwhereIvNalaSpatialSense = {
   reachPaces: 13,
   manaCost: 1,
   durationMinutes: 1,
+  createdAt: "2026-09-30T18:29:41.437Z",
+  updatedAt: "2026-10-03T13:37:54.000Z",
 } as const satisfies OverwhereIvSkill

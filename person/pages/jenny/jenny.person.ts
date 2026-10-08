@@ -14,4 +14,6 @@ export const jenny = {
   email: "smilingjenny@gmail.com",
   contributor:
     "contributor/contributor-a4695dc2334e4f3a84ac562783ff54f9955e8bbcf8ba67ac6271b6fe035eb67f",
+  createdAt: "2026-08-30T18:45:50.448Z",
+  updatedAt: "2026-09-25T12:39:29.000Z",
 } as const satisfies Person

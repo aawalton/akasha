@@ -97,4 +97,6 @@ export const strengthExercise = {
   ],
   types: "ts",
   schema: "jsonl",
+  createdAt: "2026-09-03T04:19:22.687Z",
+  updatedAt: "2026-09-22T10:06:01.000Z",
 } as const satisfies PageType

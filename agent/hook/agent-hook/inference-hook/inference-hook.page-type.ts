@@ -28,4 +28,6 @@ export const inferenceHook = {
   ],
   types: "ts",
   schema: "jsonl",
+  createdAt: "2026-08-15T17:46:25.823Z",
+  updatedAt: "2026-09-26T18:33:52.000Z",
 } as const satisfies PageType

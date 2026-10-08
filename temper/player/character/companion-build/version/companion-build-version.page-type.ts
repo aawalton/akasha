@@ -49,4 +49,6 @@ export const companionBuildVersion = {
   types: "ts",
   schema: "jsonl",
   parts: ["relation-property/companion-build-version-build"],
+  createdAt: "2026-09-25T12:43:05.652Z",
+  updatedAt: "2026-09-25T12:43:10.000Z",
 } as const satisfies PageType

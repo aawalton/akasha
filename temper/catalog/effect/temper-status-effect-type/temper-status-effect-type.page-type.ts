@@ -10,4 +10,6 @@ export const temperStatusEffectType = {
   parts: ["change-generator/status-effect-type-ids-keeping", "data-table/status-effect-type-ids"],
   types: "ts",
   schema: "jsonl",
+  createdAt: "2026-09-02T01:39:39.345Z",
+  updatedAt: "2026-09-27T02:34:37.000Z",
 } as const satisfies PageType

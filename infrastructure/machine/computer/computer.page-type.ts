@@ -66,4 +66,6 @@ export const computer = {
   ],
   types: "ts",
   schema: "jsonl",
+  createdAt: "2026-09-03T04:34:41.946Z",
+  updatedAt: "2026-09-22T10:05:52.000Z",
 } as const satisfies PageType

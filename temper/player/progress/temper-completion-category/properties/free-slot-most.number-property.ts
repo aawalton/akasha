@@ -8,4 +8,6 @@ export const freeSlotMost = {
   definition: "the most bar slots that may stand empty while a morph could fill them",
   max: null,
   types: "ts",
+  createdAt: "2026-09-27T07:38:30.898Z",
+  updatedAt: "2026-09-27T07:38:53.000Z",
 } as const satisfies NumberProperty

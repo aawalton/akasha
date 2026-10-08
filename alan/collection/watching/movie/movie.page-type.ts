@@ -28,4 +28,6 @@ export const movie = {
   ],
   types: "ts",
   schema: "jsonl",
+  createdAt: "2026-09-03T04:49:41.897Z",
+  updatedAt: "2026-09-25T12:50:49.000Z",
 } as const satisfies PageType

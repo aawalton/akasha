@@ -51,4 +51,6 @@ export const storyRecorder = {
   ],
   types: "ts",
   schema: "jsonl",
+  createdAt: "2026-09-27T00:46:49.421Z",
+  updatedAt: "2026-10-03T15:30:33.000Z",
 } as const satisfies PageType

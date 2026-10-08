@@ -28,4 +28,6 @@ export const temperConditionValue = {
   ],
   types: "ts",
   schema: "jsonl",
+  createdAt: "2026-09-27T10:36:32.807Z",
+  updatedAt: "2026-09-27T10:36:36.000Z",
 } as const satisfies PageType

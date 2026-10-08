@@ -101,4 +101,6 @@ export const runtimeError = {
   ],
   types: "ts",
   schema: "jsonl",
+  createdAt: "2026-09-01T23:13:37.759Z",
+  updatedAt: "2026-09-24T23:22:29.000Z",
 } as const satisfies PageType

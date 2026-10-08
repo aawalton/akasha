@@ -35,4 +35,6 @@ export const destinationChain = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-05T17:00:45.081Z",
+  updatedAt: "2026-09-25T13:01:32.000Z",
 } as const satisfies PagePropertyEntry

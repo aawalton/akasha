@@ -41,4 +41,6 @@ export const landingThroughput = {
       statement: "Nothing here reads the hold apart from the landing around it.",
     },
   ],
+  createdAt: "2026-09-09T18:58:25.925Z",
+  updatedAt: "2026-09-22T16:49:49.000Z",
 } as const satisfies Performance

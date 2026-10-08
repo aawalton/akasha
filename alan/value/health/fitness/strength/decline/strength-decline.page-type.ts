@@ -24,4 +24,6 @@ export const strengthDecline = {
       statement: "A decline says nothing of why Alan turned the movement down.",
     },
   ],
+  createdAt: "2026-09-19T00:42:16.919Z",
+  updatedAt: "2026-09-22T10:06:01.000Z",
 } as const satisfies PageType

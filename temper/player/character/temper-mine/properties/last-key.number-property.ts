@@ -8,4 +8,6 @@ export const lastKey = {
   definition: "the highest key a numbered file of an entry holds",
   max: null,
   types: "ts",
+  createdAt: "2026-09-25T13:53:34.572Z",
+  updatedAt: "2026-09-25T13:53:51.000Z",
 } as const satisfies NumberProperty

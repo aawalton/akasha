@@ -8,4 +8,6 @@ export const shalidorPinMapOrder = {
   definition: "where a Shalidor's Library pin sits among the pins its map lists, counted from one",
   max: null,
   types: "ts",
+  createdAt: "2026-09-24T23:57:55.490Z",
+  updatedAt: "2026-09-24T23:58:01.000Z",
 } as const satisfies NumberProperty

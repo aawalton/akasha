@@ -11,4 +11,6 @@ export const overwhereIiiNalaStaffFighting = {
   character: "character-player/overwhere-iii-nala",
   skill: "world-skill/overwhere-iii-staff-fighting",
   level: 1,
+  createdAt: "2026-10-02T15:49:37.247Z",
+  updatedAt: "2026-10-02T15:49:44.000Z",
 } as const satisfies OverwhereIiiSkill

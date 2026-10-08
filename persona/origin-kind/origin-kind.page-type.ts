@@ -19,4 +19,6 @@ export const originKind = {
   extends: ["page-type/domain"],
   types: "ts",
   schema: "jsonl",
+  createdAt: "2026-08-30T15:54:46.278Z",
+  updatedAt: "2026-09-22T14:05:26.000Z",
 } as const satisfies PageType

@@ -41,4 +41,6 @@ export const modelProvider = {
     { pageProperty: "text-property/provider-model", required: false, many: false },
   ],
   schema: "jsonl",
+  createdAt: "2026-09-14T22:29:21.144Z",
+  updatedAt: "2026-09-25T18:00:40.000Z",
 } as const satisfies PageType

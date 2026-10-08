@@ -8,4 +8,6 @@ export const versionNumber = {
   definition: "where a version falls in the run of versions of a build",
   max: null,
   types: "ts",
+  createdAt: "2026-09-03T17:42:35.690Z",
+  updatedAt: "2026-09-25T12:44:26.000Z",
 } as const satisfies NumberProperty

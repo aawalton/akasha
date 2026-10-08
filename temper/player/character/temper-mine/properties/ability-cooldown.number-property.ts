@@ -8,4 +8,6 @@ export const abilityCooldown = {
   definition: "how many seconds an item's ability waits between uses",
   max: null,
   types: "ts",
+  createdAt: "2026-09-02T01:48:48.331Z",
+  updatedAt: "2026-09-21T15:29:06.000Z",
 } as const satisfies NumberProperty

@@ -10,4 +10,6 @@ export const temperSpecialEffectType = {
   parts: ["change-generator/special-effect-type-ids-keeping", "data-table/special-effect-type-ids"],
   types: "ts",
   schema: "jsonl",
+  createdAt: "2026-09-02T01:39:39.344Z",
+  updatedAt: "2026-09-27T02:35:12.000Z",
 } as const satisfies PageType

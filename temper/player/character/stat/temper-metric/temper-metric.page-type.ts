@@ -63,4 +63,6 @@ export const temperMetric = {
   ],
   types: "ts",
   schema: "jsonl",
+  createdAt: "2026-09-26T15:43:01.841Z",
+  updatedAt: "2026-09-26T19:18:09.000Z",
 } as const satisfies PageType

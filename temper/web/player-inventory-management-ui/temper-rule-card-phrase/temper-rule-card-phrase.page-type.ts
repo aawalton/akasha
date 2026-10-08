@@ -31,4 +31,6 @@ export const temperRuleCardPhrase = {
   ],
   types: "ts",
   schema: "jsonl",
+  createdAt: "2026-09-27T10:38:53.160Z",
+  updatedAt: "2026-09-27T10:41:41.000Z",
 } as const satisfies PageType

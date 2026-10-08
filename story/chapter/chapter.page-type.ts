@@ -69,4 +69,6 @@ export const chapter = {
   ],
   types: "ts",
   schema: "jsonl",
+  createdAt: "2026-09-22T14:41:05.475Z",
+  updatedAt: "2026-10-05T20:21:37.000Z",
 } as const satisfies PageType

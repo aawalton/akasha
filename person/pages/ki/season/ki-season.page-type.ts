@@ -28,4 +28,6 @@ export const kiSeason = {
   ],
   types: "ts",
   schema: "jsonl",
+  createdAt: "2026-09-03T16:41:43.916Z",
+  updatedAt: "2026-09-22T10:09:59.000Z",
 } as const satisfies PageType

@@ -38,4 +38,6 @@ export const temperEsoCompanion = {
   types: "ts",
   schema: "jsonl",
   hashIndexed: ["hashPlace"],
+  createdAt: "2026-09-02T01:50:05.926Z",
+  updatedAt: "2026-09-27T03:32:13.000Z",
 } as const satisfies PageType

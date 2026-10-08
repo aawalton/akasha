@@ -12,4 +12,6 @@ export const conjunction = {
       statement: "A conjunction is a closed class, so the words here are nearly all there are.",
     },
   ],
+  createdAt: "2026-09-21T22:21:17.343Z",
+  updatedAt: "2026-09-25T15:41:48.000Z",
 } as const satisfies PartOfSpeech

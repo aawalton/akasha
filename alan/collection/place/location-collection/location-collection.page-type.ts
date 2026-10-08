@@ -27,4 +27,6 @@ export const locationCollection = {
   ],
   types: "ts",
   schema: "jsonl",
+  createdAt: "2026-09-03T04:32:05.934Z",
+  updatedAt: "2026-09-24T19:52:49.000Z",
 } as const satisfies PageType

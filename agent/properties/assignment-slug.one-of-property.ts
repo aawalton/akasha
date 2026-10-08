@@ -34,4 +34,6 @@ export const assignmentSlug = {
     },
   ],
   types: "ts",
+  createdAt: "2026-08-30T17:06:14.375Z",
+  updatedAt: "2026-09-28T18:10:20.000Z",
 } as const satisfies OneOfProperty

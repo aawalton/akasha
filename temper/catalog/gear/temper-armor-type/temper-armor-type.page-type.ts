@@ -21,4 +21,6 @@ export const temperArmorType = {
   ],
   types: "ts",
   schema: "jsonl",
+  createdAt: "2026-09-02T01:53:02.000Z",
+  updatedAt: "2026-09-27T05:21:39.000Z",
 } as const satisfies PageType

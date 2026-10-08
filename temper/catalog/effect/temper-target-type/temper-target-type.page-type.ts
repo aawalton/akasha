@@ -10,4 +10,6 @@ export const temperTargetType = {
   parts: ["change-generator/target-type-ids-keeping", "data-table/target-type-ids"],
   types: "ts",
   schema: "jsonl",
+  createdAt: "2026-09-02T01:39:39.346Z",
+  updatedAt: "2026-09-27T02:35:59.000Z",
 } as const satisfies PageType

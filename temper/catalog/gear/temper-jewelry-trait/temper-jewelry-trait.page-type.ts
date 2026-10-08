@@ -31,4 +31,6 @@ export const temperJewelryTrait = {
   types: "ts",
   schema: "jsonl",
   hashIndexed: ["hashPlace"],
+  createdAt: "2026-09-02T01:53:02.003Z",
+  updatedAt: "2026-09-27T03:41:25.000Z",
 } as const satisfies PageType

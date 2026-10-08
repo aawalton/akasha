@@ -55,4 +55,6 @@ export const clusterFoundation = {
       uncommitted: true,
     },
   ],
+  createdAt: "2026-09-15T16:31:06.941Z",
+  updatedAt: "2026-09-25T16:32:43.000Z",
 } as const satisfies PageType

@@ -12,4 +12,6 @@ export const david = {
   answeredBy: "persona/amy",
   phone: "+14355720344",
   email: "deggertsen@gmail.com",
+  createdAt: "2026-08-30T18:45:50.448Z",
+  updatedAt: "2026-09-24T17:45:18.000Z",
 } as const satisfies Person

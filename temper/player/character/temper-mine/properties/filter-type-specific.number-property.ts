@@ -8,4 +8,6 @@ export const filterTypeSpecific = {
   definition: "the narrower tab the game gives an item",
   max: null,
   types: "ts",
+  createdAt: "2026-09-02T01:48:48.334Z",
+  updatedAt: "2026-09-22T13:48:32.000Z",
 } as const satisfies NumberProperty

@@ -20,4 +20,6 @@ export const modelFamily = {
   properties: [{ pageProperty: "text-property/model-name", required: true, many: false }],
   types: "ts",
   schema: "jsonl",
+  createdAt: "2026-08-30T15:49:55.535Z",
+  updatedAt: "2026-09-25T17:57:17.000Z",
 } as const satisfies PageType

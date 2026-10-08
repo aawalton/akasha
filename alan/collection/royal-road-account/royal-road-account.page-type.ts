@@ -38,4 +38,6 @@ export const royalRoadAccount = {
   ],
   types: "ts",
   schema: "jsonl",
+  createdAt: "2026-09-03T17:02:35.226Z",
+  updatedAt: "2026-09-28T19:38:58.000Z",
 } as const satisfies PageType

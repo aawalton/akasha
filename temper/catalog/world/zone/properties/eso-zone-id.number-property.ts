@@ -8,4 +8,6 @@ export const esoZoneId = {
   definition: "the number the game gives a zone",
   max: null,
   types: "ts",
+  createdAt: "2026-09-02T09:15:51.578Z",
+  updatedAt: "2026-09-21T15:28:00.000Z",
 } as const satisfies NumberProperty

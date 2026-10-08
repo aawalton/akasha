@@ -24,4 +24,6 @@ export const theBeholderTier = {
   ],
   types: "ts",
   schema: "jsonl",
+  createdAt: "2026-09-26T18:15:12.774Z",
+  updatedAt: "2026-09-26T18:15:18.000Z",
 } as const satisfies PageType

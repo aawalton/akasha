@@ -11,4 +11,6 @@ export const overwhereIiNala = {
   history: "jsonl",
   displayOrder: 2,
   revealedAs: "Brimming; a well with no floor, straining downward",
+  createdAt: "2026-09-29T12:38:44.124Z",
+  updatedAt: "2026-10-03T12:59:00.000Z",
 } as const satisfies OverwhereIiReservoir

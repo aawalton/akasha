@@ -49,4 +49,6 @@ export const relationshipDeposit = {
   ],
   types: "ts",
   schema: "jsonl",
+  createdAt: "2026-09-03T04:35:40.348Z",
+  updatedAt: "2026-09-25T13:01:00.000Z",
 } as const satisfies PageType

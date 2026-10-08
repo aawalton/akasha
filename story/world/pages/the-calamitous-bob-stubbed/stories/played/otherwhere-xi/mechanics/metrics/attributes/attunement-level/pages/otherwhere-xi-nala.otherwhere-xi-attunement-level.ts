@@ -10,4 +10,6 @@ export const otherwhereXiNala = {
   maxValue: 100,
   history: "jsonl",
   unrevealed: true,
+  createdAt: "2026-09-29T00:12:54.033Z",
+  updatedAt: "2026-09-30T07:27:58.000Z",
 } as const satisfies OtherwhereXiAttunementLevel

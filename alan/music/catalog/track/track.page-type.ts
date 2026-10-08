@@ -85,4 +85,6 @@ export const track = {
   ],
   types: "ts",
   schema: "jsonl",
+  createdAt: "2026-09-15T14:31:45.918Z",
+  updatedAt: "2026-09-24T20:31:48.000Z",
 } as const satisfies PageType

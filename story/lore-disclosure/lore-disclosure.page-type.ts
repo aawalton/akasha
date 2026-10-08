@@ -20,4 +20,6 @@ export const loreDisclosure = {
   ],
   types: "ts",
   schema: "jsonl",
+  createdAt: "2026-09-24T15:47:18.213Z",
+  updatedAt: "2026-09-27T14:14:16.000Z",
 } as const satisfies PageType

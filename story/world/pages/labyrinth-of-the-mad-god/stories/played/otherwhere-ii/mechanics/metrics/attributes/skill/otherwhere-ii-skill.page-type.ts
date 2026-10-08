@@ -54,4 +54,6 @@ export const otherwhereIiSkill = {
   ],
   types: "ts",
   schema: "jsonl",
+  createdAt: "2026-09-28T20:06:00.817Z",
+  updatedAt: "2026-09-28T22:25:30.000Z",
 } as const satisfies PageType

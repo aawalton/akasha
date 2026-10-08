@@ -25,4 +25,6 @@ export const temperSkillSlot = {
   types: "ts",
   schema: "jsonl",
   hashIndexed: ["hashPlace"],
+  createdAt: "2026-09-02T01:45:21.035Z",
+  updatedAt: "2026-09-27T07:38:53.000Z",
 } as const satisfies PageType

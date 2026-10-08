@@ -50,4 +50,6 @@ export const song = {
   ],
   types: "ts",
   schema: "jsonl",
+  createdAt: "2026-09-02T13:15:58.411Z",
+  updatedAt: "2026-09-22T00:11:08.000Z",
 } as const satisfies PageType

@@ -46,4 +46,6 @@ export const personaCraftDay = {
   ],
   types: "ts",
   schema: "jsonl",
+  createdAt: "2026-09-03T03:41:16.827Z",
+  updatedAt: "2026-09-24T19:52:49.000Z",
 } as const satisfies PageType

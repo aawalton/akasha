@@ -15,4 +15,6 @@ export const overwhereIiiManaWeaver = {
   strain: 1,
   rankUses: 5,
   nodeFactor: 2,
+  createdAt: "2026-09-29T12:22:17.490Z",
+  updatedAt: "2026-09-29T12:31:25.000Z",
 } as const satisfies OverwhereIiiTrait

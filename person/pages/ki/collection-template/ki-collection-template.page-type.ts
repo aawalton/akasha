@@ -23,4 +23,6 @@ export const kiCollectionTemplate = {
   ],
   types: "ts",
   schema: "jsonl",
+  createdAt: "2026-09-03T16:41:43.916Z",
+  updatedAt: "2026-09-25T15:25:22.000Z",
 } as const satisfies PageType

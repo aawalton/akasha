@@ -7,4 +7,6 @@ export const overwhereINalaStarfallWeave = {
   character: "character-player/overwhere-i-nala",
   skill: "world-skill/overwhere-i-starfall-weave",
   level: 5,
+  createdAt: "2026-09-30T11:04:13.297Z",
+  updatedAt: "2026-09-30T20:51:42.000Z",
 } as const satisfies OverwhereISkill

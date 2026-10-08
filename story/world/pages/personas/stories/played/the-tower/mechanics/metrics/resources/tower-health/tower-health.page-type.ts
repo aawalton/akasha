@@ -8,4 +8,6 @@ export const towerHealth = {
   extends: ["page-type/metric-character-resource"],
   types: "ts",
   schema: "jsonl",
+  createdAt: "2026-09-22T15:55:49.119Z",
+  updatedAt: "2026-09-24T17:39:26.000Z",
 } as const satisfies PageType

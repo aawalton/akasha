@@ -8,4 +8,6 @@ export const towerItemAttack = {
   extends: ["page-type/metric-item"],
   types: "ts",
   schema: "jsonl",
+  createdAt: "2026-09-22T18:07:50.971Z",
+  updatedAt: "2026-09-22T18:08:05.000Z",
 } as const satisfies PageType

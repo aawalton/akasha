@@ -8,4 +8,6 @@ export const lorePinZoneY = {
   definition: "how far down its zone map a lore book's place lies, as a share of that map's height",
   max: null,
   types: "ts",
+  createdAt: "2026-09-24T23:57:55.489Z",
+  updatedAt: "2026-09-24T23:58:01.000Z",
 } as const satisfies NumberProperty

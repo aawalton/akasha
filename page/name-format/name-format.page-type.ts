@@ -67,4 +67,6 @@ export const nameFormat = {
   ],
   types: "ts",
   schema: "jsonl",
+  createdAt: "2026-08-29T18:01:53.343Z",
+  updatedAt: "2026-09-25T15:40:24.000Z",
 } as const satisfies PageType

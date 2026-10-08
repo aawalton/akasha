@@ -8,4 +8,6 @@ export const metricDivisor = {
   definition: "the rating a rated stat takes to reach one whole percent",
   max: null,
   types: "ts",
+  createdAt: "2026-09-26T15:43:01.840Z",
+  updatedAt: "2026-09-26T15:43:08.000Z",
 } as const satisfies NumberProperty

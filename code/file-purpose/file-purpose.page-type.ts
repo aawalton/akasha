@@ -31,4 +31,6 @@ export const filePurpose = {
   ],
   types: "ts",
   schema: "jsonl",
+  createdAt: "2026-09-03T17:00:31.413Z",
+  updatedAt: "2026-09-24T22:28:01.000Z",
 } as const satisfies PageType

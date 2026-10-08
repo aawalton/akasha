@@ -31,4 +31,6 @@ export const turn = {
   ],
   types: "ts",
   schema: "jsonl",
+  createdAt: "2026-09-22T16:39:25.364Z",
+  updatedAt: "2026-09-26T17:31:16.000Z",
 } as const satisfies PageType

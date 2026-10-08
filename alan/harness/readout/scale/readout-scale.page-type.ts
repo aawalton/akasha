@@ -58,4 +58,6 @@ export const readoutScale = {
   ],
   types: "ts",
   schema: "jsonl",
+  createdAt: "2026-08-30T20:05:28.031Z",
+  updatedAt: "2026-09-26T13:33:11.000Z",
 } as const satisfies PageType

@@ -22,4 +22,6 @@ export const towerOfNimueAttribute = {
   ],
   types: "ts",
   schema: "jsonl",
+  createdAt: "2026-09-26T18:10:28.628Z",
+  updatedAt: "2026-09-26T18:10:35.000Z",
 } as const satisfies PageType

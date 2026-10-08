@@ -8,4 +8,6 @@ export const otherwhereIxStatPoints = {
   extends: ["page-type/metric-character-resource"],
   types: "ts",
   schema: "jsonl",
+  createdAt: "2026-09-29T01:25:44.499Z",
+  updatedAt: "2026-09-29T01:25:49.000Z",
 } as const satisfies PageType

@@ -52,4 +52,6 @@ export const builtImage = {
   ],
   types: "ts",
   schema: "jsonl",
+  createdAt: "2026-09-08T15:12:19.468Z",
+  updatedAt: "2026-09-24T22:19:44.000Z",
 } as const satisfies PageType

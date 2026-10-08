@@ -8,4 +8,6 @@ export const dungeonQuestId = {
   definition: "the game's number for the quest a dungeon hands a skill point for",
   max: null,
   types: "ts",
+  createdAt: "2026-09-27T03:53:22.005Z",
+  updatedAt: "2026-09-27T03:53:34.000Z",
 } as const satisfies NumberProperty

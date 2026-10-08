@@ -6,4 +6,6 @@ export const anonymous = {
   slug: "anonymous",
   definition: "the reader nobody signed in as",
   answeredBy: "persona/claude",
+  createdAt: "2026-09-21T17:03:41.604Z",
+  updatedAt: "2026-09-21T17:04:47.000Z",
 } as const satisfies Person

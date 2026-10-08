@@ -9,4 +9,6 @@ export const towerItemDamage = {
   extends: ["page-type/metric-item"],
   types: "ts",
   schema: "jsonl",
+  createdAt: "2026-09-24T14:39:41.200Z",
+  updatedAt: "2026-09-24T14:39:50.000Z",
 } as const satisfies PageType

@@ -9,4 +9,6 @@ export const overwhereIvNalaSkill = {
   minValue: 0,
   history: "jsonl",
   unrevealed: true,
+  createdAt: "2026-09-30T19:36:51.699Z",
+  updatedAt: "2026-10-02T22:39:42.000Z",
 } as const satisfies OverwhereIvPoints

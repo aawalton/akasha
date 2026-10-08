@@ -16,4 +16,6 @@ export const beVerb = {
         "A form of be with no past participle after it does another job, named on no page yet.",
     },
   ],
+  createdAt: "2026-09-22T15:01:13.193Z",
+  updatedAt: "2026-09-25T15:41:48.000Z",
 } as const satisfies PartOfSpeech

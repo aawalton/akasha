@@ -11,4 +11,6 @@ export const otherwhereIiNalaForaging = {
   minValue: 0,
   maxValue: 10,
   history: "jsonl",
+  createdAt: "2026-09-28T20:06:29.351Z",
+  updatedAt: "2026-09-28T22:40:45.000Z",
 } as const satisfies OtherwhereIiSkill

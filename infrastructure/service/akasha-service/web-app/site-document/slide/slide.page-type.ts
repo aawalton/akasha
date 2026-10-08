@@ -47,4 +47,6 @@ export const slide = {
   ],
   types: "ts",
   schema: "jsonl",
+  createdAt: "2026-09-25T01:16:13.411Z",
+  updatedAt: "2026-09-25T12:56:26.000Z",
 } as const satisfies PageType

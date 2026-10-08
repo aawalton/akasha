@@ -21,4 +21,6 @@ export const inPage = {
       statement: "An address of this kind names no page type.",
     },
   ],
+  createdAt: "2026-09-05T19:48:59.326Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies PageAddressKind

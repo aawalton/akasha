@@ -18,4 +18,6 @@ export const temperLocationType = {
   ],
   types: "ts",
   schema: "jsonl",
+  createdAt: "2026-09-02T01:38:27.087Z",
+  updatedAt: "2026-09-27T09:56:19.000Z",
 } as const satisfies PageType

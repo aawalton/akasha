@@ -27,4 +27,6 @@ export const contributionPointTransactions = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-19T16:48:39.570Z",
+  updatedAt: "2026-09-19T16:49:44.000Z",
 } as const satisfies PagePropertyEntry

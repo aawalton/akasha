@@ -236,4 +236,6 @@ export const day = {
   ],
   types: "ts",
   schema: "jsonl",
+  createdAt: "2026-09-02T02:00:36.367Z",
+  updatedAt: "2026-09-25T15:33:42.000Z",
 } as const satisfies PageType

@@ -5,4 +5,6 @@ export const above = {
   type: "page-type/panel-place",
   slug: "above",
   definition: "over the run, across the whole width",
+  createdAt: "2026-09-21T16:29:00.603Z",
+  updatedAt: "2026-09-26T17:41:29.000Z",
 } as const satisfies PanelPlace

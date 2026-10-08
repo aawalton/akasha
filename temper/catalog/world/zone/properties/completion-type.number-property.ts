@@ -8,4 +8,6 @@ export const completionType = {
   definition: "the number the game gives a kind of completion activity",
   max: null,
   types: "ts",
+  createdAt: "2026-09-02T09:15:51.579Z",
+  updatedAt: "2026-09-21T15:28:00.000Z",
 } as const satisfies NumberProperty

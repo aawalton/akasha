@@ -37,4 +37,6 @@ export const temperChampionStar = {
   types: "ts",
   schema: "jsonl",
   hashIndexed: ["hashPlace"],
+  createdAt: "2026-09-27T04:53:17.836Z",
+  updatedAt: "2026-09-27T04:53:21.000Z",
 } as const satisfies PageType

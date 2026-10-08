@@ -8,4 +8,6 @@ export const esoRaceId = {
   definition: "a race's number in The Elder Scrolls Online",
   max: null,
   types: "ts",
+  createdAt: "2026-09-02T01:38:27.090Z",
+  updatedAt: "2026-09-22T13:44:03.000Z",
 } as const satisfies NumberProperty

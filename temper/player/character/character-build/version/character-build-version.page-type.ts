@@ -60,4 +60,6 @@ export const characterBuildVersion = {
   ],
   types: "ts",
   schema: "jsonl",
+  createdAt: "2026-04-23T17:38:51.456Z",
+  updatedAt: "2026-09-25T12:49:41.000Z",
 } as const satisfies PageType

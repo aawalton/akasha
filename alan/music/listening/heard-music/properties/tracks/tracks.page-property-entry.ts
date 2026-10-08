@@ -41,4 +41,6 @@ export const tracks = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-02T13:12:49.935Z",
+  updatedAt: "2026-09-22T19:41:38.000Z",
 } as const satisfies PagePropertyEntry

@@ -19,4 +19,6 @@ export const repo = {
   ],
   types: "ts",
   schema: "jsonl",
+  createdAt: "2026-09-03T16:59:17.001Z",
+  updatedAt: "2026-09-22T10:13:52.000Z",
 } as const satisfies PageType

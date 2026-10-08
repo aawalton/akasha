@@ -46,4 +46,6 @@ export const readoutGroup = {
   ],
   types: "ts",
   schema: "jsonl",
+  createdAt: "2026-08-30T20:05:28.030Z",
+  updatedAt: "2026-09-25T17:02:42.000Z",
 } as const satisfies PageType

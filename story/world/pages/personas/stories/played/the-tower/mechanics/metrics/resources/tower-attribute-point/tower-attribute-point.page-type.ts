@@ -8,4 +8,6 @@ export const towerAttributePoint = {
   extends: ["page-type/metric-character-resource"],
   types: "ts",
   schema: "jsonl",
+  createdAt: "2026-09-22T17:30:00.702Z",
+  updatedAt: "2026-09-22T18:06:44.000Z",
 } as const satisfies PageType

@@ -34,4 +34,6 @@ export const temperCollectibleCategory = {
   ],
   types: "ts",
   schema: "jsonl",
+  createdAt: "2026-09-02T09:14:08.782Z",
+  updatedAt: "2026-09-27T03:05:59.000Z",
 } as const satisfies PageType

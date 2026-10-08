@@ -8,4 +8,6 @@ export const esoItemTypeNumber = {
   definition: "the number The Elder Scrolls Online gives a sort of item",
   max: null,
   types: "ts",
+  createdAt: "2026-09-27T04:04:16.288Z",
+  updatedAt: "2026-09-27T04:04:20.000Z",
 } as const satisfies NumberProperty

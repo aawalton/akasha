@@ -54,5 +54,6 @@ export const selectionPolicy = {
   ],
   types: "ts",
   schema: "jsonl",
-  updatedAt: "2026-10-08T15:26:31.555Z",
+  updatedAt: "2026-10-08T16:02:40.678Z",
+  createdAt: "2026-09-03T17:02:07.005Z",
 } as const satisfies PageType

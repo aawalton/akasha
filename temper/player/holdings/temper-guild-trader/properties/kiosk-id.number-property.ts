@@ -8,4 +8,6 @@ export const kioskId = {
   definition: "the number The Elder Scrolls Online gives a trading kiosk",
   max: null,
   types: "ts",
+  createdAt: "2026-09-02T01:46:39.276Z",
+  updatedAt: "2026-09-21T15:34:59.000Z",
 } as const satisfies NumberProperty

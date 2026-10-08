@@ -11,4 +11,6 @@ export const passiveEffects = {
     { pageProperty: "number-property/effect-value", required: true, many: false },
   ],
   types: "ts",
+  createdAt: "2026-09-02T01:50:05.929Z",
+  updatedAt: "2026-09-24T14:30:29.000Z",
 } as const satisfies PagePropertyEntry

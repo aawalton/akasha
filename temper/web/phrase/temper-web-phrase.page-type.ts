@@ -32,4 +32,6 @@ export const temperWebPhrase = {
   ],
   types: "ts",
   schema: "jsonl",
+  createdAt: "2026-09-27T11:21:41.337Z",
+  updatedAt: "2026-09-27T12:10:30.000Z",
 } as const satisfies PageType

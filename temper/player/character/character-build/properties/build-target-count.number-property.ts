@@ -8,4 +8,6 @@ export const buildTargetCount = {
   definition: "how many characters are aimed at this build",
   max: null,
   types: "ts",
+  createdAt: "2026-09-03T17:48:18.542Z",
+  updatedAt: "2026-09-21T15:29:06.000Z",
 } as const satisfies NumberProperty

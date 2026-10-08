@@ -16,4 +16,6 @@ export const readings = {
     { pageProperty: "number-property/excluded-guild-bank-value", required: false, many: false },
   ],
   types: "ts",
+  createdAt: "2026-09-02T02:50:06.542Z",
+  updatedAt: "2026-09-24T16:26:32.000Z",
 } as const satisfies PagePropertyEntry

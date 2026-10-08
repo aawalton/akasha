@@ -60,4 +60,6 @@ export const playedPanel = {
     { pageProperty: "relation-property/drawn-in", required: true, many: false },
     { pageProperty: "number-property/panel-position", required: true, many: false },
   ],
+  createdAt: "2026-09-21T15:38:28.999Z",
+  updatedAt: "2026-10-03T21:26:57.000Z",
 } as const satisfies PageType

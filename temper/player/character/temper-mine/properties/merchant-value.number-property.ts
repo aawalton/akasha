@@ -8,4 +8,6 @@ export const merchantValue = {
   definition: "what a merchant pays for an item",
   max: null,
   types: "ts",
+  createdAt: "2026-09-02T01:48:48.337Z",
+  updatedAt: "2026-09-22T10:19:25.000Z",
 } as const satisfies NumberProperty

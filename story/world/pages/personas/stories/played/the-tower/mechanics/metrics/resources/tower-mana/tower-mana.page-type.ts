@@ -8,4 +8,6 @@ export const towerMana = {
   extends: ["page-type/metric-character-resource"],
   types: "ts",
   schema: "jsonl",
+  createdAt: "2026-09-22T15:56:00.346Z",
+  updatedAt: "2026-09-22T18:06:44.000Z",
 } as const satisfies PageType

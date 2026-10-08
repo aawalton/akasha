@@ -10,4 +10,6 @@ export const overwhereIvNalaBruised = {
     "A deep bruise high on the left shoulder, where a sling stone struck; it aches when the arm is lifted.",
   character: "character-player/overwhere-iv-nala",
   condition: "world-condition/overwhere-iv-bruised",
+  createdAt: "2026-10-03T13:30:12.041Z",
+  updatedAt: "2026-10-03T13:30:18.000Z",
 } as const satisfies OverwhereIvConditionHeld

@@ -72,4 +72,6 @@ export const identityStatement = {
   ],
   types: "ts",
   schema: "jsonl",
+  createdAt: "2026-09-03T04:32:47.519Z",
+  updatedAt: "2026-09-22T13:59:42.000Z",
 } as const satisfies PageType

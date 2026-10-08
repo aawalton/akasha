@@ -39,4 +39,6 @@ export const contributor = {
   ],
   types: "ts",
   schema: "jsonl",
+  createdAt: "2026-09-19T16:46:55.110Z",
+  updatedAt: "2026-09-22T00:11:08.000Z",
 } as const satisfies PageType

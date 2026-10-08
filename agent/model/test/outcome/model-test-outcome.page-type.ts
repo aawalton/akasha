@@ -29,4 +29,6 @@ export const modelTestOutcome = {
   ],
   types: "ts",
   schema: "jsonl",
+  createdAt: "2026-08-31T18:12:19.894Z",
+  updatedAt: "2026-09-25T18:06:01.000Z",
 } as const satisfies PageType

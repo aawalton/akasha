@@ -11,4 +11,6 @@ export const overwhereIiiNalaBraidWeaving = {
   character: "character-player/overwhere-iii-nala",
   skill: "world-skill/overwhere-iii-braid-weaving",
   level: 1,
+  createdAt: "2026-10-02T18:30:49.542Z",
+  updatedAt: "2026-10-02T18:30:53.000Z",
 } as const satisfies OverwhereIiiSkill

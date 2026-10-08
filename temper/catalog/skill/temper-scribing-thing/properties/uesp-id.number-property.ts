@@ -8,4 +8,6 @@ export const uespId = {
   definition: "the number UESP gives a thing",
   max: null,
   types: "ts",
+  createdAt: "2026-09-02T01:45:21.032Z",
+  updatedAt: "2026-09-22T13:57:49.000Z",
 } as const satisfies NumberProperty

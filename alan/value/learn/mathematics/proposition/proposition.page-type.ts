@@ -39,4 +39,6 @@ export const proposition = {
   ],
   types: "ts",
   schema: "jsonl",
+  createdAt: "2026-09-03T04:10:11.499Z",
+  updatedAt: "2026-09-22T10:05:47.000Z",
 } as const satisfies PageType

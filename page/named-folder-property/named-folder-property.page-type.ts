@@ -55,4 +55,6 @@ export const namedFolderProperty = {
   types: "ts",
   schema: "jsonl",
   shapes: "jsonl",
+  createdAt: "2026-09-08T16:14:20.544Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies PageType

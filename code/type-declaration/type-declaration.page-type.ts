@@ -56,4 +56,6 @@ export const typeDeclaration = {
   ],
   types: "ts",
   schema: "jsonl",
+  createdAt: "2026-09-02T04:22:25.268Z",
+  updatedAt: "2026-09-22T13:48:28.000Z",
 } as const satisfies PageType

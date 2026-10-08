@@ -10,4 +10,6 @@ export const overwhereIiiNala = {
   history: "jsonl",
   displayOrder: 5,
   unrevealed: false,
+  createdAt: "2026-09-29T12:33:44.443Z",
+  updatedAt: "2026-10-03T12:27:09.000Z",
 } as const satisfies OverwhereIiiBlightstones

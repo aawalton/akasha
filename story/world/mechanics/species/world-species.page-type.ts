@@ -11,4 +11,6 @@ export const worldSpecies = {
   runsTabooCheck: false,
   types: "ts",
   schema: "jsonl",
+  createdAt: "2026-09-03T03:38:24.529Z",
+  updatedAt: "2026-09-30T11:32:37.000Z",
 } as const satisfies PageType

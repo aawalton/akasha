@@ -30,4 +30,6 @@ export const climbFloor = {
   ],
   types: "ts",
   schema: "jsonl",
+  createdAt: "2026-10-01T21:16:56.845Z",
+  updatedAt: "2026-10-01T21:17:02.000Z",
 } as const satisfies PageType

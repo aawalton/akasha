@@ -67,4 +67,6 @@ export const nav = {
   ],
   types: "ts",
   schema: "jsonl",
+  createdAt: "2026-09-03T16:16:07.168Z",
+  updatedAt: "2026-09-25T15:24:09.000Z",
 } as const satisfies PageType

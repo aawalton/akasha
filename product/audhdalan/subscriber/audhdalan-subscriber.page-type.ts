@@ -31,4 +31,6 @@ export const audhdalanSubscriber = {
   ],
   types: "ts",
   schema: "jsonl",
+  createdAt: "2026-05-14T15:00:44.107Z",
+  updatedAt: "2026-09-24T23:17:22.000Z",
 } as const satisfies PageType

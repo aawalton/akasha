@@ -287,4 +287,6 @@ export const folderShape = {
   ],
   types: "ts",
   schema: "jsonl",
+  createdAt: "2026-08-29T15:47:02.400Z",
+  updatedAt: "2026-09-24T16:55:49.000Z",
 } as const satisfies PageType

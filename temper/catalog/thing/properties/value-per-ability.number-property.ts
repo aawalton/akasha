@@ -8,4 +8,6 @@ export const valuePerAbility = {
   definition: "what a slotted ability adds to the metric an effect moves",
   max: null,
   types: "ts",
+  createdAt: "2026-09-02T02:09:04.553Z",
+  updatedAt: "2026-09-22T10:05:54.000Z",
 } as const satisfies NumberProperty

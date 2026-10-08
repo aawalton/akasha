@@ -11,4 +11,6 @@ export const overwhereIiiNalaHolyWard = {
   character: "character-player/overwhere-iii-nala",
   skill: "world-skill/overwhere-iii-holy-ward",
   level: 1,
+  createdAt: "2026-10-03T12:44:04.142Z",
+  updatedAt: "2026-10-03T12:44:18.000Z",
 } as const satisfies OverwhereIiiSkill

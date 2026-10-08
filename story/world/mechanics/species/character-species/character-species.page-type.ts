@@ -28,4 +28,6 @@ export const characterSpecies = {
   ],
   types: "ts",
   schema: "jsonl",
+  createdAt: "2026-09-30T11:21:05.278Z",
+  updatedAt: "2026-09-30T11:21:11.000Z",
 } as const satisfies PageType

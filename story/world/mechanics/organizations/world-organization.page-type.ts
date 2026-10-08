@@ -10,4 +10,6 @@ export const worldOrganization = {
   runsTabooCheck: false,
   types: "ts",
   schema: "jsonl",
+  createdAt: "2026-09-26T17:30:31.200Z",
+  updatedAt: "2026-09-26T17:30:35.000Z",
 } as const satisfies PageType

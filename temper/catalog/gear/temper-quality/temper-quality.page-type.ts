@@ -44,4 +44,6 @@ export const temperQuality = {
   types: "ts",
   schema: "jsonl",
   hashIndexed: ["hashPlace"],
+  createdAt: "2026-09-02T01:53:02.015Z",
+  updatedAt: "2026-09-27T06:59:03.000Z",
 } as const satisfies PageType

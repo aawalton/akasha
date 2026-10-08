@@ -18,4 +18,6 @@ export const temperLoreCategory = {
   ],
   types: "ts",
   schema: "jsonl",
+  createdAt: "2026-09-27T09:58:53.300Z",
+  updatedAt: "2026-09-27T09:58:57.000Z",
 } as const satisfies PageType

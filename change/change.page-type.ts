@@ -176,4 +176,6 @@ export const change = {
   ],
   types: "ts",
   schema: "jsonl",
+  createdAt: "2026-09-01T17:08:48.353Z",
+  updatedAt: "2026-09-30T11:38:06.000Z",
 } as const satisfies PageType

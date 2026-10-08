@@ -25,4 +25,6 @@ export const preposition = {
       statement: "A clause closing with a preposition is restated, most often as a possessive.",
     },
   ],
+  createdAt: "2026-09-21T20:01:15.917Z",
+  updatedAt: "2026-09-25T15:41:48.000Z",
 } as const satisfies PartOfSpeech

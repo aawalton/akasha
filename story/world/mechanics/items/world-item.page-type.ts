@@ -22,4 +22,6 @@ export const worldItem = {
   ],
   types: "ts",
   schema: "jsonl",
+  createdAt: "2026-09-03T03:38:24.529Z",
+  updatedAt: "2026-09-26T17:47:23.000Z",
 } as const satisfies PageType

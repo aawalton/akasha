@@ -12,4 +12,6 @@ export const otherwhereXiNalaLambing = {
   rank: "Novice",
   level: 1,
   unrevealed: true,
+  createdAt: "2026-09-29T02:23:06.220Z",
+  updatedAt: "2026-09-30T07:31:27.000Z",
 } as const satisfies OtherwhereXiSkill

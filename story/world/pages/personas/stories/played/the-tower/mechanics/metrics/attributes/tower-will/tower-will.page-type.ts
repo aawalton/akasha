@@ -8,4 +8,6 @@ export const towerWill = {
   extends: ["page-type/tower-attribute"],
   types: "ts",
   schema: "jsonl",
+  createdAt: "2026-09-22T16:34:38.154Z",
+  updatedAt: "2026-09-22T17:26:24.000Z",
 } as const satisfies PageType

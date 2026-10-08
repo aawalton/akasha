@@ -32,4 +32,6 @@ export const otherwhereIvCultivationStage = {
   ],
   types: "ts",
   schema: "jsonl",
+  createdAt: "2026-09-28T21:49:20.030Z",
+  updatedAt: "2026-09-28T21:49:26.000Z",
 } as const satisfies PageType

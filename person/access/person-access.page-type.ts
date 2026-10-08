@@ -35,4 +35,6 @@ export const personAccess = {
   ],
   types: "ts",
   schema: "jsonl",
+  createdAt: "2026-08-30T19:21:41.841Z",
+  updatedAt: "2026-09-22T14:33:10.000Z",
 } as const satisfies PageType

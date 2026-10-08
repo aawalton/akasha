@@ -28,4 +28,6 @@ export const changeMode = {
   ],
   types: "ts",
   schema: "jsonl",
+  createdAt: "2026-09-07T13:52:21.729Z",
+  updatedAt: "2026-09-22T10:07:43.000Z",
 } as const satisfies PageType

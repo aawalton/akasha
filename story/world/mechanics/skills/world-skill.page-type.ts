@@ -32,4 +32,6 @@ export const worldSkill = {
     { pageProperty: "number-property/skill-mana-cost", required: false, many: false },
     { pageProperty: "number-property/skill-duration-minutes", required: false, many: false },
   ],
+  createdAt: "2026-09-03T03:38:24.529Z",
+  updatedAt: "2026-10-03T20:08:45.000Z",
 } as const satisfies PageType

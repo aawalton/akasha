@@ -19,4 +19,6 @@ export const seatMode = {
   ],
   types: "ts",
   schema: "jsonl",
+  createdAt: "2026-09-24T19:06:06.978Z",
+  updatedAt: "2026-09-25T17:51:37.000Z",
 } as const satisfies PageType

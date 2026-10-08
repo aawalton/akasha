@@ -8,4 +8,6 @@ export const replacementValue = {
   definition: "what buying an item again would cost in gold",
   max: null,
   types: "ts",
+  createdAt: "2026-09-02T04:14:53.313Z",
+  updatedAt: "2026-09-21T15:29:06.000Z",
 } as const satisfies NumberProperty

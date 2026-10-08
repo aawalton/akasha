@@ -8,4 +8,6 @@ export const valuePerPiece = {
   definition: "what a piece of armor adds to the metric an effect moves",
   max: null,
   types: "ts",
+  createdAt: "2026-09-02T02:09:04.552Z",
+  updatedAt: "2026-09-22T10:08:29.000Z",
 } as const satisfies NumberProperty

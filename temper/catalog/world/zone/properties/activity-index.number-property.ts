@@ -8,4 +8,6 @@ export const activityIndex = {
   definition: "where an activity falls among the activities of a completion type",
   max: null,
   types: "ts",
+  createdAt: "2026-09-02T09:15:51.579Z",
+  updatedAt: "2026-09-22T10:13:14.000Z",
 } as const satisfies NumberProperty

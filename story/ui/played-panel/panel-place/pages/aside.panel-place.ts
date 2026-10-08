@@ -5,4 +5,6 @@ export const aside = {
   type: "page-type/panel-place",
   slug: "aside",
   definition: "in the column beside the run",
+  createdAt: "2026-09-21T16:29:05.339Z",
+  updatedAt: "2026-09-26T17:41:29.000Z",
 } as const satisfies PanelPlace

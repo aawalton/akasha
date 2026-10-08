@@ -8,4 +8,6 @@ export const itemBrowserSourceId = {
   definition: "the number below zero the item browser writes a source as among a set's places",
   max: -1,
   types: "ts",
+  createdAt: "2026-09-25T18:38:39.448Z",
+  updatedAt: "2026-09-25T18:38:43.000Z",
 } as const satisfies NumberProperty

@@ -9,4 +9,6 @@ export const otherwhereViiiNala = {
   minValue: 0,
   history: "jsonl",
   unrevealed: true,
+  createdAt: "2026-09-28T23:06:09.154Z",
+  updatedAt: "2026-09-30T07:27:58.000Z",
 } as const satisfies OtherwhereViiiControl

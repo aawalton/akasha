@@ -62,4 +62,6 @@ export const overwhereIvSkill = {
   ],
   types: "ts",
   schema: "jsonl",
+  createdAt: "2026-09-29T12:19:31.692Z",
+  updatedAt: "2026-10-02T18:03:09.000Z",
 } as const satisfies PageType

@@ -24,4 +24,6 @@ export const carYear = {
   ],
   types: "ts",
   schema: "jsonl",
+  createdAt: "2026-09-03T04:53:12.370Z",
+  updatedAt: "2026-09-22T00:50:00.000Z",
 } as const satisfies PageType

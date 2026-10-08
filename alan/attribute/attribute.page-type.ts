@@ -65,4 +65,6 @@ export const attribute = {
   ],
   types: "ts",
   schema: "jsonl",
+  createdAt: "2026-09-03T17:12:06.653Z",
+  updatedAt: "2026-09-22T00:11:08.000Z",
 } as const satisfies PageType

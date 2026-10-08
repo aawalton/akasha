@@ -8,4 +8,6 @@ export const theBeholderVitality = {
   extends: ["page-type/the-beholder-attribute"],
   types: "ts",
   schema: "jsonl",
+  createdAt: "2026-09-26T18:13:53.365Z",
+  updatedAt: "2026-09-26T18:13:58.000Z",
 } as const satisfies PageType

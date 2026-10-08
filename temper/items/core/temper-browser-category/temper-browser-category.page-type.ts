@@ -66,4 +66,6 @@ export const temperBrowserCategory = {
   ],
   types: "ts",
   schema: "jsonl",
+  createdAt: "2026-09-27T04:05:44.998Z",
+  updatedAt: "2026-09-27T04:48:41.000Z",
 } as const satisfies PageType

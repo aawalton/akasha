@@ -88,4 +88,6 @@ export const temperCompanionSkill = {
   types: "ts",
   schema: "jsonl",
   hashIndexed: ["slug"],
+  createdAt: "2026-09-02T01:50:33.724Z",
+  updatedAt: "2026-09-24T23:36:32.000Z",
 } as const satisfies PageType

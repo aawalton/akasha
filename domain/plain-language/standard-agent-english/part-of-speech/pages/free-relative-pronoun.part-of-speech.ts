@@ -23,4 +23,6 @@ export const freeRelativePronoun = {
       statement: "A word here written before an adjective does another job, named on no page yet.",
     },
   ],
+  createdAt: "2026-09-22T00:38:12.293Z",
+  updatedAt: "2026-09-25T15:41:48.000Z",
 } as const satisfies PartOfSpeech

@@ -5,4 +5,6 @@ export const negator = {
   type: "page-type/part-of-speech",
   slug: "negator",
   definition: "a word that turns what follows it into its opposite",
+  createdAt: "2026-09-25T17:05:54.866Z",
+  updatedAt: "2026-09-25T17:05:59.000Z",
 } as const satisfies PartOfSpeech

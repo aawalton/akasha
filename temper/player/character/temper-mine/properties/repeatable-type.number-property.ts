@@ -8,4 +8,6 @@ export const repeatableType = {
   definition: "how often a quest may be taken again",
   max: null,
   types: "ts",
+  createdAt: "2026-09-02T01:48:48.339Z",
+  updatedAt: "2026-09-21T15:29:06.000Z",
 } as const satisfies NumberProperty

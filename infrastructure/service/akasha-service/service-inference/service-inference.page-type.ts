@@ -72,4 +72,6 @@ export const serviceInference = {
   ],
   types: "ts",
   schema: "jsonl",
+  createdAt: "2026-09-11T13:12:22.959Z",
+  updatedAt: "2026-09-25T16:44:18.000Z",
 } as const satisfies PageType

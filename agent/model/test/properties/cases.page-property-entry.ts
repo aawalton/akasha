@@ -20,4 +20,6 @@ export const cases = {
     { pageProperty: "text-property/case-against", required: false, many: false },
   ],
   types: "ts",
+  createdAt: "2026-08-30T18:25:32.453Z",
+  updatedAt: "2026-09-25T18:02:21.000Z",
 } as const satisfies PagePropertyEntry

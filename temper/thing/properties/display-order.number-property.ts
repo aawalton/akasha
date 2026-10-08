@@ -8,4 +8,6 @@ export const displayOrder = {
   definition: "where a thing falls among its siblings when the siblings are shown",
   max: null,
   types: "ts",
+  createdAt: "2026-09-02T01:12:12.932Z",
+  updatedAt: "2026-09-15T16:00:38.000Z",
 } as const satisfies NumberProperty

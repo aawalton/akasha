@@ -24,4 +24,6 @@ export const collectionType = {
   ],
   types: "ts",
   schema: "jsonl",
+  createdAt: "2026-09-03T16:17:17.056Z",
+  updatedAt: "2026-09-24T19:56:18.000Z",
 } as const satisfies PageType

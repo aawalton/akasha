@@ -33,4 +33,6 @@ export const temperCompletionOverride = {
   ],
   types: "ts",
   schema: "jsonl",
+  createdAt: "2026-09-02T01:51:17.159Z",
+  updatedAt: "2026-09-24T16:26:32.000Z",
 } as const satisfies PageType

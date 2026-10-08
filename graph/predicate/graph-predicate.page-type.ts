@@ -39,4 +39,6 @@ export const graphPredicate = {
   ],
   types: "ts",
   schema: "jsonl",
+  createdAt: "2026-09-15T15:41:02.257Z",
+  updatedAt: "2026-09-22T13:55:32.000Z",
 } as const satisfies PageType

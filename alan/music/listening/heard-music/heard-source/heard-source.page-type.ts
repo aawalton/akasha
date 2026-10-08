@@ -13,4 +13,6 @@ export const heardSource = {
   extends: ["page-type/domain"],
   types: "ts",
   schema: "jsonl",
+  createdAt: "2026-09-22T19:38:45.313Z",
+  updatedAt: "2026-09-22T19:39:04.000Z",
 } as const satisfies PageType

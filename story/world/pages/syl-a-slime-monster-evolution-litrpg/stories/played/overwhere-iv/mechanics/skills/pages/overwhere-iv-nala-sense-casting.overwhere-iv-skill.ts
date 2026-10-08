@@ -11,4 +11,6 @@ export const overwhereIvNalaSenseCasting = {
   skill: "world-skill/overwhere-iv-sense-casting",
   level: 2,
   uses: 1,
+  createdAt: "2026-10-02T18:05:18.515Z",
+  updatedAt: "2026-10-03T01:46:23.000Z",
 } as const satisfies OverwhereIvSkill

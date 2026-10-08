@@ -19,4 +19,6 @@ export const mechanicReadings = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-02T20:27:45.046Z",
+  updatedAt: "2026-09-22T18:51:19.000Z",
 } as const satisfies PagePropertyEntry

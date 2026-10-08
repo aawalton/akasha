@@ -36,4 +36,6 @@ export const worldMetric = {
   ],
   types: "ts",
   schema: "jsonl",
+  createdAt: "2026-09-22T16:52:19.079Z",
+  updatedAt: "2026-09-30T10:02:57.000Z",
 } as const satisfies PageType

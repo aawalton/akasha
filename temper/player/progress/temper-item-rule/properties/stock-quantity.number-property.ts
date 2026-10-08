@@ -8,4 +8,6 @@ export const stockQuantity = {
   definition: "how many of its item a stocking rule keeps",
   max: null,
   types: "ts",
+  createdAt: "2026-09-25T13:31:40.585Z",
+  updatedAt: "2026-09-25T13:31:45.000Z",
 } as const satisfies NumberProperty

@@ -27,4 +27,6 @@ export const temperArmorEnchant = {
   types: "ts",
   schema: "jsonl",
   hashIndexed: ["hashPlace"],
+  createdAt: "2026-09-02T01:53:01.998Z",
+  updatedAt: "2026-09-27T04:03:27.000Z",
 } as const satisfies PageType

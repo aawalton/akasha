@@ -8,4 +8,6 @@ export const morphRankMost = {
   definition: "the highest rank a skill, or either of its morphs, counts for under the category",
   max: null,
   types: "ts",
+  createdAt: "2026-09-27T07:07:27.312Z",
+  updatedAt: "2026-09-27T07:07:35.000Z",
 } as const satisfies NumberProperty

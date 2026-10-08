@@ -9,4 +9,6 @@ export const shalidorPinLocationDetails = {
     "the notes the LoreBooks add-on shows beside a Shalidor's Library pin, by each note's number",
   max: null,
   types: "ts",
+  createdAt: "2026-09-24T23:57:55.490Z",
+  updatedAt: "2026-09-24T23:58:01.000Z",
 } as const satisfies NumberProperty

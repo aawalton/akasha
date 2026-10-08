@@ -70,4 +70,6 @@ export const module = {
   ],
   types: "ts",
   schema: "jsonl",
+  createdAt: "2026-08-28T20:47:14.436Z",
+  updatedAt: "2026-09-24T23:27:50.000Z",
 } as const satisfies PageType

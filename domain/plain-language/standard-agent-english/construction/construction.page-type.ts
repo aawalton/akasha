@@ -83,4 +83,6 @@ export const construction = {
   ],
   types: "ts",
   schema: "jsonl",
+  createdAt: "2026-09-21T19:39:38.477Z",
+  updatedAt: "2026-09-25T17:05:59.000Z",
 } as const satisfies PageType

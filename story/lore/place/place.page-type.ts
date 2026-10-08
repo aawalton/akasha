@@ -46,4 +46,6 @@ export const place = {
   ],
   types: "ts",
   schema: "jsonl",
+  createdAt: "2026-09-24T16:10:41.117Z",
+  updatedAt: "2026-10-04T09:23:17.000Z",
 } as const satisfies PageType

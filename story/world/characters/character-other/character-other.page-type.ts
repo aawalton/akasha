@@ -14,4 +14,6 @@ export const characterOther = {
   ],
   types: "ts",
   schema: "jsonl",
+  createdAt: "2026-09-22T17:21:04.371Z",
+  updatedAt: "2026-09-28T13:02:37.000Z",
 } as const satisfies PageType

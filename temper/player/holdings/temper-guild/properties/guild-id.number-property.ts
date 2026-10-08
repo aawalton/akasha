@@ -14,4 +14,6 @@ export const guildId = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-25T12:53:04.563Z",
+  updatedAt: "2026-09-25T12:53:09.000Z",
 } as const satisfies NumberProperty

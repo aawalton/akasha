@@ -49,4 +49,6 @@ export const temperArmorWeight = {
   types: "ts",
   schema: "jsonl",
   hashIndexed: ["hashPlace"],
+  createdAt: "2026-09-02T01:53:02.000Z",
+  updatedAt: "2026-09-27T04:15:45.000Z",
 } as const satisfies PageType

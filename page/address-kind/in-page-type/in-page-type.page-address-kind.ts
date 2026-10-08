@@ -25,4 +25,6 @@ export const inPageType = {
       statement: "A page type with more than one such property is why the property is named.",
     },
   ],
+  createdAt: "2026-09-05T19:48:59.327Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies PageAddressKind

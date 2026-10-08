@@ -35,4 +35,6 @@ export const temperItemRule = {
   types: "ts",
   schema: "jsonl",
   parts: ["number-property/stock-quantity"],
+  createdAt: "2026-09-25T13:30:41.505Z",
+  updatedAt: "2026-10-08T14:43:46.000Z",
 } as const satisfies PageType

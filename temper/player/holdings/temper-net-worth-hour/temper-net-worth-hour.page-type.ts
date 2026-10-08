@@ -34,4 +34,6 @@ export const temperNetWorthHour = {
   ],
   types: "ts",
   schema: "jsonl",
+  createdAt: "2026-09-02T02:50:06.543Z",
+  updatedAt: "2026-09-22T10:08:47.000Z",
 } as const satisfies PageType

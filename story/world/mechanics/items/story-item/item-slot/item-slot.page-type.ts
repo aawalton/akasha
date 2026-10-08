@@ -16,4 +16,6 @@ export const itemSlot = {
   ],
   types: "ts",
   schema: "jsonl",
+  createdAt: "2026-09-22T17:59:22.560Z",
+  updatedAt: "2026-09-26T17:47:23.000Z",
 } as const satisfies PageType

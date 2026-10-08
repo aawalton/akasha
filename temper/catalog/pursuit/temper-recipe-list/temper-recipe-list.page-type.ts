@@ -30,4 +30,6 @@ export const temperRecipeList = {
   ],
   types: "ts",
   schema: "jsonl",
+  createdAt: "2026-09-02T14:03:40.690Z",
+  updatedAt: "2026-09-26T15:45:46.000Z",
 } as const satisfies PageType

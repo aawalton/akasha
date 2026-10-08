@@ -11,4 +11,6 @@ export const degreeAdverb = {
       statement: "A degree adverb comes before the adjective it measures.",
     },
   ],
+  createdAt: "2026-09-24T23:44:45.827Z",
+  updatedAt: "2026-09-25T15:41:48.000Z",
 } as const satisfies PartOfSpeech

@@ -20,4 +20,6 @@ export const possessiveClitic = {
       statement: "This mark is written onto a noun run rather than onto a longer phrase.",
     },
   ],
+  createdAt: "2026-09-22T12:54:11.686Z",
+  updatedAt: "2026-09-25T15:41:48.000Z",
 } as const satisfies PartOfSpeech

@@ -12,4 +12,6 @@ export const ethnicityTag = {
   extends: ["page-type/image-tag"],
   types: "ts",
   schema: "jsonl",
+  createdAt: "2026-09-26T16:23:55.455Z",
+  updatedAt: "2026-09-26T16:24:45.000Z",
 } as const satisfies PageType

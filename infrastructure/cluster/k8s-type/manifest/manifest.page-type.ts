@@ -66,4 +66,6 @@ export const manifest = {
   ],
   types: "ts",
   schema: "jsonl",
+  createdAt: "2026-09-04T18:15:08.855Z",
+  updatedAt: "2026-09-24T23:00:04.000Z",
 } as const satisfies PageType

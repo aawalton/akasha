@@ -27,4 +27,6 @@ export const temperCompanionTraitGrade = {
   ],
   types: "ts",
   schema: "jsonl",
+  createdAt: "2026-09-24T14:47:24.216Z",
+  updatedAt: "2026-09-24T14:49:01.000Z",
 } as const satisfies PageType

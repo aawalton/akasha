@@ -45,4 +45,6 @@ export const namePlace = {
   ],
   types: "ts",
   schema: "jsonl",
+  createdAt: "2026-08-29T23:09:38.900Z",
+  updatedAt: "2026-09-25T14:06:35.000Z",
 } as const satisfies PageType

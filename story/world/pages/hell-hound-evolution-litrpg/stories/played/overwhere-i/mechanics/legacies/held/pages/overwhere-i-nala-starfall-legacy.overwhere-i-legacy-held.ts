@@ -9,4 +9,6 @@ export const overwhereINalaStarfallLegacy = {
   rank: 2,
   reserve: 30,
   workings: 3,
+  createdAt: "2026-09-29T12:16:46.874Z",
+  updatedAt: "2026-09-30T10:56:35.000Z",
 } as const satisfies OverwhereILegacyHeld

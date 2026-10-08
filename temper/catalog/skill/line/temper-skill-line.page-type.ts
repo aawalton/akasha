@@ -26,4 +26,6 @@ export const temperSkillLine = {
   types: "ts",
   schema: "jsonl",
   hashIndexed: ["hashPlace"],
+  createdAt: "2026-09-02T01:45:21.035Z",
+  updatedAt: "2026-09-26T18:44:36.000Z",
 } as const satisfies PageType

@@ -43,4 +43,6 @@ export const siteDocument = {
   ],
   types: "ts",
   schema: "jsonl",
+  createdAt: "2026-09-24T23:03:23.750Z",
+  updatedAt: "2026-09-27T14:06:38.000Z",
 } as const satisfies PageType

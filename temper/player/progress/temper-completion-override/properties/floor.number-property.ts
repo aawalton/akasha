@@ -8,4 +8,6 @@ export const floor = {
   definition: "the least a count is held to be, whatever the game reports",
   max: null,
   types: "ts",
+  createdAt: "2026-09-02T01:51:17.159Z",
+  updatedAt: "2026-09-21T15:33:05.000Z",
 } as const satisfies NumberProperty

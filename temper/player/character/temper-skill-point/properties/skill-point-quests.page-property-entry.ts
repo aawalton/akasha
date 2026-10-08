@@ -22,4 +22,6 @@ export const skillPointQuests = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-27T03:53:22.006Z",
+  updatedAt: "2026-09-27T03:53:34.000Z",
 } as const satisfies PagePropertyEntry

@@ -158,4 +158,6 @@ export const readoutWidget = {
   ],
   types: "ts",
   schema: "jsonl",
+  createdAt: "2026-08-30T21:07:57.190Z",
+  updatedAt: "2026-09-24T21:01:04.000Z",
 } as const satisfies PageType

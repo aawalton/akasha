@@ -9,4 +9,6 @@ export const overwhereIiiInventory = {
   story: "story-played/overwhere-iii",
   description: "A pocket space bound to its bearer, opened and emptied by thought.",
   ranks: ["Basic", "Novice", "Adept", "Expert", "Legend"],
+  createdAt: "2026-10-02T21:10:05.647Z",
+  updatedAt: "2026-10-02T21:10:09.000Z",
 } as const satisfies OverwhereIiiTrait

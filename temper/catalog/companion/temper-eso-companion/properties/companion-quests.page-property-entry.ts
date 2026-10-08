@@ -19,4 +19,6 @@ export const companionQuests = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-27T01:54:14.106Z",
+  updatedAt: "2026-09-27T01:54:22.000Z",
 } as const satisfies PagePropertyEntry

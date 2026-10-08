@@ -31,4 +31,6 @@ export const filePropertyGroup = {
   types: "ts",
   schema: "jsonl",
   shapes: "jsonl",
+  createdAt: "2026-09-09T19:43:09.743Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies PageType

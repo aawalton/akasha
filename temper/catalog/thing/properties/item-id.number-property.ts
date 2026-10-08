@@ -8,4 +8,6 @@ export const itemId = {
   definition: "an item's number in The Elder Scrolls Online",
   max: null,
   types: "ts",
+  createdAt: "2026-09-02T01:27:53.146Z",
+  updatedAt: "2026-09-22T13:53:27.000Z",
 } as const satisfies NumberProperty

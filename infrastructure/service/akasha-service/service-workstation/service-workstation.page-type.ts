@@ -230,4 +230,6 @@ export const serviceWorkstation = {
   ],
   types: "ts",
   schema: "jsonl",
+  createdAt: "2026-08-31T23:55:19.466Z",
+  updatedAt: "2026-09-27T00:55:16.000Z",
 } as const satisfies PageType

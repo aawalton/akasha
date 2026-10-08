@@ -27,4 +27,6 @@ export const temperTributePatron = {
   ],
   types: "ts",
   schema: "jsonl",
+  createdAt: "2026-09-02T08:53:48.329Z",
+  updatedAt: "2026-09-21T15:27:16.000Z",
 } as const satisfies PageType

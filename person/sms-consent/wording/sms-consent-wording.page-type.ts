@@ -31,4 +31,6 @@ export const smsConsentWording = {
   ],
   types: "ts",
   schema: "jsonl",
+  createdAt: "2026-09-27T12:12:01.589Z",
+  updatedAt: "2026-09-27T12:12:05.000Z",
 } as const satisfies PageType

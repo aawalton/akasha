@@ -66,4 +66,6 @@ export const skillEffects = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-02T10:08:15.908Z",
+  updatedAt: "2026-09-24T14:30:29.000Z",
 } as const satisfies PagePropertyEntry

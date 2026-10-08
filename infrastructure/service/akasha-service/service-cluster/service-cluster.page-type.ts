@@ -204,4 +204,6 @@ export const serviceCluster = {
   ],
   types: "ts",
   schema: "jsonl",
+  createdAt: "2026-08-31T23:57:07.138Z",
+  updatedAt: "2026-09-25T17:13:42.000Z",
 } as const satisfies PageType

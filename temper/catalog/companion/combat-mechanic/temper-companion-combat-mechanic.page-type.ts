@@ -19,4 +19,6 @@ export const temperCompanionCombatMechanic = {
   ],
   types: "ts",
   schema: "jsonl",
+  createdAt: "2026-09-26T18:10:13.468Z",
+  updatedAt: "2026-09-26T18:52:12.000Z",
 } as const satisfies PageType

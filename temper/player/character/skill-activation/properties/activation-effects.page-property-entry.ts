@@ -14,4 +14,6 @@ export const activationEffects = {
     { pageProperty: "number-property/coefficient", required: true, many: false },
   ],
   types: "ts",
+  createdAt: "2026-09-02T01:48:48.328Z",
+  updatedAt: "2026-09-21T15:29:06.000Z",
 } as const satisfies PagePropertyEntry

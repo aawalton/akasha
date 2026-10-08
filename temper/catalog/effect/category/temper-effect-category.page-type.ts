@@ -18,4 +18,6 @@ export const temperEffectCategory = {
   ],
   types: "ts",
   schema: "jsonl",
+  createdAt: "2026-09-26T20:30:04.078Z",
+  updatedAt: "2026-09-26T20:30:13.000Z",
 } as const satisfies PageType

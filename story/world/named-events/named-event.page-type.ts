@@ -52,4 +52,6 @@ export const namedEvent = {
   ],
   types: "ts",
   schema: "jsonl",
+  createdAt: "2026-09-03T04:34:04.225Z",
+  updatedAt: "2026-09-22T13:46:35.000Z",
 } as const satisfies PageType

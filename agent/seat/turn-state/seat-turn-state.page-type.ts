@@ -42,4 +42,6 @@ export const seatTurnState = {
   ],
   types: "ts",
   schema: "jsonl",
+  createdAt: "2026-09-03T21:20:21.634Z",
+  updatedAt: "2026-09-29T12:11:54.000Z",
 } as const satisfies PageType

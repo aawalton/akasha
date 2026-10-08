@@ -12,4 +12,6 @@ export const temperCompanionArmorSlot = {
   ],
   types: "ts",
   schema: "jsonl",
+  createdAt: "2026-09-02T01:48:30.286Z",
+  updatedAt: "2026-09-27T04:55:40.000Z",
 } as const satisfies PageType

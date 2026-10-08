@@ -55,4 +55,6 @@ export const temperSale = {
   ],
   types: "ts",
   schema: "jsonl",
+  createdAt: "2026-07-17T21:20:12.579Z",
+  updatedAt: "2026-09-25T13:00:21.000Z",
 } as const satisfies PageType

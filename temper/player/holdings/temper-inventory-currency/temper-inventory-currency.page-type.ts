@@ -27,4 +27,6 @@ export const temperInventoryCurrency = {
   ],
   types: "ts",
   schema: "jsonl",
+  createdAt: "2026-09-02T01:46:39.276Z",
+  updatedAt: "2026-09-27T03:14:22.000Z",
 } as const satisfies PageType

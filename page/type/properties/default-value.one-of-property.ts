@@ -48,4 +48,6 @@ export const defaultValue = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-01T00:05:37.650Z",
+  updatedAt: "2026-09-25T15:29:52.000Z",
 } as const satisfies OneOfProperty

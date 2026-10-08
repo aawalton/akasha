@@ -33,4 +33,6 @@ export const componentPropertyGroup = {
   types: "ts",
   schema: "jsonl",
   shapes: "jsonl",
+  createdAt: "2026-09-13T20:45:05.138Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies PageType

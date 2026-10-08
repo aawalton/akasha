@@ -8,4 +8,6 @@ export const foreignNameTerm = {
   extends: ["page-type/allowed-term"],
   types: "ts",
   schema: "jsonl",
+  createdAt: "2026-09-07T15:13:56.101Z",
+  updatedAt: "2026-09-25T15:41:48.000Z",
 } as const satisfies PageType

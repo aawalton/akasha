@@ -97,4 +97,6 @@ export const routerApp = {
   ],
   types: "ts",
   schema: "jsonl",
+  createdAt: "2026-09-02T21:08:34.603Z",
+  updatedAt: "2026-09-27T04:43:24.000Z",
 } as const satisfies PageType

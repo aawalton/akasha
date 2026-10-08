@@ -248,5 +248,6 @@ export const page = {
     { partOfSpeech: "part-of-speech/noun", spelling: "page" },
     { partOfSpeech: "part-of-speech/noun", spelling: "pages" },
   ],
-  updatedAt: "2026-10-08T14:56:58.776Z",
+  updatedAt: "2026-10-08T16:02:40.678Z",
+  createdAt: "2026-08-28T18:54:50.220Z",
 } as const satisfies PageType

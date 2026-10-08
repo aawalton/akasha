@@ -57,4 +57,6 @@ export const monarchMonth = {
   ],
   types: "ts",
   schema: "jsonl",
+  createdAt: "2026-09-03T16:12:37.504Z",
+  updatedAt: "2026-09-22T00:47:01.000Z",
 } as const satisfies PageType

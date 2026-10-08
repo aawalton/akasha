@@ -8,4 +8,6 @@ export const craftingLevel = {
   definition: "how far a character has come in a craft",
   max: null,
   types: "ts",
+  createdAt: "2026-09-03T13:00:08.453Z",
+  updatedAt: "2026-09-22T10:08:47.000Z",
 } as const satisfies NumberProperty

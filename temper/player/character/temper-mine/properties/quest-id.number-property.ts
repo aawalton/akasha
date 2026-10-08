@@ -8,4 +8,6 @@ export const questId = {
   definition: "the game's number for a quest",
   max: null,
   types: "ts",
+  createdAt: "2026-09-02T01:48:48.338Z",
+  updatedAt: "2026-09-22T13:53:26.000Z",
 } as const satisfies NumberProperty

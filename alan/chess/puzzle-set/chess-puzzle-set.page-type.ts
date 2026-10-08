@@ -39,4 +39,6 @@ export const chessPuzzleSet = {
   ],
   types: "ts",
   schema: "jsonl",
+  createdAt: "2026-09-03T04:24:22.114Z",
+  updatedAt: "2026-09-24T18:02:42.000Z",
 } as const satisfies PageType

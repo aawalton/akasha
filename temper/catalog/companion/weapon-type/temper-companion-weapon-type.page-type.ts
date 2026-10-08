@@ -24,4 +24,6 @@ export const temperCompanionWeaponType = {
   types: "ts",
   schema: "jsonl",
   hashIndexed: ["hashPlace"],
+  createdAt: "2026-09-02T01:48:30.289Z",
+  updatedAt: "2026-09-27T03:35:13.000Z",
 } as const satisfies PageType

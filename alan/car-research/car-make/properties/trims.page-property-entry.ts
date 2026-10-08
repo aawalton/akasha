@@ -91,4 +91,6 @@ export const trims = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-21T18:36:13.205Z",
+  updatedAt: "2026-09-23T14:43:15.000Z",
 } as const satisfies PagePropertyEntry

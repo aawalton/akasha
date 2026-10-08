@@ -75,4 +75,6 @@ export const namespace = {
   ],
   types: "ts",
   schema: "jsonl",
+  createdAt: "2026-09-04T12:54:42.613Z",
+  updatedAt: "2026-09-22T00:11:08.000Z",
 } as const satisfies PageType

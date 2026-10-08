@@ -14,4 +14,6 @@ export const codeEditorGroup = {
   mortal: true,
   types: "ts",
   schema: "jsonl",
+  createdAt: "2026-09-03T16:42:33.573Z",
+  updatedAt: "2026-09-24T22:38:28.000Z",
 } as const satisfies PageType

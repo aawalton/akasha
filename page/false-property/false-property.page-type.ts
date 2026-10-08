@@ -23,4 +23,6 @@ export const falseProperty = {
   types: "ts",
   schema: "jsonl",
   shapes: "jsonl",
+  createdAt: "2026-09-11T13:11:54.213Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies PageType

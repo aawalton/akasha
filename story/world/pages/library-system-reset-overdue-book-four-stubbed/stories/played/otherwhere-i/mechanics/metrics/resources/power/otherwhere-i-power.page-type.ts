@@ -8,4 +8,6 @@ export const otherwhereIPower = {
   extends: ["page-type/metric-character-resource"],
   types: "ts",
   schema: "jsonl",
+  createdAt: "2026-09-27T15:01:10.241Z",
+  updatedAt: "2026-09-28T22:55:36.000Z",
 } as const satisfies PageType

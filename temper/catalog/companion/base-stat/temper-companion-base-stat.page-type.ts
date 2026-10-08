@@ -25,4 +25,6 @@ export const temperCompanionBaseStat = {
   ],
   types: "ts",
   schema: "jsonl",
+  createdAt: "2026-09-26T17:46:59.858Z",
+  updatedAt: "2026-09-26T17:47:04.000Z",
 } as const satisfies PageType

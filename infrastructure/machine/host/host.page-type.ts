@@ -64,4 +64,6 @@ export const host = {
   ],
   types: "ts",
   schema: "jsonl",
+  createdAt: "2026-09-03T04:39:50.863Z",
+  updatedAt: "2026-09-24T22:55:08.000Z",
 } as const satisfies PageType

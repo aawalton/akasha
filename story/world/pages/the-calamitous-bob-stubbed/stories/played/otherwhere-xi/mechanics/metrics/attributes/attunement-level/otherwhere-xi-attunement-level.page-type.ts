@@ -52,4 +52,6 @@ export const otherwhereXiAttunementLevel = {
   ],
   types: "ts",
   schema: "jsonl",
+  createdAt: "2026-09-29T00:11:52.111Z",
+  updatedAt: "2026-09-29T00:12:14.000Z",
 } as const satisfies PageType

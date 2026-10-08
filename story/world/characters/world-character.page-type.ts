@@ -79,4 +79,6 @@ export const worldCharacter = {
   ],
   types: "ts",
   schema: "jsonl",
+  createdAt: "2026-09-03T04:15:29.485Z",
+  updatedAt: "2026-09-28T20:14:41.000Z",
 } as const satisfies PageType

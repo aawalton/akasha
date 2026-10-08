@@ -240,4 +240,6 @@ export const modelAccount = {
   ],
   types: "ts",
   schema: "jsonl",
+  createdAt: "2026-08-30T22:44:04.536Z",
+  updatedAt: "2026-09-27T12:53:44.000Z",
 } as const satisfies PageType

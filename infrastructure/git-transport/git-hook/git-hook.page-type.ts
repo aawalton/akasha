@@ -27,4 +27,6 @@ export const gitHook = {
   ],
   types: "ts",
   schema: "jsonl",
+  createdAt: "2026-09-10T14:01:44.050Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies PageType

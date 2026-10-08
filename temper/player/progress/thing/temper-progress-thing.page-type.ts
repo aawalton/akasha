@@ -48,4 +48,6 @@ export const temperProgressThing = {
   ],
   types: "ts",
   schema: "jsonl",
+  createdAt: "2026-09-02T01:40:40.056Z",
+  updatedAt: "2026-09-22T00:46:09.000Z",
 } as const satisfies PageType

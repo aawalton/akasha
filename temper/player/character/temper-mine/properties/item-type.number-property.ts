@@ -8,4 +8,6 @@ export const itemType = {
   definition: "the sort of thing an item is",
   max: null,
   types: "ts",
+  createdAt: "2026-09-02T01:48:48.337Z",
+  updatedAt: "2026-09-21T15:29:06.000Z",
 } as const satisfies NumberProperty

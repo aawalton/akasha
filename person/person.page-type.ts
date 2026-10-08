@@ -66,4 +66,6 @@ export const person = {
   ],
   types: "ts",
   schema: "jsonl",
+  createdAt: "2026-08-30T18:13:32.023Z",
+  updatedAt: "2026-09-25T12:40:02.000Z",
 } as const satisfies PageType

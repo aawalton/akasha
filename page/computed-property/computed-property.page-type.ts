@@ -226,4 +226,6 @@ export const computedProperty = {
   types: "ts",
   schema: "jsonl",
   shapes: "jsonl",
+  createdAt: "2026-09-04T22:00:32.805Z",
+  updatedAt: "2026-09-25T13:07:21.000Z",
 } as const satisfies PageType

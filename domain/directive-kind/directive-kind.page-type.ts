@@ -16,4 +16,6 @@ export const directiveKind = {
   ],
   types: "ts",
   schema: "jsonl",
+  createdAt: "2026-08-29T15:25:01.814Z",
+  updatedAt: "2026-09-22T10:09:39.000Z",
 } as const satisfies PageType

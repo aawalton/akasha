@@ -38,4 +38,6 @@ export const cpuKind = {
   ],
   types: "ts",
   schema: "jsonl",
+  createdAt: "2026-09-11T17:31:08.654Z",
+  updatedAt: "2026-09-22T13:48:12.000Z",
 } as const satisfies PageType

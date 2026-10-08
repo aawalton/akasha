@@ -245,4 +245,6 @@ export const subagent = {
   ],
   types: "ts",
   schema: "jsonl",
+  createdAt: "2026-08-31T20:18:13.857Z",
+  updatedAt: "2026-09-25T14:28:05.000Z",
 } as const satisfies PageType

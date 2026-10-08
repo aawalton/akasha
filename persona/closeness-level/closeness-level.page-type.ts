@@ -57,4 +57,6 @@ export const closenessLevel = {
   ],
   types: "ts",
   schema: "jsonl",
+  createdAt: "2026-08-30T19:03:39.537Z",
+  updatedAt: "2026-09-27T14:37:38.000Z",
 } as const satisfies PageType

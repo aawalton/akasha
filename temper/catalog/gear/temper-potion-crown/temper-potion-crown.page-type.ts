@@ -17,4 +17,6 @@ export const temperPotionCrown = {
   ],
   types: "ts",
   schema: "jsonl",
+  createdAt: "2026-09-02T01:53:02.004Z",
+  updatedAt: "2026-09-27T03:59:06.000Z",
 } as const satisfies PageType

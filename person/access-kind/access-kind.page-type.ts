@@ -14,4 +14,6 @@ export const accessKind = {
   extends: ["page-type/domain"],
   types: "ts",
   schema: "jsonl",
+  createdAt: "2026-08-30T19:37:14.357Z",
+  updatedAt: "2026-09-15T15:39:28.000Z",
 } as const satisfies PageType

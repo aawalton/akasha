@@ -59,4 +59,6 @@ export const storyWritten = {
     { pageProperty: "boolean-property/prose-on-beats", required: false, many: false },
     { pageProperty: "boolean-property/pictures-on-beats", required: false, many: false },
   ],
+  createdAt: "2026-09-03T03:34:14.461Z",
+  updatedAt: "2026-10-04T09:19:52.000Z",
 } as const satisfies PageType

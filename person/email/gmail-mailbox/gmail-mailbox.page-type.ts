@@ -29,4 +29,6 @@ export const gmailMailbox = {
   ],
   types: "ts",
   schema: "jsonl",
+  createdAt: "2026-09-03T16:44:30.035Z",
+  updatedAt: "2026-09-25T13:45:16.000Z",
 } as const satisfies PageType

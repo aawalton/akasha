@@ -44,4 +44,6 @@ export const fitnessCoachingNote = {
   ],
   types: "ts",
   schema: "jsonl",
+  createdAt: "2026-09-08T14:52:52.101Z",
+  updatedAt: "2026-09-22T13:58:57.000Z",
 } as const satisfies PageType

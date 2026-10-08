@@ -39,4 +39,6 @@ export const pageAddressKind = {
   ],
   types: "ts",
   schema: "jsonl",
+  createdAt: "2026-09-05T19:47:57.543Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies PageType

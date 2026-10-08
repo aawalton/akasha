@@ -25,4 +25,6 @@ export const temperRuleTemplate = {
   types: "ts",
   schema: "jsonl",
   parts: ["module/rule-template-catalog", "type-declaration/jsonl-text"],
+  createdAt: "2026-09-02T01:51:17.158Z",
+  updatedAt: "2026-09-26T20:45:32.000Z",
 } as const satisfies PageType

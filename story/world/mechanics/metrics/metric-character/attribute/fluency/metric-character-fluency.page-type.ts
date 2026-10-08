@@ -23,4 +23,6 @@ export const metricCharacterFluency = {
   ],
   types: "ts",
   schema: "jsonl",
+  createdAt: "2026-09-30T10:51:42.233Z",
+  updatedAt: "2026-09-30T10:51:48.000Z",
 } as const satisfies PageType

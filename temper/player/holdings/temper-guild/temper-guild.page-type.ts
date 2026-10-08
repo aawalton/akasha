@@ -29,4 +29,6 @@ export const temperGuild = {
     { pageProperty: "number-property/guild-id", required: true, many: false },
     { pageProperty: "text-property/world-name", required: true, many: false },
   ],
+  createdAt: "2026-09-25T12:53:04.564Z",
+  updatedAt: "2026-09-25T12:53:09.000Z",
 } as const satisfies PageType

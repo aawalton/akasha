@@ -11,4 +11,6 @@ export const overwhereIStarfallLegacy = {
   ranks: ["Ember", "Flare", "Comet", "Meteor", "Starfall"],
   refillMinutes: 10,
   elementCost: 1,
+  createdAt: "2026-09-29T12:16:46.874Z",
+  updatedAt: "2026-09-29T12:16:49.000Z",
 } as const satisfies OverwhereILegacy

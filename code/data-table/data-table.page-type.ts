@@ -56,4 +56,6 @@ export const dataTable = {
   ],
   types: "ts",
   schema: "jsonl",
+  createdAt: "2026-09-22T13:20:49.825Z",
+  updatedAt: "2026-09-22T20:17:02.000Z",
 } as const satisfies PageType

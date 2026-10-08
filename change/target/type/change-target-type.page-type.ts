@@ -27,4 +27,6 @@ export const changeTargetType = {
   ],
   types: "ts",
   schema: "jsonl",
+  createdAt: "2026-09-07T15:18:44.936Z",
+  updatedAt: "2026-09-25T13:51:50.000Z",
 } as const satisfies PageType

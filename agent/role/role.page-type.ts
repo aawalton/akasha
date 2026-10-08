@@ -122,4 +122,6 @@ export const role = {
   ],
   types: "ts",
   schema: "jsonl",
+  createdAt: "2026-08-30T17:23:00.768Z",
+  updatedAt: "2026-10-04T00:02:05.000Z",
 } as const satisfies PageType

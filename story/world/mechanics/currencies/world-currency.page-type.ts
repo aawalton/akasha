@@ -38,4 +38,6 @@ export const worldCurrency = {
   ],
   types: "ts",
   schema: "jsonl",
+  createdAt: "2026-09-30T10:26:32.610Z",
+  updatedAt: "2026-09-30T10:26:37.000Z",
 } as const satisfies PageType

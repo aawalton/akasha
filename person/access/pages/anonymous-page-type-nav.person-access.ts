@@ -9,4 +9,6 @@ export const anonymousPageTypeNav = {
   target: "nav",
   deed: ["access-deed/read-some"],
   narrow: { key: "app", is: "web-app/alanwalton-requests-web" },
+  createdAt: "2026-09-21T18:14:28.447Z",
+  updatedAt: "2026-09-22T22:38:35.000Z",
 } as const satisfies PersonAccess

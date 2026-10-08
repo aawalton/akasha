@@ -13,4 +13,6 @@ export const temperZone = {
   ],
   types: "ts",
   schema: "jsonl",
+  createdAt: "2026-09-02T01:38:27.093Z",
+  updatedAt: "2026-09-21T15:28:00.000Z",
 } as const satisfies PageType

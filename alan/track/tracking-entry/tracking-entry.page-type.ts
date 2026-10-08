@@ -23,4 +23,6 @@ export const trackingEntry = {
   ],
   types: "ts",
   schema: "jsonl",
+  createdAt: "2026-09-03T16:44:01.932Z",
+  updatedAt: "2026-09-22T10:05:53.000Z",
 } as const satisfies PageType

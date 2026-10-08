@@ -5,4 +5,6 @@ export const human = {
   type: "page-type/origin-kind",
   slug: "human",
   definition: "an ordinary human name",
+  createdAt: "2026-08-30T15:55:09.790Z",
+  updatedAt: "2026-09-15T16:03:45.000Z",
 } as const satisfies OriginKind

@@ -11,4 +11,6 @@ export const icons = {
     { pageProperty: "text-property/icon", required: true, many: false },
   ],
   types: "ts",
+  createdAt: "2026-09-02T01:53:02.011Z",
+  updatedAt: "2026-09-21T15:28:58.000Z",
 } as const satisfies PagePropertyEntry

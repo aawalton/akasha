@@ -47,4 +47,6 @@ export const storyDecision = {
   ],
   types: "ts",
   schema: "jsonl",
+  createdAt: "2026-09-03T04:13:33.112Z",
+  updatedAt: "2026-09-26T18:17:31.000Z",
 } as const satisfies PageType

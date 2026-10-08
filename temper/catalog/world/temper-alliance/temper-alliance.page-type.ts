@@ -20,4 +20,6 @@ export const temperAlliance = {
   types: "ts",
   schema: "jsonl",
   hashIndexed: ["hashPlace"],
+  createdAt: "2026-09-02T01:38:27.084Z",
+  updatedAt: "2026-09-26T20:35:35.000Z",
 } as const satisfies PageType

@@ -25,4 +25,6 @@ export const relativePronoun = {
         "A relative pronoun is a closed class, so the words here are nearly all there are.",
     },
   ],
+  createdAt: "2026-09-24T16:03:48.558Z",
+  updatedAt: "2026-09-25T15:41:48.000Z",
 } as const satisfies PartOfSpeech

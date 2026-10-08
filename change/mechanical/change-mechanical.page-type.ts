@@ -46,4 +46,6 @@ export const changeMechanical = {
   ],
   types: "ts",
   schema: "jsonl",
+  createdAt: "2026-09-06T22:48:42.944Z",
+  updatedAt: "2026-09-25T14:30:44.000Z",
 } as const satisfies PageType

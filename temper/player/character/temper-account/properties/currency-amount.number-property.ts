@@ -8,4 +8,6 @@ export const currencyAmount = {
   definition: "how much of a currency is held",
   max: null,
   types: "ts",
+  createdAt: "2026-09-03T13:00:08.453Z",
+  updatedAt: "2026-09-21T15:29:06.000Z",
 } as const satisfies NumberProperty

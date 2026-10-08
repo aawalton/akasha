@@ -83,4 +83,6 @@ export const categoryRule = {
   ],
   types: "ts",
   schema: "jsonl",
+  createdAt: "2026-09-03T16:13:47.392Z",
+  updatedAt: "2026-09-24T18:54:51.000Z",
 } as const satisfies PageType

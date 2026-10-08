@@ -27,4 +27,6 @@ export const overwhereIvPoints = {
   ],
   types: "ts",
   schema: "jsonl",
+  createdAt: "2026-09-29T12:27:03.550Z",
+  updatedAt: "2026-09-29T12:27:09.000Z",
 } as const satisfies PageType

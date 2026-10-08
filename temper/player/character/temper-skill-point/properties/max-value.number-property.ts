@@ -8,4 +8,6 @@ export const maxValue = {
   definition: "the highest a source counts up to",
   max: null,
   types: "ts",
+  createdAt: "2026-09-02T01:48:48.345Z",
+  updatedAt: "2026-09-21T15:29:06.000Z",
 } as const satisfies NumberProperty

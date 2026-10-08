@@ -11,4 +11,6 @@ export const overwhereIvNalaSpearmanship = {
   skill: "world-skill/overwhere-iv-spearmanship",
   level: 5,
   uses: 2,
+  createdAt: "2026-09-30T17:48:27.019Z",
+  updatedAt: "2026-10-02T23:53:52.000Z",
 } as const satisfies OverwhereIvSkill

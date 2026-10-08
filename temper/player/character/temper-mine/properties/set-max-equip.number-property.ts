@@ -8,4 +8,6 @@ export const setMaxEquip = {
   definition: "how many pieces of a set count towards its bonuses",
   max: null,
   types: "ts",
+  createdAt: "2026-09-02T01:48:48.341Z",
+  updatedAt: "2026-09-21T15:29:06.000Z",
 } as const satisfies NumberProperty

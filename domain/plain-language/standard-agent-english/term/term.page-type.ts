@@ -68,4 +68,6 @@ export const term = {
   ],
   types: "ts",
   schema: "jsonl",
+  createdAt: "2026-09-08T16:46:04.676Z",
+  updatedAt: "2026-09-25T15:41:48.000Z",
 } as const satisfies PageType

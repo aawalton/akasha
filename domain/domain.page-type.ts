@@ -128,4 +128,6 @@ export const domain = {
   ],
   types: "ts",
   schema: "jsonl",
+  createdAt: "2026-08-28T19:10:55.149Z",
+  updatedAt: "2026-09-25T15:58:19.000Z",
 } as const satisfies PageType

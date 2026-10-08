@@ -65,4 +65,6 @@ export const locationTraces = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-21T19:17:09.581Z",
+  updatedAt: "2026-09-24T20:05:21.000Z",
 } as const satisfies PagePropertyEntry

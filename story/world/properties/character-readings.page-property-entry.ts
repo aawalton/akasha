@@ -19,4 +19,6 @@ export const characterReadings = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-02T20:27:45.046Z",
+  updatedAt: "2026-09-24T14:23:16.000Z",
 } as const satisfies PagePropertyEntry

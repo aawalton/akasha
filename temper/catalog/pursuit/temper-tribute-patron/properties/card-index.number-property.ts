@@ -8,4 +8,6 @@ export const cardIndex = {
   definition: "where a card falls in the deck a patron hands out",
   max: null,
   types: "ts",
+  createdAt: "2026-09-02T08:53:48.329Z",
+  updatedAt: "2026-09-21T15:27:16.000Z",
 } as const satisfies NumberProperty

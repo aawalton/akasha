@@ -5,4 +5,6 @@ export const greek = {
   type: "page-type/origin-kind",
   slug: "greek",
   definition: "a name from Greek",
+  createdAt: "2026-08-30T15:55:09.789Z",
+  updatedAt: "2026-09-15T16:03:45.000Z",
 } as const satisfies OriginKind

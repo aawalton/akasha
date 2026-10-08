@@ -8,4 +8,6 @@ export const itemQuality = {
   definition: "the grade an item is made at, as the game numbers grades",
   max: null,
   types: "ts",
+  createdAt: "2026-09-02T01:48:48.336Z",
+  updatedAt: "2026-09-21T15:29:06.000Z",
 } as const satisfies NumberProperty

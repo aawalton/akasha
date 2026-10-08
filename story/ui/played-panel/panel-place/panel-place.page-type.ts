@@ -23,4 +23,6 @@ export const panelPlace = {
   ],
   types: "ts",
   schema: "jsonl",
+  createdAt: "2026-09-21T16:28:55.825Z",
+  updatedAt: "2026-09-28T12:27:35.000Z",
 } as const satisfies PageType

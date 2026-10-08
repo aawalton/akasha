@@ -29,4 +29,6 @@ export const conditions = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-02T01:51:17.156Z",
+  updatedAt: "2026-09-25T13:07:13.000Z",
 } as const satisfies PagePropertyEntry

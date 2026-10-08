@@ -63,4 +63,6 @@ export const finding = {
     },
   ],
   schema: "jsonl",
+  createdAt: "2026-08-29T04:27:40.611Z",
+  updatedAt: "2026-09-25T13:47:50.000Z",
 } as const satisfies PageType

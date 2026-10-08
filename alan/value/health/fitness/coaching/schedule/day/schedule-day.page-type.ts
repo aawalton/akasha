@@ -24,4 +24,6 @@ export const scheduleDay = {
   ],
   types: "ts",
   schema: "jsonl",
+  createdAt: "2026-09-03T04:15:48.269Z",
+  updatedAt: "2026-09-25T13:20:20.000Z",
 } as const satisfies PageType

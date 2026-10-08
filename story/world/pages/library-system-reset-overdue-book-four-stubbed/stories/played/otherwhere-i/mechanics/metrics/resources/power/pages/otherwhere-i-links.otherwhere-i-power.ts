@@ -9,4 +9,6 @@ export const otherwhereILinks = {
   minValue: 0,
   maxValue: 100,
   history: "jsonl",
+  createdAt: "2026-09-27T15:02:14.700Z",
+  updatedAt: "2026-09-28T23:05:17.000Z",
 } as const satisfies OtherwhereIPower

@@ -24,4 +24,6 @@ export const subordinatingConjunction = {
         "A subordinating conjunction is a closed class, so the words here are nearly all there are.",
     },
   ],
+  createdAt: "2026-09-24T14:28:40.254Z",
+  updatedAt: "2026-09-25T15:41:48.000Z",
 } as const satisfies PartOfSpeech

@@ -40,4 +40,6 @@ export const imageTag = {
   ],
   types: "ts",
   schema: "jsonl",
+  createdAt: "2026-09-26T16:23:55.455Z",
+  updatedAt: "2026-09-26T17:05:28.000Z",
 } as const satisfies PageType

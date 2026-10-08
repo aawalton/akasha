@@ -8,4 +8,6 @@ export const esoPatronId = {
   definition: "the number The Elder Scrolls Online gives a tribute patron",
   max: null,
   types: "ts",
+  createdAt: "2026-09-02T08:53:48.329Z",
+  updatedAt: "2026-09-22T13:49:36.000Z",
 } as const satisfies NumberProperty

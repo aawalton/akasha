@@ -25,4 +25,6 @@ export const kindling = {
   ],
   types: "ts",
   schema: "jsonl",
+  createdAt: "2026-09-26T15:32:21.006Z",
+  updatedAt: "2026-09-26T15:37:28.000Z",
 } as const satisfies PageType

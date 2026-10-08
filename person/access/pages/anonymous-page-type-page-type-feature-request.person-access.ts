@@ -9,4 +9,6 @@ export const anonymousPageTypePageTypeFeatureRequest = {
   target: "page-type",
   deed: ["access-deed/read-some"],
   narrow: { key: "slug", is: "feature-request" },
+  createdAt: "2026-09-21T18:14:28.447Z",
+  updatedAt: "2026-09-21T18:32:15.000Z",
 } as const satisfies PersonAccess

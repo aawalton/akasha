@@ -8,4 +8,6 @@ export const numRequired = {
   definition: "how many pieces of a set a bonus needs",
   max: null,
   types: "ts",
+  createdAt: "2026-09-02T01:48:48.338Z",
+  updatedAt: "2026-09-22T13:46:31.000Z",
 } as const satisfies NumberProperty

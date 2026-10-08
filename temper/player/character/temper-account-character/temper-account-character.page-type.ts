@@ -31,4 +31,6 @@ export const temperAccountCharacter = {
   ],
   types: "ts",
   schema: "jsonl",
+  createdAt: "2026-09-02T01:48:48.327Z",
+  updatedAt: "2026-09-24T16:26:32.000Z",
 } as const satisfies PageType

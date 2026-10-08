@@ -88,4 +88,6 @@ export const storyDesign = {
   ],
   types: "ts",
   schema: "jsonl",
+  createdAt: "2026-09-03T04:13:33.112Z",
+  updatedAt: "2026-09-27T16:07:07.000Z",
 } as const satisfies PageType

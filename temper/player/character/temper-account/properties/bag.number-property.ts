@@ -8,4 +8,6 @@ export const bag = {
   definition: "the bag a stack sits in, as the game numbers bags",
   max: null,
   types: "ts",
+  createdAt: "2026-09-02T04:14:53.308Z",
+  updatedAt: "2026-09-21T15:29:06.000Z",
 } as const satisfies NumberProperty

@@ -18,4 +18,6 @@ export const rapportDailies = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-27T03:32:00.539Z",
+  updatedAt: "2026-09-27T03:32:13.000Z",
 } as const satisfies PagePropertyEntry

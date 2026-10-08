@@ -41,4 +41,6 @@ export const inPageProperty = {
       statement: "A page has one address of this kind.",
     },
   ],
+  createdAt: "2026-09-05T19:48:59.328Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies PageAddressKind

@@ -49,4 +49,6 @@ export const otherwhereViiTechnique = {
   ],
   types: "ts",
   schema: "jsonl",
+  createdAt: "2026-09-28T23:03:31.407Z",
+  updatedAt: "2026-09-28T23:03:38.000Z",
 } as const satisfies PageType

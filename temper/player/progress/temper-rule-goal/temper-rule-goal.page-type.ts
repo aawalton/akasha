@@ -26,4 +26,6 @@ export const temperRuleGoal = {
   ],
   types: "ts",
   schema: "jsonl",
+  createdAt: "2026-09-05T14:25:02.182Z",
+  updatedAt: "2026-09-22T13:43:34.000Z",
 } as const satisfies PageType

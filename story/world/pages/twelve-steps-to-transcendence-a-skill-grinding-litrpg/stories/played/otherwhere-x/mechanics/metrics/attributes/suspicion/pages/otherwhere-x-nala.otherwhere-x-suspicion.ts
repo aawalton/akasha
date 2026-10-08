@@ -10,4 +10,6 @@ export const otherwhereXNala = {
   maxValue: 20,
   history: "jsonl",
   unrevealed: true,
+  createdAt: "2026-09-28T23:59:09.640Z",
+  updatedAt: "2026-09-30T07:27:58.000Z",
 } as const satisfies OtherwhereXSuspicion

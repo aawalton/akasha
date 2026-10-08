@@ -7,4 +7,6 @@ export const overwhereINalaStarfallSurge = {
   character: "character-player/overwhere-i-nala",
   skill: "world-skill/overwhere-i-starfall-surge",
   level: 5,
+  createdAt: "2026-09-29T12:16:46.874Z",
+  updatedAt: "2026-09-30T20:00:37.000Z",
 } as const satisfies OverwhereISkill

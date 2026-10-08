@@ -8,4 +8,6 @@ export const qualityValue = {
   definition: "what a thing is worth at a grade",
   max: null,
   types: "ts",
+  createdAt: "2026-09-02T01:16:20.590Z",
+  updatedAt: "2026-09-22T10:13:14.000Z",
 } as const satisfies NumberProperty

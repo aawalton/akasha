@@ -28,4 +28,6 @@ export const temperTarget = {
   ],
   types: "ts",
   schema: "jsonl",
+  createdAt: "2026-09-26T20:10:00.540Z",
+  updatedAt: "2026-09-26T20:10:05.000Z",
 } as const satisfies PageType

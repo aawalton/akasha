@@ -22,4 +22,6 @@ export const temperBag = {
   ],
   types: "ts",
   schema: "jsonl",
+  createdAt: "2026-09-27T09:57:49.227Z",
+  updatedAt: "2026-09-27T09:57:53.000Z",
 } as const satisfies PageType

@@ -28,4 +28,6 @@ export const proseFrame = {
   ],
   types: "ts",
   schema: "jsonl",
+  createdAt: "2026-09-08T18:22:36.573Z",
+  updatedAt: "2026-09-25T15:41:48.000Z",
 } as const satisfies PageType

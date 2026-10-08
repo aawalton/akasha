@@ -8,4 +8,6 @@ export const ratingFloorIncrement = {
   definition: "the step a rated stat's chance is rounded down to",
   max: null,
   types: "ts",
+  createdAt: "2026-09-26T18:34:28.098Z",
+  updatedAt: "2026-09-26T18:34:55.000Z",
 } as const satisfies NumberProperty

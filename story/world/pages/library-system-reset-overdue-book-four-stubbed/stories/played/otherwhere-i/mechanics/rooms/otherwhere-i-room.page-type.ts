@@ -63,4 +63,6 @@ export const otherwhereIRoom = {
       many: false,
     },
   ],
+  createdAt: "2026-09-28T13:29:14.464Z",
+  updatedAt: "2026-09-28T23:01:32.000Z",
 } as const satisfies PageType

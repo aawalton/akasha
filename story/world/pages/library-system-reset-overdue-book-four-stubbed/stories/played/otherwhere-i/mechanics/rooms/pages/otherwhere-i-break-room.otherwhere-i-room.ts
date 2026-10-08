@@ -7,4 +7,6 @@ export const otherwhereIBreakRoom = {
   title: "The Break Room",
   world: "world/library-system-reset-overdue-book-four-stubbed",
   lit: false,
+  createdAt: "2026-09-28T13:31:07.746Z",
+  updatedAt: "2026-09-28T23:01:32.000Z",
 } as const satisfies OtherwhereIRoom

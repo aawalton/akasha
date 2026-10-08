@@ -9,4 +9,6 @@ export const otherwhereIxNala = {
   minValue: 0,
   history: "jsonl",
   displayOrder: 3,
+  createdAt: "2026-09-29T01:26:05.715Z",
+  updatedAt: "2026-09-30T08:07:39.000Z",
 } as const satisfies OtherwhereIxStatPoints

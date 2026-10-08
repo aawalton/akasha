@@ -48,4 +48,6 @@ export const allAboutAlanTopic = {
   ],
   types: "ts",
   schema: "jsonl",
+  createdAt: "2026-08-19T16:11:56.923Z",
+  updatedAt: "2026-09-22T14:01:56.000Z",
 } as const satisfies PageType

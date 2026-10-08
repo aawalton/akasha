@@ -65,4 +65,6 @@ export const temperWatcherEnrolment = {
   ],
   types: "ts",
   schema: "jsonl",
+  createdAt: "2026-09-02T01:54:36.004Z",
+  updatedAt: "2026-09-25T13:20:18.000Z",
 } as const satisfies PageType

@@ -57,4 +57,6 @@ export const agentMessageNotice = {
   ],
   types: "ts",
   schema: "jsonl",
+  createdAt: "2026-08-14T04:20:18.205Z",
+  updatedAt: "2026-09-25T17:55:37.000Z",
 } as const satisfies PageType

@@ -102,4 +102,6 @@ export const seatConditions = {
   ],
   types: "ts",
   schema: "jsonl",
+  createdAt: "2026-09-03T17:01:31.777Z",
+  updatedAt: "2026-09-25T17:51:36.000Z",
 } as const satisfies PageType

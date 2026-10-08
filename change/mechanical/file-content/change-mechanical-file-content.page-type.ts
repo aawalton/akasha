@@ -17,4 +17,6 @@ export const changeMechanicalFileContent = {
   properties: [],
   types: "ts",
   schema: "jsonl",
+  createdAt: "2026-09-07T15:58:37.170Z",
+  updatedAt: "2026-09-15T15:36:18.000Z",
 } as const satisfies PageType

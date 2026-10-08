@@ -23,4 +23,6 @@ export const worldAttunement = {
   ],
   types: "ts",
   schema: "jsonl",
+  createdAt: "2026-09-22T18:46:07.587Z",
+  updatedAt: "2026-09-26T14:51:48.000Z",
 } as const satisfies PageType

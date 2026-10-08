@@ -14,4 +14,6 @@ export const partSpans = {
     { pageProperty: "number-property/last-key", required: true, many: false },
   ],
   types: "ts",
+  createdAt: "2026-09-25T13:53:34.572Z",
+  updatedAt: "2026-09-25T16:56:32.000Z",
 } as const satisfies PagePropertyEntry

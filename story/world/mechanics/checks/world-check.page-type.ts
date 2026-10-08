@@ -143,4 +143,6 @@ export const worldCheck = {
   types: "ts",
   schema: "jsonl",
   loadedExport: ["settled", "added"],
+  createdAt: "2026-09-26T14:17:37.836Z",
+  updatedAt: "2026-09-29T12:41:42.000Z",
 } as const satisfies PageType

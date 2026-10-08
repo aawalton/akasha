@@ -51,4 +51,6 @@ export const overwhereILegacy = {
   ],
   types: "ts",
   schema: "jsonl",
+  createdAt: "2026-09-29T12:15:14.767Z",
+  updatedAt: "2026-09-29T12:15:19.000Z",
 } as const satisfies PageType

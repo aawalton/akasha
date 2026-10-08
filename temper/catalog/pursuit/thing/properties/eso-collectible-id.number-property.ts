@@ -8,4 +8,6 @@ export const esoCollectibleId = {
   definition: "the number The Elder Scrolls Online gives a collectible",
   max: null,
   types: "ts",
+  createdAt: "2026-09-02T08:53:48.329Z",
+  updatedAt: "2026-09-22T14:05:15.000Z",
 } as const satisfies NumberProperty

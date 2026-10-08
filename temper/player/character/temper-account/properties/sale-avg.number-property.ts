@@ -8,4 +8,6 @@ export const saleAvg = {
   definition: "an item's average sale price in gold",
   max: null,
   types: "ts",
+  createdAt: "2026-09-02T04:14:53.313Z",
+  updatedAt: "2026-09-22T14:05:53.000Z",
 } as const satisfies NumberProperty

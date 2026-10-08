@@ -8,4 +8,6 @@ export const otherwhereXTier = {
   extends: ["page-type/metric-character-attribute"],
   types: "ts",
   schema: "jsonl",
+  createdAt: "2026-09-29T00:03:59.293Z",
+  updatedAt: "2026-09-29T00:04:17.000Z",
 } as const satisfies PageType

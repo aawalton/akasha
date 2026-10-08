@@ -20,4 +20,6 @@ export const antiquities = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-02T09:14:50.299Z",
+  updatedAt: "2026-09-24T23:48:00.000Z",
 } as const satisfies PagePropertyEntry

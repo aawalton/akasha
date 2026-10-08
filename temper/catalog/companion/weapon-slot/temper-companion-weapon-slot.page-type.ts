@@ -9,4 +9,6 @@ export const temperCompanionWeaponSlot = {
   properties: [{ pageProperty: "text-property/key", required: true, many: false }],
   types: "ts",
   schema: "jsonl",
+  createdAt: "2026-09-02T01:48:02.345Z",
+  updatedAt: "2026-09-22T13:46:41.000Z",
 } as const satisfies PageType

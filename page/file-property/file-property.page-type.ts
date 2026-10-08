@@ -71,4 +71,6 @@ export const fileProperty = {
   types: "ts",
   schema: "jsonl",
   shapes: "jsonl",
+  createdAt: "2026-08-29T14:49:52.765Z",
+  updatedAt: "2026-09-25T15:03:58.000Z",
 } as const satisfies PageType

@@ -34,4 +34,6 @@ export const generatorKind = {
   ],
   types: "ts",
   schema: "jsonl",
+  createdAt: "2026-08-29T19:55:25.944Z",
+  updatedAt: "2026-10-08T14:53:49.000Z",
 } as const satisfies PageType

@@ -14,4 +14,6 @@ export const graphAttribute = {
   extends: ["page-type/domain"],
   types: "ts",
   schema: "jsonl",
+  createdAt: "2026-08-29T23:44:12.480Z",
+  updatedAt: "2026-09-16T13:34:19.000Z",
 } as const satisfies PageType

@@ -10,4 +10,6 @@ export const overwhereIiiNalaCurrentLash = {
   character: "character-player/overwhere-iii-nala",
   skill: "world-skill/overwhere-iii-current-lash",
   level: 1,
+  createdAt: "2026-09-30T10:17:39.933Z",
+  updatedAt: "2026-09-30T10:17:43.000Z",
 } as const satisfies OverwhereIiiSkill

@@ -18,4 +18,6 @@ export const buffId = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-02T01:46:56.881Z",
+  updatedAt: "2026-09-22T16:43:07.000Z",
 } as const satisfies OneOfProperty

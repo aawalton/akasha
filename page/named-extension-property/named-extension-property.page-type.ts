@@ -37,4 +37,6 @@ export const namedExtensionProperty = {
   types: "ts",
   schema: "jsonl",
   shapes: "jsonl",
+  createdAt: "2026-09-11T16:03:35.086Z",
+  updatedAt: "2026-09-22T10:13:52.000Z",
 } as const satisfies PageType

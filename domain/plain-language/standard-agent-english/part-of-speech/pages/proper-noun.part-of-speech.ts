@@ -19,4 +19,6 @@ export const properNoun = {
       statement: "A name ending in a common noun is a noun rather than a proper noun.",
     },
   ],
+  createdAt: "2026-09-24T17:43:29.150Z",
+  updatedAt: "2026-09-25T15:41:48.000Z",
 } as const satisfies PartOfSpeech

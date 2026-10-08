@@ -48,4 +48,6 @@ export const relationProperty = {
   types: "ts",
   schema: "jsonl",
   shapes: "jsonl",
+  createdAt: "2026-08-29T14:49:52.765Z",
+  updatedAt: "2026-09-24T19:54:52.000Z",
 } as const satisfies PageType

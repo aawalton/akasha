@@ -41,4 +41,6 @@ export const temperPublicDungeon = {
   ],
   types: "ts",
   schema: "jsonl",
+  createdAt: "2026-09-25T12:51:02.129Z",
+  updatedAt: "2026-09-25T12:58:26.000Z",
 } as const satisfies PageType

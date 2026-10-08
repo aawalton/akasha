@@ -93,4 +93,6 @@ export const testFixture = {
   ],
   types: "ts",
   schema: "jsonl",
+  createdAt: "2026-09-13T18:46:28.353Z",
+  updatedAt: "2026-09-22T14:08:17.000Z",
 } as const satisfies PageType

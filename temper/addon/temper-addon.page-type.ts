@@ -208,4 +208,6 @@ export const temperAddon = {
   ],
   types: "ts",
   schema: "jsonl",
+  createdAt: "2026-09-02T03:43:06.615Z",
+  updatedAt: "2026-10-08T13:32:26.000Z",
 } as const satisfies PageType

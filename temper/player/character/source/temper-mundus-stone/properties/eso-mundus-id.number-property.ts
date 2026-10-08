@@ -8,4 +8,6 @@ export const esoMundusId = {
   definition: "a mundus stone's boon ability in The Elder Scrolls Online",
   max: null,
   types: "ts",
+  createdAt: "2026-09-26T20:30:44.203Z",
+  updatedAt: "2026-09-26T20:30:48.000Z",
 } as const satisfies NumberProperty

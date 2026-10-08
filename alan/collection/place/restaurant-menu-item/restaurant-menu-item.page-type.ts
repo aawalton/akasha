@@ -9,4 +9,6 @@ export const restaurantMenuItem = {
   properties: [{ pageProperty: "text-property/title", required: true, many: false }],
   types: "ts",
   schema: "jsonl",
+  createdAt: "2026-09-03T16:08:53.094Z",
+  updatedAt: "2026-09-15T15:36:18.000Z",
 } as const satisfies PageType

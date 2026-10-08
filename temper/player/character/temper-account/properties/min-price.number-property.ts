@@ -8,4 +8,6 @@ export const minPrice = {
   definition: "an item's lowest listing price in gold",
   max: null,
   types: "ts",
+  createdAt: "2026-09-02T04:14:53.312Z",
+  updatedAt: "2026-09-22T13:41:05.000Z",
 } as const satisfies NumberProperty

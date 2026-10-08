@@ -100,4 +100,6 @@ export const learnEverythingTopic = {
   ],
   types: "ts",
   schema: "jsonl",
+  createdAt: "2026-09-03T04:55:52.026Z",
+  updatedAt: "2026-09-24T17:53:51.000Z",
 } as const satisfies PageType

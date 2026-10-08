@@ -54,4 +54,6 @@ export const containerRecipe = {
   ],
   types: "ts",
   schema: "jsonl",
+  createdAt: "2026-09-03T16:24:02.557Z",
+  updatedAt: "2026-09-24T19:29:15.000Z",
 } as const satisfies PageType

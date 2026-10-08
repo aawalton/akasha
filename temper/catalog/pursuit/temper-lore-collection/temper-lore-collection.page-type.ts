@@ -46,4 +46,6 @@ export const temperLoreCollection = {
   ],
   types: "ts",
   schema: "jsonl",
+  createdAt: "2026-09-02T17:56:34.423Z",
+  updatedAt: "2026-09-25T01:28:09.000Z",
 } as const satisfies PageType

@@ -34,4 +34,6 @@ export const temperSourceCategory = {
     "data-table/source-category-ids",
     "boolean-property/worn-gear",
   ],
+  createdAt: "2026-09-02T01:38:27.093Z",
+  updatedAt: "2026-09-26T20:30:13.000Z",
 } as const satisfies PageType

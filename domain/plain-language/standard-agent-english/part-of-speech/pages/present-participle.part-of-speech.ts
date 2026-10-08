@@ -20,4 +20,6 @@ export const presentParticiple = {
         "A word written both here and as a noun makes a second parse wherever a noun comes before it.",
     },
   ],
+  createdAt: "2026-09-22T17:03:25.590Z",
+  updatedAt: "2026-09-25T15:41:48.000Z",
 } as const satisfies PartOfSpeech

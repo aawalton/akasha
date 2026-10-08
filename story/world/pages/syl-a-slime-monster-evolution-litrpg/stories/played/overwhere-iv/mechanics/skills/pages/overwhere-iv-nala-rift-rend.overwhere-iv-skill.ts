@@ -15,4 +15,6 @@ export const overwhereIvNalaRiftRend = {
   reachPaces: 40,
   manaCost: 7,
   durationMinutes: 0,
+  createdAt: "2026-09-30T19:53:03.215Z",
+  updatedAt: "2026-10-03T11:54:19.000Z",
 } as const satisfies OverwhereIvSkill

@@ -31,4 +31,6 @@ export const worldAppointment = {
   ],
   types: "ts",
   schema: "jsonl",
+  createdAt: "2026-09-27T16:28:49.539Z",
+  updatedAt: "2026-09-27T16:28:53.000Z",
 } as const satisfies PageType

@@ -9,4 +9,6 @@ export const mapX = {
     "how far across a map a place sits, from nothing at the left edge to one at the right",
   max: null,
   types: "ts",
+  createdAt: "2026-09-24T23:51:03.551Z",
+  updatedAt: "2026-09-24T23:51:07.000Z",
 } as const satisfies NumberProperty

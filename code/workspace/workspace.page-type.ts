@@ -77,4 +77,6 @@ export const workspace = {
   ],
   types: "ts",
   schema: "jsonl",
+  createdAt: "2026-09-04T14:03:34.433Z",
+  updatedAt: "2026-09-24T19:32:10.000Z",
 } as const satisfies PageType

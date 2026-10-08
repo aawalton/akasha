@@ -6,4 +6,6 @@ export const otherwhereIAlanShelfSight = {
   slug: "otherwhere-i-alan-shelf-sight",
   character: "character-player/otherwhere-i-alan",
   skill: "world-skill/otherwhere-i-shelf-sight",
+  createdAt: "2026-09-28T12:24:19.181Z",
+  updatedAt: "2026-09-28T23:05:17.000Z",
 } as const satisfies OtherwhereISkill

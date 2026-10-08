@@ -27,4 +27,6 @@ export const playlist = {
   ],
   types: "ts",
   schema: "jsonl",
+  createdAt: "2026-09-21T17:43:35.753Z",
+  updatedAt: "2026-09-22T00:11:08.000Z",
 } as const satisfies PageType

@@ -39,4 +39,6 @@ export const telnyxAccount = {
   ],
   types: "ts",
   schema: "jsonl",
+  createdAt: "2026-09-03T17:47:21.933Z",
+  updatedAt: "2026-09-24T18:01:35.000Z",
 } as const satisfies PageType

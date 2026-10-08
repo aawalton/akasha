@@ -38,4 +38,6 @@ export const temperFoodOrDrink = {
   types: "ts",
   schema: "jsonl",
   hashIndexed: ["hashPlace"],
+  createdAt: "2026-09-26T20:44:13.285Z",
+  updatedAt: "2026-09-26T20:44:17.000Z",
 } as const satisfies PageType

@@ -13,4 +13,6 @@ export const temperQuestGiver = {
   ],
   types: "ts",
   schema: "jsonl",
+  createdAt: "2026-09-02T01:38:27.092Z",
+  updatedAt: "2026-09-22T22:41:53.000Z",
 } as const satisfies PageType

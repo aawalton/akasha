@@ -8,4 +8,6 @@ export const shardNumber = {
   definition: "the place a skyshard has among the skyshards its achievement counts",
   max: null,
   types: "ts",
+  createdAt: "2026-09-24T23:51:03.551Z",
+  updatedAt: "2026-09-24T23:51:07.000Z",
 } as const satisfies NumberProperty

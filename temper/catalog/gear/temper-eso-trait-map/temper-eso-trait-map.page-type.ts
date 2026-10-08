@@ -20,4 +20,6 @@ export const temperEsoTraitMap = {
   ],
   types: "ts",
   schema: "jsonl",
+  createdAt: "2026-09-02T01:53:02.001Z",
+  updatedAt: "2026-09-22T15:55:27.000Z",
 } as const satisfies PageType

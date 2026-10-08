@@ -65,4 +65,6 @@ export const checkModel = {
   ],
   types: "ts",
   schema: "jsonl",
+  createdAt: "2026-08-31T18:25:25.013Z",
+  updatedAt: "2026-09-22T13:56:02.000Z",
 } as const satisfies PageType

@@ -30,4 +30,6 @@ export const dashboard = {
   ],
   types: "ts",
   schema: "jsonl",
+  createdAt: "2026-09-07T15:06:02.916Z",
+  updatedAt: "2026-09-22T10:06:02.000Z",
 } as const satisfies PageType

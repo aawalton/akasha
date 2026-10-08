@@ -10,4 +10,6 @@ export const towerAttunement = {
   parts: [],
   types: "ts",
   schema: "jsonl",
+  createdAt: "2026-09-22T18:47:10.702Z",
+  updatedAt: "2026-09-26T16:07:36.000Z",
 } as const satisfies PageType

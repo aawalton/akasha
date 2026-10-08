@@ -56,4 +56,6 @@ export const rustCrate = {
   ],
   types: "ts",
   schema: "jsonl",
+  createdAt: "2026-09-02T03:33:04.338Z",
+  updatedAt: "2026-09-22T13:58:03.000Z",
 } as const satisfies PageType

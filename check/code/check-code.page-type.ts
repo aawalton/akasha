@@ -274,4 +274,6 @@ export const checkCode = {
   ],
   types: "ts",
   schema: "jsonl",
+  createdAt: "2026-08-29T04:26:03.782Z",
+  updatedAt: "2026-09-25T15:54:03.000Z",
 } as const satisfies PageType

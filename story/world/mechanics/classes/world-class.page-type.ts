@@ -11,4 +11,6 @@ export const worldClass = {
   runsTabooCheck: false,
   types: "ts",
   schema: "jsonl",
+  createdAt: "2026-09-03T03:38:24.529Z",
+  updatedAt: "2026-09-30T18:32:12.000Z",
 } as const satisfies PageType

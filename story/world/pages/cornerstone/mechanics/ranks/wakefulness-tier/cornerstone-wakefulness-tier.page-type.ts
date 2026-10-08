@@ -31,4 +31,6 @@ export const cornerstoneWakefulnessTier = {
   ],
   types: "ts",
   schema: "jsonl",
+  createdAt: "2026-09-26T18:07:09.102Z",
+  updatedAt: "2026-09-26T18:07:15.000Z",
 } as const satisfies PageType

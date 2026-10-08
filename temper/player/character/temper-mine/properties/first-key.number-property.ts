@@ -8,4 +8,6 @@ export const firstKey = {
   definition: "the lowest key a numbered file of an entry holds",
   max: null,
   types: "ts",
+  createdAt: "2026-09-25T13:53:34.571Z",
+  updatedAt: "2026-09-25T13:53:51.000Z",
 } as const satisfies NumberProperty

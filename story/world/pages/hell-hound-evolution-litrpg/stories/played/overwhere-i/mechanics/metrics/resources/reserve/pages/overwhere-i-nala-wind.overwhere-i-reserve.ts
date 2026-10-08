@@ -10,4 +10,6 @@ export const overwhereINalaWind = {
   maxValue: 30,
   history: "jsonl",
   displayOrder: 6,
+  createdAt: "2026-09-29T12:39:16.642Z",
+  updatedAt: "2026-09-30T10:56:35.000Z",
 } as const satisfies OverwhereIReserve

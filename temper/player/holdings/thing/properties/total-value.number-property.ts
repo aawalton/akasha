@@ -8,4 +8,6 @@ export const totalValue = {
   definition: "what everything a reading covers is worth in gold",
   max: null,
   types: "ts",
+  createdAt: "2026-09-02T01:46:39.274Z",
+  updatedAt: "2026-09-21T15:34:59.000Z",
 } as const satisfies NumberProperty

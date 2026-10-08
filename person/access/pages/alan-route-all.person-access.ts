@@ -8,4 +8,6 @@ export const alanRouteAll = {
   accessKind: "access-kind/route",
   target: "all",
   deed: ["access-deed/read"],
+  createdAt: "2026-08-30T19:44:45.314Z",
+  updatedAt: "2026-09-21T17:03:22.000Z",
 } as const satisfies PersonAccess

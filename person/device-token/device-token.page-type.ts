@@ -66,4 +66,6 @@ export const deviceToken = {
   ],
   types: "ts",
   schema: "jsonl",
+  createdAt: "2026-09-01T16:22:28.569Z",
+  updatedAt: "2026-09-22T10:09:59.000Z",
 } as const satisfies PageType

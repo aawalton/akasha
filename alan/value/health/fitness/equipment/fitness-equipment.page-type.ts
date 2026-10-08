@@ -59,4 +59,6 @@ export const fitnessEquipment = {
   ],
   types: "ts",
   schema: "jsonl",
+  createdAt: "2026-09-03T16:58:05.318Z",
+  updatedAt: "2026-09-22T14:00:25.000Z",
 } as const satisfies PageType

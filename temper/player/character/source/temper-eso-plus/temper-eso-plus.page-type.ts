@@ -29,4 +29,6 @@ export const temperEsoPlus = {
   types: "ts",
   schema: "jsonl",
   hashIndexed: ["hashPlace"],
+  createdAt: "2026-09-26T20:24:32.068Z",
+  updatedAt: "2026-09-26T20:24:36.000Z",
 } as const satisfies PageType

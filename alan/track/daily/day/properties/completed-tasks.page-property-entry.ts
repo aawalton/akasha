@@ -19,4 +19,6 @@ export const completedTasks = {
     { pageProperty: "text-property/description", required: false, many: false },
   ],
   types: "ts",
+  createdAt: "2026-09-02T02:00:36.367Z",
+  updatedAt: "2026-09-22T18:56:50.000Z",
 } as const satisfies PagePropertyEntry

@@ -13,4 +13,6 @@ export const temperDebuffOther = {
   ],
   types: "ts",
   schema: "jsonl",
+  createdAt: "2026-09-02T01:39:39.344Z",
+  updatedAt: "2026-09-26T18:25:50.000Z",
 } as const satisfies PageType

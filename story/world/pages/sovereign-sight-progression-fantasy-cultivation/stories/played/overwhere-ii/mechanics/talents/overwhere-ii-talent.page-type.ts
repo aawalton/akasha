@@ -78,4 +78,6 @@ export const overwhereIiTalent = {
   ],
   types: "ts",
   schema: "jsonl",
+  createdAt: "2026-09-29T12:16:07.731Z",
+  updatedAt: "2026-09-30T10:50:01.000Z",
 } as const satisfies PageType

@@ -22,4 +22,6 @@ export const temperDeconstructMode = {
   ],
   types: "ts",
   schema: "jsonl",
+  createdAt: "2026-09-27T10:10:33.941Z",
+  updatedAt: "2026-09-27T10:10:37.000Z",
 } as const satisfies PageType

@@ -44,4 +44,6 @@ export const mobileCut = {
   ],
   types: "ts",
   schema: "jsonl",
+  createdAt: "2026-07-11T12:58:12.368Z",
+  updatedAt: "2026-09-22T13:57:00.000Z",
 } as const satisfies PageType

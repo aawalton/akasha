@@ -13,4 +13,6 @@ export const towerAttunementRank = {
     { pageProperty: "number-property/tower-attunement-bias", required: true, many: false },
   ],
   parts: ["number-property/tower-attunement-bias"],
+  createdAt: "2026-09-22T18:47:14.873Z",
+  updatedAt: "2026-09-22T18:50:34.000Z",
 } as const satisfies PageType

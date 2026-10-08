@@ -38,4 +38,6 @@ export const temperRule = {
   ],
   types: "ts",
   schema: "jsonl",
+  createdAt: "2026-09-05T16:50:54.116Z",
+  updatedAt: "2026-09-25T12:53:26.000Z",
 } as const satisfies PageType

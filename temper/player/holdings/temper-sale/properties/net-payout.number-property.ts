@@ -11,4 +11,6 @@ export const netPayout = {
     { decisionKind: "decision-kind/departure", statement: "A payout is the price less the tax." },
   ],
   types: "ts",
+  createdAt: "2026-09-03T17:42:35.690Z",
+  updatedAt: "2026-09-21T15:34:59.000Z",
 } as const satisfies NumberProperty

@@ -9,4 +9,6 @@ export const otherwhereIMainHall = {
   lit: true,
   place: "place/otherwhere-i-main-hall",
   shownTo: ["character-player/otherwhere-i-alan"],
+  createdAt: "2026-09-28T13:31:07.747Z",
+  updatedAt: "2026-09-28T23:02:42.000Z",
 } as const satisfies OtherwhereIRoom

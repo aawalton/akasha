@@ -63,4 +63,6 @@ export const lore = {
   ],
   types: "ts",
   schema: "jsonl",
+  createdAt: "2026-09-24T15:49:25.214Z",
+  updatedAt: "2026-09-30T18:01:26.000Z",
 } as const satisfies PageType

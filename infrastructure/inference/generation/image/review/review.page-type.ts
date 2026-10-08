@@ -50,4 +50,6 @@ export const review = {
   schema: "jsonl",
   parts: ["module/review-following", "module/review-queue", "relation-property/review-persona"],
   properties: [{ pageProperty: "relation-property/review-persona", required: false, many: false }],
+  createdAt: "2026-09-26T17:11:10.264Z",
+  updatedAt: "2026-09-27T01:15:19.000Z",
 } as const satisfies PageType

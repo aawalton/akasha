@@ -18,4 +18,6 @@ export const otherwhereVUtilitySkill = {
   ],
   types: "ts",
   schema: "jsonl",
+  createdAt: "2026-09-28T21:52:31.513Z",
+  updatedAt: "2026-09-28T21:52:39.000Z",
 } as const satisfies PageType

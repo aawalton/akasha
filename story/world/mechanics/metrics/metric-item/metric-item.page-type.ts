@@ -15,4 +15,6 @@ export const metricItem = {
   properties: [{ pageProperty: "relation-property/metric-of-item", required: true, many: false }],
   types: "ts",
   schema: "jsonl",
+  createdAt: "2026-09-22T18:03:30.499Z",
+  updatedAt: "2026-09-28T12:55:55.000Z",
 } as const satisfies PageType

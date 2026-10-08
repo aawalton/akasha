@@ -28,4 +28,6 @@ export const codeFileProperty = {
   types: "ts",
   schema: "jsonl",
   shapes: "jsonl",
+  createdAt: "2026-09-09T18:45:12.436Z",
+  updatedAt: "2026-09-25T14:59:22.000Z",
 } as const satisfies PageType

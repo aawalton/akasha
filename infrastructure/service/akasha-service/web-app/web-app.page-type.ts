@@ -68,4 +68,6 @@ export const webApp = {
   ],
   types: "ts",
   schema: "jsonl",
+  createdAt: "2026-09-01T04:07:55.830Z",
+  updatedAt: "2026-09-27T12:21:16.000Z",
 } as const satisfies PageType

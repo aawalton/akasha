@@ -19,4 +19,6 @@ export const temperClass = {
   types: "ts",
   schema: "jsonl",
   hashIndexed: ["hashPlace"],
+  createdAt: "2026-09-02T01:45:21.033Z",
+  updatedAt: "2026-09-27T01:49:36.000Z",
 } as const satisfies PageType

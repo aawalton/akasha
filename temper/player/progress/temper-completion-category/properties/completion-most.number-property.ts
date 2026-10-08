@@ -8,4 +8,6 @@ export const completionMost = {
   definition: "the most the game lets a player reach under a completion category, where it caps it",
   max: null,
   types: "ts",
+  createdAt: "2026-09-27T05:30:16.579Z",
+  updatedAt: "2026-09-27T05:30:31.000Z",
 } as const satisfies NumberProperty

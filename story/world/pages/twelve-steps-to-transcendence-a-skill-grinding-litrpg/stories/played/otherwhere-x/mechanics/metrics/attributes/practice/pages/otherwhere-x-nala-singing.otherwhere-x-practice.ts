@@ -9,4 +9,6 @@ export const otherwhereXNalaSinging = {
   minValue: 0,
   history: "jsonl",
   unrevealed: true,
+  createdAt: "2026-09-29T02:19:59.761Z",
+  updatedAt: "2026-09-30T07:27:58.000Z",
 } as const satisfies OtherwhereXPractice

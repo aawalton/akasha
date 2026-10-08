@@ -80,4 +80,6 @@ export const modulePropertyGroup = {
   types: "ts",
   schema: "jsonl",
   shapes: "jsonl",
+  createdAt: "2026-09-09T19:48:27.597Z",
+  updatedAt: "2026-09-24T19:29:15.000Z",
 } as const satisfies PageType

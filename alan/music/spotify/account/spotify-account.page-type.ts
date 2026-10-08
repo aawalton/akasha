@@ -75,4 +75,6 @@ export const spotifyAccount = {
   ],
   types: "ts",
   schema: "jsonl",
+  createdAt: "2026-09-18T23:31:44.161Z",
+  updatedAt: "2026-09-22T13:45:29.000Z",
 } as const satisfies PageType

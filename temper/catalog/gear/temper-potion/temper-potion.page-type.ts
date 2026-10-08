@@ -34,4 +34,6 @@ export const temperPotion = {
   schema: "jsonl",
   hashIndexed: ["hashPlace"],
   parts: ["multi-relation-property/potion-restores"],
+  createdAt: "2026-09-27T02:10:14.553Z",
+  updatedAt: "2026-09-27T04:00:27.000Z",
 } as const satisfies PageType

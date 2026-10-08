@@ -44,4 +44,6 @@ export const masteryLevel = {
   ],
   types: "ts",
   schema: "jsonl",
+  createdAt: "2026-09-06T19:56:03.385Z",
+  updatedAt: "2026-09-22T13:47:07.000Z",
 } as const satisfies PageType

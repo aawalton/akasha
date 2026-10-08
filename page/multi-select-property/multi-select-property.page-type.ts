@@ -20,4 +20,6 @@ export const multiSelectProperty = {
   types: "ts",
   schema: "jsonl",
   shapes: "jsonl",
+  createdAt: "2026-09-21T17:11:22.010Z",
+  updatedAt: "2026-09-24T19:54:52.000Z",
 } as const satisfies PageType

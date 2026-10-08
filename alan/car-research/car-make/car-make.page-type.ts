@@ -38,4 +38,6 @@ export const carMake = {
   ],
   types: "ts",
   schema: "jsonl",
+  createdAt: "2026-09-03T04:55:06.618Z",
+  updatedAt: "2026-09-21T18:36:47.000Z",
 } as const satisfies PageType

@@ -23,4 +23,6 @@ export const imageAlbum = {
   ],
   types: "ts",
   schema: "jsonl",
+  createdAt: "2026-09-28T18:29:23.808Z",
+  updatedAt: "2026-09-28T20:53:34.000Z",
 } as const satisfies PageType

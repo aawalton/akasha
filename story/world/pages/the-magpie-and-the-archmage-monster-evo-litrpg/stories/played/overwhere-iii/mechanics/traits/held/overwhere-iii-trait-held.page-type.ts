@@ -37,4 +37,6 @@ export const overwhereIiiTraitHeld = {
   ],
   types: "ts",
   schema: "jsonl",
+  createdAt: "2026-09-29T12:20:41.291Z",
+  updatedAt: "2026-09-29T12:20:46.000Z",
 } as const satisfies PageType

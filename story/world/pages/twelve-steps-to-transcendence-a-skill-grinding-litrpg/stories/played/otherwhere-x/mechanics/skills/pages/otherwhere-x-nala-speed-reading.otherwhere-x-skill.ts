@@ -9,4 +9,6 @@ export const otherwhereXNalaSpeedReading = {
   level: 1,
   rarity: "world-rank/otherwhere-x-common",
   unrevealed: true,
+  createdAt: "2026-09-29T00:10:16.762Z",
+  updatedAt: "2026-09-30T07:31:18.000Z",
 } as const satisfies OtherwhereXSkill

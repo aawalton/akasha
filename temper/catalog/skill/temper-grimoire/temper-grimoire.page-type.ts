@@ -36,4 +36,6 @@ export const temperGrimoire = {
   types: "ts",
   schema: "jsonl",
   hashIndexed: ["hashPlace"],
+  createdAt: "2026-09-02T01:45:21.033Z",
+  updatedAt: "2026-09-26T19:32:16.000Z",
 } as const satisfies PageType

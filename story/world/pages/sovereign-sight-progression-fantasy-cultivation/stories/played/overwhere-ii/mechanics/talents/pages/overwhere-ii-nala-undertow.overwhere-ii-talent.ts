@@ -19,4 +19,6 @@ export const overwhereIiNalaUndertow = {
     "Draws from anything in its reach, not only what she touches.",
     "Pushes one thing and pulls another at the same time, at will.",
   ],
+  createdAt: "2026-09-29T12:16:32.121Z",
+  updatedAt: "2026-10-03T13:25:52.000Z",
 } as const satisfies OverwhereIiTalent

@@ -38,4 +38,6 @@ export const towerSkill = {
   ],
   types: "ts",
   schema: "jsonl",
+  createdAt: "2026-09-26T14:21:52.880Z",
+  updatedAt: "2026-09-27T20:08:03.000Z",
 } as const satisfies PageType

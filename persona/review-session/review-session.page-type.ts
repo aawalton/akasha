@@ -36,4 +36,6 @@ export const reviewSession = {
   ],
   types: "ts",
   schema: "jsonl",
+  createdAt: "2026-09-03T12:34:52.896Z",
+  updatedAt: "2026-09-25T15:21:10.000Z",
 } as const satisfies PageType

@@ -9,4 +9,6 @@ export const overwhereIvNalaTrait = {
   minValue: 0,
   history: "jsonl",
   unrevealed: true,
+  createdAt: "2026-09-30T10:18:26.269Z",
+  updatedAt: "2026-10-02T23:01:03.000Z",
 } as const satisfies OverwhereIvPoints

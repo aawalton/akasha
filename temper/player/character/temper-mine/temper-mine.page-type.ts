@@ -74,4 +74,6 @@ export const temperMine = {
   ],
   types: "ts",
   schema: "jsonl",
+  createdAt: "2026-09-02T01:48:48.343Z",
+  updatedAt: "2026-09-26T18:21:36.000Z",
 } as const satisfies PageType

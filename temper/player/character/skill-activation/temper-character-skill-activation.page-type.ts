@@ -27,4 +27,6 @@ export const temperCharacterSkillActivation = {
   ],
   types: "ts",
   schema: "jsonl",
+  createdAt: "2026-09-02T01:48:48.330Z",
+  updatedAt: "2026-09-22T10:07:57.000Z",
 } as const satisfies PageType

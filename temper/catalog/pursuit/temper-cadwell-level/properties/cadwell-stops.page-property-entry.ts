@@ -19,4 +19,6 @@ export const cadwellStops = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-02T09:20:08.926Z",
+  updatedAt: "2026-09-21T15:27:16.000Z",
 } as const satisfies PagePropertyEntry

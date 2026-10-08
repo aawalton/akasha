@@ -20,4 +20,6 @@ export const temperReagent = {
   ],
   types: "ts",
   schema: "jsonl",
+  createdAt: "2026-09-02T01:53:02.016Z",
+  updatedAt: "2026-09-22T13:33:51.000Z",
 } as const satisfies PageType

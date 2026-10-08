@@ -9,4 +9,6 @@ export const serviceLifecycle = {
   extends: ["page-type/domain"],
   types: "ts",
   schema: "jsonl",
+  createdAt: "2026-09-22T19:25:42.051Z",
+  updatedAt: "2026-09-24T19:06:05.000Z",
 } as const satisfies PageType

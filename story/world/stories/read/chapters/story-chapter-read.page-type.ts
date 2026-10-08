@@ -64,4 +64,6 @@ export const storyChapterRead = {
   ],
   types: "ts",
   schema: "jsonl",
+  createdAt: "2026-09-03T03:34:14.461Z",
+  updatedAt: "2026-09-29T02:56:03.000Z",
 } as const satisfies PageType

@@ -24,4 +24,6 @@ export const appRoutes = {
   ],
   types: "ts",
   schema: "jsonl",
+  createdAt: "2026-09-10T15:10:16.429Z",
+  updatedAt: "2026-09-22T10:05:48.000Z",
 } as const satisfies PageType

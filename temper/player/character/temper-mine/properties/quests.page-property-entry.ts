@@ -17,4 +17,6 @@ export const quests = {
     { pageProperty: "text-property/zone-name", required: true, many: false },
   ],
   types: "ts",
+  createdAt: "2026-09-02T01:48:48.339Z",
+  updatedAt: "2026-09-25T16:50:16.000Z",
 } as const satisfies PagePropertyEntry

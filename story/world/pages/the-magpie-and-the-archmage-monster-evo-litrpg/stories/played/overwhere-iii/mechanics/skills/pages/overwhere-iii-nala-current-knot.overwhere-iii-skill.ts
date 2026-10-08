@@ -10,4 +10,6 @@ export const overwhereIiiNalaCurrentKnot = {
   character: "character-player/overwhere-iii-nala",
   skill: "world-skill/overwhere-iii-current-knot",
   level: 1,
+  createdAt: "2026-10-03T01:14:17.102Z",
+  updatedAt: "2026-10-03T01:14:19.000Z",
 } as const satisfies OverwhereIiiSkill

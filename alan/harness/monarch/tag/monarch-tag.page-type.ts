@@ -23,4 +23,6 @@ export const monarchTag = {
   ],
   types: "ts",
   schema: "jsonl",
+  createdAt: "2026-09-03T16:11:27.616Z",
+  updatedAt: "2026-09-22T14:07:54.000Z",
 } as const satisfies PageType

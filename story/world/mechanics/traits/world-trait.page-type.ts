@@ -18,4 +18,6 @@ export const worldTrait = {
   ],
   types: "ts",
   schema: "jsonl",
+  createdAt: "2026-09-22T18:24:51.544Z",
+  updatedAt: "2026-09-29T12:20:46.000Z",
 } as const satisfies PageType

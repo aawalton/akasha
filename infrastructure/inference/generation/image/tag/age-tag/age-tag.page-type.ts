@@ -22,4 +22,6 @@ export const ageTag = {
   ],
   types: "ts",
   schema: "jsonl",
+  createdAt: "2026-09-26T16:23:55.455Z",
+  updatedAt: "2026-09-27T00:51:11.000Z",
 } as const satisfies PageType

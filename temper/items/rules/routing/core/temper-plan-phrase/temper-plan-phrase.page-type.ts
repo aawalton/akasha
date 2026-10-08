@@ -22,4 +22,6 @@ export const temperPlanPhrase = {
   ],
   types: "ts",
   schema: "jsonl",
+  createdAt: "2026-09-27T11:54:01.397Z",
+  updatedAt: "2026-09-27T11:54:06.000Z",
 } as const satisfies PageType

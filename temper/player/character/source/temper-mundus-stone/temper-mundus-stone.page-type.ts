@@ -36,4 +36,6 @@ export const temperMundusStone = {
   types: "ts",
   schema: "jsonl",
   hashIndexed: ["hashPlace"],
+  createdAt: "2026-09-26T20:30:44.203Z",
+  updatedAt: "2026-09-26T20:30:48.000Z",
 } as const satisfies PageType

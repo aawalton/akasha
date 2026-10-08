@@ -9,4 +9,6 @@ export const accessDeed = {
   extends: ["page-type/domain"],
   types: "ts",
   schema: "jsonl",
+  createdAt: "2026-09-21T16:56:22.681Z",
+  updatedAt: "2026-09-21T18:24:00.000Z",
 } as const satisfies PageType

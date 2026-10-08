@@ -39,4 +39,6 @@ export const esoInterface = {
   ],
   types: "ts",
   schema: "jsonl",
+  createdAt: "2026-09-02T03:43:06.614Z",
+  updatedAt: "2026-09-22T10:05:48.000Z",
 } as const satisfies PageType

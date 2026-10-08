@@ -11,4 +11,6 @@ export const characterTrait = {
   properties: [{ pageProperty: "relation-property/trait-character", required: true, many: false }],
   types: "ts",
   schema: "jsonl",
+  createdAt: "2026-09-22T18:25:29.795Z",
+  updatedAt: "2026-09-28T21:51:44.000Z",
 } as const satisfies PageType

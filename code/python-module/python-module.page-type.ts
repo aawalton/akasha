@@ -41,4 +41,6 @@ export const pythonModule = {
   ],
   types: "ts",
   schema: "jsonl",
+  createdAt: "2026-09-03T16:24:02.557Z",
+  updatedAt: "2026-09-25T14:38:25.000Z",
 } as const satisfies PageType

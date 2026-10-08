@@ -8,4 +8,6 @@ export const otherwhereIAlan = {
   value: 4,
   minValue: 0,
   history: "jsonl",
+  createdAt: "2026-09-27T15:02:14.699Z",
+  updatedAt: "2026-09-28T23:04:45.000Z",
 } as const satisfies OtherwhereIConnection

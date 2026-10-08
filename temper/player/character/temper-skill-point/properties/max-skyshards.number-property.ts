@@ -8,4 +8,6 @@ export const maxSkyshards = {
   definition: "how many skyshards a source holds",
   max: null,
   types: "ts",
+  createdAt: "2026-09-02T01:48:48.345Z",
+  updatedAt: "2026-09-21T15:29:06.000Z",
 } as const satisfies NumberProperty

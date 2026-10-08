@@ -13,4 +13,6 @@ export const temperCompanionSkillLine = {
   ],
   types: "ts",
   schema: "jsonl",
+  createdAt: "2026-09-02T01:48:57.300Z",
+  updatedAt: "2026-09-22T19:24:31.000Z",
 } as const satisfies PageType

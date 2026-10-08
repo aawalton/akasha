@@ -14,4 +14,6 @@ export const appliedDebuffs = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-25T12:38:30.945Z",
+  updatedAt: "2026-09-25T14:12:34.000Z",
 } as const satisfies OneOfProperty

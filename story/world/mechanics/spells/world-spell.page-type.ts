@@ -10,4 +10,6 @@ export const worldSpell = {
   runsTabooCheck: false,
   types: "ts",
   schema: "jsonl",
+  createdAt: "2026-09-03T03:38:24.529Z",
+  updatedAt: "2026-09-19T11:31:27.000Z",
 } as const satisfies PageType

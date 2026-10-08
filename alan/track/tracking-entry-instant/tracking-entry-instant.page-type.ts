@@ -8,4 +8,6 @@ export const trackingEntryInstant = {
   extends: ["page-type/tracking-entry"],
   types: "ts",
   schema: "jsonl",
+  createdAt: "2026-09-03T16:44:01.932Z",
+  updatedAt: "2026-09-22T10:06:01.000Z",
 } as const satisfies PageType

@@ -8,4 +8,6 @@ export const rotationPosition = {
   definition: "where a dungeon falls in its pledge rotation",
   max: null,
   types: "ts",
+  createdAt: "2026-09-02T01:38:27.091Z",
+  updatedAt: "2026-09-21T15:28:00.000Z",
 } as const satisfies NumberProperty

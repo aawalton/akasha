@@ -11,4 +11,6 @@ export const infinitiveMarker = {
       statement: "The verb after an infinitive marker is the plain form.",
     },
   ],
+  createdAt: "2026-09-24T22:15:32.095Z",
+  updatedAt: "2026-09-25T15:41:48.000Z",
 } as const satisfies PartOfSpeech

@@ -10,4 +10,6 @@ export const temperSetRule = {
   properties: [{ pageProperty: "number-property/set-piece-most", required: true, many: false }],
   types: "ts",
   schema: "jsonl",
+  createdAt: "2026-09-27T06:52:43.144Z",
+  updatedAt: "2026-09-27T06:52:47.000Z",
 } as const satisfies PageType

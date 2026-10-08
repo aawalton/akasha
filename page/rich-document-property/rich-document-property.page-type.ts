@@ -28,4 +28,6 @@ export const richDocumentProperty = {
   types: "ts",
   schema: "jsonl",
   shapes: "jsonl",
+  createdAt: "2026-09-22T00:07:24.818Z",
+  updatedAt: "2026-09-24T19:54:52.000Z",
 } as const satisfies PageType

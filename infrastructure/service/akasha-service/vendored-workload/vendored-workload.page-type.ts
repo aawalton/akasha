@@ -50,4 +50,6 @@ export const vendoredWorkload = {
   ],
   types: "ts",
   schema: "jsonl",
+  createdAt: "2026-09-03T20:10:54.459Z",
+  updatedAt: "2026-09-25T16:28:10.000Z",
 } as const satisfies PageType

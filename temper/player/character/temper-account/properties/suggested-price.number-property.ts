@@ -8,4 +8,6 @@ export const suggestedPrice = {
   definition: "the gold a seller is advised to ask for an item",
   max: null,
   types: "ts",
+  createdAt: "2026-09-02T04:14:53.315Z",
+  updatedAt: "2026-09-21T15:29:06.000Z",
 } as const satisfies NumberProperty

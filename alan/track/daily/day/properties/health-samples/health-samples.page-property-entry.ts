@@ -23,4 +23,6 @@ export const healthSamples = {
     { pageProperty: "instant-property/arrived-at", required: true, many: false },
   ],
   types: "ts",
+  createdAt: "2026-09-02T07:17:38.448Z",
+  updatedAt: "2026-09-17T06:48:08.000Z",
 } as const satisfies PagePropertyEntry

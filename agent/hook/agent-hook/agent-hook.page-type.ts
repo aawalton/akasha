@@ -124,4 +124,6 @@ export const agentHook = {
   loadedExport: ["judgedFor"],
   types: "ts",
   schema: "jsonl",
+  createdAt: "2026-08-29T15:02:17.082Z",
+  updatedAt: "2026-09-30T05:21:26.000Z",
 } as const satisfies PageType

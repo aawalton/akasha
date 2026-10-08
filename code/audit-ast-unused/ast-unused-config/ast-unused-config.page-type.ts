@@ -16,4 +16,6 @@ export const astUnusedConfig = {
   ],
   types: "ts",
   schema: "jsonl",
+  createdAt: "2026-09-08T15:17:01.664Z",
+  updatedAt: "2026-09-22T13:48:28.000Z",
 } as const satisfies PageType

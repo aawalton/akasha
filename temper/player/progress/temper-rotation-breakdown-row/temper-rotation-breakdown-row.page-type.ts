@@ -20,4 +20,6 @@ export const temperRotationBreakdownRow = {
   ],
   types: "ts",
   schema: "jsonl",
+  createdAt: "2026-09-02T01:44:02.819Z",
+  updatedAt: "2026-09-22T14:00:30.000Z",
 } as const satisfies PageType

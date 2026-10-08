@@ -54,4 +54,6 @@ export const audio = {
   ],
   types: "ts",
   schema: "jsonl",
+  createdAt: "2026-06-30T12:57:19.500Z",
+  updatedAt: "2026-09-26T16:14:26.000Z",
 } as const satisfies PageType

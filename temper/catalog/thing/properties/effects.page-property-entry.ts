@@ -43,4 +43,6 @@ export const effects = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-02T01:16:20.587Z",
+  updatedAt: "2026-09-24T15:15:21.000Z",
 } as const satisfies PagePropertyEntry
