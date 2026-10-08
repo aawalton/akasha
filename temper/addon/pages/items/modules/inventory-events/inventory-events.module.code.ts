@@ -60,6 +60,7 @@ import {
   onOpenBank,
 } from "akasha/temper/addon/pages/items/modules/inventory-rules-dispatch-bank/inventory-rules-dispatch-bank.module.code.ts"
 import { isPacedBankRunning } from "akasha/temper/addon/pages/items/modules/inventory-rules-dispatch-bank-paced/inventory-rules-dispatch-bank-paced.module.code.ts"
+import { dispatchBindActions } from "akasha/temper/addon/pages/items/modules/inventory-rules-dispatch-bind/inventory-rules-dispatch-bind.module.code.ts"
 import { dispatchEquipActions } from "akasha/temper/addon/pages/items/modules/inventory-rules-dispatch-equip/inventory-rules-dispatch-equip.module.code.ts"
 import { onOpenGuildBank } from "akasha/temper/addon/pages/items/modules/inventory-rules-dispatch-guild-crafting/inventory-rules-dispatch-guild-crafting.module.code.ts"
 import { dispatchGuildBankCurrency } from "akasha/temper/addon/pages/items/modules/inventory-rules-dispatch-guild-currency/inventory-rules-dispatch-guild-currency.module.code.ts"
@@ -321,7 +322,9 @@ export function registerInventoryEvents(): undefined {
         fireInventoryActionsChanged()
         if (isOpenQueueActive() || isPacedBankRunning()) return
         const action = getPendingAction(bagId, slotIndex)
-        if (action === "use" || action === "open") {
+        if (action === "bind") {
+          dispatchBindActions()
+        } else if (action === "use" || action === "open") {
           dispatchUseActions()
         } else if (takeRoomForWaitingOpens()) {
           rescanInventory()
@@ -346,6 +349,7 @@ export function registerInventoryEvents(): undefined {
       if (newState !== SCENE_FRAGMENT_SHOWING) return
       rescanWornItems()
       dispatchUnlockActions()
+      dispatchBindActions()
       dispatchSafeOpenActions()
     }
   )

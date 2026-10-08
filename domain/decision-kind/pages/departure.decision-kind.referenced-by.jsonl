@@ -4550,6 +4550,7 @@
 {"propertySlug":"decision-kind","path":"temper/addon/pages/items/modules/inventory-rules-dispatch-bank-vault/inventory-rules-dispatch-bank-vault.module.ts","id":"01a06258-b530-79eb-a110-55d5942865b1"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/items/modules/inventory-rules-dispatch-bank-withdrawals/inventory-rules-dispatch-bank-withdrawals.module.ts","id":"01a06258-b530-7df4-9831-55755f31aee1"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/items/modules/inventory-rules-dispatch-bank/inventory-rules-dispatch-bank.module.ts","id":"01a06258-b531-7715-8d2a-26fd26ca0747"}
+{"propertySlug":"decision-kind","path":"temper/addon/pages/items/modules/inventory-rules-dispatch-bind/inventory-rules-dispatch-bind.module.ts","id":"01a11be8-7c3f-7239-91c1-142ef2793388"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/items/modules/inventory-rules-dispatch-buy/inventory-rules-dispatch-buy.module.ts","id":"01a06258-b531-7fee-9693-0454e9110b2d"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/items/modules/inventory-rules-dispatch-guild-buy/inventory-rules-dispatch-guild-buy.module.ts","id":"01a0e352-edcd-7365-bbbf-d6e0582757a8"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/items/modules/inventory-rules-dispatch-guild-crafting/inventory-rules-dispatch-guild-crafting.module.ts","id":"01a06258-b531-7efe-864b-ce4a1f797ba8"}

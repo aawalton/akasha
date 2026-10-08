@@ -206,6 +206,11 @@ export function applyAction(
     if (ruleIndex !== undefined) pendingRuleIndices.set(pKey, ruleIndex)
     return
   }
+  if (action === "bind") {
+    setPendingAction(bagId, slotIndex, "bind")
+    if (ruleIndex !== undefined) pendingRuleIndices.set(pKey, ruleIndex)
+    return
+  }
   if (action === "nothing") {
     return
   }

@@ -147,6 +147,7 @@ export const temperAddonItems = {
     "module/inventory-rules-dispatch-bank-slots",
     "module/inventory-rules-dispatch-bank-vault",
     "module/inventory-rules-dispatch-bank-withdrawals",
+    "module/inventory-rules-dispatch-bind",
     "module/inventory-rules-dispatch-buy",
     "module/inventory-rules-dispatch-equip",
     "module/inventory-rules-dispatch-guild-crafting",
