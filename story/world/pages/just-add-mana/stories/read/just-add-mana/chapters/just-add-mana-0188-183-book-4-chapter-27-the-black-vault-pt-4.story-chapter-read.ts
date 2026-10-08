@@ -20,4 +20,6 @@ export const justAddMana0188183Book4Chapter27TheBlackVaultPt4 = {
   title: "183 — Book 4, Chapter 27 — The Black Vault, Pt 4",
   ownLength: 3143,
   prose: "txt",
+  createdAt: "2026-09-08T15:37:10.022Z",
+  updatedAt: "2026-09-28T20:27:20.000Z",
 } as const satisfies StoryChapterRead

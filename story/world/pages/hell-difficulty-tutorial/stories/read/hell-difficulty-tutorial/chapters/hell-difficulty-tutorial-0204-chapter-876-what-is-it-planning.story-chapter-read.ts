@@ -19,4 +19,6 @@ export const hellDifficultyTutorial0204Chapter876WhatIsItPlanning = {
   title: "Chapter 876 - What is it planning?",
   ownLength: 2998,
   prose: "txt",
+  createdAt: "2026-09-06T22:07:45.878Z",
+  updatedAt: "2026-09-19T18:25:57.000Z",
 } as const satisfies StoryChapterRead

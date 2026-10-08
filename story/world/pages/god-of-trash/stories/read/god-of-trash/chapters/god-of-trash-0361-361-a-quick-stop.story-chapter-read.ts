@@ -19,4 +19,6 @@ export const godOfTrash0361361AQuickStop = {
   story: "story-read/god-of-trash",
   ownLength: 2045,
   prose: "txt",
+  createdAt: "2026-09-09T20:06:05.806Z",
+  updatedAt: "2026-09-19T18:25:57.000Z",
 } as const satisfies StoryChapterRead

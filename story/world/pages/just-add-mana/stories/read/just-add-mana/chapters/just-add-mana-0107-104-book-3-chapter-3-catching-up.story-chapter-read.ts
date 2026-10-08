@@ -20,4 +20,6 @@ export const justAddMana0107104Book3Chapter3CatchingUp = {
     },
   ],
   prose: "txt",
+  createdAt: "2026-09-03T12:15:04.216Z",
+  updatedAt: "2026-09-28T20:27:19.000Z",
 } as const satisfies StoryChapterRead

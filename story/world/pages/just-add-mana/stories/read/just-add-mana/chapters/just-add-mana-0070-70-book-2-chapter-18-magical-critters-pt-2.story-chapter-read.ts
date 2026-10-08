@@ -21,4 +21,6 @@ export const justAddMana007070Book2Chapter18MagicalCrittersPt2 = {
     },
   ],
   prose: "txt",
+  createdAt: "2026-09-03T12:15:04.172Z",
+  updatedAt: "2026-09-19T18:25:57.000Z",
 } as const satisfies StoryChapterRead

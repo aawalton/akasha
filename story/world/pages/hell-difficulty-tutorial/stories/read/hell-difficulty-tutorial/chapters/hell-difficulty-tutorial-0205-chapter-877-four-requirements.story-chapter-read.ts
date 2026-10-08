@@ -19,4 +19,6 @@ export const hellDifficultyTutorial0205Chapter877FourRequirements = {
   title: "Chapter 877 - Four requirements",
   ownLength: 2168,
   prose: "txt",
+  createdAt: "2026-09-07T23:06:11.239Z",
+  updatedAt: "2026-09-19T18:25:57.000Z",
 } as const satisfies StoryChapterRead

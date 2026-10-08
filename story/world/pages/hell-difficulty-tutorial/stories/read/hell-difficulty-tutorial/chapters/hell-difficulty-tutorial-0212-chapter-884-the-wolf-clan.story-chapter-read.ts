@@ -19,4 +19,6 @@ export const hellDifficultyTutorial0212Chapter884TheWolfClan = {
   story: "story-read/hell-difficulty-tutorial",
   ownLength: 2354,
   prose: "txt",
+  createdAt: "2026-09-16T23:05:39.276Z",
+  updatedAt: "2026-09-19T18:25:57.000Z",
 } as const satisfies StoryChapterRead

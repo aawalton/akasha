@@ -20,4 +20,6 @@ export const journeyToVeresavirFantasyLitrpg0029Chapter29 = {
     },
   ],
   prose: "txt",
+  createdAt: "2026-09-03T12:15:04.252Z",
+  updatedAt: "2026-09-28T20:27:18.000Z",
 } as const satisfies StoryChapterRead

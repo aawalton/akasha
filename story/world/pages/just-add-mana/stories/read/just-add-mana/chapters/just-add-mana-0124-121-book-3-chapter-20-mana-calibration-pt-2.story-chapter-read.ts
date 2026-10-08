@@ -20,4 +20,6 @@ export const justAddMana0124121Book3Chapter20ManaCalibrationPt2 = {
     },
   ],
   prose: "txt",
+  createdAt: "2026-09-03T12:15:04.236Z",
+  updatedAt: "2026-09-28T20:27:19.000Z",
 } as const satisfies StoryChapterRead

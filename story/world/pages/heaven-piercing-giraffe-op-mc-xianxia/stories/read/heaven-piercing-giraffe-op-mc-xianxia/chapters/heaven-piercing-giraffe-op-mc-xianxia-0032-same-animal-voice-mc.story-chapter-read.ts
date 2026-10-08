@@ -19,4 +19,6 @@ export const heavenPiercingGiraffeOpMcXianxia0032SameAnimalVoiceMc = {
   story: "story-read/heaven-piercing-giraffe-op-mc-xianxia",
   ownLength: 251,
   prose: "txt",
+  createdAt: "2026-09-11T14:06:02.808Z",
+  updatedAt: "2026-09-19T18:25:57.000Z",
 } as const satisfies StoryChapterRead

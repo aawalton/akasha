@@ -19,4 +19,6 @@ export const hellHoundEvolutionLitrpg0089Chapter165 = {
   title: "Chapter 165",
   ownLength: 3198,
   prose: "txt",
+  createdAt: "2026-09-07T19:06:30.716Z",
+  updatedAt: "2026-09-19T18:25:57.000Z",
 } as const satisfies StoryChapterRead

@@ -20,4 +20,6 @@ export const justAddMana0192187Book4Chapter31TheBlackVaultPt6 = {
   story: "story-read/just-add-mana",
   ownLength: 3663,
   prose: "txt",
+  createdAt: "2026-09-17T15:07:59.414Z",
+  updatedAt: "2026-09-28T20:27:20.000Z",
 } as const satisfies StoryChapterRead

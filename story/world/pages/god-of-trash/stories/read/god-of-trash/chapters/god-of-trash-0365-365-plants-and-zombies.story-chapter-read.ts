@@ -19,4 +19,6 @@ export const godOfTrash0365365PlantsAndZombies = {
   story: "story-read/god-of-trash",
   ownLength: 3098,
   prose: "txt",
+  createdAt: "2026-09-18T20:07:19.244Z",
+  updatedAt: "2026-09-19T18:25:57.000Z",
 } as const satisfies StoryChapterRead

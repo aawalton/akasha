@@ -19,4 +19,6 @@ export const heavenPiercingGiraffeOpMcXianxia0031Chapter31Deal = {
   story: "story-read/heaven-piercing-giraffe-op-mc-xianxia",
   ownLength: 1577,
   prose: "txt",
+  createdAt: "2026-09-11T14:06:02.467Z",
+  updatedAt: "2026-09-19T18:25:57.000Z",
 } as const satisfies StoryChapterRead

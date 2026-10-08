@@ -19,4 +19,6 @@ export const hellDifficultyTutorial0070Chapter745EventsForThe3rdTournament = {
     },
   ],
   prose: "txt",
+  createdAt: "2026-09-03T12:15:04.057Z",
+  updatedAt: "2026-09-19T18:25:57.000Z",
 } as const satisfies StoryChapterRead

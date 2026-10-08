@@ -20,4 +20,6 @@ export const justAddMana0161Book3Blooper = {
     },
   ],
   prose: "txt",
+  createdAt: "2026-09-03T12:15:04.296Z",
+  updatedAt: "2026-09-28T20:27:20.000Z",
 } as const satisfies StoryChapterRead

@@ -20,4 +20,6 @@ export const justAddMana0146143Book3Chapter42DragonstormPt1 = {
     },
   ],
   prose: "txt",
+  createdAt: "2026-09-03T12:15:04.274Z",
+  updatedAt: "2026-09-28T20:27:20.000Z",
 } as const satisfies StoryChapterRead

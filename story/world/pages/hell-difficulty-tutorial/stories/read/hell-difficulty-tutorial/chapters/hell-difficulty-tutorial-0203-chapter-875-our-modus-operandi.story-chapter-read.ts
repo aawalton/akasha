@@ -19,4 +19,6 @@ export const hellDifficultyTutorial0203Chapter875OurModusOperandi = {
   title: "Chapter 875 - Our modus operandi",
   ownLength: 2468,
   prose: "txt",
+  createdAt: "2026-09-05T16:06:24.749Z",
+  updatedAt: "2026-09-19T18:25:57.000Z",
 } as const satisfies StoryChapterRead

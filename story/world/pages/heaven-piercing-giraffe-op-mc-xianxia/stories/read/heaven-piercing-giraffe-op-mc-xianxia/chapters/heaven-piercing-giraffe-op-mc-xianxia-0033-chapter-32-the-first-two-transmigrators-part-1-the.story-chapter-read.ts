@@ -19,4 +19,6 @@ export const heavenPiercingGiraffeOpMcXianxia0033Chapter32TheFirstTwoTransmigrat
   story: "story-read/heaven-piercing-giraffe-op-mc-xianxia",
   ownLength: 1684,
   prose: "txt",
+  createdAt: "2026-09-17T07:04:43.494Z",
+  updatedAt: "2026-09-19T18:25:57.000Z",
 } as const satisfies StoryChapterRead

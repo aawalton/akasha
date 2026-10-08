@@ -19,4 +19,6 @@ export const hellHoundEvolutionLitrpg0090NewStoryAnnouncementWanderingMage = {
   story: "story-read/hell-hound-evolution-litrpg",
   ownLength: 264,
   prose: "txt",
+  createdAt: "2026-09-09T14:04:06.053Z",
+  updatedAt: "2026-09-19T18:25:57.000Z",
 } as const satisfies StoryChapterRead

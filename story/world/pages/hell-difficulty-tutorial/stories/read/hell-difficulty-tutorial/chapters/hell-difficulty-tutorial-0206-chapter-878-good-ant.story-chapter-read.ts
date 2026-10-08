@@ -19,4 +19,6 @@ export const hellDifficultyTutorial0206Chapter878GoodAnt = {
   title: "Chapter 878 - Good ant",
   ownLength: 2243,
   prose: "txt",
+  createdAt: "2026-09-09T00:35:14.507Z",
+  updatedAt: "2026-09-19T18:25:57.000Z",
 } as const satisfies StoryChapterRead

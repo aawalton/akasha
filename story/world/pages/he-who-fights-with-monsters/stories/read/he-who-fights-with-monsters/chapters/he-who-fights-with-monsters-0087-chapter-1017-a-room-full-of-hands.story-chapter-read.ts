@@ -20,4 +20,6 @@ export const heWhoFightsWithMonsters0087Chapter1017ARoomFullOfHands = {
     },
   ],
   prose: "txt",
+  createdAt: "2026-09-03T12:15:04.191Z",
+  updatedAt: "2026-09-28T20:27:17.000Z",
 } as const satisfies StoryChapterRead

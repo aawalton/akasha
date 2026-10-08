@@ -20,4 +20,6 @@ export const heWhoFightsWithMonsters0071Chapter1003StareDownTheDevil = {
     },
   ],
   prose: "txt",
+  createdAt: "2026-09-03T12:15:04.175Z",
+  updatedAt: "2026-09-28T20:27:17.000Z",
 } as const satisfies StoryChapterRead

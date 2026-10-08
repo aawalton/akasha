@@ -19,4 +19,6 @@ export const godOfTrash0360360OutAndAbout = {
   title: "360. Out and About",
   ownLength: 1967,
   prose: "txt",
+  createdAt: "2026-09-07T20:04:42.965Z",
+  updatedAt: "2026-09-19T18:25:57.000Z",
 } as const satisfies StoryChapterRead

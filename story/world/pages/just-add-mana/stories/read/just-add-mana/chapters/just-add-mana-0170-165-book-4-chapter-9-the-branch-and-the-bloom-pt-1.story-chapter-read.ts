@@ -20,4 +20,6 @@ export const justAddMana0170165Book4Chapter9TheBranchAndTheBloomPt1 = {
     },
   ],
   prose: "txt",
+  createdAt: "2026-09-03T12:15:04.310Z",
+  updatedAt: "2026-09-28T20:27:20.000Z",
 } as const satisfies StoryChapterRead

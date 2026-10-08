@@ -20,4 +20,6 @@ export const justAddMana0191186Book4Chapter30TheGrandDesignPt2 = {
   story: "story-read/just-add-mana",
   ownLength: 2790,
   prose: "txt",
+  createdAt: "2026-09-15T15:04:11.597Z",
+  updatedAt: "2026-09-28T20:27:20.000Z",
 } as const satisfies StoryChapterRead
