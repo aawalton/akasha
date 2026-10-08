@@ -1,5 +1,5 @@
 {
-  "buildHash": "ATQHNIDAQABhxAkDE_tAxP7QMmC1DJgtIyYLQMmC0DJgtEGjtRBAq0QQKtJHkx2xEEx1ujIAAAFpowzpNhiwAAACGcoAAgjlUgFAGWpToAAAEaCACEKgIJwg8AHQAjnVVqA4pUADJoBgjIhI4gQASCCc9HKRAQdoFYBg4y6KuozIsSZWPJllzJs7Po06te2fQo0qdTxVWOlbI2ePrl6BiyQtETZG6dpEqZO_UKYKqErjrDBI4bNgSpYEYBhAoYyaDiBJs4KFjBo4eQIkjpMAEBkywEEmvDJZzxMYJAYwoEI82C6xWuUzDEXPBJKEQA9vM2te081w9lAy",
+  "buildHash": "ATQHNIDgAABhxAkDE_tAxP7QMmC1DJgtIyYLQMmC0DJgtEGjtRBAq0QQKtJHkx2xEEx1ujIABurwAAABNhiwAAACGzoAAgjlUgFAGWpToAAAEaCACEKgIJwg8AHQAjnVVqA4pUADJoBgjIhI4gQASCCc9HKRAQdoFYBg4y6KuozIsSZWPJllzJs7Po06te2fQo0qdTxVWR1bI2ePrl6BiyQtETZG6dpEqZO_UKYKqErjrDBI4bNgSpYEYBhAoYyaDiBJs4KFjBo4eQIkjpM4MBkywEEmvDJZzxMYJAYwoEI82C6xWuUzDEXPBJKEQA9vM2te081w9lAy",
   "gender": 1,
   "level": 50,
   "classId": 1,
@@ -27525,7 +27525,8 @@
       88,
       89,
       90,
-      91
+      91,
+      92
     ],
     "888": [
       1,
@@ -28251,17 +28252,33 @@
   "bagSize": 215,
   "allianceRank": 50,
   "dailyWrits": {
-    "date": "2026-09-27",
+    "date": "2026-10-08",
     "completed": 7
   },
   "dailyWritStates": {
-    "date": "2026-09-28",
-    "seen": [],
-    "completed": []
+    "date": "2026-10-08",
+    "seen": [
+      5,
+      3,
+      4,
+      2,
+      1,
+      6,
+      7
+    ],
+    "completed": [
+      1,
+      6,
+      2,
+      7,
+      3,
+      4,
+      5
+    ]
   },
-  "bankVisitDate": "2026-09-27",
+  "bankVisitDate": "2026-10-08",
   "inventoryCheck": {
-    "date": "2026-09-28",
-    "misplaced": 84
+    "date": "2026-10-08",
+    "misplaced": 106
   }
 }
