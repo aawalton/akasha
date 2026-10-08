@@ -4278,6 +4278,7 @@
 {"propertySlug":"decision-kind","path":"temper/addon/pages/catalog/modules/datamining-item-miner/datamining-item-miner.module.ts","id":"01a06341-d9e8-7004-990d-d242df0e2bd1"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/catalog/modules/datamining-quest-miner/datamining-quest-miner.module.ts","id":"01a06341-d9e8-7005-ac02-69345fb477d3"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/catalog/modules/datamining-saved-variables/datamining-saved-variables.module.ts","id":"01a06341-d9e8-7003-86e4-05d88c5ad77a"}
+{"propertySlug":"decision-kind","path":"temper/addon/pages/catalog/modules/datamining-uploaded-items/datamining-uploaded-items.module.ts","id":"01a11d0c-dbf7-78be-807a-1f62f50c7062"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/catalog/modules/player-answer-entry/player-answer-entry.module.ts","id":"01a0d578-6f29-7b96-ae38-cb719b7dcbcf"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/catalog/temper-addon-catalog.temper-addon.ts","id":"01a063ba-94e5-7c5d-b338-174ed9b6a224"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/characters/characters-config-global/characters-config-global.lua-module.ts","id":"01a062e8-bed7-7010-8998-ffe3116644d2"}

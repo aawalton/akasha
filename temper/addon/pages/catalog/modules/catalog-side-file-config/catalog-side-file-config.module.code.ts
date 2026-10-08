@@ -1,3 +1,4 @@
+import type { MinedItemsUploaded } from "akasha/temper/addon/pages/catalog/modules/datamining-uploaded-items/datamining-uploaded-items.module.code.ts"
 import type { PendingInvalidation } from "akasha/temper/catalog/core/modules/apply-invalidations/apply-invalidations.module.code.ts"
 import "akasha/temper/addon/pages/catalog/catalog-config-global/catalog-config-global.type-declaration.d.ts"
 
@@ -29,4 +30,15 @@ export function getPendingInvalidation(): PendingInvalidation | undefined {
     invalidateVersion: candidate.invalidateVersion,
     invalidateDomains: candidate.invalidateDomains ?? [],
   }
+}
+
+export function getMinedItemsUploaded(): MinedItemsUploaded | undefined {
+  const candidate: unknown = globalThis.TemperCatalogConfig
+  if (!isCatalogConfig(candidate)) return undefined
+  const uploaded: unknown = candidate.minedItemsUploaded
+  if (typeof uploaded !== "object" || uploaded === null) return undefined
+  if (!("apiVersion" in uploaded) || !("throughItemId" in uploaded)) return undefined
+  if (typeof uploaded.apiVersion !== "string") return undefined
+  if (typeof uploaded.throughItemId !== "number") return undefined
+  return { apiVersion: uploaded.apiVersion, throughItemId: uploaded.throughItemId }
 }

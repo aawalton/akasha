@@ -26,6 +26,7 @@ export const temperAddonCatalog = {
     "module/datamining-item-miner",
     "module/datamining-quest-miner",
     "module/datamining-saved-variables",
+    "module/datamining-uploaded-items",
     "module/player-answer-entry",
     "type-declaration/catalog-config-global",
   ],
@@ -85,5 +86,5 @@ export const temperAddonCatalog = {
     },
   ],
   createdAt: "2026-09-02T20:06:07.333Z",
-  updatedAt: "2026-09-24T22:10:41.000Z",
+  updatedAt: "2026-10-08T19:45:44.439Z",
 } as const satisfies TemperAddon

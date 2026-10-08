@@ -1,4 +1,5 @@
 import { ADDON_NAME } from "akasha/temper/addon/pages/catalog/modules/catalog-constants/catalog-constants.module.code.ts"
+import { getMinedItemsUploaded } from "akasha/temper/addon/pages/catalog/modules/catalog-side-file-config/catalog-side-file-config.module.code.ts"
 import { AUTO_START_DELAY } from "akasha/temper/addon/pages/catalog/modules/datamining-constants/datamining-constants.module.code.ts"
 import {
   printStatus,
@@ -17,6 +18,7 @@ import {
   getSavedVariables,
   setSavedVariablesAccessor,
 } from "akasha/temper/addon/pages/catalog/modules/datamining-saved-variables/datamining-saved-variables.module.code.ts"
+import { itemsKeptAfterUpload } from "akasha/temper/addon/pages/catalog/modules/datamining-uploaded-items/datamining-uploaded-items.module.code.ts"
 import { parseLuaCapture } from "akasha/temper/addon/shared/narrow/modules/parse-lua-capture/parse-lua-capture.module.code.ts"
 import { DATAMINING_CAPTURE_DESCRIPTOR } from "akasha/temper/capture/datamining/modules/datamining-descriptor/datamining-descriptor.module.code.ts"
 import { defineCaptureWriter } from "akasha/temper/capture/writer/modules/capture-writer/capture-writer.module.code.ts"
@@ -68,6 +70,7 @@ defineCaptureWriter(DATAMINING_CAPTURE_DESCRIPTOR, (writer) => {
   const savedVars = writer.getSavedVariables()
   savedVars.isRunning = false
   savedVars.questIsRunning = false
+  savedVars.items = itemsKeptAfterUpload(savedVars.items, getMinedItemsUploaded(), savedVars)
 
   SLASH_COMMANDS["/temperdatamine"] = function (this: void, args: string): undefined {
     const [matched] = string.match(args, "^%s*(%a+)")

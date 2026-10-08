@@ -1,5 +1,8 @@
 import { afterEach, describe, expect, test } from "bun:test"
-import { getPendingInvalidation } from "akasha/temper/addon/pages/catalog/modules/catalog-side-file-config/catalog-side-file-config.module.code.ts"
+import {
+  getMinedItemsUploaded,
+  getPendingInvalidation,
+} from "akasha/temper/addon/pages/catalog/modules/catalog-side-file-config/catalog-side-file-config.module.code.ts"
 
 function setConfig(value: unknown): undefined {
   Reflect.set(globalThis, "TemperCatalogConfig", value)
@@ -70,5 +73,33 @@ describe("getPendingInvalidation", () => {
       invalidateVersion: 3,
       invalidateDomains: [],
     })
+  })
+})
+
+describe("getMinedItemsUploaded", () => {
+  test("a well-formed upload record is read", () => {
+    setConfig({
+      version: 1,
+      invalidateVersion: 3,
+      minedItemsUploaded: { apiVersion: "eso.live.12.1.5", throughItemId: 327000 },
+    })
+    expect(getMinedItemsUploaded()).toEqual({
+      apiVersion: "eso.live.12.1.5",
+      throughItemId: 327000,
+    })
+  })
+
+  test("a side file with no upload record reads as none", () => {
+    setConfig({ version: 1, invalidateVersion: 3 })
+    expect(getMinedItemsUploaded()).toBeUndefined()
+  })
+
+  test("an upload record of the wrong shape reads as none", () => {
+    setConfig({
+      version: 1,
+      invalidateVersion: 3,
+      minedItemsUploaded: { apiVersion: "eso.live.12.1.5", throughItemId: "327000" },
+    })
+    expect(getMinedItemsUploaded()).toBeUndefined()
   })
 })

@@ -13,6 +13,10 @@ export const dataminingEntry = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "Mined items the side file records as uploaded are dropped when the addon loads.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A changed game version clears the mined data.",
     },
     {
@@ -29,5 +33,5 @@ export const dataminingEntry = {
     },
   ],
   createdAt: "2026-09-02T17:54:15.144Z",
-  updatedAt: "2026-09-22T01:22:34.000Z",
+  updatedAt: "2026-10-08T19:45:44.439Z",
 } as const satisfies Module
