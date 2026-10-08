@@ -30,7 +30,13 @@ export function pageRefusals(
   return read.refused
 }
 
+const INSTANTS = {
+  createdAt: "2026-09-01T00:00:00.000Z",
+  updatedAt: "2026-09-01T00:00:00.000Z",
+} as const
+
 const PLAN_PAGE = {
+  ...INSTANTS,
   id: "01a09400-0000-7000-8000-000000000001",
   type: "argument",
   slug: "plan",
@@ -40,6 +46,7 @@ const PLAN_PAGE = {
 } as const satisfies Argument
 
 export const SEAT_PAGE = {
+  ...INSTANTS,
   id: "01a09400-0000-7000-8000-000000000002",
   type: "argument",
   slug: "seat",
@@ -49,6 +56,7 @@ export const SEAT_PAGE = {
 } as const satisfies Argument
 
 export const LIMIT_PAGE = {
+  ...INSTANTS,
   id: "01a09400-0000-7000-8000-000000000003",
   type: "argument",
   slug: "limit",
@@ -58,6 +66,7 @@ export const LIMIT_PAGE = {
 } as const satisfies Argument
 
 const TO_PAGE = {
+  ...INSTANTS,
   id: "01a09400-0000-7000-8000-000000000004",
   type: "argument",
   slug: "to",
@@ -67,6 +76,7 @@ const TO_PAGE = {
 } as const satisfies Argument
 
 export const TAIL_PAGE = {
+  ...INSTANTS,
   id: "01a09400-0000-7000-8000-000000000005",
   type: "argument",
   slug: "tail",
