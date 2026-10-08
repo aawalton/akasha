@@ -27,6 +27,11 @@ export const deployJob = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "A deploy that comes near the quarter hour is made faster rather than given longer.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "The deploy a job carries runs under no ceiling of the command's own.",
     },
     {
@@ -59,6 +64,6 @@ export const deployJob = {
       statement: "Nothing here says what a pod a job starts is given.",
     },
   ],
-  updatedAt: "2026-10-08T17:04:14.882Z",
+  updatedAt: "2026-10-08T17:20:34.578Z",
   createdAt: "2026-09-14T17:28:13.666Z",
 } as const satisfies Module
