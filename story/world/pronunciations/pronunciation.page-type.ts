@@ -15,6 +15,7 @@ export const pronunciation = {
   properties: [
     { pageProperty: "text-property/title", required: true, many: false },
     { pageProperty: "relation-property/world", required: true, many: false },
+    { pageProperty: "text-property/spoken-as", required: true, many: false },
   ],
   decisions: [
     {
@@ -38,5 +39,6 @@ export const pronunciation = {
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-10-08T15:08:25.377Z",
-  updatedAt: "2026-10-08T15:08:25.377Z",
+  updatedAt: "2026-10-08T15:09:49.571Z",
+  parts: ["text-property/spoken-as"],
 } as const satisfies PageType
