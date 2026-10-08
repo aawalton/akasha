@@ -9,8 +9,6 @@ export const nova = {
   role: "role/companion",
   person: "person/alan",
   startMode: "seat-mode/interactive",
-  onCall: false,
+  onCall: true,
   registrationAccount: "model-account/aawalton",
-  createdAt: "2026-10-08T15:16:39.898Z",
-  updatedAt: "2026-10-08T15:16:39.898Z",
 } as const satisfies Seat
