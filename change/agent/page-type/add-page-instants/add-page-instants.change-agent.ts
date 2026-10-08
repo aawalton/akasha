@@ -34,9 +34,9 @@ export const addPageInstants = {
       statement: "Nothing here reads the index.",
     },
   ],
-  changeKind: "change-kind/change-checked",
+  changeKind: "change-kind/change-mechanical",
   maxCpuSeconds: 120,
   maxMemoryMb: 3072,
   createdAt: "2026-10-08T15:06:21.777Z",
-  updatedAt: "2026-10-08T15:06:21.777Z",
+  updatedAt: "2026-10-08T15:16:53.730Z",
 } as const satisfies ChangeAgent
