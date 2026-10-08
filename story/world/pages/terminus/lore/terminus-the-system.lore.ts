@@ -125,6 +125,14 @@ export const terminusTheSystem = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
+      fact: "A user's interface adapts to that user's level of sentience.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The interface always takes a form its user can understand and put to use.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
       fact: "No one else can see a user's interface without special abilities.",
       knowers: ["lore-disclosure/game-master"],
     },
@@ -178,5 +186,5 @@ export const terminusTheSystem = {
     },
   ],
   createdAt: "2026-10-08T19:30:10.084Z",
-  updatedAt: "2026-10-08T19:54:37.814Z",
+  updatedAt: "2026-10-08T21:17:58.779Z",
 } as const satisfies Lore
