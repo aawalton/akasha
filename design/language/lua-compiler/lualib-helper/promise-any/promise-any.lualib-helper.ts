@@ -7,4 +7,6 @@ export const promiseAny = {
   definition: "one promise answering with the first value, or every rejection",
   code: "ts",
   luaExport: "__TS__PromiseAny",
+  createdAt: "2026-09-10T17:24:08.292Z",
+  updatedAt: "2026-09-22T10:25:02.000Z",
 } as const satisfies LualibHelper

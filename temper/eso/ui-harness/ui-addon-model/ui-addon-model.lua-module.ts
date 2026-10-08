@@ -24,4 +24,6 @@ export const uiAddonModel = {
       statement: "Any other getter answers zero, and any other method does nothing.",
     },
   ],
+  createdAt: "2026-09-24T16:54:06.369Z",
+  updatedAt: "2026-09-24T16:54:16.000Z",
 } as const satisfies LuaModule

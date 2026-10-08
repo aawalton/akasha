@@ -7,4 +7,6 @@ export const arrayFilter = {
   definition: "the array with each element of an array that passes a test",
   code: "ts",
   luaExport: "__TS__ArrayFilter",
+  createdAt: "2026-09-08T16:43:33.705Z",
+  updatedAt: "2026-09-15T17:24:36.000Z",
 } as const satisfies LualibHelper

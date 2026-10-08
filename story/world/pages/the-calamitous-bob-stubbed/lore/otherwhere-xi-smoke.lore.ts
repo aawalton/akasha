@@ -63,4 +63,6 @@ export const otherwhereXiSmoke = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-29T00:28:24.406Z",
+  updatedAt: "2026-10-03T19:55:25.000Z",
 } as const satisfies Lore

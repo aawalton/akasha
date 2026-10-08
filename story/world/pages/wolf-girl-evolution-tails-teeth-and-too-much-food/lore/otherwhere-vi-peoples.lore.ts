@@ -116,4 +116,6 @@ export const otherwhereViPeoples = {
       knowers: ["lore-disclosure/game-master"],
     },
   ],
+  createdAt: "2026-09-28T22:41:48.718Z",
+  updatedAt: "2026-09-28T22:41:52.000Z",
 } as const satisfies Lore

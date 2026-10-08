@@ -57,4 +57,6 @@ export const overwhereIiiOswinFairley = {
       ],
     },
   ],
+  createdAt: "2026-10-02T18:14:16.590Z",
+  updatedAt: "2026-10-02T19:53:55.000Z",
 } as const satisfies Lore

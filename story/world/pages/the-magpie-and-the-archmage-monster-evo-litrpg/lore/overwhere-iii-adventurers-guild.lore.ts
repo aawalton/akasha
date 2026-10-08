@@ -238,4 +238,6 @@ export const overwhereIiiAdventurersGuild = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-29T12:34:30.732Z",
+  updatedAt: "2026-09-30T20:26:13.000Z",
 } as const satisfies Lore

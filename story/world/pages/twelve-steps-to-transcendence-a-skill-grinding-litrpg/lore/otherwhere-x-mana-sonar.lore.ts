@@ -65,4 +65,6 @@ export const otherwhereXManaSonar = {
       knowers: ["lore-disclosure/game-master"],
     },
   ],
+  createdAt: "2026-09-29T00:02:40.902Z",
+  updatedAt: "2026-09-29T00:08:55.000Z",
 } as const satisfies Lore

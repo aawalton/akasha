@@ -116,4 +116,6 @@ export const overwhereIiiGarrickDole = {
       ],
     },
   ],
+  createdAt: "2026-09-30T17:54:01.148Z",
+  updatedAt: "2026-09-30T19:27:41.000Z",
 } as const satisfies Lore

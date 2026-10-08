@@ -7,4 +7,6 @@ export const arrayFlatMap = {
   definition: "the flat array a mapping over an array gives",
   code: "ts",
   luaExport: "__TS__ArrayFlatMap",
+  createdAt: "2026-09-08T16:43:33.705Z",
+  updatedAt: "2026-09-22T13:44:00.000Z",
 } as const satisfies LualibHelper

@@ -73,4 +73,6 @@ export const otherwhereXLearningModel = {
       knowers: ["lore-disclosure/game-master"],
     },
   ],
+  createdAt: "2026-09-29T00:05:15.689Z",
+  updatedAt: "2026-09-29T00:05:19.000Z",
 } as const satisfies Lore

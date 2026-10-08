@@ -49,4 +49,6 @@ export const otherwhereXBessCrane = {
       knowers: ["lore-disclosure/game-master"],
     },
   ],
+  createdAt: "2026-09-29T01:46:23.912Z",
+  updatedAt: "2026-10-03T19:45:18.000Z",
 } as const satisfies Lore

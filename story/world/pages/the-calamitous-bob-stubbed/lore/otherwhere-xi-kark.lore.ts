@@ -206,4 +206,6 @@ export const otherwhereXiKark = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-28T23:59:30.794Z",
+  updatedAt: "2026-09-28T23:59:33.000Z",
 } as const satisfies Lore

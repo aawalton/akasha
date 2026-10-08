@@ -7,4 +7,6 @@ export const date = {
   definition: "a moment held as milliseconds since the epoch",
   code: "ts",
   luaExport: "Date",
+  createdAt: "2026-09-10T17:16:47.846Z",
+  updatedAt: "2026-09-15T17:24:36.000Z",
 } as const satisfies LualibHelper

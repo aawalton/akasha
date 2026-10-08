@@ -8,4 +8,6 @@ export const countVarargs = {
   code: "ts",
   lua50Code: "ts",
   luaExport: "__TS__CountVarargs",
+  createdAt: "2026-09-10T17:27:38.787Z",
+  updatedAt: "2026-09-15T17:24:36.000Z",
 } as const satisfies LualibHelper

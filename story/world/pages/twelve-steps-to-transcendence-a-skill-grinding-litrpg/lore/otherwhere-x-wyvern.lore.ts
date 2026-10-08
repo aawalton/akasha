@@ -37,4 +37,6 @@ export const otherwhereXWyvern = {
       knowers: ["lore-disclosure/game-master"],
     },
   ],
+  createdAt: "2026-09-28T23:59:59.874Z",
+  updatedAt: "2026-09-29T00:00:07.000Z",
 } as const satisfies Lore

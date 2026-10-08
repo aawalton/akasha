@@ -38,4 +38,6 @@ export const overwhereIiiJoryFenn = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-29T12:42:44.901Z",
+  updatedAt: "2026-09-29T12:42:47.000Z",
 } as const satisfies Lore

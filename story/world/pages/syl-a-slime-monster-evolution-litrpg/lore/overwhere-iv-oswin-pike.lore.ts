@@ -135,4 +135,6 @@ export const overwhereIvOswinPike = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-30T11:22:55.105Z",
+  updatedAt: "2026-09-30T17:13:10.000Z",
 } as const satisfies Lore

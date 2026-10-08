@@ -7,4 +7,6 @@ export const clearTimeout = {
   definition: "the cancelling a delayed call is given by its handle",
   code: "ts",
   luaExport: "__TS__ClearTimeout",
+  createdAt: "2026-09-08T16:18:35.872Z",
+  updatedAt: "2026-09-15T17:24:36.000Z",
 } as const satisfies LualibHelper

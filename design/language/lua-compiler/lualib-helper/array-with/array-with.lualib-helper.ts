@@ -7,4 +7,6 @@ export const arrayWith = {
   definition: "the copy of an array with another value at an index",
   code: "ts",
   luaExport: "__TS__ArrayWith",
+  createdAt: "2026-09-08T16:50:31.878Z",
+  updatedAt: "2026-09-22T10:09:10.000Z",
 } as const satisfies LualibHelper

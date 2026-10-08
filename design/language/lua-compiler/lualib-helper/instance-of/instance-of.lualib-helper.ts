@@ -7,4 +7,6 @@ export const instanceOf = {
   definition: "the answer whether a value descends from a class",
   code: "ts",
   luaExport: "__TS__InstanceOf",
+  createdAt: "2026-09-08T17:12:48.297Z",
+  updatedAt: "2026-09-15T17:24:36.000Z",
 } as const satisfies LualibHelper

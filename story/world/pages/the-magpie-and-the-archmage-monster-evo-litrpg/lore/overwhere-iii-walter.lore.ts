@@ -31,4 +31,6 @@ export const overwhereIiiWalter = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-29T12:46:12.873Z",
+  updatedAt: "2026-09-29T20:04:03.000Z",
 } as const satisfies Lore

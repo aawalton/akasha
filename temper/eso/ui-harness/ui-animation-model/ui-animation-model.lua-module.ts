@@ -63,4 +63,6 @@ export const uiAnimationModel = {
       statement: "The game's getter for the animation manager answers this model's.",
     },
   ],
+  createdAt: "2026-09-24T15:03:49.980Z",
+  updatedAt: "2026-09-25T19:42:10.000Z",
 } as const satisfies LuaModule

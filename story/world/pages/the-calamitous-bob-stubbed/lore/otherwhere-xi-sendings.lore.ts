@@ -69,4 +69,6 @@ export const otherwhereXiSendings = {
       knowers: ["lore-disclosure/game-master"],
     },
   ],
+  createdAt: "2026-09-29T00:21:52.305Z",
+  updatedAt: "2026-09-29T00:21:56.000Z",
 } as const satisfies Lore

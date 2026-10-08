@@ -120,4 +120,6 @@ export const otherwhereViTrade = {
       knowers: ["lore-disclosure/game-master"],
     },
   ],
+  createdAt: "2026-09-28T22:42:53.517Z",
+  updatedAt: "2026-09-28T22:42:56.000Z",
 } as const satisfies Lore

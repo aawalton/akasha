@@ -49,4 +49,6 @@ export const otherwhereXGideonPike = {
       knowers: ["lore-disclosure/game-master"],
     },
   ],
+  createdAt: "2026-09-29T01:43:44.391Z",
+  updatedAt: "2026-09-29T01:43:47.000Z",
 } as const satisfies Lore

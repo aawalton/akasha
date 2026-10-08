@@ -354,4 +354,6 @@ export const overwhereIiiTheSystem = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-29T12:34:13.588Z",
+  updatedAt: "2026-10-02T21:28:57.000Z",
 } as const satisfies Lore

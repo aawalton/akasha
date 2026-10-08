@@ -344,4 +344,6 @@ export const otherwhereXiWennaAshlar = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-29T00:27:14.851Z",
+  updatedAt: "2026-10-03T19:56:27.000Z",
 } as const satisfies Lore

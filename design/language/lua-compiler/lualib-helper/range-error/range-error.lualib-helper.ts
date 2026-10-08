@@ -7,4 +7,6 @@ export const rangeError = {
   definition: "the error type a value outside its allowed range is",
   code: "ts",
   luaExport: "RangeError",
+  createdAt: "2026-09-08T16:01:21.181Z",
+  updatedAt: "2026-09-15T17:24:36.000Z",
 } as const satisfies LualibHelper

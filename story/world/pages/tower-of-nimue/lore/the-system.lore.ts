@@ -115,4 +115,6 @@ export const theSystem = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-26T13:50:45.884Z",
+  updatedAt: "2026-10-03T19:24:36.000Z",
 } as const satisfies Lore

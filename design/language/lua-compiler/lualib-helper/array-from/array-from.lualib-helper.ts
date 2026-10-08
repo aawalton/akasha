@@ -7,4 +7,6 @@ export const arrayFrom = {
   definition: "an array built from anything iterable or array-like",
   code: "ts",
   luaExport: "__TS__ArrayFrom",
+  createdAt: "2026-09-10T17:32:22.546Z",
+  updatedAt: "2026-09-15T17:24:36.000Z",
 } as const satisfies LualibHelper

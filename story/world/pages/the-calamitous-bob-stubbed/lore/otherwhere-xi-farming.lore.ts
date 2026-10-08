@@ -189,4 +189,6 @@ export const otherwhereXiFarming = {
       knowers: ["lore-disclosure/game-master", "character-other/otherwhere-xi-wenna-ashlar"],
     },
   ],
+  createdAt: "2026-09-29T00:25:30.206Z",
+  updatedAt: "2026-10-03T19:56:27.000Z",
 } as const satisfies Lore

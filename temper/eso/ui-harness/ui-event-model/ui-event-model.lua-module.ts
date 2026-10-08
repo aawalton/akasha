@@ -67,4 +67,6 @@ export const uiEventModel = {
       statement: "No clock runs, so work waiting on an interval runs only when a caller says.",
     },
   ],
+  createdAt: "2026-09-22T14:36:26.746Z",
+  updatedAt: "2026-09-25T22:01:28.000Z",
 } as const satisfies LuaModule

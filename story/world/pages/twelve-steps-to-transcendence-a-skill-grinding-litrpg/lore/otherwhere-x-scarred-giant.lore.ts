@@ -54,4 +54,6 @@ export const otherwhereXScarredGiant = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-29T00:02:39.115Z",
+  updatedAt: "2026-09-29T00:02:42.000Z",
 } as const satisfies Lore

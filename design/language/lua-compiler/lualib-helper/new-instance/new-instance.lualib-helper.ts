@@ -7,4 +7,6 @@ export const newInstance = {
   definition: "the instance made by running a class's constructor",
   code: "ts",
   luaExport: "__TS__New",
+  createdAt: "2026-09-10T16:57:28.075Z",
+  updatedAt: "2026-09-22T13:44:42.000Z",
 } as const satisfies LualibHelper

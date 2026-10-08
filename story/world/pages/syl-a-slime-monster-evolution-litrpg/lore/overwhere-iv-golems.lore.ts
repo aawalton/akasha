@@ -49,4 +49,6 @@ export const overwhereIvGolems = {
       knowers: ["lore-disclosure/game-master"],
     },
   ],
+  createdAt: "2026-09-29T12:49:37.128Z",
+  updatedAt: "2026-09-29T12:49:39.000Z",
 } as const satisfies Lore

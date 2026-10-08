@@ -86,4 +86,6 @@ export const otherwhereXHannah = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-28T23:57:30.794Z",
+  updatedAt: "2026-09-28T23:57:33.000Z",
 } as const satisfies Lore

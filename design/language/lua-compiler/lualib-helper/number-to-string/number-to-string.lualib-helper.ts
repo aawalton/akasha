@@ -7,4 +7,6 @@ export const numberToString = {
   definition: "a number written out in a radix between two and thirty-six",
   code: "ts",
   luaExport: "__TS__NumberToString",
+  createdAt: "2026-09-10T17:06:58.451Z",
+  updatedAt: "2026-09-15T17:24:36.000Z",
 } as const satisfies LualibHelper

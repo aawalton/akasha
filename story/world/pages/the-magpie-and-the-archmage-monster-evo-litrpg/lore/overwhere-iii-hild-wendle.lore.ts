@@ -114,4 +114,6 @@ export const overwhereIiiHildWendle = {
       ],
     },
   ],
+  createdAt: "2026-09-30T20:37:33.090Z",
+  updatedAt: "2026-09-30T22:42:52.000Z",
 } as const satisfies Lore

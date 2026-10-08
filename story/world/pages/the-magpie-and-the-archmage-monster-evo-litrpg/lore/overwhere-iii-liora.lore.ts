@@ -99,4 +99,6 @@ export const overwhereIiiLiora = {
     { fact: "She is nearly three years old.", knowers: ["lore-disclosure/game-master"] },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-29T12:33:56.363Z",
+  updatedAt: "2026-09-29T20:04:03.000Z",
 } as const satisfies Lore

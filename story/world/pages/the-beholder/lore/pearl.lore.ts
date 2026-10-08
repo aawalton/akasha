@@ -105,4 +105,6 @@ export const pearl = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-26T13:47:18.397Z",
+  updatedAt: "2026-10-03T19:20:04.000Z",
 } as const satisfies Lore

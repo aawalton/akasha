@@ -21,4 +21,6 @@ export const otherwhereXFox = {
       knowers: ["lore-disclosure/game-master"],
     },
   ],
+  createdAt: "2026-09-29T00:01:06.540Z",
+  updatedAt: "2026-09-29T00:01:14.000Z",
 } as const satisfies Lore

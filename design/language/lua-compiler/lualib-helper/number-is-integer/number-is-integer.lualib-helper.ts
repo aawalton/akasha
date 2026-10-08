@@ -7,4 +7,6 @@ export const numberIsInteger = {
   definition: "whether a value is a finite number with no fractional part",
   code: "ts",
   luaExport: "__TS__NumberIsInteger",
+  createdAt: "2026-09-10T16:59:49.604Z",
+  updatedAt: "2026-09-15T17:24:36.000Z",
 } as const satisfies LualibHelper

@@ -52,4 +52,6 @@ export const overwhereIvGarz = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-29T12:35:48.218Z",
+  updatedAt: "2026-09-29T12:35:51.000Z",
 } as const satisfies Lore

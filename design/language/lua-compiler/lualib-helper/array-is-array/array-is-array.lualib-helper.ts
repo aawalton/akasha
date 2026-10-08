@@ -7,4 +7,6 @@ export const arrayIsArray = {
   definition: "the answer whether a value is an array",
   code: "ts",
   luaExport: "__TS__ArrayIsArray",
+  createdAt: "2026-09-08T16:33:10.045Z",
+  updatedAt: "2026-09-15T17:24:36.000Z",
 } as const satisfies LualibHelper

@@ -7,4 +7,6 @@ export const delegatedYield = {
   definition: "another iterable's values yielded on by the generator running",
   code: "ts",
   luaExport: "__TS__DelegatedYield",
+  createdAt: "2026-09-10T17:32:07.179Z",
+  updatedAt: "2026-09-15T17:24:36.000Z",
 } as const satisfies LualibHelper

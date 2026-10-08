@@ -276,4 +276,6 @@ export const overwhereIvTraitsAndSkills = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-29T12:36:11.303Z",
+  updatedAt: "2026-09-29T12:36:14.000Z",
 } as const satisfies Lore

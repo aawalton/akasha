@@ -8,4 +8,6 @@ export const superSupportiveTransformerOfLifeToWater = {
   world: "world/super-supportive",
   about: "world-skill/super-supportive-transformer-of-life-to-water",
   secrets: "jsonl",
+  createdAt: "2026-09-28T22:54:11.327Z",
+  updatedAt: "2026-09-28T22:54:15.000Z",
 } as const satisfies Lore

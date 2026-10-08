@@ -7,4 +7,6 @@ export const arrayAt = {
   definition: "the element an index counted from either end of an array reaches",
   code: "ts",
   luaExport: "__TS__ArrayAt",
+  createdAt: "2026-09-08T15:11:27.899Z",
+  updatedAt: "2026-09-15T17:24:36.000Z",
 } as const satisfies LualibHelper

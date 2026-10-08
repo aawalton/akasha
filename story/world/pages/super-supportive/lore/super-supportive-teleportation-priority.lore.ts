@@ -8,4 +8,6 @@ export const superSupportiveTeleportationPriority = {
   world: "world/super-supportive",
   about: "world-mechanic/super-supportive-teleportation-priority",
   secrets: "jsonl",
+  createdAt: "2026-09-28T22:30:11.789Z",
+  updatedAt: "2026-09-28T22:30:30.000Z",
 } as const satisfies Lore

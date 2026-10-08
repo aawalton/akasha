@@ -29,4 +29,6 @@ export const otherwhereXiScalehound = {
       ],
     },
   ],
+  createdAt: "2026-09-29T00:12:36.803Z",
+  updatedAt: "2026-10-03T19:55:25.000Z",
 } as const satisfies Lore

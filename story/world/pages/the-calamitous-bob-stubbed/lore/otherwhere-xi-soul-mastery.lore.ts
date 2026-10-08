@@ -49,4 +49,6 @@ export const otherwhereXiSoulMastery = {
       knowers: ["lore-disclosure/game-master"],
     },
   ],
+  createdAt: "2026-09-29T00:26:36.054Z",
+  updatedAt: "2026-09-29T00:26:40.000Z",
 } as const satisfies Lore

@@ -8,4 +8,6 @@ export const superSupportiveTradingPlatform = {
   world: "world/super-supportive",
   about: "world-mechanic/super-supportive-trading-platform",
   secrets: "jsonl",
+  createdAt: "2026-09-28T21:52:21.349Z",
+  updatedAt: "2026-09-28T21:52:30.000Z",
 } as const satisfies Lore

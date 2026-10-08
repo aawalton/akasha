@@ -33,4 +33,6 @@ export const otherwhereXWorldTree = {
       knowers: ["lore-disclosure/game-master"],
     },
   ],
+  createdAt: "2026-09-28T23:58:19.632Z",
+  updatedAt: "2026-09-28T23:58:22.000Z",
 } as const satisfies Lore

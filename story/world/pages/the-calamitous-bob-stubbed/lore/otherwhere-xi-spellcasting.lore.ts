@@ -145,4 +145,6 @@ export const otherwhereXiSpellcasting = {
       knowers: ["lore-disclosure/game-master"],
     },
   ],
+  createdAt: "2026-09-29T00:17:22.931Z",
+  updatedAt: "2026-09-29T00:38:25.000Z",
 } as const satisfies Lore

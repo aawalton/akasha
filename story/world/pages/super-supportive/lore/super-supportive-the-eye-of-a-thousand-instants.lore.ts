@@ -8,4 +8,6 @@ export const superSupportiveTheEyeOfAThousandInstants = {
   world: "world/super-supportive",
   about: "world-spell/super-supportive-the-eye-of-a-thousand-instants",
   secrets: "jsonl",
+  createdAt: "2026-09-28T22:24:30.090Z",
+  updatedAt: "2026-09-28T22:24:33.000Z",
 } as const satisfies Lore

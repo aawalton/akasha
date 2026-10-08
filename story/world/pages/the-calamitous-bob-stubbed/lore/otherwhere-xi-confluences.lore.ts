@@ -58,4 +58,6 @@ export const otherwhereXiConfluences = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-29T00:21:52.304Z",
+  updatedAt: "2026-09-29T00:21:56.000Z",
 } as const satisfies Lore

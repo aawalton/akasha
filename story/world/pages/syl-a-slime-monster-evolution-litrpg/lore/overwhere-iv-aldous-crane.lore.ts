@@ -17,4 +17,6 @@ export const overwhereIvAldousCrane = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-29T12:40:13.931Z",
+  updatedAt: "2026-09-29T12:40:17.000Z",
 } as const satisfies Lore

@@ -25,4 +25,6 @@ export const otherwhereXiElix = {
       knowers: ["lore-disclosure/game-master"],
     },
   ],
+  createdAt: "2026-09-29T00:11:28.168Z",
+  updatedAt: "2026-09-29T00:11:32.000Z",
 } as const satisfies Lore

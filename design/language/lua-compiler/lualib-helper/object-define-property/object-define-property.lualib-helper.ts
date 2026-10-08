@@ -7,4 +7,6 @@ export const objectDefineProperty = {
   definition: "a property defined on an object from a descriptor, with a numeric key shifted",
   code: "ts",
   luaExport: "__TS__ObjectDefineProperty",
+  createdAt: "2026-09-10T17:02:55.680Z",
+  updatedAt: "2026-09-15T17:24:36.000Z",
 } as const satisfies LualibHelper

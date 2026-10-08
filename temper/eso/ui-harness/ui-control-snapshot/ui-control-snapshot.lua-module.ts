@@ -59,4 +59,6 @@ export const uiControlSnapshot = {
       statement: "This is loaded after the control model, whose controls it reads.",
     },
   ],
+  createdAt: "2026-09-24T14:53:52.516Z",
+  updatedAt: "2026-09-26T13:34:43.000Z",
 } as const satisfies LuaModule

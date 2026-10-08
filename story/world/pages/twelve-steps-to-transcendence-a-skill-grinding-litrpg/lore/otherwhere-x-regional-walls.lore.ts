@@ -82,4 +82,6 @@ export const otherwhereXRegionalWalls = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-28T23:56:09.318Z",
+  updatedAt: "2026-09-28T23:56:12.000Z",
 } as const satisfies Lore

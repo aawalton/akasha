@@ -7,4 +7,6 @@ export const arrayEntries = {
   definition: "the iterator over an array's index and element pairs",
   code: "ts",
   luaExport: "__TS__ArrayEntries",
+  createdAt: "2026-09-08T16:33:33.049Z",
+  updatedAt: "2026-09-15T17:24:36.000Z",
 } as const satisfies LualibHelper

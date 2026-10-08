@@ -223,4 +223,6 @@ export const overwhereIiiMotherSallow = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-29T12:43:52.941Z",
+  updatedAt: "2026-10-03T11:03:53.000Z",
 } as const satisfies Lore

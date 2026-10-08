@@ -67,4 +67,6 @@ export const otherwhereXiMaradoc = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-29T00:03:14.132Z",
+  updatedAt: "2026-09-29T00:38:42.000Z",
 } as const satisfies Lore

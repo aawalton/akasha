@@ -189,4 +189,6 @@ export const overwhereIiiMardaHesk2 = {
       knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-marda-hesk"],
     },
   ],
+  createdAt: "2026-10-02T21:59:30.619Z",
+  updatedAt: "2026-10-03T12:56:21.000Z",
 } as const satisfies Lore

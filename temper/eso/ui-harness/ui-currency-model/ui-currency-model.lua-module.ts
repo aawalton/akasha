@@ -20,4 +20,6 @@ export const uiCurrencyModel = {
       statement: "A market currency no currency is named for answers the game's word for none.",
     },
   ],
+  createdAt: "2026-09-24T15:39:55.839Z",
+  updatedAt: "2026-09-24T15:40:03.000Z",
 } as const satisfies LuaModule

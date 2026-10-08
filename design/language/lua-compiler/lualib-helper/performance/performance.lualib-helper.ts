@@ -7,4 +7,6 @@ export const performance = {
   definition: "the clock giving a program the milliseconds since the game started",
   code: "ts",
   luaExport: "performance",
+  createdAt: "2026-09-08T17:00:48.557Z",
+  updatedAt: "2026-09-22T13:48:12.000Z",
 } as const satisfies LualibHelper

@@ -184,4 +184,6 @@ export const esoSandboxPrelude = {
         "Listing this environment gives the names seeded or stubbed here and then the real ones.",
     },
   ],
+  createdAt: "2026-09-02T04:20:49.936Z",
+  updatedAt: "2026-09-24T18:48:03.000Z",
 } as const satisfies LuaModule

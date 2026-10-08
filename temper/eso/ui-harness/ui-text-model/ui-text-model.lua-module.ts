@@ -65,4 +65,6 @@ export const uiTextModel = {
       statement: "No sentence is kept from one call to the next.",
     },
   ],
+  createdAt: "2026-09-22T16:31:43.590Z",
+  updatedAt: "2026-09-25T18:11:46.000Z",
 } as const satisfies LuaModule

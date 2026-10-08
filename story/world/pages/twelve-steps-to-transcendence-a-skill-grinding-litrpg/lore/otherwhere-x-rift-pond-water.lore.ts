@@ -49,4 +49,6 @@ export const otherwhereXRiftPondWater = {
       knowers: ["lore-disclosure/game-master"],
     },
   ],
+  createdAt: "2026-09-29T00:04:42.586Z",
+  updatedAt: "2026-09-29T00:04:46.000Z",
 } as const satisfies Lore

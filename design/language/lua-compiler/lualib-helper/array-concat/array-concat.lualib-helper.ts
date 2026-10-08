@@ -7,4 +7,6 @@ export const arrayConcat = {
   definition: "the array joining an array and further items",
   code: "ts",
   luaExport: "__TS__ArrayConcat",
+  createdAt: "2026-09-08T16:33:44.385Z",
+  updatedAt: "2026-09-22T13:51:13.000Z",
 } as const satisfies LualibHelper

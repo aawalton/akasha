@@ -33,4 +33,6 @@ export const otherwhereXElsieMarsh = {
       knowers: ["lore-disclosure/game-master"],
     },
   ],
+  createdAt: "2026-09-29T01:47:15.960Z",
+  updatedAt: "2026-09-29T01:47:20.000Z",
 } as const satisfies Lore

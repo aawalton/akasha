@@ -34,4 +34,6 @@ export const otherwhereXHouseArdent = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-29T00:03:24.169Z",
+  updatedAt: "2026-09-29T00:03:27.000Z",
 } as const satisfies Lore

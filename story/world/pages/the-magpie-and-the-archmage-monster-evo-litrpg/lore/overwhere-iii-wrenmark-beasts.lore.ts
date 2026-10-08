@@ -105,4 +105,6 @@ export const overwhereIiiWrenmarkBeasts = {
       ],
     },
   ],
+  createdAt: "2026-09-29T12:45:22.958Z",
+  updatedAt: "2026-09-30T17:13:50.000Z",
 } as const satisfies Lore

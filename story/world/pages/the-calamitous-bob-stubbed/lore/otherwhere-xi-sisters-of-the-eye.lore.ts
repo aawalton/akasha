@@ -37,4 +37,6 @@ export const otherwhereXiSistersOfTheEye = {
       knowers: ["lore-disclosure/game-master"],
     },
   ],
+  createdAt: "2026-09-29T00:09:33.514Z",
+  updatedAt: "2026-09-29T00:09:39.000Z",
 } as const satisfies Lore

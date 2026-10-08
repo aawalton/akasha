@@ -7,4 +7,6 @@ export const referenceError = {
   definition: "the error type a name reaching nothing is",
   code: "ts",
   luaExport: "ReferenceError",
+  createdAt: "2026-09-08T16:01:31.545Z",
+  updatedAt: "2026-09-15T17:24:36.000Z",
 } as const satisfies LualibHelper

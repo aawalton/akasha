@@ -7,4 +7,6 @@ export const stringPadEnd = {
   definition: "the text filled out to a length with other text added at its end",
   code: "ts",
   luaExport: "__TS__StringPadEnd",
+  createdAt: "2026-09-08T17:00:48.557Z",
+  updatedAt: "2026-09-15T17:24:36.000Z",
 } as const satisfies LualibHelper

@@ -308,4 +308,6 @@ export const overwhereIvBrooksideFour = {
       ],
     },
   ],
+  createdAt: "2026-09-29T12:40:13.932Z",
+  updatedAt: "2026-10-03T01:31:04.000Z",
 } as const satisfies Lore

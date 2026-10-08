@@ -8,4 +8,6 @@ export const superSupportiveVillageMaster = {
   world: "world/super-supportive",
   about: "world-title/super-supportive-village-master",
   secrets: "jsonl",
+  createdAt: "2026-09-28T22:58:20.661Z",
+  updatedAt: "2026-09-28T22:58:27.000Z",
 } as const satisfies Lore

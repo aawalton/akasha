@@ -74,4 +74,6 @@ export const otherwhereXSystem = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-28T23:55:43.954Z",
+  updatedAt: "2026-09-28T23:55:46.000Z",
 } as const satisfies Lore

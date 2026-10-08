@@ -29,4 +29,6 @@ export const otherwhereXiBuildersGuild = {
       knowers: ["lore-disclosure/game-master"],
     },
   ],
+  createdAt: "2026-09-29T00:21:44.620Z",
+  updatedAt: "2026-09-29T00:21:52.000Z",
 } as const satisfies Lore

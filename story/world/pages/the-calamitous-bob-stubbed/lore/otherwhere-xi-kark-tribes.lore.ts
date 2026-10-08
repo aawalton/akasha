@@ -81,4 +81,6 @@ export const otherwhereXiKarkTribes = {
       knowers: ["lore-disclosure/game-master"],
     },
   ],
+  createdAt: "2026-09-29T00:12:47.766Z",
+  updatedAt: "2026-09-29T00:39:24.000Z",
 } as const satisfies Lore

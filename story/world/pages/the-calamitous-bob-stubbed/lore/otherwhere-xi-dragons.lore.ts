@@ -174,4 +174,6 @@ export const otherwhereXiDragons = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-29T00:03:21.780Z",
+  updatedAt: "2026-09-29T00:38:25.000Z",
 } as const satisfies Lore

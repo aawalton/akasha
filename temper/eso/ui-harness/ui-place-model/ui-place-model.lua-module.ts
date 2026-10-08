@@ -198,4 +198,6 @@ export const uiPlaceModel = {
       statement: "A call that raises leaves no control marked as being placed.",
     },
   ],
+  createdAt: "2026-09-22T16:27:03.745Z",
+  updatedAt: "2026-09-25T22:35:24.000Z",
 } as const satisfies LuaModule

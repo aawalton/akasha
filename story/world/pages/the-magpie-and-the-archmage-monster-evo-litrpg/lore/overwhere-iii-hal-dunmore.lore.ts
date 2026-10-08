@@ -54,4 +54,6 @@ export const overwhereIiiHalDunmore = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-30T08:24:06.457Z",
+  updatedAt: "2026-09-30T08:35:37.000Z",
 } as const satisfies Lore

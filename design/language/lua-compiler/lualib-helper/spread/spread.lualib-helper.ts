@@ -7,4 +7,6 @@ export const spread = {
   definition: "the many values out of text or an iterable",
   code: "ts",
   luaExport: "__TS__Spread",
+  createdAt: "2026-09-08T17:12:48.297Z",
+  updatedAt: "2026-09-22T13:43:11.000Z",
 } as const satisfies LualibHelper

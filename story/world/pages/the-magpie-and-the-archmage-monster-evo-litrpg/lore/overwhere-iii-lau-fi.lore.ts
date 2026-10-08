@@ -39,4 +39,6 @@ export const overwhereIiiLauFi = {
     { fact: "Now she is home in the anthill.", knowers: ["lore-disclosure/game-master"] },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-29T12:45:03.030Z",
+  updatedAt: "2026-09-29T12:45:06.000Z",
 } as const satisfies Lore

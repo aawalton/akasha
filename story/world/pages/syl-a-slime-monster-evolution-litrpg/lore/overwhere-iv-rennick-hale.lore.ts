@@ -93,4 +93,6 @@ export const overwhereIvRennickHale = {
       ],
     },
   ],
+  createdAt: "2026-09-29T12:39:52.162Z",
+  updatedAt: "2026-09-30T09:05:52.000Z",
 } as const satisfies Lore

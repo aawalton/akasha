@@ -7,4 +7,6 @@ export const arrayFlat = {
   definition: "the array an array's nested arrays are lifted into, down to a depth",
   code: "ts",
   luaExport: "__TS__ArrayFlat",
+  createdAt: "2026-09-08T16:43:33.705Z",
+  updatedAt: "2026-09-15T17:24:36.000Z",
 } as const satisfies LualibHelper

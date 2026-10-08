@@ -17,4 +17,6 @@ export const otherwhereXiAgon = {
       knowers: ["lore-disclosure/game-master"],
     },
   ],
+  createdAt: "2026-09-29T00:30:31.722Z",
+  updatedAt: "2026-09-29T00:30:42.000Z",
 } as const satisfies Lore

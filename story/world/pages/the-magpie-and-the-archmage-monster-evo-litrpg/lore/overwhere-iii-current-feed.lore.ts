@@ -33,4 +33,6 @@ export const overwhereIiiCurrentFeed = {
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
   ],
+  createdAt: "2026-10-02T21:34:51.789Z",
+  updatedAt: "2026-10-03T01:34:34.000Z",
 } as const satisfies Lore

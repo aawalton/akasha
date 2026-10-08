@@ -76,4 +76,6 @@ export const otherwhereXiDivineOath = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-29T00:13:34.434Z",
+  updatedAt: "2026-09-29T00:13:40.000Z",
 } as const satisfies Lore

@@ -7,4 +7,6 @@ export const arrayReduce = {
   definition: "an array folded from its start into one value",
   code: "ts",
   luaExport: "__TS__ArrayReduce",
+  createdAt: "2026-09-10T17:28:38.475Z",
+  updatedAt: "2026-09-15T17:24:36.000Z",
 } as const satisfies LualibHelper

@@ -93,4 +93,6 @@ export const otherwhereXiCircles = {
       knowers: ["lore-disclosure/game-master"],
     },
   ],
+  createdAt: "2026-09-29T00:15:09.050Z",
+  updatedAt: "2026-09-29T00:15:25.000Z",
 } as const satisfies Lore

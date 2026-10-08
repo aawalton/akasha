@@ -81,4 +81,6 @@ export const overwhereIvWatBarrow = {
       ],
     },
   ],
+  createdAt: "2026-09-30T08:46:56.466Z",
+  updatedAt: "2026-09-30T11:36:33.000Z",
 } as const satisfies Lore

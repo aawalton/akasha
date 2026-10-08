@@ -7,4 +7,6 @@ export const arrayJoin = {
   definition: "the text an array's elements make with a separator between them",
   code: "ts",
   luaExport: "__TS__ArrayJoin",
+  createdAt: "2026-09-08T16:50:31.878Z",
+  updatedAt: "2026-09-15T17:24:36.000Z",
 } as const satisfies LualibHelper

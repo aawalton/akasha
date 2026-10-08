@@ -7,4 +7,6 @@ export const cloneDescriptor = {
   definition: "a property descriptor copied with its absent fields filled in",
   code: "ts",
   luaExport: "__TS__CloneDescriptor",
+  createdAt: "2026-09-10T17:02:10.019Z",
+  updatedAt: "2026-09-15T17:24:36.000Z",
 } as const satisfies LualibHelper

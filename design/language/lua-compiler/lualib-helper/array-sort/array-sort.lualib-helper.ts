@@ -7,4 +7,6 @@ export const arraySort = {
   definition: "the array whose elements have been ordered by a comparison",
   code: "ts",
   luaExport: "__TS__ArraySort",
+  createdAt: "2026-09-08T16:50:31.878Z",
+  updatedAt: "2026-09-15T17:24:36.000Z",
 } as const satisfies LualibHelper

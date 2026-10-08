@@ -166,4 +166,6 @@ export const theHarvestAndTheConversion = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-26T13:50:45.883Z",
+  updatedAt: "2026-10-03T19:23:49.000Z",
 } as const satisfies Lore

@@ -53,4 +53,6 @@ export const otherwhereXiBan = {
       knowers: ["lore-disclosure/game-master"],
     },
   ],
+  createdAt: "2026-09-29T00:03:14.310Z",
+  updatedAt: "2026-09-29T00:03:18.000Z",
 } as const satisfies Lore

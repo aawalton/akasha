@@ -227,4 +227,6 @@ export const overwhereIiiVelithra = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-29T12:33:15.106Z",
+  updatedAt: "2026-09-29T20:04:03.000Z",
 } as const satisfies Lore

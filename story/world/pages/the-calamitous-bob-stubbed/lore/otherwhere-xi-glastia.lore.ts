@@ -78,4 +78,6 @@ export const otherwhereXiGlastia = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-29T00:18:09.509Z",
+  updatedAt: "2026-09-29T00:18:13.000Z",
 } as const satisfies Lore

@@ -174,4 +174,6 @@ export const overwhereIvGods = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-29T12:33:15.466Z",
+  updatedAt: "2026-09-29T12:33:18.000Z",
 } as const satisfies Lore

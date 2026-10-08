@@ -209,4 +209,6 @@ export const otherwhereXiInspection = {
       knowers: ["lore-disclosure/game-master"],
     },
   ],
+  createdAt: "2026-09-29T00:05:08.124Z",
+  updatedAt: "2026-09-29T00:37:34.000Z",
 } as const satisfies Lore

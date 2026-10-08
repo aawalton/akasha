@@ -222,4 +222,6 @@ export const otherwhereXiCurrency = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-29T00:18:30.824Z",
+  updatedAt: "2026-09-29T00:18:34.000Z",
 } as const satisfies Lore

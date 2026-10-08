@@ -45,4 +45,6 @@ export const overwhereIiiHolyWard = {
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
   ],
+  createdAt: "2026-10-03T12:40:51.662Z",
+  updatedAt: "2026-10-03T12:47:01.000Z",
 } as const satisfies Lore

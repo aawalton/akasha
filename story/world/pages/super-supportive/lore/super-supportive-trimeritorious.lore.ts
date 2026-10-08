@@ -8,4 +8,6 @@ export const superSupportiveTrimeritorious = {
   world: "world/super-supportive",
   about: "world-title/super-supportive-trimeritorious",
   secrets: "jsonl",
+  createdAt: "2026-09-28T22:50:41.927Z",
+  updatedAt: "2026-09-28T22:50:47.000Z",
 } as const satisfies Lore

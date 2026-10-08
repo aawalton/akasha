@@ -86,4 +86,6 @@ export const otherwhereXiMotherHesra = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-29T00:25:27.312Z",
+  updatedAt: "2026-09-29T00:25:31.000Z",
 } as const satisfies Lore

@@ -50,4 +50,6 @@ export const overwhereIiiAntkinQueen = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-29T12:44:35.622Z",
+  updatedAt: "2026-09-29T12:44:38.000Z",
 } as const satisfies Lore

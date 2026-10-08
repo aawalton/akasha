@@ -104,4 +104,6 @@ export const otherwhereXiEnttiku = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-29T00:04:31.337Z",
+  updatedAt: "2026-09-29T00:04:39.000Z",
 } as const satisfies Lore

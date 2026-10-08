@@ -85,4 +85,6 @@ export const otherwhereXiGrayMana = {
       knowers: ["lore-disclosure/game-master"],
     },
   ],
+  createdAt: "2026-09-29T00:10:39.585Z",
+  updatedAt: "2026-09-29T00:10:51.000Z",
 } as const satisfies Lore

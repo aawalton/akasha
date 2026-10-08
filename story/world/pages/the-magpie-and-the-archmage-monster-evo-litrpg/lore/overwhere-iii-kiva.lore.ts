@@ -54,4 +54,6 @@ export const overwhereIiiKiva = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-29T12:38:03.345Z",
+  updatedAt: "2026-09-29T12:38:06.000Z",
 } as const satisfies Lore

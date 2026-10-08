@@ -328,4 +328,6 @@ export const overwhereIvEnchantingAndRunes = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-29T12:33:12.969Z",
+  updatedAt: "2026-09-29T12:33:16.000Z",
 } as const satisfies Lore

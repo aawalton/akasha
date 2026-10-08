@@ -7,4 +7,6 @@ export const stringCharCodeAt = {
   definition: "the code of the character text holds at an index",
   code: "ts",
   luaExport: "__TS__StringCharCodeAt",
+  createdAt: "2026-09-08T16:43:33.705Z",
+  updatedAt: "2026-09-15T17:24:36.000Z",
 } as const satisfies LualibHelper

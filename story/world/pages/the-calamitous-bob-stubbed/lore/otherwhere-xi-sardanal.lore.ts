@@ -78,4 +78,6 @@ export const otherwhereXiSardanal = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-29T00:05:11.424Z",
+  updatedAt: "2026-09-29T00:05:15.000Z",
 } as const satisfies Lore

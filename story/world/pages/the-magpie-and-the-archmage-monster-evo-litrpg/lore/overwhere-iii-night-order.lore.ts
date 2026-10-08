@@ -112,4 +112,6 @@ export const overwhereIiiNightOrder = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-29T12:35:22.815Z",
+  updatedAt: "2026-10-03T02:01:57.000Z",
 } as const satisfies Lore

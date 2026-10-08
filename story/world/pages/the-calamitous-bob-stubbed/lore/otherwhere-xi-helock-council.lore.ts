@@ -94,4 +94,6 @@ export const otherwhereXiHelockCouncil = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-29T00:16:52.255Z",
+  updatedAt: "2026-09-29T00:36:47.000Z",
 } as const satisfies Lore

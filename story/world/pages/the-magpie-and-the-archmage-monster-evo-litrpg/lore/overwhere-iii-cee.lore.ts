@@ -63,4 +63,6 @@ export const overwhereIiiCee = {
     { fact: "She has a crush on the merman Caspian.", knowers: ["lore-disclosure/game-master"] },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-29T12:34:38.170Z",
+  updatedAt: "2026-09-29T12:34:41.000Z",
 } as const satisfies Lore

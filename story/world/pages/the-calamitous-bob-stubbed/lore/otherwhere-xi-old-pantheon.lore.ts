@@ -38,4 +38,6 @@ export const otherwhereXiOldPantheon = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-29T00:09:38.928Z",
+  updatedAt: "2026-09-29T00:09:44.000Z",
 } as const satisfies Lore

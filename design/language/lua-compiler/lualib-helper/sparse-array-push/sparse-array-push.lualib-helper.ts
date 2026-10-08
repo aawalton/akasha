@@ -7,4 +7,6 @@ export const sparseArrayPush = {
   definition: "arguments added to the end of a sparse array, holes and all",
   code: "ts",
   luaExport: "__TS__SparseArrayPush",
+  createdAt: "2026-09-10T17:29:18.013Z",
+  updatedAt: "2026-09-15T17:24:36.000Z",
 } as const satisfies LualibHelper

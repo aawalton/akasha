@@ -53,4 +53,6 @@ export const otherwhereXBargaining = {
       knowers: ["lore-disclosure/game-master"],
     },
   ],
+  createdAt: "2026-09-29T01:51:42.136Z",
+  updatedAt: "2026-09-29T01:51:45.000Z",
 } as const satisfies Lore

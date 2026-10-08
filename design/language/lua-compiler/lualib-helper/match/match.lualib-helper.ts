@@ -8,4 +8,6 @@ export const match = {
   code: "ts",
   lua50Code: "ts",
   luaExport: "__TS__Match",
+  createdAt: "2026-09-10T17:06:43.735Z",
+  updatedAt: "2026-09-15T17:24:36.000Z",
 } as const satisfies LualibHelper

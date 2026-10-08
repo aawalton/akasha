@@ -70,4 +70,6 @@ export const otherwhereXiElunath = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-29T00:08:47.678Z",
+  updatedAt: "2026-09-29T00:08:54.000Z",
 } as const satisfies Lore

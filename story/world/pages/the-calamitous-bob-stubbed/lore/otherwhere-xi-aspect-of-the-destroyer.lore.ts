@@ -45,4 +45,6 @@ export const otherwhereXiAspectOfTheDestroyer = {
       knowers: ["lore-disclosure/game-master"],
     },
   ],
+  createdAt: "2026-09-29T00:24:26.812Z",
+  updatedAt: "2026-09-29T00:24:33.000Z",
 } as const satisfies Lore

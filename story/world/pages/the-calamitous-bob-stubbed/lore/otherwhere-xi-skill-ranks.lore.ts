@@ -113,4 +113,6 @@ export const otherwhereXiSkillRanks = {
       knowers: ["lore-disclosure/game-master"],
     },
   ],
+  createdAt: "2026-09-29T00:01:46.715Z",
+  updatedAt: "2026-09-29T00:01:50.000Z",
 } as const satisfies Lore

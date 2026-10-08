@@ -7,4 +7,6 @@ export const decorate = {
   definition: "a value run through the decorators of the current proposal, last to first",
   code: "ts",
   luaExport: "__TS__Decorate",
+  createdAt: "2026-09-10T17:04:45.370Z",
+  updatedAt: "2026-09-15T17:24:36.000Z",
 } as const satisfies LualibHelper

@@ -7,4 +7,6 @@ export const set = {
   definition: "values each held once, in the order they arrived",
   code: "ts",
   luaExport: "Set",
+  createdAt: "2026-09-10T17:19:41.684Z",
+  updatedAt: "2026-09-15T17:24:36.000Z",
 } as const satisfies LualibHelper

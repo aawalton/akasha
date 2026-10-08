@@ -172,4 +172,6 @@ export const overwhereIiiMaudFerrow = {
       ],
     },
   ],
+  createdAt: "2026-09-30T19:02:22.885Z",
+  updatedAt: "2026-10-03T00:03:30.000Z",
 } as const satisfies Lore

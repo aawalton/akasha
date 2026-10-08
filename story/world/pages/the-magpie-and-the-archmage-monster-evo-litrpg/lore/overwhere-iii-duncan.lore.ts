@@ -43,4 +43,6 @@ export const overwhereIiiDuncan = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-29T12:41:00.773Z",
+  updatedAt: "2026-09-29T12:41:03.000Z",
 } as const satisfies Lore

@@ -182,4 +182,6 @@ export const overwhereIvTheSystem2 = {
       knowers: ["lore-disclosure/game-master"],
     },
   ],
+  createdAt: "2026-09-29T12:34:09.657Z",
+  updatedAt: "2026-09-29T12:34:13.000Z",
 } as const satisfies Lore

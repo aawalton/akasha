@@ -89,4 +89,6 @@ export const otherwhereXiAlchemy = {
       knowers: ["lore-disclosure/game-master"],
     },
   ],
+  createdAt: "2026-09-29T00:20:07.245Z",
+  updatedAt: "2026-09-29T00:20:16.000Z",
 } as const satisfies Lore

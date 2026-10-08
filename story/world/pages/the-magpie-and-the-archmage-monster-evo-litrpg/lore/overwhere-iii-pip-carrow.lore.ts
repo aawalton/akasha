@@ -102,4 +102,6 @@ export const overwhereIiiPipCarrow = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-29T12:42:44.902Z",
+  updatedAt: "2026-09-30T22:42:38.000Z",
 } as const satisfies Lore

@@ -148,4 +148,6 @@ export const otherwhereViBeasts = {
       knowers: ["lore-disclosure/game-master"],
     },
   ],
+  createdAt: "2026-09-28T22:42:21.899Z",
+  updatedAt: "2026-09-28T22:42:29.000Z",
 } as const satisfies Lore

@@ -122,4 +122,6 @@ export const otherwhereXiArtifacts = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-29T00:18:53.450Z",
+  updatedAt: "2026-09-29T00:19:00.000Z",
 } as const satisfies Lore

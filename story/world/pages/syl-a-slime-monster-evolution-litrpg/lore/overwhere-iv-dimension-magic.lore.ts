@@ -230,4 +230,6 @@ export const overwhereIvDimensionMagic = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-29T12:21:35.814Z",
+  updatedAt: "2026-09-29T12:34:50.000Z",
 } as const satisfies Lore

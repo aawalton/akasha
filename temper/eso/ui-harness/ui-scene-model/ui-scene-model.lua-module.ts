@@ -44,4 +44,6 @@ export const uiSceneModel = {
       statement: "No scene here hides another scene when that scene is shown.",
     },
   ],
+  createdAt: "2026-09-22T18:57:57.474Z",
+  updatedAt: "2026-09-22T18:59:00.000Z",
 } as const satisfies LuaModule

@@ -7,4 +7,6 @@ export const map = {
   definition: "keys held against values, in the order the keys arrived",
   code: "ts",
   luaExport: "Map",
+  createdAt: "2026-09-10T17:18:39.731Z",
+  updatedAt: "2026-09-15T17:24:36.000Z",
 } as const satisfies LualibHelper

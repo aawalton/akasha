@@ -73,4 +73,6 @@ export const otherwhereXEssencePaths = {
       knowers: ["lore-disclosure/game-master"],
     },
   ],
+  createdAt: "2026-09-28T23:58:19.631Z",
+  updatedAt: "2026-09-28T23:58:22.000Z",
 } as const satisfies Lore

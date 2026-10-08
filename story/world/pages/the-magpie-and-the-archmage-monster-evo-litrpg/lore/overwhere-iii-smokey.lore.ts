@@ -46,4 +46,6 @@ export const overwhereIiiSmokey = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-29T12:35:33.830Z",
+  updatedAt: "2026-09-29T20:02:06.000Z",
 } as const satisfies Lore

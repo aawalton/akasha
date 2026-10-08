@@ -110,4 +110,6 @@ export const otherwhereXAffinities = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-29T00:00:58.302Z",
+  updatedAt: "2026-09-29T00:01:05.000Z",
 } as const satisfies Lore

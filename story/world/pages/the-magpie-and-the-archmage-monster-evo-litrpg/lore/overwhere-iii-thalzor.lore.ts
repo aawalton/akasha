@@ -51,4 +51,6 @@ export const overwhereIiiThalzor = {
     { fact: "Now he rules in his city.", knowers: ["lore-disclosure/game-master"] },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-29T12:43:57.166Z",
+  updatedAt: "2026-09-29T12:44:00.000Z",
 } as const satisfies Lore

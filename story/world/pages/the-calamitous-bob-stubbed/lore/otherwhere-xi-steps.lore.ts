@@ -138,4 +138,6 @@ export const otherwhereXiSteps = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-29T00:03:42.059Z",
+  updatedAt: "2026-09-29T00:03:45.000Z",
 } as const satisfies Lore

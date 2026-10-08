@@ -69,4 +69,6 @@ export const overwhereIiiCobFerrow = {
       ],
     },
   ],
+  createdAt: "2026-09-30T19:45:05.715Z",
+  updatedAt: "2026-09-30T19:52:17.000Z",
 } as const satisfies Lore

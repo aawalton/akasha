@@ -353,4 +353,6 @@ export const overwhereIvMagic2 = {
       knowers: ["lore-disclosure/game-master"],
     },
   ],
+  createdAt: "2026-09-29T12:32:22.318Z",
+  updatedAt: "2026-09-29T12:32:25.000Z",
 } as const satisfies Lore

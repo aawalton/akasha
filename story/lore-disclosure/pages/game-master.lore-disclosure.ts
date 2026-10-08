@@ -6,4 +6,6 @@ export const gameMaster = {
   slug: "game-master",
   title: "Game Master",
   definition: "known to the one running the game",
+  createdAt: "2026-09-24T15:47:21.696Z",
+  updatedAt: "2026-09-24T15:47:47.000Z",
 } as const satisfies LoreDisclosure

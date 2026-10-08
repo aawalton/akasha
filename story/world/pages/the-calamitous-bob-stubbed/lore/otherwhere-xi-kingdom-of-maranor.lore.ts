@@ -122,4 +122,6 @@ export const otherwhereXiKingdomOfMaranor = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-29T00:20:00.530Z",
+  updatedAt: "2026-09-29T00:37:00.000Z",
 } as const satisfies Lore

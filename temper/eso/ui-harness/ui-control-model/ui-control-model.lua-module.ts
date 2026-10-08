@@ -276,4 +276,6 @@ export const uiControlModel = {
       statement: "A caller shows a control the game declares hidden by naming that control.",
     },
   ],
+  createdAt: "2026-09-22T14:17:07.692Z",
+  updatedAt: "2026-09-25T22:25:49.000Z",
 } as const satisfies LuaModule

@@ -8,4 +8,6 @@ export const superSupportiveTheEnsnarerOfMinds = {
   world: "world/super-supportive",
   about: "world-skill/super-supportive-the-ensnarer-of-minds",
   secrets: "jsonl",
+  createdAt: "2026-09-28T22:41:19.848Z",
+  updatedAt: "2026-09-28T22:41:22.000Z",
 } as const satisfies Lore

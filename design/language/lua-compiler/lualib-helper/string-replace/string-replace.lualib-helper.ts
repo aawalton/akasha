@@ -7,4 +7,6 @@ export const stringReplace = {
   definition: "the text left once the first match in it is replaced",
   code: "ts",
   luaExport: "__TS__StringReplace",
+  createdAt: "2026-09-08T17:00:48.557Z",
+  updatedAt: "2026-09-22T13:51:13.000Z",
 } as const satisfies LualibHelper

@@ -8,4 +8,6 @@ export const mathModf = {
   code: "ts",
   lua50Code: "ts",
   luaExport: "__TS__MathModf",
+  createdAt: "2026-09-10T17:06:30.909Z",
+  updatedAt: "2026-09-15T17:24:36.000Z",
 } as const satisfies LualibHelper

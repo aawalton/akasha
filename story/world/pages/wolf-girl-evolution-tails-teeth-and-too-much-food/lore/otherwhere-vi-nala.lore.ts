@@ -275,4 +275,6 @@ export const otherwhereViNala = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-28T22:22:21.675Z",
+  updatedAt: "2026-09-29T04:07:41.000Z",
 } as const satisfies Lore

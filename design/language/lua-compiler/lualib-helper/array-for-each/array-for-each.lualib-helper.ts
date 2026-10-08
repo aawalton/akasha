@@ -7,4 +7,6 @@ export const arrayForEach = {
   definition: "the call a function takes for each element of an array",
   code: "ts",
   luaExport: "__TS__ArrayForEach",
+  createdAt: "2026-09-08T16:43:33.705Z",
+  updatedAt: "2026-09-15T17:24:36.000Z",
 } as const satisfies LualibHelper

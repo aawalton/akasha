@@ -7,4 +7,6 @@ export const otherwhereViFarFolk = {
   title: "Folk Far Away",
   world: "world/wolf-girl-evolution-tails-teeth-and-too-much-food",
   secrets: "jsonl",
+  createdAt: "2026-09-28T22:44:08.283Z",
+  updatedAt: "2026-09-28T22:44:17.000Z",
 } as const satisfies Lore

@@ -7,4 +7,6 @@ export const objectValues = {
   definition: "the array of the values an object has",
   code: "ts",
   luaExport: "__TS__ObjectValues",
+  createdAt: "2026-09-08T17:00:48.557Z",
+  updatedAt: "2026-09-15T17:24:36.000Z",
 } as const satisfies LualibHelper

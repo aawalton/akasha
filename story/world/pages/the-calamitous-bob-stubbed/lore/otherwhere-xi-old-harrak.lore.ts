@@ -138,4 +138,6 @@ export const otherwhereXiOldHarrak = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-29T00:05:55.350Z",
+  updatedAt: "2026-09-29T00:38:06.000Z",
 } as const satisfies Lore

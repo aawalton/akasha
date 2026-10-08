@@ -7,4 +7,6 @@ export const arrayIncludes = {
   definition: "the answer whether an array holds a value from an index onward",
   code: "ts",
   luaExport: "__TS__ArrayIncludes",
+  createdAt: "2026-09-08T16:43:33.705Z",
+  updatedAt: "2026-09-15T17:24:36.000Z",
 } as const satisfies LualibHelper

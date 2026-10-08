@@ -70,4 +70,6 @@ export const otherwhereXiEmeric = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-29T00:02:19.177Z",
+  updatedAt: "2026-09-29T00:02:22.000Z",
 } as const satisfies Lore

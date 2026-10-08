@@ -7,4 +7,6 @@ export const promiseAllSettled = {
   definition: "a promise answering how each of many turned out",
   code: "ts",
   luaExport: "__TS__PromiseAllSettled",
+  createdAt: "2026-09-10T17:23:54.582Z",
+  updatedAt: "2026-09-22T10:11:20.000Z",
 } as const satisfies LualibHelper

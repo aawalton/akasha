@@ -6,4 +6,6 @@ export const worldBuilder = {
   slug: "world-builder",
   title: "World Builder",
   definition: "known only to the one who builds the world",
+  createdAt: "2026-09-24T15:47:19.984Z",
+  updatedAt: "2026-09-24T15:47:47.000Z",
 } as const satisfies LoreDisclosure

@@ -94,4 +94,6 @@ export const otherwhereXiFateMana = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-29T00:12:54.253Z",
+  updatedAt: "2026-09-29T00:13:05.000Z",
 } as const satisfies Lore

@@ -19,4 +19,6 @@ export const inventoryConfigFile = {
         "The game loads the file before the compiled add-on rather than compiling the two together.",
     },
   ],
+  createdAt: "2026-09-02T13:39:35.862Z",
+  updatedAt: "2026-09-22T13:56:42.000Z",
 } as const satisfies LuaModule

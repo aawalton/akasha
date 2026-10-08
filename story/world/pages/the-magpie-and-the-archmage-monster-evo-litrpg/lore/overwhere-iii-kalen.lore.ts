@@ -42,4 +42,6 @@ export const overwhereIiiKalen = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-29T12:37:20.717Z",
+  updatedAt: "2026-09-29T12:37:23.000Z",
 } as const satisfies Lore

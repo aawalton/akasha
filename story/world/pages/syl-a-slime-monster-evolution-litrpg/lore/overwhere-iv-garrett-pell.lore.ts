@@ -165,4 +165,6 @@ export const overwhereIvGarrettPell = {
       ],
     },
   ],
+  createdAt: "2026-09-29T12:38:22.066Z",
+  updatedAt: "2026-09-30T21:49:50.000Z",
 } as const satisfies Lore

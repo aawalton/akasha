@@ -128,4 +128,6 @@ export const otherwhereXiMaranor = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-29T00:03:14.133Z",
+  updatedAt: "2026-09-29T00:03:18.000Z",
 } as const satisfies Lore

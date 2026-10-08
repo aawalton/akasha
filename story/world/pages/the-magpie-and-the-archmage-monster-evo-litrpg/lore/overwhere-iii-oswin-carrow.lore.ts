@@ -34,4 +34,6 @@ export const overwhereIiiOswinCarrow = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-29T12:42:44.902Z",
+  updatedAt: "2026-09-29T12:42:47.000Z",
 } as const satisfies Lore

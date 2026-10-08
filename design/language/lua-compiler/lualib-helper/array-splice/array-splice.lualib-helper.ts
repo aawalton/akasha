@@ -7,4 +7,6 @@ export const arraySplice = {
   definition: "elements taken out of an array and others put where they were",
   code: "ts",
   luaExport: "__TS__ArraySplice",
+  createdAt: "2026-09-10T17:29:47.573Z",
+  updatedAt: "2026-09-15T17:24:36.000Z",
 } as const satisfies LualibHelper

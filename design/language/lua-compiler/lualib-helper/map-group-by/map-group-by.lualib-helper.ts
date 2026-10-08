@@ -7,4 +7,6 @@ export const mapGroupBy = {
   definition: "the map holding items under each item's chosen key",
   code: "ts",
   luaExport: "__TS__MapGroupBy",
+  createdAt: "2026-09-08T17:12:48.297Z",
+  updatedAt: "2026-09-22T13:43:11.000Z",
 } as const satisfies LualibHelper

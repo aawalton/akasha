@@ -33,4 +33,6 @@ export const otherwhereXUnarmedCombat = {
       knowers: ["lore-disclosure/game-master"],
     },
   ],
+  createdAt: "2026-09-29T00:03:29.444Z",
+  updatedAt: "2026-09-29T00:08:55.000Z",
 } as const satisfies Lore

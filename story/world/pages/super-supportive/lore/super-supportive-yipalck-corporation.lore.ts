@@ -8,4 +8,6 @@ export const superSupportiveYipalckCorporation = {
   world: "world/super-supportive",
   about: "world-organization/super-supportive-yipalck-corporation",
   secrets: "jsonl",
+  createdAt: "2026-09-28T21:59:34.620Z",
+  updatedAt: "2026-09-28T21:59:37.000Z",
 } as const satisfies Lore

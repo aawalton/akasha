@@ -191,4 +191,6 @@ export const otherwhereViCustoms = {
       ],
     },
   ],
+  createdAt: "2026-09-28T22:43:19.306Z",
+  updatedAt: "2026-09-29T04:09:43.000Z",
 } as const satisfies Lore

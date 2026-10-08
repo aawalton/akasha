@@ -177,4 +177,6 @@ export const overwhereIvKeldenar = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-29T12:31:02.914Z",
+  updatedAt: "2026-09-29T12:31:05.000Z",
 } as const satisfies Lore

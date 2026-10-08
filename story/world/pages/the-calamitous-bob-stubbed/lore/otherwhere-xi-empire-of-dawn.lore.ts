@@ -81,4 +81,6 @@ export const otherwhereXiEmpireOfDawn = {
       knowers: ["lore-disclosure/game-master"],
     },
   ],
+  createdAt: "2026-09-29T00:16:52.253Z",
+  updatedAt: "2026-09-29T00:16:57.000Z",
 } as const satisfies Lore

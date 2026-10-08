@@ -29,4 +29,6 @@ export const otherwhereXiGram = {
       knowers: ["lore-disclosure/game-master"],
     },
   ],
+  createdAt: "2026-09-29T00:16:36.016Z",
+  updatedAt: "2026-09-29T00:16:41.000Z",
 } as const satisfies Lore

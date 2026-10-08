@@ -7,4 +7,6 @@ export const arrayFill = {
   definition: "the array with a value written across a stretch of it",
   code: "ts",
   luaExport: "__TS__ArrayFill",
+  createdAt: "2026-09-08T16:43:33.705Z",
+  updatedAt: "2026-09-22T13:55:14.000Z",
 } as const satisfies LualibHelper

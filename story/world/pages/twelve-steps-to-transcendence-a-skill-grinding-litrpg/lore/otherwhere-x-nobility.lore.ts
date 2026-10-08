@@ -141,4 +141,6 @@ export const otherwhereXNobility = {
       knowers: ["lore-disclosure/game-master"],
     },
   ],
+  createdAt: "2026-09-28T23:57:43.662Z",
+  updatedAt: "2026-09-28T23:57:46.000Z",
 } as const satisfies Lore

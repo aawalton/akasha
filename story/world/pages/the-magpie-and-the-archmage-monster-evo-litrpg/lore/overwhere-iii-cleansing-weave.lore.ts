@@ -122,4 +122,6 @@ export const overwhereIiiCleansingWeave = {
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
   ],
+  createdAt: "2026-09-30T11:35:15.220Z",
+  updatedAt: "2026-10-03T11:58:01.000Z",
 } as const satisfies Lore

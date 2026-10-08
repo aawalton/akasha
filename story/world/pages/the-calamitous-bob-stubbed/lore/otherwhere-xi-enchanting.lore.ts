@@ -145,4 +145,6 @@ export const otherwhereXiEnchanting = {
       knowers: ["lore-disclosure/game-master"],
     },
   ],
+  createdAt: "2026-09-29T00:18:53.452Z",
+  updatedAt: "2026-09-29T00:19:00.000Z",
 } as const satisfies Lore

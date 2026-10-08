@@ -198,4 +198,6 @@ export const overwhereIvRecentEvents = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-29T12:38:54.471Z",
+  updatedAt: "2026-09-29T12:38:57.000Z",
 } as const satisfies Lore

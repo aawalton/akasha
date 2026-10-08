@@ -54,4 +54,6 @@ export const otherwhereXPortals = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-28T23:56:52.877Z",
+  updatedAt: "2026-09-28T23:56:55.000Z",
 } as const satisfies Lore

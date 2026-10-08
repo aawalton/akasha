@@ -7,4 +7,6 @@ export const json = {
   definition: "a value written as JSON text and read back from it",
   code: "ts",
   luaExport: "JSON",
+  createdAt: "2026-09-10T17:20:46.984Z",
+  updatedAt: "2026-09-15T17:24:36.000Z",
 } as const satisfies LualibHelper

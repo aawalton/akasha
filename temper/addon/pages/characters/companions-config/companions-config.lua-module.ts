@@ -19,4 +19,6 @@ export const companionsConfig = {
         "The game loads the file before the compiled add-on rather than compiling the two together.",
     },
   ],
+  createdAt: "2026-09-02T07:55:19.633Z",
+  updatedAt: "2026-09-22T14:04:10.000Z",
 } as const satisfies LuaModule

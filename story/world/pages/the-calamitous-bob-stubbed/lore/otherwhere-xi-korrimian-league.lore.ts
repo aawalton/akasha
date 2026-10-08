@@ -49,4 +49,6 @@ export const otherwhereXiKorrimianLeague = {
       knowers: ["lore-disclosure/game-master"],
     },
   ],
+  createdAt: "2026-09-29T00:20:00.531Z",
+  updatedAt: "2026-09-29T00:20:06.000Z",
 } as const satisfies Lore

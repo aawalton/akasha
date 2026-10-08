@@ -50,4 +50,6 @@ export const otherwhereXiInquisitionOfNeriad = {
       knowers: ["lore-disclosure/game-master"],
     },
   ],
+  createdAt: "2026-09-29T00:10:24.151Z",
+  updatedAt: "2026-09-29T00:10:53.000Z",
 } as const satisfies Lore

@@ -275,4 +275,6 @@ export const overwhereIiiMagic = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-29T12:35:48.304Z",
+  updatedAt: "2026-09-30T22:54:18.000Z",
 } as const satisfies Lore

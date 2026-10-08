@@ -29,4 +29,6 @@ export const overwhereIiiCurrentLash = {
       knowers: ["lore-disclosure/game-master"],
     },
   ],
+  createdAt: "2026-09-30T11:38:36.666Z",
+  updatedAt: "2026-10-02T18:42:03.000Z",
 } as const satisfies Lore

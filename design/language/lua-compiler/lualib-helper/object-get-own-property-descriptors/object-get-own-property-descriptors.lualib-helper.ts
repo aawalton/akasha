@@ -7,4 +7,6 @@ export const objectGetOwnPropertyDescriptors = {
   definition: "every descriptor an object's own metatable holds",
   code: "ts",
   luaExport: "__TS__ObjectGetOwnPropertyDescriptors",
+  createdAt: "2026-09-10T17:00:17.733Z",
+  updatedAt: "2026-09-15T17:24:36.000Z",
 } as const satisfies LualibHelper

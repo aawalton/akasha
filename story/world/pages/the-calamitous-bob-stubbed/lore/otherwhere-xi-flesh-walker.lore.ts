@@ -41,4 +41,6 @@ export const otherwhereXiFleshWalker = {
       knowers: ["lore-disclosure/game-master"],
     },
   ],
+  createdAt: "2026-09-29T00:09:40.815Z",
+  updatedAt: "2026-09-29T00:09:46.000Z",
 } as const satisfies Lore

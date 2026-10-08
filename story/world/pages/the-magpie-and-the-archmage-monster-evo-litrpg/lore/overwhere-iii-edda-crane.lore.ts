@@ -191,4 +191,6 @@ export const overwhereIiiEddaCrane = {
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
   ],
+  createdAt: "2026-09-30T21:01:00.769Z",
+  updatedAt: "2026-10-03T11:38:14.000Z",
 } as const satisfies Lore

@@ -97,4 +97,6 @@ export const otherwhereXiAttunement = {
       knowers: ["lore-disclosure/game-master"],
     },
   ],
+  createdAt: "2026-09-29T00:06:49.879Z",
+  updatedAt: "2026-09-29T00:06:58.000Z",
 } as const satisfies Lore

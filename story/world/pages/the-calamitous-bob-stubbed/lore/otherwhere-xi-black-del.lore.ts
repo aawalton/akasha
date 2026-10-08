@@ -21,4 +21,6 @@ export const otherwhereXiBlackDel = {
       knowers: ["lore-disclosure/game-master"],
     },
   ],
+  createdAt: "2026-09-29T00:03:52.111Z",
+  updatedAt: "2026-09-29T00:03:56.000Z",
 } as const satisfies Lore

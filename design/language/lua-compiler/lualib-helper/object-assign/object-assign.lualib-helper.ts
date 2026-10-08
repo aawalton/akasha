@@ -7,4 +7,6 @@ export const objectAssign = {
   definition: "the object other objects' properties have been written onto",
   code: "ts",
   luaExport: "__TS__ObjectAssign",
+  createdAt: "2026-09-08T17:00:48.557Z",
+  updatedAt: "2026-09-15T17:24:36.000Z",
 } as const satisfies LualibHelper

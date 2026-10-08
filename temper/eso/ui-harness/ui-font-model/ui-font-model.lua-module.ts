@@ -28,4 +28,6 @@ export const uiFontModel = {
       statement: "No glyph is measured, so no text here has a width.",
     },
   ],
+  createdAt: "2026-09-24T14:58:50.407Z",
+  updatedAt: "2026-09-25T14:30:55.000Z",
 } as const satisfies LuaModule

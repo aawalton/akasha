@@ -46,4 +46,6 @@ export const otherwhereXiDarkBlades = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-29T00:12:47.765Z",
+  updatedAt: "2026-09-29T00:12:53.000Z",
 } as const satisfies Lore

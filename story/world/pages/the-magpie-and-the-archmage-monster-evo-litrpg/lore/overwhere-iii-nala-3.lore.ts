@@ -173,4 +173,6 @@ export const overwhereIiiNala3 = {
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
   ],
+  createdAt: "2026-10-02T18:45:56.683Z",
+  updatedAt: "2026-10-03T13:53:48.000Z",
 } as const satisfies Lore

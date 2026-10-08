@@ -7,4 +7,6 @@ export const deleteProperty = {
   definition: "a property taken off a target, refused where the descriptor is not configurable",
   code: "ts",
   luaExport: "__TS__Delete",
+  createdAt: "2026-09-10T17:00:28.025Z",
+  updatedAt: "2026-09-15T17:24:36.000Z",
 } as const satisfies LualibHelper

@@ -7,4 +7,6 @@ export const classExtends = {
   definition: "the metatables tying a class to its parent class",
   code: "ts",
   luaExport: "__TS__ClassExtends",
+  createdAt: "2026-09-08T17:12:48.297Z",
+  updatedAt: "2026-09-22T13:59:52.000Z",
 } as const satisfies LualibHelper

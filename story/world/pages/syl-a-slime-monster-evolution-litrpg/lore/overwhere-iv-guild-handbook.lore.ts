@@ -136,4 +136,6 @@ export const overwhereIvGuildHandbook = {
       ],
     },
   ],
+  createdAt: "2026-09-30T22:41:06.054Z",
+  updatedAt: "2026-09-30T22:48:33.000Z",
 } as const satisfies Lore

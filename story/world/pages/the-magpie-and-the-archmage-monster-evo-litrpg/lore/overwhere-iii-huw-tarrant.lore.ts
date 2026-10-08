@@ -62,4 +62,6 @@ export const overwhereIiiHuwTarrant = {
       ],
     },
   ],
+  createdAt: "2026-10-02T16:06:23.032Z",
+  updatedAt: "2026-10-02T16:13:50.000Z",
 } as const satisfies Lore

@@ -78,4 +78,6 @@ export const otherwhereXiSolar = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-29T00:04:13.208Z",
+  updatedAt: "2026-09-29T00:04:24.000Z",
 } as const satisfies Lore

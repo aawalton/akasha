@@ -324,4 +324,6 @@ export const overwhereIvSlimesAndCores = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-29T12:34:55.400Z",
+  updatedAt: "2026-09-30T11:14:20.000Z",
 } as const satisfies Lore

@@ -47,4 +47,6 @@ export const overwhereIvTraz = {
     { fact: "Traz is dead.", knowers: ["lore-disclosure/game-master"] },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-29T12:35:48.219Z",
+  updatedAt: "2026-09-29T12:35:51.000Z",
 } as const satisfies Lore

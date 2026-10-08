@@ -19,4 +19,6 @@ export const catalogConfigFile = {
         "The game loads the file before the compiled add-on rather than compiling the two together.",
     },
   ],
+  createdAt: "2026-09-02T20:06:07.333Z",
+  updatedAt: "2026-09-22T13:43:25.000Z",
 } as const satisfies LuaModule

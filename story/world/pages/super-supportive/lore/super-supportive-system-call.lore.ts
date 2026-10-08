@@ -11,4 +11,6 @@ export const superSupportiveSystemCall = {
     { fact: "A low-priority contact is put in a queue.", knowers: ["lore-disclosure/game-master"] },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-28T21:59:34.620Z",
+  updatedAt: "2026-09-29T02:00:59.000Z",
 } as const satisfies Lore

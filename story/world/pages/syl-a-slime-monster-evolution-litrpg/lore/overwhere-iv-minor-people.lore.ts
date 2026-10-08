@@ -275,4 +275,6 @@ export const overwhereIvMinorPeople = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-29T12:37:19.645Z",
+  updatedAt: "2026-09-29T12:37:22.000Z",
 } as const satisfies Lore

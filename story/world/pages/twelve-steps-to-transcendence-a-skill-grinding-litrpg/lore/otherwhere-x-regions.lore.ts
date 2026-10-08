@@ -57,4 +57,6 @@ export const otherwhereXRegions = {
       knowers: ["lore-disclosure/game-master"],
     },
   ],
+  createdAt: "2026-09-28T23:56:52.878Z",
+  updatedAt: "2026-09-28T23:56:55.000Z",
 } as const satisfies Lore

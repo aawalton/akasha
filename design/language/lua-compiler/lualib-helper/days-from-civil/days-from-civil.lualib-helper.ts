@@ -7,4 +7,6 @@ export const daysFromCivil = {
   definition: "the count of days from the epoch to a year, month and day",
   code: "ts",
   luaExport: "__TS__DaysFromCivil",
+  createdAt: "2026-09-11T15:36:19.239Z",
+  updatedAt: "2026-09-15T17:24:36.000Z",
 } as const satisfies LualibHelper

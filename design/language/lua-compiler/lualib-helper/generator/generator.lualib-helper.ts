@@ -7,4 +7,6 @@ export const generator = {
   definition: "a function that yields, run as a coroutine",
   code: "ts",
   luaExport: "__TS__Generator",
+  createdAt: "2026-09-10T17:31:39.836Z",
+  updatedAt: "2026-09-15T17:24:36.000Z",
 } as const satisfies LualibHelper

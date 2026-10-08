@@ -57,4 +57,6 @@ export const otherwhereXTime = {
       knowers: ["lore-disclosure/game-master"],
     },
   ],
+  createdAt: "2026-09-29T01:50:48.503Z",
+  updatedAt: "2026-09-29T01:50:52.000Z",
 } as const satisfies Lore

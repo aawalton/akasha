@@ -90,4 +90,6 @@ export const otherwhereXNala = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-28T23:36:25.845Z",
+  updatedAt: "2026-09-29T04:20:40.000Z",
 } as const satisfies Lore

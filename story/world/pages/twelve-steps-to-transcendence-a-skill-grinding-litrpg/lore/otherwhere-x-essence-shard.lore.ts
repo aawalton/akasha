@@ -41,4 +41,6 @@ export const otherwhereXEssenceShard = {
       knowers: ["lore-disclosure/game-master"],
     },
   ],
+  createdAt: "2026-09-29T00:01:34.417Z",
+  updatedAt: "2026-09-29T00:01:37.000Z",
 } as const satisfies Lore

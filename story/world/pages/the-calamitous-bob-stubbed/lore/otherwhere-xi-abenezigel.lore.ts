@@ -102,4 +102,6 @@ export const otherwhereXiAbenezigel = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-28T23:58:37.046Z",
+  updatedAt: "2026-09-28T23:58:39.000Z",
 } as const satisfies Lore

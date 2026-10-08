@@ -8,4 +8,6 @@ export const superSupportiveSympathyForMagic = {
   world: "world/super-supportive",
   about: "world-mechanic/super-supportive-sympathy-for-magic",
   secrets: "jsonl",
+  createdAt: "2026-09-28T22:09:47.506Z",
+  updatedAt: "2026-09-28T22:09:53.000Z",
 } as const satisfies Lore

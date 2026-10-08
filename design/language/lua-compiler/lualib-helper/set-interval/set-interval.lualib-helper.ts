@@ -7,4 +7,6 @@ export const setInterval = {
   definition: "the handle of a call repeated on an interval",
   code: "ts",
   luaExport: "__TS__SetInterval",
+  createdAt: "2026-09-08T16:18:55.693Z",
+  updatedAt: "2026-09-22T13:59:52.000Z",
 } as const satisfies LualibHelper

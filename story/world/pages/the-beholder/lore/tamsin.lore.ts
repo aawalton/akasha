@@ -35,4 +35,6 @@ export const tamsin = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-26T13:47:18.397Z",
+  updatedAt: "2026-10-03T19:20:52.000Z",
 } as const satisfies Lore

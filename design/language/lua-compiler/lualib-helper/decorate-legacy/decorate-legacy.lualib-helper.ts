@@ -7,4 +7,6 @@ export const decorateLegacy = {
   definition: "a target run through the decorators of the first decorator proposal, last to first",
   code: "ts",
   luaExport: "__TS__DecorateLegacy",
+  createdAt: "2026-09-10T17:04:20.746Z",
+  updatedAt: "2026-09-15T17:24:36.000Z",
 } as const satisfies LualibHelper

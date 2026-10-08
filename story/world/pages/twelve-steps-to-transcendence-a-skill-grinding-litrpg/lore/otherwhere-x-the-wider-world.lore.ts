@@ -57,4 +57,6 @@ export const otherwhereXTheWiderWorld = {
       knowers: ["lore-disclosure/game-master"],
     },
   ],
+  createdAt: "2026-09-29T01:41:59.492Z",
+  updatedAt: "2026-10-03T19:45:03.000Z",
 } as const satisfies Lore

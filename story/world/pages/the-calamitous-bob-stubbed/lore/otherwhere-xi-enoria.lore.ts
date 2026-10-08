@@ -94,4 +94,6 @@ export const otherwhereXiEnoria = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-29T00:13:42.830Z",
+  updatedAt: "2026-09-29T00:13:48.000Z",
 } as const satisfies Lore

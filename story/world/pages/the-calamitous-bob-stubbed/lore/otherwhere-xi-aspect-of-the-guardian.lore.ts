@@ -29,4 +29,6 @@ export const otherwhereXiAspectOfTheGuardian = {
       knowers: ["lore-disclosure/game-master"],
     },
   ],
+  createdAt: "2026-09-29T00:24:26.813Z",
+  updatedAt: "2026-09-29T00:24:33.000Z",
 } as const satisfies Lore

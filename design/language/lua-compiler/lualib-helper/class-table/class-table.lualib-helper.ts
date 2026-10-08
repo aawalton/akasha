@@ -7,4 +7,6 @@ export const classTable = {
   definition: "the table a class is, with its prototype pointed at itself",
   code: "ts",
   luaExport: "__TS__Class",
+  createdAt: "2026-09-10T16:57:19.285Z",
+  updatedAt: "2026-09-15T17:24:36.000Z",
 } as const satisfies LualibHelper

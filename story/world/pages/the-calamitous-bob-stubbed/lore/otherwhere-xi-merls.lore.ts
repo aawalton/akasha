@@ -117,4 +117,6 @@ export const otherwhereXiMerls = {
       knowers: ["lore-disclosure/game-master"],
     },
   ],
+  createdAt: "2026-09-29T00:01:05.588Z",
+  updatedAt: "2026-09-29T00:01:12.000Z",
 } as const satisfies Lore

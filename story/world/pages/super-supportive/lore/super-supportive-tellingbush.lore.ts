@@ -8,4 +8,6 @@ export const superSupportiveTellingbush = {
   world: "world/super-supportive",
   about: "world-mechanic/super-supportive-tellingbush",
   secrets: "jsonl",
+  createdAt: "2026-09-28T22:54:42.736Z",
+  updatedAt: "2026-09-28T22:54:46.000Z",
 } as const satisfies Lore

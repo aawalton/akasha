@@ -17,4 +17,6 @@ export const otherwhereXiJal = {
       knowers: ["lore-disclosure/game-master"],
     },
   ],
+  createdAt: "2026-09-29T00:20:26.812Z",
+  updatedAt: "2026-09-29T00:20:41.000Z",
 } as const satisfies Lore

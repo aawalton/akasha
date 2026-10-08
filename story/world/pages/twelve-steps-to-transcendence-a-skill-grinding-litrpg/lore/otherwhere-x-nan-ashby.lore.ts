@@ -41,4 +41,6 @@ export const otherwhereXNanAshby = {
       knowers: ["lore-disclosure/game-master"],
     },
   ],
+  createdAt: "2026-09-29T01:44:21.493Z",
+  updatedAt: "2026-10-03T19:45:49.000Z",
 } as const satisfies Lore

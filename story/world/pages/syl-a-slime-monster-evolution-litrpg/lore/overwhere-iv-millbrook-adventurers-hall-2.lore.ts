@@ -411,4 +411,6 @@ export const overwhereIvMillbrookAdventurersHall2 = {
       ],
     },
   ],
+  createdAt: "2026-10-02T17:13:51.383Z",
+  updatedAt: "2026-10-03T12:37:50.000Z",
 } as const satisfies Lore

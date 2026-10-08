@@ -86,4 +86,6 @@ export const overwhereIvBrennaHolt = {
       ],
     },
   ],
+  createdAt: "2026-09-30T09:11:35.649Z",
+  updatedAt: "2026-09-30T17:13:10.000Z",
 } as const satisfies Lore

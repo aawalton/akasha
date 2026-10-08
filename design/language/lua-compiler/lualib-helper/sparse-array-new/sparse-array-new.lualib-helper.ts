@@ -7,4 +7,6 @@ export const sparseArrayNew = {
   definition: "a sparse array built from arguments, holes and all",
   code: "ts",
   luaExport: "__TS__SparseArrayNew",
+  createdAt: "2026-09-10T17:29:06.929Z",
+  updatedAt: "2026-09-15T17:24:36.000Z",
 } as const satisfies LualibHelper

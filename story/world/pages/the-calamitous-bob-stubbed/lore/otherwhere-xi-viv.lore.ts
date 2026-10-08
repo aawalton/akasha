@@ -370,4 +370,6 @@ export const otherwhereXiViv = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-29T00:00:42.057Z",
+  updatedAt: "2026-09-29T00:25:59.000Z",
 } as const satisfies Lore

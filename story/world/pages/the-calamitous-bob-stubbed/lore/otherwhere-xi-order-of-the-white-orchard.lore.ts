@@ -45,4 +45,6 @@ export const otherwhereXiOrderOfTheWhiteOrchard = {
       knowers: ["lore-disclosure/game-master"],
     },
   ],
+  createdAt: "2026-09-29T00:14:28.721Z",
+  updatedAt: "2026-09-29T00:14:40.000Z",
 } as const satisfies Lore

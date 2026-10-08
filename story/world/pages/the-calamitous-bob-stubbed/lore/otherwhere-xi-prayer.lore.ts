@@ -43,4 +43,6 @@ export const otherwhereXiPrayer = {
       knowers: ["lore-disclosure/game-master"],
     },
   ],
+  createdAt: "2026-09-29T00:14:12.214Z",
+  updatedAt: "2026-09-29T00:14:19.000Z",
 } as const satisfies Lore

@@ -7,4 +7,6 @@ export const parseInt = {
   definition: "the whole number a string opens with, in a base read or given",
   code: "ts",
   luaExport: "__TS__ParseInt",
+  createdAt: "2026-09-10T17:07:21.386Z",
+  updatedAt: "2026-09-15T17:24:36.000Z",
 } as const satisfies LualibHelper

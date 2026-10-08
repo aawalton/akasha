@@ -33,4 +33,6 @@ export const overwhereIiiBrannaghTull3 = {
       ],
     },
   ],
+  createdAt: "2026-10-03T12:56:23.341Z",
+  updatedAt: "2026-10-03T13:53:48.000Z",
 } as const satisfies Lore

@@ -70,4 +70,6 @@ export const uiTooltipModel = {
       statement: "This is loaded after the control methods, whose labels its lines are.",
     },
   ],
+  createdAt: "2026-09-25T01:38:37.878Z",
+  updatedAt: "2026-09-25T17:07:22.000Z",
 } as const satisfies LuaModule

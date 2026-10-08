@@ -7,4 +7,6 @@ export const stringReplaceAll = {
   definition: "the text left once every match in it is replaced",
   code: "ts",
   luaExport: "__TS__StringReplaceAll",
+  createdAt: "2026-09-08T17:00:48.557Z",
+  updatedAt: "2026-09-22T13:44:42.000Z",
 } as const satisfies LualibHelper

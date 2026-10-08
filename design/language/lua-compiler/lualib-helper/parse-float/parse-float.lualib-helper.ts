@@ -7,4 +7,6 @@ export const parseFloat = {
   definition: "the number a string opens with, or NaN where it opens with none",
   code: "ts",
   luaExport: "__TS__ParseFloat",
+  createdAt: "2026-09-10T17:07:11.187Z",
+  updatedAt: "2026-09-15T17:24:36.000Z",
 } as const satisfies LualibHelper

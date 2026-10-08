@@ -269,4 +269,6 @@ export const overwhereIvTheTangle3 = {
       ],
     },
   ],
+  createdAt: "2026-10-03T11:23:15.751Z",
+  updatedAt: "2026-10-03T13:53:10.000Z",
 } as const satisfies Lore

@@ -7,4 +7,6 @@ export const arraySetLength = {
   definition: "the length an array is set to, the elements past it dropped",
   code: "ts",
   luaExport: "__TS__ArraySetLength",
+  createdAt: "2026-09-08T16:50:31.878Z",
+  updatedAt: "2026-09-15T17:24:36.000Z",
 } as const satisfies LualibHelper

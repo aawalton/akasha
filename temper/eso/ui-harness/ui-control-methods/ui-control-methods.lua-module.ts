@@ -120,4 +120,6 @@ export const uiControlMethods = {
       statement: "Where a control sits is worked out by the model loaded before this one.",
     },
   ],
+  createdAt: "2026-09-24T15:32:39.418Z",
+  updatedAt: "2026-09-26T13:34:43.000Z",
 } as const satisfies LuaModule

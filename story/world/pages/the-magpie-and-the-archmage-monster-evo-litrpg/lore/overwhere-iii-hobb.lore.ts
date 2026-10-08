@@ -21,4 +21,6 @@ export const overwhereIiiHobb = {
       knowers: ["lore-disclosure/game-master"],
     },
   ],
+  createdAt: "2026-09-29T12:46:12.524Z",
+  updatedAt: "2026-09-29T12:46:15.000Z",
 } as const satisfies Lore

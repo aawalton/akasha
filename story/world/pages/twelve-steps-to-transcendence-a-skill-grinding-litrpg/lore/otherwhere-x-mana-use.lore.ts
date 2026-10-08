@@ -57,4 +57,6 @@ export const otherwhereXManaUse = {
       knowers: ["lore-disclosure/game-master"],
     },
   ],
+  createdAt: "2026-09-29T01:51:26.173Z",
+  updatedAt: "2026-09-29T01:51:29.000Z",
 } as const satisfies Lore

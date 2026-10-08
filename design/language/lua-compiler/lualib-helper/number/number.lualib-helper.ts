@@ -7,4 +7,6 @@ export const number = {
   definition: "the number a value of any type converts to",
   code: "ts",
   luaExport: "__TS__Number",
+  createdAt: "2026-09-10T16:57:36.427Z",
+  updatedAt: "2026-09-15T17:24:36.000Z",
 } as const satisfies LualibHelper

@@ -7,4 +7,6 @@ export const arrayReduceRight = {
   definition: "an array folded from its end into one value",
   code: "ts",
   luaExport: "__TS__ArrayReduceRight",
+  createdAt: "2026-09-10T17:28:52.518Z",
+  updatedAt: "2026-09-22T10:19:56.000Z",
 } as const satisfies LualibHelper

@@ -85,4 +85,6 @@ export const otherwhereXSkillFusion = {
       knowers: ["lore-disclosure/game-master"],
     },
   ],
+  createdAt: "2026-09-28T23:59:19.490Z",
+  updatedAt: "2026-09-28T23:59:22.000Z",
 } as const satisfies Lore

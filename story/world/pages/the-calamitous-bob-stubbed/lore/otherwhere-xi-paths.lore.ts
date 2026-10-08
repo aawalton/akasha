@@ -169,4 +169,6 @@ export const otherwhereXiPaths = {
       knowers: ["lore-disclosure/game-master"],
     },
   ],
+  createdAt: "2026-09-29T00:03:42.057Z",
+  updatedAt: "2026-09-29T00:03:45.000Z",
 } as const satisfies Lore

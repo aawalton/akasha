@@ -16,4 +16,6 @@ export const overwhereIvGrakk = {
       knowers: ["lore-disclosure/game-master"],
     },
   ],
+  createdAt: "2026-09-29T12:40:40.019Z",
+  updatedAt: "2026-09-29T12:40:43.000Z",
 } as const satisfies Lore

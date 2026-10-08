@@ -7,4 +7,6 @@ export const awaiting = {
   definition: "the yield an await expression becomes",
   code: "ts",
   luaExport: "__TS__Await",
+  createdAt: "2026-09-08T16:09:38.428Z",
+  updatedAt: "2026-09-15T17:24:36.000Z",
 } as const satisfies LualibHelper

@@ -331,4 +331,6 @@ export const overwhereIvBrooksideFour2 = {
       knowers: ["lore-disclosure/game-master", "lore/overwhere-iv-brookside-four"],
     },
   ],
+  createdAt: "2026-10-02T21:07:52.155Z",
+  updatedAt: "2026-10-03T13:26:54.000Z",
 } as const satisfies Lore

@@ -57,4 +57,6 @@ export const overwhereIiiCurrentKnot = {
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
   ],
+  createdAt: "2026-10-03T01:11:13.679Z",
+  updatedAt: "2026-10-03T13:32:21.000Z",
 } as const satisfies Lore

@@ -7,4 +7,6 @@ export const descriptorSet = {
   definition: "a key written through the setter a metatable holds, or written raw",
   code: "ts",
   luaExport: "__TS__DescriptorSet",
+  createdAt: "2026-09-10T17:02:31.173Z",
+  updatedAt: "2026-09-15T17:24:36.000Z",
 } as const satisfies LualibHelper

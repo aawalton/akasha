@@ -330,4 +330,6 @@ export const overwhereIvTheTangle2 = {
       knowers: ["lore-disclosure/game-master"],
     },
   ],
+  createdAt: "2026-10-02T22:12:08.267Z",
+  updatedAt: "2026-10-03T11:34:18.000Z",
 } as const satisfies Lore

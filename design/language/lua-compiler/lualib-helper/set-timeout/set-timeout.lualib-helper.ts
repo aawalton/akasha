@@ -7,4 +7,6 @@ export const setTimeout = {
   definition: "the handle of a call made once after a delay",
   code: "ts",
   luaExport: "__TS__SetTimeout",
+  createdAt: "2026-09-08T16:18:23.429Z",
+  updatedAt: "2026-09-22T14:07:45.000Z",
 } as const satisfies LualibHelper

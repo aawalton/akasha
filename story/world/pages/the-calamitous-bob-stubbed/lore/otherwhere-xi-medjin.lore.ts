@@ -37,4 +37,6 @@ export const otherwhereXiMedjin = {
       knowers: ["lore-disclosure/game-master"],
     },
   ],
+  createdAt: "2026-09-29T00:07:49.881Z",
+  updatedAt: "2026-09-29T00:07:56.000Z",
 } as const satisfies Lore

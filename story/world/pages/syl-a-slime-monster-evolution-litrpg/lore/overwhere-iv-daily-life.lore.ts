@@ -210,4 +210,6 @@ export const overwhereIvDailyLife = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-29T12:32:07.887Z",
+  updatedAt: "2026-09-29T12:43:57.000Z",
 } as const satisfies Lore

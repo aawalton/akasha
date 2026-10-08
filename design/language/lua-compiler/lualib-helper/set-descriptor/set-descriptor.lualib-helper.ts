@@ -7,4 +7,6 @@ export const setDescriptor = {
   definition: "a descriptor filed on a target's metatable, with the index hooks put in place",
   code: "ts",
   luaExport: "__TS__SetDescriptor",
+  createdAt: "2026-09-10T17:02:41.857Z",
+  updatedAt: "2026-09-15T17:24:36.000Z",
 } as const satisfies LualibHelper

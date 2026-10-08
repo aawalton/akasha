@@ -8,4 +8,6 @@ export const lualib = {
   parts: ["type-declaration/lua-class"],
   universalConfig: "json",
   lua50Config: "json",
+  createdAt: "2026-09-03T12:58:12.006Z",
+  updatedAt: "2026-09-24T17:04:31.000Z",
 } as const satisfies LuaRuntimeLibrary

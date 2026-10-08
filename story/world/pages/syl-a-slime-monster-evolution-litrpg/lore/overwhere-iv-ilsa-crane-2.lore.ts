@@ -310,4 +310,6 @@ export const overwhereIvIlsaCrane2 = {
       ],
     },
   ],
+  createdAt: "2026-09-30T21:27:52.916Z",
+  updatedAt: "2026-10-03T02:07:40.000Z",
 } as const satisfies Lore

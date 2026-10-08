@@ -49,4 +49,6 @@ export const overwhereIvLionRegalia = {
       knowers: ["lore-disclosure/game-master"],
     },
   ],
+  createdAt: "2026-09-29T12:49:56.635Z",
+  updatedAt: "2026-09-29T12:49:59.000Z",
 } as const satisfies Lore

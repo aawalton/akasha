@@ -7,4 +7,6 @@ export const mathSign = {
   definition: "minus one, zero or one, as a number is negative, zero or positive",
   code: "ts",
   luaExport: "__TS__MathSign",
+  createdAt: "2026-09-10T17:00:07.768Z",
+  updatedAt: "2026-09-15T17:24:36.000Z",
 } as const satisfies LualibHelper

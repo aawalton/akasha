@@ -29,4 +29,6 @@ export const overwhereIiiLorenBernhard = {
     { fact: "Now he is in Abylport, at his Guild.", knowers: ["lore-disclosure/game-master"] },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-29T12:42:45.835Z",
+  updatedAt: "2026-09-29T12:42:48.000Z",
 } as const satisfies Lore

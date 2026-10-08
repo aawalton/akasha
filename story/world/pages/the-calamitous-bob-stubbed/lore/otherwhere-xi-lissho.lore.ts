@@ -17,4 +17,6 @@ export const otherwhereXiLissho = {
       knowers: ["lore-disclosure/game-master"],
     },
   ],
+  createdAt: "2026-09-29T00:27:56.588Z",
+  updatedAt: "2026-09-29T00:28:00.000Z",
 } as const satisfies Lore

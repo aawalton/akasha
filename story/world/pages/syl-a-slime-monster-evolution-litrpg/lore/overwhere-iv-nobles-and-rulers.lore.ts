@@ -211,4 +211,6 @@ export const overwhereIvNoblesAndRulers = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-29T12:29:44.681Z",
+  updatedAt: "2026-09-29T12:43:13.000Z",
 } as const satisfies Lore

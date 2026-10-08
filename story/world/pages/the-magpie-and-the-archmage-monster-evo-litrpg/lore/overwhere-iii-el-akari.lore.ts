@@ -42,4 +42,6 @@ export const overwhereIiiElAkari = {
     },
     { fact: "Now she is in the anthill, at council.", knowers: ["lore-disclosure/game-master"] },
   ],
+  createdAt: "2026-09-29T12:45:03.029Z",
+  updatedAt: "2026-09-29T12:45:06.000Z",
 } as const satisfies Lore

@@ -7,4 +7,6 @@ export const luaIteratorSpread = {
   definition: "the key and value pairs a Lua iterator answers, spread as many values",
   code: "ts",
   luaExport: "__TS__LuaIteratorSpread",
+  createdAt: "2026-09-08T17:00:48.557Z",
+  updatedAt: "2026-09-15T17:24:36.000Z",
 } as const satisfies LualibHelper

@@ -7,4 +7,6 @@ export const numberToFixed = {
   definition: "the text a number takes with a stated count of fraction digits",
   code: "ts",
   luaExport: "__TS__NumberToFixed",
+  createdAt: "2026-09-08T17:12:48.297Z",
+  updatedAt: "2026-09-15T17:24:36.000Z",
 } as const satisfies LualibHelper

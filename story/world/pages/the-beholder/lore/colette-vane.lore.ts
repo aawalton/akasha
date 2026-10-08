@@ -30,4 +30,6 @@ export const coletteVane = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-26T13:47:18.396Z",
+  updatedAt: "2026-10-03T19:21:20.000Z",
 } as const satisfies Lore

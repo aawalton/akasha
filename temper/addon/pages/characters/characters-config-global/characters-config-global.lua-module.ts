@@ -14,4 +14,6 @@ export const charactersConfigGlobal = {
         "The name starts out empty and the game fills the name from the saved variables file.",
     },
   ],
+  createdAt: "2026-09-02T16:16:55.511Z",
+  updatedAt: "2026-09-22T13:50:05.000Z",
 } as const satisfies LuaModule

@@ -7,4 +7,6 @@ export const coroutines = {
   definition: "the coroutine calls a Lua host offers",
   code: "ts",
   luaExport: "__TS__Coroutines",
+  createdAt: "2026-09-08T16:09:28.648Z",
+  updatedAt: "2026-09-15T17:24:36.000Z",
 } as const satisfies LualibHelper
