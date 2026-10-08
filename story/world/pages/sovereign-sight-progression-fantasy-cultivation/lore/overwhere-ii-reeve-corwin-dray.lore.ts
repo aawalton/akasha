@@ -299,13 +299,6 @@ export const overwhereIiReeveCorwinDray = {
       fact: "Nala told Dray she will scout the Whitecombs on day three, and talk of Oswy Crake after.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
-    {
-      fact: "On day three's night Dray paid Nala half a silver bar in coin for word of the Callow pool.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
-    },
-    {
-      fact: "The watch brought the four den greymaws down on day three; they lie under sacking in Dray's yard.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
-    },
   ],
+  updatedAt: "2026-10-08T16:26:17.276Z",
 } as const satisfies Lore
