@@ -41,6 +41,7 @@
 {"propertySlug":"import","fileName":"eso-enums-12.type-declaration.d.ts","path":"temper/addon/pages/temper-core/temper-interface/modules/tweak-entry/tweak-entry.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-enums-12.type-declaration.d.ts","path":"temper/addon/pages/temper-core/temper-interface/modules/tweak-keybinds/tweak-keybinds.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-enums-12.type-declaration.d.ts","path":"temper/addon/pages/temper-core/temper-interface/modules/tweak-panel-action-bars/tweak-panel-action-bars.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"eso-enums-12.type-declaration.d.ts","path":"temper/addon/pages/temper-core/temper-interface/modules/tweak-quest/tweak-quest.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-enums-12.type-declaration.d.ts","path":"temper/addon/pages/temper-core/temper-interface/modules/tweak-settings-defaults/tweak-settings-defaults.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-enums-12.type-declaration.d.ts","path":"temper/addon/pages/temper-core/temper-interface/modules/tweak-skill-action-bar-timers/tweak-skill-action-bar-timers.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-enums-12.type-declaration.d.ts","path":"temper/addon/pages/temper-core/temper-interface/modules/tweak-sounds/tweak-sounds.module.code.ts","typed":false,"deferred":false}

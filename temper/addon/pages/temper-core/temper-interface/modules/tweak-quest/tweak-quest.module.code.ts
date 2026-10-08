@@ -1,6 +1,8 @@
 import { STATE } from "akasha/temper/addon/pages/temper-core/temper-interface/modules/tweak-state/tweak-state.module.code.ts"
 import "akasha/temper/eso/type/eso-api-2/eso-api-2.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-enums-12/eso-enums-12.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-enums-17/eso-enums-17.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-interface-extra-2/eso-interface-extra-2.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-ui/eso-ui.type-declaration.d.ts"
@@ -86,7 +88,24 @@ function questTrackerChanges(this: void): undefined {
   questTrackerMovable(STATE.settingsVars.settings.questTrackerMovable === true)
 }
 
+let TAP_CYCLES_QUEST_HOOKED = false
+
+function tapCyclesQuest(this: void): undefined {
+  if (TAP_CYCLES_QUEST_HOOKED || HUD_TRACKER_MANAGER === undefined) {
+    return
+  }
+  ZO_PreHook(HUD_TRACKER_MANAGER, "EndAssistInteract", (manager: HudTrackerManager) => {
+    const trackerShown = GetSetting_Bool(SETTING_TYPE_UI, UI_SETTING_SHOW_QUEST_TRACKER)
+    if (manager.cycledAssistedAsipration !== true && !trackerShown) {
+      FOCUSED_QUEST_TRACKER.AssistNext()
+    }
+    return undefined
+  })
+  TAP_CYCLES_QUEST_HOOKED = true
+}
+
 export function questChanges(this: void): undefined {
   questTrackerChanges()
   questTrackerLoadPosition(true)
+  tapCyclesQuest()
 }
