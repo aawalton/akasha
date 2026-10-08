@@ -13156,7 +13156,8 @@
       72,
       74,
       77,
-      91
+      91,
+      92
     ],
     "888": [
       1,
@@ -13625,11 +13626,11 @@
   "bagSize": 215,
   "allianceRank": 13,
   "dailyWrits": {
-    "date": "2026-09-28",
+    "date": "2026-10-08",
     "completed": 7
   },
   "dailyWritStates": {
-    "date": "2026-09-28",
+    "date": "2026-10-08",
     "seen": [
       5,
       3,
@@ -13650,7 +13651,7 @@
     ]
   },
   "inventoryCheck": {
-    "date": "2026-09-28",
-    "misplaced": 19
+    "date": "2026-10-08",
+    "misplaced": 26
   }
 }
