@@ -9,7 +9,7 @@ export const storyZoneQuestSkillPoints = {
   character: "temper-account-character/maviola-el",
   completionCard: "temper-completion-category/characters-skill-points",
   completionItemPath: ["storyZoneQuests"],
-  dueDate: "2026-10-09",
+  dueDate: "2026-10-08",
   rruleRule: "FREQ=DAILY",
   rruleAnchorFromCompletion: false,
   accountPage: "temper-account/alanarre",
@@ -21,5 +21,5 @@ export const storyZoneQuestSkillPoints = {
   progressTotal: 3280,
   progressCurrent: 1419,
   createdAt: "2026-09-21T22:44:17.814Z",
-  updatedAt: "2026-10-08T17:20:24.893Z",
+  updatedAt: "2026-10-08T22:53:14.788Z",
 } as const satisfies TemperTask
