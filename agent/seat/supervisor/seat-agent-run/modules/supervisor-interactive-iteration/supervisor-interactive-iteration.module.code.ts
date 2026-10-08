@@ -58,7 +58,6 @@ export async function openIteration(args: {
   setPendingCarriedName: (value: CarriedAgentName | null) => void
   setPendingUserPrompt: (value: string | null) => void
   bindAgentName: ClearRebindDeps["bindAgentName"]
-  setSessionId: ClearRebindDeps["setSessionId"]
 }): Promise<string> {
   const { agentIdHandle, sessionId } = args
   let agentId = args.agentId
@@ -87,13 +86,21 @@ export async function openIteration(args: {
   agentIdHandle.bind(agentId)
   setCurrentAgentIdForRestart(agentId)
   setCurrentSessionIdForRestart(sessionId)
+  claimSeatSupervision(agentId)
+  return agentId
+}
+
+export async function keepIterationSession(
+  setSessionId: ClearRebindDeps["setSessionId"],
+  agentId: string,
+  sessionId: string
+): Promise<undefined> {
   try {
-    await args.setSessionId(agentId, sessionId)
+    await setSessionId(agentId, sessionId)
   } catch (err) {
     console.error(`${LOG} Failed to set sessionId on agent ${agentId}:`, err)
   }
-  claimSeatSupervision(agentId)
-  return agentId
+  return undefined
 }
 
 export async function acquireIterationChild(args: {

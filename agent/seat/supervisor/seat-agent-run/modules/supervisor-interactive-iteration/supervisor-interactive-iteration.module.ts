@@ -29,6 +29,11 @@ export const supervisorInteractiveIteration = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "A session id is written once the child is spawned and before its transcript is kept.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "Claimed redelivery is reconciled only on a resume that adopted no child.",
     },
     {
@@ -44,4 +49,5 @@ export const supervisorInteractiveIteration = {
       statement: "The transcript is kept at the session's file under the project directory.",
     },
   ],
+  updatedAt: "2026-10-08T15:46:05.150Z",
 } as const satisfies Module

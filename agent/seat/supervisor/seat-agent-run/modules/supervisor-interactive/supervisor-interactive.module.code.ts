@@ -9,6 +9,7 @@ import type { AgentProcess } from "akasha/agent/seat/supervisor/modules/supervis
 import {
   acquireIterationChild,
   assembleIterationProcess,
+  keepIterationSession,
   openIteration,
 } from "akasha/agent/seat/supervisor/seat-agent-run/modules/supervisor-interactive-iteration/supervisor-interactive-iteration.module.code.ts"
 import type { RunInteractiveSeams } from "akasha/agent/seat/supervisor/seat-agent-run/modules/supervisor-interactive-seams/supervisor-interactive-seams.module.code.ts"
@@ -102,7 +103,6 @@ export async function runInteractive(
         pendingUserPrompt = v
       },
       bindAgentName: seams.rebindDeps.bindAgentName,
-      setSessionId: seams.rebindDeps.setSessionId,
     })
 
     const { proc, adoptedThisIter, iterMcpPath } = await acquireIterationChild({
@@ -131,6 +131,8 @@ export async function runInteractive(
       )
       break
     }
+
+    await keepIterationSession(seams.rebindDeps.setSessionId, agentId, sessionId)
 
     const assembled = assembleIterationProcess({
       processId,
