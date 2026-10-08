@@ -1,10 +1,10 @@
 import type { InstantProperty } from "akasha/page/instant-property/instant-property.page-type.types.ts"
 
-export const updatedAt = {
+export const ruleChangedAt = {
   id: "01a07293-b84f-74d7-90cc-6208d5fc468f",
   type: "page-type/instant-property",
-  slug: "updated-at",
-  propertySlug: "updated-at",
+  slug: "rule-changed-at",
+  propertySlug: "rule-changed-at",
   definition: "when a rule was last changed by the player who holds it",
   decisions: [
     {

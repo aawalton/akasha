@@ -13,6 +13,6 @@ export const ruleJunkSell = {
   displayOrder: 74,
   action: "temper-item-action/sell",
   active: true,
-  updatedAt: "2026-05-04T16:04:31.132Z",
+  ruleChangedAt: "2026-05-04T16:04:31.132Z",
   locked: true,
 } as const satisfies TemperInventoryRule

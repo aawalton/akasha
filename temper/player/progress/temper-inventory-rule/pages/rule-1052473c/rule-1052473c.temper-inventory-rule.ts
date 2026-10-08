@@ -11,7 +11,7 @@ export const rule1052473c = {
   displayOrder: 25,
   action: "temper-item-action/stock",
   active: true,
-  updatedAt: "2026-09-26T17:46:19.275Z",
+  ruleChangedAt: "2026-09-26T17:46:19.275Z",
   locked: false,
   destinationChain: "jsonl",
   categoryId: "temper-item-category-tree/potions",

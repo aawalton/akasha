@@ -25,7 +25,7 @@ export interface RulePage {
   readonly displayOrder: number
   readonly action: string
   readonly active: boolean
-  readonly updatedAt: string
+  readonly ruleChangedAt: string
   readonly goal?: string
   readonly locked?: boolean
   readonly destination?: string
@@ -310,11 +310,11 @@ export function heldFromRow(row: Record<string, unknown>): HeldRule {
   }
   const categoryId = textAt(row, "categoryId")
   const action = textAt(row, "action")
-  const updatedAt = textAt(row, "updatedAt")
+  const ruleChangedAt = textAt(row, "ruleChangedAt")
   const displayOrder = row.displayOrder
   if (categoryId === undefined) throw unread(slug, "the page states no `categoryId`")
   if (action === undefined) throw unread(slug, "the page states no `action`")
-  if (updatedAt === undefined) throw unread(slug, "the page states no `updatedAt`")
+  if (ruleChangedAt === undefined) throw unread(slug, "the page states no `ruleChangedAt`")
   if (typeof displayOrder !== "number") {
     throw unread(
       slug,
@@ -330,7 +330,7 @@ export function heldFromRow(row: Record<string, unknown>): HeldRule {
     displayOrder,
     action,
     active: row.active !== false,
-    updatedAt,
+    ruleChangedAt,
     ...(textAt(row, "title") === undefined ? {} : { title: textAt(row, "title") as string }),
     ...(textAt(row, "description") === undefined
       ? {}
@@ -363,7 +363,7 @@ export function ruleFromPage(held: HeldRule): CategoryRule {
     categoryId: slugOf(page.categoryId),
     action: slugOf(page.action) as ItemAction,
     active: page.active,
-    updatedAt: epochOf(page.updatedAt),
+    updatedAt: epochOf(page.ruleChangedAt),
     ...(page.title === undefined ? {} : { title: page.title }),
     ...(page.description === undefined ? {} : { notes: page.description }),
     ...(page.goal === undefined ? {} : { goal: slugOf(page.goal) }),

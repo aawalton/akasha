@@ -23,7 +23,7 @@ const A_ROW = {
   displayOrder: 3,
   action: `${temperItemAction.slug}/${sell.slug}`,
   active: true,
-  updatedAt: "1970-01-01T00:00:00.000Z",
+  ruleChangedAt: "1970-01-01T00:00:00.000Z",
 }
 
 function saidFor(rows: readonly Record<string, unknown>[]): string {

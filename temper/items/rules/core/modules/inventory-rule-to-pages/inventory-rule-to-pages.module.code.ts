@@ -139,7 +139,7 @@ export function pageFromRule(
     displayOrder,
     action: namedAs(ITEM_ACTION, rule.action, null),
     active: rule.active,
-    updatedAt: instantOf(rule.updatedAt ?? writtenAt),
+    ruleChangedAt: instantOf(rule.updatedAt ?? writtenAt),
     ...(rule.title == null ? {} : { title: rule.title }),
     ...(rule.notes == null ? {} : { description: rule.notes }),
     ...(rule.goal == null ? {} : { goal: namedAs(RULE_GOAL, rule.goal, null) }),

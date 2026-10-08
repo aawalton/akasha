@@ -12,7 +12,7 @@ export const rule91d78da5 = {
   displayOrder: 0,
   action: "temper-item-action/stock",
   active: true,
-  updatedAt: "2026-09-27T13:45:16.444Z",
+  ruleChangedAt: "2026-09-27T13:45:16.444Z",
   destinationChain: "jsonl",
   categoryId: "temper-item-category-tree/lockpicks",
   buyShortfall: true,

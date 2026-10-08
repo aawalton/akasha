@@ -10,7 +10,7 @@ export const itemRule9aea82930e8d4c8bA95aEea8fcfe36bb = {
   displayOrder: 1,
   action: "temper-item-action/stock",
   active: true,
-  updatedAt: "2026-07-05T17:53:59.791Z",
+  ruleChangedAt: "2026-07-05T17:53:59.791Z",
   destination: "character:by-priority",
   stockQuantity: 100,
 } as const satisfies TemperItemRule

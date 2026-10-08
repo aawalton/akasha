@@ -49,7 +49,7 @@ function heldOf(id: string, at: number, over: Partial<HeldRule["page"]> = {}): H
       displayOrder: at,
       action: `${temperItemAction.slug}/${sell.slug}` as const,
       active: true,
-      updatedAt: AN_INSTANT,
+      ruleChangedAt: AN_INSTANT,
       ...over,
     } as HeldRule["page"],
   }
@@ -71,7 +71,7 @@ test("a rule the pages do not hold is written", () => {
 test("a rule saying nothing about when it changed is written dated at the write", () => {
   const undated: CategoryRule = { id: "one", categoryId: "scripts", action: "sell", active: true }
   const said = writesFor([undated], [], ACCOUNT, WRITTEN_AT)
-  expect(said.upserts[0]?.values.updatedAt).toBe(new Date(WRITTEN_AT).toISOString())
+  expect(said.upserts[0]?.values.ruleChangedAt).toBe(new Date(WRITTEN_AT).toISOString())
 })
 
 test("a rule is written switched on or off as the rule says", () => {

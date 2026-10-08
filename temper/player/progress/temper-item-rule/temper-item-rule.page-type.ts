@@ -13,7 +13,7 @@ export const temperItemRule = {
     { pageProperty: "number-property/display-order", required: true, many: false },
     { pageProperty: "relation-property/action", required: true, many: false },
     { pageProperty: "boolean-property/active", required: true, many: false },
-    { pageProperty: "instant-property/updated-at", required: true, many: false },
+    { pageProperty: "instant-property/rule-changed-at", required: true, many: false },
     { pageProperty: "boolean-property/rule-locked", required: false, many: false },
     { pageProperty: "page-property-entry/destination-chain", required: false, many: false },
     { pageProperty: "number-property/stock-quantity", required: false, many: false },

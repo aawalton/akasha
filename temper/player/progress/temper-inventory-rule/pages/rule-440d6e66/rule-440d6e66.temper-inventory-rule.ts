@@ -11,6 +11,6 @@ export const rule440d6e66 = {
   displayOrder: 40,
   action: "temper-item-action/stock",
   active: true,
-  updatedAt: "2026-06-03T03:46:58.890Z",
+  ruleChangedAt: "2026-06-03T03:46:58.890Z",
   destinationChain: "jsonl",
 } as const satisfies TemperInventoryRule

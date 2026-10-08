@@ -12,7 +12,7 @@ export const ruleAf179f2a = {
   displayOrder: 13,
   action: "temper-item-action/nothing",
   active: true,
-  updatedAt: "2026-09-27T15:31:31.729Z",
+  ruleChangedAt: "2026-09-27T15:31:31.729Z",
   locked: true,
   categoryId: "temper-item-category-tree/containers",
 } as const satisfies TemperInventoryRule

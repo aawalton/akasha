@@ -14,5 +14,5 @@ export const ruleUncollectedBind = {
   displayOrder: 15.5,
   action: "temper-item-action/bind",
   active: true,
-  updatedAt: "2026-10-08T14:35:10.000Z",
+  ruleChangedAt: "2026-10-08T14:35:10.000Z",
 } as const satisfies TemperInventoryRule

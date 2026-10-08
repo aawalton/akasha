@@ -13,7 +13,7 @@ export const ruleToolsBank = {
   displayOrder: 68,
   action: "temper-item-action/stock",
   active: true,
-  updatedAt: "2026-07-05T13:20:53.393Z",
+  ruleChangedAt: "2026-07-05T13:20:53.393Z",
   locked: true,
   destinationChain: "jsonl",
 } as const satisfies TemperInventoryRule

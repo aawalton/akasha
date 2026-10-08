@@ -14,5 +14,5 @@ export const ruleDd546170 = {
   displayOrder: 35,
   action: "temper-item-action/destroy",
   active: true,
-  updatedAt: "2026-06-02T20:49:28.795Z",
+  ruleChangedAt: "2026-06-02T20:49:28.795Z",
 } as const satisfies TemperInventoryRule

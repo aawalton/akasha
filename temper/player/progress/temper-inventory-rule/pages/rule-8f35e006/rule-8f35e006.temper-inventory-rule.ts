@@ -13,6 +13,6 @@ export const rule8f35e006 = {
   displayOrder: 23,
   action: "temper-item-action/stock",
   active: true,
-  updatedAt: "2026-09-27T15:28:08.610Z",
+  ruleChangedAt: "2026-09-27T15:28:08.610Z",
   destinationChain: "jsonl",
 } as const satisfies TemperInventoryRule

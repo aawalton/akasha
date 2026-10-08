@@ -189,7 +189,7 @@ const A_RULE: HeldRule = {
     displayOrder: 0,
     action: `${temperItemAction.slug}/${stock.slug}`,
     active: true,
-    updatedAt: "2026-05-04T16:04:31.132Z",
+    ruleChangedAt: "2026-05-04T16:04:31.132Z",
   },
 }
 

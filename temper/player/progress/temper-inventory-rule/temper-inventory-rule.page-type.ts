@@ -8,7 +8,7 @@ export const temperInventoryRule = {
   extends: ["page-type/temper-rule"],
   parts: [
     "boolean-property/rule-locked",
-    "instant-property/updated-at",
+    "instant-property/rule-changed-at",
     "number-property/target-quantity",
     "page-property-entry/destination-chain",
     "record-property/character-conditions",
@@ -23,7 +23,7 @@ export const temperInventoryRule = {
     { pageProperty: "number-property/display-order", required: true, many: false },
     { pageProperty: "relation-property/action", required: true, many: false },
     { pageProperty: "boolean-property/active", required: true, many: false },
-    { pageProperty: "instant-property/updated-at", required: true, many: false },
+    { pageProperty: "instant-property/rule-changed-at", required: true, many: false },
     { pageProperty: "boolean-property/rule-locked", required: false, many: false },
     { pageProperty: "page-property-entry/destination-chain", required: false, many: false },
     { pageProperty: "relation-property/item-category", required: true, many: false },

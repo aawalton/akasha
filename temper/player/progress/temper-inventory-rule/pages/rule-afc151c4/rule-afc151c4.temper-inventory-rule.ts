@@ -12,6 +12,6 @@ export const ruleAfc151c4 = {
   displayOrder: 8,
   action: "temper-item-action/fence-launder",
   active: true,
-  updatedAt: "2026-09-26T17:39:51.697Z",
+  ruleChangedAt: "2026-09-26T17:39:51.697Z",
   categoryId: "temper-item-category-tree/containers",
 } as const satisfies TemperInventoryRule

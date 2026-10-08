@@ -15,6 +15,6 @@ export const ruleUnlockByPriority = {
   displayOrder: 38,
   action: "temper-item-action/use",
   active: true,
-  updatedAt: "2026-05-04T16:04:31.132Z",
+  ruleChangedAt: "2026-05-04T16:04:31.132Z",
   locked: true,
 } as const satisfies TemperInventoryRule

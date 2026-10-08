@@ -13,5 +13,5 @@ export const rule3acee2c7 = {
   displayOrder: 86,
   action: "temper-item-action/sell",
   active: true,
-  updatedAt: "2026-07-05T13:20:37.492Z",
+  ruleChangedAt: "2026-07-05T13:20:37.492Z",
 } as const satisfies TemperInventoryRule

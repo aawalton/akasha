@@ -11,7 +11,7 @@ export const rule83678d83 = {
   displayOrder: 21,
   action: "temper-item-action/stock",
   active: true,
-  updatedAt: "2026-09-24T18:31:57.951Z",
+  ruleChangedAt: "2026-09-24T18:31:57.951Z",
   destinationChain: "jsonl",
   categoryId: "temper-item-category-tree/drink",
   craftShortfall: true,

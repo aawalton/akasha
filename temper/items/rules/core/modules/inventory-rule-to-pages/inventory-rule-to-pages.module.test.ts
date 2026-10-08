@@ -80,7 +80,9 @@ test("a destination beside an empty chain is written", () => {
 })
 
 test("the moment a rule changed is written as an instant", () => {
-  expect(pageFromRule(RULE, ACCOUNT, 0, WRITTEN_AT).page.updatedAt).toBe("2026-05-04T16:04:31.132Z")
+  expect(pageFromRule(RULE, ACCOUNT, 0, WRITTEN_AT).page.ruleChangedAt).toBe(
+    "2026-05-04T16:04:31.132Z"
+  )
   expect(instantOf(0)).toBe("1970-01-01T00:00:00.000Z")
 })
 
@@ -177,11 +179,13 @@ test("a rule switched off is written as switched off", () => {
 
 test("a rule saying nothing about when it changed is dated when it is written", () => {
   const bare: CategoryRule = { id: "a", categoryId: "weapons", action: "sell", active: true }
-  expect(pageFromRule(bare, ACCOUNT, 0, WRITTEN_AT).page.updatedAt).toBe(instantOf(WRITTEN_AT))
+  expect(pageFromRule(bare, ACCOUNT, 0, WRITTEN_AT).page.ruleChangedAt).toBe(instantOf(WRITTEN_AT))
 })
 
 test("a rule saying when it changed keeps that time rather than the time of the write", () => {
-  expect(pageFromRule(RULE, ACCOUNT, 0, WRITTEN_AT).page.updatedAt).not.toBe(instantOf(WRITTEN_AT))
+  expect(pageFromRule(RULE, ACCOUNT, 0, WRITTEN_AT).page.ruleChangedAt).not.toBe(
+    instantOf(WRITTEN_AT)
+  )
 })
 
 test("every kind of condition value comes back as the value it was", () => {

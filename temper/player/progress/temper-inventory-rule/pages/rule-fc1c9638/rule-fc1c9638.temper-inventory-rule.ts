@@ -15,5 +15,5 @@ export const ruleFc1c9638 = {
   displayOrder: 77,
   action: "temper-item-action/list",
   active: true,
-  updatedAt: "2026-06-02T20:49:37.020Z",
+  ruleChangedAt: "2026-06-02T20:49:37.020Z",
 } as const satisfies TemperInventoryRule

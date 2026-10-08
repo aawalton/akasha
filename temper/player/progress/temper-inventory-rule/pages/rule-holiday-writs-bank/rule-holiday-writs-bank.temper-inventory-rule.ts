@@ -14,6 +14,6 @@ export const ruleHolidayWritsBank = {
   displayOrder: 54,
   action: "temper-item-action/move-to",
   active: true,
-  updatedAt: "2026-07-05T12:14:14.074Z",
+  ruleChangedAt: "2026-07-05T12:14:14.074Z",
   locked: true,
 } as const satisfies TemperInventoryRule

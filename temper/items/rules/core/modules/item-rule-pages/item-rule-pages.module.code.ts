@@ -97,8 +97,8 @@ function slugFor(prefix: string, id: string, kind: string): string {
 }
 
 function epochIn(row: PageRow, kind: string, slug: string): number {
-  const instant = textIn(row, "updatedAt")
-  if (instant === undefined) throw unreadRule(kind, slug, "the page states no `updatedAt`")
+  const instant = textIn(row, "ruleChangedAt")
+  if (instant === undefined) throw unreadRule(kind, slug, "the page states no `ruleChangedAt`")
   const at = Date.parse(instant)
   if (Number.isNaN(at)) throw unreadRule(kind, slug, `\`${instant}\` is no instant`)
   return at
@@ -302,7 +302,7 @@ export function itemRulePageOf(
       displayOrder,
       action: namedAs(ITEM_ACTION, rule.action, null),
       active: rule.active !== false,
-      updatedAt: instantOf(rule.updatedAt ?? writtenAt),
+      ruleChangedAt: instantOf(rule.updatedAt ?? writtenAt),
       ...sharedValuesOf(rule, KIND, slug),
       ...(rule.destination === undefined ? {} : { destination: rule.destination }),
       ...(rule.stockScope === undefined ? {} : { stockScope: rule.stockScope }),

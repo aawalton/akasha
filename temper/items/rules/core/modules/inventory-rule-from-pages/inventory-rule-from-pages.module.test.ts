@@ -27,7 +27,7 @@ const PAGE: RulePage = {
   displayOrder: 5,
   action: `${temperItemAction.slug}/${stock.slug}` as const,
   active: true,
-  updatedAt: "2026-05-04T16:04:31.132Z",
+  ruleChangedAt: "2026-05-04T16:04:31.132Z",
 }
 
 const SKILL_LINES_TEST = `${temperCharacterConditionField.slug}/${requiredSkillLines.slug}`
@@ -48,8 +48,8 @@ test("an instant is read back as the milliseconds the game is told", () => {
   expect(ruleFromPage({ page: PAGE }).updatedAt).toBe(1777910671132)
 })
 
-test("an updated-at that is no instant refuses rather than reading as nothing", () => {
-  expect(() => ruleFromPage({ page: { ...PAGE, updatedAt: "the fourth of May" } })).toThrow()
+test("a rule-changed-at that is no instant refuses rather than reading as nothing", () => {
+  expect(() => ruleFromPage({ page: { ...PAGE, ruleChangedAt: "the fourth of May" } })).toThrow()
 })
 
 test("a property the page leaves unsaid is left off the rule", () => {
@@ -269,7 +269,7 @@ const A_ROW = {
   displayOrder: 3,
   action: `${temperItemAction.slug}/${sell.slug}` as const,
   active: true,
-  updatedAt: "1970-01-01T00:00:00.000Z",
+  ruleChangedAt: "1970-01-01T00:00:00.000Z",
 }
 
 test("a row carrying every key a rule needs becomes a held rule", () => {
@@ -284,7 +284,9 @@ test("a row short of a key every rule carries stops the read naming the rule and
     "rule `rule-one` is unread — the page states no `categoryId`"
   )
   expect(() => heldFromRow({ ...A_ROW, action: undefined })).toThrow("states no `action`")
-  expect(() => heldFromRow({ ...A_ROW, updatedAt: undefined })).toThrow("states no `updatedAt`")
+  expect(() => heldFromRow({ ...A_ROW, ruleChangedAt: undefined })).toThrow(
+    "states no `ruleChangedAt`"
+  )
   expect(() => heldFromRow({ ...A_ROW, displayOrder: "3" })).toThrow("states no `displayOrder`")
 })
 

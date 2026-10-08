@@ -14,6 +14,6 @@ export const ruleLowQualitySell = {
   displayOrder: 83,
   action: "temper-item-action/sell",
   active: true,
-  updatedAt: "2026-06-02T20:49:38.124Z",
+  ruleChangedAt: "2026-06-02T20:49:38.124Z",
   locked: true,
 } as const satisfies TemperInventoryRule

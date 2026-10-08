@@ -15,6 +15,6 @@ export const ruleResearchByPriority = {
   displayOrder: 49,
   action: "temper-item-action/research",
   active: true,
-  updatedAt: "2026-05-04T16:05:00.238Z",
+  ruleChangedAt: "2026-05-04T16:05:00.238Z",
   locked: true,
 } as const satisfies TemperInventoryRule

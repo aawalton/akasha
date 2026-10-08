@@ -14,6 +14,6 @@ export const ruleCraftedNothing = {
   displayOrder: 17,
   action: "temper-item-action/nothing",
   active: true,
-  updatedAt: "2026-05-04T16:04:31.132Z",
+  ruleChangedAt: "2026-05-04T16:04:31.132Z",
   locked: true,
 } as const satisfies TemperInventoryRule
