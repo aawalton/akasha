@@ -16,7 +16,15 @@ interface QuestTrackerHeaderControl extends Control {
 
 declare const ZO_FocusedQuestTrackerPanelContainerQuestContainerTrackedHeader1: QuestTrackerHeaderControl
 
-declare const FOCUSED_QUEST_TRACKER: Record<string, unknown>
+declare const FOCUSED_QUEST_TRACKER: Record<string, unknown> & {
+  AssistNext: (this: unknown, ignoreSceneRestriction?: boolean) => undefined
+}
+
+interface HudTrackerManager {
+  cycledAssistedAsipration?: boolean
+}
+
+declare const HUD_TRACKER_MANAGER: HudTrackerManager | undefined
 
 declare const SI_PROMOTIONAL_EVENT_TRACKER_PROGRESS_FORMATTER: number
 
