@@ -122,14 +122,16 @@ describe("cutPageBody", () => {
     expect(readBack(cutPageBody("alanwalton", BASIS))).toEqual(BASIS)
   })
 
-  test("what a build files is the page already filed for that build, but for its minted id", () => {
+  test("what a build files is the page already filed for that build, but for what is minted", () => {
     const root = rootFor(resolveRoots(), AKASHA)
     const slug = cutPageNameFor("alanwalton", 202)
     const onDisk = readFileSync(join(root, cutPagePath(slug)), "utf8")
     const filed = readBack(onDisk)
     const minted = /^ {2}id: ".*",$/m
+    const instants = /^ {2}(createdAt|updatedAt): ".*",\n/gm
     expect(onDisk).toMatch(minted)
-    expect(cutPageBody("alanwalton", filed).replace(minted, "")).toBe(onDisk.replace(minted, ""))
+    const filedAside = onDisk.replace(minted, "").replace(instants, "")
+    expect(cutPageBody("alanwalton", filed).replace(minted, "")).toBe(filedAside)
   })
 
   test("a fingerprint carrying no shell sha and no tree hash leaves both keys off", () => {
