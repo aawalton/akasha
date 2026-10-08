@@ -61,6 +61,14 @@ export const terminusCollectionTowers = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
+      fact: "Every tier's Fibonacci spiral winds between two poles, and those poles are the star's poles.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The System keeps the tower spirals aligned with the star's spin axis.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
       fact: "Each collection tower reaches through the whole thickness of the shell.",
       knowers: ["lore-disclosure/game-master"],
     },
@@ -186,5 +194,5 @@ export const terminusCollectionTowers = {
     },
   ],
   createdAt: "2026-10-08T19:30:37.295Z",
-  updatedAt: "2026-10-08T20:47:47.230Z",
+  updatedAt: "2026-10-08T20:49:45.888Z",
 } as const satisfies Lore

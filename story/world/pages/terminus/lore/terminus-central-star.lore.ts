@@ -69,7 +69,11 @@ export const terminusCentralStar = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
-      fact: "The sphere's uneven mass makes the star's spin axis wobble very slowly over vast ages.",
+      fact: "The sphere's uneven mass tugs the star's spin axis toward a very slow wobble.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The System places pulled-world mass to cancel the wobble, as it keeps the star centred.",
       knowers: ["lore-disclosure/game-master"],
     },
     {
@@ -162,5 +166,5 @@ export const terminusCentralStar = {
     },
   ],
   createdAt: "2026-10-08T19:28:35.009Z",
-  updatedAt: "2026-10-08T20:43:21.403Z",
+  updatedAt: "2026-10-08T20:49:45.888Z",
 } as const satisfies Lore
