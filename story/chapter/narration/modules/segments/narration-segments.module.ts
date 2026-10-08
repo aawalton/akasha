@@ -82,6 +82,16 @@ export const narrationSegments = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "A pronounced word followed by s, es, ed, ing or a possessive is pronounced with that ending too.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "An ending's sound follows the word's last sound, as misaki gives it to words it knows.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A word broken off before its first vowel is said with an added uh.",
     },
     {
@@ -98,6 +108,6 @@ export const narrationSegments = {
         "A word is counted as the chapter's length counts it, markup and window lines too.",
     },
   ],
-  updatedAt: "2026-10-08T17:46:36.290Z",
+  updatedAt: "2026-10-08T19:01:01.332Z",
   createdAt: "2026-10-05T20:29:00.386Z",
 } as const satisfies Module

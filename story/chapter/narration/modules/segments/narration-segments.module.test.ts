@@ -144,9 +144,9 @@ describe("narrationSegmentsOf", () => {
     const pronounced = [{ written: "Mrsha", spokenAs: "Mersha" }]
     const said = (prose: string): string[] =>
       narrationSegmentsOf(prose, pronounced).map((one) => one.text)
-    expect(said("Start.\nMrsha's friend, Mrshas and mrsha saw Mrsha.")).toEqual([
+    expect(said("Start.\nMrsha's friend, Mrshas and mrsha saw Mrsha and Mrshaz.")).toEqual([
       "Start.",
-      "Mersha's friend, Mrshas and mrsha saw Mersha.",
+      "Mersha's friend, Mershas and mrsha saw Mersha and Mrshaz.",
     ])
     expect(said("Start.\n\n:::skill\nname: Mrsha's Luck\n:::\n")).toEqual([
       "Start.",
@@ -167,7 +167,26 @@ describe("narrationSegmentsOf", () => {
       said("Start.\nKlbkch's road to Oteslia, not oteslia or Otesliana. Nobody saw Nothing.")
     ).toEqual([
       "Start.",
-      "[Klbkch](/kˈɪlbkɪʧ/)'s road to [Oteslia](/ˌOtˈɛsliə/), not oteslia or Otesliana. Nobody saw Nothing.",
+      "[Klbkch's](/kˈɪlbkɪʧᵻz/) road to [Oteslia](/ˌOtˈɛsliə/), not oteslia or Otesliana. Nobody saw Nothing.",
+    ])
+  })
+
+  test("a pronounced word with an ending is marked up whole, the ending's sound following the word's last sound", () => {
+    const pronounced = [
+      { written: "Ylawes", phonemes: "ilˈɑwɛs" },
+      { written: "Ksmvr", phonemes: "kˈɪsmvəɹ" },
+      { written: "Colth", phonemes: "kˈOlθ" },
+      { written: "Klbkch", phonemes: "kˈɪlbkɪʧ" },
+      { written: "Klb", phonemes: "kˈɪlb" },
+      { written: "Xrn", phonemes: "zˈɜɹn" },
+    ]
+    const said = (prose: string): string[] =>
+      narrationSegmentsOf(prose, pronounced).map((one) => one.text)
+    expect(
+      said("Start.\nYlawes’s Ksmvrs met Colth's Klbkches and the Klbkchs' Klbs; Xrned, Xrning.")
+    ).toEqual([
+      "Start.",
+      "[Ylawes's](/ilˈɑwɛsᵻz/) [Ksmvrs](/kˈɪsmvəɹz/) met [Colth's](/kˈOlθs/) [Klbkches](/kˈɪlbkɪʧᵻz/) and the [Klbkchs'](/kˈɪlbkɪʧᵻz/) [Klbs](/kˈɪlbz/); [Xrned](/zˈɜɹnd/), [Xrning](/zˈɜɹnɪŋ/).",
     ])
   })
 

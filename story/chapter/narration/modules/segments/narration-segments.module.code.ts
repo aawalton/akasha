@@ -131,27 +131,54 @@ function brokenOff(fragment: string): string {
 }
 
 const PATTERN_MARK = /[.*+?^${}()|[\]\\]/g
+const SUFFIX = "(?:['’]s|s['’]|es|s|ed|ing)?"
+const VOICELESS_END = /[ptkfθ]$/u
+const HISSED_END = /[szʃʒʧʤ]$/u
+const SHARP_END = /[pkfθʃsʧ]$/u
+const STOPPED_END = /[td]$/u
 
-function saidAs(one: Pronunciation): string {
+function sOn(phonemes: string): string {
+  if (HISSED_END.test(phonemes)) return `${phonemes}ᵻz`
+  return VOICELESS_END.test(phonemes) ? `${phonemes}s` : `${phonemes}z`
+}
+
+function edOn(phonemes: string): string {
+  if (STOPPED_END.test(phonemes)) return `${phonemes}ᵻd`
+  return SHARP_END.test(phonemes) ? `${phonemes}t` : `${phonemes}d`
+}
+
+function suffixed(phonemes: string, suffix: string): string {
+  if (suffix === "") return phonemes
+  if (suffix === "ing") return `${phonemes}ɪŋ`
+  return suffix === "ed" ? edOn(phonemes) : sOn(phonemes)
+}
+
+function saidAs(one: Pronunciation, found: string): string {
+  const suffix = found.slice(one.written.length)
   if (one.phonemes !== undefined && one.phonemes !== "") {
-    return `[${one.written}](/${one.phonemes}/)`
+    return `[${found}](/${suffixed(one.phonemes, suffix)}/)`
   }
-  return one.spokenAs ?? ""
+  return one.spokenAs === undefined || one.spokenAs === "" ? found : `${one.spokenAs}${suffix}`
 }
 
 export function respellerOf(pronunciations: readonly Pronunciation[]): (text: string) => string {
-  const respellings = new Map(
+  const named = new Map(
     pronunciations
-      .map((one) => [one.written, saidAs(one)] as const)
-      .filter(([key, said]) => key !== "" && said !== "")
+      .filter((one) => one.written !== "")
+      .filter((one) => (one.phonemes ?? "") !== "" || (one.spokenAs ?? "") !== "")
+      .map((one) => [one.written, one] as const)
   )
-  if (respellings.size === 0) return (text) => text
-  const written = [...respellings.keys()]
+  if (named.size === 0) return (text) => text
+  const written = [...named.keys()]
     .sort((a, b) => b.length - a.length)
     .map((one) => one.replace(PATTERN_MARK, "\\$&"))
     .join("|")
-  const word = new RegExp(`(?<![\\p{L}\\p{N}])(?:${written})(?![\\p{L}\\p{N}])`, "gu")
-  return (text) => text.replace(word, (found) => respellings.get(found) ?? found)
+  const word = new RegExp(`(?<![\\p{L}\\p{N}])(${written})${SUFFIX}(?![\\p{L}\\p{N}])`, "gu")
+  return (text) =>
+    text.replace(word, (found: string, stem: string) => {
+      const one = named.get(stem)
+      return one === undefined ? found : saidAs(one, found)
+    })
 }
 
 function entityOf(whole: string, decimal?: string, hex?: string, name?: string): string {
