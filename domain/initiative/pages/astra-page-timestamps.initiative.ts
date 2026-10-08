@@ -11,11 +11,7 @@ export const astraPageTimestamps = {
       statement:
         "Every page states the moment it was created and the moment its values last changed.",
     },
-    {
-      statement:
-        "Ordering pages by when they were created or changed reads those moments from the pages.",
-    },
   ],
-  updatedAt: "2026-10-08T15:57:57.870Z",
+  updatedAt: "2026-10-08T16:19:04.190Z",
   createdAt: "2026-10-08T14:35:51.273Z",
 } as const satisfies Initiative
