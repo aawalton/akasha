@@ -30,4 +30,6 @@ export const esoTraitReverseMap = {
         "The maps are handed in, since the web and the addon each read them their own way.",
     },
   ],
+  createdAt: "2026-09-02T08:13:30.198Z",
+  updatedAt: "2026-09-27T06:04:43.000Z",
 } as const satisfies Module

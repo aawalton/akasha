@@ -6,4 +6,6 @@ export const lorebooksRuntimeState = {
   slug: "lorebooks-runtime-state",
   definition: "what the add-on has worked out about the player's map",
   code: "ts",
+  createdAt: "2026-09-02T10:05:33.127Z",
+  updatedAt: "2026-09-22T13:57:31.000Z",
 } as const satisfies Module

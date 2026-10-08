@@ -6,4 +6,6 @@ export const lostTreasureUiStrings = {
   slug: "lost-treasure-ui-strings",
   definition: "the English text this add-on adds to the game's table of strings",
   code: "ts",
+  createdAt: "2026-09-02T08:34:37.708Z",
+  updatedAt: "2026-09-21T15:28:00.000Z",
 } as const satisfies Module

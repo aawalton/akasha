@@ -33,4 +33,6 @@ export const treasureUpstreamPort = {
       statement: "The file written is named to the caller as soon as that file is written.",
     },
   ],
+  createdAt: "2026-09-03T17:05:51.268Z",
+  updatedAt: "2026-09-21T15:14:51.000Z",
 } as const satisfies Module

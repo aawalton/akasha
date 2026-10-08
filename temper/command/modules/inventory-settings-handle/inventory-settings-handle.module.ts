@@ -22,4 +22,6 @@ export const inventorySettingsHandle = {
       statement: "No setting is shaped or defaulted here.",
     },
   ],
+  createdAt: "2026-09-03T20:30:04.511Z",
+  updatedAt: "2026-09-15T18:38:43.000Z",
 } as const satisfies Module

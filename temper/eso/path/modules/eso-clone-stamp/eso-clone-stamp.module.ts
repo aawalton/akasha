@@ -17,4 +17,6 @@ export const esoCloneStamp = {
       statement: "Documentation with no header line is refused rather than stamped from.",
     },
   ],
+  createdAt: "2026-09-02T04:11:16.255Z",
+  updatedAt: "2026-09-24T23:30:33.000Z",
 } as const satisfies Module

@@ -12,4 +12,6 @@ export const conditionalActions = {
       statement: "An action here is written for the addon rather than for the web matcher.",
     },
   ],
+  createdAt: "2026-09-02T07:23:20.425Z",
+  updatedAt: "2026-09-21T15:44:44.000Z",
 } as const satisfies Module

@@ -25,4 +25,6 @@ export const loreLibraryCatalogCapture = {
       statement: "A collection with no named book is left out.",
     },
   ],
+  createdAt: "2026-09-02T06:50:31.684Z",
+  updatedAt: "2026-09-21T15:12:26.000Z",
 } as const satisfies Module

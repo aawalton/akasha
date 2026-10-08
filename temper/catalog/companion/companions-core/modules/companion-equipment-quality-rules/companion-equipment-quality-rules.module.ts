@@ -6,4 +6,6 @@ export const companionEquipmentQualityRules = {
   slug: "companion-equipment-quality-rules",
   definition: "the quality tiers allowed for a companion's gear",
   code: "ts",
+  createdAt: "2026-09-02T07:41:17.667Z",
+  updatedAt: "2026-09-22T14:05:35.000Z",
 } as const satisfies Module

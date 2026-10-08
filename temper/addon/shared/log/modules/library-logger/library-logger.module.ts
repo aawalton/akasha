@@ -16,4 +16,6 @@ export const libraryLogger = {
       statement: "TemperDebugLogger is loaded before the library asking for a log.",
     },
   ],
+  createdAt: "2026-09-11T14:35:58.946Z",
+  updatedAt: "2026-09-22T13:46:23.000Z",
 } as const satisfies Module

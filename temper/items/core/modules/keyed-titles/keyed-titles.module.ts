@@ -34,4 +34,6 @@ export const keyedTitles = {
       statement: "One reading is held for each page type, and a new reading replaces it whole.",
     },
   ],
+  createdAt: "2026-09-27T02:09:46.532Z",
+  updatedAt: "2026-09-27T10:14:27.000Z",
 } as const satisfies Module

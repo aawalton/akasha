@@ -24,4 +24,6 @@ export const computeStockGroups = {
       statement: "A rule without an id cannot key a stock group.",
     },
   ],
+  createdAt: "2026-09-02T08:24:13.417Z",
+  updatedAt: "2026-09-22T14:24:39.000Z",
 } as const satisfies Module

@@ -26,4 +26,6 @@ export const checkStock = {
         "Bank stock is summed across the whole stock group before the target quantity is compared.",
     },
   ],
+  createdAt: "2026-09-02T08:24:13.417Z",
+  updatedAt: "2026-09-21T15:32:06.000Z",
 } as const satisfies Module

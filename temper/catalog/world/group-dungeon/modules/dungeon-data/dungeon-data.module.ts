@@ -12,4 +12,6 @@ export const dungeonData = {
       statement: "This code is written out from the dungeon pages rather than by hand.",
     },
   ],
+  createdAt: "2026-09-02T03:46:21.284Z",
+  updatedAt: "2026-09-21T15:28:00.000Z",
 } as const satisfies Module

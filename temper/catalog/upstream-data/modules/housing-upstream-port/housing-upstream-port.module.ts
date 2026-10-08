@@ -41,4 +41,6 @@ export const housingUpstreamPort = {
         "What a run has cleared and written is named to the caller as each of them happens.",
     },
   ],
+  createdAt: "2026-09-03T17:05:51.267Z",
+  updatedAt: "2026-09-21T15:14:51.000Z",
 } as const satisfies Module

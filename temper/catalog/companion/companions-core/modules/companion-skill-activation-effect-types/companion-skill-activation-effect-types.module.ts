@@ -6,4 +6,6 @@ export const companionSkillActivationEffectTypes = {
   slug: "companion-skill-activation-effect-types",
   definition: "what a companion skill activation does, narrowed from the character shapes",
   code: "ts",
+  createdAt: "2026-09-02T07:41:17.668Z",
+  updatedAt: "2026-09-21T15:26:51.000Z",
 } as const satisfies Module

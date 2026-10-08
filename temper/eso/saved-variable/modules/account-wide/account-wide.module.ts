@@ -29,4 +29,6 @@ export const accountWide = {
       statement: "A file with no account-wide table reads as nothing rather than as a failure.",
     },
   ],
+  createdAt: "2026-09-02T04:14:21.238Z",
+  updatedAt: "2026-09-24T15:11:56.000Z",
 } as const satisfies Module

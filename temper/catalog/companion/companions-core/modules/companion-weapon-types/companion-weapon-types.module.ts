@@ -16,4 +16,6 @@ export const companionWeaponTypes = {
       statement: "A weapon type's id stays in code, because rules name weapon types by id.",
     },
   ],
+  createdAt: "2026-09-02T07:31:51.280Z",
+  updatedAt: "2026-09-26T16:30:43.000Z",
 } as const satisfies Module

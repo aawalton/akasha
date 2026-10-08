@@ -21,4 +21,6 @@ export const requiredSkillLinesFilter = {
         "A rule whose action is other than `stock` is offered no Required Skill Lines condition.",
     },
   ],
+  createdAt: "2026-09-02T07:23:20.440Z",
+  updatedAt: "2026-09-27T10:08:48.000Z",
 } as const satisfies Module

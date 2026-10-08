@@ -12,4 +12,6 @@ export const header = {
       statement: "A header has no setting of its own.",
     },
   ],
+  createdAt: "2026-09-02T04:14:21.239Z",
+  updatedAt: "2026-09-21T22:10:28.000Z",
 } as const satisfies Module

@@ -27,4 +27,6 @@ export const kioskLocationName = {
       statement: "A kiosk id no guild trader page claims answers with its own number.",
     },
   ],
+  createdAt: "2026-09-02T05:33:44.734Z",
+  updatedAt: "2026-09-27T02:35:33.000Z",
 } as const satisfies Module

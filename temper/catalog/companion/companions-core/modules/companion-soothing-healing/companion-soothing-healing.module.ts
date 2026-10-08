@@ -16,4 +16,6 @@ export const companionSoothingHealing = {
       statement: "A two-handed weapon has a soothing value of its own.",
     },
   ],
+  createdAt: "2026-09-02T08:53:28.916Z",
+  updatedAt: "2026-09-21T15:26:51.000Z",
 } as const satisfies Module

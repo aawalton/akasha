@@ -21,4 +21,6 @@ export const inventoryManagementPlanRouteVenue = {
       statement: "A plan's step words are plan phrase pages, their held titles first.",
     },
   ],
+  createdAt: "2026-09-02T08:51:47.594Z",
+  updatedAt: "2026-09-27T11:55:45.000Z",
 } as const satisfies Module

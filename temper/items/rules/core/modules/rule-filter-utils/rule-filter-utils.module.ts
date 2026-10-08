@@ -18,4 +18,6 @@ export const ruleFilterUtils = {
         "A category is judged by the roots above the category rather than by the category id.",
     },
   ],
+  createdAt: "2026-09-02T07:23:20.442Z",
+  updatedAt: "2026-09-21T15:44:44.000Z",
 } as const satisfies Module

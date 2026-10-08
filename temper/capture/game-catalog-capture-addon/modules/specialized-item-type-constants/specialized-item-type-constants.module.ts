@@ -13,4 +13,6 @@ export const specializedItemTypeConstants = {
       statement: "Each number is read out of the client rather than written down here.",
     },
   ],
+  createdAt: "2026-09-02T08:06:07.178Z",
+  updatedAt: "2026-09-21T15:12:26.000Z",
 } as const satisfies Module

@@ -25,4 +25,6 @@ export const canGiveMaxRewardsFilter = {
         "A rule whose action is other than `open` is offered no Can Give Max Rewards condition.",
     },
   ],
+  createdAt: "2026-09-02T07:23:20.421Z",
+  updatedAt: "2026-09-27T10:48:37.000Z",
 } as const satisfies Module

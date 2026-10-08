@@ -17,4 +17,6 @@ export const merchantValueFilter = {
       statement: "This filter is shown under the `merchantValue` condition field page's title.",
     },
   ],
+  createdAt: "2026-09-02T07:23:20.435Z",
+  updatedAt: "2026-09-27T10:08:48.000Z",
 } as const satisfies Module

@@ -24,4 +24,6 @@ export const companionsBaseSource = {
       statement: "The source's id names no page; it only keeps the source apart from others.",
     },
   ],
+  createdAt: "2026-09-02T08:53:28.913Z",
+  updatedAt: "2026-09-26T19:44:16.000Z",
 } as const satisfies Module

@@ -20,4 +20,6 @@ export const searchLevelFilter = {
       statement: "A level threshold with the != operator sets no server band.",
     },
   ],
+  createdAt: "2026-09-02T08:27:23.690Z",
+  updatedAt: "2026-09-21T15:36:37.000Z",
 } as const satisfies Module

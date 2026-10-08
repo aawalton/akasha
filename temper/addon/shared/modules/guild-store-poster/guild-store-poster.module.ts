@@ -48,4 +48,6 @@ export const guildStorePoster = {
       statement: "Disposal unregisters the four events the flow registered.",
     },
   ],
+  createdAt: "2026-09-02T05:48:27.353Z",
+  updatedAt: "2026-09-26T15:33:14.000Z",
 } as const satisfies Module

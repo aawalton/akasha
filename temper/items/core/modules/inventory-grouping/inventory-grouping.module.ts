@@ -34,4 +34,6 @@ export const inventoryGrouping = {
       statement: "Placed furnishings file under the tree's furnishings and placed branches.",
     },
   ],
+  createdAt: "2026-09-02T14:03:07.141Z",
+  updatedAt: "2026-09-27T12:00:49.000Z",
 } as const satisfies Module

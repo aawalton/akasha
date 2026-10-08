@@ -6,4 +6,6 @@ export const mapPinsConfig = {
   slug: "map-pins-config",
   definition: "every map pin kind with its texture, size, level and tooltip",
   code: "ts",
+  createdAt: "2026-09-02T13:57:34.145Z",
+  updatedAt: "2026-09-22T02:18:28.000Z",
 } as const satisfies Module

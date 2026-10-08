@@ -22,4 +22,6 @@ export const inventoryRuleRows = {
       statement: "No rule is read or written here.",
     },
   ],
+  createdAt: "2026-09-03T20:30:04.511Z",
+  updatedAt: "2026-09-22T10:18:13.000Z",
 } as const satisfies Module

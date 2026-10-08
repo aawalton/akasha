@@ -21,4 +21,6 @@ export const skyshardsData = {
       statement: "The maps are gathered once, as the add-on loads.",
     },
   ],
+  createdAt: "2026-09-02T10:27:15.173Z",
+  updatedAt: "2026-09-25T00:18:55.000Z",
 } as const satisfies Module

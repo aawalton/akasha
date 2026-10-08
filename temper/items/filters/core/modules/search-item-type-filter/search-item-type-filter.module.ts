@@ -25,4 +25,6 @@ export const searchItemTypeFilter = {
       statement: "An item with no item type fails a non-empty selection.",
     },
   ],
+  createdAt: "2026-09-02T08:27:23.689Z",
+  updatedAt: "2026-09-27T04:06:46.000Z",
 } as const satisfies Module

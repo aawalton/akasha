@@ -26,4 +26,6 @@ export const engineColorsSeeding = {
         "The getter is defined among the real globals, so a model or the defaults cannot shadow it.",
     },
   ],
+  createdAt: "2026-09-24T15:10:06.759Z",
+  updatedAt: "2026-09-24T15:11:56.000Z",
 } as const satisfies Module

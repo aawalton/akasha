@@ -20,4 +20,6 @@ export const currencyPriceLookup = {
       statement: "A currency with no priced item has no rate.",
     },
   ],
+  createdAt: "2026-09-02T05:33:44.735Z",
+  updatedAt: "2026-09-21T15:12:49.000Z",
 } as const satisfies Module

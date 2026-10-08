@@ -29,4 +29,6 @@ export const referenceBuildData = {
         "The reference build and its baseline are worked out again for each companion catalogue held.",
     },
   ],
+  createdAt: "2026-09-02T08:53:28.922Z",
+  updatedAt: "2026-09-27T09:07:39.000Z",
 } as const satisfies Module

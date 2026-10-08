@@ -6,4 +6,6 @@ export const characterCaptureCodecTypes = {
   slug: "character-capture-codec-types",
   definition: "the shape of everything a character build hash carries",
   code: "ts",
+  createdAt: "2026-09-02T09:20:32.067Z",
+  updatedAt: "2026-09-21T15:13:00.000Z",
 } as const satisfies Module

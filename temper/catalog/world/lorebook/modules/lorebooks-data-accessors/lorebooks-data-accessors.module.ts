@@ -6,4 +6,6 @@ export const lorebooksDataAccessors = {
   slug: "lorebooks-data-accessors",
   definition: "reading a lore book's record out of the shipped tables and out of the game",
   code: "ts",
+  createdAt: "2026-09-02T10:05:33.120Z",
+  updatedAt: "2026-09-21T15:34:26.000Z",
 } as const satisfies Module

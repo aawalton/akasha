@@ -6,4 +6,6 @@ export const lorebooksReports = {
   slug: "lorebooks-reports",
   definition: "the missing-book report window and the text a player can copy out of it",
   code: "ts",
+  createdAt: "2026-09-02T10:05:33.126Z",
+  updatedAt: "2026-09-21T15:34:26.000Z",
 } as const satisfies Module

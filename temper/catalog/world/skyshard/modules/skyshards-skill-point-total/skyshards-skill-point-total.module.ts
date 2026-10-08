@@ -6,4 +6,6 @@ export const skyshardsSkillPointTotal = {
   slug: "skyshards-skill-point-total",
   definition: "whether the game client can say the total number of skill points",
   code: "ts",
+  createdAt: "2026-09-11T15:06:03.247Z",
+  updatedAt: "2026-09-21T15:28:00.000Z",
 } as const satisfies Module

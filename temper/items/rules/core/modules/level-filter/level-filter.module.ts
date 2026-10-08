@@ -24,4 +24,6 @@ export const levelFilter = {
       statement: "An option names the phrase key spelling it, and the card fills `{level}`.",
     },
   ],
+  createdAt: "2026-09-02T07:23:20.434Z",
+  updatedAt: "2026-09-27T11:06:35.000Z",
 } as const satisfies Module

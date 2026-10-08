@@ -12,4 +12,6 @@ export const armorTypes = {
       statement: "The armor types, their armor share and glyph share are read from their pages.",
     },
   ],
+  createdAt: "2026-09-02T06:04:28.741Z",
+  updatedAt: "2026-09-27T05:21:39.000Z",
 } as const satisfies Module

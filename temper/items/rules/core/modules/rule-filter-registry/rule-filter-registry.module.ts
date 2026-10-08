@@ -20,4 +20,6 @@ export const ruleFilterRegistry = {
       statement: "Each filter names the condition field whose page gives the filter's shown name.",
     },
   ],
+  createdAt: "2026-09-02T14:12:33.894Z",
+  updatedAt: "2026-09-27T10:01:02.000Z",
 } as const satisfies Module

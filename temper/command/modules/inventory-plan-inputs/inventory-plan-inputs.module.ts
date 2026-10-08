@@ -52,4 +52,6 @@ export const inventoryPlanInputs = {
       statement: "An account with no stored holdings reading is refused rather than read as empty.",
     },
   ],
+  createdAt: "2026-09-03T20:07:25.553Z",
+  updatedAt: "2026-09-25T14:49:49.000Z",
 } as const satisfies Module

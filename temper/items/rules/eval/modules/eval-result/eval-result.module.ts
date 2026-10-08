@@ -32,4 +32,6 @@ export const evalResult = {
         "An item no rule matches gets an implicit terminal outcome with the action nothing.",
     },
   ],
+  createdAt: "2026-09-02T08:24:13.420Z",
+  updatedAt: "2026-09-22T10:14:32.000Z",
 } as const satisfies Module

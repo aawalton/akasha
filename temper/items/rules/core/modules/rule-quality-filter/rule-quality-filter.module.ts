@@ -20,4 +20,6 @@ export const ruleQualityFilter = {
       statement: "The qualities offered are the graded quality pages, in hash-place order.",
     },
   ],
+  createdAt: "2026-09-02T07:23:20.444Z",
+  updatedAt: "2026-09-27T10:07:00.000Z",
 } as const satisfies Module

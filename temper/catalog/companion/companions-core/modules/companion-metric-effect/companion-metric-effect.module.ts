@@ -12,4 +12,6 @@ export const companionMetricEffect = {
       statement: "An effect names one metric and the way that effect's value is read.",
     },
   ],
+  createdAt: "2026-09-02T07:31:51.274Z",
+  updatedAt: "2026-09-22T10:15:33.000Z",
 } as const satisfies Module

@@ -6,4 +6,6 @@ export const lorebooksReportState = {
   slug: "lorebooks-report-state",
   definition: "what the missing-book report is showing right now",
   code: "ts",
+  createdAt: "2026-09-02T10:05:33.126Z",
+  updatedAt: "2026-09-21T15:34:26.000Z",
 } as const satisfies Module

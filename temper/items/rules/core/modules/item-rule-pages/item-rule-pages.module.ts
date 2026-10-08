@@ -51,4 +51,6 @@ export const itemRulePages = {
       statement: "A rule page no rule wants any longer is taken away.",
     },
   ],
+  createdAt: "2026-09-25T13:37:07.347Z",
+  updatedAt: "2026-09-27T14:00:26.000Z",
 } as const satisfies Module

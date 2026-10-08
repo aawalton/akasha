@@ -21,4 +21,6 @@ export const characterCaptureClassMap = {
       statement: "A game id no class page states takes the no-class page's place.",
     },
   ],
+  createdAt: "2026-09-02T09:20:31.173Z",
+  updatedAt: "2026-09-27T02:02:13.000Z",
 } as const satisfies Module

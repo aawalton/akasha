@@ -12,4 +12,6 @@ export const companionEffectFormatters = {
       statement: "A name it gives is read from a page; the web words the rest.",
     },
   ],
+  createdAt: "2026-09-02T07:41:17.666Z",
+  updatedAt: "2026-09-27T12:26:04.000Z",
 } as const satisfies Module

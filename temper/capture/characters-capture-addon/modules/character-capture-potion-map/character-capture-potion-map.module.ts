@@ -29,4 +29,6 @@ export const characterCapturePotionMap = {
       statement: "What each potion restores is compiled in from the potion pages as well.",
     },
   ],
+  createdAt: "2026-09-02T09:20:17.255Z",
+  updatedAt: "2026-09-27T04:09:27.000Z",
 } as const satisfies Module

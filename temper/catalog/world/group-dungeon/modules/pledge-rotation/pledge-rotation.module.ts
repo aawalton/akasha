@@ -20,4 +20,6 @@ export const pledgeRotation = {
       statement: "A giver whose rotation has no dungeon at today's position is refused.",
     },
   ],
+  createdAt: "2026-09-02T03:37:28.037Z",
+  updatedAt: "2026-09-22T13:49:36.000Z",
 } as const satisfies Module

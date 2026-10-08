@@ -27,4 +27,6 @@ export const characterCaptureScribedSkillMap = {
       statement: "The scribed skill pages are compiled in here once, for every reader.",
     },
   ],
+  createdAt: "2026-09-25T01:27:37.652Z",
+  updatedAt: "2026-09-27T01:04:50.000Z",
 } as const satisfies Module

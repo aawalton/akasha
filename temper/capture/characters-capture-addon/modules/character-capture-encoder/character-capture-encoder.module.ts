@@ -6,4 +6,6 @@ export const characterCaptureEncoder = {
   slug: "character-capture-encoder",
   definition: "a captured character build written out as a build hash",
   code: "ts",
+  createdAt: "2026-09-02T09:20:02.733Z",
+  updatedAt: "2026-09-21T15:13:00.000Z",
 } as const satisfies Module

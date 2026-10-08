@@ -21,4 +21,6 @@ export const checkItemIds = {
       statement: "The order of the list is not tested here; a stock rule reads it as priority.",
     },
   ],
+  createdAt: "2026-09-26T17:36:59.277Z",
+  updatedAt: "2026-09-26T17:37:24.000Z",
 } as const satisfies Module

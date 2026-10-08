@@ -28,4 +28,6 @@ export const characterCaptureEquipmentMap = {
       statement: "A game weapon type no weapon type page states takes the no-type page's place.",
     },
   ],
+  createdAt: "2026-09-02T09:20:22.413Z",
+  updatedAt: "2026-09-27T03:05:02.000Z",
 } as const satisfies Module

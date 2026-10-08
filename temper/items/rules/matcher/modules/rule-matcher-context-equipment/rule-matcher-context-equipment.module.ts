@@ -29,4 +29,6 @@ export const ruleMatcherContextEquipment = {
       statement: "A build hash that does not decode yields no wanted gear.",
     },
   ],
+  createdAt: "2026-09-02T14:23:54.928Z",
+  updatedAt: "2026-09-21T15:36:01.000Z",
 } as const satisfies Module

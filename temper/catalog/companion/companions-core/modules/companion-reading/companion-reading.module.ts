@@ -20,4 +20,6 @@ export const companionReading = {
       statement: "Nothing here reads a page, so a browser and a server read companions alike.",
     },
   ],
+  createdAt: "2026-09-26T15:38:41.363Z",
+  updatedAt: "2026-09-26T15:39:03.000Z",
 } as const satisfies Module

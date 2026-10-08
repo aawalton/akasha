@@ -22,4 +22,6 @@ export const locationFilter = {
         "This filter states no label; the rule card names it by its condition field title.",
     },
   ],
+  createdAt: "2026-09-02T07:23:20.434Z",
+  updatedAt: "2026-09-27T11:13:34.000Z",
 } as const satisfies Module

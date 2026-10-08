@@ -34,4 +34,6 @@ export const zoneUpstreamPort = {
       statement: "Each of the two files is named to the caller before the other one is worked out.",
     },
   ],
+  createdAt: "2026-09-03T17:39:47.762Z",
+  updatedAt: "2026-09-21T15:14:51.000Z",
 } as const satisfies Module

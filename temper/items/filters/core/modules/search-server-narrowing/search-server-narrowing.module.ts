@@ -21,4 +21,6 @@ export const searchServerNarrowing = {
       statement: "The open end of a server band is the sentinel 999999.",
     },
   ],
+  createdAt: "2026-09-02T08:27:23.694Z",
+  updatedAt: "2026-09-21T15:36:37.000Z",
 } as const satisfies Module

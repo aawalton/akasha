@@ -24,4 +24,6 @@ export const currencyCatalogCapture = {
       statement: "Nothing here reads how much of a currency the player has.",
     },
   ],
+  createdAt: "2026-09-02T06:50:31.684Z",
+  updatedAt: "2026-09-21T15:12:26.000Z",
 } as const satisfies Module

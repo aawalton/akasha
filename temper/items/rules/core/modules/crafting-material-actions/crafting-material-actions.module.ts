@@ -13,4 +13,6 @@ export const craftingMaterialActions = {
       statement: "A material no rule reaches is left where the material lies.",
     },
   ],
+  createdAt: "2026-09-02T07:23:20.426Z",
+  updatedAt: "2026-09-21T15:44:44.000Z",
 } as const satisfies Module

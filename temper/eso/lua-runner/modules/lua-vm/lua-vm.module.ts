@@ -25,4 +25,6 @@ export const luaVm = {
         "Stubs that fail to load close the subprocess rather than leaving the subprocess half set up.",
     },
   ],
+  createdAt: "2026-09-02T04:20:49.939Z",
+  updatedAt: "2026-09-22T14:05:53.000Z",
 } as const satisfies Module

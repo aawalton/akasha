@@ -6,4 +6,6 @@ export const mapPinsCompassPins = {
   slug: "map-pins-compass-pins",
   definition: "the map pin kinds shown on the compass too",
   code: "ts",
+  createdAt: "2026-09-02T13:57:34.140Z",
+  updatedAt: "2026-09-22T02:18:28.000Z",
 } as const satisfies Module

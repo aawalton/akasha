@@ -20,4 +20,6 @@ export const stackFullnessFilter = {
       statement: "This filter's options are its condition field's value pages.",
     },
   ],
+  createdAt: "2026-09-02T07:23:20.445Z",
+  updatedAt: "2026-09-27T10:46:36.000Z",
 } as const satisfies Module

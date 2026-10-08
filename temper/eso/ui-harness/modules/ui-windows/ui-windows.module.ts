@@ -82,4 +82,6 @@ export const uiWindows = {
         "A window shown only in a zone or a guild is reached through what the player's game answered.",
     },
   ],
+  createdAt: "2026-09-22T18:34:22.283Z",
+  updatedAt: "2026-09-26T13:47:34.000Z",
 } as const satisfies Module

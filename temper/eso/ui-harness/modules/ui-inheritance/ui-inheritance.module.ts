@@ -41,4 +41,6 @@ export const uiInheritance = {
       statement: "The handlers a control writes join those it inherits, and its own win.",
     },
   ],
+  createdAt: "2026-09-24T14:52:32.510Z",
+  updatedAt: "2026-09-24T20:39:55.000Z",
 } as const satisfies Module

@@ -21,4 +21,6 @@ export const recipeCatalog = {
       statement: "A catalog key arrives as text and is coerced to a number.",
     },
   ],
+  createdAt: "2026-09-02T04:07:43.264Z",
+  updatedAt: "2026-09-24T16:46:06.000Z",
 } as const satisfies Module

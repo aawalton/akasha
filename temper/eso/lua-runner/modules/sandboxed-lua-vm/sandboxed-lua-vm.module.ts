@@ -52,4 +52,6 @@ export const sandboxedLuaVm = {
       statement: "Source is handed over as one long literal rather than as an escaped string.",
     },
   ],
+  createdAt: "2026-09-02T04:20:49.939Z",
+  updatedAt: "2026-09-25T13:28:09.000Z",
 } as const satisfies Module

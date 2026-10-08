@@ -6,4 +6,6 @@ export const lorebooksQuestLocation = {
   slug: "lorebooks-quest-location",
   definition: "naming the zone a quest sends the player to",
   code: "ts",
+  createdAt: "2026-09-02T10:05:33.126Z",
+  updatedAt: "2026-09-21T15:34:26.000Z",
 } as const satisfies Module

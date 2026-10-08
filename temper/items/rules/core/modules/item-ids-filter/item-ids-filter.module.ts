@@ -24,4 +24,6 @@ export const itemIdsFilter = {
       statement: "Two rules listing the same ids in another order are told apart.",
     },
   ],
+  createdAt: "2026-09-26T17:40:58.007Z",
+  updatedAt: "2026-09-27T10:07:55.000Z",
 } as const satisfies Module

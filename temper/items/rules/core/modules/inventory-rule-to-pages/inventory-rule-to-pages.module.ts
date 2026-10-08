@@ -77,4 +77,6 @@ export const inventoryRuleToPages = {
         "A rule saying nothing about when the rule changed is dated when the rule is written.",
     },
   ],
+  createdAt: "2026-09-05T17:55:26.662Z",
+  updatedAt: "2026-09-26T19:51:01.000Z",
 } as const satisfies Module

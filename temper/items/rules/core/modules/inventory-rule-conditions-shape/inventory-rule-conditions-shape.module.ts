@@ -21,4 +21,6 @@ export const inventoryRuleConditionsShape = {
       statement: "A field this shape names is refused where its value is the wrong shape.",
     },
   ],
+  createdAt: "2026-09-12T11:56:52.623Z",
+  updatedAt: "2026-09-21T15:44:44.000Z",
 } as const satisfies Module

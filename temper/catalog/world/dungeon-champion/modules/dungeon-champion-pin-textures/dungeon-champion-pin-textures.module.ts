@@ -12,4 +12,6 @@ export const dungeonChampionPinTextures = {
       statement: "The two icon sets are numbered to match the saved pin texture type.",
     },
   ],
+  createdAt: "2026-09-02T07:16:14.159Z",
+  updatedAt: "2026-09-21T15:28:00.000Z",
 } as const satisfies Module

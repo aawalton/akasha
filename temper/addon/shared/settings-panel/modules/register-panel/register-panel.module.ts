@@ -20,4 +20,6 @@ export const registerPanel = {
       statement: "The library's own types are left to the caller to name.",
     },
   ],
+  createdAt: "2026-09-02T04:14:21.239Z",
+  updatedAt: "2026-09-21T22:10:28.000Z",
 } as const satisfies Module

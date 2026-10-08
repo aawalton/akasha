@@ -31,4 +31,6 @@ export const recipeListCatalog = {
       statement: "Nothing here reads a file, so a browser, a server and the addon read it alike.",
     },
   ],
+  createdAt: "2026-09-26T15:45:03.521Z",
+  updatedAt: "2026-09-26T15:45:46.000Z",
 } as const satisfies Module

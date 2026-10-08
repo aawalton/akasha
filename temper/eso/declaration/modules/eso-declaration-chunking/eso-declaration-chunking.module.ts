@@ -45,4 +45,6 @@ export const esoDeclarationChunking = {
       statement: "Nothing here reads a file or measures a body.",
     },
   ],
+  createdAt: "2026-09-22T18:58:19.777Z",
+  updatedAt: "2026-09-22T18:59:33.000Z",
 } as const satisfies Module

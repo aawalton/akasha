@@ -22,4 +22,6 @@ export const neededForTargetCompanionBuildFilter = {
         "A category outside `companion` is offered no Needed for Target Companion Build condition.",
     },
   ],
+  createdAt: "2026-09-02T07:23:20.436Z",
+  updatedAt: "2026-09-27T10:07:00.000Z",
 } as const satisfies Module

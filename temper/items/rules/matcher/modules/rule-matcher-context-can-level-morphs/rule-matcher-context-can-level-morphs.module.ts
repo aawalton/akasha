@@ -12,4 +12,6 @@ export const ruleMatcherContextCanLevelMorphs = {
       statement: "A character whose completion is unreadable can level no morph.",
     },
   ],
+  createdAt: "2026-09-02T14:23:54.928Z",
+  updatedAt: "2026-09-21T15:36:01.000Z",
 } as const satisfies Module

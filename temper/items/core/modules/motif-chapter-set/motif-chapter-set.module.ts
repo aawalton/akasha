@@ -26,4 +26,6 @@ export const motifChapterSet = {
       statement: "The chapters are read off the lore library held, and read again once it changes.",
     },
   ],
+  createdAt: "2026-09-02T06:18:53.861Z",
+  updatedAt: "2026-09-27T10:40:28.000Z",
 } as const satisfies Module

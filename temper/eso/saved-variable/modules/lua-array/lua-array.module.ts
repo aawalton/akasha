@@ -24,4 +24,6 @@ export const luaArray = {
       statement: "A value that is neither a list nor a record reads as an empty list.",
     },
   ],
+  createdAt: "2026-09-02T04:14:21.238Z",
+  updatedAt: "2026-09-21T14:15:52.000Z",
 } as const satisfies Module

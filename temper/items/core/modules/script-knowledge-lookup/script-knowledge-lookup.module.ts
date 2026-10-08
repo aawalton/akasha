@@ -22,4 +22,6 @@ export const scriptKnowledgeLookup = {
       statement: "An add-on hands the script pages it compiled in, as it holds no catalogue.",
     },
   ],
+  createdAt: "2026-09-02T06:55:31.302Z",
+  updatedAt: "2026-09-26T19:13:19.000Z",
 } as const satisfies Module

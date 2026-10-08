@@ -33,4 +33,6 @@ export const mapDataUpstreamPort = {
       statement: "The file written is named to the caller as soon as that file is written.",
     },
   ],
+  createdAt: "2026-09-03T17:05:51.268Z",
+  updatedAt: "2026-09-22T03:36:30.000Z",
 } as const satisfies Module

@@ -12,4 +12,6 @@ export const dungeonChampionLookup = {
       statement: "A map the tables know nothing of answers with nothing.",
     },
   ],
+  createdAt: "2026-09-02T07:16:14.152Z",
+  updatedAt: "2026-09-21T15:28:00.000Z",
 } as const satisfies Module

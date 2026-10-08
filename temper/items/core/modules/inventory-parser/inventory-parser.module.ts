@@ -25,4 +25,6 @@ export const inventoryParser = {
       statement: "An item keeps its enchant only where the capture names both its header and text.",
     },
   ],
+  createdAt: "2026-09-02T06:18:53.858Z",
+  updatedAt: "2026-09-27T05:38:58.000Z",
 } as const satisfies Module

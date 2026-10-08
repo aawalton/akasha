@@ -27,4 +27,6 @@ export const companionCatalogReading = {
     },
   ],
   test: "ts",
+  createdAt: "2026-09-26T16:04:13.520Z",
+  updatedAt: "2026-09-26T17:19:27.000Z",
 } as const satisfies Module

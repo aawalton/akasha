@@ -7,4 +7,6 @@ export const skyshardsUiStrings = {
   definition: "the English text this add-on adds to the game's table of strings",
   code: "ts",
   decisions: [],
+  createdAt: "2026-09-02T10:27:15.181Z",
+  updatedAt: "2026-09-21T15:28:00.000Z",
 } as const satisfies Module

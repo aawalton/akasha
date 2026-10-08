@@ -21,4 +21,6 @@ export const companionFactory = {
       statement: "Every role-derived equipment piece is created at epic quality.",
     },
   ],
+  createdAt: "2026-09-02T08:53:28.904Z",
+  updatedAt: "2026-09-21T15:26:51.000Z",
 } as const satisfies Module

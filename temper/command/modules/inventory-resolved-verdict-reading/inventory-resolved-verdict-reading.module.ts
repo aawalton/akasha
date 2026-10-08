@@ -25,4 +25,6 @@ export const inventoryResolvedVerdictReading = {
       statement: "Nothing here reads the game, so an allocation the game makes is not mirrored.",
     },
   ],
+  createdAt: "2026-09-14T10:16:52.707Z",
+  updatedAt: "2026-09-15T18:38:43.000Z",
 } as const satisfies Module

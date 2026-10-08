@@ -16,4 +16,6 @@ export const esoTraitMap = {
       statement: "A player trait is answered from the held trait map pages, a companion one after.",
     },
   ],
+  createdAt: "2026-09-02T07:39:45.978Z",
+  updatedAt: "2026-09-27T03:41:25.000Z",
 } as const satisfies Module

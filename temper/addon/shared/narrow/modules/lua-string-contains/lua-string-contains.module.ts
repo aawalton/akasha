@@ -12,4 +12,6 @@ export const luaStringContains = {
       statement: "The text looked for is matched as plain text rather than as a Lua pattern.",
     },
   ],
+  createdAt: "2026-09-11T01:32:10.742Z",
+  updatedAt: "2026-09-21T22:10:28.000Z",
 } as const satisfies Module

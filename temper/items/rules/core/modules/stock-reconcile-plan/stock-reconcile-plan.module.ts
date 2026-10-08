@@ -20,4 +20,6 @@ export const stockReconcilePlan = {
       statement: "A plan moving zero items names neither withdrawal nor deposit.",
     },
   ],
+  createdAt: "2026-09-02T06:40:46.797Z",
+  updatedAt: "2026-09-21T15:44:44.000Z",
 } as const satisfies Module

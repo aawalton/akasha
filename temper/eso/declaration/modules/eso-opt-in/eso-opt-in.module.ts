@@ -17,4 +17,6 @@ export const esoOptIn = {
         "A manifest naming no function is refused rather than read as a scope naming no function.",
     },
   ],
+  createdAt: "2026-09-03T17:59:28.300Z",
+  updatedAt: "2026-09-21T14:15:52.000Z",
 } as const satisfies Module

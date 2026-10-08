@@ -22,4 +22,6 @@ export const inventoryParserOwnLink = {
       statement: "A set bonus with no text is dropped, and an item left with none keeps no list.",
     },
   ],
+  createdAt: "2026-09-27T06:00:38.491Z",
+  updatedAt: "2026-09-27T06:01:00.000Z",
 } as const satisfies Module

@@ -6,4 +6,6 @@ export const helpersColor = {
   slug: "helpers-color",
   definition: "a color carried between its packed form and its channels",
   code: "ts",
+  createdAt: "2026-09-02T09:39:58.672Z",
+  updatedAt: "2026-09-22T08:24:26.000Z",
 } as const satisfies Module

@@ -21,4 +21,6 @@ export const companionSupportContributions = {
       statement: "A debuff counts only when the effect targets an enemy.",
     },
   ],
+  createdAt: "2026-09-02T08:53:28.919Z",
+  updatedAt: "2026-09-26T19:06:11.000Z",
 } as const satisfies Module

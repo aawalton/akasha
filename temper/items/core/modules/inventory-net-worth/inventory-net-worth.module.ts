@@ -6,4 +6,6 @@ export const inventoryNetWorth = {
   slug: "inventory-net-worth",
   definition: "what everything an account holds is worth",
   code: "ts",
+  createdAt: "2026-09-02T06:18:53.857Z",
+  updatedAt: "2026-09-21T15:18:52.000Z",
 } as const satisfies Module

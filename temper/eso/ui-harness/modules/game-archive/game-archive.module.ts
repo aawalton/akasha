@@ -80,4 +80,6 @@ export const gameArchive = {
       statement: "Nothing here writes into the game's install.",
     },
   ],
+  createdAt: "2026-09-24T17:51:26.818Z",
+  updatedAt: "2026-09-25T18:20:19.000Z",
 } as const satisfies Module

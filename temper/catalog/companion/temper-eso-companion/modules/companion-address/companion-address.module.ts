@@ -38,4 +38,6 @@ export const companionAddress = {
       statement: "A companion the catalogue does not know takes its id as its title.",
     },
   ],
+  createdAt: "2026-09-24T17:34:12.982Z",
+  updatedAt: "2026-09-24T17:37:09.000Z",
 } as const satisfies Module

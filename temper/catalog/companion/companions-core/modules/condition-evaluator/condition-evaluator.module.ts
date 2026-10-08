@@ -21,4 +21,6 @@ export const conditionEvaluator = {
         "Health-threshold conditions are the only kind contributing to the effective multiplier.",
     },
   ],
+  createdAt: "2026-09-02T08:53:28.921Z",
+  updatedAt: "2026-09-24T23:27:21.000Z",
 } as const satisfies Module

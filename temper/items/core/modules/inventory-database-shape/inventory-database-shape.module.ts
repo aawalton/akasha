@@ -17,4 +17,6 @@ export const inventoryDatabaseShape = {
       statement: "The game holds no zod, so no add-on compiles this module.",
     },
   ],
+  createdAt: "2026-09-24T23:18:07.030Z",
+  updatedAt: "2026-09-24T23:18:23.000Z",
 } as const satisfies Module

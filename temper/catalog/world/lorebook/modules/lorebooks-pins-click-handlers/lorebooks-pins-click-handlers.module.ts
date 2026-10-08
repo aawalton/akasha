@@ -16,4 +16,6 @@ export const lorebooksPinsClickHandlers = {
       statement: "An unread book's pin offers the waypoint and a read book's pin does not.",
     },
   ],
+  createdAt: "2026-09-22T03:09:04.742Z",
+  updatedAt: "2026-09-22T03:11:28.000Z",
 } as const satisfies Module

@@ -21,4 +21,6 @@ export const inventoryRuleControlled = {
       statement: "A saved rule set with an older controlled rule is migrated to the current shape.",
     },
   ],
+  createdAt: "2026-09-02T07:23:20.430Z",
+  updatedAt: "2026-09-21T15:44:44.000Z",
 } as const satisfies Module

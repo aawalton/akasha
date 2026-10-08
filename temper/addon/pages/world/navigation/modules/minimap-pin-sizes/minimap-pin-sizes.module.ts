@@ -6,4 +6,6 @@ export const minimapPinSizes = {
   slug: "minimap-pin-sizes",
   definition: "the size of each pin kind on the minimap",
   code: "ts",
+  createdAt: "2026-09-02T13:57:34.239Z",
+  updatedAt: "2026-09-22T02:18:28.000Z",
 } as const satisfies Module

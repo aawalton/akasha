@@ -16,4 +16,6 @@ export const companions = {
       statement: "Asking for a companion no page answers to is refused rather than answered empty.",
     },
   ],
+  createdAt: "2026-09-02T07:50:47.215Z",
+  updatedAt: "2026-09-26T15:51:57.000Z",
 } as const satisfies Module

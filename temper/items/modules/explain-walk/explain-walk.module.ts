@@ -80,4 +80,6 @@ export const explainWalk = {
       statement: "Nothing here reads a file.",
     },
   ],
+  createdAt: "2026-09-02T03:42:33.100Z",
+  updatedAt: "2026-09-22T10:09:16.000Z",
 } as const satisfies Module

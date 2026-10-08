@@ -12,4 +12,6 @@ export const esoPlayerEquipmentConstantPages = {
       statement: "The pages are read from the held catalogue with the gear, not imported.",
     },
   ],
+  createdAt: "2026-09-25T01:27:00.900Z",
+  updatedAt: "2026-09-27T06:21:05.000Z",
 } as const satisfies Module

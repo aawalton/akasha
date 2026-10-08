@@ -25,4 +25,6 @@ export const checkKnowledge = {
       statement: "The can-unlock condition is the negation of every character knowing the item.",
     },
   ],
+  createdAt: "2026-09-02T08:24:13.413Z",
+  updatedAt: "2026-09-21T15:32:06.000Z",
 } as const satisfies Module

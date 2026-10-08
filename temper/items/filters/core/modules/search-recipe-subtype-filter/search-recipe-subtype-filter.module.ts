@@ -18,4 +18,6 @@ export const searchRecipeSubtypeFilter = {
       statement: "Nothing here narrows the server request.",
     },
   ],
+  createdAt: "2026-09-02T08:27:23.693Z",
+  updatedAt: "2026-09-27T04:08:47.000Z",
 } as const satisfies Module

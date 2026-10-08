@@ -12,4 +12,6 @@ export const dungeonChampionStart = {
       statement: "Settings are brought up before pins are registered.",
     },
   ],
+  createdAt: "2026-09-02T07:16:14.172Z",
+  updatedAt: "2026-09-21T15:28:00.000Z",
 } as const satisfies Module

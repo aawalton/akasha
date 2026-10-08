@@ -6,4 +6,6 @@ export const minimapCore = {
   slug: "minimap-core",
   definition: "the load order of the minimap's core modules",
   code: "ts",
+  createdAt: "2026-09-02T13:57:34.200Z",
+  updatedAt: "2026-09-22T13:49:49.000Z",
 } as const satisfies Module

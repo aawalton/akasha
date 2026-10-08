@@ -12,4 +12,6 @@ export const dungeonChampionDefaults = {
       statement: "A filter is on until a player turns the filter off.",
     },
   ],
+  createdAt: "2026-09-02T07:16:14.143Z",
+  updatedAt: "2026-09-21T15:28:00.000Z",
 } as const satisfies Module

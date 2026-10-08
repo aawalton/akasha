@@ -16,4 +16,6 @@ export const inventoryRuleMatcherTypes = {
       statement: "An item already at the destination is marked rather than dropped.",
     },
   ],
+  createdAt: "2026-09-02T07:23:20.431Z",
+  updatedAt: "2026-09-21T15:44:44.000Z",
 } as const satisfies Module

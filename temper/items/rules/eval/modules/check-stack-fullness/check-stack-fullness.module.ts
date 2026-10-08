@@ -21,4 +21,6 @@ export const checkStackFullness = {
       statement: "The rule chooses between the full form and the partial form of the condition.",
     },
   ],
+  createdAt: "2026-09-02T08:24:13.417Z",
+  updatedAt: "2026-09-21T15:32:06.000Z",
 } as const satisfies Module

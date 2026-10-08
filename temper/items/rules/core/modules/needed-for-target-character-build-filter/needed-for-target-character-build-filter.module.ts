@@ -22,4 +22,6 @@ export const neededForTargetCharacterBuildFilter = {
         "A category outside `equipment` is offered no Needed for Target Character Build condition.",
     },
   ],
+  createdAt: "2026-09-02T07:23:20.436Z",
+  updatedAt: "2026-09-27T10:07:00.000Z",
 } as const satisfies Module

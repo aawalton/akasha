@@ -6,4 +6,6 @@ export const minimapGlobal = {
   slug: "minimap-global",
   definition: "the minimap published under its own name",
   code: "ts",
+  createdAt: "2026-09-02T13:57:34.194Z",
+  updatedAt: "2026-09-22T02:18:28.000Z",
 } as const satisfies Module

@@ -17,4 +17,6 @@ export const inventoryManagementPlanRoute = {
       statement: "An item already where the rule sends that item needs no route.",
     },
   ],
+  createdAt: "2026-09-02T08:51:47.593Z",
+  updatedAt: "2026-09-22T10:07:57.000Z",
 } as const satisfies Module

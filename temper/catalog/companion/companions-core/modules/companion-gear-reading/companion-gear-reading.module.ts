@@ -20,4 +20,6 @@ export const companionGearReading = {
       statement: "A slot's equip type is the number the equip-type page it links states.",
     },
   ],
+  createdAt: "2026-09-26T18:14:27.745Z",
+  updatedAt: "2026-09-27T04:53:38.000Z",
 } as const satisfies Module

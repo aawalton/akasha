@@ -16,4 +16,6 @@ export const dungeonChampionSavedVars = {
       statement: "Reading the settings before the settings are brought up throws.",
     },
   ],
+  createdAt: "2026-09-02T07:16:14.168Z",
+  updatedAt: "2026-09-24T23:34:50.000Z",
 } as const satisfies Module

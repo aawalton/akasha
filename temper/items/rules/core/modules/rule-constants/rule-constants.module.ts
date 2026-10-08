@@ -16,4 +16,6 @@ export const ruleConstants = {
       statement: "A rule may give a threshold as a plain number instead of naming a key.",
     },
   ],
+  createdAt: "2026-09-02T06:40:46.796Z",
+  updatedAt: "2026-09-21T15:44:44.000Z",
 } as const satisfies Module

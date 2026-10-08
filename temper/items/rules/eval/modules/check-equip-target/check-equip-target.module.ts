@@ -25,4 +25,6 @@ export const checkEquipTarget = {
       statement: "Nothing here reports which character wants the equipment.",
     },
   ],
+  createdAt: "2026-09-02T08:24:13.412Z",
+  updatedAt: "2026-09-21T15:32:06.000Z",
 } as const satisfies Module

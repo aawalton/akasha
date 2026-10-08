@@ -6,4 +6,6 @@ export const inventoryGuildBankFilter = {
   slug: "inventory-guild-bank-filter",
   definition: "an inventory with the guild banks the account does not manage set aside",
   code: "ts",
+  createdAt: "2026-09-02T06:40:48.013Z",
+  updatedAt: "2026-09-21T15:18:52.000Z",
 } as const satisfies Module

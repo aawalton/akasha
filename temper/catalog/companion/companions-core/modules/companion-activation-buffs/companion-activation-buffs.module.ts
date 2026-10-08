@@ -12,4 +12,6 @@ export const companionActivationBuffs = {
       statement: "A buff's name is read from its page rather than from a copy in code.",
     },
   ],
+  createdAt: "2026-09-02T07:41:17.665Z",
+  updatedAt: "2026-09-26T16:49:03.000Z",
 } as const satisfies Module

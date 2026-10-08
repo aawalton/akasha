@@ -24,4 +24,6 @@ export const targetQuantityFilter = {
       statement: "A rule whose action is other than `move-to` is offered no Target condition.",
     },
   ],
+  createdAt: "2026-09-02T07:23:20.448Z",
+  updatedAt: "2026-09-27T10:06:36.000Z",
 } as const satisfies Module

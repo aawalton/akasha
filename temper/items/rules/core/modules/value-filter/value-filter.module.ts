@@ -16,4 +16,6 @@ export const valueFilter = {
       statement: "This filter is shown under the `value` condition field page's title.",
     },
   ],
+  createdAt: "2026-09-02T07:23:20.450Z",
+  updatedAt: "2026-09-27T10:07:00.000Z",
 } as const satisfies Module

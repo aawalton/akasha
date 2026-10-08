@@ -17,4 +17,6 @@ export const enchantReading = {
         "A glyph's effects at a quality are asked of the graded effects the gear reading holds.",
     },
   ],
+  createdAt: "2026-09-27T04:03:00.540Z",
+  updatedAt: "2026-09-27T04:03:27.000Z",
 } as const satisfies Module

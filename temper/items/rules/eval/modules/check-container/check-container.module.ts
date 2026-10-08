@@ -27,4 +27,6 @@ export const checkContainer = {
         "Max rewards fails only when one character knows every script and another does not.",
     },
   ],
+  createdAt: "2026-09-02T08:24:13.411Z",
+  updatedAt: "2026-09-21T15:32:06.000Z",
 } as const satisfies Module

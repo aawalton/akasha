@@ -6,4 +6,6 @@ export const minimapTweaksShared = {
   slug: "minimap-tweaks-shared",
   definition: "what the world-map tweaks share",
   code: "ts",
+  createdAt: "2026-09-02T13:57:34.232Z",
+  updatedAt: "2026-09-22T02:18:28.000Z",
 } as const satisfies Module

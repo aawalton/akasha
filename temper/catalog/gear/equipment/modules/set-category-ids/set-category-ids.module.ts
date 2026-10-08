@@ -6,4 +6,6 @@ export const setCategoryIds = {
   slug: "set-category-ids",
   definition: "the sources a gear set comes from, such as a trial, a dungeon or the crafting table",
   code: "ts",
+  createdAt: "2026-09-02T07:05:52.559Z",
+  updatedAt: "2026-09-21T15:28:58.000Z",
 } as const satisfies Module

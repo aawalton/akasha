@@ -20,4 +20,6 @@ export const companionSkillLineQueries = {
       statement: "An armor skill line opens at the piece count its combat mechanic page states.",
     },
   ],
+  createdAt: "2026-09-02T08:53:28.914Z",
+  updatedAt: "2026-09-26T19:51:37.000Z",
 } as const satisfies Module

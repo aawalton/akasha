@@ -30,4 +30,6 @@ export const rotationTypes = {
         "A rotation skill identifier admits the literal light-attack alongside real skill ids.",
     },
   ],
+  createdAt: "2026-09-02T08:53:28.922Z",
+  updatedAt: "2026-09-26T20:46:40.000Z",
 } as const satisfies Module

@@ -6,4 +6,6 @@ export const characterCaptureBuild = {
   slug: "character-capture-build",
   definition: "the build hash and curse of the character playing now",
   code: "ts",
+  createdAt: "2026-09-02T09:20:05.813Z",
+  updatedAt: "2026-09-21T15:13:00.000Z",
 } as const satisfies Module

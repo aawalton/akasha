@@ -37,4 +37,6 @@ export const playerAnswerDescriptor = {
       statement: "The width and the height of the game's interface are kept beside them.",
     },
   ],
+  createdAt: "2026-09-24T22:10:34.922Z",
+  updatedAt: "2026-09-25T01:25:30.000Z",
 } as const satisfies Module

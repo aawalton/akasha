@@ -43,4 +43,6 @@ export const checkClassification = {
         "An environment that cannot say an item's trait leaves the trait check indeterminate.",
     },
   ],
+  createdAt: "2026-09-02T08:24:13.410Z",
+  updatedAt: "2026-09-27T06:04:43.000Z",
 } as const satisfies Module

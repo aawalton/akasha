@@ -22,4 +22,6 @@ export const companionFormulaExtraction = {
         "Component values are worked out from the stats of the build being scored, which the caller hands in.",
     },
   ],
+  createdAt: "2026-09-02T08:53:28.904Z",
+  updatedAt: "2026-09-24T23:37:41.000Z",
 } as const satisfies Module

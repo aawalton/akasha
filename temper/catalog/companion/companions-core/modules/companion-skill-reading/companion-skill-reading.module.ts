@@ -30,4 +30,6 @@ export const companionSkillReading = {
       statement: "An effect's formula names its metric the same way.",
     },
   ],
+  createdAt: "2026-09-22T20:11:45.717Z",
+  updatedAt: "2026-09-24T15:16:43.000Z",
 } as const satisfies Module

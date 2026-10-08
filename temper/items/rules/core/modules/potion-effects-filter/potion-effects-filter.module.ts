@@ -27,4 +27,6 @@ export const potionEffectsFilter = {
       statement: "This filter is shown under the `potionEffects` condition field page's title.",
     },
   ],
+  createdAt: "2026-09-02T07:23:20.438Z",
+  updatedAt: "2026-09-27T10:08:56.000Z",
 } as const satisfies Module

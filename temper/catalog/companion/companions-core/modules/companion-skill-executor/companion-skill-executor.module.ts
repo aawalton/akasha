@@ -22,4 +22,6 @@ export const companionSkillExecutor = {
         "A heals-self-only skill extends the ultimate window only while that window is open.",
     },
   ],
+  createdAt: "2026-09-02T08:53:28.914Z",
+  updatedAt: "2026-09-21T15:26:51.000Z",
 } as const satisfies Module

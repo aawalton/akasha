@@ -6,4 +6,6 @@ export const equipmentSignatureMatcher = {
   slug: "equipment-signature-matcher",
   definition: "whether an item answers an equipment signature",
   code: "ts",
+  createdAt: "2026-09-02T06:18:53.854Z",
+  updatedAt: "2026-09-21T15:18:52.000Z",
 } as const satisfies Module

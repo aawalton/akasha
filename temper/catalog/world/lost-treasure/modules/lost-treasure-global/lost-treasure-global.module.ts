@@ -12,4 +12,6 @@ export const lostTreasureGlobal = {
       statement: "This global is the add-on's own name rather than a name the game owns.",
     },
   ],
+  createdAt: "2026-09-02T08:34:37.701Z",
+  updatedAt: "2026-09-21T15:28:00.000Z",
 } as const satisfies Module

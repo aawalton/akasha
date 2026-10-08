@@ -18,4 +18,6 @@ export const minedDataParse = {
       statement: "A caller learns from the diagnostics whether every row was read.",
     },
   ],
+  createdAt: "2026-09-02T07:56:28.348Z",
+  updatedAt: "2026-09-21T15:14:12.000Z",
 } as const satisfies Module

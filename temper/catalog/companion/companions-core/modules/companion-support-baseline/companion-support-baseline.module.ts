@@ -20,4 +20,6 @@ export const companionSupportBaseline = {
       statement: "A missing health maximum metric is refused, naming that metric.",
     },
   ],
+  createdAt: "2026-09-02T08:53:28.918Z",
+  updatedAt: "2026-09-24T23:24:22.000Z",
 } as const satisfies Module

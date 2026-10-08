@@ -74,4 +74,6 @@ export const engineGlobalsCatalogCapture = {
       statement: "The constants a later version of the game declares replace the ones before.",
     },
   ],
+  createdAt: "2026-09-22T19:33:23.753Z",
+  updatedAt: "2026-09-22T20:12:12.000Z",
 } as const satisfies Module

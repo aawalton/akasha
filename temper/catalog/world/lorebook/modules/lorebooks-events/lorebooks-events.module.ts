@@ -6,4 +6,6 @@ export const lorebooksEvents = {
   slug: "lorebooks-events",
   definition: "what the add-on does when the game says a book was opened, closed or learned",
   code: "ts",
+  createdAt: "2026-09-02T10:05:33.120Z",
+  updatedAt: "2026-09-21T15:34:26.000Z",
 } as const satisfies Module

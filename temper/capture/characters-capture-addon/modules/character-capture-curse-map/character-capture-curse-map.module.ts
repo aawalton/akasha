@@ -12,4 +12,6 @@ export const characterCaptureCurseMap = {
       statement: "A place in this table is the number a saved build hash has.",
     },
   ],
+  createdAt: "2026-09-02T09:20:47.851Z",
+  updatedAt: "2026-09-21T15:13:00.000Z",
 } as const satisfies Module

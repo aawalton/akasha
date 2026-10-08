@@ -6,4 +6,6 @@ export const setPatterns = {
   slug: "set-patterns",
   definition: "the shape naming which gear pieces a set bonus or a set icon answers to",
   code: "ts",
+  createdAt: "2026-09-02T07:05:52.560Z",
+  updatedAt: "2026-09-21T15:28:58.000Z",
 } as const satisfies Module

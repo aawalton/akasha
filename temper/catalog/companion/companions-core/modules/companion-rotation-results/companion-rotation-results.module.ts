@@ -22,4 +22,6 @@ export const companionRotationResults = {
         "A critical hit adds the critical damage stat, whose base comes from its base stat page.",
     },
   ],
+  createdAt: "2026-09-02T08:53:28.911Z",
+  updatedAt: "2026-09-26T19:11:05.000Z",
 } as const satisfies Module

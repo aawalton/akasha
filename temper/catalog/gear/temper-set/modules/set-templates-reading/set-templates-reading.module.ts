@@ -33,4 +33,6 @@ export const setTemplatesReading = {
       statement: "A set category's name and display order are read off its page with its key.",
     },
   ],
+  createdAt: "2026-09-26T14:50:52.341Z",
+  updatedAt: "2026-09-27T04:51:46.000Z",
 } as const satisfies Module

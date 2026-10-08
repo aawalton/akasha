@@ -27,4 +27,6 @@ export const itemCategoryTree = {
       statement: "Every branch's title is held by slug, the branch taking every item included.",
     },
   ],
+  createdAt: "2026-09-27T03:13:24.412Z",
+  updatedAt: "2026-09-27T11:56:54.000Z",
 } as const satisfies Module

@@ -27,4 +27,6 @@ export const inventoryPlanCapabilities = {
       statement: "A plan run holds the venue and item action titles, read from their pages.",
     },
   ],
+  createdAt: "2026-09-03T20:30:04.512Z",
+  updatedAt: "2026-09-27T10:05:14.000Z",
 } as const satisfies Module

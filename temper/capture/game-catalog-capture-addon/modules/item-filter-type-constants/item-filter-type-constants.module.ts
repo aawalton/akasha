@@ -17,4 +17,6 @@ export const itemFilterTypeConstants = {
       statement: "Nothing here turns a number into display text.",
     },
   ],
+  createdAt: "2026-09-02T08:06:07.170Z",
+  updatedAt: "2026-09-22T13:49:49.000Z",
 } as const satisfies Module

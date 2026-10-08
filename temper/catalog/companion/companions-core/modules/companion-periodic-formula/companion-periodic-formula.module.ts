@@ -22,4 +22,6 @@ export const companionPeriodicFormula = {
       statement: "Healing done is applied per tick unless the effect asks for the total.",
     },
   ],
+  createdAt: "2026-09-02T08:53:28.910Z",
+  updatedAt: "2026-09-21T15:26:51.000Z",
 } as const satisfies Module

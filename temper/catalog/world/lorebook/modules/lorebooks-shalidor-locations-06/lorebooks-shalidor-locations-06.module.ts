@@ -17,4 +17,6 @@ export const lorebooksShalidorLocations06 = {
       statement: "This set is written by `lore-book-writing` from the lore book pages.",
     },
   ],
+  createdAt: "2026-09-02T09:44:13.631Z",
+  updatedAt: "2026-09-25T01:23:53.000Z",
 } as const satisfies Module

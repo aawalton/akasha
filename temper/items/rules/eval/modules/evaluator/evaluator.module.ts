@@ -47,4 +47,6 @@ export const evaluator = {
       statement: "A rule's result names the rule the result is of.",
     },
   ],
+  createdAt: "2026-09-02T08:24:13.420Z",
+  updatedAt: "2026-09-22T10:15:37.000Z",
 } as const satisfies Module

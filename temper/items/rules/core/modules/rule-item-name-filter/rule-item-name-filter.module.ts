@@ -16,4 +16,6 @@ export const ruleItemNameFilter = {
       statement: "This filter is shown under its condition field page's title.",
     },
   ],
+  createdAt: "2026-09-02T07:23:20.443Z",
+  updatedAt: "2026-09-27T10:06:36.000Z",
 } as const satisfies Module

@@ -21,4 +21,6 @@ export const searchTreasureMapFilter = {
       statement: "Nothing here narrows the server request.",
     },
   ],
+  createdAt: "2026-09-02T08:27:23.698Z",
+  updatedAt: "2026-09-21T15:36:37.000Z",
 } as const satisfies Module

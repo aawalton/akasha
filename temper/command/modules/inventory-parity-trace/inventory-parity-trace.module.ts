@@ -25,4 +25,6 @@ export const inventoryParityTrace = {
       statement: "The account the trace sits under is found by walking.",
     },
   ],
+  createdAt: "2026-09-03T20:07:25.551Z",
+  updatedAt: "2026-09-15T18:38:43.000Z",
 } as const satisfies Module

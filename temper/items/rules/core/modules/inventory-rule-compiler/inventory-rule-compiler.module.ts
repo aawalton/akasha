@@ -29,4 +29,6 @@ export const inventoryRuleCompiler = {
       statement: "A compiled rule's place in the list is the order the rules are tried in.",
     },
   ],
+  createdAt: "2026-09-02T07:23:20.429Z",
+  updatedAt: "2026-09-27T14:32:48.000Z",
 } as const satisfies Module

@@ -6,4 +6,6 @@ export const mapPinsInventoryScan = {
   slug: "map-pins-inventory-scan",
   definition: "the bags read for the items that mark a pin as done",
   code: "ts",
+  createdAt: "2026-09-02T13:57:34.150Z",
+  updatedAt: "2026-09-22T02:18:28.000Z",
 } as const satisfies Module

@@ -25,4 +25,6 @@ export const errorsTriageGather = {
       statement: "An error the game attributed reads only the attributed addon's build id.",
     },
   ],
+  createdAt: "2026-09-02T06:27:44.850Z",
+  updatedAt: "2026-09-21T15:14:12.000Z",
 } as const satisfies Module

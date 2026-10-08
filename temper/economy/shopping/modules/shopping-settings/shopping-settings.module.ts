@@ -16,4 +16,6 @@ export const shoppingSettings = {
       statement: "The value against a key is the second the shopper marked the item.",
     },
   ],
+  createdAt: "2026-09-02T06:30:19.057Z",
+  updatedAt: "2026-09-21T15:10:37.000Z",
 } as const satisfies Module

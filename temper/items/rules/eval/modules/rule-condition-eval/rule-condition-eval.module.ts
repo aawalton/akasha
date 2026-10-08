@@ -26,4 +26,6 @@ export const ruleConditionEval = {
       statement: "Every checker receives the whole compiled rule rather than one condition field.",
     },
   ],
+  createdAt: "2026-09-02T08:24:13.421Z",
+  updatedAt: "2026-09-22T10:06:15.000Z",
 } as const satisfies Module

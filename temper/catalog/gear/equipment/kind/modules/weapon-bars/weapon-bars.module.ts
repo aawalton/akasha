@@ -16,4 +16,6 @@ export const weaponBars = {
       statement: "The bars, their names and their order are read from the weapon bar pages.",
     },
   ],
+  createdAt: "2026-09-02T06:04:28.742Z",
+  updatedAt: "2026-09-27T07:31:38.000Z",
 } as const satisfies Module

@@ -41,4 +41,6 @@ export const bundleMemberSavedVars = {
       statement: "Nothing here says what a migration did.",
     },
   ],
+  createdAt: "2026-09-02T04:48:22.205Z",
+  updatedAt: "2026-09-22T10:16:12.000Z",
 } as const satisfies Module

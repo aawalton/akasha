@@ -34,4 +34,6 @@ export const engineConstantsReading = {
         "Every name is sorted here, so what the reading writes turns only where the game did.",
     },
   ],
+  createdAt: "2026-09-22T20:21:48.762Z",
+  updatedAt: "2026-09-22T20:22:32.000Z",
 } as const satisfies Module

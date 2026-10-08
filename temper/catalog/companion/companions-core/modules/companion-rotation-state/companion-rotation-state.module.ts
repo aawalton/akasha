@@ -22,4 +22,6 @@ export const companionRotationState = {
         "Ground-targeted healing counts fully toward self healing and toward ally healing.",
     },
   ],
+  createdAt: "2026-09-02T08:53:28.912Z",
+  updatedAt: "2026-09-27T09:07:12.000Z",
 } as const satisfies Module

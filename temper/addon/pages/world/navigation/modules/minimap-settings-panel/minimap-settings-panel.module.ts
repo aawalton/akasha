@@ -6,4 +6,6 @@ export const minimapSettingsPanel = {
   slug: "minimap-settings-panel",
   definition: "the minimap settings menu put together and shown",
   code: "ts",
+  createdAt: "2026-09-02T13:57:34.246Z",
+  updatedAt: "2026-09-22T02:18:28.000Z",
 } as const satisfies Module

@@ -18,4 +18,6 @@ export const esoChatterNames = {
       statement: "The module rendered here carries no prose.",
     },
   ],
+  createdAt: "2026-09-04T00:26:37.506Z",
+  updatedAt: "2026-09-15T18:38:43.000Z",
 } as const satisfies Module

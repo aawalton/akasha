@@ -24,4 +24,6 @@ export const searchQualityFilter = {
       statement: "An option's value is the quality's game number and its label the game's name.",
     },
   ],
+  createdAt: "2026-09-02T08:27:23.691Z",
+  updatedAt: "2026-09-27T04:12:35.000Z",
 } as const satisfies Module

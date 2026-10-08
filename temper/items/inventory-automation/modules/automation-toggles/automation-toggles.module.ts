@@ -46,4 +46,6 @@ export const automationToggles = {
       statement: "A refusal lists the toggle names in the order the toggle names are written.",
     },
   ],
+  createdAt: "2026-09-02T03:45:24.899Z",
+  updatedAt: "2026-09-21T15:18:52.000Z",
 } as const satisfies Module

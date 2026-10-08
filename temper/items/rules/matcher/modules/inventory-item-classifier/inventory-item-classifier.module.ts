@@ -12,4 +12,6 @@ export const inventoryItemClassifier = {
       statement: "An item falls under every node the item's own type and traits reach.",
     },
   ],
+  createdAt: "2026-09-02T08:51:47.595Z",
+  updatedAt: "2026-09-22T10:14:32.000Z",
 } as const satisfies Module

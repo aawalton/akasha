@@ -32,4 +32,6 @@ export const uncollectedFilter = {
       statement: "A rule carrying this condition may carry a market value condition beside it.",
     },
   ],
+  createdAt: "2026-10-08T14:32:35.755Z",
+  updatedAt: "2026-10-08T14:35:47.000Z",
 } as const satisfies Module

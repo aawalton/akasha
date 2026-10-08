@@ -20,4 +20,6 @@ export const searchEquipSlotFilter = {
       statement: "An item with no equip type fails a non-empty selection.",
     },
   ],
+  createdAt: "2026-09-02T08:27:23.687Z",
+  updatedAt: "2026-09-27T04:07:42.000Z",
 } as const satisfies Module

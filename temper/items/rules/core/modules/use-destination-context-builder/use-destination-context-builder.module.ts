@@ -17,4 +17,6 @@ export const useDestinationContextBuilder = {
       statement: "A master motif is known only where every chapter of the style is known.",
     },
   ],
+  createdAt: "2026-09-02T07:23:20.449Z",
+  updatedAt: "2026-09-21T15:44:44.000Z",
 } as const satisfies Module

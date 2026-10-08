@@ -12,4 +12,6 @@ export const inventorySafetyTypes = {
       statement: "Each action names the page type whose page titles it: item action or buy action.",
     },
   ],
+  createdAt: "2026-09-02T06:18:53.859Z",
+  updatedAt: "2026-09-27T10:35:57.000Z",
 } as const satisfies Module

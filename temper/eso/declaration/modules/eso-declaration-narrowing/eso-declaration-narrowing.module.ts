@@ -50,4 +50,6 @@ export const esoDeclarationNarrowing = {
         "The library files read are the ones carrying the globals a declaration could hit.",
     },
   ],
+  createdAt: "2026-09-22T19:00:37.242Z",
+  updatedAt: "2026-09-22T19:05:50.000Z",
 } as const satisfies Module

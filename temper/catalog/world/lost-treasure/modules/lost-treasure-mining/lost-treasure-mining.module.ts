@@ -12,4 +12,6 @@ export const lostTreasureMining = {
       statement: "How long gathering runs is measured by the game's clock rather than by a Date.",
     },
   ],
+  createdAt: "2026-09-02T08:34:37.704Z",
+  updatedAt: "2026-09-21T15:28:00.000Z",
 } as const satisfies Module

@@ -6,4 +6,6 @@ export const itemCategoryTreeTypes = {
   slug: "item-category-tree-types",
   definition: "the tree classifying an item",
   code: "ts",
+  createdAt: "2026-09-02T06:18:53.860Z",
+  updatedAt: "2026-09-22T13:53:26.000Z",
 } as const satisfies Module

@@ -6,4 +6,6 @@ export const companionSkillEffectComponents = {
   slug: "companion-skill-effect-components",
   definition: "every component of a companion skill effect",
   code: "ts",
+  createdAt: "2026-09-02T07:41:17.668Z",
+  updatedAt: "2026-09-22T13:57:49.000Z",
 } as const satisfies Module

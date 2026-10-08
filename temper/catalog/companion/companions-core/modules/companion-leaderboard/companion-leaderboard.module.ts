@@ -25,4 +25,6 @@ export const companionLeaderboard = {
       statement: "Nothing here names a role combination in words; the web does.",
     },
   ],
+  createdAt: "2026-09-02T08:53:28.906Z",
+  updatedAt: "2026-09-27T12:30:10.000Z",
 } as const satisfies Module

@@ -12,4 +12,6 @@ export const companionSkillQueries = {
       statement: "A skill stating no companion is a skill every companion can slot.",
     },
   ],
+  createdAt: "2026-09-22T20:18:50.565Z",
+  updatedAt: "2026-09-22T20:31:45.000Z",
 } as const satisfies Module

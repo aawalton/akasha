@@ -12,4 +12,6 @@ export const lorebooksShalidorLocations = {
       statement: "The sets are gathered in the order the whole table names.",
     },
   ],
+  createdAt: "2026-09-02T09:47:31.580Z",
+  updatedAt: "2026-09-22T14:23:56.000Z",
 } as const satisfies Module

@@ -20,4 +20,6 @@ export const ttcListingSchema = {
       statement: "A garbled page count is read as the first page.",
     },
   ],
+  createdAt: "2026-09-02T05:33:44.734Z",
+  updatedAt: "2026-09-21T15:12:49.000Z",
 } as const satisfies Module

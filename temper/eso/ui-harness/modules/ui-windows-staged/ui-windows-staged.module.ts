@@ -28,4 +28,6 @@ export const uiWindowsStaged = {
       statement: "The capture holds no icon for Power Lash, so the prompt shows Flame Lash's.",
     },
   ],
+  createdAt: "2026-09-25T19:46:47.387Z",
+  updatedAt: "2026-09-25T20:04:59.000Z",
 } as const satisfies Module

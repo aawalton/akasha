@@ -22,4 +22,6 @@ export const companionStatsCalculatorImpl = {
         "A rotation metric takes its value from the rotation rather than from its formula.",
     },
   ],
+  createdAt: "2026-09-02T08:53:28.917Z",
+  updatedAt: "2026-09-24T23:24:54.000Z",
 } as const satisfies Module

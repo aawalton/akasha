@@ -6,4 +6,6 @@ export const skillBuffDebuffTypes = {
   slug: "skill-buff-debuff-types",
   definition: "the buffs and the debuffs a skill activation puts on, and the shape each carries",
   code: "ts",
+  createdAt: "2026-09-02T06:43:26.012Z",
+  updatedAt: "2026-09-21T15:19:33.000Z",
 } as const satisfies Module

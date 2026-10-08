@@ -84,4 +84,6 @@ export const inventoryRuleFromPages = {
         "No two rules of one account share a display order, since `inventory-rule-to-pages` refuses a tie.",
     },
   ],
+  createdAt: "2026-09-05T17:47:44.152Z",
+  updatedAt: "2026-09-25T13:04:51.000Z",
 } as const satisfies Module

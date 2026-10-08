@@ -13,4 +13,6 @@ export const requireSavedVariables = {
         "A read before the session opens the table is a refusal rather than an empty table.",
     },
   ],
+  createdAt: "2026-09-11T01:25:31.631Z",
+  updatedAt: "2026-09-21T22:10:28.000Z",
 } as const satisfies Module

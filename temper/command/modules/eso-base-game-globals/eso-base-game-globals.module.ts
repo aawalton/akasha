@@ -6,4 +6,6 @@ export const esoBaseGameGlobals = {
   slug: "eso-base-game-globals",
   definition: "the global and string-id names a base-game Lua source declares",
   code: "ts",
+  createdAt: "2026-09-04T00:26:37.505Z",
+  updatedAt: "2026-09-15T18:38:43.000Z",
 } as const satisfies Module

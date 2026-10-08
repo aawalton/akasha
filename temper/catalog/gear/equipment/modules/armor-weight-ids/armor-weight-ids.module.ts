@@ -17,4 +17,6 @@ export const armorWeightIds = {
       statement: "The names are the weight pages' slugs, as the gear kind ids table holds them.",
     },
   ],
+  createdAt: "2026-09-02T07:05:52.556Z",
+  updatedAt: "2026-09-27T02:49:23.000Z",
 } as const satisfies Module

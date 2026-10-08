@@ -6,4 +6,6 @@ export const skyshardsPcTooltip = {
   slug: "skyshards-pc-tooltip",
   definition: "the text the computer map shows when the cursor rests on a skyshard",
   code: "ts",
+  createdAt: "2026-09-02T10:27:15.180Z",
+  updatedAt: "2026-09-21T15:28:00.000Z",
 } as const satisfies Module

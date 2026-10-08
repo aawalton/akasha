@@ -12,4 +12,6 @@ export const inventoryConsolidateDest = {
       statement: "A destination gathering stock is known by the name the destination has.",
     },
   ],
+  createdAt: "2026-09-02T08:51:47.591Z",
+  updatedAt: "2026-09-22T10:19:56.000Z",
 } as const satisfies Module

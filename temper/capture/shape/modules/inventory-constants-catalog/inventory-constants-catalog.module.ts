@@ -6,4 +6,6 @@ export const inventoryConstantsCatalog = {
   slug: "inventory-constants-catalog",
   definition: "the item type, filter, category, equip, weapon and armor numbers the game uses",
   code: "ts",
+  createdAt: "2026-09-02T04:07:43.261Z",
+  updatedAt: "2026-09-21T15:10:19.000Z",
 } as const satisfies Module

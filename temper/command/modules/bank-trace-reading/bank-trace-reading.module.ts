@@ -40,4 +40,6 @@ export const bankTraceReading = {
       statement: "A banker's ring that is nowhere refuses the read, as it always has.",
     },
   ],
+  createdAt: "2026-09-03T17:50:22.763Z",
+  updatedAt: "2026-09-15T18:38:43.000Z",
 } as const satisfies Module

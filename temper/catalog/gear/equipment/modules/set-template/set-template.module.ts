@@ -6,4 +6,6 @@ export const setTemplate = {
   slug: "set-template",
   definition: "the fields every Elder Scrolls Online gear set carries",
   code: "ts",
+  createdAt: "2026-09-02T07:05:52.562Z",
+  updatedAt: "2026-09-21T15:28:58.000Z",
 } as const satisfies Module

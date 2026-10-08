@@ -6,4 +6,6 @@ export const characterCaptureScribing = {
   slug: "character-capture-scribing",
   definition: "the scribed abilities the character has, turned into codec indices",
   code: "ts",
+  createdAt: "2026-09-02T09:20:53.686Z",
+  updatedAt: "2026-09-22T13:28:06.000Z",
 } as const satisfies Module

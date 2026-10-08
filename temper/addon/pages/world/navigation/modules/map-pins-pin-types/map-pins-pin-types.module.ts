@@ -6,4 +6,6 @@ export const mapPinsPinTypes = {
   slug: "map-pins-pin-types",
   definition: "the shapes a map pin tag, definition and callback take",
   code: "ts",
+  createdAt: "2026-09-02T13:57:34.174Z",
+  updatedAt: "2026-09-22T02:18:28.000Z",
 } as const satisfies Module

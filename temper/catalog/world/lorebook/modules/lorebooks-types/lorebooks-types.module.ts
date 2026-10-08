@@ -6,4 +6,6 @@ export const lorebooksTypes = {
   slug: "lorebooks-types",
   definition: "the shapes of the lore book tables and of the add-on's own settings",
   code: "ts",
+  createdAt: "2026-09-02T09:32:38.338Z",
+  updatedAt: "2026-09-21T15:34:26.000Z",
 } as const satisfies Module

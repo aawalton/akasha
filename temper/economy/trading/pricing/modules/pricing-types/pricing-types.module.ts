@@ -20,4 +20,6 @@ export const pricingTypes = {
       statement: "A field name here keeps Tamriel Trade Centre's spelling.",
     },
   ],
+  createdAt: "2026-09-02T05:33:44.733Z",
+  updatedAt: "2026-09-21T15:12:49.000Z",
 } as const satisfies Module

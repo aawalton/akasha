@@ -20,4 +20,6 @@ export const companionSkillTooltip = {
       statement: "The primary targeting is the first effect with a target.",
     },
   ],
+  createdAt: "2026-09-02T08:53:28.916Z",
+  updatedAt: "2026-09-24T23:21:57.000Z",
 } as const satisfies Module

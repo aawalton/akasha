@@ -6,4 +6,6 @@ export const shardInventory = {
   slug: "shard-inventory",
   definition: "an inventory body divided into chunks small enough to write",
   code: "ts",
+  createdAt: "2026-09-02T06:18:53.862Z",
+  updatedAt: "2026-09-21T15:18:52.000Z",
 } as const satisfies Module

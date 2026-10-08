@@ -20,4 +20,6 @@ export const catalogFilePaths = {
       statement: "The request file is looked for in the catalog addon's own folder.",
     },
   ],
+  createdAt: "2026-09-02T06:29:15.596Z",
+  updatedAt: "2026-09-22T13:44:03.000Z",
 } as const satisfies Module

@@ -25,4 +25,6 @@ export const inventoryConstantsCatalogCapture = {
       statement: "Nothing here reads the player's own inventory.",
     },
   ],
+  createdAt: "2026-09-02T08:06:07.159Z",
+  updatedAt: "2026-09-21T15:12:26.000Z",
 } as const satisfies Module

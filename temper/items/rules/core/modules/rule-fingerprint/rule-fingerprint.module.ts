@@ -16,4 +16,6 @@ export const ruleFingerprint = {
       statement: "A filter with no condition on a rule adds nothing to that rule's string.",
     },
   ],
+  createdAt: "2026-09-02T14:12:33.895Z",
+  updatedAt: "2026-09-22T14:00:30.000Z",
 } as const satisfies Module

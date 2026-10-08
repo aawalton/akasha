@@ -20,4 +20,6 @@ export const salesDescriptor = {
       statement: "No load time is kept.",
     },
   ],
+  createdAt: "2026-09-02T05:14:17.395Z",
+  updatedAt: "2026-09-22T13:57:49.000Z",
 } as const satisfies Module

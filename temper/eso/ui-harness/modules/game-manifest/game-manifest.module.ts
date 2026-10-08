@@ -39,4 +39,6 @@ export const gameManifest = {
       statement: "A file the clone does not hold is passed over rather than refusing the list.",
     },
   ],
+  createdAt: "2026-09-24T14:40:20.712Z",
+  updatedAt: "2026-09-24T15:41:46.000Z",
 } as const satisfies Module

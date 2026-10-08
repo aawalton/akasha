@@ -12,4 +12,6 @@ export const companionGearDiff = {
       statement: "An equip type or game quality is read off its companion equipment constant page.",
     },
   ],
+  createdAt: "2026-09-02T14:03:07.141Z",
+  updatedAt: "2026-09-25T01:30:44.000Z",
 } as const satisfies Module

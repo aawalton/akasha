@@ -6,4 +6,6 @@ export const minimapHandlers = {
   slug: "minimap-handlers",
   definition: "the scene and world-map handlers the minimap installs",
   code: "ts",
+  createdAt: "2026-09-02T13:57:34.207Z",
+  updatedAt: "2026-09-22T02:18:28.000Z",
 } as const satisfies Module

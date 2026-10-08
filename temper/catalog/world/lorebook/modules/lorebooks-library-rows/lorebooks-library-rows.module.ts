@@ -6,4 +6,6 @@ export const lorebooksLibraryRows = {
   slug: "lorebooks-library-rows",
   definition: "building a row of the lore library list",
   code: "ts",
+  createdAt: "2026-09-02T10:05:33.122Z",
+  updatedAt: "2026-09-22T10:10:11.000Z",
 } as const satisfies Module

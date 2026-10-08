@@ -12,4 +12,6 @@ export const requiredCurseStateFilterTypes = {
       statement: "Vampirism and lycanthropy are the two curses this condition asks after.",
     },
   ],
+  createdAt: "2026-09-02T06:40:46.795Z",
+  updatedAt: "2026-09-21T15:44:44.000Z",
 } as const satisfies Module

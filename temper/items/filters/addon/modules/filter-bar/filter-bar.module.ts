@@ -28,4 +28,6 @@ export const filterBar = {
       statement: "The panel reanchors each time the inventory scene shows.",
     },
   ],
+  createdAt: "2026-09-02T08:45:26.709Z",
+  updatedAt: "2026-09-21T15:37:03.000Z",
 } as const satisfies Module

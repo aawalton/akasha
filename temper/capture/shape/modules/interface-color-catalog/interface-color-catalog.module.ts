@@ -25,4 +25,6 @@ export const interfaceColorCatalog = {
       statement: "The API version the game answers with is kept beside the colors it gave.",
     },
   ],
+  createdAt: "2026-09-24T15:08:01.016Z",
+  updatedAt: "2026-09-24T15:08:55.000Z",
 } as const satisfies Module

@@ -16,4 +16,6 @@ export const ttcQualityTextClasses = {
       statement: "No class here is named for the lowest quality.",
     },
   ],
+  createdAt: "2026-09-02T06:30:19.057Z",
+  updatedAt: "2026-09-22T14:05:15.000Z",
 } as const satisfies Module

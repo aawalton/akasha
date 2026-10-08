@@ -20,4 +20,6 @@ export const ttcShoppingTypes = {
       statement: "A plan keeps every listing passed over as an alternative.",
     },
   ],
+  createdAt: "2026-09-02T06:30:19.055Z",
+  updatedAt: "2026-09-21T15:10:37.000Z",
 } as const satisfies Module

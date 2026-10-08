@@ -21,4 +21,6 @@ export const completionInputSchema = {
       statement: "A key the reading does not name is kept.",
     },
   ],
+  createdAt: "2026-09-02T06:39:09.518Z",
+  updatedAt: "2026-09-24T23:13:46.000Z",
 } as const satisfies Module

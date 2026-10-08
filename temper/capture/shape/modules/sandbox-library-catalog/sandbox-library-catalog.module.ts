@@ -28,4 +28,6 @@ export const sandboxLibraryCatalog = {
       statement: "The API version the game answers with is kept beside what the game left.",
     },
   ],
+  createdAt: "2026-09-25T13:07:18.310Z",
+  updatedAt: "2026-09-25T13:08:58.000Z",
 } as const satisfies Module

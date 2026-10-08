@@ -20,4 +20,6 @@ export const masterCraftTraceReading = {
       statement: "A run that crafted nothing answers empty rather than absent.",
     },
   ],
+  createdAt: "2026-09-03T17:50:22.763Z",
+  updatedAt: "2026-09-15T18:38:43.000Z",
 } as const satisfies Module

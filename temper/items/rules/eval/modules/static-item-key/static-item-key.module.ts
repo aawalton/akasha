@@ -20,4 +20,6 @@ export const staticItemKey = {
       statement: "No add-on reaches this, since an add-on reads a recipe's result off the game.",
     },
   ],
+  createdAt: "2026-09-26T20:09:24.283Z",
+  updatedAt: "2026-09-26T20:09:40.000Z",
 } as const satisfies Module

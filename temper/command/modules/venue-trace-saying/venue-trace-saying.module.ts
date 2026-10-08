@@ -21,4 +21,6 @@ export const venueTraceSaying = {
       statement: "Nothing here reads a file.",
     },
   ],
+  createdAt: "2026-09-13T14:32:06.124Z",
+  updatedAt: "2026-09-22T10:09:16.000Z",
 } as const satisfies Module

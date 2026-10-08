@@ -20,4 +20,6 @@ export const ruleMatcherContext = {
       statement: "The motifs a character knows are keyed by motif number, read off her lore books.",
     },
   ],
+  createdAt: "2026-09-02T14:23:54.928Z",
+  updatedAt: "2026-09-27T01:35:08.000Z",
 } as const satisfies Module

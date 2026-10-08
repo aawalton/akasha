@@ -96,4 +96,6 @@ export const inventoryEvalEnv = {
         "A stack the capture marks known is known by the character whose own bag holds it.",
     },
   ],
+  createdAt: "2026-09-03T20:07:25.549Z",
+  updatedAt: "2026-09-27T15:07:34.000Z",
 } as const satisfies Module

@@ -33,4 +33,6 @@ export const inventoryRuleSettingsShape = {
       statement: "No item rule or buy rule is read here, since each is a page of its own.",
     },
   ],
+  createdAt: "2026-09-03T20:07:25.546Z",
+  updatedAt: "2026-09-25T13:59:55.000Z",
 } as const satisfies Module

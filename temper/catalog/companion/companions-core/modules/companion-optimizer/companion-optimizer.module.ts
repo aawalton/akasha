@@ -20,4 +20,6 @@ export const companionOptimizer = {
       statement: "A build with no matching role metric evaluates to zero.",
     },
   ],
+  createdAt: "2026-09-02T08:53:28.909Z",
+  updatedAt: "2026-09-22T13:49:49.000Z",
 } as const satisfies Module

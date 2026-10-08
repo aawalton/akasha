@@ -20,4 +20,6 @@ export const inventoryManagementPlanRouteSteps = {
       statement: "The deposit and withdraw notes are plan phrase pages.",
     },
   ],
+  createdAt: "2026-09-02T08:51:47.593Z",
+  updatedAt: "2026-09-27T11:55:45.000Z",
 } as const satisfies Module

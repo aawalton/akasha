@@ -14,4 +14,6 @@ export const companionTraits = {
         "A trait is answered from the held companion catalogue rather than from a table in code.",
     },
   ],
+  createdAt: "2026-09-02T07:31:51.278Z",
+  updatedAt: "2026-09-24T23:45:04.000Z",
 } as const satisfies Module

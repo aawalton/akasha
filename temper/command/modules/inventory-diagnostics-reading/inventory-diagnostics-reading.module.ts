@@ -41,4 +41,6 @@ export const inventoryDiagnosticsReading = {
       statement: "Picking and reading differ in nothing but what an absent diagnostic does.",
     },
   ],
+  createdAt: "2026-09-03T17:50:22.763Z",
+  updatedAt: "2026-09-22T10:18:13.000Z",
 } as const satisfies Module

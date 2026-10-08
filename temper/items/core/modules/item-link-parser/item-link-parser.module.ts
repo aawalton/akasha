@@ -20,4 +20,6 @@ export const itemLinkParser = {
       statement: "A field with no number reads as zero.",
     },
   ],
+  createdAt: "2026-09-02T06:12:35.068Z",
+  updatedAt: "2026-09-21T15:18:52.000Z",
 } as const satisfies Module

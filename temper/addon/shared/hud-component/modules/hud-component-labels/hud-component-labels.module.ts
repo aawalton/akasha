@@ -25,4 +25,6 @@ export const hudComponentLabels = {
       statement: "No label is read from the game.",
     },
   ],
+  createdAt: "2026-09-02T05:43:39.834Z",
+  updatedAt: "2026-09-22T10:19:01.000Z",
 } as const satisfies Module

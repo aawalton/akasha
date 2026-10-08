@@ -38,4 +38,6 @@ export const completionSavedVariablesParser = {
       statement: "Diagnostics come back alongside the records rather than reaching a log.",
     },
   ],
+  createdAt: "2026-09-02T06:39:09.519Z",
+  updatedAt: "2026-09-24T17:57:02.000Z",
 } as const satisfies Module

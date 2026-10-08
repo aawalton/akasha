@@ -6,4 +6,6 @@ export const minimapTweaksPinManagers = {
   slug: "minimap-tweaks-pin-managers",
   definition: "the world map's pin refreshes deferred while the minimap runs",
   code: "ts",
+  createdAt: "2026-09-02T13:57:34.228Z",
+  updatedAt: "2026-09-22T02:18:28.000Z",
 } as const satisfies Module

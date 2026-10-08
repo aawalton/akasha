@@ -31,4 +31,6 @@ export const inventoryRuleSettings = {
       statement: "A change naming a buy price of zero takes the rule's buy price away.",
     },
   ],
+  createdAt: "2026-09-02T07:23:20.431Z",
+  updatedAt: "2026-09-27T14:32:48.000Z",
 } as const satisfies Module

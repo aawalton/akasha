@@ -12,4 +12,6 @@ export const companionMetricIds = {
       statement: "The names are the slugs of the stat pages whose subject is companion.",
     },
   ],
+  createdAt: "2026-09-02T07:31:51.276Z",
+  updatedAt: "2026-09-26T18:43:39.000Z",
 } as const satisfies Module

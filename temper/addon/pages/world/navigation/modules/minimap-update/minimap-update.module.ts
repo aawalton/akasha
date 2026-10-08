@@ -6,4 +6,6 @@ export const minimapUpdate = {
   slug: "minimap-update",
   definition: "the minimap kept following the player each frame",
   code: "ts",
+  createdAt: "2026-09-02T13:57:34.219Z",
+  updatedAt: "2026-09-22T02:18:28.000Z",
 } as const satisfies Module

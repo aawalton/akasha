@@ -6,4 +6,6 @@ export const mapPinsUiStrings = {
   slug: "map-pins-ui-strings",
   definition: "the strings the map pins half shows, by language",
   code: "ts",
+  createdAt: "2026-09-02T13:57:34.184Z",
+  updatedAt: "2026-09-22T02:18:28.000Z",
 } as const satisfies Module

@@ -24,4 +24,6 @@ export const allStockedFilter = {
       statement: "A category outside `consumables` is offered no All Stocked condition.",
     },
   ],
+  createdAt: "2026-09-02T07:23:20.416Z",
+  updatedAt: "2026-09-27T10:49:35.000Z",
 } as const satisfies Module

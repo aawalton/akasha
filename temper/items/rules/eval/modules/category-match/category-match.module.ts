@@ -22,4 +22,6 @@ export const categoryMatch = {
       statement: "Nothing here consults the category tree.",
     },
   ],
+  createdAt: "2026-09-02T08:24:13.410Z",
+  updatedAt: "2026-09-22T10:18:36.000Z",
 } as const satisfies Module

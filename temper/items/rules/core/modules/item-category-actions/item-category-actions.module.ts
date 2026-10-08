@@ -13,4 +13,6 @@ export const itemCategoryActions = {
       statement: "A category no rule reaches is left as that category was.",
     },
   ],
+  createdAt: "2026-09-02T07:23:20.432Z",
+  updatedAt: "2026-09-21T15:44:44.000Z",
 } as const satisfies Module

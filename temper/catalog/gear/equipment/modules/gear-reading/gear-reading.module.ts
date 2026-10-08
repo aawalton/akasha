@@ -17,4 +17,6 @@ export const gearReading = {
       statement: "Nothing here reads a file, so a browser and a server read gear alike.",
     },
   ],
+  createdAt: "2026-09-27T02:18:50.592Z",
+  updatedAt: "2026-09-27T02:19:11.000Z",
 } as const satisfies Module

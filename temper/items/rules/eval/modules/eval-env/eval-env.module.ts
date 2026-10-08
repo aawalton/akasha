@@ -52,4 +52,6 @@ export const evalEnv = {
       statement: "A trait's temper id is asked for by the game's trait number and equip type.",
     },
   ],
+  createdAt: "2026-09-02T08:24:13.419Z",
+  updatedAt: "2026-09-27T03:41:25.000Z",
 } as const satisfies Module

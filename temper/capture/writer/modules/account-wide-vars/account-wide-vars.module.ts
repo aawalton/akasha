@@ -20,4 +20,6 @@ export const accountWideVars = {
       statement: "Every character on the account sees the one table.",
     },
   ],
+  createdAt: "2026-09-02T06:01:33.352Z",
+  updatedAt: "2026-09-21T15:10:19.000Z",
 } as const satisfies Module

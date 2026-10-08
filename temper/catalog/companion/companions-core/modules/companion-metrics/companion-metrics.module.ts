@@ -28,4 +28,6 @@ export const companionMetrics = {
       statement: "No companion build hash has a metric's place in this table.",
     },
   ],
+  createdAt: "2026-09-02T08:53:28.907Z",
+  updatedAt: "2026-09-26T18:53:02.000Z",
 } as const satisfies Module

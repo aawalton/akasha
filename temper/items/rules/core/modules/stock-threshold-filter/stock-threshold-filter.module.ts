@@ -20,4 +20,6 @@ export const stockThresholdFilter = {
       statement: "This filter offers counts alone, and a rule card phrase words each count.",
     },
   ],
+  createdAt: "2026-09-02T07:23:20.447Z",
+  updatedAt: "2026-09-27T10:49:35.000Z",
 } as const satisfies Module

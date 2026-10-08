@@ -29,4 +29,6 @@ export const luaProtocol = {
       statement: "Nothing here runs a process.",
     },
   ],
+  createdAt: "2026-09-02T04:20:49.937Z",
+  updatedAt: "2026-09-22T13:48:32.000Z",
 } as const satisfies Module

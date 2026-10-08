@@ -20,4 +20,6 @@ export const canSellFilter = {
       statement: "A rule whose action is not `sell` or `fence-sell` is not offered this condition.",
     },
   ],
+  createdAt: "2026-09-02T07:23:20.424Z",
+  updatedAt: "2026-09-27T10:06:36.000Z",
 } as const satisfies Module

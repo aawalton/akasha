@@ -48,4 +48,6 @@ export const esoPaths = {
       statement: "Nothing here makes a directory.",
     },
   ],
+  createdAt: "2026-09-02T04:11:16.255Z",
+  updatedAt: "2026-09-24T17:53:07.000Z",
 } as const satisfies Module

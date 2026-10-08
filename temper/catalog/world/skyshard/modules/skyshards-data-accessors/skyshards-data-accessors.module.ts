@@ -6,4 +6,6 @@ export const skyshardsDataAccessors = {
   slug: "skyshards-data-accessors",
   definition: "which achievements name a skyshard, and finding the placement a criterion means",
   code: "ts",
+  createdAt: "2026-09-02T10:27:15.172Z",
+  updatedAt: "2026-09-22T10:05:54.000Z",
 } as const satisfies Module

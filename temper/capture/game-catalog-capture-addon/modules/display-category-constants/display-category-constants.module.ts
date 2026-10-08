@@ -16,4 +16,6 @@ export const displayCategoryConstants = {
       statement: "Nothing here turns a number into display text.",
     },
   ],
+  createdAt: "2026-09-02T08:06:07.144Z",
+  updatedAt: "2026-09-22T14:13:12.000Z",
 } as const satisfies Module

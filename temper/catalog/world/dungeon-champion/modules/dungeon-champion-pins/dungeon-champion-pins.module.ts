@@ -16,4 +16,6 @@ export const dungeonChampionPins = {
       statement: "A champion draws as killed only where the game says the criterion is met.",
     },
   ],
+  createdAt: "2026-09-02T07:16:14.157Z",
+  updatedAt: "2026-09-21T15:28:00.000Z",
 } as const satisfies Module

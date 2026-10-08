@@ -28,4 +28,6 @@ export const companionCatalog = {
         "That refusal is a raise of its own, so a reader catching bad data does not swallow it.",
     },
   ],
+  createdAt: "2026-09-22T20:13:32.244Z",
+  updatedAt: "2026-09-26T15:26:35.000Z",
 } as const satisfies Module

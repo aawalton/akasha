@@ -14,4 +14,6 @@ export const characterCaptureCodec = {
     "CHARACTER_CP_SLOT_INDICES",
     "CHARACTER_DISCIPLINE_INDICES",
   ],
+  createdAt: "2026-09-02T09:20:42.407Z",
+  updatedAt: "2026-09-24T23:36:43.000Z",
 } as const satisfies Module

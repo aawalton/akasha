@@ -21,4 +21,6 @@ export const searchPageOptions = {
       statement: "A page numbered 0, or stating no number or no title, is no option.",
     },
   ],
+  createdAt: "2026-09-27T03:35:26.250Z",
+  updatedAt: "2026-09-27T04:14:21.000Z",
 } as const satisfies Module

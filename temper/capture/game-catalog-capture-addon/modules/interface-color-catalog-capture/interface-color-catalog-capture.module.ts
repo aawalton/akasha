@@ -37,4 +37,6 @@ export const interfaceColorCatalogCapture = {
       statement: "A field the game answers with no color at all is passed over.",
     },
   ],
+  createdAt: "2026-09-24T15:08:07.050Z",
+  updatedAt: "2026-09-24T15:24:36.000Z",
 } as const satisfies Module

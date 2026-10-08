@@ -35,4 +35,6 @@ export const questsAutoQuest = {
       statement: "The game returns a dialogue option as a row of values rather than as a record.",
     },
   ],
+  createdAt: "2026-09-02T18:26:20.060Z",
+  updatedAt: "2026-09-22T13:28:06.000Z",
 } as const satisfies Module

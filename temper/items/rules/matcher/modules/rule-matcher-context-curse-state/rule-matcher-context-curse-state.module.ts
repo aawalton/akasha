@@ -18,4 +18,6 @@ export const ruleMatcherContextCurseState = {
       statement: "A character with neither curse answers as nothing.",
     },
   ],
+  createdAt: "2026-09-02T08:51:47.597Z",
+  updatedAt: "2026-09-21T15:36:01.000Z",
 } as const satisfies Module

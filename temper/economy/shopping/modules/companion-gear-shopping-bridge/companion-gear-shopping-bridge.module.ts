@@ -25,4 +25,6 @@ export const companionGearShoppingBridge = {
       statement: "Armour narrows a search by weight where jewellery and a weapon do not.",
     },
   ],
+  createdAt: "2026-09-02T06:30:19.058Z",
+  updatedAt: "2026-09-24T23:40:35.000Z",
 } as const satisfies Module

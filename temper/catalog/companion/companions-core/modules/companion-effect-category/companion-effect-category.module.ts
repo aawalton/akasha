@@ -16,4 +16,6 @@ export const companionEffectCategory = {
       statement: "Effects are sorted by the display order their category's page states.",
     },
   ],
+  createdAt: "2026-09-02T07:41:17.666Z",
+  updatedAt: "2026-09-26T20:36:44.000Z",
 } as const satisfies Module

@@ -16,4 +16,6 @@ export const characterCaptureSkillPages = {
       statement: "A list is built the first time it is asked for rather than as the add-on loads.",
     },
   ],
+  createdAt: "2026-09-27T01:02:40.840Z",
+  updatedAt: "2026-09-27T01:04:50.000Z",
 } as const satisfies Module

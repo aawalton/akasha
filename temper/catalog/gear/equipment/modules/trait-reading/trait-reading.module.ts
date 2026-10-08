@@ -21,4 +21,6 @@ export const traitReading = {
       statement: "A trait's game number is read from the trait map pages.",
     },
   ],
+  createdAt: "2026-09-27T03:40:49.770Z",
+  updatedAt: "2026-09-27T04:03:27.000Z",
 } as const satisfies Module

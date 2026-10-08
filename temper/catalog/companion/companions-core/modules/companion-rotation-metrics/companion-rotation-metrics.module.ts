@@ -26,4 +26,6 @@ export const companionRotationMetrics = {
       statement: "A missing metric value is refused, naming that metric.",
     },
   ],
+  createdAt: "2026-09-02T08:53:28.911Z",
+  updatedAt: "2026-09-24T23:23:56.000Z",
 } as const satisfies Module

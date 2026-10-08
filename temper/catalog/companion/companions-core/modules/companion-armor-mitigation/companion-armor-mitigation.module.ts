@@ -18,4 +18,6 @@ export const companionArmorMitigation = {
         "A companion armor stat that is not a rating is refused rather than given a divisor.",
     },
   ],
+  createdAt: "2026-09-26T19:06:03.608Z",
+  updatedAt: "2026-09-26T19:06:11.000Z",
 } as const satisfies Module

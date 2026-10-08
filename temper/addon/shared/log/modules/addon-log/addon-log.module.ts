@@ -36,4 +36,6 @@ export const addonLog = {
       statement: "A log viewer loading after that read is not seen.",
     },
   ],
+  createdAt: "2026-09-11T01:48:19.655Z",
+  updatedAt: "2026-09-21T22:10:28.000Z",
 } as const satisfies Module

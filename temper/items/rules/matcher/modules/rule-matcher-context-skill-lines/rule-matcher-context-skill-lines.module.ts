@@ -25,4 +25,6 @@ export const ruleMatcherContextSkillLines = {
       statement: "A skill line the character has not opened answers as nothing.",
     },
   ],
+  createdAt: "2026-09-02T08:51:47.598Z",
+  updatedAt: "2026-09-21T15:36:01.000Z",
 } as const satisfies Module

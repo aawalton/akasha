@@ -33,4 +33,6 @@ export const esoMarkup = {
       statement: "Every reader of the game's markup splits it here.",
     },
   ],
+  createdAt: "2026-09-27T05:27:59.674Z",
+  updatedAt: "2026-09-27T05:28:11.000Z",
 } as const satisfies Module

@@ -16,4 +16,6 @@ export const lorebooksBookData22 = {
       statement: "This set is written by `lore-book-writing` from the lore book pages.",
     },
   ],
+  createdAt: "2026-09-02T09:42:25.640Z",
+  updatedAt: "2026-09-25T01:26:44.000Z",
 } as const satisfies Module

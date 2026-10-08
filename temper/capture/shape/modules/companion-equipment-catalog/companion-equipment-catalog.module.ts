@@ -6,4 +6,6 @@ export const companionEquipmentCatalog = {
   slug: "companion-equipment-catalog",
   definition: "the game's trait, quality, armor and weapon numbers for companion gear",
   code: "ts",
+  createdAt: "2026-09-02T04:07:43.260Z",
+  updatedAt: "2026-09-22T13:49:27.000Z",
 } as const satisfies Module

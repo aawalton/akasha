@@ -6,4 +6,6 @@ export const characterCaptureSetIndex00 = {
   slug: "character-capture-set-index-00",
   definition: "part 00 of each gear set's game id against its place in a build hash",
   code: "ts",
+  createdAt: "2026-09-02T09:19:58.573Z",
+  updatedAt: "2026-09-21T15:13:00.000Z",
 } as const satisfies Module

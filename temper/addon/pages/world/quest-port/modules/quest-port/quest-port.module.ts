@@ -50,4 +50,6 @@ export const questPort = {
       statement: "Every refusal and every port is said in chat.",
     },
   ],
+  createdAt: "2026-10-08T14:55:08.172Z",
+  updatedAt: "2026-10-08T14:55:27.000Z",
 } as const satisfies Module

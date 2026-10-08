@@ -29,4 +29,6 @@ export const luaNumberString = {
       statement: "An exponent is written with a sign and at least two digits.",
     },
   ],
+  createdAt: "2026-09-02T04:20:49.938Z",
+  updatedAt: "2026-09-21T14:15:52.000Z",
 } as const satisfies Module

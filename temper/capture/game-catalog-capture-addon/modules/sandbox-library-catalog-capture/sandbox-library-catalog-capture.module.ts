@@ -32,4 +32,6 @@ export const sandboxLibraryCatalogCapture = {
       statement: "Nothing here writes to the sandbox it reads.",
     },
   ],
+  createdAt: "2026-09-25T13:07:18.310Z",
+  updatedAt: "2026-09-25T13:07:26.000Z",
 } as const satisfies Module

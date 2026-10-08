@@ -29,4 +29,6 @@ export const itemTooltipTypes = {
       statement: "A value the item's own link was not read for keeps the one its bare id gave.",
     },
   ],
+  createdAt: "2026-09-02T06:18:53.860Z",
+  updatedAt: "2026-09-27T06:01:00.000Z",
 } as const satisfies Module

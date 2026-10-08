@@ -21,4 +21,6 @@ export const inventoryRuleCompilerSparse = {
       statement: "A rule naming no destination reaches the character playing now.",
     },
   ],
+  createdAt: "2026-09-02T07:23:20.429Z",
+  updatedAt: "2026-09-21T15:44:44.000Z",
 } as const satisfies Module

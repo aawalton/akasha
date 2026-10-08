@@ -52,4 +52,6 @@ export const treasureUpstreamVerify = {
       statement: "Nothing here writes a ported file.",
     },
   ],
+  createdAt: "2026-09-02T14:25:39.267Z",
+  updatedAt: "2026-09-22T00:30:08.000Z",
 } as const satisfies Module

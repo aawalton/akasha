@@ -33,4 +33,6 @@ export const gearTypeNames = {
       statement: "The names are held with the skill catalogue, and read before then they throw.",
     },
   ],
+  createdAt: "2026-09-27T03:38:56.175Z",
+  updatedAt: "2026-09-27T04:06:41.000Z",
 } as const satisfies Module

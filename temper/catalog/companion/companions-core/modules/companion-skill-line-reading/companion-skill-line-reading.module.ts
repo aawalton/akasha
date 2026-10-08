@@ -16,4 +16,6 @@ export const companionSkillLineReading = {
       statement: "A line no one companion has states no companion.",
     },
   ],
+  createdAt: "2026-09-22T20:10:33.415Z",
+  updatedAt: "2026-09-22T20:11:15.000Z",
 } as const satisfies Module

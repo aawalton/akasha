@@ -7,4 +7,6 @@ export const skyshardsConstants = {
   definition:
     "what the add-on is called, its map pin names, and the kinds of place holding a skyshard",
   code: "ts",
+  createdAt: "2026-09-02T10:27:15.171Z",
+  updatedAt: "2026-09-22T13:57:31.000Z",
 } as const satisfies Module

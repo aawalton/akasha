@@ -17,4 +17,6 @@ export const stockDestinationPlanner = {
       statement: "The surplus cascades down the tiers in the order the chain gives.",
     },
   ],
+  createdAt: "2026-09-02T07:23:20.446Z",
+  updatedAt: "2026-09-21T15:44:44.000Z",
 } as const satisfies Module

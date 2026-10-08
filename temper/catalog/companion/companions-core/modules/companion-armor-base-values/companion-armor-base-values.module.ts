@@ -20,4 +20,6 @@ export const companionArmorBaseValues = {
       statement: "The lookup defaults to legendary quality when no quality is passed.",
     },
   ],
+  createdAt: "2026-09-02T08:53:28.899Z",
+  updatedAt: "2026-09-26T16:46:52.000Z",
 } as const satisfies Module

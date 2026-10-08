@@ -6,4 +6,6 @@ export const skillValueFormulas = {
   slug: "skill-value-formulas",
   definition: "how a skill's number is worked out from the stat the skill scales off",
   code: "ts",
+  createdAt: "2026-09-02T06:43:26.013Z",
+  updatedAt: "2026-09-21T15:19:33.000Z",
 } as const satisfies Module

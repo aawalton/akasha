@@ -6,4 +6,6 @@ export const classCatalog = {
   slug: "class-catalog",
   definition: "what the game states about a player class and which skill lines that class opens",
   code: "ts",
+  createdAt: "2026-09-02T04:07:43.260Z",
+  updatedAt: "2026-09-22T10:08:29.000Z",
 } as const satisfies Module

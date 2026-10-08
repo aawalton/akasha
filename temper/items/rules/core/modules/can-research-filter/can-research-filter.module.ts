@@ -24,4 +24,6 @@ export const canResearchFilter = {
       statement: "A category outside `equipment` is offered no Can Research condition.",
     },
   ],
+  createdAt: "2026-09-02T07:23:20.423Z",
+  updatedAt: "2026-09-27T10:48:37.000Z",
 } as const satisfies Module

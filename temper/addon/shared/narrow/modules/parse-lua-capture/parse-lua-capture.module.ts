@@ -12,4 +12,6 @@ export const parseLuaCapture = {
       statement: "A capture that matched nothing comes back as nil rather than as text.",
     },
   ],
+  createdAt: "2026-09-11T01:19:17.239Z",
+  updatedAt: "2026-09-21T22:10:28.000Z",
 } as const satisfies Module

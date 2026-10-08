@@ -24,4 +24,6 @@ export const searchFilterTypes = {
         "createSearchRequestCollector drops a term number already added for that server field.",
     },
   ],
+  createdAt: "2026-09-02T08:27:23.688Z",
+  updatedAt: "2026-09-21T15:36:37.000Z",
 } as const satisfies Module

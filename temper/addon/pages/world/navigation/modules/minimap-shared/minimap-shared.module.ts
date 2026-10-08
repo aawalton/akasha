@@ -6,4 +6,6 @@ export const minimapShared = {
   slug: "minimap-shared",
   definition: "what the minimap's core modules share: the scene, the pins and the async tasks",
   code: "ts",
+  createdAt: "2026-09-02T13:57:34.221Z",
+  updatedAt: "2026-09-22T02:18:28.000Z",
 } as const satisfies Module

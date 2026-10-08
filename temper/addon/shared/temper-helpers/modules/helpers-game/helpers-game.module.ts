@@ -16,4 +16,6 @@ export const helpersGame = {
       statement: "The game refuses a second registration under a name an event already holds.",
     },
   ],
+  createdAt: "2026-09-02T09:39:58.673Z",
+  updatedAt: "2026-09-27T01:28:07.000Z",
 } as const satisfies Module

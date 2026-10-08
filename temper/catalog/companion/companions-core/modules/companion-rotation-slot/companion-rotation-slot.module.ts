@@ -18,4 +18,6 @@ export const companionRotationSlot = {
         "Slot data is emitted for every id in companionSkillSlots even when the slot has no skill.",
     },
   ],
+  createdAt: "2026-09-02T08:53:28.912Z",
+  updatedAt: "2026-09-24T23:25:28.000Z",
 } as const satisfies Module

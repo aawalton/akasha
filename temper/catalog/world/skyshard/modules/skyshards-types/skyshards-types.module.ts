@@ -6,4 +6,6 @@ export const skyshardsTypes = {
   slug: "skyshards-types",
   definition: "the shape of a skyshard placement, and of the table of zones and maps",
   code: "ts",
+  createdAt: "2026-09-02T10:27:15.181Z",
+  updatedAt: "2026-09-22T13:44:03.000Z",
 } as const satisfies Module

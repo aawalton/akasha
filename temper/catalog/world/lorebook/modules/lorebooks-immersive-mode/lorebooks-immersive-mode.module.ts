@@ -6,4 +6,6 @@ export const lorebooksImmersiveMode = {
   slug: "lorebooks-immersive-mode",
   definition: "the setting that hides pins until the player has earned the zone",
   code: "ts",
+  createdAt: "2026-09-02T10:05:33.120Z",
+  updatedAt: "2026-09-21T15:34:26.000Z",
 } as const satisfies Module

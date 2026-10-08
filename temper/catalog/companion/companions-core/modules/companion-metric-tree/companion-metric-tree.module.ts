@@ -29,4 +29,6 @@ export const companionMetricTree = {
       statement: "A role group's categories list the stat each of the build's roles is scored by.",
     },
   ],
+  createdAt: "2026-09-02T08:53:28.909Z",
+  updatedAt: "2026-09-26T19:12:14.000Z",
 } as const satisfies Module

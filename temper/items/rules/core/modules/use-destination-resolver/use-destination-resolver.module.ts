@@ -58,4 +58,6 @@ export const useDestinationResolver = {
       statement: "Characters tying on known chapters keep the order the character priority gave.",
     },
   ],
+  createdAt: "2026-09-02T06:40:46.798Z",
+  updatedAt: "2026-09-27T01:16:07.000Z",
 } as const satisfies Module

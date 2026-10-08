@@ -93,4 +93,6 @@ export const inventorySettingsAccess = {
       statement: "A blob is written indented.",
     },
   ],
+  createdAt: "2026-09-03T20:07:25.547Z",
+  updatedAt: "2026-09-27T14:00:26.000Z",
 } as const satisfies Module

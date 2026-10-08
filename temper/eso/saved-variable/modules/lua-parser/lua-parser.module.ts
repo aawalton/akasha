@@ -40,4 +40,6 @@ export const luaParser = {
       statement: "A named variable whose value is no table is refused.",
     },
   ],
+  createdAt: "2026-09-02T04:14:21.237Z",
+  updatedAt: "2026-09-22T13:28:06.000Z",
 } as const satisfies Module

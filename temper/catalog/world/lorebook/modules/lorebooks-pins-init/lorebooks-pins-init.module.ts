@@ -6,4 +6,6 @@ export const lorebooksPinsInit = {
   slug: "lorebooks-pins-init",
   definition: "registering every lore book pin kind with the map and the compass",
   code: "ts",
+  createdAt: "2026-09-02T10:05:33.124Z",
+  updatedAt: "2026-09-21T15:34:26.000Z",
 } as const satisfies Module

@@ -29,4 +29,6 @@ export const engineGlobalsCatalog = {
       statement: "The name of the function the constants were listed with is kept beside them.",
     },
   ],
+  createdAt: "2026-09-22T19:33:12.736Z",
+  updatedAt: "2026-09-22T20:12:12.000Z",
 } as const satisfies Module

@@ -6,4 +6,6 @@ export const lostTreasurePins = {
   slug: "lost-treasure-pins",
   definition: "drawing a dig site on the world map and on the compass",
   code: "ts",
+  createdAt: "2026-09-02T08:34:37.703Z",
+  updatedAt: "2026-09-21T15:28:00.000Z",
 } as const satisfies Module

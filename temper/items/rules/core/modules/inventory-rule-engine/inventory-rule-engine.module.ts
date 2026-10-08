@@ -20,4 +20,6 @@ export const inventoryRuleEngine = {
       statement: "A node no rule matches resolves to nothing.",
     },
   ],
+  createdAt: "2026-09-02T07:23:20.430Z",
+  updatedAt: "2026-09-21T15:44:44.000Z",
 } as const satisfies Module

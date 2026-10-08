@@ -21,4 +21,6 @@ export const savedSearch = {
       statement: "Sort field and guild scope ride alongside the filter values in one saved search.",
     },
   ],
+  createdAt: "2026-09-02T08:27:23.684Z",
+  updatedAt: "2026-09-21T15:36:37.000Z",
 } as const satisfies Module

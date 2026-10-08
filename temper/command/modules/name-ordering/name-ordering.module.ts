@@ -21,4 +21,6 @@ export const nameOrdering = {
       statement: "Nothing here drops a name said twice.",
     },
   ],
+  createdAt: "2026-09-07T15:54:17.422Z",
+  updatedAt: "2026-09-22T13:41:05.000Z",
 } as const satisfies Module

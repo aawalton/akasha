@@ -32,4 +32,6 @@ export const buildItemFactsFromInventoryItem = {
       statement: "An item type the resolver does not name is left with no item key.",
     },
   ],
+  createdAt: "2026-09-02T08:24:13.408Z",
+  updatedAt: "2026-09-26T20:09:40.000Z",
 } as const satisfies Module

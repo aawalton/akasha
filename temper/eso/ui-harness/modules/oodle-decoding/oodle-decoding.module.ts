@@ -34,4 +34,6 @@ export const oodleDecoding = {
       statement: "No test here builds the decoder.",
     },
   ],
+  createdAt: "2026-09-24T17:51:42.745Z",
+  updatedAt: "2026-09-24T17:53:07.000Z",
 } as const satisfies Module

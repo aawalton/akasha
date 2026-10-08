@@ -20,4 +20,6 @@ export const panelControlsCreated = {
       statement: "A registration is dropped as what was handed in runs.",
     },
   ],
+  createdAt: "2026-09-11T13:17:41.838Z",
+  updatedAt: "2026-09-21T22:10:28.000Z",
 } as const satisfies Module

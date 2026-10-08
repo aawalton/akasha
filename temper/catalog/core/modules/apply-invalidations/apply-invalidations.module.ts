@@ -26,4 +26,6 @@ export const applyInvalidations = {
       statement: "Applying an invalidation marks the catalog incomplete.",
     },
   ],
+  createdAt: "2026-09-02T04:46:56.630Z",
+  updatedAt: "2026-09-21T15:11:26.000Z",
 } as const satisfies Module

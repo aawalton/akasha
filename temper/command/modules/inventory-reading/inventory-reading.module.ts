@@ -24,4 +24,6 @@ export const inventoryReading = {
       statement: "A page type that goes unread is refused by name.",
     },
   ],
+  createdAt: "2026-09-03T20:07:25.548Z",
+  updatedAt: "2026-09-19T16:14:28.000Z",
 } as const satisfies Module

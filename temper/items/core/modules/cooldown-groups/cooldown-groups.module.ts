@@ -6,4 +6,6 @@ export const cooldownGroups = {
   slug: "cooldown-groups",
   definition: "the timed groups holding an item's reuse",
   code: "ts",
+  createdAt: "2026-09-02T06:18:53.853Z",
+  updatedAt: "2026-09-22T14:00:30.000Z",
 } as const satisfies Module

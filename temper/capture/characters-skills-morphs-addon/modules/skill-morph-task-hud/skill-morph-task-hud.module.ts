@@ -6,4 +6,6 @@ export const skillMorphTaskHud = {
   slug: "skill-morph-task-hud",
   definition: "the morphs a skill morph task suggests, and whether that task is done",
   code: "ts",
+  createdAt: "2026-09-02T16:41:24.114Z",
+  updatedAt: "2026-09-21T15:13:32.000Z",
 } as const satisfies Module

@@ -20,4 +20,6 @@ export const browseListings = {
       statement: "A sort answers with a fresh array rather than reordering the array handed in.",
     },
   ],
+  createdAt: "2026-09-02T05:45:53.138Z",
+  updatedAt: "2026-09-22T14:22:32.000Z",
 } as const satisfies Module

@@ -32,4 +32,6 @@ export const luaSerializer = {
       statement: "Nothing here writes a file.",
     },
   ],
+  createdAt: "2026-09-02T04:14:21.237Z",
+  updatedAt: "2026-09-22T10:11:52.000Z",
 } as const satisfies Module

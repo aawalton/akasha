@@ -7,4 +7,6 @@ export const helpers = {
   definition: "every helper put onto a table this add-on leaves in the game's globals",
   code: "ts",
   decisions: [],
+  createdAt: "2026-09-02T09:39:58.672Z",
+  updatedAt: "2026-09-22T14:23:15.000Z",
 } as const satisfies Module

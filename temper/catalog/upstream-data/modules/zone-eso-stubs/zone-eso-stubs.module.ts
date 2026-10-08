@@ -16,4 +16,6 @@ export const zoneEsoStubs = {
       statement: "A stub's answer is never read as game data.",
     },
   ],
+  createdAt: "2026-09-02T03:44:49.344Z",
+  updatedAt: "2026-09-21T15:14:51.000Z",
 } as const satisfies Module

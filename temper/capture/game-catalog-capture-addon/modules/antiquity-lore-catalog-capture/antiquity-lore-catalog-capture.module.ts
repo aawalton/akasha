@@ -20,4 +20,6 @@ export const antiquityLoreCatalogCapture = {
       statement: "An antiquity with no lore entry is left out.",
     },
   ],
+  createdAt: "2026-09-02T06:50:31.682Z",
+  updatedAt: "2026-09-21T15:12:26.000Z",
 } as const satisfies Module

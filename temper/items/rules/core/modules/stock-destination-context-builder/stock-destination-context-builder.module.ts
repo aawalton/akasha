@@ -6,4 +6,6 @@ export const stockDestinationContextBuilder = {
   slug: "stock-destination-context-builder",
   definition: "the reader of what each character holds, built from the matcher context",
   code: "ts",
+  createdAt: "2026-09-11T04:57:03.544Z",
+  updatedAt: "2026-09-21T15:44:44.000Z",
 } as const satisfies Module

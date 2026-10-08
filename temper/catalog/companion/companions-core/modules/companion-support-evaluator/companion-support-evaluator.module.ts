@@ -20,4 +20,6 @@ export const companionSupportEvaluator = {
       statement: "A stats result without a rotation yields no support metrics.",
     },
   ],
+  createdAt: "2026-09-02T08:53:28.919Z",
+  updatedAt: "2026-09-24T23:24:35.000Z",
 } as const satisfies Module

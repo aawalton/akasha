@@ -22,4 +22,6 @@ export const minimapUiStrings = {
       statement: "Every other key here is a settings string, and is named SI_TEMPER_MINIMAP_.",
     },
   ],
+  createdAt: "2026-09-02T13:57:34.197Z",
+  updatedAt: "2026-09-22T12:23:50.000Z",
 } as const satisfies Module

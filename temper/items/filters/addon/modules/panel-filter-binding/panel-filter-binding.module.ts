@@ -29,4 +29,6 @@ export const panelFilterBinding = {
       statement: "Nothing here draws a control.",
     },
   ],
+  createdAt: "2026-09-02T08:45:26.710Z",
+  updatedAt: "2026-09-21T15:37:03.000Z",
 } as const satisfies Module

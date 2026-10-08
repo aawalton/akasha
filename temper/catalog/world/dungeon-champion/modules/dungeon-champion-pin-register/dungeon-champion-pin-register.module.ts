@@ -12,4 +12,6 @@ export const dungeonChampionPinRegister = {
       statement: "A compass pin shrinks as the compass pin moves away from the center.",
     },
   ],
+  createdAt: "2026-09-02T07:16:14.155Z",
+  updatedAt: "2026-09-22T04:57:47.000Z",
 } as const satisfies Module

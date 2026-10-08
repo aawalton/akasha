@@ -22,4 +22,6 @@ export const canListAtGuildTraderFilter = {
         "A rule whose action is other than `list` is offered no Can List at Guild Trader condition.",
     },
   ],
+  createdAt: "2026-09-02T07:23:20.423Z",
+  updatedAt: "2026-09-27T10:06:36.000Z",
 } as const satisfies Module

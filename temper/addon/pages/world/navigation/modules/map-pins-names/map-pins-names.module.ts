@@ -6,4 +6,6 @@ export const mapPinsNames = {
   slug: "map-pins-names",
   definition: "what the map pins half calls itself, where its textures are and where it saves",
   code: "ts",
+  createdAt: "2026-09-02T13:57:34.141Z",
+  updatedAt: "2026-09-22T02:18:28.000Z",
 } as const satisfies Module

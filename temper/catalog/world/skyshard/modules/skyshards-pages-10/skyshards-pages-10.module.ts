@@ -14,4 +14,6 @@ export const skyshardsPages10 = {
         "These pages are one unbroken run of the order the whole set of skyshard pages has.",
     },
   ],
+  createdAt: "2026-09-25T00:18:51.738Z",
+  updatedAt: "2026-09-25T00:18:55.000Z",
 } as const satisfies Module

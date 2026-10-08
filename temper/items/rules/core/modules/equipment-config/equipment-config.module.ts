@@ -13,4 +13,6 @@ export const equipmentConfig = {
       statement: "A setting the rules do not decide falls back on the saved settings.",
     },
   ],
+  createdAt: "2026-09-02T07:23:20.427Z",
+  updatedAt: "2026-09-21T15:44:44.000Z",
 } as const satisfies Module

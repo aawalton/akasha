@@ -6,4 +6,6 @@ export const minimapFocusZoom = {
   slug: "minimap-focus-zoom",
   definition: "where the minimap centers and how far it zooms when the map focuses a point",
   code: "ts",
+  createdAt: "2026-09-21T17:25:09.575Z",
+  updatedAt: "2026-09-22T02:18:28.000Z",
 } as const satisfies Module

@@ -25,4 +25,6 @@ export const ruleSetWrites = {
       statement: "A set saying nothing of item rules leaves those pages alone.",
     },
   ],
+  createdAt: "2026-09-25T13:49:58.789Z",
+  updatedAt: "2026-09-27T14:00:26.000Z",
 } as const satisfies Module

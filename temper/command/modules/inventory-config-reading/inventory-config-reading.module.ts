@@ -55,4 +55,6 @@ export const inventoryConfigReading = {
       statement: "The compiled config carries no name for the item an item rule names.",
     },
   ],
+  createdAt: "2026-09-03T20:07:25.544Z",
+  updatedAt: "2026-09-15T18:38:43.000Z",
 } as const satisfies Module

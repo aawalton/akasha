@@ -12,4 +12,6 @@ export const mapPinsFishingNodes = {
       statement: "The table is the sets joined in order.",
     },
   ],
+  createdAt: "2026-09-02T13:57:34.535Z",
+  updatedAt: "2026-09-22T14:15:16.000Z",
 } as const satisfies Module

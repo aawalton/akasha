@@ -7,4 +7,6 @@ export const minimapTweaksRefreshPins = {
   definition:
     "the world map's point-of-interest, wayshrine and location refreshes done a little at a time",
   code: "ts",
+  createdAt: "2026-09-02T13:57:34.231Z",
+  updatedAt: "2026-09-22T02:18:28.000Z",
 } as const satisfies Module

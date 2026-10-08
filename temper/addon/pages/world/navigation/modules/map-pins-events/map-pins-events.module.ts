@@ -6,4 +6,6 @@ export const mapPinsEvents = {
   slug: "map-pins-events",
   definition: "the game events the map pins half listens to",
   code: "ts",
+  createdAt: "2026-09-02T13:57:34.176Z",
+  updatedAt: "2026-09-22T02:18:28.000Z",
 } as const satisfies Module

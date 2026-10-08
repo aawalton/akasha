@@ -17,4 +17,6 @@ export const characterCaptureChampionPointMap = {
         "The places are compiled in from the champion star pages; an empty place has none.",
     },
   ],
+  createdAt: "2026-09-02T09:20:06.595Z",
+  updatedAt: "2026-09-27T05:03:13.000Z",
 } as const satisfies Module

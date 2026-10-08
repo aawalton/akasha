@@ -57,4 +57,6 @@ export const inventoryRuleWrites = {
       statement: "A write merges onto the page.",
     },
   ],
+  createdAt: "2026-09-05T18:38:25.028Z",
+  updatedAt: "2026-09-25T13:00:28.000Z",
 } as const satisfies Module

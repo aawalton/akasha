@@ -56,4 +56,6 @@ export const potionRestoreResolve = {
       statement: "No bitwise arithmetic runs here.",
     },
   ],
+  createdAt: "2026-09-02T06:40:46.795Z",
+  updatedAt: "2026-09-27T04:09:27.000Z",
 } as const satisfies Module

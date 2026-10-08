@@ -20,4 +20,6 @@ export const playerAskingShapes = {
       statement: "The capture and the reading of the documentation name each shape from here.",
     },
   ],
+  createdAt: "2026-09-24T22:04:16.652Z",
+  updatedAt: "2026-09-24T22:04:26.000Z",
 } as const satisfies Module

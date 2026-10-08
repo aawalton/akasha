@@ -12,4 +12,6 @@ export const rotationBreakdownRows = {
       statement: "Each row's names are read from its rotation breakdown row page.",
     },
   ],
+  createdAt: "2026-09-02T07:41:17.669Z",
+  updatedAt: "2026-09-26T20:14:29.000Z",
 } as const satisfies Module

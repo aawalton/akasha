@@ -18,4 +18,6 @@ export const searchWeaponTypeFilter = {
         "The options are written into the addon from the weapon type pages as it compiles.",
     },
   ],
+  createdAt: "2026-09-02T08:27:23.698Z",
+  updatedAt: "2026-09-27T03:36:20.000Z",
 } as const satisfies Module

@@ -24,4 +24,6 @@ export const companionTraitReading = {
       statement: "A trait whose stated place is not its place in that order is refused.",
     },
   ],
+  createdAt: "2026-09-24T23:44:54.374Z",
+  updatedAt: "2026-09-24T23:45:04.000Z",
 } as const satisfies Module

@@ -12,4 +12,6 @@ export const weaponTypeConstants = {
       statement: "Each number is read out of the client rather than written down here.",
     },
   ],
+  createdAt: "2026-09-02T08:06:07.179Z",
+  updatedAt: "2026-09-22T14:00:24.000Z",
 } as const satisfies Module

@@ -22,4 +22,6 @@ export const companionEffectSources = {
         "The class passive contributes a source only when the companion declares a classPassiveId.",
     },
   ],
+  createdAt: "2026-09-02T08:53:28.903Z",
+  updatedAt: "2026-09-21T15:26:51.000Z",
 } as const satisfies Module

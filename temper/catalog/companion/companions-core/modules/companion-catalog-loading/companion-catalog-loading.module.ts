@@ -21,4 +21,6 @@ export const companionCatalogLoading = {
         "Reading the catalogue is apart from holding it, so a reader with no pages reaches it.",
     },
   ],
+  createdAt: "2026-09-22T21:32:15.781Z",
+  updatedAt: "2026-09-26T19:37:31.000Z",
 } as const satisfies Module

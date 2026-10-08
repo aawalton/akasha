@@ -20,4 +20,6 @@ export const traitResearchCatalogCapture = {
       statement: "A trait name is read from the game's string table.",
     },
   ],
+  createdAt: "2026-09-02T06:50:31.685Z",
+  updatedAt: "2026-09-21T15:12:26.000Z",
 } as const satisfies Module

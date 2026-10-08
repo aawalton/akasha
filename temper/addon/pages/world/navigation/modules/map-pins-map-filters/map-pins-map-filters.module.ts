@@ -6,4 +6,6 @@ export const mapPinsMapFilters = {
   slug: "map-pins-map-filters",
   definition: "the map filter checkboxes for the map pin kinds, in a scroll of their own",
   code: "ts",
+  createdAt: "2026-09-02T13:57:34.155Z",
+  updatedAt: "2026-09-22T02:18:28.000Z",
 } as const satisfies Module

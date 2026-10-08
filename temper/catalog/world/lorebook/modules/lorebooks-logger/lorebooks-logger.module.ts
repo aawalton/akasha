@@ -6,4 +6,6 @@ export const lorebooksLogger = {
   slug: "lorebooks-logger",
   definition: "writing the add-on's own debug lines where a log viewer can read them",
   code: "ts",
+  createdAt: "2026-09-02T10:05:33.122Z",
+  updatedAt: "2026-09-21T15:34:26.000Z",
 } as const satisfies Module

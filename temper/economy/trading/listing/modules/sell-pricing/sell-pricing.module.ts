@@ -24,4 +24,6 @@ export const sellPricing = {
       statement: "An item link that parses to nothing is its own price key.",
     },
   ],
+  createdAt: "2026-09-02T06:13:13.759Z",
+  updatedAt: "2026-09-22T14:14:06.000Z",
 } as const satisfies Module

@@ -34,4 +34,6 @@ export const inventoryRuleFlags = {
       statement: "JSON that does not parse and JSON of the wrong shape are refused apart.",
     },
   ],
+  createdAt: "2026-09-03T20:07:25.545Z",
+  updatedAt: "2026-09-27T13:54:16.000Z",
 } as const satisfies Module

@@ -28,4 +28,6 @@ export const hudComponentRecord = {
       statement: "Nothing here reads a file.",
     },
   ],
+  createdAt: "2026-09-02T05:43:39.833Z",
+  updatedAt: "2026-09-22T10:09:09.000Z",
 } as const satisfies Module

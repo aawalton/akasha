@@ -28,4 +28,6 @@ export const companionSuggestionGenerator = {
       statement: "A suggestion carries no wording; the web words it.",
     },
   ],
+  createdAt: "2026-09-02T08:53:28.918Z",
+  updatedAt: "2026-09-27T12:33:00.000Z",
 } as const satisfies Module

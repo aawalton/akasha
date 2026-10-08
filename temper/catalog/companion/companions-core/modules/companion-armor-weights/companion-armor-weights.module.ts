@@ -16,4 +16,6 @@ export const companionArmorWeights = {
       statement: "An armor weight's id stays in code, because rules name weights by id.",
     },
   ],
+  createdAt: "2026-09-02T07:31:51.267Z",
+  updatedAt: "2026-09-26T17:26:37.000Z",
 } as const satisfies Module

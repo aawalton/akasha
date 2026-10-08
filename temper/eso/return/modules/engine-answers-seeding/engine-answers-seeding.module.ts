@@ -30,4 +30,6 @@ export const engineAnswersSeeding = {
         "The functions are written ordered by name, so two runs hand the sandbox the same Lua.",
     },
   ],
+  createdAt: "2026-09-24T16:09:28.809Z",
+  updatedAt: "2026-09-24T16:38:07.000Z",
 } as const satisfies Module

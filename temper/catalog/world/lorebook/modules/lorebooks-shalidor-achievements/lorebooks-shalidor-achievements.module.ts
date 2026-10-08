@@ -6,4 +6,6 @@ export const lorebooksShalidorAchievements = {
   slug: "lorebooks-shalidor-achievements",
   definition: "the achievement counting a zone's lore books",
   code: "ts",
+  createdAt: "2026-09-02T09:47:31.582Z",
+  updatedAt: "2026-09-22T13:49:36.000Z",
 } as const satisfies Module

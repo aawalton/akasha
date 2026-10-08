@@ -22,4 +22,6 @@ export const loreBookRendering = {
       statement: "Nothing here reads a file or writes one.",
     },
   ],
+  createdAt: "2026-09-25T01:16:48.454Z",
+  updatedAt: "2026-09-25T01:17:08.000Z",
 } as const satisfies Module

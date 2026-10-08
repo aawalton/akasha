@@ -33,4 +33,6 @@ export const esoDeclarationPages = {
       statement: "The page naming a page among its parts is found by reading those parts.",
     },
   ],
+  createdAt: "2026-09-22T19:03:55.150Z",
+  updatedAt: "2026-09-22T19:05:50.000Z",
 } as const satisfies Module

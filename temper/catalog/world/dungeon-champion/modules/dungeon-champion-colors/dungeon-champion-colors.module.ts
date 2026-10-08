@@ -13,4 +13,6 @@ export const dungeonChampionColors = {
       statement: "A color with no fourth number is fully opaque.",
     },
   ],
+  createdAt: "2026-09-02T07:16:14.142Z",
+  updatedAt: "2026-09-21T15:28:00.000Z",
 } as const satisfies Module

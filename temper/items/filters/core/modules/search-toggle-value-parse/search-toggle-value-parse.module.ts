@@ -18,4 +18,6 @@ export const searchToggleValueParse = {
         "Every toggle filter in the package reads a toggle value through the one shared module.",
     },
   ],
+  createdAt: "2026-09-02T08:27:23.696Z",
+  updatedAt: "2026-09-21T15:36:37.000Z",
 } as const satisfies Module

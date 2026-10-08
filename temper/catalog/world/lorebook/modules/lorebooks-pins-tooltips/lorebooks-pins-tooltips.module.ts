@@ -6,4 +6,6 @@ export const lorebooksPinsTooltips = {
   slug: "lorebooks-pins-tooltips",
   definition: "the words shown when a player rests the cursor on a lore book pin",
   code: "ts",
+  createdAt: "2026-09-02T10:05:33.124Z",
+  updatedAt: "2026-09-21T15:34:26.000Z",
 } as const satisfies Module

@@ -12,4 +12,6 @@ export const companionMetricTemplate = {
       statement: "A metric's value is a tree of arithmetic nodes rather than a written function.",
     },
   ],
+  createdAt: "2026-09-02T07:31:51.277Z",
+  updatedAt: "2026-09-22T13:46:23.000Z",
 } as const satisfies Module

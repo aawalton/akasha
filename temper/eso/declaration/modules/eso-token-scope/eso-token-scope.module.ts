@@ -33,4 +33,6 @@ export const esoTokenScope = {
       statement: "The tokens taken keep the order the dump described.",
     },
   ],
+  createdAt: "2026-09-03T12:28:47.455Z",
+  updatedAt: "2026-09-21T14:15:52.000Z",
 } as const satisfies Module

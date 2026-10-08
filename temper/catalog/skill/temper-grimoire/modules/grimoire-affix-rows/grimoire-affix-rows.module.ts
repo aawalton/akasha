@@ -17,4 +17,6 @@ export const grimoireAffixRows = {
       statement: "A grimoire a scribed skill can name with no rows here fails the typecheck.",
     },
   ],
+  createdAt: "2026-09-25T13:52:27.569Z",
+  updatedAt: "2026-09-25T13:52:43.000Z",
 } as const satisfies Module

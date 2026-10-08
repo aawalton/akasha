@@ -32,4 +32,6 @@ export const ttcShoppingOptimizer = {
       statement: "Kiosks holding as many purchases are ordered by the names the caller hands in.",
     },
   ],
+  createdAt: "2026-09-02T06:30:19.056Z",
+  updatedAt: "2026-09-27T02:35:33.000Z",
 } as const satisfies Module

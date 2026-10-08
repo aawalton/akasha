@@ -16,4 +16,6 @@ export const itemCategoryTreeUtils = {
       statement: "Every reading walks the roots of the tree it is handed.",
     },
   ],
+  createdAt: "2026-09-02T09:03:42.096Z",
+  updatedAt: "2026-09-27T03:17:23.000Z",
 } as const satisfies Module

@@ -16,4 +16,6 @@ export const races = {
       statement: "A race's place in this table is the index a build hash has.",
     },
   ],
+  createdAt: "2026-09-02T05:15:01.299Z",
+  updatedAt: "2026-09-27T02:02:13.000Z",
 } as const satisfies Module

@@ -29,4 +29,6 @@ export const engineConstantsSeeding = {
       statement: "The chunks are ordered by name, so two runs hand the sandbox the same Lua.",
     },
   ],
+  createdAt: "2026-09-22T21:21:09.549Z",
+  updatedAt: "2026-09-22T21:22:08.000Z",
 } as const satisfies Module

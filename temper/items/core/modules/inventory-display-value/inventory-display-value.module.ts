@@ -6,4 +6,6 @@ export const inventoryDisplayValue = {
   slug: "inventory-display-value",
   definition: "the value an inventory row shows",
   code: "ts",
+  createdAt: "2026-09-02T06:18:53.855Z",
+  updatedAt: "2026-09-21T15:18:52.000Z",
 } as const satisfies Module

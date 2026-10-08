@@ -30,4 +30,6 @@ export const uiVirtualsLua = {
       statement: "Windows are written out as a list, in the order the caller names them.",
     },
   ],
+  createdAt: "2026-09-25T16:54:17.043Z",
+  updatedAt: "2026-09-25T21:32:44.000Z",
 } as const satisfies Module

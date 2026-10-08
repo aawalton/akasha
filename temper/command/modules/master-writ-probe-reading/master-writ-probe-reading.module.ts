@@ -16,4 +16,6 @@ export const masterWritProbeReading = {
       statement: "An unknown field refuses the read.",
     },
   ],
+  createdAt: "2026-09-03T17:50:22.763Z",
+  updatedAt: "2026-09-15T18:38:43.000Z",
 } as const satisfies Module

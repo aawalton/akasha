@@ -45,4 +45,6 @@ export const equipmentSignatureCompiler = {
       statement: "The weapon bars walked are the weapon bar pages, in their display order.",
     },
   ],
+  createdAt: "2026-09-02T14:12:33.895Z",
+  updatedAt: "2026-09-27T06:45:50.000Z",
 } as const satisfies Module

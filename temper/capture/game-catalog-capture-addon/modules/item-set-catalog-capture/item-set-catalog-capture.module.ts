@@ -35,4 +35,6 @@ export const itemSetCatalogCapture = {
       statement: "Nothing here reads which pieces the player has collected.",
     },
   ],
+  createdAt: "2026-09-02T08:06:07.172Z",
+  updatedAt: "2026-09-25T13:22:27.000Z",
 } as const satisfies Module

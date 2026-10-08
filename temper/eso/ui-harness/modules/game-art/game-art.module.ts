@@ -68,4 +68,6 @@ export const gameArt = {
       statement: "No test here reads the game's install.",
     },
   ],
+  createdAt: "2026-09-24T17:51:52.309Z",
+  updatedAt: "2026-09-25T18:40:03.000Z",
 } as const satisfies Module

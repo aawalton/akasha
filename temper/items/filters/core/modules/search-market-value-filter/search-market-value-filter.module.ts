@@ -18,4 +18,6 @@ export const searchMarketValueFilter = {
       statement: "The operator defaults to <= where the saved value names no operator.",
     },
   ],
+  createdAt: "2026-09-02T08:27:23.690Z",
+  updatedAt: "2026-09-25T01:19:41.000Z",
 } as const satisfies Module

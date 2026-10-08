@@ -37,4 +37,6 @@ export const engineReturnsSeeding = {
       statement: "The names of the methods a control answers to are handed over in one call.",
     },
   ],
+  createdAt: "2026-09-24T14:17:08.009Z",
+  updatedAt: "2026-09-24T16:56:25.000Z",
 } as const satisfies Module

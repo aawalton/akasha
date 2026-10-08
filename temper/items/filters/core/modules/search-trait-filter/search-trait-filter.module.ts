@@ -26,4 +26,6 @@ export const searchTraitFilter = {
       statement: "The trait names and numbers are the tables the addon writes from the pages.",
     },
   ],
+  createdAt: "2026-09-02T08:27:23.697Z",
+  updatedAt: "2026-09-27T03:41:25.000Z",
 } as const satisfies Module

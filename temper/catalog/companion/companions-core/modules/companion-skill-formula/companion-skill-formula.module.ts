@@ -22,4 +22,6 @@ export const companionSkillFormula = {
         "Sources whose category page marks worn gear are left out of the non-soothing healing list.",
     },
   ],
+  createdAt: "2026-09-02T08:53:28.914Z",
+  updatedAt: "2026-09-26T20:35:03.000Z",
 } as const satisfies Module

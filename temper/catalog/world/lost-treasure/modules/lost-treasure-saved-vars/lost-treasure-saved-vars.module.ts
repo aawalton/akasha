@@ -12,4 +12,6 @@ export const lostTreasureSavedVars = {
       statement: "A saved icon that is none of the icons shipped falls back at every load.",
     },
   ],
+  createdAt: "2026-09-02T08:34:37.706Z",
+  updatedAt: "2026-09-25T19:51:23.000Z",
 } as const satisfies Module

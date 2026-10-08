@@ -21,4 +21,6 @@ export const inventoryParityCapabilities = {
       statement: "No routing is compared here.",
     },
   ],
+  createdAt: "2026-09-03T20:30:04.512Z",
+  updatedAt: "2026-09-22T13:53:27.000Z",
 } as const satisfies Module

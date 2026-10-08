@@ -25,4 +25,6 @@ export const functionAnswers = {
       statement: "A number that is not finite is no number here.",
     },
   ],
+  createdAt: "2026-09-24T22:10:34.922Z",
+  updatedAt: "2026-09-25T12:41:54.000Z",
 } as const satisfies Module

@@ -29,4 +29,6 @@ export const hudSceneCatalog = {
       statement: "One ESO global appears once.",
     },
   ],
+  createdAt: "2026-09-02T05:43:39.835Z",
+  updatedAt: "2026-09-21T22:10:28.000Z",
 } as const satisfies Module

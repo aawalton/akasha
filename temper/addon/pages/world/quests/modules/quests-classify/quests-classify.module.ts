@@ -36,4 +36,6 @@ export const questsClassify = {
       statement: "That branch is read only while the quest naming the branch is in the journal.",
     },
   ],
+  createdAt: "2026-09-02T18:26:20.060Z",
+  updatedAt: "2026-09-26T13:44:40.000Z",
 } as const satisfies Module

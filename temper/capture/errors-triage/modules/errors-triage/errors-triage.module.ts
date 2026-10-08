@@ -37,4 +37,6 @@ export const errorsTriage = {
       statement: "Nothing here opens a file.",
     },
   ],
+  createdAt: "2026-09-02T06:27:44.850Z",
+  updatedAt: "2026-09-21T15:14:12.000Z",
 } as const satisfies Module

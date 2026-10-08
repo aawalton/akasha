@@ -29,4 +29,6 @@ export const inventoryRuleMatcherAllocators = {
       statement: "A use allocation counts the copies of the item the rule's other candidates hold.",
     },
   ],
+  createdAt: "2026-09-02T08:51:47.596Z",
+  updatedAt: "2026-09-27T01:01:42.000Z",
 } as const satisfies Module

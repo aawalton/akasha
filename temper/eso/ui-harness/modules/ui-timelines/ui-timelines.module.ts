@@ -29,4 +29,6 @@ export const uiTimelines = {
       statement: "No duration, delay or value an animation declares is read.",
     },
   ],
+  createdAt: "2026-09-24T15:34:59.827Z",
+  updatedAt: "2026-09-24T16:02:12.000Z",
 } as const satisfies Module

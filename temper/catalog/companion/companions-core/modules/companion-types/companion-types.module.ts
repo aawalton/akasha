@@ -12,4 +12,6 @@ export const companionTypes = {
       statement: "A build names an equipped piece by slot rather than by a list of pieces.",
     },
   ],
+  createdAt: "2026-09-02T07:50:47.214Z",
+  updatedAt: "2026-09-22T10:13:14.000Z",
 } as const satisfies Module

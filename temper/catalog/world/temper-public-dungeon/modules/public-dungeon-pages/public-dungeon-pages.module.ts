@@ -25,4 +25,6 @@ export const publicDungeonPages = {
       statement: "The order is taken from each page's display order rather than from the imports.",
     },
   ],
+  createdAt: "2026-09-25T12:58:14.638Z",
+  updatedAt: "2026-09-25T12:58:26.000Z",
 } as const satisfies Module

@@ -21,4 +21,6 @@ export const traitsFilter = {
         "The traits offered are the traits the item family named by the category can have.",
     },
   ],
+  createdAt: "2026-09-02T09:03:42.097Z",
+  updatedAt: "2026-09-27T10:08:48.000Z",
 } as const satisfies Module

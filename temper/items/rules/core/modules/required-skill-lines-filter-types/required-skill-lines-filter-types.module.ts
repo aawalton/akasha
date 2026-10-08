@@ -12,4 +12,6 @@ export const requiredSkillLinesFilterTypes = {
       statement: "A condition asks that every named line be maxed or that one named line is not.",
     },
   ],
+  createdAt: "2026-09-02T06:40:46.795Z",
+  updatedAt: "2026-09-21T15:44:44.000Z",
 } as const satisfies Module

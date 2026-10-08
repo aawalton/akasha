@@ -32,4 +32,6 @@ export const ruleFilterTypes = {
       statement: "The location filter still states a label that nothing shows.",
     },
   ],
+  createdAt: "2026-09-02T07:23:20.441Z",
+  updatedAt: "2026-09-27T10:04:36.000Z",
 } as const satisfies Module

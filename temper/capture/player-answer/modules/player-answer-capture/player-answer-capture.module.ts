@@ -79,4 +79,6 @@ export const playerAnswerCapture = {
       statement: "A function answering one of the game's own objects answers nothing once saved.",
     },
   ],
+  createdAt: "2026-09-24T22:10:34.922Z",
+  updatedAt: "2026-09-25T12:43:16.000Z",
 } as const satisfies Module

@@ -56,4 +56,6 @@ export const uiShown = {
         "Windows are drawn by tier, then layer, then level, and in the order made at a tie.",
     },
   ],
+  createdAt: "2026-09-25T19:28:50.204Z",
+  updatedAt: "2026-09-25T21:30:59.000Z",
 } as const satisfies Module

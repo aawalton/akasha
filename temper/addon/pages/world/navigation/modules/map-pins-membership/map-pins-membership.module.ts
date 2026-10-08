@@ -6,4 +6,6 @@ export const mapPinsMembership = {
   slug: "map-pins-membership",
   definition: "which pin kinds belong to Cyrodiil, to Tamriel and to the Imperial City",
   code: "ts",
+  createdAt: "2026-09-02T13:57:34.172Z",
+  updatedAt: "2026-09-22T02:18:28.000Z",
 } as const satisfies Module

@@ -25,4 +25,6 @@ export const canInspireFilter = {
         "A category outside the two roots named in the code is offered no Can Inspire condition.",
     },
   ],
+  createdAt: "2026-09-02T07:23:20.422Z",
+  updatedAt: "2026-09-27T10:48:37.000Z",
 } as const satisfies Module

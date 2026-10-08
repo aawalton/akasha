@@ -6,4 +6,6 @@ export const characterCaptureBaseAbility = {
   slug: "character-capture-base-ability",
   definition: "the unmorphed ability behind a slotted ability",
   code: "ts",
+  createdAt: "2026-09-02T09:20:08.368Z",
+  updatedAt: "2026-09-22T13:55:35.000Z",
 } as const satisfies Module

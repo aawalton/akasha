@@ -12,4 +12,6 @@ export const inventoryGroupingTypes = {
       statement: "A grouping category is the slug of a root of the item category tree.",
     },
   ],
+  createdAt: "2026-09-02T06:18:53.856Z",
+  updatedAt: "2026-09-27T12:00:49.000Z",
 } as const satisfies Module

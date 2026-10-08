@@ -33,4 +33,6 @@ export const esoPathsResolve = {
       statement: "Saved variables and addons sit beneath the live directory.",
     },
   ],
+  createdAt: "2026-09-02T04:56:27.829Z",
+  updatedAt: "2026-09-22T10:18:13.000Z",
 } as const satisfies Module

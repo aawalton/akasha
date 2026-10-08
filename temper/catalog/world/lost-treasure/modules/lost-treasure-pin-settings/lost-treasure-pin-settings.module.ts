@@ -6,4 +6,6 @@ export const lostTreasurePinSettings = {
   slug: "lost-treasure-pin-settings",
   definition: "a setting read back for a kind of pin",
   code: "ts",
+  createdAt: "2026-09-02T08:34:37.706Z",
+  updatedAt: "2026-09-22T10:18:13.000Z",
 } as const satisfies Module

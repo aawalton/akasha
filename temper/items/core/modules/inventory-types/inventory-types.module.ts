@@ -45,4 +45,6 @@ export const inventoryTypes = {
       statement: "`resolvedBy` names the route that resolved the item where no index names a rule.",
     },
   ],
+  createdAt: "2026-09-02T06:18:53.859Z",
+  updatedAt: "2026-09-24T23:18:23.000Z",
 } as const satisfies Module

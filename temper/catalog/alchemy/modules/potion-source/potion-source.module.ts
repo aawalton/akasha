@@ -21,4 +21,6 @@ export const potionSource = {
       statement: "A potion page stating no hash place is no potion a build takes.",
     },
   ],
+  createdAt: "2026-09-02T04:52:28.140Z",
+  updatedAt: "2026-09-27T03:57:05.000Z",
 } as const satisfies Module

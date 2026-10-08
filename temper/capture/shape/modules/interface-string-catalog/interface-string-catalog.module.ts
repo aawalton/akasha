@@ -16,4 +16,6 @@ export const interfaceStringCatalog = {
       statement: "The API version the game answers with is kept beside the text it gave.",
     },
   ],
+  createdAt: "2026-09-24T15:43:08.563Z",
+  updatedAt: "2026-09-24T15:43:52.000Z",
 } as const satisfies Module

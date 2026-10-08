@@ -26,4 +26,6 @@ export const searchEvalAdapter = {
         "The synthetic rule names the stock action and the category that matches every item.",
     },
   ],
+  createdAt: "2026-09-02T08:27:23.687Z",
+  updatedAt: "2026-09-27T03:41:25.000Z",
 } as const satisfies Module

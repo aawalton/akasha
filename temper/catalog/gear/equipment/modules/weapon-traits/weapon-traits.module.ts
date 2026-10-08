@@ -20,4 +20,6 @@ export const weaponTraits = {
       statement: "A build may pick the traits whose pages state them available.",
     },
   ],
+  createdAt: "2026-09-02T07:39:45.979Z",
+  updatedAt: "2026-09-27T03:41:25.000Z",
 } as const satisfies Module

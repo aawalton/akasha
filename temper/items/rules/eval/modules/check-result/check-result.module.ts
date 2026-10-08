@@ -23,4 +23,6 @@ export const checkResult = {
       statement: "Every non-skip kind comes unchanged from the shared condition result type.",
     },
   ],
+  createdAt: "2026-09-02T08:24:13.416Z",
+  updatedAt: "2026-09-22T10:09:16.000Z",
 } as const satisfies Module

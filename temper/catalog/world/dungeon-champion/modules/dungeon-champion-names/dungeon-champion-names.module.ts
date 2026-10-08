@@ -12,4 +12,6 @@ export const dungeonChampionNames = {
       statement: "The pin keys here are the keys the map and the compass are told.",
     },
   ],
+  createdAt: "2026-09-02T07:16:14.154Z",
+  updatedAt: "2026-09-22T04:57:47.000Z",
 } as const satisfies Module

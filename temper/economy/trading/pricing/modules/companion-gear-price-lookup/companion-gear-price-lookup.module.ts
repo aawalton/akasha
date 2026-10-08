@@ -42,4 +42,6 @@ export const companionGearPriceLookup = {
         "A price is read from the level Tamriel Trade Centre files companion equipment under.",
     },
   ],
+  createdAt: "2026-09-02T06:12:35.069Z",
+  updatedAt: "2026-09-27T09:24:01.000Z",
 } as const satisfies Module

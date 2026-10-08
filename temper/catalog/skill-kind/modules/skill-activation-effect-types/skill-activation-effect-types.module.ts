@@ -6,4 +6,6 @@ export const skillActivationEffectTypes = {
   slug: "skill-activation-effect-types",
   definition: "every component a skill activation is made of, from damage through to a synergy",
   code: "ts",
+  createdAt: "2026-09-02T06:43:26.012Z",
+  updatedAt: "2026-09-21T15:19:33.000Z",
 } as const satisfies Module

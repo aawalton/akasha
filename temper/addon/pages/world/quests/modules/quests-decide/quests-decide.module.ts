@@ -49,4 +49,6 @@ export const questsDecide = {
       statement: "Nothing here calls the game.",
     },
   ],
+  createdAt: "2026-09-02T18:26:20.060Z",
+  updatedAt: "2026-09-26T13:44:40.000Z",
 } as const satisfies Module

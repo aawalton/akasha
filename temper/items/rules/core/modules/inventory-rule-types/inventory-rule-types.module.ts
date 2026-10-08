@@ -33,4 +33,6 @@ export const inventoryRuleTypes = {
       statement: "A player's inventory rules are the rules and the item rules together.",
     },
   ],
+  createdAt: "2026-09-02T07:23:20.432Z",
+  updatedAt: "2026-09-27T14:00:26.000Z",
 } as const satisfies Module

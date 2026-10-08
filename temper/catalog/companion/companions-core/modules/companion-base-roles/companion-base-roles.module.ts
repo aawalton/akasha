@@ -33,4 +33,6 @@ export const companionBaseRoles = {
       statement: "Nothing here words a set of roles for a reader; the web does.",
     },
   ],
+  createdAt: "2026-09-02T07:31:51.268Z",
+  updatedAt: "2026-09-27T12:30:10.000Z",
 } as const satisfies Module

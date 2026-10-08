@@ -22,4 +22,6 @@ export const gameNames = {
       statement: "The game's Lua asserts that a name is not yet defined before defining it.",
     },
   ],
+  createdAt: "2026-09-24T16:34:24.934Z",
+  updatedAt: "2026-09-24T16:35:13.000Z",
 } as const satisfies Module

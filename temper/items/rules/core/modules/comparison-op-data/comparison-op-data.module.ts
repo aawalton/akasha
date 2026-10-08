@@ -24,4 +24,6 @@ export const comparisonOpData = {
       statement: "The table holds no operator's shown name; a screen reads it from the page.",
     },
   ],
+  createdAt: "2026-09-02T06:40:46.794Z",
+  updatedAt: "2026-09-27T11:54:48.000Z",
 } as const satisfies Module

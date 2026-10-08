@@ -6,4 +6,6 @@ export const helpersTables = {
   slug: "helpers-tables",
   definition: "a table sorted, counted, walked, merged or joined to another",
   code: "ts",
+  createdAt: "2026-09-02T09:39:58.673Z",
+  updatedAt: "2026-09-22T08:24:26.000Z",
 } as const satisfies Module

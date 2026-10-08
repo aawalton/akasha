@@ -33,4 +33,6 @@ export const questsSavedVariables = {
       statement: "The game writes saved variables only as the client shuts down.",
     },
   ],
+  createdAt: "2026-09-02T18:26:20.060Z",
+  updatedAt: "2026-09-22T02:18:28.000Z",
 } as const satisfies Module

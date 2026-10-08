@@ -17,4 +17,6 @@ export const inventoryRuleMatcherCache = {
       statement: "A residue is stored as entries so the cache survives being written out.",
     },
   ],
+  createdAt: "2026-09-02T08:51:47.596Z",
+  updatedAt: "2026-09-21T15:36:01.000Z",
 } as const satisfies Module

@@ -13,4 +13,6 @@ export const companionJewelrySlots = {
     },
   ],
   hashIndexed: ["COMPANION_JEWELRY_SLOT_DATA"],
+  createdAt: "2026-09-02T07:31:51.272Z",
+  updatedAt: "2026-09-26T17:03:06.000Z",
 } as const satisfies Module

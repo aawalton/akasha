@@ -30,4 +30,6 @@ export const engineColorsReading = {
         "Every type and field is sorted here, so what is written turns only where the game did.",
     },
   ],
+  createdAt: "2026-09-24T15:09:43.954Z",
+  updatedAt: "2026-09-24T15:11:56.000Z",
 } as const satisfies Module

@@ -32,4 +32,6 @@ export const upstreamLibraries = {
       statement: "A copy differing from upstream is told apart from a run that broke.",
     },
   ],
+  createdAt: "2026-09-02T03:44:49.343Z",
+  updatedAt: "2026-09-22T13:57:31.000Z",
 } as const satisfies Module

@@ -6,4 +6,6 @@ export const lorebooksUiStrings = {
   slug: "lorebooks-ui-strings",
   definition: "the English text this add-on registers under its own string ids",
   code: "ts",
+  createdAt: "2026-09-02T10:05:33.128Z",
+  updatedAt: "2026-09-21T15:34:26.000Z",
 } as const satisfies Module

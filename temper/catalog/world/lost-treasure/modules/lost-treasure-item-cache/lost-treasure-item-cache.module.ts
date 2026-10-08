@@ -6,4 +6,6 @@ export const lostTreasureItemCache = {
   slug: "lost-treasure-item-cache",
   definition: "what enters and leaves the backpack, and what that means for the pins",
   code: "ts",
+  createdAt: "2026-09-02T08:34:37.702Z",
+  updatedAt: "2026-09-21T15:28:00.000Z",
 } as const satisfies Module

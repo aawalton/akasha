@@ -25,4 +25,6 @@ export const searchPotionEffectsFilter = {
       statement: "Nothing here narrows the server request.",
     },
   ],
+  createdAt: "2026-09-02T08:27:23.691Z",
+  updatedAt: "2026-09-27T04:01:52.000Z",
 } as const satisfies Module

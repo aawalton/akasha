@@ -17,4 +17,6 @@ export const eligibilityPredicateComposer = {
       statement: "A condition whose reader the context lacks is passed over.",
     },
   ],
+  createdAt: "2026-09-02T07:23:20.427Z",
+  updatedAt: "2026-09-22T10:09:16.000Z",
 } as const satisfies Module

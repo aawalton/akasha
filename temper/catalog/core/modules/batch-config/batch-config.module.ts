@@ -20,4 +20,6 @@ export const batchConfig = {
       statement: "Nothing here reads the game.",
     },
   ],
+  createdAt: "2026-09-02T04:46:56.631Z",
+  updatedAt: "2026-09-21T15:11:26.000Z",
 } as const satisfies Module

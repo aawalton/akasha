@@ -24,4 +24,6 @@ export const canCompanionEquipFilter = {
       statement: "A category outside `equipment` is offered no Can Companion Equip condition.",
     },
   ],
+  createdAt: "2026-09-02T07:23:20.419Z",
+  updatedAt: "2026-09-27T10:48:37.000Z",
 } as const satisfies Module

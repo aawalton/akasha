@@ -13,4 +13,6 @@ export const webEvalEnv = {
       statement: "Every reader here answers from the captured holdings rather than from the game.",
     },
   ],
+  createdAt: "2026-09-02T08:51:47.598Z",
+  updatedAt: "2026-09-21T15:36:01.000Z",
 } as const satisfies Module

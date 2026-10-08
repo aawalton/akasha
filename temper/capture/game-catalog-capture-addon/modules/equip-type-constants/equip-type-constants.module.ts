@@ -13,4 +13,6 @@ export const equipTypeConstants = {
       statement: "Each number is read out of the client rather than written down here.",
     },
   ],
+  createdAt: "2026-09-02T08:06:07.152Z",
+  updatedAt: "2026-09-22T13:46:23.000Z",
 } as const satisfies Module

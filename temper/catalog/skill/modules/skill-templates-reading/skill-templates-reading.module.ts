@@ -55,4 +55,6 @@ export const skillTemplatesReading = {
       statement: "The skill point source pages are read and held with the skills.",
     },
   ],
+  createdAt: "2026-09-26T16:00:53.854Z",
+  updatedAt: "2026-09-27T02:22:54.000Z",
 } as const satisfies Module

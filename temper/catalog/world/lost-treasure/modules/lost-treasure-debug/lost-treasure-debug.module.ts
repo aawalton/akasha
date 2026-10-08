@@ -6,4 +6,6 @@ export const lostTreasureDebug = {
   slug: "lost-treasure-debug",
   definition: "whether the add-on is logging every step",
   code: "ts",
+  createdAt: "2026-09-02T08:34:37.707Z",
+  updatedAt: "2026-09-21T15:28:00.000Z",
 } as const satisfies Module

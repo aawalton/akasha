@@ -25,4 +25,6 @@ export const checkFlags = {
       statement: "No flag condition consults the evaluation environment.",
     },
   ],
+  createdAt: "2026-09-02T08:24:13.413Z",
+  updatedAt: "2026-10-08T14:32:58.000Z",
 } as const satisfies Module

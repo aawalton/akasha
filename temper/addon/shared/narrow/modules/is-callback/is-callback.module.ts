@@ -12,4 +12,6 @@ export const isCallback = {
       statement: "Only Lua's own `type` tells a function from a value.",
     },
   ],
+  createdAt: "2026-09-11T01:34:08.745Z",
+  updatedAt: "2026-09-21T22:10:28.000Z",
 } as const satisfies Module

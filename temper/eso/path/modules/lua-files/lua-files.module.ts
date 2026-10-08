@@ -20,4 +20,6 @@ export const luaFiles = {
       statement: "A file is answered as the path that file was found at.",
     },
   ],
+  createdAt: "2026-09-03T21:08:04.536Z",
+  updatedAt: "2026-09-21T14:14:20.000Z",
 } as const satisfies Module

@@ -17,4 +17,6 @@ export const searchMerchantValueFilter = {
       statement: "The operator defaults to <= where the saved value names no operator.",
     },
   ],
+  createdAt: "2026-09-02T08:27:23.691Z",
+  updatedAt: "2026-09-21T15:36:37.000Z",
 } as const satisfies Module

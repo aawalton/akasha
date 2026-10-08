@@ -6,4 +6,6 @@ export const mapPinsOnLoad = {
   slug: "map-pins-on-load",
   definition: "the map pins half set up: saved variables, pin kinds, filters and events",
   code: "ts",
+  createdAt: "2026-09-02T13:57:34.171Z",
+  updatedAt: "2026-09-22T02:18:28.000Z",
 } as const satisfies Module

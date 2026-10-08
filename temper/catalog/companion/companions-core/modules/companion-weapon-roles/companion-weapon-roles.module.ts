@@ -12,4 +12,6 @@ export const companionWeaponRoles = {
       statement: "A weapon role is read from its page rather than from a copy in code.",
     },
   ],
+  createdAt: "2026-09-02T07:31:51.278Z",
+  updatedAt: "2026-09-26T16:23:19.000Z",
 } as const satisfies Module

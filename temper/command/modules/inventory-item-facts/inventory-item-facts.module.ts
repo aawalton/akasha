@@ -16,4 +16,6 @@ export const inventoryItemFacts = {
       statement: "An item with no place named is still read.",
     },
   ],
+  createdAt: "2026-09-03T20:07:25.550Z",
+  updatedAt: "2026-09-22T10:11:52.000Z",
 } as const satisfies Module

@@ -16,4 +16,6 @@ export const hudSceneFragments = {
       statement: "A part here is hidden by the scene rather than by the fragment group.",
     },
   ],
+  createdAt: "2026-09-02T05:43:39.835Z",
+  updatedAt: "2026-09-22T10:09:10.000Z",
 } as const satisfies Module

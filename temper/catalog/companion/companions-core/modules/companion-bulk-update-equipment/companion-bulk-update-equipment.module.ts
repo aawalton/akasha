@@ -20,4 +20,6 @@ export const companionBulkUpdateEquipment = {
       statement: "A slot whose current value differs from the old value is left untouched.",
     },
   ],
+  createdAt: "2026-09-02T08:53:28.901Z",
+  updatedAt: "2026-09-24T23:14:12.000Z",
 } as const satisfies Module

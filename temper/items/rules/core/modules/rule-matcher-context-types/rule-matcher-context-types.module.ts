@@ -20,4 +20,6 @@ export const ruleMatcherContextTypes = {
       statement: "Known motif chapters are read by motif number from the lore books alone.",
     },
   ],
+  createdAt: "2026-09-02T07:23:20.443Z",
+  updatedAt: "2026-09-27T01:35:08.000Z",
 } as const satisfies Module

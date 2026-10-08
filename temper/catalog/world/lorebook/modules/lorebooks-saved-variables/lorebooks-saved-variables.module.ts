@@ -6,4 +6,6 @@ export const lorebooksSavedVariables = {
   slug: "lorebooks-saved-variables",
   definition: "the settings this add-on keeps between sessions",
   code: "ts",
+  createdAt: "2026-09-02T10:05:33.127Z",
+  updatedAt: "2026-09-21T15:34:26.000Z",
 } as const satisfies Module

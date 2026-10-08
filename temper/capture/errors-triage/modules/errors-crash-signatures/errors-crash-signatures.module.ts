@@ -28,4 +28,6 @@ export const errorsCrashSignatures = {
       statement: "A key is drawn from the first traceback frame naming an addon folder.",
     },
   ],
+  createdAt: "2026-09-02T06:27:44.848Z",
+  updatedAt: "2026-09-21T15:14:12.000Z",
 } as const satisfies Module

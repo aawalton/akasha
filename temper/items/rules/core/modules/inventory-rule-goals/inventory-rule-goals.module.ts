@@ -20,4 +20,6 @@ export const inventoryRuleGoals = {
       statement: "No goal carries a name here; a goal is named by its rule goal page.",
     },
   ],
+  createdAt: "2026-09-02T06:40:46.794Z",
+  updatedAt: "2026-09-27T11:55:01.000Z",
 } as const satisfies Module

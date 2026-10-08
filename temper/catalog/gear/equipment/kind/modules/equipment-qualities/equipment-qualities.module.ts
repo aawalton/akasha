@@ -24,4 +24,6 @@ export const equipmentQualities = {
       statement: "A quality that is not graded is read as the quality page marked the default.",
     },
   ],
+  createdAt: "2026-09-02T06:04:28.742Z",
+  updatedAt: "2026-09-27T06:59:46.000Z",
 } as const satisfies Module

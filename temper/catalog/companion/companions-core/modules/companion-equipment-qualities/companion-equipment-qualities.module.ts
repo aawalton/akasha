@@ -16,4 +16,6 @@ export const companionEquipmentQualities = {
       statement: "A quality's id stays in code, because rules name qualities by id.",
     },
   ],
+  createdAt: "2026-09-02T07:31:51.270Z",
+  updatedAt: "2026-09-26T16:20:36.000Z",
 } as const satisfies Module

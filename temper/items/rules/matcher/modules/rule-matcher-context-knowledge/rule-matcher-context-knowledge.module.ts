@@ -38,4 +38,6 @@ export const ruleMatcherContextKnowledge = {
       statement: "A script is recorded by the item id its name resolves to.",
     },
   ],
+  createdAt: "2026-09-02T14:23:54.928Z",
+  updatedAt: "2026-09-27T02:10:34.000Z",
 } as const satisfies Module

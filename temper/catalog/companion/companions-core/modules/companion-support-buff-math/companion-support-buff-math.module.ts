@@ -16,4 +16,6 @@ export const companionSupportBuffMath = {
       statement: "Only fractional-change buff values contribute to the damage delta.",
     },
   ],
+  createdAt: "2026-09-02T08:53:28.919Z",
+  updatedAt: "2026-09-24T23:26:04.000Z",
 } as const satisfies Module

@@ -140,4 +140,6 @@ export const inventoryRuleCalling = {
       statement: "Nothing here changes a controlled rule.",
     },
   ],
+  createdAt: "2026-09-03T16:12:28.054Z",
+  updatedAt: "2026-09-27T13:54:16.000Z",
 } as const satisfies Module

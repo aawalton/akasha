@@ -6,4 +6,6 @@ export const lorebooksBookshelfData = {
   slug: "lorebooks-bookshelf-data",
   definition: "where a bookshelf is on each map",
   code: "ts",
+  createdAt: "2026-09-02T09:47:31.581Z",
+  updatedAt: "2026-09-21T15:34:26.000Z",
 } as const satisfies Module

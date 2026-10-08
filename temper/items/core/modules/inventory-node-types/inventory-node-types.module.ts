@@ -6,4 +6,6 @@ export const inventoryNodeTypes = {
   slug: "inventory-node-types",
   definition: "a node in the tree an inventory is shown as",
   code: "ts",
+  createdAt: "2026-09-02T06:18:53.858Z",
+  updatedAt: "2026-09-21T15:18:52.000Z",
 } as const satisfies Module

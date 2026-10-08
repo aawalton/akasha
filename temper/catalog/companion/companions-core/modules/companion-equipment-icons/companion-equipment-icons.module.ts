@@ -24,4 +24,6 @@ export const companionEquipmentIcons = {
       statement: "A no-type weapon yields null rather than a placeholder icon.",
     },
   ],
+  createdAt: "2026-09-02T08:53:28.903Z",
+  updatedAt: "2026-09-26T20:01:40.000Z",
 } as const satisfies Module

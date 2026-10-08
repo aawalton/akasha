@@ -24,4 +24,6 @@ export const browseState = {
       statement: "An empty queue finishes the search.",
     },
   ],
+  createdAt: "2026-09-02T05:45:53.139Z",
+  updatedAt: "2026-09-21T15:12:49.000Z",
 } as const satisfies Module

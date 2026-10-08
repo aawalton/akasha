@@ -6,4 +6,6 @@ export const lostTreasureSettings = {
   slug: "lost-treasure-settings",
   definition: "the add-on's own panel in the game's settings menu",
   code: "ts",
+  createdAt: "2026-09-02T08:34:37.702Z",
+  updatedAt: "2026-09-21T15:28:00.000Z",
 } as const satisfies Module

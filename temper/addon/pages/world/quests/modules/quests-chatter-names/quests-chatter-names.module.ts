@@ -21,4 +21,6 @@ export const questsChatterNames = {
       statement: "A name the globals do not have is left out of the map.",
     },
   ],
+  createdAt: "2026-09-02T18:26:20.060Z",
+  updatedAt: "2026-09-22T02:18:28.000Z",
 } as const satisfies Module

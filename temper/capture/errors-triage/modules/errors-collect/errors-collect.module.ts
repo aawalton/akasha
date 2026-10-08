@@ -24,4 +24,6 @@ export const errorsCollect = {
       statement: "No entry is weighed here.",
     },
   ],
+  createdAt: "2026-09-02T06:27:44.848Z",
+  updatedAt: "2026-09-22T14:23:15.000Z",
 } as const satisfies Module

@@ -6,4 +6,6 @@ export const lostTreasureTypes = {
   slug: "lost-treasure-types",
   definition: "the shape of a map pin and of a remembered inventory slot",
   code: "ts",
+  createdAt: "2026-09-02T08:34:37.708Z",
+  updatedAt: "2026-09-22T10:05:54.000Z",
 } as const satisfies Module

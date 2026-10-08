@@ -37,4 +37,6 @@ export const automationSettingsShape = {
       statement: "The toggle fields are built from the toggle name lists.",
     },
   ],
+  createdAt: "2026-09-02T03:45:24.900Z",
+  updatedAt: "2026-09-25T01:21:17.000Z",
 } as const satisfies Module

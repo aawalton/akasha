@@ -6,4 +6,6 @@ export const minimapSettings = {
   slug: "minimap-settings",
   definition: "the load order of the minimap settings modules",
   code: "ts",
+  createdAt: "2026-09-02T13:57:34.235Z",
+  updatedAt: "2026-09-22T13:55:35.000Z",
 } as const satisfies Module

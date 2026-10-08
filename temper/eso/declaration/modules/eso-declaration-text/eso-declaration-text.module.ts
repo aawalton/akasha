@@ -58,4 +58,6 @@ export const esoDeclarationText = {
       statement: "Nothing here writes a file.",
     },
   ],
+  createdAt: "2026-09-03T12:28:47.455Z",
+  updatedAt: "2026-09-22T18:54:05.000Z",
 } as const satisfies Module

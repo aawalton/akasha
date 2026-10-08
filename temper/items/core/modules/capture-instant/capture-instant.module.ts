@@ -16,4 +16,6 @@ export const captureInstant = {
       statement: "Every reader of a captured moment says that moment the one way.",
     },
   ],
+  createdAt: "2026-09-19T16:07:55.115Z",
+  updatedAt: "2026-09-21T15:18:52.000Z",
 } as const satisfies Module

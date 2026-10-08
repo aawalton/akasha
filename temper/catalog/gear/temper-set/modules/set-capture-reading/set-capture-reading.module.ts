@@ -45,4 +45,6 @@ export const setCaptureReading = {
       statement: "A set the game has and no page states is named rather than given a page.",
     },
   ],
+  createdAt: "2026-09-25T13:33:31.081Z",
+  updatedAt: "2026-09-25T14:00:19.000Z",
 } as const satisfies Module

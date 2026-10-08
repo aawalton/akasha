@@ -6,4 +6,6 @@ export const lorebooksConstants = {
   slug: "lorebooks-constants",
   definition: "the lore book add-on's names, pin keys and mode numbers",
   code: "ts",
+  createdAt: "2026-09-02T10:05:33.119Z",
+  updatedAt: "2026-09-22T14:14:06.000Z",
 } as const satisfies Module

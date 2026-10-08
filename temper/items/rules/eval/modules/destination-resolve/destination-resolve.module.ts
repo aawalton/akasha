@@ -62,4 +62,6 @@ export const destinationResolve = {
         "An item with no item key resolves to its holder where its known fact says it is unlearned.",
     },
   ],
+  createdAt: "2026-09-02T08:24:13.419Z",
+  updatedAt: "2026-09-27T15:46:13.000Z",
 } as const satisfies Module

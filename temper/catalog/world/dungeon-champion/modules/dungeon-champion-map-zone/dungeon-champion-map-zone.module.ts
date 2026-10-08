@@ -12,4 +12,6 @@ export const dungeonChampionMapZone = {
       statement: "The zone is read from a texture path rather than asked of the game.",
     },
   ],
+  createdAt: "2026-09-02T07:16:14.153Z",
+  updatedAt: "2026-09-21T15:28:00.000Z",
 } as const satisfies Module

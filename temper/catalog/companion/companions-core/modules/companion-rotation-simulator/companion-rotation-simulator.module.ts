@@ -20,4 +20,6 @@ export const companionRotationSimulator = {
       statement: "Accumulated ultimate is capped at the ultimate cap page's value.",
     },
   ],
+  createdAt: "2026-09-02T08:53:28.912Z",
+  updatedAt: "2026-09-26T18:54:33.000Z",
 } as const satisfies Module

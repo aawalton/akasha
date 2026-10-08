@@ -6,4 +6,6 @@ export const characterCaptureEnchantQuality = {
   slug: "character-capture-enchant-quality",
   definition: "the quality of the glyph an item link names",
   code: "ts",
+  createdAt: "2026-09-02T09:20:37.201Z",
+  updatedAt: "2026-09-21T15:13:00.000Z",
 } as const satisfies Module

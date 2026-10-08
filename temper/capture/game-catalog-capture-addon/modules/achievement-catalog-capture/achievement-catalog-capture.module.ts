@@ -24,4 +24,6 @@ export const achievementCatalogCapture = {
       statement: "Achievements are read in batches so the client keeps its frame rate.",
     },
   ],
+  createdAt: "2026-09-02T06:50:31.682Z",
+  updatedAt: "2026-09-21T15:12:26.000Z",
 } as const satisfies Module

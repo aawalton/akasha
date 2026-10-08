@@ -16,4 +16,6 @@ export const recipeListCatalogLoading = {
       statement: "A change to a recipe list page reads the catalogue again.",
     },
   ],
+  createdAt: "2026-09-26T15:45:03.521Z",
+  updatedAt: "2026-09-26T16:46:52.000Z",
 } as const satisfies Module

@@ -6,4 +6,6 @@ export const lostTreasureOpenedMap = {
   slug: "lost-treasure-opened-map",
   definition: "the treasure map the player is reading, and the small window showing it",
   code: "ts",
+  createdAt: "2026-09-02T08:34:37.703Z",
+  updatedAt: "2026-09-21T15:28:00.000Z",
 } as const satisfies Module

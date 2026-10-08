@@ -26,4 +26,6 @@ export const companionFormulaEvaluator = {
         "A metric reference missing from the value map is refused, naming both the formula and that metric.",
     },
   ],
+  createdAt: "2026-09-02T08:53:28.904Z",
+  updatedAt: "2026-09-26T19:38:56.000Z",
 } as const satisfies Module

@@ -12,4 +12,6 @@ export const characterCaptureEquipment = {
       statement: "A worn armor weight is captured at the place the player weight pages state.",
     },
   ],
+  createdAt: "2026-09-02T09:20:24.559Z",
+  updatedAt: "2026-09-27T02:49:23.000Z",
 } as const satisfies Module

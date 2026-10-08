@@ -20,4 +20,6 @@ export const requireNumericKey = {
       statement: "The refusal names the key and the label the caller handed in.",
     },
   ],
+  createdAt: "2026-09-02T06:02:54.754Z",
+  updatedAt: "2026-09-22T13:49:49.000Z",
 } as const satisfies Module

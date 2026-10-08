@@ -6,4 +6,6 @@ export const companionSupportTypes = {
   slug: "companion-support-types",
   definition: "the shapes in which a companion's support contribution is measured",
   code: "ts",
+  createdAt: "2026-09-02T07:41:17.668Z",
+  updatedAt: "2026-09-22T14:13:12.000Z",
 } as const satisfies Module

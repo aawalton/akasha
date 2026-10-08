@@ -29,4 +29,6 @@ export const upstreamLeafReading = {
       statement: "The rulings of a library's datasets gather into one ruling for that library.",
     },
   ],
+  createdAt: "2026-09-02T14:25:39.267Z",
+  updatedAt: "2026-09-21T15:14:51.000Z",
 } as const satisfies Module

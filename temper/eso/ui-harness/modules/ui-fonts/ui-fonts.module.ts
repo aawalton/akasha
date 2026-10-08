@@ -56,4 +56,6 @@ export const uiFonts = {
         "The faces the Temper add-on ships are kept as TrueType beside the files it ships.",
     },
   ],
+  createdAt: "2026-09-24T14:58:30.866Z",
+  updatedAt: "2026-09-25T16:44:08.000Z",
 } as const satisfies Module

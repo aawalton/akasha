@@ -16,4 +16,6 @@ export const hudControls = {
       statement: "Every part here belongs to all three HUD scenes.",
     },
   ],
+  createdAt: "2026-09-02T05:43:39.835Z",
+  updatedAt: "2026-09-21T22:10:28.000Z",
 } as const satisfies Module

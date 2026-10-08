@@ -6,4 +6,6 @@ export const lorebooksReportsEidetic = {
   slug: "lorebooks-reports-eidetic",
   definition: "the report of which Eidetic Memory books are still missing",
   code: "ts",
+  createdAt: "2026-09-02T10:05:33.127Z",
+  updatedAt: "2026-09-21T15:34:26.000Z",
 } as const satisfies Module

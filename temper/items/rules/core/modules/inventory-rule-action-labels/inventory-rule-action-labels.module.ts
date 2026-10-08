@@ -31,4 +31,6 @@ export const inventoryRuleActionLabels = {
         "A stocked item's destination takes the surplus rather than the stock, and is shown that way.",
     },
   ],
+  createdAt: "2026-09-02T07:23:20.428Z",
+  updatedAt: "2026-09-27T10:17:31.000Z",
 } as const satisfies Module

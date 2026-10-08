@@ -20,4 +20,6 @@ export const ttcListingTypes = {
       statement: "A listing older than the age the search names is left out.",
     },
   ],
+  createdAt: "2026-09-02T05:33:44.734Z",
+  updatedAt: "2026-09-22T13:53:26.000Z",
 } as const satisfies Module

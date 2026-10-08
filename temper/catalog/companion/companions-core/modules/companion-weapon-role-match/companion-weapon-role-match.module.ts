@@ -16,4 +16,6 @@ export const companionWeaponRoleMatch = {
       statement: "A build whose weapons match no role reads as the no-weapon-role entry.",
     },
   ],
+  createdAt: "2026-09-02T08:53:28.921Z",
+  updatedAt: "2026-09-21T15:26:51.000Z",
 } as const satisfies Module

@@ -22,4 +22,6 @@ export const inventoryRuleCompilerTypes = {
         "A wanted equipment signature says the gear a build asks for rather than the gear held.",
     },
   ],
+  createdAt: "2026-09-02T07:23:20.429Z",
+  updatedAt: "2026-09-21T15:44:44.000Z",
 } as const satisfies Module

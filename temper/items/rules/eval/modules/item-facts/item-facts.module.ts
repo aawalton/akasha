@@ -24,4 +24,6 @@ export const itemFacts = {
       statement: "Nothing here describes a character or a rule or the wider inventory.",
     },
   ],
+  createdAt: "2026-09-02T08:24:13.420Z",
+  updatedAt: "2026-09-22T13:46:31.000Z",
 } as const satisfies Module

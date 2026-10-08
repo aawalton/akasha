@@ -21,4 +21,6 @@ export const canLevelMorphsFilter = {
         "A rule whose action is other than `stock` is offered no Can Level Morphs condition.",
     },
   ],
+  createdAt: "2026-09-02T07:23:20.422Z",
+  updatedAt: "2026-09-27T10:07:55.000Z",
 } as const satisfies Module

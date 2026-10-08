@@ -12,4 +12,6 @@ export const soloDifficulty = {
       statement: "A dungeon saying nothing of its difficulty is taken as hard.",
     },
   ],
+  createdAt: "2026-09-02T03:37:28.037Z",
+  updatedAt: "2026-09-22T10:08:29.000Z",
 } as const satisfies Module

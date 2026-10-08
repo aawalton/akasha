@@ -6,4 +6,6 @@ export const lorebooksFilterFlags = {
   slug: "lorebooks-filter-flags",
   definition: "reading whether a pin filter is on",
   code: "ts",
+  createdAt: "2026-09-02T10:05:33.120Z",
+  updatedAt: "2026-09-21T15:34:26.000Z",
 } as const satisfies Module

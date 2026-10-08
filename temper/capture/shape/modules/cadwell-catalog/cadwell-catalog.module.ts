@@ -21,4 +21,6 @@ export const cadwellCatalog = {
       statement: "A point of interest has an order number.",
     },
   ],
+  createdAt: "2026-09-02T04:07:43.259Z",
+  updatedAt: "2026-09-24T16:44:54.000Z",
 } as const satisfies Module

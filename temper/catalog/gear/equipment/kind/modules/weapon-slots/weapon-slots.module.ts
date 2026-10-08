@@ -12,4 +12,6 @@ export const weaponSlots = {
       statement: "The weapon slots are read from their pages in display order.",
     },
   ],
+  createdAt: "2026-09-02T06:04:28.742Z",
+  updatedAt: "2026-09-27T02:49:23.000Z",
 } as const satisfies Module

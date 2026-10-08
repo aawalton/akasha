@@ -6,4 +6,6 @@ export const mapPinsNarrow = {
   slug: "map-pins-narrow",
   definition: "what an untyped value the map pins half reads is taken to be",
   code: "ts",
+  createdAt: "2026-09-02T13:57:34.169Z",
+  updatedAt: "2026-09-22T02:18:28.000Z",
 } as const satisfies Module

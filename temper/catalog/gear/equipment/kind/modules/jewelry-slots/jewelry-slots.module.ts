@@ -16,4 +16,6 @@ export const jewelrySlots = {
       statement: "The jewelry slots are read from their pages in hash-place order.",
     },
   ],
+  createdAt: "2026-09-02T06:04:28.741Z",
+  updatedAt: "2026-09-27T02:49:23.000Z",
 } as const satisfies Module

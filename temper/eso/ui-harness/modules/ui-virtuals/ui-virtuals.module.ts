@@ -116,4 +116,6 @@ export const uiVirtuals = {
       statement: "A tier or a layer written as a word is kept as the name the game holds for it.",
     },
   ],
+  createdAt: "2026-09-22T16:14:45.078Z",
+  updatedAt: "2026-09-25T21:30:59.000Z",
 } as const satisfies Module

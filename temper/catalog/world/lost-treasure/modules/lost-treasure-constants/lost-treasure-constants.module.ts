@@ -6,4 +6,6 @@ export const lostTreasureConstants = {
   slug: "lost-treasure-constants",
   definition: "the three kinds of buried find, and what the game calls each one",
   code: "ts",
+  createdAt: "2026-09-02T08:34:37.708Z",
+  updatedAt: "2026-09-21T15:28:00.000Z",
 } as const satisfies Module

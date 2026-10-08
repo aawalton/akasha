@@ -13,4 +13,6 @@ export const computeItemStock = {
         "The bank is counted on its own as well as among the rest of an account's storage.",
     },
   ],
+  createdAt: "2026-09-02T14:03:07.141Z",
+  updatedAt: "2026-09-21T15:18:52.000Z",
 } as const satisfies Module

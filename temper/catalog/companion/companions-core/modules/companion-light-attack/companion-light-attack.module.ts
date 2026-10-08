@@ -20,4 +20,6 @@ export const companionLightAttack = {
       statement: "A next-attack damage buff is consumed by the swing the buff lands on.",
     },
   ],
+  createdAt: "2026-09-02T08:53:28.906Z",
+  updatedAt: "2026-09-21T15:26:51.000Z",
 } as const satisfies Module

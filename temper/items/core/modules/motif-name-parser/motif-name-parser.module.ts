@@ -6,4 +6,6 @@ export const motifNameParser = {
   slug: "motif-name-parser",
   definition: "the style and chapter a motif book's name carries",
   code: "ts",
+  createdAt: "2026-09-02T06:18:53.861Z",
+  updatedAt: "2026-09-21T15:18:52.000Z",
 } as const satisfies Module

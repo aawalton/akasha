@@ -12,4 +12,6 @@ export const dungeonChampionSlash = {
       statement: "A position prints as hundredths of a percent.",
     },
   ],
+  createdAt: "2026-09-02T07:16:14.171Z",
+  updatedAt: "2026-09-21T15:28:00.000Z",
 } as const satisfies Module

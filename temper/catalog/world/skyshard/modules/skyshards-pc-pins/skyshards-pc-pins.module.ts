@@ -6,4 +6,6 @@ export const skyshardsPcPins = {
   slug: "skyshards-pc-pins",
   definition: "the skyshards the computer map shows, what a click on one does, and their layouts",
   code: "ts",
+  createdAt: "2026-09-02T10:27:15.179Z",
+  updatedAt: "2026-09-21T15:28:00.000Z",
 } as const satisfies Module

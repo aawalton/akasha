@@ -6,4 +6,6 @@ export const classCatalogCapture = {
   slug: "class-catalog-capture",
   definition: "the game's classes, read out of the client into the add-on's saved variables",
   code: "ts",
+  createdAt: "2026-09-02T09:20:59.201Z",
+  updatedAt: "2026-09-21T15:12:26.000Z",
 } as const satisfies Module

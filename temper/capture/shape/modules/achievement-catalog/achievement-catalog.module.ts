@@ -21,4 +21,6 @@ export const achievementCatalog = {
       statement: "An entry says whether the achievement is earned per character.",
     },
   ],
+  createdAt: "2026-09-02T04:07:43.258Z",
+  updatedAt: "2026-09-24T16:44:34.000Z",
 } as const satisfies Module

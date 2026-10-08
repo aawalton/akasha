@@ -29,4 +29,6 @@ export const engineStringsReading = {
       statement: "The names are sorted here, so what is written turns only where the game did.",
     },
   ],
+  createdAt: "2026-09-24T15:44:58.970Z",
+  updatedAt: "2026-09-24T15:45:39.000Z",
 } as const satisfies Module

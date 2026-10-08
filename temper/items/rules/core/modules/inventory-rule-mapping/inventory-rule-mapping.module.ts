@@ -12,4 +12,6 @@ export const inventoryRuleMapping = {
       statement: "A setting the rules leave unsaid keeps the value the settings already have.",
     },
   ],
+  createdAt: "2026-09-02T09:03:42.095Z",
+  updatedAt: "2026-09-21T15:44:44.000Z",
 } as const satisfies Module

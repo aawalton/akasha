@@ -28,4 +28,6 @@ export const affectedItemsTreeBuilder = {
       statement: "A type level is keyed by its tree slug and named by its tree page's title.",
     },
   ],
+  createdAt: "2026-09-02T14:12:33.895Z",
+  updatedAt: "2026-09-27T12:00:49.000Z",
 } as const satisfies Module

@@ -7,4 +7,6 @@ export const dungeonRegistry = {
   definition: "what is known of a group dungeon",
   code: "ts",
   decisions: [],
+  createdAt: "2026-09-02T03:37:28.037Z",
+  updatedAt: "2026-09-22T10:05:54.000Z",
 } as const satisfies Module

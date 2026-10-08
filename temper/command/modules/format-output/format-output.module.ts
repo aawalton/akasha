@@ -7,4 +7,6 @@ export const formatOutput = {
   definition: "rows rendered as JSON or as escaped TSV",
   code: "ts",
   test: "ts",
+  createdAt: "2026-09-03T23:05:04.807Z",
+  updatedAt: "2026-09-15T18:38:43.000Z",
 } as const satisfies Module

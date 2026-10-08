@@ -21,4 +21,6 @@ export const zoneCompletionCatalogCapture = {
       statement: "A completion type with no named activity is left out.",
     },
   ],
+  createdAt: "2026-09-02T06:50:31.686Z",
+  updatedAt: "2026-09-21T15:12:26.000Z",
 } as const satisfies Module

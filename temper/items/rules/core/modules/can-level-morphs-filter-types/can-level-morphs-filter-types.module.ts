@@ -12,4 +12,6 @@ export const canLevelMorphsFilterTypes = {
       statement: "Levelling a morph is the only sense this condition is asked in.",
     },
   ],
+  createdAt: "2026-09-02T06:40:46.793Z",
+  updatedAt: "2026-09-21T15:44:44.000Z",
 } as const satisfies Module

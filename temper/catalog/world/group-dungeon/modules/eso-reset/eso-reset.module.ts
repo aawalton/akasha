@@ -24,4 +24,6 @@ export const esoReset = {
       statement: "Every instant here is a whole second rather than a millisecond.",
     },
   ],
+  createdAt: "2026-09-02T03:48:49.386Z",
+  updatedAt: "2026-09-21T15:28:00.000Z",
 } as const satisfies Module

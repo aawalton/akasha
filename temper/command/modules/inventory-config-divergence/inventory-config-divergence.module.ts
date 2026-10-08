@@ -30,4 +30,6 @@ export const inventoryConfigDivergence = {
       statement: "The rule closing the compiled order carries no id, so nothing is set against it.",
     },
   ],
+  createdAt: "2026-09-12T15:44:44.681Z",
+  updatedAt: "2026-09-15T18:38:43.000Z",
 } as const satisfies Module

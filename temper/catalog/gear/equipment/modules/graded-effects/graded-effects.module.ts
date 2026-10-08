@@ -20,4 +20,6 @@ export const gradedEffects = {
       statement: "An effect keeps the sign its page states and takes its size from the grade.",
     },
   ],
+  createdAt: "2026-09-27T04:03:00.540Z",
+  updatedAt: "2026-09-27T04:03:27.000Z",
 } as const satisfies Module

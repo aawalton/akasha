@@ -21,4 +21,6 @@ export const inventoryManagementPlanRouteHelpers = {
       statement: "The furniture vault is named by its venue page's title.",
     },
   ],
+  createdAt: "2026-09-02T08:51:47.593Z",
+  updatedAt: "2026-09-27T09:43:20.000Z",
 } as const satisfies Module

@@ -21,4 +21,6 @@ export const itemSetCategories = {
       statement: "A set the game hangs under no category has neither name.",
     },
   ],
+  createdAt: "2026-09-11T14:34:36.113Z",
+  updatedAt: "2026-09-22T13:44:03.000Z",
 } as const satisfies Module

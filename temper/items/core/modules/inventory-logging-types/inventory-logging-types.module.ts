@@ -6,4 +6,6 @@ export const inventoryLoggingTypes = {
   slug: "inventory-logging-types",
   definition: "how much an inventory run writes about what it did",
   code: "ts",
+  createdAt: "2026-09-02T06:18:53.857Z",
+  updatedAt: "2026-09-21T15:18:52.000Z",
 } as const satisfies Module

@@ -21,4 +21,6 @@ export const checkLocation = {
       statement: "The failing item's location is reported as the failure detail.",
     },
   ],
+  createdAt: "2026-09-02T08:24:13.414Z",
+  updatedAt: "2026-09-21T15:32:06.000Z",
 } as const satisfies Module

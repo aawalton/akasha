@@ -6,4 +6,6 @@ export const mapPinsItemEvents = {
   slug: "map-pins-item-events",
   definition: "what happens when the player loots the item a pin watches",
   code: "ts",
+  createdAt: "2026-09-02T13:57:34.151Z",
+  updatedAt: "2026-09-22T13:46:23.000Z",
 } as const satisfies Module

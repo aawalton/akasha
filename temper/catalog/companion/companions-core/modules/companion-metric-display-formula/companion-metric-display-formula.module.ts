@@ -22,4 +22,6 @@ export const companionMetricDisplayFormula = {
         "A metric with no formula and no effectType renders as the literal label Simulation Result.",
     },
   ],
+  createdAt: "2026-09-02T08:53:28.907Z",
+  updatedAt: "2026-09-26T19:12:14.000Z",
 } as const satisfies Module

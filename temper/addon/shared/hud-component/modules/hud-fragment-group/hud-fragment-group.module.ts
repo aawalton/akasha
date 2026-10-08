@@ -16,4 +16,6 @@ export const hudFragmentGroup = {
       statement: "A part here is hidden through the fragment group.",
     },
   ],
+  createdAt: "2026-09-02T05:43:39.834Z",
+  updatedAt: "2026-09-21T22:10:28.000Z",
 } as const satisfies Module

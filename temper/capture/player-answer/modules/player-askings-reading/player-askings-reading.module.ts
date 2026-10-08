@@ -31,4 +31,6 @@ export const playerAskingsReading = {
         "The names under each shape are sorted, so a version bump moves only what changed.",
     },
   ],
+  createdAt: "2026-09-24T22:04:16.652Z",
+  updatedAt: "2026-09-24T22:04:26.000Z",
 } as const satisfies Module

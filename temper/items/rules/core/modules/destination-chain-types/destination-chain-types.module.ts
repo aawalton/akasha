@@ -12,4 +12,6 @@ export const destinationChainTypes = {
       statement: "A tier names where the items go and how many items the tier takes.",
     },
   ],
+  createdAt: "2026-09-02T07:23:20.427Z",
+  updatedAt: "2026-09-22T10:18:36.000Z",
 } as const satisfies Module

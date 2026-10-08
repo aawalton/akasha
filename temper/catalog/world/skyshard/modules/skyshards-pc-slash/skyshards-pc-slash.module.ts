@@ -12,4 +12,6 @@ export const skyshardsPcSlash = {
       statement: "The player's position is printed from this one rule.",
     },
   ],
+  createdAt: "2026-09-02T10:27:15.179Z",
+  updatedAt: "2026-09-22T19:13:43.000Z",
 } as const satisfies Module

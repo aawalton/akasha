@@ -18,4 +18,6 @@ export const weaponTypeIds = {
         "The names are the weapon type pages' slugs, as the gear kind ids table holds them.",
     },
   ],
+  createdAt: "2026-09-02T07:05:52.558Z",
+  updatedAt: "2026-09-27T03:05:02.000Z",
 } as const satisfies Module

@@ -6,4 +6,6 @@ export const lorebooksPinsTags = {
   slug: "lorebooks-pins-tags",
   definition: "the dungeon and quest tags a lore book pin carries",
   code: "ts",
+  createdAt: "2026-09-02T10:05:33.124Z",
+  updatedAt: "2026-09-21T15:34:26.000Z",
 } as const satisfies Module

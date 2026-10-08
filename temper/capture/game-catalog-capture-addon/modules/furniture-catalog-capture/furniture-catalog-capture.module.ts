@@ -21,4 +21,6 @@ export const furnitureCatalogCapture = {
       statement: "A category name and a subcategory name are both read by category id.",
     },
   ],
+  createdAt: "2026-09-02T06:50:31.684Z",
+  updatedAt: "2026-09-21T15:12:26.000Z",
 } as const satisfies Module

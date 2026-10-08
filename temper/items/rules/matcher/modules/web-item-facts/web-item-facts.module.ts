@@ -7,4 +7,6 @@ export const webItemFacts = {
   definition: "the facts a rule reads, taken for the web build from the captured holdings",
   code: "ts",
   decisions: [],
+  createdAt: "2026-09-02T08:51:47.599Z",
+  updatedAt: "2026-09-22T14:24:39.000Z",
 } as const satisfies Module

@@ -17,4 +17,6 @@ export const skillBars = {
       statement: "A skill bar's place among the bars is its page's display order.",
     },
   ],
+  createdAt: "2026-09-02T06:43:26.012Z",
+  updatedAt: "2026-09-27T02:00:23.000Z",
 } as const satisfies Module

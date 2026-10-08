@@ -16,4 +16,6 @@ export const isPriceEntry = {
       statement: "Every lookup asks here rather than asking the same question its own way.",
     },
   ],
+  createdAt: "2026-09-02T05:33:44.733Z",
+  updatedAt: "2026-09-21T15:12:49.000Z",
 } as const satisfies Module

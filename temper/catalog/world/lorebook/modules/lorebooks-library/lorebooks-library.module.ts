@@ -6,4 +6,6 @@ export const lorebooksLibrary = {
   slug: "lorebooks-library",
   definition: "the lore library window taking this add-on's own list",
   code: "ts",
+  createdAt: "2026-09-02T10:05:33.121Z",
+  updatedAt: "2026-09-22T13:46:41.000Z",
 } as const satisfies Module

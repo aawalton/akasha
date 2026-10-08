@@ -21,4 +21,6 @@ export const searchRangeValueParse = {
       statement: "No default operator is supplied here.",
     },
   ],
+  createdAt: "2026-09-02T08:27:23.692Z",
+  updatedAt: "2026-09-21T15:36:37.000Z",
 } as const satisfies Module

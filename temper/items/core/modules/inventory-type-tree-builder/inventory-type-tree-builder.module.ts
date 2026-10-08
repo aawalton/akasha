@@ -25,4 +25,6 @@ export const inventoryTypeTreeBuilder = {
       statement: "A category is found in the tree by its slug.",
     },
   ],
+  createdAt: "2026-09-02T14:03:07.141Z",
+  updatedAt: "2026-09-27T12:00:49.000Z",
 } as const satisfies Module

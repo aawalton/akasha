@@ -21,4 +21,6 @@ export const characterCaptureRaceMap = {
       statement: "A game id no race page states takes the no-race page's place.",
     },
   ],
+  createdAt: "2026-09-02T09:20:17.092Z",
+  updatedAt: "2026-09-27T02:02:13.000Z",
 } as const satisfies Module

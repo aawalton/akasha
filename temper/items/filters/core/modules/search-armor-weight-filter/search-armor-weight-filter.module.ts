@@ -22,4 +22,6 @@ export const searchArmorWeightFilter = {
         "The options are written into the addon from the armor weight pages as it compiles.",
     },
   ],
+  createdAt: "2026-09-02T08:27:23.685Z",
+  updatedAt: "2026-09-27T03:37:17.000Z",
 } as const satisfies Module

@@ -12,4 +12,6 @@ export const traitActions = {
       statement: "The first rule naming a trait on a category settles the action for that trait.",
     },
   ],
+  createdAt: "2026-09-02T07:23:20.448Z",
+  updatedAt: "2026-09-22T14:23:56.000Z",
 } as const satisfies Module

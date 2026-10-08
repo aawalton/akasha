@@ -16,4 +16,6 @@ export const inventorySettingsTypes = {
       statement: "A timestamp records when a settings group was last worked out.",
     },
   ],
+  createdAt: "2026-09-02T07:23:20.432Z",
+  updatedAt: "2026-09-22T13:56:23.000Z",
 } as const satisfies Module

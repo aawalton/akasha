@@ -6,4 +6,6 @@ export const lorebooksPinsCallbacks = {
   slug: "lorebooks-pins-callbacks",
   definition: "what a lore book pin does when the map, the compass or the mode changes",
   code: "ts",
+  createdAt: "2026-09-02T10:05:33.124Z",
+  updatedAt: "2026-09-21T15:34:26.000Z",
 } as const satisfies Module

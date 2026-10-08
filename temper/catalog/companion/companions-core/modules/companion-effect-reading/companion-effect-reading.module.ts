@@ -17,4 +17,6 @@ export const companionEffectReading = {
       statement: "A buff or debuff has a value here only when its page states exactly one effect.",
     },
   ],
+  createdAt: "2026-09-26T19:17:38.648Z",
+  updatedAt: "2026-09-26T19:18:11.000Z",
 } as const satisfies Module

@@ -21,4 +21,6 @@ export const characterCaptureSkillLineGroups = {
       statement: "The emperor's skill line is in no base group, as no character starts with it.",
     },
   ],
+  createdAt: "2026-09-02T09:20:41.202Z",
+  updatedAt: "2026-09-26T18:16:26.000Z",
 } as const satisfies Module

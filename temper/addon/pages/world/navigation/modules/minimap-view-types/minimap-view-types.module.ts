@@ -17,4 +17,6 @@ export const minimapViewTypes = {
       statement: "Nothing here runs.",
     },
   ],
+  createdAt: "2026-09-02T13:57:34.609Z",
+  updatedAt: "2026-09-22T13:56:42.000Z",
 } as const satisfies Module

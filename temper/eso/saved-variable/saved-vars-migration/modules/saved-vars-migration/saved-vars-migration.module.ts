@@ -45,4 +45,6 @@ export const savedVarsMigration = {
       statement: "Nothing here says what a migration did.",
     },
   ],
+  createdAt: "2026-09-02T04:48:22.204Z",
+  updatedAt: "2026-09-22T01:46:02.000Z",
 } as const satisfies Module

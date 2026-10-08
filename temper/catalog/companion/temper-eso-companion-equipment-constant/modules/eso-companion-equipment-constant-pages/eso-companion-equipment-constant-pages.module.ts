@@ -16,4 +16,6 @@ export const esoCompanionEquipmentConstantPages = {
       statement: "An equip type no page numbers is refused where it is asked for.",
     },
   ],
+  createdAt: "2026-09-25T01:30:36.908Z",
+  updatedAt: "2026-09-26T16:43:31.000Z",
 } as const satisfies Module

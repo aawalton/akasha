@@ -6,4 +6,6 @@ export const inventoryGuildBankTypes = {
   slug: "inventory-guild-bank-types",
   definition: "the guild banks a player has chosen to manage",
   code: "ts",
+  createdAt: "2026-09-02T06:18:53.856Z",
+  updatedAt: "2026-09-21T15:18:52.000Z",
 } as const satisfies Module

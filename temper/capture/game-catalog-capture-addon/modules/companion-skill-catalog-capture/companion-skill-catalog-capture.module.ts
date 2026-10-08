@@ -22,4 +22,6 @@ export const companionSkillCatalogCapture = {
         "A skill line's highest rank is the highest rank an ability of that line asks for.",
     },
   ],
+  createdAt: "2026-09-02T06:50:31.683Z",
+  updatedAt: "2026-09-21T15:12:26.000Z",
 } as const satisfies Module

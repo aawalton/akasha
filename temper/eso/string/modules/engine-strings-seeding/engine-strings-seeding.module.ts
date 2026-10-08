@@ -29,4 +29,6 @@ export const engineStringsSeeding = {
       statement: "A string the capture holds no text for answers the empty string.",
     },
   ],
+  createdAt: "2026-09-24T15:45:18.966Z",
+  updatedAt: "2026-09-24T15:45:39.000Z",
 } as const satisfies Module

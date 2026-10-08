@@ -20,4 +20,6 @@ export const questsSlashCommand = {
       statement: "The hud is told the name of the addon each command belongs to.",
     },
   ],
+  createdAt: "2026-09-02T18:26:20.060Z",
+  updatedAt: "2026-09-22T02:18:28.000Z",
 } as const satisfies Module

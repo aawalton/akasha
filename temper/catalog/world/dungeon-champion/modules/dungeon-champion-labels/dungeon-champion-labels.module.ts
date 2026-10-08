@@ -12,4 +12,6 @@ export const dungeonChampionLabels = {
       statement: "A key no label answers to reads back as the empty string.",
     },
   ],
+  createdAt: "2026-09-02T07:16:14.147Z",
+  updatedAt: "2026-09-21T15:28:00.000Z",
 } as const satisfies Module

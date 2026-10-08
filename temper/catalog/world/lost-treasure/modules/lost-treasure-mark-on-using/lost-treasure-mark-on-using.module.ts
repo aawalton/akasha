@@ -6,4 +6,6 @@ export const lostTreasureMarkOnUsing = {
   slug: "lost-treasure-mark-on-using",
   definition: "which maps the player has opened during this session",
   code: "ts",
+  createdAt: "2026-09-02T08:34:37.705Z",
+  updatedAt: "2026-09-21T15:28:00.000Z",
 } as const satisfies Module

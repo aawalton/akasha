@@ -85,4 +85,6 @@ export const inventoryCharactersReading = {
         "Whether a character knows an item is answered here, for a command and for a rule walk alike.",
     },
   ],
+  createdAt: "2026-09-03T20:07:25.543Z",
+  updatedAt: "2026-09-27T10:40:28.000Z",
 } as const satisfies Module

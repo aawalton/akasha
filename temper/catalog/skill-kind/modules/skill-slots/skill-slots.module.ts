@@ -17,4 +17,6 @@ export const skillSlots = {
       statement: "A skill slot's place among the slots is its page's hash place.",
     },
   ],
+  createdAt: "2026-09-02T06:43:26.012Z",
+  updatedAt: "2026-09-27T02:50:41.000Z",
 } as const satisfies Module

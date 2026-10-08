@@ -22,4 +22,6 @@ export const searchFilterRegistry = {
       statement: "No filter is added to the registry at run time by code outside this package.",
     },
   ],
+  createdAt: "2026-09-02T08:27:23.687Z",
+  updatedAt: "2026-09-21T15:36:37.000Z",
 } as const satisfies Module

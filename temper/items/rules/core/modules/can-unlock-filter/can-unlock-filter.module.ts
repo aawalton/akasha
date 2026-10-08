@@ -20,4 +20,6 @@ export const canUnlockFilter = {
       statement: "This filter's options are its condition field's value pages.",
     },
   ],
+  createdAt: "2026-09-02T07:23:20.424Z",
+  updatedAt: "2026-09-27T10:48:37.000Z",
 } as const satisfies Module

@@ -20,4 +20,6 @@ export const inventoryItemOutcomes = {
       statement: "No rule here decides what an item resolves to.",
     },
   ],
+  createdAt: "2026-09-13T22:20:30.588Z",
+  updatedAt: "2026-09-21T15:36:01.000Z",
 } as const satisfies Module

@@ -6,4 +6,6 @@ export const companionSkillCatalog = {
   slug: "companion-skill-catalog",
   definition: "what the game states about a companion skill line and its abilities",
   code: "ts",
+  createdAt: "2026-09-02T04:07:43.261Z",
+  updatedAt: "2026-09-21T15:10:19.000Z",
 } as const satisfies Module

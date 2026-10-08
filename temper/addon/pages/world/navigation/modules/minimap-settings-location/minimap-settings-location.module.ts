@@ -6,4 +6,6 @@ export const minimapSettingsLocation = {
   slug: "minimap-settings-location",
   definition: "the settings menu section for where the minimap sits",
   code: "ts",
+  createdAt: "2026-09-02T13:57:34.244Z",
+  updatedAt: "2026-09-22T02:18:28.000Z",
 } as const satisfies Module

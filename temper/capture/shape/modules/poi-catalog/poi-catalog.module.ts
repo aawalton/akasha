@@ -17,4 +17,6 @@ export const poiCatalog = {
       statement: "A zone key and a point of interest key are both numbers.",
     },
   ],
+  createdAt: "2026-09-02T04:07:43.263Z",
+  updatedAt: "2026-09-24T16:45:49.000Z",
 } as const satisfies Module

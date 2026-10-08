@@ -28,4 +28,6 @@ export const checkCrossCharacterCraft = {
         "An item with no inferrable crafting type fails the can-inspire form of the condition.",
     },
   ],
+  createdAt: "2026-09-02T08:24:13.412Z",
+  updatedAt: "2026-09-21T15:32:06.000Z",
 } as const satisfies Module

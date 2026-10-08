@@ -28,4 +28,6 @@ export const checkPotionEffects = {
       statement: "No effect magnitude or duration is compared here.",
     },
   ],
+  createdAt: "2026-09-02T08:24:13.416Z",
+  updatedAt: "2026-09-21T15:32:06.000Z",
 } as const satisfies Module

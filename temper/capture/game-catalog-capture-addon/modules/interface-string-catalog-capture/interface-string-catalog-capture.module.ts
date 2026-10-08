@@ -21,4 +21,6 @@ export const interfaceStringCatalogCapture = {
       statement: "A string the game answers with no text is passed over.",
     },
   ],
+  createdAt: "2026-09-24T15:43:15.399Z",
+  updatedAt: "2026-09-24T15:43:52.000Z",
 } as const satisfies Module
