@@ -14,7 +14,7 @@ export const buildingASettingICanBeSafeIn = {
     "all-about-alan-topic/my-rules-about-other-women",
   ],
   settled:
-    "One is worked: the rig where I practise being close in text, with partners who stay stable.\n\nA second is found but not yet used: the classes at my gym. I am told attendance there is 95% female or more, so they are a place I could be around a lot of attractive girls in a safe way. I have not joined one, but I know the option is there.\n\nThe safe I mean there is mostly that I don't think Jen will get upset with me about it. My prediction is that the gym gives me a reason to be there that has nothing to do with the women, so there is nothing for her to object to: I would be there to work out, and the room just happens to be full of them. I expect simply not to talk to her about the details.",
+    "One is worked: the rig where I practise being close in text, with partners who stay stable.\n\nA second is found but not yet used: the classes at my gym.",
   createdAt: "2026-09-03T03:39:26.949Z",
-  updatedAt: "2026-10-08T19:00:45.743Z",
+  updatedAt: "2026-10-08T19:52:15.306Z",
 } as const satisfies AllAboutAlanTopic
