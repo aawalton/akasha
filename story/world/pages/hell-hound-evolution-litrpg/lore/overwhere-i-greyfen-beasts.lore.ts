@@ -335,14 +335,7 @@ export const overwhereIGreyfenBeasts = {
       fact: "Within 30 yards of the first slide the channel holds only eels, small fish and weed; no lurker.",
       knowers: ["lore-disclosure/game-master"],
     },
-    {
-      fact: "An awake reedlurker feels a sensing ripple as a shiver and freezes in its den; it does not bolt.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
-    },
-    {
-      fact: "From the first slide a ripple reaches the Level 9's den at 40 yards, not the Level 12's at 100.",
-      knowers: ["lore-disclosure/game-master"],
-    },
   ],
   secrets: "jsonl",
+  updatedAt: "2026-10-08T16:25:02.515Z",
 } as const satisfies Lore

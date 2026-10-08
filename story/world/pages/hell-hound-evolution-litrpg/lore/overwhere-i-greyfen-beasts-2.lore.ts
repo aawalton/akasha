@@ -9,6 +9,14 @@ export const overwhereIGreyfenBeasts2 = {
   about: "lore/overwhere-i-greyfen-beasts",
   facts: [
     {
+      fact: "An awake reedlurker feels a sensing ripple as a shiver and freezes in its den; it does not bolt.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+    },
+    {
+      fact: "From the first slide a ripple reaches the Level 9's den at 40 yards, not the Level 12's at 100.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
       fact: "Nala's ripple from the first slide felt a lurker lying awake in the bank under the second slide.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
@@ -186,5 +194,5 @@ export const overwhereIGreyfenBeasts2 = {
     },
   ],
   createdAt: "2026-09-30T18:29:14.409Z",
-  updatedAt: "2026-10-02T15:38:47.000Z",
+  updatedAt: "2026-10-08T16:25:02.515Z",
 } as const satisfies Lore
