@@ -37,7 +37,12 @@ export const questPortAssistTrace = {
       decisionKind: "decision-kind/absence",
       statement: "Nothing here changes what the move does.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "Each reading carries the task display's own view of focus, as TemperCharacters publishes it.",
+    },
   ],
   createdAt: "2026-10-08T17:05:57.227Z",
-  updatedAt: "2026-10-08T17:05:57.227Z",
+  updatedAt: "2026-10-08T17:16:20.122Z",
 } as const satisfies Module

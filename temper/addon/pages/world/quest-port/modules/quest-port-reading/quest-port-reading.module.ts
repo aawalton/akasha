@@ -30,7 +30,12 @@ export const questPortReading = {
       decisionKind: "decision-kind/absence",
       statement: "Nothing here reads a file or calls the game.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A quest the game calls assisted neither way is left out of the task list's lines.",
+    },
   ],
   createdAt: "2026-10-08T17:09:47.146Z",
-  updatedAt: "2026-10-08T17:09:47.146Z",
+  updatedAt: "2026-10-08T17:16:20.122Z",
 } as const satisfies Module

@@ -114,7 +114,31 @@ const ROOT = {
             at: 300,
             character: "Maviola El",
             before: { journalIndex: 1, questName: "Other Quest", headerText: "Other Quest" },
-            after: { journalIndex: 2, questName: "Focused Quest", headerText: "Other Quest" },
+            after: {
+              journalIndex: 2,
+              questName: "Focused Quest",
+              headerText: "Other Quest",
+              taskList: {
+                assistedName: "Other Quest",
+                refreshCount: 4,
+                lastRefreshAt: 290,
+                lastSyncedName: "Other Quest",
+                quests: [
+                  {
+                    journalIndex: 2,
+                    name: "Focused Quest",
+                    assistedWithZero: false,
+                    assistedWithNil: true,
+                  },
+                  {
+                    journalIndex: 1,
+                    name: "Other Quest",
+                    assistedWithZero: false,
+                    assistedWithNil: false,
+                  },
+                ],
+              },
+            },
           },
         ],
       },
@@ -154,8 +178,13 @@ describe("quest-port-reading", () => {
     if (move === undefined) throw new Error("no move read")
     const lines = assistMoveLines(move)
     expect(lines[1]).toContain('before: quest 1 "Other Quest"')
-    expect(lines[2]).toContain('after: quest 2 "Focused Quest" header "Other Quest"')
-    expect(lines[3]).toBe("    later: not read")
+    expect(lines[2]).toBe("      task list: not read")
+    expect(lines[3]).toContain('after: quest 2 "Focused Quest" header "Other Quest"')
+    expect(lines[4]).toContain(
+      'task list: focused "Other Quest" last synced "Other Quest" redraws 4'
+    )
+    expect(lines[5]).toContain('2: "Focused Quest" assisted with 0=false with nil=true')
+    expect(lines[6]).toBe("    later: not read")
   })
 
   test("a table with no capture reads as nothing captured", () => {

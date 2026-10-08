@@ -109,12 +109,28 @@ export interface PortTraceEntry {
   said: string[]
 }
 
+export interface TaskListFocus {
+  readonly journalIndex: number
+  readonly name: string
+  readonly assistedWithZero: boolean
+  readonly assistedWithNil: boolean
+}
+
+export interface TaskListReading {
+  readonly assistedName?: string
+  readonly refreshCount: number
+  readonly lastRefreshAt?: number
+  readonly lastSyncedName?: string
+  readonly quests: TaskListFocus[]
+}
+
 export interface AssistedReading {
   readonly journalIndex?: number
   readonly questName?: string
   readonly headerText?: string
   readonly headerHidden?: boolean
   readonly panelHidden?: boolean
+  readonly taskList?: TaskListReading
 }
 
 export interface AssistNextEntry {

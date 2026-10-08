@@ -103,12 +103,28 @@ const PRESS = z.object({
   said: luaArrayOrEmpty(z.string()),
 })
 
+const TASK_LIST_FOCUS = z.object({
+  journalIndex: z.number(),
+  name: z.string(),
+  assistedWithZero: z.boolean(),
+  assistedWithNil: z.boolean(),
+})
+
+const TASK_LIST = z.object({
+  assistedName: z.string().optional(),
+  refreshCount: z.number(),
+  lastRefreshAt: z.number().optional(),
+  lastSyncedName: z.string().optional(),
+  quests: luaArrayOrEmpty(TASK_LIST_FOCUS),
+})
+
 const ASSISTED = z.object({
   journalIndex: z.number().optional(),
   questName: z.string().optional(),
   headerText: z.string().optional(),
   headerHidden: z.boolean().optional(),
   panelHidden: z.boolean().optional(),
+  taskList: TASK_LIST.optional(),
 })
 
 const ASSIST_MOVE = z.object({
@@ -230,19 +246,35 @@ export function pressLines(press: PressReading): readonly string[] {
   return lines
 }
 
-function assistedLine(label: string, read: AssistedRead | undefined): string {
-  if (read === undefined) return `    ${label}: not read`
-  return (
+function assistedLines(label: string, read: AssistedRead | undefined): readonly string[] {
+  if (read === undefined) return [`    ${label}: not read`]
+  const lines = [
     `    ${label}: quest ${String(read.journalIndex ?? "-")} "${read.questName ?? ""}"` +
-    ` header "${read.headerText ?? ""}"${flag(read.headerHidden, "header-hidden")}${flag(read.panelHidden, "panel-hidden")}`
+      ` header "${read.headerText ?? ""}"${flag(read.headerHidden, "header-hidden")}${flag(read.panelHidden, "panel-hidden")}`,
+  ]
+  const list = read.taskList
+  if (list === undefined) {
+    lines.push("      task list: not read")
+    return lines
+  }
+  lines.push(
+    `      task list: focused "${list.assistedName ?? ""}" last synced "${list.lastSyncedName ?? ""}"` +
+      ` redraws ${String(list.refreshCount)} last at t=${String(list.lastRefreshAt ?? "-")}`
   )
+  for (const quest of list.quests) {
+    if (!quest.assistedWithZero && !quest.assistedWithNil) continue
+    lines.push(
+      `        ${String(quest.journalIndex)}: "${quest.name}" assisted with 0=${String(quest.assistedWithZero)} with nil=${String(quest.assistedWithNil)}`
+    )
+  }
+  return lines
 }
 
 export function assistMoveLines(move: AssistMoveReading): readonly string[] {
   return [
     `t=${String(move.at)} next quest by ${move.character}`,
-    assistedLine("before", move.before),
-    assistedLine("after", move.after),
-    assistedLine("later", move.later),
+    ...assistedLines("before", move.before),
+    ...assistedLines("after", move.after),
+    ...assistedLines("later", move.later),
   ]
 }
