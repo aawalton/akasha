@@ -19,4 +19,6 @@ export const defianceOfTheFall0140Chapter1459CultivationIdiot = {
   story: "story-read/defiance-of-the-fall",
   ownLength: 2907,
   prose: "txt",
+  createdAt: "2026-09-13T18:05:23.879Z",
+  updatedAt: "2026-09-19T18:25:57.000Z",
 } as const satisfies StoryChapterRead

@@ -18,4 +18,6 @@ export const delve0240240Sniffed = {
     },
   ],
   prose: "txt",
+  createdAt: "2026-09-03T12:15:04.649Z",
+  updatedAt: "2026-09-19T18:25:57.000Z",
 } as const satisfies StoryChapterRead

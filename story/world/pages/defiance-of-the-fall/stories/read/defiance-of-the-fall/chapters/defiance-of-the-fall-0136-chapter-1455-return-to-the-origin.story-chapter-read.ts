@@ -19,4 +19,6 @@ export const defianceOfTheFall0136Chapter1455ReturnToTheOrigin = {
   title: "Chapter 1,455 - Return to the Origin",
   ownLength: 2662,
   prose: "txt",
+  createdAt: "2026-09-05T16:06:24.748Z",
+  updatedAt: "2026-09-19T18:25:57.000Z",
 } as const satisfies StoryChapterRead

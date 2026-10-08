@@ -18,4 +18,6 @@ export const delve0155155Edge = {
     },
   ],
   prose: "txt",
+  createdAt: "2026-09-03T12:15:04.495Z",
+  updatedAt: "2026-09-19T18:25:57.000Z",
 } as const satisfies StoryChapterRead

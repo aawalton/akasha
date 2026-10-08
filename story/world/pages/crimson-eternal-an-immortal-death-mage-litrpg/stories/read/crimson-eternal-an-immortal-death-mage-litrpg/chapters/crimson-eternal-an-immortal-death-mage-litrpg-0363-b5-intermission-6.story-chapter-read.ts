@@ -20,4 +20,6 @@ export const crimsonEternalAnImmortalDeathMageLitrpg0363B5Intermission6 = {
   ownLength: 983,
   prose: "txt",
   story: "story-read/crimson-eternal-an-immortal-death-mage-litrpg",
+  createdAt: "2026-09-09T19:07:10.054Z",
+  updatedAt: "2026-09-28T20:27:12.000Z",
 } as const satisfies StoryChapterRead

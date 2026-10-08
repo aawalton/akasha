@@ -19,4 +19,6 @@ export const defianceOfTheFall0065DefianceOfTheFallBook17OutNow = {
   story: "story-read/defiance-of-the-fall",
   ownLength: 150,
   prose: "txt",
+  createdAt: "2026-09-16T14:06:54.210Z",
+  updatedAt: "2026-09-19T18:25:57.000Z",
 } as const satisfies StoryChapterRead

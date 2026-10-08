@@ -19,4 +19,6 @@ export const defianceOfTheFall0139Chapter1458BrotherlyRegard = {
   story: "story-read/defiance-of-the-fall",
   ownLength: 3003,
   prose: "txt",
+  createdAt: "2026-09-10T18:07:19.127Z",
+  updatedAt: "2026-09-19T18:25:57.000Z",
 } as const satisfies StoryChapterRead

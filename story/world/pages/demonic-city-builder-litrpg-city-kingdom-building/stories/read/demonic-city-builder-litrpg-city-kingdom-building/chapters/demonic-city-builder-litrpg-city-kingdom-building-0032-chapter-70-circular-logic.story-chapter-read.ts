@@ -19,4 +19,6 @@ export const demonicCityBuilderLitrpgCityKingdomBuilding0032Chapter70CircularLog
   story: "story-read/demonic-city-builder-litrpg-city-kingdom-building",
   ownLength: 2284,
   prose: "txt",
+  createdAt: "2026-09-16T13:03:25.232Z",
+  updatedAt: "2026-09-19T18:25:57.000Z",
 } as const satisfies StoryChapterRead

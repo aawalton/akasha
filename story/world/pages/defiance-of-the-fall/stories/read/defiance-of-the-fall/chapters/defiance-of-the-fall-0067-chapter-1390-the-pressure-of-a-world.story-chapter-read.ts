@@ -19,4 +19,6 @@ export const defianceOfTheFall0067Chapter1390ThePressureOfAWorld = {
     },
   ],
   prose: "txt",
+  createdAt: "2026-09-03T04:40:12.148Z",
+  updatedAt: "2026-09-19T18:25:57.000Z",
 } as const satisfies StoryChapterRead

@@ -19,4 +19,6 @@ export const defianceOfTheFall0138Chapter1457GrandUnity = {
   title: "Chapter 1,457 - Grand Unity",
   ownLength: 2903,
   prose: "txt",
+  createdAt: "2026-09-08T18:03:33.604Z",
+  updatedAt: "2026-09-19T18:25:57.000Z",
 } as const satisfies StoryChapterRead

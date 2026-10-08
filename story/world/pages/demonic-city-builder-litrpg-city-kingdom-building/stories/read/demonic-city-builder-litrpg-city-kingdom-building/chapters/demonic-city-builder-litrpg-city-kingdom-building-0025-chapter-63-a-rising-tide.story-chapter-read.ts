@@ -19,4 +19,6 @@ export const demonicCityBuilderLitrpgCityKingdomBuilding0025Chapter63ARisingTide
   title: "Chapter 63 - A Rising Tide",
   ownLength: 2397,
   prose: "txt",
+  createdAt: "2026-09-05T16:06:24.748Z",
+  updatedAt: "2026-09-19T18:25:57.000Z",
 } as const satisfies StoryChapterRead

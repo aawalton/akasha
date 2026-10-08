@@ -19,4 +19,6 @@ export const demonicCityBuilderLitrpgCityKingdomBuilding0028Chapter66FireDrill =
   story: "story-read/demonic-city-builder-litrpg-city-kingdom-building",
   ownLength: 2169,
   prose: "txt",
+  createdAt: "2026-09-10T03:04:26.711Z",
+  updatedAt: "2026-09-19T18:25:57.000Z",
 } as const satisfies StoryChapterRead

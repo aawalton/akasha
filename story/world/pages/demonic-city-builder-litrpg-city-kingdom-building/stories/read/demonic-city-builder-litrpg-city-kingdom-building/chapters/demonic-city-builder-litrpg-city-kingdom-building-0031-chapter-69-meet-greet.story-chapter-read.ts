@@ -19,4 +19,6 @@ export const demonicCityBuilderLitrpgCityKingdomBuilding0031Chapter69MeetGreet =
   story: "story-read/demonic-city-builder-litrpg-city-kingdom-building",
   ownLength: 2610,
   prose: "txt",
+  createdAt: "2026-09-15T04:04:51.215Z",
+  updatedAt: "2026-09-19T18:25:57.000Z",
 } as const satisfies StoryChapterRead

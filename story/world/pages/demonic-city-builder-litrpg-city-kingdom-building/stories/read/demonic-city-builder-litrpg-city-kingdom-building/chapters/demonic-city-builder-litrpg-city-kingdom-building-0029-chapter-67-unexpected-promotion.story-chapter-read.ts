@@ -19,4 +19,6 @@ export const demonicCityBuilderLitrpgCityKingdomBuilding0029Chapter67UnexpectedP
   story: "story-read/demonic-city-builder-litrpg-city-kingdom-building",
   ownLength: 2016,
   prose: "txt",
+  createdAt: "2026-09-11T22:07:08.974Z",
+  updatedAt: "2026-09-19T18:25:57.000Z",
 } as const satisfies StoryChapterRead

@@ -19,4 +19,6 @@ export const defianceOfTheFall0141Chapter1460Broken = {
   story: "story-read/defiance-of-the-fall",
   ownLength: 3033,
   prose: "txt",
+  createdAt: "2026-09-15T18:07:54.424Z",
+  updatedAt: "2026-09-19T18:25:57.000Z",
 } as const satisfies StoryChapterRead

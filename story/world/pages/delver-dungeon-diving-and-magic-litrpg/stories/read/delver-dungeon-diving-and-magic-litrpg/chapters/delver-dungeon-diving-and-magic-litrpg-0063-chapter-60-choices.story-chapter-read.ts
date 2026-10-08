@@ -19,4 +19,6 @@ export const delverDungeonDivingAndMagicLitrpg0063Chapter60Choices = {
   story: "story-read/delver-dungeon-diving-and-magic-litrpg",
   ownLength: 2167,
   prose: "txt",
+  createdAt: "2026-09-18T20:07:19.082Z",
+  updatedAt: "2026-09-19T18:25:57.000Z",
 } as const satisfies StoryChapterRead

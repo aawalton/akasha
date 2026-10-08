@@ -19,4 +19,6 @@ export const demonicCityBuilderLitrpgCityKingdomBuilding0026Chapter64Comprehensi
   title: "Chapter 64 - Comprehension",
   ownLength: 3858,
   prose: "txt",
+  createdAt: "2026-09-08T03:04:09.440Z",
+  updatedAt: "2026-09-19T18:25:57.000Z",
 } as const satisfies StoryChapterRead

@@ -20,4 +20,6 @@ export const crimsonEternalAnImmortalDeathMageLitrpg0352B5Chapter44 = {
     },
   ],
   prose: "txt",
+  createdAt: "2026-09-03T12:09:52.510Z",
+  updatedAt: "2026-09-28T20:27:12.000Z",
 } as const satisfies StoryChapterRead

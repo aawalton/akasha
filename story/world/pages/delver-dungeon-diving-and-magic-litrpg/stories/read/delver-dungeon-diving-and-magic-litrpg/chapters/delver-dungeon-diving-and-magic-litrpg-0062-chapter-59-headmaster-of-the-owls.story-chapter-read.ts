@@ -19,4 +19,6 @@ export const delverDungeonDivingAndMagicLitrpg0062Chapter59HeadmasterOfTheOwls =
   story: "story-read/delver-dungeon-diving-and-magic-litrpg",
   ownLength: 2266,
   prose: "txt",
+  createdAt: "2026-09-15T20:07:08.228Z",
+  updatedAt: "2026-09-19T18:25:57.000Z",
 } as const satisfies StoryChapterRead
