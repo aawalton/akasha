@@ -9,4 +9,6 @@ export const longRangeTeleport = {
   appearanceCount: 5,
   aliases: ["Long-Range Teleport"],
   references: "jsonl",
+  createdAt: "2026-09-03T04:06:43.408Z",
+  updatedAt: "2026-09-22T13:34:41.000Z",
 } as const satisfies WorldSpell

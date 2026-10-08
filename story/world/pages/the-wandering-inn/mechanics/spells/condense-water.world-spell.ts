@@ -6,4 +6,6 @@ export const condenseWater = {
   slug: "condense-water",
   title: "Condense Water",
   world: "world/the-wandering-inn",
+  createdAt: "2026-09-03T04:06:43.385Z",
+  updatedAt: "2026-09-19T16:21:41.000Z",
 } as const satisfies WorldSpell

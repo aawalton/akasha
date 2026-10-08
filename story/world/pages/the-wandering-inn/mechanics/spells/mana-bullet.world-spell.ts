@@ -9,4 +9,6 @@ export const manaBullet = {
   appearanceCount: 1,
   evolvesFromSlugs: ["world-spell/mana-arrow"],
   references: "jsonl",
+  createdAt: "2026-09-03T04:06:43.409Z",
+  updatedAt: "2026-09-22T18:27:39.000Z",
 } as const satisfies WorldSpell

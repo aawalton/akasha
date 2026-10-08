@@ -8,4 +8,6 @@ export const gazelleSDexterity = {
   world: "world/the-wandering-inn",
   appearanceCount: 2,
   references: "jsonl",
+  createdAt: "2026-09-03T04:06:43.398Z",
+  updatedAt: "2026-09-22T13:34:32.000Z",
 } as const satisfies WorldSpell

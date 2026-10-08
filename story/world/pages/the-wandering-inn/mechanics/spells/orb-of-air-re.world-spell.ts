@@ -6,4 +6,6 @@ export const orbOfAirRe = {
   slug: "orb-of-air-re",
   title: "Orb of Air Re",
   world: "world/the-wandering-inn",
+  createdAt: "2026-09-03T04:06:43.418Z",
+  updatedAt: "2026-09-19T16:23:35.000Z",
 } as const satisfies WorldSpell

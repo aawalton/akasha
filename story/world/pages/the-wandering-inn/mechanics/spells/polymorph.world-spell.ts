@@ -8,4 +8,6 @@ export const polymorph = {
   world: "world/the-wandering-inn",
   appearanceCount: 8,
   references: "jsonl",
+  createdAt: "2026-09-03T04:06:43.419Z",
+  updatedAt: "2026-09-22T13:34:49.000Z",
 } as const satisfies WorldSpell

@@ -8,4 +8,6 @@ export const fireball = {
   world: "world/the-wandering-inn",
   appearanceCount: 221,
   references: "jsonl",
+  createdAt: "2026-09-03T04:06:43.394Z",
+  updatedAt: "2026-09-22T13:34:32.000Z",
 } as const satisfies WorldSpell

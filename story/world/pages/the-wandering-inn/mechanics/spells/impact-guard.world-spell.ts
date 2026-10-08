@@ -6,4 +6,6 @@ export const impactGuard = {
   slug: "impact-guard",
   title: "Impact Guard",
   world: "world/the-wandering-inn",
+  createdAt: "2026-09-03T04:06:43.403Z",
+  updatedAt: "2026-09-19T16:22:55.000Z",
 } as const satisfies WorldSpell

@@ -8,4 +8,6 @@ export const detectLie = {
   world: "world/the-wandering-inn",
   appearanceCount: 4,
   references: "jsonl",
+  createdAt: "2026-09-03T04:06:43.388Z",
+  updatedAt: "2026-09-22T13:34:24.000Z",
 } as const satisfies WorldSpell
