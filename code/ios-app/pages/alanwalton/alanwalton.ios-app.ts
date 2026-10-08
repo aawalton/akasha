@@ -80,7 +80,8 @@ export const alanwalton = {
     "shell-script/alanwalton-handover-sign-in",
     "shell-script/alanwalton-widget-tap-intent",
     "shell-script/alanwalton-now-playing-commands",
+    "shell-script/alanwalton-last-place",
   ],
-  updatedAt: "2026-10-08T15:57:57.870Z",
+  updatedAt: "2026-10-08T16:39:14.315Z",
   createdAt: "2026-08-31T14:02:55.139Z",
 } as const satisfies IosApp
