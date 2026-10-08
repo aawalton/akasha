@@ -1,5 +1,6 @@
 import { describe, expect, test } from "bun:test"
 import {
+  activeOnly,
   assembleForest,
   countRows,
   countRunning,
@@ -291,5 +292,85 @@ describe("the seats a section's stop reaches", () => {
     )
     expect(drawn.map(sectionContextValue)).toEqual(["section.running", "section.running"])
     expect(stoppedOnly.map(sectionContextValue)).toEqual(["section"])
+  })
+})
+
+describe("the seats drawn while only the active ones are shown", () => {
+  const colored = (
+    id: string,
+    name: string,
+    color: string | null,
+    role: string | null,
+    assignment: string | null,
+    parent: string | null = null
+  ) => ({
+    ...row(id, name, parent, parent === null ? "alan" : null),
+    color,
+    role,
+    assignment,
+  })
+
+  const drawnOf = (
+    rows: ReturnType<typeof colored>[],
+    subagents: ReadonlyMap<string, readonly ReturnType<typeof subagent>[]> = NO_SUBAGENTS
+  ) =>
+    activeOnly(
+      sectionForest(
+        assembleForest(rows, live(...rows.map((one) => one.id)), subagents, NO_PLACES),
+        rows
+      )
+    )
+
+  const labels = (rows: readonly { label: string; children: readonly unknown[] }[]) =>
+    rows.map((one) => one.label)
+
+  test("a seat coloured blue, green or purple is shown and any other is not", () => {
+    const drawn = drawnOf([
+      colored("b", "blue-seat", "blue", "definer", null),
+      colored("g", "green-seat", "green", "definer", null),
+      colored("p", "purple-seat", "purple", "definer", null),
+      colored("y", "yellow-seat", "yellow", "definer", null),
+      colored("r", "red-seat", "red", "definer", null),
+      colored("t", "text-seat", "text", "definer", null),
+      colored("n", "no-color", null, "definer", null),
+    ])
+    expect(labels(drawn)).toEqual(["personas"])
+    expect(labels(drawn[0]?.children ?? [])).toEqual(["blue-seat", "green-seat", "purple-seat"])
+  })
+
+  test("a section left with no seat is not drawn", () => {
+    const drawn = drawnOf([
+      colored("a", "amy", "green", "definer", null),
+      colored("h", "alan", "yellow", "handler", "domain/work-handled"),
+    ])
+    expect(labels(drawn)).toEqual(["personas"])
+  })
+
+  test("a shown seat keeps its subagents", () => {
+    const drawn = drawnOf(
+      [colored("a", "amy", "blue", "definer", null)],
+      new Map([["a", [subagent("t1", "writing", [], "ag1")]]])
+    )
+    expect(labels(drawn[0]?.children[0]?.children ?? [])).toEqual(["writing"])
+  })
+
+  test("a seat that is not active is shown where an active seat hangs under it", () => {
+    const drawn = drawnOf([
+      colored("g", "mari-gm", "yellow", "game-master", "story-played/game-alpha"),
+      colored("s", "scribe", "green", "worker", null, "g"),
+      colored("q", "quiet", "red", "worker", null, "g"),
+    ])
+    expect(labels(drawn)).toEqual(["game-alpha"])
+    const parent = drawn[0]?.children[0]
+    expect(parent?.label).toBe("mari-gm")
+    expect(labels(parent?.children ?? [])).toEqual(["scribe"])
+  })
+
+  test("a seat that is not active and holds no active seat is not shown with its children", () => {
+    const drawn = drawnOf([
+      colored("g", "mari-gm", "yellow", "game-master", "story-played/game-alpha"),
+      colored("q", "quiet", "red", "worker", null, "g"),
+    ])
+    expect(drawn).toEqual([])
   })
 })

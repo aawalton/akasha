@@ -199,3 +199,17 @@ export function sectionStopTargets(
 export function sectionContextValue(section: AgentTreeRow): string {
   return runningSeatsUnder(section).length === 0 ? "section" : "section.running"
 }
+
+const ACTIVE_COLORS: ReadonlySet<string> = new Set(["blue", "green", "purple"])
+
+function keptActive(row: AgentTreeRow): readonly AgentTreeRow[] {
+  if (row.kind === "subagent") return [row]
+  const children = row.children.flatMap(keptActive)
+  const holdsSeat = children.some((child) => child.kind === "seat")
+  const active = row.kind === "seat" && row.color !== null && ACTIVE_COLORS.has(row.color)
+  return active || holdsSeat ? [{ ...row, children }] : []
+}
+
+export function activeOnly(roots: readonly AgentTreeRow[]): readonly AgentTreeRow[] {
+  return roots.flatMap(keptActive)
+}

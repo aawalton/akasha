@@ -106,8 +106,27 @@ export const agentForest = {
       statement: "A section offers a stop only while a seat under that section runs.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "Showing only the active seats shows a seat whose working color is blue, green or purple.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A seat not active is shown where an active seat hangs under it, so that seat keeps its place.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A seat shown keeps its subagents.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A section left with no seat shown is not drawn.",
+    },
+    {
       decisionKind: "decision-kind/absence",
       statement: "Nothing here asks the harness anything.",
     },
   ],
+  updatedAt: "2026-10-08T15:37:40.433Z",
 } as const satisfies Module
