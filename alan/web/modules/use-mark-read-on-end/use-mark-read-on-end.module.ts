@@ -20,4 +20,6 @@ export const useMarkReadOnEnd = {
       statement: "A completion made with no network is not kept.",
     },
   ],
+  createdAt: "2026-09-03T03:44:04.793Z",
+  updatedAt: "2026-09-28T22:25:20.000Z",
 } as const satisfies Module

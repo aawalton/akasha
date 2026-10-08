@@ -12,4 +12,6 @@ export const navActive = {
       statement: "A nav item matches a path at a boundary between segments and nowhere else.",
     },
   ],
+  createdAt: "2026-09-01T05:47:57.210Z",
+  updatedAt: "2026-09-22T00:40:32.000Z",
 } as const satisfies Module

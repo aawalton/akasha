@@ -6,4 +6,6 @@ export const narrowError = {
   slug: "narrow-error",
   definition: "the error a narrowing throws when what it was given is not what it needs",
   code: "ts",
+  createdAt: "2026-09-01T10:46:49.600Z",
+  updatedAt: "2026-09-15T19:48:30.000Z",
 } as const satisfies Module

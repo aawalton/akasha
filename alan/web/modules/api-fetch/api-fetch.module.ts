@@ -16,4 +16,6 @@ export const apiFetch = {
       statement: "No bearer token is put on a call from the native shell.",
     },
   ],
+  createdAt: "2026-09-02T20:21:53.279Z",
+  updatedAt: "2026-09-20T23:57:51.000Z",
 } as const satisfies Module

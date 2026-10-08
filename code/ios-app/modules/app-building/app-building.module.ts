@@ -58,4 +58,6 @@ export const appBuilding = {
       statement: "The akasha manifest is read from those pages too.",
     },
   ],
+  createdAt: "2026-08-31T21:27:19.124Z",
+  updatedAt: "2026-09-25T18:34:13.000Z",
 } as const satisfies Module

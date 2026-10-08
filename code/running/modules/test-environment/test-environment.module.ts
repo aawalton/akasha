@@ -33,4 +33,6 @@ export const testEnvironment = {
       statement: "The roots, the mark and the overlay lane's variables are added by the run.",
     },
   ],
+  createdAt: "2026-09-25T16:48:41.987Z",
+  updatedAt: "2026-09-25T16:49:41.000Z",
 } as const satisfies Module

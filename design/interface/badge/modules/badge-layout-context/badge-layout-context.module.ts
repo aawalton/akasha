@@ -16,4 +16,6 @@ export const badgeLayoutContext = {
       statement: "A badge whose color names a category keeps its pill in a bare layout.",
     },
   ],
+  createdAt: "2026-09-01T04:58:54.649Z",
+  updatedAt: "2026-09-24T20:01:31.000Z",
 } as const satisfies Module

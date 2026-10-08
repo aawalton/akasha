@@ -106,4 +106,6 @@ export const commitReading = {
       statement: "The commit is named by the caller asking.",
     },
   ],
+  createdAt: "2026-08-30T10:37:39.272Z",
+  updatedAt: "2026-09-27T14:40:32.000Z",
 } as const satisfies Module

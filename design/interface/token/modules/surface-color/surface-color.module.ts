@@ -12,4 +12,6 @@ export const surfaceColor = {
       statement: "A surface lightens as that surface comes nearer the reader.",
     },
   ],
+  createdAt: "2026-09-22T16:53:12.139Z",
+  updatedAt: "2026-09-22T16:53:33.000Z",
 } as const satisfies Module

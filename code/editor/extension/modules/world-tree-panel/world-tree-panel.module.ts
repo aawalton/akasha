@@ -28,4 +28,6 @@ export const worldTreePanel = {
       statement: "The panel has no refresh, since the file is followed.",
     },
   ],
+  createdAt: "2026-09-26T14:11:23.671Z",
+  updatedAt: "2026-09-26T14:11:35.000Z",
 } as const satisfies Module

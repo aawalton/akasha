@@ -40,4 +40,6 @@ export const turnJobHanding = {
         "A job that is neither sent, resumed nor started is told as a seat that did not start.",
     },
   ],
+  createdAt: "2026-10-04T00:22:33.298Z",
+  updatedAt: "2026-10-04T00:22:44.000Z",
 } as const satisfies Module

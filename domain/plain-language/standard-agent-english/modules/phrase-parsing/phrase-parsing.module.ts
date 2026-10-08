@@ -50,4 +50,6 @@ export const phraseParsing = {
       statement: "An item no spelling names is named once, however many times the phrase says it.",
     },
   ],
+  createdAt: "2026-09-21T20:20:48.991Z",
+  updatedAt: "2026-09-25T17:42:03.000Z",
 } as const satisfies Module

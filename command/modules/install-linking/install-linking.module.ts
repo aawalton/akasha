@@ -109,4 +109,6 @@ export const installLinking = {
         "A placing outside the home is made by `akasha infrastructure provisioned-file-install`.",
     },
   ],
+  createdAt: "2026-09-11T21:02:55.770Z",
+  updatedAt: "2026-09-25T14:42:53.000Z",
 } as const satisfies Module

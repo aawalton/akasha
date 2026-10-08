@@ -6,4 +6,6 @@ export const isObjectRecord = {
   slug: "is-object-record",
   definition: "whether a value is an object that is not null",
   code: "ts",
+  createdAt: "2026-09-01T10:46:49.599Z",
+  updatedAt: "2026-09-15T19:48:30.000Z",
 } as const satisfies Module

@@ -37,4 +37,6 @@ export const measureTabling = {
       statement: "Nothing here reads a page or works a total out.",
     },
   ],
+  createdAt: "2026-09-11T01:33:27.728Z",
+  updatedAt: "2026-09-22T10:19:56.000Z",
 } as const satisfies Module

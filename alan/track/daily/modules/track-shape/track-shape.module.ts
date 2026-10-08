@@ -20,4 +20,6 @@ export const trackShape = {
       statement: "Nothing here names what a day keeps beside its page.",
     },
   ],
+  createdAt: "2026-09-04T00:35:40.727Z",
+  updatedAt: "2026-09-22T13:54:48.000Z",
 } as const satisfies Module

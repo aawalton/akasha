@@ -177,4 +177,6 @@ export const graphPredicateClosure = {
       statement: "What a node reaches is read off the closure's edges, and holds that node.",
     },
   ],
+  createdAt: "2026-09-15T16:38:23.115Z",
+  updatedAt: "2026-09-24T22:52:06.000Z",
 } as const satisfies Module

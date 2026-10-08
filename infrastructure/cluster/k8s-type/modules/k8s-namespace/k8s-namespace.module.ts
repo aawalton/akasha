@@ -16,4 +16,6 @@ export const k8sNamespace = {
       statement: "Nothing here names a namespace of its own.",
     },
   ],
+  createdAt: "2026-09-07T15:06:25.700Z",
+  updatedAt: "2026-09-15T18:34:44.000Z",
 } as const satisfies Module

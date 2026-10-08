@@ -20,4 +20,6 @@ export const stringsIn = {
       statement: "An empty string is an entry rather than read as nothing.",
     },
   ],
+  createdAt: "2026-09-11T13:11:41.772Z",
+  updatedAt: "2026-09-15T19:48:30.000Z",
 } as const satisfies Module

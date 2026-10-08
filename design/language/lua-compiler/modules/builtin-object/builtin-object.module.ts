@@ -6,4 +6,6 @@ export const builtinObject = {
   slug: "builtin-object",
   definition: "the Lua an Object built-in call becomes",
   code: "ts",
+  createdAt: "2026-09-03T12:57:32.110Z",
+  updatedAt: "2026-09-15T18:34:11.000Z",
 } as const satisfies Module

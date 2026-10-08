@@ -6,4 +6,6 @@ export const iconPicker = {
   slug: "icon-picker",
   definition: "the paged grid choosing an icon by name",
   code: "tsx",
+  createdAt: "2026-09-01T10:00:29.538Z",
+  updatedAt: "2026-09-15T18:33:51.000Z",
 } as const satisfies Module

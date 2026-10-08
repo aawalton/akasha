@@ -40,4 +40,6 @@ export const settleSeeding = {
       statement: "Each ingredient of a seed is read from what the repository records.",
     },
   ],
+  createdAt: "2026-09-29T03:37:07.873Z",
+  updatedAt: "2026-10-06T11:37:01.000Z",
 } as const satisfies Module

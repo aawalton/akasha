@@ -6,4 +6,6 @@ export const separator = {
   slug: "separator",
   definition: "the thin rule between two parts of a surface",
   code: "tsx",
+  createdAt: "2026-09-01T07:40:46.148Z",
+  updatedAt: "2026-09-15T18:34:11.000Z",
 } as const satisfies Module

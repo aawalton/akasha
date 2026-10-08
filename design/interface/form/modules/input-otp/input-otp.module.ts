@@ -6,4 +6,6 @@ export const inputOtp = {
   slug: "input-otp",
   definition: "the slots taking a one-time code",
   code: "tsx",
+  createdAt: "2026-09-01T05:43:25.850Z",
+  updatedAt: "2026-09-22T13:43:11.000Z",
 } as const satisfies Module

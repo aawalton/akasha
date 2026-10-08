@@ -6,4 +6,6 @@ export const trackResolve = {
   slug: "track-resolve",
   definition: "settling which day a caller meant, and creating that day when there is none",
   code: "ts",
+  createdAt: "2026-09-04T00:30:53.341Z",
+  updatedAt: "2026-09-15T18:21:01.000Z",
 } as const satisfies Module

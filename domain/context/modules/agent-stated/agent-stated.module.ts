@@ -54,4 +54,6 @@ export const agentStated = {
       statement: "Nothing here reads the index.",
     },
   ],
+  createdAt: "2026-08-31T14:13:18.447Z",
+  updatedAt: "2026-10-06T14:43:17.000Z",
 } as const satisfies Module

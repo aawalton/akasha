@@ -32,4 +32,6 @@ export const turnLoreGathered = {
       statement: "A lore page of a world the turn is not of is never named.",
     },
   ],
+  createdAt: "2026-09-29T01:58:33.975Z",
+  updatedAt: "2026-09-29T01:58:40.000Z",
 } as const satisfies Module

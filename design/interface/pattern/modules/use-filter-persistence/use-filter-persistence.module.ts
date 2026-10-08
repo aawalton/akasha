@@ -6,4 +6,6 @@ export const useFilterPersistence = {
   slug: "use-filter-persistence",
   definition: "filter values kept in the url and in storage",
   code: "ts",
+  createdAt: "2026-09-01T10:00:29.542Z",
+  updatedAt: "2026-09-15T18:33:51.000Z",
 } as const satisfies Module

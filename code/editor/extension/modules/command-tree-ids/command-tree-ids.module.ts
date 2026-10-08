@@ -24,4 +24,6 @@ export const commandTreeIds = {
       statement: "Nothing here names a row of the command tree.",
     },
   ],
+  createdAt: "2026-09-07T15:53:50.734Z",
+  updatedAt: "2026-09-22T13:48:15.000Z",
 } as const satisfies Module

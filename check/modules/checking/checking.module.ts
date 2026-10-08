@@ -353,4 +353,6 @@ export const checking = {
         "A check page stating a phase with no code beside that page is gathered as a check that refuses.",
     },
   ],
+  createdAt: "2026-08-29T04:26:03.782Z",
+  updatedAt: "2026-09-25T14:40:06.000Z",
 } as const satisfies Module

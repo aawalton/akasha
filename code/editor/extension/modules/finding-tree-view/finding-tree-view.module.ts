@@ -52,4 +52,6 @@ export const findingTreeView = {
       statement: "Nothing here makes the view these rows are drawn in.",
     },
   ],
+  createdAt: "2026-09-19T01:06:12.918Z",
+  updatedAt: "2026-09-19T01:21:50.000Z",
 } as const satisfies Module

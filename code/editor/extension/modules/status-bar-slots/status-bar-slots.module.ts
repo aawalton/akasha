@@ -61,4 +61,6 @@ export const statusBarSlots = {
       statement: "The workstation figures are drawn before the usage figures.",
     },
   ],
+  createdAt: "2026-09-03T03:41:42.338Z",
+  updatedAt: "2026-09-25T17:44:41.000Z",
 } as const satisfies Module

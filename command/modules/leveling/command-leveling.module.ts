@@ -53,4 +53,6 @@ export const commandLeveling = {
       statement: "Nothing here joins words into a slug.",
     },
   ],
+  createdAt: "2026-09-12T07:10:44.728Z",
+  updatedAt: "2026-09-15T18:33:01.000Z",
 } as const satisfies Module

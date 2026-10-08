@@ -6,4 +6,6 @@ export const typography = {
   slug: "typography",
   definition: "the panel showing type's faces, sizes and weights",
   code: "tsx",
+  createdAt: "2026-09-01T10:48:05.960Z",
+  updatedAt: "2026-09-22T13:48:12.000Z",
 } as const satisfies Module

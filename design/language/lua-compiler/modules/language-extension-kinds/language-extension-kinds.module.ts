@@ -6,4 +6,6 @@ export const languageExtensionKinds = {
   slug: "language-extension-kinds",
   definition: "the language extension kind a type is marked with, and its call arguments",
   code: "ts",
+  createdAt: "2026-09-03T12:57:32.026Z",
+  updatedAt: "2026-09-15T18:34:11.000Z",
 } as const satisfies Module

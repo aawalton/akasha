@@ -6,4 +6,6 @@ export const pageLayout = {
   slug: "page-layout",
   definition: "the header, tabs and content drawing a page",
   code: "tsx",
+  createdAt: "2026-09-01T05:47:57.209Z",
+  updatedAt: "2026-09-22T13:55:14.000Z",
 } as const satisfies Module

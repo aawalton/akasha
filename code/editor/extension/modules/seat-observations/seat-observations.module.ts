@@ -33,4 +33,6 @@ export const seatObservations = {
       statement: "Nothing here knows which window wrote a reading.",
     },
   ],
+  createdAt: "2026-09-03T16:15:13.178Z",
+  updatedAt: "2026-09-15T18:33:01.000Z",
 } as const satisfies Module

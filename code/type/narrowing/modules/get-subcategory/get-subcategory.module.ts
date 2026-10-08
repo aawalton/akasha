@@ -6,4 +6,6 @@ export const getSubcategory = {
   slug: "get-subcategory",
   definition: "the entry a data file holds under a subcategory",
   code: "ts",
+  createdAt: "2026-09-01T10:46:49.598Z",
+  updatedAt: "2026-09-22T10:06:53.000Z",
 } as const satisfies Module

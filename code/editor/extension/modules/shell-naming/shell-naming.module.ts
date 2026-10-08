@@ -30,4 +30,6 @@ export const shellNaming = {
       statement: "No child process is started here.",
     },
   ],
+  createdAt: "2026-09-05T18:15:22.559Z",
+  updatedAt: "2026-09-15T18:33:01.000Z",
 } as const satisfies Module

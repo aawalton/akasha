@@ -32,4 +32,6 @@ export const utf8Body = {
       statement: "Nothing here knows which file the bytes came from or the meaning of the text.",
     },
   ],
+  createdAt: "2026-09-03T03:32:56.885Z",
+  updatedAt: "2026-09-15T18:33:01.000Z",
 } as const satisfies Module

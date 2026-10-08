@@ -90,4 +90,6 @@ export const commitAttribution = {
       statement: "A subagent states no session and is answered from the seat that ran it.",
     },
   ],
+  createdAt: "2026-09-13T18:38:46.729Z",
+  updatedAt: "2026-09-25T15:56:56.000Z",
 } as const satisfies Module

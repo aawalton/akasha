@@ -132,4 +132,6 @@ export const importLines = {
         "Names taken from one path are written as one line, and a namespace name as a line of its own.",
     },
   ],
+  createdAt: "2026-09-10T19:45:05.679Z",
+  updatedAt: "2026-09-15T18:21:01.000Z",
 } as const satisfies Module

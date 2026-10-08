@@ -37,4 +37,6 @@ export const waking = {
       statement: "Nothing here reads a checkout.",
     },
   ],
+  createdAt: "2026-09-04T12:02:00.817Z",
+  updatedAt: "2026-09-30T09:54:28.000Z",
 } as const satisfies Module

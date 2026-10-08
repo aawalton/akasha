@@ -39,4 +39,6 @@ export const ambientReaching = {
         "Every declaration declaring a name reached is answered, and what it reaches in turn.",
     },
   ],
+  createdAt: "2026-09-24T23:31:50.910Z",
+  updatedAt: "2026-09-25T00:27:37.000Z",
 } as const satisfies Module

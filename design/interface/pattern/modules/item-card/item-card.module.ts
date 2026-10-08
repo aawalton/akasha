@@ -6,4 +6,6 @@ export const itemCard = {
   slug: "item-card",
   definition: "a card representing an item in a grid",
   code: "tsx",
+  createdAt: "2026-09-01T10:00:29.538Z",
+  updatedAt: "2026-09-22T10:08:24.000Z",
 } as const satisfies Module

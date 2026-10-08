@@ -6,4 +6,6 @@ export const useSetToggle = {
   slug: "use-set-toggle",
   definition: "a set of strings one click grows or shrinks",
   code: "ts",
+  createdAt: "2026-09-01T10:00:29.542Z",
+  updatedAt: "2026-09-22T13:51:13.000Z",
 } as const satisfies Module

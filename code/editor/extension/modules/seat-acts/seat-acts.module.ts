@@ -62,4 +62,6 @@ export const seatActs = {
         "A seat Alan restarts from a panel is restarted rather than refused for being busy.",
     },
   ],
+  createdAt: "2026-09-03T17:58:07.081Z",
+  updatedAt: "2026-09-21T13:50:18.000Z",
 } as const satisfies Module

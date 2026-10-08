@@ -6,4 +6,6 @@ export const useKeyboardRegistry = {
   slug: "use-keyboard-registry",
   definition: "binding a key to an action and reading every binding there is",
   code: "ts",
+  createdAt: "2026-09-01T07:40:46.150Z",
+  updatedAt: "2026-09-15T18:34:11.000Z",
 } as const satisfies Module

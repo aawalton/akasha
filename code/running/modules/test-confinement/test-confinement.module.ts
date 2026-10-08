@@ -77,4 +77,6 @@ export const testConfinement = {
       statement: "Nothing here chooses which variables a test run is handed.",
     },
   ],
+  createdAt: "2026-09-25T17:23:38.385Z",
+  updatedAt: "2026-09-25T17:42:27.000Z",
 } as const satisfies Module

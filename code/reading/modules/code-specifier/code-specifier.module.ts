@@ -183,4 +183,6 @@ export const codeSpecifier = {
       statement: "A naming inside a call is deferred, and every other naming is not.",
     },
   ],
+  createdAt: "2026-08-29T17:53:28.298Z",
+  updatedAt: "2026-09-22T20:02:27.000Z",
 } as const satisfies Module

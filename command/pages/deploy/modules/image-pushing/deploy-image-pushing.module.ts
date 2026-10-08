@@ -37,4 +37,6 @@ export const deployImagePushing = {
       statement: "That line says it was built and pushed, or that the registry holds it.",
     },
   ],
+  createdAt: "2026-09-11T00:53:37.244Z",
+  updatedAt: "2026-09-19T18:13:56.000Z",
 } as const satisfies Module

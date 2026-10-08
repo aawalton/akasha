@@ -6,4 +6,6 @@ export const shortcutSurfaces = {
   slug: "shortcut-surfaces",
   definition: "key bindings sorted into layers and groups for showing",
   code: "ts",
+  createdAt: "2026-09-01T07:40:46.151Z",
+  updatedAt: "2026-09-15T18:34:11.000Z",
 } as const satisfies Module

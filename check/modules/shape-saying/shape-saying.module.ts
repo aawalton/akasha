@@ -24,4 +24,6 @@ export const shapeSaying = {
       statement: "A file arrives as a path or as a page the index knows.",
     },
   ],
+  createdAt: "2026-08-29T20:44:40.411Z",
+  updatedAt: "2026-09-15T18:21:01.000Z",
 } as const satisfies Module

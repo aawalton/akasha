@@ -28,4 +28,6 @@ export const liveGatewaySeat = {
       statement: "Nothing here writes.",
     },
   ],
+  createdAt: "2026-09-07T13:28:21.829Z",
+  updatedAt: "2026-09-25T14:11:34.000Z",
 } as const satisfies Module

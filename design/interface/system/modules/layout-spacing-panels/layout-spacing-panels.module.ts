@@ -6,4 +6,6 @@ export const layoutSpacingPanels = {
   slug: "layout-spacing-panels",
   definition: "the panel showing that a parent writes the space around its children",
   code: "tsx",
+  createdAt: "2026-09-10T15:04:00.811Z",
+  updatedAt: "2026-09-15T18:34:11.000Z",
 } as const satisfies Module

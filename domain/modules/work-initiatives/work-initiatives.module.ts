@@ -89,4 +89,6 @@ export const workInitiatives = {
       statement: "Every initiative answered is an initiative the index named first.",
     },
   ],
+  createdAt: "2026-08-29T17:44:15.986Z",
+  updatedAt: "2026-09-26T14:06:24.000Z",
 } as const satisfies Module

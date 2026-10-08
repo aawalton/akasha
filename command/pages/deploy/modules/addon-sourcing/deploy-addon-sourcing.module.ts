@@ -36,4 +36,6 @@ export const deployAddonSourcing = {
       statement: "The hash changes where any of those files changes and nowhere else.",
     },
   ],
+  createdAt: "2026-09-25T16:35:32.385Z",
+  updatedAt: "2026-09-25T16:36:06.000Z",
 } as const satisfies Module

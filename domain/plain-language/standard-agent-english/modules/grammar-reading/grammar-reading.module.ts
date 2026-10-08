@@ -40,4 +40,6 @@ export const grammarReading = {
         "The rules and the words are also read from pages handed in, as a reader holding them does.",
     },
   ],
+  createdAt: "2026-09-25T17:38:57.015Z",
+  updatedAt: "2026-09-25T18:04:26.000Z",
 } as const satisfies Module

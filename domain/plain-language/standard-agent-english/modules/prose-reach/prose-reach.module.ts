@@ -37,4 +37,6 @@ export const proseReach = {
       statement: "Nothing here reads a page.",
     },
   ],
+  createdAt: "2026-09-08T18:15:16.403Z",
+  updatedAt: "2026-09-25T15:41:48.000Z",
 } as const satisfies Module

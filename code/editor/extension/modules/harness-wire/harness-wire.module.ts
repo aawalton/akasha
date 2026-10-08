@@ -28,4 +28,6 @@ export const harnessWire = {
       statement: "A stated lease that is not a positive number is the default.",
     },
   ],
+  createdAt: "2026-09-10T14:00:02.320Z",
+  updatedAt: "2026-09-15T18:33:01.000Z",
 } as const satisfies Module

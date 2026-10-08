@@ -48,4 +48,6 @@ export const refusalTreeView = {
       statement: "Nothing here makes the view these rows are drawn in.",
     },
   ],
+  createdAt: "2026-09-25T16:01:13.374Z",
+  updatedAt: "2026-09-25T16:01:30.000Z",
 } as const satisfies Module

@@ -6,4 +6,6 @@ export const cliReport = {
   slug: "cli-report",
   definition: "a diagnostic reporter marking the compiler's own diagnostics with the code TL",
   code: "ts",
+  createdAt: "2026-09-03T12:57:32.006Z",
+  updatedAt: "2026-09-15T18:34:11.000Z",
 } as const satisfies Module

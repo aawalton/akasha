@@ -28,4 +28,6 @@ export const readoutGuarding = {
     },
   ],
   code: "ts",
+  createdAt: "2026-09-03T03:45:08.506Z",
+  updatedAt: "2026-09-20T23:44:02.000Z",
 } as const satisfies Module

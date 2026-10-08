@@ -40,4 +40,6 @@ export const championsTree = {
         "A child's number is its place among the children rather than its place in the sequence.",
     },
   ],
+  createdAt: "2026-09-03T04:26:24.627Z",
+  updatedAt: "2026-09-15T18:33:01.000Z",
 } as const satisfies Module

@@ -33,4 +33,6 @@ export const bodyOwing = {
       statement: "Nothing here reads or writes a page.",
     },
   ],
+  createdAt: "2026-09-12T09:01:58.190Z",
+  updatedAt: "2026-09-22T13:59:52.000Z",
 } as const satisfies Module

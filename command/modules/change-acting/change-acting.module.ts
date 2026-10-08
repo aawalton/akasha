@@ -217,4 +217,6 @@ export const changeActing = {
       statement: "A throw that no edit kept accounts for is said as it was thrown.",
     },
   ],
+  createdAt: "2026-09-07T14:59:55.121Z",
+  updatedAt: "2026-09-24T14:59:15.000Z",
 } as const satisfies Module

@@ -47,4 +47,6 @@ export const runCeiling = {
       statement: "Nothing here runs a check, measures a run or stops one part way through.",
     },
   ],
+  createdAt: "2026-09-19T04:11:52.456Z",
+  updatedAt: "2026-09-21T19:36:43.000Z",
 } as const satisfies Module

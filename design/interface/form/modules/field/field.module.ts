@@ -6,4 +6,6 @@ export const field = {
   slug: "field",
   definition: "a labelled control's parts",
   code: "tsx",
+  createdAt: "2026-09-01T05:43:25.850Z",
+  updatedAt: "2026-09-22T14:07:45.000Z",
 } as const satisfies Module

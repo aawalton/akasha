@@ -6,4 +6,6 @@ export const apiOrigin = {
   slug: "api-origin",
   definition: "the origin this site's api is reached at from the native shell",
   code: "ts",
+  createdAt: "2026-09-02T20:21:53.279Z",
+  updatedAt: "2026-09-15T18:21:01.000Z",
 } as const satisfies Module

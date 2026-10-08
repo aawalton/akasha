@@ -6,4 +6,6 @@ export const useDebouncedValue = {
   slug: "use-debounced-value",
   definition: "a value handed on only once it has stopped changing",
   code: "ts",
+  createdAt: "2026-09-01T07:40:46.150Z",
+  updatedAt: "2026-09-15T18:34:11.000Z",
 } as const satisfies Module

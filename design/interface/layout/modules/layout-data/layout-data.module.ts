@@ -6,4 +6,6 @@ export const layoutData = {
   slug: "layout-data",
   definition: "the width, gap and padding a column of panels is drawn to",
   code: "ts",
+  createdAt: "2026-09-01T05:47:57.208Z",
+  updatedAt: "2026-09-15T18:33:51.000Z",
 } as const satisfies Module

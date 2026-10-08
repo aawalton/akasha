@@ -6,4 +6,6 @@ export const visitDestructuringAssignments = {
   slug: "visit-destructuring-assignments",
   definition: "the Lua an array or object destructuring assignment becomes",
   code: "ts",
+  createdAt: "2026-09-03T12:57:32.061Z",
+  updatedAt: "2026-09-15T18:34:11.000Z",
 } as const satisfies Module

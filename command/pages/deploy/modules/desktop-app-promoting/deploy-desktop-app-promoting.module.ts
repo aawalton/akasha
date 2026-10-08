@@ -42,4 +42,6 @@ export const deployDesktopAppPromoting = {
       statement: "The running of the script is handed in.",
     },
   ],
+  createdAt: "2026-09-27T15:39:00.787Z",
+  updatedAt: "2026-09-27T15:39:11.000Z",
 } as const satisfies Module

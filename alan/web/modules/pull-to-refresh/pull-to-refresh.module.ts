@@ -6,4 +6,6 @@ export const pullToRefresh = {
   slug: "pull-to-refresh",
   definition: "the gesture reloading what is on screen by dragging it down",
   code: "tsx",
+  createdAt: "2026-09-03T03:44:04.793Z",
+  updatedAt: "2026-09-15T18:21:01.000Z",
 } as const satisfies Module

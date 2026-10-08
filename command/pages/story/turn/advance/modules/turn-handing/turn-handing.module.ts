@@ -47,4 +47,6 @@ export const turnHanding = {
       statement: "A title's slug drops its apostrophes, so a possessive stays one word.",
     },
   ],
+  createdAt: "2026-09-28T18:31:36.830Z",
+  updatedAt: "2026-10-07T00:35:06.000Z",
 } as const satisfies Module

@@ -6,4 +6,6 @@ export const skeleton = {
   slug: "skeleton",
   definition: "the grey block sitting where content has not arrived",
   code: "tsx",
+  createdAt: "2026-09-01T07:40:46.148Z",
+  updatedAt: "2026-09-15T18:34:11.000Z",
 } as const satisfies Module

@@ -45,4 +45,6 @@ export const codeExportRepointing = {
       statement: "Nothing here writes a body.",
     },
   ],
+  createdAt: "2026-09-19T02:53:26.649Z",
+  updatedAt: "2026-09-25T13:39:33.000Z",
 } as const satisfies Module

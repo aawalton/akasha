@@ -6,4 +6,6 @@ export const transpileTranspiler = {
   slug: "transpile-transpiler",
   definition: "the emit run of a program, from plugin loading to written files",
   code: "ts",
+  createdAt: "2026-09-03T12:57:32.123Z",
+  updatedAt: "2026-09-22T10:11:20.000Z",
 } as const satisfies Module

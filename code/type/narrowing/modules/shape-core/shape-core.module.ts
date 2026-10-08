@@ -6,4 +6,6 @@ export const shapeCore = {
   slug: "shape-core",
   definition: "what a shape is: how it runs over a value, and how it says no",
   code: "ts",
+  createdAt: "2026-09-03T23:03:18.159Z",
+  updatedAt: "2026-09-15T19:48:30.000Z",
 } as const satisfies Module

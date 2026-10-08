@@ -49,4 +49,6 @@ export const gitPathspec = {
         "A path git tracks that a pattern covers is a fault of the patterns rather than a path held back.",
     },
   ],
+  createdAt: "2026-09-03T19:11:33.788Z",
+  updatedAt: "2026-09-27T01:46:05.000Z",
 } as const satisfies Module

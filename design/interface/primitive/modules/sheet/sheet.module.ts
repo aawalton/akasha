@@ -6,4 +6,6 @@ export const sheet = {
   slug: "sheet",
   definition: "a full height panel over the page from a side",
   code: "tsx",
+  createdAt: "2026-09-01T07:40:46.148Z",
+  updatedAt: "2026-09-22T10:11:20.000Z",
 } as const satisfies Module

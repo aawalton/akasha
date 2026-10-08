@@ -6,4 +6,6 @@ export const trackPages = {
   slug: "track-pages",
   definition: "the values of a tracking page narrowed to the page its readers take",
   code: "ts",
+  createdAt: "2026-09-04T00:30:53.341Z",
+  updatedAt: "2026-09-22T13:22:14.000Z",
 } as const satisfies Module

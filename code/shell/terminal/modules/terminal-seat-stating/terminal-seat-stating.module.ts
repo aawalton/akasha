@@ -63,4 +63,6 @@ export const terminalSeatStating = {
       statement: "That path is answered once as this module loads.",
     },
   ],
+  createdAt: "2026-09-03T16:12:25.008Z",
+  updatedAt: "2026-09-22T13:55:14.000Z",
 } as const satisfies Module

@@ -69,4 +69,6 @@ export const addressRestating = {
       statement: "Nothing here reaches a change.",
     },
   ],
+  createdAt: "2026-09-13T19:16:10.384Z",
+  updatedAt: "2026-09-22T10:09:53.000Z",
 } as const satisfies Module

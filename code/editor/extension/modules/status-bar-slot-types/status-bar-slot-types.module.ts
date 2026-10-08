@@ -42,4 +42,6 @@ export const statusBarSlotTypes = {
         "A workstation slot has the reading the slot takes out of one whole workstation answer.",
     },
   ],
+  createdAt: "2026-09-03T03:41:42.338Z",
+  updatedAt: "2026-09-15T18:33:01.000Z",
 } as const satisfies Module

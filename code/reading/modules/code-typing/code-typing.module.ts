@@ -112,4 +112,6 @@ export const codeTyping = {
       statement: "Nothing here writes inside the akasha folder.",
     },
   ],
+  createdAt: "2026-08-31T17:44:35.697Z",
+  updatedAt: "2026-09-24T22:58:44.000Z",
 } as const satisfies Module

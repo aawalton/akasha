@@ -12,4 +12,6 @@ export const expandTilde = {
       statement: "A tilde anywhere but the front of a path is left unchanged.",
     },
   ],
+  createdAt: "2026-09-01T09:28:37.698Z",
+  updatedAt: "2026-09-25T16:09:55.000Z",
 } as const satisfies Module

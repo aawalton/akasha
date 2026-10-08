@@ -12,4 +12,6 @@ export const textColor = {
       statement: "Text falls towards its surface as the text matters less.",
     },
   ],
+  createdAt: "2026-09-01T10:50:16.194Z",
+  updatedAt: "2026-09-15T18:34:11.000Z",
 } as const satisfies Module

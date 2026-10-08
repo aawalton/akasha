@@ -45,4 +45,6 @@ export const commandFilling = {
         "A pair of values handed in is read as the same pair looked up in what a call said.",
     },
   ],
+  createdAt: "2026-09-07T15:34:19.939Z",
+  updatedAt: "2026-09-15T18:33:01.000Z",
 } as const satisfies Module

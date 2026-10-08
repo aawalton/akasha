@@ -6,4 +6,6 @@ export const transpilePlugins = {
   slug: "transpile-plugins",
   definition: "the compiler plugin interface of visitors, printer, and emit hooks",
   code: "ts",
+  createdAt: "2026-09-03T12:57:32.116Z",
+  updatedAt: "2026-09-15T18:34:11.000Z",
 } as const satisfies Module

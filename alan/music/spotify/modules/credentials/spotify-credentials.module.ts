@@ -29,4 +29,6 @@ export const spotifyCredentials = {
       statement: "The header authorising the token endpoint asks for no redirect URI.",
     },
   ],
+  createdAt: "2026-09-02T13:49:35.645Z",
+  updatedAt: "2026-09-22T13:54:48.000Z",
 } as const satisfies Module

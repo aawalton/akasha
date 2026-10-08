@@ -56,4 +56,6 @@ export const pageTypeRenaming = {
       statement: "Nothing here reads the disk.",
     },
   ],
+  createdAt: "2026-09-11T19:43:40.898Z",
+  updatedAt: "2026-09-24T17:19:05.000Z",
 } as const satisfies Module

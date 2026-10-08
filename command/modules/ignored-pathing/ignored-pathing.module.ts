@@ -52,4 +52,6 @@ export const ignoredPathing = {
       statement: "Nothing here renames a path aside.",
     },
   ],
+  createdAt: "2026-09-12T09:23:07.208Z",
+  updatedAt: "2026-09-25T14:03:27.000Z",
 } as const satisfies Module

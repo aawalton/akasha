@@ -39,4 +39,6 @@ export const wanHosting = {
       statement: "Nothing here reaches the GPU.",
     },
   ],
+  createdAt: "2026-09-05T19:09:54.605Z",
+  updatedAt: "2026-09-22T13:43:11.000Z",
 } as const satisfies Module

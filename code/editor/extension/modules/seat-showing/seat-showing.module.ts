@@ -44,4 +44,6 @@ export const seatShowing = {
       statement: "Nothing here changes the work a seat is doing.",
     },
   ],
+  createdAt: "2026-09-03T17:58:07.081Z",
+  updatedAt: "2026-09-24T18:15:21.000Z",
 } as const satisfies Module

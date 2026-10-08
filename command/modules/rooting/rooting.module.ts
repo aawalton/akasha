@@ -47,4 +47,6 @@ export const rooting = {
       statement: "A caller carrying its own fallback is answered the stated root or nothing.",
     },
   ],
+  createdAt: "2026-08-29T21:08:38.569Z",
+  updatedAt: "2026-09-15T18:33:51.000Z",
 } as const satisfies Module

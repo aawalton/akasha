@@ -7,4 +7,6 @@ export const thisVoidAdapter = {
   definition:
     "the wrapper function expression a 'this: void' function becomes in a self-ful position",
   code: "ts",
+  createdAt: "2026-09-03T12:57:32.053Z",
+  updatedAt: "2026-09-15T18:34:11.000Z",
 } as const satisfies Module

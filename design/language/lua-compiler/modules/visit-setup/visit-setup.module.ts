@@ -7,4 +7,6 @@ export const visitSetup = {
   definition:
     "the class table initializer, name field, and base-class link a class declaration becomes",
   code: "ts",
+  createdAt: "2026-09-03T12:57:32.081Z",
+  updatedAt: "2026-09-15T18:34:11.000Z",
 } as const satisfies Module

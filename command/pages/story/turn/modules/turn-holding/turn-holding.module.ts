@@ -28,4 +28,6 @@ export const turnHolding = {
       statement: "A turn's rulings are read from the file beside it, and named to the next seat.",
     },
   ],
+  createdAt: "2026-10-03T15:29:47.501Z",
+  updatedAt: "2026-10-04T00:45:14.000Z",
 } as const satisfies Module

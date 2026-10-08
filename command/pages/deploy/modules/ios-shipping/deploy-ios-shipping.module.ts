@@ -98,4 +98,6 @@ export const deployIosShipping = {
       statement: "The list this ship names things into is the one the cut names things into.",
     },
   ],
+  createdAt: "2026-09-02T06:56:09.541Z",
+  updatedAt: "2026-09-25T18:09:47.000Z",
 } as const satisfies Module

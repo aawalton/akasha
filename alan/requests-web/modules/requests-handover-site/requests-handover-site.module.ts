@@ -18,4 +18,6 @@ export const requestsHandoverSite = {
       statement: "The Requests site signs its own cookie with `REQUESTS_SESSION_KEY`.",
     },
   ],
+  createdAt: "2026-09-21T18:25:58.939Z",
+  updatedAt: "2026-09-22T13:45:29.000Z",
 } as const satisfies Module

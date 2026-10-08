@@ -6,4 +6,6 @@ export const inputGroup = {
   slug: "input-group",
   definition: "an input drawn with addons, buttons and text beside it",
   code: "tsx",
+  createdAt: "2026-09-01T05:43:25.850Z",
+  updatedAt: "2026-09-15T18:33:51.000Z",
 } as const satisfies Module

@@ -45,4 +45,6 @@ export const observationMerging = {
       statement: "Every count but the worst is taken from the sweep just done.",
     },
   ],
+  createdAt: "2026-09-03T16:15:13.191Z",
+  updatedAt: "2026-09-15T18:33:01.000Z",
 } as const satisfies Module

@@ -16,4 +16,6 @@ export const requestsNavItems = {
       statement: "Every item in the Requests sidebar is a nav page whose app slug is `requests`.",
     },
   ],
+  createdAt: "2026-09-21T18:25:58.970Z",
+  updatedAt: "2026-09-21T18:37:14.000Z",
 } as const satisfies Module

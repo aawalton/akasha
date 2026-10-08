@@ -37,4 +37,6 @@ export const toolFaults = {
       statement: "Nothing here runs a tool or says what a fault is.",
     },
   ],
+  createdAt: "2026-09-24T22:32:53.898Z",
+  updatedAt: "2026-09-24T22:33:23.000Z",
 } as const satisfies Module

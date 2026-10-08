@@ -115,4 +115,6 @@ export const deployBundlePublishing = {
       statement: "The bundle and the version file reach the builder as the folder holding them.",
     },
   ],
+  createdAt: "2026-09-11T13:58:00.144Z",
+  updatedAt: "2026-09-26T18:12:38.000Z",
 } as const satisfies Module

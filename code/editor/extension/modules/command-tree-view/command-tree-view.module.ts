@@ -58,4 +58,6 @@ export const commandTreeView = {
       statement: "Nothing here makes the view these rows are drawn in.",
     },
   ],
+  createdAt: "2026-09-07T15:54:42.489Z",
+  updatedAt: "2026-09-15T18:33:01.000Z",
 } as const satisfies Module

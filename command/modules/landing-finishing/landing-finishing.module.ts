@@ -60,4 +60,6 @@ export const landingFinishing = {
       statement: "Drafted edits naming a path the landing moved are pointed where that path went.",
     },
   ],
+  createdAt: "2026-09-12T09:15:37.439Z",
+  updatedAt: "2026-09-28T20:17:14.000Z",
 } as const satisfies Module

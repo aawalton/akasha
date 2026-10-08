@@ -12,4 +12,6 @@ export const gatedWrite = {
       statement: "Only a refusal has a reason with that refusal.",
     },
   ],
+  createdAt: "2026-09-03T22:00:32.641Z",
+  updatedAt: "2026-09-24T23:10:33.000Z",
 } as const satisfies Module

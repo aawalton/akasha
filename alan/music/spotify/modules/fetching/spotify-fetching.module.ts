@@ -55,4 +55,6 @@ export const spotifyFetching = {
         "A 429 and a 401 are tried again by `module/spotify-client`, so no try here multiplies one there.",
     },
   ],
+  createdAt: "2026-09-02T13:49:35.645Z",
+  updatedAt: "2026-09-22T13:57:00.000Z",
 } as const satisfies Module

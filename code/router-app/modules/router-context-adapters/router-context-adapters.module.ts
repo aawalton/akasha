@@ -21,4 +21,6 @@ export const routerContextAdapters = {
       statement: "Nothing here names an app or a route.",
     },
   ],
+  createdAt: "2026-09-11T02:04:02.706Z",
+  updatedAt: "2026-09-15T18:33:01.000Z",
 } as const satisfies Module

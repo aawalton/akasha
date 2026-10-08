@@ -49,4 +49,6 @@ export const pluginPagesOfType = {
       statement: "A test runs such a call over the pages the checkout holds.",
     },
   ],
+  createdAt: "2026-09-26T13:38:18.605Z",
+  updatedAt: "2026-09-27T01:53:23.000Z",
 } as const satisfies Module

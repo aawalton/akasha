@@ -20,4 +20,6 @@ export const worldTreeIds = {
       statement: "The manifest names no command here, since only a row calls it.",
     },
   ],
+  createdAt: "2026-09-26T14:11:23.670Z",
+  updatedAt: "2026-09-26T14:11:35.000Z",
 } as const satisfies Module

@@ -122,4 +122,6 @@ export const auditAsking = {
       statement: "Nothing here says which checks run at audit.",
     },
   ],
+  createdAt: "2026-09-11T20:47:19.513Z",
+  updatedAt: "2026-09-25T17:18:57.000Z",
 } as const satisfies Module

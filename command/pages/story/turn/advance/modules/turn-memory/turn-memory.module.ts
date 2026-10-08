@@ -38,4 +38,6 @@ export const turnMemory = {
         "A continuation one memory opens takes the next fact its first page has no room for.",
     },
   ],
+  createdAt: "2026-10-03T16:22:10.716Z",
+  updatedAt: "2026-10-06T15:54:27.000Z",
 } as const satisfies Module

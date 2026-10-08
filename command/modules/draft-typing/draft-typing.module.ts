@@ -36,4 +36,6 @@ export const draftTyping = {
         "A draft kept beside a turn is judged when drafted, since another agent lands it and cannot mend it.",
     },
   ],
+  createdAt: "2026-09-28T20:36:37.636Z",
+  updatedAt: "2026-09-28T20:36:45.000Z",
 } as const satisfies Module

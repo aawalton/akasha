@@ -25,4 +25,6 @@ export const alanAnswerAsk = {
       statement: "A page type's shape asked in a browser is carried the same way as a question.",
     },
   ],
+  createdAt: "2026-09-22T01:25:04.311Z",
+  updatedAt: "2026-09-27T06:10:35.000Z",
 } as const satisfies Module

@@ -6,4 +6,6 @@ export const inlineEditKeys = {
   slug: "inline-edit-keys",
   definition: "the key that commits an inline edit and the key that drops it",
   code: "ts",
+  createdAt: "2026-09-11T00:41:08.155Z",
+  updatedAt: "2026-09-15T18:33:51.000Z",
 } as const satisfies Module

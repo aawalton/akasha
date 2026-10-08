@@ -6,4 +6,6 @@ export const cliDiagnostics = {
   slug: "cli-diagnostics",
   definition: "the diagnostic messages the compiler raises for bad or misplaced compiler options",
   code: "ts",
+  createdAt: "2026-09-03T12:57:32.003Z",
+  updatedAt: "2026-09-15T18:34:11.000Z",
 } as const satisfies Module

@@ -21,4 +21,6 @@ export const asRecord = {
       statement: "A reader wanting a record either way reads an empty record here.",
     },
   ],
+  createdAt: "2026-09-01T10:46:49.595Z",
+  updatedAt: "2026-09-22T13:24:12.000Z",
 } as const satisfies Module

@@ -46,4 +46,6 @@ export const lualibBuilder = {
       statement: "The lualib sources sit beside the compiler rather than among its modules.",
     },
   ],
+  createdAt: "2026-09-03T12:57:31.998Z",
+  updatedAt: "2026-09-24T22:33:35.000Z",
 } as const satisfies Module

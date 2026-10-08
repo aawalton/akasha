@@ -343,4 +343,6 @@ export const changeShadow = {
       statement: "A reach withholding a body works on a ledger.",
     },
   ],
+  createdAt: "2026-09-06T15:09:05.169Z",
+  updatedAt: "2026-09-24T17:17:58.000Z",
 } as const satisfies Module

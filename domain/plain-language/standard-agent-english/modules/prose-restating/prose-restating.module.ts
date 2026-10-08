@@ -30,4 +30,6 @@ export const proseRestating = {
       statement: "Nothing here reads a page or writes one.",
     },
   ],
+  createdAt: "2026-09-08T18:29:48.910Z",
+  updatedAt: "2026-09-25T15:41:48.000Z",
 } as const satisfies Module

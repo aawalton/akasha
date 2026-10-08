@@ -42,4 +42,6 @@ export const terminalMarks = {
       statement: "Nothing here drops the mark of a closed terminal.",
     },
   ],
+  createdAt: "2026-09-03T00:00:26.253Z",
+  updatedAt: "2026-09-15T18:33:01.000Z",
 } as const satisfies Module

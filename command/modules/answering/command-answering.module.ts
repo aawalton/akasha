@@ -153,4 +153,6 @@ export const commandAnswering = {
       statement: "Such a refusal opens with the name the call was made by.",
     },
   ],
+  createdAt: "2026-09-07T15:13:15.687Z",
+  updatedAt: "2026-09-25T14:29:31.000Z",
 } as const satisfies Module

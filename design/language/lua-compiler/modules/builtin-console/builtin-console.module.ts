@@ -6,4 +6,6 @@ export const builtinConsole = {
   slug: "builtin-console",
   definition: "the Lua a console method call becomes",
   code: "ts",
+  createdAt: "2026-09-03T12:57:32.106Z",
+  updatedAt: "2026-09-15T18:34:11.000Z",
 } as const satisfies Module

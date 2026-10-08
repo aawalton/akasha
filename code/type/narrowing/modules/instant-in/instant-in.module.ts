@@ -25,4 +25,6 @@ export const instantIn = {
       statement: "A value that is neither a number nor text holds no moment.",
     },
   ],
+  createdAt: "2026-09-11T05:09:02.608Z",
+  updatedAt: "2026-09-15T19:48:30.000Z",
 } as const satisfies Module

@@ -55,4 +55,6 @@ export const keyRequiring = {
       statement: "Nothing here judges the meaning a required key has for an edit.",
     },
   ],
+  createdAt: "2026-09-08T18:50:05.645Z",
+  updatedAt: "2026-09-15T18:21:01.000Z",
 } as const satisfies Module

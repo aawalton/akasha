@@ -6,4 +6,6 @@ export const sortButton = {
   slug: "sort-button",
   definition: "the button choosing a list's sort key",
   code: "tsx",
+  createdAt: "2026-09-01T10:00:29.540Z",
+  updatedAt: "2026-09-22T14:07:45.000Z",
 } as const satisfies Module

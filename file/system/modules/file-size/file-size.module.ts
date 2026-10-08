@@ -25,4 +25,6 @@ export const fileSize = {
       statement: "Nothing here throws.",
     },
   ],
+  createdAt: "2026-09-08T14:52:58.135Z",
+  updatedAt: "2026-09-25T16:09:55.000Z",
 } as const satisfies Module

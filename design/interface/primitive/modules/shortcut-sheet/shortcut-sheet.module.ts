@@ -6,4 +6,6 @@ export const shortcutSheet = {
   slug: "shortcut-sheet",
   definition: "the panel listing every keyboard binding by layer and group",
   code: "tsx",
+  createdAt: "2026-09-01T07:40:46.148Z",
+  updatedAt: "2026-09-15T18:34:11.000Z",
 } as const satisfies Module

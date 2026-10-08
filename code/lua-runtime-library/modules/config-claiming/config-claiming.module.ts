@@ -26,4 +26,6 @@ export const configClaiming = {
       statement: "Nothing here reads a config's exclude or files list.",
     },
   ],
+  createdAt: "2026-09-24T16:55:36.293Z",
+  updatedAt: "2026-09-24T16:56:09.000Z",
 } as const satisfies Module

@@ -6,4 +6,6 @@ export const visitorsClass = {
   slug: "visitors-class",
   definition: "the Lua a class-like declaration and its members become",
   code: "ts",
+  createdAt: "2026-09-03T12:57:32.077Z",
+  updatedAt: "2026-09-15T18:34:44.000Z",
 } as const satisfies Module

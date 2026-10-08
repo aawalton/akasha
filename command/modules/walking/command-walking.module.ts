@@ -131,4 +131,6 @@ export const commandWalking = {
       statement: "A word naming more than one part ends the walk and steps into none of them.",
     },
   ],
+  createdAt: "2026-09-08T14:35:04.829Z",
+  updatedAt: "2026-09-15T18:33:51.000Z",
 } as const satisfies Module

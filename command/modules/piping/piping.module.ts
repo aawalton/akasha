@@ -69,4 +69,6 @@ export const piping = {
         "An input no second descriptor can be opened on is answered as an input that would not open.",
     },
   ],
+  createdAt: "2026-09-01T23:28:10.615Z",
+  updatedAt: "2026-09-25T14:22:11.000Z",
 } as const satisfies Module

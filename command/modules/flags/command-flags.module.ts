@@ -78,4 +78,6 @@ export const commandFlags = {
       statement: "Nothing here acts on a value read.",
     },
   ],
+  createdAt: "2026-09-07T11:47:43.919Z",
+  updatedAt: "2026-09-15T18:33:01.000Z",
 } as const satisfies Module

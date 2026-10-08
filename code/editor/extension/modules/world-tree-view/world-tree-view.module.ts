@@ -28,4 +28,6 @@ export const worldTreeView = {
       statement: "Nothing here makes the view these rows are drawn in.",
     },
   ],
+  createdAt: "2026-09-26T14:11:23.671Z",
+  updatedAt: "2026-09-26T14:11:35.000Z",
 } as const satisfies Module

@@ -37,4 +37,6 @@ export const exportKeyword = {
       statement: "A change wanting these names reads them here rather than from another change.",
     },
   ],
+  createdAt: "2026-09-13T15:53:07.090Z",
+  updatedAt: "2026-09-25T16:24:29.000Z",
 } as const satisfies Module

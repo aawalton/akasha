@@ -46,4 +46,6 @@ export const dayOpening = {
     },
   ],
   test: "ts",
+  createdAt: "2026-09-04T00:13:45.386Z",
+  updatedAt: "2026-09-24T18:44:05.000Z",
 } as const satisfies Module

@@ -29,4 +29,6 @@ export const lastLines = {
       statement: "Nothing here follows a file as that file grows.",
     },
   ],
+  createdAt: "2026-09-05T19:06:27.922Z",
+  updatedAt: "2026-09-15T18:33:51.000Z",
 } as const satisfies Module

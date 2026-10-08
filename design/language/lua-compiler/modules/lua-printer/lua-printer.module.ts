@@ -6,4 +6,6 @@ export const luaPrinter = {
   slug: "lua-printer",
   definition: "a Lua file printed to code with its source map",
   code: "ts",
+  createdAt: "2026-09-03T12:57:31.995Z",
+  updatedAt: "2026-09-15T18:34:11.000Z",
 } as const satisfies Module

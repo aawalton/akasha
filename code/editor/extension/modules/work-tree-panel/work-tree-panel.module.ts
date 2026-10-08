@@ -183,4 +183,6 @@ export const workTreePanel = {
       statement: "Nothing here decides a row's appearance.",
     },
   ],
+  createdAt: "2026-09-03T17:53:52.076Z",
+  updatedAt: "2026-09-26T14:06:24.000Z",
 } as const satisfies Module

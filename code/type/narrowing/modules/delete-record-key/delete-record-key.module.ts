@@ -12,4 +12,6 @@ export const deleteRecordKey = {
       statement: "Lua compiled from this code empties a table key by assigning nothing.",
     },
   ],
+  createdAt: "2026-09-02T04:18:43.450Z",
+  updatedAt: "2026-09-15T19:48:30.000Z",
 } as const satisfies Module

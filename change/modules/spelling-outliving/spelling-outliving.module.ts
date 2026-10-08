@@ -51,4 +51,6 @@ export const spellingOutliving = {
       statement: "Nothing here spells an old name anew.",
     },
   ],
+  createdAt: "2026-09-21T19:49:54.150Z",
+  updatedAt: "2026-09-22T01:49:23.000Z",
 } as const satisfies Module

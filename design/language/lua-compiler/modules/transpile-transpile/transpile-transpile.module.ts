@@ -20,4 +20,6 @@ export const transpileTranspile = {
       statement: "A compile emitting no JavaScript still writes Lua where `no-emit-lua` says so.",
     },
   ],
+  createdAt: "2026-09-03T12:57:32.122Z",
+  updatedAt: "2026-09-22T10:09:37.000Z",
 } as const satisfies Module

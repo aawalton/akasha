@@ -6,4 +6,6 @@ export const dialog = {
   slug: "dialog",
   definition: "a window over the page with its own header and footer",
   code: "tsx",
+  createdAt: "2026-09-01T07:40:46.147Z",
+  updatedAt: "2026-09-15T18:33:51.000Z",
 } as const satisfies Module

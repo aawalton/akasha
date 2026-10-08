@@ -45,4 +45,6 @@ export const differing = {
         "The files a difference was taken over are gone before the difference is answered.",
     },
   ],
+  createdAt: "2026-08-29T18:15:28.354Z",
+  updatedAt: "2026-09-15T18:33:51.000Z",
 } as const satisfies Module

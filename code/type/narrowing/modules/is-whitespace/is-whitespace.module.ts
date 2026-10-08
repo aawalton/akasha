@@ -6,4 +6,6 @@ export const isWhitespace = {
   slug: "is-whitespace",
   definition: "whether a character is a space, a tab, a carriage return, or a newline",
   code: "ts",
+  createdAt: "2026-09-08T11:50:31.408Z",
+  updatedAt: "2026-09-15T19:48:30.000Z",
 } as const satisfies Module

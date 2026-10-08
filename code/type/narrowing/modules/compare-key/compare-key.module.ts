@@ -20,4 +20,6 @@ export const compareKey = {
       statement: "A letter outside the English alphabet is no letter here.",
     },
   ],
+  createdAt: "2026-09-11T00:25:17.117Z",
+  updatedAt: "2026-09-22T13:44:42.000Z",
 } as const satisfies Module

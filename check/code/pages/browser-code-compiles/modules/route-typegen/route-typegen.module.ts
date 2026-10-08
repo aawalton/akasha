@@ -62,4 +62,6 @@ export const routeTypegen = {
         "The configs a typegen bundles stay in that folder, so no two typegens share them.",
     },
   ],
+  createdAt: "2026-09-24T17:04:20.076Z",
+  updatedAt: "2026-09-24T23:13:56.000Z",
 } as const satisfies Module

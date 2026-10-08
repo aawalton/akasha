@@ -6,4 +6,6 @@ export const scrollArea = {
   slug: "scroll-area",
   definition: "a scrolling region with bars of its own",
   code: "tsx",
+  createdAt: "2026-09-01T07:40:46.148Z",
+  updatedAt: "2026-09-15T18:33:51.000Z",
 } as const satisfies Module

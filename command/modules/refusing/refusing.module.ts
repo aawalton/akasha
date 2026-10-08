@@ -45,4 +45,6 @@ export const refusing = {
       statement: "Each code is read from the page declaring what an exit code means.",
     },
   ],
+  createdAt: "2026-09-10T19:10:50.254Z",
+  updatedAt: "2026-09-15T18:33:51.000Z",
 } as const satisfies Module

@@ -32,4 +32,6 @@ export const duringCall = {
       statement: "Where node is absent nothing is held and every value is made afresh.",
     },
   ],
+  createdAt: "2026-09-01T11:21:01.898Z",
+  updatedAt: "2026-09-22T10:06:53.000Z",
 } as const satisfies Module

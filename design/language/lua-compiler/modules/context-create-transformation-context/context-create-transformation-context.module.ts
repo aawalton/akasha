@@ -6,4 +6,6 @@ export const contextCreateTransformationContext = {
   slug: "context-create-transformation-context",
   definition: "the transformation context of a program and source file",
   code: "ts",
+  createdAt: "2026-09-03T12:57:32.013Z",
+  updatedAt: "2026-09-22T10:11:20.000Z",
 } as const satisfies Module

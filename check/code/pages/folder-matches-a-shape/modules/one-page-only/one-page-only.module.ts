@@ -68,4 +68,6 @@ export const onePageOnly = {
       statement: "A folder named a plural gathering neither is refused for its name.",
     },
   ],
+  createdAt: "2026-09-13T23:27:07.132Z",
+  updatedAt: "2026-09-22T10:06:44.000Z",
 } as const satisfies Module

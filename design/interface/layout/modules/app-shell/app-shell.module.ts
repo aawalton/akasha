@@ -6,4 +6,6 @@ export const appShell = {
   slug: "app-shell",
   definition: "the page frame a browser draws for a site",
   code: "tsx",
+  createdAt: "2026-09-01T05:47:57.207Z",
+  updatedAt: "2026-09-22T14:31:17.000Z",
 } as const satisfies Module

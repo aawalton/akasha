@@ -6,4 +6,6 @@ export const visitExport = {
   slug: "visit-export",
   definition: "the exports-table assignments an export declaration or assignment becomes",
   code: "ts",
+  createdAt: "2026-09-03T12:57:32.095Z",
+  updatedAt: "2026-09-15T18:34:11.000Z",
 } as const satisfies Module

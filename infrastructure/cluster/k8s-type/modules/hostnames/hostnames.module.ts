@@ -6,4 +6,6 @@ export const hostnames = {
   slug: "hostnames",
   definition: "the labels by which a manifest pins a pod to a node",
   code: "ts",
+  createdAt: "2026-09-03T12:19:38.524Z",
+  updatedAt: "2026-09-22T13:58:21.000Z",
 } as const satisfies Module

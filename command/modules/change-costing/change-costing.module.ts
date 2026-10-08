@@ -37,4 +37,6 @@ export const changeCosting = {
       statement: "Nothing here measures or appends.",
     },
   ],
+  createdAt: "2026-09-08T11:28:08.726Z",
+  updatedAt: "2026-09-22T10:06:44.000Z",
 } as const satisfies Module

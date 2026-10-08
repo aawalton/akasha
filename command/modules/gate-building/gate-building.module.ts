@@ -130,4 +130,6 @@ export const gateBuilding = {
         "A name loaded late is spelled where it is imported, so a bundler carries the module in.",
     },
   ],
+  createdAt: "2026-08-30T14:39:45.132Z",
+  updatedAt: "2026-09-25T16:02:21.000Z",
 } as const satisfies Module

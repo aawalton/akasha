@@ -7,4 +7,6 @@ export const transformUsingTransformer = {
   definition:
     "the callback call a `using` declaration and the statements after it are rewritten as",
   code: "ts",
+  createdAt: "2026-09-03T12:57:32.019Z",
+  updatedAt: "2026-09-15T18:34:11.000Z",
 } as const satisfies Module

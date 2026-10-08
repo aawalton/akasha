@@ -138,4 +138,6 @@ export const seatTerminalOpenLine = {
       statement: "The row tmux answers with has its trailing spacing trimmed off.",
     },
   ],
+  createdAt: "2026-09-13T19:56:57.112Z",
+  updatedAt: "2026-09-25T16:28:33.000Z",
 } as const satisfies Module

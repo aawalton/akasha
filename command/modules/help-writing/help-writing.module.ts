@@ -94,4 +94,6 @@ export const helpWriting = {
       statement: "An entry's name and how that command takes it are both read off the entry.",
     },
   ],
+  createdAt: "2026-09-12T04:54:47.448Z",
+  updatedAt: "2026-09-15T18:33:01.000Z",
 } as const satisfies Module

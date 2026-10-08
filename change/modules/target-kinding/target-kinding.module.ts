@@ -65,4 +65,6 @@ export const targetKinding = {
       statement: "Nothing here reads the disk but the file kinds.",
     },
   ],
+  createdAt: "2026-09-08T18:39:17.031Z",
+  updatedAt: "2026-09-25T13:54:20.000Z",
 } as const satisfies Module

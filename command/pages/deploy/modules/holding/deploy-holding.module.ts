@@ -112,4 +112,6 @@ export const deployHolding = {
       statement: "A hold left by a process that is gone says no deploy is running.",
     },
   ],
+  createdAt: "2026-09-12T12:17:43.974Z",
+  updatedAt: "2026-09-25T13:22:59.000Z",
 } as const satisfies Module

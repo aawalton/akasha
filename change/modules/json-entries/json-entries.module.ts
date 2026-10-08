@@ -116,4 +116,6 @@ export const jsonEntries = {
       statement: "An entry stating both keys with two values is refused, naming its file.",
     },
   ],
+  createdAt: "2026-09-08T18:13:20.754Z",
+  updatedAt: "2026-09-24T20:06:22.000Z",
 } as const satisfies Module

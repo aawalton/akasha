@@ -167,4 +167,6 @@ export const deployWebPuttingUp = {
       statement: "A deploy onto a workload the cluster does not run places them as it applies.",
     },
   ],
+  createdAt: "2026-09-02T00:41:45.895Z",
+  updatedAt: "2026-09-26T18:12:38.000Z",
 } as const satisfies Module

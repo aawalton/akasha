@@ -34,4 +34,6 @@ export const bodyText = {
       statement: "Nothing here knows the meaning of the text or which file the text came from.",
     },
   ],
+  createdAt: "2026-08-29T22:33:03.460Z",
+  updatedAt: "2026-09-15T18:33:01.000Z",
 } as const satisfies Module

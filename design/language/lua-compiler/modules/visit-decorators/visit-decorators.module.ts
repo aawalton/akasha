@@ -6,4 +6,6 @@ export const visitDecorators = {
   slug: "visit-decorators",
   definition: "the decorate call a class, method, accessor, or field decorator becomes",
   code: "ts",
+  createdAt: "2026-09-03T12:57:32.073Z",
+  updatedAt: "2026-09-15T18:34:11.000Z",
 } as const satisfies Module

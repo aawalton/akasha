@@ -38,4 +38,6 @@ export const valueSpelling = {
       statement: "Nothing here says which key the value is written under.",
     },
   ],
+  createdAt: "2026-09-13T20:39:24.628Z",
+  updatedAt: "2026-09-22T10:09:40.000Z",
 } as const satisfies Module

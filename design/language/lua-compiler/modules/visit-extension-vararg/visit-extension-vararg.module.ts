@@ -6,4 +6,6 @@ export const visitExtensionVararg = {
   slug: "visit-extension-vararg",
   definition: "the test recognizing the file-scope $vararg constant",
   code: "ts",
+  createdAt: "2026-09-03T12:57:32.090Z",
+  updatedAt: "2026-09-15T18:34:11.000Z",
 } as const satisfies Module

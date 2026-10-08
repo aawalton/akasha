@@ -21,4 +21,6 @@ export const seatPageOpening = {
       statement: "A row that is no seat opens nothing here.",
     },
   ],
+  createdAt: "2026-09-24T18:12:45.839Z",
+  updatedAt: "2026-09-24T18:13:55.000Z",
 } as const satisfies Module

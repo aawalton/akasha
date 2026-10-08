@@ -38,4 +38,6 @@ export const importLosing = {
       statement: "Nothing here reaches the index or reads a file the change does not carry.",
     },
   ],
+  createdAt: "2026-09-25T14:33:37.360Z",
+  updatedAt: "2026-09-25T16:31:54.000Z",
 } as const satisfies Module

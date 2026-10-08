@@ -24,4 +24,6 @@ export const domainTreeIds = {
       statement: "Nothing here names a row of the domain tree.",
     },
   ],
+  createdAt: "2026-09-03T01:01:03.516Z",
+  updatedAt: "2026-09-22T14:00:01.000Z",
 } as const satisfies Module

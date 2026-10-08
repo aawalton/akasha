@@ -6,4 +6,6 @@ export const card = {
   slug: "card",
   definition: "a bordered surface with a header, a body and a footer",
   code: "tsx",
+  createdAt: "2026-09-01T07:40:46.146Z",
+  updatedAt: "2026-09-15T18:33:51.000Z",
 } as const satisfies Module

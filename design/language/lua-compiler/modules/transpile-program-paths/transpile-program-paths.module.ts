@@ -6,4 +6,6 @@ export const transpileProgramPaths = {
   slug: "transpile-program-paths",
   definition: "the output path a source file is emitted to, derived from outDir and rootDir",
   code: "ts",
+  createdAt: "2026-09-03T12:57:32.116Z",
+  updatedAt: "2026-09-15T18:34:11.000Z",
 } as const satisfies Module

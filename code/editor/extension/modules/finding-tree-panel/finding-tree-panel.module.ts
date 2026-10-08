@@ -56,4 +56,6 @@ export const findingTreePanel = {
       statement: "Nothing here decides the look of a row.",
     },
   ],
+  createdAt: "2026-09-19T01:06:12.919Z",
+  updatedAt: "2026-09-22T10:06:44.000Z",
 } as const satisfies Module

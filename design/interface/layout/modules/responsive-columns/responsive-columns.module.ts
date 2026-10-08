@@ -6,4 +6,6 @@ export const responsiveColumns = {
   slug: "responsive-columns",
   definition: "panels drawn in one column or in balanced columns by width",
   code: "tsx",
+  createdAt: "2026-09-01T05:47:57.209Z",
+  updatedAt: "2026-09-15T18:33:51.000Z",
 } as const satisfies Module

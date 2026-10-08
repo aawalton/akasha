@@ -6,4 +6,6 @@ export const badge = {
   slug: "badge",
   definition: "a word or two drawn in a browser inside a colored pill",
   code: "tsx",
+  createdAt: "2026-09-01T04:58:54.648Z",
+  updatedAt: "2026-09-15T18:33:51.000Z",
 } as const satisfies Module

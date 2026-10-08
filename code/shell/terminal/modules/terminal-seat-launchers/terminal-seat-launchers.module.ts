@@ -83,4 +83,6 @@ export const terminalSeatLaunchers = {
       statement: "Starting a seat is asked of the akasha command by name.",
     },
   ],
+  createdAt: "2026-09-03T16:12:25.008Z",
+  updatedAt: "2026-09-27T13:46:00.000Z",
 } as const satisfies Module

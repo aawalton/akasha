@@ -16,4 +16,6 @@ export const appShellSidebar = {
       statement: "A collapsed column draws a nav link centred and without its padding.",
     },
   ],
+  createdAt: "2026-09-01T05:47:57.208Z",
+  updatedAt: "2026-09-15T18:33:51.000Z",
 } as const satisfies Module

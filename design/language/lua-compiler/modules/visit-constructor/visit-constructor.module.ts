@@ -6,4 +6,6 @@ export const visitConstructor = {
   slug: "visit-constructor",
   definition: "the ____constructor function a constructor declaration becomes",
   code: "ts",
+  createdAt: "2026-09-03T12:57:32.078Z",
+  updatedAt: "2026-09-15T18:34:11.000Z",
 } as const satisfies Module

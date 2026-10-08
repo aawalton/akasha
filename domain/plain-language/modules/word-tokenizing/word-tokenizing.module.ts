@@ -48,4 +48,6 @@ export const wordTokenizing = {
       statement: "No word is dropped for falling past the model's width.",
     },
   ],
+  createdAt: "2026-09-04T14:35:43.538Z",
+  updatedAt: "2026-09-15T18:34:44.000Z",
 } as const satisfies Module

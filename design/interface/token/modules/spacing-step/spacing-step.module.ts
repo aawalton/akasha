@@ -6,4 +6,6 @@ export const spacingStep = {
   slug: "spacing-step",
   definition: "the steps the web spaces an interface by",
   code: "ts",
+  createdAt: "2026-09-25T16:38:57.948Z",
+  updatedAt: "2026-09-25T16:39:05.000Z",
 } as const satisfies Module

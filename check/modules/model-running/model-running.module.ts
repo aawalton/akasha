@@ -76,4 +76,6 @@ export const modelRunning = {
       statement: "A check that did not run says so on standard error alone.",
     },
   ],
+  createdAt: "2026-08-31T23:59:59.195Z",
+  updatedAt: "2026-09-25T16:03:30.000Z",
 } as const satisfies Module

@@ -117,4 +117,6 @@ export const saidPathing = {
       statement: "Nothing here writes into the repository.",
     },
   ],
+  createdAt: "2026-09-07T12:06:49.116Z",
+  updatedAt: "2026-09-25T14:22:25.000Z",
 } as const satisfies Module

@@ -6,4 +6,6 @@ export const designSystemPageContent = {
   slug: "design-system-page-content",
   definition: "the whole design system page, its six tabs and what each one shows",
   code: "tsx",
+  createdAt: "2026-09-01T10:48:05.958Z",
+  updatedAt: "2026-09-21T15:50:28.000Z",
 } as const satisfies Module

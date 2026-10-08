@@ -340,4 +340,6 @@ export const applying = {
       statement: "A key an apply does not take is refused rather than passed over.",
     },
   ],
+  createdAt: "2026-09-02T22:45:13.616Z",
+  updatedAt: "2026-09-25T15:01:00.000Z",
 } as const satisfies Module

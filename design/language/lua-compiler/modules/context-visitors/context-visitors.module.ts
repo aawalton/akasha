@@ -6,4 +6,6 @@ export const contextVisitors = {
   slug: "context-visitors",
   definition: "the visitor function and map types keyed by TypeScript syntax kind",
   code: "ts",
+  createdAt: "2026-09-03T12:57:32.017Z",
+  updatedAt: "2026-09-15T18:34:11.000Z",
 } as const satisfies Module

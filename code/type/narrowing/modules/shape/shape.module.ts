@@ -6,4 +6,6 @@ export const shape = {
   slug: "shape",
   definition: "every shape combinator reached under a name",
   code: "ts",
+  createdAt: "2026-09-03T23:11:43.620Z",
+  updatedAt: "2026-09-22T10:07:02.000Z",
 } as const satisfies Module

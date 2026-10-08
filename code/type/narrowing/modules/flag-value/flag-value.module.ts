@@ -7,4 +7,6 @@ export const flagValue = {
   definition: "the word a named flag is followed by on a command line, or nothing",
   code: "ts",
   test: "ts",
+  createdAt: "2026-09-11T00:45:02.961Z",
+  updatedAt: "2026-09-15T19:48:30.000Z",
 } as const satisfies Module

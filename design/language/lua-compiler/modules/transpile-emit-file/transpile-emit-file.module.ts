@@ -6,4 +6,6 @@ export const transpileEmitFile = {
   slug: "transpile-emit-file",
   definition: "the record of a printed Lua file: its code, source map, and output path",
   code: "ts",
+  createdAt: "2026-09-03T12:57:32.112Z",
+  updatedAt: "2026-09-22T10:09:39.000Z",
 } as const satisfies Module

@@ -28,4 +28,6 @@ export const alanRouteGuard = {
       statement: "No cookie is written back, so a reader's session is left as it was.",
     },
   ],
+  createdAt: "2026-09-20T23:31:37.275Z",
+  updatedAt: "2026-09-27T14:07:30.000Z",
 } as const satisfies Module

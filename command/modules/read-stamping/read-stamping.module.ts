@@ -85,4 +85,6 @@ export const readStamping = {
         "Only an edit kept before edits carried an id, and given none as it was taken, is held to no id.",
     },
   ],
+  createdAt: "2026-09-25T15:00:12.574Z",
+  updatedAt: "2026-09-25T16:40:33.000Z",
 } as const satisfies Module

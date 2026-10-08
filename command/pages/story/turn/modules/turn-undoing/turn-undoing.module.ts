@@ -87,4 +87,6 @@ export const turnUndoing = {
         "A number the turn's outcomes added to a page that goes back to its body is taken back by that body.",
     },
   ],
+  createdAt: "2026-09-29T03:44:32.550Z",
+  updatedAt: "2026-09-29T05:26:01.000Z",
 } as const satisfies Module

@@ -106,4 +106,6 @@ export const subagentCore = {
       statement: "Ended subagents are ordered by the id each subagent acts under.",
     },
   ],
+  createdAt: "2026-09-03T01:44:34.894Z",
+  updatedAt: "2026-10-04T16:34:55.000Z",
 } as const satisfies Module

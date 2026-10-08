@@ -12,4 +12,6 @@ export const recordField = {
       statement: "A value that is no record holds no field.",
     },
   ],
+  createdAt: "2026-09-11T01:11:20.650Z",
+  updatedAt: "2026-09-22T10:05:48.000Z",
 } as const satisfies Module

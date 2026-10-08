@@ -6,4 +6,6 @@ export const joinPath = {
   slug: "join-path",
   definition: "a card id and the path within it spelled as one string",
   code: "ts",
+  createdAt: "2026-09-01T10:46:49.599Z",
+  updatedAt: "2026-09-15T19:48:30.000Z",
 } as const satisfies Module

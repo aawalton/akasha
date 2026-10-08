@@ -12,4 +12,6 @@ export const filterButton = {
       statement: "A filter picked from the empty menu opens its choices before any choice is made.",
     },
   ],
+  createdAt: "2026-09-01T10:00:29.537Z",
+  updatedAt: "2026-09-27T03:58:09.000Z",
 } as const satisfies Module

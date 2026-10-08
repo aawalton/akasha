@@ -45,4 +45,6 @@ export const exportTelling = {
       statement: "Nothing here reads the disk or the index.",
     },
   ],
+  createdAt: "2026-09-25T16:31:18.809Z",
+  updatedAt: "2026-09-25T17:21:25.000Z",
 } as const satisfies Module

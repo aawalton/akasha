@@ -29,4 +29,6 @@ export const serviceTreeReading = {
       statement: "Nothing here draws a row.",
     },
   ],
+  createdAt: "2026-09-13T18:54:16.370Z",
+  updatedAt: "2026-09-15T18:33:01.000Z",
 } as const satisfies Module

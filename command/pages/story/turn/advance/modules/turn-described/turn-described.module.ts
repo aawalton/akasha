@@ -32,4 +32,6 @@ export const turnDescribed = {
       statement: "What git says changed is what changed, so nothing is worked out a second time.",
     },
   ],
+  createdAt: "2026-09-28T19:11:23.784Z",
+  updatedAt: "2026-09-28T21:56:47.000Z",
 } as const satisfies Module

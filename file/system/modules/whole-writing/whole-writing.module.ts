@@ -32,4 +32,6 @@ export const wholeWriting = {
       statement: "A run of no bytes is written nowhere.",
     },
   ],
+  createdAt: "2026-09-12T05:49:12.955Z",
+  updatedAt: "2026-09-25T16:09:55.000Z",
 } as const satisfies Module

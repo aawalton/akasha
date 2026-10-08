@@ -16,4 +16,6 @@ export const operatorClassification = {
       statement: "Trivia and the end of a file are counted as neither an operator nor an operand.",
     },
   ],
+  createdAt: "2026-09-03T16:17:42.327Z",
+  updatedAt: "2026-09-15T18:34:44.000Z",
 } as const satisfies Module

@@ -6,4 +6,6 @@ export const triggerSafeNode = {
   slug: "trigger-safe-node",
   definition: "a node marked as safe to place inside a trigger",
   code: "ts",
+  createdAt: "2026-09-01T07:40:46.150Z",
+  updatedAt: "2026-09-15T18:34:11.000Z",
 } as const satisfies Module

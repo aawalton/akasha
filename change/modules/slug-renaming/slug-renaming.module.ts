@@ -75,4 +75,6 @@ export const slugRenaming = {
       statement: "Nothing here moves a file.",
     },
   ],
+  createdAt: "2026-09-13T20:07:09.088Z",
+  updatedAt: "2026-09-24T15:08:07.000Z",
 } as const satisfies Module

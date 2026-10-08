@@ -6,4 +6,6 @@ export const spinner = {
   slug: "spinner",
   definition: "the mark that spins while work is still going",
   code: "tsx",
+  createdAt: "2026-09-01T07:40:46.149Z",
+  updatedAt: "2026-09-15T18:34:11.000Z",
 } as const satisfies Module

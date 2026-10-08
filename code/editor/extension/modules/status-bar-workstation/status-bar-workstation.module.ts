@@ -33,4 +33,6 @@ export const statusBarWorkstation = {
       statement: "Nothing here says how a figure is drawn.",
     },
   ],
+  createdAt: "2026-09-14T14:59:04.252Z",
+  updatedAt: "2026-09-25T17:44:41.000Z",
 } as const satisfies Module

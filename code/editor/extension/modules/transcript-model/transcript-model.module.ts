@@ -56,4 +56,6 @@ export const transcriptModel = {
       statement: "A tool's subject is the one `tool-subject` names.",
     },
   ],
+  createdAt: "2026-09-03T01:44:34.894Z",
+  updatedAt: "2026-09-24T16:40:06.000Z",
 } as const satisfies Module

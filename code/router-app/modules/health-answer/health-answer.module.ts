@@ -12,4 +12,6 @@ export const healthAnswer = {
       statement: "A health check is answered without reading anything the app depends on.",
     },
   ],
+  createdAt: "2026-09-11T01:42:43.284Z",
+  updatedAt: "2026-09-22T13:48:15.000Z",
 } as const satisfies Module

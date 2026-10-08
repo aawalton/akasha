@@ -116,4 +116,6 @@ export const editsLanding = {
         "A path an edit owing its writer no reading names has no body of the writer's own.",
     },
   ],
+  createdAt: "2026-09-08T13:26:32.828Z",
+  updatedAt: "2026-09-30T11:41:03.000Z",
 } as const satisfies Module

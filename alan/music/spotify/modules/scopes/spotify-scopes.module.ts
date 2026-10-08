@@ -25,4 +25,6 @@ export const spotifyScopes = {
       statement: "A scope no call in this domain needs is not asked for.",
     },
   ],
+  createdAt: "2026-09-02T13:49:35.645Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies Module

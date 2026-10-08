@@ -6,4 +6,6 @@ export const requireAt = {
   slug: "require-at",
   definition: "the element at an index, refused where the array is shorter",
   code: "ts",
+  createdAt: "2026-09-01T10:46:49.600Z",
+  updatedAt: "2026-09-15T19:48:30.000Z",
 } as const satisfies Module

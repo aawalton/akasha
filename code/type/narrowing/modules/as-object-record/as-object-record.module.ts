@@ -7,4 +7,6 @@ export const asObjectRecord = {
   definition:
     "a value narrowed to an object of unknown values, or nothing where the value is not one",
   code: "ts",
+  createdAt: "2026-09-02T04:18:43.449Z",
+  updatedAt: "2026-09-22T13:24:12.000Z",
 } as const satisfies Module

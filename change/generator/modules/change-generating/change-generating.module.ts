@@ -69,4 +69,6 @@ export const changeGenerating = {
       statement: "Nothing here writes to disk but those costs.",
     },
   ],
+  createdAt: "2026-09-24T19:21:33.777Z",
+  updatedAt: "2026-09-24T22:33:23.000Z",
 } as const satisfies Module

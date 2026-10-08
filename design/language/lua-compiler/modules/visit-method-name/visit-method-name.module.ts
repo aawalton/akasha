@@ -6,4 +6,6 @@ export const visitMethodName = {
   slug: "visit-method-name",
   definition: "the string key a class method name becomes, and the table that owns it",
   code: "ts",
+  createdAt: "2026-09-03T12:57:32.079Z",
+  updatedAt: "2026-09-15T18:34:11.000Z",
 } as const satisfies Module

@@ -57,4 +57,6 @@ export const pageAnswering = {
       statement: "Nothing here reads a file or writes one.",
     },
   ],
+  createdAt: "2026-09-12T12:16:24.316Z",
+  updatedAt: "2026-09-22T10:05:48.000Z",
 } as const satisfies Module

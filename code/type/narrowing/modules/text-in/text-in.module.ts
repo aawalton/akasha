@@ -21,4 +21,6 @@ export const textIn = {
       statement: "Text carrying a space is text, because a space was written.",
     },
   ],
+  createdAt: "2026-09-11T02:01:47.323Z",
+  updatedAt: "2026-09-15T19:48:30.000Z",
 } as const satisfies Module

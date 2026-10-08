@@ -21,4 +21,6 @@ export const deployIosInstalling = {
       statement: "A simulator install is built from the files the deploy's commit holds.",
     },
   ],
+  createdAt: "2026-09-25T18:31:55.641Z",
+  updatedAt: "2026-09-25T18:36:21.000Z",
 } as const satisfies Module

@@ -31,4 +31,6 @@ export const dayReading = {
         "A key the day page type declares nothing for is refused rather than answered as absent.",
     },
   ],
+  createdAt: "2026-09-05T19:12:24.994Z",
+  updatedAt: "2026-09-22T13:45:29.000Z",
 } as const satisfies Module

@@ -6,4 +6,6 @@ export const lualibRuntime = {
   slug: "lualib-runtime",
   definition: "lualib features resolved to the Lua code or require statements a file needs",
   code: "ts",
+  createdAt: "2026-09-03T12:57:31.999Z",
+  updatedAt: "2026-09-15T18:34:11.000Z",
 } as const satisfies Module

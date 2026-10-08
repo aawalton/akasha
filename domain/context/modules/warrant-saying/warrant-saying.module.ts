@@ -82,4 +82,6 @@ export const warrantSaying = {
       statement: "Nothing here reads a file, reads the index, or asks which warrants there are.",
     },
   ],
+  createdAt: "2026-09-12T13:48:32.976Z",
+  updatedAt: "2026-09-22T10:11:20.000Z",
 } as const satisfies Module

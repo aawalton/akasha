@@ -33,4 +33,6 @@ export const addonPrograms = {
       statement: "Nothing here runs a compiler.",
     },
   ],
+  createdAt: "2026-09-25T13:26:59.225Z",
+  updatedAt: "2026-09-25T13:27:13.000Z",
 } as const satisfies Module

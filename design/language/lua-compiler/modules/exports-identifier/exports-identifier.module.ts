@@ -6,4 +6,6 @@ export const exportsIdentifier = {
   slug: "exports-identifier",
   definition: "the ____exports identifier of a Lua module",
   code: "ts",
+  createdAt: "2026-09-03T12:57:32.024Z",
+  updatedAt: "2026-09-15T18:34:11.000Z",
 } as const satisfies Module

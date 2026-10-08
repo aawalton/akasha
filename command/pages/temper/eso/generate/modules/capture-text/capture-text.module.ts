@@ -12,4 +12,6 @@ export const captureText = {
       statement: "A file that cannot be read is answered as nothing rather than raising.",
     },
   ],
+  createdAt: "2026-09-24T16:10:55.307Z",
+  updatedAt: "2026-09-24T16:11:24.000Z",
 } as const satisfies Module

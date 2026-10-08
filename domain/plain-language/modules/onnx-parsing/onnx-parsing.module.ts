@@ -68,4 +68,6 @@ export const onnxParsing = {
       statement: "A parse stored under an earlier shape is read as no parse.",
     },
   ],
+  createdAt: "2026-09-04T16:23:28.061Z",
+  updatedAt: "2026-09-15T18:34:44.000Z",
 } as const satisfies Module

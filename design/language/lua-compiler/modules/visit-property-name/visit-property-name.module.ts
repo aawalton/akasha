@@ -6,4 +6,6 @@ export const visitPropertyName = {
   slug: "visit-property-name",
   definition: "the Lua key a property name becomes",
   code: "ts",
+  createdAt: "2026-09-03T12:57:32.099Z",
+  updatedAt: "2026-09-15T18:34:11.000Z",
 } as const satisfies Module

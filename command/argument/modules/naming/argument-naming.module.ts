@@ -70,4 +70,6 @@ export const argumentNaming = {
       statement: "A placeholder is written in the angle brackets a page leaves off it.",
     },
   ],
+  createdAt: "2026-09-12T07:29:13.869Z",
+  updatedAt: "2026-09-15T18:33:01.000Z",
 } as const satisfies Module

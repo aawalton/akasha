@@ -80,4 +80,6 @@ export const turnPrompting = {
         "A prompt has the seat read every file of its job afresh, never from an earlier job.",
     },
   ],
+  createdAt: "2026-09-26T17:36:45.585Z",
+  updatedAt: "2026-10-04T00:42:16.000Z",
 } as const satisfies Module

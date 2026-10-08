@@ -6,4 +6,6 @@ export const kbd = {
   slug: "kbd",
   definition: "a key drawn as it is printed on a keyboard",
   code: "tsx",
+  createdAt: "2026-09-01T09:34:00.837Z",
+  updatedAt: "2026-09-15T18:33:51.000Z",
 } as const satisfies Module

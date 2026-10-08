@@ -6,4 +6,6 @@ export const propertyRowPanels = {
   slug: "property-row-panels",
   definition: "the panel showing the row a page lists each of its properties in",
   code: "tsx",
+  createdAt: "2026-09-24T20:01:11.632Z",
+  updatedAt: "2026-09-24T20:01:31.000Z",
 } as const satisfies Module

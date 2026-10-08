@@ -53,4 +53,6 @@ export const tailFold = {
       statement: "Nothing here writes to disk.",
     },
   ],
+  createdAt: "2026-09-03T01:44:34.894Z",
+  updatedAt: "2026-09-22T13:56:01.000Z",
 } as const satisfies Module

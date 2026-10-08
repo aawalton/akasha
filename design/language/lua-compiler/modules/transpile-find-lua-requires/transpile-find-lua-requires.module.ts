@@ -6,4 +6,6 @@ export const transpileFindLuaRequires = {
   slug: "transpile-find-lua-requires",
   definition: "the positions and paths of every require call in a Lua source text",
   code: "ts",
+  createdAt: "2026-09-03T12:57:32.113Z",
+  updatedAt: "2026-09-15T18:34:11.000Z",
 } as const satisfies Module

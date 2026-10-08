@@ -6,4 +6,6 @@ export const chunk = {
   slug: "chunk",
   definition: "a list given back as runs of at most a stated size, in the order given",
   code: "ts",
+  createdAt: "2026-09-11T00:25:17.117Z",
+  updatedAt: "2026-09-15T19:48:30.000Z",
 } as const satisfies Module

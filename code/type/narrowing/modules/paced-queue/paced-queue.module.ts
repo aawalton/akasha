@@ -24,4 +24,6 @@ export const pacedQueue = {
       statement: "A run's answer reaches its caller rather than the wait after it.",
     },
   ],
+  createdAt: "2026-09-11T00:25:17.117Z",
+  updatedAt: "2026-09-15T19:48:30.000Z",
 } as const satisfies Module

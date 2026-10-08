@@ -22,4 +22,6 @@ export const draftParsing = {
       statement: "Only the bodies the new edits touch are parsed, as every edit kept leaves them.",
     },
   ],
+  createdAt: "2026-09-27T17:57:48.798Z",
+  updatedAt: "2026-09-27T17:58:40.000Z",
 } as const satisfies Module

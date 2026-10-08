@@ -16,4 +16,6 @@ export const commandFailing = {
       statement: "The message reaches standard error rather than standard output.",
     },
   ],
+  createdAt: "2026-09-04T00:38:57.203Z",
+  updatedAt: "2026-09-15T18:33:01.000Z",
 } as const satisfies Module

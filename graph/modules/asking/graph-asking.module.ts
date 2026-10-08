@@ -131,4 +131,6 @@ export const graphAsking = {
       statement: "A page reaches the module its page type names as that type's loader.",
     },
   ],
+  createdAt: "2026-08-29T23:56:38.796Z",
+  updatedAt: "2026-09-24T22:53:20.000Z",
 } as const satisfies Module

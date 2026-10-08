@@ -17,4 +17,6 @@ export const landingIndexing = {
       statement: "A repair tells the index the base commit's bodies again.",
     },
   ],
+  createdAt: "2026-09-25T14:37:56.546Z",
+  updatedAt: "2026-09-25T14:38:29.000Z",
 } as const satisfies Module

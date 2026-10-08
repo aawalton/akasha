@@ -66,4 +66,6 @@ export const commandTreePanel = {
       statement: "Nothing here decides a row's appearance.",
     },
   ],
+  createdAt: "2026-09-07T15:54:06.595Z",
+  updatedAt: "2026-09-22T10:06:53.000Z",
 } as const satisfies Module

@@ -66,4 +66,6 @@ export const lockHolder = {
       statement: "The input read is a pid and a mark.",
     },
   ],
+  createdAt: "2026-08-30T10:22:43.141Z",
+  updatedAt: "2026-09-15T18:34:44.000Z",
 } as const satisfies Module

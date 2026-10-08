@@ -12,4 +12,6 @@ export const parseTimestamp = {
       statement: "A value spelling no moment reads as the epoch.",
     },
   ],
+  createdAt: "2026-09-11T01:05:51.899Z",
+  updatedAt: "2026-09-15T19:48:30.000Z",
 } as const satisfies Module

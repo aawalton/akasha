@@ -6,4 +6,6 @@ export const transformation = {
   slug: "transformation",
   definition: "the Lua file and diagnostics out of a TypeScript source file",
   code: "ts",
+  createdAt: "2026-09-03T12:57:32.018Z",
+  updatedAt: "2026-09-22T13:44:42.000Z",
 } as const satisfies Module

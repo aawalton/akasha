@@ -106,4 +106,6 @@ export const commandServerClient = {
         "Every answer pipe a client opens is therefore held for as long as the process runs.",
     },
   ],
+  createdAt: "2026-09-03T01:38:35.992Z",
+  updatedAt: "2026-10-03T15:02:59.000Z",
 } as const satisfies Module

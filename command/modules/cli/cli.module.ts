@@ -61,4 +61,6 @@ export const cli = {
       statement: "No function here is the guard a command's body runs inside.",
     },
   ],
+  createdAt: "2026-08-29T04:53:12.685Z",
+  updatedAt: "2026-09-25T21:16:57.000Z",
 } as const satisfies Module

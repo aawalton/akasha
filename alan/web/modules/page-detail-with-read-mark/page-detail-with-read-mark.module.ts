@@ -6,4 +6,6 @@ export const pageDetailWithReadMark = {
   slug: "page-detail-with-read-mark",
   definition: "a page's detail drawn with the mark saying it was read",
   code: "tsx",
+  createdAt: "2026-09-03T03:44:04.792Z",
+  updatedAt: "2026-09-15T18:21:01.000Z",
 } as const satisfies Module

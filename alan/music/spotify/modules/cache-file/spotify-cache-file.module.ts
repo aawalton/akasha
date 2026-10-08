@@ -49,4 +49,6 @@ export const spotifyCacheFile = {
       statement: "Nothing here knows the values a Spotify file has.",
     },
   ],
+  createdAt: "2026-09-02T13:49:35.645Z",
+  updatedAt: "2026-09-22T14:37:11.000Z",
 } as const satisfies Module

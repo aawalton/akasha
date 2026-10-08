@@ -50,4 +50,6 @@ export const atomicWrite = {
       statement: "The editor's extension host has no `Bun`.",
     },
   ],
+  createdAt: "2026-09-01T09:28:37.697Z",
+  updatedAt: "2026-09-27T08:15:32.000Z",
 } as const satisfies Module

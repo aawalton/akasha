@@ -40,4 +40,6 @@ export const verifyRenderPlan = {
       statement: "Nothing here opens a browser.",
     },
   ],
+  createdAt: "2026-09-03T21:09:52.612Z",
+  updatedAt: "2026-09-25T19:29:20.000Z",
 } as const satisfies Module

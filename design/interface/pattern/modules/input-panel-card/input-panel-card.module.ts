@@ -6,4 +6,6 @@ export const inputPanelCard = {
   slug: "input-panel-card",
   definition: "a panel card holding labelled form rows",
   code: "tsx",
+  createdAt: "2026-09-01T09:34:00.836Z",
+  updatedAt: "2026-09-15T18:33:51.000Z",
 } as const satisfies Module

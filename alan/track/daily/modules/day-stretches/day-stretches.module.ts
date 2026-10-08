@@ -82,4 +82,6 @@ export const dayStretches = {
       statement: "What a stretch may have is asked of the `sessions` entry property.",
     },
   ],
+  createdAt: "2026-09-05T19:12:24.995Z",
+  updatedAt: "2026-09-22T13:46:30.000Z",
 } as const satisfies Module

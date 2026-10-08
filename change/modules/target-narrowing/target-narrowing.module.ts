@@ -49,4 +49,6 @@ export const targetNarrowing = {
       statement: "Nothing here reads a path.",
     },
   ],
+  createdAt: "2026-09-08T18:50:47.853Z",
+  updatedAt: "2026-09-15T18:21:01.000Z",
 } as const satisfies Module

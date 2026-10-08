@@ -60,4 +60,6 @@ export const pageClaiming = {
       statement: "Nothing here decides whether a page may be acted on.",
     },
   ],
+  createdAt: "2026-09-06T22:01:31.977Z",
+  updatedAt: "2026-09-26T18:11:02.000Z",
 } as const satisfies Module

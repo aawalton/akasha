@@ -114,4 +114,6 @@ export const codeLint = {
       statement: "What exit follows belongs to the caller that asked for the run.",
     },
   ],
+  createdAt: "2026-08-29T18:49:54.732Z",
+  updatedAt: "2026-09-15T18:33:01.000Z",
 } as const satisfies Module

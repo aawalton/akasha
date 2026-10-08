@@ -63,4 +63,6 @@ export const landingEntangling = {
       statement: "Such a refusal writes nothing, and an apply judges the change again at HEAD.",
     },
   ],
+  createdAt: "2026-09-25T17:24:42.360Z",
+  updatedAt: "2026-10-02T18:13:08.000Z",
 } as const satisfies Module

@@ -6,4 +6,6 @@ export const panelCardData = {
   slug: "panel-card-data",
   definition: "the width classes every panel card is drawn to",
   code: "ts",
+  createdAt: "2026-09-01T05:47:57.209Z",
+  updatedAt: "2026-09-15T18:33:51.000Z",
 } as const satisfies Module

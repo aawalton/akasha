@@ -59,4 +59,6 @@ export const seatToggles = {
       statement: "A restart attaches no terminal, the seat keeping the session it is in.",
     },
   ],
+  createdAt: "2026-09-03T17:58:07.081Z",
+  updatedAt: "2026-09-22T14:08:17.000Z",
 } as const satisfies Module

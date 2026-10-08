@@ -58,4 +58,6 @@ export const sessionActing = {
       statement: "Nothing here reads a clock.",
     },
   ],
+  createdAt: "2026-09-07T01:26:40.325Z",
+  updatedAt: "2026-09-25T14:14:04.000Z",
 } as const satisfies Module

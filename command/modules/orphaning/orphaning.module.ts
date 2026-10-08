@@ -55,4 +55,6 @@ export const orphaning = {
       statement: "Nothing here refuses a change.",
     },
   ],
+  createdAt: "2026-09-05T16:38:05.946Z",
+  updatedAt: "2026-09-25T14:21:36.000Z",
 } as const satisfies Module

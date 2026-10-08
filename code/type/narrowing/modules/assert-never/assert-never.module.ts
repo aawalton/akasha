@@ -6,4 +6,6 @@ export const assertNever = {
   slug: "assert-never",
   definition: "a variant no branch handled, refused where the code reaches it",
   code: "ts",
+  createdAt: "2026-09-01T10:46:49.597Z",
+  updatedAt: "2026-09-15T19:48:30.000Z",
 } as const satisfies Module

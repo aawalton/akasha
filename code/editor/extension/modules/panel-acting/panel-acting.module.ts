@@ -33,4 +33,6 @@ export const panelActing = {
       statement: "Nothing here runs.",
     },
   ],
+  createdAt: "2026-09-24T22:18:54.441Z",
+  updatedAt: "2026-09-24T22:20:33.000Z",
 } as const satisfies Module

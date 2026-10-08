@@ -116,4 +116,6 @@ export const deployTreePinning = {
         "One thing moves a slug's tree, and that is the deploy of that slug under its own hold.",
     },
   ],
+  createdAt: "2026-09-11T20:54:46.742Z",
+  updatedAt: "2026-09-25T14:46:30.000Z",
 } as const satisfies Module

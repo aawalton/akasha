@@ -141,4 +141,6 @@ export const auditVerdict = {
       statement: "Nothing here holds the file against a second writer.",
     },
   ],
+  createdAt: "2026-09-11T19:19:48.124Z",
+  updatedAt: "2026-09-22T14:40:36.000Z",
 } as const satisfies Module

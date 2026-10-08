@@ -87,4 +87,6 @@ export const changeCeiling = {
       statement: "Nothing refuses a change for the memory that change held.",
     },
   ],
+  createdAt: "2026-09-11T16:36:54.841Z",
+  updatedAt: "2026-09-22T10:07:02.000Z",
 } as const satisfies Module

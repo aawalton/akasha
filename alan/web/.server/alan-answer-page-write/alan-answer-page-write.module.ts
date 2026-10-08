@@ -16,4 +16,6 @@ export const alanAnswerPageWrite = {
       statement: "The answer to that write does not wait on the rule.",
     },
   ],
+  createdAt: "2026-09-03T03:45:08.505Z",
+  updatedAt: "2026-10-03T14:06:30.000Z",
 } as const satisfies Module

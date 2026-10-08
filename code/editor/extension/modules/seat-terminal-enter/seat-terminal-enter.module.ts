@@ -54,4 +54,6 @@ export const seatTerminalEnter = {
       statement: "Nothing here sweeps the terminals for their seats.",
     },
   ],
+  createdAt: "2026-09-06T18:52:43.296Z",
+  updatedAt: "2026-09-15T18:33:01.000Z",
 } as const satisfies Module

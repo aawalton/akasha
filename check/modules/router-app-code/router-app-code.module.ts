@@ -64,4 +64,6 @@ export const routerAppCode = {
       statement: "A path named for no TypeScript file is left out of them.",
     },
   ],
+  createdAt: "2026-09-11T01:14:32.768Z",
+  updatedAt: "2026-09-15T18:21:01.000Z",
 } as const satisfies Module

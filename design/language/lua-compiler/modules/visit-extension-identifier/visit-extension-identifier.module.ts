@@ -6,4 +6,6 @@ export const visitExtensionIdentifier = {
   slug: "visit-extension-identifier",
   definition: "the diagnostic a bare $multi, $range, or $vararg identifier becomes",
   code: "ts",
+  createdAt: "2026-09-03T12:57:32.088Z",
+  updatedAt: "2026-09-15T18:34:11.000Z",
 } as const satisfies Module

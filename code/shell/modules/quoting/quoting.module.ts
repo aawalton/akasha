@@ -37,4 +37,6 @@ export const quoting = {
       statement: "Nothing here builds a command or runs a command.",
     },
   ],
+  createdAt: "2026-09-01T15:34:04.410Z",
+  updatedAt: "2026-09-15T18:33:01.000Z",
 } as const satisfies Module

@@ -102,4 +102,6 @@ export const literalSplicing = {
       statement: "A record written on one line gains its field on that line.",
     },
   ],
+  createdAt: "2026-09-08T17:59:14.474Z",
+  updatedAt: "2026-09-24T15:14:52.000Z",
 } as const satisfies Module

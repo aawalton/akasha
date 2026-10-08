@@ -17,4 +17,6 @@ export const textThere = {
       statement: "A path holding no file and a path that would not open are one answer.",
     },
   ],
+  createdAt: "2026-09-11T02:10:50.455Z",
+  updatedAt: "2026-09-25T16:09:55.000Z",
 } as const satisfies Module

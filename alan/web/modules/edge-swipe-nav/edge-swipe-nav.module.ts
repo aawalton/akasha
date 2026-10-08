@@ -6,4 +6,6 @@ export const edgeSwipeNav = {
   slug: "edge-swipe-nav",
   definition: "a swipe from the screen's edge taken as going back",
   code: "tsx",
+  createdAt: "2026-09-03T03:44:04.792Z",
+  updatedAt: "2026-09-22T13:24:12.000Z",
 } as const satisfies Module

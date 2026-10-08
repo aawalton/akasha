@@ -20,4 +20,6 @@ export const anythingThere = {
       statement: "A read that throws for any reason answers that nothing is there.",
     },
   ],
+  createdAt: "2026-09-11T01:30:29.711Z",
+  updatedAt: "2026-09-25T16:09:55.000Z",
 } as const satisfies Module

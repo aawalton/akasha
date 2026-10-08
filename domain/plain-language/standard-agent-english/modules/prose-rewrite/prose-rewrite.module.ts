@@ -33,4 +33,6 @@ export const proseRewrite = {
       statement: "Nothing here reads a sentence's tree.",
     },
   ],
+  createdAt: "2026-09-08T18:26:26.124Z",
+  updatedAt: "2026-09-25T15:41:48.000Z",
 } as const satisfies Module

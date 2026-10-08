@@ -49,4 +49,6 @@ export const dayActiveCalories = {
       statement: "Importing this file writes nothing.",
     },
   ],
+  createdAt: "2026-09-03T22:45:21.686Z",
+  updatedAt: "2026-09-22T10:05:53.000Z",
 } as const satisfies Module

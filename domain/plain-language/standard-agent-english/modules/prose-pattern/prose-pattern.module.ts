@@ -191,4 +191,6 @@ export const prosePattern = {
       statement: "A participle read as a clause's own subject names an act.",
     },
   ],
+  createdAt: "2026-09-08T17:45:56.120Z",
+  updatedAt: "2026-09-25T15:41:48.000Z",
 } as const satisfies Module

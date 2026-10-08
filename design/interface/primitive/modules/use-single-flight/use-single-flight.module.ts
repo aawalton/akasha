@@ -6,4 +6,6 @@ export const useSingleFlight = {
   slug: "use-single-flight",
   definition: "one call at a time, with only the latest request kept waiting",
   code: "ts",
+  createdAt: "2026-09-01T07:40:46.150Z",
+  updatedAt: "2026-09-15T18:34:11.000Z",
 } as const satisfies Module

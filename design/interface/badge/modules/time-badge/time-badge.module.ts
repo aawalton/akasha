@@ -6,4 +6,6 @@ export const timeBadge = {
   slug: "time-badge",
   definition: "a badge showing a time of day and opening a field to change it",
   code: "tsx",
+  createdAt: "2026-09-01T04:58:54.649Z",
+  updatedAt: "2026-09-15T18:33:51.000Z",
 } as const satisfies Module

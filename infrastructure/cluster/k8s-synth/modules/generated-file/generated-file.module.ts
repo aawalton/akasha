@@ -16,4 +16,6 @@ export const generatedFile = {
       statement: "A file already with the bytes that would be written is left alone.",
     },
   ],
+  createdAt: "2026-09-03T16:17:57.096Z",
+  updatedAt: "2026-09-22T13:59:52.000Z",
 } as const satisfies Module

@@ -40,4 +40,6 @@ export const seatTerminals = {
       statement: "No child process is started here.",
     },
   ],
+  createdAt: "2026-09-03T17:58:07.081Z",
+  updatedAt: "2026-09-22T14:00:01.000Z",
 } as const satisfies Module

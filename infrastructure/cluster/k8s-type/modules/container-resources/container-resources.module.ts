@@ -31,4 +31,6 @@ export const containerResources = {
         "A container other than the one the page names its numbers for states its own in code.",
     },
   ],
+  createdAt: "2026-09-24T23:06:10.281Z",
+  updatedAt: "2026-09-24T23:06:28.000Z",
 } as const satisfies Module

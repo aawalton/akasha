@@ -20,4 +20,6 @@ export const procEnviron = {
       statement: "Nothing here knows an environment variable's meaning.",
     },
   ],
+  createdAt: "2026-09-03T21:09:52.611Z",
+  updatedAt: "2026-09-22T10:06:53.000Z",
 } as const satisfies Module

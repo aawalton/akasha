@@ -6,4 +6,6 @@ export const numberBadge = {
   slug: "number-badge",
   definition: "a badge showing a number and taking a new one when pressed",
   code: "tsx",
+  createdAt: "2026-09-01T04:58:54.649Z",
+  updatedAt: "2026-09-15T18:33:51.000Z",
 } as const satisfies Module

@@ -105,4 +105,6 @@ export const deviceSecretSync = {
       statement: "A whole-document reload boots with no earlier identity to compare against.",
     },
   ],
+  createdAt: "2026-09-03T03:44:04.793Z",
+  updatedAt: "2026-09-25T15:38:36.000Z",
 } as const satisfies Module

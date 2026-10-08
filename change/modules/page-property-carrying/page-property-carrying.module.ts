@@ -74,4 +74,6 @@ export const pagePropertyCarrying = {
       statement: "Nothing here answers a passage or an edit.",
     },
   ],
+  createdAt: "2026-09-13T20:41:44.465Z",
+  updatedAt: "2026-09-15T18:21:01.000Z",
 } as const satisfies Module

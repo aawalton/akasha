@@ -6,4 +6,6 @@ export const transpileReachability = {
   slug: "transpile-reachability",
   definition: "the set of source files and exported names a bundle entry point reaches",
   code: "ts",
+  createdAt: "2026-09-03T12:57:32.118Z",
+  updatedAt: "2026-09-15T18:34:11.000Z",
 } as const satisfies Module

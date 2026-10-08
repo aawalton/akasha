@@ -25,4 +25,6 @@ export const wholeNumberIn = {
       statement: "Digits naming a number past the last exact one are answered rounded.",
     },
   ],
+  createdAt: "2026-09-11T01:00:00.299Z",
+  updatedAt: "2026-09-24T22:18:31.000Z",
 } as const satisfies Module

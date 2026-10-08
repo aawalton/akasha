@@ -57,4 +57,6 @@ export const terminalPids = {
       statement: "Nothing here names the editor's own terminal type.",
     },
   ],
+  createdAt: "2026-09-03T01:44:34.894Z",
+  updatedAt: "2026-09-15T18:33:01.000Z",
 } as const satisfies Module

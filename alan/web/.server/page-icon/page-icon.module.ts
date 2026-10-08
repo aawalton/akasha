@@ -26,4 +26,6 @@ export const pageIcon = {
       statement: "A page whose icon goes unread is drawn with no icon of its own.",
     },
   ],
+  createdAt: "2026-09-28T11:59:13.924Z",
+  updatedAt: "2026-09-28T11:59:23.000Z",
 } as const satisfies Module

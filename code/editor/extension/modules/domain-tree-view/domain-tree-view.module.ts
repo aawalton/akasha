@@ -57,4 +57,6 @@ export const domainTreeView = {
       statement: "Nothing here makes the view these rows are drawn in.",
     },
   ],
+  createdAt: "2026-09-03T17:53:52.075Z",
+  updatedAt: "2026-09-19T01:02:10.000Z",
 } as const satisfies Module

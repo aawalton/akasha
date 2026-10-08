@@ -6,4 +6,6 @@ export const clusterWorkloads = {
   slug: "cluster-workloads",
   definition: "the pods a namespace holds under a label selector",
   code: "ts",
+  createdAt: "2026-09-03T19:52:53.162Z",
+  updatedAt: "2026-09-22T10:09:39.000Z",
 } as const satisfies Module

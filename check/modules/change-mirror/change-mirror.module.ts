@@ -57,4 +57,6 @@ export const changeMirror = {
       statement: "Which paths a mirror is written over is settled by the caller that asked.",
     },
   ],
+  createdAt: "2026-09-08T11:04:59.938Z",
+  updatedAt: "2026-09-22T13:56:01.000Z",
 } as const satisfies Module

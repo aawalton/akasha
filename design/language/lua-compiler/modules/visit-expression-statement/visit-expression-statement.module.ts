@@ -6,4 +6,6 @@ export const visitExpressionStatement = {
   slug: "visit-expression-statement",
   definition: "the Lua statement an expression statement becomes",
   code: "ts",
+  createdAt: "2026-09-03T12:57:32.084Z",
+  updatedAt: "2026-09-15T18:34:11.000Z",
 } as const satisfies Module

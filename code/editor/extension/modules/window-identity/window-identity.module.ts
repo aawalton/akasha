@@ -40,4 +40,6 @@ export const windowIdentity = {
       statement: "Nothing here knows the fields a window record holds.",
     },
   ],
+  createdAt: "2026-09-03T01:31:24.156Z",
+  updatedAt: "2026-09-22T13:24:12.000Z",
 } as const satisfies Module

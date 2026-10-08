@@ -78,4 +78,6 @@ export const workTreeView = {
       statement: "Nothing here names a color.",
     },
   ],
+  createdAt: "2026-09-03T17:53:52.075Z",
+  updatedAt: "2026-09-22T14:00:01.000Z",
 } as const satisfies Module

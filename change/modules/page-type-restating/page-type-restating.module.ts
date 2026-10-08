@@ -74,4 +74,6 @@ export const pageTypeRestating = {
       statement: "Nothing here works out which files a page keeps beside it.",
     },
   ],
+  createdAt: "2026-09-13T20:25:07.863Z",
+  updatedAt: "2026-09-24T17:19:49.000Z",
 } as const satisfies Module

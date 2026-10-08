@@ -58,4 +58,6 @@ export const domainTreePanel = {
       statement: "Nothing here decides the look of a row.",
     },
   ],
+  createdAt: "2026-09-03T17:53:52.075Z",
+  updatedAt: "2026-09-22T10:07:02.000Z",
 } as const satisfies Module

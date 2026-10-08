@@ -37,4 +37,6 @@ export const gitDir = {
       statement: "What is under the folder is not said here.",
     },
   ],
+  createdAt: "2026-09-11T18:44:07.483Z",
+  updatedAt: "2026-09-22T15:39:37.000Z",
 } as const satisfies Module

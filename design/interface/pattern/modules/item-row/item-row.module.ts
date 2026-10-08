@@ -6,4 +6,6 @@ export const itemRow = {
   slug: "item-row",
   definition: "a row representing an item in a list",
   code: "tsx",
+  createdAt: "2026-09-01T10:00:29.539Z",
+  updatedAt: "2026-09-22T10:11:20.000Z",
 } as const satisfies Module

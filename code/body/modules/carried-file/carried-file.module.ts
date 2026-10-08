@@ -38,4 +38,6 @@ export const carriedFile = {
     },
   ],
   reachedByPath: ["carriedIn"],
+  createdAt: "2026-09-03T21:43:47.390Z",
+  updatedAt: "2026-09-15T18:33:01.000Z",
 } as const satisfies Module

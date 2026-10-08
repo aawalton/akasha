@@ -6,4 +6,6 @@ export const lualibFeatures = {
   slug: "lualib-features",
   definition: "the named lualib features and the exports and dependencies each declares",
   code: "ts",
+  createdAt: "2026-09-03T12:57:31.976Z",
+  updatedAt: "2026-09-15T18:34:11.000Z",
 } as const satisfies Module

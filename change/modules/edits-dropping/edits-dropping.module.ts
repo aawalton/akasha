@@ -37,4 +37,6 @@ export const editsDropping = {
       statement: "No refusal is said for a body dropped.",
     },
   ],
+  createdAt: "2026-09-11T22:05:20.191Z",
+  updatedAt: "2026-09-15T18:21:01.000Z",
 } as const satisfies Module

@@ -6,4 +6,6 @@ export const readCompletion = {
   slug: "read-completion",
   definition: "whether a read counts as finished",
   code: "ts",
+  createdAt: "2026-09-03T03:44:04.791Z",
+  updatedAt: "2026-09-15T18:21:01.000Z",
 } as const satisfies Module

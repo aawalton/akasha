@@ -6,4 +6,6 @@ export const breadcrumb = {
   slug: "breadcrumb",
   definition: "the trail of links back up from where the reader is",
   code: "tsx",
+  createdAt: "2026-09-01T07:40:46.146Z",
+  updatedAt: "2026-09-15T18:33:51.000Z",
 } as const satisfies Module

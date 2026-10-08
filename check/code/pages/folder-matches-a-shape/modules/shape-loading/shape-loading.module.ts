@@ -70,4 +70,6 @@ export const shapeLoading = {
       statement: "The shapes are handed over ordered by slug.",
     },
   ],
+  createdAt: "2026-09-02T17:26:48.246Z",
+  updatedAt: "2026-09-24T15:59:06.000Z",
 } as const satisfies Module

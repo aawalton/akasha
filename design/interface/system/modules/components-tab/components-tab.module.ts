@@ -6,4 +6,6 @@ export const componentsTab = {
   slug: "components-tab",
   definition: "the components tab, laying out a panel for each component",
   code: "tsx",
+  createdAt: "2026-09-01T10:48:05.960Z",
+  updatedAt: "2026-09-21T15:45:55.000Z",
 } as const satisfies Module

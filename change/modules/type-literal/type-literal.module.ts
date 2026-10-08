@@ -33,4 +33,6 @@ export const typeLiteral = {
       statement: "A change wanting this type reads it here rather than from another change.",
     },
   ],
+  createdAt: "2026-09-13T15:48:36.369Z",
+  updatedAt: "2026-09-15T18:21:01.000Z",
 } as const satisfies Module

@@ -6,4 +6,6 @@ export const harnessLaunch = {
   slug: "harness-launch",
   definition: "the launch arguments and environment of a chromium the harness opens",
   code: "ts",
+  createdAt: "2026-09-01T11:10:29.891Z",
+  updatedAt: "2026-09-22T13:37:15.000Z",
 } as const satisfies Module

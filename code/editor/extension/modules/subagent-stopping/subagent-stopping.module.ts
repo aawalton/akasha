@@ -59,4 +59,6 @@ export const subagentStopping = {
       statement: "Nothing here ends a process.",
     },
   ],
+  createdAt: "2026-09-13T20:20:26.965Z",
+  updatedAt: "2026-09-15T18:33:01.000Z",
 } as const satisfies Module

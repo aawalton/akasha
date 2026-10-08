@@ -74,4 +74,6 @@ export const codeBinding = {
       statement: "Nothing here reads the disk or any body but the one handed in.",
     },
   ],
+  createdAt: "2026-09-21T16:03:52.113Z",
+  updatedAt: "2026-09-24T23:21:39.000Z",
 } as const satisfies Module

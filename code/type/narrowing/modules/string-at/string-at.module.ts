@@ -12,4 +12,6 @@ export const stringAt = {
       statement: "An empty string is answered rather than read as nothing.",
     },
   ],
+  createdAt: "2026-09-01T11:44:32.412Z",
+  updatedAt: "2026-09-15T19:48:30.000Z",
 } as const satisfies Module

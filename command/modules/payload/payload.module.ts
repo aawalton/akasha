@@ -6,4 +6,6 @@ export const payload = {
   slug: "payload",
   definition: "the body a call carries, taken as JSON and checked for the keys it owes",
   code: "ts",
+  createdAt: "2026-09-03T23:05:04.918Z",
+  updatedAt: "2026-09-22T13:24:12.000Z",
 } as const satisfies Module

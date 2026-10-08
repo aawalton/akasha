@@ -86,4 +86,6 @@ export const deploySimulatorInstalling = {
       statement: "The plugins the build compiles in are the packages the app's page reaches.",
     },
   ],
+  createdAt: "2026-09-11T01:14:03.420Z",
+  updatedAt: "2026-09-25T18:36:21.000Z",
 } as const satisfies Module

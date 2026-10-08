@@ -48,4 +48,6 @@ export const exclusive = {
         "A file written over is replaced whole, so a reader taking no turn never finds it torn.",
     },
   ],
+  createdAt: "2026-09-01T11:21:01.898Z",
+  updatedAt: "2026-09-30T20:36:43.000Z",
 } as const satisfies Module

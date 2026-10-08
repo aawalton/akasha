@@ -64,4 +64,6 @@ export const terminalEnded = {
       statement: "The line naming the checkout is handed in rather than spelled here.",
     },
   ],
+  createdAt: "2026-09-03T16:12:25.008Z",
+  updatedAt: "2026-09-24T22:22:50.000Z",
 } as const satisfies Module

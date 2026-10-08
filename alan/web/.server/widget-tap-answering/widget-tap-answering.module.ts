@@ -48,4 +48,6 @@ export const widgetTapAnswering = {
       statement: "Nothing here reaches the page store.",
     },
   ],
+  createdAt: "2026-09-06T21:40:55.073Z",
+  updatedAt: "2026-09-15T18:21:01.000Z",
 } as const satisfies Module

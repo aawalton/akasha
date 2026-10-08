@@ -6,4 +6,6 @@ export const visitSourceFile = {
   slug: "visit-source-file",
   definition: "the Lua file a source file becomes",
   code: "ts",
+  createdAt: "2026-09-03T12:57:32.100Z",
+  updatedAt: "2026-09-15T18:34:11.000Z",
 } as const satisfies Module

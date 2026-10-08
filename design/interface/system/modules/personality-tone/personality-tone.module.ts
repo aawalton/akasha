@@ -6,4 +6,6 @@ export const personalityTone = {
   slug: "personality-tone",
   definition: "the panel stating the brand's voice",
   code: "tsx",
+  createdAt: "2026-09-01T10:48:05.959Z",
+  updatedAt: "2026-09-22T13:51:13.000Z",
 } as const satisfies Module

@@ -6,4 +6,6 @@ export const accordion = {
   slug: "accordion",
   definition: "stacked sections where opening one shows the content it has",
   code: "tsx",
+  createdAt: "2026-09-01T07:40:46.145Z",
+  updatedAt: "2026-09-15T18:33:51.000Z",
 } as const satisfies Module

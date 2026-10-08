@@ -70,4 +70,6 @@ export const measureGathering = {
       statement: "Every row is drawn with the ceiling the caller hands over.",
     },
   ],
+  createdAt: "2026-09-13T16:43:29.470Z",
+  updatedAt: "2026-09-22T14:22:32.000Z",
 } as const satisfies Module

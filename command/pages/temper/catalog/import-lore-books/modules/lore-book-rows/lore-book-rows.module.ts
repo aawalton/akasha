@@ -25,4 +25,6 @@ export const loreBookRows = {
       statement: "Nothing here reads a file or writes one.",
     },
   ],
+  createdAt: "2026-09-25T00:06:19.866Z",
+  updatedAt: "2026-09-25T00:06:40.000Z",
 } as const satisfies Module

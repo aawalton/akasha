@@ -24,4 +24,6 @@ export const pushRegistrationSync = {
       statement: "A token that never registers leaves a device no push reaches.",
     },
   ],
+  createdAt: "2026-09-03T03:44:04.793Z",
+  updatedAt: "2026-09-19T19:55:58.000Z",
 } as const satisfies Module

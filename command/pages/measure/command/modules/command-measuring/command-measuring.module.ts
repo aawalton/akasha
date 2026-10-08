@@ -87,4 +87,6 @@ export const commandMeasuring = {
       statement: "A command stating that it runs under no ceiling is drawn blank.",
     },
   ],
+  createdAt: "2026-09-08T11:54:12.345Z",
+  updatedAt: "2026-09-19T03:03:26.000Z",
 } as const satisfies Module

@@ -6,4 +6,6 @@ export const surfaceClass = {
   slug: "surface-class",
   definition: "each surface level's background class",
   code: "ts",
+  createdAt: "2026-09-01T07:40:46.149Z",
+  updatedAt: "2026-09-22T13:59:52.000Z",
 } as const satisfies Module

@@ -59,4 +59,6 @@ export const faultSaying = {
       statement: "Nothing here holds a message to a length, so a long refusal arrives entire.",
     },
   ],
+  createdAt: "2026-08-29T23:46:14.885Z",
+  updatedAt: "2026-09-15T18:33:01.000Z",
 } as const satisfies Module

@@ -40,4 +40,6 @@ export const invokedSeat = {
       statement: "Nothing here acts on a seat.",
     },
   ],
+  createdAt: "2026-09-03T17:58:07.081Z",
+  updatedAt: "2026-09-24T22:20:07.000Z",
 } as const satisfies Module

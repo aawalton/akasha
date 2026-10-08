@@ -24,4 +24,6 @@ export const synthRunning = {
       statement: "A run answers a code rather than ending the process itself.",
     },
   ],
+  createdAt: "2026-09-03T16:17:57.096Z",
+  updatedAt: "2026-09-22T13:43:11.000Z",
 } as const satisfies Module

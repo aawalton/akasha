@@ -128,4 +128,6 @@ export const workTreeAssigning = {
       statement: "Nothing here reads a color or reads the fleet.",
     },
   ],
+  createdAt: "2026-09-15T14:39:38.913Z",
+  updatedAt: "2026-09-26T14:06:24.000Z",
 } as const satisfies Module

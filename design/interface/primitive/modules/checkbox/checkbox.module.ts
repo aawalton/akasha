@@ -6,4 +6,6 @@ export const checkbox = {
   slug: "checkbox",
   definition: "a square control holding on, off or neither",
   code: "tsx",
+  createdAt: "2026-09-01T07:40:46.146Z",
+  updatedAt: "2026-09-15T18:33:51.000Z",
 } as const satisfies Module

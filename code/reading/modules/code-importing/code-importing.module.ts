@@ -49,4 +49,6 @@ export const codeImporting = {
       statement: "An import says whether that import is read as the file loads or only later.",
     },
   ],
+  createdAt: "2026-09-15T03:33:29.261Z",
+  updatedAt: "2026-09-16T13:39:11.000Z",
 } as const satisfies Module

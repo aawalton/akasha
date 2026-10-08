@@ -59,4 +59,6 @@ export const deepLinkOpenSync = {
         "Only a link naming no tap loses a tap this way, and only on the widget that launched the app.",
     },
   ],
+  createdAt: "2026-09-03T03:44:04.792Z",
+  updatedAt: "2026-09-24T21:01:04.000Z",
 } as const satisfies Module

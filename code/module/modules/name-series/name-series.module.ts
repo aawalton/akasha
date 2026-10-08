@@ -112,4 +112,6 @@ export const nameSeries = {
         "The owning page's parts are rewritten before any page of the series is taken away.",
     },
   ],
+  createdAt: "2026-09-04T00:29:00.985Z",
+  updatedAt: "2026-09-25T14:49:57.000Z",
 } as const satisfies Module

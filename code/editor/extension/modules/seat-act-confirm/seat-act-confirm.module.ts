@@ -40,4 +40,6 @@ export const seatActConfirm = {
       statement: "A section's stop is confirmed once, naming the section and how many agents stop.",
     },
   ],
+  createdAt: "2026-09-03T17:58:07.081Z",
+  updatedAt: "2026-10-08T13:21:37.000Z",
 } as const satisfies Module

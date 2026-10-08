@@ -65,4 +65,6 @@ export const treeRowDeleting = {
       statement: "Nothing here draws a row.",
     },
   ],
+  createdAt: "2026-09-19T03:06:01.181Z",
+  updatedAt: "2026-09-24T22:20:48.000Z",
 } as const satisfies Module

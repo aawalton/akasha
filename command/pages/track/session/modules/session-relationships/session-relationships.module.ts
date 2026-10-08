@@ -42,4 +42,6 @@ export const sessionRelationships = {
       statement: "Nothing here writes a file.",
     },
   ],
+  createdAt: "2026-09-10T18:55:50.986Z",
+  updatedAt: "2026-09-22T14:07:45.000Z",
 } as const satisfies Module

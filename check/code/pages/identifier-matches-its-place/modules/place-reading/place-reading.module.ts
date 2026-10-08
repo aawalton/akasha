@@ -26,4 +26,6 @@ export const placeReading = {
         "The file properties carrying `fixedExport` are asked of the index rather than named here.",
     },
   ],
+  createdAt: "2026-09-19T08:02:05.364Z",
+  updatedAt: "2026-09-19T08:18:43.000Z",
 } as const satisfies Module

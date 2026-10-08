@@ -69,4 +69,6 @@ export const auditRecording = {
       statement: "Nothing here reads a verdict back.",
     },
   ],
+  createdAt: "2026-09-16T13:56:12.564Z",
+  updatedAt: "2026-09-22T04:30:34.000Z",
 } as const satisfies Module

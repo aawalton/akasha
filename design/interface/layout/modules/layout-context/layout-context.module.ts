@@ -6,4 +6,6 @@ export const layoutContext = {
   slug: "layout-context",
   definition: "the column count the frame works out from its own width",
   code: "tsx",
+  createdAt: "2026-09-01T05:47:57.208Z",
+  updatedAt: "2026-09-15T18:33:51.000Z",
 } as const satisfies Module

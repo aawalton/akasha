@@ -33,4 +33,6 @@ export const spotifyReleases = {
       statement: "A day an album states only a year or a month for is left as Spotify states it.",
     },
   ],
+  createdAt: "2026-09-13T20:21:55.711Z",
+  updatedAt: "2026-09-24T19:42:40.000Z",
 } as const satisfies Module

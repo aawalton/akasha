@@ -6,4 +6,6 @@ export const contextTempNames = {
   slug: "context-temp-names",
   definition: "the temporary Lua identifier names drawn from an expression or node's own text",
   code: "ts",
+  createdAt: "2026-09-03T12:57:32.015Z",
+  updatedAt: "2026-09-15T18:34:11.000Z",
 } as const satisfies Module

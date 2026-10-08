@@ -6,4 +6,6 @@ export const visitTypescript = {
   slug: "visit-typescript",
   definition: "the erasure of type-only declarations and the unwrapping of assertion expressions",
   code: "ts",
+  createdAt: "2026-09-03T12:57:32.103Z",
+  updatedAt: "2026-09-15T18:34:11.000Z",
 } as const satisfies Module

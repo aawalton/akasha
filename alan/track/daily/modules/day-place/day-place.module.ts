@@ -65,4 +65,6 @@ export const dayPlace = {
       statement: "The days these name tests use are sampled rather than read from the day pages.",
     },
   ],
+  createdAt: "2026-09-04T00:30:53.341Z",
+  updatedAt: "2026-09-22T10:06:01.000Z",
 } as const satisfies Module

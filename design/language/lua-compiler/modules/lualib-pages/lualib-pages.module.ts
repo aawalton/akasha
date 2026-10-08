@@ -139,4 +139,6 @@ export const lualibPages = {
       statement: "Nothing here imports a page to read that page.",
     },
   ],
+  createdAt: "2026-09-08T15:03:38.057Z",
+  updatedAt: "2026-09-24T22:34:00.000Z",
 } as const satisfies Module

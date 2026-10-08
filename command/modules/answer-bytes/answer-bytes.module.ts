@@ -6,4 +6,6 @@ export const answerBytes = {
   slug: "answer-bytes",
   definition: "how long a verb's answer is, said on stderr before the answer goes to stdout",
   code: "ts",
+  createdAt: "2026-09-03T23:05:04.700Z",
+  updatedAt: "2026-09-15T18:33:01.000Z",
 } as const satisfies Module

@@ -22,4 +22,6 @@ export const pageEditing = {
       statement: "Nothing here writes a file.",
     },
   ],
+  createdAt: "2026-09-19T01:46:29.000Z",
+  updatedAt: "2026-09-19T01:46:29.000Z",
 } as const satisfies Module

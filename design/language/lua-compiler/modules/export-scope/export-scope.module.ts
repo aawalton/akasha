@@ -6,4 +6,6 @@ export const exportScope = {
   slug: "export-scope",
   definition: "the export scope and exports-table index a symbol's identifier resolves to",
   code: "ts",
+  createdAt: "2026-09-03T12:57:32.024Z",
+  updatedAt: "2026-09-15T18:34:11.000Z",
 } as const satisfies Module

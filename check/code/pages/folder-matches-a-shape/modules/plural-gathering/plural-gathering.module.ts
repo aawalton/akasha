@@ -24,4 +24,6 @@ export const pluralGathering = {
       statement: "A page type is read as the change leaves that page type.",
     },
   ],
+  createdAt: "2026-09-15T15:52:36.416Z",
+  updatedAt: "2026-09-15T18:21:01.000Z",
 } as const satisfies Module

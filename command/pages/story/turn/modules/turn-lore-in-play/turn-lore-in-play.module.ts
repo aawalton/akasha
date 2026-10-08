@@ -43,4 +43,6 @@ export const turnLoreInPlay = {
       statement: "Nothing here reads the disk.",
     },
   ],
+  createdAt: "2026-09-28T19:08:35.893Z",
+  updatedAt: "2026-09-30T18:01:26.000Z",
 } as const satisfies Module

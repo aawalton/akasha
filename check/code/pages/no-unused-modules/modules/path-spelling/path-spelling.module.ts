@@ -56,4 +56,6 @@ export const pathSpelling = {
       statement: "Nothing here reaches the index.",
     },
   ],
+  createdAt: "2026-09-22T00:19:38.772Z",
+  updatedAt: "2026-09-22T00:23:06.000Z",
 } as const satisfies Module

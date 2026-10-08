@@ -99,4 +99,6 @@ export const holding = {
       ],
     },
   ],
+  createdAt: "2026-08-29T14:33:50.029Z",
+  updatedAt: "2026-09-25T15:23:13.000Z",
 } as const satisfies Module

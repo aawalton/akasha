@@ -38,4 +38,6 @@ export const tabIcon = {
       statement: "An icon a drawn page shows live names the tab icon over what any route loaded.",
     },
   ],
+  createdAt: "2026-09-27T16:11:08.275Z",
+  updatedAt: "2026-09-28T23:08:46.000Z",
 } as const satisfies Module

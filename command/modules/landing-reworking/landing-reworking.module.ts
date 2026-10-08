@@ -35,4 +35,6 @@ export const landingReworking = {
       statement: "A refusal of any other kind is answered as the landing answered it.",
     },
   ],
+  createdAt: "2026-09-24T17:11:19.293Z",
+  updatedAt: "2026-09-25T17:25:25.000Z",
 } as const satisfies Module

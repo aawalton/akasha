@@ -72,4 +72,6 @@ export const serviceTreeView = {
       statement: "Nothing here asks a service anything.",
     },
   ],
+  createdAt: "2026-09-13T18:54:01.684Z",
+  updatedAt: "2026-09-22T13:48:01.000Z",
 } as const satisfies Module

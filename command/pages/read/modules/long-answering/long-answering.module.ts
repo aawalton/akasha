@@ -34,4 +34,6 @@ export const longAnswering = {
       statement: "Nothing here writes to the record of the bodies an agent read.",
     },
   ],
+  createdAt: "2026-09-12T11:43:19.766Z",
+  updatedAt: "2026-09-15T18:33:51.000Z",
 } as const satisfies Module

@@ -22,4 +22,6 @@ export const deviceOption = {
       statement: "Nothing here reaches Spotify.",
     },
   ],
+  createdAt: "2026-09-14T13:31:20.515Z",
+  updatedAt: "2026-09-15T18:33:51.000Z",
 } as const satisfies Module

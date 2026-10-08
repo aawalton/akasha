@@ -6,4 +6,6 @@ export const pageLayoutData = {
   slug: "page-layout-data",
   definition: "how wide a page is drawn at a given column count",
   code: "ts",
+  createdAt: "2026-09-01T05:47:57.209Z",
+  updatedAt: "2026-09-15T18:33:51.000Z",
 } as const satisfies Module

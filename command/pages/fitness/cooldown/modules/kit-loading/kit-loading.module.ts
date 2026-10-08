@@ -35,5 +35,6 @@ export const kitLoading = {
       statement: "A gym no page names is refused rather than read as home.",
     },
   ],
-  updatedAt: "2026-10-08T15:15:26.338Z",
+  updatedAt: "2026-10-08T16:01:39.680Z",
+  createdAt: "2026-09-19T01:27:08.250Z",
 } as const satisfies Module

@@ -12,4 +12,6 @@ export const inventoryTraceSaying = {
       statement: "A field the trace carried no number for is written as `nil`.",
     },
   ],
+  createdAt: "2026-09-11T00:41:32.330Z",
+  updatedAt: "2026-09-15T18:33:01.000Z",
 } as const satisfies Module

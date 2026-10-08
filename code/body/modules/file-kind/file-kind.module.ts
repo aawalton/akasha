@@ -55,4 +55,6 @@ export const fileKind = {
       statement: "Nothing here opens the file the path names.",
     },
   ],
+  createdAt: "2026-09-03T03:32:56.886Z",
+  updatedAt: "2026-09-24T23:17:25.000Z",
 } as const satisfies Module

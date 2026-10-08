@@ -21,4 +21,6 @@ export const yamlLines = {
       statement: "A blank line inside a body is kept.",
     },
   ],
+  createdAt: "2026-09-07T14:53:45.866Z",
+  updatedAt: "2026-09-15T18:33:51.000Z",
 } as const satisfies Module

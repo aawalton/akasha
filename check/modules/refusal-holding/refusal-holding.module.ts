@@ -30,4 +30,6 @@ export const refusalHolding = {
       statement: "Nothing here reads a file or runs a check.",
     },
   ],
+  createdAt: "2026-09-11T21:32:07.501Z",
+  updatedAt: "2026-09-15T18:21:01.000Z",
 } as const satisfies Module

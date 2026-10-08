@@ -6,4 +6,6 @@ export const componentsCorePanels = {
   slug: "components-core-panels",
   definition: "the panels showing the button, the card and the badge",
   code: "tsx",
+  createdAt: "2026-09-01T10:48:05.960Z",
+  updatedAt: "2026-09-15T18:34:11.000Z",
 } as const satisfies Module

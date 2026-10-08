@@ -99,4 +99,6 @@ export const deployKindReading = {
       statement: "A slug one workstation service carries is refused by naming that kind.",
     },
   ],
+  createdAt: "2026-09-02T00:41:45.895Z",
+  updatedAt: "2026-09-27T15:39:11.000Z",
 } as const satisfies Module

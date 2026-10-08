@@ -124,4 +124,6 @@ export const changeShadowTree = {
       statement: "A path spelled outside the checkout names nothing.",
     },
   ],
+  createdAt: "2026-09-11T01:24:41.757Z",
+  updatedAt: "2026-09-22T00:32:09.000Z",
 } as const satisfies Module

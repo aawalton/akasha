@@ -6,4 +6,6 @@ export const appShellMoreDrawer = {
   slug: "app-shell-more-drawer",
   definition: "the drawer with the nav items beyond the bottom bar's room",
   code: "tsx",
+  createdAt: "2026-09-01T05:47:57.208Z",
+  updatedAt: "2026-09-22T13:51:13.000Z",
 } as const satisfies Module

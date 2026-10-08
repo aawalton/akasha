@@ -6,4 +6,6 @@ export const luaPrinterExpressions = {
   slug: "lua-printer-expressions",
   definition: "each Lua expression node rendered to source text",
   code: "ts",
+  createdAt: "2026-09-03T12:57:31.987Z",
+  updatedAt: "2026-09-15T18:34:11.000Z",
 } as const satisfies Module

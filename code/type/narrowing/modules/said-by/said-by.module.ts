@@ -16,4 +16,6 @@ export const saidBy = {
       statement: "A thrown thing is made to speak even where that thing is no Error.",
     },
   ],
+  createdAt: "2026-09-11T00:20:51.766Z",
+  updatedAt: "2026-09-15T19:48:30.000Z",
 } as const satisfies Module

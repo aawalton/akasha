@@ -70,4 +70,6 @@ export const pageReasons = {
         "A file name the naming grammar parses under a page type the index names gives a reason.",
     },
   ],
+  createdAt: "2026-09-10T16:02:03.977Z",
+  updatedAt: "2026-09-25T15:05:07.000Z",
 } as const satisfies Module

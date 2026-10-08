@@ -34,4 +34,6 @@ export const trainingWeek = {
       statement: "The day a set falls on is read from the day that set names.",
     },
   ],
+  createdAt: "2026-09-18T23:50:20.888Z",
+  updatedAt: "2026-09-19T02:01:35.000Z",
 } as const satisfies Module

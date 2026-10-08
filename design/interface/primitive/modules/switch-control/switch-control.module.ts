@@ -6,4 +6,6 @@ export const switchControl = {
   slug: "switch-control",
   definition: "a control flipped between on and off",
   code: "tsx",
+  createdAt: "2026-09-01T07:40:46.149Z",
+  updatedAt: "2026-09-15T18:34:11.000Z",
 } as const satisfies Module

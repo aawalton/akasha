@@ -33,4 +33,6 @@ export const treeDescription = {
       statement: "Nothing here reads a tree or a panel.",
     },
   ],
+  createdAt: "2026-09-08T16:47:56.520Z",
+  updatedAt: "2026-09-15T18:33:01.000Z",
 } as const satisfies Module

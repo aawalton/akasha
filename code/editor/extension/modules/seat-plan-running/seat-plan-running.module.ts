@@ -58,4 +58,6 @@ export const seatPlanRunning = {
       statement: "Nothing here knows the work a step does.",
     },
   ],
+  createdAt: "2026-09-03T17:58:07.081Z",
+  updatedAt: "2026-10-08T13:21:37.000Z",
 } as const satisfies Module

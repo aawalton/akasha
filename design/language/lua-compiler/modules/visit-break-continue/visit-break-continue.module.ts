@@ -6,4 +6,6 @@ export const visitBreakContinue = {
   slug: "visit-break-continue",
   definition: "the break, goto, or flag assignment a break or continue statement becomes",
   code: "ts",
+  createdAt: "2026-09-03T12:57:32.064Z",
+  updatedAt: "2026-09-15T18:34:11.000Z",
 } as const satisfies Module

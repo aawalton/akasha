@@ -36,4 +36,6 @@ export const judging = {
       statement: "The two answer the same refusals.",
     },
   ],
+  createdAt: "2026-08-29T04:26:03.782Z",
+  updatedAt: "2026-09-22T13:58:58.000Z",
 } as const satisfies Module

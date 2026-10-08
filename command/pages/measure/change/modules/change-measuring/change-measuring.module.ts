@@ -83,4 +83,6 @@ export const changeMeasuring = {
       statement: "An apply is no change page and is drawn with no ceiling.",
     },
   ],
+  createdAt: "2026-09-08T11:46:17.775Z",
+  updatedAt: "2026-09-19T16:03:42.000Z",
 } as const satisfies Module

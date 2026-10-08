@@ -6,4 +6,6 @@ export const loadMoreButton = {
   slug: "load-more-button",
   definition: "the button drawing the rest of a list",
   code: "tsx",
+  createdAt: "2026-09-01T05:47:57.208Z",
+  updatedAt: "2026-09-15T18:33:51.000Z",
 } as const satisfies Module

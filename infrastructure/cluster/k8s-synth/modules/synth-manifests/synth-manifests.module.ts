@@ -16,4 +16,6 @@ export const synthManifests = {
       statement: "A pass either writes or checks.",
     },
   ],
+  createdAt: "2026-09-03T16:17:57.096Z",
+  updatedAt: "2026-09-15T18:34:44.000Z",
 } as const satisfies Module

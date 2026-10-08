@@ -39,4 +39,6 @@ export const terminalImageLink = {
       statement: "The editor is handed in rather than imported.",
     },
   ],
+  createdAt: "2026-09-28T19:07:44.534Z",
+  updatedAt: "2026-09-28T19:27:59.000Z",
 } as const satisfies Module

@@ -44,4 +44,6 @@ export const settleCharacter = {
       statement: "A reading naming no `character` is not judged here.",
     },
   ],
+  createdAt: "2026-10-03T11:52:01.368Z",
+  updatedAt: "2026-10-03T11:57:16.000Z",
 } as const satisfies Module

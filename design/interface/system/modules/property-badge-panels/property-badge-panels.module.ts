@@ -6,4 +6,6 @@ export const propertyBadgePanels = {
   slug: "property-badge-panels",
   definition: "the panels showing the badge each property type draws",
   code: "tsx",
+  createdAt: "2026-09-21T15:49:03.678Z",
+  updatedAt: "2026-09-21T15:49:40.000Z",
 } as const satisfies Module

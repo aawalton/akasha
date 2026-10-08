@@ -6,4 +6,6 @@ export const patternsVisualPanels = {
   slug: "patterns-visual-panels",
   definition: "the panels showing the visual rules a surface and its marks follow",
   code: "tsx",
+  createdAt: "2026-09-01T10:48:05.961Z",
+  updatedAt: "2026-09-15T18:34:11.000Z",
 } as const satisfies Module

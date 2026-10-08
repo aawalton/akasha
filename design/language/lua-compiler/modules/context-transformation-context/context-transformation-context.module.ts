@@ -6,4 +6,6 @@ export const contextTransformationContext = {
   slug: "context-transformation-context",
   definition: "the declared type of a transformation context",
   code: "ts",
+  createdAt: "2026-09-03T12:57:32.016Z",
+  updatedAt: "2026-09-15T18:34:11.000Z",
 } as const satisfies Module

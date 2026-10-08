@@ -38,4 +38,6 @@ export const exportRenaming = {
       statement: "Nothing here reaches a change.",
     },
   ],
+  createdAt: "2026-09-13T19:17:23.652Z",
+  updatedAt: "2026-09-25T14:52:36.000Z",
 } as const satisfies Module

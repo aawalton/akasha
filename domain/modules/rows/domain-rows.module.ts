@@ -125,4 +125,6 @@ export const domainRows = {
       statement: "Every question one call asks is asked of one reading.",
     },
   ],
+  createdAt: "2026-08-29T17:44:15.986Z",
+  updatedAt: "2026-09-19T16:50:09.000Z",
 } as const satisfies Module

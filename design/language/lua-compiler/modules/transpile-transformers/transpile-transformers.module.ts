@@ -6,4 +6,6 @@ export const transpileTransformers = {
   slug: "transpile-transformers",
   definition: "the chain of custom TypeScript transformers assembled for a program",
   code: "ts",
+  createdAt: "2026-09-03T12:57:32.121Z",
+  updatedAt: "2026-09-22T10:09:10.000Z",
 } as const satisfies Module

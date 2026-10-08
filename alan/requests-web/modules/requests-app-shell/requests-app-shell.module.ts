@@ -21,4 +21,6 @@ export const requestsAppShell = {
       statement: "The name over the sidebar is the title of the site document at the empty path.",
     },
   ],
+  createdAt: "2026-09-21T18:25:58.924Z",
+  updatedAt: "2026-09-27T12:15:02.000Z",
 } as const satisfies Module

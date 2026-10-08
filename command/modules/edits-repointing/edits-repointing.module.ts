@@ -75,4 +75,6 @@ export const editsRepointing = {
         "Edits that could not be pointed again are named rather than stopping the landing.",
     },
   ],
+  createdAt: "2026-09-28T20:16:30.404Z",
+  updatedAt: "2026-09-30T11:41:03.000Z",
 } as const satisfies Module

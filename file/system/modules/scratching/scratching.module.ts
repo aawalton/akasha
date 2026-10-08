@@ -50,4 +50,6 @@ export const scratching = {
       statement: "A body read back out of a test's scratch root is empty where no file is there.",
     },
   ],
+  createdAt: "2026-08-29T15:52:25.641Z",
+  updatedAt: "2026-09-25T16:09:55.000Z",
 } as const satisfies Module

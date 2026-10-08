@@ -6,4 +6,6 @@ export const dayScanWindow = {
   slug: "day-scan-window",
   definition: "the number read out of a value of any shape",
   code: "ts",
+  createdAt: "2026-09-03T22:45:20.206Z",
+  updatedAt: "2026-09-15T18:21:01.000Z",
 } as const satisfies Module

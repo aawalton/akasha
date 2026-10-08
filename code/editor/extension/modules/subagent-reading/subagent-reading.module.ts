@@ -117,4 +117,6 @@ export const subagentReading = {
       statement: "A line that is no JSON object changes nothing.",
     },
   ],
+  createdAt: "2026-09-03T17:58:07.081Z",
+  updatedAt: "2026-09-25T16:56:39.000Z",
 } as const satisfies Module

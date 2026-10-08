@@ -24,4 +24,6 @@ export const codePathBetween = {
       statement: "Nothing here reads the disk.",
     },
   ],
+  createdAt: "2026-09-03T03:37:56.066Z",
+  updatedAt: "2026-09-22T10:05:48.000Z",
 } as const satisfies Module

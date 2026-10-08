@@ -64,4 +64,6 @@ export const deployInferenceInstalling = {
       statement: "The reaching the host is done over is handed in.",
     },
   ],
+  createdAt: "2026-09-11T13:31:41.854Z",
+  updatedAt: "2026-09-25T17:50:48.000Z",
 } as const satisfies Module

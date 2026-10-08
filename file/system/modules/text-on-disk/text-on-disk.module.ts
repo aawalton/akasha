@@ -7,4 +7,6 @@ export const textOnDisk = {
   definition: "the text a file holds, or nothing where no file is there",
   code: "ts",
   test: "ts",
+  createdAt: "2026-09-07T02:20:16.536Z",
+  updatedAt: "2026-09-25T16:09:55.000Z",
 } as const satisfies Module

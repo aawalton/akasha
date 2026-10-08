@@ -38,4 +38,6 @@ export const alanAuthProvider = {
       statement: "This provider watches no session and sends nobody to a sign-in.",
     },
   ],
+  createdAt: "2026-09-03T03:44:04.792Z",
+  updatedAt: "2026-09-26T17:29:17.000Z",
 } as const satisfies Module

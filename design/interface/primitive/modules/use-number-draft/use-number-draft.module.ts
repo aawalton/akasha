@@ -16,4 +16,6 @@ export const useNumberDraft = {
       statement: "Nothing here reads the text back as a number.",
     },
   ],
+  createdAt: "2026-09-11T01:10:14.204Z",
+  updatedAt: "2026-09-15T18:34:11.000Z",
 } as const satisfies Module

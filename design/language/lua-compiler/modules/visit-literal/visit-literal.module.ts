@@ -6,4 +6,6 @@ export const visitLiteral = {
   slug: "visit-literal",
   definition: "the Lua a literal, object literal, or array literal becomes",
   code: "ts",
+  createdAt: "2026-09-03T12:57:32.091Z",
+  updatedAt: "2026-09-15T18:34:11.000Z",
 } as const satisfies Module

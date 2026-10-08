@@ -111,4 +111,6 @@ export const deployCommitRecording = {
       statement: "A moment a deploy kept is read back the way the commit is.",
     },
   ],
+  createdAt: "2026-09-11T17:40:13.760Z",
+  updatedAt: "2026-09-23T05:00:34.000Z",
 } as const satisfies Module

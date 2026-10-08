@@ -108,4 +108,6 @@ export const deployCheckJudging = {
         "The change carries every file the deploy is built from, so the run reads that commit.",
     },
   ],
+  createdAt: "2026-09-11T18:12:51.494Z",
+  updatedAt: "2026-09-25T18:06:29.000Z",
 } as const satisfies Module

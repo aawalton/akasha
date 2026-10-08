@@ -67,4 +67,6 @@ export const openedLinePrefix = {
       statement: "How many characters a line's indent runs to is answered here.",
     },
   ],
+  createdAt: "2026-09-13T19:50:51.015Z",
+  updatedAt: "2026-09-21T13:57:07.000Z",
 } as const satisfies Module

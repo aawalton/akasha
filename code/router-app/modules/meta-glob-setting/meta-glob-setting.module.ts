@@ -40,4 +40,6 @@ export const metaGlobSetting = {
       statement: "A glob taken other than eagerly is refused.",
     },
   ],
+  createdAt: "2026-09-25T12:47:10.021Z",
+  updatedAt: "2026-09-25T12:47:22.000Z",
 } as const satisfies Module

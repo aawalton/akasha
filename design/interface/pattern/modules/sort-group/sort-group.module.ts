@@ -6,4 +6,6 @@ export const sortGroup = {
   slug: "sort-group",
   definition: "the sorts of a list drawn as a stack that reorders",
   code: "tsx",
+  createdAt: "2026-09-01T10:00:29.540Z",
+  updatedAt: "2026-09-15T18:33:51.000Z",
 } as const satisfies Module

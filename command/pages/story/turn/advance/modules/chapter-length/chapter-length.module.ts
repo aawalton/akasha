@@ -38,4 +38,6 @@ export const chapterLength = {
       statement: "A single beat's prose is of any length.",
     },
   ],
+  createdAt: "2026-10-02T22:30:12.287Z",
+  updatedAt: "2026-10-06T20:45:45.000Z",
 } as const satisfies Module

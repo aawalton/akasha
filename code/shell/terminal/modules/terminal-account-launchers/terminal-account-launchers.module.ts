@@ -43,4 +43,6 @@ export const terminalAccountLaunchers = {
       statement: "Nothing here starts a seat.",
     },
   ],
+  createdAt: "2026-09-03T16:12:25.008Z",
+  updatedAt: "2026-09-22T13:44:42.000Z",
 } as const satisfies Module

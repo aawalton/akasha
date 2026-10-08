@@ -16,4 +16,6 @@ export const fontPreload = {
       statement: "The font a root preloads is the address handed in rather than one named here.",
     },
   ],
+  createdAt: "2026-09-11T14:43:55.686Z",
+  updatedAt: "2026-09-15T18:33:01.000Z",
 } as const satisfies Module

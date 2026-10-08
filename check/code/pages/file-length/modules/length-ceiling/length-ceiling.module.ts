@@ -37,4 +37,6 @@ export const lengthCeiling = {
       statement: "Nothing here reads a file or reaches the index.",
     },
   ],
+  createdAt: "2026-09-22T15:49:31.990Z",
+  updatedAt: "2026-09-22T15:53:16.000Z",
 } as const satisfies Module

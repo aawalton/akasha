@@ -7,4 +7,6 @@ export const pluginNoMultiStore = {
   definition: "an error on a LuaMultiReturn call used outside destructuring or return",
   code: "ts",
   reachedByPath: ["default"],
+  createdAt: "2026-09-03T12:57:32.010Z",
+  updatedAt: "2026-09-25T16:25:23.000Z",
 } as const satisfies Module

@@ -23,4 +23,6 @@ export const turnTiming = {
       statement: "The refusal names the settle call that states the turn's `endsAt`.",
     },
   ],
+  createdAt: "2026-09-28T22:04:37.788Z",
+  updatedAt: "2026-09-28T22:05:38.000Z",
 } as const satisfies Module

@@ -16,4 +16,6 @@ export const launchEnv = {
       statement: "A name outside the allowlist is dropped rather than passed on.",
     },
   ],
+  createdAt: "2026-09-01T09:24:34.667Z",
+  updatedAt: "2026-09-22T13:58:58.000Z",
 } as const satisfies Module

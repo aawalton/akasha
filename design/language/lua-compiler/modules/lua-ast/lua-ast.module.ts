@@ -6,4 +6,6 @@ export const luaAst = {
   slug: "lua-ast",
   definition: "the Lua AST fragments assembled from a TypeScript node",
   code: "ts",
+  createdAt: "2026-09-03T12:57:32.048Z",
+  updatedAt: "2026-09-15T18:34:11.000Z",
 } as const satisfies Module

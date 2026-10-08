@@ -58,4 +58,6 @@ export const documentPresent = {
       statement: "Nothing here says which document a seat needs.",
     },
   ],
+  createdAt: "2026-09-03T16:12:25.008Z",
+  updatedAt: "2026-09-15T18:33:01.000Z",
 } as const satisfies Module

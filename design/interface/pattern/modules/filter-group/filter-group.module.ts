@@ -6,4 +6,6 @@ export const filterGroup = {
   slug: "filter-group",
   definition: "a labelled filter with a way to take it off",
   code: "tsx",
+  createdAt: "2026-09-01T10:00:29.537Z",
+  updatedAt: "2026-09-15T18:33:51.000Z",
 } as const satisfies Module

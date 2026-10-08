@@ -6,4 +6,6 @@ export const appShellContext = {
   slug: "app-shell-context",
   definition: "what the frame tells the pages it has about itself",
   code: "tsx",
+  createdAt: "2026-09-01T05:47:57.208Z",
+  updatedAt: "2026-09-15T18:33:51.000Z",
 } as const satisfies Module

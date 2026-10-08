@@ -43,4 +43,6 @@ export const settleAsking = {
       statement: "A line another replaces counts for nothing to any reader of the outcomes.",
     },
   ],
+  createdAt: "2026-09-28T21:32:10.610Z",
+  updatedAt: "2026-10-02T18:07:51.000Z",
 } as const satisfies Module

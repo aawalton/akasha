@@ -6,4 +6,6 @@ export const useScrollRestoration = {
   slug: "use-scroll-restoration",
   definition: "where a list was scrolled to, put back on return",
   code: "ts",
+  createdAt: "2026-09-01T09:34:00.839Z",
+  updatedAt: "2026-09-15T18:33:51.000Z",
 } as const satisfies Module

@@ -6,4 +6,6 @@ export const progressBar = {
   slug: "progress-bar",
   definition: "a bar filled to the share of the work already done",
   code: "tsx",
+  createdAt: "2026-09-01T07:40:46.147Z",
+  updatedAt: "2026-09-15T18:33:51.000Z",
 } as const satisfies Module

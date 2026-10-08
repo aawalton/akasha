@@ -53,4 +53,6 @@ export const dependencyGraph = {
       statement: "A token built by hand has no confidence.",
     },
   ],
+  createdAt: "2026-09-04T14:35:43.536Z",
+  updatedAt: "2026-09-15T18:34:44.000Z",
 } as const satisfies Module

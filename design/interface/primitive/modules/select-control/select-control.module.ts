@@ -6,4 +6,6 @@ export const selectControl = {
   slug: "select-control",
   definition: "a control opening a list and holding the value chosen",
   code: "tsx",
+  createdAt: "2026-09-01T07:40:46.148Z",
+  updatedAt: "2026-09-22T13:48:12.000Z",
 } as const satisfies Module

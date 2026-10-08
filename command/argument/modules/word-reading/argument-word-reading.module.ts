@@ -212,4 +212,6 @@ export const argumentWordReading = {
         "A word said after a bare `--` keeps an equals in it rather than being parted at one.",
     },
   ],
+  createdAt: "2026-09-12T14:23:16.769Z",
+  updatedAt: "2026-09-25T14:34:41.000Z",
 } as const satisfies Module

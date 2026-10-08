@@ -42,4 +42,6 @@ export const alanAppShell = {
       statement: "The name over the navigation is the title of the site's web app page.",
     },
   ],
+  createdAt: "2026-09-03T03:44:04.792Z",
+  updatedAt: "2026-09-27T11:50:23.000Z",
 } as const satisfies Module

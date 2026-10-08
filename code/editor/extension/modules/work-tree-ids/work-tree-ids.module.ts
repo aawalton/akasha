@@ -24,4 +24,6 @@ export const workTreeIds = {
       statement: "Nothing here names a row of the work tree.",
     },
   ],
+  createdAt: "2026-09-03T01:01:03.516Z",
+  updatedAt: "2026-09-26T14:06:24.000Z",
 } as const satisfies Module

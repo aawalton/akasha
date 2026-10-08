@@ -50,4 +50,6 @@ export const complexityRowing = {
       statement: "Nothing here judges a figure against a limit.",
     },
   ],
+  createdAt: "2026-09-10T19:29:30.438Z",
+  updatedAt: "2026-09-15T18:33:01.000Z",
 } as const satisfies Module

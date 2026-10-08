@@ -57,4 +57,6 @@ export const palette = {
       statement: "Nothing here reads a color the editor's own theme names.",
     },
   ],
+  createdAt: "2026-09-03T01:13:28.825Z",
+  updatedAt: "2026-09-22T13:56:01.000Z",
 } as const satisfies Module

@@ -92,4 +92,6 @@ export const terminalSeatMarks = {
         "An attach in a revived terminal puts that terminal's own mark back as the attach returns.",
     },
   ],
+  createdAt: "2026-09-06T20:15:54.371Z",
+  updatedAt: "2026-09-24T22:22:50.000Z",
 } as const satisfies Module

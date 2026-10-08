@@ -153,4 +153,6 @@ export const codeRule = {
       statement: "Two names for one type are two rules here.",
     },
   ],
+  createdAt: "2026-08-29T17:53:28.298Z",
+  updatedAt: "2026-09-15T18:33:01.000Z",
 } as const satisfies Module

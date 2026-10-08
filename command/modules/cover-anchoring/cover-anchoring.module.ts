@@ -19,4 +19,6 @@ export const coverAnchoring = {
         "A draft leaving a turn's cover as it was is let through, whatever else it changes.",
     },
   ],
+  createdAt: "2026-10-02T18:36:28.074Z",
+  updatedAt: "2026-10-02T18:39:45.000Z",
 } as const satisfies Module

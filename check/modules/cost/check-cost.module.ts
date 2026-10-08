@@ -270,4 +270,6 @@ export const checkCost = {
       statement: "A line that is no cost is appended beside a page the same way a cost is.",
     },
   ],
+  createdAt: "2026-09-04T18:49:43.891Z",
+  updatedAt: "2026-09-24T22:26:13.000Z",
 } as const satisfies Module

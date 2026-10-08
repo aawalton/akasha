@@ -20,4 +20,6 @@ export const maintainability = {
       statement: "A source line is a line some token starts on.",
     },
   ],
+  createdAt: "2026-09-03T16:17:42.327Z",
+  updatedAt: "2026-09-15T18:34:44.000Z",
 } as const satisfies Module

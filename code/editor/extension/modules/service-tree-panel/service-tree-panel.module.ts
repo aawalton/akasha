@@ -66,4 +66,6 @@ export const serviceTreePanel = {
       statement: "Nothing here decides a row's appearance.",
     },
   ],
+  createdAt: "2026-09-13T18:55:24.009Z",
+  updatedAt: "2026-09-22T10:06:44.000Z",
 } as const satisfies Module

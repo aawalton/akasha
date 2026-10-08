@@ -6,4 +6,6 @@ export const transpilePruneUnusedReexports = {
   slug: "transpile-prune-unused-reexports",
   definition: "the rewritten source file with unreached re-export declarations removed",
   code: "ts",
+  createdAt: "2026-09-03T12:57:32.116Z",
+  updatedAt: "2026-09-15T18:34:11.000Z",
 } as const satisfies Module

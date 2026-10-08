@@ -37,4 +37,6 @@ export const gitPushing = {
         "A push is given the time carrying objects takes rather than the time a query takes.",
     },
   ],
+  createdAt: "2026-09-03T19:11:33.788Z",
+  updatedAt: "2026-09-25T17:01:45.000Z",
 } as const satisfies Module

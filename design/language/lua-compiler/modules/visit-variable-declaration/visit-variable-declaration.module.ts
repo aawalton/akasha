@@ -6,4 +6,6 @@ export const visitVariableDeclaration = {
   slug: "visit-variable-declaration",
   definition: "the local declarations a variable statement and its binding patterns become",
   code: "ts",
+  createdAt: "2026-09-03T12:57:32.105Z",
+  updatedAt: "2026-09-15T18:34:44.000Z",
 } as const satisfies Module

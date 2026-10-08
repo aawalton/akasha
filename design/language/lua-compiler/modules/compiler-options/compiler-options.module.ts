@@ -6,4 +6,6 @@ export const compilerOptions = {
   slug: "compiler-options",
   definition: "the Lua-specific compiler options and the values each admits",
   code: "ts",
+  createdAt: "2026-09-03T12:57:31.958Z",
+  updatedAt: "2026-09-15T18:34:11.000Z",
 } as const satisfies Module

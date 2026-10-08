@@ -60,4 +60,6 @@ export const activation = {
       statement: "Nothing here knows where a logged line goes.",
     },
   ],
+  createdAt: "2026-09-03T01:31:24.156Z",
+  updatedAt: "2026-09-15T18:33:01.000Z",
 } as const satisfies Module

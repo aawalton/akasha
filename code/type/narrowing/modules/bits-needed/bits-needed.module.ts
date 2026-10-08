@@ -13,4 +13,6 @@ export const bitsNeeded = {
       statement: "A count of one or none still takes one bit rather than none.",
     },
   ],
+  createdAt: "2026-09-11T00:43:27.946Z",
+  updatedAt: "2026-09-22T10:06:44.000Z",
 } as const satisfies Module

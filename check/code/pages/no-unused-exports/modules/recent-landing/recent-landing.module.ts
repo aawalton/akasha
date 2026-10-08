@@ -56,4 +56,6 @@ export const recentLanding = {
         "A commit whose parents a tree does not hold reads as holding every file it names.",
     },
   ],
+  createdAt: "2026-09-15T19:58:06.674Z",
+  updatedAt: "2026-09-25T14:12:22.000Z",
 } as const satisfies Module

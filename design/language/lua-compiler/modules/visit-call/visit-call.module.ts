@@ -6,4 +6,6 @@ export const visitCall = {
   slug: "visit-call",
   definition: "the Lua a call expression and its self argument become",
   code: "ts",
+  createdAt: "2026-09-03T12:57:32.065Z",
+  updatedAt: "2026-09-15T18:34:11.000Z",
 } as const satisfies Module

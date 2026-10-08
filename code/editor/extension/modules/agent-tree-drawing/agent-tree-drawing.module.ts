@@ -113,5 +113,6 @@ export const agentTreeDrawing = {
       statement: "Nothing here reads the fleet.",
     },
   ],
-  updatedAt: "2026-10-08T15:03:12.886Z",
+  updatedAt: "2026-10-08T16:01:39.680Z",
+  createdAt: "2026-09-03T17:58:07.081Z",
 } as const satisfies Module

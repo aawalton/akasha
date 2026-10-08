@@ -28,4 +28,6 @@ export const agentTreeIds = {
       statement: "Nothing here names a row of the agent tree.",
     },
   ],
+  createdAt: "2026-09-03T01:13:28.824Z",
+  updatedAt: "2026-09-22T13:58:58.000Z",
 } as const satisfies Module

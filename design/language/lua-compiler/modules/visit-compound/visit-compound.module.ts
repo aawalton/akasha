@@ -6,4 +6,6 @@ export const visitCompound = {
   slug: "visit-compound",
   definition: "the Lua a compound assignment operator becomes",
   code: "ts",
+  createdAt: "2026-09-03T12:57:32.060Z",
+  updatedAt: "2026-09-15T18:34:11.000Z",
 } as const satisfies Module

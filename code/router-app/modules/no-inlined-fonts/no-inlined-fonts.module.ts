@@ -20,4 +20,6 @@ export const noInlinedFonts = {
       statement: "A file that is not a font keeps the bundler's own inlining limit.",
     },
   ],
+  createdAt: "2026-09-27T04:43:16.726Z",
+  updatedAt: "2026-09-27T04:43:24.000Z",
 } as const satisfies Module

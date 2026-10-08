@@ -6,4 +6,6 @@ export const upFrom = {
   slug: "up-from",
   definition: "the hops back up to the root from a path's own folder",
   code: "ts",
+  createdAt: "2026-09-11T01:05:10.506Z",
+  updatedAt: "2026-09-22T13:51:13.000Z",
 } as const satisfies Module

@@ -45,4 +45,6 @@ export const collectionParts = {
       statement: "Nothing here reads the name of the folder it judges.",
     },
   ],
+  createdAt: "2026-09-14T07:13:50.676Z",
+  updatedAt: "2026-09-15T18:21:01.000Z",
 } as const satisfies Module

@@ -46,5 +46,6 @@ export const capacitorBridge = {
         "The app hands the page each lock screen command it takes as play, pause or toggle.",
     },
   ],
-  updatedAt: "2026-10-08T15:57:10.204Z",
+  updatedAt: "2026-10-08T16:01:39.680Z",
+  createdAt: "2026-09-02T20:21:53.279Z",
 } as const satisfies Module

@@ -41,4 +41,6 @@ export const turnCrossed = {
         "Only the game master is told, and not at player, since that notice goes once a next turn is made.",
     },
   ],
+  createdAt: "2026-09-30T21:12:36.279Z",
+  updatedAt: "2026-10-02T18:07:51.000Z",
 } as const satisfies Module

@@ -94,4 +94,6 @@ export const pathMoving = {
       statement: "A path moved away that something still imports refuses the change unwritten.",
     },
   ],
+  createdAt: "2026-09-08T15:07:32.579Z",
+  updatedAt: "2026-09-25T14:17:14.000Z",
 } as const satisfies Module

@@ -151,4 +151,6 @@ export const pageKnowing = {
       statement: "A page whose type cannot be read is taken to hold lore.",
     },
   ],
+  createdAt: "2026-09-07T00:55:16.949Z",
+  updatedAt: "2026-09-29T02:15:26.000Z",
 } as const satisfies Module

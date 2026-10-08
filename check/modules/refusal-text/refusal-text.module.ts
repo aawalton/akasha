@@ -16,4 +16,6 @@ export const refusalText = {
       statement: "A value handed over that the body marks no hole for refuses.",
     },
   ],
+  createdAt: "2026-09-03T18:43:17.886Z",
+  updatedAt: "2026-09-15T18:21:01.000Z",
 } as const satisfies Module

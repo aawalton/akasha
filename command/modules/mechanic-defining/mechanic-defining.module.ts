@@ -45,4 +45,6 @@ export const mechanicDefining = {
       statement: "A caller with no seat, or a seat of any other role, is let through.",
     },
   ],
+  createdAt: "2026-09-28T19:03:56.681Z",
+  updatedAt: "2026-09-28T22:20:32.000Z",
 } as const satisfies Module

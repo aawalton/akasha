@@ -6,4 +6,6 @@ export const appShellBottomNav = {
   slug: "app-shell-bottom-nav",
   definition: "the nav bar a narrow browser draws along the bottom of the frame",
   code: "tsx",
+  createdAt: "2026-09-01T05:47:57.207Z",
+  updatedAt: "2026-09-15T18:33:51.000Z",
 } as const satisfies Module

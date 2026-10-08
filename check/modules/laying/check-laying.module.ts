@@ -68,4 +68,6 @@ export const checkLaying = {
       statement: "Nothing here loads a check.",
     },
   ],
+  createdAt: "2026-09-25T14:42:54.245Z",
+  updatedAt: "2026-09-25T16:02:21.000Z",
 } as const satisfies Module

@@ -37,4 +37,6 @@ export const homeDniParam = {
       statement: "The nav item's title is answered beside its param.",
     },
   ],
+  createdAt: "2026-09-03T03:45:08.505Z",
+  updatedAt: "2026-09-27T11:39:42.000Z",
 } as const satisfies Module

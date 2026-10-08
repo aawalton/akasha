@@ -32,4 +32,6 @@ export const statusBarUsage = {
       statement: "Nothing here says how a figure is drawn.",
     },
   ],
+  createdAt: "2026-09-03T03:41:42.338Z",
+  updatedAt: "2026-09-15T18:33:01.000Z",
 } as const satisfies Module

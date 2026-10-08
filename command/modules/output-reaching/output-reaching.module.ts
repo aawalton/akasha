@@ -43,4 +43,6 @@ export const outputReaching = {
       statement: "Nothing here reads or writes a page.",
     },
   ],
+  createdAt: "2026-09-11T08:58:10.849Z",
+  updatedAt: "2026-09-25T16:19:30.000Z",
 } as const satisfies Module

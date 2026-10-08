@@ -38,4 +38,6 @@ export const turnReadyPushing = {
       statement: "A next chapter that fails to start is a fault, so the advance still lands.",
     },
   ],
+  createdAt: "2026-09-27T17:31:15.815Z",
+  updatedAt: "2026-10-03T11:55:13.000Z",
 } as const satisfies Module

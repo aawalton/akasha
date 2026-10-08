@@ -58,4 +58,6 @@ export const folderSpelling = {
       statement: "Whether a folder is there is not judged here.",
     },
   ],
+  createdAt: "2026-09-11T19:02:05.573Z",
+  updatedAt: "2026-09-15T18:33:01.000Z",
 } as const satisfies Module

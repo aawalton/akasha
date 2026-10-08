@@ -6,4 +6,6 @@ export const patternsUxLayoutPanels = {
   slug: "patterns-ux-layout-panels",
   definition: "the panels showing how a view arranges the contents it draws",
   code: "tsx",
+  createdAt: "2026-09-01T10:48:05.961Z",
+  updatedAt: "2026-09-21T15:43:23.000Z",
 } as const satisfies Module

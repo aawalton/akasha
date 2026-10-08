@@ -16,4 +16,6 @@ export const readStdinOrFile = {
       statement: "A file this module cannot read raises an input error.",
     },
   ],
+  createdAt: "2026-09-04T00:38:57.203Z",
+  updatedAt: "2026-09-25T16:09:55.000Z",
 } as const satisfies Module

@@ -89,4 +89,6 @@ export const folderClearing = {
       statement: "A folder still holding a file throws.",
     },
   ],
+  createdAt: "2026-09-01T21:09:51.953Z",
+  updatedAt: "2026-09-15T18:33:01.000Z",
 } as const satisfies Module

@@ -128,4 +128,6 @@ export const entryReasons = {
       statement: "A file that will not read leaves the files after it unread.",
     },
   ],
+  createdAt: "2026-09-06T18:18:16.298Z",
+  updatedAt: "2026-09-15T18:21:01.000Z",
 } as const satisfies Module

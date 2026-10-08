@@ -78,4 +78,6 @@ export const proseSplicing = {
       statement: "Nothing here says which passages are restated.",
     },
   ],
+  createdAt: "2026-09-13T19:21:28.102Z",
+  updatedAt: "2026-09-22T10:09:40.000Z",
 } as const satisfies Module

@@ -54,4 +54,6 @@ export const auditChild = {
       statement: "Nothing here keeps a verdict, which is the caller's to keep.",
     },
   ],
+  createdAt: "2026-09-14T14:48:39.242Z",
+  updatedAt: "2026-09-22T20:10:16.000Z",
 } as const satisfies Module

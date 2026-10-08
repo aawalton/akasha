@@ -6,4 +6,6 @@ export const resizable = {
   slug: "resizable",
   definition: "panels resized by a handle the reader drags between them",
   code: "tsx",
+  createdAt: "2026-09-01T07:40:46.148Z",
+  updatedAt: "2026-09-15T18:33:51.000Z",
 } as const satisfies Module

@@ -57,4 +57,6 @@ export const treeFilter = {
       statement: "Nothing here knows how a node is built again.",
     },
   ],
+  createdAt: "2026-09-03T01:13:28.825Z",
+  updatedAt: "2026-09-22T13:37:15.000Z",
 } as const satisfies Module

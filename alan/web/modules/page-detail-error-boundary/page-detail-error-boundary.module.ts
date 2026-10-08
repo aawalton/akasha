@@ -6,4 +6,6 @@ export const pageDetailErrorBoundary = {
   slug: "page-detail-error-boundary",
   definition: "what a page's detail shows in place of itself when it throws",
   code: "tsx",
+  createdAt: "2026-09-03T03:44:04.800Z",
+  updatedAt: "2026-09-15T18:21:01.000Z",
 } as const satisfies Module

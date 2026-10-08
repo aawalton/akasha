@@ -96,4 +96,6 @@ export const turnReaching = {
       statement: "A fold leaves out a file that already holds what the fold would write.",
     },
   ],
+  createdAt: "2026-09-26T17:36:45.585Z",
+  updatedAt: "2026-10-04T00:22:44.000Z",
 } as const satisfies Module

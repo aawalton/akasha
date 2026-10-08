@@ -6,4 +6,6 @@ export const alanAnswerPageTypes = {
   slug: "alan-answer-page-types",
   definition: "the page types answered to Alan's browser",
   code: "ts",
+  createdAt: "2026-09-03T03:45:08.505Z",
+  updatedAt: "2026-09-15T18:21:01.000Z",
 } as const satisfies Module

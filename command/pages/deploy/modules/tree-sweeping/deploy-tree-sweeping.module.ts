@@ -107,4 +107,6 @@ export const deployTreeSweeping = {
         "Which slugs a page of a pinned kind carries is read off the index, and no page is read.",
     },
   ],
+  createdAt: "2026-09-22T15:10:15.351Z",
+  updatedAt: "2026-09-25T22:32:14.000Z",
 } as const satisfies Module

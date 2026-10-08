@@ -6,4 +6,6 @@ export const shapeObject = {
   slug: "shape-object",
   definition: "shapes over objects, arrays, unions, records and tuples",
   code: "ts",
+  createdAt: "2026-09-03T23:03:18.159Z",
+  updatedAt: "2026-09-15T19:48:30.000Z",
 } as const satisfies Module

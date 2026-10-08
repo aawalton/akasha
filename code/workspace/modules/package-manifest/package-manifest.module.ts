@@ -71,4 +71,6 @@ export const packageManifest = {
       statement: "No specifier is resolved through `node_modules`.",
     },
   ],
+  createdAt: "2026-09-01T02:55:51.408Z",
+  updatedAt: "2026-09-22T13:44:00.000Z",
 } as const satisfies Module

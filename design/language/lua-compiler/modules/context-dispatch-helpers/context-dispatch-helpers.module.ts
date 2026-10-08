@@ -6,4 +6,6 @@ export const contextDispatchHelpers = {
   slug: "context-dispatch-helpers",
   definition: "the ordered Lua expressions a TypeScript argument or expression list becomes",
   code: "ts",
+  createdAt: "2026-09-03T12:57:32.014Z",
+  updatedAt: "2026-09-15T18:34:11.000Z",
 } as const satisfies Module

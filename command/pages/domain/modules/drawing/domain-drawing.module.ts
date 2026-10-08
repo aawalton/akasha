@@ -72,4 +72,6 @@ export const domainDrawing = {
       statement: "A part reaches the file it names rather than whatever page carries that slug.",
     },
   ],
+  createdAt: "2026-09-07T13:16:33.319Z",
+  updatedAt: "2026-09-16T16:10:16.000Z",
 } as const satisfies Module

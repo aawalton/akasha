@@ -25,4 +25,6 @@ export const parseSaidText = {
       statement: "Nothing here trims what surrounds the text.",
     },
   ],
+  createdAt: "2026-09-22T15:56:55.509Z",
+  updatedAt: "2026-09-22T15:58:14.000Z",
 } as const satisfies Module

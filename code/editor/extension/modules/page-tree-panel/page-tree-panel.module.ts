@@ -62,4 +62,6 @@ export const pageTreePanel = {
       statement: "Nothing here decides a row's appearance.",
     },
   ],
+  createdAt: "2026-09-03T17:53:52.075Z",
+  updatedAt: "2026-09-22T10:05:48.000Z",
 } as const satisfies Module

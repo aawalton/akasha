@@ -25,4 +25,6 @@ export const decodeHarnessScript = {
       statement: "Nothing here reaches a machine.",
     },
   ],
+  createdAt: "2026-09-11T15:18:18.532Z",
+  updatedAt: "2026-09-15T18:33:01.000Z",
 } as const satisfies Module

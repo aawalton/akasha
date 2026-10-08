@@ -6,4 +6,6 @@ export const propertiesTab = {
   slug: "properties-tab",
   definition: "the properties tab, with a panel for each family of property badge",
   code: "tsx",
+  createdAt: "2026-09-21T15:49:18.536Z",
+  updatedAt: "2026-09-21T15:49:40.000Z",
 } as const satisfies Module

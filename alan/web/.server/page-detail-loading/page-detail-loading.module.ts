@@ -43,4 +43,6 @@ export const pageDetailLoading = {
         "A page in a sequence or a story read says its loader reads beyond the page itself.",
     },
   ],
+  createdAt: "2026-09-03T03:45:08.507Z",
+  updatedAt: "2026-09-28T23:07:11.000Z",
 } as const satisfies Module

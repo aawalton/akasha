@@ -57,4 +57,6 @@ export const stoplightsActivitySync = {
       statement: "Nothing here ends the activity.",
     },
   ],
+  createdAt: "2026-09-19T16:10:02.115Z",
+  updatedAt: "2026-09-25T17:47:51.000Z",
 } as const satisfies Module

@@ -17,4 +17,6 @@ export const writeDailyPoints = {
       statement: "A reading answered unchanged is an outcome rather than a reading that failed.",
     },
   ],
+  createdAt: "2026-09-03T22:45:21.564Z",
+  updatedAt: "2026-09-22T13:57:00.000Z",
 } as const satisfies Module

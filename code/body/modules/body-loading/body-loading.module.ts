@@ -131,4 +131,6 @@ export const bodyLoading = {
       statement: "Nothing here reads what the code loaded answers to.",
     },
   ],
+  createdAt: "2026-09-11T16:20:05.340Z",
+  updatedAt: "2026-09-27T14:29:39.000Z",
 } as const satisfies Module

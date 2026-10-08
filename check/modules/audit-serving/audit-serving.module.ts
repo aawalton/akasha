@@ -355,4 +355,6 @@ export const auditServing = {
         "A check's audit waits for the memory a landing starts on before its process opens.",
     },
   ],
+  createdAt: "2026-09-11T19:19:48.124Z",
+  updatedAt: "2026-09-24T20:01:08.000Z",
 } as const satisfies Module

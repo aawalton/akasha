@@ -43,4 +43,6 @@ export const mortalSparing = {
       statement: "A page the change writes anew has no body before it, so that page drew nothing.",
     },
   ],
+  createdAt: "2026-09-11T15:03:23.535Z",
+  updatedAt: "2026-09-15T18:21:01.000Z",
 } as const satisfies Module

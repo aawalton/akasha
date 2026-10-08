@@ -51,4 +51,6 @@ export const folderNaming = {
       statement: "Nothing here judges a folder.",
     },
   ],
+  createdAt: "2026-09-09T22:56:03.681Z",
+  updatedAt: "2026-09-22T13:48:01.000Z",
 } as const satisfies Module

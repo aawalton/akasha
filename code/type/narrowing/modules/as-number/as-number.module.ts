@@ -6,4 +6,6 @@ export const asNumber = {
   slug: "as-number",
   definition: "a number read from a value that may spell one as text",
   code: "ts",
+  createdAt: "2026-09-08T15:40:14.020Z",
+  updatedAt: "2026-09-15T19:48:30.000Z",
 } as const satisfies Module

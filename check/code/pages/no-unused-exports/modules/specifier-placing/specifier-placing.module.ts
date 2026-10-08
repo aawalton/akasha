@@ -57,4 +57,6 @@ export const specifierPlacing = {
       statement: "Nothing here reads the disk or the index.",
     },
   ],
+  createdAt: "2026-09-11T16:53:06.254Z",
+  updatedAt: "2026-09-24T23:13:01.000Z",
 } as const satisfies Module

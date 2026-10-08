@@ -44,4 +44,6 @@ export const terminalBash = {
       statement: "The `gp` alias reaches the checkout's own akasha, as every launcher does.",
     },
   ],
+  createdAt: "2026-09-03T16:12:25.008Z",
+  updatedAt: "2026-09-24T22:17:57.000Z",
 } as const satisfies Module

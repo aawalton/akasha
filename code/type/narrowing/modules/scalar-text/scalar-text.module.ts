@@ -25,4 +25,6 @@ export const scalarText = {
       statement: "An empty string is answered rather than read as nothing.",
     },
   ],
+  createdAt: "2026-09-11T13:14:13.084Z",
+  updatedAt: "2026-09-15T19:48:30.000Z",
 } as const satisfies Module

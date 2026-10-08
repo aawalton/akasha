@@ -182,4 +182,6 @@ export const codeFormat = {
         "A caller hands in bodies by path and nothing about where those bodies are formatted.",
     },
   ],
+  createdAt: "2026-08-29T18:50:57.025Z",
+  updatedAt: "2026-09-24T22:10:00.000Z",
 } as const satisfies Module

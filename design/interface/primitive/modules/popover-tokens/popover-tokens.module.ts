@@ -6,4 +6,6 @@ export const popoverTokens = {
   slug: "popover-tokens",
   definition: "how far a floating surface stays clear of the edge it would hit",
   code: "ts",
+  createdAt: "2026-09-01T07:40:46.147Z",
+  updatedAt: "2026-09-22T13:44:00.000Z",
 } as const satisfies Module

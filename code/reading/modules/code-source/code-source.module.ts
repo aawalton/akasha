@@ -86,4 +86,6 @@ export const codeSource = {
         "A path is a name the parse has so a node says its place rather than a file this module opens.",
     },
   ],
+  createdAt: "2026-08-30T00:51:50.935Z",
+  updatedAt: "2026-09-22T17:00:22.000Z",
 } as const satisfies Module

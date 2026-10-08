@@ -24,4 +24,6 @@ export const gitCapping = {
       statement: "A command carrying objects is capped far above a command asking a question.",
     },
   ],
+  createdAt: "2026-09-03T18:41:20.724Z",
+  updatedAt: "2026-09-22T10:11:09.000Z",
 } as const satisfies Module

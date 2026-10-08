@@ -24,4 +24,6 @@ export const dayNarrowTypes = {
       statement: "A count is taken before any limit.",
     },
   ],
+  createdAt: "2026-09-03T22:45:20.090Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies Module

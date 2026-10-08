@@ -6,4 +6,6 @@ export const calendar = {
   slug: "calendar",
   definition: "a month grid picking a date",
   code: "tsx",
+  createdAt: "2026-09-01T05:43:25.850Z",
+  updatedAt: "2026-09-22T13:59:52.000Z",
 } as const satisfies Module

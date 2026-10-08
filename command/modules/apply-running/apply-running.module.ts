@@ -207,5 +207,6 @@ export const applyRunning = {
       statement: "An apply waits for the memory a landing starts on before it folds anything.",
     },
   ],
-  updatedAt: "2026-10-08T15:46:35.521Z",
+  updatedAt: "2026-10-08T16:01:39.680Z",
+  createdAt: "2026-09-08T15:59:48.559Z",
 } as const satisfies Module

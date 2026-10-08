@@ -6,4 +6,6 @@ export const missing = {
   slug: "missing",
   definition: "whether what a read threw says there is nothing at the path it was given",
   code: "ts",
+  createdAt: "2026-09-01T11:21:01.898Z",
+  updatedAt: "2026-09-25T16:09:55.000Z",
 } as const satisfies Module

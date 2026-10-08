@@ -12,4 +12,6 @@ export const readOnlyHarness = {
       statement: "Nothing here signs anybody in.",
     },
   ],
+  createdAt: "2026-09-01T11:10:29.891Z",
+  updatedAt: "2026-09-21T00:55:02.000Z",
 } as const satisfies Module

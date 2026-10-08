@@ -6,4 +6,6 @@ export const requireDefined = {
   slug: "require-defined",
   definition: "a value refused where nothing is there",
   code: "ts",
+  createdAt: "2026-09-02T04:18:43.449Z",
+  updatedAt: "2026-09-15T19:48:30.000Z",
 } as const satisfies Module

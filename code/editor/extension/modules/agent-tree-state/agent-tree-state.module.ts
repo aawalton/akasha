@@ -36,4 +36,6 @@ export const agentTreeState = {
         "The state is held here rather than passed between the pieces that share that state.",
     },
   ],
+  createdAt: "2026-09-03T17:58:07.081Z",
+  updatedAt: "2026-09-26T14:06:24.000Z",
 } as const satisfies Module

@@ -39,4 +39,6 @@ export const hashTableEntries = {
         "A table written in a way not read here is answered as unread, saying where and why.",
     },
   ],
+  createdAt: "2026-09-24T23:35:12.465Z",
+  updatedAt: "2026-09-27T11:00:56.000Z",
 } as const satisfies Module

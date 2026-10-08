@@ -19,4 +19,6 @@ export const textarea = {
         "A line break the phone asks for sends as Enter does, however the phone's key arrives.",
     },
   ],
+  createdAt: "2026-09-01T07:40:46.150Z",
+  updatedAt: "2026-09-28T01:55:44.000Z",
 } as const satisfies Module

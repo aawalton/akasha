@@ -176,4 +176,6 @@ export const changeLoading = {
       statement: "An answer a change reached inside gives is dropped from at that rung too.",
     },
   ],
+  createdAt: "2026-09-08T14:17:48.690Z",
+  updatedAt: "2026-09-29T02:24:41.000Z",
 } as const satisfies Module

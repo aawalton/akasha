@@ -20,4 +20,6 @@ export const synthLoading = {
       statement: "An entry naming a field the shape does not have is refused.",
     },
   ],
+  createdAt: "2026-09-03T16:17:57.096Z",
+  updatedAt: "2026-09-22T14:07:45.000Z",
 } as const satisfies Module

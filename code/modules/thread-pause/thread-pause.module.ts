@@ -20,4 +20,6 @@ export const threadPause = {
       statement: "How long a caller waits in all is bounded by that caller.",
     },
   ],
+  createdAt: "2026-09-11T01:18:14.553Z",
+  updatedAt: "2026-09-15T19:24:53.000Z",
 } as const satisfies Module

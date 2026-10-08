@@ -53,4 +53,6 @@ export const namespaceListing = {
       statement: "Nothing here loads a page.",
     },
   ],
+  createdAt: "2026-09-08T13:47:31.061Z",
+  updatedAt: "2026-09-15T18:33:01.000Z",
 } as const satisfies Module

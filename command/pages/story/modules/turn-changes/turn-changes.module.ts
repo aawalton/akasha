@@ -71,4 +71,6 @@ export const turnChanges = {
         "A key a move hands over as undefined is cleared, so a file beside the turn holding it goes too.",
     },
   ],
+  createdAt: "2026-10-03T15:29:47.501Z",
+  updatedAt: "2026-10-04T00:19:32.000Z",
 } as const satisfies Module

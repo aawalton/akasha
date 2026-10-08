@@ -13,4 +13,6 @@ export const bodyNotUtf8 = {
         "The refusal names the source the command read and how many bytes were there and the leading bytes.",
     },
   ],
+  createdAt: "2026-09-03T23:02:17.293Z",
+  updatedAt: "2026-09-15T18:21:01.000Z",
 } as const satisfies Module

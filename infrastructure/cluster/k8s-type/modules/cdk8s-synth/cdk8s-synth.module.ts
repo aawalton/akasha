@@ -6,4 +6,6 @@ export const cdk8sSynth = {
   slug: "cdk8s-synth",
   definition: "a Kubernetes manifest rendered to YAML through a cdk8s chart",
   code: "ts",
+  createdAt: "2026-09-03T12:19:38.524Z",
+  updatedAt: "2026-09-15T18:34:44.000Z",
 } as const satisfies Module

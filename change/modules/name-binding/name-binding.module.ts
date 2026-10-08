@@ -78,4 +78,6 @@ export const nameBinding = {
       statement: "Nothing here says what a caller does with a name shadowed.",
     },
   ],
+  createdAt: "2026-09-15T19:14:43.645Z",
+  updatedAt: "2026-09-21T20:03:02.000Z",
 } as const satisfies Module

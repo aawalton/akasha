@@ -160,4 +160,6 @@ export const workTreeDragging = {
       statement: "The channel is written the whole refusal whichever words Alan is shown.",
     },
   ],
+  createdAt: "2026-09-08T16:44:54.388Z",
+  updatedAt: "2026-09-26T14:06:24.000Z",
 } as const satisfies Module

@@ -90,4 +90,6 @@ export const argumentReading = {
       statement: "A body with the fence the caller picked ends at that line early.",
     },
   ],
+  createdAt: "2026-09-06T18:16:09.733Z",
+  updatedAt: "2026-09-25T14:02:24.000Z",
 } as const satisfies Module

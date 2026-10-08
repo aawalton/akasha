@@ -46,4 +46,6 @@ export const entryRewriting = {
       statement: "No value in a page's own body is written.",
     },
   ],
+  createdAt: "2026-09-24T20:05:50.126Z",
+  updatedAt: "2026-09-25T13:08:22.000Z",
 } as const satisfies Module

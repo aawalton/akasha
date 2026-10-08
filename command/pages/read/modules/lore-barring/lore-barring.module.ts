@@ -30,4 +30,6 @@ export const loreBarring = {
       statement: "The refusal names no file it keeps back.",
     },
   ],
+  createdAt: "2026-09-24T17:48:25.026Z",
+  updatedAt: "2026-09-24T17:49:44.000Z",
 } as const satisfies Module

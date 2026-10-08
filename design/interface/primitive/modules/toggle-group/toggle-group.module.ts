@@ -6,4 +6,6 @@ export const toggleGroup = {
   slug: "toggle-group",
   definition: "a row of toggles where one or several may be pressed",
   code: "tsx",
+  createdAt: "2026-09-01T07:40:46.150Z",
+  updatedAt: "2026-09-15T18:34:11.000Z",
 } as const satisfies Module

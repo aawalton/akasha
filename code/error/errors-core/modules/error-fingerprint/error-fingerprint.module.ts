@@ -12,4 +12,6 @@ export const errorFingerprint = {
       statement: "Two faults differing in line numbers or asset hashes alone fingerprint alike.",
     },
   ],
+  createdAt: "2026-09-01T09:24:34.667Z",
+  updatedAt: "2026-09-24T23:22:29.000Z",
 } as const satisfies Module

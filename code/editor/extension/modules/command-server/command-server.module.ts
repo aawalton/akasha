@@ -310,4 +310,6 @@ export const commandServer = {
       statement: "An idle bound counts from the last answer rather than from the last ask.",
     },
   ],
+  createdAt: "2026-09-04T01:25:56.731Z",
+  updatedAt: "2026-10-02T15:03:49.000Z",
 } as const satisfies Module

@@ -30,4 +30,6 @@ export const reportAnswering = {
       statement: "Nothing here knows what the lines say or where they came from.",
     },
   ],
+  createdAt: "2026-09-11T01:43:16.243Z",
+  updatedAt: "2026-09-15T18:33:51.000Z",
 } as const satisfies Module

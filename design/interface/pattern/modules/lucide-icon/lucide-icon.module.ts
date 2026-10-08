@@ -6,4 +6,6 @@ export const lucideIcon = {
   slug: "lucide-icon",
   definition: "the lucide icon a kebab-case name resolves to",
   code: "tsx",
+  createdAt: "2026-09-01T09:34:00.837Z",
+  updatedAt: "2026-09-15T18:33:51.000Z",
 } as const satisfies Module

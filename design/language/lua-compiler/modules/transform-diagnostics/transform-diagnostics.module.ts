@@ -6,4 +6,6 @@ export const transformDiagnostics = {
   slug: "transform-diagnostics",
   definition: "the error and warning messages a TypeScript-to-Lua transformation raises",
   code: "ts",
+  createdAt: "2026-09-03T12:57:32.023Z",
+  updatedAt: "2026-09-15T18:34:11.000Z",
 } as const satisfies Module

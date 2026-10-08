@@ -6,4 +6,6 @@ export const table = {
   slug: "table",
   definition: "a table's rows, cells and headers",
   code: "tsx",
+  createdAt: "2026-09-01T07:40:46.149Z",
+  updatedAt: "2026-09-22T13:43:11.000Z",
 } as const satisfies Module

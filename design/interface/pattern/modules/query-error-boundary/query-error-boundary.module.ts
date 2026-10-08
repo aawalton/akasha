@@ -32,4 +32,6 @@ export const queryErrorBoundary = {
       statement: "Trying again clears the error the boundary has.",
     },
   ],
+  createdAt: "2026-09-02T11:42:23.035Z",
+  updatedAt: "2026-09-27T12:55:59.000Z",
 } as const satisfies Module

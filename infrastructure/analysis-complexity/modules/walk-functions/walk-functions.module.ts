@@ -16,4 +16,6 @@ export const walkFunctions = {
       statement: "A function with no name of its own is named by where that function is.",
     },
   ],
+  createdAt: "2026-09-03T16:17:42.327Z",
+  updatedAt: "2026-09-22T13:51:13.000Z",
 } as const satisfies Module

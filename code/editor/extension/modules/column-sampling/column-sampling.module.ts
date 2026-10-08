@@ -32,4 +32,6 @@ export const columnSampling = {
       statement: "Nothing here draws a row.",
     },
   ],
+  createdAt: "2026-09-03T17:58:07.081Z",
+  updatedAt: "2026-09-22T10:06:44.000Z",
 } as const satisfies Module

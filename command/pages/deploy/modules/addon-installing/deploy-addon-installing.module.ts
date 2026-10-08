@@ -44,4 +44,6 @@ export const deployAddonInstalling = {
       statement: "The game's folder is swept of what no addon ships after the addon is placed.",
     },
   ],
+  createdAt: "2026-09-11T13:52:21.909Z",
+  updatedAt: "2026-09-22T10:05:48.000Z",
 } as const satisfies Module

@@ -62,4 +62,6 @@ export const newestWins = {
       statement: "Nothing here knows a run's work.",
     },
   ],
+  createdAt: "2026-09-05T20:43:45.494Z",
+  updatedAt: "2026-09-15T18:33:01.000Z",
 } as const satisfies Module

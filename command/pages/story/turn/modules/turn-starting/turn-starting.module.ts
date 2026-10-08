@@ -29,4 +29,6 @@ export const turnStarting = {
       statement: "A telling that fails is named in the answer, and fails nothing.",
     },
   ],
+  createdAt: "2026-09-30T06:40:34.869Z",
+  updatedAt: "2026-09-30T06:40:40.000Z",
 } as const satisfies Module

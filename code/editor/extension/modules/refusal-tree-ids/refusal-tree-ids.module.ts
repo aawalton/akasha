@@ -20,4 +20,6 @@ export const refusalTreeIds = {
       statement: "Nothing here makes the view or the command these names reach.",
     },
   ],
+  createdAt: "2026-09-25T16:01:13.373Z",
+  updatedAt: "2026-09-25T16:01:30.000Z",
 } as const satisfies Module

@@ -26,4 +26,6 @@ export const libcMapping = {
       statement: "A process with no C library mapped is refused rather than guessed at.",
     },
   ],
+  createdAt: "2026-09-08T20:05:07.865Z",
+  updatedAt: "2026-09-22T13:55:14.000Z",
 } as const satisfies Module

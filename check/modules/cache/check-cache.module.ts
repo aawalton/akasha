@@ -45,4 +45,6 @@ export const checkCache = {
       statement: "Nothing here says what a check keeps or when a check keeps it.",
     },
   ],
+  createdAt: "2026-09-21T15:58:49.344Z",
+  updatedAt: "2026-09-24T22:23:31.000Z",
 } as const satisfies Module

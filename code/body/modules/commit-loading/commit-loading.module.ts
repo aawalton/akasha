@@ -74,4 +74,6 @@ export const commitLoading = {
       statement: "Nothing here is taken back once it is in place.",
     },
   ],
+  createdAt: "2026-09-22T19:56:10.452Z",
+  updatedAt: "2026-09-22T20:05:35.000Z",
 } as const satisfies Module

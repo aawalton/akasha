@@ -32,4 +32,6 @@ export const endingAnchor = {
       statement: "Nothing here holds what an anchor was taken for.",
     },
   ],
+  createdAt: "2026-09-22T16:08:08.747Z",
+  updatedAt: "2026-09-22T16:09:33.000Z",
 } as const satisfies Module

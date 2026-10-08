@@ -28,4 +28,6 @@ export const agentPageOpening = {
       statement: "Nothing here composes a path for a row that has no path.",
     },
   ],
+  createdAt: "2026-09-03T17:58:07.081Z",
+  updatedAt: "2026-09-15T18:33:01.000Z",
 } as const satisfies Module

@@ -33,4 +33,6 @@ export const commandDeclaring = {
       statement: "A command page has this declaration as data rather than as prose.",
     },
   ],
+  createdAt: "2026-09-03T22:16:22.946Z",
+  updatedAt: "2026-09-25T14:02:59.000Z",
 } as const satisfies Module

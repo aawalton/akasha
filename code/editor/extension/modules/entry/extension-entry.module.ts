@@ -69,4 +69,6 @@ export const extensionEntry = {
     },
   ],
   reachedByPath: ["activate", "deactivate"],
+  createdAt: "2026-09-03T16:12:55.541Z",
+  updatedAt: "2026-09-25T14:11:25.000Z",
 } as const satisfies Module

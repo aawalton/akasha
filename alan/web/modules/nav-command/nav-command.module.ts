@@ -12,4 +12,6 @@ export const navCommand = {
       statement: "The command reaching home is named by the title of the home site document.",
     },
   ],
+  createdAt: "2026-09-03T03:44:04.792Z",
+  updatedAt: "2026-09-27T12:08:18.000Z",
 } as const satisfies Module

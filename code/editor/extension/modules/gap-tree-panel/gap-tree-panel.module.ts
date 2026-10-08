@@ -56,4 +56,6 @@ export const gapTreePanel = {
       statement: "Nothing here decides the look of a row.",
     },
   ],
+  createdAt: "2026-09-19T03:06:01.181Z",
+  updatedAt: "2026-09-22T10:05:48.000Z",
 } as const satisfies Module

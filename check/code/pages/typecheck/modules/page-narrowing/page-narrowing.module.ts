@@ -39,4 +39,6 @@ export const pageNarrowing = {
       statement: "Nothing here builds a program or reads a diagnostic.",
     },
   ],
+  createdAt: "2026-09-19T06:00:00.695Z",
+  updatedAt: "2026-09-19T06:03:10.000Z",
 } as const satisfies Module

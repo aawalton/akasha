@@ -28,4 +28,6 @@ export const domainReading = {
       statement: "The reading for a root is done once and reused.",
     },
   ],
+  createdAt: "2026-09-03T22:00:32.640Z",
+  updatedAt: "2026-09-24T16:46:42.000Z",
 } as const satisfies Module

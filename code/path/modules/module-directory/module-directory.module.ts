@@ -24,4 +24,6 @@ export const moduleDirectory = {
       statement: "Nothing here reads the disk.",
     },
   ],
+  createdAt: "2026-09-11T14:38:18.499Z",
+  updatedAt: "2026-09-15T18:33:01.000Z",
 } as const satisfies Module

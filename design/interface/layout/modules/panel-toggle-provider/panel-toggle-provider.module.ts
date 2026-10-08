@@ -18,4 +18,6 @@ export const panelToggleProvider = {
         "A provider mounted inside another binds the keystroke again, and both answer one press.",
     },
   ],
+  createdAt: "2026-09-01T05:47:57.209Z",
+  updatedAt: "2026-09-21T17:10:54.000Z",
 } as const satisfies Module

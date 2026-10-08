@@ -178,4 +178,6 @@ export const deployFileClosure = {
         "An addon is built from no file generated beside a page, though every other kind still is.",
     },
   ],
+  createdAt: "2026-09-11T17:49:21.836Z",
+  updatedAt: "2026-09-25T18:18:03.000Z",
 } as const satisfies Module

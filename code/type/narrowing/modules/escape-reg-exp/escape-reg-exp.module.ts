@@ -17,4 +17,6 @@ export const escapeRegExp = {
       statement: "Nothing here builds a pattern.",
     },
   ],
+  createdAt: "2026-09-11T00:27:58.769Z",
+  updatedAt: "2026-09-15T19:48:30.000Z",
 } as const satisfies Module

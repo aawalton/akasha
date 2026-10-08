@@ -6,4 +6,6 @@ export const visitErrors = {
   slug: "visit-errors",
   definition: "the pcall Lua a try/catch/finally or throw statement becomes",
   code: "ts",
+  createdAt: "2026-09-03T12:57:32.083Z",
+  updatedAt: "2026-09-15T18:34:11.000Z",
 } as const satisfies Module

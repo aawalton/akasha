@@ -51,4 +51,6 @@ export const calendarEventing = {
         "No word of the call is read here; each act takes its words through the one reader.",
     },
   ],
+  createdAt: "2026-09-10T20:12:50.276Z",
+  updatedAt: "2026-09-15T18:33:01.000Z",
 } as const satisfies Module

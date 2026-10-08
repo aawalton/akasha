@@ -6,4 +6,6 @@ export const luaPrinterHelpers = {
   slug: "lua-printer-helpers",
   definition: "the lexical facts of Lua source text, from operator spelling to string escaping",
   code: "ts",
+  createdAt: "2026-09-03T12:57:31.990Z",
+  updatedAt: "2026-09-15T18:34:11.000Z",
 } as const satisfies Module

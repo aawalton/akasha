@@ -6,4 +6,6 @@ export const chip = {
   slug: "chip",
   definition: "a small removable token representing a value",
   code: "tsx",
+  createdAt: "2026-09-01T09:34:00.835Z",
+  updatedAt: "2026-09-22T10:08:16.000Z",
 } as const satisfies Module

@@ -6,4 +6,6 @@ export const collapse = {
   slug: "collapse",
   definition: "a reading folded to a value through a table stating one outcome per case",
   code: "ts",
+  createdAt: "2026-09-01T10:46:49.598Z",
+  updatedAt: "2026-09-15T19:48:30.000Z",
 } as const satisfies Module

@@ -16,4 +16,6 @@ export const settleTaking = {
       statement: "A turn named by its address is taken as its slug.",
     },
   ],
+  createdAt: "2026-10-03T11:52:01.368Z",
+  updatedAt: "2026-10-03T11:52:13.000Z",
 } as const satisfies Module

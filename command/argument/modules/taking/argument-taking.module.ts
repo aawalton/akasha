@@ -107,4 +107,6 @@ export const argumentTaking = {
         "A member always answered is never typed undefined, so a repeating one keeps its list.",
     },
   ],
+  createdAt: "2026-09-12T05:32:05.890Z",
+  updatedAt: "2026-09-25T14:17:46.000Z",
 } as const satisfies Module

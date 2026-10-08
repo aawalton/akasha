@@ -6,4 +6,6 @@ export const isSortDirection = {
   slug: "is-sort-direction",
   definition: "whether a value is one of the two ways a sort can run",
   code: "ts",
+  createdAt: "2026-09-11T01:15:33.513Z",
+  updatedAt: "2026-09-15T19:48:30.000Z",
 } as const satisfies Module

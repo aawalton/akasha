@@ -156,4 +156,6 @@ export const treeSearching = {
       statement: "The program that searches is looked for when a search first needs it.",
     },
   ],
+  createdAt: "2026-09-14T14:55:27.253Z",
+  updatedAt: "2026-09-27T19:41:56.000Z",
 } as const satisfies Module

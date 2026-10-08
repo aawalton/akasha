@@ -6,4 +6,6 @@ export const tokenSwatch = {
   slug: "token-swatch",
   definition: "the block drawing a token's color beside its name",
   code: "tsx",
+  createdAt: "2026-09-01T10:48:05.960Z",
+  updatedAt: "2026-09-22T13:44:00.000Z",
 } as const satisfies Module

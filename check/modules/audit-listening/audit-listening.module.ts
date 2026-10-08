@@ -87,4 +87,6 @@ export const auditListening = {
       statement: "The slug is read off the service's own page rather than spelled here.",
     },
   ],
+  createdAt: "2026-09-15T19:57:09.093Z",
+  updatedAt: "2026-09-22T14:40:36.000Z",
 } as const satisfies Module

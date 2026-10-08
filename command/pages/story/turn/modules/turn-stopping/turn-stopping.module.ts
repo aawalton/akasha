@@ -16,4 +16,6 @@ export const turnStopping = {
       statement: "The stop names no agent, since the agent it would name is the one ending.",
     },
   ],
+  createdAt: "2026-10-03T20:34:05.528Z",
+  updatedAt: "2026-10-03T20:34:13.000Z",
 } as const satisfies Module

@@ -148,4 +148,6 @@ export const subagentEditsActing = {
       statement: "Nothing here lands a record.",
     },
   ],
+  createdAt: "2026-09-13T19:10:16.308Z",
+  updatedAt: "2026-09-25T15:08:58.000Z",
 } as const satisfies Module

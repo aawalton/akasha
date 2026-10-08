@@ -111,4 +111,6 @@ export const fileArguing = {
       statement: "Nothing here judges a body.",
     },
   ],
+  createdAt: "2026-09-07T12:25:46.089Z",
+  updatedAt: "2026-09-22T16:49:21.000Z",
 } as const satisfies Module

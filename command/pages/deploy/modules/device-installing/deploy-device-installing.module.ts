@@ -74,4 +74,6 @@ export const deployDeviceInstalling = {
       statement: "Nothing here uploads to App Store Connect.",
     },
   ],
+  createdAt: "2026-09-11T01:19:04.693Z",
+  updatedAt: "2026-09-25T18:32:06.000Z",
 } as const satisfies Module

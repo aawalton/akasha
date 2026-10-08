@@ -62,4 +62,6 @@ export const colorBadgeVariant = {
       statement: "Nothing here draws a badge.",
     },
   ],
+  createdAt: "2026-09-21T17:26:17.164Z",
+  updatedAt: "2026-09-21T17:33:31.000Z",
 } as const satisfies Module

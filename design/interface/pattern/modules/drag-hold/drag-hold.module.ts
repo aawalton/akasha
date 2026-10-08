@@ -29,4 +29,6 @@ export const dragHold = {
       statement: "Nothing here reads the drop target it clears.",
     },
   ],
+  createdAt: "2026-09-11T13:06:29.855Z",
+  updatedAt: "2026-09-15T18:33:51.000Z",
 } as const satisfies Module

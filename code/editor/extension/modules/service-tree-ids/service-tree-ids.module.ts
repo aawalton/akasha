@@ -24,4 +24,6 @@ export const serviceTreeIds = {
       statement: "Nothing here names a row of the service tree.",
     },
   ],
+  createdAt: "2026-09-13T18:53:33.867Z",
+  updatedAt: "2026-09-22T13:48:28.000Z",
 } as const satisfies Module

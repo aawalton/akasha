@@ -69,4 +69,6 @@ export const loneCalling = {
       statement: "Nothing here reads or writes a page.",
     },
   ],
+  createdAt: "2026-09-25T15:57:25.996Z",
+  updatedAt: "2026-09-25T16:06:36.000Z",
 } as const satisfies Module

@@ -48,4 +48,6 @@ export const procReading = {
       statement: "Nothing here signals a process.",
     },
   ],
+  createdAt: "2026-09-01T12:47:22.267Z",
+  updatedAt: "2026-09-15T19:05:07.000Z",
 } as const satisfies Module

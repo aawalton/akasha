@@ -57,4 +57,6 @@ export const restating = {
       statement: "Nothing here writes.",
     },
   ],
+  createdAt: "2026-09-05T16:16:30.804Z",
+  updatedAt: "2026-09-24T22:11:35.000Z",
 } as const satisfies Module

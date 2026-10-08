@@ -57,4 +57,6 @@ export const seatCalls = {
       statement: "A restart goes through where subagents are working under the seat.",
     },
   ],
+  createdAt: "2026-09-12T13:17:57.425Z",
+  updatedAt: "2026-09-21T13:50:18.000Z",
 } as const satisfies Module

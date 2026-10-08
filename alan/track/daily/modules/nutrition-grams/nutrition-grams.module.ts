@@ -6,4 +6,6 @@ export const nutritionGrams = {
   slug: "nutrition-grams",
   definition: "the grams of plant Alan ate across a day, from its opening to the next",
   code: "ts",
+  createdAt: "2026-09-03T22:45:21.798Z",
+  updatedAt: "2026-09-22T10:05:53.000Z",
 } as const satisfies Module

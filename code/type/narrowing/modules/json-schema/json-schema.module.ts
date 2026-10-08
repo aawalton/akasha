@@ -6,4 +6,6 @@ export const jsonSchema = {
   slug: "json-schema",
   definition: "the parser that admits a JSON value and refuses what is not one",
   code: "ts",
+  createdAt: "2026-09-01T10:46:49.600Z",
+  updatedAt: "2026-09-15T19:48:30.000Z",
 } as const satisfies Module

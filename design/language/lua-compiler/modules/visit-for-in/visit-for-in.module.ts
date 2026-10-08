@@ -6,4 +6,6 @@ export const visitForIn = {
   slug: "visit-for-in",
   definition: "the pairs for-in loop a for-in statement becomes",
   code: "ts",
+  createdAt: "2026-09-03T12:57:32.092Z",
+  updatedAt: "2026-09-15T18:34:11.000Z",
 } as const satisfies Module

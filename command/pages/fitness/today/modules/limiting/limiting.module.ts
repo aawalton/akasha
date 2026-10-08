@@ -49,5 +49,6 @@ export const limiting = {
       statement: "A set naming a movement this does not know moves the weight it states alone.",
     },
   ],
-  updatedAt: "2026-10-08T15:30:42.511Z",
+  updatedAt: "2026-10-08T16:01:39.680Z",
+  createdAt: "2026-09-21T13:42:03.180Z",
 } as const satisfies Module

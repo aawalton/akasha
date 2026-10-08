@@ -28,4 +28,6 @@ export const manifestFinding = {
       statement: "An index naming no such file throws rather than answering no manifest.",
     },
   ],
+  createdAt: "2026-09-14T14:20:04.904Z",
+  updatedAt: "2026-09-22T13:55:14.000Z",
 } as const satisfies Module

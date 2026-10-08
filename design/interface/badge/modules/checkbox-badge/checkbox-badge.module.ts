@@ -12,4 +12,6 @@ export const checkboxBadge = {
       statement: "A box drawn bare starts on the edge every other bare value starts on.",
     },
   ],
+  createdAt: "2026-09-01T04:58:54.649Z",
+  updatedAt: "2026-09-24T20:21:40.000Z",
 } as const satisfies Module

@@ -71,4 +71,6 @@ export const spotifyPlaylists = {
       statement: "Nothing here chooses which tracks a playlist holds.",
     },
   ],
+  createdAt: "2026-09-21T17:05:04.688Z",
+  updatedAt: "2026-09-21T17:57:26.000Z",
 } as const satisfies Module

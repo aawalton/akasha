@@ -6,4 +6,6 @@ export const requireFirst = {
   slug: "require-first",
   definition: "the first element of an array, refused where the array is empty",
   code: "ts",
+  createdAt: "2026-09-01T10:46:49.601Z",
+  updatedAt: "2026-09-15T19:48:30.000Z",
 } as const satisfies Module

@@ -52,4 +52,6 @@ export const gapTreeView = {
       statement: "Nothing here makes the view these rows are drawn in.",
     },
   ],
+  createdAt: "2026-09-19T03:06:01.181Z",
+  updatedAt: "2026-09-19T03:30:36.000Z",
 } as const satisfies Module

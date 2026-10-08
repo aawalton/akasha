@@ -68,4 +68,6 @@ export const tellContinuing = {
       statement: "Nothing here reads the disk.",
     },
   ],
+  createdAt: "2026-09-30T18:00:13.990Z",
+  updatedAt: "2026-10-06T15:54:27.000Z",
 } as const satisfies Module

@@ -6,4 +6,6 @@ export const formatRelativeTime = {
   slug: "format-relative-time",
   definition: "an instant written as how long ago it was",
   code: "ts",
+  createdAt: "2026-09-01T07:40:46.150Z",
+  updatedAt: "2026-09-15T18:33:51.000Z",
 } as const satisfies Module

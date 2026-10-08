@@ -6,4 +6,6 @@ export const brandHeart = {
   slug: "brand-heart",
   definition: "the panel stating what the brand is at its heart",
   code: "tsx",
+  createdAt: "2026-09-01T10:48:05.959Z",
+  updatedAt: "2026-09-15T18:34:11.000Z",
 } as const satisfies Module

@@ -12,4 +12,6 @@ export const signedInRedirect = {
       statement: "A signed-in reader is sent to the home route.",
     },
   ],
+  createdAt: "2026-09-11T01:38:43.067Z",
+  updatedAt: "2026-09-15T18:21:01.000Z",
 } as const satisfies Module

@@ -22,4 +22,6 @@ export const turnWritten = {
       statement: "A turn stating no position has no page written on it.",
     },
   ],
+  createdAt: "2026-09-28T00:44:50.449Z",
+  updatedAt: "2026-09-28T00:45:00.000Z",
 } as const satisfies Module

@@ -40,4 +40,6 @@ export const turnKeeping = {
         "A kept edit fitting nothing refuses the landing, naming that edit and the call taking it away.",
     },
   ],
+  createdAt: "2026-09-27T17:47:24.367Z",
+  updatedAt: "2026-10-03T14:27:52.000Z",
 } as const satisfies Module

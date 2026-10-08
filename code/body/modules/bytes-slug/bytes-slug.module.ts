@@ -25,4 +25,6 @@ export const bytesSlug = {
       statement: "The same bytes give the same slug, so a page of those bytes lands once.",
     },
   ],
+  createdAt: "2026-09-21T23:19:37.603Z",
+  updatedAt: "2026-09-21T23:21:23.000Z",
 } as const satisfies Module

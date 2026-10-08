@@ -46,4 +46,6 @@ export const cooling = {
       statement: "A stretch Alan's kit cannot carry is no stretch to offer.",
     },
   ],
+  createdAt: "2026-09-19T17:29:51.658Z",
+  updatedAt: "2026-10-08T15:15:34.000Z",
 } as const satisfies Module

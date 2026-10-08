@@ -20,4 +20,6 @@ export const appLayoutLoading = {
       statement: "The layout loads the name the site is shown under off its web app page.",
     },
   ],
+  createdAt: "2026-09-03T03:45:08.507Z",
+  updatedAt: "2026-09-27T11:50:23.000Z",
 } as const satisfies Module

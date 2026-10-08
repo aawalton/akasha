@@ -16,4 +16,6 @@ export const synthDrift = {
       statement: "A drift names the first line the two differ at.",
     },
   ],
+  createdAt: "2026-09-03T16:17:57.096Z",
+  updatedAt: "2026-09-15T18:34:44.000Z",
 } as const satisfies Module

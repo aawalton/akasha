@@ -20,4 +20,6 @@ export const firstCapture = {
       statement: "An empty first group is answered rather than read as nothing.",
     },
   ],
+  createdAt: "2026-09-11T01:04:15.983Z",
+  updatedAt: "2026-09-15T19:48:30.000Z",
 } as const satisfies Module

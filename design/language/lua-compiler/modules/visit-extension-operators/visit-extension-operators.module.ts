@@ -6,4 +6,6 @@ export const visitExtensionOperators = {
   slug: "visit-extension-operators",
   definition: "the native Lua operator an operator extension call becomes",
   code: "ts",
+  createdAt: "2026-09-03T12:57:32.089Z",
+  updatedAt: "2026-09-15T18:34:11.000Z",
 } as const satisfies Module

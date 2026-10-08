@@ -24,4 +24,6 @@ export const clusterJobs = {
       statement: "A job that made no pod has an empty log.",
     },
   ],
+  createdAt: "2026-09-03T19:52:53.162Z",
+  updatedAt: "2026-09-15T18:34:44.000Z",
 } as const satisfies Module

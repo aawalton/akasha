@@ -118,5 +118,6 @@ export const commandStopping = {
       statement: "Nothing here waits on the answer a command gives.",
     },
   ],
-  updatedAt: "2026-10-08T15:43:25.589Z",
+  updatedAt: "2026-10-08T16:01:39.680Z",
+  createdAt: "2026-09-08T17:28:29.707Z",
 } as const satisfies Module

@@ -6,4 +6,6 @@ export const navTypes = {
   slug: "nav-types",
   definition: "what a nav item, a drawer group and a nav config hold",
   code: "ts",
+  createdAt: "2026-09-01T05:47:57.210Z",
+  updatedAt: "2026-09-15T18:33:51.000Z",
 } as const satisfies Module

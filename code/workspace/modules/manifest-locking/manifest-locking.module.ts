@@ -164,4 +164,6 @@ export const manifestLocking = {
       statement: "A landing moving a manifest to another path is a landing with a manifest.",
     },
   ],
+  createdAt: "2026-09-02T14:36:54.921Z",
+  updatedAt: "2026-09-24T22:44:08.000Z",
 } as const satisfies Module

@@ -114,4 +114,6 @@ export const pageRenaming = {
         "A page stating its page type as an address is read by the slug that address holds.",
     },
   ],
+  createdAt: "2026-09-13T20:45:52.475Z",
+  updatedAt: "2026-09-28T20:04:53.000Z",
 } as const satisfies Module

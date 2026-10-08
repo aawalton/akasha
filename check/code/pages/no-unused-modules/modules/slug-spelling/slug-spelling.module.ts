@@ -42,4 +42,6 @@ export const slugSpelling = {
       statement: "Nothing here reaches the index.",
     },
   ],
+  createdAt: "2026-09-21T23:50:16.045Z",
+  updatedAt: "2026-09-21T23:58:13.000Z",
 } as const satisfies Module

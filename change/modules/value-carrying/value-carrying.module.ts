@@ -96,4 +96,6 @@ export const valueCarrying = {
       statement: "Nothing here works out a body of its own.",
     },
   ],
+  createdAt: "2026-09-09T19:55:49.238Z",
+  updatedAt: "2026-09-21T16:18:31.000Z",
 } as const satisfies Module

@@ -6,4 +6,6 @@ export const workspaceSource = {
   slug: "workspace-source",
   definition: "whether a file's real path lies outside node_modules",
   code: "ts",
+  createdAt: "2026-09-03T12:57:32.055Z",
+  updatedAt: "2026-09-15T18:34:44.000Z",
 } as const satisfies Module

@@ -6,4 +6,6 @@ export const visitFunction = {
   slug: "visit-function",
   definition: "the Lua a function declaration, its parameters, and its body become",
   code: "ts",
+  createdAt: "2026-09-03T12:57:32.085Z",
+  updatedAt: "2026-09-15T18:34:11.000Z",
 } as const satisfies Module

@@ -49,4 +49,6 @@ export const subagentCheckpoints = {
       statement: "Several extension hosts share one book.",
     },
   ],
+  createdAt: "2026-09-03T17:58:07.081Z",
+  updatedAt: "2026-10-04T16:34:55.000Z",
 } as const satisfies Module

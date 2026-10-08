@@ -6,4 +6,6 @@ export const panelCard = {
   slug: "panel-card",
   definition: "a card a browser draws around a panel of content",
   code: "tsx",
+  createdAt: "2026-09-01T05:47:57.209Z",
+  updatedAt: "2026-09-22T13:44:00.000Z",
 } as const satisfies Module

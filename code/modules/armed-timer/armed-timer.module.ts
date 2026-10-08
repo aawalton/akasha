@@ -61,4 +61,6 @@ export const armedTimer = {
       statement: "No caller reaches the handle a timeout is held by.",
     },
   ],
+  createdAt: "2026-09-11T13:32:45.120Z",
+  updatedAt: "2026-09-22T10:06:44.000Z",
 } as const satisfies Module

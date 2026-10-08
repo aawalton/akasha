@@ -69,4 +69,6 @@ export const landingReading = {
       statement: "Nothing here refuses a landing.",
     },
   ],
+  createdAt: "2026-09-04T18:49:52.720Z",
+  updatedAt: "2026-09-27T14:11:46.000Z",
 } as const satisfies Module

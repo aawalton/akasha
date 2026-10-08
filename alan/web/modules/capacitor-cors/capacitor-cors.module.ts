@@ -43,4 +43,6 @@ export const capacitorCors = {
       statement: "A method a route does not serve is refused 405 with the cross-origin headers.",
     },
   ],
+  createdAt: "2026-09-02T20:21:53.279Z",
+  updatedAt: "2026-09-24T22:51:26.000Z",
 } as const satisfies Module

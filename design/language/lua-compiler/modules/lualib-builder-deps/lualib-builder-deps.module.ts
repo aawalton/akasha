@@ -6,4 +6,6 @@ export const lualibBuilderDeps = {
   slug: "lualib-builder-deps",
   definition: "the mutable slots holding the printer and transpiler constructors",
   code: "ts",
+  createdAt: "2026-09-03T12:57:31.995Z",
+  updatedAt: "2026-09-22T14:07:45.000Z",
 } as const satisfies Module

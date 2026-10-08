@@ -58,4 +58,6 @@ export const pictureAnswering = {
       statement: "An answer to the native shell has the cross-origin headers that shell needs.",
     },
   ],
+  createdAt: "2026-09-13T20:07:20.281Z",
+  updatedAt: "2026-09-24T18:56:50.000Z",
 } as const satisfies Module

@@ -192,4 +192,6 @@ export const codeExportCarrying = {
       statement: "That refusal names that name and the statement the export would run before.",
     },
   ],
+  createdAt: "2026-09-13T19:27:54.760Z",
+  updatedAt: "2026-09-21T20:04:59.000Z",
 } as const satisfies Module

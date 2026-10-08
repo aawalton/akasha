@@ -33,4 +33,6 @@ export const warrantOwing = {
       statement: "Whether an owing refuses a call is the caller's own.",
     },
   ],
+  createdAt: "2026-09-07T12:25:46.089Z",
+  updatedAt: "2026-09-15T18:33:51.000Z",
 } as const satisfies Module

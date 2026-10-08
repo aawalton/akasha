@@ -6,4 +6,6 @@ export const addSortButton = {
   slug: "add-sort-button",
   definition: "the button offering the sorts not yet added",
   code: "tsx",
+  createdAt: "2026-09-01T10:00:29.536Z",
+  updatedAt: "2026-09-15T18:33:51.000Z",
 } as const satisfies Module

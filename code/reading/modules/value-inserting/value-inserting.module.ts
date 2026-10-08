@@ -37,4 +37,6 @@ export const valueInserting = {
       statement: "Nothing here judges the value handed in.",
     },
   ],
+  createdAt: "2026-09-07T12:47:46.657Z",
+  updatedAt: "2026-10-08T14:53:49.000Z",
 } as const satisfies Module

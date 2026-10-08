@@ -37,4 +37,6 @@ export const stylesheetDeclaring = {
       statement: "No declaration answers every stylesheet, so one not there resolves to nothing.",
     },
   ],
+  createdAt: "2026-09-24T23:08:18.199Z",
+  updatedAt: "2026-09-24T23:08:27.000Z",
 } as const satisfies Module

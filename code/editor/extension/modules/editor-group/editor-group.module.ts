@@ -54,4 +54,6 @@ export const editorGroup = {
       statement: "Nothing here asks the editor which columns are open.",
     },
   ],
+  createdAt: "2026-09-03T01:13:28.825Z",
+  updatedAt: "2026-09-15T18:33:01.000Z",
 } as const satisfies Module

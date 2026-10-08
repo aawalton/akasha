@@ -40,4 +40,6 @@ export const oneTypeOnly = {
       statement: "Nothing here reads the name of the folder it judges.",
     },
   ],
+  createdAt: "2026-09-13T19:20:42.552Z",
+  updatedAt: "2026-09-15T18:21:01.000Z",
 } as const satisfies Module

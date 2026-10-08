@@ -6,4 +6,6 @@ export const hostnamesCiEnrollment = {
   slug: "hostnames-ci-enrollment",
   definition: "the label marking a node a candidate for CI enrollment",
   code: "ts",
+  createdAt: "2026-09-03T12:19:38.524Z",
+  updatedAt: "2026-09-15T18:34:44.000Z",
 } as const satisfies Module

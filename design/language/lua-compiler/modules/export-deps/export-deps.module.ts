@@ -6,4 +6,6 @@ export const exportDeps = {
   slug: "export-deps",
   definition: "a late-bound holder of the module local name function",
   code: "ts",
+  createdAt: "2026-09-03T12:57:32.023Z",
+  updatedAt: "2026-09-15T18:34:11.000Z",
 } as const satisfies Module

@@ -90,4 +90,6 @@ export const pagePropertySplicing = {
       statement: "Nothing here says which pages are written.",
     },
   ],
+  createdAt: "2026-09-13T19:56:47.317Z",
+  updatedAt: "2026-09-19T03:12:38.000Z",
 } as const satisfies Module
