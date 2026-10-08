@@ -117,6 +117,18 @@ export const terminusCollectionTowers = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
+      fact: "An Administrator's cut tracks the tower's pull: 1% of the essence that pull draws in.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "A central tower's Administrator gets 1% of the full pull; a local one, 1% of the local pull.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Administrators' cuts jump hugely between tiers and differ only slightly within a tier.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
       fact: "Each collection tower reaches through the whole thickness of the shell.",
       knowers: ["lore-disclosure/game-master"],
     },
@@ -242,5 +254,5 @@ export const terminusCollectionTowers = {
     },
   ],
   createdAt: "2026-10-08T19:30:37.295Z",
-  updatedAt: "2026-10-08T20:54:33.638Z",
+  updatedAt: "2026-10-08T20:56:27.984Z",
 } as const satisfies Lore
