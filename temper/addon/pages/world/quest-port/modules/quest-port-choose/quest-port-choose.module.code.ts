@@ -98,6 +98,12 @@ export function portTargets(this: void, nodes: readonly NodeReading[]): PortTarg
   return targets
 }
 
+export const MAX_TARGET_CLIMBS = 3
+
+export function climbForTargets(this: void, onOverlandMap: boolean, climbs: number): boolean {
+  return !onOverlandMap && climbs < MAX_TARGET_CLIMBS
+}
+
 export function nearestTarget(
   this: void,
   targets: readonly PortTarget[],

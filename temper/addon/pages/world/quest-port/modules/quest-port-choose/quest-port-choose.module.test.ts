@@ -1,5 +1,7 @@
 import { describe, expect, test } from "bun:test"
 import {
+  climbForTargets,
+  MAX_TARGET_CLIMBS,
   mapAttempts,
   type NodeReading,
   nearestTarget,
@@ -123,5 +125,17 @@ describe("quest-port-choose", () => {
 
   test("no target gives no nearest", () => {
     expect(nearestTarget([], 0.5, 0.5)).toBeUndefined()
+  })
+
+  test("a map inside an overland map is zoomed out of to look for targets", () => {
+    expect(climbForTargets(false, 0)).toBe(true)
+  })
+
+  test("an overland map is never zoomed out of to look for targets", () => {
+    expect(climbForTargets(true, 0)).toBe(false)
+  })
+
+  test("zooming out to look for targets stops at the cap", () => {
+    expect(climbForTargets(false, MAX_TARGET_CLIMBS)).toBe(false)
   })
 })

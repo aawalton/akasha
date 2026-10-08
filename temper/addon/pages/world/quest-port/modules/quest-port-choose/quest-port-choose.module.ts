@@ -44,10 +44,18 @@ export const questPortChoose = {
       statement: "Of two targets equally near, the one the game lists first is taken.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement: "A map with no target is zoomed out of unless the map is overland.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Zooming out to look for targets stops after three levels.",
+    },
+    {
       decisionKind: "decision-kind/absence",
       statement: "Nothing here calls the game.",
     },
   ],
   createdAt: "2026-10-08T14:52:54.473Z",
-  updatedAt: "2026-10-08T17:30:45.270Z",
+  updatedAt: "2026-10-08T17:57:01.127Z",
 } as const satisfies Module
