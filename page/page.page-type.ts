@@ -29,6 +29,8 @@ export const page = {
       default: "jsonl",
     },
     { pageProperty: "grade-property/grade", required: false, many: false },
+    { pageProperty: "instant-property/created-at", required: false, many: false },
+    { pageProperty: "instant-property/updated-at", required: false, many: false },
   ],
   parts: [
     "domain/id",
@@ -131,6 +133,8 @@ export const page = {
     "text-property/title",
     "grade-property/grade",
     "module/page-body-editing",
+    "instant-property/created-at",
+    "instant-property/updated-at",
   ],
   decisions: [
     {

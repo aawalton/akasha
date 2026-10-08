@@ -3420,6 +3420,7 @@
 {"propertySlug":"decision-kind","path":"page/phone-number-property/phone-number-property.page-type.ts","id":"01a053e9-5cd1-7137-9fbb-c33920c95575"}
 {"propertySlug":"decision-kind","path":"page/process-property/process-property.page-type.ts","id":"01a05406-9bc6-71c5-8fcf-b15b97d86578"}
 {"propertySlug":"decision-kind","path":"page/properties/cover.relation-property.ts","id":"01a0539d-94a2-71f8-83d3-2c8cd1f8db2e"}
+{"propertySlug":"decision-kind","path":"page/properties/created-at.instant-property.ts","id":"01a11c02-1cc1-7a9a-ba3c-c377f6d15cf2"}
 {"propertySlug":"decision-kind","path":"page/properties/entries.file-property.ts","id":"01a06dc1-5cd2-7bc0-b943-c68e1d872c39"}
 {"propertySlug":"decision-kind","path":"page/properties/grade.grade-property.ts","id":"01a0655b-4a9b-7003-a822-f4a3ceda67b2"}
 {"propertySlug":"decision-kind","path":"page/properties/icon.text-property.ts","id":"01a05fac-7584-7877-a778-efd8ee361ce1"}
@@ -3427,6 +3428,7 @@
 {"propertySlug":"decision-kind","path":"page/properties/priority.select-property.ts","id":"01a0c537-0fde-7c44-baa5-1aa0541d3b1a"}
 {"propertySlug":"decision-kind","path":"page/properties/referenced-by.file-property.ts","id":"01a0a2e9-c513-7eed-aa47-3b272814218c"}
 {"propertySlug":"decision-kind","path":"page/properties/title.text-property.ts","id":"01a05fac-7582-7694-ae1f-480fe66ea27b"}
+{"propertySlug":"decision-kind","path":"page/properties/updated-at.instant-property.ts","id":"01a11c02-1cc2-7277-b4b3-fe9a8c427ce4"}
 {"propertySlug":"decision-kind","path":"page/property-entry/modules/entry-rows/entry-rows.module.ts","id":"01a0c570-221d-73e8-8433-a1d654e49aab"}
 {"propertySlug":"decision-kind","path":"page/property-entry/page-property-entry.page-type.ts","id":"01a05f80-3969-7000-8ccd-6284909fc036"}
 {"propertySlug":"decision-kind","path":"page/property-entry/properties/entry-written-by.relation-property.ts","id":"01a0d970-b209-7b6e-85fe-46e639d56b8f"}

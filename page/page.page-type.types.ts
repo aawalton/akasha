@@ -1,4 +1,5 @@
 import type { Cover } from "akasha/page/properties/cover.relation-property.types.ts"
+import type { CreatedAt } from "akasha/page/properties/created-at.instant-property.types.ts"
 import type { Description } from "akasha/page/properties/description.text-property.types.ts"
 import type { Entries } from "akasha/page/properties/entries.file-property.types.ts"
 import type { Grade } from "akasha/page/properties/grade.grade-property.types.ts"
@@ -8,6 +9,7 @@ import type { PagePageType } from "akasha/page/properties/page-page-type.relatio
 import type { ReferencedBy } from "akasha/page/properties/referenced-by.file-property.types.ts"
 import type { Slug } from "akasha/page/properties/slug.text-property.types.ts"
 import type { Title } from "akasha/page/properties/title.text-property.types.ts"
+import type { UpdatedAt } from "akasha/page/properties/updated-at.instant-property.types.ts"
 
 export type Page = {
   id: Id
@@ -20,4 +22,6 @@ export type Page = {
   entries?: Entries
   referencedBy?: ReferencedBy
   grade?: Grade
+  createdAt?: CreatedAt
+  updatedAt?: UpdatedAt
 }
