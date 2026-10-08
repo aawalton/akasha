@@ -45,6 +45,26 @@ export const terminusTheSystem = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
+      fact: "A death's essence is split between the killer and the atmosphere.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Essence released into the atmosphere drifts toward the nearest collection tower.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The killer's share of a death's essence depends on how far the death is from the nearest tower.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "At a tower the killer takes the most it ever can: half of the dead's essence.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The killer's share falls with distance from the tower, reaching nothing where towers' pulls balance.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
       fact: "The System enforces mortality to prevent immortal stagnation.",
       knowers: ["lore-disclosure/game-master"],
     },
@@ -142,5 +162,5 @@ export const terminusTheSystem = {
     },
   ],
   createdAt: "2026-10-08T19:30:10.084Z",
-  updatedAt: "2026-10-08T19:34:50.690Z",
+  updatedAt: "2026-10-08T19:40:27.394Z",
 } as const satisfies Lore
