@@ -5,4 +5,6 @@ export const companionAutomationPanelCardEquipment = {
   type: "page-type/temper-web-phrase",
   slug: "companion-automation-panel-card-equipment",
   title: "Equipment",
+  createdAt: "2026-09-27T11:41:13.817Z",
+  updatedAt: "2026-09-27T11:41:21.000Z",
 } as const satisfies TemperWebPhrase

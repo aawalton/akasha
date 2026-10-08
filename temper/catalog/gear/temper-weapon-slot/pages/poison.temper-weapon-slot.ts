@@ -9,4 +9,6 @@ export const poison = {
   displayOrder: 2,
 
   slotEquipType: "temper-equip-type/poison",
+  createdAt: "2026-05-21T22:32:11.266Z",
+  updatedAt: "2026-09-27T04:24:42.000Z",
 } as const satisfies TemperWeaponSlot

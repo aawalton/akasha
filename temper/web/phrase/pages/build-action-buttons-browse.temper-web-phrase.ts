@@ -5,4 +5,6 @@ export const buildActionButtonsBrowse = {
   type: "page-type/temper-web-phrase",
   slug: "build-action-buttons-browse",
   title: "Browse",
+  createdAt: "2026-09-27T11:44:59.842Z",
+  updatedAt: "2026-09-27T11:45:08.000Z",
 } as const satisfies TemperWebPhrase

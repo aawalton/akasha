@@ -5,4 +5,6 @@ export const companionSuggestionsPanelCardTrait = {
   type: "page-type/temper-web-phrase",
   slug: "companion-suggestions-panel-card-trait",
   title: "Trait",
+  createdAt: "2026-09-27T12:32:52.319Z",
+  updatedAt: "2026-09-27T12:33:00.000Z",
 } as const satisfies TemperWebPhrase

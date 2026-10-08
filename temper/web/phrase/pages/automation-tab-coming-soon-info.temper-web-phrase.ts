@@ -6,4 +6,6 @@ export const automationTabComingSoonInfo = {
   slug: "automation-tab-coming-soon-info",
   title:
     "These toggles will take effect once addon support is added: skill bars, champion points, and attribute allocation.",
+  createdAt: "2026-09-27T11:42:12.167Z",
+  updatedAt: "2026-09-27T11:42:22.000Z",
 } as const satisfies TemperWebPhrase

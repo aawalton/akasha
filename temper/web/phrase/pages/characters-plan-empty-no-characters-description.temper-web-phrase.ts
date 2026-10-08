@@ -7,4 +7,6 @@ export const charactersPlanEmptyNoCharactersDescription = {
   title: "No characters received",
   description:
     "Temper has not received any characters for this account. The Temper ESO add-ons write the files the Watcher reads, so both need to be working before any characters reach Temper. Arriving does not attach a build, though, so this tab stays empty even once they land.",
+  createdAt: "2026-09-27T11:36:22.894Z",
+  updatedAt: "2026-09-27T11:36:30.000Z",
 } as const satisfies TemperWebPhrase

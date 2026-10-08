@@ -11,4 +11,6 @@ export const guildDarkBrotherhood = {
   maxRank: 12,
   category: "temper-skill-line-category/guild",
   hashPlace: 37,
+  createdAt: "2026-05-26T01:18:50.316Z",
+  updatedAt: "2026-09-26T15:39:49.000Z",
 } as const satisfies TemperSkillLine

@@ -5,4 +5,6 @@ export const automationTabDailyAutomationInfo = {
   type: "page-type/temper-web-phrase",
   slug: "automation-tab-daily-automation-info",
   title: "Auto-craft at stations and auto-accept/complete writ quests.",
+  createdAt: "2026-09-27T11:42:12.167Z",
+  updatedAt: "2026-09-27T11:42:22.000Z",
 } as const satisfies TemperWebPhrase

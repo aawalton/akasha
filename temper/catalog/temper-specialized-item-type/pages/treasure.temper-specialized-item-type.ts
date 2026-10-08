@@ -6,4 +6,6 @@ export const treasure = {
   slug: "treasure",
   title: "Treasure",
   esoSpecializedItemTypeNumber: 2550,
+  createdAt: "2026-09-27T04:26:38.858Z",
+  updatedAt: "2026-09-27T04:26:52.000Z",
 } as const satisfies TemperSpecializedItemType

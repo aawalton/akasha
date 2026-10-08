@@ -9,4 +9,6 @@ export const rajhinThePurringLiar = {
   esoPatronId: 10,
   esoCollectibleId: 10575,
   cards: "jsonl",
+  createdAt: "2026-09-02T08:53:48.330Z",
+  updatedAt: "2026-09-21T15:27:16.000Z",
 } as const satisfies TemperTributePatron

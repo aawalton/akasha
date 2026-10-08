@@ -5,4 +5,6 @@ export const affectedItemsDialogTitle = {
   type: "page-type/temper-web-phrase",
   slug: "affected-items-dialog-title",
   title: "Affected Items",
+  createdAt: "2026-09-27T11:35:01.168Z",
+  updatedAt: "2026-09-27T11:35:10.000Z",
 } as const satisfies TemperWebPhrase

@@ -8,4 +8,6 @@ export const ultimate = {
   key: "ultimate",
   hashPlace: 5,
   holdsUltimate: true,
+  createdAt: "2026-05-16T13:38:17.310Z",
+  updatedAt: "2026-09-27T07:39:11.000Z",
 } as const satisfies TemperSkillSlot

@@ -16,4 +16,6 @@ export const infiniteArchiveWeeklyLeaderboard = {
   priority: "p2",
   effectiveCharacter: "temper-account-character/erin-solstice",
   lastCompletedAt: "2026-10-08T14:30:30.892Z",
+  createdAt: "2026-04-22T12:39:34.017Z",
+  updatedAt: "2026-10-08T14:30:31.000Z",
 } as const satisfies TemperTask

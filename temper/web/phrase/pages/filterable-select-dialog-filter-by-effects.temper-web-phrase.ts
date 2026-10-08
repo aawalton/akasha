@@ -5,4 +5,6 @@ export const filterableSelectDialogFilterByEffects = {
   type: "page-type/temper-web-phrase",
   slug: "filterable-select-dialog-filter-by-effects",
   title: "Filter by Effects",
+  createdAt: "2026-09-27T11:30:29.139Z",
+  updatedAt: "2026-09-27T11:30:37.000Z",
 } as const satisfies TemperWebPhrase

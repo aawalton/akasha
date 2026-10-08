@@ -8,4 +8,6 @@ export const companionSkills = {
   displayOrder: 23,
   key: "companion-skills",
   subject: "companion",
+  createdAt: "2026-05-16T13:40:58.519Z",
+  updatedAt: "2026-09-26T19:12:14.000Z",
 } as const satisfies TemperSourceCategory

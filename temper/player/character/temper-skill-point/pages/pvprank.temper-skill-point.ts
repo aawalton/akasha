@@ -9,4 +9,6 @@ export const pvprank = {
   displayOrder: 4,
   category: "general",
   maxValue: 50,
+  createdAt: "2026-05-26T13:19:53.110Z",
+  updatedAt: "2026-09-27T02:16:19.000Z",
 } as const satisfies TemperSkillPoint

@@ -19,5 +19,6 @@ export const craftingWrits = {
   progressCurrent: 133,
   character: "temper-account-character/maviola-el",
   effectiveCharacter: "temper-account-character/maviola-el",
-  updatedAt: "2026-10-08T16:09:11.525Z",
+  updatedAt: "2026-10-08T16:09:27.977Z",
+  createdAt: "2026-04-22T12:39:34.017Z",
 } as const satisfies TemperTask

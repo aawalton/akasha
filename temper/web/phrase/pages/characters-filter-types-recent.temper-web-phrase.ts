@@ -5,4 +5,6 @@ export const charactersFilterTypesRecent = {
   type: "page-type/temper-web-phrase",
   slug: "characters-filter-types-recent",
   title: "Recent",
+  createdAt: "2026-09-27T11:34:28.075Z",
+  updatedAt: "2026-09-27T11:34:37.000Z",
 } as const satisfies TemperWebPhrase

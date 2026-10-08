@@ -13,4 +13,6 @@ export const frost = {
   displayOrder: 8,
   hashPlace: 8,
   esoEnchantSearchCategory: 9,
+  createdAt: "2026-05-24T22:14:32.951Z",
+  updatedAt: "2026-09-27T04:03:27.000Z",
 } as const satisfies TemperWeaponEnchant

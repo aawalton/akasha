@@ -9,4 +9,6 @@ export const foliumdiscognitum = {
   displayOrder: 3,
   category: "general",
   maxValue: 2,
+  createdAt: "2026-05-26T13:19:53.109Z",
+  updatedAt: "2026-09-27T02:16:19.000Z",
 } as const satisfies TemperSkillPoint

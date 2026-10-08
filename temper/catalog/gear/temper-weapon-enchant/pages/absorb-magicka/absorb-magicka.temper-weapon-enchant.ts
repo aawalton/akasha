@@ -13,4 +13,6 @@ export const absorbMagicka = {
   displayOrder: 3,
   hashPlace: 3,
   esoEnchantSearchCategory: 23,
+  createdAt: "2026-05-24T22:14:32.942Z",
+  updatedAt: "2026-09-27T04:03:27.000Z",
 } as const satisfies TemperWeaponEnchant

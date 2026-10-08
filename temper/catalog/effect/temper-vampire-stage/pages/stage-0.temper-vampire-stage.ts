@@ -10,4 +10,6 @@ export const stage0 = {
   displayOrder: 0,
   esoVampireStageId: 0,
   hashPlace: 0,
+  createdAt: "2026-05-13T15:28:22.183Z",
+  updatedAt: "2026-09-26T20:42:18.000Z",
 } as const satisfies TemperVampireStage

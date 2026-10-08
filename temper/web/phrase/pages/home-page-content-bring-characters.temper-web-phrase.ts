@@ -5,4 +5,6 @@ export const homePageContentBringCharacters = {
   type: "page-type/temper-web-phrase",
   slug: "home-page-content-bring-characters",
   title: "Bring your ESO characters in",
+  createdAt: "2026-09-27T11:32:12.972Z",
+  updatedAt: "2026-09-27T11:32:24.000Z",
 } as const satisfies TemperWebPhrase

@@ -19,4 +19,6 @@ export const skillMorphs = {
   progress: "jsonl",
   progressTotal: 24480,
   progressCurrent: 24079,
+  createdAt: "2026-04-22T12:39:34.017Z",
+  updatedAt: "2026-10-03T14:45:47.000Z",
 } as const satisfies TemperTask

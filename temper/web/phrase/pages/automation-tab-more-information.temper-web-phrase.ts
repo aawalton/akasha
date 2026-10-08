@@ -5,4 +5,6 @@ export const automationTabMoreInformation = {
   type: "page-type/temper-web-phrase",
   slug: "automation-tab-more-information",
   title: "More information",
+  createdAt: "2026-09-27T11:42:12.167Z",
+  updatedAt: "2026-09-27T11:42:22.000Z",
 } as const satisfies TemperWebPhrase

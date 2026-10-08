@@ -6,4 +6,6 @@ export const concussed = {
   slug: "concussed",
   title: "Concussed",
   key: "concussed",
+  createdAt: "2026-05-24T14:08:48.935Z",
+  updatedAt: "2026-09-21T15:25:48.000Z",
 } as const satisfies TemperStatusEffectType

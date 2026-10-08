@@ -5,4 +5,6 @@ export const importPageContentCompleteWithWarnings = {
   type: "page-type/temper-web-phrase",
   slug: "import-page-content-complete-with-warnings",
   title: "Import complete — with warnings",
+  createdAt: "2026-09-27T11:37:31.383Z",
+  updatedAt: "2026-09-27T11:37:40.000Z",
 } as const satisfies TemperWebPhrase

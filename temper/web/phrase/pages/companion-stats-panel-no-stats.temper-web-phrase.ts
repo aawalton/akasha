@@ -7,4 +7,6 @@ export const companionStatsPanelNoStats = {
   title: "No stats returned",
   description:
     "The stat calculation finished and returned nothing — not even the base stats every companion starts with. No build setting can cause that, so it points at Temper's stat data rather than at your companion.",
+  createdAt: "2026-09-27T11:57:00.721Z",
+  updatedAt: "2026-09-27T11:57:08.000Z",
 } as const satisfies TemperWebPhrase

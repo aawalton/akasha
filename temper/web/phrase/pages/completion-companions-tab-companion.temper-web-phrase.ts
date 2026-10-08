@@ -5,4 +5,6 @@ export const completionCompanionsTabCompanion = {
   type: "page-type/temper-web-phrase",
   slug: "completion-companions-tab-companion",
   title: "Companion",
+  createdAt: "2026-09-27T12:07:04.373Z",
+  updatedAt: "2026-09-27T12:07:12.000Z",
 } as const satisfies TemperWebPhrase

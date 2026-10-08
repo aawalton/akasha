@@ -16,4 +16,6 @@ export const vateshranHollowsWeeklyLeaderboard = {
   priority: "p3",
   effectiveCharacter: "temper-account-character/erin-solstice",
   lastCompletedAt: "2026-10-08T14:32:34.017Z",
+  createdAt: "2026-04-22T12:39:34.017Z",
+  updatedAt: "2026-10-08T14:32:35.000Z",
 } as const satisfies TemperTask

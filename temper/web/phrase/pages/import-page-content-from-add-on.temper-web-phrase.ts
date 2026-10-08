@@ -5,4 +5,6 @@ export const importPageContentFromAddOn = {
   type: "page-type/temper-web-phrase",
   slug: "import-page-content-from-add-on",
   title: "This file comes from a Temper ESO add-on.",
+  createdAt: "2026-09-27T11:37:31.383Z",
+  updatedAt: "2026-09-27T11:37:40.000Z",
 } as const satisfies TemperWebPhrase

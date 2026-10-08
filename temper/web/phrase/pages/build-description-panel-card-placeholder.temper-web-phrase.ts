@@ -5,4 +5,6 @@ export const buildDescriptionPanelCardPlaceholder = {
   type: "page-type/temper-web-phrase",
   slug: "build-description-panel-card-placeholder",
   title: "Notes about this build, playstyle, rotation tips...",
+  createdAt: "2026-09-27T11:46:00.483Z",
+  updatedAt: "2026-09-27T11:46:08.000Z",
 } as const satisfies TemperWebPhrase

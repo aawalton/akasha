@@ -6,4 +6,6 @@ export const recipeProvisioningStandardDrink = {
   slug: "recipe-provisioning-standard-drink",
   title: "Drink Recipe",
   esoSpecializedItemTypeNumber: 171,
+  createdAt: "2026-09-27T04:08:02.585Z",
+  updatedAt: "2026-09-27T04:08:05.000Z",
 } as const satisfies TemperSpecializedItemType

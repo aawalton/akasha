@@ -9,4 +9,6 @@ export const phynastersGemOfStealth = {
   socketedInto: "temper-set/prowlers-talisman",
   gemSource:
     "The reward for the Thieves Guild quest Racing Into Nowhere, which follows The Codex Caper and The Nowhere Keys. Skeever Nivo starts it by sending you to Quen in the Thieves Den of the Daggerfall Outlaws Refuge in Glenumbra.",
+  createdAt: "2026-09-25T17:04:43.424Z",
+  updatedAt: "2026-09-25T17:04:48.000Z",
 } as const satisfies TemperTalismanGem

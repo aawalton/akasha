@@ -5,4 +5,6 @@ export const companionListPanelCardToughness = {
   type: "page-type/temper-web-phrase",
   slug: "companion-list-panel-card-toughness",
   title: "Toughness",
+  createdAt: "2026-09-27T11:40:43.799Z",
+  updatedAt: "2026-09-27T11:40:52.000Z",
 } as const satisfies TemperWebPhrase

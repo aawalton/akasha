@@ -17,4 +17,6 @@ export const hirelingMails = {
   priority: "p3",
   effectiveCharacter: "temper-account-character/erin-solstice",
   lastCompletedAt: "2026-09-27T14:41:10.000Z",
+  createdAt: "2026-04-22T12:39:34.017Z",
+  updatedAt: "2026-10-03T14:45:47.000Z",
 } as const satisfies TemperTask

@@ -5,4 +5,6 @@ export const constraintBadgesStatus = {
   type: "page-type/temper-web-phrase",
   slug: "constraint-badges-status",
   title: "Status",
+  createdAt: "2026-09-27T11:32:47.535Z",
+  updatedAt: "2026-09-27T11:32:59.000Z",
 } as const satisfies TemperWebPhrase

@@ -6,4 +6,6 @@ export const lowestHealthAlly = {
   slug: "lowest-health-ally",
   title: "Lowest Health Ally",
   key: "lowest-health-ally",
+  createdAt: "2026-05-25T04:18:15.278Z",
+  updatedAt: "2026-09-21T15:25:48.000Z",
 } as const satisfies TemperTargetType

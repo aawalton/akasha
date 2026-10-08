@@ -12,4 +12,6 @@ export const wardenAnimalCompanions = {
   category: "temper-skill-line-category/character-class",
   class: "temper-class/warden",
   hashPlace: 1,
+  createdAt: "2026-05-26T01:18:50.293Z",
+  updatedAt: "2026-09-26T15:39:49.000Z",
 } as const satisfies TemperSkillLine

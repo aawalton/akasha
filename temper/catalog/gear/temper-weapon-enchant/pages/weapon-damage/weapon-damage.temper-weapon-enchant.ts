@@ -14,4 +14,6 @@ export const weaponDamage = {
   effects: "jsonl",
   hashPlace: 1,
   esoEnchantSearchCategory: 2,
+  createdAt: "2026-05-24T22:14:32.935Z",
+  updatedAt: "2026-09-27T04:03:27.000Z",
 } as const satisfies TemperWeaponEnchant

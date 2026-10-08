@@ -11,4 +11,6 @@ export const noSkillLine = {
   maxRank: 0,
   category: "temper-skill-line-category/none",
   hashPlace: 0,
+  createdAt: "2026-05-26T01:18:50.271Z",
+  updatedAt: "2026-09-26T15:39:49.000Z",
 } as const satisfies TemperSkillLine

@@ -11,4 +11,6 @@ export const vengeanceArmor = {
   maxRank: 0,
   category: "temper-skill-line-category/alliance-war",
   hashPlace: 138,
+  createdAt: "2026-05-28T16:03:25.515Z",
+  updatedAt: "2026-09-26T15:39:49.000Z",
 } as const satisfies TemperSkillLine

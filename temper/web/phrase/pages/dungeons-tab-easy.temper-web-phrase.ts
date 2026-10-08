@@ -5,4 +5,6 @@ export const dungeonsTabEasy = {
   type: "page-type/temper-web-phrase",
   slug: "dungeons-tab-easy",
   title: "easy",
+  createdAt: "2026-09-27T11:35:02.072Z",
+  updatedAt: "2026-09-27T11:35:11.000Z",
 } as const satisfies TemperWebPhrase

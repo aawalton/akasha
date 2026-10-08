@@ -5,4 +5,6 @@ export const characterEntityPanelCardUnknownCharacter = {
   type: "page-type/temper-web-phrase",
   slug: "character-entity-panel-card-unknown-character",
   title: "Unknown Character",
+  createdAt: "2026-09-27T11:41:31.494Z",
+  updatedAt: "2026-09-27T11:41:38.000Z",
 } as const satisfies TemperWebPhrase

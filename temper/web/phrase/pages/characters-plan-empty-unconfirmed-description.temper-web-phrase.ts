@@ -6,4 +6,6 @@ export const charactersPlanEmptyUnconfirmedDescription = {
   slug: "characters-plan-empty-unconfirmed-description",
   title:
     "Temper has not finished loading this account's characters, so this tab is not showing a final answer yet. Reload if it does not settle shortly.",
+  createdAt: "2026-09-27T11:36:22.894Z",
+  updatedAt: "2026-09-27T11:36:30.000Z",
 } as const satisfies TemperWebPhrase

@@ -6,4 +6,6 @@ export const dodgeNextAttack = {
   slug: "dodge-next-attack",
   title: "Dodge Next Attack",
   key: "dodge-next-attack",
+  createdAt: "2026-05-21T23:12:27.705Z",
+  updatedAt: "2026-09-21T15:25:48.000Z",
 } as const satisfies TemperSpecialEffectType

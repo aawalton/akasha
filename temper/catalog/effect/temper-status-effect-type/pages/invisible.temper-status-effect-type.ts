@@ -6,4 +6,6 @@ export const invisible = {
   slug: "invisible",
   title: "Invisible",
   key: "invisible",
+  createdAt: "2026-05-24T14:08:48.937Z",
+  updatedAt: "2026-09-21T15:25:48.000Z",
 } as const satisfies TemperStatusEffectType

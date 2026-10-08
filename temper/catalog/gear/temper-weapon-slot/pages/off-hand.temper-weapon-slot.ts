@@ -10,4 +10,6 @@ export const offHand = {
   displayOrder: 1,
 
   slotEquipType: "temper-equip-type/off-hand",
+  createdAt: "2026-05-21T22:32:11.264Z",
+  updatedAt: "2026-09-27T04:24:42.000Z",
 } as const satisfies TemperWeaponSlot

@@ -5,4 +5,6 @@ export const buildsBrowseTabNoBuildsFound = {
   type: "page-type/temper-web-phrase",
   slug: "builds-browse-tab-no-builds-found",
   title: "No builds found",
+  createdAt: "2026-09-27T11:47:19.068Z",
+  updatedAt: "2026-09-27T11:47:27.000Z",
 } as const satisfies TemperWebPhrase

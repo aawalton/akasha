@@ -5,4 +5,6 @@ export const companionOverallLeaderboardPanelCardFirstDescription = {
   type: "page-type/temper-web-phrase",
   slug: "companion-overall-leaderboard-panel-card-first-description",
   title: "Roles where this companion ranks #1",
+  createdAt: "2026-09-27T11:48:00.686Z",
+  updatedAt: "2026-09-27T11:48:08.000Z",
 } as const satisfies TemperWebPhrase

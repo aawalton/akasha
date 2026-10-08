@@ -5,4 +5,6 @@ export const effectCardPassive = {
   type: "page-type/temper-web-phrase",
   slug: "effect-card-passive",
   title: "passive",
+  createdAt: "2026-09-27T11:37:54.909Z",
+  updatedAt: "2026-09-27T11:38:03.000Z",
 } as const satisfies TemperWebPhrase

@@ -5,4 +5,6 @@ export const accountFiltersStatus = {
   type: "page-type/temper-web-phrase",
   slug: "account-filters-status",
   title: "Status",
+  createdAt: "2026-09-27T11:51:39.521Z",
+  updatedAt: "2026-09-27T11:51:46.000Z",
 } as const satisfies TemperWebPhrase

@@ -5,4 +5,6 @@ export const charactersPlanEmptyCheckSyncStatus = {
   type: "page-type/temper-web-phrase",
   slug: "characters-plan-empty-check-sync-status",
   title: "Check sync status",
+  createdAt: "2026-09-27T11:36:22.894Z",
+  updatedAt: "2026-09-27T11:36:30.000Z",
 } as const satisfies TemperWebPhrase

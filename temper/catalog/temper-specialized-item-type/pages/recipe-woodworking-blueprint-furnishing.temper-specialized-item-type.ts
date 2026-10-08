@@ -6,4 +6,6 @@ export const recipeWoodworkingBlueprintFurnishing = {
   slug: "recipe-woodworking-blueprint-furnishing",
   title: "Woodworking Blueprint (Furnishing)",
   esoSpecializedItemTypeNumber: 177,
+  createdAt: "2026-09-27T04:08:02.585Z",
+  updatedAt: "2026-09-27T04:08:05.000Z",
 } as const satisfies TemperSpecializedItemType

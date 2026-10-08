@@ -5,4 +5,6 @@ export const companionManagementPanelCardDeleteTitle = {
   type: "page-type/temper-web-phrase",
   slug: "companion-management-panel-card-delete-title",
   title: "Delete Build?",
+  createdAt: "2026-09-27T11:43:16.325Z",
+  updatedAt: "2026-09-27T11:43:25.000Z",
 } as const satisfies TemperWebPhrase

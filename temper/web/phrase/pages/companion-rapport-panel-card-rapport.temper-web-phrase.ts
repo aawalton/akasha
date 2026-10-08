@@ -5,4 +5,6 @@ export const companionRapportPanelCardRapport = {
   type: "page-type/temper-web-phrase",
   slug: "companion-rapport-panel-card-rapport",
   title: "Rapport",
+  createdAt: "2026-09-27T11:50:21.446Z",
+  updatedAt: "2026-09-27T11:50:28.000Z",
 } as const satisfies TemperWebPhrase

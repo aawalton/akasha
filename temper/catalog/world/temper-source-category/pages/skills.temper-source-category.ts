@@ -7,4 +7,6 @@ export const skills = {
   title: "Skills",
   displayOrder: 12,
   key: "skills",
+  createdAt: "2026-05-16T13:40:58.507Z",
+  updatedAt: "2026-09-22T21:45:16.000Z",
 } as const satisfies TemperSourceCategory

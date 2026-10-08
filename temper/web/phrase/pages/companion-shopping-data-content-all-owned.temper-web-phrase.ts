@@ -7,4 +7,6 @@ export const companionShoppingDataContentAllOwned = {
   title: "All companion gear accounted for",
   description:
     "Every piece in your target builds has a matching item somewhere in your inventory. The match does not check whether that item is already equipped or otherwise tied up, so a piece may still be worth buying.",
+  createdAt: "2026-09-27T11:44:14.498Z",
+  updatedAt: "2026-09-27T11:44:23.000Z",
 } as const satisfies TemperWebPhrase

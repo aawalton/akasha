@@ -6,4 +6,6 @@ export const cleanse = {
   slug: "cleanse",
   title: "Cleanse",
   key: "cleanse",
+  createdAt: "2026-05-21T23:12:27.713Z",
+  updatedAt: "2026-09-21T15:25:48.000Z",
 } as const satisfies TemperSpecialEffectType

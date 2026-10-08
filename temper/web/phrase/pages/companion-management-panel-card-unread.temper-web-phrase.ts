@@ -5,4 +5,6 @@ export const companionManagementPanelCardUnread = {
   type: "page-type/temper-web-phrase",
   slug: "companion-management-panel-card-unread",
   title: "The build has not loaded yet",
+  createdAt: "2026-09-27T11:52:48.416Z",
+  updatedAt: "2026-09-27T11:52:56.000Z",
 } as const satisfies TemperWebPhrase

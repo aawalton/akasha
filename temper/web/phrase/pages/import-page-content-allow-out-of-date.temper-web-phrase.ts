@@ -5,4 +5,6 @@ export const importPageContentAllowOutOfDate = {
   type: "page-type/temper-web-phrase",
   slug: "import-page-content-allow-out-of-date",
   title: "Allow out of date AddOns",
+  createdAt: "2026-09-27T11:37:31.383Z",
+  updatedAt: "2026-09-27T11:37:40.000Z",
 } as const satisfies TemperWebPhrase

@@ -5,4 +5,6 @@ export const companionsFilterTypesTargetCount = {
   type: "page-type/temper-web-phrase",
   slug: "companions-filter-types-target-count",
   title: "Target Count",
+  createdAt: "2026-09-27T11:59:36.116Z",
+  updatedAt: "2026-09-27T11:59:43.000Z",
 } as const satisfies TemperWebPhrase

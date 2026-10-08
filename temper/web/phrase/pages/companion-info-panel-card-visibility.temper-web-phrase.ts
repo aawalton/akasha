@@ -5,4 +5,6 @@ export const companionInfoPanelCardVisibility = {
   type: "page-type/temper-web-phrase",
   slug: "companion-info-panel-card-visibility",
   title: "Visibility",
+  createdAt: "2026-09-27T11:35:54.032Z",
+  updatedAt: "2026-09-27T11:36:01.000Z",
 } as const satisfies TemperWebPhrase

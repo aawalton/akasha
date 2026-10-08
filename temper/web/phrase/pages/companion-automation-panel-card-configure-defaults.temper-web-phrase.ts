@@ -5,4 +5,6 @@ export const companionAutomationPanelCardConfigureDefaults = {
   type: "page-type/temper-web-phrase",
   slug: "companion-automation-panel-card-configure-defaults",
   title: "Configure Defaults",
+  createdAt: "2026-09-27T11:41:13.817Z",
+  updatedAt: "2026-09-27T11:41:21.000Z",
 } as const satisfies TemperWebPhrase

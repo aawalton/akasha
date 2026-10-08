@@ -5,4 +5,6 @@ export const charactersPageContentCharacterBuilds = {
   type: "page-type/temper-web-phrase",
   slug: "characters-page-content-character-builds",
   title: "Character Builds",
+  createdAt: "2026-09-27T11:35:29.438Z",
+  updatedAt: "2026-09-27T11:35:37.000Z",
 } as const satisfies TemperWebPhrase

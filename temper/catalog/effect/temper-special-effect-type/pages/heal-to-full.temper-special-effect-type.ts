@@ -6,4 +6,6 @@ export const healToFull = {
   slug: "heal-to-full",
   title: "Full Heal",
   key: "heal-to-full",
+  createdAt: "2026-05-21T23:12:27.700Z",
+  updatedAt: "2026-09-21T15:25:48.000Z",
 } as const satisfies TemperSpecialEffectType

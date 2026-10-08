@@ -5,4 +5,6 @@ export const characterEditorContentRemixFailed = {
   type: "page-type/temper-web-phrase",
   slug: "character-editor-content-remix-failed",
   title: "Failed to remix build",
+  createdAt: "2026-09-27T11:40:31.664Z",
+  updatedAt: "2026-09-27T11:40:40.000Z",
 } as const satisfies TemperWebPhrase

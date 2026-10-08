@@ -5,4 +5,6 @@ export const charactersDataContentLeaderboardsComing = {
   type: "page-type/temper-web-phrase",
   slug: "characters-data-content-leaderboards-coming",
   title: "Character build leaderboards are coming in a future update.",
+  createdAt: "2026-09-27T11:34:28.074Z",
+  updatedAt: "2026-09-27T11:34:37.000Z",
 } as const satisfies TemperWebPhrase

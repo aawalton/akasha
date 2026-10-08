@@ -15,4 +15,6 @@ export const goldenPursuitsStraightToTheCrate = {
   priority: "p1",
   lastCompletedAt: "2026-09-07T02:16:06.577Z",
   completedAt: "2026-09-07T02:16:06.577Z",
+  createdAt: "2026-08-02T13:28:55.711Z",
+  updatedAt: "2026-09-24T16:26:32.000Z",
 } as const satisfies TemperTask

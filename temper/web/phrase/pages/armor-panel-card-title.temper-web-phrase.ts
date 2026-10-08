@@ -5,4 +5,6 @@ export const armorPanelCardTitle = {
   type: "page-type/temper-web-phrase",
   slug: "armor-panel-card-title",
   title: "Armor",
+  createdAt: "2026-09-27T11:27:22.809Z",
+  updatedAt: "2026-09-27T11:30:25.000Z",
 } as const satisfies TemperWebPhrase

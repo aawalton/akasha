@@ -7,4 +7,6 @@ export const foodOrDrink = {
   title: "Food / Drink",
   displayOrder: 7,
   key: "food-or-drink",
+  createdAt: "2026-05-16T13:40:58.501Z",
+  updatedAt: "2026-09-26T19:28:44.000Z",
 } as const satisfies TemperSourceCategory

@@ -7,4 +7,6 @@ export const importPageContentInstalling = {
   title: "Installing the add-ons",
   description:
     "{download} and extract the zip into {addOnsFolder} — or {oneDriveAddOnsFolder}, if your Documents folder syncs to OneDrive. Add Tamriel Trade Centre alongside them, as below. Then turn everything on at {addOnsMenu}, ticking {allowOutOfDate} if ours are listed as out of date, and log in to a character once. An add-on that is installed but not enabled writes nothing.",
+  createdAt: "2026-09-27T11:37:31.384Z",
+  updatedAt: "2026-09-27T11:37:40.000Z",
 } as const satisfies TemperWebPhrase

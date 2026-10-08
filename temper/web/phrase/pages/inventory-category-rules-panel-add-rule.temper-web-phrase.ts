@@ -5,4 +5,6 @@ export const inventoryCategoryRulesPanelAddRule = {
   type: "page-type/temper-web-phrase",
   slug: "inventory-category-rules-panel-add-rule",
   title: "Add Rule",
+  createdAt: "2026-09-27T11:32:23.874Z",
+  updatedAt: "2026-09-27T11:32:34.000Z",
 } as const satisfies TemperWebPhrase

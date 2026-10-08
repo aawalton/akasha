@@ -6,4 +6,6 @@ export const automationTabLockWornGearInfo = {
   slug: "automation-tab-lock-worn-gear-info",
   title:
     "Automatically Temper-Lock equipped gear so it can't be sold or deconstructed. On by default.",
+  createdAt: "2026-09-27T11:42:12.167Z",
+  updatedAt: "2026-09-27T11:42:22.000Z",
 } as const satisfies TemperWebPhrase

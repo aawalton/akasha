@@ -11,4 +11,6 @@ export const companionSharpVerdantGrowth = {
   maxRank: 20,
   category: "temper-skill-line-category/companion",
   hashPlace: 93,
+  createdAt: "2026-05-26T01:18:50.383Z",
+  updatedAt: "2026-09-26T15:39:49.000Z",
 } as const satisfies TemperSkillLine

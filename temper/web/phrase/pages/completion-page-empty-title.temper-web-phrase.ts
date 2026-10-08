@@ -5,4 +5,6 @@ export const completionPageEmptyTitle = {
   type: "page-type/temper-web-phrase",
   slug: "completion-page-empty-title",
   title: "Completion",
+  createdAt: "2026-09-27T11:26:17.925Z",
+  updatedAt: "2026-09-27T11:30:33.000Z",
 } as const satisfies TemperWebPhrase

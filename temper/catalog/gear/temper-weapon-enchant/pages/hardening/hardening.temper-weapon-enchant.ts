@@ -13,4 +13,6 @@ export const hardening = {
   displayOrder: 12,
   hashPlace: 12,
   esoEnchantSearchCategory: 10,
+  createdAt: "2026-05-24T22:14:32.956Z",
+  updatedAt: "2026-09-27T04:03:27.000Z",
 } as const satisfies TemperWeaponEnchant

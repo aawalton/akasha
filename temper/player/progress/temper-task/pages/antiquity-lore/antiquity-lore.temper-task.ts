@@ -20,4 +20,6 @@ export const antiquityLore = {
   progress: "jsonl",
   progressCurrent: 0,
   progressTotal: 1765,
+  createdAt: "2026-04-22T12:39:34.017Z",
+  updatedAt: "2026-10-08T13:47:52.000Z",
 } as const satisfies TemperTask

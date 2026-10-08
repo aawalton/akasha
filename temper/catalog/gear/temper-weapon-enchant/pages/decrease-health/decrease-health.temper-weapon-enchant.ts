@@ -13,4 +13,6 @@ export const decreaseHealth = {
   displayOrder: 6,
   hashPlace: 6,
   esoEnchantSearchCategory: 24,
+  createdAt: "2026-05-24T22:14:32.948Z",
+  updatedAt: "2026-09-27T04:03:27.000Z",
 } as const satisfies TemperWeaponEnchant

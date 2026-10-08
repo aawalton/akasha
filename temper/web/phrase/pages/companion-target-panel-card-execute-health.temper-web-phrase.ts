@@ -5,4 +5,6 @@ export const companionTargetPanelCardExecuteHealth = {
   type: "page-type/temper-web-phrase",
   slug: "companion-target-panel-card-execute-health",
   title: "Execute (25%)",
+  createdAt: "2026-09-27T11:51:43.537Z",
+  updatedAt: "2026-09-27T11:51:50.000Z",
 } as const satisfies TemperWebPhrase

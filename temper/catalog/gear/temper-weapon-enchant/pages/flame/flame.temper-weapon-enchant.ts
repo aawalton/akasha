@@ -13,4 +13,6 @@ export const flame = {
   displayOrder: 7,
   hashPlace: 7,
   esoEnchantSearchCategory: 6,
+  createdAt: "2026-05-24T22:14:32.950Z",
+  updatedAt: "2026-09-27T04:03:27.000Z",
 } as const satisfies TemperWeaponEnchant

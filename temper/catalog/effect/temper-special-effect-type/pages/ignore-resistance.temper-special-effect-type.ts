@@ -6,4 +6,6 @@ export const ignoreResistance = {
   slug: "ignore-resistance",
   title: "Ignore Resistance",
   key: "ignore-resistance",
+  createdAt: "2026-05-21T23:12:27.709Z",
+  updatedAt: "2026-09-21T15:25:48.000Z",
 } as const satisfies TemperSpecialEffectType

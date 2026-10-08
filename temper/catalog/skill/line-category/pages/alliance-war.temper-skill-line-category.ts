@@ -7,4 +7,6 @@ export const allianceWar = {
   title: "Alliance War",
   key: "alliance-war",
   displayOrder: 43,
+  createdAt: "2026-05-16T07:54:10.552Z",
+  updatedAt: "2026-09-21T15:29:38.000Z",
 } as const satisfies TemperSkillLineCategory

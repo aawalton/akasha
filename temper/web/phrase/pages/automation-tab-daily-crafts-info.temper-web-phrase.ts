@@ -5,4 +5,6 @@ export const automationTabDailyCraftsInfo = {
   type: "page-type/temper-web-phrase",
   slug: "automation-tab-daily-crafts-info",
   title: "Select which crafting professions to include in daily writ automation.",
+  createdAt: "2026-09-27T11:42:12.167Z",
+  updatedAt: "2026-09-27T11:42:22.000Z",
 } as const satisfies TemperWebPhrase

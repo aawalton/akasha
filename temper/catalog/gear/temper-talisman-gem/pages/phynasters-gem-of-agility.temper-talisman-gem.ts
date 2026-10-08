@@ -9,4 +9,6 @@ export const phynastersGemOfAgility = {
   socketedInto: "temper-set/prowlers-talisman",
   gemSource:
     "A drop from the final chest of a Dynamic Encounter. From Update 51 that chest always drops it for a player who has the Folk Hero achievement, owns the talisman and has not yet got the gem.",
+  createdAt: "2026-09-25T17:04:43.422Z",
+  updatedAt: "2026-09-25T17:04:48.000Z",
 } as const satisfies TemperTalismanGem

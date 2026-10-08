@@ -5,4 +5,6 @@ export const companionSkillCardCost = {
   type: "page-type/temper-web-phrase",
   slug: "companion-skill-card-cost",
   title: "{amount} {resource}",
+  createdAt: "2026-09-27T12:22:11.450Z",
+  updatedAt: "2026-09-27T12:22:18.000Z",
 } as const satisfies TemperWebPhrase

@@ -5,4 +5,6 @@ export const consumablesPanelCardFoodDrink = {
   type: "page-type/temper-web-phrase",
   slug: "consumables-panel-card-food-drink",
   title: "Food / Drink",
+  createdAt: "2026-09-27T11:34:23.505Z",
+  updatedAt: "2026-09-27T11:34:33.000Z",
 } as const satisfies TemperWebPhrase

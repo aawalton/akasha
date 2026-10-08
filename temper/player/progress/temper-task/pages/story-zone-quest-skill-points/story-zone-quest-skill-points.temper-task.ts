@@ -20,4 +20,6 @@ export const storyZoneQuestSkillPoints = {
   progress: "jsonl",
   progressTotal: 3280,
   progressCurrent: 1418,
+  createdAt: "2026-09-21T22:44:17.814Z",
+  updatedAt: "2026-10-03T14:45:47.000Z",
 } as const satisfies TemperTask

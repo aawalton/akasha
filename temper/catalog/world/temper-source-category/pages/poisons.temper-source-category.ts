@@ -7,4 +7,6 @@ export const poisons = {
   title: "Poisons",
   displayOrder: 9,
   key: "poisons",
+  createdAt: "2026-05-16T13:40:58.503Z",
+  updatedAt: "2026-09-22T21:45:16.000Z",
 } as const satisfies TemperSourceCategory

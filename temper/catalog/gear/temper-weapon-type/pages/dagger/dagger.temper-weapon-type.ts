@@ -15,4 +15,6 @@ export const dagger = {
   esoWeaponTypeNumber: 11,
   levelSlope: 14,
   levelIntercept: 313,
+  createdAt: "2026-05-20T18:46:49.740Z",
+  updatedAt: "2026-09-27T04:15:45.000Z",
 } as const satisfies TemperWeaponType

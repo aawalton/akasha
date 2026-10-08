@@ -5,4 +5,6 @@ export const charactersFilterBarClass = {
   type: "page-type/temper-web-phrase",
   slug: "characters-filter-bar-class",
   title: "Class",
+  createdAt: "2026-09-27T11:34:28.074Z",
+  updatedAt: "2026-09-27T11:34:37.000Z",
 } as const satisfies TemperWebPhrase

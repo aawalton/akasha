@@ -14,4 +14,6 @@ export const weeklyChallenges = {
   scope: "character",
   priority: "p3",
   lastCompletedAt: "2026-09-22T13:34:22.260Z",
+  createdAt: "2026-07-24T12:36:25.701Z",
+  updatedAt: "2026-10-03T14:45:47.000Z",
 } as const satisfies TemperTask

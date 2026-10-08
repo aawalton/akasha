@@ -5,4 +5,6 @@ export const importSummariesCharacters = {
   type: "page-type/temper-web-phrase",
   slug: "import-summaries-characters",
   title: "{count} characters",
+  createdAt: "2026-09-27T11:34:17.144Z",
+  updatedAt: "2026-09-27T11:34:27.000Z",
 } as const satisfies TemperWebPhrase

@@ -5,4 +5,6 @@ export const charactersPlanEmptyNoCharactersTitle = {
   type: "page-type/temper-web-phrase",
   slug: "characters-plan-empty-no-characters-title",
   title: "No characters yet",
+  createdAt: "2026-09-27T11:36:22.894Z",
+  updatedAt: "2026-09-27T11:36:30.000Z",
 } as const satisfies TemperWebPhrase

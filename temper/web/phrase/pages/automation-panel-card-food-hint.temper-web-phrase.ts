@@ -5,4 +5,6 @@ export const automationPanelCardFoodHint = {
   type: "page-type/temper-web-phrase",
   slug: "automation-panel-card-food-hint",
   title: "Automatically stock food and drink for this build.",
+  createdAt: "2026-09-27T11:33:25.105Z",
+  updatedAt: "2026-09-27T11:33:36.000Z",
 } as const satisfies TemperWebPhrase

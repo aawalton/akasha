@@ -20,4 +20,6 @@ export const lorebooks = {
   progress: "jsonl",
   progressTotal: 4220,
   progressCurrent: 576,
+  createdAt: "2026-05-13T16:05:23.520Z",
+  updatedAt: "2026-10-08T14:32:48.000Z",
 } as const satisfies TemperTask

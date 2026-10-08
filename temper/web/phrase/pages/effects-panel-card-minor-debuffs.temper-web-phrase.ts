@@ -5,4 +5,6 @@ export const effectsPanelCardMinorDebuffs = {
   type: "page-type/temper-web-phrase",
   slug: "effects-panel-card-minor-debuffs",
   title: "Minor Debuffs",
+  createdAt: "2026-09-27T11:30:29.139Z",
+  updatedAt: "2026-09-27T11:30:37.000Z",
 } as const satisfies TemperWebPhrase

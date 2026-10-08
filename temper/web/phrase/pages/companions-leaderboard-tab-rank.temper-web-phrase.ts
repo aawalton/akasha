@@ -5,4 +5,6 @@ export const companionsLeaderboardTabRank = {
   type: "page-type/temper-web-phrase",
   slug: "companions-leaderboard-tab-rank",
   title: "Rank",
+  createdAt: "2026-09-27T11:59:36.117Z",
+  updatedAt: "2026-09-27T11:59:43.000Z",
 } as const satisfies TemperWebPhrase

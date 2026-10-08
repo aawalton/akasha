@@ -7,4 +7,6 @@ export const backpack = {
   title: "Backpack",
   key: "backpack",
   displayOrder: 10,
+  createdAt: "2026-09-27T03:07:01.935Z",
+  updatedAt: "2026-09-27T03:09:56.000Z",
 } as const satisfies TemperVenue

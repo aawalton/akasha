@@ -11,4 +11,6 @@ export const craftWoodworking = {
   maxRank: 50,
   category: "temper-skill-line-category/craft",
   hashPlace: 62,
+  createdAt: "2026-05-26T01:18:50.344Z",
+  updatedAt: "2026-09-26T15:39:49.000Z",
 } as const satisfies TemperSkillLine

@@ -5,4 +5,6 @@ export const effectBadgeDamageTaken = {
   type: "page-type/temper-web-phrase",
   slug: "effect-badge-damage-taken",
   title: "Damage Taken",
+  createdAt: "2026-09-27T11:40:33.121Z",
+  updatedAt: "2026-09-27T11:40:41.000Z",
 } as const satisfies TemperWebPhrase

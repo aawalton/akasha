@@ -5,4 +5,6 @@ export const catalogDocumentTitle = {
   type: "page-type/temper-web-phrase",
   slug: "catalog-document-title",
   title: "Temper | Catalog",
+  createdAt: "2026-09-27T11:32:44.156Z",
+  updatedAt: "2026-09-27T11:32:53.000Z",
 } as const satisfies TemperWebPhrase

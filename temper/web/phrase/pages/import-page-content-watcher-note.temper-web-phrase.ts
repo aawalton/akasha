@@ -6,4 +6,6 @@ export const importPageContentWatcherNote = {
   slug: "import-page-content-watcher-note",
   title:
     "Manual upload and the add-ons themselves work on any operating system. The {watcher} does this automatically, on Windows only, and is the only way your inventory reaches Temper.",
+  createdAt: "2026-09-27T11:37:31.384Z",
+  updatedAt: "2026-09-27T11:37:40.000Z",
 } as const satisfies TemperWebPhrase

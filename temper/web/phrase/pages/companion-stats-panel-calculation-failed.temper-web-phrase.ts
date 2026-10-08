@@ -7,4 +7,6 @@ export const companionStatsPanelCalculationFailed = {
   title: "Stat calculation failed",
   description:
     "Temper could not finish calculating this companion's stats, so none are shown. The failure is in Temper's calculation, not in your gear or skills — the error is in your browser console. Changing anything in the build runs the calculation again.",
+  createdAt: "2026-09-27T11:57:00.721Z",
+  updatedAt: "2026-09-27T11:57:08.000Z",
 } as const satisfies TemperWebPhrase

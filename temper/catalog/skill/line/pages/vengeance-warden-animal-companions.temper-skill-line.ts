@@ -11,4 +11,6 @@ export const vengeanceWardenAnimalCompanions = {
   maxRank: 0,
   category: "temper-skill-line-category/alliance-war",
   hashPlace: 119,
+  createdAt: "2026-05-28T16:03:25.495Z",
+  updatedAt: "2026-09-26T15:39:49.000Z",
 } as const satisfies TemperSkillLine

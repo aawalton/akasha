@@ -5,4 +5,6 @@ export const dataImportDocumentTitle = {
   type: "page-type/temper-web-phrase",
   slug: "data-import-document-title",
   title: "Temper | Import",
+  createdAt: "2026-09-27T11:32:44.156Z",
+  updatedAt: "2026-09-27T11:32:53.000Z",
 } as const satisfies TemperWebPhrase

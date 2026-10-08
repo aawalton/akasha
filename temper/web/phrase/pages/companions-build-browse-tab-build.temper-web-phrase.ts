@@ -5,4 +5,6 @@ export const companionsBuildBrowseTabBuild = {
   type: "page-type/temper-web-phrase",
   slug: "companions-build-browse-tab-build",
   title: "Build",
+  createdAt: "2026-09-27T12:03:29.476Z",
+  updatedAt: "2026-09-27T12:03:36.000Z",
 } as const satisfies TemperWebPhrase

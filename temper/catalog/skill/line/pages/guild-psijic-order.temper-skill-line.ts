@@ -11,4 +11,6 @@ export const guildPsijicOrder = {
   maxRank: 10,
   category: "temper-skill-line-category/guild",
   hashPlace: 40,
+  createdAt: "2026-05-26T01:18:50.315Z",
+  updatedAt: "2026-09-26T15:39:49.000Z",
 } as const satisfies TemperSkillLine

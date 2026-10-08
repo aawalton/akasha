@@ -6,4 +6,6 @@ export const accountTabEsoPlusDescription = {
   slug: "account-tab-eso-plus-description",
   title:
     "Whether you subscribe. When active, crafting material rules route to the craft bag instead of the bank.",
+  createdAt: "2026-09-27T11:33:23.309Z",
+  updatedAt: "2026-09-27T11:33:34.000Z",
 } as const satisfies TemperWebPhrase

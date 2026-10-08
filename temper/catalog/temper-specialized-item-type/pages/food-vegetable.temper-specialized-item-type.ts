@@ -6,4 +6,6 @@ export const foodVegetable = {
   slug: "food-vegetable",
   title: "Vegetable Dish",
   esoSpecializedItemTypeNumber: 3,
+  createdAt: "2026-09-27T04:26:38.858Z",
+  updatedAt: "2026-09-27T04:26:52.000Z",
 } as const satisfies TemperSpecializedItemType

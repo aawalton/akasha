@@ -13,4 +13,6 @@ export const poison = {
   displayOrder: 10,
   hashPlace: 10,
   esoEnchantSearchCategory: 16,
+  createdAt: "2026-05-24T22:14:32.954Z",
+  updatedAt: "2026-09-27T04:03:27.000Z",
 } as const satisfies TemperWeaponEnchant

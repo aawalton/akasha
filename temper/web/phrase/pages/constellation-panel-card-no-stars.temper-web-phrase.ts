@@ -5,4 +5,6 @@ export const constellationPanelCardNoStars = {
   type: "page-type/temper-web-phrase",
   slug: "constellation-panel-card-no-stars",
   title: "No stars slotted. Click the button below to add up to {count} stars.",
+  createdAt: "2026-09-27T11:31:01.693Z",
+  updatedAt: "2026-09-27T11:31:17.000Z",
 } as const satisfies TemperWebPhrase

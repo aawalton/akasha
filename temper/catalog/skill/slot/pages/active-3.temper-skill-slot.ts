@@ -7,4 +7,6 @@ export const active3 = {
   title: "Active 3",
   key: "active-3",
   hashPlace: 2,
+  createdAt: "2026-05-16T13:38:17.305Z",
+  updatedAt: "2026-09-27T02:46:16.000Z",
 } as const satisfies TemperSkillSlot

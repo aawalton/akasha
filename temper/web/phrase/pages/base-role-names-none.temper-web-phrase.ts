@@ -5,4 +5,6 @@ export const baseRoleNamesNone = {
   type: "page-type/temper-web-phrase",
   slug: "base-role-names-none",
   title: "No Role",
+  createdAt: "2026-09-27T12:29:57.142Z",
+  updatedAt: "2026-09-27T12:30:10.000Z",
 } as const satisfies TemperWebPhrase

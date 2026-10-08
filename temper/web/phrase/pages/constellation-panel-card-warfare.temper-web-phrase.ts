@@ -5,4 +5,6 @@ export const constellationPanelCardWarfare = {
   type: "page-type/temper-web-phrase",
   slug: "constellation-panel-card-warfare",
   title: "Warfare",
+  createdAt: "2026-09-27T11:31:01.693Z",
+  updatedAt: "2026-09-27T11:31:17.000Z",
 } as const satisfies TemperWebPhrase

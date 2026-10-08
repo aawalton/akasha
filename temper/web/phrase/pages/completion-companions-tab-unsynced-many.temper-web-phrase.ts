@@ -6,4 +6,6 @@ export const completionCompanionsTabUnsyncedMany = {
   slug: "completion-companions-tab-unsynced-many",
   title:
     "Companion levels have synced for {leveled} of {total} companions. The {unleveled} not yet synced are excluded from Companion Level, not counted as zero.",
+  createdAt: "2026-09-27T12:07:04.373Z",
+  updatedAt: "2026-09-27T12:07:12.000Z",
 } as const satisfies TemperWebPhrase

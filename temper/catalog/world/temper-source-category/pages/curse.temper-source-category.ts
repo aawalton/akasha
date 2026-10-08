@@ -7,4 +7,6 @@ export const curse = {
   title: "Curse",
   displayOrder: 17,
   key: "curse",
+  createdAt: "2026-05-16T13:40:58.513Z",
+  updatedAt: "2026-09-22T21:45:16.000Z",
 } as const satisfies TemperSourceCategory

@@ -6,4 +6,6 @@ export const recipeEnchantingSchematicFurnishing = {
   slug: "recipe-enchanting-schematic-furnishing",
   title: "Enchanting Schematic (Furnishing)",
   esoSpecializedItemTypeNumber: 174,
+  createdAt: "2026-09-27T04:08:02.584Z",
+  updatedAt: "2026-09-27T04:08:05.000Z",
 } as const satisfies TemperSpecializedItemType

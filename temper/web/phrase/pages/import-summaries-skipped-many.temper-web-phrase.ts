@@ -5,4 +5,6 @@ export const importSummariesSkippedMany = {
   type: "page-type/temper-web-phrase",
   slug: "import-summaries-skipped-many",
   title: "{things} in this file could not be read and were not imported.",
+  createdAt: "2026-09-27T11:34:17.144Z",
+  updatedAt: "2026-09-27T11:34:27.000Z",
 } as const satisfies TemperWebPhrase

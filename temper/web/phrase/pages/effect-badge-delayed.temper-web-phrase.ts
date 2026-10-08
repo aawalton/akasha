@@ -5,4 +5,6 @@ export const effectBadgeDelayed = {
   type: "page-type/temper-web-phrase",
   slug: "effect-badge-delayed",
   title: "Delayed",
+  createdAt: "2026-09-27T11:40:33.121Z",
+  updatedAt: "2026-09-27T11:40:41.000Z",
 } as const satisfies TemperWebPhrase

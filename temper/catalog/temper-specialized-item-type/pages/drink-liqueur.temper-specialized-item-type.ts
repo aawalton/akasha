@@ -6,4 +6,6 @@ export const drinkLiqueur = {
   slug: "drink-liqueur",
   title: "Liqueur Beverage",
   esoSpecializedItemTypeNumber: 23,
+  createdAt: "2026-09-27T04:26:38.857Z",
+  updatedAt: "2026-09-27T04:26:52.000Z",
 } as const satisfies TemperSpecializedItemType

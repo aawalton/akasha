@@ -13,4 +13,6 @@ export const prismaticOnslaught = {
   displayOrder: 14,
   hashPlace: 14,
   esoEnchantSearchCategory: 35,
+  createdAt: "2026-05-24T22:14:32.958Z",
+  updatedAt: "2026-09-27T04:03:27.000Z",
 } as const satisfies TemperWeaponEnchant

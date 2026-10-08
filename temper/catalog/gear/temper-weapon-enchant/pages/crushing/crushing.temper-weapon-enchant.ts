@@ -14,4 +14,6 @@ export const crushing = {
   effects: "jsonl",
   hashPlace: 5,
   esoEnchantSearchCategory: 4,
+  createdAt: "2026-05-24T22:14:32.946Z",
+  updatedAt: "2026-09-27T04:03:27.000Z",
 } as const satisfies TemperWeaponEnchant

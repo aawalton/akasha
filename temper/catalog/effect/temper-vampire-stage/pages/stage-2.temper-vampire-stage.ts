@@ -12,4 +12,6 @@ export const stage2 = {
   esoVampireStageId: 135399,
   hashPlace: 2,
   effects: "jsonl",
+  createdAt: "2026-05-13T15:28:22.189Z",
+  updatedAt: "2026-09-26T20:42:18.000Z",
 } as const satisfies TemperVampireStage

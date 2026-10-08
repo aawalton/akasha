@@ -5,4 +5,6 @@ export const companionEntityPanelCardBrowseBuilds = {
   type: "page-type/temper-web-phrase",
   slug: "companion-entity-panel-card-browse-builds",
   title: "Browse builds",
+  createdAt: "2026-09-27T11:34:18.537Z",
+  updatedAt: "2026-09-27T11:34:29.000Z",
 } as const satisfies TemperWebPhrase

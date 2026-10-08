@@ -5,4 +5,6 @@ export const homeDocumentTitle = {
   type: "page-type/temper-web-phrase",
   slug: "home-document-title",
   title: "Temper | Home",
+  createdAt: "2026-09-27T11:32:44.156Z",
+  updatedAt: "2026-09-27T11:32:53.000Z",
 } as const satisfies TemperWebPhrase

@@ -5,4 +5,6 @@ export const actionFilterCascadesByPriority = {
   type: "page-type/temper-web-phrase",
   slug: "action-filter-cascades-by-priority",
   title: "By Priority",
+  createdAt: "2026-09-27T11:31:21.867Z",
+  updatedAt: "2026-09-27T11:31:30.000Z",
 } as const satisfies TemperWebPhrase

@@ -6,4 +6,6 @@ export const backupWeaponBar = {
   slug: "backup-weapon-bar",
   title: "Backup Bar",
   displayOrder: 2,
+  createdAt: "2026-05-21T22:40:09.406Z",
+  updatedAt: "2026-09-27T06:45:50.000Z",
 } as const satisfies TemperWeaponBar

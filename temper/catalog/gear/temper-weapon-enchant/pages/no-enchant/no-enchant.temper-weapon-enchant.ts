@@ -10,4 +10,6 @@ export const noEnchant = {
   displayOrder: 0,
   hashPlace: 0,
   esoEnchantSearchCategory: 0,
+  createdAt: "2026-05-24T22:14:32.931Z",
+  updatedAt: "2026-09-27T04:03:27.000Z",
 } as const satisfies TemperWeaponEnchant

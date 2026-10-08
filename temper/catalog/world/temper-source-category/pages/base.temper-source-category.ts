@@ -7,4 +7,6 @@ export const base = {
   title: "Base Stats",
   displayOrder: 1,
   key: "base",
+  createdAt: "2026-05-16T13:40:58.489Z",
+  updatedAt: "2026-09-26T19:28:44.000Z",
 } as const satisfies TemperSourceCategory

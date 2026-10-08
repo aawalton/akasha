@@ -19,4 +19,6 @@ export const cadwellSAlmanac = {
   progressTotal: 1560,
   progressCurrent: 1560,
   completedAt: "2026-09-22T14:07:22.477Z",
+  createdAt: "2026-04-22T12:39:34.017Z",
+  updatedAt: "2026-09-24T16:26:32.000Z",
 } as const satisfies TemperTask

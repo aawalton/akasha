@@ -9,4 +9,6 @@ export const bgc = {
   displayOrder: 50,
   category: "dungeon-zone",
   esoZoneId: 1161,
+  createdAt: "2026-09-27T03:53:22.005Z",
+  updatedAt: "2026-09-27T03:53:34.000Z",
 } as const satisfies TemperSkillPoint

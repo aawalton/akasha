@@ -17,4 +17,6 @@ export const antiquityLeadsMotifs = {
   lastCompletedAt: "2026-10-08T13:24:45.000Z",
   rruleRule: "FREQ=WEEKLY;BYDAY=TU",
   rruleAnchorFromCompletion: false,
+  createdAt: "2026-04-22T12:39:34.017Z",
+  updatedAt: "2026-10-08T13:47:52.000Z",
 } as const satisfies TemperTask

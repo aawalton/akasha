@@ -6,4 +6,6 @@ export const importPageContentUpload = {
   slug: "import-page-content-upload",
   title:
     "Upload your {file} saved variables file to import your characters, companions, and completion tracking data. It is written by the {addOn} add-on.",
+  createdAt: "2026-09-27T11:37:31.384Z",
+  updatedAt: "2026-09-27T11:37:40.000Z",
 } as const satisfies TemperWebPhrase

@@ -5,4 +5,6 @@ export const characterEditorHeaderViewOnly = {
   type: "page-type/temper-web-phrase",
   slug: "character-editor-header-view-only",
   title: "View Only",
+  createdAt: "2026-09-27T11:37:20.277Z",
+  updatedAt: "2026-09-27T11:37:30.000Z",
 } as const satisfies TemperWebPhrase

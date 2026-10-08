@@ -5,4 +5,6 @@ export const companionTargetPanelCardTargetCount = {
   type: "page-type/temper-web-phrase",
   slug: "companion-target-panel-card-target-count",
   title: "Target Count",
+  createdAt: "2026-09-27T11:51:43.537Z",
+  updatedAt: "2026-09-27T11:51:50.000Z",
 } as const satisfies TemperWebPhrase

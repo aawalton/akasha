@@ -12,4 +12,6 @@ export const so = {
   maxSkyshards: 18,
   esoZoneId: 1502,
   skillPointQuests: "jsonl",
+  createdAt: "2026-05-26T13:19:53.169Z",
+  updatedAt: "2026-09-27T03:53:34.000Z",
 } as const satisfies TemperSkillPoint

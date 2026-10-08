@@ -9,4 +9,6 @@ export const companionJewelry = {
   key: "companion-jewelry",
   subject: "companion",
   wornGear: true,
+  createdAt: "2026-05-16T13:40:58.518Z",
+  updatedAt: "2026-09-26T20:30:13.000Z",
 } as const satisfies TemperSourceCategory

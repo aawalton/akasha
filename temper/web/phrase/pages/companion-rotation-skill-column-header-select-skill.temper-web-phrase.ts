@@ -5,4 +5,6 @@ export const companionRotationSkillColumnHeaderSelectSkill = {
   type: "page-type/temper-web-phrase",
   slug: "companion-rotation-skill-column-header-select-skill",
   title: "Select Skill",
+  createdAt: "2026-09-27T11:54:28.092Z",
+  updatedAt: "2026-09-27T11:54:35.000Z",
 } as const satisfies TemperWebPhrase

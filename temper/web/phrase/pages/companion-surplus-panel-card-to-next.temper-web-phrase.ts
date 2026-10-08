@@ -5,4 +5,6 @@ export const companionSurplusPanelCardToNext = {
   type: "page-type/temper-web-phrase",
   slug: "companion-surplus-panel-card-to-next",
   title: "To next {percent}%",
+  createdAt: "2026-09-27T11:57:00.722Z",
+  updatedAt: "2026-09-27T11:57:08.000Z",
 } as const satisfies TemperWebPhrase

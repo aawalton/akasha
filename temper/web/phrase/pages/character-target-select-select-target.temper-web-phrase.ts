@@ -5,4 +5,6 @@ export const characterTargetSelectSelectTarget = {
   type: "page-type/temper-web-phrase",
   slug: "character-target-select-select-target",
   title: "Select target",
+  createdAt: "2026-09-27T11:32:07.452Z",
+  updatedAt: "2026-09-27T11:32:19.000Z",
 } as const satisfies TemperWebPhrase

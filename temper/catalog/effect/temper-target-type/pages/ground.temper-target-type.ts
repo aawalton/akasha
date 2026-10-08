@@ -6,4 +6,6 @@ export const ground = {
   slug: "ground",
   title: "Ground",
   key: "ground",
+  createdAt: "2026-05-25T04:18:15.279Z",
+  updatedAt: "2026-09-21T15:25:48.000Z",
 } as const satisfies TemperTargetType

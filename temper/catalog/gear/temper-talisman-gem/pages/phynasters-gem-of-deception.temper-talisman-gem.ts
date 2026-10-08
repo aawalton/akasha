@@ -9,4 +9,6 @@ export const phynastersGemOfDeception = {
   socketedInto: "temper-set/prowlers-talisman",
   gemSource:
     "A reward for solving a Rumor. Tilli the Gossip on the Southern Docks of Daggerfall starts Rumors with the quest Rumors Abound, which the Crown Store also gives free. Players report the gem from her first Rumor, The Beriel Heirloom.",
+  createdAt: "2026-09-25T17:04:43.423Z",
+  updatedAt: "2026-09-25T17:04:48.000Z",
 } as const satisfies TemperTalismanGem

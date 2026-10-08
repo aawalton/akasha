@@ -5,4 +5,6 @@ export const importSummariesUpdated = {
   type: "page-type/temper-web-phrase",
   slug: "import-summaries-updated",
   title: "{things} updated",
+  createdAt: "2026-09-27T11:34:17.144Z",
+  updatedAt: "2026-09-27T11:34:27.000Z",
 } as const satisfies TemperWebPhrase

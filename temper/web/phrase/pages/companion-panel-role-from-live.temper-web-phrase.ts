@@ -5,4 +5,6 @@ export const companionPanelRoleFromLive = {
   type: "page-type/temper-web-phrase",
   slug: "companion-panel-role-from-live",
   title: "Role is set by the live build.",
+  createdAt: "2026-09-27T11:51:43.537Z",
+  updatedAt: "2026-09-27T11:51:50.000Z",
 } as const satisfies TemperWebPhrase

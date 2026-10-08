@@ -5,4 +5,6 @@ export const affectedItemsViewsEmpty = {
   type: "page-type/temper-web-phrase",
   slug: "affected-items-views-empty",
   title: "No items to show.",
+  createdAt: "2026-09-27T11:35:01.168Z",
+  updatedAt: "2026-09-27T11:35:10.000Z",
 } as const satisfies TemperWebPhrase

@@ -9,4 +9,6 @@ export const phynastersGemOfCunning = {
   socketedInto: "temper-set/prowlers-talisman",
   gemSource:
     "A drop from a chest in the Nowhere Vault, entered from the Thieves Den in Daggerfall with Wondrous Nowhere Keys. Six keys open all three wings and nine clear every challenge room. Favor quests are the sure source of keys.",
+  createdAt: "2026-09-25T17:04:43.423Z",
+  updatedAt: "2026-09-25T17:04:48.000Z",
 } as const satisfies TemperTalismanGem

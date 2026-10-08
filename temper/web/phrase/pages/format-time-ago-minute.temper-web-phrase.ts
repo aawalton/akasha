@@ -5,4 +5,6 @@ export const formatTimeAgoMinute = {
   type: "page-type/temper-web-phrase",
   slug: "format-time-ago-minute",
   title: "{count} minute ago",
+  createdAt: "2026-09-27T11:39:26.165Z",
+  updatedAt: "2026-09-27T11:39:34.000Z",
 } as const satisfies TemperWebPhrase

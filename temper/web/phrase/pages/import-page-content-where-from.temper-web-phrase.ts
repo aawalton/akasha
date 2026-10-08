@@ -7,4 +7,6 @@ export const importPageContentWhereFrom = {
   title: "Where the file comes from",
   description:
     "{fromAddOn} ESO does not write it on its own — {addOn} creates it while you play. If that add-on is not installed in your game, the file below will not exist on your computer and there is nothing to upload.",
+  createdAt: "2026-09-27T11:37:31.384Z",
+  updatedAt: "2026-09-27T11:37:40.000Z",
 } as const satisfies TemperWebPhrase

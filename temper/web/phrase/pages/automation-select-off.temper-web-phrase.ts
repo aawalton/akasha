@@ -5,4 +5,6 @@ export const automationSelectOff = {
   type: "page-type/temper-web-phrase",
   slug: "automation-select-off",
   title: "Off",
+  createdAt: "2026-09-27T11:31:39.257Z",
+  updatedAt: "2026-09-27T11:31:47.000Z",
 } as const satisfies TemperWebPhrase

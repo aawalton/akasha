@@ -5,4 +5,6 @@ export const characterEditorContentSearchPassives = {
   type: "page-type/temper-web-phrase",
   slug: "character-editor-content-search-passives",
   title: "Search passives...",
+  createdAt: "2026-09-27T11:40:31.664Z",
+  updatedAt: "2026-09-27T11:40:40.000Z",
 } as const satisfies TemperWebPhrase

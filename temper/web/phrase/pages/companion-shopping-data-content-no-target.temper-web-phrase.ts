@@ -7,4 +7,6 @@ export const companionShoppingDataContentNoTarget = {
   title: "No companion has a target build",
   description:
     "A shopping list is built from a companion's target build, and none is set. Importing from the game does not create one.",
+  createdAt: "2026-09-27T11:44:14.499Z",
+  updatedAt: "2026-09-27T11:44:23.000Z",
 } as const satisfies TemperWebPhrase

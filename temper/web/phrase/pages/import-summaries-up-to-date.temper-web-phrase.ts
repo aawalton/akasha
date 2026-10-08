@@ -5,4 +5,6 @@ export const importSummariesUpToDate = {
   type: "page-type/temper-web-phrase",
   slug: "import-summaries-up-to-date",
   title: "Everything in this file was already up to date",
+  createdAt: "2026-09-27T11:34:17.144Z",
+  updatedAt: "2026-09-27T11:34:27.000Z",
 } as const satisfies TemperWebPhrase

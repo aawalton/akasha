@@ -5,4 +5,6 @@ export const characterManagementPanelCardVersionHistory = {
   type: "page-type/temper-web-phrase",
   slug: "character-management-panel-card-version-history",
   title: "Version History",
+  createdAt: "2026-09-27T11:31:48.848Z",
+  updatedAt: "2026-09-27T11:31:57.000Z",
 } as const satisfies TemperWebPhrase

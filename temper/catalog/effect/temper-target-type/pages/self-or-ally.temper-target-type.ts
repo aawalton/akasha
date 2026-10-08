@@ -6,4 +6,6 @@ export const selfOrAlly = {
   slug: "self-or-ally",
   title: "Self / Ally",
   key: "self-or-ally",
+  createdAt: "2026-05-25T04:18:15.275Z",
+  updatedAt: "2026-09-21T15:25:48.000Z",
 } as const satisfies TemperTargetType

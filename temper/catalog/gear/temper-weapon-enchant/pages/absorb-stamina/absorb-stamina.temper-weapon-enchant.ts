@@ -13,4 +13,6 @@ export const absorbStamina = {
   displayOrder: 4,
   hashPlace: 4,
   esoEnchantSearchCategory: 22,
+  createdAt: "2026-05-24T22:14:32.944Z",
+  updatedAt: "2026-09-27T04:03:27.000Z",
 } as const satisfies TemperWeaponEnchant

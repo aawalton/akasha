@@ -13,4 +13,6 @@ export const foulness = {
   displayOrder: 13,
   hashPlace: 13,
   esoEnchantSearchCategory: 1,
+  createdAt: "2026-05-24T22:14:32.957Z",
+  updatedAt: "2026-09-27T04:03:27.000Z",
 } as const satisfies TemperWeaponEnchant

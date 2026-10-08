@@ -13,4 +13,6 @@ export const defending = {
   effects: "jsonl",
   hashPlace: 3,
   available: true,
+  createdAt: "2026-05-24T19:52:35.395Z",
+  updatedAt: "2026-09-27T03:41:25.000Z",
 } as const satisfies TemperWeaponTrait

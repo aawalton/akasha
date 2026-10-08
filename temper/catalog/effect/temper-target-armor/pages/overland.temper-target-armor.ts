@@ -7,4 +7,6 @@ export const overland = {
   title: "Overland",
   key: "overland",
   armor: 9100,
+  createdAt: "2026-05-13T15:28:49.852Z",
+  updatedAt: "2026-09-21T15:25:48.000Z",
 } as const satisfies TemperTargetArmor

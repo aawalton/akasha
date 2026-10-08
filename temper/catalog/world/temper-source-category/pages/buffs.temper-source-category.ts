@@ -7,4 +7,6 @@ export const buffs = {
   title: "Buffs",
   displayOrder: 13,
   key: "buffs",
+  createdAt: "2026-05-16T13:40:58.508Z",
+  updatedAt: "2026-09-22T21:45:16.000Z",
 } as const satisfies TemperSourceCategory

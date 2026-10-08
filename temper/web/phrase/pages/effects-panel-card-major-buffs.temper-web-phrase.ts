@@ -5,4 +5,6 @@ export const effectsPanelCardMajorBuffs = {
   type: "page-type/temper-web-phrase",
   slug: "effects-panel-card-major-buffs",
   title: "Major Buffs",
+  createdAt: "2026-09-27T11:30:29.139Z",
+  updatedAt: "2026-09-27T11:30:37.000Z",
 } as const satisfies TemperWebPhrase

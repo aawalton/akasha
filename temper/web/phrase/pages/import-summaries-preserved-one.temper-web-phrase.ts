@@ -6,4 +6,6 @@ export const importSummariesPreservedOne = {
   slug: "import-summaries-preserved-one",
   title:
     "This file was missing progress you had already recorded on {count} record — your existing progress was kept. That usually means the add-ons that wrote it are out of date.",
+  createdAt: "2026-09-27T11:34:17.144Z",
+  updatedAt: "2026-09-27T11:34:27.000Z",
 } as const satisfies TemperWebPhrase

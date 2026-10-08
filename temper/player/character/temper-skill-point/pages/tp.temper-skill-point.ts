@@ -9,4 +9,6 @@ export const tp = {
   displayOrder: 51,
   category: "dungeon-zone",
   esoZoneId: 1414,
+  createdAt: "2026-09-27T03:53:22.006Z",
+  updatedAt: "2026-09-27T03:53:34.000Z",
 } as const satisfies TemperSkillPoint

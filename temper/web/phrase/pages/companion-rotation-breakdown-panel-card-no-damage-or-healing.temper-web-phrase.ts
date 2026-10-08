@@ -7,4 +7,6 @@ export const companionRotationBreakdownPanelCardNoDamageOrHealing = {
   title: "No damage or healing",
   description:
     "The simulation ran your slotted skills and came back with no damage and no healing. A bar of pure buff, debuff, or taunt skills produces exactly that. If a skill here should be dealing damage or healing, the simulation is not reading it, and that is Temper's to fix.",
+  createdAt: "2026-09-27T11:57:00.721Z",
+  updatedAt: "2026-09-27T11:57:08.000Z",
 } as const satisfies TemperWebPhrase

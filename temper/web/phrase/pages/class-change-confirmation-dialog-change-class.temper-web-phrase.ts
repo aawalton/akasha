@@ -5,4 +5,6 @@ export const classChangeConfirmationDialogChangeClass = {
   type: "page-type/temper-web-phrase",
   slug: "class-change-confirmation-dialog-change-class",
   title: "Change Class",
+  createdAt: "2026-09-27T11:39:55.249Z",
+  updatedAt: "2026-09-27T11:40:02.000Z",
 } as const satisfies TemperWebPhrase

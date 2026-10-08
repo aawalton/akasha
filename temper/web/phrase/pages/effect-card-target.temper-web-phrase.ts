@@ -5,4 +5,6 @@ export const effectCardTarget = {
   type: "page-type/temper-web-phrase",
   slug: "effect-card-target",
   title: "{scope} / {type}",
+  createdAt: "2026-09-27T12:25:57.109Z",
+  updatedAt: "2026-09-27T12:26:04.000Z",
 } as const satisfies TemperWebPhrase

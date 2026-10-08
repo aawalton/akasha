@@ -6,4 +6,6 @@ export const classChangeConfirmationDialogResetsLines = {
   slug: "class-change-confirmation-dialog-resets-lines",
   title:
     "Changing your character class will automatically reset all skill lines to the new class's skill lines.",
+  createdAt: "2026-09-27T11:39:55.250Z",
+  updatedAt: "2026-09-27T11:40:02.000Z",
 } as const satisfies TemperWebPhrase

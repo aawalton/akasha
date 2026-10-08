@@ -5,4 +5,6 @@ export const foodDrinkSelectDialogSearch = {
   type: "page-type/temper-web-phrase",
   slug: "food-drink-select-dialog-search",
   title: "Search food and drinks...",
+  createdAt: "2026-09-27T11:31:19.933Z",
+  updatedAt: "2026-09-27T11:31:29.000Z",
 } as const satisfies TemperWebPhrase

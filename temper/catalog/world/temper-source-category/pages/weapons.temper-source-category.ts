@@ -8,4 +8,6 @@ export const weapons = {
   displayOrder: 5,
   key: "weapons",
   wornGear: true,
+  createdAt: "2026-05-16T13:40:58.498Z",
+  updatedAt: "2026-09-26T20:30:13.000Z",
 } as const satisfies TemperSourceCategory

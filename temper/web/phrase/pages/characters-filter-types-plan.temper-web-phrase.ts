@@ -5,4 +5,6 @@ export const charactersFilterTypesPlan = {
   type: "page-type/temper-web-phrase",
   slug: "characters-filter-types-plan",
   title: "Plan",
+  createdAt: "2026-09-27T11:34:28.075Z",
+  updatedAt: "2026-09-27T11:34:37.000Z",
 } as const satisfies TemperWebPhrase

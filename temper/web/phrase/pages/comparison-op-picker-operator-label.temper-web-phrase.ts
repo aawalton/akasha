@@ -5,4 +5,6 @@ export const comparisonOpPickerOperatorLabel = {
   type: "page-type/temper-web-phrase",
   slug: "comparison-op-picker-operator-label",
   title: "Comparison operator: {operator}",
+  createdAt: "2026-09-27T11:32:55.479Z",
+  updatedAt: "2026-09-27T11:33:09.000Z",
 } as const satisfies TemperWebPhrase

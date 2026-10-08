@@ -5,4 +5,6 @@ export const identityPanelCardNoRace = {
   type: "page-type/temper-web-phrase",
   slug: "identity-panel-card-no-race",
   title: "No Race",
+  createdAt: "2026-09-27T11:33:05.285Z",
+  updatedAt: "2026-09-27T11:33:17.000Z",
 } as const satisfies TemperWebPhrase

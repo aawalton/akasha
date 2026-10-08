@@ -12,4 +12,6 @@ export const nirnhoned = {
   displayOrder: 5,
   hashPlace: 5,
   available: true,
+  createdAt: "2026-05-24T19:52:35.399Z",
+  updatedAt: "2026-09-27T03:41:25.000Z",
 } as const satisfies TemperWeaponTrait

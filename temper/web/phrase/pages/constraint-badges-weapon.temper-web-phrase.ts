@@ -5,4 +5,6 @@ export const constraintBadgesWeapon = {
   type: "page-type/temper-web-phrase",
   slug: "constraint-badges-weapon",
   title: "{weapon} Weapon",
+  createdAt: "2026-09-27T11:32:47.535Z",
+  updatedAt: "2026-09-27T11:32:59.000Z",
 } as const satisfies TemperWebPhrase

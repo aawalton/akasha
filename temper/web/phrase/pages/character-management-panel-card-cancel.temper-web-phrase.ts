@@ -5,4 +5,6 @@ export const characterManagementPanelCardCancel = {
   type: "page-type/temper-web-phrase",
   slug: "character-management-panel-card-cancel",
   title: "Cancel",
+  createdAt: "2026-09-27T11:31:48.848Z",
+  updatedAt: "2026-09-27T11:31:57.000Z",
 } as const satisfies TemperWebPhrase

@@ -5,4 +5,6 @@ export const attributesPanelCardHealth = {
   type: "page-type/temper-web-phrase",
   slug: "attributes-panel-card-health",
   title: "Health",
+  createdAt: "2026-09-27T11:31:00.665Z",
+  updatedAt: "2026-09-27T11:31:16.000Z",
 } as const satisfies TemperWebPhrase

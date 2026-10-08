@@ -5,4 +5,6 @@ export const characterManagementPanelCardBuildManagement = {
   type: "page-type/temper-web-phrase",
   slug: "character-management-panel-card-build-management",
   title: "Build Management",
+  createdAt: "2026-09-27T11:31:48.847Z",
+  updatedAt: "2026-09-27T11:31:57.000Z",
 } as const satisfies TemperWebPhrase

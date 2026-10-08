@@ -20,4 +20,6 @@ export const foliumDiscognitumSkillPoints = {
   progressTotal: 40,
   progressCurrent: 40,
   completedAt: "2026-09-21T15:56:56.160Z",
+  createdAt: "2026-06-03T14:32:45.615Z",
+  updatedAt: "2026-09-24T16:26:32.000Z",
 } as const satisfies TemperTask

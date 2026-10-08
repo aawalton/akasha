@@ -5,4 +5,6 @@ export const companionGearByTraitPanelCardAddAll = {
   type: "page-type/temper-web-phrase",
   slug: "companion-gear-by-trait-panel-card-add-all",
   title: "Add All",
+  createdAt: "2026-09-27T11:38:40.450Z",
+  updatedAt: "2026-09-27T11:38:49.000Z",
 } as const satisfies TemperWebPhrase

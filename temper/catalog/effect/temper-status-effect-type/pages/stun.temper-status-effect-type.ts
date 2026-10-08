@@ -6,4 +6,6 @@ export const stun = {
   slug: "stun",
   title: "Stun",
   key: "stun",
+  createdAt: "2026-05-24T14:08:48.920Z",
+  updatedAt: "2026-09-21T15:25:48.000Z",
 } as const satisfies TemperStatusEffectType

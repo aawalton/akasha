@@ -10,4 +10,6 @@ export const dungeonSets = {
   scope: "all_characters",
   priority: "p3",
   completionCard: "temper-completion-category/tasks-dungeon-sets",
+  createdAt: "2026-06-09T14:25:53.998Z",
+  updatedAt: "2026-09-24T16:26:32.000Z",
 } as const satisfies TemperTask

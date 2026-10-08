@@ -13,4 +13,6 @@ export const absorbHealth = {
   displayOrder: 2,
   hashPlace: 2,
   esoEnchantSearchCategory: 20,
+  createdAt: "2026-05-24T22:14:32.939Z",
+  updatedAt: "2026-09-27T04:03:27.000Z",
 } as const satisfies TemperWeaponEnchant

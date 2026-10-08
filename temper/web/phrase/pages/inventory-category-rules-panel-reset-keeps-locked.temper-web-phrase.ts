@@ -6,4 +6,6 @@ export const inventoryCategoryRulesPanelResetKeepsLocked = {
   slug: "inventory-category-rules-panel-reset-keeps-locked",
   title:
     "This will reset all unlocked category rules to their defaults. Locked rules will be preserved.",
+  createdAt: "2026-09-27T11:32:23.875Z",
+  updatedAt: "2026-09-27T11:32:34.000Z",
 } as const satisfies TemperWebPhrase

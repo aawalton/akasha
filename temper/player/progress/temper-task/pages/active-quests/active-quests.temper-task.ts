@@ -10,4 +10,6 @@ export const activeQuests = {
   accountPage: "temper-account/alanarre",
   scope: "all_characters",
   priority: "p3",
+  createdAt: "2026-06-09T14:25:53.301Z",
+  updatedAt: "2026-09-24T16:26:32.000Z",
 } as const satisfies TemperTask

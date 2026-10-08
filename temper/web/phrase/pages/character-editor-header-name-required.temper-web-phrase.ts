@@ -5,4 +5,6 @@ export const characterEditorHeaderNameRequired = {
   type: "page-type/temper-web-phrase",
   slug: "character-editor-header-name-required",
   title: "Build name is required",
+  createdAt: "2026-09-27T11:37:20.276Z",
+  updatedAt: "2026-09-27T11:37:30.000Z",
 } as const satisfies TemperWebPhrase

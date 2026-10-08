@@ -5,4 +5,6 @@ export const automationTabCompanionAutomationInfo = {
   type: "page-type/temper-web-phrase",
   slug: "automation-tab-companion-automation-info",
   title: "Automatically equip gear and skills to match companion builds.",
+  createdAt: "2026-09-27T11:42:12.167Z",
+  updatedAt: "2026-09-27T11:42:22.000Z",
 } as const satisfies TemperWebPhrase

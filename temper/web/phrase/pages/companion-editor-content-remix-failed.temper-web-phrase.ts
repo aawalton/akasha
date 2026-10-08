@@ -5,4 +5,6 @@ export const companionEditorContentRemixFailed = {
   type: "page-type/temper-web-phrase",
   slug: "companion-editor-content-remix-failed",
   title: "Failed to remix build",
+  createdAt: "2026-09-27T11:33:10.815Z",
+  updatedAt: "2026-09-27T11:33:20.000Z",
 } as const satisfies TemperWebPhrase

@@ -5,4 +5,6 @@ export const actionFilterCascadesAnyCharacter = {
   type: "page-type/temper-web-phrase",
   slug: "action-filter-cascades-any-character",
   title: "Any Character",
+  createdAt: "2026-09-27T11:31:21.867Z",
+  updatedAt: "2026-09-27T11:31:30.000Z",
 } as const satisfies TemperWebPhrase

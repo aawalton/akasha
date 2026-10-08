@@ -5,4 +5,6 @@ export const buffOrDebuffExplanationDialogProvidedBy = {
   type: "page-type/temper-web-phrase",
   slug: "buff-or-debuff-explanation-dialog-provided-by",
   title: "Provided By",
+  createdAt: "2026-09-27T11:44:25.884Z",
+  updatedAt: "2026-09-27T11:44:35.000Z",
 } as const satisfies TemperWebPhrase

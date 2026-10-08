@@ -5,4 +5,6 @@ export const importPageContentTryAgain = {
   type: "page-type/temper-web-phrase",
   slug: "import-page-content-try-again",
   title: "Try Again",
+  createdAt: "2026-09-27T11:37:31.384Z",
+  updatedAt: "2026-09-27T11:37:40.000Z",
 } as const satisfies TemperWebPhrase

@@ -5,4 +5,6 @@ export const characterListPanelCardUntitled = {
   type: "page-type/temper-web-phrase",
   slug: "character-list-panel-card-untitled",
   title: "Untitled Build",
+  createdAt: "2026-09-27T11:42:01.462Z",
+  updatedAt: "2026-09-27T11:42:09.000Z",
 } as const satisfies TemperWebPhrase

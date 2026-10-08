@@ -6,4 +6,6 @@ export const self = {
   slug: "self",
   title: "Self",
   key: "self",
+  createdAt: "2026-05-25T04:18:15.262Z",
+  updatedAt: "2026-09-21T15:25:48.000Z",
 } as const satisfies TemperTargetType

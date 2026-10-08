@@ -5,4 +5,6 @@ export const automationPanelCardEquipmentHint = {
   type: "page-type/temper-web-phrase",
   slug: "automation-panel-card-equipment-hint",
   title: "Automatically equip gear to match this build.",
+  createdAt: "2026-09-27T11:33:25.105Z",
+  updatedAt: "2026-09-27T11:33:36.000Z",
 } as const satisfies TemperWebPhrase

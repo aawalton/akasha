@@ -10,4 +10,6 @@ export const noTrait = {
   displayOrder: 0,
   hashPlace: 0,
   available: true,
+  createdAt: "2026-05-24T19:52:35.384Z",
+  updatedAt: "2026-09-27T03:41:25.000Z",
 } as const satisfies TemperWeaponTrait

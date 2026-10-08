@@ -27,4 +27,6 @@ export const targetStats = {
       value: 0,
     },
   ],
+  createdAt: "2026-09-26T20:13:02.260Z",
+  updatedAt: "2026-09-26T20:13:09.000Z",
 } as const satisfies TemperTarget

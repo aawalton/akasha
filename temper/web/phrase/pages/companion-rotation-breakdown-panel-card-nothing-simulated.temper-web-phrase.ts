@@ -7,4 +7,6 @@ export const companionRotationBreakdownPanelCardNothingSimulated = {
   title: "Nothing simulated",
   description:
     "None of the slotted skills are ones the rotation simulation runs. It skips passive skills and any skill it has no data for, and every slot on the bar fell into one of those. If these are normal active skills, the gap is in Temper's skill data, not in your setup.",
+  createdAt: "2026-09-27T11:57:00.721Z",
+  updatedAt: "2026-09-27T11:57:08.000Z",
 } as const satisfies TemperWebPhrase

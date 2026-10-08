@@ -5,4 +5,6 @@ export const companionShoppingDataContentOwnership = {
   type: "page-type/temper-web-phrase",
   slug: "companion-shopping-data-content-ownership",
   title: "Ownership",
+  createdAt: "2026-09-27T11:44:14.499Z",
+  updatedAt: "2026-09-27T11:44:23.000Z",
 } as const satisfies TemperWebPhrase

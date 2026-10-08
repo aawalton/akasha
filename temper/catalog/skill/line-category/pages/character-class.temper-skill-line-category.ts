@@ -7,4 +7,6 @@ export const characterClass = {
   title: "Class",
   key: "class",
   displayOrder: 1,
+  createdAt: "2026-09-02T01:49:01.666Z",
+  updatedAt: "2026-09-21T15:29:38.000Z",
 } as const satisfies TemperSkillLineCategory

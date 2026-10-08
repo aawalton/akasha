@@ -5,4 +5,6 @@ export const companionSkillSlotCardEmpty = {
   type: "page-type/temper-web-phrase",
   slug: "companion-skill-slot-card-empty",
   title: "Empty Slot",
+  createdAt: "2026-09-27T11:54:28.093Z",
+  updatedAt: "2026-09-27T11:54:35.000Z",
 } as const satisfies TemperWebPhrase

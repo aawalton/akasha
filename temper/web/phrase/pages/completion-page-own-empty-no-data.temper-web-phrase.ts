@@ -5,4 +5,6 @@ export const completionPageOwnEmptyNoData = {
   type: "page-type/temper-web-phrase",
   slug: "completion-page-own-empty-no-data",
   title: "No completion data yet",
+  createdAt: "2026-09-27T11:31:01.693Z",
+  updatedAt: "2026-09-27T11:31:17.000Z",
 } as const satisfies TemperWebPhrase

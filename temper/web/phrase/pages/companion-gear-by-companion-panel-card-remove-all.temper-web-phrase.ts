@@ -5,4 +5,6 @@ export const companionGearByCompanionPanelCardRemoveAll = {
   type: "page-type/temper-web-phrase",
   slug: "companion-gear-by-companion-panel-card-remove-all",
   title: "Remove All",
+  createdAt: "2026-09-27T11:38:40.449Z",
+  updatedAt: "2026-09-27T11:38:49.000Z",
 } as const satisfies TemperWebPhrase

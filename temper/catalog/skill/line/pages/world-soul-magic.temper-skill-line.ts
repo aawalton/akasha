@@ -11,4 +11,6 @@ export const worldSoulMagic = {
   maxRank: 6,
   category: "temper-skill-line-category/world",
   hashPlace: 34,
+  createdAt: "2026-05-26T01:18:50.321Z",
+  updatedAt: "2026-09-26T15:39:49.000Z",
 } as const satisfies TemperSkillLine

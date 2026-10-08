@@ -6,4 +6,6 @@ export const primaryWeaponBar = {
   slug: "primary-weapon-bar",
   title: "Primary Bar",
   displayOrder: 1,
+  createdAt: "2026-05-21T22:40:09.402Z",
+  updatedAt: "2026-09-27T06:45:50.000Z",
 } as const satisfies TemperWeaponBar

@@ -6,4 +6,6 @@ export const recipeAlchemyFormulaFurnishing = {
   slug: "recipe-alchemy-formula-furnishing",
   title: "Alchemy Formula (Furnishing)",
   esoSpecializedItemTypeNumber: 175,
+  createdAt: "2026-09-27T04:08:02.584Z",
+  updatedAt: "2026-09-27T04:08:05.000Z",
 } as const satisfies TemperSpecializedItemType

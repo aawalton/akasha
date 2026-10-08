@@ -5,4 +5,6 @@ export const characterTargetSelectNoTarget = {
   type: "page-type/temper-web-phrase",
   slug: "character-target-select-no-target",
   title: "No Target",
+  createdAt: "2026-09-27T11:32:07.451Z",
+  updatedAt: "2026-09-27T11:32:19.000Z",
 } as const satisfies TemperWebPhrase

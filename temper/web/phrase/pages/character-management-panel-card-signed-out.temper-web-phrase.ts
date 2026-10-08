@@ -5,4 +5,6 @@ export const characterManagementPanelCardSignedOut = {
   type: "page-type/temper-web-phrase",
   slug: "character-management-panel-card-signed-out",
   title: "Sign in to delete this build",
+  createdAt: "2026-09-27T11:52:48.415Z",
+  updatedAt: "2026-09-27T11:52:56.000Z",
 } as const satisfies TemperWebPhrase

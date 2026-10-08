@@ -12,4 +12,6 @@ export const sorcererDarkMagic = {
   category: "temper-skill-line-category/character-class",
   class: "temper-class/sorcerer",
   hashPlace: 13,
+  createdAt: "2026-05-26T01:18:50.283Z",
+  updatedAt: "2026-09-26T15:39:49.000Z",
 } as const satisfies TemperSkillLine

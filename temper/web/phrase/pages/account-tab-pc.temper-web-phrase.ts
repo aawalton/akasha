@@ -5,4 +5,6 @@ export const accountTabPc = {
   type: "page-type/temper-web-phrase",
   slug: "account-tab-pc",
   title: "PC/Mac",
+  createdAt: "2026-09-27T11:33:23.309Z",
+  updatedAt: "2026-09-27T11:33:34.000Z",
 } as const satisfies TemperWebPhrase

@@ -6,4 +6,6 @@ export const cone = {
   slug: "cone",
   title: "Cone",
   key: "cone",
+  createdAt: "2026-05-24T14:06:58.283Z",
+  updatedAt: "2026-09-21T15:25:48.000Z",
 } as const satisfies TemperTargetScope

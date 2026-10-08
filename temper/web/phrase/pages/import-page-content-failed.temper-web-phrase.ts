@@ -5,4 +5,6 @@ export const importPageContentFailed = {
   type: "page-type/temper-web-phrase",
   slug: "import-page-content-failed",
   title: "Import failed",
+  createdAt: "2026-09-27T11:37:31.383Z",
+  updatedAt: "2026-09-27T11:37:40.000Z",
 } as const satisfies TemperWebPhrase

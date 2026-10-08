@@ -5,4 +5,6 @@ export const automationSelectAccountDefault = {
   type: "page-type/temper-web-phrase",
   slug: "automation-select-account-default",
   title: "{setting} (Account Default)",
+  createdAt: "2026-09-27T11:31:39.256Z",
+  updatedAt: "2026-09-27T11:31:47.000Z",
 } as const satisfies TemperWebPhrase

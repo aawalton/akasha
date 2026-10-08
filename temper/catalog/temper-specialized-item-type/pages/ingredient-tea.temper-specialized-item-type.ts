@@ -6,4 +6,6 @@ export const ingredientTea = {
   slug: "ingredient-tea",
   title: "Tea Ingredient",
   esoSpecializedItemTypeNumber: 45,
+  createdAt: "2026-09-27T04:26:38.858Z",
+  updatedAt: "2026-09-27T04:26:52.000Z",
 } as const satisfies TemperSpecializedItemType

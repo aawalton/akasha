@@ -6,4 +6,6 @@ export const interrupt = {
   slug: "interrupt",
   title: "Interrupt",
   key: "interrupt",
+  createdAt: "2026-05-21T23:12:27.708Z",
+  updatedAt: "2026-09-21T15:25:48.000Z",
 } as const satisfies TemperSpecialEffectType

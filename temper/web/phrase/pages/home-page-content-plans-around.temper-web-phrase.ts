@@ -6,4 +6,6 @@ export const homePageContentPlansAround = {
   slug: "home-page-content-plans-around",
   title:
     "Temper plans around your own characters, gear, and inventory. Start here to see what connecting them involves.",
+  createdAt: "2026-09-27T11:32:12.973Z",
+  updatedAt: "2026-09-27T11:32:24.000Z",
 } as const satisfies TemperWebPhrase

@@ -6,4 +6,6 @@ export const recipeClothierPatternFurnishing = {
   slug: "recipe-clothier-pattern-furnishing",
   title: "Clothier Pattern (Furnishing)",
   esoSpecializedItemTypeNumber: 173,
+  createdAt: "2026-09-27T04:08:02.584Z",
+  updatedAt: "2026-09-27T04:08:05.000Z",
 } as const satisfies TemperSpecializedItemType

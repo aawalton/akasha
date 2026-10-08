@@ -5,4 +5,6 @@ export const characterLiveOnlyPanelCardLive = {
   type: "page-type/temper-web-phrase",
   slug: "character-live-only-panel-card-live",
   title: "Live",
+  createdAt: "2026-09-27T11:27:14.840Z",
+  updatedAt: "2026-09-27T11:30:59.000Z",
 } as const satisfies TemperWebPhrase

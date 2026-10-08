@@ -7,4 +7,6 @@ export const charactersPlanEmptyNoBuildsMany = {
   title: "Characters with no build",
   description:
     "Temper has {count} characters for this account. Planning compares a character's current build against a target, and none of them has a build attached yet — importing characters does not attach one, so importing again will not change this.",
+  createdAt: "2026-09-27T11:36:22.894Z",
+  updatedAt: "2026-09-27T11:36:30.000Z",
 } as const satisfies TemperWebPhrase

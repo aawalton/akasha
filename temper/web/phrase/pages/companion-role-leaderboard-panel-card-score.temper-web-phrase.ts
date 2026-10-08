@@ -5,4 +5,6 @@ export const companionRoleLeaderboardPanelCardScore = {
   type: "page-type/temper-web-phrase",
   slug: "companion-role-leaderboard-panel-card-score",
   title: "Score",
+  createdAt: "2026-09-27T11:48:00.687Z",
+  updatedAt: "2026-09-27T11:48:08.000Z",
 } as const satisfies TemperWebPhrase

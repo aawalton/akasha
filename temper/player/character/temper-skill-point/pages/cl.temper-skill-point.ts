@@ -11,4 +11,6 @@ export const cl = {
   maxQuests: 0,
   maxSkyshards: 18,
   esoZoneId: 888,
+  createdAt: "2026-05-26T13:19:53.143Z",
+  updatedAt: "2026-09-27T03:53:34.000Z",
 } as const satisfies TemperSkillPoint

@@ -7,4 +7,6 @@ export const mundus = {
   title: "Mundus Stone",
   displayOrder: 10,
   key: "mundus",
+  createdAt: "2026-05-16T13:40:58.505Z",
+  updatedAt: "2026-09-26T19:28:44.000Z",
 } as const satisfies TemperSourceCategory

@@ -5,4 +5,6 @@ export const characterLevelPanelCardLevel = {
   type: "page-type/temper-web-phrase",
   slug: "character-level-panel-card-level",
   title: "Level",
+  createdAt: "2026-09-27T11:34:57.385Z",
+  updatedAt: "2026-09-27T11:35:06.000Z",
 } as const satisfies TemperWebPhrase

@@ -7,4 +7,6 @@ export const active = {
   title: "Active",
   key: "active",
   description: "Regular ability with cooldown or resource cost",
+  createdAt: "2026-05-20T18:46:09.213Z",
+  updatedAt: "2026-09-21T15:29:38.000Z",
 } as const satisfies TemperSkillType

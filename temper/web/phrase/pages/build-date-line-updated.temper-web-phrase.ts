@@ -5,4 +5,6 @@ export const buildDateLineUpdated = {
   type: "page-type/temper-web-phrase",
   slug: "build-date-line-updated",
   title: "Updated {date}",
+  createdAt: "2026-09-27T11:48:05.533Z",
+  updatedAt: "2026-09-27T11:48:13.000Z",
 } as const satisfies TemperWebPhrase

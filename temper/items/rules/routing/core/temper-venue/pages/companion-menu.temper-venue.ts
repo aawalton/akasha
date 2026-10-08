@@ -7,4 +7,6 @@ export const companionMenu = {
   title: "Companion Menu",
   key: "companion-menu",
   displayOrder: 8,
+  createdAt: "2026-09-27T03:07:01.935Z",
+  updatedAt: "2026-09-27T03:09:56.000Z",
 } as const satisfies TemperVenue

@@ -7,4 +7,6 @@ export const importPageContentPrices = {
   title: "Item prices",
   description:
     "{pricesNeed} {tradeCentre} is a separate community add-on, not one of ours, and its terms do not allow anyone else to redistribute it — so it is not in that download, and you install it yourself from Minion or esoui.com. It is where Temper gets guild-store prices. TemperItems records whatever prices it finds at scan time, so an inventory captured without it syncs fine and then values your items at vendor prices only — a small fraction of what they are worth.",
+  createdAt: "2026-09-27T11:37:31.384Z",
+  updatedAt: "2026-09-27T11:37:40.000Z",
 } as const satisfies TemperWebPhrase

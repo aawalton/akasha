@@ -5,4 +5,6 @@ export const charactersTabFiltersActivity = {
   type: "page-type/temper-web-phrase",
   slug: "characters-tab-filters-activity",
   title: "Activity",
+  createdAt: "2026-09-27T11:38:05.005Z",
+  updatedAt: "2026-09-27T11:38:13.000Z",
 } as const satisfies TemperWebPhrase

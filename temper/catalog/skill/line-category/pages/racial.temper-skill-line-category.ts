@@ -7,4 +7,6 @@ export const racial = {
   title: "Racial",
   key: "racial",
   displayOrder: 46,
+  createdAt: "2026-05-16T07:54:10.552Z",
+  updatedAt: "2026-09-21T15:29:38.000Z",
 } as const satisfies TemperSkillLineCategory

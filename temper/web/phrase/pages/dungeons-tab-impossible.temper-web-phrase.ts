@@ -5,4 +5,6 @@ export const dungeonsTabImpossible = {
   type: "page-type/temper-web-phrase",
   slug: "dungeons-tab-impossible",
   title: "impossible",
+  createdAt: "2026-09-27T11:35:02.073Z",
+  updatedAt: "2026-09-27T11:35:11.000Z",
 } as const satisfies TemperWebPhrase

@@ -5,4 +5,6 @@ export const goldAmountValue = {
   type: "page-type/temper-web-phrase",
   slug: "gold-amount-value",
   title: "{gold}g",
+  createdAt: "2026-09-27T11:58:17.680Z",
+  updatedAt: "2026-09-27T11:58:24.000Z",
 } as const satisfies TemperWebPhrase

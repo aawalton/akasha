@@ -5,4 +5,6 @@ export const constraintBadgesEnemyTypes = {
   type: "page-type/temper-web-phrase",
   slug: "constraint-badges-enemy-types",
   title: "{names}, {name}",
+  createdAt: "2026-09-27T12:27:04.162Z",
+  updatedAt: "2026-09-27T12:27:11.000Z",
 } as const satisfies TemperWebPhrase

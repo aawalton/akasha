@@ -6,4 +6,6 @@ export const createCorpse = {
   slug: "create-corpse",
   title: "Create Corpse",
   key: "create-corpse",
+  createdAt: "2026-05-21T23:12:27.712Z",
+  updatedAt: "2026-09-21T15:25:48.000Z",
 } as const satisfies TemperSpecialEffectType

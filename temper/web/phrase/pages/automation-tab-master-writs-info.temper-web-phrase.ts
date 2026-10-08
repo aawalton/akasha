@@ -6,4 +6,6 @@ export const automationTabMasterWritsInfo = {
   slug: "automation-tab-master-writs-info",
   title:
     "Enable automated master-writ (sealed writ) crafting for all characters. Off by default — master writs consume expensive materials. Independent of daily writs.",
+  createdAt: "2026-09-27T11:42:12.167Z",
+  updatedAt: "2026-09-27T11:42:22.000Z",
 } as const satisfies TemperWebPhrase

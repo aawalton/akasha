@@ -5,4 +5,6 @@ export const foodDrinkSelectDialogEmpty = {
   type: "page-type/temper-web-phrase",
   slug: "food-drink-select-dialog-empty",
   title: "No food or drinks found.",
+  createdAt: "2026-09-27T11:31:19.933Z",
+  updatedAt: "2026-09-27T11:31:29.000Z",
 } as const satisfies TemperWebPhrase

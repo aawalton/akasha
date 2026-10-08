@@ -5,4 +5,6 @@ export const companionEditorContentRemixName = {
   type: "page-type/temper-web-phrase",
   slug: "companion-editor-content-remix-name",
   title: "{name} (Copy)",
+  createdAt: "2026-09-27T11:33:10.815Z",
+  updatedAt: "2026-09-27T11:33:20.000Z",
 } as const satisfies TemperWebPhrase
