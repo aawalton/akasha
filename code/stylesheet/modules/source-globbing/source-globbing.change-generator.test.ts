@@ -243,8 +243,8 @@ test("a code file added in an app's own tree moves the globs", () => {
   expect(turnsOver({ came: ["one/app/fresh.tsx"], app: true })).toBe(true)
 })
 
-test("a code file added that a reached file names moves the globs", () => {
-  expect(turnsOver({ came: ["design/look/look.module.code.tsx"] })).toBe(true)
+test("a file added whose name a reached file's text holds moves no glob", () => {
+  expect(turnsOver({ came: ["agent/seat/pages/look/look.seat.ts"] })).toBe(false)
 })
 
 test("a code file added that a pattern in a reached file matches moves the globs", () => {

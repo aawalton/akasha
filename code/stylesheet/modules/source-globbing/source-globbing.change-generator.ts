@@ -111,17 +111,11 @@ export const sourceGlobbing = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "An added code file moves the globs where it sits in an app's tree or a reached file could name it.",
+        "An added code file moves the globs where it sits in an app's tree or a reached pattern matches it.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement:
-        "A reached file names an added file where its text holds that name or a pattern it spells matches.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement:
-        "A name is held here as what comes before its first dot, so a doubtful name moves the globs.",
+      statement: "A reached file's text holding an added file's name moves no glob.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -172,5 +166,5 @@ export const sourceGlobbing = {
     },
   ],
   createdAt: "2026-09-08T19:51:59.796Z",
-  updatedAt: "2026-09-25T14:22:35.000Z",
+  updatedAt: "2026-10-08T15:37:58.402Z",
 } as const satisfies ChangeGenerator

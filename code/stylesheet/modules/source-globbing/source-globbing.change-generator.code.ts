@@ -292,26 +292,17 @@ function inAppTree(change: Change, path: string): boolean {
   return false
 }
 
-function stemOf(path: string): string {
-  const name = path.slice(path.lastIndexOf("/") + 1)
-  const dot = name.indexOf(".")
-  return dot <= 0 ? name : name.slice(0, dot)
-}
-
 function namedFrom(
   root: string,
   reached: readonly string[],
   came: readonly string[],
   read: Map<string, string | null>
 ): boolean {
-  const stems = came.map(stemOf)
   for (const at of reached) {
     const held = read.get(at)
     const body = held === undefined ? textThere(join(root, at)) : held
     read.set(at, body)
-    if (body === null) continue
-    if (stems.some((one) => body.includes(one))) return true
-    if (!body.includes(GLOBBING)) continue
+    if (body === null || !body.includes(GLOBBING)) continue
     for (const pattern of globbedIn(at, body)) {
       const matches = picomatch(join(folderOf(at), pattern))
       if (came.some((one) => matches(one))) return true
