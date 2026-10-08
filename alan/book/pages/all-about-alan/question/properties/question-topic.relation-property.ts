@@ -14,4 +14,6 @@ export const questionTopic = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-06T17:51:48.328Z",
+  updatedAt: "2026-09-22T13:54:40.000Z",
 } as const satisfies RelationProperty

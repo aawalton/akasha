@@ -8,4 +8,6 @@ export const otherwhereTheLibrarySkillCharacter = {
   definition: "the character holding a skill in Otherwhere",
   targetPageType: "page-type/world-character",
   types: "ts",
+  createdAt: "2026-09-28T12:23:57.470Z",
+  updatedAt: "2026-09-28T22:48:45.000Z",
 } as const satisfies RelationProperty

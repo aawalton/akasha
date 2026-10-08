@@ -8,4 +8,6 @@ export const otherwhereViiiArtSkill = {
   definition: "the work of the world a work learned in Otherwhere VIII is a holding of",
   targetPageType: "page-type/world-skill",
   types: "ts",
+  createdAt: "2026-09-28T23:10:19.907Z",
+  updatedAt: "2026-09-28T23:10:26.000Z",
 } as const satisfies RelationProperty

@@ -9,4 +9,6 @@ export const homeSearchIgnore = {
   placedBy: "link",
   onlyOn: "any",
   installPath: "~/.ignore",
+  createdAt: "2026-09-03T17:48:13.020Z",
+  updatedAt: "2026-09-22T13:54:50.000Z",
 } as const satisfies ProvisionedFile

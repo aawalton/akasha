@@ -8,4 +8,6 @@ export const stepStatus = {
   definition: "whose move a turn or a written chapter being made waits on",
   targetPageType: "page-type/step-status",
   types: "ts",
+  createdAt: "2026-09-26T17:05:24.185Z",
+  updatedAt: "2026-09-28T18:50:04.000Z",
 } as const satisfies RelationProperty

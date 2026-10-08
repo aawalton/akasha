@@ -7,4 +7,6 @@ export const rejection20260918ResubmittedThe10dlcCampaign = {
   title: "Resubmitted the 10DLC campaign",
   happenedAt: "2026-09-18T13:00:00.000Z",
   rejected: false,
+  createdAt: "2026-09-18T15:13:01.465Z",
+  updatedAt: "2026-09-18T15:13:44.000Z",
 } as const satisfies Rejection

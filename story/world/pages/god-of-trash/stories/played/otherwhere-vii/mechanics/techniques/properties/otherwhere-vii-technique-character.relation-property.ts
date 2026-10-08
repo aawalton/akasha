@@ -8,4 +8,6 @@ export const otherwhereViiTechniqueCharacter = {
   definition: "the character who has learned a technique in Otherwhere VII",
   targetPageType: "page-type/world-character",
   types: "ts",
+  createdAt: "2026-09-28T23:03:31.408Z",
+  updatedAt: "2026-09-28T23:03:38.000Z",
 } as const satisfies RelationProperty

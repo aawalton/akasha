@@ -13,4 +13,6 @@ export const voiceHls = {
       statement: "A player joins a narration at its first piece rather than at the newest one.",
     },
   ],
+  createdAt: "2026-10-05T20:30:02.169Z",
+  updatedAt: "2026-10-05T20:53:10.000Z",
 } as const satisfies PythonModule

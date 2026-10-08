@@ -8,4 +8,6 @@ export const startMode = {
   definition: "how an agent in a seat is started",
   targetPageType: "page-type/seat-mode",
   types: "ts",
+  createdAt: "2026-08-30T16:51:31.621Z",
+  updatedAt: "2026-09-25T14:47:40.000Z",
 } as const satisfies RelationProperty

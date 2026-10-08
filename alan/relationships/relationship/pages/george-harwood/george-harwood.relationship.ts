@@ -6,4 +6,6 @@ export const georgeHarwood = {
   slug: "george-harwood",
   title: "George Harwood",
   relationshipLinkedinUrl: "https://www.linkedin.com/in/george-harwood-2a733965",
+  createdAt: "2026-04-22T12:39:34.019Z",
+  updatedAt: "2026-09-25T13:01:00.000Z",
 } as const satisfies Relationship

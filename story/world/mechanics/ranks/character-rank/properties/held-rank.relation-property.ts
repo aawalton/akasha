@@ -8,4 +8,6 @@ export const heldRank = {
   definition: "the world's rank a rank held is a holding of",
   targetPageType: "page-type/world-rank",
   types: "ts",
+  createdAt: "2026-10-03T20:09:07.490Z",
+  updatedAt: "2026-10-03T20:09:11.000Z",
 } as const satisfies RelationProperty

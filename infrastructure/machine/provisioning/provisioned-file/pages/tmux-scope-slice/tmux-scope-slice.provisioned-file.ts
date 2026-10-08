@@ -24,4 +24,6 @@ export const tmuxScopeSlice = {
       statement: "A scope already running keeps the control group that scope was made in.",
     },
   ],
+  createdAt: "2026-09-11T22:01:08.029Z",
+  updatedAt: "2026-09-22T13:59:20.000Z",
 } as const satisfies ProvisionedFile

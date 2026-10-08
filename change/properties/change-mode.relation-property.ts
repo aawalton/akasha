@@ -8,4 +8,6 @@ export const changeMode = {
   definition: "the change mode a change is",
   targetPageType: "page-type/change-mode",
   types: "ts",
+  createdAt: "2026-09-07T13:52:41.910Z",
+  updatedAt: "2026-09-15T16:30:55.000Z",
 } as const satisfies RelationProperty

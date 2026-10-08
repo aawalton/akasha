@@ -8,4 +8,6 @@ export const overwhereIiTalentTalent = {
   definition: "the Talent a character holds in Overwhere II",
   targetPageType: "page-type/world-skill",
   types: "ts",
+  createdAt: "2026-09-29T12:16:07.732Z",
+  updatedAt: "2026-09-29T12:16:13.000Z",
 } as const satisfies RelationProperty

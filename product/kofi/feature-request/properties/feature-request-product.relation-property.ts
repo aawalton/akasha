@@ -23,4 +23,6 @@ export const featureRequestProduct = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-21T15:47:40.229Z",
+  updatedAt: "2026-09-25T20:09:06.000Z",
 } as const satisfies RelationProperty

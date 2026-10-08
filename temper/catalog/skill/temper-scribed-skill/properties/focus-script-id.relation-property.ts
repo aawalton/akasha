@@ -8,4 +8,6 @@ export const focusScriptId = {
   definition: "a scribed skill's focus script",
   targetPageType: "page-type/temper-focus-script",
   types: "ts",
+  createdAt: "2026-09-02T01:45:21.026Z",
+  updatedAt: "2026-09-22T16:20:11.000Z",
 } as const satisfies RelationProperty

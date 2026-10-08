@@ -14,4 +14,6 @@ export const slideImage = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-25T12:56:15.570Z",
+  updatedAt: "2026-09-25T12:56:26.000Z",
 } as const satisfies RelationProperty

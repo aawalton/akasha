@@ -8,4 +8,6 @@ export const scale = {
   definition: "a reading's scale",
   targetPageType: "page-type/readout-scale",
   types: "ts",
+  createdAt: "2026-08-30T20:05:28.036Z",
+  updatedAt: "2026-09-22T13:46:30.000Z",
 } as const satisfies RelationProperty

@@ -45,4 +45,6 @@ export const oneOf = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-12T11:08:34.557Z",
+  updatedAt: "2026-09-25T14:17:28.000Z",
 } as const satisfies RelationProperty

@@ -22,4 +22,6 @@ export const backgroundSliceShare = {
       statement: "The services and the seats hold the same share as each other.",
     },
   ],
+  createdAt: "2026-09-12T00:39:49.522Z",
+  updatedAt: "2026-09-24T23:03:02.000Z",
 } as const satisfies ProvisionedFile

@@ -5,4 +5,6 @@ export const fronted = {
   type: "page-type/prose-frame",
   slug: "fronted",
   definition: "a word whose object comes before it",
+  createdAt: "2026-09-08T18:22:44.566Z",
+  updatedAt: "2026-09-25T15:41:48.000Z",
 } as const satisfies ProseFrame

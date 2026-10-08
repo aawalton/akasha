@@ -4,4 +4,6 @@ export const armsRaised = {
   id: "01a0e37e-9431-7f7e-93fc-763caf5ff156",
   type: "page-type/pose-tag",
   slug: "arms-raised",
+  createdAt: "2026-09-27T15:31:58.641Z",
+  updatedAt: "2026-09-27T15:32:02.000Z",
 } as const satisfies PoseTag

@@ -8,4 +8,6 @@ export const chessGame = {
   definition: "a session's game",
   targetPageType: "page-type/chess-game",
   types: "ts",
+  createdAt: "2026-09-03T17:44:27.723Z",
+  updatedAt: "2026-09-22T13:50:37.000Z",
 } as const satisfies RelationProperty

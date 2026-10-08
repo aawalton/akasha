@@ -18,4 +18,6 @@ export const titleColoredBy = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-24T15:33:47.457Z",
+  updatedAt: "2026-09-24T15:34:40.000Z",
 } as const satisfies RelationProperty

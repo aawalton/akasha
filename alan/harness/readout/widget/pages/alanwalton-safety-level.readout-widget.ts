@@ -17,4 +17,6 @@ export const alanwaltonSafetyLevel = {
     "capacitor://localhost/nav/tracking-690c624f?tab=019edbf5-d4ea-7380-a6be-bc7496dbb24c#widget=alanwalton-safety-level",
   groups: ["readout-group/safety"],
   place: 9,
+  createdAt: "2026-09-02T21:57:39.545Z",
+  updatedAt: "2026-09-15T16:23:51.000Z",
 } as const satisfies ReadoutWidget

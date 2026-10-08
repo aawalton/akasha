@@ -8,4 +8,6 @@ export const carModel = {
   definition: "this year's nameplate",
   targetPageType: "page-type/car-model",
   types: "ts",
+  createdAt: "2026-09-03T04:53:12.371Z",
+  updatedAt: "2026-09-22T13:59:16.000Z",
 } as const satisfies RelationProperty

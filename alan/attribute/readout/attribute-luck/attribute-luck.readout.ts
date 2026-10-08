@@ -40,4 +40,6 @@ export const attributeLuck = {
     },
   ],
   carriedTo: ["router-app/alan-web"],
+  createdAt: "2026-09-15T19:56:40.218Z",
+  updatedAt: "2026-09-25T17:20:07.000Z",
 } as const satisfies Readout

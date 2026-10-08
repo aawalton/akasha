@@ -58,4 +58,6 @@ export const inboxesGaps = {
     },
   ],
   carriedTo: ["router-app/alan-web"],
+  createdAt: "2026-09-24T19:32:35.916Z",
+  updatedAt: "2026-09-26T13:32:22.000Z",
 } as const satisfies Readout

@@ -8,4 +8,6 @@ export const skillType = {
   definition: "the sort of skill a page is about",
   targetPageType: "page-type/temper-skill-type",
   types: "ts",
+  createdAt: "2026-09-02T01:27:53.147Z",
+  updatedAt: "2026-09-22T15:39:51.000Z",
 } as const satisfies RelationProperty

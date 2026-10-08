@@ -8,4 +8,6 @@ export const creditedArtist = {
   definition: "the artist page a credit on a track names",
   targetPageType: "page-type/artist",
   types: "ts",
+  createdAt: "2026-09-24T19:51:40.600Z",
+  updatedAt: "2026-09-24T19:51:56.000Z",
 } as const satisfies RelationProperty

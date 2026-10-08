@@ -24,4 +24,6 @@ export const desktopWallpaper = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-21T22:37:23.704Z",
+  updatedAt: "2026-09-21T22:39:54.000Z",
 } as const satisfies RelationProperty

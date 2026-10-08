@@ -8,4 +8,6 @@ export const dandan = {
   relationshipCurrentCircle: "acquaintances",
   relationshipMetAt: "ESO Tavern 2026",
   relationshipNotes: "txt",
+  createdAt: "2026-07-10T18:15:33.805Z",
+  updatedAt: "2026-09-25T13:01:00.000Z",
 } as const satisfies Relationship

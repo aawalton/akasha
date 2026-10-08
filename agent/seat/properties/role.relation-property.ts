@@ -8,4 +8,6 @@ export const role = {
   definition: "the role of a persona or a seat",
   targetPageType: "page-type/role",
   types: "ts",
+  createdAt: "2026-08-30T01:07:35.561Z",
+  updatedAt: "2026-09-25T18:08:54.000Z",
 } as const satisfies RelationProperty

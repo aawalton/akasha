@@ -49,4 +49,6 @@ export const characterConditions = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-25T12:55:30.206Z",
+  updatedAt: "2026-09-25T12:55:35.000Z",
 } as const satisfies RecordProperty

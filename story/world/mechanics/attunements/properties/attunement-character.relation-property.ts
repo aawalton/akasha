@@ -8,4 +8,6 @@ export const attunementCharacter = {
   definition: "the character an attunement is of",
   targetPageType: "page-type/world-character",
   types: "ts",
+  createdAt: "2026-09-22T18:46:11.973Z",
+  updatedAt: "2026-09-26T17:44:02.000Z",
 } as const satisfies RelationProperty

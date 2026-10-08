@@ -58,4 +58,6 @@ export const inboxesFindings = {
     },
   ],
   carriedTo: ["router-app/alan-web"],
+  createdAt: "2026-09-24T17:30:30.386Z",
+  updatedAt: "2026-09-26T13:32:22.000Z",
 } as const satisfies Readout

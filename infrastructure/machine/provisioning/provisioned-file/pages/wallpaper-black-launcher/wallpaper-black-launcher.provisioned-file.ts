@@ -9,4 +9,6 @@ export const wallpaperBlackLauncher = {
   placedBy: "link",
   onlyOn: "linux",
   installPath: "~/.local/share/applications/wallpaper-black.desktop",
+  createdAt: "2026-09-03T17:48:13.020Z",
+  updatedAt: "2026-09-15T16:18:59.000Z",
 } as const satisfies ProvisionedFile

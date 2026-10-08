@@ -34,4 +34,6 @@ export const carriedBy = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-21T18:14:37.605Z",
+  updatedAt: "2026-09-22T00:49:24.000Z",
 } as const satisfies RecordProperty

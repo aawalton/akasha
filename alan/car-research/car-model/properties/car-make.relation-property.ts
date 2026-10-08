@@ -8,4 +8,6 @@ export const carMake = {
   definition: "the make that builds this nameplate",
   targetPageType: "page-type/car-make",
   types: "ts",
+  createdAt: "2026-09-03T04:50:05.893Z",
+  updatedAt: "2026-09-15T16:30:55.000Z",
 } as const satisfies RelationProperty

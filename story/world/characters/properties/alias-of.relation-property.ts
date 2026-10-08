@@ -31,4 +31,6 @@ export const aliasOf = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-19T00:37:04.323Z",
+  updatedAt: "2026-09-22T13:25:39.000Z",
 } as const satisfies RelationProperty

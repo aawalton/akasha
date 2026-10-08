@@ -26,4 +26,6 @@ export const codeSync = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-25T16:31:23.718Z",
+  updatedAt: "2026-09-25T16:31:40.000Z",
 } as const satisfies RecordProperty

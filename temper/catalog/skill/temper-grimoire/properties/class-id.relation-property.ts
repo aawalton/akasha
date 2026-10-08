@@ -8,4 +8,6 @@ export const classId = {
   definition: "the class for which a script reads differently",
   targetPageType: "page-type/temper-class",
   types: "ts",
+  createdAt: "2026-09-02T01:45:21.025Z",
+  updatedAt: "2026-09-22T15:42:01.000Z",
 } as const satisfies RelationProperty

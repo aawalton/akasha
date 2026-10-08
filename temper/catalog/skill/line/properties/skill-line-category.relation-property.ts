@@ -8,4 +8,6 @@ export const skillLineCategory = {
   definition: "the group of lines a skill line is one of",
   targetPageType: "page-type/temper-skill-line-category",
   types: "ts",
+  createdAt: "2026-09-22T21:41:21.688Z",
+  updatedAt: "2026-09-22T21:41:48.000Z",
 } as const satisfies RelationProperty

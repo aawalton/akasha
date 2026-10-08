@@ -14,4 +14,6 @@ export const completionCategoryParent = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-22T20:48:19.662Z",
+  updatedAt: "2026-09-22T20:48:39.000Z",
 } as const satisfies RelationProperty

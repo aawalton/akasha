@@ -39,4 +39,6 @@ export const externalIdentity = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-13T16:37:47.223Z",
+  updatedAt: "2026-09-22T00:50:00.000Z",
 } as const satisfies RecordProperty

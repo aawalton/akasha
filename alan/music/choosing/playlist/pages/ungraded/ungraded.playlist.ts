@@ -11,4 +11,6 @@ export const ungraded = {
       externalLink: "https://open.spotify.com/playlist/1O7t6LaH38jExi1Z5LFNUV",
     },
   ],
+  createdAt: "2026-09-21T19:50:04.094Z",
+  updatedAt: "2026-09-21T19:50:17.000Z",
 } as const satisfies Playlist

@@ -30,4 +30,6 @@ export const mediaConfig = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-02T15:24:15.605Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies RecordProperty

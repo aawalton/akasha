@@ -38,4 +38,6 @@ export const detailConfig = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-03T17:04:11.786Z",
+  updatedAt: "2026-09-22T10:05:52.000Z",
 } as const satisfies RecordProperty

@@ -19,4 +19,6 @@ export const siteDocumentSections = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-24T23:03:23.750Z",
+  updatedAt: "2026-09-24T23:03:48.000Z",
 } as const satisfies RecordProperty

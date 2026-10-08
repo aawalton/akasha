@@ -60,4 +60,6 @@ export const monarchUnreviewedTransactions = {
     },
   ],
   carriedTo: ["router-app/alan-web", "router-app/smilingjenny-web"],
+  createdAt: "2026-08-30T17:15:09.786Z",
+  updatedAt: "2026-10-06T11:46:45.000Z",
 } as const satisfies Readout

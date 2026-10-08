@@ -9,4 +9,6 @@ export const sleepHours = {
   yellowAt: 7,
   greenAt: 8,
   blueAt: 9,
+  createdAt: "2026-09-02T12:38:40.779Z",
+  updatedAt: "2026-09-15T16:23:31.000Z",
 } as const satisfies ReadoutScale

@@ -8,4 +8,6 @@ export const conditionField = {
   definition: "the test a condition of a rule names",
   targetPageType: "page-type/temper-condition-field",
   types: "ts",
+  createdAt: "2026-09-02T01:51:17.155Z",
+  updatedAt: "2026-09-22T10:19:09.000Z",
 } as const satisfies RelationProperty

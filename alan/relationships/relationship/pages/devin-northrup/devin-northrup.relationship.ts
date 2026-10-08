@@ -12,4 +12,6 @@ export const devinNorthrup = {
   relationshipInterest: 4,
   relationshipLinkedinUrl: "https://www.linkedin.com/in/devinnorthrup",
   relationshipPhone: "+18014716831",
+  createdAt: "2026-04-22T12:39:34.021Z",
+  updatedAt: "2026-09-25T13:01:00.000Z",
 } as const satisfies Relationship

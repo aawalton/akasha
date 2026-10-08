@@ -16,4 +16,6 @@ export const alanwaltonCategorize = {
   opens: "capacitor://monarch-relay#widget=alanwalton-categorize",
   groups: ["readout-group/categorization"],
   place: 7,
+  createdAt: "2026-08-30T22:37:11.972Z",
+  updatedAt: "2026-09-15T16:23:51.000Z",
 } as const satisfies ReadoutWidget

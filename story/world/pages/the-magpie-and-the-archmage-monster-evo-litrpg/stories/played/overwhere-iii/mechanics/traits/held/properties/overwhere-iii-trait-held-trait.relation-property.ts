@@ -8,4 +8,6 @@ export const overwhereIiiTraitHeldTrait = {
   definition: "the trait a trait held in Overwhere III is a holding of",
   targetPageType: "page-type/overwhere-iii-trait",
   types: "ts",
+  createdAt: "2026-09-29T12:20:41.292Z",
+  updatedAt: "2026-09-29T12:20:46.000Z",
 } as const satisfies RelationProperty

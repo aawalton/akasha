@@ -8,4 +8,6 @@ export const changeTargetType = {
   definition: "the change target type a page names",
   targetPageType: "page-type/change-target-type",
   types: "ts",
+  createdAt: "2026-09-07T15:15:18.217Z",
+  updatedAt: "2026-09-15T16:30:55.000Z",
 } as const satisfies RelationProperty

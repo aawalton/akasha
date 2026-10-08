@@ -8,4 +8,6 @@ export const goal = {
   definition: "a player's reason for keeping the item",
   targetPageType: "page-type/temper-rule-goal",
   types: "ts",
+  createdAt: "2026-09-02T01:51:17.157Z",
+  updatedAt: "2026-09-22T14:14:30.000Z",
 } as const satisfies RelationProperty

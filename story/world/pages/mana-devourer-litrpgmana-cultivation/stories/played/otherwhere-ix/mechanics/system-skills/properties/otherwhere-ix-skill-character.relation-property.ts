@@ -8,4 +8,6 @@ export const otherwhereIxSkillCharacter = {
   definition: "the character holding a skill in Otherwhere IX",
   targetPageType: "page-type/world-character",
   types: "ts",
+  createdAt: "2026-09-28T23:04:28.399Z",
+  updatedAt: "2026-09-28T23:04:34.000Z",
 } as const satisfies RelationProperty

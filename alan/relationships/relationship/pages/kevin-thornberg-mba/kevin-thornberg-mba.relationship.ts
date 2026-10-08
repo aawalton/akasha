@@ -6,4 +6,6 @@ export const kevinThornbergMba = {
   slug: "kevin-thornberg-mba",
   title: "Kevin Thornberg, Mba",
   relationshipLinkedinUrl: "https://www.linkedin.com/in/kevinthornberg",
+  createdAt: "2026-04-22T12:39:34.020Z",
+  updatedAt: "2026-09-25T13:01:00.000Z",
 } as const satisfies Relationship

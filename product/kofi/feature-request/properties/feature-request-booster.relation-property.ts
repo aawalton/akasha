@@ -8,4 +8,6 @@ export const featureRequestBooster = {
   definition: "the contributor who boosted a feature request with points",
   targetPageType: "page-type/contributor",
   types: "ts",
+  createdAt: "2026-09-21T15:48:58.153Z",
+  updatedAt: "2026-09-21T23:18:09.000Z",
 } as const satisfies RelationProperty

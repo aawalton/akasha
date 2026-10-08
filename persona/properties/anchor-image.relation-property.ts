@@ -18,4 +18,6 @@ export const anchorImage = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-21T21:41:07.215Z",
+  updatedAt: "2026-09-21T21:41:46.000Z",
 } as const satisfies RelationProperty

@@ -19,4 +19,6 @@ export const rolePrimaryBreakdownRow = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-27T04:17:40.388Z",
+  updatedAt: "2026-09-27T04:17:48.000Z",
 } as const satisfies RelationProperty

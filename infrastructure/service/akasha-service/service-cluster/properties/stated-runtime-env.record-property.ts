@@ -17,4 +17,6 @@ export const statedRuntimeEnv = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-25T00:00:41.794Z",
+  updatedAt: "2026-09-25T00:01:04.000Z",
 } as const satisfies RecordProperty

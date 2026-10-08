@@ -8,4 +8,6 @@ export const partOfSpeech = {
   definition: "the job a word does in a phrase",
   targetPageType: "page-type/part-of-speech",
   types: "ts",
+  createdAt: "2026-09-21T19:16:09.548Z",
+  updatedAt: "2026-09-25T15:41:48.000Z",
 } as const satisfies RelationProperty

@@ -8,4 +8,6 @@ export const sourceEffectMetric = {
   definition: "the stat an effect source moves",
   targetPageType: "page-type/temper-metric",
   types: "ts",
+  createdAt: "2026-09-26T20:00:00.472Z",
+  updatedAt: "2026-09-26T20:00:05.000Z",
 } as const satisfies RelationProperty

@@ -14,4 +14,6 @@ export const upkeep = {
     "module/stoplights-activity-pushing",
     "route/stoplights-activity",
   ],
+  createdAt: "2026-09-02T11:54:28.932Z",
+  updatedAt: "2026-09-25T17:47:51.000Z",
 } as const satisfies ReadoutGroup

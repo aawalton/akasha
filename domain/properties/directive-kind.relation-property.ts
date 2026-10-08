@@ -8,4 +8,6 @@ export const directiveKind = {
   definition: "which sort of directive an entry is",
   targetPageType: "page-type/directive-kind",
   types: "ts",
+  createdAt: "2026-08-29T15:25:01.814Z",
+  updatedAt: "2026-09-22T10:11:09.000Z",
 } as const satisfies RelationProperty

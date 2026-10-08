@@ -8,4 +8,6 @@ export const stylesheetColor = {
   definition: "the color page whose hex a stylesheet writes to a custom property",
   targetPageType: "page-type/color",
   types: "ts",
+  createdAt: "2026-09-24T22:36:11.204Z",
+  updatedAt: "2026-09-24T22:36:34.000Z",
 } as const satisfies RelationProperty

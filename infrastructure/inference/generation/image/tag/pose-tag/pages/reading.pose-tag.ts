@@ -4,4 +4,6 @@ export const reading = {
   id: "01a0e37e-9433-755c-91fb-163c65773467",
   type: "page-type/pose-tag",
   slug: "reading",
+  createdAt: "2026-09-27T15:31:58.643Z",
+  updatedAt: "2026-09-27T15:32:02.000Z",
 } as const satisfies PoseTag

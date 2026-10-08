@@ -15,4 +15,6 @@ export const smilingjennyCost = {
   galleryDescription: "What an hour of the block Alan is in costs him.",
   groups: ["readout-group/cost"],
   place: 4,
+  createdAt: "2026-09-10T14:25:51.577Z",
+  updatedAt: "2026-09-15T16:23:51.000Z",
 } as const satisfies ReadoutWidget

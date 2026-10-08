@@ -8,4 +8,6 @@ export const championedDomain = {
   definition: "the domain a persona champions",
   targetPageType: "page-type/domain",
   types: "ts",
+  createdAt: "2026-08-30T15:29:46.745Z",
+  updatedAt: "2026-09-15T16:30:55.000Z",
 } as const satisfies RelationProperty

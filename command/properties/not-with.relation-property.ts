@@ -27,4 +27,6 @@ export const notWith = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-12T07:27:17.316Z",
+  updatedAt: "2026-09-22T10:09:10.000Z",
 } as const satisfies RelationProperty

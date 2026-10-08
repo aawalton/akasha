@@ -8,4 +8,6 @@ export const pieceArmorWeight = {
   definition: "how heavy a companion's piece of armor is made",
   targetPageType: "page-type/temper-companion-armor-weight",
   types: "ts",
+  createdAt: "2026-09-27T02:43:57.746Z",
+  updatedAt: "2026-09-27T02:54:48.000Z",
 } as const satisfies RelationProperty

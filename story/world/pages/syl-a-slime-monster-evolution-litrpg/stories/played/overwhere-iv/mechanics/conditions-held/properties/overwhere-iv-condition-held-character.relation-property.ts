@@ -8,4 +8,6 @@ export const overwhereIvConditionHeldCharacter = {
   definition: "the character under a condition in Overwhere IV",
   targetPageType: "page-type/world-character",
   types: "ts",
+  createdAt: "2026-09-30T09:52:19.840Z",
+  updatedAt: "2026-09-30T09:52:25.000Z",
 } as const satisfies RelationProperty

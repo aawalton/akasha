@@ -4,4 +4,6 @@ export const frontView = {
   id: "01a0e37e-9432-73d4-b983-4286f1999879",
   type: "page-type/pose-tag",
   slug: "front-view",
+  createdAt: "2026-09-27T15:31:58.642Z",
+  updatedAt: "2026-09-27T15:32:02.000Z",
 } as const satisfies PoseTag

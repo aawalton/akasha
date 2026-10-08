@@ -45,4 +45,6 @@ export const inboxesTasks = {
   ],
   carriedTo: ["router-app/alan-web"],
   madeFrom: "day-row",
+  createdAt: "2026-09-02T12:55:53.430Z",
+  updatedAt: "2026-09-26T13:32:22.000Z",
 } as const satisfies Readout

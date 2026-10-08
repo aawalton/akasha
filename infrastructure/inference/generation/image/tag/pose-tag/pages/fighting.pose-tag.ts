@@ -4,4 +4,6 @@ export const fighting = {
   id: "01a0e37e-9432-7298-abe2-481adfe50963",
   type: "page-type/pose-tag",
   slug: "fighting",
+  createdAt: "2026-09-27T15:31:58.642Z",
+  updatedAt: "2026-09-27T15:32:02.000Z",
 } as const satisfies PoseTag

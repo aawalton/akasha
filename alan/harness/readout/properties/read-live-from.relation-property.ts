@@ -14,4 +14,6 @@ export const readLiveFrom = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-03T03:39:45.868Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies RelationProperty

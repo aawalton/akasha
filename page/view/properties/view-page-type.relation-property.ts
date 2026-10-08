@@ -22,4 +22,6 @@ export const viewPageType = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-06T22:23:30.193Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies RelationProperty

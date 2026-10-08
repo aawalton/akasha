@@ -8,4 +8,6 @@ export const initiativePersona = {
   definition: "the persona whose work an initiative is",
   targetPageType: "page-type/persona",
   types: "ts",
+  createdAt: "2026-09-04T16:56:01.901Z",
+  updatedAt: "2026-09-15T16:30:55.000Z",
 } as const satisfies RelationProperty

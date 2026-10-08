@@ -27,4 +27,6 @@ export const categorization = {
       statement: "The tap opens Monarch filtered only where Monarch was not already running.",
     },
   ],
+  createdAt: "2026-08-30T20:21:22.097Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies ReadoutGroup

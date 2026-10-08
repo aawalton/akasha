@@ -8,4 +8,6 @@ export const climbFloorCharacter = {
   definition: "the character a floor of The Climb sets its task for",
   targetPageType: "page-type/world-character",
   types: "ts",
+  createdAt: "2026-10-01T21:16:56.845Z",
+  updatedAt: "2026-10-01T21:17:02.000Z",
 } as const satisfies RelationProperty

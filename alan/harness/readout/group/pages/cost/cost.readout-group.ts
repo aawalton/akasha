@@ -17,4 +17,6 @@ export const cost = {
       statement: "The color this group draws is read with the surplus rather than off a scale.",
     },
   ],
+  createdAt: "2026-09-10T13:57:30.393Z",
+  updatedAt: "2026-09-25T16:48:43.000Z",
 } as const satisfies ReadoutGroup

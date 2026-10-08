@@ -18,4 +18,6 @@ export const sectionOf = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-08T15:00:59.344Z",
+  updatedAt: "2026-09-25T13:02:31.000Z",
 } as const satisfies RelationProperty

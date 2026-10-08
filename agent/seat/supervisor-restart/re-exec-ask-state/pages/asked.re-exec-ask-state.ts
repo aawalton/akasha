@@ -5,4 +5,6 @@ export const asked = {
   type: "page-type/re-exec-ask-state",
   slug: "asked",
   title: "Asked",
+  createdAt: "2026-09-24T19:06:18.262Z",
+  updatedAt: "2026-09-24T19:07:12.000Z",
 } as const satisfies ReExecAskState

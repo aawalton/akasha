@@ -8,4 +8,6 @@ export const macbookBrewfile = {
   content: "conf",
   placedBy: "read-where-it-stands",
   onlyOn: "macos",
+  createdAt: "2026-09-03T17:48:13.021Z",
+  updatedAt: "2026-09-15T16:18:59.000Z",
 } as const satisfies ProvisionedFile

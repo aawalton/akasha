@@ -26,4 +26,6 @@ export const podmanSliceShare = {
       statement: "A container already running takes the new share without being started again.",
     },
   ],
+  createdAt: "2026-09-12T00:43:41.407Z",
+  updatedAt: "2026-09-24T23:03:02.000Z",
 } as const satisfies ProvisionedFile

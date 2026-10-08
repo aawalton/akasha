@@ -44,4 +44,6 @@ export const inboxesEmail = {
     },
   ],
   carriedTo: ["router-app/alan-web"],
+  createdAt: "2026-09-02T12:55:53.429Z",
+  updatedAt: "2026-09-26T13:32:22.000Z",
 } as const satisfies Readout

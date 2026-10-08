@@ -14,4 +14,6 @@ export const effectTarget = {
     { pageProperty: "number-property/max-targets", required: false, many: false },
   ],
   types: "ts",
+  createdAt: "2026-09-02T10:06:56.376Z",
+  updatedAt: "2026-09-21T15:26:51.000Z",
 } as const satisfies RecordProperty

@@ -23,4 +23,6 @@ export const bonusEffects = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-02T01:53:02.006Z",
+  updatedAt: "2026-09-24T15:15:21.000Z",
 } as const satisfies RecordProperty

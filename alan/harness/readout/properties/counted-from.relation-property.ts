@@ -18,4 +18,6 @@ export const countedFrom = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-24T18:24:39.704Z",
+  updatedAt: "2026-09-24T18:24:46.000Z",
 } as const satisfies RelationProperty

@@ -8,4 +8,6 @@ export const requestedAction = {
   definition: "what a seat's supervisor has to do",
   targetPageType: "page-type/supervisor-action",
   types: "ts",
+  createdAt: "2026-08-30T19:36:58.509Z",
+  updatedAt: "2026-09-25T18:07:07.000Z",
 } as const satisfies RelationProperty

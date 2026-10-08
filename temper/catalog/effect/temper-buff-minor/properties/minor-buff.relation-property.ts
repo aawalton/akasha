@@ -8,4 +8,6 @@ export const minorBuff = {
   definition: "a slug naming a helpful effect the game names Minor",
   targetPageType: "page-type/temper-buff-minor",
   types: "ts",
+  createdAt: "2026-09-22T16:42:32.682Z",
+  updatedAt: "2026-09-22T16:43:07.000Z",
 } as const satisfies RelationProperty

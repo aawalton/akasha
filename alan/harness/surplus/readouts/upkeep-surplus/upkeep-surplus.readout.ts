@@ -74,4 +74,6 @@ export const upkeepSurplus = {
   ],
   carriedTo: ["router-app/alan-web", "router-app/smilingjenny-web"],
   madeFrom: "day-row-and-stretches",
+  createdAt: "2026-09-02T01:36:55.386Z",
+  updatedAt: "2026-09-25T17:20:07.000Z",
 } as const satisfies Readout

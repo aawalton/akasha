@@ -41,4 +41,6 @@ export const weeklyEnds = {
       statement: "Nothing here caches a reading or decides when a reading is taken.",
     },
   ],
+  createdAt: "2026-09-02T20:09:28.102Z",
+  updatedAt: "2026-09-25T16:31:20.000Z",
 } as const satisfies Readout

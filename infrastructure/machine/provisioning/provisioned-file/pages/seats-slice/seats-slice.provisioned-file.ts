@@ -32,4 +32,6 @@ export const seatsSlice = {
       statement: "The seats hold one memory ceiling whether or not the apps want memory.",
     },
   ],
+  createdAt: "2026-09-11T22:00:55.590Z",
+  updatedAt: "2026-09-24T23:03:02.000Z",
 } as const satisfies ProvisionedFile

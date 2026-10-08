@@ -43,4 +43,6 @@ export const trackArtist = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-15T16:41:23.500Z",
+  updatedAt: "2026-09-24T20:31:48.000Z",
 } as const satisfies RecordProperty

@@ -9,4 +9,6 @@ export const backlogCount = {
   orangeAt: 11,
   redAt: 21,
   blackAt: 31,
+  createdAt: "2026-08-30T20:19:22.993Z",
+  updatedAt: "2026-09-15T16:23:31.000Z",
 } as const satisfies ReadoutScale

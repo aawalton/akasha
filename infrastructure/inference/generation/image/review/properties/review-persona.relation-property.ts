@@ -14,4 +14,6 @@ export const reviewPersona = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-26T17:11:52.477Z",
+  updatedAt: "2026-09-26T17:11:56.000Z",
 } as const satisfies RelationProperty

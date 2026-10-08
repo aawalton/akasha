@@ -8,4 +8,6 @@ export const childType = {
   definition: "the page type of the pages a page gathers",
   targetPageType: "page-type/page-type",
   types: "ts",
+  createdAt: "2026-09-03T17:04:11.786Z",
+  updatedAt: "2026-09-15T16:30:55.000Z",
 } as const satisfies RelationProperty

@@ -14,4 +14,6 @@ export const topicMasteryLevel = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-06T19:56:03.383Z",
+  updatedAt: "2026-09-22T14:08:21.000Z",
 } as const satisfies RelationProperty

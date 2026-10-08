@@ -4,4 +4,6 @@ export const backView = {
   id: "01a0e37e-9431-7434-9327-1a3f11540b52",
   type: "page-type/pose-tag",
   slug: "back-view",
+  createdAt: "2026-09-27T15:31:58.641Z",
+  updatedAt: "2026-09-27T15:32:02.000Z",
 } as const satisfies PoseTag

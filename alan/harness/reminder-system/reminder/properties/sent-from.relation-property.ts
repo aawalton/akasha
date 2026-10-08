@@ -8,4 +8,6 @@ export const sentFrom = {
   definition: "the persona sending something",
   targetPageType: "page-type/persona",
   types: "ts",
+  createdAt: "2026-09-01T23:16:51.649Z",
+  updatedAt: "2026-09-22T13:58:57.000Z",
 } as const satisfies RelationProperty

@@ -8,4 +8,6 @@ export const craftDayPersona = {
   definition: "the persona who did the crafting on a day",
   targetPageType: "page-type/persona",
   types: "ts",
+  createdAt: "2026-09-04T17:07:54.590Z",
+  updatedAt: "2026-09-15T16:30:55.000Z",
 } as const satisfies RelationProperty

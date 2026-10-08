@@ -8,4 +8,6 @@ export const otherBuff = {
   definition: "a slug naming a helpful effect the game names neither Major nor Minor",
   targetPageType: "page-type/temper-buff-other",
   types: "ts",
+  createdAt: "2026-09-22T16:42:36.580Z",
+  updatedAt: "2026-09-22T16:43:07.000Z",
 } as const satisfies RelationProperty

@@ -40,4 +40,6 @@ export const weeklyUsage = {
       statement: "Nothing here caches a reading or decides when a reading is taken.",
     },
   ],
+  createdAt: "2026-09-02T20:09:28.102Z",
+  updatedAt: "2026-09-24T19:24:17.000Z",
 } as const satisfies Readout

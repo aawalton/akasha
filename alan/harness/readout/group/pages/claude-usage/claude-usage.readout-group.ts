@@ -27,4 +27,6 @@ export const claudeUsage = {
         "How much of the allowance is spent and how long the allowance has left are two readings.",
     },
   ],
+  createdAt: "2026-09-02T20:09:28.102Z",
+  updatedAt: "2026-09-25T16:48:43.000Z",
 } as const satisfies ReadoutGroup

@@ -14,4 +14,6 @@ export const roleTotalMetric = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-26T19:11:52.910Z",
+  updatedAt: "2026-09-26T19:12:14.000Z",
 } as const satisfies RelationProperty

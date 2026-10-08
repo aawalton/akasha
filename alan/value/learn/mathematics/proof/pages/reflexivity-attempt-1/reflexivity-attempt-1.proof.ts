@@ -9,4 +9,6 @@ export const reflexivityAttempt1 = {
   proofStatus: "draft",
   attempt: 1,
   derivation: "txt",
+  createdAt: "2026-06-28T17:49:49.099Z",
+  updatedAt: "2026-09-15T16:17:58.000Z",
 } as const satisfies Proof

@@ -8,4 +8,6 @@ export const metricOfCharacter = {
   definition: "the character whose metric this is",
   targetPageType: "page-type/world-character",
   types: "ts",
+  createdAt: "2026-09-22T16:51:59.214Z",
+  updatedAt: "2026-09-26T17:44:02.000Z",
 } as const satisfies RelationProperty

@@ -6,4 +6,6 @@ export const danSikora81a0e833 = {
   slug: "dan-sikora-81a0e833",
   title: "Dan Sikora",
   relationshipLinkedinUrl: "https://www.linkedin.com/in/danielsikora",
+  createdAt: "2026-04-22T12:39:34.019Z",
+  updatedAt: "2026-09-25T13:01:00.000Z",
 } as const satisfies Relationship

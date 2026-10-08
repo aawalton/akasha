@@ -8,4 +8,6 @@ export const characterConditionField = {
   definition: "the thing about a character that a leg's character test names",
   targetPageType: "page-type/temper-character-condition-field",
   types: "ts",
+  createdAt: "2026-09-25T12:55:30.205Z",
+  updatedAt: "2026-09-25T12:55:35.000Z",
 } as const satisfies RelationProperty

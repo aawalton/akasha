@@ -8,4 +8,6 @@ export const bundleEntry = {
   definition: "the module where the transpiler starts an addon's Lua file",
   targetPageType: "page-type/module",
   types: "ts",
+  createdAt: "2026-09-02T06:52:50.948Z",
+  updatedAt: "2026-09-22T13:49:27.000Z",
 } as const satisfies RelationProperty

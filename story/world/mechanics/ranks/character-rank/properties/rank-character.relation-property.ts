@@ -8,4 +8,6 @@ export const rankCharacter = {
   definition: "the character a rank held is the rank of",
   targetPageType: "page-type/world-character",
   types: "ts",
+  createdAt: "2026-10-03T20:09:07.490Z",
+  updatedAt: "2026-10-03T20:09:11.000Z",
 } as const satisfies RelationProperty

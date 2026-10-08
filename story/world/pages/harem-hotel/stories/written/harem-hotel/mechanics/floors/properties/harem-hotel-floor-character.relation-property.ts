@@ -8,4 +8,6 @@ export const haremHotelFloorCharacter = {
   definition: "the character a floor of the Harem Hotel sets its task for",
   targetPageType: "page-type/world-character",
   types: "ts",
+  createdAt: "2026-09-28T13:09:12.244Z",
+  updatedAt: "2026-09-28T18:26:26.000Z",
 } as const satisfies RelationProperty

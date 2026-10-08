@@ -8,4 +8,6 @@ export const heldSpecies = {
   definition: "the world's species a species held is a holding of",
   targetPageType: "page-type/world-species",
   types: "ts",
+  createdAt: "2026-09-30T11:21:05.279Z",
+  updatedAt: "2026-09-30T11:21:11.000Z",
 } as const satisfies RelationProperty

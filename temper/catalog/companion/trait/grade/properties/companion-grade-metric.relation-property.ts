@@ -8,4 +8,6 @@ export const companionGradeMetric = {
   definition: "the companion number a grade's worth moves",
   targetPageType: "page-type/temper-companion-passive-metric",
   types: "ts",
+  createdAt: "2026-09-24T14:47:30.982Z",
+  updatedAt: "2026-09-24T14:48:23.000Z",
 } as const satisfies RelationProperty

@@ -22,4 +22,6 @@ export const provision = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-11T13:19:35.081Z",
+  updatedAt: "2026-09-24T19:06:05.000Z",
 } as const satisfies RelationProperty

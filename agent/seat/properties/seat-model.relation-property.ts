@@ -14,4 +14,6 @@ export const seatModel = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-24T18:43:00.561Z",
+  updatedAt: "2026-09-25T18:09:44.000Z",
 } as const satisfies RelationProperty

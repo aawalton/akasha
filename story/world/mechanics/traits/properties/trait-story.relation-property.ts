@@ -8,4 +8,6 @@ export const traitStory = {
   definition: "the story a trait holds in",
   targetPageType: "page-type/story",
   types: "ts",
+  createdAt: "2026-09-22T18:25:02.063Z",
+  updatedAt: "2026-09-26T14:52:24.000Z",
 } as const satisfies RelationProperty

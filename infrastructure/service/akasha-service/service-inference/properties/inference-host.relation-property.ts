@@ -8,4 +8,6 @@ export const inferenceHost = {
   definition: "a service's machine outside the cluster",
   targetPageType: "page-type/host",
   types: "ts",
+  createdAt: "2026-09-11T13:07:23.557Z",
+  updatedAt: "2026-09-24T19:06:05.000Z",
 } as const satisfies RelationProperty

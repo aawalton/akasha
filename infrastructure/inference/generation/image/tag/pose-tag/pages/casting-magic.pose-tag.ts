@@ -4,4 +4,6 @@ export const castingMagic = {
   id: "01a0e37e-9432-72ca-ac62-e1bd538b89ce",
   type: "page-type/pose-tag",
   slug: "casting-magic",
+  createdAt: "2026-09-27T15:31:58.642Z",
+  updatedAt: "2026-09-27T15:32:02.000Z",
 } as const satisfies PoseTag

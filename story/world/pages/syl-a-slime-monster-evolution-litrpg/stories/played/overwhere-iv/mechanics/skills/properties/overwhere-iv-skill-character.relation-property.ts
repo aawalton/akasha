@@ -8,4 +8,6 @@ export const overwhereIvSkillCharacter = {
   definition: "the character holding a skill in Overwhere IV",
   targetPageType: "page-type/world-character",
   types: "ts",
+  createdAt: "2026-09-29T12:19:31.693Z",
+  updatedAt: "2026-09-29T12:19:37.000Z",
 } as const satisfies RelationProperty

@@ -8,4 +8,6 @@ export const placeExitTo = {
   definition: "the place an exit leads to",
   targetPageType: "page-type/place",
   types: "ts",
+  createdAt: "2026-09-24T16:10:48.452Z",
+  updatedAt: "2026-09-24T16:20:45.000Z",
 } as const satisfies RelationProperty

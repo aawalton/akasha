@@ -28,4 +28,6 @@ export const smallestAudioChunk = {
       statement: "The stretch is set live rather than by starting the sound server again.",
     },
   ],
+  createdAt: "2026-09-21T18:07:41.154Z",
+  updatedAt: "2026-09-21T18:08:30.000Z",
 } as const satisfies ProvisionedFile

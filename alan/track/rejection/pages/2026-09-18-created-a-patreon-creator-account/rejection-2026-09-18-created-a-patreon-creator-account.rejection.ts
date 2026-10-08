@@ -7,4 +7,6 @@ export const rejection20260918CreatedAPatreonCreatorAccount = {
   title: "Created a Patreon creator account",
   happenedAt: "2026-09-19T01:42:00.000Z",
   rejected: false,
+  createdAt: "2026-09-19T01:57:23.308Z",
+  updatedAt: "2026-09-19T01:57:41.000Z",
 } as const satisfies Rejection

@@ -8,4 +8,6 @@ export const decisionGroup = {
   definition: "a slug naming a decision group",
   targetPageType: "page-type/decision-group",
   types: "ts",
+  createdAt: "2026-08-29T15:09:32.952Z",
+  updatedAt: "2026-09-15T18:11:04.000Z",
 } as const satisfies RelationProperty

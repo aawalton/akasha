@@ -8,4 +8,6 @@ export const grimoireId = {
   definition: "a scribed skill's grimoire",
   targetPageType: "page-type/temper-grimoire",
   types: "ts",
+  createdAt: "2026-09-02T01:45:21.027Z",
+  updatedAt: "2026-09-22T16:41:17.000Z",
 } as const satisfies RelationProperty

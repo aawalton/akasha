@@ -18,4 +18,6 @@ export const startSymbol = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-21T20:08:55.277Z",
+  updatedAt: "2026-09-25T15:41:48.000Z",
 } as const satisfies RelationProperty

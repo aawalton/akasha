@@ -8,4 +8,6 @@ export const otherwhereVUtilitySkillCharacter = {
   definition: "the character holding a utility skill in Otherwhere V",
   targetPageType: "page-type/world-character",
   types: "ts",
+  createdAt: "2026-09-28T21:52:31.514Z",
+  updatedAt: "2026-09-28T21:52:39.000Z",
 } as const satisfies RelationProperty

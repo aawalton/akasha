@@ -18,4 +18,6 @@ export const placeExits = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-24T16:10:46.793Z",
+  updatedAt: "2026-09-28T14:02:30.000Z",
 } as const satisfies RecordProperty

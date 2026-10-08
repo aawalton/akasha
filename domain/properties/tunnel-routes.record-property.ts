@@ -12,4 +12,6 @@ export const tunnelRoutes = {
     { pageProperty: "text-property/tunnel-route-service", required: true, many: false },
   ],
   types: "ts",
+  createdAt: "2026-09-22T00:37:37.052Z",
+  updatedAt: "2026-09-22T00:49:17.000Z",
 } as const satisfies RecordProperty

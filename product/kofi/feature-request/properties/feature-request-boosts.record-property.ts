@@ -21,4 +21,6 @@ export const featureRequestBoosts = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-21T15:48:58.153Z",
+  updatedAt: "2026-09-22T10:08:53.000Z",
 } as const satisfies RecordProperty

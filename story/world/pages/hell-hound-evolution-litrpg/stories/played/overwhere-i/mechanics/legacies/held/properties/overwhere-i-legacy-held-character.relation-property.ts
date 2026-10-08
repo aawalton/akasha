@@ -8,4 +8,6 @@ export const overwhereILegacyHeldCharacter = {
   definition: "the character holding a legacy in Overwhere I",
   targetPageType: "page-type/world-character",
   types: "ts",
+  createdAt: "2026-09-29T12:15:14.767Z",
+  updatedAt: "2026-09-29T12:15:19.000Z",
 } as const satisfies RelationProperty

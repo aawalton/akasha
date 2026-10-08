@@ -31,4 +31,6 @@ export const tmuxScopeMemory = {
       statement: "The ceiling is half of what the seats hold together.",
     },
   ],
+  createdAt: "2026-09-19T01:04:57.370Z",
+  updatedAt: "2026-09-24T23:03:02.000Z",
 } as const satisfies ProvisionedFile

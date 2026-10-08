@@ -26,4 +26,6 @@ export const voiceNarration = {
       statement: "A chapter also marks where each later sentence of a segment begins once spoken.",
     },
   ],
+  createdAt: "2026-10-05T20:30:02.170Z",
+  updatedAt: "2026-10-06T15:15:42.000Z",
 } as const satisfies PythonModule

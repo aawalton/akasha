@@ -5,4 +5,6 @@ export const placed = {
   type: "page-type/prose-frame",
   slug: "placed",
   definition: "a word in the passive putting a thing somewhere",
+  createdAt: "2026-09-08T18:22:52.749Z",
+  updatedAt: "2026-09-25T15:41:48.000Z",
 } as const satisfies ProseFrame

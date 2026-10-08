@@ -35,4 +35,6 @@ export const mergedInto = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-19T01:39:24.022Z",
+  updatedAt: "2026-09-22T13:43:25.000Z",
 } as const satisfies RelationProperty

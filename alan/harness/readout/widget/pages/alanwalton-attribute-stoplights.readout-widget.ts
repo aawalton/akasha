@@ -16,4 +16,6 @@ export const alanwaltonAttributeStoplights = {
     "capacitor://localhost/nav/attributes-970234ac?tab=01a07cd7-2bb6-7d40-acb4-895746f0208f#widget=alanwalton-attribute-stoplights",
   groups: ["readout-group/attributes"],
   place: 11,
+  createdAt: "2026-09-03T17:37:08.858Z",
+  updatedAt: "2026-09-16T12:37:48.000Z",
 } as const satisfies ReadoutWidget

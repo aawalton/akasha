@@ -14,4 +14,6 @@ export const dailyTracking = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-02T02:00:36.367Z",
+  updatedAt: "2026-09-22T15:37:55.000Z",
 } as const satisfies RelationProperty

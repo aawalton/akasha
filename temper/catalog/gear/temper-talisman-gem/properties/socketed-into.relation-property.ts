@@ -8,4 +8,6 @@ export const socketedInto = {
   definition: "the set whose piece a gem is socketed into",
   targetPageType: "page-type/temper-set",
   types: "ts",
+  createdAt: "2026-09-25T17:03:58.968Z",
+  updatedAt: "2026-09-25T17:04:04.000Z",
 } as const satisfies RelationProperty

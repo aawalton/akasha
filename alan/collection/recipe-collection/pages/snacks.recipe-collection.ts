@@ -11,4 +11,6 @@ export const snacks = {
   ownProgress: 0,
   unit: "unit/words",
   status: "not-applicable",
+  createdAt: "2026-09-03T16:10:06.643Z",
+  updatedAt: "2026-09-15T16:24:34.000Z",
 } as const satisfies RecipeCollection

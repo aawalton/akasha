@@ -8,4 +8,6 @@ export const towerSkillElement = {
   definition: "the element whose attunement biases a skill",
   targetPageType: "page-type/tower-element",
   types: "ts",
+  createdAt: "2026-09-26T14:21:52.880Z",
+  updatedAt: "2026-09-26T14:21:57.000Z",
 } as const satisfies RelationProperty

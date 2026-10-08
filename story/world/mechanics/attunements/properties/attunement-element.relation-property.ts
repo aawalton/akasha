@@ -8,4 +8,6 @@ export const attunementElement = {
   definition: "the element an attunement is to",
   targetPageType: "page-type/world-element",
   types: "ts",
+  createdAt: "2026-09-22T18:46:15.708Z",
+  updatedAt: "2026-09-26T14:51:48.000Z",
 } as const satisfies RelationProperty

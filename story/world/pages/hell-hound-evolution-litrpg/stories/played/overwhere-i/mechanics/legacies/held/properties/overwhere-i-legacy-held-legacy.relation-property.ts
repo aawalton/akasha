@@ -8,4 +8,6 @@ export const overwhereILegacyHeldLegacy = {
   definition: "the legacy a legacy held in Overwhere I is a holding of",
   targetPageType: "page-type/overwhere-i-legacy",
   types: "ts",
+  createdAt: "2026-09-29T12:15:14.767Z",
+  updatedAt: "2026-09-29T12:15:19.000Z",
 } as const satisfies RelationProperty

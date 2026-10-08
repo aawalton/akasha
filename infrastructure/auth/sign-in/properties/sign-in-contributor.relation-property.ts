@@ -8,4 +8,6 @@ export const signInContributor = {
   definition: "the contributor a sign-in reaches",
   targetPageType: "page-type/contributor",
   types: "ts",
+  createdAt: "2026-09-19T18:25:16.024Z",
+  updatedAt: "2026-09-19T18:26:16.000Z",
 } as const satisfies RelationProperty

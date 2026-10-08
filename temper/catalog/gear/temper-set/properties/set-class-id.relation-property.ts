@@ -8,4 +8,6 @@ export const setClassId = {
   definition: "the class a set is only offered to",
   targetPageType: "page-type/temper-class",
   types: "ts",
+  createdAt: "2026-09-02T01:53:02.014Z",
+  updatedAt: "2026-09-22T16:41:53.000Z",
 } as const satisfies RelationProperty

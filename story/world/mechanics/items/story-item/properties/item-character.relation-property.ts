@@ -8,4 +8,6 @@ export const itemCharacter = {
   definition: "the character an item is had by",
   targetPageType: "page-type/world-character",
   types: "ts",
+  createdAt: "2026-09-22T17:55:28.571Z",
+  updatedAt: "2026-09-26T17:47:23.000Z",
 } as const satisfies RelationProperty

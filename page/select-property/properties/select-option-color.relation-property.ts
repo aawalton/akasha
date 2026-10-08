@@ -8,4 +8,6 @@ export const selectOptionColor = {
   definition: "a select property value's color",
   targetPageType: "page-type/color",
   types: "ts",
+  createdAt: "2026-09-21T18:19:56.296Z",
+  updatedAt: "2026-09-22T13:59:59.000Z",
 } as const satisfies RelationProperty

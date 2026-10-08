@@ -24,4 +24,6 @@ export const tmuxScopeDelegation = {
       statement: "What is turned on here outlasts a reload and goes when the scope goes.",
     },
   ],
+  createdAt: "2026-09-12T00:56:20.238Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies ProvisionedFile

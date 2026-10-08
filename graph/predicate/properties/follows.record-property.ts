@@ -30,4 +30,6 @@ export const follows = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-16T13:19:48.741Z",
+  updatedAt: "2026-09-22T14:07:45.000Z",
 } as const satisfies RecordProperty

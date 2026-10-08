@@ -18,4 +18,6 @@ export const cover = {
     },
   ],
   types: "ts",
+  createdAt: "2026-08-30T17:00:31.266Z",
+  updatedAt: "2026-10-04T09:23:17.000Z",
 } as const satisfies RelationProperty

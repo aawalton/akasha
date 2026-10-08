@@ -14,4 +14,6 @@ export const readingCharacter = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-24T14:22:16.131Z",
+  updatedAt: "2026-09-24T14:23:16.000Z",
 } as const satisfies RelationProperty

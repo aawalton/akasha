@@ -8,4 +8,6 @@ export const heldSkill = {
   definition: "the world's skill a skill held is a holding of",
   targetPageType: "page-type/world-skill",
   types: "ts",
+  createdAt: "2026-10-03T20:08:39.804Z",
+  updatedAt: "2026-10-03T20:08:45.000Z",
 } as const satisfies RelationProperty

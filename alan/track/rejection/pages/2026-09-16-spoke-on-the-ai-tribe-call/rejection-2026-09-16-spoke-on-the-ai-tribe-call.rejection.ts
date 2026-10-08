@@ -7,4 +7,6 @@ export const rejection20260916SpokeOnTheAiTribeCall = {
   title: "Spoke on the AI Tribe call",
   happenedAt: "2026-09-16T14:55:00.000Z",
   rejected: false,
+  createdAt: "2026-09-16T21:15:53.269Z",
+  updatedAt: "2026-09-16T21:16:10.000Z",
 } as const satisfies Rejection

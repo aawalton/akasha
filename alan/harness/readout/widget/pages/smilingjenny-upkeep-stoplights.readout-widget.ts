@@ -14,4 +14,6 @@ export const smilingjennyUpkeepStoplights = {
   galleryDescription: "Alan's four upkeep stoplights, at a glance.",
   groups: ["readout-group/upkeep"],
   place: 5,
+  createdAt: "2026-09-10T15:33:06.305Z",
+  updatedAt: "2026-09-15T16:23:51.000Z",
 } as const satisfies ReadoutWidget

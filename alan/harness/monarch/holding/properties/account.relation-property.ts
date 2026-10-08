@@ -14,4 +14,6 @@ export const account = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-03T16:11:27.616Z",
+  updatedAt: "2026-09-22T13:45:29.000Z",
 } as const satisfies RelationProperty

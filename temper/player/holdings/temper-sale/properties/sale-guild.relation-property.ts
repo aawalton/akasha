@@ -18,4 +18,6 @@ export const saleGuild = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-25T12:59:48.390Z",
+  updatedAt: "2026-09-25T12:59:54.000Z",
 } as const satisfies RelationProperty

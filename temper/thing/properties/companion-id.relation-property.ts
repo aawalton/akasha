@@ -14,4 +14,6 @@ export const companionId = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-02T01:27:53.145Z",
+  updatedAt: "2026-09-22T19:30:19.000Z",
 } as const satisfies RelationProperty

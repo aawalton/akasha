@@ -8,4 +8,6 @@ export const gradedCompanionTrait = {
   definition: "the companion trait a grade is of",
   targetPageType: "page-type/temper-companion-trait",
   types: "ts",
+  createdAt: "2026-09-24T14:47:26.770Z",
+  updatedAt: "2026-09-24T14:48:23.000Z",
 } as const satisfies RelationProperty

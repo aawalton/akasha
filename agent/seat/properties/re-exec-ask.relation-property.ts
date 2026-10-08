@@ -18,4 +18,6 @@ export const reExecAsk = {
     },
   ],
   types: "ts",
+  createdAt: "2026-08-31T13:43:58.892Z",
+  updatedAt: "2026-09-24T19:10:37.000Z",
 } as const satisfies RelationProperty

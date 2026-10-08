@@ -7,4 +7,6 @@ export const rejection20260916AppliedForTollFreeCompliance = {
   title: "Applied for Toll-Free Compliance",
   happenedAt: "2026-09-16T14:00:00.000Z",
   rejected: true,
+  createdAt: "2026-09-16T14:16:49.165Z",
+  updatedAt: "2026-09-16T14:17:15.000Z",
 } as const satisfies Rejection

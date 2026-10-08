@@ -8,4 +8,6 @@ export const toDoValue = {
   definition: "the value doing this serves",
   targetPageType: "page-type/value",
   types: "ts",
+  createdAt: "2026-09-03T04:57:44.119Z",
+  updatedAt: "2026-09-15T16:30:55.000Z",
 } as const satisfies RelationProperty

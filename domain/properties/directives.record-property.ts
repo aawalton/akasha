@@ -30,4 +30,6 @@ export const directives = {
     },
   ],
   types: "ts",
+  createdAt: "2026-08-29T15:25:01.814Z",
+  updatedAt: "2026-09-15T18:01:23.000Z",
 } as const satisfies RecordProperty

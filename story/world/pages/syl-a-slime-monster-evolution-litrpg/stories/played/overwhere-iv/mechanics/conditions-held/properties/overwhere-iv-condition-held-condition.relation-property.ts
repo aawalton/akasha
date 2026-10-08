@@ -8,4 +8,6 @@ export const overwhereIvConditionHeldCondition = {
   definition: "the world's condition a condition holding in Overwhere IV names",
   targetPageType: "page-type/world-condition",
   types: "ts",
+  createdAt: "2026-09-30T09:52:19.840Z",
+  updatedAt: "2026-09-30T09:52:25.000Z",
 } as const satisfies RelationProperty

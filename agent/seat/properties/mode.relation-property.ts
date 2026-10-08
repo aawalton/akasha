@@ -27,4 +27,6 @@ export const mode = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-06T11:01:22.956Z",
+  updatedAt: "2026-09-25T18:05:21.000Z",
 } as const satisfies RelationProperty

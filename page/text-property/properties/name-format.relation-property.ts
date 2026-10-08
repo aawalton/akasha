@@ -15,4 +15,6 @@ export const nameFormat = {
     },
   ],
   types: "ts",
+  createdAt: "2026-08-28T18:54:50.220Z",
+  updatedAt: "2026-09-22T13:46:01.000Z",
 } as const satisfies RelationProperty

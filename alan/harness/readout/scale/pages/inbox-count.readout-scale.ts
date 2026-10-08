@@ -21,4 +21,6 @@ export const inboxCount = {
       statement: "Each rung above green is ten times the one below it.",
     },
   ],
+  createdAt: "2026-09-26T13:30:38.207Z",
+  updatedAt: "2026-09-26T13:30:46.000Z",
 } as const satisfies ReadoutScale

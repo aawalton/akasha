@@ -9,4 +9,6 @@ export const liveCount = {
   yellowAt: 2,
   greenAt: 1,
   blueAt: 0,
+  createdAt: "2026-09-03T03:39:45.868Z",
+  updatedAt: "2026-09-15T16:23:31.000Z",
 } as const satisfies ReadoutScale

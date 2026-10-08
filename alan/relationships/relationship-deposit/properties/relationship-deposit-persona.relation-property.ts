@@ -8,4 +8,6 @@ export const relationshipDepositPersona = {
   definition: "the persona who counts it",
   targetPageType: "page-type/persona",
   types: "ts",
+  createdAt: "2026-09-03T04:35:40.348Z",
+  updatedAt: "2026-09-25T13:01:00.000Z",
 } as const satisfies RelationProperty

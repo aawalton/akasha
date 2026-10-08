@@ -4,4 +4,6 @@ export const undressing = {
   id: "01a0e37e-9433-7b9b-8669-c75c5e0922b1",
   type: "page-type/pose-tag",
   slug: "undressing",
+  createdAt: "2026-09-27T15:31:58.643Z",
+  updatedAt: "2026-09-27T15:32:02.000Z",
 } as const satisfies PoseTag

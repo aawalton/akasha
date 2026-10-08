@@ -8,4 +8,6 @@ export const origin = {
   definition: "the source of a persona's name",
   targetPageType: "page-type/origin-kind",
   types: "ts",
+  createdAt: "2026-08-30T15:55:09.792Z",
+  updatedAt: "2026-09-22T13:52:13.000Z",
 } as const satisfies RelationProperty

@@ -8,4 +8,6 @@ export const classCharacter = {
   definition: "the character a class held is the class of",
   targetPageType: "page-type/world-character",
   types: "ts",
+  createdAt: "2026-09-30T18:32:03.426Z",
+  updatedAt: "2026-09-30T18:32:12.000Z",
 } as const satisfies RelationProperty

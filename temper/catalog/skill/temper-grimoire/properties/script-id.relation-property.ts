@@ -8,4 +8,6 @@ export const scriptId = {
   definition: "the script an entry is about",
   targetPageType: "page-type/temper-script",
   types: "ts",
+  createdAt: "2026-09-02T01:45:21.030Z",
+  updatedAt: "2026-09-22T15:41:31.000Z",
 } as const satisfies RelationProperty

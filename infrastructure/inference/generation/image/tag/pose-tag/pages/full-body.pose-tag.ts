@@ -4,4 +4,6 @@ export const fullBody = {
   id: "01a0e37e-9432-76ee-a162-3ae1928838fa",
   type: "page-type/pose-tag",
   slug: "full-body",
+  createdAt: "2026-09-27T15:31:58.642Z",
+  updatedAt: "2026-09-27T15:32:02.000Z",
 } as const satisfies PoseTag

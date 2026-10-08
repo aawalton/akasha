@@ -14,4 +14,6 @@ export const metricTreeParent = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-22T20:45:42.883Z",
+  updatedAt: "2026-09-22T20:46:12.000Z",
 } as const satisfies RelationProperty

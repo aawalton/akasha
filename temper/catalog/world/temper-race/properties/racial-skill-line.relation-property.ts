@@ -8,4 +8,6 @@ export const racialSkillLine = {
   definition: "the skill line a race's own people are born to",
   targetPageType: "page-type/temper-skill-line",
   types: "ts",
+  createdAt: "2026-09-26T18:13:42.620Z",
+  updatedAt: "2026-09-26T18:13:48.000Z",
 } as const satisfies RelationProperty

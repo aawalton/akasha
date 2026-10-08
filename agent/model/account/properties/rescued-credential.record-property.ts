@@ -34,4 +34,6 @@ export const rescuedCredential = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-02T18:57:11.355Z",
+  updatedAt: "2026-09-25T18:00:18.000Z",
 } as const satisfies RecordProperty

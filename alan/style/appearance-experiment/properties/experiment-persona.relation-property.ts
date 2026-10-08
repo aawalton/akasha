@@ -8,4 +8,6 @@ export const experimentPersona = {
   definition: "the persona who read an experiment",
   targetPageType: "page-type/persona",
   types: "ts",
+  createdAt: "2026-09-04T16:56:01.902Z",
+  updatedAt: "2026-09-15T16:30:55.000Z",
 } as const satisfies RelationProperty

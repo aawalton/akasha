@@ -8,4 +8,6 @@ export const exercise = {
   definition: "a record's movement",
   targetPageType: "page-type/strength-exercise",
   types: "ts",
+  createdAt: "2026-09-03T04:21:48.925Z",
+  updatedAt: "2026-09-22T13:37:15.000Z",
 } as const satisfies RelationProperty

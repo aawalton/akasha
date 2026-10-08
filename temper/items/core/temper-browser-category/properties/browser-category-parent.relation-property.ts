@@ -14,4 +14,6 @@ export const browserCategoryParent = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-27T04:05:44.997Z",
+  updatedAt: "2026-09-27T04:05:49.000Z",
 } as const satisfies RelationProperty

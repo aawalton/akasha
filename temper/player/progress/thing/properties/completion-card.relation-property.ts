@@ -18,4 +18,6 @@ export const completionCard = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-22T00:33:55.302Z",
+  updatedAt: "2026-09-22T00:46:09.000Z",
 } as const satisfies RelationProperty

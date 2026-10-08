@@ -8,4 +8,6 @@ export const currencyKey = {
   definition: "an amount's currency",
   targetPageType: "page-type/temper-inventory-currency",
   types: "ts",
+  createdAt: "2026-09-03T13:00:08.453Z",
+  updatedAt: "2026-09-22T14:05:53.000Z",
 } as const satisfies RelationProperty

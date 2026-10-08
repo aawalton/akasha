@@ -25,4 +25,6 @@ export const mobileWallpaper = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-21T22:37:28.126Z",
+  updatedAt: "2026-09-21T22:39:54.000Z",
 } as const satisfies RelationProperty

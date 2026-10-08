@@ -21,4 +21,6 @@ export const stylesheetColors = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-24T22:36:11.204Z",
+  updatedAt: "2026-09-24T22:38:34.000Z",
 } as const satisfies RecordProperty

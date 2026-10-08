@@ -15,4 +15,6 @@ export const smilingjennySafetyLevel = {
   galleryDescription: "Where Alan's safety level is today.",
   groups: ["readout-group/safety"],
   place: 2,
+  createdAt: "2026-09-02T21:57:39.545Z",
+  updatedAt: "2026-09-15T16:23:51.000Z",
 } as const satisfies ReadoutWidget

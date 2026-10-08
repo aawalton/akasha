@@ -14,4 +14,6 @@ export const nav = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-03T16:14:57.280Z",
+  updatedAt: "2026-09-22T13:46:58.000Z",
 } as const satisfies RelationProperty

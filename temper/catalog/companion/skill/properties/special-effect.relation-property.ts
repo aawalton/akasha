@@ -8,4 +8,6 @@ export const specialEffect = {
   definition: "the act a skill effect names in place of a number",
   targetPageType: "page-type/temper-special-effect-type",
   types: "ts",
+  createdAt: "2026-09-11T04:51:33.947Z",
+  updatedAt: "2026-09-21T15:26:51.000Z",
 } as const satisfies RelationProperty

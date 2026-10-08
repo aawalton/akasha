@@ -8,4 +8,6 @@ export const lifeThemeParent = {
   definition: "this life theme's parent theme",
   targetPageType: "page-type/life-theme",
   types: "ts",
+  createdAt: "2026-09-03T04:10:11.520Z",
+  updatedAt: "2026-09-22T13:46:30.000Z",
 } as const satisfies RelationProperty

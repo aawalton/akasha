@@ -25,4 +25,6 @@ export const workstation = {
       statement: "A reading here is drawn in the unit its own readout names.",
     },
   ],
+  createdAt: "2026-09-14T14:49:09.589Z",
+  updatedAt: "2026-09-25T17:02:42.000Z",
 } as const satisfies ReadoutGroup

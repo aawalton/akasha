@@ -14,4 +14,6 @@ export const effectFormula = {
     { pageProperty: "number-property/formula-percent", required: false, many: false },
   ],
   types: "ts",
+  createdAt: "2026-09-02T10:06:56.377Z",
+  updatedAt: "2026-09-24T15:16:43.000Z",
 } as const satisfies RecordProperty

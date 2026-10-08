@@ -8,4 +8,6 @@ export const towerSkillCharacter = {
   definition: "the character holding a skill in the Tower",
   targetPageType: "page-type/world-character",
   types: "ts",
+  createdAt: "2026-09-26T14:57:13.988Z",
+  updatedAt: "2026-09-26T17:44:02.000Z",
 } as const satisfies RelationProperty

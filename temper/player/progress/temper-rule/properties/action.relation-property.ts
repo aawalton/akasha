@@ -8,4 +8,6 @@ export const action = {
   definition: "what a rule does to an item the rule matches",
   targetPageType: "page-type/temper-item-action",
   types: "ts",
+  createdAt: "2026-09-02T01:51:17.154Z",
+  updatedAt: "2026-09-21T15:33:05.000Z",
 } as const satisfies RelationProperty

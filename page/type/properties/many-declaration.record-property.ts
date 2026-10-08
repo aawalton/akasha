@@ -41,4 +41,6 @@ export const manyDeclaration = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-11T13:27:12.202Z",
+  updatedAt: "2026-09-21T22:30:31.000Z",
 } as const satisfies RecordProperty

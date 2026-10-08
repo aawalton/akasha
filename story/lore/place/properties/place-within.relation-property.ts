@@ -8,4 +8,6 @@ export const placeWithin = {
   definition: "the place a place is inside",
   targetPageType: "page-type/place",
   types: "ts",
+  createdAt: "2026-09-24T16:10:42.301Z",
+  updatedAt: "2026-09-24T16:20:45.000Z",
 } as const satisfies RelationProperty

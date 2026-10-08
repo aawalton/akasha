@@ -8,4 +8,6 @@ export const changeTargetSubtype = {
   definition: "the change target subtype on which a change acts",
   targetPageType: "page-type/change-target-subtype",
   types: "ts",
+  createdAt: "2026-09-07T15:15:21.375Z",
+  updatedAt: "2026-09-22T14:08:17.000Z",
 } as const satisfies RelationProperty

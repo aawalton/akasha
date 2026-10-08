@@ -9,4 +9,6 @@ export const safetyLevel = {
   yellowAt: 2,
   greenAt: 3,
   blueAt: 4,
+  createdAt: "2026-09-01T23:16:33.653Z",
+  updatedAt: "2026-09-15T16:23:31.000Z",
 } as const satisfies ReadoutScale

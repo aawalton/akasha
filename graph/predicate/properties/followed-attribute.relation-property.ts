@@ -8,4 +8,6 @@ export const followedAttribute = {
   definition: "the attribute a predicate reads off an edge",
   targetPageType: "page-type/graph-attribute",
   types: "ts",
+  createdAt: "2026-09-16T13:19:32.487Z",
+  updatedAt: "2026-09-16T13:22:22.000Z",
 } as const satisfies RelationProperty

@@ -8,4 +8,6 @@ export const jewelrySlot = {
   definition: "a slug naming a place on the body a piece of jewelry is worn",
   targetPageType: "page-type/temper-jewelry-slot",
   types: "ts",
+  createdAt: "2026-09-22T16:04:27.513Z",
+  updatedAt: "2026-09-22T16:04:58.000Z",
 } as const satisfies RelationProperty

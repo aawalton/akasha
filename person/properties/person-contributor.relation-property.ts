@@ -22,4 +22,6 @@ export const personContributor = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-19T19:48:15.740Z",
+  updatedAt: "2026-09-19T19:48:54.000Z",
 } as const satisfies RelationProperty

@@ -8,4 +8,6 @@ export const collectionUnit = {
   definition: "the unit of a collection's own length",
   targetPageType: "page-type/unit",
   types: "ts",
+  createdAt: "2026-09-02T20:44:59.872Z",
+  updatedAt: "2026-09-22T13:43:28.000Z",
 } as const satisfies RelationProperty

@@ -8,4 +8,6 @@ export const rejection20260917InitiatedConversationsAtTheTribeEvent = {
   happenedAt: "2026-09-18T02:00:00.000Z",
   rejected: false,
   risks: 12,
+  createdAt: "2026-09-18T15:12:46.112Z",
+  updatedAt: "2026-09-18T15:13:44.000Z",
 } as const satisfies Rejection

@@ -53,4 +53,6 @@ export const inboxesRefusals = {
       statement: "Nothing here turns a count into a color.",
     },
   ],
+  createdAt: "2026-09-25T15:35:50.019Z",
+  updatedAt: "2026-09-26T13:32:22.000Z",
 } as const satisfies Readout

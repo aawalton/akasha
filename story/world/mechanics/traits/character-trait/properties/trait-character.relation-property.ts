@@ -8,4 +8,6 @@ export const traitCharacter = {
   definition: "the character a trait holds for",
   targetPageType: "page-type/world-character",
   types: "ts",
+  createdAt: "2026-09-22T18:25:33.490Z",
+  updatedAt: "2026-09-26T17:44:02.000Z",
 } as const satisfies RelationProperty

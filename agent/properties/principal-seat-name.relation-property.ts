@@ -8,4 +8,6 @@ export const principalSeatName = {
   definition: "the seat that runs a subagent",
   targetPageType: "page-type/seat",
   types: "ts",
+  createdAt: "2026-08-30T19:50:41.972Z",
+  updatedAt: "2026-09-25T17:52:44.000Z",
 } as const satisfies RelationProperty

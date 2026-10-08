@@ -9,4 +9,6 @@ export const greenDayUnits = {
   yellowAt: 0.5,
   greenAt: 1,
   blueAt: 2,
+  createdAt: "2026-09-02T14:47:40.209Z",
+  updatedAt: "2026-09-22T00:47:01.000Z",
 } as const satisfies ReadoutScale

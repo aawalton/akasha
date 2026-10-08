@@ -8,4 +8,6 @@ export const equipment = {
   definition: "the kit loading the movement",
   targetPageType: "page-type/strength-exercise-implement",
   types: "ts",
+  createdAt: "2026-09-03T04:19:22.687Z",
+  updatedAt: "2026-09-22T13:46:30.000Z",
 } as const satisfies RelationProperty

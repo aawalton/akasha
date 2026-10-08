@@ -21,4 +21,6 @@ export const recipes = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-02T01:53:02.013Z",
+  updatedAt: "2026-09-22T21:56:13.000Z",
 } as const satisfies RecordProperty

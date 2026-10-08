@@ -16,4 +16,6 @@ export const alanwaltonClaudeUsage = {
   opens: "capacitor://localhost/nav/model-accounts-d93b211a#widget=alanwalton-claude-usage",
   groups: ["readout-group/claude-usage"],
   place: 2,
+  createdAt: "2026-09-02T21:57:39.545Z",
+  updatedAt: "2026-09-15T16:23:51.000Z",
 } as const satisfies ReadoutWidget

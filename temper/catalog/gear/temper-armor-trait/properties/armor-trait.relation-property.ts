@@ -8,4 +8,6 @@ export const armorTrait = {
   definition: "a slug naming a trait worked into a piece of armor",
   targetPageType: "page-type/temper-armor-trait",
   types: "ts",
+  createdAt: "2026-09-22T15:50:54.194Z",
+  updatedAt: "2026-09-22T15:55:27.000Z",
 } as const satisfies RelationProperty

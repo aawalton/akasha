@@ -14,4 +14,6 @@ export const antiquitySet = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-24T23:46:12.254Z",
+  updatedAt: "2026-09-24T23:46:16.000Z",
 } as const satisfies RelationProperty

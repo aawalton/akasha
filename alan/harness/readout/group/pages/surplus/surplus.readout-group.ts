@@ -13,4 +13,6 @@ export const surplus = {
       statement: "The reading is the hours the night had less the hours the day spent.",
     },
   ],
+  createdAt: "2026-09-02T01:36:55.386Z",
+  updatedAt: "2026-09-25T16:58:52.000Z",
 } as const satisfies ReadoutGroup

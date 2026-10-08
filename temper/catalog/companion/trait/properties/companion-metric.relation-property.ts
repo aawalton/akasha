@@ -14,4 +14,6 @@ export const companionMetric = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-24T14:30:07.691Z",
+  updatedAt: "2026-09-24T14:30:29.000Z",
 } as const satisfies RelationProperty

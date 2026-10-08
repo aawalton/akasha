@@ -8,4 +8,6 @@ export const carYear = {
   definition: "this trim's model year",
   targetPageType: "page-type/car-year",
   types: "ts",
+  createdAt: "2026-09-03T16:43:27.197Z",
+  updatedAt: "2026-09-22T14:08:21.000Z",
 } as const satisfies RelationProperty

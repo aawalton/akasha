@@ -27,4 +27,6 @@ export const viewEmbeddedBy = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-28T20:46:48.456Z",
+  updatedAt: "2026-09-28T20:47:34.000Z",
 } as const satisfies RelationProperty

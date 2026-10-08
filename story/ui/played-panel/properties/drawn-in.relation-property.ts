@@ -14,4 +14,6 @@ export const drawnIn = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-21T16:25:01.772Z",
+  updatedAt: "2026-09-26T17:41:29.000Z",
 } as const satisfies RelationProperty

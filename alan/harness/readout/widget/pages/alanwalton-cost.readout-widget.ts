@@ -16,4 +16,6 @@ export const alanwaltonCost = {
   opens: "capacitor://localhost/nav/tracking-690c624f#widget=alanwalton-cost",
   groups: ["readout-group/cost"],
   place: 12,
+  createdAt: "2026-09-10T14:25:46.070Z",
+  updatedAt: "2026-09-15T16:23:51.000Z",
 } as const satisfies ReadoutWidget

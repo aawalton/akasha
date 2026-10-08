@@ -13,4 +13,6 @@ export const attributes = {
     "module/stoplights-activity-pushing",
     "route/stoplights-activity",
   ],
+  createdAt: "2026-09-03T17:02:13.483Z",
+  updatedAt: "2026-09-25T17:47:51.000Z",
 } as const satisfies ReadoutGroup

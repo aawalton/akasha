@@ -14,4 +14,6 @@ export const itemSlot = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-22T17:59:27.092Z",
+  updatedAt: "2026-09-26T17:47:23.000Z",
 } as const satisfies RelationProperty

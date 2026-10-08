@@ -11,4 +11,6 @@ export const styleExamples = {
     { pageProperty: "text-property/style-example-after", required: true, many: false },
   ],
   types: "ts",
+  createdAt: "2026-09-26T16:46:45.491Z",
+  updatedAt: "2026-09-26T16:46:51.000Z",
 } as const satisfies RecordProperty

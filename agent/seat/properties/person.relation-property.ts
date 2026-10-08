@@ -18,4 +18,6 @@ export const person = {
     },
   ],
   types: "ts",
+  createdAt: "2026-08-30T16:45:45.819Z",
+  updatedAt: "2026-09-22T13:43:19.000Z",
 } as const satisfies RelationProperty

@@ -14,4 +14,6 @@ export const turnStateColor = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-04T17:32:46.969Z",
+  updatedAt: "2026-09-22T13:59:16.000Z",
 } as const satisfies RelationProperty

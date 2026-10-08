@@ -8,4 +8,6 @@ export const siteDocumentWebApp = {
   definition: "the web app showing a site document",
   targetPageType: "page-type/web-app",
   types: "ts",
+  createdAt: "2026-09-24T23:03:23.750Z",
+  updatedAt: "2026-09-24T23:03:48.000Z",
 } as const satisfies RelationProperty

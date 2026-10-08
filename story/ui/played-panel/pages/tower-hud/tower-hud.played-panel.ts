@@ -9,4 +9,6 @@ export const towerHud = {
   drawn: "js",
   place: "panel-place/aside",
   position: 50,
+  createdAt: "2026-09-21T15:40:58.689Z",
+  updatedAt: "2026-09-28T12:54:48.000Z",
 } as const satisfies PlayedPanel

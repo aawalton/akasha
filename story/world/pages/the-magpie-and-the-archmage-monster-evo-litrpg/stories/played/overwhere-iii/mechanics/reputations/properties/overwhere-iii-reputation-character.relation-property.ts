@@ -8,4 +8,6 @@ export const overwhereIiiReputationCharacter = {
   definition: "the character a reputation in Overwhere III is held of",
   targetPageType: "page-type/world-character",
   types: "ts",
+  createdAt: "2026-09-29T12:40:09.632Z",
+  updatedAt: "2026-09-29T12:40:16.000Z",
 } as const satisfies RelationProperty

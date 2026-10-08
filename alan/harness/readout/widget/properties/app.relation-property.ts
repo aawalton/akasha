@@ -8,4 +8,6 @@ export const app = {
   definition: "the app whose extension holds a widget",
   targetPageType: "page-type/ios-app",
   types: "ts",
+  createdAt: "2026-09-02T21:57:39.544Z",
+  updatedAt: "2026-09-22T13:57:00.000Z",
 } as const satisfies RelationProperty

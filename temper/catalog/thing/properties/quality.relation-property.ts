@@ -8,4 +8,6 @@ export const quality = {
   definition: "a thing's grade",
   targetPageType: "page-type/temper-quality",
   types: "ts",
+  createdAt: "2026-09-02T01:16:20.589Z",
+  updatedAt: "2026-09-22T16:12:04.000Z",
 } as const satisfies RelationProperty

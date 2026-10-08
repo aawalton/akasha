@@ -9,4 +9,6 @@ export const time = {
   drawn: "js",
   place: "panel-place/aside",
   position: 40,
+  createdAt: "2026-09-28T12:33:29.704Z",
+  updatedAt: "2026-09-28T12:54:48.000Z",
 } as const satisfies PlayedPanel

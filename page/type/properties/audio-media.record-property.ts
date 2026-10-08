@@ -23,4 +23,6 @@ export const audioMedia = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-02T15:24:15.605Z",
+  updatedAt: "2026-09-22T13:59:59.000Z",
 } as const satisfies RecordProperty

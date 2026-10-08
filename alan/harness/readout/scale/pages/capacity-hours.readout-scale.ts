@@ -10,4 +10,6 @@ export const capacityHours = {
   yellowAt: 4,
   greenAt: 8,
   blueAt: 12,
+  createdAt: "2026-09-02T12:55:32.934Z",
+  updatedAt: "2026-09-15T16:23:31.000Z",
 } as const satisfies ReadoutScale

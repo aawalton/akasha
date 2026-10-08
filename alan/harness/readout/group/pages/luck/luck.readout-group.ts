@@ -8,4 +8,6 @@ export const luck = {
   figureOffScale: true,
   wireKeyName: "habit",
   statusBarSection: "attributes",
+  createdAt: "2026-09-16T12:29:02.127Z",
+  updatedAt: "2026-09-25T17:02:42.000Z",
 } as const satisfies ReadoutGroup

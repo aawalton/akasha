@@ -7,4 +7,6 @@ export const rejection20260918JoinedTheAiTribeFoundersCircle = {
   title: "Committed to joining the AI Tribe Founders Circle",
   happenedAt: "2026-09-18T14:52:00.000Z",
   rejected: false,
+  createdAt: "2026-09-18T15:13:09.347Z",
+  updatedAt: "2026-09-18T15:13:44.000Z",
 } as const satisfies Rejection

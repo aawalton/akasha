@@ -8,4 +8,6 @@ export const subagentKind = {
   definition: "the kind a subagent was dispatched as",
   targetPageType: "page-type/subagent-kind",
   types: "ts",
+  createdAt: "2026-09-04T17:39:32.655Z",
+  updatedAt: "2026-09-15T16:30:55.000Z",
 } as const satisfies RelationProperty

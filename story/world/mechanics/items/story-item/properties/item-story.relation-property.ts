@@ -8,4 +8,6 @@ export const itemStory = {
   definition: "the story an item is in",
   targetPageType: "page-type/story",
   types: "ts",
+  createdAt: "2026-09-22T18:12:25.001Z",
+  updatedAt: "2026-09-26T17:47:23.000Z",
 } as const satisfies RelationProperty

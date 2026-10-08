@@ -21,4 +21,6 @@ export const buildEnvSecret = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-22T00:39:24.930Z",
+  updatedAt: "2026-09-22T13:59:20.000Z",
 } as const satisfies RecordProperty

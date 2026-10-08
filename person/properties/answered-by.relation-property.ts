@@ -8,4 +8,6 @@ export const answeredBy = {
   definition: "the persona answering a person",
   targetPageType: "page-type/persona",
   types: "ts",
+  createdAt: "2026-08-30T18:19:51.045Z",
+  updatedAt: "2026-09-22T14:08:59.000Z",
 } as const satisfies RelationProperty

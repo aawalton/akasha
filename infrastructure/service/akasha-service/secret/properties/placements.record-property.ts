@@ -29,4 +29,6 @@ export const placements = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-06T10:55:48.771Z",
+  updatedAt: "2026-09-24T19:06:05.000Z",
 } as const satisfies RecordProperty

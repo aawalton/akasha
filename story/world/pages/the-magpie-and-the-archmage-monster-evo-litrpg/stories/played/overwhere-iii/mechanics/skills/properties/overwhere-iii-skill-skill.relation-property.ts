@@ -8,4 +8,6 @@ export const overwhereIiiSkillSkill = {
   definition: "the world's skill a skill held in Overwhere III is a holding of",
   targetPageType: "page-type/world-skill",
   types: "ts",
+  createdAt: "2026-09-29T12:39:15.806Z",
+  updatedAt: "2026-09-29T12:39:22.000Z",
 } as const satisfies RelationProperty

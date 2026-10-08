@@ -4,4 +4,6 @@ export const legsSpread = {
   id: "01a0e37e-9432-7db0-94d6-0ab0ce8eef32",
   type: "page-type/pose-tag",
   slug: "legs-spread",
+  createdAt: "2026-09-27T15:31:58.642Z",
+  updatedAt: "2026-09-27T15:32:02.000Z",
 } as const satisfies PoseTag

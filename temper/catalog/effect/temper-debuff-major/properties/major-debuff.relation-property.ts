@@ -8,4 +8,6 @@ export const majorDebuff = {
   definition: "a slug naming a harmful effect the game names Major",
   targetPageType: "page-type/temper-debuff-major",
   types: "ts",
+  createdAt: "2026-09-25T14:12:21.740Z",
+  updatedAt: "2026-09-25T14:12:34.000Z",
 } as const satisfies RelationProperty

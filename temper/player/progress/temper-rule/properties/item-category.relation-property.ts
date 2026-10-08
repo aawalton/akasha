@@ -8,4 +8,6 @@ export const itemCategory = {
   definition: "the branch of the inventory tree a rule acts over",
   targetPageType: "page-type/temper-item-category-tree",
   types: "ts",
+  createdAt: "2026-09-22T22:06:54.777Z",
+  updatedAt: "2026-09-22T22:08:51.000Z",
 } as const satisfies RelationProperty

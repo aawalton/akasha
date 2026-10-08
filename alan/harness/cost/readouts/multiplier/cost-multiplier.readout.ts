@@ -52,4 +52,6 @@ export const costMultiplier = {
   ],
   carriedTo: ["router-app/alan-web", "router-app/smilingjenny-web"],
   madeFrom: "open-block",
+  createdAt: "2026-09-10T13:57:57.394Z",
+  updatedAt: "2026-09-25T17:20:07.000Z",
 } as const satisfies Readout

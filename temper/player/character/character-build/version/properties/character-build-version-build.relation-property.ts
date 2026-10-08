@@ -14,4 +14,6 @@ export const characterBuildVersionBuild = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-25T12:49:24.719Z",
+  updatedAt: "2026-09-25T12:49:41.000Z",
 } as const satisfies RelationProperty

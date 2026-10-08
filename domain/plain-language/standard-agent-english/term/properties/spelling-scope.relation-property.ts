@@ -31,4 +31,6 @@ export const spellingScope = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-22T17:15:26.210Z",
+  updatedAt: "2026-09-25T15:41:48.000Z",
 } as const satisfies RelationProperty

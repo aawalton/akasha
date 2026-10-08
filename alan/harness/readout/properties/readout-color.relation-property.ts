@@ -18,4 +18,6 @@ export const readoutColor = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-22T22:11:37.202Z",
+  updatedAt: "2026-09-22T22:12:17.000Z",
 } as const satisfies RelationProperty

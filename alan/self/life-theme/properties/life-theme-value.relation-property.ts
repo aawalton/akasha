@@ -8,4 +8,6 @@ export const lifeThemeValue = {
   definition: "the value a life theme is given over to",
   targetPageType: "page-type/value",
   types: "ts",
+  createdAt: "2026-09-03T04:10:11.520Z",
+  updatedAt: "2026-09-15T16:30:55.000Z",
 } as const satisfies RelationProperty

@@ -19,4 +19,6 @@ export const imagePersona = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-21T21:47:37.232Z",
+  updatedAt: "2026-09-22T13:48:22.000Z",
 } as const satisfies RelationProperty

@@ -13,4 +13,6 @@ export const alanwaltonFreshness = {
   galleryName: "Freshness",
   galleryDescription: "How old the oldest reading on your tiles is. Tap to refresh them all.",
   place: 13,
+  createdAt: "2026-09-13T13:43:48.366Z",
+  updatedAt: "2026-09-15T16:23:51.000Z",
 } as const satisfies ReadoutWidget

@@ -14,4 +14,6 @@ export const researchLineCraft = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-22T20:49:22.619Z",
+  updatedAt: "2026-09-22T20:49:49.000Z",
 } as const satisfies RelationProperty

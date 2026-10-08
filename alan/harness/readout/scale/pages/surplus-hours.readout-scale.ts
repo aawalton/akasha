@@ -26,4 +26,6 @@ export const surplusHours = {
         "A day that has eaten into the night is read against this scale rather than another.",
     },
   ],
+  createdAt: "2026-09-02T01:36:55.386Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies ReadoutScale

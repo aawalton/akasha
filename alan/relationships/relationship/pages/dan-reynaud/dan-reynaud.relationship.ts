@@ -6,4 +6,6 @@ export const danReynaud = {
   slug: "dan-reynaud",
   title: "Dan Reynaud",
   relationshipLinkedinUrl: "https://www.linkedin.com/in/dan-reynaud-3548bb1",
+  createdAt: "2026-04-22T12:39:34.020Z",
+  updatedAt: "2026-09-25T13:01:00.000Z",
 } as const satisfies Relationship

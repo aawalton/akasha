@@ -21,4 +21,6 @@ export const voiceTiming = {
       statement: "A sentence never begins before the sentence ahead of it.",
     },
   ],
+  createdAt: "2026-10-06T15:15:39.983Z",
+  updatedAt: "2026-10-06T15:15:42.000Z",
 } as const satisfies PythonModule

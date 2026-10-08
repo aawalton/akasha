@@ -6,4 +6,6 @@ export const checkOverItsCeiling = {
   slug: "check-over-its-ceiling",
   title: "Check over its ceiling",
   text: "the check `{slug}` spent {spent} processor seconds judging this change, over the {ceiling} its page states, so what it judged does not land — take it to Alan to make the check faster or to raise the ceiling",
+  createdAt: "2026-09-10T14:39:31.644Z",
+  updatedAt: "2026-09-15T16:27:59.000Z",
 } as const satisfies Refusal

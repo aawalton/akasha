@@ -21,4 +21,6 @@ export const viewSorts = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-03T16:14:57.280Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies RecordProperty

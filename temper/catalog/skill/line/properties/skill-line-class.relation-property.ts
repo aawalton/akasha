@@ -8,4 +8,6 @@ export const skillLineClass = {
   definition: "the class a skill line belongs to",
   targetPageType: "page-type/temper-class",
   types: "ts",
+  createdAt: "2026-09-02T01:45:21.031Z",
+  updatedAt: "2026-09-22T16:41:36.000Z",
 } as const satisfies RelationProperty

@@ -8,4 +8,6 @@ export const initiative = {
   definition: "a slug naming an initiative",
   targetPageType: "page-type/initiative",
   types: "ts",
+  createdAt: "2026-09-02T15:18:05.258Z",
+  updatedAt: "2026-09-15T16:30:55.000Z",
 } as const satisfies RelationProperty

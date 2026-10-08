@@ -8,4 +8,6 @@ export const worldZone = {
   definition: "the zone whose guide counts a skyshard",
   targetPageType: "page-type/temper-world-zone",
   types: "ts",
+  createdAt: "2026-09-24T23:51:03.551Z",
+  updatedAt: "2026-09-24T23:51:07.000Z",
 } as const satisfies RelationProperty

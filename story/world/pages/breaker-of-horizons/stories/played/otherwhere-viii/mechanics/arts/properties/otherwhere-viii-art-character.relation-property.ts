@@ -8,4 +8,6 @@ export const otherwhereViiiArtCharacter = {
   definition: "the character who has learned a work of the Art in Otherwhere VIII",
   targetPageType: "page-type/world-character",
   types: "ts",
+  createdAt: "2026-09-28T23:10:19.907Z",
+  updatedAt: "2026-09-28T23:10:26.000Z",
 } as const satisfies RelationProperty

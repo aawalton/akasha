@@ -8,4 +8,6 @@ export const modelFamily = {
   definition: "a page's model family",
   targetPageType: "page-type/model-family",
   types: "ts",
+  createdAt: "2026-08-30T18:25:32.455Z",
+  updatedAt: "2026-09-25T18:04:58.000Z",
 } as const satisfies RelationProperty

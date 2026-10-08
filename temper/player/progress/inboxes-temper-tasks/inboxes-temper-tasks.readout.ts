@@ -55,4 +55,6 @@ export const inboxesTemperTasks = {
     },
   ],
   carriedTo: ["router-app/alan-web"],
+  createdAt: "2026-09-02T03:48:48.858Z",
+  updatedAt: "2026-09-26T13:32:22.000Z",
 } as const satisfies Readout

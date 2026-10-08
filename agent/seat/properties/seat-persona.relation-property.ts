@@ -8,4 +8,6 @@ export const seatPersona = {
   definition: "a seat's persona",
   targetPageType: "page-type/persona",
   types: "ts",
+  createdAt: "2026-09-04T17:14:06.135Z",
+  updatedAt: "2026-09-22T13:42:40.000Z",
 } as const satisfies RelationProperty

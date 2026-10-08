@@ -8,4 +8,6 @@ export const opposite = {
   definition: "the alchemy effect undoing what this one does",
   targetPageType: "page-type/temper-poison-effect",
   types: "ts",
+  createdAt: "2026-09-02T01:53:02.013Z",
+  updatedAt: "2026-09-22T13:23:56.000Z",
 } as const satisfies RelationProperty

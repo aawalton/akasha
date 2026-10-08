@@ -8,4 +8,6 @@ export const pagePageType = {
   definition: "the page type a page is",
   targetPageType: "page-type/page-type",
   types: "ts",
+  createdAt: "2026-09-09T18:58:13.634Z",
+  updatedAt: "2026-09-15T16:30:55.000Z",
 } as const satisfies RelationProperty

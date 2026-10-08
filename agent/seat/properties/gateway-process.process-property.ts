@@ -7,4 +7,6 @@ export const gatewayProcess = {
   propertySlug: "process",
   definition: "the process that calls the model for a seat",
   types: "ts",
+  createdAt: "2026-08-30T19:02:03.968Z",
+  updatedAt: "2026-09-25T18:06:08.000Z",
 } as const satisfies ProcessProperty

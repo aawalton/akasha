@@ -8,4 +8,6 @@ export const heldClass = {
   definition: "the world's class a class held is a holding of",
   targetPageType: "page-type/world-class",
   types: "ts",
+  createdAt: "2026-09-30T18:32:03.426Z",
+  updatedAt: "2026-09-30T18:32:12.000Z",
 } as const satisfies RelationProperty

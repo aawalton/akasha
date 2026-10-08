@@ -8,4 +8,6 @@ export const slotEquipType = {
   definition: "the equip type the game gives a piece worn in a slot or of a kind",
   targetPageType: "page-type/temper-equip-type",
   types: "ts",
+  createdAt: "2026-09-27T04:22:54.094Z",
+  updatedAt: "2026-09-27T04:23:12.000Z",
 } as const satisfies RelationProperty

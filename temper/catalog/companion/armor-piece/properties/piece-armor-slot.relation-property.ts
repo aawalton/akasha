@@ -8,4 +8,6 @@ export const pieceArmorSlot = {
   definition: "the place on a companion a piece of armor is worn",
   targetPageType: "page-type/temper-companion-armor-slot",
   types: "ts",
+  createdAt: "2026-09-27T02:43:57.746Z",
+  updatedAt: "2026-09-27T02:54:48.000Z",
 } as const satisfies RelationProperty

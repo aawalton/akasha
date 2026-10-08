@@ -8,4 +8,6 @@ export const collectionType = {
   definition: "the kind of thing a collection gathers",
   targetPageType: "page-type/collection-type",
   types: "ts",
+  createdAt: "2026-09-03T21:38:30.568Z",
+  updatedAt: "2026-09-15T16:30:55.000Z",
 } as const satisfies RelationProperty

@@ -14,4 +14,6 @@ export const gym = {
     },
   ],
   types: "ts",
+  createdAt: "2026-10-08T11:11:17.022Z",
+  updatedAt: "2026-10-08T11:11:21.000Z",
 } as const satisfies RelationProperty

@@ -4,4 +4,6 @@ export const stretching = {
   id: "01a0e37e-9433-748c-a27b-ac000c700268",
   type: "page-type/pose-tag",
   slug: "stretching",
+  createdAt: "2026-09-27T15:31:58.643Z",
+  updatedAt: "2026-09-27T15:32:02.000Z",
 } as const satisfies PoseTag

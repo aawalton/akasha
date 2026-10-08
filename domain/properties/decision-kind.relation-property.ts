@@ -15,4 +15,6 @@ export const decisionKind = {
     },
   ],
   types: "ts",
+  createdAt: "2026-08-29T12:02:35.771Z",
+  updatedAt: "2026-09-22T10:11:20.000Z",
 } as const satisfies RelationProperty

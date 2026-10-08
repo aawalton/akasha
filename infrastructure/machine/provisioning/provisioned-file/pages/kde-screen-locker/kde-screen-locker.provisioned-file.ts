@@ -19,4 +19,6 @@ export const kdeScreenLocker = {
       statement: "The lock KDE takes on its own is what preceded each suspend it took.",
     },
   ],
+  createdAt: "2026-09-24T13:10:45.953Z",
+  updatedAt: "2026-09-24T13:11:48.000Z",
 } as const satisfies ProvisionedFile

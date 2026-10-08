@@ -22,4 +22,6 @@ export const safety = {
       statement: "The tile draws that figure alone.",
     },
   ],
+  createdAt: "2026-09-01T23:16:33.653Z",
+  updatedAt: "2026-09-25T16:48:43.000Z",
 } as const satisfies ReadoutGroup

@@ -24,4 +24,6 @@ export const syncScript = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-11T14:50:00.988Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies RelationProperty

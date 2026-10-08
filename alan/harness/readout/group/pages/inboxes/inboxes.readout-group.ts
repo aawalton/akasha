@@ -27,4 +27,6 @@ export const inboxes = {
       statement: "The color any other reading takes is stated by that reading's own scale.",
     },
   ],
+  createdAt: "2026-09-02T12:55:53.429Z",
+  updatedAt: "2026-09-26T13:32:22.000Z",
 } as const satisfies ReadoutGroup

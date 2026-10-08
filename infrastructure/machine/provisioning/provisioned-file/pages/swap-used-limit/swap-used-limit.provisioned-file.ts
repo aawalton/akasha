@@ -10,4 +10,6 @@ export const swapUsedLimit = {
   onlyOn: "linux",
   installPath: "/etc/systemd/oomd.conf.d/99-swap-used-limit.conf",
   reloadWith: "sudo systemctl restart systemd-oomd",
+  createdAt: "2026-09-03T17:48:13.021Z",
+  updatedAt: "2026-09-15T16:18:59.000Z",
 } as const satisfies ProvisionedFile

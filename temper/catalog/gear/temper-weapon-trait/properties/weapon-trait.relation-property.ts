@@ -8,4 +8,6 @@ export const weaponTrait = {
   definition: "a slug naming a trait worked into a weapon",
   targetPageType: "page-type/temper-weapon-trait",
   types: "ts",
+  createdAt: "2026-09-22T15:50:58.101Z",
+  updatedAt: "2026-09-22T15:55:27.000Z",
 } as const satisfies RelationProperty

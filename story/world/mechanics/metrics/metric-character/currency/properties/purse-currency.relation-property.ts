@@ -8,4 +8,6 @@ export const purseCurrency = {
   definition: "the currency a purse is counted in",
   targetPageType: "page-type/world-currency",
   types: "ts",
+  createdAt: "2026-09-30T10:26:32.610Z",
+  updatedAt: "2026-09-30T10:26:37.000Z",
 } as const satisfies RelationProperty

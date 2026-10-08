@@ -7,4 +7,6 @@ export const rejection20260915PostedAchievementsInTheGuild = {
   title: "Posted achievements in the guild",
   happenedAt: "2026-09-15T18:00:00.000Z",
   rejected: false,
+  createdAt: "2026-09-15T19:53:16.977Z",
+  updatedAt: "2026-09-15T19:53:37.000Z",
 } as const satisfies Rejection

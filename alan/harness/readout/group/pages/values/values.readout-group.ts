@@ -16,4 +16,6 @@ export const values = {
         "A value's figure sums its personas' raw units rather than flooring each unit to a rung.",
     },
   ],
+  createdAt: "2026-09-03T03:33:16.512Z",
+  updatedAt: "2026-09-21T17:14:54.000Z",
 } as const satisfies ReadoutGroup

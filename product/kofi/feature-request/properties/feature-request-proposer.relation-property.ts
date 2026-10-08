@@ -18,4 +18,6 @@ export const featureRequestProposer = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-21T17:14:17.821Z",
+  updatedAt: "2026-09-21T23:18:09.000Z",
 } as const satisfies RelationProperty

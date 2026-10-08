@@ -4,4 +4,6 @@ export const headTilt = {
   id: "01a0e37e-9432-7cea-8236-239bb432a2f8",
   type: "page-type/pose-tag",
   slug: "head-tilt",
+  createdAt: "2026-09-27T15:31:58.642Z",
+  updatedAt: "2026-09-27T15:32:02.000Z",
 } as const satisfies PoseTag

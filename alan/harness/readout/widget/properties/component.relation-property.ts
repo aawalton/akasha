@@ -8,4 +8,6 @@ export const component = {
   definition: "a tile's component",
   targetPageType: "page-type/ios-component",
   types: "ts",
+  createdAt: "2026-08-30T21:07:57.191Z",
+  updatedAt: "2026-09-22T13:56:56.000Z",
 } as const satisfies RelationProperty

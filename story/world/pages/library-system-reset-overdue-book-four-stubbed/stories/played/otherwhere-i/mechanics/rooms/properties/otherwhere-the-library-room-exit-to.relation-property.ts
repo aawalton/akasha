@@ -8,4 +8,6 @@ export const otherwhereTheLibraryRoomExitTo = {
   definition: "the room of the Library an exit leads to",
   targetPageType: "page-type/otherwhere-i-room",
   types: "ts",
+  createdAt: "2026-09-28T14:14:52.436Z",
+  updatedAt: "2026-09-28T22:57:02.000Z",
 } as const satisfies RelationProperty

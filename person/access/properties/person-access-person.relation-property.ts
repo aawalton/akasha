@@ -8,4 +8,6 @@ export const personAccessPerson = {
   definition: "the person who holds the access",
   targetPageType: "page-type/person",
   types: "ts",
+  createdAt: "2026-08-30T19:31:37.723Z",
+  updatedAt: "2026-09-15T16:30:55.000Z",
 } as const satisfies RelationProperty

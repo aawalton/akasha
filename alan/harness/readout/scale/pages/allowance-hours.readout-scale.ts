@@ -9,4 +9,6 @@ export const allowanceHours = {
   yellowAt: 24,
   greenAt: 48,
   blueAt: 72,
+  createdAt: "2026-09-02T20:09:28.102Z",
+  updatedAt: "2026-09-15T16:23:31.000Z",
 } as const satisfies ReadoutScale

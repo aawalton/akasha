@@ -14,4 +14,6 @@ export const achievementCategoryParent = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-22T20:46:53.464Z",
+  updatedAt: "2026-09-22T20:48:07.000Z",
 } as const satisfies RelationProperty

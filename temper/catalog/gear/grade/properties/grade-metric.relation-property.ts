@@ -8,4 +8,6 @@ export const gradeMetric = {
   definition: "the number a grade's worth moves",
   targetPageType: "page-type/temper-metric-tree",
   types: "ts",
+  createdAt: "2026-09-24T14:47:17.905Z",
+  updatedAt: "2026-09-24T14:48:23.000Z",
 } as const satisfies RelationProperty

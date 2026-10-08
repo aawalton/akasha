@@ -13,4 +13,6 @@ export const towerPlayerCharacter = {
   decisions: [
     { decisionKind: "decision-kind/departure", statement: "Clicking the cover opens it whole." },
   ],
+  createdAt: "2026-09-28T13:04:55.843Z",
+  updatedAt: "2026-09-28T14:20:12.000Z",
 } as const satisfies PlayedPanel

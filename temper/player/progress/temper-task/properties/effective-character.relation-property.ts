@@ -8,4 +8,6 @@ export const effectiveCharacter = {
   definition: "the character a rotating task falls to for its current turn",
   targetPageType: "page-type/temper-account-character",
   types: "ts",
+  createdAt: "2026-09-22T12:57:50.077Z",
+  updatedAt: "2026-09-22T13:01:04.000Z",
 } as const satisfies RelationProperty

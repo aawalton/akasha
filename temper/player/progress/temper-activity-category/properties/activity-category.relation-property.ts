@@ -18,4 +18,6 @@ export const activityCategory = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-27T03:05:43.742Z",
+  updatedAt: "2026-09-27T03:05:59.000Z",
 } as const satisfies RelationProperty

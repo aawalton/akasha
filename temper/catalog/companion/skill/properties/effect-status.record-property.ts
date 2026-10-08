@@ -13,4 +13,6 @@ export const effectStatus = {
     { pageProperty: "number-property/status-distance", required: false, many: false },
   ],
   types: "ts",
+  createdAt: "2026-09-02T10:06:56.379Z",
+  updatedAt: "2026-09-21T15:26:51.000Z",
 } as const satisfies RecordProperty

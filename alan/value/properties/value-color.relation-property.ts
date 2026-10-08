@@ -14,4 +14,6 @@ export const valueColor = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-04T17:32:46.967Z",
+  updatedAt: "2026-09-22T14:00:01.000Z",
 } as const satisfies RelationProperty

@@ -7,4 +7,6 @@ export const rejection20260918PitchedMyselfAsAnInstructorToPaulAllen = {
   title: "Pitched myself as an instructor to Paul Allen for AI Tribe",
   happenedAt: "2026-09-18T15:00:00.000Z",
   rejected: false,
+  createdAt: "2026-09-18T15:12:53.975Z",
+  updatedAt: "2026-09-18T15:13:44.000Z",
 } as const satisfies Rejection

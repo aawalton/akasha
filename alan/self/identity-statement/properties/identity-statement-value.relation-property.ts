@@ -8,4 +8,6 @@ export const identityStatementValue = {
   definition: "the value the statement serves",
   targetPageType: "page-type/value",
   types: "ts",
+  createdAt: "2026-09-03T04:32:47.519Z",
+  updatedAt: "2026-09-15T16:30:55.000Z",
 } as const satisfies RelationProperty

@@ -7,4 +7,6 @@ export const rejection20260912JoinedAGuildInEso = {
   title: "Joined a guild in ESO",
   happenedAt: "2026-09-12T18:00:00.000Z",
   rejected: false,
+  createdAt: "2026-09-15T19:53:02.101Z",
+  updatedAt: "2026-09-15T19:53:37.000Z",
 } as const satisfies Rejection

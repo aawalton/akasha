@@ -14,4 +14,6 @@ export const storyRecorderStep = {
     },
   ],
   types: "ts",
+  createdAt: "2026-10-03T15:16:28.667Z",
+  updatedAt: "2026-10-03T15:17:18.000Z",
 } as const satisfies RelationProperty

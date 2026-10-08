@@ -14,4 +14,6 @@ export const companionBuildVersionBuild = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-25T12:43:05.652Z",
+  updatedAt: "2026-09-25T12:43:10.000Z",
 } as const satisfies RelationProperty

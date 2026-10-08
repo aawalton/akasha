@@ -10,4 +10,6 @@ export const claudeKeepaliveSysctl = {
   onlyOn: "linux",
   installPath: "/etc/sysctl.d/99-claude-keepalive.conf",
   reloadWith: "sudo sysctl --system",
+  createdAt: "2026-09-03T17:48:13.021Z",
+  updatedAt: "2026-09-15T16:18:59.000Z",
 } as const satisfies ProvisionedFile

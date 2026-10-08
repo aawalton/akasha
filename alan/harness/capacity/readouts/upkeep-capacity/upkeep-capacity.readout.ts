@@ -76,4 +76,6 @@ export const upkeepCapacity = {
   ],
   carriedTo: ["router-app/alan-web", "router-app/smilingjenny-web"],
   madeFrom: "day-row-and-stretches",
+  createdAt: "2026-09-02T12:55:32.938Z",
+  updatedAt: "2026-09-25T17:20:07.000Z",
 } as const satisfies Readout

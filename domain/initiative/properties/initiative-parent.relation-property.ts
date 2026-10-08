@@ -18,4 +18,6 @@ export const initiativeParent = {
     },
   ],
   types: "ts",
+  createdAt: "2026-08-29T16:26:47.477Z",
+  updatedAt: "2026-09-22T13:59:52.000Z",
 } as const satisfies RelationProperty

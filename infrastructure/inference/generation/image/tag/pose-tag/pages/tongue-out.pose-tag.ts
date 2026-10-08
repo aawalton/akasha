@@ -4,4 +4,6 @@ export const tongueOut = {
   id: "01a0e37e-9433-76ea-9156-1e7228e54a19",
   type: "page-type/pose-tag",
   slug: "tongue-out",
+  createdAt: "2026-09-27T15:31:58.643Z",
+  updatedAt: "2026-09-27T15:32:02.000Z",
 } as const satisfies PoseTag

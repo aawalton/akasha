@@ -22,4 +22,6 @@ export const request = {
     },
   ],
   types: "ts",
+  createdAt: "2026-08-30T19:36:58.507Z",
+  updatedAt: "2026-09-25T18:07:24.000Z",
 } as const satisfies RecordProperty

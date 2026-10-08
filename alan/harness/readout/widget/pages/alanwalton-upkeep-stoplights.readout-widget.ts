@@ -16,4 +16,6 @@ export const alanwaltonUpkeepStoplights = {
     "capacitor://localhost/nav/tracking-690c624f?tab=20f5f031-8fa1-44d2-be3a-561b457548f1#widget=alanwalton-upkeep-stoplights",
   groups: ["readout-group/upkeep"],
   place: 6,
+  createdAt: "2026-09-02T21:57:39.545Z",
+  updatedAt: "2026-09-15T16:23:51.000Z",
 } as const satisfies ReadoutWidget

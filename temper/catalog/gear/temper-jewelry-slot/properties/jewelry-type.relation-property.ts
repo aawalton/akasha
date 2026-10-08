@@ -8,4 +8,6 @@ export const jewelryType = {
   definition: "the kind of jewelry a slot takes",
   targetPageType: "page-type/temper-jewelry-type",
   types: "ts",
+  createdAt: "2026-09-02T01:53:02.012Z",
+  updatedAt: "2026-09-22T13:33:07.000Z",
 } as const satisfies RelationProperty

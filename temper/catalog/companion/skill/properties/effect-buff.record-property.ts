@@ -13,4 +13,6 @@ export const effectBuff = {
     { pageProperty: "text-property/value-type", required: false, many: false },
   ],
   types: "ts",
+  createdAt: "2026-09-02T10:06:56.378Z",
+  updatedAt: "2026-09-21T15:26:51.000Z",
 } as const satisfies RecordProperty

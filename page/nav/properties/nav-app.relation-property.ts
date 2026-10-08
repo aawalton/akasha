@@ -8,4 +8,6 @@ export const navApp = {
   definition: "the app a nav item belongs to",
   targetPageType: "page-type/web-app",
   types: "ts",
+  createdAt: "2026-09-22T22:31:56.470Z",
+  updatedAt: "2026-09-22T22:38:35.000Z",
 } as const satisfies RelationProperty

@@ -8,4 +8,6 @@ export const andreeaDanila = {
   relationshipCurrentCircle: "community",
   email: "andreea@millennial-vc.com",
   relationshipLinkedinUrl: "https://www.linkedin.com/in/andreea-danila-4a241a40",
+  createdAt: "2026-04-22T12:39:34.019Z",
+  updatedAt: "2026-09-25T13:01:00.000Z",
 } as const satisfies Relationship

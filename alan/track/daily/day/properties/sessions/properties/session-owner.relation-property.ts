@@ -8,4 +8,6 @@ export const sessionOwner = {
   definition: "the person a record belongs to",
   targetPageType: "page-type/person",
   types: "ts",
+  createdAt: "2026-09-02T02:00:36.367Z",
+  updatedAt: "2026-09-22T15:36:26.000Z",
 } as const satisfies RelationProperty

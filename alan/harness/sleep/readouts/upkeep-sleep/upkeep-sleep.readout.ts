@@ -50,4 +50,6 @@ export const upkeepSleep = {
   ],
   carriedTo: ["router-app/alan-web", "router-app/smilingjenny-web"],
   madeFrom: "day-row",
+  createdAt: "2026-09-02T12:38:40.780Z",
+  updatedAt: "2026-09-25T17:20:07.000Z",
 } as const satisfies Readout

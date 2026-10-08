@@ -18,4 +18,6 @@ export const otherwhereTheLibraryRoomPlace = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-28T14:09:51.686Z",
+  updatedAt: "2026-09-28T22:48:45.000Z",
 } as const satisfies RelationProperty

@@ -8,4 +8,6 @@ export const otherwhereXSkillRarity = {
   definition: "the rarity a skill held in Otherwhere X has reached",
   targetPageType: "page-type/world-rank",
   types: "ts",
+  createdAt: "2026-09-29T00:06:46.625Z",
+  updatedAt: "2026-09-29T00:07:01.000Z",
 } as const satisfies RelationProperty

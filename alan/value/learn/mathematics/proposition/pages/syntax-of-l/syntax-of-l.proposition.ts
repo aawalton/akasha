@@ -8,4 +8,6 @@ export const syntaxOfL = {
   propositionKind: "definition",
   propositionStatus: "adopted",
   statement: "txt",
+  createdAt: "2026-06-28T15:32:37.399Z",
+  updatedAt: "2026-09-15T16:18:20.000Z",
 } as const satisfies Proposition

@@ -4,4 +4,6 @@ export const painting = {
   id: "01a0e37e-9433-742f-8926-31d54af62cee",
   type: "page-type/pose-tag",
   slug: "painting",
+  createdAt: "2026-09-27T15:31:58.643Z",
+  updatedAt: "2026-09-27T15:32:02.000Z",
 } as const satisfies PoseTag

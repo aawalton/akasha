@@ -18,4 +18,6 @@ export const effectMetric = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-24T15:14:58.237Z",
+  updatedAt: "2026-09-24T15:15:21.000Z",
 } as const satisfies RelationProperty

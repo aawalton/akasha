@@ -14,4 +14,6 @@ export const skillLine = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-22T21:59:21.561Z",
+  updatedAt: "2026-09-22T22:02:21.000Z",
 } as const satisfies RelationProperty

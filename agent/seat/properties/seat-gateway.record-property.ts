@@ -22,4 +22,6 @@ export const seatGateway = {
     },
   ],
   types: "ts",
+  createdAt: "2026-08-30T19:02:03.967Z",
+  updatedAt: "2026-09-22T20:23:37.000Z",
 } as const satisfies RecordProperty

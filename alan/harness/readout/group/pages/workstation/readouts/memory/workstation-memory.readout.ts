@@ -47,4 +47,6 @@ export const workstationMemory = {
       statement: "Nothing here turns a share into a color.",
     },
   ],
+  createdAt: "2026-09-14T14:49:36.994Z",
+  updatedAt: "2026-09-25T17:40:33.000Z",
 } as const satisfies Readout

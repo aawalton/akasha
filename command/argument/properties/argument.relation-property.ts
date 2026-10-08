@@ -14,4 +14,6 @@ export const argument = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-12T05:13:34.784Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies RelationProperty

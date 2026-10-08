@@ -8,4 +8,6 @@ export const jewelryTrait = {
   definition: "a slug naming a trait worked into a piece of jewelry",
   targetPageType: "page-type/temper-jewelry-trait",
   types: "ts",
+  createdAt: "2026-09-22T15:51:02.151Z",
+  updatedAt: "2026-09-22T15:55:27.000Z",
 } as const satisfies RelationProperty

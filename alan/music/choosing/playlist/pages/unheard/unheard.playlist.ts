@@ -11,4 +11,6 @@ export const unheard = {
       externalLink: "https://open.spotify.com/playlist/2L6oEjIg7HpfRzv2FrfZcG",
     },
   ],
+  createdAt: "2026-09-21T17:44:21.581Z",
+  updatedAt: "2026-09-21T17:44:31.000Z",
 } as const satisfies Playlist

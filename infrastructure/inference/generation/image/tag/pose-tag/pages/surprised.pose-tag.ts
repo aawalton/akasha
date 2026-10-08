@@ -4,4 +4,6 @@ export const surprised = {
   id: "01a0e37e-9433-702f-852a-81f69767ba10",
   type: "page-type/pose-tag",
   slug: "surprised",
+  createdAt: "2026-09-27T15:31:58.643Z",
+  updatedAt: "2026-09-27T15:32:02.000Z",
 } as const satisfies PoseTag

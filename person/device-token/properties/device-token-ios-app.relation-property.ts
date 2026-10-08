@@ -14,4 +14,6 @@ export const deviceTokenIosApp = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-01T16:22:28.571Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies RelationProperty

@@ -8,4 +8,6 @@ export const rankOfTowerSkill = {
   definition: "the rank a skill in the Tower is at",
   targetPageType: "page-type/tower-skill-rank",
   types: "ts",
+  createdAt: "2026-09-26T14:21:52.879Z",
+  updatedAt: "2026-09-26T14:21:57.000Z",
 } as const satisfies RelationProperty

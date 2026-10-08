@@ -10,4 +10,6 @@ export const wisdomPoints = {
   yellowAt: 0.25,
   greenAt: 0.5,
   blueAt: 1,
+  createdAt: "2026-09-22T17:59:27.419Z",
+  updatedAt: "2026-09-22T17:59:43.000Z",
 } as const satisfies ReadoutScale

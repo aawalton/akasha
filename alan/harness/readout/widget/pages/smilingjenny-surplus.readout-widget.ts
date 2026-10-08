@@ -15,4 +15,6 @@ export const smilingjennySurplus = {
   galleryDescription: "Hours of sleep left after what Alan's day cost.",
   groups: ["readout-group/surplus"],
   place: 3,
+  createdAt: "2026-09-02T21:57:39.545Z",
+  updatedAt: "2026-09-15T16:23:51.000Z",
 } as const satisfies ReadoutWidget

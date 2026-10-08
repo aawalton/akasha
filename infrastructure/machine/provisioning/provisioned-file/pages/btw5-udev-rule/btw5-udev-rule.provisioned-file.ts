@@ -11,4 +11,6 @@ export const btw5UdevRule = {
   installPath: "/etc/udev/rules.d/70-btw5.rules",
   reloadWith:
     "sudo udevadm control --reload && sudo udevadm trigger --subsystem-match=hidraw --subsystem-match=usb",
+  createdAt: "2026-09-03T17:48:13.021Z",
+  updatedAt: "2026-09-15T16:18:59.000Z",
 } as const satisfies ProvisionedFile

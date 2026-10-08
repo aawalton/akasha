@@ -6,4 +6,6 @@ export const davidShelton = {
   slug: "david-shelton",
   title: "David Shelton",
   relationshipLinkedinUrl: "https://www.linkedin.com/in/david-shelton-0b505715",
+  createdAt: "2026-04-22T12:39:34.019Z",
+  updatedAt: "2026-09-25T13:01:00.000Z",
 } as const satisfies Relationship

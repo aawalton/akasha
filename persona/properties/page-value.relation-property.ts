@@ -8,4 +8,6 @@ export const pageValue = {
   definition: "a page's value",
   targetPageType: "page-type/value",
   types: "ts",
+  createdAt: "2026-08-30T15:34:27.040Z",
+  updatedAt: "2026-09-22T18:56:50.000Z",
 } as const satisfies RelationProperty

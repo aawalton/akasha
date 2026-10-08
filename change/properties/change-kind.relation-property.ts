@@ -8,4 +8,6 @@ export const changeKind = {
   definition: "the sort of change an act makes",
   targetPageType: "page-type/change-kind",
   types: "ts",
+  createdAt: "2026-09-02T00:52:36.565Z",
+  updatedAt: "2026-09-15T16:30:55.000Z",
 } as const satisfies RelationProperty

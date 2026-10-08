@@ -12,4 +12,6 @@ export const octalysis = {
     { pageProperty: "text-property/octalysis-definition", required: true, many: false },
   ],
   types: "ts",
+  createdAt: "2026-09-03T12:55:47.460Z",
+  updatedAt: "2026-09-15T16:27:38.000Z",
 } as const satisfies RecordProperty

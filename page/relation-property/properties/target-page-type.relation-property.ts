@@ -8,4 +8,6 @@ export const targetPageType = {
   definition: "the page type this relation's value names, or a page type extending it",
   targetPageType: "page-type/page-type",
   types: "ts",
+  createdAt: "2026-08-28T20:21:38.163Z",
+  updatedAt: "2026-09-15T16:30:55.000Z",
 } as const satisfies RelationProperty

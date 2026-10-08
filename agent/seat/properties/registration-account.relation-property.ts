@@ -19,4 +19,6 @@ export const registrationAccount = {
     },
   ],
   types: "ts",
+  createdAt: "2026-08-30T16:53:52.667Z",
+  updatedAt: "2026-09-25T18:08:11.000Z",
 } as const satisfies RelationProperty

@@ -7,4 +7,6 @@ export const rejection20260915PostedAParseInTheGuild = {
   title: "Posted a parse in the guild",
   happenedAt: "2026-09-15T18:00:00.000Z",
   rejected: true,
+  createdAt: "2026-09-15T19:53:09.597Z",
+  updatedAt: "2026-09-15T19:53:37.000Z",
 } as const satisfies Rejection

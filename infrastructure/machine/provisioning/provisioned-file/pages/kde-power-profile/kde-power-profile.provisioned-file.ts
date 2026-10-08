@@ -26,4 +26,6 @@ export const kdePowerProfile = {
         "KDE suspends on its built-in defaults where this file is absent, as it did after the reinstall.",
     },
   ],
+  createdAt: "2026-09-24T13:10:28.886Z",
+  updatedAt: "2026-09-24T13:11:48.000Z",
 } as const satisfies ProvisionedFile

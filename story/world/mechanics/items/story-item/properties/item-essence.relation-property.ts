@@ -14,4 +14,6 @@ export const itemEssence = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-24T16:04:11.156Z",
+  updatedAt: "2026-09-26T17:47:23.000Z",
 } as const satisfies RelationProperty

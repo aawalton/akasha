@@ -5,4 +5,6 @@ export const object = {
   type: "page-type/prose-frame",
   slug: "object",
   definition: "a word whose object comes after it",
+  createdAt: "2026-09-08T18:22:40.637Z",
+  updatedAt: "2026-09-25T15:41:48.000Z",
 } as const satisfies ProseFrame

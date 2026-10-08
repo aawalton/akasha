@@ -7,4 +7,6 @@ export const supervisorProcess = {
   propertySlug: "supervisor-process",
   definition: "the process of a seat's supervisor",
   types: "ts",
+  createdAt: "2026-08-30T18:55:55.749Z",
+  updatedAt: "2026-09-25T18:11:52.000Z",
 } as const satisfies ProcessProperty

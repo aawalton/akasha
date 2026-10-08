@@ -8,4 +8,6 @@ export const weaponSlot = {
   definition: "a slug naming a hand or a bar holding a weapon",
   targetPageType: "page-type/temper-weapon-slot",
   types: "ts",
+  createdAt: "2026-09-22T16:04:23.627Z",
+  updatedAt: "2026-09-22T16:04:58.000Z",
 } as const satisfies RelationProperty

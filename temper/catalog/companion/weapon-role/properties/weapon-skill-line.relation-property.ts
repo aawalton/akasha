@@ -8,4 +8,6 @@ export const weaponSkillLine = {
   definition: "the companion line a weapon pairing is fought with",
   targetPageType: "page-type/temper-companion-skill-line",
   types: "ts",
+  createdAt: "2026-09-22T22:13:05.716Z",
+  updatedAt: "2026-09-22T22:13:28.000Z",
 } as const satisfies RelationProperty
