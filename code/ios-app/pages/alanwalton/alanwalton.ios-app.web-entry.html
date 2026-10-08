@@ -33,13 +33,44 @@
 
     <script>
       const LIVE_URL = "https://alanwalton.com/home";
+      const SITE = "alanwalton.com";
+      // How long the launch waits for the address the app last showed before
+      // giving up on it and opening LIVE_URL.
+      const ASKING_MS = 500;
       const splashEl = document.getElementById("splash");
       const offlineEl = document.getElementById("offline");
 
+      function onSite(url) {
+        try {
+          const at = new URL(url);
+          return at.protocol === "https:" &&
+            (at.hostname === SITE || at.hostname.endsWith("." + SITE));
+        } catch {
+          return false;
+        }
+      }
+
+      // The LastPlace plugin keeps the alanwalton.com address the app last showed.
+      // A missing plugin, a refusal, an address off the site, or no answer within
+      // ASKING_MS all come back as null, which opens LIVE_URL.
+      function lastPlace() {
+        const plugin = window.Capacitor?.Plugins?.LastPlace;
+        if (!plugin || typeof plugin.saved !== "function") return Promise.resolve(null);
+        const asked = Promise.resolve()
+          .then(() => plugin.saved())
+          .then((said) => (said && typeof said.url === "string" && onSite(said.url) ? said.url : null))
+          .catch(() => null);
+        const waited = new Promise((resolve) => setTimeout(() => resolve(null), ASKING_MS));
+        return Promise.race([asked, waited]);
+      }
+
       if (navigator.onLine) {
         splashEl.classList.remove("hidden");
-        // Brief tick so the splash paints before the navigation swap.
-        setTimeout(() => { window.location.replace(LIVE_URL); }, 50);
+        // A brief tick so the splash paints before the navigation swap.
+        const painted = new Promise((resolve) => setTimeout(resolve, 50));
+        Promise.all([lastPlace(), painted]).then(([place]) => {
+          window.location.replace(place ?? LIVE_URL);
+        });
       } else {
         offlineEl.classList.remove("hidden");
       }

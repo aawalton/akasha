@@ -82,6 +82,20 @@ export const alanwalton = {
     "shell-script/alanwalton-now-playing-commands",
     "shell-script/alanwalton-last-place",
   ],
-  updatedAt: "2026-10-08T16:39:14.315Z",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A launch opens the address the app last kept, or /home where it kept none.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A launch opens a kept address only where it is https on alanwalton.com.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A launch waits half a second for the kept address, then opens /home.",
+    },
+  ],
+  updatedAt: "2026-10-08T16:40:35.059Z",
   createdAt: "2026-08-31T14:02:55.139Z",
 } as const satisfies IosApp
