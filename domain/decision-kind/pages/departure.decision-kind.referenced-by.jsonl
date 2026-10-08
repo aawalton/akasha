@@ -4358,9 +4358,11 @@
 {"propertySlug":"decision-kind","path":"temper/addon/pages/characters/test-fixtures/characters-task-progress-test-utils/characters-task-progress-test-utils.test-fixture.ts","id":"01a08ed6-a208-7d96-96d8-75bf328401f1"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/combat/modules/combat-action-power-lash/combat-action-power-lash.module.ts","id":"01a0617f-5833-7731-89e4-8a2778621a73"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/combat/modules/combat-carry-over/combat-carry-over.module.ts","id":"01a0de65-b876-7c64-8a5a-a41ef5aff605"}
+{"propertySlug":"decision-kind","path":"temper/addon/pages/combat/modules/combat-hud-fields/combat-hud-fields.module.ts","id":"01a11c12-9fd2-7a0f-93f7-8787a6787b35"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/combat/modules/combat-live-figures/combat-live-figures.module.ts","id":"01a11c11-0c43-712d-a2a1-39d257b9e140"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/combat/modules/combat-report-type/combat-report-type.module.ts","id":"01a0d916-4e00-78d0-9f79-d16bd8db48b2"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/combat/modules/combat-ui-helpers/combat-ui-helpers.module.ts","id":"01a0617f-5854-7436-80c0-4ddfc30e1be9"}
+{"propertySlug":"decision-kind","path":"temper/addon/pages/combat/modules/combat-ui-live-report/combat-ui-live-report.module.ts","id":"01a0617f-5856-73b0-8876-bbedee1f7c48"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/combat/modules/combat-ui-plot-mouse/combat-ui-plot-mouse.module.ts","id":"01a0617f-585a-782b-8e49-5df97e36f149"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/combat/modules/combat-ui-report-init/combat-ui-report-init.module.ts","id":"01a0617f-585a-7e18-98ba-ff40fe05a760"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/combat/modules/data-encode-charset/data-encode-charset.module.ts","id":"01a06061-969f-7a3f-8f90-cd7a3e2551ba"}

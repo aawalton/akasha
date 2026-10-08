@@ -2,6 +2,7 @@
 {"propertySlug":"import","fileName":"combat-saved-variables.module.code.ts","path":"temper/addon/pages/combat/modules/combat-core-events/combat-core-events.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"combat-saved-variables.module.code.ts","path":"temper/addon/pages/combat/modules/combat-core-init/combat-core-init.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"combat-saved-variables.module.code.ts","path":"temper/addon/pages/combat/modules/combat-data-tables/combat-data-tables.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"combat-saved-variables.module.code.ts","path":"temper/addon/pages/combat/modules/combat-hud-fields/combat-hud-fields.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"combat-saved-variables.module.code.ts","path":"temper/addon/pages/combat/modules/combat-menu-tail/combat-menu-tail.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"combat-saved-variables.module.code.ts","path":"temper/addon/pages/combat/modules/combat-menu/combat-menu.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"combat-saved-variables.module.code.ts","path":"temper/addon/pages/combat/modules/combat-selection/combat-selection.module.code.ts","typed":false,"deferred":false}

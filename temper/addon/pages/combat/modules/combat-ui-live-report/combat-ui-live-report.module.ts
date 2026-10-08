@@ -6,4 +6,11 @@ export const combatUiLiveReport = {
   slug: "combat-ui-live-report",
   definition: "the small window shown during a fight rather than after it",
   code: "ts",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The live report and the HUD bar read their figures from one set of texts.",
+    },
+  ],
+  updatedAt: "2026-10-08T15:12:25.042Z",
 } as const satisfies Module

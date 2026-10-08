@@ -77,6 +77,7 @@ export const temperAddonCombat = {
     "module/combat-finalize",
     "module/combat-finalize-buffs",
     "module/combat-global-dictionary",
+    "module/combat-hud-fields",
     "module/combat-lib-ability-tables",
     "module/combat-lib-callbacks",
     "module/combat-lib-constants",
@@ -378,5 +379,5 @@ export const temperAddonCombat = {
       statement: "A gap the player's own scale multiplies is judged at scale 1.",
     },
   ],
-  updatedAt: "2026-10-08T15:10:41.731Z",
+  updatedAt: "2026-10-08T15:12:25.042Z",
 } as const satisfies TemperAddon

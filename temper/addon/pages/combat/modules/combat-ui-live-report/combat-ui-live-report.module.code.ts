@@ -1,4 +1,12 @@
 import type { CurrentData } from "akasha/temper/addon/pages/combat/modules/combat-core-types/combat-core-types.module.code.ts"
+import {
+  noteLiveFigures,
+  registerLiveHudFields,
+} from "akasha/temper/addon/pages/combat/modules/combat-hud-fields/combat-hud-fields.module.code.ts"
+import {
+  hasFightFigures,
+  type LiveFigureTexts,
+} from "akasha/temper/addon/pages/combat/modules/combat-live-figures/combat-live-figures.module.code.ts"
 import { getDb } from "akasha/temper/addon/pages/combat/modules/combat-saved-variables/combat-saved-variables.module.code.ts"
 import type {
   LayoutControl,
@@ -84,33 +92,53 @@ export function setLiveReportBgAlpha(alpha: number): undefined {
   return undefined
 }
 
+function liveFigureTexts(data: CurrentData): LiveFigureTexts {
+  const db = getDb()
+  const groupDPSOut = data.groupDPSOut
+  const groupDPSIn = data.groupDPSIn
+  const groupHPSOut = data.groupHPSOut
+
+  const maxtime = zo_roundToNearest(zo_max(data.dpstime, data.hpstime), 0.1)
+  const timeString = string.format("%d:%04.1f", maxtime / 60, maxtime % 60)
+
+  const withGroup = db.recordgrp === true && (groupDPSOut > 0 || groupDPSIn > 0 || groupHPSOut > 0)
+
+  const figure = (mine: number, group: number): string => {
+    if (!withGroup) return tostring(mine)
+    const ratio = group > 0 ? zo_floor((mine / group) * 1000) / 10 : 0
+    return zo_strformat(GetString(SI_TEMPER_COMBAT_SHOW_XPS), mine, group, ratio)
+  }
+
+  return {
+    damageOutSingle: figure(data.bossDPSOut ?? 0, data.bossDPSOutGroup ?? 0),
+    damageOut: figure(data.DPSOut, groupDPSOut),
+    healOut: figure(data.HPSOut, groupHPSOut),
+    healOutAbsolute: tostring(data.OHPSOut ?? 0),
+    damageIn: figure(data.DPSIn, groupDPSIn),
+    healIn: tostring(data.HPSIn),
+    time: timeString,
+  }
+}
+
 export function updateLiveReport(data?: CurrentData): undefined {
   if (data == null) {
     refreshLiveReport()
     return undefined
   }
 
-  const livereport = TemperCombat_LiveReport
-  const db = getDb()
-  const dpsOut = data.DPSOut
-  const dpsIn = data.DPSIn
-  const hpsOut = data.HPSOut
-  const hpsaOut = data.OHPSOut ?? 0
-  const hpsIn = data.HPSIn
-  const dpstime = data.dpstime
-  const hpstime = data.hpstime
-  const groupDPSOut = data.groupDPSOut
-  const groupDPSIn = data.groupDPSIn
-  const groupHPSOut = data.groupHPSOut
-
-  if ((dpsOut === 0 && hpsOut === 0 && dpsIn === 0) || livereport.IsHidden()) {
+  if (!hasFightFigures(data.DPSOut, data.HPSOut, data.DPSIn)) {
     return undefined
   }
 
-  let sdps = 0
-  let groupSDPS = 0
+  const texts = liveFigureTexts(data)
+  noteLiveFigures(texts)
 
-  if (db.liveReport.damageOutSingle) {
+  const livereport = TemperCombat_LiveReport
+  if (livereport.IsHidden()) {
+    return undefined
+  }
+
+  if (getDb().liveReport.damageOutSingle) {
     const block = namedChild(livereport, "DamageOutSingle")
     const iconControl = namedChild<TextureControl>(block, "Icon")
     const tooltipControl = namedChild<TooltipCarrier>(block, "Tooltip")
@@ -127,19 +155,6 @@ export function updateLiveReport(data?: CurrentData): undefined {
     if (isNonNullObject<(TooltipSpec | undefined)[]>(tooltipLines)) {
       tooltipLines[0] = tooltip
     }
-    sdps = data.bossDPSOut ?? 0
-    groupSDPS = data.bossDPSOutGroup ?? 0
-  }
-
-  const maxtime = zo_roundToNearest(zo_max(dpstime, hpstime), 0.1)
-  const timeString = string.format("%d:%04.1f", maxtime / 60, maxtime % 60)
-
-  const withGroup = db.recordgrp === true && (groupDPSOut > 0 || groupDPSIn > 0 || groupHPSOut > 0)
-
-  const figure = (mine: number, group: number): string => {
-    if (!withGroup) return tostring(mine)
-    const ratio = group > 0 ? zo_floor((mine / group) * 1000) / 10 : 0
-    return zo_strformat(GetString(SI_TEMPER_COMBAT_SHOW_XPS), mine, group, ratio)
   }
 
   const setLabel = (blockName: string, text: string): undefined => {
@@ -147,17 +162,19 @@ export function updateLiveReport(data?: CurrentData): undefined {
     return undefined
   }
 
-  setLabel("DamageOutSingle", figure(sdps, groupSDPS))
-  setLabel("DamageOut", figure(dpsOut, groupDPSOut))
-  setLabel("HealOut", figure(hpsOut, groupHPSOut))
-  setLabel("HealOutAbsolute", tostring(hpsaOut))
-  setLabel("DamageIn", figure(dpsIn, groupDPSIn))
-  setLabel("HealIn", tostring(hpsIn))
-  setLabel("Time", timeString)
+  setLabel("DamageOutSingle", texts.damageOutSingle)
+  setLabel("DamageOut", texts.damageOut)
+  setLabel("HealOut", texts.healOut)
+  setLabel("HealOutAbsolute", texts.healOutAbsolute)
+  setLabel("DamageIn", texts.damageIn)
+  setLabel("HealIn", texts.healIn)
+  setLabel("Time", texts.time)
   return undefined
 }
 
 export function initLiveReport(): undefined {
+  registerLiveHudFields()
+
   const setLR = getDb().liveReport
   const liveReport = TemperCombat_LiveReport
 
