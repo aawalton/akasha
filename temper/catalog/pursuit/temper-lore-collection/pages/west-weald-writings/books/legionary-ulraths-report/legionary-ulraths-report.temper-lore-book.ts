@@ -11,4 +11,6 @@ export const legionaryUlrathsReport = {
   charted: true,
   quest: 7214,
   positions: "jsonl",
+  createdAt: "2026-09-25T00:53:10.447Z",
+  updatedAt: "2026-09-25T00:53:12.000Z",
 } as const satisfies TemperLoreBook

@@ -27,4 +27,6 @@ export const theWoodElvesOfValenwood = {
     { mapId: 1060, mapCount: 3 },
     { mapId: 1126, mapCount: 1 },
   ],
+  createdAt: "2026-09-25T00:27:40.901Z",
+  updatedAt: "2026-09-25T00:27:43.000Z",
 } as const satisfies TemperLoreBook

@@ -10,4 +10,6 @@ export const scaryTalesOfTheDeepFolkBook1 = {
   bookIndex: 45,
   charted: true,
   positions: "jsonl",
+  createdAt: "2026-09-25T00:51:31.800Z",
+  updatedAt: "2026-09-25T00:51:33.000Z",
 } as const satisfies TemperLoreBook

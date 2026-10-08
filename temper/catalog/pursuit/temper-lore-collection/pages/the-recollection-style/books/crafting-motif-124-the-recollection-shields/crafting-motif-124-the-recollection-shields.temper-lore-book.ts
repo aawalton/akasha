@@ -7,4 +7,6 @@ export const craftingMotif124TheRecollectionShields = {
   title: "Crafting Motif 124: The Recollection Shields",
   collection: "temper-lore-collection/the-recollection-style",
   bookIndex: 11,
+  createdAt: "2026-09-25T00:21:27.509Z",
+  updatedAt: "2026-09-25T00:21:28.000Z",
 } as const satisfies TemperLoreBook

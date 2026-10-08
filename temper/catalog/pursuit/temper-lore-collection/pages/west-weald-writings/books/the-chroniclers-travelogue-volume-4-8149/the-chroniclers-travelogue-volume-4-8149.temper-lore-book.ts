@@ -9,4 +9,6 @@ export const theChroniclersTravelogueVolume48149 = {
   esoBookId: 8149,
   charted: true,
   positions: "jsonl",
+  createdAt: "2026-09-25T00:53:10.448Z",
+  updatedAt: "2026-09-25T00:53:12.000Z",
 } as const satisfies TemperLoreBook

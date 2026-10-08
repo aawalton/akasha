@@ -11,4 +11,6 @@ export const riteOfPropagation = {
   charted: true,
   quest: 7080,
   positions: "jsonl",
+  createdAt: "2026-09-25T00:53:10.448Z",
+  updatedAt: "2026-09-25T00:53:12.000Z",
 } as const satisfies TemperLoreBook

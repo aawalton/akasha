@@ -7,4 +7,6 @@ export const craftingMotif22TrinimacAxes = {
   title: "Crafting Motif 22: Trinimac Axes",
   collection: "temper-lore-collection/trinimac-style",
   bookIndex: 1,
+  createdAt: "2026-09-25T00:12:01.255Z",
+  updatedAt: "2026-09-25T00:12:02.000Z",
 } as const satisfies TemperLoreBook

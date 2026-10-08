@@ -12,4 +12,6 @@ export const drinksOfTheReach = {
   onBookshelves: true,
   mapCounts: [{ mapId: 41, mapCount: 1 }],
   positions: "jsonl",
+  createdAt: "2026-09-25T00:51:31.799Z",
+  updatedAt: "2026-09-25T00:51:33.000Z",
 } as const satisfies TemperLoreBook

@@ -9,4 +9,6 @@ export const grandOratoryClue = {
   esoBookId: 7297,
   bookIndex: 15,
   charted: false,
+  createdAt: "2026-09-25T00:52:23.573Z",
+  updatedAt: "2026-09-25T00:52:24.000Z",
 } as const satisfies TemperLoreBook

@@ -11,4 +11,6 @@ export const offerOfAmnesty = {
   charted: true,
   quest: 5317,
   positions: "jsonl",
+  createdAt: "2026-09-25T00:28:38.923Z",
+  updatedAt: "2026-09-25T00:28:41.000Z",
 } as const satisfies TemperLoreBook

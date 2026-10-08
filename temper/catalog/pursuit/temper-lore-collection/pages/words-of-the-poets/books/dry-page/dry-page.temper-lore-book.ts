@@ -11,4 +11,6 @@ export const dryPage = {
   charted: true,
   quest: 4071,
   positions: "jsonl",
+  createdAt: "2026-09-25T00:27:51.189Z",
+  updatedAt: "2026-09-25T00:27:53.000Z",
 } as const satisfies TemperLoreBook

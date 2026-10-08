@@ -9,4 +9,6 @@ export const anseisVictoryClue = {
   esoBookId: 7298,
   bookIndex: 16,
   charted: false,
+  createdAt: "2026-09-25T00:52:23.572Z",
+  updatedAt: "2026-09-25T00:52:24.000Z",
 } as const satisfies TemperLoreBook

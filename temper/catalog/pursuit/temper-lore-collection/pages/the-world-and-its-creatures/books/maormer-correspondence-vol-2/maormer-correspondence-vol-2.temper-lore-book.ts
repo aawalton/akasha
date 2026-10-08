@@ -10,4 +10,6 @@ export const maormerCorrespondenceVol2 = {
   bookIndex: 25,
   charted: true,
   positions: "jsonl",
+  createdAt: "2026-09-25T00:27:40.900Z",
+  updatedAt: "2026-09-25T00:27:43.000Z",
 } as const satisfies TemperLoreBook

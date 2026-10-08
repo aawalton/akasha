@@ -7,4 +7,6 @@ export const craftingMotif134TideBornHelmets = {
   title: "Crafting Motif 134: Tide-Born Helmets",
   collection: "temper-lore-collection/tide-born-style",
   bookIndex: 8,
+  createdAt: "2026-09-25T00:22:20.846Z",
+  updatedAt: "2026-09-25T00:22:22.000Z",
 } as const satisfies TemperLoreBook

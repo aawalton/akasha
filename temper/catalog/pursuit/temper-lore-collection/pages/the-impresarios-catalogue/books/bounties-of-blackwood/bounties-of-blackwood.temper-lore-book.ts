@@ -9,4 +9,6 @@ export const bountiesOfBlackwood = {
   esoBookId: 6730,
   bookIndex: 3,
   charted: false,
+  createdAt: "2026-09-25T00:51:52.125Z",
+  updatedAt: "2026-09-25T00:51:53.000Z",
 } as const satisfies TemperLoreBook

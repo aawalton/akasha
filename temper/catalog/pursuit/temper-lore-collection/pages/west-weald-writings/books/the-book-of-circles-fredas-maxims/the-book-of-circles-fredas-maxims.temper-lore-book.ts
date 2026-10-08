@@ -7,4 +7,6 @@ export const theBookOfCirclesFredasMaxims = {
   title: "The Book of Circles, Fredas Maxims",
   collection: "temper-lore-collection/west-weald-writings",
   bookIndex: 9,
+  createdAt: "2026-09-25T00:53:10.448Z",
+  updatedAt: "2026-09-25T00:53:12.000Z",
 } as const satisfies TemperLoreBook

@@ -7,4 +7,6 @@ export const craftingMotif17XivkynAxes = {
   title: "Crafting Motif 17: Xivkyn Axes",
   collection: "temper-lore-collection/xivkyn-style",
   bookIndex: 1,
+  createdAt: "2026-09-25T00:11:45.437Z",
+  updatedAt: "2026-09-25T00:11:46.000Z",
 } as const satisfies TemperLoreBook

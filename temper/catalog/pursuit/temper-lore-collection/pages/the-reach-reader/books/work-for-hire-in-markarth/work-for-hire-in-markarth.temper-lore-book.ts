@@ -10,4 +10,6 @@ export const workForHireInMarkarth = {
   bookIndex: 7,
   charted: true,
   positions: "jsonl",
+  createdAt: "2026-09-25T00:51:31.801Z",
+  updatedAt: "2026-09-25T00:51:33.000Z",
 } as const satisfies TemperLoreBook

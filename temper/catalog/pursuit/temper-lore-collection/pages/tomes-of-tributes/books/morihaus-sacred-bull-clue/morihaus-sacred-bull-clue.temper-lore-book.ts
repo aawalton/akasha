@@ -7,4 +7,6 @@ export const morihausSacredBullClue = {
   title: "Morihaus, Sacred Bull Clue",
   collection: "temper-lore-collection/tomes-of-tributes",
   bookIndex: 29,
+  createdAt: "2026-09-25T00:52:23.573Z",
+  updatedAt: "2026-09-25T00:52:24.000Z",
 } as const satisfies TemperLoreBook

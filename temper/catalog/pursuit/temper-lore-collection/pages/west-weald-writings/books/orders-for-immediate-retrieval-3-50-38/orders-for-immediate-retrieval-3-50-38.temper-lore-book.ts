@@ -7,4 +7,6 @@ export const ordersForImmediateRetrieval35038 = {
   title: "Orders for Immediate Retrieval",
   collection: "temper-lore-collection/west-weald-writings",
   bookIndex: 38,
+  createdAt: "2026-09-25T00:53:10.448Z",
+  updatedAt: "2026-09-25T00:53:12.000Z",
 } as const satisfies TemperLoreBook

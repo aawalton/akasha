@@ -7,4 +7,6 @@ export const lanternOfTheEndlessClue = {
   title: "Lantern of the Endless Clue",
   collection: "temper-lore-collection/tomes-of-tributes",
   bookIndex: 27,
+  createdAt: "2026-09-25T00:52:23.573Z",
+  updatedAt: "2026-09-25T00:52:24.000Z",
 } as const satisfies TemperLoreBook

@@ -10,4 +10,6 @@ export const theGreenLadysPrimerForChildren7900 = {
   charted: true,
   quest: 7080,
   positions: "jsonl",
+  createdAt: "2026-09-25T00:52:23.573Z",
+  updatedAt: "2026-09-25T00:52:24.000Z",
 } as const satisfies TemperLoreBook

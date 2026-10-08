@@ -12,4 +12,6 @@ export const greatSpiritsOfTheReachVolume1 = {
   onBookshelves: true,
   mapCounts: [{ mapId: 42, mapCount: 1 }],
   positions: "jsonl",
+  createdAt: "2026-09-25T00:51:31.800Z",
+  updatedAt: "2026-09-25T00:51:33.000Z",
 } as const satisfies TemperLoreBook

@@ -7,4 +7,6 @@ export const craftingMotif60WormCultBoots = {
   title: "Crafting Motif 60: Worm Cult Boots",
   collection: "temper-lore-collection/worm-cult-style",
   bookIndex: 3,
+  createdAt: "2026-09-25T00:14:47.335Z",
+  updatedAt: "2026-09-25T00:14:48.000Z",
 } as const satisfies TemperLoreBook

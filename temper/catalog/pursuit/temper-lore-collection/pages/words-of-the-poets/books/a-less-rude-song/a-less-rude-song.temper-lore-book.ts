@@ -12,4 +12,6 @@ export const aLessRudeSong = {
   onBookshelves: true,
   mapCounts: [{ mapId: 31, mapCount: 1 }],
   positions: "jsonl",
+  createdAt: "2026-09-25T00:27:51.189Z",
+  updatedAt: "2026-09-25T00:27:53.000Z",
 } as const satisfies TemperLoreBook

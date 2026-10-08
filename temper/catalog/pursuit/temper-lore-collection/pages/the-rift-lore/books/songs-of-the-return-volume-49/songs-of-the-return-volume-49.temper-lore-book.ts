@@ -8,4 +8,6 @@ export const songsOfTheReturnVolume49 = {
   collection: "temper-lore-collection/the-rift-lore",
   bookIndex: 1,
   shalidorPins: "jsonl",
+  createdAt: "2026-09-25T00:08:49.546Z",
+  updatedAt: "2026-09-25T00:08:50.000Z",
 } as const satisfies TemperLoreBook

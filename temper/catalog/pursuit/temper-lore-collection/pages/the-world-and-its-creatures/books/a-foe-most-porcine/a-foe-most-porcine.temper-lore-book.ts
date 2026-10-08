@@ -9,4 +9,6 @@ export const aFoeMostPorcine = {
   esoBookId: 6577,
   bookIndex: 80,
   charted: false,
+  createdAt: "2026-09-25T00:27:40.899Z",
+  updatedAt: "2026-09-25T00:27:43.000Z",
 } as const satisfies TemperLoreBook

@@ -20,4 +20,6 @@ export const morrowindFaunaPartOne = {
     { mapId: 258, mapCount: 8 },
     { mapId: 1060, mapCount: 66 },
   ],
+  createdAt: "2026-09-25T00:27:40.900Z",
+  updatedAt: "2026-09-25T00:27:43.000Z",
 } as const satisfies TemperLoreBook

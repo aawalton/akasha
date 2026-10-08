@@ -10,4 +10,6 @@ export const theImpresariosCatalogueBook7751 = {
   bookIndex: 12,
   charted: true,
   positions: "jsonl",
+  createdAt: "2026-09-25T00:51:52.125Z",
+  updatedAt: "2026-09-25T00:57:29.000Z",
 } as const satisfies TemperLoreBook

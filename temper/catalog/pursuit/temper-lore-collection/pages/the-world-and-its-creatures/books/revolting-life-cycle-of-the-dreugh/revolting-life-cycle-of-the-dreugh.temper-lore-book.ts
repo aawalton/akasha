@@ -16,4 +16,6 @@ export const revoltingLifeCycleOfTheDreugh = {
     { mapId: 13, mapCount: 10 },
     { mapId: 27, mapCount: 2 },
   ],
+  createdAt: "2026-09-25T00:27:40.900Z",
+  updatedAt: "2026-09-25T00:27:43.000Z",
 } as const satisfies TemperLoreBook

@@ -11,4 +11,6 @@ export const chroniclesOfTheFiveCompanions9 = {
   charted: true,
   quest: 4847,
   positions: "jsonl",
+  createdAt: "2026-09-25T00:27:30.030Z",
+  updatedAt: "2026-09-25T00:27:31.000Z",
 } as const satisfies TemperLoreBook

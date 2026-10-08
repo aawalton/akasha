@@ -16,4 +16,6 @@ export const stormholdCityOfShadowfen = {
     { mapId: 125, mapCount: 5 },
     { mapId: 256, mapCount: 10 },
   ],
+  createdAt: "2026-09-25T00:27:40.900Z",
+  updatedAt: "2026-09-25T00:27:43.000Z",
 } as const satisfies TemperLoreBook

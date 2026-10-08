@@ -7,4 +7,6 @@ export const craftingMotif67WelkynarMaces = {
   title: "Crafting Motif 67: Welkynar Maces",
   collection: "temper-lore-collection/welkynar-style",
   bookIndex: 10,
+  createdAt: "2026-09-25T00:16:12.247Z",
+  updatedAt: "2026-09-25T00:16:13.000Z",
 } as const satisfies TemperLoreBook

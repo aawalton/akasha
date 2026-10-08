@@ -9,4 +9,6 @@ export const ferharasWarclaws = {
   esoBookId: 4553,
   charted: true,
   positions: "jsonl",
+  createdAt: "2026-09-25T00:29:33.208Z",
+  updatedAt: "2026-09-25T00:29:35.000Z",
 } as const satisfies TemperLoreBook

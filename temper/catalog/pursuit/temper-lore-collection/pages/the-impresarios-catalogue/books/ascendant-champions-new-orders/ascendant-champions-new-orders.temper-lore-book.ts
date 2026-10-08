@@ -11,4 +11,6 @@ export const ascendantChampionsNewOrders = {
   charted: true,
   quest: 6761,
   positions: "jsonl",
+  createdAt: "2026-09-25T00:51:52.124Z",
+  updatedAt: "2026-09-25T00:51:53.000Z",
 } as const satisfies TemperLoreBook

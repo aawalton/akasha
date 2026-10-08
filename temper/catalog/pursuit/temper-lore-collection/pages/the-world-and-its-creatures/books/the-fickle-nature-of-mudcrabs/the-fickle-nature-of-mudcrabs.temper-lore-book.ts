@@ -20,4 +20,6 @@ export const theFickleNatureOfMudcrabs = {
     { mapId: 227, mapCount: 3 },
     { mapId: 258, mapCount: 18 },
   ],
+  createdAt: "2026-09-25T00:27:40.901Z",
+  updatedAt: "2026-09-25T00:27:43.000Z",
 } as const satisfies TemperLoreBook

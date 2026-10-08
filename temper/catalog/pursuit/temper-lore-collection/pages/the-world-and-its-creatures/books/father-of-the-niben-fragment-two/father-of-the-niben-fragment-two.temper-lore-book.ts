@@ -16,4 +16,6 @@ export const fatherOfTheNibenFragmentTwo = {
     { mapId: 13, mapCount: 12 },
     { mapId: 27, mapCount: 16 },
   ],
+  createdAt: "2026-09-25T00:27:40.899Z",
+  updatedAt: "2026-09-25T00:27:43.000Z",
 } as const satisfies TemperLoreBook

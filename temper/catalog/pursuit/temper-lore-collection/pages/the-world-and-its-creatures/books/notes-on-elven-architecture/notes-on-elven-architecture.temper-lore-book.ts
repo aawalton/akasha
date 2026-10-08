@@ -23,4 +23,6 @@ export const notesOnElvenArchitecture = {
     { mapId: 1349, mapCount: 88 },
     { mapId: 1429, mapCount: 24 },
   ],
+  createdAt: "2026-09-25T00:27:40.900Z",
+  updatedAt: "2026-09-25T00:27:43.000Z",
 } as const satisfies TemperLoreBook

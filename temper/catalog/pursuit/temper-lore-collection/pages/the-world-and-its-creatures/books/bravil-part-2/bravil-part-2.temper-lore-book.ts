@@ -17,4 +17,6 @@ export const bravilPart2 = {
     { mapId: 20, mapCount: 1 },
     { mapId: 27, mapCount: 4 },
   ],
+  createdAt: "2026-09-25T00:27:40.899Z",
+  updatedAt: "2026-09-25T00:27:43.000Z",
 } as const satisfies TemperLoreBook

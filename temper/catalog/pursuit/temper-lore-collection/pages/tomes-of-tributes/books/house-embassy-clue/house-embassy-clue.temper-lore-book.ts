@@ -9,4 +9,6 @@ export const houseEmbassyClue = {
   esoBookId: 7252,
   bookIndex: 3,
   charted: false,
+  createdAt: "2026-09-25T00:52:23.573Z",
+  updatedAt: "2026-09-25T00:52:24.000Z",
 } as const satisfies TemperLoreBook

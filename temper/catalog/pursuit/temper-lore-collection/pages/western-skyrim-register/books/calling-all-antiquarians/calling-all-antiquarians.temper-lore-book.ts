@@ -11,4 +11,6 @@ export const callingAllAntiquarians = {
   charted: true,
   quest: 6514,
   positions: "jsonl",
+  createdAt: "2026-09-25T00:51:22.081Z",
+  updatedAt: "2026-09-25T00:51:23.000Z",
 } as const satisfies TemperLoreBook

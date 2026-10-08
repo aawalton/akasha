@@ -7,4 +7,6 @@ export const craftingMotif33ThievesGuildMaces = {
   title: "Crafting Motif 33: Thieves Guild Maces",
   collection: "temper-lore-collection/thieves-guild-style",
   bookIndex: 10,
+  createdAt: "2026-09-25T00:12:51.902Z",
+  updatedAt: "2026-09-25T00:12:52.000Z",
 } as const satisfies TemperLoreBook

@@ -10,4 +10,6 @@ export const tamrielsFinestWines = {
   bookIndex: 4,
   charted: true,
   positions: "jsonl",
+  createdAt: "2026-09-25T00:51:52.125Z",
+  updatedAt: "2026-09-25T00:51:53.000Z",
 } as const satisfies TemperLoreBook

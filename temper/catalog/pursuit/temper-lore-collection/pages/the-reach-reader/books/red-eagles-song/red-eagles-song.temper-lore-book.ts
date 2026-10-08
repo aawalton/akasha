@@ -12,4 +12,6 @@ export const redEaglesSong = {
   onBookshelves: true,
   mapCounts: [{ mapId: 42, mapCount: 2 }],
   positions: "jsonl",
+  createdAt: "2026-09-25T00:51:31.800Z",
+  updatedAt: "2026-09-25T00:51:33.000Z",
 } as const satisfies TemperLoreBook

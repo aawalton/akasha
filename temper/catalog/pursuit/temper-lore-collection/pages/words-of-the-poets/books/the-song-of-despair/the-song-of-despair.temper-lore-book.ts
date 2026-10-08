@@ -7,4 +7,6 @@ export const theSongOfDespair = {
   title: "The Song of Despair",
   collection: "temper-lore-collection/words-of-the-poets",
   bookIndex: 17,
+  createdAt: "2026-09-25T00:27:51.190Z",
+  updatedAt: "2026-09-25T00:27:53.000Z",
 } as const satisfies TemperLoreBook

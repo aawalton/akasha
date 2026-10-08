@@ -7,4 +7,6 @@ export const craftingMotif127WestWealdLegionStaves = {
   title: "Crafting Motif 127: West Weald Legion Staves",
   collection: "temper-lore-collection/west-weald-legion-style",
   bookIndex: 13,
+  createdAt: "2026-09-25T00:21:43.256Z",
+  updatedAt: "2026-09-25T00:21:44.000Z",
 } as const satisfies TemperLoreBook

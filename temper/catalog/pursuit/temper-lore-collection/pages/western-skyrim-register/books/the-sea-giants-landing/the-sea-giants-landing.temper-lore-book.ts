@@ -11,4 +11,6 @@ export const theSeaGiantsLanding = {
   charted: true,
   quest: 6509,
   positions: "jsonl",
+  createdAt: "2026-09-25T00:51:22.082Z",
+  updatedAt: "2026-09-25T00:51:23.000Z",
 } as const satisfies TemperLoreBook

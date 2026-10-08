@@ -7,4 +7,6 @@ export const craftingMotif97WaywardGuardianStaves = {
   title: "Crafting Motif 97: Wayward Guardian Staves",
   collection: "temper-lore-collection/wayward-guardian-style",
   bookIndex: 13,
+  createdAt: "2026-09-25T00:18:37.941Z",
+  updatedAt: "2026-09-25T00:18:39.000Z",
 } as const satisfies TemperLoreBook

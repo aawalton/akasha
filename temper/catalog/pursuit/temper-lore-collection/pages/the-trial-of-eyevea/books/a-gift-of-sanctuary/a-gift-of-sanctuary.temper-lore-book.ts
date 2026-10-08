@@ -8,4 +8,6 @@ export const aGiftOfSanctuary = {
   collection: "temper-lore-collection/the-trial-of-eyevea",
   bookIndex: 2,
   shalidorPins: "jsonl",
+  createdAt: "2026-09-25T00:07:20.868Z",
+  updatedAt: "2026-09-25T00:07:22.000Z",
 } as const satisfies TemperLoreBook

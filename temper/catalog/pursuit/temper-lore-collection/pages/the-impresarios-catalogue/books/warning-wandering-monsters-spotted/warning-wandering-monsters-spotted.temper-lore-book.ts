@@ -7,4 +7,6 @@ export const warningWanderingMonstersSpotted = {
   title: "Warning: Wandering Monsters Spotted",
   collection: "temper-lore-collection/the-impresarios-catalogue",
   bookIndex: 14,
+  createdAt: "2026-09-25T00:51:52.125Z",
+  updatedAt: "2026-09-25T00:51:53.000Z",
 } as const satisfies TemperLoreBook

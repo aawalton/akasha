@@ -8,4 +8,6 @@ export const unexpectedAllies = {
   collection: "temper-lore-collection/the-rift-lore",
   bookIndex: 5,
   shalidorPins: "jsonl",
+  createdAt: "2026-09-25T00:08:49.547Z",
+  updatedAt: "2026-09-25T00:08:50.000Z",
 } as const satisfies TemperLoreBook

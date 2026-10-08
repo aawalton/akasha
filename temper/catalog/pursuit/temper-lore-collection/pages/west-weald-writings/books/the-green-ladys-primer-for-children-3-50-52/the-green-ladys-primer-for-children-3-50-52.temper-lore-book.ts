@@ -7,4 +7,6 @@ export const theGreenLadysPrimerForChildren35052 = {
   title: "The Green Lady's Primer for Children",
   collection: "temper-lore-collection/west-weald-writings",
   bookIndex: 52,
+  createdAt: "2026-09-25T00:53:10.448Z",
+  updatedAt: "2026-09-25T00:53:12.000Z",
 } as const satisfies TemperLoreBook

@@ -7,4 +7,6 @@ export const ambushOrders35041 = {
   title: "Ambush Orders",
   collection: "temper-lore-collection/west-weald-writings",
   bookIndex: 41,
+  createdAt: "2026-09-25T00:53:10.446Z",
+  updatedAt: "2026-09-25T00:53:12.000Z",
 } as const satisfies TemperLoreBook

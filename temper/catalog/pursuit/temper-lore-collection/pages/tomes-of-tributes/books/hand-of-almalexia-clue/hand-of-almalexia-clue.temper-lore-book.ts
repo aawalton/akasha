@@ -7,4 +7,6 @@ export const handOfAlmalexiaClue = {
   title: "Hand of Almalexia Clue",
   collection: "temper-lore-collection/tomes-of-tributes",
   bookIndex: 23,
+  createdAt: "2026-09-25T00:52:23.573Z",
+  updatedAt: "2026-09-25T00:52:24.000Z",
 } as const satisfies TemperLoreBook

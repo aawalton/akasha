@@ -34,4 +34,6 @@ export const theColdharbourCompact = {
     { mapId: 1349, mapCount: 31 },
     { mapId: 1429, mapCount: 8 },
   ],
+  createdAt: "2026-09-25T00:27:51.190Z",
+  updatedAt: "2026-09-25T00:27:53.000Z",
 } as const satisfies TemperLoreBook

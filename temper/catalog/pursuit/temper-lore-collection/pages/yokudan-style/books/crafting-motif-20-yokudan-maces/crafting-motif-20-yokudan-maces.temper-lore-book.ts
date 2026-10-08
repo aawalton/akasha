@@ -7,4 +7,6 @@ export const craftingMotif20YokudanMaces = {
   title: "Crafting Motif 20: Yokudan Maces",
   collection: "temper-lore-collection/yokudan-style",
   bookIndex: 10,
+  createdAt: "2026-09-25T00:11:30.707Z",
+  updatedAt: "2026-09-25T00:11:31.000Z",
 } as const satisfies TemperLoreBook

@@ -12,4 +12,6 @@ export const darkCompanyDesertersOrMercenaries = {
   onBookshelves: true,
   mapCounts: [{ mapId: 2427, mapCount: 1 }],
   positions: "jsonl",
+  createdAt: "2026-09-25T00:53:10.447Z",
+  updatedAt: "2026-09-25T00:53:12.000Z",
 } as const satisfies TemperLoreBook

@@ -16,4 +16,6 @@ export const arborealArchitecture = {
     { mapId: 30, mapCount: 9 },
     { mapId: 61, mapCount: 3 },
   ],
+  createdAt: "2026-09-25T00:27:40.899Z",
+  updatedAt: "2026-09-25T00:27:43.000Z",
 } as const satisfies TemperLoreBook

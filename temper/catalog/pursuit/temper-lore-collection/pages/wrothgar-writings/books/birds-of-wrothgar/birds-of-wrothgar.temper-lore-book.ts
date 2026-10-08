@@ -10,4 +10,6 @@ export const birdsOfWrothgar = {
   bookIndex: 14,
   charted: true,
   positions: "jsonl",
+  createdAt: "2026-09-25T00:28:38.922Z",
+  updatedAt: "2026-09-25T00:28:41.000Z",
 } as const satisfies TemperLoreBook

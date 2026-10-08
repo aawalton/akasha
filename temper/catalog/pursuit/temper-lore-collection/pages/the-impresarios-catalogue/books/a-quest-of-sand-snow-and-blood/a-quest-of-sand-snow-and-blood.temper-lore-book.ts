@@ -9,4 +9,6 @@ export const aQuestOfSandSnowAndBlood = {
   esoBookId: 6508,
   bookIndex: 2,
   charted: false,
+  createdAt: "2026-09-25T00:51:52.124Z",
+  updatedAt: "2026-09-25T00:51:53.000Z",
 } as const satisfies TemperLoreBook

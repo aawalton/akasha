@@ -7,4 +7,6 @@ export const bravilPart132014 = {
   title: "Bravil, Part 1",
   collection: "temper-lore-collection/the-world-and-its-creatures",
   bookIndex: 14,
+  createdAt: "2026-09-25T00:27:40.899Z",
+  updatedAt: "2026-09-25T00:27:43.000Z",
 } as const satisfies TemperLoreBook

@@ -7,4 +7,6 @@ export const craftingMotif115YffresWillChests = {
   title: "Crafting Motif 115: Y'ffre's Will Chests",
   collection: "temper-lore-collection/yffres-will-style",
   bookIndex: 5,
+  createdAt: "2026-09-25T00:20:41.078Z",
+  updatedAt: "2026-09-25T00:20:42.000Z",
 } as const satisfies TemperLoreBook

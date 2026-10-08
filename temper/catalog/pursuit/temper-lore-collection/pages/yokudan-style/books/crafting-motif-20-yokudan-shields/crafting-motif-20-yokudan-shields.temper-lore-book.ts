@@ -7,4 +7,6 @@ export const craftingMotif20YokudanShields = {
   title: "Crafting Motif 20: Yokudan Shields",
   collection: "temper-lore-collection/yokudan-style",
   bookIndex: 11,
+  createdAt: "2026-09-25T00:11:30.707Z",
+  updatedAt: "2026-09-25T00:11:31.000Z",
 } as const satisfies TemperLoreBook

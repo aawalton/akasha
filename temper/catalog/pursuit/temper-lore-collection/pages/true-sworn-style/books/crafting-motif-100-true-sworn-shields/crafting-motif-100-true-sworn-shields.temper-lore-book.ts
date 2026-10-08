@@ -7,4 +7,6 @@ export const craftingMotif100TrueSwornShields = {
   title: "Crafting Motif 100: True-Sworn Shields",
   collection: "temper-lore-collection/true-sworn-style",
   bookIndex: 11,
+  createdAt: "2026-09-25T00:18:47.953Z",
+  updatedAt: "2026-09-25T00:18:49.000Z",
 } as const satisfies TemperLoreBook

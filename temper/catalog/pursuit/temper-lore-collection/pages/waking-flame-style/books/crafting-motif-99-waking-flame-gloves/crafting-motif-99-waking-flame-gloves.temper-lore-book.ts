@@ -7,4 +7,6 @@ export const craftingMotif99WakingFlameGloves = {
   title: "Crafting Motif 99: Waking Flame Gloves",
   collection: "temper-lore-collection/waking-flame-style",
   bookIndex: 7,
+  createdAt: "2026-09-25T00:18:53.104Z",
+  updatedAt: "2026-09-25T00:18:54.000Z",
 } as const satisfies TemperLoreBook

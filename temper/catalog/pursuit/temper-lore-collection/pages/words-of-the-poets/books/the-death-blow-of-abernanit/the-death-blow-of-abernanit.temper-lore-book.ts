@@ -16,4 +16,6 @@ export const theDeathBlowOfAbernanit = {
     { mapId: 13, mapCount: 18 },
     { mapId: 27, mapCount: 5 },
   ],
+  createdAt: "2026-09-25T00:27:51.190Z",
+  updatedAt: "2026-09-25T00:27:53.000Z",
 } as const satisfies TemperLoreBook

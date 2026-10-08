@@ -10,4 +10,6 @@ export const rasirsJournalPage8 = {
   bookIndex: 33,
   charted: true,
   positions: "jsonl",
+  createdAt: "2026-09-25T00:51:22.082Z",
+  updatedAt: "2026-09-25T00:51:23.000Z",
 } as const satisfies TemperLoreBook

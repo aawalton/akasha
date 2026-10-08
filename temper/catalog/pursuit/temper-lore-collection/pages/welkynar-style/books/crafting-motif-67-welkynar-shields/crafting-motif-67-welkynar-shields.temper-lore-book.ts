@@ -7,4 +7,6 @@ export const craftingMotif67WelkynarShields = {
   title: "Crafting Motif 67: Welkynar Shields",
   collection: "temper-lore-collection/welkynar-style",
   bookIndex: 11,
+  createdAt: "2026-09-25T00:16:12.247Z",
+  updatedAt: "2026-09-25T00:16:13.000Z",
 } as const satisfies TemperLoreBook

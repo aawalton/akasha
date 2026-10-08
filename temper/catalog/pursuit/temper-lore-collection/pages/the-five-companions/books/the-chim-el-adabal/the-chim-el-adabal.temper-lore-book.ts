@@ -10,4 +10,6 @@ export const theChimElAdabal = {
   bookIndex: 7,
   charted: true,
   positions: "jsonl",
+  createdAt: "2026-09-25T00:27:30.030Z",
+  updatedAt: "2026-09-25T00:27:31.000Z",
 } as const satisfies TemperLoreBook

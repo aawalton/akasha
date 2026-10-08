@@ -7,4 +7,6 @@ export const craftingMotif90ThornLegionBows = {
   title: "Crafting Motif 90: Thorn Legion Bows",
   collection: "temper-lore-collection/thorn-legion-style",
   bookIndex: 4,
+  createdAt: "2026-09-25T00:18:03.314Z",
+  updatedAt: "2026-09-25T00:18:04.000Z",
 } as const satisfies TemperLoreBook

@@ -9,4 +9,6 @@ export const theBladesongsOfBoethraVolumeIi = {
   esoBookId: 7901,
   charted: true,
   positions: "jsonl",
+  createdAt: "2026-09-25T00:52:23.573Z",
+  updatedAt: "2026-09-25T00:52:24.000Z",
 } as const satisfies TemperLoreBook

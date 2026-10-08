@@ -9,4 +9,6 @@ export const ulfsildsLogTheNetch8148 = {
   esoBookId: 8148,
   charted: true,
   positions: "jsonl",
+  createdAt: "2026-09-25T00:53:10.448Z",
+  updatedAt: "2026-09-25T00:53:12.000Z",
 } as const satisfies TemperLoreBook
