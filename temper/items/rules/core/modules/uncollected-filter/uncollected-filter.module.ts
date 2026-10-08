@@ -27,5 +27,9 @@ export const uncollectedFilter = {
       decisionKind: "decision-kind/departure",
       statement: "This filter's options are its condition field's value pages.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A rule carrying this condition may carry a market value condition beside it.",
+    },
   ],
 } as const satisfies Module
