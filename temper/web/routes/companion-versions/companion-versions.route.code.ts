@@ -66,7 +66,7 @@ export async function loader({ params, request }: Route.LoaderArgs): Promise<Res
         versionNumber,
         isCheckpoint: row.isCheckpoint === true,
         checkpointName: typeof row.checkpointName === "string" ? row.checkpointName : null,
-        createdAt: buildVersionCreatedAt(id, versionNumber),
+        createdAt: buildVersionCreatedAt(row),
         buildHash: typeof row.buildHash === "string" ? row.buildHash : "",
         buildMetadata: {
           title: typeof row.title === "string" ? row.title : "",

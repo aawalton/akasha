@@ -10,16 +10,12 @@ export const buildVersionCreatedAt = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "A version whose id is a uuid of version 7 was created at the moment in its id.",
-    },
-    {
-      decisionKind: "decision-kind/stopgap",
-      statement:
-        "A version whose id holds no moment was created at a version number that is an instant.",
+      statement: "A version was created at the instant its page states.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A version with neither has no instant rather than the start of the epoch.",
+      statement:
+        "A version whose page states none has no instant rather than the start of the epoch.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -27,5 +23,5 @@ export const buildVersionCreatedAt = {
     },
   ],
   createdAt: "2026-09-25T04:24:05.036Z",
-  updatedAt: "2026-09-25T04:24:33.000Z",
+  updatedAt: "2026-10-08T16:18:25.844Z",
 } as const satisfies Module
