@@ -12,4 +12,6 @@ export const companionSkillSlotCard = {
       statement: "Its wording is read from web phrase pages.",
     },
   ],
+  createdAt: "2026-09-02T22:13:52.819Z",
+  updatedAt: "2026-09-27T11:54:35.000Z",
 } as const satisfies Module

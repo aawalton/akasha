@@ -97,4 +97,6 @@ export const watcherExportCompanionBuilds = {
       statement: "Nothing here writes out a block keyed by numbers.",
     },
   ],
+  createdAt: "2026-09-02T19:03:27.439Z",
+  updatedAt: "2026-09-25T13:21:45.000Z",
 } as const satisfies Module

@@ -13,4 +13,6 @@ export const completionCadwellSort = {
       statement: "Two entries sharing an order fall by their identifier.",
     },
   ],
+  createdAt: "2026-09-02T07:32:01.643Z",
+  updatedAt: "2026-09-22T13:46:31.000Z",
 } as const satisfies Module

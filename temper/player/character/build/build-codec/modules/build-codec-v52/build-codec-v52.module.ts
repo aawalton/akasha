@@ -18,4 +18,6 @@ export const buildCodecV52 = {
         "A hash the add-on saved holds the lowest seven bits of a scribed skill's index among every skill.",
     },
   ],
+  createdAt: "2026-09-02T16:15:21.040Z",
+  updatedAt: "2026-09-25T01:23:47.000Z",
 } as const satisfies Module

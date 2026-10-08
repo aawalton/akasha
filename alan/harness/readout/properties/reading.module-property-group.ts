@@ -9,4 +9,6 @@ export const reading = {
   slug: "reading",
   propertySlug: "reading",
   definition: "what takes a readout's own reading",
+  createdAt: "2026-09-13T14:50:29.803Z",
+  updatedAt: "2026-09-15T17:32:01.000Z",
 } as const satisfies ModulePropertyGroup

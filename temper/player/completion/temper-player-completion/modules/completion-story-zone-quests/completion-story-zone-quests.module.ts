@@ -14,4 +14,6 @@ export const completionStoryZoneQuests = {
         "The zone owed is the first story zone in release order that is short of its quests.",
     },
   ],
+  createdAt: "2026-09-21T23:58:39.444Z",
+  updatedAt: "2026-09-22T13:43:34.000Z",
 } as const satisfies Module

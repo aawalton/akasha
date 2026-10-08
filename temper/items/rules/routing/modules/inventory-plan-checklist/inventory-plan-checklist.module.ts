@@ -12,4 +12,6 @@ export const inventoryPlanChecklist = {
       statement: "A checklist follows the plan's stops in the order the stops are visited.",
     },
   ],
+  createdAt: "2026-09-02T09:02:04.765Z",
+  updatedAt: "2026-09-21T15:29:55.000Z",
 } as const satisfies Module

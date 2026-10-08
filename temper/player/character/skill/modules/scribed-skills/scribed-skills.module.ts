@@ -16,4 +16,6 @@ export const scribedSkills = {
       statement: "A scribed skill's place among the scribed skills is the index a build hash has.",
     },
   ],
+  createdAt: "2026-09-02T09:39:06.051Z",
+  updatedAt: "2026-09-26T16:01:18.000Z",
 } as const satisfies Module

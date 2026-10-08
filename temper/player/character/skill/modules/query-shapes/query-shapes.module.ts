@@ -12,4 +12,6 @@ export const queryShapes = {
       statement: "A skill query reads the weight or the weapon type off a slot.",
     },
   ],
+  createdAt: "2026-09-02T09:51:18.435Z",
+  updatedAt: "2026-09-21T15:38:18.000Z",
 } as const satisfies Module

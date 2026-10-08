@@ -16,4 +16,6 @@ export const esoName = {
       statement: "A caret anywhere but the end of the name is left alone.",
     },
   ],
+  createdAt: "2026-09-02T05:37:29.593Z",
+  updatedAt: "2026-09-21T15:42:49.000Z",
 } as const satisfies Module

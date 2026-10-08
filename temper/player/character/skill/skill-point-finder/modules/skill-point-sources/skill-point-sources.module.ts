@@ -37,4 +37,6 @@ export const skillPointSources = {
       statement: "The add-on reads these pages as it compiles.",
     },
   ],
+  createdAt: "2026-09-02T07:01:36.977Z",
+  updatedAt: "2026-09-27T03:53:34.000Z",
 } as const satisfies Module

@@ -6,4 +6,6 @@ export const inventoryRulesTabRuleAssembly = {
   slug: "inventory-rules-tab-rule-assembly",
   definition: "every inventory rule put into one set for the rules tab",
   code: "ts",
+  createdAt: "2026-09-02T18:40:41.371Z",
+  updatedAt: "2026-09-22T14:24:39.000Z",
 } as const satisfies Module

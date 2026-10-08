@@ -82,4 +82,6 @@ export const watcherWorker = {
       statement: "Nothing here decides the watcher's handling of a file that watcher read.",
     },
   ],
+  createdAt: "2026-09-03T12:46:55.480Z",
+  updatedAt: "2026-09-15T18:43:51.000Z",
 } as const satisfies Module

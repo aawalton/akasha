@@ -72,4 +72,6 @@ export const watcherSettingsConsumables = {
       statement: "Settings carrying no rules are read as an empty rule set, the rules being pages.",
     },
   ],
+  createdAt: "2026-09-02T19:03:27.439Z",
+  updatedAt: "2026-09-27T13:54:16.000Z",
 } as const satisfies Module

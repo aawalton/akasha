@@ -33,4 +33,6 @@ export const watcherVersion = {
       statement: "No test here reaches the branch the bundler puts in.",
     },
   ],
+  createdAt: "2026-09-02T18:45:40.447Z",
+  updatedAt: "2026-09-15T18:43:51.000Z",
 } as const satisfies Module

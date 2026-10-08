@@ -20,4 +20,6 @@ export const bitReader = {
       statement: "How far the reading has got is kept in the reader.",
     },
   ],
+  createdAt: "2026-09-02T05:59:29.482Z",
+  updatedAt: "2026-09-21T15:42:12.000Z",
 } as const satisfies Module

@@ -20,4 +20,6 @@ export const companionsFilterTypes = {
       statement: "The target filters' names and choices are web phrase pages.",
     },
   ],
+  createdAt: "2026-09-02T21:58:08.935Z",
+  updatedAt: "2026-09-27T11:59:43.000Z",
 } as const satisfies Module

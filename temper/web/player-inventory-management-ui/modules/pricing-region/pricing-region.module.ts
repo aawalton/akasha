@@ -6,4 +6,6 @@ export const pricingRegion = {
   slug: "pricing-region",
   definition: "a price's region",
   code: "ts",
+  createdAt: "2026-09-02T18:40:41.371Z",
+  updatedAt: "2026-09-22T13:43:34.000Z",
 } as const satisfies Module

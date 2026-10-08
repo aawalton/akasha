@@ -6,4 +6,6 @@ export const ruleCardFilterChip = {
   slug: "rule-card-filter-chip",
   definition: "the chip one of a rule's filters is drawn as",
   code: "tsx",
+  createdAt: "2026-09-02T18:40:41.377Z",
+  updatedAt: "2026-09-21T15:24:57.000Z",
 } as const satisfies Module

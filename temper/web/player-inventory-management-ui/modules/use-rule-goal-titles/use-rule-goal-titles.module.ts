@@ -16,4 +16,6 @@ export const useRuleGoalTitles = {
       statement: "Until the pages are read there are no titles rather than empty ones.",
     },
   ],
+  createdAt: "2026-09-27T11:54:53.270Z",
+  updatedAt: "2026-09-27T11:55:01.000Z",
 } as const satisfies Module

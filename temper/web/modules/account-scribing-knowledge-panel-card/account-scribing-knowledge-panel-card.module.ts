@@ -6,4 +6,6 @@ export const accountScribingKnowledgePanelCard = {
   slug: "account-scribing-knowledge-panel-card",
   definition: "the scribing scripts any character on the account has learned",
   code: "tsx",
+  createdAt: "2026-09-02T21:59:02.731Z",
+  updatedAt: "2026-09-15T18:43:51.000Z",
 } as const satisfies Module

@@ -6,4 +6,6 @@ export const buildTypes = {
   slug: "build-types",
   definition: "everything a character build holds, from its class to its slotted skills",
   code: "ts",
+  createdAt: "2026-09-02T10:26:09.459Z",
+  updatedAt: "2026-09-21T15:38:18.000Z",
 } as const satisfies Module

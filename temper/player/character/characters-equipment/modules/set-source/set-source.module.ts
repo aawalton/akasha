@@ -25,4 +25,6 @@ export const setSource = {
       statement: "Sources run up to the most worn pieces the set rule page states.",
     },
   ],
+  createdAt: "2026-09-02T10:22:19.313Z",
+  updatedAt: "2026-09-27T06:53:48.000Z",
 } as const satisfies Module

@@ -6,4 +6,6 @@ export const metricTreeTypes = {
   slug: "metric-tree-types",
   definition: "the node kinds a character stat display tree has, with a guard for each kind",
   code: "ts",
+  createdAt: "2026-09-02T08:15:09.032Z",
+  updatedAt: "2026-09-21T15:39:55.000Z",
 } as const satisfies Module

@@ -20,4 +20,6 @@ export const sourceEffectsReading = {
       statement: "An effect entry stating seconds is read as its value over those seconds.",
     },
   ],
+  createdAt: "2026-09-26T20:13:02.260Z",
+  updatedAt: "2026-09-27T01:06:06.000Z",
 } as const satisfies Module

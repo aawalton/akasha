@@ -136,4 +136,6 @@ export const watcherImportCompletion = {
       statement: "No folder with a page is named here.",
     },
   ],
+  createdAt: "2026-09-02T19:03:27.439Z",
+  updatedAt: "2026-09-25T17:01:20.000Z",
 } as const satisfies Module

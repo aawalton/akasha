@@ -6,4 +6,6 @@ export const setClassRestrictions = {
   slug: "set-class-restrictions",
   definition: "which gear sets a character class is barred from wearing",
   code: "ts",
+  createdAt: "2026-09-02T10:22:19.313Z",
+  updatedAt: "2026-09-21T15:41:15.000Z",
 } as const satisfies Module

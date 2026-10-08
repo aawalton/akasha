@@ -16,4 +16,6 @@ export const shoppingSearchProgress = {
       statement: "A fault is shown in its phrase page's words, and never in a server's words.",
     },
   ],
+  createdAt: "2026-09-27T11:38:40.451Z",
+  updatedAt: "2026-09-27T11:53:48.000Z",
 } as const satisfies Module

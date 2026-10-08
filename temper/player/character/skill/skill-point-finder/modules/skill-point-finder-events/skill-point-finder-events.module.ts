@@ -12,4 +12,6 @@ export const skillPointFinderEvents = {
       statement: "A redraw is asked for by a game event rather than by a timer.",
     },
   ],
+  createdAt: "2026-09-02T07:01:36.955Z",
+  updatedAt: "2026-09-21T15:46:08.000Z",
 } as const satisfies Module

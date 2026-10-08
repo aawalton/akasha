@@ -20,4 +20,6 @@ export const characterManagementPanelCard = {
       statement: "A delete that fails shows no error's own text, which goes to the console.",
     },
   ],
+  createdAt: "2026-09-03T04:31:48.587Z",
+  updatedAt: "2026-09-27T12:45:53.000Z",
 } as const satisfies Module

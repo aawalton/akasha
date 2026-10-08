@@ -18,4 +18,6 @@ export const companionSkillSelectDialog = {
         "Its search and empty wording are web phrase pages; the no-skill name is the catalogue's.",
     },
   ],
+  createdAt: "2026-09-02T22:13:52.818Z",
+  updatedAt: "2026-09-27T11:54:35.000Z",
 } as const satisfies Module

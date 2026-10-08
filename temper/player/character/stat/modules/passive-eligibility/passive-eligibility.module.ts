@@ -6,4 +6,6 @@ export const passiveEligibility = {
   slug: "passive-eligibility",
   definition: "whether a build reaches a passive's skill line, ruled per bar",
   code: "ts",
+  createdAt: "2026-09-02T14:06:51.855Z",
+  updatedAt: "2026-09-21T15:39:55.000Z",
 } as const satisfies Module

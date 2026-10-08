@@ -34,4 +34,6 @@ export const minedItemRows = {
       statement: "An instant that cannot be read writes as empty rather than as the epoch.",
     },
   ],
+  createdAt: "2026-09-02T21:38:53.840Z",
+  updatedAt: "2026-09-25T13:48:19.000Z",
 } as const satisfies Module

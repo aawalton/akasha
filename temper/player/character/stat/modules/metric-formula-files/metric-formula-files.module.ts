@@ -20,4 +20,6 @@ export const metricFormulaFiles = {
       statement: "A formula is read as the node type its stat's subject calls for.",
     },
   ],
+  createdAt: "2026-09-26T16:01:19.635Z",
+  updatedAt: "2026-09-26T18:53:02.000Z",
 } as const satisfies Module

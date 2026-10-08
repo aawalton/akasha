@@ -12,4 +12,6 @@ export const accountFilters = {
       statement: "Each filter names the web phrase page its label is read from.",
     },
   ],
+  createdAt: "2026-09-02T21:59:02.730Z",
+  updatedAt: "2026-09-27T11:51:46.000Z",
 } as const satisfies Module

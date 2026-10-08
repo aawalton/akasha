@@ -6,4 +6,6 @@ export const filterableSelectTrigger = {
   slug: "filterable-select-trigger",
   definition: "the button opening a filterable select dialog",
   code: "tsx",
+  createdAt: "2026-09-27T09:16:28.714Z",
+  updatedAt: "2026-09-27T09:16:35.000Z",
 } as const satisfies Module

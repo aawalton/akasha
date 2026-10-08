@@ -20,4 +20,6 @@ export const companionManagementPanelCard = {
       statement: "A delete that fails shows no error's own text, which goes to the console.",
     },
   ],
+  createdAt: "2026-09-03T04:31:48.635Z",
+  updatedAt: "2026-09-27T12:46:10.000Z",
 } as const satisfies Module

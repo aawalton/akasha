@@ -38,4 +38,6 @@ export const watcherErrorCursor = {
       statement: "Saving makes the log directory where the directory is absent.",
     },
   ],
+  createdAt: "2026-09-02T18:45:40.447Z",
+  updatedAt: "2026-09-15T18:43:51.000Z",
 } as const satisfies Module

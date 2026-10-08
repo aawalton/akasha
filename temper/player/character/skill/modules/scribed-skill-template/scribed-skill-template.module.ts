@@ -12,4 +12,6 @@ export const scribedSkillTemplate = {
       statement: "A scribed skill names one grimoire and one focus script.",
     },
   ],
+  createdAt: "2026-09-02T09:39:06.049Z",
+  updatedAt: "2026-09-21T15:38:18.000Z",
 } as const satisfies Module

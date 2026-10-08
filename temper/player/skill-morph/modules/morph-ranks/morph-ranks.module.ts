@@ -16,4 +16,6 @@ export const morphRanks = {
       statement: "Code an add-on reaches takes the cap as a parameter.",
     },
   ],
+  createdAt: "2026-09-27T07:12:59.145Z",
+  updatedAt: "2026-09-27T07:13:22.000Z",
 } as const satisfies Module

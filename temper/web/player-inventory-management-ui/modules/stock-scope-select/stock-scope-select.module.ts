@@ -13,4 +13,6 @@ export const stockScopeSelect = {
         "Character and Bank are location type and venue pages; the rest are rule card phrases.",
     },
   ],
+  createdAt: "2026-09-02T18:40:41.377Z",
+  updatedAt: "2026-09-27T11:46:52.000Z",
 } as const satisfies Module

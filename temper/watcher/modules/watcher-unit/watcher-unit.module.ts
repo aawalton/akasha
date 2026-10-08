@@ -32,4 +32,6 @@ export const watcherUnit = {
       statement: "Nothing here writes the unit file.",
     },
   ],
+  createdAt: "2026-09-02T03:46:23.498Z",
+  updatedAt: "2026-09-22T14:30:34.000Z",
 } as const satisfies Module

@@ -13,4 +13,6 @@ export const useRuleMatcherContext = {
         "The builds are read again whenever a skill, set, companion or lore catalogue is read again.",
     },
   ],
+  createdAt: "2026-09-02T18:40:41.377Z",
+  updatedAt: "2026-09-27T10:40:28.000Z",
 } as const satisfies Module

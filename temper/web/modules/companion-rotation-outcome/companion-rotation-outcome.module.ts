@@ -7,4 +7,6 @@ export const companionRotationOutcome = {
   definition: "what a companion's rotation comes to",
   code: "ts",
   test: "ts",
+  createdAt: "2026-09-02T21:56:24.170Z",
+  updatedAt: "2026-09-15T18:44:13.000Z",
 } as const satisfies Module

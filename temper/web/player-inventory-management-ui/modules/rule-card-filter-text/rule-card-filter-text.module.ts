@@ -17,4 +17,6 @@ export const ruleCardFilterText = {
       statement: "The syntax help, placeholder and empty text are rule card phrases.",
     },
   ],
+  createdAt: "2026-09-02T18:40:41.377Z",
+  updatedAt: "2026-09-27T11:49:23.000Z",
 } as const satisfies Module

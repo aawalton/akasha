@@ -16,4 +16,6 @@ export const inventoryRulesFilterBar = {
       statement: "The sort names are web phrase pages the filter types read.",
     },
   ],
+  createdAt: "2026-09-02T18:40:41.371Z",
+  updatedAt: "2026-09-27T11:43:09.000Z",
 } as const satisfies Module

@@ -13,4 +13,6 @@ export const costcoAnywhereVisaCardByCiti7496 = {
   asset: false,
   accountActive: true,
   accountHidden: false,
+  createdAt: "2026-09-05T06:16:53.043Z",
+  updatedAt: "2026-10-08T06:18:04.000Z",
 } as const satisfies MonarchAccount

@@ -12,4 +12,6 @@ export const characterSkillTemplate = {
       statement: "A skill row names one skill line and one skill type.",
     },
   ],
+  createdAt: "2026-09-02T09:36:31.856Z",
+  updatedAt: "2026-09-21T15:38:18.000Z",
 } as const satisfies Module

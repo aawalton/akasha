@@ -29,4 +29,6 @@ export const companionQuestData = {
       statement: "A companion is named by what it is called for short.",
     },
   ],
+  createdAt: "2026-09-02T08:00:09.422Z",
+  updatedAt: "2026-09-27T02:01:51.000Z",
 } as const satisfies Module

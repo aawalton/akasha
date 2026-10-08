@@ -16,4 +16,6 @@ export const writCraftItems = {
       statement: "Until the craft type pages are read there are no toggles.",
     },
   ],
+  createdAt: "2026-09-27T10:02:43.453Z",
+  updatedAt: "2026-09-27T10:02:50.000Z",
 } as const satisfies Module

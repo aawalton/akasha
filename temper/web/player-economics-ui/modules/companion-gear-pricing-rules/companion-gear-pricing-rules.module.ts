@@ -13,4 +13,6 @@ export const companionGearPricingRules = {
         "A gear name and a gold amount are worded by phrase pages the caller's phrase reads.",
     },
   ],
+  createdAt: "2026-09-02T19:38:46.849Z",
+  updatedAt: "2026-09-27T11:38:49.000Z",
 } as const satisfies Module

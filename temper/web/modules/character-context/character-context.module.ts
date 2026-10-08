@@ -6,4 +6,6 @@ export const characterContext = {
   slug: "character-context",
   definition: "a character's context",
   code: "tsx",
+  createdAt: "2026-09-02T22:10:23.767Z",
+  updatedAt: "2026-09-22T14:12:43.000Z",
 } as const satisfies Module

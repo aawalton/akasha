@@ -21,4 +21,6 @@ export const useCompanionSetTarget = {
       statement: "A build's roles are named by the base role names module.",
     },
   ],
+  createdAt: "2026-09-02T22:13:52.828Z",
+  updatedAt: "2026-09-27T12:30:10.000Z",
 } as const satisfies Module

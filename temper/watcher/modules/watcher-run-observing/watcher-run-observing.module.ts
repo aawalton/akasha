@@ -49,4 +49,6 @@ export const watcherRunObserving = {
       statement: "Every operation has the moment the operation ran.",
     },
   ],
+  createdAt: "2026-09-02T18:45:40.447Z",
+  updatedAt: "2026-09-15T18:43:51.000Z",
 } as const satisfies Module

@@ -6,4 +6,6 @@ export const characterMorphProgress = {
   slug: "character-morph-progress",
   definition: "how far a character has morphed the skills of the lines that character can use",
   code: "ts",
+  createdAt: "2026-09-02T11:00:28.600Z",
+  updatedAt: "2026-09-21T15:30:49.000Z",
 } as const satisfies Module

@@ -125,4 +125,6 @@ export const watcherExportSettings = {
       statement: "A caller may hand in every reader the inventory blocks are worked out from.",
     },
   ],
+  createdAt: "2026-09-02T19:03:27.439Z",
+  updatedAt: "2026-09-27T14:00:26.000Z",
 } as const satisfies Module

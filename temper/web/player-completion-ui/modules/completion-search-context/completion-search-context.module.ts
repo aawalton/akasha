@@ -6,4 +6,6 @@ export const completionSearchContext = {
   slug: "completion-search-context",
   definition: "the words a reader is narrowing a completion panel down to",
   code: "tsx",
+  createdAt: "2026-09-02T13:55:26.636Z",
+  updatedAt: "2026-09-21T15:20:46.000Z",
 } as const satisfies Module

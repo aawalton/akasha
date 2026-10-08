@@ -29,4 +29,6 @@ export const completionNextCharacter = {
       statement: "The pick is empty where the card is finished throughout the roster.",
     },
   ],
+  createdAt: "2026-09-02T21:35:11.003Z",
+  updatedAt: "2026-09-21T15:58:08.000Z",
 } as const satisfies Module

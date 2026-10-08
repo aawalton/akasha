@@ -6,4 +6,6 @@ export const ratingChance = {
   slug: "rating-chance",
   definition: "the chance a rating buys and how much rating is left over",
   code: "ts",
+  createdAt: "2026-09-02T04:46:21.411Z",
+  updatedAt: "2026-09-21T15:41:15.000Z",
 } as const satisfies Module

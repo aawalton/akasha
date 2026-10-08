@@ -6,4 +6,6 @@ export const companionStatsContext = {
   slug: "companion-stats-context",
   definition: "what holds a companion's worked-out stats for the views beneath it",
   code: "tsx",
+  createdAt: "2026-09-02T21:58:08.936Z",
+  updatedAt: "2026-09-15T18:44:13.000Z",
 } as const satisfies Module

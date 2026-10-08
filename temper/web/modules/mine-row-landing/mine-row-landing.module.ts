@@ -95,4 +95,6 @@ export const mineRowLanding = {
         "A write naming this module is taken on its word, since no caller shows a credential.",
     },
   ],
+  createdAt: "2026-09-25T13:28:37.695Z",
+  updatedAt: "2026-09-25T17:00:40.000Z",
 } as const satisfies Module

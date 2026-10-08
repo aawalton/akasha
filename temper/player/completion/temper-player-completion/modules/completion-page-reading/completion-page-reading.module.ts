@@ -16,4 +16,6 @@ export const completionPageReading = {
       statement: "Nothing here reads a page, so the caller hands in the rows of each page type.",
     },
   ],
+  createdAt: "2026-09-27T02:41:13.160Z",
+  updatedAt: "2026-09-27T02:41:24.000Z",
 } as const satisfies Module

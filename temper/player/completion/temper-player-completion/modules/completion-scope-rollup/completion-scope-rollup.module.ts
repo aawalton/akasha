@@ -21,4 +21,6 @@ export const completionScopeRollup = {
       statement: "Every companion card counts.",
     },
   ],
+  createdAt: "2026-09-02T17:24:07.146Z",
+  updatedAt: "2026-09-22T10:08:47.000Z",
 } as const satisfies Module

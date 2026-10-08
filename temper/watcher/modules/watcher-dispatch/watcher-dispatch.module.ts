@@ -88,4 +88,6 @@ export const watcherDispatch = {
       statement: "Nothing here reaches for a shared signed-in reader.",
     },
   ],
+  createdAt: "2026-09-02T20:20:26.300Z",
+  updatedAt: "2026-09-26T18:43:56.000Z",
 } as const satisfies Module

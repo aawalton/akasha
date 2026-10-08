@@ -13,4 +13,6 @@ export const inventoryCategoryRulesPanel = {
         "The panel's wording is web phrase pages, and its rule status labels are rule card phrases.",
     },
   ],
+  createdAt: "2026-09-02T18:40:41.370Z",
+  updatedAt: "2026-09-27T11:32:34.000Z",
 } as const satisfies Module

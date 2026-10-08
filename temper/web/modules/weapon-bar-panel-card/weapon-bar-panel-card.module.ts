@@ -12,4 +12,6 @@ export const weaponBarPanelCard = {
       statement: "The slots are drawn again whenever the gear tables are read again.",
     },
   ],
+  createdAt: "2026-09-02T22:11:45.303Z",
+  updatedAt: "2026-09-27T09:13:09.000Z",
 } as const satisfies Module

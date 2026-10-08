@@ -12,4 +12,6 @@ export const useCompanionStatsCalculation = {
       statement: "A companion's stats are worked out again when the stat pages are read again.",
     },
   ],
+  createdAt: "2026-09-02T21:56:24.172Z",
+  updatedAt: "2026-09-26T18:53:02.000Z",
 } as const satisfies Module

@@ -21,4 +21,6 @@ export const completionOverrideRow = {
       statement: "The card a row names by an address is read as the card that page is.",
     },
   ],
+  createdAt: "2026-09-02T07:32:01.652Z",
+  updatedAt: "2026-09-22T10:15:52.000Z",
 } as const satisfies Module

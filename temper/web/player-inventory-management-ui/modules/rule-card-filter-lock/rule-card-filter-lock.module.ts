@@ -12,4 +12,6 @@ export const ruleCardFilterLock = {
       statement: "The lock's aria-label and dialog title are rule card phrases.",
     },
   ],
+  createdAt: "2026-09-02T18:40:41.377Z",
+  updatedAt: "2026-09-27T11:14:17.000Z",
 } as const satisfies Module

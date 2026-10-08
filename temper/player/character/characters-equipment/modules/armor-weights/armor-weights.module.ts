@@ -24,4 +24,6 @@ export const armorWeights = {
       statement: "A weight with no grade at a quality is worth no armor there.",
     },
   ],
+  createdAt: "2026-09-02T09:24:55.959Z",
+  updatedAt: "2026-09-27T02:49:23.000Z",
 } as const satisfies Module

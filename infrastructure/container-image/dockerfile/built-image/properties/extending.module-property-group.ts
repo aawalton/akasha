@@ -9,4 +9,6 @@ export const extending = {
   slug: "extending",
   propertySlug: "extending",
   definition: "what writes an image's addition to the Dockerfile written for it",
+  createdAt: "2026-09-11T00:46:39.389Z",
+  updatedAt: "2026-09-15T17:32:01.000Z",
 } as const satisfies ModulePropertyGroup

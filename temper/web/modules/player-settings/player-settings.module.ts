@@ -28,4 +28,6 @@ export const playerSettings = {
       statement: "A section this module leaves alone survives a write from this module.",
     },
   ],
+  createdAt: "2026-09-02T21:38:53.840Z",
+  updatedAt: "2026-09-15T18:44:13.000Z",
 } as const satisfies Module

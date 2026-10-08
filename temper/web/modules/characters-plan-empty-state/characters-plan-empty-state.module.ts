@@ -7,4 +7,6 @@ export const charactersPlanEmptyState = {
   definition: "which empty state a characters plan shows",
   code: "ts",
   test: "ts",
+  createdAt: "2026-09-02T22:10:23.764Z",
+  updatedAt: "2026-09-15T18:43:51.000Z",
 } as const satisfies Module

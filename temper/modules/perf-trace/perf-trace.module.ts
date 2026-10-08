@@ -28,4 +28,6 @@ export const perfTrace = {
       statement: "The saved settings are read off the global table rather than declared.",
     },
   ],
+  createdAt: "2026-09-02T05:48:27.352Z",
+  updatedAt: "2026-09-15T18:42:24.000Z",
 } as const satisfies Module

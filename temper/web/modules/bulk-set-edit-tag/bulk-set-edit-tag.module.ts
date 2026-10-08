@@ -12,4 +12,6 @@ export const bulkSetEditTag = {
       statement: "The empty choice is named by the no-set catalog page.",
     },
   ],
+  createdAt: "2026-09-02T22:11:45.303Z",
+  updatedAt: "2026-09-27T11:44:01.000Z",
 } as const satisfies Module

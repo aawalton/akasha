@@ -6,4 +6,6 @@ export const metricCalculator = {
   slug: "metric-calculator",
   definition: "every metric a build reaches on one bar, calculated in dependency order",
   code: "ts",
+  createdAt: "2026-09-02T14:06:51.856Z",
+  updatedAt: "2026-09-21T15:39:55.000Z",
 } as const satisfies Module

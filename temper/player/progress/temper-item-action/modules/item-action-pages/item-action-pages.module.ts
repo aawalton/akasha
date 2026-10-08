@@ -17,4 +17,6 @@ export const itemActionPages = {
       statement: "Every item action name is taken from these pages and written nowhere else.",
     },
   ],
+  createdAt: "2026-09-25T12:29:53.391Z",
+  updatedAt: "2026-09-25T12:30:02.000Z",
 } as const satisfies Module

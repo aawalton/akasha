@@ -6,4 +6,6 @@ export const buildCodecV52Equipment = {
   slug: "build-codec-v52-equipment",
   definition: "update fifty-two's bit layout for a character's equipment",
   code: "ts",
+  createdAt: "2026-09-02T16:15:21.042Z",
+  updatedAt: "2026-09-22T13:53:26.000Z",
 } as const satisfies Module

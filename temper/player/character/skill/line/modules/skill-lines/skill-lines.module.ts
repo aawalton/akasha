@@ -16,4 +16,6 @@ export const skillLines = {
       statement: "A skill line's place in this table is the hash place its page states.",
     },
   ],
+  createdAt: "2026-09-02T05:15:01.301Z",
+  updatedAt: "2026-09-26T20:00:01.000Z",
 } as const satisfies Module

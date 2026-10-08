@@ -6,4 +6,6 @@ export const itemRuleCardActionHandlers = {
   slug: "item-rule-card-action-handlers",
   definition: "what a reader's edit to an item rule's action does",
   code: "ts",
+  createdAt: "2026-09-02T18:40:41.371Z",
+  updatedAt: "2026-09-21T15:24:57.000Z",
 } as const satisfies Module

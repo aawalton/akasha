@@ -23,4 +23,6 @@ export const buildSlug = {
       statement: "The tag is worked out alike in a browser and on a server.",
     },
   ],
+  createdAt: "2026-09-25T02:29:59.168Z",
+  updatedAt: "2026-09-25T02:30:06.000Z",
 } as const satisfies Module

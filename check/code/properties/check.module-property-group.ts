@@ -9,4 +9,6 @@ export const check = {
   slug: "check",
   propertySlug: "check",
   definition: "what judges the change a landing carries",
+  createdAt: "2026-09-09T19:54:38.140Z",
+  updatedAt: "2026-09-15T17:32:01.000Z",
 } as const satisfies ModulePropertyGroup

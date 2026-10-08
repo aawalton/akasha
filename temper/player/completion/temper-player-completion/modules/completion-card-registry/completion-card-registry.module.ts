@@ -16,4 +16,6 @@ export const completionCardRegistry = {
       statement: "A card's title is read from its completion category page when asked for.",
     },
   ],
+  createdAt: "2026-09-02T07:26:23.257Z",
+  updatedAt: "2026-09-27T02:41:24.000Z",
 } as const satisfies Module

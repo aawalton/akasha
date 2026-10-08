@@ -16,4 +16,6 @@ export const temperPagesResolver = {
       statement: "The whole set is loading while any one type is loading.",
     },
   ],
+  createdAt: "2026-09-02T21:38:53.840Z",
+  updatedAt: "2026-09-25T19:43:52.000Z",
 } as const satisfies Module

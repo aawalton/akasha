@@ -6,4 +6,6 @@ export const esoIdHelpers = {
   slug: "eso-id-helpers",
   definition: "the game's own class, race and skill line numbers taken as akasha ids",
   code: "ts",
+  createdAt: "2026-09-02T11:30:20.344Z",
+  updatedAt: "2026-09-22T13:28:06.000Z",
 } as const satisfies Module

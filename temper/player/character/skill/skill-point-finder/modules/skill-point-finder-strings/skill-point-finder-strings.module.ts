@@ -12,4 +12,6 @@ export const skillPointFinderStrings = {
       statement: "A string is registered under an identifier the markup names.",
     },
   ],
+  createdAt: "2026-09-02T07:01:36.970Z",
+  updatedAt: "2026-09-21T15:46:08.000Z",
 } as const satisfies Module

@@ -12,4 +12,6 @@ export const targetingBadges = {
       statement: "Its wording is read from web phrase pages, spelled as the game spells it.",
     },
   ],
+  createdAt: "2026-09-02T21:58:08.931Z",
+  updatedAt: "2026-09-27T11:47:37.000Z",
 } as const satisfies Module

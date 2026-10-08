@@ -6,4 +6,6 @@ export const actionFilterUtils = {
   slug: "action-filter-utils",
   definition: "the text an action filter is written as, turned into its parts and back",
   code: "ts",
+  createdAt: "2026-09-02T18:40:41.366Z",
+  updatedAt: "2026-09-22T13:28:06.000Z",
 } as const satisfies Module

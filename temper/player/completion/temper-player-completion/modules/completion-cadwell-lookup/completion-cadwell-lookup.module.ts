@@ -21,4 +21,6 @@ export const completionCadwellLookup = {
       statement: "A level's tier number is the display order its page states.",
     },
   ],
+  createdAt: "2026-09-02T18:18:47.036Z",
+  updatedAt: "2026-09-21T15:58:08.000Z",
 } as const satisfies Module

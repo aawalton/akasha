@@ -6,4 +6,6 @@ export const skillPointFinderDataLines = {
   slug: "skill-point-finder-data-lines",
   definition: "a row of the skill point window",
   code: "ts",
+  createdAt: "2026-09-02T07:01:36.953Z",
+  updatedAt: "2026-09-22T10:08:47.000Z",
 } as const satisfies Module

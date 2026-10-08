@@ -70,4 +70,6 @@ export const windowRows = {
       statement: "A stat row shown over play takes the shadowed faces of those parts.",
     },
   ],
+  createdAt: "2026-09-25T15:38:23.872Z",
+  updatedAt: "2026-09-25T16:15:11.000Z",
 } as const satisfies Module

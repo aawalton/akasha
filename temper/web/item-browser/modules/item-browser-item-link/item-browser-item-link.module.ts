@@ -12,4 +12,6 @@ export const itemBrowserItemLink = {
       statement: "A crafted piece is shown with the glyph its armor weight's page names.",
     },
   ],
+  createdAt: "2026-09-02T09:34:23.516Z",
+  updatedAt: "2026-09-25T18:17:31.000Z",
 } as const satisfies Module

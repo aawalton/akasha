@@ -12,4 +12,6 @@ export const shoppingListEmptyCard = {
       statement: "The card's wording is read from a phrase page rather than written in its code.",
     },
   ],
+  createdAt: "2026-09-27T11:38:40.451Z",
+  updatedAt: "2026-09-27T11:38:49.000Z",
 } as const satisfies Module

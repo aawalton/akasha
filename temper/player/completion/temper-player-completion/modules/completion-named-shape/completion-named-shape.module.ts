@@ -16,4 +16,6 @@ export const completionNamedShape = {
       statement: "A completion record is stored in a fuller shape or in a terser shape.",
     },
   ],
+  createdAt: "2026-09-02T08:16:11.322Z",
+  updatedAt: "2026-09-21T15:58:08.000Z",
 } as const satisfies Module

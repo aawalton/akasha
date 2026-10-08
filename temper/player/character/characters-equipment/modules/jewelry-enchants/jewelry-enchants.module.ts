@@ -13,4 +13,6 @@ export const jewelryEnchants = {
         "The glyphs and their worth at each quality are read from the enchant pages, live.",
     },
   ],
+  createdAt: "2026-09-02T09:24:55.959Z",
+  updatedAt: "2026-09-27T04:03:27.000Z",
 } as const satisfies Module

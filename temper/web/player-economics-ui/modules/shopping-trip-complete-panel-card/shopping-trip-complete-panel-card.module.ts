@@ -12,4 +12,6 @@ export const shoppingTripCompletePanelCard = {
       statement: "Each count of items and stops the card says has a phrase page of its own.",
     },
   ],
+  createdAt: "2026-09-02T19:38:46.849Z",
+  updatedAt: "2026-09-27T11:42:58.000Z",
 } as const satisfies Module

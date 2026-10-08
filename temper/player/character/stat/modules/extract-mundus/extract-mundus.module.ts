@@ -6,4 +6,6 @@ export const extractMundus = {
   slug: "extract-mundus",
   definition: "the mundus stone a build has taken, read out as an effect source",
   code: "ts",
+  createdAt: "2026-09-02T14:06:51.855Z",
+  updatedAt: "2026-09-21T15:39:55.000Z",
 } as const satisfies Module

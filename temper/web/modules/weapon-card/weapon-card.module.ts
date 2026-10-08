@@ -18,4 +18,6 @@ export const weaponCard = {
         "Its wording is read from web phrase pages, and each empty choice from its catalog page.",
     },
   ],
+  createdAt: "2026-09-02T22:11:45.303Z",
+  updatedAt: "2026-09-27T11:32:13.000Z",
 } as const satisfies Module

@@ -34,4 +34,6 @@ export const watcherRetry = {
         "An atomic write is left to the file system package rather than written again here.",
     },
   ],
+  createdAt: "2026-09-02T18:22:14.519Z",
+  updatedAt: "2026-09-15T18:43:51.000Z",
 } as const satisfies Module

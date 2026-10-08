@@ -6,4 +6,6 @@ export const itemBrowserList = {
   slug: "item-browser-list",
   definition: "the sortable, searchable, filterable list of item sets the tab shows",
   code: "ts",
+  createdAt: "2026-09-02T09:34:23.519Z",
+  updatedAt: "2026-09-21T15:16:26.000Z",
 } as const satisfies Module

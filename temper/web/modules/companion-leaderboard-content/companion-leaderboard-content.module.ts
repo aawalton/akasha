@@ -6,4 +6,6 @@ export const companionLeaderboardContent = {
   slug: "companion-leaderboard-content",
   definition: "what a companion leaderboard draws",
   code: "tsx",
+  createdAt: "2026-09-02T21:58:08.933Z",
+  updatedAt: "2026-09-15T18:43:51.000Z",
 } as const satisfies Module

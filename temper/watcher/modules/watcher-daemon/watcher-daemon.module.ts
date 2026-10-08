@@ -40,4 +40,6 @@ export const watcherDaemon = {
       statement: "A process id that cannot be probed is taken as dead.",
     },
   ],
+  createdAt: "2026-09-02T03:46:23.497Z",
+  updatedAt: "2026-09-26T20:31:33.000Z",
 } as const satisfies Module

@@ -12,4 +12,6 @@ export const affectedItemsDialog = {
       statement: "The dialog's title is a web phrase page.",
     },
   ],
+  createdAt: "2026-09-02T18:40:41.366Z",
+  updatedAt: "2026-09-27T11:35:10.000Z",
 } as const satisfies Module

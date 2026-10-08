@@ -6,4 +6,6 @@ export const skillsTypes = {
   slug: "skills-types",
   definition: "the types of a character's skills",
   code: "ts",
+  createdAt: "2026-09-02T22:10:23.792Z",
+  updatedAt: "2026-09-22T13:57:47.000Z",
 } as const satisfies Module

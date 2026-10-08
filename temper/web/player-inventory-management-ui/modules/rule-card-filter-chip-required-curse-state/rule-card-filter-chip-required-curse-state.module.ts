@@ -20,4 +20,6 @@ export const ruleCardFilterChipRequiredCurseState = {
       statement: "The chip's prompt and heading are rule card phrases.",
     },
   ],
+  createdAt: "2026-09-02T18:40:41.377Z",
+  updatedAt: "2026-09-27T11:47:20.000Z",
 } as const satisfies Module

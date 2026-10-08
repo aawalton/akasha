@@ -6,4 +6,6 @@ export const characterActions = {
   slug: "character-actions",
   definition: "the actions a character reducer takes",
   code: "ts",
+  createdAt: "2026-09-02T22:10:23.766Z",
+  updatedAt: "2026-09-15T18:43:51.000Z",
 } as const satisfies Module

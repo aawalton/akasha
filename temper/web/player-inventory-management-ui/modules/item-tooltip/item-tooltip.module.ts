@@ -21,4 +21,6 @@ export const itemTooltip = {
         "Style names are motif style pages; labels are web phrases in the game's spelling.",
     },
   ],
+  createdAt: "2026-09-02T18:40:41.371Z",
+  updatedAt: "2026-09-27T11:50:11.000Z",
 } as const satisfies Module

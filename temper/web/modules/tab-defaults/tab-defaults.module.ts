@@ -12,4 +12,6 @@ export const tabDefaults = {
       statement: "A path matching no prefix opens on no tab.",
     },
   ],
+  createdAt: "2026-09-02T21:38:53.839Z",
+  updatedAt: "2026-09-15T18:44:13.000Z",
 } as const satisfies Module

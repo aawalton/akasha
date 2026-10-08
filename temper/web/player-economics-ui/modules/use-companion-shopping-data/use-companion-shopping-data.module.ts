@@ -17,4 +17,6 @@ export const useCompanionShoppingData = {
         "The gear the builds want is worked out again whenever the companion catalogue is read again.",
     },
   ],
+  createdAt: "2026-09-02T19:38:46.849Z",
+  updatedAt: "2026-09-27T09:21:04.000Z",
 } as const satisfies Module

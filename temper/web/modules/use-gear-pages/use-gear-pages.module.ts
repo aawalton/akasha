@@ -12,4 +12,6 @@ export const useGearPages = {
       statement: "The gear page reads sit apart from the catalogue hook so each file stays small.",
     },
   ],
+  createdAt: "2026-09-27T04:03:00.540Z",
+  updatedAt: "2026-09-27T04:03:27.000Z",
 } as const satisfies Module

@@ -17,4 +17,6 @@ export const itemBrowserSearch = {
       statement: "A minus before a set bonus query bars the rows that bonus matches.",
     },
   ],
+  createdAt: "2026-09-21T17:53:29.059Z",
+  updatedAt: "2026-09-21T17:53:42.000Z",
 } as const satisfies Module

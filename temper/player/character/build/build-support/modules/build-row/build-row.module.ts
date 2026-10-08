@@ -22,4 +22,6 @@ export const buildRow = {
       statement: "A field that does not parse takes the empty value its type has.",
     },
   ],
+  createdAt: "2026-09-11T02:16:50.677Z",
+  updatedAt: "2026-09-25T04:38:17.000Z",
 } as const satisfies Module

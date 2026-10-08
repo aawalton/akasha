@@ -20,4 +20,6 @@ export const buildVisibility = {
       statement: "`live` and `target` are visibilities a player never sets directly.",
     },
   ],
+  createdAt: "2026-09-11T14:53:02.465Z",
+  updatedAt: "2026-09-21T15:42:49.000Z",
 } as const satisfies Module

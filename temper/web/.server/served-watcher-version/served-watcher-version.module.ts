@@ -12,4 +12,6 @@ export const servedWatcherVersion = {
       statement: "A stamp file that is absent or empty is taken as no version served.",
     },
   ],
+  createdAt: "2026-09-02T21:38:53.839Z",
+  updatedAt: "2026-09-22T14:30:34.000Z",
 } as const satisfies Module

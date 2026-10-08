@@ -20,4 +20,6 @@ export const useItemCategoryTree = {
       statement: "A read that fails is thrown to the screen rather than shown as an empty tree.",
     },
   ],
+  createdAt: "2026-09-27T03:14:46.659Z",
+  updatedAt: "2026-09-27T03:14:56.000Z",
 } as const satisfies Module

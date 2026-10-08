@@ -24,4 +24,6 @@ export const metricReading = {
       statement: "Nothing here reads a file, so a browser and a server read stats alike.",
     },
   ],
+  createdAt: "2026-09-26T16:01:19.635Z",
+  updatedAt: "2026-09-26T18:34:55.000Z",
 } as const satisfies Module

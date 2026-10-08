@@ -20,4 +20,6 @@ export const effectCard = {
       statement: "A single target is named by its target type alone.",
     },
   ],
+  createdAt: "2026-09-02T21:56:24.172Z",
+  updatedAt: "2026-09-27T12:26:04.000Z",
 } as const satisfies Module

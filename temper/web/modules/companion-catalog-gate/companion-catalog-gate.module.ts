@@ -20,4 +20,6 @@ export const companionCatalogGate = {
       statement: "The whole content is drawn again whenever the catalogue is read again.",
     },
   ],
+  createdAt: "2026-09-26T15:26:11.650Z",
+  updatedAt: "2026-09-27T08:58:30.000Z",
 } as const satisfies Module

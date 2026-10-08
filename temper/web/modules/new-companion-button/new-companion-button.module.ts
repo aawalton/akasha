@@ -12,4 +12,6 @@ export const newCompanionButton = {
       statement: "Its wording is read from web phrase pages.",
     },
   ],
+  createdAt: "2026-09-02T21:56:24.176Z",
+  updatedAt: "2026-09-27T11:30:47.000Z",
 } as const satisfies Module

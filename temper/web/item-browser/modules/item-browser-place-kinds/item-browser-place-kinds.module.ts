@@ -18,4 +18,6 @@ export const itemBrowserPlaceKinds = {
       statement: "A zone is keyed by its zone id and a source that is no zone by its source id.",
     },
   ],
+  createdAt: "2026-09-25T18:45:25.185Z",
+  updatedAt: "2026-09-26T13:40:33.000Z",
 } as const satisfies Module

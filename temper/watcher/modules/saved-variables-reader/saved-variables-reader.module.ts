@@ -36,4 +36,6 @@ export const savedVariablesReader = {
       statement: "A missing count reads as zero and a missing flag reads as false.",
     },
   ],
+  createdAt: "2026-09-02T05:08:32.922Z",
+  updatedAt: "2026-09-21T17:46:21.000Z",
 } as const satisfies Module

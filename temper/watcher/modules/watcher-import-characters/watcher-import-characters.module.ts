@@ -55,4 +55,6 @@ export const watcherImportCharacters = {
       statement: "Nothing here reads a file.",
     },
   ],
+  createdAt: "2026-09-02T19:03:27.439Z",
+  updatedAt: "2026-09-24T16:25:52.000Z",
 } as const satisfies Module

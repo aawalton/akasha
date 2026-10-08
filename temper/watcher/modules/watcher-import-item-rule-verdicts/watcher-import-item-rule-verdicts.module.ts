@@ -64,4 +64,6 @@ export const watcherImportItemRuleVerdicts = {
         "The shape a queued verdict is read with is checked against the add-on's own type.",
     },
   ],
+  createdAt: "2026-09-02T19:03:27.439Z",
+  updatedAt: "2026-09-25T13:55:23.000Z",
 } as const satisfies Module

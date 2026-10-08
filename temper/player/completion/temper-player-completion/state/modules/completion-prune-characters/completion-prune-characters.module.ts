@@ -6,4 +6,6 @@ export const completionPruneCharacters = {
   slug: "completion-prune-characters",
   definition: "which stored characters the game no longer holds",
   code: "ts",
+  createdAt: "2026-09-02T13:34:15.695Z",
+  updatedAt: "2026-09-21T15:58:34.000Z",
 } as const satisfies Module

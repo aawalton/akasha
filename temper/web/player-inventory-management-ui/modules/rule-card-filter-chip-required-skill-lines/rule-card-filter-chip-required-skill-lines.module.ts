@@ -17,4 +17,6 @@ export const ruleCardFilterChipRequiredSkillLines = {
         "The modes are condition value pages, and the chip's other words are rule card phrases.",
     },
   ],
+  createdAt: "2026-09-02T18:40:41.377Z",
+  updatedAt: "2026-09-27T11:48:22.000Z",
 } as const satisfies Module

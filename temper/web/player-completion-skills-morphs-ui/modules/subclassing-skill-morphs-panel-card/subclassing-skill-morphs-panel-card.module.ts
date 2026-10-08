@@ -16,4 +16,6 @@ export const subclassingSkillMorphsPanelCard = {
       statement: "The card's title is its completion category page's title.",
     },
   ],
+  createdAt: "2026-09-02T14:05:37.213Z",
+  updatedAt: "2026-09-27T11:31:31.000Z",
 } as const satisfies Module

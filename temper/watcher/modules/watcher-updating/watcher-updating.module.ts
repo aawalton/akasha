@@ -105,4 +105,6 @@ export const watcherUpdating = {
       statement: "The version the worker runs is named by the caller rather than read here.",
     },
   ],
+  createdAt: "2026-09-02T20:20:26.277Z",
+  updatedAt: "2026-09-25T13:30:40.000Z",
 } as const satisfies Module

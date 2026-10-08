@@ -12,4 +12,6 @@ export const inventoryResetBadge = {
       statement: "The Reset and Cancel buttons are web phrase pages; the caller words the dialog.",
     },
   ],
+  createdAt: "2026-09-02T18:40:41.371Z",
+  updatedAt: "2026-09-27T11:35:41.000Z",
 } as const satisfies Module

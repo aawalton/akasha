@@ -12,4 +12,6 @@ export const completionCardId = {
       statement: "Every card identifier is read off the category tree rather than named here.",
     },
   ],
+  createdAt: "2026-09-02T07:26:23.259Z",
+  updatedAt: "2026-09-22T00:32:31.000Z",
 } as const satisfies Module

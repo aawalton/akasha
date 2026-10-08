@@ -6,4 +6,6 @@ export const itemBrowserRefreshState = {
   slug: "item-browser-refresh-state",
   definition: "how far the set list has come up, and whether it owes a rebuild",
   code: "ts",
+  createdAt: "2026-09-02T09:34:23.520Z",
+  updatedAt: "2026-09-21T15:16:26.000Z",
 } as const satisfies Module

@@ -16,4 +16,6 @@ export const companionWeaponsAfterChange = {
       statement: "A one-handed main hand is copied to an empty off hand.",
     },
   ],
+  createdAt: "2026-09-27T11:39:07.229Z",
+  updatedAt: "2026-09-27T11:39:15.000Z",
 } as const satisfies Module

@@ -12,4 +12,6 @@ export const companionSkillDetailContent = {
       statement: "A cost is worded by a web phrase page and names the resource page's title.",
     },
   ],
+  createdAt: "2026-09-02T21:58:08.928Z",
+  updatedAt: "2026-09-27T12:22:18.000Z",
 } as const satisfies Module

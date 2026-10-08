@@ -7,4 +7,6 @@ export const itemBrowserState = {
   definition:
     "the player's choices, the shades a row is written in, and the set list, held for the session",
   code: "ts",
+  createdAt: "2026-09-02T09:34:23.521Z",
+  updatedAt: "2026-09-21T15:16:26.000Z",
 } as const satisfies Module

@@ -12,4 +12,6 @@ export const characterTargetSelect = {
       statement: "Every word the select shows is a web phrase page.",
     },
   ],
+  createdAt: "2026-09-02T18:40:41.367Z",
+  updatedAt: "2026-09-27T11:32:19.000Z",
 } as const satisfies Module

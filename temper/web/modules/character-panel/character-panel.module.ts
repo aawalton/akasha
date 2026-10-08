@@ -6,4 +6,6 @@ export const characterPanel = {
   slug: "character-panel",
   definition: "the panel showing a character",
   code: "tsx",
+  createdAt: "2026-09-03T04:31:48.596Z",
+  updatedAt: "2026-09-22T10:19:09.000Z",
 } as const satisfies Module

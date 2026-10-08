@@ -16,4 +16,6 @@ export const otherPanelCard = {
       statement: "The ESO Plus and no-alliance labels are the titles of those pages.",
     },
   ],
+  createdAt: "2026-09-02T22:10:23.743Z",
+  updatedAt: "2026-09-27T11:30:53.000Z",
 } as const satisfies Module

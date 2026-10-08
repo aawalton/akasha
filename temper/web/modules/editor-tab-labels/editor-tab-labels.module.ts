@@ -16,4 +16,6 @@ export const editorTabLabels = {
       statement: "The character and companion editors read the same tab label pages.",
     },
   ],
+  createdAt: "2026-09-02T22:10:23.748Z",
+  updatedAt: "2026-09-27T11:46:39.000Z",
 } as const satisfies Module

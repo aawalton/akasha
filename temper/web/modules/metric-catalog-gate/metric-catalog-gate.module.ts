@@ -12,4 +12,6 @@ export const metricCatalogGate = {
       statement: "The content is drawn again whenever the stats are read again.",
     },
   ],
+  createdAt: "2026-09-26T16:01:19.636Z",
+  updatedAt: "2026-09-26T16:01:50.000Z",
 } as const satisfies Module

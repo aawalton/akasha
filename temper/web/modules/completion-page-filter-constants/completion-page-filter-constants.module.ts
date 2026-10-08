@@ -17,4 +17,6 @@ export const completionPageFilterConstants = {
       statement: "An activity category filter is named by the keyed title its page holds.",
     },
   ],
+  createdAt: "2026-09-02T21:59:02.731Z",
+  updatedAt: "2026-09-27T12:19:11.000Z",
 } as const satisfies Module

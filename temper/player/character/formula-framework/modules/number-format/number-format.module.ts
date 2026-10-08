@@ -6,4 +6,6 @@ export const numberFormat = {
   slug: "number-format",
   definition: "a number written out as an integer, a percentage or an abbreviated thousand",
   code: "ts",
+  createdAt: "2026-09-02T04:46:21.411Z",
+  updatedAt: "2026-09-21T15:41:15.000Z",
 } as const satisfies Module

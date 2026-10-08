@@ -12,4 +12,6 @@ export const itemRuleCardDialogs = {
       statement: "The delete dialog's title, warning, summary and buttons are rule card phrases.",
     },
   ],
+  createdAt: "2026-09-02T18:40:41.371Z",
+  updatedAt: "2026-09-27T11:44:30.000Z",
 } as const satisfies Module

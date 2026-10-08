@@ -12,4 +12,6 @@ export const raceSource = {
       statement: "The empty choice is first among the race sources.",
     },
   ],
+  createdAt: "2026-09-02T10:26:09.459Z",
+  updatedAt: "2026-09-21T15:38:18.000Z",
 } as const satisfies Module

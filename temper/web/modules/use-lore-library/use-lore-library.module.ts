@@ -29,4 +29,6 @@ export const useLoreLibrary = {
         "The books are read in four batches, each the books of a quarter of the collections.",
     },
   ],
+  createdAt: "2026-09-27T10:05:49.014Z",
+  updatedAt: "2026-09-27T10:17:11.000Z",
 } as const satisfies Module

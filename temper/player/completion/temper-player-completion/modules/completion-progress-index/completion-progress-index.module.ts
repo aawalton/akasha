@@ -47,4 +47,6 @@ export const completionProgressIndex = {
       statement: "A roster with no character carries no account card.",
     },
   ],
+  createdAt: "2026-09-02T21:35:11.003Z",
+  updatedAt: "2026-09-25T17:09:39.000Z",
 } as const satisfies Module

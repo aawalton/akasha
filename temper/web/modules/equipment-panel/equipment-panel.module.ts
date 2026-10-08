@@ -12,4 +12,6 @@ export const equipmentPanel = {
       statement: "Each weapon bar is named by the title on that bar's own page.",
     },
   ],
+  createdAt: "2026-09-02T22:11:45.303Z",
+  updatedAt: "2026-09-27T11:30:37.000Z",
 } as const satisfies Module

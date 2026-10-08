@@ -17,4 +17,6 @@ export const goldAmount = {
         "The amount is read from the held phrases, so a caller needs no phrase of its own.",
     },
   ],
+  createdAt: "2026-09-27T11:58:17.680Z",
+  updatedAt: "2026-09-27T11:58:24.000Z",
 } as const satisfies Module

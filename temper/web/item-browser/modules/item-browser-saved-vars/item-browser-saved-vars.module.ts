@@ -7,4 +7,6 @@ export const itemBrowserSavedVars = {
   definition:
     "what the player chose, kept between sessions, and the move off the older boolean form",
   code: "ts",
+  createdAt: "2026-09-02T09:34:23.520Z",
+  updatedAt: "2026-09-21T15:16:26.000Z",
 } as const satisfies Module

@@ -16,4 +16,6 @@ export const recipeCatalogGate = {
       statement: "The content is drawn again whenever the catalogue is read again.",
     },
   ],
+  createdAt: "2026-09-26T15:45:03.521Z",
+  updatedAt: "2026-09-27T08:56:31.000Z",
 } as const satisfies Module

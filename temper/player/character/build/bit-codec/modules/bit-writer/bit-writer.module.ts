@@ -20,4 +20,6 @@ export const bitWriter = {
       statement: "A part-filled last byte is padded on the right at the close.",
     },
   ],
+  createdAt: "2026-09-02T05:54:46.240Z",
+  updatedAt: "2026-09-21T15:42:12.000Z",
 } as const satisfies Module

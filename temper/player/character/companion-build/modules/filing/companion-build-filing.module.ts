@@ -66,4 +66,6 @@ export const companionBuildFiling = {
         "Pages are read and written by the page access functions unless the caller states others.",
     },
   ],
+  createdAt: "2026-09-25T13:31:10.557Z",
+  updatedAt: "2026-09-25T13:31:25.000Z",
 } as const satisfies Module

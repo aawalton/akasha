@@ -6,4 +6,6 @@ export const companionEditor = {
   slug: "companion-editor",
   definition: "the editor for changing a companion build",
   code: "tsx",
+  createdAt: "2026-09-03T04:31:48.605Z",
+  updatedAt: "2026-09-22T14:01:43.000Z",
 } as const satisfies Module

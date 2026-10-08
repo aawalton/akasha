@@ -35,4 +35,6 @@ export const ruleTemplateCatalog = {
         "Asking for the templates before they are read is refused rather than answered empty.",
     },
   ],
+  createdAt: "2026-09-26T20:45:02.934Z",
+  updatedAt: "2026-09-26T20:45:32.000Z",
 } as const satisfies Module

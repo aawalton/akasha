@@ -13,4 +13,6 @@ export const useCompanionSuggestions = {
         "The suggestions are worked out again whenever the companion or stat catalogue is read again.",
     },
   ],
+  createdAt: "2026-09-02T21:56:24.172Z",
+  updatedAt: "2026-09-27T09:10:48.000Z",
 } as const satisfies Module

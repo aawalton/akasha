@@ -6,4 +6,6 @@ export const skillLineMorphTotals = {
   slug: "skill-line-morph-totals",
   definition: "the morph rank a character holds in a skill line, against the most that line holds",
   code: "ts",
+  createdAt: "2026-09-02T11:00:28.600Z",
+  updatedAt: "2026-09-21T15:30:49.000Z",
 } as const satisfies Module

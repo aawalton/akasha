@@ -20,4 +20,6 @@ export const levelScaling = {
       statement: "A piece's worth level comes from the level band its item level falls in.",
     },
   ],
+  createdAt: "2026-09-02T09:24:55.954Z",
+  updatedAt: "2026-09-27T05:52:29.000Z",
 } as const satisfies Module

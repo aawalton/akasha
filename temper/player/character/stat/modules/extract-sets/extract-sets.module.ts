@@ -6,4 +6,6 @@ export const extractSets = {
   slug: "extract-sets",
   definition: "the equipment sets a build wears, counted by piece and read out as effect sources",
   code: "ts",
+  createdAt: "2026-09-02T14:06:51.855Z",
+  updatedAt: "2026-09-21T15:39:55.000Z",
 } as const satisfies Module

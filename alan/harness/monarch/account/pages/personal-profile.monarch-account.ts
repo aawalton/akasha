@@ -13,4 +13,6 @@ export const personalProfile = {
   asset: true,
   accountActive: true,
   accountHidden: false,
+  createdAt: "2026-09-03T03:39:10.888Z",
+  updatedAt: "2026-09-26T06:24:11.000Z",
 } as const satisfies MonarchAccount

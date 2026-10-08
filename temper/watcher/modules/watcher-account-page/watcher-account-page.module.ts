@@ -37,4 +37,6 @@ export const watcherAccountPage = {
       statement: "Nothing here reads or writes anything else about an account.",
     },
   ],
+  createdAt: "2026-09-02T19:03:27.439Z",
+  updatedAt: "2026-09-24T15:53:43.000Z",
 } as const satisfies Module

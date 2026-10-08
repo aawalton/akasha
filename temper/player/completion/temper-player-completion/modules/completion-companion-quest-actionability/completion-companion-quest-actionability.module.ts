@@ -25,4 +25,6 @@ export const completionCompanionQuestActionability = {
       statement: "The caller hands in each companion's game id, so the addon reads it at build.",
     },
   ],
+  createdAt: "2026-09-02T08:00:09.425Z",
+  updatedAt: "2026-09-26T17:12:42.000Z",
 } as const satisfies Module

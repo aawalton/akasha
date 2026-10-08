@@ -44,4 +44,6 @@ export const movableWindow = {
       statement: "No position is kept here.",
     },
   ],
+  createdAt: "2026-09-02T06:17:39.024Z",
+  updatedAt: "2026-09-15T18:42:24.000Z",
 } as const satisfies Module

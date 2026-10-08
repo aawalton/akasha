@@ -28,4 +28,6 @@ export const useSetCatalog = {
       statement: "A read that fails is thrown to the screen rather than drawn as no sets.",
     },
   ],
+  createdAt: "2026-09-26T15:03:00.450Z",
+  updatedAt: "2026-09-26T15:03:24.000Z",
 } as const satisfies Module

@@ -13,4 +13,6 @@ export const completionLoreLibraryProgress = {
       statement: "A book is keyed by three indexes taken together.",
     },
   ],
+  createdAt: "2026-09-02T08:00:09.428Z",
+  updatedAt: "2026-09-21T15:58:08.000Z",
 } as const satisfies Module

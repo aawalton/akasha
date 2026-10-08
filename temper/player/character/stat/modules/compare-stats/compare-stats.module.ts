@@ -6,4 +6,6 @@ export const compareStats = {
   slug: "compare-stats",
   definition: "the character stats whose value differs between two builds",
   code: "ts",
+  createdAt: "2026-09-02T08:19:38.161Z",
+  updatedAt: "2026-09-21T15:39:55.000Z",
 } as const satisfies Module

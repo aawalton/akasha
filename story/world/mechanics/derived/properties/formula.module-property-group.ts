@@ -9,4 +9,6 @@ export const formula = {
   slug: "formula",
   propertySlug: "formula",
   definition: "what works a derived number out from the numbers a character keeps",
+  createdAt: "2026-09-22T17:39:01.598Z",
+  updatedAt: "2026-09-26T14:54:15.000Z",
 } as const satisfies ModulePropertyGroup

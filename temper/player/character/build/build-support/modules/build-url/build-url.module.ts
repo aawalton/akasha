@@ -24,4 +24,6 @@ export const buildUrl = {
       statement: "A build link takes the readable part of the link from the build's name.",
     },
   ],
+  createdAt: "2026-09-02T05:37:29.593Z",
+  updatedAt: "2026-09-22T14:14:30.000Z",
 } as const satisfies Module

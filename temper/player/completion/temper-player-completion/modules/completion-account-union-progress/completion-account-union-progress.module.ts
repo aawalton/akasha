@@ -12,4 +12,6 @@ export const completionAccountUnionProgress = {
       statement: "A quest finished by one character counts as finished for the account.",
     },
   ],
+  createdAt: "2026-09-02T08:00:09.424Z",
+  updatedAt: "2026-09-21T15:58:08.000Z",
 } as const satisfies Module

@@ -6,4 +6,6 @@ export const useCompanionPartnerBuildUrl = {
   slug: "use-companion-partner-build-url",
   definition: "the url of the build a companion partners",
   code: "ts",
+  createdAt: "2026-09-02T21:56:24.176Z",
+  updatedAt: "2026-09-15T18:44:13.000Z",
 } as const satisfies Module

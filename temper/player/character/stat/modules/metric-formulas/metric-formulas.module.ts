@@ -6,4 +6,6 @@ export const metricFormulas = {
   slug: "metric-formulas",
   definition: "the number a character stat's formula computes from a build's effect sources",
   code: "ts",
+  createdAt: "2026-09-02T08:19:38.159Z",
+  updatedAt: "2026-09-21T15:39:55.000Z",
 } as const satisfies Module

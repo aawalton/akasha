@@ -37,4 +37,6 @@ export const inventoryManagementPlanChain = {
       statement: "A rule's first-listed item ids take the tiers before the ids listed after.",
     },
   ],
+  createdAt: "2026-09-02T09:02:04.762Z",
+  updatedAt: "2026-09-26T17:44:47.000Z",
 } as const satisfies Module

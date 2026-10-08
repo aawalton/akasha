@@ -6,4 +6,6 @@ export const diffEffectSources = {
   slug: "diff-effect-sources",
   definition: "the effects and sources one character build carries that another build does not",
   code: "ts",
+  createdAt: "2026-09-02T08:19:38.162Z",
+  updatedAt: "2026-09-21T15:39:55.000Z",
 } as const satisfies Module

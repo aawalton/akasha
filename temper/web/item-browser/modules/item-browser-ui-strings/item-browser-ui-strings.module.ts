@@ -7,4 +7,6 @@ export const itemBrowserUiStrings = {
   definition: "the English text this add-on adds to the game's table of strings",
   code: "ts",
   decisions: [],
+  createdAt: "2026-09-02T09:34:23.523Z",
+  updatedAt: "2026-09-21T15:16:26.000Z",
 } as const satisfies Module

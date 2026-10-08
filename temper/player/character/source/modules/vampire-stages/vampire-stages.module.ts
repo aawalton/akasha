@@ -20,4 +20,6 @@ export const vampireStages = {
       statement: "The vampire stage pages are held wherever the skill catalogue is held.",
     },
   ],
+  createdAt: "2026-09-02T06:59:47.429Z",
+  updatedAt: "2026-09-26T20:42:18.000Z",
 } as const satisfies Module

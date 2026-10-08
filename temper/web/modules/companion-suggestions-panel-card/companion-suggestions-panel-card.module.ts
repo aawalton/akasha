@@ -16,4 +16,6 @@ export const companionSuggestionsPanelCard = {
       statement: "A suggestion's kind and change are worded here from what the generator states.",
     },
   ],
+  createdAt: "2026-09-02T21:58:08.930Z",
+  updatedAt: "2026-09-27T12:33:00.000Z",
 } as const satisfies Module

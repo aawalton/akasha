@@ -13,4 +13,6 @@ export const itemBrowserTooltipHooks = {
         "An argument of an unknown kind is narrowed where that argument is read rather than by a helper.",
     },
   ],
+  createdAt: "2026-09-02T09:34:23.522Z",
+  updatedAt: "2026-09-21T15:16:26.000Z",
 } as const satisfies Module

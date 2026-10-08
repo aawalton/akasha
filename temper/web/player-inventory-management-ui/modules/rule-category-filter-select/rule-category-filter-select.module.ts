@@ -16,4 +16,6 @@ export const ruleCategoryFilterSelect = {
       statement: "The every-category choice is named by the item category tree's all page.",
     },
   ],
+  createdAt: "2026-09-02T18:40:41.377Z",
+  updatedAt: "2026-09-27T11:56:54.000Z",
 } as const satisfies Module

@@ -50,4 +50,6 @@ export const tooltipLines = {
         "A Temper window showing the same lines outside a tooltip marks them the same way.",
     },
   ],
+  createdAt: "2026-09-25T18:05:22.930Z",
+  updatedAt: "2026-09-25T18:10:59.000Z",
 } as const satisfies Module

@@ -20,4 +20,6 @@ export const ruleCardControlledConditions = {
       statement: "The quality chip's operator is its comparison op page's title.",
     },
   ],
+  createdAt: "2026-09-02T18:40:41.371Z",
+  updatedAt: "2026-09-27T11:55:44.000Z",
 } as const satisfies Module

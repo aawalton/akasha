@@ -18,4 +18,6 @@ export const metrics = {
         "Asking for the catalogue before it is read is refused rather than answered empty.",
     },
   ],
+  createdAt: "2026-09-02T08:17:20.311Z",
+  updatedAt: "2026-09-26T16:01:50.000Z",
 } as const satisfies Module

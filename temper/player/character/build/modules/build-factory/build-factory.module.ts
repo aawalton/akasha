@@ -12,4 +12,6 @@ export const buildFactory = {
       statement: "A started build is named by its caller, and named nothing where none is given.",
     },
   ],
+  createdAt: "2026-09-02T10:26:09.460Z",
+  updatedAt: "2026-09-27T11:53:45.000Z",
 } as const satisfies Module

@@ -12,4 +12,6 @@ export const itemBrowserGlobal = {
       statement: "This global is the add-on's own name rather than a name the game owns.",
     },
   ],
+  createdAt: "2026-09-02T09:34:23.516Z",
+  updatedAt: "2026-09-22T14:01:43.000Z",
 } as const satisfies Module

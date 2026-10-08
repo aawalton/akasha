@@ -61,4 +61,6 @@ export const watcherTokenCheck = {
       statement: "The enrolment is read as the system, because this read is what names the reader.",
     },
   ],
+  createdAt: "2026-09-02T21:38:53.840Z",
+  updatedAt: "2026-09-25T13:30:40.000Z",
 } as const satisfies Module

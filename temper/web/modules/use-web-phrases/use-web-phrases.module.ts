@@ -33,4 +33,6 @@ export const useWebPhrases = {
       statement: "A screen that reads a phrase redraws when that phrase's page changes.",
     },
   ],
+  createdAt: "2026-09-27T11:22:18.371Z",
+  updatedAt: "2026-09-27T16:16:44.000Z",
 } as const satisfies Module

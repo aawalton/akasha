@@ -24,4 +24,6 @@ export const itemRuleCard = {
       statement: "The active and lock toggles are worded by rule card phrases.",
     },
   ],
+  createdAt: "2026-09-02T18:40:41.371Z",
+  updatedAt: "2026-09-27T11:12:47.000Z",
 } as const satisfies Module

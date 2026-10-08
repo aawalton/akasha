@@ -28,4 +28,6 @@ export const completionAntiquityLoreProgress = {
       statement: "An empty catalog answers an empty progress.",
     },
   ],
+  createdAt: "2026-09-02T18:18:47.036Z",
+  updatedAt: "2026-09-25T17:09:50.000Z",
 } as const satisfies Module

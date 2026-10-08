@@ -12,4 +12,6 @@ export const setCategories = {
       statement: "Set category names and order come from the pages held with the set catalogue.",
     },
   ],
+  createdAt: "2026-09-02T09:24:55.957Z",
+  updatedAt: "2026-09-27T04:51:46.000Z",
 } as const satisfies Module

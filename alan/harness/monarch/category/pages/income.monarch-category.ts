@@ -6,4 +6,6 @@ export const income = {
   slug: "income",
   title: "Income",
   definition: "money arriving from outside the family that adds to what it holds",
+  createdAt: "2026-09-03T03:39:10.888Z",
+  updatedAt: "2026-09-15T17:32:44.000Z",
 } as const satisfies MonarchCategory

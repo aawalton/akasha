@@ -38,4 +38,6 @@ export const useCompletion = {
       statement: "The domain's own character row is a different shape, so neither row is shared.",
     },
   ],
+  createdAt: "2026-09-02T18:31:30.695Z",
+  updatedAt: "2026-09-24T17:39:39.000Z",
 } as const satisfies Module

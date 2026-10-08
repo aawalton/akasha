@@ -6,4 +6,6 @@ export const sourceFile = {
   slug: "source-file",
   definition: "a keyed table of effect sources reached by id",
   code: "ts",
+  createdAt: "2026-09-02T04:46:21.412Z",
+  updatedAt: "2026-09-21T15:41:15.000Z",
 } as const satisfies Module

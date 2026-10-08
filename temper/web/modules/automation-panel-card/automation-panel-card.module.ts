@@ -12,4 +12,6 @@ export const automationPanelCard = {
       statement: "Its wording is read from web phrase pages.",
     },
   ],
+  createdAt: "2026-09-03T04:31:48.558Z",
+  updatedAt: "2026-09-27T11:33:36.000Z",
 } as const satisfies Module

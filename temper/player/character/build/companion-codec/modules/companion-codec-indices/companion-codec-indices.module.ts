@@ -12,4 +12,6 @@ export const companionCodecIndices = {
       statement: "Every index is read from the pages at call time, in their build-hash places.",
     },
   ],
+  createdAt: "2026-09-02T16:15:21.047Z",
+  updatedAt: "2026-09-26T17:26:37.000Z",
 } as const satisfies Module

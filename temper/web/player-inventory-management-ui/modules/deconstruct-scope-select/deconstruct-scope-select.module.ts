@@ -12,4 +12,6 @@ export const deconstructScopeSelect = {
       statement: "Deconstruct modes are named from deconstruct mode pages.",
     },
   ],
+  createdAt: "2026-09-02T18:40:41.367Z",
+  updatedAt: "2026-09-27T10:14:27.000Z",
 } as const satisfies Module

@@ -28,4 +28,6 @@ export const setSelectDialog = {
       statement: "No set has a wildcard icon today.",
     },
   ],
+  createdAt: "2026-09-02T22:11:45.303Z",
+  updatedAt: "2026-09-15T18:44:13.000Z",
 } as const satisfies Module

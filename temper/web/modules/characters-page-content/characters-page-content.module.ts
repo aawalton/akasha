@@ -16,4 +16,6 @@ export const charactersPageContent = {
       statement: "Content that fails to load is worded by the Temper query error boundary.",
     },
   ],
+  createdAt: "2026-09-02T22:10:23.763Z",
+  updatedAt: "2026-09-27T12:55:59.000Z",
 } as const satisfies Module

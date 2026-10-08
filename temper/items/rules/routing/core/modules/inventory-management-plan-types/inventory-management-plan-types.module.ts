@@ -17,4 +17,6 @@ export const inventoryManagementPlanTypes = {
         "A character session gathers the venue stops one character makes before the next takes over.",
     },
   ],
+  createdAt: "2026-09-02T08:51:47.594Z",
+  updatedAt: "2026-09-21T15:39:02.000Z",
 } as const satisfies Module

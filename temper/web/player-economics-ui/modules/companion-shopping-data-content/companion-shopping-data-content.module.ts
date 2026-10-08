@@ -12,4 +12,6 @@ export const companionShoppingDataContent = {
       statement: "The filter names and empty states are read from phrase pages.",
     },
   ],
+  createdAt: "2026-09-02T19:38:46.849Z",
+  updatedAt: "2026-09-27T11:44:23.000Z",
 } as const satisfies Module

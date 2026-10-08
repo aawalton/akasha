@@ -6,4 +6,6 @@ export const topologicalSort = {
   slug: "topological-sort",
   definition: "an ordering putting every item after its own dependencies",
   code: "ts",
+  createdAt: "2026-09-02T04:46:21.413Z",
+  updatedAt: "2026-09-22T14:00:30.000Z",
 } as const satisfies Module

@@ -16,4 +16,6 @@ export const unmappedItemsPanelCard = {
       statement: "Gold amounts are worded by the gold amount module.",
     },
   ],
+  createdAt: "2026-09-02T18:40:41.377Z",
+  updatedAt: "2026-09-27T11:58:24.000Z",
 } as const satisfies Module

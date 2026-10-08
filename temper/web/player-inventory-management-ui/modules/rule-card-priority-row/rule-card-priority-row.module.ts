@@ -20,4 +20,6 @@ export const ruleCardPriorityRow = {
       statement: "Each goal in the goal select is named by its rule goal page's title.",
     },
   ],
+  createdAt: "2026-09-02T18:40:41.377Z",
+  updatedAt: "2026-09-27T11:55:01.000Z",
 } as const satisfies Module

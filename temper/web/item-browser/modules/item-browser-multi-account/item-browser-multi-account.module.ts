@@ -7,4 +7,6 @@ export const itemBrowserMultiAccount = {
   definition:
     "the same collection read for another account or another server, where that library is present",
   code: "ts",
+  createdAt: "2026-09-02T09:34:23.520Z",
+  updatedAt: "2026-09-21T15:16:26.000Z",
 } as const satisfies Module

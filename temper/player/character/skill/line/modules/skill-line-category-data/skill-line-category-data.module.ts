@@ -16,4 +16,6 @@ export const skillLineCategoryData = {
       statement: "This code is written out from the skill-line-category pages rather than by hand.",
     },
   ],
+  createdAt: "2026-09-02T05:15:01.301Z",
+  updatedAt: "2026-09-27T11:58:08.000Z",
 } as const satisfies Module

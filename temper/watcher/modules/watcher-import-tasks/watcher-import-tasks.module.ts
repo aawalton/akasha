@@ -115,4 +115,6 @@ export const watcherImportTasks = {
       statement: "The recomputation is handed the character a task names, as that page's slug.",
     },
   ],
+  createdAt: "2026-09-02T19:03:27.439Z",
+  updatedAt: "2026-09-25T17:09:39.000Z",
 } as const satisfies Module

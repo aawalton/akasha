@@ -6,4 +6,6 @@ export const completionActivityModeContext = {
   slug: "completion-activity-mode-context",
   definition: "whether a completion panel names the activity kinds behind each row",
   code: "tsx",
+  createdAt: "2026-09-02T13:55:26.636Z",
+  updatedAt: "2026-09-21T15:20:46.000Z",
 } as const satisfies Module

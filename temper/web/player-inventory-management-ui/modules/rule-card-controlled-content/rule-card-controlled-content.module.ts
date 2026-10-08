@@ -12,4 +12,6 @@ export const ruleCardControlledContent = {
       statement: "The stock scope badge is worded by rule card phrases.",
     },
   ],
+  createdAt: "2026-09-02T18:40:41.371Z",
+  updatedAt: "2026-09-27T11:47:40.000Z",
 } as const satisfies Module

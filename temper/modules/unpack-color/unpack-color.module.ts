@@ -24,4 +24,6 @@ export const unpackColor = {
       statement: "An alpha the color is missing is handed back as nothing.",
     },
   ],
+  createdAt: "2026-09-11T13:31:14.104Z",
+  updatedAt: "2026-09-15T18:42:24.000Z",
 } as const satisfies Module

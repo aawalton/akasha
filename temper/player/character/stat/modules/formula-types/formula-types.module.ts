@@ -7,4 +7,6 @@ export const formulaTypes = {
   definition:
     "the formula nodes a character stat is computed from, over effect sources and other stats",
   code: "ts",
+  createdAt: "2026-09-02T08:15:09.032Z",
+  updatedAt: "2026-09-21T15:39:55.000Z",
 } as const satisfies Module

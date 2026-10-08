@@ -13,4 +13,6 @@ export const itemTooltipPopover = {
         "The popover's loading, missing-detail notes and trigger label are web phrase pages.",
     },
   ],
+  createdAt: "2026-09-02T18:40:41.371Z",
+  updatedAt: "2026-09-27T11:46:02.000Z",
 } as const satisfies Module

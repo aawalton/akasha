@@ -55,4 +55,6 @@ export const completionCardCheckers = {
         "The riding stats the picker offers are the completion pages under mount training.",
     },
   ],
+  createdAt: "2026-09-02T21:35:11.002Z",
+  updatedAt: "2026-09-27T10:04:16.000Z",
 } as const satisfies Module

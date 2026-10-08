@@ -13,4 +13,6 @@ export const completionMeasured = {
       statement: "A character with only roster fields counts as unread.",
     },
   ],
+  createdAt: "2026-09-02T07:32:01.650Z",
+  updatedAt: "2026-09-21T15:58:08.000Z",
 } as const satisfies Module

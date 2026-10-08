@@ -26,4 +26,6 @@ export const buildVersionCreatedAt = {
       statement: "A version with no instant is listed after every version with one.",
     },
   ],
+  createdAt: "2026-09-25T04:24:05.036Z",
+  updatedAt: "2026-09-25T04:24:33.000Z",
 } as const satisfies Module

@@ -12,4 +12,6 @@ export const itemSearchDialog = {
       statement: "The dialog's default title, placeholder and search states are web phrase pages.",
     },
   ],
+  createdAt: "2026-09-02T18:40:41.371Z",
+  updatedAt: "2026-09-27T11:45:22.000Z",
 } as const satisfies Module

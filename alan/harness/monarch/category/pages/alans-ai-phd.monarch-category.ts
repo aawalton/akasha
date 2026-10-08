@@ -9,4 +9,6 @@ export const alansAiPhd = {
   monarchId: "254044994133695434",
   categoryGroup: "Personal Spending",
   categoryGroupType: "expense",
+  createdAt: "2026-09-05T06:17:17.327Z",
+  updatedAt: "2026-09-15T17:32:44.000Z",
 } as const satisfies MonarchCategory

@@ -46,4 +46,6 @@ export const windowNumbers = {
         "A number inside one of the game's own windows keeps the game's way of writing it.",
     },
   ],
+  createdAt: "2026-09-25T17:22:17.031Z",
+  updatedAt: "2026-09-26T15:51:31.000Z",
 } as const satisfies Module

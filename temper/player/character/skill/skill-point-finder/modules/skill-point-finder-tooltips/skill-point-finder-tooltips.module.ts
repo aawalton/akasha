@@ -16,4 +16,6 @@ export const skillPointFinderTooltips = {
       statement: "Each line of what a row says is a line of the popover.",
     },
   ],
+  createdAt: "2026-09-02T07:01:36.972Z",
+  updatedAt: "2026-09-25T18:23:21.000Z",
 } as const satisfies Module

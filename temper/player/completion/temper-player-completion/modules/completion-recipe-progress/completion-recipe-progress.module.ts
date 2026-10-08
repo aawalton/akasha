@@ -7,4 +7,6 @@ export const completionRecipeProgress = {
   definition: "the recipes each character knows, counted by recipe list",
   code: "ts",
   decisions: [],
+  createdAt: "2026-09-02T08:00:09.428Z",
+  updatedAt: "2026-09-21T15:58:08.000Z",
 } as const satisfies Module

@@ -67,4 +67,6 @@ export const characterImport = {
       statement: "A race or class the catalogue lacks is named by a web phrase page.",
     },
   ],
+  createdAt: "2026-09-02T21:38:53.840Z",
+  updatedAt: "2026-09-27T11:40:46.000Z",
 } as const satisfies Module

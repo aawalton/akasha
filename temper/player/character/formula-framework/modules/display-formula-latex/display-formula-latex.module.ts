@@ -6,4 +6,6 @@ export const displayFormulaLatex = {
   slug: "display-formula-latex",
   definition: "a display formula written out as LaTeX",
   code: "ts",
+  createdAt: "2026-09-02T04:46:21.408Z",
+  updatedAt: "2026-09-21T15:41:15.000Z",
 } as const satisfies Module

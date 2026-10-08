@@ -17,4 +17,6 @@ export const itemRuleCardHeader = {
       statement: "Each goal is named by its rule goal page's title.",
     },
   ],
+  createdAt: "2026-09-21T17:56:55.127Z",
+  updatedAt: "2026-09-27T11:55:01.000Z",
 } as const satisfies Module

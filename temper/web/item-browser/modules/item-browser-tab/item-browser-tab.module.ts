@@ -7,4 +7,6 @@ export const itemBrowserTab = {
   definition:
     "the add-on's own tab in the journal, and what it rebuilds when the collection changes",
   code: "ts",
+  createdAt: "2026-09-02T09:34:23.522Z",
+  updatedAt: "2026-09-21T15:16:26.000Z",
 } as const satisfies Module

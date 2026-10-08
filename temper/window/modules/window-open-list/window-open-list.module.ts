@@ -29,4 +29,6 @@ export const windowOpenList = {
       statement: "A sort header's arrow in a Temper window is lucide's arrow-up or arrow-down.",
     },
   ],
+  createdAt: "2026-09-25T21:36:57.843Z",
+  updatedAt: "2026-09-25T22:33:02.000Z",
 } as const satisfies Module

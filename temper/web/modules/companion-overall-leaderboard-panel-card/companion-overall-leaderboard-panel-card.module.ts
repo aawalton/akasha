@@ -16,4 +16,6 @@ export const companionOverallLeaderboardPanelCard = {
       statement: "No role combination it ranks over is named on the card.",
     },
   ],
+  createdAt: "2026-09-02T21:56:24.174Z",
+  updatedAt: "2026-09-27T12:30:10.000Z",
 } as const satisfies Module

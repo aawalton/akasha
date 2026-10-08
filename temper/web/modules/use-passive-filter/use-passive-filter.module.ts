@@ -12,4 +12,6 @@ export const usePassiveFilter = {
       statement: "The category names it offers are the skill line category pages' titles.",
     },
   ],
+  createdAt: "2026-09-02T22:10:23.777Z",
+  updatedAt: "2026-09-27T11:52:45.000Z",
 } as const satisfies Module

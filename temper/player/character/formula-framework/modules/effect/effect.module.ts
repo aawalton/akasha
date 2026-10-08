@@ -6,4 +6,6 @@ export const effect = {
   slug: "effect",
   definition: "a change a source makes to a character's numbers",
   code: "ts",
+  createdAt: "2026-09-02T04:46:21.408Z",
+  updatedAt: "2026-09-22T10:14:32.000Z",
 } as const satisfies Module

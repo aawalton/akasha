@@ -21,4 +21,6 @@ export const metricFormulaWriting = {
       statement: "The formatter has the last word on how the body is laid out.",
     },
   ],
+  createdAt: "2026-09-26T19:14:30.735Z",
+  updatedAt: "2026-09-26T19:18:40.000Z",
 } as const satisfies Module

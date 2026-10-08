@@ -16,4 +16,6 @@ export const automationTab = {
       statement: "Its other wording is read from web phrase pages.",
     },
   ],
+  createdAt: "2026-09-02T22:17:18.992Z",
+  updatedAt: "2026-09-27T11:42:22.000Z",
 } as const satisfies Module

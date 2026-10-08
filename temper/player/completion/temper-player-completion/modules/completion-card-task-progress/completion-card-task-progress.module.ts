@@ -43,4 +43,6 @@ export const completionCardTaskProgress = {
         "The antiquity-lore card is answered by the account checker the generic count reaches.",
     },
   ],
+  createdAt: "2026-09-02T21:53:05.460Z",
+  updatedAt: "2026-09-27T09:08:32.000Z",
 } as const satisfies Module

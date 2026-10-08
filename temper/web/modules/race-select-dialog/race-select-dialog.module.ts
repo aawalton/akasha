@@ -21,4 +21,6 @@ export const raceSelectDialog = {
         "The no-race choice is named by the no-race race page, read from the held catalog.",
     },
   ],
+  createdAt: "2026-09-02T22:10:23.745Z",
+  updatedAt: "2026-09-27T11:44:05.000Z",
 } as const satisfies Module

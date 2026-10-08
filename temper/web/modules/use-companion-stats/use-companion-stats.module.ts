@@ -6,4 +6,6 @@ export const useCompanionStats = {
   slug: "use-companion-stats",
   definition: "a companion's stats, read from its context",
   code: "ts",
+  createdAt: "2026-09-02T21:58:08.937Z",
+  updatedAt: "2026-09-15T18:44:13.000Z",
 } as const satisfies Module

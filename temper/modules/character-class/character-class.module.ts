@@ -16,4 +16,6 @@ export const characterClass = {
       statement: "A class's place in this table is the index a build hash has.",
     },
   ],
+  createdAt: "2026-09-02T04:52:28.136Z",
+  updatedAt: "2026-09-27T02:02:13.000Z",
 } as const satisfies Module

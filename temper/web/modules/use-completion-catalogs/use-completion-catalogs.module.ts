@@ -36,4 +36,6 @@ export const useCompletionCatalogs = {
       statement: "The largest catalog has 311 rows.",
     },
   ],
+  createdAt: "2026-09-02T21:59:02.731Z",
+  updatedAt: "2026-09-27T09:09:07.000Z",
 } as const satisfies Module

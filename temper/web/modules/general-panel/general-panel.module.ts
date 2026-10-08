@@ -6,4 +6,6 @@ export const generalPanel = {
   slug: "general-panel",
   definition: "the panel with a character's general fields",
   code: "tsx",
+  createdAt: "2026-09-03T04:31:48.668Z",
+  updatedAt: "2026-09-15T18:44:13.000Z",
 } as const satisfies Module

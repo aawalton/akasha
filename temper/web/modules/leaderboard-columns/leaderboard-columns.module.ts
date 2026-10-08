@@ -16,4 +16,6 @@ export const leaderboardColumns = {
       statement: "A column's full name is the title of the metric page it shows.",
     },
   ],
+  createdAt: "2026-09-02T21:56:24.176Z",
+  updatedAt: "2026-09-27T11:48:08.000Z",
 } as const satisfies Module

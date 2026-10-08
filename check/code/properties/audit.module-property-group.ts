@@ -9,4 +9,6 @@ export const audit = {
   slug: "audit",
   propertySlug: "audit",
   definition: "what judges the whole repository at once",
+  createdAt: "2026-09-09T19:54:42.280Z",
+  updatedAt: "2026-09-15T17:32:01.000Z",
 } as const satisfies ModulePropertyGroup

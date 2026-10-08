@@ -18,4 +18,6 @@ export const shoppingListTabContent = {
         "The list's wording is read from phrase pages, and its category names from the tree.",
     },
   ],
+  createdAt: "2026-09-02T19:38:46.849Z",
+  updatedAt: "2026-09-27T11:38:49.000Z",
 } as const satisfies Module

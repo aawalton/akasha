@@ -51,4 +51,6 @@ export const watcherLogging = {
       statement: "A line reaches the terminal only where the worker runs attached to a terminal.",
     },
   ],
+  createdAt: "2026-09-02T17:51:44.414Z",
+  updatedAt: "2026-09-15T18:43:51.000Z",
 } as const satisfies Module

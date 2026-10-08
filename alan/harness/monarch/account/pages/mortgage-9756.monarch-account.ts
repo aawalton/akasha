@@ -13,4 +13,6 @@ export const mortgage9756 = {
   asset: false,
   accountActive: true,
   accountHidden: false,
+  createdAt: "2026-09-03T03:39:10.888Z",
+  updatedAt: "2026-10-04T06:26:03.000Z",
 } as const satisfies MonarchAccount

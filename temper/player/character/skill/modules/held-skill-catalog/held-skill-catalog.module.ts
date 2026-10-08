@@ -27,4 +27,6 @@ export const heldSkillCatalog = {
         "A table read from the catalogue reads whichever catalogue is held when it is read.",
     },
   ],
+  createdAt: "2026-09-26T16:00:53.855Z",
+  updatedAt: "2026-09-26T16:01:18.000Z",
 } as const satisfies Module

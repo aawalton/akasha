@@ -22,4 +22,6 @@ export const characterAchievementsPanelCard = {
       statement: "Its title is read from the character achievements completion category page.",
     },
   ],
+  createdAt: "2026-09-02T21:59:02.731Z",
+  updatedAt: "2026-09-27T11:35:06.000Z",
 } as const satisfies Module

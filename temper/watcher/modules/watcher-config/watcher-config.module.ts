@@ -52,4 +52,6 @@ export const watcherConfig = {
         "The inventory kind and the sales kind are read from the one file the items add-on writes.",
     },
   ],
+  createdAt: "2026-09-02T18:53:13.804Z",
+  updatedAt: "2026-09-22T02:54:45.000Z",
 } as const satisfies Module

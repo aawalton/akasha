@@ -25,4 +25,6 @@ export const automationSettings = {
       statement: "A companion has fewer toggles than a character.",
     },
   ],
+  createdAt: "2026-09-02T05:37:29.593Z",
+  updatedAt: "2026-09-22T13:48:32.000Z",
 } as const satisfies Module

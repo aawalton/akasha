@@ -98,4 +98,6 @@ export const watcherSettingsLuaBlock = {
       statement: "Nothing here reads or writes a file.",
     },
   ],
+  createdAt: "2026-09-02T18:35:40.149Z",
+  updatedAt: "2026-09-24T17:40:59.000Z",
 } as const satisfies Module

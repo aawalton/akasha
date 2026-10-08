@@ -56,4 +56,6 @@ export const watcherTaskCapture = {
       statement: "Nothing here writes.",
     },
   ],
+  createdAt: "2026-09-06T13:45:15.834Z",
+  updatedAt: "2026-09-22T16:40:30.000Z",
 } as const satisfies Module

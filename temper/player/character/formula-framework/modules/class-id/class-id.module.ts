@@ -12,4 +12,6 @@ export const classId = {
       statement: "The names are the class pages' slugs, as the class ids table holds them.",
     },
   ],
+  createdAt: "2026-09-02T04:46:21.406Z",
+  updatedAt: "2026-09-27T02:02:13.000Z",
 } as const satisfies Module

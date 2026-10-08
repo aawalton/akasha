@@ -16,4 +16,6 @@ export const completionPageTabsList = {
       statement: "The summary tab is named by a web phrase page.",
     },
   ],
+  createdAt: "2026-09-27T12:07:04.372Z",
+  updatedAt: "2026-09-27T12:07:12.000Z",
 } as const satisfies Module

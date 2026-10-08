@@ -52,4 +52,6 @@ export const watcherRunning = {
       statement: "A worker that ended on its own answers with the code the worker ended on.",
     },
   ],
+  createdAt: "2026-09-02T03:46:23.498Z",
+  updatedAt: "2026-09-26T20:31:33.000Z",
 } as const satisfies Module

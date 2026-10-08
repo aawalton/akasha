@@ -26,4 +26,6 @@ export const formatTimeAgo = {
       statement: "An instant is written as no words while no phrases are held.",
     },
   ],
+  createdAt: "2026-09-02T22:17:18.992Z",
+  updatedAt: "2026-09-27T11:39:34.000Z",
 } as const satisfies Module

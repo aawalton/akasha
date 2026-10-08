@@ -33,4 +33,6 @@ export const completionCategoryTreeComposed = {
       statement: "Composing over the held page tree leaves that tree unchanged.",
     },
   ],
+  createdAt: "2026-09-02T21:31:37.646Z",
+  updatedAt: "2026-09-27T02:41:24.000Z",
 } as const satisfies Module

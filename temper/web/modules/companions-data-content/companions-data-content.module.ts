@@ -25,4 +25,6 @@ export const companionsDataContent = {
         "The builds are decoded and ranked again whenever the companion or stat catalogue is read again.",
     },
   ],
+  createdAt: "2026-09-02T22:13:52.825Z",
+  updatedAt: "2026-09-27T09:17:38.000Z",
 } as const satisfies Module

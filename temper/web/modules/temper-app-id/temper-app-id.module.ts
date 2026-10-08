@@ -6,4 +6,6 @@ export const temperAppId = {
   slug: "temper-app-id",
   definition: "Temper's id and the app page a nav item names",
   code: "ts",
+  createdAt: "2026-09-02T21:38:53.839Z",
+  updatedAt: "2026-09-22T22:38:35.000Z",
 } as const satisfies Module

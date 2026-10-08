@@ -17,4 +17,6 @@ export const companionRapport = {
       statement: "A companion with a quest left holds one short of the ceiling.",
     },
   ],
+  createdAt: "2026-09-02T07:32:01.642Z",
+  updatedAt: "2026-09-26T17:12:42.000Z",
 } as const satisfies Module

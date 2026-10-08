@@ -21,4 +21,6 @@ export const useRuleTemplates = {
       statement: "A read that fails is thrown to the screen rather than shown as no templates.",
     },
   ],
+  createdAt: "2026-09-26T20:45:02.935Z",
+  updatedAt: "2026-09-26T20:45:32.000Z",
 } as const satisfies Module

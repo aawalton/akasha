@@ -13,4 +13,6 @@ export const cyrodiilWayshrine = {
         "Cyrodiil's wayshrines are left out of the points of interest a character is measured on.",
     },
   ],
+  createdAt: "2026-09-02T07:32:01.654Z",
+  updatedAt: "2026-09-21T15:58:08.000Z",
 } as const satisfies Module

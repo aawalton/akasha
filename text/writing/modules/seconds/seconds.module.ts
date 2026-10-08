@@ -20,4 +20,6 @@ export const seconds = {
       statement: "A span under half a second is written as no seconds at all.",
     },
   ],
+  createdAt: "2026-09-11T01:21:27.161Z",
+  updatedAt: "2026-09-15T19:13:11.000Z",
 } as const satisfies Module

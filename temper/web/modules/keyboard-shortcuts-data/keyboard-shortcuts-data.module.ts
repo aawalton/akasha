@@ -16,4 +16,6 @@ export const keyboardShortcutsData = {
       statement: "Each title and description here is the slug of the web phrase page wording it.",
     },
   ],
+  createdAt: "2026-09-02T22:17:18.992Z",
+  updatedAt: "2026-09-27T11:34:04.000Z",
 } as const satisfies Module

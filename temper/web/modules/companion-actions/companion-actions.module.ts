@@ -6,4 +6,6 @@ export const companionActions = {
   slug: "companion-actions",
   definition: "every action a companion's state takes",
   code: "ts",
+  createdAt: "2026-09-02T21:56:24.175Z",
+  updatedAt: "2026-09-15T18:43:51.000Z",
 } as const satisfies Module

@@ -12,4 +12,6 @@ export const skillPointFinderWindow = {
       statement: "Each section of the window, and the character total, sits on a panel.",
     },
   ],
+  createdAt: "2026-09-02T07:01:36.974Z",
+  updatedAt: "2026-09-25T15:43:37.000Z",
 } as const satisfies Module

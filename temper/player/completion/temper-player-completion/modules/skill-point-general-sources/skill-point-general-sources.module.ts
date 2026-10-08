@@ -16,4 +16,6 @@ export const skillPointGeneralSources = {
       statement: "A source is named by the key the completion record counts that source under.",
     },
   ],
+  createdAt: "2026-09-02T07:32:01.655Z",
+  updatedAt: "2026-09-27T02:22:54.000Z",
 } as const satisfies Module

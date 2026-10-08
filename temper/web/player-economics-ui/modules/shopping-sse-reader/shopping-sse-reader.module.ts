@@ -17,4 +17,6 @@ export const shoppingSseReader = {
       statement: "An error frame carries a reason code, and one with no known code is dropped.",
     },
   ],
+  createdAt: "2026-09-02T19:38:46.849Z",
+  updatedAt: "2026-09-27T11:53:48.000Z",
 } as const satisfies Module

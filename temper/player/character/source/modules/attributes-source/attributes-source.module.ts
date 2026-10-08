@@ -16,4 +16,6 @@ export const attributesSource = {
       statement: "The attribute pages are held wherever the skill catalogue is held.",
     },
   ],
+  createdAt: "2026-09-02T06:59:47.421Z",
+  updatedAt: "2026-09-27T00:51:57.000Z",
 } as const satisfies Module

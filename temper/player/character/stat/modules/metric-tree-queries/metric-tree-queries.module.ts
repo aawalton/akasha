@@ -6,4 +6,6 @@ export const metricTreeQueries = {
   slug: "metric-tree-queries",
   definition: "the aggregate ancestors of a character stat, read out of the stat display tree",
   code: "ts",
+  createdAt: "2026-09-02T08:19:11.752Z",
+  updatedAt: "2026-09-21T15:39:55.000Z",
 } as const satisfies Module

@@ -24,4 +24,6 @@ export const rowGrouping = {
       statement: "The later of two rows sharing a key is the row filed under that key.",
     },
   ],
+  createdAt: "2026-09-02T05:37:29.594Z",
+  updatedAt: "2026-09-21T15:42:49.000Z",
 } as const satisfies Module

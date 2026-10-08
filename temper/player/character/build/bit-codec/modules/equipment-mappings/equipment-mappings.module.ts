@@ -29,4 +29,6 @@ export const equipmentMappings = {
       statement: "The game constant each index answers to is the one its page states.",
     },
   ],
+  createdAt: "2026-09-02T05:54:46.240Z",
+  updatedAt: "2026-09-27T03:35:13.000Z",
 } as const satisfies Module

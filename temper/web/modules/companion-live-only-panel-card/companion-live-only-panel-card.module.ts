@@ -12,4 +12,6 @@ export const companionLiveOnlyPanelCard = {
       statement: "Its wording is read from web phrase pages.",
     },
   ],
+  createdAt: "2026-09-02T21:56:24.174Z",
+  updatedAt: "2026-09-27T11:41:54.000Z",
 } as const satisfies Module

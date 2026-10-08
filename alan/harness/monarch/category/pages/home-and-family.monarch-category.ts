@@ -9,4 +9,6 @@ export const homeAndFamily = {
   monarchId: "254045031345559685",
   categoryGroup: "General Spending",
   categoryGroupType: "expense",
+  createdAt: "2026-09-05T06:17:17.328Z",
+  updatedAt: "2026-09-15T17:32:44.000Z",
 } as const satisfies MonarchCategory

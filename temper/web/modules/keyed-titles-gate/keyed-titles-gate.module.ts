@@ -16,4 +16,6 @@ export const keyedTitlesGate = {
       statement: "The content is drawn again whenever the titles are read again.",
     },
   ],
+  createdAt: "2026-09-27T02:09:46.532Z",
+  updatedAt: "2026-09-27T08:57:16.000Z",
 } as const satisfies Module

@@ -16,4 +16,6 @@ export const baseSource = {
       statement: "The source is named by the base source category page's title.",
     },
   ],
+  createdAt: "2026-09-02T06:59:47.423Z",
+  updatedAt: "2026-09-26T19:55:28.000Z",
 } as const satisfies Module

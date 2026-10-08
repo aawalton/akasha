@@ -6,4 +6,6 @@ export const ruleCardConditionsDerive = {
   slug: "rule-card-conditions-derive",
   definition: "the values a rule card shows, read out of a rule's conditions",
   code: "ts",
+  createdAt: "2026-09-02T18:40:41.371Z",
+  updatedAt: "2026-09-21T15:24:57.000Z",
 } as const satisfies Module

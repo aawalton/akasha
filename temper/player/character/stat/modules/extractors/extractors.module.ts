@@ -6,4 +6,6 @@ export const extractors = {
   slug: "extractors",
   definition: "the numbers a character stat reads out of the effect sources a build has",
   code: "ts",
+  createdAt: "2026-09-02T08:19:38.157Z",
+  updatedAt: "2026-09-21T15:39:55.000Z",
 } as const satisfies Module

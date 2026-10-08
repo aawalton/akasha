@@ -16,4 +16,6 @@ export const buildMetadata = {
       statement: "Metadata put back on a state leaves every other field of that state alone.",
     },
   ],
+  createdAt: "2026-09-02T10:53:23.032Z",
+  updatedAt: "2026-09-21T17:45:32.000Z",
 } as const satisfies Module

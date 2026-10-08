@@ -13,4 +13,6 @@ export const buildCodecIndices = {
       statement: "An id these tables do not carry stops the write rather than taking a number.",
     },
   ],
+  createdAt: "2026-09-02T16:15:21.023Z",
+  updatedAt: "2026-09-21T15:42:12.000Z",
 } as const satisfies Module

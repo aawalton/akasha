@@ -18,4 +18,6 @@ export const useShoppingOptimizer = {
         "Each reason code the optimise route answers is worded by a phrase page of its own.",
     },
   ],
+  createdAt: "2026-09-02T19:38:46.849Z",
+  updatedAt: "2026-09-27T11:53:48.000Z",
 } as const satisfies Module

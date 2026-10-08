@@ -6,4 +6,6 @@ export const skillPointFinderGameData = {
   slug: "skill-point-finder-game-data",
   definition: "every skill point source put into the table the window reads",
   code: "ts",
+  createdAt: "2026-09-02T07:01:36.956Z",
+  updatedAt: "2026-09-22T14:24:39.000Z",
 } as const satisfies Module

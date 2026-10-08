@@ -16,4 +16,6 @@ export const inventoryByLocationTab = {
       statement: "The no-match empty state is web phrase pages.",
     },
   ],
+  createdAt: "2026-09-02T18:40:41.370Z",
+  updatedAt: "2026-09-27T11:39:23.000Z",
 } as const satisfies Module

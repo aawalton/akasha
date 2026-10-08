@@ -12,4 +12,6 @@ export const characterSkills = {
       statement: "The skills are the held skill catalogue's, read whenever they are asked for.",
     },
   ],
+  createdAt: "2026-09-02T09:51:18.433Z",
+  updatedAt: "2026-09-26T16:01:18.000Z",
 } as const satisfies Module

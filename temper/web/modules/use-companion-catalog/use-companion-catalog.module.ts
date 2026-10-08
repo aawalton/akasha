@@ -21,4 +21,6 @@ export const useCompanionCatalog = {
       statement: "A read that fails is thrown to the screen rather than drawn as no companions.",
     },
   ],
+  createdAt: "2026-09-26T15:26:11.651Z",
+  updatedAt: "2026-09-26T15:26:35.000Z",
 } as const satisfies Module

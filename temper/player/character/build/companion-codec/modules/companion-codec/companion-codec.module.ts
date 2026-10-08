@@ -7,4 +7,6 @@ export const companionCodec = {
   definition: "the text carrying a companion build out and back",
   code: "ts",
   test: "ts",
+  createdAt: "2026-09-02T16:15:21.046Z",
+  updatedAt: "2026-09-22T13:56:23.000Z",
 } as const satisfies Module

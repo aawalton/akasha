@@ -12,4 +12,6 @@ export const scribedSkillTypes = {
       statement: "A scribed skill choice names one grimoire and three scripts.",
     },
   ],
+  createdAt: "2026-09-02T09:51:18.434Z",
+  updatedAt: "2026-09-22T10:07:57.000Z",
 } as const satisfies Module

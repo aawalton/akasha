@@ -13,4 +13,6 @@ export const morphRankPages = {
       statement: "Only an add-on reads this, since the pages are written in as it compiles.",
     },
   ],
+  createdAt: "2026-09-27T07:12:59.145Z",
+  updatedAt: "2026-09-27T07:40:05.000Z",
 } as const satisfies Module

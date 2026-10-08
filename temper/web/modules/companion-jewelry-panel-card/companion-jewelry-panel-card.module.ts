@@ -12,4 +12,6 @@ export const companionJewelryPanelCard = {
       statement: "Its title and empty choices are read from catalog pages.",
     },
   ],
+  createdAt: "2026-09-02T21:58:08.926Z",
+  updatedAt: "2026-09-27T11:45:02.000Z",
 } as const satisfies Module

@@ -7,4 +7,6 @@ export const itemBrowserSpecialNames = {
   definition:
     "the source names the game does not hold: three mythic items, three keeps and a guild",
   code: "ts",
+  createdAt: "2026-09-02T09:34:23.521Z",
+  updatedAt: "2026-09-21T15:16:26.000Z",
 } as const satisfies Module

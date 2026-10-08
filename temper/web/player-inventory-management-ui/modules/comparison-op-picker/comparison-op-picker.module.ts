@@ -16,4 +16,6 @@ export const comparisonOpPicker = {
       statement: "Each operator is shown by its comparison op page's title, found by key.",
     },
   ],
+  createdAt: "2026-09-02T18:40:41.367Z",
+  updatedAt: "2026-09-27T11:54:48.000Z",
 } as const satisfies Module

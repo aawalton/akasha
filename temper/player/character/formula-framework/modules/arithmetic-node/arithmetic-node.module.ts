@@ -6,4 +6,6 @@ export const arithmeticNode = {
   slug: "arithmetic-node",
   definition: "a stat formula held as a tree of add, multiply, divide, floor, max and min steps",
   code: "ts",
+  createdAt: "2026-09-02T04:46:21.403Z",
+  updatedAt: "2026-09-21T15:41:15.000Z",
 } as const satisfies Module

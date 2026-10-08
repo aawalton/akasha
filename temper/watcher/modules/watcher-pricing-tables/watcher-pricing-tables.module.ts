@@ -26,4 +26,6 @@ export const watcherPricingTables = {
       statement: "A caller may hand in the log the words go to.",
     },
   ],
+  createdAt: "2026-09-02T19:03:27.439Z",
+  updatedAt: "2026-09-25T13:23:00.000Z",
 } as const satisfies Module

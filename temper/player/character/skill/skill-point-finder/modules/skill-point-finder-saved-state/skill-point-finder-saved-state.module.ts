@@ -16,4 +16,6 @@ export const skillPointFinderSavedState = {
       statement: "The game is the only writer of a saved-variables file.",
     },
   ],
+  createdAt: "2026-09-02T07:01:36.961Z",
+  updatedAt: "2026-09-21T15:46:08.000Z",
 } as const satisfies Module

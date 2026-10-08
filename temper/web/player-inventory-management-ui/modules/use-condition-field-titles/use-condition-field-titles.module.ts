@@ -21,4 +21,6 @@ export const useConditionFieldTitles = {
         "A rule filter is named by the title of the condition field the registry gives it.",
     },
   ],
+  createdAt: "2026-09-27T10:01:31.495Z",
+  updatedAt: "2026-09-27T10:03:36.000Z",
 } as const satisfies Module

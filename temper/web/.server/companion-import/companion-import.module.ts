@@ -49,4 +49,6 @@ export const companionImport = {
       statement: "A reader with no account page is told so apart from a write that failed.",
     },
   ],
+  createdAt: "2026-09-02T21:38:53.840Z",
+  updatedAt: "2026-09-25T13:31:25.000Z",
 } as const satisfies Module

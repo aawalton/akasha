@@ -57,4 +57,6 @@ export const watcherErrorEmissions = {
       statement: "Nothing here sends anything anywhere.",
     },
   ],
+  createdAt: "2026-09-02T18:33:02.582Z",
+  updatedAt: "2026-09-15T18:43:51.000Z",
 } as const satisfies Module

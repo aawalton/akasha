@@ -29,4 +29,6 @@ export const counted = {
       statement: "A count is written as digits rather than as a word.",
     },
   ],
+  createdAt: "2026-09-10T19:30:18.920Z",
+  updatedAt: "2026-09-15T19:13:11.000Z",
 } as const satisfies Module

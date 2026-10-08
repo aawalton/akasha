@@ -6,4 +6,6 @@ export const completionTaskProgress = {
   slug: "completion-task-progress",
   definition: "how far a task has got",
   code: "ts",
+  createdAt: "2026-09-02T13:34:15.695Z",
+  updatedAt: "2026-09-21T15:58:34.000Z",
 } as const satisfies Module

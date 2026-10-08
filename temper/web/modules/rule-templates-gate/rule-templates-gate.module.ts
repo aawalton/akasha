@@ -16,4 +16,6 @@ export const ruleTemplatesGate = {
       statement: "The content is drawn again whenever the templates are read again.",
     },
   ],
+  createdAt: "2026-09-26T20:45:02.935Z",
+  updatedAt: "2026-09-27T08:56:53.000Z",
 } as const satisfies Module

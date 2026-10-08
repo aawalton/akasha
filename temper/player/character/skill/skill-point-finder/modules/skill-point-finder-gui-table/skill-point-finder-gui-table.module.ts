@@ -6,4 +6,6 @@ export const skillPointFinderGuiTable = {
   slug: "skill-point-finder-gui-table",
   definition: "the rows of each section of the skill point window",
   code: "ts",
+  createdAt: "2026-09-02T07:01:36.958Z",
+  updatedAt: "2026-09-21T15:46:08.000Z",
 } as const satisfies Module

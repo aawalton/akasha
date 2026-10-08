@@ -13,4 +13,6 @@ export const auxiliarySavings4202 = {
   asset: true,
   accountActive: true,
   accountHidden: true,
+  createdAt: "2026-09-03T03:39:10.888Z",
+  updatedAt: "2026-10-03T06:04:42.000Z",
 } as const satisfies MonarchAccount

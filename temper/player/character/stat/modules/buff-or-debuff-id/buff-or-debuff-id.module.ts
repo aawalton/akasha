@@ -6,4 +6,6 @@ export const buffOrDebuffId = {
   slug: "buff-or-debuff-id",
   definition: "the id an effect carries, whether the effect grants a buff or lays a debuff",
   code: "ts",
+  createdAt: "2026-09-02T08:44:14.437Z",
+  updatedAt: "2026-09-21T15:39:55.000Z",
 } as const satisfies Module

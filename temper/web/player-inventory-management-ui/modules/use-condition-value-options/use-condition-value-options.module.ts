@@ -16,4 +16,6 @@ export const useConditionValueOptions = {
       statement: "A field's options are its value pages, in their display order.",
     },
   ],
+  createdAt: "2026-09-27T10:42:07.239Z",
+  updatedAt: "2026-09-27T10:42:17.000Z",
 } as const satisfies Module

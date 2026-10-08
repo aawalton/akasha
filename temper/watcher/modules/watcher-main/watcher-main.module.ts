@@ -160,4 +160,6 @@ export const watcherMain = {
       statement: "The worker the systemd unit starts is the worker module beside this module.",
     },
   ],
+  createdAt: "2026-09-02T20:20:26.359Z",
+  updatedAt: "2026-09-22T05:40:35.000Z",
 } as const satisfies Module

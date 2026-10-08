@@ -12,4 +12,6 @@ export const completionDailyWritsProgress = {
       statement: "The count shown is the count of today alone.",
     },
   ],
+  createdAt: "2026-09-02T08:00:09.427Z",
+  updatedAt: "2026-09-22T14:00:30.000Z",
 } as const satisfies Module

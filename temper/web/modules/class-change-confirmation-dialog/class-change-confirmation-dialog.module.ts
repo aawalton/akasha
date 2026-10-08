@@ -12,4 +12,6 @@ export const classChangeConfirmationDialog = {
       statement: "Its wording is read from web phrase pages.",
     },
   ],
+  createdAt: "2026-09-02T22:10:23.737Z",
+  updatedAt: "2026-09-27T11:40:02.000Z",
 } as const satisfies Module

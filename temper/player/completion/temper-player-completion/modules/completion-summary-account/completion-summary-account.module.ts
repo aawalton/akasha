@@ -17,4 +17,6 @@ export const completionSummaryAccount = {
       statement: "Nothing here reads a catalog but the caps the completion category pages state.",
     },
   ],
+  createdAt: "2026-09-02T19:38:39.171Z",
+  updatedAt: "2026-09-27T05:30:31.000Z",
 } as const satisfies Module

@@ -20,4 +20,6 @@ export const confirmSetTarget = {
       statement: "A target whose arguments could not be worked out is left unset.",
     },
   ],
+  createdAt: "2026-09-11T13:25:11.847Z",
+  updatedAt: "2026-09-21T15:42:49.000Z",
 } as const satisfies Module

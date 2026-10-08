@@ -12,4 +12,6 @@ export const completionAccountLoreUnion = {
       statement: "A book read by one character counts as read for the account.",
     },
   ],
+  createdAt: "2026-09-02T08:00:09.423Z",
+  updatedAt: "2026-09-21T15:58:08.000Z",
 } as const satisfies Module

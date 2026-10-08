@@ -13,4 +13,6 @@ export const accountProgress = {
         "The zone completion union reads the per-character progress alone and takes no catalog.",
     },
   ],
+  createdAt: "2026-09-02T21:59:02.731Z",
+  updatedAt: "2026-09-15T18:43:51.000Z",
 } as const satisfies Module

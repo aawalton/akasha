@@ -41,4 +41,6 @@ export const useCompletionBodies = {
       statement: "One account's character bodies run to about six megabytes.",
     },
   ],
+  createdAt: "2026-09-06T12:37:33.706Z",
+  updatedAt: "2026-09-25T16:58:04.000Z",
 } as const satisfies Module

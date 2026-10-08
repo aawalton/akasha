@@ -6,4 +6,6 @@ export const companionStatExplanationDialog = {
   slug: "companion-stat-explanation-dialog",
   definition: "the dialog saying how a companion stat is worked out",
   code: "tsx",
+  createdAt: "2026-09-02T22:13:52.819Z",
+  updatedAt: "2026-09-15T18:44:13.000Z",
 } as const satisfies Module

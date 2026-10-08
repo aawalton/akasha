@@ -13,4 +13,6 @@ export const shoppingListGrouping = {
         "A category is named by its item category tree slug, and the screen reads its title.",
     },
   ],
+  createdAt: "2026-09-02T19:38:46.849Z",
+  updatedAt: "2026-09-27T11:38:49.000Z",
 } as const satisfies Module

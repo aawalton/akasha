@@ -12,4 +12,6 @@ export const championPointsPanelCard = {
       statement: "Its title is read from the champion points completion category page.",
     },
   ],
+  createdAt: "2026-09-02T21:59:02.731Z",
+  updatedAt: "2026-09-27T11:27:32.000Z",
 } as const satisfies Module

@@ -65,4 +65,6 @@ export const textStyle = {
       statement: "Each part's shadowed face is declared under its name followed by OverPlay.",
     },
   ],
+  createdAt: "2026-09-25T14:30:48.506Z",
+  updatedAt: "2026-09-26T13:52:42.000Z",
 } as const satisfies Module

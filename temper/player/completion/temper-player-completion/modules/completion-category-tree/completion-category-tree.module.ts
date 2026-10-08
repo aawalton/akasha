@@ -37,4 +37,6 @@ export const completionCategoryTree = {
         "The achievement children are hung by `completion-category-tree-composed` rather than here.",
     },
   ],
+  createdAt: "2026-09-02T07:26:23.255Z",
+  updatedAt: "2026-09-27T05:30:31.000Z",
 } as const satisfies Module

@@ -49,4 +49,6 @@ export const watcherStableRead = {
       statement: "Nothing here reads the file's contents beyond its two ends.",
     },
   ],
+  createdAt: "2026-09-02T18:22:14.519Z",
+  updatedAt: "2026-09-22T17:40:39.000Z",
 } as const satisfies Module

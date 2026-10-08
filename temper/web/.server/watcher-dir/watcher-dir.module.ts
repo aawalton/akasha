@@ -12,4 +12,6 @@ export const watcherDir = {
       statement: "A folder named relative is taken against the folder the server runs in.",
     },
   ],
+  createdAt: "2026-09-02T21:38:53.839Z",
+  updatedAt: "2026-09-22T14:04:34.000Z",
 } as const satisfies Module

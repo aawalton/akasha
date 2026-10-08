@@ -16,4 +16,6 @@ export const inventoryManagementPlanSimulation = {
       statement: "No captured holding is changed by a simulation.",
     },
   ],
+  createdAt: "2026-09-02T09:02:04.764Z",
+  updatedAt: "2026-09-22T10:15:37.000Z",
 } as const satisfies Module

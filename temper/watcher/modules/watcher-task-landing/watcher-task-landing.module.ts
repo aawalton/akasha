@@ -65,4 +65,6 @@ export const watcherTaskLanding = {
       statement: "Nothing here decides the keys a completion changes on a task.",
     },
   ],
+  createdAt: "2026-09-02T19:03:27.439Z",
+  updatedAt: "2026-09-15T18:43:51.000Z",
 } as const satisfies Module

@@ -12,4 +12,6 @@ export const targetArmorLoading = {
       statement: "A change to a target armor page reads the target armors again.",
     },
   ],
+  createdAt: "2026-09-27T00:55:11.372Z",
+  updatedAt: "2026-09-27T00:55:20.000Z",
 } as const satisfies Module

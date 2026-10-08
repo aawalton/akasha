@@ -6,4 +6,6 @@ export const characterEditor = {
   slug: "character-editor",
   definition: "the editor for changing a character build",
   code: "tsx",
+  createdAt: "2026-09-03T04:31:48.568Z",
+  updatedAt: "2026-09-22T13:47:53.000Z",
 } as const satisfies Module

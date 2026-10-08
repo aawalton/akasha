@@ -38,4 +38,6 @@ export const useCompletionProgress = {
         "The rows every tab counts from are made again whenever a catalogue is read again.",
     },
   ],
+  createdAt: "2026-09-02T21:59:02.731Z",
+  updatedAt: "2026-09-27T09:19:20.000Z",
 } as const satisfies Module

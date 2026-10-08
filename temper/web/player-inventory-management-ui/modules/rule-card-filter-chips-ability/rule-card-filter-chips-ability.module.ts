@@ -25,4 +25,6 @@ export const ruleCardFilterChipsAbility = {
         "A chip's options are its condition field's value pages, and none is drawn before.",
     },
   ],
+  createdAt: "2026-09-02T18:40:41.377Z",
+  updatedAt: "2026-09-27T11:11:13.000Z",
 } as const satisfies Module

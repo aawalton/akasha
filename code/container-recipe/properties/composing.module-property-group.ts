@@ -9,4 +9,6 @@ export const composing = {
   slug: "composing",
   propertySlug: "composing",
   definition: "what composes the steps building a container image",
+  createdAt: "2026-09-10T23:01:21.114Z",
+  updatedAt: "2026-09-22T14:08:17.000Z",
 } as const satisfies ModulePropertyGroup

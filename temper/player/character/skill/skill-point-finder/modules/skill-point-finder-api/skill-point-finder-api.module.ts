@@ -12,4 +12,6 @@ export const skillPointFinderApi = {
       statement: "The window is offered as one global object the game loads.",
     },
   ],
+  createdAt: "2026-09-02T07:01:36.944Z",
+  updatedAt: "2026-09-21T15:46:08.000Z",
 } as const satisfies Module

@@ -17,4 +17,6 @@ export const buildVersionPageType = {
       statement: "A version names its build by the build's address rather than by its id.",
     },
   ],
+  createdAt: "2026-09-25T12:49:24.720Z",
+  updatedAt: "2026-09-25T12:49:41.000Z",
 } as const satisfies Module

@@ -107,4 +107,6 @@ export const watcherImportCompanions = {
       statement: "The summary counts the captures that changed a companion's live build.",
     },
   ],
+  createdAt: "2026-09-02T19:03:27.439Z",
+  updatedAt: "2026-09-26T15:51:57.000Z",
 } as const satisfies Module

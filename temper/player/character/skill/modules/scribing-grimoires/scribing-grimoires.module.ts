@@ -16,4 +16,6 @@ export const scribingGrimoires = {
       statement: "An entry's place in this table is the hash place its page states.",
     },
   ],
+  createdAt: "2026-09-02T09:39:06.049Z",
+  updatedAt: "2026-09-26T19:35:56.000Z",
 } as const satisfies Module

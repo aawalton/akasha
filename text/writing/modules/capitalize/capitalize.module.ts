@@ -6,4 +6,6 @@ export const capitalize = {
   slug: "capitalize",
   definition: "text with its first character in upper case",
   code: "ts",
+  createdAt: "2026-09-01T10:46:49.597Z",
+  updatedAt: "2026-09-15T19:13:11.000Z",
 } as const satisfies Module

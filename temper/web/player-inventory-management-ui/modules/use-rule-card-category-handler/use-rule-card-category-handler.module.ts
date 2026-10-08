@@ -6,4 +6,6 @@ export const useRuleCardCategoryHandler = {
   slug: "use-rule-card-category-handler",
   definition: "what a reader's change to a rule's category does",
   code: "ts",
+  createdAt: "2026-09-02T18:40:41.377Z",
+  updatedAt: "2026-09-21T15:24:57.000Z",
 } as const satisfies Module

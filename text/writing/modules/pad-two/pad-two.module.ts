@@ -25,4 +25,6 @@ export const padTwo = {
         "A shorter answer breaks a caller that parses back the answer this package writes.",
     },
   ],
+  createdAt: "2026-09-01T10:37:13.145Z",
+  updatedAt: "2026-09-15T19:24:53.000Z",
 } as const satisfies Module

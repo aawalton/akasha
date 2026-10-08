@@ -16,4 +16,6 @@ export const shoppingPageContent = {
       statement: "Content that fails to load is worded by the Temper query error boundary.",
     },
   ],
+  createdAt: "2026-09-02T19:38:46.849Z",
+  updatedAt: "2026-09-27T12:55:59.000Z",
 } as const satisfies Module

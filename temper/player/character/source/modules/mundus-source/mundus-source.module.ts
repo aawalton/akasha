@@ -16,4 +16,6 @@ export const mundusSource = {
       statement: "The mundus stone pages are held wherever the skill catalogue is held.",
     },
   ],
+  createdAt: "2026-09-02T10:26:09.457Z",
+  updatedAt: "2026-09-26T20:34:07.000Z",
 } as const satisfies Module

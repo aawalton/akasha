@@ -13,4 +13,6 @@ export const useKioskNames = {
       statement: "Until the pages are read no kiosk has a name, and each answers with its number.",
     },
   ],
+  createdAt: "2026-09-27T02:33:37.430Z",
+  updatedAt: "2026-09-27T02:35:33.000Z",
 } as const satisfies Module

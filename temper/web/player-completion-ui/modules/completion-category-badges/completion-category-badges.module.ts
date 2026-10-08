@@ -12,4 +12,6 @@ export const completionCategoryBadges = {
       statement: "A badge names its category as the category page's title does.",
     },
   ],
+  createdAt: "2026-09-27T12:19:03.959Z",
+  updatedAt: "2026-09-27T12:19:11.000Z",
 } as const satisfies Module

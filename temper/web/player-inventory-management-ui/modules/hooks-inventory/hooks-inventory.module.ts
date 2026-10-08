@@ -33,4 +33,6 @@ export const hooksInventory = {
       statement: "A body the inventory shape refuses is a fault rather than an inventory.",
     },
   ],
+  createdAt: "2026-09-02T18:40:41.367Z",
+  updatedAt: "2026-09-25T12:39:32.000Z",
 } as const satisfies Module

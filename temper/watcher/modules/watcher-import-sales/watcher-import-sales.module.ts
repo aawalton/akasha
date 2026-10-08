@@ -129,4 +129,6 @@ export const watcherImportSales = {
       statement: "A sale's item id is written as a number.",
     },
   ],
+  createdAt: "2026-09-02T19:03:27.439Z",
+  updatedAt: "2026-09-25T13:55:02.000Z",
 } as const satisfies Module

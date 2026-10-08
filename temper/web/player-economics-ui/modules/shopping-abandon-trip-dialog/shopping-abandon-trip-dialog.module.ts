@@ -12,4 +12,6 @@ export const shoppingAbandonTripDialog = {
       statement: "The dialog's wording is read from phrase pages rather than written in its code.",
     },
   ],
+  createdAt: "2026-09-27T11:38:40.451Z",
+  updatedAt: "2026-09-27T11:38:49.000Z",
 } as const satisfies Module

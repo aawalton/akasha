@@ -89,4 +89,6 @@ export const watcherInventoryLanding = {
       statement: "A field the scan left out is left off the row rather than filed as null.",
     },
   ],
+  createdAt: "2026-09-15T18:39:29.167Z",
+  updatedAt: "2026-09-27T02:18:10.000Z",
 } as const satisfies Module

@@ -12,4 +12,6 @@ export const companionSurplusPanelCard = {
       statement: "Its wording is read from web phrase pages.",
     },
   ],
+  createdAt: "2026-09-02T21:58:08.930Z",
+  updatedAt: "2026-09-27T11:57:08.000Z",
 } as const satisfies Module

@@ -12,4 +12,6 @@ export const companionsBuildBrowseTab = {
       statement: "Its wording is read from web phrase pages.",
     },
   ],
+  createdAt: "2026-09-02T21:58:08.934Z",
+  updatedAt: "2026-09-27T12:03:36.000Z",
 } as const satisfies Module

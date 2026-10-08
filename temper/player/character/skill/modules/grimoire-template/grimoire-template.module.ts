@@ -12,4 +12,6 @@ export const grimoireTemplate = {
       statement: "A grimoire names every script that may combine into a scribed skill.",
     },
   ],
+  createdAt: "2026-09-02T09:36:31.857Z",
+  updatedAt: "2026-09-21T15:38:18.000Z",
 } as const satisfies Module

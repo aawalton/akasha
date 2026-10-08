@@ -40,4 +40,6 @@ export const windowDataState = {
       statement: "The spinner is lucide's loader drawn white, and the game tints it muted.",
     },
   ],
+  createdAt: "2026-09-25T18:51:56.852Z",
+  updatedAt: "2026-09-25T18:52:06.000Z",
 } as const satisfies Module

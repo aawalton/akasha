@@ -31,4 +31,6 @@ export const activityCategories = {
       statement: "The test holds the identifiers spelled out here to the pages' keys.",
     },
   ],
+  createdAt: "2026-09-02T07:32:01.639Z",
+  updatedAt: "2026-09-25T12:52:43.000Z",
 } as const satisfies Module

@@ -12,4 +12,6 @@ export const completionAccountRecipeScribingUnion = {
       statement: "A recipe or a script one character knows counts as known for the account.",
     },
   ],
+  createdAt: "2026-09-02T08:00:09.424Z",
+  updatedAt: "2026-09-22T10:15:52.000Z",
 } as const satisfies Module

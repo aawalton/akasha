@@ -16,4 +16,6 @@ export const effectBadge = {
       statement: "A damage type is named by its temper-damage-type page's title.",
     },
   ],
+  createdAt: "2026-09-02T21:58:08.931Z",
+  updatedAt: "2026-09-27T12:26:04.000Z",
 } as const satisfies Module

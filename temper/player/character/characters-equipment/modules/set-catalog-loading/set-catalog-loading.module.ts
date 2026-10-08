@@ -21,4 +21,6 @@ export const setCatalogLoading = {
       statement: "A server holding an older catalogue still reads every hash it knows.",
     },
   ],
+  createdAt: "2026-09-26T14:59:24.841Z",
+  updatedAt: "2026-09-26T16:46:52.000Z",
 } as const satisfies Module

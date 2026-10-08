@@ -12,4 +12,6 @@ export const completionCharacterRow = {
       statement: "Nothing here runs.",
     },
   ],
+  createdAt: "2026-09-02T07:32:01.646Z",
+  updatedAt: "2026-09-22T10:08:47.000Z",
 } as const satisfies Module

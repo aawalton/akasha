@@ -16,4 +16,6 @@ export const esoQualityTextClasses = {
       statement: "No class here is named for the lowest quality.",
     },
   ],
+  createdAt: "2026-09-02T17:38:08.972Z",
+  updatedAt: "2026-09-22T14:12:43.000Z",
 } as const satisfies Module

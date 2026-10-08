@@ -6,4 +6,6 @@ export const collapsibleSkillCard = {
   slug: "collapsible-skill-card",
   definition: "a skill's icon, name and subtitle over a body that folds away",
   code: "tsx",
+  createdAt: "2026-09-02T22:07:14.175Z",
+  updatedAt: "2026-09-15T18:43:51.000Z",
 } as const satisfies Module

@@ -12,4 +12,6 @@ export const pricingSourceNote = {
       statement: "Each note is read whole from a web phrase page's description.",
     },
   ],
+  createdAt: "2026-09-02T18:40:41.371Z",
+  updatedAt: "2026-09-27T11:34:03.000Z",
 } as const satisfies Module

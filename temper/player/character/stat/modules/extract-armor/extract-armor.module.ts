@@ -6,4 +6,6 @@ export const extractArmor = {
   slug: "extract-armor",
   definition: "the armor a build wears on a bar, read out as effect sources",
   code: "ts",
+  createdAt: "2026-09-02T14:06:51.855Z",
+  updatedAt: "2026-09-22T10:08:47.000Z",
 } as const satisfies Module

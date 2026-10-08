@@ -6,4 +6,6 @@ export const recipeTypes = {
   slug: "recipe-types",
   definition: "the shape of a crafting recipe list and a recipe inside it",
   code: "ts",
+  createdAt: "2026-09-02T06:13:27.485Z",
+  updatedAt: "2026-09-21T15:30:49.000Z",
 } as const satisfies Module

@@ -6,4 +6,6 @@ export const bulkEditTag = {
   slug: "bulk-edit-tag",
   definition: "a chip setting a field across every slot of a section at once",
   code: "tsx",
+  createdAt: "2026-09-02T22:11:45.303Z",
+  updatedAt: "2026-09-22T10:19:09.000Z",
 } as const satisfies Module

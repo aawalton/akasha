@@ -24,4 +24,6 @@ export const inventoryManagementPlanGrouping = {
       statement: "An item sold at a fence is grouped under the sell action's title.",
     },
   ],
+  createdAt: "2026-09-02T09:02:04.763Z",
+  updatedAt: "2026-09-27T10:05:14.000Z",
 } as const satisfies Module

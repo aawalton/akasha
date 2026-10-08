@@ -21,4 +21,6 @@ export const heldLoreLibraryLoading = {
       statement: "Work over a checkout reads the lore library off that checkout's pages instead.",
     },
   ],
+  createdAt: "2026-09-27T10:25:06.729Z",
+  updatedAt: "2026-09-27T10:46:43.000Z",
 } as const satisfies Module

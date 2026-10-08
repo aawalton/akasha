@@ -107,4 +107,6 @@ export const windowControls = {
       statement: "No control shows the web's focus ring, since the game gives a button no focus.",
     },
   ],
+  createdAt: "2026-09-25T16:33:01.934Z",
+  updatedAt: "2026-09-27T01:08:42.000Z",
 } as const satisfies Module

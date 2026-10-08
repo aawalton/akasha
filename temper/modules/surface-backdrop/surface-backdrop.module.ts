@@ -34,4 +34,6 @@ export const surfaceBackdrop = {
         "A window's backdrop lies beneath every field and panel painted inside that window.",
     },
   ],
+  createdAt: "2026-09-22T17:13:21.177Z",
+  updatedAt: "2026-09-25T21:10:06.000Z",
 } as const satisfies Module

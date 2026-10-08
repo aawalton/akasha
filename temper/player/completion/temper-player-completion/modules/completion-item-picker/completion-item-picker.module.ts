@@ -29,4 +29,6 @@ export const completionItemPicker = {
         "The levels a card offers are read off the static catalog rather than off saved data.",
     },
   ],
+  createdAt: "2026-09-02T21:35:11.003Z",
+  updatedAt: "2026-09-25T12:55:13.000Z",
 } as const satisfies Module

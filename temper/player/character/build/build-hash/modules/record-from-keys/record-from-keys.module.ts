@@ -6,4 +6,6 @@ export const recordFromKeys = {
   slug: "record-from-keys",
   definition: "a record built by naming its keys and producing a value for each",
   code: "ts",
+  createdAt: "2026-09-02T15:37:18.096Z",
+  updatedAt: "2026-09-21T15:42:49.000Z",
 } as const satisfies Module

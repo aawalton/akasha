@@ -28,4 +28,6 @@ export const useAccountAddress = {
       statement: "A build naming the viewer's own account page is owned by the viewer's user.",
     },
   ],
+  createdAt: "2026-09-24T16:14:49.351Z",
+  updatedAt: "2026-09-24T16:25:52.000Z",
 } as const satisfies Module

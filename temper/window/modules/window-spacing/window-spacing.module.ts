@@ -12,4 +12,6 @@ export const windowSpacing = {
       statement: "A step is read from the web's own table rather than written out here.",
     },
   ],
+  createdAt: "2026-09-25T16:39:54.616Z",
+  updatedAt: "2026-09-25T16:40:04.000Z",
 } as const satisfies Module

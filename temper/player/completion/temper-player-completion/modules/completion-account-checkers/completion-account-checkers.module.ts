@@ -42,4 +42,6 @@ export const completionAccountCheckers = {
         "A card's remembered tree is built again once the skill lines or morph ranks are read again.",
     },
   ],
+  createdAt: "2026-09-02T21:35:11.003Z",
+  updatedAt: "2026-09-27T09:08:32.000Z",
 } as const satisfies Module

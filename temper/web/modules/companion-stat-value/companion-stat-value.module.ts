@@ -6,4 +6,6 @@ export const companionStatValue = {
   slug: "companion-stat-value",
   definition: "the value a companion stat shows",
   code: "tsx",
+  createdAt: "2026-09-02T21:56:24.171Z",
+  updatedAt: "2026-09-22T10:19:25.000Z",
 } as const satisfies Module

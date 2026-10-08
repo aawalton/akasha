@@ -32,4 +32,6 @@ export const completionAccountTraitUnion = {
       statement: "An empty list of character progress answers an empty progress.",
     },
   ],
+  createdAt: "2026-09-02T18:18:47.036Z",
+  updatedAt: "2026-09-22T10:19:25.000Z",
 } as const satisfies Module

@@ -32,4 +32,6 @@ export const heldLoreLibrary = {
       statement: "Categories, collections and books are listed in the order of their numbers.",
     },
   ],
+  createdAt: "2026-09-27T10:04:25.371Z",
+  updatedAt: "2026-09-27T10:25:13.000Z",
 } as const satisfies Module

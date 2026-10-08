@@ -12,4 +12,6 @@ export const companionQualityRules = {
       statement: "A quality that is no quality is drawn muted and has no text class.",
     },
   ],
+  createdAt: "2026-09-02T18:27:40.800Z",
+  updatedAt: "2026-09-22T13:53:26.000Z",
 } as const satisfies Module

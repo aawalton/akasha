@@ -6,4 +6,6 @@ export const inventoryRulesTabEntityRulesPanels = {
   slug: "inventory-rules-tab-entity-rules-panels",
   definition: "the character and companion rule panels the rules tab draws",
   code: "tsx",
+  createdAt: "2026-09-02T18:40:41.371Z",
+  updatedAt: "2026-09-21T15:24:57.000Z",
 } as const satisfies Module

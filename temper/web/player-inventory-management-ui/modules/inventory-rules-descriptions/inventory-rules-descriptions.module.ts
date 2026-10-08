@@ -12,4 +12,6 @@ export const inventoryRulesDescriptions = {
       statement: "A rule over every category is named by the item category tree's all page.",
     },
   ],
+  createdAt: "2026-09-02T18:40:41.371Z",
+  updatedAt: "2026-09-27T11:56:54.000Z",
 } as const satisfies Module

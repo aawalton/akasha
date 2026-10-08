@@ -28,4 +28,6 @@ export const completionPanelCard = {
       statement: "A row in debug mode hands its categories to the completion category badges.",
     },
   ],
+  createdAt: "2026-09-02T13:55:26.636Z",
+  updatedAt: "2026-09-27T12:19:11.000Z",
 } as const satisfies Module

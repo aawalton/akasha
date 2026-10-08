@@ -16,4 +16,6 @@ export const passiveSkillsPanelCard = {
       statement: "Its wording is read from web phrase pages and the skill line category pages.",
     },
   ],
+  createdAt: "2026-09-02T22:10:23.782Z",
+  updatedAt: "2026-09-27T11:54:07.000Z",
 } as const satisfies Module

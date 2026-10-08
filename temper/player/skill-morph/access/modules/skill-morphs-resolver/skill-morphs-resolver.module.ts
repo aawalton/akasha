@@ -6,4 +6,6 @@ export const skillMorphsResolver = {
   slug: "skill-morphs-resolver",
   definition: "the morph progress a completion card shows at a whole line or at a skill",
   code: "ts",
+  createdAt: "2026-09-02T11:30:20.344Z",
+  updatedAt: "2026-09-22T10:11:05.000Z",
 } as const satisfies Module

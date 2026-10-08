@@ -6,4 +6,6 @@ export const buildCodecV52ChampionPoints = {
   slug: "build-codec-v52-champion-points",
   definition: "update fifty-two's bit layout for a character's champion points",
   code: "ts",
+  createdAt: "2026-09-02T16:15:21.041Z",
+  updatedAt: "2026-09-22T13:46:31.000Z",
 } as const satisfies Module

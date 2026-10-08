@@ -36,4 +36,6 @@ export const suggestClosest = {
       statement: "The phrase opens with the space joining it to the sentence before it.",
     },
   ],
+  createdAt: "2026-09-02T14:30:40.449Z",
+  updatedAt: "2026-09-15T19:13:11.000Z",
 } as const satisfies Module

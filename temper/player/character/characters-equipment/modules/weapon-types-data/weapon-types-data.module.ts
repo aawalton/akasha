@@ -29,4 +29,6 @@ export const weaponTypesData = {
       statement: "A weapon page naming no skill line is one-handed, its line set by the off hand.",
     },
   ],
+  createdAt: "2026-09-02T09:24:55.957Z",
+  updatedAt: "2026-09-27T03:05:02.000Z",
 } as const satisfies Module

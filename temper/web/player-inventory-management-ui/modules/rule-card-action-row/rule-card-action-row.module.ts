@@ -37,4 +37,6 @@ export const ruleCardActionRow = {
       statement: "A price of zero reads as the price paid where the rule states none.",
     },
   ],
+  createdAt: "2026-09-02T18:40:41.371Z",
+  updatedAt: "2026-09-27T14:34:45.000Z",
 } as const satisfies Module

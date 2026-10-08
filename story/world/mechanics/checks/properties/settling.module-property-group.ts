@@ -9,4 +9,6 @@ export const settling = {
   slug: "settling",
   propertySlug: "settling",
   definition: "what settles a declared action from a reading and any dice rolled for it",
+  createdAt: "2026-09-26T14:17:37.837Z",
+  updatedAt: "2026-09-26T18:04:34.000Z",
 } as const satisfies ModulePropertyGroup

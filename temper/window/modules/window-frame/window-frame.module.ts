@@ -72,4 +72,6 @@ export const windowFrame = {
       statement: "The cross is the game's own art until Temper ships one in the web's look.",
     },
   ],
+  createdAt: "2026-09-25T13:01:17.345Z",
+  updatedAt: "2026-09-25T16:34:32.000Z",
 } as const satisfies Module

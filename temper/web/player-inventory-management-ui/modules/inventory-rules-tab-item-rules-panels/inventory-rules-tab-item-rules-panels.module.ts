@@ -6,4 +6,6 @@ export const inventoryRulesTabItemRulesPanels = {
   slug: "inventory-rules-tab-item-rules-panels",
   definition: "the item and category rule panels the rules tab draws",
   code: "tsx",
+  createdAt: "2026-09-02T18:40:41.371Z",
+  updatedAt: "2026-09-21T15:24:57.000Z",
 } as const satisfies Module

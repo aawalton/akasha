@@ -12,4 +12,6 @@ export const targetSource = {
       statement: "The target is read from its temper-target page.",
     },
   ],
+  createdAt: "2026-09-02T06:59:47.429Z",
+  updatedAt: "2026-09-26T20:13:09.000Z",
 } as const satisfies Module

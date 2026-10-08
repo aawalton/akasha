@@ -6,4 +6,6 @@ export const ruleCardConditionsPatch = {
   slug: "rule-card-conditions-patch",
   definition: "a condition changed inside a rule's conditions",
   code: "ts",
+  createdAt: "2026-09-02T18:40:41.371Z",
+  updatedAt: "2026-09-22T10:19:39.000Z",
 } as const satisfies Module

@@ -20,4 +20,6 @@ export const equipmentQualityRules = {
       statement: "A quality no page names is labelled with the no-quality page's title.",
     },
   ],
+  createdAt: "2026-09-02T17:38:08.972Z",
+  updatedAt: "2026-09-27T11:33:18.000Z",
 } as const satisfies Module

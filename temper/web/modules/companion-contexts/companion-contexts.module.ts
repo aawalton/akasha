@@ -6,4 +6,6 @@ export const companionContexts = {
   slug: "companion-contexts",
   definition: "the contexts holding a companion's state",
   code: "ts",
+  createdAt: "2026-09-02T21:58:08.936Z",
+  updatedAt: "2026-09-22T13:57:47.000Z",
 } as const satisfies Module

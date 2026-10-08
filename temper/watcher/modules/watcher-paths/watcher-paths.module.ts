@@ -38,4 +38,6 @@ export const watcherPaths = {
       statement: "Nothing here reads a directory.",
     },
   ],
+  createdAt: "2026-09-02T03:46:23.496Z",
+  updatedAt: "2026-09-22T14:01:43.000Z",
 } as const satisfies Module

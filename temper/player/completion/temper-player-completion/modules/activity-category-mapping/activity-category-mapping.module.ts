@@ -13,4 +13,6 @@ export const activityCategoryMapping = {
         "The activity of an achievement, set or collectible heading is the link on that heading's page.",
     },
   ],
+  createdAt: "2026-09-02T16:57:12.710Z",
+  updatedAt: "2026-09-27T03:11:43.000Z",
 } as const satisfies Module

@@ -13,4 +13,6 @@ export const useInventoryRulesTabAffectedItems = {
         "The plan is built again when the item action titles read from their pages change.",
     },
   ],
+  createdAt: "2026-09-02T18:40:41.377Z",
+  updatedAt: "2026-09-27T10:05:14.000Z",
 } as const satisfies Module

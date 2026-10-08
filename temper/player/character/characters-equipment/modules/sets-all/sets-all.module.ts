@@ -34,4 +34,6 @@ export const setsAll = {
       statement: "The set categories are held with the catalogue, in their display order.",
     },
   ],
+  createdAt: "2026-09-02T10:22:19.312Z",
+  updatedAt: "2026-09-27T04:51:46.000Z",
 } as const satisfies Module

@@ -20,4 +20,6 @@ export const assertSchemaMatchesPayload = {
       statement: "A mismatch reads as an argument the caller left out.",
     },
   ],
+  createdAt: "2026-09-02T04:52:00.722Z",
+  updatedAt: "2026-09-24T16:51:05.000Z",
 } as const satisfies Module

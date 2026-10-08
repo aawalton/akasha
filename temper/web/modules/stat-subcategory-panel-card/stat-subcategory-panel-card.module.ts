@@ -6,4 +6,6 @@ export const statSubcategoryPanelCard = {
   slug: "stat-subcategory-panel-card",
   definition: "a panel card with a stat subcategory",
   code: "tsx",
+  createdAt: "2026-09-02T22:10:23.799Z",
+  updatedAt: "2026-09-22T10:08:47.000Z",
 } as const satisfies Module

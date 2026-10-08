@@ -71,4 +71,6 @@ export const watcherSettingsEquipment = {
       statement: "Nothing here writes a page.",
     },
   ],
+  createdAt: "2026-09-02T19:03:27.439Z",
+  updatedAt: "2026-09-26T16:06:48.000Z",
 } as const satisfies Module

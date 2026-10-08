@@ -17,4 +17,6 @@ export const useKeyedTitles = {
       statement: "What the browser reads is held, so code reached without the hook reads it too.",
     },
   ],
+  createdAt: "2026-09-27T02:09:46.532Z",
+  updatedAt: "2026-09-27T03:09:56.000Z",
 } as const satisfies Module

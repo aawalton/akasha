@@ -6,4 +6,6 @@ export const skillPointFinderHelpers = {
   slug: "skill-point-finder-helpers",
   definition: "whether the game reports a quest as completed",
   code: "ts",
+  createdAt: "2026-09-02T07:01:36.958Z",
+  updatedAt: "2026-09-21T15:46:08.000Z",
 } as const satisfies Module

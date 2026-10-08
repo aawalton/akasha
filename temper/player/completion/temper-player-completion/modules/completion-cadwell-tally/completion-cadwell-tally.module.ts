@@ -21,4 +21,6 @@ export const completionCadwellTally = {
       statement: "A path naming a level or a zone that is not there is answered with nothing.",
     },
   ],
+  createdAt: "2026-09-22T13:48:54.836Z",
+  updatedAt: "2026-09-22T13:50:00.000Z",
 } as const satisfies Module

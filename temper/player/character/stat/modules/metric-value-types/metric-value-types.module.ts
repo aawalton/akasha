@@ -6,4 +6,6 @@ export const metricValueTypes = {
   slug: "metric-value-types",
   definition: "the four kinds of value a character stat has, each with the way it is written out",
   code: "ts",
+  createdAt: "2026-09-02T08:15:09.032Z",
+  updatedAt: "2026-09-21T15:39:55.000Z",
 } as const satisfies Module

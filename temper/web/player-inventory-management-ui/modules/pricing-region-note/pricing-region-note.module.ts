@@ -12,4 +12,6 @@ export const pricingRegionNote = {
       statement: "The note's wording and its settings link are read from web phrase pages.",
     },
   ],
+  createdAt: "2026-09-02T18:40:41.371Z",
+  updatedAt: "2026-09-27T11:34:03.000Z",
 } as const satisfies Module

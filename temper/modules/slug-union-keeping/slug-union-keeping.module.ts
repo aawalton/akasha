@@ -49,4 +49,6 @@ export const slugUnionKeeping = {
         "A keeper writing some other file from the pages reads and writes them as this does.",
     },
   ],
+  createdAt: "2026-09-26T18:44:08.363Z",
+  updatedAt: "2026-09-27T01:28:29.000Z",
 } as const satisfies Module

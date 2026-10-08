@@ -6,4 +6,6 @@ export const companionEquipmentPanelTypes = {
   slug: "companion-equipment-panel-types",
   definition: "the shape every companion equipment panel takes",
   code: "ts",
+  createdAt: "2026-09-02T21:56:24.168Z",
+  updatedAt: "2026-09-15T18:43:51.000Z",
 } as const satisfies Module

@@ -12,4 +12,6 @@ export const inventoryScopeNote = {
       statement: "The note hands the web phrase reader to the words it shows.",
     },
   ],
+  createdAt: "2026-09-02T18:40:41.371Z",
+  updatedAt: "2026-09-27T11:43:09.000Z",
 } as const satisfies Module

@@ -12,4 +12,6 @@ export const metricId = {
       statement: "The names are the slugs of the stat pages, as the metric-ids table holds them.",
     },
   ],
+  createdAt: "2026-09-02T04:46:21.410Z",
+  updatedAt: "2026-09-26T18:26:30.000Z",
 } as const satisfies Module

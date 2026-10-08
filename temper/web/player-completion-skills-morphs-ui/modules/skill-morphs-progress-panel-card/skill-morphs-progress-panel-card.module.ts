@@ -24,4 +24,6 @@ export const skillMorphsProgressPanelCard = {
       statement: "Each skill line category is labelled with its skill line category page's title.",
     },
   ],
+  createdAt: "2026-09-02T14:05:37.213Z",
+  updatedAt: "2026-09-27T11:55:06.000Z",
 } as const satisfies Module

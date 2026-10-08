@@ -6,4 +6,6 @@ export const loreLibraryTypes = {
   slug: "lore-library-types",
   definition: "the shape of a lore library category, a collection inside it and a book inside that",
   code: "ts",
+  createdAt: "2026-09-02T06:13:27.474Z",
+  updatedAt: "2026-09-21T15:30:49.000Z",
 } as const satisfies Module

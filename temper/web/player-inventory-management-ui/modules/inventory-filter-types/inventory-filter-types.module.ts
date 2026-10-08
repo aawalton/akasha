@@ -12,4 +12,6 @@ export const inventoryFilterTypes = {
       statement: "Sort option names are web phrase pages, read through the phrase passed in.",
     },
   ],
+  createdAt: "2026-09-02T18:40:41.370Z",
+  updatedAt: "2026-09-27T11:43:09.000Z",
 } as const satisfies Module

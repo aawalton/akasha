@@ -6,4 +6,6 @@ export const skillBarPanelCard = {
   slug: "skill-bar-panel-card",
   definition: "a panel card with a skill bar",
   code: "tsx",
+  createdAt: "2026-09-02T22:10:23.786Z",
+  updatedAt: "2026-09-22T10:19:25.000Z",
 } as const satisfies Module

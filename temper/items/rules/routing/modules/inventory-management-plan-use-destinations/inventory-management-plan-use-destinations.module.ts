@@ -12,4 +12,6 @@ export const inventoryManagementPlanUseDestinations = {
       statement: "A stack is shared out over the characters who do not yet know the item.",
     },
   ],
+  createdAt: "2026-09-02T09:02:04.764Z",
+  updatedAt: "2026-09-21T15:29:55.000Z",
 } as const satisfies Module

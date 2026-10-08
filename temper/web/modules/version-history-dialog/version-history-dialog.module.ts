@@ -42,4 +42,6 @@ export const versionHistoryDialog = {
       statement: "A failure is worded by its kind, and the error behind it goes to the console.",
     },
   ],
+  createdAt: "2026-09-03T04:31:48.686Z",
+  updatedAt: "2026-09-27T12:50:20.000Z",
 } as const satisfies Module

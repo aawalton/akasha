@@ -33,4 +33,6 @@ export const nameDrawing = {
       statement: "Nothing here knows whether a name is an act or a flag.",
     },
   ],
+  createdAt: "2026-09-08T17:17:48.865Z",
+  updatedAt: "2026-09-15T19:13:11.000Z",
 } as const satisfies Module

@@ -26,4 +26,6 @@ export const oneLine = {
         "A reader outside `utils/` reaches this module by its path rather than by a package alias.",
     },
   ],
+  createdAt: "2026-09-12T13:07:55.858Z",
+  updatedAt: "2026-09-21T18:22:18.000Z",
 } as const satisfies Module

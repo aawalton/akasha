@@ -6,4 +6,6 @@ export const itemBrowserStart = {
   slug: "item-browser-start",
   definition: "the add-on's start-up order for its parts",
   code: "ts",
+  createdAt: "2026-09-02T09:34:23.521Z",
+  updatedAt: "2026-09-22T13:43:34.000Z",
 } as const satisfies Module

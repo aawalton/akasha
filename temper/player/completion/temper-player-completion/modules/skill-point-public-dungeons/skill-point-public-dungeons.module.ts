@@ -16,4 +16,6 @@ export const skillPointPublicDungeons = {
       statement: "The public dungeons are in the order their pages give, as the sources are.",
     },
   ],
+  createdAt: "2026-09-02T07:32:01.657Z",
+  updatedAt: "2026-09-25T12:58:26.000Z",
 } as const satisfies Module

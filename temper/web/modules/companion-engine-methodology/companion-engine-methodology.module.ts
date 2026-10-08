@@ -12,4 +12,6 @@ export const companionEngineMethodology = {
       statement: "Each panel is a section of the methodology's site document.",
     },
   ],
+  createdAt: "2026-09-02T22:17:18.992Z",
+  updatedAt: "2026-09-24T23:39:39.000Z",
 } as const satisfies Module

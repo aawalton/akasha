@@ -20,4 +20,6 @@ export const inventoryRulesUnread = {
       statement: "The alert's own wording is read from web phrase pages.",
     },
   ],
+  createdAt: "2026-09-12T20:58:34.290Z",
+  updatedAt: "2026-09-27T11:33:15.000Z",
 } as const satisfies Module

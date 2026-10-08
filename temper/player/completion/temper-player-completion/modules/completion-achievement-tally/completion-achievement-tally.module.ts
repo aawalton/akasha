@@ -26,4 +26,6 @@ export const completionAchievementTally = {
       statement: "An achievement the record does not name is counted as none of one.",
     },
   ],
+  createdAt: "2026-09-22T14:20:17.466Z",
+  updatedAt: "2026-09-25T16:59:26.000Z",
 } as const satisfies Module

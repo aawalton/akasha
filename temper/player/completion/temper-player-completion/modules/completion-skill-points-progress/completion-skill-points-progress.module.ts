@@ -12,4 +12,6 @@ export const completionSkillPointsProgress = {
       statement: "A character with no skill points counted still shows every source at nothing.",
     },
   ],
+  createdAt: "2026-09-02T08:00:09.429Z",
+  updatedAt: "2026-09-21T15:58:08.000Z",
 } as const satisfies Module

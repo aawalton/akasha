@@ -12,4 +12,6 @@ export const planTab = {
       statement: "A character is patched where its account page is the viewer's by address.",
     },
   ],
+  createdAt: "2026-09-02T22:10:23.760Z",
+  updatedAt: "2026-09-24T16:25:52.000Z",
 } as const satisfies Module

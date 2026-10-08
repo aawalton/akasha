@@ -16,4 +16,6 @@ export const skillCatalogLoading = {
       statement: "A server reads the catalogue again when a page it was read from changes.",
     },
   ],
+  createdAt: "2026-09-26T16:06:35.863Z",
+  updatedAt: "2026-09-26T19:13:19.000Z",
 } as const satisfies Module

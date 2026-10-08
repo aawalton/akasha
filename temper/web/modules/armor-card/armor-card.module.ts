@@ -16,4 +16,6 @@ export const armorCard = {
       statement: "Its wording is read from web phrase pages and the gear catalog's own pages.",
     },
   ],
+  createdAt: "2026-09-02T22:11:45.303Z",
+  updatedAt: "2026-09-27T11:44:38.000Z",
 } as const satisfies Module

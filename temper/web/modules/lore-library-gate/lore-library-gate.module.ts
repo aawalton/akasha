@@ -21,4 +21,6 @@ export const loreLibraryGate = {
         "A screen starts reading the lore library as it opens, beside the reads of its other gates.",
     },
   ],
+  createdAt: "2026-09-27T10:05:49.013Z",
+  updatedAt: "2026-09-27T11:07:29.000Z",
 } as const satisfies Module

@@ -6,4 +6,6 @@ export const passiveEffectResolution = {
   slug: "passive-effect-resolution",
   definition: "a passive's conditional effects settled against what the build wears and slots",
   code: "ts",
+  createdAt: "2026-09-02T14:06:51.855Z",
+  updatedAt: "2026-09-21T15:39:55.000Z",
 } as const satisfies Module

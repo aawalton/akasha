@@ -33,4 +33,6 @@ export const completionTransforms = {
       statement: "A character of no measured level is given a maximum level of zero.",
     },
   ],
+  createdAt: "2026-09-02T18:18:47.036Z",
+  updatedAt: "2026-09-22T10:19:25.000Z",
 } as const satisfies Module

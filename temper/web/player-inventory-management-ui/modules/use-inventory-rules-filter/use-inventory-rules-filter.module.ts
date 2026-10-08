@@ -12,4 +12,6 @@ export const useInventoryRulesFilter = {
       statement: "Rules are searched and sorted again when the item action page titles change.",
     },
   ],
+  createdAt: "2026-09-02T18:40:41.377Z",
+  updatedAt: "2026-09-27T10:09:30.000Z",
 } as const satisfies Module

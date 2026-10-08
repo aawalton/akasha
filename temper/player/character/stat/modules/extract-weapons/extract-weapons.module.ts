@@ -6,4 +6,6 @@ export const extractWeapons = {
   slug: "extract-weapons",
   definition: "the weapons on a bar of a build, read out as effect sources",
   code: "ts",
+  createdAt: "2026-09-02T14:06:51.855Z",
+  updatedAt: "2026-09-22T10:11:05.000Z",
 } as const satisfies Module

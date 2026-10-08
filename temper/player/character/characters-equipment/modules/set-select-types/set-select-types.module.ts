@@ -6,4 +6,6 @@ export const setSelectTypes = {
   slug: "set-select-types",
   definition: "the shape of a gear set picker's config",
   code: "ts",
+  createdAt: "2026-09-02T09:24:55.955Z",
+  updatedAt: "2026-09-24T16:28:05.000Z",
 } as const satisfies Module

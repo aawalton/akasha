@@ -121,4 +121,6 @@ export const watcherTaskProgressLanding = {
         "An account card is handed every character's completion, lifted as the reading is.",
     },
   ],
+  createdAt: "2026-09-08T18:47:18.077Z",
+  updatedAt: "2026-09-26T15:45:46.000Z",
 } as const satisfies Module

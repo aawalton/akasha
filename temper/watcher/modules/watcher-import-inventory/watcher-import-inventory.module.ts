@@ -64,4 +64,6 @@ export const watcherImportInventory = {
       statement: "Nothing here opens a file.",
     },
   ],
+  createdAt: "2026-09-02T19:03:27.439Z",
+  updatedAt: "2026-09-24T17:24:30.000Z",
 } as const satisfies Module

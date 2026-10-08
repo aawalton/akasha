@@ -6,4 +6,6 @@ export const rulesTabPanelStates = {
   slug: "rules-tab-panel-states",
   definition: "what the rules tab's panels show while the inventory is read",
   code: "ts",
+  createdAt: "2026-09-02T18:40:41.377Z",
+  updatedAt: "2026-09-21T15:24:57.000Z",
 } as const satisfies Module

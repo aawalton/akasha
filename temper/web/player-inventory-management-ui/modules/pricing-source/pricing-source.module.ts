@@ -6,4 +6,6 @@ export const pricingSource = {
   slug: "pricing-source",
   definition: "a price's source",
   code: "ts",
+  createdAt: "2026-09-02T18:40:41.371Z",
+  updatedAt: "2026-09-22T14:04:34.000Z",
 } as const satisfies Module

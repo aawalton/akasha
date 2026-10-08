@@ -12,4 +12,6 @@ export const mountTrainingPanelCard = {
       statement: "The card and each riding stat are titled by their completion pages.",
     },
   ],
+  createdAt: "2026-09-02T21:59:02.731Z",
+  updatedAt: "2026-09-27T10:04:16.000Z",
 } as const satisfies Module

@@ -28,4 +28,6 @@ export const characterProgress = {
       statement: "Misplacing an argument is a type error rather than a silent rebinding.",
     },
   ],
+  createdAt: "2026-09-02T21:59:02.731Z",
+  updatedAt: "2026-09-15T18:43:51.000Z",
 } as const satisfies Module

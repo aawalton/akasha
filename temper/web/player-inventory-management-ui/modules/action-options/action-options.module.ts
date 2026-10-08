@@ -20,4 +20,6 @@ export const actionOptions = {
       statement: "An action's badge color is kept here, since no page states it.",
     },
   ],
+  createdAt: "2026-09-02T18:40:41.366Z",
+  updatedAt: "2026-09-27T10:09:30.000Z",
 } as const satisfies Module

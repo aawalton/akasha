@@ -16,4 +16,6 @@ export const esoDate = {
       statement: "A caller of this module runs on a host rather than inside the game.",
     },
   ],
+  createdAt: "2026-09-02T04:46:21.410Z",
+  updatedAt: "2026-09-21T15:41:15.000Z",
 } as const satisfies Module

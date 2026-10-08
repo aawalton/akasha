@@ -12,4 +12,6 @@ export const scribingScriptDescription = {
       statement: "A description joins the skill wording with each chosen script's wording.",
     },
   ],
+  createdAt: "2026-09-02T09:51:18.434Z",
+  updatedAt: "2026-09-21T15:38:18.000Z",
 } as const satisfies Module

@@ -20,4 +20,6 @@ export const loreLibraryPages = {
       statement: "Each page is carried with the fields the library reads and no others.",
     },
   ],
+  createdAt: "2026-09-27T10:30:55.779Z",
+  updatedAt: "2026-09-27T10:31:02.000Z",
 } as const satisfies Module

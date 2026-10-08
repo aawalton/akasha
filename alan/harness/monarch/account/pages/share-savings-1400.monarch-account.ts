@@ -13,4 +13,6 @@ export const shareSavings1400 = {
   asset: true,
   accountActive: true,
   accountHidden: true,
+  createdAt: "2026-09-03T03:39:10.888Z",
+  updatedAt: "2026-09-15T17:32:25.000Z",
 } as const satisfies MonarchAccount

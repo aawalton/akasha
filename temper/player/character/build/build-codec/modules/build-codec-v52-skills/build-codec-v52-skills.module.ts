@@ -6,4 +6,6 @@ export const buildCodecV52Skills = {
   slug: "build-codec-v52-skills",
   definition: "update fifty-two's bit layout for a character's skills",
   code: "ts",
+  createdAt: "2026-09-02T16:15:21.043Z",
+  updatedAt: "2026-09-22T13:56:23.000Z",
 } as const satisfies Module

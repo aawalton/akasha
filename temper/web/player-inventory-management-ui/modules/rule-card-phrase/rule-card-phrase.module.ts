@@ -24,4 +24,6 @@ export const ruleCardPhrase = {
       statement: "A chip's remove label names its filter by the filter's condition field title.",
     },
   ],
+  createdAt: "2026-09-27T10:42:33.252Z",
+  updatedAt: "2026-09-27T11:11:13.000Z",
 } as const satisfies Module

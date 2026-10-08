@@ -24,4 +24,6 @@ export const itemCategoryTreeGate = {
       statement: "Reading the tree outside the gate is refused rather than answered empty.",
     },
   ],
+  createdAt: "2026-09-27T03:14:46.659Z",
+  updatedAt: "2026-09-27T08:57:38.000Z",
 } as const satisfies Module

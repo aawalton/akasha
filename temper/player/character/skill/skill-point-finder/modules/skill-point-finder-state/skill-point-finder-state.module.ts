@@ -12,4 +12,6 @@ export const skillPointFinderState = {
       statement: "A reader asks for state and is refused while the window is unopened.",
     },
   ],
+  createdAt: "2026-09-02T07:01:36.965Z",
+  updatedAt: "2026-09-21T15:46:08.000Z",
 } as const satisfies Module

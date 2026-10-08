@@ -12,4 +12,6 @@ export const shoppingRouteOverviewPanelCard = {
       statement: "The card's wording is read from phrase pages rather than written in its code.",
     },
   ],
+  createdAt: "2026-09-02T19:38:46.849Z",
+  updatedAt: "2026-09-27T11:42:58.000Z",
 } as const satisfies Module

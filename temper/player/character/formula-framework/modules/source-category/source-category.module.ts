@@ -16,4 +16,6 @@ export const sourceCategory = {
       statement: "Asking for the categories before anything has held them is refused.",
     },
   ],
+  createdAt: "2026-09-02T04:46:21.412Z",
+  updatedAt: "2026-09-26T19:30:53.000Z",
 } as const satisfies Module

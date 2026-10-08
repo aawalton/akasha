@@ -19,4 +19,6 @@ export const running = {
       statement: "The code a service runs is reached by that service's slug rather than by a path.",
     },
   ],
+  createdAt: "2026-09-11T17:21:06.471Z",
+  updatedAt: "2026-09-24T19:06:05.000Z",
 } as const satisfies ModulePropertyGroup

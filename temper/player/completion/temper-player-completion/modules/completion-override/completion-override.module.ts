@@ -12,4 +12,6 @@ export const completionOverride = {
       statement: "Nothing here runs.",
     },
   ],
+  createdAt: "2026-09-02T07:26:23.259Z",
+  updatedAt: "2026-09-22T10:19:25.000Z",
 } as const satisfies Module

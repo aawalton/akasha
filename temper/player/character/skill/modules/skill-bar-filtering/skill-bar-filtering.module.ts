@@ -16,4 +16,6 @@ export const skillBarFiltering = {
       statement: "The werewolf line offers ultimates alone.",
     },
   ],
+  createdAt: "2026-09-02T09:51:18.435Z",
+  updatedAt: "2026-09-21T15:38:18.000Z",
 } as const satisfies Module

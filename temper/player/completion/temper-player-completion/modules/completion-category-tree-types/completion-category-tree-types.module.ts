@@ -12,4 +12,6 @@ export const completionCategoryTreeTypes = {
       statement: "Nothing here runs.",
     },
   ],
+  createdAt: "2026-09-02T07:26:23.254Z",
+  updatedAt: "2026-09-22T13:56:23.000Z",
 } as const satisfies Module

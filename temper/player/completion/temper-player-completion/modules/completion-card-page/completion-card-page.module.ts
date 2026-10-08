@@ -26,4 +26,6 @@ export const completionCardPage = {
       statement: "A card's address is built only by the tests, so it lives in the test fixtures.",
     },
   ],
+  createdAt: "2026-09-22T00:38:27.513Z",
+  updatedAt: "2026-09-27T02:41:24.000Z",
 } as const satisfies Module

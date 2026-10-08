@@ -16,4 +16,6 @@ export const ruleCardFilterChipCanLevelMorphs = {
       statement: "The chip is named by its condition field page, and its note is a web phrase.",
     },
   ],
+  createdAt: "2026-09-02T18:40:41.377Z",
+  updatedAt: "2026-09-27T11:45:01.000Z",
 } as const satisfies Module

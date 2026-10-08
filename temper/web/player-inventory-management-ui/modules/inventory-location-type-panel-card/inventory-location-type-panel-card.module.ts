@@ -25,4 +25,6 @@ export const inventoryLocationTypePanelCard = {
       statement: "A type branch is keyed by its tree slug and named by its tree page's title.",
     },
   ],
+  createdAt: "2026-09-02T18:40:41.371Z",
+  updatedAt: "2026-09-27T12:00:49.000Z",
 } as const satisfies Module

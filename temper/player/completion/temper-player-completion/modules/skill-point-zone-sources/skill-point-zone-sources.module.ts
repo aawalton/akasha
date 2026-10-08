@@ -32,4 +32,6 @@ export const skillPointZoneSources = {
       statement: "A story zone holds quest skill points and lies outside contested territory.",
     },
   ],
+  createdAt: "2026-09-02T07:32:01.658Z",
+  updatedAt: "2026-09-27T02:22:54.000Z",
 } as const satisfies Module

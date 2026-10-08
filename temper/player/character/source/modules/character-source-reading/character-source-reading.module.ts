@@ -16,4 +16,6 @@ export const characterSourceReading = {
       statement: "These pages are read and held wherever the skill catalogue is.",
     },
   ],
+  createdAt: "2026-09-26T20:28:21.892Z",
+  updatedAt: "2026-09-27T01:09:54.000Z",
 } as const satisfies Module

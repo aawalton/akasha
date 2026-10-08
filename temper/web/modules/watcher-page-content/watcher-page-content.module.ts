@@ -17,4 +17,6 @@ export const watcherPageContent = {
         "A name in braces in a phrase is filled with the styled piece the screen draws there.",
     },
   ],
+  createdAt: "2026-09-02T22:17:18.992Z",
+  updatedAt: "2026-09-27T11:49:02.000Z",
 } as const satisfies Module

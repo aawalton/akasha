@@ -12,4 +12,6 @@ export const characterPassiveSearchRow = {
       statement: "Its wording is read from web phrase pages and the skill line category pages.",
     },
   ],
+  createdAt: "2026-09-27T11:40:31.664Z",
+  updatedAt: "2026-09-27T11:52:45.000Z",
 } as const satisfies Module

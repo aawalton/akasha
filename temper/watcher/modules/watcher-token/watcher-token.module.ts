@@ -37,4 +37,6 @@ export const watcherToken = {
       statement: "A minted token would not match the hash the server verifies against.",
     },
   ],
+  createdAt: "2026-09-02T18:53:13.804Z",
+  updatedAt: "2026-09-22T13:43:34.000Z",
 } as const satisfies Module

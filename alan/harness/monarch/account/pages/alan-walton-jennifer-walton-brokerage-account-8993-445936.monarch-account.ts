@@ -13,4 +13,6 @@ export const alanWaltonJenniferWaltonBrokerageAccount8993445936 = {
   asset: true,
   accountActive: true,
   accountHidden: false,
+  createdAt: "2026-09-03T03:39:10.887Z",
+  updatedAt: "2026-10-08T06:18:04.000Z",
 } as const satisfies MonarchAccount

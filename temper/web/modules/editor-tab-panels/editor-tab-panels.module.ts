@@ -6,4 +6,6 @@ export const editorTabPanels = {
   slug: "editor-tab-panels",
   definition: "the tab panels the character editor shows",
   code: "tsx",
+  createdAt: "2026-09-03T04:31:48.647Z",
+  updatedAt: "2026-09-15T18:44:13.000Z",
 } as const satisfies Module

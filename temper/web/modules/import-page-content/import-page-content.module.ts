@@ -17,4 +17,6 @@ export const importPageContent = {
         "A name in braces in a phrase is filled with a drawn piece, such as a link or a path.",
     },
   ],
+  createdAt: "2026-09-02T22:17:18.992Z",
+  updatedAt: "2026-09-27T11:37:40.000Z",
 } as const satisfies Module

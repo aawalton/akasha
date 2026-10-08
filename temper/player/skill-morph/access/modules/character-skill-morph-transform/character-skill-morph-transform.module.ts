@@ -6,4 +6,6 @@ export const characterSkillMorphTransform = {
   slug: "character-skill-morph-transform",
   definition: "completion rows turned into one morph progress record per character",
   code: "ts",
+  createdAt: "2026-09-02T11:30:20.344Z",
+  updatedAt: "2026-09-21T15:47:48.000Z",
 } as const satisfies Module

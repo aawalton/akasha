@@ -12,4 +12,6 @@ export const itemBrowserTooltipExtension = {
       statement: "A collection slot is typed as an id64 here rather than as a number.",
     },
   ],
+  createdAt: "2026-09-02T09:34:23.522Z",
+  updatedAt: "2026-09-21T15:16:26.000Z",
 } as const satisfies Module

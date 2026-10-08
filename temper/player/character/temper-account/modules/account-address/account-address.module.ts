@@ -43,4 +43,6 @@ export const accountAddress = {
         "A page one account holds of a thing every account may hold is named by the thing and the account.",
     },
   ],
+  createdAt: "2026-09-24T16:04:30.248Z",
+  updatedAt: "2026-09-25T02:30:06.000Z",
 } as const satisfies Module

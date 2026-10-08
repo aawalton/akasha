@@ -36,4 +36,6 @@ export const ttcListingClient = {
       statement: "A demand for reCAPTCHA is reported as live search being unavailable.",
     },
   ],
+  createdAt: "2026-09-02T05:37:50.105Z",
+  updatedAt: "2026-09-21T17:45:58.000Z",
 } as const satisfies Module

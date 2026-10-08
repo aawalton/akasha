@@ -33,4 +33,6 @@ export const addonInit = {
         "The listener sits under the namespace the caller names, or under the add-on's name.",
     },
   ],
+  createdAt: "2026-09-02T05:53:44.287Z",
+  updatedAt: "2026-09-22T01:17:12.000Z",
 } as const satisfies Module

@@ -6,4 +6,6 @@ export const inventoryRulesHandlers = {
   slug: "inventory-rules-handlers",
   definition: "what a reader's edit to a rule does to the rules",
   code: "ts",
+  createdAt: "2026-09-02T18:40:41.371Z",
+  updatedAt: "2026-09-21T15:24:57.000Z",
 } as const satisfies Module

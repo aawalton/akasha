@@ -12,4 +12,6 @@ export const passiveQueries = {
       statement: "The empty slot sentinel counts toward no skill line.",
     },
   ],
+  createdAt: "2026-09-02T09:51:18.436Z",
+  updatedAt: "2026-09-21T15:38:18.000Z",
 } as const satisfies Module

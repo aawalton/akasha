@@ -42,4 +42,6 @@ export const useTemperImport = {
       statement: "A failed import shows no error's own text, which goes to the console.",
     },
   ],
+  createdAt: "2026-09-02T22:17:18.992Z",
+  updatedAt: "2026-09-27T12:47:17.000Z",
 } as const satisfies Module

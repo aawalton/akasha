@@ -6,4 +6,6 @@ export const useCompletionFilters = {
   slug: "use-completion-filters",
   definition: "the completion page's filter values, kept in the query string and in storage",
   code: "ts",
+  createdAt: "2026-09-02T21:59:02.731Z",
+  updatedAt: "2026-09-15T18:44:13.000Z",
 } as const satisfies Module

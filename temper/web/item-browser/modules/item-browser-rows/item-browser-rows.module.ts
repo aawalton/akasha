@@ -28,4 +28,6 @@ export const itemBrowserRows = {
       statement: "The rows are in the order of their sets' ids.",
     },
   ],
+  createdAt: "2026-09-26T13:46:15.606Z",
+  updatedAt: "2026-09-26T13:46:30.000Z",
 } as const satisfies Module

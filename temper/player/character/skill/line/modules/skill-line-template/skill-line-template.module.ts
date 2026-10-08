@@ -6,4 +6,6 @@ export const skillLineTemplate = {
   slug: "skill-line-template",
   definition: "what a skill line records",
   code: "ts",
+  createdAt: "2026-09-02T05:15:01.301Z",
+  updatedAt: "2026-09-22T10:15:37.000Z",
 } as const satisfies Module

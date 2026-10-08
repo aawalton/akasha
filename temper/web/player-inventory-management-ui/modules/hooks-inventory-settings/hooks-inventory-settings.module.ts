@@ -91,4 +91,6 @@ export const hooksInventorySettings = {
       statement: "A write while any rule is unread is refused.",
     },
   ],
+  createdAt: "2026-09-02T18:40:41.367Z",
+  updatedAt: "2026-09-27T14:00:26.000Z",
 } as const satisfies Module

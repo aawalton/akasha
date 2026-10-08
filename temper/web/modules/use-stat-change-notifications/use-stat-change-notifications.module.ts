@@ -6,4 +6,6 @@ export const useStatChangeNotifications = {
   slug: "use-stat-change-notifications",
   definition: "the hook telling of a stat change",
   code: "tsx",
+  createdAt: "2026-09-02T22:10:23.770Z",
+  updatedAt: "2026-09-15T18:44:13.000Z",
 } as const satisfies Module

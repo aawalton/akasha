@@ -12,4 +12,6 @@ export const completionSubclassingProgress = {
       statement: "Only a skill line under the class heading is reckoned.",
     },
   ],
+  createdAt: "2026-09-02T14:19:57.893Z",
+  updatedAt: "2026-09-21T15:58:08.000Z",
 } as const satisfies Module

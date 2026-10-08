@@ -6,4 +6,6 @@ export const skillSource = {
   slug: "skill-source",
   definition: "a skill a character has slotted, with the effects that skill brings",
   code: "ts",
+  createdAt: "2026-09-02T04:46:21.412Z",
+  updatedAt: "2026-09-21T15:41:15.000Z",
 } as const satisfies Module

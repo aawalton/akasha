@@ -6,4 +6,6 @@ export const esoIconUrl = {
   slug: "eso-icon-url",
   definition: "the web address of a game icon",
   code: "ts",
+  createdAt: "2026-09-02T04:46:21.410Z",
+  updatedAt: "2026-09-21T15:41:15.000Z",
 } as const satisfies Module

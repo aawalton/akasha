@@ -25,4 +25,6 @@ export const shortened = {
       statement: "The length is sixty characters.",
     },
   ],
+  createdAt: "2026-09-11T13:00:29.093Z",
+  updatedAt: "2026-09-15T19:13:11.000Z",
 } as const satisfies Module

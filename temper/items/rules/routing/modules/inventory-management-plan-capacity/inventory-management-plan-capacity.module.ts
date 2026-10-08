@@ -16,4 +16,6 @@ export const inventoryManagementPlanCapacity = {
       statement: "A place absent from the captured holdings has no free slots.",
     },
   ],
+  createdAt: "2026-09-02T09:02:04.762Z",
+  updatedAt: "2026-09-21T15:29:55.000Z",
 } as const satisfies Module

@@ -16,4 +16,6 @@ export const characterEditorContent = {
       statement: "A remix that fails shows no error's own text, which goes to the console.",
     },
   ],
+  createdAt: "2026-09-03T04:31:48.577Z",
+  updatedAt: "2026-09-27T12:46:37.000Z",
 } as const satisfies Module

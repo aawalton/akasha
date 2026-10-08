@@ -20,4 +20,6 @@ export const skillLineQueries = {
       statement: "A skill line's category is given by id, and a screen names it from its page.",
     },
   ],
+  createdAt: "2026-09-02T09:51:18.436Z",
+  updatedAt: "2026-09-27T11:56:28.000Z",
 } as const satisfies Module

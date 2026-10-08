@@ -7,4 +7,6 @@ export const companionStatsPanelState = {
   definition: "the state of a companion's stats panel",
   code: "ts",
   test: "ts",
+  createdAt: "2026-09-02T21:56:24.171Z",
+  updatedAt: "2026-09-22T13:47:34.000Z",
 } as const satisfies Module

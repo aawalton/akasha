@@ -50,4 +50,6 @@ export const mineRowReading = {
       statement: "Nothing here writes.",
     },
   ],
+  createdAt: "2026-09-25T13:45:59.789Z",
+  updatedAt: "2026-09-25T13:56:05.000Z",
 } as const satisfies Module

@@ -6,4 +6,6 @@ export const inventoryRulesState = {
   slug: "inventory-rules-state",
   definition: "the inventory rule settings a browser holds and saves",
   code: "ts",
+  createdAt: "2026-09-02T18:40:41.371Z",
+  updatedAt: "2026-09-21T15:24:57.000Z",
 } as const satisfies Module

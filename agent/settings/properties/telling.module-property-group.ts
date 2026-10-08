@@ -9,4 +9,6 @@ export const telling = {
   slug: "telling",
   propertySlug: "telling",
   definition: "what writes the settings an agent harness is told",
+  createdAt: "2026-09-11T00:55:20.856Z",
+  updatedAt: "2026-09-15T17:32:01.000Z",
 } as const satisfies ModulePropertyGroup

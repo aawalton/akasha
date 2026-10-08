@@ -16,4 +16,6 @@ export const skillCatalogGate = {
       statement: "The content is drawn again whenever the catalogue is read again.",
     },
   ],
+  createdAt: "2026-09-26T16:09:04.566Z",
+  updatedAt: "2026-09-27T08:37:40.000Z",
 } as const satisfies Module

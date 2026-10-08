@@ -22,4 +22,6 @@ export const webPhraseLoading = {
         "A screen a signed-out reader sees reads its phrases here, since that reader reads no page.",
     },
   ],
+  createdAt: "2026-09-27T11:36:22.748Z",
+  updatedAt: "2026-09-27T11:36:31.000Z",
 } as const satisfies Module

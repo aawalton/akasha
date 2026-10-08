@@ -7,4 +7,6 @@ export const buildCodec = {
   definition: "the text form of a character build written out and read back",
   code: "ts",
   test: "ts",
+  createdAt: "2026-09-02T16:15:21.022Z",
+  updatedAt: "2026-09-22T13:41:05.000Z",
 } as const satisfies Module

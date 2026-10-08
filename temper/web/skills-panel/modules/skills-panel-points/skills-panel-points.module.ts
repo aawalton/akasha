@@ -16,4 +16,6 @@ export const skillsPanelPoints = {
       statement: "The panel draws its own points before what an add-on adds is drawn.",
     },
   ],
+  createdAt: "2026-09-11T13:44:38.546Z",
+  updatedAt: "2026-09-21T15:15:49.000Z",
 } as const satisfies Module

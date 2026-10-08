@@ -41,4 +41,6 @@ export const inventoryManagementPlan = {
       statement: "The buying session is named by the any-character plan phrase page.",
     },
   ],
+  createdAt: "2026-09-02T14:32:30.582Z",
+  updatedAt: "2026-09-27T11:55:45.000Z",
 } as const satisfies Module

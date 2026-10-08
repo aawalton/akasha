@@ -6,4 +6,6 @@ export const itemComposites = {
   slug: "item-composites",
   definition: "every kind of gear a character wears, as the shape holding each piece",
   code: "ts",
+  createdAt: "2026-09-02T09:24:55.953Z",
+  updatedAt: "2026-09-22T13:48:32.000Z",
 } as const satisfies Module

@@ -20,4 +20,6 @@ export const constraintBadges = {
       statement: "A staff's element is named by the temper-damage-type page it shares a key with.",
     },
   ],
+  createdAt: "2026-09-02T21:58:08.930Z",
+  updatedAt: "2026-09-27T12:27:11.000Z",
 } as const satisfies Module

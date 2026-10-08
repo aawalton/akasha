@@ -17,4 +17,6 @@ export const armorEnchants = {
       statement: "A piece carries the share of the glyph its armor type page states.",
     },
   ],
+  createdAt: "2026-09-02T09:24:55.959Z",
+  updatedAt: "2026-09-27T05:21:39.000Z",
 } as const satisfies Module

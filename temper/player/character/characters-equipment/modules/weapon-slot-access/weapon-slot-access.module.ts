@@ -6,4 +6,6 @@ export const weaponSlotAccess = {
   slug: "weapon-slot-access",
   definition: "what a weapon slot has, and whether the slot shows at all",
   code: "ts",
+  createdAt: "2026-09-02T09:24:55.960Z",
+  updatedAt: "2026-09-21T15:41:15.000Z",
 } as const satisfies Module

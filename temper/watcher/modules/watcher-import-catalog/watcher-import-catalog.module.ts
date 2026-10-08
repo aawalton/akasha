@@ -91,4 +91,6 @@ export const watcherImportCatalog = {
       statement: "Nothing here opens the saved-variables file.",
     },
   ],
+  createdAt: "2026-09-02T19:03:27.439Z",
+  updatedAt: "2026-09-27T03:43:08.000Z",
 } as const satisfies Module

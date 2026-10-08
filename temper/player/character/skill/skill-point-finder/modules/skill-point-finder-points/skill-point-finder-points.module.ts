@@ -12,4 +12,6 @@ export const skillPointFinderPoints = {
       statement: "A count is recomputed from the points the game reports rather than accumulated.",
     },
   ],
+  createdAt: "2026-09-02T07:01:36.960Z",
+  updatedAt: "2026-09-21T15:46:08.000Z",
 } as const satisfies Module

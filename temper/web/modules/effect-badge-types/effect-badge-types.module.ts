@@ -6,4 +6,6 @@ export const effectBadgeTypes = {
   slug: "effect-badge-types",
   definition: "the shapes a skill effect badge takes",
   code: "ts",
+  createdAt: "2026-09-02T21:56:24.172Z",
+  updatedAt: "2026-09-15T18:44:13.000Z",
 } as const satisfies Module

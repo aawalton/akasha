@@ -49,4 +49,6 @@ export const windowPopover = {
       statement: "The popover's corners are square until Temper ships a rounded edge.",
     },
   ],
+  createdAt: "2026-09-25T18:15:00.055Z",
+  updatedAt: "2026-09-25T18:27:43.000Z",
 } as const satisfies Module

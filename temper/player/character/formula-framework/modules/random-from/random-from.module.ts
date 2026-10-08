@@ -6,4 +6,6 @@ export const randomFrom = {
   slug: "random-from",
   definition: "an item drawn at random from a list",
   code: "ts",
+  createdAt: "2026-09-02T04:46:21.411Z",
+  updatedAt: "2026-09-22T10:15:37.000Z",
 } as const satisfies Module

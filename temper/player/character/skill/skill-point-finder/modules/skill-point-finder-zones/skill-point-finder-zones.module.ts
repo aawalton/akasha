@@ -6,4 +6,6 @@ export const skillPointFinderZones = {
   slug: "skill-point-finder-zones",
   definition: "a zone of the world the window counts quests and skyshards across",
   code: "ts",
+  createdAt: "2026-09-02T07:01:36.975Z",
+  updatedAt: "2026-09-21T15:46:08.000Z",
 } as const satisfies Module

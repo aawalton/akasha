@@ -9,4 +9,6 @@ export const filling = {
   slug: "filling",
   propertySlug: "filling",
   definition: "what writes the body of a provisioned file",
+  createdAt: "2026-09-11T15:15:25.482Z",
+  updatedAt: "2026-09-15T17:32:01.000Z",
 } as const satisfies ModulePropertyGroup

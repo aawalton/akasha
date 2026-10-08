@@ -17,4 +17,6 @@ export const completionProgressNodes = {
       statement: "A branch counts as the sum of the leaves beneath it.",
     },
   ],
+  createdAt: "2026-09-25T12:52:30.138Z",
+  updatedAt: "2026-09-25T12:52:48.000Z",
 } as const satisfies Module

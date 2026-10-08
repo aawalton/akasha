@@ -6,4 +6,6 @@ export const skillMorphProgressPaths = {
   slug: "skill-morph-progress-paths",
   definition: "the morph progress at a skill line or at a skill",
   code: "ts",
+  createdAt: "2026-09-02T11:00:28.600Z",
+  updatedAt: "2026-09-22T10:08:47.000Z",
 } as const satisfies Module

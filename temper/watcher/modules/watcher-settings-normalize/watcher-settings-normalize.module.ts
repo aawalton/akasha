@@ -57,4 +57,6 @@ export const watcherSettingsNormalize = {
       statement: "Nothing here reads or writes a file.",
     },
   ],
+  createdAt: "2026-09-02T18:35:40.149Z",
+  updatedAt: "2026-09-22T13:28:06.000Z",
 } as const satisfies Module

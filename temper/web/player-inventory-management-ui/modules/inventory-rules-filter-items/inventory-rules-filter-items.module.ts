@@ -16,4 +16,6 @@ export const inventoryRulesFilterItems = {
       statement: "Goal choices are named by the held rule goal page titles.",
     },
   ],
+  createdAt: "2026-09-02T18:40:41.371Z",
+  updatedAt: "2026-09-27T11:55:01.000Z",
 } as const satisfies Module

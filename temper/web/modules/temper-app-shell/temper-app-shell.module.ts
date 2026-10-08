@@ -21,4 +21,6 @@ export const temperAppShell = {
       statement: "No screen inside it is drawn until the web phrases are read and held.",
     },
   ],
+  createdAt: "2026-09-02T22:07:14.175Z",
+  updatedAt: "2026-09-27T12:11:00.000Z",
 } as const satisfies Module

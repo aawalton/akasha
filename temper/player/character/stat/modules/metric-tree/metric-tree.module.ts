@@ -27,4 +27,6 @@ export const metricTree = {
         "The nodes under one parent, and the categories, are in the order of their display order.",
     },
   ],
+  createdAt: "2026-09-25T12:48:53.519Z",
+  updatedAt: "2026-09-26T18:37:16.000Z",
 } as const satisfies Module

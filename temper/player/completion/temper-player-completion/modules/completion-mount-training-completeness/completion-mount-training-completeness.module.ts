@@ -13,4 +13,6 @@ export const completionMountTrainingCompleteness = {
       statement: "One of the three mount statistics is asked after by naming that statistic.",
     },
   ],
+  createdAt: "2026-09-02T07:32:01.651Z",
+  updatedAt: "2026-09-21T15:58:08.000Z",
 } as const satisfies Module

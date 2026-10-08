@@ -13,4 +13,6 @@ export const comparisonOpPages = {
         "The comparison op pages are imported rather than read, so an add-on and a browser hold them as well.",
     },
   ],
+  createdAt: "2026-09-25T13:04:42.138Z",
+  updatedAt: "2026-09-25T13:04:51.000Z",
 } as const satisfies Module

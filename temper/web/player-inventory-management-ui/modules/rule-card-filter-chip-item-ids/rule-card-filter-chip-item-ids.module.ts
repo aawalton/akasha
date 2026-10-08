@@ -24,4 +24,6 @@ export const ruleCardFilterChipItemIds = {
       statement: "The chip's wording around the item names is a rule card phrase.",
     },
   ],
+  createdAt: "2026-09-26T17:40:58.007Z",
+  updatedAt: "2026-09-27T11:45:27.000Z",
 } as const satisfies Module

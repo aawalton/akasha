@@ -16,4 +16,6 @@ export const companionGearTtcGate = {
       statement: "The content is drawn again whenever a page the numbers come from changes.",
     },
   ],
+  createdAt: "2026-09-27T02:43:57.746Z",
+  updatedAt: "2026-09-27T02:54:48.000Z",
 } as const satisfies Module

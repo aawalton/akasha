@@ -26,4 +26,6 @@ export const completionAccountNodes = {
       statement: "The scribing categories are the leaf completion pages under the scribing card.",
     },
   ],
+  createdAt: "2026-09-25T12:52:30.137Z",
+  updatedAt: "2026-09-27T07:26:03.000Z",
 } as const satisfies Module

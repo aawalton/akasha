@@ -30,4 +30,6 @@ export const useMetricCatalog = {
         "What a build's stats are worked out from is recalculated when the stats are read again.",
     },
   ],
+  createdAt: "2026-09-26T16:01:19.636Z",
+  updatedAt: "2026-09-26T18:53:02.000Z",
 } as const satisfies Module

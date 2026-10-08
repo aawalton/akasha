@@ -17,4 +17,6 @@ export const targetArmors = {
         "The companion catalogue and the stat catalogue each hold the target armors they read.",
     },
   ],
+  createdAt: "2026-09-02T06:59:47.428Z",
+  updatedAt: "2026-09-26T20:19:51.000Z",
 } as const satisfies Module

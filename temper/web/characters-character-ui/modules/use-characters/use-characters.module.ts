@@ -68,4 +68,6 @@ export const useCharacters = {
       statement: "A new build's name is read from a web phrase page.",
     },
   ],
+  createdAt: "2026-09-02T18:27:40.800Z",
+  updatedAt: "2026-09-27T12:44:57.000Z",
 } as const satisfies Module

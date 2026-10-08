@@ -32,4 +32,6 @@ export const typeScale = {
       statement: "No font here carries a shadow, as no text on the web does.",
     },
   ],
+  createdAt: "2026-09-25T14:16:29.228Z",
+  updatedAt: "2026-09-25T14:16:59.000Z",
 } as const satisfies Module

@@ -17,4 +17,6 @@ export const alliances = {
       statement: "The alliance pages are held wherever the skill catalogue is held.",
     },
   ],
+  createdAt: "2026-09-02T06:59:47.420Z",
+  updatedAt: "2026-09-26T20:37:06.000Z",
 } as const satisfies Module

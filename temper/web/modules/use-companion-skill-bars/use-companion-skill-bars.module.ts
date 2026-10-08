@@ -6,4 +6,6 @@ export const useCompanionSkillBars = {
   slug: "use-companion-skill-bars",
   definition: "a companion's skill bars, read from its build",
   code: "ts",
+  createdAt: "2026-09-02T21:56:24.172Z",
+  updatedAt: "2026-09-15T18:44:13.000Z",
 } as const satisfies Module

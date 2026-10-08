@@ -21,4 +21,6 @@ export const inventoryManagementPlanCapacityFilter = {
       statement: "An item joining a stack already at the destination takes no slot.",
     },
   ],
+  createdAt: "2026-09-02T09:02:04.760Z",
+  updatedAt: "2026-09-21T15:29:55.000Z",
 } as const satisfies Module

@@ -40,4 +40,6 @@ export const inventoryManagementPlanBuy = {
       statement: "The buy note and the buying character's name are plan phrase pages.",
     },
   ],
+  createdAt: "2026-09-02T14:32:30.582Z",
+  updatedAt: "2026-09-27T13:44:24.000Z",
 } as const satisfies Module

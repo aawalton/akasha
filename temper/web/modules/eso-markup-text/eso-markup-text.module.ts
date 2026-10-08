@@ -20,4 +20,6 @@ export const esoMarkupText = {
       statement: "No icon the markup names is drawn.",
     },
   ],
+  createdAt: "2026-09-27T05:29:37.742Z",
+  updatedAt: "2026-09-27T05:37:20.000Z",
 } as const satisfies Module

@@ -6,4 +6,6 @@ export const ruleCard = {
   slug: "rule-card",
   definition: "the card where a reader edits a rule",
   code: "tsx",
+  createdAt: "2026-09-02T18:40:41.377Z",
+  updatedAt: "2026-09-22T14:04:34.000Z",
 } as const satisfies Module

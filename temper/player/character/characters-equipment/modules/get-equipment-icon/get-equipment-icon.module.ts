@@ -6,4 +6,6 @@ export const getEquipmentIcon = {
   slug: "get-equipment-icon",
   definition: "which icon represents a gear set in a slot",
   code: "ts",
+  createdAt: "2026-09-02T09:24:55.960Z",
+  updatedAt: "2026-09-21T15:41:15.000Z",
 } as const satisfies Module

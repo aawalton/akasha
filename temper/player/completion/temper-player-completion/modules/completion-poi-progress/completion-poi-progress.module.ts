@@ -36,4 +36,6 @@ export const completionPoiProgress = {
       statement: "An empty catalog answers an empty progress.",
     },
   ],
+  createdAt: "2026-09-02T18:18:47.036Z",
+  updatedAt: "2026-09-21T15:58:08.000Z",
 } as const satisfies Module

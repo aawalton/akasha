@@ -26,4 +26,6 @@ export const scribedSkillSource = {
       statement: "A buff a scribed skill grants outlasts a swap to the other bar.",
     },
   ],
+  createdAt: "2026-09-02T09:51:18.434Z",
+  updatedAt: "2026-09-25T13:54:57.000Z",
 } as const satisfies Module

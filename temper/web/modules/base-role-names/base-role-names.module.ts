@@ -20,4 +20,6 @@ export const baseRoleNames = {
       statement: "The joining and the name of no role are web phrase pages.",
     },
   ],
+  createdAt: "2026-09-27T12:29:57.142Z",
+  updatedAt: "2026-09-27T12:30:10.000Z",
 } as const satisfies Module

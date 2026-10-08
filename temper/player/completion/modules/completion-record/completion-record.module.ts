@@ -26,4 +26,6 @@ export const completionRecord = {
       statement: "A body carrying a key the schema does not declare is refused.",
     },
   ],
+  createdAt: "2026-09-02T04:57:23.388Z",
+  updatedAt: "2026-09-25T16:56:16.000Z",
 } as const satisfies Module

@@ -21,4 +21,6 @@ export const addonsBundleDir = {
         "A change to the environment after this module has loaded does not move the folder.",
     },
   ],
+  createdAt: "2026-09-02T21:38:53.839Z",
+  updatedAt: "2026-09-22T13:47:34.000Z",
 } as const satisfies Module

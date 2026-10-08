@@ -17,4 +17,6 @@ export const useSkillCatalog = {
       statement: "A read that fails is thrown to the screen rather than drawn as no skills.",
     },
   ],
+  createdAt: "2026-09-26T16:09:04.566Z",
+  updatedAt: "2026-09-26T16:09:30.000Z",
 } as const satisfies Module

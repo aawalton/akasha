@@ -12,4 +12,6 @@ export const inventoryRulesTab = {
       statement: "The no-inventory alert is its own module, worded by web phrase pages.",
     },
   ],
+  createdAt: "2026-09-02T18:40:41.371Z",
+  updatedAt: "2026-09-27T11:36:47.000Z",
 } as const satisfies Module

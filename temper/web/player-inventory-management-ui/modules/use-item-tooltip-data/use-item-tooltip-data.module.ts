@@ -6,4 +6,6 @@ export const useItemTooltipData = {
   slug: "use-item-tooltip-data",
   definition: "what draws an item's tooltip",
   code: "ts",
+  createdAt: "2026-09-02T18:40:41.377Z",
+  updatedAt: "2026-09-22T13:57:47.000Z",
 } as const satisfies Module

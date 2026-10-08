@@ -6,4 +6,6 @@ export const mythicSetRules = {
   slug: "mythic-set-rules",
   definition: "the rule that only one mythic gear set is worn at a time",
   code: "ts",
+  createdAt: "2026-09-02T09:24:55.961Z",
+  updatedAt: "2026-09-21T15:41:15.000Z",
 } as const satisfies Module

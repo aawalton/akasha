@@ -7,4 +7,6 @@ export const extractSkills = {
   definition: "the skills slotted on a build's bars, read out as effect sources",
   code: "ts",
   test: "ts",
+  createdAt: "2026-09-02T14:06:51.855Z",
+  updatedAt: "2026-09-25T12:57:00.000Z",
 } as const satisfies Module

@@ -20,4 +20,6 @@ export const importRedirect = {
       statement: "A redirect has no body.",
     },
   ],
+  createdAt: "2026-09-11T13:10:23.633Z",
+  updatedAt: "2026-09-21T15:42:49.000Z",
 } as const satisfies Module

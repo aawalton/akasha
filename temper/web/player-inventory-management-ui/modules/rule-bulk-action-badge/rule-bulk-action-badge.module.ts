@@ -12,4 +12,6 @@ export const ruleBulkActionBadge = {
       statement: "The badge's menu and delete dialog are worded by web phrase pages.",
     },
   ],
+  createdAt: "2026-09-02T18:40:41.371Z",
+  updatedAt: "2026-09-27T11:38:45.000Z",
 } as const satisfies Module

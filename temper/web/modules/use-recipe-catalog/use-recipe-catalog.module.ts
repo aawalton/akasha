@@ -20,4 +20,6 @@ export const useRecipeCatalog = {
       statement: "A read that fails is thrown to the screen rather than shown as no recipes.",
     },
   ],
+  createdAt: "2026-09-26T15:45:03.521Z",
+  updatedAt: "2026-09-26T15:45:46.000Z",
 } as const satisfies Module

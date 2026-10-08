@@ -20,4 +20,6 @@ export const usePlayer = {
       statement: "Profile metadata a player never set has no key.",
     },
   ],
+  createdAt: "2026-09-02T18:14:23.819Z",
+  updatedAt: "2026-09-24T17:06:56.000Z",
 } as const satisfies Module

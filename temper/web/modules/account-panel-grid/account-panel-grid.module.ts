@@ -6,4 +6,6 @@ export const accountPanelGrid = {
   slug: "account-panel-grid",
   definition: "the account tab's panel cards laid out in responsive columns",
   code: "tsx",
+  createdAt: "2026-09-02T21:59:02.730Z",
+  updatedAt: "2026-09-15T18:43:51.000Z",
 } as const satisfies Module

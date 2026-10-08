@@ -24,4 +24,6 @@ export const ruleCardFilterChipsQuantity = {
       statement: "The gold unit after a value is a rule card phrase.",
     },
   ],
+  createdAt: "2026-09-02T18:40:41.377Z",
+  updatedAt: "2026-09-27T11:47:40.000Z",
 } as const satisfies Module

@@ -17,4 +17,6 @@ export const characterRoles = {
       statement: "A role's place among the roles is its page's display order.",
     },
   ],
+  createdAt: "2026-09-02T06:59:47.423Z",
+  updatedAt: "2026-09-27T01:54:09.000Z",
 } as const satisfies Module

@@ -6,4 +6,6 @@ export const morphProgressTypes = {
   slug: "morph-progress-types",
   definition: "the shape a character's morph progress is held in, line by line and skill by skill",
   code: "ts",
+  createdAt: "2026-09-02T11:00:28.600Z",
+  updatedAt: "2026-09-21T15:30:49.000Z",
 } as const satisfies Module

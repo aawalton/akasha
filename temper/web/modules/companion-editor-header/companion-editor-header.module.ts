@@ -12,4 +12,6 @@ export const companionEditorHeader = {
       statement: "Its wording is read from web phrase pages.",
     },
   ],
+  createdAt: "2026-09-02T22:13:52.822Z",
+  updatedAt: "2026-09-27T11:27:07.000Z",
 } as const satisfies Module

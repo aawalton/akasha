@@ -17,4 +17,6 @@ export const ruleCardDestinationFormat = {
       statement: "A by-priority destination is worded by a rule card phrase, read as held.",
     },
   ],
+  createdAt: "2026-09-02T18:40:41.371Z",
+  updatedAt: "2026-09-27T11:45:58.000Z",
 } as const satisfies Module

@@ -20,4 +20,6 @@ export const useInventoryRulesSettingsState = {
       statement: "The save toasts are worded by web phrase pages, read as held.",
     },
   ],
+  createdAt: "2026-09-02T18:40:41.377Z",
+  updatedAt: "2026-09-27T11:48:01.000Z",
 } as const satisfies Module

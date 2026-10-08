@@ -17,4 +17,6 @@ export const esoPlusSource = {
       statement: "The ESO Plus pages are held wherever the skill catalogue is held.",
     },
   ],
+  createdAt: "2026-09-02T06:59:47.427Z",
+  updatedAt: "2026-09-26T20:28:31.000Z",
 } as const satisfies Module

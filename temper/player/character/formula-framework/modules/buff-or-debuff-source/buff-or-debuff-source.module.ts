@@ -17,4 +17,6 @@ export const buffOrDebuffSource = {
       statement: "Those pages are held wherever the skill catalogue or the companion catalogue is.",
     },
   ],
+  createdAt: "2026-09-02T04:46:21.405Z",
+  updatedAt: "2026-09-27T01:09:54.000Z",
 } as const satisfies Module

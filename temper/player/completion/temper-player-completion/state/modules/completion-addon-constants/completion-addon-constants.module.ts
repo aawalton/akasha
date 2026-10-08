@@ -6,4 +6,6 @@ export const completionAddonConstants = {
   slug: "completion-addon-constants",
   definition: "the completion addon's name and the name of its saved table",
   code: "ts",
+  createdAt: "2026-09-02T13:34:15.695Z",
+  updatedAt: "2026-09-22T14:05:53.000Z",
 } as const satisfies Module
