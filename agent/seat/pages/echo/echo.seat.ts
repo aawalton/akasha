@@ -11,6 +11,4 @@ export const echo = {
   startMode: "seat-mode/interactive",
   onCall: false,
   registrationAccount: "model-account/aawalton",
-  createdAt: "2026-10-08T14:56:55.888Z",
-  updatedAt: "2026-10-08T14:56:55.888Z",
 } as const satisfies Seat
