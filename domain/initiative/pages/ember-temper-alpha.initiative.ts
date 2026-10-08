@@ -15,6 +15,7 @@ export const emberTemperAlpha = {
   ],
   constraints: [
     "The interface of Pithka's Achievement Tracker in Temper is identical to the upstream interface.",
-    "The interface of Combat Metrics in Temper is identical to the upstream interface.",
+    "The fight report of Combat Metrics in Temper is identical to the upstream fight report.",
   ],
+  updatedAt: "2026-10-08T15:07:24.987Z",
 } as const satisfies Initiative
