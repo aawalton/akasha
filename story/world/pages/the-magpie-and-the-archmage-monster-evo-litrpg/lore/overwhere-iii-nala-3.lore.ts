@@ -9,6 +9,22 @@ export const overwhereIiiNala3 = {
   about: "character-player/overwhere-iii-nala",
   facts: [
     {
+      fact: "Nala dug the stones from her two fresh rabbits, then sold Dunstan all three for fifteen copper.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iii-nala",
+        "character-other/overwhere-iii-dunstan-harrow",
+      ],
+    },
+    {
+      fact: "Nala told Brannagh she closed the bite, but is still learning.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iii-nala",
+        "character-other/overwhere-iii-brannagh-tull",
+      ],
+    },
+    {
       fact: "Pouring her whole well into the lash-pull left Nala shaky and dry by the sett.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
@@ -174,5 +190,5 @@ export const overwhereIiiNala3 = {
     },
   ],
   createdAt: "2026-10-02T18:45:56.683Z",
-  updatedAt: "2026-10-03T13:53:48.000Z",
+  updatedAt: "2026-10-08T16:25:05.161Z",
 } as const satisfies Lore
