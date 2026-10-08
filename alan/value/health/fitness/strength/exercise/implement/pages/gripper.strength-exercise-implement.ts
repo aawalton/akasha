@@ -5,4 +5,6 @@ export const gripper = {
   type: "page-type/strength-exercise-implement",
   slug: "gripper",
   definition: "a spring a hand squeezes",
+  createdAt: "2026-09-18T22:57:32.188Z",
+  updatedAt: "2026-09-22T14:00:01.000Z",
 } as const satisfies StrengthExerciseImplement

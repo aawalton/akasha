@@ -5,4 +5,6 @@ export const theGreatCourses = {
   type: "page-type/sync",
   slug: "the-great-courses",
   syncRuns: "jsonl",
+  createdAt: "2026-09-03T17:47:25.668Z",
+  updatedAt: "2026-09-15T17:44:40.000Z",
 } as const satisfies Sync

@@ -60,4 +60,6 @@ export const noScrubBashEnvUndoes = {
       statement: "A shell file writing this call is judged by nothing here.",
     },
   ],
+  createdAt: "2026-09-08T18:02:58.964Z",
+  updatedAt: "2026-09-15T17:45:04.000Z",
 } as const satisfies SyntaxRule

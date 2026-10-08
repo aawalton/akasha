@@ -5,4 +5,6 @@ export const dumbbell = {
   type: "page-type/strength-exercise-implement",
   slug: "dumbbell",
   definition: "a short bar held in one hand and loaded at each end",
+  createdAt: "2026-09-12T05:26:02.188Z",
+  updatedAt: "2026-09-15T17:42:17.000Z",
 } as const satisfies StrengthExerciseImplement

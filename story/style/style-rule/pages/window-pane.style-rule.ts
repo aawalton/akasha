@@ -12,4 +12,6 @@ export const windowPane = {
     "Let what happens set a sentence's length and shape, never a habit of the voice.",
     "A reader should come away remembering the scene, not the sentences.",
   ],
+  createdAt: "2026-10-06T22:10:10.469Z",
+  updatedAt: "2026-10-06T22:10:13.000Z",
 } as const satisfies StyleRule

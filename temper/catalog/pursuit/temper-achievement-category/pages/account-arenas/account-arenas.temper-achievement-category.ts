@@ -7,4 +7,6 @@ export const accountArenas = {
   title: "Arenas",
   category: "account",
   displayOrder: 7,
+  createdAt: "2026-09-02T09:17:10.091Z",
+  updatedAt: "2026-09-21T15:27:16.000Z",
 } as const satisfies TemperAchievementCategory

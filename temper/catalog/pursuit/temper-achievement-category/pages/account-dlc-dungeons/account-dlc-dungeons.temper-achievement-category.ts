@@ -7,4 +7,6 @@ export const accountDlcDungeons = {
   title: "DLC Dungeons",
   category: "account",
   displayOrder: 5,
+  createdAt: "2026-09-02T09:17:10.089Z",
+  updatedAt: "2026-09-21T15:27:16.000Z",
 } as const satisfies TemperAchievementCategory

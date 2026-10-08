@@ -14,4 +14,6 @@ export const wednesdayLegs20261007Fd81f916CalfStretchHandsAgainstWallSet1 = {
   day: "day/day-2026-10-07",
   setNumber: 1,
   setPerformedAt: "2026-10-07T10:14:00.000Z",
+  createdAt: "2026-10-07T10:14:57.432Z",
+  updatedAt: "2026-10-07T10:15:00.000Z",
 } as const satisfies StrengthLog

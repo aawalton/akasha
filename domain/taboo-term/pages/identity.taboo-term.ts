@@ -15,4 +15,6 @@ export const identity = {
     "the identifier a page or a row is told apart from every other by",
     "the marks and colors a brand is known by",
   ],
+  createdAt: "2026-08-31T19:14:46.446Z",
+  updatedAt: "2026-09-15T17:45:26.000Z",
 } as const satisfies TabooTerm

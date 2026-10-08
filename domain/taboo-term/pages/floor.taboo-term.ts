@@ -6,4 +6,6 @@ export const floor = {
   slug: "floor",
   pattern: "(?<!\\.)\\bfloor\\b",
   tabooSenses: [{ sense: "an attribute's value where nobody states one", instead: "its default" }],
+  createdAt: "2026-08-31T19:14:46.443Z",
+  updatedAt: "2026-09-15T17:45:26.000Z",
 } as const satisfies TabooTerm

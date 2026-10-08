@@ -48,4 +48,6 @@ export const tokenValues = {
       statement: "A shadow here is the lowest surface at an alpha rather than a color of its own.",
     },
   ],
+  createdAt: "2026-09-01T10:48:05.962Z",
+  updatedAt: "2026-09-24T22:38:51.000Z",
 } as const satisfies Stylesheet

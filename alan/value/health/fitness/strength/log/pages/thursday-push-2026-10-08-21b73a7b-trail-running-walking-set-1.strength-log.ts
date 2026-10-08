@@ -13,4 +13,6 @@ export const thursdayPush2026100821b73a7bTrailRunningWalkingSet1 = {
   sessionSlug: "thursday-push-2026-10-08-21b73a7b",
   day: "day/day-2026-10-08",
   setNumber: 1,
+  createdAt: "2026-10-08T11:58:14.277Z",
+  updatedAt: "2026-10-08T11:58:16.000Z",
 } as const satisfies StrengthLog

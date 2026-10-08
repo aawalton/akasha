@@ -113,4 +113,6 @@ export const noVoidReturn = {
       statement: "A body filling a slot spelled `void` and dropping a promise is left.",
     },
   ],
+  createdAt: "2026-08-30T01:00:28.356Z",
+  updatedAt: "2026-09-15T17:45:04.000Z",
 } as const satisfies SyntaxRule

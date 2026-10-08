@@ -5,4 +5,6 @@ export const eZCurlBar = {
   type: "page-type/strength-exercise-implement",
   slug: "e-z-curl-bar",
   definition: "a bar bent so the hands hold it at an angle",
+  createdAt: "2026-09-12T05:26:08.524Z",
+  updatedAt: "2026-09-15T17:42:17.000Z",
 } as const satisfies StrengthExerciseImplement

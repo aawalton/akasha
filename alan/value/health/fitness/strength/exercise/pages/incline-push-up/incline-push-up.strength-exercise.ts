@@ -34,4 +34,6 @@ export const inclinePushUp = {
   trainsLengthenedRange: false,
   instructions: "txt",
   raisesCold: true,
+  createdAt: "2026-06-12T15:33:27.546Z",
+  updatedAt: "2026-09-19T16:22:44.000Z",
 } as const satisfies StrengthExercise

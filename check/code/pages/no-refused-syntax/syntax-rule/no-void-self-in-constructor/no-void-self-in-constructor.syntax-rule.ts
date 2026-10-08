@@ -35,4 +35,6 @@ export const noVoidSelfInConstructor = {
         "The two constructor names are written here rather than read from the game's own types.",
     },
   ],
+  createdAt: "2026-09-08T19:43:17.609Z",
+  updatedAt: "2026-09-15T17:45:04.000Z",
 } as const satisfies SyntaxRule

@@ -46,4 +46,6 @@ export const noDoubleCast = {
         "A helper taking `unknown` and asserting a type is a double cast this rule leaves.",
     },
   ],
+  createdAt: "2026-08-30T00:31:49.218Z",
+  updatedAt: "2026-09-15T17:45:04.000Z",
 } as const satisfies SyntaxRule

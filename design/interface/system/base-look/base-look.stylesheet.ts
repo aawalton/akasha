@@ -6,4 +6,6 @@ export const baseLook = {
   slug: "base-look",
   definition: "how the page body, the chrome around it and its scrollbars are dressed",
   styles: "css",
+  createdAt: "2026-09-01T10:48:05.962Z",
+  updatedAt: "2026-09-15T17:42:58.000Z",
 } as const satisfies Stylesheet

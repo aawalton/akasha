@@ -14,4 +14,6 @@ export const tuesdayPull2026062327175e57BentOverTwoDumbbellRowSet2 = {
   day: "day/day-2026-06-23",
   setNumber: 2,
   weight: 30,
+  createdAt: "2026-06-23T18:19:11.072Z",
+  updatedAt: "2026-09-19T01:48:01.000Z",
 } as const satisfies StrengthLog

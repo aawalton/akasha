@@ -6,4 +6,6 @@ export const paused = {
   slug: "paused",
   pattern: "\\bpaused\\b",
   tabooSenses: [{ sense: "a seat present but not working", instead: "present with an idle turn" }],
+  createdAt: "2026-08-31T19:14:46.451Z",
+  updatedAt: "2026-09-15T17:45:26.000Z",
 } as const satisfies TabooTerm

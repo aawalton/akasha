@@ -17,4 +17,6 @@ export const plainNegation = {
       after: "Until then, the Counter won't lend her a single book.",
     },
   ],
+  createdAt: "2026-09-28T18:49:30.277Z",
+  updatedAt: "2026-09-28T18:49:32.000Z",
 } as const satisfies StyleRule

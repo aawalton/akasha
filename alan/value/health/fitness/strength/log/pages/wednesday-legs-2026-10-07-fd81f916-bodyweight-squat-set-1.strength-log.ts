@@ -13,4 +13,6 @@ export const wednesdayLegs20261007Fd81f916BodyweightSquatSet1 = {
   sessionSlug: "wednesday-legs-2026-10-07-fd81f916",
   day: "day/day-2026-10-07",
   setNumber: 1,
+  createdAt: "2026-10-07T10:04:23.713Z",
+  updatedAt: "2026-10-07T10:11:25.000Z",
 } as const satisfies StrengthLog

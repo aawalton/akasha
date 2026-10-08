@@ -83,4 +83,6 @@ export const noSecondExitCode = {
       statement: "A name read from another page rather than from a number is not seen.",
     },
   ],
+  createdAt: "2026-09-12T05:08:27.628Z",
+  updatedAt: "2026-09-22T14:40:36.000Z",
 } as const satisfies SyntaxRule

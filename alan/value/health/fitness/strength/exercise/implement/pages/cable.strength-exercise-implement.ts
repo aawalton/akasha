@@ -5,4 +5,6 @@ export const cable = {
   type: "page-type/strength-exercise-implement",
   slug: "cable",
   definition: "a stack of plates drawn through a pulley on a cable",
+  createdAt: "2026-09-12T05:25:56.336Z",
+  updatedAt: "2026-09-15T17:42:17.000Z",
 } as const satisfies StrengthExerciseImplement

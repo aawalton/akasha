@@ -13,4 +13,6 @@ export const stand = {
     { sense: "putting something up", instead: "sets up, or puts up" },
     { sense: "being the only one", instead: "is alone, or is the only one" },
   ],
+  createdAt: "2026-09-01T12:42:32.493Z",
+  updatedAt: "2026-09-15T17:45:26.000Z",
 } as const satisfies TabooTerm

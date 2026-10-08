@@ -5,4 +5,6 @@ export const spotify = {
   type: "page-type/sync",
   slug: "spotify",
   syncRuns: "jsonl",
+  createdAt: "2026-09-13T20:44:12.460Z",
+  updatedAt: "2026-09-15T17:44:40.000Z",
 } as const satisfies Sync

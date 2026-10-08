@@ -11,4 +11,6 @@ export const claim = {
       instead: "what it is required reading for",
     },
   ],
+  createdAt: "2026-08-31T19:14:46.432Z",
+  updatedAt: "2026-09-15T17:45:26.000Z",
 } as const satisfies TabooTerm

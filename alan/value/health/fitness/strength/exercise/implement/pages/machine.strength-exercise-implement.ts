@@ -5,4 +5,6 @@ export const machine = {
   type: "page-type/strength-exercise-implement",
   slug: "machine",
   definition: "a frame holding the weight on one path the body follows",
+  createdAt: "2026-09-12T05:26:32.283Z",
+  updatedAt: "2026-09-15T17:42:17.000Z",
 } as const satisfies StrengthExerciseImplement

@@ -6,4 +6,6 @@ export const chessBoardLook = {
   slug: "chess-board-look",
   definition: "how a chess board and its evaluation bar are dressed in a browser",
   styles: "css",
+  createdAt: "2026-09-01T06:38:44.741Z",
+  updatedAt: "2026-09-15T17:42:58.000Z",
 } as const satisfies Stylesheet

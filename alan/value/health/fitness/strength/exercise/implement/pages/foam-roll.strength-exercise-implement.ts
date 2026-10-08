@@ -5,4 +5,6 @@ export const foamRoll = {
   type: "page-type/strength-exercise-implement",
   slug: "foam-roll",
   definition: "a foam cylinder the body is rolled along",
+  createdAt: "2026-09-12T05:26:20.303Z",
+  updatedAt: "2026-09-15T17:42:17.000Z",
 } as const satisfies StrengthExerciseImplement

@@ -6,4 +6,6 @@ export const project = {
   slug: "project",
   pattern: "(?<![-./$_])\\bproject\\b(?![-/_]|\\.\\w)",
   tabooSenses: [{ sense: "a unit of work serving an initiative", instead: "initiative" }],
+  createdAt: "2026-08-31T19:14:46.454Z",
+  updatedAt: "2026-09-15T17:45:26.000Z",
 } as const satisfies TabooTerm

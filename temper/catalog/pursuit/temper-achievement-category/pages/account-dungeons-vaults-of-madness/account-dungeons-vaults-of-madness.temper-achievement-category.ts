@@ -9,4 +9,6 @@ export const accountDungeonsVaultsOfMadness = {
   displayOrder: 22,
   parent: "temper-achievement-category/account-dungeons",
   achievements: "jsonl",
+  createdAt: "2026-09-02T09:17:10.089Z",
+  updatedAt: "2026-09-22T20:48:07.000Z",
 } as const satisfies TemperAchievementCategory

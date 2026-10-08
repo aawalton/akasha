@@ -6,4 +6,6 @@ export const archiveOfWorldsWebLook = {
   slug: "archive-of-worlds-web-look",
   definition: "the look archiveofworlds.app wears, and the trees holding its utilities",
   styles: "css",
+  createdAt: "2026-09-03T04:23:43.671Z",
+  updatedAt: "2026-09-22T13:46:58.000Z",
 } as const satisfies Stylesheet

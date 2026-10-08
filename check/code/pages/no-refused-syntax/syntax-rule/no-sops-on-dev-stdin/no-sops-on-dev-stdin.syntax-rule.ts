@@ -50,4 +50,6 @@ export const noSopsOnDevStdin = {
       statement: "Only a whole literal sitting in the call is read.",
     },
   ],
+  createdAt: "2026-08-30T01:02:43.295Z",
+  updatedAt: "2026-09-15T17:45:04.000Z",
 } as const satisfies SyntaxRule

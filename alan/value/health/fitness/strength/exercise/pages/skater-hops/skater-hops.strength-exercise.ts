@@ -25,4 +25,6 @@ export const skaterHops = {
   exerciseSource: "aelwyn-custom",
   trainsLengthenedRange: false,
   instructions: "txt",
+  createdAt: "2026-09-19T02:15:58.891Z",
+  updatedAt: "2026-09-19T02:27:43.000Z",
 } as const satisfies StrengthExercise

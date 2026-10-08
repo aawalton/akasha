@@ -14,4 +14,6 @@ export const thursdayPush2026100821b73a7bInclinePushUpSet1 = {
   setNumber: 1,
   setPerformedAt: "2026-10-08T11:57:00.000Z",
   gym: "gym/rec-center",
+  createdAt: "2026-10-08T11:58:14.277Z",
+  updatedAt: "2026-10-08T11:58:16.000Z",
 } as const satisfies StrengthLog

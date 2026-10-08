@@ -8,4 +8,6 @@ export const draw = {
   tabooSenses: [
     { sense: "a document arriving with a read or sitting in a prompt", instead: "carried" },
   ],
+  createdAt: "2026-08-31T19:14:46.440Z",
+  updatedAt: "2026-09-15T17:45:26.000Z",
 } as const satisfies TabooTerm

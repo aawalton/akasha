@@ -9,4 +9,6 @@ export const slice = {
     { sense: "the unit a run judges", instead: "line" },
     { sense: "a child initiative", instead: "child initiative" },
   ],
+  createdAt: "2026-08-31T19:14:46.461Z",
+  updatedAt: "2026-09-15T17:45:26.000Z",
 } as const satisfies TabooTerm

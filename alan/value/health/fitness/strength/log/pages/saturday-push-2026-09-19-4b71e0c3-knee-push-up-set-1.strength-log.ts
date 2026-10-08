@@ -13,4 +13,6 @@ export const saturdayPush202609194b71e0c3KneePushUpSet1 = {
   day: "day/day-2026-09-19",
   setNumber: 1,
   setPerformedAt: "2026-09-19T16:39:23.000Z",
+  createdAt: "2026-09-19T16:39:29.327Z",
+  updatedAt: "2026-09-19T16:40:18.000Z",
 } as const satisfies StrengthLog

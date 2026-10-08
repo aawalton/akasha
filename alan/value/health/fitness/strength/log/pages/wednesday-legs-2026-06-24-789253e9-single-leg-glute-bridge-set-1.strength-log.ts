@@ -13,4 +13,6 @@ export const wednesdayLegs20260624789253e9SingleLegGluteBridgeSet1 = {
   day: "day/day-2026-06-24",
   setNumber: 1,
   weight: 0,
+  createdAt: "2026-06-24T16:51:11.264Z",
+  updatedAt: "2026-09-19T01:48:01.000Z",
 } as const satisfies StrengthLog

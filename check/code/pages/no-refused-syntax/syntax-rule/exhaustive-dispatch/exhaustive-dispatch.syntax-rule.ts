@@ -47,4 +47,6 @@ export const exhaustiveDispatch = {
       statement: "Only `assertNever` is known by name here.",
     },
   ],
+  createdAt: "2026-08-30T00:24:13.963Z",
+  updatedAt: "2026-09-22T13:37:15.000Z",
 } as const satisfies SyntaxRule

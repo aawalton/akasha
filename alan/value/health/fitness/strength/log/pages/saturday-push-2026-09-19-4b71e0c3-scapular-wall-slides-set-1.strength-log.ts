@@ -13,4 +13,6 @@ export const saturdayPush202609194b71e0c3ScapularWallSlidesSet1 = {
   day: "day/day-2026-09-19",
   setNumber: 1,
   setPerformedAt: "2026-09-19T16:46:59.000Z",
+  createdAt: "2026-09-19T16:47:04.937Z",
+  updatedAt: "2026-09-19T16:47:30.000Z",
 } as const satisfies StrengthLog

@@ -13,4 +13,6 @@ export const fridayPull2026061918252e37HammerCurlsSet2 = {
   day: "day/day-2026-06-19",
   setNumber: 2,
   weight: 15,
+  createdAt: "2026-06-19T16:10:56.523Z",
+  updatedAt: "2026-09-19T01:48:01.000Z",
 } as const satisfies StrengthLog

@@ -43,4 +43,6 @@ export const noLibcByName = {
       statement: "A name written where the library is opened is seen.",
     },
   ],
+  createdAt: "2026-08-30T01:02:27.484Z",
+  updatedAt: "2026-09-15T17:45:04.000Z",
 } as const satisfies SyntaxRule

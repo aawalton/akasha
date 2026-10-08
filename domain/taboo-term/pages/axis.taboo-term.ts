@@ -6,4 +6,6 @@ export const axis = {
   slug: "axis",
   pattern: "\\baxis\\b",
   tabooSenses: [{ sense: "one thing a seat states itself on", instead: "slot" }],
+  createdAt: "2026-08-31T19:14:46.430Z",
+  updatedAt: "2026-09-15T17:45:26.000Z",
 } as const satisfies TabooTerm

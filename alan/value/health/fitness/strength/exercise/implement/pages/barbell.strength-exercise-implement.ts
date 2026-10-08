@@ -5,4 +5,6 @@ export const barbell = {
   type: "page-type/strength-exercise-implement",
   slug: "barbell",
   definition: "a long bar held in both hands and loaded at each end",
+  createdAt: "2026-09-12T05:25:44.690Z",
+  updatedAt: "2026-09-15T17:42:17.000Z",
 } as const satisfies StrengthExerciseImplement

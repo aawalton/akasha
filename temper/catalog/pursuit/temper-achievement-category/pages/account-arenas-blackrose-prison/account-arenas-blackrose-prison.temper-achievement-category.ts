@@ -10,4 +10,6 @@ export const accountArenasBlackrosePrison = {
   parent: "temper-achievement-category/account-arenas",
   achievements: "jsonl",
   activity: "temper-activity-category/arenas",
+  createdAt: "2026-09-02T09:17:10.091Z",
+  updatedAt: "2026-09-27T03:05:59.000Z",
 } as const satisfies TemperAchievementCategory

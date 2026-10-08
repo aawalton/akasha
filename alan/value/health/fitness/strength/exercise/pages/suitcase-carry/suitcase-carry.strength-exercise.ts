@@ -24,4 +24,6 @@ export const suitcaseCarry = {
   skillCost: "moderate",
   exerciseSource: "aelwyn-custom",
   trainsLengthenedRange: false,
+  createdAt: "2026-07-25T03:34:37.976Z",
+  updatedAt: "2026-09-15T17:41:57.000Z",
 } as const satisfies StrengthExercise

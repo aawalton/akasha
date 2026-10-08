@@ -32,4 +32,6 @@ export const pushPress = {
   skillCost: "high",
   exerciseSource: "free-exercise-db",
   trainsLengthenedRange: false,
+  createdAt: "2026-06-12T15:33:47.056Z",
+  updatedAt: "2026-09-15T17:41:15.000Z",
 } as const satisfies StrengthExercise

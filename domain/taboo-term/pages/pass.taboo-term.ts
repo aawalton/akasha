@@ -6,4 +6,6 @@ export const pass = {
   slug: "pass",
   pattern: '(?<!\\d )\\bpass\\b(?!")',
   tabooSenses: [{ sense: "one run of a task by one seat", instead: "run or reading" }],
+  createdAt: "2026-08-31T19:14:46.450Z",
+  updatedAt: "2026-09-15T17:45:26.000Z",
 } as const satisfies TabooTerm

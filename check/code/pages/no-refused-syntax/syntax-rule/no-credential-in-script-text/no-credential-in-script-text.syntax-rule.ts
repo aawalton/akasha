@@ -86,4 +86,6 @@ export const noCredentialInScriptText = {
         "The harness the rule guards sits outside the akasha folder until the harness moves inside.",
     },
   ],
+  createdAt: "2026-08-30T01:04:07.796Z",
+  updatedAt: "2026-09-15T17:45:04.000Z",
 } as const satisfies SyntaxRule

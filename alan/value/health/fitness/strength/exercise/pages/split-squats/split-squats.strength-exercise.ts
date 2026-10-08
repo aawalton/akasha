@@ -31,4 +31,6 @@ export const splitSquats = {
   exerciseSource: "free-exercise-db",
   trainsLengthenedRange: true,
   instructions: "txt",
+  createdAt: "2026-06-12T15:34:34.130Z",
+  updatedAt: "2026-09-15T17:41:38.000Z",
 } as const satisfies StrengthExercise

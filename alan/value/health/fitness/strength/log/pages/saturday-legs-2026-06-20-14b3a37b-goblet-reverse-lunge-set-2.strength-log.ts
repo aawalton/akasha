@@ -14,4 +14,6 @@ export const saturdayLegs2026062014b3a37bGobletReverseLungeSet2 = {
   day: "day/day-2026-06-20",
   setNumber: 2,
   weight: 25,
+  createdAt: "2026-06-20T16:56:28.469Z",
+  updatedAt: "2026-09-19T01:48:01.000Z",
 } as const satisfies StrengthLog

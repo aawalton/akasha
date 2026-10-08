@@ -12,4 +12,6 @@ export const mondayPush2026092197a19268SingleLegGluteBridgeSet1 = {
   day: "day/day-2026-09-21",
   setNumber: 1,
   setPerformedAt: "2026-09-21T14:00:54.000Z",
+  createdAt: "2026-09-21T14:01:25.827Z",
+  updatedAt: "2026-09-21T14:01:33.000Z",
 } as const satisfies StrengthLog

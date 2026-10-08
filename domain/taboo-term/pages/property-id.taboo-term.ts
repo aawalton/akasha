@@ -11,4 +11,6 @@ export const propertyId = {
       instead: "propertySlug",
     },
   ],
+  createdAt: "2026-08-31T20:46:43.922Z",
+  updatedAt: "2026-09-15T17:45:26.000Z",
 } as const satisfies TabooTerm

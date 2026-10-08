@@ -42,4 +42,6 @@ export const reverseBandSumoDeadlift = {
   exerciseSource: "free-exercise-db",
   trainsLengthenedRange: false,
   instructions: "txt",
+  createdAt: "2026-06-12T15:33:48.259Z",
+  updatedAt: "2026-09-15T17:41:15.000Z",
 } as const satisfies StrengthExercise

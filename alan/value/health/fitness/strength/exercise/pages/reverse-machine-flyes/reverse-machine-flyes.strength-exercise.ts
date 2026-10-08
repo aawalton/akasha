@@ -32,4 +32,6 @@ export const reverseMachineFlyes = {
   exerciseSource: "free-exercise-db",
   trainsLengthenedRange: true,
   instructions: "txt",
+  createdAt: "2026-06-12T15:33:48.906Z",
+  updatedAt: "2026-09-15T17:41:38.000Z",
 } as const satisfies StrengthExercise

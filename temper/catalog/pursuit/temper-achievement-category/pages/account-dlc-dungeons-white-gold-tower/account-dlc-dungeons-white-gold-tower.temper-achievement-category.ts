@@ -10,4 +10,6 @@ export const accountDlcDungeonsWhiteGoldTower = {
   parent: "temper-achievement-category/account-dlc-dungeons",
   achievements: "jsonl",
   activity: "temper-activity-category/group-dungeons",
+  createdAt: "2026-09-02T09:17:10.090Z",
+  updatedAt: "2026-09-27T03:05:59.000Z",
 } as const satisfies TemperAchievementCategory

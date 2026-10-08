@@ -6,4 +6,6 @@ export const alanAtlasWebLook = {
   slug: "alan-atlas-web-look",
   definition: "the look Atlas wears, and the trees holding its utilities",
   styles: "css",
+  createdAt: "2026-09-03T04:24:01.072Z",
+  updatedAt: "2026-09-22T13:42:40.000Z",
 } as const satisfies Stylesheet

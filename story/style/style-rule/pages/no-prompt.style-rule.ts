@@ -21,4 +21,6 @@ export const noPrompt = {
       after: '"Take," she says quietly, and smiles at you.',
     },
   ],
+  createdAt: "2026-09-27T12:56:52.932Z",
+  updatedAt: "2026-09-30T20:04:05.000Z",
 } as const satisfies StyleRule

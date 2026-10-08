@@ -13,4 +13,6 @@ export const letThemTalk = {
     "Let the words show what a line means; never say how it was meant.",
     "Play a talk that matters as talk, and let one line answer another.",
   ],
+  createdAt: "2026-10-07T00:14:02.316Z",
+  updatedAt: "2026-10-07T00:14:05.000Z",
 } as const satisfies StyleRule

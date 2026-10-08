@@ -5,4 +5,6 @@ export const bodyOnly = {
   type: "page-type/strength-exercise-implement",
   slug: "body-only",
   definition: "the weight of Alan's own body and nothing besides",
+  createdAt: "2026-09-12T05:25:50.598Z",
+  updatedAt: "2026-09-15T17:42:17.000Z",
 } as const satisfies StrengthExerciseImplement

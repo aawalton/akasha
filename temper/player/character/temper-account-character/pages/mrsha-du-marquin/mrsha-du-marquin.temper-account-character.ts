@@ -10,4 +10,6 @@ export const mrshaDuMarquin = {
   esoCharacterId: "8796093045924843",
   accountPage: "temper-account/alanarre",
   firstName: "Mrsha",
+  createdAt: "2026-04-29T16:44:25.366Z",
+  updatedAt: "2026-09-24T16:26:32.000Z",
 } as const satisfies TemperAccountCharacter

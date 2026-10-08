@@ -18,4 +18,6 @@ export const nobodyActs = {
       after: "Every head at the base of the rope stays down.",
     },
   ],
+  createdAt: "2026-09-26T16:47:14.313Z",
+  updatedAt: "2026-09-26T16:47:18.000Z",
 } as const satisfies StyleRule

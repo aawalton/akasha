@@ -32,4 +32,6 @@ export const wristCircles = {
   exerciseSource: "free-exercise-db",
   trainsLengthenedRange: false,
   instructions: "txt",
+  createdAt: "2026-06-12T15:34:51.248Z",
+  updatedAt: "2026-09-15T17:41:57.000Z",
 } as const satisfies StrengthExercise

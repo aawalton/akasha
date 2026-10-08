@@ -12,4 +12,6 @@ export const fork = {
       statement: "A fork starts with the whole of its seat's context rather than with a prompt.",
     },
   ],
+  createdAt: "2026-09-25T14:16:14.049Z",
+  updatedAt: "2026-09-25T14:16:19.000Z",
 } as const satisfies SubagentKind

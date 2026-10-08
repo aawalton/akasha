@@ -11,4 +11,6 @@ export const restart = {
       statement: "This action waits for the end of the agent's turn.",
     },
   ],
+  createdAt: "2026-09-01T21:23:28.897Z",
+  updatedAt: "2026-09-15T17:44:21.000Z",
 } as const satisfies SupervisorAction

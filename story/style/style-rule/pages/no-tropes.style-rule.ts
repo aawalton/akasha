@@ -21,4 +21,6 @@ export const noTropes = {
         'Tamsin looked at the clean bandage for a long time. "Huh," she said, and flexed her hand.',
     },
   ],
+  createdAt: "2026-10-03T20:07:26.263Z",
+  updatedAt: "2026-10-03T20:08:08.000Z",
 } as const satisfies StyleRule

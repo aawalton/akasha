@@ -24,4 +24,6 @@ export const wallSit = {
   skillCost: "moderate",
   exerciseSource: "aelwyn-custom",
   trainsLengthenedRange: false,
+  createdAt: "2026-06-24T23:37:28.027Z",
+  updatedAt: "2026-09-15T17:41:57.000Z",
 } as const satisfies StrengthExercise

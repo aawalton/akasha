@@ -20,4 +20,6 @@ export const leaveItOpen = {
       after: "She reaches out and taps your chest once. Her grin turns sly.",
     },
   ],
+  createdAt: "2026-09-27T14:47:59.659Z",
+  updatedAt: "2026-09-27T14:48:02.000Z",
 } as const satisfies StyleRule

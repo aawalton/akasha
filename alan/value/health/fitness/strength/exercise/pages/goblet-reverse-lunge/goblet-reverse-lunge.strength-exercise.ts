@@ -25,4 +25,6 @@ export const gobletReverseLunge = {
   exerciseSource: "aelwyn-custom",
   trainsLengthenedRange: false,
   instructions: "txt",
+  createdAt: "2026-06-20T16:57:56.707Z",
+  updatedAt: "2026-09-15T17:40:49.000Z",
 } as const satisfies StrengthExercise

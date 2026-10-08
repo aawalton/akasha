@@ -6,4 +6,6 @@ export const smilingjennyWebLook = {
   slug: "smilingjenny-web-look",
   definition: "the look Jenny's site wears, and the trees holding its utilities",
   styles: "css",
+  createdAt: "2026-09-03T03:38:30.988Z",
+  updatedAt: "2026-09-22T13:52:13.000Z",
 } as const satisfies Stylesheet

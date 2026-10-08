@@ -6,4 +6,6 @@ export const falsified = {
   slug: "falsified",
   pattern: "\\bfalsified\\b",
   tabooSenses: [{ sense: "made untrue by a change you landed", instead: "made untrue" }],
+  createdAt: "2026-08-31T19:14:46.442Z",
+  updatedAt: "2026-09-15T17:45:26.000Z",
 } as const satisfies TabooTerm

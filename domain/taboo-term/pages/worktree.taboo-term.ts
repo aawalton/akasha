@@ -11,4 +11,6 @@ export const worktree = {
       instead: "the files on disk, the checkout, or the checkout's files",
     },
   ],
+  createdAt: "2026-09-22T16:55:48.818Z",
+  updatedAt: "2026-09-22T16:55:53.000Z",
 } as const satisfies TabooTerm

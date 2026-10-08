@@ -14,4 +14,6 @@ export const saturdayLegs2026062014b3a37bRomanianDeadliftSet1 = {
   day: "day/day-2026-06-20",
   setNumber: 1,
   weight: 30,
+  createdAt: "2026-06-20T16:52:45.617Z",
+  updatedAt: "2026-09-19T01:48:01.000Z",
 } as const satisfies StrengthLog

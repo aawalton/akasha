@@ -22,4 +22,6 @@ export const handGripper = {
   skillCost: "low",
   exerciseSource: "aelwyn-custom",
   trainsLengthenedRange: false,
+  createdAt: "2026-06-27T19:59:16.354Z",
+  updatedAt: "2026-09-18T22:59:56.000Z",
 } as const satisfies StrengthExercise

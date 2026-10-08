@@ -13,4 +13,6 @@ export const saturdayPush202609194b71e0c3BodyweightReverseLungeSet1 = {
   day: "day/day-2026-09-19",
   setNumber: 1,
   setPerformedAt: "2026-09-19T16:44:28.000Z",
+  createdAt: "2026-09-19T16:44:34.556Z",
+  updatedAt: "2026-09-19T16:44:56.000Z",
 } as const satisfies StrengthLog

@@ -8,4 +8,6 @@ export const researcher = {
   tabooSenses: [
     { sense: "the role that read a body of material", instead: "a read-only subagent" },
   ],
+  createdAt: "2026-08-31T19:14:46.457Z",
+  updatedAt: "2026-09-15T17:45:26.000Z",
 } as const satisfies TabooTerm

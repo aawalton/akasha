@@ -50,4 +50,6 @@ export const noLocalMidnightParse = {
       statement: "A midnight held in a variable and joined on in a later statement is not seen.",
     },
   ],
+  createdAt: "2026-08-30T01:00:52.509Z",
+  updatedAt: "2026-09-22T14:40:36.000Z",
 } as const satisfies SyntaxRule

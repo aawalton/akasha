@@ -43,4 +43,6 @@ export const noVoidSelfInObjectMethod = {
       statement: "A method put onto an object after the literal is written is not seen.",
     },
   ],
+  createdAt: "2026-08-30T01:03:04.087Z",
+  updatedAt: "2026-09-15T17:45:04.000Z",
 } as const satisfies SyntaxRule

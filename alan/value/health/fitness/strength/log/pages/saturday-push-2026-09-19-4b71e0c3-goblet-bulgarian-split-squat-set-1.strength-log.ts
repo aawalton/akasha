@@ -14,4 +14,6 @@ export const saturdayPush202609194b71e0c3GobletBulgarianSplitSquatSet1 = {
   setNumber: 1,
   weight: 10,
   setPerformedAt: "2026-09-19T17:06:58.000Z",
+  createdAt: "2026-09-19T17:07:30.045Z",
+  updatedAt: "2026-09-19T17:07:53.000Z",
 } as const satisfies StrengthLog

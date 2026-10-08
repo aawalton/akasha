@@ -25,4 +25,6 @@ export const reverseLungeSteps = {
   exerciseSource: "aelwyn-custom",
   trainsLengthenedRange: false,
   instructions: "txt",
+  createdAt: "2026-09-19T15:44:18.570Z",
+  updatedAt: "2026-09-19T15:45:04.000Z",
 } as const satisfies StrengthExercise

@@ -5,4 +5,6 @@ export const outbound = {
   type: "page-type/telnyx-account",
   slug: "outbound",
   fromNumber: "+13854830021",
+  createdAt: "2026-09-03T17:50:10.593Z",
+  updatedAt: "2026-09-16T13:59:30.000Z",
 } as const satisfies TelnyxAccount

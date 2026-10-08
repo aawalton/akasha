@@ -29,4 +29,6 @@ export const noNeverSettlingThrow = {
       statement: "A Promise reached through any object is read as a promise.",
     },
   ],
+  createdAt: "2026-09-08T20:58:44.913Z",
+  updatedAt: "2026-09-15T17:45:04.000Z",
 } as const satisfies SyntaxRule

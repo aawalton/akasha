@@ -8,4 +8,6 @@ export const corpus = {
   tabooSenses: [
     { sense: "a set of things treated as one body", instead: "named for what the things are" },
   ],
+  createdAt: "2026-08-31T19:14:46.435Z",
+  updatedAt: "2026-09-15T17:45:26.000Z",
 } as const satisfies TabooTerm

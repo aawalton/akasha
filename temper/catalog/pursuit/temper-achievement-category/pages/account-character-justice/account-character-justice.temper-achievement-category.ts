@@ -10,4 +10,6 @@ export const accountCharacterJustice = {
   parent: "temper-achievement-category/account-character",
   achievements: "jsonl",
   activity: "temper-activity-category/other",
+  createdAt: "2026-09-02T09:17:10.086Z",
+  updatedAt: "2026-09-27T03:05:59.000Z",
 } as const satisfies TemperAchievementCategory

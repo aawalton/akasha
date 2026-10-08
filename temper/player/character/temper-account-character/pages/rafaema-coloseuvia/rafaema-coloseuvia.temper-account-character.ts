@@ -10,4 +10,6 @@ export const rafaemaColoseuvia = {
   esoCharacterId: "8796093041077699",
   accountPage: "temper-account/alanarre",
   firstName: "Rafaema",
+  createdAt: "2026-04-29T16:44:22.403Z",
+  updatedAt: "2026-09-24T16:26:32.000Z",
 } as const satisfies TemperAccountCharacter

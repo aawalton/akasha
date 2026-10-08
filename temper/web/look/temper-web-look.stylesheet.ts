@@ -20,4 +20,6 @@ export const temperWebLook = {
       statement: "A class no source spells is emitted only by being named inline here.",
     },
   ],
+  createdAt: "2026-09-02T21:38:53.839Z",
+  updatedAt: "2026-09-22T13:47:34.000Z",
 } as const satisfies Stylesheet

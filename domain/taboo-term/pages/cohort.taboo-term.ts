@@ -8,4 +8,6 @@ export const cohort = {
   tabooSenses: [
     { sense: "everything an instrument looked at", instead: "the instrument population" },
   ],
+  createdAt: "2026-08-31T19:14:46.433Z",
+  updatedAt: "2026-09-15T17:45:26.000Z",
 } as const satisfies TabooTerm

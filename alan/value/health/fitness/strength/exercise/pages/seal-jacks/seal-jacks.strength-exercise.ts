@@ -25,4 +25,6 @@ export const sealJacks = {
   exerciseSource: "aelwyn-custom",
   trainsLengthenedRange: false,
   instructions: "txt",
+  createdAt: "2026-09-19T15:42:32.311Z",
+  updatedAt: "2026-09-19T15:45:04.000Z",
 } as const satisfies StrengthExercise

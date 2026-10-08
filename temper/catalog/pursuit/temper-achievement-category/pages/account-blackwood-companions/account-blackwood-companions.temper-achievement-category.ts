@@ -10,4 +10,6 @@ export const accountBlackwoodCompanions = {
   parent: "temper-achievement-category/account-blackwood",
   achievements: "jsonl",
   activity: "temper-activity-category/companions",
+  createdAt: "2026-09-02T09:17:10.094Z",
+  updatedAt: "2026-09-27T03:05:59.000Z",
 } as const satisfies TemperAchievementCategory

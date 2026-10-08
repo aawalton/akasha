@@ -7,4 +7,6 @@ export const generalPurpose = {
   definition: "a subagent for work of no particular shape",
   dispatchedAs: "general-purpose",
   subagentPrompt: "md",
+  createdAt: "2026-09-03T17:47:25.668Z",
+  updatedAt: "2026-09-15T17:44:01.000Z",
 } as const satisfies SubagentKind

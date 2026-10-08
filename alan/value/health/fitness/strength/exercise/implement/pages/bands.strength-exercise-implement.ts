@@ -5,4 +5,6 @@ export const bands = {
   type: "page-type/strength-exercise-implement",
   slug: "bands",
   definition: "elastic bands whose pull rises as the band stretches",
+  createdAt: "2026-09-12T05:25:38.767Z",
+  updatedAt: "2026-09-15T17:42:17.000Z",
 } as const satisfies StrengthExerciseImplement

@@ -6,4 +6,6 @@ export const wanderingInnWikiWebLook = {
   slug: "wandering-inn-wiki-web-look",
   definition: "the look innworld.wiki wears, and the trees holding its utilities",
   styles: "css",
+  createdAt: "2026-09-21T22:00:29.006Z",
+  updatedAt: "2026-09-22T13:52:13.000Z",
 } as const satisfies Stylesheet

@@ -10,4 +10,6 @@ export const theDeathOfChains = {
   esoCharacterId: "8796093072550001",
   accountPage: "temper-account/alanarre",
   firstName: "The Death of Chains",
+  createdAt: "2026-04-29T16:44:15.053Z",
+  updatedAt: "2026-09-24T16:26:32.000Z",
 } as const satisfies TemperAccountCharacter

@@ -25,4 +25,6 @@ export const gobletBulgarianSplitSquat = {
   exerciseSource: "aelwyn-custom",
   trainsLengthenedRange: true,
   instructions: "txt",
+  createdAt: "2026-06-20T17:03:00.924Z",
+  updatedAt: "2026-09-15T17:40:49.000Z",
 } as const satisfies StrengthExercise

@@ -93,4 +93,6 @@ export const noSwallowedRead = {
       statement: "A catch that never names the caught failure has dropped the failure.",
     },
   ],
+  createdAt: "2026-08-30T10:27:58.502Z",
+  updatedAt: "2026-09-15T17:45:04.000Z",
 } as const satisfies SyntaxRule

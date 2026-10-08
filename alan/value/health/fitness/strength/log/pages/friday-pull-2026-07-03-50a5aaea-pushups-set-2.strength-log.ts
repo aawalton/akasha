@@ -13,4 +13,6 @@ export const fridayPull2026070350a5aaeaPushupsSet2 = {
   sessionSlug: "friday-pull-2026-07-03-50a5aaea",
   day: "day/day-2026-07-03",
   setNumber: 2,
+  createdAt: "2026-07-03T18:19:13.994Z",
+  updatedAt: "2026-09-19T01:48:01.000Z",
 } as const satisfies StrengthLog

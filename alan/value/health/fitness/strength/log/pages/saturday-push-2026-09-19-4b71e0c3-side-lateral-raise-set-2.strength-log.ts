@@ -15,4 +15,6 @@ export const saturdayPush202609194b71e0c3SideLateralRaiseSet2 = {
   setNumber: 2,
   weight: 10,
   setPerformedAt: "2026-09-19T17:01:42.000Z",
+  createdAt: "2026-09-19T17:01:48.562Z",
+  updatedAt: "2026-09-19T17:02:12.000Z",
 } as const satisfies StrengthLog

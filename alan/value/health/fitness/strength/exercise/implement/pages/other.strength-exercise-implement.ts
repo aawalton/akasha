@@ -5,4 +5,6 @@ export const other = {
   type: "page-type/strength-exercise-implement",
   slug: "other",
   definition: "kit no other page here names",
+  createdAt: "2026-09-12T05:26:44.297Z",
+  updatedAt: "2026-09-15T17:42:17.000Z",
 } as const satisfies StrengthExerciseImplement

@@ -14,4 +14,6 @@ export const wednesdayLegs20261007Fd81f916DumbbellSquatSet2 = {
   day: "day/day-2026-10-07",
   setNumber: 2,
   weight: 40,
+  createdAt: "2026-10-07T10:05:04.944Z",
+  updatedAt: "2026-10-07T10:11:25.000Z",
 } as const satisfies StrengthLog

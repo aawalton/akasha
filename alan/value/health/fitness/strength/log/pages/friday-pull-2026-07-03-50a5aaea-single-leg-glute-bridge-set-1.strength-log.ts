@@ -13,4 +13,6 @@ export const fridayPull2026070350a5aaeaSingleLegGluteBridgeSet1 = {
   sessionSlug: "friday-pull-2026-07-03-50a5aaea",
   day: "day/day-2026-07-03",
   setNumber: 1,
+  createdAt: "2026-07-03T18:27:22.505Z",
+  updatedAt: "2026-09-19T01:48:01.000Z",
 } as const satisfies StrengthLog

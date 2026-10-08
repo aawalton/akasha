@@ -11,4 +11,6 @@ export const swapGateway = {
       statement: "This action leaves the agent running.",
     },
   ],
+  createdAt: "2026-09-01T21:27:15.404Z",
+  updatedAt: "2026-09-22T20:23:37.000Z",
 } as const satisfies SupervisorAction

@@ -8,4 +8,6 @@ export const retired = {
   tabooSenses: [
     { sense: "a seat ended so that nothing could be returned to it", instead: "stopped" },
   ],
+  createdAt: "2026-08-31T19:14:46.458Z",
+  updatedAt: "2026-09-15T17:45:26.000Z",
 } as const satisfies TabooTerm

@@ -13,4 +13,6 @@ export const saturdayPush202609194b71e0c3DynamicChestStretchSet1 = {
   day: "day/day-2026-09-19",
   setNumber: 1,
   setPerformedAt: "2026-09-19T16:51:13.000Z",
+  createdAt: "2026-09-19T16:51:20.246Z",
+  updatedAt: "2026-09-19T16:51:40.000Z",
 } as const satisfies StrengthLog

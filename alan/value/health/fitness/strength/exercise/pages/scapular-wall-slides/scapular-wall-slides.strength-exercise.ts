@@ -26,4 +26,6 @@ export const scapularWallSlides = {
   trainsLengthenedRange: false,
   instructions: "txt",
   raisesCold: true,
+  createdAt: "2026-09-19T15:43:12.477Z",
+  updatedAt: "2026-09-19T16:22:44.000Z",
 } as const satisfies StrengthExercise

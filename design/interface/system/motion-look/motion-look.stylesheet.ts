@@ -6,4 +6,6 @@ export const motionLook = {
   slug: "motion-look",
   definition: "the keyframes a thing moves by and the classes that run them",
   styles: "css",
+  createdAt: "2026-09-01T10:48:05.962Z",
+  updatedAt: "2026-09-15T17:42:58.000Z",
 } as const satisfies Stylesheet

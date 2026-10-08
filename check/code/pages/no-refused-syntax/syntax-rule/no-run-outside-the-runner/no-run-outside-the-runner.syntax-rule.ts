@@ -43,4 +43,6 @@ export const noRunOutsideTheRunner = {
       statement: "No run outside the runner is kept as permitted.",
     },
   ],
+  createdAt: "2026-09-01T14:38:32.239Z",
+  updatedAt: "2026-09-15T19:09:55.000Z",
 } as const satisfies SyntaxRule

@@ -59,4 +59,6 @@ export const noCallBuiltAsItRuns = {
       statement: "A name built as the code runs that names no call is not judged.",
     },
   ],
+  createdAt: "2026-09-12T09:59:28.107Z",
+  updatedAt: "2026-09-15T17:45:04.000Z",
 } as const satisfies SyntaxRule

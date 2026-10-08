@@ -26,4 +26,6 @@ export const kneePushUp = {
   trainsLengthenedRange: false,
   instructions: "txt",
   raisesCold: true,
+  createdAt: "2026-09-19T16:35:41.186Z",
+  updatedAt: "2026-09-19T16:36:22.000Z",
 } as const satisfies StrengthExercise

@@ -5,4 +5,6 @@ export const exerciseBall = {
   type: "page-type/strength-exercise-implement",
   slug: "exercise-ball",
   definition: "a large inflated ball bracing the body",
+  createdAt: "2026-09-12T05:26:14.459Z",
+  updatedAt: "2026-09-22T13:48:15.000Z",
 } as const satisfies StrengthExerciseImplement

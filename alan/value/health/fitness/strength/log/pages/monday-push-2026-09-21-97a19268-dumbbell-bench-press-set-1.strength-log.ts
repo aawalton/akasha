@@ -14,4 +14,6 @@ export const mondayPush2026092197a19268DumbbellBenchPressSet1 = {
   setNumber: 1,
   weight: 30,
   setPerformedAt: "2026-09-21T14:31:23.000Z",
+  createdAt: "2026-09-21T14:31:29.323Z",
+  updatedAt: "2026-09-21T14:31:37.000Z",
 } as const satisfies StrengthLog

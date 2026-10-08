@@ -10,4 +10,6 @@ export const surface = {
     "the reads a module or an index offers to whatever reaches it",
     "the layered plane a piece of interface is shown on",
   ],
+  createdAt: "2026-08-31T19:14:46.463Z",
+  updatedAt: "2026-09-15T17:45:26.000Z",
 } as const satisfies TabooTerm

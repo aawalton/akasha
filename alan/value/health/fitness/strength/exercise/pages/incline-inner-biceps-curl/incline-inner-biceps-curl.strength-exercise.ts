@@ -31,4 +31,6 @@ export const inclineInnerBicepsCurl = {
   exerciseSource: "free-exercise-db",
   trainsLengthenedRange: false,
   instructions: "txt",
+  createdAt: "2026-06-12T15:33:27.489Z",
+  updatedAt: "2026-09-15T17:40:49.000Z",
 } as const satisfies StrengthExercise

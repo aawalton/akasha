@@ -8,4 +8,6 @@ export const dormant = {
   tabooSenses: [
     { sense: "a seat with no process in it that a message would bring back", instead: "absent" },
   ],
+  createdAt: "2026-08-31T19:14:46.439Z",
+  updatedAt: "2026-09-15T17:45:26.000Z",
 } as const satisfies TabooTerm

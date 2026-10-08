@@ -76,4 +76,6 @@ export const noAkashaCommandFromCode = {
       statement: "The folder an import opens with carries a path after it, so the mark passes it.",
     },
   ],
+  createdAt: "2026-09-01T00:53:40.589Z",
+  updatedAt: "2026-09-18T14:03:11.000Z",
 } as const satisfies SyntaxRule

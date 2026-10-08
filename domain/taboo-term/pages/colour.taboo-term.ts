@@ -6,4 +6,6 @@ export const colour = {
   slug: "colour",
   pattern: "\\bcolour\\b",
   tabooSenses: [{ sense: "a color, spelled the British way", instead: "color" }],
+  createdAt: "2026-08-31T19:14:46.434Z",
+  updatedAt: "2026-09-15T17:45:26.000Z",
 } as const satisfies TabooTerm

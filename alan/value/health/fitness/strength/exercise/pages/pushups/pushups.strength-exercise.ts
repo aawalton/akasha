@@ -32,4 +32,6 @@ export const pushups = {
   exerciseSource: "free-exercise-db",
   trainsLengthenedRange: false,
   instructions: "txt",
+  createdAt: "2026-06-12T15:33:47.246Z",
+  updatedAt: "2026-09-19T16:36:22.000Z",
 } as const satisfies StrengthExercise

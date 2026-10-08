@@ -15,4 +15,6 @@ export const mondayPush2026092197a19268AdvancedKettlebellWindmillSet2 = {
   setNumber: 2,
   weight: 10,
   setPerformedAt: "2026-09-21T14:22:55.000Z",
+  createdAt: "2026-09-21T14:23:01.778Z",
+  updatedAt: "2026-09-21T14:23:10.000Z",
 } as const satisfies StrengthLog

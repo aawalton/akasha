@@ -33,4 +33,6 @@ export const leverageShoulderPress = {
   exerciseSource: "free-exercise-db",
   trainsLengthenedRange: false,
   instructions: "txt",
+  createdAt: "2026-06-12T15:33:32.666Z",
+  updatedAt: "2026-09-15T17:41:15.000Z",
 } as const satisfies StrengthExercise

@@ -14,4 +14,6 @@ export const fridayPull20260626105c11ffSeatedBentOverRearDeltRaiseSet1 = {
   day: "day/day-2026-06-26",
   setNumber: 1,
   weight: 10,
+  createdAt: "2026-06-26T19:03:40.519Z",
+  updatedAt: "2026-09-19T01:48:01.000Z",
 } as const satisfies StrengthLog

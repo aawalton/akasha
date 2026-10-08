@@ -14,4 +14,6 @@ export const mondayPush2026092197a19268StandingDumbbellTricepsExtensionSet1 = {
   setNumber: 1,
   weight: 15,
   setPerformedAt: "2026-09-21T14:03:31.000Z",
+  createdAt: "2026-09-21T14:03:44.163Z",
+  updatedAt: "2026-09-21T14:03:51.000Z",
 } as const satisfies StrengthLog

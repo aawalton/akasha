@@ -139,4 +139,6 @@ export const noBodyReadBesideAnIndex = {
       statement: "A function reading twice is refused at its first read alone.",
     },
   ],
+  createdAt: "2026-09-02T22:06:35.158Z",
+  updatedAt: "2026-09-15T17:45:04.000Z",
 } as const satisfies SyntaxRule

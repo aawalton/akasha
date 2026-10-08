@@ -6,4 +6,6 @@ export const alanRequestsWebLook = {
   slug: "alan-requests-web-look",
   definition: "the look the Requests site wears, and the trees holding its utilities",
   styles: "css",
+  createdAt: "2026-09-21T18:25:58.893Z",
+  updatedAt: "2026-09-22T13:58:57.000Z",
 } as const satisfies Stylesheet

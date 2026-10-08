@@ -10,4 +10,6 @@ export const lyonetteDuMarquin = {
   esoCharacterId: "8796093025190173",
   accountPage: "temper-account/alanarre",
   firstName: "Lyonette",
+  createdAt: "2026-04-29T16:44:16.524Z",
+  updatedAt: "2026-09-24T16:26:32.000Z",
 } as const satisfies TemperAccountCharacter

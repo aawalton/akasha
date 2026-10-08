@@ -12,4 +12,6 @@ export const fridayPull2026070350a5aaeaHamstringStretchSet1 = {
   sessionSlug: "friday-pull-2026-07-03-50a5aaea",
   day: "day/day-2026-07-03",
   setNumber: 1,
+  createdAt: "2026-07-03T18:33:59.152Z",
+  updatedAt: "2026-09-19T01:48:01.000Z",
 } as const satisfies StrengthLog

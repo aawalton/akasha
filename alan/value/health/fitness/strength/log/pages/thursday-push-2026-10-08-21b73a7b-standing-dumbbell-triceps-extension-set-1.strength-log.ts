@@ -16,4 +16,6 @@ export const thursdayPush2026100821b73a7bStandingDumbbellTricepsExtensionSet1 = 
   weight: 15,
   setPerformedAt: "2026-10-08T12:06:00.000Z",
   gym: "gym/rec-center",
+  createdAt: "2026-10-08T12:07:03.776Z",
+  updatedAt: "2026-10-08T12:07:06.000Z",
 } as const satisfies StrengthLog

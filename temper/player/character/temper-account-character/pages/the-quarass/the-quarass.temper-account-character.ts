@@ -10,4 +10,6 @@ export const theQuarass = {
   esoCharacterId: "8796093041077793",
   accountPage: "temper-account/alanarre",
   firstName: "The Quarass",
+  createdAt: "2026-04-29T16:44:21.664Z",
+  updatedAt: "2026-09-24T16:26:32.000Z",
 } as const satisfies TemperAccountCharacter

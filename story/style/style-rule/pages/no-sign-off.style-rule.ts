@@ -19,4 +19,6 @@ export const noSignOff = {
       after: "You sleep there on the rug, tangled, under the cup.",
     },
   ],
+  createdAt: "2026-10-03T18:51:26.182Z",
+  updatedAt: "2026-10-03T18:51:28.000Z",
 } as const satisfies StyleRule

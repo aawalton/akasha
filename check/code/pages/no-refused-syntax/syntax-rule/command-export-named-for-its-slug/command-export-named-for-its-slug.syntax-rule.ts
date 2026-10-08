@@ -33,4 +33,6 @@ export const commandExportNamedForItsSlug = {
       statement: "A name built as the code runs is not seen.",
     },
   ],
+  createdAt: "2026-09-12T06:43:24.146Z",
+  updatedAt: "2026-09-15T17:45:04.000Z",
 } as const satisfies SyntaxRule

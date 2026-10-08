@@ -72,4 +72,6 @@ export const noCallNamingNoLevel = {
       statement: "A word this rule takes for an argument is not judged against the arguments.",
     },
   ],
+  createdAt: "2026-09-12T11:54:44.139Z",
+  updatedAt: "2026-09-15T17:45:04.000Z",
 } as const satisfies SyntaxRule

@@ -32,4 +32,6 @@ export const ironCross = {
   skillCost: "moderate",
   exerciseSource: "free-exercise-db",
   trainsLengthenedRange: false,
+  createdAt: "2026-06-12T15:33:28.676Z",
+  updatedAt: "2026-09-15T17:40:49.000Z",
 } as const satisfies StrengthExercise

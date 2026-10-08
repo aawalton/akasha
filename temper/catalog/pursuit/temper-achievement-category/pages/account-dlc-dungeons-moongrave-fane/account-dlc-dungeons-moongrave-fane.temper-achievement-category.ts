@@ -9,4 +9,6 @@ export const accountDlcDungeonsMoongraveFane = {
   displayOrder: 23,
   parent: "temper-achievement-category/account-dlc-dungeons",
   achievements: "jsonl",
+  createdAt: "2026-09-02T09:17:10.090Z",
+  updatedAt: "2026-09-22T20:48:07.000Z",
 } as const satisfies TemperAchievementCategory

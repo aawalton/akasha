@@ -6,4 +6,6 @@ export const substrate = {
   slug: "substrate",
   pattern: "\\bsubstrate\\b",
   tabooSenses: [{ sense: "the model's own default pull", instead: "the model" }],
+  createdAt: "2026-08-31T19:14:46.462Z",
+  updatedAt: "2026-09-15T17:45:26.000Z",
 } as const satisfies TabooTerm
