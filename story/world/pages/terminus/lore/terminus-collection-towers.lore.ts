@@ -205,6 +205,18 @@ export const terminusCollectionTowers = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
+      fact: "The System creates no challenges inside a tower; the dangers organize themselves.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "A tower's dangers are a natural ecosystem of System users, sentient or beast, holding territory.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "A tower's ecosystem also holds whatever shifts and defences its Administrator has added.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
       fact: "Faster crystallization draws stronger creatures, and slow periods make towers safer.",
       knowers: ["lore-disclosure/game-master"],
     },
@@ -270,5 +282,5 @@ export const terminusCollectionTowers = {
     },
   ],
   createdAt: "2026-10-08T19:30:37.295Z",
-  updatedAt: "2026-10-08T21:12:02.274Z",
+  updatedAt: "2026-10-08T21:14:32.188Z",
 } as const satisfies Lore
