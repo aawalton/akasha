@@ -72,7 +72,103 @@ export const terminusTheSphere = {
       fact: "The sphere's shell is made of layers of solidified essence.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "The Terminus lies in an alternate universe whose physics is a strict superset of ours.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The sphere's radius is exactly d(233) Planck lengths, about 386.5 AU.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "d(233) is d(d(12)), about 3.58 × 10^48.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The sphere's inner surface covers about 1.88 million square AU.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The sphere encloses about 242 million cubic AU.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Light takes about 53.6 hours to cross from the star to the sphere.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The star's own gravity at the sphere is negligible, about 9 × 10^-8 m/s².",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The mana push on the surface is 12.63 m/s², about 1.29 times Earth's gravity.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The mana push on the surface is exactly Planck acceleration divided by d(243).",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The mana push weakens with the square of the distance from the star.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The whole inner surface feels the same mana push, with no Coriolis effect.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The mana push acts more strongly on denser matter, so down is toward the shell.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The higher gravity suits the magically enhanced people of The Terminus.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The inner surface is much like a planet's surface.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Underground structures and infrastructure lie beneath the inner surface.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The shell carries several layers of shielding against the star's X-rays.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The shell is built to conduct mana, with mana channels and essence networks inside.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The star's X-rays reach the sphere at about 23.4 kW per square metre.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Most of the X-ray energy is absorbed high in the atmosphere.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The star's visible light on the surface is about as bright as a full Moon.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "X-rays and raw magic striking the atmosphere light a permanent aurora.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The sky is lit by the point of the star, filtered starlight and constant aurora.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The atmosphere was engineered to work with the star's radiation and steady the climate.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Light delay means each region of the sphere needs control systems of its own.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   createdAt: "2026-10-08T19:12:35.919Z",
-  updatedAt: "2026-10-08T19:12:35.919Z",
+  updatedAt: "2026-10-08T19:29:11.606Z",
 } as const satisfies Lore
