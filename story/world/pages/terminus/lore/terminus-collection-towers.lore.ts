@@ -117,7 +117,7 @@ export const terminusCollectionTowers = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
-      fact: "Where neighbouring towers' pulls balance lie safe zones, where a killer gains no essence.",
+      fact: "Safe zones lie where all three tiers' pulls balance at once; a killer gains nothing there.",
       knowers: ["lore-disclosure/game-master"],
     },
     {
@@ -134,5 +134,5 @@ export const terminusCollectionTowers = {
     },
   ],
   createdAt: "2026-10-08T19:30:37.295Z",
-  updatedAt: "2026-10-08T19:44:38.518Z",
+  updatedAt: "2026-10-08T19:47:05.810Z",
 } as const satisfies Lore
