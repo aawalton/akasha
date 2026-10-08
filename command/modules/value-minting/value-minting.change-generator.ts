@@ -10,7 +10,34 @@ export const valueMinting = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "A page's value is worked out only for a page being created.",
+      statement:
+        "A page's value is worked out for a page being created, and again where its kind says so.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A value worked out again is worked out where the page's committed values changed in this change.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "Whether they changed is judged over every value but those worked out again on every change.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A change stating such a value itself keeps the value it states.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A page moved is judged against the page it was, found by its id.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "An instant goes in last in the page, and every other value goes in first.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Every instant one change works out is the same instant.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -19,7 +46,7 @@ export const valueMinting = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "The world is read only where the change could have a page being created or an entry arriving.",
+        "The world is read only where the change could have a page written or an entry arriving.",
     },
     {
       decisionKind: "decision-kind/departure",

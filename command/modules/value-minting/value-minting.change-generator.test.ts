@@ -97,18 +97,21 @@ function property(
   }
 }
 
-function kind(root: string, slug: string, afterChecks: boolean): undefined {
+function kind(root: string, slug: string, afterChecks: boolean, everyChange = false): undefined {
   const at = `akasha/${slug}.generator-kind.ts`
   const id = idFor(`generator-kind/${slug}`)
   put(
     root,
     at,
     `export const kind = { id: "${id}", type: "page-type/generator-kind",` +
-      ` slug: "${slug}", afterChecks: ${afterChecks} }\n`
+      ` slug: "${slug}", afterChecks: ${afterChecks}, everyChange: ${everyChange} }\n`
   )
   listedFiled(root, "generator-kind", slug, [{ path: at, id }])
   valueAlsoFiled(root, "generator-kind", [
-    { path: at, value: { id, type: `${pageType.slug}/generator-kind`, slug, afterChecks } },
+    {
+      path: at,
+      value: { id, type: `${pageType.slug}/generator-kind`, slug, afterChecks, everyChange },
+    },
   ])
 }
 
@@ -248,4 +251,113 @@ test("only the entries arriving without an id are given one", () => {
 
 test("a file whose entries all carry an id is left alone", () => {
   expect(identifiedOver(`{"id": "${HELD_ID}", "page": "one"}\n`)).toBeNull()
+})
+
+const INSTANT = /"\d{4}-\d\d-\d\dT\d\d:\d\d:\d\d\.\d{3}Z"/
+
+const CHANGED = "a page whose committed values changed states when they did"
+
+const ONCE = "2020-01-01T00:00:00.000Z"
+
+const STAMPED =
+  'import type { Thing } from "./thing.page-type.ts"\n\n' +
+  `export const one = { id: "${HELD_ID}", type: "page-type/thing", slug: "one",` +
+  ` createdAt: "${ONCE}", updatedAt: "${ONCE}" } as const satisfies Thing\n`
+
+function stamping(): string {
+  const root = rooted("uuid-v7")
+  kind(root, "created-instant", false)
+  kind(root, "changed-instant", false, true)
+  property(root, "created-at", "created-instant")
+  property(root, "updated-at", "changed-instant")
+  return root
+}
+
+function committed(root: string, at: string, body: string): undefined {
+  put(root, at, body)
+  gitIn(root, ["add", "--", at])
+  gitIn(root, ["commit", "--quiet", "-m", "landed", "--", at])
+}
+
+function stampOf(text: string, key: string): string {
+  return new RegExp(`${key}: ("[^"]*")`).exec(text)?.[1] ?? ""
+}
+
+test("a page being created is given the moment it was created, last in the page", () => {
+  const said = mintingOnto(stamping(), [carrying(BODY)])
+  const text = textOf(said.edits)
+  expect(said.filled).toEqual([
+    `\`${AT}\` was given \`createdAt\`, \`id\`, \`updatedAt\` — ${CREATED}`,
+  ])
+  expect(text).toMatch(
+    /id: "[0-9a-f-]{36}",\s+type: "page-type\/thing",\s+slug: "one",\s+createdAt: /
+  )
+  expect(stampOf(text, "createdAt")).toMatch(INSTANT)
+  expect(stampOf(text, "updatedAt")).toBe(stampOf(text, "createdAt"))
+})
+
+test("a page whose committed values change is given the moment they changed", () => {
+  const root = stamping()
+  committed(root, AT, STAMPED)
+  const said = mintingOnto(root, [carrying(STAMPED.replace('slug: "one"', 'slug: "two"'))])
+  const text = textOf(said.edits)
+  expect(said.filled).toEqual([`\`${AT}\` was given \`updatedAt\` — ${CHANGED}`])
+  expect(stampOf(text, "updatedAt")).toMatch(INSTANT)
+  expect(stampOf(text, "updatedAt")).not.toBe(`"${ONCE}"`)
+  expect(stampOf(text, "createdAt")).toBe(`"${ONCE}"`)
+})
+
+test("a page whose committed values are as they were keeps the moment it states", () => {
+  const root = stamping()
+  committed(root, AT, STAMPED)
+  const said = mintingOnto(root, [carrying(STAMPED.replace("{ id", "{\n  id"))])
+  expect(said.filled).toEqual([])
+})
+
+test("a change stating the moment itself keeps the moment it states", () => {
+  const root = stamping()
+  committed(root, AT, STAMPED)
+  const moved = STAMPED.replace(`updatedAt: "${ONCE}"`, 'updatedAt: "2021-01-01T00:00:00.000Z"')
+  const said = mintingOnto(root, [carrying(moved.replace('slug: "one"', 'slug: "two"'))])
+  expect(said.filled).toEqual([])
+})
+
+test("a page committed with no moment is given one as its values change", () => {
+  const root = stamping()
+  const bare = STAMPED.replace(`, createdAt: "${ONCE}", updatedAt: "${ONCE}"`, "")
+  committed(root, AT, bare)
+  const said = mintingOnto(root, [carrying(bare.replace('slug: "one"', 'slug: "two"'))])
+  expect(said.filled).toEqual([`\`${AT}\` was given \`updatedAt\` — ${CHANGED}`])
+  expect(stampOf(textOf(said.edits), "createdAt")).toBe("")
+})
+
+test("a page moved with its values changed is given the moment they changed", () => {
+  const root = stamping()
+  committed(root, AT, STAMPED)
+  const to = "akasha/two.thing.ts"
+  const said = mintingOnto(root, [
+    { kind: "remove", path: AT },
+    { kind: "add", path: to, content: STAMPED.replace('slug: "one"', 'slug: "two"') },
+  ])
+  expect(said.filled).toEqual([`\`${to}\` was given \`updatedAt\` — ${CHANGED}`])
+  expect(stampOf(textOf(said.edits, to), "createdAt")).toBe(`"${ONCE}"`)
+})
+
+test("a page moved with its values as they were keeps both moments", () => {
+  const root = stamping()
+  committed(root, AT, STAMPED)
+  const said = mintingOnto(root, [
+    { kind: "remove", path: AT },
+    { kind: "add", path: "akasha/elsewhere/one.thing.ts", content: STAMPED },
+  ])
+  expect(said.filled).toEqual([])
+})
+
+test("a change to a file beside the page alone leaves the page as it is", () => {
+  const root = stamping()
+  committed(root, AT, STAMPED)
+  const said = mintingOnto(root, [
+    { kind: "add", path: "akasha/one.thing.notes.uncommitted.jsonl", content: '{"id": "a"}\n' },
+  ])
+  expect(said.filled).toEqual([])
 })

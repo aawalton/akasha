@@ -1,3 +1,4 @@
+import { isDeepStrictEqual } from "node:util"
 import type { Generated as Answered } from "akasha/change/generator/modules/change-generating/change-generating.module.code.ts"
 import type {
   Adding,
@@ -5,9 +6,13 @@ import type {
   Replacing,
 } from "akasha/change/modules/answer/change-answer.module.code.ts"
 import { textIn, textOf } from "akasha/code/body/modules/body-text/body-text.module.code.ts"
-import { insertedInto } from "akasha/code/reading/modules/value-inserting/value-inserting.module.code.ts"
+import {
+  insertedInto,
+  replacedIn,
+} from "akasha/code/reading/modules/value-inserting/value-inserting.module.code.ts"
 import { formattedBodies } from "akasha/code/running/modules/code-format/code-format.module.code.ts"
-
+import { changedInstant } from "akasha/page/generator-kind/pages/changed-instant.generator-kind.ts"
+import { createdInstant } from "akasha/page/generator-kind/pages/created-instant.generator-kind.ts"
 import { uuidVersion7 } from "akasha/page/id/modules/uuid-version-7/uuid-version-7.module.code.ts"
 import type { Answering } from "akasha/page/index/modules/answering/index-answering.module.code.ts"
 import type { Generated } from "akasha/page/index/modules/generated-properties/generated-properties.module.code.ts"
@@ -35,6 +40,12 @@ const HELD_TS = "ts"
 const NEW_PAGE = "a page being created states none of its own"
 
 const NEW_ENTRY = "an entry arriving without one is given one"
+
+const CHANGED_PAGE = "a page whose committed values changed states when they did"
+
+const INSTANTS: ReadonlySet<string> = new Set([createdInstant.slug, changedInstant.slug])
+
+type Said = Readonly<Record<string, unknown>>
 
 type Filled = {
   readonly path: string
@@ -86,8 +97,9 @@ function rowsFor(was: readonly FileChange[], now: readonly FileChange[]): readon
   return rows
 }
 
-export function mintedFor(kind: string, slug: string): string {
+export function mintedFor(kind: string, slug: string, now: number = Date.now()): string {
   if (kind === UUID_V7) return JSON.stringify(uuidVersion7())
+  if (INSTANTS.has(kind)) return JSON.stringify(new Date(now).toISOString())
   throw new Error(
     `\`${slug}\` is worked out by \`${kind}\` before the checks, and nothing here works that kind out`
   )
@@ -163,7 +175,7 @@ function entriedOnto(shadow: Shadow, changes: readonly FileChange[]): Rewritten 
   return { changes: held, filled }
 }
 
-function couldTurn(change: Change, changes: readonly FileChange[]): boolean {
+function couldTurn(changes: readonly FileChange[]): boolean {
   for (const one of changes) {
     const body = bodiedIn(one)
     if (body === null) continue
@@ -173,7 +185,7 @@ function couldTurn(change: Change, changes: readonly FileChange[]): boolean {
       if (identifiedOver(bodyOf(body)) !== null) return true
       continue
     }
-    if (said.held === HELD_TS && change.before(body.path) === null) return true
+    if (said.held === HELD_TS) return true
   }
   return false
 }
@@ -208,19 +220,74 @@ export function generateChange(change: Change): Answered {
   return { edits: formattedIn(change.root, minted.edits), said: minted.filled.map(saidOf) }
 }
 
+function valueIn(bytes: Uint8Array | null): Said | null {
+  const text = textOf(bytes)
+  return text === null ? null : loadedFrom(text).value
+}
+
+function movedFrom(change: Change, pageTypes: ReadonlySet<string>): ReadonlyMap<string, Said> {
+  const found = new Map<string, Said>()
+  for (const path of change.changed) {
+    if (change.after(path) !== null || !pageNamed(path, pageTypes)) continue
+    const was = valueIn(change.before(path))
+    const id = was?.[ID]
+    if (was !== null && was !== undefined && typeof id === "string") found.set(id, was)
+  }
+  return found
+}
+
+function wasAt(change: Change, path: string, value: Said, moved: ReadonlyMap<string, Said>) {
+  const was = valueIn(change.before(path))
+  if (was !== null) return was
+  const id = value[ID]
+  return typeof id === "string" ? (moved.get(id) ?? null) : null
+}
+
+function without(value: Said, keys: readonly string[]): Said {
+  const kept: Record<string, unknown> = { ...value }
+  for (const key of keys) delete kept[key]
+  return kept
+}
+
+type Minting = {
+  readonly path: string
+  readonly value: Said
+  readonly was: Said | null
+  readonly again: readonly string[]
+  readonly now: number
+}
+
+function mintedInto(text: string, slug: string, said: Generated, over: Minting): string | null {
+  const { path, value, was, again, now } = over
+  const minted = mintedFor(said.kind, slug, now)
+  const placing = INSTANTS.has(said.kind) ? "last" : "first"
+  if (was === null) {
+    if (value[said.key] !== undefined) return null
+    return insertedInto(path, text, said.key, minted, placing)
+  }
+  if (!said.everyChange) return null
+  if (isDeepStrictEqual(without(value, again), without(was, again))) return null
+  if (!isDeepStrictEqual(value[said.key], was[said.key])) return null
+  if (value[said.key] === undefined) return insertedInto(path, text, said.key, minted, placing)
+  return replacedIn(path, text, said.key, minted)
+}
+
 function mintedOver(change: Change, changes: readonly FileChange[]): Minted {
-  if (!couldTurn(change, changes)) return NOTHING_MINTED
+  if (!couldTurn(changes)) return NOTHING_MINTED
   const cast = shadowFor(change)
   if ("refused" in cast) return NOTHING_MINTED
   const entried = entriedOnto(cast.shadow, changes)
   const early = earlyOf(cast.shadow)
   if (early.size === 0) return { edits: rowsFor(changes, entried.changes), filled: entried.filled }
   const pageTypes = cast.shadow.index.pageTypesIn()
+  const again = [...early.values()].filter((one) => one.everyChange).map((one) => one.key)
+  const moved = movedFrom(change, pageTypes)
+  const now = Date.now()
   const held: FileChange[] = []
   const filled: Filled[] = []
   for (const one of entried.changes) {
     const body = bodiedIn(one)
-    if (body === null || !pageNamed(body.path, pageTypes) || change.before(body.path) !== null) {
+    if (body === null || !pageNamed(body.path, pageTypes)) {
       held.push(one)
       continue
     }
@@ -230,10 +297,11 @@ function mintedOver(change: Change, changes: readonly FileChange[]): Minted {
       held.push(one)
       continue
     }
+    const was = wasAt(change, body.path, value, moved)
+    const over: Minting = { path: body.path, value, was, again, now }
     const keys: string[] = []
     for (const [slug, said] of early) {
-      if (value[said.key] !== undefined) continue
-      const next = insertedInto(body.path, text, said.key, mintedFor(said.kind, slug))
+      const next = mintedInto(text, slug, said, over)
       if (next === null) continue
       text = next
       keys.push(said.key)
@@ -243,7 +311,7 @@ function mintedOver(change: Change, changes: readonly FileChange[]): Minted {
       continue
     }
     held.push(bodiedWith(body, text))
-    filled.push({ path: body.path, keys, why: NEW_PAGE })
+    filled.push({ path: body.path, keys, why: was === null ? NEW_PAGE : CHANGED_PAGE })
   }
   return { edits: rowsFor(changes, held), filled: [...entried.filled, ...filled] }
 }

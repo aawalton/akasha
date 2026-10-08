@@ -4,10 +4,12 @@ export const generatorKind = {
   id: "01a04f17-5b78-7c66-9145-7a386e55406e",
   type: "page-type/page-type",
   slug: "generator-kind",
-  definition: "how a property's value is worked out when its page is created",
+  definition: "how a property's value is worked out as its page lands",
   parts: [
     "boolean-property/after-checks",
     "boolean-property/every-change",
+    "generator-kind/changed-instant",
+    "generator-kind/created-instant",
     "generator-kind/uuid-v7",
   ],
   extends: ["page-type/domain"],

@@ -10,7 +10,15 @@ export const valueInserting = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "The value goes in first in the literal.",
+      statement: "The value goes in first in the literal unless the caller places it last.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A value the literal already holds under its key can be replaced in place.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A key the literal does not hold is replaced nowhere.",
     },
     {
       decisionKind: "decision-kind/departure",
