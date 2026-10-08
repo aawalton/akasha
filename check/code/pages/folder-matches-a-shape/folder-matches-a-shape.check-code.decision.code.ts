@@ -50,6 +50,7 @@ import {
   heldIn,
   partedIn,
 } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
+import { wholeValue } from "akasha/page/modules/uncommitted/page-uncommitted.module.code.ts"
 import { textsAt } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 
 const TS = "ts"
@@ -252,7 +253,8 @@ export function partsOver(
   return (page) => {
     const value = index.pageByPath(page.path)
     if (value === null) return [page.path]
-    return claimsOf(value, page.path, root, stated, sidecars, withheld, there, folders)
+    const whole = wholeValue(root, page.path, value)
+    return claimsOf(whole, page.path, root, stated, sidecars, withheld, there, folders)
   }
 }
 

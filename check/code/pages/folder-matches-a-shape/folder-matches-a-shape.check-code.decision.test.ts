@@ -1,4 +1,6 @@
 import { expect, test } from "bun:test"
+import { mkdirSync, mkdtempSync, rmSync, writeFileSync } from "node:fs"
+import { join } from "node:path"
 import { akasha } from "akasha/akasha.domain.ts"
 import { akashaWorkspace } from "akasha/akasha-workspace.workspace.ts"
 import { alanBook } from "akasha/alan/book/alan-book.page-type.ts"
@@ -83,6 +85,37 @@ test("a page stating no folder property claims its own file and nothing beside i
   expect(claimed({ type: `${pageType.slug}/manifest`, slug: "one-manifests" })).toEqual([
     MANIFEST_AT,
   ])
+})
+
+const SCRATCH_AT = "/var/tmp"
+
+const SOUND_AT = "sounds/one.audio.ts"
+
+const SOUND_BYTES_AT = "sounds/one.audio.bytes.uncommitted.wav"
+
+test("a file an uncommitted value names is a part of the page that value is beside", () => {
+  const root = mkdtempSync(join(SCRATCH_AT, "folder-shape-"))
+  try {
+    mkdirSync(join(root, "sounds"))
+    writeFileSync(
+      join(root, "sounds/one.audio.uncommitted.ts"),
+      'export const oneAudioUncommitted = {\n  "bytes": "wav"\n} as const\n'
+    )
+    const parts = partsOver(
+      paging({ type: `${pageType.slug}/audio`, slug: "one" }),
+      root,
+      new Map([["audio", new Map([["bytes", null]])]]),
+      new Map(),
+      new Map([["audio", new Set<string>(["bytes"])]]),
+      new Map(),
+      (at) => at === SOUND_BYTES_AT
+    )
+    expect(parts(heldIn(SOUND_AT, new Set<string>(["audio"]), new Set<string>()))).toContain(
+      SOUND_BYTES_AT
+    )
+  } finally {
+    rmSync(root, { recursive: true, force: true })
+  }
 })
 
 const MY_STRATEGY = "alan/book/my-strategy"
