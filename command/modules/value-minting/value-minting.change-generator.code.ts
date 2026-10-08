@@ -254,6 +254,7 @@ type Minting = {
   readonly value: Said
   readonly was: Said | null
   readonly again: readonly string[]
+  readonly early: readonly string[]
   readonly now: number
 }
 
@@ -265,8 +266,15 @@ function mintedInto(text: string, slug: string, said: Generated, over: Minting):
     if (value[said.key] !== undefined) return null
     return insertedInto(path, text, said.key, minted, placing)
   }
+  const dropped = over.early.filter((key) => value[key] === undefined)
+  const changed = !isDeepStrictEqual(without(value, again), without(was, [...again, ...dropped]))
+  const kept = was[said.key]
+  if (value[said.key] === undefined && kept !== undefined) {
+    const carried = said.everyChange && changed ? minted : JSON.stringify(kept)
+    return insertedInto(path, text, said.key, carried, placing)
+  }
   if (!said.everyChange) return null
-  if (isDeepStrictEqual(without(value, again), without(was, again))) return null
+  if (!changed) return null
   if (!isDeepStrictEqual(value[said.key], was[said.key])) return null
   if (value[said.key] === undefined) return insertedInto(path, text, said.key, minted, placing)
   return replacedIn(path, text, said.key, minted)
@@ -281,6 +289,7 @@ function mintedOver(change: Change, changes: readonly FileChange[]): Minted {
   if (early.size === 0) return { edits: rowsFor(changes, entried.changes), filled: entried.filled }
   const pageTypes = cast.shadow.index.pageTypesIn()
   const again = [...early.values()].filter((one) => one.everyChange).map((one) => one.key)
+  const earlyKeys = [...early.values()].map((one) => one.key)
   const moved = movedFrom(change, pageTypes)
   const now = Date.now()
   const held: FileChange[] = []
@@ -298,7 +307,7 @@ function mintedOver(change: Change, changes: readonly FileChange[]): Minted {
       continue
     }
     const was = wasAt(change, body.path, value, moved)
-    const over: Minting = { path: body.path, value, was, again, now }
+    const over: Minting = { path: body.path, value, was, again, early: earlyKeys, now }
     const keys: string[] = []
     for (const [slug, said] of early) {
       const next = mintedInto(text, slug, said, over)

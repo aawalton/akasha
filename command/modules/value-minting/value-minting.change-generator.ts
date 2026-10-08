@@ -29,6 +29,15 @@ export const valueMinting = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A page written over without a value it had is given that value back.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "Where its committed values changed too, a value worked out again is worked out anew.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A page moved is judged against the page it was, found by its id.",
     },
     {
@@ -124,5 +133,5 @@ export const valueMinting = {
     },
   ],
   createdAt: "2026-08-30T01:18:26.538Z",
-  updatedAt: "2026-10-08T14:53:49.000Z",
+  updatedAt: "2026-10-08T16:41:04.753Z",
 } as const satisfies ChangeGenerator

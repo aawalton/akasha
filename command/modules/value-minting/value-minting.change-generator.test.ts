@@ -331,6 +331,26 @@ test("a page committed with no moment is given one as its values change", () => 
   expect(stampOf(textOf(said.edits), "createdAt")).toBe("")
 })
 
+const DROPPED = STAMPED.replace(`, createdAt: "${ONCE}", updatedAt: "${ONCE}"`, "")
+
+test("a page written over without its moments keeps both where its values are as they were", () => {
+  const root = stamping()
+  committed(root, AT, STAMPED)
+  const text = textOf(mintingOnto(root, [carrying(DROPPED)]).edits)
+  expect(stampOf(text, "createdAt")).toBe(`"${ONCE}"`)
+  expect(stampOf(text, "updatedAt")).toBe(`"${ONCE}"`)
+})
+
+test("a page written over without its moments and with new values keeps when it was created", () => {
+  const root = stamping()
+  committed(root, AT, STAMPED)
+  const said = mintingOnto(root, [carrying(DROPPED.replace('slug: "one"', 'slug: "two"'))])
+  const text = textOf(said.edits)
+  expect(stampOf(text, "createdAt")).toBe(`"${ONCE}"`)
+  expect(stampOf(text, "updatedAt")).not.toBe(`"${ONCE}"`)
+  expect(stampOf(text, "updatedAt")).toMatch(INSTANT)
+})
+
 test("a page moved with its values changed is given the moment they changed", () => {
   const root = stamping()
   committed(root, AT, STAMPED)
