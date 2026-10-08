@@ -8,4 +8,6 @@ export const cornerstoneDormant = {
   world: "world/cornerstone",
   place: 1,
   description: "No perception or action in this Faculty's domain at all.",
+  createdAt: "2026-09-26T18:07:40.461Z",
+  updatedAt: "2026-09-26T18:07:44.000Z",
 } as const satisfies CornerstoneDepth

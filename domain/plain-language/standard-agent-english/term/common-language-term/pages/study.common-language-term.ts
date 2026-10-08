@@ -9,4 +9,6 @@ export const study = {
     { partOfSpeech: "part-of-speech/verb", spelling: "study" },
     { partOfSpeech: "part-of-speech/verb", spelling: "studies" },
   ],
+  createdAt: "2026-09-25T13:02:11.054Z",
+  updatedAt: "2026-09-25T15:41:48.000Z",
 } as const satisfies CommonLanguageTerm

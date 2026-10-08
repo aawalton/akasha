@@ -25,4 +25,6 @@ export const taylorSwift = {
   connectionActivityWeight: 1,
   connectionActivityWit: 2,
   connectionActivitySeq: 9,
+  createdAt: "2026-06-04T14:52:48.392Z",
+  updatedAt: "2026-09-25T13:01:00.000Z",
 } as const satisfies ConnectionActivity

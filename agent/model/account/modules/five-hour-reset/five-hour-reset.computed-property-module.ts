@@ -25,4 +25,6 @@ export const fiveHourReset = {
       statement: "A seven-day window nothing has been read of holds no reset back.",
     },
   ],
+  createdAt: "2026-09-11T17:01:19.892Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies ComputedPropertyModule

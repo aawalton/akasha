@@ -72,4 +72,6 @@ export const talosConfigGen = {
     { argument: "argument/node", required: true, saidAs: "flag-or-word" },
     { argument: "argument/output" },
   ],
+  createdAt: "2026-09-03T16:10:56.420Z",
+  updatedAt: "2026-09-22T10:08:16.000Z",
 } as const satisfies Command

@@ -6,4 +6,6 @@ export const must = {
   slug: "must",
   definition: "is required to",
   spellings: [{ partOfSpeech: "part-of-speech/modal", spelling: "must" }],
+  createdAt: "2026-09-25T14:20:35.114Z",
+  updatedAt: "2026-09-25T15:41:48.000Z",
 } as const satisfies CommonLanguageTerm

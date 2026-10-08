@@ -9,4 +9,6 @@ export const properNounAlone = {
   writtenFrom: ["part-of-speech/proper-noun"],
   admits: ["Alan", "Claude Code", "what Alan has"],
   refuses: ["the Alan"],
+  createdAt: "2026-09-24T17:43:33.501Z",
+  updatedAt: "2026-09-25T15:41:48.000Z",
 } as const satisfies Construction

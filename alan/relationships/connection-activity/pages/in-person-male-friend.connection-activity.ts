@@ -25,4 +25,6 @@ export const inPersonMaleFriend = {
   connectionActivityWeight: 1,
   connectionActivityWit: 1.5,
   connectionActivitySeq: 13,
+  createdAt: "2026-06-04T15:56:36.612Z",
+  updatedAt: "2026-09-25T13:01:00.000Z",
 } as const satisfies ConnectionActivity

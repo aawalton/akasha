@@ -28,4 +28,6 @@ export const temperInventoryParity = {
     { argument: "argument/char", required: true },
     { argument: "argument/traced-item-id", required: true, saidAs: "word" },
   ],
+  createdAt: "2026-09-02T03:49:49.654Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies Command

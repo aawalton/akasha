@@ -9,4 +9,6 @@ export const that = {
     { partOfSpeech: "part-of-speech/determiner", spelling: "those" },
     { partOfSpeech: "part-of-speech/relative-pronoun", spelling: "that" },
   ],
+  createdAt: "2026-09-21T22:51:43.674Z",
+  updatedAt: "2026-09-25T15:41:48.000Z",
 } as const satisfies CommonLanguageTerm

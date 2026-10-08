@@ -10,4 +10,6 @@ export const mineAwarenessDay = {
   threshold: 10000,
   description:
     "4 April is the International Day for Mine Awareness and Assistance in Mine Action, designated by the UN General Assembly in 2005. This community makes every day count, not just one.",
+  createdAt: "2026-04-23T17:40:58.089Z",
+  updatedAt: "2026-09-15T16:31:54.000Z",
 } as const satisfies CtwAchievement

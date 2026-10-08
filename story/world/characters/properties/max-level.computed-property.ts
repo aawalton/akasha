@@ -52,4 +52,6 @@ export const maxLevel = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-03T04:15:29.484Z",
+  updatedAt: "2026-09-25T15:43:15.000Z",
 } as const satisfies ComputedProperty

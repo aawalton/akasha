@@ -57,4 +57,6 @@ export const temperEsoGenerateSandboxLibrary = {
   ],
   name: "sandbox-library",
   arguments: [{ argument: "argument/code-root" }, { argument: "argument/saved-variables-file" }],
+  createdAt: "2026-09-25T13:14:07.345Z",
+  updatedAt: "2026-09-25T13:14:22.000Z",
 } as const satisfies Command

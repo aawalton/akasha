@@ -11,4 +11,6 @@ export const tanlorinNoRoleB19996e26625 = {
   visibility: "live",
   targetCount: 1,
   baseRoles: [],
+  createdAt: "2026-09-25T15:21:00.102Z",
+  updatedAt: "2026-09-25T15:21:01.000Z",
 } as const satisfies CompanionBuild

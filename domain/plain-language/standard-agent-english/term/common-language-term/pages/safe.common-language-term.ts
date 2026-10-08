@@ -6,4 +6,6 @@ export const safe = {
   slug: "safe",
   definition: "out of danger",
   spellings: [{ partOfSpeech: "part-of-speech/adjective", spelling: "safe" }],
+  createdAt: "2026-09-24T23:41:41.471Z",
+  updatedAt: "2026-09-25T15:41:48.000Z",
 } as const satisfies CommonLanguageTerm

@@ -6,4 +6,6 @@ export const who = {
   slug: "who",
   definition: "the pronoun naming the person a clause leaves out",
   spellings: [{ partOfSpeech: "part-of-speech/free-relative-pronoun", spelling: "who" }],
+  createdAt: "2026-09-22T17:43:39.731Z",
+  updatedAt: "2026-09-25T15:41:48.000Z",
 } as const satisfies CommonLanguageTerm

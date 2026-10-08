@@ -6,4 +6,6 @@ export const at = {
   slug: "at",
   definition: "the preposition naming the place or the moment a thing is found",
   spellings: [{ partOfSpeech: "part-of-speech/preposition", spelling: "at" }],
+  createdAt: "2026-09-21T20:02:12.289Z",
+  updatedAt: "2026-09-25T15:41:48.000Z",
 } as const satisfies CommonLanguageTerm

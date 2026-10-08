@@ -6,4 +6,6 @@ export const about = {
   slug: "about",
   definition: "on the subject of",
   spellings: [{ partOfSpeech: "part-of-speech/preposition", spelling: "about" }],
+  createdAt: "2026-09-24T17:56:32.968Z",
+  updatedAt: "2026-09-25T15:41:48.000Z",
 } as const satisfies CommonLanguageTerm

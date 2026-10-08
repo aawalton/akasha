@@ -86,4 +86,6 @@ export const temperEsoGenerateChatterName = {
   ],
   name: "chatter-name",
   arguments: [{ argument: "argument/code-root" }],
+  createdAt: "2026-09-03T17:43:04.186Z",
+  updatedAt: "2026-09-24T18:07:32.000Z",
 } as const satisfies Command

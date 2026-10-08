@@ -9,4 +9,6 @@ export const expect = {
     { partOfSpeech: "part-of-speech/verb", spelling: "expect" },
     { partOfSpeech: "part-of-speech/verb", spelling: "expects" },
   ],
+  createdAt: "2026-09-25T12:30:33.727Z",
+  updatedAt: "2026-09-25T15:41:48.000Z",
 } as const satisfies CommonLanguageTerm

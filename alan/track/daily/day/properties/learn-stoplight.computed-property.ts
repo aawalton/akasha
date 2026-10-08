@@ -9,4 +9,6 @@ export const learnStoplight = {
   holds: "text",
   code: "ts",
   types: "ts",
+  createdAt: "2026-09-05T15:08:05.693Z",
+  updatedAt: "2026-09-22T10:05:47.000Z",
 } as const satisfies ComputedProperty

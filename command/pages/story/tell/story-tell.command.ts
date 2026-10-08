@@ -100,4 +100,6 @@ export const storyTell = {
     { argument: "argument/new-fact" },
     { argument: "argument/draft" },
   ],
+  createdAt: "2026-09-26T18:18:19.312Z",
+  updatedAt: "2026-10-04T12:52:19.000Z",
 } as const satisfies Command

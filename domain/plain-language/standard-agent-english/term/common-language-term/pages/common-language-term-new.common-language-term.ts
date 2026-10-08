@@ -6,4 +6,6 @@ export const commonLanguageTermNew = {
   slug: "common-language-term-new",
   definition: "not there until now",
   spellings: [{ partOfSpeech: "part-of-speech/adjective", spelling: "new" }],
+  createdAt: "2026-09-24T22:43:34.439Z",
+  updatedAt: "2026-09-25T15:41:48.000Z",
 } as const satisfies CommonLanguageTerm

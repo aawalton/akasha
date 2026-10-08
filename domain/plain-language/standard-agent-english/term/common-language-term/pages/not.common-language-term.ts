@@ -6,4 +6,6 @@ export const not = {
   slug: "not",
   definition: "the opposite of what follows",
   spellings: [{ partOfSpeech: "part-of-speech/negator", spelling: "not" }],
+  createdAt: "2026-09-25T17:05:54.866Z",
+  updatedAt: "2026-09-25T17:05:59.000Z",
 } as const satisfies CommonLanguageTerm

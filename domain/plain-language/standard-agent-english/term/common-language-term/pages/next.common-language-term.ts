@@ -6,4 +6,6 @@ export const next = {
   slug: "next",
   definition: "coming straight after the one before it",
   spellings: [{ partOfSpeech: "part-of-speech/adjective", spelling: "next" }],
+  createdAt: "2026-09-22T18:35:21.109Z",
+  updatedAt: "2026-09-25T15:41:48.000Z",
 } as const satisfies CommonLanguageTerm

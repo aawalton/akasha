@@ -6,4 +6,6 @@ export const animated = {
   slug: "animated",
   definition: "made of drawings shown one after another so they seem to move",
   spellings: [{ partOfSpeech: "part-of-speech/adjective", spelling: "animated" }],
+  createdAt: "2026-09-24T17:51:37.467Z",
+  updatedAt: "2026-09-25T15:41:48.000Z",
 } as const satisfies CommonLanguageTerm

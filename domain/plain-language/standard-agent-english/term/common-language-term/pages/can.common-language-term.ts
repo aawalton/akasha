@@ -6,4 +6,6 @@ export const can = {
   slug: "can",
   definition: "the modal saying an act is possible",
   spellings: [{ partOfSpeech: "part-of-speech/modal", spelling: "can" }],
+  createdAt: "2026-09-22T18:46:50.782Z",
+  updatedAt: "2026-09-25T15:41:48.000Z",
 } as const satisfies CommonLanguageTerm

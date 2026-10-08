@@ -8,4 +8,6 @@ export const commonLanguageTermThis = {
     { partOfSpeech: "part-of-speech/determiner", spelling: "this" },
     { partOfSpeech: "part-of-speech/determiner", spelling: "these" },
   ],
+  createdAt: "2026-09-21T22:51:38.858Z",
+  updatedAt: "2026-09-25T15:41:48.000Z",
 } as const satisfies CommonLanguageTerm

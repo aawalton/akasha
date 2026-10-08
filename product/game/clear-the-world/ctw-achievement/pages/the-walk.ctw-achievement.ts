@@ -10,4 +10,6 @@ export const theWalk = {
   threshold: 1,
   description:
     "On 15 January 1997, a single photograph of Diana, Princess of Wales, walking through a partially cleared minefield in Angola transformed the landmine crisis from a military footnote into a global humanitarian cause. The Ottawa Treaty was signed eleven months later. Awareness became action.",
+  createdAt: "2026-04-23T17:40:56.765Z",
+  updatedAt: "2026-09-15T16:31:54.000Z",
 } as const satisfies CtwAchievement

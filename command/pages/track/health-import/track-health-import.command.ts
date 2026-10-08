@@ -88,4 +88,6 @@ export const trackHealthImport = {
     { argument: "argument/restart" },
     { argument: "argument/first-day" },
   ],
+  createdAt: "2026-09-02T12:16:14.144Z",
+  updatedAt: "2026-09-25T14:13:31.000Z",
 } as const satisfies Command

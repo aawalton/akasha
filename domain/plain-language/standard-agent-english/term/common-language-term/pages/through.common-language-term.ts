@@ -6,4 +6,6 @@ export const through = {
   slug: "through",
   definition: "the preposition naming what a thing goes inside and out of",
   spellings: [{ partOfSpeech: "part-of-speech/preposition", spelling: "through" }],
+  createdAt: "2026-09-21T20:02:07.627Z",
+  updatedAt: "2026-09-25T15:41:48.000Z",
 } as const satisfies CommonLanguageTerm

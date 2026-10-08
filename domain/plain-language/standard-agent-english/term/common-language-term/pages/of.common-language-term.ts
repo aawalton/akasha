@@ -6,4 +6,6 @@ export const of = {
   slug: "of",
   definition: "the preposition naming what a thing belongs to",
   spellings: [{ partOfSpeech: "part-of-speech/preposition", spelling: "of" }],
+  createdAt: "2026-09-21T20:01:35.329Z",
+  updatedAt: "2026-09-25T15:41:48.000Z",
 } as const satisfies CommonLanguageTerm

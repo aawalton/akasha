@@ -11,4 +11,6 @@ export const emberNoRole7667dc32693a = {
   visibility: "live",
   targetCount: 1,
   baseRoles: [],
+  createdAt: "2026-09-25T15:20:45.769Z",
+  updatedAt: "2026-09-25T15:20:47.000Z",
 } as const satisfies CompanionBuild

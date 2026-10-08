@@ -125,4 +125,6 @@ export const musicRate = {
       notWith: ["argument/now-playing", "argument/just-played"],
     },
   ],
+  createdAt: "2026-09-02T16:37:45.851Z",
+  updatedAt: "2026-09-22T13:19:49.000Z",
 } as const satisfies Command

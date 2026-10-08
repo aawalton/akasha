@@ -36,4 +36,6 @@ export const seatPersona = {
       statement: "A persona page type that cannot be found is no warrant.",
     },
   ],
+  createdAt: "2026-08-31T14:16:55.081Z",
+  updatedAt: "2026-10-06T14:44:11.000Z",
 } as const satisfies ContextWarrant

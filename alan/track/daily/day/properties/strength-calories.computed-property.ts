@@ -9,4 +9,6 @@ export const strengthCalories = {
   holds: "number",
   code: "ts",
   types: "ts",
+  createdAt: "2026-09-05T14:34:38.239Z",
+  updatedAt: "2026-09-15T16:29:06.000Z",
 } as const satisfies ComputedProperty

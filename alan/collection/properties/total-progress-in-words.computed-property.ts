@@ -9,4 +9,6 @@ export const totalProgressInWords = {
   holds: "number",
   code: "ts",
   types: "ts",
+  createdAt: "2026-09-05T15:31:05.702Z",
+  updatedAt: "2026-09-22T13:44:11.000Z",
 } as const satisfies ComputedProperty

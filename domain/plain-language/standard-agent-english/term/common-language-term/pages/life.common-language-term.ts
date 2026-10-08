@@ -9,4 +9,6 @@ export const life = {
     { partOfSpeech: "part-of-speech/noun", spelling: "life" },
     { partOfSpeech: "part-of-speech/noun", spelling: "lives" },
   ],
+  createdAt: "2026-09-24T17:39:02.067Z",
+  updatedAt: "2026-09-25T15:41:48.000Z",
 } as const satisfies CommonLanguageTerm

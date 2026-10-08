@@ -10,4 +10,6 @@ export const arrange = {
     { partOfSpeech: "part-of-speech/verb", spelling: "arranges" },
     { partOfSpeech: "part-of-speech/past-participle", spelling: "arranged" },
   ],
+  createdAt: "2026-09-25T14:47:19.251Z",
+  updatedAt: "2026-09-25T15:41:48.000Z",
 } as const satisfies CommonLanguageTerm

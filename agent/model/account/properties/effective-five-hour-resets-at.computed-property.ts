@@ -30,4 +30,6 @@ export const effectiveFiveHourResetsAt = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-11T17:03:26.610Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies ComputedProperty

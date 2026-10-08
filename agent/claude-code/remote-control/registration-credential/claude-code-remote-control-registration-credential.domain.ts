@@ -6,4 +6,6 @@ export const claudeCodeRemoteControlRegistrationCredential = {
   slug: "claude-code-remote-control-registration-credential",
   definition: "a registration account's credential in Claude Code's credential file",
   parts: ["module/account-terminal", "module/oauth-health-lines", "module/supervisor-credentials"],
+  createdAt: "2026-09-09T23:00:42.903Z",
+  updatedAt: "2026-09-22T19:42:38.000Z",
 } as const satisfies Domain

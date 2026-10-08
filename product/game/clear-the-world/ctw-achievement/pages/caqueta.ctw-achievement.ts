@@ -10,4 +10,6 @@ export const caqueta = {
   threshold: 100000000,
   description:
     "Caquetá department in southern Colombia hosts one of the world’s first humanitarian demining programmes staffed by former combatants alongside civilian teams. Since the 2016 peace agreement, the Humanicemos programme has cleared land in indigenous communities.",
+  createdAt: "2026-04-23T17:40:28.906Z",
+  updatedAt: "2026-09-15T16:31:54.000Z",
 } as const satisfies CtwAchievement

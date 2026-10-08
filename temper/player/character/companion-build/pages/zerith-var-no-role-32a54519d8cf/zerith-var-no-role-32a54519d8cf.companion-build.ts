@@ -11,4 +11,6 @@ export const zerithVarNoRole32a54519d8cf = {
   visibility: "live",
   targetCount: 1,
   baseRoles: [],
+  createdAt: "2026-09-25T15:21:02.862Z",
+  updatedAt: "2026-09-25T15:21:04.000Z",
 } as const satisfies CompanionBuild

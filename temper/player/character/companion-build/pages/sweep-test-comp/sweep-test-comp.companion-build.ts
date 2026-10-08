@@ -10,4 +10,6 @@ export const sweepTestComp = {
   correlationId: "670da25d-27e7-404c-bc3d-796da623c517",
   targetCount: 1,
   baseRoles: ["healer"],
+  createdAt: "2026-09-03T17:48:09.134Z",
+  updatedAt: "2026-09-21T15:29:06.000Z",
 } as const satisfies CompanionBuild

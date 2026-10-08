@@ -6,4 +6,6 @@ export const between = {
   slug: "between",
   definition: "the preposition naming the two things a thing is in the middle of",
   spellings: [{ partOfSpeech: "part-of-speech/preposition", spelling: "between" }],
+  createdAt: "2026-09-21T20:02:27.054Z",
+  updatedAt: "2026-09-25T15:41:48.000Z",
 } as const satisfies CommonLanguageTerm

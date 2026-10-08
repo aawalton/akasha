@@ -10,4 +10,6 @@ export const learn = {
     { partOfSpeech: "part-of-speech/verb", spelling: "learns" },
     { partOfSpeech: "part-of-speech/past-participle", spelling: "learned" },
   ],
+  createdAt: "2026-09-25T14:37:48.480Z",
+  updatedAt: "2026-09-25T15:41:48.000Z",
 } as const satisfies CommonLanguageTerm

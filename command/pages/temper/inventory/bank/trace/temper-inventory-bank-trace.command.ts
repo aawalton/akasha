@@ -51,4 +51,6 @@ export const temperInventoryBankTrace = {
     { argument: "argument/json" },
     { argument: "argument/inventory-path" },
   ],
+  createdAt: "2026-09-02T03:49:49.647Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies Command

@@ -10,4 +10,6 @@ export const belowTheStandard = {
   threshold: 10000000000,
   description:
     "IMAS quality standards require that cleared land meets a defined completion standard before it can be handed back to communities. A global crater rate below 5% across billions of cells reflects collective care and diligence.",
+  createdAt: "2026-04-23T17:40:56.076Z",
+  updatedAt: "2026-09-15T16:31:54.000Z",
 } as const satisfies CtwAchievement

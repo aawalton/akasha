@@ -66,4 +66,6 @@ export const seatSupervisorRestart = {
   ],
   name: "restart",
   arguments: [{ argument: "argument/every-seat", required: true }],
+  createdAt: "2026-09-07T01:27:53.173Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies Command

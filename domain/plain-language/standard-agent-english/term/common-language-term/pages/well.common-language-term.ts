@@ -6,4 +6,6 @@ export const well = {
   slug: "well",
   definition: "in a good way",
   spellings: [{ partOfSpeech: "part-of-speech/manner-adverb", spelling: "well" }],
+  createdAt: "2026-09-25T14:25:09.863Z",
+  updatedAt: "2026-09-25T15:41:48.000Z",
 } as const satisfies CommonLanguageTerm

@@ -6,4 +6,6 @@ export const seatPending = {
   slug: "seat-pending",
   definition: "a seat's work read from files",
   parts: ["module/pending-from-files", "module/pending-maintaining"],
+  createdAt: "2026-09-03T04:20:34.578Z",
+  updatedAt: "2026-09-24T14:22:51.000Z",
 } as const satisfies Domain

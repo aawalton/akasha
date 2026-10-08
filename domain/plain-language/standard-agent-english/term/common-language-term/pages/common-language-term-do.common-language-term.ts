@@ -11,4 +11,6 @@ export const commonLanguageTermDo = {
     { partOfSpeech: "part-of-speech/verb", spelling: "does" },
     { partOfSpeech: "part-of-speech/past-participle", spelling: "done" },
   ],
+  createdAt: "2026-09-22T17:04:19.497Z",
+  updatedAt: "2026-09-25T15:41:48.000Z",
 } as const satisfies CommonLanguageTerm

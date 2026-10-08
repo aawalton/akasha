@@ -77,4 +77,6 @@ export const trackSessionCheck = {
   ],
   name: "check",
   arguments: [{ argument: "argument/day" }],
+  createdAt: "2026-09-07T01:26:41.109Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies Command

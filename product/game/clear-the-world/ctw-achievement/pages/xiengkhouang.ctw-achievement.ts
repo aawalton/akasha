@@ -10,4 +10,6 @@ export const xiengkhouang = {
   threshold: 1000000,
   description:
     "Xiengkhouang province in Laos received more ordnance per capita than anywhere in history. Over 270 million cluster submunitions were dropped between 1964 and 1973 — roughly 30% failed to detonate and remain a daily hazard.",
+  createdAt: "2026-04-23T17:40:26.866Z",
+  updatedAt: "2026-09-15T16:31:54.000Z",
 } as const satisfies CtwAchievement

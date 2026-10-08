@@ -72,4 +72,6 @@ export const temperEsoGenerateBaseGameGlobal = {
     { argument: "argument/stage" },
     { argument: "argument/eso-root" },
   ],
+  createdAt: "2026-09-03T17:43:04.186Z",
+  updatedAt: "2026-09-25T14:49:57.000Z",
 } as const satisfies Command

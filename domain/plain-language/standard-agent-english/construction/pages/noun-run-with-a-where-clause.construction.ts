@@ -24,4 +24,6 @@ export const nounRunWithAWhereClause = {
       statement: "The clause after the noun run has a subject of its own.",
     },
   ],
+  createdAt: "2026-09-24T19:11:50.140Z",
+  updatedAt: "2026-09-25T15:41:48.000Z",
 } as const satisfies Construction

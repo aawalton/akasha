@@ -37,4 +37,6 @@ export const partsProgressInWords = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-03T22:17:54.599Z",
+  updatedAt: "2026-10-02T20:23:40.000Z",
 } as const satisfies ComputedProperty

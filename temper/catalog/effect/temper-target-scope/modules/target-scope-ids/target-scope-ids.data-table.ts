@@ -13,4 +13,6 @@ export const targetScopeIds = {
         "The change generator `target-scope-ids-keeping` writes this table from its pages.",
     },
   ],
+  createdAt: "2026-09-27T02:35:32.422Z",
+  updatedAt: "2026-09-27T02:35:36.000Z",
 } as const satisfies DataTable

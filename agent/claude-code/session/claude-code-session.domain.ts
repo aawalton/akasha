@@ -57,4 +57,6 @@ export const claudeCodeSession = {
       statement: "That new file has only the lines written after the move.",
     },
   ],
+  createdAt: "2026-09-22T15:09:53.888Z",
+  updatedAt: "2026-09-25T18:20:21.000Z",
 } as const satisfies Domain

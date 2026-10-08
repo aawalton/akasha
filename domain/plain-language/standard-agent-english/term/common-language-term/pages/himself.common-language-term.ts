@@ -6,4 +6,6 @@ export const himself = {
   slug: "himself",
   definition: "the man a sentence is about, named again",
   spellings: [{ partOfSpeech: "part-of-speech/reflexive-pronoun", spelling: "himself" }],
+  createdAt: "2026-09-25T13:08:33.235Z",
+  updatedAt: "2026-09-25T15:41:48.000Z",
 } as const satisfies CommonLanguageTerm

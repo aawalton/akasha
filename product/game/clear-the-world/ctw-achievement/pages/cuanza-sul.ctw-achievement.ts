@@ -8,4 +8,6 @@ export const cuanzaSul = {
   scope: "profile",
   metric: "single_flood_fill",
   threshold: 100,
+  createdAt: "2026-04-23T17:40:20.178Z",
+  updatedAt: "2026-09-15T16:31:54.000Z",
 } as const satisfies CtwAchievement

@@ -21,4 +21,6 @@ export const turnState = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-25T13:55:15.264Z",
+  updatedAt: "2026-09-25T13:55:23.000Z",
 } as const satisfies ComputedProperty

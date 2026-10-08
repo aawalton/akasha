@@ -55,4 +55,6 @@ export const seatName = {
       statement: "A seat name reaches the seat that had the name most recently.",
     },
   ],
+  createdAt: "2026-09-13T19:33:54.805Z",
+  updatedAt: "2026-09-24T15:40:45.000Z",
 } as const satisfies Domain

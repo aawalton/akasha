@@ -24,4 +24,6 @@ export const agentAkasha = {
       statement: "An akasha domain whose page cannot be found is no warrant.",
     },
   ],
+  createdAt: "2026-09-05T20:28:40.614Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies ContextWarrant

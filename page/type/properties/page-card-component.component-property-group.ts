@@ -9,4 +9,6 @@ export const pageCardComponent = {
   slug: "page-card-component",
   propertySlug: "page-card-component",
   definition: "the component drawing a page of this page type as a card",
+  createdAt: "2026-09-13T20:56:30.915Z",
+  updatedAt: "2026-09-15T16:25:50.000Z",
 } as const satisfies ComponentPropertyGroup

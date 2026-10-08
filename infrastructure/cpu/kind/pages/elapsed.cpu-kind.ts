@@ -23,4 +23,6 @@ export const elapsed = {
       statement: "A ceiling on elapsed time bounds waiting rather than bounding processor time.",
     },
   ],
+  createdAt: "2026-09-11T17:37:04.887Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies CpuKind

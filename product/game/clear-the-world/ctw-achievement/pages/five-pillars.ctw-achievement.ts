@@ -10,4 +10,6 @@ export const fivePillars = {
   threshold: 500000,
   description:
     "The Five Pillars of Mine Action defined by the UN are clearance, mine risk education, victim assistance, stockpile destruction, and advocacy. Marking and survey underpin all five by establishing where the problem exists.",
+  createdAt: "2026-04-23T17:40:32.914Z",
+  updatedAt: "2026-09-15T16:31:54.000Z",
 } as const satisfies CtwAchievement

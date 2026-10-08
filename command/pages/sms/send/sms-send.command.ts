@@ -80,4 +80,6 @@ export const smsSend = {
     { argument: "argument/from-number" },
     { argument: "argument/base-url" },
   ],
+  createdAt: "2026-09-03T17:45:02.957Z",
+  updatedAt: "2026-09-23T15:32:58.000Z",
 } as const satisfies Command

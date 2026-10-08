@@ -19,4 +19,6 @@ export const stall = {
       statement: "The kernel keeps stall for each cgroup as well as for the host.",
     },
   ],
+  createdAt: "2026-09-11T17:37:23.231Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies CpuKind

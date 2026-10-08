@@ -6,4 +6,6 @@ export const short = {
   slug: "short",
   definition: "not long",
   spellings: [{ partOfSpeech: "part-of-speech/adjective", spelling: "short" }],
+  createdAt: "2026-09-25T14:39:46.184Z",
+  updatedAt: "2026-09-25T15:41:48.000Z",
 } as const satisfies CommonLanguageTerm

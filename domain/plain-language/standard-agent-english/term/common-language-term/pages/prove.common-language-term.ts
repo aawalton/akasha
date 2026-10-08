@@ -10,4 +10,6 @@ export const prove = {
     { partOfSpeech: "part-of-speech/verb", spelling: "proves" },
     { partOfSpeech: "part-of-speech/past-participle", spelling: "proved" },
   ],
+  createdAt: "2026-09-25T16:55:57.793Z",
+  updatedAt: "2026-09-25T16:56:02.000Z",
 } as const satisfies CommonLanguageTerm

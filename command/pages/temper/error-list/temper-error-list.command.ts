@@ -46,4 +46,6 @@ export const temperErrorList = {
     { argument: "argument/include-stale" },
     { argument: "argument/stale-after-hours" },
   ],
+  createdAt: "2026-09-02T03:49:49.645Z",
+  updatedAt: "2026-09-22T02:22:22.000Z",
 } as const satisfies Command

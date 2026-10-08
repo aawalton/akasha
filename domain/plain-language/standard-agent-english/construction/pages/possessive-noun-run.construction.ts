@@ -29,4 +29,6 @@ export const possessiveNounRun = {
       statement: "What is owned takes no determiner, the mark sitting where a determiner would.",
     },
   ],
+  createdAt: "2026-09-22T12:58:08.113Z",
+  updatedAt: "2026-09-25T15:41:48.000Z",
 } as const satisfies Construction

@@ -9,4 +9,6 @@ export const totalRemainingInWords = {
   holds: "number",
   code: "ts",
   types: "ts",
+  createdAt: "2026-09-05T15:31:05.702Z",
+  updatedAt: "2026-09-22T13:54:40.000Z",
 } as const satisfies ComputedProperty

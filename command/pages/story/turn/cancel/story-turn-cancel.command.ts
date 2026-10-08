@@ -106,4 +106,6 @@ export const storyTurnCancel = {
     { argument: "argument/played-turn", required: true },
     { argument: "argument/take-back-mechanics" },
   ],
+  createdAt: "2026-09-28T11:48:32.224Z",
+  updatedAt: "2026-10-04T00:29:35.000Z",
 } as const satisfies Command

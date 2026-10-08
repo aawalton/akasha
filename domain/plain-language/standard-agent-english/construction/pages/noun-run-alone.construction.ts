@@ -9,4 +9,6 @@ export const nounRunAlone = {
   writtenFrom: ["phrase-kind/noun-run"],
   admits: ["page property", "code"],
   refuses: ["the page property", "whole page property"],
+  createdAt: "2026-09-21T22:40:08.348Z",
+  updatedAt: "2026-09-25T15:41:48.000Z",
 } as const satisfies Construction

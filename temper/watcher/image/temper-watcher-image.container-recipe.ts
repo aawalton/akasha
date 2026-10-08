@@ -6,4 +6,6 @@ export const temperWatcherImage = {
   slug: "temper-watcher-image",
   definition: "the image cross-compiling the Windows watcher tray and worker and giving them back",
   recipe: "dockerfile",
+  createdAt: "2026-09-03T17:42:44.317Z",
+  updatedAt: "2026-09-22T13:47:53.000Z",
 } as const satisfies ContainerRecipe

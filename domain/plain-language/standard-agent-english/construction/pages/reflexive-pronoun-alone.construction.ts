@@ -9,4 +9,6 @@ export const reflexivePronounAlone = {
   writtenFrom: ["part-of-speech/reflexive-pronoun"],
   admits: ["how Alan cares for himself"],
   refuses: ["how Alan cares for the himself"],
+  createdAt: "2026-09-25T13:09:03.356Z",
+  updatedAt: "2026-09-25T15:41:48.000Z",
 } as const satisfies Construction

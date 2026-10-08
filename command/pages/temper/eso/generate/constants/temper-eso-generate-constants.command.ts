@@ -50,4 +50,6 @@ export const temperEsoGenerateConstants = {
   ],
   name: "constants",
   arguments: [{ argument: "argument/code-root" }, { argument: "argument/saved-variables-file" }],
+  createdAt: "2026-09-22T20:22:50.112Z",
+  updatedAt: "2026-09-22T20:24:38.000Z",
 } as const satisfies Command

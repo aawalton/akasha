@@ -34,4 +34,6 @@ export const characterSortOrder = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-03T22:17:54.599Z",
+  updatedAt: "2026-09-25T13:10:56.000Z",
 } as const satisfies ComputedProperty

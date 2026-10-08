@@ -82,4 +82,6 @@ export const storyState = {
   ],
   name: "state",
   arguments: [{ argument: "argument/story", required: true }],
+  createdAt: "2026-10-03T16:29:27.934Z",
+  updatedAt: "2026-10-04T08:28:23.000Z",
 } as const satisfies Command

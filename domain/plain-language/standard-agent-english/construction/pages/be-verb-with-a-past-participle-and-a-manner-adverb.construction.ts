@@ -13,4 +13,6 @@ export const beVerbWithAPastParticipleAndAMannerAdverb = {
   ],
   admits: ["is made well", "is done well"],
   refuses: ["well is made", "is well"],
+  createdAt: "2026-09-25T14:24:39.176Z",
+  updatedAt: "2026-09-25T15:41:48.000Z",
 } as const satisfies Construction

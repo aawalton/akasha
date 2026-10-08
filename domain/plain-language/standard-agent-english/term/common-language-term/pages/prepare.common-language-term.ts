@@ -10,4 +10,6 @@ export const prepare = {
     { partOfSpeech: "part-of-speech/verb", spelling: "prepares" },
     { partOfSpeech: "part-of-speech/past-participle", spelling: "prepared" },
   ],
+  createdAt: "2026-09-25T16:50:53.918Z",
+  updatedAt: "2026-09-25T16:50:58.000Z",
 } as const satisfies CommonLanguageTerm

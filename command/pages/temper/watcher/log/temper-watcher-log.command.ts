@@ -40,4 +40,6 @@ export const temperWatcherLog = {
     { argument: "argument/log-dir" },
     { argument: "argument/json-in-one-object" },
   ],
+  createdAt: "2026-09-02T03:49:49.658Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies Command

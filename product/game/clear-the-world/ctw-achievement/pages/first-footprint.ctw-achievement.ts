@@ -8,4 +8,6 @@ export const firstFootprint = {
   scope: "profile",
   metric: "first_zone_opener",
   threshold: 1,
+  createdAt: "2026-04-23T17:40:16.828Z",
+  updatedAt: "2026-09-15T16:31:54.000Z",
 } as const satisfies CtwAchievement

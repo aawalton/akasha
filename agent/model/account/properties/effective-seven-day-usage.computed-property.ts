@@ -30,4 +30,6 @@ export const effectiveSevenDayUsage = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-06T10:52:25.366Z",
+  updatedAt: "2026-09-22T14:30:46.000Z",
 } as const satisfies ComputedProperty

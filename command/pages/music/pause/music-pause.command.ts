@@ -28,4 +28,6 @@ export const musicPause = {
   ],
   name: "pause",
   arguments: [{ argument: "argument/json" }, { argument: "argument/device-id" }],
+  createdAt: "2026-09-14T13:25:57.687Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies Command

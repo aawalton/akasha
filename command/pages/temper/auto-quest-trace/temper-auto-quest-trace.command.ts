@@ -28,4 +28,6 @@ export const temperAutoQuestTrace = {
   ],
   name: "auto-quest-trace",
   arguments: [{ argument: "argument/json" }, { argument: "argument/quest-trace-path" }],
+  createdAt: "2026-09-02T03:49:49.643Z",
+  updatedAt: "2026-09-22T02:23:36.000Z",
 } as const satisfies Command

@@ -10,4 +10,6 @@ export const continuedClearance = {
   threshold: 500,
   description:
     "When a deminer encounters a mine, operations do not stop — the team cordons the area, records the find, and clearance resumes. Stopping after a find would leave the land in the same state as before the program began.",
+  createdAt: "2026-04-23T17:40:24.190Z",
+  updatedAt: "2026-09-15T16:31:54.000Z",
 } as const satisfies CtwAchievement

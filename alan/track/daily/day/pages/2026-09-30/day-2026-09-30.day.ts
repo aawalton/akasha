@@ -20,4 +20,6 @@ export const day20260930 = {
   inboxFindingsClearedToday: true,
   inboxGaps: 0,
   inboxRefusals: 11926,
+  createdAt: "2026-09-30T06:40:11.680Z",
+  updatedAt: "2026-10-01T19:20:05.000Z",
 } as const satisfies Day

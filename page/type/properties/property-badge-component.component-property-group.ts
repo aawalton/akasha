@@ -9,4 +9,6 @@ export const propertyBadgeComponent = {
   slug: "property-badge-component",
   propertySlug: "property-badge-component",
   definition: "the component drawing as a badge a value a page of this page type carries",
+  createdAt: "2026-09-13T20:56:37.890Z",
+  updatedAt: "2026-09-15T16:25:50.000Z",
 } as const satisfies ComponentPropertyGroup

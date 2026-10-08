@@ -44,4 +44,6 @@ export const seatReset = {
   ],
   name: "reset",
   arguments: [{ argument: "argument/seat", required: true, saidAs: "word" }],
+  createdAt: "2026-09-07T01:27:53.252Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies Command

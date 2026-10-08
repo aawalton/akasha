@@ -13,4 +13,6 @@ export const skillTypeIds = {
         "The change generator `skill-type-ids-keeping` writes this table from the skill type pages.",
     },
   ],
+  createdAt: "2026-09-27T01:56:58.517Z",
+  updatedAt: "2026-09-27T01:57:17.000Z",
 } as const satisfies DataTable

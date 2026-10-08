@@ -10,4 +10,6 @@ export const cornerstoneWatchful = {
   threshold: 6,
   description:
     "Several senses are open; the core perceives beyond its own soil and begins to lightly act. The town is a real, defensible settlement.",
+  createdAt: "2026-09-26T18:08:09.941Z",
+  updatedAt: "2026-09-26T18:08:14.000Z",
 } as const satisfies CornerstoneWakefulnessTier

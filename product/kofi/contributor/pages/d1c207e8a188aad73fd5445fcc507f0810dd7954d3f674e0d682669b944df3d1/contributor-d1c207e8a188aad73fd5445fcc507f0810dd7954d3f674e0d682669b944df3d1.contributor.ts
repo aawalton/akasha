@@ -7,4 +7,6 @@ export const contributorD1c207e8a188aad73fd5445fcc507f0810dd7954d3f674e0d682669b
   emailHash: "d1c207e8a188aad73fd5445fcc507f0810dd7954d3f674e0d682669b944df3d1",
   balance: 100,
   transactions: "jsonl",
+  createdAt: "2026-09-24T22:22:48.835Z",
+  updatedAt: "2026-09-24T22:22:50.000Z",
 } as const satisfies Contributor

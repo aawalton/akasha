@@ -9,4 +9,6 @@ export const annoy = {
     { partOfSpeech: "part-of-speech/verb", spelling: "annoy" },
     { partOfSpeech: "part-of-speech/verb", spelling: "annoys" },
   ],
+  createdAt: "2026-09-24T22:19:17.178Z",
+  updatedAt: "2026-09-25T15:41:48.000Z",
 } as const satisfies CommonLanguageTerm

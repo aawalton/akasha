@@ -53,4 +53,6 @@ export const temperInventoryRuleReorder = {
     { argument: "argument/before", notWith: ["argument/after"] },
     { argument: "argument/after" },
   ],
+  createdAt: "2026-09-02T03:49:49.656Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies Command

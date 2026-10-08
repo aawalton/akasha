@@ -6,4 +6,6 @@ export const when = {
   slug: "when",
   definition: "the pronoun naming the time a clause leaves out",
   spellings: [{ partOfSpeech: "part-of-speech/free-relative-pronoun", spelling: "when" }],
+  createdAt: "2026-09-24T22:41:51.801Z",
+  updatedAt: "2026-09-25T15:41:48.000Z",
 } as const satisfies CommonLanguageTerm

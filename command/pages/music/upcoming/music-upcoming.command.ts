@@ -40,4 +40,6 @@ export const musicUpcoming = {
   ],
   name: "upcoming",
   arguments: [{ argument: "argument/json" }],
+  createdAt: "2026-09-14T13:46:16.497Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies Command

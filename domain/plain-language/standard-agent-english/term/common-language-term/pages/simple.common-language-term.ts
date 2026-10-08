@@ -6,4 +6,6 @@ export const simple = {
   slug: "simple",
   definition: "made of few things",
   spellings: [{ partOfSpeech: "part-of-speech/adjective", spelling: "simple" }],
+  createdAt: "2026-09-25T14:53:18.270Z",
+  updatedAt: "2026-09-25T15:41:48.000Z",
 } as const satisfies CommonLanguageTerm

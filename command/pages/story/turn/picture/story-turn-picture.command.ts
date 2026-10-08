@@ -41,4 +41,6 @@ export const storyTurnPicture = {
     { argument: "argument/written-chapter", required: true },
     { argument: "argument/pictured-file", required: true },
   ],
+  createdAt: "2026-10-04T12:52:12.573Z",
+  updatedAt: "2026-10-04T12:52:19.000Z",
 } as const satisfies Command

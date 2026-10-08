@@ -70,4 +70,6 @@ export const musicPlay = {
       oneOf: ["argument/uri"],
     },
   ],
+  createdAt: "2026-09-02T16:35:04.489Z",
+  updatedAt: "2026-09-25T14:11:54.000Z",
 } as const satisfies Command

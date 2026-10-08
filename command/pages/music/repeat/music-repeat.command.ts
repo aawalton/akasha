@@ -40,4 +40,6 @@ export const musicRepeat = {
     { argument: "argument/device-id" },
     { argument: "argument/repeat-state", required: true, saidAs: "word" },
   ],
+  createdAt: "2026-09-14T13:44:26.510Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies Command

@@ -10,4 +10,6 @@ export const write = {
     { partOfSpeech: "part-of-speech/verb", spelling: "writes" },
     { partOfSpeech: "part-of-speech/past-participle", spelling: "written" },
   ],
+  createdAt: "2026-09-24T16:18:06.891Z",
+  updatedAt: "2026-09-25T15:41:48.000Z",
 } as const satisfies CommonLanguageTerm

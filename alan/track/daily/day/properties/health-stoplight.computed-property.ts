@@ -9,4 +9,6 @@ export const healthStoplight = {
   holds: "text",
   code: "ts",
   types: "ts",
+  createdAt: "2026-09-05T15:07:38.133Z",
+  updatedAt: "2026-09-22T10:05:53.000Z",
 } as const satisfies ComputedProperty

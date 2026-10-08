@@ -10,4 +10,6 @@ export const nobelNinetySeven = {
   threshold: 1000,
   description:
     "The 1997 Nobel Peace Prize was awarded jointly to the International Campaign to Ban Landmines and its coordinator Jody Williams — recognition that citizen-led campaigns can reshape international law. The ICBL coalition included MAG, Handicap International (now Humanity & Inclusion), and hundreds of other organisations.",
+  createdAt: "2026-04-23T17:40:55.427Z",
+  updatedAt: "2026-09-15T16:31:54.000Z",
 } as const satisfies CtwAchievement

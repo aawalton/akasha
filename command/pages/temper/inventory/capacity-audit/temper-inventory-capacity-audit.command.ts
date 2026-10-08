@@ -32,4 +32,6 @@ export const temperInventoryCapacityAudit = {
     { argument: "argument/inventory-path" },
     { argument: "argument/characters-path" },
   ],
+  createdAt: "2026-09-02T03:49:49.649Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies Command

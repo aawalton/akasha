@@ -6,4 +6,6 @@ export const outside = {
   slug: "outside",
   definition: "not within",
   spellings: [{ partOfSpeech: "part-of-speech/preposition", spelling: "outside" }],
+  createdAt: "2026-09-25T17:02:26.455Z",
+  updatedAt: "2026-09-25T17:02:31.000Z",
 } as const satisfies CommonLanguageTerm

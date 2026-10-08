@@ -9,4 +9,6 @@ export const nounGroupWithADeterminer = {
   writtenFrom: ["part-of-speech/determiner", "phrase-kind/noun-group"],
   admits: ["the code", "a machine", "an answer"],
   refuses: ["code the", "the a code"],
+  createdAt: "2026-09-21T19:58:12.091Z",
+  updatedAt: "2026-09-25T15:41:48.000Z",
 } as const satisfies Construction

@@ -10,4 +10,6 @@ export const fiftyFiveMillion = {
   threshold: 100000000000,
   description:
     "Since the Ottawa Treaty, 92 states parties have destroyed over 55 million stockpiled anti-personnel mines — weapons that will never reach the ground. Italy alone destroyed 7.1 million from its arsenals.",
+  createdAt: "2026-04-23T17:40:46.186Z",
+  updatedAt: "2026-09-15T16:31:54.000Z",
 } as const satisfies CtwAchievement

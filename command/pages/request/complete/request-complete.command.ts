@@ -64,4 +64,6 @@ export const requestComplete = {
   ],
   name: "complete",
   arguments: [{ argument: "argument/feature-request", required: true, saidAs: "word" }],
+  createdAt: "2026-09-21T17:26:13.208Z",
+  updatedAt: "2026-09-21T17:35:33.000Z",
 } as const satisfies Command

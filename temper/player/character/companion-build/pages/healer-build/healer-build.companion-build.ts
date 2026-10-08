@@ -10,4 +10,6 @@ export const healerBuild = {
   correlationId: "f52a91db-8262-492a-9305-a8cc1a8c445b",
   targetCount: 1,
   baseRoles: ["healer"],
+  createdAt: "2026-09-03T17:48:09.134Z",
+  updatedAt: "2026-09-21T15:29:06.000Z",
 } as const satisfies CompanionBuild

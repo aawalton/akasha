@@ -63,4 +63,6 @@ export const talosSecretGen = {
   ],
   name: "secret-gen",
   arguments: [{ argument: "argument/force" }, { argument: "argument/cluster" }],
+  createdAt: "2026-09-03T16:18:02.123Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies Command

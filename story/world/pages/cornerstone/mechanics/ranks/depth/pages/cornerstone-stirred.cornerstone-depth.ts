@@ -9,4 +9,6 @@ export const cornerstoneStirred = {
   place: 2,
   description:
     "A dim, unreliable trickle: the broad fact, such as that someone is sad, but no detail.",
+  createdAt: "2026-09-26T18:07:40.461Z",
+  updatedAt: "2026-09-26T18:07:44.000Z",
 } as const satisfies CornerstoneDepth

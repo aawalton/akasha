@@ -6,4 +6,6 @@ export const today = {
   slug: "today",
   definition: "the current day",
   spellings: [{ partOfSpeech: "part-of-speech/noun", spelling: "today" }],
+  createdAt: "2026-09-25T12:32:23.504Z",
+  updatedAt: "2026-09-25T15:41:48.000Z",
 } as const satisfies CommonLanguageTerm

@@ -13,4 +13,6 @@ export const qualityIds = {
         "The change generator `quality-ids-keeping` writes this table from the quality pages.",
     },
   ],
+  createdAt: "2026-09-27T02:18:50.592Z",
+  updatedAt: "2026-09-27T02:19:11.000Z",
 } as const satisfies DataTable

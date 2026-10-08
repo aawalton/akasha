@@ -6,4 +6,6 @@ export const from = {
   slug: "from",
   definition: "the preposition naming where a thing comes out of",
   spellings: [{ partOfSpeech: "part-of-speech/preposition", spelling: "from" }],
+  createdAt: "2026-09-21T20:01:44.493Z",
+  updatedAt: "2026-09-25T15:41:48.000Z",
 } as const satisfies CommonLanguageTerm

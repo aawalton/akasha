@@ -13,4 +13,6 @@ export const roleIds = {
         "The change generator `role-ids-keeping` writes this table from the character role pages.",
     },
   ],
+  createdAt: "2026-09-27T01:49:16.668Z",
+  updatedAt: "2026-09-27T01:49:21.000Z",
 } as const satisfies DataTable

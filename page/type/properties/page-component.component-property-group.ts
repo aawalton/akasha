@@ -9,4 +9,6 @@ export const pageComponent = {
   slug: "page-component",
   propertySlug: "page-component",
   definition: "the component drawing a page of this page type on a screen of its own",
+  createdAt: "2026-09-13T20:56:03.359Z",
+  updatedAt: "2026-09-15T16:25:50.000Z",
 } as const satisfies ComponentPropertyGroup

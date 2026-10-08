@@ -10,4 +10,6 @@ export const belowFiveThousand = {
   threshold: 1000000,
   description:
     "In recent years, recorded annual landmine and cluster munition casualties dropped below 5,000 for the first time since systematic tracking began — still 5,000 too many, but a historic low that proves sustained action works.",
+  createdAt: "2026-04-23T17:40:52.187Z",
+  updatedAt: "2026-09-15T16:31:54.000Z",
 } as const satisfies CtwAchievement

@@ -6,4 +6,6 @@ export const stress = {
   slug: "stress",
   definition: "strain on the mind or body",
   spellings: [{ partOfSpeech: "part-of-speech/noun", spelling: "stress" }],
+  createdAt: "2026-09-24T22:29:28.992Z",
+  updatedAt: "2026-09-25T15:41:48.000Z",
 } as const satisfies CommonLanguageTerm

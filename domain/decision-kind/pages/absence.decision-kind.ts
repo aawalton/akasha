@@ -17,4 +17,6 @@ export const absence = {
         "An absence belongs where the thing left out sits near the thing kept and is reached in error.",
     },
   ],
+  createdAt: "2026-08-29T15:09:32.952Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies DecisionKind

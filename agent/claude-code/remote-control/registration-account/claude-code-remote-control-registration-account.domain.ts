@@ -43,4 +43,6 @@ export const claudeCodeRemoteControlRegistrationAccount = {
         "A seat's registration account serves a model call only where the gateway picks it.",
     },
   ],
+  createdAt: "2026-09-22T19:04:12.401Z",
+  updatedAt: "2026-09-22T19:38:32.000Z",
 } as const satisfies Domain

@@ -9,4 +9,6 @@ export const sell = {
     { partOfSpeech: "part-of-speech/verb", spelling: "sell" },
     { partOfSpeech: "part-of-speech/verb", spelling: "sells" },
   ],
+  createdAt: "2026-09-24T18:01:36.795Z",
+  updatedAt: "2026-09-25T15:41:48.000Z",
 } as const satisfies CommonLanguageTerm

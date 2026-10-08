@@ -6,4 +6,6 @@ export const by = {
   slug: "by",
   definition: "the preposition naming who or what does a thing",
   spellings: [{ partOfSpeech: "part-of-speech/preposition", spelling: "by" }],
+  createdAt: "2026-09-21T20:01:49.005Z",
+  updatedAt: "2026-09-25T15:41:48.000Z",
 } as const satisfies CommonLanguageTerm

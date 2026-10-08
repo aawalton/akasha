@@ -8,4 +8,6 @@ export const alanA11ce0000000400080000000000aa111 = {
   deviceId: "A11CE000-0000-4000-8000-0000000AA111",
   secretHash: "d6c47ac5ce980922254c04cc049100cf4859e6515ae125bcd3c4917736698161",
   revokedAt: "2026-09-15T22:22:32.482Z",
+  createdAt: "2026-09-15T22:22:23.808Z",
+  updatedAt: "2026-09-25T12:37:32.000Z",
 } as const satisfies DeviceSecret

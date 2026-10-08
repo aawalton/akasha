@@ -41,4 +41,6 @@ export const temperCatalogStatus = {
     { argument: "argument/side-file" },
     { argument: "argument/saved-variables-file" },
   ],
+  createdAt: "2026-09-02T03:49:49.644Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies Command

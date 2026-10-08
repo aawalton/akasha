@@ -10,4 +10,6 @@ export const wideAreaSurvey = {
   threshold: 25,
   description:
     "Non-Technical Survey is the process of defining the boundaries of suspected hazardous areas before physical clearance begins. Surveyors walk the perimeter, interview communities, and map what they find.",
+  createdAt: "2026-04-23T17:40:18.830Z",
+  updatedAt: "2026-09-15T16:31:54.000Z",
 } as const satisfies CtwAchievement

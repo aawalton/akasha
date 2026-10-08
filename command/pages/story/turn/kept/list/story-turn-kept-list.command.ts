@@ -43,4 +43,6 @@ export const storyTurnKeptList = {
   ],
   name: "list",
   arguments: [{ argument: "argument/played-turn", required: true }],
+  createdAt: "2026-09-28T22:54:15.337Z",
+  updatedAt: "2026-09-28T22:55:18.000Z",
 } as const satisfies Command

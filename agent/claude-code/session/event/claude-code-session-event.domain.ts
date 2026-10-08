@@ -29,4 +29,6 @@ export const claudeCodeSessionEvent = {
       statement: "A session event before an act and one after that act are two session events.",
     },
   ],
+  createdAt: "2026-09-22T15:59:50.976Z",
+  updatedAt: "2026-09-22T17:21:30.000Z",
 } as const satisfies Domain

@@ -63,4 +63,6 @@ export const temperInventoryRuleUpdate = {
     { argument: "argument/buy-shortfall" },
     { argument: "argument/buy-max-price" },
   ],
+  createdAt: "2026-09-02T03:49:49.657Z",
+  updatedAt: "2026-09-27T14:32:48.000Z",
 } as const satisfies Command

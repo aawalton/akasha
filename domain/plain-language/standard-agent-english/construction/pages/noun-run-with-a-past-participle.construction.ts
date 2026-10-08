@@ -15,4 +15,6 @@ export const nounRunWithAPastParticiple = {
       statement: "What was done is written after the noun run rather than before it.",
     },
   ],
+  createdAt: "2026-09-22T14:05:31.604Z",
+  updatedAt: "2026-09-25T15:41:48.000Z",
 } as const satisfies Construction

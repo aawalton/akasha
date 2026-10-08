@@ -10,4 +10,6 @@ export const oneTwentyTwo = {
   threshold: 6,
   description:
     "On 3 December 1997, representatives of 122 nations gathered in Ottawa to sign the Mine Ban Treaty — the fastest-negotiated multilateral disarmament agreement in history. All six teams active on the same day echoes that moment of universal commitment.",
+  createdAt: "2026-04-23T17:40:54.131Z",
+  updatedAt: "2026-09-15T16:31:54.000Z",
 } as const satisfies CtwAchievement

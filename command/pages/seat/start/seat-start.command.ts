@@ -78,4 +78,6 @@ export const seatStart = {
     { argument: "argument/anthropic-base-url" },
     { argument: "argument/anthropic-auth-token" },
   ],
+  createdAt: "2026-09-07T01:27:53.278Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies Command

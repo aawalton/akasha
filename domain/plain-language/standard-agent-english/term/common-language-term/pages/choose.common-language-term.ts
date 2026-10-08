@@ -9,4 +9,6 @@ export const choose = {
     { partOfSpeech: "part-of-speech/past-participle", spelling: "chosen" },
     { partOfSpeech: "part-of-speech/verb", spelling: "chooses" },
   ],
+  createdAt: "2026-09-22T18:05:51.714Z",
+  updatedAt: "2026-09-25T15:41:48.000Z",
 } as const satisfies CommonLanguageTerm

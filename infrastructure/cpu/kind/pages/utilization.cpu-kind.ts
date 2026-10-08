@@ -23,4 +23,6 @@ export const utilization = {
       statement: "A host at full utilization with nothing waiting is a host being used well.",
     },
   ],
+  createdAt: "2026-09-11T17:37:11.304Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies CpuKind

@@ -18,4 +18,6 @@ export const design = {
       ],
     },
   ],
+  createdAt: "2026-08-29T15:09:32.951Z",
+  updatedAt: "2026-09-15T18:30:47.000Z",
 } as const satisfies DecisionGroup

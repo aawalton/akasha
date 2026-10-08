@@ -9,4 +9,6 @@ export const modalWithAVerbPhrase = {
   writtenFrom: ["part-of-speech/modal", "phrase-kind/verb-phrase"],
   admits: ["can read", "can read from a page", "can endure on a day"],
   refuses: ["read can", "can a page"],
+  createdAt: "2026-09-22T18:46:46.376Z",
+  updatedAt: "2026-09-25T15:41:48.000Z",
 } as const satisfies Construction

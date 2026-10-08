@@ -35,4 +35,6 @@ export const temperInventoryReading = {
   ],
   name: "reading",
   arguments: [{ argument: "argument/output" }, { argument: "argument/json-one-line" }],
+  createdAt: "2026-09-02T03:49:49.657Z",
+  updatedAt: "2026-09-22T10:09:03.000Z",
 } as const satisfies Command

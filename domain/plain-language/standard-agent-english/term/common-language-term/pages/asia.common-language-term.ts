@@ -6,4 +6,6 @@ export const asia = {
   slug: "asia",
   definition: "the largest continent",
   spellings: [{ partOfSpeech: "part-of-speech/proper-noun", spelling: "Asia" }],
+  createdAt: "2026-09-24T17:51:39.850Z",
+  updatedAt: "2026-09-25T15:41:48.000Z",
 } as const satisfies CommonLanguageTerm

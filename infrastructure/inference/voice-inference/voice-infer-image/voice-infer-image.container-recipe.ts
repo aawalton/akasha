@@ -7,4 +7,6 @@ export const voiceInferImage = {
   definition: "the image a voice service runs from on a Pascal card",
   recipe: "dockerfile",
   repository: "cluster/voice-infer-cu121",
+  createdAt: "2026-09-03T16:24:02.557Z",
+  updatedAt: "2026-09-15T16:30:42.000Z",
 } as const satisfies ContainerRecipe

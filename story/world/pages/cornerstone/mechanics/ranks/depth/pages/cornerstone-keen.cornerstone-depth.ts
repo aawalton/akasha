@@ -8,4 +8,6 @@ export const cornerstoneKeen = {
   world: "world/cornerstone",
   place: 4,
   description: "Fine detail and slight anticipation, such as sensing scarcity a few days out.",
+  createdAt: "2026-09-26T18:07:40.461Z",
+  updatedAt: "2026-09-26T18:07:44.000Z",
 } as const satisfies CornerstoneDepth

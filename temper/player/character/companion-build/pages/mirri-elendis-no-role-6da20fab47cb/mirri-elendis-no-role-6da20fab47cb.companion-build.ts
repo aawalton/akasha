@@ -11,4 +11,6 @@ export const mirriElendisNoRole6da20fab47cb = {
   visibility: "live",
   targetCount: 1,
   baseRoles: [],
+  createdAt: "2026-09-25T15:20:41.921Z",
+  updatedAt: "2026-09-25T15:20:43.000Z",
 } as const satisfies CompanionBuild

@@ -5,4 +5,6 @@ export const every = {
   type: "page-type/common-language-term",
   slug: "every",
   spellings: [{ partOfSpeech: "part-of-speech/determiner", spelling: "every" }],
+  createdAt: "2026-09-21T22:51:48.410Z",
+  updatedAt: "2026-09-25T15:41:48.000Z",
 } as const satisfies CommonLanguageTerm

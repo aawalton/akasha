@@ -25,4 +25,6 @@ export const therapistFemaleVideoCall = {
   connectionActivityWeight: 1,
   connectionActivityWit: 1.5,
   connectionActivitySeq: 22,
+  createdAt: "2026-06-04T16:16:35.132Z",
+  updatedAt: "2026-09-25T13:01:00.000Z",
 } as const satisfies ConnectionActivity

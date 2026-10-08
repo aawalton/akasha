@@ -78,4 +78,6 @@ export const musicNext = {
   ],
   name: "next",
   arguments: [{ argument: "argument/json" }],
+  createdAt: "2026-09-02T16:34:40.346Z",
+  updatedAt: "2026-09-22T13:23:32.000Z",
 } as const satisfies Command

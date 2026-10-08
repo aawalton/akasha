@@ -32,4 +32,6 @@ export const engineConstants = {
       statement: "The name of the function that listed the globals is kept beside them.",
     },
   ],
+  createdAt: "2026-09-22T20:18:17.507Z",
+  updatedAt: "2026-09-22T20:19:07.000Z",
 } as const satisfies DataTable

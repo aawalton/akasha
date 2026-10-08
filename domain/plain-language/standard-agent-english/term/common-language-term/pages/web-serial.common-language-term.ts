@@ -9,4 +9,6 @@ export const webSerial = {
     { partOfSpeech: "part-of-speech/noun", spelling: "web serial" },
     { partOfSpeech: "part-of-speech/noun", spelling: "web serials" },
   ],
+  createdAt: "2026-09-25T13:05:17.647Z",
+  updatedAt: "2026-09-25T15:41:48.000Z",
 } as const satisfies CommonLanguageTerm

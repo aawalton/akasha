@@ -10,4 +10,6 @@ export const cornerstoneDreaming = {
   threshold: 20,
   description:
     "Fully awake, the core can project will and imagination: shape weather, dream futures, guide from afar. It is the endgame guardian-spirit of the place.",
+  createdAt: "2026-09-26T18:08:09.941Z",
+  updatedAt: "2026-09-26T18:08:14.000Z",
 } as const satisfies CornerstoneWakefulnessTier

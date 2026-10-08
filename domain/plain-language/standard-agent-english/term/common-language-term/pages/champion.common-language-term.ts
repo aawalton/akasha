@@ -9,4 +9,6 @@ export const champion = {
     { partOfSpeech: "part-of-speech/verb", spelling: "champion" },
     { partOfSpeech: "part-of-speech/verb", spelling: "champions" },
   ],
+  createdAt: "2026-09-25T15:12:53.300Z",
+  updatedAt: "2026-09-25T15:41:48.000Z",
 } as const satisfies CommonLanguageTerm

@@ -40,4 +40,6 @@ export const musicVolume = {
     { argument: "argument/device-id" },
     { argument: "argument/percent", required: true, saidAs: "word" },
   ],
+  createdAt: "2026-09-14T13:38:30.699Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies Command

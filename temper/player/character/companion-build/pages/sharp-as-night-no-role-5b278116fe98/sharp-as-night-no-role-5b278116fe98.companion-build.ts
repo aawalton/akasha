@@ -11,4 +11,6 @@ export const sharpAsNightNoRole5b278116fe98 = {
   visibility: "live",
   targetCount: 1,
   baseRoles: [],
+  createdAt: "2026-09-25T15:20:53.937Z",
+  updatedAt: "2026-09-25T15:20:55.000Z",
 } as const satisfies CompanionBuild

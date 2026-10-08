@@ -74,4 +74,6 @@ export const pageIconSearchIndexGenerate = {
   ],
   name: "icon-search-index-generate",
   arguments: [{ argument: "argument/code-root" }, { argument: "argument/stage" }],
+  createdAt: "2026-09-03T17:47:29.864Z",
+  updatedAt: "2026-09-25T14:52:07.000Z",
 } as const satisfies Command

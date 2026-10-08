@@ -26,4 +26,6 @@ export const fileProperty = {
         "`Never Depend On Everything` refuses this warrant a loader edge, which would reach every page.",
     },
   ],
+  createdAt: "2026-08-29T21:06:45.359Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies ContextWarrant

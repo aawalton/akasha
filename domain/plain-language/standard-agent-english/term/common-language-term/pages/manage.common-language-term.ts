@@ -9,4 +9,6 @@ export const manage = {
     { partOfSpeech: "part-of-speech/verb", spelling: "manage" },
     { partOfSpeech: "part-of-speech/verb", spelling: "manages" },
   ],
+  createdAt: "2026-09-24T22:35:55.716Z",
+  updatedAt: "2026-09-25T15:41:48.000Z",
 } as const satisfies CommonLanguageTerm

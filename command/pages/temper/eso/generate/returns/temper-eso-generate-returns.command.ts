@@ -42,4 +42,6 @@ export const temperEsoGenerateReturns = {
   ],
   name: "returns",
   arguments: [{ argument: "argument/code-root" }],
+  createdAt: "2026-09-24T14:18:15.249Z",
+  updatedAt: "2026-09-24T14:18:49.000Z",
 } as const satisfies Command

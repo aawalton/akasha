@@ -8,4 +8,6 @@ export const alanEa94e1f6D302429cB53e38255a23abfe = {
   secretHash: "4a7c15071a1eeb7598d4171bbec3a364c609158d1d54150e9617bfba4c63944f",
   contributor:
     "contributor/contributor-9bc4d42501098ce9fad8a73ad03e2ef5d1e89b4a1fac8426b100f7c4d7e5e3d4",
+  createdAt: "2026-09-01T05:05:32.128Z",
+  updatedAt: "2026-09-25T19:40:44.000Z",
 } as const satisfies DeviceSecret

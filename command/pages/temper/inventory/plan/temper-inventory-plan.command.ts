@@ -98,4 +98,6 @@ export const temperInventoryPlan = {
     { argument: "argument/login-checklist" },
     { argument: "argument/unmapped" },
   ],
+  createdAt: "2026-09-02T03:49:49.654Z",
+  updatedAt: "2026-09-25T14:51:03.000Z",
 } as const satisfies Command

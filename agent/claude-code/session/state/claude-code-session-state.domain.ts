@@ -33,4 +33,6 @@ export const claudeCodeSessionState = {
       statement: "A seat's turn state is akasha's reading of a seat rather than one of these.",
     },
   ],
+  createdAt: "2026-09-22T16:59:49.063Z",
+  updatedAt: "2026-09-22T17:21:30.000Z",
 } as const satisfies Domain

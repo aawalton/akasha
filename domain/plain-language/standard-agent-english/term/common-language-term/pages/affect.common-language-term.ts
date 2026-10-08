@@ -9,4 +9,6 @@ export const affect = {
     { partOfSpeech: "part-of-speech/verb", spelling: "affect" },
     { partOfSpeech: "part-of-speech/verb", spelling: "affects" },
   ],
+  createdAt: "2026-09-25T12:32:48.201Z",
+  updatedAt: "2026-09-25T15:41:48.000Z",
 } as const satisfies CommonLanguageTerm

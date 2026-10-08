@@ -40,4 +40,6 @@ export const temperInventoryItemRuleLock = {
   ],
   name: "lock",
   arguments: [{ argument: "argument/item-rule-id", required: true, saidAs: "word" }],
+  createdAt: "2026-09-02T03:49:49.651Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies Command

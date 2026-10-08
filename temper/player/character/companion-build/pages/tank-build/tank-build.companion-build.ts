@@ -9,4 +9,6 @@ export const tankBuild = {
   visibility: "private",
   correlationId: "b05addfb-4be5-4243-b857-c34c4dd3ab56",
   baseRoles: ["tank"],
+  createdAt: "2026-07-24T21:30:36.573Z",
+  updatedAt: "2026-09-21T15:29:06.000Z",
 } as const satisfies CompanionBuild

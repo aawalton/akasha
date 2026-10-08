@@ -6,4 +6,6 @@ export const literature = {
   slug: "literature",
   definition: "writing valued as art",
   spellings: [{ partOfSpeech: "part-of-speech/noun", spelling: "literature" }],
+  createdAt: "2026-09-25T12:48:28.452Z",
+  updatedAt: "2026-09-25T15:41:48.000Z",
 } as const satisfies CommonLanguageTerm

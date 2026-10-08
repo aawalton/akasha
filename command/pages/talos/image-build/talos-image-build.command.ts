@@ -75,4 +75,6 @@ export const talosImageBuild = {
     { argument: "argument/node", required: true, saidAs: "flag-or-word" },
     { argument: "argument/download" },
   ],
+  createdAt: "2026-09-03T16:18:02.123Z",
+  updatedAt: "2026-09-22T10:09:10.000Z",
 } as const satisfies Command

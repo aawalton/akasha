@@ -10,4 +10,6 @@ export const bihac = {
   threshold: 1000000,
   description:
     "More than 820 km² of Bosnia and Herzegovina remain contaminated with landmines — over 30 years after the war ended. The country has cleared more than 3,000 km² since 1996, but the remaining areas are the most technically difficult.",
+  createdAt: "2026-04-23T17:40:06.919Z",
+  updatedAt: "2026-09-15T16:31:54.000Z",
 } as const satisfies CtwAchievement

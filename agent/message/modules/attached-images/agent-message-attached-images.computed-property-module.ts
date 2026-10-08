@@ -36,4 +36,6 @@ export const agentMessageAttachedImages = {
       statement: "A conversation shows those lines as a count of images rather than as words.",
     },
   ],
+  createdAt: "2026-09-24T18:15:32.390Z",
+  updatedAt: "2026-09-25T17:59:08.000Z",
 } as const satisfies ComputedPropertyModule

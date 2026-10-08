@@ -6,4 +6,6 @@ export const health = {
   slug: "health",
   definition: "how well a body works",
   spellings: [{ partOfSpeech: "part-of-speech/noun", spelling: "health" }],
+  createdAt: "2026-09-25T12:33:55.165Z",
+  updatedAt: "2026-09-25T15:41:48.000Z",
 } as const satisfies CommonLanguageTerm

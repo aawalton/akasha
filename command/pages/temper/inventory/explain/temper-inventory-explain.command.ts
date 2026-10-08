@@ -58,4 +58,6 @@ export const temperInventoryExplain = {
     { argument: "argument/char" },
     { argument: "argument/item", required: true, saidAs: "word" },
   ],
+  createdAt: "2026-09-02T03:49:49.650Z",
+  updatedAt: "2026-09-27T15:07:34.000Z",
 } as const satisfies Command

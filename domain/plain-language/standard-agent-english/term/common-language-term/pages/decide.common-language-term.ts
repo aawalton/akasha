@@ -6,4 +6,6 @@ export const decide = {
   slug: "decide",
   definition: "settling which one it is, as a rule or a count settles it",
   spellings: [{ partOfSpeech: "part-of-speech/past-participle", spelling: "decided" }],
+  createdAt: "2026-09-22T18:05:47.279Z",
+  updatedAt: "2026-09-25T15:41:48.000Z",
 } as const satisfies CommonLanguageTerm

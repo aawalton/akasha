@@ -6,4 +6,6 @@ export const commonLanguageTermWith = {
   slug: "common-language-term-with",
   definition: "the preposition naming what goes along with a thing",
   spellings: [{ partOfSpeech: "part-of-speech/preposition", spelling: "with" }],
+  createdAt: "2026-09-21T20:01:30.769Z",
+  updatedAt: "2026-09-25T15:41:48.000Z",
 } as const satisfies CommonLanguageTerm

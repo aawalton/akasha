@@ -75,4 +75,6 @@ export const storyChapterClose = {
     { argument: "argument/through", required: true },
     { argument: "argument/title", required: true },
   ],
+  createdAt: "2026-09-24T19:29:09.156Z",
+  updatedAt: "2026-10-06T11:34:46.000Z",
 } as const satisfies Command

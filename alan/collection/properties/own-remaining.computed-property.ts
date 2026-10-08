@@ -9,4 +9,6 @@ export const ownRemaining = {
   holds: "number",
   code: "ts",
   types: "ts",
+  createdAt: "2026-09-05T15:31:05.701Z",
+  updatedAt: "2026-09-22T13:47:07.000Z",
 } as const satisfies ComputedProperty

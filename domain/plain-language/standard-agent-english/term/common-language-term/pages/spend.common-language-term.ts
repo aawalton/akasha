@@ -10,4 +10,6 @@ export const spend = {
     { partOfSpeech: "part-of-speech/verb", spelling: "spends" },
     { partOfSpeech: "part-of-speech/past-participle", spelling: "spent" },
   ],
+  createdAt: "2026-09-25T14:36:56.135Z",
+  updatedAt: "2026-09-25T15:41:48.000Z",
 } as const satisfies CommonLanguageTerm

@@ -6,4 +6,6 @@ export const medical = {
   slug: "medical",
   definition: "about treating illness",
   spellings: [{ partOfSpeech: "part-of-speech/adjective", spelling: "medical" }],
+  createdAt: "2026-09-25T12:50:13.254Z",
+  updatedAt: "2026-09-25T15:41:48.000Z",
 } as const satisfies CommonLanguageTerm

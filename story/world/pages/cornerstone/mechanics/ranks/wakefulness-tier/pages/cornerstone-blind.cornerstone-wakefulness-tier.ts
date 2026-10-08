@@ -10,4 +10,6 @@ export const cornerstoneBlind = {
   threshold: 1,
   description:
     "Only innate Touch. The core perceives only direct contact with its own buried soil.",
+  createdAt: "2026-09-26T18:08:09.941Z",
+  updatedAt: "2026-09-26T18:08:14.000Z",
 } as const satisfies CornerstoneWakefulnessTier

@@ -14,4 +14,6 @@ export const possessiveProperNoun = {
   ],
   admits: ["Alan's life", "Alan's mailbox", "Claude Code's config"],
   refuses: ["the Alan's life", "Alan's"],
+  createdAt: "2026-09-24T17:43:41.220Z",
+  updatedAt: "2026-09-25T15:41:48.000Z",
 } as const satisfies Construction

@@ -9,4 +9,6 @@ export const domainDefinitionAsANounPhrase = {
   writtenFrom: ["phrase-kind/noun-phrase"],
   admits: ["a machine in a cluster", "markdown"],
   refuses: ["in a cluster", "a machine in a cluster of servers in a rock"],
+  createdAt: "2026-09-21T21:42:03.101Z",
+  updatedAt: "2026-09-25T15:41:48.000Z",
 } as const satisfies Construction

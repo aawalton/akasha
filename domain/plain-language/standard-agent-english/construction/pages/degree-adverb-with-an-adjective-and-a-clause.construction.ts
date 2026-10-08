@@ -14,4 +14,6 @@ export const degreeAdverbWithAnAdjectiveAndAClause = {
   ],
   admits: ["how safe Alan feels"],
   refuses: ["what safe Alan feels", "how safe feels"],
+  createdAt: "2026-09-24T23:44:45.826Z",
+  updatedAt: "2026-09-25T15:41:48.000Z",
 } as const satisfies Construction

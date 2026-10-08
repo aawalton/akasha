@@ -6,4 +6,6 @@ export const copy = {
   slug: "copy",
   definition: "makes a second of the same thing",
   spellings: [{ partOfSpeech: "part-of-speech/verb", spelling: "copies" }],
+  createdAt: "2026-09-25T18:33:25.196Z",
+  updatedAt: "2026-09-25T18:33:28.000Z",
 } as const satisfies CommonLanguageTerm

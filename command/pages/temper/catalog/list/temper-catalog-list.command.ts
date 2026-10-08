@@ -24,4 +24,6 @@ export const temperCatalogList = {
   ],
   name: "list",
   arguments: [{ argument: "argument/json" }],
+  createdAt: "2026-09-02T03:40:20.108Z",
+  updatedAt: "2026-09-22T13:43:11.000Z",
 } as const satisfies Command

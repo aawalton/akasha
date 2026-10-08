@@ -5,4 +5,6 @@ export const their = {
   type: "page-type/common-language-term",
   slug: "their",
   spellings: [{ partOfSpeech: "part-of-speech/determiner", spelling: "their" }],
+  createdAt: "2026-09-21T22:51:33.787Z",
+  updatedAt: "2026-09-25T15:41:48.000Z",
 } as const satisfies CommonLanguageTerm

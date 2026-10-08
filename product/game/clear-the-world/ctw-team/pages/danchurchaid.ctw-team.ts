@@ -10,4 +10,6 @@ export const danchurchaid = {
   hazardsMarked: 0,
   zonesCompleted: 0,
   hex: "#A41E34",
+  createdAt: "2026-04-23T17:40:04.226Z",
+  updatedAt: "2026-09-15T16:32:14.000Z",
 } as const satisfies CtwTeam

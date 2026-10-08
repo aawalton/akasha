@@ -10,4 +10,6 @@ export const qualityAssurance = {
   threshold: 500000,
   description:
     "Quality assurance in mine action involves independent sampling of cleared land to verify that operators met required standards. A failed QA inspection means the entire area must be re-cleared at the operator’s expense.",
+  createdAt: "2026-04-23T17:40:38.085Z",
+  updatedAt: "2026-09-15T16:31:54.000Z",
 } as const satisfies CtwAchievement

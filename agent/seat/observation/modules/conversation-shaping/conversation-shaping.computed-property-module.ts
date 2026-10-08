@@ -78,4 +78,6 @@ export const conversationShaping = {
       statement: "A line that does not parse is no entry.",
     },
   ],
+  createdAt: "2026-09-24T16:12:07.522Z",
+  updatedAt: "2026-09-25T18:00:03.000Z",
 } as const satisfies ComputedPropertyModule

@@ -8,4 +8,6 @@ export const program = {
     { partOfSpeech: "part-of-speech/noun", spelling: "program" },
     { partOfSpeech: "part-of-speech/noun", spelling: "programs" },
   ],
+  createdAt: "2026-09-22T14:26:24.869Z",
+  updatedAt: "2026-09-25T15:41:48.000Z",
 } as const satisfies CommonLanguageTerm

@@ -10,4 +10,6 @@ export const fastestTreaty = {
   threshold: 1000,
   description:
     "The Ottawa Treaty went from first proposal to binding international law in just 14 months — the fastest major multilateral treaty in history. Speed matters when lives are at stake. $1,000 contributed together, and growing.",
+  createdAt: "2026-04-23T17:40:57.464Z",
+  updatedAt: "2026-09-15T16:31:54.000Z",
 } as const satisfies CtwAchievement

@@ -49,4 +49,6 @@ export const refreshPersona = {
   ],
   name: "persona",
   arguments: [],
+  createdAt: "2026-09-08T21:23:43.440Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies Command

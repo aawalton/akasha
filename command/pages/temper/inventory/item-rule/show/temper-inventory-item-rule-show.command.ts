@@ -38,4 +38,6 @@ export const temperInventoryItemRuleShow = {
     { argument: "argument/tsv" },
     { argument: "argument/item-rule-id", required: true, saidAs: "word" },
   ],
+  createdAt: "2026-09-02T03:49:49.652Z",
+  updatedAt: "2026-09-22T10:09:10.000Z",
 } as const satisfies Command

@@ -20,4 +20,6 @@ export const fileDomain = {
       statement: "The page a file belongs to is composed out of that file's own name.",
     },
   ],
+  createdAt: "2026-08-29T21:06:45.358Z",
+  updatedAt: "2026-09-21T23:13:41.000Z",
 } as const satisfies ContextWarrant

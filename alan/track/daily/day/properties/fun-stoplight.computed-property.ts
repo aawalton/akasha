@@ -9,4 +9,6 @@ export const funStoplight = {
   holds: "text",
   code: "ts",
   types: "ts",
+  createdAt: "2026-09-05T15:08:05.695Z",
+  updatedAt: "2026-09-22T10:06:01.000Z",
 } as const satisfies ComputedProperty

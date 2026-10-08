@@ -28,4 +28,6 @@ export const trackSessionList = {
   ],
   name: "list",
   arguments: [{ argument: "argument/json" }, { argument: "argument/day" }],
+  createdAt: "2026-09-07T01:26:40.949Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies Command

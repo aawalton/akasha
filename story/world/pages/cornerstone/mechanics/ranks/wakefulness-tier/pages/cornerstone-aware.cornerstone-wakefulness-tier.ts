@@ -10,4 +10,6 @@ export const cornerstoneAware = {
   threshold: 2,
   description:
     "The first true senses have woken. The core knows it is a place, not a point, and perceives the immediate settlement.",
+  createdAt: "2026-09-26T18:08:09.940Z",
+  updatedAt: "2026-09-26T18:08:14.000Z",
 } as const satisfies CornerstoneWakefulnessTier

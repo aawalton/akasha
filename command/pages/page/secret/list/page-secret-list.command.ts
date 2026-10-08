@@ -28,4 +28,6 @@ export const pageSecretList = {
   ],
   name: "list",
   arguments: [{ argument: "argument/file-path", required: true }],
+  createdAt: "2026-09-03T16:20:20.840Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies Command

@@ -10,4 +10,6 @@ export const commonLanguageTermShow = {
     { partOfSpeech: "part-of-speech/verb", spelling: "shows" },
     { partOfSpeech: "part-of-speech/past-participle", spelling: "shown" },
   ],
+  createdAt: "2026-09-24T22:38:23.695Z",
+  updatedAt: "2026-09-25T15:41:48.000Z",
 } as const satisfies CommonLanguageTerm

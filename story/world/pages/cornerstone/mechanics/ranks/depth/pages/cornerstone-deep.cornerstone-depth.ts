@@ -9,4 +9,6 @@ export const cornerstoneDeep = {
   place: 5,
   description:
     "Perception reaches beyond the walls and into subtler layers, and the Faculty can begin to act rather than only perceive: Warmth at Depth 4 can soothe a nightmare, and Reach at Depth 4 can shift soil.",
+  createdAt: "2026-09-26T18:07:40.460Z",
+  updatedAt: "2026-09-26T18:07:44.000Z",
 } as const satisfies CornerstoneDepth

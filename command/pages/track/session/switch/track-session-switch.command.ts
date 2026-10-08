@@ -124,4 +124,6 @@ export const trackSessionSwitch = {
     { argument: "argument/at" },
     { argument: "argument/relationship", repeats: true },
   ],
+  createdAt: "2026-09-07T01:26:40.479Z",
+  updatedAt: "2026-09-30T09:54:28.000Z",
 } as const satisfies Command

@@ -13,4 +13,6 @@ export const specialEffectTypeIds = {
         "The change generator `special-effect-type-ids-keeping` writes this table from its pages.",
     },
   ],
+  createdAt: "2026-09-27T02:35:08.673Z",
+  updatedAt: "2026-09-27T02:35:12.000Z",
 } as const satisfies DataTable

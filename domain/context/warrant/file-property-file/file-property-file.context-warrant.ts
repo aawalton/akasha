@@ -20,4 +20,6 @@ export const filePropertyFile = {
       statement: "A property's file warrants its page whatever the file has.",
     },
   ],
+  createdAt: "2026-08-29T21:06:45.359Z",
+  updatedAt: "2026-09-22T10:11:09.000Z",
 } as const satisfies ContextWarrant

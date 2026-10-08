@@ -9,4 +9,6 @@ export const a = {
     { partOfSpeech: "part-of-speech/determiner", spelling: "a" },
     { partOfSpeech: "part-of-speech/determiner", spelling: "an" },
   ],
+  createdAt: "2026-09-21T19:48:17.844Z",
+  updatedAt: "2026-09-25T15:41:48.000Z",
 } as const satisfies CommonLanguageTerm

@@ -33,4 +33,6 @@ export const stretchHours = {
       statement: "A stretch whose start cannot be read is no reading rather than no hours.",
     },
   ],
+  createdAt: "2026-09-18T22:37:13.024Z",
+  updatedAt: "2026-09-18T22:41:51.000Z",
 } as const satisfies ComputedPropertyModule

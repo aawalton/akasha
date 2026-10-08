@@ -8,4 +8,6 @@ export const collectiveMark = {
   scope: "global",
   metric: "global_marks",
   threshold: 5000,
+  createdAt: "2026-04-23T17:40:50.878Z",
+  updatedAt: "2026-09-15T16:31:54.000Z",
 } as const satisfies CtwAchievement

@@ -12,4 +12,6 @@ export const run = {
     { partOfSpeech: "part-of-speech/noun", spelling: "runs" },
     { partOfSpeech: "part-of-speech/past-participle", spelling: "run" },
   ],
+  createdAt: "2026-09-22T13:04:20.730Z",
+  updatedAt: "2026-09-25T15:41:48.000Z",
 } as const satisfies CommonLanguageTerm

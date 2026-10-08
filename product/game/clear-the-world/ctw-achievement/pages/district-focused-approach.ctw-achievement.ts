@@ -10,4 +10,6 @@ export const districtFocusedApproach = {
   threshold: 100000,
   description:
     "The District Focused Approach is a strategy developed in Laos where clearance organisations concentrate resources district by district, completing full survey and marking before moving on. It replaced scattered efforts with systematic progress.",
+  createdAt: "2026-04-23T17:40:32.244Z",
+  updatedAt: "2026-09-15T16:31:54.000Z",
 } as const satisfies CtwAchievement

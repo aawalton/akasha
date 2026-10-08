@@ -60,4 +60,6 @@ export const requestPublish = {
   ],
   name: "publish",
   arguments: [{ argument: "argument/feature-request", required: true, saidAs: "word" }],
+  createdAt: "2026-09-21T17:26:13.208Z",
+  updatedAt: "2026-09-21T17:29:06.000Z",
 } as const satisfies Command

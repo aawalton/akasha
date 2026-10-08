@@ -62,4 +62,6 @@ export const storyTurnRecord = {
     { argument: "argument/played-turn", required: true },
     { argument: "argument/recorder", required: false },
   ],
+  createdAt: "2026-09-28T19:48:25.250Z",
+  updatedAt: "2026-10-03T16:23:31.000Z",
 } as const satisfies Command

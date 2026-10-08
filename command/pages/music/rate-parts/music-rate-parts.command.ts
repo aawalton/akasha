@@ -67,4 +67,6 @@ export const musicRateParts = {
     { argument: "argument/grade-target", required: true },
     { argument: "argument/grade", required: true },
   ],
+  createdAt: "2026-09-21T20:18:55.739Z",
+  updatedAt: "2026-09-22T13:25:21.000Z",
 } as const satisfies Command

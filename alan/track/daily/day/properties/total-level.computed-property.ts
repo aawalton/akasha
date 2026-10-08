@@ -15,4 +15,6 @@ export const totalLevel = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-05T15:08:15.628Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies ComputedProperty

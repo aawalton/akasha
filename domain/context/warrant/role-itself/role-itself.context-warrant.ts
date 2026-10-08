@@ -28,4 +28,6 @@ export const roleItself = {
       statement: "Only a seat warrants a role.",
     },
   ],
+  createdAt: "2026-08-31T14:16:55.080Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies ContextWarrant

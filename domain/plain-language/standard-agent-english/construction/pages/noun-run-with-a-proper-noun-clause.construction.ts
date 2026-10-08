@@ -15,4 +15,6 @@ export const nounRunWithAProperNounClause = {
       statement: "The proper noun says where the noun run ends, as a determiner does.",
     },
   ],
+  createdAt: "2026-09-24T17:43:49.462Z",
+  updatedAt: "2026-09-25T15:41:48.000Z",
 } as const satisfies Construction

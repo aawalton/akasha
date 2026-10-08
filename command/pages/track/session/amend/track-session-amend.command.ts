@@ -95,4 +95,6 @@ export const trackSessionAmend = {
     { argument: "argument/difficulty" },
     { argument: "argument/relationship", repeats: true },
   ],
+  createdAt: "2026-09-07T01:26:40.713Z",
+  updatedAt: "2026-09-25T14:13:48.000Z",
 } as const satisfies Command

@@ -10,4 +10,6 @@ export const mineActionCannotWait = {
   threshold: 10000000,
   description:
     "“Mine Action Cannot Wait” was UNMAS’s 2023 campaign message, emphasising that every day of delay means more casualties in affected communities. Ten million hazards identified collectively — this community understands urgency.",
+  createdAt: "2026-04-23T17:40:52.825Z",
+  updatedAt: "2026-09-15T16:31:54.000Z",
 } as const satisfies CtwAchievement

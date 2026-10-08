@@ -19,4 +19,6 @@ export const storyChapterWrite = {
   ],
   name: "chapter-write",
   arguments: [{ argument: "argument/story", required: true }],
+  createdAt: "2026-09-28T19:11:45.970Z",
+  updatedAt: "2026-09-28T19:11:53.000Z",
 } as const satisfies Command

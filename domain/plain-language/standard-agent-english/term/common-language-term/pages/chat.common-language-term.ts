@@ -9,4 +9,6 @@ export const chat = {
     { partOfSpeech: "part-of-speech/verb", spelling: "chat" },
     { partOfSpeech: "part-of-speech/verb", spelling: "chats" },
   ],
+  createdAt: "2026-09-22T19:22:57.510Z",
+  updatedAt: "2026-09-25T15:41:48.000Z",
 } as const satisfies CommonLanguageTerm

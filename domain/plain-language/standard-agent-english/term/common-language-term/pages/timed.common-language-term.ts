@@ -6,4 +6,6 @@ export const timed = {
   slug: "timed",
   definition: "with how long it took measured",
   spellings: [{ partOfSpeech: "part-of-speech/adjective", spelling: "timed" }],
+  createdAt: "2026-09-25T16:22:27.035Z",
+  updatedAt: "2026-09-25T16:22:29.000Z",
 } as const satisfies CommonLanguageTerm

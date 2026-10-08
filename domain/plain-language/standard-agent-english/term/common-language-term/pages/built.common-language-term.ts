@@ -6,4 +6,6 @@ export const built = {
   slug: "built",
   definition: "put together out of parts",
   spellings: [{ partOfSpeech: "part-of-speech/past-participle", spelling: "built" }],
+  createdAt: "2026-09-22T15:47:48.149Z",
+  updatedAt: "2026-09-25T15:41:48.000Z",
 } as const satisfies CommonLanguageTerm

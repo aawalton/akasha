@@ -9,4 +9,6 @@ export const prepositionWithANounPhrase = {
   writtenFrom: ["part-of-speech/preposition", "phrase-kind/noun-phrase"],
   admits: ["in a cluster", "over Supabase", "of a file"],
   refuses: ["a cluster in", "in"],
+  createdAt: "2026-09-21T20:04:04.180Z",
+  updatedAt: "2026-09-25T15:41:48.000Z",
 } as const satisfies Construction

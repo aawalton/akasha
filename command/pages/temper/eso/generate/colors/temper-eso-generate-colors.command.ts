@@ -38,4 +38,6 @@ export const temperEsoGenerateColors = {
   ],
   name: "colors",
   arguments: [{ argument: "argument/code-root" }, { argument: "argument/saved-variables-file" }],
+  createdAt: "2026-09-24T15:12:03.706Z",
+  updatedAt: "2026-09-24T15:12:24.000Z",
 } as const satisfies Command

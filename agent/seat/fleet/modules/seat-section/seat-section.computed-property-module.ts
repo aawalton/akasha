@@ -25,4 +25,6 @@ export const seatSection = {
       statement: "The editor's agents panel and the seats view take a seat's section from here.",
     },
   ],
+  createdAt: "2026-09-27T17:27:50.923Z",
+  updatedAt: "2026-09-28T19:48:17.000Z",
 } as const satisfies ComputedPropertyModule

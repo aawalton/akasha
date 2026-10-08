@@ -10,4 +10,6 @@ export const cornerstoneKnowing = {
   threshold: 12,
   description:
     "The Faculties run deep; the core anticipates and acts deliberately. The first fused Powers appear, and the town is established.",
+  createdAt: "2026-09-26T18:08:09.941Z",
+  updatedAt: "2026-09-26T18:08:14.000Z",
 } as const satisfies CornerstoneWakefulnessTier

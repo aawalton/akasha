@@ -13,4 +13,6 @@ export const claudeCode = {
     "domain/claude-code-remote-control",
     "domain/claude-code-app",
   ],
+  createdAt: "2026-09-03T05:13:56.736Z",
+  updatedAt: "2026-09-24T17:45:18.000Z",
 } as const satisfies Domain

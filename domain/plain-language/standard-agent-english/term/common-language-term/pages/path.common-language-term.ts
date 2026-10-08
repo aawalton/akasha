@@ -9,4 +9,6 @@ export const path = {
     { partOfSpeech: "part-of-speech/noun", spelling: "path" },
     { partOfSpeech: "part-of-speech/noun", spelling: "paths" },
   ],
+  createdAt: "2026-09-25T16:07:59.801Z",
+  updatedAt: "2026-09-25T16:08:02.000Z",
 } as const satisfies CommonLanguageTerm

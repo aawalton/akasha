@@ -34,4 +34,6 @@ export const claudeCodeSessionTransition = {
       statement: "Code run at a session transition may stop that transition.",
     },
   ],
+  createdAt: "2026-09-22T16:32:04.525Z",
+  updatedAt: "2026-09-22T17:21:30.000Z",
 } as const satisfies Domain

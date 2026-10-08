@@ -23,4 +23,6 @@ export const burned = {
       statement: "A child that has been reaped has its seconds added to its parent's.",
     },
   ],
+  createdAt: "2026-09-11T17:36:58.285Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies CpuKind

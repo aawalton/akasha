@@ -20,4 +20,6 @@ export const claudeCodeApp = {
       statement: "No page here states what this program shows.",
     },
   ],
+  createdAt: "2026-09-22T19:23:40.058Z",
+  updatedAt: "2026-09-22T19:23:46.000Z",
 } as const satisfies Domain

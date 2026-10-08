@@ -9,4 +9,6 @@ export const to = {
     { partOfSpeech: "part-of-speech/preposition", spelling: "to" },
     { partOfSpeech: "part-of-speech/infinitive-marker", spelling: "to" },
   ],
+  createdAt: "2026-09-22T18:38:36.239Z",
+  updatedAt: "2026-09-25T15:41:48.000Z",
 } as const satisfies CommonLanguageTerm

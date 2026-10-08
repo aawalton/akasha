@@ -9,4 +9,6 @@ export const failure = {
     { partOfSpeech: "part-of-speech/noun", spelling: "failure" },
     { partOfSpeech: "part-of-speech/noun", spelling: "failures" },
   ],
+  createdAt: "2026-09-25T14:06:30.048Z",
+  updatedAt: "2026-09-25T15:41:48.000Z",
 } as const satisfies CommonLanguageTerm

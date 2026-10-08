@@ -10,4 +10,6 @@ export const postClearanceInspection = {
   threshold: 1000,
   description:
     "Post-clearance inspection returns to previously cleared land after a defined period to verify that no hazards were missed and that the community is using the land safely. It is the final quality check before permanent closure.",
+  createdAt: "2026-04-23T17:40:38.740Z",
+  updatedAt: "2026-09-15T16:31:54.000Z",
 } as const satisfies CtwAchievement

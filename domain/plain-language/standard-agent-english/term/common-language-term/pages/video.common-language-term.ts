@@ -9,4 +9,6 @@ export const video = {
     { partOfSpeech: "part-of-speech/noun", spelling: "video" },
     { partOfSpeech: "part-of-speech/noun", spelling: "videos" },
   ],
+  createdAt: "2026-09-25T16:44:21.593Z",
+  updatedAt: "2026-09-25T16:44:26.000Z",
 } as const satisfies CommonLanguageTerm

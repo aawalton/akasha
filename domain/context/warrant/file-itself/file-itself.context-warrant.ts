@@ -48,4 +48,6 @@ export const fileItself = {
       statement: "The body warranted is the body on disk and the body a read records.",
     },
   ],
+  createdAt: "2026-08-29T21:06:45.360Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies ContextWarrant

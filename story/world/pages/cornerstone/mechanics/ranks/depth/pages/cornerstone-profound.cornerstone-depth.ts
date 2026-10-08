@@ -9,4 +9,6 @@ export const cornerstoneProfound = {
   place: 6,
   description:
     "Mastery; the Faculty becomes fusion-ready, the prerequisite for fusing it into a higher Power through Research.",
+  createdAt: "2026-09-26T18:07:40.461Z",
+  updatedAt: "2026-09-26T18:07:44.000Z",
 } as const satisfies CornerstoneDepth

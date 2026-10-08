@@ -42,4 +42,6 @@ export const temperInventoryVenueTrace = {
     { argument: "argument/json" },
     { argument: "argument/inventory-path" },
   ],
+  createdAt: "2026-09-13T14:36:54.884Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies Command

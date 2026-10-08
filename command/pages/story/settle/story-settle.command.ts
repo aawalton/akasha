@@ -136,4 +136,6 @@ export const storySettle = {
     { argument: "argument/played-turn", required: false },
     { argument: "argument/draft" },
   ],
+  createdAt: "2026-09-26T14:39:37.211Z",
+  updatedAt: "2026-10-06T11:37:01.000Z",
 } as const satisfies Command

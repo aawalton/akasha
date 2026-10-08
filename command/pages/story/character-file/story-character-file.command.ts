@@ -27,4 +27,6 @@ export const storyCharacterFile = {
   ],
   name: "character-file",
   arguments: [{ argument: "argument/readings-dir" }, { argument: "argument/batch" }],
+  createdAt: "2026-09-19T00:10:40.499Z",
+  updatedAt: "2026-09-22T14:22:32.000Z",
 } as const satisfies Command

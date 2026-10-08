@@ -6,4 +6,6 @@ export const commonLanguageTermIn = {
   slug: "common-language-term-in",
   definition: "the preposition naming what a thing is inside",
   spellings: [{ partOfSpeech: "part-of-speech/preposition", spelling: "in" }],
+  createdAt: "2026-09-21T20:01:21.025Z",
+  updatedAt: "2026-09-25T15:41:48.000Z",
 } as const satisfies CommonLanguageTerm

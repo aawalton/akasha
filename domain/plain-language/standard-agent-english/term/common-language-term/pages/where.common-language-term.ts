@@ -6,4 +6,6 @@ export const where = {
   slug: "where",
   definition: "the pronoun naming the place a clause leaves out",
   spellings: [{ partOfSpeech: "part-of-speech/free-relative-pronoun", spelling: "where" }],
+  createdAt: "2026-09-22T15:03:44.446Z",
+  updatedAt: "2026-09-25T15:41:48.000Z",
 } as const satisfies CommonLanguageTerm

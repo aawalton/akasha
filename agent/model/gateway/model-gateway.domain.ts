@@ -107,4 +107,6 @@ export const modelGateway = {
       statement: "Every seat's gateway falls back this way.",
     },
   ],
+  createdAt: "2026-09-02T12:45:49.889Z",
+  updatedAt: "2026-09-25T20:39:39.000Z",
 } as const satisfies Domain

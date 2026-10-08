@@ -90,4 +90,6 @@ export const temperEsoGenerateHudSceneCatalog = {
   ],
   name: "hud-scene-catalog",
   arguments: [{ argument: "argument/code-root" }],
+  createdAt: "2026-09-03T17:43:04.186Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies Command

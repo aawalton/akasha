@@ -20,4 +20,6 @@ export const josephsPc = {
   ram: "32gb",
   ssd: 2000,
   computerStatus: "active",
+  createdAt: "2026-06-03T03:41:16.674Z",
+  updatedAt: "2026-09-15T16:29:54.000Z",
 } as const satisfies Computer

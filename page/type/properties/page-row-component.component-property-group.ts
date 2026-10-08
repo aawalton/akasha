@@ -9,4 +9,6 @@ export const pageRowComponent = {
   slug: "page-row-component",
   propertySlug: "page-row-component",
   definition: "the component drawing a page of this page type as a row",
+  createdAt: "2026-09-13T20:56:22.853Z",
+  updatedAt: "2026-09-15T16:25:50.000Z",
 } as const satisfies ComponentPropertyGroup

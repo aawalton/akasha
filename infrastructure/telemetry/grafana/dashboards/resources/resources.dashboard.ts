@@ -6,4 +6,6 @@ export const resources = {
   slug: "resources",
   definition: "what a chart server draws over the cluster's resources",
   layout: "json",
+  createdAt: "2026-09-07T15:06:16.137Z",
+  updatedAt: "2026-09-15T17:07:05.000Z",
 } as const satisfies Dashboard

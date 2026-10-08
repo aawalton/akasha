@@ -10,4 +10,6 @@ export const comp15882Build = {
   correlationId: "b5f45a19-ba1e-44e2-94ca-67cb16a46465",
   targetCount: 3,
   baseRoles: ["tank"],
+  createdAt: "2026-09-03T17:48:09.134Z",
+  updatedAt: "2026-09-21T15:29:06.000Z",
 } as const satisfies CompanionBuild

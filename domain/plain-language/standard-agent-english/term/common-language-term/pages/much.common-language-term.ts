@@ -6,4 +6,6 @@ export const much = {
   slug: "much",
   definition: "a large amount of",
   spellings: [{ partOfSpeech: "part-of-speech/determiner", spelling: "much" }],
+  createdAt: "2026-09-25T14:59:05.099Z",
+  updatedAt: "2026-09-25T15:41:48.000Z",
 } as const satisfies CommonLanguageTerm

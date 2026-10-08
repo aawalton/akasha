@@ -64,4 +64,6 @@ export const pageSecretSet = {
     { argument: "argument/commit-message" },
     { argument: "argument/keep-last-newline" },
   ],
+  createdAt: "2026-09-03T16:20:20.840Z",
+  updatedAt: "2026-09-25T14:12:37.000Z",
 } as const satisfies Command

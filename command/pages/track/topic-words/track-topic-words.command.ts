@@ -26,4 +26,6 @@ export const trackTopicWords = {
   ],
   name: "topic-words",
   arguments: [{ argument: "argument/day", required: true }],
+  createdAt: "2026-09-22T17:50:06.749Z",
+  updatedAt: "2026-09-22T17:50:32.000Z",
 } as const satisfies Command

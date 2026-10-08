@@ -101,4 +101,6 @@ export const trackSessionFile = {
     { argument: "argument/from-file", required: true },
     { argument: "argument/relationship", repeats: true },
   ],
+  createdAt: "2026-09-07T01:26:41.026Z",
+  updatedAt: "2026-09-19T17:55:55.000Z",
 } as const satisfies Command

@@ -6,4 +6,6 @@ export const into = {
   slug: "into",
   definition: "the preposition naming what a thing moves inside",
   spellings: [{ partOfSpeech: "part-of-speech/preposition", spelling: "into" }],
+  createdAt: "2026-09-21T20:01:53.815Z",
+  updatedAt: "2026-09-25T15:41:48.000Z",
 } as const satisfies CommonLanguageTerm

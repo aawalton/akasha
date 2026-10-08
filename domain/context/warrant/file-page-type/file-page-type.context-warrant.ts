@@ -37,4 +37,6 @@ export const filePageType = {
       statement: "A type whose page cannot be found is no warrant.",
     },
   ],
+  createdAt: "2026-08-29T21:06:45.360Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies ContextWarrant

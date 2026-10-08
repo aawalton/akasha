@@ -6,4 +6,6 @@ export const until = {
   slug: "until",
   definition: "up to the time that",
   spellings: [{ partOfSpeech: "part-of-speech/subordinating-conjunction", spelling: "until" }],
+  createdAt: "2026-09-25T16:47:26.960Z",
+  updatedAt: "2026-09-25T16:47:31.000Z",
 } as const satisfies CommonLanguageTerm

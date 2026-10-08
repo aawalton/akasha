@@ -7,4 +7,6 @@ export const cornerstoneTheWakingStoneTheCore = {
   character: "world-character/cornerstone-the-waking-stone-the-core",
   value: 0,
   maxValue: 5,
+  createdAt: "2026-09-26T18:05:43.140Z",
+  updatedAt: "2026-09-26T18:05:47.000Z",
 } as const satisfies CornerstoneProvision

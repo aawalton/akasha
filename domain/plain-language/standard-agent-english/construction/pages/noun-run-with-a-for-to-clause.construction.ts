@@ -15,4 +15,6 @@ export const nounRunWithAForToClause = {
   ],
   admits: ["Alan's consent for akasha to use Google", "a place for people to read stories"],
   refuses: ["consent for to use Google", "consent for akasha to"],
+  createdAt: "2026-09-24T22:15:32.095Z",
+  updatedAt: "2026-09-25T15:41:48.000Z",
 } as const satisfies Construction

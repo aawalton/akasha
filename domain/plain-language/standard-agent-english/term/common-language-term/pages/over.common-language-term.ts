@@ -6,4 +6,6 @@ export const over = {
   slug: "over",
   definition: "the preposition naming what a thing is above",
   spellings: [{ partOfSpeech: "part-of-speech/preposition", spelling: "over" }],
+  createdAt: "2026-09-21T20:01:58.378Z",
+  updatedAt: "2026-09-25T15:41:48.000Z",
 } as const satisfies CommonLanguageTerm

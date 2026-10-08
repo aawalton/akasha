@@ -49,4 +49,6 @@ export const temperPackageTypecheck = {
     { argument: "argument/code-root" },
     { argument: "argument/package-name", repeats: true },
   ],
+  createdAt: "2026-09-02T11:52:01.547Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies Command

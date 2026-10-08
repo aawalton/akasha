@@ -6,4 +6,6 @@ export const complexity = {
   slug: "complexity",
   definition: "how hard something is to understand",
   spellings: [{ partOfSpeech: "part-of-speech/noun", spelling: "complexity" }],
+  createdAt: "2026-09-25T16:18:46.875Z",
+  updatedAt: "2026-09-25T16:18:49.000Z",
 } as const satisfies CommonLanguageTerm

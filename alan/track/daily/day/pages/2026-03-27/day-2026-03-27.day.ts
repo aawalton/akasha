@@ -7,4 +7,6 @@ export const day20260327 = {
   title: "@date:2026-03-27",
   date: "2026-03-27",
   healthSamples: "jsonl",
+  createdAt: "2026-09-08T19:33:51.497Z",
+  updatedAt: "2026-09-15T16:33:01.000Z",
 } as const satisfies Day

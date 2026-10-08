@@ -10,4 +10,6 @@ export const set = {
     { partOfSpeech: "part-of-speech/noun", spelling: "set" },
     { partOfSpeech: "part-of-speech/noun", spelling: "sets" },
   ],
+  createdAt: "2026-09-22T19:58:22.975Z",
+  updatedAt: "2026-09-25T16:16:47.000Z",
 } as const satisfies CommonLanguageTerm

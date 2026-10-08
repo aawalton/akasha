@@ -42,4 +42,6 @@ export const conversation = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-24T16:42:39.930Z",
+  updatedAt: "2026-09-25T18:03:46.000Z",
 } as const satisfies ComputedProperty

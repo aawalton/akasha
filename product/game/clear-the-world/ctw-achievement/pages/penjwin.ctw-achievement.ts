@@ -10,4 +10,6 @@ export const penjwin = {
   threshold: 5000000,
   description:
     "The Penjwin district along the Iraq-Iran border contains minefields laid during the 1980–1988 war. Clearance teams work in terrain ranging from river valleys to mountain passes above 2,000 metres.",
+  createdAt: "2026-04-23T17:40:27.545Z",
+  updatedAt: "2026-09-15T16:31:54.000Z",
 } as const satisfies CtwAchievement

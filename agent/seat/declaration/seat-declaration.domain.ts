@@ -155,4 +155,6 @@ export const seatDeclaration = {
         "A seat whose initiative is deleted is assigned the domain the seat's persona champions.",
     },
   ],
+  createdAt: "2026-09-03T04:36:26.031Z",
+  updatedAt: "2026-09-26T17:23:28.000Z",
 } as const satisfies Domain

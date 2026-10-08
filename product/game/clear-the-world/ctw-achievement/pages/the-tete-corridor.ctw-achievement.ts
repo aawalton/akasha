@@ -10,4 +10,6 @@ export const theTeteCorridor = {
   threshold: 50000,
   description:
     "The Tete Corridor in Mozambique — a 500 km strip along the Zambezi River — was one of the most heavily mined transport routes in the world. HALO and NPA cleared it section by section. Mozambique was declared mine-free in 2015.",
+  createdAt: "2026-04-23T17:40:21.475Z",
+  updatedAt: "2026-09-15T16:31:54.000Z",
 } as const satisfies CtwAchievement

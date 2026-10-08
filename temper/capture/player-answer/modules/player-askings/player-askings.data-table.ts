@@ -16,4 +16,6 @@ export const playerAskings = {
       statement: "A shape the capture knows how to list is kept even where no function has it.",
     },
   ],
+  createdAt: "2026-09-24T22:06:04.426Z",
+  updatedAt: "2026-09-24T22:06:23.000Z",
 } as const satisfies DataTable

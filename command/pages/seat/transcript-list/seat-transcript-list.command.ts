@@ -77,4 +77,6 @@ export const seatTranscriptList = {
   ],
   name: "transcript-list",
   arguments: [],
+  createdAt: "2026-09-03T21:37:56.008Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies Command

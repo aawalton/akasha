@@ -59,4 +59,6 @@ export const hook = {
         "A hook over the ways a shell writes a file samples an open world that is too many ways to name.",
     },
   ],
+  createdAt: "2026-08-29T15:02:17.081Z",
+  updatedAt: "2026-09-25T22:13:39.000Z",
 } as const satisfies Domain

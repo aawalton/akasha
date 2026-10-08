@@ -11,4 +11,6 @@ export const store = {
     { partOfSpeech: "part-of-speech/noun", spelling: "store" },
     { partOfSpeech: "part-of-speech/noun", spelling: "stores" },
   ],
+  createdAt: "2026-09-24T22:05:58.845Z",
+  updatedAt: "2026-09-25T15:41:48.000Z",
 } as const satisfies CommonLanguageTerm

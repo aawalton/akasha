@@ -10,4 +10,6 @@ export const threeThousandEleven = {
   threshold: 10000000000,
   description:
     "Since 1989, Afghanistan’s Mine Action Programme has freed over 3,011 square kilometres and cleared 18 million landmines — the longest-running humanitarian demining programme in the world.",
+  createdAt: "2026-04-23T17:40:45.540Z",
+  updatedAt: "2026-09-15T16:31:54.000Z",
 } as const satisfies CtwAchievement

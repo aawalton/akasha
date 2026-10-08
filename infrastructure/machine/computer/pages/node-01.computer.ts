@@ -19,4 +19,6 @@ export const node01 = {
   ram: "16gb",
   ssd: 465.8,
   computerStatus: "active",
+  createdAt: "2026-06-03T03:41:17.291Z",
+  updatedAt: "2026-09-15T16:29:54.000Z",
 } as const satisfies Computer

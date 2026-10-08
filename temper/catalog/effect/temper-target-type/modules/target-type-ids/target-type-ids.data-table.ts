@@ -12,4 +12,6 @@ export const targetTypeIds = {
       statement: "The change generator `target-type-ids-keeping` writes this table from its pages.",
     },
   ],
+  createdAt: "2026-09-27T02:35:55.818Z",
+  updatedAt: "2026-09-27T02:35:59.000Z",
 } as const satisfies DataTable

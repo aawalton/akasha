@@ -8,4 +8,6 @@ export const mapa = {
   scope: "team",
   metric: "team_members_active_day",
   threshold: 5,
+  createdAt: "2026-04-23T17:40:33.565Z",
+  updatedAt: "2026-09-15T16:31:54.000Z",
 } as const satisfies CtwAchievement

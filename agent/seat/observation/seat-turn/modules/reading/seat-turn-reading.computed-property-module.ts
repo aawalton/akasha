@@ -76,4 +76,6 @@ export const seatTurnReading = {
       statement: "A seat's turn is answered as the address of its turn state's page.",
     },
   ],
+  createdAt: "2026-09-24T15:43:32.040Z",
+  updatedAt: "2026-09-26T18:31:02.000Z",
 } as const satisfies ComputedPropertyModule

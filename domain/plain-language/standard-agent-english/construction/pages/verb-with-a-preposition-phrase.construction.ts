@@ -20,4 +20,6 @@ export const verbWithAPrepositionPhrase = {
         "A second preposition phrase is read as part of the noun phrase the first one names.",
     },
   ],
+  createdAt: "2026-09-22T19:18:32.576Z",
+  updatedAt: "2026-09-25T15:41:48.000Z",
 } as const satisfies Construction

@@ -10,4 +10,6 @@ export const thirtyTwoNations = {
   threshold: 1,
   description:
     "Thirty-two countries have completed their mine clearance obligations under the Ottawa Treaty, from Djibouti in 2002 to Oman in 2025. With a completed zone on every continent, this community has achieved its own version of global completion — a start, not a finish.",
+  createdAt: "2026-04-23T17:40:50.221Z",
+  updatedAt: "2026-09-15T16:31:54.000Z",
 } as const satisfies CtwAchievement

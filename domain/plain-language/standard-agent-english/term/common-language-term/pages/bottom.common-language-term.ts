@@ -6,4 +6,6 @@ export const bottom = {
   slug: "bottom",
   definition: "the lowest part of something",
   spellings: [{ partOfSpeech: "part-of-speech/noun", spelling: "bottom" }],
+  createdAt: "2026-09-25T14:05:00.535Z",
+  updatedAt: "2026-09-25T15:41:48.000Z",
 } as const satisfies CommonLanguageTerm

@@ -8,4 +8,6 @@ export const contributor9bc4d42501098ce9fad8a73ad03e2ef5d1e89b4a1fac8426b100f7c4
   emailHash: "9bc4d42501098ce9fad8a73ad03e2ef5d1e89b4a1fac8426b100f7c4d7e5e3d4",
   balance: 550,
   transactions: "jsonl",
+  createdAt: "2026-09-19T18:01:34.410Z",
+  updatedAt: "2026-09-24T19:23:40.000Z",
 } as const satisfies Contributor

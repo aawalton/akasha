@@ -40,4 +40,6 @@ export const temperInventoryOutcomeParity = {
   ],
   name: "outcome-parity",
   arguments: [{ argument: "argument/inventory-path" }, { argument: "argument/characters-path" }],
+  createdAt: "2026-09-13T15:14:01.180Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies Command

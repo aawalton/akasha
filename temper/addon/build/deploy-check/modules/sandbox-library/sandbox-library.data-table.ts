@@ -23,4 +23,6 @@ export const sandboxLibrary = {
       statement: "The API version the capture ran against is kept beside what the game left.",
     },
   ],
+  createdAt: "2026-09-25T13:14:07.345Z",
+  updatedAt: "2026-09-25T13:26:41.000Z",
 } as const satisfies DataTable

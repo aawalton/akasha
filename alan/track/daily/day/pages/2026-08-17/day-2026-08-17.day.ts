@@ -30,4 +30,6 @@ export const day20260817 = {
   sessions: "jsonl",
   completedTasks: "jsonl",
   healthSamples: "jsonl",
+  createdAt: "2026-08-17T10:00:02.660Z",
+  updatedAt: "2026-09-24T17:20:21.000Z",
 } as const satisfies Day

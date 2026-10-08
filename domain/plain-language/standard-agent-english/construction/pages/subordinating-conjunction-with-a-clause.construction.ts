@@ -34,4 +34,6 @@ export const subordinatingConjunctionWithAClause = {
         "A subordinating conjunction opening an adverb clause is a construction named on no page yet.",
     },
   ],
+  createdAt: "2026-09-24T14:28:47.954Z",
+  updatedAt: "2026-09-25T15:41:48.000Z",
 } as const satisfies Construction

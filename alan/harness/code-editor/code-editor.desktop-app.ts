@@ -207,4 +207,6 @@ export const codeEditor = {
       statement: "Every act the seat menu names is offered in the seat menu.",
     },
   ],
+  createdAt: "2026-09-03T04:33:16.637Z",
+  updatedAt: "2026-09-27T15:34:43.000Z",
 } as const satisfies DesktopApp

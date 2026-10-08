@@ -25,4 +25,6 @@ export const claude = {
   connectionActivityWeight: 1,
   connectionActivityWit: 1.75,
   connectionActivitySeq: 8,
+  createdAt: "2026-06-04T14:52:48.037Z",
+  updatedAt: "2026-09-25T13:01:00.000Z",
 } as const satisfies ConnectionActivity

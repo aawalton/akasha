@@ -7,4 +7,6 @@ export const jennySmilingjenny8589f4f9e46a096b7a8ac2c73f113b37 = {
   person: "person/jenny",
   iosApp: "ios-app/smilingjenny",
   token: "978FE26C3CE8D75AE47CCE0C68AE97D02F28130785E63A733C860ECF4E96AB8C",
+  createdAt: "2026-09-01T16:22:14.812Z",
+  updatedAt: "2026-09-21T19:55:28.000Z",
 } as const satisfies DeviceToken

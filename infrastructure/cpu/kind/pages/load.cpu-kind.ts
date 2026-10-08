@@ -24,4 +24,6 @@ export const load = {
       statement: "A load average is of the host rather than of any one program.",
     },
   ],
+  createdAt: "2026-09-11T17:37:17.466Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies CpuKind

@@ -29,4 +29,6 @@ export const toolSubject = {
       statement: "An input that is no record has no subject.",
     },
   ],
+  createdAt: "2026-09-24T16:39:22.363Z",
+  updatedAt: "2026-09-25T17:58:09.000Z",
 } as const satisfies ComputedPropertyModule

@@ -9,4 +9,6 @@ export const consent = {
     { partOfSpeech: "part-of-speech/noun", spelling: "consent" },
     { partOfSpeech: "part-of-speech/noun", spelling: "consents" },
   ],
+  createdAt: "2026-09-24T22:11:27.233Z",
+  updatedAt: "2026-09-25T15:41:48.000Z",
 } as const satisfies CommonLanguageTerm

@@ -38,4 +38,6 @@ export const temperEsoGenerateAnswers = {
   ],
   name: "answers",
   arguments: [{ argument: "argument/code-root" }, { argument: "argument/saved-variables-file" }],
+  createdAt: "2026-09-24T16:10:29.272Z",
+  updatedAt: "2026-09-24T16:11:24.000Z",
 } as const satisfies Command

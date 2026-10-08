@@ -17,4 +17,6 @@ export const verbWithANounPhraseAndAToClause = {
     "how Alan expects agents to find a page",
   ],
   refuses: ["how Alan expects today to", "how Alan expects today affect health"],
+  createdAt: "2026-09-25T12:35:57.373Z",
+  updatedAt: "2026-09-25T15:41:48.000Z",
 } as const satisfies Construction

@@ -17,4 +17,6 @@ export const seatFleet = {
     "module/seat-work",
     "module/work-tree-drawn",
   ],
+  createdAt: "2026-09-13T19:44:19.743Z",
+  updatedAt: "2026-09-27T17:27:59.000Z",
 } as const satisfies Domain

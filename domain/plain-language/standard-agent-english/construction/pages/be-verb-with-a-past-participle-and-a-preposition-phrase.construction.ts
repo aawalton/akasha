@@ -13,4 +13,6 @@ export const beVerbWithAPastParticipleAndAPrepositionPhrase = {
   ],
   admits: ["are found by name", "is stored in a folder"],
   refuses: ["are by name found", "are found by"],
+  createdAt: "2026-09-24T23:24:26.046Z",
+  updatedAt: "2026-09-25T15:41:48.000Z",
 } as const satisfies Construction

@@ -20,4 +20,6 @@ export const dungeonChampionPlaces = {
       statement: "A zone is named once in the table.",
     },
   ],
+  createdAt: "2026-09-02T07:16:14.161Z",
+  updatedAt: "2026-09-22T14:23:56.000Z",
 } as const satisfies DataTable

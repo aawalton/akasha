@@ -63,4 +63,6 @@ export const temperCommunityAddonUpdate = {
     { argument: "argument/force" },
     { argument: "argument/only", repeats: true },
   ],
+  createdAt: "2026-09-02T03:49:49.645Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies Command

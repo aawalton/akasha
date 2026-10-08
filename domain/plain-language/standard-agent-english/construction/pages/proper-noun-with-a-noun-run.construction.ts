@@ -10,4 +10,6 @@ export const properNounWithANounRun = {
   writtenFrom: ["part-of-speech/proper-noun", "phrase-kind/noun-run"],
   admits: ["Claude Code app", "Claude Code config", "Anthropic account"],
   refuses: ["app Claude Code", "Alan Claude Code"],
+  createdAt: "2026-09-24T17:43:38.398Z",
+  updatedAt: "2026-09-25T15:41:48.000Z",
 } as const satisfies Construction

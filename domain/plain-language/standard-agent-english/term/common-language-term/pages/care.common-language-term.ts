@@ -9,4 +9,6 @@ export const care = {
     { partOfSpeech: "part-of-speech/verb", spelling: "care" },
     { partOfSpeech: "part-of-speech/verb", spelling: "cares" },
   ],
+  createdAt: "2026-09-25T13:07:32.473Z",
+  updatedAt: "2026-09-25T15:41:48.000Z",
 } as const satisfies CommonLanguageTerm

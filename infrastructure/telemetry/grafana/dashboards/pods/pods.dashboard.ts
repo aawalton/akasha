@@ -6,4 +6,6 @@ export const pods = {
   slug: "pods",
   definition: "what a chart server draws over the pods",
   layout: "json",
+  createdAt: "2026-09-07T15:06:11.218Z",
+  updatedAt: "2026-09-15T17:07:05.000Z",
 } as const satisfies Dashboard

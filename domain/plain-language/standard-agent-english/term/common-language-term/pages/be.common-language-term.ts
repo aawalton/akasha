@@ -10,4 +10,6 @@ export const be = {
     { partOfSpeech: "part-of-speech/be-verb", spelling: "was" },
     { partOfSpeech: "part-of-speech/be-verb", spelling: "were" },
   ],
+  createdAt: "2026-09-22T15:01:55.504Z",
+  updatedAt: "2026-09-25T15:41:48.000Z",
 } as const satisfies CommonLanguageTerm

@@ -37,4 +37,6 @@ export const personItself = {
         "A person is named by its slug wherever the seat states the person under a page type.",
     },
   ],
+  createdAt: "2026-08-31T19:50:55.142Z",
+  updatedAt: "2026-10-06T14:43:17.000Z",
 } as const satisfies ContextWarrant

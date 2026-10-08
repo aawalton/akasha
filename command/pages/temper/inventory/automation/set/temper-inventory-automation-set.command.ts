@@ -44,4 +44,6 @@ export const temperInventoryAutomationSet = {
     { argument: "argument/value", required: true },
     { argument: "argument/toggle-target" },
   ],
+  createdAt: "2026-09-02T03:49:49.646Z",
+  updatedAt: "2026-09-22T10:08:24.000Z",
 } as const satisfies Command

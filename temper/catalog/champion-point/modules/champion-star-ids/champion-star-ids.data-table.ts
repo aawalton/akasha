@@ -13,4 +13,6 @@ export const championStarIds = {
         "The change generator `champion-star-ids-keeping` writes this table from the pages.",
     },
   ],
+  createdAt: "2026-09-27T05:15:44.127Z",
+  updatedAt: "2026-09-27T05:15:52.000Z",
 } as const satisfies DataTable

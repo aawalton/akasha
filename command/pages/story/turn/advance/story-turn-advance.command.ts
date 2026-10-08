@@ -217,4 +217,6 @@ export const storyTurnAdvance = {
     { argument: "argument/pictured-file" },
     { argument: "argument/title" },
   ],
+  createdAt: "2026-09-26T17:36:45.585Z",
+  updatedAt: "2026-10-07T00:38:19.000Z",
 } as const satisfies Command

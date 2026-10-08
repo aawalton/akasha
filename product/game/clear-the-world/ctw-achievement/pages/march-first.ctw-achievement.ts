@@ -10,4 +10,6 @@ export const marchFirst = {
   threshold: 3,
   description:
     "The Ottawa Treaty entered into force on 1 March 1999, just 15 months after signing — the fastest entry into force of any major multilateral treaty in history. Three or more teams completing a zone together mirrors that rapid collective action.",
+  createdAt: "2026-04-23T17:40:54.777Z",
+  updatedAt: "2026-09-15T16:31:54.000Z",
 } as const satisfies CtwAchievement

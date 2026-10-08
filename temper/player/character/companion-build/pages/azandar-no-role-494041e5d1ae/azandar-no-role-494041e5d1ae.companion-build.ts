@@ -11,4 +11,6 @@ export const azandarNoRole494041e5d1ae = {
   visibility: "live",
   targetCount: 1,
   baseRoles: [],
+  createdAt: "2026-09-25T15:20:57.031Z",
+  updatedAt: "2026-09-25T15:20:58.000Z",
 } as const satisfies CompanionBuild

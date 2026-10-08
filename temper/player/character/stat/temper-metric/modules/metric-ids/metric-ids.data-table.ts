@@ -12,4 +12,6 @@ export const metricIds = {
       statement: "The change generator `metric-ids-keeping` writes this table from the stat pages.",
     },
   ],
+  createdAt: "2026-09-26T18:26:10.810Z",
+  updatedAt: "2026-09-26T18:26:30.000Z",
 } as const satisfies DataTable

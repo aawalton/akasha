@@ -14,4 +14,6 @@ export const claudeCodeRemoteControl = {
     "domain/claude-code-remote-control-registration-account",
     "domain/claude-code-remote-control-registration-credential",
   ],
+  createdAt: "2026-09-13T20:32:43.961Z",
+  updatedAt: "2026-09-24T17:45:18.000Z",
 } as const satisfies Domain

@@ -61,4 +61,6 @@ export const temperInventoryRuleShow = {
     { argument: "argument/category-rule-id", required: true, saidAs: "word" },
     { argument: "argument/json" },
   ],
+  createdAt: "2026-09-02T03:49:49.656Z",
+  updatedAt: "2026-09-22T10:08:16.000Z",
 } as const satisfies Command

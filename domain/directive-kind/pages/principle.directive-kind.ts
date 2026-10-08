@@ -5,4 +5,6 @@ export const principle = {
   type: "page-type/directive-kind",
   slug: "principle",
   definition: "a truth packed tight so it reaches many cases",
+  createdAt: "2026-08-29T15:25:01.814Z",
+  updatedAt: "2026-09-15T15:19:47.000Z",
 } as const satisfies DirectiveKind

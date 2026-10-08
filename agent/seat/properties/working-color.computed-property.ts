@@ -26,4 +26,6 @@ export const workingColor = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-24T15:46:34.777Z",
+  updatedAt: "2026-09-25T13:54:32.000Z",
 } as const satisfies ComputedProperty

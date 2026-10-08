@@ -31,4 +31,6 @@ export const temperInventoryReplayExplain = {
   ],
   name: "replay-explain",
   arguments: [{ argument: "argument/inventory-path" }, { argument: "argument/itemlink" }],
+  createdAt: "2026-09-02T03:49:49.654Z",
+  updatedAt: "2026-09-25T14:48:42.000Z",
 } as const satisfies Command

@@ -45,4 +45,6 @@ export const temperInventoryConfiguration = {
     { argument: "argument/inventory-path" },
     { argument: "argument/section" },
   ],
+  createdAt: "2026-09-02T03:49:49.657Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies Command

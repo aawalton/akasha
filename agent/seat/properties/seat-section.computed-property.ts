@@ -16,4 +16,6 @@ export const seatSection = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-27T17:28:29.932Z",
+  updatedAt: "2026-09-27T17:29:11.000Z",
 } as const satisfies ComputedProperty

@@ -10,4 +10,6 @@ export const beVerbWithANegatorAndANounPhrase = {
   writtenFrom: ["part-of-speech/be-verb", "part-of-speech/negator", "phrase-kind/noun-phrase"],
   admits: ["is not part of akasha", "is not a domain"],
   refuses: ["not is a domain", "is a domain not"],
+  createdAt: "2026-09-25T17:05:54.865Z",
+  updatedAt: "2026-09-25T17:05:59.000Z",
 } as const satisfies Construction

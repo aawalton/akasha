@@ -25,4 +25,6 @@ export const engineAnswers = {
         "A function asked with values keeps its answers under its name and those values joined by commas.",
     },
   ],
+  createdAt: "2026-09-24T16:09:33.531Z",
+  updatedAt: "2026-09-24T16:38:07.000Z",
 } as const satisfies DataTable

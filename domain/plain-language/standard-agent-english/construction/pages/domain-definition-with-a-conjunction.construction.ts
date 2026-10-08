@@ -9,4 +9,6 @@ export const domainDefinitionWithAConjunction = {
   writtenFrom: ["phrase-kind/noun-phrase", "part-of-speech/conjunction", "phrase-kind/noun-phrase"],
   admits: ["a page and a file", "the words of a song or the shape of the body"],
   refuses: ["the page and the file and the row", "and a file"],
+  createdAt: "2026-09-21T22:30:40.781Z",
+  updatedAt: "2026-09-25T15:41:48.000Z",
 } as const satisfies Construction

@@ -32,4 +32,6 @@ export const musicTypeTracks = {
   ],
   name: "type-tracks",
   arguments: [{ argument: "argument/json" }, { argument: "argument/limit" }],
+  createdAt: "2026-09-19T18:23:06.000Z",
+  updatedAt: "2026-09-19T18:23:06.000Z",
 } as const satisfies Command

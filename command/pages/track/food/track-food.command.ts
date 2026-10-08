@@ -108,4 +108,6 @@ export const trackFood = {
     { argument: "argument/date" },
     { argument: "argument/time" },
   ],
+  createdAt: "2026-09-03T16:10:24.907Z",
+  updatedAt: "2026-09-24T19:25:42.000Z",
 } as const satisfies Command

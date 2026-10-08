@@ -25,4 +25,6 @@ export const aiFemaleFriendVoice = {
   connectionActivityWeight: 1,
   connectionActivityWit: 1.75,
   connectionActivitySeq: 25,
+  createdAt: "2026-06-04T16:31:31.457Z",
+  updatedAt: "2026-09-25T13:01:00.000Z",
 } as const satisfies ConnectionActivity

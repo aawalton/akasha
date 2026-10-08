@@ -9,4 +9,6 @@ export const feel = {
     { partOfSpeech: "part-of-speech/verb", spelling: "feel" },
     { partOfSpeech: "part-of-speech/verb", spelling: "feels" },
   ],
+  createdAt: "2026-09-24T23:41:41.470Z",
+  updatedAt: "2026-09-25T15:41:48.000Z",
 } as const satisfies CommonLanguageTerm

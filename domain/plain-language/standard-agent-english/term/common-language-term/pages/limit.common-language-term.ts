@@ -9,4 +9,6 @@ export const limit = {
     { partOfSpeech: "part-of-speech/noun", spelling: "limit" },
     { partOfSpeech: "part-of-speech/noun", spelling: "limits" },
   ],
+  createdAt: "2026-09-25T16:39:10.307Z",
+  updatedAt: "2026-09-25T16:39:13.000Z",
 } as const satisfies CommonLanguageTerm

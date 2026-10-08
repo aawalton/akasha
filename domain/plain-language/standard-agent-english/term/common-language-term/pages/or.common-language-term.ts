@@ -6,4 +6,6 @@ export const or = {
   slug: "or",
   definition: "the conjunction joining two things as a choice between them",
   spellings: [{ partOfSpeech: "part-of-speech/conjunction", spelling: "or" }],
+  createdAt: "2026-09-21T22:21:38.087Z",
+  updatedAt: "2026-09-25T15:41:48.000Z",
 } as const satisfies CommonLanguageTerm

@@ -10,4 +10,6 @@ export const fifteenProvinces = {
   threshold: 150,
   description:
     "Cambodia’s mine action programme spans its northwestern provinces, where millions of mines were laid along the Thai border during the 1980s and 1990s. Systematic province-by-province coordination has been essential to progress.",
+  createdAt: "2026-04-23T17:40:36.160Z",
+  updatedAt: "2026-09-15T16:31:54.000Z",
 } as const satisfies CtwAchievement

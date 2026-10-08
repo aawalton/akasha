@@ -75,4 +75,6 @@ export const seatRefreshSettings = {
   ],
   name: "refresh-settings",
   arguments: [{ argument: "argument/json" }],
+  createdAt: "2026-09-03T17:44:33.876Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies Command

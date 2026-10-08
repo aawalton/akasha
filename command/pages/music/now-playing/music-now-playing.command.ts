@@ -36,4 +36,6 @@ export const musicNowPlaying = {
   ],
   name: "now-playing",
   arguments: [{ argument: "argument/json" }],
+  createdAt: "2026-09-02T16:34:35.352Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies Command

@@ -10,4 +10,6 @@ export const explosiveOrdnanceDisposal = {
   threshold: 50,
   description:
     "EOD technicians identify, render safe, and destroy individual items of unexploded ordnance. Unlike area clearance, EOD demands a complete picture of each item — its type, fuze state, and position — before any action is taken.",
+  createdAt: "2026-04-23T17:40:15.539Z",
+  updatedAt: "2026-09-15T16:31:54.000Z",
 } as const satisfies CtwAchievement

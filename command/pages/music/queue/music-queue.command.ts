@@ -57,4 +57,6 @@ export const musicQueue = {
     { argument: "argument/device-id" },
     { argument: "argument/query", required: true, repeats: true, saidAs: "word" },
   ],
+  createdAt: "2026-09-02T16:35:04.489Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies Command

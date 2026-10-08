@@ -46,4 +46,6 @@ export const temperAddonGlobalNameDependent = {
     { argument: "argument/global", saidAs: "flag-or-word" },
     { argument: "argument/json" },
   ],
+  createdAt: "2026-09-02T03:49:49.642Z",
+  updatedAt: "2026-09-22T09:17:02.000Z",
 } as const satisfies Command

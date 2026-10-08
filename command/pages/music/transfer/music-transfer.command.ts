@@ -49,4 +49,6 @@ export const musicTransfer = {
       saidAs: "flag-or-word",
     },
   ],
+  createdAt: "2026-09-14T13:48:00.435Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies Command

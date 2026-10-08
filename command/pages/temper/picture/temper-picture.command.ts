@@ -85,4 +85,6 @@ export const temperPicture = {
     { argument: "argument/picture-subject", required: true, saidAs: "word" },
     { argument: "argument/out", required: true },
   ],
+  createdAt: "2026-09-22T18:35:18.990Z",
+  updatedAt: "2026-09-25T18:29:44.000Z",
 } as const satisfies Command

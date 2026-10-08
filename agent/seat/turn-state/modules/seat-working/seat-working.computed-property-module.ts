@@ -21,4 +21,6 @@ export const seatWorking = {
       statement: "An empty set of seats is not working.",
     },
   ],
+  createdAt: "2026-09-29T12:11:48.077Z",
+  updatedAt: "2026-09-29T12:11:54.000Z",
 } as const satisfies ComputedPropertyModule

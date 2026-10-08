@@ -15,4 +15,6 @@ export const beVerbWithAPastParticiple = {
       statement: "Who did the thing is left out, or is named by a preposition phrase after this.",
     },
   ],
+  createdAt: "2026-09-22T15:01:35.725Z",
+  updatedAt: "2026-09-25T15:41:48.000Z",
 } as const satisfies Construction

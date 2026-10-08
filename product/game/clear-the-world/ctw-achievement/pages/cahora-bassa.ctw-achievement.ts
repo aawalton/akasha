@@ -10,4 +10,6 @@ export const cahoraBassa = {
   threshold: 25000000,
   description:
     "The Cahora Bassa dam area in Mozambique was mined during the civil war to protect infrastructure. Clearance enabled safe access to farmland and the reservoir that supplies hydroelectric power across southern Africa.",
+  createdAt: "2026-04-23T17:40:28.196Z",
+  updatedAt: "2026-09-15T16:31:54.000Z",
 } as const satisfies CtwAchievement

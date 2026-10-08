@@ -9,4 +9,6 @@ export const responseHeader = {
     { partOfSpeech: "part-of-speech/noun", spelling: "response header" },
     { partOfSpeech: "part-of-speech/noun", spelling: "response headers" },
   ],
+  createdAt: "2026-09-25T18:33:25.197Z",
+  updatedAt: "2026-09-25T18:33:28.000Z",
 } as const satisfies CommonLanguageTerm

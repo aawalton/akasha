@@ -6,4 +6,6 @@ export const restart = {
   slug: "restart",
   definition: "setting a thing going again after it stopped",
   spellings: [{ partOfSpeech: "part-of-speech/past-participle", spelling: "restarted" }],
+  createdAt: "2026-09-24T15:49:21.238Z",
+  updatedAt: "2026-09-25T15:41:48.000Z",
 } as const satisfies CommonLanguageTerm

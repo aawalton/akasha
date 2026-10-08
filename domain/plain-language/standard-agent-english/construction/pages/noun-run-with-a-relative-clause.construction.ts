@@ -24,4 +24,6 @@ export const nounRunWithARelativeClause = {
         "A clause whose subject is another noun is written by the construction with no pronoun.",
     },
   ],
+  createdAt: "2026-09-24T16:05:01.511Z",
+  updatedAt: "2026-09-25T15:41:48.000Z",
 } as const satisfies Construction

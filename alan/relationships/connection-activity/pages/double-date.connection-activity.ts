@@ -25,4 +25,6 @@ export const doubleDate = {
   connectionActivityWeight: 1,
   connectionActivityWit: 1.5,
   connectionActivitySeq: 4,
+  createdAt: "2026-06-04T14:52:46.635Z",
+  updatedAt: "2026-09-25T13:01:00.000Z",
 } as const satisfies ConnectionActivity

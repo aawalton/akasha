@@ -44,4 +44,6 @@ export const trackSessionClose = {
   ],
   name: "close",
   arguments: [{ argument: "argument/day" }, { argument: "argument/at" }],
+  createdAt: "2026-09-07T01:26:40.557Z",
+  updatedAt: "2026-09-19T17:55:55.000Z",
 } as const satisfies Command

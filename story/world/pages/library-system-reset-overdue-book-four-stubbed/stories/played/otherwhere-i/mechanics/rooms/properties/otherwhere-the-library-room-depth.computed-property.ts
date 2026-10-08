@@ -20,4 +20,6 @@ export const otherwhereTheLibraryRoomDepth = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-28T14:14:52.435Z",
+  updatedAt: "2026-09-28T22:48:45.000Z",
 } as const satisfies ComputedProperty

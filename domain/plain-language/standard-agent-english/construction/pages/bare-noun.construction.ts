@@ -9,4 +9,6 @@ export const bareNoun = {
   writtenFrom: ["part-of-speech/noun"],
   admits: ["markdown", "arousal", "code"],
   refuses: ["the code", "versioned text"],
+  createdAt: "2026-09-21T19:39:43.218Z",
+  updatedAt: "2026-09-25T15:41:48.000Z",
 } as const satisfies Construction

@@ -10,4 +10,6 @@ export const landRelease = {
   threshold: 100,
   description:
     "“Land Release” is the formal IMAS term for the moment cleared land is handed back to the community — certified safe, mapped, and documented. A released hectare can be farmed, built on, and walked across freely for the first time in a generation.",
+  createdAt: "2026-04-23T17:40:14.884Z",
+  updatedAt: "2026-09-15T16:31:54.000Z",
 } as const satisfies CtwAchievement

@@ -45,4 +45,6 @@ export const temperInventoryRuleTakes = {
     { argument: "argument/inventory-path" },
     { argument: "argument/characters-path" },
   ],
+  createdAt: "2026-09-12T12:35:49.100Z",
+  updatedAt: "2026-09-22T10:09:10.000Z",
 } as const satisfies Command

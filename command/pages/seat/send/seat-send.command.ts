@@ -31,4 +31,6 @@ export const seatSend = {
     { argument: "argument/body-file", notWith: ["argument/body"], oneOf: ["argument/body"] },
     { argument: "argument/body" },
   ],
+  createdAt: "2026-09-24T17:40:29.739Z",
+  updatedAt: "2026-09-24T17:41:33.000Z",
 } as const satisfies Command

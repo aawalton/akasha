@@ -37,4 +37,6 @@ export const costMultiplier = {
       statement: "A stretch stating no safety level or no difficulty level costs nothing.",
     },
   ],
+  createdAt: "2026-09-10T13:48:37.940Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies ComputedPropertyModule

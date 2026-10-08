@@ -89,4 +89,6 @@ export const talosApply = {
     { argument: "argument/cluster" },
     { argument: "argument/ip", required: true },
   ],
+  createdAt: "2026-09-03T16:10:56.420Z",
+  updatedAt: "2026-09-22T10:08:24.000Z",
 } as const satisfies Command

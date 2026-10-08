@@ -6,4 +6,6 @@ export const larger = {
   slug: "larger",
   definition: "bigger than before",
   spellings: [{ partOfSpeech: "part-of-speech/adjective", spelling: "larger" }],
+  createdAt: "2026-09-25T16:43:36.615Z",
+  updatedAt: "2026-09-25T16:43:42.000Z",
 } as const satisfies CommonLanguageTerm

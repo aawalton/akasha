@@ -10,4 +10,6 @@ export const open = {
     { partOfSpeech: "part-of-speech/verb", spelling: "opens" },
     { partOfSpeech: "part-of-speech/past-participle", spelling: "opened" },
   ],
+  createdAt: "2026-09-25T14:00:55.195Z",
+  updatedAt: "2026-09-25T15:41:48.000Z",
 } as const satisfies CommonLanguageTerm

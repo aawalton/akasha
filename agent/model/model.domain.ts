@@ -27,4 +27,6 @@ export const model = {
       statement: "A model is a domain whose subject is one trained network.",
     },
   ],
+  createdAt: "2026-08-30T15:49:55.535Z",
+  updatedAt: "2026-09-24T18:40:50.000Z",
 } as const satisfies Domain

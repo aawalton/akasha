@@ -73,4 +73,6 @@ export const claudeCodeSessionStore = {
       statement: "The folder a session's file is in is worked out here from a working directory.",
     },
   ],
+  createdAt: "2026-09-03T05:13:56.739Z",
+  updatedAt: "2026-09-25T13:32:41.000Z",
 } as const satisfies Domain

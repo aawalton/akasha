@@ -48,4 +48,6 @@ export const pageSecretClear = {
     { argument: "argument/key", required: true },
     { argument: "argument/commit-message" },
   ],
+  createdAt: "2026-09-03T16:20:20.840Z",
+  updatedAt: "2026-09-22T10:09:10.000Z",
 } as const satisfies Command

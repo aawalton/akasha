@@ -10,4 +10,6 @@ export const day20260604 = {
   safetyLevel: "2",
   wealthPoints: 4,
   healthSamples: "jsonl",
+  createdAt: "2026-06-04T10:03:17.134Z",
+  updatedAt: "2026-09-15T16:33:01.000Z",
 } as const satisfies Day

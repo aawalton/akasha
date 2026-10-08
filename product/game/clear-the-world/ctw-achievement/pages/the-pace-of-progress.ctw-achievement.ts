@@ -10,4 +10,6 @@ export const thePaceOfProgress = {
   threshold: 100000,
   description:
     "At current global funding and capacity, some estimates suggest over 1,100 years would be needed to clear all known contaminated land. Every increase in funding and technology shortens that timeline. This community is demonstrating the pace that urgency demands.",
+  createdAt: "2026-04-23T17:40:49.527Z",
+  updatedAt: "2026-09-15T16:31:54.000Z",
 } as const satisfies CtwAchievement

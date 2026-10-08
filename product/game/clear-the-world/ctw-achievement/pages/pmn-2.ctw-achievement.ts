@@ -10,4 +10,6 @@ export const pmn2 = {
   threshold: 2000,
   description:
     "The PMN-2 is found across Afghanistan, Cambodia, Angola, and Western Sahara. A pressure-activated blast mine, it typically causes traumatic amputation below the knee. Over 10 million remain uncleared worldwide.",
+  createdAt: "2026-04-23T17:40:10.959Z",
+  updatedAt: "2026-09-15T16:31:54.000Z",
 } as const satisfies CtwAchievement

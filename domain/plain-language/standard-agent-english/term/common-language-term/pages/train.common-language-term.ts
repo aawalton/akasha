@@ -9,4 +9,6 @@ export const train = {
     { partOfSpeech: "part-of-speech/verb", spelling: "train" },
     { partOfSpeech: "part-of-speech/verb", spelling: "trains" },
   ],
+  createdAt: "2026-09-25T13:21:16.385Z",
+  updatedAt: "2026-09-25T15:41:48.000Z",
 } as const satisfies CommonLanguageTerm

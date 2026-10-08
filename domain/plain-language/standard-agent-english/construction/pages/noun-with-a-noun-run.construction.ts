@@ -9,4 +9,6 @@ export const nounWithANounRun = {
   writtenFrom: ["part-of-speech/noun", "phrase-kind/noun-run"],
   admits: ["page property", "email address", "skill point window"],
   refuses: ["page whole file", "property the page"],
+  createdAt: "2026-09-21T22:40:02.837Z",
+  updatedAt: "2026-09-25T15:41:48.000Z",
 } as const satisfies Construction

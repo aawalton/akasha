@@ -16,4 +16,6 @@ export const closenessLevelClimbing = {
       statement: "Points of zero or fewer are level 0.",
     },
   ],
+  createdAt: "2026-09-26T15:06:00.257Z",
+  updatedAt: "2026-09-26T15:06:11.000Z",
 } as const satisfies ComputedPropertyModule

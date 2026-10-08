@@ -14,4 +14,6 @@ export const day20260613 = {
   faithPoints: 0,
   lovePoints: 0.8333,
   healthSamples: "jsonl",
+  createdAt: "2026-06-13T10:00:58.789Z",
+  updatedAt: "2026-09-15T16:33:01.000Z",
 } as const satisfies Day

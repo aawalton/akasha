@@ -10,4 +10,6 @@ export const theSizeOfParis = {
   threshold: 100000000,
   description:
     "APOPO’s cumulative area cleared by December 2023 exceeded 100 million square metres — roughly the footprint of Paris. 31,739 landmines and 90,140 items of explosive remnants of war removed in the process.",
+  createdAt: "2026-04-23T17:40:44.246Z",
+  updatedAt: "2026-09-15T16:31:54.000Z",
 } as const satisfies CtwAchievement

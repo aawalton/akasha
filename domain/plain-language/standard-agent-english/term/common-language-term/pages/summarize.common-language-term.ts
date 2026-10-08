@@ -10,4 +10,6 @@ export const summarize = {
     { partOfSpeech: "part-of-speech/noun", spelling: "summaries" },
     { partOfSpeech: "part-of-speech/past-participle", spelling: "summarized" },
   ],
+  createdAt: "2026-09-24T16:38:34.616Z",
+  updatedAt: "2026-09-25T15:41:48.000Z",
 } as const satisfies CommonLanguageTerm

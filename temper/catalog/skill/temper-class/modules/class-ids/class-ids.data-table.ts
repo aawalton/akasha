@@ -12,4 +12,6 @@ export const classIds = {
       statement: "The change generator `class-ids-keeping` writes this table from the class pages.",
     },
   ],
+  createdAt: "2026-09-27T01:49:16.789Z",
+  updatedAt: "2026-09-27T01:49:36.000Z",
 } as const satisfies DataTable

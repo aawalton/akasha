@@ -24,4 +24,6 @@ export const possessiveNounRunWithADeterminer = {
       statement: "A noun phrase written this way takes no second determiner before it.",
     },
   ],
+  createdAt: "2026-09-22T12:58:14.772Z",
+  updatedAt: "2026-09-25T15:41:48.000Z",
 } as const satisfies Construction

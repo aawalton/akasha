@@ -32,4 +32,6 @@ export const temperAddonList = {
   ],
   name: "list",
   arguments: [{ argument: "argument/json" }, { argument: "argument/code-root" }],
+  createdAt: "2026-09-02T03:49:49.642Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies Command

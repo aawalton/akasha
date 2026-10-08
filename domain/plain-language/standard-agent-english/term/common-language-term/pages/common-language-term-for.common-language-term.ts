@@ -6,4 +6,6 @@ export const commonLanguageTermFor = {
   slug: "common-language-term-for",
   definition: "the preposition naming who or what a thing is meant to serve",
   spellings: [{ partOfSpeech: "part-of-speech/preposition", spelling: "for" }],
+  createdAt: "2026-09-21T20:01:25.724Z",
+  updatedAt: "2026-09-25T15:41:48.000Z",
 } as const satisfies CommonLanguageTerm

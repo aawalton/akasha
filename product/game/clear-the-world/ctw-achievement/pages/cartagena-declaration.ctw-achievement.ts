@@ -10,4 +10,6 @@ export const cartagenaDeclaration = {
   threshold: 10000,
   description:
     "The 2009 Cartagena Declaration reaffirmed that mine action is an obligation of international humanitarian law, not optional charity. It called on states to meet their treaty deadlines and fund clearance proportionally to their resources.",
+  createdAt: "2026-04-23T17:40:42.179Z",
+  updatedAt: "2026-09-15T16:31:54.000Z",
 } as const satisfies CtwAchievement

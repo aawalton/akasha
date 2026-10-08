@@ -6,4 +6,6 @@ export const before = {
   slug: "before",
   definition: "earlier than",
   spellings: [{ partOfSpeech: "part-of-speech/preposition", spelling: "before" }],
+  createdAt: "2026-09-25T15:14:00.940Z",
+  updatedAt: "2026-09-25T15:41:48.000Z",
 } as const satisfies CommonLanguageTerm

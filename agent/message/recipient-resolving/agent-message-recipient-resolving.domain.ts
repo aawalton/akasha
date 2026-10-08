@@ -21,4 +21,6 @@ export const agentMessageRecipientResolving = {
     "module/seat-wake-rules",
     "module/wake-comms-input",
   ],
+  createdAt: "2026-09-09T22:43:59.820Z",
+  updatedAt: "2026-09-22T17:55:43.000Z",
 } as const satisfies Domain

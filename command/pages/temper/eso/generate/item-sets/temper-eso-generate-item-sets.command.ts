@@ -38,4 +38,6 @@ export const temperEsoGenerateItemSets = {
   ],
   name: "item-sets",
   arguments: [{ argument: "argument/code-root" }, { argument: "argument/saved-variables-file" }],
+  createdAt: "2026-09-25T13:34:27.392Z",
+  updatedAt: "2026-09-25T13:34:31.000Z",
 } as const satisfies Command

@@ -21,4 +21,6 @@ export const jensLaptop = {
   ram: "32gb",
   ssd: 1000,
   computerStatus: "active",
+  createdAt: "2026-06-03T03:41:16.994Z",
+  updatedAt: "2026-09-15T16:29:54.000Z",
 } as const satisfies Computer

@@ -50,4 +50,6 @@ export const usZoneOffset = {
       statement: "A wall time the clock skipped names no instant.",
     },
   ],
+  createdAt: "2026-09-01T10:15:10.566Z",
+  updatedAt: "2026-09-22T14:34:11.000Z",
 } as const satisfies ComputedPropertyModule

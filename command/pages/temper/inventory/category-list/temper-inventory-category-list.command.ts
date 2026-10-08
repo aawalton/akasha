@@ -27,4 +27,6 @@ export const temperInventoryCategoryList = {
   ],
   name: "category-list",
   arguments: [{ argument: "argument/json" }],
+  createdAt: "2026-09-12T12:41:47.733Z",
+  updatedAt: "2026-09-22T13:55:14.000Z",
 } as const satisfies Command

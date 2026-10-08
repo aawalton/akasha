@@ -42,4 +42,6 @@ export const storyTurnKeptDrop = {
     { argument: "argument/played-turn", required: true },
     { argument: "argument/kept-record", required: true },
   ],
+  createdAt: "2026-09-28T22:54:15.336Z",
+  updatedAt: "2026-09-28T22:55:18.000Z",
 } as const satisfies Command

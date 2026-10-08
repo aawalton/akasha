@@ -29,4 +29,6 @@ export const nounRunWithAClause = {
       statement: "The determiner before the whole is written by the noun phrase rather than here.",
     },
   ],
+  createdAt: "2026-09-22T00:18:19.949Z",
+  updatedAt: "2026-09-25T15:41:48.000Z",
 } as const satisfies Construction

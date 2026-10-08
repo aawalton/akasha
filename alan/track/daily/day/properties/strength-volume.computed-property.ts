@@ -31,4 +31,6 @@ export const strengthVolume = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-06T17:44:04.711Z",
+  updatedAt: "2026-09-22T10:06:01.000Z",
 } as const satisfies ComputedProperty

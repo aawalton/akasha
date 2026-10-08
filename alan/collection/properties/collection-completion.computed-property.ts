@@ -16,4 +16,6 @@ export const collectionCompletion = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-05T15:31:05.702Z",
+  updatedAt: "2026-09-22T14:37:11.000Z",
 } as const satisfies ComputedProperty

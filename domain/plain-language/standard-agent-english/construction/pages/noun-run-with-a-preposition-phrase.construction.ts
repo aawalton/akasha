@@ -9,4 +9,6 @@ export const nounRunWithAPrepositionPhrase = {
   writtenFrom: ["phrase-kind/noun-run", "phrase-kind/preposition-phrase"],
   admits: ["machine in a cluster", "page property with a web address"],
   refuses: ["machine in a cluster of servers", "in a cluster machine"],
+  createdAt: "2026-09-21T20:06:04.554Z",
+  updatedAt: "2026-09-25T15:41:48.000Z",
 } as const satisfies Construction

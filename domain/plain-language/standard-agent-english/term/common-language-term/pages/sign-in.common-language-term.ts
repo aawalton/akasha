@@ -9,4 +9,6 @@ export const signIn = {
     { partOfSpeech: "part-of-speech/verb", spelling: "sign in" },
     { partOfSpeech: "part-of-speech/verb", spelling: "signs in" },
   ],
+  createdAt: "2026-09-24T22:27:50.902Z",
+  updatedAt: "2026-09-25T15:41:48.000Z",
 } as const satisfies CommonLanguageTerm

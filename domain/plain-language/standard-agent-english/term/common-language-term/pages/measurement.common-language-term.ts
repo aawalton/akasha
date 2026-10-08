@@ -9,4 +9,6 @@ export const measurement = {
     { partOfSpeech: "part-of-speech/noun", spelling: "measurement" },
     { partOfSpeech: "part-of-speech/noun", spelling: "measurements" },
   ],
+  createdAt: "2026-09-24T23:20:27.177Z",
+  updatedAt: "2026-09-25T15:41:48.000Z",
 } as const satisfies CommonLanguageTerm

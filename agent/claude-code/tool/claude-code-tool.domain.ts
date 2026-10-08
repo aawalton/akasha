@@ -6,4 +6,6 @@ export const claudeCodeTool = {
   slug: "claude-code-tool",
   definition: "an agent tool built into Claude Code",
   parts: ["computed-property-module/tool-subject"],
+  createdAt: "2026-09-03T05:13:56.737Z",
+  updatedAt: "2026-09-24T16:40:06.000Z",
 } as const satisfies Domain

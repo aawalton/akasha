@@ -6,4 +6,6 @@ export const whole = {
   slug: "whole",
   definition: "in its natural form, not broken down or refined",
   spellings: [{ partOfSpeech: "part-of-speech/adjective", spelling: "whole" }],
+  createdAt: "2026-09-24T23:29:29.990Z",
+  updatedAt: "2026-09-25T15:41:48.000Z",
 } as const satisfies CommonLanguageTerm

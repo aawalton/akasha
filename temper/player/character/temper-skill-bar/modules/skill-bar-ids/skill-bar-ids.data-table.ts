@@ -13,4 +13,6 @@ export const skillBarIds = {
         "The change generator `skill-bar-ids-keeping` writes this table from the skill bar pages.",
     },
   ],
+  createdAt: "2026-09-27T01:58:47.374Z",
+  updatedAt: "2026-09-27T01:58:51.000Z",
 } as const satisfies DataTable

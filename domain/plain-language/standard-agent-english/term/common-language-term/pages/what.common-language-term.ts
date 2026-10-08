@@ -6,4 +6,6 @@ export const what = {
   slug: "what",
   definition: "the pronoun naming the thing a clause leaves out",
   spellings: [{ partOfSpeech: "part-of-speech/free-relative-pronoun", spelling: "what" }],
+  createdAt: "2026-09-22T00:43:59.416Z",
+  updatedAt: "2026-09-25T15:41:48.000Z",
 } as const satisfies CommonLanguageTerm

@@ -52,4 +52,6 @@ export const temperCatalogInvalidate = {
     { argument: "argument/all", notWith: ["argument/domain"], oneOf: ["argument/domain"] },
     { argument: "argument/domain", repeats: true },
   ],
+  createdAt: "2026-09-02T03:49:49.644Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies Command

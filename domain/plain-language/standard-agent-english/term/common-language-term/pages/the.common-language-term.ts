@@ -6,4 +6,6 @@ export const the = {
   slug: "the",
   definition: "the determiner written where the reader can tell which thing is named",
   spellings: [{ partOfSpeech: "part-of-speech/determiner", spelling: "the" }],
+  createdAt: "2026-09-21T19:48:13.027Z",
+  updatedAt: "2026-09-25T15:41:48.000Z",
 } as const satisfies CommonLanguageTerm

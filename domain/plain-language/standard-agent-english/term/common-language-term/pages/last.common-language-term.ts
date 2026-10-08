@@ -6,4 +6,6 @@ export const last = {
   slug: "last",
   definition: "most recent",
   spellings: [{ partOfSpeech: "part-of-speech/adjective", spelling: "last" }],
+  createdAt: "2026-09-25T18:19:12.171Z",
+  updatedAt: "2026-09-25T18:19:15.000Z",
 } as const satisfies CommonLanguageTerm

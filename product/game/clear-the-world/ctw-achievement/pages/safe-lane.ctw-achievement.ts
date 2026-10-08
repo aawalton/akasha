@@ -8,4 +8,6 @@ export const safeLane = {
   scope: "profile",
   metric: "session_cells_zero_craters",
   threshold: 1000,
+  createdAt: "2026-04-23T17:40:13.599Z",
+  updatedAt: "2026-09-15T16:31:54.000Z",
 } as const satisfies CtwAchievement

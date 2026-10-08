@@ -9,4 +9,6 @@ export const become = {
     { partOfSpeech: "part-of-speech/verb", spelling: "become" },
     { partOfSpeech: "part-of-speech/verb", spelling: "becomes" },
   ],
+  createdAt: "2026-09-25T13:10:49.214Z",
+  updatedAt: "2026-09-25T15:41:48.000Z",
 } as const satisfies CommonLanguageTerm

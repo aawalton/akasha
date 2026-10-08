@@ -52,4 +52,6 @@ export const refreshMessage = {
   ],
   name: "message",
   arguments: [],
+  createdAt: "2026-09-08T21:48:12.701Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies Command

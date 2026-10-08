@@ -20,4 +20,6 @@ export const engineStrings = {
       statement: "The API version the capture ran against is kept beside the text it found.",
     },
   ],
+  createdAt: "2026-09-24T15:44:43.323Z",
+  updatedAt: "2026-09-24T15:45:39.000Z",
 } as const satisfies DataTable

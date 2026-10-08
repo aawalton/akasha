@@ -19,4 +19,6 @@ export const verbWithANounPhrase = {
       statement: "A verb acting on nothing is written by the verb alone rather than here.",
     },
   ],
+  createdAt: "2026-09-22T18:12:14.333Z",
+  updatedAt: "2026-09-25T15:41:48.000Z",
 } as const satisfies Construction

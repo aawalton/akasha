@@ -14,4 +14,6 @@ export const possessiveProperNounOwningAProperNoun = {
   ],
   admits: ["Alan's Google Drive", "the files in Alan's Google Drive"],
   refuses: ["the Alan's Google Drive", "Alan's"],
+  createdAt: "2026-09-24T22:03:18.448Z",
+  updatedAt: "2026-09-25T15:41:48.000Z",
 } as const satisfies Construction

@@ -246,4 +246,6 @@ export const read = {
       ],
     },
   ],
+  createdAt: "2026-08-29T05:09:17.108Z",
+  updatedAt: "2026-09-25T16:19:30.000Z",
 } as const satisfies Command

@@ -9,4 +9,6 @@ export const nounGroupWithAnAdjective = {
   writtenFrom: ["part-of-speech/adjective", "phrase-kind/noun-group"],
   admits: ["mechanical change", "fresh identifier", "whole plants"],
   refuses: ["change mechanical", "mechanical a change"],
+  createdAt: "2026-09-21T21:57:19.774Z",
+  updatedAt: "2026-09-25T15:41:48.000Z",
 } as const satisfies Construction

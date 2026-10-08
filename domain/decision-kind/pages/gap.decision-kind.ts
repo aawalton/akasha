@@ -26,4 +26,6 @@ export const gap = {
         "A gap names a state the domain should be in rather than an act to take or a reason to act.",
     },
   ],
+  createdAt: "2026-08-29T15:09:32.952Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies DecisionKind

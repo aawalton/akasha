@@ -55,4 +55,6 @@ export const temperInventoryEnvParity = {
     { argument: "argument/inventory-path" },
     { argument: "argument/characters-path" },
   ],
+  createdAt: "2026-09-13T22:40:29.083Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies Command

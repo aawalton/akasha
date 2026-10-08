@@ -8,4 +8,6 @@ export const brokenGround = {
   scope: "global",
   metric: "global_cells_cleared",
   threshold: 1000000,
+  createdAt: "2026-04-23T17:40:43.580Z",
+  updatedAt: "2026-09-15T16:31:54.000Z",
 } as const satisfies CtwAchievement

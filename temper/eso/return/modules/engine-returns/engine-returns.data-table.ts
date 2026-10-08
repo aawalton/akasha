@@ -45,4 +45,6 @@ export const engineReturns = {
       statement: "Of an object's functions, only the names of those a control answers to are kept.",
     },
   ],
+  createdAt: "2026-09-24T14:15:22.575Z",
+  updatedAt: "2026-09-24T16:55:50.000Z",
 } as const satisfies DataTable

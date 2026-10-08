@@ -52,4 +52,6 @@ export const assignmentItself = {
       statement: "An assignment is looked up under the page type the assignment is stated under.",
     },
   ],
+  createdAt: "2026-08-31T14:16:55.081Z",
+  updatedAt: "2026-09-28T18:07:35.000Z",
 } as const satisfies ContextWarrant

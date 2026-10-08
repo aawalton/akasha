@@ -37,4 +37,6 @@ export const otherwhereIRoomExits = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-28T14:14:52.436Z",
+  updatedAt: "2026-09-28T23:01:32.000Z",
 } as const satisfies ComputedProperty

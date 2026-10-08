@@ -64,4 +64,6 @@ export const musicReleaseParts = {
   ],
   name: "release-parts",
   arguments: [{ argument: "argument/json" }, { argument: "argument/plan" }],
+  createdAt: "2026-09-21T15:43:17.704Z",
+  updatedAt: "2026-09-21T18:54:03.000Z",
 } as const satisfies Command

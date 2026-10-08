@@ -49,4 +49,6 @@ export const domainAncestors = {
       statement: "The chain above is answered by a graph predicate rather than walked here.",
     },
   ],
+  createdAt: "2026-08-31T14:16:55.082Z",
+  updatedAt: "2026-09-28T18:07:35.000Z",
 } as const satisfies ContextWarrant

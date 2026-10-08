@@ -9,4 +9,6 @@ export const stream = {
     { partOfSpeech: "part-of-speech/noun", spelling: "stream" },
     { partOfSpeech: "part-of-speech/noun", spelling: "streams" },
   ],
+  createdAt: "2026-09-25T18:23:01.718Z",
+  updatedAt: "2026-09-25T18:23:05.000Z",
 } as const satisfies CommonLanguageTerm

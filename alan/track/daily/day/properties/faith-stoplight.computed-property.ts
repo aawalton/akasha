@@ -9,4 +9,6 @@ export const faithStoplight = {
   holds: "text",
   code: "ts",
   types: "ts",
+  createdAt: "2026-09-05T15:07:38.132Z",
+  updatedAt: "2026-09-22T10:05:47.000Z",
 } as const satisfies ComputedProperty

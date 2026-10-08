@@ -13,4 +13,6 @@ export const verbWithAToClause = {
   ],
   admits: ["who Alan wants to become", "how Alan wants to read a page"],
   refuses: ["who Alan wants to"],
+  createdAt: "2026-09-25T13:12:08.583Z",
+  updatedAt: "2026-09-25T15:41:48.000Z",
 } as const satisfies Construction

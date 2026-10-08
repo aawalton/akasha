@@ -96,5 +96,6 @@ export const seatMessaged = {
   ],
   name: "messaged",
   arguments: [{ argument: "argument/seat", required: true, saidAs: "word" }],
-  updatedAt: "2026-10-08T14:57:21.534Z",
+  updatedAt: "2026-10-08T15:49:40.643Z",
+  createdAt: "2026-09-06T18:50:11.092Z",
 } as const satisfies Command

@@ -10,4 +10,6 @@ export const quangTri = {
   threshold: 50000000,
   description:
     "Quang Tri received more ordnance per square metre than anywhere on Earth. Over 3,400 people have been killed by war-left explosives since 1975. At 2022 clearance rates, full clearance was still 12 years away.",
+  createdAt: "2026-04-23T17:40:08.227Z",
+  updatedAt: "2026-09-15T16:31:54.000Z",
 } as const satisfies CtwAchievement

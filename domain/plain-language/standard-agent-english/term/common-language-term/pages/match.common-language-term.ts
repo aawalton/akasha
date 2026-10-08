@@ -9,4 +9,6 @@ export const match = {
     { partOfSpeech: "part-of-speech/verb", spelling: "match" },
     { partOfSpeech: "part-of-speech/verb", spelling: "matches" },
   ],
+  createdAt: "2026-09-24T23:39:42.547Z",
+  updatedAt: "2026-09-25T15:41:48.000Z",
 } as const satisfies CommonLanguageTerm

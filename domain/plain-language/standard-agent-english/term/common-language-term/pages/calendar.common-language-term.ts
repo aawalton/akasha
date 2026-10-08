@@ -9,4 +9,6 @@ export const calendar = {
     { partOfSpeech: "part-of-speech/noun", spelling: "calendar" },
     { partOfSpeech: "part-of-speech/noun", spelling: "calendars" },
   ],
+  createdAt: "2026-09-24T22:00:58.602Z",
+  updatedAt: "2026-09-25T15:41:48.000Z",
 } as const satisfies CommonLanguageTerm

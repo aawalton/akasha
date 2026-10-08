@@ -8,4 +8,6 @@ export const communityLiaison = {
   scope: "team",
   metric: "team_marks",
   threshold: 500,
+  createdAt: "2026-04-23T17:40:30.226Z",
+  updatedAt: "2026-09-15T16:31:54.000Z",
 } as const satisfies CtwAchievement

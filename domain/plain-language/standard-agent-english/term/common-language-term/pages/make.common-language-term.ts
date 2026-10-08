@@ -10,4 +10,6 @@ export const make = {
     { partOfSpeech: "part-of-speech/verb", spelling: "makes" },
     { partOfSpeech: "part-of-speech/past-participle", spelling: "made" },
   ],
+  createdAt: "2026-09-25T13:26:02.009Z",
+  updatedAt: "2026-09-25T15:41:48.000Z",
 } as const satisfies CommonLanguageTerm

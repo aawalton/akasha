@@ -15,4 +15,6 @@ export const seatModelGateway = {
     "module/supervisor-gateway-version",
     "module/supervisor-spawn-gateway",
   ],
+  createdAt: "2026-09-09T22:59:56.607Z",
+  updatedAt: "2026-09-24T16:49:56.000Z",
 } as const satisfies Domain

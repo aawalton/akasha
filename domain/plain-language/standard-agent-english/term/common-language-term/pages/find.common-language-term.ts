@@ -10,4 +10,6 @@ export const find = {
     { partOfSpeech: "part-of-speech/verb", spelling: "finds" },
     { partOfSpeech: "part-of-speech/past-participle", spelling: "found" },
   ],
+  createdAt: "2026-09-24T23:20:27.177Z",
+  updatedAt: "2026-09-25T15:41:48.000Z",
 } as const satisfies CommonLanguageTerm

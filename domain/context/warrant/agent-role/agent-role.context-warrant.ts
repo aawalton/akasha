@@ -33,4 +33,6 @@ export const agentRole = {
       statement: "A role page type that cannot be found is no warrant.",
     },
   ],
+  createdAt: "2026-09-05T20:43:07.915Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies ContextWarrant

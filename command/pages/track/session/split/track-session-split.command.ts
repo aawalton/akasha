@@ -98,4 +98,6 @@ export const trackSessionSplit = {
     { argument: "argument/difficulty" },
     { argument: "argument/relationship", repeats: true },
   ],
+  createdAt: "2026-09-07T01:26:40.869Z",
+  updatedAt: "2026-09-22T10:09:03.000Z",
 } as const satisfies Command

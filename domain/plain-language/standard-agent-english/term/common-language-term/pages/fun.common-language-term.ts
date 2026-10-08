@@ -6,4 +6,6 @@ export const fun = {
   slug: "fun",
   definition: "enjoyable for its own sake",
   spellings: [{ partOfSpeech: "part-of-speech/adjective", spelling: "fun" }],
+  createdAt: "2026-09-25T15:08:00.028Z",
+  updatedAt: "2026-09-25T15:41:48.000Z",
 } as const satisfies CommonLanguageTerm

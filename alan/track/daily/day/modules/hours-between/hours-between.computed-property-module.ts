@@ -17,4 +17,6 @@ export const hoursBetween = {
       statement: "An end that is no readable instant is no reading rather than zero.",
     },
   ],
+  createdAt: "2026-09-08T17:45:00.604Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies ComputedPropertyModule

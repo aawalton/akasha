@@ -10,4 +10,6 @@ export const day20260531 = {
   wealthPoints: 5.125,
   completedTasks: "jsonl",
   healthSamples: "jsonl",
+  createdAt: "2026-06-30T20:01:02.308Z",
+  updatedAt: "2026-09-15T16:33:01.000Z",
 } as const satisfies Day

@@ -25,4 +25,6 @@ export const dndGroup = {
   connectionActivityWeight: 1,
   connectionActivityWit: 1.5,
   connectionActivitySeq: 2,
+  createdAt: "2026-06-04T14:52:45.940Z",
+  updatedAt: "2026-09-25T13:01:00.000Z",
 } as const satisfies ConnectionActivity

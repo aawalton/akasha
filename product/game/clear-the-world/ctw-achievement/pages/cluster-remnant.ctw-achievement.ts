@@ -10,4 +10,6 @@ export const clusterRemnant = {
   threshold: 7500,
   description:
     "Cluster munitions release dozens to hundreds of submunitions; failure rates of 5–30% leave fields of unexploded bomblets. 270 million submunitions were dropped on Laos between 1964 and 1973 — roughly 80 million failed to detonate and remain a daily hazard.",
+  createdAt: "2026-04-23T17:40:11.605Z",
+  updatedAt: "2026-09-15T16:31:54.000Z",
 } as const satisfies CtwAchievement

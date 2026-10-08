@@ -48,4 +48,6 @@ export const temperCatalogImportLoreBooks = {
   ],
   name: "import-lore-books",
   arguments: [{ argument: "argument/lore-category" }],
+  createdAt: "2026-09-25T00:06:19.866Z",
+  updatedAt: "2026-09-27T10:46:43.000Z",
 } as const satisfies Command

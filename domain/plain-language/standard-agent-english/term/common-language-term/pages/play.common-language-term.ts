@@ -9,4 +9,6 @@ export const play = {
     { partOfSpeech: "part-of-speech/verb", spelling: "play" },
     { partOfSpeech: "part-of-speech/verb", spelling: "plays" },
   ],
+  createdAt: "2026-09-24T19:15:39.956Z",
+  updatedAt: "2026-09-25T15:41:48.000Z",
 } as const satisfies CommonLanguageTerm

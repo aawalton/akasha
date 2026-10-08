@@ -10,4 +10,6 @@ export const stop = {
     { partOfSpeech: "part-of-speech/noun", spelling: "stops" },
     { partOfSpeech: "part-of-speech/past-participle", spelling: "stopped" },
   ],
+  createdAt: "2026-09-24T15:00:03.209Z",
+  updatedAt: "2026-09-25T15:41:48.000Z",
 } as const satisfies CommonLanguageTerm

@@ -25,4 +25,6 @@ export const watchingShows = {
   connectionActivityWeight: 1,
   connectionActivityWit: 1.5,
   connectionActivitySeq: 18,
+  createdAt: "2026-06-04T16:12:05.872Z",
+  updatedAt: "2026-09-25T13:01:00.000Z",
 } as const satisfies ConnectionActivity

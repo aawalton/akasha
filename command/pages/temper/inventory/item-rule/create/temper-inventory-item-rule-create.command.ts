@@ -54,4 +54,6 @@ export const temperInventoryItemRuleCreate = {
     { argument: "argument/item-name", required: true },
     { argument: "argument/stock-quantity" },
   ],
+  createdAt: "2026-09-02T03:49:49.650Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies Command

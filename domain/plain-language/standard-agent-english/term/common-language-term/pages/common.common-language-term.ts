@@ -6,4 +6,6 @@ export const common = {
   slug: "common",
   definition: "shared by many",
   spellings: [{ partOfSpeech: "part-of-speech/adjective", spelling: "common" }],
+  createdAt: "2026-09-25T14:52:15.435Z",
+  updatedAt: "2026-09-25T15:41:48.000Z",
 } as const satisfies CommonLanguageTerm

@@ -10,4 +10,6 @@ export const guide = {
     { partOfSpeech: "part-of-speech/verb", spelling: "guides" },
     { partOfSpeech: "part-of-speech/past-participle", spelling: "guided" },
   ],
+  createdAt: "2026-09-25T13:19:13.775Z",
+  updatedAt: "2026-09-25T15:41:48.000Z",
 } as const satisfies CommonLanguageTerm

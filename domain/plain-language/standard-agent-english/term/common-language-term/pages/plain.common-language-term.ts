@@ -6,4 +6,6 @@ export const plain = {
   slug: "plain",
   definition: "easy to understand, with nothing added",
   spellings: [{ partOfSpeech: "part-of-speech/adjective", spelling: "plain" }],
+  createdAt: "2026-09-25T15:19:14.765Z",
+  updatedAt: "2026-09-25T15:41:48.000Z",
 } as const satisfies CommonLanguageTerm

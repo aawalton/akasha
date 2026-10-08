@@ -13,4 +13,6 @@ export const scriptIds = {
         "The change generator `script-ids-keeping` writes this table from the script pages.",
     },
   ],
+  createdAt: "2026-09-26T18:55:38.995Z",
+  updatedAt: "2026-09-26T18:55:59.000Z",
 } as const satisfies DataTable

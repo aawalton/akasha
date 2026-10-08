@@ -6,4 +6,6 @@ export const people = {
   slug: "people",
   definition: "humans in general",
   spellings: [{ partOfSpeech: "part-of-speech/noun", spelling: "people" }],
+  createdAt: "2026-09-24T19:08:42.884Z",
+  updatedAt: "2026-09-25T15:41:48.000Z",
 } as const satisfies CommonLanguageTerm

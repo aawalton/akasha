@@ -10,4 +10,6 @@ export const magawasField = {
   threshold: 250000,
   description:
     "APOPO’s HeroRAT Magawa screened over 141,000 m² and found 71 mines in his working career. Your cumulative flood-fill clearance now exceeds Magawa’s lifetime output. Real clearance at this scale requires years and millions of dollars.",
+  createdAt: "2026-04-23T17:40:22.165Z",
+  updatedAt: "2026-09-15T16:31:54.000Z",
 } as const satisfies CtwAchievement

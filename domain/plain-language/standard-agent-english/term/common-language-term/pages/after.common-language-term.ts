@@ -6,4 +6,6 @@ export const after = {
   slug: "after",
   definition: "the preposition naming what a thing comes later than",
   spellings: [{ partOfSpeech: "part-of-speech/preposition", spelling: "after" }],
+  createdAt: "2026-09-24T14:44:59.283Z",
+  updatedAt: "2026-09-25T15:41:48.000Z",
 } as const satisfies CommonLanguageTerm

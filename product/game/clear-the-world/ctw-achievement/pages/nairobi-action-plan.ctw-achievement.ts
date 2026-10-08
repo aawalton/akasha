@@ -10,4 +10,6 @@ export const nairobiActionPlan = {
   threshold: 500,
   description:
     "The 2004 Nairobi Action Plan was the first detailed framework for implementing Ottawa Treaty obligations. It established that clearance is not just a technical exercise but a humanitarian imperative with deadlines and accountability.",
+  createdAt: "2026-04-23T17:40:40.801Z",
+  updatedAt: "2026-09-15T16:31:54.000Z",
 } as const satisfies CtwAchievement

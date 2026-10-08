@@ -6,4 +6,6 @@ export const art = {
   slug: "art",
   definition: "work made to be seen for its beauty",
   spellings: [{ partOfSpeech: "part-of-speech/noun", spelling: "art" }],
+  createdAt: "2026-09-25T13:24:57.978Z",
+  updatedAt: "2026-09-25T15:41:48.000Z",
 } as const satisfies CommonLanguageTerm

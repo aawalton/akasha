@@ -10,4 +10,6 @@ export const operationLifeline = {
   threshold: 10000,
   description:
     "Clearing 1 hectare by hand takes a team of deminers roughly two to four weeks. Early HALO teams in Afghanistan cleared corridors one hectare at a time to reopen roads for returning refugees.",
+  createdAt: "2026-04-23T17:40:20.833Z",
+  updatedAt: "2026-09-15T16:31:54.000Z",
 } as const satisfies CtwAchievement

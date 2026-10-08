@@ -114,4 +114,6 @@ export const storyTurnRewind = {
     { argument: "argument/played-turn", required: true },
     { argument: "argument/action-file" },
   ],
+  createdAt: "2026-09-26T18:27:41.699Z",
+  updatedAt: "2026-10-04T00:29:35.000Z",
 } as const satisfies Command

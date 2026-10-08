@@ -9,4 +9,6 @@ export const disk = {
     { partOfSpeech: "part-of-speech/noun", spelling: "disk" },
     { partOfSpeech: "part-of-speech/noun", spelling: "disks" },
   ],
+  createdAt: "2026-09-25T17:14:11.956Z",
+  updatedAt: "2026-09-25T17:14:15.000Z",
 } as const satisfies CommonLanguageTerm

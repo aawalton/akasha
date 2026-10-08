@@ -11,4 +11,6 @@ export const isobelVeloiseNoRole16033d783246 = {
   visibility: "live",
   targetCount: 1,
   baseRoles: [],
+  createdAt: "2026-09-26T17:36:33.878Z",
+  updatedAt: "2026-09-26T17:36:35.000Z",
 } as const satisfies CompanionBuild

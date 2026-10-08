@@ -9,4 +9,6 @@ export const nounGroupAlone = {
   writtenFrom: ["phrase-kind/noun-group"],
   admits: ["markdown", "arousal", "code"],
   refuses: ["the code"],
+  createdAt: "2026-09-21T19:44:01.424Z",
+  updatedAt: "2026-09-25T15:41:48.000Z",
 } as const satisfies Construction

@@ -6,4 +6,6 @@ export const on = {
   slug: "on",
   definition: "the preposition naming what a thing rests against",
   spellings: [{ partOfSpeech: "part-of-speech/preposition", spelling: "on" }],
+  createdAt: "2026-09-21T20:01:40.117Z",
+  updatedAt: "2026-09-25T15:41:48.000Z",
 } as const satisfies CommonLanguageTerm

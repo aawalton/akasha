@@ -48,4 +48,6 @@ export const musicSearch = {
     { argument: "argument/artist" },
     { argument: "argument/query", required: true, saidAs: "word" },
   ],
+  createdAt: "2026-09-02T16:34:35.353Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies Command

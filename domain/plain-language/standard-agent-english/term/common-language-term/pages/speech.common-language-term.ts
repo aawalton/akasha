@@ -6,4 +6,6 @@ export const speech = {
   slug: "speech",
   definition: "spoken words",
   spellings: [{ partOfSpeech: "part-of-speech/noun", spelling: "speech" }],
+  createdAt: "2026-09-25T16:45:53.360Z",
+  updatedAt: "2026-09-25T16:45:58.000Z",
 } as const satisfies CommonLanguageTerm

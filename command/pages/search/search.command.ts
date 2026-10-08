@@ -125,4 +125,6 @@ export const search = {
     { argument: "argument/files-only" },
     { argument: "argument/ignore-case" },
   ],
+  createdAt: "2026-09-25T16:19:07.234Z",
+  updatedAt: "2026-09-25T16:33:30.000Z",
 } as const satisfies Command

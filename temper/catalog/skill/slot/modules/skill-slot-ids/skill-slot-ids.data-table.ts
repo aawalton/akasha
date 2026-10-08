@@ -12,4 +12,6 @@ export const skillSlotIds = {
       statement: "The change generator `skill-slot-ids-keeping` writes this table from its pages.",
     },
   ],
+  createdAt: "2026-09-27T02:47:03.387Z",
+  updatedAt: "2026-09-27T02:47:07.000Z",
 } as const satisfies DataTable

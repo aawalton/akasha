@@ -9,4 +9,6 @@ export const port = {
     { partOfSpeech: "part-of-speech/noun", spelling: "port" },
     { partOfSpeech: "part-of-speech/noun", spelling: "ports" },
   ],
+  createdAt: "2026-09-25T18:18:17.935Z",
+  updatedAt: "2026-09-25T18:18:27.000Z",
 } as const satisfies CommonLanguageTerm

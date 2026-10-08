@@ -81,4 +81,6 @@ export const storyJoinUnread = {
   ],
   name: "join-unread",
   arguments: [{ argument: "argument/chapter-limit" }],
+  createdAt: "2026-09-29T02:46:17.935Z",
+  updatedAt: "2026-09-29T02:56:03.000Z",
 } as const satisfies Command

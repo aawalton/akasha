@@ -6,4 +6,6 @@ export const longTerm = {
   slug: "long-term",
   definition: "over many years",
   spellings: [{ partOfSpeech: "part-of-speech/adjective", spelling: "long-term" }],
+  createdAt: "2026-09-25T12:33:25.408Z",
+  updatedAt: "2026-09-25T15:41:48.000Z",
 } as const satisfies CommonLanguageTerm

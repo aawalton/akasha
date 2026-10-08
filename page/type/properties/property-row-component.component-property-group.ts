@@ -10,4 +10,6 @@ export const propertyRowComponent = {
   propertySlug: "property-row-component",
   definition:
     "the component drawing as a row a value a page of this page type carries, with its label",
+  createdAt: "2026-09-13T20:56:43.890Z",
+  updatedAt: "2026-09-15T16:25:50.000Z",
 } as const satisfies ComponentPropertyGroup

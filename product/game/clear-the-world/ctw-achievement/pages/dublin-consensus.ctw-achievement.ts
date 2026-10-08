@@ -10,4 +10,6 @@ export const dublinConsensus = {
   threshold: 250000,
   description:
     "On 30 May 2008, 107 nations adopted the Convention on Cluster Munitions in Dublin — banning weapons that leave fields of unexploded submunitions. Consensus required sustained pressure from citizens and organisations alike.",
+  createdAt: "2026-04-23T17:40:59.409Z",
+  updatedAt: "2026-09-15T16:31:54.000Z",
 } as const satisfies CtwAchievement

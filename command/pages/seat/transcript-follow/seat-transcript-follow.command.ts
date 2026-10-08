@@ -158,4 +158,6 @@ export const seatTranscriptFollow = {
     { argument: "argument/after-exchange" },
     { argument: "argument/wait-seconds" },
   ],
+  createdAt: "2026-09-22T14:05:21.725Z",
+  updatedAt: "2026-09-22T14:46:30.000Z",
 } as const satisfies Command
