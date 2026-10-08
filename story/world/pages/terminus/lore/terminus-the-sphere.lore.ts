@@ -37,6 +37,14 @@ export const terminusTheSphere = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
+      fact: "Like the Earth, The Terminus is not a perfect sphere.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The most powerful System users can change the world on massive scales.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
       fact: "The outward push of the star's mana holds people and things to the surface.",
       knowers: ["lore-disclosure/game-master"],
     },
@@ -210,5 +218,5 @@ export const terminusTheSphere = {
     },
   ],
   createdAt: "2026-10-08T19:12:35.919Z",
-  updatedAt: "2026-10-08T20:01:56.495Z",
+  updatedAt: "2026-10-08T20:12:23.529Z",
 } as const satisfies Lore
