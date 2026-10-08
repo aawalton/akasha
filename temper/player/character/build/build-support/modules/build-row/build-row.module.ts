@@ -10,7 +10,7 @@ export const buildRow = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "A build was created at the moment in its id, and at no moment where its id has none.",
+      statement: "A build was created at the instant its page states, and at none where it states none.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -23,5 +23,5 @@ export const buildRow = {
     },
   ],
   createdAt: "2026-09-11T02:16:50.677Z",
-  updatedAt: "2026-09-25T04:38:17.000Z",
+  updatedAt: "2026-10-08T16:17:27.649Z",
 } as const satisfies Module
