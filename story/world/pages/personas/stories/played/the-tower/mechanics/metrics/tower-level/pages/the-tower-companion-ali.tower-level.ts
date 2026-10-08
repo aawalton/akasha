@@ -6,4 +6,6 @@ export const theTowerCompanionAli = {
   slug: "the-tower-companion-ali",
   character: "character-other/the-tower-companion-ali",
   value: 1,
+  createdAt: "2026-09-22T17:47:24.457Z",
+  updatedAt: "2026-09-22T17:47:32.000Z",
 } as const satisfies TowerLevel

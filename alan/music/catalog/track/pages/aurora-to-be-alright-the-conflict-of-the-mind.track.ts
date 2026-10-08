@@ -42,4 +42,6 @@ export const auroraToBeAlrightTheConflictOfTheMind = {
       externalLink: "https://open.spotify.com/track/6zXLza3EXxPlhcrHWRQRF3",
     },
   ],
+  createdAt: "2026-09-18T20:31:58.512Z",
+  updatedAt: "2026-09-24T19:58:28.000Z",
 } as const satisfies Track

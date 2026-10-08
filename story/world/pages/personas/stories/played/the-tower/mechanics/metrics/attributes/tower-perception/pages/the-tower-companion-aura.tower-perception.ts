@@ -6,4 +6,6 @@ export const theTowerCompanionAura = {
   slug: "the-tower-companion-aura",
   character: "character-other/the-tower-companion-aura",
   value: 14,
+  createdAt: "2026-09-22T17:28:31.165Z",
+  updatedAt: "2026-09-22T17:28:47.000Z",
 } as const satisfies TowerPerception

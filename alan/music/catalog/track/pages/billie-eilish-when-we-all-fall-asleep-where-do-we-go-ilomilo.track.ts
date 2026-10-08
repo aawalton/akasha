@@ -24,4 +24,6 @@ export const billieEilishWhenWeAllFallAsleepWhereDoWeGoIlomilo = {
       externalLink: "https://open.spotify.com/track/7qEKqBCD2vE5vIBsrUitpD",
     },
   ],
+  createdAt: "2026-09-18T20:32:57.746Z",
+  updatedAt: "2026-09-24T19:58:53.000Z",
 } as const satisfies Track

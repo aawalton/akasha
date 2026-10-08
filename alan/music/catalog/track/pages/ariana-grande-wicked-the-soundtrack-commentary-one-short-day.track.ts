@@ -49,4 +49,6 @@ export const arianaGrandeWickedTheSoundtrackCommentaryOneShortDay = {
       externalLink: "https://open.spotify.com/track/4jNerIJa2IOeL5gVDvMNLW",
     },
   ],
+  createdAt: "2026-09-15T20:32:22.773Z",
+  updatedAt: "2026-09-24T19:58:28.000Z",
 } as const satisfies Track

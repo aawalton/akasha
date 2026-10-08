@@ -24,4 +24,6 @@ export const arianaGrandeProblemProblemACappella = {
       externalLink: "https://open.spotify.com/track/4rKmu5d1xtcGDKktcq2E7c",
     },
   ],
+  createdAt: "2026-09-15T20:32:19.390Z",
+  updatedAt: "2026-09-24T19:58:28.000Z",
 } as const satisfies Track

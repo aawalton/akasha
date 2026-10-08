@@ -34,4 +34,6 @@ export const arianaGrandeWickedForGoodTheSoundtrackCommentaryMarchOfTheWitchHunt
       externalLink: "https://open.spotify.com/track/3zjxzTFc3uebB6nqk0CVxF",
     },
   ],
+  createdAt: "2026-09-15T20:32:06.484Z",
+  updatedAt: "2026-09-24T19:58:28.000Z",
 } as const satisfies Track

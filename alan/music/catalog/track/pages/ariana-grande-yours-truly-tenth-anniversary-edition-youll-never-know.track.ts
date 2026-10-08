@@ -34,4 +34,6 @@ export const arianaGrandeYoursTrulyTenthAnniversaryEditionYoullNeverKnow = {
       externalLink: "https://open.spotify.com/track/5HGvnxyYMsK0MWuvXCNjfG",
     },
   ],
+  createdAt: "2026-09-15T20:32:11.112Z",
+  updatedAt: "2026-09-24T19:58:28.000Z",
 } as const satisfies Track

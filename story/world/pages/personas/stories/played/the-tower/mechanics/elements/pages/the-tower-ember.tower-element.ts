@@ -6,4 +6,6 @@ export const theTowerEmber = {
   slug: "the-tower-ember",
   title: "Ember",
   description: "Heat and live fire — the warmth in a thing, and the heat-stress a material holds.",
+  createdAt: "2026-09-22T18:43:27.065Z",
+  updatedAt: "2026-09-22T18:43:51.000Z",
 } as const satisfies TowerElement

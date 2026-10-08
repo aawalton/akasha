@@ -6,4 +6,6 @@ export const theTowerPlinthGolemSlagLimb = {
   slug: "the-tower-plinth-golem-slag-limb",
   item: "story-item/the-tower-plinth-golem-slag-limb",
   value: 20,
+  createdAt: "2026-09-24T14:39:58.981Z",
+  updatedAt: "2026-09-26T17:47:23.000Z",
 } as const satisfies TowerItemDamage

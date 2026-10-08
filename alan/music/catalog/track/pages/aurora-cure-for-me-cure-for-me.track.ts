@@ -31,4 +31,6 @@ export const auroraCureForMeCureForMe = {
       externalLink: "https://open.spotify.com/track/33WTgxRdPBQQpVCMXpNxhO",
     },
   ],
+  createdAt: "2026-09-18T20:31:59.021Z",
+  updatedAt: "2026-09-24T19:58:28.000Z",
 } as const satisfies Track

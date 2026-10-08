@@ -24,4 +24,6 @@ export const arianaGrandeAHandForMrsClausAHandForMrsClaus = {
       externalLink: "https://open.spotify.com/track/51WKo14W3ePwu4bvn8bBLF",
     },
   ],
+  createdAt: "2026-09-15T20:32:17.952Z",
+  updatedAt: "2026-09-24T19:57:56.000Z",
 } as const satisfies Track

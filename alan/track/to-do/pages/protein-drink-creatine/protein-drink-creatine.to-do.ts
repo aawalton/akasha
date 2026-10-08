@@ -13,4 +13,6 @@ export const proteinDrinkCreatine = {
   toDoValue: "value/health",
   toDoLastCompletedAt: "2026-10-08T14:41:15.705Z",
   whatItTakes: "txt",
+  createdAt: "2026-06-25T20:56:18.800Z",
+  updatedAt: "2026-10-08T14:41:16.000Z",
 } as const satisfies ToDo

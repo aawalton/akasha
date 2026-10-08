@@ -27,4 +27,6 @@ export const arianaGrandeIDonTKnowWhyIJustDoIDontKnowWhyIJustDo = {
       externalLink: "https://open.spotify.com/track/0MF0kprFLhr2KtqNjgN7bw",
     },
   ],
+  createdAt: "2026-09-15T20:32:16.445Z",
+  updatedAt: "2026-09-24T19:58:28.000Z",
 } as const satisfies Track

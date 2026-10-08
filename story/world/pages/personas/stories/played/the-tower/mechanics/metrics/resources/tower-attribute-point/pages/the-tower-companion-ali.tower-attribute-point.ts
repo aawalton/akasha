@@ -7,4 +7,6 @@ export const theTowerCompanionAli = {
   character: "character-other/the-tower-companion-ali",
   value: 0,
   minValue: 0,
+  createdAt: "2026-09-24T14:58:12.437Z",
+  updatedAt: "2026-09-24T14:58:25.000Z",
 } as const satisfies TowerAttributePoint

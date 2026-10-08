@@ -12,4 +12,6 @@ export const pray = {
   toDoSortOrder: 0,
   toDoValue: "value/faith",
   toDoLastCompletedAt: "2026-10-08T11:12:03.255Z",
+  createdAt: "2026-04-22T12:39:34.017Z",
+  updatedAt: "2026-10-08T11:12:05.000Z",
 } as const satisfies ToDo

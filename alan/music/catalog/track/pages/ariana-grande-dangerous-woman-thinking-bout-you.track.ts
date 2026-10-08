@@ -24,4 +24,6 @@ export const arianaGrandeDangerousWomanThinkingBoutYou = {
       externalLink: "https://open.spotify.com/track/28tmK8wkE9y1UHdBKLd0nA",
     },
   ],
+  createdAt: "2026-09-15T20:32:15.095Z",
+  updatedAt: "2026-09-24T19:57:56.000Z",
 } as const satisfies Track

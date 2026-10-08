@@ -24,4 +24,6 @@ export const auroraButterfliesFeatAuroraButterfliesFeatAurora = {
       externalLink: "https://open.spotify.com/track/1dWUBCoztAMZcqec1CAE6z",
     },
   ],
+  createdAt: "2026-09-18T20:31:58.983Z",
+  updatedAt: "2026-09-24T19:58:28.000Z",
 } as const satisfies Track

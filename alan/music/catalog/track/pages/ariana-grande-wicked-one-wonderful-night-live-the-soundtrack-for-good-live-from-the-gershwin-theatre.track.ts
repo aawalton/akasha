@@ -32,4 +32,6 @@ export const arianaGrandeWickedOneWonderfulNightLiveTheSoundtrackForGoodLiveFrom
         externalLink: "https://open.spotify.com/track/2zS3syUBiTkYqJRm9Tn52h",
       },
     ],
+    createdAt: "2026-09-15T20:32:06.999Z",
+    updatedAt: "2026-09-24T19:58:28.000Z",
   } as const satisfies Track

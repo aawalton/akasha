@@ -24,4 +24,6 @@ export const arianaGrandeDangerousWomanBadDecisions = {
       externalLink: "https://open.spotify.com/track/76RIfPBraSmXWC9LryUztF",
     },
   ],
+  createdAt: "2026-09-15T20:32:15.003Z",
+  updatedAt: "2026-09-24T19:57:56.000Z",
 } as const satisfies Track

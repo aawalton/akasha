@@ -25,4 +25,6 @@ export const auroraARockSomewhereTheSeedForGreenpeaceARockSomewhereTheSeedForGre
       externalLink: "https://open.spotify.com/track/0XL3TycRDynBXUfVm9feRH",
     },
   ],
+  createdAt: "2026-09-18T20:31:58.120Z",
+  updatedAt: "2026-09-24T19:58:28.000Z",
 } as const satisfies Track

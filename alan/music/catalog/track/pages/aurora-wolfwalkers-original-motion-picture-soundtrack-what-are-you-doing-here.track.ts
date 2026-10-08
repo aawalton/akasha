@@ -24,4 +24,6 @@ export const auroraWolfwalkersOriginalMotionPictureSoundtrackWhatAreYouDoingHere
       externalLink: "https://open.spotify.com/track/4d2x2u38K6nGbdOSxIMU8L",
     },
   ],
+  createdAt: "2026-09-18T20:31:56.263Z",
+  updatedAt: "2026-09-24T19:58:28.000Z",
 } as const satisfies Track

@@ -24,4 +24,6 @@ export const arianaGrandePetalNowhereNobody = {
       externalLink: "https://open.spotify.com/track/5JbnupagBhD0AanbkCELdH",
     },
   ],
+  createdAt: "2026-09-15T20:32:04.932Z",
+  updatedAt: "2026-09-24T19:58:28.000Z",
 } as const satisfies Track

@@ -11,4 +11,6 @@ export const planPresentsForJenForChristmas = {
   toDoRecurrence: "FREQ=YEARLY;BYMONTH=12;BYMONTHDAY=1",
   toDoSortOrder: 13,
   toDoValue: "value/love",
+  createdAt: "2026-04-22T12:39:34.017Z",
+  updatedAt: "2026-09-21T18:27:30.000Z",
 } as const satisfies ToDo

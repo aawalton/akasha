@@ -31,4 +31,6 @@ export const arianaGrandePositionsDeluxeMotiveWithDojaCat = {
       externalLink: "https://open.spotify.com/track/5VipERQ1ofCowecoFg2MVU",
     },
   ],
+  createdAt: "2026-09-15T20:32:11.544Z",
+  updatedAt: "2026-09-24T19:58:28.000Z",
 } as const satisfies Track

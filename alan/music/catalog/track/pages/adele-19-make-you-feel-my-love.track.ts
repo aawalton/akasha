@@ -31,4 +31,6 @@ export const adele19MakeYouFeelMyLove = {
       externalLink: "https://open.spotify.com/track/6otXN6h5J6e49Lvse5yCwD",
     },
   ],
+  createdAt: "2026-09-24T20:46:49.945Z",
+  updatedAt: "2026-09-24T21:00:26.000Z",
 } as const satisfies Track

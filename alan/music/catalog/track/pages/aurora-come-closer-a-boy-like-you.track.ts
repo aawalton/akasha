@@ -30,4 +30,6 @@ export const auroraComeCloserABoyLikeYou = {
       externalLink: "https://open.spotify.com/track/3ZUkekftKnIHyG62CnvCxs",
     },
   ],
+  createdAt: "2026-09-18T20:31:52.141Z",
+  updatedAt: "2026-09-24T19:58:28.000Z",
 } as const satisfies Track

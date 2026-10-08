@@ -40,4 +40,6 @@ export const arianaGrandeWickedForGoodTheSoundtrackCommentaryEveryDayMoreWicked 
       externalLink: "https://open.spotify.com/track/1U0lbyGwbtYco1DOJgXayx",
     },
   ],
+  createdAt: "2026-09-15T20:32:05.935Z",
+  updatedAt: "2026-09-24T19:58:28.000Z",
 } as const satisfies Track

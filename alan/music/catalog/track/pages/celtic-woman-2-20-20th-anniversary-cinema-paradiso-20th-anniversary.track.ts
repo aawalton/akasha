@@ -24,4 +24,6 @@ export const celticWoman22020thAnniversaryCinemaParadiso20thAnniversary = {
       externalLink: "https://open.spotify.com/track/70reGJ7A8gxTbX0mGVV4JB",
     },
   ],
+  createdAt: "2026-09-16T20:30:55.552Z",
+  updatedAt: "2026-09-24T19:58:53.000Z",
 } as const satisfies Track

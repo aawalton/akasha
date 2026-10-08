@@ -30,4 +30,6 @@ export const auroraIDrinkTheLightJengiRemixIDrinkTheLightJengiRemix = {
       externalLink: "https://open.spotify.com/track/5wuqGk5k0CyEa5aaiJMwSR",
     },
   ],
+  createdAt: "2026-09-18T20:31:52.843Z",
+  updatedAt: "2026-09-24T19:58:28.000Z",
 } as const satisfies Track

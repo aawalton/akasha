@@ -24,4 +24,6 @@ export const auroraQueendomHarpVersionQueendomHarpVersion = {
       externalLink: "https://open.spotify.com/track/4BLPi4X7AeORpjP3yjJq95",
     },
   ],
+  createdAt: "2026-09-18T20:32:02.709Z",
+  updatedAt: "2026-09-24T19:58:28.000Z",
 } as const satisfies Track

@@ -24,4 +24,6 @@ export const auroraATemporaryHighAcousticATemporaryHighAcoustic = {
       externalLink: "https://open.spotify.com/track/0sxdMxtyQ3qImoSh1FqiL9",
     },
   ],
+  createdAt: "2026-09-18T20:31:59.511Z",
+  updatedAt: "2026-09-24T19:58:28.000Z",
 } as const satisfies Track

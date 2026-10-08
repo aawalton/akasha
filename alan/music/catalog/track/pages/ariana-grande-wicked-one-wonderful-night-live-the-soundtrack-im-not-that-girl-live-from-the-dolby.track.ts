@@ -25,4 +25,6 @@ export const arianaGrandeWickedOneWonderfulNightLiveTheSoundtrackImNotThatGirlLi
       externalLink: "https://open.spotify.com/track/79YKWu7xOkPcNqstLTld2l",
     },
   ],
+  createdAt: "2026-09-15T20:32:06.840Z",
+  updatedAt: "2026-09-24T19:58:28.000Z",
 } as const satisfies Track

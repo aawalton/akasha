@@ -30,4 +30,6 @@ export const auroraComeCloserWavelengths = {
       externalLink: "https://open.spotify.com/track/5RKxMGzcvhdXtBQjOAC4Fu",
     },
   ],
+  createdAt: "2026-09-18T20:31:52.393Z",
+  updatedAt: "2026-09-24T19:58:28.000Z",
 } as const satisfies Track

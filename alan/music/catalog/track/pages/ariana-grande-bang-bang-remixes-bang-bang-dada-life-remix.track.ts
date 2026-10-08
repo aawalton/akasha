@@ -30,4 +30,6 @@ export const arianaGrandeBangBangRemixesBangBangDadaLifeRemix = {
       externalLink: "https://open.spotify.com/track/29kGXAiD6JiuzXpme5cXLU",
     },
   ],
+  createdAt: "2026-09-15T20:32:18.797Z",
+  updatedAt: "2026-09-24T19:57:56.000Z",
 } as const satisfies Track

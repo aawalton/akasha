@@ -6,4 +6,6 @@ export const theTowerGloomwardStalker01 = {
   slug: "the-tower-gloomward-stalker-01",
   character: "character-other/the-tower-gloomward-stalker-01",
   value: 9,
+  createdAt: "2026-09-22T17:36:40.913Z",
+  updatedAt: "2026-09-22T17:37:05.000Z",
 } as const satisfies TowerVitality

@@ -25,4 +25,6 @@ export const auroraWolfwalkersOriginalMotionPictureSoundtrackRunningWithTheWolve
         externalLink: "https://open.spotify.com/track/5KF4xocBjejdsiztbvSW83",
       },
     ],
+    createdAt: "2026-09-18T20:31:56.028Z",
+    updatedAt: "2026-09-24T19:58:28.000Z",
   } as const satisfies Track

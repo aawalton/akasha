@@ -31,4 +31,6 @@ export const arianaGrandePositionsDeluxeMyHair = {
       externalLink: "https://open.spotify.com/track/5Ds3yH73nMHgkmJxcxqPrr",
     },
   ],
+  createdAt: "2026-09-15T20:32:11.687Z",
+  updatedAt: "2026-09-24T19:58:28.000Z",
 } as const satisfies Track

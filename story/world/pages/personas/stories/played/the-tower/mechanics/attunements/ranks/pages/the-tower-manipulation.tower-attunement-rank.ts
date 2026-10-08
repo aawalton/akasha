@@ -9,4 +9,6 @@ export const theTowerManipulation = {
   description: "The element is moved and formed deliberately.",
   cap: 50,
   bias: 2,
+  createdAt: "2026-09-22T18:47:36.785Z",
+  updatedAt: "2026-09-26T17:59:43.000Z",
 } as const satisfies TowerAttunementRank

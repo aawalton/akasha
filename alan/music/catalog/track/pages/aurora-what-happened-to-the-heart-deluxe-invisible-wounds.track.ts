@@ -34,4 +34,6 @@ export const auroraWhatHappenedToTheHeartDeluxeInvisibleWounds = {
       externalLink: "https://open.spotify.com/track/5jWwelz2n1A6hGmqRz537G",
     },
   ],
+  createdAt: "2026-09-18T20:31:53.755Z",
+  updatedAt: "2026-09-24T19:58:28.000Z",
 } as const satisfies Track

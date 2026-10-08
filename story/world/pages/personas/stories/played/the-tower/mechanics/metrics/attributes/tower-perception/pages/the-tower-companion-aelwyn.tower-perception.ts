@@ -6,4 +6,6 @@ export const theTowerCompanionAelwyn = {
   slug: "the-tower-companion-aelwyn",
   character: "character-other/the-tower-companion-aelwyn",
   value: 12,
+  createdAt: "2026-09-22T17:29:47.698Z",
+  updatedAt: "2026-09-22T17:30:04.000Z",
 } as const satisfies TowerPerception

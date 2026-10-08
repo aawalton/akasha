@@ -24,4 +24,6 @@ export const adele30LoveIsAGame = {
       externalLink: "https://open.spotify.com/track/2j3GxEsbNYNeEzz86wDY4J",
     },
   ],
+  createdAt: "2026-09-24T20:46:49.946Z",
+  updatedAt: "2026-09-24T21:00:26.000Z",
 } as const satisfies Track

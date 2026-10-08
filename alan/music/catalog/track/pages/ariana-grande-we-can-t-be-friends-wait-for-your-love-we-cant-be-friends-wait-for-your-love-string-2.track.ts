@@ -24,4 +24,6 @@ export const arianaGrandeWeCanTBeFriendsWaitForYourLoveWeCantBeFriendsWaitForYou
       externalLink: "https://open.spotify.com/track/1BXNvzqXKF8PdvqUi6rNVR",
     },
   ],
+  createdAt: "2026-09-15T20:32:16.948Z",
+  updatedAt: "2026-09-24T19:58:28.000Z",
 } as const satisfies Track

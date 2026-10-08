@@ -24,4 +24,6 @@ export const arianaGrandePositionsDeluxeTestDrive = {
       externalLink: "https://open.spotify.com/track/3eZYOQO4UzKrUDYDghtnFw",
     },
   ],
+  createdAt: "2026-09-15T20:32:11.934Z",
+  updatedAt: "2026-09-24T19:58:28.000Z",
 } as const satisfies Track

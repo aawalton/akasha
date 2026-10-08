@@ -24,4 +24,6 @@ export const arianaGrandeChristmasChillNotJustOnChristmas = {
       externalLink: "https://open.spotify.com/track/29SZX6DJdXnFEV2a34qAm4",
     },
   ],
+  createdAt: "2026-09-15T20:32:18.503Z",
+  updatedAt: "2026-09-24T19:57:56.000Z",
 } as const satisfies Track

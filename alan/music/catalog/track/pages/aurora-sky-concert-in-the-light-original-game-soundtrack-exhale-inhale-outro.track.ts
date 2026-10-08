@@ -24,4 +24,6 @@ export const auroraSkyConcertInTheLightOriginalGameSoundtrackExhaleInhaleOutro =
       externalLink: "https://open.spotify.com/track/43YGGRU2NC4z1Pq1T33PlA",
     },
   ],
+  createdAt: "2026-09-18T20:31:54.728Z",
+  updatedAt: "2026-09-24T19:58:28.000Z",
 } as const satisfies Track

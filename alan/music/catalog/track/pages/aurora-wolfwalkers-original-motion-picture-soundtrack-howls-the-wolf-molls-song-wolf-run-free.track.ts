@@ -24,4 +24,6 @@ export const auroraWolfwalkersOriginalMotionPictureSoundtrackHowlsTheWolfMollsSo
       externalLink: "https://open.spotify.com/track/20QeXpfRB5GWK46PlXr1In",
     },
   ],
+  createdAt: "2026-09-18T20:31:56.186Z",
+  updatedAt: "2026-09-24T19:58:28.000Z",
 } as const satisfies Track

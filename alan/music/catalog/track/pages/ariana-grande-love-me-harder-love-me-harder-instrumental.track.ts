@@ -24,4 +24,6 @@ export const arianaGrandeLoveMeHarderLoveMeHarderInstrumental = {
       externalLink: "https://open.spotify.com/track/5Lrma6e2xfpi8uGBknkQIt",
     },
   ],
+  createdAt: "2026-09-15T20:32:19.051Z",
+  updatedAt: "2026-09-24T19:58:28.000Z",
 } as const satisfies Track

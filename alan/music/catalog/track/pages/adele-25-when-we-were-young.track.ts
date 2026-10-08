@@ -31,4 +31,6 @@ export const adele25WhenWeWereYoung = {
       externalLink: "https://open.spotify.com/track/4Tt2ahBQFQVt8uhmenn6D4",
     },
   ],
+  createdAt: "2026-09-24T20:46:49.946Z",
+  updatedAt: "2026-09-24T21:00:26.000Z",
 } as const satisfies Track

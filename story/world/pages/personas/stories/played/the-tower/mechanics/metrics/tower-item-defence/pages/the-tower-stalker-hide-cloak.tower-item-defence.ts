@@ -6,4 +6,6 @@ export const theTowerStalkerHideCloak = {
   slug: "the-tower-stalker-hide-cloak",
   item: "story-item/the-tower-stalker-hide-cloak",
   value: 1,
+  createdAt: "2026-09-22T18:14:18.095Z",
+  updatedAt: "2026-09-26T17:47:23.000Z",
 } as const satisfies TowerItemDefence

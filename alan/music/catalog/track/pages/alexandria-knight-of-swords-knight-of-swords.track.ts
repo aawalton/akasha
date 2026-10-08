@@ -24,4 +24,6 @@ export const alexandriaKnightOfSwordsKnightOfSwords = {
       externalLink: "https://open.spotify.com/track/4zb9HntzQrJZzljjGSLCM2",
     },
   ],
+  createdAt: "2026-09-16T13:49:10.914Z",
+  updatedAt: "2026-09-24T19:57:56.000Z",
 } as const satisfies Track

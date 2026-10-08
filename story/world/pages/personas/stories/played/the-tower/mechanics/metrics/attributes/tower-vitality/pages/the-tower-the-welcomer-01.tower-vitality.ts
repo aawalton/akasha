@@ -6,4 +6,6 @@ export const theTowerTheWelcomer01 = {
   slug: "the-tower-the-welcomer-01",
   character: "character-other/the-tower-the-welcomer-01",
   value: 8,
+  createdAt: "2026-09-22T17:37:56.427Z",
+  updatedAt: "2026-09-22T17:38:20.000Z",
 } as const satisfies TowerVitality

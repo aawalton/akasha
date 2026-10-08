@@ -34,4 +34,6 @@ export const auroraWhatHappenedToTheHeartASoulWithNoKing = {
       externalLink: "https://open.spotify.com/track/1UNZwi9zgSngoU7Yt0SXG1",
     },
   ],
+  createdAt: "2026-09-18T20:31:54.318Z",
+  updatedAt: "2026-09-24T19:58:28.000Z",
 } as const satisfies Track

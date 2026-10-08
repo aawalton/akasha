@@ -25,4 +25,6 @@ export const arianaGrandeWickedOneWonderfulNightLiveTheSoundtrackDefyingGravityL
       externalLink: "https://open.spotify.com/track/1aevzuJq0SwENM2dwPT5Wg",
     },
   ],
+  createdAt: "2026-09-15T20:32:06.932Z",
+  updatedAt: "2026-09-24T19:58:28.000Z",
 } as const satisfies Track

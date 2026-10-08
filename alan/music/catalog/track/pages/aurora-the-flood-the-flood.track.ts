@@ -34,4 +34,6 @@ export const auroraTheFloodTheFlood = {
       externalLink: "https://open.spotify.com/track/2WxFBMZAyinR4y9s1MbRRn",
     },
   ],
+  createdAt: "2026-09-18T20:31:58.159Z",
+  updatedAt: "2026-09-24T19:58:28.000Z",
 } as const satisfies Track

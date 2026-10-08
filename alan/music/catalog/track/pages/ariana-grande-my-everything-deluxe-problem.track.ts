@@ -24,4 +24,6 @@ export const arianaGrandeMyEverythingDeluxeProblem = {
       externalLink: "https://open.spotify.com/track/7vS3Y0IKjde7Xg85LWIEdP",
     },
   ],
+  createdAt: "2026-09-15T20:32:15.224Z",
+  updatedAt: "2026-09-24T19:58:28.000Z",
 } as const satisfies Track

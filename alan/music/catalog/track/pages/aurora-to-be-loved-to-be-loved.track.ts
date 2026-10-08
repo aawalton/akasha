@@ -24,4 +24,6 @@ export const auroraToBeLovedToBeLoved = {
       externalLink: "https://open.spotify.com/track/1YSvsbCHSwyGKX7wNtV4ld",
     },
   ],
+  createdAt: "2026-09-18T20:32:02.120Z",
+  updatedAt: "2026-09-24T19:58:28.000Z",
 } as const satisfies Track

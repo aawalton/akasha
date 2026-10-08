@@ -24,4 +24,6 @@ export const celticWoman2ANewJourneyCaledonia = {
       externalLink: "https://open.spotify.com/track/4arr5VKJbKO8PO5OY27NrM",
     },
   ],
+  createdAt: "2026-09-16T20:31:04.528Z",
+  updatedAt: "2026-09-24T19:58:53.000Z",
 } as const satisfies Track

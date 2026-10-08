@@ -24,4 +24,6 @@ export const billieEilishGuitarSongsThe30th = {
       externalLink: "https://open.spotify.com/track/5SHpuW2qjkQtFRpE6P9Nks",
     },
   ],
+  createdAt: "2026-09-18T20:32:58.112Z",
+  updatedAt: "2026-09-24T19:58:53.000Z",
 } as const satisfies Track

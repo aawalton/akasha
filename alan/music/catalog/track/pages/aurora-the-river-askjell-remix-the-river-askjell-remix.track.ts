@@ -24,4 +24,6 @@ export const auroraTheRiverAskjellRemixTheRiverAskjellRemix = {
       externalLink: "https://open.spotify.com/track/7mjoN4sysCtuTuQ3e1WTlM",
     },
   ],
+  createdAt: "2026-09-18T20:32:02.387Z",
+  updatedAt: "2026-09-24T19:58:28.000Z",
 } as const satisfies Track

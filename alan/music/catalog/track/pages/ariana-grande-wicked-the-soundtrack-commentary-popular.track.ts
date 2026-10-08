@@ -42,4 +42,6 @@ export const arianaGrandeWickedTheSoundtrackCommentaryPopular = {
       externalLink: "https://open.spotify.com/track/3i8fIJNV0yuC4kXT3SkVBZ",
     },
   ],
+  createdAt: "2026-09-15T20:32:22.642Z",
+  updatedAt: "2026-09-24T19:58:28.000Z",
 } as const satisfies Track

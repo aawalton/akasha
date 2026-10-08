@@ -7,4 +7,6 @@ export const theTowerCompanionAura = {
   character: "character-other/the-tower-companion-aura",
   value: 0,
   minValue: 0,
+  createdAt: "2026-09-24T14:58:14.801Z",
+  updatedAt: "2026-09-24T14:58:25.000Z",
 } as const satisfies TowerAttributePoint

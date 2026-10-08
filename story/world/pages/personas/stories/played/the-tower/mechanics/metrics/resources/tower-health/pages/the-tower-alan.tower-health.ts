@@ -10,4 +10,6 @@ export const theTowerAlan = {
   maxValue: 124,
   history: "jsonl",
   displayOrder: 1,
+  createdAt: "2026-09-22T16:27:28.789Z",
+  updatedAt: "2026-09-30T08:11:27.000Z",
 } as const satisfies TowerHealth

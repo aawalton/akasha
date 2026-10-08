@@ -34,4 +34,6 @@ export const auroraWhatHappenedToTheHeartDeluxeDoYouFeel = {
       externalLink: "https://open.spotify.com/track/0mgcVLtDeAzqqznnRbpUXw",
     },
   ],
+  createdAt: "2026-09-18T20:31:53.597Z",
+  updatedAt: "2026-09-24T19:58:28.000Z",
 } as const satisfies Track

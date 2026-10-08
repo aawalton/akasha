@@ -24,4 +24,6 @@ export const arianaGrandeThankUNextNeedy = {
       externalLink: "https://open.spotify.com/track/1TEL6MlSSVLSdhOSddidlJ",
     },
   ],
+  createdAt: "2026-09-15T20:32:13.688Z",
+  updatedAt: "2026-09-24T19:58:28.000Z",
 } as const satisfies Track

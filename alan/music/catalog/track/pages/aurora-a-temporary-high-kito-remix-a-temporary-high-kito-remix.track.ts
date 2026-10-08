@@ -24,4 +24,6 @@ export const auroraATemporaryHighKitoRemixATemporaryHighKitoRemix = {
       externalLink: "https://open.spotify.com/track/58542V08lKKhMHfkdU2Ugo",
     },
   ],
+  createdAt: "2026-09-18T20:31:59.209Z",
+  updatedAt: "2026-09-24T19:58:28.000Z",
 } as const satisfies Track

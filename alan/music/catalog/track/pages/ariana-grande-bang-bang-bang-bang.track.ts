@@ -38,4 +38,6 @@ export const arianaGrandeBangBangBangBang = {
       externalLink: "https://open.spotify.com/track/742RnSnVo7SZNhN32AavQJ",
     },
   ],
+  createdAt: "2026-09-15T20:32:19.176Z",
+  updatedAt: "2026-09-24T19:57:56.000Z",
 } as const satisfies Track

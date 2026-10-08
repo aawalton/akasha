@@ -42,4 +42,6 @@ export const auroraToBeAlrightYourBlood = {
       externalLink: "https://open.spotify.com/track/5Nj9Yrztp3YZOzIrvEWFZQ",
     },
   ],
+  createdAt: "2026-09-18T20:31:58.550Z",
+  updatedAt: "2026-09-24T19:58:28.000Z",
 } as const satisfies Track

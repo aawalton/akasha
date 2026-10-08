@@ -24,4 +24,6 @@ export const auroraMidasTouchMidasTouch = {
       externalLink: "https://open.spotify.com/track/3X1LFB1AFXohRiWa1Cryuv",
     },
   ],
+  createdAt: "2026-09-18T20:31:59.547Z",
+  updatedAt: "2026-09-24T19:58:28.000Z",
 } as const satisfies Track

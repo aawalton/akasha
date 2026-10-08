@@ -30,4 +30,6 @@ export const auroraHaveYouSeenMeDanceAloneRosaPistolaRemixHaveYouSeenMeDanceAlon
       externalLink: "https://open.spotify.com/track/6Ni3ftx7WG99FOcLKROIQ2",
     },
   ],
+  createdAt: "2026-09-18T20:31:52.763Z",
+  updatedAt: "2026-09-24T19:58:28.000Z",
 } as const satisfies Track

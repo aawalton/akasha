@@ -24,4 +24,6 @@ export const billieEilishBoredBored = {
       externalLink: "https://open.spotify.com/track/04sN26COy28wTXYj3dMoiZ",
     },
   ],
+  createdAt: "2026-09-18T20:32:59.129Z",
+  updatedAt: "2026-09-24T19:58:28.000Z",
 } as const satisfies Track

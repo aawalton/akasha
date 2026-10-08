@@ -8,4 +8,6 @@ export const theTowerAlan = {
   value: 3,
   minValue: 0,
   displayOrder: 4,
+  createdAt: "2026-09-22T17:30:15.142Z",
+  updatedAt: "2026-09-30T08:11:27.000Z",
 } as const satisfies TowerAttributePoint

@@ -24,4 +24,6 @@ export const arianaGrandeChristmasKissesSantaBaby = {
       externalLink: "https://open.spotify.com/track/6YJdPrH3i2POzu7hdHIRrb",
     },
   ],
+  createdAt: "2026-09-15T20:32:19.571Z",
+  updatedAt: "2026-09-24T19:57:56.000Z",
 } as const satisfies Track

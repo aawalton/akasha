@@ -34,4 +34,6 @@ export const auroraWhatHappenedToTheHeartDeluxeStarvation = {
       externalLink: "https://open.spotify.com/track/4UQFQCAmeSqePxUBeaShTQ",
     },
   ],
+  createdAt: "2026-09-18T20:31:53.635Z",
+  updatedAt: "2026-09-24T19:58:28.000Z",
 } as const satisfies Track

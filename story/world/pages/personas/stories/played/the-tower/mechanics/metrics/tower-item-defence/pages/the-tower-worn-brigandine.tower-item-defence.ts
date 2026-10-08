@@ -6,4 +6,6 @@ export const theTowerWornBrigandine = {
   slug: "the-tower-worn-brigandine",
   item: "story-item/the-tower-worn-brigandine",
   value: 3,
+  createdAt: "2026-09-22T23:04:05.131Z",
+  updatedAt: "2026-09-26T17:47:23.000Z",
 } as const satisfies TowerItemDefence

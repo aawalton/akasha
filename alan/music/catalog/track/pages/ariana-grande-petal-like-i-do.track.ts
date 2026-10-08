@@ -24,4 +24,6 @@ export const arianaGrandePetalLikeIDo = {
       externalLink: "https://open.spotify.com/track/3d1oTMjtfVySbAYQp3v4MU",
     },
   ],
+  createdAt: "2026-09-15T20:32:04.850Z",
+  updatedAt: "2026-09-24T19:58:28.000Z",
 } as const satisfies Track

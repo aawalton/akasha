@@ -25,4 +25,6 @@ export const arianaGrandeWickedForGoodTheSoundtrackCommentaryThankGoodnessICould
       externalLink: "https://open.spotify.com/track/16Ny9VV6I5uFFp0A6QfKjS",
     },
   ],
+  createdAt: "2026-09-15T20:32:05.971Z",
+  updatedAt: "2026-09-24T19:58:28.000Z",
 } as const satisfies Track

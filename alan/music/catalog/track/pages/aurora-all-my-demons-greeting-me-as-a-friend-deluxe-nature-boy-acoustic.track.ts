@@ -24,4 +24,6 @@ export const auroraAllMyDemonsGreetingMeAsAFriendDeluxeNatureBoyAcoustic = {
       externalLink: "https://open.spotify.com/track/3tTC7CQxjmsttah3GidTji",
     },
   ],
+  createdAt: "2026-09-18T20:31:57.839Z",
+  updatedAt: "2026-09-24T19:58:28.000Z",
 } as const satisfies Track

@@ -24,4 +24,6 @@ export const auroraSkyConcertInTheLightOriginalGameSoundtrackThroughTheEyesOfACh
       externalLink: "https://open.spotify.com/track/1SwfVvuuSt9RLBLkv9ZQaN",
     },
   ],
+  createdAt: "2026-09-18T20:31:55.157Z",
+  updatedAt: "2026-09-24T19:58:28.000Z",
 } as const satisfies Track

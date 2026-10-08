@@ -25,4 +25,6 @@ export const arianaGrandeSomewhereOverTheRainbowLiveFromManchesterSomewhereOverT
         externalLink: "https://open.spotify.com/track/2yueE1lZ8V8HX1deAFA5MF",
       },
     ],
+    createdAt: "2026-09-15T20:32:18.105Z",
+    updatedAt: "2026-09-24T19:58:28.000Z",
   } as const satisfies Track

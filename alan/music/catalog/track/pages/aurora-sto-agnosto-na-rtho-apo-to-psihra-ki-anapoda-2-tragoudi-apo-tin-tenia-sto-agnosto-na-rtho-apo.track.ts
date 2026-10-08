@@ -29,4 +29,6 @@ export const auroraStoAgnostoNaRthoApoToPsihraKiAnapoda2TragoudiApoTinTeniaStoAg
       externalLink: "https://open.spotify.com/track/3N5yo9MnrKO2eKe0bkqz8m",
     },
   ],
+  createdAt: "2026-09-18T20:32:01.828Z",
+  updatedAt: "2026-09-24T19:58:28.000Z",
 } as const satisfies Track

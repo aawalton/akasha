@@ -34,4 +34,6 @@ export const celticWoman2AncientLandDeluxeLongJourneyHome = {
       externalLink: "https://open.spotify.com/track/3Q3OPCz5bgrglX6I77LMff",
     },
   ],
+  createdAt: "2026-09-16T20:30:57.401Z",
+  updatedAt: "2026-09-24T19:58:53.000Z",
 } as const satisfies Track

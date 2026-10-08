@@ -24,4 +24,6 @@ export const auroraIWentTooFarMkRemixRadioVersionIWentTooFarMkRemixRadioVersion 
       externalLink: "https://open.spotify.com/track/0zrbWqn3uZ1vv2RwdNimjv",
     },
   ],
+  createdAt: "2026-09-18T20:32:02.749Z",
+  updatedAt: "2026-09-24T19:58:28.000Z",
 } as const satisfies Track

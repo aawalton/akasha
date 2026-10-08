@@ -24,4 +24,6 @@ export const auroraStormEnglishVersionStormEnglishVersion = {
       externalLink: "https://open.spotify.com/track/4YiLuz7hZ6ysG5iJxNlDmX",
     },
   ],
+  createdAt: "2026-09-18T20:31:59.358Z",
+  updatedAt: "2026-09-24T19:58:28.000Z",
 } as const satisfies Track

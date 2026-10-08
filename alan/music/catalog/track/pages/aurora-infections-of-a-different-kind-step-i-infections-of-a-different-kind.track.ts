@@ -34,4 +34,6 @@ export const auroraInfectionsOfADifferentKindStepIInfectionsOfADifferentKind = {
       externalLink: "https://open.spotify.com/track/6zimctWrmakPpZ8eBgDp0V",
     },
   ],
+  createdAt: "2026-09-18T20:31:57.269Z",
+  updatedAt: "2026-09-24T19:58:28.000Z",
 } as const satisfies Track

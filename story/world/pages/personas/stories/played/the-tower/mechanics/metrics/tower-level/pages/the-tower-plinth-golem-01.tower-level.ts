@@ -6,4 +6,6 @@ export const theTowerPlinthGolem01 = {
   slug: "the-tower-plinth-golem-01",
   character: "character-other/the-tower-plinth-golem-01",
   value: 3,
+  createdAt: "2026-09-22T17:48:13.168Z",
+  updatedAt: "2026-09-22T17:48:32.000Z",
 } as const satisfies TowerLevel

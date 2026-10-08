@@ -25,4 +25,6 @@ export const arianaGrandeYoursTrulyTenthAnniversaryEditionRightThereLiveFromLond
       externalLink: "https://open.spotify.com/track/5J9jzskSfbSF7sTCWyoF93",
     },
   ],
+  createdAt: "2026-09-15T20:32:11.429Z",
+  updatedAt: "2026-09-24T19:58:28.000Z",
 } as const satisfies Track

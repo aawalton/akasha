@@ -47,4 +47,6 @@ export const arianaGrandeWickedTheSoundtrackCommentaryDearOldShiz = {
       externalLink: "https://open.spotify.com/track/4HAhrqmjZ6ltgVdPF8K6wn",
     },
   ],
+  createdAt: "2026-09-15T20:32:22.318Z",
+  updatedAt: "2026-09-24T19:58:28.000Z",
 } as const satisfies Track

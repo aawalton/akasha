@@ -24,4 +24,6 @@ export const billieEilishNoTimeToDieNoTimeToDie = {
       externalLink: "https://open.spotify.com/track/73SpzrcaHk0RQPFP73vqVR",
     },
   ],
+  createdAt: "2026-09-18T20:32:58.339Z",
+  updatedAt: "2026-09-24T19:58:53.000Z",
 } as const satisfies Track

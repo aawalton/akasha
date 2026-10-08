@@ -24,4 +24,6 @@ export const auroraWolfwalkersOriginalMotionPictureSoundtrackImAWolfwalker = {
       externalLink: "https://open.spotify.com/track/3aVI2NSBeEK9gFBPtLALk3",
     },
   ],
+  createdAt: "2026-09-18T20:31:56.146Z",
+  updatedAt: "2026-09-24T19:58:28.000Z",
 } as const satisfies Track

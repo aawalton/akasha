@@ -6,4 +6,6 @@ export const theTowerSound = {
   slug: "the-tower-sound",
   title: "Sound",
   description: "Sound and resonance — a space's echoes, and the pitch a material rings at.",
+  createdAt: "2026-09-22T18:43:35.590Z",
+  updatedAt: "2026-09-22T18:43:51.000Z",
 } as const satisfies TowerElement

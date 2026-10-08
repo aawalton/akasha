@@ -8,4 +8,6 @@ export const readPlatoSCrito = {
   link: "https://alanwalton.com/story-chapter/crito-48d5dc8b",
   priority: "p4",
   whatItTakes: "txt",
+  createdAt: "2026-06-27T02:26:46.084Z",
+  updatedAt: "2026-09-21T18:27:30.000Z",
 } as const satisfies ToDo

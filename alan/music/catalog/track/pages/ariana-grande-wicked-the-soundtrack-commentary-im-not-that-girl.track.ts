@@ -42,4 +42,6 @@ export const arianaGrandeWickedTheSoundtrackCommentaryImNotThatGirl = {
       externalLink: "https://open.spotify.com/track/2tWioTW2rs0CXf1dTXlRrX",
     },
   ],
+  createdAt: "2026-09-15T20:32:22.705Z",
+  updatedAt: "2026-09-24T19:58:28.000Z",
 } as const satisfies Track

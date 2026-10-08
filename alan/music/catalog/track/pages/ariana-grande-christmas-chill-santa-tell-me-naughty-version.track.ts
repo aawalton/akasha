@@ -24,4 +24,6 @@ export const arianaGrandeChristmasChillSantaTellMeNaughtyVersion = {
       externalLink: "https://open.spotify.com/track/6V2JPFiAeqfZjM3A8VNr5q",
     },
   ],
+  createdAt: "2026-09-15T20:32:18.603Z",
+  updatedAt: "2026-09-24T19:57:56.000Z",
 } as const satisfies Track

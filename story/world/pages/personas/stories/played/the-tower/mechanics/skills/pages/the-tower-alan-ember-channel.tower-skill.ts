@@ -10,4 +10,6 @@ export const theTowerAlanEmberChannel = {
   level: 9,
   demonstrations: 0,
   element: "tower-element/the-tower-ember",
+  createdAt: "2026-09-26T14:27:54.170Z",
+  updatedAt: "2026-09-26T15:32:59.000Z",
 } as const satisfies TowerSkill

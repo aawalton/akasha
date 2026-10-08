@@ -34,4 +34,6 @@ export const arianaGrandeYesAndJonasBlueRemixYesAndJonasBlueRemix = {
       externalLink: "https://open.spotify.com/track/62iX6bbxe9T81LrNwqre3p",
     },
   ],
+  createdAt: "2026-09-15T20:32:17.286Z",
+  updatedAt: "2026-09-24T19:58:28.000Z",
 } as const satisfies Track

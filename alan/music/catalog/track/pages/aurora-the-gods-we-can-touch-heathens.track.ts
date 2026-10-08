@@ -24,4 +24,6 @@ export const auroraTheGodsWeCanTouchHeathens = {
       externalLink: "https://open.spotify.com/track/1wtFmvGQtqWahPLVTlrr0K",
     },
   ],
+  createdAt: "2026-09-18T20:31:55.593Z",
+  updatedAt: "2026-09-24T19:58:28.000Z",
 } as const satisfies Track

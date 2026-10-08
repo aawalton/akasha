@@ -24,4 +24,6 @@ export const alexandriaJusticeJustice = {
       externalLink: "https://open.spotify.com/track/0isMBNGbFrpvGhStVQLWJK",
     },
   ],
+  createdAt: "2026-09-16T13:49:10.995Z",
+  updatedAt: "2026-09-24T19:57:56.000Z",
 } as const satisfies Track

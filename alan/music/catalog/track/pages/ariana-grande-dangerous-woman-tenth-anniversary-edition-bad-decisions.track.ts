@@ -25,4 +25,6 @@ export const arianaGrandeDangerousWomanTenthAnniversaryEditionBadDecisions = {
       externalLink: "https://open.spotify.com/track/5Szw7p9ifAVy7d07JRYsW5",
     },
   ],
+  createdAt: "2026-09-15T20:32:05.347Z",
+  updatedAt: "2026-09-24T19:57:56.000Z",
 } as const satisfies Track

@@ -8,4 +8,6 @@ export const theTowerExpert = {
   place: 4,
   description: "Does it unprompted, answering an opening they spotted with a move of their own.",
   width: 50,
+  createdAt: "2026-09-26T14:22:40.079Z",
+  updatedAt: "2026-09-26T17:58:48.000Z",
 } as const satisfies TowerSkillRank

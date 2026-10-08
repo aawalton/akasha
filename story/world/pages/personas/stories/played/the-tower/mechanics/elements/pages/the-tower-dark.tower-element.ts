@@ -6,4 +6,6 @@ export const theTowerDark = {
   slug: "the-tower-dark",
   title: "Dark",
   description: "Darkness — unlit space, shadow, and what lies concealed in it.",
+  createdAt: "2026-09-22T18:43:43.791Z",
+  updatedAt: "2026-09-22T18:43:51.000Z",
 } as const satisfies TowerElement

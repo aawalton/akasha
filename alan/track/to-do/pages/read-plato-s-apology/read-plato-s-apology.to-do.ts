@@ -8,4 +8,6 @@ export const readPlatoSApology = {
   link: "https://alanwalton.com/story-chapter/apology-6fed9037",
   priority: "p4",
   whatItTakes: "txt",
+  createdAt: "2026-06-27T02:26:41.515Z",
+  updatedAt: "2026-09-21T18:27:30.000Z",
 } as const satisfies ToDo

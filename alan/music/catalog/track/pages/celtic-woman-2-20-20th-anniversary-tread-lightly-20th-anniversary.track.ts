@@ -24,4 +24,6 @@ export const celticWoman22020thAnniversaryTreadLightly20thAnniversary = {
       externalLink: "https://open.spotify.com/track/53kBNNNH19mScxQB5IRger",
     },
   ],
+  createdAt: "2026-09-16T20:30:55.584Z",
+  updatedAt: "2026-09-24T19:58:53.000Z",
 } as const satisfies Track

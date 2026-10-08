@@ -24,4 +24,6 @@ export const billieEilishWhenWeAllFallAsleepWhereDoWeGoAllTheGoodGirlsGoToHell =
       externalLink: "https://open.spotify.com/track/6IRdLKIyS4p7XNiP8r6rsx",
     },
   ],
+  createdAt: "2026-09-18T20:32:57.500Z",
+  updatedAt: "2026-09-24T19:58:53.000Z",
 } as const satisfies Track

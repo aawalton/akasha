@@ -24,4 +24,6 @@ export const billieEilishHappierThanEverIDidntChangeMyNumber = {
       externalLink: "https://open.spotify.com/track/7bcy34fBT2ap1L4bfPsl9q",
     },
   ],
+  createdAt: "2026-09-18T20:32:56.777Z",
+  updatedAt: "2026-09-24T19:58:53.000Z",
 } as const satisfies Track

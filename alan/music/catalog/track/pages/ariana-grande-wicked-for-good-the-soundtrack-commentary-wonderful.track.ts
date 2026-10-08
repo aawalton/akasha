@@ -38,4 +38,6 @@ export const arianaGrandeWickedForGoodTheSoundtrackCommentaryWonderful = {
       externalLink: "https://open.spotify.com/track/7I7eRICQ1z4vH5p8Un5468",
     },
   ],
+  createdAt: "2026-09-15T20:32:06.203Z",
+  updatedAt: "2026-09-24T19:58:28.000Z",
 } as const satisfies Track

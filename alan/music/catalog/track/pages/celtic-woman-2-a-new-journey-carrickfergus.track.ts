@@ -34,4 +34,6 @@ export const celticWoman2ANewJourneyCarrickfergus = {
       externalLink: "https://open.spotify.com/track/4TEK0trgxTkYUD83cjULtF",
     },
   ],
+  createdAt: "2026-09-16T20:31:04.597Z",
+  updatedAt: "2026-09-24T19:58:53.000Z",
 } as const satisfies Track

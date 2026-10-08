@@ -37,4 +37,6 @@ export const auroraComeCloserIDrinkTheLight = {
       externalLink: "https://open.spotify.com/track/4ytjR8q5geAVO7EQM9Gjzd",
     },
   ],
+  createdAt: "2026-09-18T20:31:52.348Z",
+  updatedAt: "2026-09-24T19:58:28.000Z",
 } as const satisfies Track

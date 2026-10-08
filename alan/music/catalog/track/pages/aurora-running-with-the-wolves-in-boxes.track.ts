@@ -24,4 +24,6 @@ export const auroraRunningWithTheWolvesInBoxes = {
       externalLink: "https://open.spotify.com/track/3MwSRWz6R18tOMXsNveaBV",
     },
   ],
+  createdAt: "2026-09-18T20:32:02.993Z",
+  updatedAt: "2026-09-24T19:58:28.000Z",
 } as const satisfies Track

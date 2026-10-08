@@ -24,4 +24,6 @@ export const auroraDaydreamerKdaLondonDubDaydreamerKdaLondonDub = {
       externalLink: "https://open.spotify.com/track/4LlxfL9RWo5HPvRSOKKfKD",
     },
   ],
+  createdAt: "2026-09-18T20:32:01.977Z",
+  updatedAt: "2026-09-24T19:58:28.000Z",
 } as const satisfies Track

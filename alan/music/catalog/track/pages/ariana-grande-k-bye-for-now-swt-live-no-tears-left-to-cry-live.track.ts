@@ -24,4 +24,6 @@ export const arianaGrandeKByeForNowSwtLiveNoTearsLeftToCryLive = {
       externalLink: "https://open.spotify.com/track/32VSdGCv8wkAjUkVha9YBf",
     },
   ],
+  createdAt: "2026-09-15T20:32:13.577Z",
+  updatedAt: "2026-09-24T19:58:28.000Z",
 } as const satisfies Track

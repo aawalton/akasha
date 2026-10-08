@@ -24,4 +24,6 @@ export const arianaGrandeYoursTrulyTheWay = {
       externalLink: "https://open.spotify.com/track/06EL94D0TA27Ik0Ke5usbj",
     },
   ],
+  createdAt: "2026-09-15T20:32:15.954Z",
+  updatedAt: "2026-09-24T19:58:28.000Z",
 } as const satisfies Track

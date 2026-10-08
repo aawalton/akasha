@@ -24,4 +24,6 @@ export const auroraSkyConcertInTheLightOriginalGameSoundtrackRunawayIntro = {
       externalLink: "https://open.spotify.com/track/1D9OZb6tJdFv9bHMxa5Z7A",
     },
   ],
+  createdAt: "2026-09-18T20:31:54.769Z",
+  updatedAt: "2026-09-24T19:58:28.000Z",
 } as const satisfies Track

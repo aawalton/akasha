@@ -24,4 +24,6 @@ export const arianaGrandeYoursTrulyPopularSong = {
       externalLink: "https://open.spotify.com/track/3iugMJEdfE58OpI7WGM38w",
     },
   ],
+  createdAt: "2026-09-15T20:32:16.064Z",
+  updatedAt: "2026-09-24T19:58:28.000Z",
 } as const satisfies Track

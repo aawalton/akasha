@@ -24,4 +24,6 @@ export const billieEilishGuessFeaturingBillieEilishGuessFeaturingBillieEilish = 
       externalLink: "https://open.spotify.com/track/3WOhcATHxK2SLNeP5W3v1v",
     },
   ],
+  createdAt: "2026-09-18T20:32:57.908Z",
+  updatedAt: "2026-09-24T19:58:53.000Z",
 } as const satisfies Track

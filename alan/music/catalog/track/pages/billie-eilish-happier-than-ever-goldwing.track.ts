@@ -24,4 +24,6 @@ export const billieEilishHappierThanEverGoldwing = {
       externalLink: "https://open.spotify.com/track/0FfqyjhB6Kspvit1oOo7ax",
     },
   ],
+  createdAt: "2026-09-18T20:32:56.923Z",
+  updatedAt: "2026-09-24T19:58:53.000Z",
 } as const satisfies Track

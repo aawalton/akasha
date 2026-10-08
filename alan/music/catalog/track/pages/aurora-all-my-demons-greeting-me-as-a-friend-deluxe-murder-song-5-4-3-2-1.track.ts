@@ -42,4 +42,6 @@ export const auroraAllMyDemonsGreetingMeAsAFriendDeluxeMurderSong54321 = {
       externalLink: "https://open.spotify.com/track/4b4ECUkLMyMNzc6yGsvK71",
     },
   ],
+  createdAt: "2026-09-18T20:31:57.616Z",
+  updatedAt: "2026-09-24T19:58:28.000Z",
 } as const satisfies Track

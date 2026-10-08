@@ -6,4 +6,6 @@ export const theTowerMind = {
   slug: "the-tower-mind",
   title: "Mind",
   description: "Thought and will — the pressure of intent, and the strain a mind is under.",
+  createdAt: "2026-09-22T18:43:39.483Z",
+  updatedAt: "2026-09-22T18:43:51.000Z",
 } as const satisfies TowerElement

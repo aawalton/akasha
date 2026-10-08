@@ -24,4 +24,6 @@ export const auroraASoulWithNoKingRemixFeatNatureASoulWithNoKingRemixFeatNature 
       externalLink: "https://open.spotify.com/track/60CiRIp2jsubVeNcDrHujn",
     },
   ],
+  createdAt: "2026-09-18T20:31:58.748Z",
+  updatedAt: "2026-09-24T19:58:28.000Z",
 } as const satisfies Track

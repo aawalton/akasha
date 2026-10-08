@@ -24,4 +24,6 @@ export const billieEilishDontSmileAtMeWatch = {
       externalLink: "https://open.spotify.com/track/7eB1V5LvAdxCc7brfGhRRo",
     },
   ],
+  createdAt: "2026-09-18T20:32:58.813Z",
+  updatedAt: "2026-09-24T19:58:28.000Z",
 } as const satisfies Track

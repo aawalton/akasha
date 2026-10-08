@@ -10,4 +10,6 @@ export const theTowerAlanSmithing = {
   level: 1,
   demonstrations: 0,
   axis: "The quality of the product: its integrity, its balance and how secure its joins are.",
+  createdAt: "2026-09-26T14:27:54.170Z",
+  updatedAt: "2026-09-26T15:32:59.000Z",
 } as const satisfies TowerSkill

@@ -24,4 +24,6 @@ export const billieEilishDontSmileAtMeIdontwannabeyouanymore = {
       externalLink: "https://open.spotify.com/track/41zXlQxzTi6cGAjpOXyLYH",
     },
   ],
+  createdAt: "2026-09-18T20:32:58.733Z",
+  updatedAt: "2026-09-24T19:58:28.000Z",
 } as const satisfies Track

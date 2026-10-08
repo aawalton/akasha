@@ -24,4 +24,6 @@ export const auroraWalkingInTheAirWalkingInTheAir = {
       externalLink: "https://open.spotify.com/track/1ZWaiAcAc7BTsrTgwTXmnn",
     },
   ],
+  createdAt: "2026-09-18T20:32:01.941Z",
+  updatedAt: "2026-09-24T19:58:28.000Z",
 } as const satisfies Track

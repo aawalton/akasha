@@ -24,4 +24,6 @@ export const billieEilishDontSmileAtMeCopycat = {
       externalLink: "https://open.spotify.com/track/5w7wuzMzsDer96KqxafeRK",
     },
   ],
+  createdAt: "2026-09-18T20:32:58.694Z",
+  updatedAt: "2026-09-24T19:58:28.000Z",
 } as const satisfies Track

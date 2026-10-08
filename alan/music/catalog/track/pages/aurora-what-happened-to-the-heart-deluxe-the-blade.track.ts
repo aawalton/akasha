@@ -34,4 +34,6 @@ export const auroraWhatHappenedToTheHeartDeluxeTheBlade = {
       externalLink: "https://open.spotify.com/track/3Ogn2lsQoQpGJWUhWDDpDa",
     },
   ],
+  createdAt: "2026-09-18T20:31:53.678Z",
+  updatedAt: "2026-09-24T19:58:28.000Z",
 } as const satisfies Track

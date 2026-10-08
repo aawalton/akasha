@@ -34,4 +34,6 @@ export const auroraWhatHappenedToTheHeartDeluxeMyNameFeatAneBrun = {
       externalLink: "https://open.spotify.com/track/6Q42h5c9vdjpNjGBnM657Q",
     },
   ],
+  createdAt: "2026-09-18T20:31:53.560Z",
+  updatedAt: "2026-09-24T19:58:28.000Z",
 } as const satisfies Track

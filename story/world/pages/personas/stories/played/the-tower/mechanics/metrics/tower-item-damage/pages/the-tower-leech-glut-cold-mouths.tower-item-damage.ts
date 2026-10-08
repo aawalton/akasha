@@ -6,4 +6,6 @@ export const theTowerLeechGlutColdMouths = {
   slug: "the-tower-leech-glut-cold-mouths",
   item: "story-item/the-tower-leech-glut-cold-mouths",
   value: 9,
+  createdAt: "2026-09-24T14:42:13.349Z",
+  updatedAt: "2026-09-26T17:47:23.000Z",
 } as const satisfies TowerItemDamage

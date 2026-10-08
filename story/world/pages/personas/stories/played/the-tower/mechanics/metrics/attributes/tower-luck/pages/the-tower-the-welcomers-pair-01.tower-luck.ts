@@ -6,4 +6,6 @@ export const theTowerTheWelcomersPair01 = {
   slug: "the-tower-the-welcomers-pair-01",
   character: "character-other/the-tower-the-welcomers-pair-01",
   value: 8,
+  createdAt: "2026-09-22T17:38:55.011Z",
+  updatedAt: "2026-09-22T17:38:58.000Z",
 } as const satisfies TowerLuck

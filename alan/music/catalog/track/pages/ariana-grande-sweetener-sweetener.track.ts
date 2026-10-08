@@ -24,4 +24,6 @@ export const arianaGrandeSweetenerSweetener = {
       externalLink: "https://open.spotify.com/track/70khXICDeTTxgYtw3EysKH",
     },
   ],
+  createdAt: "2026-09-15T20:32:14.262Z",
+  updatedAt: "2026-09-24T19:58:28.000Z",
 } as const satisfies Track

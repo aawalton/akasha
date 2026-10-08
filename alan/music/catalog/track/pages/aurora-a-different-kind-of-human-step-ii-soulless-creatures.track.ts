@@ -34,4 +34,6 @@ export const auroraADifferentKindOfHumanStepIiSoullessCreatures = {
       externalLink: "https://open.spotify.com/track/1aamix0moshQFrxhRuQ5hv",
     },
   ],
+  createdAt: "2026-09-18T20:31:56.772Z",
+  updatedAt: "2026-09-24T19:58:28.000Z",
 } as const satisfies Track

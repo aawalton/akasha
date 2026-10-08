@@ -42,4 +42,6 @@ export const auroraADifferentKindOfHumanStepIiDaydreamer = {
       externalLink: "https://open.spotify.com/track/3FsLarRsV6BltfZozdd8Hh",
     },
   ],
+  createdAt: "2026-09-18T20:31:56.690Z",
+  updatedAt: "2026-09-24T19:58:28.000Z",
 } as const satisfies Track

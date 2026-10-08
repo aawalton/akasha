@@ -24,4 +24,6 @@ export const arianaGrandeKByeForNowSwtLiveGodIsAWomanLive = {
       externalLink: "https://open.spotify.com/track/67kQ3UW7saqCFqB54BVKKI",
     },
   ],
+  createdAt: "2026-09-15T20:32:12.571Z",
+  updatedAt: "2026-09-24T19:58:28.000Z",
 } as const satisfies Track

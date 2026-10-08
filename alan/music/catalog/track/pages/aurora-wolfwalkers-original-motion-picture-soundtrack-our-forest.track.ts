@@ -24,4 +24,6 @@ export const auroraWolfwalkersOriginalMotionPictureSoundtrackOurForest = {
       externalLink: "https://open.spotify.com/track/2GcyM4NkQR6y6BJB2rS1HF",
     },
   ],
+  createdAt: "2026-09-18T20:31:56.224Z",
+  updatedAt: "2026-09-24T19:58:28.000Z",
 } as const satisfies Track

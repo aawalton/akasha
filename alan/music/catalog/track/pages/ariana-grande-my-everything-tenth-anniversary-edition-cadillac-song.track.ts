@@ -24,4 +24,6 @@ export const arianaGrandeMyEverythingTenthAnniversaryEditionCadillacSong = {
       externalLink: "https://open.spotify.com/track/2zTMXQaRhL8Kx7Uxr0Mdf9",
     },
   ],
+  createdAt: "2026-09-15T20:32:09.771Z",
+  updatedAt: "2026-09-24T19:58:28.000Z",
 } as const satisfies Track

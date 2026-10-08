@@ -6,4 +6,6 @@ export const theTowerTheHostTrueform02GreyFlesh = {
   slug: "the-tower-the-host-trueform-02-grey-flesh",
   item: "story-item/the-tower-the-host-trueform-02-grey-flesh",
   value: 1,
+  createdAt: "2026-09-24T14:28:46.340Z",
+  updatedAt: "2026-09-26T17:47:23.000Z",
 } as const satisfies TowerItemDefence

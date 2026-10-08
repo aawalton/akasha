@@ -24,4 +24,6 @@ export const alexandriaTheJesterAndTheQueenTheJesterAndTheQueen = {
       externalLink: "https://open.spotify.com/track/3G3CnxD8B5esKcEML6faW8",
     },
   ],
+  createdAt: "2026-09-16T13:49:10.836Z",
+  updatedAt: "2026-09-24T19:57:56.000Z",
 } as const satisfies Track

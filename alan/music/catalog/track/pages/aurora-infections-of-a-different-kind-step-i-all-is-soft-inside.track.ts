@@ -42,4 +42,6 @@ export const auroraInfectionsOfADifferentKindStepIAllIsSoftInside = {
       externalLink: "https://open.spotify.com/track/2JxOYhsVogz7yv8i4633db",
     },
   ],
+  createdAt: "2026-09-18T20:31:57.113Z",
+  updatedAt: "2026-09-24T19:58:28.000Z",
 } as const satisfies Track

@@ -24,4 +24,6 @@ export const billieEilishGuitarSongsTv = {
       externalLink: "https://open.spotify.com/track/3GYlZ7tbxLOxe6ewMNVTkw",
     },
   ],
+  createdAt: "2026-09-18T20:32:58.070Z",
+  updatedAt: "2026-09-24T19:58:53.000Z",
 } as const satisfies Track

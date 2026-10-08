@@ -34,4 +34,6 @@ export const auroraAllMyDemonsGreetingMeAsAFriendDeluxeUnderTheWater = {
       externalLink: "https://open.spotify.com/track/2NNWSsNGoJI57E1l0DwiXY",
     },
   ],
+  createdAt: "2026-09-18T20:31:57.693Z",
+  updatedAt: "2026-09-24T19:58:28.000Z",
 } as const satisfies Track

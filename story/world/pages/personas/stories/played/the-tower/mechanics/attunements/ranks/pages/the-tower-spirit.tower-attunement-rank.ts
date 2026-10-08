@@ -9,4 +9,6 @@ export const theTowerSpirit = {
   description: "The element is animated at will.",
   cap: 250,
   bias: 3,
+  createdAt: "2026-09-22T18:47:41.084Z",
+  updatedAt: "2026-09-26T17:59:43.000Z",
 } as const satisfies TowerAttunementRank

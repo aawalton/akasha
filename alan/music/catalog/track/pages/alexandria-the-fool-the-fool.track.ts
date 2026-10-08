@@ -24,4 +24,6 @@ export const alexandriaTheFoolTheFool = {
       externalLink: "https://open.spotify.com/track/5OkXA7ru3aZrY92m800aSc",
     },
   ],
+  createdAt: "2026-09-16T13:49:11.083Z",
+  updatedAt: "2026-09-24T19:57:56.000Z",
 } as const satisfies Track

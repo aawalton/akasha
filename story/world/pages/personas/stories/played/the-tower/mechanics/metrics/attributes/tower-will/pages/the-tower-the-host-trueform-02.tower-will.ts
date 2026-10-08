@@ -6,4 +6,6 @@ export const theTowerTheHostTrueform02 = {
   slug: "the-tower-the-host-trueform-02",
   character: "character-other/the-tower-the-host-trueform-02",
   value: 15,
+  createdAt: "2026-09-22T17:40:01.877Z",
+  updatedAt: "2026-09-22T17:40:14.000Z",
 } as const satisfies TowerWill

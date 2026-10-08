@@ -24,4 +24,6 @@ export const arianaGrandeYesAndYesAndSlowed = {
       externalLink: "https://open.spotify.com/track/0WUfD4IZdOgo85xz3YX3oh",
     },
   ],
+  createdAt: "2026-09-15T20:32:17.163Z",
+  updatedAt: "2026-09-24T19:58:28.000Z",
 } as const satisfies Track

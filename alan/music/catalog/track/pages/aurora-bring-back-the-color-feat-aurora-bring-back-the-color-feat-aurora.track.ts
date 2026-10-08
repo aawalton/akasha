@@ -24,4 +24,6 @@ export const auroraBringBackTheColorFeatAuroraBringBackTheColorFeatAurora = {
       externalLink: "https://open.spotify.com/track/575i9kr1iypkCZyfJuoAlZ",
     },
   ],
+  createdAt: "2026-09-18T20:31:58.944Z",
+  updatedAt: "2026-09-24T19:58:28.000Z",
 } as const satisfies Track

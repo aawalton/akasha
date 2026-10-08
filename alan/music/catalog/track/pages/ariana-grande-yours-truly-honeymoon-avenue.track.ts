@@ -24,4 +24,6 @@ export const arianaGrandeYoursTrulyHoneymoonAvenue = {
       externalLink: "https://open.spotify.com/track/2ofOe2OaXFpZF5ETbsc7Qu",
     },
   ],
+  createdAt: "2026-09-15T20:32:15.718Z",
+  updatedAt: "2026-09-24T19:58:28.000Z",
 } as const satisfies Track

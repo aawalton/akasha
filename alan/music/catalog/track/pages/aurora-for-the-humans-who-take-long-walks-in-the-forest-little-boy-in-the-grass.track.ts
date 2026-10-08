@@ -42,4 +42,6 @@ export const auroraForTheHumansWhoTakeLongWalksInTheForestLittleBoyInTheGrass = 
       externalLink: "https://open.spotify.com/track/2Mdcz3aLXRdPQAe92o6dcN",
     },
   ],
+  createdAt: "2026-09-18T20:32:01.183Z",
+  updatedAt: "2026-09-24T19:58:28.000Z",
 } as const satisfies Track

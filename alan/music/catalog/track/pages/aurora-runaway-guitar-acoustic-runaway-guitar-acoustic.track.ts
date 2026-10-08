@@ -34,4 +34,6 @@ export const auroraRunawayGuitarAcousticRunawayGuitarAcoustic = {
       externalLink: "https://open.spotify.com/track/2VkSgNcU9IH45EY3O7Z0lj",
     },
   ],
+  createdAt: "2026-09-18T20:32:00.018Z",
+  updatedAt: "2026-09-24T19:58:28.000Z",
 } as const satisfies Track

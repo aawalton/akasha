@@ -24,4 +24,6 @@ export const arianaGrandeKByeForNowSwtLiveGoodnightNGoLive = {
       externalLink: "https://open.spotify.com/track/0ao5xnzWNAt0dZFF6v4Sct",
     },
   ],
+  createdAt: "2026-09-15T20:32:13.230Z",
+  updatedAt: "2026-09-24T19:58:28.000Z",
 } as const satisfies Track

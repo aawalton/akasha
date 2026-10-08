@@ -6,4 +6,6 @@ export const theTowerCounterweightColossusStoneAndIronBody = {
   slug: "the-tower-counterweight-colossus-stone-and-iron-body",
   item: "story-item/the-tower-counterweight-colossus-stone-and-iron-body",
   value: 4,
+  createdAt: "2026-09-24T14:28:36.816Z",
+  updatedAt: "2026-09-26T17:47:23.000Z",
 } as const satisfies TowerItemDefence

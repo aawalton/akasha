@@ -6,4 +6,6 @@ export const theTowerDrownedSentry01 = {
   slug: "the-tower-drowned-sentry-01",
   character: "character-other/the-tower-drowned-sentry-01",
   value: 6,
+  createdAt: "2026-09-22T17:34:18.950Z",
+  updatedAt: "2026-09-22T17:34:31.000Z",
 } as const satisfies TowerWill

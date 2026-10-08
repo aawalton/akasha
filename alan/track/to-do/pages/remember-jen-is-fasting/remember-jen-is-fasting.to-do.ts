@@ -12,4 +12,6 @@ export const rememberJenIsFasting = {
   toDoSortOrder: 18,
   toDoValue: "value/love",
   toDoLastCompletedAt: "2026-10-03T14:42:57.655Z",
+  createdAt: "2026-04-22T12:39:34.017Z",
+  updatedAt: "2026-10-03T14:42:59.000Z",
 } as const satisfies ToDo

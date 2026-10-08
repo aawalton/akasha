@@ -24,4 +24,6 @@ export const arianaGrandeKByeForNowSwtLiveBreakYourHeartRightBackLive = {
       externalLink: "https://open.spotify.com/track/1qfOSlQohddqAOGl3f8snd",
     },
   ],
+  createdAt: "2026-09-15T20:32:13.093Z",
+  updatedAt: "2026-09-24T19:58:28.000Z",
 } as const satisfies Track

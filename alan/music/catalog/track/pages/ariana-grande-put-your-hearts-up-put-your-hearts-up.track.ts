@@ -24,4 +24,6 @@ export const arianaGrandePutYourHeartsUpPutYourHeartsUp = {
       externalLink: "https://open.spotify.com/track/1Rp8zCRpkHyEDqaUczfMZA",
     },
   ],
+  createdAt: "2026-09-15T20:32:19.607Z",
+  updatedAt: "2026-09-24T19:58:28.000Z",
 } as const satisfies Track

@@ -24,4 +24,6 @@ export const arianaGrandeDangerousWomanTenthAnniversaryEditionMoonlight = {
       externalLink: "https://open.spotify.com/track/6S8lgW6nwrK75tddTLH7mX",
     },
   ],
+  createdAt: "2026-09-15T20:32:04.998Z",
+  updatedAt: "2026-09-24T19:57:56.000Z",
 } as const satisfies Track

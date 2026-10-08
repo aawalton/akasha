@@ -24,4 +24,6 @@ export const billieEilishHappierThanEverLostCause = {
       externalLink: "https://open.spotify.com/track/4191RXFPa7Ge9XkA4cWlna",
     },
   ],
+  createdAt: "2026-09-18T20:32:56.957Z",
+  updatedAt: "2026-09-24T19:58:53.000Z",
 } as const satisfies Track

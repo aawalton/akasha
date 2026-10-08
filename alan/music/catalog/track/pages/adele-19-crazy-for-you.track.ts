@@ -24,4 +24,6 @@ export const adele19CrazyForYou = {
       externalLink: "https://open.spotify.com/track/4ctqnEqD3gtjIGouiZaxOH",
     },
   ],
+  createdAt: "2026-09-24T20:46:49.945Z",
+  updatedAt: "2026-09-24T21:00:26.000Z",
 } as const satisfies Track

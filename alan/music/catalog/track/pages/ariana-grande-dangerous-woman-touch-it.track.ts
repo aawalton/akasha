@@ -24,4 +24,6 @@ export const arianaGrandeDangerousWomanTouchIt = {
       externalLink: "https://open.spotify.com/track/7rlKlsYacU3PFLGD7ca1HL",
     },
   ],
+  createdAt: "2026-09-15T20:32:15.034Z",
+  updatedAt: "2026-09-24T19:57:56.000Z",
 } as const satisfies Track

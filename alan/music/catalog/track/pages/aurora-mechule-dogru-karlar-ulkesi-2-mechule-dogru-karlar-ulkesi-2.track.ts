@@ -24,4 +24,6 @@ export const auroraMechuleDogruKarlarUlkesi2MechuleDogruKarlarUlkesi2 = {
       externalLink: "https://open.spotify.com/track/6jzD6GYJTxHZOsknJGDzlf",
     },
   ],
+  createdAt: "2026-09-18T20:32:01.902Z",
+  updatedAt: "2026-09-24T19:58:28.000Z",
 } as const satisfies Track

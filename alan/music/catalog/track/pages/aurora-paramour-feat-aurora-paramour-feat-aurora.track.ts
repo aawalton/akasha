@@ -24,4 +24,6 @@ export const auroraParamourFeatAuroraParamourFeatAurora = {
       externalLink: "https://open.spotify.com/track/1erjalqVwLQT2t1ZWcas9P",
     },
   ],
+  createdAt: "2026-09-18T20:31:59.587Z",
+  updatedAt: "2026-09-24T19:58:28.000Z",
 } as const satisfies Track

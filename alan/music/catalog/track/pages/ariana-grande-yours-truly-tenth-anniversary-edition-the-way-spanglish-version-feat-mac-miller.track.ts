@@ -25,4 +25,6 @@ export const arianaGrandeYoursTrulyTenthAnniversaryEditionTheWaySpanglishVersion
       externalLink: "https://open.spotify.com/track/3HAQ4fEd3opmo09LJIHOX2",
     },
   ],
+  createdAt: "2026-09-15T20:32:11.255Z",
+  updatedAt: "2026-09-24T19:58:28.000Z",
 } as const satisfies Track

@@ -24,4 +24,6 @@ export const auroraSomeTypeOfSkinSomeTypeOfSkinAcoustic = {
       externalLink: "https://open.spotify.com/track/3UQg1zvXxdz1BMXC9tlqst",
     },
   ],
+  createdAt: "2026-09-18T20:31:58.669Z",
+  updatedAt: "2026-09-24T19:58:28.000Z",
 } as const satisfies Track

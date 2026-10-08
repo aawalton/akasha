@@ -24,4 +24,6 @@ export const arianaGrandeMyEverythingDeluxeHandsOnMe = {
       externalLink: "https://open.spotify.com/track/1rNop31kdDmSj3Ds6xhIeS",
     },
   ],
+  createdAt: "2026-09-15T20:32:15.558Z",
+  updatedAt: "2026-09-24T19:58:28.000Z",
 } as const satisfies Track

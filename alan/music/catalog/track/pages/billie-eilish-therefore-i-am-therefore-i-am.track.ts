@@ -24,4 +24,6 @@ export const billieEilishThereforeIAmThereforeIAm = {
       externalLink: "https://open.spotify.com/track/54bFM56PmE4YLRnqpW6Tha",
     },
   ],
+  createdAt: "2026-09-18T20:32:58.271Z",
+  updatedAt: "2026-09-24T19:58:53.000Z",
 } as const satisfies Track

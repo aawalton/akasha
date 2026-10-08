@@ -24,4 +24,6 @@ export const billieEilishBitchesBrokenHeartsBitchesBrokenHearts = {
       externalLink: "https://open.spotify.com/track/5t3Vk8bRKylx4fjj7qlbib",
     },
   ],
+  createdAt: "2026-09-18T20:32:58.575Z",
+  updatedAt: "2026-09-24T19:58:28.000Z",
 } as const satisfies Track

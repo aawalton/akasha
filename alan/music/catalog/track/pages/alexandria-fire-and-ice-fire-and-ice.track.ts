@@ -24,4 +24,6 @@ export const alexandriaFireAndIceFireAndIce = {
       externalLink: "https://open.spotify.com/track/10sQMYrMaRMAjgQqU0rT9m",
     },
   ],
+  createdAt: "2026-09-16T13:49:11.881Z",
+  updatedAt: "2026-09-24T19:57:39.000Z",
 } as const satisfies Track

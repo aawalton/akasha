@@ -25,4 +25,6 @@ export const billieEilishIntroHitMeHardAndSoftTourIntroHitMeHardAndSoftTour = {
       externalLink: "https://open.spotify.com/track/43ZbuNZJFbgGsYR5zq5ZKd",
     },
   ],
+  createdAt: "2026-09-18T20:32:56.314Z",
+  updatedAt: "2026-09-24T19:58:53.000Z",
 } as const satisfies Track

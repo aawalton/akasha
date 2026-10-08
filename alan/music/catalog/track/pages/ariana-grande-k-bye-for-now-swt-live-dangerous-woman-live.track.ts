@@ -24,4 +24,6 @@ export const arianaGrandeKByeForNowSwtLiveDangerousWomanLive = {
       externalLink: "https://open.spotify.com/track/5H7d8isXFW779pCK7lo4KT",
     },
   ],
+  createdAt: "2026-09-15T20:32:13.501Z",
+  updatedAt: "2026-09-24T19:58:28.000Z",
 } as const satisfies Track

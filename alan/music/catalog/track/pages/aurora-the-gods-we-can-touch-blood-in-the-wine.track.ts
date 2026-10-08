@@ -24,4 +24,6 @@ export const auroraTheGodsWeCanTouchBloodInTheWine = {
       externalLink: "https://open.spotify.com/track/76cIh6IWGLs4GNlg8RC4vC",
     },
   ],
+  createdAt: "2026-09-18T20:31:55.825Z",
+  updatedAt: "2026-09-24T19:58:28.000Z",
 } as const satisfies Track

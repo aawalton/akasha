@@ -24,4 +24,6 @@ export const auroraRunawayLvl2RunawayLvl2 = {
       externalLink: "https://open.spotify.com/track/7109bXAeHBwoorfPt8ling",
     },
   ],
+  createdAt: "2026-09-18T20:31:59.824Z",
+  updatedAt: "2026-09-24T19:58:28.000Z",
 } as const satisfies Track

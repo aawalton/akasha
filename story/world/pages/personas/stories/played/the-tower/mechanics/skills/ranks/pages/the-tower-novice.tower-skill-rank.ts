@@ -8,4 +8,6 @@ export const theTowerNovice = {
   place: 1,
   description: "Has found the skill and not yet entered it.",
   width: 5,
+  createdAt: "2026-09-26T14:22:40.080Z",
+  updatedAt: "2026-09-26T17:58:48.000Z",
 } as const satisfies TowerSkillRank

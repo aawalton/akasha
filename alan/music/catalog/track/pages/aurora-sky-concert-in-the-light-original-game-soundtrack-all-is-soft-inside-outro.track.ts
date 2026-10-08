@@ -24,4 +24,6 @@ export const auroraSkyConcertInTheLightOriginalGameSoundtrackAllIsSoftInsideOutr
       externalLink: "https://open.spotify.com/track/0OkDj7EUtZ60T2vMAR0gjZ",
     },
   ],
+  createdAt: "2026-09-18T20:31:54.929Z",
+  updatedAt: "2026-09-24T19:58:28.000Z",
 } as const satisfies Track

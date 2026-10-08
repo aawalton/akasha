@@ -24,4 +24,6 @@ export const celticWoman22020thAnniversaryCaledonia20thAnniversary = {
       externalLink: "https://open.spotify.com/track/1a0G7g0Q9Btp0ERL0vwNo5",
     },
   ],
+  createdAt: "2026-09-16T20:30:55.778Z",
+  updatedAt: "2026-09-24T19:58:53.000Z",
 } as const satisfies Track

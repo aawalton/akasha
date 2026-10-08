@@ -24,4 +24,6 @@ export const arianaGrandeKByeForNowSwtLiveLoveMeHarderLive = {
       externalLink: "https://open.spotify.com/track/6Q4JJnjX00q8O10OliHhjS",
     },
   ],
+  createdAt: "2026-09-15T20:32:12.875Z",
+  updatedAt: "2026-09-24T19:58:28.000Z",
 } as const satisfies Track

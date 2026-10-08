@@ -24,4 +24,6 @@ export const auroraWhatHappenedToTheHeartDeluxeDreamsFeatNicoleZignago = {
       externalLink: "https://open.spotify.com/track/3kE7DXuzZrIIQsscx6oDVi",
     },
   ],
+  createdAt: "2026-09-18T20:31:53.908Z",
+  updatedAt: "2026-09-24T19:58:28.000Z",
 } as const satisfies Track

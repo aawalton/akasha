@@ -6,4 +6,6 @@ export const theTowerForce = {
   slug: "the-tower-force",
   title: "Force",
   description: "Stored mechanical force — load, tension, and momentum held ready to release.",
+  createdAt: "2026-09-22T18:43:47.829Z",
+  updatedAt: "2026-09-22T18:43:51.000Z",
 } as const satisfies TowerElement

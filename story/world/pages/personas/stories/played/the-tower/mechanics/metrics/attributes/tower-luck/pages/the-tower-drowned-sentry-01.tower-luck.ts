@@ -6,4 +6,6 @@ export const theTowerDrownedSentry01 = {
   slug: "the-tower-drowned-sentry-01",
   character: "character-other/the-tower-drowned-sentry-01",
   value: 5,
+  createdAt: "2026-09-22T17:34:27.386Z",
+  updatedAt: "2026-09-22T17:34:31.000Z",
 } as const satisfies TowerLuck

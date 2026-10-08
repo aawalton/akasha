@@ -24,4 +24,6 @@ export const arianaGrandeWickedTheSoundtrackPopularEdit = {
       externalLink: "https://open.spotify.com/track/5othwA5v4eG9PAF2GdGazz",
     },
   ],
+  createdAt: "2026-09-15T20:32:23.401Z",
+  updatedAt: "2026-09-24T19:58:28.000Z",
 } as const satisfies Track

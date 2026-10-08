@@ -34,4 +34,6 @@ export const arianaGrandeWickedForGoodTheSoundtrackAsLongAsYoureMine = {
       externalLink: "https://open.spotify.com/track/6teApADZl7JnENHdkAQ4Gm",
     },
   ],
+  createdAt: "2026-09-15T20:32:07.228Z",
+  updatedAt: "2026-09-24T19:58:28.000Z",
 } as const satisfies Track

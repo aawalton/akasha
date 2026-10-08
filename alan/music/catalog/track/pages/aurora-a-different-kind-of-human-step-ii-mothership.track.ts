@@ -24,4 +24,6 @@ export const auroraADifferentKindOfHumanStepIiMothership = {
       externalLink: "https://open.spotify.com/track/44BDTmko2ek2ps6QQpFDw3",
     },
   ],
+  createdAt: "2026-09-18T20:31:56.959Z",
+  updatedAt: "2026-09-24T19:58:28.000Z",
 } as const satisfies Track

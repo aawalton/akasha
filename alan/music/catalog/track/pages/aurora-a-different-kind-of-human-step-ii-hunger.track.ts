@@ -24,4 +24,6 @@ export const auroraADifferentKindOfHumanStepIiHunger = {
       externalLink: "https://open.spotify.com/track/68B8724ICtxBv3wUFxdro3",
     },
   ],
+  createdAt: "2026-09-18T20:31:56.730Z",
+  updatedAt: "2026-09-24T19:58:28.000Z",
 } as const satisfies Track

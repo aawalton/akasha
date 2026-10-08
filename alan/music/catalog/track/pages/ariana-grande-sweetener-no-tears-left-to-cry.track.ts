@@ -24,4 +24,6 @@ export const arianaGrandeSweetenerNoTearsLeftToCry = {
       externalLink: "https://open.spotify.com/track/2qT1uLXPVPzGgFOx4jtEuo",
     },
   ],
+  createdAt: "2026-09-15T20:32:14.387Z",
+  updatedAt: "2026-09-24T19:58:28.000Z",
 } as const satisfies Track

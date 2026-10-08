@@ -25,4 +25,6 @@ export const arianaGrandeWickedOneWonderfulNightLiveTheSoundtrackPopularLiveFrom
       externalLink: "https://open.spotify.com/track/42xoTXs449Ib4iGXgDih2E",
     },
   ],
+  createdAt: "2026-09-15T20:32:06.805Z",
+  updatedAt: "2026-09-24T19:58:28.000Z",
 } as const satisfies Track

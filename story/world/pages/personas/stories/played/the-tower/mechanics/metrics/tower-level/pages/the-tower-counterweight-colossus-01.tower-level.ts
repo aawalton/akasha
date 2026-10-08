@@ -6,4 +6,6 @@ export const theTowerCounterweightColossus01 = {
   slug: "the-tower-counterweight-colossus-01",
   character: "character-other/the-tower-counterweight-colossus-01",
   value: 4,
+  createdAt: "2026-09-22T17:47:59.060Z",
+  updatedAt: "2026-09-22T17:48:02.000Z",
 } as const satisfies TowerLevel

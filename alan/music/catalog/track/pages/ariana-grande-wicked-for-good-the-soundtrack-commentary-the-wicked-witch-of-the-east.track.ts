@@ -39,4 +39,6 @@ export const arianaGrandeWickedForGoodTheSoundtrackCommentaryTheWickedWitchOfThe
       externalLink: "https://open.spotify.com/track/2p2NnUoSZr5v6IJgihY3Nb",
     },
   ],
+  createdAt: "2026-09-15T20:32:06.132Z",
+  updatedAt: "2026-09-24T19:58:28.000Z",
 } as const satisfies Track

@@ -8,4 +8,6 @@ export const theTowerMaster = {
   place: 5,
   description: "Knows its principles, can teach it, and knows exactly where it stops working.",
   width: 100,
+  createdAt: "2026-09-26T14:22:40.080Z",
+  updatedAt: "2026-09-26T17:58:48.000Z",
 } as const satisfies TowerSkillRank

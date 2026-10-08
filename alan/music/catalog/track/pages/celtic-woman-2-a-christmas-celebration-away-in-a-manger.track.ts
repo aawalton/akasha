@@ -24,4 +24,6 @@ export const celticWoman2AChristmasCelebrationAwayInAManger = {
       externalLink: "https://open.spotify.com/track/5oEGrfx9n2HT1HHIrfWrQr",
     },
   ],
+  createdAt: "2026-09-16T20:31:04.793Z",
+  updatedAt: "2026-09-24T19:58:53.000Z",
 } as const satisfies Track

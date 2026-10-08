@@ -24,4 +24,6 @@ export const adele21SetFireToTheRain = {
       externalLink: "https://open.spotify.com/track/73CMRj62VK8nUS4ezD2wvi",
     },
   ],
+  createdAt: "2026-09-24T20:46:49.946Z",
+  updatedAt: "2026-09-24T21:00:26.000Z",
 } as const satisfies Track

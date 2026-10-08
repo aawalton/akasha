@@ -13,4 +13,6 @@ export const restockWater = {
   toDoSortOrder: 32,
   toDoValue: "value/health",
   toDoLastCompletedAt: "2026-10-08T14:41:17.332Z",
+  createdAt: "2026-04-22T12:39:34.017Z",
+  updatedAt: "2026-10-08T14:41:18.000Z",
 } as const satisfies ToDo

@@ -34,4 +34,6 @@ export const auroraAllMyDemonsGreetingMeAsAFriendDeluxeHome = {
       externalLink: "https://open.spotify.com/track/1xCoHZhrKBTc0euoVGwaIy",
     },
   ],
+  createdAt: "2026-09-18T20:31:57.659Z",
+  updatedAt: "2026-09-24T19:58:28.000Z",
 } as const satisfies Track

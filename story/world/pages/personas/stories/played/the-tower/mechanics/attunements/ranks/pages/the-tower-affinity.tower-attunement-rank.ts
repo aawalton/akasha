@@ -9,4 +9,6 @@ export const theTowerAffinity = {
   description: "The element is sensed deliberately, and no more than sensed.",
   cap: 10,
   bias: 1,
+  createdAt: "2026-09-22T18:47:32.201Z",
+  updatedAt: "2026-09-26T17:59:43.000Z",
 } as const satisfies TowerAttunementRank

@@ -29,4 +29,6 @@ export const arianaGrandeSideToSideRemixesSideToSideSlushiiRemix = {
       externalLink: "https://open.spotify.com/track/27WOAkJrAYagnYj7Y2tsFw",
     },
   ],
+  createdAt: "2026-09-15T20:32:18.142Z",
+  updatedAt: "2026-09-24T19:58:28.000Z",
 } as const satisfies Track

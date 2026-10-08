@@ -24,4 +24,6 @@ export const adele19FirstLove = {
       externalLink: "https://open.spotify.com/track/4I3FyrIM4E9I2MYm533VmJ",
     },
   ],
+  createdAt: "2026-09-24T20:46:49.945Z",
+  updatedAt: "2026-09-24T21:00:26.000Z",
 } as const satisfies Track

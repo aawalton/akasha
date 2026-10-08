@@ -6,4 +6,6 @@ export const theTowerLeechGlut01 = {
   slug: "the-tower-leech-glut-01",
   character: "character-other/the-tower-leech-glut-01",
   value: 2,
+  createdAt: "2026-09-22T17:48:20.839Z",
+  updatedAt: "2026-09-22T17:48:32.000Z",
 } as const satisfies TowerLevel

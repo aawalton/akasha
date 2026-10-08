@@ -24,4 +24,6 @@ export const billieEilishHitMeHardAndSoftLunch = {
       externalLink: "https://open.spotify.com/track/629DixmZGHc7ILtEntuiWE",
     },
   ],
+  createdAt: "2026-09-18T20:32:56.396Z",
+  updatedAt: "2026-09-24T19:58:53.000Z",
 } as const satisfies Track

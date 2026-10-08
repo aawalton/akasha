@@ -34,4 +34,6 @@ export const auroraSomeTypeOfSkinFeatAtarashiiGakkoSomeTypeOfSkinFeatAtarashiiGa
       externalLink: "https://open.spotify.com/track/6NRN8ZtyP4vs0n8nL46zrq",
     },
   ],
+  createdAt: "2026-09-18T20:31:58.280Z",
+  updatedAt: "2026-09-24T19:58:28.000Z",
 } as const satisfies Track

@@ -34,4 +34,6 @@ export const auroraWhatHappenedToTheHeartDeluxeEchoOfMyShadow = {
       externalLink: "https://open.spotify.com/track/5XFi6TdNIZgHTyM2eCxXJv",
     },
   ],
+  createdAt: "2026-09-18T20:31:53.193Z",
+  updatedAt: "2026-09-24T19:58:28.000Z",
 } as const satisfies Track

@@ -24,4 +24,6 @@ export const billieEilishBadGuyWithJustinBieberBadGuyWithJustinBieber = {
       externalLink: "https://open.spotify.com/track/3yNZ5r3LKfdmjoS3gkhUCT",
     },
   ],
+  createdAt: "2026-09-18T20:32:58.419Z",
+  updatedAt: "2026-09-24T19:58:28.000Z",
 } as const satisfies Track

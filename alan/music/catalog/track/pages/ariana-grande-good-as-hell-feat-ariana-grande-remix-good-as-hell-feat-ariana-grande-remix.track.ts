@@ -24,4 +24,6 @@ export const arianaGrandeGoodAsHellFeatArianaGrandeRemixGoodAsHellFeatArianaGran
       externalLink: "https://open.spotify.com/track/07Oz5StQ7GRoygNLaXs2pd",
     },
   ],
+  createdAt: "2026-09-15T20:32:18.339Z",
+  updatedAt: "2026-09-24T19:58:28.000Z",
 } as const satisfies Track

@@ -24,4 +24,6 @@ export const arianaGrandeEternalSunshineSlightlyDeluxeAndAlsoLiveWeCantBeFriends
       externalLink: "https://open.spotify.com/track/5ozhji2Nka62WG9XnjcKvN",
     },
   ],
+  createdAt: "2026-09-15T20:32:09.179Z",
+  updatedAt: "2026-09-24T19:58:28.000Z",
 } as const satisfies Track

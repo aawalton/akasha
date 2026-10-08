@@ -6,4 +6,6 @@ export const towerOfNimueNimue = {
   slug: "tower-of-nimue-nimue",
   character: "character-other/tower-of-nimue-nimue",
   value: 10,
+  createdAt: "2026-09-26T18:11:06.298Z",
+  updatedAt: "2026-10-03T19:12:00.000Z",
 } as const satisfies TowerOfNimuePwr

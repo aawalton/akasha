@@ -24,4 +24,6 @@ export const billieEilishWhenWeAllFallAsleepWhereDoWeGoMyStrangeAddiction = {
       externalLink: "https://open.spotify.com/track/3Tc57t9l2O8FwQZtQOvPXK",
     },
   ],
+  createdAt: "2026-09-18T20:32:57.661Z",
+  updatedAt: "2026-09-24T19:58:53.000Z",
 } as const satisfies Track

@@ -8,4 +8,6 @@ export const theTowerSoul = {
   place: 4,
   cap: 1000,
   bias: 4,
+  createdAt: "2026-09-22T18:47:45.203Z",
+  updatedAt: "2026-09-26T17:59:43.000Z",
 } as const satisfies TowerAttunementRank

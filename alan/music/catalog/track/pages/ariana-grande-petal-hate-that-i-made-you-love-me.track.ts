@@ -25,4 +25,6 @@ export const arianaGrandePetalHateThatIMadeYouLoveMe = {
       externalLink: "https://open.spotify.com/track/3iy2QuCtCzpWnR6tia39AB",
     },
   ],
+  createdAt: "2026-09-15T20:32:04.616Z",
+  updatedAt: "2026-09-24T19:58:28.000Z",
 } as const satisfies Track

@@ -24,4 +24,6 @@ export const arianaGrandeOneLastTimeOneLastTimeInstrumental = {
       externalLink: "https://open.spotify.com/track/4VlyINESDLEOklzN6JCQtE",
     },
   ],
+  createdAt: "2026-09-15T20:32:19.145Z",
+  updatedAt: "2026-09-24T19:58:28.000Z",
 } as const satisfies Track

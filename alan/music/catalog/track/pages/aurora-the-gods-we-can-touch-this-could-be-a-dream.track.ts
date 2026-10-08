@@ -24,4 +24,6 @@ export const auroraTheGodsWeCanTouchThisCouldBeADream = {
       externalLink: "https://open.spotify.com/track/00mbTg6YY97wy8DLQzOkNZ",
     },
   ],
+  createdAt: "2026-09-18T20:31:55.869Z",
+  updatedAt: "2026-09-24T19:58:28.000Z",
 } as const satisfies Track

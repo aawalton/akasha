@@ -24,4 +24,6 @@ export const billieEilishMyFutureMyFuture = {
       externalLink: "https://open.spotify.com/track/2ygvZOXrIeVL4xZmAWJT2C",
     },
   ],
+  createdAt: "2026-09-18T20:32:58.304Z",
+  updatedAt: "2026-09-24T19:58:53.000Z",
 } as const satisfies Track

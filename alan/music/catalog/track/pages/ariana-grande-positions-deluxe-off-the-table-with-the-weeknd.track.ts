@@ -31,4 +31,6 @@ export const arianaGrandePositionsDeluxeOffTheTableWithTheWeeknd = {
       externalLink: "https://open.spotify.com/track/1qKdid2S9fZdSrzLaCcjcF",
     },
   ],
+  createdAt: "2026-09-15T20:32:11.602Z",
+  updatedAt: "2026-09-24T19:58:28.000Z",
 } as const satisfies Track

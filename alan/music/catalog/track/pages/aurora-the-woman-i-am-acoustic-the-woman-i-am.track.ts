@@ -31,4 +31,6 @@ export const auroraTheWomanIAmAcousticTheWomanIAm = {
       externalLink: "https://open.spotify.com/track/2eaqmbJaG60MI32ca9aeIA",
     },
   ],
+  createdAt: "2026-09-18T20:31:59.434Z",
+  updatedAt: "2026-09-24T19:58:28.000Z",
 } as const satisfies Track

@@ -24,4 +24,6 @@ export const arianaGrandeKByeForNowSwtLiveMyHeartBelongsToDaddyLive = {
       externalLink: "https://open.spotify.com/track/3HUJw4KvL5baIwuh0wWPoh",
     },
   ],
+  createdAt: "2026-09-15T20:32:13.464Z",
+  updatedAt: "2026-09-24T19:58:28.000Z",
 } as const satisfies Track

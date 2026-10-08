@@ -6,4 +6,6 @@ export const theTowerTheWelcomer01RakingClaws = {
   slug: "the-tower-the-welcomer-01-raking-claws",
   item: "story-item/the-tower-the-welcomer-01-raking-claws",
   value: 3,
+  createdAt: "2026-09-24T14:29:14.829Z",
+  updatedAt: "2026-09-26T17:47:23.000Z",
 } as const satisfies TowerItemAttack

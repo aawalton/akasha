@@ -24,4 +24,6 @@ export const arianaGrandeYoursTrulyRightThere = {
       externalLink: "https://open.spotify.com/track/3yiopxxeHuwcpAg4e57Zjt",
     },
   ],
+  createdAt: "2026-09-15T20:32:15.782Z",
+  updatedAt: "2026-09-24T19:58:28.000Z",
 } as const satisfies Track

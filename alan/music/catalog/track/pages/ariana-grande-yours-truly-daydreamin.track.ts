@@ -24,4 +24,6 @@ export const arianaGrandeYoursTrulyDaydreamin = {
       externalLink: "https://open.spotify.com/track/7c86ULTZD9eNdAbJDQLRaC",
     },
   ],
+  createdAt: "2026-09-15T20:32:15.918Z",
+  updatedAt: "2026-09-24T19:58:28.000Z",
 } as const satisfies Track

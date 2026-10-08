@@ -24,4 +24,6 @@ export const billieEilishSixFeetUnderTheRemixesSixFeetUnderJerryFolkRemix = {
       externalLink: "https://open.spotify.com/track/58nxGpcCfNDiqmFXklOslz",
     },
   ],
+  createdAt: "2026-09-18T20:32:59.289Z",
+  updatedAt: "2026-09-24T19:58:53.000Z",
 } as const satisfies Track

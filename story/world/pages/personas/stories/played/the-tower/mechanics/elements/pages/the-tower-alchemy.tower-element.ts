@@ -6,4 +6,6 @@ export const theTowerAlchemy = {
   slug: "the-tower-alchemy",
   title: "Alchemy",
   description: "Reaction — what corrodes, what dissolves, and what is caustic or poisonous.",
+  createdAt: "2026-09-22T18:43:31.398Z",
+  updatedAt: "2026-09-22T18:43:51.000Z",
 } as const satisfies TowerElement

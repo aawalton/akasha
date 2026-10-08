@@ -24,4 +24,6 @@ export const arianaGrandeDangerousWomanLeaveMeLonely = {
       externalLink: "https://open.spotify.com/track/4Xg2NUXyF7cgvwSOs6PiSa",
     },
   ],
+  createdAt: "2026-09-15T20:32:14.878Z",
+  updatedAt: "2026-09-24T19:57:56.000Z",
 } as const satisfies Track

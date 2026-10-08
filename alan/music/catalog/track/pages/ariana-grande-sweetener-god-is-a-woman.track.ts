@@ -24,4 +24,6 @@ export const arianaGrandeSweetenerGodIsAWoman = {
       externalLink: "https://open.spotify.com/track/5OCJzvD7sykQEKHH7qAC3C",
     },
   ],
+  createdAt: "2026-09-15T20:32:14.231Z",
+  updatedAt: "2026-09-24T19:58:28.000Z",
 } as const satisfies Track

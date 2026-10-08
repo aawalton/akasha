@@ -24,4 +24,6 @@ export const auroraWolfwalkersOriginalMotionPictureSoundtrackMyLittleWolf = {
       externalLink: "https://open.spotify.com/track/5tLgsIdVy6xWDRkdKKTTQu",
     },
   ],
+  createdAt: "2026-09-18T20:31:56.380Z",
+  updatedAt: "2026-09-24T19:58:28.000Z",
 } as const satisfies Track

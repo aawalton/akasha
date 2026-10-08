@@ -24,4 +24,6 @@ export const billieEilishHappierThanEverOverheated = {
       externalLink: "https://open.spotify.com/track/5uSG6fUPRaehaV820zcpsK",
     },
   ],
+  createdAt: "2026-09-18T20:32:57.063Z",
+  updatedAt: "2026-09-24T19:58:53.000Z",
 } as const satisfies Track

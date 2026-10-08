@@ -30,4 +30,6 @@ export const auroraComeCloserSideBySide = {
       externalLink: "https://open.spotify.com/track/5mxcwu4cs5KsMmoP37l68U",
     },
   ],
+  createdAt: "2026-09-18T20:31:52.438Z",
+  updatedAt: "2026-09-24T19:58:28.000Z",
 } as const satisfies Track

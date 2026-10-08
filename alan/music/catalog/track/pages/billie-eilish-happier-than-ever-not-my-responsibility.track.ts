@@ -24,4 +24,6 @@ export const billieEilishHappierThanEverNotMyResponsibility = {
       externalLink: "https://open.spotify.com/track/4T2zre0jqstNJ5Gt0WG9lz",
     },
   ],
+  createdAt: "2026-09-18T20:32:57.028Z",
+  updatedAt: "2026-09-24T19:58:53.000Z",
 } as const satisfies Track

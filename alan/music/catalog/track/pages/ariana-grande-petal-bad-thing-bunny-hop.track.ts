@@ -24,4 +24,6 @@ export const arianaGrandePetalBadThingBunnyHop = {
       externalLink: "https://open.spotify.com/track/4zmXWmILSBkn7gTvIyCiNi",
     },
   ],
+  createdAt: "2026-09-15T20:32:04.905Z",
+  updatedAt: "2026-09-24T19:58:28.000Z",
 } as const satisfies Track

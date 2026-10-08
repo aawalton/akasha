@@ -8,4 +8,6 @@ export const theTowerAlanEmber = {
   element: "tower-element/the-tower-ember",
   rank: "tower-attunement-rank/the-tower-manipulation",
   counter: 9,
+  createdAt: "2026-09-22T18:47:49.589Z",
+  updatedAt: "2026-09-22T18:47:58.000Z",
 } as const satisfies TowerAttunement

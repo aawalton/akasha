@@ -24,4 +24,6 @@ export const auroraAwakeningAwakening = {
       externalLink: "https://open.spotify.com/track/4U5WvRz4XVuP5vBpZysJCU",
     },
   ],
+  createdAt: "2026-09-18T20:32:03.198Z",
+  updatedAt: "2026-09-24T19:58:28.000Z",
 } as const satisfies Track

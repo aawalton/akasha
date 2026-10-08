@@ -29,4 +29,6 @@ export const arianaGrandeBangBangRemixesBangBang3lauRemix = {
       externalLink: "https://open.spotify.com/track/4kXDTeaXTJGRlyGQ15fhvA",
     },
   ],
+  createdAt: "2026-09-15T20:32:18.869Z",
+  updatedAt: "2026-09-24T19:57:56.000Z",
 } as const satisfies Track

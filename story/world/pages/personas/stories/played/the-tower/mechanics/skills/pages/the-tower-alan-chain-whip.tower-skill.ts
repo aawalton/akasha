@@ -9,4 +9,6 @@ export const theTowerAlanChainWhip = {
   rank: "tower-skill-rank/the-tower-novice",
   level: 3,
   demonstrations: 0,
+  createdAt: "2026-09-26T14:27:54.169Z",
+  updatedAt: "2026-09-26T15:32:59.000Z",
 } as const satisfies TowerSkill

@@ -24,4 +24,6 @@ export const billieEilishHappierThanEverNda = {
       externalLink: "https://open.spotify.com/track/38GBNKZUhfBkk3oNlWzRYd",
     },
   ],
+  createdAt: "2026-09-18T20:32:57.186Z",
+  updatedAt: "2026-09-24T19:58:53.000Z",
 } as const satisfies Track

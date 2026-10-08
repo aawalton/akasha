@@ -29,4 +29,6 @@ export const auroraInAMinuteLiveFromTheStudioVersionInAMinuteLiveFromTheStudioVe
       externalLink: "https://open.spotify.com/track/49Svtm8RA6SWUHO5Fiv7uv",
     },
   ],
+  createdAt: "2026-09-18T20:31:52.679Z",
+  updatedAt: "2026-09-24T19:58:28.000Z",
 } as const satisfies Track

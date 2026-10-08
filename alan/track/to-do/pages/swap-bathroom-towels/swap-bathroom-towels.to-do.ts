@@ -13,4 +13,6 @@ export const swapBathroomTowels = {
   toDoSortOrder: 29,
   toDoValue: "value/health",
   toDoLastCompletedAt: "2026-10-08T14:41:20.027Z",
+  createdAt: "2026-04-22T12:39:34.017Z",
+  updatedAt: "2026-10-08T14:41:20.000Z",
 } as const satisfies ToDo

@@ -47,4 +47,6 @@ export const arianaGrandeEternalSunshineSlightlyDeluxeAndAlsoLiveTheBoyIsMineWit
       externalLink: "https://open.spotify.com/track/52anJ914oylWdT3CytSMYF",
     },
   ],
+  createdAt: "2026-09-15T20:32:08.974Z",
+  updatedAt: "2026-09-24T19:58:28.000Z",
 } as const satisfies Track

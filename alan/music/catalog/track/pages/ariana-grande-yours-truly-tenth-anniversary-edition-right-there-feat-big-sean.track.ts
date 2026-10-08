@@ -24,4 +24,6 @@ export const arianaGrandeYoursTrulyTenthAnniversaryEditionRightThereFeatBigSean 
       externalLink: "https://open.spotify.com/track/5aKqhRdBmC5Qp2c3oek9ft",
     },
   ],
+  createdAt: "2026-09-15T20:32:10.924Z",
+  updatedAt: "2026-09-24T19:58:28.000Z",
 } as const satisfies Track

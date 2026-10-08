@@ -35,4 +35,6 @@ export const arianaGrandeYesAndRemixesYesAndTheBlessedMadonnasGodsquadMix = {
       externalLink: "https://open.spotify.com/track/5jvgyMX8IQwzpGeWi6P4Xo",
     },
   ],
+  createdAt: "2026-09-15T20:32:17.428Z",
+  updatedAt: "2026-09-24T19:58:28.000Z",
 } as const satisfies Track

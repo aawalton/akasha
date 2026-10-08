@@ -25,4 +25,6 @@ export const arianaGrandeWickedTheSoundtrackCommentaryDancingThroughLifeCommenta
       externalLink: "https://open.spotify.com/track/2J3wJpOo3120U3hjHpnDOt",
     },
   ],
+  createdAt: "2026-09-15T20:32:22.547Z",
+  updatedAt: "2026-09-24T19:58:28.000Z",
 } as const satisfies Track

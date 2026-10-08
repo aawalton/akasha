@@ -24,4 +24,6 @@ export const auroraIntoTheUnknownIntoTheUnknown = {
       externalLink: "https://open.spotify.com/track/0O2szuaez7BKxS8SH7RkV4",
     },
   ],
+  createdAt: "2026-09-18T20:32:01.865Z",
+  updatedAt: "2026-09-24T19:58:28.000Z",
 } as const satisfies Track

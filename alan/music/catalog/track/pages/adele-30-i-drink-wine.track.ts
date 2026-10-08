@@ -24,4 +24,6 @@ export const adele30IDrinkWine = {
       externalLink: "https://open.spotify.com/track/6v0UJD4a2FtleHeSYVX02A",
     },
   ],
+  createdAt: "2026-09-24T20:46:49.946Z",
+  updatedAt: "2026-09-24T21:00:26.000Z",
 } as const satisfies Track

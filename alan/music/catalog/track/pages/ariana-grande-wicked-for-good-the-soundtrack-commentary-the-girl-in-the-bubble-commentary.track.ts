@@ -25,4 +25,6 @@ export const arianaGrandeWickedForGoodTheSoundtrackCommentaryTheGirlInTheBubbleC
       externalLink: "https://open.spotify.com/track/6RrRAqLZAzNi25rP8dnuut",
     },
   ],
+  createdAt: "2026-09-15T20:32:06.517Z",
+  updatedAt: "2026-09-24T19:58:28.000Z",
 } as const satisfies Track

@@ -29,4 +29,6 @@ export const arianaGrandeItWasAMaskedChristmasItWasAMaskedChristmasFeatArianaGra
       externalLink: "https://open.spotify.com/track/0vGVNj5Fmn4TU4foavNZG1",
     },
   ],
+  createdAt: "2026-09-15T20:32:17.578Z",
+  updatedAt: "2026-09-24T19:58:28.000Z",
 } as const satisfies Track

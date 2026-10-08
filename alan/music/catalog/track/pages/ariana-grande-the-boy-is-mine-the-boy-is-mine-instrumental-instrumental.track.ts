@@ -24,4 +24,6 @@ export const arianaGrandeTheBoyIsMineTheBoyIsMineInstrumentalInstrumental = {
       externalLink: "https://open.spotify.com/track/3oVsE0KufIJPNDvHkTyoFE",
     },
   ],
+  createdAt: "2026-09-15T20:32:16.610Z",
+  updatedAt: "2026-09-24T19:58:28.000Z",
 } as const satisfies Track

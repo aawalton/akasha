@@ -6,4 +6,6 @@ export const theTowerDrownedSentryPlatedArm = {
   slug: "the-tower-drowned-sentry-plated-arm",
   item: "story-item/the-tower-drowned-sentry-plated-arm",
   value: 5,
+  createdAt: "2026-09-24T14:28:59.150Z",
+  updatedAt: "2026-09-26T17:47:23.000Z",
 } as const satisfies TowerItemAttack

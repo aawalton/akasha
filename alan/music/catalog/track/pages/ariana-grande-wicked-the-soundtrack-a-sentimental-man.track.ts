@@ -42,4 +42,6 @@ export const arianaGrandeWickedTheSoundtrackASentimentalMan = {
       externalLink: "https://open.spotify.com/track/2Nox49biysRuKoIaDWMemm",
     },
   ],
+  createdAt: "2026-09-15T20:32:23.299Z",
+  updatedAt: "2026-09-24T19:58:28.000Z",
 } as const satisfies Track

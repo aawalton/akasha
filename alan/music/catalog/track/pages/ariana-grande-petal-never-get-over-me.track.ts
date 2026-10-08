@@ -24,4 +24,6 @@ export const arianaGrandePetalNeverGetOverMe = {
       externalLink: "https://open.spotify.com/track/55srcWA7TioKV0LZVNXltY",
     },
   ],
+  createdAt: "2026-09-15T20:32:04.876Z",
+  updatedAt: "2026-09-24T19:58:28.000Z",
 } as const satisfies Track

@@ -24,4 +24,6 @@ export const billieEilishDontSmileAtMeHostage = {
       externalLink: "https://open.spotify.com/track/1WsEgieHsWWndAzLkmV105",
     },
   ],
+  createdAt: "2026-09-18T20:32:58.968Z",
+  updatedAt: "2026-09-24T19:58:28.000Z",
 } as const satisfies Track

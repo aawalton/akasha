@@ -24,4 +24,6 @@ export const arianaGrandeDangerousWomanIDontCare = {
       externalLink: "https://open.spotify.com/track/7xagQoIf776ukUlgH4TyyB",
     },
   ],
+  createdAt: "2026-09-15T20:32:14.973Z",
+  updatedAt: "2026-09-24T19:57:56.000Z",
 } as const satisfies Track

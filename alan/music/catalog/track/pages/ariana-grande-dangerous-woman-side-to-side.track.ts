@@ -24,4 +24,6 @@ export const arianaGrandeDangerousWomanSideToSide = {
       externalLink: "https://open.spotify.com/track/4HeCFqiB1rBqGqvE10rF1a",
     },
   ],
+  createdAt: "2026-09-15T20:32:14.762Z",
+  updatedAt: "2026-09-24T19:57:56.000Z",
 } as const satisfies Track

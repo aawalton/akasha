@@ -34,4 +34,6 @@ export const arianaGrandeEternalSunshineSlightlyDeluxeAndAlsoLiveSupernaturalWit
       externalLink: "https://open.spotify.com/track/0OanqO2wZZkAE8i6FESIXS",
     },
   ],
+  createdAt: "2026-09-15T20:32:08.946Z",
+  updatedAt: "2026-09-24T19:58:28.000Z",
 } as const satisfies Track

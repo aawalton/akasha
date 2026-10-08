@@ -42,4 +42,6 @@ export const auroraInfectionsOfADifferentKindStepIQueendom = {
       externalLink: "https://open.spotify.com/track/4KL2R4rnk43g8a2t0ZObhb",
     },
   ],
+  createdAt: "2026-09-18T20:31:56.998Z",
+  updatedAt: "2026-09-24T19:58:28.000Z",
 } as const satisfies Track

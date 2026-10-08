@@ -25,4 +25,6 @@ export const auroraSomeTypeOfSkinSomeTypeOfSkinSofiaKourtesisRemix = {
       externalLink: "https://open.spotify.com/track/3JESF4y5o29QYebTheGju0",
     },
   ],
+  createdAt: "2026-09-18T20:31:58.709Z",
+  updatedAt: "2026-09-24T19:58:28.000Z",
 } as const satisfies Track

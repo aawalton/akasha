@@ -24,4 +24,6 @@ export const arianaGrandeThankUNextBloodline = {
       externalLink: "https://open.spotify.com/track/2hloaUoRonYssMuqLCBLTX",
     },
   ],
+  createdAt: "2026-09-15T20:32:13.764Z",
+  updatedAt: "2026-09-24T19:58:28.000Z",
 } as const satisfies Track

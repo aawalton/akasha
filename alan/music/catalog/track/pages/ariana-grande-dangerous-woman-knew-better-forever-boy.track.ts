@@ -34,4 +34,6 @@ export const arianaGrandeDangerousWomanKnewBetterForeverBoy = {
       externalLink: "https://open.spotify.com/track/5cjqjeRvbu936DNHQCUdbf",
     },
   ],
+  createdAt: "2026-09-15T20:32:15.065Z",
+  updatedAt: "2026-09-24T19:57:56.000Z",
 } as const satisfies Track

@@ -7,4 +7,6 @@ export const theTowerSage = {
   title: "Sage",
   place: 7,
   description: "Reframes what the skill is, turning a trick into a discipline of its own.",
+  createdAt: "2026-09-26T14:22:40.080Z",
+  updatedAt: "2026-09-26T17:58:48.000Z",
 } as const satisfies TowerSkillRank

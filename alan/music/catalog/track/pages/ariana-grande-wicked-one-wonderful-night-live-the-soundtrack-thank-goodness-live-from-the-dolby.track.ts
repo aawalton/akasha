@@ -25,4 +25,6 @@ export const arianaGrandeWickedOneWonderfulNightLiveTheSoundtrackThankGoodnessLi
       externalLink: "https://open.spotify.com/track/4ZjwFYORhwx5sL3lZAHaMs",
     },
   ],
+  createdAt: "2026-09-15T20:32:06.905Z",
+  updatedAt: "2026-09-24T19:58:28.000Z",
 } as const satisfies Track

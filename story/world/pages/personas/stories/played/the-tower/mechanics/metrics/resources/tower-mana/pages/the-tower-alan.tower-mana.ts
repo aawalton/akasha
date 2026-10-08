@@ -10,4 +10,6 @@ export const theTowerAlan = {
   maxValue: 120,
   history: "jsonl",
   displayOrder: 2,
+  createdAt: "2026-09-22T16:27:37.080Z",
+  updatedAt: "2026-09-30T08:11:27.000Z",
 } as const satisfies TowerMana

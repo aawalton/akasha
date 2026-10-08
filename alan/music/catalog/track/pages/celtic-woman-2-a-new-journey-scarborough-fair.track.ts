@@ -24,4 +24,6 @@ export const celticWoman2ANewJourneyScarboroughFair = {
       externalLink: "https://open.spotify.com/track/1U1NkDoPpCSEX1T6ZMWX04",
     },
   ],
+  createdAt: "2026-09-16T20:31:04.699Z",
+  updatedAt: "2026-09-24T19:58:53.000Z",
 } as const satisfies Track

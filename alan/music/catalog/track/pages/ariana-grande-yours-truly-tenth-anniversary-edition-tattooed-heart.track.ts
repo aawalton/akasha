@@ -24,4 +24,6 @@ export const arianaGrandeYoursTrulyTenthAnniversaryEditionTattooedHeart = {
       externalLink: "https://open.spotify.com/track/4HBDccZgvC769vqQ2QHjji",
     },
   ],
+  createdAt: "2026-09-15T20:32:10.954Z",
+  updatedAt: "2026-09-24T19:58:28.000Z",
 } as const satisfies Track

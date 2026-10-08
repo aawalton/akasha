@@ -30,4 +30,6 @@ export const arianaGrandeBangBangRemixesBangBangKatKrazyRemix = {
       externalLink: "https://open.spotify.com/track/3wmzSwXcZw3D93kqWeFp9H",
     },
   ],
+  createdAt: "2026-09-15T20:32:18.833Z",
+  updatedAt: "2026-09-24T19:57:56.000Z",
 } as const satisfies Track

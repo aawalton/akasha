@@ -31,4 +31,6 @@ export const arianaGrandePositionsDeluxePositions = {
       externalLink: "https://open.spotify.com/track/3DFnLXa69NVlOjbhTbXXNn",
     },
   ],
+  createdAt: "2026-09-15T20:32:11.812Z",
+  updatedAt: "2026-09-24T19:58:28.000Z",
 } as const satisfies Track

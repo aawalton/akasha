@@ -24,4 +24,6 @@ export const alexandriaPixiePixie = {
       externalLink: "https://open.spotify.com/track/1IAS4hF2QOiDWsv0HDVL1H",
     },
   ],
+  createdAt: "2026-09-16T13:49:12.653Z",
+  updatedAt: "2026-09-24T19:57:56.000Z",
 } as const satisfies Track

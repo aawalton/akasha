@@ -24,4 +24,6 @@ export const auroraWhatHappenedToTheHeartDeluxeTheWeightOfMissing = {
       externalLink: "https://open.spotify.com/track/1LilgVPWoXNIjBsE59UQ8L",
     },
   ],
+  createdAt: "2026-09-18T20:31:53.870Z",
+  updatedAt: "2026-09-24T19:58:28.000Z",
 } as const satisfies Track

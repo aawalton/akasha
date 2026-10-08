@@ -7,4 +7,6 @@ export const theTowerAlan = {
   character: "character-player/the-tower-alan",
   value: 20,
   history: "jsonl",
+  createdAt: "2026-09-22T16:35:32.877Z",
+  updatedAt: "2026-09-22T16:56:30.000Z",
 } as const satisfies TowerWill

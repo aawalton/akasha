@@ -24,4 +24,6 @@ export const billieEilishCopycatSofiTukkerRemixCopycatSofiTukkerRemix = {
       externalLink: "https://open.spotify.com/track/2njUxZ4151DWIrfIK3loFj",
     },
   ],
+  createdAt: "2026-09-18T20:32:58.654Z",
+  updatedAt: "2026-09-24T19:58:28.000Z",
 } as const satisfies Track

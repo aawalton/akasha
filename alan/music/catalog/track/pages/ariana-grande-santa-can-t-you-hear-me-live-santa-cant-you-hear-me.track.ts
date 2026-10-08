@@ -34,4 +34,6 @@ export const arianaGrandeSantaCanTYouHearMeLiveSantaCantYouHearMe = {
       externalLink: "https://open.spotify.com/track/5XDcWDGnFLs3P3F0XfIpgN",
     },
   ],
+  createdAt: "2026-09-15T20:32:17.539Z",
+  updatedAt: "2026-09-24T19:58:28.000Z",
 } as const satisfies Track

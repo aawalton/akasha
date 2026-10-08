@@ -24,4 +24,6 @@ export const arianaGrandeBreakFreeBreakFreeACappella = {
       externalLink: "https://open.spotify.com/track/1VGnGcB9mBywGac3H9yoQj",
     },
   ],
+  createdAt: "2026-09-15T20:32:19.299Z",
+  updatedAt: "2026-09-24T19:57:56.000Z",
 } as const satisfies Track

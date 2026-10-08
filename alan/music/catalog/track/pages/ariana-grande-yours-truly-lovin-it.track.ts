@@ -24,4 +24,6 @@ export const arianaGrandeYoursTrulyLovinIt = {
       externalLink: "https://open.spotify.com/track/7EpKfPAURnG9OCVer0S30N",
     },
   ],
+  createdAt: "2026-09-15T20:32:15.845Z",
+  updatedAt: "2026-09-24T19:58:28.000Z",
 } as const satisfies Track

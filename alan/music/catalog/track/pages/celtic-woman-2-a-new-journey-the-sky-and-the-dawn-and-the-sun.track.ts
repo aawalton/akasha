@@ -24,4 +24,6 @@ export const celticWoman2ANewJourneyTheSkyAndTheDawnAndTheSun = {
       externalLink: "https://open.spotify.com/track/2YgW2VVOwQItMkKW07fMt8",
     },
   ],
+  createdAt: "2026-09-16T20:31:04.250Z",
+  updatedAt: "2026-09-24T19:58:53.000Z",
 } as const satisfies Track

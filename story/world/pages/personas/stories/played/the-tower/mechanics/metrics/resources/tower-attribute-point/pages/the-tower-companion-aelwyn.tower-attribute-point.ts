@@ -7,4 +7,6 @@ export const theTowerCompanionAelwyn = {
   character: "character-other/the-tower-companion-aelwyn",
   value: 0,
   minValue: 0,
+  createdAt: "2026-09-24T14:58:09.911Z",
+  updatedAt: "2026-09-24T14:58:25.000Z",
 } as const satisfies TowerAttributePoint

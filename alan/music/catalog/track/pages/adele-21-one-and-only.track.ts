@@ -24,4 +24,6 @@ export const adele21OneAndOnly = {
       externalLink: "https://open.spotify.com/track/43dcCpx19I0R4zLr4KH1UC",
     },
   ],
+  createdAt: "2026-09-24T20:46:49.946Z",
+  updatedAt: "2026-09-24T21:00:26.000Z",
 } as const satisfies Track

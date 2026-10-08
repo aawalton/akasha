@@ -51,4 +51,6 @@ export const arianaGrandeWickedTheSoundtrackCommentaryNoOneMournsTheWicked = {
       externalLink: "https://open.spotify.com/track/0br9vcQnqeqp9PKCGsrxAF",
     },
   ],
+  createdAt: "2026-09-15T20:32:22.241Z",
+  updatedAt: "2026-09-24T19:58:28.000Z",
 } as const satisfies Track

@@ -25,4 +25,6 @@ export const arianaGrandeWickedTheSoundtrackCommentaryTheWizardAndICommentary = 
       externalLink: "https://open.spotify.com/track/6jjHITTvyWcUboN8o7Pvcz",
     },
   ],
+  createdAt: "2026-09-15T20:32:22.360Z",
+  updatedAt: "2026-09-24T19:58:28.000Z",
 } as const satisfies Track

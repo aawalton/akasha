@@ -24,4 +24,6 @@ export const auroraToBeLovedHalfEmptyButHappy = {
       externalLink: "https://open.spotify.com/track/67wNjh1nTci8GuATIhJWut",
     },
   ],
+  createdAt: "2026-09-18T20:32:02.159Z",
+  updatedAt: "2026-09-24T19:58:28.000Z",
 } as const satisfies Track

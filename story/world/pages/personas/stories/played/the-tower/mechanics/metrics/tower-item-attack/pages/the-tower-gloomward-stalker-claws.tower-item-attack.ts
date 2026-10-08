@@ -6,4 +6,6 @@ export const theTowerGloomwardStalkerClaws = {
   slug: "the-tower-gloomward-stalker-claws",
   item: "story-item/the-tower-gloomward-stalker-claws",
   value: 4,
+  createdAt: "2026-09-24T14:29:02.280Z",
+  updatedAt: "2026-09-26T17:47:23.000Z",
 } as const satisfies TowerItemAttack

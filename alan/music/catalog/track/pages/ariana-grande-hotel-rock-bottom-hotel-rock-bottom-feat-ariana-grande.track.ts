@@ -24,4 +24,6 @@ export const arianaGrandeHotelRockBottomHotelRockBottomFeatArianaGrande = {
       externalLink: "https://open.spotify.com/track/4qkPVF5w9mnpVKEb3izXjI",
     },
   ],
+  createdAt: "2026-09-15T20:32:16.314Z",
+  updatedAt: "2026-09-24T19:58:28.000Z",
 } as const satisfies Track

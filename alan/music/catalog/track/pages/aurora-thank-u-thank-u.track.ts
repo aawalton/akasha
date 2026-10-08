@@ -24,4 +24,6 @@ export const auroraThankUThankU = {
       externalLink: "https://open.spotify.com/track/1w5J5CBuvT36kt2OtHa8ts",
     },
   ],
+  createdAt: "2026-09-18T20:32:01.478Z",
+  updatedAt: "2026-09-24T19:58:28.000Z",
 } as const satisfies Track

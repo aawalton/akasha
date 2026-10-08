@@ -6,4 +6,6 @@ export const theTowerAshling01 = {
   slug: "the-tower-ashling-01",
   character: "character-other/the-tower-ashling-01",
   value: 8,
+  createdAt: "2026-09-22T17:33:26.270Z",
+  updatedAt: "2026-09-22T17:33:53.000Z",
 } as const satisfies TowerFinesse

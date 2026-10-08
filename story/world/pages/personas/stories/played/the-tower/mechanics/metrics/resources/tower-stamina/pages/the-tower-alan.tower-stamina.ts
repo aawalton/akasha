@@ -10,4 +10,6 @@ export const theTowerAlan = {
   maxValue: 76,
   history: "jsonl",
   displayOrder: 3,
+  createdAt: "2026-09-22T16:27:45.133Z",
+  updatedAt: "2026-09-30T08:11:27.000Z",
 } as const satisfies TowerStamina

@@ -6,4 +6,6 @@ export const theTowerAlan = {
   slug: "the-tower-alan",
   character: "character-player/the-tower-alan",
   value: 7,
+  createdAt: "2026-09-22T17:47:16.125Z",
+  updatedAt: "2026-09-22T17:47:32.000Z",
 } as const satisfies TowerLevel

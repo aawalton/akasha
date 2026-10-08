@@ -34,4 +34,6 @@ export const arianaGrandeMyEverythingTenthAnniversaryEditionOneLastTime = {
       externalLink: "https://open.spotify.com/track/1043bXNgWDCWM2rhvieIh9",
     },
   ],
+  createdAt: "2026-09-15T20:32:09.312Z",
+  updatedAt: "2026-09-24T19:58:28.000Z",
 } as const satisfies Track

@@ -26,4 +26,6 @@ export const arianaGrandeDangerousWomanTenthAnniversaryEditionSideToSide = {
       externalLink: "https://open.spotify.com/track/7maih5X07qAqHxiPtN2mo3",
     },
   ],
+  createdAt: "2026-09-15T20:32:05.111Z",
+  updatedAt: "2026-09-24T19:57:56.000Z",
 } as const satisfies Track

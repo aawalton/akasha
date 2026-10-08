@@ -24,4 +24,6 @@ export const billieEilishSixFeetUnderTheRemixesSixFeetUnderGazzoRemix = {
       externalLink: "https://open.spotify.com/track/3UHa28GclZhNqqlaNFzKKY",
     },
   ],
+  createdAt: "2026-09-18T20:32:59.249Z",
+  updatedAt: "2026-09-24T19:58:53.000Z",
 } as const satisfies Track

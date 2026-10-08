@@ -28,4 +28,6 @@ export const arianaGrandeEternalSunshineDeluxeBrighterDaysAheadInstrumentalVersi
         externalLink: "https://open.spotify.com/track/1RHbi2GOT3HgCxbJUI9aXR",
       },
     ],
+    createdAt: "2026-09-15T20:32:21.884Z",
+    updatedAt: "2026-09-24T19:58:28.000Z",
   } as const satisfies Track

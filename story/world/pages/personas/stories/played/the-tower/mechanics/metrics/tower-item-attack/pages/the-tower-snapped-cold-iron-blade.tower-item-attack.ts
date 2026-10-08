@@ -6,4 +6,6 @@ export const theTowerSnappedColdIronBlade = {
   slug: "the-tower-snapped-cold-iron-blade",
   item: "story-item/the-tower-snapped-cold-iron-blade",
   value: 2,
+  createdAt: "2026-09-22T18:14:13.390Z",
+  updatedAt: "2026-09-26T17:47:23.000Z",
 } as const satisfies TowerItemAttack

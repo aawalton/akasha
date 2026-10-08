@@ -24,4 +24,6 @@ export const billieEilishEverythingIWantedEverythingIWanted = {
       externalLink: "https://open.spotify.com/track/3ZCTVFBt2Brf31RLEnCkWJ",
     },
   ],
+  createdAt: "2026-09-18T20:32:58.380Z",
+  updatedAt: "2026-09-24T19:58:53.000Z",
 } as const satisfies Track

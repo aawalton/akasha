@@ -6,4 +6,6 @@ export const theTowerPlinthGolem01 = {
   slug: "the-tower-plinth-golem-01",
   character: "character-other/the-tower-plinth-golem-01",
   value: 15,
+  createdAt: "2026-09-22T17:35:54.356Z",
+  updatedAt: "2026-09-22T17:36:27.000Z",
 } as const satisfies TowerMight

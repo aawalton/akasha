@@ -24,4 +24,6 @@ export const auroraTheGodsWeCanTouchYouKeepMeCrawling = {
       externalLink: "https://open.spotify.com/track/04glgY1l3EWiEOGAORgC9Z",
     },
   ],
+  createdAt: "2026-09-18T20:31:55.510Z",
+  updatedAt: "2026-09-24T19:58:28.000Z",
 } as const satisfies Track

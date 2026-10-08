@@ -24,4 +24,6 @@ export const auroraSkyConcertInTheLightOriginalGameSoundtrackWarrior = {
       externalLink: "https://open.spotify.com/track/3KaDDuVUjYWmISoNg9FFVH",
     },
   ],
+  createdAt: "2026-09-18T20:31:55.005Z",
+  updatedAt: "2026-09-24T19:58:28.000Z",
 } as const satisfies Track
