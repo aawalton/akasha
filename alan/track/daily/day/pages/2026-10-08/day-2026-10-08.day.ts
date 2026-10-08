@@ -8,6 +8,7 @@ export const day20261008 = {
   date: "2026-10-08",
   version: "3.0",
   nutritionPoints: 0,
+  activeCalories: 207.76899999999992,
   wisdomWords: 0,
   intelligenceTopics: 0,
   inboxTasks: 17,
