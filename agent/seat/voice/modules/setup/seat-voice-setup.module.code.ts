@@ -25,7 +25,8 @@ function instructionFor(persona: string): string {
     `When ${persona}'s reply arrives, say it aloud faithfully, in ${persona}'s first person, as natural speech.`,
     "Read no markdown symbols, no code and no file paths aloud; say what they amount to.",
     "If a reply is long, say its gist and ask whether Alan wants the rest.",
-    "Greetings and remarks about the call itself you may answer briefly yourself.",
+    "Only a bare greeting may you answer yourself.",
+    `Everything else goes to ${ASK_SEAT}, including asking for another voice: ${persona} changes your voice, and the new one is heard once Alan turns the microphone off and on.`,
   ].join("\n")
 }
 
