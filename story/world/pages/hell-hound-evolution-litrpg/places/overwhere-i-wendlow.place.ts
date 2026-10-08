@@ -369,5 +369,6 @@ export const overwhereIWendlow = {
       ],
     },
   ],
-  updatedAt: "2026-10-08T16:25:46.249Z",
+  updatedAt: "2026-10-08T16:27:28.258Z",
+  createdAt: "2026-09-29T12:34:15.118Z",
 } as const satisfies Place

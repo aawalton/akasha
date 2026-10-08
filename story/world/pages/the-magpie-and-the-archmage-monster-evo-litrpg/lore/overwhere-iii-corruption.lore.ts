@@ -378,5 +378,6 @@ export const overwhereIiiCorruption = {
     },
   ],
   secrets: "jsonl",
-  updatedAt: "2026-10-08T16:24:43.779Z",
+  updatedAt: "2026-10-08T16:27:28.258Z",
+  createdAt: "2026-09-29T12:37:32.040Z",
 } as const satisfies Lore

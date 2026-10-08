@@ -376,5 +376,6 @@ export const overwhereITheDeserterCrew = {
     },
   ],
   secrets: "jsonl",
-  updatedAt: "2026-10-08T16:23:24.848Z",
+  updatedAt: "2026-10-08T16:27:28.258Z",
+  createdAt: "2026-09-29T12:36:29.229Z",
 } as const satisfies Lore

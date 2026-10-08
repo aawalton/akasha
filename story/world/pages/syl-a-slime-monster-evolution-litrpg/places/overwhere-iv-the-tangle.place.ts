@@ -373,5 +373,6 @@ export const overwhereIvTheTangle = {
     },
   ],
   secrets: "jsonl",
-  updatedAt: "2026-10-08T16:25:51.892Z",
+  updatedAt: "2026-10-08T16:27:28.258Z",
+  createdAt: "2026-09-29T12:38:46.421Z",
 } as const satisfies Place

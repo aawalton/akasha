@@ -347,5 +347,6 @@ export const overwhereIvNala = {
     },
   ],
   secrets: "jsonl",
-  updatedAt: "2026-10-08T16:25:25.115Z",
+  updatedAt: "2026-10-08T16:27:28.258Z",
+  createdAt: "2026-09-29T12:10:28.172Z",
 } as const satisfies Lore

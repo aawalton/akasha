@@ -393,5 +393,6 @@ export const hollowmereKit = {
     },
   ],
   secrets: "jsonl",
-  updatedAt: "2026-10-08T16:26:25.134Z",
+  updatedAt: "2026-10-08T16:27:28.258Z",
+  createdAt: "2026-10-02T14:50:34.514Z",
 } as const satisfies Lore

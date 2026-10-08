@@ -337,5 +337,6 @@ export const overwhereITheDeserterCrew2 = {
       knowers: ["lore-disclosure/game-master"],
     },
   ],
-  updatedAt: "2026-10-08T16:23:24.848Z",
+  updatedAt: "2026-10-08T16:27:28.258Z",
+  createdAt: "2026-10-02T15:59:57.264Z",
 } as const satisfies Lore

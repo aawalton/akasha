@@ -363,5 +363,6 @@ export const temperAddonCombat = {
       statement: "A gap the player's own scale multiplies is judged at scale 1.",
     },
   ],
-  updatedAt: "2026-10-08T16:26:24.972Z",
+  updatedAt: "2026-10-08T16:27:28.258Z",
+  createdAt: "2026-09-02T09:42:10.782Z",
 } as const satisfies TemperAddon
