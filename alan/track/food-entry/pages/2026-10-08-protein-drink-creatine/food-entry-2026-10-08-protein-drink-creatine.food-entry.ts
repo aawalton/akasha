@@ -6,6 +6,5 @@ export const foodEntry20261008ProteinDrinkCreatine = {
   slug: "food-entry-2026-10-08-protein-drink-creatine",
   title: "Protein drink + creatine",
   happenedAt: "2026-10-08T11:08:25.605Z",
-  plantGrams: 0,
   estimatedCalories: 150,
 } as const satisfies FoodEntry
