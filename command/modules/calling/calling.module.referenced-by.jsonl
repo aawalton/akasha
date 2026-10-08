@@ -119,7 +119,7 @@
 {"propertySlug":"import","fileName":"calling.module.code.ts","path":"command/pages/fitness/mobility/fitness-mobility.command.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"calling.module.code.ts","path":"command/pages/fitness/mobility/fitness-mobility.command.test.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"calling.module.code.ts","path":"command/pages/fitness/next/fitness-next.command.code.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"calling.module.code.ts","path":"command/pages/fitness/next/fitness-next.command.test.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"calling.module.code.ts","path":"command/pages/fitness/next/fitness-next.command.test-fixtures.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"calling.module.code.ts","path":"command/pages/fitness/week/fitness-week.command.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"calling.module.code.ts","path":"command/pages/fitness/week/fitness-week.command.test.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"calling.module.code.ts","path":"command/pages/gap/delete/gap-delete.command.code.ts","typed":true,"deferred":false}

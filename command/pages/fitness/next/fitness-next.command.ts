@@ -7,6 +7,7 @@ export const fitnessNext = {
   definition: "the movement to do next at Alan's gym, with the load to take and what to beat",
   code: "ts",
   test: "ts",
+  testFixtures: "ts",
   parts: [
     "module/marking",
     "module/rotation",
