@@ -81,6 +81,8 @@
 {"propertySlug":"import","fileName":"change-shadow.module.code.ts","path":"change/agent/page-property/rename-page-property-property-slug/rename-page-property-property-slug.change-agent.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"change-shadow.module.code.ts","path":"change/agent/page-type/add-file-property-extensions/add-file-property-extensions.change-agent.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"change-shadow.module.code.ts","path":"change/agent/page-type/add-file-property-extensions/add-file-property-extensions.change-agent.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"change-shadow.module.code.ts","path":"change/agent/page-type/add-page-instants/add-page-instants.change-agent.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"change-shadow.module.code.ts","path":"change/agent/page-type/add-page-instants/add-page-instants.change-agent.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"change-shadow.module.code.ts","path":"change/agent/page-type/add-page-property-types/add-page-property-types.change-agent.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"change-shadow.module.code.ts","path":"change/agent/page-type/add-page-property-types/add-page-property-types.change-agent.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"change-shadow.module.code.ts","path":"change/agent/page-type/add-page-type-types/add-page-type-types.change-agent.code.ts","typed":false,"deferred":false}
