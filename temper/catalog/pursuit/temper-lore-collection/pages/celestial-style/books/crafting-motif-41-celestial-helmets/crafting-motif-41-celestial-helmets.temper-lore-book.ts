@@ -7,4 +7,6 @@ export const craftingMotif41CelestialHelmets = {
   title: "Crafting Motif 41: Celestial Helmets",
   collection: "temper-lore-collection/celestial-style",
   bookIndex: 8,
+  createdAt: "2026-09-25T00:13:17.177Z",
+  updatedAt: "2026-09-25T00:13:18.000Z",
 } as const satisfies TemperLoreBook

@@ -8,4 +8,6 @@ export const trialsOfSaintAlessia = {
   collection: "temper-lore-collection/biographies",
   bookIndex: 8,
   shalidorPins: "jsonl",
+  createdAt: "2026-09-25T00:07:31.536Z",
+  updatedAt: "2026-09-25T00:07:32.000Z",
 } as const satisfies TemperLoreBook

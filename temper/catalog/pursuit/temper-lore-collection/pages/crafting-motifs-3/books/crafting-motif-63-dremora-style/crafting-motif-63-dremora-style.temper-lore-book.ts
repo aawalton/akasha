@@ -7,4 +7,6 @@ export const craftingMotif63DremoraStyle = {
   title: "Crafting Motif 63: Dremora Style",
   collection: "temper-lore-collection/crafting-motifs-3",
   bookIndex: 51,
+  createdAt: "2026-09-25T00:11:19.842Z",
+  updatedAt: "2026-09-25T00:11:21.000Z",
 } as const satisfies TemperLoreBook

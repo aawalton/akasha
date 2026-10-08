@@ -11,4 +11,6 @@ export const theFinalDreamOfKasorayn = {
   charted: true,
   quest: 6852,
   positions: "jsonl",
+  createdAt: "2026-09-25T00:52:33.652Z",
+  updatedAt: "2026-09-25T00:52:35.000Z",
 } as const satisfies TemperLoreBook

@@ -7,4 +7,6 @@ export const craftingMotif107AnnihilarchsChosenGloves = {
   title: "Crafting Motif 107: Annihilarch's Chosen Gloves",
   collection: "temper-lore-collection/annihilarchs-chosen-style",
   bookIndex: 7,
+  createdAt: "2026-09-25T00:19:31.466Z",
+  updatedAt: "2026-09-25T00:19:32.000Z",
 } as const satisfies TemperLoreBook

@@ -7,4 +7,6 @@ export const vastyrFisherfolkSong34776 = {
   title: "Vastyr Fisherfolk Song",
   collection: "temper-lore-collection/archipelago-books-and-almanacs",
   bookIndex: 76,
+  createdAt: "2026-09-25T00:52:33.652Z",
+  updatedAt: "2026-09-25T00:52:35.000Z",
 } as const satisfies TemperLoreBook

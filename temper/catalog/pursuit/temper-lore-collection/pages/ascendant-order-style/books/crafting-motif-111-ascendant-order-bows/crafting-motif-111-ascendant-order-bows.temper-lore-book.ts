@@ -7,4 +7,6 @@ export const craftingMotif111AscendantOrderBows = {
   title: "Crafting Motif 111: Ascendant Order Bows",
   collection: "temper-lore-collection/ascendant-order-style",
   bookIndex: 4,
+  createdAt: "2026-09-25T00:19:48.169Z",
+  updatedAt: "2026-09-25T00:19:49.000Z",
 } as const satisfies TemperLoreBook

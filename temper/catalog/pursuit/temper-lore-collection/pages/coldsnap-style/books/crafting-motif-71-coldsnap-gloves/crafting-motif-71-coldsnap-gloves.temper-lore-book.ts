@@ -7,4 +7,6 @@ export const craftingMotif71ColdsnapGloves = {
   title: "Crafting Motif 71: Coldsnap Gloves",
   collection: "temper-lore-collection/coldsnap-style",
   bookIndex: 7,
+  createdAt: "2026-09-25T00:16:32.537Z",
+  updatedAt: "2026-09-25T00:16:33.000Z",
 } as const satisfies TemperLoreBook

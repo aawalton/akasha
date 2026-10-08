@@ -11,4 +11,6 @@ export const systresHistoryAddendumTheDruidsOfGalen = {
   charted: true,
   onBookshelves: true,
   mapCounts: [{ mapId: 2212, mapCount: 1 }],
+  createdAt: "2026-09-25T00:52:33.652Z",
+  updatedAt: "2026-09-25T00:52:35.000Z",
 } as const satisfies TemperLoreBook

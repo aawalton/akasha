@@ -7,4 +7,6 @@ export const craftingMotif43GrimHarlequinSwords = {
   title: "Crafting Motif 43: Grim Harlequin Swords",
   collection: "temper-lore-collection/crafting-motifs-29",
   bookIndex: 14,
+  createdAt: "2026-09-25T00:13:32.211Z",
+  updatedAt: "2026-09-25T00:13:33.000Z",
 } as const satisfies TemperLoreBook

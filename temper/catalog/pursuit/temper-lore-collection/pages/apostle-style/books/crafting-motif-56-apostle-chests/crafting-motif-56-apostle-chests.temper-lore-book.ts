@@ -7,4 +7,6 @@ export const craftingMotif56ApostleChests = {
   title: "Crafting Motif 56: Apostle Chests",
   collection: "temper-lore-collection/apostle-style",
   bookIndex: 5,
+  createdAt: "2026-09-25T00:14:36.974Z",
+  updatedAt: "2026-09-25T00:14:38.000Z",
 } as const satisfies TemperLoreBook

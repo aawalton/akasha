@@ -7,4 +7,6 @@ export const hermaMoraTheWoodlandMan34974 = {
   title: "Herma-Mora: The Woodland Man?",
   collection: "temper-lore-collection/apocryphal-pages",
   bookIndex: 74,
+  createdAt: "2026-09-25T00:52:56.813Z",
+  updatedAt: "2026-09-25T00:52:58.000Z",
 } as const satisfies TemperLoreBook

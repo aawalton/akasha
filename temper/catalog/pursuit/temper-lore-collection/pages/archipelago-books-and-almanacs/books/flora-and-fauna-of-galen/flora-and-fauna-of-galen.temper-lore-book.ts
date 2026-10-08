@@ -7,4 +7,6 @@ export const floraAndFaunaOfGalen = {
   title: "Flora and Fauna of Galen",
   collection: "temper-lore-collection/archipelago-books-and-almanacs",
   bookIndex: 28,
+  createdAt: "2026-09-25T00:52:33.651Z",
+  updatedAt: "2026-09-25T00:52:35.000Z",
 } as const satisfies TemperLoreBook

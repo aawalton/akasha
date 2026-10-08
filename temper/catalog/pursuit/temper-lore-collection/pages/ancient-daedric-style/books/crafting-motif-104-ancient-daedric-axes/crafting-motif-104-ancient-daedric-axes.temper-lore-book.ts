@@ -7,4 +7,6 @@ export const craftingMotif104AncientDaedricAxes = {
   title: "Crafting Motif 104: Ancient Daedric Axes",
   collection: "temper-lore-collection/ancient-daedric-style",
   bookIndex: 1,
+  createdAt: "2026-09-25T00:18:58.210Z",
+  updatedAt: "2026-09-25T00:18:59.000Z",
 } as const satisfies TemperLoreBook

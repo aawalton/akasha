@@ -7,4 +7,6 @@ export const theCurseOfBlackscaleIsland34970 = {
   title: "The Curse of Blackscale Island",
   collection: "temper-lore-collection/apocryphal-pages",
   bookIndex: 70,
+  createdAt: "2026-09-25T00:52:56.814Z",
+  updatedAt: "2026-09-25T00:52:58.000Z",
 } as const satisfies TemperLoreBook

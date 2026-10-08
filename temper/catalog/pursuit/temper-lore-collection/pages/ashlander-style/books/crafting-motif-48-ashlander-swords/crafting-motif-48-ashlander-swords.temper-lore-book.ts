@@ -7,4 +7,6 @@ export const craftingMotif48AshlanderSwords = {
   title: "Crafting Motif 48: Ashlander Swords",
   collection: "temper-lore-collection/ashlander-style",
   bookIndex: 14,
+  createdAt: "2026-09-25T00:14:07.036Z",
+  updatedAt: "2026-09-25T00:14:08.000Z",
 } as const satisfies TemperLoreBook

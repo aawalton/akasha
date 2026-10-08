@@ -7,4 +7,6 @@ export const craftingMotif40OrderHourStyle = {
   title: "Crafting Motif 40: Order Hour Style",
   collection: "temper-lore-collection/crafting-motifs-3",
   bookIndex: 28,
+  createdAt: "2026-09-25T00:11:19.842Z",
+  updatedAt: "2026-09-25T00:11:21.000Z",
 } as const satisfies TemperLoreBook

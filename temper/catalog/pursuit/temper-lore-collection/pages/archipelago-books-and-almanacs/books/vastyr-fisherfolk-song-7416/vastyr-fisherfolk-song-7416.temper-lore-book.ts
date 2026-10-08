@@ -8,4 +8,6 @@ export const vastyrFisherfolkSong7416 = {
   collection: "temper-lore-collection/archipelago-books-and-almanacs",
   esoBookId: 7416,
   charted: false,
+  createdAt: "2026-09-25T00:52:33.652Z",
+  updatedAt: "2026-09-25T00:52:35.000Z",
 } as const satisfies TemperLoreBook

@@ -7,4 +7,6 @@ export const craftingMotif88AncestralOrcLegs = {
   title: "Crafting Motif 88: Ancestral Orc Legs",
   collection: "temper-lore-collection/ancestral-orc-style",
   bookIndex: 9,
+  createdAt: "2026-09-25T00:17:58.324Z",
+  updatedAt: "2026-09-25T00:17:59.000Z",
 } as const satisfies TemperLoreBook

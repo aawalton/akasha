@@ -7,4 +7,6 @@ export const craftingMotif41CelestialLegs = {
   title: "Crafting Motif 41: Celestial Legs",
   collection: "temper-lore-collection/celestial-style",
   bookIndex: 9,
+  createdAt: "2026-09-25T00:13:17.177Z",
+  updatedAt: "2026-09-25T00:13:18.000Z",
 } as const satisfies TemperLoreBook

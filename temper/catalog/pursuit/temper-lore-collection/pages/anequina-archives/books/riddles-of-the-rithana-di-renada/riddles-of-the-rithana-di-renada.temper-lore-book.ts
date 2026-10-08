@@ -10,4 +10,6 @@ export const riddlesOfTheRithanaDiRenada = {
   bookIndex: 96,
   charted: false,
   quest: 6319,
+  createdAt: "2026-09-25T00:50:49.285Z",
+  updatedAt: "2026-09-25T00:50:51.000Z",
 } as const satisfies TemperLoreBook

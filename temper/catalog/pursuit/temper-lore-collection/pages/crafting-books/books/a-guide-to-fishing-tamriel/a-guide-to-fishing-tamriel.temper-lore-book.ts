@@ -7,4 +7,6 @@ export const aGuideToFishingTamriel = {
   title: "A Guide to Fishing Tamriel",
   collection: "temper-lore-collection/crafting-books",
   bookIndex: 1,
+  createdAt: "2026-09-25T00:11:06.324Z",
+  updatedAt: "2026-09-25T00:11:07.000Z",
 } as const satisfies TemperLoreBook

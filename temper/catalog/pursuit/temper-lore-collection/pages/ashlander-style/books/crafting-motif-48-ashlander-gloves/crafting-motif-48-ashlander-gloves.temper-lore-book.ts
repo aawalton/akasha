@@ -7,4 +7,6 @@ export const craftingMotif48AshlanderGloves = {
   title: "Crafting Motif 48: Ashlander Gloves",
   collection: "temper-lore-collection/ashlander-style",
   bookIndex: 7,
+  createdAt: "2026-09-25T00:14:07.035Z",
+  updatedAt: "2026-09-25T00:14:08.000Z",
 } as const satisfies TemperLoreBook

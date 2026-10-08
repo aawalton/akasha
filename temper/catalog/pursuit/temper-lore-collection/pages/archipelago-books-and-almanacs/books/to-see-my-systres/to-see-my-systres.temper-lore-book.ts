@@ -10,4 +10,6 @@ export const toSeeMySystres = {
   bookIndex: 68,
   charted: true,
   positions: "jsonl",
+  createdAt: "2026-09-25T00:52:33.652Z",
+  updatedAt: "2026-09-25T00:52:35.000Z",
 } as const satisfies TemperLoreBook

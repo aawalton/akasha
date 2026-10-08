@@ -7,4 +7,6 @@ export const letterToZerithVar = {
   title: "Letter to Zerith-var",
   collection: "temper-lore-collection/companions-correspondence",
   bookIndex: 15,
+  createdAt: "2026-09-25T00:53:39.428Z",
+  updatedAt: "2026-09-25T00:53:41.000Z",
 } as const satisfies TemperLoreBook

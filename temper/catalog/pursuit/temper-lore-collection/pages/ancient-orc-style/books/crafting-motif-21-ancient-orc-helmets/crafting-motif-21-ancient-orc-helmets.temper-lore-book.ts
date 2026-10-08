@@ -7,4 +7,6 @@ export const craftingMotif21AncientOrcHelmets = {
   title: "Crafting Motif 21: Ancient Orc Helmets",
   collection: "temper-lore-collection/ancient-orc-style",
   bookIndex: 8,
+  createdAt: "2026-09-25T00:11:50.529Z",
+  updatedAt: "2026-09-25T00:11:51.000Z",
 } as const satisfies TemperLoreBook

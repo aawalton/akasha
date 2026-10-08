@@ -7,4 +7,6 @@ export const craftingMotif133ColdharbourDomShoulders = {
   title: "Crafting Motif 133: Coldharbour Dom. Shoulders",
   collection: "temper-lore-collection/coldharbour-dominator-style",
   bookIndex: 12,
+  createdAt: "2026-09-25T00:22:15.510Z",
+  updatedAt: "2026-09-25T00:22:16.000Z",
 } as const satisfies TemperLoreBook

@@ -7,4 +7,6 @@ export const craftingMotif121ClanDreamcarverGloves = {
   title: "Crafting Motif 121: Clan Dreamcarver Gloves",
   collection: "temper-lore-collection/clan-dreamcarver-style",
   bookIndex: 7,
+  createdAt: "2026-09-25T00:21:11.950Z",
+  updatedAt: "2026-09-25T00:21:13.000Z",
 } as const satisfies TemperLoreBook

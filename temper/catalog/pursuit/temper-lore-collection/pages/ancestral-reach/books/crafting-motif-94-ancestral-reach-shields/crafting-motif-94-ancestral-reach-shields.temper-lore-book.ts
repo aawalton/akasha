@@ -7,4 +7,6 @@ export const craftingMotif94AncestralReachShields = {
   title: "Crafting Motif 94: Ancestral Reach Shields",
   collection: "temper-lore-collection/ancestral-reach",
   bookIndex: 11,
+  createdAt: "2026-09-25T00:18:23.136Z",
+  updatedAt: "2026-09-25T00:18:24.000Z",
 } as const satisfies TemperLoreBook

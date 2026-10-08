@@ -7,4 +7,6 @@ export const craftingMotif34AssassinsLeagueAxes = {
   title: "Crafting Motif 34: Assassins League Axes",
   collection: "temper-lore-collection/assassins-league-style",
   bookIndex: 1,
+  createdAt: "2026-09-25T00:12:46.752Z",
+  updatedAt: "2026-09-25T00:12:47.000Z",
 } as const satisfies TemperLoreBook

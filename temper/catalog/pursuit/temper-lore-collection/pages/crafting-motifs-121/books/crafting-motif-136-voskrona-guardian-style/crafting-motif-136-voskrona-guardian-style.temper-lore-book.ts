@@ -7,4 +7,6 @@ export const craftingMotif136VoskronaGuardianStyle = {
   title: "Crafting Motif 136: Voskrona Guardian Style",
   collection: "temper-lore-collection/crafting-motifs-121",
   bookIndex: 2,
+  createdAt: "2026-09-25T00:22:36.129Z",
+  updatedAt: "2026-09-25T00:22:37.000Z",
 } as const satisfies TemperLoreBook

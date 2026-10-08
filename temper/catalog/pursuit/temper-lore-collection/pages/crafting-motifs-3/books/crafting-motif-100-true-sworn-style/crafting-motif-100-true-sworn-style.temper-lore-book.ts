@@ -7,4 +7,6 @@ export const craftingMotif100TrueSwornStyle = {
   title: "Crafting Motif 100: True-Sworn Style",
   collection: "temper-lore-collection/crafting-motifs-3",
   bookIndex: 81,
+  createdAt: "2026-09-25T00:11:19.841Z",
+  updatedAt: "2026-09-25T00:11:21.000Z",
 } as const satisfies TemperLoreBook

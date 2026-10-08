@@ -7,4 +7,6 @@ export const craftingMotif107AnnihilarchsChosenSwords = {
   title: "Crafting Motif 107: Annihilarch's Chosen Swords",
   collection: "temper-lore-collection/annihilarchs-chosen-style",
   bookIndex: 14,
+  createdAt: "2026-09-25T00:19:31.467Z",
+  updatedAt: "2026-09-25T00:19:32.000Z",
 } as const satisfies TemperLoreBook

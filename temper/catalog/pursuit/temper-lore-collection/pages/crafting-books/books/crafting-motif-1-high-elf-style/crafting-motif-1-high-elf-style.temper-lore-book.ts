@@ -7,4 +7,6 @@ export const craftingMotif1HighElfStyle = {
   title: "Crafting Motif 1: High Elf Style",
   collection: "temper-lore-collection/crafting-books",
   bookIndex: 3,
+  createdAt: "2026-09-25T00:11:06.324Z",
+  updatedAt: "2026-09-25T00:11:07.000Z",
 } as const satisfies TemperLoreBook

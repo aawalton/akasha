@@ -7,4 +7,6 @@ export const tanlorinsBirdNote = {
   title: "Tanlorin's Bird Note",
   collection: "temper-lore-collection/companions-correspondence",
   bookIndex: 11,
+  createdAt: "2026-09-25T00:53:39.428Z",
+  updatedAt: "2026-09-25T00:53:41.000Z",
 } as const satisfies TemperLoreBook

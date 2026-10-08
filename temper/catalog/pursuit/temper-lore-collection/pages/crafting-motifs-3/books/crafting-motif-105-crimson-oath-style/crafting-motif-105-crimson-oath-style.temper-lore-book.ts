@@ -7,4 +7,6 @@ export const craftingMotif105CrimsonOathStyle = {
   title: "Crafting Motif 105: Crimson Oath Style",
   collection: "temper-lore-collection/crafting-motifs-3",
   bookIndex: 88,
+  createdAt: "2026-09-25T00:11:19.841Z",
+  updatedAt: "2026-09-25T00:11:21.000Z",
 } as const satisfies TemperLoreBook

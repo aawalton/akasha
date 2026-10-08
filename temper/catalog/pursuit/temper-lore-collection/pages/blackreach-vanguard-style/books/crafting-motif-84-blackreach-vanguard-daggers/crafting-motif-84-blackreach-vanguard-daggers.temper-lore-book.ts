@@ -7,4 +7,6 @@ export const craftingMotif84BlackreachVanguardDaggers = {
   title: "Crafting Motif 84: Blackreach Vanguard Daggers",
   collection: "temper-lore-collection/blackreach-vanguard-style",
   bookIndex: 6,
+  createdAt: "2026-09-25T00:17:33.079Z",
+  updatedAt: "2026-09-25T00:17:34.000Z",
 } as const satisfies TemperLoreBook

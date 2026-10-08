@@ -9,4 +9,6 @@ export const apocryphalPages = {
   esoBookId: 7597,
   charted: true,
   positions: "jsonl",
+  createdAt: "2026-09-25T00:54:41.646Z",
+  updatedAt: "2026-09-25T00:54:42.000Z",
 } as const satisfies TemperLoreBook

@@ -11,4 +11,6 @@ export const auridonTargetBrief = {
   charted: true,
   quest: 7186,
   positions: "jsonl",
+  createdAt: "2026-09-25T00:53:39.428Z",
+  updatedAt: "2026-09-25T00:53:41.000Z",
 } as const satisfies TemperLoreBook

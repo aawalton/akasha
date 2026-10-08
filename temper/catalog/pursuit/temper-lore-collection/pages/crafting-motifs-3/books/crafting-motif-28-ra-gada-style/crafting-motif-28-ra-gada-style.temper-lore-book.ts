@@ -7,4 +7,6 @@ export const craftingMotif28RaGadaStyle = {
   title: "Crafting Motif 28: Ra Gada Style",
   collection: "temper-lore-collection/crafting-motifs-3",
   bookIndex: 13,
+  createdAt: "2026-09-25T00:11:19.842Z",
+  updatedAt: "2026-09-25T00:11:21.000Z",
 } as const satisfies TemperLoreBook

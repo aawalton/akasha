@@ -11,4 +11,6 @@ export const forYourNextCelebration = {
   charted: true,
   quest: 6847,
   positions: "jsonl",
+  createdAt: "2026-09-25T00:52:33.651Z",
+  updatedAt: "2026-09-25T00:52:35.000Z",
 } as const satisfies TemperLoreBook

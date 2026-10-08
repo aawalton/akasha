@@ -7,4 +7,6 @@ export const craftingMotif89AncestralHighElfStaves = {
   title: "Crafting Motif 89: Ancestral High Elf Staves",
   collection: "temper-lore-collection/ancestral-high-elf-style",
   bookIndex: 13,
+  createdAt: "2026-09-25T00:17:53.373Z",
+  updatedAt: "2026-09-25T00:17:54.000Z",
 } as const satisfies TemperLoreBook

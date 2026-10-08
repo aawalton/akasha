@@ -7,4 +7,6 @@ export const craftingMotif94AncestralReachAxes = {
   title: "Crafting Motif 94: Ancestral Reach Axes",
   collection: "temper-lore-collection/ancestral-reach",
   bookIndex: 1,
+  createdAt: "2026-09-25T00:18:23.135Z",
+  updatedAt: "2026-09-25T00:18:24.000Z",
 } as const satisfies TemperLoreBook

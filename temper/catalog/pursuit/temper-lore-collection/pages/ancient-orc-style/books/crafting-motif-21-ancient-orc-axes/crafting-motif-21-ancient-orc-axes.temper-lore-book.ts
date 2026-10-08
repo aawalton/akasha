@@ -7,4 +7,6 @@ export const craftingMotif21AncientOrcAxes = {
   title: "Crafting Motif 21: Ancient Orc Axes",
   collection: "temper-lore-collection/ancient-orc-style",
   bookIndex: 1,
+  createdAt: "2026-09-25T00:11:50.528Z",
+  updatedAt: "2026-09-25T00:11:51.000Z",
 } as const satisfies TemperLoreBook

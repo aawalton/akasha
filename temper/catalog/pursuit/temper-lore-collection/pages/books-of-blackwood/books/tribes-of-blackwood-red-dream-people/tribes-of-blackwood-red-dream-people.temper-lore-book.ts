@@ -10,4 +10,6 @@ export const tribesOfBlackwoodRedDreamPeople = {
   bookIndex: 96,
   charted: true,
   positions: "jsonl",
+  createdAt: "2026-09-25T00:51:45.201Z",
+  updatedAt: "2026-09-25T00:51:47.000Z",
 } as const satisfies TemperLoreBook

@@ -10,4 +10,6 @@ export const ancientGravestone = {
   bookIndex: 1,
   charted: true,
   positions: "jsonl",
+  createdAt: "2026-09-25T00:50:49.284Z",
+  updatedAt: "2026-09-25T00:50:51.000Z",
 } as const satisfies TemperLoreBook

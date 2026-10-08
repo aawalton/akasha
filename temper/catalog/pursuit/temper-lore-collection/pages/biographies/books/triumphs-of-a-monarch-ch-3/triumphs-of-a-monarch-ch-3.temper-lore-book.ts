@@ -8,4 +8,6 @@ export const triumphsOfAMonarchCh3 = {
   collection: "temper-lore-collection/biographies",
   bookIndex: 5,
   shalidorPins: "jsonl",
+  createdAt: "2026-09-25T00:07:31.536Z",
+  updatedAt: "2026-09-25T00:07:32.000Z",
 } as const satisfies TemperLoreBook

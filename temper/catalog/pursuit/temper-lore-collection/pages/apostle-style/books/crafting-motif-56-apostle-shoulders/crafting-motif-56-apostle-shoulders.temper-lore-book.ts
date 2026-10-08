@@ -7,4 +7,6 @@ export const craftingMotif56ApostleShoulders = {
   title: "Crafting Motif 56: Apostle Shoulders",
   collection: "temper-lore-collection/apostle-style",
   bookIndex: 12,
+  createdAt: "2026-09-25T00:14:36.974Z",
+  updatedAt: "2026-09-25T00:14:38.000Z",
 } as const satisfies TemperLoreBook

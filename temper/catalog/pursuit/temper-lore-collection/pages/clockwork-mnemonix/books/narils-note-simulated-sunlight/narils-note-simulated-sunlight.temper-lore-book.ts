@@ -10,4 +10,6 @@ export const narilsNoteSimulatedSunlight = {
   bookIndex: 41,
   charted: true,
   positions: "jsonl",
+  createdAt: "2026-09-25T00:50:16.211Z",
+  updatedAt: "2026-09-25T00:50:17.000Z",
 } as const satisfies TemperLoreBook

@@ -7,4 +7,6 @@ export const uluscantsManifesto34972 = {
   title: "Uluscant's Manifesto",
   collection: "temper-lore-collection/apocryphal-pages",
   bookIndex: 72,
+  createdAt: "2026-09-25T00:52:56.814Z",
+  updatedAt: "2026-09-25T00:52:58.000Z",
 } as const satisfies TemperLoreBook

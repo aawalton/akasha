@@ -7,4 +7,6 @@ export const craftingMotif103BlackFinLegionStyle = {
   title: "Crafting Motif 103: Black Fin Legion Style",
   collection: "temper-lore-collection/crafting-motifs-3",
   bookIndex: 86,
+  createdAt: "2026-09-25T00:11:19.841Z",
+  updatedAt: "2026-09-25T00:11:21.000Z",
 } as const satisfies TemperLoreBook

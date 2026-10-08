@@ -7,4 +7,6 @@ export const threatOfTheDreadsails = {
   title: "Threat of the Dreadsails",
   collection: "temper-lore-collection/archipelago-books-and-almanacs",
   bookIndex: 33,
+  createdAt: "2026-09-25T00:52:33.652Z",
+  updatedAt: "2026-09-25T00:52:35.000Z",
 } as const satisfies TemperLoreBook

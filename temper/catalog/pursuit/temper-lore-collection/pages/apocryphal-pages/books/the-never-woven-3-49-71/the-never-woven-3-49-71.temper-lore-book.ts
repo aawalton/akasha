@@ -7,4 +7,6 @@ export const theNeverWoven34971 = {
   title: "The Never-Woven",
   collection: "temper-lore-collection/apocryphal-pages",
   bookIndex: 71,
+  createdAt: "2026-09-25T00:52:56.814Z",
+  updatedAt: "2026-09-25T00:52:58.000Z",
 } as const satisfies TemperLoreBook

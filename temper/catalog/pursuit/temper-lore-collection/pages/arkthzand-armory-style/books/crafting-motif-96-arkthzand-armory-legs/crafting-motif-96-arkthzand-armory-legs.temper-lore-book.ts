@@ -7,4 +7,6 @@ export const craftingMotif96ArkthzandArmoryLegs = {
   title: "Crafting Motif 96: Arkthzand Armory Legs",
   collection: "temper-lore-collection/arkthzand-armory-style",
   bookIndex: 9,
+  createdAt: "2026-09-25T00:18:33.011Z",
+  updatedAt: "2026-09-25T00:18:34.000Z",
 } as const satisfies TemperLoreBook

@@ -7,4 +7,6 @@ export const craftingMotif119BlessedInheritorShields = {
   title: "Crafting Motif 119: Blessed Inheritor Shields",
   collection: "temper-lore-collection/blessed-inheritor-style",
   bookIndex: 11,
+  createdAt: "2026-09-25T00:21:06.853Z",
+  updatedAt: "2026-09-25T00:21:08.000Z",
 } as const satisfies TemperLoreBook

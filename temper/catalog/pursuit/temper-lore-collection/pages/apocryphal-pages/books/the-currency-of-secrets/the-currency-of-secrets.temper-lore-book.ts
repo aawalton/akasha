@@ -12,4 +12,6 @@ export const theCurrencyOfSecrets = {
   onBookshelves: true,
   mapCounts: [{ mapId: 2275, mapCount: 1 }],
   positions: "jsonl",
+  createdAt: "2026-09-25T00:52:56.814Z",
+  updatedAt: "2026-09-25T00:52:58.000Z",
 } as const satisfies TemperLoreBook

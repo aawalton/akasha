@@ -7,4 +7,6 @@ export const aClothiersPrimer = {
   title: "A Clothier's Primer",
   collection: "temper-lore-collection/crafting-books",
   bookIndex: 18,
+  createdAt: "2026-09-25T00:11:06.323Z",
+  updatedAt: "2026-09-25T00:11:07.000Z",
 } as const satisfies TemperLoreBook

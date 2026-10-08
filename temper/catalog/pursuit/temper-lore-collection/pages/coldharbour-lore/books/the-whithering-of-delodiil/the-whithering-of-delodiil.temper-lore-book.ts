@@ -8,4 +8,6 @@ export const theWhitheringOfDelodiil = {
   collection: "temper-lore-collection/coldharbour-lore",
   bookIndex: 2,
   shalidorPins: "jsonl",
+  createdAt: "2026-09-25T00:09:15.503Z",
+  updatedAt: "2026-09-25T00:09:16.000Z",
 } as const satisfies TemperLoreBook

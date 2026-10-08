@@ -7,4 +7,6 @@ export const craftingMotif54BloodforgeHelmets = {
   title: "Crafting Motif 54: Bloodforge Helmets",
   collection: "temper-lore-collection/bloodforge-style",
   bookIndex: 8,
+  createdAt: "2026-09-25T00:14:27.039Z",
+  updatedAt: "2026-09-25T00:14:28.000Z",
 } as const satisfies TemperLoreBook

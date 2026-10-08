@@ -7,4 +7,6 @@ export const craftingMotif47BuoyantArmigerShoulders = {
   title: "Crafting Motif 47: Buoyant Armiger Shoulders",
   collection: "temper-lore-collection/buoyant-armiger-style",
   bookIndex: 12,
+  createdAt: "2026-09-25T00:14:01.984Z",
+  updatedAt: "2026-09-25T00:14:03.000Z",
 } as const satisfies TemperLoreBook

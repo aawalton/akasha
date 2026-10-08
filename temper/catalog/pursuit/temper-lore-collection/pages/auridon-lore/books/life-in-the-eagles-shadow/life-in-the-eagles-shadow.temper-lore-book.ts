@@ -8,4 +8,6 @@ export const lifeInTheEaglesShadow = {
   collection: "temper-lore-collection/auridon-lore",
   bookIndex: 9,
   shalidorPins: "jsonl",
+  createdAt: "2026-09-25T00:08:54.692Z",
+  updatedAt: "2026-09-25T00:08:55.000Z",
 } as const satisfies TemperLoreBook

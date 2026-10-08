@@ -7,4 +7,6 @@ export const druidFablesTheFaunLord = {
   title: "Druid Fables: The Faun Lord",
   collection: "temper-lore-collection/archipelago-books-and-almanacs",
   bookIndex: 65,
+  createdAt: "2026-09-25T00:52:33.651Z",
+  updatedAt: "2026-09-25T00:52:35.000Z",
 } as const satisfies TemperLoreBook

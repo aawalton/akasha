@@ -7,4 +7,6 @@ export const craftingMotif125BlindPathCultistGloves = {
   title: "Crafting Motif 125: Blind Path Cultist Gloves",
   collection: "temper-lore-collection/blind-path-cultist-style",
   bookIndex: 7,
+  createdAt: "2026-09-25T00:21:32.792Z",
+  updatedAt: "2026-09-25T00:21:34.000Z",
 } as const satisfies TemperLoreBook

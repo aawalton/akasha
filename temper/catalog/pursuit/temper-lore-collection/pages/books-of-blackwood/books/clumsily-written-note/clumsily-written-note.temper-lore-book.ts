@@ -7,4 +7,6 @@ export const clumsilyWrittenNote = {
   title: "Clumsily Written Note",
   collection: "temper-lore-collection/books-of-blackwood",
   bookIndex: 95,
+  createdAt: "2026-09-25T00:51:45.199Z",
+  updatedAt: "2026-09-25T00:51:47.000Z",
 } as const satisfies TemperLoreBook

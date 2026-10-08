@@ -7,4 +7,6 @@ export const craftingMotif87AncestralNordSwords = {
   title: "Crafting Motif 87: Ancestral Nord Swords",
   collection: "temper-lore-collection/ancestral-nord-style",
   bookIndex: 14,
+  createdAt: "2026-09-25T00:17:48.269Z",
+  updatedAt: "2026-09-25T00:17:49.000Z",
 } as const satisfies TemperLoreBook

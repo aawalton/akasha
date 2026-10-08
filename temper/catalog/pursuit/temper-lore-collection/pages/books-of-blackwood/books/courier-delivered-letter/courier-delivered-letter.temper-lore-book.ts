@@ -9,4 +9,6 @@ export const courierDeliveredLetter = {
   esoBookId: 6549,
   bookIndex: 2,
   charted: false,
+  createdAt: "2026-09-25T00:51:45.199Z",
+  updatedAt: "2026-09-25T00:51:47.000Z",
 } as const satisfies TemperLoreBook

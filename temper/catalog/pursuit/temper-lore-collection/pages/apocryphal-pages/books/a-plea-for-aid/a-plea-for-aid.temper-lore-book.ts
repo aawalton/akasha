@@ -11,4 +11,6 @@ export const aPleaForAid = {
   charted: true,
   quest: 6994,
   positions: "jsonl",
+  createdAt: "2026-09-25T00:52:56.813Z",
+  updatedAt: "2026-09-25T00:52:58.000Z",
 } as const satisfies TemperLoreBook

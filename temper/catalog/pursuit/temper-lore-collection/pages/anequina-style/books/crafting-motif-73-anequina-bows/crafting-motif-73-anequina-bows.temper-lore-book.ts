@@ -7,4 +7,6 @@ export const craftingMotif73AnequinaBows = {
   title: "Crafting Motif 73: Anequina Bows",
   collection: "temper-lore-collection/anequina-style",
   bookIndex: 4,
+  createdAt: "2026-09-25T00:16:42.511Z",
+  updatedAt: "2026-09-25T00:16:43.000Z",
 } as const satisfies TemperLoreBook
