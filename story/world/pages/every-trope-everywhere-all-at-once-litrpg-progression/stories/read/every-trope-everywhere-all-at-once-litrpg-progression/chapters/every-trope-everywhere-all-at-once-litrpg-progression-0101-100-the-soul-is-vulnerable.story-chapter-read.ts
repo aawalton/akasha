@@ -19,4 +19,6 @@ export const everyTropeEverywhereAllAtOnceLitrpgProgression0101100TheSoulIsVulne
   title: "100 - The Soul is Vulnerable",
   ownLength: 1593,
   prose: "txt",
+  createdAt: "2026-09-05T16:06:24.749Z",
+  updatedAt: "2026-09-19T18:25:57.000Z",
 } as const satisfies StoryChapterRead

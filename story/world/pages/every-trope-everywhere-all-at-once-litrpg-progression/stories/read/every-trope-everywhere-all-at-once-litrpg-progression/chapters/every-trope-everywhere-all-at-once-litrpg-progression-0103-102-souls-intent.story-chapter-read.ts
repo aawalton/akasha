@@ -19,4 +19,6 @@ export const everyTropeEverywhereAllAtOnceLitrpgProgression0103102SoulsIntent = 
   story: "story-read/every-trope-everywhere-all-at-once-litrpg-progression",
   ownLength: 1662,
   prose: "txt",
+  createdAt: "2026-09-09T03:03:23.177Z",
+  updatedAt: "2026-09-19T18:25:57.000Z",
 } as const satisfies StoryChapterRead

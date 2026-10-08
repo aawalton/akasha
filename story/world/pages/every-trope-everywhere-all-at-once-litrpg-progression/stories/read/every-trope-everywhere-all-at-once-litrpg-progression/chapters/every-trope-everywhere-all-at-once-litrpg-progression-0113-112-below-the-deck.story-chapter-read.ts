@@ -19,4 +19,6 @@ export const everyTropeEverywhereAllAtOnceLitrpgProgression0113112BelowTheDeck =
   story: "story-read/every-trope-everywhere-all-at-once-litrpg-progression",
   ownLength: 1742,
   prose: "txt",
+  createdAt: "2026-09-11T14:06:01.126Z",
+  updatedAt: "2026-09-19T18:25:57.000Z",
 } as const satisfies StoryChapterRead

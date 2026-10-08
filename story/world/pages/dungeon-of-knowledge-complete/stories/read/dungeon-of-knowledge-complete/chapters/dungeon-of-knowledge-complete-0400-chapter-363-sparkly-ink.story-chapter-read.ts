@@ -21,4 +21,6 @@ export const dungeonOfKnowledgeComplete0400Chapter363SparklyInk = {
     },
   ],
   prose: "txt",
+  createdAt: "2026-09-03T12:09:52.382Z",
+  updatedAt: "2026-09-19T18:25:57.000Z",
 } as const satisfies StoryChapterRead

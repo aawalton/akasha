@@ -20,4 +20,6 @@ export const endsOfMagic0088Chapter73BestowingMorality = {
     },
   ],
   prose: "txt",
+  createdAt: "2026-09-03T12:15:04.211Z",
+  updatedAt: "2026-09-28T20:27:14.000Z",
 } as const satisfies StoryChapterRead

@@ -21,4 +21,6 @@ export const dungeonOfKnowledgeComplete0050Chapter50SneakySmash = {
     },
   ],
   prose: "txt",
+  createdAt: "2026-09-03T12:09:52.195Z",
+  updatedAt: "2026-09-19T18:25:57.000Z",
 } as const satisfies StoryChapterRead

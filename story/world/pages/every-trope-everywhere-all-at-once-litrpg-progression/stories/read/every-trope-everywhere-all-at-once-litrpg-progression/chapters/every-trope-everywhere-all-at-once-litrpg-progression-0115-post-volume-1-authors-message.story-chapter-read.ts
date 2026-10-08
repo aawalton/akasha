@@ -19,4 +19,6 @@ export const everyTropeEverywhereAllAtOnceLitrpgProgression0115PostVolume1Author
   story: "story-read/every-trope-everywhere-all-at-once-litrpg-progression",
   ownLength: 1868,
   prose: "txt",
+  createdAt: "2026-09-11T14:06:01.791Z",
+  updatedAt: "2026-09-19T18:25:57.000Z",
 } as const satisfies StoryChapterRead

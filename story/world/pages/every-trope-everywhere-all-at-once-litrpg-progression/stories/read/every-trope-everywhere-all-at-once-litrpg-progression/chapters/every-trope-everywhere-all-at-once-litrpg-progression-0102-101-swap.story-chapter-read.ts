@@ -19,4 +19,6 @@ export const everyTropeEverywhereAllAtOnceLitrpgProgression0102101Swap = {
   title: "101 - Swap",
   ownLength: 1536,
   prose: "txt",
+  createdAt: "2026-09-07T03:05:52.510Z",
+  updatedAt: "2026-09-19T18:25:57.000Z",
 } as const satisfies StoryChapterRead

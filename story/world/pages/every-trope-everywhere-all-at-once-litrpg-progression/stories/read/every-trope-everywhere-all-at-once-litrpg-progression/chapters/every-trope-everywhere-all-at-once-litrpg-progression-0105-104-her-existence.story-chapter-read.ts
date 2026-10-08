@@ -19,4 +19,6 @@ export const everyTropeEverywhereAllAtOnceLitrpgProgression0105104HerExistence =
   story: "story-read/every-trope-everywhere-all-at-once-litrpg-progression",
   ownLength: 1699,
   prose: "txt",
+  createdAt: "2026-09-11T14:05:58.320Z",
+  updatedAt: "2026-09-19T18:25:57.000Z",
 } as const satisfies StoryChapterRead

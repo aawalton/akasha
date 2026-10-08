@@ -21,4 +21,6 @@ export const dungeonOfKnowledgeComplete0396Chapter359GuildPlans = {
     },
   ],
   prose: "txt",
+  createdAt: "2026-09-03T12:09:52.379Z",
+  updatedAt: "2026-09-19T18:25:57.000Z",
 } as const satisfies StoryChapterRead

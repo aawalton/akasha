@@ -21,4 +21,6 @@ export const dungeonOfKnowledgeComplete0289Chapter257OminousMissives = {
     },
   ],
   prose: "txt",
+  createdAt: "2026-09-03T12:09:52.349Z",
+  updatedAt: "2026-09-19T18:25:57.000Z",
 } as const satisfies StoryChapterRead

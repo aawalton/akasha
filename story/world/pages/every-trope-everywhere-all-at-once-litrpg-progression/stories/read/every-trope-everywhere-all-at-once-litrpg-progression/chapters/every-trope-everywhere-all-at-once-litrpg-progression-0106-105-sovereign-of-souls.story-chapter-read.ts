@@ -19,4 +19,6 @@ export const everyTropeEverywhereAllAtOnceLitrpgProgression0106105SovereignOfSou
   story: "story-read/every-trope-everywhere-all-at-once-litrpg-progression",
   ownLength: 1411,
   prose: "txt",
+  createdAt: "2026-09-11T14:05:58.764Z",
+  updatedAt: "2026-09-19T18:25:57.000Z",
 } as const satisfies StoryChapterRead

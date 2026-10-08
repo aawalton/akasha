@@ -19,4 +19,6 @@ export const everyTropeEverywhereAllAtOnceLitrpgProgression010099ARealmOfSouls =
   title: "99 - A Realm of Souls",
   ownLength: 1541,
   prose: "txt",
+  createdAt: "2026-09-05T16:06:24.748Z",
+  updatedAt: "2026-09-19T18:25:57.000Z",
 } as const satisfies StoryChapterRead
