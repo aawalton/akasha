@@ -391,26 +391,7 @@ export const hollowmereKit = {
         "character-other/hollowmere-kit",
       ],
     },
-    {
-      fact: "Cut off from Ashcombe by the storm, Kit slept on Bea's floor in a pair of Bea's pyjamas.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-other/hollowmere-kit",
-        "character-other/hollowmere-bea",
-        "character-player/hollowmere-nala",
-      ],
-    },
-    {
-      fact: "Kit won the first three hands of Priya's card game, blank-faced, and called it beginner's luck.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-other/hollowmere-kit",
-        "character-other/hollowmere-priya",
-        "character-other/hollowmere-bea",
-        "character-other/hollowmere-lin",
-        "character-player/hollowmere-nala",
-      ],
-    },
   ],
   secrets: "jsonl",
+  updatedAt: "2026-10-08T16:26:25.134Z",
 } as const satisfies Lore
