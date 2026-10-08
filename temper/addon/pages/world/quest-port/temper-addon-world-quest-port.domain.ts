@@ -15,6 +15,7 @@ export const temperAddonWorldQuestPort = {
     "module/quest-port-key-owners",
     "module/quest-port-trace",
     "module/quest-port-reading",
+    "module/quest-port-key-reading",
   ],
   decisions: [
     {
@@ -23,5 +24,5 @@ export const temperAddonWorldQuestPort = {
     },
   ],
   createdAt: "2026-10-08T14:52:54.474Z",
-  updatedAt: "2026-10-08T17:45:56.828Z",
+  updatedAt: "2026-10-08T17:48:20.297Z",
 } as const satisfies Domain

@@ -1,3 +1,7 @@
+import {
+  KEY_OWNERS,
+  type KeyOwnersReading,
+} from "akasha/temper/addon/pages/world/quest-port/modules/quest-port-key-reading/quest-port-key-reading.module.code.ts"
 import { savedVariablesRootSchema } from "akasha/temper/eso/saved-variable/modules/account-wide/account-wide.module.code.ts"
 import { luaArrayOrEmpty } from "akasha/temper/eso/saved-variable/modules/lua-array/lua-array.module.code.ts"
 import { z } from "zod"
@@ -186,6 +190,7 @@ const ACCOUNT_WIDE = z
     questJournal: z.record(z.string(), JOURNAL).optional(),
     questPortTrace: luaArrayOrEmpty(PRESS).optional(),
     assistNextTrace: luaArrayOrEmpty(ASSIST_MOVE).optional(),
+    keyOwnersTrace: luaArrayOrEmpty(KEY_OWNERS).optional(),
   })
   .passthrough()
 
@@ -201,20 +206,23 @@ export interface QuestPortCaptures {
   readonly journals: readonly JournalReading[]
   readonly presses: readonly PressReading[]
   readonly assistMoves: readonly AssistMoveReading[]
+  readonly keyOwners: readonly KeyOwnersReading[]
 }
 
 export function capturesIn(root: z.infer<typeof QUEST_PORT_SAVED_VARIABLES>): QuestPortCaptures {
   const journals: JournalReading[] = []
   const presses: PressReading[] = []
   const assistMoves: AssistMoveReading[] = []
+  const keyOwners: KeyOwnersReading[] = []
   for (const account of Object.values(root.Default ?? {})) {
     const wide = account.$AccountWide
     if (wide === undefined) continue
     journals.push(...Object.values(wide.questJournal ?? {}))
     presses.push(...(wide.questPortTrace ?? []))
     assistMoves.push(...(wide.assistNextTrace ?? []))
+    keyOwners.push(...(wide.keyOwnersTrace ?? []))
   }
-  return { journals, presses, assistMoves }
+  return { journals, presses, assistMoves, keyOwners }
 }
 
 function flag(on: boolean | undefined, word: string): string {

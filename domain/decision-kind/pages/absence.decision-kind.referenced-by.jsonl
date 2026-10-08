@@ -2091,6 +2091,7 @@
 {"propertySlug":"decision-kind","path":"temper/addon/pages/world/quest-port/modules/quest-port-capture/quest-port-capture.module.ts","id":"01a11c76-a81a-76a2-8dc0-e948c3d04595"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/world/quest-port/modules/quest-port-choose/quest-port-choose.module.ts","id":"01a11c00-c349-7071-b3cd-f41cd90f2c11"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/world/quest-port/modules/quest-port-key-owners/quest-port-key-owners.module.ts","id":"01a11c9f-2f5c-7ed3-9414-f0f8ab64a4f1"}
+{"propertySlug":"decision-kind","path":"temper/addon/pages/world/quest-port/modules/quest-port-key-reading/quest-port-key-reading.module.ts","id":"01a11ca1-5fc9-7cea-a2cf-6749be4df1b6"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/world/quest-port/modules/quest-port-reading/quest-port-reading.module.ts","id":"01a11c7e-140b-71b6-8dad-778019d3816a"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/world/quest-port/modules/quest-port-trace/quest-port-trace.module.ts","id":"01a11c7c-69d2-7678-9470-a390f3f3b142"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/world/quests/modules/auto-quest-trace/auto-quest-trace.module.ts","id":"01a06098-98a3-7c4d-b67f-e657dc450ff5"}

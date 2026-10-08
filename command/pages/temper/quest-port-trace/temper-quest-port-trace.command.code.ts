@@ -11,6 +11,7 @@ import {
 import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
 import { mistaking } from "akasha/command/modules/refusing/refusing.module.code.ts"
 import { temperQuestPortTrace as page } from "akasha/command/pages/temper/quest-port-trace/temper-quest-port-trace.command.ts"
+import { keyOwnerLines } from "akasha/temper/addon/pages/world/quest-port/modules/quest-port-key-reading/quest-port-key-reading.module.code.ts"
 import {
   assistMoveLines,
   capturesIn,
@@ -58,12 +59,14 @@ export function temperQuestPortTrace(argv: readonly string[], given: Given): Ans
     return refused(`${capturePath} holds no capture this reads: ${saidShort(thrown)}`, DATA)
   }
 
-  const { journals, presses, assistMoves } = captures
-  if (journals.length + presses.length + assistMoves.length === 0) {
+  const { journals, presses, assistMoves, keyOwners } = captures
+  if (journals.length + presses.length + assistMoves.length + keyOwners.length === 0) {
     return refused(`${capturePath} ${NOTHING_CAPTURED}`, DATA)
   }
 
-  if (taken.json) return asJson({ capturePath, writtenAt, journals, presses, assistMoves })
+  if (taken.json) {
+    return asJson({ capturePath, writtenAt, journals, presses, assistMoves, keyOwners })
+  }
 
   return told([
     `${capturePath} was last written ${writtenAt}; the game writes it only on /reloadui or logout`,
@@ -75,5 +78,8 @@ export function temperQuestPortTrace(argv: readonly string[], given: Given): Ans
     "",
     `next-quest moves (${String(assistMoves.length)}, oldest first):`,
     ...assistMoves.flatMap(assistMoveLines),
+    "",
+    `T key owners (${String(keyOwners.length)}, oldest first):`,
+    ...keyOwners.flatMap(keyOwnerLines),
   ])
 }

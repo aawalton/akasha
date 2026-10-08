@@ -40,7 +40,11 @@ export const questPortReading = {
       statement:
         "Each task list reading shows every row its last redraw kept, with each label's text and color.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The T key's owners are read with the other captures, out of the same table.",
+    },
   ],
   createdAt: "2026-10-08T17:09:47.146Z",
-  updatedAt: "2026-10-08T17:32:18.136Z",
+  updatedAt: "2026-10-08T17:48:20.297Z",
 } as const satisfies Module

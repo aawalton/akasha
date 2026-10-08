@@ -24,7 +24,11 @@ export const temperQuestPortTrace = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A file with no journal, no press and no move refuses the call.",
+      statement: "A file with no journal, no press, no move and no key owner refuses the call.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The answer ends with every record of what the T key reaches.",
     },
     {
       decisionKind: "decision-kind/absence",
@@ -34,5 +38,5 @@ export const temperQuestPortTrace = {
   name: "quest-port-trace",
   arguments: [{ argument: "argument/json" }, { argument: "argument/quest-trace-path" }],
   createdAt: "2026-10-08T17:10:57.884Z",
-  updatedAt: "2026-10-08T17:10:57.884Z",
+  updatedAt: "2026-10-08T17:48:20.297Z",
 } as const satisfies Command

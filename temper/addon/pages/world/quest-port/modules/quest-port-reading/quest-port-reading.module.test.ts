@@ -154,6 +154,7 @@ describe("quest-port-reading", () => {
     expect(captures.journals.map((one) => one.character)).toEqual(["Maviola El"])
     expect(captures.presses).toHaveLength(1)
     expect(captures.assistMoves).toHaveLength(1)
+    expect(captures.keyOwners).toHaveLength(0)
   })
 
   test("the focused quest comes first, with its steps and conditions", () => {
@@ -224,6 +225,6 @@ describe("quest-port-reading", () => {
 
   test("a table with no capture reads as nothing captured", () => {
     const none = capturesIn(QUEST_PORT_SAVED_VARIABLES.parse({ Default: {} }))
-    expect(none).toEqual({ journals: [], presses: [], assistMoves: [] })
+    expect(none).toEqual({ journals: [], presses: [], assistMoves: [], keyOwners: [] })
   })
 })
