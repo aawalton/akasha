@@ -81,6 +81,18 @@ export const terminusCentralStar = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
+      fact: "The star's magnetic field funnels its X-ray output into hot caps at its two poles.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The Terminus's poles get the fiercest X-rays and brightest aurora, and are the most dangerous.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "X-rays and aurora weaken from The Terminus's poles toward a cooler, dimmer twilight equator.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
       fact: "The spin's stored energy is small beside the star's output; the aperture powers the star.",
       knowers: ["lore-disclosure/game-master"],
     },
@@ -130,5 +142,5 @@ export const terminusCentralStar = {
     },
   ],
   createdAt: "2026-10-08T19:28:35.009Z",
-  updatedAt: "2026-10-08T20:35:18.939Z",
+  updatedAt: "2026-10-08T20:36:52.160Z",
 } as const satisfies Lore
