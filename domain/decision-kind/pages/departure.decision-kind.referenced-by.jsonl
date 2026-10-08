@@ -816,6 +816,7 @@
 {"propertySlug":"decision-kind","path":"alan/harness/inbox/email-rule/code/properties/email-rule-code-delay.text-property.ts","id":"01a06860-54a0-7230-bcc6-36683850bf02"}
 {"propertySlug":"decision-kind","path":"alan/harness/inbox/email-rule/code/properties/email-rule-code-filing.select-property.ts","id":"01a06860-549f-7088-a74f-de255a1b5b39"}
 {"propertySlug":"decision-kind","path":"alan/harness/inbox/email-rule/code/properties/email-rule-code-forward-to.relation-property.ts","id":"01a06860-54a0-7c31-a1ec-4d13559b970a"}
+{"propertySlug":"decision-kind","path":"alan/harness/inbox/email-rule/code/properties/email-rule-code-rescue-from-spam.boolean-property.ts","id":"01a11c51-e0d9-7ac3-a3de-1a909f865a50"}
 {"propertySlug":"decision-kind","path":"alan/harness/inbox/email-rule/email-rule.page-type.ts","id":"01a06828-59d3-7486-8463-b59a1768c717"}
 {"propertySlug":"decision-kind","path":"alan/harness/inbox/email-rule/properties/email-rule-match-comparison.select-property.ts","id":"01a06860-549f-73bf-9cb1-d6bcba6417f3"}
 {"propertySlug":"decision-kind","path":"alan/harness/inbox/email-rule/properties/email-rule-match-field.select-property.ts","id":"01a06860-549f-7cea-a615-3d15b6c3ddce"}

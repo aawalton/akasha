@@ -11,6 +11,7 @@ export const emailRuleCode = {
     "select-property/email-rule-code-actions",
     "select-property/email-rule-code-filing",
     "text-property/email-rule-code-delay",
+    "boolean-property/email-rule-code-rescue-from-spam",
   ],
   properties: [
     { pageProperty: "select-property/email-rule-code-filing", required: true, many: false },
@@ -23,6 +24,11 @@ export const emailRuleCode = {
     { pageProperty: "text-property/email-rule-code-delay", required: false, many: false },
     {
       pageProperty: "relation-property/email-rule-code-forward-to",
+      required: false,
+      many: false,
+    },
+    {
+      pageProperty: "boolean-property/email-rule-code-rescue-from-spam",
       required: false,
       many: false,
     },
@@ -49,5 +55,5 @@ export const emailRuleCode = {
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-09-03T16:44:30.035Z",
-  updatedAt: "2026-09-15T17:36:15.000Z",
+  updatedAt: "2026-10-08T16:21:30.456Z",
 } as const satisfies PageType
