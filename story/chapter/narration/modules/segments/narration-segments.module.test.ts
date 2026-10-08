@@ -154,6 +154,20 @@ describe("narrationSegmentsOf", () => {
     ])
   })
 
+  test("a word broken off before its vowel is said with one", () => {
+    expect(texts("Start.\n“Wh—” She stopped. “Th... that’s it. Str– no.”")).toEqual([
+      "Start.",
+      "“Whuh—” She stopped. “Thuh... that's it. Struh– no.”",
+    ])
+  })
+
+  test("a sound with no vowel, a stutter and a whole word are said as written", () => {
+    expect(texts("Start.\n“Hmm… Shh—” N-no, Mr. Brt went to St. Ives.")).toEqual([
+      "Start.",
+      "“Hmm… Shh—” N-no, Mr. Brt went to St. Ives.",
+    ])
+  })
+
   test("the same chapter always gives the same segments", () => {
     const prose = "One. Two.\n\n***\n\n:::level-up\nlevel: 2\n:::\nThree."
     expect(narrationSegmentsOf(prose)).toEqual(narrationSegmentsOf(prose))
