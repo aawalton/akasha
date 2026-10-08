@@ -33,6 +33,14 @@ export const terminusPulledWorlds = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
+      fact: "The System cuts a pulled planet by need, even through inhabited land and nations.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Moving a piece farther costs more, so pieces of one planet tend to land near each other.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
       fact: "The System places pulled worlds to keep gravity, mana and life in balance.",
       knowers: ["lore-disclosure/game-master"],
     },
@@ -78,5 +86,5 @@ export const terminusPulledWorlds = {
     },
   ],
   createdAt: "2026-10-08T20:12:12.793Z",
-  updatedAt: "2026-10-08T20:13:34.537Z",
+  updatedAt: "2026-10-08T20:15:09.712Z",
 } as const satisfies Lore
