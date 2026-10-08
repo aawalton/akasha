@@ -9,6 +9,7 @@ import {
   principalRefusal,
 } from "akasha/agent/seat/declaration/modules/seat-args/seat-args.module.code.ts"
 import { run } from "akasha/agent/seat/declaration/modules/seat-running/seat-running.module.code.ts"
+import { SEAT_MODE_INTERACTIVE } from "akasha/agent/seat/launching/modules/seat-modes/seat-modes.module.code.ts"
 
 interface SeatStatement {
   readonly agentId: string
@@ -44,7 +45,7 @@ function stating(statement: SeatStatement, mode: Mode): Args {
     clear: [],
     mode,
     principal: statement.principal,
-    onCall: statement.onCall === true,
+    onCall: statement.onCall === true || mode === SEAT_MODE_INTERACTIVE,
     takeLiveName: false,
     resolve: false,
     name: false,
