@@ -57,7 +57,7 @@ export const terminusCollectionTowers = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
-      fact: "The collection towers are laid out across the inner surface in a Fibonacci spiral.",
+      fact: "Each tier of towers is laid out across the inner surface in its own Fibonacci spiral.",
       knowers: ["lore-disclosure/game-master"],
     },
     {
@@ -117,15 +117,23 @@ export const terminusCollectionTowers = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
-      fact: "Safe zones lie where all three tiers' pulls balance at once; a killer gains nothing there.",
+      fact: "Where all three tiers' pulls balance at once, all of a death's essence goes into the air.",
       knowers: ["lore-disclosure/game-master"],
     },
     {
-      fact: "In a safe zone, all of a death's essence goes into the atmosphere.",
+      fact: "A safe haven is anywhere the killer's share is below a threshold, alpha.",
       knowers: ["lore-disclosure/game-master"],
     },
     {
-      fact: "Civilizations in safe zones can build resurrection pylons.",
+      fact: "Alpha is set by how strongly a resurrection pylon pulls essence.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "True safe havens are rare.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Civilizations in safe havens can build resurrection pylons.",
       knowers: ["lore-disclosure/game-master"],
     },
     {
@@ -134,5 +142,5 @@ export const terminusCollectionTowers = {
     },
   ],
   createdAt: "2026-10-08T19:30:37.295Z",
-  updatedAt: "2026-10-08T19:47:05.810Z",
+  updatedAt: "2026-10-08T19:50:11.265Z",
 } as const satisfies Lore
