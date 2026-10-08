@@ -65,4 +65,6 @@ export const otherwhereIiSystemEventsAndRankings = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-28T21:09:51.921Z",
+  updatedAt: "2026-09-28T22:27:15.000Z",
 } as const satisfies Lore

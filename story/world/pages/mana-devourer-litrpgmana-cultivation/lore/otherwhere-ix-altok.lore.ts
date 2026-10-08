@@ -62,4 +62,6 @@ export const otherwhereIxAltok = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-28T22:51:41.943Z",
+  updatedAt: "2026-09-28T22:51:47.000Z",
 } as const satisfies Lore

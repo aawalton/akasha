@@ -105,4 +105,6 @@ export const otherwhereIxLevels = {
       knowers: ["lore-disclosure/game-master"],
     },
   ],
+  createdAt: "2026-09-28T22:55:33.326Z",
+  updatedAt: "2026-09-28T22:55:36.000Z",
 } as const satisfies Lore

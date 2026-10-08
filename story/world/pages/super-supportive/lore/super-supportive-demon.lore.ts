@@ -14,4 +14,6 @@ export const superSupportiveDemon = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-28T21:59:34.620Z",
+  updatedAt: "2026-09-29T02:44:56.000Z",
 } as const satisfies Lore

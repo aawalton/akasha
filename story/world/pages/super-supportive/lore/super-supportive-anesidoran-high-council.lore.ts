@@ -8,4 +8,6 @@ export const superSupportiveAnesidoranHighCouncil = {
   world: "world/super-supportive",
   about: "world-organization/super-supportive-anesidoran-high-council",
   secrets: "jsonl",
+  createdAt: "2026-09-28T21:54:27.214Z",
+  updatedAt: "2026-09-28T21:54:30.000Z",
 } as const satisfies Lore

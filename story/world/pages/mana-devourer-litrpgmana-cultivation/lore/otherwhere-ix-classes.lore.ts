@@ -286,4 +286,6 @@ export const otherwhereIxClasses = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-28T23:03:29.302Z",
+  updatedAt: "2026-09-28T23:03:33.000Z",
 } as const satisfies Lore

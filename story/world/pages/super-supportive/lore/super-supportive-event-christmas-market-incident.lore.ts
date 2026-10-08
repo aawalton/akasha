@@ -7,4 +7,6 @@ export const superSupportiveEventChristmasMarketIncident = {
   title: "The Christmas market incident",
   world: "world/super-supportive",
   secrets: "jsonl",
+  createdAt: "2026-09-28T23:02:52.863Z",
+  updatedAt: "2026-09-28T23:02:57.000Z",
 } as const satisfies Lore

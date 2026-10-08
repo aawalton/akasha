@@ -58,4 +58,6 @@ export const saltAndLamplightWorld = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-10-02T14:36:28.983Z",
+  updatedAt: "2026-10-02T15:40:57.000Z",
 } as const satisfies Lore

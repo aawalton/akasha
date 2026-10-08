@@ -8,4 +8,6 @@ export const superSupportiveBirthdirtPotion = {
   world: "world/super-supportive",
   about: "world-item/super-supportive-birthdirt-potion",
   secrets: "jsonl",
+  createdAt: "2026-09-28T22:37:08.244Z",
+  updatedAt: "2026-09-28T22:37:15.000Z",
 } as const satisfies Lore

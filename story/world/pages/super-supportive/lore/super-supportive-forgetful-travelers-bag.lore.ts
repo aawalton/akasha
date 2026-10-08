@@ -8,4 +8,6 @@ export const superSupportiveForgetfulTravelersBag = {
   world: "world/super-supportive",
   about: "world-item/super-supportive-forgetful-travelers-bag",
   secrets: "jsonl",
+  createdAt: "2026-09-28T22:58:20.658Z",
+  updatedAt: "2026-09-28T22:58:27.000Z",
 } as const satisfies Lore

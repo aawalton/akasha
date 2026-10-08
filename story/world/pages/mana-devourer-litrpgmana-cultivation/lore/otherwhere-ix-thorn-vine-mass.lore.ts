@@ -49,4 +49,6 @@ export const otherwhereIxThornVineMass = {
       knowers: ["lore-disclosure/game-master"],
     },
   ],
+  createdAt: "2026-09-28T22:52:55.485Z",
+  updatedAt: "2026-09-28T22:53:10.000Z",
 } as const satisfies Lore

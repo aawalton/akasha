@@ -8,4 +8,6 @@ export const superSupportiveDemonBug = {
   world: "world/super-supportive",
   about: "world-species/super-supportive-demon-bug",
   secrets: "jsonl",
+  createdAt: "2026-09-28T22:04:04.497Z",
+  updatedAt: "2026-09-28T22:04:07.000Z",
 } as const satisfies Lore

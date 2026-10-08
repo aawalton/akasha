@@ -62,4 +62,6 @@ export const otherwhereIxMysticMana = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-28T23:07:08.536Z",
+  updatedAt: "2026-09-28T23:07:11.000Z",
 } as const satisfies Lore

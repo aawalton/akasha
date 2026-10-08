@@ -37,4 +37,6 @@ export const otherwhereIxBlueScaledFolk = {
       knowers: ["lore-disclosure/game-master"],
     },
   ],
+  createdAt: "2026-09-28T22:50:19.359Z",
+  updatedAt: "2026-09-28T22:50:27.000Z",
 } as const satisfies Lore

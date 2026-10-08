@@ -98,4 +98,6 @@ export const otherwhereIxManaToxicosis = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-28T22:52:20.691Z",
+  updatedAt: "2026-09-28T22:52:29.000Z",
 } as const satisfies Lore

@@ -7,4 +7,6 @@ export const superSupportiveEventDeathOfManonBarre = {
   title: "The death of Manon Barre",
   world: "world/super-supportive",
   secrets: "jsonl",
+  createdAt: "2026-09-28T22:26:52.773Z",
+  updatedAt: "2026-09-28T22:27:03.000Z",
 } as const satisfies Lore

@@ -21,4 +21,6 @@ export const otherwhereIxCleansingPowders = {
       knowers: ["lore-disclosure/game-master"],
     },
   ],
+  createdAt: "2026-09-28T23:01:46.293Z",
+  updatedAt: "2026-09-28T23:01:50.000Z",
 } as const satisfies Lore

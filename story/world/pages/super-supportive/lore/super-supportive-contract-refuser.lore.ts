@@ -14,4 +14,6 @@ export const superSupportiveContractRefuser = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-28T22:15:04.688Z",
+  updatedAt: "2026-09-29T02:00:54.000Z",
 } as const satisfies Lore

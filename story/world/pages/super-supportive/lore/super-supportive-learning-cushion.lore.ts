@@ -8,4 +8,6 @@ export const superSupportiveLearningCushion = {
   world: "world/super-supportive",
   about: "world-item/super-supportive-learning-cushion",
   secrets: "jsonl",
+  createdAt: "2026-09-28T22:26:52.774Z",
+  updatedAt: "2026-09-28T22:27:03.000Z",
 } as const satisfies Lore

@@ -66,4 +66,6 @@ export const otherwhereIxFirrelia = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-28T22:52:11.524Z",
+  updatedAt: "2026-09-28T22:52:17.000Z",
 } as const satisfies Lore

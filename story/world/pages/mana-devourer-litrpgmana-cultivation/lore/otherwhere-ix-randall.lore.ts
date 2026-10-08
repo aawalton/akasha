@@ -150,4 +150,6 @@ export const otherwhereIxRandall = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-28T22:46:43.229Z",
+  updatedAt: "2026-09-28T22:46:48.000Z",
 } as const satisfies Lore

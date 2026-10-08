@@ -25,4 +25,6 @@ export const otherwhereIiJanitor = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-28T20:43:27.195Z",
+  updatedAt: "2026-09-28T22:33:51.000Z",
 } as const satisfies Lore

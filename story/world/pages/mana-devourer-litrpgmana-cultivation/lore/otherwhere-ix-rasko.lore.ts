@@ -21,4 +21,6 @@ export const otherwhereIxRasko = {
       knowers: ["lore-disclosure/game-master"],
     },
   ],
+  createdAt: "2026-09-28T22:52:03.330Z",
+  updatedAt: "2026-09-28T22:52:08.000Z",
 } as const satisfies Lore

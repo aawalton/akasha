@@ -8,4 +8,6 @@ export const superSupportiveScratchartCard = {
   world: "world/super-supportive",
   about: "world-item/super-supportive-scratchart-card",
   secrets: "jsonl",
+  createdAt: "2026-09-28T22:33:24.548Z",
+  updatedAt: "2026-09-28T22:33:36.000Z",
 } as const satisfies Lore

@@ -8,4 +8,6 @@ export const superSupportiveMagiphysGym = {
   world: "world/super-supportive",
   about: "world-item/super-supportive-magiphys-gym",
   secrets: "jsonl",
+  createdAt: "2026-09-28T22:12:23.766Z",
+  updatedAt: "2026-09-28T22:12:26.000Z",
 } as const satisfies Lore

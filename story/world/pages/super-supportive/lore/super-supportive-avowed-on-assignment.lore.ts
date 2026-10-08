@@ -8,4 +8,6 @@ export const superSupportiveAvowedOnAssignment = {
   world: "world/super-supportive",
   about: "world-condition/super-supportive-avowed-on-assignment",
   secrets: "jsonl",
+  createdAt: "2026-09-28T22:30:11.767Z",
+  updatedAt: "2026-09-28T22:30:30.000Z",
 } as const satisfies Lore

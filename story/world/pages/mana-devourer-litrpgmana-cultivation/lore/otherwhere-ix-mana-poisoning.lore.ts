@@ -129,4 +129,6 @@ export const otherwhereIxManaPoisoning = {
       knowers: ["lore-disclosure/game-master"],
     },
   ],
+  createdAt: "2026-09-28T22:52:20.690Z",
+  updatedAt: "2026-09-28T22:52:29.000Z",
 } as const satisfies Lore

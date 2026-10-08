@@ -98,4 +98,6 @@ export const theDatingGameEcho = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-26T15:33:28.261Z",
+  updatedAt: "2026-09-27T16:16:00.000Z",
 } as const satisfies Lore

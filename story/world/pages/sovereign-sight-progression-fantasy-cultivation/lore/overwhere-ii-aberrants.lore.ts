@@ -260,4 +260,6 @@ export const overwhereIiAberrants = {
       knowers: ["lore-disclosure/game-master"],
     },
   ],
+  createdAt: "2026-09-29T12:20:07.402Z",
+  updatedAt: "2026-09-29T12:20:10.000Z",
 } as const satisfies Lore

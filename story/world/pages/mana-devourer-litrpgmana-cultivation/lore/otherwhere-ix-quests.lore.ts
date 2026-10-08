@@ -66,4 +66,6 @@ export const otherwhereIxQuests = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-28T23:05:13.025Z",
+  updatedAt: "2026-09-28T23:05:17.000Z",
 } as const satisfies Lore

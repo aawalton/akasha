@@ -90,4 +90,6 @@ export const otherwhereIxApostleAmalgam = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-28T22:49:52.238Z",
+  updatedAt: "2026-09-28T22:49:57.000Z",
 } as const satisfies Lore

@@ -8,4 +8,6 @@ export const superSupportiveJozz = {
   world: "world/super-supportive",
   about: "character-other/super-supportive-jozz",
   secrets: "jsonl",
+  createdAt: "2026-09-28T22:48:15.177Z",
+  updatedAt: "2026-09-28T22:48:28.000Z",
 } as const satisfies Lore

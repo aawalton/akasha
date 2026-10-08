@@ -232,4 +232,6 @@ export const dragonsAndDungeonsAlan = {
       ],
     },
   ],
+  createdAt: "2026-09-27T16:01:57.838Z",
+  updatedAt: "2026-09-27T16:02:00.000Z",
 } as const satisfies Lore

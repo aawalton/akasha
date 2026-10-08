@@ -7,4 +7,6 @@ export const superSupportiveEventBodyDrainerAttack = {
   title: "The Body Drainer attack",
   world: "world/super-supportive",
   secrets: "jsonl",
+  createdAt: "2026-09-28T21:47:13.074Z",
+  updatedAt: "2026-09-28T21:47:16.000Z",
 } as const satisfies Lore

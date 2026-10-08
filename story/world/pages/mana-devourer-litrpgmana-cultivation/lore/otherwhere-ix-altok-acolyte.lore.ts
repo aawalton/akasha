@@ -70,4 +70,6 @@ export const otherwhereIxAltokAcolyte = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-28T22:59:11.350Z",
+  updatedAt: "2026-09-28T22:59:26.000Z",
 } as const satisfies Lore

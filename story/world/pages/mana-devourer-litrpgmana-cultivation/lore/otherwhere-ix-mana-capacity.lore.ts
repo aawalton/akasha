@@ -93,4 +93,6 @@ export const otherwhereIxManaCapacity = {
       knowers: ["lore-disclosure/game-master"],
     },
   ],
+  createdAt: "2026-09-28T22:50:03.543Z",
+  updatedAt: "2026-09-28T22:50:07.000Z",
 } as const satisfies Lore

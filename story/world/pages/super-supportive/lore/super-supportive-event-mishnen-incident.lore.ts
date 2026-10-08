@@ -7,4 +7,6 @@ export const superSupportiveEventMishnenIncident = {
   title: "The mishnen incident",
   world: "world/super-supportive",
   secrets: "jsonl",
+  createdAt: "2026-09-28T22:01:25.110Z",
+  updatedAt: "2026-09-28T22:01:27.000Z",
 } as const satisfies Lore

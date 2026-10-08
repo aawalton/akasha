@@ -88,4 +88,6 @@ export const otherwhereIiRareClasses = {
       knowers: ["lore-disclosure/game-master"],
     },
   ],
+  createdAt: "2026-09-28T21:05:03.447Z",
+  updatedAt: "2026-09-28T22:36:35.000Z",
 } as const satisfies Lore

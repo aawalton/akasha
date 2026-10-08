@@ -29,4 +29,6 @@ export const otherwhereIxCiphelos = {
       knowers: ["lore-disclosure/game-master"],
     },
   ],
+  createdAt: "2026-09-28T22:49:54.343Z",
+  updatedAt: "2026-09-28T22:49:59.000Z",
 } as const satisfies Lore

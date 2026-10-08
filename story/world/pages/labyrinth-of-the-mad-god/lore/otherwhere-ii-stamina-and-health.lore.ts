@@ -48,4 +48,6 @@ export const otherwhereIiStaminaAndHealth = {
       knowers: ["lore-disclosure/game-master"],
     },
   ],
+  createdAt: "2026-09-28T21:08:37.824Z",
+  updatedAt: "2026-09-28T22:37:21.000Z",
 } as const satisfies Lore

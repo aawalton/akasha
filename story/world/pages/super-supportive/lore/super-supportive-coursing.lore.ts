@@ -8,4 +8,6 @@ export const superSupportiveCoursing = {
   world: "world/super-supportive",
   about: "world-mechanic/super-supportive-coursing",
   secrets: "jsonl",
+  createdAt: "2026-09-28T23:06:51.894Z",
+  updatedAt: "2026-09-28T23:06:55.000Z",
 } as const satisfies Lore

@@ -49,4 +49,6 @@ export const otherwhereIxSelsorCrystal = {
       knowers: ["lore-disclosure/game-master"],
     },
   ],
+  createdAt: "2026-09-28T23:00:57.625Z",
+  updatedAt: "2026-09-28T23:01:01.000Z",
 } as const satisfies Lore

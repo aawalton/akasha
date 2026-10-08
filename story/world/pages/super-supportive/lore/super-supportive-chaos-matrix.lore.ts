@@ -8,4 +8,6 @@ export const superSupportiveChaosMatrix = {
   world: "world/super-supportive",
   about: "world-mechanic/super-supportive-chaos-matrix",
   secrets: "jsonl",
+  createdAt: "2026-09-28T23:11:25.864Z",
+  updatedAt: "2026-09-28T23:11:29.000Z",
 } as const satisfies Lore

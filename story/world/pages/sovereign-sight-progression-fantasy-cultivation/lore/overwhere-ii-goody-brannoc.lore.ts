@@ -105,4 +105,6 @@ export const overwhereIiGoodyBrannoc = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-29T12:23:50.363Z",
+  updatedAt: "2026-09-30T11:03:51.000Z",
 } as const satisfies Lore

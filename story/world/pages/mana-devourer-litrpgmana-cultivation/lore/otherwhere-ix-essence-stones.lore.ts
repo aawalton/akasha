@@ -145,4 +145,6 @@ export const otherwhereIxEssenceStones = {
       knowers: ["lore-disclosure/game-master"],
     },
   ],
+  createdAt: "2026-09-28T23:01:09.166Z",
+  updatedAt: "2026-09-28T23:01:14.000Z",
 } as const satisfies Lore

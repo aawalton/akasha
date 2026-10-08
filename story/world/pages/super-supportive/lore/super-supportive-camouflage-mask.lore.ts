@@ -8,4 +8,6 @@ export const superSupportiveCamouflageMask = {
   world: "world/super-supportive",
   about: "world-item/super-supportive-camouflage-mask",
   secrets: "jsonl",
+  createdAt: "2026-09-28T23:02:52.863Z",
+  updatedAt: "2026-09-28T23:02:57.000Z",
 } as const satisfies Lore

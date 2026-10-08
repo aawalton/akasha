@@ -65,4 +65,6 @@ export const otherwhereIxTaxes = {
       knowers: ["lore-disclosure/game-master"],
     },
   ],
+  createdAt: "2026-09-28T22:49:42.930Z",
+  updatedAt: "2026-09-28T22:49:47.000Z",
 } as const satisfies Lore

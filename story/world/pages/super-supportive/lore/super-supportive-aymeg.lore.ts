@@ -8,4 +8,6 @@ export const superSupportiveAymeg = {
   world: "world/super-supportive",
   about: "character-other/super-supportive-aymeg",
   secrets: "jsonl",
+  createdAt: "2026-09-28T23:00:14.160Z",
+  updatedAt: "2026-09-28T23:00:21.000Z",
 } as const satisfies Lore

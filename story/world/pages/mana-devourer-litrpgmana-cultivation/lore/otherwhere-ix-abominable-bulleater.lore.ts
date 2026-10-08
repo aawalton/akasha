@@ -113,4 +113,6 @@ export const otherwhereIxAbominableBulleater = {
       knowers: ["lore-disclosure/game-master"],
     },
   ],
+  createdAt: "2026-09-28T22:48:45.611Z",
+  updatedAt: "2026-09-28T22:48:53.000Z",
 } as const satisfies Lore

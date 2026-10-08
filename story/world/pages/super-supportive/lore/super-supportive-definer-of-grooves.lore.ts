@@ -8,4 +8,6 @@ export const superSupportiveDefinerOfGrooves = {
   world: "world/super-supportive",
   about: "world-skill/super-supportive-definer-of-grooves",
   secrets: "jsonl",
+  createdAt: "2026-09-28T22:52:25.079Z",
+  updatedAt: "2026-09-28T22:52:34.000Z",
 } as const satisfies Lore

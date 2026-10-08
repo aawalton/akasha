@@ -29,4 +29,6 @@ export const otherwhereIiTitlesAndAchievements = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-28T21:06:17.988Z",
+  updatedAt: "2026-09-28T22:37:21.000Z",
 } as const satisfies Lore

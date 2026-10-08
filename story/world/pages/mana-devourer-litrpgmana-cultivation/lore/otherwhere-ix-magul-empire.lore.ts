@@ -50,4 +50,6 @@ export const otherwhereIxMagulEmpire = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-28T22:58:58.067Z",
+  updatedAt: "2026-09-28T22:59:03.000Z",
 } as const satisfies Lore

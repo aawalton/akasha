@@ -8,4 +8,6 @@ export const superSupportiveGriveck = {
   world: "world/super-supportive",
   about: "world-species/super-supportive-griveck",
   secrets: "jsonl",
+  createdAt: "2026-09-28T21:59:34.620Z",
+  updatedAt: "2026-09-28T21:59:37.000Z",
 } as const satisfies Lore

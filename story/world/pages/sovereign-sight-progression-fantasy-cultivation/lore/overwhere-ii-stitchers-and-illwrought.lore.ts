@@ -164,4 +164,6 @@ export const overwhereIiStitchersAndIllwrought = {
       knowers: ["lore-disclosure/game-master"],
     },
   ],
+  createdAt: "2026-09-29T12:22:58.582Z",
+  updatedAt: "2026-09-29T12:23:01.000Z",
 } as const satisfies Lore

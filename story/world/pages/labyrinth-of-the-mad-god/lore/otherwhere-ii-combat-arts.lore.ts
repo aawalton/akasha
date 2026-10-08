@@ -56,4 +56,6 @@ export const otherwhereIiCombatArts = {
       knowers: ["lore-disclosure/game-master"],
     },
   ],
+  createdAt: "2026-09-28T21:07:30.343Z",
+  updatedAt: "2026-09-28T22:32:31.000Z",
 } as const satisfies Lore

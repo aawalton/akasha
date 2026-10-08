@@ -13,4 +13,6 @@ export const otherwhereIiFangOfTheLavaLord = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-28T21:01:38.317Z",
+  updatedAt: "2026-09-28T22:33:51.000Z",
 } as const satisfies Lore

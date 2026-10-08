@@ -8,4 +8,6 @@ export const deathLoop = {
   world: "world/personas",
   about: "world-mechanic/the-tower-death-loop",
   secrets: "jsonl",
+  createdAt: "2026-09-24T15:49:45.704Z",
+  updatedAt: "2026-09-26T18:13:39.000Z",
 } as const satisfies Lore

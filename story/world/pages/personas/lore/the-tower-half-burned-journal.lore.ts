@@ -25,4 +25,6 @@ export const theTowerHalfBurnedJournal = {
       knowers: ["lore-disclosure/game-master"],
     },
   ],
+  createdAt: "2026-09-24T16:35:46.128Z",
+  updatedAt: "2026-09-26T18:13:39.000Z",
 } as const satisfies Lore

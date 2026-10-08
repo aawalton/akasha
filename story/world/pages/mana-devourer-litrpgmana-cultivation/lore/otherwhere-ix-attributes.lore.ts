@@ -174,4 +174,6 @@ export const otherwhereIxAttributes = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-28T22:53:05.413Z",
+  updatedAt: "2026-09-28T22:53:18.000Z",
 } as const satisfies Lore

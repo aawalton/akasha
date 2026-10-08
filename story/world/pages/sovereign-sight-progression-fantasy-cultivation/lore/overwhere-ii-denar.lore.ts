@@ -53,4 +53,6 @@ export const overwhereIiDenar = {
       knowers: ["lore-disclosure/game-master"],
     },
   ],
+  createdAt: "2026-09-29T12:24:51.132Z",
+  updatedAt: "2026-09-29T12:24:54.000Z",
 } as const satisfies Lore

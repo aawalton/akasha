@@ -56,4 +56,6 @@ export const otherwhereIGolems = {
       ],
     },
   ],
+  createdAt: "2026-09-28T13:20:16.181Z",
+  updatedAt: "2026-09-28T23:02:42.000Z",
 } as const satisfies Lore

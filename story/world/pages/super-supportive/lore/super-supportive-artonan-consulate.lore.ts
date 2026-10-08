@@ -18,4 +18,6 @@ export const superSupportiveArtonanConsulate = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-28T21:44:59.585Z",
+  updatedAt: "2026-09-29T01:48:47.000Z",
 } as const satisfies Lore

@@ -45,4 +45,6 @@ export const otherwhereIiSafeRooms = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-28T20:11:19.563Z",
+  updatedAt: "2026-09-28T22:36:35.000Z",
 } as const satisfies Lore

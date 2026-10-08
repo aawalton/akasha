@@ -29,4 +29,6 @@ export const otherwhereIxOvergrownRat = {
       knowers: ["lore-disclosure/game-master"],
     },
   ],
+  createdAt: "2026-09-28T22:54:24.066Z",
+  updatedAt: "2026-09-28T22:54:30.000Z",
 } as const satisfies Lore

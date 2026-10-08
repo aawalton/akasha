@@ -17,4 +17,6 @@ export const theVioletHourNatalie = {
       knowers: ["lore-disclosure/game-master"],
     },
   ],
+  createdAt: "2026-09-26T15:07:19.847Z",
+  updatedAt: "2026-09-28T12:45:55.000Z",
 } as const satisfies Lore

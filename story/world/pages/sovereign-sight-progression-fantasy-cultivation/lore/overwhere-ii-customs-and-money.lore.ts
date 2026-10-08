@@ -272,4 +272,6 @@ export const overwhereIiCustomsAndMoney = {
       knowers: ["lore-disclosure/game-master"],
     },
   ],
+  createdAt: "2026-09-29T12:26:28.750Z",
+  updatedAt: "2026-09-29T12:26:31.000Z",
 } as const satisfies Lore

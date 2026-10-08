@@ -41,4 +41,6 @@ export const otherwhereIxCalendar = {
       knowers: ["lore-disclosure/game-master"],
     },
   ],
+  createdAt: "2026-09-28T22:54:20.479Z",
+  updatedAt: "2026-09-28T22:54:26.000Z",
 } as const satisfies Lore

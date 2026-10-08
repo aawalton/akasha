@@ -94,4 +94,6 @@ export const otherwhereIxTrimander = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-28T22:50:11.940Z",
+  updatedAt: "2026-09-28T22:50:23.000Z",
 } as const satisfies Lore

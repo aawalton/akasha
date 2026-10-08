@@ -76,4 +76,6 @@ export const saltAndLamplightAgnes = {
       ],
     },
   ],
+  createdAt: "2026-10-02T15:02:00.319Z",
+  updatedAt: "2026-10-02T15:13:17.000Z",
 } as const satisfies Lore

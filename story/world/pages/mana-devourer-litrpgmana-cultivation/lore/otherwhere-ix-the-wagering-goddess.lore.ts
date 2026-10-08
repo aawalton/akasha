@@ -41,4 +41,6 @@ export const otherwhereIxTheWageringGoddess = {
       knowers: ["lore-disclosure/game-master"],
     },
   ],
+  createdAt: "2026-09-28T22:51:03.646Z",
+  updatedAt: "2026-09-28T22:51:08.000Z",
 } as const satisfies Lore

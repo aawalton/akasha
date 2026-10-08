@@ -105,4 +105,6 @@ export const theDatingGameBoulderWoman = {
       knowers: ["lore-disclosure/game-master", "character-player/the-dating-game-alan"],
     },
   ],
+  createdAt: "2026-09-26T16:38:14.647Z",
+  updatedAt: "2026-09-27T13:34:37.000Z",
 } as const satisfies Lore

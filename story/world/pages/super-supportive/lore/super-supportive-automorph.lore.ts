@@ -8,4 +8,6 @@ export const superSupportiveAutomorph = {
   world: "world/super-supportive",
   about: "world-mechanic/super-supportive-automorph",
   secrets: "jsonl",
+  createdAt: "2026-09-28T22:46:31.185Z",
+  updatedAt: "2026-09-28T22:46:34.000Z",
 } as const satisfies Lore

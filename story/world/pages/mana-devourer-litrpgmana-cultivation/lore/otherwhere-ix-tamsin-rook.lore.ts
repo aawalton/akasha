@@ -42,4 +42,6 @@ export const otherwhereIxTamsinRook = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-28T23:01:09.024Z",
+  updatedAt: "2026-09-28T23:01:15.000Z",
 } as const satisfies Lore

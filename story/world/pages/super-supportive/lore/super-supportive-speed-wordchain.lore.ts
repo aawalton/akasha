@@ -8,4 +8,6 @@ export const superSupportiveSpeedWordchain = {
   world: "world/super-supportive",
   about: "world-spell/super-supportive-speed-wordchain",
   secrets: "jsonl",
+  createdAt: "2026-09-28T23:08:29.199Z",
+  updatedAt: "2026-09-28T23:08:32.000Z",
 } as const satisfies Lore

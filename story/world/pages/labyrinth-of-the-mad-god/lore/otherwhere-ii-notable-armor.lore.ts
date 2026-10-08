@@ -77,4 +77,6 @@ export const otherwhereIiNotableArmor = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-28T21:01:38.317Z",
+  updatedAt: "2026-09-28T22:34:49.000Z",
 } as const satisfies Lore

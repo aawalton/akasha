@@ -8,4 +8,6 @@ export const superSupportiveEmpatheticTelepathy = {
   world: "world/super-supportive",
   about: "world-mechanic/super-supportive-empathetic-telepathy",
   secrets: "jsonl",
+  createdAt: "2026-09-28T21:44:59.585Z",
+  updatedAt: "2026-09-28T21:45:03.000Z",
 } as const satisfies Lore

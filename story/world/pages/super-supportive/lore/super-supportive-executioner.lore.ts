@@ -8,4 +8,6 @@ export const superSupportiveExecutioner = {
   world: "world/super-supportive",
   about: "world-title/super-supportive-executioner",
   secrets: "jsonl",
+  createdAt: "2026-09-28T22:58:20.648Z",
+  updatedAt: "2026-09-28T22:58:27.000Z",
 } as const satisfies Lore

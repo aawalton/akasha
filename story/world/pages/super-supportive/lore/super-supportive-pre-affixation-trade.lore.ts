@@ -8,4 +8,6 @@ export const superSupportivePreAffixationTrade = {
   world: "world/super-supportive",
   about: "world-mechanic/super-supportive-pre-affixation-trade",
   secrets: "jsonl",
+  createdAt: "2026-09-28T21:44:59.586Z",
+  updatedAt: "2026-09-28T21:45:03.000Z",
 } as const satisfies Lore

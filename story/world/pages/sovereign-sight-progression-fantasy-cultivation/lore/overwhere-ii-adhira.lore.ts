@@ -181,4 +181,6 @@ export const overwhereIiAdhira = {
       knowers: ["lore-disclosure/game-master"],
     },
   ],
+  createdAt: "2026-09-29T12:22:28.543Z",
+  updatedAt: "2026-09-29T12:22:31.000Z",
 } as const satisfies Lore

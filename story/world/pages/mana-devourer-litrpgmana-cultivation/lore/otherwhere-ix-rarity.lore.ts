@@ -61,4 +61,6 @@ export const otherwhereIxRarity = {
       knowers: ["lore-disclosure/game-master"],
     },
   ],
+  createdAt: "2026-09-28T23:02:12.386Z",
+  updatedAt: "2026-09-28T23:02:15.000Z",
 } as const satisfies Lore

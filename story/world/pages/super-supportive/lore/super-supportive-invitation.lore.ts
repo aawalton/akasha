@@ -8,4 +8,6 @@ export const superSupportiveInvitation = {
   world: "world/super-supportive",
   about: "world-mechanic/super-supportive-invitation",
   secrets: "jsonl",
+  createdAt: "2026-09-28T22:41:19.848Z",
+  updatedAt: "2026-09-28T22:41:22.000Z",
 } as const satisfies Lore

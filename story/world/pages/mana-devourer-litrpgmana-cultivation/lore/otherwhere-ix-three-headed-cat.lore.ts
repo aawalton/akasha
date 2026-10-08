@@ -25,4 +25,6 @@ export const otherwhereIxThreeHeadedCat = {
       knowers: ["lore-disclosure/game-master"],
     },
   ],
+  createdAt: "2026-09-28T22:51:33.117Z",
+  updatedAt: "2026-09-28T22:51:37.000Z",
 } as const satisfies Lore

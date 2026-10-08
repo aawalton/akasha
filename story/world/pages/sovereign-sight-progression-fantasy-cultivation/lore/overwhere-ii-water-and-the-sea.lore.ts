@@ -253,4 +253,6 @@ export const overwhereIiWaterAndTheSea = {
       knowers: ["lore-disclosure/game-master"],
     },
   ],
+  createdAt: "2026-09-29T12:22:07.815Z",
+  updatedAt: "2026-09-29T12:22:10.000Z",
 } as const satisfies Lore

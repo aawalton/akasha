@@ -54,4 +54,6 @@ export const otherwhereIxDivineArms = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-28T22:55:28.750Z",
+  updatedAt: "2026-09-28T22:55:32.000Z",
 } as const satisfies Lore

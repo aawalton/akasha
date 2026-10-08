@@ -225,4 +225,6 @@ export const overwhereIiLadyImreVarrow = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-29T12:25:02.808Z",
+  updatedAt: "2026-10-03T01:28:51.000Z",
 } as const satisfies Lore

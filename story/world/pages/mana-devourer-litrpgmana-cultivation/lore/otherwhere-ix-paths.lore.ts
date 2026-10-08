@@ -257,4 +257,6 @@ export const otherwhereIxPaths = {
       knowers: ["lore-disclosure/game-master"],
     },
   ],
+  createdAt: "2026-09-28T22:58:46.794Z",
+  updatedAt: "2026-09-28T22:58:51.000Z",
 } as const satisfies Lore

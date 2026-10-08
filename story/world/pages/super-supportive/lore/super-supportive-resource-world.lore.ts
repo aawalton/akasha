@@ -18,4 +18,6 @@ export const superSupportiveResourceWorld = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-28T21:52:21.348Z",
+  updatedAt: "2026-09-29T03:22:49.000Z",
 } as const satisfies Lore

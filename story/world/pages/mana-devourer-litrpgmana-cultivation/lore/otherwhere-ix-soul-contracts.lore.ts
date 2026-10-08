@@ -198,4 +198,6 @@ export const otherwhereIxSoulContracts = {
       knowers: ["lore-disclosure/game-master"],
     },
   ],
+  createdAt: "2026-09-28T22:52:03.617Z",
+  updatedAt: "2026-09-28T22:52:09.000Z",
 } as const satisfies Lore

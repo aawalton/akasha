@@ -22,4 +22,6 @@ export const superSupportiveDeclared = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-28T22:50:41.925Z",
+  updatedAt: "2026-09-29T01:28:49.000Z",
 } as const satisfies Lore

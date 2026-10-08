@@ -85,4 +85,6 @@ export const otherwhereIxWorship = {
       knowers: ["lore-disclosure/game-master"],
     },
   ],
+  createdAt: "2026-09-28T22:59:43.096Z",
+  updatedAt: "2026-09-28T22:59:52.000Z",
 } as const satisfies Lore

@@ -8,4 +8,6 @@ export const superSupportiveMataderoSecrecyTattoo = {
   world: "world/super-supportive",
   about: "world-mechanic/super-supportive-matadero-secrecy-tattoo",
   secrets: "jsonl",
+  createdAt: "2026-09-28T23:11:25.865Z",
+  updatedAt: "2026-09-28T23:11:29.000Z",
 } as const satisfies Lore

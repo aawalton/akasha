@@ -8,4 +8,6 @@ export const superSupportiveChainerLedger = {
   world: "world/super-supportive",
   about: "world-item/super-supportive-chainer-ledger",
   secrets: "jsonl",
+  createdAt: "2026-09-28T22:22:20.377Z",
+  updatedAt: "2026-09-28T22:22:23.000Z",
 } as const satisfies Lore

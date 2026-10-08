@@ -133,4 +133,6 @@ export const otherwhereIxCoreSlots = {
       knowers: ["lore-disclosure/game-master"],
     },
   ],
+  createdAt: "2026-09-28T23:02:24.999Z",
+  updatedAt: "2026-09-28T23:02:30.000Z",
 } as const satisfies Lore

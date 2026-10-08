@@ -7,4 +7,6 @@ export const superSupportiveEventMataderoAttack = {
   title: "The attack on Matadero",
   world: "world/super-supportive",
   secrets: "jsonl",
+  createdAt: "2026-09-28T22:30:11.788Z",
+  updatedAt: "2026-09-28T22:30:30.000Z",
 } as const satisfies Lore

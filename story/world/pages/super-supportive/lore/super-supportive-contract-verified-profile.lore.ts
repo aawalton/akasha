@@ -8,4 +8,6 @@ export const superSupportiveContractVerifiedProfile = {
   world: "world/super-supportive",
   about: "world-mechanic/super-supportive-contract-verified-profile",
   secrets: "jsonl",
+  createdAt: "2026-09-28T22:08:24.901Z",
+  updatedAt: "2026-09-28T22:08:28.000Z",
 } as const satisfies Lore

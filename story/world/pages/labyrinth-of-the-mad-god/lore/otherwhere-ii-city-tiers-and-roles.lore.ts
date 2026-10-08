@@ -73,4 +73,6 @@ export const otherwhereIiCityTiersAndRoles = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-28T21:10:14.690Z",
+  updatedAt: "2026-09-28T22:30:51.000Z",
 } as const satisfies Lore

@@ -37,4 +37,6 @@ export const otherwhereIiTaltos = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-28T20:12:25.635Z",
+  updatedAt: "2026-09-28T22:37:21.000Z",
 } as const satisfies Lore

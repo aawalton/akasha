@@ -238,4 +238,6 @@ export const otherwhereIxFaith = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-28T23:04:31.677Z",
+  updatedAt: "2026-09-28T23:04:35.000Z",
 } as const satisfies Lore

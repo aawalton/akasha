@@ -13,4 +13,6 @@ export const theTowerSilverWhistle = {
       knowers: ["lore-disclosure/game-master"],
     },
   ],
+  createdAt: "2026-09-24T16:33:30.733Z",
+  updatedAt: "2026-09-26T18:13:39.000Z",
 } as const satisfies Lore

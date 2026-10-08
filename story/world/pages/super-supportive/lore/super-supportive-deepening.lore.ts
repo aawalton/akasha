@@ -8,4 +8,6 @@ export const superSupportiveDeepening = {
   world: "world/super-supportive",
   about: "world-mechanic/super-supportive-deepening",
   secrets: "jsonl",
+  createdAt: "2026-09-28T22:54:11.311Z",
+  updatedAt: "2026-09-28T22:54:15.000Z",
 } as const satisfies Lore

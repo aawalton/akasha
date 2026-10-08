@@ -294,4 +294,6 @@ export const overwhereIiConstructsAndCounters = {
       knowers: ["lore-disclosure/game-master"],
     },
   ],
+  createdAt: "2026-09-29T12:29:21.757Z",
+  updatedAt: "2026-09-29T12:29:24.000Z",
 } as const satisfies Lore

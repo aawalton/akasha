@@ -8,4 +8,6 @@ export const superSupportiveRyehBtAnimal = {
   world: "world/super-supportive",
   about: "world-species/super-supportive-ryeh-bt-animal",
   secrets: "jsonl",
+  createdAt: "2026-09-28T21:54:27.215Z",
+  updatedAt: "2026-09-28T21:54:30.000Z",
 } as const satisfies Lore

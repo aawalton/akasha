@@ -316,4 +316,6 @@ export const overwhereIiHarkerShoalborn = {
       knowers: ["lore-disclosure/game-master"],
     },
   ],
+  createdAt: "2026-09-29T12:21:34.530Z",
+  updatedAt: "2026-09-29T12:44:04.000Z",
 } as const satisfies Lore

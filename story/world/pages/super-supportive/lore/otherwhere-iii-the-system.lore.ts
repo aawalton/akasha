@@ -85,4 +85,6 @@ export const otherwhereIiiTheSystem = {
       ],
     },
   ],
+  createdAt: "2026-09-28T21:19:18.607Z",
+  updatedAt: "2026-09-29T03:18:12.000Z",
 } as const satisfies Lore

@@ -156,4 +156,6 @@ export const dragonsAndDungeonsMari = {
       ],
     },
   ],
+  createdAt: "2026-09-27T16:01:57.840Z",
+  updatedAt: "2026-09-27T16:18:14.000Z",
 } as const satisfies Lore

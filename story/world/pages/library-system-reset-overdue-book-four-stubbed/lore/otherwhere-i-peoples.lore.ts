@@ -48,4 +48,6 @@ export const otherwhereIPeoples = {
       ],
     },
   ],
+  createdAt: "2026-09-28T18:33:00.729Z",
+  updatedAt: "2026-09-28T23:02:42.000Z",
 } as const satisfies Lore

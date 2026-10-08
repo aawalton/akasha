@@ -7,4 +7,6 @@ export const superSupportiveEventBreakingOfTheBorWand = {
   title: "The breaking of the bor wand",
   world: "world/super-supportive",
   secrets: "jsonl",
+  createdAt: "2026-09-28T22:58:20.647Z",
+  updatedAt: "2026-09-28T22:58:27.000Z",
 } as const satisfies Lore

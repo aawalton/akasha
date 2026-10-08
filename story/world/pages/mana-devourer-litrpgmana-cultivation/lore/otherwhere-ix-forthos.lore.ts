@@ -25,4 +25,6 @@ export const otherwhereIxForthos = {
       knowers: ["lore-disclosure/game-master"],
     },
   ],
+  createdAt: "2026-09-28T22:53:29.502Z",
+  updatedAt: "2026-09-28T22:53:43.000Z",
 } as const satisfies Lore

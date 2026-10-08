@@ -13,4 +13,6 @@ export const otherwhereIiSpectacle = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-28T20:47:55.775Z",
+  updatedAt: "2026-09-28T22:37:21.000Z",
 } as const satisfies Lore

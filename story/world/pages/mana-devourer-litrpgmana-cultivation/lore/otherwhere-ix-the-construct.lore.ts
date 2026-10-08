@@ -42,4 +42,6 @@ export const otherwhereIxTheConstruct = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-28T22:54:24.373Z",
+  updatedAt: "2026-09-28T22:54:31.000Z",
 } as const satisfies Lore

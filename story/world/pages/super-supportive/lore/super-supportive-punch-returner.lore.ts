@@ -8,4 +8,6 @@ export const superSupportivePunchReturner = {
   world: "world/super-supportive",
   about: "world-item/super-supportive-punch-returner",
   secrets: "jsonl",
+  createdAt: "2026-09-28T22:52:25.081Z",
+  updatedAt: "2026-09-28T22:52:34.000Z",
 } as const satisfies Lore

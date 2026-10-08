@@ -8,4 +8,6 @@ export const superSupportiveGuestRight = {
   world: "world/super-supportive",
   about: "world-mechanic/super-supportive-guest-right",
   secrets: "jsonl",
+  createdAt: "2026-09-28T22:41:19.848Z",
+  updatedAt: "2026-09-28T22:41:22.000Z",
 } as const satisfies Lore

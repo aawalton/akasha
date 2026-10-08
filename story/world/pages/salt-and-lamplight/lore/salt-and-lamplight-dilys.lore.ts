@@ -75,4 +75,6 @@ export const saltAndLamplightDilys = {
       ],
     },
   ],
+  createdAt: "2026-10-02T15:02:00.320Z",
+  updatedAt: "2026-10-02T15:13:17.000Z",
 } as const satisfies Lore

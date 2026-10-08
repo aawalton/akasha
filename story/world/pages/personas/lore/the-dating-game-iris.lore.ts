@@ -14,4 +14,6 @@ export const theDatingGameIris = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-26T15:33:28.261Z",
+  updatedAt: "2026-10-03T20:17:17.000Z",
 } as const satisfies Lore

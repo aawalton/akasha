@@ -8,4 +8,6 @@ export const superSupportiveForceOfTheBody = {
   world: "world/super-supportive",
   about: "world-spell/super-supportive-force-of-the-body",
   secrets: "jsonl",
+  createdAt: "2026-09-28T22:26:52.774Z",
+  updatedAt: "2026-09-28T22:27:03.000Z",
 } as const satisfies Lore

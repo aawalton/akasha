@@ -112,4 +112,6 @@ export const otherwhereIiSkillCatalog = {
       knowers: ["lore-disclosure/game-master"],
     },
   ],
+  createdAt: "2026-09-28T21:06:17.987Z",
+  updatedAt: "2026-09-28T22:37:21.000Z",
 } as const satisfies Lore

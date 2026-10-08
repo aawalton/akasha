@@ -90,4 +90,6 @@ export const otherwhereIxHellhound = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-28T22:49:29.611Z",
+  updatedAt: "2026-09-28T22:49:35.000Z",
 } as const satisfies Lore

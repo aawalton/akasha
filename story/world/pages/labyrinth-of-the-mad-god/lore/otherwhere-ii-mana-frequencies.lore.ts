@@ -72,4 +72,6 @@ export const otherwhereIiManaFrequencies = {
       knowers: ["lore-disclosure/game-master"],
     },
   ],
+  createdAt: "2026-09-28T21:08:37.824Z",
+  updatedAt: "2026-09-28T22:34:49.000Z",
 } as const satisfies Lore

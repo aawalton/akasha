@@ -37,4 +37,6 @@ export const otherwhereIiRita = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-28T20:55:38.470Z",
+  updatedAt: "2026-09-28T22:36:35.000Z",
 } as const satisfies Lore

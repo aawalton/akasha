@@ -162,4 +162,6 @@ export const dragonsAndDungeonsTheStillOne = {
       ],
     },
   ],
+  createdAt: "2026-09-27T16:01:57.840Z",
+  updatedAt: "2026-09-27T16:16:56.000Z",
 } as const satisfies Lore

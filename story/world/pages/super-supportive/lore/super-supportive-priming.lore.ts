@@ -8,4 +8,6 @@ export const superSupportivePriming = {
   world: "world/super-supportive",
   about: "world-mechanic/super-supportive-priming",
   secrets: "jsonl",
+  createdAt: "2026-09-28T23:04:52.791Z",
+  updatedAt: "2026-09-28T23:04:56.000Z",
 } as const satisfies Lore

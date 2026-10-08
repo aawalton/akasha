@@ -8,4 +8,6 @@ export const superSupportiveSensoryGum = {
   world: "world/super-supportive",
   about: "world-item/super-supportive-sensory-gum",
   secrets: "jsonl",
+  createdAt: "2026-09-28T22:01:25.111Z",
+  updatedAt: "2026-09-28T22:01:27.000Z",
 } as const satisfies Lore

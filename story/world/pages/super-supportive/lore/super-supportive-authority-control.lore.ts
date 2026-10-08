@@ -8,4 +8,6 @@ export const superSupportiveAuthorityControl = {
   world: "world/super-supportive",
   about: "world-mechanic/super-supportive-authority-control",
   secrets: "jsonl",
+  createdAt: "2026-09-28T22:04:04.496Z",
+  updatedAt: "2026-09-28T22:04:07.000Z",
 } as const satisfies Lore

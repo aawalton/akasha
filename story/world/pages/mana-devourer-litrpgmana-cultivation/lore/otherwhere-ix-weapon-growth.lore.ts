@@ -337,4 +337,6 @@ export const otherwhereIxWeaponGrowth = {
       knowers: ["lore-disclosure/game-master"],
     },
   ],
+  createdAt: "2026-09-28T22:59:30.571Z",
+  updatedAt: "2026-09-28T22:59:42.000Z",
 } as const satisfies Lore

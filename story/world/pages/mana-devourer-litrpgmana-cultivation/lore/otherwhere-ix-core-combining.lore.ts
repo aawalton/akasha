@@ -101,4 +101,6 @@ export const otherwhereIxCoreCombining = {
       knowers: ["lore-disclosure/game-master"],
     },
   ],
+  createdAt: "2026-09-28T23:03:26.608Z",
+  updatedAt: "2026-09-28T23:03:31.000Z",
 } as const satisfies Lore

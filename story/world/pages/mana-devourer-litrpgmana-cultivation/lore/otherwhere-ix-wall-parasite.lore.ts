@@ -78,4 +78,6 @@ export const otherwhereIxWallParasite = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-28T22:52:16.264Z",
+  updatedAt: "2026-09-28T22:52:24.000Z",
 } as const satisfies Lore

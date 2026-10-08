@@ -42,4 +42,6 @@ export const otherwhereIxBessaHobb = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-28T23:01:09.023Z",
+  updatedAt: "2026-09-28T23:01:15.000Z",
 } as const satisfies Lore

@@ -8,4 +8,6 @@ export const superSupportiveBounceRepeater = {
   world: "world/super-supportive",
   about: "world-skill/super-supportive-bounce-repeater",
   secrets: "jsonl",
+  createdAt: "2026-09-28T23:02:52.862Z",
+  updatedAt: "2026-09-28T23:02:57.000Z",
 } as const satisfies Lore

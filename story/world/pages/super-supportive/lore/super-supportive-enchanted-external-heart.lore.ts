@@ -8,4 +8,6 @@ export const superSupportiveEnchantedExternalHeart = {
   world: "world/super-supportive",
   about: "world-item/super-supportive-enchanted-external-heart",
   secrets: "jsonl",
+  createdAt: "2026-09-28T23:01:41.291Z",
+  updatedAt: "2026-09-28T23:01:45.000Z",
 } as const satisfies Lore

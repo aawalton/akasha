@@ -8,4 +8,6 @@ export const superSupportiveArtonan = {
   world: "world/super-supportive",
   about: "world-species/super-supportive-artonan",
   secrets: "jsonl",
+  createdAt: "2026-09-28T21:43:25.566Z",
+  updatedAt: "2026-09-28T21:43:28.000Z",
 } as const satisfies Lore

@@ -234,4 +234,6 @@ export const theDatingGameAelwyn = {
       ],
     },
   ],
+  createdAt: "2026-09-26T15:33:57.447Z",
+  updatedAt: "2026-09-28T13:42:31.000Z",
 } as const satisfies Lore

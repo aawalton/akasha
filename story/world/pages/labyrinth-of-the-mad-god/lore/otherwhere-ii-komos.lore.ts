@@ -24,4 +24,6 @@ export const otherwhereIiKomos = {
       knowers: ["lore-disclosure/game-master"],
     },
   ],
+  createdAt: "2026-09-28T20:41:44.115Z",
+  updatedAt: "2026-09-28T22:34:49.000Z",
 } as const satisfies Lore

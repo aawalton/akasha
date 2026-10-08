@@ -101,4 +101,6 @@ export const otherwhereIxManaTransfer = {
       knowers: ["lore-disclosure/game-master"],
     },
   ],
+  createdAt: "2026-09-28T22:53:32.399Z",
+  updatedAt: "2026-09-28T22:53:47.000Z",
 } as const satisfies Lore

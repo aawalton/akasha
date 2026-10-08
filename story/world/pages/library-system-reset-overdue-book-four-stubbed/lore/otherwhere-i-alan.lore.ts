@@ -206,4 +206,6 @@ export const otherwhereIAlan = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-27T14:42:35.649Z",
+  updatedAt: "2026-09-28T23:02:42.000Z",
 } as const satisfies Lore

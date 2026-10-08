@@ -37,4 +37,6 @@ export const otherwhereIxEnchantedGreaves = {
       knowers: ["lore-disclosure/game-master"],
     },
   ],
+  createdAt: "2026-09-28T23:03:59.160Z",
+  updatedAt: "2026-09-28T23:04:02.000Z",
 } as const satisfies Lore

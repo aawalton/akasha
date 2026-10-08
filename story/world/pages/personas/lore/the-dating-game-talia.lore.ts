@@ -62,4 +62,6 @@ export const theDatingGameTalia = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-26T15:33:28.262Z",
+  updatedAt: "2026-09-28T14:07:44.000Z",
 } as const satisfies Lore

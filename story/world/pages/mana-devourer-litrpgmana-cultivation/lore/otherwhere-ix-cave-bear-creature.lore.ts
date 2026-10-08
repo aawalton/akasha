@@ -41,4 +41,6 @@ export const otherwhereIxCaveBearCreature = {
       knowers: ["lore-disclosure/game-master"],
     },
   ],
+  createdAt: "2026-09-28T22:53:40.121Z",
+  updatedAt: "2026-09-28T22:53:53.000Z",
 } as const satisfies Lore

@@ -8,4 +8,6 @@ export const superSupportiveHazardMimic = {
   world: "world/super-supportive",
   about: "world-item/super-supportive-hazard-mimic",
   secrets: "jsonl",
+  createdAt: "2026-09-28T22:50:41.925Z",
+  updatedAt: "2026-09-28T22:50:47.000Z",
 } as const satisfies Lore

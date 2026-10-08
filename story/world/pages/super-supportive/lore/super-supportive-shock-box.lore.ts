@@ -8,4 +8,6 @@ export const superSupportiveShockBox = {
   world: "world/super-supportive",
   about: "world-spell/super-supportive-shock-box",
   secrets: "jsonl",
+  createdAt: "2026-09-28T22:48:10.189Z",
+  updatedAt: "2026-09-28T22:48:16.000Z",
 } as const satisfies Lore

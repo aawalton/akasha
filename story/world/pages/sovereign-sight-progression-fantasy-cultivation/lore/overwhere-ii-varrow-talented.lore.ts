@@ -188,4 +188,6 @@ export const overwhereIiVarrowTalented = {
       knowers: ["lore-disclosure/game-master"],
     },
   ],
+  createdAt: "2026-10-02T23:40:33.733Z",
+  updatedAt: "2026-10-03T13:14:38.000Z",
 } as const satisfies Lore

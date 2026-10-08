@@ -162,4 +162,6 @@ export const otherwhereIxIntegration = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-28T22:50:28.766Z",
+  updatedAt: "2026-09-28T22:50:35.000Z",
 } as const satisfies Lore

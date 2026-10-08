@@ -8,4 +8,6 @@ export const superSupportiveRankClubs = {
   world: "world/super-supportive",
   about: "world-organization/super-supportive-rank-clubs",
   secrets: "jsonl",
+  createdAt: "2026-09-28T22:15:04.689Z",
+  updatedAt: "2026-09-28T22:15:08.000Z",
 } as const satisfies Lore

@@ -7,4 +7,6 @@ export const superSupportiveEventThegundCorruptionIncident = {
   title: "The Moon Thegund corruption incident",
   world: "world/super-supportive",
   secrets: "jsonl",
+  createdAt: "2026-09-28T22:04:04.497Z",
+  updatedAt: "2026-09-28T22:04:07.000Z",
 } as const satisfies Lore

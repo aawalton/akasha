@@ -8,4 +8,6 @@ export const theDatingGameRuby = {
   world: "world/personas",
   about: "persona/ruby",
   secrets: "jsonl",
+  createdAt: "2026-09-26T15:35:18.018Z",
+  updatedAt: "2026-09-26T18:13:39.000Z",
 } as const satisfies Lore

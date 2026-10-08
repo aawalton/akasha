@@ -57,4 +57,6 @@ export const overwhereIiMiriamGale = {
       knowers: ["lore-disclosure/game-master"],
     },
   ],
+  createdAt: "2026-09-29T12:24:51.133Z",
+  updatedAt: "2026-09-29T12:44:07.000Z",
 } as const satisfies Lore

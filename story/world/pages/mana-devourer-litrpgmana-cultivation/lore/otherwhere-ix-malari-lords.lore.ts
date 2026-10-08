@@ -42,4 +42,6 @@ export const otherwhereIxMalariLords = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-28T22:58:39.823Z",
+  updatedAt: "2026-09-28T22:58:44.000Z",
 } as const satisfies Lore

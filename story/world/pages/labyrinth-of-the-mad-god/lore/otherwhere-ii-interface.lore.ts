@@ -108,4 +108,6 @@ export const otherwhereIiInterface = {
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-ii-nala"],
     },
   ],
+  createdAt: "2026-09-28T20:11:19.562Z",
+  updatedAt: "2026-09-28T22:39:25.000Z",
 } as const satisfies Lore

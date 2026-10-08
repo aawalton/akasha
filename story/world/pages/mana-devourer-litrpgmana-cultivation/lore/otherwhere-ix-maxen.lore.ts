@@ -62,4 +62,6 @@ export const otherwhereIxMaxen = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-28T22:47:33.485Z",
+  updatedAt: "2026-09-28T22:47:47.000Z",
 } as const satisfies Lore

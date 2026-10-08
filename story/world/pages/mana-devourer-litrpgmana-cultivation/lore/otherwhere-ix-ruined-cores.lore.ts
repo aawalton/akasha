@@ -46,4 +46,6 @@ export const otherwhereIxRuinedCores = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-28T23:03:26.610Z",
+  updatedAt: "2026-09-28T23:03:31.000Z",
 } as const satisfies Lore

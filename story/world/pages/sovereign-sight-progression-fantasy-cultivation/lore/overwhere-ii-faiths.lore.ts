@@ -172,4 +172,6 @@ export const overwhereIiFaiths = {
       knowers: ["lore-disclosure/game-master"],
     },
   ],
+  createdAt: "2026-09-29T12:25:14.823Z",
+  updatedAt: "2026-09-29T12:25:17.000Z",
 } as const satisfies Lore

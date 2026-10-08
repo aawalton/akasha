@@ -8,4 +8,6 @@ export const superSupportiveHomeRitual = {
   world: "world/super-supportive",
   about: "world-spell/super-supportive-home-ritual",
   secrets: "jsonl",
+  createdAt: "2026-09-28T22:58:20.659Z",
+  updatedAt: "2026-09-28T22:58:27.000Z",
 } as const satisfies Lore

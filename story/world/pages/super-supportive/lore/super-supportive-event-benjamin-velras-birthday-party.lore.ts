@@ -7,4 +7,6 @@ export const superSupportiveEventBenjaminVelrasBirthdayParty = {
   title: "Benjamin Velra's seventieth birthday party",
   world: "world/super-supportive",
   secrets: "jsonl",
+  createdAt: "2026-09-28T22:26:52.772Z",
+  updatedAt: "2026-09-28T22:27:03.000Z",
 } as const satisfies Lore

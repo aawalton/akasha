@@ -8,4 +8,6 @@ export const superSupportivePreferredName = {
   world: "world/super-supportive",
   about: "world-mechanic/super-supportive-preferred-name",
   secrets: "jsonl",
+  createdAt: "2026-09-28T22:22:20.378Z",
+  updatedAt: "2026-09-28T22:22:23.000Z",
 } as const satisfies Lore

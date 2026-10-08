@@ -157,4 +157,6 @@ export const dragonsAndDungeonsTheChainMakers = {
       ],
     },
   ],
+  createdAt: "2026-09-27T16:01:57.840Z",
+  updatedAt: "2026-09-27T16:17:31.000Z",
 } as const satisfies Lore

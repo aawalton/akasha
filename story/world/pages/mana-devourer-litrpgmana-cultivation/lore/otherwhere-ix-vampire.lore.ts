@@ -29,4 +29,6 @@ export const otherwhereIxVampire = {
       knowers: ["lore-disclosure/game-master"],
     },
   ],
+  createdAt: "2026-09-28T22:51:24.416Z",
+  updatedAt: "2026-09-28T22:51:29.000Z",
 } as const satisfies Lore

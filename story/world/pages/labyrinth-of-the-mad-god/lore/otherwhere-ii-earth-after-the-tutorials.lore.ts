@@ -69,4 +69,6 @@ export const otherwhereIiEarthAfterTheTutorials = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-28T20:49:27.865Z",
+  updatedAt: "2026-09-28T22:28:51.000Z",
 } as const satisfies Lore

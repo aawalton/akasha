@@ -69,4 +69,6 @@ export const otherwhereIxDivineServants = {
       knowers: ["lore-disclosure/game-master"],
     },
   ],
+  createdAt: "2026-09-28T22:56:56.680Z",
+  updatedAt: "2026-09-28T22:57:03.000Z",
 } as const satisfies Lore

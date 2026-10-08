@@ -8,4 +8,6 @@ export const superSupportiveDetectorFlashlight = {
   world: "world/super-supportive",
   about: "world-item/super-supportive-detector-flashlight",
   secrets: "jsonl",
+  createdAt: "2026-09-28T22:30:11.779Z",
+  updatedAt: "2026-09-28T22:30:30.000Z",
 } as const satisfies Lore

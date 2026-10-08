@@ -120,4 +120,6 @@ export const dragonsAndDungeonsTheMap = {
       ],
     },
   ],
+  createdAt: "2026-09-27T16:01:57.840Z",
+  updatedAt: "2026-09-27T16:17:12.000Z",
 } as const satisfies Lore

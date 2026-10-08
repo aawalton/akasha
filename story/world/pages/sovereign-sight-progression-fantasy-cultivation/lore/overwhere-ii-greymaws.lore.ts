@@ -280,4 +280,6 @@ export const overwhereIiGreymaws = {
       knowers: ["lore-disclosure/game-master"],
     },
   ],
+  createdAt: "2026-09-29T12:25:02.807Z",
+  updatedAt: "2026-10-03T12:32:30.000Z",
 } as const satisfies Lore

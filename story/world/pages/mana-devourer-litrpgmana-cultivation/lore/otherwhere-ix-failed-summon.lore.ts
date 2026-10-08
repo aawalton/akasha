@@ -34,4 +34,6 @@ export const otherwhereIxFailedSummon = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-28T22:52:39.669Z",
+  updatedAt: "2026-09-28T22:52:47.000Z",
 } as const satisfies Lore

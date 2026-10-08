@@ -8,4 +8,6 @@ export const superSupportiveFiveLeafFan = {
   world: "world/super-supportive",
   about: "world-item/super-supportive-five-leaf-fan",
   secrets: "jsonl",
+  createdAt: "2026-09-28T23:11:25.865Z",
+  updatedAt: "2026-09-28T23:11:29.000Z",
 } as const satisfies Lore

@@ -52,4 +52,6 @@ export const otherwhereIiStorage = {
       knowers: ["lore-disclosure/game-master"],
     },
   ],
+  createdAt: "2026-09-28T21:02:43.504Z",
+  updatedAt: "2026-09-28T22:37:21.000Z",
 } as const satisfies Lore

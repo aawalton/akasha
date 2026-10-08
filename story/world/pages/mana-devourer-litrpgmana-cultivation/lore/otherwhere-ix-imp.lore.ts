@@ -102,4 +102,6 @@ export const otherwhereIxImp = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-28T22:50:22.547Z",
+  updatedAt: "2026-09-28T22:50:29.000Z",
 } as const satisfies Lore

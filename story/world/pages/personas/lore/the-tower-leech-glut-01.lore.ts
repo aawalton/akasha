@@ -13,4 +13,6 @@ export const theTowerLeechGlut01 = {
       knowers: ["lore-disclosure/game-master"],
     },
   ],
+  createdAt: "2026-09-24T16:45:10.752Z",
+  updatedAt: "2026-09-26T18:13:39.000Z",
 } as const satisfies Lore

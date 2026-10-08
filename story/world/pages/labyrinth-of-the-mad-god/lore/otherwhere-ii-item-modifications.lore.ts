@@ -92,4 +92,6 @@ export const otherwhereIiItemModifications = {
       knowers: ["lore-disclosure/game-master"],
     },
   ],
+  createdAt: "2026-09-28T20:59:27.062Z",
+  updatedAt: "2026-09-28T22:33:51.000Z",
 } as const satisfies Lore

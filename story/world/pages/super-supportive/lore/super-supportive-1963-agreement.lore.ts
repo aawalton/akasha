@@ -26,4 +26,6 @@ export const superSupportive1963Agreement = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-28T21:52:21.345Z",
+  updatedAt: "2026-09-29T02:00:52.000Z",
 } as const satisfies Lore

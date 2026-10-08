@@ -157,4 +157,6 @@ export const otherwhereIxStatusEffects = {
       knowers: ["lore-disclosure/game-master"],
     },
   ],
+  createdAt: "2026-09-28T23:06:31.597Z",
+  updatedAt: "2026-09-28T23:06:35.000Z",
 } as const satisfies Lore

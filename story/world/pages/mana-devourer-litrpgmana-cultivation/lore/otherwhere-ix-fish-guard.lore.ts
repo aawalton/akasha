@@ -29,4 +29,6 @@ export const otherwhereIxFishGuard = {
       knowers: ["lore-disclosure/game-master"],
     },
   ],
+  createdAt: "2026-09-28T23:01:36.371Z",
+  updatedAt: "2026-09-28T23:01:39.000Z",
 } as const satisfies Lore

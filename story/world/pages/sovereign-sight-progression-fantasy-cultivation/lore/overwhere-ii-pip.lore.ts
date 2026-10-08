@@ -44,4 +44,6 @@ export const overwhereIiPip = {
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
   ],
+  createdAt: "2026-10-02T18:11:24.509Z",
+  updatedAt: "2026-10-02T18:35:46.000Z",
 } as const satisfies Lore

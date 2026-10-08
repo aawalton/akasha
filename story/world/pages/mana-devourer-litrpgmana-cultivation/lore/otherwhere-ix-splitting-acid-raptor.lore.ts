@@ -77,4 +77,6 @@ export const otherwhereIxSplittingAcidRaptor = {
       knowers: ["lore-disclosure/game-master"],
     },
   ],
+  createdAt: "2026-09-28T22:48:37.588Z",
+  updatedAt: "2026-09-28T22:48:47.000Z",
 } as const satisfies Lore

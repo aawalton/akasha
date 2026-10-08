@@ -35,4 +35,6 @@ export const dragonsAndDungeonsCeri = {
       ],
     },
   ],
+  createdAt: "2026-09-27T16:01:57.839Z",
+  updatedAt: "2026-09-27T16:02:00.000Z",
 } as const satisfies Lore

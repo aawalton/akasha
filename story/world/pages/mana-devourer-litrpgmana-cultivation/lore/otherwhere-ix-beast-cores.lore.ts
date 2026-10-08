@@ -161,4 +161,6 @@ export const otherwhereIxBeastCores = {
       knowers: ["lore-disclosure/game-master"],
     },
   ],
+  createdAt: "2026-09-28T23:02:24.997Z",
+  updatedAt: "2026-09-29T02:22:39.000Z",
 } as const satisfies Lore

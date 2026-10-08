@@ -116,4 +116,6 @@ export const overwhereIiStillwater = {
       knowers: ["lore-disclosure/game-master"],
     },
   ],
+  createdAt: "2026-09-29T12:23:17.987Z",
+  updatedAt: "2026-09-29T12:23:20.000Z",
 } as const satisfies Lore

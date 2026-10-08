@@ -8,4 +8,6 @@ export const superSupportiveIntake = {
   world: "world/super-supportive",
   about: "world-mechanic/super-supportive-intake",
   secrets: "jsonl",
+  createdAt: "2026-09-28T22:08:24.902Z",
+  updatedAt: "2026-09-28T22:08:28.000Z",
 } as const satisfies Lore

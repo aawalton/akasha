@@ -34,4 +34,6 @@ export const otherwhereIxRingOfControl = {
       knowers: ["lore-disclosure/game-master"],
     },
   ],
+  createdAt: "2026-09-28T23:02:36.246Z",
+  updatedAt: "2026-09-28T23:02:39.000Z",
 } as const satisfies Lore

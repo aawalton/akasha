@@ -158,4 +158,6 @@ export const otherwhereIxManaManipulators = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-28T22:55:03.989Z",
+  updatedAt: "2026-09-28T22:55:09.000Z",
 } as const satisfies Lore

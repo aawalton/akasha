@@ -185,4 +185,6 @@ export const overwhereIiOswyCrake = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-29T12:25:02.809Z",
+  updatedAt: "2026-10-03T20:16:54.000Z",
 } as const satisfies Lore

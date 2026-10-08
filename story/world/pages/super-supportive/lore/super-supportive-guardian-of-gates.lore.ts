@@ -8,4 +8,6 @@ export const superSupportiveGuardianOfGates = {
   world: "world/super-supportive",
   about: "world-skill/super-supportive-guardian-of-gates",
   secrets: "jsonl",
+  createdAt: "2026-09-28T23:04:52.791Z",
+  updatedAt: "2026-09-28T23:04:56.000Z",
 } as const satisfies Lore

@@ -105,4 +105,6 @@ export const otherwhereIxBengai = {
       knowers: ["lore-disclosure/game-master"],
     },
   ],
+  createdAt: "2026-09-28T22:46:53.948Z",
+  updatedAt: "2026-09-28T22:47:00.000Z",
 } as const satisfies Lore

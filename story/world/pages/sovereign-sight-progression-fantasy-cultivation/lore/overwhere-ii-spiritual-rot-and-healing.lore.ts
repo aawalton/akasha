@@ -338,4 +338,6 @@ export const overwhereIiSpiritualRotAndHealing = {
       knowers: ["lore-disclosure/game-master"],
     },
   ],
+  createdAt: "2026-09-29T12:24:16.040Z",
+  updatedAt: "2026-09-30T09:49:30.000Z",
 } as const satisfies Lore

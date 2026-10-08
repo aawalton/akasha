@@ -8,4 +8,6 @@ export const superSupportiveAlliedHeroesOfEarth = {
   world: "world/super-supportive",
   about: "world-organization/super-supportive-allied-heroes-of-earth",
   secrets: "jsonl",
+  createdAt: "2026-09-28T21:44:59.584Z",
+  updatedAt: "2026-09-28T21:45:03.000Z",
 } as const satisfies Lore

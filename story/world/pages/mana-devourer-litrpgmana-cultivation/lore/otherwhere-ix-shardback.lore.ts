@@ -317,4 +317,6 @@ export const otherwhereIxShardback = {
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-ix-nala"],
     },
   ],
+  createdAt: "2026-09-28T22:47:18.926Z",
+  updatedAt: "2026-09-29T04:08:13.000Z",
 } as const satisfies Lore

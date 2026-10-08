@@ -20,4 +20,6 @@ export const otherwhereIiRiverKing = {
       knowers: ["lore-disclosure/game-master"],
     },
   ],
+  createdAt: "2026-09-28T20:42:33.420Z",
+  updatedAt: "2026-09-28T22:36:35.000Z",
 } as const satisfies Lore

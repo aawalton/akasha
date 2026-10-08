@@ -8,4 +8,6 @@ export const superSupportiveBurrowOfTheStormtail = {
   world: "world/super-supportive",
   about: "world-spell/super-supportive-burrow-of-the-stormtail",
   secrets: "jsonl",
+  createdAt: "2026-09-28T23:06:51.894Z",
+  updatedAt: "2026-09-28T23:06:55.000Z",
 } as const satisfies Lore

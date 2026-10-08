@@ -21,4 +21,6 @@ export const otherwhereIiGretta = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-28T20:56:31.359Z",
+  updatedAt: "2026-09-28T22:33:51.000Z",
 } as const satisfies Lore

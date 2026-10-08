@@ -117,4 +117,6 @@ export const otherwhereIxDivineMana = {
       knowers: ["lore-disclosure/game-master"],
     },
   ],
+  createdAt: "2026-09-28T23:07:08.534Z",
+  updatedAt: "2026-09-28T23:07:11.000Z",
 } as const satisfies Lore

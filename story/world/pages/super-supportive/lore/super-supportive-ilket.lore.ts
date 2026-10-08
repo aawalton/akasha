@@ -8,4 +8,6 @@ export const superSupportiveIlket = {
   world: "world/super-supportive",
   about: "world-species/super-supportive-ilket",
   secrets: "jsonl",
+  createdAt: "2026-09-28T22:46:31.186Z",
+  updatedAt: "2026-09-28T22:46:34.000Z",
 } as const satisfies Lore

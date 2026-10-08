@@ -140,4 +140,6 @@ export const saltAndLamplightNala = {
       ],
     },
   ],
+  createdAt: "2026-10-02T14:36:28.982Z",
+  updatedAt: "2026-10-02T15:40:57.000Z",
 } as const satisfies Lore

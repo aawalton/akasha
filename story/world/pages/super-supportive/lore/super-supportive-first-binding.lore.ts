@@ -22,4 +22,6 @@ export const superSupportiveFirstBinding = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-28T22:41:19.848Z",
+  updatedAt: "2026-09-29T01:28:55.000Z",
 } as const satisfies Lore

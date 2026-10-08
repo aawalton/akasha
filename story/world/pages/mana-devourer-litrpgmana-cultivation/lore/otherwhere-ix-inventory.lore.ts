@@ -57,4 +57,6 @@ export const otherwhereIxInventory = {
       knowers: ["lore-disclosure/game-master"],
     },
   ],
+  createdAt: "2026-09-28T23:05:13.024Z",
+  updatedAt: "2026-09-28T23:05:17.000Z",
 } as const satisfies Lore

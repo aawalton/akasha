@@ -313,4 +313,6 @@ export const overwhereIiTalentsAndScope = {
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
   ],
+  createdAt: "2026-09-29T12:25:34.638Z",
+  updatedAt: "2026-09-30T08:03:44.000Z",
 } as const satisfies Lore

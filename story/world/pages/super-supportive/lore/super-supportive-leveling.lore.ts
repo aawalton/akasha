@@ -8,4 +8,6 @@ export const superSupportiveLeveling = {
   world: "world/super-supportive",
   about: "world-mechanic/super-supportive-leveling",
   secrets: "jsonl",
+  createdAt: "2026-09-28T21:54:27.215Z",
+  updatedAt: "2026-09-28T21:54:30.000Z",
 } as const satisfies Lore

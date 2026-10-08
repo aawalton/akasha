@@ -37,4 +37,6 @@ export const otherwhereIxCarrionHawk = {
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-ix-nala"],
     },
   ],
+  createdAt: "2026-09-29T03:26:55.160Z",
+  updatedAt: "2026-09-29T03:37:17.000Z",
 } as const satisfies Lore

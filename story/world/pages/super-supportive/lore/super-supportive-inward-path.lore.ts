@@ -8,4 +8,6 @@ export const superSupportiveInwardPath = {
   world: "world/super-supportive",
   about: "world-mechanic/super-supportive-inward-path",
   secrets: "jsonl",
+  createdAt: "2026-09-28T22:46:31.186Z",
+  updatedAt: "2026-09-28T22:46:34.000Z",
 } as const satisfies Lore

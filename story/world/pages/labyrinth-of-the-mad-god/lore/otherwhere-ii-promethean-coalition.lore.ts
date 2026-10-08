@@ -25,4 +25,6 @@ export const otherwhereIiPrometheanCoalition = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-28T20:47:01.513Z",
+  updatedAt: "2026-09-28T22:36:35.000Z",
 } as const satisfies Lore

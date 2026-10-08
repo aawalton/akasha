@@ -8,4 +8,6 @@ export const superSupportiveSigningBonus = {
   world: "world/super-supportive",
   about: "world-mechanic/super-supportive-signing-bonus",
   secrets: "jsonl",
+  createdAt: "2026-09-28T21:52:21.348Z",
+  updatedAt: "2026-09-28T21:52:30.000Z",
 } as const satisfies Lore

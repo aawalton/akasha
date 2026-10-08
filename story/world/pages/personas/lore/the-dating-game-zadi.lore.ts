@@ -8,4 +8,6 @@ export const theDatingGameZadi = {
   world: "world/personas",
   about: "persona/zadi",
   secrets: "jsonl",
+  createdAt: "2026-09-26T15:33:28.262Z",
+  updatedAt: "2026-09-26T18:13:39.000Z",
 } as const satisfies Lore

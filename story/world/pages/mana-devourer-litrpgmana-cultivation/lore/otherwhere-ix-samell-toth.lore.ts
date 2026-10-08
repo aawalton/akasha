@@ -46,4 +46,6 @@ export const otherwhereIxSamellToth = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-28T23:00:34.409Z",
+  updatedAt: "2026-09-28T23:00:38.000Z",
 } as const satisfies Lore

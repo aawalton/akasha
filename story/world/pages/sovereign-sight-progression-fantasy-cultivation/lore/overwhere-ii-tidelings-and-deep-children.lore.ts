@@ -108,4 +108,6 @@ export const overwhereIiTidelingsAndDeepChildren = {
       knowers: ["lore-disclosure/game-master"],
     },
   ],
+  createdAt: "2026-09-29T12:21:35.672Z",
+  updatedAt: "2026-09-29T12:21:38.000Z",
 } as const satisfies Lore

@@ -78,4 +78,6 @@ export const otherwhereIxSummoning = {
       knowers: ["lore-disclosure/game-master"],
     },
   ],
+  createdAt: "2026-09-28T22:53:08.488Z",
+  updatedAt: "2026-09-28T22:53:19.000Z",
 } as const satisfies Lore

@@ -41,4 +41,6 @@ export const theTowerEmberBurst = {
       knowers: ["lore-disclosure/game-master", "character-player/the-tower-alan"],
     },
   ],
+  createdAt: "2026-09-26T14:29:29.563Z",
+  updatedAt: "2026-09-26T18:13:39.000Z",
 } as const satisfies Lore

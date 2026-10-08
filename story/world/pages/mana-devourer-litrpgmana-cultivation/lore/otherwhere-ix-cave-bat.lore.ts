@@ -65,4 +65,6 @@ export const otherwhereIxCaveBat = {
       knowers: ["lore-disclosure/game-master"],
     },
   ],
+  createdAt: "2026-09-28T22:50:50.814Z",
+  updatedAt: "2026-09-28T22:50:54.000Z",
 } as const satisfies Lore

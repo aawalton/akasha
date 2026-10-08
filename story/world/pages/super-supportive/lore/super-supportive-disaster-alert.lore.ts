@@ -8,4 +8,6 @@ export const superSupportiveDisasterAlert = {
   world: "world/super-supportive",
   about: "world-mechanic/super-supportive-disaster-alert",
   secrets: "jsonl",
+  createdAt: "2026-09-28T22:30:11.780Z",
+  updatedAt: "2026-09-28T22:30:30.000Z",
 } as const satisfies Lore

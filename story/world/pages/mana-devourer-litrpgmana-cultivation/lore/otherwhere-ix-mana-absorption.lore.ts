@@ -97,4 +97,6 @@ export const otherwhereIxManaAbsorption = {
       knowers: ["lore-disclosure/game-master"],
     },
   ],
+  createdAt: "2026-09-28T22:55:03.988Z",
+  updatedAt: "2026-09-28T22:55:09.000Z",
 } as const satisfies Lore

@@ -8,4 +8,6 @@ export const superSupportiveOathCeremony = {
   world: "world/super-supportive",
   about: "world-mechanic/super-supportive-oath-ceremony",
   secrets: "jsonl",
+  createdAt: "2026-09-28T23:01:41.292Z",
+  updatedAt: "2026-09-28T23:01:45.000Z",
 } as const satisfies Lore

@@ -323,4 +323,6 @@ export const overwhereIiDepthsAndDescent = {
       knowers: ["lore-disclosure/game-master"],
     },
   ],
+  createdAt: "2026-09-29T12:26:46.829Z",
+  updatedAt: "2026-09-30T20:37:17.000Z",
 } as const satisfies Lore

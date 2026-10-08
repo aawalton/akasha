@@ -69,4 +69,6 @@ export const dateNightFreePlayAwenAndAura = {
       knowers: ["lore-disclosure/game-master", "character-other/date-night-free-play-awen"],
     },
   ],
+  createdAt: "2026-09-26T14:08:42.420Z",
+  updatedAt: "2026-09-28T12:50:32.000Z",
 } as const satisfies Lore

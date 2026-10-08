@@ -426,4 +426,6 @@ export const otherwhereIUniverse = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-27T14:45:06.054Z",
+  updatedAt: "2026-09-28T23:02:42.000Z",
 } as const satisfies Lore

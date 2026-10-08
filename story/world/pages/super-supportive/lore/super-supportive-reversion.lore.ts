@@ -8,4 +8,6 @@ export const superSupportiveReversion = {
   world: "world/super-supportive",
   about: "world-mechanic/super-supportive-reversion",
   secrets: "jsonl",
+  createdAt: "2026-09-28T21:47:13.075Z",
+  updatedAt: "2026-09-28T21:47:16.000Z",
 } as const satisfies Lore

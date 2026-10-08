@@ -8,4 +8,6 @@ export const superSupportiveMassBestowal = {
   world: "world/super-supportive",
   about: "world-skill/super-supportive-mass-bestowal",
   secrets: "jsonl",
+  createdAt: "2026-09-28T22:19:17.737Z",
+  updatedAt: "2026-09-28T22:19:20.000Z",
 } as const satisfies Lore

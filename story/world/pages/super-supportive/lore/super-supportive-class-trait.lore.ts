@@ -8,4 +8,6 @@ export const superSupportiveClassTrait = {
   world: "world/super-supportive",
   about: "world-mechanic/super-supportive-class-trait",
   secrets: "jsonl",
+  createdAt: "2026-09-28T21:57:53.410Z",
+  updatedAt: "2026-09-28T21:57:56.000Z",
 } as const satisfies Lore

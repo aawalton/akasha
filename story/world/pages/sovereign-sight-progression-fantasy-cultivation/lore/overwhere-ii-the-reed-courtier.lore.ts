@@ -17,4 +17,6 @@ export const overwhereIiTheReedCourtier = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-29T12:35:39.224Z",
+  updatedAt: "2026-09-29T12:35:42.000Z",
 } as const satisfies Lore

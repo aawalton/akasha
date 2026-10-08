@@ -29,4 +29,6 @@ export const otherwhereIxIgnoa = {
       knowers: ["lore-disclosure/game-master"],
     },
   ],
+  createdAt: "2026-09-28T22:50:39.539Z",
+  updatedAt: "2026-09-28T22:50:44.000Z",
 } as const satisfies Lore

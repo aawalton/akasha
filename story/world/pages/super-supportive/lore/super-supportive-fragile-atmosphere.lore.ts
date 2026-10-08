@@ -8,4 +8,6 @@ export const superSupportiveFragileAtmosphere = {
   world: "world/super-supportive",
   about: "world-item/super-supportive-fragile-atmosphere",
   secrets: "jsonl",
+  createdAt: "2026-09-28T22:30:11.789Z",
+  updatedAt: "2026-09-28T22:30:30.000Z",
 } as const satisfies Lore

@@ -25,4 +25,6 @@ export const otherwhereIiConduitCrayfish = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-28T20:44:25.492Z",
+  updatedAt: "2026-09-28T22:32:31.000Z",
 } as const satisfies Lore

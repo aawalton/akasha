@@ -245,4 +245,6 @@ export const overwhereIiPowersAndFactions = {
       knowers: ["lore-disclosure/game-master"],
     },
   ],
+  createdAt: "2026-09-29T12:27:18.312Z",
+  updatedAt: "2026-09-29T12:46:17.000Z",
 } as const satisfies Lore

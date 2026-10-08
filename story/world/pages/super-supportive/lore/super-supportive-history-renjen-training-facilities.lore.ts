@@ -7,4 +7,6 @@ export const superSupportiveHistoryRenjenTrainingFacilities = {
   title: "The knight training facilities of Renjen's era",
   world: "world/super-supportive",
   secrets: "jsonl",
+  createdAt: "2026-09-28T23:04:52.791Z",
+  updatedAt: "2026-09-28T23:04:56.000Z",
 } as const satisfies Lore

@@ -65,4 +65,6 @@ export const otherwhereIxSurvival = {
       knowers: ["lore-disclosure/game-master"],
     },
   ],
+  createdAt: "2026-09-29T02:21:24.167Z",
+  updatedAt: "2026-09-29T03:03:15.000Z",
 } as const satisfies Lore

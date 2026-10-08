@@ -8,4 +8,6 @@ export const superSupportiveFocusingTool = {
   world: "world/super-supportive",
   about: "world-mechanic/super-supportive-focusing-tool",
   secrets: "jsonl",
+  createdAt: "2026-09-28T22:04:04.498Z",
+  updatedAt: "2026-09-28T22:04:07.000Z",
 } as const satisfies Lore
