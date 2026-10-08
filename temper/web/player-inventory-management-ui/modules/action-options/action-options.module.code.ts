@@ -23,6 +23,7 @@ export const NOTHING_ACTION: ActionOption = {
 export const ACTION_OPTIONS: ActionOption[] = [
   { value: "lock", variant: "elevation-muted" },
   { value: "unlock", variant: "elevation-muted" },
+  { value: "bind", variant: "green" },
   { value: "deconstruct", variant: "orange" },
   { value: "refine", variant: "orange" },
   { value: "destroy", variant: "orange" },
