@@ -7,4 +7,6 @@ export const yokudanManAndBeastEnigma31162 = {
   title: 'Yokudan "Man and Beast" Enigma',
   collection: "temper-lore-collection/mysteries-and-clues",
   bookIndex: 62,
+  createdAt: "2026-09-25T00:25:34.905Z",
+  updatedAt: "2026-09-25T00:25:37.000Z",
 } as const satisfies TemperLoreBook

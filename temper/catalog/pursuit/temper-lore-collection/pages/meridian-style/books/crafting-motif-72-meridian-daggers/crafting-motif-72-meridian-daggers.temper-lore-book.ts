@@ -7,4 +7,6 @@ export const craftingMotif72MeridianDaggers = {
   title: "Crafting Motif 72: Meridian Daggers",
   collection: "temper-lore-collection/meridian-style",
   bookIndex: 6,
+  createdAt: "2026-09-25T00:16:37.572Z",
+  updatedAt: "2026-09-25T00:16:38.000Z",
 } as const satisfies TemperLoreBook

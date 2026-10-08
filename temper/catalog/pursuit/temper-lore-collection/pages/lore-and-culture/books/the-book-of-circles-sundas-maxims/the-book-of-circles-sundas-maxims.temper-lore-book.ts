@@ -14,4 +14,6 @@ export const theBookOfCirclesSundasMaxims = {
     { mapId: 30, mapCount: 4 },
     { mapId: 1060, mapCount: 1 },
   ],
+  createdAt: "2026-09-25T00:24:43.739Z",
+  updatedAt: "2026-09-25T00:24:45.000Z",
 } as const satisfies TemperLoreBook

@@ -7,4 +7,6 @@ export const craftingMotif40OrderHourDaggers = {
   title: "Crafting Motif 40: Order Hour Daggers",
   collection: "temper-lore-collection/order-hour-style",
   bookIndex: 6,
+  createdAt: "2026-09-25T00:13:12.137Z",
+  updatedAt: "2026-09-25T00:13:13.000Z",
 } as const satisfies TemperLoreBook

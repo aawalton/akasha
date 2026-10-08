@@ -16,4 +16,6 @@ export const bewareTheShadowscales = {
     { mapId: 125, mapCount: 20 },
     { mapId: 256, mapCount: 15 },
   ],
+  createdAt: "2026-09-25T00:24:56.146Z",
+  updatedAt: "2026-09-25T00:24:58.000Z",
 } as const satisfies TemperLoreBook

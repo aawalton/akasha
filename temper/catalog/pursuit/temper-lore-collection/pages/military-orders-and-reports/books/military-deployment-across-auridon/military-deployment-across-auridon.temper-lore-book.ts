@@ -11,4 +11,6 @@ export const militaryDeploymentAcrossAuridon = {
   charted: true,
   quest: 4326,
   positions: "jsonl",
+  createdAt: "2026-09-25T00:24:56.147Z",
+  updatedAt: "2026-09-25T00:24:58.000Z",
 } as const satisfies TemperLoreBook

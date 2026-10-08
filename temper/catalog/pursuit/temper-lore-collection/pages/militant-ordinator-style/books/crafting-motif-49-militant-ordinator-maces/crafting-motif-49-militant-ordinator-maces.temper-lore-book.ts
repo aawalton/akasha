@@ -7,4 +7,6 @@ export const craftingMotif49MilitantOrdinatorMaces = {
   title: "Crafting Motif 49: Militant Ordinator Maces",
   collection: "temper-lore-collection/militant-ordinator-style",
   bookIndex: 10,
+  createdAt: "2026-09-25T00:13:57.127Z",
+  updatedAt: "2026-09-25T00:13:58.000Z",
 } as const satisfies TemperLoreBook

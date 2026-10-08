@@ -7,4 +7,6 @@ export const craftingMotif19MercenaryAxes = {
   title: "Crafting Motif 19: Mercenary Axes",
   collection: "temper-lore-collection/mercenary-style",
   bookIndex: 1,
+  createdAt: "2026-09-25T00:11:40.560Z",
+  updatedAt: "2026-09-25T00:11:41.000Z",
 } as const satisfies TemperLoreBook

@@ -8,4 +8,6 @@ export const theBookOfDaedra = {
   collection: "temper-lore-collection/oblivion-lore",
   bookIndex: 1,
   shalidorPins: "jsonl",
+  createdAt: "2026-09-25T00:08:13.911Z",
+  updatedAt: "2026-09-25T00:08:14.000Z",
 } as const satisfies TemperLoreBook

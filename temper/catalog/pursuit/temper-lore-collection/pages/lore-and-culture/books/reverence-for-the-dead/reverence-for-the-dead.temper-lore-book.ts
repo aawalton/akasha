@@ -17,4 +17,6 @@ export const reverenceForTheDead = {
     { mapId: 30, mapCount: 10 },
     { mapId: 61, mapCount: 3 },
   ],
+  createdAt: "2026-09-25T00:24:43.739Z",
+  updatedAt: "2026-09-25T00:24:45.000Z",
 } as const satisfies TemperLoreBook

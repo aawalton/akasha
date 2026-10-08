@@ -10,4 +10,6 @@ export const aHistoryOfLilmoth = {
   bookIndex: 85,
   charted: true,
   positions: "jsonl",
+  createdAt: "2026-09-25T00:28:25.624Z",
+  updatedAt: "2026-09-25T00:28:28.000Z",
 } as const satisfies TemperLoreBook

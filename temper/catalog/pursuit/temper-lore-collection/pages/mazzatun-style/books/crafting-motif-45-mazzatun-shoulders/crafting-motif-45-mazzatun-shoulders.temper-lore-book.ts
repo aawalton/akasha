@@ -7,4 +7,6 @@ export const craftingMotif45MazzatunShoulders = {
   title: "Crafting Motif 45: Mazzatun Shoulders",
   collection: "temper-lore-collection/mazzatun-style",
   bookIndex: 12,
+  createdAt: "2026-09-25T00:13:47.142Z",
+  updatedAt: "2026-09-25T00:13:48.000Z",
 } as const satisfies TemperLoreBook

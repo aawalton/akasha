@@ -9,4 +9,6 @@ export const yokudanHawkEnigma1993 = {
   esoBookId: 1993,
   charted: true,
   positions: "jsonl",
+  createdAt: "2026-09-25T00:25:34.905Z",
+  updatedAt: "2026-09-25T00:25:37.000Z",
 } as const satisfies TemperLoreBook

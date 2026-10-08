@@ -7,4 +7,6 @@ export const yokudanMotherAndSonEnigma31147 = {
   title: 'Yokudan "Mother and Son" Enigma',
   collection: "temper-lore-collection/mysteries-and-clues",
   bookIndex: 47,
+  createdAt: "2026-09-25T00:25:34.905Z",
+  updatedAt: "2026-09-25T00:25:37.000Z",
 } as const satisfies TemperLoreBook

@@ -7,4 +7,6 @@ export const memoryStoneOfMakelaLekiPart2 = {
   title: "Memory Stone of Makela Leki, Part 2",
   collection: "temper-lore-collection/lore-and-culture",
   bookIndex: 65,
+  createdAt: "2026-09-25T00:24:43.739Z",
+  updatedAt: "2026-09-25T00:24:45.000Z",
 } as const satisfies TemperLoreBook

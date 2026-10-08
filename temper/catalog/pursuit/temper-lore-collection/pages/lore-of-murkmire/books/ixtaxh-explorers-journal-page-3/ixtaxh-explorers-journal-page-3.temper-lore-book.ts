@@ -9,4 +9,6 @@ export const ixtaxhExplorersJournalPage3 = {
   esoBookId: 5409,
   charted: true,
   positions: "jsonl",
+  createdAt: "2026-09-25T00:28:25.625Z",
+  updatedAt: "2026-09-25T00:28:28.000Z",
 } as const satisfies TemperLoreBook

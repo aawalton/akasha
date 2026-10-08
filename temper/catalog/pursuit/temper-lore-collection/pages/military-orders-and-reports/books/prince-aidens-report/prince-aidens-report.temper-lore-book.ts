@@ -19,4 +19,6 @@ export const princeAidensReport = {
     { mapId: 227, mapCount: 5 },
     { mapId: 258, mapCount: 6 },
   ],
+  createdAt: "2026-09-25T00:24:56.147Z",
+  updatedAt: "2026-09-25T00:24:58.000Z",
 } as const satisfies TemperLoreBook

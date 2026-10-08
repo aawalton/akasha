@@ -9,4 +9,6 @@ export const theSongOfPelinalVolume7 = {
   esoBookId: 1132,
   charted: true,
   positions: "jsonl",
+  createdAt: "2026-09-25T00:24:43.740Z",
+  updatedAt: "2026-09-25T00:24:45.000Z",
 } as const satisfies TemperLoreBook

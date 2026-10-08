@@ -9,4 +9,6 @@ export const letterToTheMagnastylus = {
   esoBookId: 7475,
   charted: true,
   positions: "jsonl",
+  createdAt: "2026-09-25T00:29:55.832Z",
+  updatedAt: "2026-09-25T00:29:58.000Z",
 } as const satisfies TemperLoreBook

@@ -7,4 +7,6 @@ export const craftingMotif128LucentSentinelMaces = {
   title: "Crafting Motif 128: Lucent Sentinel Maces",
   collection: "temper-lore-collection/lucent-sentinel-style",
   bookIndex: 10,
+  createdAt: "2026-09-25T00:21:48.774Z",
+  updatedAt: "2026-09-25T00:21:50.000Z",
 } as const satisfies TemperLoreBook

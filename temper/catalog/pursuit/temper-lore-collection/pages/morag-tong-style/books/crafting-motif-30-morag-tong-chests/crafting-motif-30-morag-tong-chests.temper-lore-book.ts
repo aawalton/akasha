@@ -7,4 +7,6 @@ export const craftingMotif30MoragTongChests = {
   title: "Crafting Motif 30: Morag Tong Chests",
   collection: "temper-lore-collection/morag-tong-style",
   bookIndex: 5,
+  createdAt: "2026-09-25T00:12:11.589Z",
+  updatedAt: "2026-09-25T00:12:12.000Z",
 } as const satisfies TemperLoreBook

@@ -8,4 +8,6 @@ export const book16AccordsOfMadnessVolVi = {
   collection: "temper-lore-collection/literature",
   bookIndex: 8,
   shalidorPins: "jsonl",
+  createdAt: "2026-09-25T00:07:58.603Z",
+  updatedAt: "2026-09-25T00:07:59.000Z",
 } as const satisfies TemperLoreBook

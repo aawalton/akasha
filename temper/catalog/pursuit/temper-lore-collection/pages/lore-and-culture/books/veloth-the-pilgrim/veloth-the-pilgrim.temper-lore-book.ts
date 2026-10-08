@@ -16,4 +16,6 @@ export const velothThePilgrim = {
     { mapId: 13, mapCount: 6 },
     { mapId: 27, mapCount: 6 },
   ],
+  createdAt: "2026-09-25T00:24:43.740Z",
+  updatedAt: "2026-09-25T00:24:45.000Z",
 } as const satisfies TemperLoreBook

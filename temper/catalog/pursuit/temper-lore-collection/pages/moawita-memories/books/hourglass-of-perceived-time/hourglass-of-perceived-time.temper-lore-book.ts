@@ -10,4 +10,6 @@ export const hourglassOfPerceivedTime = {
   bookIndex: 16,
   charted: true,
   positions: "jsonl",
+  createdAt: "2026-09-25T00:50:36.652Z",
+  updatedAt: "2026-09-25T00:50:37.000Z",
 } as const satisfies TemperLoreBook

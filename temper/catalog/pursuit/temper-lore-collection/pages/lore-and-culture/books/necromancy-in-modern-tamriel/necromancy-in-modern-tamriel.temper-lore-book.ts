@@ -29,4 +29,6 @@ export const necromancyInModernTamriel = {
     { mapId: 1060, mapCount: 2 },
     { mapId: 1126, mapCount: 11 },
   ],
+  createdAt: "2026-09-25T00:24:43.739Z",
+  updatedAt: "2026-09-25T00:24:45.000Z",
 } as const satisfies TemperLoreBook

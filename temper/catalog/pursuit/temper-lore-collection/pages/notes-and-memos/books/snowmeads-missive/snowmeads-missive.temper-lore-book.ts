@@ -11,4 +11,6 @@ export const snowmeadsMissive = {
   charted: true,
   quest: 4126,
   positions: "jsonl",
+  createdAt: "2026-09-25T00:25:48.307Z",
+  updatedAt: "2026-09-25T00:25:50.000Z",
 } as const satisfies TemperLoreBook

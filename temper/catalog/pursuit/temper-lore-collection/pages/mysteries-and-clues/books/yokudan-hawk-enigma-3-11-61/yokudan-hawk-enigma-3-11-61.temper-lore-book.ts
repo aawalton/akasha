@@ -7,4 +7,6 @@ export const yokudanHawkEnigma31161 = {
   title: 'Yokudan "Hawk" Enigma',
   collection: "temper-lore-collection/mysteries-and-clues",
   bookIndex: 61,
+  createdAt: "2026-09-25T00:25:34.905Z",
+  updatedAt: "2026-09-25T00:25:37.000Z",
 } as const satisfies TemperLoreBook

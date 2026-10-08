@@ -7,4 +7,6 @@ export const thievesInTheStarlitPlaza35837 = {
   title: "Thieves in the Starlit Plaza",
   collection: "temper-lore-collection/night-market-miscellanea",
   bookIndex: 37,
+  createdAt: "2026-09-25T00:54:23.615Z",
+  updatedAt: "2026-09-25T00:54:25.000Z",
 } as const satisfies TemperLoreBook

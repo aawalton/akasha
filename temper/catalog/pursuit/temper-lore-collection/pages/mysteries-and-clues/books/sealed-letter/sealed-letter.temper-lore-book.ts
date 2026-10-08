@@ -10,4 +10,6 @@ export const sealedLetter = {
   charted: true,
   quest: 6395,
   positions: "jsonl",
+  createdAt: "2026-09-25T00:25:34.904Z",
+  updatedAt: "2026-09-25T00:25:37.000Z",
 } as const satisfies TemperLoreBook

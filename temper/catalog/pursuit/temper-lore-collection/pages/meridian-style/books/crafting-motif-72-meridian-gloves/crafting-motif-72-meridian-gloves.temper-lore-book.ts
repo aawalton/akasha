@@ -7,4 +7,6 @@ export const craftingMotif72MeridianGloves = {
   title: "Crafting Motif 72: Meridian Gloves",
   collection: "temper-lore-collection/meridian-style",
   bookIndex: 7,
+  createdAt: "2026-09-25T00:16:37.572Z",
+  updatedAt: "2026-09-25T00:16:38.000Z",
 } as const satisfies TemperLoreBook

@@ -21,4 +21,6 @@ export const fireAndDarknessPart1 = {
     { mapId: 1429, mapCount: 7 },
   ],
   positions: "jsonl",
+  createdAt: "2026-09-25T00:24:43.738Z",
+  updatedAt: "2026-09-25T00:24:45.000Z",
 } as const satisfies TemperLoreBook

@@ -7,4 +7,6 @@ export const craftingMotif23MalacathStaves = {
   title: "Crafting Motif 23: Malacath Staves",
   collection: "temper-lore-collection/malacath-style",
   bookIndex: 13,
+  createdAt: "2026-09-25T00:12:06.456Z",
+  updatedAt: "2026-09-25T00:12:07.000Z",
 } as const satisfies TemperLoreBook

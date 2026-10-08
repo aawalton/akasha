@@ -16,4 +16,6 @@ export const theBattleOfRedMountainPart1 = {
     { mapId: 13, mapCount: 11 },
     { mapId: 27, mapCount: 6 },
   ],
+  createdAt: "2026-09-25T00:24:43.739Z",
+  updatedAt: "2026-09-25T00:24:45.000Z",
 } as const satisfies TemperLoreBook

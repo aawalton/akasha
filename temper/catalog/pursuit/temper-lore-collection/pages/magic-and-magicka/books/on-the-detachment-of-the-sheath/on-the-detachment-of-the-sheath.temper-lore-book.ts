@@ -8,4 +8,6 @@ export const onTheDetachmentOfTheSheath = {
   collection: "temper-lore-collection/magic-and-magicka",
   bookIndex: 6,
   shalidorPins: "jsonl",
+  createdAt: "2026-09-25T00:08:03.811Z",
+  updatedAt: "2026-09-25T00:08:04.000Z",
 } as const satisfies TemperLoreBook

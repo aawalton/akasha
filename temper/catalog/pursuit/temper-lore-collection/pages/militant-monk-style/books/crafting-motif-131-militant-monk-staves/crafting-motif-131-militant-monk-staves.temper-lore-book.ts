@@ -7,4 +7,6 @@ export const craftingMotif131MilitantMonkStaves = {
   title: "Crafting Motif 131: Militant Monk Staves",
   collection: "temper-lore-collection/militant-monk-style",
   bookIndex: 13,
+  createdAt: "2026-09-25T00:22:04.885Z",
+  updatedAt: "2026-09-25T00:22:06.000Z",
 } as const satisfies TemperLoreBook

@@ -7,4 +7,6 @@ export const craftingMotif78MoongraveBoots = {
   title: "Crafting Motif 78: Moongrave Boots",
   collection: "temper-lore-collection/moongrave-fane-style",
   bookIndex: 3,
+  createdAt: "2026-09-25T00:17:07.895Z",
+  updatedAt: "2026-09-25T00:17:09.000Z",
 } as const satisfies TemperLoreBook

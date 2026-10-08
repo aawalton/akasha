@@ -11,4 +11,6 @@ export const masteryOfWisdom = {
   charted: true,
   quest: 4959,
   positions: "jsonl",
+  createdAt: "2026-09-25T00:24:43.739Z",
+  updatedAt: "2026-09-25T00:24:45.000Z",
 } as const satisfies TemperLoreBook

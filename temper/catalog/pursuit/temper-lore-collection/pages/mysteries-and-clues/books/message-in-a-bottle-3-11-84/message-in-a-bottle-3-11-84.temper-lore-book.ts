@@ -7,4 +7,6 @@ export const messageInABottle31184 = {
   title: "Message in a Bottle",
   collection: "temper-lore-collection/mysteries-and-clues",
   bookIndex: 84,
+  createdAt: "2026-09-25T00:25:34.904Z",
+  updatedAt: "2026-09-25T00:25:37.000Z",
 } as const satisfies TemperLoreBook

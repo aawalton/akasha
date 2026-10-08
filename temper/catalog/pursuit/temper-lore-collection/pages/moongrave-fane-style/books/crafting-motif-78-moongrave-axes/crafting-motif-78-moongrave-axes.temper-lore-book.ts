@@ -7,4 +7,6 @@ export const craftingMotif78MoongraveAxes = {
   title: "Crafting Motif 78: Moongrave Axes",
   collection: "temper-lore-collection/moongrave-fane-style",
   bookIndex: 1,
+  createdAt: "2026-09-25T00:17:07.894Z",
+  updatedAt: "2026-09-25T00:17:09.000Z",
 } as const satisfies TemperLoreBook

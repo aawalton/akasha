@@ -7,4 +7,6 @@ export const onPlayingFrogs = {
   title: "On Playing Frogs",
   collection: "temper-lore-collection/lore-of-murkmire",
   bookIndex: 24,
+  createdAt: "2026-09-25T00:28:25.626Z",
+  updatedAt: "2026-09-25T00:28:28.000Z",
 } as const satisfies TemperLoreBook

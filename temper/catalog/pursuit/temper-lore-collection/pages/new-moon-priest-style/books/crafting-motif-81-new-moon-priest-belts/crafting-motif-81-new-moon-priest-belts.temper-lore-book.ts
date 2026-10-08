@@ -7,4 +7,6 @@ export const craftingMotif81NewMoonPriestBelts = {
   title: "Crafting Motif 81: New Moon Priest Belts",
   collection: "temper-lore-collection/new-moon-priest-style",
   bookIndex: 2,
+  createdAt: "2026-09-25T00:17:12.924Z",
+  updatedAt: "2026-09-25T00:17:14.000Z",
 } as const satisfies TemperLoreBook

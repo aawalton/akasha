@@ -7,4 +7,6 @@ export const comingOfTheLearnedOneVolI3993 = {
   title: "Coming of the Learned One, Vol. I",
   collection: "temper-lore-collection/lore-and-culture",
   bookIndex: 93,
+  createdAt: "2026-09-25T00:24:43.738Z",
+  updatedAt: "2026-09-25T00:24:45.000Z",
 } as const satisfies TemperLoreBook

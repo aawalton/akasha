@@ -7,4 +7,6 @@ export const theSongOfPelinalVol8 = {
   title: "The Song of Pelinal, Vol. 8",
   collection: "temper-lore-collection/lore-and-culture",
   bookIndex: 47,
+  createdAt: "2026-09-25T00:24:43.740Z",
+  updatedAt: "2026-09-25T00:24:45.000Z",
 } as const satisfies TemperLoreBook

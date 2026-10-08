@@ -9,4 +9,6 @@ export const thievesInTheStarlitPlaza8724 = {
   esoBookId: 8724,
   charted: true,
   positions: "jsonl",
+  createdAt: "2026-09-25T00:54:23.615Z",
+  updatedAt: "2026-09-25T00:54:25.000Z",
 } as const satisfies TemperLoreBook

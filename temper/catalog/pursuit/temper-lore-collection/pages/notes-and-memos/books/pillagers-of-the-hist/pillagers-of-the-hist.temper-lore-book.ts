@@ -10,4 +10,6 @@ export const pillagersOfTheHist = {
   bookIndex: 13,
   charted: true,
   positions: "jsonl",
+  createdAt: "2026-09-25T00:25:48.306Z",
+  updatedAt: "2026-09-25T00:25:50.000Z",
 } as const satisfies TemperLoreBook

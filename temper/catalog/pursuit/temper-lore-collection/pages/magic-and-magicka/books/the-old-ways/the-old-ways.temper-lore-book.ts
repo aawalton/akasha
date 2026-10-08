@@ -8,4 +8,6 @@ export const theOldWays = {
   collection: "temper-lore-collection/magic-and-magicka",
   bookIndex: 5,
   shalidorPins: "jsonl",
+  createdAt: "2026-09-25T00:08:03.812Z",
+  updatedAt: "2026-09-25T00:08:04.000Z",
 } as const satisfies TemperLoreBook

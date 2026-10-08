@@ -9,4 +9,6 @@ export const grandmasterEttieneVolusus1e28792902 = {
   esoBookId: 5640,
   charted: true,
   positions: "jsonl",
+  createdAt: "2026-09-25T00:25:34.903Z",
+  updatedAt: "2026-09-25T00:25:37.000Z",
 } as const satisfies TemperLoreBook

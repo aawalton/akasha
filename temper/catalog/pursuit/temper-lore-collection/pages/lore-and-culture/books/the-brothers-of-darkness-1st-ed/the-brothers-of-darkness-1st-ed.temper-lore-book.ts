@@ -16,4 +16,6 @@ export const theBrothersOfDarkness1stEd = {
     { mapId: 30, mapCount: 9 },
     { mapId: 61, mapCount: 14 },
   ],
+  createdAt: "2026-09-25T00:24:43.739Z",
+  updatedAt: "2026-09-25T00:24:45.000Z",
 } as const satisfies TemperLoreBook

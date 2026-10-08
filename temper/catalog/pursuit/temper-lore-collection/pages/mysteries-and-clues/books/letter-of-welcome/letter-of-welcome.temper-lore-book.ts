@@ -8,4 +8,6 @@ export const letterOfWelcome = {
   collection: "temper-lore-collection/mysteries-and-clues",
   esoBookId: 6239,
   charted: false,
+  createdAt: "2026-09-25T00:25:34.904Z",
+  updatedAt: "2026-09-25T00:25:37.000Z",
 } as const satisfies TemperLoreBook

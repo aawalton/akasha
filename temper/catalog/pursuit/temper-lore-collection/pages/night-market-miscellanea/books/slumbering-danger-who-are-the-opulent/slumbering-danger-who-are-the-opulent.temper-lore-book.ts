@@ -7,4 +7,6 @@ export const slumberingDangerWhoAreTheOpulent = {
   title: "Slumbering Danger: Who are the Opulent?",
   collection: "temper-lore-collection/night-market-miscellanea",
   bookIndex: 43,
+  createdAt: "2026-09-25T00:54:23.615Z",
+  updatedAt: "2026-09-25T00:54:25.000Z",
 } as const satisfies TemperLoreBook

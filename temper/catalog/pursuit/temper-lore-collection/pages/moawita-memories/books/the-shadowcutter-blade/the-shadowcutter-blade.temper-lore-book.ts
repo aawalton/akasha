@@ -10,4 +10,6 @@ export const theShadowcutterBlade = {
   bookIndex: 6,
   charted: true,
   positions: "jsonl",
+  createdAt: "2026-09-25T00:50:36.653Z",
+  updatedAt: "2026-09-25T00:50:37.000Z",
 } as const satisfies TemperLoreBook

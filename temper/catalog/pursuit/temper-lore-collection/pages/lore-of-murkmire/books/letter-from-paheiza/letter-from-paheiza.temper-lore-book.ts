@@ -10,4 +10,6 @@ export const letterFromPaheiza = {
   charted: true,
   quest: 6277,
   positions: "jsonl",
+  createdAt: "2026-09-25T00:28:25.626Z",
+  updatedAt: "2026-09-25T00:28:28.000Z",
 } as const satisfies TemperLoreBook

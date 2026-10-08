@@ -8,4 +8,6 @@ export const theHomiliesOfBlessedAlmalexia = {
   collection: "temper-lore-collection/literature",
   bookIndex: 1,
   shalidorPins: "jsonl",
+  createdAt: "2026-09-25T00:07:58.604Z",
+  updatedAt: "2026-09-25T00:07:59.000Z",
 } as const satisfies TemperLoreBook

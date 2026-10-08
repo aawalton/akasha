@@ -7,4 +7,6 @@ export const craftingMotif95NighthollowGloves = {
   title: "Crafting Motif 95: Nighthollow Gloves",
   collection: "temper-lore-collection/nighthollow-style",
   bookIndex: 7,
+  createdAt: "2026-09-25T00:18:28.088Z",
+  updatedAt: "2026-09-25T00:18:29.000Z",
 } as const satisfies TemperLoreBook

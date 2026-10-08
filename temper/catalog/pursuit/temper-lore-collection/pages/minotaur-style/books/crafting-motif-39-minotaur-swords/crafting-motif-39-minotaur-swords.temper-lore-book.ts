@@ -7,4 +7,6 @@ export const craftingMotif39MinotaurSwords = {
   title: "Crafting Motif 39: Minotaur Swords",
   collection: "temper-lore-collection/minotaur-style",
   bookIndex: 14,
+  createdAt: "2026-09-25T00:13:06.862Z",
+  updatedAt: "2026-09-25T00:13:08.000Z",
 } as const satisfies TemperLoreBook

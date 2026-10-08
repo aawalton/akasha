@@ -7,4 +7,6 @@ export const findTheLodestones33299 = {
   title: "Find the lodestones!",
   collection: "temper-lore-collection/library-of-incunabula",
   bookIndex: 99,
+  createdAt: "2026-09-25T00:29:55.832Z",
+  updatedAt: "2026-09-25T00:29:58.000Z",
 } as const satisfies TemperLoreBook

@@ -9,4 +9,6 @@ export const forDonelFromFather = {
   esoBookId: 975,
   charted: true,
   positions: "jsonl",
+  createdAt: "2026-09-25T00:25:48.305Z",
+  updatedAt: "2026-09-25T00:25:50.000Z",
 } as const satisfies TemperLoreBook

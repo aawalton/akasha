@@ -7,4 +7,6 @@ export const aPleaForTheElderScrolls31260 = {
   title: "A Plea for the Elder Scrolls",
   collection: "temper-lore-collection/notes-and-memos",
   bookIndex: 60,
+  createdAt: "2026-09-25T00:25:48.304Z",
+  updatedAt: "2026-09-25T00:25:50.000Z",
 } as const satisfies TemperLoreBook

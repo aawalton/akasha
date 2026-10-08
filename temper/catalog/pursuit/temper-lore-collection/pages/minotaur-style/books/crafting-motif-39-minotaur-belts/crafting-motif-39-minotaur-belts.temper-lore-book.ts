@@ -7,4 +7,6 @@ export const craftingMotif39MinotaurBelts = {
   title: "Crafting Motif 39: Minotaur Belts",
   collection: "temper-lore-collection/minotaur-style",
   bookIndex: 2,
+  createdAt: "2026-09-25T00:13:06.861Z",
+  updatedAt: "2026-09-25T00:13:08.000Z",
 } as const satisfies TemperLoreBook

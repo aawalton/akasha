@@ -11,4 +11,6 @@ export const daggerfallMarketShoppingList = {
   charted: true,
   quest: 3000,
   positions: "jsonl",
+  createdAt: "2026-09-25T00:25:34.903Z",
+  updatedAt: "2026-09-25T00:25:37.000Z",
 } as const satisfies TemperLoreBook

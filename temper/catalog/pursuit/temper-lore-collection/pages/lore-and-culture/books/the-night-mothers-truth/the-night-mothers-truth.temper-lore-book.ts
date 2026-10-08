@@ -33,4 +33,6 @@ export const theNightMothersTruth = {
     { mapId: 1349, mapCount: 5 },
     { mapId: 1429, mapCount: 5 },
   ],
+  createdAt: "2026-09-25T00:24:43.739Z",
+  updatedAt: "2026-09-25T00:24:45.000Z",
 } as const satisfies TemperLoreBook
