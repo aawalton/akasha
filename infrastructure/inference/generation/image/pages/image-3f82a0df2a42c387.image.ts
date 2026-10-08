@@ -11,4 +11,6 @@ export const image3f82a0df2a42c387 = {
   wardrobeTags: ["wardrobe-tag/slip-dress", "wardrobe-tag/bare-shoulders"],
   fantasyTags: ["fantasy-tag/elf-ears"],
   ageTags: ["age-tag/age-18-24"],
+  createdAt: "2026-06-30T11:10:11.396Z",
+  updatedAt: "2026-09-27T15:59:30.000Z",
 } as const satisfies Image

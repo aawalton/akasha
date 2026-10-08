@@ -22,4 +22,6 @@ export const image3f0d0e4307ea736f = {
   fantasyTags: ["fantasy-tag/fairy-tale"],
   ethnicityTags: ["ethnicity-tag/mixed"],
   ageTags: ["age-tag/age-18-24"],
+  createdAt: "2026-06-30T11:10:35.488Z",
+  updatedAt: "2026-09-27T15:59:30.000Z",
 } as const satisfies Image

@@ -16,4 +16,6 @@ export const image384a93abcd5ea254 = {
   height: 1216,
   prompt:
     "A 24-year-old adult woman, grown woman's face with defined cheekbones and jawline, adult body proportions, Scottish with very fair skin and a dusting of freckles, long wild ginger curls, a small nose ring, fit slim build, sitting on a tartan blanket on a hillside in a park, nude, hugging her knees to her chest, chin resting on her knees, windblown hair, smiling to herself and looking away across the hills, three-quarter view from behind, soft bright overcast light breaking into sun, alone, photorealistic, natural skin detail",
+  createdAt: "2026-09-28T21:27:12.121Z",
+  updatedAt: "2026-09-28T21:27:36.000Z",
 } as const satisfies Image

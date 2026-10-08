@@ -14,4 +14,6 @@ export const image4a4247af8c2f1ea8 = {
   height: 1216,
   prompt:
     "Fantasy photorealistic, candid photograph. Spindle Lane, a narrow cool cobbled lane of wool and dye shops in a fantasy canal city in late afternoon, with nobody in the frame. Old timber-framed shopfronts lean in on both sides, every one hung with skeins of wool on hooks and poles: deep reds and golds and blues, lavender, moss green, and many soft greys. One shop has green-painted shutters folded back, its open door showing shelves stacked with skeins inside; across the lane another shop has a grey cat asleep on its windowsill. Baskets of fleece stand by the doorsteps, and a little sun reaches down between the eaves onto the cobbles at the far end. Soft warm late-afternoon light at the top of the lane, cool shade below. Nothing lettered: no signs carry words. Eye-level view down the lane, 35mm lens, deep focus, rich colour and texture in the wool.",
+  createdAt: "2026-10-06T14:17:18.509Z",
+  updatedAt: "2026-10-06T14:17:19.000Z",
 } as const satisfies Image

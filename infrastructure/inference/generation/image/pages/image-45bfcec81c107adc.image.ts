@@ -17,4 +17,6 @@ export const image45bfcec81c107adc = {
   ],
   prompt:
     "Fantasy photorealistic, candid photograph, nobody looks at the camera. Keep the place from the first image: this moment is downstairs in the bakery after closing, at the big floury wooden table in the middle. The pink-haired woman from the second image writes hurriedly in a small notebook open on the corner of the floury table beside a flour crock, with a stub of pencil. The pink-haired woman from the second image is a gorgeous, slim young Korean woman of about twenty with a K-pop idol's face: a small V-line face, big sparkling doe eyes in soft rose pink the same color as her hair, a small delicate nose, glossy pink lips, pale porcelain skin with a soft blush, a sweet bright smile, and short soft rose-pink hair in a layered bob with wispy side-swept bangs, a small pink-and-white flower clip above one ear, with a slim build and small chest, wearing a big white baker's apron tied over a cropped cream halter top and short sage-green skirt, bare arms, no gloves. Evening after closing, warm lamplight and the red glow of the ovens. Nothing lettered. Medium shot, 35mm lens, shallow depth of field, every face sharp and readable.",
+  createdAt: "2026-10-04T13:02:20.934Z",
+  updatedAt: "2026-10-04T13:02:21.000Z",
 } as const satisfies Image

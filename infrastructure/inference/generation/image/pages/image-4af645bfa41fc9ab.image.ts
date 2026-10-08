@@ -11,4 +11,6 @@ export const image4af645bfa41fc9ab = {
     "setting-tag/forest",
     "setting-tag/snow",
   ],
+  createdAt: "2026-09-21T21:52:02.382Z",
+  updatedAt: "2026-09-27T15:48:03.000Z",
 } as const satisfies Image

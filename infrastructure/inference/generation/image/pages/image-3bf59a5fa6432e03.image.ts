@@ -21,4 +21,6 @@ export const image3bf59a5fa6432e03 = {
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/sleeveless"],
   ethnicityTags: ["ethnicity-tag/white"],
   ageTags: ["age-tag/age-25-34"],
+  createdAt: "2026-06-30T11:10:15.995Z",
+  updatedAt: "2026-09-27T15:52:40.000Z",
 } as const satisfies Image

@@ -5,4 +5,6 @@ export const image38af15148cc9c00a = {
   type: "page-type/image",
   slug: "image-38af15148cc9c00a",
   title: "Otherwhere — Nala, cinematic cover candidate 1",
+  createdAt: "2026-09-28T18:50:55.557Z",
+  updatedAt: "2026-09-28T18:51:01.000Z",
 } as const satisfies Image

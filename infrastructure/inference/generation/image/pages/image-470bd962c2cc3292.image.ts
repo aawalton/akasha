@@ -14,4 +14,6 @@ export const image470bd962c2cc3292 = {
   height: 1216,
   prompt:
     "Fantasy photorealistic, candid photograph. A low dark side passage deep in the Underbloom, an old underground cellar under a city, with nobody in it. Through a low brick arch the passage runs away, its old brick walls wet and dripping, a dark drip-line of water running down one wall and along the floor in a glistening trickle. The walls of the vault outside the arch are grown over with small pale glowing flowers, white and faint blue and the palest pink, that throw a soft even light like moonlight through mist into the mouth of the passage. Inside, the walls are thick with stranglevine: dark glossy green-black vines thick as rope, coiled and looped across the brick, hanging in heavy strands from the ceiling and lying in loops on the wet floor, faintly gleaming. Clumps of small pale blue glowing mushrooms grow in a damp corner by the arch. The floor is old worn brick, wet and dark. Cool soft glow, deep shadows further in, damp in the air, quiet and menacing. Nothing lettered. Medium wide shot looking through the arch into the passage, 28mm lens, deep focus.",
+  createdAt: "2026-10-04T15:25:22.933Z",
+  updatedAt: "2026-10-04T15:25:23.000Z",
 } as const satisfies Image

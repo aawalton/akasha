@@ -7,4 +7,6 @@ export const image4ce9408814ab7f8d = {
   relationshipLevel: "closeness-level/level-3",
   settingTags: ["setting-tag/indoor", "setting-tag/kitchen"],
   poseTags: ["pose-tag/top-down-view"],
+  createdAt: "2026-08-13T00:01:20.907Z",
+  updatedAt: "2026-09-27T15:49:04.000Z",
 } as const satisfies Image

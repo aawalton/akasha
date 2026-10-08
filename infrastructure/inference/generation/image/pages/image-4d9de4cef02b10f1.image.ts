@@ -12,4 +12,6 @@ export const image4d9de4cef02b10f1 = {
   ethnicityTags: ["ethnicity-tag/white"],
   ageTags: ["age-tag/age-25-34"],
   persona: "persona/aine",
+  createdAt: "2026-06-30T11:09:35.389Z",
+  updatedAt: "2026-09-27T16:23:48.000Z",
 } as const satisfies Image

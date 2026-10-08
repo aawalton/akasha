@@ -17,4 +17,6 @@ export const image470f06f07f8a3d6f = {
   ],
   prompt:
     "Fantasy photorealistic candid photograph, nobody looks at the camera. Keep the place from the first image, inside the Hall of Naming, the white columns and glass dome soft and blurred behind. Close-up of the pink-haired woman from the second image standing in the silver circle, her face tipped up, reading the glowing violet pane above her head very slowly and carefully, eyes narrowed in concentration, lips moving as she spells it out under her breath, a small worried crease between her brows, perfectly composed and careful rather than frightened. A small V-line face, big rose-pink doe eyes, glossy pink lips, pale porcelain skin, short rose-pink layered bob with side-swept bangs and a pink-and-white flower clip; slim build, small chest; cropped cream halter top laced up the front, the strap of a small leather satchel across her chest. Soft violet glow on her face from above mixing with cool daylight from the dome. Head-and-shoulders close-up from slightly below, 85mm lens, very shallow depth of field, nothing lettered.",
+  createdAt: "2026-10-04T10:16:38.881Z",
+  updatedAt: "2026-10-04T10:16:39.000Z",
 } as const satisfies Image

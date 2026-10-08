@@ -31,4 +31,6 @@ export const image4af3deecb3fdcb17 = {
   fantasyTags: ["fantasy-tag/green-skin", "fantasy-tag/elf-ears", "fantasy-tag/red-eyes"],
   ageTags: ["age-tag/age-25-34"],
   persona: "persona/nova",
+  createdAt: "2026-06-27T13:16:54.319Z",
+  updatedAt: "2026-09-27T16:23:48.000Z",
 } as const satisfies Image

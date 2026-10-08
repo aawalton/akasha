@@ -14,4 +14,6 @@ export const image3a6f294461635018 = {
   height: 1216,
   prompt:
     "Photorealistic photograph, natural candid portrait. A gorgeous twenty one year old American woman stands alone in a sunny Florida theme park, framed head to thigh, facing the camera with a wide confident grin, running one hand through her hair. Tall, slim and lean, with a small flat chest and small breasts, narrow hips and slender thighs, never curvy or busty. Pale skin freckled all over her face, shoulders and chest, bright green eyes. Thick copper red hair, no hat, falling loose past her shoulders in big tousled waves. She wears only a long, loose, oversized soft white t shirt that slips off one bare freckled shoulder, braless, the thin cotton hanging loose over her small breasts, the hem falling to mid thigh and completely hiding whatever she wears underneath, long bare legs below it. Behind her, softly out of focus, a busy theme park walkway with palm trees, colourful ride structures and a bright blue sky. Bright late afternoon sunlight, warm golden tones, sun catching her red hair. Shot on a full frame camera with an 85mm lens at f2, shallow depth of field, sharp focus on her eyes, she fills the frame.",
+  createdAt: "2026-10-06T21:19:06.653Z",
+  updatedAt: "2026-10-06T21:19:07.000Z",
 } as const satisfies Image

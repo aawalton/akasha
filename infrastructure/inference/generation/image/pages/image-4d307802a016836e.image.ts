@@ -19,4 +19,6 @@ export const image4d307802a016836e = {
   ],
   prompt:
     "She is an adult woman. Keep her exact face, hair, eyes and every distinctive feature, including any horns, ears, markings or non-human traits. She is an ordinary human woman with no horns and normal human ears; add nothing to her head. She lies on her stomach in a patch of clover in a park, propped on her elbows, absorbed in reading an open paperback novel held in front of her, eyes on the page, not looking at the camera. Her bare back is to the sun and a patterned sarong is wrapped over her hips; her chest is hidden against the ground and by her arms. Camera low from the grass at three-quarter view from behind her shoulder, soft fresh morning light, dew on the clover. No other people. Photorealistic, natural skin detail.",
+  createdAt: "2026-09-28T19:00:40.522Z",
+  updatedAt: "2026-09-28T19:20:34.000Z",
 } as const satisfies Image

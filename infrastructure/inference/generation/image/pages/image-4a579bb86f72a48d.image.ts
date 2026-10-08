@@ -17,4 +17,6 @@ export const image4a579bb86f72a48d = {
   ],
   prompt:
     "Fantasy photorealistic candid photograph, she does not look at the camera. Keep the place from the first image, the timber guild hall, in its dim bottom corner by the last of the low grey chalk slates. A puff of thick bright green smoke billows up toward the rafters, and the small blonde woman from the second image, the only person in the picture, stumbles out of the middle of it, waving both hands at the smoke, coughing, eyes squinting, embarrassed and apologetic, a popped cork in one hand. The woman: a gorgeous small petite young Japanese woman of twenty, small round doll-like face, big bright blue eyes, tiny nose, soft pink lips, fair smooth skin with a smudge of soot across one cheek, blonde hair with wispy bangs in two long braids with singed ends, brass goggles pushed up on her head; slim build, small chest; cream blouse with rolled sleeves, a too-big scorched leather apron with a scorch mark down the front, a belt of corked glass vials at her waist. Green haze lit by shafts of warm afternoon light from high windows. Medium full shot, 35mm lens, her face clear through the thinning smoke.",
+  createdAt: "2026-10-04T11:46:06.000Z",
+  updatedAt: "2026-10-04T11:46:06.000Z",
 } as const satisfies Image

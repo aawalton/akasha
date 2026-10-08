@@ -11,4 +11,6 @@ export const image4d8b362d10900c22 = {
   wardrobeTags: ["wardrobe-tag/armor", "wardrobe-tag/fully-clothed", "wardrobe-tag/boots"],
   fantasyTags: ["fantasy-tag/magic", "fantasy-tag/anthro"],
   ageTags: ["age-tag/age-25-34"],
+  createdAt: "2026-09-21T21:51:38.406Z",
+  updatedAt: "2026-09-27T15:52:40.000Z",
 } as const satisfies Image

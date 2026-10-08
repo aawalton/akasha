@@ -16,4 +16,6 @@ export const image4de694238c84140f = {
   height: 1216,
   prompt:
     "A 24-year-old adult woman, grown woman's face with defined cheekbones and jawline, adult body proportions, Polish with fair skin, straight ash-brown hair to her shoulders, fit slim build, a sleeve tattoo of wildflowers on one arm, sitting on a bench-side patch of grass in the shade of a birch grove, an oversized denim shirt worn open and slipping off both shoulders, nothing underneath, knees pulled up and crossed, sketching in a notebook balanced on her knees, absorbed, looking down, close three-quarter crop, cool soft shade with bright sunlit lawn behind, alone, photorealistic, natural skin detail",
+  createdAt: "2026-09-28T21:16:08.310Z",
+  updatedAt: "2026-09-28T21:16:28.000Z",
 } as const satisfies Image

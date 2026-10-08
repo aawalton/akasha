@@ -17,4 +17,6 @@ export const image3b4b723c856a98aa = {
   ],
   prompt:
     "Fantasy photorealistic candid photograph, nobody looks at the camera. Keep the white stone of the Hall of Naming from the first image, outside on its broad white steps before the tall doors, mist over the lake behind. On the step above stands a frightened young East Asian woman of twenty with a long dark plait in a plain blue dress, shoulders hunched and trembling, hands clenched, pale. The pink-haired woman from the second image, one step below, touches the girl's elbow with one gloved hand and holds out a small green mint leaf to her with the other, looking up at her with a warm, kind, reassuring smile; the girl looks down at the leaf, startled. A small V-line face, big rose-pink doe eyes, glossy pink lips, pale porcelain skin, short rose-pink layered bob with side-swept bangs and a pink-and-white flower clip; slim build, small chest; cropped cream halter top laced up the front, short sage-green skirt, brown belt with pouches, fingerless leather gloves, tall brown boots, small leather satchel across her chest. Soft misty morning light. Medium shot of the two in profile, 50mm lens, both faces clear, shallow depth of field.",
+  createdAt: "2026-10-04T09:58:35.681Z",
+  updatedAt: "2026-10-04T09:58:36.000Z",
 } as const satisfies Image

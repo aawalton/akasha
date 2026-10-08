@@ -23,4 +23,6 @@ export const image45c10ada409529c8 = {
   fantasyTags: ["fantasy-tag/fairy", "fantasy-tag/glowing-eyes", "fantasy-tag/wings"],
   ethnicityTags: ["ethnicity-tag/asian"],
   ageTags: ["age-tag/age-25-34"],
+  createdAt: "2026-09-21T21:51:08.045Z",
+  updatedAt: "2026-09-27T15:52:40.000Z",
 } as const satisfies Image

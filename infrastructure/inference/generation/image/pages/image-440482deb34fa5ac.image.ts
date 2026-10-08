@@ -14,4 +14,6 @@ export const image440482deb34fa5ac = {
   height: 1216,
   prompt:
     "fantasy photorealistic landscape, an old humped stone toll bridge with one deep dark arch over a slow green river, moss and ferns on the old stones, a crumbling little toll house at one end, green sheep meadows rolling away on both banks, willows along the water, soft summer morning light, the shadow under the arch very dark, no people, no animals, empty scene",
+  createdAt: "2026-10-06T11:50:03.000Z",
+  updatedAt: "2026-10-06T11:50:03.000Z",
 } as const satisfies Image

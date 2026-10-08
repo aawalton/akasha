@@ -16,4 +16,6 @@ export const image4d798cff693cd65e = {
   height: 1216,
   prompt:
     "A 24-year-old adult woman, grown woman's face with defined cheekbones and jawline, adult body proportions, German with fair lightly tanned skin, sandy blonde messy bun, a few freckles, fit toned build, crouched on the grass beside her towel, rubbing sunscreen onto her calf, topless in olive-green bikini bottoms, a canvas tote and water bottle nearby, glancing up and off to the side squinting at the bright sky, seen from behind and above her shoulder, harsh bright noon sun, alone, photorealistic, natural skin detail",
+  createdAt: "2026-09-28T21:21:20.511Z",
+  updatedAt: "2026-09-28T21:21:43.000Z",
 } as const satisfies Image

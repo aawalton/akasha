@@ -12,4 +12,6 @@ export const image458d627d2ca1befc = {
   wardrobeTags: ["wardrobe-tag/cardigan", "wardrobe-tag/sweater", "wardrobe-tag/loungewear"],
   ethnicityTags: ["ethnicity-tag/white"],
   ageTags: ["age-tag/age-25-34"],
+  createdAt: "2026-06-30T11:09:30.099Z",
+  updatedAt: "2026-09-27T15:52:40.000Z",
 } as const satisfies Image

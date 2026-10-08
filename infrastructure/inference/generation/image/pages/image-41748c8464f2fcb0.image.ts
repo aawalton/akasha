@@ -16,4 +16,6 @@ export const image41748c8464f2fcb0 = {
   height: 1216,
   prompt:
     "Candid photograph of a 21-year-old adult woman, fresh youthful grown woman's face, Korean with light warm skin, long straight black hair wet down her back, very petite slim build, nearly flat chest with tiny breasts, slim narrow hips, standing in waist-deep water in a luxury rooftop hotel pool at night, reaching behind her back to untie her pale pink bikini top, the strings loose and the top slipping, looking down and to the side with a shy teasing smile, not at the camera, glowing underwater lights on her skin, city lights and glass railing behind, natural light, 35mm lens.",
+  createdAt: "2026-10-04T22:07:49.163Z",
+  updatedAt: "2026-10-04T22:08:29.000Z",
 } as const satisfies Image

@@ -14,4 +14,6 @@ export const image3a4194b224fa3d04 = {
   height: 1216,
   prompt:
     "Photorealistic photograph, natural candid portrait. A gorgeous twenty year old South Asian American woman stands alone in a sunny Florida theme park, framed head to thigh, facing the camera with a dry deadpan half smile, one eyebrow slightly raised, hands tucked in her back pockets. Petite, short, slim and slender, with a small chest and small breasts, a flat bare stomach and slim hips, never curvy or busty. Warm brown skin glowing in the heat, glossy black hair in a chin length blunt bob with blunt bangs, dark brown eyes behind round tortoiseshell glasses, dark winged eyeliner, a small gold nose stud. She wears a black string triangle bikini top tied behind her neck and back, and tight low rise black bike shorts, bare midriff. Behind her, softly out of focus, a busy theme park walkway with palm trees, colourful ride structures and a bright blue sky. Bright late afternoon sunlight, warm golden tones, soft shadows on her face. Shot on a full frame camera with an 85mm lens at f2, shallow depth of field, sharp focus on her eyes, she fills the frame.",
+  createdAt: "2026-10-06T21:24:27.000Z",
+  updatedAt: "2026-10-06T21:24:27.000Z",
 } as const satisfies Image

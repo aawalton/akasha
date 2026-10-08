@@ -12,4 +12,6 @@ export const image3c355f5e62236b59 = {
   fantasyTags: ["fantasy-tag/cosplay", "fantasy-tag/superhero"],
   ethnicityTags: ["ethnicity-tag/white"],
   ageTags: ["age-tag/age-25-34"],
+  createdAt: "2026-09-21T21:51:50.081Z",
+  updatedAt: "2026-09-27T15:52:40.000Z",
 } as const satisfies Image

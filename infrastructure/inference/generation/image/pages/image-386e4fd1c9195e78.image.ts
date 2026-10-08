@@ -22,4 +22,6 @@ export const image386e4fd1c9195e78 = {
   wardrobeTags: ["wardrobe-tag/top", "wardrobe-tag/veil", "wardrobe-tag/jewelry"],
   ethnicityTags: ["ethnicity-tag/south-asian"],
   ageTags: ["age-tag/age-25-34"],
+  createdAt: "2026-09-21T21:51:03.321Z",
+  updatedAt: "2026-09-27T15:52:40.000Z",
 } as const satisfies Image

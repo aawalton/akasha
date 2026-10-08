@@ -8,4 +8,6 @@ export const image4e247732c8fb8208 = {
   grade: "B",
   relationshipLevel: "closeness-level/level-1",
   settingTags: ["setting-tag/car"],
+  createdAt: "2026-09-24T20:54:07.315Z",
+  updatedAt: "2026-09-27T15:48:03.000Z",
 } as const satisfies Image

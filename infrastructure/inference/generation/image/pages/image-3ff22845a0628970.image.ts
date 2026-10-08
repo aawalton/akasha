@@ -16,4 +16,6 @@ export const image3ff22845a0628970 = {
   height: 832,
   prompt:
     "Candid photograph of a 23-year-old adult woman, fresh youthful grown woman's face, Spanish with olive skin, long dark wavy hair fanned out, very slim build, nearly flat chest with tiny breasts, nude, floating face-up in the clear water of a private luxury hotel plunge pool, arms spread wide, eyes closed, serene smile, her body softly visible beneath the rippling surface, rose petals floating around her, seen from directly above, white stone pool edge and a frangipani branch in the corner, golden evening light, natural light.",
+  createdAt: "2026-10-04T22:08:52.978Z",
+  updatedAt: "2026-10-04T22:09:50.000Z",
 } as const satisfies Image

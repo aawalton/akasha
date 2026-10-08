@@ -12,4 +12,6 @@ export const image4ef114d48f4d43c3 = {
   fantasyTags: ["fantasy-tag/scales"],
   ethnicityTags: ["ethnicity-tag/white"],
   ageTags: ["age-tag/age-25-34"],
+  createdAt: "2026-09-21T21:51:50.081Z",
+  updatedAt: "2026-09-27T15:52:40.000Z",
 } as const satisfies Image

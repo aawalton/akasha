@@ -18,4 +18,6 @@ export const image3f612a7883bd847e = {
   wardrobeTags: ["wardrobe-tag/long-sleeves", "wardrobe-tag/scarf"],
   ethnicityTags: ["ethnicity-tag/mixed"],
   ageTags: ["age-tag/age-25-34"],
+  createdAt: "2026-09-21T21:50:58.831Z",
+  updatedAt: "2026-09-27T15:52:40.000Z",
 } as const satisfies Image

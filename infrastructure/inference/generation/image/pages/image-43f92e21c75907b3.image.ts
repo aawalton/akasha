@@ -6,4 +6,6 @@ export const image43f92e21c75907b3 = {
   slug: "image-43f92e21c75907b3",
   relationshipLevel: "closeness-level/level-1",
   settingTags: ["setting-tag/ocean", "setting-tag/mountains", "setting-tag/rain"],
+  createdAt: "2026-09-21T21:51:50.081Z",
+  updatedAt: "2026-09-27T15:48:03.000Z",
 } as const satisfies Image

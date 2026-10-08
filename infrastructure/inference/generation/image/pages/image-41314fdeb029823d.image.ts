@@ -14,4 +14,6 @@ export const image41314fdeb029823d = {
   height: 1216,
   prompt:
     "real photograph, natural realistic skin texture, fantasy setting. A single gorgeous young Korean woman of twenty alone, framed from head to mid-thigh, with a K-pop idol's face: a small V-line face, big sparkling doe eyes with soft aegyo-sal, a small delicate nose, glossy pink lips, pale porcelain skin with a soft blush, a sweet innocent bright smile. Her eyes are deep emerald green, exactly the same deep green as her hair. Short deep forest-green layered bob with wispy bangs. A very slim, slender, petite build with narrow shoulders, a tiny waist, slim legs and a small flat A-cup chest with no cleavage. She wears a halter top and a skirt. A white cotton halter top with a little embroidered flower and a short floaty pale-pink tiered skirt. Standing at a flower stall in a sunny fantasy market square, soft bokeh.",
+  createdAt: "2026-10-03T13:08:39.865Z",
+  updatedAt: "2026-10-03T13:08:40.000Z",
 } as const satisfies Image

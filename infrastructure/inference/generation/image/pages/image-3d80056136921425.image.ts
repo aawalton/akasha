@@ -21,4 +21,6 @@ export const image3d80056136921425 = {
   wardrobeTags: ["wardrobe-tag/shirt", "wardrobe-tag/long-sleeves"],
   ethnicityTags: ["ethnicity-tag/white"],
   ageTags: ["age-tag/age-25-34"],
+  createdAt: "2026-06-30T11:09:34.896Z",
+  updatedAt: "2026-09-27T15:52:40.000Z",
 } as const satisfies Image

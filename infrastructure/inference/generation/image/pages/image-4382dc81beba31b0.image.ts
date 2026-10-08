@@ -16,4 +16,6 @@ export const image4382dc81beba31b0 = {
   height: 1216,
   prompt:
     "Candid photograph of a 22-year-old adult woman, grown woman's face, Vietnamese with golden skin, long straight black hair with a few wet strands across her cheek, petite slim build with a small flat chest, standing under the outdoor rain shower beside a luxury hotel pool, eyes closed, both hands smoothing her hair back as the water runs down, wearing a sage green bikini, serene expression, not looking at the camera, teak deck, ferns and a stone wall behind, the pool's blue edge in the corner of the frame, dappled midday light, natural light, 35mm lens.",
+  createdAt: "2026-10-04T22:00:24.779Z",
+  updatedAt: "2026-10-04T22:01:44.000Z",
 } as const satisfies Image

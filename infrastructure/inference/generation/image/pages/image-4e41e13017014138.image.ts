@@ -16,4 +16,6 @@ export const image4e41e13017014138 = {
   height: 832,
   prompt:
     "A 24-year-old grown adult woman, mature woman's face with strong defined cheekbones and jawline, full adult bust and hips, clearly a woman in her mid-twenties, Kenyan with deep dark skin, short natural cropped hair, long beaded earrings, tall fit athletic build, sitting on a bright orange kanga cloth on the grass, topless with the kanga wrapped around her hips, leaning back on her hands, face tilted up to the sun with eyes closed, three-quarter side view, intense clear midday sun, alone, photorealistic, natural skin detail",
+  createdAt: "2026-09-28T21:31:20.438Z",
+  updatedAt: "2026-09-28T21:31:44.000Z",
 } as const satisfies Image

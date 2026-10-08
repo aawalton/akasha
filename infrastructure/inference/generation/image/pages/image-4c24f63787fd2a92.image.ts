@@ -22,4 +22,6 @@ export const image4c24f63787fd2a92 = {
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/off-shoulder", "wardrobe-tag/jewelry"],
   ethnicityTags: ["ethnicity-tag/white"],
   ageTags: ["age-tag/age-18-24"],
+  createdAt: "2026-09-21T21:50:58.832Z",
+  updatedAt: "2026-09-27T15:59:30.000Z",
 } as const satisfies Image

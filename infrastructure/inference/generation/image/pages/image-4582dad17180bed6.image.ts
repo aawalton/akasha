@@ -21,4 +21,6 @@ export const image4582dad17180bed6 = {
   wardrobeTags: ["wardrobe-tag/nude", "wardrobe-tag/topless"],
   ethnicityTags: ["ethnicity-tag/white"],
   ageTags: ["age-tag/age-25-34"],
+  createdAt: "2026-09-21T21:51:43.893Z",
+  updatedAt: "2026-09-27T15:52:40.000Z",
 } as const satisfies Image

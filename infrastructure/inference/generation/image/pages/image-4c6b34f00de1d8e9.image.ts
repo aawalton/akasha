@@ -14,4 +14,6 @@ export const image4c6b34f00de1d8e9 = {
   height: 1216,
   prompt:
     "Fantasy photorealistic, sensual and elegant. A portrait of one strikingly beautiful young Korean woman alone, a concert cellist of twenty-five, standing in a candlelit Venetian ballroom with mirrored walls and crystal chandeliers. She is slender and willowy with a slim waist, slender arms and a small, nearly flat chest, smooth pale golden skin, dark eyes and glossy black hair cut in a sharp chin-length bob. She wears an ornate gold filigree half-mask over her eyes and the bridge of her nose, her red-painted lips bare below it, and a long dark red silk gown with a high neck and no cleavage, bare shoulders and arms. Her posture is poised and reserved, one hand resting on the scroll of a cello beside her, chin level, her dark eyes behind the mask watching the viewer with cool composure and a hint of hidden heat. Warm candlelight glinting on the gold mask and the silk, the ballroom softly blurred behind her in gold and deep red. Framed from head to mid-thigh, vertical composition, 85mm lens, shallow depth of field, fine skin texture, rich reds and golds, gentle film grain.",
+  createdAt: "2026-10-01T21:39:29.000Z",
+  updatedAt: "2026-10-01T21:39:29.000Z",
 } as const satisfies Image

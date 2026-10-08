@@ -12,4 +12,6 @@ export const image497b8fe8c709dff2 = {
   wardrobeTags: ["wardrobe-tag/body-paint", "wardrobe-tag/topless"],
   ethnicityTags: ["ethnicity-tag/mixed"],
   ageTags: ["age-tag/age-25-34"],
+  createdAt: "2026-09-21T21:51:12.749Z",
+  updatedAt: "2026-09-27T15:52:40.000Z",
 } as const satisfies Image
