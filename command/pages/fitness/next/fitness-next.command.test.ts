@@ -65,6 +65,7 @@ function mark(over: Partial<Mark> = {}): Mark {
     lastOn: "2026-06-25",
     staleBouts: 0,
     turns: 0,
+    byLoad: new Map(),
     ...over,
   }
 }
@@ -231,6 +232,43 @@ test("a best Alan took at another gym sets the weight and reps at this one", () 
   const offer = offerOf(week([BENCH]), EVERY, KNOWN, ROOM, FREE, WARM)
   expect(offer?.weight).toBe(30)
   expect(offer?.reps).toBe(21)
+})
+
+const SQUAT = movement("dumbbell-squat", { muscles: ["quadriceps"], pattern: "squat" })
+
+const HOTEL_BEST = mark({
+  weight: 40,
+  reps: 10,
+  byLoad: new Map([
+    [40, 10],
+    [30, 14],
+  ]),
+})
+
+test("a best heavier than the kit at home holds is offered at the heaviest load home holds", () => {
+  const known = new Map<string, Mark>([["dumbbell-squat", HOTEL_BEST]])
+  const offer = offerOf(week([SQUAT]), KIT, known, BOUNDS, FREE, WARM)
+  expect(offer?.weight).toBe(30)
+  expect(offer?.reps).toBe(15)
+  expect(offer?.atKitCeiling).toBe(true)
+})
+
+test("a capped weight Alan never logged holds the reps of his best", () => {
+  const known = new Map<string, Mark>([
+    ["dumbbell-squat", mark({ weight: 40, reps: 10, byLoad: new Map([[40, 10]]) })],
+  ])
+  const offer = offerOf(week([SQUAT]), KIT, known, BOUNDS, FREE, WARM)
+  expect(offer?.weight).toBe(30)
+  expect(offer?.reps).toBe(10)
+  expect(offer?.atKitCeiling).toBe(true)
+})
+
+test("a gym holding every implement offers the best weight uncapped", () => {
+  const known = new Map<string, Mark>([["dumbbell-squat", HOTEL_BEST]])
+  const offer = offerOf(week([SQUAT]), EVERY, known, BOUNDS, FREE, WARM)
+  expect(offer?.weight).toBe(40)
+  expect(offer?.reps).toBe(11)
+  expect(offer?.atKitCeiling).toBe(false)
 })
 
 test("reps climb while the kit can still load the movement", () => {

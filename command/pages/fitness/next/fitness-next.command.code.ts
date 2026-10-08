@@ -193,6 +193,23 @@ export function climbOf(
   return { reps: best + 1, slower: false }
 }
 
+type Load = {
+  readonly weight: number | null
+  readonly reps: number | null
+  readonly atKitCeiling: boolean
+  readonly slower: boolean
+}
+
+export function loadOf(mark: Mark | null, top: number | null, cap: number): Load {
+  const weight = mark?.weight ?? null
+  if (mark === null || weight === null || top === null || weight < top)
+    return { weight, atKitCeiling: false, ...climbOf(mark, false, cap) }
+  if (weight === top) return { weight, atKitCeiling: true, ...climbOf(mark, true, cap) }
+  const atTop = mark.byLoad.get(top) ?? null
+  if (atTop === null) return { weight: top, reps: mark.reps, atKitCeiling: true, slower: false }
+  return { weight: top, atKitCeiling: true, ...climbOf({ ...mark, reps: atTop }, true, cap) }
+}
+
 export function offerOf(
   week: TrainingWeek,
   kit: readonly Kit[],
@@ -227,13 +244,12 @@ export function offerOf(
   if (best === undefined) return null
   const mark = marks.get(best.one.slug) ?? null
   const top = best.one.implement === null ? null : topLoadFor(kit, best.one.implement)
-  const atKitCeiling = mark?.weight != null && top !== null && mark.weight >= top
-  const climb = climbOf(mark, atKitCeiling, bounds.repsCap)
+  const load = loadOf(mark, top, bounds.repsCap)
   const work = {
     movement: best.one.slug,
     title: best.one.title ?? best.one.slug,
-    weight: mark?.weight ?? null,
-    reps: climb.reps,
+    weight: load.weight,
+    reps: load.reps,
   }
   const warmup = warmupFor(best.one, week.movements, {
     warm: warmth.warm,
@@ -251,9 +267,9 @@ export function offerOf(
     ...work,
     muscle: best.muscle,
     owed: best.owed,
-    atKitCeiling,
+    atKitCeiling: load.atKitCeiling,
     familiar: (mark?.sets ?? 0) > 0,
-    slower: climb.slower,
+    slower: load.slower,
     step: stepFor(warmup, work),
   }
 }

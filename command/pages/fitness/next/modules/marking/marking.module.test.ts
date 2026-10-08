@@ -34,6 +34,7 @@ function mark(over: Partial<Mark> = {}): Mark {
     lastOn: day20260916.date,
     staleBouts: 0,
     turns: 0,
+    byLoad: new Map(),
     ...over,
   }
 }
@@ -57,6 +58,22 @@ test("the best of a movement is the heaviest load, and the most reps at that loa
   const held = marksIn(sets, 7, day20260918.date).get(hammerCurls.slug)
   expect(held?.weight).toBe(20)
   expect(held?.reps).toBe(11)
+})
+
+test("a mark keeps the most reps Alan took near failure at each load he used", () => {
+  const sets = [
+    { day: SIXTEENTH, exercise: CURLS_AT, weight: 20, reps: 8, rpe: 9 },
+    { day: SIXTEENTH, exercise: CURLS_AT, weight: 15, reps: 30, rpe: 9 },
+    { day: SIXTEENTH, exercise: CURLS_AT, weight: 15, reps: 22, rpe: 9 },
+    { day: SIXTEENTH, exercise: CURLS_AT, weight: 10, reps: 40, rpe: 4 },
+  ]
+  const held = marksIn(sets, 7, day20260918.date).get(hammerCurls.slug)
+  expect(held?.byLoad).toEqual(
+    new Map([
+      [20, 8],
+      [15, 30],
+    ])
+  )
 })
 
 test("a movement Alan turns down counts against it as much as a set counts for it", () => {

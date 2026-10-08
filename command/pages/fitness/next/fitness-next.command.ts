@@ -49,6 +49,23 @@ export const fitnessNext = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "A best heavier than the kit at Alan's gym holds is offered at the heaviest load that kit holds.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A capped weight climbs from the most reps Alan logged at that load.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A capped weight Alan never logged holds the reps of his best.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A capped weight is at the kit's ceiling.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A run answering as JSON names the gym it weighed the movements against.",
     },
     {

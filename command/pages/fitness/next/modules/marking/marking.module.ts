@@ -18,6 +18,10 @@ export const marking = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A mark keeps the most reps Alan took near failure at each load he used.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement:
         "A bout without progress is a day Alan took the movement near failure without beating its best.",
     },

@@ -18,6 +18,7 @@ export type Mark = {
   readonly lastOn: string | null
   readonly staleBouts: number
   readonly turns: number
+  readonly byLoad: ReadonlyMap<number, number>
 }
 
 const NOTHING: Mark = {
@@ -28,6 +29,16 @@ const NOTHING: Mark = {
   lastOn: null,
   staleBouts: 0,
   turns: 0,
+  byLoad: new Map(),
+}
+
+function loadedWith(
+  was: ReadonlyMap<number, number>,
+  weight: number | null,
+  reps: number | null
+): ReadonlyMap<number, number> {
+  if (weight === null || reps === null || (was.get(weight) ?? 0) >= reps) return was
+  return new Map([...was, [weight, reps]])
 }
 
 export function depthOf(mark: Mark | undefined): number {
@@ -98,6 +109,7 @@ export function marksIn(
       lastOn: was.lastOn !== null && was.lastOn > on ? was.lastOn : on,
       staleBouts: 0,
       turns: 0,
+      byLoad: loadedWith(was.byLoad, weight, reps),
     })
   }
   return staledIn(held, days, turns)
