@@ -35,6 +35,8 @@ const WHOLE = {
   slug: "a-service",
   definition: "a service representing a test",
   enabled: true,
+  createdAt: "2026-09-01T00:00:00.000Z",
+  updatedAt: "2026-09-01T00:00:00.000Z",
 }
 
 function runnerBeside(): string {
@@ -65,7 +67,7 @@ test("a service whose page states it is not told is read that way", () => {
 })
 
 test("a value missing what a service needs is read as none", () => {
-  for (const key of ["id", "slug", "definition", "enabled"]) {
+  for (const key of ["id", "slug", "definition", "enabled", "createdAt", "updatedAt"]) {
     const held: Record<string, unknown> = { ...WHOLE }
     delete held[key]
     expect(serviceIn(ROOT, held)).toBe(null)

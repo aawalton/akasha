@@ -23,6 +23,8 @@ const BASE = {
   definition: "the service a test reads the health of",
   runs: ["bun a.ts"],
   enabled: true,
+  createdAt: "2026-09-01T00:00:00.000Z",
+  updatedAt: "2026-09-01T00:00:00.000Z",
 } as const satisfies Started
 
 const PAGE = "akasha/a.service-workstation.ts"

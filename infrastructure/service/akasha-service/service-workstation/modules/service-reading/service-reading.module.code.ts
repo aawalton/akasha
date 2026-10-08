@@ -123,9 +123,12 @@ export function serviceIn(
   const id = textAt(value, "id")
   const slug = textAt(value, "slug")
   const definition = textAt(value, "definition")
+  const createdAt = textAt(value, "createdAt")
+  const updatedAt = textAt(value, "updatedAt")
   const runs = runsFrom(pages, value, codeAt, bundles)
   const enabled = value.enabled
   if (id === null || slug === null || definition === null || runs === null) return null
+  if (createdAt === null || updatedAt === null) return null
   if (refusedIn(runs)) return null
   if (typeof enabled !== "boolean") return null
   const systemd = systemdIn(value)
@@ -143,6 +146,8 @@ export function serviceIn(
     definition,
     runs,
     enabled,
+    createdAt,
+    updatedAt,
     ...(systemd === undefined ? {} : { systemd }),
     ...(typeof needsSecrets === "boolean" ? { needsSecrets } : {}),
     ...(typeof port === "number" ? { port } : {}),
