@@ -33,4 +33,6 @@ export const temperCatalog = {
       statement: "A page here is replaced by the next capture rather than edited by hand.",
     },
   ],
+  createdAt: "2026-09-02T01:12:12.928Z",
+  updatedAt: "2026-09-27T04:07:32.000Z",
 } as const satisfies Domain

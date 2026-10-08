@@ -11,4 +11,6 @@ export const seatClaudeCodeSetup = {
     "module/supervisor-claude-config",
     "module/supervisor-usage-snapshot",
   ],
+  createdAt: "2026-09-13T20:20:52.210Z",
+  updatedAt: "2026-09-24T16:28:05.000Z",
 } as const satisfies Domain

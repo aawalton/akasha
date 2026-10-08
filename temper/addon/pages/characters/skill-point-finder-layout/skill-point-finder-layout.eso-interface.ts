@@ -13,4 +13,6 @@ export const skillPointFinderLayout = {
       statement: "The markup loads after the compiled Lua bundle.",
     },
   ],
+  createdAt: "2026-09-02T16:16:55.511Z",
+  updatedAt: "2026-09-22T13:43:25.000Z",
 } as const satisfies EsoInterface

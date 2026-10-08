@@ -40,4 +40,6 @@ export const temperSavedVarsMigration = {
       statement: "Nothing here deletes the file a migration read from.",
     },
   ],
+  createdAt: "2026-09-02T04:48:22.203Z",
+  updatedAt: "2026-09-21T15:23:34.000Z",
 } as const satisfies Domain

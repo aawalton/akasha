@@ -7,4 +7,6 @@ export const craftingCookLayout = {
   definition: "the provisioning window and its recipe grid",
   markup: "xml",
   loadedAs: "XML/UI/CraftingCook.xml",
+  createdAt: "2026-09-02T11:01:26.336Z",
+  updatedAt: "2026-09-22T06:25:40.000Z",
 } as const satisfies EsoInterface

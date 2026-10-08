@@ -70,4 +70,6 @@ export const seatReviving = {
       statement: "A revive is refused where the seat's row names that seat nothing.",
     },
   ],
+  createdAt: "2026-09-13T19:22:24.347Z",
+  updatedAt: "2026-09-24T15:40:45.000Z",
 } as const satisfies Domain

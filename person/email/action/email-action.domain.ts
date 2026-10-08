@@ -27,4 +27,6 @@ export const emailAction = {
       statement: "A record of an action is written once and never changed.",
     },
   ],
+  createdAt: "2026-09-03T13:00:18.017Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies Domain

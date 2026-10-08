@@ -30,4 +30,6 @@ export const emailInbound = {
       statement: "A persona's channel address is read off her own page rather than kept here.",
     },
   ],
+  createdAt: "2026-09-01T07:09:26.370Z",
+  updatedAt: "2026-09-24T22:43:38.000Z",
 } as const satisfies Domain

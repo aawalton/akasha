@@ -22,4 +22,6 @@ export const changeMechanicalPageTypeChange = {
       statement: "A rung here writes the declaration, the pages under it, or both.",
     },
   ],
+  createdAt: "2026-09-13T20:21:21.651Z",
+  updatedAt: "2026-09-27T06:25:17.000Z",
 } as const satisfies Domain

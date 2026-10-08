@@ -27,4 +27,6 @@ export const pageCoreView = {
     "module/read-view-filters",
     "module/sort-accessors",
   ],
+  createdAt: "2026-09-05T13:39:06.891Z",
+  updatedAt: "2026-09-28T19:52:27.000Z",
 } as const satisfies Domain

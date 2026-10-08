@@ -15,4 +15,6 @@ export const externalService = {
       statement: "An external service is no akasha service, since no deploy of akasha puts it up.",
     },
   ],
+  createdAt: "2026-09-24T18:11:47.566Z",
+  updatedAt: "2026-09-25T17:05:59.000Z",
 } as const satisfies Domain

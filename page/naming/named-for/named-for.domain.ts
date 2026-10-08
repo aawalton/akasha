@@ -6,4 +6,6 @@ export const namedFor = {
   slug: "named-for",
   definition: "how code makes a page's file name from text",
   parts: ["module/page-stem"],
+  createdAt: "2026-09-01T09:36:26.730Z",
+  updatedAt: "2026-09-25T17:24:52.000Z",
 } as const satisfies Domain

@@ -37,4 +37,6 @@ export const inferenceClient = {
       statement: "Nothing here knows which host a service is on.",
     },
   ],
+  createdAt: "2026-09-03T16:50:11.335Z",
+  updatedAt: "2026-09-25T16:34:03.000Z",
 } as const satisfies Domain

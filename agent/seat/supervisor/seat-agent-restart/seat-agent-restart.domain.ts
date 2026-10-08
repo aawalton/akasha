@@ -15,4 +15,6 @@ export const seatAgentRestart = {
     "module/agent-restart-notice-decide",
     "module/supervisor-resume-asks",
   ],
+  createdAt: "2026-09-13T20:24:54.842Z",
+  updatedAt: "2026-09-24T16:56:35.000Z",
 } as const satisfies Domain

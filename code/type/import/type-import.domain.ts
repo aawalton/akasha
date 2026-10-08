@@ -11,4 +11,6 @@ export const typeImport = {
       statement: "An akasha file imports no tracked file from outside the akasha folder.",
     },
   ],
+  createdAt: "2026-08-28T19:47:07.676Z",
+  updatedAt: "2026-09-25T14:17:15.000Z",
 } as const satisfies Domain

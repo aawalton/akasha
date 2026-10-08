@@ -31,4 +31,6 @@ export const pageEdge = {
       statement: "An edge is gone before the page runs.",
     },
   ],
+  createdAt: "2026-08-28T19:47:07.676Z",
+  updatedAt: "2026-09-25T17:22:44.000Z",
 } as const satisfies Domain

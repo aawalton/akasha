@@ -24,4 +24,6 @@ export const browserCommand = {
       statement: "Nothing here knows the purpose of any page this package looks at.",
     },
   ],
+  createdAt: "2026-09-03T17:47:29.864Z",
+  updatedAt: "2026-09-25T13:59:44.000Z",
 } as const satisfies Domain

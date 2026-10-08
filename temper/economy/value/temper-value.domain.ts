@@ -29,4 +29,6 @@ export const temperValue = {
       statement: "The value of a thing with no kind named is the largest of the three.",
     },
   ],
+  createdAt: "2026-09-19T01:55:57.176Z",
+  updatedAt: "2026-09-21T15:10:37.000Z",
 } as const satisfies Domain

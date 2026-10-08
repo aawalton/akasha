@@ -70,4 +70,6 @@ export const temperItemsRulesEval = {
       statement: "No code here reaches the game client.",
     },
   ],
+  createdAt: "2026-09-02T08:24:13.422Z",
+  updatedAt: "2026-09-26T20:09:40.000Z",
 } as const satisfies Domain

@@ -7,4 +7,6 @@ export const salesHistoryCacheControls = {
   definition: "the templates of the status window and the linked icon",
   markup: "xml",
   loadedAs: "guildHistoryCache/controls.xml",
+  createdAt: "2026-09-02T10:08:20.628Z",
+  updatedAt: "2026-09-22T14:04:10.000Z",
 } as const satisfies EsoInterface

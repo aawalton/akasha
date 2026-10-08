@@ -48,4 +48,6 @@ export const temperCommand = {
       statement: "The temper code a command here works over is in akasha.",
     },
   ],
+  createdAt: "2026-09-02T03:40:20.106Z",
+  updatedAt: "2026-09-24T18:04:32.000Z",
 } as const satisfies Domain

@@ -30,4 +30,6 @@ export const appIcon = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-03T21:43:47.390Z",
+  updatedAt: "2026-09-24T19:52:49.000Z",
 } as const satisfies FileProperty

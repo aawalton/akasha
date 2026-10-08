@@ -38,4 +38,6 @@ export const file = {
       statement: "Two processes take turns over one file rather than writing it at once.",
     },
   ],
+  createdAt: "2026-08-28T19:47:07.676Z",
+  updatedAt: "2026-09-25T16:17:26.000Z",
 } as const satisfies Domain

@@ -133,4 +133,6 @@ export const narration = {
       statement: "A phone in the background starts no new audio element.",
     },
   ],
+  createdAt: "2026-10-05T20:21:33.528Z",
+  updatedAt: "2026-10-07T15:50:37.000Z",
 } as const satisfies Domain

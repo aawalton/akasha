@@ -7,4 +7,6 @@ export const pageCoreJsonPatch = {
   definition: "how code changes a value with JSON Patch",
   spellings: [{ partOfSpeech: "part-of-speech/proper-noun", spelling: "JSON Patch" }],
   parts: ["module/apply", "module/jsonb-ops"],
+  createdAt: "2026-09-05T13:38:46.113Z",
+  updatedAt: "2026-09-25T17:20:02.000Z",
 } as const satisfies Domain

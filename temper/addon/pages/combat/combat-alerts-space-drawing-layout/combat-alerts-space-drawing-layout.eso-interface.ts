@@ -7,4 +7,6 @@ export const combatAlertsSpaceDrawingLayout = {
   definition: "the world space controls the combat alerts draw with",
   markup: "xml",
   loadedAs: "TemperCombatAlerts_SpaceDrawing.xml",
+  createdAt: "2026-09-26T16:13:55.832Z",
+  updatedAt: "2026-09-26T16:14:03.000Z",
 } as const satisfies EsoInterface

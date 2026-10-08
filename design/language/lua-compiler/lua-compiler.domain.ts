@@ -160,4 +160,6 @@ export const luaCompiler = {
     "type-declaration/sparse-array",
     "type-declaration/typescript-internals",
   ],
+  createdAt: "2026-09-03T12:58:12.006Z",
+  updatedAt: "2026-09-26T13:39:07.000Z",
 } as const satisfies Domain

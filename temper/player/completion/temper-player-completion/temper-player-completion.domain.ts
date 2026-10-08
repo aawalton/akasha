@@ -98,4 +98,6 @@ export const temperPlayerCompletion = {
       statement: "A completion card is the unit a player is measured by.",
     },
   ],
+  createdAt: "2026-09-02T07:26:23.260Z",
+  updatedAt: "2026-09-27T02:41:24.000Z",
 } as const satisfies Domain

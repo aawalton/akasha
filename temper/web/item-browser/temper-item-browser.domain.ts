@@ -43,4 +43,6 @@ export const temperItemBrowser = {
       statement: "The item table here is worked out from the set pages.",
     },
   ],
+  createdAt: "2026-09-02T09:34:23.524Z",
+  updatedAt: "2026-09-26T13:46:30.000Z",
 } as const satisfies Domain

@@ -24,4 +24,6 @@ export const googleCalendar = {
       statement: "Attendees are emailed unless the caller says otherwise.",
     },
   ],
+  createdAt: "2026-09-01T08:08:01.074Z",
+  updatedAt: "2026-09-24T22:01:00.000Z",
 } as const satisfies Domain

@@ -9,4 +9,6 @@ export const placeholderImage = {
   extensions: ["svg"],
   fileName: "public/placeholder.svg",
   types: "ts",
+  createdAt: "2026-09-08T14:45:03.646Z",
+  updatedAt: "2026-09-15T16:56:11.000Z",
 } as const satisfies FileProperty

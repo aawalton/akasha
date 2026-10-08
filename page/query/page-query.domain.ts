@@ -37,4 +37,6 @@ export const pageQuery = {
       statement: "Nothing here opens a page's file.",
     },
   ],
+  createdAt: "2026-09-01T03:04:31.146Z",
+  updatedAt: "2026-09-27T06:10:35.000Z",
 } as const satisfies Domain

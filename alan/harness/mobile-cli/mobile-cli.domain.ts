@@ -88,4 +88,6 @@ export const mobileCli = {
         "An install has every change already on main rather than the change that asked for the install.",
     },
   ],
+  createdAt: "2026-09-01T12:25:55.296Z",
+  updatedAt: "2026-09-25T16:26:38.000Z",
 } as const satisfies Domain

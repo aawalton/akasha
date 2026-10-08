@@ -124,4 +124,6 @@ export const beatState = {
       statement: "The writer renders each beat with what it changed, and adds no number.",
     },
   ],
+  createdAt: "2026-10-03T14:40:55.210Z",
+  updatedAt: "2026-10-03T21:07:11.000Z",
 } as const satisfies Domain

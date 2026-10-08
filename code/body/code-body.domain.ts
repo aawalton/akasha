@@ -15,4 +15,6 @@ export const codeBody = {
     "module/utf8-body",
     "module/commit-loading",
   ],
+  createdAt: "2026-09-13T14:29:59.504Z",
+  updatedAt: "2026-09-25T13:57:57.000Z",
 } as const satisfies Domain

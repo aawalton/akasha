@@ -32,4 +32,6 @@ export const clearings = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-13T19:32:56.788Z",
+  updatedAt: "2026-09-25T18:01:52.000Z",
 } as const satisfies FileProperty

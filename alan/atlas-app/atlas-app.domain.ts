@@ -5,4 +5,6 @@ export const atlasApp = {
   type: "page-type/domain",
   slug: "atlas-app",
   definition: "the program for the places in collections",
+  createdAt: "2026-09-03T12:24:57.658Z",
+  updatedAt: "2026-09-24T17:52:26.000Z",
 } as const satisfies Domain

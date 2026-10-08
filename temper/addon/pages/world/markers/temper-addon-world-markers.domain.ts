@@ -61,4 +61,6 @@ export const temperAddonWorldMarkers = {
       statement: "Every control the markup declares is wired to its code from the code.",
     },
   ],
+  createdAt: "2026-09-26T16:21:04.460Z",
+  updatedAt: "2026-09-26T16:21:52.000Z",
 } as const satisfies Domain

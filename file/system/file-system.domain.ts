@@ -18,4 +18,6 @@ export const fileSystem = {
     "module/whole-writing",
     "test-fixture/kept-scratch",
   ],
+  createdAt: "2026-09-01T09:28:37.696Z",
+  updatedAt: "2026-09-25T16:10:36.000Z",
 } as const satisfies Domain

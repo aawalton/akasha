@@ -17,4 +17,6 @@ export const namingFolding = {
         "A folding wrapped in a fallback or a prefix is that caller's rule rather than one here.",
     },
   ],
+  createdAt: "2026-09-11T03:07:36.254Z",
+  updatedAt: "2026-09-25T17:24:46.000Z",
 } as const satisfies Domain

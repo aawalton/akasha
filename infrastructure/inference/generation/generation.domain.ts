@@ -42,4 +42,6 @@ export const generation = {
       ],
     },
   ],
+  createdAt: "2026-09-03T04:33:27.298Z",
+  updatedAt: "2026-09-26T16:52:08.000Z",
 } as const satisfies Domain

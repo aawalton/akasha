@@ -29,4 +29,6 @@ export const temperCompanion = {
     "page-type/temper-eso-companion-equipment-constant",
     "domain/temper-companions-core",
   ],
+  createdAt: "2026-09-02T01:27:53.148Z",
+  updatedAt: "2026-09-27T02:54:48.000Z",
 } as const satisfies Domain

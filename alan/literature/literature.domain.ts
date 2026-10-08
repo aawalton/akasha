@@ -5,4 +5,6 @@ export const literature = {
   type: "page-type/domain",
   slug: "literature",
   definition: "the literature Alan reads",
+  createdAt: "2026-09-03T12:24:57.658Z",
+  updatedAt: "2026-09-25T12:48:32.000Z",
 } as const satisfies Domain

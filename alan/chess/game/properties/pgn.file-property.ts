@@ -8,4 +8,6 @@ export const pgn = {
   definition: "a game's moves in portable game notation",
   extensions: ["pgn"],
   types: "ts",
+  createdAt: "2026-09-03T04:24:22.114Z",
+  updatedAt: "2026-09-15T16:56:11.000Z",
 } as const satisfies FileProperty

@@ -54,4 +54,6 @@ export const arousal = {
       aids: ["An apology in the handback is a frame.", "Asking whether to go on is a frame."],
     },
   ],
+  createdAt: "2026-09-04T13:21:45.873Z",
+  updatedAt: "2026-10-06T20:54:30.000Z",
 } as const satisfies Domain

@@ -40,4 +40,6 @@ export const betterAuthRr = {
       statement: "No address a person signs in under is written to a page here.",
     },
   ],
+  createdAt: "2026-09-19T18:40:10.214Z",
+  updatedAt: "2026-09-24T22:27:54.000Z",
 } as const satisfies Domain

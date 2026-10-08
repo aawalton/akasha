@@ -8,4 +8,6 @@ export const instructions = {
   definition: "how a movement is performed, step by step",
   extensions: ["txt"],
   types: "ts",
+  createdAt: "2026-09-03T04:19:22.688Z",
+  updatedAt: "2026-09-15T16:56:11.000Z",
 } as const satisfies FileProperty

@@ -44,4 +44,6 @@ export const pageCore = {
       statement: "Nothing here draws a screen.",
     },
   ],
+  createdAt: "2026-09-01T06:05:33.511Z",
+  updatedAt: "2026-09-25T17:20:43.000Z",
 } as const satisfies Domain

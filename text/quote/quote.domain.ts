@@ -16,4 +16,6 @@ export const quote = {
       statement: "A quote matches any part of the document's text rather than a whole entry.",
     },
   ],
+  createdAt: "2026-09-03T16:24:14.767Z",
+  updatedAt: "2026-09-22T00:11:08.000Z",
 } as const satisfies Domain

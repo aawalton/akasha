@@ -15,4 +15,6 @@ export const temperHoldings = {
     "page-type/temper-net-worth-hour",
     "page-type/temper-sale",
   ],
+  createdAt: "2026-09-02T01:12:12.930Z",
+  updatedAt: "2026-09-27T03:14:22.000Z",
 } as const satisfies Domain

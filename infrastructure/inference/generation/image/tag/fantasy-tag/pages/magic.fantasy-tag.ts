@@ -4,4 +4,6 @@ export const magic = {
   id: "01a0e384-2e74-7257-acf3-36aef3a1e995",
   type: "page-type/fantasy-tag",
   slug: "magic",
+  createdAt: "2026-09-27T15:38:05.812Z",
+  updatedAt: "2026-09-27T15:38:08.000Z",
 } as const satisfies FantasyTag

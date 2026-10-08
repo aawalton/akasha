@@ -4,4 +4,6 @@ export const bioluminescence = {
   id: "01a0e384-2e73-799e-b274-865caea60979",
   type: "page-type/fantasy-tag",
   slug: "bioluminescence",
+  createdAt: "2026-09-27T15:38:05.811Z",
+  updatedAt: "2026-09-27T15:38:08.000Z",
 } as const satisfies FantasyTag

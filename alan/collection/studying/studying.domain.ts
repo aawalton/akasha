@@ -21,4 +21,6 @@ export const studying = {
         "A course sits under every shelf that course belongs to rather than under a single shelf.",
     },
   ],
+  createdAt: "2026-09-03T04:08:16.785Z",
+  updatedAt: "2026-09-25T13:06:03.000Z",
 } as const satisfies Domain

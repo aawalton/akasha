@@ -75,4 +75,6 @@ export const emberdeepExplicitness = {
       statement: "Every character in Emberdeep is an adult.",
     },
   ],
+  createdAt: "2026-10-02T17:34:29.758Z",
+  updatedAt: "2026-10-02T17:34:34.000Z",
 } as const satisfies Domain

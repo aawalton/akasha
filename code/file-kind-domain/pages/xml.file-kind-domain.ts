@@ -6,4 +6,6 @@ export const xml = {
   slug: "xml",
   definition: "a file of XML markup",
   namePatterns: ["*.xml", "*.svg", "*.kml", "*.plist", "*.entitlements"],
+  createdAt: "2026-09-24T22:30:14.958Z",
+  updatedAt: "2026-09-24T22:30:20.000Z",
 } as const satisfies FileKindDomain

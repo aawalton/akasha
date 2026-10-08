@@ -58,4 +58,6 @@ export const climbExplicitness = {
       statement: "Every character in The Climb is an adult.",
     },
   ],
+  createdAt: "2026-10-01T21:14:43.706Z",
+  updatedAt: "2026-10-01T21:14:46.000Z",
 } as const satisfies Domain

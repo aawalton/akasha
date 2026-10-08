@@ -37,4 +37,6 @@ export const temperCustomMenu = {
       statement: "A submenu is a window of its own that closes on a timeout.",
     },
   ],
+  createdAt: "2026-09-22T04:32:55.363Z",
+  updatedAt: "2026-09-22T05:50:40.000Z",
 } as const satisfies Domain

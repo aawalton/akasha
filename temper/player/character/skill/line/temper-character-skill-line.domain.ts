@@ -17,4 +17,6 @@ export const temperCharacterSkillLine = {
         "A class line names its category by the category page's key rather than by that page's slug.",
     },
   ],
+  createdAt: "2026-09-02T05:15:01.301Z",
+  updatedAt: "2026-09-26T20:00:01.000Z",
 } as const satisfies Domain

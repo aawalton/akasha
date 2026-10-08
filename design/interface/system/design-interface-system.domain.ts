@@ -80,4 +80,6 @@ export const designInterfaceSystem = {
       statement: "The gallery draws the badge of every display variant the property system has.",
     },
   ],
+  createdAt: "2026-09-01T10:48:05.962Z",
+  updatedAt: "2026-09-25T14:54:33.000Z",
 } as const satisfies Domain

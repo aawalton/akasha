@@ -16,4 +16,6 @@ export const clusterApi = {
       statement: "The credential is a service account token the environment has.",
     },
   ],
+  createdAt: "2026-09-03T19:52:53.162Z",
+  updatedAt: "2026-09-25T16:23:10.000Z",
 } as const satisfies Domain

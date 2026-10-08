@@ -7,4 +7,6 @@ export const browser = {
   definition: "how code uses a browser",
   spellings: [{ partOfSpeech: "part-of-speech/noun", spelling: "browser" }],
   parts: ["domain/browser-command", "domain/browser-test-harness", "module/launch-env"],
+  createdAt: "2026-09-02T17:59:44.146Z",
+  updatedAt: "2026-09-25T13:58:45.000Z",
 } as const satisfies Domain

@@ -47,4 +47,6 @@ export const git = {
       statement: "Akasha makes no git worktree, and a tree pinned at a commit is a plain export.",
     },
   ],
+  createdAt: "2026-09-01T15:03:28.508Z",
+  updatedAt: "2026-09-25T16:11:33.000Z",
 } as const satisfies Domain

@@ -6,4 +6,6 @@ export const pageUiStoreRealtime = {
   slug: "page-ui-store-realtime",
   definition: "how a browser learns of a change to a page",
   parts: ["module/jwt-exp", "module/jwt-sub", "module/payload-translator", "module/snapshot-fold"],
+  createdAt: "2026-09-05T13:39:58.805Z",
+  updatedAt: "2026-09-25T17:27:20.000Z",
 } as const satisfies Domain

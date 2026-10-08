@@ -72,4 +72,6 @@ export const inferencePool = {
       statement: "The host is reached over ssh rather than by an agent running on that host.",
     },
   ],
+  createdAt: "2026-09-03T16:24:02.557Z",
+  updatedAt: "2026-09-25T16:44:53.000Z",
 } as const satisfies Domain

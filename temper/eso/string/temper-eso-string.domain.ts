@@ -29,4 +29,6 @@ export const temperEsoString = {
       statement: "A later version of the game replaces this text rather than adding to it.",
     },
   ],
+  createdAt: "2026-09-24T15:44:35.479Z",
+  updatedAt: "2026-09-27T05:28:11.000Z",
 } as const satisfies Domain

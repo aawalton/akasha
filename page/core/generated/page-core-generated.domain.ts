@@ -57,4 +57,6 @@ export const pageCoreGenerated = {
       statement: "The icon index is written by `akasha page icon-search-index-generate`.",
     },
   ],
+  createdAt: "2026-09-05T13:38:39.369Z",
+  updatedAt: "2026-09-25T17:19:29.000Z",
 } as const satisfies Domain

@@ -9,4 +9,6 @@ export const mcpServer = {
     { partOfSpeech: "part-of-speech/noun", spelling: "mcp server" },
     { partOfSpeech: "part-of-speech/noun", spelling: "mcp servers" },
   ],
+  createdAt: "2026-09-24T17:18:35.625Z",
+  updatedAt: "2026-09-24T17:18:50.000Z",
 } as const satisfies Domain

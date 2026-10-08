@@ -34,4 +34,6 @@ export const temperItemsRulesRouting = {
       statement: "No code here reaches the game.",
     },
   ],
+  createdAt: "2026-09-02T09:02:04.766Z",
+  updatedAt: "2026-09-21T15:39:02.000Z",
 } as const satisfies Domain

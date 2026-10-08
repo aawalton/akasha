@@ -11,4 +11,6 @@ export const gameDesignDriveLoss = {
     definition:
       "Acting to stop something bad, such as progress slipping away or a chance never coming back.",
   },
+  createdAt: "2026-09-03T12:55:47.798Z",
+  updatedAt: "2026-09-15T16:44:48.000Z",
 } as const satisfies Drive

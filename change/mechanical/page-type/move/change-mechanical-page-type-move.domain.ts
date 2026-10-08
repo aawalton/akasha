@@ -20,4 +20,6 @@ export const changeMechanicalPageTypeMove = {
       statement: "No rung here moves a file.",
     },
   ],
+  createdAt: "2026-09-12T13:30:46.266Z",
+  updatedAt: "2026-10-03T18:17:42.000Z",
 } as const satisfies Domain

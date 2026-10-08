@@ -20,4 +20,6 @@ export const changeMechanicalPageRename = {
       statement: "Nothing here renames a file apart from the page that file sits beside.",
     },
   ],
+  createdAt: "2026-09-08T18:12:35.303Z",
+  updatedAt: "2026-09-25T14:53:00.000Z",
 } as const satisfies Domain

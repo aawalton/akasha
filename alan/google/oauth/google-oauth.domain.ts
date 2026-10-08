@@ -22,4 +22,6 @@ export const googleOauth = {
       statement: "One consent covers calendar, drive and mail, and one token comes of it.",
     },
   ],
+  createdAt: "2026-09-01T07:26:37.659Z",
+  updatedAt: "2026-09-24T22:12:27.000Z",
 } as const satisfies Domain

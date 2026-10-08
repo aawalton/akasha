@@ -157,4 +157,6 @@ export const rulesEngineField = {
       statement: "No rule set has a field a normalizer fills.",
     },
   ],
+  createdAt: "2026-09-03T06:41:11.168Z",
+  updatedAt: "2026-09-24T23:39:13.000Z",
 } as const satisfies Domain

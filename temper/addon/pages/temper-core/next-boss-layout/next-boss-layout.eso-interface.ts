@@ -38,4 +38,6 @@ export const nextBossLayout = {
       statement: "The map labels sit in the game's own map scene, so they keep the game's font.",
     },
   ],
+  createdAt: "2026-09-02T08:58:40.347Z",
+  updatedAt: "2026-09-25T16:20:01.000Z",
 } as const satisfies EsoInterface

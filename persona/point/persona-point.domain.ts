@@ -52,4 +52,6 @@ export const personaPoint = {
       statement: "No figure Alan reads is arrived at by counting files in a directory.",
     },
   ],
+  createdAt: "2026-09-03T13:00:18.040Z",
+  updatedAt: "2026-09-25T13:54:40.000Z",
 } as const satisfies Domain

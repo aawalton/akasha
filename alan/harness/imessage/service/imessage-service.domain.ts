@@ -6,4 +6,6 @@ export const imessageService = {
   slug: "imessage-service",
   definition: "an external service where people chat",
   spellings: [{ partOfSpeech: "part-of-speech/proper-noun", spelling: "iMessage" }],
+  createdAt: "2026-09-24T23:20:27.176Z",
+  updatedAt: "2026-09-24T23:22:29.000Z",
 } as const satisfies Domain

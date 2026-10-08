@@ -22,4 +22,6 @@ export const comfyUi = {
       statement: "A page has the lessons learned by generating with the model.",
     },
   ],
+  createdAt: "2026-09-03T16:17:57.096Z",
+  updatedAt: "2026-09-25T16:41:55.000Z",
 } as const satisfies Domain

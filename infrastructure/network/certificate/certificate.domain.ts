@@ -24,4 +24,6 @@ export const certificate = {
       statement: "Our own authority's key is not in the repository.",
     },
   ],
+  createdAt: "2026-09-03T04:33:27.298Z",
+  updatedAt: "2026-09-25T16:56:10.000Z",
 } as const satisfies Domain

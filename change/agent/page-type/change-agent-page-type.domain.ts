@@ -28,5 +28,6 @@ export const changeAgentPageType = {
     "change-agent/sort-property-values-on-every-page",
     "change-agent/unquote-text-on-every-page",
   ],
-  updatedAt: "2026-10-08T15:06:21.777Z",
+  updatedAt: "2026-10-08T15:51:32.106Z",
+  createdAt: "2026-09-08T14:41:24.580Z",
 } as const satisfies Domain

@@ -25,4 +25,6 @@ export const memory = {
       statement: "A host out of memory ends a program rather than refusing the ask.",
     },
   ],
+  createdAt: "2026-09-11T15:28:38.787Z",
+  updatedAt: "2026-09-25T16:49:18.000Z",
 } as const satisfies Domain

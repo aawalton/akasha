@@ -44,4 +44,6 @@ export const temperEvents = {
       statement: "Nothing here reaches a Date.",
     },
   ],
+  createdAt: "2026-09-22T02:52:37.293Z",
+  updatedAt: "2026-09-22T05:50:40.000Z",
 } as const satisfies Domain

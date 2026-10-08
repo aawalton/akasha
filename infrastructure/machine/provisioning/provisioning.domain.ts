@@ -47,4 +47,6 @@ export const provisioning = {
       statement: "Nothing here installs a package or makes a swapfile on a machine being set up.",
     },
   ],
+  createdAt: "2026-09-03T17:46:41.450Z",
+  updatedAt: "2026-09-25T16:51:03.000Z",
 } as const satisfies Domain

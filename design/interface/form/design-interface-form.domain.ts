@@ -22,4 +22,6 @@ export const designInterfaceForm = {
     "module/normalize-bare-numeric-time",
     "module/search-multi-select",
   ],
+  createdAt: "2026-09-01T05:43:25.850Z",
+  updatedAt: "2026-09-25T14:44:04.000Z",
 } as const satisfies Domain

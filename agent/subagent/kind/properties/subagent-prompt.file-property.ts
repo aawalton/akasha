@@ -18,4 +18,6 @@ export const subagentPrompt = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-03T17:02:07.006Z",
+  updatedAt: "2026-09-22T00:41:39.000Z",
 } as const satisfies FileProperty

@@ -25,5 +25,6 @@ export const changeMechanicalPageTypeAdd = {
       statement: "No rung here takes a key away.",
     },
   ],
-  updatedAt: "2026-10-08T15:02:56.191Z",
+  updatedAt: "2026-10-08T15:51:32.106Z",
+  createdAt: "2026-09-13T20:02:06.491Z",
 } as const satisfies Domain

@@ -31,4 +31,6 @@ export const agentTool = {
       statement: "mcp is one of the ways an agent tool is served.",
     },
   ],
+  createdAt: "2026-09-22T15:39:51.840Z",
+  updatedAt: "2026-09-24T17:30:49.000Z",
 } as const satisfies Domain

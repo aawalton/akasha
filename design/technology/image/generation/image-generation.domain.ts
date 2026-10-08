@@ -28,4 +28,6 @@ export const imageGeneration = {
       statement: "Z-Image Base times out on the MacBook.",
     },
   ],
+  createdAt: "2026-09-26T15:59:15.411Z",
+  updatedAt: "2026-09-26T16:54:14.000Z",
 } as const satisfies Domain

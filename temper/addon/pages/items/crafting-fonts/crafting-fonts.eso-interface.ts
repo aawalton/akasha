@@ -7,4 +7,6 @@ export const craftingFonts = {
   definition: "the crafting windows' fonts",
   markup: "xml",
   loadedAs: "XML/UI/CraftingFonts.xml",
+  createdAt: "2026-09-02T11:01:26.336Z",
+  updatedAt: "2026-09-22T13:54:21.000Z",
 } as const satisfies EsoInterface

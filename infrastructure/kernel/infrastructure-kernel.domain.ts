@@ -13,4 +13,6 @@ export const infrastructureKernel = {
       statement: "Everything here reads a file only Linux has.",
     },
   ],
+  createdAt: "2026-09-01T09:57:29.388Z",
+  updatedAt: "2026-09-25T16:48:41.000Z",
 } as const satisfies Domain

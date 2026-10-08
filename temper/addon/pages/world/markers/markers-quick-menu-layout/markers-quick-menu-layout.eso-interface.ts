@@ -7,4 +7,6 @@ export const markersQuickMenuLayout = {
   definition: "the quick marker window and a row of the profile prompt",
   markup: "xml",
   loadedAs: "TemperWorldMarkersQuickMenu.xml",
+  createdAt: "2026-09-26T16:21:04.459Z",
+  updatedAt: "2026-09-26T16:21:52.000Z",
 } as const satisfies EsoInterface

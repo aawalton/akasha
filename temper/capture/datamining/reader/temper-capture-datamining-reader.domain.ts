@@ -17,4 +17,6 @@ export const temperCaptureDataminingReader = {
       statement: "No datamining capture is written here.",
     },
   ],
+  createdAt: "2026-09-02T05:35:34.109Z",
+  updatedAt: "2026-09-22T01:22:34.000Z",
 } as const satisfies Domain

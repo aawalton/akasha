@@ -31,4 +31,6 @@ export const amazonPurchases = {
     },
   ],
   filing: "archive",
+  createdAt: "2026-09-03T17:45:38.721Z",
+  updatedAt: "2026-09-21T04:14:11.000Z",
 } as const satisfies EmailRuleCode

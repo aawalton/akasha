@@ -6,4 +6,6 @@ export const theElderScrollsOnline = {
   slug: "the-elder-scrolls-online",
   definition: "a game",
   spellings: [{ partOfSpeech: "part-of-speech/proper-noun", spelling: "The Elder Scrolls Online" }],
+  createdAt: "2026-09-24T19:14:10.886Z",
+  updatedAt: "2026-09-24T20:10:59.000Z",
 } as const satisfies Domain

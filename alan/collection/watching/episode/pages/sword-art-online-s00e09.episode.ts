@@ -21,4 +21,6 @@ export const swordArtOnlineS00e09 = {
       externalLink: "https://www.themoviedb.org/tv/45782/season/0/episode/9",
     },
   ],
+  createdAt: "2026-06-07T22:44:36.752Z",
+  updatedAt: "2026-09-25T12:50:49.000Z",
 } as const satisfies Episode

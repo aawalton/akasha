@@ -16,4 +16,6 @@ export const seatWorkRestart = {
     "module/supervisor-wait-resume-decide",
     "module/turn-end-error-death",
   ],
+  createdAt: "2026-09-13T20:30:19.838Z",
+  updatedAt: "2026-09-24T17:13:20.000Z",
 } as const satisfies Domain

@@ -33,4 +33,6 @@ export const type = {
       statement: "A limit no type can have is enforced by a check.",
     },
   ],
+  createdAt: "2026-08-28T19:47:07.676Z",
+  updatedAt: "2026-09-24T22:18:52.000Z",
 } as const satisfies Domain

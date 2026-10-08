@@ -17,4 +17,6 @@ export const changeMechanicalPageTypeRemove = {
       statement: "A rung here answers the whole scope of one act in one answer.",
     },
   ],
+  createdAt: "2026-09-13T20:05:03.778Z",
+  updatedAt: "2026-09-25T13:50:21.000Z",
 } as const satisfies Domain

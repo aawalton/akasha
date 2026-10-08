@@ -115,4 +115,6 @@ export const designInterface = {
       ],
     },
   ],
+  createdAt: "2026-09-10T23:00:58.920Z",
+  updatedAt: "2026-09-25T14:52:19.000Z",
 } as const satisfies Domain

@@ -6,4 +6,6 @@ export const pageUiAppVersion = {
   slug: "page-ui-app-version",
   definition: "the version of the program a browser runs",
   parts: ["module/app-version-check", "module/use-app-version-check"],
+  createdAt: "2026-09-05T13:43:02.607Z",
+  updatedAt: "2026-09-25T17:29:21.000Z",
 } as const satisfies Domain

@@ -11,4 +11,6 @@ export const gameDesignDriveCreativity = {
     definition:
       "Working things out for yourself, trying combinations, and seeing what your choices did.",
   },
+  createdAt: "2026-09-03T12:55:47.636Z",
+  updatedAt: "2026-09-15T16:44:48.000Z",
 } as const satisfies Drive

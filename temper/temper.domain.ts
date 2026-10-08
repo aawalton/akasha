@@ -64,4 +64,6 @@ export const temper = {
       statement: "Alan values a permanent unlock above gold.",
     },
   ],
+  createdAt: "2026-09-01T16:05:05.532Z",
+  updatedAt: "2026-10-08T14:21:00.000Z",
 } as const satisfies Domain

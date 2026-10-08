@@ -7,4 +7,6 @@ export const combatReportLayout = {
   definition: "the report window shown after a fight, with its panels, lists and graph",
   markup: "xml",
   loadedAs: "TemperCombat_Report.xml",
+  createdAt: "2026-09-02T09:42:10.766Z",
+  updatedAt: "2026-09-21T17:08:25.000Z",
 } as const satisfies EsoInterface

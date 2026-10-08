@@ -43,4 +43,6 @@ export const greatCourses = {
       statement: "The workload running the sync is outside akasha.",
     },
   ],
+  createdAt: "2026-09-03T04:14:46.233Z",
+  updatedAt: "2026-09-24T17:59:31.000Z",
 } as const satisfies Domain

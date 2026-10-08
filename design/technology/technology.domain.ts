@@ -12,4 +12,6 @@ export const technology = {
       statement: "A system's terms change without notice.",
     },
   ],
+  createdAt: "2026-09-03T04:56:24.838Z",
+  updatedAt: "2026-09-26T15:44:26.000Z",
 } as const satisfies Domain

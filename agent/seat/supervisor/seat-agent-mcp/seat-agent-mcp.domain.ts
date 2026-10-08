@@ -11,4 +11,6 @@ export const seatAgentMcp = {
     "module/mcp-registry",
     "module/supervisor-mcp",
   ],
+  createdAt: "2026-09-13T20:19:51.050Z",
+  updatedAt: "2026-09-24T17:19:24.000Z",
 } as const satisfies Domain

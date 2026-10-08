@@ -21,4 +21,6 @@ export const reading = {
     "page-type/scripture-collection",
     "page-type/scripture-passage",
   ],
+  createdAt: "2026-09-03T04:15:56.581Z",
+  updatedAt: "2026-09-25T13:02:31.000Z",
 } as const satisfies Domain

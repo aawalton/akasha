@@ -18,4 +18,6 @@ export const temperChampionPoint = {
         "A star is reached by its kebab id rather than by the number the game gives that star.",
     },
   ],
+  createdAt: "2026-09-02T04:52:28.132Z",
+  updatedAt: "2026-09-27T05:15:52.000Z",
 } as const satisfies Domain

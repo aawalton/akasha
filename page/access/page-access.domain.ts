@@ -62,4 +62,6 @@ export const pageAccess = {
       statement: "This package's work is largely proved by no test of its own.",
     },
   ],
+  createdAt: "2026-09-01T07:19:56.979Z",
+  updatedAt: "2026-09-25T16:35:06.000Z",
 } as const satisfies Domain

@@ -7,4 +7,6 @@ export const flexibility = {
   definition: "how Alan trains his flexibility",
   spellings: [{ partOfSpeech: "part-of-speech/noun", spelling: "flexibility" }],
   parts: ["page-type/flexibility-log"],
+  createdAt: "2026-09-11T15:24:05.701Z",
+  updatedAt: "2026-09-25T13:22:19.000Z",
 } as const satisfies Domain

@@ -24,4 +24,6 @@ export const changeMechanicalPageProperty = {
       statement: "No rung here reaches a rung beneath once for each page.",
     },
   ],
+  createdAt: "2026-09-13T19:44:53.531Z",
+  updatedAt: "2026-09-25T13:49:35.000Z",
 } as const satisfies Domain

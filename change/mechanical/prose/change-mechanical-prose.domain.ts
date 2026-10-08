@@ -16,4 +16,6 @@ export const changeMechanicalProse = {
       statement: "No rung here reaches a rung beneath once for each passage.",
     },
   ],
+  createdAt: "2026-09-13T19:31:18.295Z",
+  updatedAt: "2026-09-25T13:51:13.000Z",
 } as const satisfies Domain

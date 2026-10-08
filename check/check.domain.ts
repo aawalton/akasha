@@ -233,4 +233,6 @@ export const check = {
       ],
     },
   ],
+  createdAt: "2026-08-29T04:26:03.781Z",
+  updatedAt: "2026-09-25T14:43:07.000Z",
 } as const satisfies Domain

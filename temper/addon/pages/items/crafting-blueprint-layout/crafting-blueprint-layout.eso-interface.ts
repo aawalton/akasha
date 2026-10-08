@@ -7,4 +7,6 @@ export const craftingBlueprintLayout = {
   definition: "the furnishing-blueprint window and its list",
   markup: "xml",
   loadedAs: "XML/UI/CraftingBlueprint.xml",
+  createdAt: "2026-09-02T11:01:26.335Z",
+  updatedAt: "2026-09-22T06:25:40.000Z",
 } as const satisfies EsoInterface

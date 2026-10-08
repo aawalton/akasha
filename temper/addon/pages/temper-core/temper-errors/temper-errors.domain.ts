@@ -31,4 +31,6 @@ export const temperErrors = {
       statement: "Nothing here reads the recorded errors back.",
     },
   ],
+  createdAt: "2026-09-22T02:43:19.559Z",
+  updatedAt: "2026-09-22T05:50:40.000Z",
 } as const satisfies Domain

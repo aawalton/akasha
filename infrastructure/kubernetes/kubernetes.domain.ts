@@ -6,4 +6,6 @@ export const kubernetes = {
   slug: "kubernetes",
   definition: "a program that runs services on a set of machines",
   spellings: [{ partOfSpeech: "part-of-speech/proper-noun", spelling: "Kubernetes" }],
+  createdAt: "2026-09-25T16:25:06.946Z",
+  updatedAt: "2026-09-25T16:25:10.000Z",
 } as const satisfies Domain

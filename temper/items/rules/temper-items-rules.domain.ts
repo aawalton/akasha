@@ -11,4 +11,6 @@ export const temperItemsRules = {
     "domain/temper-items-rules-matcher",
     "domain/temper-items-rules-core",
   ],
+  createdAt: "2026-09-21T15:15:08.884Z",
+  updatedAt: "2026-09-21T15:44:44.000Z",
 } as const satisfies Domain

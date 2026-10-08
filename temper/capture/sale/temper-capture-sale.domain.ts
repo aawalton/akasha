@@ -16,4 +16,6 @@ export const temperCaptureSale = {
       statement: "Nothing here reaches the game.",
     },
   ],
+  createdAt: "2026-09-02T05:14:17.395Z",
+  updatedAt: "2026-09-21T15:10:52.000Z",
 } as const satisfies Domain

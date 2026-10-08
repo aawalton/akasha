@@ -6,4 +6,6 @@ export const typescript = {
   slug: "typescript",
   definition: "a language for code",
   spellings: [{ partOfSpeech: "part-of-speech/proper-noun", spelling: "TypeScript" }],
+  createdAt: "2026-09-25T14:12:05.146Z",
+  updatedAt: "2026-09-25T14:12:09.000Z",
 } as const satisfies Domain

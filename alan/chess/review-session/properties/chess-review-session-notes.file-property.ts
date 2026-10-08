@@ -14,4 +14,6 @@ export const chessReviewSessionNotes = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-03T17:46:16.182Z",
+  updatedAt: "2026-09-22T13:54:40.000Z",
 } as const satisfies FileProperty

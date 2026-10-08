@@ -30,4 +30,6 @@ export const temperTradingPricing = {
       statement: "No code here reaches the network.",
     },
   ],
+  createdAt: "2026-09-02T05:33:44.732Z",
+  updatedAt: "2026-09-24T23:46:54.000Z",
 } as const satisfies Domain

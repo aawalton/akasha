@@ -6,4 +6,6 @@ export const designPersona = {
   slug: "design-persona",
   definition: "how a persona is made well",
   parts: ["page-type/kindling"],
+  createdAt: "2026-09-26T15:27:02.558Z",
+  updatedAt: "2026-09-26T15:32:39.000Z",
 } as const satisfies Domain

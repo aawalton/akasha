@@ -27,4 +27,6 @@ export const marketingSenders = {
   ],
   filing: "archive",
   actions: ["unsubscribe"],
+  createdAt: "2026-09-03T17:45:38.722Z",
+  updatedAt: "2026-09-21T16:33:21.000Z",
 } as const satisfies EmailRuleCode

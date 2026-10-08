@@ -26,4 +26,6 @@ export const temperCompanionCodec = {
       statement: "A build whose first two bytes are not recognised is read as nothing.",
     },
   ],
+  createdAt: "2026-09-02T16:15:21.050Z",
+  updatedAt: "2026-09-21T15:43:28.000Z",
 } as const satisfies Domain

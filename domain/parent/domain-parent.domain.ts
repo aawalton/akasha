@@ -33,4 +33,6 @@ export const domainParent = {
       statement: "Every domain but the root is a part of a domain.",
     },
   ],
+  createdAt: "2026-09-03T13:00:18.015Z",
+  updatedAt: "2026-09-25T16:00:02.000Z",
 } as const satisfies Domain

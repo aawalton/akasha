@@ -18,4 +18,6 @@ export const contributionPoint = {
         "Only a contributor proposes a feature request, paying points, and Alan publishes it.",
     },
   ],
+  createdAt: "2026-09-19T02:43:48.144Z",
+  updatedAt: "2026-09-21T23:40:00.000Z",
 } as const satisfies Domain

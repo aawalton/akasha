@@ -43,4 +43,6 @@ export const upscale = {
       statement: "A run goes either to a cluster GPU or to the workstation's own.",
     },
   ],
+  createdAt: "2026-09-03T16:24:02.557Z",
+  updatedAt: "2026-09-25T16:43:51.000Z",
 } as const satisfies Domain

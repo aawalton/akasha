@@ -51,4 +51,6 @@ export const temperUpstreamData = {
       statement: "The checkout the ported file lands in is named by the caller.",
     },
   ],
+  createdAt: "2026-09-02T03:44:49.342Z",
+  updatedAt: "2026-09-24T23:35:57.000Z",
 } as const satisfies Domain

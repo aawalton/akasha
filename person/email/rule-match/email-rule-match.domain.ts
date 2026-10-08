@@ -6,4 +6,6 @@ export const emailRuleMatch = {
   slug: "email-rule-match",
   definition: "which mail an email rule applies to",
   parts: ["domain/email-rule-match-condition"],
+  createdAt: "2026-09-03T13:00:18.024Z",
+  updatedAt: "2026-09-15T16:35:22.000Z",
 } as const satisfies Domain

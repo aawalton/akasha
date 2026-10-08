@@ -10,4 +10,6 @@ export const royaltyStatements = {
     { field: "subject", comparison: "contains", values: ["statement"] },
   ],
   filing: "archive",
+  createdAt: "2026-09-03T17:45:38.722Z",
+  updatedAt: "2026-09-15T16:49:29.000Z",
 } as const satisfies EmailRuleCode

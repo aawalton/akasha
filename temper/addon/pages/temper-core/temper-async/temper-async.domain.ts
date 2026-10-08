@@ -58,4 +58,6 @@ export const temperAsync = {
       statement: "The debug logger is used where the debug logger is loaded and skipped otherwise.",
     },
   ],
+  createdAt: "2026-09-22T03:52:35.589Z",
+  updatedAt: "2026-09-22T05:50:40.000Z",
 } as const satisfies Domain

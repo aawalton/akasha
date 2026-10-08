@@ -37,4 +37,6 @@ export const subagentRefusals = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-10T22:13:48.647Z",
+  updatedAt: "2026-09-25T18:11:31.000Z",
 } as const satisfies FileProperty

@@ -20,4 +20,6 @@ export const authoring = {
       statement: "A book Alan writes is not a book Alan reads.",
     },
   ],
+  createdAt: "2026-09-03T04:18:53.341Z",
+  updatedAt: "2026-09-24T19:27:02.000Z",
 } as const satisfies Domain

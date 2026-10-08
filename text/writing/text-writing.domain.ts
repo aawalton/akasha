@@ -15,4 +15,6 @@ export const textWriting = {
     "module/suggest-closest",
     "module/today",
   ],
+  createdAt: "2026-09-10T19:30:23.137Z",
+  updatedAt: "2026-09-21T18:22:18.000Z",
 } as const satisfies Domain

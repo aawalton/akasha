@@ -9,4 +9,6 @@ export const gitIgnore = {
   extensions: ["gitignore"],
   fileName: ".gitignore",
   types: "ts",
+  createdAt: "2026-08-31T18:38:45.820Z",
+  updatedAt: "2026-09-22T13:02:34.000Z",
 } as const satisfies FileProperty

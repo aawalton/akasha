@@ -28,4 +28,6 @@ export const job = {
       statement: "A later run succeeding does not remove the object a failed job left.",
     },
   ],
+  createdAt: "2026-09-03T13:00:18.027Z",
+  updatedAt: "2026-09-25T16:47:40.000Z",
 } as const satisfies Domain

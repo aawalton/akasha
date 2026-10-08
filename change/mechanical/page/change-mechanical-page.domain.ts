@@ -6,4 +6,6 @@ export const changeMechanicalPage = {
   slug: "change-mechanical-page",
   definition: "a mechanical change to a whole page",
   parts: ["domain/change-mechanical-page-rename"],
+  createdAt: "2026-09-25T14:29:57.292Z",
+  updatedAt: "2026-09-25T14:48:08.000Z",
 } as const satisfies Domain

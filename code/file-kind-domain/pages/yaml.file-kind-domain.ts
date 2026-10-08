@@ -6,4 +6,6 @@ export const yaml = {
   slug: "yaml",
   definition: "a file of YAML data",
   namePatterns: ["*.yaml"],
+  createdAt: "2026-09-24T22:30:14.958Z",
+  updatedAt: "2026-09-24T22:30:20.000Z",
 } as const satisfies FileKindDomain

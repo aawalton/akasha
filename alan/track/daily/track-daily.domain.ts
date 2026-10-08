@@ -44,4 +44,6 @@ export const trackDaily = {
         "An ESO day decides which day a health reading, a listen or a location trace is filed under.",
     },
   ],
+  createdAt: "2026-09-02T16:03:07.263Z",
+  updatedAt: "2026-09-25T13:16:40.000Z",
 } as const satisfies Domain

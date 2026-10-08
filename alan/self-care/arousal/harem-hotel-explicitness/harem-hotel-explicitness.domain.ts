@@ -58,4 +58,6 @@ export const haremHotelExplicitness = {
       statement: "Every character in Harem Hotel is an adult.",
     },
   ],
+  createdAt: "2026-09-28T13:17:37.583Z",
+  updatedAt: "2026-09-28T18:27:38.000Z",
 } as const satisfies Domain

@@ -6,4 +6,6 @@ export const fitnessCoaching = {
   slug: "fitness-coaching",
   definition: "how Alan's training is guided",
   parts: ["domain/schedule", "page-type/fitness-coaching-note", "page-type/movement-restriction"],
+  createdAt: "2026-09-08T14:52:04.725Z",
+  updatedAt: "2026-09-25T13:19:17.000Z",
 } as const satisfies Domain

@@ -23,4 +23,6 @@ export const stoplight = {
       statement: "Green is good and blue a stretch beyond green.",
     },
   ],
+  createdAt: "2026-09-03T03:41:37.884Z",
+  updatedAt: "2026-09-24T23:33:14.000Z",
 } as const satisfies Domain

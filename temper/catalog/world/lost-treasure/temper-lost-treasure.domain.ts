@@ -46,4 +46,6 @@ export const temperLostTreasure = {
       statement: "A dig site gathered here reaches no machine but this one.",
     },
   ],
+  createdAt: "2026-09-02T08:34:37.699Z",
+  updatedAt: "2026-09-22T07:51:23.000Z",
 } as const satisfies Domain

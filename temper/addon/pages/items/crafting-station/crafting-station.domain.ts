@@ -336,4 +336,6 @@ export const craftingStation = {
       statement: "Nothing here reaches a Date.",
     },
   ],
+  createdAt: "2026-09-22T03:19:08.039Z",
+  updatedAt: "2026-09-27T20:08:27.000Z",
 } as const satisfies Domain

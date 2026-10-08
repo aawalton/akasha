@@ -10,4 +10,6 @@ export const universalConfig = {
   fileName: "tsconfig.json",
   toolResolvesPaths: true,
   types: "ts",
+  createdAt: "2026-09-03T12:58:12.006Z",
+  updatedAt: "2026-09-22T13:48:28.000Z",
 } as const satisfies FileProperty

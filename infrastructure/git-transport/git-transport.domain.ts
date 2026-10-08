@@ -54,4 +54,6 @@ export const gitTransport = {
       statement: "The workload runs this code out of the source cache rather than an image layer.",
     },
   ],
+  createdAt: "2026-09-03T16:24:39.441Z",
+  updatedAt: "2026-09-25T16:33:59.000Z",
 } as const satisfies Domain

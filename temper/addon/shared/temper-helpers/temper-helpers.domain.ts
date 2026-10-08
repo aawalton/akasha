@@ -25,4 +25,6 @@ export const temperHelpers = {
         "The copy an add-on carries is the copy that table holds, whatever was there before.",
     },
   ],
+  createdAt: "2026-09-10T22:31:20.090Z",
+  updatedAt: "2026-09-22T08:24:26.000Z",
 } as const satisfies Domain

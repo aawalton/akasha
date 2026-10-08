@@ -37,4 +37,6 @@ export const temperHudComponent = {
       statement: "No game function is called here.",
     },
   ],
+  createdAt: "2026-09-02T05:43:39.832Z",
+  updatedAt: "2026-09-21T22:10:28.000Z",
 } as const satisfies Domain

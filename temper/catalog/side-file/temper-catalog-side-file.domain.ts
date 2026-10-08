@@ -24,4 +24,6 @@ export const temperCatalogSideFile = {
       statement: "Nothing here opens a file.",
     },
   ],
+  createdAt: "2026-09-02T06:29:15.594Z",
+  updatedAt: "2026-09-21T15:11:26.000Z",
 } as const satisfies Domain

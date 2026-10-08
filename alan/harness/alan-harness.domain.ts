@@ -158,4 +158,6 @@ export const alanHarness = {
       ],
     },
   ],
+  createdAt: "2026-08-30T16:29:45.336Z",
+  updatedAt: "2026-09-27T15:34:43.000Z",
 } as const satisfies Domain

@@ -28,4 +28,6 @@ export const wan = {
       statement: "The two experts split one sampling run at the step halfway through.",
     },
   ],
+  createdAt: "2026-09-03T16:24:02.557Z",
+  updatedAt: "2026-09-25T16:44:32.000Z",
 } as const satisfies Domain

@@ -26,4 +26,6 @@ export const temperEquipmentKind = {
       statement: "A gear set is named outside this folder.",
     },
   ],
+  createdAt: "2026-09-02T06:04:28.739Z",
+  updatedAt: "2026-09-27T02:49:23.000Z",
 } as const satisfies Domain

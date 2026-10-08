@@ -6,4 +6,6 @@ export const spotifyService = {
   slug: "spotify-service",
   definition: "an external service for music",
   spellings: [{ partOfSpeech: "part-of-speech/proper-noun", spelling: "Spotify" }],
+  createdAt: "2026-09-25T12:56:07.843Z",
+  updatedAt: "2026-09-25T12:56:11.000Z",
 } as const satisfies Domain

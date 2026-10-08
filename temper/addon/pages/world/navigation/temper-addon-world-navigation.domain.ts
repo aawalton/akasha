@@ -342,4 +342,6 @@ export const temperAddonWorldNavigation = {
       statement: "The minimap's XML document loads before the Lua bundle.",
     },
   ],
+  createdAt: "2026-09-22T02:17:39.668Z",
+  updatedAt: "2026-09-22T14:33:42.000Z",
 } as const satisfies Domain

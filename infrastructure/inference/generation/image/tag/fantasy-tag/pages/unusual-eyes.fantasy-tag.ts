@@ -4,4 +4,6 @@ export const unusualEyes = {
   id: "01a0e384-2e74-7b31-ad49-8c1f8111b0a0",
   type: "page-type/fantasy-tag",
   slug: "unusual-eyes",
+  createdAt: "2026-09-27T15:38:05.812Z",
+  updatedAt: "2026-09-27T15:38:08.000Z",
 } as const satisfies FantasyTag

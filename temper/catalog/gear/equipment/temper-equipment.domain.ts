@@ -33,4 +33,6 @@ export const temperEquipment = {
       statement: "A trait moved to another place breaks every build hash saved.",
     },
   ],
+  createdAt: "2026-09-02T06:36:19.089Z",
+  updatedAt: "2026-09-27T04:03:27.000Z",
 } as const satisfies Domain

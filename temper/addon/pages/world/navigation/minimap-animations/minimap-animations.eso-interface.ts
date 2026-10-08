@@ -18,4 +18,6 @@ export const minimapAnimations = {
       statement: "The Lua bundle reaches the timeline by name.",
     },
   ],
+  createdAt: "2026-09-02T13:57:34.615Z",
+  updatedAt: "2026-09-22T14:13:12.000Z",
 } as const satisfies EsoInterface

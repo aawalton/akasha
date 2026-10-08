@@ -21,4 +21,6 @@ export const temperCompletion = {
       statement: "The lore library is read from the lore pages, and no table in code holds it.",
     },
   ],
+  createdAt: "2026-09-02T04:57:23.387Z",
+  updatedAt: "2026-09-27T10:46:43.000Z",
 } as const satisfies Domain

@@ -21,4 +21,6 @@ export const storyEngine = {
       statement: "Every word a game master is served changes without a deploy.",
     },
   ],
+  createdAt: "2026-09-02T14:23:28.546Z",
+  updatedAt: "2026-10-03T14:41:05.000Z",
 } as const satisfies Domain

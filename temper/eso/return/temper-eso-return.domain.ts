@@ -45,4 +45,6 @@ export const temperEsoReturn = {
       statement: "A function something here implements keeps what that implementation gives back.",
     },
   ],
+  createdAt: "2026-09-24T14:15:08.211Z",
+  updatedAt: "2026-09-24T22:44:55.000Z",
 } as const satisfies Domain

@@ -16,4 +16,6 @@ export const temperAlchemy = {
       statement: "Potions are read from the temper-potion pages rather than written out here.",
     },
   ],
+  createdAt: "2026-09-02T04:52:28.137Z",
+  updatedAt: "2026-09-27T02:14:44.000Z",
 } as const satisfies Domain

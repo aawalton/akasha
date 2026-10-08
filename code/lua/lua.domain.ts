@@ -6,4 +6,6 @@ export const lua = {
   slug: "lua",
   definition: "a language for code a game runs",
   spellings: [{ partOfSpeech: "part-of-speech/proper-noun", spelling: "Lua" }],
+  createdAt: "2026-09-25T15:05:36.381Z",
+  updatedAt: "2026-09-25T15:05:40.000Z",
 } as const satisfies Domain

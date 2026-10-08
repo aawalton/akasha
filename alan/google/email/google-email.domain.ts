@@ -39,4 +39,6 @@ export const googleEmail = {
       statement: "Nothing here decides the fate of a message that arrives.",
     },
   ],
+  createdAt: "2026-09-01T08:20:30.636Z",
+  updatedAt: "2026-09-24T22:08:49.000Z",
 } as const satisfies Domain

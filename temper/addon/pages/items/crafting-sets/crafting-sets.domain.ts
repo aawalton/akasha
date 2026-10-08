@@ -195,4 +195,6 @@ export const craftingSets = {
       statement: "Japanese is not among the languages counted as supported.",
     },
   ],
+  createdAt: "2026-09-22T00:59:30.016Z",
+  updatedAt: "2026-09-26T13:59:27.000Z",
 } as const satisfies Domain

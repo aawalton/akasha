@@ -69,4 +69,6 @@ export const temperItemsFiltersCore = {
         "The rule-editor filters of the same names are another layer in `temper-items-rules-core`.",
     },
   ],
+  createdAt: "2026-09-02T08:27:23.699Z",
+  updatedAt: "2026-09-27T03:35:37.000Z",
 } as const satisfies Domain

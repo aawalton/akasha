@@ -84,4 +84,6 @@ export const temperHousing = {
       statement: "Nothing here asks a player to donate to the author.",
     },
   ],
+  createdAt: "2026-09-22T03:01:05.549Z",
+  updatedAt: "2026-09-25T19:59:03.000Z",
 } as const satisfies Domain

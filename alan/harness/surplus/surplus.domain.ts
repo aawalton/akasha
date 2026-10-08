@@ -36,4 +36,6 @@ export const surplus = {
       statement: "The tile shows the surplus Alan's workstation last took.",
     },
   ],
+  createdAt: "2026-09-02T01:36:55.386Z",
+  updatedAt: "2026-09-25T12:36:11.000Z",
 } as const satisfies Domain

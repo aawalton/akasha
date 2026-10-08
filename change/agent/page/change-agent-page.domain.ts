@@ -6,4 +6,6 @@ export const changeAgentPage = {
   slug: "change-agent-page",
   definition: "a change an agent makes to a whole page",
   parts: ["change-agent/rename-page", "change-agent/rename-pages"],
+  createdAt: "2026-09-25T14:54:19.063Z",
+  updatedAt: "2026-09-25T14:54:58.000Z",
 } as const satisfies Domain

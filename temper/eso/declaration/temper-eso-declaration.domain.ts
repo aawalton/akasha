@@ -46,4 +46,6 @@ export const temperEsoDeclaration = {
       statement: "Nothing here reads the clone or writes a file.",
     },
   ],
+  createdAt: "2026-09-03T12:28:47.455Z",
+  updatedAt: "2026-09-24T23:46:31.000Z",
 } as const satisfies Domain

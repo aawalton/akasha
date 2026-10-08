@@ -11,4 +11,6 @@ export const recipe = {
   generated: true,
   writtenBy: "module-property-group/composing",
   types: "ts",
+  createdAt: "2026-09-03T16:24:02.557Z",
+  updatedAt: "2026-09-22T13:48:28.000Z",
 } as const satisfies FileProperty

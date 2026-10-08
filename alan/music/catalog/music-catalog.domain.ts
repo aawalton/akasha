@@ -67,4 +67,6 @@ export const musicCatalog = {
       statement: "A song carries no grade, because Alan grades the recording he heard.",
     },
   ],
+  createdAt: "2026-09-02T13:04:28.460Z",
+  updatedAt: "2026-09-25T12:51:49.000Z",
 } as const satisfies Domain

@@ -6,4 +6,6 @@ export const smilingjenny = {
   slug: "smilingjenny",
   definition: "what Jenny is shown and asked of her own day",
   parts: ["router-app/smilingjenny-web"],
+  createdAt: "2026-09-03T03:38:30.988Z",
+  updatedAt: "2026-09-15T16:35:22.000Z",
 } as const satisfies Domain

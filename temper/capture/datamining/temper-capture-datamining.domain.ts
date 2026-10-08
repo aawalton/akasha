@@ -20,4 +20,6 @@ export const temperCaptureDatamining = {
       statement: "Nothing here reaches the game.",
     },
   ],
+  createdAt: "2026-09-02T05:14:17.392Z",
+  updatedAt: "2026-09-22T01:22:34.000Z",
 } as const satisfies Domain

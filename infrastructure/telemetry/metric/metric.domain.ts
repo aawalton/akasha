@@ -19,4 +19,6 @@ export const metric = {
       statement: "A metric comes largely from an instrument rather than from the thing measured.",
     },
   ],
+  createdAt: "2026-09-03T04:33:27.298Z",
+  updatedAt: "2026-09-25T17:18:09.000Z",
 } as const satisfies Domain

@@ -51,4 +51,6 @@ export const alanHarnessAgentAnnoyance = {
       statement: "Asking Alan is reason enough to stop.",
     },
   ],
+  createdAt: "2026-09-03T04:33:16.637Z",
+  updatedAt: "2026-09-24T22:20:43.000Z",
 } as const satisfies Domain

@@ -6,4 +6,6 @@ export const csv = {
   slug: "csv",
   definition: "a file of comma-separated values",
   namePatterns: ["*.csv"],
+  createdAt: "2026-09-24T22:30:14.957Z",
+  updatedAt: "2026-09-24T22:30:20.000Z",
 } as const satisfies FileKindDomain

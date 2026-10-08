@@ -31,4 +31,6 @@ export const temperShopping = {
       statement: "No price here is asked of the game.",
     },
   ],
+  createdAt: "2026-09-02T06:30:19.054Z",
+  updatedAt: "2026-09-21T15:10:37.000Z",
 } as const satisfies Domain

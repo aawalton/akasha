@@ -57,4 +57,6 @@ export const temperAddonWorldMapPins = {
         "The pin sets Temper draws are each their own feature, and this one draws none of them.",
     },
   ],
+  createdAt: "2026-09-22T04:38:32.355Z",
+  updatedAt: "2026-09-22T04:57:47.000Z",
 } as const satisfies Domain

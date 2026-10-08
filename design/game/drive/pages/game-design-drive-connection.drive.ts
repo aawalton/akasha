@@ -11,4 +11,6 @@ export const gameDesignDriveConnection = {
     definition:
       "Being moved by other people, whether by company and mentorship or by competition and envy.",
   },
+  createdAt: "2026-09-03T12:55:47.701Z",
+  updatedAt: "2026-09-15T16:44:48.000Z",
 } as const satisfies Drive

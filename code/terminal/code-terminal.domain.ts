@@ -19,4 +19,6 @@ export const codeTerminal = {
       statement: "A terminal an editor draws and a terminal the kernel gives are both terminals.",
     },
   ],
+  createdAt: "2026-09-24T14:41:48.473Z",
+  updatedAt: "2026-09-25T14:16:42.000Z",
 } as const satisfies Domain

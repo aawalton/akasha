@@ -52,4 +52,6 @@ export const kofi = {
       statement: "A Ko-fi membership is monthly, with no annual term, free tier, trial or pause.",
     },
   ],
+  createdAt: "2026-09-19T02:40:46.485Z",
+  updatedAt: "2026-09-21T23:18:09.000Z",
 } as const satisfies Domain

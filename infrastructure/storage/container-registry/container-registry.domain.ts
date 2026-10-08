@@ -28,4 +28,6 @@ export const containerRegistry = {
       statement: "Every older image of a family is deleted.",
     },
   ],
+  createdAt: "2026-09-03T04:33:27.298Z",
+  updatedAt: "2026-09-25T17:07:22.000Z",
 } as const satisfies Domain

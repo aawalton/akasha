@@ -14,4 +14,6 @@ export const googleAccountDataShared = {
     },
   ],
   filing: "archive",
+  createdAt: "2026-09-27T03:44:33.967Z",
+  updatedAt: "2026-09-27T03:44:36.000Z",
 } as const satisfies EmailRuleCode

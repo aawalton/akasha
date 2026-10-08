@@ -16,4 +16,6 @@ export const stripe = {
       statement: "Stripe signs a webhook with a secret shared between Stripe and the receiver.",
     },
   ],
+  createdAt: "2026-09-19T16:50:36.562Z",
+  updatedAt: "2026-09-19T16:59:16.000Z",
 } as const satisfies Domain

@@ -12,4 +12,6 @@ export const oakWardGoogleNoticeNoreplyDmarcSupport = {
     { field: "subject", comparison: "does-not-contain", values: ["report domain"] },
   ],
   filing: "archive",
+  createdAt: "2026-09-03T17:45:38.722Z",
+  updatedAt: "2026-09-15T16:49:29.000Z",
 } as const satisfies EmailRuleCode

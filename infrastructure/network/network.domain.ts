@@ -43,4 +43,6 @@ export const network = {
         "No workload reaches a machine by the name that machine joins the private network by.",
     },
   ],
+  createdAt: "2026-09-03T04:33:27.298Z",
+  updatedAt: "2026-09-25T16:34:57.000Z",
 } as const satisfies Domain

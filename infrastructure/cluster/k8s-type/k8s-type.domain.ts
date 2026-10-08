@@ -20,4 +20,6 @@ export const k8sType = {
     "module/secret-checksum",
     "page-type/manifest",
   ],
+  createdAt: "2026-09-03T12:19:38.524Z",
+  updatedAt: "2026-09-26T01:03:30.000Z",
 } as const satisfies Domain

@@ -168,4 +168,6 @@ export const monarch = {
       ],
     },
   ],
+  createdAt: "2026-08-30T16:45:07.465Z",
+  updatedAt: "2026-09-24T23:25:48.000Z",
 } as const satisfies Domain

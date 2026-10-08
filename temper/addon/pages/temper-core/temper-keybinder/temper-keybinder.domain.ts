@@ -79,4 +79,6 @@ export const temperKeybinder = {
       statement: "The keybindings menu is split here rather than by a library.",
     },
   ],
+  createdAt: "2026-09-22T03:06:36.395Z",
+  updatedAt: "2026-09-22T10:09:09.000Z",
 } as const satisfies Domain

@@ -18,4 +18,6 @@ export const alanHarnessStoplight = {
         "ActivityKit decodes content into a type built into the app, so its keys move only in a build.",
     },
   ],
+  createdAt: "2026-09-03T03:41:37.885Z",
+  updatedAt: "2026-09-25T17:49:12.000Z",
 } as const satisfies Domain

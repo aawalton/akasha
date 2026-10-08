@@ -22,4 +22,6 @@ export const recurrence = {
       statement: "The caller states the current time.",
     },
   ],
+  createdAt: "2026-09-01T10:07:04.642Z",
+  updatedAt: "2026-09-24T23:34:13.000Z",
 } as const satisfies Domain

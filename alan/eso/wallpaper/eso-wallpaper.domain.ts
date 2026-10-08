@@ -6,4 +6,6 @@ export const esoWallpaper = {
   slug: "eso-wallpaper",
   definition: "wallpapers from The Elder Scrolls Online",
   parts: ["module/eso-wallpaper-crop", "module/eso-wallpaper-download"],
+  createdAt: "2026-09-03T17:51:28.767Z",
+  updatedAt: "2026-09-24T21:57:25.000Z",
 } as const satisfies Domain

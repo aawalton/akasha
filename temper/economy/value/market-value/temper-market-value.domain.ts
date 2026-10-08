@@ -16,4 +16,6 @@ export const temperMarketValue = {
       statement: "A thing no player can be sold has no market value.",
     },
   ],
+  createdAt: "2026-09-19T01:56:37.409Z",
+  updatedAt: "2026-09-21T15:10:37.000Z",
 } as const satisfies Domain

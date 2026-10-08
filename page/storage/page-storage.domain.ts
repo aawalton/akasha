@@ -53,4 +53,6 @@ export const pageStorage = {
       statement: "A page's file is reached from a server rather than from a browser.",
     },
   ],
+  createdAt: "2026-09-03T03:38:02.589Z",
+  updatedAt: "2026-09-25T17:25:41.000Z",
 } as const satisfies Domain

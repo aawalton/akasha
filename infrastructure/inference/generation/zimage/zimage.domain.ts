@@ -29,4 +29,6 @@ export const zimage = {
       statement: "A prompt file may pin the seed the render is drawn with.",
     },
   ],
+  createdAt: "2026-09-03T16:24:02.557Z",
+  updatedAt: "2026-10-04T08:28:01.000Z",
 } as const satisfies Domain

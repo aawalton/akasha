@@ -46,4 +46,6 @@ export const ring = {
         "The emoji a ring draws in place of itself is drawn at the size the ring draws rather than is given.",
     },
   ],
+  createdAt: "2026-09-03T03:41:37.885Z",
+  updatedAt: "2026-09-25T15:00:43.000Z",
 } as const satisfies Domain

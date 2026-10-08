@@ -7,4 +7,6 @@ export const setsSearchUiKeyboardXml = {
   definition: "the keyboard set search window and its result list",
   markup: "xml",
   loadedAs: "SearchUI/Keyboard/TemperItemsCraftingSets_SearchUI_Keyboard.xml",
+  createdAt: "2026-09-02T10:00:00.738Z",
+  updatedAt: "2026-09-22T07:39:30.000Z",
 } as const satisfies EsoInterface

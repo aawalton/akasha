@@ -26,4 +26,6 @@ export const relationships = {
       statement: "A relationship's circle is Alan's own ladder rather than a rung of closeness.",
     },
   ],
+  createdAt: "2026-09-03T04:38:22.630Z",
+  updatedAt: "2026-09-25T13:01:32.000Z",
 } as const satisfies Domain

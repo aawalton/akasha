@@ -13,4 +13,6 @@ export const supervisorStart = {
     "module/supervisor-interactive-boot-contract",
     "module/supervisor-monitors-wire",
   ],
+  createdAt: "2026-09-13T20:11:25.061Z",
+  updatedAt: "2026-09-24T16:30:03.000Z",
 } as const satisfies Domain

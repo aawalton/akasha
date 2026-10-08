@@ -7,4 +7,6 @@ export const oneValued = {
   propertySlug: "many",
   definition: "the false a declaration of a property carried once states",
   types: "ts",
+  createdAt: "2026-09-11T13:26:38.944Z",
+  updatedAt: "2026-09-15T15:59:02.000Z",
 } as const satisfies FalseProperty

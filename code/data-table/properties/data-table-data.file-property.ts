@@ -37,4 +37,6 @@ export const dataTableData = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-22T20:16:15.089Z",
+  updatedAt: "2026-09-22T20:27:50.000Z",
 } as const satisfies FileProperty

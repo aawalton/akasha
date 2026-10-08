@@ -111,4 +111,6 @@ export const esoRig = {
       statement: "A driver reading taken under another injection mechanism is no evidence here.",
     },
   ],
+  createdAt: "2026-09-03T17:52:13.048Z",
+  updatedAt: "2026-09-25T16:39:49.000Z",
 } as const satisfies Domain

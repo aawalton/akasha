@@ -11,4 +11,6 @@ export const image = {
     "domain/image-generation",
     "domain/image-intelligence",
   ],
+  createdAt: "2026-09-26T15:44:22.683Z",
+  updatedAt: "2026-09-26T16:14:20.000Z",
 } as const satisfies Domain

@@ -39,4 +39,6 @@ export const musicChoosing = {
         "A second Spotify playlist holds the music Alan has heard and not graded by those artists.",
     },
   ],
+  createdAt: "2026-09-02T14:23:56.317Z",
+  updatedAt: "2026-09-25T12:52:47.000Z",
 } as const satisfies Domain

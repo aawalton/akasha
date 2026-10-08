@@ -34,4 +34,6 @@ export const designInterfaceToken = {
       statement: "Nothing here names the use of any color.",
     },
   ],
+  createdAt: "2026-09-01T10:50:16.191Z",
+  updatedAt: "2026-09-25T16:39:05.000Z",
 } as const satisfies Domain

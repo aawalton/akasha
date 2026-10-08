@@ -6,4 +6,6 @@ export const env = {
   slug: "env",
   definition: "a file of environment settings",
   namePatterns: [".env", ".env.*"],
+  createdAt: "2026-09-24T22:30:14.957Z",
+  updatedAt: "2026-09-24T22:30:20.000Z",
 } as const satisfies FileKindDomain

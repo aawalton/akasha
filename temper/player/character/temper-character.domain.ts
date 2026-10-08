@@ -35,4 +35,6 @@ export const temperCharacter = {
       statement: "Several builds answer to one name.",
     },
   ],
+  createdAt: "2026-09-02T01:12:12.929Z",
+  updatedAt: "2026-09-25T12:44:26.000Z",
 } as const satisfies Domain

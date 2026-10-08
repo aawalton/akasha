@@ -13,4 +13,6 @@ export const email = {
     "page-type/email-message",
     "page-type/gmail-mailbox",
   ],
+  createdAt: "2026-09-03T13:00:18.016Z",
+  updatedAt: "2026-09-22T00:11:08.000Z",
 } as const satisfies Domain

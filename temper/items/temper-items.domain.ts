@@ -12,4 +12,6 @@ export const temperItems = {
     "domain/temper-inventory-automation",
     "module/explain-walk",
   ],
+  createdAt: "2026-09-21T15:14:54.439Z",
+  updatedAt: "2026-09-21T17:47:50.000Z",
 } as const satisfies Domain

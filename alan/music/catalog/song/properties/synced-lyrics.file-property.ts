@@ -8,4 +8,6 @@ export const syncedLyrics = {
   definition: "the words of a song, each line stamped with the moment it is sung",
   extensions: ["txt"],
   types: "ts",
+  createdAt: "2026-09-02T13:15:58.411Z",
+  updatedAt: "2026-09-15T16:56:11.000Z",
 } as const satisfies FileProperty

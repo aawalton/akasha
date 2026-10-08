@@ -6,4 +6,6 @@ export const ignore = {
   slug: "ignore",
   definition: "a file of the path patterns a tool leaves alone",
   namePatterns: [".*ignore"],
+  createdAt: "2026-09-24T22:30:14.957Z",
+  updatedAt: "2026-09-24T22:30:20.000Z",
 } as const satisfies FileKindDomain

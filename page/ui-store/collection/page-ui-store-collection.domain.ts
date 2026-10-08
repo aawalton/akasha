@@ -18,4 +18,6 @@ export const pageUiStoreCollection = {
     "module/sync-controller",
     "module/event-source-stream",
   ],
+  createdAt: "2026-09-05T13:41:26.540Z",
+  updatedAt: "2026-09-25T17:26:32.000Z",
 } as const satisfies Domain

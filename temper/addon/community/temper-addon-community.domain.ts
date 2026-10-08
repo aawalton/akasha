@@ -36,4 +36,6 @@ export const temperAddonCommunity = {
       statement: "Temper gives up a library's folder before that library is installed from ESOUI.",
     },
   ],
+  createdAt: "2026-09-02T04:38:56.141Z",
+  updatedAt: "2026-09-21T22:59:49.000Z",
 } as const satisfies Domain

@@ -6,4 +6,6 @@ export const declaredTokens = {
   slug: "declared-tokens",
   definition: "the eso api tokens the game's generated declarations carry",
   tokens: "json",
+  createdAt: "2026-09-08T15:45:41.847Z",
+  updatedAt: "2026-09-21T14:15:52.000Z",
 } as const satisfies EsoOptInList

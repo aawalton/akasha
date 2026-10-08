@@ -99,4 +99,6 @@ export const temperAddonWorldCollections = {
         "The journal window, the saved-variables scopes and the treasure data are parts of this feature.",
     },
   ],
+  createdAt: "2026-09-22T02:46:13.730Z",
+  updatedAt: "2026-09-25T13:15:53.000Z",
 } as const satisfies Domain

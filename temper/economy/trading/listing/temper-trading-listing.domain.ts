@@ -25,4 +25,6 @@ export const temperTradingListing = {
       statement: "No code here reaches the game.",
     },
   ],
+  createdAt: "2026-09-02T05:45:53.137Z",
+  updatedAt: "2026-09-24T16:48:25.000Z",
 } as const satisfies Domain

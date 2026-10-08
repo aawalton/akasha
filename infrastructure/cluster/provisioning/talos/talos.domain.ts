@@ -23,4 +23,6 @@ export const talos = {
     "module/talosctl",
     "module/wait-for-port",
   ],
+  createdAt: "2026-09-03T16:21:42.286Z",
+  updatedAt: "2026-09-25T16:30:20.000Z",
 } as const satisfies Domain

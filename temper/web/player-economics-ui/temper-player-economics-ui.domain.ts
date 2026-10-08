@@ -29,4 +29,6 @@ export const temperPlayerEconomicsUi = {
     "module/shopping-list-empty-card",
     "module/shopping-search-progress",
   ],
+  createdAt: "2026-09-02T19:38:46.849Z",
+  updatedAt: "2026-09-27T11:38:49.000Z",
 } as const satisfies Domain

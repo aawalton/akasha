@@ -23,4 +23,6 @@ export const domainChampion = {
       statement: "Any agent may change a domain without asking that domain's champion.",
     },
   ],
+  createdAt: "2026-09-03T13:00:18.014Z",
+  updatedAt: "2026-09-25T15:59:49.000Z",
 } as const satisfies Domain

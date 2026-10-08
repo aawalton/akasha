@@ -19,4 +19,6 @@ export const googleDrive = {
       statement: "Nothing here writes to Google Drive.",
     },
   ],
+  createdAt: "2026-09-01T07:44:12.809Z",
+  updatedAt: "2026-09-24T22:02:06.000Z",
 } as const satisfies Domain

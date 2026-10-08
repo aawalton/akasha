@@ -12,4 +12,6 @@ export const strength = {
     "page-type/strength-exercise",
     "page-type/strength-log",
   ],
+  createdAt: "2026-09-11T15:36:33.581Z",
+  updatedAt: "2026-09-25T13:22:42.000Z",
 } as const satisfies Domain

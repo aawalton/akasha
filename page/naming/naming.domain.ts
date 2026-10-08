@@ -30,4 +30,6 @@ export const naming = {
       ],
     },
   ],
+  createdAt: "2026-08-30T15:20:11.433Z",
+  updatedAt: "2026-09-25T17:25:03.000Z",
 } as const satisfies Domain

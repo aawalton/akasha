@@ -66,4 +66,6 @@ export const spotify = {
       ],
     },
   ],
+  createdAt: "2026-09-02T13:49:35.645Z",
+  updatedAt: "2026-09-25T12:56:25.000Z",
 } as const satisfies Domain

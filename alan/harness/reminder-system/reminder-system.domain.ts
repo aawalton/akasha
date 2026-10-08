@@ -24,4 +24,6 @@ export const reminderSystem = {
       statement: "The service sending a reminder reads that reminder off the index.",
     },
   ],
+  createdAt: "2026-09-01T23:16:51.649Z",
+  updatedAt: "2026-09-24T23:35:27.000Z",
 } as const satisfies Domain

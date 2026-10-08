@@ -48,4 +48,6 @@ export const temperDebugLogger = {
       statement: "Another add-on reaches the log only through the global name.",
     },
   ],
+  createdAt: "2026-09-22T04:24:01.683Z",
+  updatedAt: "2026-09-22T05:50:40.000Z",
 } as const satisfies Domain

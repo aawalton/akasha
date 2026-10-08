@@ -4,4 +4,6 @@ export const cyberpunk = {
   id: "01a0e384-2e73-7a5f-bf4a-b8288ae03fd1",
   type: "page-type/fantasy-tag",
   slug: "cyberpunk",
+  createdAt: "2026-09-27T15:38:05.811Z",
+  updatedAt: "2026-09-27T15:38:08.000Z",
 } as const satisfies FantasyTag

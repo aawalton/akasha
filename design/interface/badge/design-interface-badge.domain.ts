@@ -20,4 +20,6 @@ export const designInterfaceBadge = {
     "module/time-badge",
     "module/url-badge",
   ],
+  createdAt: "2026-09-01T04:58:54.649Z",
+  updatedAt: "2026-09-25T14:40:06.000Z",
 } as const satisfies Domain

@@ -21,4 +21,6 @@ export const standardAgentEnglish = {
     "module/phrase-parsing",
     "module/grammar-reading",
   ],
+  createdAt: "2026-09-07T14:49:29.187Z",
+  updatedAt: "2026-09-25T17:39:07.000Z",
 } as const satisfies Domain

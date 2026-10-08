@@ -8,4 +8,6 @@ export const webEntry = {
   definition: "the page a shell boots before it reaches its site",
   extensions: ["html"],
   types: "ts",
+  createdAt: "2026-08-31T19:04:00.271Z",
+  updatedAt: "2026-09-15T16:56:11.000Z",
 } as const satisfies FileProperty

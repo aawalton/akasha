@@ -7,4 +7,6 @@ export const potionMakerLayout = {
   definition: "the potion window, its filters and its result grid",
   markup: "xml",
   loadedAs: "XML/UI/PotionMaker.xml",
+  createdAt: "2026-09-02T11:01:26.341Z",
+  updatedAt: "2026-09-22T03:24:53.000Z",
 } as const satisfies EsoInterface

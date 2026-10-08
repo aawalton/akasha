@@ -8,4 +8,6 @@ export const koFiMarketing = {
   matches: [{ field: "from", comparison: "is", values: ["hello@ko-fi.com"] }],
   filing: "archive",
   actions: ["unsubscribe"],
+  createdAt: "2026-09-20T02:17:50.937Z",
+  updatedAt: "2026-09-20T04:31:51.000Z",
 } as const satisfies EmailRuleCode

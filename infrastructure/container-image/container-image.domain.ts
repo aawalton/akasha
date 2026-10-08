@@ -27,4 +27,6 @@ export const containerImage = {
         "An image is tagged with a hash of the image's build inputs rather than a name or version.",
     },
   ],
+  createdAt: "2026-09-03T13:00:18.012Z",
+  updatedAt: "2026-09-25T17:07:13.000Z",
 } as const satisfies Domain

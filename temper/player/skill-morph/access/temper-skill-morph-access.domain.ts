@@ -26,4 +26,6 @@ export const temperSkillMorphAccess = {
       statement: "A skill line the game numbers zero is left out of the maps here.",
     },
   ],
+  createdAt: "2026-09-02T11:30:20.344Z",
+  updatedAt: "2026-09-21T15:47:48.000Z",
 } as const satisfies Domain

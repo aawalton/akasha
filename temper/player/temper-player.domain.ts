@@ -12,4 +12,6 @@ export const temperPlayer = {
     "domain/temper-progress",
     "domain/temper-holdings",
   ],
+  createdAt: "2026-09-21T15:15:06.129Z",
+  updatedAt: "2026-09-21T15:34:59.000Z",
 } as const satisfies Domain

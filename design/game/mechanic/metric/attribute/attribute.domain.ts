@@ -5,4 +5,6 @@ export const attribute = {
   type: "page-type/domain",
   slug: "attribute",
   definition: "a number that measures a character",
+  createdAt: "2026-09-22T16:30:23.800Z",
+  updatedAt: "2026-09-25T14:33:15.000Z",
 } as const satisfies Domain

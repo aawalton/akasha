@@ -17,4 +17,6 @@ export const codeReading = {
     "module/code-binding",
     "module/ast-hash",
   ],
+  createdAt: "2026-09-13T14:45:05.066Z",
+  updatedAt: "2026-09-25T14:12:28.000Z",
 } as const satisfies Domain

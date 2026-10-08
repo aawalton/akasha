@@ -30,4 +30,6 @@ export const node = {
       statement: "The GPU memory a node can use falls short of the card's nominal size.",
     },
   ],
+  createdAt: "2026-09-03T13:00:18.038Z",
+  updatedAt: "2026-09-22T10:13:52.000Z",
 } as const satisfies Domain

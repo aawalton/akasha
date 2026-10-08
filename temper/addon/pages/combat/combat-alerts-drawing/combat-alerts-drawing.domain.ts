@@ -16,4 +16,6 @@ export const combatAlertsDrawing = {
     "module/combat-alerts-drawing-world-icons-groups-b",
     "module/combat-alerts-drawing-world-icons",
   ],
+  createdAt: "2026-09-26T17:22:33.537Z",
+  updatedAt: "2026-09-26T17:24:15.000Z",
 } as const satisfies Domain

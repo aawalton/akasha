@@ -10,4 +10,6 @@ export const changeAgentPageProperty = {
     "change-agent/remove-page-property",
     "change-agent/rename-page-property-property-slug",
   ],
+  createdAt: "2026-09-08T15:23:35.934Z",
+  updatedAt: "2026-09-25T13:26:46.000Z",
 } as const satisfies Domain

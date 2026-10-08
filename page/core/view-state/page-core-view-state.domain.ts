@@ -6,4 +6,6 @@ export const pageCoreViewState = {
   slug: "page-core-view-state",
   definition: "how code changes a view",
   parts: ["module/reducers", "module/view-state-change"],
+  createdAt: "2026-09-05T13:39:13.554Z",
+  updatedAt: "2026-09-25T17:22:05.000Z",
 } as const satisfies Domain

@@ -101,4 +101,6 @@ export const fairweatherExplicitness = {
         "A picture of a bare moment covers her with a towel or sheet, or turns or crops her.",
     },
   ],
+  createdAt: "2026-10-03T14:04:32.338Z",
+  updatedAt: "2026-10-04T08:19:14.000Z",
 } as const satisfies Domain

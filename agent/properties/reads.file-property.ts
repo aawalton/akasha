@@ -61,4 +61,6 @@ export const reads = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-13T19:15:02.214Z",
+  updatedAt: "2026-09-27T14:11:46.000Z",
 } as const satisfies FileProperty

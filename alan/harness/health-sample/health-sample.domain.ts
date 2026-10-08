@@ -10,4 +10,6 @@ export const healthSample = {
     { partOfSpeech: "part-of-speech/noun", spelling: "health samples" },
   ],
   parts: ["domain/health-sample-access", "domain/health-sample-day", "domain/health-sample-import"],
+  createdAt: "2026-09-24T23:04:35.143Z",
+  updatedAt: "2026-09-24T23:22:29.000Z",
 } as const satisfies Domain

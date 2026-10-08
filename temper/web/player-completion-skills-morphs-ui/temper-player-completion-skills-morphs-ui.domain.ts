@@ -6,4 +6,6 @@ export const temperPlayerCompletionSkillsMorphsUi = {
   slug: "temper-player-completion-skills-morphs-ui",
   definition: "the cards giving a player's skill morph progress in a browser",
   parts: ["module/skill-morphs-progress-panel-card", "module/subclassing-skill-morphs-panel-card"],
+  createdAt: "2026-09-02T14:05:37.213Z",
+  updatedAt: "2026-09-22T13:54:11.000Z",
 } as const satisfies Domain

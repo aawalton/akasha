@@ -64,4 +64,6 @@ export const addressed = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-06T17:34:28.910Z",
+  updatedAt: "2026-09-25T14:14:34.000Z",
 } as const satisfies FileProperty

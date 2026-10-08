@@ -20,4 +20,6 @@ export const imageUpscale = {
       statement: "An SRPO refine step smooths skin again and drifts the face at wallpaper width.",
     },
   ],
+  createdAt: "2026-09-26T15:59:15.411Z",
+  updatedAt: "2026-09-26T16:54:14.000Z",
 } as const satisfies Domain

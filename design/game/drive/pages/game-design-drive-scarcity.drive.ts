@@ -10,4 +10,6 @@ export const gameDesignDriveScarcity = {
     name: "Scarcity & Impatience",
     definition: "Wanting something more because you cannot have it, or cannot have it right now.",
   },
+  createdAt: "2026-09-03T12:55:47.735Z",
+  updatedAt: "2026-09-15T16:44:48.000Z",
 } as const satisfies Drive

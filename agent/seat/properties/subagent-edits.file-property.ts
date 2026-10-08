@@ -37,4 +37,6 @@ export const subagentEdits = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-10T22:13:41.883Z",
+  updatedAt: "2026-09-25T18:24:52.000Z",
 } as const satisfies FileProperty

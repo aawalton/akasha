@@ -88,4 +88,6 @@ export const alanHarnessAttribute = {
       statement: "No day before the day an attribute begins is backfilled.",
     },
   ],
+  createdAt: "2026-09-03T18:14:43.608Z",
+  updatedAt: "2026-09-24T22:26:54.000Z",
 } as const satisfies Domain

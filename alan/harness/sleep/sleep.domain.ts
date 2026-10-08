@@ -30,4 +30,6 @@ export const sleep = {
       statement: "The tile shows the sleep Alan's workstation last took.",
     },
   ],
+  createdAt: "2026-09-02T12:38:40.780Z",
+  updatedAt: "2026-09-24T23:45:35.000Z",
 } as const satisfies Domain

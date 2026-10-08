@@ -6,4 +6,6 @@ export const designGame = {
   slug: "design-game",
   definition: "how a game is made well",
   parts: ["domain/mechanic", "page-type/achievement", "page-type/drive"],
+  createdAt: "2026-09-10T23:06:19.989Z",
+  updatedAt: "2026-09-25T14:29:14.000Z",
 } as const satisfies Domain

@@ -14,4 +14,6 @@ export const pithkaGroupFinderLayout = {
         "The markup is Pithka's Achievement Tracker's own, with only its global names renamed.",
     },
   ],
+  createdAt: "2026-09-26T16:56:17.954Z",
+  updatedAt: "2026-09-26T16:56:28.000Z",
 } as const satisfies EsoInterface

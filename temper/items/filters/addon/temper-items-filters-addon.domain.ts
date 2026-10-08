@@ -25,4 +25,6 @@ export const temperItemsFiltersAddon = {
       statement: "Nothing here reads an item off the guild trader.",
     },
   ],
+  createdAt: "2026-09-02T08:45:26.708Z",
+  updatedAt: "2026-09-21T15:37:03.000Z",
 } as const satisfies Domain

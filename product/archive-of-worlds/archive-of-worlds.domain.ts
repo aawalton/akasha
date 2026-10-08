@@ -6,4 +6,6 @@ export const archiveOfWorlds = {
   slug: "archive-of-worlds",
   definition: "the original fiction Alan publishes for readers to find",
   parts: ["router-app/archive-of-worlds-web"],
+  createdAt: "2026-09-03T04:23:43.670Z",
+  updatedAt: "2026-09-15T16:35:22.000Z",
 } as const satisfies Domain

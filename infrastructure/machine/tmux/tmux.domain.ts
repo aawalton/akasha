@@ -10,4 +10,6 @@ export const tmux = {
     { partOfSpeech: "part-of-speech/noun", spelling: "tmux session" },
     { partOfSpeech: "part-of-speech/noun", spelling: "tmux sessions" },
   ],
+  createdAt: "2026-09-26T13:32:01.613Z",
+  updatedAt: "2026-09-26T13:32:04.000Z",
 } as const satisfies Domain

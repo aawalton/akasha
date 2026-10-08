@@ -29,4 +29,6 @@ export const changeAgentFileContent = {
     "change-agent/rename-spellings",
     "change-agent/drop-declaration-imports",
   ],
+  createdAt: "2026-09-07T16:45:09.027Z",
+  updatedAt: "2026-09-26T16:46:29.000Z",
 } as const satisfies Domain

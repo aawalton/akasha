@@ -7,4 +7,6 @@ export const self = {
   definition: "who Alan wants to become",
   spellings: [{ partOfSpeech: "part-of-speech/noun", spelling: "self" }],
   parts: ["page-type/identity-statement", "page-type/life-theme"],
+  createdAt: "2026-09-03T04:10:27.200Z",
+  updatedAt: "2026-09-25T13:12:20.000Z",
 } as const satisfies Domain

@@ -37,4 +37,6 @@ export const temperCharacterSkill = {
       statement: "A skill's place in the whole table is the index a build hash has.",
     },
   ],
+  createdAt: "2026-09-02T09:36:31.858Z",
+  updatedAt: "2026-09-26T19:35:56.000Z",
 } as const satisfies Domain

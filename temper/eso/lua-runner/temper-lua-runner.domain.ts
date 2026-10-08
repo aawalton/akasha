@@ -45,4 +45,6 @@ export const temperLuaRunner = {
       statement: "Nothing here compiles TypeScript to Lua.",
     },
   ],
+  createdAt: "2026-09-02T04:20:49.934Z",
+  updatedAt: "2026-09-22T14:18:24.000Z",
 } as const satisfies Domain

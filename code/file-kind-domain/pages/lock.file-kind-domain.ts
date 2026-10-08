@@ -6,4 +6,6 @@ export const lock = {
   slug: "lock",
   definition: "a file of pinned package versions",
   namePatterns: ["*.lock"],
+  createdAt: "2026-09-24T22:30:14.957Z",
+  updatedAt: "2026-09-24T22:30:20.000Z",
 } as const satisfies FileKindDomain

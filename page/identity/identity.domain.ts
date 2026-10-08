@@ -10,4 +10,6 @@ export const identity = {
     { partOfSpeech: "part-of-speech/noun", spelling: "identities" },
   ],
   parts: ["module/file-page", "module/sha1-digest"],
+  createdAt: "2026-09-01T10:00:39.792Z",
+  updatedAt: "2026-09-25T17:23:39.000Z",
 } as const satisfies Domain

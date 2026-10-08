@@ -49,4 +49,6 @@ export const emailRouting = {
       statement: "A token refused the write says so rather than being tried again.",
     },
   ],
+  createdAt: "2026-09-14T18:36:10.427Z",
+  updatedAt: "2026-09-24T22:44:16.000Z",
 } as const satisfies Domain

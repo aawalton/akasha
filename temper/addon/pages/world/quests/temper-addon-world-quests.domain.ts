@@ -46,4 +46,6 @@ export const temperAddonWorldQuests = {
       statement: "The game hands one dialogue option at a time rather than a whole menu.",
     },
   ],
+  createdAt: "2026-09-22T02:13:30.542Z",
+  updatedAt: "2026-09-22T02:23:36.000Z",
 } as const satisfies Domain

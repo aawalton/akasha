@@ -17,4 +17,6 @@ export const seatAgentRun = {
     "module/supervisor-rebind-carry",
     "module/supervisor-rebind-deps",
   ],
+  createdAt: "2026-09-13T20:13:41.930Z",
+  updatedAt: "2026-09-25T01:17:22.000Z",
 } as const satisfies Domain

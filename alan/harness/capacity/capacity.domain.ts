@@ -36,4 +36,6 @@ export const capacity = {
       statement: "The tile shows the capacity Alan's workstation last took.",
     },
   ],
+  createdAt: "2026-09-02T12:55:32.942Z",
+  updatedAt: "2026-09-24T22:33:51.000Z",
 } as const satisfies Domain

@@ -10,4 +10,6 @@ export const lua50Config = {
   fileName: "tsconfig.lua50.json",
   toolResolvesPaths: true,
   types: "ts",
+  createdAt: "2026-09-03T12:58:12.006Z",
+  updatedAt: "2026-09-22T14:08:17.000Z",
 } as const satisfies FileProperty

@@ -150,4 +150,6 @@ export const temperInterface = {
       statement: "The shifter box is reached by import rather than through a global.",
     },
   ],
+  createdAt: "2026-09-22T03:11:37.528Z",
+  updatedAt: "2026-09-22T14:05:35.000Z",
 } as const satisfies Domain

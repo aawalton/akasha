@@ -160,4 +160,6 @@ export const pageUiComponent = {
     "module/completion-mark",
     "module/use-reader-moved",
   ],
+  createdAt: "2026-09-02T08:30:30.833Z",
+  updatedAt: "2026-10-06T15:23:54.000Z",
 } as const satisfies Domain

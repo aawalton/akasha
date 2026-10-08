@@ -6,4 +6,6 @@ export const temperItemsFilters = {
   slug: "temper-items-filters",
   definition: "how a player narrows a list of items",
   parts: ["domain/temper-items-filters-core", "domain/temper-items-filters-addon"],
+  createdAt: "2026-09-21T15:15:12.876Z",
+  updatedAt: "2026-09-21T15:37:03.000Z",
 } as const satisfies Domain

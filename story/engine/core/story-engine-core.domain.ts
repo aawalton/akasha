@@ -33,4 +33,6 @@ export const storyEngineCore = {
       statement: "A decision here is taken from facts handed in rather than from facts looked up.",
     },
   ],
+  createdAt: "2026-09-01T05:29:46.052Z",
+  updatedAt: "2026-09-26T17:33:45.000Z",
 } as const satisfies Domain

@@ -12,4 +12,6 @@ export const temperItemSet = {
       statement: "This code is compiled to Lua and runs inside the game.",
     },
   ],
+  createdAt: "2026-09-11T14:34:47.369Z",
+  updatedAt: "2026-09-21T15:28:58.000Z",
 } as const satisfies Domain

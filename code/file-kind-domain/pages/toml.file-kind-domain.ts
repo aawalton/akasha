@@ -6,4 +6,6 @@ export const toml = {
   slug: "toml",
   definition: "a file of TOML settings",
   namePatterns: ["*.toml"],
+  createdAt: "2026-09-24T22:30:14.957Z",
+  updatedAt: "2026-09-24T22:30:20.000Z",
 } as const satisfies FileKindDomain

@@ -17,4 +17,6 @@ export const shifterBoxTemplate = {
       statement: "This document is loaded before the Lua bundle.",
     },
   ],
+  createdAt: "2026-09-02T09:50:46.348Z",
+  updatedAt: "2026-09-22T13:54:21.000Z",
 } as const satisfies EsoInterface

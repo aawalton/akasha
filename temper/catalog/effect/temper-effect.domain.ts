@@ -21,4 +21,6 @@ export const temperEffect = {
     "page-type/temper-target-type",
     "page-type/temper-vampire-stage",
   ],
+  createdAt: "2026-09-02T01:27:53.148Z",
+  updatedAt: "2026-09-26T20:30:13.000Z",
 } as const satisfies Domain

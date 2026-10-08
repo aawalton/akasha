@@ -32,4 +32,6 @@ export const cpu = {
       statement: "A host short of processor time ends nothing.",
     },
   ],
+  createdAt: "2026-09-11T17:33:41.579Z",
+  updatedAt: "2026-09-25T16:36:17.000Z",
 } as const satisfies Domain

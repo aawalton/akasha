@@ -7,4 +7,6 @@ export const changeMechanicalFileDivide = {
   definition: "a mechanical change that divides a file",
   parts: ["change-mechanical/divide-file-code", "change-mechanical/divide-file-page-property"],
   decisions: [],
+  createdAt: "2026-09-11T00:49:01.580Z",
+  updatedAt: "2026-09-25T13:44:56.000Z",
 } as const satisfies Domain

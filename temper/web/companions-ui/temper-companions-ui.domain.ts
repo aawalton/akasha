@@ -6,4 +6,6 @@ export const temperCompanionsUi = {
   slug: "temper-companions-ui",
   definition: "the companion builds a player keeps, listed, edited and shared",
   parts: ["module/companion-quality-rules", "module/use-companions"],
+  createdAt: "2026-09-02T18:27:40.800Z",
+  updatedAt: "2026-09-21T15:16:26.000Z",
 } as const satisfies Domain

@@ -34,4 +34,6 @@ export const temperMainMenu = {
       statement: "Nothing here reaches a Date.",
     },
   ],
+  createdAt: "2026-09-22T03:59:01.508Z",
+  updatedAt: "2026-09-22T05:50:40.000Z",
 } as const satisfies Domain

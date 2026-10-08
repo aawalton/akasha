@@ -92,4 +92,6 @@ export const requiredReading = {
       ],
     },
   ],
+  createdAt: "2026-08-29T12:56:27.392Z",
+  updatedAt: "2026-09-25T15:15:08.000Z",
 } as const satisfies Domain

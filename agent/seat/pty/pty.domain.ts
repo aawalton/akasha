@@ -15,4 +15,6 @@ export const pty = {
     "module/pty-proxy-detector",
     "module/pty-terminal-death",
   ],
+  createdAt: "2026-09-12T01:16:29.806Z",
+  updatedAt: "2026-09-24T14:42:05.000Z",
 } as const satisfies Domain

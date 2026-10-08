@@ -10,4 +10,6 @@ export const text = {
     { partOfSpeech: "part-of-speech/noun", spelling: "texts" },
   ],
   parts: ["domain/quote", "domain/text-writing", "module/one-line"],
+  createdAt: "2026-08-28T19:47:07.676Z",
+  updatedAt: "2026-09-22T00:11:08.000Z",
 } as const satisfies Domain

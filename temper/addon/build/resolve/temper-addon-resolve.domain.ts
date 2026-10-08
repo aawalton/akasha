@@ -32,4 +32,6 @@ export const temperAddonResolve = {
       statement: "Nothing here writes to the game's addons folder.",
     },
   ],
+  createdAt: "2026-09-02T04:29:19.804Z",
+  updatedAt: "2026-09-21T22:05:23.000Z",
 } as const satisfies Domain

@@ -30,4 +30,6 @@ export const safety = {
       statement: "The tile shows the level Alan's workstation last took.",
     },
   ],
+  createdAt: "2026-09-01T23:16:33.653Z",
+  updatedAt: "2026-09-24T23:44:49.000Z",
 } as const satisfies Domain

@@ -31,4 +31,6 @@ export const cost = {
       statement: "The color a cost takes is read with the surplus rather than from the cost alone.",
     },
   ],
+  createdAt: "2026-09-10T13:52:01.757Z",
+  updatedAt: "2026-09-24T22:39:51.000Z",
 } as const satisfies Domain

@@ -124,4 +124,6 @@ export const temperScrollableMenu = {
       statement: "The search history and the collapsed headers are kept across the whole account.",
     },
   ],
+  createdAt: "2026-09-22T04:10:37.720Z",
+  updatedAt: "2026-09-25T21:38:46.000Z",
 } as const satisfies Domain

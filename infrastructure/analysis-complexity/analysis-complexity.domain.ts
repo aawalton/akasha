@@ -14,4 +14,6 @@ export const analysisComplexity = {
     "module/operator-classification",
     "module/walk-functions",
   ],
+  createdAt: "2026-09-03T16:17:42.327Z",
+  updatedAt: "2026-09-25T16:18:57.000Z",
 } as const satisfies Domain

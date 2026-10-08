@@ -5,4 +5,6 @@ export const readoutColor = {
   type: "page-type/domain",
   slug: "readout-color",
   definition: "a readout's color",
+  createdAt: "2026-09-03T03:41:37.885Z",
+  updatedAt: "2026-09-22T13:54:48.000Z",
 } as const satisfies Domain

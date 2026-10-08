@@ -13,4 +13,6 @@ export const codeRunning = {
     "module/test-environment",
     "module/test-confinement",
   ],
+  createdAt: "2026-09-13T14:25:32.335Z",
+  updatedAt: "2026-09-25T17:24:47.000Z",
 } as const satisfies Domain

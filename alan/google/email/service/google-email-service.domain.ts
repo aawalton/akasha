@@ -6,4 +6,6 @@ export const googleEmailService = {
   slug: "google-email-service",
   definition: "an external service for email",
   spellings: [{ partOfSpeech: "part-of-speech/proper-noun", spelling: "Gmail" }],
+  createdAt: "2026-09-24T22:08:47.553Z",
+  updatedAt: "2026-09-24T22:08:49.000Z",
 } as const satisfies Domain

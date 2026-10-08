@@ -17,4 +17,6 @@ export const errorsClient = {
       statement: "Nothing here acts where there is no window.",
     },
   ],
+  createdAt: "2026-09-01T10:35:02.067Z",
+  updatedAt: "2026-09-24T22:49:05.000Z",
 } as const satisfies Domain

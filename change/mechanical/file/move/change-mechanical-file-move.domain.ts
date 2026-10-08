@@ -15,4 +15,6 @@ export const changeMechanicalFileMove = {
     "change-mechanical/move-files",
   ],
   decisions: [],
+  createdAt: "2026-09-07T16:40:31.421Z",
+  updatedAt: "2026-09-25T13:41:12.000Z",
 } as const satisfies Domain

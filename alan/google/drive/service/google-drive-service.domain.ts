@@ -6,4 +6,6 @@ export const googleDriveService = {
   slug: "google-drive-service",
   definition: "an external service where people store files",
   spellings: [{ partOfSpeech: "part-of-speech/proper-noun", spelling: "Google Drive" }],
+  createdAt: "2026-09-24T22:02:05.030Z",
+  updatedAt: "2026-09-24T22:06:00.000Z",
 } as const satisfies Domain

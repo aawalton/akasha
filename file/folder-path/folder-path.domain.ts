@@ -11,4 +11,6 @@ export const folderPath = {
       statement: "Every file path begins with a folder path.",
     },
   ],
+  createdAt: "2026-09-03T16:24:14.767Z",
+  updatedAt: "2026-09-25T16:08:16.000Z",
 } as const satisfies Domain

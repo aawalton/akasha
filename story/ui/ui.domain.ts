@@ -43,4 +43,6 @@ export const ui = {
     "module/time-panel",
     "page-type/played-panel",
   ],
+  createdAt: "2026-09-02T14:38:30.875Z",
+  updatedAt: "2026-10-05T21:40:28.000Z",
 } as const satisfies Domain

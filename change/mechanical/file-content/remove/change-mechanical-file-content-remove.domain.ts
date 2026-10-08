@@ -11,4 +11,6 @@ export const changeMechanicalFileContentRemove = {
     "change-mechanical-file-content/remove-property-value",
     "change-mechanical-file-content/remove-type-member",
   ],
+  createdAt: "2026-09-07T16:42:30.896Z",
+  updatedAt: "2026-09-25T13:41:59.000Z",
 } as const satisfies Domain

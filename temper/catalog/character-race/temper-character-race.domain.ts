@@ -16,4 +16,6 @@ export const temperCharacterRace = {
       statement: "A race is reached by its own id rather than by the race id the game has.",
     },
   ],
+  createdAt: "2026-09-02T05:15:01.299Z",
+  updatedAt: "2026-09-27T02:02:13.000Z",
 } as const satisfies Domain

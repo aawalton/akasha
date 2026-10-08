@@ -6,4 +6,6 @@ export const pageCoreFilter = {
   slug: "page-core-filter",
   definition: "how code chooses the pages a view shows",
   parts: ["module/filter-to-condition", "module/property-path"],
+  createdAt: "2026-09-05T13:33:18.937Z",
+  updatedAt: "2026-09-25T17:19:03.000Z",
 } as const satisfies Domain

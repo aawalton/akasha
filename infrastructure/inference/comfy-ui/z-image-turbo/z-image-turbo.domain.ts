@@ -35,4 +35,6 @@ export const zImageTurbo = {
       statement: "That fall answers the longest edge whatever the frame's area or shape.",
     },
   ],
+  createdAt: "2026-09-03T03:32:56.886Z",
+  updatedAt: "2026-09-25T16:42:20.000Z",
 } as const satisfies Domain

@@ -6,4 +6,6 @@ export const ts = {
   slug: "ts",
   definition: "a file of TypeScript source",
   namePatterns: ["*.ts"],
+  createdAt: "2026-09-24T22:30:14.957Z",
+  updatedAt: "2026-09-24T22:30:20.000Z",
 } as const satisfies FileKindDomain

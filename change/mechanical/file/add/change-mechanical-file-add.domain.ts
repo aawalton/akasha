@@ -13,4 +13,6 @@ export const changeMechanicalFileAdd = {
     "change-mechanical/add-file-page-property",
     "change-mechanical/add-file-page-type",
   ],
+  createdAt: "2026-09-07T16:40:24.742Z",
+  updatedAt: "2026-09-25T13:36:44.000Z",
 } as const satisfies Domain

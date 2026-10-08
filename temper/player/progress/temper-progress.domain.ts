@@ -28,4 +28,6 @@ export const temperProgress = {
     "page-type/temper-item-rule",
     "page-type/temper-buy-action",
   ],
+  createdAt: "2026-09-02T01:12:12.930Z",
+  updatedAt: "2026-09-27T14:00:26.000Z",
 } as const satisfies Domain

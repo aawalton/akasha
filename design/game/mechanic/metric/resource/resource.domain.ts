@@ -5,4 +5,6 @@ export const resource = {
   type: "page-type/domain",
   slug: "resource",
   definition: "a number a character spends",
+  createdAt: "2026-09-22T15:46:51.243Z",
+  updatedAt: "2026-09-25T14:36:59.000Z",
 } as const satisfies Domain

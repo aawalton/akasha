@@ -132,4 +132,6 @@ export const designLanguage = {
       ],
     },
   ],
+  createdAt: "2026-09-03T06:41:11.168Z",
+  updatedAt: "2026-09-25T15:04:46.000Z",
 } as const satisfies Domain

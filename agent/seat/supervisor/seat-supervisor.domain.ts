@@ -39,4 +39,6 @@ export const seatSupervisor = {
       statement: "Each thing a supervisor does is a domain naming the modules that do it.",
     },
   ],
+  createdAt: "2026-09-09T22:45:48.673Z",
+  updatedAt: "2026-09-25T13:32:41.000Z",
 } as const satisfies Domain

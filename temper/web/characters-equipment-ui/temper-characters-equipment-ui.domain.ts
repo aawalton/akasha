@@ -10,4 +10,6 @@ export const temperCharactersEquipmentUi = {
     "module/equipment-quality-rules",
     "module/eso-quality-text-classes",
   ],
+  createdAt: "2026-09-02T17:38:08.946Z",
+  updatedAt: "2026-09-22T13:47:53.000Z",
 } as const satisfies Domain

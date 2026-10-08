@@ -16,4 +16,6 @@ export const temperMerchantValue = {
       statement: "Every thing a merchant takes has a merchant value.",
     },
   ],
+  createdAt: "2026-09-19T01:56:45.108Z",
+  updatedAt: "2026-09-21T15:10:37.000Z",
 } as const satisfies Domain

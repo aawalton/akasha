@@ -22,4 +22,6 @@ export const plant = {
         "The window counted over runs from the hour Alan rose to the hour Alan rises next.",
     },
   ],
+  createdAt: "2026-09-02T12:39:39.871Z",
+  updatedAt: "2026-09-24T23:29:33.000Z",
 } as const satisfies Domain

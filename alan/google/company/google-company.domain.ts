@@ -6,4 +6,6 @@ export const googleCompany = {
   slug: "google-company",
   definition: "a company that runs external services",
   spellings: [{ partOfSpeech: "part-of-speech/proper-noun", spelling: "Google" }],
+  createdAt: "2026-09-24T21:58:32.821Z",
+  updatedAt: "2026-09-24T21:58:34.000Z",
 } as const satisfies Domain

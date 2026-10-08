@@ -51,4 +51,6 @@ export const temperSkyshard = {
       statement: "Where a skyshard is shown is read from that skyshard's page.",
     },
   ],
+  createdAt: "2026-09-02T10:27:15.181Z",
+  updatedAt: "2026-09-25T00:20:19.000Z",
 } as const satisfies Domain

@@ -36,4 +36,6 @@ export const temperInventoryAutomation = {
       statement: "Nothing here talks to the game.",
     },
   ],
+  createdAt: "2026-09-02T03:45:24.898Z",
+  updatedAt: "2026-09-21T15:18:52.000Z",
 } as const satisfies Domain

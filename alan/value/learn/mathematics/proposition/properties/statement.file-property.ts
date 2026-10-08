@@ -8,4 +8,6 @@ export const statement = {
   definition: "what a proposition says, written out",
   extensions: ["txt"],
   types: "ts",
+  createdAt: "2026-09-03T04:10:11.500Z",
+  updatedAt: "2026-09-15T16:56:11.000Z",
 } as const satisfies FileProperty

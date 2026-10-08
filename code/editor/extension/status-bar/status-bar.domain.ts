@@ -15,4 +15,6 @@ export const statusBar = {
       statement: "The status bar counts nothing.",
     },
   ],
+  createdAt: "2026-09-03T16:19:00.179Z",
+  updatedAt: "2026-09-25T14:05:04.000Z",
 } as const satisfies Domain

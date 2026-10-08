@@ -41,4 +41,6 @@ export const temperSkillMorph = {
       statement: "A skill line the character cannot use is left out of the totals.",
     },
   ],
+  createdAt: "2026-09-02T11:00:28.600Z",
+  updatedAt: "2026-09-27T07:13:22.000Z",
 } as const satisfies Domain

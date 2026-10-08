@@ -12,4 +12,6 @@ export const harryPotter = {
   unit: "unit/words",
   status: "paused",
   grade: "B",
+  createdAt: "2026-09-03T16:09:30.487Z",
+  updatedAt: "2026-09-25T12:50:49.000Z",
 } as const satisfies Fandom

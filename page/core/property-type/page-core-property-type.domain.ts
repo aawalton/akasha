@@ -36,4 +36,6 @@ export const pageCorePropertyType = {
     "module/url",
     "module/rrule-wording",
   ],
+  createdAt: "2026-09-05T13:38:53.422Z",
+  updatedAt: "2026-09-25T17:20:51.000Z",
 } as const satisfies Domain

@@ -71,4 +71,6 @@ export const guildHistory = {
       statement: "The cache is kept under the saved-variable names the upstream library used.",
     },
   ],
+  createdAt: "2026-09-22T02:52:28.073Z",
+  updatedAt: "2026-09-22T13:56:42.000Z",
 } as const satisfies Domain

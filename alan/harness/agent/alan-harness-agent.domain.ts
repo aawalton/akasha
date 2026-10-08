@@ -41,4 +41,6 @@ export const alanHarnessAgent = {
       aids: ["A trace is a hypothesis, not a result.", "A number you relayed is not one you have."],
     },
   ],
+  createdAt: "2026-09-03T04:33:16.637Z",
+  updatedAt: "2026-09-24T22:17:45.000Z",
 } as const satisfies Domain

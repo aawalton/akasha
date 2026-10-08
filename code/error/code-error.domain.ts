@@ -10,4 +10,6 @@ export const codeError = {
     { partOfSpeech: "part-of-speech/noun", spelling: "errors" },
   ],
   parts: ["domain/errors-core"],
+  createdAt: "2026-09-24T22:47:33.086Z",
+  updatedAt: "2026-09-25T14:06:34.000Z",
 } as const satisfies Domain

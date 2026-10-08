@@ -100,4 +100,6 @@ export const memoryLimit = {
     },
   ],
   parts: ["number-property/kill-memory-mb"],
+  createdAt: "2026-09-11T15:28:23.653Z",
+  updatedAt: "2026-09-25T16:39:25.000Z",
 } as const satisfies Domain

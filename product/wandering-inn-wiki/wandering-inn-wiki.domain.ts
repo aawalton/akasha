@@ -21,4 +21,6 @@ export const wanderingInnWiki = {
       statement: "A quotation of the work sits in an entry, and this wiki serves no entry.",
     },
   ],
+  createdAt: "2026-09-19T02:59:54.079Z",
+  updatedAt: "2026-09-21T22:15:22.000Z",
 } as const satisfies Domain

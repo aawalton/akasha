@@ -16,4 +16,6 @@ export const supervisorRestart = {
     "module/supervisor-restart-state",
     "page-type/re-exec-ask-state",
   ],
+  createdAt: "2026-09-09T22:58:36.158Z",
+  updatedAt: "2026-09-24T19:07:12.000Z",
 } as const satisfies Domain

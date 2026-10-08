@@ -27,4 +27,6 @@ export const pageUiBlockEditor = {
     "module/use-keyboard-inset",
     "module/use-textarea-input",
   ],
+  createdAt: "2026-09-05T13:43:09.155Z",
+  updatedAt: "2026-09-25T17:29:28.000Z",
 } as const satisfies Domain

@@ -14,4 +14,6 @@ export const attributeReadout = {
     "readout/attribute-strength",
     "readout/attribute-wisdom",
   ],
+  createdAt: "2026-09-10T14:17:05.123Z",
+  updatedAt: "2026-09-24T17:53:00.000Z",
 } as const satisfies Domain

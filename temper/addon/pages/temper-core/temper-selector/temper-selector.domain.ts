@@ -41,4 +41,6 @@ export const temperSelector = {
       statement: "The game acts on a switched add-on only once the interface reloads.",
     },
   ],
+  createdAt: "2026-09-22T02:43:27.853Z",
+  updatedAt: "2026-09-22T14:05:35.000Z",
 } as const satisfies Domain

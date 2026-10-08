@@ -109,4 +109,6 @@ export const code = {
       ],
     },
   ],
+  createdAt: "2026-08-28T20:53:56.613Z",
+  updatedAt: "2026-09-25T15:05:40.000Z",
 } as const satisfies Domain

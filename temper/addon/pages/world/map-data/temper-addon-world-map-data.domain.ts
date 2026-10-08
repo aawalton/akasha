@@ -62,4 +62,6 @@ export const temperAddonWorldMapData = {
       statement: "Placing the player on Tamriel needs the map measuring feature started first.",
     },
   ],
+  createdAt: "2026-09-22T03:21:55.779Z",
+  updatedAt: "2026-09-22T03:58:40.000Z",
 } as const satisfies Domain

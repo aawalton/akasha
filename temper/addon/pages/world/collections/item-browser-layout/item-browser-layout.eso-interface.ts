@@ -27,4 +27,6 @@ export const itemBrowserLayout = {
         "The account and server dropdowns are hidden until more than one account is known.",
     },
   ],
+  createdAt: "2026-09-02T13:26:25.632Z",
+  updatedAt: "2026-09-22T02:48:18.000Z",
 } as const satisfies EsoInterface

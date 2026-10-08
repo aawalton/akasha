@@ -30,4 +30,6 @@ export const temperGroupDungeon = {
       statement: "The dungeon data here is written out from the dungeon pages.",
     },
   ],
+  createdAt: "2026-09-02T03:37:28.036Z",
+  updatedAt: "2026-09-21T15:28:00.000Z",
 } as const satisfies Domain

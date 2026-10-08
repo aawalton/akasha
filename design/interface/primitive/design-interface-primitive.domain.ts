@@ -67,4 +67,6 @@ export const designInterfacePrimitive = {
     "module/use-number-draft",
     "module/use-single-flight",
   ],
+  createdAt: "2026-09-01T07:28:30.323Z",
+  updatedAt: "2026-09-27T11:58:24.000Z",
 } as const satisfies Domain

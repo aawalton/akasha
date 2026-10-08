@@ -7,4 +7,6 @@ export const mcp = {
   definition: "how an agent calls a program",
   spellings: [{ partOfSpeech: "part-of-speech/noun", spelling: "mcp" }],
   parts: ["domain/mcp-server"],
+  createdAt: "2026-09-03T04:56:24.840Z",
+  updatedAt: "2026-09-25T15:10:02.000Z",
 } as const satisfies Domain

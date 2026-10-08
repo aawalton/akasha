@@ -11,4 +11,6 @@ export const pageUiMarkdown = {
     "module/remark-mentions",
     "module/remark-sectionize",
   ],
+  createdAt: "2026-09-05T13:44:01.295Z",
+  updatedAt: "2026-09-25T17:31:26.000Z",
 } as const satisfies Domain

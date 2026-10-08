@@ -13,4 +13,6 @@ export const pageUiCache = {
     "module/use-query",
     "module/use-view-query",
   ],
+  createdAt: "2026-09-05T13:43:16.149Z",
+  updatedAt: "2026-09-27T07:12:36.000Z",
 } as const satisfies Domain

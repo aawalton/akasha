@@ -8,4 +8,6 @@ export const locationCollectionDescription = {
   definition: "what a gathering of places is and its source",
   extensions: ["txt"],
   types: "ts",
+  createdAt: "2026-09-03T04:32:05.934Z",
+  updatedAt: "2026-09-22T13:54:40.000Z",
 } as const satisfies FileProperty

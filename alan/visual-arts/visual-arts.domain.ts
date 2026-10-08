@@ -5,4 +5,6 @@ export const visualArts = {
   type: "page-type/domain",
   slug: "visual-arts",
   definition: "Alan's art",
+  createdAt: "2026-09-03T12:24:57.658Z",
+  updatedAt: "2026-09-25T13:25:02.000Z",
 } as const satisfies Domain

@@ -68,4 +68,6 @@ export const cpuLimit = {
     },
   ],
   parts: ["number-property/cpu-share"],
+  createdAt: "2026-09-11T17:30:53.249Z",
+  updatedAt: "2026-09-25T16:39:21.000Z",
 } as const satisfies Domain

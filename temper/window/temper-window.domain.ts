@@ -67,4 +67,6 @@ export const temperWindow = {
       statement: "A window ported from a community add-on keeps the look that add-on has upstream.",
     },
   ],
+  createdAt: "2026-09-25T12:54:10.085Z",
+  updatedAt: "2026-09-26T15:34:13.000Z",
 } as const satisfies Domain

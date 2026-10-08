@@ -5,4 +5,6 @@ export const medicine = {
   type: "page-type/domain",
   slug: "medicine",
   definition: "Alan's medical health",
+  createdAt: "2026-09-03T13:00:18.032Z",
+  updatedAt: "2026-09-25T12:50:22.000Z",
 } as const satisfies Domain

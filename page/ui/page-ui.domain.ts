@@ -24,4 +24,6 @@ export const pageUi = {
     "module/use-user-id",
     "module/view-callbacks",
   ],
+  createdAt: "2026-09-01T08:21:56.942Z",
+  updatedAt: "2026-09-24T22:26:31.000Z",
 } as const satisfies Domain

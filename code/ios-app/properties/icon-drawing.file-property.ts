@@ -8,4 +8,6 @@ export const iconDrawing = {
   definition: "the drawing making an app's icon",
   extensions: ["svg"],
   types: "ts",
+  createdAt: "2026-08-31T20:48:17.055Z",
+  updatedAt: "2026-09-22T13:51:13.000Z",
 } as const satisfies FileProperty

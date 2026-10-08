@@ -4,4 +4,6 @@ export const latina = {
   id: "01a0e384-88a7-7bc6-be54-f82b9caa09d3",
   type: "page-type/ethnicity-tag",
   slug: "latina",
+  createdAt: "2026-09-27T15:38:28.903Z",
+  updatedAt: "2026-09-27T15:38:31.000Z",
 } as const satisfies EthnicityTag

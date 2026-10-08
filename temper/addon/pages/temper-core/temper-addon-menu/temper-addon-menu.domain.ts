@@ -67,4 +67,6 @@ export const temperAddonMenu = {
       statement: "A control reads its value through a getter the declaring add-on supplies.",
     },
   ],
+  createdAt: "2026-09-22T04:43:42.622Z",
+  updatedAt: "2026-09-22T05:50:40.000Z",
 } as const satisfies Domain

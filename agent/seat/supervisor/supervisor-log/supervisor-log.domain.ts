@@ -10,4 +10,6 @@ export const supervisorLog = {
     "module/supervisor-log-path",
     "module/supervisor-log-sweeping",
   ],
+  createdAt: "2026-09-13T20:46:22.631Z",
+  updatedAt: "2026-09-24T16:53:45.000Z",
 } as const satisfies Domain

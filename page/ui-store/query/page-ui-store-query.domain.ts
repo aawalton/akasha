@@ -17,4 +17,6 @@ export const pageUiStoreQuery = {
     "module/view-pipeline",
     "module/view-target-slugs",
   ],
+  createdAt: "2026-09-05T13:39:52.044Z",
+  updatedAt: "2026-09-25T17:30:14.000Z",
 } as const satisfies Domain

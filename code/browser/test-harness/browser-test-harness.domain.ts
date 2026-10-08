@@ -26,4 +26,6 @@ export const browserTestHarness = {
       statement: "Nothing here knows the assertion any test the harness has makes.",
     },
   ],
+  createdAt: "2026-09-01T11:10:29.889Z",
+  updatedAt: "2026-09-25T14:01:29.000Z",
 } as const satisfies Domain

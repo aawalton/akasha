@@ -34,4 +34,6 @@ export const imessage = {
       statement: "A command here is named for the path the old ops command was reached by.",
     },
   ],
+  createdAt: "2026-09-01T07:05:11.688Z",
+  updatedAt: "2026-09-24T23:22:29.000Z",
 } as const satisfies Domain

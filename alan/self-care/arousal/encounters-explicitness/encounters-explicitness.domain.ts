@@ -67,4 +67,6 @@ export const encountersExplicitness = {
       statement: "Every character in Encounters is an adult.",
     },
   ],
+  createdAt: "2026-10-06T20:54:26.823Z",
+  updatedAt: "2026-10-06T20:54:30.000Z",
 } as const satisfies Domain

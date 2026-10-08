@@ -10,4 +10,6 @@ export const gameDesignDriveNovelty = {
     name: "Unpredictability & Curiosity",
     definition: "Being held by not knowing what will happen next.",
   },
+  createdAt: "2026-09-03T12:55:47.769Z",
+  updatedAt: "2026-09-15T16:44:48.000Z",
 } as const satisfies Drive

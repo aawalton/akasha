@@ -54,4 +54,6 @@ export const temperAddonWorldGps = {
       statement: "LibDebugLogger and TemperChatMessage are loaded before this feature.",
     },
   ],
+  createdAt: "2026-09-22T03:52:36.458Z",
+  updatedAt: "2026-09-22T10:07:26.000Z",
 } as const satisfies Domain

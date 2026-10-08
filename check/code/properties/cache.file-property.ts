@@ -36,4 +36,6 @@ export const cache = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-21T15:57:43.808Z",
+  updatedAt: "2026-09-21T22:43:18.000Z",
 } as const satisfies FileProperty

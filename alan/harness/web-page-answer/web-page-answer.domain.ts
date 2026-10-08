@@ -35,4 +35,6 @@ export const webPageAnswer = {
       statement: "How a site knows its reader is passed in, and every site passes one.",
     },
   ],
+  createdAt: "2026-09-03T03:40:37.928Z",
+  updatedAt: "2026-09-25T12:43:25.000Z",
 } as const satisfies Domain

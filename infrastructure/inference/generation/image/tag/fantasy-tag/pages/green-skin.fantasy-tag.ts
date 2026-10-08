@@ -4,4 +4,6 @@ export const greenSkin = {
   id: "01a0e384-2e74-7cb8-89d7-68e3c7a3e1d2",
   type: "page-type/fantasy-tag",
   slug: "green-skin",
+  createdAt: "2026-09-27T15:38:05.812Z",
+  updatedAt: "2026-09-27T15:38:08.000Z",
 } as const satisfies FantasyTag

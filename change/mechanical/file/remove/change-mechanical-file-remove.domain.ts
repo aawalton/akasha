@@ -19,4 +19,6 @@ export const changeMechanicalFileRemove = {
       statement: "This family has a rung at every file kind the add family has one at.",
     },
   ],
+  createdAt: "2026-09-07T16:40:28.177Z",
+  updatedAt: "2026-09-25T13:41:59.000Z",
 } as const satisfies Domain

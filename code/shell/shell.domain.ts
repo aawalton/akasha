@@ -18,4 +18,6 @@ export const shell = {
         "A value written into a command is written so the shell reads that value as one word.",
     },
   ],
+  createdAt: "2026-09-01T15:34:04.410Z",
+  updatedAt: "2026-09-25T14:14:15.000Z",
 } as const satisfies Domain

@@ -22,4 +22,6 @@ export const swordArtOnlineS01e18 = {
       externalLink: "https://www.themoviedb.org/tv/45782/season/1/episode/18",
     },
   ],
+  createdAt: "2026-06-07T22:44:39.524Z",
+  updatedAt: "2026-09-25T12:50:49.000Z",
 } as const satisfies Episode

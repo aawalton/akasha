@@ -39,4 +39,6 @@ export const temperCharacterSource = {
       statement: "A character's gear is named outside this folder.",
     },
   ],
+  createdAt: "2026-09-02T06:59:47.430Z",
+  updatedAt: "2026-09-27T01:01:57.000Z",
 } as const satisfies Domain

@@ -18,4 +18,6 @@ export const telemetry = {
     "service-workstation/dcgm-exporter",
     "service-workstation/node-exporter",
   ],
+  createdAt: "2026-09-03T04:33:27.298Z",
+  updatedAt: "2026-09-25T17:18:14.000Z",
 } as const satisfies Domain

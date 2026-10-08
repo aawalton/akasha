@@ -4,4 +4,6 @@ export const tail = {
   id: "01a0e384-2e74-7ff1-852b-a3f106ef9fc3",
   type: "page-type/fantasy-tag",
   slug: "tail",
+  createdAt: "2026-09-27T15:38:05.812Z",
+  updatedAt: "2026-09-27T15:38:08.000Z",
 } as const satisfies FantasyTag

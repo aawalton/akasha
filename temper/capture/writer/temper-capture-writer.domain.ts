@@ -29,4 +29,6 @@ export const temperCaptureWriter = {
       statement: "Nothing here reads a saved file back.",
     },
   ],
+  createdAt: "2026-09-02T06:01:33.350Z",
+  updatedAt: "2026-09-24T22:10:41.000Z",
 } as const satisfies Domain

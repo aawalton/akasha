@@ -56,4 +56,6 @@ export const temperCharactersCaptureAddon = {
       statement: "Nothing here reads a build hash back.",
     },
   ],
+  createdAt: "2026-09-02T09:20:17.185Z",
+  updatedAt: "2026-09-27T01:02:57.000Z",
 } as const satisfies Domain

@@ -49,4 +49,6 @@ export const pageUiStore = {
       statement: "A page type written outside the store is read again on being asked to.",
     },
   ],
+  createdAt: "2026-09-01T05:20:20.828Z",
+  updatedAt: "2026-09-25T17:30:14.000Z",
 } as const satisfies Domain

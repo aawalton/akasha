@@ -9,4 +9,6 @@ export const ability = {
     { partOfSpeech: "part-of-speech/noun", spelling: "ability" },
     { partOfSpeech: "part-of-speech/noun", spelling: "abilities" },
   ],
+  createdAt: "2026-09-03T13:00:18.003Z",
+  updatedAt: "2026-09-22T00:11:08.000Z",
 } as const satisfies Domain

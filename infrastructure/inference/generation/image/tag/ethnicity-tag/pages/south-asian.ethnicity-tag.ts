@@ -4,4 +4,6 @@ export const southAsian = {
   id: "01a0e384-88a7-79ad-abdc-8a080c8be999",
   type: "page-type/ethnicity-tag",
   slug: "south-asian",
+  createdAt: "2026-09-27T15:38:28.903Z",
+  updatedAt: "2026-09-27T15:38:31.000Z",
 } as const satisfies EthnicityTag

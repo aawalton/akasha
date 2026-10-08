@@ -17,4 +17,6 @@ export const product = {
     "domain/smilingjenny",
     "domain/wandering-inn-wiki",
   ],
+  createdAt: "2026-09-08T19:08:04.411Z",
+  updatedAt: "2026-09-22T14:33:10.000Z",
 } as const satisfies Domain

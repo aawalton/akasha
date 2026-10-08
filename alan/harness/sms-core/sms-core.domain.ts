@@ -41,4 +41,6 @@ export const smsCore = {
       statement: "A command here is the one thing that reaches the carrier.",
     },
   ],
+  createdAt: "2026-09-01T05:27:15.612Z",
+  updatedAt: "2026-09-24T23:48:22.000Z",
 } as const satisfies Domain

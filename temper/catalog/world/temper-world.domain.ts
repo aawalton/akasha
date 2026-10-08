@@ -25,4 +25,6 @@ export const temperWorld = {
     "domain/temper-lorebook",
     "page-type/temper-bag",
   ],
+  createdAt: "2026-09-02T01:27:53.149Z",
+  updatedAt: "2026-09-27T09:57:53.000Z",
 } as const satisfies Domain

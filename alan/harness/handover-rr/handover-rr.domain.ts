@@ -57,4 +57,6 @@ export const handoverRr = {
         "A code that will not read is refused where it arrives, rather than sending the person round again.",
     },
   ],
+  createdAt: "2026-09-19T20:29:10.338Z",
+  updatedAt: "2026-09-24T23:22:29.000Z",
 } as const satisfies Domain

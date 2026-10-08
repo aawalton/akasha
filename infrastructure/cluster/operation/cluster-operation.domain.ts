@@ -18,4 +18,6 @@ export const clusterOperation = {
     "shell-script/rotate-cf-token",
     "shell-script/rotate-ssh-key",
   ],
+  createdAt: "2026-09-03T17:51:28.767Z",
+  updatedAt: "2026-09-25T16:26:12.000Z",
 } as const satisfies Domain

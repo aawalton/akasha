@@ -11,4 +11,6 @@ export const gameDesignDriveCollection = {
     definition:
       "Feeling that something is yours, which makes you want more of it and want to improve it.",
   },
+  createdAt: "2026-09-03T12:55:47.662Z",
+  updatedAt: "2026-09-15T16:44:48.000Z",
 } as const satisfies Drive

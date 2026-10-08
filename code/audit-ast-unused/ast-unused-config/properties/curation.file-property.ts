@@ -9,4 +9,6 @@ export const curation = {
   extensions: ["json"],
   fileName: "ast-unused.config.json",
   types: "ts",
+  createdAt: "2026-09-08T15:16:52.455Z",
+  updatedAt: "2026-09-15T16:56:11.000Z",
 } as const satisfies FileProperty

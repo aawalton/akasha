@@ -75,4 +75,6 @@ export const saltAndLamplightExplicitness = {
       statement: "Every character in Salt and Lamplight is an adult.",
     },
   ],
+  createdAt: "2026-10-02T14:27:50.801Z",
+  updatedAt: "2026-10-02T15:50:16.000Z",
 } as const satisfies Domain

@@ -7,4 +7,6 @@ export const combatAlertsBossHealthBarLayout = {
   definition: "the boss health bar layout of the combat alerts",
   markup: "xml",
   loadedAs: "TemperCombatAlerts_BossHealthBar.xml",
+  createdAt: "2026-09-26T16:13:55.831Z",
+  updatedAt: "2026-09-26T16:14:03.000Z",
 } as const satisfies EsoInterface

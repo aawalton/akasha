@@ -25,4 +25,6 @@ export const lostTreasureMapLayout = {
       statement: "The close button hides the map window rather than taking the map window away.",
     },
   ],
+  createdAt: "2026-09-02T13:26:25.632Z",
+  updatedAt: "2026-09-22T13:55:35.000Z",
 } as const satisfies EsoInterface

@@ -102,4 +102,6 @@ export const graph = {
       ],
     },
   ],
+  createdAt: "2026-08-29T23:16:23.820Z",
+  updatedAt: "2026-09-25T16:22:15.000Z",
 } as const satisfies Domain

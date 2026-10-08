@@ -16,4 +16,6 @@ export const sshAccess = {
       statement: "Nothing here knows the purpose of any script this package has.",
     },
   ],
+  createdAt: "2026-09-01T08:56:23.042Z",
+  updatedAt: "2026-09-25T01:16:27.000Z",
 } as const satisfies Domain

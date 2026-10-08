@@ -12,4 +12,6 @@ export const piratesOfTheCaribbean2 = {
   unit: "unit/words",
   status: "paused",
   grade: "C",
+  createdAt: "2026-09-03T16:09:30.488Z",
+  updatedAt: "2026-09-25T12:50:49.000Z",
 } as const satisfies Fandom

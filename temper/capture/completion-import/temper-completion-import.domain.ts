@@ -25,4 +25,6 @@ export const temperCompletionImport = {
       statement: "No page is written here.",
     },
   ],
+  createdAt: "2026-09-02T06:39:09.516Z",
+  updatedAt: "2026-09-25T17:05:48.000Z",
 } as const satisfies Domain

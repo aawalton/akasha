@@ -20,4 +20,6 @@ export const temperReplacementValue = {
       statement: "A replacement value is worked out exactly as a market value is.",
     },
   ],
+  createdAt: "2026-09-19T01:56:53.031Z",
+  updatedAt: "2026-09-21T15:10:37.000Z",
 } as const satisfies Domain

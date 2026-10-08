@@ -172,4 +172,6 @@ export const inbox = {
       ],
     },
   ],
+  createdAt: "2026-09-02T12:55:53.430Z",
+  updatedAt: "2026-09-25T15:35:54.000Z",
 } as const satisfies Domain

@@ -12,4 +12,6 @@ export const google = {
     "domain/google-email",
     "domain/google-oauth",
   ],
+  createdAt: "2026-09-02T18:02:24.478Z",
+  updatedAt: "2026-09-24T22:09:56.000Z",
 } as const satisfies Domain

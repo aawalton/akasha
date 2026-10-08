@@ -26,4 +26,6 @@ export const temperBitCodec = {
       statement: "The writer and the reader take the bits in the one order.",
     },
   ],
+  createdAt: "2026-09-02T05:54:46.239Z",
+  updatedAt: "2026-09-21T15:42:12.000Z",
 } as const satisfies Domain

@@ -32,4 +32,6 @@ export const authProxy = {
       statement: "The people a host behind the proxy admits are named in that host's environment.",
     },
   ],
+  createdAt: "2026-09-03T17:50:21.251Z",
+  updatedAt: "2026-09-25T16:54:38.000Z",
 } as const satisfies Domain

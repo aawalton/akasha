@@ -26,4 +26,6 @@ export const changeMechanicalFileContentRename = {
       statement: "The change composing these rungs judges the edges the whole rename leaves.",
     },
   ],
+  createdAt: "2026-09-07T16:42:34.344Z",
+  updatedAt: "2026-09-25T13:43:07.000Z",
 } as const satisfies Domain

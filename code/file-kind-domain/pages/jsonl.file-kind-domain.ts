@@ -6,4 +6,6 @@ export const jsonl = {
   slug: "jsonl",
   definition: "a file holding one JSON value to a line",
   namePatterns: ["*.jsonl"],
+  createdAt: "2026-09-24T22:30:14.957Z",
+  updatedAt: "2026-09-24T22:30:20.000Z",
 } as const satisfies FileKindDomain

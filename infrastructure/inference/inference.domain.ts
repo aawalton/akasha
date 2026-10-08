@@ -50,4 +50,6 @@ export const inference = {
         "A model is loaded before its service reports healthy rather than on the first request.",
     },
   ],
+  createdAt: "2026-09-03T04:33:27.298Z",
+  updatedAt: "2026-09-26T16:53:26.000Z",
 } as const satisfies Domain

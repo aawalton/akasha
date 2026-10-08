@@ -13,4 +13,6 @@ export const codePath = {
     "module/path-runs",
     "test-fixture/script-paths",
   ],
+  createdAt: "2026-09-13T14:27:50.927Z",
+  updatedAt: "2026-09-25T14:08:13.000Z",
 } as const satisfies Domain

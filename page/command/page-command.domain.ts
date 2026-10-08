@@ -16,4 +16,6 @@ export const pageCommand = {
       statement: "A command here acts on a page's files rather than on the values a page states.",
     },
   ],
+  createdAt: "2026-09-03T16:20:20.840Z",
+  updatedAt: "2026-09-25T16:35:02.000Z",
 } as const satisfies Domain

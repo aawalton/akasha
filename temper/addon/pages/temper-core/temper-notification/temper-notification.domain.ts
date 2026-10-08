@@ -33,4 +33,6 @@ export const temperNotification = {
       statement: "The game's own row setup is replaced so a row may have its own icon.",
     },
   ],
+  createdAt: "2026-09-22T03:30:47.880Z",
+  updatedAt: "2026-09-22T05:50:40.000Z",
 } as const satisfies Domain

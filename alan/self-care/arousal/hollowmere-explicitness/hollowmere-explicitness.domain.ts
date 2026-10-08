@@ -75,4 +75,6 @@ export const hollowmereExplicitness = {
       statement: "Every character in Hollowmere is an adult.",
     },
   ],
+  createdAt: "2026-10-02T14:38:28.784Z",
+  updatedAt: "2026-10-02T15:50:16.000Z",
 } as const satisfies Domain

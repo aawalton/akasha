@@ -62,4 +62,6 @@ export const cluster = {
       statement: "A workload names the class of node the workload runs on.",
     },
   ],
+  createdAt: "2026-09-05T23:40:28.154Z",
+  updatedAt: "2026-09-25T16:25:18.000Z",
 } as const satisfies Domain

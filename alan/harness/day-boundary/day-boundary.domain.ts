@@ -39,4 +39,6 @@ export const dayBoundary = {
       statement: "The ESO reset is Alan's own turn between days rather than an arbitrary hour.",
     },
   ],
+  createdAt: "2026-09-01T10:15:10.564Z",
+  updatedAt: "2026-09-24T22:41:55.000Z",
 } as const satisfies Domain

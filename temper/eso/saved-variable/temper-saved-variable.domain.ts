@@ -36,4 +36,6 @@ export const temperSavedVariable = {
         "The game writes a saved-variables file on a reload or a quit rather than as an addon acts.",
     },
   ],
+  createdAt: "2026-09-02T04:14:21.235Z",
+  updatedAt: "2026-09-22T13:46:31.000Z",
 } as const satisfies Domain

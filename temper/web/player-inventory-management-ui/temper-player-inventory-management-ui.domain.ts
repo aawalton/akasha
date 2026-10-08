@@ -123,4 +123,6 @@ export const temperPlayerInventoryManagementUi = {
     "module/use-rule-goal-titles",
     "module/gold-amount",
   ],
+  createdAt: "2026-09-02T18:40:41.377Z",
+  updatedAt: "2026-09-27T13:55:50.000Z",
 } as const satisfies Domain

@@ -102,4 +102,6 @@ export const auth = {
       statement: "An app's code is bound to a secret the app keeps and never sends.",
     },
   ],
+  createdAt: "2026-09-05T21:56:36.799Z",
+  updatedAt: "2026-09-25T16:19:16.000Z",
 } as const satisfies Domain

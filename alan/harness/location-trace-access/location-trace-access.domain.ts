@@ -29,4 +29,6 @@ export const locationTraceAccess = {
       statement: "A batch is kept whole or the call is refused.",
     },
   ],
+  createdAt: "2026-09-01T07:03:20.617Z",
+  updatedAt: "2026-09-24T23:22:29.000Z",
 } as const satisfies Domain

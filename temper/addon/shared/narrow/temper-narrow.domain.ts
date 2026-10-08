@@ -27,4 +27,6 @@ export const temperNarrow = {
       statement: "A refusal here throws the plain error the game's Lua understands.",
     },
   ],
+  createdAt: "2026-09-02T06:02:54.753Z",
+  updatedAt: "2026-09-21T22:10:28.000Z",
 } as const satisfies Domain

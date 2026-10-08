@@ -6,4 +6,6 @@ export const royalRoadSite = {
   slug: "royal-road-site",
   definition: "an external service where people write stories",
   spellings: [{ partOfSpeech: "part-of-speech/proper-noun", spelling: "Royal Road" }],
+  createdAt: "2026-09-24T18:05:43.437Z",
+  updatedAt: "2026-09-24T18:12:13.000Z",
 } as const satisfies Domain

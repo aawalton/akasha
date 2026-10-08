@@ -12,4 +12,6 @@ export const wanderingInn = {
     "module/syncing",
     "service-workstation/wandering-inn-sync",
   ],
+  createdAt: "2026-09-25T15:48:16.301Z",
+  updatedAt: "2026-09-25T15:48:35.000Z",
 } as const satisfies Domain

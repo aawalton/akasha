@@ -30,4 +30,6 @@ export const temperEsoConstant = {
       statement: "A later version of the game replaces these values rather than adding to them.",
     },
   ],
+  createdAt: "2026-09-22T20:18:06.516Z",
+  updatedAt: "2026-09-22T21:22:08.000Z",
 } as const satisfies Domain

@@ -110,4 +110,6 @@ export const temperCompanionsCore = {
         "How a fight is modelled stays in code, in the default rotation and extraction configs.",
     },
   ],
+  createdAt: "2026-09-02T07:31:51.280Z",
+  updatedAt: "2026-09-27T03:41:25.000Z",
 } as const satisfies Domain

@@ -11,4 +11,6 @@ export const narrativeStoryTurnPromotion = {
       statement: "A turn gathered into a chapter is no longer shown to the player as a turn.",
     },
   ],
+  createdAt: "2026-09-03T13:00:18.036Z",
+  updatedAt: "2026-09-19T01:07:10.000Z",
 } as const satisfies Domain

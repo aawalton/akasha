@@ -49,4 +49,6 @@ export const temperChatMessage = {
       statement: "Another add-on reaches the chat tagging through a global rather than an import.",
     },
   ],
+  createdAt: "2026-09-22T03:44:24.740Z",
+  updatedAt: "2026-09-22T05:50:40.000Z",
 } as const satisfies Domain

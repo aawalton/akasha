@@ -13,4 +13,6 @@ export const journalControls = {
       statement: "The XML loads before the Lua bundle.",
     },
   ],
+  createdAt: "2026-09-02T09:39:58.671Z",
+  updatedAt: "2026-09-22T13:45:15.000Z",
 } as const satisfies EsoInterface

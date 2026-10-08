@@ -31,4 +31,6 @@ export const healthSampleImport = {
       statement: "Nothing here decides the meaning of a reading.",
     },
   ],
+  createdAt: "2026-09-01T08:27:35.066Z",
+  updatedAt: "2026-09-24T23:22:29.000Z",
 } as const satisfies Domain

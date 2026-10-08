@@ -68,4 +68,6 @@ export const temperItemsCore = {
       statement: "No code here reaches the game.",
     },
   ],
+  createdAt: "2026-09-02T06:12:35.067Z",
+  updatedAt: "2026-09-27T06:01:00.000Z",
 } as const satisfies Domain

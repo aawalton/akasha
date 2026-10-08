@@ -41,4 +41,6 @@ export const temperDungeonChampion = {
       statement: "The labels here are English alone.",
     },
   ],
+  createdAt: "2026-09-02T07:16:14.137Z",
+  updatedAt: "2026-09-22T13:23:25.000Z",
 } as const satisfies Domain

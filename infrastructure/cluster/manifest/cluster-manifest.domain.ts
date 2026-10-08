@@ -31,4 +31,6 @@ export const clusterManifest = {
     "module/tunnel-route-discovery",
     "service-workstation/orphaned-resources-sweep",
   ],
+  createdAt: "2026-09-03T16:17:58.883Z",
+  updatedAt: "2026-09-25T16:26:21.000Z",
 } as const satisfies Domain

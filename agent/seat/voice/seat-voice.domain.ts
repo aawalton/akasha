@@ -28,4 +28,6 @@ export const seatVoice = {
       statement: "Gemini Live speaks only in its prebuilt voices and ignores a designed one.",
     },
   ],
+  createdAt: "2026-10-08T11:10:56.603Z",
+  updatedAt: "2026-10-08T12:30:19.000Z",
 } as const satisfies Domain

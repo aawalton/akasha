@@ -22,4 +22,6 @@ export const design = {
     },
   ],
   directives: [],
+  createdAt: "2026-09-01T04:58:54.649Z",
+  updatedAt: "2026-09-26T15:27:05.000Z",
 } as const satisfies Domain

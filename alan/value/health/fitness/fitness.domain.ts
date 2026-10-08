@@ -41,5 +41,6 @@ export const fitness = {
       ],
     },
   ],
-  updatedAt: "2026-10-08T15:23:59.696Z",
+  updatedAt: "2026-10-08T15:51:32.106Z",
+  createdAt: "2026-09-03T03:38:09.792Z",
 } as const satisfies Domain

@@ -39,4 +39,6 @@ export const temperAddonType = {
     "type-declaration/temper-keybinder-global",
     "type-declaration/temper-saved-variables-global",
   ],
+  createdAt: "2026-09-02T05:21:47.948Z",
+  updatedAt: "2026-09-26T16:11:20.000Z",
 } as const satisfies Domain

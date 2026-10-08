@@ -28,4 +28,6 @@ export const auditAstUnused = {
       statement: "A change to the entry globs moves the files that read as reached.",
     },
   ],
+  createdAt: "2026-09-03T13:00:18.010Z",
+  updatedAt: "2026-09-25T13:57:07.000Z",
 } as const satisfies Domain

@@ -29,4 +29,6 @@ export const royalRoad = {
       statement: "A chapter is fetched without the account.",
     },
   ],
+  createdAt: "2026-09-03T04:20:34.578Z",
+  updatedAt: "2026-09-28T19:47:04.000Z",
 } as const satisfies Domain

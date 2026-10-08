@@ -19,4 +19,6 @@ export const track = {
     "page-type/tracking-entry-session",
     "page-type/tracking-field",
   ],
+  createdAt: "2026-09-02T16:03:07.263Z",
+  updatedAt: "2026-09-25T13:17:12.000Z",
 } as const satisfies Domain

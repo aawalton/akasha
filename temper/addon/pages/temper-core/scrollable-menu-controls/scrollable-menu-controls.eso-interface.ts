@@ -28,4 +28,6 @@ export const scrollableMenuControls = {
         "The submenu arrow, the filter's reset, the header's collapse and the sort buttons are lucide icons.",
     },
   ],
+  createdAt: "2026-09-02T14:11:20.263Z",
+  updatedAt: "2026-09-25T22:29:42.000Z",
 } as const satisfies EsoInterface

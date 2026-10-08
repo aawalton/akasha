@@ -20,4 +20,6 @@ export const emailRuleDelay = {
       statement: "A delay is on the rule rather than on an action.",
     },
   ],
+  createdAt: "2026-09-03T13:00:18.023Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies Domain

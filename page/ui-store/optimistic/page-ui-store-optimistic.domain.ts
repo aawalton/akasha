@@ -6,4 +6,6 @@ export const pageUiStoreOptimistic = {
   slug: "page-ui-store-optimistic",
   definition: "a change a browser shows before the change is kept",
   parts: ["module/convergence", "module/optimistic-mutation", "module/plan"],
+  createdAt: "2026-09-05T13:39:43.977Z",
+  updatedAt: "2026-09-25T17:27:14.000Z",
 } as const satisfies Domain

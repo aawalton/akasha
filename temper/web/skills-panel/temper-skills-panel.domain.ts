@@ -12,4 +12,6 @@ export const temperSkillsPanel = {
       statement: "The panel is the game's own, and an add-on only adds to what it draws.",
     },
   ],
+  createdAt: "2026-09-11T13:44:43.762Z",
+  updatedAt: "2026-09-22T13:43:34.000Z",
 } as const satisfies Domain

@@ -7,4 +7,6 @@ export const combatLiveReportLayout = {
   definition: "the small window shown while a fight is on",
   markup: "xml",
   loadedAs: "TemperCombat_LiveReport.xml",
+  createdAt: "2026-09-02T09:42:10.764Z",
+  updatedAt: "2026-09-26T15:40:03.000Z",
 } as const satisfies EsoInterface

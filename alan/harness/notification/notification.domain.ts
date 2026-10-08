@@ -9,4 +9,6 @@ export const notification = {
     { partOfSpeech: "part-of-speech/noun", spelling: "notification" },
     { partOfSpeech: "part-of-speech/noun", spelling: "notifications" },
   ],
+  createdAt: "2026-09-24T22:25:48.729Z",
+  updatedAt: "2026-09-24T23:27:37.000Z",
 } as const satisfies Domain

@@ -7,4 +7,6 @@ export const email = {
   propertySlug: "email",
   definition: "the name a model account uses to sign in",
   types: "ts",
+  createdAt: "2026-08-30T22:44:04.537Z",
+  updatedAt: "2026-09-25T17:55:55.000Z",
 } as const satisfies EmailAddressProperty

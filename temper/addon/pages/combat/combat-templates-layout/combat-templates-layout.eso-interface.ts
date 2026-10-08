@@ -7,4 +7,6 @@ export const combatTemplatesLayout = {
   definition: "every reusable control building the report windows",
   markup: "xml",
   loadedAs: "TemperCombat_Templates.xml",
+  createdAt: "2026-09-02T09:42:10.770Z",
+  updatedAt: "2026-09-22T13:46:35.000Z",
 } as const satisfies EsoInterface

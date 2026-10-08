@@ -24,4 +24,6 @@ export const temperEsoColor = {
       statement: "A later version of the game replaces these colors rather than adding to them.",
     },
   ],
+  createdAt: "2026-09-24T15:09:35.584Z",
+  updatedAt: "2026-09-24T15:11:56.000Z",
 } as const satisfies Domain

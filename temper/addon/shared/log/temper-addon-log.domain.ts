@@ -16,4 +16,6 @@ export const temperAddonLog = {
       statement: "An add-on names itself to the log library once.",
     },
   ],
+  createdAt: "2026-09-11T01:48:24.588Z",
+  updatedAt: "2026-09-21T22:10:28.000Z",
 } as const satisfies Domain

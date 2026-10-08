@@ -80,4 +80,6 @@ export const imageEdit = {
       statement: "No edit hands Nano Banana a second image as a reference.",
     },
   ],
+  createdAt: "2026-09-26T15:44:22.683Z",
+  updatedAt: "2026-09-28T17:59:52.000Z",
 } as const satisfies Domain

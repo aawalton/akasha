@@ -15,4 +15,6 @@ export const changeMechanicalFileContentMove = {
       statement: "A rung here carries a declaration out of one body and into another body.",
     },
   ],
+  createdAt: "2026-09-08T16:38:36.858Z",
+  updatedAt: "2026-09-25T13:40:45.000Z",
 } as const satisfies Domain

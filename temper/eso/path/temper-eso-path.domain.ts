@@ -22,4 +22,6 @@ export const temperEsoPath = {
       statement: "Asking the disk settles which candidate the live directory is.",
     },
   ],
+  createdAt: "2026-09-02T04:11:16.253Z",
+  updatedAt: "2026-09-21T14:14:20.000Z",
 } as const satisfies Domain

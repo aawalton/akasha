@@ -11,4 +11,6 @@ export const alansOwnMail = {
   ],
   judgement:
     "**Do what Alan's mail to himself asks, then archive it; never send it back to him.**\n\nMail he sends himself reaches an agent, so it is a message rather than something to file. A note with no ask is judged like any other mail. What was done about it goes back to him as a reply.",
+  createdAt: "2026-09-03T17:49:38.151Z",
+  updatedAt: "2026-09-15T16:48:26.000Z",
 } as const satisfies EmailRuleAgent

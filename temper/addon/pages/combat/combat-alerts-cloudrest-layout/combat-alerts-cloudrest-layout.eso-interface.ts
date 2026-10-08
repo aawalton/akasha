@@ -7,4 +7,6 @@ export const combatAlertsCloudrestLayout = {
   definition: "the Cloudrest spear counter layout of the combat alerts",
   markup: "xml",
   loadedAs: "TemperCombatAlerts_Cloudrest.xml",
+  createdAt: "2026-09-26T16:13:55.832Z",
+  updatedAt: "2026-09-26T16:14:03.000Z",
 } as const satisfies EsoInterface

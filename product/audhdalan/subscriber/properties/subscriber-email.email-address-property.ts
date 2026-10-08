@@ -7,4 +7,6 @@ export const subscriberEmail = {
   propertySlug: "email",
   definition: "a subscriber's chosen address",
   types: "ts",
+  createdAt: "2026-09-03T04:31:28.226Z",
+  updatedAt: "2026-09-22T13:46:35.000Z",
 } as const satisfies EmailAddressProperty

@@ -18,4 +18,6 @@ export const place = {
     "page-type/restaurant-menu-item",
     "page-type/travel-collection",
   ],
+  createdAt: "2026-09-03T04:38:51.136Z",
+  updatedAt: "2026-09-24T18:05:19.000Z",
 } as const satisfies Domain

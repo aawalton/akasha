@@ -24,4 +24,6 @@ export const shellTerminal = {
         "A restart of the editor puts every interactive seat back in the terminal tab that seat held.",
     },
   ],
+  createdAt: "2026-09-09T22:32:47.256Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies Domain

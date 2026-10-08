@@ -46,4 +46,6 @@ export const temperCharacterStat = {
     "module/metric-reading",
     "module/metric-formula-files",
   ],
+  createdAt: "2026-09-02T08:15:09.030Z",
+  updatedAt: "2026-09-26T16:01:50.000Z",
 } as const satisfies Domain

@@ -18,4 +18,6 @@ export const noticeText = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-03T17:47:21.933Z",
+  updatedAt: "2026-09-25T17:56:49.000Z",
 } as const satisfies FileProperty

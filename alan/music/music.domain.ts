@@ -48,4 +48,6 @@ export const music = {
       statement: "Music names a grade `grade` in code, in data and in text alike.",
     },
   ],
+  createdAt: "2026-09-02T12:40:10.241Z",
+  updatedAt: "2026-09-25T12:53:50.000Z",
 } as const satisfies Domain

@@ -9,4 +9,6 @@ export const gitCommit = {
     { partOfSpeech: "part-of-speech/noun", spelling: "commit" },
     { partOfSpeech: "part-of-speech/noun", spelling: "commits" },
   ],
+  createdAt: "2026-09-25T12:39:44.042Z",
+  updatedAt: "2026-09-25T16:10:02.000Z",
 } as const satisfies Domain

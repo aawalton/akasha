@@ -137,4 +137,6 @@ export const rulesEngine = {
       ],
     },
   ],
+  createdAt: "2026-09-03T04:16:34.524Z",
+  updatedAt: "2026-09-24T23:39:49.000Z",
 } as const satisfies Domain

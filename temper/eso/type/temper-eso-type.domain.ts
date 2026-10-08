@@ -107,4 +107,6 @@ export const temperEsoType = {
     "type-declaration/eso-api-4",
     "type-declaration/eso-interface-extra-5",
   ],
+  createdAt: "2026-09-02T05:20:24.696Z",
+  updatedAt: "2026-09-26T16:10:34.000Z",
 } as const satisfies Domain

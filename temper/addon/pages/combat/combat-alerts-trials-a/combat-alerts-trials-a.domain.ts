@@ -19,4 +19,6 @@ export const combatAlertsTrialsA = {
     "module/combat-alerts-cloudrest-grapes",
     "module/combat-alerts-cloudrest-minis",
   ],
+  createdAt: "2026-09-26T17:38:24.600Z",
+  updatedAt: "2026-09-26T18:04:12.000Z",
 } as const satisfies Domain

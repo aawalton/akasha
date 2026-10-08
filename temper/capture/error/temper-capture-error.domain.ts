@@ -16,4 +16,6 @@ export const temperCaptureError = {
       statement: "Nothing here reaches the game.",
     },
   ],
+  createdAt: "2026-09-02T05:14:17.394Z",
+  updatedAt: "2026-09-22T02:22:22.000Z",
 } as const satisfies Domain

@@ -5,4 +5,6 @@ export const readoutFigure = {
   type: "page-type/domain",
   slug: "readout-figure",
   definition: "the number a readout shows",
+  createdAt: "2026-09-03T03:41:37.885Z",
+  updatedAt: "2026-09-24T23:31:09.000Z",
 } as const satisfies Domain

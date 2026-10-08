@@ -18,4 +18,6 @@ export const temperPlayerCompletionUi = {
       statement: "A panel here reaches no data of its own.",
     },
   ],
+  createdAt: "2026-09-02T13:55:26.636Z",
+  updatedAt: "2026-09-27T12:19:11.000Z",
 } as const satisfies Domain

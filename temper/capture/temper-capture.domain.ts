@@ -18,4 +18,6 @@ export const temperCapture = {
     "domain/temper-completion-import",
     "domain/temper-errors-triage",
   ],
+  createdAt: "2026-09-21T15:09:41.035Z",
+  updatedAt: "2026-09-24T22:04:26.000Z",
 } as const satisfies Domain

@@ -77,4 +77,6 @@ export const temperAddonWorldAntiquities = {
       statement: "A lead's location reaches no machine but this one.",
     },
   ],
+  createdAt: "2026-09-22T02:31:42.070Z",
+  updatedAt: "2026-09-25T13:51:40.000Z",
 } as const satisfies Domain

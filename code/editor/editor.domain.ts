@@ -7,4 +7,6 @@ export const editor = {
   definition: "Alan's code editor",
   spellings: [{ partOfSpeech: "part-of-speech/noun", spelling: "editor" }],
   parts: ["domain/extension"],
+  createdAt: "2026-09-10T22:23:32.102Z",
+  updatedAt: "2026-09-22T13:48:01.000Z",
 } as const satisfies Domain

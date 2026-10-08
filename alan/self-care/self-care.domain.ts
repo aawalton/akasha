@@ -6,4 +6,6 @@ export const selfCare = {
   slug: "self-care",
   definition: "how Alan cares for himself",
   parts: ["domain/arousal"],
+  createdAt: "2026-09-03T04:56:24.842Z",
+  updatedAt: "2026-09-25T13:09:17.000Z",
 } as const satisfies Domain

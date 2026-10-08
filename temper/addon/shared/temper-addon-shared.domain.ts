@@ -25,4 +25,6 @@ export const temperAddonShared = {
         "An addon the game loads from a folder of its own is a page rather than a part here.",
     },
   ],
+  createdAt: "2026-09-21T22:07:50.178Z",
+  updatedAt: "2026-09-22T08:24:26.000Z",
 } as const satisfies Domain

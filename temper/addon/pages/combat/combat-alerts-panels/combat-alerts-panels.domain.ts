@@ -14,4 +14,6 @@ export const combatAlertsPanels = {
     "module/combat-alerts-damageable",
     "module/combat-alerts-panels-entry",
   ],
+  createdAt: "2026-09-26T17:20:49.448Z",
+  updatedAt: "2026-09-26T18:05:11.000Z",
 } as const satisfies Domain

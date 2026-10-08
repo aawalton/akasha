@@ -13,4 +13,6 @@ export const temperAddonWorldQuestPort = {
       statement: "A travel point is a wayshrine the player has found or a house the player owns.",
     },
   ],
+  createdAt: "2026-10-08T14:52:54.474Z",
+  updatedAt: "2026-10-08T14:55:27.000Z",
 } as const satisfies Domain

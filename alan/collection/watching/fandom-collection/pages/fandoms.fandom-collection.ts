@@ -10,4 +10,6 @@ export const fandoms = {
   ownProgress: 0,
   unit: "unit/words",
   status: "not-applicable",
+  createdAt: "2026-09-03T16:09:34.335Z",
+  updatedAt: "2026-09-25T12:50:49.000Z",
 } as const satisfies FandomCollection

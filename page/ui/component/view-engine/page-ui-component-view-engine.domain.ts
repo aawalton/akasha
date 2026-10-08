@@ -11,4 +11,6 @@ export const pageUiComponentViewEngine = {
     "module/use-page-view",
     "module/view-row",
   ],
+  createdAt: "2026-09-05T13:48:01.823Z",
+  updatedAt: "2026-09-25T17:31:15.000Z",
 } as const satisfies Domain

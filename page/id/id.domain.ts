@@ -16,4 +16,6 @@ export const id = {
       statement: "Nothing here knows the thing an identifier this package makes will name.",
     },
   ],
+  createdAt: "2026-09-01T09:24:34.667Z",
+  updatedAt: "2026-09-25T17:23:32.000Z",
 } as const satisfies Domain

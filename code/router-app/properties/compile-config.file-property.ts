@@ -10,4 +10,6 @@ export const compileConfig = {
   fileName: "tsconfig.json",
   toolResolvesPaths: true,
   types: "ts",
+  createdAt: "2026-09-05T20:11:54.686Z",
+  updatedAt: "2026-09-22T14:00:01.000Z",
 } as const satisfies FileProperty

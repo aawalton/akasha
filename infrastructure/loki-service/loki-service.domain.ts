@@ -13,4 +13,6 @@ export const lokiService = {
     "module/loki-manifests",
     "module/promtail-manifests",
   ],
+  createdAt: "2026-09-03T16:24:54.193Z",
+  updatedAt: "2026-09-25T16:34:53.000Z",
 } as const satisfies Domain

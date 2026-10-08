@@ -6,4 +6,6 @@ export const temperCharactersCharacterUi = {
   slug: "temper-characters-character-ui",
   definition: "the character builds a player keeps, listed, edited and shared",
   parts: ["module/use-characters"],
+  createdAt: "2026-09-02T18:27:40.800Z",
+  updatedAt: "2026-09-21T15:17:11.000Z",
 } as const satisfies Domain

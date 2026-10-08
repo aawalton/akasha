@@ -30,4 +30,6 @@ export const temperSettingsPanel = {
       statement: "A setting is read back the way the setting was stated.",
     },
   ],
+  createdAt: "2026-09-02T04:14:21.238Z",
+  updatedAt: "2026-09-21T22:10:28.000Z",
 } as const satisfies Domain

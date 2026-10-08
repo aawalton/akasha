@@ -21,4 +21,6 @@ export const swordArtOnlineAlternativeGunGaleOnlineS00e02 = {
       externalLink: "https://www.themoviedb.org/tv/78204/season/0/episode/2",
     },
   ],
+  createdAt: "2026-06-07T22:44:46.707Z",
+  updatedAt: "2026-09-25T12:50:49.000Z",
 } as const satisfies Episode

@@ -11,4 +11,6 @@ export const supervisorStop = {
     "module/supervisor-shutdown-procs",
     "module/supervisor-terminal",
   ],
+  createdAt: "2026-09-13T20:03:34.496Z",
+  updatedAt: "2026-09-24T17:14:29.000Z",
 } as const satisfies Domain

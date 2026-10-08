@@ -22,4 +22,6 @@ export const swordArtOnlineS03e08 = {
       externalLink: "https://www.themoviedb.org/tv/45782/season/3/episode/8",
     },
   ],
+  createdAt: "2026-06-07T22:44:43.235Z",
+  updatedAt: "2026-09-25T12:50:49.000Z",
 } as const satisfies Episode

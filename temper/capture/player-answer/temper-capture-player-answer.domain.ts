@@ -26,4 +26,6 @@ export const temperCapturePlayerAnswer = {
       statement: "The harness answers a function the way the game answered it here.",
     },
   ],
+  createdAt: "2026-09-24T22:04:16.652Z",
+  updatedAt: "2026-09-24T22:10:41.000Z",
 } as const satisfies Domain

@@ -32,4 +32,6 @@ export const combatAlertsSettings = {
     "module/combat-alerts-settings-menu",
     "module/combat-alerts-settings-entry",
   ],
+  createdAt: "2026-09-26T17:02:40.860Z",
+  updatedAt: "2026-09-26T17:08:20.000Z",
 } as const satisfies Domain

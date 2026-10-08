@@ -183,4 +183,6 @@ export const temperLorebook = {
       statement: "The lore book tables here are written from the lore book pages by a machine.",
     },
   ],
+  createdAt: "2026-09-02T09:32:38.340Z",
+  updatedAt: "2026-09-25T01:17:56.000Z",
 } as const satisfies Domain

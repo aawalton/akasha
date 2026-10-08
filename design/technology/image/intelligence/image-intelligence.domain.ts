@@ -50,4 +50,6 @@ export const imageIntelligence = {
       statement: "Stock Qwen3.6-35B-A3B gets clothing wrong more often than the Heretic build.",
     },
   ],
+  createdAt: "2026-09-26T16:00:38.846Z",
+  updatedAt: "2026-09-27T16:23:29.000Z",
 } as const satisfies Domain

@@ -25,4 +25,6 @@ export const temperPursuit = {
       statement: "A page here is one node of a catalog the game shows a player's progress against.",
     },
   ],
+  createdAt: "2026-09-02T08:53:48.329Z",
+  updatedAt: "2026-09-27T09:58:57.000Z",
 } as const satisfies Domain

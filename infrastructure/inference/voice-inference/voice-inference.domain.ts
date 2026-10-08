@@ -54,4 +54,6 @@ export const voiceInference = {
       statement: "The card this package runs on takes int8 weights and not float16 ones.",
     },
   ],
+  createdAt: "2026-09-03T16:24:02.557Z",
+  updatedAt: "2026-10-06T15:23:54.000Z",
 } as const satisfies Domain

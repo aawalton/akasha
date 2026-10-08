@@ -26,4 +26,6 @@ export const lorebooksReportLayout = {
       statement: "The copy window has one edit box the player reads rather than writes.",
     },
   ],
+  createdAt: "2026-09-02T13:26:25.632Z",
+  updatedAt: "2026-09-22T09:41:14.000Z",
 } as const satisfies EsoInterface

@@ -41,4 +41,6 @@ export const temperGear = {
     "domain/temper-item-set",
     "page-type/temper-talisman-gem",
   ],
+  createdAt: "2026-09-02T01:27:53.148Z",
+  updatedAt: "2026-09-27T06:52:47.000Z",
 } as const satisfies Domain

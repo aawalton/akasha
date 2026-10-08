@@ -15,4 +15,6 @@ export const churchVolunteerRequests = {
   ],
   judgement:
     "**Archive a broadcast asking for volunteer labour; surface the rest.**\n\nService sign-ups are archived; activities, socials and anything dated he might attend stay his. One sender carries both and no condition separates a labour ask from an invitation.",
+  createdAt: "2026-09-03T17:49:38.152Z",
+  updatedAt: "2026-09-15T16:48:26.000Z",
 } as const satisfies EmailRuleAgent

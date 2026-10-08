@@ -15,4 +15,6 @@ export const bootstrapLayer = {
       statement: "The private CI image `ci-images` builds does not exist before L3.",
     },
   ],
+  createdAt: "2026-09-03T13:00:18.006Z",
+  updatedAt: "2026-09-25T16:28:44.000Z",
 } as const satisfies Domain

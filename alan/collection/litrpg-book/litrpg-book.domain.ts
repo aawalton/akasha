@@ -5,4 +5,6 @@ export const litrpgBook = {
   type: "page-type/domain",
   slug: "litrpg-book",
   definition: "the web serials Alan reads",
+  createdAt: "2026-09-03T13:00:18.030Z",
+  updatedAt: "2026-09-25T12:48:49.000Z",
 } as const satisfies Domain

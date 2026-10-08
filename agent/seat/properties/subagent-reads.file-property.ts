@@ -64,4 +64,6 @@ export const subagentReads = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-13T22:59:45.610Z",
+  updatedAt: "2026-09-25T18:10:49.000Z",
 } as const satisfies FileProperty

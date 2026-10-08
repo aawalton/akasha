@@ -34,4 +34,6 @@ export const temperBuildHash = {
     "An entry of a table a build hash indexes is never moved or removed, and a new one goes at the end.",
 },
   ],
+  createdAt: "2026-09-02T15:37:18.097Z",
+  updatedAt: "2026-09-25T12:41:05.000Z",
 } as const satisfies Domain

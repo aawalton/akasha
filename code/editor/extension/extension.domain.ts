@@ -238,4 +238,6 @@ export const extension = {
     },
   ],
   typescriptConfig: "json",
+  createdAt: "2026-09-02T21:09:16.560Z",
+  updatedAt: "2026-09-28T19:07:52.000Z",
 } as const satisfies Domain

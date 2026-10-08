@@ -12,4 +12,6 @@ export const systemdUnit = {
       statement: "A systemd timer needs the service that timer starts.",
     },
   ],
+  createdAt: "2026-09-24T22:30:14.957Z",
+  updatedAt: "2026-09-24T22:30:20.000Z",
 } as const satisfies FileKindDomain

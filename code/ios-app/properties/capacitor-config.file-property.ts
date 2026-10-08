@@ -8,4 +8,6 @@ export const capacitorConfig = {
   definition: "what Capacitor is told to wrap and where it may go",
   extensions: ["json"],
   types: "ts",
+  createdAt: "2026-08-31T18:38:45.819Z",
+  updatedAt: "2026-09-15T16:56:11.000Z",
 } as const satisfies FileProperty

@@ -16,4 +16,6 @@ export const alanAttention = {
       statement: "No input Alan sends reaches an agent as keystrokes on a terminal.",
     },
   ],
+  createdAt: "2026-09-03T13:00:18.004Z",
+  updatedAt: "2026-09-25T16:49:24.000Z",
 } as const satisfies Domain

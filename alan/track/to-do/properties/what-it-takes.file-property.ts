@@ -8,4 +8,6 @@ export const whatItTakes = {
   definition: "what doing a to-do takes",
   extensions: ["txt"],
   types: "ts",
+  createdAt: "2026-09-03T04:57:44.119Z",
+  updatedAt: "2026-09-15T16:56:11.000Z",
 } as const satisfies FileProperty

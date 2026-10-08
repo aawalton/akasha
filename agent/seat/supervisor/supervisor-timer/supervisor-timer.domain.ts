@@ -11,4 +11,6 @@ export const supervisorTimer = {
     "module/supervisor-heartbeat-beat",
     "module/supervisor-tick-saying",
   ],
+  createdAt: "2026-09-13T20:44:17.756Z",
+  updatedAt: "2026-09-25T01:17:43.000Z",
 } as const satisfies Domain

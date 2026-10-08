@@ -25,4 +25,6 @@ export const resourceUtilization = {
         "Work accumulating while busy time reads under full means another resource is the bottleneck.",
     },
   ],
+  createdAt: "2026-09-03T13:00:18.041Z",
+  updatedAt: "2026-09-25T16:57:56.000Z",
 } as const satisfies Domain

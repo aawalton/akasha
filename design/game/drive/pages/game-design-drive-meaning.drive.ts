@@ -11,4 +11,6 @@ export const gameDesignDriveMeaning = {
     definition:
       "Believing you are doing something greater than yourself, or that you were chosen to do it.",
   },
+  createdAt: "2026-09-03T12:55:47.574Z",
+  updatedAt: "2026-09-15T16:44:48.000Z",
 } as const satisfies Drive

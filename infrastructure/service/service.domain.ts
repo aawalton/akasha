@@ -16,4 +16,6 @@ export const service = {
       statement: "A service is an akasha service or an external service.",
     },
   ],
+  createdAt: "2026-09-24T18:52:28.299Z",
+  updatedAt: "2026-09-24T19:06:05.000Z",
 } as const satisfies Domain

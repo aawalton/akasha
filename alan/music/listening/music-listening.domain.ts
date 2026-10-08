@@ -13,4 +13,6 @@ export const musicListening = {
       statement: "Every listen is tracked against a track rather than a release or a song.",
     },
   ],
+  createdAt: "2026-09-02T13:04:28.461Z",
+  updatedAt: "2026-09-25T12:53:29.000Z",
 } as const satisfies Domain

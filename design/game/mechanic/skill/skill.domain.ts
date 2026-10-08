@@ -5,4 +5,6 @@ export const skill = {
   type: "page-type/domain",
   slug: "skill",
   definition: "something a character learns to do",
+  createdAt: "2026-09-22T16:36:00.784Z",
+  updatedAt: "2026-09-25T14:37:51.000Z",
 } as const satisfies Domain

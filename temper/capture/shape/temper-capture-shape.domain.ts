@@ -46,4 +46,6 @@ export const temperCaptureShape = {
       statement: "No module here has code that runs.",
     },
   ],
+  createdAt: "2026-09-02T04:07:43.264Z",
+  updatedAt: "2026-09-27T03:40:17.000Z",
 } as const satisfies Domain

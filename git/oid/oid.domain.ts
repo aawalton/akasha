@@ -11,4 +11,6 @@ export const oid = {
       statement: "Every name for a git object id is `oid` or a scoped form of `oid`.",
     },
   ],
+  createdAt: "2026-09-03T16:24:14.767Z",
+  updatedAt: "2026-09-25T16:14:45.000Z",
 } as const satisfies Domain

@@ -59,4 +59,6 @@ export const temperGameCatalogCaptureAddon = {
       statement: "Nothing here reads the player's progress.",
     },
   ],
+  createdAt: "2026-09-02T06:50:31.685Z",
+  updatedAt: "2026-09-27T03:40:17.000Z",
 } as const satisfies Domain

@@ -13,4 +13,6 @@ export const kpopDemonHunters = {
   status: "following",
   grade: "S",
   publishedAt: "2025-06-20",
+  createdAt: "2026-09-03T16:09:30.488Z",
+  updatedAt: "2026-09-25T12:50:49.000Z",
 } as const satisfies Fandom

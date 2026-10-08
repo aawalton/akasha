@@ -11,4 +11,6 @@ export const alanReadout = {
     "service-workstation/day-readout-watch-service",
     "service-workstation/workstation-load-sampler",
   ],
+  createdAt: "2026-09-03T03:41:37.885Z",
+  updatedAt: "2026-09-24T22:23:39.000Z",
 } as const satisfies Domain

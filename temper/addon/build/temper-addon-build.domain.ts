@@ -52,4 +52,6 @@ export const temperAddonBuild = {
     },
 
   ],
+  createdAt: "2026-09-02T03:44:49.345Z",
+  updatedAt: "2026-09-26T16:36:28.000Z",
 } as const satisfies Domain

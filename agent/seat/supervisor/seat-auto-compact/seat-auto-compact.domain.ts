@@ -21,4 +21,6 @@ export const seatAutoCompact = {
         "A seat asked to compact is not asked again until its context is under the ceiling.",
     },
   ],
+  createdAt: "2026-09-21T19:42:37.696Z",
+  updatedAt: "2026-09-25T13:42:00.000Z",
 } as const satisfies Domain

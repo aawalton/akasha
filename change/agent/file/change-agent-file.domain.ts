@@ -20,4 +20,6 @@ export const changeAgentFile = {
     "change-agent/move-file",
     "change-agent/add-image",
   ],
+  createdAt: "2026-09-07T16:45:02.304Z",
+  updatedAt: "2026-09-26T19:18:09.000Z",
 } as const satisfies Domain

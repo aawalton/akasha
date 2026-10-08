@@ -44,4 +44,6 @@ export const temperSkillPointFinder = {
       statement: "The game reports a skill point only for the character being played.",
     },
   ],
+  createdAt: "2026-09-02T07:01:36.978Z",
+  updatedAt: "2026-09-21T15:46:08.000Z",
 } as const satisfies Domain

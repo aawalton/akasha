@@ -15,4 +15,6 @@ export const changeMechanicalFileContentChange = {
     "change-mechanical-file-content/change-page-page-property-relation",
     "change-mechanical-file-content/change-property-record-field",
   ],
+  createdAt: "2026-09-07T16:42:27.552Z",
+  updatedAt: "2026-09-25T13:38:03.000Z",
 } as const satisfies Domain

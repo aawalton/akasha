@@ -10,4 +10,6 @@ export const style = {
     { partOfSpeech: "part-of-speech/noun", spelling: "styles" },
   ],
   parts: ["page-type/appearance-experiment"],
+  createdAt: "2026-09-03T04:56:24.843Z",
+  updatedAt: "2026-09-25T13:13:13.000Z",
 } as const satisfies Domain

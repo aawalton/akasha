@@ -4,4 +4,6 @@ export const bunnyEars = {
   id: "01a0e384-2e73-77f8-84cc-ae768cdbc2ae",
   type: "page-type/fantasy-tag",
   slug: "bunny-ears",
+  createdAt: "2026-09-27T15:38:05.811Z",
+  updatedAt: "2026-09-27T15:38:08.000Z",
 } as const satisfies FantasyTag

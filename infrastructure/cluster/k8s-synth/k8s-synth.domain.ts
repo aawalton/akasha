@@ -23,4 +23,6 @@ export const k8sSynth = {
       statement: "A synth file is the code file of a `manifest` page the index answers.",
     },
   ],
+  createdAt: "2026-09-03T16:17:57.096Z",
+  updatedAt: "2026-09-25T16:25:47.000Z",
 } as const satisfies Domain

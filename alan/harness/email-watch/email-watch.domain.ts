@@ -45,4 +45,6 @@ export const emailWatch = {
       statement: "Each persona is told only the claims made on her own channel.",
     },
   ],
+  createdAt: "2026-09-03T04:46:07.662Z",
+  updatedAt: "2026-09-24T22:45:14.000Z",
 } as const satisfies Domain

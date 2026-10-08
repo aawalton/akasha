@@ -31,4 +31,6 @@ export const temperBuildSupport = {
       statement: "Nothing here reads a file.",
     },
   ],
+  createdAt: "2026-09-02T05:37:29.591Z",
+  updatedAt: "2026-09-25T02:30:06.000Z",
 } as const satisfies Domain

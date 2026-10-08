@@ -23,4 +23,6 @@ export const temperSkillKind = {
       statement: "Every table here is written out from the skill pages rather than by hand.",
     },
   ],
+  createdAt: "2026-09-02T06:43:26.015Z",
+  updatedAt: "2026-09-27T02:44:09.000Z",
 } as const satisfies Domain

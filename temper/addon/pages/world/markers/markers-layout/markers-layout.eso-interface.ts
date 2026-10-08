@@ -7,4 +7,6 @@ export const markersLayout = {
   definition: "the markers drawn in the world, their camera and the share progress window",
   markup: "xml",
   loadedAs: "TemperWorldMarkers.xml",
+  createdAt: "2026-09-26T16:21:04.458Z",
+  updatedAt: "2026-09-26T16:21:52.000Z",
 } as const satisfies EsoInterface

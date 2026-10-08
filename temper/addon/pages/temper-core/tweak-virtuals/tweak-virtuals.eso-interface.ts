@@ -7,4 +7,6 @@ export const tweakVirtuals = {
   definition: "the virtual controls from which the interface add-on builds its own buttons",
   markup: "xml",
   loadedAs: "XML/TweakVirtuals.xml",
+  createdAt: "2026-09-02T07:46:08.190Z",
+  updatedAt: "2026-09-22T14:13:12.000Z",
 } as const satisfies EsoInterface

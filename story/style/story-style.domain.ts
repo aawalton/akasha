@@ -6,4 +6,6 @@ export const storyStyle = {
   slug: "story-style",
   definition: "how narrative prose reads",
   parts: ["page-type/style-rule"],
+  createdAt: "2026-09-26T16:46:45.490Z",
+  updatedAt: "2026-09-26T16:46:51.000Z",
 } as const satisfies Domain

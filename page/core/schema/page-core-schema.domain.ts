@@ -24,4 +24,6 @@ export const pageCoreSchema = {
     "module/view-data",
     "module/view-data-locked",
   ],
+  createdAt: "2026-09-05T13:39:00.101Z",
+  updatedAt: "2026-09-25T20:02:34.000Z",
 } as const satisfies Domain

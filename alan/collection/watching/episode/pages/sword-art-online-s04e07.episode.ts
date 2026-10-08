@@ -22,4 +22,6 @@ export const swordArtOnlineS04e07 = {
       externalLink: "https://www.themoviedb.org/tv/45782/season/4/episode/7",
     },
   ],
+  createdAt: "2026-06-07T22:44:44.912Z",
+  updatedAt: "2026-09-25T12:50:49.000Z",
 } as const satisfies Episode

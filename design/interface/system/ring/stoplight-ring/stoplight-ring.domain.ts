@@ -28,4 +28,6 @@ export const stoplightRing = {
         "The arc is how far along a reading is toward its next rung rather than on the whole scale.",
     },
   ],
+  createdAt: "2026-09-03T03:41:37.885Z",
+  updatedAt: "2026-09-25T15:01:17.000Z",
 } as const satisfies Domain

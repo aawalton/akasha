@@ -30,4 +30,6 @@ export const temperCharactersSkillsMorphsAddon = {
       statement: "Everything here names the game's own numbers rather than akasha ids.",
     },
   ],
+  createdAt: "2026-09-02T16:41:24.114Z",
+  updatedAt: "2026-09-21T15:13:32.000Z",
 } as const satisfies Domain

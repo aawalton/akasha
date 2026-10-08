@@ -4,4 +4,6 @@ export const angel = {
   id: "01a0e384-2e73-75cf-8db3-2a9f48f1eab9",
   type: "page-type/fantasy-tag",
   slug: "angel",
+  createdAt: "2026-09-27T15:38:05.811Z",
+  updatedAt: "2026-09-27T15:38:08.000Z",
 } as const satisfies FantasyTag

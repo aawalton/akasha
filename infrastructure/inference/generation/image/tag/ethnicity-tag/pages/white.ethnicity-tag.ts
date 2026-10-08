@@ -4,4 +4,6 @@ export const white = {
   id: "01a0e384-88a7-7927-9524-b818c90276ad",
   type: "page-type/ethnicity-tag",
   slug: "white",
+  createdAt: "2026-09-27T15:38:28.903Z",
+  updatedAt: "2026-09-27T15:38:31.000Z",
 } as const satisfies EthnicityTag

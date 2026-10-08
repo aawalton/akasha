@@ -11,4 +11,6 @@ export const pageUiComponentQuickAdd = {
     "module/use-active-quick-add-page-type",
     "module/use-inline-completion",
   ],
+  createdAt: "2026-09-05T13:47:54.173Z",
+  updatedAt: "2026-09-25T17:31:09.000Z",
 } as const satisfies Domain

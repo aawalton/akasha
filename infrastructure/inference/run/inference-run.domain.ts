@@ -44,4 +44,6 @@ export const inferenceRun = {
       statement: "A run that threw part way names in its refusal what had landed by then.",
     },
   ],
+  createdAt: "2026-06-08T15:27:15.478Z",
+  updatedAt: "2026-09-26T16:53:26.000Z",
 } as const satisfies Domain

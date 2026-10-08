@@ -14,4 +14,6 @@ export const pageUiFrame = {
     "module/use-follow-anchor",
     "module/viewport-thresholds",
   ],
+  createdAt: "2026-09-05T13:43:44.011Z",
+  updatedAt: "2026-09-25T17:33:44.000Z",
 } as const satisfies Domain

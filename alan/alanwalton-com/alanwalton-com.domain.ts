@@ -6,4 +6,6 @@ export const alanwaltonCom = {
   slug: "alanwalton-com",
   definition: "Alan's service",
   spellings: [{ partOfSpeech: "part-of-speech/proper-noun", spelling: "alanwalton.com" }],
+  createdAt: "2026-09-24T23:20:27.176Z",
+  updatedAt: "2026-09-24T23:22:29.000Z",
 } as const satisfies Domain

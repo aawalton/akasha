@@ -17,4 +17,6 @@ export const temperEso = {
     "domain/temper-eso-color",
     "domain/temper-eso-string",
   ],
+  createdAt: "2026-09-21T14:10:20.078Z",
+  updatedAt: "2026-09-24T15:45:39.000Z",
 } as const satisfies Domain

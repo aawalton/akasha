@@ -26,4 +26,6 @@ export const chess = {
     "page-type/chess-review-session",
     "stylesheet/chess-board-look",
   ],
+  createdAt: "2026-09-01T07:31:59.367Z",
+  updatedAt: "2026-09-24T17:57:07.000Z",
 } as const satisfies Domain

@@ -6,4 +6,6 @@ export const mechanicMetric = {
   slug: "mechanic-metric",
   definition: "a number about a character",
   parts: ["domain/attribute", "domain/resource"],
+  createdAt: "2026-09-22T16:51:20.312Z",
+  updatedAt: "2026-09-25T14:35:00.000Z",
 } as const satisfies Domain
