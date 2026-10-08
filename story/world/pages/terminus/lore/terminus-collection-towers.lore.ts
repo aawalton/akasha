@@ -68,7 +68,27 @@ export const terminusCollectionTowers = {
       fact: "Most civilizations keep a set safe distance from the towers.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Each tower pulls loose essence in the atmosphere toward itself.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Where neighbouring towers' pulls balance lie safe zones, where a killer gains no essence.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "In a safe zone, all of a death's essence goes into the atmosphere.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Civilizations in safe zones can build resurrection pylons.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "A resurrection pylon captures most of a dead person's essence and remakes them from it.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   createdAt: "2026-10-08T19:30:37.295Z",
-  updatedAt: "2026-10-08T19:30:37.295Z",
+  updatedAt: "2026-10-08T19:40:15.016Z",
 } as const satisfies Lore
