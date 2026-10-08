@@ -1,9 +1,12 @@
-import { sessionOf } from "akasha/agent/seat/session/seat-session.module.code.ts"
+import {
+  committedSessionOf,
+  sessionOf,
+} from "akasha/agent/seat/session/seat-session.module.code.ts"
 
 type SessionLookup = { readonly session: string } | { readonly error: string }
 
 export async function resolveSessionIdByAgentId(agentId: string): Promise<SessionLookup> {
-  const stated = sessionOf(agentId)
+  const stated = sessionOf(agentId) ?? committedSessionOf(agentId)
   if (stated !== null) return { session: stated.value }
   return {
     error: `no session stands for agent ${agentId}; a seat that has stopped keeps none`,

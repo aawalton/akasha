@@ -20,7 +20,7 @@ export const seatSession = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "A seat whose page has gone is read out of the history that seat was committed into.",
+        "Only a resume reads a session out of history, and only for a seat whose page has gone.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -43,5 +43,5 @@ export const seatSession = {
       statement: "Keeping a session does nothing.",
     },
   ],
-  updatedAt: "2026-10-08T15:22:41.606Z",
+  updatedAt: "2026-10-08T15:30:04.606Z",
 } as const satisfies Module

@@ -14,7 +14,10 @@ export interface SessionRecord {
 
 export function sessionOf(agent: string): SessionRecord | null {
   const held = pageTextOf(agent, KEY)
-  if (held !== null && lowerUuid(held.toLowerCase())) return { value: held }
+  return held !== null && lowerUuid(held.toLowerCase()) ? { value: held } : null
+}
+
+export function committedSessionOf(agent: string): SessionRecord | null {
   if (akashaSeatPathForAgent(agent) !== null) return null
   const committed = fieldFromHistory(agent, resolveRoots(), KEY)
   return committed !== null && lowerUuid(committed.toLowerCase()) ? { value: committed } : null
