@@ -19,4 +19,6 @@ export const cinnamonBun0619ChapterSixHundredAndThreeWhateverItTakes = {
   story: "story-read/cinnamon-bun",
   ownLength: 1592,
   prose: "txt",
+  createdAt: "2026-09-18T05:07:02.912Z",
+  updatedAt: "2026-09-19T18:25:57.000Z",
 } as const satisfies StoryChapterRead

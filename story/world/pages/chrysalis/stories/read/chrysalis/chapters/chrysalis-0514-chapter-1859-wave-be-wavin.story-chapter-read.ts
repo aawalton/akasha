@@ -20,4 +20,6 @@ export const chrysalis0514Chapter1859WaveBeWavin = {
   title: "Chapter 1859 - Wave be Wavin’",
   ownLength: 1120,
   prose: "txt",
+  createdAt: "2026-09-05T16:06:24.748Z",
+  updatedAt: "2026-09-28T20:27:12.000Z",
 } as const satisfies StoryChapterRead

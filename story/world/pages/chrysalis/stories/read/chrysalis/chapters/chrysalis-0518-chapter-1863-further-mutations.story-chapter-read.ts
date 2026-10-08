@@ -20,4 +20,6 @@ export const chrysalis0518Chapter1863FurtherMutations = {
   story: "story-read/chrysalis",
   ownLength: 965,
   prose: "txt",
+  createdAt: "2026-09-17T02:06:14.632Z",
+  updatedAt: "2026-09-28T20:27:12.000Z",
 } as const satisfies StoryChapterRead

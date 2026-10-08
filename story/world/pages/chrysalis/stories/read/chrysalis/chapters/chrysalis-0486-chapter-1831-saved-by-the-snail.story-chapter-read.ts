@@ -20,4 +20,6 @@ export const chrysalis0486Chapter1831SavedByTheSnail = {
     },
   ],
   prose: "txt",
+  createdAt: "2026-09-03T12:09:52.236Z",
+  updatedAt: "2026-09-28T20:27:11.000Z",
 } as const satisfies StoryChapterRead

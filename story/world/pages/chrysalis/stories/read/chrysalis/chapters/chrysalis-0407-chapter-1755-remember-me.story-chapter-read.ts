@@ -20,4 +20,6 @@ export const chrysalis0407Chapter1755RememberMe = {
     },
   ],
   prose: "txt",
+  createdAt: "2026-09-03T12:09:52.233Z",
+  updatedAt: "2026-09-28T20:27:10.000Z",
 } as const satisfies StoryChapterRead
