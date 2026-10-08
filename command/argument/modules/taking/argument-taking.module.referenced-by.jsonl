@@ -44,7 +44,6 @@
 {"propertySlug":"import","fileName":"argument-taking.module.code.ts","path":"command/pages/finding/delete/finding-delete.command.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"argument-taking.module.code.ts","path":"command/pages/fitness/cooldown/fitness-cooldown.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"argument-taking.module.code.ts","path":"command/pages/fitness/mobility/fitness-mobility.command.code.ts","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"argument-taking.module.code.ts","path":"command/pages/fitness/next/fitness-next.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"argument-taking.module.code.ts","path":"command/pages/fitness/today/fitness-today.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"argument-taking.module.code.ts","path":"command/pages/fitness/week/fitness-week.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"argument-taking.module.code.ts","path":"command/pages/gap/delete/gap-delete.command.code.ts","typed":false,"deferred":false}

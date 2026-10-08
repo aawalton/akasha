@@ -48,7 +48,7 @@ export type Tally = {
   readonly passed: number
 }
 
-export type TrainingWeek = {
+type TrainingWeek = {
   readonly from: string
   readonly to: string
   readonly tally: Tally
@@ -93,7 +93,7 @@ export function dayOf(one: Value): string | null {
   return named === null || !named.startsWith(DAY) ? null : named.slice(DAY.length)
 }
 
-export function nearFailureIn(one: Value, nearFailure: number): boolean {
+function nearFailureIn(one: Value, nearFailure: number): boolean {
   const effort = numberAt(one, "rpe")
   return one[WARMUP] !== true && effort !== null && effort >= nearFailure
 }

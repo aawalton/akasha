@@ -7,6 +7,7 @@ export const fitnessCooldown = {
   definition: "the stretch to hold next, once Alan says the bout is over",
   code: "ts",
   test: "ts",
+  parts: ["module/cooling", "module/kit-loading"],
   decisions: [
     {
       decisionKind: "decision-kind/departure",
@@ -47,4 +48,5 @@ export const fitnessCooldown = {
   ],
   name: "cooldown",
   arguments: [{ argument: "argument/gym" }, { argument: "argument/json" }],
+  updatedAt: "2026-10-08T15:15:26.338Z",
 } as const satisfies Command

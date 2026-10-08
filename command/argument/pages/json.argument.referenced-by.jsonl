@@ -5,7 +5,6 @@
 {"propertySlug":"argument","path":"command/pages/chess/puzzles/import/chess-puzzles-import.command.ts","id":"01a0a054-c910-7cde-b634-a0f85f3d49a6"}
 {"propertySlug":"argument","path":"command/pages/fitness/cooldown/fitness-cooldown.command.ts","id":"01a0bab8-8a7a-78db-bb48-a6667b1f8812"}
 {"propertySlug":"argument","path":"command/pages/fitness/mobility/fitness-mobility.command.ts","id":"01a0b72c-3d76-75eb-92a1-4fc4a0021192"}
-{"propertySlug":"argument","path":"command/pages/fitness/next/fitness-next.command.ts","id":"01a0b6f2-5cf1-7d7f-a0f4-5905b47e64a6"}
 {"propertySlug":"argument","path":"command/pages/fitness/today/fitness-today.command.ts","id":"01a11c11-584b-723d-ab40-7318e1e242c3"}
 {"propertySlug":"argument","path":"command/pages/fitness/week/fitness-week.command.ts","id":"01a0b6de-d8b5-7094-8d97-329aa11e314c"}
 {"propertySlug":"argument","path":"command/pages/icloud/fetch/icloud-fetch.command.ts","id":"01a08cf8-d3c1-744e-a8e9-70301b272c28"}
@@ -104,7 +103,6 @@
 {"propertySlug":"import","fileName":"json.argument.ts","path":"command/pages/chess/puzzles/import/chess-puzzles-import.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"json.argument.ts","path":"command/pages/fitness/cooldown/fitness-cooldown.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"json.argument.ts","path":"command/pages/fitness/mobility/fitness-mobility.command.code.ts","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"json.argument.ts","path":"command/pages/fitness/next/fitness-next.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"json.argument.ts","path":"command/pages/fitness/today/fitness-today.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"json.argument.ts","path":"command/pages/fitness/week/fitness-week.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"json.argument.ts","path":"command/pages/icloud/fetch/icloud-fetch.command.code.ts","typed":false,"deferred":false}

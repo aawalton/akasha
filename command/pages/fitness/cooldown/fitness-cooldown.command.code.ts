@@ -18,11 +18,11 @@ import {
   coolFor,
   takenOn,
   workedOn,
-} from "akasha/command/pages/fitness/modules/cooling/cooling.module.code.ts"
+} from "akasha/command/pages/fitness/cooldown/modules/cooling/cooling.module.code.ts"
 import {
   coveredBy,
   loadingIn,
-} from "akasha/command/pages/fitness/modules/kit-loading/kit-loading.module.code.ts"
+} from "akasha/command/pages/fitness/cooldown/modules/kit-loading/kit-loading.module.code.ts"
 import { weekIn } from "akasha/command/pages/fitness/modules/training-week/training-week.module.code.ts"
 import {
   AKASHA,

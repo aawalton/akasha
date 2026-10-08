@@ -8,15 +8,10 @@ export const fitness = {
   parts: [
     "command/fitness-cooldown",
     "command/fitness-mobility",
-    "command/fitness-next",
     "command/fitness-today",
     "command/fitness-week",
-    "module/cooling",
-    "module/kit-loading",
-    "module/rotation",
-    "module/targeting",
     "module/training-week",
   ],
   name: "fitness",
-  updatedAt: "2026-10-08T15:11:01.194Z",
+  updatedAt: "2026-10-08T15:15:26.338Z",
 } as const satisfies Namespace

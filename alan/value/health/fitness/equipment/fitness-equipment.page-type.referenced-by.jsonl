@@ -1,4 +1,4 @@
-{"propertySlug":"import","fileName":"fitness-equipment.page-type.ts","path":"command/pages/fitness/modules/kit-loading/kit-loading.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"fitness-equipment.page-type.ts","path":"command/pages/fitness/cooldown/modules/kit-loading/kit-loading.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"fitness-equipment.page-type.types.ts","path":"alan/value/health/fitness/equipment/pages/adjustable-bench/adjustable-bench.fitness-equipment.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"fitness-equipment.page-type.types.ts","path":"alan/value/health/fitness/equipment/pages/dumbbells/dumbbells.fitness-equipment.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"fitness-equipment.page-type.types.ts","path":"alan/value/health/fitness/equipment/pages/hand-gripper/hand-gripper.fitness-equipment.ts","typed":true,"deferred":false}

@@ -7,6 +7,7 @@ export const fitnessToday = {
   definition: "the pounds Alan's day is to move, what he has moved, its focus and its sets",
   code: "ts",
   test: "ts",
+  parts: ["module/rotation", "module/targeting"],
   decisions: [
     {
       decisionKind: "decision-kind/departure",
@@ -41,5 +42,5 @@ export const fitnessToday = {
   name: "today",
   arguments: [{ argument: "argument/json" }],
   createdAt: "2026-10-08T15:11:01.194Z",
-  updatedAt: "2026-10-08T15:11:01.194Z",
+  updatedAt: "2026-10-08T15:15:26.338Z",
 } as const satisfies Command

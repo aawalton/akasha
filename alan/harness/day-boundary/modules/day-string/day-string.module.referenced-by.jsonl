@@ -4,10 +4,9 @@
 {"propertySlug":"import","fileName":"day-string.module.code.ts","path":"alan/harness/day-boundary/modules/mountain-wall/mountain-wall.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"day-string.module.code.ts","path":"alan/harness/inbox/modules/count-polling/inbox-count-polling.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"day-string.module.code.ts","path":"alan/track/daily/modules/day-active-calories/day-active-calories.module.code.ts","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"day-string.module.code.ts","path":"command/pages/fitness/modules/rotation/rotation.module.code.ts","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"day-string.module.code.ts","path":"command/pages/fitness/modules/targeting/targeting.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"day-string.module.code.ts","path":"command/pages/fitness/modules/training-week/training-week.module.code.ts","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"day-string.module.code.ts","path":"command/pages/fitness/next/modules/warming/warming.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"day-string.module.code.ts","path":"command/pages/fitness/today/modules/rotation/rotation.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"day-string.module.code.ts","path":"command/pages/fitness/today/modules/targeting/targeting.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"day-string.module.code.ts","path":"command/pages/track/food/track-food.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"day-string.module.code.ts","path":"command/pages/track/modules/waking/waking.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"day-string.module.code.ts","path":"command/pages/track/session/switch/track-session-switch.command.test.ts","typed":false,"deferred":false}

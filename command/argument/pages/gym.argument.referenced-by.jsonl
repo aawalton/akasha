@@ -1,4 +1,2 @@
 {"propertySlug":"argument","path":"command/pages/fitness/cooldown/fitness-cooldown.command.ts","id":"01a0bab8-8a7a-78db-bb48-a6667b1f8812"}
-{"propertySlug":"argument","path":"command/pages/fitness/next/fitness-next.command.ts","id":"01a0b6f2-5cf1-7d7f-a0f4-5905b47e64a6"}
 {"propertySlug":"import","fileName":"gym.argument.ts","path":"command/pages/fitness/cooldown/fitness-cooldown.command.code.ts","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"gym.argument.ts","path":"command/pages/fitness/next/fitness-next.command.code.ts","typed":false,"deferred":false}
