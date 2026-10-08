@@ -414,5 +414,6 @@ export const landing = {
         "Those answers are named on the change as the files carried beside the ones judged.",
     },
   ],
-  updatedAt: "2026-10-08T16:31:45.789Z",
+  updatedAt: "2026-10-08T16:35:33.000Z",
+  createdAt: "2026-08-29T04:53:12.685Z",
 } as const satisfies Module
