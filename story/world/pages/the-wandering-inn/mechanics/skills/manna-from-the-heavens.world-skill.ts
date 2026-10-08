@@ -9,4 +9,6 @@ export const mannaFromTheHeavens = {
   appearanceCount: 1,
   aliases: ["Manna from the Heavens"],
   references: "jsonl",
+  createdAt: "2026-09-03T04:18:06.530Z",
+  updatedAt: "2026-09-22T13:32:44.000Z",
 } as const satisfies WorldSkill

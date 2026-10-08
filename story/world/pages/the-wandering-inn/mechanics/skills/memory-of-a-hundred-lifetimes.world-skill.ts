@@ -7,4 +7,6 @@ export const memoryOfAHundredLifetimes = {
   title: "Memory of a Hundred Lifetimes",
   world: "world/the-wandering-inn",
   evolvesToSlugs: ["world-skill/memory-of-a-thousand-lifetimes"],
+  createdAt: "2026-09-03T04:18:06.540Z",
+  updatedAt: "2026-09-22T18:28:27.000Z",
 } as const satisfies WorldSkill

@@ -6,4 +6,6 @@ export const pactTheHardWorkingLambSariant = {
   slug: "pact-the-hard-working-lamb-sariant",
   title: "Pact: The Hard-Working Lamb (Sariant)",
   world: "world/the-wandering-inn",
+  createdAt: "2026-09-03T04:18:06.591Z",
+  updatedAt: "2026-09-19T16:45:27.000Z",
 } as const satisfies WorldSkill

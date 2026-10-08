@@ -9,4 +9,6 @@ export const lesserCharisma = {
   appearanceCount: 4,
   evolvesToSlugs: ["world-skill/greater-charisma"],
   references: "jsonl",
+  createdAt: "2026-09-03T04:10:00.610Z",
+  updatedAt: "2026-09-22T18:28:27.000Z",
 } as const satisfies WorldSkill

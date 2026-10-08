@@ -6,4 +6,6 @@ export const passOnEnthusiasm = {
   slug: "pass-on-enthusiasm",
   title: "Pass On Enthusiasm",
   world: "world/the-wandering-inn",
+  createdAt: "2026-09-03T04:18:06.599Z",
+  updatedAt: "2026-09-19T16:45:27.000Z",
 } as const satisfies WorldSkill

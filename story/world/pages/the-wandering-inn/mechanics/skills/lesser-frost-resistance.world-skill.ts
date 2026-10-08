@@ -9,4 +9,6 @@ export const lesserFrostResistance = {
   appearanceCount: 3,
   evolvesToSlugs: ["world-skill/greater-frost-resistance"],
   references: "jsonl",
+  createdAt: "2026-09-03T04:10:00.610Z",
+  updatedAt: "2026-09-22T18:28:27.000Z",
 } as const satisfies WorldSkill

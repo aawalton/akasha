@@ -7,4 +7,6 @@ export const keenShot = {
   title: "Keen Shot",
   world: "world/the-wandering-inn",
   evolvesToSlugs: ["world-skill/silverstake-spreadshot"],
+  createdAt: "2026-09-03T04:10:00.609Z",
+  updatedAt: "2026-09-22T18:28:27.000Z",
 } as const satisfies WorldSkill

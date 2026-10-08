@@ -6,4 +6,6 @@ export const lesserImmunityFateRe = {
   slug: "lesser-immunity-fate-re",
   title: "Lesser Immunity: Fate Re",
   world: "world/the-wandering-inn",
+  createdAt: "2026-09-03T04:10:00.610Z",
+  updatedAt: "2026-09-19T16:44:03.000Z",
 } as const satisfies WorldSkill

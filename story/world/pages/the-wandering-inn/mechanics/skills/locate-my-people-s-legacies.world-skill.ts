@@ -6,4 +6,6 @@ export const locateMyPeopleSLegacies = {
   slug: "locate-my-people-s-legacies",
   title: "Locate My People’s Legacies",
   world: "world/the-wandering-inn",
+  createdAt: "2026-09-03T04:18:06.528Z",
+  updatedAt: "2026-09-19T16:44:03.000Z",
 } as const satisfies WorldSkill

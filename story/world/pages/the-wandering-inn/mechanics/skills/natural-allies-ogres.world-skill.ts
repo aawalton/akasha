@@ -6,4 +6,6 @@ export const naturalAlliesOgres = {
   slug: "natural-allies-ogres",
   title: "Natural Allies: Ogres",
   world: "world/the-wandering-inn",
+  createdAt: "2026-09-03T04:18:06.577Z",
+  updatedAt: "2026-09-19T16:44:44.000Z",
 } as const satisfies WorldSkill

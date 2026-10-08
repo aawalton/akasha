@@ -6,4 +6,6 @@ export const rallyTheCrowds = {
   slug: "rally-the-crowds",
   title: "Rally the Crowds",
   world: "world/the-wandering-inn",
+  createdAt: "2026-09-03T04:18:06.620Z",
+  updatedAt: "2026-09-19T16:46:09.000Z",
 } as const satisfies WorldSkill

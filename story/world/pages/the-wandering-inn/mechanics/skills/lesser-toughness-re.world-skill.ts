@@ -6,4 +6,6 @@ export const lesserToughnessRe = {
   slug: "lesser-toughness-re",
   title: "Lesser Toughness Re",
   world: "world/the-wandering-inn",
+  createdAt: "2026-09-03T04:10:00.611Z",
+  updatedAt: "2026-09-19T16:44:03.000Z",
 } as const satisfies WorldSkill

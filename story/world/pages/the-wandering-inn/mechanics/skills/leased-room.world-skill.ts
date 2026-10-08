@@ -8,4 +8,6 @@ export const leasedRoom = {
   world: "world/the-wandering-inn",
   appearanceCount: 2,
   references: "jsonl",
+  createdAt: "2026-09-03T04:10:00.610Z",
+  updatedAt: "2026-09-22T13:32:35.000Z",
 } as const satisfies WorldSkill

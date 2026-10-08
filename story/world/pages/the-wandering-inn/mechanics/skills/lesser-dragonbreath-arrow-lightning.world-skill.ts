@@ -9,4 +9,6 @@ export const lesserDragonbreathArrowLightning = {
   appearanceCount: 1,
   evolvesFromSlugs: ["world-skill/swallow-s-arrow"],
   references: "jsonl",
+  createdAt: "2026-09-03T04:10:00.610Z",
+  updatedAt: "2026-09-22T18:27:39.000Z",
 } as const satisfies WorldSkill

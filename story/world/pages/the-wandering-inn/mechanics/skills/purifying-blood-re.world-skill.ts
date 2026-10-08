@@ -6,4 +6,6 @@ export const purifyingBloodRe = {
   slug: "purifying-blood-re",
   title: "Purifying Blood Re",
   world: "world/the-wandering-inn",
+  createdAt: "2026-09-03T04:18:06.618Z",
+  updatedAt: "2026-09-19T16:46:09.000Z",
 } as const satisfies WorldSkill

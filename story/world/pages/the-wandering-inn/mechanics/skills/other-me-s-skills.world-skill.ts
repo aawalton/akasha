@@ -9,4 +9,6 @@ export const otherMeSSkills = {
   appearanceCount: 2,
   evolvesFromSlugs: ["world-skill/other-me-s-skill"],
   references: "jsonl",
+  createdAt: "2026-09-03T04:18:06.589Z",
+  updatedAt: "2026-09-22T18:27:39.000Z",
 } as const satisfies WorldSkill

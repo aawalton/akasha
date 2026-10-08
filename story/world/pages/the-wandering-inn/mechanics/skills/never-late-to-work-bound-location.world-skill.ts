@@ -7,4 +7,6 @@ export const neverLateToWorkBoundLocation = {
   title: "Never Late To Work (Bound Location)",
   world: "world/the-wandering-inn",
   evolvesToSlugs: ["world-skill/where-i-m-needed-i-am-6-locations"],
+  createdAt: "2026-09-03T04:18:06.587Z",
+  updatedAt: "2026-09-22T18:28:27.000Z",
 } as const satisfies WorldSkill

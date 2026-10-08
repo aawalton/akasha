@@ -9,4 +9,6 @@ export const lesserStrength = {
   appearanceCount: 48,
   evolvesToSlugs: ["world-skill/enhanced-strength"],
   references: "jsonl",
+  createdAt: "2026-09-03T04:10:00.611Z",
+  updatedAt: "2026-09-22T18:28:27.000Z",
 } as const satisfies WorldSkill
