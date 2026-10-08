@@ -1,3 +1,4 @@
+import { existsSync, readFileSync } from "node:fs"
 import {
   refusing,
   type Said,
@@ -24,6 +25,8 @@ const UPDATED_AT = "updatedAt"
 
 const STAMP = "\u0001"
 
+const KEPT_AT = "/var/tmp/akasha-last-committed.tsv"
+
 type Lacking = { readonly path: string; readonly id: unknown; readonly keys: readonly string[] }
 
 export function lackingIn(world: World, given: Asked): readonly Lacking[] | string {
@@ -44,7 +47,30 @@ export function lackingIn(world: World, given: Asked): readonly Lacking[] | stri
   return found
 }
 
+function keptIn(at: string): ReadonlyMap<string, number> | null {
+  if (!existsSync(at)) return null
+  const found = new Map<string, number>()
+  for (const line of readFileSync(at, "utf8").split("\n")) {
+    const tab = line.indexOf("\t")
+    if (tab > 0) found.set(line.slice(0, tab), Date.parse(line.slice(tab + 1)))
+  }
+  return found
+}
+
+function fromKept(kept: ReadonlyMap<string, number>): LastChanged {
+  return (paths) => {
+    const found = new Map<string, number>()
+    for (const path of paths) {
+      const at = kept.get(path)
+      if (at !== undefined) found.set(path, at)
+    }
+    return found
+  }
+}
+
 export function lastCommitted(root: string): LastChanged {
+  const kept = keptIn(KEPT_AT)
+  if (kept !== null) return fromKept(kept)
   return (paths) => {
     const found = new Map<string, number>()
     if (paths.length === 0) return found

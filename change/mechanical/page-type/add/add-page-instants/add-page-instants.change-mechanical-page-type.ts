@@ -48,6 +48,10 @@ export const addPageInstants = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A batch reads a map of each path's last commit instead, where one was written.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A count handed in bounds how many pages are given instants.",
     },
     {
@@ -57,5 +61,5 @@ export const addPageInstants = {
   ],
   changeKind: "change-kind/change-mechanical",
   createdAt: "2026-10-08T15:02:56.191Z",
-  updatedAt: "2026-10-08T15:02:56.191Z",
+  updatedAt: "2026-10-08T15:54:47.827Z",
 } as const satisfies ChangeMechanicalPageType
