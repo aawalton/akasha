@@ -3,6 +3,7 @@
 {"propertySlug":"import","fileName":"flag-fault-stage.module.code.ts","path":"command/pages/temper/eso/generate/chatter-name/temper-eso-generate-chatter-name.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"flag-fault-stage.module.code.ts","path":"command/pages/temper/eso/generate/declaration/temper-eso-generate-declaration.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"flag-fault-stage.module.code.ts","path":"command/pages/temper/eso/generate/hud-scene-catalog/temper-eso-generate-hud-scene-catalog.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"flag-fault-stage.module.code.ts","path":"command/pages/temper/quest-port-trace/temper-quest-port-trace.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"flag-fault-stage.module.code.ts","path":"temper/addon/build/modules/addon-placing/addon-placing.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"flag-fault-stage.module.code.ts","path":"temper/addon/build/modules/addon-sweeping/addon-sweeping.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"flag-fault-stage.module.code.ts","path":"temper/command/modules/flag-fault-stage/flag-fault-stage.module.test.ts","typed":false,"deferred":false}

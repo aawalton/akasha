@@ -5,9 +5,9 @@ export const questTracePath = {
   type: "page-type/argument",
   slug: "quest-trace-path",
   said: "--file-path",
-  takes: "the saved-variables file the auto-quest trace is read from",
+  takes: "the saved-variables file a world add-on trace is read from",
   value: "path",
   placeholder: "path",
   createdAt: "2026-09-12T09:03:30.010Z",
-  updatedAt: "2026-09-15T15:49:36.000Z",
+  updatedAt: "2026-10-08T17:10:57.884Z",
 } as const satisfies Argument

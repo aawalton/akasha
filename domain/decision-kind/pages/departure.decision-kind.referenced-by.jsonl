@@ -2572,6 +2572,7 @@
 {"propertySlug":"decision-kind","path":"command/pages/temper/inventory/venue-trace/temper-inventory-venue-trace.command.ts","id":"01a09b33-22e4-76f4-8c16-420d5f6923df"}
 {"propertySlug":"decision-kind","path":"command/pages/temper/package-typecheck/temper-package-typecheck.command.ts","id":"01a061f6-390b-72a7-97b3-528d057fbbf4"}
 {"propertySlug":"decision-kind","path":"command/pages/temper/picture/temper-picture.command.ts","id":"01a0ca66-a24e-707c-9316-688e7ba7452b"}
+{"propertySlug":"decision-kind","path":"command/pages/temper/quest-port-trace/temper-quest-port-trace.command.ts","id":"01a11c7f-285d-7a2e-b753-227f6826b2c1"}
 {"propertySlug":"decision-kind","path":"command/pages/temper/upstream/data-port/temper-upstream-data-port.command.ts","id":"01a0603c-c1da-795b-8baf-e00c1b4eb588"}
 {"propertySlug":"decision-kind","path":"command/pages/temper/upstream/data-verify/temper-upstream-data-verify.command.ts","id":"01a0603c-c1da-7a8b-ad5e-79907918ed2a"}
 {"propertySlug":"decision-kind","path":"command/pages/temper/watcher/log/temper-watcher-log.command.ts","id":"01a0603c-c1da-744c-8d22-01ee1ec32945"}
