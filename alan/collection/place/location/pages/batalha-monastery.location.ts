@@ -11,4 +11,6 @@ export const batalhaMonastery = {
   sourceUrl:
     "https://www.google.com/maps/place/Batalha+Monastery/data=!4m2!3m1!1s0xd227545c8a9b7b9:0x56110d7fa73d1de9",
   locationSource: "saved:Lisbon, Portugal",
+  createdAt: "2026-07-01T01:26:59.001Z",
+  updatedAt: "2026-09-15T17:20:00.000Z",
 } as const satisfies Location

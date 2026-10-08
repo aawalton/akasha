@@ -6,4 +6,6 @@ export const smilingjennySurplusWidget = {
   slug: "smilingjenny-surplus-widget",
   definition: "Jenny's tile for Alan's surplus",
   swift: "swift",
+  createdAt: "2026-08-31T14:24:50.654Z",
+  updatedAt: "2026-09-15T17:16:48.000Z",
 } as const satisfies IosComponent

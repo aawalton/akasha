@@ -6,4 +6,6 @@ export const alanwaltonInboxStoplightsWidget = {
   slug: "alanwalton-inbox-stoplights-widget",
   definition: "Alan's tile for the stoplight on each inbox",
   swift: "swift",
+  createdAt: "2026-08-31T14:24:50.650Z",
+  updatedAt: "2026-09-15T17:16:48.000Z",
 } as const satisfies IosComponent

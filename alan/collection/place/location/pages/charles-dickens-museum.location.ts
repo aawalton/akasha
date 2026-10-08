@@ -11,4 +11,6 @@ export const charlesDickensMuseum = {
   sourceUrl:
     "https://www.google.com/maps/place/Charles+Dickens+Museum/data=!4m2!3m1!1s0x48761b4839bc0997:0x330d427e3393c65a",
   locationSource: "saved:London, England",
+  createdAt: "2026-06-30T23:45:05.657Z",
+  updatedAt: "2026-09-15T17:20:22.000Z",
 } as const satisfies Location

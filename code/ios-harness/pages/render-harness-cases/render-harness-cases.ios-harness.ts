@@ -6,4 +6,6 @@ export const renderHarnessCases = {
   slug: "render-harness-cases",
   definition: "every case a render run draws",
   swift: "swift",
+  createdAt: "2026-08-31T14:51:05.725Z",
+  updatedAt: "2026-09-15T17:17:09.000Z",
 } as const satisfies IosHarness

@@ -7,4 +7,6 @@ export const notificationReadAt = {
   propertySlug: "read-at",
   definition: "when the person opened a notification",
   types: "ts",
+  createdAt: "2026-09-03T17:47:21.933Z",
+  updatedAt: "2026-09-15T17:15:46.000Z",
 } as const satisfies InstantProperty

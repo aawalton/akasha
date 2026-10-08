@@ -18,4 +18,6 @@ export const brightPediatricDentistry = {
     "https://www.google.com/maps/place/Bright+Pediatric+Dentistry/data=!4m2!3m1!1s0x87527d512e5a1f51:0xa857b834ea9c1155",
   locationSource: "saved:UT, SLC",
   visited: true,
+  createdAt: "2026-06-30T23:45:05.932Z",
+  updatedAt: "2026-09-15T17:20:00.000Z",
 } as const satisfies Location

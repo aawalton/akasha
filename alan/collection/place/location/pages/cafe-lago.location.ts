@@ -11,4 +11,6 @@ export const cafeLago = {
   sourceUrl:
     "https://www.google.com/maps/place/Cafe+Lago/data=!4m2!3m1!1s0x865b3992bb02f481:0x17ab611bee9c3686",
   locationSource: "saved:Austin, Texas",
+  createdAt: "2026-07-01T01:26:58.668Z",
+  updatedAt: "2026-09-15T17:20:00.000Z",
 } as const satisfies Location

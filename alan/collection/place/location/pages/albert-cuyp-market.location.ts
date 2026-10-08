@@ -11,4 +11,6 @@ export const albertCuypMarket = {
   sourceUrl:
     "https://www.google.com/maps/place/Albert+Cuyp+Market/data=!4m2!3m1!1s0x47c609f28b745671:0xd2d8aeb9aaa10b4b",
   locationSource: "saved:Netherlands",
+  createdAt: "2026-06-30T23:45:05.605Z",
+  updatedAt: "2026-09-15T17:20:00.000Z",
 } as const satisfies Location

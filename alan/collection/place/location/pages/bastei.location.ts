@@ -11,4 +11,6 @@ export const bastei = {
   sourceUrl:
     "https://www.google.com/maps/place/Bastei/data=!4m2!3m1!1s0x4709bad6f1ef2ee7:0x1d39e434742c2d6c",
   locationSource: "saved:Berlin, Germany",
+  createdAt: "2026-06-30T23:45:05.355Z",
+  updatedAt: "2026-09-15T17:20:00.000Z",
 } as const satisfies Location

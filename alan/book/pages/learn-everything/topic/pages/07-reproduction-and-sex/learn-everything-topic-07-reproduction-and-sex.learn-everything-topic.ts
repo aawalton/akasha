@@ -16,4 +16,6 @@ export const learnEverythingTopic07ReproductionAndSex = {
   misconceptions: "md",
   bites: "md",
   topicEvidence: "md",
+  createdAt: "2026-09-03T05:04:00.596Z",
+  updatedAt: "2026-09-22T18:37:20.000Z",
 } as const satisfies LearnEverythingTopic

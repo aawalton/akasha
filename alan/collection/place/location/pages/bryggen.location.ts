@@ -12,4 +12,6 @@ export const bryggen = {
   sourceUrl:
     "https://www.google.com/maps/place/Bryggen/data=!4m2!3m1!1s0x463cfc1d80be31e1:0xf278657d7d75232e",
   locationSource: "saved:Norway",
+  createdAt: "2026-06-30T23:45:05.759Z",
+  updatedAt: "2026-09-15T17:20:00.000Z",
 } as const satisfies Location

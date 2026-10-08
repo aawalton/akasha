@@ -11,4 +11,6 @@ export const bowTieCreamery = {
   sourceUrl:
     "https://www.google.com/maps/place/Bow+Tie+Creamery/data=!4m2!3m1!1s0x87530750299e37f9:0x46c3c28df9f68932",
   locationSource: "saved:Want to go",
+  createdAt: "2026-06-30T23:45:05.334Z",
+  updatedAt: "2026-09-15T17:20:00.000Z",
 } as const satisfies Location

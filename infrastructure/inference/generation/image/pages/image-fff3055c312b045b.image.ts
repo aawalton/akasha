@@ -16,4 +16,6 @@ export const imageFff3055c312b045b = {
   height: 832,
   prompt:
     "Candid photograph of a 23-year-old adult woman, grown woman's face, Brazilian with golden tan skin, long dark curly hair piled in a messy bun, slender toned build with a small chest, floating on her back on a clear inflatable lounger in the middle of a sparkling luxury hotel pool, wearing a coral string bikini, one arm trailing in the water, eyes closed and smiling in the sun, seen from slightly above, white villas with balconies, palm trees and bougainvillea around the pool, bright afternoon sun, light caustics on the water, natural light, 35mm lens.",
+  createdAt: "2026-10-04T21:59:17.549Z",
+  updatedAt: "2026-10-04T21:59:52.000Z",
 } as const satisfies Image

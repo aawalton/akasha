@@ -11,4 +11,6 @@ export const banburyCrossDonuts = {
   sourceUrl:
     "https://www.google.com/maps/place/Banbury+Cross+Donuts/data=!4m2!3m1!1s0x8752f5431155b0f1:0x1257bd6aa7c5ccf",
   locationSource: "saved:Want to go",
+  createdAt: "2026-06-30T23:45:05.328Z",
+  updatedAt: "2026-09-15T17:20:00.000Z",
 } as const satisfies Location

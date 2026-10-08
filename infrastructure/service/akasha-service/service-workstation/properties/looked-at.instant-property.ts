@@ -34,4 +34,6 @@ export const lookedAt = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-10T17:57:21.555Z",
+  updatedAt: "2026-09-24T19:06:05.000Z",
 } as const satisfies InstantProperty

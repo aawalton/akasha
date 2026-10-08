@@ -7,4 +7,6 @@ export const conversationAt = {
   propertySlug: "at",
   definition: "when words in a seat were written",
   types: "ts",
+  createdAt: "2026-09-24T16:42:28.878Z",
+  updatedAt: "2026-09-25T17:59:57.000Z",
 } as const satisfies InstantProperty

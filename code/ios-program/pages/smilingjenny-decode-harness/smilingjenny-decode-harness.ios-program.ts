@@ -33,4 +33,6 @@ export const smilingjennyDecodeHarness = {
       statement: "Every tile this program compiles has a decode assertion.",
     },
   ],
+  createdAt: "2026-08-31T18:17:05.592Z",
+  updatedAt: "2026-09-24T22:24:22.000Z",
 } as const satisfies IosProgram

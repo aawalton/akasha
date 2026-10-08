@@ -12,4 +12,6 @@ export const banditsGrillAndBar = {
   sourceUrl:
     "https://www.google.com/maps/place/Bandits'+Grill+and+Bar/data=!4m2!3m1!1s0x8752630755b81d95:0x3ce0c6861275dcdd",
   locationSource: "saved:Want to go",
+  createdAt: "2026-07-01T01:26:57.742Z",
+  updatedAt: "2026-09-15T17:20:00.000Z",
 } as const satisfies Location

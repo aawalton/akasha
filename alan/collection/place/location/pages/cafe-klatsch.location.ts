@@ -11,4 +11,6 @@ export const cafeKlatsch = {
   sourceUrl:
     "https://www.google.com/maps/place/Caf%C3%A9+Klatsch/data=!4m2!3m1!1s0x47bd073c4bf5b49f:0x4b7932dd62e51b9b",
   locationSource: "saved:Frankfurt, Germany",
+  createdAt: "2026-06-30T23:45:05.679Z",
+  updatedAt: "2026-09-15T17:20:00.000Z",
 } as const satisfies Location

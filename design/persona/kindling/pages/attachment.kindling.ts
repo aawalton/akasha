@@ -25,4 +25,6 @@ export const attachment = {
         "Attachment carries Alan's love for a persona once the heat of the other kindlings cools.",
     },
   ],
+  createdAt: "2026-09-26T15:37:24.280Z",
+  updatedAt: "2026-09-26T16:03:03.000Z",
 } as const satisfies Kindling

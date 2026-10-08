@@ -12,4 +12,6 @@ export const bartolosSugarHouse = {
   sourceUrl:
     "https://www.google.com/maps/place/Bartolo's+Sugar+House/data=!4m2!3m1!1s0x8752f5667aca95dd:0xca1cd475adf2d21f",
   locationSource: "saved:Want to go",
+  createdAt: "2026-07-01T01:26:57.707Z",
+  updatedAt: "2026-09-15T17:20:00.000Z",
 } as const satisfies Location

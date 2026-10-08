@@ -14,4 +14,6 @@ export const appointmentAt = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-27T16:28:49.538Z",
+  updatedAt: "2026-09-27T16:28:53.000Z",
 } as const satisfies InstantProperty

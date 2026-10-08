@@ -14,4 +14,6 @@ export const imageFce529b36ab459f5 = {
   height: 1216,
   prompt:
     "Fantasy photorealistic, candid photograph. The River Wend running north from a fantasy city through flat wet meadows in the early morning, with no people in the frame. A slow brown river, wide and shallow, winds lazily through broad green meadows that steam faintly in the low early sun, the grass so heavy with dew it glitters silver. Dozens of sheep, grey and cream and black-faced, stand scattered across the meadows grazing, a few lifting their heads. A narrow footpath runs along the riverbank, with an old wooden stile set into a low dry-stone field wall crossing it. Larks rise out of the grass. Low green hills on the horizon ahead, wide pale blue sky with soft morning haze. Long gentle shadows, warm golden light from the east. Nothing lettered. Eye-level view along the riverbank path toward the hills, 35mm lens, deep focus.",
+  createdAt: "2026-10-06T13:09:51.918Z",
+  updatedAt: "2026-10-06T13:09:52.000Z",
 } as const satisfies Image

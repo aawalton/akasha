@@ -131,4 +131,6 @@ export const keepAlanDirectives = {
       statement: "Ten runs in ten reached a model with the gateway otherwise quiet.",
     },
   ],
+  createdAt: "2026-09-11T14:40:31.377Z",
+  updatedAt: "2026-09-27T13:39:52.000Z",
 } as const satisfies InferenceHook

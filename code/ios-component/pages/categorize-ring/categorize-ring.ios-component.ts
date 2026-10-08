@@ -36,4 +36,6 @@ export const categorizeRing = {
       statement: "A reading sent with no label is drawn with no caption.",
     },
   ],
+  createdAt: "2026-08-30T21:10:09.883Z",
+  updatedAt: "2026-09-24T19:26:09.000Z",
 } as const satisfies IosComponent

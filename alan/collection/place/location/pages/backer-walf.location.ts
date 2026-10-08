@@ -11,4 +11,6 @@ export const backerWalf = {
   sourceUrl:
     "https://www.google.com/maps/place/B%C3%A4cker+Walf/data=!4m2!3m1!1s0x47a85ae7698b1a93:0xc03f02fef0d86085",
   locationSource: "saved:Berlin, Germany",
+  createdAt: "2026-06-30T23:45:05.357Z",
+  updatedAt: "2026-09-15T17:20:00.000Z",
 } as const satisfies Location

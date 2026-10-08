@@ -10,4 +10,6 @@ export const catHeadSilhouetteFreeVectorsLogosIconsAndPhotosDownloads = {
   sourcePlaceId: "takeout:cat-head-silhouette-free-vectors-logos-icons-and-photos-downloads:noloc",
   sourceUrl: "http://freevector.co/wp-content/uploads/2009/12/40819-cat-head-silhouette.png",
   locationSource: "saved:Images",
+  createdAt: "2026-07-01T01:26:58.920Z",
+  updatedAt: "2026-09-15T17:20:22.000Z",
 } as const satisfies Location

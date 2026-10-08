@@ -19,4 +19,6 @@ export const spotifyAccountRetryAllowedAt = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-18T23:31:04.221Z",
+  updatedAt: "2026-09-18T23:34:28.000Z",
 } as const satisfies InstantProperty

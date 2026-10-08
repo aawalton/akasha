@@ -8,4 +8,6 @@ export const atlasVerifyPinBravo = {
   address: "New York NY",
   latitude: 40.7128,
   longitude: -74.006,
+  createdAt: "2026-06-30T14:22:17.404Z",
+  updatedAt: "2026-09-15T17:20:00.000Z",
 } as const satisfies Location

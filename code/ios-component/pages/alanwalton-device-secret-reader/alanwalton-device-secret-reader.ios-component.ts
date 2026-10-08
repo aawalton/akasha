@@ -16,4 +16,6 @@ export const alanwaltonDeviceSecretReader = {
       statement: "Why a read answered nothing is named in words short enough for a tile to carry.",
     },
   ],
+  createdAt: "2026-08-31T14:24:50.648Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies IosComponent

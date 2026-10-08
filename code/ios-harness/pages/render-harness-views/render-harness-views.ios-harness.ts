@@ -6,4 +6,6 @@ export const renderHarnessViews = {
   slug: "render-harness-views",
   definition: "the turn of a case's body into a view",
   swift: "swift",
+  createdAt: "2026-08-31T14:51:05.727Z",
+  updatedAt: "2026-09-15T17:17:09.000Z",
 } as const satisfies IosHarness

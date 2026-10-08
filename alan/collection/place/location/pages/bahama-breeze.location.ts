@@ -12,4 +12,6 @@ export const bahamaBreeze = {
   sourceUrl:
     "https://www.google.com/maps/place/Bahama+Breeze/data=!4m2!3m1!1s0x88e7129b2a6ad2f9:0xf0ef364f7795d1e1",
   locationSource: "saved:Florida",
+  createdAt: "2026-06-30T23:45:05.788Z",
+  updatedAt: "2026-09-15T17:20:00.000Z",
 } as const satisfies Location

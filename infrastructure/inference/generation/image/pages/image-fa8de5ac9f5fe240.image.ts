@@ -11,4 +11,6 @@ export const imageFa8de5ac9f5fe240 = {
   wardrobeTags: ["wardrobe-tag/nude", "wardrobe-tag/jewelry"],
   fantasyTags: ["fantasy-tag/mermaid", "fantasy-tag/naga", "fantasy-tag/scales"],
   ageTags: ["age-tag/age-25-34"],
+  createdAt: "2026-09-21T21:51:50.079Z",
+  updatedAt: "2026-09-27T15:52:40.000Z",
 } as const satisfies Image

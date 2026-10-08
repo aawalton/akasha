@@ -11,4 +11,6 @@ export const amritRestaurantSchoneberg = {
   sourceUrl:
     "https://www.google.com/maps/place/AMRIT+Restaurant+Schoneberg/data=!4m2!3m1!1s0x47a8504f27553513:0x802d62e479b2a619",
   locationSource: "saved:Berlin, Germany",
+  createdAt: "2026-06-30T23:45:05.363Z",
+  updatedAt: "2026-09-15T17:20:00.000Z",
 } as const satisfies Location

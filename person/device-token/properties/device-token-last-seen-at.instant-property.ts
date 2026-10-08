@@ -13,4 +13,6 @@ export const deviceTokenLastSeenAt = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-01T16:22:28.572Z",
+  updatedAt: "2026-09-22T14:08:59.000Z",
 } as const satisfies InstantProperty

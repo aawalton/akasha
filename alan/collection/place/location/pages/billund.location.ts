@@ -11,4 +11,6 @@ export const billund = {
   sourceUrl:
     "https://www.google.com/maps/place/Billund/data=!4m2!3m1!1s0x464b7223afe241b3:0x89be7375803be832",
   locationSource: "saved:Denmark",
+  createdAt: "2026-06-30T23:45:05.427Z",
+  updatedAt: "2026-09-15T17:20:00.000Z",
 } as const satisfies Location

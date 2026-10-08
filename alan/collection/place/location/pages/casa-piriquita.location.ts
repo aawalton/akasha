@@ -13,4 +13,6 @@ export const casaPiriquita = {
   sourceUrl:
     "https://www.google.com/maps/place/Casa+Piriquita/data=!4m2!3m1!1s0xd1edac0197b469b:0xaa1c7d54bf379de2",
   locationSource: "saved:Lisbon, Portugal",
+  createdAt: "2026-06-30T23:45:05.720Z",
+  updatedAt: "2026-09-15T17:20:00.000Z",
 } as const satisfies Location

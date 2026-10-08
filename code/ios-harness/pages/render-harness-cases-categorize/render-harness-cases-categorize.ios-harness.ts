@@ -6,4 +6,6 @@ export const renderHarnessCasesCategorize = {
   slug: "render-harness-cases-categorize",
   definition: "the cases drawing the unreviewed transaction tile",
   swift: "swift",
+  createdAt: "2026-08-31T14:51:05.725Z",
+  updatedAt: "2026-09-15T17:17:09.000Z",
 } as const satisfies IosHarness

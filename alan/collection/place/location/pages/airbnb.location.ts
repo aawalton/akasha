@@ -10,4 +10,6 @@ export const airbnb = {
   longitude: -117.10740009999999,
   sourcePlaceId: "takeout:airbnb:4442-41st-st-san-diego-ca-92116-usa",
   locationSource: "labeled",
+  createdAt: "2026-06-30T23:45:05.839Z",
+  updatedAt: "2026-09-15T17:20:00.000Z",
 } as const satisfies Location

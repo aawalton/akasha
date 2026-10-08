@@ -11,4 +11,6 @@ export const campidoglio = {
   sourceUrl:
     "https://www.google.com/maps/place/Campidoglio/data=!4m2!3m1!1s0x132f604c9b68c939:0xe1efbb238bd1c51",
   locationSource: "saved:Rome, Italy",
+  createdAt: "2026-06-30T23:45:05.459Z",
+  updatedAt: "2026-09-15T17:20:00.000Z",
 } as const satisfies Location

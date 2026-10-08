@@ -52,4 +52,6 @@ export const rynStandardAgentEnglish = {
     "A subagent lands a restated definition that needs no new word, construction or part of speech.",
     "A subagent brings back every item that needs Alan's approval, and Ryn puts each item to Alan.",
   ],
+  createdAt: "2026-09-07T13:31:48.602Z",
+  updatedAt: "2026-09-25T18:22:00.000Z",
 } as const satisfies Initiative

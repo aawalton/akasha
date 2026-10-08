@@ -11,4 +11,6 @@ export const berlinSchonefeldAirport = {
   sourceUrl:
     "https://www.google.com/maps/place/Berlin+Sch%C3%B6nefeld+Airport/data=!4m2!3m1!1s0x47a8385c00000001:0x34ff19458be0a4c0",
   locationSource: "saved:Berlin, Germany",
+  createdAt: "2026-07-01T01:26:58.044Z",
+  updatedAt: "2026-09-15T17:20:00.000Z",
 } as const satisfies Location

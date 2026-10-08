@@ -5,4 +5,6 @@ export const bunnyGirls = {
   type: "page-type/image-album",
   slug: "bunny-girls",
   title: "Bunny Girls",
+  createdAt: "2026-10-05T18:01:32.782Z",
+  updatedAt: "2026-10-05T18:01:35.000Z",
 } as const satisfies ImageAlbum

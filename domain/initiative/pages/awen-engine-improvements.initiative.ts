@@ -19,4 +19,6 @@ export const awenEngineImprovements = {
     "Alan approves the shape of each page type under `story/` before that page type is built.",
     "A property only one world or one story has needs no approval from Alan.",
   ],
+  createdAt: "2026-09-19T00:21:29.864Z",
+  updatedAt: "2026-09-26T15:01:13.000Z",
 } as const satisfies Initiative

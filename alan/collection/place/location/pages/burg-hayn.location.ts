@@ -11,4 +11,6 @@ export const burgHayn = {
   sourceUrl:
     "https://www.google.com/maps/place/Burg+Hayn/data=!4m2!3m1!1s0x47bd72be59102db5:0xa73225ca2df2049a",
   locationSource: "saved:Frankfurt, Germany",
+  createdAt: "2026-07-01T01:26:58.862Z",
+  updatedAt: "2026-09-15T17:20:00.000Z",
 } as const satisfies Location

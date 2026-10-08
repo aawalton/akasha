@@ -115,4 +115,6 @@ export const costRing = {
       statement: "Nothing here says which rungs a scale has.",
     },
   ],
+  createdAt: "2026-09-10T14:32:20.377Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies IosComponent

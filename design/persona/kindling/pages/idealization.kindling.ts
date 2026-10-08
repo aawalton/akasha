@@ -28,4 +28,6 @@ export const idealization = {
       statement: "A persona leaves some of herself unrevealed, for Alan to imagine.",
     },
   ],
+  createdAt: "2026-09-26T15:35:39.472Z",
+  updatedAt: "2026-09-26T15:52:21.000Z",
 } as const satisfies Kindling

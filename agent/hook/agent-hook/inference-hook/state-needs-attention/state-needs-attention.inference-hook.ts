@@ -57,4 +57,6 @@ export const stateNeedsAttention = {
       statement: "Nothing here refuses a call.",
     },
   ],
+  createdAt: "2026-09-26T18:33:41.178Z",
+  updatedAt: "2026-09-27T13:39:52.000Z",
 } as const satisfies InferenceHook

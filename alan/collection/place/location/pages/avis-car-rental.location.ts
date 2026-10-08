@@ -11,4 +11,6 @@ export const avisCarRental = {
   sourceUrl:
     "https://www.google.com/maps/place/Avis+Car+Rental/data=!4m2!3m1!1s0x88e77fbc6810a15b:0xb8e48be3edfce2b6",
   locationSource: "saved:Florida",
+  createdAt: "2026-06-30T23:45:05.796Z",
+  updatedAt: "2026-09-15T17:20:00.000Z",
 } as const satisfies Location

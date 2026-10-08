@@ -12,4 +12,6 @@ export const anticaSicilia = {
   sourceUrl:
     "https://www.google.com/maps/place/Antica+Sicilia/data=!4m2!3m1!1s0x875261b62a490bf3:0x9ab62e57babd38c5",
   locationSource: "saved:Want to go",
+  createdAt: "2026-06-30T23:45:05.211Z",
+  updatedAt: "2026-09-15T17:20:00.000Z",
 } as const satisfies Location

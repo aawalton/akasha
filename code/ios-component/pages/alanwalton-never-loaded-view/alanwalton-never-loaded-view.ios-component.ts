@@ -6,4 +6,6 @@ export const alanwaltonNeverLoadedView = {
   slug: "alanwalton-never-loaded-view",
   definition: "the drawing standing in for a reading that never arrived",
   swift: "swift",
+  createdAt: "2026-08-31T14:24:50.652Z",
+  updatedAt: "2026-09-15T17:16:48.000Z",
 } as const satisfies IosComponent

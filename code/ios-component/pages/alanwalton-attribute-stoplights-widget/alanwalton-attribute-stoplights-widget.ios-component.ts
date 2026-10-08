@@ -6,4 +6,6 @@ export const alanwaltonAttributeStoplightsWidget = {
   slug: "alanwalton-attribute-stoplights-widget",
   definition: "Alan's tile for the stoplight on each attribute",
   swift: "swift",
+  createdAt: "2026-09-03T17:37:08.858Z",
+  updatedAt: "2026-09-15T17:16:48.000Z",
 } as const satisfies IosComponent

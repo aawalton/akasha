@@ -11,4 +11,6 @@ export const bbKingsBluesClub = {
   sourceUrl:
     "https://www.google.com/maps/place/BB+King's+Blues+Club/data=!4m2!3m1!1s0x8864665a30218ab9:0x9268025a9b8622ab",
   locationSource: "saved:Nashville, Tennessee",
+  createdAt: "2026-06-30T23:45:05.501Z",
+  updatedAt: "2026-09-15T17:20:00.000Z",
 } as const satisfies Location

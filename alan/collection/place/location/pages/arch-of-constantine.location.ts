@@ -11,4 +11,6 @@ export const archOfConstantine = {
   sourceUrl:
     "https://www.google.com/maps/place/Arch+of+Constantine/data=!4m2!3m1!1s0x132f61b6638ccc9f:0x9559ad432c2467a0",
   locationSource: "saved:Rome, Italy",
+  createdAt: "2026-06-30T23:45:05.462Z",
+  updatedAt: "2026-09-15T17:20:00.000Z",
 } as const satisfies Location

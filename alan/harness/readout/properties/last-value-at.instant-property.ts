@@ -7,4 +7,6 @@ export const lastValueAt = {
   propertySlug: "last-value-at",
   definition: "when the reading last taken was taken",
   types: "ts",
+  createdAt: "2026-08-30T20:05:28.042Z",
+  updatedAt: "2026-09-15T17:15:46.000Z",
 } as const satisfies InstantProperty

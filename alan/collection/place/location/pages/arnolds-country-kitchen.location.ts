@@ -11,4 +11,6 @@ export const arnoldsCountryKitchen = {
   sourceUrl:
     "https://www.google.com/maps/place/Arnold's+Country+Kitchen/data=!4m2!3m1!1s0x88646661a618fecd:0xf1f07cc8b6ef10d2",
   locationSource: "saved:Nashville, Tennessee",
+  createdAt: "2026-06-30T23:45:05.516Z",
+  updatedAt: "2026-09-15T17:20:00.000Z",
 } as const satisfies Location

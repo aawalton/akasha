@@ -11,4 +11,6 @@ export const brighamYoungWinterHome = {
   sourceUrl:
     "https://www.google.com/maps/place/Brigham+Young+Winter+Home/data=!4m2!3m1!1s0x80ca44c5f50c8ac3:0xb5cb62bc46fe855e",
   locationSource: "saved:UT, St. George",
+  createdAt: "2026-06-30T23:45:05.672Z",
+  updatedAt: "2026-09-15T17:20:00.000Z",
 } as const satisfies Location

@@ -29,4 +29,6 @@ export const similarity = {
         "A persona differs from Alan where the difference gives him somewhere new to grow.",
     },
   ],
+  createdAt: "2026-09-26T15:34:41.320Z",
+  updatedAt: "2026-09-26T15:41:22.000Z",
 } as const satisfies Kindling

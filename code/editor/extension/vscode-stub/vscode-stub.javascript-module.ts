@@ -56,4 +56,6 @@ export const vscodeStub = {
       statement: "An extension reaches parts of the editor's interface no page here names.",
     },
   ],
+  createdAt: "2026-09-03T22:15:42.684Z",
+  updatedAt: "2026-09-24T22:11:16.000Z",
 } as const satisfies JavascriptModule

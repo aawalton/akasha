@@ -11,4 +11,6 @@ export const bigBen = {
   sourceUrl:
     "https://www.google.com/maps/place/Big+Ben/data=!4m2!3m1!1s0x487604c38c8cd1d9:0xb78f2474b9a45aa9",
   locationSource: "saved:London, England",
+  createdAt: "2026-06-30T23:45:05.662Z",
+  updatedAt: "2026-09-15T17:20:00.000Z",
 } as const satisfies Location

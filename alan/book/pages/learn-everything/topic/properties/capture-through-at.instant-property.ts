@@ -7,4 +7,6 @@ export const captureThroughAt = {
   propertySlug: "capture-through-at",
   definition: "the moment a transcript was read through to",
   types: "ts",
+  createdAt: "2026-09-03T04:55:52.026Z",
+  updatedAt: "2026-09-15T17:15:46.000Z",
 } as const satisfies InstantProperty

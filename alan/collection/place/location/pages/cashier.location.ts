@@ -9,4 +9,6 @@ export const cashier = {
   longitude: -117.888031,
   sourcePlaceId: "takeout:cashier:noloc",
   locationSource: "saved:Favorite jobs",
+  createdAt: "2026-07-01T01:26:58.131Z",
+  updatedAt: "2026-09-15T17:20:00.000Z",
 } as const satisfies Location

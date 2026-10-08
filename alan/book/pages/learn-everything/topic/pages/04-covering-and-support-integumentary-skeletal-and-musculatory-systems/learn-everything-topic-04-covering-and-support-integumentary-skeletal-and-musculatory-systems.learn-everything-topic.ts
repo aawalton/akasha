@@ -11,4 +11,6 @@ export const learnEverythingTopic04CoveringAndSupportIntegumentarySkeletalAndMus
   partOf: [
     "learn-everything-topic/learn-everything-topic-03-the-structures-and-functions-of-organisms",
   ],
+  createdAt: "2026-09-03T05:04:00.596Z",
+  updatedAt: "2026-09-15T17:18:14.000Z",
 } as const satisfies LearnEverythingTopic

@@ -33,4 +33,6 @@ export const imageFdf2f8732919d53c = {
   ],
   ethnicityTags: ["ethnicity-tag/asian"],
   ageTags: ["age-tag/age-25-34"],
+  createdAt: "2026-06-30T11:09:49.891Z",
+  updatedAt: "2026-09-27T15:52:40.000Z",
 } as const satisfies Image

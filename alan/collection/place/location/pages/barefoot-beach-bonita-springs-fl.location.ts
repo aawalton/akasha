@@ -12,4 +12,6 @@ export const barefootBeachBonitaSpringsFl = {
   sourceUrl:
     "https://www.google.com/maps/place/Barefoot+beach+Bonita+Springs,FL/data=!4m2!3m1!1s0x88db186667026d7b:0xa37bb28320d58bf9",
   locationSource: "saved:Florida",
+  createdAt: "2026-07-01T01:26:59.188Z",
+  updatedAt: "2026-09-15T17:20:00.000Z",
 } as const satisfies Location

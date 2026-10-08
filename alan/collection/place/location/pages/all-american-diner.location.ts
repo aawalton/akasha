@@ -11,4 +11,6 @@ export const allAmericanDiner = {
   sourceUrl:
     "https://www.google.com/maps/place/All+American+Diner/data=!4m2!3m1!1s0x80b561c630f2a519:0xbfd3cfe8e7cb7f48",
   locationSource: "saved:UT, Cedar City",
+  createdAt: "2026-06-30T23:45:05.698Z",
+  updatedAt: "2026-09-15T17:20:00.000Z",
 } as const satisfies Location

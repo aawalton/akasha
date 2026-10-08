@@ -6,4 +6,6 @@ export const alanwaltonSafetyLevelWidget = {
   slug: "alanwalton-safety-level-widget",
   definition: "Alan's tile for his safety level",
   swift: "swift",
+  createdAt: "2026-08-31T14:24:50.651Z",
+  updatedAt: "2026-09-15T17:16:48.000Z",
 } as const satisfies IosComponent

@@ -7,4 +7,6 @@ export const elinWanderingInnWiki = {
   domain: "domain/wandering-inn-wiki",
   persona: "persona/elin",
   intentStack: [],
+  createdAt: "2026-09-19T03:01:12.445Z",
+  updatedAt: "2026-09-22T00:27:39.000Z",
 } as const satisfies Initiative

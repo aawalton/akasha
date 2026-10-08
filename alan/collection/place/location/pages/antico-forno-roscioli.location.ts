@@ -12,4 +12,6 @@ export const anticoFornoRoscioli = {
   sourceUrl:
     "https://www.google.com/maps/place/Antico+Forno+Roscioli/data=!4m2!3m1!1s0x132f604f33e1bc1f:0xefe9c24bc22bb313",
   locationSource: "saved:Rome, Italy; saved:Favorite places",
+  createdAt: "2026-06-30T23:45:05.435Z",
+  updatedAt: "2026-09-15T17:20:00.000Z",
 } as const satisfies Location

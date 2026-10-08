@@ -13,4 +13,6 @@ export const learnEverythingTopic06MechanicsOfParticlesRigidAndDeformableBodiesE
       "learn-everything-topic/learn-everything-topic-02-energy-radiation-and-states-of-matter",
     ],
     integration: "md",
+    createdAt: "2026-09-03T05:04:00.589Z",
+    updatedAt: "2026-09-15T17:18:39.000Z",
   } as const satisfies LearnEverythingTopic

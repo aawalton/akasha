@@ -40,4 +40,6 @@ export const smilingjennyUpkeepStoplightsWidget = {
       statement: "Jenny's app holds no page for the upkeep.",
     },
   ],
+  createdAt: "2026-09-10T15:30:45.659Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies IosComponent

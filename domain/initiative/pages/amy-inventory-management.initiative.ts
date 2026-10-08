@@ -21,4 +21,6 @@ export const amyInventoryManagement = {
         "Buy shortfall buys guild store stacks within the shortfall, at most TTC's suggested price.",
     },
   ],
+  createdAt: "2026-09-26T15:25:47.417Z",
+  updatedAt: "2026-09-27T13:32:25.000Z",
 } as const satisfies Initiative

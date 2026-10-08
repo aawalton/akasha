@@ -11,4 +11,6 @@ export const angies = {
   sourceUrl:
     "https://www.google.com/maps/place/Angie's/data=!4m2!3m1!1s0x87547de0928c68e7:0x93e8dcbab5085955",
   locationSource: "saved:Ut, Logan",
+  createdAt: "2026-06-30T23:45:05.805Z",
+  updatedAt: "2026-09-15T17:20:00.000Z",
 } as const satisfies Location

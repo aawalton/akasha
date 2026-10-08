@@ -8,4 +8,6 @@ export const imageFfedb705ac180859 = {
   settingTags: ["setting-tag/cave", "setting-tag/dimly-lit"],
   poseTags: ["pose-tag/floating"],
   fantasyTags: ["fantasy-tag/demon", "fantasy-tag/monster-girl", "fantasy-tag/gothic"],
+  createdAt: "2026-09-21T21:51:38.405Z",
+  updatedAt: "2026-09-27T15:50:48.000Z",
 } as const satisfies Image

@@ -160,4 +160,6 @@ export const dallaResourceManagement = {
     "Adding a mechanism requires Alan's approval.",
     "Setting specific numbers requires Alan's approval.",
   ],
+  createdAt: "2026-09-11T16:15:38.782Z",
+  updatedAt: "2026-09-25T21:58:04.000Z",
 } as const satisfies Initiative

@@ -11,4 +11,6 @@ export const bodyBalanceMassageAndFloatAmericanFork = {
   longitude: -111.7857619,
   sourcePlaceId: "ssc:loc:body-balance-massage-and-float:american-fork",
   locationSource: "starving-student-card",
+  createdAt: "2026-07-05T12:06:49.519Z",
+  updatedAt: "2026-09-15T17:20:00.000Z",
 } as const satisfies Location

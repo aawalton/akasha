@@ -20,4 +20,6 @@ export const smilingjennyCategorizeWidget = {
       statement: "Jenny's categorize tile is compiled by a build to a device and by nothing else.",
     },
   ],
+  createdAt: "2026-08-31T14:24:50.653Z",
+  updatedAt: "2026-09-24T22:23:17.000Z",
 } as const satisfies IosComponent

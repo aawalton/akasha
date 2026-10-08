@@ -7,4 +7,6 @@ export const traceCapturedAt = {
   propertySlug: "captured-at",
   definition: "when the device fixed this position",
   types: "ts",
+  createdAt: "2026-09-03T21:38:23.028Z",
+  updatedAt: "2026-09-21T19:18:52.000Z",
 } as const satisfies InstantProperty

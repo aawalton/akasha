@@ -7,4 +7,6 @@ export const lastTappedAt = {
   propertySlug: "last-tapped-at",
   definition: "when a widget was last tapped",
   types: "ts",
+  createdAt: "2026-09-06T21:27:27.750Z",
+  updatedAt: "2026-09-15T17:15:46.000Z",
 } as const satisfies InstantProperty

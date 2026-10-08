@@ -6,4 +6,6 @@ export const renderHarnessFamilies = {
   slug: "render-harness-families",
   definition: "a case's widget families",
   swift: "swift",
+  createdAt: "2026-08-31T14:51:05.727Z",
+  updatedAt: "2026-09-22T13:44:00.000Z",
 } as const satisfies IosHarness

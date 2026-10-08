@@ -22,4 +22,6 @@ export const storyOpensAt = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-28T12:15:26.251Z",
+  updatedAt: "2026-09-28T12:15:36.000Z",
 } as const satisfies InstantProperty

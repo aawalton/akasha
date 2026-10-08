@@ -7,4 +7,6 @@ export const sevenDayStartedAt = {
   propertySlug: "seven-day-started-at",
   definition: "when the seven-day window opened",
   types: "ts",
+  createdAt: "2026-08-30T22:44:04.537Z",
+  updatedAt: "2026-09-15T17:15:46.000Z",
 } as const satisfies InstantProperty

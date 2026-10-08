@@ -11,4 +11,6 @@ export const imageFade559e6e33584a = {
   wardrobeTags: ["wardrobe-tag/lingerie", "wardrobe-tag/partial-undress"],
   ethnicityTags: ["ethnicity-tag/white"],
   ageTags: ["age-tag/age-25-34"],
+  createdAt: "2026-09-21T21:52:02.384Z",
+  updatedAt: "2026-09-27T15:52:40.000Z",
 } as const satisfies Image

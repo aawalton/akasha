@@ -11,4 +11,6 @@ export const andersenBakery = {
   sourceUrl:
     "https://www.google.com/maps/place/Andersen+Bakery/data=!4m2!3m1!1s0x4652530d731eb667:0x421b0fb5b128311",
   locationSource: "saved:Denmark",
+  createdAt: "2026-06-30T23:45:05.404Z",
+  updatedAt: "2026-09-15T17:20:00.000Z",
 } as const satisfies Location

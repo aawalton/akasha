@@ -11,4 +11,6 @@ export const auntieAnnesDraper = {
   longitude: -111.8627989,
   sourcePlaceId: "ssc:loc:auntie-annes:draper",
   locationSource: "starving-student-card",
+  createdAt: "2026-07-05T12:06:49.411Z",
+  updatedAt: "2026-09-15T17:20:00.000Z",
 } as const satisfies Location

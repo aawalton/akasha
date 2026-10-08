@@ -11,4 +11,6 @@ export const arcoDeTriunfoDeBarcelona = {
   sourceUrl:
     "https://www.google.com/maps/place/Arco+de+Triunfo+de+Barcelona/data=!4m2!3m1!1s0x12a4a2e3366a76a1:0xa9fe2baff53795b1",
   locationSource: "saved:Barcelona, Spain",
+  createdAt: "2026-06-30T23:45:05.644Z",
+  updatedAt: "2026-09-15T17:20:00.000Z",
 } as const satisfies Location

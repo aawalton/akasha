@@ -7,4 +7,6 @@ export const happenedAt = {
   propertySlug: "happened-at",
   definition: "when what the entry records took place",
   types: "ts",
+  createdAt: "2026-09-03T05:00:04.619Z",
+  updatedAt: "2026-09-15T17:15:46.000Z",
 } as const satisfies InstantProperty

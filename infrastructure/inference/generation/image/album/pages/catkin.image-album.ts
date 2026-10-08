@@ -5,4 +5,6 @@ export const catkin = {
   type: "page-type/image-album",
   slug: "catkin",
   title: "Catkin",
+  createdAt: "2026-10-05T19:08:14.256Z",
+  updatedAt: "2026-10-05T19:08:20.000Z",
 } as const satisfies ImageAlbum

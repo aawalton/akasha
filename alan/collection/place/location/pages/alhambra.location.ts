@@ -12,4 +12,6 @@ export const alhambra = {
   sourceUrl:
     "https://www.google.com/maps/place/Alhambra/data=!4m2!3m1!1s0xd71fcb7977fb93b:0x808dd1ef1221a27f",
   locationSource: "saved:Madrid, Spain",
+  createdAt: "2026-06-30T23:45:05.397Z",
+  updatedAt: "2026-09-15T17:20:00.000Z",
 } as const satisfies Location

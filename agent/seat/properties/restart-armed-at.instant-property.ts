@@ -7,4 +7,6 @@ export const restartArmedAt = {
   propertySlug: "armed-at",
   definition: "when work was sent to a seat's supervisor",
   types: "ts",
+  createdAt: "2026-08-30T19:36:58.510Z",
+  updatedAt: "2026-09-25T18:07:55.000Z",
 } as const satisfies InstantProperty

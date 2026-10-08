@@ -10,4 +10,6 @@ export const chanceysHouse = {
   longitude: -122.04453729999999,
   sourcePlaceId: "takeout:chancey-s-house:5305-221st-ave-ne-redmond-wa-98053-usa",
   locationSource: "labeled",
+  createdAt: "2026-06-30T23:45:05.863Z",
+  updatedAt: "2026-09-15T17:20:22.000Z",
 } as const satisfies Location

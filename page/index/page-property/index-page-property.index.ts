@@ -52,4 +52,6 @@ export const indexPageProperty = {
       statement: "A page with an identifier another page already has does not land.",
     },
   ],
+  createdAt: "2026-09-15T13:59:02.008Z",
+  updatedAt: "2026-09-25T15:07:25.000Z",
 } as const satisfies Index

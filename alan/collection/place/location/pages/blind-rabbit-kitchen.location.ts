@@ -12,4 +12,6 @@ export const blindRabbitKitchen = {
   sourceUrl:
     "https://www.google.com/maps/place/Blind+Rabbit+Kitchen/data=!4m2!3m1!1s0x87528bbc07fdb839:0x33a8f458ad59e211",
   locationSource: "saved:UT, SLC",
+  createdAt: "2026-07-01T01:26:58.484Z",
+  updatedAt: "2026-09-15T17:20:00.000Z",
 } as const satisfies Location

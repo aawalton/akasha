@@ -11,4 +11,6 @@ export const belemTower = {
   sourceUrl:
     "https://www.google.com/maps/place/Bel%C3%A9m+Tower/data=!4m2!3m1!1s0xd1ecb42c3c29c4b:0x3002dcadcf52513f",
   locationSource: "saved:Lisbon, Portugal",
+  createdAt: "2026-06-30T23:45:05.738Z",
+  updatedAt: "2026-09-15T17:20:00.000Z",
 } as const satisfies Location

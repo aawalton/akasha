@@ -49,4 +49,6 @@ export const timelineChecks = {
       statement: "This component is compiled by the harnesses rather than by either app.",
     },
   ],
+  createdAt: "2026-09-10T17:54:59.317Z",
+  updatedAt: "2026-09-24T22:23:44.000Z",
 } as const satisfies IosComponent

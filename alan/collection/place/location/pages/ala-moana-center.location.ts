@@ -11,4 +11,6 @@ export const alaMoanaCenter = {
   sourceUrl:
     "https://www.google.com/maps/place/Ala+Moana+Center/data=!4m2!3m1!1s0x7c006df0ab626f53:0x227f311d471df768",
   locationSource: "saved:Oahu, Hawaii",
+  createdAt: "2026-07-01T01:26:57.979Z",
+  updatedAt: "2026-09-15T17:20:00.000Z",
 } as const satisfies Location

@@ -5,4 +5,6 @@ export const hands = {
   type: "page-type/item-slot",
   slug: "hands",
   title: "Hands",
+  createdAt: "2026-09-22T18:00:25.288Z",
+  updatedAt: "2026-09-26T17:47:23.000Z",
 } as const satisfies ItemSlot

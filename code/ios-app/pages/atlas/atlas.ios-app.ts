@@ -31,4 +31,6 @@ export const atlas = {
     "shell-script/atlas-ios-add",
     "shell-script/atlas-ios-seam",
   ],
+  createdAt: "2026-09-03T03:43:46.768Z",
+  updatedAt: "2026-09-23T05:03:03.000Z",
 } as const satisfies IosApp

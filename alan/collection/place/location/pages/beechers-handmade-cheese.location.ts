@@ -12,4 +12,6 @@ export const beechersHandmadeCheese = {
   sourceUrl:
     "https://www.google.com/maps/place/Beecher's+Handmade+Cheese/data=!4m2!3m1!1s0x54906ab2c23fc3f9:0x29fb779f6f4fcff9",
   locationSource: "saved:Washington State",
+  createdAt: "2026-06-30T23:45:05.186Z",
+  updatedAt: "2026-09-15T17:20:00.000Z",
 } as const satisfies Location

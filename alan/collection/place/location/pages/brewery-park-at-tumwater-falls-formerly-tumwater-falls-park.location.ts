@@ -11,4 +11,6 @@ export const breweryParkAtTumwaterFallsFormerlyTumwaterFallsPark = {
   sourceUrl:
     "https://www.google.com/maps/place/Brewery+Park+at+Tumwater+Falls+(formerly+Tumwater+Falls+Park)/data=!4m2!3m1!1s0x54917467c9823e4f:0x19880908a427452b",
   locationSource: "saved:Washington State",
+  createdAt: "2026-07-01T01:26:57.486Z",
+  updatedAt: "2026-09-15T17:20:00.000Z",
 } as const satisfies Location

@@ -50,4 +50,6 @@ export const fallingChecks = {
       statement: "This component is compiled by the harnesses rather than by either app.",
     },
   ],
+  createdAt: "2026-09-10T17:19:13.242Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies IosComponent

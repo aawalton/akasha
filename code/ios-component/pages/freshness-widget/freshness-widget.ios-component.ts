@@ -64,4 +64,6 @@ export const freshnessWidget = {
       statement: "This tile fetches nothing and says nothing about what a reading is.",
     },
   ],
+  createdAt: "2026-09-13T13:35:07.920Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies IosComponent

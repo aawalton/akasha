@@ -61,4 +61,6 @@ export const surplusRing = {
       statement: "The feed sends the rungs the feed used.",
     },
   ],
+  createdAt: "2026-08-30T21:10:09.886Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies IosComponent

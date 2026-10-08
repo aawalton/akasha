@@ -12,4 +12,6 @@ export const beppeAndHisCheeses = {
   sourceUrl:
     "https://www.google.com/maps/place/Beppe+and+His+Cheeses/data=!4m2!3m1!1s0x132f60493a882c05:0x772f82d96f3cca28",
   locationSource: "saved:Rome, Italy",
+  createdAt: "2026-07-01T01:26:58.226Z",
+  updatedAt: "2026-09-15T17:20:00.000Z",
 } as const satisfies Location

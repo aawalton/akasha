@@ -12,4 +12,6 @@ export const anniesCafe = {
   sourceUrl:
     "https://www.google.com/maps/place/Annie%E2%80%99s+Cafe/data=!4m2!3m1!1s0x8752f718569ee9f7:0x64fc4f2f3ed1ed9",
   locationSource: "saved:Want to go",
+  createdAt: "2026-06-30T23:45:05.256Z",
+  updatedAt: "2026-09-15T17:20:00.000Z",
 } as const satisfies Location

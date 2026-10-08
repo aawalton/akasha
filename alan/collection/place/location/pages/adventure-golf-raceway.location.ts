@@ -11,4 +11,6 @@ export const adventureGolfRaceway = {
   sourceUrl:
     "https://www.google.com/maps/place/Adventure+Golf+%26+Raceway/data=!4m2!3m1!1s0x876b89e9eb40ebbf:0x9bb82544c6565b54",
   locationSource: "saved:Want to go",
+  createdAt: "2026-07-01T01:26:57.951Z",
+  updatedAt: "2026-09-15T17:20:00.000Z",
 } as const satisfies Location

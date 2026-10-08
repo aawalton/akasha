@@ -11,4 +11,6 @@ export const bremertonFerryDock = {
   sourceUrl:
     "https://www.google.com/maps/place/Bremerton+Ferry+Dock/data=!4m2!3m1!1s0x549037936f122ccf:0xb7e09dc0858fdfb1",
   locationSource: "saved:Washington State",
+  createdAt: "2026-07-01T01:26:57.541Z",
+  updatedAt: "2026-09-15T17:20:00.000Z",
 } as const satisfies Location

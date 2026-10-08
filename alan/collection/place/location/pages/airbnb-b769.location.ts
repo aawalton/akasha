@@ -10,4 +10,6 @@ export const airbnbB769 = {
   longitude: 12.3370325,
   sourcePlaceId: "takeout:airbnb:calle-dei-stagneri-o-de-la-fava-5208-30124-venezia-ve-italy",
   locationSource: "labeled",
+  createdAt: "2026-06-30T23:45:05.843Z",
+  updatedAt: "2026-09-15T17:20:00.000Z",
 } as const satisfies Location

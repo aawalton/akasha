@@ -7,4 +7,6 @@ export const runCompletedAt = {
   propertySlug: "run-completed-at",
   definition: "when a pull stopped, whether it finished or died",
   types: "ts",
+  createdAt: "2026-09-03T17:47:25.668Z",
+  updatedAt: "2026-09-15T17:15:46.000Z",
 } as const satisfies InstantProperty

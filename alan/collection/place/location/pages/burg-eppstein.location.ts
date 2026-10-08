@@ -12,4 +12,6 @@ export const burgEppstein = {
   sourceUrl:
     "https://www.google.com/maps/place/Burg+Eppstein/data=!4m2!3m1!1s0x47bda490d850ba09:0x4f521376986d0140",
   locationSource: "saved:Frankfurt, Germany",
+  createdAt: "2026-07-01T01:26:58.856Z",
+  updatedAt: "2026-09-15T17:20:00.000Z",
 } as const satisfies Location

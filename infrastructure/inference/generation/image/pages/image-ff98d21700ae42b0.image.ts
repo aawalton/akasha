@@ -27,4 +27,6 @@ export const imageFf98d21700ae42b0 = {
   fantasyTags: ["fantasy-tag/historical"],
   ethnicityTags: ["ethnicity-tag/white"],
   ageTags: ["age-tag/age-18-24"],
+  createdAt: "2026-06-30T11:09:58.391Z",
+  updatedAt: "2026-09-27T15:52:40.000Z",
 } as const satisfies Image

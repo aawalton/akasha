@@ -11,4 +11,6 @@ export const casaVicensGaudi = {
   sourceUrl:
     "https://www.google.com/maps/place/Casa+Vicens+Gaud%C3%AD/data=!4m2!3m1!1s0x12a4a2a2323480a1:0xcef2071fd9460247",
   locationSource: "saved:Barcelona, Spain",
+  createdAt: "2026-07-01T01:26:58.754Z",
+  updatedAt: "2026-09-15T17:20:00.000Z",
 } as const satisfies Location

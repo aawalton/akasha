@@ -7,4 +7,6 @@ export const lastFullScanAt = {
   propertySlug: "last-full-scan-at",
   definition: "when the last sweep of every bag finished",
   types: "ts",
+  createdAt: "2026-09-03T13:00:08.452Z",
+  updatedAt: "2026-09-21T15:29:06.000Z",
 } as const satisfies InstantProperty

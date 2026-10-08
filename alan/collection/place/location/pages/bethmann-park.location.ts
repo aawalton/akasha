@@ -11,4 +11,6 @@ export const bethmannPark = {
   sourceUrl:
     "https://www.google.com/maps/place/Bethmann+Park/data=!4m2!3m1!1s0x47bd0ebc8f2f7b5d:0x8f32e545e53b1cec",
   locationSource: "saved:Frankfurt, Germany",
+  createdAt: "2026-06-30T23:45:05.681Z",
+  updatedAt: "2026-09-15T17:20:00.000Z",
 } as const satisfies Location

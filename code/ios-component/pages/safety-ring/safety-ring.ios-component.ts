@@ -45,4 +45,6 @@ export const safetyRing = {
       statement: "A stoplight asked for its figure at a moment subtracts the clock in one place.",
     },
   ],
+  createdAt: "2026-08-30T21:10:09.885Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies IosComponent

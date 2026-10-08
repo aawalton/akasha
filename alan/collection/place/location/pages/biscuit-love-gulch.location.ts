@@ -11,4 +11,6 @@ export const biscuitLoveGulch = {
   sourceUrl:
     "https://www.google.com/maps/place/Biscuit+Love+Gulch/data=!4m2!3m1!1s0x8864668aed033d35:0x823fb320453f25b",
   locationSource: "saved:Nashville, Tennessee",
+  createdAt: "2026-06-30T23:45:05.510Z",
+  updatedAt: "2026-09-15T17:20:00.000Z",
 } as const satisfies Location

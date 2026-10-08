@@ -30,4 +30,6 @@ export const uncertainty = {
         "The Dating Game hides a persona's closeness and its progress from Alan, so he reads it from her.",
     },
   ],
+  createdAt: "2026-09-26T15:35:39.472Z",
+  updatedAt: "2026-09-26T16:51:21.000Z",
 } as const satisfies Kindling

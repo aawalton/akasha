@@ -42,4 +42,6 @@ export const indexPage = {
       statement: "An identifier unique within anything narrower is filed nowhere here.",
     },
   ],
+  createdAt: "2026-09-15T13:59:02.007Z",
+  updatedAt: "2026-09-25T15:07:25.000Z",
 } as const satisfies Index

@@ -11,4 +11,6 @@ export const calleDelleOstreghe2442 = {
   sourceUrl:
     "https://www.google.com/maps/place/Calle+delle+Ostreghe,+2442/data=!4m2!3m1!1s0x477eb1d110b24c6b:0x6015cd9ffedbd07c",
   locationSource: "saved:Venice, Italy",
+  createdAt: "2026-06-30T23:45:05.561Z",
+  updatedAt: "2026-09-15T17:20:00.000Z",
 } as const satisfies Location

@@ -22,4 +22,6 @@ export const updatedAt = {
     },
   ],
   types: "ts",
+  createdAt: "2026-10-08T14:54:22.914Z",
+  updatedAt: "2026-10-08T14:56:20.000Z",
 } as const satisfies InstantProperty

@@ -11,4 +11,6 @@ export const bruderGrimmMuseumKassel = {
   sourceUrl:
     "https://www.google.com/maps/place/Br%C3%BCder+Grimm-Museum+Kassel/data=!4m2!3m1!1s0x47bb3f527ebd405b:0x34f254b9dbd4f39e",
   locationSource: "saved:Frankfurt, Germany",
+  createdAt: "2026-07-01T01:26:58.872Z",
+  updatedAt: "2026-09-15T17:20:00.000Z",
 } as const satisfies Location

@@ -56,4 +56,6 @@ export const tier = {
       statement: "This placing and the server's are held together by the harness alone.",
     },
   ],
+  createdAt: "2026-08-30T21:10:09.887Z",
+  updatedAt: "2026-09-24T22:23:44.000Z",
 } as const satisfies IosComponent

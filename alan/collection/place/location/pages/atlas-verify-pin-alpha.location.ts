@@ -8,4 +8,6 @@ export const atlasVerifyPinAlpha = {
   address: "Seattle WA",
   latitude: 47.6062,
   longitude: -122.3321,
+  createdAt: "2026-06-30T14:22:16.809Z",
+  updatedAt: "2026-09-15T17:20:00.000Z",
 } as const satisfies Location

@@ -11,4 +11,6 @@ export const aquedutoDasAguasLivres = {
   sourceUrl:
     "https://www.google.com/maps/place/Aqueduto+das+%C3%81guas+Livres/data=!4m2!3m1!1s0xd1933698eb073c3:0x861320290bfda54b",
   locationSource: "saved:Lisbon, Portugal",
+  createdAt: "2026-06-30T23:45:05.726Z",
+  updatedAt: "2026-09-15T17:20:00.000Z",
 } as const satisfies Location

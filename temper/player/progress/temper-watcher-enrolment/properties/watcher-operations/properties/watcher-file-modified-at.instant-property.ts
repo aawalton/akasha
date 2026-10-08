@@ -7,4 +7,6 @@ export const watcherFileModifiedAt = {
   propertySlug: "file-modified-at",
   definition: "when the game last wrote the file a watcher's import read",
   types: "ts",
+  createdAt: "2026-09-25T13:13:40.806Z",
+  updatedAt: "2026-09-25T13:13:45.000Z",
 } as const satisfies InstantProperty

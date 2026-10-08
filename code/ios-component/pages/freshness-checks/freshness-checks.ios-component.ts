@@ -49,4 +49,6 @@ export const freshnessChecks = {
       statement: "This component is compiled by the harnesses rather than by either app.",
     },
   ],
+  createdAt: "2026-09-13T15:02:23.453Z",
+  updatedAt: "2026-09-24T22:23:01.000Z",
 } as const satisfies IosComponent

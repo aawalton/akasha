@@ -11,4 +11,6 @@ export const casteloDeSJorge = {
   sourceUrl:
     "https://www.google.com/maps/place/Castelo+de+S.+Jorge/data=!4m2!3m1!1s0xd193477b40ec39b:0xb4c0704199e433d7",
   locationSource: "saved:Lisbon, Portugal",
+  createdAt: "2026-06-30T23:45:05.739Z",
+  updatedAt: "2026-09-15T17:20:00.000Z",
 } as const satisfies Location

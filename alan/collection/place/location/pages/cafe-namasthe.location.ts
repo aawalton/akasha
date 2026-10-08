@@ -13,4 +13,6 @@ export const cafeNamasthe = {
   sourceUrl:
     "https://www.google.com/maps/place/Cafe+Namasthe/data=!4m2!3m1!1s0x874d81f5280f5ad1:0x1e9110da58da159a",
   locationSource: "saved:UT, Utah County",
+  createdAt: "2026-06-30T23:45:05.541Z",
+  updatedAt: "2026-09-15T17:20:00.000Z",
 } as const satisfies Location

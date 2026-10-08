@@ -11,4 +11,6 @@ export const bloemenmarkt = {
   sourceUrl:
     "https://www.google.com/maps/place/Bloemenmarkt/data=!4m2!3m1!1s0x47c609c1d6283369:0xaf047b3038903b7e",
   locationSource: "saved:Netherlands",
+  createdAt: "2026-06-30T23:45:05.593Z",
+  updatedAt: "2026-09-15T17:20:00.000Z",
 } as const satisfies Location

@@ -21,4 +21,6 @@ export const imageFf7ad4582ccd6fb1 = {
   wardrobeTags: ["wardrobe-tag/saree", "wardrobe-tag/shirt", "wardrobe-tag/jewelry"],
   ethnicityTags: ["ethnicity-tag/south-asian"],
   ageTags: ["age-tag/age-25-34"],
+  createdAt: "2026-07-12T20:18:49.271Z",
+  updatedAt: "2026-09-27T15:52:40.000Z",
 } as const satisfies Image

@@ -5,4 +5,6 @@ export const waist = {
   type: "page-type/item-slot",
   slug: "waist",
   title: "Waist",
+  createdAt: "2026-09-22T18:00:28.321Z",
+  updatedAt: "2026-09-26T17:47:23.000Z",
 } as const satisfies ItemSlot

@@ -40,4 +40,6 @@ export const ring = {
       statement: "A moment already gone is counted up from rather than held at nothing.",
     },
   ],
+  createdAt: "2026-08-30T21:10:09.884Z",
+  updatedAt: "2026-09-22T13:48:28.000Z",
 } as const satisfies IosComponent

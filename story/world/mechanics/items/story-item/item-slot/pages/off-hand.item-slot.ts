@@ -5,4 +5,6 @@ export const offHand = {
   type: "page-type/item-slot",
   slug: "off-hand",
   title: "Off Hand",
+  createdAt: "2026-09-22T18:00:59.202Z",
+  updatedAt: "2026-09-26T17:47:23.000Z",
 } as const satisfies ItemSlot

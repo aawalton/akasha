@@ -8,4 +8,6 @@ export const beatSaberAerobicExercise = {
   startDate: "2026-01-01",
   lifeThemeStatus: "in-progress",
   lifeThemeValue: "value/health",
+  createdAt: "2026-04-22T12:39:34.050Z",
+  updatedAt: "2026-09-15T17:19:00.000Z",
 } as const satisfies LifeTheme

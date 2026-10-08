@@ -12,4 +12,6 @@ export const learnEverythingTopic02AncientEuropeAndClassicalCivilizationsOfTheMe
     partOf: [
       "learn-everything-topic/learn-everything-topic-01-ancient-southwest-asia-north-africa-and-europe",
     ],
+    createdAt: "2026-09-03T05:04:00.599Z",
+    updatedAt: "2026-09-15T17:18:14.000Z",
   } as const satisfies LearnEverythingTopic

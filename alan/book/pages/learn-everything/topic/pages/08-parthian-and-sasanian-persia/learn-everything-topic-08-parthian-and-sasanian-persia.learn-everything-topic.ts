@@ -11,4 +11,6 @@ export const learnEverythingTopic08ParthianAndSasanianPersia = {
   partOf: [
     "learn-everything-topic/learn-everything-topic-01-ancient-southwest-asia-and-egypt-the-aegean-and-north-africa",
   ],
+  createdAt: "2026-09-03T05:04:00.599Z",
+  updatedAt: "2026-09-15T17:18:39.000Z",
 } as const satisfies LearnEverythingTopic

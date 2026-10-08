@@ -7,4 +7,6 @@ export const completedAt = {
   propertySlug: "completed-at",
   definition: "when a task was marked done",
   types: "ts",
+  createdAt: "2026-09-02T01:54:36.000Z",
+  updatedAt: "2026-09-21T15:33:05.000Z",
 } as const satisfies InstantProperty

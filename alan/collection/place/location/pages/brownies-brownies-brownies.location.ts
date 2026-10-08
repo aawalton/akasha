@@ -12,4 +12,6 @@ export const browniesBrowniesBrownies = {
   sourceUrl:
     "https://www.google.com/maps/place/BROWNIES!+BROWNIES!+BROWNIES!/data=!4m2!3m1!1s0x87528b82cbdc6f23:0x98528deb08c0987f",
   locationSource: "saved:Want to go",
+  createdAt: "2026-06-30T23:45:05.338Z",
+  updatedAt: "2026-09-15T17:20:00.000Z",
 } as const satisfies Location

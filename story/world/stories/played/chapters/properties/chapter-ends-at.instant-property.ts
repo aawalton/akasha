@@ -17,4 +17,6 @@ export const chapterEndsAt = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-28T12:16:55.469Z",
+  updatedAt: "2026-09-28T12:17:04.000Z",
 } as const satisfies InstantProperty

@@ -11,4 +11,6 @@ export const berlinTegelAirportTxl = {
   sourceUrl:
     "https://www.google.com/maps/place/Berlin-Tegel+Airport+(TXL)/data=!4m2!3m1!1s0x47a8573e539fd969:0xb32cd8cd47745946",
   locationSource: "saved:Berlin, Germany",
+  createdAt: "2026-07-01T01:26:58.042Z",
+  updatedAt: "2026-09-15T17:20:00.000Z",
 } as const satisfies Location

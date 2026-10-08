@@ -8,4 +8,6 @@ export const readTheWanderingInn = {
   startDate: "2020-01-01",
   lifeThemeStatus: "up-next",
   lifeThemeValue: "value/fun",
+  createdAt: "2026-04-22T12:39:34.050Z",
+  updatedAt: "2026-09-15T17:19:00.000Z",
 } as const satisfies LifeTheme

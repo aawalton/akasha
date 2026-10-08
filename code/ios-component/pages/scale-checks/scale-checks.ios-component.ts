@@ -41,4 +41,6 @@ export const scaleChecks = {
       statement: "This component is compiled by the harnesses rather than by either app.",
     },
   ],
+  createdAt: "2026-09-10T17:35:02.956Z",
+  updatedAt: "2026-09-24T22:23:01.000Z",
 } as const satisfies IosComponent

@@ -29,4 +29,6 @@ export const deployRefusedAt = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-12T13:24:40.904Z",
+  updatedAt: "2026-09-24T19:06:05.000Z",
 } as const satisfies InstantProperty

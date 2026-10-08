@@ -49,4 +49,6 @@ export const idleLiveSeat = {
       statement: "A seat can end its turn having narrated an act that seat never took.",
     },
   ],
+  createdAt: "2026-09-03T17:48:09.134Z",
+  updatedAt: "2026-09-25T17:56:43.000Z",
 } as const satisfies List

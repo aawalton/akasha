@@ -11,4 +11,6 @@ export const borgundStaveChurch = {
   sourceUrl:
     "https://www.google.com/maps/place/Borgund+Stave+Church/data=!4m2!3m1!1s0x463e2901a1283115:0xd0fb3da54a49a658",
   locationSource: "saved:Norway",
+  createdAt: "2026-07-01T01:26:59.131Z",
+  updatedAt: "2026-09-15T17:20:00.000Z",
 } as const satisfies Location

@@ -7,4 +7,6 @@ export const cutAt = {
   propertySlug: "cut-at",
   definition: "when a cut was taken",
   types: "ts",
+  createdAt: "2026-09-03T17:42:47.583Z",
+  updatedAt: "2026-09-15T17:15:46.000Z",
 } as const satisfies InstantProperty

@@ -12,4 +12,6 @@ export const aquascope = {
   sourceUrl:
     "https://www.google.com/maps/place/Aquascope/data=!4m2!3m1!1s0x47fdbd4834180ced:0x87ea688873c2c9af",
   locationSource: "saved:Want to go",
+  createdAt: "2026-06-30T23:45:05.202Z",
+  updatedAt: "2026-09-15T17:20:00.000Z",
 } as const satisfies Location

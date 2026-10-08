@@ -11,4 +11,6 @@ export const learnEverythingTopic05ToltecTula = {
   partOf: [
     "learn-everything-topic/learn-everything-topic-02-meso-american-civilization-to-ad-1540",
   ],
+  createdAt: "2026-09-03T05:04:00.602Z",
+  updatedAt: "2026-09-15T17:18:39.000Z",
 } as const satisfies LearnEverythingTopic

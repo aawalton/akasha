@@ -12,4 +12,6 @@ export const alanwaltonClaudeUsageWidget = {
       statement: "This file has the bundle Alan's widget extension starts at.",
     },
   ],
+  createdAt: "2026-08-31T14:24:50.650Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies IosComponent

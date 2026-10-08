@@ -11,4 +11,6 @@ export const blacksmithIceCreamCoD49c = {
   sourceUrl:
     "https://www.google.com/maps/place/Blacksmith+Ice+Cream+Co./data=!4m2!3m1!1s0x875261c21b00f2cb:0xd7743ad90586ccee",
   locationSource: "saved:UT, SLC; saved:Austin, Texas",
+  createdAt: "2026-07-01T01:26:58.487Z",
+  updatedAt: "2026-09-15T17:20:00.000Z",
 } as const satisfies Location

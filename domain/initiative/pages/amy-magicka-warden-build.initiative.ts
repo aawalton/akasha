@@ -99,4 +99,6 @@ export const amyMagickaWardenBuild = {
     },
   ],
   constraints: ["Update 51 changes Mundus Stones, buffs and class passives on September 28, 2026."],
+  createdAt: "2026-09-26T15:13:57.144Z",
+  updatedAt: "2026-09-26T15:25:15.000Z",
 } as const satisfies Initiative

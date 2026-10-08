@@ -10,4 +10,6 @@ export const airbnb1782 = {
   longitude: -86.7798993,
   sourcePlaceId: "takeout:airbnb:2118-elliott-ave-nashville-tn-37204-usa",
   locationSource: "labeled",
+  createdAt: "2026-06-30T23:45:05.871Z",
+  updatedAt: "2026-09-15T17:20:00.000Z",
 } as const satisfies Location

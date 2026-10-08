@@ -11,4 +11,6 @@ export const brodysMexicanRestaurant = {
   sourceUrl:
     "https://www.google.com/maps/place/Brody's+Mexican+Restaurant/data=!4m2!3m1!1s0x80b561ef8e823315:0x556f62d23dc5c4a6",
   locationSource: "saved:UT, Cedar City",
+  createdAt: "2026-06-30T23:45:05.692Z",
+  updatedAt: "2026-09-15T17:20:00.000Z",
 } as const satisfies Location

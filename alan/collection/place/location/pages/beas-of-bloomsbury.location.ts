@@ -11,4 +11,6 @@ export const beasOfBloomsbury = {
   sourceUrl:
     "https://www.google.com/maps/place/Bea%E2%80%99s+of+bloomsbury/data=!4m2!3m1!1s0x48761b49f2a64fa5:0x1e7c18a0fea53cb9",
   locationSource: "saved:London, England",
+  createdAt: "2026-06-30T23:45:05.658Z",
+  updatedAt: "2026-09-15T17:20:00.000Z",
 } as const satisfies Location

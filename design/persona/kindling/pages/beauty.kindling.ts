@@ -33,4 +33,6 @@ export const beauty = {
       statement: "Each persona is beautiful in a way her own, so no two share a face.",
     },
   ],
+  createdAt: "2026-09-26T15:34:41.319Z",
+  updatedAt: "2026-09-26T15:40:13.000Z",
 } as const satisfies Kindling

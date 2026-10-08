@@ -6,4 +6,6 @@ export const renderHarnessRendering = {
   slug: "render-harness-rendering",
   definition: "the turn of a view into an image",
   swift: "swift",
+  createdAt: "2026-08-31T14:51:05.727Z",
+  updatedAt: "2026-09-15T17:17:09.000Z",
 } as const satisfies IosHarness

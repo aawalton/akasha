@@ -5,4 +5,6 @@ export const feet = {
   type: "page-type/item-slot",
   slug: "feet",
   title: "Feet",
+  createdAt: "2026-09-22T18:00:34.443Z",
+  updatedAt: "2026-09-26T17:47:23.000Z",
 } as const satisfies ItemSlot

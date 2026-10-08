@@ -11,4 +11,6 @@ export const avisCarHireDublinCityCentre = {
   sourceUrl:
     "https://www.google.com/maps/place/Avis+Car+Hire+Dublin+City+Centre/data=!4m2!3m1!1s0x48670c45a589baa3:0x6ca0bc28edb88031",
   locationSource: "saved:Ireland",
+  createdAt: "2026-07-01T01:26:58.076Z",
+  updatedAt: "2026-09-15T17:20:00.000Z",
 } as const satisfies Location

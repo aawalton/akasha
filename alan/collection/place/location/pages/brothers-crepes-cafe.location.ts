@@ -11,4 +11,6 @@ export const brothersCrepesCafe = {
   sourceUrl:
     "https://www.google.com/maps/place/Brother%E2%80%99s+Cr%C3%AApes+%26+Caf%C3%A9/data=!4m2!3m1!1s0x47e66e43b8fc9d6b:0x288c1c2323b86245",
   locationSource: "saved:Paris, France",
+  createdAt: "2026-07-01T01:26:58.349Z",
+  updatedAt: "2026-09-15T17:20:00.000Z",
 } as const satisfies Location

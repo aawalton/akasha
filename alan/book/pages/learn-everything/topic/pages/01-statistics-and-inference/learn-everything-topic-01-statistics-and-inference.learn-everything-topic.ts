@@ -10,4 +10,6 @@ export const learnEverythingTopic01StatisticsAndInference = {
   status: "unopened",
   partOf: ["learn-everything-topic/learn-everything-topic-03-applications-of-mathematics"],
   integration: "md",
+  createdAt: "2026-09-03T05:04:00.603Z",
+  updatedAt: "2026-09-15T17:18:14.000Z",
 } as const satisfies LearnEverythingTopic

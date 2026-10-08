@@ -12,4 +12,6 @@ export const bigJuds = {
   sourceUrl:
     "https://www.google.com/maps/place/Big+Jud's/data=!4m2!3m1!1s0x535473e82827fbd5:0x96378a14f68b0698",
   locationSource: "saved:Idaho",
+  createdAt: "2026-06-30T23:45:05.818Z",
+  updatedAt: "2026-09-15T17:20:00.000Z",
 } as const satisfies Location

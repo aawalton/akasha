@@ -23,4 +23,6 @@ export const selfExpansion = {
       statement: "A persona who gives Alan no new ground to grow on goes stale for him.",
     },
   ],
+  createdAt: "2026-09-26T15:37:24.281Z",
+  updatedAt: "2026-09-26T16:02:28.000Z",
 } as const satisfies Kindling

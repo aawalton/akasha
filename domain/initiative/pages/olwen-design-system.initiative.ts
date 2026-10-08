@@ -12,4 +12,6 @@ export const olwenDesignSystem = {
         "A wiki page lists its properties the way a Notion page does, each under its kind's icon.",
     },
   ],
+  createdAt: "2026-09-21T15:24:48.134Z",
+  updatedAt: "2026-09-24T19:33:45.000Z",
 } as const satisfies Initiative

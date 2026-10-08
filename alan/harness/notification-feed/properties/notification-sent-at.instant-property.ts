@@ -7,4 +7,6 @@ export const notificationSentAt = {
   propertySlug: "sent-at",
   definition: "when a notification was pushed at the person",
   types: "ts",
+  createdAt: "2026-09-03T17:47:21.933Z",
+  updatedAt: "2026-09-15T17:15:46.000Z",
 } as const satisfies InstantProperty

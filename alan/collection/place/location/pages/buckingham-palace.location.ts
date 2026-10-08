@@ -11,4 +11,6 @@ export const buckinghamPalace = {
   sourceUrl:
     "https://www.google.com/maps/place/Buckingham+Palace/data=!4m2!3m1!1s0x48760520cd5b5eb5:0xa26abf514d902a7",
   locationSource: "saved:London, England",
+  createdAt: "2026-06-30T23:45:05.663Z",
+  updatedAt: "2026-09-15T17:20:00.000Z",
 } as const satisfies Location

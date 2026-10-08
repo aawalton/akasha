@@ -18,4 +18,6 @@ export const imageFc4112a1ccebf450 = {
   fantasyTags: ["fantasy-tag/surreal"],
   ethnicityTags: ["ethnicity-tag/white"],
   ageTags: ["age-tag/age-25-34"],
+  createdAt: "2026-08-17T11:56:07.801Z",
+  updatedAt: "2026-09-27T15:52:40.000Z",
 } as const satisfies Image

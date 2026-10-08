@@ -11,4 +11,6 @@ export const billundBakeryAndCafe = {
   sourceUrl:
     "https://www.google.com/maps/place/Billund+bakery+and+caf%C3%A9/data=!4m2!3m1!1s0x464b7178a1f37717:0xbfbcd1090a377fd2",
   locationSource: "saved:Denmark",
+  createdAt: "2026-07-01T01:26:58.140Z",
+  updatedAt: "2026-09-15T17:20:00.000Z",
 } as const satisfies Location

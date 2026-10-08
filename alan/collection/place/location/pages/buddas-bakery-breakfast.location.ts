@@ -12,4 +12,6 @@ export const buddasBakeryBreakfast = {
   sourceUrl:
     "https://www.google.com/maps/place/Budda's+Bakery+%26+Breakfast/data=!4m2!3m1!1s0x874d853ad86df1af:0x2c17a0f9a8aad114",
   locationSource: "saved:UT, Utah County",
+  createdAt: "2026-07-01T01:26:58.473Z",
+  updatedAt: "2026-09-15T17:20:00.000Z",
 } as const satisfies Location

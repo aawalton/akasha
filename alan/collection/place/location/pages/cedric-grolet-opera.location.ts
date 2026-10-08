@@ -13,4 +13,6 @@ export const cedricGroletOpera = {
   sourceUrl:
     "https://www.google.com/maps/place/C%C3%A9dric+Grolet+Op%C3%A9ra/data=!4m2!3m1!1s0x47e66f0c31ec0787:0xec70be4fbd091765",
   locationSource: "saved:Paris, France",
+  createdAt: "2026-06-30T23:45:05.473Z",
+  updatedAt: "2026-09-15T17:20:22.000Z",
 } as const satisfies Location

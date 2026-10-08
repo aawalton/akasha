@@ -16,4 +16,6 @@ export const renderHarness = {
       statement: "An app naming no components draws nothing.",
     },
   ],
+  createdAt: "2026-08-31T21:01:44.514Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies IosHarness

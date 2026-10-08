@@ -11,4 +11,6 @@ export const charlesDeGaulleAirport = {
   sourceUrl:
     "https://www.google.com/maps/place/Charles+de+Gaulle+Airport/data=!4m2!3m1!1s0x47e63e038e4ccf5b:0x42be0982f5ba62c",
   locationSource: "saved:Paris, France",
+  createdAt: "2026-07-01T01:26:58.357Z",
+  updatedAt: "2026-09-15T17:20:22.000Z",
 } as const satisfies Location

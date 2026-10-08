@@ -8,4 +8,6 @@ export const lastWindowTriggerAt = {
   definition: "when an allowance window was last opened by a call made to open it",
   decisions: [],
   types: "ts",
+  createdAt: "2026-08-30T22:44:04.537Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies InstantProperty

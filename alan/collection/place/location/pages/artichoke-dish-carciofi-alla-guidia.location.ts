@@ -11,4 +11,6 @@ export const artichokeDishCarciofiAllaGuidia = {
   sourcePlaceId:
     "takeout:artichoke-dish-carciofi-alla-guidia:nonna-betta-via-del-portico-d-ottavia-16-00186-roma-rm-italy",
   locationSource: "labeled",
+  createdAt: "2026-06-30T23:45:05.836Z",
+  updatedAt: "2026-09-15T17:20:00.000Z",
 } as const satisfies Location

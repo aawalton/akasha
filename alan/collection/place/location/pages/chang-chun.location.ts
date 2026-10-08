@@ -16,4 +16,6 @@ export const changChun = {
   sourceUrl: "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x66ed7a58972f1493",
   locationSource: "review",
   visited: true,
+  createdAt: "2026-06-30T23:45:06.117Z",
+  updatedAt: "2026-09-15T17:20:22.000Z",
 } as const satisfies Location

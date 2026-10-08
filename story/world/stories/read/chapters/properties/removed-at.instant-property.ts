@@ -14,4 +14,6 @@ export const removedAt = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-03T03:34:14.461Z",
+  updatedAt: "2026-09-19T18:25:57.000Z",
 } as const satisfies InstantProperty

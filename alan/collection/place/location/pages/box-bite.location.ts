@@ -12,4 +12,6 @@ export const boxBite = {
   sourceUrl:
     "https://www.google.com/maps/place/Box+Bite/data=!4m2!3m1!1s0x874d811e56f2a43b:0xec92bd8567a9a814",
   locationSource: "saved:UT, Utah County",
+  createdAt: "2026-06-30T23:45:05.540Z",
+  updatedAt: "2026-09-15T17:20:00.000Z",
 } as const satisfies Location

@@ -11,4 +11,6 @@ export const cascadeSprings = {
   sourceUrl:
     "https://www.google.com/maps/place/Cascade+Springs/data=!4m2!3m1!1s0x874d8a370f992b9d:0x6d4aa192cd21b772",
   locationSource: "saved:UT, Heber City",
+  createdAt: "2026-07-01T01:26:59.096Z",
+  updatedAt: "2026-09-15T17:20:00.000Z",
 } as const satisfies Location

@@ -11,4 +11,6 @@ export const byuBowlingGamesCenterUtahCounty = {
   longitude: -111.658,
   sourcePlaceId: "ssc:loc:byu-bowling-and-games-center:utah-county",
   locationSource: "starving-student-card",
+  createdAt: "2026-07-05T12:06:49.600Z",
+  updatedAt: "2026-09-15T17:20:00.000Z",
 } as const satisfies Location

@@ -32,4 +32,6 @@ export const widgetTapLink = {
       statement: "A tap on a widget's margin outside the button opens a link naming no tap.",
     },
   ],
+  createdAt: "2026-09-24T20:04:35.146Z",
+  updatedAt: "2026-09-24T20:20:45.000Z",
 } as const satisfies IosComponent

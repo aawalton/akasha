@@ -7,4 +7,6 @@ export const gmailProcessedAt = {
   propertySlug: "processed-at",
   definition: "when a mailbox settled what to do about a message",
   types: "ts",
+  createdAt: "2026-09-03T17:48:09.276Z",
+  updatedAt: "2026-09-15T17:15:46.000Z",
 } as const satisfies InstantProperty

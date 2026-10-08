@@ -26,4 +26,6 @@ export const alanwaltonCategorizeChecks = {
       statement: "This component is compiled by Alan's decode harness rather than by the app.",
     },
   ],
+  createdAt: "2026-09-24T22:31:43.704Z",
+  updatedAt: "2026-09-24T22:31:50.000Z",
 } as const satisfies IosComponent

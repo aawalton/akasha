@@ -17,4 +17,6 @@ export const nimueChapterNarration = {
     "The web pod has 512Mi of memory and makes no audio.",
     "Nothing writes narration audio to disk or to the object store.",
   ],
+  createdAt: "2026-10-05T20:21:49.674Z",
+  updatedAt: "2026-10-06T15:39:01.000Z",
 } as const satisfies Initiative

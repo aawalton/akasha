@@ -6,4 +6,6 @@ export const renderHarnessCasesSafety = {
   slug: "render-harness-cases-safety",
   definition: "the cases drawing the safety level tile",
   swift: "swift",
+  createdAt: "2026-08-31T14:51:05.726Z",
+  updatedAt: "2026-09-15T17:17:09.000Z",
 } as const satisfies IosHarness

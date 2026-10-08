@@ -11,4 +11,6 @@ export const buka = {
   sourceUrl:
     "https://www.google.com/maps/place/BUKA/data=!4m2!3m1!1s0x465253af4ebdffa7:0xf8ebf993e5128c15",
   locationSource: "saved:Denmark",
+  createdAt: "2026-06-30T23:45:05.405Z",
+  updatedAt: "2026-09-15T17:20:00.000Z",
 } as const satisfies Location

@@ -12,4 +12,6 @@ export const cafeBelga = {
   sourceUrl:
     "https://www.google.com/maps/place/Caf%C3%A9+Belga/data=!4m2!3m1!1s0x47c3c49346bc1c65:0x6337effe0bd0a729",
   locationSource: "saved:Belgium",
+  createdAt: "2026-06-30T23:45:05.750Z",
+  updatedAt: "2026-09-15T17:20:00.000Z",
 } as const satisfies Location

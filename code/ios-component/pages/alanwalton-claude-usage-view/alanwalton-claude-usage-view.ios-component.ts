@@ -24,4 +24,6 @@ export const alanwaltonClaudeUsageView = {
       statement: "A countdown row draws nothing while the tile holds no body.",
     },
   ],
+  createdAt: "2026-08-31T14:24:50.649Z",
+  updatedAt: "2026-09-25T16:35:11.000Z",
 } as const satisfies IosComponent

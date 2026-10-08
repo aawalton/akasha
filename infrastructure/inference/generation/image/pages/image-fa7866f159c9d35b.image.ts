@@ -16,4 +16,6 @@ export const imageFa7866f159c9d35b = {
   height: 1216,
   prompt:
     "Candid photograph of a 22-year-old adult woman, very petite slim build, small perky breasts, toned flat stomach, fresh youthful grown woman's face, freckled fair skin, long copper red hair in loose waves, wearing a black lace lingerie bunny bodysuit, sheer black thigh-high stockings with lace tops, black satin bunny ears, black velvet choker, small cottontail, lying on her stomach across rumpled white hotel sheets, legs kicked up behind her, looking up with a flirty smile, soft morning window light, 35mm lens",
+  createdAt: "2026-10-05T18:02:13.222Z",
+  updatedAt: "2026-10-05T18:03:05.000Z",
 } as const satisfies Image

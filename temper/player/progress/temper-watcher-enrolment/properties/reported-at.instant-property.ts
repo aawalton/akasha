@@ -7,4 +7,6 @@ export const reportedAt = {
   propertySlug: "reported-at",
   definition: "when a watcher last reported a run",
   types: "ts",
+  createdAt: "2026-09-25T13:13:40.806Z",
+  updatedAt: "2026-09-25T13:13:45.000Z",
 } as const satisfies InstantProperty

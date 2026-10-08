@@ -11,4 +11,6 @@ export const botanicalGardenAndBotanicalMuseum = {
   sourceUrl:
     "https://www.google.com/maps/place/Botanical+Garden+and+Botanical+Museum/data=!4m2!3m1!1s0x47a85a7b6d5c8f0b:0x15a2acff1c8d8de8",
   locationSource: "saved:Berlin, Germany",
+  createdAt: "2026-07-01T01:26:58.051Z",
+  updatedAt: "2026-09-15T17:20:00.000Z",
 } as const satisfies Location

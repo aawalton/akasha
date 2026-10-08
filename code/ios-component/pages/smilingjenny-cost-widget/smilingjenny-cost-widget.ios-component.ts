@@ -52,4 +52,6 @@ export const smilingjennyCostWidget = {
       statement: "Nothing is written after the count, so the tile reads as the count alone.",
     },
   ],
+  createdAt: "2026-09-10T14:24:21.327Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies IosComponent

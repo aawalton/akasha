@@ -26,4 +26,6 @@ export const excitement = {
         "The excitement Alan shares with a persona comes of real progress rather than progress she fakes.",
     },
   ],
+  createdAt: "2026-09-26T15:34:41.320Z",
+  updatedAt: "2026-09-26T15:46:05.000Z",
 } as const satisfies Kindling

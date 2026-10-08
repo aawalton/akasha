@@ -8,4 +8,6 @@ export const lastMessagedAt = {
   definition: "when Alan last wrote to a persona",
 
   types: "ts",
+  createdAt: "2026-08-30T16:55:17.421Z",
+  updatedAt: "2026-09-24T18:10:42.000Z",
 } as const satisfies InstantProperty

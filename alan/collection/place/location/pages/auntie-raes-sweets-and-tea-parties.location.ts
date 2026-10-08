@@ -16,4 +16,6 @@ export const auntieRaesSweetsAndTeaParties = {
   sourceUrl: "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x4c0d4ac13141cf0c",
   locationSource: "review",
   visited: true,
+  createdAt: "2026-06-30T23:45:06.083Z",
+  updatedAt: "2026-09-15T17:20:00.000Z",
 } as const satisfies Location

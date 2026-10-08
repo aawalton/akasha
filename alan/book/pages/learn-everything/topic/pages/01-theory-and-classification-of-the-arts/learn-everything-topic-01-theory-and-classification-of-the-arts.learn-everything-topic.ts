@@ -15,4 +15,6 @@ export const learnEverythingTopic01TheoryAndClassificationOfTheArts = {
   misconceptions: "md",
   bites: "md",
   topicEvidence: "md",
+  createdAt: "2026-09-03T05:04:00.597Z",
+  updatedAt: "2026-09-15T17:18:14.000Z",
 } as const satisfies LearnEverythingTopic

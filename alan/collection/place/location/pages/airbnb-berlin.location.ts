@@ -10,4 +10,6 @@ export const airbnbBerlin = {
   longitude: 13.3389715,
   sourcePlaceId: "takeout:airbnb-berlin:klopstockstra-e-2-10557-berlin-germany",
   locationSource: "labeled",
+  createdAt: "2026-06-30T23:45:05.873Z",
+  updatedAt: "2026-09-15T17:20:00.000Z",
 } as const satisfies Location

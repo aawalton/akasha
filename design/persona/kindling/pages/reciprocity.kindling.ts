@@ -29,4 +29,6 @@ export const reciprocity = {
       statement: "Praise Alan sees through as flattery cools him toward the persona giving it.",
     },
   ],
+  createdAt: "2026-09-26T15:34:41.320Z",
+  updatedAt: "2026-09-26T15:43:06.000Z",
 } as const satisfies Kindling

@@ -5,4 +5,6 @@ export const rightRing = {
   type: "page-type/item-slot",
   slug: "right-ring",
   title: "Right Ring",
+  createdAt: "2026-09-22T18:00:48.596Z",
+  updatedAt: "2026-09-26T17:47:23.000Z",
 } as const satisfies ItemSlot

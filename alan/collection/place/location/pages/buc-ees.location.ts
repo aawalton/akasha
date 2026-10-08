@@ -11,4 +11,6 @@ export const bucEes = {
   sourceUrl:
     "https://www.google.com/maps/place/Buc-ee's/data=!4m2!3m1!1s0x86456c229777dd6d:0xf24fda15f88bbe46",
   locationSource: "saved:Austin, Texas",
+  createdAt: "2026-06-30T23:45:05.611Z",
+  updatedAt: "2026-09-15T17:20:00.000Z",
 } as const satisfies Location

@@ -6,4 +6,6 @@ export const renderHarnessCasesWide = {
   slug: "render-harness-cases-wide",
   definition: "the cases drawing a tile at the wider families",
   swift: "swift",
+  createdAt: "2026-08-31T14:51:05.726Z",
+  updatedAt: "2026-09-15T17:17:09.000Z",
 } as const satisfies IosHarness

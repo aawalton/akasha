@@ -81,4 +81,6 @@ export const renderHarnessCasesCost = {
       statement: "A person reads the drawing.",
     },
   ],
+  createdAt: "2026-09-10T18:10:56.087Z",
+  updatedAt: "2026-09-25T16:28:20.000Z",
 } as const satisfies IosHarness

@@ -12,4 +12,6 @@ export const benihana = {
   sourceUrl:
     "https://www.google.com/maps/place/Benihana/data=!4m2!3m1!1s0x8752f5058c5ab889:0x8ba6679a2ee9b20a",
   locationSource: "saved:UT, SLC",
+  createdAt: "2026-07-01T01:26:58.520Z",
+  updatedAt: "2026-09-15T17:20:00.000Z",
 } as const satisfies Location

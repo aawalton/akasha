@@ -42,4 +42,6 @@ export const indexPageType = {
       statement: "A page type is read off the page rather than off the path the page sits at.",
     },
   ],
+  createdAt: "2026-09-15T13:59:02.008Z",
+  updatedAt: "2026-09-25T15:07:25.000Z",
 } as const satisfies Index

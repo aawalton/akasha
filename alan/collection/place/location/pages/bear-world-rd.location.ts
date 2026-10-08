@@ -11,4 +11,6 @@ export const bearWorldRd = {
   sourceUrl:
     "https://www.google.com/maps/place/Bear+World+Rd/data=!4m2!3m1!1s0x5354729371f87f81:0xa02ac5a5d549debd",
   locationSource: "saved:Idaho",
+  createdAt: "2026-07-01T01:26:59.250Z",
+  updatedAt: "2026-09-15T17:20:00.000Z",
 } as const satisfies Location

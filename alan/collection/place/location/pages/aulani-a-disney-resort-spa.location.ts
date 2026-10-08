@@ -11,4 +11,6 @@ export const aulaniADisneyResortSpa = {
   sourceUrl:
     "https://www.google.com/maps/place/Aulani,+A+Disney+Resort+%26+Spa/data=!4m2!3m1!1s0x7c0062be93391919:0x7570daaa1481ddd8",
   locationSource: "saved:Oahu, Hawaii",
+  createdAt: "2026-07-01T01:26:57.983Z",
+  updatedAt: "2026-09-15T17:20:00.000Z",
 } as const satisfies Location

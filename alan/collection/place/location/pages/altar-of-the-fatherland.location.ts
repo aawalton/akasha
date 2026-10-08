@@ -11,4 +11,6 @@ export const altarOfTheFatherland = {
   sourceUrl:
     "https://www.google.com/maps/place/Altar+of+the+Fatherland/data=!4m2!3m1!1s0x132f604d1b805de3:0x21154807a7b83fe1",
   locationSource: "saved:Rome, Italy",
+  createdAt: "2026-06-30T23:45:05.443Z",
+  updatedAt: "2026-09-15T17:20:00.000Z",
 } as const satisfies Location

@@ -11,4 +11,6 @@ export const begijnhofkapel = {
   sourceUrl:
     "https://www.google.com/maps/place/Begijnhofkapel/data=!4m2!3m1!1s0x47c609c19e88ea31:0x91b9357fe0f43467",
   locationSource: "saved:Netherlands",
+  createdAt: "2026-06-30T23:45:05.592Z",
+  updatedAt: "2026-09-15T17:20:00.000Z",
 } as const satisfies Location

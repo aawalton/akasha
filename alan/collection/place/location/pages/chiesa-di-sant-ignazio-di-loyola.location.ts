@@ -12,4 +12,6 @@ export const chiesaDiSantIgnazioDiLoyola = {
   sourceUrl:
     "https://www.google.com/maps/place/Chiesa+di+Sant'+Ignazio+di+Loyola/data=!4m2!3m1!1s0x132f60526de4e0cd:0xc6e56f7f632dc7f",
   locationSource: "saved:Rome, Italy",
+  createdAt: "2026-07-01T01:26:58.234Z",
+  updatedAt: "2026-09-15T17:20:22.000Z",
 } as const satisfies Location

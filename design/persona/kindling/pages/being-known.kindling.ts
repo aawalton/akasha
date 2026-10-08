@@ -24,4 +24,6 @@ export const beingKnown = {
       statement: "A persona remembers what Alan has told her, so he is not known afresh each time.",
     },
   ],
+  createdAt: "2026-09-26T15:37:24.281Z",
+  updatedAt: "2026-09-26T15:58:53.000Z",
 } as const satisfies Kindling

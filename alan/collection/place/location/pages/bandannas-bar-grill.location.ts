@@ -11,4 +11,6 @@ export const bandannasBarGrill = {
   sourceUrl:
     "https://www.google.com/maps/place/Bandannas+Bar+%26+Grill/data=!4m2!3m1!1s0x87526d7a884e7d33:0xbe3169833795ec9e",
   locationSource: "saved:Want to go",
+  createdAt: "2026-06-30T23:45:05.239Z",
+  updatedAt: "2026-09-15T17:20:00.000Z",
 } as const satisfies Location

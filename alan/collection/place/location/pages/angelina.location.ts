@@ -11,4 +11,6 @@ export const angelina = {
   sourceUrl:
     "https://www.google.com/maps/place/Angelina/data=!4m2!3m1!1s0x47e671d4ee71d57b:0x9a5acce46d18ec98",
   locationSource: "saved:Paris, France",
+  createdAt: "2026-06-30T23:45:05.487Z",
+  updatedAt: "2026-09-15T17:20:00.000Z",
 } as const satisfies Location

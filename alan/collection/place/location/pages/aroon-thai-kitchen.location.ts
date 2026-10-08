@@ -12,4 +12,6 @@ export const aroonThaiKitchen = {
   sourceUrl:
     "https://www.google.com/maps/place/Aroon+Thai+Kitchen/data=!4m2!3m1!1s0x87528be74b8f773f:0xd6942d19450fe594",
   locationSource: "saved:Foodie Spots To Try",
+  createdAt: "2026-07-01T01:26:59.098Z",
+  updatedAt: "2026-09-15T17:20:00.000Z",
 } as const satisfies Location

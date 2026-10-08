@@ -11,4 +11,6 @@ export const annaMillersRestaurant = {
   sourceUrl:
     "https://www.google.com/maps/place/Anna+Miller's+Restaurant/data=!4m2!3m1!1s0x7c0068c806ebb40b:0xc1f1275373913501",
   locationSource: "saved:Oahu, Hawaii",
+  createdAt: "2026-07-01T01:26:57.969Z",
+  updatedAt: "2026-09-15T17:20:00.000Z",
 } as const satisfies Location

@@ -7,4 +7,6 @@ export const contributionPointAt = {
   propertySlug: "at",
   definition: "when the points a transaction carries reached or left a contributor",
   types: "ts",
+  createdAt: "2026-09-19T16:48:11.936Z",
+  updatedAt: "2026-09-19T16:49:44.000Z",
 } as const satisfies InstantProperty

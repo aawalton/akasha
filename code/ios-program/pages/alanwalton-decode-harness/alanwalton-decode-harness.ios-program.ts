@@ -38,4 +38,6 @@ export const alanwaltonDecodeHarness = {
     "ios-component/alanwalton-feed-key-checks",
     "ios-component/alanwalton-claude-usage-checks",
   ],
+  createdAt: "2026-08-31T18:17:05.591Z",
+  updatedAt: "2026-09-25T16:35:11.000Z",
 } as const satisfies IosProgram

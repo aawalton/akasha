@@ -11,4 +11,6 @@ export const bahamaBucksProvoAb5c = {
   longitude: -111.6694939,
   sourcePlaceId: "ssc:loc:bahama-bucks:provo",
   locationSource: "starving-student-card",
+  createdAt: "2026-07-05T12:06:49.501Z",
+  updatedAt: "2026-09-15T17:20:00.000Z",
 } as const satisfies Location

@@ -27,4 +27,6 @@ export const litrpg = {
     "Time Loop",
     "VRMMO",
   ],
+  createdAt: "2026-09-03T16:09:49.660Z",
+  updatedAt: "2026-09-25T12:49:36.000Z",
 } as const satisfies LitrpgCollection

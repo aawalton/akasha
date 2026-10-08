@@ -5,4 +5,6 @@ export const voice = {
   type: "page-type/item-slot",
   slug: "voice",
   title: "Voice",
+  createdAt: "2026-09-24T14:41:55.036Z",
+  updatedAt: "2026-09-26T17:47:23.000Z",
 } as const satisfies ItemSlot

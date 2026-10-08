@@ -12,4 +12,6 @@ export const boroughMarket = {
   sourceUrl:
     "https://www.google.com/maps/place/Borough+Market/data=!4m2!3m1!1s0x4876035775cf660f:0x3128e7e59ca044b9",
   locationSource: "saved:London, England",
+  createdAt: "2026-06-30T23:45:05.653Z",
+  updatedAt: "2026-09-15T17:20:00.000Z",
 } as const satisfies Location

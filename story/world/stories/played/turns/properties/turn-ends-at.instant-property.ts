@@ -18,4 +18,6 @@ export const turnEndsAt = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-27T16:15:49.814Z",
+  updatedAt: "2026-09-27T16:15:57.000Z",
 } as const satisfies InstantProperty

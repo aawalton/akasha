@@ -11,4 +11,6 @@ export const bombayCafe = {
   sourceUrl:
     "https://www.google.com/maps/place/Bombay+Cafe/data=!4m2!3m1!1s0x80b561ba644d846b:0xd8c49ad0cc248587",
   locationSource: "saved:UT, Cedar City",
+  createdAt: "2026-06-30T23:45:05.688Z",
+  updatedAt: "2026-09-15T17:20:00.000Z",
 } as const satisfies Location

@@ -5,4 +5,6 @@ export const parkSunbathing = {
   type: "page-type/image-album",
   slug: "park-sunbathing",
   title: "Park Sunbathing",
+  createdAt: "2026-09-28T20:59:48.679Z",
+  updatedAt: "2026-09-28T20:59:51.000Z",
 } as const satisfies ImageAlbum

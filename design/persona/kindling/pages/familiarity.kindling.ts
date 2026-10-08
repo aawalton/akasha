@@ -29,4 +29,6 @@ export const familiarity = {
       statement: "Being met often deepens Alan's dislike of a persona he finds dull or grating.",
     },
   ],
+  createdAt: "2026-09-26T15:33:26.988Z",
+  updatedAt: "2026-09-26T15:40:13.000Z",
 } as const satisfies Kindling

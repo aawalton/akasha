@@ -36,4 +36,6 @@ export const alanwaltonWidget = {
     "ios-component/alanwalton-stoplights-content",
   ],
   targetName: "ValuesWidgetExtension",
+  createdAt: "2026-08-31T18:13:48.188Z",
+  updatedAt: "2026-09-24T20:04:57.000Z",
 } as const satisfies IosProgram

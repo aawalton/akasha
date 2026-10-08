@@ -6,4 +6,6 @@ export const renderHarnessCasesSurplus = {
   slug: "render-harness-cases-surplus",
   definition: "the cases drawing the surplus tile",
   swift: "swift",
+  createdAt: "2026-08-31T14:51:05.726Z",
+  updatedAt: "2026-09-15T17:17:09.000Z",
 } as const satisfies IosHarness

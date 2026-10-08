@@ -11,4 +11,6 @@ export const chicagoIllinoisTemple = {
   sourceUrl:
     "https://www.google.com/maps/place/Chicago+Illinois+Temple/data=!4m2!3m1!1s0x880fb87733e84ac9:0x76a20d56c126305b",
   locationSource: "saved:IL, Chicago",
+  createdAt: "2026-07-01T01:26:58.991Z",
+  updatedAt: "2026-09-15T17:20:22.000Z",
 } as const satisfies Location

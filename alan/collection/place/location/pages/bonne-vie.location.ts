@@ -11,4 +11,6 @@ export const bonneVie = {
   sourceUrl:
     "https://www.google.com/maps/place/Bonne+Vie/data=!4m2!3m1!1s0x8752f51730827a73:0x41677b4868d398c2",
   locationSource: "saved:Want to go",
+  createdAt: "2026-06-30T23:45:05.200Z",
+  updatedAt: "2026-09-15T17:20:00.000Z",
 } as const satisfies Location

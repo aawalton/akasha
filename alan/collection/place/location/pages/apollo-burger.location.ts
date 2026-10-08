@@ -16,4 +16,6 @@ export const apolloBurger = {
   sourceUrl: "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x1f1451f0250f87ad",
   locationSource: "review",
   visited: true,
+  createdAt: "2026-06-30T23:45:06.004Z",
+  updatedAt: "2026-09-15T17:20:00.000Z",
 } as const satisfies Location

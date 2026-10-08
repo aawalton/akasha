@@ -11,4 +11,6 @@ export const berthillonGlacier = {
   sourceUrl:
     "https://www.google.com/maps/place/Berthillon+Glacier/data=!4m2!3m1!1s0x47e671e31035116b:0x3351811a156c6d4a",
   locationSource: "saved:Paris, France",
+  createdAt: "2026-07-01T01:26:58.362Z",
+  updatedAt: "2026-09-15T17:20:00.000Z",
 } as const satisfies Location

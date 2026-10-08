@@ -11,4 +11,6 @@ export const bleSucre = {
   sourceUrl:
     "https://www.google.com/maps/place/Bl%C3%A9+Sucr%C3%A9/data=!4m2!3m1!1s0x47e6720609b62aaf:0xda8fb6358465b3c8",
   locationSource: "saved:Paris, France",
+  createdAt: "2026-06-30T23:45:05.483Z",
+  updatedAt: "2026-09-15T17:20:00.000Z",
 } as const satisfies Location

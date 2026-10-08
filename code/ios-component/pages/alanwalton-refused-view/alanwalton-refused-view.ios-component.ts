@@ -13,4 +13,6 @@ export const alanwaltonRefusedView = {
         "The tile names why the credential was refused rather than only that the credential was refused.",
     },
   ],
+  createdAt: "2026-08-31T14:24:50.652Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies IosComponent

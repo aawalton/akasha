@@ -16,4 +16,6 @@ export const learnEverythingTopic08WavesAndWaveMotion = {
   misconceptions: "md",
   bites: "md",
   topicEvidence: "md",
+  createdAt: "2026-09-03T05:04:00.589Z",
+  updatedAt: "2026-09-15T17:18:39.000Z",
 } as const satisfies LearnEverythingTopic

@@ -12,4 +12,6 @@ export const cafeSabor = {
   sourceUrl:
     "https://www.google.com/maps/place/Cafe+Sabor/data=!4m2!3m1!1s0x8754144142a6dd91:0x42c14cf374c308d7",
   locationSource: "saved:Bear Lake - Garden City",
+  createdAt: "2026-07-01T01:26:59.241Z",
+  updatedAt: "2026-09-15T17:20:00.000Z",
 } as const satisfies Location

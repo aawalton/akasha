@@ -25,4 +25,6 @@ export const agentMessageInjectedAt = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-25T02:09:01.369Z",
+  updatedAt: "2026-09-25T17:59:33.000Z",
 } as const satisfies InstantProperty

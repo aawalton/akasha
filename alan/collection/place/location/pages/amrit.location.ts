@@ -11,4 +11,6 @@ export const amrit = {
   sourceUrl:
     "https://www.google.com/maps/place/Amrit/data=!4m2!3m1!1s0x47a851c926adb9af:0x486e12db20958559",
   locationSource: "saved:Berlin, Germany",
+  createdAt: "2026-06-30T23:45:05.361Z",
+  updatedAt: "2026-09-15T17:20:00.000Z",
 } as const satisfies Location

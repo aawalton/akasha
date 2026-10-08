@@ -11,4 +11,6 @@ export const arizonaMuseumOfNaturalHistory = {
   sourceUrl:
     "https://www.google.com/maps/place/Arizona+Museum+of+Natural+History/data=!4m2!3m1!1s0x872ba7e9c565ca19:0x76b5002c28d019be",
   locationSource: "saved:Want to go",
+  createdAt: "2026-06-30T23:45:05.210Z",
+  updatedAt: "2026-09-15T17:20:00.000Z",
 } as const satisfies Location

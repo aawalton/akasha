@@ -14,5 +14,6 @@ export const emberAutoPort = {
         "Built in domain/temper-addon-world-quest-port and deployed to the game: Controls, Temper Quests, Port Near Quest Objective calls TemperWorld.PortNearQuestObjective. It reads the tracker's assisted quest, asks the objective's position on its zone map, and ports to the nearest found wayshrine or owned house, saying each port and refusal in chat. Left is Alan setting the key and seeing ports land in game.",
     },
   ],
-  updatedAt: "2026-10-08T14:57:11.114Z",
+  updatedAt: "2026-10-08T15:57:57.870Z",
+  createdAt: "2026-10-08T14:45:38.396Z",
 } as const satisfies Initiative

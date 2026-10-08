@@ -19,4 +19,6 @@ export const imageFd9b375c504b4ce4 = {
   ],
   prompt:
     "She is an adult woman. Keep her exact face, hair, eyes and every distinctive feature, including any horns, ears, markings or non-human traits. Keep her head exactly as in the reference and add nothing she does not have. She sits on a red gingham picnic blanket in a park with her knees drawn up to her chest, which hides it, biting into a ripe strawberry with delight, looking down at the bowl of strawberries and a wicker picnic basket beside her. She wears only a gingham bikini bottom and a daisy-chain anklet, with a straw tote and a paperback lying nearby. Camera at a three-quarter front angle slightly above, soft warm early-evening light, a flowering hedge behind. No other people. Photorealistic, natural skin detail.",
+  createdAt: "2026-09-28T19:21:29.178Z",
+  updatedAt: "2026-09-28T19:21:57.000Z",
 } as const satisfies Image

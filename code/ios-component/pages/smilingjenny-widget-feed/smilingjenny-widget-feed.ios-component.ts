@@ -62,4 +62,6 @@ export const smilingjennyWidgetFeed = {
       statement: "A moment named carries no word on whether the server's reading changed.",
     },
   ],
+  createdAt: "2026-08-31T14:24:50.652Z",
+  updatedAt: "2026-09-22T13:44:42.000Z",
 } as const satisfies IosComponent

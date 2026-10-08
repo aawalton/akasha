@@ -6,4 +6,6 @@ export const smilingjennyCategorizeView = {
   slug: "smilingjenny-categorize-view",
   definition: "the drawing of Jenny's unreviewed transaction reading",
   swift: "swift",
+  createdAt: "2026-08-31T14:24:50.653Z",
+  updatedAt: "2026-09-15T17:16:48.000Z",
 } as const satisfies IosComponent

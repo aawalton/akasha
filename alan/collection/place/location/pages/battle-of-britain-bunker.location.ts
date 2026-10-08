@@ -11,4 +11,6 @@ export const battleOfBritainBunker = {
   sourceUrl:
     "https://www.google.com/maps/place/Battle+of+Britain+Bunker/data=!4m2!3m1!1s0x487671fa402258dd:0xa30c7eb15e14f8d6",
   locationSource: "saved:Want to go; saved:London, England",
+  createdAt: "2026-06-30T23:45:05.277Z",
+  updatedAt: "2026-09-15T17:20:00.000Z",
 } as const satisfies Location

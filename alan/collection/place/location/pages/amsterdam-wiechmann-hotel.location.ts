@@ -12,4 +12,6 @@ export const amsterdamWiechmannHotel = {
   sourceUrl:
     "https://www.google.com/maps/place/Amsterdam+Wiechmann+Hotel/data=!4m2!3m1!1s0x47c609c2ce573ed7:0x3feed05244b489aa",
   locationSource: "saved:Netherlands",
+  createdAt: "2026-06-30T23:45:05.577Z",
+  updatedAt: "2026-09-15T17:20:00.000Z",
 } as const satisfies Location

@@ -7,4 +7,6 @@ export const capturedAt = {
   propertySlug: "captured-at",
   definition: "when a capture was taken",
   types: "ts",
+  createdAt: "2026-09-02T01:38:27.088Z",
+  updatedAt: "2026-09-21T15:28:00.000Z",
 } as const satisfies InstantProperty

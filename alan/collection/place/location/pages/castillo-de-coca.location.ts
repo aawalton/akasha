@@ -13,4 +13,6 @@ export const castilloDeCoca = {
   sourceUrl:
     "https://www.google.com/maps/place/Castillo+de+Coca/data=!4m2!3m1!1s0xd472d1ed9918683:0x7eb4f1df0bc4886",
   locationSource: "saved:Madrid, Spain",
+  createdAt: "2026-06-30T23:45:05.396Z",
+  updatedAt: "2026-09-15T17:20:00.000Z",
 } as const satisfies Location

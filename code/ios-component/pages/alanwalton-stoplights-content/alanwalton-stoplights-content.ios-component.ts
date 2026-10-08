@@ -32,4 +32,6 @@ export const alanwaltonStoplightsContent = {
       statement: "ActivityKit decodes a pushed reading with a decoder no code here reaches.",
     },
   ],
+  createdAt: "2026-09-19T16:00:51.507Z",
+  updatedAt: "2026-09-19T16:43:12.000Z",
 } as const satisfies IosComponent

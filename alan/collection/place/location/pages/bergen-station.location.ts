@@ -11,4 +11,6 @@ export const bergenStation = {
   sourceUrl:
     "https://www.google.com/maps/place/Bergen+Station/data=!4m2!3m1!1s0x463cfeaef2a46763:0xea77aacf71b645a2",
   locationSource: "saved:Norway",
+  createdAt: "2026-06-30T23:45:05.766Z",
+  updatedAt: "2026-09-15T17:20:00.000Z",
 } as const satisfies Location

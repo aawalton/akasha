@@ -14,4 +14,6 @@ export const imageFaae24a0397f046e = {
   height: 1216,
   prompt:
     "fantasy photorealistic landscape, a dirt shore road winding along a wide calm lake in early summer, fields of purple lavender and red poppies on one side, tall green reed beds at the water's edge on the other, a small village of thatched cottages with flower gardens in the distance along the shore, warm golden morning light, soft mist on the lake, no people, empty scene",
+  createdAt: "2026-10-04T14:38:50.000Z",
+  updatedAt: "2026-10-04T14:38:50.000Z",
 } as const satisfies Image

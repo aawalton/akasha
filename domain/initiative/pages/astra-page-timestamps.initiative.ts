@@ -16,5 +16,6 @@ export const astraPageTimestamps = {
         "Ordering pages by when they were created or changed reads those moments from the pages.",
     },
   ],
-  updatedAt: "2026-10-08T15:03:55.739Z",
+  updatedAt: "2026-10-08T15:57:57.870Z",
+  createdAt: "2026-10-08T14:35:51.273Z",
 } as const satisfies Initiative

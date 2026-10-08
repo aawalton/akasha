@@ -11,4 +11,6 @@ export const aconcaguaBakeryCafe = {
   sourceUrl:
     "https://www.google.com/maps/place/Aconcagua+bakery+%26+cafe/data=!4m2!3m1!1s0x875303b309cebf61:0xbd5f529cb9971bcf",
   locationSource: "saved:Want to go",
+  createdAt: "2026-06-30T23:45:05.330Z",
+  updatedAt: "2026-09-15T17:20:00.000Z",
 } as const satisfies Location

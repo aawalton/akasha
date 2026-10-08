@@ -12,4 +12,6 @@ export const bartolosParkCity = {
   sourceUrl:
     "https://www.google.com/maps/place/Bartolo's+Park+City/data=!4m2!3m1!1s0x87526dd32b50c615:0x8592e502f07ac1a4",
   locationSource: "saved:Want to go",
+  createdAt: "2026-06-30T23:45:05.273Z",
+  updatedAt: "2026-09-15T17:20:00.000Z",
 } as const satisfies Location

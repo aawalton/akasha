@@ -11,4 +11,6 @@ export const berlinerFernsehturm = {
   sourceUrl:
     "https://www.google.com/maps/place/Berliner+Fernsehturm/data=!4m2!3m1!1s0x47a84e1f9014ffeb:0xc8fafc484349e4a1",
   locationSource: "saved:Berlin, Germany",
+  createdAt: "2026-06-30T23:45:05.372Z",
+  updatedAt: "2026-09-15T17:20:00.000Z",
 } as const satisfies Location

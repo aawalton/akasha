@@ -14,4 +14,6 @@ export const imageFb76a8b6b02a3e10 = {
   height: 832,
   prompt:
     "Fantasy photorealistic, sensual and elegant. One strikingly beautiful young woman of twenty-eight stands in a grand art deco hotel lobby with her black concierge's jacket hanging open and her white blouse parted with both hands. She is flat-chested and boyishly slim like a ballet dancer, a lean ribcage and a barely-there bare chest with small dark stiff nipples, flat stomach, narrow waist. Flawless pale skin, high cheekbones, glossy black hair in a sleek chignon, cool grey eyes, a matte red mouth, her lips slightly parted. Upright and composed, gaze level at the viewer as if giving an order. Behind her oxblood velvet, polished brass and a crystal chandelier lit low and gold, deep warm shadows. Framed from head to waist, 85mm lens, shallow depth of field, fine skin texture, rich blacks, whites and golds, gentle film grain.",
+  createdAt: "2026-09-28T14:12:12.000Z",
+  updatedAt: "2026-09-28T14:12:12.000Z",
 } as const satisfies Image

@@ -16,4 +16,6 @@ export const elinImageLibraryManagement = {
         "Alan grades every image he has not graded from a review page, one key to an image.",
     },
   ],
+  createdAt: "2026-09-26T16:03:00.230Z",
+  updatedAt: "2026-09-26T17:02:49.000Z",
 } as const satisfies Initiative

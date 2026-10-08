@@ -11,4 +11,6 @@ export const cedarBreaksNationalMonument = {
   sourceUrl:
     "https://www.google.com/maps/place/Cedar+Breaks+National+Monument/data=!4m2!3m1!1s0x80b5617ffe207d53:0x9f22e2d59a78397e",
   locationSource: "saved:UT, Cedar City",
+  createdAt: "2026-07-01T01:26:58.916Z",
+  updatedAt: "2026-09-15T17:20:22.000Z",
 } as const satisfies Location

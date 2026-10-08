@@ -7,4 +7,6 @@ export const lastViewedAt = {
   propertySlug: "last-viewed-at",
   definition: "when a page was last opened",
   types: "ts",
+  createdAt: "2026-09-02T02:00:36.367Z",
+  updatedAt: "2026-09-15T17:15:46.000Z",
 } as const satisfies InstantProperty

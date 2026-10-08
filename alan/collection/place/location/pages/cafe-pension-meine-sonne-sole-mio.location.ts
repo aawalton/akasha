@@ -12,4 +12,6 @@ export const cafePensionMeineSonneSoleMio = {
   sourceUrl:
     "https://www.google.com/maps/place/Caf%C3%A9+%26+Pension+'Meine+Sonne...Sole+Mio'/data=!4m2!3m1!1s0x47a4c9c271b7c499:0xa4fbe9a79c094846",
   locationSource: "saved:Germany",
+  createdAt: "2026-07-01T01:26:59.150Z",
+  updatedAt: "2026-09-15T17:20:00.000Z",
 } as const satisfies Location

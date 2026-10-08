@@ -10,4 +10,6 @@ export const catermaranTour = {
   longitude: -157.8572638,
   sourcePlaceId: "takeout:catermaran-tour:1009-ala-moana-blvd-honolulu-hi-96813-usa",
   locationSource: "labeled",
+  createdAt: "2026-06-30T23:45:05.847Z",
+  updatedAt: "2026-09-15T17:20:22.000Z",
 } as const satisfies Location

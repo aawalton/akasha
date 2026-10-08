@@ -29,4 +29,6 @@ export const alanwaltonStoplightRing = {
       statement: "A reading at the end of its band draws that band's own tier.",
     },
   ],
+  createdAt: "2026-08-31T14:24:50.652Z",
+  updatedAt: "2026-09-22T14:00:01.000Z",
 } as const satisfies IosComponent

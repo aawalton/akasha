@@ -16,4 +16,6 @@ export const cafeZupas = {
   sourceUrl: "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xda762aabb9683e49",
   locationSource: "review",
   visited: true,
+  createdAt: "2026-06-30T23:45:05.924Z",
+  updatedAt: "2026-09-15T17:20:00.000Z",
 } as const satisfies Location

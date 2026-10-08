@@ -11,4 +11,6 @@ export const castelSantangelo = {
   sourceUrl:
     "https://www.google.com/maps/place/Castel+Sant'Angelo/data=!4m2!3m1!1s0x13258a8711e7a4d1:0x366c111ce77d4189",
   locationSource: "saved:Rome, Italy",
+  createdAt: "2026-06-30T23:45:05.467Z",
+  updatedAt: "2026-09-15T17:20:00.000Z",
 } as const satisfies Location

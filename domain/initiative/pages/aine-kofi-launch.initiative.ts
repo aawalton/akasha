@@ -15,4 +15,6 @@ export const aineKofiLaunch = {
         "Ko-fi cannot change the platform fee on a Stripe membership after that membership starts. A membership taken before Gold pays 5% for life; one taken while Gold is on pays nothing for life, even if Gold is cancelled afterwards. A new account defaults into the 5% tier, and Gold is $12 a month.",
     },
   ],
+  createdAt: "2026-09-19T16:40:15.911Z",
+  updatedAt: "2026-09-19T16:41:04.000Z",
 } as const satisfies Initiative

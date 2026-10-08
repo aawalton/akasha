@@ -11,4 +11,6 @@ export const bingCrosbyHouse = {
   sourceUrl:
     "https://www.google.com/maps/place/Bing+Crosby+House/data=!4m2!3m1!1s0x549e18ec0c15e481:0x2f1cb226ad23996b",
   locationSource: "saved:Washington State",
+  createdAt: "2026-06-30T23:45:05.182Z",
+  updatedAt: "2026-09-15T17:20:00.000Z",
 } as const satisfies Location

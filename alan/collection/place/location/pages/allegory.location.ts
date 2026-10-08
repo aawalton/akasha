@@ -11,4 +11,6 @@ export const allegory = {
   sourceUrl:
     "https://www.google.com/maps/place/Allegory/data=!4m2!3m1!1s0x880e578f5f20c163:0x81b4de4c2bc3a441",
   locationSource: "saved:IL, Chicago",
+  createdAt: "2026-07-01T01:26:58.923Z",
+  updatedAt: "2026-09-15T17:20:00.000Z",
 } as const satisfies Location

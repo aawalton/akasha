@@ -21,4 +21,6 @@ export const imageFc810f0778043562 = {
   wardrobeTags: ["wardrobe-tag/top", "wardrobe-tag/deep-v-neck"],
   ethnicityTags: ["ethnicity-tag/mixed"],
   ageTags: ["age-tag/age-25-34"],
+  createdAt: "2026-07-03T16:32:33.417Z",
+  updatedAt: "2026-09-27T15:52:40.000Z",
 } as const satisfies Image

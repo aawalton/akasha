@@ -7,4 +7,6 @@ export const soldAt = {
   propertySlug: "sold-at",
   definition: "when a sale went through",
   types: "ts",
+  createdAt: "2026-09-03T17:42:35.690Z",
+  updatedAt: "2026-09-21T15:34:59.000Z",
 } as const satisfies InstantProperty

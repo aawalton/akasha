@@ -11,4 +11,6 @@ export const bajaBorderTours = {
   sourceUrl:
     "https://www.google.com/maps/place/Baja+Border+Tours/data=!4m2!3m1!1s0x80dc714766ddf937:0x9687e0557b87ad43",
   locationSource: "saved:Want to go",
+  createdAt: "2026-07-01T01:26:57.950Z",
+  updatedAt: "2026-09-15T17:20:00.000Z",
 } as const satisfies Location

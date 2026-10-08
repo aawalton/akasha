@@ -12,4 +12,6 @@ export const backereiKonditoreiWBalzer = {
   sourceUrl:
     "https://www.google.com/maps/place/B%C3%A4ckerei+%26+Konditorei+W.+Balzer/data=!4m2!3m1!1s0x47a851e6975db67f:0x902018dc3e466b4d",
   locationSource: "saved:Berlin, Germany",
+  createdAt: "2026-07-01T01:26:58.029Z",
+  updatedAt: "2026-09-15T17:20:00.000Z",
 } as const satisfies Location

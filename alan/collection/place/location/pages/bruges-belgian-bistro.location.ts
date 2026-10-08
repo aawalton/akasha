@@ -12,4 +12,6 @@ export const brugesBelgianBistro = {
   sourceUrl:
     "https://www.google.com/maps/place/Bruges+Belgian+Bistro/data=!4m2!3m1!1s0x8752f5030793e643:0x45cd252c9776efb6",
   locationSource: "saved:UT, SLC",
+  createdAt: "2026-07-01T01:26:58.499Z",
+  updatedAt: "2026-09-15T17:20:00.000Z",
 } as const satisfies Location

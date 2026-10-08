@@ -51,4 +51,6 @@ export const nimueLocalImage = {
     "A model that makes or changes a picture is judged first on how well it keeps a person's likeness.",
     "Only a model that runs on local hardware is recommended.",
   ],
+  createdAt: "2026-09-26T15:58:26.989Z",
+  updatedAt: "2026-09-28T18:00:08.000Z",
 } as const satisfies Initiative

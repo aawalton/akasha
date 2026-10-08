@@ -11,4 +11,6 @@ export const andersenMaillard = {
   sourceUrl:
     "https://www.google.com/maps/place/Andersen+%26+Maillard/data=!4m2!3m1!1s0x4652539a477d1b57:0xcd7a4ce366c2f81b",
   locationSource: "saved:Denmark",
+  createdAt: "2026-06-30T23:45:05.407Z",
+  updatedAt: "2026-09-15T17:20:00.000Z",
 } as const satisfies Location

@@ -12,4 +12,6 @@ export const backereiLadewig = {
   sourceUrl:
     "https://www.google.com/maps/place/B%C3%A4ckerei+Ladewig/data=!4m2!3m1!1s0x47a84e4dc3da97c3:0x1a12085ceb290702",
   locationSource: "saved:Berlin, Germany",
+  createdAt: "2026-07-01T01:26:58.027Z",
+  updatedAt: "2026-09-15T17:20:00.000Z",
 } as const satisfies Location

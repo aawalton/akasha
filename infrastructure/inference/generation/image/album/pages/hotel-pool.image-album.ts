@@ -5,4 +5,6 @@ export const hotelPool = {
   type: "page-type/image-album",
   slug: "hotel-pool",
   title: "Hotel Pool",
+  createdAt: "2026-10-04T21:57:56.602Z",
+  updatedAt: "2026-10-04T21:57:59.000Z",
 } as const satisfies ImageAlbum

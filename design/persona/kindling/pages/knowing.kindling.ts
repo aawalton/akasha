@@ -30,4 +30,6 @@ export const knowing = {
       statement: "A persona opens to Alan in turn with what he opens to her.",
     },
   ],
+  createdAt: "2026-09-26T15:37:24.281Z",
+  updatedAt: "2026-09-26T15:56:30.000Z",
 } as const satisfies Kindling

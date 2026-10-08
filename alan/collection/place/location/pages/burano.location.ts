@@ -11,4 +11,6 @@ export const burano = {
   sourceUrl:
     "https://www.google.com/maps/place/Burano/data=!4m2!3m1!1s0x477eac52f73090a5:0x7dc660c352b117d2",
   locationSource: "saved:Venice, Italy",
+  createdAt: "2026-06-30T23:45:05.566Z",
+  updatedAt: "2026-09-15T17:20:00.000Z",
 } as const satisfies Location

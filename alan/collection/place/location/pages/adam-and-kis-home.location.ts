@@ -11,4 +11,6 @@ export const adamAndKisHome = {
   sourcePlaceId:
     "takeout:adam-and-ki-s-home:4234-mckellen-dr-unit-204-herriman-ut-84096-united-states",
   locationSource: "labeled",
+  createdAt: "2026-06-30T23:45:05.881Z",
+  updatedAt: "2026-09-15T17:20:00.000Z",
 } as const satisfies Location

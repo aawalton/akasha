@@ -18,4 +18,6 @@ export const biscottsBakeryCafe = {
     "https://www.google.com/maps/place/Biscotts+Bakery+%26+Caf%C3%A9/data=!4m2!3m1!1s0x8752863ca1d2d929:0x143cb87dfca39812",
   locationSource: "saved:UT, SLC",
   visited: true,
+  createdAt: "2026-06-30T23:45:05.944Z",
+  updatedAt: "2026-09-15T17:20:00.000Z",
 } as const satisfies Location

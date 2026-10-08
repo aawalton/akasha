@@ -11,4 +11,6 @@ export const apeCave = {
   sourceUrl:
     "https://www.google.com/maps/place/Ape+Cave/data=!4m2!3m1!1s0x54969d382249a5af:0x44648837f87f7cf2",
   locationSource: "saved:Washington State",
+  createdAt: "2026-06-30T23:45:05.175Z",
+  updatedAt: "2026-09-15T17:20:00.000Z",
 } as const satisfies Location

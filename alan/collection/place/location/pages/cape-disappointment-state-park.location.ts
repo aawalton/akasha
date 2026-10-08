@@ -11,4 +11,6 @@ export const capeDisappointmentStatePark = {
   sourceUrl:
     "https://www.google.com/maps/place/Cape+Disappointment+State+Park/data=!4m2!3m1!1s0x54936c314e23108b:0xb0236fb6dae256c8",
   locationSource: "saved:Washington State",
+  createdAt: "2026-06-30T23:45:05.178Z",
+  updatedAt: "2026-09-15T17:20:00.000Z",
 } as const satisfies Location

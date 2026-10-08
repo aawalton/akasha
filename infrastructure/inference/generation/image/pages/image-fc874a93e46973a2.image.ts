@@ -17,4 +17,6 @@ export const imageFc874a93e46973a2 = {
   ],
   prompt:
     "Fantasy photorealistic, candid photograph, nobody looks at the camera. Keep the place from the first image: this moment is downstairs in the bakery under the attic, by the racks and the wooden counter. The pink-haired woman from the second image stands before a round golden honey cake on the rack, its top sunk in a shallow dip in the middle, her hands at her mouth and her face dismayed, eyes on the dip. The pink-haired woman from the second image is a gorgeous, slim young Korean woman of about twenty with a K-pop idol's face: a small V-line face, big sparkling doe eyes in soft rose pink the same color as her hair, a small delicate nose, glossy pink lips, pale porcelain skin with a soft blush, a sweet bright smile, and short soft rose-pink hair in a layered bob with wispy side-swept bangs, a small pink-and-white flower clip above one ear, with a slim build and small chest, wearing a plain white linen shift, bare arms, barefoot. Before dawn, the windows still dark, warm golden light and heat from the open bread ovens. Nothing lettered. Medium shot, 35mm lens, shallow depth of field, every face sharp and readable.",
+  createdAt: "2026-10-04T13:35:09.804Z",
+  updatedAt: "2026-10-04T13:35:10.000Z",
 } as const satisfies Image

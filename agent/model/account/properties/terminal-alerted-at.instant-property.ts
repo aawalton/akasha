@@ -7,4 +7,6 @@ export const terminalAlertedAt = {
   propertySlug: "terminal-alerted-at",
   definition: "when a message about a model account's credential stopped by a failure was written",
   types: "ts",
+  createdAt: "2026-08-30T22:44:04.537Z",
+  updatedAt: "2026-09-25T17:53:06.000Z",
 } as const satisfies InstantProperty

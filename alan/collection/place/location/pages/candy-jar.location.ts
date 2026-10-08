@@ -12,4 +12,6 @@ export const candyJar = {
   sourceUrl:
     "https://www.google.com/maps/place/Candy+Jar/data=!4m2!3m1!1s0x53551b6847a6312f:0xdf0e50d9f327e840",
   locationSource: "saved:Idaho",
+  createdAt: "2026-07-01T01:26:59.256Z",
+  updatedAt: "2026-09-15T17:20:00.000Z",
 } as const satisfies Location

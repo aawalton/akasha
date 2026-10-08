@@ -11,4 +11,6 @@ export const learnEverythingTopic01PeoplesAndCulturesOfTheWorld = {
   partOf: [
     "learn-everything-topic/learn-everything-topic-01-social-groups-ethnic-groups-and-cultures",
   ],
+  createdAt: "2026-09-03T05:04:00.597Z",
+  updatedAt: "2026-09-15T17:18:14.000Z",
 } as const satisfies LearnEverythingTopic

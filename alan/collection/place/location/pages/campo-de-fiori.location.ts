@@ -11,4 +11,6 @@ export const campoDeFiori = {
   sourceUrl:
     "https://www.google.com/maps/place/Campo+de'+Fiori/data=!4m2!3m1!1s0x132f61f71dcfd935:0xf215f7a24168ce0f",
   locationSource: "saved:Rome, Italy",
+  createdAt: "2026-06-30T23:45:05.451Z",
+  updatedAt: "2026-09-15T17:20:00.000Z",
 } as const satisfies Location

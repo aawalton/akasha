@@ -7,4 +7,6 @@ export const terminalAt = {
   propertySlug: "terminal-at",
   definition: "when a model account's credential was stopped by a failure",
   types: "ts",
+  createdAt: "2026-08-30T22:44:04.537Z",
+  updatedAt: "2026-09-25T17:52:43.000Z",
 } as const satisfies InstantProperty

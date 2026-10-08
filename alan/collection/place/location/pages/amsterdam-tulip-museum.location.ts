@@ -11,4 +11,6 @@ export const amsterdamTulipMuseum = {
   sourceUrl:
     "https://www.google.com/maps/place/Amsterdam+Tulip+Museum/data=!4m2!3m1!1s0x47c609c53ed78de3:0x24fa3c4e9991e0f6",
   locationSource: "saved:Netherlands",
+  createdAt: "2026-06-30T23:45:05.588Z",
+  updatedAt: "2026-09-15T17:20:00.000Z",
 } as const satisfies Location

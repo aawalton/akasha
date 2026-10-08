@@ -11,4 +11,6 @@ export const anneFrankHouse = {
   sourceUrl:
     "https://www.google.com/maps/place/Anne+Frank+House/data=!4m2!3m1!1s0x47c609c5213e1149:0xd49a5d653e635b0a",
   locationSource: "saved:Netherlands",
+  createdAt: "2026-06-30T23:45:05.590Z",
+  updatedAt: "2026-09-15T17:20:00.000Z",
 } as const satisfies Location
