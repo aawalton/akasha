@@ -8,7 +8,10 @@ import {
   type AgentTreeState,
   agentTreeStateSchema,
 } from "akasha/alan/harness/code-editor/data-interface/pages/agent-tree/agent-tree.code-editor-data-interface.code.ts"
-import { countRows } from "akasha/code/editor/extension/modules/agent-forest/agent-forest.module.code.ts"
+import {
+  activeOnly,
+  countRows,
+} from "akasha/code/editor/extension/modules/agent-forest/agent-forest.module.code.ts"
 import { openAgentPage } from "akasha/code/editor/extension/modules/agent-page-opening/agent-page-opening.module.code.ts"
 import {
   createAgentDecorationProvider,
@@ -17,6 +20,7 @@ import {
   REVEAL_TERMINAL_COMMAND,
 } from "akasha/code/editor/extension/modules/agent-tree-drawing/agent-tree-drawing.module.code.ts"
 import {
+  ACTIVE_ONLY_KEY,
   COPY_SEAT_NAME_COMMAND,
   OPEN_PAGE_COMMAND,
   REFRESH_COMMAND,
@@ -24,6 +28,8 @@ import {
   RUN_RESTART_COMMAND,
   RUN_RESUME_COMMAND,
   RUN_STOP_COMMAND,
+  SHOW_ACTIVE_COMMAND,
+  SHOW_ALL_COMMAND,
   STOP_SUBAGENT_COMMAND,
   VIEW_ID,
 } from "akasha/code/editor/extension/modules/agent-tree-ids/agent-tree-ids.module.code.ts"
@@ -104,6 +110,9 @@ export async function activate(context: vscode.ExtensionContext): Promise<undefi
   )
 
   let running = 0
+  let showingActive = context.globalState.get(ACTIVE_ONLY_KEY) === true
+  let lastHeld: AgentTreeState | null = null
+  void vscode.commands.executeCommand("setContext", ACTIVE_ONLY_KEY, showingActive)
 
   const describe = (): undefined => {
     const matched = tree.matchCount()
@@ -144,9 +153,10 @@ export async function activate(context: vscode.ExtensionContext): Promise<undefi
 
   const drawOnce = async (held: AgentTreeState, trigger: string): Promise<undefined> => {
     try {
+      lastHeld = held
       const roots = held.roots
       setForest(roots)
-      tree.replace(roots)
+      tree.replace(showingActive ? activeOnly(roots) : roots)
       running = held.runningCount
       describe()
       view.badge = {
@@ -230,7 +240,20 @@ export async function activate(context: vscode.ExtensionContext): Promise<undefi
     return undefined
   }
 
+  const showActive = async (on: boolean): Promise<undefined> => {
+    showingActive = on
+    await context.globalState.update(ACTIVE_ONLY_KEY, on)
+    await vscode.commands.executeCommand("setContext", ACTIVE_ONLY_KEY, on)
+    output.appendLine(`[active-only] ${on ? "only active seats" : "every seat"}`)
+    if (lastHeld !== null) {
+      await draw({ held: lastHeld, trigger: "active-only" })
+    }
+    return undefined
+  }
+
   context.subscriptions.push(
+    vscode.commands.registerCommand(SHOW_ACTIVE_COMMAND, () => showActive(true)),
+    vscode.commands.registerCommand(SHOW_ALL_COMMAND, () => showActive(false)),
     vscode.commands.registerCommand(REFRESH_COMMAND, () => refresh("manual")),
     vscode.commands.registerCommand(RUN_STOP_COMMAND, (n: unknown) => runStop(n, refresh)),
     vscode.commands.registerCommand(RUN_RESUME_COMMAND, (n: unknown) =>

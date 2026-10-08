@@ -15,3 +15,9 @@ export const STOP_SUBAGENT_COMMAND = "opsAgentTree.stopSubagent"
 export const COPY_SEAT_NAME_COMMAND = "opsAgentTree.copySeatName"
 
 export const OPEN_PAGE_COMMAND = "opsAgentTree.openPage"
+
+export const SHOW_ACTIVE_COMMAND = "opsAgentTree.showActive"
+
+export const SHOW_ALL_COMMAND = "opsAgentTree.showAll"
+
+export const ACTIVE_ONLY_KEY = "opsAgentTree.activeOnly"

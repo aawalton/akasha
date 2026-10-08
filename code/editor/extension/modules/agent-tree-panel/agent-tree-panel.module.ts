@@ -22,7 +22,21 @@ export const agentTreePanel = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The panel draws again when that file is written and at no other time.",
+      statement: "The panel draws again when that file is written or the seats shown are toggled.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A button on the panel's title toggles between every seat and only the active seats.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "Which seats are shown is kept in the editor's global state, so a reload keeps it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A seat hidden from the panel still reaches its terminal tab's acts.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -108,4 +122,5 @@ export const agentTreePanel = {
       statement: "Nothing here knows the change a step makes to a seat.",
     },
   ],
+  updatedAt: "2026-10-08T15:38:36.389Z",
 } as const satisfies Module
