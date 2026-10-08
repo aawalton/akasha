@@ -8,10 +8,10 @@ export const scribing = {
   icon: "file-text",
   apiVersion: "eso.live.12.1.5.3303624",
   manifestApiVersion: 101051,
-  capturedAt: "2026-10-08T16:28:24.864Z",
+  capturedAt: "2026-10-08T16:32:14.989Z",
   generatorRanForVersion: "eso.live.11.3.6.3240040",
   generatorRanForManifestApiVersion: 101049,
   dormant: true,
-  updatedAt: "2026-10-08T16:28:30.116Z",
+  updatedAt: "2026-10-08T16:32:19.785Z",
   createdAt: "2026-09-02T01:39:30.993Z",
 } as const satisfies TemperCatalogDomain
