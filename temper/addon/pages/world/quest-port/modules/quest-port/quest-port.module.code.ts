@@ -2,6 +2,7 @@ import { ADDON_NAME } from "akasha/temper/addon/pages/world/modules/world-names/
 import type { PositionAnswer } from "akasha/temper/addon/pages/world/quest-port/modules/quest-port-capture/quest-port-capture.module.code.ts"
 import {
   type ConditionReading,
+  climbForTargets,
   type MapAttempt,
   mapAttempts,
   type NodeKind,
@@ -42,9 +43,16 @@ const EVENT_NAMESPACE = ADDON_NAME + "QuestPort"
 const ANSWER_WAIT_MS = 3000
 const MAX_ZOOM_OUTS = 4
 
-interface Asked {
-  readonly taskId: number
+interface Question {
+  readonly questIndex: number
+  readonly stepIndex: number
+  readonly conditionIndex: number
   readonly objective: string
+  readonly climbs: number
+}
+
+interface Asked extends Question {
+  readonly taskId: number
 }
 
 let asked: Asked | undefined
@@ -193,10 +201,39 @@ function portTo(this: void, target: PortTarget, objective: string): undefined {
   return undefined
 }
 
+function onOverlandMap(this: void): boolean {
+  return GetMapType() >= MAPTYPE_ZONE && GetMapContentType() !== MAP_CONTENT_DUNGEON
+}
+
+function askPosition(this: void, question: Question): undefined {
+  const taskId = RequestJournalQuestConditionAssistance(
+    question.questIndex,
+    question.stepIndex,
+    question.conditionIndex
+  )
+  noteTask(taskId)
+  if (taskId === undefined) {
+    SetMapToPlayerLocation()
+    return say(`The game gave no position for ${question.objective}.`)
+  }
+  asked = { ...question, taskId }
+  zo_callLater(() => giveUpOn(taskId), ANSWER_WAIT_MS)
+  return undefined
+}
+
+function climbForTargetsAgain(this: void, question: Question): boolean {
+  if (!climbForTargets(onOverlandMap(), question.climbs)) return false
+  const zoomed = MapZoomOut()
+  noteMapStep("zoom-out-for-targets", zoomed)
+  if (zoomed === SET_MAP_RESULT_FAILED) return false
+  askPosition({ ...question, climbs: question.climbs + 1 })
+  return true
+}
+
 function onPositionAnswered(this: void, taskId: number, answer: PositionAnswer): undefined {
   if (asked === undefined || asked.taskId !== taskId) return undefined
   noteAnswer(answer)
-  const objective = asked.objective
+  const question = asked
   asked = undefined
   const x = answer.xLoc
   const y = answer.yLoc
@@ -204,12 +241,13 @@ function onPositionAnswered(this: void, taskId: number, answer: PositionAnswer):
   const targets = portTargets(nodes)
   const target = nearestTarget(targets, x, y)
   noteCandidates(nodes.length, targets, x, y, target)
+  if (target === undefined && climbForTargetsAgain(question)) return undefined
   SetMapToPlayerLocation()
   if (target === undefined) {
-    say(`No wayshrine you have found and no house you own is on the map of ${objective}.`)
+    say(`No wayshrine you have found and no house you own is on the map of ${question.objective}.`)
     return undefined
   }
-  return portTo(target, objective)
+  return portTo(target, question.objective)
 }
 
 function giveUpOn(this: void, taskId: number): undefined {
@@ -248,22 +286,13 @@ export function portNearQuestObjective(this: void): undefined {
   if (!placed.shown) {
     return say(`The map cannot show where ${objective} is.`)
   }
-  const taskId =
-    condition === undefined
-      ? RequestJournalQuestConditionAssistance(questIndex, QUEST_MAIN_STEP_INDEX, 1)
-      : RequestJournalQuestConditionAssistance(
-          questIndex,
-          condition.stepIndex,
-          condition.conditionIndex
-        )
-  noteTask(taskId)
-  if (taskId === undefined) {
-    SetMapToPlayerLocation()
-    return say(`The game gave no position for ${objective}.`)
-  }
-  asked = { taskId, objective }
-  zo_callLater(() => giveUpOn(taskId), ANSWER_WAIT_MS)
-  return undefined
+  return askPosition({
+    questIndex,
+    stepIndex: condition?.stepIndex ?? QUEST_MAIN_STEP_INDEX,
+    conditionIndex: condition?.conditionIndex ?? 1,
+    objective,
+    climbs: 0,
+  })
 }
 
 export function initQuestPort(this: void): undefined {

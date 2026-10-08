@@ -31,6 +31,15 @@ export const questPort = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "Where the objective's map has no travel point, the map zooms out and the game is asked again.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "That zoom out is what Alan does by hand, and it finds a dungeon's entrance.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "The map goes back to the player's own location once the answer is read.",
     },
     {
@@ -75,5 +84,5 @@ export const questPort = {
     },
   ],
   createdAt: "2026-10-08T14:55:08.172Z",
-  updatedAt: "2026-10-08T17:45:56.828Z",
+  updatedAt: "2026-10-08T17:57:37.858Z",
 } as const satisfies Module
