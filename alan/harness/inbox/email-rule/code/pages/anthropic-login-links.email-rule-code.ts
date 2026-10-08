@@ -11,6 +11,7 @@ export const anthropicLoginLinks = {
   ],
   filing: "archive",
   delay: "15m",
+  rescueFromSpam: true,
   createdAt: "2026-09-03T17:45:38.722Z",
-  updatedAt: "2026-09-15T16:49:29.000Z",
+  updatedAt: "2026-10-08T16:23:01.916Z",
 } as const satisfies EmailRuleCode
