@@ -17,4 +17,6 @@ export const image6b01c4867537ada7 = {
   ],
   prompt:
     "Fantasy photorealistic candid photograph, nobody looks at the camera. Keep the place from the first image, Lanternmere, now at the low stone wall where the city meets the wide lake, the mist lifting off the water in late morning, a gull standing on a wooden post out in the lake, the half-timbered houses behind. The pink-haired woman from the second image sits alone on the lake wall with her boots hanging over the water and a small leather satchel in her lap, gazing down at a small glowing pane of soft violet light floating just above her knees, marked only with faint shining glyphs and lines, no words, her face serious, careful and a little lost. A small V-line face, big rose-pink doe eyes, glossy pink lips, pale porcelain skin, short rose-pink layered bob with side-swept bangs and a pink-and-white flower clip; slim build, small chest; cropped cream halter top laced up the front, short sage-green skirt, brown belt with pouches, fingerless leather gloves, tall brown boots. Soft bright morning light through thin mist. Medium shot from the side along the wall, 50mm lens, her face and the glowing pane clear, nothing lettered.",
+  createdAt: "2026-10-04T10:31:02.800Z",
+  updatedAt: "2026-10-04T10:31:03.000Z",
 } as const satisfies Image

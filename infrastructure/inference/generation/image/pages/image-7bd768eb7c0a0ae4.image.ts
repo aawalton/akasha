@@ -16,4 +16,6 @@ export const image7bd768eb7c0a0ae4 = {
   wardrobeTags: ["wardrobe-tag/wet", "wardrobe-tag/topless"],
   ethnicityTags: ["ethnicity-tag/asian"],
   ageTags: ["age-tag/age-18-24"],
+  createdAt: "2026-09-21T21:52:02.381Z",
+  updatedAt: "2026-09-27T15:59:30.000Z",
 } as const satisfies Image

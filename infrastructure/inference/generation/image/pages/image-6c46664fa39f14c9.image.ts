@@ -11,4 +11,6 @@ export const image6c46664fa39f14c9 = {
   wardrobeTags: ["wardrobe-tag/tunic", "wardrobe-tag/long-sleeves", "wardrobe-tag/jewelry"],
   fantasyTags: ["fantasy-tag/elf-ears", "fantasy-tag/weapons", "fantasy-tag/anime"],
   ageTags: ["age-tag/age-25-34"],
+  createdAt: "2026-06-30T11:10:09.604Z",
+  updatedAt: "2026-09-27T15:52:40.000Z",
 } as const satisfies Image

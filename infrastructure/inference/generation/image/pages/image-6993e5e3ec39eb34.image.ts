@@ -18,4 +18,6 @@ export const image6993e5e3ec39eb34 = {
   fantasyTags: ["fantasy-tag/fox-ears", "fantasy-tag/kitsune", "fantasy-tag/cosplay"],
   ethnicityTags: ["ethnicity-tag/asian"],
   ageTags: ["age-tag/age-18-24"],
+  createdAt: "2026-09-21T21:51:08.047Z",
+  updatedAt: "2026-09-27T15:59:30.000Z",
 } as const satisfies Image

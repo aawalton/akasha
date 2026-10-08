@@ -21,4 +21,6 @@ export const image73d25a40b805d317 = {
   wardrobeTags: ["wardrobe-tag/backless", "wardrobe-tag/corset", "wardrobe-tag/dress"],
   ethnicityTags: ["ethnicity-tag/white"],
   ageTags: ["age-tag/age-18-24"],
+  createdAt: "2026-06-30T11:10:04.387Z",
+  updatedAt: "2026-09-27T15:59:30.000Z",
 } as const satisfies Image

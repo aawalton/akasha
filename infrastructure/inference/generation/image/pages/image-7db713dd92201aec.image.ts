@@ -17,4 +17,6 @@ export const image7db713dd92201aec = {
   ],
   prompt:
     "Fantasy photorealistic candid photograph, eyes down, she does not look at the camera. Keep the place from the first image, the timber guild hall, in its dim bottom corner on the dusty floor against the wall. Close on the woman from the second image, the only person in the picture, sitting on the floor with a small black chalk slate in her lap, rubbing hard at the chalk on it with the heel of her hand, round and round, smearing it into a pale blur, her green eyes cast down on the slate, her mouth set crooked and unhappy, a great axe lying beside her. Strips of cloth wrapped round her knuckles have come loose and trail. The slate shows only smudged chalk, no readable letters. The woman: a gorgeous slim athletic young Korean woman of twenty-one, small V-line face, almond-shaped bright green eyes, full lips, sun-kissed golden skin dusted with freckles, a wild mass of long copper-red curls barely held back; slim build, small chest; sleeveless battered leather jerkin, dark trousers, scuffed boots. Dim dusty light, warm sunbeam beyond. Medium close shot from slightly above, 50mm lens, her face and hands clear.",
+  createdAt: "2026-10-04T11:15:02.979Z",
+  updatedAt: "2026-10-04T11:15:03.000Z",
 } as const satisfies Image

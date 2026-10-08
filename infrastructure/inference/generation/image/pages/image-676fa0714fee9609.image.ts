@@ -16,4 +16,6 @@ export const image676fa0714fee9609 = {
   fantasyTags: ["fantasy-tag/sci-fi", "fantasy-tag/glowing", "fantasy-tag/android"],
   ethnicityTags: ["ethnicity-tag/asian"],
   ageTags: ["age-tag/age-25-34"],
+  createdAt: "2026-09-21T21:51:22.755Z",
+  updatedAt: "2026-09-27T15:52:40.000Z",
 } as const satisfies Image

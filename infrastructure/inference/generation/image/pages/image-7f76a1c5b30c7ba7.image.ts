@@ -29,4 +29,6 @@ export const image7f76a1c5b30c7ba7 = {
   fantasyTags: ["fantasy-tag/cyberpunk"],
   ethnicityTags: ["ethnicity-tag/asian"],
   ageTags: ["age-tag/age-18-24"],
+  createdAt: "2026-06-30T11:07:55.093Z",
+  updatedAt: "2026-09-27T15:52:40.000Z",
 } as const satisfies Image

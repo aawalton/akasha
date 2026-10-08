@@ -22,4 +22,6 @@ export const image6b3ec2d98fa7e332 = {
   wardrobeTags: ["wardrobe-tag/bikini", "wardrobe-tag/sunglasses"],
   ethnicityTags: ["ethnicity-tag/asian"],
   ageTags: ["age-tag/age-25-34"],
+  createdAt: "2026-09-21T21:51:08.046Z",
+  updatedAt: "2026-09-27T15:52:40.000Z",
 } as const satisfies Image

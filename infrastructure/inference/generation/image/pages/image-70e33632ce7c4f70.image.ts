@@ -12,4 +12,6 @@ export const image70e33632ce7c4f70 = {
   fantasyTags: ["fantasy-tag/anime", "fantasy-tag/cosmic"],
   ethnicityTags: ["ethnicity-tag/asian"],
   ageTags: ["age-tag/age-18-24"],
+  createdAt: "2026-06-30T11:10:10.895Z",
+  updatedAt: "2026-09-27T15:59:30.000Z",
 } as const satisfies Image

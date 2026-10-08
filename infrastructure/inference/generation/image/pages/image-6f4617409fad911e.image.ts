@@ -16,4 +16,6 @@ export const image6f4617409fad911e = {
   ],
   prompt:
     "Keep this exact woman: same face, eyes, lips, skin and hair. Change the scene around her. Fantasy photorealistic. She is a small, slight young woman of twenty with very pale skin, cool grey-green eyes, fine dark brows, sharp cheekbones, a pointed chin and a small serious mouth, her glossy black hair cut in a blunt chin-length bob with a straight heavy fringe, brushed perfectly straight. She wears a big soft cream cable-knit wool jumper far too large for her, the sleeves turned back twice at the wrists, the hem hanging nearly to her knees, over her own long slim black wool skirt reaching her ankles, black flat shoes, and a silver ring on one hand. She stands just outside an old wooden bedroom door, standing very upright, chin lifted, arms straight at her sides, her face perfectly composed and cool, looking straight into the camera with a level, faintly defiant gaze. Behind her is the top corridor of an old stone college house: worn floorboards, a plain plaster wall, the dark oak door half open behind her. Bright cold clean morning sunlight after a storm falls through a corridor window from the side. Full-length portrait, 50mm lens, shallow depth of field, she fills the frame.",
+  createdAt: "2026-10-02T22:36:12.769Z",
+  updatedAt: "2026-10-02T22:36:13.000Z",
 } as const satisfies Image

@@ -16,4 +16,6 @@ export const image6c5103a4735b85d5 = {
   height: 1216,
   prompt:
     "A 24-year-old adult woman, grown woman's face with defined cheekbones and jawline, adult body proportions, Korean-American with light warm skin, a long black ponytail through the back of a white baseball cap, athletic toned build, lying on her back on a picnic blanket with her legs up the trunk of a tree, topless in grey sporty bikini bottoms, arms folded behind her head, earbuds in, eyes closed, humming, shot from above at an angle, bright mid-morning sun through leaves, alone, photorealistic, natural skin detail",
+  createdAt: "2026-09-28T21:33:21.712Z",
+  updatedAt: "2026-09-28T21:33:48.000Z",
 } as const satisfies Image

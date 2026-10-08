@@ -16,4 +16,6 @@ export const image79e0350713a7ff2f = {
   height: 1216,
   prompt:
     "Candid photograph of a 22-year-old adult woman, fresh youthful grown woman's face, Thai with warm golden skin, long black hair in a low wet braid, petite slender build with a small flat chest, sitting cross-legged on a sun lounger at a luxury hotel pool eating fresh mango slices from a small plate, wearing a white crochet bikini, laughing with juice on her fingers, not looking at the camera, teak loungers, frangipani trees and a turquoise pool behind, bright morning sun, natural light, 35mm lens.",
+  createdAt: "2026-10-04T22:01:58.553Z",
+  updatedAt: "2026-10-04T22:03:05.000Z",
 } as const satisfies Image

@@ -12,4 +12,6 @@ export const image67c2af6a2e55facc = {
   wardrobeTags: ["wardrobe-tag/jacket", "wardrobe-tag/t-shirt"],
   ethnicityTags: ["ethnicity-tag/white"],
   ageTags: ["age-tag/age-18-24"],
+  createdAt: "2026-06-30T11:09:31.491Z",
+  updatedAt: "2026-09-27T15:59:30.000Z",
 } as const satisfies Image

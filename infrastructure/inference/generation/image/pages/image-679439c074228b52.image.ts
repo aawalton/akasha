@@ -16,4 +16,6 @@ export const image679439c074228b52 = {
   height: 1216,
   prompt:
     "A 23-year-old adult woman with a mature adult face, long copper-red hair and freckles across her shoulders and back, slim build, lying face-down on a faded quilt in the dappled shade of a weeping willow in a city park, propped on her elbows reading a paperback, topless with only white bikini bottoms, bare back, face in three-quarter profile absorbed in the book, not looking at the camera, soft green afternoon light through the willow fronds, alone, photorealistic, natural skin detail, 50mm",
+  createdAt: "2026-09-28T21:00:58.083Z",
+  updatedAt: "2026-09-28T21:01:17.000Z",
 } as const satisfies Image

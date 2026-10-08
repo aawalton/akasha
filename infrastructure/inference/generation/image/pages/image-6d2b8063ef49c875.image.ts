@@ -22,4 +22,6 @@ export const image6d2b8063ef49c875 = {
   wardrobeTags: ["wardrobe-tag/open-shirt", "wardrobe-tag/bikini", "wardrobe-tag/bare-midriff"],
   ethnicityTags: ["ethnicity-tag/white"],
   ageTags: ["age-tag/age-25-34"],
+  createdAt: "2026-09-21T21:51:17.961Z",
+  updatedAt: "2026-09-27T15:52:40.000Z",
 } as const satisfies Image

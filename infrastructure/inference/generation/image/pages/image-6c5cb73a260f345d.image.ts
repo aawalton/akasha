@@ -26,4 +26,6 @@ export const image6c5cb73a260f345d = {
   wardrobeTags: ["wardrobe-tag/tank-top", "wardrobe-tag/sleeveless"],
   ethnicityTags: ["ethnicity-tag/mixed"],
   ageTags: ["age-tag/age-25-34"],
+  createdAt: "2026-09-21T21:50:26.591Z",
+  updatedAt: "2026-09-27T15:52:40.000Z",
 } as const satisfies Image

@@ -22,4 +22,6 @@ export const image7f952a4546173ac0 = {
   wardrobeTags: ["wardrobe-tag/bare-shoulders"],
   ethnicityTags: ["ethnicity-tag/white"],
   ageTags: ["age-tag/age-18-24"],
+  createdAt: "2026-09-21T21:51:08.045Z",
+  updatedAt: "2026-09-27T15:59:30.000Z",
 } as const satisfies Image

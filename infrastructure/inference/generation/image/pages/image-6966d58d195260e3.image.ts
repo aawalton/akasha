@@ -16,4 +16,6 @@ export const image6966d58d195260e3 = {
   height: 1216,
   prompt:
     "A 23-year-old adult woman, grown woman's face with defined cheekbones and jawline, adult body proportions, Brazilian with bronzed olive skin, long wavy dark-brown hair, athletic toned build, lying on her stomach on a turquoise sarong on the grass at the edge of a park pond with lily pads, topless in a yellow string bikini bottom with the top strings untied beside her, chin resting on folded arms, eyes closed, face turned to the side, low camera at grass level from her side, warm late-morning sun sparkling on the water, completely alone, photorealistic, natural skin detail",
+  createdAt: "2026-09-28T21:08:59.497Z",
+  updatedAt: "2026-09-28T21:09:23.000Z",
 } as const satisfies Image

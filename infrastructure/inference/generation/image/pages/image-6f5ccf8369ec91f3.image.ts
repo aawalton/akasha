@@ -12,4 +12,6 @@ export const image6f5ccf8369ec91f3 = {
   fantasyTags: ["fantasy-tag/wings", "fantasy-tag/fairy", "fantasy-tag/cosplay"],
   ethnicityTags: ["ethnicity-tag/asian"],
   ageTags: ["age-tag/age-18-24"],
+  createdAt: "2026-09-21T21:51:22.755Z",
+  updatedAt: "2026-09-27T15:52:40.000Z",
 } as const satisfies Image

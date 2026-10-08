@@ -21,4 +21,6 @@ export const image6fa2e6082f545690 = {
   wardrobeTags: ["wardrobe-tag/nude"],
   ethnicityTags: ["ethnicity-tag/white"],
   ageTags: ["age-tag/age-25-34"],
+  createdAt: "2026-07-12T22:27:17.580Z",
+  updatedAt: "2026-09-27T15:52:40.000Z",
 } as const satisfies Image

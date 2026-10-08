@@ -5,4 +5,6 @@ export const image6b28fd99cd263b9c = {
   type: "page-type/image",
   slug: "image-6b28fd99cd263b9c",
   title: "Otherwhere — Links, cover candidate B",
+  createdAt: "2026-09-28T18:32:16.860Z",
+  updatedAt: "2026-09-28T18:32:22.000Z",
 } as const satisfies Image

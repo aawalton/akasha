@@ -22,4 +22,6 @@ export const image6bb50c7b20be80f5 = {
   wardrobeTags: ["wardrobe-tag/jacket", "wardrobe-tag/pants", "wardrobe-tag/boots"],
   fantasyTags: ["fantasy-tag/monster-girl", "fantasy-tag/fire", "fantasy-tag/magic"],
   ageTags: ["age-tag/age-25-34"],
+  createdAt: "2026-06-24T23:40:32.116Z",
+  updatedAt: "2026-09-27T15:52:40.000Z",
 } as const satisfies Image

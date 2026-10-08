@@ -14,4 +14,6 @@ export const image6f422b8fee1b7be0 = {
   height: 1216,
   prompt:
     "Fantasy photorealistic, candid photograph. The walled garden of the moon orchid glasshouse on the lake road, at dusk in early summer, with nobody in the frame. A green-painted arched wooden gate is set into a high old red brick wall, standing open on its hinges. Through it a garden path runs between neat beds of lettuces and beans toward a long white-framed glasshouse of iron ribs and many panes, glowing faintly in the dusk. Old fruit trees, apple and pear, stand dark among the beds, and beyond them a small cottage with one warm lit window. A trowel is stuck in the earth of a bed, a watering can by the path, a rain butt by the glasshouse door. The sky is deep violet with a last line of rose above the wall, and the first stars are showing. Nothing lettered. Eye-level view through the open gate up the garden path to the glasshouse, 28mm lens, deep focus.",
+  createdAt: "2026-10-04T16:34:13.608Z",
+  updatedAt: "2026-10-04T16:34:14.000Z",
 } as const satisfies Image

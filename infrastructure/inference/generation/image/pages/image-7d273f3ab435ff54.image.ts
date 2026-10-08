@@ -27,4 +27,6 @@ export const image7d273f3ab435ff54 = {
   fantasyTags: ["fantasy-tag/sci-fi"],
   ethnicityTags: ["ethnicity-tag/mixed"],
   ageTags: ["age-tag/age-25-34"],
+  createdAt: "2026-08-17T12:55:12.539Z",
+  updatedAt: "2026-09-27T15:52:40.000Z",
 } as const satisfies Image

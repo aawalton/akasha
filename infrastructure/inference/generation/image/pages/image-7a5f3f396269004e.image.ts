@@ -16,4 +16,6 @@ export const image7a5f3f396269004e = {
   ],
   prompt:
     "Keep this exact woman, same face and hair. Extreme close-up film still: her face and her raised hand fill the frame. She holds her small pale hand up before her eyes, turning it over, studying her own fingers with dawning disbelief. Her long dark red hair falls in a heavy rope across the collar of an oversized grey t-shirt slipping off her freckled shoulder. Harsh tropical noon sun from above, skin glistening with sweat, a few grains of black sand stuck to her cheek. Behind her, completely out of focus, blue surf and a black beach. Shot on ARRI Alexa with an 85mm lens at f/1.4, natural skin texture, film grain.",
+  createdAt: "2026-09-28T19:59:59.672Z",
+  updatedAt: "2026-09-28T20:00:00.000Z",
 } as const satisfies Image

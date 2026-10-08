@@ -14,4 +14,6 @@ export const image6954afbf1f02ddf2 = {
   height: 1216,
   prompt:
     "Fantasy photorealistic photograph. A monstrous bookworm rears up off a heap of scattered old books in the dark back of a ruined library hall. It is as long and fat as a small dog, grey and soft and swollen like an enormous grub, with bands of faded color ringing each end. It has no eyes anywhere. Its whole front end is a round, gaping mouth rimmed with rows and rows of small jagged wet teeth, open in a roar. One side of its body is puckered and shrunken, wrinkled like a salted slug, where white grains of salt still cling to its skin, and a spray of salt lies scattered in a white fan across the books around it. Its body twists in pain and rage. The books under it are chewed and torn, spines cracked, pages shredded. The light is dim: faint old gold from far behind the camera falls off into deep shadow around it, catching the wet sheen of its skin and teeth, with massive carved wooden columns just visible in the gloom behind. The mood is grotesque and tense. Camera low near floor level, close, 50mm lens at f/2, the mouth and teeth sharp, the background falling to black, detailed wet skin texture, nothing lettered anywhere.",
+  createdAt: "2026-10-02T19:39:30.825Z",
+  updatedAt: "2026-10-02T19:39:31.000Z",
 } as const satisfies Image

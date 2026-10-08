@@ -16,4 +16,6 @@ export const image73414c1b56b72b04 = {
   height: 1216,
   prompt:
     "Candid photograph of a 21-year-old adult woman, fresh youthful grown woman's face, Chinese with light skin, black hair in two loose buns, petite slender build with a small flat chest, wading through the shallow end of a luxury hotel pool holding a floating tray with two iced coffees, wearing a pastel pink ruffled bikini, concentrating on not spilling with her tongue between her teeth, not looking at the camera, cream umbrellas, palms and a modern white hotel behind, bright midday sun, natural light, 35mm lens.",
+  createdAt: "2026-10-04T22:02:26.199Z",
+  updatedAt: "2026-10-04T22:03:05.000Z",
 } as const satisfies Image

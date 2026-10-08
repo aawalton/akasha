@@ -17,4 +17,6 @@ export const image68f558f1ded86a7a = {
   ],
   prompt:
     "Fantasy photorealistic, candid photograph, nobody looks at the camera. Keep the place from the first image: this moment is on the doorstep of a bakery on the canal path. The pink-haired woman from the second image stands on the step watching someone go off along the canal out of frame, listening, smiling. The pink-haired woman from the second image is a gorgeous, slim young Korean woman of about twenty with a K-pop idol's face: a small V-line face, big sparkling doe eyes in soft rose pink the same color as her hair, a small delicate nose, glossy pink lips, pale porcelain skin with a soft blush, a sweet bright smile, and short soft rose-pink hair in a layered bob with wispy side-swept bangs, a small pink-and-white flower clip above one ear, with a slim build and small chest, wearing a cropped cream halter top laced up the front, a short sage-green skirt, a brown leather belt with pouches, brown fingerless gloves and tall brown boots. Bright afternoon summer sun on the water, paper lanterns hanging unlit on their strings. Nothing lettered. Medium shot, 35mm lens, shallow depth of field, every face sharp and readable.",
+  createdAt: "2026-10-04T12:54:14.786Z",
+  updatedAt: "2026-10-04T12:54:15.000Z",
 } as const satisfies Image

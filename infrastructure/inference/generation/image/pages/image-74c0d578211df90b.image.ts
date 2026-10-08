@@ -19,4 +19,6 @@ export const image74c0d578211df90b = {
   ],
   prompt:
     "She is an adult woman. Keep her exact face, hair, eyes and features exactly as in the reference. She is an ordinary human woman with NO horns and normal round human ears; add nothing to her head. She sits on a paint-spattered canvas drop cloth on a sunny park lawn with her very long golden hair unbound and pooled all around her in the grass, painting a small watercolor on a board propped against her knees, a brush in her hand and a tin of paints beside her, looking at the painting in concentration. She wears paint-smeared denim cut-offs and a lavender laced bodice unlaced and loosened, slipping off her shoulders, her long hair falling forward over her chest covering it, a smudge of blue paint on her cheek. Camera three-quarter from the front at seated height, soft bright late-morning light. No other people. Photorealistic, natural skin detail.",
+  createdAt: "2026-09-28T20:13:22.933Z",
+  updatedAt: "2026-09-28T20:15:10.000Z",
 } as const satisfies Image

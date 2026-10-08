@@ -17,4 +17,6 @@ export const image7d8a3b863af19e52 = {
   wardrobeTags: ["wardrobe-tag/bodysuit", "wardrobe-tag/long-sleeves"],
   ethnicityTags: ["ethnicity-tag/white"],
   ageTags: ["age-tag/age-18-24"],
+  createdAt: "2026-08-17T11:57:14.881Z",
+  updatedAt: "2026-09-27T15:59:30.000Z",
 } as const satisfies Image

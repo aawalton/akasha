@@ -14,4 +14,6 @@ export const image7b18384cf36957ce = {
   height: 1216,
   prompt:
     "Photorealistic photograph, natural candid portrait. A gorgeous twenty one year old East Asian American woman stands alone in a sunny Florida theme park, framed head to thigh, holding a vintage film camera at her chest and looking at the camera with a calm steady gaze and the hint of a smile. Tall, slim and long legged, with a narrow waist, a small flat chest and small breasts, never curvy or busty. Fair skin, very long straight black hair worn loose to her waist with a center part, dark eyes with a thin line of liner, high cheekbones, full lips, a thin gold septum ring, gold hoop earrings. She wears a fitted white cropped tank top showing her flat stomach and loose olive green cargo pants sitting low on her hips, the camera strap across her body. Behind her, softly out of focus, a busy theme park walkway with palm trees, colourful ride structures and a bright blue sky. Bright late afternoon sunlight, warm golden tones. Shot on a full frame camera with an 85mm lens at f2, shallow depth of field, sharp focus on her eyes, she fills the frame.",
+  createdAt: "2026-10-06T21:30:18.000Z",
+  updatedAt: "2026-10-06T21:30:18.000Z",
 } as const satisfies Image

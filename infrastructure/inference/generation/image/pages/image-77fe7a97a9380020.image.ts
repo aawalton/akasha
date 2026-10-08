@@ -27,4 +27,6 @@ export const image77fe7a97a9380020 = {
   fantasyTags: ["fantasy-tag/mermaid"],
   ethnicityTags: ["ethnicity-tag/mixed"],
   ageTags: ["age-tag/age-25-34"],
+  createdAt: "2026-07-12T20:11:14.378Z",
+  updatedAt: "2026-09-27T15:52:40.000Z",
 } as const satisfies Image

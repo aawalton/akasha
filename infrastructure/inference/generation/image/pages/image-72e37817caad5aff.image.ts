@@ -21,4 +21,6 @@ export const image72e37817caad5aff = {
   wardrobeTags: ["wardrobe-tag/jacket", "wardrobe-tag/shorts"],
   ethnicityTags: ["ethnicity-tag/white"],
   ageTags: ["age-tag/age-25-34"],
+  createdAt: "2026-07-12T20:29:05.675Z",
+  updatedAt: "2026-09-27T15:52:40.000Z",
 } as const satisfies Image

@@ -17,4 +17,6 @@ export const image73df4b2f618ee6ec = {
   ],
   prompt:
     "Fantasy photorealistic candid photograph, she does not look at the camera. Keep the place from the first image, the timber guild hall, in its dim bottom corner where the light from the high windows does not quite reach, under low old slates rubbed grey with chalk. The woman from the second image, the only person in the picture, sits on the dusty floorboards with her back against the wall and her long legs stretched out, a great axe with a head as broad as a dinner plate lying across her knees, her head down, not looking up. The woman: a gorgeous slim athletic young Korean woman of twenty-one, small V-line face, almond-shaped bright green eyes, full lips set in a crooked line, sun-kissed golden skin dusted with freckles, a wild mass of long copper-red curls barely held back by a thong; slim build, small chest; sleeveless battered leather jerkin, dark trousers, scuffed boots, strips of cloth wrapped loosely round her knuckles and trailing. Dim, dusty, a shaft of warm afternoon light falling short of her. Medium wide shot, 35mm lens, her face readable, moody.",
+  createdAt: "2026-10-04T11:11:19.000Z",
+  updatedAt: "2026-10-04T11:11:19.000Z",
 } as const satisfies Image
