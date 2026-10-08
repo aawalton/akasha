@@ -10,4 +10,6 @@ export const persist15882Build = {
   visibility: "private",
   correlationId: "ace7fab0-4b3d-4b5b-83be-cb77a83e5ea4",
   targetCount: 3,
+  createdAt: "2026-09-03T17:48:09.134Z",
+  updatedAt: "2026-09-21T15:29:06.000Z",
 } as const satisfies CharacterBuild

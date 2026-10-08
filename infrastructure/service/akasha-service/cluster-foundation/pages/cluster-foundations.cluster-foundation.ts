@@ -13,4 +13,6 @@ export const clusterFoundations = {
     "manifest/metallb-synth",
     "manifest/audit-cache",
   ],
+  createdAt: "2026-09-15T16:39:55.273Z",
+  updatedAt: "2026-09-24T19:06:05.000Z",
 } as const satisfies ClusterFoundation

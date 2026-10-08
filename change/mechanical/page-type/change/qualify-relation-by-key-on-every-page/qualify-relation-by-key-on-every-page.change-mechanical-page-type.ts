@@ -79,4 +79,6 @@ export const qualifyRelationByKeyOnEveryPage = {
     },
   ],
   changeKind: "change-kind/change-mechanical",
+  createdAt: "2026-09-24T15:10:26.772Z",
+  updatedAt: "2026-09-25T13:08:22.000Z",
 } as const satisfies ChangeMechanicalPageType

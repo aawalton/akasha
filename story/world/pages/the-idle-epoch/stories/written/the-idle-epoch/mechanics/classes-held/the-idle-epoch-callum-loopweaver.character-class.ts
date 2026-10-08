@@ -10,4 +10,6 @@ export const theIdleEpochCallumLoopweaver = {
   character: "character-player/the-idle-epoch-callum",
   class: "world-class/the-idle-epoch-loopweaver",
   unrevealed: false,
+  createdAt: "2026-10-03T19:16:27.399Z",
+  updatedAt: "2026-10-03T19:16:30.000Z",
 } as const satisfies CharacterClass

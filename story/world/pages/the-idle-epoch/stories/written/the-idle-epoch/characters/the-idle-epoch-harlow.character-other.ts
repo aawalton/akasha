@@ -7,4 +7,6 @@ export const theIdleEpochHarlow = {
   title: "Harlow",
   story: "story-written/the-idle-epoch",
   place: "place/the-idle-epoch-exchange",
+  createdAt: "2026-10-03T19:15:31.789Z",
+  updatedAt: "2026-10-03T19:36:58.000Z",
 } as const satisfies CharacterOther

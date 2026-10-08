@@ -8,4 +8,6 @@ export const python = {
   definition: "the Python a page is",
   extensions: ["py"],
   types: "ts",
+  createdAt: "2026-09-03T16:24:02.557Z",
+  updatedAt: "2026-09-15T16:19:31.000Z",
 } as const satisfies CodeFileProperty

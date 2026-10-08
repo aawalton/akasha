@@ -7,4 +7,6 @@ export const theWanderingInnChapter = {
   title: "The Wandering Inn Chapter",
   unit: "unit/words",
   collectionTypeStatus: "done",
+  createdAt: "2026-09-03T04:14:17.949Z",
+  updatedAt: "2026-09-15T16:19:49.000Z",
 } as const satisfies CollectionType

@@ -89,4 +89,6 @@ export const pageNamedAsStated = {
   ],
   check: { maxCpuSeconds: 1 },
   audit: { maxCpuSeconds: 15 },
+  createdAt: "2026-08-29T04:34:01.093Z",
+  updatedAt: "2026-09-21T17:50:45.000Z",
 } as const satisfies CheckCode

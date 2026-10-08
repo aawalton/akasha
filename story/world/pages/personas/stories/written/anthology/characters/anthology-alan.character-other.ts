@@ -7,4 +7,6 @@ export const anthologyAlan = {
   title: "Alan",
   story: "story-written/anthology",
   place: "place/anthology-the-bedroom",
+  createdAt: "2026-10-03T20:14:36.947Z",
+  updatedAt: "2026-10-03T20:20:11.000Z",
 } as const satisfies CharacterOther

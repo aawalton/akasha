@@ -67,4 +67,6 @@ export const googleDriveFetch = {
     { argument: "argument/output" },
     { argument: "argument/drive-file", required: true, saidAs: "flag-or-word" },
   ],
+  createdAt: "2026-09-10T19:46:16.282Z",
+  updatedAt: "2026-09-22T10:07:02.000Z",
 } as const satisfies Command

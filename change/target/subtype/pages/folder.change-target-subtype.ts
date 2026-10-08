@@ -6,4 +6,6 @@ export const folder = {
   slug: "folder",
   definition: "any folder, whatever that folder has",
   changeTargetType: "change-target-type/folder",
+  createdAt: "2026-09-07T15:26:30.885Z",
+  updatedAt: "2026-09-15T16:13:26.000Z",
 } as const satisfies ChangeTargetSubtype

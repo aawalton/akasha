@@ -35,4 +35,6 @@ export const gitPush = {
   ],
   name: "push",
   arguments: [{ argument: "argument/plan" }],
+  createdAt: "2026-09-04T14:24:32.384Z",
+  updatedAt: "2026-09-19T17:33:06.000Z",
 } as const satisfies Command

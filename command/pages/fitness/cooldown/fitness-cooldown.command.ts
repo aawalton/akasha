@@ -48,5 +48,6 @@ export const fitnessCooldown = {
   ],
   name: "cooldown",
   arguments: [{ argument: "argument/gym" }, { argument: "argument/json" }],
-  updatedAt: "2026-10-08T15:15:26.338Z",
+  updatedAt: "2026-10-08T15:35:11.471Z",
+  createdAt: "2026-09-19T17:30:51.386Z",
 } as const satisfies Command

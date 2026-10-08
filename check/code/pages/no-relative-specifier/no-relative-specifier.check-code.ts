@@ -78,4 +78,6 @@ export const noRelativeSpecifier = {
   ],
   check: { maxCpuSeconds: 1 },
   audit: { maxCpuSeconds: 20 },
+  createdAt: "2026-09-11T00:08:59.320Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies CheckCode

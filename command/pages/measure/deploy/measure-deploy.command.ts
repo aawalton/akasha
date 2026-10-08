@@ -112,4 +112,6 @@ export const measureDeploy = {
   ],
   name: "deploy",
   arguments: [{ argument: "argument/run-window" }],
+  createdAt: "2026-09-13T16:31:25.183Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies Command

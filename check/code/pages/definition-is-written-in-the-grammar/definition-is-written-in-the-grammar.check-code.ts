@@ -33,4 +33,6 @@ export const definitionIsWrittenInTheGrammar = {
   ],
   decision: { maxCpuSeconds: 10 },
   audit: { maxCpuSeconds: 120 },
+  createdAt: "2026-09-21T20:23:03.208Z",
+  updatedAt: "2026-09-25T17:39:07.000Z",
 } as const satisfies CheckCode

@@ -14,4 +14,6 @@ export const level3 = {
   wardrobe:
     "Loungewear and comfort layers — an oversized hoodie, a tee, soft knits, hair down, barefoot fine.",
   pose: "Unposed at home — curled on the couch, cross-legged, a doorway lean; close-ups welcome.",
+  createdAt: "2026-08-30T19:04:17.199Z",
+  updatedAt: "2026-09-27T14:37:38.000Z",
 } as const satisfies ClosenessLevel

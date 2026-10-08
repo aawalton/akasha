@@ -88,4 +88,6 @@ export const changeSubagentDrop = {
   ],
   name: "drop",
   arguments: [],
+  createdAt: "2026-09-13T19:19:55.472Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies Command

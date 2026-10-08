@@ -52,4 +52,6 @@ export const copyEntryKeyOnEveryPage = {
     },
   ],
   changeKind: "change-kind/change-mechanical",
+  createdAt: "2026-09-24T20:05:50.126Z",
+  updatedAt: "2026-09-24T20:06:22.000Z",
 } as const satisfies ChangeMechanicalPageType

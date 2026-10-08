@@ -7,4 +7,6 @@ export const overwhereIiiLiora = {
   title: "Liora",
   world: "world/the-magpie-and-the-archmage-monster-evo-litrpg",
   story: "story-played/overwhere-iii",
+  createdAt: "2026-09-29T12:33:56.365Z",
+  updatedAt: "2026-09-29T12:33:59.000Z",
 } as const satisfies CharacterOther

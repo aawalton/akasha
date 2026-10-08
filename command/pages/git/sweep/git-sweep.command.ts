@@ -59,4 +59,6 @@ export const gitSweep = {
   ],
   name: "sweep",
   arguments: [{ argument: "argument/plan" }],
+  createdAt: "2026-09-11T18:43:24.641Z",
+  updatedAt: "2026-09-19T17:33:06.000Z",
 } as const satisfies Command

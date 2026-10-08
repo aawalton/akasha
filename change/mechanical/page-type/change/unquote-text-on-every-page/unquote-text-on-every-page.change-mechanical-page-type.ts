@@ -48,4 +48,6 @@ export const unquoteTextOnEveryPage = {
     },
   ],
   changeKind: "change-kind/change-mechanical",
+  createdAt: "2026-09-27T06:24:32.271Z",
+  updatedAt: "2026-09-27T06:25:17.000Z",
 } as const satisfies ChangeMechanicalPageType

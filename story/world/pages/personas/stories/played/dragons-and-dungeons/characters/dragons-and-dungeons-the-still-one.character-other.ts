@@ -7,4 +7,6 @@ export const dragonsAndDungeonsTheStillOne = {
   title: "The Still One",
   story: "story-played/dragons-and-dungeons",
   place: "place/dragons-and-dungeons-the-well",
+  createdAt: "2026-09-26T15:08:31.868Z",
+  updatedAt: "2026-10-03T19:33:00.000Z",
 } as const satisfies CharacterOther

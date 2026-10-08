@@ -7,4 +7,6 @@ export const overwhereIWeirWyrm = {
   title: "Weir Wyrm",
   story: "story-played/overwhere-i",
   place: "place/overwhere-i-hobbs-mill-weir",
+  createdAt: "2026-10-03T11:21:06.650Z",
+  updatedAt: "2026-10-03T11:21:10.000Z",
 } as const satisfies CharacterOther

@@ -103,4 +103,6 @@ export const renamePageType = {
     },
   ],
   changeKind: "change-kind/change-mechanical",
+  createdAt: "2026-09-11T19:59:46.059Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies ChangeMechanicalPageType

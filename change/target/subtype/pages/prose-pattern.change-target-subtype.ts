@@ -6,4 +6,6 @@ export const prosePattern = {
   slug: "prose-pattern",
   definition: "the prose a pattern matches",
   changeTargetType: "change-target-type/prose",
+  createdAt: "2026-09-08T17:35:32.802Z",
+  updatedAt: "2026-09-22T10:07:43.000Z",
 } as const satisfies ChangeTargetSubtype

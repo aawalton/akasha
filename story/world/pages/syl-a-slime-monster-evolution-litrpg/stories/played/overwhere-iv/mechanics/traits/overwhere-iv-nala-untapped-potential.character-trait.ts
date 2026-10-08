@@ -10,4 +10,6 @@ export const overwhereIvNalaUntappedPotential = {
   character: "character-player/overwhere-iv-nala",
   description: "The human racial trait: new traits and skills come more quickly.",
   unrevealed: true,
+  createdAt: "2026-09-29T12:46:23.905Z",
+  updatedAt: "2026-09-30T07:31:16.000Z",
 } as const satisfies CharacterTrait

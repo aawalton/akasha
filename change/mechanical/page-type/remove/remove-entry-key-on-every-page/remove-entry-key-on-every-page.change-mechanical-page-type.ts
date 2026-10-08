@@ -44,4 +44,6 @@ export const removeEntryKeyOnEveryPage = {
     },
   ],
   changeKind: "change-kind/change-mechanical",
+  createdAt: "2026-09-24T20:30:41.682Z",
+  updatedAt: "2026-09-24T20:31:15.000Z",
 } as const satisfies ChangeMechanicalPageType

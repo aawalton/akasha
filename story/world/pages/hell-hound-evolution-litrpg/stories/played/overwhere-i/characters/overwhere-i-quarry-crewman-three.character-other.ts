@@ -7,4 +7,6 @@ export const overwhereIQuarryCrewmanThree = {
   title: "Quarry Crewman Three",
   story: "story-played/overwhere-i",
   place: "place/overwhere-i-greyback-and-east-road",
+  createdAt: "2026-10-02T15:29:10.715Z",
+  updatedAt: "2026-10-02T15:29:15.000Z",
 } as const satisfies CharacterOther

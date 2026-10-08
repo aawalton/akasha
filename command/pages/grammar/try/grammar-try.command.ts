@@ -83,4 +83,6 @@ export const grammarTry = {
       oneOf: ["argument/added-spelling", "argument/trial-construction"],
     },
   ],
+  createdAt: "2026-09-25T17:46:39.367Z",
+  updatedAt: "2026-09-25T17:46:49.000Z",
 } as const satisfies Command

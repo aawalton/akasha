@@ -7,4 +7,6 @@ export const commandTree = {
   definition: "the rows the commands panel draws",
   code: "ts",
   cooldownMilliseconds: 1000,
+  createdAt: "2026-09-07T15:53:44.958Z",
+  updatedAt: "2026-09-25T17:30:26.000Z",
 } as const satisfies CodeEditorDataInterface

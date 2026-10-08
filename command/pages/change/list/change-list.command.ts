@@ -57,4 +57,6 @@ export const changeList = {
   ],
   name: "list",
   arguments: [],
+  createdAt: "2026-09-08T14:28:49.966Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies Command

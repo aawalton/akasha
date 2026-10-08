@@ -121,4 +121,6 @@ export const noUnparsedBoundaryRead = {
   check: { maxCpuSeconds: 10 },
   audit: { maxCpuSeconds: 15 },
   experimental: true,
+  createdAt: "2026-09-08T19:29:07.923Z",
+  updatedAt: "2026-09-25T16:27:09.000Z",
 } as const satisfies CheckCode

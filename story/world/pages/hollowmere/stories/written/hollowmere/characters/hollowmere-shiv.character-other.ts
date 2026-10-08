@@ -8,4 +8,6 @@ export const hollowmereShiv = {
   story: "story-written/hollowmere",
   place: "place/hollowmere-village",
   cover: "image/image-5e76d8980617353d",
+  createdAt: "2026-10-02T15:23:20.562Z",
+  updatedAt: "2026-10-03T19:40:48.000Z",
 } as const satisfies CharacterOther

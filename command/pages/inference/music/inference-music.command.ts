@@ -60,4 +60,6 @@ export const inferenceMusic = {
       oneOf: ["argument/prompt-file"],
     },
   ],
+  createdAt: "2026-09-03T17:44:10.832Z",
+  updatedAt: "2026-09-22T10:08:16.000Z",
 } as const satisfies Command

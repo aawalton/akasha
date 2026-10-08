@@ -71,4 +71,6 @@ export const changeDrop = {
   ],
   name: "drop",
   arguments: [],
+  createdAt: "2026-09-08T14:39:13.867Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies Command

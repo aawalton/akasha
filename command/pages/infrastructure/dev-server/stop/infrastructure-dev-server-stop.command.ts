@@ -53,4 +53,6 @@ export const infrastructureDevServerStop = {
       notWith: ["argument/commit", "argument/web-app"],
     },
   ],
+  createdAt: "2026-09-12T05:07:30.395Z",
+  updatedAt: "2026-09-22T10:09:10.000Z",
 } as const satisfies Command

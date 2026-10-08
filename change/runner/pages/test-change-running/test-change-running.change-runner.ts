@@ -32,4 +32,6 @@ export const testChangeRunning = {
       statement: "No change is imported here.",
     },
   ],
+  createdAt: "2026-09-13T16:42:11.502Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies ChangeRunner

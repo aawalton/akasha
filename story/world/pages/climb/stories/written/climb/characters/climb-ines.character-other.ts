@@ -8,4 +8,6 @@ export const climbInes = {
   story: "story-written/climb",
   cover: "image/image-b6fb75d3907f9395",
   place: "place/climb-floor-1",
+  createdAt: "2026-10-01T21:26:21.811Z",
+  updatedAt: "2026-10-03T19:03:12.000Z",
 } as const satisfies CharacterOther

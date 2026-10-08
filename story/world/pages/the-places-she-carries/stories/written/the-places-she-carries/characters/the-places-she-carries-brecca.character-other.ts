@@ -7,4 +7,6 @@ export const thePlacesSheCarriesBrecca = {
   title: "Brecca",
   story: "story-written/the-places-she-carries",
   place: "place/the-places-she-carries-varethen",
+  createdAt: "2026-10-03T19:20:05.300Z",
+  updatedAt: "2026-10-03T19:40:00.000Z",
 } as const satisfies CharacterOther

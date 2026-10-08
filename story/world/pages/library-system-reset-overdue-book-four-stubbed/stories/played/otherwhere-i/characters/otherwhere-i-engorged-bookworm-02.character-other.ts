@@ -7,4 +7,6 @@ export const otherwhereIEngorgedBookworm02 = {
   title: "Engorged Bookworm",
   story: "story-played/otherwhere-i",
   place: "place/otherwhere-i-break-room",
+  createdAt: "2026-09-27T20:17:23.002Z",
+  updatedAt: "2026-10-03T19:41:33.000Z",
 } as const satisfies CharacterOther

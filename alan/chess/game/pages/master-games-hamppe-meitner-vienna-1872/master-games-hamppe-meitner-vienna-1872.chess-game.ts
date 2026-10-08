@@ -21,4 +21,6 @@ export const masterGamesHamppeMeitnerVienna1872 = {
   openingName: "Vienna Game, Hamppe-Meitner Variation",
   openingEco: "C25",
   pgn: "pgn",
+  createdAt: "2026-07-01T15:59:58.878Z",
+  updatedAt: "2026-09-15T16:15:11.000Z",
 } as const satisfies ChessGame

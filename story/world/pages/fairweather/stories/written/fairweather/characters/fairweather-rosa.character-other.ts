@@ -10,4 +10,6 @@ export const fairweatherRosa = {
   cover: "image/image-3ceffacb87f4a406",
   coverDescription:
     "a sturdy, broad-shouldered Korean bargewoman in her fifties: a round face weathered by sun and wind, laughing green eyes with deep crow's feet, a wide generous mouth, warm tanned golden skin dusted with old freckles, and thick curly copper-red hair going grey, pinned up roughly with a wooden comb",
+  createdAt: "2026-10-04T13:15:06.296Z",
+  updatedAt: "2026-10-04T13:15:12.000Z",
 } as const satisfies CharacterOther

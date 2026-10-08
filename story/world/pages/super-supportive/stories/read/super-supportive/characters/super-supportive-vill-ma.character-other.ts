@@ -7,4 +7,6 @@ export const superSupportiveVillMa = {
   title: "Executioner Vill-ma",
   world: "world/super-supportive",
   story: "story-read/super-supportive",
+  createdAt: "2026-09-28T22:50:16.618Z",
+  updatedAt: "2026-09-28T22:50:27.000Z",
 } as const satisfies CharacterOther

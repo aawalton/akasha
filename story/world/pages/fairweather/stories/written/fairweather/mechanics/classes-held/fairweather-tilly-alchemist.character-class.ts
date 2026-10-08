@@ -11,4 +11,6 @@ export const fairweatherTillyAlchemist = {
   character: "character-other/fairweather-tilly",
   class: "world-class/fairweather-alchemist",
   unrevealed: true,
+  createdAt: "2026-10-03T20:11:48.107Z",
+  updatedAt: "2026-10-03T21:05:51.000Z",
 } as const satisfies CharacterClass

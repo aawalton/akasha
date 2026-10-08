@@ -10,4 +10,6 @@ export const sweepTestCharCopy = {
   visibility: "private",
   correlationId: "ac4cbd73-41ba-4cb4-ae1e-ca8b453d8632",
   targetCount: 1,
+  createdAt: "2026-09-03T17:48:09.134Z",
+  updatedAt: "2026-09-21T15:29:06.000Z",
 } as const satisfies CharacterBuild

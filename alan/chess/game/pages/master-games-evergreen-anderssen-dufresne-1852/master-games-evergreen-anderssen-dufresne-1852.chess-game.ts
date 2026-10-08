@@ -21,4 +21,6 @@ export const masterGamesEvergreenAnderssenDufresne1852 = {
   openingName: "Italian Game, Evans Gambit",
   openingEco: "C52",
   pgn: "pgn",
+  createdAt: "2026-07-01T15:59:58.853Z",
+  updatedAt: "2026-09-15T16:15:11.000Z",
 } as const satisfies ChessGame

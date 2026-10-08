@@ -70,4 +70,6 @@ export const imessageSend = {
     { argument: "argument/text", oneOf: ["argument/text-file", "argument/image"] },
     { argument: "argument/image", oneOf: ["argument/text-file", "argument/text"] },
   ],
+  createdAt: "2026-09-03T17:45:02.957Z",
+  updatedAt: "2026-09-22T10:08:16.000Z",
 } as const satisfies Command

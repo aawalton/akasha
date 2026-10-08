@@ -5,4 +5,6 @@ export const changeModeMove = {
   type: "page-type/change-mode",
   slug: "change-mode-move",
   definition: "something is moved to another place",
+  createdAt: "2026-09-07T13:52:31.784Z",
+  updatedAt: "2026-09-15T16:12:38.000Z",
 } as const satisfies ChangeMode

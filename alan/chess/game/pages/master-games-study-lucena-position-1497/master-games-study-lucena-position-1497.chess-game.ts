@@ -23,4 +23,6 @@ export const masterGamesStudyLucenaPosition1497 = {
   collection: "endgame-classics",
   fen: "1K1k4/1P6/8/8/8/8/r7/2R5 w - - 0 1",
   pgn: "pgn",
+  createdAt: "2026-07-02T20:40:38.741Z",
+  updatedAt: "2026-09-15T16:15:11.000Z",
 } as const satisfies ChessGame

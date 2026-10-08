@@ -7,4 +7,6 @@ export const overwhereIiiHorace = {
   title: "Headmaster Horace",
   world: "world/the-magpie-and-the-archmage-monster-evo-litrpg",
   story: "story-played/overwhere-iii",
+  createdAt: "2026-09-29T12:41:29.669Z",
+  updatedAt: "2026-09-29T12:41:32.000Z",
 } as const satisfies CharacterOther

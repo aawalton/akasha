@@ -10,4 +10,6 @@ export const fairweatherTamsinBerserker = {
   character: "character-other/fairweather-tamsin",
   class: "world-class/fairweather-berserker",
   unrevealed: true,
+  createdAt: "2026-10-03T20:11:48.106Z",
+  updatedAt: "2026-10-03T21:05:51.000Z",
 } as const satisfies CharacterClass

@@ -8,4 +8,6 @@ export const encountersKenzie = {
   story: "story-written/encounters",
   place: "place/encounters-cabana-bay-room",
   cover: "image/image-e28112b8475de798",
+  createdAt: "2026-10-06T21:12:27.664Z",
+  updatedAt: "2026-10-07T01:29:40.000Z",
 } as const satisfies CharacterOther

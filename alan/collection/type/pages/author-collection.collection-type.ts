@@ -7,4 +7,6 @@ export const authorCollection = {
   title: "Author Collection",
   unit: "unit/words",
   collectionTypeStatus: "not-doing",
+  createdAt: "2026-09-03T04:14:17.948Z",
+  updatedAt: "2026-09-15T16:19:49.000Z",
 } as const satisfies CollectionType

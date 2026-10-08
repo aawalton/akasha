@@ -14,4 +14,6 @@ export const level4 = {
   wardrobe:
     "The truly private layer — sleepwear, his shirt, a robe, towel-dried hair, a bare face.",
   pose: "Domestic ordinary from the partner vantage — reading in bed, morning coffee, cooking; casual physical-affection framing toward the unseen viewer.",
+  createdAt: "2026-08-30T19:04:17.199Z",
+  updatedAt: "2026-09-27T14:37:38.000Z",
 } as const satisfies ClosenessLevel

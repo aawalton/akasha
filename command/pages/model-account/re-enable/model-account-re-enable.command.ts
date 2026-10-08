@@ -44,4 +44,6 @@ export const modelAccountReEnable = {
   ],
   name: "re-enable",
   arguments: [{ argument: "argument/account", required: true, saidAs: "word" }],
+  createdAt: "2026-09-03T17:47:08.771Z",
+  updatedAt: "2026-09-22T14:07:45.000Z",
 } as const satisfies Command

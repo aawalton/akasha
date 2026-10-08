@@ -56,4 +56,6 @@ export const noGlobalInAModule = {
   ],
   check: { maxCpuSeconds: 1 },
   audit: { maxCpuSeconds: 60 },
+  createdAt: "2026-09-02T11:50:00.099Z",
+  updatedAt: "2026-09-19T04:48:48.000Z",
 } as const satisfies CheckCode

@@ -124,4 +124,6 @@ export const indexRefresh = {
   ],
   name: "refresh",
   arguments: [{ argument: "argument/plan" }],
+  createdAt: "2026-08-29T14:16:31.482Z",
+  updatedAt: "2026-09-25T14:07:34.000Z",
 } as const satisfies Command

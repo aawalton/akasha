@@ -27,4 +27,6 @@ export const emailAttachmentShow = {
     { argument: "argument/message", required: true, saidAs: "flag-or-word" },
     { argument: "argument/attachment-id", required: true },
   ],
+  createdAt: "2026-09-03T16:18:47.185Z",
+  updatedAt: "2026-09-22T10:07:02.000Z",
 } as const satisfies Command

@@ -112,4 +112,6 @@ export const viewNamesADeclaredKey = {
   ],
   check: { maxCpuSeconds: 10 },
   audit: { maxCpuSeconds: 15 },
+  createdAt: "2026-09-21T19:28:16.205Z",
+  updatedAt: "2026-09-27T22:18:31.000Z",
 } as const satisfies CheckCode

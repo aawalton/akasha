@@ -10,4 +10,6 @@ export const fairweatherElsieEnthraller = {
   character: "character-player/fairweather-elsie",
   class: "world-class/fairweather-enthraller",
   unrevealed: false,
+  createdAt: "2026-10-03T16:53:18.044Z",
+  updatedAt: "2026-10-04T01:14:44.000Z",
 } as const satisfies CharacterClass

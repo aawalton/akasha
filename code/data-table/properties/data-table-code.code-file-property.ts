@@ -23,4 +23,6 @@ export const dataTableCode = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-22T13:20:58.831Z",
+  updatedAt: "2026-09-22T13:21:09.000Z",
 } as const satisfies CodeFileProperty

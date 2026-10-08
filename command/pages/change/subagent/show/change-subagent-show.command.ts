@@ -110,4 +110,6 @@ export const changeSubagentShow = {
   ],
   name: "show",
   arguments: [],
+  createdAt: "2026-09-13T19:19:24.208Z",
+  updatedAt: "2026-09-22T10:07:02.000Z",
 } as const satisfies Command

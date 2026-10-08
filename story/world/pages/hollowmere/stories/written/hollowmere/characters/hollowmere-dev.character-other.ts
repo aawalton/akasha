@@ -6,4 +6,6 @@ export const hollowmereDev = {
   slug: "hollowmere-dev",
   title: "Dev",
   story: "story-written/hollowmere",
+  createdAt: "2026-10-02T21:48:05.671Z",
+  updatedAt: "2026-10-02T21:48:17.000Z",
 } as const satisfies CharacterOther

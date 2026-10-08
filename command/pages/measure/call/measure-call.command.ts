@@ -107,4 +107,6 @@ export const measureCall = {
   ],
   name: "call",
   arguments: [{ argument: "argument/run-window" }],
+  createdAt: "2026-09-13T18:24:02.780Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies Command

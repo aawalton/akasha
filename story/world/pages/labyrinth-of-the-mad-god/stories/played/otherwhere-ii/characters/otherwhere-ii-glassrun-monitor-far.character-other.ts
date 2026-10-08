@@ -7,4 +7,6 @@ export const otherwhereIiGlassrunMonitorFar = {
   title: "The Farther Mire Monitor",
   story: "story-played/otherwhere-ii",
   place: "place/otherwhere-ii-glassrun",
+  createdAt: "2026-09-28T22:01:55.971Z",
+  updatedAt: "2026-09-28T22:39:25.000Z",
 } as const satisfies CharacterOther

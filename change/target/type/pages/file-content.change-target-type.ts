@@ -5,4 +5,6 @@ export const fileContent = {
   type: "page-type/change-target-type",
   slug: "file-content",
   definition: "what a file has rather than where that file sits",
+  createdAt: "2026-09-07T15:26:09.604Z",
+  updatedAt: "2026-09-15T16:13:44.000Z",
 } as const satisfies ChangeTargetType

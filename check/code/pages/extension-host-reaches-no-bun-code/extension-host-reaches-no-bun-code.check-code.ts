@@ -145,4 +145,6 @@ export const extensionHostReachesNoBunCode = {
   ],
   check: { maxCpuSeconds: 10 },
   audit: { maxCpuSeconds: 15 },
+  createdAt: "2026-09-10T14:16:52.709Z",
+  updatedAt: "2026-09-24T22:52:45.000Z",
 } as const satisfies CheckCode

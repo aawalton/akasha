@@ -41,4 +41,6 @@ export const measureComplexityHalstead = {
     { argument: "argument/top" },
     { argument: "argument/threshold" },
   ],
+  createdAt: "2026-09-10T19:31:12.214Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies Command

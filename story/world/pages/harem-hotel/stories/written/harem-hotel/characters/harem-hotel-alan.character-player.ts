@@ -8,4 +8,6 @@ export const haremHotelAlan = {
   story: "story-written/harem-hotel",
   person: "person/alan",
   place: "place/harem-hotel-floor-4",
+  createdAt: "2026-09-28T13:08:08.475Z",
+  updatedAt: "2026-10-03T19:22:35.000Z",
 } as const satisfies CharacterPlayer

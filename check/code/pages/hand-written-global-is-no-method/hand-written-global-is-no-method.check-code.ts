@@ -71,4 +71,6 @@ export const handWrittenGlobalIsNoMethod = {
   ],
   check: { maxCpuSeconds: 1 },
   audit: { maxCpuSeconds: 15 },
+  createdAt: "2026-09-08T18:16:20.735Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies CheckCode

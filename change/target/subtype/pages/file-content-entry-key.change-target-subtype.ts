@@ -7,4 +7,6 @@ export const fileContentEntryKey = {
   definition: "a body taken as the keys of an entry beside a page",
   changeTargetType: "change-target-type/file-content",
   parent: "change-target-subtype/file-content",
+  createdAt: "2026-09-13T15:22:16.268Z",
+  updatedAt: "2026-09-22T13:37:15.000Z",
 } as const satisfies ChangeTargetSubtype

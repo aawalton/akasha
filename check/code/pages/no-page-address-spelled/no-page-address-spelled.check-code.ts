@@ -73,4 +73,6 @@ export const noPageAddressSpelled = {
   ],
   check: { maxCpuSeconds: 10 },
   audit: { maxCpuSeconds: 30 },
+  createdAt: "2026-09-14T14:44:08.335Z",
+  updatedAt: "2026-09-29T00:22:31.000Z",
 } as const satisfies CheckCode

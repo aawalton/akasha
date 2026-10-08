@@ -80,4 +80,6 @@ export const icloudFetch = {
     { argument: "argument/album", required: true, saidAs: "flag-or-word" },
     { argument: "argument/json" },
   ],
+  createdAt: "2026-09-10T20:18:32.513Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies Command

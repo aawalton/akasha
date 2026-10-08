@@ -5,4 +5,6 @@ export const text = {
   type: "page-type/color",
   slug: "text",
   title: "Text",
+  createdAt: "2026-08-16T18:01:35.558Z",
+  updatedAt: "2026-09-15T16:20:08.000Z",
 } as const satisfies Color

@@ -8,4 +8,6 @@ export const thePlacesSheCarriesWren = {
   story: "story-written/the-places-she-carries",
   place: "place/the-places-she-carries-varethen",
   person: "person/alan",
+  createdAt: "2026-10-03T19:20:05.301Z",
+  updatedAt: "2026-10-03T19:40:00.000Z",
 } as const satisfies CharacterPlayer

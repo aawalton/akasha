@@ -48,4 +48,6 @@ export const measureLearning = {
   ],
   name: "learning",
   arguments: [{ argument: "argument/json" }],
+  createdAt: "2026-09-06T18:29:13.000Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies Command

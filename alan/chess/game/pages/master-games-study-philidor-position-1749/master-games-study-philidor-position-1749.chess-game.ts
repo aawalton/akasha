@@ -23,4 +23,6 @@ export const masterGamesStudyPhilidorPosition1749 = {
   collection: "endgame-classics",
   fen: "4k3/8/r7/4K3/4P3/8/8/5R2 w - - 0 1",
   pgn: "pgn",
+  createdAt: "2026-07-02T20:40:38.743Z",
+  updatedAt: "2026-09-15T16:15:11.000Z",
 } as const satisfies ChessGame

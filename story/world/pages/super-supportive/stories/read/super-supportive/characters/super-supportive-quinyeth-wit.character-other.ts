@@ -7,4 +7,6 @@ export const superSupportiveQuinyethWit = {
   title: "Quinyeth-wit",
   world: "world/super-supportive",
   story: "story-read/super-supportive",
+  createdAt: "2026-09-28T22:42:42.881Z",
+  updatedAt: "2026-09-28T22:42:47.000Z",
 } as const satisfies CharacterOther

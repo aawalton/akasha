@@ -66,4 +66,6 @@ export const modelAccountLogin = {
     { argument: "argument/account", required: true },
     { argument: "argument/login-code", required: false },
   ],
+  createdAt: "2026-09-30T06:51:46.726Z",
+  updatedAt: "2026-09-30T06:58:10.000Z",
 } as const satisfies Command

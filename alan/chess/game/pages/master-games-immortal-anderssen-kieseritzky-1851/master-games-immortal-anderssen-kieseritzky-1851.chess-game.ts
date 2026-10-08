@@ -21,4 +21,6 @@ export const masterGamesImmortalAnderssenKieseritzky1851 = {
   openingName: "King's Gambit Accepted, Bishop's Gambit",
   openingEco: "C33",
   pgn: "pgn",
+  createdAt: "2026-07-01T15:59:58.840Z",
+  updatedAt: "2026-09-15T16:15:11.000Z",
 } as const satisfies ChessGame

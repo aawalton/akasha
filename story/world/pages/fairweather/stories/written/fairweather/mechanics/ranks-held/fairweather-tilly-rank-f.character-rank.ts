@@ -10,4 +10,6 @@ export const fairweatherTillyRankF = {
   character: "character-other/fairweather-tilly",
   rank: "world-rank/fairweather-rank-e",
   unrevealed: true,
+  createdAt: "2026-10-03T20:11:48.107Z",
+  updatedAt: "2026-10-06T12:21:38.000Z",
 } as const satisfies CharacterRank

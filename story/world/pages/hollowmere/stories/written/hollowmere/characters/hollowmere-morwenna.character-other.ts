@@ -8,4 +8,6 @@ export const hollowmereMorwenna = {
   story: "story-written/hollowmere",
   place: "place/hollowmere-village",
   cover: "image/image-6b5fc5b34919ce6b",
+  createdAt: "2026-10-02T21:48:05.672Z",
+  updatedAt: "2026-10-03T19:40:48.000Z",
 } as const satisfies CharacterOther

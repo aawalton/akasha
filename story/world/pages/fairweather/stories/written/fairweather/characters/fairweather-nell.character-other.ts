@@ -10,4 +10,6 @@ export const fairweatherNell = {
   cover: "image/image-546f4c8a36b1f205",
   coverDescription:
     "a pretty, slim young Korean woman of nineteen with a K-pop idol's sweet face: a small V-line face, almond-shaped bright green eyes, a small nose, a wide friendly smile, warm sun-kissed golden skin dusted with freckles, and shoulder-length copper-red curls tied up messily with a strip of blue cloth",
+  createdAt: "2026-10-04T13:14:54.633Z",
+  updatedAt: "2026-10-04T13:15:00.000Z",
 } as const satisfies CharacterOther

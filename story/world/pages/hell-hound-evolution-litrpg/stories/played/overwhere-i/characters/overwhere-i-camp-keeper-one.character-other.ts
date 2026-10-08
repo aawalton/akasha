@@ -7,4 +7,6 @@ export const overwhereICampKeeperOne = {
   title: "Camp Keeper One",
   story: "story-played/overwhere-i",
   place: "place/overwhere-i-greyback-and-east-road",
+  createdAt: "2026-10-02T19:49:48.716Z",
+  updatedAt: "2026-10-02T19:49:51.000Z",
 } as const satisfies CharacterOther

@@ -27,4 +27,6 @@ export const googleCalendarEventDelete = {
     { argument: "argument/event", required: true, saidAs: "flag-or-word" },
     { argument: "argument/calendar" },
   ],
+  createdAt: "2026-09-10T20:14:58.477Z",
+  updatedAt: "2026-09-22T10:07:02.000Z",
 } as const satisfies Command

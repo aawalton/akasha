@@ -157,4 +157,6 @@ export const browserCodeReadsTheEnvironmentByAName = {
   ],
   check: { maxCpuSeconds: 10 },
   audit: { maxCpuSeconds: 45 },
+  createdAt: "2026-09-10T23:54:00.146Z",
+  updatedAt: "2026-09-19T04:48:48.000Z",
 } as const satisfies CheckCode

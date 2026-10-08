@@ -79,4 +79,6 @@ export const propertySitsUnderThePageItIsAPartOf = {
   ],
   check: { maxCpuSeconds: 10 },
   audit: { maxCpuSeconds: 15 },
+  createdAt: "2026-09-16T13:32:35.812Z",
+  updatedAt: "2026-09-16T13:55:38.000Z",
 } as const satisfies CheckCode

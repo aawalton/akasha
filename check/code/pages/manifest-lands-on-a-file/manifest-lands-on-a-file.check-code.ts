@@ -65,4 +65,6 @@ export const manifestLandsOnAFile = {
   ],
   check: { maxCpuSeconds: 1 },
   audit: { maxCpuSeconds: 15 },
+  createdAt: "2026-09-01T14:53:20.877Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies CheckCode

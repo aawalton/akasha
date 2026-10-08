@@ -67,4 +67,6 @@ export const findingDelete = {
   ],
   name: "delete",
   arguments: [{ argument: "argument/finding", required: true, saidAs: "word" }],
+  createdAt: "2026-09-19T03:06:01.181Z",
+  updatedAt: "2026-09-22T10:06:53.000Z",
 } as const satisfies Command

@@ -5,4 +5,6 @@ export const changeModeRemove = {
   type: "page-type/change-mode",
   slug: "change-mode-remove",
   definition: "something there is taken away",
+  createdAt: "2026-09-07T13:52:35.230Z",
+  updatedAt: "2026-09-15T16:12:38.000Z",
 } as const satisfies ChangeMode

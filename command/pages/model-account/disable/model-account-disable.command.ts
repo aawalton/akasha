@@ -51,4 +51,6 @@ export const modelAccountDisable = {
   ],
   name: "disable",
   arguments: [{ argument: "argument/account", required: true, saidAs: "word" }],
+  createdAt: "2026-09-22T12:29:18.801Z",
+  updatedAt: "2026-09-22T12:30:22.000Z",
 } as const satisfies Command

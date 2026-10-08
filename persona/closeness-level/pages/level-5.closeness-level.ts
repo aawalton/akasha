@@ -14,4 +14,6 @@ export const level5 = {
   wardrobe:
     "Intimate — lingerie, partial undress, bare skin framed with intent; implied, not shown.",
   pose: "Bedroom or enclosed, reclined or close, fully oriented to the unseen viewer inside the guard; invitation in the posture.",
+  createdAt: "2026-08-30T19:04:17.200Z",
+  updatedAt: "2026-09-27T14:37:38.000Z",
 } as const satisfies ClosenessLevel

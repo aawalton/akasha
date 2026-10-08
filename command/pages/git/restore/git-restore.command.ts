@@ -137,4 +137,6 @@ export const gitRestore = {
   ],
   name: "restore",
   arguments: [{ argument: "argument/file-path", required: true, repeats: true }],
+  createdAt: "2026-09-05T16:30:11.349Z",
+  updatedAt: "2026-09-25T13:42:44.000Z",
 } as const satisfies Command

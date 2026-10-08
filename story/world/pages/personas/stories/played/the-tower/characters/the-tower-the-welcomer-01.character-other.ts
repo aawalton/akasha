@@ -7,4 +7,6 @@ export const theTowerTheWelcomer01 = {
   title: "The Welcomer",
   story: "story-played/the-tower",
   place: "place/the-tower-hall-of-welcome",
+  createdAt: "2026-09-22T17:32:20.813Z",
+  updatedAt: "2026-10-03T20:10:04.000Z",
 } as const satisfies CharacterOther

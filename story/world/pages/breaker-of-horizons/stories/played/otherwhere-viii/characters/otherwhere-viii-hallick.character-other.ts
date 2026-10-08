@@ -7,4 +7,6 @@ export const otherwhereViiiHallick = {
   title: "Doran Hallick",
   story: "story-played/otherwhere-viii",
   place: "place/otherwhere-viii-the-workshop",
+  createdAt: "2026-09-29T01:17:13.223Z",
+  updatedAt: "2026-10-03T19:46:29.000Z",
 } as const satisfies CharacterOther

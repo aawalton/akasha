@@ -7,4 +7,6 @@ export const theDungeonOfOneThousandDeathsSeraVant = {
   title: "Sera Vant",
   story: "story-written/the-dungeon-of-one-thousand-deaths",
   place: "place/the-dungeon-of-one-thousand-deaths-the-still-garden",
+  createdAt: "2026-10-03T19:27:01.426Z",
+  updatedAt: "2026-10-03T19:27:04.000Z",
 } as const satisfies CharacterOther

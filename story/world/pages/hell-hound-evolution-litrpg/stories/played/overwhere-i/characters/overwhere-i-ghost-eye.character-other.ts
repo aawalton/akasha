@@ -7,4 +7,6 @@ export const overwhereIGhostEye = {
   title: "Ghost-Eye",
   story: "story-played/overwhere-i",
   place: "place/overwhere-i-the-greyfen",
+  createdAt: "2026-09-30T21:02:15.558Z",
+  updatedAt: "2026-09-30T21:02:18.000Z",
 } as const satisfies CharacterOther

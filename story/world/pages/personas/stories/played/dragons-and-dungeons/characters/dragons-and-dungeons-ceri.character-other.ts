@@ -7,4 +7,6 @@ export const dragonsAndDungeonsCeri = {
   title: "Ceri",
   story: "story-played/dragons-and-dungeons",
   persona: "persona/ceri",
+  createdAt: "2026-09-27T15:54:28.248Z",
+  updatedAt: "2026-09-27T15:54:30.000Z",
 } as const satisfies CharacterOther

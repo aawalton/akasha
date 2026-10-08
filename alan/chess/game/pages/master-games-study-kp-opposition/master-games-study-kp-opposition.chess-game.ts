@@ -23,4 +23,6 @@ export const masterGamesStudyKpOpposition = {
   collection: "endgame-classics",
   fen: "8/8/4k3/8/4K3/4P3/8/8 b - - 0 1",
   pgn: "pgn",
+  createdAt: "2026-07-02T20:40:38.736Z",
+  updatedAt: "2026-09-15T16:15:11.000Z",
 } as const satisfies ChessGame

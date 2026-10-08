@@ -142,4 +142,6 @@ export const browserCodeCompiles = {
   ],
   check: { maxCpuSeconds: 120 },
   audit: { maxCpuSeconds: 300 },
+  createdAt: "2026-09-24T17:05:17.239Z",
+  updatedAt: "2026-09-24T23:13:56.000Z",
 } as const satisfies CheckCode

@@ -106,4 +106,6 @@ export const keyNamesOneProperty = {
   ],
   check: { maxCpuSeconds: 10 },
   audit: { maxCpuSeconds: 15 },
+  createdAt: "2026-08-30T19:27:33.974Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies CheckCode

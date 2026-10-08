@@ -8,4 +8,6 @@ export const theBeholderColetteVane = {
   world: "world/the-beholder",
   story: "story-written/the-beholder",
   place: "place/the-beholder-mirror-studio",
+  createdAt: "2026-09-26T17:27:51.035Z",
+  updatedAt: "2026-10-03T19:16:47.000Z",
 } as const satisfies CharacterOther

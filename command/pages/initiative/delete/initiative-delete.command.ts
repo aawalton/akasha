@@ -106,4 +106,6 @@ export const initiativeDelete = {
   ],
   name: "delete",
   arguments: [{ argument: "argument/initiative", required: true, saidAs: "word" }],
+  createdAt: "2026-09-10T17:20:34.070Z",
+  updatedAt: "2026-09-25T14:04:03.000Z",
 } as const satisfies Command

@@ -6,4 +6,6 @@ export const theTowerCompanionAura = {
   slug: "the-tower-companion-aura",
   title: "Aura",
   story: "story-played/the-tower",
+  createdAt: "2026-09-22T17:27:45.131Z",
+  updatedAt: "2026-09-26T17:44:02.000Z",
 } as const satisfies CharacterOther

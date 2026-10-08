@@ -11,4 +11,6 @@ export const hollowmereNala = {
   story: "story-written/hollowmere",
   place: "place/hollowmere-thornfield-house",
   person: "person/alan",
+  createdAt: "2026-10-02T14:38:58.420Z",
+  updatedAt: "2026-10-03T19:40:48.000Z",
 } as const satisfies CharacterPlayer

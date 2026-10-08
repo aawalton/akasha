@@ -8,4 +8,6 @@ export const encountersAlan = {
   story: "story-written/encounters",
   place: "place/encounters-cabana-bay-room",
   person: "person/alan",
+  createdAt: "2026-10-06T20:54:26.824Z",
+  updatedAt: "2026-10-07T01:29:40.000Z",
 } as const satisfies CharacterPlayer

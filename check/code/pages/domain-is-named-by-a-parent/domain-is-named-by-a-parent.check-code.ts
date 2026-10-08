@@ -120,4 +120,6 @@ export const domainIsNamedByAParent = {
   ],
   check: { maxCpuSeconds: 10 },
   audit: { maxCpuSeconds: 15 },
+  createdAt: "2026-08-29T11:55:17.681Z",
+  updatedAt: "2026-09-16T17:04:55.000Z",
 } as const satisfies CheckCode

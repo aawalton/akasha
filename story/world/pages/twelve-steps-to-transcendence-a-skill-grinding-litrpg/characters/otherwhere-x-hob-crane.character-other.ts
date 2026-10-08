@@ -8,4 +8,6 @@ export const otherwhereXHobCrane = {
   world: "world/twelve-steps-to-transcendence-a-skill-grinding-litrpg",
   story: "story-played/otherwhere-x",
   place: "place/otherwhere-x-harrow-green",
+  createdAt: "2026-09-29T01:46:23.911Z",
+  updatedAt: "2026-10-03T19:48:13.000Z",
 } as const satisfies CharacterOther

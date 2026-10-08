@@ -11,4 +11,6 @@ export const otherwhereIxNala = {
   story: "story-played/otherwhere-ix",
   place: "place/otherwhere-ix-glassgrass-flats",
   person: "person/alan",
+  createdAt: "2026-09-28T22:21:22.358Z",
+  updatedAt: "2026-10-03T19:46:35.000Z",
 } as const satisfies CharacterPlayer

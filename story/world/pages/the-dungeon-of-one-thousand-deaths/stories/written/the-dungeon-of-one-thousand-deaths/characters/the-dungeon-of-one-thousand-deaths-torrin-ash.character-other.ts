@@ -7,4 +7,6 @@ export const theDungeonOfOneThousandDeathsTorrinAsh = {
   title: "Torrin Ash",
   story: "story-written/the-dungeon-of-one-thousand-deaths",
   place: "place/the-dungeon-of-one-thousand-deaths-the-still-garden",
+  createdAt: "2026-10-03T19:38:12.727Z",
+  updatedAt: "2026-10-03T19:38:16.000Z",
 } as const satisfies CharacterOther

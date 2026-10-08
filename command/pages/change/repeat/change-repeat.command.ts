@@ -162,4 +162,6 @@ export const changeRepeat = {
   ],
   name: "repeat",
   arguments: [{ argument: "argument/change", required: true, saidAs: "word" }],
+  createdAt: "2026-09-11T19:11:45.602Z",
+  updatedAt: "2026-09-24T16:15:43.000Z",
 } as const satisfies Command

@@ -149,4 +149,6 @@ export const lintClean = {
   ],
   check: { maxCpuSeconds: 60 },
   audit: { maxCpuSeconds: 420 },
+  createdAt: "2026-08-29T19:08:58.293Z",
+  updatedAt: "2026-09-22T13:56:01.000Z",
 } as const satisfies CheckCode

@@ -172,4 +172,6 @@ export const audit = {
   ],
   name: "audit",
   arguments: [{ argument: "argument/check", repeats: true }],
+  createdAt: "2026-08-29T22:53:32.836Z",
+  updatedAt: "2026-09-22T15:41:02.000Z",
 } as const satisfies Command

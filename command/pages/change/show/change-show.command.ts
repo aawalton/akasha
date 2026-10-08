@@ -140,4 +140,6 @@ export const changeShow = {
   ],
   name: "show",
   arguments: [],
+  createdAt: "2026-09-08T13:56:05.417Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies Command

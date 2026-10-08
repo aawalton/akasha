@@ -36,4 +36,6 @@ export const emailMessageList = {
     { argument: "argument/max" },
     { argument: "argument/label", repeats: true },
   ],
+  createdAt: "2026-09-03T16:18:47.185Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies Command

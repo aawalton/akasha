@@ -6,4 +6,6 @@ export const otherwhereViiOsricVane = {
   slug: "otherwhere-vii-osric-vane",
   title: "Osric Vane",
   story: "story-played/otherwhere-vii",
+  createdAt: "2026-09-29T02:02:59.219Z",
+  updatedAt: "2026-09-29T02:03:02.000Z",
 } as const satisfies CharacterOther

@@ -9,4 +9,6 @@ export const overwhereIvNalaSpellblade = {
   description: "An intermediate class that fights with both spell and blade.",
   character: "character-player/overwhere-iv-nala",
   class: "world-class/overwhere-iv-spellblade",
+  createdAt: "2026-09-30T19:36:32.290Z",
+  updatedAt: "2026-09-30T19:36:35.000Z",
 } as const satisfies CharacterClass

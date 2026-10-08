@@ -107,4 +107,6 @@ export const modelGatewaySwap = {
     },
     { argument: "argument/fleet", notWith: ["argument/seat"], oneOf: ["argument/seat"] },
   ],
+  createdAt: "2026-09-07T13:28:38.883Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies Command

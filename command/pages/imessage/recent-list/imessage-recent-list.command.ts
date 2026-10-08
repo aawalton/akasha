@@ -44,4 +44,6 @@ export const imessageRecentList = {
     { argument: "argument/limit", default: "20" },
     { argument: "argument/contact" },
   ],
+  createdAt: "2026-09-03T17:45:02.957Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies Command

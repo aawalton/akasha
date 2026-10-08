@@ -24,4 +24,6 @@ export const masterGamesTaimanovNajdorfZurich1953 = {
     "Closed structures: King's Indian - locked center, race on opposite wings, and the ...g5-g4-g3 kingside pawn storm",
   collection: "closed-structures",
   pgn: "pgn",
+  createdAt: "2026-07-02T20:40:38.751Z",
+  updatedAt: "2026-09-15T16:15:11.000Z",
 } as const satisfies ChessGame

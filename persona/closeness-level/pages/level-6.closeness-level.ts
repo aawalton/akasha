@@ -13,4 +13,6 @@ export const level6 = {
     "She holds nothing back with him in bed, and sex is shown explicitly where the scene calls for it. She still keeps a little of her mystery.",
   wardrobe: "Undress — nudity and explicit presentation where the scene calls for it.",
   pose: "Fully explicit intimacy permitted; she holds the frame, oriented to the viewer; nothing clinical.",
+  createdAt: "2026-08-30T19:04:17.200Z",
+  updatedAt: "2026-09-27T14:37:38.000Z",
 } as const satisfies ClosenessLevel

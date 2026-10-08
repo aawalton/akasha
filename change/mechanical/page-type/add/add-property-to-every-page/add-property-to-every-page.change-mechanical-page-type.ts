@@ -83,4 +83,6 @@ export const addPropertyToEveryPage = {
     },
   ],
   changeKind: "change-kind/change-mechanical",
+  createdAt: "2026-09-13T20:14:31.577Z",
+  updatedAt: "2026-09-22T10:09:40.000Z",
 } as const satisfies ChangeMechanicalPageType

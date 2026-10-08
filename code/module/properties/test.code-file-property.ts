@@ -56,4 +56,6 @@ export const test = {
     },
   ],
   types: "ts",
+  createdAt: "2026-08-28T21:02:36.094Z",
+  updatedAt: "2026-09-25T19:54:24.000Z",
 } as const satisfies CodeFileProperty

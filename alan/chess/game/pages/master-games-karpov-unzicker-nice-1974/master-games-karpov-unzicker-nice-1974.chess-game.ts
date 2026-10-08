@@ -24,4 +24,6 @@ export const masterGamesKarpovUnzickerNice1974 = {
     "Positional squeeze: clamp the position (Ba7!), trade nothing useful, improve every piece until the defense runs out of moves",
   collection: "positional-masterpieces",
   pgn: "pgn",
+  createdAt: "2026-07-02T20:40:38.748Z",
+  updatedAt: "2026-09-15T16:15:11.000Z",
 } as const satisfies ChessGame

@@ -211,4 +211,6 @@ export const folderMatchesAShape = {
   ],
   check: { maxCpuSeconds: 15 },
   audit: { maxCpuSeconds: 120 },
+  createdAt: "2026-08-29T15:47:02.401Z",
+  updatedAt: "2026-09-24T23:11:49.000Z",
 } as const satisfies CheckCode

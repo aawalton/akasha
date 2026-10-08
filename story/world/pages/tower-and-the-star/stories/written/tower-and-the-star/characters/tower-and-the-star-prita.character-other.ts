@@ -7,4 +7,6 @@ export const towerAndTheStarPrita = {
   title: "Prita Acharya",
   story: "story-written/tower-and-the-star",
   place: "place/tower-and-the-star-floor-15-rest-node",
+  createdAt: "2026-10-03T19:31:46.768Z",
+  updatedAt: "2026-10-03T19:52:12.000Z",
 } as const satisfies CharacterOther

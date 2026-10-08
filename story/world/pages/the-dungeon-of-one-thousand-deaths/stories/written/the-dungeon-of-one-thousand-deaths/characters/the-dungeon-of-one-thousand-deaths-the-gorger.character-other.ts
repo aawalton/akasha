@@ -7,4 +7,6 @@ export const theDungeonOfOneThousandDeathsTheGorger = {
   title: "The Patient",
   story: "story-written/the-dungeon-of-one-thousand-deaths",
   place: "place/the-dungeon-of-one-thousand-deaths-the-still-garden",
+  createdAt: "2026-10-03T19:24:40.813Z",
+  updatedAt: "2026-10-03T19:30:13.000Z",
 } as const satisfies CharacterOther

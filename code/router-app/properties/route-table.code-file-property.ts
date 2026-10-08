@@ -9,4 +9,6 @@ export const routeTable = {
   extensions: ["ts"],
   fileName: "routes.ts",
   types: "ts",
+  createdAt: "2026-09-02T21:08:34.607Z",
+  updatedAt: "2026-09-15T16:19:31.000Z",
 } as const satisfies CodeFileProperty

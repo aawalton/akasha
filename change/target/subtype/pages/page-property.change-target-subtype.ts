@@ -6,4 +6,6 @@ export const pageProperty = {
   slug: "page-property",
   definition: "any page property, whatever that property has",
   changeTargetType: "change-target-type/page-property",
+  createdAt: "2026-09-13T20:18:50.492Z",
+  updatedAt: "2026-09-15T16:13:26.000Z",
 } as const satisfies ChangeTargetSubtype

@@ -7,4 +7,6 @@ export const towerAndTheStarBrennan = {
   title: "Brennan Cole",
   story: "story-written/tower-and-the-star",
   place: "place/tower-and-the-star-floor-19-transition-hall",
+  createdAt: "2026-10-03T19:31:46.767Z",
+  updatedAt: "2026-10-03T19:52:12.000Z",
 } as const satisfies CharacterOther

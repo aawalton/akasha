@@ -7,4 +7,6 @@ export const breathOfTheWildRhoam = {
   title: "King Rhoam",
   story: "story-written/breath-of-the-wild",
   place: "place/hyrule-temple-of-time",
+  createdAt: "2026-10-03T19:14:14.847Z",
+  updatedAt: "2026-10-03T19:26:03.000Z",
 } as const satisfies CharacterOther

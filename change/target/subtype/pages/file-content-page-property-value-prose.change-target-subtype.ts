@@ -7,4 +7,6 @@ export const fileContentPagePropertyValueProse = {
   definition: "a page property whose value is taken as prose",
   changeTargetType: "change-target-type/file-content",
   parent: "change-target-subtype/file-content-page-property-value",
+  createdAt: "2026-09-07T15:26:19.181Z",
+  updatedAt: "2026-09-22T13:24:12.000Z",
 } as const satisfies ChangeTargetSubtype

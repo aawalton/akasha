@@ -63,4 +63,6 @@ export const domainDag = {
     { argument: "argument/root-domain", repeats: true },
     { argument: "argument/up", repeats: true },
   ],
+  createdAt: "2026-09-07T13:16:41.979Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies Command

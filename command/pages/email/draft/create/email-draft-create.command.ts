@@ -63,4 +63,6 @@ export const emailDraftCreate = {
     { argument: "argument/bcc", repeats: true },
     { argument: "argument/attach", repeats: true },
   ],
+  createdAt: "2026-09-03T16:18:47.185Z",
+  updatedAt: "2026-09-22T10:09:03.000Z",
 } as const satisfies Command

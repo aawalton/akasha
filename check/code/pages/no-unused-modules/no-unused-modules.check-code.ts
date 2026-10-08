@@ -142,4 +142,6 @@ export const noUnusedModules = {
   ],
   check: { maxCpuSeconds: 30 },
   audit: { maxCpuSeconds: 60 },
+  createdAt: "2026-09-21T23:50:16.044Z",
+  updatedAt: "2026-09-24T22:04:47.000Z",
 } as const satisfies CheckCode

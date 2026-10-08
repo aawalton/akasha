@@ -146,4 +146,6 @@ export const commandTakesItsArgumentsThroughOneReader = {
   ],
   check: { maxCpuSeconds: 10 },
   audit: { maxCpuSeconds: 15 },
+  createdAt: "2026-09-12T10:10:31.371Z",
+  updatedAt: "2026-09-22T10:09:53.000Z",
 } as const satisfies CheckCode

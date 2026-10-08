@@ -7,4 +7,6 @@ export const otherwhereViWat = {
   title: "Old Wat",
   story: "story-played/otherwhere-vi",
   place: "place/otherwhere-vi-charcoal-camp",
+  createdAt: "2026-09-29T01:32:50.243Z",
+  updatedAt: "2026-09-29T01:32:52.000Z",
 } as const satisfies CharacterOther

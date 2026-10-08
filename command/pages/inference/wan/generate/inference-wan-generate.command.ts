@@ -69,4 +69,6 @@ export const inferenceWanGenerate = {
       oneOf: ["argument/prompt-file"],
     },
   ],
+  createdAt: "2026-09-12T04:58:02.952Z",
+  updatedAt: "2026-09-25T14:08:04.000Z",
 } as const satisfies Command

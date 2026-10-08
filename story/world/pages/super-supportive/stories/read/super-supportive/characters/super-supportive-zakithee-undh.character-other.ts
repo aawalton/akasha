@@ -7,4 +7,6 @@ export const superSupportiveZakitheeUndh = {
   title: "Zakithee-und'h",
   world: "world/super-supportive",
   story: "story-read/super-supportive",
+  createdAt: "2026-09-28T23:06:43.551Z",
+  updatedAt: "2026-09-28T23:06:47.000Z",
 } as const satisfies CharacterOther

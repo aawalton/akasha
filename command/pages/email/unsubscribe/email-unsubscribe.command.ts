@@ -39,4 +39,6 @@ export const emailUnsubscribe = {
   ],
   name: "unsubscribe",
   arguments: [{ argument: "argument/message", required: true, saidAs: "flag-or-word" }],
+  createdAt: "2026-09-03T16:18:47.185Z",
+  updatedAt: "2026-09-24T16:09:54.000Z",
 } as const satisfies Command

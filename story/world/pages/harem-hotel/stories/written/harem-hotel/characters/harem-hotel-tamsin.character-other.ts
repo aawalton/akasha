@@ -8,4 +8,6 @@ export const haremHotelTamsin = {
   story: "story-written/harem-hotel",
   cover: "image/image-40ed721c1a6b8170",
   place: "place/harem-hotel-floor-4",
+  createdAt: "2026-09-29T04:43:10.759Z",
+  updatedAt: "2026-10-03T19:22:35.000Z",
 } as const satisfies CharacterOther

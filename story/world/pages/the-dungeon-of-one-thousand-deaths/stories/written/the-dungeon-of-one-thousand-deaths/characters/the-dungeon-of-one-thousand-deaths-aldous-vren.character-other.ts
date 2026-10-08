@@ -7,4 +7,6 @@ export const theDungeonOfOneThousandDeathsAldousVren = {
   title: "Aldous Vren",
   story: "story-written/the-dungeon-of-one-thousand-deaths",
   place: "place/the-dungeon-of-one-thousand-deaths-the-crucible",
+  createdAt: "2026-10-03T19:34:05.865Z",
+  updatedAt: "2026-10-03T19:34:09.000Z",
 } as const satisfies CharacterOther

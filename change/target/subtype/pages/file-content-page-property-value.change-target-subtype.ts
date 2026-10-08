@@ -7,4 +7,6 @@ export const fileContentPagePropertyValue = {
   definition: "a body taken as the values a page states",
   changeTargetType: "change-target-type/file-content",
   parent: "change-target-subtype/file-content-page",
+  createdAt: "2026-09-07T15:26:15.991Z",
+  updatedAt: "2026-09-22T13:24:12.000Z",
 } as const satisfies ChangeTargetSubtype

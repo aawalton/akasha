@@ -7,4 +7,6 @@ export const superSupportiveRynezYt = {
   title: "Rynez-yt",
   world: "world/super-supportive",
   story: "story-read/super-supportive",
+  createdAt: "2026-09-28T22:01:11.613Z",
+  updatedAt: "2026-09-28T22:01:14.000Z",
 } as const satisfies CharacterOther

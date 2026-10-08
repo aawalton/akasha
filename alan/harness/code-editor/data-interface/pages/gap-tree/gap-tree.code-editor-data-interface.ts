@@ -17,4 +17,6 @@ export const gapTree = {
       statement: "No landing draws this picture.",
     },
   ],
+  createdAt: "2026-09-19T03:06:01.181Z",
+  updatedAt: "2026-09-25T17:55:37.000Z",
 } as const satisfies CodeEditorDataInterface

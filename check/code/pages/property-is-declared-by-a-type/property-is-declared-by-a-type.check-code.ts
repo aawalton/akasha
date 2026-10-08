@@ -97,4 +97,6 @@ export const propertyIsDeclaredByAType = {
   ],
   check: { maxCpuSeconds: 1 },
   audit: { maxCpuSeconds: 15 },
+  createdAt: "2026-08-29T19:21:17.575Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies CheckCode

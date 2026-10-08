@@ -115,4 +115,6 @@ export const hashIndexedEntryKeepsItsPlace = {
   ],
   check: { maxCpuSeconds: 10 },
   audit: { maxCpuSeconds: 15 },
+  createdAt: "2026-09-24T23:35:12.465Z",
+  updatedAt: "2026-09-27T11:00:56.000Z",
 } as const satisfies CheckCode

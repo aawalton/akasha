@@ -145,4 +145,6 @@ export const measureAudit = {
   ],
   name: "audit",
   arguments: [{ argument: "argument/run-window" }],
+  createdAt: "2026-09-10T16:12:37.696Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies Command

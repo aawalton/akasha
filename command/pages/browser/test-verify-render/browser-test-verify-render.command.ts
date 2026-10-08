@@ -93,4 +93,6 @@ export const browserTestVerifyRender = {
     { argument: "argument/expect-attr-value" },
     { argument: "argument/expect-attr-mode" },
   ],
+  createdAt: "2026-09-03T17:47:29.864Z",
+  updatedAt: "2026-09-25T19:29:56.000Z",
 } as const satisfies Command

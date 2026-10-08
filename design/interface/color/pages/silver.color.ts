@@ -6,4 +6,6 @@ export const silver = {
   slug: "silver",
   title: "Silver",
   hex: "#a4a4a4",
+  createdAt: "2026-09-08T17:45:38.763Z",
+  updatedAt: "2026-09-15T16:20:08.000Z",
 } as const satisfies Color

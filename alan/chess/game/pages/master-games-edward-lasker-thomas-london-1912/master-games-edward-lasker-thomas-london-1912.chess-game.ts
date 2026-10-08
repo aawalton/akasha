@@ -21,4 +21,6 @@ export const masterGamesEdwardLaskerThomasLondon1912 = {
   openingName: "Dutch Defense",
   openingEco: "A80",
   pgn: "pgn",
+  createdAt: "2026-07-01T15:59:58.875Z",
+  updatedAt: "2026-09-15T16:15:11.000Z",
 } as const satisfies ChessGame

@@ -97,4 +97,6 @@ export const changeReachesItsOwnTargetType = {
   ],
   check: { maxCpuSeconds: 1 },
   audit: { maxCpuSeconds: 20 },
+  createdAt: "2026-09-13T19:30:38.916Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies CheckCode

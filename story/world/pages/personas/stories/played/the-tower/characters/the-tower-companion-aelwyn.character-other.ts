@@ -6,4 +6,6 @@ export const theTowerCompanionAelwyn = {
   slug: "the-tower-companion-aelwyn",
   title: "Aelwyn",
   story: "story-played/the-tower",
+  createdAt: "2026-09-22T17:27:52.788Z",
+  updatedAt: "2026-09-26T17:44:02.000Z",
 } as const satisfies CharacterOther

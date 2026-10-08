@@ -9,4 +9,6 @@ export const shell = {
   extensions: ["sh"],
   writtenBy: "module-property-group/scripting",
   types: "ts",
+  createdAt: "2026-08-31T14:46:19.748Z",
+  updatedAt: "2026-09-15T16:19:31.000Z",
 } as const satisfies CodeFileProperty

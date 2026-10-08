@@ -74,4 +74,6 @@ export const infrastructureServiceBundle = {
     },
   ],
   arguments: [{ argument: "argument/workstation-service", required: true, saidAs: "word" }],
+  createdAt: "2026-09-22T15:02:12.225Z",
+  updatedAt: "2026-09-25T17:48:15.000Z",
 } as const satisfies Command

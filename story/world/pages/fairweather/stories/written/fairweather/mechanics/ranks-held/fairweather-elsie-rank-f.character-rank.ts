@@ -10,4 +10,6 @@ export const fairweatherElsieRankF = {
   character: "character-player/fairweather-elsie",
   rank: "world-rank/fairweather-rank-e",
   unrevealed: false,
+  createdAt: "2026-10-03T20:11:48.107Z",
+  updatedAt: "2026-10-06T12:21:38.000Z",
 } as const satisfies CharacterRank

@@ -11,4 +11,6 @@ export const otherwhereIvNala = {
   story: "story-played/otherwhere-iv",
   place: "place/otherwhere-iv-three-stones-village",
   person: "person/alan",
+  createdAt: "2026-09-28T21:16:07.155Z",
+  updatedAt: "2026-10-03T19:20:06.000Z",
 } as const satisfies CharacterPlayer

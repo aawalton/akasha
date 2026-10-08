@@ -8,4 +8,6 @@ export const otherwhereXiTobinAshlar = {
   world: "world/the-calamitous-bob-stubbed",
   story: "story-played/otherwhere-xi",
   place: "place/otherwhere-xi-ashlar-farm",
+  createdAt: "2026-09-29T00:27:14.848Z",
+  updatedAt: "2026-10-03T19:56:54.000Z",
 } as const satisfies CharacterOther

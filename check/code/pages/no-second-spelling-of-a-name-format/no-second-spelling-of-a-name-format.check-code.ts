@@ -48,4 +48,6 @@ export const noSecondSpellingOfANameFormat = {
   ],
   check: { maxCpuSeconds: 10 },
   audit: { maxCpuSeconds: 60 },
+  createdAt: "2026-08-31T19:17:46.147Z",
+  updatedAt: "2026-09-25T15:39:45.000Z",
 } as const satisfies CheckCode

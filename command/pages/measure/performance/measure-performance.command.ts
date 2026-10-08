@@ -47,4 +47,6 @@ export const measurePerformance = {
   ],
   name: "performance",
   arguments: [{ argument: "argument/performance", required: true, saidAs: "word" }],
+  createdAt: "2026-09-10T21:43:20.012Z",
+  updatedAt: "2026-09-22T10:08:16.000Z",
 } as const satisfies Command

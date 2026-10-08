@@ -7,4 +7,6 @@ export const otherwhereViLipWolf = {
   title: "Wolf on the Gully Lip",
   story: "story-played/otherwhere-vi",
   place: "place/otherwhere-vi-hollow-stream",
+  createdAt: "2026-09-28T23:15:31.742Z",
+  updatedAt: "2026-09-28T23:15:34.000Z",
 } as const satisfies CharacterOther

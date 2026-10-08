@@ -130,4 +130,6 @@ export const measureTest = {
   ],
   name: "test",
   arguments: [{ argument: "argument/run-window" }],
+  createdAt: "2026-09-13T16:45:53.039Z",
+  updatedAt: "2026-09-19T11:46:25.000Z",
 } as const satisfies Command

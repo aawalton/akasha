@@ -7,4 +7,6 @@ export const overwhereIiiLauFi = {
   title: "Lau'fi",
   world: "world/the-magpie-and-the-archmage-monster-evo-litrpg",
   story: "story-played/overwhere-iii",
+  createdAt: "2026-09-29T12:45:03.031Z",
+  updatedAt: "2026-09-29T12:45:06.000Z",
 } as const satisfies CharacterOther

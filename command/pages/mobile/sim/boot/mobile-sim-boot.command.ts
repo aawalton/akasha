@@ -62,4 +62,6 @@ export const mobileSimBoot = {
   ],
   name: "boot",
   arguments: [{ argument: "argument/udid" }],
+  createdAt: "2026-09-03T17:42:53.358Z",
+  updatedAt: "2026-09-22T13:59:52.000Z",
 } as const satisfies Command

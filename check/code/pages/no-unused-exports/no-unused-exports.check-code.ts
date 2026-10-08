@@ -333,4 +333,6 @@ export const noUnusedExports = {
   ],
   check: { maxCpuSeconds: 30 },
   audit: { maxCpuSeconds: 120 },
+  createdAt: "2026-09-12T11:53:26.382Z",
+  updatedAt: "2026-09-27T20:15:30.000Z",
 } as const satisfies CheckCode

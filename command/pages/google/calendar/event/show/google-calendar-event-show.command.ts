@@ -30,4 +30,6 @@ export const googleCalendarEventShow = {
     { argument: "argument/event", required: true, saidAs: "flag-or-word" },
     { argument: "argument/calendar" },
   ],
+  createdAt: "2026-09-10T20:14:44.598Z",
+  updatedAt: "2026-09-22T10:08:16.000Z",
 } as const satisfies Command

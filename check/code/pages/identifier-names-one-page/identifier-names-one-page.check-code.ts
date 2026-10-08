@@ -62,4 +62,6 @@ export const identifierNamesOnePage = {
   ],
   check: { maxCpuSeconds: 10 },
   audit: { maxCpuSeconds: 45 },
+  createdAt: "2026-08-29T21:39:18.192Z",
+  updatedAt: "2026-09-19T04:48:48.000Z",
 } as const satisfies CheckCode

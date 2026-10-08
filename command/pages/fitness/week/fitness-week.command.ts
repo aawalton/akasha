@@ -79,4 +79,6 @@ export const fitnessWeek = {
   ],
   name: "week",
   arguments: [{ argument: "argument/json" }],
+  createdAt: "2026-09-18T23:34:12.917Z",
+  updatedAt: "2026-09-18T23:37:17.000Z",
 } as const satisfies Command

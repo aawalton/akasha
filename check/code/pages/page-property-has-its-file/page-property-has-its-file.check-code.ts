@@ -72,4 +72,6 @@ export const pagePropertyHasItsFile = {
   ],
   check: { maxCpuSeconds: 3 },
   audit: { maxCpuSeconds: 15 },
+  createdAt: "2026-08-29T12:37:19.823Z",
+  updatedAt: "2026-09-15T18:01:09.000Z",
 } as const satisfies CheckCode

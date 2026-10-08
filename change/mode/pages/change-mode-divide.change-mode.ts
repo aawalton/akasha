@@ -5,4 +5,6 @@ export const changeModeDivide = {
   type: "page-type/change-mode",
   slug: "change-mode-divide",
   definition: "what one file holds is laid out across more than one file",
+  createdAt: "2026-09-11T00:45:49.918Z",
+  updatedAt: "2026-09-15T16:12:38.000Z",
 } as const satisfies ChangeMode

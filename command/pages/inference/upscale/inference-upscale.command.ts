@@ -63,4 +63,6 @@ export const inferenceUpscale = {
     { argument: "argument/host" },
     { argument: "argument/resolution", required: true },
   ],
+  createdAt: "2026-09-03T17:44:10.832Z",
+  updatedAt: "2026-09-22T13:05:50.000Z",
 } as const satisfies Command

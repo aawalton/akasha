@@ -56,4 +56,6 @@ export const chessPlay = {
     { argument: "argument/color" },
     { argument: "argument/fen" },
   ],
+  createdAt: "2026-09-14T14:06:10.538Z",
+  updatedAt: "2026-09-22T10:09:03.000Z",
 } as const satisfies Command

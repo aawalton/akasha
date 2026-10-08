@@ -6,4 +6,6 @@ export const pageTypePage = {
   slug: "page-type-page",
   definition: "every page of a page type, taken as a whole page",
   changeTargetType: "change-target-type/page-type",
+  createdAt: "2026-09-08T15:57:12.405Z",
+  updatedAt: "2026-09-22T10:10:15.000Z",
 } as const satisfies ChangeTargetSubtype

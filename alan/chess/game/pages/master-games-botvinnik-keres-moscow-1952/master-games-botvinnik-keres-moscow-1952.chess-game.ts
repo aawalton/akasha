@@ -24,4 +24,6 @@ export const masterGamesBotvinnikKeresMoscow1952 = {
     "Closed structures: QGD Exchange / Carlsbad pawn formation - the central f3-e4 expansion plan and the kingside attack it feeds",
   collection: "closed-structures",
   pgn: "pgn",
+  createdAt: "2026-07-02T20:40:38.749Z",
+  updatedAt: "2026-09-15T16:15:11.000Z",
 } as const satisfies ChessGame

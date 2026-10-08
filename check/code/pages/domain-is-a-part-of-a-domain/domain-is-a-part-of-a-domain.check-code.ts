@@ -45,4 +45,6 @@ export const domainIsAPartOfADomain = {
   ],
   check: { maxCpuSeconds: 10 },
   audit: { maxCpuSeconds: 15 },
+  createdAt: "2026-09-25T15:53:39.825Z",
+  updatedAt: "2026-09-25T15:54:03.000Z",
 } as const satisfies CheckCode

@@ -55,4 +55,6 @@ export const chessPuzzlesImport = {
   ],
   name: "import",
   arguments: [{ argument: "argument/json" }, { argument: "argument/limit" }],
+  createdAt: "2026-09-14T14:31:46.192Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies Command

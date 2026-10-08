@@ -10,4 +10,6 @@ export const fairweatherTamsin = {
   cover: "image/image-d34454b4584b976c",
   coverDescription:
     "a gorgeous, slim, athletic young Korean woman of twenty-one with a K-pop idol's pretty face: a small V-line face, almond-shaped eyes of bright green, a small nose, full lips in a crooked teasing grin, warm sun-kissed golden skin dusted with light freckles across her nose and cheeks, and a wild mass of long copper-red curls, barely tied back",
+  createdAt: "2026-10-03T16:53:18.044Z",
+  updatedAt: "2026-10-07T01:27:40.000Z",
 } as const satisfies CharacterOther

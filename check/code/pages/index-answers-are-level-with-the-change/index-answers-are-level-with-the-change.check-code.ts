@@ -66,4 +66,6 @@ export const indexAnswersAreLevelWithTheChange = {
     },
   ],
   check: { maxCpuSeconds: 1 },
+  createdAt: "2026-09-13T16:41:41.471Z",
+  updatedAt: "2026-09-25T15:06:50.000Z",
 } as const satisfies CheckCode

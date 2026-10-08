@@ -46,4 +46,6 @@ export const noCodeComments = {
   ],
   check: { maxCpuSeconds: 1 },
   audit: { maxCpuSeconds: 15 },
+  createdAt: "2026-08-29T04:30:21.253Z",
+  updatedAt: "2026-09-21T17:35:17.000Z",
 } as const satisfies CheckCode

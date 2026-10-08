@@ -51,4 +51,6 @@ export const infrastructureDevServerStart = {
     { argument: "argument/web-app", required: true },
     { argument: "argument/port" },
   ],
+  createdAt: "2026-09-12T05:07:09.367Z",
+  updatedAt: "2026-09-22T10:08:16.000Z",
 } as const satisfies Command

@@ -7,4 +7,6 @@ export const overwhereIiiSerenaRembrack = {
   title: "Serena Rembrack",
   world: "world/the-magpie-and-the-archmage-monster-evo-litrpg",
   story: "story-played/overwhere-iii",
+  createdAt: "2026-09-29T12:37:20.718Z",
+  updatedAt: "2026-09-29T12:37:23.000Z",
 } as const satisfies CharacterOther

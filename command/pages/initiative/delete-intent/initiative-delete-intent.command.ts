@@ -81,4 +81,6 @@ export const initiativeDeleteIntent = {
     { argument: "argument/initiative", required: true, saidAs: "word" },
     { argument: "argument/statement", required: true, saidAs: "word" },
   ],
+  createdAt: "2026-09-10T17:12:15.653Z",
+  updatedAt: "2026-09-22T10:08:16.000Z",
 } as const satisfies Command

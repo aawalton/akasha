@@ -11,4 +11,6 @@ export const saltAndLamplightNala = {
   story: "story-written/salt-and-lamplight",
   person: "person/alan",
   place: "place/salt-and-lamplight-morrow-head",
+  createdAt: "2026-10-02T14:28:26.079Z",
+  updatedAt: "2026-10-03T19:16:45.000Z",
 } as const satisfies CharacterPlayer

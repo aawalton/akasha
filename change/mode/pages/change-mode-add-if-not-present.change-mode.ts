@@ -5,4 +5,6 @@ export const changeModeAddIfNotPresent = {
   type: "page-type/change-mode",
   slug: "change-mode-add-if-not-present",
   definition: "something is put there where it is not there already",
+  createdAt: "2026-09-08T14:59:08.025Z",
+  updatedAt: "2026-09-15T16:12:38.000Z",
 } as const satisfies ChangeMode

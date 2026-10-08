@@ -14,4 +14,6 @@ export const swift = {
     },
   ],
   types: "ts",
+  createdAt: "2026-08-30T20:55:05.076Z",
+  updatedAt: "2026-09-24T22:43:28.000Z",
 } as const satisfies CodeFileProperty

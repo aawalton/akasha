@@ -36,4 +36,6 @@ export const instantPropertySlugClosesWithAt = {
   ],
   check: { maxCpuSeconds: 1 },
   audit: { maxCpuSeconds: 15 },
+  createdAt: "2026-08-31T18:04:46.598Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies CheckCode

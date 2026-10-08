@@ -5,4 +5,6 @@ export const changeModeRename = {
   type: "page-type/change-mode",
   slug: "change-mode-rename",
   definition: "something is reached by another name",
+  createdAt: "2026-09-07T13:52:38.574Z",
+  updatedAt: "2026-09-15T16:12:38.000Z",
 } as const satisfies ChangeMode

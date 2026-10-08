@@ -80,4 +80,6 @@ export const infrastructureServiceRun = {
     },
   ],
   arguments: [{ argument: "argument/workstation-service", required: true, saidAs: "word" }],
+  createdAt: "2026-09-12T05:14:14.557Z",
+  updatedAt: "2026-09-25T14:09:28.000Z",
 } as const satisfies Command

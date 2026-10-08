@@ -7,4 +7,6 @@ export const otherwhereViWallowSow = {
   title: "Sow at the Wallow",
   story: "story-played/otherwhere-vi",
   place: "place/otherwhere-vi-hollow-stream",
+  createdAt: "2026-09-28T23:24:23.626Z",
+  updatedAt: "2026-09-28T23:24:26.000Z",
 } as const satisfies CharacterOther

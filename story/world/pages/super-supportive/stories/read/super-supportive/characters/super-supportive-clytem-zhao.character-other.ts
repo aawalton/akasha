@@ -7,4 +7,6 @@ export const superSupportiveClytemZhao = {
   title: "Clytem Zhao",
   world: "world/super-supportive",
   story: "story-read/super-supportive",
+  createdAt: "2026-09-28T21:34:02.877Z",
+  updatedAt: "2026-09-28T21:34:06.000Z",
 } as const satisfies CharacterOther

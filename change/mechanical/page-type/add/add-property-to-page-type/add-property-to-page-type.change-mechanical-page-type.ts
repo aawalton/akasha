@@ -103,4 +103,6 @@ export const addPropertyToPageType = {
     },
   ],
   changeKind: "change-kind/change-mechanical",
+  createdAt: "2026-09-13T21:09:38.443Z",
+  updatedAt: "2026-09-24T15:33:30.000Z",
 } as const satisfies ChangeMechanicalPageType

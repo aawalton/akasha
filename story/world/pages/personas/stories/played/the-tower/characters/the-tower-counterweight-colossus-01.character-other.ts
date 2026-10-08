@@ -7,4 +7,6 @@ export const theTowerCounterweightColossus01 = {
   title: "Counterweight Colossus (the Warden)",
   story: "story-played/the-tower",
   place: "place/the-tower-shaft-headworks",
+  createdAt: "2026-09-22T17:32:28.045Z",
+  updatedAt: "2026-10-03T20:10:04.000Z",
 } as const satisfies CharacterOther

@@ -8,4 +8,6 @@ export const componentTestFixtures = {
   definition: "the fixtures setting up a component's test",
   extensions: ["tsx"],
   types: "ts",
+  createdAt: "2026-09-05T13:39:21.534Z",
+  updatedAt: "2026-09-22T13:48:15.000Z",
 } as const satisfies CodeFileProperty

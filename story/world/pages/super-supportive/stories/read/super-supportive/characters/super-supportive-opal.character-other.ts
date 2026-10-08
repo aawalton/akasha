@@ -7,4 +7,6 @@ export const superSupportiveOpal = {
   title: "Opal",
   world: "world/super-supportive",
   story: "story-read/super-supportive",
+  createdAt: "2026-09-28T23:01:38.471Z",
+  updatedAt: "2026-09-28T23:01:42.000Z",
 } as const satisfies CharacterOther

@@ -11,4 +11,6 @@ export const emberdeepNala = {
   story: "story-written/emberdeep",
   place: "place/emberdeep-corbel-house",
   person: "person/alan",
+  createdAt: "2026-10-02T17:35:32.793Z",
+  updatedAt: "2026-10-03T19:27:33.000Z",
 } as const satisfies CharacterPlayer

@@ -9,4 +9,6 @@ export const fairweatherElsieDevotion = {
   unrevealed: false,
   character: "character-player/fairweather-elsie",
   skill: "world-skill/fairweather-devotion",
+  createdAt: "2026-10-04T16:16:12.000Z",
+  updatedAt: "2026-10-04T16:16:12.000Z",
 } as const satisfies CharacterSkill

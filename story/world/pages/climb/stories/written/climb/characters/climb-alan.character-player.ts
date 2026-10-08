@@ -9,4 +9,6 @@ export const climbAlan = {
   person: "person/alan",
   cover: "image/image-129945c5ea14d2f9",
   place: "place/climb-floor-2",
+  createdAt: "2026-10-01T21:16:56.844Z",
+  updatedAt: "2026-10-04T14:20:29.000Z",
 } as const satisfies CharacterPlayer

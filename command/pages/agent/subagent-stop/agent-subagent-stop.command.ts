@@ -83,4 +83,6 @@ export const agentSubagentStop = {
   ],
   name: "subagent-stop",
   arguments: [{ argument: "argument/subagent", required: true, saidAs: "word" }],
+  createdAt: "2026-09-13T20:04:41.925Z",
+  updatedAt: "2026-09-22T14:08:17.000Z",
 } as const satisfies Command

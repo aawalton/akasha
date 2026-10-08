@@ -8,4 +8,6 @@ export const otherwhereIiiPriyaRaman = {
   world: "world/super-supportive",
   story: "story-played/otherwhere-iii",
   place: "place/otherwhere-iii-uptown-memorial-er",
+  createdAt: "2026-09-28T23:54:41.127Z",
+  updatedAt: "2026-09-28T23:54:44.000Z",
 } as const satisfies CharacterOther

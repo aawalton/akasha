@@ -99,4 +99,6 @@ export const musicCapture = {
   ],
   name: "capture",
   arguments: [{ argument: "argument/json" }],
+  createdAt: "2026-09-02T19:55:25.876Z",
+  updatedAt: "2026-09-24T17:17:36.000Z",
 } as const satisfies Command

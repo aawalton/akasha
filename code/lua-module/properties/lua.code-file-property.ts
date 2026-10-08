@@ -8,4 +8,6 @@ export const lua = {
   definition: "the Lua a page is",
   extensions: ["lua"],
   types: "ts",
+  createdAt: "2026-09-02T03:43:06.613Z",
+  updatedAt: "2026-09-15T16:19:31.000Z",
 } as const satisfies CodeFileProperty

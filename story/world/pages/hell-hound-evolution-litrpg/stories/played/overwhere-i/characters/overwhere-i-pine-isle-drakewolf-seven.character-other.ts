@@ -7,4 +7,6 @@ export const overwhereIPineIsleDrakewolfSeven = {
   title: "Pine Isle Drakewolf Seven",
   story: "story-played/overwhere-i",
   place: "place/overwhere-i-the-greyfen",
+  createdAt: "2026-09-30T21:02:15.559Z",
+  updatedAt: "2026-09-30T21:02:18.000Z",
 } as const satisfies CharacterOther

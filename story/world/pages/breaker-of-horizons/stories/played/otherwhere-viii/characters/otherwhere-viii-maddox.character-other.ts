@@ -7,4 +7,6 @@ export const otherwhereViiiMaddox = {
   title: "Orrin Maddox",
   story: "story-played/otherwhere-viii",
   place: "place/otherwhere-viii-weir-gardens",
+  createdAt: "2026-09-28T23:32:33.733Z",
+  updatedAt: "2026-10-03T19:46:29.000Z",
 } as const satisfies CharacterOther

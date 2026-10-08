@@ -7,4 +7,6 @@ export const superSupportiveDazm = {
   title: "Dazm",
   world: "world/super-supportive",
   story: "story-read/super-supportive",
+  createdAt: "2026-09-28T23:06:43.550Z",
+  updatedAt: "2026-09-28T23:06:47.000Z",
 } as const satisfies CharacterOther

@@ -17,4 +17,6 @@ export const agentTree = {
       statement: "A row's children are rows of any kind.",
     },
   ],
+  createdAt: "2026-09-05T15:35:07.270Z",
+  updatedAt: "2026-09-25T17:30:26.000Z",
 } as const satisfies CodeEditorDataInterface

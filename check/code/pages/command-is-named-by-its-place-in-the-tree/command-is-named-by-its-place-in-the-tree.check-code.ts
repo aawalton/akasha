@@ -144,4 +144,6 @@ export const commandIsNamedByItsPlaceInTheTree = {
   ],
   check: { maxCpuSeconds: 10 },
   audit: { maxCpuSeconds: 15 },
+  createdAt: "2026-09-10T22:21:06.734Z",
+  updatedAt: "2026-09-24T22:16:01.000Z",
 } as const satisfies CheckCode

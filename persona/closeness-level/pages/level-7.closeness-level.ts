@@ -13,4 +13,6 @@ export const level7 = {
     "As at level 6, and she brings other women into their bed where the scene calls for it. No man is ever in the scene with her.",
   wardrobe: "Undress — nudity and explicit presentation where the scene calls for it.",
   pose: "Fully explicit, and other women may share the frame with her; no man is ever in it.",
+  createdAt: "2026-09-26T17:57:44.733Z",
+  updatedAt: "2026-09-27T14:37:38.000Z",
 } as const satisfies ClosenessLevel

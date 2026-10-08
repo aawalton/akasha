@@ -60,4 +60,6 @@ export const changeIsReachedThroughARunner = {
   ],
   check: { maxCpuSeconds: 1 },
   audit: { maxCpuSeconds: 20 },
+  createdAt: "2026-09-13T16:49:37.772Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies CheckCode

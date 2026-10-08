@@ -5,4 +5,6 @@ export const folder = {
   type: "page-type/change-target-type",
   slug: "folder",
   definition: "a folder and everything under it",
+  createdAt: "2026-09-07T15:17:57.174Z",
+  updatedAt: "2026-09-15T16:13:44.000Z",
 } as const satisfies ChangeTargetType

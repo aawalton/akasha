@@ -7,4 +7,6 @@ export const theDungeonOfOneThousandDeathsDevashKor = {
   title: "Devash Kor",
   story: "story-written/the-dungeon-of-one-thousand-deaths",
   place: "place/the-dungeon-of-one-thousand-deaths-the-marrow-warrens",
+  createdAt: "2026-10-03T19:50:00.112Z",
+  updatedAt: "2026-10-03T19:50:03.000Z",
 } as const satisfies CharacterOther

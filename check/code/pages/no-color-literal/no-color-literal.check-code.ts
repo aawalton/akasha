@@ -75,4 +75,6 @@ export const noColorLiteral = {
   ],
   check: { maxCpuSeconds: 10 },
   audit: { maxCpuSeconds: 15 },
+  createdAt: "2026-09-08T17:53:11.341Z",
+  updatedAt: "2026-09-21T17:22:22.000Z",
 } as const satisfies CheckCode

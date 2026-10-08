@@ -11,4 +11,6 @@ export const otherwhereViNala = {
   story: "story-played/otherwhere-vi",
   place: "place/otherwhere-vi-charcoal-camp",
   person: "person/alan",
+  createdAt: "2026-09-28T22:20:25.035Z",
+  updatedAt: "2026-10-03T19:27:06.000Z",
 } as const satisfies CharacterPlayer

@@ -7,4 +7,6 @@ export const overwhereIMireSnapperTwo = {
   title: "Mire Snapper Two",
   story: "story-played/overwhere-i",
   place: "place/overwhere-i-the-greyfen",
+  createdAt: "2026-10-01T14:24:18.054Z",
+  updatedAt: "2026-10-01T14:24:20.000Z",
 } as const satisfies CharacterOther

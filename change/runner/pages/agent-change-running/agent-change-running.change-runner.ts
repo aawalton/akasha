@@ -34,4 +34,6 @@ export const agentChangeRunning = {
       statement: "Nothing here is proven by a test.",
     },
   ],
+  createdAt: "2026-09-06T17:35:08.549Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies ChangeRunner

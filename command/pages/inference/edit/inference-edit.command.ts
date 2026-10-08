@@ -69,4 +69,6 @@ export const inferenceEdit = {
       oneOf: ["argument/prompt-file"],
     },
   ],
+  createdAt: "2026-09-03T17:44:10.832Z",
+  updatedAt: "2026-10-04T12:20:13.000Z",
 } as const satisfies Command

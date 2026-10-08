@@ -9,4 +9,6 @@ export const theDatingGameGrace = {
   persona: "persona/grace",
   place: "place/the-dating-game-provo-city-cemetery",
   cover: "image/image-ab15122aceb34bb8",
+  createdAt: "2026-09-27T17:19:14.207Z",
+  updatedAt: "2026-10-03T19:51:35.000Z",
 } as const satisfies CharacterOther

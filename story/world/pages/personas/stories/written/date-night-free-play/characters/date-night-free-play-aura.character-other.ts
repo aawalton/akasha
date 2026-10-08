@@ -7,4 +7,6 @@ export const dateNightFreePlayAura = {
   title: "Aura",
   story: "story-written/date-night-free-play",
   place: "place/date-night-free-play-full-combo",
+  createdAt: "2026-09-26T15:07:35.609Z",
+  updatedAt: "2026-10-03T20:26:26.000Z",
 } as const satisfies CharacterOther

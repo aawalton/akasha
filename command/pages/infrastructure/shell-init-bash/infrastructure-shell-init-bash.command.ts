@@ -61,4 +61,6 @@ export const infrastructureShellInitBash = {
   ],
   name: "shell-init-bash",
   arguments: [],
+  createdAt: "2026-09-03T16:12:25.008Z",
+  updatedAt: "2026-09-25T14:08:24.000Z",
 } as const satisfies Command

@@ -72,4 +72,6 @@ export const modelGatewayStart = {
     { argument: "argument/keep" },
     { argument: "argument/seconds" },
   ],
+  createdAt: "2026-09-04T00:02:36.861Z",
+  updatedAt: "2026-09-22T20:20:07.000Z",
 } as const satisfies Command

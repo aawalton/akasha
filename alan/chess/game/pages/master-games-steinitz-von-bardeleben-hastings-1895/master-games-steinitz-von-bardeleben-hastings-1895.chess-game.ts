@@ -21,4 +21,6 @@ export const masterGamesSteinitzVonBardelebenHastings1895 = {
   openingName: "Italian Game, Classical Variation",
   openingEco: "C54",
   pgn: "pgn",
+  createdAt: "2026-07-01T15:59:58.857Z",
+  updatedAt: "2026-09-15T16:15:11.000Z",
 } as const satisfies ChessGame

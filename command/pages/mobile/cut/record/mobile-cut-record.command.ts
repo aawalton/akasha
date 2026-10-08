@@ -51,4 +51,6 @@ export const mobileCutRecord = {
     { argument: "argument/build-input-tree-hash" },
     { argument: "argument/cut-at" },
   ],
+  createdAt: "2026-09-03T17:42:53.358Z",
+  updatedAt: "2026-09-22T13:48:12.000Z",
 } as const satisfies Command

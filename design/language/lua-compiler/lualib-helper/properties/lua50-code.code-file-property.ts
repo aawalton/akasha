@@ -8,4 +8,6 @@ export const lua50Code = {
   definition: "the TypeScript a Lua 5.0 build takes in place of a page's code",
   extensions: ["ts"],
   types: "ts",
+  createdAt: "2026-09-08T14:26:53.095Z",
+  updatedAt: "2026-09-15T16:19:31.000Z",
 } as const satisfies CodeFileProperty

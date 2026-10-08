@@ -7,4 +7,6 @@ export const terminalTabs = {
   definition: "the name and color each terminal tab draws",
   code: "ts",
   cooldownMilliseconds: 1000,
+  createdAt: "2026-09-05T15:35:07.275Z",
+  updatedAt: "2026-09-25T17:30:26.000Z",
 } as const satisfies CodeEditorDataInterface

@@ -8,4 +8,6 @@ export const otherwhereIiiOnnDesveth = {
   world: "world/super-supportive",
   story: "story-played/otherwhere-iii",
   place: "place/super-supportive-artonan-consulate-4",
+  createdAt: "2026-09-29T02:52:50.419Z",
+  updatedAt: "2026-09-29T02:52:53.000Z",
 } as const satisfies CharacterOther

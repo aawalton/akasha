@@ -95,4 +95,6 @@ export const swiftParses = {
   ],
   check: { maxCpuSeconds: 5 },
   audit: { maxCpuSeconds: 10 },
+  createdAt: "2026-09-24T22:32:53.897Z",
+  updatedAt: "2026-09-24T22:43:28.000Z",
 } as const satisfies CheckCode

@@ -116,4 +116,6 @@ export const inferenceZimage = {
       oneOf: ["argument/prompt-file"],
     },
   ],
+  createdAt: "2026-09-03T16:12:01.088Z",
+  updatedAt: "2026-10-04T12:20:13.000Z",
 } as const satisfies Command

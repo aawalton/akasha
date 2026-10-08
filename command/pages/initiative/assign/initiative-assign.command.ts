@@ -76,4 +76,6 @@ export const initiativeAssign = {
   ],
   name: "assign",
   arguments: [{ argument: "argument/initiative", required: true, saidAs: "word" }],
+  createdAt: "2026-09-15T14:36:00.380Z",
+  updatedAt: "2026-09-22T13:51:13.000Z",
 } as const satisfies Command

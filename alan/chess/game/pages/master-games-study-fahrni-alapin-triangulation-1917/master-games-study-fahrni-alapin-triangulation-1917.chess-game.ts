@@ -23,4 +23,6 @@ export const masterGamesStudyFahrniAlapinTriangulation1917 = {
   collection: "endgame-classics",
   fen: "8/2k5/p1P5/P3K3/8/8/8/8 w - - 0 1",
   pgn: "pgn",
+  createdAt: "2026-07-02T20:40:38.738Z",
+  updatedAt: "2026-09-15T16:15:11.000Z",
 } as const satisfies ChessGame

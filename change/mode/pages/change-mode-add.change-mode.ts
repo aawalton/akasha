@@ -5,4 +5,6 @@ export const changeModeAdd = {
   type: "page-type/change-mode",
   slug: "change-mode-add",
   definition: "something not there before is put there",
+  createdAt: "2026-09-07T13:52:25.131Z",
+  updatedAt: "2026-09-15T16:12:38.000Z",
 } as const satisfies ChangeMode

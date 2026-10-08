@@ -44,4 +44,6 @@ export const inferenceWanScore = {
     { argument: "argument/reference", required: true },
     { argument: "argument/floor" },
   ],
+  createdAt: "2026-09-12T04:58:55.658Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies Command

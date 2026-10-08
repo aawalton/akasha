@@ -21,4 +21,6 @@ export const masterGamesMorphyAnderssenKgParis1858 = {
   openingName: "King's Gambit Accepted, Kieseritzky Gambit",
   openingEco: "C39",
   pgn: "pgn",
+  createdAt: "2026-07-01T15:59:58.877Z",
+  updatedAt: "2026-09-15T16:15:11.000Z",
 } as const satisfies ChessGame

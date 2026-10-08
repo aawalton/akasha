@@ -55,4 +55,6 @@ export const mobileSimType = {
     { argument: "argument/selector" },
     { argument: "argument/typed-text", required: true },
   ],
+  createdAt: "2026-09-03T17:42:53.358Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies Command

@@ -8,4 +8,6 @@ export const saltAndLamplightMorwenna = {
   story: "story-written/salt-and-lamplight",
   cover: "image/image-f35c3e4a9e5d6eab",
   place: "place/salt-and-lamplight-morrow-head",
+  createdAt: "2026-10-02T14:36:28.990Z",
+  updatedAt: "2026-10-03T19:16:45.000Z",
 } as const satisfies CharacterOther

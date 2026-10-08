@@ -73,4 +73,6 @@ export const musicArtistList = {
   ],
   name: "artist-list",
   arguments: [{ argument: "argument/json" }, { argument: "argument/collection-status" }],
+  createdAt: "2026-09-13T16:09:07.311Z",
+  updatedAt: "2026-09-22T13:43:11.000Z",
 } as const satisfies Command

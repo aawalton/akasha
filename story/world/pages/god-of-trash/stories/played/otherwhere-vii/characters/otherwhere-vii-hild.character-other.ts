@@ -7,4 +7,6 @@ export const otherwhereViiHild = {
   title: "Hild",
   story: "story-played/otherwhere-vii",
   place: "place/otherwhere-vii-ashford",
+  createdAt: "2026-09-29T01:36:28.816Z",
+  updatedAt: "2026-10-03T19:16:23.000Z",
 } as const satisfies CharacterOther

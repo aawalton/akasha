@@ -36,4 +36,6 @@ export const domainDeclarationList = {
   ],
   name: "declaration-list",
   arguments: [{ argument: "argument/declaration-subject", repeats: true }],
+  createdAt: "2026-09-07T13:16:50.347Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies Command

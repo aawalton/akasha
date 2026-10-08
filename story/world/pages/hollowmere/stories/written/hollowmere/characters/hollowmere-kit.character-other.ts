@@ -8,4 +8,6 @@ export const hollowmereKit = {
   story: "story-written/hollowmere",
   place: "place/hollowmere-village",
   cover: "image/image-fd81109ae3a3a752",
+  createdAt: "2026-10-02T14:50:34.515Z",
+  updatedAt: "2026-10-03T19:40:48.000Z",
 } as const satisfies CharacterOther

@@ -83,4 +83,6 @@ export const measureRound = {
   ],
   name: "round",
   arguments: [{ argument: "argument/run-window" }],
+  createdAt: "2026-09-19T19:31:44.504Z",
+  updatedAt: "2026-09-22T10:09:10.000Z",
 } as const satisfies Command

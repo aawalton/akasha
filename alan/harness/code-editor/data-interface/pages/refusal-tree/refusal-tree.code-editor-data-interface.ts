@@ -17,4 +17,6 @@ export const refusalTree = {
       statement: "No landing draws this picture, since judging every definition takes seconds.",
     },
   ],
+  createdAt: "2026-09-25T15:51:11.165Z",
+  updatedAt: "2026-09-25T17:55:37.000Z",
 } as const satisfies CodeEditorDataInterface

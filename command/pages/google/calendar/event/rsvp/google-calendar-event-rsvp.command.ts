@@ -41,4 +41,6 @@ export const googleCalendarEventRsvp = {
     { argument: "argument/send-updates" },
     { argument: "argument/status", required: true },
   ],
+  createdAt: "2026-09-10T20:15:53.777Z",
+  updatedAt: "2026-09-22T10:09:03.000Z",
 } as const satisfies Command

@@ -109,4 +109,6 @@ export const measureGuard = {
   ],
   name: "guard",
   arguments: [{ argument: "argument/run-window" }],
+  createdAt: "2026-09-13T16:48:37.132Z",
+  updatedAt: "2026-09-25T14:10:13.000Z",
 } as const satisfies Command

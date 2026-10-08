@@ -21,4 +21,6 @@ export const masterGamesRetiTartakowerVienna1910 = {
   openingName: "Caro-Kann Defense",
   openingEco: "B15",
   pgn: "pgn",
+  createdAt: "2026-07-01T15:59:58.868Z",
+  updatedAt: "2026-09-15T16:15:11.000Z",
 } as const satisfies ChessGame

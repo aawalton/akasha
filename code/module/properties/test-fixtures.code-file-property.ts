@@ -8,4 +8,6 @@ export const testFixtures = {
   definition: "what sets up a page's test",
   extensions: ["ts"],
   types: "ts",
+  createdAt: "2026-08-29T18:48:08.319Z",
+  updatedAt: "2026-09-22T13:44:42.000Z",
 } as const satisfies CodeFileProperty

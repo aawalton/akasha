@@ -7,4 +7,6 @@ export const worldTree = {
   definition: "the rows the worlds panel draws",
   code: "ts",
   cooldownMilliseconds: 1000,
+  createdAt: "2026-09-26T14:09:38.487Z",
+  updatedAt: "2026-09-26T14:09:48.000Z",
 } as const satisfies CodeEditorDataInterface

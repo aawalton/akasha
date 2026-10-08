@@ -8,4 +8,6 @@ export const otherwhereIvGrannyHua = {
   world: "world/beware-of-chicken",
   story: "story-played/otherwhere-iv",
   place: "place/otherwhere-iv-three-stones-village",
+  createdAt: "2026-09-29T03:17:48.173Z",
+  updatedAt: "2026-10-03T19:20:06.000Z",
 } as const satisfies CharacterOther

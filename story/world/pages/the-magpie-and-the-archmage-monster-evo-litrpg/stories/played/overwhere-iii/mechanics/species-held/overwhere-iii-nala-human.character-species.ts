@@ -8,4 +8,6 @@ export const overwhereIiiNalaHuman = {
   world: "world/the-magpie-and-the-archmage-monster-evo-litrpg",
   character: "character-player/overwhere-iii-nala",
   species: "world-species/overwhere-iii-human",
+  createdAt: "2026-09-30T09:50:22.425Z",
+  updatedAt: "2026-09-30T11:26:48.000Z",
 } as const satisfies CharacterSpecies

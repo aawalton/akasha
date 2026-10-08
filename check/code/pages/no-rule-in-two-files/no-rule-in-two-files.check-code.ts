@@ -173,4 +173,6 @@ export const noRuleInTwoFiles = {
   ],
   check: { maxCpuSeconds: 30 },
   audit: { maxCpuSeconds: 120 },
+  createdAt: "2026-08-29T17:53:28.298Z",
+  updatedAt: "2026-09-21T19:34:26.000Z",
 } as const satisfies CheckCode

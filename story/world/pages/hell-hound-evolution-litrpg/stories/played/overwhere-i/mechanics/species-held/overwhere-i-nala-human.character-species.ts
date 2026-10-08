@@ -6,4 +6,6 @@ export const overwhereINalaHuman = {
   slug: "overwhere-i-nala-human",
   character: "character-player/overwhere-i-nala",
   species: "world-species/overwhere-i-human",
+  createdAt: "2026-09-30T09:49:23.328Z",
+  updatedAt: "2026-09-30T11:25:33.000Z",
 } as const satisfies CharacterSpecies

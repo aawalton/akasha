@@ -7,4 +7,6 @@ export const pagePageProperty = {
   definition: "a page that is a page property",
   changeTargetType: "change-target-type/page",
   parent: "change-target-subtype/page",
+  createdAt: "2026-09-25T13:51:43.751Z",
+  updatedAt: "2026-09-25T13:51:50.000Z",
 } as const satisfies ChangeTargetSubtype

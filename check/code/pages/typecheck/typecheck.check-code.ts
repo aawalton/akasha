@@ -315,4 +315,6 @@ export const typecheck = {
   ],
   check: { maxCpuSeconds: 300 },
   audit: { maxCpuSeconds: 300 },
+  createdAt: "2026-08-29T04:34:07.476Z",
+  updatedAt: "2026-09-25T13:11:55.000Z",
 } as const satisfies CheckCode

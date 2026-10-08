@@ -47,4 +47,6 @@ export const browserSignIn = {
     { argument: "argument/path", required: true },
     { argument: "argument/out", required: true },
   ],
+  createdAt: "2026-09-24T18:25:44.745Z",
+  updatedAt: "2026-09-24T18:30:03.000Z",
 } as const satisfies Command

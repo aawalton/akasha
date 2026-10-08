@@ -7,4 +7,6 @@ export const comeHereAlan = {
   title: "Alan",
   story: "story-written/come-here",
   place: "place/come-here-the-fireside",
+  createdAt: "2026-10-03T20:22:04.582Z",
+  updatedAt: "2026-10-03T20:23:29.000Z",
 } as const satisfies CharacterOther

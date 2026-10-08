@@ -7,4 +7,6 @@ export const overwhereIiiThalzor = {
   title: "Thalzor",
   world: "world/the-magpie-and-the-archmage-monster-evo-litrpg",
   story: "story-played/overwhere-iii",
+  createdAt: "2026-09-29T12:43:57.166Z",
+  updatedAt: "2026-09-29T12:44:00.000Z",
 } as const satisfies CharacterOther

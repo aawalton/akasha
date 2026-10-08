@@ -23,4 +23,6 @@ export const inferenceActiveList = {
   ],
   name: "active-list",
   arguments: [],
+  createdAt: "2026-09-03T17:44:10.832Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies Command

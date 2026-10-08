@@ -35,4 +35,6 @@ export const emailMessageModifyLabel = {
     { argument: "argument/add-label", repeats: true, oneOf: ["argument/remove-label"] },
     { argument: "argument/remove-label", repeats: true, oneOf: ["argument/add-label"] },
   ],
+  createdAt: "2026-09-03T16:18:47.185Z",
+  updatedAt: "2026-09-22T10:06:53.000Z",
 } as const satisfies Command

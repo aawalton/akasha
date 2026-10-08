@@ -97,4 +97,6 @@ export const initiativeHandIntent = {
     { argument: "argument/statement", required: true, saidAs: "word" },
     { argument: "argument/to-initiative", required: true, saidAs: "word" },
   ],
+  createdAt: "2026-09-10T17:36:28.939Z",
+  updatedAt: "2026-09-22T10:08:24.000Z",
 } as const satisfies Command

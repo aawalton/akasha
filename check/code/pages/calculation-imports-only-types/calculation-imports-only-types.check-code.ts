@@ -82,4 +82,6 @@ export const calculationImportsOnlyTypes = {
   ],
   check: { maxCpuSeconds: 1 },
   audit: { maxCpuSeconds: 15 },
+  createdAt: "2026-09-05T15:14:31.649Z",
+  updatedAt: "2026-09-19T03:00:22.000Z",
 } as const satisfies CheckCode

@@ -153,4 +153,6 @@ export const mechanicalChangeRunning = {
       statement: "A caller wanting the commit itself hands in the slot the landing writes it into.",
     },
   ],
+  createdAt: "2026-09-08T14:21:22.703Z",
+  updatedAt: "2026-10-03T18:12:37.000Z",
 } as const satisfies ChangeRunner

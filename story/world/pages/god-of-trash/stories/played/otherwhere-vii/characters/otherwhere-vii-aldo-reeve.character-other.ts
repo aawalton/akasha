@@ -7,4 +7,6 @@ export const otherwhereViiAldoReeve = {
   title: "Aldo Reeve",
   story: "story-played/otherwhere-vii",
   place: "place/otherwhere-vii-ashford",
+  createdAt: "2026-09-28T23:34:42.857Z",
+  updatedAt: "2026-10-03T19:16:23.000Z",
 } as const satisfies CharacterOther

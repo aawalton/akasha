@@ -213,4 +213,6 @@ export const pageMatchesItsType = {
   ],
   check: { maxCpuSeconds: 20 },
   audit: { maxCpuSeconds: 60 },
+  createdAt: "2026-08-29T17:30:35.322Z",
+  updatedAt: "2026-09-25T15:37:54.000Z",
 } as const satisfies CheckCode

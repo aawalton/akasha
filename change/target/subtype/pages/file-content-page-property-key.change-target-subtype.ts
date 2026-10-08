@@ -7,4 +7,6 @@ export const fileContentPagePropertyKey = {
   definition: "a body taken as a page's property keys",
   changeTargetType: "change-target-type/file-content",
   parent: "change-target-subtype/file-content-page",
+  createdAt: "2026-09-08T15:13:15.871Z",
+  updatedAt: "2026-09-22T13:48:15.000Z",
 } as const satisfies ChangeTargetSubtype

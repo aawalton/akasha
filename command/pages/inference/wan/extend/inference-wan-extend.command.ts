@@ -66,4 +66,6 @@ export const inferenceWanExtend = {
       oneOf: ["argument/prompt-file"],
     },
   ],
+  createdAt: "2026-09-12T04:58:17.622Z",
+  updatedAt: "2026-09-25T14:07:49.000Z",
 } as const satisfies Command

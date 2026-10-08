@@ -6,4 +6,6 @@ export const fileContent = {
   slug: "file-content",
   definition: "a body, whatever that body holds",
   changeTargetType: "change-target-type/file-content",
+  createdAt: "2026-09-13T15:22:09.976Z",
+  updatedAt: "2026-09-15T16:13:26.000Z",
 } as const satisfies ChangeTargetSubtype

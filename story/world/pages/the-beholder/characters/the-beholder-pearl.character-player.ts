@@ -9,4 +9,6 @@ export const theBeholderPearl = {
   story: "story-written/the-beholder",
   person: "person/alan",
   place: "place/the-beholder-rigging-loft",
+  createdAt: "2026-09-26T17:27:51.036Z",
+  updatedAt: "2026-10-03T19:16:47.000Z",
 } as const satisfies CharacterPlayer

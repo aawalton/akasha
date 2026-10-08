@@ -257,4 +257,6 @@ export const changeApply = {
   ],
   name: "apply",
   arguments: [{ argument: "argument/change", saidAs: "word" }, { argument: "argument/draft" }],
+  createdAt: "2026-09-08T14:43:34.207Z",
+  updatedAt: "2026-09-25T19:40:18.000Z",
 } as const satisfies Command

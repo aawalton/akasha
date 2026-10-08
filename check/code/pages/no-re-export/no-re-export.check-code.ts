@@ -46,4 +46,6 @@ export const noReExport = {
   ],
   check: { maxCpuSeconds: 1 },
   audit: { maxCpuSeconds: 60 },
+  createdAt: "2026-08-29T19:06:40.280Z",
+  updatedAt: "2026-09-19T04:45:54.000Z",
 } as const satisfies CheckCode

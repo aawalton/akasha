@@ -192,4 +192,6 @@ export const manifestNamesWhatIsReached = {
   ],
   check: { maxCpuSeconds: 20 },
   audit: { maxCpuSeconds: 25 },
+  createdAt: "2026-08-31T20:21:23.363Z",
+  updatedAt: "2026-09-21T17:25:42.000Z",
 } as const satisfies CheckCode

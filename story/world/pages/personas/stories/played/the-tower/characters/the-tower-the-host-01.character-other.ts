@@ -7,4 +7,6 @@ export const theTowerTheHost01 = {
   title: "The Host (Warden of the Haven) — Phase 1, the Weaver",
   story: "story-played/the-tower",
   place: "place/the-tower-the-hosts-seat",
+  createdAt: "2026-09-22T17:32:13.087Z",
+  updatedAt: "2026-10-03T20:10:04.000Z",
 } as const satisfies CharacterOther

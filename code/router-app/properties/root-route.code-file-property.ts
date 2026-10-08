@@ -16,4 +16,6 @@ export const rootRoute = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-02T21:08:34.605Z",
+  updatedAt: "2026-09-22T14:31:17.000Z",
 } as const satisfies CodeFileProperty

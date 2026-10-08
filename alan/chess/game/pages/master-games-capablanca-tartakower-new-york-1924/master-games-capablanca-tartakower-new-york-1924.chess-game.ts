@@ -24,4 +24,6 @@ export const masterGamesCapablancaTartakowerNewYork1924 = {
     "Positional technique: Capablanca's model conversion - the active king marches in, the rook takes the seventh, and the passed pawn decides",
   collection: "positional-masterpieces",
   pgn: "pgn",
+  createdAt: "2026-07-02T20:40:38.746Z",
+  updatedAt: "2026-09-15T16:15:11.000Z",
 } as const satisfies ChessGame

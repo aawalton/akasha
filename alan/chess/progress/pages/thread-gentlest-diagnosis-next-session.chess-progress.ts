@@ -12,4 +12,6 @@ export const threadGentlestDiagnosisNextSession = {
   lastReviewed: "2026-06-26",
   activeDrill: true,
   icon: "file-text",
+  createdAt: "2026-06-27T01:39:05.178Z",
+  updatedAt: "2026-09-15T16:15:29.000Z",
 } as const satisfies ChessProgress

@@ -9,4 +9,6 @@ export const otherwhereIAlan = {
   person: "person/alan",
   place: "place/otherwhere-i-check-in-counter",
   cover: "image/image-17f59c7233925455",
+  createdAt: "2026-09-27T14:40:42.213Z",
+  updatedAt: "2026-10-03T19:17:13.000Z",
 } as const satisfies CharacterPlayer

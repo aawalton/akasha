@@ -5,4 +5,6 @@ export const prose = {
   type: "page-type/change-target-type",
   slug: "prose",
   definition: "the English every page states rather than a file's body",
+  createdAt: "2026-09-08T17:35:02.101Z",
+  updatedAt: "2026-09-22T10:09:40.000Z",
 } as const satisfies ChangeTargetType

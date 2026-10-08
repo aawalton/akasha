@@ -8,4 +8,6 @@ export const theTowerAlan = {
   story: "story-played/the-tower",
   person: "person/alan",
   place: "place/the-tower-the-hosts-seat",
+  createdAt: "2026-09-22T16:27:08.394Z",
+  updatedAt: "2026-10-03T20:10:04.000Z",
 } as const satisfies CharacterPlayer

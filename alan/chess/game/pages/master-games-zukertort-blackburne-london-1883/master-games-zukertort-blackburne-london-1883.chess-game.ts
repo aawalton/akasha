@@ -21,4 +21,6 @@ export const masterGamesZukertortBlackburneLondon1883 = {
   openingName: "English Opening",
   openingEco: "A13",
   pgn: "pgn",
+  createdAt: "2026-07-01T15:59:58.861Z",
+  updatedAt: "2026-09-15T16:15:11.000Z",
 } as const satisfies ChessGame

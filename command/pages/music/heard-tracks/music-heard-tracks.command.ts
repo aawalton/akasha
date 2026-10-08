@@ -53,4 +53,6 @@ export const musicHeardTracks = {
   ],
   name: "heard-tracks",
   arguments: [{ argument: "argument/json" }],
+  createdAt: "2026-09-21T15:27:38.303Z",
+  updatedAt: "2026-09-21T20:22:23.000Z",
 } as const satisfies Command

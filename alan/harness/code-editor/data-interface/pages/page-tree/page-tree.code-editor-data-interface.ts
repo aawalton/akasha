@@ -7,4 +7,6 @@ export const pageTree = {
   definition: "the rows the page types panel draws",
   code: "ts",
   cooldownMilliseconds: 1000,
+  createdAt: "2026-09-05T15:35:07.272Z",
+  updatedAt: "2026-09-25T17:30:26.000Z",
 } as const satisfies CodeEditorDataInterface

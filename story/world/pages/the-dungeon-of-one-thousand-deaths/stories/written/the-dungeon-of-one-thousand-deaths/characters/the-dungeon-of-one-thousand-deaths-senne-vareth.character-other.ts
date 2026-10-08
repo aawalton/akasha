@@ -7,4 +7,6 @@ export const theDungeonOfOneThousandDeathsSenneVareth = {
   title: "Senne Vareth",
   story: "story-written/the-dungeon-of-one-thousand-deaths",
   place: "place/the-dungeon-of-one-thousand-deaths-the-crucible",
+  createdAt: "2026-10-03T19:46:12.772Z",
+  updatedAt: "2026-10-03T19:46:15.000Z",
 } as const satisfies CharacterOther

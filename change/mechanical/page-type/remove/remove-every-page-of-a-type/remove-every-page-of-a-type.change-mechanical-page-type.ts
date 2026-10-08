@@ -91,4 +91,6 @@ export const removeEveryPageOfAType = {
     },
   ],
   changeKind: "change-kind/change-mechanical",
+  createdAt: "2026-09-13T22:06:22.319Z",
+  updatedAt: "2026-09-24T16:11:12.000Z",
 } as const satisfies ChangeMechanicalPageType

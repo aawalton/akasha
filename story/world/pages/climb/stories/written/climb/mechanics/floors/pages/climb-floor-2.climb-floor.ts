@@ -9,4 +9,6 @@ export const climbFloor2 = {
   character: "character-player/climb-alan",
   objective: "EVERY CLIMBER ON THIS FLOOR COMES AT ONCE.",
   status: "complete",
+  createdAt: "2026-10-01T21:48:43.996Z",
+  updatedAt: "2026-10-01T21:48:46.000Z",
 } as const satisfies ClimbFloor

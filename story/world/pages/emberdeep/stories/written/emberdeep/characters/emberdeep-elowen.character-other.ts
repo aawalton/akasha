@@ -7,4 +7,6 @@ export const emberdeepElowen = {
   title: "Elowen",
   story: "story-written/emberdeep",
   place: "place/emberdeep-corbel-house",
+  createdAt: "2026-10-02T18:01:06.193Z",
+  updatedAt: "2026-10-03T19:27:33.000Z",
 } as const satisfies CharacterOther

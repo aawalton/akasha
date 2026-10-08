@@ -7,4 +7,6 @@ export const fileContentPage = {
   definition: "a body taken as a page",
   changeTargetType: "change-target-type/file-content",
   parent: "change-target-subtype/file-content-code",
+  createdAt: "2026-09-08T19:06:45.632Z",
+  updatedAt: "2026-09-22T13:24:12.000Z",
 } as const satisfies ChangeTargetSubtype

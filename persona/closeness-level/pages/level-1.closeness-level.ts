@@ -13,4 +13,6 @@ export const level1 = {
     "Friendly and curious, still a little guarded. She shares what anyone might learn about her and keeps the rest back. Touch goes no further than a greeting. Scenes stay out in the world.",
   wardrobe: "Polished public wear — street or outdoor, seasonal, nothing private.",
   pose: "Composed and self-contained, mid-activity in the world; observed-moment framing, no held address to the lens.",
+  createdAt: "2026-08-30T19:04:17.197Z",
+  updatedAt: "2026-09-27T14:37:38.000Z",
 } as const satisfies ClosenessLevel

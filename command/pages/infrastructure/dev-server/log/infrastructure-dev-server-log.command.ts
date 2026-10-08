@@ -32,4 +32,6 @@ export const infrastructureDevServerLog = {
     { argument: "argument/web-app", required: true },
     { argument: "argument/tail" },
   ],
+  createdAt: "2026-09-12T05:08:35.650Z",
+  updatedAt: "2026-09-22T10:09:10.000Z",
 } as const satisfies Command

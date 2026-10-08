@@ -104,4 +104,6 @@ export const initiativeMoveIntent = {
     { argument: "argument/statement", required: true, saidAs: "word" },
     { argument: "argument/onto", required: true, saidAs: "word" },
   ],
+  createdAt: "2026-09-08T16:41:21.667Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies Command

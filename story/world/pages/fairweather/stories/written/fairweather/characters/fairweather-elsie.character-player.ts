@@ -11,4 +11,6 @@ export const fairweatherElsie = {
   story: "story-written/fairweather",
   place: "place/fairweather-blue-door-house",
   person: "person/alan",
+  createdAt: "2026-10-03T14:05:47.053Z",
+  updatedAt: "2026-10-07T01:27:40.000Z",
 } as const satisfies CharacterPlayer

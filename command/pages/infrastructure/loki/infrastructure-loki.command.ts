@@ -77,4 +77,6 @@ export const infrastructureLoki = {
     { argument: "argument/every-line" },
     { argument: "argument/since", default: "1h" },
   ],
+  createdAt: "2026-09-03T16:10:24.907Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies Command

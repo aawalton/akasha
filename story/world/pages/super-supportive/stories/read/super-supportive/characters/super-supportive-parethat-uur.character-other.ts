@@ -7,4 +7,6 @@ export const superSupportiveParethatUur = {
   title: "Parethat-uur",
   world: "world/super-supportive",
   story: "story-read/super-supportive",
+  createdAt: "2026-09-28T22:05:25.264Z",
+  updatedAt: "2026-09-28T22:05:28.000Z",
 } as const satisfies CharacterOther

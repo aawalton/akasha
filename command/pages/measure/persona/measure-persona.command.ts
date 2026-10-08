@@ -60,4 +60,6 @@ export const measurePersona = {
   ],
   name: "persona",
   arguments: [],
+  createdAt: "2026-09-08T21:25:09.499Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies Command

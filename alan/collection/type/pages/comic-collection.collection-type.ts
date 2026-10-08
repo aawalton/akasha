@@ -7,4 +7,6 @@ export const comicCollection = {
   title: "Comic Collection",
   unit: "unit/words",
   collectionTypeStatus: "someday-maybe",
+  createdAt: "2026-09-03T04:14:17.949Z",
+  updatedAt: "2026-09-15T16:19:49.000Z",
 } as const satisfies CollectionType

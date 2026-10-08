@@ -32,4 +32,6 @@ export const musicConsent = {
   ],
   name: "consent",
   arguments: [],
+  createdAt: "2026-09-21T17:15:54.838Z",
+  updatedAt: "2026-09-22T13:51:13.000Z",
 } as const satisfies Command

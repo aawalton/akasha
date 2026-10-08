@@ -7,4 +7,6 @@ export const filePageProperty = {
   definition: "a file with a page property",
   changeTargetType: "change-target-type/file",
   parent: "change-target-subtype/file-page",
+  createdAt: "2026-09-07T15:16:09.675Z",
+  updatedAt: "2026-09-15T16:13:26.000Z",
 } as const satisfies ChangeTargetSubtype

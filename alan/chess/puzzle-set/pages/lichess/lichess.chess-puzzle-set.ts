@@ -6,4 +6,6 @@ export const lichess = {
   slug: "lichess",
   title: "Lichess",
   puzzles: "jsonl",
+  createdAt: "2026-09-03T04:24:22.114Z",
+  updatedAt: "2026-09-15T16:15:47.000Z",
 } as const satisfies ChessPuzzleSet

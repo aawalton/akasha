@@ -8,4 +8,6 @@ export const theDatingGameAlan = {
   story: "story-played/the-dating-game",
   person: "person/alan",
   place: "place/the-dating-game-apple-avenue",
+  createdAt: "2026-09-26T15:17:58.406Z",
+  updatedAt: "2026-10-03T19:51:35.000Z",
 } as const satisfies CharacterPlayer

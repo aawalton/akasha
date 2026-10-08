@@ -158,4 +158,6 @@ export const fileLength = {
   ],
   check: { maxCpuSeconds: 10 },
   audit: { maxCpuSeconds: 15 },
+  createdAt: "2026-08-29T04:34:01.063Z",
+  updatedAt: "2026-09-22T15:53:16.000Z",
 } as const satisfies CheckCode

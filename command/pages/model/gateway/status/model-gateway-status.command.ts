@@ -46,4 +46,6 @@ export const modelGatewayStatus = {
   ],
   name: "status",
   arguments: [{ argument: "argument/json" }],
+  createdAt: "2026-09-07T13:28:30.457Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies Command

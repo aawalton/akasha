@@ -11,4 +11,6 @@ export const otherwhereVNala = {
   story: "story-played/otherwhere-v",
   place: "place/otherwhere-v-fern-hollow",
   person: "person/alan",
+  createdAt: "2026-09-28T21:20:30.850Z",
+  updatedAt: "2026-10-03T19:31:29.000Z",
 } as const satisfies CharacterPlayer

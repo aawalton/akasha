@@ -62,4 +62,6 @@ export const googleCalendarEventCreate = {
     { argument: "argument/timezone" },
     { argument: "argument/recurrence", repeats: true },
   ],
+  createdAt: "2026-09-10T20:15:16.650Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies Command

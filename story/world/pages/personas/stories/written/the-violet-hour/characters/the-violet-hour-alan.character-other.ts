@@ -7,4 +7,6 @@ export const theVioletHourAlan = {
   title: "Alan",
   story: "story-written/the-violet-hour",
   place: "place/the-violet-hour-the-waystation",
+  createdAt: "2026-10-03T20:31:38.802Z",
+  updatedAt: "2026-10-03T20:35:14.000Z",
 } as const satisfies CharacterOther

@@ -8,4 +8,6 @@ export const overwhereIiiBrannaghTull = {
   world: "world/the-magpie-and-the-archmage-monster-evo-litrpg",
   story: "story-played/overwhere-iii",
   place: "place/overwhere-iii-herb-shop",
+  createdAt: "2026-09-29T12:43:52.942Z",
+  updatedAt: "2026-10-03T20:38:47.000Z",
 } as const satisfies CharacterOther

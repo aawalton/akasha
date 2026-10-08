@@ -7,4 +7,6 @@ export const overwhereIReedlurkerOfTheSecondHolt = {
   title: "Reedlurker of the Second Holt",
   story: "story-played/overwhere-i",
   place: "place/overwhere-i-the-greyfen",
+  createdAt: "2026-09-30T18:32:13.274Z",
+  updatedAt: "2026-09-30T18:32:16.000Z",
 } as const satisfies CharacterOther

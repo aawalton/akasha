@@ -91,4 +91,6 @@ export const agentTurnColorList = {
     { argument: "argument/agent", repeats: true, saidAs: "word", notWith: ["argument/turn-state"] },
     { argument: "argument/turn-state", repeats: true, notWith: ["argument/agent"] },
   ],
+  createdAt: "2026-09-03T21:46:14.692Z",
+  updatedAt: "2026-09-22T13:43:11.000Z",
 } as const satisfies Command

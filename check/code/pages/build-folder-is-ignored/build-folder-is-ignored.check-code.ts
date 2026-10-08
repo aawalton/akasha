@@ -57,4 +57,6 @@ export const buildFolderIsIgnored = {
   ],
   check: { maxCpuSeconds: 3 },
   audit: { maxCpuSeconds: 15 },
+  createdAt: "2026-09-25T15:19:16.902Z",
+  updatedAt: "2026-09-25T16:28:02.000Z",
 } as const satisfies CheckCode

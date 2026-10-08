@@ -27,4 +27,6 @@ export const infrastructureServiceStart = {
     },
   ],
   arguments: [{ argument: "argument/workstation-service", required: true, saidAs: "word" }],
+  createdAt: "2026-09-12T05:12:42.785Z",
+  updatedAt: "2026-09-22T10:08:24.000Z",
 } as const satisfies Command

@@ -91,4 +91,6 @@ export const measureClosure = {
     { argument: "argument/predicate", required: true, saidAs: "word" },
     { argument: "argument/closure-seed", required: true, repeats: true, saidAs: "word" },
   ],
+  createdAt: "2026-09-15T18:26:47.462Z",
+  updatedAt: "2026-09-22T10:08:24.000Z",
 } as const satisfies Command

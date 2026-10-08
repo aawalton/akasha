@@ -7,4 +7,6 @@ export const theDungeonOfOneThousandDeathsEssanyCord = {
   title: "Essany Cord",
   story: "story-written/the-dungeon-of-one-thousand-deaths",
   place: "place/the-dungeon-of-one-thousand-deaths-the-still-garden",
+  createdAt: "2026-10-03T19:36:31.131Z",
+  updatedAt: "2026-10-03T19:36:34.000Z",
 } as const satisfies CharacterOther

@@ -35,4 +35,6 @@ export const inferenceActivate = {
   ],
   name: "activate",
   arguments: [{ argument: "argument/pool-service", required: true, saidAs: "word" }],
+  createdAt: "2026-09-03T17:44:10.832Z",
+  updatedAt: "2026-09-22T10:06:53.000Z",
 } as const satisfies Command

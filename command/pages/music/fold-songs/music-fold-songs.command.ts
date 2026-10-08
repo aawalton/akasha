@@ -64,4 +64,6 @@ export const musicFoldSongs = {
   ],
   name: "fold-songs",
   arguments: [{ argument: "argument/json" }],
+  createdAt: "2026-09-19T03:50:18.385Z",
+  updatedAt: "2026-09-22T13:26:01.000Z",
 } as const satisfies Command

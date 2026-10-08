@@ -8,4 +8,6 @@ export const towerAndTheStarVesperArtificer = {
   world: "world/tower-and-the-star",
   character: "character-other/tower-and-the-star-vesper",
   class: "world-class/tower-and-the-star-artificer",
+  createdAt: "2026-10-03T19:32:14.014Z",
+  updatedAt: "2026-10-03T19:32:17.000Z",
 } as const satisfies CharacterClass

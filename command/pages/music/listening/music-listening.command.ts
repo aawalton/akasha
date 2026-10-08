@@ -44,4 +44,6 @@ export const musicListening = {
     { argument: "argument/limit" },
     { argument: "argument/window" },
   ],
+  createdAt: "2026-09-02T16:34:40.346Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies Command

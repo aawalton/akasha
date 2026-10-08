@@ -68,4 +68,6 @@ export const moduleSitsUnderAModulesFolder = {
   ],
   check: { maxCpuSeconds: 1 },
   audit: { maxCpuSeconds: 15 },
+  createdAt: "2026-09-12T14:04:12.794Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies CheckCode

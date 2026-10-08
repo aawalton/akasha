@@ -118,4 +118,6 @@ export const browserScreenshot = {
     { argument: "argument/hydration-selector" },
     { argument: "argument/timeout-ms" },
   ],
+  createdAt: "2026-09-21T16:24:43.495Z",
+  updatedAt: "2026-09-28T13:53:53.000Z",
 } as const satisfies Command

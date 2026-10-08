@@ -44,4 +44,6 @@ export const fitnessMobility = {
   ],
   name: "mobility",
   arguments: [{ argument: "argument/json" }],
+  createdAt: "2026-09-19T00:58:44.982Z",
+  updatedAt: "2026-09-19T00:59:52.000Z",
 } as const satisfies Command

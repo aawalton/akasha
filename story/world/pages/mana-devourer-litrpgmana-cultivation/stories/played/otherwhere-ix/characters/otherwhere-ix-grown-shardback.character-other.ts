@@ -7,4 +7,6 @@ export const otherwhereIxGrownShardback = {
   title: "Grown Shardback",
   story: "story-played/otherwhere-ix",
   place: "place/otherwhere-ix-glassgrass-flats",
+  createdAt: "2026-09-29T02:58:31.543Z",
+  updatedAt: "2026-10-03T19:46:35.000Z",
 } as const satisfies CharacterOther

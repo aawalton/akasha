@@ -87,4 +87,6 @@ export const foldBeatsIntoFile = {
     },
   ],
   changeKind: "change-kind/change-mechanical",
+  createdAt: "2026-10-03T18:16:59.742Z",
+  updatedAt: "2026-10-03T18:54:10.000Z",
 } as const satisfies ChangeMechanicalPageType

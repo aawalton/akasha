@@ -34,4 +34,6 @@ export const measureComplexityMaintainability = {
     { argument: "argument/top" },
     { argument: "argument/threshold" },
   ],
+  createdAt: "2026-09-10T19:31:24.516Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies Command

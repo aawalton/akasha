@@ -71,4 +71,6 @@ export const infrastructureServiceSweep = {
     },
   ],
   arguments: [{ argument: "argument/plan" }],
+  createdAt: "2026-09-12T05:13:40.293Z",
+  updatedAt: "2026-09-22T13:44:42.000Z",
 } as const satisfies Command

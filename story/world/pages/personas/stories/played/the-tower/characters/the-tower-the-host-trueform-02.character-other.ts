@@ -7,4 +7,6 @@ export const theTowerTheHostTrueform02 = {
   title: "The Host — Phase 2, True Form",
   story: "story-played/the-tower",
   place: "place/the-tower-the-hosts-seat",
+  createdAt: "2026-09-22T17:32:09.565Z",
+  updatedAt: "2026-09-26T17:44:02.000Z",
 } as const satisfies CharacterOther

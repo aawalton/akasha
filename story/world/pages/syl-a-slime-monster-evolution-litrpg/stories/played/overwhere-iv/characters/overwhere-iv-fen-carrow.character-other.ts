@@ -8,4 +8,6 @@ export const overwhereIvFenCarrow = {
   world: "world/syl-a-slime-monster-evolution-litrpg",
   story: "story-played/overwhere-iv",
   place: "place/overwhere-iv-north-west-pastures",
+  createdAt: "2026-10-03T19:56:16.719Z",
+  updatedAt: "2026-10-03T20:39:03.000Z",
 } as const satisfies CharacterOther

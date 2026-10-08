@@ -9,4 +9,6 @@ export const server = {
   extensions: ["ts"],
   fileName: "server.ts",
   types: "ts",
+  createdAt: "2026-09-08T14:44:47.121Z",
+  updatedAt: "2026-09-15T16:19:31.000Z",
 } as const satisfies CodeFileProperty

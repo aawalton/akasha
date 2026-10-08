@@ -4,4 +4,6 @@ export const window90695185844561 = {
   id: "01a11bb4-a525-7ebd-8b96-b96e82b4565c",
   type: "page-type/code-editor-window",
   slug: "window-906951-85844561",
+  createdAt: "2026-10-08T13:29:46.000Z",
+  updatedAt: "2026-10-08T13:29:46.000Z",
 } as const satisfies CodeEditorWindow

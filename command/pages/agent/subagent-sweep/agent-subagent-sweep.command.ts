@@ -266,4 +266,6 @@ export const agentSubagentSweep = {
   ],
   name: "subagent-sweep",
   arguments: [{ argument: "argument/remove" }],
+  createdAt: "2026-09-05T18:09:32.888Z",
+  updatedAt: "2026-10-04T16:41:33.000Z",
 } as const satisfies Command

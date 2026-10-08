@@ -33,4 +33,6 @@ export const googleCalendarEventList = {
     { argument: "argument/event-query" },
     { argument: "argument/max" },
   ],
+  createdAt: "2026-09-10T20:14:30.451Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies Command

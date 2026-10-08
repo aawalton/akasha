@@ -7,4 +7,6 @@ export const overwhereIHarlVoss = {
   title: "Harl Voss",
   story: "story-played/overwhere-i",
   place: "place/overwhere-i-greyback-and-east-road",
+  createdAt: "2026-10-02T15:29:10.714Z",
+  updatedAt: "2026-10-02T15:29:15.000Z",
 } as const satisfies CharacterOther

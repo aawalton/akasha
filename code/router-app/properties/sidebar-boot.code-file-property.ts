@@ -9,4 +9,6 @@ export const sidebarBoot = {
   extensions: ["js"],
   fileName: "public/sidebar-boot.js",
   types: "ts",
+  createdAt: "2026-09-08T14:44:58.058Z",
+  updatedAt: "2026-09-15T16:19:31.000Z",
 } as const satisfies CodeFileProperty

@@ -6,4 +6,6 @@ export const pageTypePageProperty = {
   slug: "page-type-page-property",
   definition: "a property a page type declares, on every page of that page type",
   changeTargetType: "change-target-type/page-type",
+  createdAt: "2026-09-08T14:34:05.717Z",
+  updatedAt: "2026-09-22T10:09:53.000Z",
 } as const satisfies ChangeTargetSubtype

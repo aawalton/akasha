@@ -124,4 +124,6 @@ export const changeSubagentTake = {
   ],
   name: "take",
   arguments: [],
+  createdAt: "2026-09-13T22:39:09.138Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies Command

@@ -7,4 +7,6 @@ export const superSupportiveBithe = {
   title: "Bithe",
   world: "world/super-supportive",
   story: "story-read/super-supportive",
+  createdAt: "2026-09-28T22:48:15.177Z",
+  updatedAt: "2026-09-28T22:48:28.000Z",
 } as const satisfies CharacterOther

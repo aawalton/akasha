@@ -9,4 +9,6 @@ export const newBuild4 = {
     "ATQHgAAAAABgAAD__AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAK9evXHyJMqXMmzp9CjSp1KtZatWrR54-gQokaRKmTqFKpWsKFChQoAAggYQKGDiBIoWMGjh5AiSJgAAMgA",
   visibility: "private",
   correlationId: "f7c9f280-4ebb-4c03-acdd-21e4ec467901",
+  createdAt: "2026-07-24T23:57:27.370Z",
+  updatedAt: "2026-09-21T15:29:06.000Z",
 } as const satisfies CharacterBuild

@@ -37,4 +37,6 @@ export const measureModelAccountCost = {
   ],
   name: "cost",
   arguments: [],
+  createdAt: "2026-09-07T01:14:32.061Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies Command

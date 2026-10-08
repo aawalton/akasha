@@ -47,4 +47,6 @@ export const mobileSimOpenUrl = {
     { argument: "argument/route", required: true, saidAs: "flag-or-word" },
     { argument: "argument/kb-debug" },
   ],
+  createdAt: "2026-09-03T17:42:53.358Z",
+  updatedAt: "2026-09-21T01:01:01.000Z",
 } as const satisfies Command

@@ -7,4 +7,6 @@ export const theTowerGloomwardStalker01 = {
   title: "Gloomward Stalker",
   story: "story-played/the-tower",
   place: "place/the-tower-shaft-base-flights",
+  createdAt: "2026-09-22T17:32:31.840Z",
+  updatedAt: "2026-10-03T20:10:04.000Z",
 } as const satisfies CharacterOther

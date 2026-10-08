@@ -102,4 +102,6 @@ export const nameFormatJudgesByOneShape = {
   ],
   check: { maxCpuSeconds: 1 },
   audit: { maxCpuSeconds: 15 },
+  createdAt: "2026-08-31T19:23:05.439Z",
+  updatedAt: "2026-09-25T15:57:34.000Z",
 } as const satisfies CheckCode

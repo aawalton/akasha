@@ -87,4 +87,6 @@ export const musicMergeTracks = {
   ],
   name: "merge-tracks",
   arguments: [{ argument: "argument/json" }, { argument: "argument/plan" }],
+  createdAt: "2026-09-21T18:57:51.834Z",
+  updatedAt: "2026-09-21T19:01:17.000Z",
 } as const satisfies Command

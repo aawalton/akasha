@@ -80,4 +80,6 @@ export const gapDelete = {
     { argument: "argument/page", required: true, saidAs: "word" },
     { argument: "argument/statement", required: true, saidAs: "word" },
   ],
+  createdAt: "2026-09-19T03:06:01.181Z",
+  updatedAt: "2026-09-22T10:06:53.000Z",
 } as const satisfies Command

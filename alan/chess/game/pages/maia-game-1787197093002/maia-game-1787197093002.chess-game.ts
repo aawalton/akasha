@@ -19,4 +19,6 @@ export const maiaGame1787197093002 = {
   playerColor: "white",
   outcome: "loss",
   pgn: "pgn",
+  createdAt: "2026-08-20T03:38:22.129Z",
+  updatedAt: "2026-09-15T16:15:11.000Z",
 } as const satisfies ChessGame

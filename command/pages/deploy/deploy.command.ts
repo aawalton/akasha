@@ -409,4 +409,6 @@ export const deploy = {
     { argument: "argument/simulator", notWith: ["argument/device"] },
     { argument: "argument/device", notWith: ["argument/simulator"] },
   ],
+  createdAt: "2026-09-01T03:15:54.902Z",
+  updatedAt: "2026-09-27T15:39:11.000Z",
 } as const satisfies Command

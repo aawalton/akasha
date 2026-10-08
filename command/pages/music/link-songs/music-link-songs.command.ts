@@ -58,4 +58,6 @@ export const musicLinkSongs = {
   ],
   name: "link-songs",
   arguments: [{ argument: "argument/json" }, { argument: "argument/track-limit" }],
+  createdAt: "2026-09-19T01:05:21.459Z",
+  updatedAt: "2026-09-22T13:55:14.000Z",
 } as const satisfies Command

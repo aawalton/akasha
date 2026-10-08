@@ -62,4 +62,6 @@ export const removePropertyFromPageType = {
     },
   ],
   changeKind: "change-kind/change-mechanical",
+  createdAt: "2026-09-13T21:55:26.485Z",
+  updatedAt: "2026-09-22T10:09:53.000Z",
 } as const satisfies ChangeMechanicalPageType

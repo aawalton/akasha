@@ -48,4 +48,6 @@ export const alanLearnNext = {
   ],
   name: "learn-next",
   arguments: [{ argument: "argument/json" }],
+  createdAt: "2026-09-06T18:06:50.892Z",
+  updatedAt: "2026-09-21T22:13:00.000Z",
 } as const satisfies Command

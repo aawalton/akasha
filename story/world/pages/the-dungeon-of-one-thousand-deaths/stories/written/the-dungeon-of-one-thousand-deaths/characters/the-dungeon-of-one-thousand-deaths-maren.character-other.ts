@@ -7,4 +7,6 @@ export const theDungeonOfOneThousandDeathsMaren = {
   title: "Maren Voss",
   story: "story-written/the-dungeon-of-one-thousand-deaths",
   place: "place/the-dungeon-of-one-thousand-deaths-the-marrow-warrens",
+  createdAt: "2026-10-03T19:19:01.504Z",
+  updatedAt: "2026-10-03T19:23:20.000Z",
 } as const satisfies CharacterOther

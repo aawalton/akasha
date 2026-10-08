@@ -8,4 +8,6 @@ export const hollowmereBea = {
   story: "story-written/hollowmere",
   place: "place/hollowmere-thornfield-house",
   cover: "image/image-d9b83e18f151ce35",
+  createdAt: "2026-10-02T14:50:34.515Z",
+  updatedAt: "2026-10-03T19:40:48.000Z",
 } as const satisfies CharacterOther

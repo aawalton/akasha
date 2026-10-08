@@ -5,4 +5,6 @@ export const page = {
   type: "page-type/change-target-type",
   slug: "page",
   definition: "a page, taken as the thing named rather than the file that page sits in",
+  createdAt: "2026-09-25T13:51:43.752Z",
+  updatedAt: "2026-09-25T13:51:50.000Z",
 } as const satisfies ChangeTargetType

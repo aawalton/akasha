@@ -9,4 +9,6 @@ export const climbFloor1 = {
   character: "character-player/climb-alan",
   objective: "EVERY CLIMBER ON THIS FLOOR COMES ON ANOTHER CLIMBER'S MOUTH.",
   status: "complete",
+  createdAt: "2026-10-01T21:36:40.196Z",
+  updatedAt: "2026-10-01T21:36:43.000Z",
 } as const satisfies ClimbFloor

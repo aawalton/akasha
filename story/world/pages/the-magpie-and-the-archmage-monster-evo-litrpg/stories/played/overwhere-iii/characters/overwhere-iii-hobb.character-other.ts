@@ -8,4 +8,6 @@ export const overwhereIiiHobb = {
   world: "world/the-magpie-and-the-archmage-monster-evo-litrpg",
   story: "story-played/overwhere-iii",
   place: "place/overwhere-iii-merrowgate",
+  createdAt: "2026-09-29T12:46:12.525Z",
+  updatedAt: "2026-09-29T12:46:15.000Z",
 } as const satisfies CharacterOther

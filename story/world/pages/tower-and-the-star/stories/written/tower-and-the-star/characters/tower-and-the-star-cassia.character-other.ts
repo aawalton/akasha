@@ -7,4 +7,6 @@ export const towerAndTheStarCassia = {
   title: "Cassia Renard",
   story: "story-written/tower-and-the-star",
   place: "place/tower-and-the-star-floor-20-transition-hall",
+  createdAt: "2026-10-03T19:31:46.768Z",
+  updatedAt: "2026-10-03T19:52:12.000Z",
 } as const satisfies CharacterOther

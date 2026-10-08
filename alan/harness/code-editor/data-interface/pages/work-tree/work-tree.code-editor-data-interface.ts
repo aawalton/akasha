@@ -7,4 +7,6 @@ export const workTree = {
   definition: "the rows the initiatives panel draws",
   code: "ts",
   cooldownMilliseconds: 1000,
+  createdAt: "2026-09-05T15:35:07.273Z",
+  updatedAt: "2026-09-26T14:06:24.000Z",
 } as const satisfies CodeEditorDataInterface

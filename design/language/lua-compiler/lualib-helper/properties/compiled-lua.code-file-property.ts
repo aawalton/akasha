@@ -9,4 +9,6 @@ export const compiledLua = {
   extensions: ["lua"],
   generated: true,
   types: "ts",
+  createdAt: "2026-09-08T14:27:04.722Z",
+  updatedAt: "2026-09-15T16:19:31.000Z",
 } as const satisfies CodeFileProperty

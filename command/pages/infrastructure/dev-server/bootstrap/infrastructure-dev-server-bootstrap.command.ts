@@ -33,4 +33,6 @@ export const infrastructureDevServerBootstrap = {
     { argument: "argument/commit", required: true, saidAs: "flag-or-word" },
     { argument: "argument/web-app", required: true },
   ],
+  createdAt: "2026-09-12T05:08:57.936Z",
+  updatedAt: "2026-09-19T00:53:52.000Z",
 } as const satisfies Command

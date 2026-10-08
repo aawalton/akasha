@@ -39,4 +39,6 @@ export const infrastructureDevServerStatus = {
     { argument: "argument/commit", saidAs: "flag-or-word" },
     { argument: "argument/web-app" },
   ],
+  createdAt: "2026-09-12T05:08:11.556Z",
+  updatedAt: "2026-09-19T00:53:52.000Z",
 } as const satisfies Command

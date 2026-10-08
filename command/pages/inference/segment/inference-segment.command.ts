@@ -62,4 +62,6 @@ export const inferenceSegment = {
     { argument: "argument/flatten-out" },
     { argument: "argument/alpha-matting" },
   ],
+  createdAt: "2026-09-03T17:44:10.832Z",
+  updatedAt: "2026-09-26T16:51:37.000Z",
 } as const satisfies Command

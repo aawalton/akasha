@@ -10,4 +10,6 @@ export const thePlacesSheCarriesWrenWayfinder = {
   character: "character-player/the-places-she-carries-wren",
   class: "world-class/the-places-she-carries-wayfinder",
   unrevealed: false,
+  createdAt: "2026-10-03T19:22:22.858Z",
+  updatedAt: "2026-10-03T19:22:26.000Z",
 } as const satisfies CharacterClass

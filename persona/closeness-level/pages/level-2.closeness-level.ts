@@ -14,4 +14,6 @@ export const level2 = {
   wardrobe:
     "Casual date or day wear — a sundress, jeans and a knit, an activity fit; still fully public.",
   pose: "Oriented to the camera as a companion — beside her walking, across the table, being shown something; inclusion gestures like leaning in laughing or beckoning.",
+  createdAt: "2026-08-30T19:04:17.198Z",
+  updatedAt: "2026-09-27T14:37:38.000Z",
 } as const satisfies ClosenessLevel

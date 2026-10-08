@@ -93,4 +93,6 @@ export const modelAccountAdd = {
     { argument: "argument/email" },
     { argument: "argument/alias" },
   ],
+  createdAt: "2026-09-03T17:47:08.771Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies Command

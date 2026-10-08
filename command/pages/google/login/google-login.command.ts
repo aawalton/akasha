@@ -49,4 +49,6 @@ export const googleLogin = {
   ],
   name: "login",
   arguments: [{ argument: "argument/callback-url" }],
+  createdAt: "2026-09-10T19:41:27.112Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies Command

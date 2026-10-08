@@ -36,4 +36,6 @@ export const measurePage = {
   ],
   name: "page",
   arguments: [],
+  createdAt: "2026-09-07T01:14:32.004Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies Command

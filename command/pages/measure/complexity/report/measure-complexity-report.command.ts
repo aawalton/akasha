@@ -23,4 +23,6 @@ export const measureComplexityReport = {
   ],
   name: "report",
   arguments: [{ argument: "argument/json" }, { argument: "argument/top" }],
+  createdAt: "2026-09-10T19:31:37.051Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies Command

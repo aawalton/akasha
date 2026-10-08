@@ -9,4 +9,6 @@ export const theDatingGameAelwyn = {
   persona: "persona/aelwyn",
   place: "place/the-dating-game-rock-canyon",
   cover: "image/image-9e373fae8c1f66e1",
+  createdAt: "2026-09-28T12:28:01.907Z",
+  updatedAt: "2026-10-03T19:51:35.000Z",
 } as const satisfies CharacterOther

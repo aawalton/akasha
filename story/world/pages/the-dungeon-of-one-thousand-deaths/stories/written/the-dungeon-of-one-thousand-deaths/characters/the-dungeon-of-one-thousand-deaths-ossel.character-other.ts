@@ -7,4 +7,6 @@ export const theDungeonOfOneThousandDeathsOssel = {
   title: "Ossel",
   story: "story-written/the-dungeon-of-one-thousand-deaths",
   place: "place/the-dungeon-of-one-thousand-deaths-brenwick",
+  createdAt: "2026-10-03T19:31:23.736Z",
+  updatedAt: "2026-10-03T19:31:26.000Z",
 } as const satisfies CharacterOther

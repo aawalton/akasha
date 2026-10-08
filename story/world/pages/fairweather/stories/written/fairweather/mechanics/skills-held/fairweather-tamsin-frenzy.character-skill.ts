@@ -9,4 +9,6 @@ export const fairweatherTamsinFrenzy = {
   character: "character-other/fairweather-tamsin",
   skill: "world-skill/fairweather-frenzy",
   unrevealed: true,
+  createdAt: "2026-10-03T20:11:26.835Z",
+  updatedAt: "2026-10-03T21:05:51.000Z",
 } as const satisfies CharacterSkill

@@ -10,4 +10,6 @@ export const newBuild7 = {
   visibility: "private",
   correlationId: "beb57288-aa2f-4ce4-8211-42758bdd38d3",
   targetCount: 1,
+  createdAt: "2026-09-03T17:48:09.134Z",
+  updatedAt: "2026-09-21T15:29:06.000Z",
 } as const satisfies CharacterBuild

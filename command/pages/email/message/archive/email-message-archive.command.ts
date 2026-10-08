@@ -31,4 +31,6 @@ export const emailMessageArchive = {
   ],
   name: "archive",
   arguments: [{ argument: "argument/message", required: true, saidAs: "flag-or-word" }],
+  createdAt: "2026-09-03T16:18:47.185Z",
+  updatedAt: "2026-09-22T10:08:16.000Z",
 } as const satisfies Command

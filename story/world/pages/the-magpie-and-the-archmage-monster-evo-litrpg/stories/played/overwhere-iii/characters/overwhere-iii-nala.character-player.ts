@@ -11,4 +11,6 @@ export const overwhereIiiNala = {
   story: "story-played/overwhere-iii",
   person: "person/alan",
   place: "place/overwhere-iii-wrenwood",
+  createdAt: "2026-09-29T12:01:19.985Z",
+  updatedAt: "2026-10-03T20:38:47.000Z",
 } as const satisfies CharacterPlayer

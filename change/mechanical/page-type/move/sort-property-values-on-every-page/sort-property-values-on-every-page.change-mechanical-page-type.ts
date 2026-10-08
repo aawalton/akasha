@@ -57,4 +57,6 @@ export const sortPropertyValuesOnEveryPage = {
     },
   ],
   changeKind: "change-kind/change-mechanical",
+  createdAt: "2026-09-12T13:28:40.770Z",
+  updatedAt: "2026-09-24T16:12:47.000Z",
 } as const satisfies ChangeMechanicalPageType

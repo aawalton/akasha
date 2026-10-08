@@ -7,4 +7,6 @@ export const superSupportiveMakeeEn = {
   title: "Makee-en",
   world: "world/super-supportive",
   story: "story-read/super-supportive",
+  createdAt: "2026-09-28T22:55:49.553Z",
+  updatedAt: "2026-09-28T22:55:53.000Z",
 } as const satisfies CharacterOther

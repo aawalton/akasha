@@ -54,4 +54,6 @@ export const requireImportExtension = {
   ],
   check: { maxCpuSeconds: 1 },
   audit: { maxCpuSeconds: 60 },
+  createdAt: "2026-08-29T04:34:01.108Z",
+  updatedAt: "2026-09-19T04:48:48.000Z",
 } as const satisfies CheckCode

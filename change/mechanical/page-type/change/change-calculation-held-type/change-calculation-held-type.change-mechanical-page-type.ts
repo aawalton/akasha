@@ -78,4 +78,6 @@ export const changeCalculationHeldType = {
     },
   ],
   changeKind: "change-kind/change-mechanical",
+  createdAt: "2026-09-13T20:55:42.617Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies ChangeMechanicalPageType

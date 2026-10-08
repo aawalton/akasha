@@ -72,4 +72,6 @@ export const fileIsOwnedByAPage = {
   ],
   check: { maxCpuSeconds: 10 },
   audit: { maxCpuSeconds: 15 },
+  createdAt: "2026-09-15T15:27:07.236Z",
+  updatedAt: "2026-09-15T18:04:32.000Z",
 } as const satisfies CheckCode

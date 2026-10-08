@@ -11,4 +11,6 @@ export const otherwhereIiNala = {
   story: "story-played/otherwhere-ii",
   place: "place/otherwhere-ii-glassrun",
   person: "person/alan",
+  createdAt: "2026-09-28T19:34:22.059Z",
+  updatedAt: "2026-10-03T19:30:29.000Z",
 } as const satisfies CharacterPlayer

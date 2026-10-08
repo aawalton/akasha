@@ -369,4 +369,6 @@ export const testsPass = {
   ],
   check: {},
   audit: {},
+  createdAt: "2026-08-29T18:09:42.932Z",
+  updatedAt: "2026-09-25T19:40:18.000Z",
 } as const satisfies CheckCode
