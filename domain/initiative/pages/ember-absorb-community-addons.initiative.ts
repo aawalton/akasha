@@ -8,11 +8,6 @@ export const emberAbsorbCommunityAddons = {
   persona: "persona/ember",
   intentStack: [
     {
-      statement: "What Pithka's Achievement Tracker does, temper-addon-characters does.",
-      workingMemory:
-        "Pithka's Achievement Tracker 9.17 is ESOUI file 2892. The port is every pithka module of temper-addon-characters and is deployed. Left is seeing in game the completion icons, the QR tray and the trial scores, which the pictures showed locked, missing and blank.",
-    },
-    {
       statement: "What Combat Metrics does, temper-addon-combat does.",
       workingMemory:
         "Combat Metrics 1.7.8 is ESOUI file 1360. The markup, the art and the fonts match upstream. Left is seeing a recorded fight in the report: the rows, the bars, the graph and the menus.",
