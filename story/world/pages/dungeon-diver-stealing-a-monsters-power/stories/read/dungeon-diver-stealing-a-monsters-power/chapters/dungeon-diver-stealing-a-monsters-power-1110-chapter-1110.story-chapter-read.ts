@@ -21,4 +21,6 @@ export const dungeonDiverStealingAMonstersPower1110Chapter1110 = {
     },
   ],
   prose: "txt",
+  createdAt: "2026-09-03T12:08:04.150Z",
+  updatedAt: "2026-09-19T18:25:57.000Z",
 } as const satisfies StoryChapterRead
