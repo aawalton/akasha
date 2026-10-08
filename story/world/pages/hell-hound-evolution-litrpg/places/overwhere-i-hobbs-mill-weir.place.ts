@@ -319,13 +319,6 @@ export const overwhereIHobbsMillWeir = {
       fact: "Tam asks the barrow back by any barge coming down from Wendlow; he means to grind by afternoon.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
-    {
-      fact: "Tam Hobb unbars at the thunder and lends Nala his mill barrow to wheel the head to Wendlow.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
-    },
-    {
-      fact: "Wheeling the 80-pound head in the barrow, the towpath to Wendlow takes about two and a half hours.",
-      knowers: ["lore-disclosure/game-master"],
-    },
   ],
+  updatedAt: "2026-10-08T16:26:03.902Z",
 } as const satisfies Place

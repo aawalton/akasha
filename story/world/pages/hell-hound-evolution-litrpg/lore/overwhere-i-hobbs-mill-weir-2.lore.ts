@@ -9,6 +9,14 @@ export const overwhereIHobbsMillWeir2 = {
   about: "place/overwhere-i-hobbs-mill-weir",
   facts: [
     {
+      fact: "Tam Hobb unbars at the thunder and lends Nala his mill barrow to wheel the head to Wendlow.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+    },
+    {
+      fact: "Wheeling the 80-pound head in the barrow, the towpath to Wendlow takes about two and a half hours.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
       fact: "Nala found the wyrm's bile sac whole, but her blade slipped cutting it free; it burst, worthless.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
@@ -82,5 +90,5 @@ export const overwhereIHobbsMillWeir2 = {
     },
   ],
   createdAt: "2026-10-03T12:23:47.893Z",
-  updatedAt: "2026-10-03T12:50:41.000Z",
+  updatedAt: "2026-10-08T16:26:03.902Z",
 } as const satisfies Lore
