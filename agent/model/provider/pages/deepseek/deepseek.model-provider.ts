@@ -28,7 +28,8 @@ export const deepseek = {
     },
     {
       decisionKind: "decision-kind/constraint",
-      statement: "`cache_control` is taken and ignored, so a prompt is paid for whole every turn.",
+      statement:
+        "`cache_control` is taken and ignored, and a prompt opening as a recent one did is read from cache.",
     },
     {
       decisionKind: "decision-kind/constraint",
@@ -45,5 +46,5 @@ export const deepseek = {
     },
   ],
   createdAt: "2026-09-14T22:47:03.507Z",
-  updatedAt: "2026-09-25T17:59:43.000Z",
+  updatedAt: "2026-10-08T16:11:25.099Z",
 } as const satisfies ModelProvider
