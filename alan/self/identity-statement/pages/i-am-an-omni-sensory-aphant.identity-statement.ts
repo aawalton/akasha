@@ -14,4 +14,6 @@ export const iAmAnOmniSensoryAphant = {
   identityStatementTags: ["neurodiversity"],
   identityStatementValue: "value/faith",
   icon: "file-text",
+  createdAt: "2026-06-08T16:28:44.163Z",
+  updatedAt: "2026-09-15T17:10:57.000Z",
 } as const satisfies IdentityStatement

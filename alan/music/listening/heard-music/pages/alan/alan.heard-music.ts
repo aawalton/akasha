@@ -6,4 +6,6 @@ export const alan = {
   slug: "alan",
   person: "person/alan",
   tracks: "jsonl",
+  createdAt: "2026-08-20T03:36:55.482Z",
+  updatedAt: "2026-09-15T17:09:40.000Z",
 } as const satisfies HeardMusic

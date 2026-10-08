@@ -17,4 +17,6 @@ export const image0236d30ee6783441 = {
   ],
   prompt:
     "Fantasy photorealistic candid photograph, she does not look at the camera. Keep the place from the first image, the attic room, now at night in candlelight. The pink-haired woman from the second image kneels on the floorboards beside the wooden crate of houseplants under the round window, still in her boots, leaning close to a feathery fern and whispering to it with a happy, wondering smile, one finger gently touching a leaf; a lemon tree, an aloe and a pot of mint sit beside it. The pink-haired woman: a gorgeous slim young Korean woman of about twenty, small V-line face, big rose-pink doe eyes, glossy pink lips, pale porcelain skin, short rose-pink layered bob with side-swept bangs and a pink-and-white flower clip; slim build, small chest; cropped cream halter top laced up the front, short sage-green skirt, brown belt with pouches, tall boots. A candle on the floor beside her, the round window dark with distant lantern glow. Warm candlelight, soft shadows. Medium shot at floor level, 50mm lens, her face clear in profile.",
+  createdAt: "2026-10-04T12:46:55.000Z",
+  updatedAt: "2026-10-04T12:46:55.000Z",
 } as const satisfies Image

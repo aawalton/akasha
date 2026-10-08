@@ -16,4 +16,6 @@ export const image063b18c960e3422d = {
   height: 832,
   prompt:
     "A 24-year-old adult woman, grown woman's face with defined cheekbones and jawline, adult body proportions, Persian with light olive skin, long glossy dark hair, dramatic brows, slim fit build, lying on her back on a pale blue towel beside a park rose garden, topless in a black string bikini bottom, a slice of cucumber over each eye, arms stretched loosely at her sides, completely relaxed, overhead shot at a slight angle, bright late-morning sun, pink roses framing the edge of the frame, alone, photorealistic, natural skin detail",
+  createdAt: "2026-09-28T21:27:54.387Z",
+  updatedAt: "2026-09-28T21:28:21.000Z",
 } as const satisfies Image

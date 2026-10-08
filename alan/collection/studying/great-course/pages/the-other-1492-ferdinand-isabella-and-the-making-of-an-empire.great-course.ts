@@ -18,4 +18,6 @@ export const theOther1492FerdinandIsabellaAndTheMakingOfAnEmpire = {
         "https://www.thegreatcoursesplus.com/the-other-1492-ferdinand-isabella-and-the-making-of-an-empire",
     },
   ],
+  createdAt: "2026-04-22T12:39:34.023Z",
+  updatedAt: "2026-09-25T12:51:30.000Z",
 } as const satisfies GreatCourse

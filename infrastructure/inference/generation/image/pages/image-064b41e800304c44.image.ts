@@ -19,4 +19,6 @@ export const image064b41e800304c44 = {
   ],
   prompt:
     "She is an adult woman. Keep her exact face, hair, eyes and every distinctive feature, including any horns, ears, markings or non-human traits. Keep her head exactly as in the reference: she has NO horns and nothing on her head, only her own hair. She lies perfectly still on her back in the dewy grass at the misty edge of a park lawn at early morning, eyes closed, serene, holding a single white lily in her folded hands. She wears a thin white silk slip dress whose straps have slipped off her shoulders, the silk still covering her chest fully, with a sheer black chiffon wrap draped across her hips and a thin silver ring on one finger; her long hair is spread around her head. Camera directly overhead, soft pale sunrise light breaking through low mist, dew glittering on the grass. No other people. Photorealistic, natural skin detail.",
+  createdAt: "2026-09-28T19:29:33.644Z",
+  updatedAt: "2026-09-28T19:30:45.000Z",
 } as const satisfies Image

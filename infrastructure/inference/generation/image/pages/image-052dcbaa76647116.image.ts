@@ -17,4 +17,6 @@ export const image052dcbaa76647116 = {
   ],
   prompt:
     "Keep the first image exactly: the same camera, framing, room, round window, plants, mirror, quilt, pillow, light, her pose, hands, white shift and bare legs. Change only her face: give her the face of the woman from the second image, and open her eyes, wide awake and nervous, looking up at the beams above her, lips closed.",
+  createdAt: "2026-10-04T14:05:09.939Z",
+  updatedAt: "2026-10-04T14:05:10.000Z",
 } as const satisfies Image

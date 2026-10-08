@@ -16,4 +16,6 @@ export const image05064bcae5baa1dc = {
   height: 1216,
   prompt:
     "A 24-year-old adult woman, grown woman's face with defined cheekbones and jawline, adult body proportions, Puerto Rican with caramel skin, big voluminous dark curls, gold bangles on both wrists, athletic build, standing ankle-deep at the shallow edge of a park wading pond, skirt of a white cotton sundress gathered and knotted at her thigh, top of the dress pushed down to her waist, splashing water with one foot, laughing and looking down at the water, full-length shot from the bank, sparkling midday sun, alone, photorealistic, natural skin detail",
+  createdAt: "2026-09-28T21:18:34.271Z",
+  updatedAt: "2026-09-28T21:18:56.000Z",
 } as const satisfies Image

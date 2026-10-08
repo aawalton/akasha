@@ -6,4 +6,6 @@ export const recCenter = {
   slug: "rec-center",
   title: "Rec Center",
   everyImplement: true,
+  createdAt: "2026-10-08T11:10:53.462Z",
+  updatedAt: "2026-10-08T11:10:56.000Z",
 } as const satisfies Gym

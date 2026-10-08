@@ -21,4 +21,6 @@ export const image057b36d511dff515 = {
   wardrobeTags: ["wardrobe-tag/coat", "wardrobe-tag/fur"],
   ethnicityTags: ["ethnicity-tag/white"],
   ageTags: ["age-tag/age-18-24"],
+  createdAt: "2026-07-12T19:18:40.710Z",
+  updatedAt: "2026-09-27T15:59:30.000Z",
 } as const satisfies Image

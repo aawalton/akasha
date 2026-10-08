@@ -16,4 +16,6 @@ export const image044917d56553d724 = {
   height: 1216,
   prompt:
     "Candid photograph of a 21-year-old adult woman, fresh youthful grown woman's face, Irish with pale freckled skin, long wavy copper-red hair, very slim build, nearly flat chest with tiny breasts, nude, sitting on the top step of a luxury hotel pool at dusk with the water at her hips, one arm draped across her chest, the other hand trailing in the water, looking off to the side with a soft shy smile, glowing underwater pool lights, lanterns and palms against a violet sky, natural light, 35mm lens.",
+  createdAt: "2026-10-04T22:09:11.245Z",
+  updatedAt: "2026-10-04T22:09:50.000Z",
 } as const satisfies Image

@@ -12,4 +12,6 @@ export const image0797937f079fa9e5 = {
   fantasyTags: ["fantasy-tag/magic", "fantasy-tag/glowing", "fantasy-tag/weapons"],
   ethnicityTags: ["ethnicity-tag/asian"],
   ageTags: ["age-tag/age-18-24"],
+  createdAt: "2026-06-30T11:10:10.792Z",
+  updatedAt: "2026-09-27T15:59:30.000Z",
 } as const satisfies Image

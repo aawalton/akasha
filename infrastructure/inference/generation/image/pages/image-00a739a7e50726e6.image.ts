@@ -16,4 +16,6 @@ export const image00a739a7e50726e6 = {
   height: 832,
   prompt:
     "A 24-year-old adult woman, grown woman's face with defined cheekbones and jawline, adult body proportions, Russian with pale porcelain skin, long straight strawberry-blonde hair, a septum ring, slim fit build, lying on her back on a sheepskin rug on the grass beside a still park lake at sunrise, nude, one knee raised, hands resting on her stomach, eyes closed, mist rising off the water behind her, soft pink-gold dawn light, side view at ground level, alone, photorealistic, natural skin detail",
+  createdAt: "2026-09-28T21:17:57.980Z",
+  updatedAt: "2026-09-28T21:18:19.000Z",
 } as const satisfies Image

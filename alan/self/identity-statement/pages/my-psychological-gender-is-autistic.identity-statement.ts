@@ -13,4 +13,6 @@ export const myPsychologicalGenderIsAutistic = {
   identityStatementTags: ["gender"],
   identityStatementValue: "value/faith",
   icon: "file-text",
+  createdAt: "2026-06-08T16:28:46.471Z",
+  updatedAt: "2026-09-15T17:10:57.000Z",
 } as const satisfies IdentityStatement

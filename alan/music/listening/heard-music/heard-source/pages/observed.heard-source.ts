@@ -5,4 +5,6 @@ export const observed = {
   type: "page-type/heard-source",
   slug: "observed",
   definition: "a track caught playing",
+  createdAt: "2026-09-22T19:38:48.891Z",
+  updatedAt: "2026-09-22T19:39:04.000Z",
 } as const satisfies HeardSource

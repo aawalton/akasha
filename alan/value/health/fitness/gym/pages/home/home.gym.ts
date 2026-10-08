@@ -12,4 +12,6 @@ export const home = {
     "fitness-equipment/adjustable-bench",
     "fitness-equipment/hand-gripper",
   ],
+  createdAt: "2026-10-08T11:10:53.461Z",
+  updatedAt: "2026-10-08T11:10:56.000Z",
 } as const satisfies Gym

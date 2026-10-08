@@ -10,4 +10,6 @@ export const haremHotelFloor3 = {
   objective:
     "The guest will make both my companions come, while I watch. Then he will fuck me until I come. And then the mirrored doors will open.",
   status: "complete",
+  createdAt: "2026-09-29T04:51:13.849Z",
+  updatedAt: "2026-09-29T04:51:16.000Z",
 } as const satisfies HaremHotelFloor

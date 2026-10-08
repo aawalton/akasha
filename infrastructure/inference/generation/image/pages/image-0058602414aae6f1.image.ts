@@ -16,4 +16,6 @@ export const image0058602414aae6f1 = {
   height: 1216,
   prompt:
     "Fantasy film still, photorealistic, of a 23-year-old adult woman, a cat-folk fantasy creature: in place of human ears she has pointed furry cat ears that are part of her body, the fur at their base growing from her scalp among the roots of her hair, ears swiveling and expressive, and a long living cat tail that curls and sways, ginger tabby ears and tail, very petite slim build, flat chest, A-cup, toned flat stomach, fresh youthful grown woman's face, freckled fair skin, wild copper curls, green eyes, a sky pirate wearing an open white shirt knotted above her navel, tiny leather shorts and tall boots, leaning on the rail of a wooden airship above the clouds, wind in her hair, tail streaming, cocky grin, golden sunset sky, 50mm lens",
+  createdAt: "2026-10-05T19:25:40.142Z",
+  updatedAt: "2026-10-05T19:26:23.000Z",
 } as const satisfies Image

@@ -16,4 +16,6 @@ export const image035d12a0f68a9bee = {
   height: 1216,
   prompt:
     "A 24-year-old adult woman, grown woman's face with defined cheekbones and jawline, adult body proportions, Colombian with light tan skin, long highlighted caramel-brown hair, a tiny butterfly tattoo on her hip, fit athletic build, walking barefoot across the lawn toward her blanket carrying her sandals in one hand, wearing only a loose white crochet cover-up that is sheer and open at the front, looking down and to the side with a small smile, full-length shot from a low angle, golden late-afternoon backlight making the crochet glow, alone, photorealistic, natural skin detail",
+  createdAt: "2026-09-28T21:22:49.205Z",
+  updatedAt: "2026-09-28T21:23:14.000Z",
 } as const satisfies Image

@@ -8,4 +8,6 @@ export const node05 = {
   title: "node-05",
   address: "192.168.68.78",
   loginUser: "walton",
+  createdAt: "2026-09-03T04:39:50.863Z",
+  updatedAt: "2026-09-15T17:10:29.000Z",
 } as const satisfies Host

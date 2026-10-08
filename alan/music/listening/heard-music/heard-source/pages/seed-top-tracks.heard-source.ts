@@ -5,4 +5,6 @@ export const seedTopTracks = {
   type: "page-type/heard-source",
   slug: "seed-top-tracks",
   definition: "a track taken from the tracks a person plays most",
+  createdAt: "2026-09-22T19:38:56.857Z",
+  updatedAt: "2026-09-22T19:39:04.000Z",
 } as const satisfies HeardSource

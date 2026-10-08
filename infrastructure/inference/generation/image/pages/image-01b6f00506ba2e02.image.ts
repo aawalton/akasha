@@ -21,4 +21,6 @@ export const image01b6f00506ba2e02 = {
   wardrobeTags: ["wardrobe-tag/nude"],
   fantasyTags: ["fantasy-tag/android", "fantasy-tag/hologram", "fantasy-tag/sci-fi"],
   ageTags: ["age-tag/age-25-34"],
+  createdAt: "2026-06-30T11:10:22.691Z",
+  updatedAt: "2026-09-27T15:52:40.000Z",
 } as const satisfies Image

@@ -21,4 +21,6 @@ export const iAmWholeFoodPlantBased = {
   identityStatementTags: ["eat"],
   identityStatementValue: "value/health",
   icon: "file-text",
+  createdAt: "2026-06-08T16:28:43.262Z",
+  updatedAt: "2026-09-15T17:10:57.000Z",
 } as const satisfies IdentityStatement

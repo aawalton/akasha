@@ -25,4 +25,6 @@ export const macbook = {
       statement: "This machine belonging to Alan is no reason to hand Alan a fault found here.",
     },
   ],
+  createdAt: "2026-09-03T04:39:50.863Z",
+  updatedAt: "2026-09-24T22:55:08.000Z",
 } as const satisfies Host

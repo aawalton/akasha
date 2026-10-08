@@ -7,4 +7,6 @@ export const headscale = {
   definition: "the headscale control plane in the main cluster",
   title: "headscale.alanwalton.com",
   address: "192.168.68.240",
+  createdAt: "2026-09-22T14:21:24.315Z",
+  updatedAt: "2026-09-22T14:21:40.000Z",
 } as const satisfies Host

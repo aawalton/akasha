@@ -6,4 +6,6 @@ export const workstation = {
   slug: "workstation",
   definition: "Alan's Linux desktop",
   title: "Workstation",
+  createdAt: "2026-09-03T04:39:50.863Z",
+  updatedAt: "2026-09-15T17:10:29.000Z",
 } as const satisfies Host

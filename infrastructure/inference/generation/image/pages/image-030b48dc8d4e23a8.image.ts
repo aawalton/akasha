@@ -8,4 +8,6 @@ export const image030b48dc8d4e23a8 = {
   settingTags: ["setting-tag/dungeon", "setting-tag/cave", "setting-tag/ruins"],
   poseTags: ["pose-tag/fighting", "pose-tag/standing"],
   fantasyTags: ["fantasy-tag/ghost", "fantasy-tag/magic", "fantasy-tag/monster-girl"],
+  createdAt: "2026-09-21T21:51:38.406Z",
+  updatedAt: "2026-09-27T15:50:48.000Z",
 } as const satisfies Image

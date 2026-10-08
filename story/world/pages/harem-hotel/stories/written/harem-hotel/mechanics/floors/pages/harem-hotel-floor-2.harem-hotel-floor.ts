@@ -10,4 +10,6 @@ export const haremHotelFloor2 = {
   objective:
     "The mistress comes on the guest's mouth, and the attendant comes on his cock. Both at once. When that's done, the bronze door opens.",
   status: "complete",
+  createdAt: "2026-09-29T04:34:58.546Z",
+  updatedAt: "2026-09-29T04:35:01.000Z",
 } as const satisfies HaremHotelFloor

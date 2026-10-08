@@ -10,4 +10,6 @@ export const haremHotelFloor1 = {
   objective:
     "To check in, make the concierge come and make the bellhop come, then come inside one of them, his choice. When that is done, the gate to the stairs opens.",
   status: "complete",
+  createdAt: "2026-09-28T13:51:37.979Z",
+  updatedAt: "2026-09-28T20:13:02.000Z",
 } as const satisfies HaremHotelFloor

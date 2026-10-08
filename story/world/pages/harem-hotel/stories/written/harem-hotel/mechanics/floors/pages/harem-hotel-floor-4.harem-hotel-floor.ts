@@ -10,4 +10,6 @@ export const haremHotelFloor4 = {
   objective:
     "By order of the Queen. The guest will make the Queen come three times on her throne. First on his fingers. Then on his mouth. Then on his cock. The Queen may not rise from her throne until it is done. And when it is done, the gold door opens.",
   status: "complete",
+  createdAt: "2026-09-30T07:14:09.713Z",
+  updatedAt: "2026-09-30T07:14:12.000Z",
 } as const satisfies HaremHotelFloor

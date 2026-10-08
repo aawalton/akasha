@@ -18,4 +18,6 @@ export const image00e59f01c88456d6 = {
   ],
   ethnicityTags: ["ethnicity-tag/south-asian"],
   ageTags: ["age-tag/age-25-34"],
+  createdAt: "2026-06-30T11:09:33.392Z",
+  updatedAt: "2026-09-27T15:52:40.000Z",
 } as const satisfies Image

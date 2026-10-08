@@ -20,4 +20,6 @@ export const yearsThatChangedHistory1776 = {
       externalLink: "https://plus.thegreatcourses.com/years-that-changed-history-1776",
     },
   ],
+  createdAt: "2026-09-03T04:13:04.665Z",
+  updatedAt: "2026-09-25T12:51:30.000Z",
 } as const satisfies GreatCourse

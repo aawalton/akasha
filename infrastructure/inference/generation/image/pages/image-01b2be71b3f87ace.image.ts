@@ -12,4 +12,6 @@ export const image01b2be71b3f87ace = {
   fantasyTags: ["fantasy-tag/anime", "fantasy-tag/hologram"],
   ethnicityTags: ["ethnicity-tag/asian"],
   ageTags: ["age-tag/age-18-24"],
+  createdAt: "2026-06-30T11:10:12.288Z",
+  updatedAt: "2026-09-27T15:59:30.000Z",
 } as const satisfies Image

@@ -23,4 +23,6 @@ export const image07bcd85792648f2b = {
   fantasyTags: ["fantasy-tag/monster-girl", "fantasy-tag/cosplay"],
   ethnicityTags: ["ethnicity-tag/asian"],
   ageTags: ["age-tag/age-25-34"],
+  createdAt: "2026-09-21T21:51:17.960Z",
+  updatedAt: "2026-09-27T15:52:40.000Z",
 } as const satisfies Image

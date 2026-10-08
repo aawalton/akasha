@@ -19,4 +19,6 @@ export const image013462039e46c31d = {
   ],
   prompt:
     "She is an adult woman. Keep her exact face, hair, eyes and every distinctive feature, including any horns, ears, markings or non-human traits. Keep her head exactly as in the reference and add nothing she does not have. She lies curled on her side on a moss-green blanket in a quiet corner of a park beside a mossy old stone wall and ferns, wearing big over-ear headphones, eyes closed, lost in listening to an audiobook, a faint smile. Her green silk slip dress has its straps fallen and is pushed down to her waist; her knees are drawn up and her arms folded against her chest, hiding it, a thin silver bracelet at her wrist. Close crop from above at her face and shoulders, cool dappled light through leaves. No other people. Photorealistic, natural skin detail.",
+  createdAt: "2026-09-28T19:17:43.211Z",
+  updatedAt: "2026-09-28T19:20:34.000Z",
 } as const satisfies Image

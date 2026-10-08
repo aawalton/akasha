@@ -16,4 +16,6 @@ export const theGreatToursAustraliaAndNewZealand = {
     },
   ],
   title: "The Great Tours: Australia and New Zealand",
+  createdAt: "2026-09-24T13:51:13.526Z",
+  updatedAt: "2026-09-25T12:51:30.000Z",
 } as const satisfies GreatCourse

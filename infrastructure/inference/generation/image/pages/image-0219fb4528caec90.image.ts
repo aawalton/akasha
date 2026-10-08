@@ -11,4 +11,6 @@ export const image0219fb4528caec90 = {
   wardrobeTags: ["wardrobe-tag/shirt", "wardrobe-tag/glasses", "wardrobe-tag/jewelry"],
   ethnicityTags: ["ethnicity-tag/black"],
   ageTags: ["age-tag/age-45-plus"],
+  createdAt: "2026-09-21T21:51:43.894Z",
+  updatedAt: "2026-09-27T15:52:40.000Z",
 } as const satisfies Image

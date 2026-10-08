@@ -17,4 +17,6 @@ export const particlePhysicsForNonPhysicistsATourOfTheMicrocosmos = {
     },
   ],
   title: "Particle Physics for Non-Physicists: A Tour of the Microcosmos",
+  createdAt: "2026-09-24T13:51:10.364Z",
+  updatedAt: "2026-09-25T12:51:30.000Z",
 } as const satisfies GreatCourse
