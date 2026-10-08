@@ -33,7 +33,8 @@ const SENTENCE_PAUSE_MS = 150
 const PARAGRAPH_PAUSE_MS = 450
 const BREAK_PAUSE_MS = 900
 const FIRST_LIMIT = 200
-const LIMIT = 600
+const LIMIT = 350
+const SHORT = 100
 
 const RETURNS = /\r\n?/g
 const FENCE = /^\s*(?:```|~~~)/
@@ -340,20 +341,20 @@ export function narrationSegmentsOf(
 ): NarrationSegment[] {
   const respelled = respellerOf(pronunciations)
   const segments: NarrationSegment[] = []
+  let packed = ""
+  let packedAt = 0
+  let held: number | null = null
+  const flush = (pauseAfterMs: number): undefined => {
+    if (packed !== "") segments.push({ text: packed, pauseAfterMs, wordStart: packedAt })
+    packed = ""
+    held = null
+  }
   for (const block of blocksOf(prose)) {
     const sentences = block.sentences.map((one) => shoutedOf(respelled(one)))
     const spokenWords = sentences.reduce((sum, one) => sum + wordCount(one), 0)
     let said = 0
     const at = (): number =>
       block.wordStart + (spokenWords === 0 ? 0 : Math.floor((said / spokenWords) * block.words))
-    let packed = ""
-    let packedAt = block.wordStart
-    const flush = (): undefined => {
-      if (packed !== "") {
-        segments.push({ text: packed, pauseAfterMs: SENTENCE_PAUSE_MS, wordStart: packedAt })
-      }
-      packed = ""
-    }
     for (const sentence of sentences) {
       const first = segments.length === 0 && packed === ""
       for (const piece of piecesOf(sentence, first ? FIRST_LIMIT : LIMIT)) {
@@ -362,16 +363,25 @@ export function narrationSegmentsOf(
           said += wordCount(piece)
           continue
         }
-        if (packed !== "" && packed.length + 1 + piece.length > LIMIT) flush()
+        if (packed !== "" && packed.length + 1 + piece.length > LIMIT) {
+          flush(held ?? SENTENCE_PAUSE_MS)
+        }
         if (packed === "") packedAt = at()
         packed = packed === "" ? piece : `${packed} ${piece}`
+        held = null
         said += wordCount(piece)
       }
     }
-    flush()
-    const last = segments.at(-1)
-    if (last !== undefined) last.pauseAfterMs = block.pauseAfterMs
+    if (packed === "") {
+      const last = segments.at(-1)
+      if (last !== undefined) last.pauseAfterMs = block.pauseAfterMs
+    } else if (block.pauseAfterMs === PARAGRAPH_PAUSE_MS && packed.length < SHORT) {
+      held = block.pauseAfterMs
+    } else {
+      flush(block.pauseAfterMs)
+    }
   }
+  flush(BREAK_PAUSE_MS)
   const end = segments.at(-1)
   if (end !== undefined) end.pauseAfterMs = BREAK_PAUSE_MS
   return segments

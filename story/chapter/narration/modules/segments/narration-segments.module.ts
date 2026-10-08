@@ -18,7 +18,20 @@ export const narrationSegments = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A segment holds whole sentences of one paragraph, up to six hundred characters.",
+      statement: "A segment holds whole sentences, up to three hundred and fifty characters.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "That limit keeps a segment within the 510 phonemes Kokoro speaks in one call.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A segment ends with its paragraph once it holds a hundred characters or more.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A shorter segment runs on into the next paragraph, and that paragraph's pause is dropped.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -108,6 +121,6 @@ export const narrationSegments = {
         "A word is counted as the chapter's length counts it, markup and window lines too.",
     },
   ],
-  updatedAt: "2026-10-08T19:14:30.954Z",
+  updatedAt: "2026-10-08T19:21:06.721Z",
   createdAt: "2026-10-05T20:29:00.386Z",
 } as const satisfies Module
