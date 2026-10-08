@@ -8,7 +8,7 @@ node -e '
   const cfg = JSON.parse(fs.readFileSync(p, "utf8"));
   cfg.packageClassList = cfg.packageClassList || [];
   let changed = false;
-  for (const cls of ["NativeAudioPlugin", "CrashCapturePlugin", "NowPlayingCommandsPlugin"]) {
+  for (const cls of ["NativeAudioPlugin", "CrashCapturePlugin", "NowPlayingCommandsPlugin", "LastPlacePlugin"]) {
     if (!cfg.packageClassList.includes(cls)) {
       cfg.packageClassList.push(cls);
       changed = true;

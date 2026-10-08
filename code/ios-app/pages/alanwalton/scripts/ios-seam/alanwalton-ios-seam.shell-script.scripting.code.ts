@@ -54,6 +54,7 @@ const BEFORE = [
   "crash-capture",
   "native-audio",
   "now-playing-commands",
+  "last-place",
   "keyboard-accessory-suppressor",
   "apns-forwarding",
   "widget-refresh",
