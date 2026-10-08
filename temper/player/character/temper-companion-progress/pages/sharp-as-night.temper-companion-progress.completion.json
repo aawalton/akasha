@@ -1,15 +1,5 @@
 {
   "build": {
-    "skillAbilityIds": {
-      "1": 152625,
-      "2": 186603,
-      "3": 155328,
-      "4": 154926,
-      "5": 155693,
-      "6": 186488
-    },
-    "mainHandWeaponType": 13,
-    "companionId": 8,
     "armor": {
       "1": {
         "displayText": "Heavy, Focused",
@@ -124,7 +114,17 @@
         "isEmpty": false
       }
     },
-    "hash": "AjEIVpGkaRpGkaRpCQ8PFPMjBFmT7gA"
+    "skillAbilityIds": {
+      "1": 152625,
+      "2": 186603,
+      "3": 155328,
+      "4": 154926,
+      "5": 155693,
+      "6": 186488
+    },
+    "mainHandWeaponType": 13,
+    "hash": "AjEIVpGkaRpGkaRpCQ8PFPMjBFmT7gA",
+    "companionId": 8
   },
   "targetBuildHash": "AjEAUAaRpGkaRpGkaQkPDxTzqfA",
   "level": 20,

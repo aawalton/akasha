@@ -1,15 +1,5 @@
 {
   "build": {
-    "skillAbilityIds": {
-      "1": 193130,
-      "2": 153685,
-      "3": 192574,
-      "4": 192937,
-      "5": 155408,
-      "6": 195103
-    },
-    "mainHandWeaponType": 9,
-    "companionId": 9,
     "armor": {
       "1": {
         "displayText": "Light, Quickened",
@@ -124,7 +114,17 @@
         "isEmpty": false
       }
     },
-    "hash": "AjEIYtC0LQtC0LQtDQ0NGNISIJCyxQA"
+    "skillAbilityIds": {
+      "1": 193130,
+      "2": 153685,
+      "3": 192574,
+      "4": 192937,
+      "5": 155408,
+      "6": 195103
+    },
+    "mainHandWeaponType": 9,
+    "hash": "AjEIYtC0LQtC0LQtDQ0NGNISIJCyxQA",
+    "companionId": 9
   },
   "targetBuildHash": "AjEAYALQtC0LQtCAAQ0NDRjSE2CQgA",
   "level": 20,
