@@ -3,6 +3,7 @@ import {
   spokenScreen,
   spokenWindow,
 } from "akasha/story/chapter/narration/modules/window-speaking/window-speaking.module.code.ts"
+import { numberedOf } from "akasha/story/chapter/narration/modules/words/narration-words.module.code.ts"
 import {
   proseWindowSegmentsIn,
   type WrittenWindow,
@@ -175,7 +176,7 @@ function plainOf(line: string): string {
     .replace(STRONG, "$2")
     .replace(EMPHASIS, "$1$3")
     .replace(MARKS, "")
-  return soundedOf(marked)
+  return numberedOf(soundedOf(marked))
     .replace(ORNAMENT, " ")
     .replace(DASH_RUN, ", ")
     .replace(GLUED_ELLIPSIS, "$1 ")
