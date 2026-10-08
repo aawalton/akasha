@@ -5,7 +5,7 @@ export const foodEntry20261008ButteredToast2Slices = {
   type: "page-type/food-entry",
   slug: "food-entry-2026-10-08-buttered-toast-2-slices",
   title: "Buttered toast (2 slices)",
-  happenedAt: "2026-10-08T14:33:23.020Z",
-  plantGrams: 0,
+  happenedAt: "2026-10-08T14:23:50.000Z",
+  cover: "image/image-76dcfe78f968c289",
   estimatedCalories: 230,
 } as const satisfies FoodEntry
