@@ -15,4 +15,6 @@ export const imagineDragonsIntermission1 = {
   title: "Intermission #1",
   artist: "artist/imagine-dragons",
   performed: true,
+  createdAt: "2026-06-08T00:19:20.246Z",
+  updatedAt: "2026-09-19T16:40:46.000Z",
 } as const satisfies Song

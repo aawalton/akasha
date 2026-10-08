@@ -7,4 +7,6 @@ export const celticWomanTheLastRoseOfSummer = {
   title: "The Last Rose Of Summer",
   artist: "artist/celtic-woman",
   performed: true,
+  createdAt: "2026-09-19T02:14:08.628Z",
+  updatedAt: "2026-09-19T02:15:26.000Z",
 } as const satisfies Song

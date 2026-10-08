@@ -15,4 +15,6 @@ export const jamesTaylorDontThinkTwiceItsAllRight = {
   title: "Don’t Think Twice, It’s All Right",
   artist: "artist/james-taylor",
   performed: true,
+  createdAt: "2026-09-19T01:01:53.890Z",
+  updatedAt: "2026-09-19T18:27:18.000Z",
 } as const satisfies Song

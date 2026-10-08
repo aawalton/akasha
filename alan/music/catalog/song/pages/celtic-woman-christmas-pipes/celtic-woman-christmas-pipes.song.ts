@@ -7,4 +7,6 @@ export const celticWomanChristmasPipes = {
   title: "Christmas Pipes",
   artist: "artist/celtic-woman",
   performed: true,
+  createdAt: "2026-09-19T02:14:04.575Z",
+  updatedAt: "2026-09-19T02:15:26.000Z",
 } as const satisfies Song

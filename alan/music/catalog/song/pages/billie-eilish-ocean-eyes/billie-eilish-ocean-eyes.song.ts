@@ -18,4 +18,6 @@ export const billieEilishOceanEyes = {
   lyricsSource: "lrclib",
   lyrics: "txt",
   syncedLyrics: "txt",
+  createdAt: "2026-06-08T00:39:58.411Z",
+  updatedAt: "2026-09-19T17:03:54.000Z",
 } as const satisfies Song

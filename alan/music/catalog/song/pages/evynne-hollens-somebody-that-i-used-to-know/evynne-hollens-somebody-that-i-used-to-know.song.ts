@@ -18,4 +18,6 @@ export const evynneHollensSomebodyThatIUsedToKnow = {
   lyricsSource: "lrclib",
   lyrics: "txt",
   syncedLyrics: "txt",
+  createdAt: "2026-06-08T01:18:29.294Z",
+  updatedAt: "2026-09-19T17:05:46.000Z",
 } as const satisfies Song

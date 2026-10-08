@@ -7,4 +7,6 @@ export const emBeiholdInfrared = {
   title: "Infrared",
   artist: "artist/em-beihold",
   performed: true,
+  createdAt: "2026-09-24T13:47:21.928Z",
+  updatedAt: "2026-09-24T13:47:25.000Z",
 } as const satisfies Song

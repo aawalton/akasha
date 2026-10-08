@@ -18,4 +18,6 @@ export const jamesTaylorComingBackToYou = {
   lyricsSource: "lrclib",
   lyrics: "txt",
   syncedLyrics: "txt",
+  createdAt: "2026-09-19T01:01:55.197Z",
+  updatedAt: "2026-09-19T16:23:44.000Z",
 } as const satisfies Song

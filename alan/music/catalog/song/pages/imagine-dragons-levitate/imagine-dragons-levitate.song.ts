@@ -18,4 +18,6 @@ export const imagineDragonsLevitate = {
   lyricsSource: "lrclib",
   lyrics: "txt",
   syncedLyrics: "txt",
+  createdAt: "2026-06-08T00:20:41.528Z",
+  updatedAt: "2026-09-19T16:40:46.000Z",
 } as const satisfies Song

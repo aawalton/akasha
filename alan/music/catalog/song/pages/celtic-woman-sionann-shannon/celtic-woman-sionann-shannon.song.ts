@@ -15,4 +15,6 @@ export const celticWomanSionannShannon = {
   title: "Sionann (Shannon)",
   artist: "artist/celtic-woman",
   performed: true,
+  createdAt: "2026-09-19T00:45:24.704Z",
+  updatedAt: "2026-09-19T16:30:48.000Z",
 } as const satisfies Song

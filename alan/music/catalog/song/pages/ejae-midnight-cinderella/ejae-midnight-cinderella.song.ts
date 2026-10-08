@@ -7,4 +7,6 @@ export const ejaeMidnightCinderella = {
   title: "Midnight Cinderella",
   artist: "artist/ejae",
   performed: true,
+  createdAt: "2026-09-24T13:46:43.518Z",
+  updatedAt: "2026-09-24T13:46:47.000Z",
 } as const satisfies Song

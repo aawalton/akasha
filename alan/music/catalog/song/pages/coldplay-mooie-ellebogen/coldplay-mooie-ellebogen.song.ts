@@ -15,4 +15,6 @@ export const coldplayMooieEllebogen = {
   title: "Mooie Ellebogen",
   artist: "artist/coldplay",
   performed: true,
+  createdAt: "2026-09-19T15:55:13.644Z",
+  updatedAt: "2026-09-19T16:18:26.000Z",
 } as const satisfies Song

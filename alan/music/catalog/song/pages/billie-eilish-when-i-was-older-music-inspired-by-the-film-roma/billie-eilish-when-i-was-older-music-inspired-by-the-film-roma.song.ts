@@ -7,4 +7,6 @@ export const billieEilishWhenIWasOlderMusicInspiredByTheFilmRoma = {
   title: "WHEN I WAS OLDER - Music Inspired By The Film ROMA",
   artist: "artist/billie-eilish",
   performed: true,
+  createdAt: "2026-09-19T02:13:57.886Z",
+  updatedAt: "2026-09-19T02:15:26.000Z",
 } as const satisfies Song

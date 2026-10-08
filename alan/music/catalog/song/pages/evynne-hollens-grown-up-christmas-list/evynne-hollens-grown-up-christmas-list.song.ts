@@ -18,4 +18,6 @@ export const evynneHollensGrownUpChristmasList = {
   lyricsSource: "lrclib",
   lyrics: "txt",
   syncedLyrics: "txt",
+  createdAt: "2026-06-08T00:43:43.210Z",
+  updatedAt: "2026-09-19T17:05:46.000Z",
 } as const satisfies Song

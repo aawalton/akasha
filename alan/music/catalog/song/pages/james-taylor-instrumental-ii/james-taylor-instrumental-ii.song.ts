@@ -16,4 +16,6 @@ export const jamesTaylorInstrumentalIi = {
   artist: "artist/james-taylor",
   performed: true,
   written: "solo",
+  createdAt: "2026-09-19T01:02:00.317Z",
+  updatedAt: "2026-09-19T18:27:18.000Z",
 } as const satisfies Song

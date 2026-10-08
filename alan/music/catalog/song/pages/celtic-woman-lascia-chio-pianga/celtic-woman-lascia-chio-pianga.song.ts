@@ -7,4 +7,6 @@ export const celticWomanLasciaChioPianga = {
   title: "Lascia Ch'io Pianga",
   artist: "artist/celtic-woman",
   performed: true,
+  createdAt: "2026-09-19T02:14:07.683Z",
+  updatedAt: "2026-09-19T02:15:26.000Z",
 } as const satisfies Song

@@ -7,4 +7,6 @@ export const celticWomanSkyrimThemeDragonborn = {
   title: "Skyrim Theme (Dragonborn)",
   artist: "artist/celtic-woman",
   performed: true,
+  createdAt: "2026-09-19T02:14:28.414Z",
+  updatedAt: "2026-09-19T02:15:26.000Z",
 } as const satisfies Song

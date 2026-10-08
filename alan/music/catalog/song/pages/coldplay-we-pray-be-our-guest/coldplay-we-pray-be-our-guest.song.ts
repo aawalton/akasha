@@ -7,4 +7,6 @@ export const coldplayWePrayBeOurGuest = {
   title: "We Pray - Be Our Guest",
   artist: "artist/coldplay",
   performed: true,
+  createdAt: "2026-09-19T15:59:31.675Z",
+  updatedAt: "2026-09-19T15:59:48.000Z",
 } as const satisfies Song

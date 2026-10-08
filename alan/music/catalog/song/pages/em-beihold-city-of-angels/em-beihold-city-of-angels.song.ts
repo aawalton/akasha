@@ -7,4 +7,6 @@ export const emBeiholdCityOfAngels = {
   title: "City of Angels",
   artist: "artist/em-beihold",
   performed: true,
+  createdAt: "2026-09-24T13:47:19.781Z",
+  updatedAt: "2026-09-24T13:47:25.000Z",
 } as const satisfies Song

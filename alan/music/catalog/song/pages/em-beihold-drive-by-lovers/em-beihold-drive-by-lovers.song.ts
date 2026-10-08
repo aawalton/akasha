@@ -7,4 +7,6 @@ export const emBeiholdDriveByLovers = {
   title: "Drive by Lovers",
   artist: "artist/em-beihold",
   performed: true,
+  createdAt: "2026-09-24T13:47:21.664Z",
+  updatedAt: "2026-09-24T13:47:25.000Z",
 } as const satisfies Song

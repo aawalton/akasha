@@ -7,4 +7,6 @@ export const coldplayDayNNiteSpotifySingles = {
   title: "Day ‘n’ Nite - Spotify Singles",
   artist: "artist/coldplay",
   performed: true,
+  createdAt: "2026-09-19T15:59:59.728Z",
+  updatedAt: "2026-09-19T16:00:17.000Z",
 } as const satisfies Song

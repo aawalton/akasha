@@ -15,4 +15,6 @@ export const coldplayBitterSweetSymphony = {
   title: "Bitter Sweet Symphony",
   artist: "artist/coldplay",
   performed: true,
+  createdAt: "2026-09-19T15:51:09.665Z",
+  updatedAt: "2026-09-19T18:27:18.000Z",
 } as const satisfies Song

@@ -23,4 +23,6 @@ export const billieEilishIdontwannabeyouanymore = {
   syncedLyrics: "txt",
   insights: "txt",
   personalConnections: "txt",
+  createdAt: "2026-06-08T00:36:12.482Z",
+  updatedAt: "2026-09-22T13:09:58.000Z",
 } as const satisfies Song

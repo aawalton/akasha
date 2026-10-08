@@ -18,4 +18,6 @@ export const celticWomanAmidTheFallingSnow = {
   lyricsSource: "lrclib",
   lyrics: "txt",
   syncedLyrics: "txt",
+  createdAt: "2026-09-19T00:45:24.736Z",
+  updatedAt: "2026-09-19T16:30:48.000Z",
 } as const satisfies Song

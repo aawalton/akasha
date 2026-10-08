@@ -7,4 +7,6 @@ export const chaislynMandelaEffect = {
   title: "Mandela Effect",
   artist: "artist/chaislyn",
   performed: true,
+  createdAt: "2026-09-19T15:59:14.940Z",
+  updatedAt: "2026-09-22T13:09:58.000Z",
 } as const satisfies Song

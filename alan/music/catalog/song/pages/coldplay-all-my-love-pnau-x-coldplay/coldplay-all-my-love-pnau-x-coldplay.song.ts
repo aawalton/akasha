@@ -7,4 +7,6 @@ export const coldplayAllMyLovePnauXColdplay = {
   title: "ALL MY LOVE - PNAU x Coldplay",
   artist: "artist/coldplay",
   performed: true,
+  createdAt: "2026-09-19T15:59:18.673Z",
+  updatedAt: "2026-09-19T15:59:48.000Z",
 } as const satisfies Song

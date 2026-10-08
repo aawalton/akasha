@@ -7,4 +7,6 @@ export const imagineDragonsIGetCarriedAway = {
   title: "I Get Carried Away",
   artist: "artist/imagine-dragons",
   performed: true,
+  createdAt: "2026-09-21T13:55:03.808Z",
+  updatedAt: "2026-09-21T13:55:21.000Z",
 } as const satisfies Song

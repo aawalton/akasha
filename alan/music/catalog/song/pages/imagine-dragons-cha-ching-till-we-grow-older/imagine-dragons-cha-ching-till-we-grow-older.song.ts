@@ -18,4 +18,6 @@ export const imagineDragonsChaChingTillWeGrowOlder = {
   lyricsSource: "lrclib",
   lyrics: "txt",
   syncedLyrics: "txt",
+  createdAt: "2026-06-08T00:18:18.870Z",
+  updatedAt: "2026-09-19T16:40:46.000Z",
 } as const satisfies Song

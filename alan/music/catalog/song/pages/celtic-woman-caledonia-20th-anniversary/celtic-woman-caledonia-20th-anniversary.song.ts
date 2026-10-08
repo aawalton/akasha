@@ -7,4 +7,6 @@ export const celticWomanCaledonia20thAnniversary = {
   title: "Caledonia - 20th Anniversary",
   artist: "artist/celtic-woman",
   performed: true,
+  createdAt: "2026-09-19T02:13:59.238Z",
+  updatedAt: "2026-09-19T02:15:26.000Z",
 } as const satisfies Song

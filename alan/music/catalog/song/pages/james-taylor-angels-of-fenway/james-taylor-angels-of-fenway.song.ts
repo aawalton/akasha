@@ -7,4 +7,6 @@ export const jamesTaylorAngelsOfFenway = {
   title: "Angels Of Fenway",
   artist: "artist/james-taylor",
   performed: true,
+  createdAt: "2026-09-19T02:22:57.572Z",
+  updatedAt: "2026-09-19T02:26:42.000Z",
 } as const satisfies Song

@@ -24,4 +24,6 @@ export const coldplayHaveYourselfAMerryLittleChristmas = {
   lyricsSource: "lrclib",
   lyrics: "txt",
   syncedLyrics: "txt",
+  createdAt: "2026-09-19T15:51:07.279Z",
+  updatedAt: "2026-09-19T17:55:30.000Z",
 } as const satisfies Song

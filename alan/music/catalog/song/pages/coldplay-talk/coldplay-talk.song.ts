@@ -18,4 +18,6 @@ export const coldplayTalk = {
   lyricsSource: "lrclib",
   lyrics: "txt",
   syncedLyrics: "txt",
+  createdAt: "2026-09-19T15:51:13.647Z",
+  updatedAt: "2026-09-19T18:27:18.000Z",
 } as const satisfies Song

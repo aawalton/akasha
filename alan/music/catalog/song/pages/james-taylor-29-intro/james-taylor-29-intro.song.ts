@@ -16,4 +16,6 @@ export const jamesTaylor29Intro = {
   artist: "artist/james-taylor",
   performed: false,
   written: "collab",
+  createdAt: "2026-09-19T01:01:55.169Z",
+  updatedAt: "2026-09-19T18:27:18.000Z",
 } as const satisfies Song

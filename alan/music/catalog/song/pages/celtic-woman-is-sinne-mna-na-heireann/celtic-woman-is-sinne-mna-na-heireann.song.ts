@@ -15,4 +15,6 @@ export const celticWomanIsSinneMnaNaHeireann = {
   title: "Is Sinne Mná na hÉireann",
   artist: "artist/celtic-woman",
   performed: true,
+  createdAt: "2026-09-19T00:45:25.520Z",
+  updatedAt: "2026-09-19T16:30:48.000Z",
 } as const satisfies Song

@@ -16,4 +16,6 @@ export const coldplayWhatAWonderfulWorld = {
   title: "What a Wonderful World",
   artist: "artist/coldplay",
   performed: true,
+  createdAt: "2026-09-19T15:55:13.582Z",
+  updatedAt: "2026-09-19T17:55:30.000Z",
 } as const satisfies Song

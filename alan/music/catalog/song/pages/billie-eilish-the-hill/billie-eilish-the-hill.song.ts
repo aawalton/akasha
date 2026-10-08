@@ -15,4 +15,6 @@ export const billieEilishTheHill = {
   title: "The Hill",
   artist: "artist/billie-eilish",
   performed: true,
+  createdAt: "2026-06-08T00:37:41.350Z",
+  updatedAt: "2026-09-19T17:03:54.000Z",
 } as const satisfies Song

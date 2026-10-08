@@ -7,4 +7,6 @@ export const celticWomanASpacemanCameTraveling = {
   title: "A Spaceman Came Traveling",
   artist: "artist/celtic-woman",
   performed: true,
+  createdAt: "2026-09-19T02:14:15.014Z",
+  updatedAt: "2026-09-19T02:15:26.000Z",
 } as const satisfies Song

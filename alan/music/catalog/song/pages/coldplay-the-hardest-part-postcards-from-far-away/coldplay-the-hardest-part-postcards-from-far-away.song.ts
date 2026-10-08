@@ -7,4 +7,6 @@ export const coldplayTheHardestPartPostcardsFromFarAway = {
   title: "The Hardest Part / Postcards from Far Away",
   artist: "artist/coldplay",
   performed: true,
+  createdAt: "2026-09-19T15:59:24.238Z",
+  updatedAt: "2026-09-19T15:59:48.000Z",
 } as const satisfies Song

@@ -7,4 +7,6 @@ export const emBeiholdGroundhogDay = {
   title: "Groundhog Day",
   artist: "artist/em-beihold",
   performed: true,
+  createdAt: "2026-09-24T13:47:21.598Z",
+  updatedAt: "2026-09-24T13:47:25.000Z",
 } as const satisfies Song

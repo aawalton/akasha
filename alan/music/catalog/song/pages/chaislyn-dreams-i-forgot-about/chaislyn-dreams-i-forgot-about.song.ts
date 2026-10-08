@@ -7,4 +7,6 @@ export const chaislynDreamsIForgotAbout = {
   title: "Dreams I Forgot About",
   artist: "artist/chaislyn",
   performed: true,
+  createdAt: "2026-09-19T15:59:13.974Z",
+  updatedAt: "2026-09-19T15:59:48.000Z",
 } as const satisfies Song

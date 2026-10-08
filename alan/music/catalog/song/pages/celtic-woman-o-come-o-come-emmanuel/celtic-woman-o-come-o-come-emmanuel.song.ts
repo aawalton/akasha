@@ -7,4 +7,6 @@ export const celticWomanOComeOComeEmmanuel = {
   title: "O Come, O Come Emmanuel",
   artist: "artist/celtic-woman",
   performed: true,
+  createdAt: "2026-09-19T02:22:54.761Z",
+  updatedAt: "2026-09-19T02:26:42.000Z",
 } as const satisfies Song

@@ -7,4 +7,6 @@ export const cynthiaErivoTheWizardAndI = {
   title: "The Wizard And I",
   artist: "artist/cynthia-erivo",
   performed: true,
+  createdAt: "2026-09-19T03:12:55.503Z",
+  updatedAt: "2026-09-19T03:13:04.000Z",
 } as const satisfies Song

@@ -16,4 +16,6 @@ export const girlInRedUntitled2 = {
   artist: "artist/girl-in-red",
   performed: true,
   written: "solo",
+  createdAt: "2026-09-19T00:50:39.764Z",
+  updatedAt: "2026-09-19T18:27:18.000Z",
 } as const satisfies Song

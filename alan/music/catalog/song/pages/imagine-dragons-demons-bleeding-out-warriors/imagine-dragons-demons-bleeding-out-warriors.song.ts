@@ -7,4 +7,6 @@ export const imagineDragonsDemonsBleedingOutWarriors = {
   title: "Demons / Bleeding Out / Warriors",
   artist: "artist/imagine-dragons",
   performed: true,
+  createdAt: "2026-09-21T13:55:10.818Z",
+  updatedAt: "2026-09-21T13:55:21.000Z",
 } as const satisfies Song

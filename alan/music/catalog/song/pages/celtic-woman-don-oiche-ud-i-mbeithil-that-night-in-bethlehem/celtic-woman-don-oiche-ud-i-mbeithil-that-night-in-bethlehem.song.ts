@@ -7,4 +7,6 @@ export const celticWomanDonOicheUdIMbeithilThatNightInBethlehem = {
   title: "Don Oíche Úd I mBeithil (That Night In Bethlehem)",
   artist: "artist/celtic-woman",
   performed: true,
+  createdAt: "2026-09-19T02:14:05.275Z",
+  updatedAt: "2026-09-19T02:15:26.000Z",
 } as const satisfies Song

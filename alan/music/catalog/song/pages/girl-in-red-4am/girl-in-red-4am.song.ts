@@ -19,4 +19,6 @@ export const girlInRed4am = {
   written: "solo",
   lyrics: "txt",
   syncedLyrics: "txt",
+  createdAt: "2026-09-19T00:50:38.266Z",
+  updatedAt: "2026-09-19T18:27:18.000Z",
 } as const satisfies Song

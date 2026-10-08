@@ -7,4 +7,6 @@ export const imagineDragonsDrive = {
   title: "Drive",
   artist: "artist/imagine-dragons",
   performed: true,
+  createdAt: "2026-09-21T13:55:17.632Z",
+  updatedAt: "2026-09-21T13:55:21.000Z",
 } as const satisfies Song

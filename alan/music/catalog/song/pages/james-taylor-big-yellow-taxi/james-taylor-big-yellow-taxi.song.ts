@@ -15,4 +15,6 @@ export const jamesTaylorBigYellowTaxi = {
   title: "Big Yellow Taxi",
   artist: "artist/james-taylor",
   performed: true,
+  createdAt: "2026-09-19T01:01:57.609Z",
+  updatedAt: "2026-09-19T16:23:44.000Z",
 } as const satisfies Song

@@ -7,4 +7,6 @@ export const imagineDragonsZeroFromTheOriginalMotionPictureRalphBreaksTheInterne
   title: 'Zero - From the Original Motion Picture "Ralph Breaks The Internet"',
   artist: "artist/imagine-dragons",
   performed: true,
+  createdAt: "2026-09-21T13:55:09.512Z",
+  updatedAt: "2026-09-21T13:55:21.000Z",
 } as const satisfies Song

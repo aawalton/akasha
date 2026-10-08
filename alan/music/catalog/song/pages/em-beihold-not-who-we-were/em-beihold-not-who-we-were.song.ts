@@ -7,4 +7,6 @@ export const emBeiholdNotWhoWeWere = {
   title: "Not Who We Were",
   artist: "artist/em-beihold",
   performed: true,
+  createdAt: "2026-09-24T13:47:22.124Z",
+  updatedAt: "2026-09-24T13:47:25.000Z",
 } as const satisfies Song

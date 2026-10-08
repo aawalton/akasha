@@ -18,4 +18,6 @@ export const girlInRedGirlfriendIsBetter = {
   lyricsSource: "lrclib",
   lyrics: "txt",
   syncedLyrics: "txt",
+  createdAt: "2026-09-19T00:50:39.496Z",
+  updatedAt: "2026-09-19T16:31:27.000Z",
 } as const satisfies Song

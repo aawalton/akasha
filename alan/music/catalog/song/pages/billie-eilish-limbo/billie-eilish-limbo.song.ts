@@ -16,4 +16,6 @@ export const billieEilishLimbo = {
   artist: "artist/billie-eilish",
   performed: true,
   written: "collab",
+  createdAt: "2026-06-08T00:39:31.613Z",
+  updatedAt: "2026-09-19T18:27:18.000Z",
 } as const satisfies Song

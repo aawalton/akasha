@@ -7,4 +7,6 @@ export const coldplayTalkFrancoisKDub = {
   title: "Talk - Francois K Dub",
   artist: "artist/coldplay",
   performed: true,
+  createdAt: "2026-09-19T16:00:00.502Z",
+  updatedAt: "2026-09-19T16:00:17.000Z",
 } as const satisfies Song

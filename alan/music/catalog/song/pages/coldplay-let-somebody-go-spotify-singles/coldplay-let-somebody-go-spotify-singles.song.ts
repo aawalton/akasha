@@ -7,4 +7,6 @@ export const coldplayLetSomebodyGoSpotifySingles = {
   title: "Let Somebody Go - Spotify Singles",
   artist: "artist/coldplay",
   performed: true,
+  createdAt: "2026-09-19T16:00:00.021Z",
+  updatedAt: "2026-09-19T16:00:17.000Z",
 } as const satisfies Song

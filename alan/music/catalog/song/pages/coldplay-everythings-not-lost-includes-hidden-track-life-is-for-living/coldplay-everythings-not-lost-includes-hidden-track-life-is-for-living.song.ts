@@ -7,4 +7,6 @@ export const coldplayEverythingsNotLostIncludesHiddenTrackLifeIsForLiving = {
   title: "Everything's Not Lost - Includes Hidden Track 'Life Is For Living'",
   artist: "artist/coldplay",
   performed: true,
+  createdAt: "2026-09-19T15:59:57.752Z",
+  updatedAt: "2026-09-19T16:00:17.000Z",
 } as const satisfies Song

@@ -7,4 +7,6 @@ export const cynthiaErivoOneShortDay = {
   title: "One Short Day",
   artist: "artist/cynthia-erivo",
   performed: true,
+  createdAt: "2026-09-19T03:12:54.627Z",
+  updatedAt: "2026-09-19T03:13:04.000Z",
 } as const satisfies Song

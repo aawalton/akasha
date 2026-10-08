@@ -7,4 +7,6 @@ export const billieEilishWhatWasIMadeForFromTheMotionPictureBarbie = {
   title: 'What Was I Made For? [From The Motion Picture "Barbie"]',
   artist: "artist/billie-eilish",
   performed: true,
+  createdAt: "2026-09-19T02:13:57.564Z",
+  updatedAt: "2026-09-19T02:15:26.000Z",
 } as const satisfies Song

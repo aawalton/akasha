@@ -7,4 +7,6 @@ export const celticWomanHarkTheHeraldAngelsSing = {
   title: "Hark The Herald Angels Sing",
   artist: "artist/celtic-woman",
   performed: true,
+  createdAt: "2026-09-19T02:14:31.676Z",
+  updatedAt: "2026-09-19T02:15:26.000Z",
 } as const satisfies Song

@@ -20,4 +20,6 @@ export const girlInRedYouNeedMeNow = {
   written: "collab",
   lyrics: "txt",
   syncedLyrics: "txt",
+  createdAt: "2026-09-19T00:50:38.852Z",
+  updatedAt: "2026-09-19T18:27:18.000Z",
 } as const satisfies Song

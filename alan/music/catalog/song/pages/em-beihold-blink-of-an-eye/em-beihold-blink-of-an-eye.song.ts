@@ -7,4 +7,6 @@ export const emBeiholdBlinkOfAnEye = {
   title: "Blink Of An Eye",
   artist: "artist/em-beihold",
   performed: true,
+  createdAt: "2026-09-24T13:47:21.861Z",
+  updatedAt: "2026-09-24T13:47:25.000Z",
 } as const satisfies Song

@@ -7,4 +7,6 @@ export const celticWomanIsleOfInnisfree = {
   title: "Isle Of Innisfree",
   artist: "artist/celtic-woman",
   performed: true,
+  createdAt: "2026-09-19T02:14:18.334Z",
+  updatedAt: "2026-09-19T02:15:26.000Z",
 } as const satisfies Song

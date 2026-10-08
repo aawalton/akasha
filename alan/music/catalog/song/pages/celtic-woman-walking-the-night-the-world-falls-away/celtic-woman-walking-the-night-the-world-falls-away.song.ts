@@ -7,4 +7,6 @@ export const celticWomanWalkingTheNightTheWorldFallsAway = {
   title: "Walking the Night/The World Falls Away",
   artist: "artist/celtic-woman",
   performed: true,
+  createdAt: "2026-09-19T02:14:25.330Z",
+  updatedAt: "2026-09-19T02:15:26.000Z",
 } as const satisfies Song

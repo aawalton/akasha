@@ -7,4 +7,6 @@ export const celticWomanSantaClausIsComingToTown = {
   title: "Santa Claus Is Coming To Town",
   artist: "artist/celtic-woman",
   performed: true,
+  createdAt: "2026-09-19T02:14:32.624Z",
+  updatedAt: "2026-09-19T02:15:26.000Z",
 } as const satisfies Song

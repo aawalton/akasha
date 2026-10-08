@@ -17,4 +17,6 @@ export const jamesTaylorCryingInTheRain = {
   performed: true,
   lyricsSource: "lrclib",
   lyrics: "txt",
+  createdAt: "2026-09-19T01:01:55.134Z",
+  updatedAt: "2026-09-19T16:23:44.000Z",
 } as const satisfies Song

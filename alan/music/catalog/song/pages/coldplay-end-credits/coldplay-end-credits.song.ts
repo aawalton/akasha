@@ -7,4 +7,6 @@ export const coldplayEndCredits = {
   title: "End Credits",
   artist: "artist/coldplay",
   performed: true,
+  createdAt: "2026-09-19T15:59:27.063Z",
+  updatedAt: "2026-09-19T15:59:48.000Z",
 } as const satisfies Song

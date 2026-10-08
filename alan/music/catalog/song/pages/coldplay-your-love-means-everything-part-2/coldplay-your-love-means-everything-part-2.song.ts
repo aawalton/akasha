@@ -15,4 +15,6 @@ export const coldplayYourLoveMeansEverythingPart2 = {
   title: "Your Love Means Everything, Part 2",
   artist: "artist/coldplay",
   performed: true,
+  createdAt: "2026-09-19T15:55:14.302Z",
+  updatedAt: "2026-09-19T16:18:26.000Z",
 } as const satisfies Song

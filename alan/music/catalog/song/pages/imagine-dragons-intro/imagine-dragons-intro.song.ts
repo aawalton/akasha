@@ -15,4 +15,6 @@ export const imagineDragonsIntro = {
   title: "Intro",
   artist: "artist/imagine-dragons",
   performed: true,
+  createdAt: "2026-06-08T00:16:55.816Z",
+  updatedAt: "2026-09-19T16:40:46.000Z",
 } as const satisfies Song

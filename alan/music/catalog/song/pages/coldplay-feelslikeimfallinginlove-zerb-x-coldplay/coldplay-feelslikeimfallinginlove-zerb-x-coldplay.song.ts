@@ -7,4 +7,6 @@ export const coldplayFeelslikeimfallinginloveZerbXColdplay = {
   title: "feelslikeimfallinginlove - Zerb x Coldplay",
   artist: "artist/coldplay",
   performed: true,
+  createdAt: "2026-09-19T15:59:21.104Z",
+  updatedAt: "2026-09-19T15:59:48.000Z",
 } as const satisfies Song

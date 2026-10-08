@@ -7,4 +7,6 @@ export const emBeiholdJustFine = {
   title: "Just Fine",
   artist: "artist/em-beihold",
   performed: true,
+  createdAt: "2026-09-24T13:47:22.256Z",
+  updatedAt: "2026-09-24T13:47:25.000Z",
 } as const satisfies Song

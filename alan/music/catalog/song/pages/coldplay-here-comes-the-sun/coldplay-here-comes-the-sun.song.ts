@@ -16,4 +16,6 @@ export const coldplayHereComesTheSun = {
   title: "Here Comes the Sun",
   artist: "artist/coldplay",
   performed: true,
+  createdAt: "2026-09-19T15:51:08.663Z",
+  updatedAt: "2026-09-19T17:55:30.000Z",
 } as const satisfies Song

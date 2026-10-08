@@ -15,4 +15,6 @@ export const coldplayMusicOfTheSpheres2 = {
   title: "Music of the Spheres 2",
   artist: "artist/coldplay",
   performed: true,
+  createdAt: "2026-09-19T15:51:11.714Z",
+  updatedAt: "2026-09-19T16:18:26.000Z",
 } as const satisfies Song

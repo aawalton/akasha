@@ -7,4 +7,6 @@ export const emeiDistracted = {
   title: "Distracted",
   artist: "artist/emei",
   performed: true,
+  createdAt: "2026-09-21T13:53:45.066Z",
+  updatedAt: "2026-09-21T13:53:47.000Z",
 } as const satisfies Song

@@ -7,4 +7,6 @@ export const coldplayShiverJoWhileyLunchtimeSocial = {
   title: "Shiver (Jo Whiley Lunchtime Social)",
   artist: "artist/coldplay",
   performed: true,
+  createdAt: "2026-09-19T16:00:01.372Z",
+  updatedAt: "2026-09-19T16:00:17.000Z",
 } as const satisfies Song

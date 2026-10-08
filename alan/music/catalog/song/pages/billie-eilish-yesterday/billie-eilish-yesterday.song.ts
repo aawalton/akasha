@@ -15,4 +15,6 @@ export const billieEilishYesterday = {
   title: "Yesterday",
   artist: "artist/billie-eilish",
   performed: true,
+  createdAt: "2026-06-08T00:35:58.896Z",
+  updatedAt: "2026-09-19T17:03:54.000Z",
 } as const satisfies Song

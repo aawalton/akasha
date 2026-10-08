@@ -7,4 +7,6 @@ export const coldplayAmorArgentina = {
   title: "Amor Argentina",
   artist: "artist/coldplay",
   performed: true,
+  createdAt: "2026-09-19T15:59:26.536Z",
+  updatedAt: "2026-09-19T15:59:48.000Z",
 } as const satisfies Song

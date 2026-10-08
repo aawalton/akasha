@@ -7,4 +7,6 @@ export const celticWomanWhereSheepMaySafelyGraze = {
   title: "Where Sheep May Safely Graze",
   artist: "artist/celtic-woman",
   performed: true,
+  createdAt: "2026-09-19T02:22:47.671Z",
+  updatedAt: "2026-09-19T02:26:42.000Z",
 } as const satisfies Song

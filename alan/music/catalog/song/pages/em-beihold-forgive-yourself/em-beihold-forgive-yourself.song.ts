@@ -7,4 +7,6 @@ export const emBeiholdForgiveYourself = {
   title: "Forgive Yourself",
   artist: "artist/em-beihold",
   performed: true,
+  createdAt: "2026-09-24T13:47:21.794Z",
+  updatedAt: "2026-09-24T13:47:25.000Z",
 } as const satisfies Song

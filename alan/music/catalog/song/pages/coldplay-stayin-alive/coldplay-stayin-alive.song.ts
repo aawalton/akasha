@@ -15,4 +15,6 @@ export const coldplayStayinAlive = {
   title: "Stayin’ Alive",
   artist: "artist/coldplay",
   performed: true,
+  createdAt: "2026-09-19T15:51:13.358Z",
+  updatedAt: "2026-09-19T16:18:26.000Z",
 } as const satisfies Song

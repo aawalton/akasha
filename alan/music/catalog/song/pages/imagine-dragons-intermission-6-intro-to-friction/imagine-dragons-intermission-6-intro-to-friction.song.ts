@@ -15,4 +15,6 @@ export const imagineDragonsIntermission6IntroToFriction = {
   title: "Intermission #6: Intro to Friction",
   artist: "artist/imagine-dragons",
   performed: true,
+  createdAt: "2026-06-08T00:18:10.514Z",
+  updatedAt: "2026-09-19T16:40:46.000Z",
 } as const satisfies Song

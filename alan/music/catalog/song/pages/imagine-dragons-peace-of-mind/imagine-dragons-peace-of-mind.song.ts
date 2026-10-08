@@ -18,4 +18,6 @@ export const imagineDragonsPeaceOfMind = {
   lyricsSource: "lrclib",
   lyrics: "txt",
   syncedLyrics: "txt",
+  createdAt: "2026-06-08T00:21:46.100Z",
+  updatedAt: "2026-09-19T16:40:46.000Z",
 } as const satisfies Song

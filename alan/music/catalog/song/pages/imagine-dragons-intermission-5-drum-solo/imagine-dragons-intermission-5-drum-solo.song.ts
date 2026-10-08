@@ -15,4 +15,6 @@ export const imagineDragonsIntermission5DrumSolo = {
   title: "Intermission #5: Drum Solo",
   artist: "artist/imagine-dragons",
   performed: true,
+  createdAt: "2026-06-08T00:20:49.959Z",
+  updatedAt: "2026-09-19T16:40:46.000Z",
 } as const satisfies Song

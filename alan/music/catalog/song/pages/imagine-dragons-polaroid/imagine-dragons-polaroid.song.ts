@@ -19,4 +19,6 @@ export const imagineDragonsPolaroid = {
   written: "solo",
   lyrics: "txt",
   syncedLyrics: "txt",
+  createdAt: "2026-06-08T00:22:17.487Z",
+  updatedAt: "2026-09-19T18:27:18.000Z",
 } as const satisfies Song

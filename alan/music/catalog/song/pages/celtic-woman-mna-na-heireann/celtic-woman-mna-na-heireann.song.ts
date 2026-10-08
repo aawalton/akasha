@@ -15,4 +15,6 @@ export const celticWomanMnaNaHeireann = {
   title: "Mná na hÉireann",
   artist: "artist/celtic-woman",
   performed: true,
+  createdAt: "2026-09-19T00:45:25.993Z",
+  updatedAt: "2026-09-19T16:30:48.000Z",
 } as const satisfies Song

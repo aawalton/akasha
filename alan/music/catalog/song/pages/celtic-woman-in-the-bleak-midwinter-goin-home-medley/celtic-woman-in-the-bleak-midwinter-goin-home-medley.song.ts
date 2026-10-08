@@ -7,4 +7,6 @@ export const celticWomanInTheBleakMidwinterGoinHomeMedley = {
   title: "In The Bleak Midwinter/Goin’ Home - Medley",
   artist: "artist/celtic-woman",
   performed: true,
+  createdAt: "2026-09-19T02:22:43.587Z",
+  updatedAt: "2026-09-19T02:26:42.000Z",
 } as const satisfies Song

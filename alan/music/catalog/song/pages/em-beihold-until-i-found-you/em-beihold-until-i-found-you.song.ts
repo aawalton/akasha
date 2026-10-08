@@ -7,4 +7,6 @@ export const emBeiholdUntilIFoundYou = {
   title: "Until I Found You",
   artist: "artist/em-beihold",
   performed: true,
+  createdAt: "2026-09-24T13:47:21.452Z",
+  updatedAt: "2026-09-24T13:47:25.000Z",
 } as const satisfies Song

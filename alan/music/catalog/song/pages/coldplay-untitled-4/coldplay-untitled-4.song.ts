@@ -15,4 +15,6 @@ export const coldplayUntitled4 = {
   title: "✨",
   artist: "artist/coldplay",
   performed: true,
+  createdAt: "2026-09-19T15:51:09.987Z",
+  updatedAt: "2026-09-19T16:18:26.000Z",
 } as const satisfies Song

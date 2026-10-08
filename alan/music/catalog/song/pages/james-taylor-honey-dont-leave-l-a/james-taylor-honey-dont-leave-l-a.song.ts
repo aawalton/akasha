@@ -18,4 +18,6 @@ export const jamesTaylorHoneyDontLeaveLA = {
   lyricsSource: "lrclib",
   lyrics: "txt",
   syncedLyrics: "txt",
+  createdAt: "2026-09-19T01:01:54.847Z",
+  updatedAt: "2026-09-19T16:23:44.000Z",
 } as const satisfies Song

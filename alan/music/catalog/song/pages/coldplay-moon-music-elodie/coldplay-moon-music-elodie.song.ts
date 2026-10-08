@@ -7,4 +7,6 @@ export const coldplayMoonMusicElodie = {
   title: "Moon Music - Elodie",
   artist: "artist/coldplay",
   performed: true,
+  createdAt: "2026-09-19T15:59:30.212Z",
+  updatedAt: "2026-09-19T15:59:48.000Z",
 } as const satisfies Song

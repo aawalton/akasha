@@ -18,4 +18,6 @@ export const celticWomanWildMountainThyme = {
   lyricsSource: "lrclib",
   lyrics: "txt",
   syncedLyrics: "txt",
+  createdAt: "2026-09-19T00:45:26.136Z",
+  updatedAt: "2026-09-19T18:27:18.000Z",
 } as const satisfies Song

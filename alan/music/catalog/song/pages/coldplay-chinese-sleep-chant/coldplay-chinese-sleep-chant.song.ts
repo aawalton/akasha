@@ -18,4 +18,6 @@ export const coldplayChineseSleepChant = {
   lyricsSource: "lrclib",
   lyrics: "txt",
   syncedLyrics: "txt",
+  createdAt: "2026-09-19T15:51:08.946Z",
+  updatedAt: "2026-09-19T16:18:26.000Z",
 } as const satisfies Song

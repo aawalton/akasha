@@ -15,4 +15,6 @@ export const jamesTaylorAHome = {
   title: "A Home",
   artist: "artist/james-taylor",
   performed: true,
+  createdAt: "2026-09-19T01:01:55.003Z",
+  updatedAt: "2026-09-19T16:23:44.000Z",
 } as const satisfies Song

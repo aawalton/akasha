@@ -7,4 +7,6 @@ export const ejaeDnaMoreThanAGame = {
   title: "DNA (More Than A Game)",
   artist: "artist/ejae",
   performed: true,
+  createdAt: "2026-09-24T13:46:43.132Z",
+  updatedAt: "2026-09-24T13:46:47.000Z",
 } as const satisfies Song

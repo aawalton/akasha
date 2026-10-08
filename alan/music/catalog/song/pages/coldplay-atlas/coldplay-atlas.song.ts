@@ -18,4 +18,6 @@ export const coldplayAtlas = {
   lyricsSource: "lrclib",
   lyrics: "txt",
   syncedLyrics: "txt",
+  createdAt: "2026-09-19T15:51:06.610Z",
+  updatedAt: "2026-09-19T16:18:26.000Z",
 } as const satisfies Song

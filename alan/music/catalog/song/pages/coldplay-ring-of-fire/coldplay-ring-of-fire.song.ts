@@ -15,4 +15,6 @@ export const coldplayRingOfFire = {
   title: "Ring of Fire",
   artist: "artist/coldplay",
   performed: true,
+  createdAt: "2026-09-19T15:55:12.247Z",
+  updatedAt: "2026-09-19T16:18:26.000Z",
 } as const satisfies Song

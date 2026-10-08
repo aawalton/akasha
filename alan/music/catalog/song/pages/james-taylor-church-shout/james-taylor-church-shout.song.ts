@@ -16,4 +16,6 @@ export const jamesTaylorChurchShout = {
   artist: "artist/james-taylor",
   performed: false,
   written: "solo",
+  createdAt: "2026-09-19T01:01:57.835Z",
+  updatedAt: "2026-09-19T18:27:18.000Z",
 } as const satisfies Song

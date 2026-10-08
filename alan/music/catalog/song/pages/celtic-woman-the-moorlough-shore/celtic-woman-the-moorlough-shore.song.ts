@@ -15,4 +15,6 @@ export const celticWomanTheMoorloughShore = {
   title: "The Moorlough Shore",
   artist: "artist/celtic-woman",
   performed: true,
+  createdAt: "2026-09-19T00:45:27.580Z",
+  updatedAt: "2026-09-19T16:30:48.000Z",
 } as const satisfies Song

@@ -15,4 +15,6 @@ export const coldplayStopMeIfYouThinkYouveHeardThisOneBefore = {
   title: "Stop Me If You Think You’ve Heard This One Before",
   artist: "artist/coldplay",
   performed: true,
+  createdAt: "2026-09-19T15:51:13.527Z",
+  updatedAt: "2026-09-19T16:18:26.000Z",
 } as const satisfies Song

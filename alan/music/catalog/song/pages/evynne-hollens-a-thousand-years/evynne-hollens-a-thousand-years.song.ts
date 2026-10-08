@@ -19,4 +19,6 @@ export const evynneHollensAThousandYears = {
   lyricsSource: "lrclib",
   lyrics: "txt",
   syncedLyrics: "txt",
+  createdAt: "2026-06-08T01:18:13.302Z",
+  updatedAt: "2026-09-19T17:55:30.000Z",
 } as const satisfies Song

@@ -7,4 +7,6 @@ export const coldplayOceansLiveAtEWerkCologne = {
   title: "Oceans - Live at E-Werk, Cologne",
   artist: "artist/coldplay",
   performed: true,
+  createdAt: "2026-09-19T15:59:22.270Z",
+  updatedAt: "2026-09-19T15:59:48.000Z",
 } as const satisfies Song

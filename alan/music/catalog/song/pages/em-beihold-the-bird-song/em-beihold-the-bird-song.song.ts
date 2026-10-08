@@ -7,4 +7,6 @@ export const emBeiholdTheBirdSong = {
   title: "The Bird Song",
   artist: "artist/em-beihold",
   performed: true,
+  createdAt: "2026-09-24T13:47:20.953Z",
+  updatedAt: "2026-09-24T13:47:25.000Z",
 } as const satisfies Song

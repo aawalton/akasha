@@ -15,4 +15,6 @@ export const celticWomanCinemaParadisoSe = {
   title: "Cinema Paradiso (Se)",
   artist: "artist/celtic-woman",
   performed: true,
+  createdAt: "2026-09-19T00:45:25.884Z",
+  updatedAt: "2026-09-19T18:27:18.000Z",
 } as const satisfies Song

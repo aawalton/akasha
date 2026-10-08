@@ -7,4 +7,6 @@ export const chaislynLittleDidIKnow = {
   title: "Little Did I Know",
   artist: "artist/chaislyn",
   performed: true,
+  createdAt: "2026-09-19T15:59:14.621Z",
+  updatedAt: "2026-09-19T15:59:48.000Z",
 } as const satisfies Song
