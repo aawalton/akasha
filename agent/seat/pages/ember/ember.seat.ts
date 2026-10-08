@@ -5,7 +5,7 @@ export const ember = {
   type: "page-type/seat",
   slug: "ember",
   persona: "persona/ember",
-  assignmentSlug: "initiative/ember-auto-port",
+  assignmentSlug: "domain/temper",
   role: "role/definer",
   person: "person/alan",
   startMode: "seat-mode/interactive",
@@ -13,5 +13,5 @@ export const ember = {
   registrationAccount: "model-account/aawalton",
   claudeCodeSessionUuid: "ac6968ad-6eb5-4c34-ae8f-aa497a591196",
   createdAt: "2026-10-08T13:24:00.576Z",
-  updatedAt: "2026-10-08T14:45:44.000Z",
+  updatedAt: "2026-10-08T18:27:03.292Z",
 } as const satisfies Seat
