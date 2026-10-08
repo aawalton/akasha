@@ -10,10 +10,6 @@ export const limiting = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "A day's limit is a ceiling on what the day moves, never a minimum to reach.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
       statement: "A day's limit is worked out again each run from the sets already logged.",
     },
     {
@@ -53,5 +49,5 @@ export const limiting = {
       statement: "A set naming a movement this does not know moves the weight it states alone.",
     },
   ],
-  updatedAt: "2026-10-08T15:27:29.740Z",
+  updatedAt: "2026-10-08T15:30:42.511Z",
 } as const satisfies Module
