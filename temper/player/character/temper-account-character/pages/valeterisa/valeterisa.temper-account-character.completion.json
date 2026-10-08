@@ -13083,7 +13083,8 @@
       77,
       85,
       86,
-      91
+      91,
+      92
     ],
     "888": [
       1,
@@ -13610,11 +13611,11 @@
   "bagSize": 215,
   "allianceRank": 13,
   "dailyWrits": {
-    "date": "2026-09-28",
+    "date": "2026-10-08",
     "completed": 7
   },
   "dailyWritStates": {
-    "date": "2026-09-28",
+    "date": "2026-10-08",
     "seen": [
       5,
       3,
@@ -13628,15 +13629,15 @@
       1,
       6,
       2,
+      7,
       3,
       4,
-      7,
       5
     ]
   },
   "bankVisitDate": "2026-09-26",
   "inventoryCheck": {
-    "date": "2026-09-28",
-    "misplaced": 16
+    "date": "2026-10-08",
+    "misplaced": 23
   }
 }
