@@ -55,11 +55,16 @@ export const noClass = {
     {
       decisionKind: "decision-kind/departure",
       statement:
+        "A file is parsed only where `class` is followed by a name, a brace, `<` or a comment.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
         "The name a class extends is judged as written rather than by the type that name resolves to.",
     },
   ],
   check: { maxCpuSeconds: 1 },
   audit: { maxCpuSeconds: 15 },
   createdAt: "2026-08-29T04:30:21.239Z",
-  updatedAt: "2026-09-15T17:36:15.000Z",
+  updatedAt: "2026-10-08T18:49:35.973Z",
 } as const satisfies CheckCode

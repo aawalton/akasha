@@ -19,6 +19,8 @@ const DERIVED = "getDerivedStateFromError"
 
 const UNNAMED = "an unnamed class"
 
+const SHAPED = /\bclass(?:\s+[\p{ID_Start}$_\\]|\s*[{</])/u
+
 const DECLARED = ".d.ts"
 
 const RUNTIME_LIBRARY = "lua-runtime-library"
@@ -112,7 +114,7 @@ function heldByTheRuntimeLibrary(under: readonly string[], path: string): boolea
 export function found(under: readonly string[], path: string, text: string): readonly string[] {
   if (path.endsWith(DECLARED)) return []
   if (heldByTheRuntimeLibrary(under, path)) return []
-  if (!text.includes(CLASS)) return []
+  if (!SHAPED.test(text)) return []
   return classesIn(path, text)
     .filter((one) => !permitted(one))
     .map(reasonFor)

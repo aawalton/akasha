@@ -13,6 +13,18 @@ test("a file declaring no class is let through", () => {
   expect(reasonsIn(AT, "export function one(): number {\n  return 1\n}\n")).toEqual([])
 })
 
+test("a file naming `class` only inside other words or prose is let through", () => {
+  const body = 'export const one = <div className="world-class">a class of its own</div>\n'
+  expect(reasonsIn(TSX, body)).toEqual([])
+})
+
+test("a class whose keyword is followed by a comment, a brace or a type parameter is found", () => {
+  expect(reasonsIn(AT, "class/* held */ Held {}\n")).toHaveLength(1)
+  expect(reasonsIn(AT, "export default class{}\n")).toHaveLength(1)
+  expect(reasonsIn(AT, "const one = class<T> {}\n")).toHaveLength(1)
+  expect(reasonsIn(AT, "class\n  Held {}\n")).toHaveLength(1)
+})
+
 test("a class declaration is refused, and the reason names the line and the class", () => {
   const said = reasonsIn(AT, "\nexport class Held {\n  one = 1\n}\n")
   expect(said).toHaveLength(1)
