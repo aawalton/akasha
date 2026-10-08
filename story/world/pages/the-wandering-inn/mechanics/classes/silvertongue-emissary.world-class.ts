@@ -8,4 +8,6 @@ export const silvertongueEmissary = {
   world: "world/the-wandering-inn",
   appearanceCount: 1,
   references: "jsonl",
+  createdAt: "2026-09-03T04:27:58.397Z",
+  updatedAt: "2026-09-22T13:30:07.000Z",
 } as const satisfies WorldClass

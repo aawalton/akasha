@@ -10,4 +10,6 @@ export const survivor = {
   aliases: ["survivors"],
   evolvesToSlugs: ["world-class/underworld-survivor"],
   references: "jsonl",
+  createdAt: "2026-09-03T04:19:12.098Z",
+  updatedAt: "2026-09-22T18:28:27.000Z",
 } as const satisfies WorldClass

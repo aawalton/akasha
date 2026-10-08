@@ -10,4 +10,6 @@ export const sandMage = {
   aliases: ["sand-mages"],
   evolvesToSlugs: ["world-class/bloodglass-mage"],
   references: "jsonl",
+  createdAt: "2026-09-03T04:19:12.074Z",
+  updatedAt: "2026-09-22T18:28:27.000Z",
 } as const satisfies WorldClass

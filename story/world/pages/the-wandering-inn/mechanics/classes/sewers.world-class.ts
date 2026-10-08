@@ -8,4 +8,6 @@ export const sewers = {
   world: "world/the-wandering-inn",
   appearanceCount: 2,
   references: "jsonl",
+  createdAt: "2026-09-03T04:19:12.077Z",
+  updatedAt: "2026-09-22T13:29:59.000Z",
 } as const satisfies WorldClass

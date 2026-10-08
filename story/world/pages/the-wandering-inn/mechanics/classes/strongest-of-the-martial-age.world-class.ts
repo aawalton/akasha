@@ -9,4 +9,6 @@ export const strongestOfTheMartialAge = {
   appearanceCount: 4,
   evolvesFromSlugs: ["world-class/bridge-of-the-martial-world"],
   references: "jsonl",
+  createdAt: "2026-09-03T04:27:58.429Z",
+  updatedAt: "2026-09-22T18:27:39.000Z",
 } as const satisfies WorldClass

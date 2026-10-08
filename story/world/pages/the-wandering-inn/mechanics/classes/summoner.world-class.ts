@@ -9,4 +9,6 @@ export const summoner = {
   appearanceCount: 49,
   aliases: ["summoners"],
   references: "jsonl",
+  createdAt: "2026-09-03T04:27:58.431Z",
+  updatedAt: "2026-09-22T13:30:14.000Z",
 } as const satisfies WorldClass

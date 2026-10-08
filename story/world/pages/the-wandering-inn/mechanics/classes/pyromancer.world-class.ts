@@ -8,4 +8,6 @@ export const pyromancer = {
   world: "world/the-wandering-inn",
   appearanceCount: 24,
   references: "jsonl",
+  createdAt: "2026-09-03T04:19:12.065Z",
+  updatedAt: "2026-09-22T13:29:51.000Z",
 } as const satisfies WorldClass

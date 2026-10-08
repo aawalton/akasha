@@ -8,4 +8,6 @@ export const steward = {
   world: "world/the-wandering-inn",
   appearanceCount: 59,
   references: "jsonl",
+  createdAt: "2026-09-03T04:27:58.420Z",
+  updatedAt: "2026-09-22T13:30:14.000Z",
 } as const satisfies WorldClass

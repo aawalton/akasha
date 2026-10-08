@@ -9,4 +9,6 @@ export const priestOfWrathAndSky = {
   appearanceCount: 10,
   evolvesFromSlugs: ["world-class/doomspeaker-priest"],
   references: "jsonl",
+  createdAt: "2026-09-03T04:27:58.347Z",
+  updatedAt: "2026-09-22T18:27:39.000Z",
 } as const satisfies WorldClass

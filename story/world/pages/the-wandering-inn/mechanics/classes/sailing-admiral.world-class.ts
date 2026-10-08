@@ -7,4 +7,6 @@ export const sailingAdmiral = {
   title: "Sailing Admiral",
   world: "world/the-wandering-inn",
   evolvesToSlugs: ["world-class/intractable-admiral-of-sacrifice"],
+  createdAt: "2026-09-03T04:27:58.376Z",
+  updatedAt: "2026-09-22T18:28:27.000Z",
 } as const satisfies WorldClass

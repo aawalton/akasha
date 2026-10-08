@@ -9,4 +9,6 @@ export const silversteelArmsmistress = {
   appearanceCount: 31,
   evolvesFromSlugs: ["world-class/wounded-warrior"],
   references: "jsonl",
+  createdAt: "2026-09-03T04:19:12.085Z",
+  updatedAt: "2026-09-22T18:27:39.000Z",
 } as const satisfies WorldClass

@@ -8,4 +8,6 @@ export const runecrafter = {
   world: "world/the-wandering-inn",
   appearanceCount: 3,
   references: "jsonl",
+  createdAt: "2026-09-03T04:19:12.073Z",
+  updatedAt: "2026-09-22T13:29:59.000Z",
 } as const satisfies WorldClass

@@ -10,4 +10,6 @@ export const shamanOfTheOldWays = {
   evolvesFromSlugs: ["world-class/magic-paint-shaman"],
   evolvesToSlugs: ["world-class/mirmilin-es-hivule-sekururu"],
   references: "jsonl",
+  createdAt: "2026-09-03T04:27:58.386Z",
+  updatedAt: "2026-09-22T18:28:27.000Z",
 } as const satisfies WorldClass

@@ -9,4 +9,6 @@ export const seeker = {
   appearanceCount: 2,
   evolvesToSlugs: ["world-class/djinn-s-legacy-seeker"],
   references: "jsonl",
+  createdAt: "2026-09-03T04:19:12.076Z",
+  updatedAt: "2026-09-22T18:28:27.000Z",
 } as const satisfies WorldClass

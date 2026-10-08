@@ -9,4 +9,6 @@ export const shaman = {
   appearanceCount: 193,
   aliases: ["shamans"],
   references: "jsonl",
+  createdAt: "2026-09-03T04:19:12.082Z",
+  updatedAt: "2026-09-22T13:29:59.000Z",
 } as const satisfies WorldClass

@@ -8,4 +8,6 @@ export const scribbler = {
   world: "world/the-wandering-inn",
   appearanceCount: 9,
   references: "jsonl",
+  createdAt: "2026-09-03T04:27:58.380Z",
+  updatedAt: "2026-09-22T13:29:59.000Z",
 } as const satisfies WorldClass

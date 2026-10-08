@@ -9,4 +9,6 @@ export const reader = {
   appearanceCount: 15,
   aliases: ["readers"],
   references: "jsonl",
+  createdAt: "2026-09-03T04:19:12.067Z",
+  updatedAt: "2026-09-22T13:29:51.000Z",
 } as const satisfies WorldClass

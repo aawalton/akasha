@@ -6,4 +6,6 @@ export const reformistPolitician = {
   slug: "reformist-politician",
   title: "Reformist Politician",
   world: "world/the-wandering-inn",
+  createdAt: "2026-09-03T04:27:58.368Z",
+  updatedAt: "2026-09-19T16:33:27.000Z",
 } as const satisfies WorldClass

@@ -8,4 +8,6 @@ export const prince = {
   world: "world/the-wandering-inn",
   appearanceCount: 113,
   references: "jsonl",
+  createdAt: "2026-09-03T04:27:58.349Z",
+  updatedAt: "2026-09-22T13:29:51.000Z",
 } as const satisfies WorldClass

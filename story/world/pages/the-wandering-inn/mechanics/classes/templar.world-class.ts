@@ -10,4 +10,6 @@ export const templar = {
   aliases: ["templars"],
   evolvesFromSlugs: ["world-class/crusader"],
   references: "jsonl",
+  createdAt: "2026-09-03T04:27:58.436Z",
+  updatedAt: "2026-09-22T18:27:39.000Z",
 } as const satisfies WorldClass

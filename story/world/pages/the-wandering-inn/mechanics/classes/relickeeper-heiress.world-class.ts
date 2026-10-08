@@ -9,4 +9,6 @@ export const relickeeperHeiress = {
   appearanceCount: 1,
   evolvesFromSlugs: ["world-class/heiress"],
   references: "jsonl",
+  createdAt: "2026-09-03T04:19:12.069Z",
+  updatedAt: "2026-09-22T18:27:39.000Z",
 } as const satisfies WorldClass

@@ -10,4 +10,6 @@ export const superiorMartialArtist = {
   evolvesFromSlugs: ["world-class/strongest-martial-artist-of-pomle"],
   evolvesToSlugs: ["world-class/fist-of-the-living-world"],
   references: "jsonl",
+  createdAt: "2026-09-03T04:19:12.097Z",
+  updatedAt: "2026-09-22T18:28:27.000Z",
 } as const satisfies WorldClass
