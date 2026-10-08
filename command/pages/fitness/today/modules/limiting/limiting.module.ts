@@ -1,32 +1,36 @@
 import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
-export const targeting = {
+export const limiting = {
   id: "01a0c433-c8ac-7807-9834-28647909b51b",
   type: "page-type/module",
-  slug: "targeting",
-  definition: "the pounds a day is to move, and how much of that Alan has moved",
+  slug: "limiting",
+  definition: "the most pounds a day is to move, and how much of that Alan has moved",
   code: "ts",
   test: "ts",
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "A day's target is worked out again each run from the sets already logged.",
+      statement: "A day's limit is a ceiling on what the day moves, never a minimum to reach.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A day's limit is worked out again each run from the sets already logged.",
     },
     {
       decisionKind: "decision-kind/absence",
-      statement: "No page carries a target.",
+      statement: "No page carries a limit.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The target opens at the seed on the first day a target bound Alan.",
+      statement: "The limit opens at the seed on the first day a limit bound Alan.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A day that moved its target or more raises the next day's target by the rise.",
+      statement: "A day that moved its limit or more raises the next day's limit by the rise.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A week that reached its target on no day lowers the target by the fall.",
+      statement: "A week that reached its limit on no day lowers the limit by the fall.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -34,11 +38,11 @@ export const targeting = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A week Alan never trained is a week that reached its target on no day.",
+      statement: "A week Alan never trained is a week that reached its limit on no day.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A target never falls below the rise, so there is always a day's work in it.",
+      statement: "A limit never falls below the rise, so there is always a day's work under it.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -49,4 +53,5 @@ export const targeting = {
       statement: "A set naming a movement this does not know moves the weight it states alone.",
     },
   ],
+  updatedAt: "2026-10-08T15:27:29.740Z",
 } as const satisfies Module

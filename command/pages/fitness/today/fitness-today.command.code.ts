@@ -17,14 +17,14 @@ import {
 } from "akasha/command/pages/fitness/modules/training-week/training-week.module.code.ts"
 import { fitnessToday as page } from "akasha/command/pages/fitness/today/fitness-today.command.ts"
 import {
+  liftedOn,
+  targetOn,
+} from "akasha/command/pages/fitness/today/modules/limiting/limiting.module.code.ts"
+import {
   DAY_TYPE,
   focusOn,
   weekdayOn,
 } from "akasha/command/pages/fitness/today/modules/rotation/rotation.module.code.ts"
-import {
-  liftedOn,
-  targetOn,
-} from "akasha/command/pages/fitness/today/modules/targeting/targeting.module.code.ts"
 import { valuesOfType } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import {
   AKASHA,

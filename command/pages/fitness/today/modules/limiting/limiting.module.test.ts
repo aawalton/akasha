@@ -10,7 +10,7 @@ import {
   type Aim,
   liftedOn,
   targetOn,
-} from "akasha/command/pages/fitness/today/modules/targeting/targeting.module.code.ts"
+} from "akasha/command/pages/fitness/today/modules/limiting/limiting.module.code.ts"
 
 const MONDAY = "2026-09-21"
 
