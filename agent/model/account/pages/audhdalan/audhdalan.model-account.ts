@@ -11,7 +11,8 @@ export const audhdalan = {
   subscriptionType: "max",
   rateLimitTier: "default_claude_max_20x",
   renewalDay: 18,
+  subscriptionCanceled: true,
   scopes: ["user:inference", "user:mcp_servers", "user:profile", "user:sessions:claude_code"],
   createdAt: "2026-04-22T12:39:34.066Z",
-  updatedAt: "2026-09-15T17:27:29.000Z",
+  updatedAt: "2026-10-08T16:04:38.502Z",
 } as const satisfies ModelAccount
