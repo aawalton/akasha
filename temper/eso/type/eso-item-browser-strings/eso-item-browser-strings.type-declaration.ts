@@ -6,4 +6,6 @@ export const esoItemBrowserStrings = {
   slug: "eso-item-browser-strings",
   definition: "the strings an item browser shows",
   d: "ts",
+  createdAt: "2026-09-02T05:20:24.712Z",
+  updatedAt: "2026-09-21T15:28:07.000Z",
 } as const satisfies TypeDeclaration

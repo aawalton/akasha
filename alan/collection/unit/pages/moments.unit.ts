@@ -6,4 +6,6 @@ export const moments = {
   slug: "moments",
   definition: "a length counted in the moments an idle game's roster earns",
   words: 1,
+  createdAt: "2026-09-02T20:44:59.872Z",
+  updatedAt: "2026-09-15T16:33:59.000Z",
 } as const satisfies Unit

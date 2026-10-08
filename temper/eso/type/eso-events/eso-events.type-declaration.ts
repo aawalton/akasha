@@ -7,4 +7,6 @@ export const esoEvents = {
   definition: "the numbers the game gives its events",
   d: "ts",
   generated: { writtenBy: "akasha temper eso generate declaration", sourceVersion: 101050 },
+  createdAt: "2026-09-02T05:20:24.707Z",
+  updatedAt: "2026-09-22T14:05:53.000Z",
 } as const satisfies TypeDeclaration

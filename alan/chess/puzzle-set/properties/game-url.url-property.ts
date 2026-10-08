@@ -8,4 +8,6 @@ export const gameUrl = {
   definition: "the game from which a puzzle was taken",
   maxLength: 200,
   types: "ts",
+  createdAt: "2026-09-03T04:24:22.114Z",
+  updatedAt: "2026-09-22T14:08:21.000Z",
 } as const satisfies UrlProperty

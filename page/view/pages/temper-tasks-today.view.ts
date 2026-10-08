@@ -30,4 +30,6 @@ export const temperTasksToday = {
   pageSize: 40,
   itemPageSize: 12,
   groupPageSize: 6,
+  createdAt: "2026-09-03T04:11:42.485Z",
+  updatedAt: "2026-09-25T13:33:09.000Z",
 } as const satisfies View

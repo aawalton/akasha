@@ -5,4 +5,6 @@ export const twelveStepsToTranscendenceASkillGrindingLitrpg = {
   type: "page-type/world",
   slug: "twelve-steps-to-transcendence-a-skill-grinding-litrpg",
   title: "12 Steps to Transcendence: A Skill-Grinding LitRPG",
+  createdAt: "2026-09-02T20:38:40.370Z",
+  updatedAt: "2026-09-15T16:39:29.000Z",
 } as const satisfies World

@@ -6,4 +6,6 @@ export const otherwhereIxAuctionNobles = {
   slug: "otherwhere-ix-auction-nobles",
   title: "The Auction Nobles",
   world: "world/mana-devourer-litrpgmana-cultivation",
+  createdAt: "2026-09-28T23:01:36.370Z",
+  updatedAt: "2026-09-28T23:01:39.000Z",
 } as const satisfies WorldCharacter

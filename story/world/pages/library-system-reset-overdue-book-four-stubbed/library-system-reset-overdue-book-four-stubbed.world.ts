@@ -5,4 +5,6 @@ export const librarySystemResetOverdueBookFourStubbed = {
   type: "page-type/world",
   slug: "library-system-reset-overdue-book-four-stubbed",
   title: "Library System Reset",
+  createdAt: "2026-09-02T20:38:40.370Z",
+  updatedAt: "2026-09-15T16:39:29.000Z",
 } as const satisfies World

@@ -6,4 +6,6 @@ export const esoGuildHistory = {
   slug: "eso-guild-history",
   definition: "what the game's guild history system leaves in an add-on's reach",
   d: "ts",
+  createdAt: "2026-09-02T09:59:48.027Z",
+  updatedAt: "2026-09-21T15:28:07.000Z",
 } as const satisfies TypeDeclaration

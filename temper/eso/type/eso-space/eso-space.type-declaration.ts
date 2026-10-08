@@ -6,4 +6,6 @@ export const esoSpace = {
   slug: "eso-space",
   definition: "the camera and the placing of controls the game draws in the world",
   d: "ts",
+  createdAt: "2026-09-26T16:09:53.219Z",
+  updatedAt: "2026-09-26T16:10:34.000Z",
 } as const satisfies TypeDeclaration

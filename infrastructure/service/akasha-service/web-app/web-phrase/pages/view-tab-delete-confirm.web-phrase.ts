@@ -5,4 +5,6 @@ export const viewTabDeleteConfirm = {
   type: "page-type/web-phrase",
   slug: "view-tab-delete-confirm",
   title: "Are you sure you want to delete “{name}”? This cannot be undone.",
+  createdAt: "2026-09-27T14:39:51.166Z",
+  updatedAt: "2026-09-27T14:39:54.000Z",
 } as const satisfies WebPhrase

@@ -5,4 +5,6 @@ export const ameliaTheLevelZeroHeroAnOpMcIsekaiLitrpg = {
   type: "page-type/world",
   slug: "amelia-the-level-zero-hero-an-op-mc-isekai-litrpg",
   title: "Amelia the Level Zero Hero",
+  createdAt: "2026-09-02T20:38:40.370Z",
+  updatedAt: "2026-09-15T16:39:29.000Z",
 } as const satisfies World

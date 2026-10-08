@@ -5,4 +5,6 @@ export const viewPageEmptyTitle = {
   type: "page-type/web-phrase",
   slug: "view-page-empty-title",
   title: "No views",
+  createdAt: "2026-09-27T12:33:12.009Z",
+  updatedAt: "2026-09-27T12:33:14.000Z",
 } as const satisfies WebPhrase

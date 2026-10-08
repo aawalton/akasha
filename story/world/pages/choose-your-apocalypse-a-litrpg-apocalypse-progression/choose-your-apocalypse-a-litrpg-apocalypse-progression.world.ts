@@ -5,4 +5,6 @@ export const chooseYourApocalypseALitrpgApocalypseProgression = {
   type: "page-type/world",
   slug: "choose-your-apocalypse-a-litrpg-apocalypse-progression",
   title: "Choose Your Apocalypse (A LitRPG Apocalypse, Progression, System Fantasy) [CYA]",
+  createdAt: "2026-09-28T20:27:04.751Z",
+  updatedAt: "2026-09-28T20:27:05.000Z",
 } as const satisfies World

@@ -20,4 +20,6 @@ export const chaptersUnread = {
   pageSize: 12,
   itemPageSize: 12,
   groupPageSize: 6,
+  createdAt: "2026-09-28T19:55:54.598Z",
+  updatedAt: "2026-10-06T11:37:43.000Z",
 } as const satisfies View

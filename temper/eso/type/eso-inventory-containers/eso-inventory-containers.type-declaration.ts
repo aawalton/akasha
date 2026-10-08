@@ -6,4 +6,6 @@ export const esoInventoryContainers = {
   slug: "eso-inventory-containers",
   definition: "the game's numbers for its bags",
   d: "ts",
+  createdAt: "2026-09-02T05:20:24.712Z",
+  updatedAt: "2026-09-22T13:46:31.000Z",
 } as const satisfies TypeDeclaration

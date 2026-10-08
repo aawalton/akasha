@@ -5,4 +5,6 @@ export const demonicCityBuilderLitrpgCityKingdomBuilding = {
   type: "page-type/world",
   slug: "demonic-city-builder-litrpg-city-kingdom-building",
   title: "Demonic City Builder [LitRPG, City & Kingdom Building]",
+  createdAt: "2026-09-02T20:38:40.370Z",
+  updatedAt: "2026-09-15T16:39:29.000Z",
 } as const satisfies World

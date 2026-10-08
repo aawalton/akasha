@@ -9,4 +9,6 @@ export const kubeProxy = {
   resourceKind: "DaemonSet",
   namespace: "kube-system",
   resourceName: "kube-proxy",
+  createdAt: "2026-09-03T20:10:54.460Z",
+  updatedAt: "2026-09-24T19:06:05.000Z",
 } as const satisfies VendoredWorkload

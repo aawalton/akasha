@@ -6,4 +6,6 @@ export const esoWorldMapFilters = {
   slug: "eso-world-map-filters",
   definition: "the filters over the world map's shown pins",
   d: "ts",
+  createdAt: "2026-09-02T05:20:24.716Z",
+  updatedAt: "2026-09-22T13:53:26.000Z",
 } as const satisfies TypeDeclaration

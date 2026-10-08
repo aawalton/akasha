@@ -5,4 +5,6 @@ export const pageDetailCouldNotLoad = {
   type: "page-type/web-phrase",
   slug: "page-detail-could-not-load",
   title: "This page couldn't load",
+  createdAt: "2026-09-27T14:29:44.028Z",
+  updatedAt: "2026-09-27T14:29:49.000Z",
 } as const satisfies WebPhrase

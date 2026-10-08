@@ -6,4 +6,6 @@ export const otherwhereIxTamsinRook = {
   slug: "otherwhere-ix-tamsin-rook",
   title: "Tamsin Rook",
   world: "world/mana-devourer-litrpgmana-cultivation",
+  createdAt: "2026-09-28T23:01:09.023Z",
+  updatedAt: "2026-09-28T23:01:15.000Z",
 } as const satisfies WorldCharacter

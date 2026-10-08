@@ -21,4 +21,6 @@ export const esoMainMenuBar = {
       statement: "A descriptor is spelled out at each use rather than named once.",
     },
   ],
+  createdAt: "2026-09-02T12:00:36.502Z",
+  updatedAt: "2026-09-21T15:28:07.000Z",
 } as const satisfies TypeDeclaration

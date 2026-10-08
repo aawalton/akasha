@@ -5,4 +5,6 @@ export const pageDetailTryAgain = {
   type: "page-type/web-phrase",
   slug: "page-detail-try-again",
   title: "Try again",
+  createdAt: "2026-09-27T14:29:44.028Z",
+  updatedAt: "2026-09-27T14:29:49.000Z",
 } as const satisfies WebPhrase

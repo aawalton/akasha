@@ -9,4 +9,6 @@ export const reputationsAlphabetical = {
   pageType: "page-type/world-reputation",
   viewPlace: 1,
   viewSorts: [{ key: "title", descending: false }],
+  createdAt: "2026-09-22T13:35:25.251Z",
+  updatedAt: "2026-09-28T22:16:42.000Z",
 } as const satisfies View

@@ -6,4 +6,6 @@ export const setsApi = {
   slug: "sets-api",
   definition: "what lib-sets answers about a set's kind and its perfected twin",
   d: "ts",
+  createdAt: "2026-09-02T10:44:24.023Z",
+  updatedAt: "2026-09-22T02:35:44.000Z",
 } as const satisfies TypeDeclaration

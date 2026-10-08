@@ -14,4 +14,6 @@ export const learn = {
   scale: "readout-scale/green-day-units",
   groups: ["readout-group/values"],
   parts: ["domain/mathematics"],
+  createdAt: "2026-06-11T17:53:08.210Z",
+  updatedAt: "2026-09-15T16:37:11.000Z",
 } as const satisfies Value

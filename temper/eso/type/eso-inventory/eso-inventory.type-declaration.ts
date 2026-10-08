@@ -6,4 +6,6 @@ export const esoInventory = {
   slug: "eso-inventory",
   definition: "the calls reading a bag for an add-on",
   d: "ts",
+  createdAt: "2026-09-02T05:20:24.711Z",
+  updatedAt: "2026-09-22T13:53:26.000Z",
 } as const satisfies TypeDeclaration

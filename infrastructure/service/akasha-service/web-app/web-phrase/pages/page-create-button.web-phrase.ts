@@ -5,4 +5,6 @@ export const pageCreateButton = {
   type: "page-type/web-phrase",
   slug: "page-create-button",
   title: "Create",
+  createdAt: "2026-09-27T14:39:51.165Z",
+  updatedAt: "2026-09-27T14:39:54.000Z",
 } as const satisfies WebPhrase

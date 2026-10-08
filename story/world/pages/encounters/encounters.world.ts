@@ -7,4 +7,6 @@ export const encounters = {
   title: "Encounters",
   description:
     "The real world, now, with Alan as himself. He is the same man in every chapter, and what happened to him in earlier chapters stays his history. Each chapter is its own place and its own night, set by the premise Alan gives for it.",
+  createdAt: "2026-10-06T20:54:26.824Z",
+  updatedAt: "2026-10-06T20:59:58.000Z",
 } as const satisfies World

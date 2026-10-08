@@ -6,4 +6,6 @@ export const lorebooksControls = {
   slug: "lorebooks-controls",
   definition: "the controls this add-on's markup creates",
   d: "ts",
+  createdAt: "2026-09-02T09:32:38.340Z",
+  updatedAt: "2026-09-21T15:34:26.000Z",
 } as const satisfies TypeDeclaration

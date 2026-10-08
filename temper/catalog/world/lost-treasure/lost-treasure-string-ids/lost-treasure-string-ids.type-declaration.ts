@@ -6,4 +6,6 @@ export const lostTreasureStringIds = {
   slug: "lost-treasure-string-ids",
   definition: "the string identifiers under which this add-on registers its own English text",
   d: "ts",
+  createdAt: "2026-09-02T08:34:37.700Z",
+  updatedAt: "2026-09-22T14:14:06.000Z",
 } as const satisfies TypeDeclaration

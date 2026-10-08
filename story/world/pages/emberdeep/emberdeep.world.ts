@@ -7,4 +7,6 @@ export const emberdeep = {
   title: "Emberdeep",
   description:
     "A mountain town built around the mouth of the Deep, a vast old dungeon whose bottom no one has found. Delving is a trade here like any other: the Delvers' Guild registers and ranks parties, finds are sold in the market, healers mend whoever comes up hurt, and the taverns and rooming houses live off all of it. The ember-stones carried up from below light and warm the town. Nala wakes in a rented room there on the morning she is to register as a delver.",
+  createdAt: "2026-10-02T17:33:20.798Z",
+  updatedAt: "2026-10-02T17:33:23.000Z",
 } as const satisfies World

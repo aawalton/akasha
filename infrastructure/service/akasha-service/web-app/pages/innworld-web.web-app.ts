@@ -11,4 +11,6 @@ export const innworldWeb = {
   basePort: 3800,
   secretResource: "innworld-secrets",
   serviceClusters: ["service-cluster/innworld-web"],
+  createdAt: "2026-09-21T21:38:56.461Z",
+  updatedAt: "2026-09-27T12:32:11.000Z",
 } as const satisfies WebApp

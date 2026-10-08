@@ -5,4 +5,6 @@ export const featureRequestBoosted = {
   type: "page-type/web-phrase",
   slug: "feature-request-boosted",
   title: "Your points are behind this request. They stay there until Alan builds it or denies it.",
+  createdAt: "2026-09-27T12:22:17.431Z",
+  updatedAt: "2026-09-27T12:22:20.000Z",
 } as const satisfies WebPhrase

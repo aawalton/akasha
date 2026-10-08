@@ -5,4 +5,6 @@ export const pageCreateUnknownError = {
   type: "page-type/web-phrase",
   slug: "page-create-unknown-error",
   title: "Unknown error",
+  createdAt: "2026-09-27T14:39:51.166Z",
+  updatedAt: "2026-09-27T14:39:54.000Z",
 } as const satisfies WebPhrase

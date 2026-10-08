@@ -5,4 +5,6 @@ export const quickAddRemove = {
   type: "page-type/web-phrase",
   slug: "quick-add-remove",
   title: "Remove {chip}",
+  createdAt: "2026-09-27T14:42:11.126Z",
+  updatedAt: "2026-09-27T14:42:32.000Z",
 } as const satisfies WebPhrase

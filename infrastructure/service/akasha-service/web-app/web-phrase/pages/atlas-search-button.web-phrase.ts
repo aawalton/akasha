@@ -5,4 +5,6 @@ export const atlasSearchButton = {
   type: "page-type/web-phrase",
   slug: "atlas-search-button",
   title: "Search",
+  createdAt: "2026-09-27T12:28:49.595Z",
+  updatedAt: "2026-09-27T12:28:52.000Z",
 } as const satisfies WebPhrase

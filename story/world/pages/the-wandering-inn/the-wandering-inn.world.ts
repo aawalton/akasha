@@ -7,4 +7,6 @@ export const theWanderingInn = {
   title: "The Wandering Inn",
   characterReadings: "jsonl",
   mechanicReadings: "jsonl",
+  createdAt: "2026-09-02T20:36:23.243Z",
+  updatedAt: "2026-09-15T16:39:29.000Z",
 } as const satisfies World

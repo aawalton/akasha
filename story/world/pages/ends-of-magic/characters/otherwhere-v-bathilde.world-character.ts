@@ -6,4 +6,6 @@ export const otherwhereVBathilde = {
   slug: "otherwhere-v-bathilde",
   title: "Bathilde",
   world: "world/ends-of-magic",
+  createdAt: "2026-09-28T21:41:58.957Z",
+  updatedAt: "2026-09-28T21:42:02.000Z",
 } as const satisfies WorldCharacter

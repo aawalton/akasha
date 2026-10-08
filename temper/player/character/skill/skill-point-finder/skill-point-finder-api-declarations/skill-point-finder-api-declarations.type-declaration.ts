@@ -6,4 +6,6 @@ export const skillPointFinderApiDeclarations = {
   slug: "skill-point-finder-api-declarations",
   definition: "the shape of the global object the skill point window is offered as",
   d: "ts",
+  createdAt: "2026-09-02T13:33:54.630Z",
+  updatedAt: "2026-09-21T15:46:08.000Z",
 } as const satisfies TypeDeclaration

@@ -13,4 +13,6 @@ export const personasAll = {
   galleryCardSize: "medium",
   viewSorts: [{ key: "slug", descending: false }],
   visibleProperties: [],
+  createdAt: "2026-09-26T16:03:38.568Z",
+  updatedAt: "2026-09-26T16:03:46.000Z",
 } as const satisfies View

@@ -5,4 +5,6 @@ export const ultimateLevel1LitrpgBook11Stubs310 = {
   type: "page-type/world",
   slug: "ultimate-level-1-litrpg-book-11-stubs-310",
   title: "Ultimate Level 1 LitRPG - Book 11 Stubs 3/10",
+  createdAt: "2026-09-02T20:38:40.370Z",
+  updatedAt: "2026-09-15T16:39:29.000Z",
 } as const satisfies World

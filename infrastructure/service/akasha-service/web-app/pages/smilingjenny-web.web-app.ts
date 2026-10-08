@@ -10,4 +10,6 @@ export const smilingjennyWeb = {
   buildCommand: "bun run build",
   secretResource: "smilingjenny-secrets",
   serviceClusters: ["service-cluster/smilingjenny-web"],
+  createdAt: "2026-09-01T04:07:55.830Z",
+  updatedAt: "2026-09-27T11:59:05.000Z",
 } as const satisfies WebApp

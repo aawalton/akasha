@@ -12,4 +12,6 @@ export const booksCompleted = {
   narrows: [{ key: "status", comparison: "is", values: ["Completed"] }],
   viewSorts: [{ key: "completed-at", descending: true }],
   visibleProperties: ["status", "grade", "completed-at"],
+  createdAt: "2026-09-03T04:11:42.484Z",
+  updatedAt: "2026-09-21T19:33:21.000Z",
 } as const satisfies View

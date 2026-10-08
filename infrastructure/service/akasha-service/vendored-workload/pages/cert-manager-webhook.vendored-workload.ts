@@ -9,4 +9,6 @@ export const certManagerWebhook = {
   resourceKind: "Deployment",
   namespace: "cert-manager",
   resourceName: "cert-manager-webhook",
+  createdAt: "2026-09-03T20:10:54.460Z",
+  updatedAt: "2026-09-24T19:06:05.000Z",
 } as const satisfies VendoredWorkload

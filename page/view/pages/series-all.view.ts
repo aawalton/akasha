@@ -10,4 +10,6 @@ export const seriesAll = {
   viewPlace: 0,
   layout: "cards",
   viewSorts: [{ key: "title", descending: false }],
+  createdAt: "2026-09-03T04:11:42.485Z",
+  updatedAt: "2026-09-15T16:37:59.000Z",
 } as const satisfies View

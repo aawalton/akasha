@@ -6,4 +6,6 @@ export const otherwhereIxTheWageringGoddess = {
   slug: "otherwhere-ix-the-wagering-goddess",
   title: "The Wagering Goddess",
   world: "world/mana-devourer-litrpgmana-cultivation",
+  createdAt: "2026-09-28T22:51:03.645Z",
+  updatedAt: "2026-09-28T22:51:08.000Z",
 } as const satisfies WorldCharacter

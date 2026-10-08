@@ -6,4 +6,6 @@ export const otherwhereVOlita = {
   slug: "otherwhere-v-olita",
   title: "Olita",
   world: "world/ends-of-magic",
+  createdAt: "2026-09-28T21:45:31.404Z",
+  updatedAt: "2026-09-28T21:45:34.000Z",
 } as const satisfies WorldCharacter

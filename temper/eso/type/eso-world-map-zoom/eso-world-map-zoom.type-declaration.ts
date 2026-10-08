@@ -6,4 +6,6 @@ export const esoWorldMapZoom = {
   slug: "eso-world-map-zoom",
   definition: "the world map's zoom buttons and the call its mouse wheel makes",
   d: "ts",
+  createdAt: "2026-09-02T08:44:35.679Z",
+  updatedAt: "2026-09-21T15:28:07.000Z",
 } as const satisfies TypeDeclaration

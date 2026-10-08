@@ -6,4 +6,6 @@ export const otherwhereVDorvanHesk = {
   slug: "otherwhere-v-dorvan-hesk",
   title: "Dorvan Hesk",
   world: "world/ends-of-magic",
+  createdAt: "2026-09-28T21:55:53.047Z",
+  updatedAt: "2026-09-28T21:55:55.000Z",
 } as const satisfies WorldCharacter

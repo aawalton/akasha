@@ -9,4 +9,6 @@ export const superSupportiveBodyModification = {
   aliases: ["enhancements", "genetic modification"],
   description:
     "Magical or genetic changes to a body, such as enhanced bones or reconfigured immune systems.",
+  createdAt: "2026-09-28T21:34:06.323Z",
+  updatedAt: "2026-09-28T21:34:09.000Z",
 } as const satisfies WorldAspect

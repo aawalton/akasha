@@ -6,4 +6,6 @@ export const otherwhereXiEarthFireBleedingFromAMountainFlank = {
   slug: "otherwhere-xi-earth-fire-bleeding-from-a-mountain-flank",
   title: "Earth-Fire-Bleeding-from-a-Mountain-Flank",
   world: "world/the-calamitous-bob-stubbed",
+  createdAt: "2026-09-29T00:10:42.117Z",
+  updatedAt: "2026-09-29T00:10:52.000Z",
 } as const satisfies WorldCharacter

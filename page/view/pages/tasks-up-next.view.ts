@@ -17,4 +17,6 @@ export const tasksUpNext = {
     { key: "due-time", descending: false },
   ],
   visibleProperties: ["priority", "to-do-due-date", "due-time"],
+  createdAt: "2026-09-03T04:11:42.485Z",
+  updatedAt: "2026-09-21T18:59:45.000Z",
 } as const satisfies View

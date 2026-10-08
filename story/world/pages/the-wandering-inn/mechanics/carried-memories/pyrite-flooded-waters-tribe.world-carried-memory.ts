@@ -6,4 +6,6 @@ export const pyriteFloodedWatersTribe = {
   slug: "pyrite-flooded-waters-tribe",
   title: "Pyrite, Flooded Waters Tribe",
   world: "world/the-wandering-inn",
+  createdAt: "2026-09-03T03:39:53.864Z",
+  updatedAt: "2026-09-19T16:16:00.000Z",
 } as const satisfies WorldCarriedMemory

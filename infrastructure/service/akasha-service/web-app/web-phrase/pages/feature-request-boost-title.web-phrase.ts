@@ -5,4 +5,6 @@ export const featureRequestBoostTitle = {
   type: "page-type/web-phrase",
   slug: "feature-request-boost-title",
   title: "Boost this request",
+  createdAt: "2026-09-27T12:22:17.431Z",
+  updatedAt: "2026-09-27T13:17:07.000Z",
 } as const satisfies WebPhrase

@@ -6,4 +6,6 @@ export const otherwhereVTirien = {
   slug: "otherwhere-v-tirien",
   title: "Tirien",
   world: "world/ends-of-magic",
+  createdAt: "2026-09-28T21:46:02.902Z",
+  updatedAt: "2026-09-28T21:46:06.000Z",
 } as const satisfies WorldCharacter

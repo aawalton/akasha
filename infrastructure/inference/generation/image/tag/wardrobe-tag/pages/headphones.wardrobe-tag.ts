@@ -4,4 +4,6 @@ export const headphones = {
   id: "01a0e382-46dd-74db-8487-50cefd1c1bbe",
   type: "page-type/wardrobe-tag",
   slug: "headphones",
+  createdAt: "2026-09-27T15:36:00.989Z",
+  updatedAt: "2026-09-27T15:36:04.000Z",
 } as const satisfies WardrobeTag

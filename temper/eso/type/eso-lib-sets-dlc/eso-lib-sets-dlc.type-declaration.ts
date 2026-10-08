@@ -6,4 +6,6 @@ export const esoLibSetsDlc = {
   slug: "eso-lib-sets-dlc",
   definition: "the game's number for every chapter, dungeon pack and zone release",
   d: "ts",
+  createdAt: "2026-09-02T10:45:54.171Z",
+  updatedAt: "2026-09-21T15:28:07.000Z",
 } as const satisfies TypeDeclaration

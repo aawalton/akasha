@@ -11,4 +11,6 @@ export const seatsAll = {
   layout: "list",
   viewSorts: [{ key: "slug", descending: false }],
   visibleProperties: [],
+  createdAt: "2026-09-24T15:48:20.424Z",
+  updatedAt: "2026-09-27T17:29:48.000Z",
 } as const satisfies View

@@ -5,4 +5,6 @@ export const pageDetailInterrupted = {
   type: "page-type/web-phrase",
   slug: "page-detail-interrupted",
   title: "An unexpected error interrupted this page.",
+  createdAt: "2026-09-27T14:29:44.028Z",
+  updatedAt: "2026-09-27T14:29:49.000Z",
 } as const satisfies WebPhrase

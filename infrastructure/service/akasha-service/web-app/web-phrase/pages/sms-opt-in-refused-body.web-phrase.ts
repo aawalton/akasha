@@ -6,4 +6,6 @@ export const smsOptInRefusedBody = {
   slug: "sms-opt-in-refused-body",
   title:
     "Please enter your name, a valid mobile number, and check the box to agree to receive messages.",
+  createdAt: "2026-09-27T14:24:25.089Z",
+  updatedAt: "2026-09-27T14:24:29.000Z",
 } as const satisfies WebPhrase

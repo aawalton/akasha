@@ -6,4 +6,6 @@ export const otherwhereIxFishGuard = {
   slug: "otherwhere-ix-fish-guard",
   title: "The Fish-Folk Cell Guard",
   world: "world/mana-devourer-litrpgmana-cultivation",
+  createdAt: "2026-09-28T23:01:36.370Z",
+  updatedAt: "2026-09-28T23:01:39.000Z",
 } as const satisfies WorldCharacter

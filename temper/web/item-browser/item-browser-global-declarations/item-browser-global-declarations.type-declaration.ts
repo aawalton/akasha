@@ -6,4 +6,6 @@ export const itemBrowserGlobalDeclarations = {
   slug: "item-browser-global-declarations",
   definition: "the three row handler names this add-on's markup calls back",
   d: "ts",
+  createdAt: "2026-09-02T13:13:39.339Z",
+  updatedAt: "2026-09-22T13:57:47.000Z",
 } as const satisfies TypeDeclaration

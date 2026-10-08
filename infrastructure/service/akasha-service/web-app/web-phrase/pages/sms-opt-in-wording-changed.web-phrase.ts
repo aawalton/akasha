@@ -5,4 +5,6 @@ export const smsOptInWordingChanged = {
   type: "page-type/web-phrase",
   slug: "sms-opt-in-wording-changed",
   title: "The wording has changed since this page opened. Please read it again.",
+  createdAt: "2026-09-27T14:24:25.089Z",
+  updatedAt: "2026-09-27T14:24:29.000Z",
 } as const satisfies WebPhrase

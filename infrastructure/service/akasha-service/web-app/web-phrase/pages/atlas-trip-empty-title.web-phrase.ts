@@ -5,4 +5,6 @@ export const atlasTripEmptyTitle = {
   type: "page-type/web-phrase",
   slug: "atlas-trip-empty-title",
   title: "No stops on this trip yet",
+  createdAt: "2026-09-27T12:27:02.279Z",
+  updatedAt: "2026-09-27T12:27:05.000Z",
 } as const satisfies WebPhrase

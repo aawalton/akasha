@@ -5,4 +5,6 @@ export const riseOfTheLivingForge = {
   type: "page-type/world",
   slug: "rise-of-the-living-forge",
   title: "Rise of the Living Forge",
+  createdAt: "2026-09-02T20:38:40.370Z",
+  updatedAt: "2026-09-15T16:39:29.000Z",
 } as const satisfies World

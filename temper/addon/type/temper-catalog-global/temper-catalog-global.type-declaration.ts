@@ -6,4 +6,6 @@ export const temperCatalogGlobal = {
   slug: "temper-catalog-global",
   definition: "the global the Temper catalog add-on publishes",
   d: "ts",
+  createdAt: "2026-09-02T20:06:07.333Z",
+  updatedAt: "2026-09-21T17:56:05.000Z",
 } as const satisfies TypeDeclaration

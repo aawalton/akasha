@@ -9,4 +9,6 @@ export const worldsAlphabetical = {
   pageType: "page-type/world",
   viewPlace: 0,
   viewSorts: [{ key: "title", descending: false }],
+  createdAt: "2026-09-28T22:17:26.416Z",
+  updatedAt: "2026-09-28T22:17:33.000Z",
 } as const satisfies View

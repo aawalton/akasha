@@ -8,4 +8,6 @@ export const apiBase = {
   definition: "where code sends messages to a model provider",
   maxLength: 200,
   types: "ts",
+  createdAt: "2026-09-14T22:37:53.495Z",
+  updatedAt: "2026-09-25T18:01:50.000Z",
 } as const satisfies UrlProperty

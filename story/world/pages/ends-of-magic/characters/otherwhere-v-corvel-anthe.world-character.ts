@@ -6,4 +6,6 @@ export const otherwhereVCorvelAnthe = {
   slug: "otherwhere-v-corvel-anthe",
   title: "Corvel Anthe",
   world: "world/ends-of-magic",
+  createdAt: "2026-09-28T21:57:09.961Z",
+  updatedAt: "2026-09-28T21:57:12.000Z",
 } as const satisfies WorldCharacter

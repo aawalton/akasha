@@ -6,4 +6,6 @@ export const esoReticleInteraction = {
   slug: "eso-reticle-interaction",
   definition: "the game's reticle and the names it gives each interaction",
   d: "ts",
+  createdAt: "2026-09-02T11:34:32.430Z",
+  updatedAt: "2026-09-22T14:05:53.000Z",
 } as const satisfies TypeDeclaration

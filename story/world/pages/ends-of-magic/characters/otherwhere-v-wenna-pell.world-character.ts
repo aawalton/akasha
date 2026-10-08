@@ -6,4 +6,6 @@ export const otherwhereVWennaPell = {
   slug: "otherwhere-v-wenna-pell",
   title: "Wenna Pell",
   world: "world/ends-of-magic",
+  createdAt: "2026-09-28T21:56:17.826Z",
+  updatedAt: "2026-09-28T21:56:21.000Z",
 } as const satisfies WorldCharacter

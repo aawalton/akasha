@@ -6,4 +6,6 @@ export const otherwhereXiJarkoTheUndying = {
   slug: "otherwhere-xi-jarko-the-undying",
   title: "Jar'ko the Undying",
   world: "world/the-calamitous-bob-stubbed",
+  createdAt: "2026-09-29T00:19:36.326Z",
+  updatedAt: "2026-09-29T00:19:39.000Z",
 } as const satisfies WorldCharacter

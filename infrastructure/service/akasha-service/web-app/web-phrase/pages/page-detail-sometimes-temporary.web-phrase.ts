@@ -5,4 +5,6 @@ export const pageDetailSometimesTemporary = {
   type: "page-type/web-phrase",
   slug: "page-detail-sometimes-temporary",
   title: "The page didn't load. This is sometimes temporary.",
+  createdAt: "2026-09-27T14:29:44.028Z",
+  updatedAt: "2026-09-27T14:29:49.000Z",
 } as const satisfies WebPhrase

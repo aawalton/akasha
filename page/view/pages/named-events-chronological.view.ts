@@ -9,4 +9,6 @@ export const namedEventsChronological = {
   pageType: "page-type/named-event",
   viewPlace: 0,
   viewSorts: [{ key: "first-chapter", descending: false }],
+  createdAt: "2026-09-22T13:35:25.645Z",
+  updatedAt: "2026-09-28T22:16:42.000Z",
 } as const satisfies View

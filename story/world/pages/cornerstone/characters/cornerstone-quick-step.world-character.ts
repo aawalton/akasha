@@ -6,4 +6,6 @@ export const cornerstoneQuickStep = {
   slug: "cornerstone-quick-step",
   title: "Quick-Step",
   world: "world/cornerstone",
+  createdAt: "2026-09-26T17:27:51.034Z",
+  updatedAt: "2026-09-26T17:27:54.000Z",
 } as const satisfies WorldCharacter

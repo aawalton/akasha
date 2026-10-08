@@ -9,4 +9,6 @@ export const charactersAlphabetical = {
   pageType: "page-type/world-character",
   viewPlace: 1,
   viewSorts: [{ key: "title", descending: false }],
+  createdAt: "2026-09-22T13:14:31.317Z",
+  updatedAt: "2026-09-28T22:16:42.000Z",
 } as const satisfies View

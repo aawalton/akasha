@@ -8,4 +8,6 @@ export const externalLink = {
   definition: "the page at a collection's source",
   maxLength: 200,
   types: "ts",
+  createdAt: "2026-09-02T20:44:59.872Z",
+  updatedAt: "2026-09-22T13:59:16.000Z",
 } as const satisfies UrlProperty

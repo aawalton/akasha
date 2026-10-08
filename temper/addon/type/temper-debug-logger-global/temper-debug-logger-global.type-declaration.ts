@@ -6,4 +6,6 @@ export const temperDebugLoggerGlobal = {
   slug: "temper-debug-logger-global",
   definition: "the log global the Temper add-on publishes, and the viewer that reads it",
   d: "ts",
+  createdAt: "2026-09-02T05:21:47.954Z",
+  updatedAt: "2026-09-22T04:29:25.000Z",
 } as const satisfies TypeDeclaration

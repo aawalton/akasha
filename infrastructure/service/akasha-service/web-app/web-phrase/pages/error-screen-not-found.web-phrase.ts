@@ -5,4 +5,6 @@ export const errorScreenNotFound = {
   type: "page-type/web-phrase",
   slug: "error-screen-not-found",
   title: "The requested page could not be found.",
+  createdAt: "2026-09-27T14:24:25.089Z",
+  updatedAt: "2026-09-27T16:13:50.000Z",
 } as const satisfies WebPhrase

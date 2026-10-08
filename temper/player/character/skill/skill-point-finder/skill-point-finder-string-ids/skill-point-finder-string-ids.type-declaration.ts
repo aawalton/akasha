@@ -6,4 +6,6 @@ export const skillPointFinderStringIds = {
   slug: "skill-point-finder-string-ids",
   definition: "the string identifiers the skill point window's markup leaves in reach",
   d: "ts",
+  createdAt: "2026-09-02T07:01:36.969Z",
+  updatedAt: "2026-09-21T15:46:08.000Z",
 } as const satisfies TypeDeclaration

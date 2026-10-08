@@ -6,4 +6,6 @@ export const dungeonChampionSavedVarsDeclarations = {
   slug: "dungeon-champion-saved-vars-declarations",
   definition: "the global name the game gives this add-on's saved variables",
   d: "ts",
+  createdAt: "2026-09-02T13:46:56.133Z",
+  updatedAt: "2026-09-22T13:57:49.000Z",
 } as const satisfies TypeDeclaration

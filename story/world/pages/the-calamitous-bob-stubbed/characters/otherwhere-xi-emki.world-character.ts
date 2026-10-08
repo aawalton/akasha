@@ -6,4 +6,6 @@ export const otherwhereXiEmki = {
   slug: "otherwhere-xi-emki",
   title: "Chief Emki",
   world: "world/the-calamitous-bob-stubbed",
+  createdAt: "2026-09-29T00:11:28.166Z",
+  updatedAt: "2026-09-29T00:11:32.000Z",
 } as const satisfies WorldCharacter

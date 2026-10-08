@@ -5,4 +5,6 @@ export const featureRequestAskLabel = {
   type: "page-type/web-phrase",
   slug: "feature-request-ask-label",
   title: "What do you want Alan to build?",
+  createdAt: "2026-09-27T12:22:17.431Z",
+  updatedAt: "2026-09-27T12:22:20.000Z",
 } as const satisfies WebPhrase

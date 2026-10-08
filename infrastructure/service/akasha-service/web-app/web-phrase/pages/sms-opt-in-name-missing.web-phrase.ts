@@ -5,4 +5,6 @@ export const smsOptInNameMissing = {
   type: "page-type/web-phrase",
   slug: "sms-opt-in-name-missing",
   title: "Please enter your full name.",
+  createdAt: "2026-09-27T14:24:25.089Z",
+  updatedAt: "2026-09-27T14:24:29.000Z",
 } as const satisfies WebPhrase

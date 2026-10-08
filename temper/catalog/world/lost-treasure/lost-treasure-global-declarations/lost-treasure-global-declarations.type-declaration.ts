@@ -6,4 +6,6 @@ export const lostTreasureGlobalDeclarations = {
   slug: "lost-treasure-global-declarations",
   definition: "the name this add-on's own markup gives its three calls",
   d: "ts",
+  createdAt: "2026-09-02T13:30:33.483Z",
+  updatedAt: "2026-09-22T14:05:15.000Z",
 } as const satisfies TypeDeclaration

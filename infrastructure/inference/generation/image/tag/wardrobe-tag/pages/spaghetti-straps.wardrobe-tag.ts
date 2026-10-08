@@ -4,4 +4,6 @@ export const spaghettiStraps = {
   id: "01a0e382-46de-7fe3-abb0-4156ebe65bd5",
   type: "page-type/wardrobe-tag",
   slug: "spaghetti-straps",
+  createdAt: "2026-09-27T15:36:00.990Z",
+  updatedAt: "2026-09-27T15:36:04.000Z",
 } as const satisfies WardrobeTag

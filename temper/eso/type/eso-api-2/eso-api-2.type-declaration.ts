@@ -6,4 +6,6 @@ export const esoApi2 = {
   slug: "eso-api-2",
   definition: "a second set of the game calls an add-on makes",
   d: "ts",
+  createdAt: "2026-09-02T05:20:24.699Z",
+  updatedAt: "2026-09-21T15:28:07.000Z",
 } as const satisfies TypeDeclaration

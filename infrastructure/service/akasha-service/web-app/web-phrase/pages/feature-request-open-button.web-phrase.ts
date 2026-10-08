@@ -5,4 +5,6 @@ export const featureRequestOpenButton = {
   type: "page-type/web-phrase",
   slug: "feature-request-open-button",
   title: "Open it for {cost} points",
+  createdAt: "2026-09-27T12:22:17.431Z",
+  updatedAt: "2026-09-27T12:22:20.000Z",
 } as const satisfies WebPhrase

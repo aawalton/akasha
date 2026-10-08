@@ -6,4 +6,6 @@ export const otherwhereXiKit = {
   slug: "otherwhere-xi-kit",
   title: "Kit",
   world: "world/the-calamitous-bob-stubbed",
+  createdAt: "2026-09-29T00:24:31.996Z",
+  updatedAt: "2026-09-29T00:24:38.000Z",
 } as const satisfies WorldCharacter

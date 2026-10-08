@@ -6,4 +6,6 @@ export const otherwhereVBrannocTull = {
   slug: "otherwhere-v-brannoc-tull",
   title: "Brannoc Tull",
   world: "world/ends-of-magic",
+  createdAt: "2026-09-28T21:54:59.965Z",
+  updatedAt: "2026-09-28T21:55:04.000Z",
 } as const satisfies WorldCharacter

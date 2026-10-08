@@ -6,4 +6,6 @@ export const esoUi3 = {
   slug: "eso-ui-3",
   definition: "a third set of the controls the game draws",
   d: "ts",
+  createdAt: "2026-09-02T05:20:24.716Z",
+  updatedAt: "2026-09-21T15:28:07.000Z",
 } as const satisfies TypeDeclaration

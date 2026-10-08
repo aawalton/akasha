@@ -6,4 +6,6 @@ export const otherwhereVMirus = {
   slug: "otherwhere-v-mirus",
   title: "Mirus of the Silver",
   world: "world/ends-of-magic",
+  createdAt: "2026-09-28T21:47:36.375Z",
+  updatedAt: "2026-09-28T21:47:39.000Z",
 } as const satisfies WorldCharacter

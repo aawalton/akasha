@@ -5,4 +5,6 @@ export const featureRequestBoostButton = {
   type: "page-type/web-phrase",
   slug: "feature-request-boost-button",
   title: "Boost it",
+  createdAt: "2026-09-27T12:22:17.431Z",
+  updatedAt: "2026-09-27T12:22:20.000Z",
 } as const satisfies WebPhrase

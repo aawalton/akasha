@@ -6,4 +6,6 @@ export const esoInterfaceExtra = {
   slug: "eso-interface-extra",
   definition: "the game's interface globals the generated typing files leave out",
   d: "ts",
+  createdAt: "2026-09-02T07:07:08.936Z",
+  updatedAt: "2026-09-21T15:28:07.000Z",
 } as const satisfies TypeDeclaration

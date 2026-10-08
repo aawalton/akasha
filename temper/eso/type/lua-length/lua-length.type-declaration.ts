@@ -6,4 +6,6 @@ export const luaLength = {
   slug: "lua-length",
   definition: "the length of a Lua table, reached as a language extension",
   d: "ts",
+  createdAt: "2026-09-02T09:25:05.041Z",
+  updatedAt: "2026-09-21T15:28:07.000Z",
 } as const satisfies TypeDeclaration

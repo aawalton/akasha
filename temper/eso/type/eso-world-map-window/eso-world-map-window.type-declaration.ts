@@ -7,4 +7,6 @@ export const esoWorldMapWindow = {
   definition:
     "the world map window's controls, manager modes, wrapped functions, fragments, scenes and string ids",
   d: "ts",
+  createdAt: "2026-09-02T13:57:34.618Z",
+  updatedAt: "2026-09-21T15:28:07.000Z",
 } as const satisfies TypeDeclaration

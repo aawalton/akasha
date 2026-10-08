@@ -5,4 +5,6 @@ export const errorScreenErrorTitle = {
   type: "page-type/web-phrase",
   slug: "error-screen-error-title",
   title: "Error",
+  createdAt: "2026-09-27T14:24:25.088Z",
+  updatedAt: "2026-09-27T14:24:29.000Z",
 } as const satisfies WebPhrase

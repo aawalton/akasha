@@ -6,4 +6,6 @@ export const minutes = {
   slug: "minutes",
   definition: "a length counted in minutes of time",
   words: 250,
+  createdAt: "2026-09-02T20:44:59.872Z",
+  updatedAt: "2026-09-15T16:33:59.000Z",
 } as const satisfies Unit

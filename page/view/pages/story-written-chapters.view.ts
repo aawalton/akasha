@@ -61,4 +61,6 @@ export const storyWrittenChapters = {
   pageSize: 50,
   itemPageSize: 12,
   groupPageSize: 6,
+  createdAt: "2026-09-28T20:47:58.908Z",
+  updatedAt: "2026-10-03T18:43:04.000Z",
 } as const satisfies View

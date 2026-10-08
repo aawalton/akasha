@@ -5,4 +5,6 @@ export const fiveElementOverlordICanUpgradeEverything = {
   type: "page-type/world",
   slug: "five-element-overlord-i-can-upgrade-everything",
   title: "Five Element Overlord: I Can Upgrade Everything!",
+  createdAt: "2026-09-02T20:38:40.370Z",
+  updatedAt: "2026-09-15T16:39:29.000Z",
 } as const satisfies World

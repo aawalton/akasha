@@ -6,4 +6,6 @@ export const temperScrollableMenuGlobal = {
   slug: "temper-scrollable-menu-global",
   definition: "the scrollable context menu another add-on publishes as globals",
   d: "ts",
+  createdAt: "2026-09-02T07:46:08.193Z",
+  updatedAt: "2026-09-22T04:20:35.000Z",
 } as const satisfies TypeDeclaration

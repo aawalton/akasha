@@ -7,4 +7,6 @@ export const hyrule = {
   title: "Hyrule",
   description:
     "A kingdom a hundred years after its Calamity, its castle still ringed in malice, its people scattered across a wilderness grown up over everything the old world built.",
+  createdAt: "2026-09-02T20:38:40.370Z",
+  updatedAt: "2026-09-15T16:39:29.000Z",
 } as const satisfies World

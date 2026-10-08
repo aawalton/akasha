@@ -12,4 +12,6 @@ export const seatsPersonas = {
   narrows: [{ key: "seat-section", comparison: "is", values: ["personas"] }],
   viewSorts: [{ key: "slug", descending: false }],
   visibleProperties: [],
+  createdAt: "2026-09-27T17:29:46.082Z",
+  updatedAt: "2026-09-27T17:29:48.000Z",
 } as const satisfies View

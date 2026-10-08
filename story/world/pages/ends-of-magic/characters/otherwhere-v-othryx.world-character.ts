@@ -6,4 +6,6 @@ export const otherwhereVOthryx = {
   slug: "otherwhere-v-othryx",
   title: "Othryx",
   world: "world/ends-of-magic",
+  createdAt: "2026-09-28T21:46:02.901Z",
+  updatedAt: "2026-09-28T21:46:06.000Z",
 } as const satisfies WorldCharacter

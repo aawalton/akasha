@@ -5,4 +5,6 @@ export const delverDungeonDivingAndMagicLitrpg = {
   type: "page-type/world",
   slug: "delver-dungeon-diving-and-magic-litrpg",
   title: "Delver [Dungeon Diving and Magic LitRPG]",
+  createdAt: "2026-09-02T20:38:40.370Z",
+  updatedAt: "2026-09-15T16:39:29.000Z",
 } as const satisfies World

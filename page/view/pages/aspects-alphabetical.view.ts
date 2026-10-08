@@ -9,4 +9,6 @@ export const aspectsAlphabetical = {
   pageType: "page-type/world-aspect",
   viewPlace: 1,
   viewSorts: [{ key: "title", descending: false }],
+  createdAt: "2026-09-22T13:35:24.330Z",
+  updatedAt: "2026-09-28T22:16:42.000Z",
 } as const satisfies View

@@ -10,4 +10,6 @@ export const audhdalanWeb = {
   basePort: 3100,
   secretResource: "audhdalan-secrets",
   serviceClusters: ["service-cluster/audhdalan-web"],
+  createdAt: "2026-09-01T04:07:55.830Z",
+  updatedAt: "2026-09-24T19:06:05.000Z",
 } as const satisfies WebApp

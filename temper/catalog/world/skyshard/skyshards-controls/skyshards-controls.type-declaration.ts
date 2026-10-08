@@ -6,4 +6,6 @@ export const skyshardsControls = {
   slug: "skyshards-controls",
   definition: "the control the add-on's settings menu creates by reference name",
   d: "ts",
+  createdAt: "2026-09-02T10:27:15.171Z",
+  updatedAt: "2026-09-21T15:28:00.000Z",
 } as const satisfies TypeDeclaration

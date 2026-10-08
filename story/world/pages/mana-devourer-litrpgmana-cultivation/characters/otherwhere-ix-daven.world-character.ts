@@ -6,4 +6,6 @@ export const otherwhereIxDaven = {
   slug: "otherwhere-ix-daven",
   title: "Daven",
   world: "world/mana-devourer-litrpgmana-cultivation",
+  createdAt: "2026-09-28T22:54:39.141Z",
+  updatedAt: "2026-09-28T22:54:43.000Z",
 } as const satisfies WorldCharacter

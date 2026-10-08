@@ -5,4 +5,6 @@ export const definitelyNotEvilPlans = {
   type: "page-type/world",
   slug: "definitely-not-evil-plans",
   title: "Definitely Not Evil Plans",
+  createdAt: "2026-10-06T23:09:29.492Z",
+  updatedAt: "2026-10-06T23:09:30.000Z",
 } as const satisfies World

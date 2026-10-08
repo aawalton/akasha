@@ -6,4 +6,6 @@ export const otherwhereIxTheForbiddenGoddess = {
   slug: "otherwhere-ix-the-forbidden-goddess",
   title: "The Forbidden Goddess",
   world: "world/mana-devourer-litrpgmana-cultivation",
+  createdAt: "2026-09-28T22:51:03.644Z",
+  updatedAt: "2026-09-28T22:51:08.000Z",
 } as const satisfies WorldCharacter

@@ -5,4 +5,6 @@ export const myLordPleaseACharacterDrivenKingdomBuilding = {
   type: "page-type/world",
   slug: "my-lord-please-a-character-driven-kingdom-building",
   title: "My Lord! Please! (A Character Driven Kingdom Building Novel)",
+  createdAt: "2026-09-02T20:38:40.370Z",
+  updatedAt: "2026-09-15T16:39:29.000Z",
 } as const satisfies World

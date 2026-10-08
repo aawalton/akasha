@@ -5,4 +5,6 @@ export const featureRequestBoostPointsLabel = {
   type: "page-type/web-phrase",
   slug: "feature-request-boost-points-label",
   title: "How many points?",
+  createdAt: "2026-09-27T12:22:17.431Z",
+  updatedAt: "2026-09-27T12:22:20.000Z",
 } as const satisfies WebPhrase

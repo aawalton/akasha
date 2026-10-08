@@ -6,4 +6,6 @@ export const masterMerchant = {
   slug: "master-merchant",
   definition: "what the master-merchant library leaves in another add-on's reach",
   d: "ts",
+  createdAt: "2026-09-02T05:21:47.960Z",
+  updatedAt: "2026-09-21T17:56:05.000Z",
 } as const satisfies TypeDeclaration

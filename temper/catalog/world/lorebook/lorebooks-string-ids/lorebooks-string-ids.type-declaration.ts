@@ -6,4 +6,6 @@ export const lorebooksStringIds = {
   slug: "lorebooks-string-ids",
   definition: "the string identifiers for this add-on's own English text",
   d: "ts",
+  createdAt: "2026-09-02T09:32:38.339Z",
+  updatedAt: "2026-09-22T14:05:15.000Z",
 } as const satisfies TypeDeclaration

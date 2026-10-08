@@ -6,4 +6,6 @@ export const otherwhereXiJar = {
   slug: "otherwhere-xi-jar",
   title: "Jar",
   world: "world/the-calamitous-bob-stubbed",
+  createdAt: "2026-09-29T00:18:41.869Z",
+  updatedAt: "2026-09-29T00:18:48.000Z",
 } as const satisfies WorldCharacter

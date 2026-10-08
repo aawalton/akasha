@@ -8,4 +8,6 @@ export const computerLink = {
   definition: "where its specification is",
   maxLength: 200,
   types: "ts",
+  createdAt: "2026-09-03T04:34:41.946Z",
+  updatedAt: "2026-09-15T16:36:47.000Z",
 } as const satisfies UrlProperty

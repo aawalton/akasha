@@ -6,4 +6,6 @@ export const otherwhereVBrox = {
   slug: "otherwhere-v-brox",
   title: "Brox Thastus",
   world: "world/ends-of-magic",
+  createdAt: "2026-09-28T21:43:00.628Z",
+  updatedAt: "2026-09-28T21:43:03.000Z",
 } as const satisfies WorldCharacter

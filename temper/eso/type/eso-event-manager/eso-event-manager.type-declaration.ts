@@ -6,4 +6,6 @@ export const esoEventManager = {
   slug: "eso-event-manager",
   definition: "the event manager an add-on gives its listeners",
   d: "ts",
+  createdAt: "2026-09-02T05:20:24.707Z",
+  updatedAt: "2026-09-22T13:48:32.000Z",
 } as const satisfies TypeDeclaration

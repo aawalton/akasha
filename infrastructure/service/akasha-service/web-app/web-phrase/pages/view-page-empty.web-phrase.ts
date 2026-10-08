@@ -5,4 +5,6 @@ export const viewPageEmpty = {
   type: "page-type/web-phrase",
   slug: "view-page-empty",
   title: "Create a view to get started.",
+  createdAt: "2026-09-27T12:33:12.010Z",
+  updatedAt: "2026-09-27T12:33:14.000Z",
 } as const satisfies WebPhrase

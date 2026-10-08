@@ -14,4 +14,6 @@ export const health = {
   scale: "readout-scale/green-day-units",
   groups: ["readout-group/values"],
   parts: ["domain/fitness"],
+  createdAt: "2026-06-11T17:53:05.773Z",
+  updatedAt: "2026-09-15T16:37:11.000Z",
 } as const satisfies Value

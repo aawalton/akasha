@@ -5,4 +5,6 @@ export const atlasMapCountOne = {
   type: "page-type/web-phrase",
   slug: "atlas-map-count-one",
   title: "Showing 1 location on the map.",
+  createdAt: "2026-09-27T12:27:02.279Z",
+  updatedAt: "2026-09-27T12:27:05.000Z",
 } as const satisfies WebPhrase

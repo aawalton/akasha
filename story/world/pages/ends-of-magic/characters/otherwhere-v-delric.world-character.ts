@@ -6,4 +6,6 @@ export const otherwhereVDelric = {
   slug: "otherwhere-v-delric",
   title: "Delric",
   world: "world/ends-of-magic",
+  createdAt: "2026-09-28T21:43:51.007Z",
+  updatedAt: "2026-09-28T21:43:57.000Z",
 } as const satisfies WorldCharacter

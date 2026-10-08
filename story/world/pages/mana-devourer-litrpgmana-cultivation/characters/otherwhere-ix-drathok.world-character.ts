@@ -6,4 +6,6 @@ export const otherwhereIxDrathok = {
   slug: "otherwhere-ix-drathok",
   title: "Drathok of the Severed Star",
   world: "world/mana-devourer-litrpgmana-cultivation",
+  createdAt: "2026-09-28T22:51:08.569Z",
+  updatedAt: "2026-09-28T22:51:14.000Z",
 } as const satisfies WorldCharacter

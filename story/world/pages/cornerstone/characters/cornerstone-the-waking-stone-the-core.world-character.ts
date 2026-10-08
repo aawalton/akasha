@@ -6,4 +6,6 @@ export const cornerstoneTheWakingStoneTheCore = {
   slug: "cornerstone-the-waking-stone-the-core",
   title: "The Waking Stone (the Core)",
   world: "world/cornerstone",
+  createdAt: "2026-09-26T17:27:51.035Z",
+  updatedAt: "2026-09-26T17:27:54.000Z",
 } as const satisfies WorldCharacter

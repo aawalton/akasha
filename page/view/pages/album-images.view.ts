@@ -15,4 +15,6 @@ export const albumImages = {
   itemPageSize: 12,
   groupPageSize: 6,
   galleryCardSize: "large",
+  createdAt: "2026-09-28T20:47:58.907Z",
+  updatedAt: "2026-09-28T22:16:14.000Z",
 } as const satisfies View

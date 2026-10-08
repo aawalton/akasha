@@ -6,4 +6,6 @@ export const esoWritTooltip = {
   slug: "eso-writ-tooltip",
   definition: "the tooltip a writ shows",
   d: "ts",
+  createdAt: "2026-09-02T05:20:24.718Z",
+  updatedAt: "2026-09-21T15:28:07.000Z",
 } as const satisfies TypeDeclaration

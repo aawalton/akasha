@@ -6,4 +6,6 @@ export const esoLinkHandler = {
   slug: "eso-link-handler",
   definition: "the calls the game makes when a link in chat is clicked",
   d: "ts",
+  createdAt: "2026-09-02T08:44:35.678Z",
+  updatedAt: "2026-09-21T15:28:07.000Z",
 } as const satisfies TypeDeclaration

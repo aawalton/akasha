@@ -6,4 +6,6 @@ export const esoProvisionerStation = {
   slug: "eso-provisioner-station",
   definition: "the provisioning window and the animation manager that slides it",
   d: "ts",
+  createdAt: "2026-09-02T09:25:05.041Z",
+  updatedAt: "2026-09-21T15:28:07.000Z",
 } as const satisfies TypeDeclaration

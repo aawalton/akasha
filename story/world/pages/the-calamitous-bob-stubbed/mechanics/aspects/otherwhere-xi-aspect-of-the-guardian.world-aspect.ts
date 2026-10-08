@@ -7,4 +7,6 @@ export const otherwhereXiAspectOfTheGuardian = {
   title: "Aspect of the Guardian",
   world: "world/the-calamitous-bob-stubbed",
   description: "An elemental's first aspect, a rooted form of defense.",
+  createdAt: "2026-09-29T00:24:26.814Z",
+  updatedAt: "2026-09-29T00:24:33.000Z",
 } as const satisfies WorldAspect

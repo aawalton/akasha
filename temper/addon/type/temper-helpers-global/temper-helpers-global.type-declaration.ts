@@ -6,4 +6,6 @@ export const temperHelpersGlobal = {
   slug: "temper-helpers-global",
   definition: "the shape of the helper table an add-on leaves in the game's globals",
   d: "ts",
+  createdAt: "2026-09-02T05:21:47.953Z",
+  updatedAt: "2026-09-22T08:24:26.000Z",
 } as const satisfies TypeDeclaration

@@ -6,4 +6,6 @@ export const temperMainMenuShape = {
   slug: "temper-main-menu-shape",
   definition: "the shape of the library behind the main menu entry",
   d: "ts",
+  createdAt: "2026-09-02T09:25:05.042Z",
+  updatedAt: "2026-09-22T04:05:24.000Z",
 } as const satisfies TypeDeclaration

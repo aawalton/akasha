@@ -6,4 +6,6 @@ export const cornerstoneSlowTread = {
   slug: "cornerstone-slow-tread",
   title: "Slow-Tread",
   world: "world/cornerstone",
+  createdAt: "2026-09-26T17:27:51.035Z",
+  updatedAt: "2026-09-26T17:27:54.000Z",
 } as const satisfies WorldCharacter

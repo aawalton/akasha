@@ -5,4 +5,6 @@ export const crimsonEternalAnImmortalDeathMageLitrpg = {
   type: "page-type/world",
   slug: "crimson-eternal-an-immortal-death-mage-litrpg",
   title: "Crimson Eternal: An Immortal Death Mage LitRPG Apocalypse (Book 1 Stubbing in October)",
+  createdAt: "2026-09-02T20:38:40.370Z",
+  updatedAt: "2026-09-15T16:39:29.000Z",
 } as const satisfies World

@@ -5,4 +5,6 @@ export const dialogDelete = {
   type: "page-type/web-phrase",
   slug: "dialog-delete",
   title: "Delete",
+  createdAt: "2026-09-27T14:39:51.164Z",
+  updatedAt: "2026-09-27T14:39:54.000Z",
 } as const satisfies WebPhrase

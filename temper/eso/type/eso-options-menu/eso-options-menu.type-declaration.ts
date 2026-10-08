@@ -20,4 +20,6 @@ export const esoOptionsMenu = {
       statement: "A compiler emits nothing from this file.",
     },
   ],
+  createdAt: "2026-09-02T13:40:44.091Z",
+  updatedAt: "2026-09-21T15:28:07.000Z",
 } as const satisfies TypeDeclaration

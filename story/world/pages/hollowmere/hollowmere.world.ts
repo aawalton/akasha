@@ -7,4 +7,6 @@ export const hollowmere = {
   title: "Hollowmere",
   description:
     "An Earth much like ours, except that magic is real, known and ordinary: taught, licensed, argued over in the news, and wound through daily life. Hollowmere Academy is a residential college of magic whose students are adults in their twenties. Nala wakes in a dorm room there on the morning her first term begins.",
+  createdAt: "2026-10-02T14:37:56.352Z",
+  updatedAt: "2026-10-02T14:37:59.000Z",
 } as const satisfies World

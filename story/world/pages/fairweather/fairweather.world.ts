@@ -7,4 +7,6 @@ export const fairweather = {
   title: "Fairweather",
   description:
     "Lanternmere, a warm guild city of canals, bridges and paper lanterns on a lake, in a world with a System. Everyone receives a class from the System at a coming-of-age ceremony, and the Adventurers' Guild registers, ranks and sends out adventurers to its quests and to the dungeons in and around the city. Elsie Fairweather walks out of her ceremony with the most feared class there is, the Enthraller, and a kind smile.",
+  createdAt: "2026-10-03T14:02:43.365Z",
+  updatedAt: "2026-10-03T14:02:46.000Z",
 } as const satisfies World

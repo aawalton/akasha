@@ -6,4 +6,6 @@ export const esoTimers = {
   slug: "eso-timers",
   definition: "the calls scheduling an add-on's later work",
   d: "ts",
+  createdAt: "2026-09-02T05:20:24.715Z",
+  updatedAt: "2026-09-22T13:46:31.000Z",
 } as const satisfies TypeDeclaration

@@ -12,4 +12,6 @@ export const booksReading = {
   narrows: [{ key: "status", comparison: "in", values: ["In Progress", "Following"] }],
   viewSorts: [{ key: "title", descending: false }],
   visibleProperties: ["status", "grade", "own-length"],
+  createdAt: "2026-09-03T04:11:42.484Z",
+  updatedAt: "2026-09-21T19:33:21.000Z",
 } as const satisfies View

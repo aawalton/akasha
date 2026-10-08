@@ -4,4 +4,6 @@ export const stockings = {
   id: "01a0e382-46de-7a73-8cc3-8d5b51ce8bd6",
   type: "page-type/wardrobe-tag",
   slug: "stockings",
+  createdAt: "2026-09-27T15:36:00.990Z",
+  updatedAt: "2026-09-27T15:36:04.000Z",
 } as const satisfies WardrobeTag

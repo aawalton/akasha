@@ -8,4 +8,6 @@ export const link = {
   definition: "where Alan goes to do it",
   maxLength: 100,
   types: "ts",
+  createdAt: "2026-09-03T04:57:44.119Z",
+  updatedAt: "2026-09-15T16:36:47.000Z",
 } as const satisfies UrlProperty

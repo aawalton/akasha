@@ -6,4 +6,6 @@ export const esoLuaSandbox = {
   slug: "eso-lua-sandbox",
   definition: "the Lua standard library the game's sandbox leaves in reach",
   d: "ts",
+  createdAt: "2026-09-02T05:20:24.718Z",
+  updatedAt: "2026-09-21T15:28:07.000Z",
 } as const satisfies TypeDeclaration

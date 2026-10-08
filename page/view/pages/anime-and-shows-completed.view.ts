@@ -12,4 +12,6 @@ export const animeAndShowsCompleted = {
   narrows: [{ key: "status", comparison: "is", values: ["Completed"] }],
   viewSorts: [{ key: "completed-at", descending: true }],
   visibleProperties: ["status", "completed-at"],
+  createdAt: "2026-09-03T04:11:42.484Z",
+  updatedAt: "2026-09-15T16:37:59.000Z",
 } as const satisfies View

@@ -6,4 +6,6 @@ export const temperSavedVariablesGlobal = {
   slug: "temper-saved-variables-global",
   definition: "the saved table the add-on before Temper left in the global table",
   d: "ts",
+  createdAt: "2026-09-11T15:20:30.953Z",
+  updatedAt: "2026-09-21T17:56:05.000Z",
 } as const satisfies TypeDeclaration

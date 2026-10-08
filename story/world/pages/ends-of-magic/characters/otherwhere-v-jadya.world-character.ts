@@ -6,4 +6,6 @@ export const otherwhereVJadya = {
   slug: "otherwhere-v-jadya",
   title: "Jadya",
   world: "world/ends-of-magic",
+  createdAt: "2026-09-28T21:46:58.743Z",
+  updatedAt: "2026-09-28T21:47:01.000Z",
 } as const satisfies WorldCharacter

@@ -6,4 +6,6 @@ export const otherwhereVBeatred = {
   slug: "otherwhere-v-beatred",
   title: "Beatred",
   world: "world/ends-of-magic",
+  createdAt: "2026-09-28T21:42:23.258Z",
+  updatedAt: "2026-09-28T21:42:26.000Z",
 } as const satisfies WorldCharacter

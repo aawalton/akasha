@@ -5,4 +5,6 @@ export const millennialMageASliceOfLifeProgressionFantasy = {
   type: "page-type/world",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy",
   title: "Millennial Mage (A Slice of Life, Progression Fantasy)",
+  createdAt: "2026-09-02T20:38:40.370Z",
+  updatedAt: "2026-09-15T16:39:29.000Z",
 } as const satisfies World

@@ -6,4 +6,6 @@ export const luaLanguageExtensions = {
   slug: "lua-language-extensions",
   definition: "the extensions the Lua compiler adds to TypeScript",
   d: "ts",
+  createdAt: "2026-09-02T05:20:24.719Z",
+  updatedAt: "2026-09-21T15:28:07.000Z",
 } as const satisfies TypeDeclaration

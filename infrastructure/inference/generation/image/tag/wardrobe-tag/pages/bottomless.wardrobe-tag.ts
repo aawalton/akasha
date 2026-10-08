@@ -4,4 +4,6 @@ export const bottomless = {
   id: "01a0e382-46dc-782e-947d-0a1df84596d7",
   type: "page-type/wardrobe-tag",
   slug: "bottomless",
+  createdAt: "2026-09-27T15:36:00.988Z",
+  updatedAt: "2026-09-27T15:36:04.000Z",
 } as const satisfies WardrobeTag

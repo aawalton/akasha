@@ -12,4 +12,6 @@ export const skyshardsStringIds = {
       statement: "The text these identifiers have is English alone.",
     },
   ],
+  createdAt: "2026-09-02T10:27:15.180Z",
+  updatedAt: "2026-09-22T13:46:41.000Z",
 } as const satisfies TypeDeclaration

@@ -5,4 +5,6 @@ export const smsOptInAndOur = {
   type: "page-type/web-phrase",
   slug: "sms-opt-in-and-our",
   title: "and our",
+  createdAt: "2026-09-27T14:24:25.089Z",
+  updatedAt: "2026-09-27T14:24:29.000Z",
 } as const satisfies WebPhrase

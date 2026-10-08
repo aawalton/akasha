@@ -6,4 +6,6 @@ export const featureRequestOpened = {
   slug: "feature-request-opened",
   title:
     "Your request is open, and the points are behind it. Alan publishes it or denies it himself, and a request he denies gives its boosters their points back.",
+  createdAt: "2026-09-27T12:22:17.432Z",
+  updatedAt: "2026-09-27T12:22:20.000Z",
 } as const satisfies WebPhrase

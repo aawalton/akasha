@@ -6,4 +6,6 @@ export const esoLoreLibrary = {
   slug: "eso-lore-library",
   definition: "the lore library and the books it has",
   d: "ts",
+  createdAt: "2026-09-02T05:20:24.712Z",
+  updatedAt: "2026-09-21T15:28:07.000Z",
 } as const satisfies TypeDeclaration

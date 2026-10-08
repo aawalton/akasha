@@ -6,4 +6,6 @@ export const otherwhereVLastChampionOfDeiman = {
   slug: "otherwhere-v-last-champion-of-deiman",
   title: "Last Champion of Deiman",
   world: "world/ends-of-magic",
+  createdAt: "2026-09-28T21:50:21.009Z",
+  updatedAt: "2026-09-28T21:50:25.000Z",
 } as const satisfies WorldCharacter

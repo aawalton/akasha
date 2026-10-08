@@ -20,4 +20,6 @@ export const jsonlText = {
       statement: "The browser's bundler reads an entry file as text only through its own plugin.",
     },
   ],
+  createdAt: "2026-09-25T12:38:46.424Z",
+  updatedAt: "2026-09-25T12:39:00.000Z",
 } as const satisfies TypeDeclaration

@@ -26,4 +26,6 @@ export const akashaWorkspace = {
     "@playwright/mcp",
   ],
   editorSettings: "json",
+  createdAt: "2026-09-04T14:03:34.433Z",
+  updatedAt: "2026-09-25T16:50:54.000Z",
 } as const satisfies Workspace

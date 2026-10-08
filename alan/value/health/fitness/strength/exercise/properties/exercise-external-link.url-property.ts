@@ -8,4 +8,6 @@ export const exerciseExternalLink = {
   definition: "where the movement is described in its own catalogue",
   maxLength: 200,
   types: "ts",
+  createdAt: "2026-09-03T04:19:22.687Z",
+  updatedAt: "2026-09-22T13:54:48.000Z",
 } as const satisfies UrlProperty

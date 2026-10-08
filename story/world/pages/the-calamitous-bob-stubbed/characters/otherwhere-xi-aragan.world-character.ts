@@ -6,4 +6,6 @@ export const otherwhereXiAragan = {
   slug: "otherwhere-xi-aragan",
   title: "Aragan of the One Breath",
   world: "world/the-calamitous-bob-stubbed",
+  createdAt: "2026-09-28T23:59:39.632Z",
+  updatedAt: "2026-09-28T23:59:42.000Z",
 } as const satisfies WorldCharacter

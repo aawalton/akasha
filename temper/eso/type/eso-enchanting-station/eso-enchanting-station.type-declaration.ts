@@ -6,4 +6,6 @@ export const esoEnchantingStation = {
   slug: "eso-enchanting-station",
   definition: "the enchanting station, its modes and its labelling strings",
   d: "ts",
+  createdAt: "2026-09-02T09:25:05.041Z",
+  updatedAt: "2026-09-22T13:53:26.000Z",
 } as const satisfies TypeDeclaration

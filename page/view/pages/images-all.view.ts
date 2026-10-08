@@ -12,4 +12,6 @@ export const imagesAll = {
   galleryCardSize: "medium",
   viewSorts: [{ key: "random", descending: false }],
   visibleProperties: ["grade"],
+  createdAt: "2026-09-27T20:30:03.714Z",
+  updatedAt: "2026-09-27T22:18:50.000Z",
 } as const satisfies View

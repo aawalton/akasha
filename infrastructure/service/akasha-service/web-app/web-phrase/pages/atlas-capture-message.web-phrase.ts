@@ -5,4 +5,6 @@ export const atlasCaptureMessage = {
   type: "page-type/web-phrase",
   slug: "atlas-capture-message",
   title: "Location is used to build your travel map. Tap to open Atlas.",
+  createdAt: "2026-09-27T12:28:49.595Z",
+  updatedAt: "2026-09-27T12:28:52.000Z",
 } as const satisfies WebPhrase

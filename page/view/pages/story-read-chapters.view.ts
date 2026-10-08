@@ -10,4 +10,6 @@ export const storyReadChapters = {
   layout: "list",
   narrows: [{ key: "own-remaining", comparison: "at-or-after", values: ["1"] }],
   viewSorts: [{ key: "position", descending: false }],
+  createdAt: "2026-09-28T20:47:58.907Z",
+  updatedAt: "2026-10-05T21:36:48.000Z",
 } as const satisfies View

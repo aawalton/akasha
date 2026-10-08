@@ -61,4 +61,6 @@ export const storiesPlayed = {
     "unit-words",
     "world",
   ],
+  createdAt: "2026-09-24T16:33:47.763Z",
+  updatedAt: "2026-10-02T21:25:03.000Z",
 } as const satisfies View

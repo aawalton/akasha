@@ -5,4 +5,6 @@ export const theArchmageCoefficientOpArchmageMageAcademy = {
   type: "page-type/world",
   slug: "the-archmage-coefficient-op-archmage-mage-academy",
   title: "The Archmage Coefficient (OP Archmage/ Mage Academy/ LITRPG/ Hidden Genius)",
+  createdAt: "2026-09-28T20:27:04.753Z",
+  updatedAt: "2026-09-28T20:27:05.000Z",
 } as const satisfies World

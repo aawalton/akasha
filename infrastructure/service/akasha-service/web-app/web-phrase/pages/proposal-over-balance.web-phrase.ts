@@ -5,4 +5,6 @@ export const proposalOverBalance = {
   type: "page-type/web-phrase",
   slug: "proposal-over-balance",
   title: "opening a request costs {cost} points, and {balance} are held",
+  createdAt: "2026-09-27T16:31:39.173Z",
+  updatedAt: "2026-09-27T16:31:44.000Z",
 } as const satisfies WebPhrase

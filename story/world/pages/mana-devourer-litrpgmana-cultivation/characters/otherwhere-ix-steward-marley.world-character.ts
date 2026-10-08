@@ -6,4 +6,6 @@ export const otherwhereIxStewardMarley = {
   slug: "otherwhere-ix-steward-marley",
   title: "Steward Marley",
   world: "world/mana-devourer-litrpgmana-cultivation",
+  createdAt: "2026-09-28T23:00:34.409Z",
+  updatedAt: "2026-09-28T23:00:38.000Z",
 } as const satisfies WorldCharacter

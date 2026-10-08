@@ -6,4 +6,6 @@ export const esoWritRightClick = {
   slug: "eso-writ-right-click",
   definition: "the right-click menu a writ shows",
   d: "ts",
+  createdAt: "2026-09-02T05:20:24.717Z",
+  updatedAt: "2026-09-21T15:28:07.000Z",
 } as const satisfies TypeDeclaration

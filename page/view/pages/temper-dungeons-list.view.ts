@@ -12,4 +12,6 @@ export const temperDungeonsList = {
   pageSize: 12,
   itemPageSize: 12,
   groupPageSize: 6,
+  createdAt: "2026-09-03T04:11:42.485Z",
+  updatedAt: "2026-09-15T16:37:59.000Z",
 } as const satisfies View

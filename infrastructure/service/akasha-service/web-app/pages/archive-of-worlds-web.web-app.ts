@@ -11,4 +11,6 @@ export const archiveOfWorldsWeb = {
   basePort: 3500,
   secretResource: "archive-of-worlds-secrets",
   serviceClusters: ["service-cluster/archive-of-worlds-web"],
+  createdAt: "2026-09-01T04:07:55.830Z",
+  updatedAt: "2026-09-27T11:55:18.000Z",
 } as const satisfies WebApp

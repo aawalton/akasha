@@ -6,4 +6,6 @@ export const esoUiExtra = {
   slug: "eso-ui-extra",
   definition: "the rest of what the game's interface leaves in an add-on's reach",
   d: "ts",
+  createdAt: "2026-09-02T09:59:48.029Z",
+  updatedAt: "2026-09-21T15:28:07.000Z",
 } as const satisfies TypeDeclaration

@@ -6,4 +6,6 @@ export const esoLibSetsUi = {
   slug: "eso-lib-sets-ui",
   definition: "game windows and helpers lib-sets calls that the shared set had not named",
   d: "ts",
+  createdAt: "2026-09-02T10:45:54.174Z",
+  updatedAt: "2026-09-21T15:28:07.000Z",
 } as const satisfies TypeDeclaration

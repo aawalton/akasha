@@ -16,4 +16,6 @@ export const esoKeybindings = {
       statement: "Rebinding is a protected call the game refuses to an untrusted caller.",
     },
   ],
+  createdAt: "2026-09-02T19:03:40.225Z",
+  updatedAt: "2026-09-21T15:28:07.000Z",
 } as const satisfies TypeDeclaration

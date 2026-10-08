@@ -6,4 +6,6 @@ export const otherwhereXiHiramOfTheThousandBlades = {
   slug: "otherwhere-xi-hiram-of-the-thousand-blades",
   title: "Hiram of the Thousand Blades",
   world: "world/the-calamitous-bob-stubbed",
+  createdAt: "2026-09-29T00:17:14.197Z",
+  updatedAt: "2026-09-29T00:17:18.000Z",
 } as const satisfies WorldCharacter

@@ -9,4 +9,6 @@ export const recipesAlphabetical = {
   pageType: "page-type/world-recipe",
   viewPlace: 1,
   viewSorts: [{ key: "title", descending: false }],
+  createdAt: "2026-09-22T13:35:25.119Z",
+  updatedAt: "2026-09-28T22:16:42.000Z",
 } as const satisfies View

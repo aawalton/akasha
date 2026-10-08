@@ -6,4 +6,6 @@ export const otherwhereIxReisha = {
   slug: "otherwhere-ix-reisha",
   title: "Reisha",
   world: "world/mana-devourer-litrpgmana-cultivation",
+  createdAt: "2026-09-28T23:00:34.408Z",
+  updatedAt: "2026-09-28T23:00:38.000Z",
 } as const satisfies WorldCharacter

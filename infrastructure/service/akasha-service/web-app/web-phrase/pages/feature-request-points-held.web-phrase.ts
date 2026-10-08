@@ -5,4 +5,6 @@ export const featureRequestPointsHeld = {
   type: "page-type/web-phrase",
   slug: "feature-request-points-held",
   title: "You hold {balance} points.",
+  createdAt: "2026-09-27T12:22:17.432Z",
+  updatedAt: "2026-09-27T12:22:20.000Z",
 } as const satisfies WebPhrase

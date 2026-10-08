@@ -5,4 +5,6 @@ export const featureRequestAskMissing = {
   type: "page-type/web-phrase",
   slug: "feature-request-ask-missing",
   title: "a feature request says what it asks for",
+  createdAt: "2026-09-27T16:31:39.173Z",
+  updatedAt: "2026-09-27T16:31:44.000Z",
 } as const satisfies WebPhrase

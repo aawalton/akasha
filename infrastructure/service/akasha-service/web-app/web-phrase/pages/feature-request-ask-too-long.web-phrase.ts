@@ -5,4 +5,6 @@ export const featureRequestAskTooLong = {
   type: "page-type/web-phrase",
   slug: "feature-request-ask-too-long",
   title: "an ask holds {holds} characters, and this one runs to {length}",
+  createdAt: "2026-09-27T16:31:39.173Z",
+  updatedAt: "2026-09-27T16:31:44.000Z",
 } as const satisfies WebPhrase

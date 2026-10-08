@@ -12,4 +12,6 @@ export const requestsPublished = {
   narrows: [{ key: "standing", comparison: "is", values: ["published"] }],
   viewSorts: [{ key: "title", descending: false }],
   visibleProperties: ["product", "boost"],
+  createdAt: "2026-09-21T16:08:40.434Z",
+  updatedAt: "2026-09-21T23:18:09.000Z",
 } as const satisfies View

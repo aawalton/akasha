@@ -5,4 +5,6 @@ export const chaosSeeds = {
   type: "page-type/world",
   slug: "chaos-seeds",
   title: "Chaos Seeds",
+  createdAt: "2026-09-02T20:38:40.370Z",
+  updatedAt: "2026-09-15T16:39:29.000Z",
 } as const satisfies World

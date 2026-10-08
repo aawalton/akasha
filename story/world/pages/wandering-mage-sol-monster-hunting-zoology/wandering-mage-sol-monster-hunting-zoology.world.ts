@@ -5,4 +5,6 @@ export const wanderingMageSolMonsterHuntingZoology = {
   type: "page-type/world",
   slug: "wandering-mage-sol-monster-hunting-zoology",
   title: "Wandering Mage [SoL - Monster Hunting / Zoology]",
+  createdAt: "2026-10-06T13:05:39.366Z",
+  updatedAt: "2026-10-06T13:05:40.000Z",
 } as const satisfies World

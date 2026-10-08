@@ -6,4 +6,6 @@ export const commonfolkSBlessingLesserFolkSVitalesGift = {
   slug: "commonfolk-s-blessing-lesser-folk-s-vitales-gift",
   title: "Commonfolk’s Blessing (Lesser) — Folk’s Vitales Gift",
   world: "world/the-wandering-inn",
+  createdAt: "2026-09-03T03:39:53.863Z",
+  updatedAt: "2026-09-19T16:14:50.000Z",
 } as const satisfies WorldBoon

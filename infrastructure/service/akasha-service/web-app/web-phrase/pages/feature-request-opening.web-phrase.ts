@@ -5,4 +5,6 @@ export const featureRequestOpening = {
   type: "page-type/web-phrase",
   slug: "feature-request-opening",
   title: "Opening...",
+  createdAt: "2026-09-27T12:22:17.432Z",
+  updatedAt: "2026-09-27T12:22:20.000Z",
 } as const satisfies WebPhrase

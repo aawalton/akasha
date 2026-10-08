@@ -6,4 +6,6 @@ export const otherwhereVTheMaestro = {
   slug: "otherwhere-v-the-maestro",
   title: "The Maestro",
   world: "world/ends-of-magic",
+  createdAt: "2026-09-28T21:49:08.239Z",
+  updatedAt: "2026-09-28T21:49:11.000Z",
 } as const satisfies WorldCharacter

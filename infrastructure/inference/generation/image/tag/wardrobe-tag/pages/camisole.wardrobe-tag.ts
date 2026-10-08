@@ -4,4 +4,6 @@ export const camisole = {
   id: "01a0e382-46dc-7281-af88-78b34390d948",
   type: "page-type/wardrobe-tag",
   slug: "camisole",
+  createdAt: "2026-09-27T15:36:00.988Z",
+  updatedAt: "2026-09-27T15:36:04.000Z",
 } as const satisfies WardrobeTag

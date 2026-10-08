@@ -6,4 +6,6 @@ export const esoInventoryTrade = {
   slug: "eso-inventory-trade",
   definition: "the trade window, the mail list and the inventory sort the game hands an add-on",
   d: "ts",
+  createdAt: "2026-09-02T09:25:05.041Z",
+  updatedAt: "2026-09-21T15:28:07.000Z",
 } as const satisfies TypeDeclaration

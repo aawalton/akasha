@@ -5,4 +5,6 @@ export const boostNotPublished = {
   type: "page-type/web-phrase",
   slug: "boost-not-published",
   title: "a request Alan has left `{standing}` takes no boost",
+  createdAt: "2026-09-27T16:31:39.173Z",
+  updatedAt: "2026-09-27T16:31:44.000Z",
 } as const satisfies WebPhrase

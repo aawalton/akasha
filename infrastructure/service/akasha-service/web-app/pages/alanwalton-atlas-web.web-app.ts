@@ -11,4 +11,6 @@ export const alanwaltonAtlasWeb = {
   basePort: 3600,
   secretResource: "alanwalton-secrets",
   serviceClusters: ["service-cluster/alanwalton-atlas"],
+  createdAt: "2026-09-01T04:07:55.830Z",
+  updatedAt: "2026-09-27T11:48:56.000Z",
 } as const satisfies WebApp

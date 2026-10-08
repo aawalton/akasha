@@ -11,4 +11,6 @@ export const storiesRead = {
   layout: "cards",
   viewSorts: [{ key: "title", descending: false }],
   visibleProperties: [],
+  createdAt: "2026-09-27T20:52:27.648Z",
+  updatedAt: "2026-09-27T20:52:29.000Z",
 } as const satisfies View

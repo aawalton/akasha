@@ -7,4 +7,6 @@ export const saltAndLamplight = {
   title: "Salt and Lamplight",
   description:
     "A small harbour town on a cold northern coast: fishing boats, slate roofs, salt wind, a lighthouse on the point, and a little quiet magic in the old stories and hardly any in daily life. Nala wakes on the shingle below the lighthouse with no way to say how she came, and the woman who keeps the light finds her there.",
+  createdAt: "2026-10-02T14:27:23.694Z",
+  updatedAt: "2026-10-02T14:27:26.000Z",
 } as const satisfies World

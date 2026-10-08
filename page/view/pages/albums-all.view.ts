@@ -10,4 +10,6 @@ export const albumsAll = {
   viewPlace: 0,
   layout: "cards",
   viewSorts: [{ key: "title", descending: false }],
+  createdAt: "2026-09-28T18:54:30.227Z",
+  updatedAt: "2026-09-28T18:54:33.000Z",
 } as const satisfies View

@@ -5,4 +5,6 @@ export const subscribeInvalidBody = {
   type: "page-type/web-phrase",
   slug: "subscribe-invalid-body",
   title: "Invalid JSON body",
+  createdAt: "2026-09-27T14:24:25.089Z",
+  updatedAt: "2026-09-27T14:24:29.000Z",
 } as const satisfies WebPhrase

@@ -6,4 +6,6 @@ export const esoJournalWindow = {
   slug: "eso-journal-window",
   definition: "the scene, fragments, menu bar and lists building the game's journal window",
   d: "ts",
+  createdAt: "2026-09-02T09:39:58.677Z",
+  updatedAt: "2026-09-22T14:00:30.000Z",
 } as const satisfies TypeDeclaration

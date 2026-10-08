@@ -6,4 +6,6 @@ export const cornerstone = {
   slug: "cornerstone",
   title: "Cornerstone",
   description: "A land that wakes where it is walked on, and knows the weight of whoever stands.",
+  createdAt: "2026-09-02T20:38:40.370Z",
+  updatedAt: "2026-09-15T16:39:29.000Z",
 } as const satisfies World

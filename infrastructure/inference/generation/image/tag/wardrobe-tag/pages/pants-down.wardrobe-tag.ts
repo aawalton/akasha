@@ -4,4 +4,6 @@ export const pantsDown = {
   id: "01a0e382-46dd-7d40-8fcc-f16d25496c4e",
   type: "page-type/wardrobe-tag",
   slug: "pants-down",
+  createdAt: "2026-09-27T15:36:00.989Z",
+  updatedAt: "2026-09-27T15:36:04.000Z",
 } as const satisfies WardrobeTag

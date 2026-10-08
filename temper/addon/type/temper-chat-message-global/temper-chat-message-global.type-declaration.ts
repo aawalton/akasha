@@ -6,4 +6,6 @@ export const temperChatMessageGlobal = {
   slug: "temper-chat-message-global",
   definition: "the chat tagging global the Temper add-on publishes",
   d: "ts",
+  createdAt: "2026-09-02T05:21:47.952Z",
+  updatedAt: "2026-09-22T03:48:23.000Z",
 } as const satisfies TypeDeclaration

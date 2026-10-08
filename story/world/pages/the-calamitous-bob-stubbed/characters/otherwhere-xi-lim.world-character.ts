@@ -6,4 +6,6 @@ export const otherwhereXiLim = {
   slug: "otherwhere-xi-lim",
   title: "Lim the Fell-Handed",
   world: "world/the-calamitous-bob-stubbed",
+  createdAt: "2026-09-29T00:26:30.995Z",
+  updatedAt: "2026-09-29T00:26:35.000Z",
 } as const satisfies WorldCharacter

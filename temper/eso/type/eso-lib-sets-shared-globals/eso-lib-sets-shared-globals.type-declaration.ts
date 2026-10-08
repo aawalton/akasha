@@ -6,4 +6,6 @@ export const esoLibSetsSharedGlobals = {
   slug: "eso-lib-sets-shared-globals",
   definition: "four game globals that two packages had each declared privately",
   d: "ts",
+  createdAt: "2026-09-02T10:45:54.173Z",
+  updatedAt: "2026-09-21T15:28:07.000Z",
 } as const satisfies TypeDeclaration

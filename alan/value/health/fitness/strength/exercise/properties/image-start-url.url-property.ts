@@ -8,4 +8,6 @@ export const imageStartUrl = {
   definition: "a picture of the movement at its start",
   maxLength: 200,
   types: "ts",
+  createdAt: "2026-09-03T04:19:22.687Z",
+  updatedAt: "2026-09-15T16:36:47.000Z",
 } as const satisfies UrlProperty

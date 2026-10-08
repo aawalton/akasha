@@ -6,4 +6,6 @@ export const temperAddonMenuGlobal = {
   slug: "temper-addon-menu-global",
   definition: "the settings panel global the Temper add-on publishes",
   d: "ts",
+  createdAt: "2026-09-02T05:21:47.952Z",
+  updatedAt: "2026-09-22T04:49:09.000Z",
 } as const satisfies TypeDeclaration

@@ -54,4 +54,6 @@ export const storiesWritten = {
     "unit-words",
     "world",
   ],
+  createdAt: "2026-09-27T20:52:18.491Z",
+  updatedAt: "2026-10-02T20:37:59.000Z",
 } as const satisfies View

@@ -6,4 +6,6 @@ export const temperNotificationGlobal = {
   slug: "temper-notification-global",
   definition: "the notifications global the Temper add-on publishes",
   d: "ts",
+  createdAt: "2026-09-02T05:21:47.957Z",
+  updatedAt: "2026-09-22T03:38:16.000Z",
 } as const satisfies TypeDeclaration

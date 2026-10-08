@@ -8,4 +8,6 @@ export const worldStories = {
   pageType: "page-type/story",
   embeddedBy: "page-type/world",
   layout: "cards",
+  createdAt: "2026-09-28T20:47:58.908Z",
+  updatedAt: "2026-09-28T20:48:01.000Z",
 } as const satisfies View

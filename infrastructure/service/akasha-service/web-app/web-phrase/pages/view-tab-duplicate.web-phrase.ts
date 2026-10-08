@@ -5,4 +5,6 @@ export const viewTabDuplicate = {
   type: "page-type/web-phrase",
   slug: "view-tab-duplicate",
   title: "Duplicate",
+  createdAt: "2026-09-27T14:39:51.166Z",
+  updatedAt: "2026-09-27T14:39:54.000Z",
 } as const satisfies WebPhrase

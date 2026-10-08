@@ -13,4 +13,6 @@ export const wealth = {
   unit: "green day units",
   scale: "readout-scale/green-day-units",
   groups: ["readout-group/values"],
+  createdAt: "2026-06-11T17:53:08.907Z",
+  updatedAt: "2026-09-22T13:48:28.000Z",
 } as const satisfies Value

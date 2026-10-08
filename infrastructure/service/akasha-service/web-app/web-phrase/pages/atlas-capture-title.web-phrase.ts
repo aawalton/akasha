@@ -5,4 +5,6 @@ export const atlasCaptureTitle = {
   type: "page-type/web-phrase",
   slug: "atlas-capture-title",
   title: "Atlas is recording your route",
+  createdAt: "2026-09-27T12:28:49.595Z",
+  updatedAt: "2026-09-27T12:28:52.000Z",
 } as const satisfies WebPhrase

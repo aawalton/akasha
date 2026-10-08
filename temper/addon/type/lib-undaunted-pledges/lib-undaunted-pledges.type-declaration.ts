@@ -6,4 +6,6 @@ export const libUndauntedPledges = {
   slug: "lib-undaunted-pledges",
   definition: "what the lib-undaunted-pledges library leaves in another add-on's reach",
   d: "ts",
+  createdAt: "2026-09-02T05:21:47.959Z",
+  updatedAt: "2026-09-21T17:56:05.000Z",
 } as const satisfies TypeDeclaration

@@ -6,4 +6,6 @@ export const esoMail = {
   slug: "eso-mail",
   definition: "the mail box and the calls reading it",
   d: "ts",
+  createdAt: "2026-09-02T05:20:24.713Z",
+  updatedAt: "2026-09-21T15:28:07.000Z",
 } as const satisfies TypeDeclaration

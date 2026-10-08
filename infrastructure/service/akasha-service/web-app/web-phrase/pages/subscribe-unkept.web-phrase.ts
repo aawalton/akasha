@@ -5,4 +5,6 @@ export const subscribeUnkept = {
   type: "page-type/web-phrase",
   slug: "subscribe-unkept",
   title: "Your address could not be kept just now. Please try again later.",
+  createdAt: "2026-09-27T14:24:25.090Z",
+  updatedAt: "2026-09-27T14:24:29.000Z",
 } as const satisfies WebPhrase

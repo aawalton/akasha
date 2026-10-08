@@ -5,4 +5,6 @@ export const passiveAggressiveReversePortalInvasionLitrpg = {
   type: "page-type/world",
   slug: "passive-aggressive-reverse-portal-invasion-litrpg",
   title: "Passive Aggressive [Reverse portal invasion LitRPG with a broken build]",
+  createdAt: "2026-09-02T20:38:40.370Z",
+  updatedAt: "2026-09-15T16:39:29.000Z",
 } as const satisfies World

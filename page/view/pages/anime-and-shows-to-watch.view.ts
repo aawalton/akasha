@@ -12,4 +12,6 @@ export const animeAndShowsToWatch = {
   narrows: [{ key: "status", comparison: "is", values: ["Not Started"] }],
   viewSorts: [{ key: "title", descending: false }],
   visibleProperties: ["status"],
+  createdAt: "2026-09-03T04:11:42.484Z",
+  updatedAt: "2026-09-15T16:37:59.000Z",
 } as const satisfies View

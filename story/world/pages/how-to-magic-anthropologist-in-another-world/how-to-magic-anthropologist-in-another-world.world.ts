@@ -5,4 +5,6 @@ export const howToMagicAnthropologistInAnotherWorld = {
   type: "page-type/world",
   slug: "how-to-magic-anthropologist-in-another-world",
   title: "How To Magic - Anthropologist In Another World",
+  createdAt: "2026-09-28T20:27:04.752Z",
+  updatedAt: "2026-09-28T20:27:05.000Z",
 } as const satisfies World

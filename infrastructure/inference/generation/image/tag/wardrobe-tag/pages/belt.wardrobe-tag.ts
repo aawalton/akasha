@@ -4,4 +4,6 @@ export const belt = {
   id: "01a0e382-46dc-7ef3-ae14-9588e35d4ab9",
   type: "page-type/wardrobe-tag",
   slug: "belt",
+  createdAt: "2026-09-27T15:36:00.988Z",
+  updatedAt: "2026-09-27T15:36:04.000Z",
 } as const satisfies WardrobeTag

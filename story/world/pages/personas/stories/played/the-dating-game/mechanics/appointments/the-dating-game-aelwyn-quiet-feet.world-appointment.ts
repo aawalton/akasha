@@ -9,4 +9,6 @@ export const theDatingGameAelwynQuietFeet = {
   characters: ["character-player/the-dating-game-alan", "character-other/the-dating-game-aelwyn"],
   appointmentAt: "2026-09-30T18:00:00.000Z",
   appointmentPlace: "The Provo River Trail at the mouth of the canyon",
+  createdAt: "2026-09-28T13:42:26.747Z",
+  updatedAt: "2026-09-28T13:42:31.000Z",
 } as const satisfies WorldAppointment

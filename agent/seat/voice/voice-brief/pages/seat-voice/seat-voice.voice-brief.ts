@@ -5,4 +5,6 @@ export const seatVoice = {
   type: "page-type/voice-brief",
   slug: "seat-voice",
   prose: "txt",
+  createdAt: "2026-10-08T12:30:48.083Z",
+  updatedAt: "2026-10-08T12:30:50.000Z",
 } as const satisfies VoiceBrief

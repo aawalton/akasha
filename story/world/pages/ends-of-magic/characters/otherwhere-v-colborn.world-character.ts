@@ -6,4 +6,6 @@ export const otherwhereVColborn = {
   slug: "otherwhere-v-colborn",
   title: "Colborn",
   world: "world/ends-of-magic",
+  createdAt: "2026-09-28T21:43:25.019Z",
+  updatedAt: "2026-09-28T21:43:28.000Z",
 } as const satisfies WorldCharacter

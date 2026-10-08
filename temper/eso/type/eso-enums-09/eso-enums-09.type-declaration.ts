@@ -7,4 +7,6 @@ export const esoEnums09 = {
   definition: "a part of the game's numbers for its kinds",
   d: "ts",
   generated: { writtenBy: "akasha temper eso generate declaration", sourceVersion: 101050 },
+  createdAt: "2026-09-02T05:20:24.703Z",
+  updatedAt: "2026-09-22T13:56:23.000Z",
 } as const satisfies TypeDeclaration

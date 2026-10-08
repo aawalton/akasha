@@ -20,4 +20,6 @@ export const pageProperty = {
       statement: "The scope a page is filed under is the value that property has.",
     },
   ],
+  createdAt: "2026-09-08T13:57:40.155Z",
+  updatedAt: "2026-09-22T10:19:56.000Z",
 } as const satisfies UniqueKind

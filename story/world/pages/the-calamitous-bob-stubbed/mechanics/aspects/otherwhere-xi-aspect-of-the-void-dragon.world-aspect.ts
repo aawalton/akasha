@@ -7,4 +7,6 @@ export const otherwhereXiAspectOfTheVoidDragon = {
   title: "True Aspect of the Void Dragon",
   world: "world/the-calamitous-bob-stubbed",
   description: "A black elemental's fourth and final aspect, a winged draconic war-form.",
+  createdAt: "2026-09-29T00:24:26.814Z",
+  updatedAt: "2026-09-29T00:24:33.000Z",
 } as const satisfies WorldAspect

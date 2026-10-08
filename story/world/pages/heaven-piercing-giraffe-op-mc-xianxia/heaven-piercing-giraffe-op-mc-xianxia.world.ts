@@ -5,4 +5,6 @@ export const heavenPiercingGiraffeOpMcXianxia = {
   type: "page-type/world",
   slug: "heaven-piercing-giraffe-op-mc-xianxia",
   title: "Heaven-Piercing Giraffe",
+  createdAt: "2026-09-02T20:38:40.370Z",
+  updatedAt: "2026-09-15T16:39:29.000Z",
 } as const satisfies World
