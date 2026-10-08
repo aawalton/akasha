@@ -363,13 +363,6 @@ export const overwhereITheSystem = {
       fact: "Reserves refill by Elemental Absorption at essence statues or from costly essence crystals.",
       knowers: ["lore-disclosure/game-master"],
     },
-    {
-      fact: "Elemental Swipe costs 5 of one element; Elemental Cocktail costs 2 of each element it mixes.",
-      knowers: ["lore-disclosure/game-master"],
-    },
-    {
-      fact: 'Soul Rend kills a beaten foe with a ghostly paw: "Essence Extracted!" and "+N to all attributes".',
-      knowers: ["lore-disclosure/game-master"],
-    },
   ],
+  updatedAt: "2026-10-08T16:24:38.021Z",
 } as const satisfies Lore

@@ -9,6 +9,14 @@ export const overwhereITheSystem2 = {
   about: "lore/overwhere-i-the-system",
   facts: [
     {
+      fact: "Elemental Swipe costs 5 of one element; Elemental Cocktail costs 2 of each element it mixes.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: 'Soul Rend kills a beaten foe with a ghostly paw: "Essence Extracted!" and "+N to all attributes".',
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
       fact: "Two Level 9 snappers slain with Rowan near bring Nala about a third of the way to Level 8.",
       knowers: ["lore-disclosure/game-master"],
     },
@@ -51,5 +59,5 @@ export const overwhereITheSystem2 = {
     },
   ],
   createdAt: "2026-10-02T14:17:23.164Z",
-  updatedAt: "2026-10-03T00:48:29.000Z",
+  updatedAt: "2026-10-08T16:24:38.021Z",
 } as const satisfies Lore
