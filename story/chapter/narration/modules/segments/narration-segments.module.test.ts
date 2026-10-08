@@ -190,6 +190,19 @@ describe("narrationSegmentsOf", () => {
     ])
   })
 
+  test("a pronounced word shouted in capitals keeps its pronunciation, and other shouted words are stressed", () => {
+    const pronounced = [
+      { written: "Ylawes", phonemes: "ilˈɑwɛs" },
+      { written: "Mrsha", spokenAs: "Mersha" },
+    ]
+    const said = (prose: string): string[] =>
+      narrationSegmentsOf(prose, pronounced).map((one) => one.text)
+    expect(said("Start.\n“YLAWES’S SWORD! MRSHA, WAIT!”")).toEqual([
+      "Start.",
+      "“[YLAWES'S](/ilˈɑwɛsᵻz/) [sword](+2)! [mersha](+2), [wait](+2)!”",
+    ])
+  })
+
   test("a word broken off before its vowel is said with one", () => {
     expect(texts("Start.\n“Wh—” She stopped. “Th... that’s it. Str– no.”")).toEqual([
       "Start.",

@@ -62,3 +62,82 @@ function numbered(found: string, head: string, space: string, numeral: string): 
 export function numberedOf(line: string): string {
   return line.replace(NUMBERED, numbered)
 }
+
+const SHOUTED =
+  /(\[[^\]]*\]\([^)]*\))|(?<![\p{L}\p{N}'’])(\p{Lu}[\p{Lu}'’]*\p{Lu})(?![\p{L}\p{N}'’])/gu
+const VOWEL = /[AEIOUY]/
+const ROMAN = /^M{0,3}(CM|CD|D?C{0,3})(XC|XL|L?X{0,3})(IX|IV|V?I{0,3})$/
+const APOSTROPHES = /['’]/g
+const SPELLED_AS_NAMES: ReadonlySet<string> = new Set([
+  "ach",
+  "act",
+  "add",
+  "ah",
+  "aid",
+  "an",
+  "and",
+  "are",
+  "as",
+  "at",
+  "be",
+  "but",
+  "cap",
+  "coo",
+  "dab",
+  "dew",
+  "dip",
+  "doe",
+  "elf",
+  "for",
+  "go",
+  "had",
+  "he",
+  "her",
+  "hi",
+  "him",
+  "his",
+  "how",
+  "if",
+  "in",
+  "is",
+  "it",
+  "its",
+  "me",
+  "mod",
+  "not",
+  "of",
+  "oft",
+  "oh",
+  "ok",
+  "on",
+  "or",
+  "our",
+  "pow",
+  "put",
+  "she",
+  "sir",
+  "so",
+  "the",
+  "thy",
+  "to",
+  "up",
+  "us",
+  "was",
+  "we",
+  "who",
+  "why",
+  "you",
+])
+
+function shouted(found: string, markup: string | undefined, word: string | undefined): string {
+  if (markup !== undefined || word === undefined) return found
+  const letters = word.replace(APOSTROPHES, "")
+  if (!VOWEL.test(letters) || ROMAN.test(letters)) return found
+  const lower = word.toLowerCase().replace(APOSTROPHES, "'")
+  if (letters.length < 4 && !SPELLED_AS_NAMES.has(lower)) return found
+  return `[${lower}](+2)`
+}
+
+export function shoutedOf(sentence: string): string {
+  return sentence.replace(SHOUTED, shouted)
+}

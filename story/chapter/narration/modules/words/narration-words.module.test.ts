@@ -1,5 +1,26 @@
 import { describe, expect, test } from "bun:test"
-import { numberedOf } from "akasha/story/chapter/narration/modules/words/narration-words.module.code.ts"
+import {
+  numberedOf,
+  shoutedOf,
+} from "akasha/story/chapter/narration/modules/words/narration-words.module.code.ts"
+
+describe("shoutedOf", () => {
+  test("a shouted word of four letters or more is said as the word, stressed", () => {
+    expect(shoutedOf("THE GOBLINS DON’T STOP. Level UP!")).toBe(
+      "[the](+2) [goblins](+2) [don't](+2) [stop](+2). Level [up](+2)!"
+    )
+  })
+
+  test("a short capital word the voice would spell as a name's letters is said as the word", () => {
+    expect(shoutedOf("SIR, US, OUR and WHY")).toBe("[sir](+2), [us](+2), [our](+2) and [why](+2)")
+  })
+
+  test("an acronym, a numeral, a vowelless word and markup are left as written", () => {
+    expect(shoutedOf("TV, PM, USA, GSNF, XIV, I, [YLAWES](/ilˈɑwɛs/) and [Shh](/ʃː/)")).toBe(
+      "TV, PM, USA, GSNF, XIV, I, [YLAWES](/ilˈɑwɛs/) and [Shh](/ʃː/)"
+    )
+  })
+})
 
 describe("numberedOf", () => {
   test("a numeral after a name is said as an ordinal", () => {

@@ -22,7 +22,21 @@ export const narrationWords = {
       decisionKind: "decision-kind/departure",
       statement: "A lone capital, and a numeral after a lowercase word, is said as written.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A shouted word is handed on lowercase with Kokoro's strongest stress.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A shouted word is one of four letters or more, or a short word misaki spells out as a name.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A capital word with no vowel, or of under four letters otherwise, is said as written.",
+    },
   ],
   createdAt: "2026-10-08T19:12:09.635Z",
-  updatedAt: "2026-10-08T19:12:09.635Z",
+  updatedAt: "2026-10-08T19:14:30.954Z",
 } as const satisfies Module

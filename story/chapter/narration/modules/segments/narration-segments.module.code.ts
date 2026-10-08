@@ -3,7 +3,10 @@ import {
   spokenScreen,
   spokenWindow,
 } from "akasha/story/chapter/narration/modules/window-speaking/window-speaking.module.code.ts"
-import { numberedOf } from "akasha/story/chapter/narration/modules/words/narration-words.module.code.ts"
+import {
+  numberedOf,
+  shoutedOf,
+} from "akasha/story/chapter/narration/modules/words/narration-words.module.code.ts"
 import {
   proseWindowSegmentsIn,
   type WrittenWindow,
@@ -106,7 +109,7 @@ const ABBREVIATIONS: ReadonlySet<string> = new Set([
 ])
 
 const PATTERN_MARK = /[.*+?^${}()|[\]\\]/g
-const SUFFIX = "(?:['’]s|s['’]|es|s|ed|ing)?"
+const SUFFIX = "(?:['’][sS]|[sS]['’]|[eE][sS]|[sS]|[eE][dD]|[iI][nN][gG])?"
 const VOICELESS_END = /[ptkfθ]$/u
 const HISSED_END = /[szʃʒʧʤ]$/u
 const SHARP_END = /[pkfθʃsʧ]$/u
@@ -122,7 +125,8 @@ function edOn(phonemes: string): string {
   return SHARP_END.test(phonemes) ? `${phonemes}t` : `${phonemes}d`
 }
 
-function suffixed(phonemes: string, suffix: string): string {
+function suffixed(phonemes: string, ending: string): string {
+  const suffix = ending.toLowerCase()
   if (suffix === "") return phonemes
   if (suffix === "ing") return `${phonemes}ɪŋ`
   return suffix === "ed" ? edOn(phonemes) : sOn(phonemes)
@@ -136,12 +140,19 @@ function saidAs(one: Pronunciation, found: string): string {
   return one.spokenAs === undefined || one.spokenAs === "" ? found : `${one.spokenAs}${suffix}`
 }
 
+function shoutedOne(one: Pronunciation): Pronunciation {
+  return one.spokenAs === undefined ? one : { ...one, spokenAs: one.spokenAs.toUpperCase() }
+}
+
 export function respellerOf(pronunciations: readonly Pronunciation[]): (text: string) => string {
   const named = new Map(
     pronunciations
       .filter((one) => one.written !== "")
       .filter((one) => (one.phonemes ?? "") !== "" || (one.spokenAs ?? "") !== "")
-      .map((one) => [one.written, one] as const)
+      .flatMap((one) => [
+        [one.written.toUpperCase(), shoutedOne(one)] as const,
+        [one.written, one] as const,
+      ])
   )
   if (named.size === 0) return (text) => text
   const written = [...named.keys()]
@@ -330,7 +341,7 @@ export function narrationSegmentsOf(
   const respelled = respellerOf(pronunciations)
   const segments: NarrationSegment[] = []
   for (const block of blocksOf(prose)) {
-    const sentences = block.sentences.map(respelled)
+    const sentences = block.sentences.map((one) => shoutedOf(respelled(one)))
     const spokenWords = sentences.reduce((sum, one) => sum + wordCount(one), 0)
     let said = 0
     const at = (): number =>
