@@ -16,4 +16,6 @@ export const imageD6ac0d28a863cc02 = {
   height: 832,
   prompt:
     "A 24-year-old adult woman, grown woman's face with defined cheekbones and jawline, adult body proportions, Samoan with warm bronze skin, long thick black hair, a traditional band tattoo around one thigh, strong athletic build, lying back in a hammock strung between two park trees, topless with a patterned pareo wrapped at her hips, one leg dangling over the edge, ukulele resting on her stomach, eyes half closed, wide shot, soft golden-hour light filtering through leaves, alone, photorealistic, natural skin detail",
+  createdAt: "2026-09-28T21:20:34.628Z",
+  updatedAt: "2026-09-28T21:20:57.000Z",
 } as const satisfies Image

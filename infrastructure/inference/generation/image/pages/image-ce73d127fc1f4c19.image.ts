@@ -17,4 +17,6 @@ export const imageCe73d127fc1f4c19 = {
   ],
   prompt:
     "Fantasy photorealistic, candid photograph, nobody looks at the camera. Keep the place from the first image, the attic room, and put this moment on the floorboards by the wooden crate of houseplants under the round window. The pink-haired woman from the second image kneels on the bare boards in front of the crate, sitting back on her heels, leaning toward the plants as she talks to them. Her left hand rests on the edge of the crate; with the fingers of her right hand she pinches a small sprig of leaves off the top of the pot of mint. Her lips are parted mid-word, her expression earnest and fond, and she looks at the mint, not away from it. Beside the mint stand the feathery fern, the little potted lemon tree and the aloe. She is alone. She wears a plain white linen shift with thin straps that falls to her knees, bare arms, bare feet, her rose-pink hair a little tousled from sleep, no clip yet. Grey early dawn light, a little past five in the morning, comes through the round window onto her and the plants; the rest of the room is dim. Medium shot from the side at kneeling height, 35mm lens.",
+  createdAt: "2026-10-04T13:19:32.000Z",
+  updatedAt: "2026-10-04T13:19:32.000Z",
 } as const satisfies Image

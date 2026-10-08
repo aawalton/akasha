@@ -16,4 +16,6 @@ export const imageD43b4f9371651d6e = {
   height: 832,
   prompt:
     "Candid photograph of a 22-year-old adult woman, fresh youthful grown woman's face, Brazilian with golden tan skin, long dark curls, slender toned build with small breasts, topless, wearing only a tiny coral string bikini bottom, lying on her back on a white daybed by a luxury hotel pool, one arm thrown over her head, the other hand resting low on her stomach, one knee raised, eyes closed, lips slightly parted, sun oil glistening on her skin, sheer curtains, the pool glinting beyond, golden hour light, natural light, 35mm lens.",
+  createdAt: "2026-10-04T22:07:11.893Z",
+  updatedAt: "2026-10-04T22:08:29.000Z",
 } as const satisfies Image

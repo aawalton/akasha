@@ -21,4 +21,6 @@ export const imageCfd061bdede71cf1 = {
   wardrobeTags: ["wardrobe-tag/partial-undress", "wardrobe-tag/glitter-makeup"],
   ethnicityTags: ["ethnicity-tag/mixed"],
   ageTags: ["age-tag/age-25-34"],
+  createdAt: "2026-08-24T21:47:21.847Z",
+  updatedAt: "2026-09-27T15:52:40.000Z",
 } as const satisfies Image

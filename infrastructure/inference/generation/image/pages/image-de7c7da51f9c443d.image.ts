@@ -11,4 +11,6 @@ export const imageDe7c7da51f9c443d = {
   wardrobeTags: ["wardrobe-tag/armor", "wardrobe-tag/boots", "wardrobe-tag/sheet"],
   fantasyTags: ["fantasy-tag/magic"],
   ageTags: ["age-tag/age-25-34"],
+  createdAt: "2026-09-21T21:51:38.406Z",
+  updatedAt: "2026-09-27T15:52:40.000Z",
 } as const satisfies Image

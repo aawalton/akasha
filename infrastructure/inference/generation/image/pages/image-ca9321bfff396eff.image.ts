@@ -17,4 +17,6 @@ export const imageCa9321bfff396eff = {
   ],
   prompt:
     "Fantasy photorealistic candid photograph, nobody looks at the camera. Keep the place from the first image, Lanternmere, on the low stone wall above the wide lake, the last mist lifting, the half-timbered houses soft behind. The pink-haired woman from the second image sits on the wall in profile, shoulders hunched up, crying quietly, tears on her cheeks, wiping her eyes with the back of one fingerless leather glove, her eyes red and wet but her mouth set with small brave determination, looking down at the water. A small V-line face, big rose-pink doe eyes, glossy pink lips, pale porcelain skin, short rose-pink layered bob with side-swept bangs and a pink-and-white flower clip; slim build, small chest; cropped cream halter top laced up the front, short sage-green skirt, brown belt with pouches, fingerless leather gloves, tall brown boots, a small leather satchel in her lap. Soft bright late-morning light from the side. Close-up of her face and hand in profile, 85mm lens, very shallow depth of field, the lake blurred behind.",
+  createdAt: "2026-10-04T10:36:26.724Z",
+  updatedAt: "2026-10-04T10:36:27.000Z",
 } as const satisfies Image

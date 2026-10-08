@@ -21,4 +21,6 @@ export const imageDd76f1a8bf2eff75 = {
   wardrobeTags: ["wardrobe-tag/barefoot", "wardrobe-tag/nude"],
   fantasyTags: ["fantasy-tag/elf-ears", "fantasy-tag/nature-spirit", "fantasy-tag/monster-girl"],
   ageTags: ["age-tag/age-18-24"],
+  createdAt: "2026-08-24T23:32:02.644Z",
+  updatedAt: "2026-09-27T15:52:40.000Z",
 } as const satisfies Image

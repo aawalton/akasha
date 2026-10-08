@@ -16,4 +16,6 @@ export const imageD172fa594a5aa03c = {
   height: 1216,
   prompt:
     "Candid photograph of a 22-year-old adult woman, grown woman's face, Japanese with light skin, a sleek black bob, petite slender build with a small flat chest, lying on her stomach on a white-cushioned sun lounger beside a luxury hotel pool, wearing a pale lilac bikini, propped on her elbows reading a paperback, sunglasses pushed up into her hair, ankles crossed in the air, absorbed in her book, not looking at the camera, a glass of iced lemonade on the side table, a striped towel, bright midday sun, turquoise pool and palm trees behind, natural light, 35mm lens.",
+  createdAt: "2026-10-04T21:58:50.911Z",
+  updatedAt: "2026-10-04T21:59:52.000Z",
 } as const satisfies Image

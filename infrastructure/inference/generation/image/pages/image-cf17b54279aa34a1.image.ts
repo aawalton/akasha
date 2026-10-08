@@ -14,4 +14,6 @@ export const imageCf17b54279aa34a1 = {
   height: 1216,
   prompt:
     "Fantasy photorealistic, sensual and elegant. A portrait of one woman alone, a hotel concierge in her late thirties, standing behind a polished black marble reception desk in a grand, hushed art deco lobby. She is tall and long-legged, pale-skinned, with cool grey eyes, a red-painted mouth and glossy black hair pinned in a sleek chignon. She wears a fitted black concierge's jacket with a high collar and a narrow pencil skirt, a small gold key pinned at her lapel. Her posture is composed and formal, one hand resting flat on the desk, chin slightly lifted, her gaze level and direct at the viewer with a dry, barely-there hint of amusement at the corner of her mouth. Behind her rise brass pigeonhole shelves and a wall of old room keys, lit warm gold by tall frosted sconces, with deep shadows between. Soft warm lamplight on her face and throat, gleaming reflections on the marble. Framed from head to mid-thigh, vertical composition, 85mm lens, shallow depth of field, the lobby softly blurred, fine skin texture, rich blacks and golds, gentle film grain.",
+  createdAt: "2026-09-28T13:49:38.000Z",
+  updatedAt: "2026-09-28T13:49:38.000Z",
 } as const satisfies Image

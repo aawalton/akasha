@@ -16,4 +16,6 @@ export const imageD73475d3cfe25bd0 = {
   height: 1216,
   prompt:
     "Candid photograph of a 23-year-old adult woman, very petite slim build, nearly flat chest with tiny breasts, toned flat stomach, fresh youthful grown woman's face, Vietnamese, long straight black hair, wearing a black satin bunny suit corset unzipped and peeled down to her waist, tiny bare breasts, black sheer pantyhose, black bunny ears, white collar and bow tie, white cuffs, sitting on a bar counter in an empty after-hours lounge, legs dangling, mischievous smile, warm low light, 35mm lens",
+  createdAt: "2026-10-05T18:04:37.676Z",
+  updatedAt: "2026-10-05T18:05:19.000Z",
 } as const satisfies Image

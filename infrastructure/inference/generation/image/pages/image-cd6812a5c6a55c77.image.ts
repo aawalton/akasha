@@ -14,4 +14,6 @@ export const imageCd6812a5c6a55c77 = {
   height: 1216,
   prompt:
     "photorealistic fantasy portrait, a single gorgeous young Korean woman of twenty alone, framed from head to mid-thigh, with a K-pop idol's face and figure: a small V-line face, big sparkling doe eyes with soft aegyo-sal, a small delicate nose, glossy plump pink lips, flawless pale porcelain skin with a soft natural blush, a sweet innocent bright smile, adorable and alluring at once. An idol's slim figure, very slender, tiny waist, long slim legs and a small chest. Long wavy chestnut hair half up with a small bow. A cream off-shoulder knit sweater dress ending mid-thigh, bare legs, a ribbon choker. Sitting on a stone bridge wall over a canal in a fantasy city at sunset, legs crossed, soft bokeh.",
+  createdAt: "2026-10-03T13:00:06.730Z",
+  updatedAt: "2026-10-03T13:00:07.000Z",
 } as const satisfies Image

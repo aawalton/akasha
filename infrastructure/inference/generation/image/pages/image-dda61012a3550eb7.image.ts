@@ -21,4 +21,6 @@ export const imageDda61012a3550eb7 = {
   wardrobeTags: ["wardrobe-tag/shirt", "wardrobe-tag/sleeveless"],
   ethnicityTags: ["ethnicity-tag/white"],
   ageTags: ["age-tag/age-25-34"],
+  createdAt: "2026-06-30T11:09:37.395Z",
+  updatedAt: "2026-09-27T15:52:40.000Z",
 } as const satisfies Image

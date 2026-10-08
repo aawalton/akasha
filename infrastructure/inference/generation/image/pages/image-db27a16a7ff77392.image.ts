@@ -12,4 +12,6 @@ export const imageDb27a16a7ff77392 = {
   fantasyTags: ["fantasy-tag/fire", "fantasy-tag/glowing"],
   ethnicityTags: ["ethnicity-tag/white"],
   ageTags: ["age-tag/age-25-34"],
+  createdAt: "2026-09-21T21:51:22.758Z",
+  updatedAt: "2026-09-27T15:52:40.000Z",
 } as const satisfies Image

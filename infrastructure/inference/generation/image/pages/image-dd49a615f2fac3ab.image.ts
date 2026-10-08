@@ -21,4 +21,6 @@ export const imageDd49a615f2fac3ab = {
   wardrobeTags: ["wardrobe-tag/lingerie", "wardrobe-tag/slip-dress", "wardrobe-tag/bare-legs"],
   ethnicityTags: ["ethnicity-tag/white"],
   ageTags: ["age-tag/age-25-34"],
+  createdAt: "2026-06-30T11:10:27.694Z",
+  updatedAt: "2026-09-27T15:52:40.000Z",
 } as const satisfies Image

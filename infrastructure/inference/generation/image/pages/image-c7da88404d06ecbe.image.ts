@@ -12,4 +12,6 @@ export const imageC7da88404d06ecbe = {
   wardrobeTags: ["wardrobe-tag/nude", "wardrobe-tag/topless"],
   ethnicityTags: ["ethnicity-tag/white"],
   ageTags: ["age-tag/age-18-24"],
+  createdAt: "2026-09-21T21:50:45.792Z",
+  updatedAt: "2026-09-27T15:52:40.000Z",
 } as const satisfies Image

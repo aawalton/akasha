@@ -16,4 +16,6 @@ export const imageD300a78277614c20 = {
   ],
   prompt:
     "Keep this exact woman: same face, eyes, lips, skin and hair. Change the scene around her. Fantasy photorealistic, candid photograph, she does not look at the camera. She is a gorgeous, tall, willowy young Japanese woman of twenty-four with a J-pop idol's face: a fine-boned delicate oval face, high cheekbones, cool grey eyes under straight dark brows, a small straight nose, soft full lips set in a composed unsmiling line, flawless pale porcelain skin, and glossy black hair scraped smoothly back from a bare forehead, no fringe, into a severe low bun at the nape, not a strand loose. She wears a long charcoal-grey guild coat buttoned to the throat, slim dark trousers and black boots, a black leather ledger under her arm. She stands just outside a charcoal-painted door in a guild hall, upright and composed, her head inclined slightly, her cool grey eyes lowered to the ledger as she opens it in her hands. Behind her the long hall with its quest board and wooden tables, lamps lit along the beams, the morning only beginning. Warm lamplight and early morning light from the high windows. Nothing lettered. Medium shot, 50mm lens, shallow depth of field, her face sharp.",
+  createdAt: "2026-10-04T15:01:31.776Z",
+  updatedAt: "2026-10-04T15:01:32.000Z",
 } as const satisfies Image

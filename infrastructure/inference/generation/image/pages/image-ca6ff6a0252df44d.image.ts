@@ -19,4 +19,6 @@ export const imageCa6ff6a0252df44d = {
   ],
   prompt:
     "She is an adult woman. Keep her exact face, hair, eyes and every distinctive feature, including any horns, ears, markings or non-human traits. Keep her head exactly as in the reference and add no horns or features she does not have. She lies on her side on the lawn beside a bed of purple and blue irises in a park, head propped on one hand, gazing up at the sky with a dreamy half-smile, not at the camera. A rainbow-dyed chiffon sarong is wrapped around her hips and drawn up diagonally across her chest and over one shoulder, covering her chest, with her other shoulder bare; a crystal prism pendant at her throat throws tiny rainbows across her skin. Camera at her level from the front at a slight distance, bright clear afternoon sun. No other people. Photorealistic, natural skin detail.",
+  createdAt: "2026-09-28T19:33:05.211Z",
+  updatedAt: "2026-09-28T19:33:44.000Z",
 } as const satisfies Image

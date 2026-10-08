@@ -19,4 +19,6 @@ export const imageD2c5d7a3549e7ab8 = {
   ],
   prompt:
     "She is an adult woman. Keep her exact face, hair, eyes and every distinctive feature, including any horns, ears, markings or non-human traits. Keep her head exactly as in the reference and add nothing she does not have. She lies on her stomach across a low sun-warmed stone wall at the edge of a park flower garden, one arm dangling lazily toward the lavender below, cheek resting on her other forearm, eyes half-closed and content like a cat in the sun. She wears a thin saffron sarong tied as a strapless wrap that fully covers her chest and falls to mid-thigh, bare shoulders and back above it, thin silver bangles and ankle chains. Camera low from the garden side, three-quarter angle, warm mid-afternoon light, bees and lavender in the foreground blur. No other people. Photorealistic, natural skin detail.",
+  createdAt: "2026-09-28T20:08:13.098Z",
+  updatedAt: "2026-09-28T20:09:42.000Z",
 } as const satisfies Image

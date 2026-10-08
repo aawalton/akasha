@@ -16,4 +16,6 @@ export const imageDa5950352998c9b3 = {
   ],
   prompt:
     "Keep this exact woman, same face and hair. A still from a lavish fantasy film, dawn on an alien shore. She lies half-waking on her back in fine black sand at the waterline, propped on one elbow, a wave's foam sliding up around her, her long dark red hair fanned out wet across the sand. Oversized grey t-shirt damp and slipping off one shoulder, black shorts over black tights, bare feet. Low golden sun just above the sea behind her, glowing through the thin curl of each wave, which turns faintly rose and green. Gulls silhouetted. Warm golden rim light on her hair and face, cool blue shadow, mist over the water, low camera at sand level, shallow depth of field.",
+  createdAt: "2026-09-28T20:02:52.000Z",
+  updatedAt: "2026-09-28T20:02:52.000Z",
 } as const satisfies Image

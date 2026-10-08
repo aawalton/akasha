@@ -17,4 +17,6 @@ export const imageCe8ce278a875a9e3 = {
   ],
   prompt:
     "Fantasy photorealistic candid photograph, nobody looks at the camera. Keep the place from the first image, the timber guild hall, at the foot of the wide wooden staircase by the registration desk. A grey-haired, broad-shouldered East Asian woman in her fifties with a scar through one eyebrow, in a plain dark tunic and belt with a swordswoman's easy, balanced stance, stands on the bottom step looking down at the young woman before her with a long, level, measuring gaze, from head to boots. The pink-haired woman from the second image stands before her, looking up at her, hands folded on her satchel strap, nervous but polite, a small hopeful smile. A small V-line face, big rose-pink doe eyes, glossy pink lips, pale porcelain skin, short rose-pink layered bob with side-swept bangs and a pink-and-white flower clip; slim build, small chest; cropped cream halter top laced up the front, short sage-green skirt, brown belt with pouches, fingerless leather gloves, tall brown boots, a small leather satchel across her chest. Warm midday sunbeams through high windows. Medium two-shot from the side, 50mm lens, both faces clear, shallow depth of field.",
+  createdAt: "2026-10-04T10:46:58.000Z",
+  updatedAt: "2026-10-04T10:46:58.000Z",
 } as const satisfies Image

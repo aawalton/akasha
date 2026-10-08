@@ -16,4 +16,6 @@ export const imageCa67fdebe4420499 = {
   height: 1216,
   prompt:
     "Fantasy film still, photorealistic, of a 23-year-old adult woman, a rabbit-folk fantasy creature: in place of human ears she has long living rabbit ears that are part of her body, covered in short fur at the base that grows from her scalp among the roots of her hair, ears twitching and expressive, and a fluffy rabbit tail, jet black ears, very petite slim build, flat chest, A-cup, toned flat stomach, fresh youthful grown woman's face, pale skin, long straight black hair, wearing a black silk camisole and lace panties, lying on her side on a fur rug before a hearth, tail curled against her hip, ears laid back, smoldering half-lidded look, warm firelight, 50mm lens",
+  createdAt: "2026-10-05T18:21:46.506Z",
+  updatedAt: "2026-10-05T19:08:20.000Z",
 } as const satisfies Image

@@ -16,4 +16,6 @@ export const imageDfabad4097184eee = {
   height: 832,
   prompt:
     "A 23-year-old adult woman, grown woman's face with defined cheekbones and jawline, adult body proportions, Moroccan with golden-olive skin, long dark wavy hair spread across a burgundy kilim rug, kohl-lined eyes, slim fit build, lying on her back on the rug on the grass beneath a fig tree, nude, one arm stretched out overhead, the other hand holding a ripe fig to her lips, gazing up into the leaves, shot from directly above, speckled shade and sun, alone, photorealistic, natural skin detail",
+  createdAt: "2026-09-28T21:21:58.966Z",
+  updatedAt: "2026-09-28T21:22:31.000Z",
 } as const satisfies Image

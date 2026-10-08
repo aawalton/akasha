@@ -16,4 +16,6 @@ export const imageD62dd37680f4d891 = {
   ],
   prompt:
     "Keep this exact place. Fantasy photorealistic, candid photograph. Underneath the high stone arch of the old toll bridge in late morning, with no people in the frame. The view is from the riverbank under the bridge, looking along the dim green shadow beneath the arch, the old stones of the vault overhead furred with moss and ferns, dripping. The river under the arch is a wide brown shallow, still and silted, with a broad bank of pale smooth silt at one side. Lying half in the water and half on the silt bank are two great mossy grey shapes like boulders, one as big as a haycart and one smaller curled against its side, asleep, moss and weed hanging from them. Bright sunlight glares at the far mouth of the arch, the inside cool and green-lit. Nothing lettered. Eye-level view from the bank under the arch, 24mm lens, deep focus.",
+  createdAt: "2026-10-06T13:11:25.000Z",
+  updatedAt: "2026-10-06T13:11:25.000Z",
 } as const satisfies Image

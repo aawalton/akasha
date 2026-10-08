@@ -16,4 +16,6 @@ export const imageDb8b9b3bb8ddd101 = {
   wardrobeTags: ["wardrobe-tag/nude", "wardrobe-tag/topless"],
   ethnicityTags: ["ethnicity-tag/asian", "ethnicity-tag/white"],
   ageTags: ["age-tag/age-25-34"],
+  createdAt: "2026-09-21T21:52:02.384Z",
+  updatedAt: "2026-09-27T15:52:40.000Z",
 } as const satisfies Image

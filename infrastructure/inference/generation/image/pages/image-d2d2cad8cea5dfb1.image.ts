@@ -17,4 +17,6 @@ export const imageD2d2cad8cea5dfb1 = {
   ],
   prompt:
     "Fantasy photorealistic candid photograph, she does not look at the camera. Keep the place from the first image, the timber guild hall, in its dim bottom corner where old grey chalk slates hang low on hooks, a faint green haze still under the rafters. The small blonde woman from the second image, the only person in the picture, stands at the slates pinning a small paper notice into the last free space, a pin held in her teeth, smoothing the paper flat with a sooty palm, then tipping her head to look at it with a doubtful, wistful, slightly wincing expression. The notice shows only faint lines of small handwriting, nothing readable. The woman: a gorgeous small petite young Japanese woman of twenty, small round doll-like face, big bright blue eyes, tiny nose, soft pink lips, fair smooth skin with a smudge of soot across one cheek, blonde hair with wispy bangs in two long braids with singed ends, brass goggles pushed up on her head; slim build, small chest; cream blouse with rolled sleeves, a too-big scorched leather apron, a belt of corked glass vials at her waist. Warm afternoon light slanting from high windows. Medium shot in three-quarter profile, 50mm lens, her face clear.",
+  createdAt: "2026-10-04T11:49:24.713Z",
+  updatedAt: "2026-10-04T11:49:25.000Z",
 } as const satisfies Image

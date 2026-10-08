@@ -19,4 +19,6 @@ export const imageD42b174a6c869330 = {
   ],
   prompt:
     "She is an adult woman. Keep her exact face, hair, eyes and every distinctive feature, including any horns, ears, markings or non-human traits. Keep her head exactly as in the reference and add nothing she does not have. She sits cross-legged on a checked picnic blanket in a sunny park, wearing an oversized unbuttoned white linen shirt slipping off both shoulders and falling open, with nothing beneath it, and an enormous old leather-bound book held open against her chest, which covers her. She reads it intently with a furrowed, delighted frown, sunglasses pushed up into her hair, a stack of more books beside her. Low camera angle from the grass, slightly to the side, bright clear afternoon. No other people. Photorealistic, natural skin detail.",
+  createdAt: "2026-09-28T19:05:35.617Z",
+  updatedAt: "2026-09-28T19:20:34.000Z",
 } as const satisfies Image

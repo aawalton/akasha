@@ -6,4 +6,6 @@ export const imageD9519a4cd1c2b94d = {
   slug: "image-d9519a4cd1c2b94d",
   relationshipLevel: "closeness-level/level-1",
   settingTags: ["setting-tag/office"],
+  createdAt: "2026-09-21T21:51:56.074Z",
+  updatedAt: "2026-09-27T15:48:03.000Z",
 } as const satisfies Image

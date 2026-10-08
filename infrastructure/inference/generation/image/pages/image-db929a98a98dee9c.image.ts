@@ -38,4 +38,6 @@ export const imageDb929a98a98dee9c = {
   ethnicityTags: ["ethnicity-tag/white"],
   ageTags: ["age-tag/age-25-34"],
   persona: "persona/aine",
+  createdAt: "2026-07-05T12:42:30.311Z",
+  updatedAt: "2026-09-27T16:23:48.000Z",
 } as const satisfies Image

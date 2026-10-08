@@ -14,4 +14,6 @@ export const imageCe8bd15545a4008a = {
     "fantasy-tag/dragon",
     "fantasy-tag/monster-girl",
   ],
+  createdAt: "2026-09-21T21:52:02.380Z",
+  updatedAt: "2026-09-27T15:50:48.000Z",
 } as const satisfies Image

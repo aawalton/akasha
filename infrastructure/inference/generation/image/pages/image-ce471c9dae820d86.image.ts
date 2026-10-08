@@ -27,4 +27,6 @@ export const imageCe471c9dae820d86 = {
   fantasyTags: ["fantasy-tag/warrior", "fantasy-tag/weapons"],
   ethnicityTags: ["ethnicity-tag/white"],
   ageTags: ["age-tag/age-25-34"],
+  createdAt: "2026-08-17T12:28:06.468Z",
+  updatedAt: "2026-09-27T15:52:40.000Z",
 } as const satisfies Image

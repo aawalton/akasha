@@ -23,4 +23,6 @@ export const imageDe80dac7ebd8267e = {
   fantasyTags: ["fantasy-tag/elf-ears"],
   ethnicityTags: ["ethnicity-tag/asian"],
   ageTags: ["age-tag/age-18-24"],
+  createdAt: "2026-06-30T11:09:32.493Z",
+  updatedAt: "2026-09-27T15:52:40.000Z",
 } as const satisfies Image

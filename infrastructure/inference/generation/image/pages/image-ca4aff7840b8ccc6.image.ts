@@ -7,4 +7,6 @@ export const imageCa4aff7840b8ccc6 = {
   relationshipLevel: "closeness-level/level-1",
   settingTags: ["setting-tag/outdoor", "setting-tag/ruins"],
   fantasyTags: ["fantasy-tag/steampunk", "fantasy-tag/android"],
+  createdAt: "2026-09-21T21:51:38.406Z",
+  updatedAt: "2026-09-27T15:50:48.000Z",
 } as const satisfies Image

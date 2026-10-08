@@ -23,4 +23,6 @@ export const imageDab838eca87d0c62 = {
   fantasyTags: ["fantasy-tag/magic", "fantasy-tag/glowing"],
   ethnicityTags: ["ethnicity-tag/white"],
   ageTags: ["age-tag/age-25-34"],
+  createdAt: "2026-06-30T00:07:52.208Z",
+  updatedAt: "2026-09-27T15:52:40.000Z",
 } as const satisfies Image

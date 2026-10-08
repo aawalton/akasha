@@ -21,4 +21,6 @@ export const imageDb3857f916975d7b = {
   wardrobeTags: ["wardrobe-tag/dress"],
   ethnicityTags: ["ethnicity-tag/asian"],
   ageTags: ["age-tag/age-25-34"],
+  createdAt: "2026-06-30T14:48:28.512Z",
+  updatedAt: "2026-09-27T15:52:40.000Z",
 } as const satisfies Image

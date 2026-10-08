@@ -16,4 +16,6 @@ export const imageCf2dafd5baa6b531 = {
   ],
   prompt:
     "Replace the background with a black volcanic sand beach at the edge of a wild jungle island, surf breaking behind her, a smoking mountain in the far distance under a clear blue sky. Change her clothes to an oversized dark grey t-shirt slipping off one shoulder, loose black shorts over black leggings, barefoot. Change her pose: she is sitting in the sand with her knees drawn up, one arm around her knees, the other hand lifted in front of her, looking at it in confusion. Relight her with bright harsh tropical sunlight from above to match the beach. Keep her face, freckles and hair identical.",
+  createdAt: "2026-09-28T20:02:06.920Z",
+  updatedAt: "2026-09-28T20:02:07.000Z",
 } as const satisfies Image

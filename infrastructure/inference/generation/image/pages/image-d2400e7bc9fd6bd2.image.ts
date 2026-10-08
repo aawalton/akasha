@@ -7,4 +7,6 @@ export const imageD2400e7bc9fd6bd2 = {
   title: "Gouda and Havarti Cheese",
   relationshipLevel: "closeness-level/level-1",
   settingTags: ["setting-tag/indoor"],
+  createdAt: "2026-09-21T21:55:35.111Z",
+  updatedAt: "2026-09-27T15:48:03.000Z",
 } as const satisfies Image

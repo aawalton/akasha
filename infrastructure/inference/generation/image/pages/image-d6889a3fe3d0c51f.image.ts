@@ -12,4 +12,6 @@ export const imageD6889a3fe3d0c51f = {
   fantasyTags: ["fantasy-tag/wings", "fantasy-tag/monster-girl", "fantasy-tag/magic"],
   ethnicityTags: ["ethnicity-tag/asian"],
   ageTags: ["age-tag/age-25-34"],
+  createdAt: "2026-09-21T21:51:22.757Z",
+  updatedAt: "2026-09-27T15:52:40.000Z",
 } as const satisfies Image

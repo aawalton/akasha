@@ -22,4 +22,6 @@ export const imageD87524eccde43fab = {
   fantasyTags: ["fantasy-tag/dragon-horns", "fantasy-tag/golden-eyes"],
   ethnicityTags: ["ethnicity-tag/asian"],
   ageTags: ["age-tag/age-25-34"],
+  createdAt: "2026-07-16T13:40:50.967Z",
+  updatedAt: "2026-09-27T15:52:40.000Z",
 } as const satisfies Image

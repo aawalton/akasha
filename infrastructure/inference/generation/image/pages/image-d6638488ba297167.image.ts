@@ -14,4 +14,6 @@ export const imageD6638488ba297167 = {
   height: 1216,
   prompt:
     "fantasy photorealistic interior of a grand old public bathhouse under a great green copper dome, a wide steaming warm pool of turquoise water in the center, cream and teal tiled floors and walls, brass fittings and lion-head spouts, arched colonnade around the pool, soft daylight falling through round glass windows in the dome, wisps of steam in the air, no people, empty scene",
+  createdAt: "2026-10-04T15:39:16.000Z",
+  updatedAt: "2026-10-04T15:39:16.000Z",
 } as const satisfies Image

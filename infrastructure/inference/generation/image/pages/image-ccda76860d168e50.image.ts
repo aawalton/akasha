@@ -14,4 +14,6 @@ export const imageCcda76860d168e50 = {
   height: 1216,
   prompt:
     "Fantasy photorealistic photograph. The edge of the Glasswood, a magical wood where every tree is made of clear crystal glass, empty of people. The trunks, branches and twigs are transparent glass like blown crystal, you can see through them, refracting the last dusk light into small rainbows and sparkling highlights, with delicate pale glassy leaves above. A worn cart track comes out of summer meadows and stops at a line of white-painted wooden posts along the edge of the glass trees. In shady hollows among the clear glass roots, clusters of small pale blue bell-shaped moonbell flowers are just opening and glowing faintly. A few glimmer moths with glass wings drift between the trunks. Shards of fallen glass glint in the grass. To one side stands a small empty ranger's hut of grey timber with a turf roof and a closed door. The sky is deep violet and rose at dusk, with the first stars, and a low silver mist lies between the trees. Enchanted, quiet, beautiful and a little eerie. Eye-level wide shot from the meadow, 28mm lens, deep depth of field, soft dusk light with glowing accents, rich detail, no people, no text.",
+  createdAt: "2026-10-04T09:25:57.655Z",
+  updatedAt: "2026-10-04T09:25:58.000Z",
 } as const satisfies Image

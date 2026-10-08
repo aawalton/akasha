@@ -28,4 +28,6 @@ export const imageD1c10d4a2b708661 = {
   ],
   ethnicityTags: ["ethnicity-tag/asian"],
   ageTags: ["age-tag/age-25-34"],
+  createdAt: "2026-07-02T15:38:25.586Z",
+  updatedAt: "2026-09-27T15:52:40.000Z",
 } as const satisfies Image

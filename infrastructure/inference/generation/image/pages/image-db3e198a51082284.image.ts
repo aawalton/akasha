@@ -21,4 +21,6 @@ export const imageDb3e198a51082284 = {
   fantasyTags: ["fantasy-tag/unusual-eyes"],
   ethnicityTags: ["ethnicity-tag/white"],
   ageTags: ["age-tag/age-18-24"],
+  createdAt: "2026-06-30T11:10:29.787Z",
+  updatedAt: "2026-09-27T15:59:30.000Z",
 } as const satisfies Image

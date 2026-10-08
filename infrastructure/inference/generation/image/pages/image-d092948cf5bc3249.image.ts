@@ -16,4 +16,6 @@ export const imageD092948cf5bc3249 = {
   ],
   prompt:
     "Keep this exact woman: same face, eyes, lips, skin and hair. Change the scene around her. Fantasy photorealistic. She is a tall, slim young woman of twenty-one with deep brown skin, bright dark eyes, high cheekbones, neatly shaped dark brows and a full mouth, her long black box braids gathered up high on her head in a ponytail. She wears a long tailored camel wool coat, open, over a fitted black knit jumper and black tailored trousers, small gold hoop earrings catching the sun, and a gold watch on her wrist. She leans one shoulder against the stone frame of a tall arched oak door, arms loosely folded, weight on one hip, one beautifully shaped brow raised high, her mouth curving in a delighted, amused smile, her eyes looking slightly off to the side of the camera as if watching someone walk past her. Behind her is the arched entrance of an old stone college great hall, its heavy oak doors open onto a dim interior, with a wet lawn and puddled path of a quad in front. Bright cold clean morning sunlight after a storm, a hard blue sky, sun low and from the side. Three-quarter length portrait, 85mm lens, shallow depth of field, she fills the frame.",
+  createdAt: "2026-10-02T22:37:28.000Z",
+  updatedAt: "2026-10-02T22:37:28.000Z",
 } as const satisfies Image

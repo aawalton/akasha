@@ -18,4 +18,6 @@ export const imageDb438c9d4d9c03ed = {
   wardrobeTags: ["wardrobe-tag/jacket", "wardrobe-tag/shirt", "wardrobe-tag/suit"],
   ethnicityTags: ["ethnicity-tag/white"],
   ageTags: ["age-tag/age-25-34"],
+  createdAt: "2026-06-30T11:09:28.402Z",
+  updatedAt: "2026-09-27T15:52:40.000Z",
 } as const satisfies Image

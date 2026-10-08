@@ -21,4 +21,6 @@ export const imageC9246bf179f0161f = {
   wardrobeTags: ["wardrobe-tag/bikini", "wardrobe-tag/topless"],
   ethnicityTags: ["ethnicity-tag/white"],
   ageTags: ["age-tag/age-18-24"],
+  createdAt: "2026-07-03T16:41:55.199Z",
+  updatedAt: "2026-09-27T15:52:40.000Z",
 } as const satisfies Image
