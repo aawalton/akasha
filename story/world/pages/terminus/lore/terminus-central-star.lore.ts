@@ -45,6 +45,18 @@ export const terminusCentralStar = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
+      fact: "The central star's X-ray output behaves in complex ways, like a cellular automaton.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The X-ray output holds long, steady stretches in which local patterns repeat.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Chaotic phase changes across the whole star break up those steady stretches.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
       fact: "The central star sheds a great many neutrinos, which pass through almost everything.",
       knowers: ["lore-disclosure/game-master"],
     },
@@ -90,5 +102,5 @@ export const terminusCentralStar = {
     },
   ],
   createdAt: "2026-10-08T19:28:35.009Z",
-  updatedAt: "2026-10-08T19:28:35.009Z",
+  updatedAt: "2026-10-08T20:29:40.931Z",
 } as const satisfies Lore
