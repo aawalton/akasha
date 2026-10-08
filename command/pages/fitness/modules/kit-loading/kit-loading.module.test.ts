@@ -12,6 +12,7 @@ import { dumbbell } from "akasha/alan/value/health/fitness/strength/exercise/imp
 import { strengthExerciseImplement } from "akasha/alan/value/health/fitness/strength/exercise/implement/strength-exercise-implement.page-type.ts"
 import {
   coveredBy,
+  EVERY_STEP,
   type Gym,
   gymOn,
   gymsIn,
@@ -20,6 +21,7 @@ import {
   kitAt,
   kitIn,
   loadsFor,
+  nextLoadFor,
   topLoadFor,
 } from "akasha/command/pages/fitness/modules/kit-loading/kit-loading.module.code.ts"
 
@@ -74,6 +76,22 @@ test("a gym holding every implement covers every implement and offers no top loa
   const kit = kitAt(EVERY, PIECES, [dumbbell.slug, barbell.slug])
   expect(coveredBy(kit)).toEqual(new Set([dumbbell.slug, barbell.slug]))
   expect(topLoadFor(kit, dumbbell.slug)).toBe(null)
+})
+
+test("the next load up is the lightest load the kit lists above the weight", () => {
+  expect(nextLoadFor(KIT, dumbbell.slug, 20)).toBe(25)
+  expect(nextLoadFor(KIT, dumbbell.slug, 22)).toBe(25)
+})
+
+test("kit listing no load above a weight has no next load up from it", () => {
+  expect(nextLoadFor(KIT, dumbbell.slug, 30)).toBe(null)
+  expect(nextLoadFor(KIT, barbell.slug, 30)).toBe(null)
+})
+
+test("at a gym holding every implement, the next load up is 5 lb past the weight", () => {
+  const kit = kitAt(EVERY, PIECES, [dumbbell.slug, barbell.slug])
+  expect(EVERY_STEP).toBe(5)
+  expect(nextLoadFor(kit, dumbbell.slug, 30)).toBe(35)
 })
 
 test("a gym is read with the pieces it holds", () => {

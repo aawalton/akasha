@@ -38,6 +38,26 @@ export const kitLoading = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "The next load up from a weight is the lightest load the kit lists above it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "At a gym holding every implement, the next load up is 5 lb past the weight.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A step of 5 lb is the step between dumbbells or kettlebells in a rack.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A weight is the load on one implement, so 5 lb past it is 5 lb on each.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Kit listing no load above a weight has no next load up from it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A gym no page names is refused rather than read as home.",
     },
   ],

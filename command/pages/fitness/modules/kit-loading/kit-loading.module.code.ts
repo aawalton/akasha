@@ -14,9 +14,12 @@ const KIT_TYPE = "fitness-equipment"
 
 export const HOME: string = home.slug
 
+export const EVERY_STEP = 5
+
 export type Kit = {
   readonly covers: readonly string[]
   readonly loads: readonly number[]
+  readonly step?: number
 }
 
 export type Gym = {
@@ -52,6 +55,13 @@ export function topLoadFor(kit: readonly Kit[], implement: string): number | nul
   return loads.length === 0 ? null : Math.max(...loads)
 }
 
+export function nextLoadFor(kit: readonly Kit[], implement: string, weight: number): number | null {
+  const heavier = loadsFor(kit, implement).filter((one) => one > weight)
+  if (heavier.length > 0) return Math.min(...heavier)
+  const step = kit.find((one) => one.covers.includes(implement) && one.step !== undefined)?.step
+  return step === undefined ? null : weight + step
+}
+
 export function gymsIn(pages: readonly Value[]): ReadonlyMap<string, Gym> {
   const held = new Map<string, Gym>()
   for (const one of pages) {
@@ -80,7 +90,7 @@ export function kitAt(
   pages: readonly Value[],
   implementsNamed: readonly string[]
 ): readonly Kit[] {
-  if (at.everyImplement) return [{ covers: implementsNamed, loads: [] }]
+  if (at.everyImplement) return [{ covers: implementsNamed, loads: [], step: EVERY_STEP }]
   return kitIn(pages.filter((one) => at.holds.includes(textAt(one, "slug") ?? "")))
 }
 
