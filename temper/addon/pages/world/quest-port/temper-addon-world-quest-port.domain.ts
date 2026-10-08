@@ -6,7 +6,7 @@ export const temperAddonWorldQuestPort = {
   slug: "temper-addon-world-quest-port",
   definition:
     "a keybind porting the player to the travel point nearest the focused quest's objective",
-  parts: ["module/quest-port-choose", "module/quest-port"],
+  parts: ["module/quest-port-choose", "module/quest-port", "module/quest-port-capture"],
   decisions: [
     {
       decisionKind: "decision-kind/departure",
@@ -14,5 +14,5 @@ export const temperAddonWorldQuestPort = {
     },
   ],
   createdAt: "2026-10-08T14:52:54.474Z",
-  updatedAt: "2026-10-08T14:55:27.000Z",
+  updatedAt: "2026-10-08T17:01:40.762Z",
 } as const satisfies Domain
