@@ -12,5 +12,4 @@ export const nova = {
   onCall: true,
   registrationAccount: "model-account/aawalton",
   claudeCodeSessionUuid: "aaa923b2-caef-4d01-89d4-61180e0cc49a",
-  updatedAt: "2026-10-08T15:38:20.476Z",
 } as const satisfies Seat
