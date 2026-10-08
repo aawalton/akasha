@@ -12,7 +12,6 @@ export const world = {
   extends: ["page-type/page"],
   runsTabooCheck: false,
   parts: [
-    "domain/terminus",
     "number-property/appearance-count",
     "page-property-entry/character-readings",
     "page-property-entry/mechanic-readings",
@@ -55,6 +54,6 @@ export const world = {
   ],
   types: "ts",
   schema: "jsonl",
-  updatedAt: "2026-10-08T18:58:21.637Z",
+  updatedAt: "2026-10-08T19:01:44.822Z",
   createdAt: "2026-09-02T20:27:45.046Z",
 } as const satisfies PageType
