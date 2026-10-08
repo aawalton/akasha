@@ -48,7 +48,7 @@ const JPEG = "image/jpeg"
 
 const BYTES_HELD = 12 * 1024 * 1024
 
-const MESSAGE_PAGE_TYPE_SLUG = "message"
+const MESSAGE_PAGE_TYPE_SLUG = "agent-message"
 
 const SEAT_PAGE_TYPE_SLUG = "seat"
 
