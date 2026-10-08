@@ -101,6 +101,14 @@ export const terminusManaAndEssence = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
+      fact: "A forest, a tree or a mushroom can wake up into sentience.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Simpler life refines essence more slowly, so it takes longer to wake into sentience.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
       fact: "Essence is measured in bits, one bit of essence for each bit of mana refined.",
       knowers: ["lore-disclosure/game-master"],
     },
@@ -126,5 +134,5 @@ export const terminusManaAndEssence = {
     },
   ],
   createdAt: "2026-10-08T19:29:42.035Z",
-  updatedAt: "2026-10-08T21:15:29.889Z",
+  updatedAt: "2026-10-08T21:16:53.522Z",
 } as const satisfies Lore
