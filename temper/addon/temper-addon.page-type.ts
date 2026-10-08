@@ -201,6 +201,10 @@ export const temperAddon = {
       decisionKind: "decision-kind/departure",
       statement: "A table gathered from many runs is gathered a few runs at a time.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Temper may ship every addon Temper ported from another author.",
+    },
   ],
   types: "ts",
   schema: "jsonl",
