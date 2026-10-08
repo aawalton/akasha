@@ -8,4 +8,5 @@ export const joseph = {
   spellings: [{ partOfSpeech: "part-of-speech/proper-noun", spelling: "Joseph" }],
   answeredBy: "persona/claude",
   phone: "+18016363076",
+  email: "josephdoggy7@gmail.com",
 } as const satisfies Person
