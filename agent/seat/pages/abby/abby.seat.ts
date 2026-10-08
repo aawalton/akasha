@@ -9,7 +9,8 @@ export const abby = {
   role: "role/interviewer",
   person: "person/alan",
   startMode: "seat-mode/interactive",
-  onCall: false,
+  onCall: true,
   registrationAccount: "model-account/aawalton",
   claudeCodeSessionUuid: "1e1306eb-3b76-431a-a4e8-85caff835807",
+  updatedAt: "2026-10-08T15:28:52.500Z",
 } as const satisfies Seat
