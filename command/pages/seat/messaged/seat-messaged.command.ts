@@ -31,7 +31,7 @@ export const seatMessaged = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A run states which persona was marked and at what moment.",
+      statement: "A run states the persona the named seat states and the moment of the run.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -43,7 +43,26 @@ export const seatMessaged = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A day with no page filed under it leaves the mark kept and earns no point.",
+      statement:
+        "A day with no page filed under it earns no point and changes nothing of the mark.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A run keeps the last-messaged mark only at a seat the Agents panel draws under the personas.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A run at a handler's seat or a story's seat leaves the mark as it was and says so.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A seat's section is read by the seat section module, as the editor reads it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A run raises the count and keeps the points whatever section the seat is under.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -77,4 +96,5 @@ export const seatMessaged = {
   ],
   name: "messaged",
   arguments: [{ argument: "argument/seat", required: true, saidAs: "word" }],
+  updatedAt: "2026-10-08T14:57:21.534Z",
 } as const satisfies Command

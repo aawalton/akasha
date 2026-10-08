@@ -2,5 +2,6 @@
 {"propertySlug":"import","fileName":"seat-section.computed-property-module.code.ts","path":"agent/seat/properties/seat-section.computed-property.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"seat-section.computed-property-module.code.ts","path":"agent/seat/properties/seat-section.computed-property.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"seat-section.computed-property-module.code.ts","path":"code/editor/extension/modules/agent-forest/agent-forest.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"seat-section.computed-property-module.code.ts","path":"command/pages/seat/messaged/seat-messaged.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"seat-section.computed-property-module.code.ts","path":"domain/context/modules/agent-stated/agent-stated.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"agent/seat/fleet/seat-fleet.domain.ts","id":"01a09c4c-951f-79d4-a631-988b1c54b8eb"}
