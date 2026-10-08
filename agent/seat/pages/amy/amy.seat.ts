@@ -12,6 +12,4 @@ export const amy = {
   onCall: true,
   registrationAccount: "model-account/aawalton",
   claudeCodeSessionUuid: "548d34bc-baac-4b98-ac22-3ff0ba37a022",
-  createdAt: "2026-10-08T15:00:09.665Z",
-  updatedAt: "2026-10-08T15:00:09.665Z",
 } as const satisfies Seat
