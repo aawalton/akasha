@@ -1,5 +1,4 @@
 import type { NearFailureRpeFloor } from "akasha/alan/value/health/fitness/selection-policy/properties/near-failure-rpe-floor.number-property.types.ts"
-import type { NoveltyCapPerSession } from "akasha/alan/value/health/fitness/selection-policy/properties/novelty-cap-per-session.number-property.types.ts"
 import type { SecondsHoldingStretch } from "akasha/alan/value/health/fitness/selection-policy/properties/seconds-holding-stretch.number-property.types.ts"
 import type { StretchesCoolingDown } from "akasha/alan/value/health/fitness/selection-policy/properties/stretches-cooling-down.number-property.types.ts"
 import type { VolumeTargetFall } from "akasha/alan/value/health/fitness/selection-policy/properties/volume-target-fall.number-property.types.ts"
@@ -11,7 +10,6 @@ import type { WeeklySetFloor } from "akasha/alan/value/health/fitness/selection-
 import type { Page } from "akasha/page/page.page-type.types.ts"
 
 export type SelectionPolicy = Page & {
-  noveltyCapPerSession: NoveltyCapPerSession
   weeklySetFloor: WeeklySetFloor
   weeklySetCeiling: WeeklySetCeiling
   nearFailureRpeFloor: NearFailureRpeFloor

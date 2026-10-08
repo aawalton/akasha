@@ -8,7 +8,6 @@ export const selectionPolicy = {
   extends: ["page-type/page"],
   parts: [
     "number-property/near-failure-rpe-floor",
-    "number-property/novelty-cap-per-session",
     "number-property/weekly-set-ceiling",
     "number-property/weekly-set-floor",
     "number-property/stretches-cooling-down",
@@ -19,7 +18,6 @@ export const selectionPolicy = {
     "calendar-date-property/volume-target-from",
   ],
   properties: [
-    { pageProperty: "number-property/novelty-cap-per-session", required: true, many: false },
     { pageProperty: "number-property/weekly-set-floor", required: true, many: false },
     { pageProperty: "number-property/weekly-set-ceiling", required: true, many: false },
     { pageProperty: "number-property/near-failure-rpe-floor", required: true, many: false },
@@ -56,5 +54,5 @@ export const selectionPolicy = {
   ],
   types: "ts",
   schema: "jsonl",
-  updatedAt: "2026-10-08T15:16:59.673Z",
+  updatedAt: "2026-10-08T15:18:52.474Z",
 } as const satisfies PageType

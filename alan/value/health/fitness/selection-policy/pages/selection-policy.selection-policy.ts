@@ -4,7 +4,6 @@ export const selectionPolicy = {
   id: "01a06862-a02e-7416-95e5-bb41af7c60d1",
   type: "page-type/selection-policy",
   slug: "selection-policy",
-  noveltyCapPerSession: 1,
   weeklySetFloor: 6,
   weeklySetCeiling: 12,
   nearFailureRpeFloor: 7,
@@ -14,5 +13,5 @@ export const selectionPolicy = {
   volumeTargetRise: 20,
   volumeTargetFall: 100,
   volumeTargetFrom: "2026-09-21",
-  updatedAt: "2026-10-08T15:16:59.673Z",
+  updatedAt: "2026-10-08T15:18:52.474Z",
 } as const satisfies SelectionPolicy
