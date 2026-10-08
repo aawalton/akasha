@@ -77,6 +77,11 @@ export const narrationSegments = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "A word whose pronunciation states phonemes is handed on in Kokoro's markup with those phonemes.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A word broken off before its first vowel is said with an added uh.",
     },
     {
@@ -93,6 +98,6 @@ export const narrationSegments = {
         "A word is counted as the chapter's length counts it, markup and window lines too.",
     },
   ],
-  updatedAt: "2026-10-08T16:01:46.396Z",
+  updatedAt: "2026-10-08T17:46:36.290Z",
   createdAt: "2026-10-05T20:29:00.386Z",
 } as const satisfies Module

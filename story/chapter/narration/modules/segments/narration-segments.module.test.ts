@@ -154,6 +154,23 @@ describe("narrationSegmentsOf", () => {
     ])
   })
 
+  test("a pronounced word stating phonemes is marked up with them, whole and in the case written", () => {
+    const pronounced = [
+      { written: "Oteslia", spokenAs: "Oh-tess-lia", phonemes: "ˌOtˈɛsliə" },
+      { written: "Klbkch", phonemes: "kˈɪlbkɪʧ" },
+      { written: "Nobody", phonemes: "" },
+      { written: "Nothing" },
+    ]
+    const said = (prose: string): string[] =>
+      narrationSegmentsOf(prose, pronounced).map((one) => one.text)
+    expect(
+      said("Start.\nKlbkch's road to Oteslia, not oteslia or Otesliana. Nobody saw Nothing.")
+    ).toEqual([
+      "Start.",
+      "[Klbkch](/kˈɪlbkɪʧ/)'s road to [Oteslia](/ˌOtˈɛsliə/), not oteslia or Otesliana. Nobody saw Nothing.",
+    ])
+  })
+
   test("a word broken off before its vowel is said with one", () => {
     expect(texts("Start.\n“Wh—” She stopped. “Th... that’s it. Str– no.”")).toEqual([
       "Start.",

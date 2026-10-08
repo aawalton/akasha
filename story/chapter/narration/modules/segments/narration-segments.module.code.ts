@@ -10,7 +10,11 @@ import { wordCount } from "akasha/story/engine/core/modules/word-count/word-coun
 
 export type NarrationSegment = { text: string; pauseAfterMs: number; wordStart: number }
 
-export type Pronunciation = { readonly written: string; readonly spokenAs: string }
+export type Pronunciation = {
+  readonly written: string
+  readonly spokenAs?: string
+  readonly phonemes?: string
+}
 
 type Source = { readonly wordStart: number; readonly words: number }
 
@@ -128,9 +132,18 @@ function brokenOff(fragment: string): string {
 
 const PATTERN_MARK = /[.*+?^${}()|[\]\\]/g
 
+function saidAs(one: Pronunciation): string {
+  if (one.phonemes !== undefined && one.phonemes !== "") {
+    return `[${one.written}](/${one.phonemes}/)`
+  }
+  return one.spokenAs ?? ""
+}
+
 export function respellerOf(pronunciations: readonly Pronunciation[]): (text: string) => string {
   const respellings = new Map(
-    pronunciations.filter((one) => one.written !== "").map((one) => [one.written, one.spokenAs])
+    pronunciations
+      .map((one) => [one.written, saidAs(one)] as const)
+      .filter(([key, said]) => key !== "" && said !== "")
   )
   if (respellings.size === 0) return (text) => text
   const written = [...respellings.keys()]
