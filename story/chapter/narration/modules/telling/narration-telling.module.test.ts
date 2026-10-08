@@ -22,6 +22,15 @@ describe("spokenSegmentsOf", () => {
     expect(said.map((one) => one.text)).toEqual(["Interlude – Kilbkich", "Kilbkich nodded."])
   })
 
+  test("the title and the prose say a word stating phonemes in Kokoro's markup", () => {
+    const pronounced = [{ written: "Klbkch", spokenAs: "Kilbkich", phonemes: "kˈɪlbkɪʧ" }]
+    const said = spokenSegmentsOf("Interlude – Klbkch", "Klbkch nodded.", undefined, pronounced)
+    expect(said.map((one) => one.text)).toEqual([
+      "Interlude – [Klbkch](/kˈɪlbkɪʧ/)",
+      "[Klbkch](/kˈɪlbkɪʧ/) nodded.",
+    ])
+  })
+
   test("a chapter with no title starts with its prose", () => {
     expect(spokenSegmentsOf("  ", "She ran.")).toEqual([
       { text: "She ran.", pauseAfterMs: 900, wordStart: 0 },
@@ -62,6 +71,12 @@ describe("withSentences", () => {
       { text: "Six.", pauseAfterMs: 900, wordStart: 15 },
     ])
     expect(one?.sentences).toEqual([[9, 12]])
+  })
+
+  test("a sentence after a word in Kokoro's markup starts at its character in the marked text", () => {
+    const text = "[Klbkch](/kˈɪlbkɪʧ/) nodded. He left."
+    const [one] = withSentences([{ text, pauseAfterMs: 150, wordStart: 0 }])
+    expect(one?.sentences).toEqual([[text.indexOf("He left."), 2]])
   })
 
   test("a segment of one sentence, or a title, starts no sentence of its own", () => {

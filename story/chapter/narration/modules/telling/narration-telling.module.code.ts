@@ -197,13 +197,21 @@ async function pronunciationsOf(world: string | null): Promise<readonly Pronunci
   const found = await askingFor({
     pageTypeSlug: "pronunciation",
     where: { world: { is: world } },
-    keys: ["title", "spokenAs"],
+    keys: ["title", "spokenAs", "phonemes"],
   })
   if ("refused" in found) return []
   return found.rows.flatMap((row) => {
     const written = textIn(row.title)
     const spokenAs = textIn(row.spokenAs)
-    return written === null || spokenAs === null ? [] : [{ written, spokenAs }]
+    const phonemes = textIn(row.phonemes)
+    if (written === null || (spokenAs === null && phonemes === null)) return []
+    return [
+      {
+        written,
+        ...(spokenAs === null ? {} : { spokenAs }),
+        ...(phonemes === null ? {} : { phonemes }),
+      },
+    ]
   })
 }
 

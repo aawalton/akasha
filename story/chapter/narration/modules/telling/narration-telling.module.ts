@@ -22,6 +22,10 @@ export const narrationTelling = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A sentence's character is counted in the text handed on, markup and all.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A chapter starts at the segment holding its read progress.",
     },
     {
@@ -72,6 +76,6 @@ export const narrationTelling = {
       statement: "A refusal by the speech workload reaches Alan with the reason it gave.",
     },
   ],
-  updatedAt: "2026-10-08T16:01:46.396Z",
+  updatedAt: "2026-10-08T17:47:13.266Z",
   createdAt: "2026-10-05T20:36:00.748Z",
 } as const satisfies Module
