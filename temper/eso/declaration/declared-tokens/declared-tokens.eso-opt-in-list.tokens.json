@@ -16,6 +16,7 @@
     "AreId64sEqual",
     "AreUnitsEqual",
     "BestowSubclassingQuest",
+    "BindItem",
     "BitAnd",
     "BitLShift",
     "BitOr",
