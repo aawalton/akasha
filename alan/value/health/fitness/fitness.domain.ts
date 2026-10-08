@@ -17,11 +17,11 @@ export const fitness = {
     {
       directiveKind: "directive-kind/rule",
       name: "Planned Day",
-      act: "Plan the day's whole workout before Alan's first set, for the day's focus and under its pound limit.",
+      act: "Plan the day's whole workout before Alan's first set, for the day's focus and up to its pound limit.",
       warrant:
-        "Alan carries no decisions in a session, and a workout chosen set by set drifts past the limit.",
+        "Alan carries no decisions in a session, and a workout chosen set by set drifts off the limit.",
       aids: [
-        "The pound limit is a ceiling, never a minimum to reach.",
+        "End the plan on the set that crosses the pound limit.",
         "Leave warming up and cooling down out of the plan; Alan handles them.",
         "Plan around every movement restriction and coaching note.",
         "Read the limit and what is lifted from `akasha fitness today`.",
@@ -41,5 +41,5 @@ export const fitness = {
       ],
     },
   ],
-  updatedAt: "2026-10-08T15:22:43.718Z",
+  updatedAt: "2026-10-08T15:23:59.696Z",
 } as const satisfies Domain
