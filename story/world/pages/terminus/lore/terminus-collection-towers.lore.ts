@@ -137,6 +137,30 @@ export const terminusCollectionTowers = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
+      fact: "An Administrator holds their tower until someone else conquers it from them.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "An Administrator can hold only a single tower at a time.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "An Administrator is barred from entering any tower ranked lower than their own.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The only way onward for an Administrator is up, to a higher-ranked tower.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The Administrator of tower #1 has the right to take the Trial of Ascension.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Passing the Trial of Ascension lets one follow the Builders beyond the mortal plane.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
       fact: "Each collection tower reaches through the whole thickness of the shell.",
       knowers: ["lore-disclosure/game-master"],
     },
@@ -262,5 +286,5 @@ export const terminusCollectionTowers = {
     },
   ],
   createdAt: "2026-10-08T19:30:37.295Z",
-  updatedAt: "2026-10-08T20:58:09.024Z",
+  updatedAt: "2026-10-08T21:00:02.790Z",
 } as const satisfies Lore
