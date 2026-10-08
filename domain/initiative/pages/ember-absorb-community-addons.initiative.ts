@@ -8,11 +8,6 @@ export const emberAbsorbCommunityAddons = {
   persona: "persona/ember",
   intentStack: [
     {
-      statement: "What Crutch Alerts does, temper-addon-combat does.",
-      workingMemory:
-        "CrutchAlerts 2.26.0 is ESOUI file 3137. The port is every combat-alerts module of temper-addon-combat and is deployed. Every PC file is ported. Left is seeing the alerts, the boss bars and the drawings in a fight.",
-    },
-    {
       statement: "What Pithka's Achievement Tracker does, temper-addon-characters does.",
       workingMemory:
         "Pithka's Achievement Tracker 9.17 is ESOUI file 2892. The port is every pithka module of temper-addon-characters and is deployed. Left is seeing in game the completion icons, the QR tray and the trial scores, which the pictures showed locked, missing and blank.",
