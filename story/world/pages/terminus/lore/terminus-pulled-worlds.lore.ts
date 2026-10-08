@@ -25,6 +25,14 @@ export const terminusPulledWorlds = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
+      fact: "The System pulls in a whole planet at once.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "A pulled planet is peeled apart, and its pieces are moved to where they are needed.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
       fact: "The System places pulled worlds to keep gravity, mana and life in balance.",
       knowers: ["lore-disclosure/game-master"],
     },
@@ -60,7 +68,15 @@ export const terminusPulledWorlds = {
       fact: "Resonance is why The Terminus holds worlds pulled from many places and stories.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Resonance only builds up when the stories have a deep history behind them.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Mythologies have enough history to resonate; recent fiction does not.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   createdAt: "2026-10-08T20:12:12.793Z",
-  updatedAt: "2026-10-08T20:12:12.793Z",
+  updatedAt: "2026-10-08T20:13:34.537Z",
 } as const satisfies Lore
